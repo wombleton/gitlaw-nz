@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the New Zealand Police.
 
@@ -168,7 +168,7 @@ This Act is administered by the New Zealand Police.
 
 [53][71][][71][Killing or injuring Police dogs][71]
 
-[54][72][][72][Offences triable summarily][72]
+[54][72][][72][Offences triable summarily][72] \[Repealed\]
 
 [Part 4][73]  
 [Provisions relating to employment of Police employees][73]
@@ -816,7 +816,7 @@ Organisation and governance
     
     *   (c) omit a specified policing role.
     
-    (2) An Order in Council made under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989\.
+    (2) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][195] and must be presented to the House of Representatives under [section 41][196] of that Act.
     
     (3) An Order in Council made under subsection (1),---
         
@@ -825,6 +825,8 @@ Organisation and governance
     *   (b) if made on or after 1 July in any year, expires on the close of 31 December in the following year unless it is expressly confirmed by Act of Parliament passed before the end of that following year.
     
     (4) The expiry of an Order in Council made under subsection (1) does not affect the validity of any act done pursuant to, or in accordance with, the Order in Council before the Order in Council expires.
+    
+    Section 27(2): replaced, on 5 August 2013, by [section 77(3)][197] of the Legislation Act 2012 (2012 No 119).
 
 ### Subpart 4---General instructions
 
@@ -838,7 +840,7 @@ Organisation and governance
     
     (4) If there is any inconsistency between general instructions and the provisions of any manual or circular issued under the Commissioner's authority, or any local order, the general instructions prevail.
     
-    Compare: 1958 No 109 [s 30(1), (1A), (2)][195]
+    Compare: 1958 No 109 [s 30(1), (1A), (2)][198]
 
 ##### 29 Communication of general instructions
     
@@ -858,7 +860,7 @@ Organisation and governance
     
     *   (c) by distribution by any other form of technology that allows the dissemination of the material in question to Police employees.
     
-    Compare: 1958 No 109 [s 30(3), (4)][195]
+    Compare: 1958 No 109 [s 30(3), (4)][198]
 
 ### Subpart 5---Command and control of Police
 
@@ -892,7 +894,7 @@ Organisation and governance
     
     *   (b) is an employee within the meaning of [section 91][121].
     
-    Compare: SR 1992/14 [r 5][196]
+    Compare: SR 1992/14 [r 5][199]
 
 ##### 31 Commissioner may take charge of policing operation
     
@@ -927,7 +929,7 @@ Powers, operations, and offences
         
     *   (a) commits an offence; and
     
-    *   (b) is liable to imprisonment for a term not exceeding 6 months, to a fine not exceeding $5,000, or to both.
+    *   (b) is liable on conviction to imprisonment for a term not exceeding 6 months, to a fine not exceeding $5,000, or to both.
     
     (5) In this section and [section 33][46],---
     
@@ -941,7 +943,9 @@ Powers, operations, and offences
     
     _place_ includes any land, building, premises, or vehicle.
     
-    Compare: 1958 No 109 [s 57(1), (2)][197]
+    Compare: 1958 No 109 [s 57(1), (2)][200]
+    
+    Section 32(4)(b): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 33 Identifying particulars for summons
     
@@ -963,9 +967,11 @@ Powers, operations, and offences
         
     *   (a) commits an offence; and
     
-    *   (b) is liable to imprisonment for a term not exceeding 6 months, to a fine not exceeding $5,000, or to both.
+    *   (b) is liable on conviction to imprisonment for a term not exceeding 6 months, to a fine not exceeding $5,000, or to both.
     
-    Compare: 1958 No 109 [s 44E][198]
+    Compare: 1958 No 109 [s 44E][202]
+    
+    Section 33(4)(b): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 34 Storage, etc, on Police information recording system of identifying particulars
     
@@ -981,15 +987,19 @@ Powers, operations, and offences
     
     _criminal prosecution proceedings_ against a person in respect of the offence for which particulars were taken, means proceedings---
         
-    *   (a) commenced against the person in respect of that offence or offences including that offence under the [Crimes Act 1961][199], or under the [Summary Proceedings Act 1957][200] (alone or, if the person is a child or a young person as defined in [section 2(1)][201] of the Children, Young Persons, and Their Families Act 1989, in conjunction with that Act); and
+    *   (a) commenced against the person in respect of that offence or offences including that offence under the [Criminal Procedure Act 2011][203] (alone or, if the person is a child or a young person as defined in [section 2(1)][204] of the Children, Young Persons, and Their Families Act 1989, in conjunction with that Act); and
     
-    *   (b) some or all of which (for example, any committal process proceedings) are heard or determined, at first instance, in a District Court, the High Court, a Youth Court, or a combination of those courts
+    *   (b) some or all of which (for example, any pre-trial proceedings) are heard or determined, at first instance, in a District Court, the High Court, a Youth Court, or a combination of those courts
     
     _the offence for which the particulars were taken_ includes (without limitation) an offence that arose from the same event or series of events as, and that replaces, that offence.
     
-    Compare: 1958 No 109 [s 57(3)][197]
+    Compare: 1958 No 109 [s 57(3)][200]
     
-    Section 34: substituted, on 30 August 2011 (applying at all times from 1 October 2008), by [section 6][202] of the Policing (Storage of Youth Identifying Particulars) Amendment Act 2011 (2011 No 65).
+    Section 34: substituted, on 30 August 2011 (applying at all times from 1 October 2008), by [section 6][205] of the Policing (Storage of Youth Identifying Particulars) Amendment Act 2011 (2011 No 65).
+    
+    Section 34(3)(a): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 34(3)(b): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 34A Outcomes authorising continued storage of certain particulars
     
@@ -997,13 +1007,13 @@ Powers, operations, and offences
         
     *   (a) the person admits to, and completes a programme of diversion (being a programme conducted by the Police) for, the offence for which the particulars were taken:
     
-    *   (b) the person is convicted of the offence for which the particulars were taken (for example, by virtue of a District Court or the High Court entering a conviction, or a Youth Court entering a conviction and making an order under [section 283(o)][203] of the Children, Young Persons, and Their Families Act 1989):
+    *   (b) the person is convicted of the offence for which the particulars were taken (for example, by virtue of a District Court or the High Court entering a conviction, or a Youth Court entering a conviction and making an order under [section 283(o)][206] of the Children, Young Persons, and Their Families Act 1989):
     
-    *   (c) the Youth Court makes an order under any of paragraphs (a) to (n) of [section 283][203] of the Children, Young Persons, and Their Families Act 1989 in respect of the person and the offence for which the particulars were taken:
+    *   (c) the Youth Court makes an order under any of paragraphs (a) to (n) of [section 283][206] of the Children, Young Persons, and Their Families Act 1989 in respect of the person and the offence for which the particulars were taken:
     
-    *   (d) the person is discharged under [section 106][204] of the Sentencing Act 2002 in respect of the offence for which the particulars were taken.
+    *   (d) the person is discharged under [section 106][207] of the Sentencing Act 2002 in respect of the offence for which the particulars were taken.
     
-    Section 34A: inserted, on 30 August 2011 (applying at all times from 1 October 2008), by [section 6][202] of the Policing (Storage of Youth Identifying Particulars) Amendment Act 2011 (2011 No 65).
+    Section 34A: inserted, on 30 August 2011 (applying at all times from 1 October 2008), by [section 6][205] of the Policing (Storage of Youth Identifying Particulars) Amendment Act 2011 (2011 No 65).
 
 #### Other Police powers
 
@@ -1015,23 +1025,25 @@ Powers, operations, and offences
     
     *   (b) danger to a member of the public exists or may reasonably be expected at or near that place; or
     
-    *   (c) an indictable offence not triable summarily under [section 6][205] of the Summary Proceedings Act 1957 has been committed or discovered at or near that place.
+    *   (c) an offence punishable by 10 or more years' imprisonment has been committed or discovered at or near that place.
     
     (2) In this section,---
     
-    _road_ has the meaning given in [section 315(1)][206] of the Local Government Act 1974 except that it includes---
+    _road_ has the meaning given in [section 315(1)][208] of the Local Government Act 1974 except that it includes---
         
-    *   (a) a motorway within the meaning of [section 2][207] of the Transit New Zealand Act 1989; and
+    *   (a) a motorway within the meaning of [section 2][209] of the Transit New Zealand Act 1989; and
     
-    *   (b) a private road within the meaning of [section 315(1)][206] of the Local Government Act 1974; and
+    *   (b) a private road within the meaning of [section 315(1)][208] of the Local Government Act 1974; and
     
-    *   (c) a private way within the meaning of [section 315(1)][206] of the Local Government Act 1974
+    *   (c) a private way within the meaning of [section 315(1)][208] of the Local Government Act 1974
     
     _temporarily_ means for a period that is reasonably necessary in the circumstances
     
     _traffic_ means all or any specified type of traffic (including pedestrian traffic).
     
-    Compare: 1974 No 66 [s 342A][208]
+    Compare: 1974 No 66 [s 342A][210]
+    
+    Section 35(1)(c): replaced, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 36 Care and protection of intoxicated people
     
@@ -1081,9 +1093,9 @@ Powers, operations, and offences
     
     _temporary shelter_ means a place (other than a place operated by the Police) that is capable of providing for the care and protection of an intoxicated person.
     
-    (5) [Section 31][209] of the Crimes Act 1961 applies in respect of the power to detain and take a person into custody under this section as if the power were a power of arrest.
+    (5) [Section 31][211] of the Crimes Act 1961 applies in respect of the power to detain and take a person into custody under this section as if the power were a power of arrest.
     
-    Compare: 1966 No 97 [ss 37A][210], [38][211]; 1992 No 46 [s 122A][212]
+    Compare: 1966 No 97 [ss 37A][212], [38][213]; 1992 No 46 [s 122A][214]
 
 #### Searches of people in custody
 
@@ -1091,19 +1103,19 @@ Powers, operations, and offences
     
 *   \[Repealed\]
     
-    Section 37: repealed, on 1 October 2012, by [section 336(2)][213] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 37: repealed, on 1 October 2012, by [section 336(2)][215] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 38 Searchers
     
 *   \[Repealed\]
     
-    Section 38: repealed, on 1 October 2012, by [section 336(2)][213] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 38: repealed, on 1 October 2012, by [section 336(2)][215] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 39 Property taken from people in custody
     
 *   \[Repealed\]
     
-    Section 39: repealed, on 1 October 2012, by [section 336(2)][213] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 39: repealed, on 1 October 2012, by [section 336(2)][215] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 40 District Court Judge may determine title to certain property
     
@@ -1131,7 +1143,7 @@ Powers, operations, and offences
     
     (5) However, no such order or delivery affects the right of any persons entitled by law to possession of the property to recover the property.
     
-    Compare: 1958 No 109 [s 58][214]
+    Compare: 1958 No 109 [s 58][216]
 
 ##### 41 Unclaimed property
     
@@ -1153,7 +1165,7 @@ Powers, operations, and offences
     
     (6) The Commissioner may, if he or she thinks fit, appoint any person, whether or not the holder of any licence required to conduct an auction under the Auctioneers Act 1928, to conduct an auction under this section.
     
-    Compare: 1958 No 109 [s 59(1), (4)][215]
+    Compare: 1958 No 109 [s 59(1), (4)][217]
 
 ##### 42 Unclaimed money, and proceeds of sale of unclaimed property
     
@@ -1165,7 +1177,7 @@ Powers, operations, and offences
     
     *   (b) storing, transporting, testing, or otherwise preparing the goods for sale.
     
-    Compare: 1958 No 109[s 59(2), (3)][215]
+    Compare: 1958 No 109[s 59(2), (3)][217]
 
 #### Operational provisions
 
@@ -1179,7 +1191,7 @@ Powers, operations, and offences
     
     (4) A constable may arrest a person for whose arrest an unexecuted court process has been issued even if the constable does not have the process in his or her possession.
     
-    Compare: 1958 No 109 [s 38][216]
+    Compare: 1958 No 109 [s 38][218]
 
 ##### 44 Protection of Police employees acting under court processes
     
@@ -1207,11 +1219,11 @@ Powers, operations, and offences
     
     *   (b) the employee may recover his or her costs.
     
-    (4) In this section, _court process_ includes a computer printout to which section 88AA or [98][217] of the Summary Proceedings Act 1957 applies.
+    (4) In this section, _court process_ includes a computer printout to which section 88AA or [98][219] of the Summary Proceedings Act 1957 applies.
     
-    Compare: 1958 No 109 [s 39][218]
+    Compare: 1958 No 109 [s 39][220]
     
-    Section 44(4): amended, on 13 February 2012, by [section 26][219] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 44(4): amended, on 13 February 2012, by [section 26][221] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 45 Police employee may appear in Court by another employee
     
@@ -1221,7 +1233,7 @@ Powers, operations, and offences
     
     *   (b) before the Liquor Licensing Authority, a District Licensing Agency, or any other Commission, Inquiry, Board, or Tribunal.
     
-    Compare: 1958 No 109 [s 40][220]
+    Compare: 1958 No 109 [s 40][222]
 
 ##### 46 Police dogs may accompany Police dog handlers
     
@@ -1231,7 +1243,7 @@ Powers, operations, and offences
     
     *   (b) neither the Commissioner nor a Police dog handler in charge of a Police dog is liable in any way by reason only of a Police dog's having entered or been on any place under paragraph (a).
     
-    Compare: 1958 No 109 [s 44A][221]
+    Compare: 1958 No 109 [s 44A][223]
 
 #### Offences
 
@@ -1239,9 +1251,11 @@ Powers, operations, and offences
     
 *   (1) A person commits an offence who, for the purpose of gaining employment with the Police, intentionally submits false or forged documents or makes false representations when applying for employment.
     
-    (2) A person who commits an offence against this section is liable to imprisonment for a term not exceeding 6 months, to a fine not exceeding $5,000, or to both.
+    (2) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 6 months, to a fine not exceeding $5,000, or to both.
     
-    Compare: 1958 No 109[s 49][222]
+    Compare: 1958 No 109[s 49][224]
+    
+    Section 47(2): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 48 Personation and representing vehicle, etc, as Police vehicle
     
@@ -1259,29 +1273,33 @@ Powers, operations, and offences
     
     (3) A person commits an offence who, without reasonable excuse, represents any vehicle, craft, or other conveyance as being in the service of the Police in circumstances likely to lead a person to believe the vehicle, craft, or conveyance is in the service of the Police.
     
-    (4) A person who commits an offence against this section is liable to imprisonment for a term not exceeding 12 months, to a fine not exceeding $15,000, or to both.
+    (4) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 12 months, to a fine not exceeding $15,000, or to both.
     
-    Compare: 1958 No 109, [ss 51][223], [51A][224]
+    Compare: 1958 No 109, [ss 51][225], [51A][226]
+    
+    Section 48(4): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 49 Use of term Police or New Zealand Police in operating name
     
 *   (1) A person commits an offence who, without reasonable excuse, carries on an activity under an operating name that includes the word ""Police"" or the words ""New Zealand Police"", in a manner likely to lead a person to believe that the activity is endorsed or authorised by the Police or any part of the Police.
     
-    (2) A person who commits an offence against this section is liable,---
+    (2) A person who commits an offence against this section is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or to a fine not exceeding $5,000:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $20,000\.
     
-    
+    Section 49(2): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 50 Unlawful possession of Police property
     
 *   (1) A person commits an offence who, without lawful authority or reasonable excuse, has in his or her possession any Police property.
     
-    (2) A person who commits an offence against this section is liable to imprisonment for a term not exceeding 3 months, to a fine not exceeding $2,000, or to both.
+    (2) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 3 months, to a fine not exceeding $2,000, or to both.
     
-    Compare: 1958 No 109, [ss 52][225], [61A][226]
+    Compare: 1958 No 109, [ss 52][227], [61A][228]
+    
+    Section 50(2): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 51 Failing to help Police employee
     
@@ -1291,9 +1309,11 @@ Powers, operations, and offences
     
     *   (b) convey a person in the employee's charge to a Police station or other place.
     
-    (2) A person who fails to give help, when so asked, commits an offence and is liable to a fine not exceeding $2,000\.
+    (2) A person who fails to give help, when so asked, commits an offence and is liable on conviction to a fine not exceeding $2,000\.
     
-    Compare: 1958 No 109 [s 53][227]
+    Compare: 1958 No 109 [s 53][229]
+    
+    Section 51(2): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 52 Unlawful dealings with prisoners
     
@@ -1303,7 +1323,7 @@ Powers, operations, and offences
     
     *   (b) delivers any thing, or causes it to be delivered, to that prisoner.
     
-    (2) A person who commits an offence against this section is liable to imprisonment for a term not exceeding 3 months, to a fine not exceeding $2,000 or to both.
+    (2) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 3 months, to a fine not exceeding $2,000 or to both.
     
     (3) In this section, **restricted communication ** means---
         
@@ -1311,19 +1331,25 @@ Powers, operations, and offences
     
     *   (b) any communication whatsoever that takes place after the Police employee, in whose custody or charge the prisoner is, has forbidden that communication or directed that it cease.
     
-    Compare: 1958 No 109 [s 54][228]; 2004 No 50 [s 143(3)][229]
+    Compare: 1958 No 109 [s 54][230]; 2004 No 50 [s 143(3)][231]
+    
+    Section 52(2): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 53 Killing or injuring Police dogs
     
 *   (1) A person who intentionally kills, maims, wounds, or otherwise injures a Police dog without lawful authority or reasonable excuse commits an offence.
     
-    (2) A person who commits an offence against this section is liable to imprisonment for a term not exceeding 24 months, to a fine not exceeding $15,000, or to both.
+    (2) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 24 months, to a fine not exceeding $15,000, or to both.
     
-    Compare: 1958 No 109 [s 44C][230]
+    Compare: 1958 No 109 [s 44C][232]
+    
+    Section 53(2): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 54 Offences triable summarily
     
-*   Every offence against this Act is punishable on summary conviction.
+*   \[Repealed\]
+    
+    Section 54: repealed, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 4  
 Provisions relating to employment of Police employees
@@ -1332,31 +1358,31 @@ Provisions relating to employment of Police employees
     
 *   In this Part, unless the context otherwise requires,---
     
-    _Authority_ has the meaning given in [section 5][231] of the Employment Relations Act 2000
+    _Authority_ has the meaning given in [section 5][233] of the Employment Relations Act 2000
     
-    _lockout_ has the meaning given in [section 82][232] of the Employment Relations Act 2000
+    _lockout_ has the meaning given in [section 82][234] of the Employment Relations Act 2000
     
     _service organisation_ means any union representing Police employees or any group of Police employees
     
-    _strike_ has the meaning given in [section 81][233] of the Employment Relations Act 2000
+    _strike_ has the meaning given in [section 81][235] of the Employment Relations Act 2000
     
-    _union_ has the meaning given in [section 5][231] of the Employment Relations Act 2000\.
+    _union_ has the meaning given in [section 5][233] of the Employment Relations Act 2000\.
 
 ##### 56 Application of Employment Relations Act 2000
     
-*   Except as expressly provided in this Act, the [Employment Relations Act 2000][234] applies in relation to the Police.
+*   Except as expressly provided in this Act, the [Employment Relations Act 2000][236] applies in relation to the Police.
     
-    Compare: 1958 No 109 [s 96][235]
+    Compare: 1958 No 109 [s 96][237]
 
 ##### 57 Application of Privacy Act 1993 to assessment for suitability for employment
     
-*   Nothing in [principles 2, 3, or 10][236] of the Privacy Act 1993 applies in relation to information collected, obtained, held, used, disclosed by, or disclosed to the Police for the purpose of any assessment by the Commissioner of the suitability of any particular person for employment with the Police.
+*   Nothing in [principles 2, 3, or 10][238] of the Privacy Act 1993 applies in relation to information collected, obtained, held, used, disclosed by, or disclosed to the Police for the purpose of any assessment by the Commissioner of the suitability of any particular person for employment with the Police.
 
 ##### 58 Employment principles
     
-*   Subject to this Act, the Commissioner must operate a personnel policy that complies with the principle of being a good employer by following, as if he or she were the chief executive of a Department, the provisions of [sections 56][237] and [58][238] of the State Sector Act 1988\.
+*   Subject to this Act, the Commissioner must operate a personnel policy that complies with the principle of being a good employer by following, as if he or she were the chief executive of a Department, the provisions of [sections 56][239] and [58][240] of the State Sector Act 1988\.
     
-    Compare: 1958 No 109 [s 7][239]
+    Compare: 1958 No 109 [s 7][241]
 
 ##### 59 Appointments on merit
     
@@ -1364,7 +1390,7 @@ Provisions relating to employment of Police employees
     
     (2) This section is subject to [sections 64][83] and [65][84].
     
-    Compare: 1958 No 109 [s 8][240]
+    Compare: 1958 No 109 [s 8][242]
 
 ##### 60 Obligation to notify vacancies
     
@@ -1372,19 +1398,19 @@ Provisions relating to employment of Police employees
     
     (2) This section is subject to [sections 64][83] and [65][84].
     
-    Compare: 1958 No 109 [s 9][241]
+    Compare: 1958 No 109 [s 9][243]
 
 ##### 61 Obligation to notify appointments
     
 *   The Commissioner must notify Police employees of every appointment (other than that of an acting, temporary, or casual employee) to a vacant position in the Police.
     
-    Compare: 1958 No 109 [s 10][242]
+    Compare: 1958 No 109 [s 10][244]
 
 ##### 62 Review of appointments
     
-*   [Section 65][243] of the State Sector Act 1988 (which relates to review of appointments) applies in respect of any appointment made by the Commissioner under [section 18][24] as if the Police were a Department and the Commissioner were the chief executive of that Department.
+*   [Section 65][245] of the State Sector Act 1988 (which relates to review of appointments) applies in respect of any appointment made by the Commissioner under [section 18][24] as if the Police were a Department and the Commissioner were the chief executive of that Department.
     
-    Compare: 1958 No 109 [s 11][244]
+    Compare: 1958 No 109 [s 11][246]
 
 ##### 63 Acting appointments
     
@@ -1404,7 +1430,7 @@ Provisions relating to employment of Police employees
     
     (4) The Commissioner may at any time revoke any appointment made or authority given under this section.
     
-    Compare: 1958 No 109 [s 13][245]
+    Compare: 1958 No 109 [s 13][247]
 
 ##### 64 Power to transfer employees within Police
     
@@ -1420,7 +1446,7 @@ Provisions relating to employment of Police employees
     
     (4) Nothing in [section 62][81] applies in relation to any appointment made under this section.
     
-    Compare: 1958 No 109 [s 15(1), (3), (4)][246]
+    Compare: 1958 No 109 [s 15(1), (3), (4)][248]
 
 ##### 65 Power to temporarily assign, second, and locate employees and other persons within Police
     
@@ -1468,7 +1494,7 @@ Provisions relating to employment of Police employees
     
     (3) If the State Services Commissioner indicates that he or she wishes to participate, the Commissioner must allow the State Services Commissioner to participate in the negotiations.
     
-    Compare: 1958 No 109 [ss 67(4)][247], [75(3)][248]
+    Compare: 1958 No 109 [ss 67(4)][249], [75(3)][250]
 
 ##### 67 Referral of negotiations for terms and conditions of employment applying to constables to arbitration procedure
     
@@ -1480,7 +1506,7 @@ Provisions relating to employment of Police employees
     
     (2) A dispute concerning any terms and conditions of employment referred to in subsection (1) must be dealt with in accordance with the procedure set out in [Schedule 2][178] if---
         
-    *   (a) the Authority recommends under s[ection 50H][249] of the Employment Relations Act 2000 that that process be followed; or
+    *   (a) the Authority recommends under s[ection 50H][251] of the Employment Relations Act 2000 that that process be followed; or
     
     *   (b) a mediator appointed by the chief executive of the Department of Labour or by agreement of the parties to the bargaining is satisfied that no action short of that process will settle the dispute.
     
@@ -1492,13 +1518,13 @@ Provisions relating to employment of Police employees
     
 *   (1) The Commissioner may exercise in respect of Police employees the powers conferred by [section 84A][186] of the State Sector Act 1988 (which relates to the establishment of superannuation schemes for employees) on any employer in the State services.
     
-    (2) [Sections 84A][186] and [84B][250] of the State Sector Act 1988 apply accordingly with all necessary modifications.
+    (2) [Sections 84A][186] and [84B][252] of the State Sector Act 1988 apply accordingly with all necessary modifications.
     
     (3) Subsection (4) applies to all constables or any class or description of constables who are not members of the Government Superannuation Fund Police Sub-Scheme.
     
     (4) The Commissioner may make it a condition of employment of employees to whom this subsection applies that those employees contribute to a State services superannuation scheme.
     
-    Compare: 1958 No 109 [ss 26A][251], [67(7)][247]
+    Compare: 1958 No 109 [ss 26A][253], [67(7)][249]
 
 #### Strikes and lockouts involving constables
 
@@ -1512,7 +1538,7 @@ Provisions relating to employment of Police employees
     
     (4) The Employment Court has full and exclusive jurisdiction to hear and determine any proceedings under this section, and no other Court has jurisdiction to hear and determine those proceedings.
     
-    Compare: 1958 No 109 [s 80][252]
+    Compare: 1958 No 109 [s 80][254]
 
 #### Suspension or removal of Police employees
 
@@ -1540,7 +1566,7 @@ Provisions relating to employment of Police employees
     
     (3) Before prescribing standards under subsection (1), the Commissioner must consult with the service organisations and the Government Superannuation Fund Authority.
     
-    Compare: 1958 No 109 [s 28A][253]
+    Compare: 1958 No 109 [s 28A][255]
 
 ##### 73 Form of, and communication of, health standards
     
@@ -1572,7 +1598,7 @@ Provisions relating to employment of Police employees
     
     (4) In any case described in subsection (2), the employee may, with the consent of the Commissioner, waive the right to notice and leave the Police immediately.
     
-    Compare: 1958 No 109 [ss 28][254], [28C(1), (2)][255]
+    Compare: 1958 No 109 [ss 28][256], [28C(1), (2)][257]
 
 ##### 75 When employee required to leave Police ceases to be employee
     
@@ -1588,7 +1614,7 @@ Provisions relating to employment of Police employees
     
     *   (b) if reinstatement is not ordered, the employee ceases to be a Police employee on the date on which written notice of the decision determining or completing the action is given to the employee.
     
-    Compare: 1958 No 109 [s 28C(3), (4)][255]
+    Compare: 1958 No 109 [s 28C(3), (4)][257]
 
 ##### 76 Leaving Police voluntarily due to incapacity
     
@@ -1614,7 +1640,7 @@ Provisions relating to employment of Police employees
     
     (4) If the Commissioner refuses to permit an employee to leave the Police under this section, the Commissioner must give the employee written notice of the decision.
     
-    Compare: 1958 No 109 [s 28D][256]
+    Compare: 1958 No 109 [s 28D][258]
 
 ##### 77 Commissioner must consult Government Superannuation Fund, etc, before nominating health practitioners if employee is member of scheme
     
@@ -1624,13 +1650,13 @@ Provisions relating to employment of Police employees
     
     (3) The Commissioner may nominate under [section 74(2)(b)][98] or [76(2)(a)][100] only health practitioners approved under subsection (1).
     
-    Compare: 1958 No 109 [ss 28(5A)][254],[28C(1A)][255], [28D(1A)][256]
+    Compare: 1958 No 109 [ss 28(5A)][256],[28C(1A)][257], [28D(1A)][258]
 
 ##### 78 Entitlement to allowances, etc
     
-*   A person who ceases to be a Police employee under [section 74][98] or [76][100] is entitled to receive the allowances and other benefits that may be prescribed by or under the [Government Superannuation Fund Act 1956][257] or the State services superannuation scheme to which that person belongs, as the case may require.
+*   A person who ceases to be a Police employee under [section 74][98] or [76][100] is entitled to receive the allowances and other benefits that may be prescribed by or under the [Government Superannuation Fund Act 1956][259] or the State services superannuation scheme to which that person belongs, as the case may require.
     
-    Compare: 1958 No 109 [s 28F][258]
+    Compare: 1958 No 109 [s 28F][260]
 
 #### Restrictions on resignation
 
@@ -1638,7 +1664,7 @@ Provisions relating to employment of Police employees
     
 *   If in the Governor-General's opinion special circumstances require that no constable resign without permission, the Governor-General may, by warrant under the Governor-General's hand, declare that no constable may resign that person's employment with the Police except on the conditions set out in the warrant.
     
-    Compare: 1958 No 109 [s 14][259]
+    Compare: 1958 No 109 [s 14][261]
 
 ## Part 5  
 Biometric information, international policing, and other miscellaneous provisions
@@ -1785,7 +1811,7 @@ Biometric information, international policing, and other miscellaneous provision
     
     *   (b) does not include a Police employee who is part of a United Nations activity and to whom [sections 91 to 95][121] apply.
     
-    Compare: 2004 No 17 [s 4][260]
+    Compare: 2004 No 17 [s 4][262]
 
 ##### 87 Jurisdiction over Police and civilian employees overseas
     
@@ -1807,13 +1833,15 @@ Biometric information, international policing, and other miscellaneous provision
         
         
     
-    (3) No information may be laid against any person over whom jurisdiction is claimed by virtue of subsection (2) without the consent of the Attorney-General.
+    (3) No charging document may be filed against any person over whom jurisdiction is claimed by virtue of subsection (2) without the consent of the Attorney-General.
     
-    Compare: 2004 No 17 [s 5][261]
+    Compare: 2004 No 17 [s 5][263]
+    
+    Section 87(3): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 88 Powers of arrest and detention
     
-*   (1) Subsection (2) applies to any offence in respect of which the laying of an information requires the consent of the Attorney-General under [section 87(3)][116].
+*   (1) Subsection (2) applies to any offence in respect of which the filing of a charging document requires the consent of the Attorney-General under [section 87(3)][116].
     
     (2) If any person is alleged to have committed an offence to which this subsection applies,---
         
@@ -1821,25 +1849,29 @@ Biometric information, international policing, and other miscellaneous provision
     
     *   (b) a warrant for the person's arrest may be issued in New Zealand and executed within or outside New Zealand,---
     
-    and the person may be detained in custody within or outside New Zealand or, if the person is in, or has been taken to, New Zealand, remanded in custody or on bail, even though the consent of the Attorney-General has not been obtained to the laying of an information in respect of that offence; but no further proceedings may be taken until that consent has been obtained.
+    and the person may be detained in custody within or outside New Zealand or, if the person is in, or has been taken to, New Zealand, remanded in custody or on bail, even though the consent of the Attorney-General has not been obtained to the filing of a charging document in respect of that offence; but no further proceedings may be taken until that consent has been obtained.
     
-    (3) The provisions of the [Crimes Act 1961][199] relating to arrest apply in respect of the arrest of a person referred to in subsection (2) for an act or omission to which [section 87][116] applies, in all respects as if the act or omission had occurred in New Zealand.
+    (3) The provisions of the [Crimes Act 1961][264] relating to arrest apply in respect of the arrest of a person referred to in subsection (2) for an act or omission to which [section 87][116] applies, in all respects as if the act or omission had occurred in New Zealand.
     
     (4) Any person arrested outside New Zealand may be detained in custody outside New Zealand for as long as is reasonably necessary to enable the person to be taken to New Zealand.
     
-    Compare: 2004 No 17 [s 6][262]
+    Compare: 2004 No 17 [s 6][265]
+    
+    Section 88(1): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 88(2): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 89 Breach of code of conduct
     
 *   If a Police employee does or omits to do an act, and that act or omission would, if it occurred in New Zealand, be a breach of the code of conduct prescribed under [section 20][27], the employee may be dealt with as if the act or omission had occurred in New Zealand.
     
-    Compare: 2004 No 17 [s 7][263]
+    Compare: 2004 No 17 [s 7][266]
 
 ##### 90 Saving of jurisdiction
     
 *   Nothing in [sections 86 to 89][115] limits or affects the provision of any enactment or rule of law relating to the liability of persons in respect of acts done or omitted beyond New Zealand.
     
-    Compare: 2004 No 17 [s 8][264]
+    Compare: 2004 No 17 [s 8][267]
 
 #### International policing: United Nations operations
 
@@ -1855,7 +1887,7 @@ Biometric information, international policing, and other miscellaneous provision
     
     (2) For the purposes of this section, a Police employee is deemed to be an employee for the purposes of a United Nations activity from the time he or she leaves New Zealand to undertake duties with the United Nations until he or she returns to New Zealand or earlier ceases to be an employee.
     
-    Compare: 1964 No 1[ss 2][265], [3][266]
+    Compare: 1964 No 1[ss 2][268], [3][269]
 
 ##### 92 Trial in New Zealand for crimes committed outside New Zealand
     
@@ -1867,21 +1899,21 @@ Biometric information, international policing, and other miscellaneous provision
     
     (4) The consent of the Attorney-General is not required for an employee to be arrested and detained in custody.
     
-    Compare: 1964 No 1 [s 4][267]
+    Compare: 1964 No 1 [s 4][270]
 
 ##### 93 Arrest and detention of offender
     
-*   (1) The provisions of the [Crimes Act 1961][199] relating to arrest apply in respect of the arrest of an employee who is suspected of committing a crime.
+*   (1) The provisions of the [Crimes Act 1961][264] relating to arrest apply in respect of the arrest of an employee who is suspected of committing a crime.
     
     (2) An employee arrested under this section may be detained and held in custody until the employee can be dealt with according to law.
     
-    Compare: 1964 No 1 [s 5][268]
+    Compare: 1964 No 1 [s 5][271]
 
 ##### 94 Breach of code of conduct
     
 *   Any employee whose act or omission would, if it had occurred in New Zealand, be a breach of the code of conduct prescribed under [section 20][27] may be dealt with as if the act or omission had occurred in New Zealand.
     
-    Compare: 1964 No 1 [s 6][269]
+    Compare: 1964 No 1 [s 6][272]
 
 ##### 95 Saving of jurisdiction
     
@@ -1931,7 +1963,7 @@ Biometric information, international policing, and other miscellaneous provision
     
     *   (b) it is not necessary to produce evidence of the constable's identity and authority.
     
-    Compare: 1958 No 109 [s 41][270]; 1996 No 27 [s 7][271]
+    Compare: 1958 No 109 [s 41][273]; 1996 No 27 [s 7][274]
 
 ##### 97 When policing powers cease
     
@@ -1943,7 +1975,7 @@ Biometric information, international policing, and other miscellaneous provision
     
     (2) All powers and authorities vested in a Police employee cease immediately when the employee is suspended or ceases to be a Police employee.
     
-    Compare: 1958 No 109 [ss 37(2)][193], [44][272]
+    Compare: 1958 No 109 [ss 37(2)][193], [44][275]
 
 ##### 98 Evidentiary provisions
     
@@ -1965,7 +1997,7 @@ Biometric information, international policing, and other miscellaneous provision
     
     *   (b) the Commissioner's certificate is, in the absence of proof to the contrary, sufficient evidence of the matters certified.
     
-    Compare: 1958 No 109 [ss 44D][273], [51A(6)][224]
+    Compare: 1958 No 109 [ss 44D][276], [51A(6)][226]
 
 ##### 99 Police involvement in elections
     
@@ -1973,7 +2005,7 @@ Biometric information, international policing, and other miscellaneous provision
         
     *   (a) by voting; or
     
-    *   (b) as a candidate in accordance with [sections 52][274] and [53][275] of the Electoral Act 1993; or
+    *   (b) as a candidate in accordance with [sections 52][277] and [53][278] of the Electoral Act 1993; or
     
     *   (c) in the discharge of his or her duties as a constable, authorised officer, or supervisor.
     
@@ -1983,23 +2015,23 @@ Biometric information, international policing, and other miscellaneous provision
     
     (4) \[Repealed\]
     
-    Section 99(1): amended, on 1 July 2010, by [section 4(1)][276] of the Policing (Involvement in Local Authority Elections) Amendment Act 2010 (2010 No 43).
+    Section 99(1): amended, on 1 July 2010, by [section 4(1)][279] of the Policing (Involvement in Local Authority Elections) Amendment Act 2010 (2010 No 43).
     
-    Section 99(1)(b): amended, on 1 July 2010, by [section 4(2)][276] of the Policing (Involvement in Local Authority Elections) Amendment Act 2010 (2010 No 43).
+    Section 99(1)(b): amended, on 1 July 2010, by [section 4(2)][279] of the Policing (Involvement in Local Authority Elections) Amendment Act 2010 (2010 No 43).
     
-    Section 99(2): repealed, on 1 July 2010, by [section 4(3)][276] of the Policing (Involvement in Local Authority Elections) Amendment Act 2010 (2010 No 43).
+    Section 99(2): repealed, on 1 July 2010, by [section 4(3)][279] of the Policing (Involvement in Local Authority Elections) Amendment Act 2010 (2010 No 43).
     
-    Section 99(3): repealed, on 1 July 2010, by [section 4(3)][276] of the Policing (Involvement in Local Authority Elections) Amendment Act 2010 (2010 No 43).
+    Section 99(3): repealed, on 1 July 2010, by [section 4(3)][279] of the Policing (Involvement in Local Authority Elections) Amendment Act 2010 (2010 No 43).
     
-    Section 99(4): repealed, on 1 July 2010, by [section 4(3)][276] of the Policing (Involvement in Local Authority Elections) Amendment Act 2010 (2010 No 43).
+    Section 99(4): repealed, on 1 July 2010, by [section 4(3)][279] of the Policing (Involvement in Local Authority Elections) Amendment Act 2010 (2010 No 43).
 
 ##### 100 Scope of review by State Services Commissioner
     
-*   If the State Services Commissioner is directed or requested under [section 11][277] of the State Sector Act 1988 to carry out, under [section 6(b)][278]of that Act, a review of the performance of the Police, that review may relate only to the matters referred to in [section 16(1)][20].
+*   If the State Services Commissioner is directed or requested under [section 11][280] of the State Sector Act 1988 to carry out, under [section 6(b)][281]of that Act, a review of the performance of the Police, that review may relate only to the matters referred to in [section 16(1)][20].
 
 ##### 101 Annual report
     
-*   The annual report of the Police required under [section 43][279] of the Public Finance Act 1989---
+*   The annual report of the Police required under [section 43][282] of the Public Finance Act 1989---
         
     *   (a) must include an account of the performance of the Police and its operations during the period under review; and
     
@@ -2007,7 +2039,7 @@ Biometric information, international policing, and other miscellaneous provision
     
     *   (c) may include any other matters affecting the Police or policing that the Commissioner thinks fit.
     
-    Compare: 1958 No 109 [s 65][280]
+    Compare: 1958 No 109 [s 65][283]
 
 ##### 102 Regulations
     
@@ -2039,15 +2071,15 @@ Biometric information, international policing, and other miscellaneous provision
     
 *   (1) This section applies to any disciplinary matter arising in relation to conduct by a Police employee where the conduct occurred before the commencement of this Act.
     
-    (2) The matter must be dealt with in accordance with any applicable provisions of the [Police Act 1958][183] and the [Police Regulations 1992][281] that were in force at the time the conduct occurred, as if those provisions were still in force, unless the employee elects that the matter be dealt with as if the conduct had occurred after the commencement of this Act.
+    (2) The matter must be dealt with in accordance with any applicable provisions of the [Police Act 1958][183] and the [Police Regulations 1992][284] that were in force at the time the conduct occurred, as if those provisions were still in force, unless the employee elects that the matter be dealt with as if the conduct had occurred after the commencement of this Act.
 
 ##### 104 Agreements under section 67 of Police Act 1958
     
-*   (1) Every agreement under [section 67][247] of the Police Act 1958 that is in force immediately before the commencement of this Act continues in force according to its tenor.
+*   (1) Every agreement under [section 67][249] of the Police Act 1958 that is in force immediately before the commencement of this Act continues in force according to its tenor.
     
     (2) If there is a dispute about the interpretation, application, or operation of any provision of any agreement continued in force by subsection (1),---
         
-    *   (a) a person bound by the agreement or any party to the agreement may pursue that dispute in accordance with [Part 10][282] of the Employment Relations Act 2000; and
+    *   (a) a person bound by the agreement or any party to the agreement may pursue that dispute in accordance with [Part 10][285] of the Employment Relations Act 2000; and
     
     *   (b) the person or party pursuing the dispute must ensure that every service organisation that was involved in negotiations for the making or renewal of the agreement has notice of the existence of the dispute.
     
@@ -2055,19 +2087,19 @@ Biometric information, international policing, and other miscellaneous provision
 
 ##### 105 Collective agreements under section 75 of Police Act 1958
     
-*   Every collective employment agreement under [section 75][248] of the Police Act 1958 that is in force immediately before the commencement of this Act continues in force according to its tenor.
+*   Every collective employment agreement under [section 75][250] of the Police Act 1958 that is in force immediately before the commencement of this Act continues in force according to its tenor.
 
 ##### 106 Individual employment agreements
     
-*   Every individual employment agreement under [section 67A][283], [75][248], or [76][284] of the Police Act 1958 that is in force immediately before the commencement of this Act continues in force according to its tenor.
+*   Every individual employment agreement under [section 67A][286], [75][250], or [76][287] of the Police Act 1958 that is in force immediately before the commencement of this Act continues in force according to its tenor.
 
 ##### 107 Continuation of process for agreement underway under section 67 of Police Act 1958
     
-*   (1) This section applies if, at the commencement of this Act, a process is underway for the fixing of conditions of employment under [section 67][247] of the Police Act 1958\.
+*   (1) This section applies if, at the commencement of this Act, a process is underway for the fixing of conditions of employment under [section 67][249] of the Police Act 1958\.
     
-    (2) The process must be continued as if the [Police Act 1958][183] had not been repealed unless the parties agree in writing that the process be continued in accordance with the [Employment Relations Act 2000][234].
+    (2) The process must be continued as if the [Police Act 1958][183] had not been repealed unless the parties agree in writing that the process be continued in accordance with the [Employment Relations Act 2000][236].
     
-    (3) If the parties agree under subsection (2) to continue the process in accordance with the [Employment Relations Act 2000][234], the process must be treated as a process for negotiating a collective employment agreement under that Act.
+    (3) If the parties agree under subsection (2) to continue the process in accordance with the [Employment Relations Act 2000][236], the process must be treated as a process for negotiating a collective employment agreement under that Act.
 
 ##### 108 Existing members of Police to be treated as Police employees
     
@@ -2085,7 +2117,7 @@ Biometric information, international policing, and other miscellaneous provision
 
 ##### 110 Pensions in respect of death or disablement
     
-*   [Section 42][285] of the Police Act 1958 continues to apply as if it had not been repealed in respect of any person who was, immediately before the commencement of this Act, receiving a pension under that section.
+*   [Section 42][288] of the Police Act 1958 continues to apply as if it had not been repealed in respect of any person who was, immediately before the commencement of this Act, receiving a pension under that section.
 
 ##### 111 Identity cards
     
@@ -2095,29 +2127,29 @@ Biometric information, international policing, and other miscellaneous provision
 
 ##### 112 Delegations by Commissioner
     
-*   (1) Any delegation made by the Commissioner under [section 4(3)][188] or [55A][286] of the Police Act 1958 that is in force immediately before the commencement of this Act and that could have been made under [section 17][21] of this Act continues according to its tenor as if---
+*   (1) Any delegation made by the Commissioner under [section 4(3)][188] or [55A][289] of the Police Act 1958 that is in force immediately before the commencement of this Act and that could have been made under [section 17][21] of this Act continues according to its tenor as if---
         
     *   (a) it had been made under [section 17][21]; and
     
     *   (b) [section 17][21] had been in force when the delegation was made.
     
-    (2) Nothing in this section limits the [Interpretation Act 1999][287].
+    (2) Nothing in this section limits the [Interpretation Act 1999][290].
 
 ##### 113 Appointments and authorisations by Commissioner under section 13 of Police Act 1958
     
-*   (1) Any appointment made or authorisation given by the Commissioner under [section 13][245] of the Police Act 1958 that is in force immediately before the commencement of this Act and that could have been made or given under [section 63][82] of this Act continues according to its tenor as if---
+*   (1) Any appointment made or authorisation given by the Commissioner under [section 13][247] of the Police Act 1958 that is in force immediately before the commencement of this Act and that could have been made or given under [section 63][82] of this Act continues according to its tenor as if---
         
     *   (a) it had been made under [section 63][82]; and
     
     *   (b) [section 63][82] had been in force when the appointment or authorisation was made or given.
     
-    (2) Nothing in this section limits the [Interpretation Act 1999][287].
+    (2) Nothing in this section limits the [Interpretation Act 1999][290].
 
 ##### 114 Police crest and badge
     
 *   Until the commencement of regulations under this Act prescribing a Police crest and badge,---
         
-    *   (a) this Act applies as if the crest and badge whose design was, immediately before the commencement of this Act, depicted in [Schedule 1][288] of the Police Regulations 1992 were prescribed as the crest and badge worn by any Police employee while on duty; and
+    *   (a) this Act applies as if the crest and badge whose design was, immediately before the commencement of this Act, depicted in [Schedule 1][291] of the Police Regulations 1992 were prescribed as the crest and badge worn by any Police employee while on duty; and
     
     *   (b) the definition in [section 4][5] of _Police article_ has effect accordingly.
     
@@ -2127,17 +2159,17 @@ Biometric information, international policing, and other miscellaneous provision
     
 *   \[Repealed\]
     
-    Section 115: repealed, on 1 July 2010, by [section 5][289] of the Policing (Involvement in Local Authority Elections) Amendment Act 2010 (2010 No 43).
+    Section 115: repealed, on 1 July 2010, by [section 5][292] of the Policing (Involvement in Local Authority Elections) Amendment Act 2010 (2010 No 43).
 
 #### Validation of constable's oaths
     
-*   Heading: inserted, on 8 December 2009, by [section 4][290] of the Policing (Constable's Oaths Validation) Amendment Act 2009 (2009 No 58).
+*   Heading: inserted, on 8 December 2009, by [section 4][293] of the Policing (Constable's Oaths Validation) Amendment Act 2009 (2009 No 58).
 
 ##### 115A Validation of constable's oaths
     
 *   A Police employee or judicial officer who has administered the constable's oath described in [section 22(1)][30] in the period that commenced on 1 October 2008 and ended with the close of 12 October 2009 is to be treated as having been authorised, throughout that period, by the Commissioner to administer the oath and as having administered the oath in accordance with section 22\.
     
-    Section 115A: inserted, on 8 December 2009, by [section 4][290] of the Policing (Constable's Oaths Validation) Amendment Act 2009 (2009 No 58).
+    Section 115A: inserted, on 8 December 2009, by [section 4][293] of the Policing (Constable's Oaths Validation) Amendment Act 2009 (2009 No 58).
 
 #### Terms relating to Police in other enactments
 
@@ -2179,15 +2211,15 @@ Biometric information, international policing, and other miscellaneous provision
 
 ##### 118 Amendments to District Courts Act 1947
     
-*   (1) This section amends the [District Courts Act 1947][291].
+*   (1) This section amends the [District Courts Act 1947][294].
     
-    (2) [Section 17(1)][292] is amended by repealing paragraph (a) and substituting the following paragraph:
+    (2) [Section 17(1)][295] is amended by repealing paragraph (a) and substituting the following paragraph:
     
     > *   "(a) have the powers of a constable and take the oath in either of the forms set out in subsection (3) before any Justice:"
     > 
     > 
     
-    (3) [Section 17][292] is amended by adding the following subsection:
+    (3) [Section 17][295] is amended by adding the following subsection:
     
     > *   "(3) The oath referred to in subsection (1)(a) is as follows:
     >     
@@ -2209,11 +2241,11 @@ Biometric information, international policing, and other miscellaneous provision
 
 ##### 119 Amendments to Employment Relations Act 2000
     
-*   [Sections 120 to 122][157] amend the [Employment Relations Act 2000][234].
+*   [Sections 120 to 122][157] amend the [Employment Relations Act 2000][236].
 
 ##### 120 New sections 100F and 100G inserted
     
-*   The following sections are inserted after [section 100E][293]:
+*   The following sections are inserted after [section 100E][296]:
     
     > ##### "100F Code of good faith for employment relationships in relation to provision of services by New Zealand Police
     >     
@@ -2251,11 +2283,9 @@ Biometric information, international policing, and other miscellaneous provision
 
 ##### 121 Schedule 1 amended
     
-*   [Part A][294] of Schedule 1 is amended by adding the following item:
+*   [Part A][297] of Schedule 1 is amended by adding the following item:
     
-    > ##### "16
-    >     
-    > *   "The provision of Police emergency response services as defined in clause 3 of Schedule 1C."
+    > *   "16 The provision of Police emergency response services as defined in clause 3 of Schedule 1C."
     > 
     > 
     
@@ -2263,33 +2293,33 @@ Biometric information, international policing, and other miscellaneous provision
 
 ##### 122 New Schedule 1C inserted
     
-*   The Schedule 1C set out in [Schedule 3][179] of this Act is inserted after [Schedule 1B][295].
+*   The Schedule 1C set out in [Schedule 3][179] of this Act is inserted after [Schedule 1B][298].
 
 #### Amendment to Criminal Records (Clean Slate) Act 2004
 
 ##### 123 Amendment to Criminal Records (Clean Slate) Act 2004
     
-*   (1) This section amends the [Criminal Records (Clean Slate) Act 2004][296].
+*   (1) This section amends the [Criminal Records (Clean Slate) Act 2004][299].
     
-    (2) [Section 19(3)(d)(iii)][297] is amended by omitting ""member of the police"" and substituting ""Police employee"".
+    (2) [Section 19(3)(d)(iii)][300] is amended by omitting ""member of the police"" and substituting ""Police employee"".
 
 #### Amendments to Land Transport Act 1998
 
 ##### 124 Amendments to Land Transport Act 1998
     
-*   (1) This section amends the [Land Transport Act 1998][298].
+*   (1) This section amends the [Land Transport Act 1998][301].
     
-    (2) [Section 22(3)][299] is amended by omitting the words ""in person at the nearest police station or"".
+    (2) [Section 22(3)][302] is amended by omitting the words ""in person at the nearest police station or"".
     
-    (3) [Section 22(5)][299] is amended by omitting ""to the nearest police station or"".
+    (3) [Section 22(5)][302] is amended by omitting ""to the nearest police station or"".
 
 #### Amendment to State Sector Act 1988
 
 ##### 125 Amendment to State Sector Act 1988
     
-*   (1) This section amends the [State Sector Act 1988][300].
+*   (1) This section amends the [State Sector Act 1988][303].
     
-    (2) [Section 44(2)][301] is amended by repealing paragraph (d) and substituting the following paragraph:
+    (2) [Section 44(2)][304] is amended by repealing paragraph (d) and substituting the following paragraph:
     
     > *   "(d) The Commissioner of Police is the chief executive of the New Zealand Police."
     > 
@@ -2301,11 +2331,11 @@ Biometric information, international policing, and other miscellaneous provision
 
 ##### 126 Amendment to Summary Offences Act 1981
     
-*   [Sections 127][170] and [128][171] amend the [Summary Offences Act 1981][302].
+*   [Sections 127][170] and [128][171] amend the [Summary Offences Act 1981][305].
 
 ##### 127 Interpretation
     
-*   (1) [Section 2][303] is amended by inserting the following definitions in their appropriate alphabetical order:
+*   (1) [Section 2][306] is amended by inserting the following definitions in their appropriate alphabetical order:
     
     > "_authorised officer_ has the meaning given in section 4 of the Policing Act 2008
     > 
@@ -2313,7 +2343,7 @@ Biometric information, international policing, and other miscellaneous provision
     > 
     > "_Police dog handler_ has the meaning given in section 4 of the Policing Act 2008".
     
-    (2) [Section 2][303] is amended by repealing the definition of _constable_ and inserting the following definition in its appropriate alphabetical order:
+    (2) [Section 2][306] is amended by repealing the definition of _constable_ and inserting the following definition in its appropriate alphabetical order:
     
     > "_constable_ has the meaning given in section 4 of the Policing Act 2008".
     
@@ -2321,11 +2351,11 @@ Biometric information, international policing, and other miscellaneous provision
 
 ##### 128 Resisting Police, prison, or traffic officer
     
-*   (1) [Section 23(a)][304] is amended by inserting ""or any authorised officer,"" after ""constable"".
+*   (1) [Section 23(a)][307] is amended by inserting ""or any authorised officer,"" after ""constable"".
     
-    (2) [Section 23(b)][304] is amended by inserting ""authorised officer,"" after ""constable"".
+    (2) [Section 23(b)][307] is amended by inserting ""authorised officer,"" after ""constable"".
     
-    (3) [Section 23][304] is amended by adding the following paragraph:
+    (3) [Section 23][307] is amended by adding the following paragraph:
     
     > *   "(c) any Police dog working under the control of a Police dog handler."
     > 
@@ -2337,9 +2367,9 @@ Biometric information, international policing, and other miscellaneous provision
 
 ##### 129 Amendment to Hazardous Substances (Classes 1 to 5 Controls) Regulations 2001
     
-*   (1) This section amends the [Hazardous Substances (Classes 1 to 5 Controls) Regulations 2001][305].
+*   (1) This section amends the [Hazardous Substances (Classes 1 to 5 Controls) Regulations 2001][308].
     
-    (2) The following regulation is inserted after [regulation 9A][306]:
+    (2) The following regulation is inserted after [regulation 9A][309]:
     
     > ##### "9B Exclusion for substances when used in policing
     >     
@@ -2363,13 +2393,13 @@ Biometric information, international policing, and other miscellaneous provision
     
 *   (1) The Acts specified in [Schedule 4][180] are amended in the manner set out in that Schedule.
     
-    (2) [Section 46F(2)(b)(i)][307] of the Burial and Cremation Act 1964 is amended by omitting ""member of the police"" and substituting ""constable"".
+    (2) [Section 46F(2)(b)(i)][310] of the Burial and Cremation Act 1964 is amended by omitting ""member of the police"" and substituting ""constable"".
     
     (3) The regulations specified in [Schedule 5][181] are amended in the manner set out in that Schedule.
     
-    (4) The enactments specified in [Part 1][308] of Schedule 6 are repealed.
+    (4) The enactments specified in [Part 1][311] of Schedule 6 are repealed.
     
-    (5) The enactments specified in [Part 2][309] of Schedule 6 are revoked.
+    (5) The enactments specified in [Part 2][312] of Schedule 6 are revoked.
 
 ---
 
@@ -2381,25 +2411,21 @@ Policing roles
 ## Part 1  
 Police jailer and escort
 
-##### 1
-    
-*   A Police employee warranted as a Police jailer and escort has the following powers:
+*   1 A Police employee warranted as a Police jailer and escort has the following powers:
         
     *   (a) the powers of a constable under [sections 32][45], [33][46], and [36][51] of this Act:
     
-    *   (ab) the powers of a constable under [section 11][310] of the Search and Surveillance Act 2012:
+    *   (ab) the powers of a constable under [section 11][313] of the Search and Surveillance Act 2012:
     
     *   (b) the powers of a constable to search a person in the lawful custody of the Police:
     
     *   (c) the powers of a constable to transport, or accompany during transport, a person in the lawful custody of the Police to or from any destination.
     
-    Schedule 1 clause 1(a): amended, on 1 October 2012, by [section 336(3)][213] of the Search and Surveillance Act 2012 (2012 No 24).
+    Schedule 1 clause 1(a): amended, on 1 October 2012, by [section 336(3)][215] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Schedule 1 clause 1(ab): inserted, on 1 October 2012, by [section 336(4)][213] of the Search and Surveillance Act 2012 (2012 No 24).
+    Schedule 1 clause 1(ab): inserted, on 1 October 2012, by [section 336(4)][215] of the Search and Surveillance Act 2012 (2012 No 24).
 
-##### 2
-    
-*   The power in clause 1(c) includes the custody, control, and supervision of the detainee during the transport and any custody, control, and supervision while the detainee is at any place to or from which the detainee is transported (other than a prison or police station) that is incidental to the transport.
+*   2 The power in clause 1(c) includes the custody, control, and supervision of the detainee during the transport and any custody, control, and supervision while the detainee is at any place to or from which the detainee is transported (other than a prison or police station) that is incidental to the transport.
     
     ###### Example
     
@@ -2410,9 +2436,7 @@ Police jailer and escort
 ## Part 2  
 Police guard
 
-##### 3
-    
-*   A Police employee warranted as a Police guard has the following powers:
+*   3 A Police employee warranted as a Police guard has the following powers:
         
     *   (a) the powers of a constable under [sections 32(2)][45], [35][50], and [36][51] of this Act:
     
@@ -2427,9 +2451,7 @@ Police guard
 ## Part 3  
 Police specialist crime investigator
 
-##### 4
-    
-*   A Police employee warranted as a Police specialist crime investigator has the following powers:
+*   4 A Police employee warranted as a Police specialist crime investigator has the following powers:
         
     *   (a) the powers of a constable to apply for a warrant under any enactment:
     
@@ -2441,29 +2463,23 @@ Police specialist crime investigator
     
     *   (e) the powers of a constable under [sections 32][45] and [33][46] of this Act:
     
-    *   (ea) the powers of a constable under [section 11][310] of the Search and Surveillance Act 2012:
+    *   (ea) the powers of a constable under [section 11][313] of the Search and Surveillance Act 2012:
     
     *   (f) the powers of a constable to search a person in the lawful custody of the Police:
     
     *   (g) the powers of a constable to transport, or accompany during transport, a person in the lawful custody of the Police to or from any destination.
     
-    Schedule 1 clause 4(e): amended, on 1 October 2012, by [section 336(5)][213] of the Search and Surveillance Act 2012 (2012 No 24).
+    Schedule 1 clause 4(e): amended, on 1 October 2012, by [section 336(5)][215] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Schedule 1 clause 4(ea): inserted, on 1 October 2012, by [section 336(6)][213] of the Search and Surveillance Act 2012 (2012 No 24).
+    Schedule 1 clause 4(ea): inserted, on 1 October 2012, by [section 336(6)][215] of the Search and Surveillance Act 2012 (2012 No 24).
 
-##### 5
+*   5 The power in clause 4(b) does not include the power to stop a vehicle under section 121 of the Search and Surveillance Act 2012\.
     
-*   The power in clause 4(b) does not include the power to stop a vehicle under [section 121][311] of the Search and Surveillance Act 2012\.
-    
-    Schedule 1 clause 5: amended, on 1 October 2012, by [section 336(7)][213] of the Search and Surveillance Act 2012 (2012 No 24).
+    Schedule 1 clause 5: amended, on 1 October 2012, by [section 336(7)][215] of the Search and Surveillance Act 2012 (2012 No 24).
 
-##### 6
-    
-*   For the purpose of clause 4(d), whatever state of mind is necessary in order for the arrest to be lawfully made, it is sufficient if the constable who authorises the arrest to be made has that state of mind.
+*   6 For the purpose of clause 4(d), whatever state of mind is necessary in order for the arrest to be lawfully made, it is sufficient if the constable who authorises the arrest to be made has that state of mind.
 
-##### 7
-    
-*   The power in clause 4(g) includes the custody, control, and supervision of the detainee during the transport and any custody, control, and supervision while the detainee is at any place to or from which the detainee is transported (other than a prison or police station) that is incidental to the transport.
+*   7 The power in clause 4(g) includes the custody, control, and supervision of the detainee during the transport and any custody, control, and supervision while the detainee is at any place to or from which the detainee is transported (other than a prison or police station) that is incidental to the transport.
     
     ###### Example
     
@@ -2474,29 +2490,27 @@ Police specialist crime investigator
 ## Part 4  
 Police transport enforcement officer
 
-##### 8
-    
-*   A Police employee warranted as a Police transport enforcement officer has the following powers:
+*   8 A Police employee warranted as a Police transport enforcement officer has the following powers:
         
     *   (a) \[Repealed\]
     
-    *   (b) the powers of a constable under [sections 113(2)(a)][312], (c), and (d), 113(3), and [114(1), (2), and (3)][313] of the Land Transport Act 1998:
+    *   (b) the powers of a constable under [sections 113(2)(a)][314], (c), and (d), 113(3), and [114(1), (2), and (3)][315] of the Land Transport Act 1998:
     
     *   (c) the powers of a constable under [section 32][45], [33][46], [35][50], and [36][50] of this Act:
     
     *   (d) the powers of a constable to execute any unexecuted process for the arrest of any person without having the process in his or her possession:
     
-    *   (e) the powers of a constable under [sections 12][314], [13][315], and [15][316] of the Aviation Crimes Act 1972:
+    *   (e) the powers of a constable under [sections 12][316], [13][317], and [15][318] of the Aviation Crimes Act 1972:
     
-    *   (f) the powers of a constable under [sections 144][317], [148B][318], [149A][319], [149B][320], [149BA][321], [149C][322], [172(1)][323], [226][324], and [280D][325] of the Customs and Excise Act 1996:
+    *   (f) the powers of a constable under [sections 144][319], [148B][320], [149A][321], [149B][322], [149BA][323], [149C][324], [172(1)][325], [226][326], and [280D][327] of the Customs and Excise Act 1996:
     
-    *   (g) the powers of a constable under [sections 46(2)--(5)][326], [51(1)][327], [52(1)][328], [54(1) and (3)][329], [55(1)][330], [56(1)][331], and [58(1)][332] of the Maritime Security Act 2004\.
+    *   (g) the powers of a constable under [sections 46(2)--(5)][328], [51(1)][329], [52(1)][330], [54(1) and (3)][331], [55(1)][332], [56(1)][333], and [58(1)][334] of the Maritime Security Act 2004\.
         
         ###### Example
         
         A Police employee working at a roadside drink driver or drug-affected driver screening operation.
     
-    Schedule 1 clause 8(a): repealed, on 10 May 2011, by [section 100(3)][333] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Schedule 1 clause 8(a): repealed, on 10 May 2011, by [section 100(3)][335] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
 ---
 
@@ -2545,7 +2559,7 @@ Procedure for compulsory final offer arbitration for constables
 
 ##### 3 Copies of statement
     
-*   When the arbitrating body has received both of the statements required under [clause 2][334], it must supply---
+*   When the arbitrating body has received both of the statements required under [clause 2][336], it must supply---
         
     *   (a) a copy of the service organisation's statement to the Commissioner; and
     
@@ -2559,7 +2573,7 @@ Procedure for compulsory final offer arbitration for constables
     
     (2) The arbitrating body must, at the conclusion of the hearing and before making its determination, give each of the parties the opportunity to restate in writing, within a specified time or before a specified date, its final offer.
     
-    (3) If a party restates its final offer, the offer as restated is that party's final offer for the purposes of [clause 7][335].
+    (3) If a party restates its final offer, the offer as restated is that party's final offer for the purposes of [clause 7][337].
 
 ##### 5 Criteria to be observed by arbitrating body
     
@@ -2856,15 +2870,15 @@ Consequential amendments to other Acts
 
 [s 130(1)][176]
 
-##### [Alcoholism and Drug Addiction Act 1966][336] (1966 No 97)
+##### [Alcoholism and Drug Addiction Act 1966][338] (1966 No 97)
 
 Section 37A: repeal.
 
-##### [Anti-Personnel Mines Prohibition Act 1998][337] (1998 No 111)
+##### [Anti-Personnel Mines Prohibition Act 1998][339] (1998 No 111)
 
 Section 4(1)(a): omit ""member of the police"" and substitute ""Police employee"".
 
-##### [Arms Act 1983][338] (1983 No 44)
+##### [Arms Act 1983][340] (1983 No 44)
 
 Definition of _member of the Police_ in section 2: repeal and substitute:
 
@@ -2874,7 +2888,7 @@ Section 72(1): omit ""rank"" and substitute ""level of position"".
 
 Section 72(3): omit ""rank"" and substitute ""level of position"".
 
-##### [Bail Act 2000][339] (2000 No 38)
+##### [Bail Act 2000][341] (2000 No 38)
 
 Heading to section 21: omit ""**member of police**"" and substitute ""**Police employee**"".
 
@@ -2886,7 +2900,7 @@ Section 22: omit ""member of the police"" in each place it appears and substitut
 
 Section 23: omit ""member of the police"" in each place it appears and substitute in each case ""Police employee"".
 
-##### [Births, Deaths, and Marriages Registration Act 1995][340] (1995 No 16)
+##### [Births, Deaths, and Marriages Registration Act 1995][342] (1995 No 16)
 
 Section 7(1): omit ""member of the Police"" and substitute ""Police employee"".
 
@@ -2896,15 +2910,15 @@ Section 50(1)(b): omit ""unit of the Police of New Zealand forming part of a Uni
 
 Section 50(2)(b): insert ""or level of position"" after ""rank"".
 
-##### [Care of Children Act 2004][341] (2004 No 90)
+##### [Care of Children Act 2004][343] (2004 No 90)
 
 Section 76(6): omit ""section 39 of the Police Act 1958 (which relates to protection of members of the police"" and substitute ""section 44 of the Policing Act 2008 (which relates to protection of Police employees"".
 
-##### [Child Support Act 1991][342] (1991 No 142)
+##### [Child Support Act 1991][344] (1991 No 142)
 
 Section 240(2)(dc): omit ""member of the New Zealand Police"" and substitute ""Police employee"".
 
-##### [Children, Young Persons, and Their Families Act 1989][343] (1989 No 24)
+##### [Children, Young Persons, and Their Families Act 1989][345] (1989 No 24)
 
 Section 211(2)(b): omit ""rank"" and substitute ""level of position"".
 
@@ -2914,21 +2928,21 @@ Section 384D(2): omit ""member of the police"" and substitute ""Police employee"
 
 Section 445B(6): omit ""section 39 of the Police Act 1958 (which relates to the protection of members of the Police"" and substitute ""section 44 of the Policing Act 2008 (which relates to protection of Police employees"".
 
-##### [Civil Defence Emergency Management Act 2002][344] (2002 No 33)
+##### [Civil Defence Emergency Management Act 2002][346] (2002 No 33)
 
 Section 20(1)(b): omit ""member of the police"" and substitute ""Police employee"".
 
-##### [Conservation Act 1987][345] (1987 No 65)
+##### [Conservation Act 1987][347] (1987 No 65)
 
 Section 26ZZK(1)(a): omit ""member of the Police"" and substitute ""Police employee"".
 
-##### [Coroners Act 2006][346] (2006 No 38)
+##### [Coroners Act 2006][348] (2006 No 38)
 
 Section 115: omit ""members of the police"" and substitute ""Police employees"".
 
 Section 43(2): omit ""rank"" and substitute ""level of position"".
 
-##### [Corrections Act 2004][347] (2004 No 50)
+##### [Corrections Act 2004][349] (2004 No 50)
 
 Section 38(2)(b): omit ""member of the police or an officer of a police jail"" and substitute ""Police employee"".
 
@@ -2938,17 +2952,17 @@ Section 38(4)(b): omit ""officer of a police jail or member of the police"" and 
 
 Section 38(8): omit ""member of the police"" and substitute ""Police employee"".
 
-##### [Criminal Justice Act 1985][348] (1985 No 120)
+##### [Criminal Justice Act 1985][350] (1985 No 120)
 
 Section 138(2)(c): omit ""member of the Police"" and substitute ""Police employee"".
 
 Section 141: omit ""member of the Police"" in each place it appears and substitute in each case ""Police employee"".
 
-##### [Criminal Records (Clean Slate) Act 2004][296] (2004 No 36)
+##### [Criminal Records (Clean Slate) Act 2004][299] (2004 No 36)
 
 Section 19(3)(c): omit ""member of the police"" and substitute ""Police employee"".
 
-##### [Crimes Act 1961][199] (1961 No 64)
+##### [Crimes Act 1961][264] (1961 No 64)
 
 Definition of _constable_ in section 2: repeal and substitute:
 
@@ -2978,7 +2992,7 @@ Section 312Q: insert after paragraph (k):
 
 Section 317B(1): omit ""rank"" and substitute ""level of position"".
 
-##### [Criminal Investigations (Bodily Samples) Act 1995][349] (1995 No 55)
+##### [Criminal Investigations (Bodily Samples) Act 1995][351] (1995 No 55)
 
 Section 44(1): omit ""rank"" and substitute ""level of position"".
 
@@ -2990,19 +3004,19 @@ Section 47(1): omit ""rank"" and substitute ""level of position"".
 
 Section 76: omit ""section 65 of the Police Act 1958"" and substitute ""section 101 of the Policing Act 2008"".
 
-##### [Domestic Violence Act 1995][350] (1995 No 86)
+##### [Domestic Violence Act 1995][352] (1995 No 86)
 
 Section 23(6): omit ""member of the Police"" and substitute ""Police employee"".
 
-##### [Electoral Act 1993][351] (1993 No 87)
+##### [Electoral Act 1993][353] (1993 No 87)
 
 Section 52(1)(b): omit ""members"" and substitute ""employees"".
 
-##### [Equal Pay Act 1972][352] (1972 No 118)
+##### [Equal Pay Act 1972][354] (1972 No 118)
 
 Paragraph (b) of the definition of _Employee_ in section 2: repeal.
 
-##### [Evidence Act 2006][353] (2006 No 69)
+##### [Evidence Act 2006][355] (2006 No 69)
 
 Section 108(2): repeal paragraph (c) and substitute the following paragraph:
 
@@ -3010,17 +3024,17 @@ Section 108(2): repeal paragraph (c) and substitute the following paragraph:
 > 
 > 
 
-##### [Extradition Act 1999][354] (1999 No 55)
+##### [Extradition Act 1999][356] (1999 No 55)
 
 Section 82(3): omit ""section 57A of the Police Act 1958"" and substitute ""section 37 of the Policing Act 2008"".
 
-##### [Films, Videos, and Publications Classification Act 1993][355] (1993 No 94)
+##### [Films, Videos, and Publications Classification Act 1993][357] (1993 No 94)
 
 Section 145(1): omit ""rank"" and substitute ""level of position"".
 
 Section 145(3): omit ""rank"" and substitute ""level of position"".
 
-##### [Financial Transactions Reporting Act 1996][356] (1996 No 9)
+##### [Financial Transactions Reporting Act 1996][358] (1996 No 9)
 
 Section 15(3): omit ""member of the Police"" and substitute ""Police employee"".
 
@@ -3036,15 +3050,15 @@ Section 20(1)(a): omit ""member of the Police"" and substitute ""Police employee
 
 Section 21(2): omit ""member of the Police"" and substitute ""Police employee"".
 
-##### [Flags, Emblems, and Names Protection Act 1981][357] (1981 No 47)
+##### [Flags, Emblems, and Names Protection Act 1981][359] (1981 No 47)
 
 Schedule 3: omit item relating to Police Regulations 1949 (Reprinted with amendments Nos 1-24: SR 1985/259): Regulation 93B.
 
-##### [Government Communications Security Bureau Act 2003][358] (2003 No 9)
+##### [Government Communications Security Bureau Act 2003][360] (2003 No 9)
 
 Section 25: omit ""members"" and substitute ""employees"".
 
-##### [Government Superannuation Fund Act 1956][257] (1956 No 47)
+##### [Government Superannuation Fund Act 1956][259] (1956 No 47)
 
 Section 88F(1): Repeal paragraphs (a) and (b) and substitute:
 
@@ -3058,13 +3072,13 @@ Section 88F(1): Repeal paragraphs (a) and (b) and substitute:
 
 Section 88G(1): omit ""leaves the police under section 28C or section 28D of the Police Act 1958"" and substitute ""left the police under section 28C or 28D of the Police Act 1958, or leaves the police under section 74 or 76 of the Policing Act 2008"" after ""Police Act 1958"".
 
-##### [Human Rights Act 1993][359] (1993 No 82)
+##### [Human Rights Act 1993][361] (1993 No 82)
 
 Heading to section 34: omit ""**and Police**"".
 
 Section 34(2): repeal.
 
-##### [Independent Police Conduct Authority Act 1988][360] (1988 No 2)
+##### [Independent Police Conduct Authority Act 1988][362] (1988 No 2)
 
 Definition of _Commissioner_ in section 2: omit ""Police Act 1958"" and substitute ""Policing Act 2008"".
 
@@ -3080,11 +3094,11 @@ Section 27(2): omit ""member of the Police"" and substitute ""Police employee"".
 
 Section 28(2)(b): omit ""member of the Police"" and substitute ""Police employee"".
 
-##### [Inspector-General of Intelligence and Security Act 1996][361] (1996 No 47)
+##### [Inspector-General of Intelligence and Security Act 1996][363] (1996 No 47)
 
 Section 15(2): omit ""member of the Police"" in each place it appears and substitute in each case ""Police employee"".
 
-##### [International Crimes and International Criminal Court Act 2000][362] (2000 No 26)
+##### [International Crimes and International Criminal Court Act 2000][364] (2000 No 26)
 
 Section 29(3)(c): omit ""member of the police"" and substitute ""Police employee"".
 
@@ -3104,19 +3118,19 @@ Section 146(a): omit ""member of the police"" and substitute ""Police employee""
 
 Section 153(1): omit ""member of the police"" in each place it appears and substitute in each case ""Police employee"".
 
-##### [International Terrorism (Emergency Powers) Act 1987][363] (1987 No 179)
+##### [International Terrorism (Emergency Powers) Act 1987][365] (1987 No 179)
 
 Section 17(2): omit ""section 65 of the Police Act 1958"" and substitute ""section 101 of the Policing Act 2008"".
 
-##### [Interpretation Act 1999][287] (1999 No 85)
+##### [Interpretation Act 1999][290] (1999 No 85)
 
 Definition of _constable_ in section 30: repeal.
 
-##### [Juries Act 1981][364] (1981 No 23)
+##### [Juries Act 1981][366] (1981 No 23)
 
 Section 8(g): omit ""members"" and substitute ""employees"".
 
-##### [Land Transport Act 1998][298] (1998 No 110)
+##### [Land Transport Act 1998][301] (1998 No 110)
 
 Section 5(5)(c): omit ""member of the Police"" and substitute ""Police employee"".
 
@@ -3126,25 +3140,25 @@ Section 54(3): omit ""section 51 of the Police Act 1958"" and substitute ""secti
 
 Section 211(4): omit ""sworn or non-sworn member of the Police"" and substitute ""Police employee"".
 
-##### [Lawyers and Conveyancers Act 2006][365] (2006 No 1)
+##### [Lawyers and Conveyancers Act 2006][367] (2006 No 1)
 
 Section 150(g): omit ""member of the New Zealand Police or"" and substitute ""Police employee or member of"".
 
 Section 188(2)(e): omit ""member of the New Zealand Police or"" and substitute ""Police employee or member of"".
 
-##### [Local Government Act 1974][366] (1974 No 66)
+##### [Local Government Act 1974][368] (1974 No 66)
 
 Section 342A: repeal.
 
-##### [Maritime Crimes Act 1999][367] (1999 No 56)
+##### [Maritime Crimes Act 1999][369] (1999 No 56)
 
 Section 12(4)(b): omit ""member of the police"" and substitute ""Police employee"".
 
-##### [Medicines Act 1981][368] (1981 No 118)
+##### [Medicines Act 1981][370] (1981 No 118)
 
 Section 49A(3)(h): omit ""Members of the Police"" and substitute ""Police employees"".
 
-##### [Misuse of Drugs Act 1975][369] (1975 No 116)
+##### [Misuse of Drugs Act 1975][371] (1975 No 116)
 
 Section 5AA(3)(c): omit ""member of the police"" and substitute ""Police employee"".
 
@@ -3152,7 +3166,7 @@ Section 18A(1): omit ""section 57A of the Police Act 1958"" and substitute ""sec
 
 Section 20(3)(g): omit ""members of the Police"" and substitute ""Police employees"".
 
-##### [Misuse of Drugs Amendment Act 1978][370] (1978 No 65)
+##### [Misuse of Drugs Amendment Act 1978][372] (1978 No 65)
 
 Section 15A(1): omit ""member of the Police"" and substitute ""Police employee"".
 
@@ -3164,21 +3178,21 @@ Section 20(7): omit ""member of the Police"" and substitute ""Police employee"".
 
 Section 29: omit ""section 65 of the Police Act 1958"" and substitute ""section 101 of the Policing Act 2008"".
 
-##### [National Parks Act 1980][371] (1980 No 66)
+##### [National Parks Act 1980][373] (1980 No 66)
 
 Section 56E(1)(a): omit ""member of the Police"" and substitute ""Police employee"".
 
-##### [New Zealand Security Intelligence Service Act 1969][372] (1969 No 24)
+##### [New Zealand Security Intelligence Service Act 1969][374] (1969 No 24)
 
 Section 4H(1): omit ""members"" and substitute ""employees"".
 
-##### [Parole Act 2002][373] (2002 No 10)
+##### [Parole Act 2002][375] (2002 No 10)
 
 Section 55: omit ""member of the police"" in each place it appears and substitute in each case ""Police employee"".
 
 Section 66A: omit ""Section 39 of the Police Act 1958"" and substitute ""section 44 of the Policing Act 2008"".
 
-##### [Proceeds of Crime Act 1991][374] (1991 No 120)
+##### [Proceeds of Crime Act 1991][376] (1991 No 120)
 
 Section 69: omit ""member of the Police"" in each place it appears and substitute in each case ""Police employee"".
 
@@ -3188,25 +3202,25 @@ Heading to section 71: omit ""police officers"" and substitute ""Police employee
 
 Section 71: omit ""member of the Police"" in each place it appears and substitute in each case ""Police employee"".
 
-##### [Real Estate Agents Act 1976][375] (1976 No 9)
+##### [Real Estate Agents Act 1976][377] (1976 No 9)
 
 Section 91(5): omit ""member of the Police"" and substitute ""Police employee"".
 
-##### [Resource Management Act 1991][376] (1991 No 69)
+##### [Resource Management Act 1991][378] (1991 No 69)
 
 Definition of _constable_ in section 2: repeal and substitute:
 
 > "_constable_ has the meaning given in section 4 of the Policing Act 2008".
 
-##### [Sports Anti-Doping Act 2006][377] (2006 No 58)
+##### [Sports Anti-Doping Act 2006][379] (2006 No 58)
 
 Section 28: omit ""member of the Police"" and substitute ""Police employee"".
 
-##### [Summary Offences Act 1981][302] (1981 No 113)
+##### [Summary Offences Act 1981][305] (1981 No 113)
 
 Section 24(a): omit ""constable"" and substitute ""Police employee"".
 
-##### [Summary Proceedings Act 1957][200] (1957 No 87)
+##### [Summary Proceedings Act 1957][380] (1957 No 87)
 
 Definition of _constable_ in section 2: repeal and substitute:
 
@@ -3214,11 +3228,11 @@ Definition of _constable_ in section 2: repeal and substitute:
 
 Section 192: repeal.
 
-##### [Tax Administration Act 1994][378] (1994 No 166)
+##### [Tax Administration Act 1994][381] (1994 No 166)
 
 Section 85K(5): omit ""member of the New Zealand Police"" and substitute ""Police employee"".
 
-##### [Telecommunications (Residual Provisions) Act 1987][379] (1987 No 116)
+##### [Telecommunications (Residual Provisions) Act 1987][382] (1987 No 116)
 
 Section 10N(2)(a): omit ""member of the Police"" and substitute ""Police employee"".
 
@@ -3228,17 +3242,17 @@ Section 10O(3)(b): omit ""member of the Police"" and substitute ""Police employe
 
 Section 10R(1): omit ""section 65 of the Police Act 1958"" and substitute ""section 101 of the Policing Act 2008"".
 
-##### [Terrorism Suppression Act 2002][380] (2002 No 34)
+##### [Terrorism Suppression Act 2002][383] (2002 No 34)
 
 Section 44(3): omit ""rank"" and substitute ""level of position"".
 
-##### [Victims' Rights Act 2002][381] (2002 No 39)
+##### [Victims' Rights Act 2002][384] (2002 No 39)
 
 Section 7: omit ""member of the police"" and substitute ""Police employee"".
 
 Section 24(3)(a): omit ""member of the police"" and substitute ""Police employee"".
 
-##### [Volunteers Employment Protection Act 1973][382] (1973 No 25)
+##### [Volunteers Employment Protection Act 1973][385] (1973 No 25)
 
 Paragraph (b) of the definition of _state employee_ in section 2: omit ""sections 67, 67A, 75, and 76 of the Police Act 1958"" and substitute ""Part 4 of the Policing Act 2008"".
 
@@ -3249,27 +3263,27 @@ Consequential amendments to Regulations
 
 [s 130(3)][176]
 
-##### [Children, Young Persons, and Their Families (Forms) Regulations 1989][383] (SR 1989/296)
+##### [Children, Young Persons, and Their Families (Forms) Regulations 1989][386] (SR 1989/296)
 
 Form 5 in Schedule 1: omit ""rank"" and substitute ""level of position"".
 
 Form 6 in Schedule 1: omit ""**Senior Sergeant (or Commissioned Officer) of Police**"" and substitute ""**(level of position in Police)**"".
 
-##### [Corrections Regulations 2005][384] (SR 2005/53)
+##### [Corrections Regulations 2005][387] (SR 2005/53)
 
 Regulation 27(v): omit ""section 57 of the Police Act 1958 in connection with the laying of charges"" and substitute ""section 32 or 33 of the Policing Act 2008"".
 
-##### [Cremation Regulations 1973][385] (SR 1973/154)
+##### [Cremation Regulations 1973][388] (SR 1973/154)
 
 Regulation 7(1)(c): omit ""rank"" and substitute ""level of position"".
 
 Form D in Schedule 1: omit ""Rank"" and substitute ""Level of position"".
 
-##### [Evidence Regulation 2007][386] (SR 2007/204)
+##### [Evidence Regulation 2007][389] (SR 2007/204)
 
 Form in the Schedule: omit ""Designation/rank"" and substitute ""Designation/level of position"".
 
-##### [Government Superannuation Fund (Ceasing Contributions) Regulations 1995][387] (SR 1995/172)
+##### [Government Superannuation Fund (Ceasing Contributions) Regulations 1995][390] (SR 1995/172)
 
 Regulation 24: Insert the following subclause:
 
@@ -3277,7 +3291,7 @@ Regulation 24: Insert the following subclause:
 > 
 > 
 
-##### [New Zealand Operational Service Medal Regulations 2002][388] (SR 2002/234)
+##### [New Zealand Operational Service Medal Regulations 2002][391] (SR 2002/234)
 
 Regulation 4(d)(iii): omit "":"" and substitute ""; or"".
 
@@ -3287,15 +3301,15 @@ Regulation 4(d): add the following subparagraph:
 > 
 > 
 
-##### [Sale of Liquor Regulations 1990][389] (SR 1990/61)
+##### [Sale of Liquor Regulations 1990][392] (SR 1990/61)
 
 Form 25 in Schedule 1: omit ""rank"" and substitute ""level of position"".
 
-##### [Summary Proceedings Regulations 1958][390] (SR 1958/38)
+##### [Summary Proceedings Regulations 1958][393] (SR 1958/38)
 
 Form 49 in Schedule 1: revoke.
 
-##### [Traffic Regulations 1976][391] (SR 1976/227)
+##### [Traffic Regulations 1976][394] (SR 1976/227)
 
 Definition of _police officer_ in regulation 2: omit ""rank,"" and substitute ""level of position,"".
 
@@ -3309,159 +3323,50 @@ Enactments repealed or revoked
 ## Part 1  
 Acts repealed
 
-##### [Crimes and Misconduct (Overseas Operations) Act 2004][392] (2004 No 17)
+##### [Crimes and Misconduct (Overseas Operations) Act 2004][395] (2004 No 17)
 
 ##### [Police Act 1958][183] (1958 No 109)
 
-##### [United Nations (Police) Act 1964][393] (1964 No 1)
+##### [United Nations (Police) Act 1964][396] (1964 No 1)
 
 ## Part 2  
 Regulations revoked
 
-##### [Police Regulations 1992][281] (SR 1992/14)
+##### [Police Regulations 1992][284] (SR 1992/14)
 
-##### [Police (United Nations) Regulations 1964][394] (SR 1964/124)
+##### [Police (United Nations) Regulations 1964][397] (SR 1964/124)
 
----
-
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][395].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][396] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Policing Act 2008\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][397] ![](/images/external_link.gif).
+*   This is a reprint of the Policing Act 2008 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][398] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][398] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][399] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][399] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][400] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][401] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][400] and [17E][401] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][197]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Search and Surveillance Act 2012 (2012 No 24): [section 336][215]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][201]
     
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Search and Surveillance Act 2012 (2012 No 24): [section 336][213]
-    
-    Summary Proceedings Amendment Act 2011 (2011 No 32): [section 26][219]
+    Summary Proceedings Amendment Act 2011 (2011 No 32): [section 26][221]
     
     [Policing (Storage of Youth Identifying Particulars) Amendment Act 2011][402] (2011 No 65)
     
-    Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(3)][333]
+    Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(3)][335]
     
     [Policing (Involvement in Local Authority Elections) Amendment Act 2010][403] (2010 No 43)
     
@@ -3469,7 +3374,7 @@ Amendments, repeals, and miscellaneous provisions
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2008/0072/latest/whole.html#DLM1102128
 [2]: http://www.legislation.govt.nz/act/public/2008/0072/latest/whole.html#DLM1564700
 [3]: http://www.legislation.govt.nz/act/public/2008/0072/latest/whole.html#DLM1102130
@@ -3664,213 +3569,213 @@ Amendments, repeals, and miscellaneous provisions
 [192]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM321706
 [193]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322090
 [194]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM321712
-[195]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322040
-[196]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM151161
-[197]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322258
-[198]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322231
-[199]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM327381
-[200]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM310742
-[201]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM147094
-[202]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM3937722
-[203]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM153436
-[204]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM136807
-[205]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM311147
-[206]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM420326
-[207]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM173374
-[208]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM420611
-[209]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM328246
-[210]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM380504
-[211]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM380508
-[212]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM264220
-[213]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM2137147
-[214]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322276
-[215]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322279
-[216]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322092
-[217]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM312558
-[218]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322095
-[219]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM3556289
-[220]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322202
-[221]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322223
-[222]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322234
-[223]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322239
-[224]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322240
-[225]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322242
-[226]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322292
-[227]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322243
-[228]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322245
-[229]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM296520
-[230]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322227
-[231]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM58337
-[232]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM59970
-[233]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM59966
-[234]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM58316
-[235]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM323012
-[236]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM297038
-[237]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM129719
-[238]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM129733
-[239]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM321720
-[240]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM321724
-[241]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM321726
-[242]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM321728
-[243]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM129755
-[244]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM321730
-[245]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM321740
-[246]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM321755
-[247]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322554
-[248]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322716
-[249]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM59103
-[250]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM130357
-[251]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM321785
-[252]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322741
-[253]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322007
-[254]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM321793
-[255]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322018
-[256]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322025
-[257]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM446000
-[258]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322034
-[259]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM321749
-[260]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM240495
-[261]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM242319
-[262]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM242320
-[263]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM242321
-[264]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM242322
-[265]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM350931
-[266]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM350933
-[267]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM350934
-[268]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM350935
-[269]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM350936
-[270]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322205
-[271]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM378152
-[272]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322211
-[273]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322229
-[274]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM308524
-[275]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM308526
-[276]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM3013310
-[277]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM129464
-[278]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM129446
-[279]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM162464
-[280]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322512
-[281]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM151131
-[282]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM60904
-[283]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322567
-[284]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322723
-[285]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322206
-[286]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322246
-[287]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM31458
-[288]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM151198
-[289]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM3013311
-[290]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM2534108
-[291]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM242775
-[292]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM243234
-[293]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM60314
-[294]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM61702
-[295]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM61726
-[296]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM280839
-[297]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM293515
-[298]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM433612
-[299]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM434540
-[300]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM129109
-[301]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM129574
-[302]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM53347
-[303]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM53353
-[304]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM53578
-[305]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM35394
-[306]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM36378
-[307]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM355078
-[308]: http://www.legislation.govt.nz/act/public/2008/0072/latest/whole.html#DLM1102496
-[309]: http://www.legislation.govt.nz/act/public/2008/0072/latest/whole.html#DLM1102500
-[310]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM2136643
-[311]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM2136818
-[312]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM435099
-[313]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM435105
-[314]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM409204
-[315]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM409207
-[316]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM409213
-[317]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM378956
-[318]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM378983
-[319]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM379201
-[320]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM379205
-[321]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM379207
-[322]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM379211
-[323]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM379276
-[324]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM379920
-[325]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM380121
-[326]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM241842
-[327]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM241847
-[328]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM241848
-[329]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM241850
-[330]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM241851
-[331]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM241852
-[332]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM241854
-[333]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM3231293
-[334]: http://www.legislation.govt.nz/act/public/2008/0072/latest/whole.html#DLM1102399
-[335]: http://www.legislation.govt.nz/act/public/2008/0072/latest/whole.html#DLM1102404
-[336]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM380084
-[337]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM17800
-[338]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM72621
-[339]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM68379
-[340]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM359368
-[341]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM317232
-[342]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM253150
-[343]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM147087
-[344]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM149788
-[345]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM103609
-[346]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM377056
-[347]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM294848
-[348]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM76615
-[349]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM368903
-[350]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM371925
-[351]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM307518
-[352]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM407769
-[353]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM393462
-[354]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM25627
-[355]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM312894
-[356]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM373803
-[357]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM51357
-[358]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM187177
-[359]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM304211
-[360]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM126221
-[361]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM392284
-[362]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM63090
-[363]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM124822
-[364]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM44098
-[365]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM364938
-[366]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM415531
-[367]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM28200
-[368]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM53789
-[369]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM436100
-[370]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM23069
-[371]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM36962
-[372]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM391605
-[373]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM137631
-[374]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM250668
-[375]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM437937
-[376]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM230264
-[377]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM390106
-[378]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM348342
-[379]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM119011
-[380]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM151490
-[381]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM157812
-[382]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM409765
-[383]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM132881
-[384]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM315416
-[385]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM39375
-[386]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM443072
-[387]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM203168
-[388]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM141523
-[389]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM135470
-[390]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM11295
-[391]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM50037
-[392]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM242303
-[393]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM350925
-[394]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM20263
-[395]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM2136500
-[396]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM4686448
-[397]: http://www.pco.parliament.govt.nz/reprints/
-[398]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM195439
-[399]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[400]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM195468
-[401]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM195470
+[195]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM2997643
+[196]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM2998573
+[197]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM2998633
+[198]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322040
+[199]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM151161
+[200]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322258
+[201]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM3360714
+[202]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322231
+[203]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM3359902
+[204]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM147094
+[205]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM3937722
+[206]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM153436
+[207]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM136807
+[208]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM420326
+[209]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM173374
+[210]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM420611
+[211]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM328246
+[212]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM380504
+[213]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM380508
+[214]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM264220
+[215]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM2137147
+[216]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322276
+[217]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322279
+[218]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322092
+[219]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM312558
+[220]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322095
+[221]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM3556289
+[222]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322202
+[223]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322223
+[224]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322234
+[225]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322239
+[226]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322240
+[227]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322242
+[228]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322292
+[229]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322243
+[230]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322245
+[231]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM296520
+[232]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322227
+[233]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM58337
+[234]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM59970
+[235]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM59966
+[236]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM58316
+[237]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM323012
+[238]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM297038
+[239]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM129719
+[240]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM129733
+[241]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM321720
+[242]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM321724
+[243]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM321726
+[244]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM321728
+[245]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM129755
+[246]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM321730
+[247]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM321740
+[248]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM321755
+[249]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322554
+[250]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322716
+[251]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM59103
+[252]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM130357
+[253]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM321785
+[254]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322741
+[255]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322007
+[256]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM321793
+[257]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322018
+[258]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322025
+[259]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM446000
+[260]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322034
+[261]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM321749
+[262]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM240495
+[263]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM242319
+[264]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM327381
+[265]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM242320
+[266]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM242321
+[267]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM242322
+[268]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM350931
+[269]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM350933
+[270]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM350934
+[271]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM350935
+[272]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM350936
+[273]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322205
+[274]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM378152
+[275]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322211
+[276]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322229
+[277]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM308524
+[278]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM308526
+[279]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM3013310
+[280]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM129464
+[281]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM129446
+[282]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM162464
+[283]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322512
+[284]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM151131
+[285]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM60904
+[286]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322567
+[287]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322723
+[288]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322206
+[289]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM322246
+[290]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM31458
+[291]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM151198
+[292]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM3013311
+[293]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM2534108
+[294]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM242775
+[295]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM243234
+[296]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM60314
+[297]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM61702
+[298]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM61726
+[299]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM280839
+[300]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM293515
+[301]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM433612
+[302]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM434540
+[303]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM129109
+[304]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM129574
+[305]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM53347
+[306]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM53353
+[307]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM53578
+[308]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM35394
+[309]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM36378
+[310]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM355078
+[311]: http://www.legislation.govt.nz/act/public/2008/0072/latest/whole.html#DLM1102496
+[312]: http://www.legislation.govt.nz/act/public/2008/0072/latest/whole.html#DLM1102500
+[313]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM2136643
+[314]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM435099
+[315]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM435105
+[316]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM409204
+[317]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM409207
+[318]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM409213
+[319]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM378956
+[320]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM378983
+[321]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM379201
+[322]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM379205
+[323]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM379207
+[324]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM379211
+[325]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM379276
+[326]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM379920
+[327]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM380121
+[328]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM241842
+[329]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM241847
+[330]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM241848
+[331]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM241850
+[332]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM241851
+[333]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM241852
+[334]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM241854
+[335]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM3231293
+[336]: http://www.legislation.govt.nz/act/public/2008/0072/latest/whole.html#DLM1102399
+[337]: http://www.legislation.govt.nz/act/public/2008/0072/latest/whole.html#DLM1102404
+[338]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM380084
+[339]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM17800
+[340]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM72621
+[341]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM68379
+[342]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM359368
+[343]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM317232
+[344]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM253150
+[345]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM147087
+[346]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM149788
+[347]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM103609
+[348]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM377056
+[349]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM294848
+[350]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM76615
+[351]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM368903
+[352]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM371925
+[353]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM307518
+[354]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM407769
+[355]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM393462
+[356]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM25627
+[357]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM312894
+[358]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM373803
+[359]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM51357
+[360]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM187177
+[361]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM304211
+[362]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM126221
+[363]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM392284
+[364]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM63090
+[365]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM124822
+[366]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM44098
+[367]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM364938
+[368]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM415531
+[369]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM28200
+[370]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM53789
+[371]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM436100
+[372]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM23069
+[373]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM36962
+[374]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM391605
+[375]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM137631
+[376]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM250668
+[377]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM437937
+[378]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM230264
+[379]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM390106
+[380]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM310742
+[381]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM348342
+[382]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM119011
+[383]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM151490
+[384]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM157812
+[385]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM409765
+[386]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM132881
+[387]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM315416
+[388]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM39375
+[389]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM443072
+[390]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM203168
+[391]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM141523
+[392]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM135470
+[393]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM11295
+[394]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM50037
+[395]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM242303
+[396]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM350925
+[397]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM20263
+[398]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM2998516
+[399]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM2998515
+[400]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM2998532
+[401]: http://www.pco.parliament.govt.nz/editorial-conventions/
 [402]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM3937702
 [403]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM3013302
 [404]: http://www.legislation.govt.nz/act/public/2008/0072/latest/link.aspx?id=DLM2534100
