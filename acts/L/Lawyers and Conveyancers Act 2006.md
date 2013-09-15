@@ -1,5 +1,5 @@
 Reprint  
-as at 12 December 2012
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -199,7 +199,7 @@ This Act is administered by the Ministry of Justice.
 
 [71][86][][86][Registration of constitution and amendments to constitution][86]
 
-[72][87][][87][Application of Acts and Regulations Publication Act 1989 and Regulations (Disallowance) Act 1989][87]
+[72][87][][87][Application of Legislation Act 2012 to constitution of New Zealand Law Society][87]
 
 [73][88][][88][Practising fees][88]
 
@@ -240,7 +240,7 @@ This Act is administered by the Ministry of Justice.
 
 [88][106][][106][Registration of constitution and amendments to constitution][106]
 
-[89][107][][107][Application of Acts and Regulations Publication Act 1989 and Regulations (Disallowance) Act 1989][107]
+[89][107][][107][Application of Legislation Act 2012 to constitution of New Zealand Society of Conveyancers][107]
 
 [90][108][][108][Practising fees][108]
 
@@ -279,7 +279,7 @@ This Act is administered by the Ministry of Justice.
 
 [105][125][][125][Registration of amendments to rules][125]
 
-[106][126][][126][Application of Acts and Regulations Publication Act 1989 and Regulations (Disallowance) Act 1989 to rules][126]
+[106][126][][126][Application of Legislation Act 2012 to rules][126]
 
 [107][127][][127][Effect of practice rules][127]
 
@@ -650,7 +650,7 @@ This Act is administered by the Ministry of Justice.
 
 [264][310][][310][Liability of principal for acts of agent, etc][310]
 
-[265][311][][311][Time for laying information][311]
+[265][311][][311][Time for filing charging document][311]
 
 [Jurisdiction of High Court and Court of Appeal][312]
 
@@ -2171,11 +2171,11 @@ Restrictions on provision of legal services and conveyancing services
 
 ##### 28 Proceedings in respect of offences against any provision of sections 21 to 24
     
-*   (1) An information in respect of an offence against any provision of [sections 21 to 24][24] may be laid only---
+*   (1) A charging document in respect of an offence against any provision of [sections 21 to 24][24] may be filed only---
         
     *   (a) by the President of the New Zealand Law Society; or
     
-    *   (b) by a person authorised by the Council of the New Zealand Law Society to lay that information.
+    *   (b) by a person authorised by the Council of the New Zealand Law Society to file that charging document.
     
     (2) In any proceedings for an offence against any provision of [sections 21 to 24][24], a certificate purporting to be signed by the executive director of the New Zealand Law Society or a person authorised by the Council of the New Zealand Law Society to sign that certificate and stating that at any time or during any period specified in the certificate any person was not, and was not deemed to be, the holder of a current practising certificate as a barrister, or as a barrister and solicitor, as the case may require,---
         
@@ -2186,12 +2186,14 @@ Restrictions on provision of legal services and conveyancing services
     (3) The production of a certificate for the purposes of subsection (2) purporting to be signed by the executive director of the New Zealand Law Society or a person authorised by the Council of the New Zealand Law Society to sign that certificate is prima facie evidence of the certificate without proof of the signature of the person purporting to have signed it.
     
     Compare: 1982 No 123 [s 56(5), (6)(a)][512]
+    
+    Section 28(1): replaced, on 1 July 2013, by [section 413][513] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 29 Contempt of court
     
 *   A person who, in contravention of [section 21][24], acts as a barrister or as a solicitor in any court is guilty of both an offence against that section and a contempt of that court.
     
-    Compare: 1982 No 123 [s 54(2)][513]
+    Compare: 1982 No 123 [s 54(2)][514]
 
 ##### 30 Practice by lawyer on his or her own account
     
@@ -2217,11 +2219,11 @@ Restrictions on provision of legal services and conveyancing services
     
     (6) A lawyer commits an offence who, in contravention of this section, commences practice on his or her own account.
     
-    Compare: 1982 No 123 [s 55(2)][514]
+    Compare: 1982 No 123 [s 55(2)][515]
 
 ##### 31 Exceptions to section 30
     
-*   (1) Despite anything in [section 30][33], a lawyer may, at any time, commence practice on his or her own account, whether in partnership or otherwise, if, immediately before the commencement of this section, he or she would have been entitled to do so under the [Law Practitioners Act 1982][472] had this Act not been passed; and, for the purposes of this subsection, [section 55][514] of that Act has effect as if it had not been repealed.
+*   (1) Despite anything in [section 30][33], a lawyer may, at any time, commence practice on his or her own account, whether in partnership or otherwise, if, immediately before the commencement of this section, he or she would have been entitled to do so under the [Law Practitioners Act 1982][472] had this Act not been passed; and, for the purposes of this subsection, [section 55][515] of that Act has effect as if it had not been repealed.
     
     (2) [Section 30][33] does not restrict the right of a lawyer---
         
@@ -2239,7 +2241,7 @@ Restrictions on provision of legal services and conveyancing services
     
     (4) [Section 30][33] does not restrict the right of a lawyer who is not entitled to practise on his or her own account, to act in any community law centre whose employing body comprises 1 or more lawyers qualified to practise on his or her own account, under the direct supervision of a lawyer qualified to practise on his or her own account and employed by that community law centre, or with the approval of the Secretary for Justice.
     
-    Compare: 1982 No 123 [s 55(7), (8)][514]
+    Compare: 1982 No 123 [s 55(7), (8)][515]
     
     Section 31(4): amended, on 1 July 2011, by [section 144][494] of the Legal Services Act 2011 (2011 No 4).
 
@@ -2261,13 +2263,13 @@ Restrictions on provision of legal services and conveyancing services
 
 ##### 34 Proceedings in respect of offence against section 32 or section 33
     
-*   (1) An information in respect of an offence against [section 32][36] or [section 33][37] may be laid only---
+*   (1) A charging document in respect of an offence against [section 32][36] or [33][37] may be filed only---
         
     *   (a) by the President of the New Zealand Law Society; or
     
     *   (b) by the President of the New Zealand Society of Conveyancers; or
     
-    *   (c) by a person authorised by the Council of the New Zealand Law Society or the Council of the New Zealand Society of Conveyancers to lay that information.
+    *   (c) by a person authorised by the Council of the New Zealand Law Society or the Council of the New Zealand Society of Conveyancers to file that charging document.
     
     (2) In any proceedings for an offence against [section 32][36] or [section 33][37], a certificate of any of the following kinds is admissible in evidence and is, in the absence of proof to the contrary, sufficient evidence of the matters stated in it:
         
@@ -2278,6 +2280,8 @@ Restrictions on provision of legal services and conveyancing services
     (3) The production of a certificate for the purposes of subsection (2) purporting to be signed by the executive director of the New Zealand Law Society or by a person authorised by the Council of the New Zealand Law Society to sign that certificate or by the executive director of the New Zealand Society of Conveyancers or by a person authorised by the Council of the New Zealand Society of Conveyancers to sign that certificate is prima facie evidence of the certificate without proof of the signature of the person purporting to have signed it.
     
     Compare: 1982 No 123 [s 56(5), (6)(a)][512]
+    
+    Section 34(1): replaced, on 1 July 2013, by [section 413][513] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 35 Practice of conveyancing
     
@@ -2307,13 +2311,13 @@ Restrictions on provision of legal services and conveyancing services
     
     *   (b) no right of renewal is conferred on the tenant by the agreement.
     
-    (2) [Sections 32][36], [33][37], and [35][39] do not prevent any person who holds a current licence under the [Real Estate Agents Act 2008][515]---
+    (2) [Sections 32][36], [33][37], and [35][39] do not prevent any person who holds a current licence under the [Real Estate Agents Act 2008][516]---
         
     *   (a) from preparing any agreement for sale and purchase of land or any interest in land or of the goodwill of a business or of chattels; or
     
     *   (b) from giving advice about legal rights and obligations that is incidental to the preparing of an agreement of the kind referred to in paragraph (a).
     
-    (2A) However, subsection (2) does not apply to a person who, under the [Real Estate Agents Act 2008][515], holds a licence as a salesperson unless the person has had at least 6 months experience as such as a licensee.
+    (2A) However, subsection (2) does not apply to a person who, under the [Real Estate Agents Act 2008][516], holds a licence as a salesperson unless the person has had at least 6 months experience as such as a licensee.
     
     (3) [Sections 32][36], [33][37], and [35][39] do not prevent a patent attorney from drawing, preparing, or reviewing---
         
@@ -2343,9 +2347,9 @@ Restrictions on provision of legal services and conveyancing services
     
     Compare: 1982 No 123 [s 65(1)(c), (2)(a), (c)][493]
     
-    Section 36(2): amended, on 16 November 2009, by [section 173][516] of the Real Estate Agents Act 2008 (2008 No 66).
+    Section 36(2): amended, on 16 November 2009, by [section 173][517] of the Real Estate Agents Act 2008 (2008 No 66).
     
-    Section 36(2A): inserted, on 16 November 2009, by [section 173][516] of the Real Estate Agents Act 2008 (2008 No 66).
+    Section 36(2A): inserted, on 16 November 2009, by [section 173][517] of the Real Estate Agents Act 2008 (2008 No 66).
 
 ##### 37 Practice by conveyancing practitioner on his or her own account
     
@@ -2371,17 +2375,17 @@ Restrictions on provision of legal services and conveyancing services
     
     (6) A conveyancing practitioner commits an offence who, in contravention of this section, commences practice on his or her own account.
     
-    Compare: 1982 No 123 [s 55(2)][514]
+    Compare: 1982 No 123 [s 55(2)][515]
 
 ##### 38 Exceptions to section 37
     
-*   (1) Despite anything in [section 37][41], a conveyancing practitioner may, at any time, commence practice on his or her own account, whether in partnership or otherwise, if, immediately before the commencement of [section 67][517] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002, he or she held a licence as a landbroker under [section 229][518] of the Land Transfer Act 1952\.
+*   (1) Despite anything in [section 37][41], a conveyancing practitioner may, at any time, commence practice on his or her own account, whether in partnership or otherwise, if, immediately before the commencement of [section 67][518] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002, he or she held a licence as a landbroker under [section 229][519] of the Land Transfer Act 1952\.
     
     (2) [Section 37][41] does not restrict the right of a conveyancing practitioner to practise as a conveyancing practitioner on his or her own account, if at any time previously (whether before or after the commencement of this section) he or she has lawfully practised on his or her own account as a landbroker or conveyancing practitioner.
     
     (3) Despite subsection (2), if, in the case of a conveyancing practitioner to whom subsection (2) applies, more than 10 years have elapsed since that conveyancing practitioner last practised on his or her own account as a landbroker or conveyancing practitioner, that conveyancing practitioner is not entitled to practise on his or her own account as a conveyancing practitioner until he or she has received adequate instruction to the satisfaction of the Council of the New Zealand Society of Conveyancers in the duties of a conveyancing practitioner.
     
-    Compare: 1982 No 123 [s 55(7), (8)(a)][514]
+    Compare: 1982 No 123 [s 55(7), (8)(a)][515]
 
 #### Practising certificates
 
@@ -2405,11 +2409,11 @@ Restrictions on provision of legal services and conveyancing services
         
         
     
-    *   (c) may refuse to issue a practising certificate to a person who, under [section 19][519] of the Trans-Tasman Mutual Recognition Act 1997, seeks the issue of the practising certificate, if that person does not meet the requirements that apply, under [section 17][520] of the Trans-Tasman Mutual Recognition Act 1997, in relation to an individual who seeks the issue of a practising certificate of the kind sought.
+    *   (c) may refuse to issue a practising certificate to a person who, under [section 19][520] of the Trans-Tasman Mutual Recognition Act 1997, seeks the issue of the practising certificate, if that person does not meet the requirements that apply, under [section 17][521] of the Trans-Tasman Mutual Recognition Act 1997, in relation to an individual who seeks the issue of a practising certificate of the kind sought.
     
     (5) A person who is suspended from practice must deposit his or her current practising certificate (if any) with the society that issued the certificate.
     
-    Compare: 1982 No 123 [ss 57(1)][521], [59(1)(b)][522]
+    Compare: 1982 No 123 [ss 57(1)][522], [59(1)(b)][523]
 
 ##### 40 Effect of application for practising certificate
     
@@ -2505,7 +2509,7 @@ Restrictions on provision of legal services and conveyancing services
     
     *   (f) conspiring with any other person to contravene such a provision.
     
-    Compare: 1986 No 5 [s 81][523]
+    Compare: 1986 No 5 [s 81][524]
 
 #### Appointment of agent to conduct sole practice or act as board of incorporated firm
 
@@ -2523,31 +2527,31 @@ Restrictions on provision of legal services and conveyancing services
     
     (2) For the purposes of this section, a practitioner does not practise on his or her own account without partners only by reason of the application to that practitioner of [section 30(2)][33] or [section 37(2)][41].
     
-    Compare: 1982 No 123 [s 70(1)][524]
+    Compare: 1982 No 123 [s 70(1)][525]
 
 ##### 45 Offences
     
 *   Without prejudice to [Schedule 1][464] or any of the provisions of this Part, a practitioner to whom Schedule 1 applies commits an offence if, without lawful justification or excuse, he or she---
         
-    *   (a) fails to give a power of attorney in accordance with [clause 2(1)][525] or [clause 3(1)][504] or [clause 4(1)][526] or [clause 5(1)][505] of Schedule 1, as the case may require; or
+    *   (a) fails to give a power of attorney in accordance with [clause 2(1)][526] or [clause 3(1)][504] or [clause 4(1)][527] or [clause 5(1)][505] of Schedule 1, as the case may require; or
     
-    *   (b) revokes a power of attorney otherwise than in accordance with [clause 14][527] of Schedule 1; or
+    *   (b) revokes a power of attorney otherwise than in accordance with [clause 14][528] of Schedule 1; or
     
-    *   (c) fails to give a notice under [clause 20][528] of Schedule 1\.
+    *   (c) fails to give a notice under [clause 20][529] of Schedule 1\.
     
-    Compare: 1982 No 123 [s 78][529]
+    Compare: 1982 No 123 [s 78][530]
 
 #### Penalty
 
 ##### 46 Penalty
     
-*   A person who commits an offence against [section 21][24] or [section 22][25] or [section 23][26] or [section 24][27] or [section 26][29] or [section 30(6)][33] or [section 32][36] or [section 33][37] or [section 35][39] or [section 37(6)][41] or [section 45][52] is liable on summary conviction,---
+*   A person who commits an offence against [section 21][24] or [section 22][25] or [section 23][26] or [section 24][27] or [section 26][29] or [section 30(6)][33] or [section 32][36] or [section 33][37] or [section 35][39] or [section 37(6)][41] or [section 45][52] is liable on conviction,---
         
     *   (a) in the case of a natural person, to a fine not exceeding $50,000:
     
     *   (b) in the case of a corporation, to a fine not exceeding $150,000\.
     
-    
+    Section 46: amended, on 1 July 2013, by [section 413][513] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Provisions not affected
 
@@ -2555,31 +2559,33 @@ Restrictions on provision of legal services and conveyancing services
     
 *   This Part does not limit or affect---
         
-    *   (a) [section 168][530] of the Animal Welfare Act 1999; or
+    *   (a) [section 168][531] of the Animal Welfare Act 1999; or
     
-    *   (b) [section 68][531] of the Court Martial Act 2007; or
+    *   (b) [section 68][532] of the Court Martial Act 2007; or
     
-    *   (c) [sections 323][532] and [324][533] of the Children, Young Persons, and Their Families Act 1989; or
+    *   (c) [sections 323][533] and [324][534] of the Children, Young Persons, and Their Families Act 1989; or
     
-    *   (d) [section 4A(3)][534] of the Commissions of Inquiry Act 1908; or
+    *   (d) [section 4A(3)][535] of the Commissions of Inquiry Act 1908; or
     
-    *   (e) [section 214(1)][535] of the Copyright Act 1994; or
+    *   (e) [section 214(1)][536] of the Copyright Act 1994; or
     
-    *   (f) [section 40][536] of the Designs Act 1953; or
+    *   (f) [section 40][537] of the Designs Act 1953; or
     
-    *   (g) [section 38][537] of the Disputes Tribunals Act 1988; or
+    *   (g) [section 38][538] of the Disputes Tribunals Act 1988; or
     
     *   (h) [section 236][499] of the Employment Relations Act 2000; or
     
-    *   (i) [section 108(3)][538] of the Human Rights Act 1993; or
+    *   (i) [section 108(3)][539] of the Human Rights Act 1993; or
     
-    *   (j) [section 101][539] of the Patents Act 1953; or
+    *   (j) [section 101][540] of the Patents Act 1953; or
     
-    *   (k) [section 37][540] of the Summary Proceedings Act 1957; or
+    *   (k) [section 10][541] of the Criminal Procedure Act 2011; or
     
-    *   (l) [section 190][541] of the Trade Marks Act 2002\.
+    *   (l) [section 190][542] of the Trade Marks Act 2002\.
     
-    Section 47(b): substituted, on 1 July 2009, by [section 87][542] of the Court Martial Act 2007 (2007 No 101).
+    Section 47(b): substituted, on 1 July 2009, by [section 87][543] of the Court Martial Act 2007 (2007 No 101).
+    
+    Section 47(k): replaced, on 1 July 2013, by [section 413][513] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 3  
 Admission and enrolment of barristers and solicitors
@@ -2592,7 +2598,7 @@ Admission and enrolment of barristers and solicitors
     
     (2) Subject to this Act and to any order made under it, and to the express provisions of any other enactment, every person admitted as a barrister and solicitor is entitled, while his or her qualification continues, to practise in or before any court or tribunal.
     
-    Compare: 1982 No 123 [s 43(1), (4)][543]
+    Compare: 1982 No 123 [s 43(1), (4)][544]
 
 ##### 49 Qualifications
     
@@ -2616,9 +2622,9 @@ Admission and enrolment of barristers and solicitors
     
     *   (d) meet the criteria prescribed by rules made under [section 54][65].
     
-    (4) The third category is persons who have been issued with a certificate by a Registrar stating that the candidate has given notice under [section 19][519] of the Trans-Tasman Mutual Recognition Act 1997 to the Registrar acting as a local registration authority under that Act.
+    (4) The third category is persons who have been issued with a certificate by a Registrar stating that the candidate has given notice under [section 19][520] of the Trans-Tasman Mutual Recognition Act 1997 to the Registrar acting as a local registration authority under that Act.
     
-    Compare: 1982 No 123 [s 44][544]
+    Compare: 1982 No 123 [s 44][545]
 
 ##### 50 Evidence of qualifications
     
@@ -2626,7 +2632,7 @@ Admission and enrolment of barristers and solicitors
     
     (2) A document purporting to be signed by the chief executive of the New Zealand Council of Legal Education, or his or her delegate, and certifying that a candidate has all the qualifications for admission prescribed or required by the New Zealand Council of Legal Education is, in the absence of proof to the contrary, sufficient evidence of that fact.
     
-    Compare: 1982 No 123 [s 45][545]
+    Compare: 1982 No 123 [s 45][546]
 
 ##### 51 Evidence of suitability
     
@@ -2648,9 +2654,9 @@ Admission and enrolment of barristers and solicitors
     
     (4) The High Court must make an order admitting the candidate as a barrister and solicitor of the High Court if the High Court is satisfied that the candidate is qualified for admission under [section 49(4)][60].
     
-    (5) Nothing in subsection (4) or [section 49(4)][60] limits the provisions of [sections 20 to 28][546] of the Trans-Tasman Mutual Recognition Act 1997\.
+    (5) Nothing in subsection (4) or [section 49(4)][60] limits the provisions of [sections 20 to 28][547] of the Trans-Tasman Mutual Recognition Act 1997\.
     
-    Compare: 1982 No 123 [s 46][547]
+    Compare: 1982 No 123 [s 46][548]
 
 ##### 53 Reciprocal admission
     
@@ -2668,17 +2674,17 @@ Admission and enrolment of barristers and solicitors
     
     (4) By the same or any subsequent order, the Governor-General may provide for all matters authorised by this section to be prescribed, and for all matters necessary to give effect to the order and to this section.
     
-    Compare: 1982 No 123 [s 47][548]
+    Compare: 1982 No 123 [s 47][549]
 
 ##### 54 Rules of court as to admission
     
-*   (1) Rules, not inconsistent with this Act, may from time to time be made, in the manner prescribed by the [Judicature Act 1908][549], in respect of the evidence of the qualifications, character, and fitness of candidates, and generally in respect of any matter relating to the admission of candidates as barristers and solicitors of the High Court.
+*   (1) Rules, not inconsistent with this Act, may from time to time be made, in the manner prescribed by the [Judicature Act 1908][550], in respect of the evidence of the qualifications, character, and fitness of candidates, and generally in respect of any matter relating to the admission of candidates as barristers and solicitors of the High Court.
     
     (2) Rules made under this section may prescribe non-educational criteria to be met by candidates for admission as barristers or as barristers and solicitors, which criteria may preclude the admission of a person who has, at any time, been convicted of an offence of a kind or class specified in rules made under this section or who has, at any time, been declared bankrupt.
     
     (3) Nothing in subsection (2) limits the generality of subsection (1).
     
-    Compare: 1982 No 123 [s 48][550]
+    Compare: 1982 No 123 [s 48][551]
 
 ##### 55 Fit and proper person
     
@@ -2754,13 +2760,13 @@ Admission and enrolment of barristers and solicitors
     
 *   Every Registrar must keep in his or her office a roll of barristers and solicitors.
     
-    Compare: 1982 No 123 [s 49(1)][551]
+    Compare: 1982 No 123 [s 49(1)][552]
 
 ##### 57 Enrolment
     
 *   On the making by the High Court of an order admitting any person as a barrister and solicitor, and on payment of the prescribed admission fee, the Registrar must place that person's name on the roll.
     
-    Compare: 1982 No 123 [s 50][552]
+    Compare: 1982 No 123 [s 50][553]
 
 ##### 58 Striking off and restoration of names by order of Disciplinary Tribunal or High Court
     
@@ -2770,9 +2776,9 @@ Admission and enrolment of barristers and solicitors
     
     (3) In each case, the Registrar must make an entry in the roll of the date and effect of the order and of the fact that it was made by the Lawyers and Conveyancers Disciplinary Tribunal or by the High Court on appeal from that Tribunal, as the case may require.
     
-    Compare: 1982 No 123 [s 51][553]
+    Compare: 1982 No 123 [s 51][554]
     
-    Section 58(1): amended, on 20 November 2012, by [section 10][554] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 58(1): amended, on 20 November 2012, by [section 10][555] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 59 Removal from roll if deemed registration ceases in some circumstances
     
@@ -2780,17 +2786,17 @@ Admission and enrolment of barristers and solicitors
         
     *   (a) was admitted under [section 52(4)][63]; and
     
-    *   (b) had deemed registration under the [Trans-Tasman Mutual Recognition Act 1997][555] at the time he or she was admitted,---
+    *   (b) had deemed registration under the [Trans-Tasman Mutual Recognition Act 1997][556] at the time he or she was admitted,---
     
-    if the Registrar receives written notice from a Registrar acting as a local registration authority that the deemed registration has ceased for a reason set out in [section 28(1)(a) or section 28(1)(c) to (e)][556] of that Act.
+    if the Registrar receives written notice from a Registrar acting as a local registration authority that the deemed registration has ceased for a reason set out in [section 28(1)(a) or section 28(1)(c) to (e)][557] of that Act.
     
     (2) The Registrar must cause to be published in the _Gazette_ a notice to the effect that the name has been removed from the roll under this section.
     
     (3) The expenses incurred in publishing the notice must be paid by the person whose name is removed.
     
-    Compare: 1982 No 123 [s 51A][557]
+    Compare: 1982 No 123 [s 51A][558]
     
-    Section 59(1): amended, on 20 November 2012, by [section 11][558] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 59(1): amended, on 20 November 2012, by [section 11][559] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 60 Voluntary removal of name from roll, and restoration
     
@@ -2806,7 +2812,7 @@ Admission and enrolment of barristers and solicitors
     
     (4) The expenses incurred in publishing the notice must be paid by the person whose name is removed or restored.
     
-    Compare: 1982 No 123 [s 52][559]
+    Compare: 1982 No 123 [s 52][560]
 
 ##### 61 Supply of information
     
@@ -2820,14 +2826,14 @@ Admission and enrolment of barristers and solicitors
     
     *   (b) by any person for the restoration of his or her name to the roll.
     
-    Compare: 1982 No 123[s 53][560]
+    Compare: 1982 No 123[s 53][561]
 
 ## Part 4  
 New Zealand Law Society
 
 ##### 63 Continuation of New Zealand Law Society
     
-*   (1) This section continues in being the society called the New Zealand Law Society (being the society continued in being by [section 3(1)][561] of the Law Practitioners Act 1982 and existing at the commencement of this section).
+*   (1) This section continues in being the society called the New Zealand Law Society (being the society continued in being by [section 3(1)][562] of the Law Practitioners Act 1982 and existing at the commencement of this section).
     
     (2) The New Zealand Law Society is a body corporate with perpetual succession and a common seal, and, except as provided in this Act, has and may exercise---
         
@@ -2845,7 +2851,7 @@ New Zealand Law Society
     
     (3) The New Zealand Law Society may not exercise any of its rights, powers, or privileges except for the purpose of performing its functions.
     
-    Compare: 1982 No 123 [s 3(1), (3)][561]
+    Compare: 1982 No 123 [s 3(1), (3)][562]
 
 ##### 64 Membership
     
@@ -2855,7 +2861,7 @@ New Zealand Law Society
     
     *   (b) confer on the members any right, title, or interest in the property of the New Zealand Law Society.
     
-    Compare: 1982 No 123[s 3(2)][561]
+    Compare: 1982 No 123[s 3(2)][562]
 
 #### Functions
 
@@ -2873,7 +2879,7 @@ New Zealand Law Society
     
     *   (e) to assist and promote, for the purpose of upholding the rule of law and facilitating the administration of justice in New Zealand, the reform of the law.
     
-    Compare: 1982 No 123 [s 4][562]
+    Compare: 1982 No 123 [s 4][563]
 
 ##### 66 Representative functions
     
@@ -2907,7 +2913,7 @@ New Zealand Law Society
     
     (4) The New Zealand Law Society, in its regulatory capacity, may provide and charge for services, including premises, for the purpose of the Society's representative functions and powers, but the Society must not in its regulatory capacity subsidise the provision of any such services.
     
-    Compare: 1982 No 123 [s 5(1), (2)(c)--(g)][563]
+    Compare: 1982 No 123 [s 5(1), (2)(c)--(g)][564]
 
 ##### 68 Representative powers
     
@@ -2923,7 +2929,7 @@ New Zealand Law Society
     
     (3) The New Zealand Law Society, in its representative capacity, may provide and charge for services, including premises, for the purpose of the Society's regulatory functions and powers. Charges for the provision of such services must not exceed fair market rates.
     
-    Compare: 1982 No 123 [s 5(1), (2)(a), (b), (h)][563]
+    Compare: 1982 No 123 [s 5(1), (2)(a), (b), (h)][564]
 
 ##### 69 Power to borrow
     
@@ -2933,7 +2939,7 @@ New Zealand Law Society
     
     (3) The New Zealand Law Society has the power to mortgage, charge, or otherwise grant security over the assets held by it for the benefit of its members to secure borrowings made by it to enable it to perform its representative functions.
     
-    Compare: 1982 No 123 [s 14][564]
+    Compare: 1982 No 123 [s 14][565]
 
 ##### 70 Constitution of New Zealand Law Society
     
@@ -2957,7 +2963,7 @@ New Zealand Law Society
     
     (2) In addition to the provisions required by subsection (1), the constitution may contain any other provisions that are not inconsistent with this Act or any other Act or any rule of law.
     
-    Compare: 1996 No 39 [s 6(1)(a)--(e), (k), (2)][565]
+    Compare: 1996 No 39 [s 6(1)(a)--(e), (k), (2)][566]
 
 ##### 71 Registration of constitution and amendments to constitution
     
@@ -2965,11 +2971,13 @@ New Zealand Law Society
     
     (2) The Council of the New Zealand Law Society must, no later than 14 days after the passing of any amendment to the constitution or the replacement of the constitution, deliver to the Registrar of Companies at Wellington for registration a copy of the amendment or the new constitution.
     
-    Compare: 1996 No 39 [s 6(3), (4)][565]
+    Compare: 1996 No 39 [s 6(3), (4)][566]
 
-##### 72 Application of Acts and Regulations Publication Act 1989 and Regulations (Disallowance) Act 1989
+##### 72 Application of Legislation Act 2012 to constitution of New Zealand Law Society
     
-*   The provisions of the constitution of the New Zealand Law Society and the provisions of any amendment to that constitution or to any new constitution adopted by the New Zealand Law Society are regulations for the purposes of the [Acts and Regulations Publication Act 1989][566] and the [Regulations (Disallowance) Act 1989][567].
+*   The provisions of the constitution of the New Zealand Law Society and the provisions of any amendment to that constitution or to any new constitution adopted by the New Zealand Law Society are legislative instruments and disallowable instruments for the purposes of the [Legislation Act 2012][567] and must be presented to the House of Representatives under [section 41][568] of that Act.
+    
+    Section 72: replaced, on 5 August 2013, by [section 77(3)][569] of the Legislation Act 2012 (2012 No 119).
 
 ##### 73 Practising fees
     
@@ -2983,7 +2991,7 @@ New Zealand Law Society
     
     (5) A practising fee is payable in such manner as the practice rules prescribe or authorise and is recoverable on behalf of the New Zealand Law Society as a debt due to it.
     
-    Compare: 1982 No 123 [s 60(1)(a)][568]
+    Compare: 1982 No 123 [s 60(1)(a)][570]
 
 ##### 74 Levies
     
@@ -3017,7 +3025,7 @@ New Zealand Law Society
     
     (4) The amount of any levy imposed under subsection (1) is payable in such manner as the practice rules prescribe or authorise, and is recoverable on behalf of the New Zealand Law Society as a debt due to it.
     
-    Compare: 1982 No 123 [s 9][569]
+    Compare: 1982 No 123 [s 9][571]
 
 ##### 75 Subscriptions
     
@@ -3134,7 +3142,7 @@ New Zealand Society of Conveyancers
     
     (4) The New Zealand Society of Conveyancers, in its regulatory capacity, may provide and charge for services, including premises, for the purpose of the Society's representative functions and powers, but the Society must not in its regulatory capacity subsidise the provision of any such services.
     
-    Compare: 1982 No 123 [s 5(1), (2)(c)--(g)][563]
+    Compare: 1982 No 123 [s 5(1), (2)(c)--(g)][564]
 
 ##### 82 Rules for registration of conveyancers
     
@@ -3262,7 +3270,7 @@ New Zealand Society of Conveyancers
             
         *   (i) the recognition of foreign qualifications, registration, and experience; and
         
-        *   (ii) the recognition of qualifications for the purposes of the principle set out in [section 15][570] of the Trans-Tasman Mutual Recognition Act 1997:
+        *   (ii) the recognition of qualifications for the purposes of the principle set out in [section 15][572] of the Trans-Tasman Mutual Recognition Act 1997:
         
         
     
@@ -3290,7 +3298,7 @@ New Zealand Society of Conveyancers
         
         
     
-    Compare: 1982 No 123 [s 38][571]
+    Compare: 1982 No 123 [s 38][573]
 
 ##### 85 Representative powers
     
@@ -3306,7 +3314,7 @@ New Zealand Society of Conveyancers
     
     (3) The New Zealand Society of Conveyancers, in its representative capacity, may provide and charge for services, including premises, for the purpose of the Society's regulatory functions and powers. Charges for the provision of such services must not exceed fair market rates.
     
-    Compare: 1982 No 123 [s 5(1), (2)(a), (b), (h)][563]
+    Compare: 1982 No 123 [s 5(1), (2)(a), (b), (h)][564]
 
 ##### 86 Power to borrow
     
@@ -3316,7 +3324,7 @@ New Zealand Society of Conveyancers
     
     (3) The New Zealand Society of Conveyancers has the power to mortgage, charge, or otherwise grant security over the assets held by it for the benefit of its members to secure borrowings made by it to enable it to perform its representative functions.
     
-    Compare: 1982 No 123 [s 14][564]
+    Compare: 1982 No 123 [s 14][565]
 
 ##### 87 Constitution of New Zealand Society of Conveyancers
     
@@ -3344,9 +3352,11 @@ New Zealand Society of Conveyancers
     
     (2) The Council of the New Zealand Society of Conveyancers must, no later than 14 days after the passing of any amendment to the constitution or the replacement of the constitution, deliver to the Registrar of Companies at Wellington for registration a copy of the amendment or the new constitution.
 
-##### 89 Application of Acts and Regulations Publication Act 1989 and Regulations (Disallowance) Act 1989
+##### 89 Application of Legislation Act 2012 to constitution of New Zealand Society of Conveyancers
     
-*   The provisions of the constitution of the New Zealand Society of Conveyancers and the provisions of any amendment to that constitution or to any new constitution adopted by the New Zealand Society of Conveyancers are regulations for the purposes of the [Acts and Regulations Publication Act 1989][566] and the [Regulations (Disallowance) Act 1989][567].
+*   The provisions of the constitution of the New Zealand Society of Conveyancers and the provisions of any amendment to that constitution or to any new constitution adopted by the New Zealand Society of Conveyancers are legislative instruments and disallowable instruments for the purposes of the [Legislation Act 2012][567] and must be presented to the House of Representatives under [section 41][568] of that Act.
+    
+    Section 89: replaced, on 5 August 2013, by [section 77(3)][569] of the Legislation Act 2012 (2012 No 119).
 
 ##### 90 Practising fees
     
@@ -3360,7 +3370,7 @@ New Zealand Society of Conveyancers
     
     (5) A practising fee is payable in such manner as the practice rules prescribe or authorise and is recoverable on behalf of the New Zealand Society of Conveyancers as a debt due to it.
     
-    Compare: 1982 No 123 [s 60(1)(a)][568]
+    Compare: 1982 No 123 [s 60(1)(a)][570]
 
 ##### 91 Levies
     
@@ -3394,7 +3404,7 @@ New Zealand Society of Conveyancers
     
     (4) The amount of any levy imposed under subsection (1) is payable in such manner as the practice rules prescribe or authorise, and is recoverable on behalf of the New Zealand Society of Conveyancers as a debt due to it.
     
-    Compare: 1982 No 123 [s 9][569]
+    Compare: 1982 No 123 [s 9][571]
 
 ##### 92 Subscriptions
     
@@ -3507,7 +3517,7 @@ Conduct of practice by practitioners
     
     *   (b) invest money in contributory mortgages or other securities on behalf of clients.
     
-    Compare: 1982 No 123 [s 17(2)(g)][572]
+    Compare: 1982 No 123 [s 17(2)(g)][574]
 
 ##### 97 Certain practice rules in relation to lawyers
     
@@ -3525,7 +3535,7 @@ Conduct of practice by practitioners
     
     *   (c) exempt, or provide for the exemption of, any lawyer or class of lawyer, from all or any practice rules made pursuant to subsection (1)(b).
     
-    Compare: 1982 No 123 [s 17(2)(fa)][572]
+    Compare: 1982 No 123 [s 17(2)(fa)][574]
 
 ##### 98 Certain practice rules in relation to conveyancing practitioners
     
@@ -3545,7 +3555,7 @@ Conduct of practice by practitioners
     
     *   (c) exempt, or provide for the exemption of, any conveyancing practitioner or class of conveyancing practitioner from all or any rules made under [section 94][114] pursuant to subsection (1)(c) of this section.
     
-    Compare: 1982 No 123 [s 17(2)(fa)][572]
+    Compare: 1982 No 123 [s 17(2)(fa)][574]
 
 ##### 99 Indemnity rules
     
@@ -3579,7 +3589,7 @@ Conduct of practice by practitioners
     
     (4) The New Zealand Law Society and the New Zealand Society of Conveyancers each has power to carry into effect any arrangements that it considers necessary or expedient for the purpose of indemnity under this section.
     
-    Compare: 1982 No 123 [s 17(3), (4)(a), (b), (c), (h), (i), (j)][572]; Solicitors Act 1974 s 37(1), (2), (3)(a), (b), (c), (d), (g), (h), (i), (5) (UK)
+    Compare: 1982 No 123 [s 17(3), (4)(a), (b), (c), (h), (i), (j)][574]; Solicitors Act 1974 s 37(1), (2), (3)(a), (b), (c), (d), (g), (h), (i), (5) (UK)
 
 ##### 100 Consultation in relation to rules
     
@@ -3655,9 +3665,11 @@ Conduct of practice by practitioners
     
     (2) If any rules are amended by the Minister under [section 104][124], the Minister must, within 14 days after making the amendment, deliver to the Registrar of Companies at Wellington for registration a copy of that amendment.
 
-##### 106 Application of Acts and Regulations Publication Act 1989 and Regulations (Disallowance) Act 1989 to rules
+##### 106 Application of Legislation Act 2012 to rules
     
-*   The rules to which [section 100][120] applies and amendments to any such rules are regulations for the purposes of the [Acts and Regulations Publication Act 1989][566] and the [Regulations (Disallowance) Act 1989][567].
+*   The rules to which [section 100][120] applies and amendments to those rules are legislative instruments and disallowable instruments for the purposes of the [Legislation Act 2012][567].
+    
+    Section 106: replaced, on 5 August 2013, by [section 77(3)][569] of the Legislation Act 2012 (2012 No 119).
 
 ##### 107 Effect of practice rules
     
@@ -3667,7 +3679,7 @@ Conduct of practice by practitioners
     
     (3) No partnership deed, employment agreement, or other legal arrangement governing the manner in which a practitioner is in practice, business, or employment may require a practitioner to act in breach of the practice rules and any part of a deed, condition of employment, agreement, or other legal arrangement that purports to require such conduct is void.
     
-    Section 107(1): amended (with effect from 1 August 2008), on 4 August 2008, by [section 10][573] of the Lawyers and Conveyancers Amendment Act 2008 (2008 No 54).
+    Section 107(1): amended (with effect from 1 August 2008), on 4 August 2008, by [section 10][575] of the Lawyers and Conveyancers Amendment Act 2008 (2008 No 54).
 
 ##### 108 Regulations in relation to practitioners
     
@@ -3719,7 +3731,7 @@ Conduct of practice by practitioners
     
     (5) [Schedule 2][465] applies in relation to investigations conducted by persons appointed under this section.
     
-    Compare: 1982 No 123 [s 85(1), (2)][574]
+    Compare: 1982 No 123 [s 85(1), (2)][576]
 
 #### Trust accounts
 
@@ -3755,17 +3767,21 @@ Conduct of practice by practitioners
     
     *   (b) the practitioner or incorporated firm takes control of money belonging to that person.
     
-    (4) A person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $25,000 who knowingly acts in contravention of subsection (1) or subsection (2).
+    (4) A person commits an offence against this Act and is liable on conviction to a fine not exceeding $25,000 who knowingly acts in contravention of subsection (1) or subsection (2).
     
-    Compare: 1982 No 123 [s 89(1), (3)][575]
+    Compare: 1982 No 123 [s 89(1), (3)][577]
+    
+    Section 110(4): amended, on 1 July 2013, by [section 413][513] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 111 Obligation to account for trust money and valuable property
     
 *   (1) If, in the course of the practice of a practitioner or an incorporated firm, the practitioner, a related person or entity, or the incorporated firm receives or holds money or other valuable property on behalf of any person, the practitioner, related person or entity, or incorporated firm must account properly for the money or other valuable property to the person on whose behalf the money or other valuable property is held.
     
-    (2) A person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $25,000 who knowingly acts in contravention of subsection (1).
+    (2) A person commits an offence against this Act and is liable on conviction to a fine not exceeding $25,000 who knowingly acts in contravention of subsection (1).
     
-    Compare: SR 1998/17 [r 3(1)(a)][576]
+    Compare: SR 1998/17 [r 3(1)(a)][578]
+    
+    Section 111(2): amended, on 1 July 2013, by [section 413][513] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 112 Obligation to keep records in respect of trust accounts and valuable property
     
@@ -3801,9 +3817,11 @@ Conduct of practice by practitioners
         
         
     
-    (3) A person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $25,000 who knowingly acts in contravention of subsection (1).
+    (3) A person commits an offence against this Act and is liable on conviction to a fine not exceeding $25,000 who knowingly acts in contravention of subsection (1).
     
-    Compare: SR 1998/17 [r 3(1)(b), (2)(a)][576]
+    Compare: SR 1998/17 [r 3(1)(b), (2)(a)][578]
+    
+    Section 112(3): amended, on 1 July 2013, by [section 413][513] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 113 Protection of money received
     
@@ -3811,7 +3829,7 @@ Conduct of practice by practitioners
     
     (2) Nothing in [section 110][132] or this section takes away or affects any just claim or lien that a practitioner, related person or entity, or incorporated firm who holds money to which section 110(1) or (2) applies may have against that money.
     
-    Compare: 1982 No 123 [s 89(2), (4)][575]
+    Compare: 1982 No 123 [s 89(2), (4)][577]
 
 ##### 114 Duty of practitioners to ensure that funds earn interest
     
@@ -3821,7 +3839,7 @@ Conduct of practice by practitioners
     
     *   (b) it is not reasonable or practicable (whether because of the smallness of the amount, the shortness of the period for which the practitioner, related person or entity, or incorporated firm is to hold the money, or for any other reason) for the practitioner, related person or entity, or incorporated firm to invest the money, at the direction of the person for whom the money is held, so that interest is payable on it for the benefit of that person.
     
-    Compare: 1982 No 123 [s 89A][577]
+    Compare: 1982 No 123 [s 89A][579]
 
 ##### 115 Regulations relating to trust accounts
     
@@ -3889,7 +3907,7 @@ Conduct of practice by practitioners
     
     *   (y) prescribing generally such requirements as may be necessary to ensure that trust accounts are duly kept, and that persons beneficially entitled to money and securities held by practitioners, related persons or entities, or incorporated firms on trust are informed of the money and securities held and of the investment of any such money or securities.
     
-    Compare: 1982 No 123 [ss 17(2)(e)--(f)][572], [91(1)(a)--(f), (i)--(n), (q)--(s), (v), (w)][578]
+    Compare: 1982 No 123 [ss 17(2)(e)--(f)][574], [91(1)(a)--(f), (i)--(n), (q)--(s), (v), (w)][580]
 
 ##### 116 Provisions relating to regulations relating to trust accounts
     
@@ -3935,29 +3953,29 @@ Conduct of practice by practitioners
     
     *   (e) provide that fees may be charged to any person applying for or undertaking the training required by regulations made under [section 115(g)][137].
     
-    (5) Regulations made under [section 115][137] do not limit or derogate from the disciplinary powers of a Standards Committee or the Disciplinary Tribunal under this Act or of the Appeals Council under the [New Zealand Institute of Chartered Accountants Act 1996][579].
+    (5) Regulations made under [section 115][137] do not limit or derogate from the disciplinary powers of a Standards Committee or the Disciplinary Tribunal under this Act or of the Appeals Council under the [New Zealand Institute of Chartered Accountants Act 1996][581].
     
     (6) Without prejudice to subsection (5), wilful failure to comply with any regulations made under [section 115][137] is, if the High Court thinks fit, ground for the exercise of the High Court's summary jurisdiction under this Act.
     
-    Compare: 1982 No 123 [ss 17(2)(ea)][572], [91(2)--(5)][578]
+    Compare: 1982 No 123 [ss 17(2)(ea)][574], [91(2)--(5)][580]
     
-    Section 116(5): amended, on 7 July 2010, by [section 10][580] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    Section 116(5): amended, on 7 July 2010, by [section 10][582] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
 
 #### Barristers and Queen's Counsel
     
-*   Heading: amended, on 3 December 2012, by [section 5][581] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+*   Heading: amended, on 3 December 2012, by [section 5][583] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 117 Status of barristers
     
 *   Subject to this Act, barristers of the High Court have all the powers, privileges, duties, and responsibilities that barristers have at law.
     
-    Compare: 1982 No 123 [s 61][582]
+    Compare: 1982 No 123 [s 61][584]
 
 ##### 118 Office or rank of Queen's Counsel
     
 *   The office or rank that before 1 August 2008 was known in New Zealand as Queen's Counsel, and that from the close of 31 July 2008 to the close of 2 December 2012 was renamed as Senior Counsel, is on and after 3 December 2012 again to be known in New Zealand as Queen's Counsel.
     
-    Section 118: replaced, on 3 December 2012, by [section 6][583] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 118: replaced, on 3 December 2012, by [section 6][585] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 118A Eligibility for appointment
     
@@ -3977,7 +3995,7 @@ Conduct of practice by practitioners
     
     *   (c) a person who does not possess all or any of the qualifications and experience that guidelines of the kind specified in [section 119(2)(a)][146] indicate should be possessed by candidates for appointment as Queen's Counsel.
     
-    Section 118A: inserted, on 3 December 2012, by [section 6][583] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 118A: inserted, on 3 December 2012, by [section 6][585] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 118B Restrictions on practice of specified category of lawyers who hold rank
     
@@ -3995,19 +4013,19 @@ Conduct of practice by practitioners
     
     (3) A person who is subject to, and who contravenes, subsection (1) must be treated as having surrendered at the time of the contravention the rank of Queen's Counsel.
     
-    Section 118B: inserted, on 3 December 2012, by [section 6][583] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 118B: inserted, on 3 December 2012, by [section 6][585] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 118C Queen's Counsel appointed before 1 August 2008
     
 *   (1) This section applies to a person who at the close of 31 July 2008 held, and at the close of 2 December 2012 continued to hold, the rank of Queen's Counsel for New Zealand.
     
-    (2) If, after 31 July 2008 and under [section 118(5)][141] (as repealed by [section 6][583] of the Lawyers and Conveyancers Amendment Act 2012), the person used, in relation to himself or herself, the words Senior Counsel and the abbreviation SC, then after 2 December 2012 he or she---
+    (2) If, after 31 July 2008 and under [section 118(5)][141] (as repealed by [section 6][585] of the Lawyers and Conveyancers Amendment Act 2012), the person used, in relation to himself or herself, the words Senior Counsel and the abbreviation SC, then after 2 December 2012 he or she---
         
     *   (a) may continue to use, in relation to himself or herself, those words and that abbreviation; or
     
     *   (b) may use instead, in relation to himself or herself, the words Queen's Counsel and the abbreviation QC.
     
-    (3) The precedence to which the person is entitled is not affected by [sections 118 to 119C][141] (as substituted by [section 6][583] of the Lawyers and Conveyancers Amendment Act 2012).
+    (3) The precedence to which the person is entitled is not affected by [sections 118 to 119C][141] (as substituted by [section 6][585] of the Lawyers and Conveyancers Amendment Act 2012).
     
     (4) The following apply to the person in the same way as they apply to a Queen's Counsel appointed to that rank after 2 December 2012:
         
@@ -4015,7 +4033,7 @@ Conduct of practice by practitioners
     
     *   (b) any regulations made under [section 119(1)(c) and (e) to (g)][146] (as so substituted).
     
-    (5) Despite subsection (4)(a), [section 118B][143] (as so substituted) does not apply, but [section 118D(4)][145] (as so substituted) does apply, to the person if after his or her appointment as a Queen's Counsel and before or on 1 April 2010 and under [section 118(2)(b)][141] of this Act (as repealed by [section 6][583] of the Lawyers and Conveyancers Amendment Act 2012) or not inconsistently with an enactment in or under an earlier Act that corresponds to this Act he or she---
+    (5) Despite subsection (4)(a), [section 118B][143] (as so substituted) does not apply, but [section 118D(4)][145] (as so substituted) does apply, to the person if after his or her appointment as a Queen's Counsel and before or on 1 April 2010 and under [section 118(2)(b)][141] of this Act (as repealed by [section 6][585] of the Lawyers and Conveyancers Amendment Act 2012) or not inconsistently with an enactment in or under an earlier Act that corresponds to this Act he or she---
         
     *   (a) practised, or in the course of his or her practice provided regulated services, as a barrister and solicitor, or in partnership with any other lawyer; or
     
@@ -4027,7 +4045,7 @@ Conduct of practice by practitioners
     
     (6) Subsections (3), (4), and (5) apply to the person whether or not after 2 December 2012 and under subsection (2) he or she uses, in relation to himself or herself, the words Senior Counsel and the abbreviation SC.
     
-    Section 118C: inserted, on 3 December 2012, by [section 6][583] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 118C: inserted, on 3 December 2012, by [section 6][585] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 118D Senior Counsel appointed after 31 July 2008 and before 3 December 2012
     
@@ -4039,7 +4057,7 @@ Conduct of practice by practitioners
     
     *   (b) may instead use, in relation to himself or herself, the words Queen's Counsel and the abbreviation QC.
     
-    (3) The precedence to which the person is entitled is not affected by [sections 118 to 119C][141] (as substituted by [section 6][583] of the Lawyers and Conveyancers Amendment Act 2012).
+    (3) The precedence to which the person is entitled is not affected by [sections 118 to 119C][141] (as substituted by [section 6][585] of the Lawyers and Conveyancers Amendment Act 2012).
     
     (4) After 2 December 2012, the person is not precluded, by reason only of the fact that he or she holds that rank,---
         
@@ -4059,7 +4077,7 @@ Conduct of practice by practitioners
     
     (6) Subsections (3), (4), and (5) apply to the person whether or not after 2 December 2012 and under subsection (2) he or she uses, in relation to himself or herself, the words Queen's Counsel and the abbreviation QC.
     
-    Section 118D: inserted, on 3 December 2012, by [section 6][583] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 118D: inserted, on 3 December 2012, by [section 6][585] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 119 Regulations relating to Queen's Counsel
     
@@ -4085,7 +4103,7 @@ Conduct of practice by practitioners
     
     *   (b) the process by which such candidates may be recommended for appointment.
     
-    Section 119: replaced, on 3 December 2012, by [section 6][583] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 119: replaced, on 3 December 2012, by [section 6][585] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 119A Other ways of ceasing to hold rank
     
@@ -4095,9 +4113,9 @@ Conduct of practice by practitioners
     
     *   (b) his or her name is struck off the roll.
     
-    (2) Nothing in [sections 118 to 119C][141] (as substituted by [section 6][583] of the Lawyers and Conveyancers Amendment Act 2012) abrogates the power of the Crown to revoke, under the Royal prerogative, the appointment of any person who was appointed as a Queen's Counsel for New Zealand.
+    (2) Nothing in [sections 118 to 119C][141] (as substituted by [section 6][585] of the Lawyers and Conveyancers Amendment Act 2012) abrogates the power of the Crown to revoke, under the Royal prerogative, the appointment of any person who was appointed as a Queen's Counsel for New Zealand.
     
-    Section 119A: inserted, on 3 December 2012, by [section 6][583] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 119A: inserted, on 3 December 2012, by [section 6][585] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 119B Style of rank if Sovereign for time being is King
     
@@ -4113,7 +4131,7 @@ Conduct of practice by practitioners
     
     *   (b) provisions in (or in any guidelines issued under) any regulations made under [section 119(1)][146].
     
-    Section 119B: inserted, on 3 December 2012, by [section 6][583] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 119B: inserted, on 3 December 2012, by [section 6][585] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 119C Royal prerogative power to appoint unaffected
     
@@ -4121,7 +4139,7 @@ Conduct of practice by practitioners
     
     (2) The powers conferred by [section 119][146] do not derogate from the power to appoint, under the Royal prerogative, people to the office of Queen's Counsel.
     
-    Section 119C: inserted, on 3 December 2012, by [section 6][583] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 119C: inserted, on 3 December 2012, by [section 6][585] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ## Part 7  
 Complaints and discipline
@@ -4376,7 +4394,7 @@ Complaints and discipline
     
     (3) Nothing in subsection (2) limits the provisions of [sections 160][194] and [161][195].
     
-    Compare: 1982 No 123 [ss 98(1)][584], [145(1)][585]
+    Compare: 1982 No 123 [ss 98(1)][586], [145(1)][587]
 
 ##### 133 Complaint of failure to comply with order or final determination
     
@@ -4420,7 +4438,7 @@ Complaints and discipline
     
     (2) A Standards Committee that receives a complaint must, as soon as practicable, advise the complainant and the person to whom the complaint relates of the procedure that the Standards Committee proposes to adopt under subsection (1).
     
-    Compare: 1993 No 28 [s 70][586]
+    Compare: 1993 No 28 [s 70][588]
 
 ##### 138 Decision to take no action on complaint
     
@@ -4440,7 +4458,7 @@ Complaints and discipline
     
     (2) Despite anything in subsection (1), a Standards Committee may, in its discretion, decide not to take any further action on a complaint if, in the course of the investigation of the complaint, it appears to the Standards Committee that, having regard to all the circumstances of the case, any further action is unnecessary or inappropriate.
     
-    Compare: 1993 No 28 [s 71(1), (2)][587]
+    Compare: 1993 No 28 [s 71(1), (2)][589]
 
 ##### 139 Notice of decision
     
@@ -4466,13 +4484,13 @@ Complaints and discipline
     
     *   (c) state the period within which an application for a review of the decision may be lodged (which period is prescribed by [section 198(b)][235]).
     
-    Compare: 1993 No 28 [s 71(3)][587]
+    Compare: 1993 No 28 [s 71(3)][589]
 
 ##### 140 Inquiry by Standards Committee
     
 *   If a Standards Committee decides to inquire into a complaint, it must inquire into it as soon as practicable.
     
-    Compare: 1982 No 123 [s 101(1)][588]
+    Compare: 1982 No 123 [s 101(1)][590]
 
 ##### 141 Notice to person to whom complaint or inquiry relates
     
@@ -4484,7 +4502,7 @@ Complaints and discipline
     
     *   (c) may, by written notice served on the person complained against, request that specified information be supplied to the Standards Committee in writing.
     
-    Compare: 1982 No 123 [s 101(3)(a), (b), (e)][588]
+    Compare: 1982 No 123 [s 101(3)(a), (b), (e)][590]
 
 ##### 142 Procedure of Standards Committee
     
@@ -4566,7 +4584,7 @@ Complaints and discipline
     
     (5) Every person appointed as an investigator under this Act must, on the termination of his or her appointment, surrender to the body by which he or she was appointed the instrument of appointment supplied to that person under subsection (1).
     
-    Compare: 1982 No 123 [s 85(1), (2)][574]
+    Compare: 1982 No 123 [s 85(1), (2)][576]
 
 ##### 146 Investigations by investigators
     
@@ -4650,7 +4668,7 @@ Complaints and discipline
     
     (3) If a person or body is employed under subsection (2)(c) by a Standards Committee or an investigator, the person or body so employed is to be treated as having been employed on behalf of the New Zealand Law Society or the New Zealand Society of Conveyancers, as the case may require.
     
-    Compare: 1982 No 123 [ss 85(3)][574], [101(3)(c)--(e)][588]
+    Compare: 1982 No 123 [ss 85(3)][576], [101(3)(c)--(e)][590]
 
 ##### 148 Report to Standards Committee
     
@@ -4714,7 +4732,7 @@ Complaints and discipline
     
     *   (e) the Council of the New Zealand Law Society or the Council of the New Zealand Society of Conveyancers, as the case may require:
     
-    *   (f) a chartered accountant (within the meaning of [section 19][589] of the New Zealand Institute of Chartered Accountants Act 1996):
+    *   (f) a chartered accountant (within the meaning of [section 19][591] of the New Zealand Institute of Chartered Accountants Act 1996):
     
     *   (g) any Police employee or member of the Serious Fraud Office acting in the performance of his or her duty:
     
@@ -4722,11 +4740,11 @@ Complaints and discipline
     
     *   (i) any client of the practitioner or former practitioner to whom, or of the incorporated firm or former incorporated firm to which, the report relates.
     
-    Compare: 1982 No 123 [s 85(6)--(9)][574]
+    Compare: 1982 No 123 [s 85(6)--(9)][576]
     
-    Section 150(f): amended, on 7 July 2010, by [section 10][580] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    Section 150(f): amended, on 7 July 2010, by [section 10][582] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
     
-    Section 150(g): amended, on 1 October 2008, by [section 130(1)][590] of the Policing Act 2008 (2008 No 72).
+    Section 150(g): amended, on 1 October 2008, by [section 130(1)][592] of the Policing Act 2008 (2008 No 72).
 
 ##### 151 Evidence
     
@@ -4736,11 +4754,11 @@ Complaints and discipline
     
     (3) A Standards Committee may permit a person appearing as a witness before it to give evidence by tendering a written statement and, if the Standards Committee thinks fit, verifying that statement by oath.
     
-    (4) Subject to subsections (1) to (3), the [Evidence Act 2006][591] applies to a Standards Committee in the same manner as if it were a court within the meaning of that Act.
+    (4) Subject to subsections (1) to (3), the [Evidence Act 2006][593] applies to a Standards Committee in the same manner as if it were a court within the meaning of that Act.
     
     (5) This section is subject to [sections 142(1)][176] and [143(5)][177].
     
-    Section 151(4): amended, on 1 August 2007, by [section 216][592] of the Evidence Act 2006 (2006 No 69).
+    Section 151(4): amended, on 1 August 2007, by [section 216][594] of the Evidence Act 2006 (2006 No 69).
 
 ##### 152 Power of Standards Committee to determine complaint or matter
     
@@ -4772,7 +4790,7 @@ Complaints and discipline
     
     (4) Subject to the right of review conferred by [section 193][230] and to [section 156(4)][190], every determination made under subsection (1) and every order made under [section 156][190] or [section 157][191] is final.
     
-    Section 152(1)(b): amended, on 20 September 2007, by [section 4][593] of the Lawyers and Conveyancers Amendment Act 2007 (2007 No 67).
+    Section 152(1)(b): amended, on 20 September 2007, by [section 4][595] of the Lawyers and Conveyancers Amendment Act 2007 (2007 No 67).
 
 ##### 153 Hearings on the papers
     
@@ -4828,11 +4846,11 @@ Complaints and discipline
     
     *   (c) if the determination relates to a complaint, give both written notice of that determination and a copy of the charge to the complainant.
     
-    (2) If the person who is the subject of the complaint or matter is a provider under the [Legal Services Act 2011][594], the Standards Committee must provide a written notice of the determination to the Secretary for Justice.
+    (2) If the person who is the subject of the complaint or matter is a provider under the [Legal Services Act 2011][596], the Standards Committee must provide a written notice of the determination to the Secretary for Justice.
     
     Compare: 1995 No 95 s 93(1)(b)
     
-    Section 154(2): added, on 1 July 2011, by [section 139][595] of the Legal Services Act 2011 (2011 No 4).
+    Section 154(2): added, on 1 July 2011, by [section 139][597] of the Legal Services Act 2011 (2011 No 4).
 
 ##### 155 Application for suspension of practitioner
     
@@ -4896,7 +4914,7 @@ Complaints and discipline
     
     (5) Where an order made under any of the provisions of paragraphs (d) to (g) of subsection (1) is binding on any practitioner, that practitioner and any person who is, in relation to that practitioner, a related person or entity are jointly and severally liable to pay any amount that is payable under the order.
     
-    Compare: 1982 No 123 [s 106(2), (4)(a), (b), (e), (f), (g), (i), (j), (7)--(9)][596]
+    Compare: 1982 No 123 [s 106(2), (4)(a), (b), (e), (f), (g), (i), (j), (7)--(9)][598]
 
 ##### 157 Further power to make order for payment of costs
     
@@ -4910,7 +4928,7 @@ Complaints and discipline
     
     (3) In this section, _expenses_ includes not only out-of-pocket expenses but also such amounts in respect of salaries of staff and overhead expenses incurred by either the New Zealand Law Society or the New Zealand Society of Conveyancers as the Standards Committee considers properly attributable to an investigation.
     
-    Compare: 1982 No 123 [s 129][597]
+    Compare: 1982 No 123 [s 129][599]
 
 ##### 158 Notice of determination
     
@@ -4938,13 +4956,13 @@ Complaints and discipline
     
     3All shareholders of an incorporated law firm or incorporated conveyancing firm in which the practitioner practises All shareholders of that firm who are shareholders of that firm in respect of shares that confer voting rights
     
-    (3) If the person who is the subject of the determination is a provider under the [Legal Services Act 2011][594], the Standards Committee must provide a written notice of the determination to the Secretary for Justice.
+    (3) If the person who is the subject of the determination is a provider under the [Legal Services Act 2011][596], the Standards Committee must provide a written notice of the determination to the Secretary for Justice.
     
-    Compare: 1993 No 28 [s 71(3)][587]
+    Compare: 1993 No 28 [s 71(3)][589]
     
-    Section 158(2A): inserted, on 20 November 2012, by [section 13][598] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 158(2A): inserted, on 20 November 2012, by [section 13][600] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
     
-    Section 158(3): added, on 1 July 2011, by [section 140][599] of the Legal Services Act 2011 (2011 No 4).
+    Section 158(3): added, on 1 July 2011, by [section 140][601] of the Legal Services Act 2011 (2011 No 4).
 
 ##### 159 Power to notify Registrar-General of Land
     
@@ -4968,7 +4986,7 @@ Complaints and discipline
     
     (4) This section does not limit the right of a trustee, executor, or administrator to complain under [section 132(2)][166] about the amount of a bill of costs with which the trustee, executor, or administrator has become chargeable.
     
-    Compare: 1982 No 123 [s 147(1), (3)][600]
+    Compare: 1982 No 123 [s 147(1), (3)][602]
 
 ##### 161 Stay of proceedings for recovery of costs
     
@@ -4998,7 +5016,7 @@ Complaints and discipline
         
         
     
-    Compare: 1982 No 123 [ss 154][601], [155(1)][602]
+    Compare: 1982 No 123 [ss 154][603], [155(1)][604]
 
 #### Intervention in practice
 
@@ -5022,9 +5040,9 @@ Complaints and discipline
     
     *   (f) the practitioner or former practitioner has been adjudicated a bankrupt; or
     
-    *   (g) the body corporate by which the practitioner or former practitioner is or was employed is in receivership or liquidation other than for the purpose of amalgamation under [Part 13][603] of the Companies Act 1993; or
+    *   (g) the body corporate by which the practitioner or former practitioner is or was employed is in receivership or liquidation other than for the purpose of amalgamation under [Part 13][605] of the Companies Act 1993; or
     
-    *   (h) the incorporated firm of which the practitioner or former practitioner is or was a director or shareholder is in receivership or liquidation other than for the purpose of amalgamation under [Part 13][603] of the Companies Act 1993; or
+    *   (h) the incorporated firm of which the practitioner or former practitioner is or was a director or shareholder is in receivership or liquidation other than for the purpose of amalgamation under [Part 13][605] of the Companies Act 1993; or
     
     *   (i) the name of the practitioner or former practitioner has been struck off the roll; or
     
@@ -5034,7 +5052,7 @@ Complaints and discipline
     
     *   (l) the practitioner or former practitioner has ceased to practise and has neglected to wind up any trust account required by this Act or by any rules made under this Act to be kept by the practitioner.
     
-    Compare: 1982 No 123 [s 81][604]
+    Compare: 1982 No 123 [s 81][606]
 
 ##### 164 Intervention in relation to regulated trust accounts
     
@@ -5042,7 +5060,7 @@ Complaints and discipline
     
     (2) On receipt of the notice, the banker must forthwith pay to the Standards Committee or the New Zealand Law Society or the New Zealand Society of Conveyancers all money held by the banker in any such account; and the receipt of the Standards Committee (or the New Zealand Law Society or the New Zealand Society of Conveyancers) is a complete discharge to the banker from all liability in respect of the money.
     
-    Compare: 1982 No 123 [s 82(1), (2)][605]
+    Compare: 1982 No 123 [s 82(1), (2)][607]
 
 ##### 165 Administration of funds obtained from regulated trust accounts
     
@@ -5050,7 +5068,7 @@ Complaints and discipline
     
     (2) If any money which was contained in a regulated trust account and which was paid to a Standards Committee or the New Zealand Law Society or the New Zealand Society of Conveyancers under [section 164(2)][199] is money that was held on behalf of any person other than the practitioner or the person or persons in whose name or names the account was held, that money must be held by the Standards Committee or the New Zealand Law Society or the New Zealand Society of Conveyancers in trust for the person on whose behalf the money was held.
     
-    Compare: 1982 No 123 [s 82(3), (4)][605]
+    Compare: 1982 No 123 [s 82(3), (4)][607]
 
 ##### 166 Claims in respect of money paid to Standards Committee
     
@@ -5064,7 +5082,7 @@ Complaints and discipline
     
     (2) The court, on hearing an application under subsection (1), may make such order as it thinks fit.
     
-    Compare: 1982 No 123 [s 82(5)][605]
+    Compare: 1982 No 123 [s 82(5)][607]
 
 ##### 167 Power of Standards Committee to repay money
     
@@ -5076,7 +5094,7 @@ Complaints and discipline
     
     *   (b) any order made by the court under any provision of this Part.
     
-    Compare: 1982 No 123 [s 82(6)][605]
+    Compare: 1982 No 123 [s 82(6)][607]
 
 ##### 168 Directions relating to Fidelity Scheme
     
@@ -5094,7 +5112,7 @@ Complaints and discipline
     
     *   (b) any order made by the court under this Part.
     
-    Compare: 1982 No 123 [s 82(7)][605]
+    Compare: 1982 No 123 [s 82(7)][607]
 
 ##### 169 Power to take possession of money, property, records, and documents
     
@@ -5104,7 +5122,7 @@ Complaints and discipline
     
     *   (b) if, in its opinion, it is expedient to do so.
     
-    Compare: 1982 No 123 [s 83(1)][606]
+    Compare: 1982 No 123 [s 83(1)][608]
 
 ##### 170 Power in relation to postal articles and email communications
     
@@ -5120,15 +5138,17 @@ Complaints and discipline
     
     (3) The notice must be signed by 2 of the members of the Standards Committee.
     
-    Compare: 1982 No 123 [s 83(2)][606]
+    Compare: 1982 No 123 [s 83(2)][608]
 
 ##### 171 Offences
     
 *   (1) Every person commits an offence against this Act who, having possession or control of any records or documents belonging to a practitioner or former practitioner or any related person or entity or held in a practitioner's or former practitioner's or related person's or entity's possession or under a practitioner's or former practitioner's or related person's or entity's control in the course of the practitioner's or former practitioner's or related person's or entity's practice, refuses or fails without lawful justification or excuse to deliver them or cause them to be delivered to a Standards Committee forthwith on demand made by that Standards Committee for the purposes of [section 169][204] or [section 170][205].
     
-    (2) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $25,000\.
+    (2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $25,000\.
     
-    Compare: 1982 No 123 [s 87(a)][607]
+    Compare: 1982 No 123 [s 87(a)][609]
+    
+    Section 171(2): amended, on 1 July 2013, by [section 413][513] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 172 Warrant to search premises
     
@@ -5142,7 +5162,7 @@ Complaints and discipline
     
     (3) Where any person is empowered by a warrant issued under subsection (1) to enter upon any premises, that person may be accompanied when so entering by a constable and must be so accompanied when so entering a dwellinghouse.
     
-    Compare: 1982 No 123 [s 83(3), (4)][606]
+    Compare: 1982 No 123 [s 83(3), (4)][608]
     
     Section 172(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][495] of the Policing Act 2008 (2008 No 72).
 
@@ -5162,7 +5182,7 @@ Complaints and discipline
     
     (2) A warrant may be issued under subsection (1) only if the Judge of the High Court or District Court Judge issuing the warrant is satisfied, in relation to the account in respect of which the warrant is issued, that there is reasonable cause to believe that money entrusted to a practitioner or former practitioner or a related person or entity in connection with legal or conveyancing services has been fraudulently or wrongfully paid into that account.
     
-    Compare: 2001 No 10 [s 27][608]
+    Compare: 2001 No 10 [s 27][610]
 
 ##### 174 Obligation to produce warrant
     
@@ -5218,7 +5238,7 @@ Complaints and discipline
     
     (7) While any documents are in the possession of a Standards Committee pursuant to the powers conferred on it by [sections 169 to 172][204], any lien or right to a lien which, but for this section, could be exercised by the practitioner or former practitioner or any related person or entity enures for the benefit of the Standards Committee to the exclusion of the practitioner or former practitioner or related person or entity.
     
-    Compare: 1982 No 123 [s 83(5)--(10)][606]
+    Compare: 1982 No 123 [s 83(5)--(10)][608]
 
 ##### 177 Notification to clients of practitioner or former practitioner
     
@@ -5260,7 +5280,7 @@ Complaints and discipline
     
     *   (b) may be sent to the practitioner, former practitioner, related person or entity, partner, employer, or director by registered letter addressed to the practitioner's, former practitioner's, related person's or entity's, partner's, employer's, or director's last known place of business or residence.
     
-    Compare: 1982 No 123 [s 84(1), (2)][609]
+    Compare: 1982 No 123 [s 84(1), (2)][611]
 
 ##### 180 Application to High Court by practitioner, former practitioner, related person or entity, partner, employer, or director
     
@@ -5278,7 +5298,7 @@ Complaints and discipline
     
     (2) The High Court may, on hearing any application under subsection (1), make such order as it thinks fit.
     
-    Compare: 1982 No 123 [s 84(3), (4)][609]
+    Compare: 1982 No 123 [s 84(3), (4)][611]
 
 ##### 181 Recovery of expenses of Standards Committee
     
@@ -5290,7 +5310,7 @@ Complaints and discipline
     
     (4) In this section, _reasonable expenses_, in relation to the performance of any function or the exercise of any power, includes not only out-of-pocket expenses but also a reasonable sum in respect of salaries of staff and overhead expenses incurred by the Standards Committee or the New Zealand Law Society or the New Zealand Society of Conveyancers, as the case may be, and properly attributable to the performance of the function or the exercise of the power.
     
-    Compare: 1982 No 123 [s 86(1), (6)][610]
+    Compare: 1982 No 123 [s 86(1), (6)][612]
 
 ##### 182 Application of money in satisfaction of expenses
     
@@ -5304,11 +5324,11 @@ Complaints and discipline
     
     (3) A notice under subsection (2)(a) may be served personally on the practitioner or former practitioner or any such representative, or may be forwarded to the practitioner or former practitioner or any such representative by registered letter addressed to his or her last known place of business or residence.
     
-    (4) A notice under subsection (2)(b) may be served on the incorporated firm or former incorporated firm in accordance with [section 387(1)][611] of the Companies Act 1993\.
+    (4) A notice under subsection (2)(b) may be served on the incorporated firm or former incorporated firm in accordance with [section 387(1)][613] of the Companies Act 1993\.
     
     (5) Within 14 days after a notice has been served or posted in accordance with subsection (3) or subsection (4), the practitioner or former practitioner or his or her personal representatives or the incorporated firm or former incorporated firm may apply to the High Court for a review of the expenses claimed; and on hearing any such application the High Court may make such order as it thinks fit.
     
-    Compare: 1982 No 123 [s 86(2)--(5)][610]
+    Compare: 1982 No 123 [s 86(2)--(5)][612]
 
 #### General provisions in relation to Standards Committees
 
@@ -5346,7 +5366,7 @@ Complaints and discipline
     
     (7) No delegation under this section affects or prevents the performance or exercise of any function or power by the Standards Committee that made the delegation, nor does any such delegation affect the responsibility of that Standards Committee for the actions of any person acting under the delegation.
     
-    Compare: 1988 No 20 [ss 23][612], [24(1)][613]
+    Compare: 1988 No 20 [ss 23][614], [24(1)][615]
 
 ##### 185 Members, investigators, etc, not personally liable
     
@@ -5360,7 +5380,7 @@ Complaints and discipline
     
     unless that person has acted in bad faith.
     
-    Compare: 1995 No 95 s 135(1); 1996 No 39 [s 12(1)][614]
+    Compare: 1995 No 95 s 135(1); 1996 No 39 [s 12(1)][616]
 
 ##### 186 Protection and privileges of witnesses
     
@@ -5376,13 +5396,13 @@ Complaints and discipline
     
     (2) In this section, _Standards Committee_ includes an investigator and any other person acting on behalf of, or as the delegate of, a Standards Committee.
     
-    Compare: 1982 No 123 [s 127][615]
+    Compare: 1982 No 123 [s 127][617]
 
 ##### 187 Privileges and immunities of counsel
     
 *   Every counsel appearing before a Standards Committee has the same privileges and immunities as counsel in a court of law.
     
-    Compare: 1982 No 123 [s 127][615]
+    Compare: 1982 No 123 [s 127][617]
 
 ##### 188 Disclosure of information
     
@@ -5432,11 +5452,11 @@ Complaints and discipline
     
     *   (h) in evidence in any court.
     
-    Compare: 1982 No 123 [s 85(6)][574]
+    Compare: 1982 No 123 [s 85(6)][576]
     
-    Section 188(2)(d)(iv): amended, on 7 July 2010, by [section 10][580] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    Section 188(2)(d)(iv): amended, on 7 July 2010, by [section 10][582] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
     
-    Section 188(2)(e): amended, on 1 October 2008, by [section 130(1)][590] of the Policing Act 2008 (2008 No 72).
+    Section 188(2)(e): amended, on 1 October 2008, by [section 130(1)][592] of the Policing Act 2008 (2008 No 72).
 
 ##### 189 Enforcement of orders
     
@@ -5444,7 +5464,7 @@ Complaints and discipline
     
     (2) If a Standards Committee, acting in accordance with this Act or any rules made under this Act, orders any person who is or was a practitioner or an incorporated firm or an employee of a practitioner or an incorporated firm to pay a fine, expenses, or other monetary amount to the New Zealand Law Society or the New Zealand Society of Conveyancers, that amount is recoverable from that person by the society to which it is ordered to be paid as a debt due to that society, whether or not that person remains a practitioner or an incorporated firm or an employee of a practitioner or an incorporated firm.
     
-    Compare: 1996 No 39 [s 13][616]
+    Compare: 1996 No 39 [s 13][618]
 
 #### Legal Complaints Review Officer
 
@@ -5454,7 +5474,7 @@ Complaints and discipline
     
     (2) The Legal Complaints Review Officer is to be appointed by the Minister, after consultation with the New Zealand Law Society and the New Zealand Society of Conveyancers.
     
-    (3) No person is deemed to be appointed in the service of the Crown for the purposes of the [State Sector Act 1988][474] or the [Government Superannuation Fund Act 1956][617] by reason of the person's appointment as the Legal Complaints Review Officer.
+    (3) No person is deemed to be appointed in the service of the Crown for the purposes of the [State Sector Act 1988][474] or the [Government Superannuation Fund Act 1956][619] by reason of the person's appointment as the Legal Complaints Review Officer.
 
 ##### 191 Criteria for appointment
     
@@ -5580,7 +5600,7 @@ Complaints and discipline
     
     *   (c) be accompanied by the prescribed fee (if any).
     
-    Section 198(b): replaced, on 20 November 2012, by [section 12(1)][618] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 198(b): replaced, on 20 November 2012, by [section 12(1)][620] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 199 Obligation to conduct review
     
@@ -5598,7 +5618,7 @@ Complaints and discipline
     
     *   (c) the rules of natural justice.
     
-    Compare: 1997 No 60 [s 60][619]
+    Compare: 1997 No 60 [s 60][621]
 
 ##### 201 Postponement for consideration of negotiation, conciliation, or mediation
     
@@ -5708,7 +5728,7 @@ Complaints and discipline
     
     (5) Subject to this Act and to any rules made under this Act, the Legal Complaints Review Officer may regulate his or her procedure in such manner as he or she thinks fit.
     
-    Compare: 1988 No 2 [s 23(2), (3)(b), (c), (4)][620]
+    Compare: 1988 No 2 [s 23(2), (3)(b), (c), (4)][622]
 
 ##### 207 Evidence
     
@@ -5716,7 +5736,7 @@ Complaints and discipline
     
     (2) The Legal Complaints Review Officer may receive and take into account any relevant evidence or information, whether or not that evidence or information would normally be inadmissible in a court of law.
     
-    Compare: 1988 No 110 [s 40(2), (4)][621]
+    Compare: 1988 No 110 [s 40(2), (4)][623]
 
 ##### 208 Disclosure of evidence and information to parties
     
@@ -5730,7 +5750,7 @@ Complaints and discipline
     
     (3) If, under subsection (2), the Legal Complaints Review Officer takes, in respect of any party, either of the actions referred to in subsection (2), the Legal Complaints Review Officer must give to that party the reasons for the action taken by the Legal Complaints Review Officer.
     
-    Compare: 1988 No 110 [s 40(3)][621]
+    Compare: 1988 No 110 [s 40(3)][623]
 
 ##### 209 Power to direct reconsideration of complaints, matters, or decisions
     
@@ -5750,7 +5770,7 @@ Complaints and discipline
     
     (2) A Standards Committee, in reconsidering any complaint, matter, or decision referred back to it under subsection (1)(a), must have regard to the direction given by the Legal Complaints Review Officer and to his or her reasons for giving the direction.
     
-    Compare: 1972 No 130 [s 4(5), (6)][622]
+    Compare: 1972 No 130 [s 4(5), (6)][624]
 
 ##### 210 Order for payment of costs
     
@@ -5766,7 +5786,7 @@ Complaints and discipline
     
     (4) In this section, _expenses_ includes not only out-of-pocket expenses but also such amounts in respect of salaries of staff and overhead expenses incurred by either the New Zealand Law Society or the New Zealand Society of Conveyancers as the Legal Complaints Review Officer considers properly attributable to an investigation.
     
-    Compare: 1982 No 123 [s 129][597]
+    Compare: 1982 No 123 [s 129][599]
 
 ##### 211 Powers exercisable on review
     
@@ -5810,9 +5830,9 @@ Complaints and discipline
     
     (4) The Legal Complaints Review Officer may not, under [section 211][250], decide that a complaint or matter should be considered by the Disciplinary Tribunal unless he or she has given the person who would be the subject of the charge laid before the Disciplinary Tribunal a reasonable opportunity to be heard.
     
-    (5) If the Legal Complaints Review Officer decides to lay, or directs a Standards Committee to lay, a charge against a person who is a provider under the [Legal Services Act 2011][594], the Legal Complaints Review Officer must give written notice of the decision to the Secretary for Justice.
+    (5) If the Legal Complaints Review Officer decides to lay, or directs a Standards Committee to lay, a charge against a person who is a provider under the [Legal Services Act 2011][596], the Legal Complaints Review Officer must give written notice of the decision to the Secretary for Justice.
     
-    Section 212(5): added, on 1 July 2011, by [section 141][623] of the Legal Services Act 2011 (2011 No 4).
+    Section 212(5): added, on 1 July 2011, by [section 141][625] of the Legal Services Act 2011 (2011 No 4).
 
 ##### 213 Obligation to report outcomes and recommendations
     
@@ -5844,11 +5864,11 @@ Complaints and discipline
     
     3All shareholders of an incorporated law firm or incorporated conveyancing firm in which the practitioner practises All shareholders of that firm who are shareholders of that firm in respect of shares that confer voting rights
     
-    (3) If the person who is the subject of the review is a provider under the [Legal Services Act 2011][594], the Legal Complaints Review Officer must report both the outcome of the review and any recommendations made as a result of the review to the Secretary for Justice.
+    (3) If the person who is the subject of the review is a provider under the [Legal Services Act 2011][596], the Legal Complaints Review Officer must report both the outcome of the review and any recommendations made as a result of the review to the Secretary for Justice.
     
-    Section 213(2A): inserted, on 20 November 2012, by [section 14][624] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 213(2A): inserted, on 20 November 2012, by [section 14][626] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
     
-    Section 213(3): added, on 1 July 2011, by [section 142][625] of the Legal Services Act 2011 (2011 No 4).
+    Section 213(3): added, on 1 July 2011, by [section 142][627] of the Legal Services Act 2011 (2011 No 4).
 
 ##### 214 Adverse comment
     
@@ -5884,9 +5904,9 @@ Complaints and discipline
     
     (2) The cost to the Crown of the performance of the functions of the Legal Complaints Review Officer includes---
         
-    *   (a) the remuneration and allowances payable under [clause 4][626] of Schedule 3 to the Legal Complaints Review Officer and each Deputy Legal Complaints Review Officer; and
+    *   (a) the remuneration and allowances payable under [clause 4][628] of Schedule 3 to the Legal Complaints Review Officer and each Deputy Legal Complaints Review Officer; and
     
-    *   (b) the cost of the accommodation and services provided under [clause 5][627] of Schedule 3\.
+    *   (b) the cost of the accommodation and services provided under [clause 5][629] of Schedule 3\.
     
     (3) The amount of the unanticipated cost referred to in subsection (1)(b) is not to exceed 10% of the actual and anticipated cost referred to in subsection (1)(a).
     
@@ -5900,13 +5920,13 @@ Complaints and discipline
     
     (5) The Minister must, on determining the rate of the levy, give written notice to each society of both the rate of the levy and the date by which the levy is required to be paid to the Ministry of Justice.
     
-    Section 217(2)(a): amended, on 12 December 2012, by [section 4][628] of the Lawyers and Conveyancers Amendment Act (No 2) 2012 (2012 No 105).
+    Section 217(2)(a): amended, on 12 December 2012, by [section 4][630] of the Lawyers and Conveyancers Amendment Act (No 2) 2012 (2012 No 105).
 
 ##### 218 Legal Complaints Review Officer Trust Account
     
-*   (1) Money paid to the Ministry of Justice by way of levy under [section 217][257] or [section 219][259] is money paid to the Crown in trust for the purpose of meeting the cost to the Crown of the performance of the functions of the Legal Complaints Review Officer and is to be treated as trust money to which [section 66][629] of the Public Finance Act 1989 applies.
+*   (1) Money paid to the Ministry of Justice by way of levy under [section 217][257] or [section 219][259] is money paid to the Crown in trust for the purpose of meeting the cost to the Crown of the performance of the functions of the Legal Complaints Review Officer and is to be treated as trust money to which [section 66][631] of the Public Finance Act 1989 applies.
     
-    (2) The Ministry of Justice must establish under [section 67(1)][630] of the Public Finance Act 1989 a bank account to be known as the Legal Complaints Review Officer Trust Account.
+    (2) The Ministry of Justice must establish under [section 67(1)][632] of the Public Finance Act 1989 a bank account to be known as the Legal Complaints Review Officer Trust Account.
     
     (3) The Legal Complaints Review Officer Trust Account is to be operated and maintained by the Ministry of Justice.
     
@@ -5916,9 +5936,9 @@ Complaints and discipline
     
     (6) The sums paid by way of reimbursement under subsection (5) must be paid from the Legal Complaints Review Officer Trust Account.
     
-    (7) The Ministry of Justice may from time to time invest, in accordance with [section 68][631] of the Public Finance Act 1989, any money held in the Legal Complaints Review Officer Trust Account.
+    (7) The Ministry of Justice may from time to time invest, in accordance with [section 68][633] of the Public Finance Act 1989, any money held in the Legal Complaints Review Officer Trust Account.
     
-    (8) Subject to the provisions of this Act, [Part 7][632] of the Public Finance Act 1989 applies in relation to both the Legal Complaints Review Officer Trust Account and the trust money held in that account.
+    (8) Subject to the provisions of this Act, [Part 7][634] of the Public Finance Act 1989 applies in relation to both the Legal Complaints Review Officer Trust Account and the trust money held in that account.
 
 ##### 219 Special circumstances levy
     
@@ -6004,7 +6024,7 @@ Complaints and discipline
     
 *   This section establishes a body to be known as the New Zealand Lawyers and Conveyancers Disciplinary Tribunal.
     
-    Compare: 1982 No 123 [s 108(1)][633]
+    Compare: 1982 No 123 [s 108(1)][635]
 
 ##### 227 Functions of Disciplinary Tribunal
     
@@ -6036,7 +6056,7 @@ Complaints and discipline
     
     *   (h) to perform such other functions as are conferred on it by this Act or any other enactment.
     
-    Compare: 1982 No 123 [ss 110][634], [130][635]
+    Compare: 1982 No 123 [ss 110][636], [130][637]
 
 ##### 228 Membership of Disciplinary Tribunal
     
@@ -6052,7 +6072,7 @@ Complaints and discipline
     
     *   (e) not less than 3 nor more than 5 members who are conveyancing practitioners.
     
-    Compare: 1982 No 123 [s 108(2)][633]
+    Compare: 1982 No 123 [s 108(2)][635]
 
 ##### 229 Disciplinary Tribunal may sit in divisions
     
@@ -6072,7 +6092,7 @@ Complaints and discipline
     
     (8) Any determination made by the chairperson of the Disciplinary Tribunal under this section may be revoked or amended by that chairperson by writing signed by that chairperson.
     
-    Compare: 1986 No 5 [s 16][636]; 1993 No 94 [s 101][637]
+    Compare: 1986 No 5 [s 16][638]; 1993 No 94 [s 101][639]
 
 ##### 230 Appointment of chairperson and deputy chairperson
     
@@ -6084,7 +6104,7 @@ Complaints and discipline
     
     (2) The chairperson of the Disciplinary Tribunal and the deputy chairperson of the Disciplinary Tribunal are to be appointed by the Governor-General on the recommendation of the Minister.
     
-    Compare: 1982 No 123 [s 108(3)][633]
+    Compare: 1982 No 123 [s 108(3)][635]
 
 ##### 231 Responsibilities of chairperson
     
@@ -6142,7 +6162,7 @@ Complaints and discipline
     
     (3) The members appointed under [section 228(e)][270] are to be appointed by the Council of the New Zealand Society of Conveyancers.
     
-    Compare: 1982 No 123 [ss 108(2)][633], [109(1)][638]
+    Compare: 1982 No 123 [ss 108(2)][635], [109(1)][640]
 
 ##### 234 Constitution for proceedings
     
@@ -6172,7 +6192,7 @@ Complaints and discipline
     
     (5) \[Repealed\]
     
-    Section 234(5): repealed, on 20 November 2012, by [section 27(2)][639] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 234(5): repealed, on 20 November 2012, by [section 27(2)][641] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 235 Quorum
     
@@ -6202,9 +6222,9 @@ Complaints and discipline
         
         
     
-    Section 235(4): replaced, on 20 November 2012, by [section 15][640] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 235(4): replaced, on 20 November 2012, by [section 15][642] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
     
-    Section 235(5): inserted, on 20 November 2012, by [section 15][640] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 235(5): inserted, on 20 November 2012, by [section 15][642] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 #### Procedure
 
@@ -6212,7 +6232,7 @@ Complaints and discipline
     
 *   The Disciplinary Tribunal must, in performing and exercising its functions and powers, observe the rules of natural justice.
     
-    Compare: 1982 No 123 [s 124(1)][641]; 1996 No 39 [s 9][642]
+    Compare: 1982 No 123 [s 124(1)][643]; 1996 No 39 [s 9][644]
 
 ##### 237 Representation before Disciplinary Tribunal
     
@@ -6234,7 +6254,7 @@ Complaints and discipline
     
     (3) The Disciplinary Tribunal may, in any case, deliberate in private as to its decision or as to any question arising in the course of a hearing.
     
-    Compare: 1982 No 123 [s 111(1), (2)(a), (4)][643]
+    Compare: 1982 No 123 [s 111(1), (2)(a), (4)][645]
 
 ##### 239 Evidence
     
@@ -6244,13 +6264,13 @@ Complaints and discipline
     
     (3) The Disciplinary Tribunal may permit a person appearing as a witness before it to give evidence by tendering a written statement and verifying that statement by oath.
     
-    (4) Subject to subsections (1) to (3), the [Evidence Act 2006][591] applies to the Disciplinary Tribunal in the same manner as if the Disciplinary Tribunal were a court within the meaning of that Act.
+    (4) Subject to subsections (1) to (3), the [Evidence Act 2006][593] applies to the Disciplinary Tribunal in the same manner as if the Disciplinary Tribunal were a court within the meaning of that Act.
     
-    (5) A hearing before the Disciplinary Tribunal is a judicial proceeding within the meaning of [section 108][644] of the Crimes Act 1961 (which relates to perjury).
+    (5) A hearing before the Disciplinary Tribunal is a judicial proceeding within the meaning of [section 108][646] of the Crimes Act 1961 (which relates to perjury).
     
-    Compare: 1995 No 95 Schedule 1 cl 6; 1996 No 39 [s 10][645]
+    Compare: 1995 No 95 Schedule 1 cl 6; 1996 No 39 [s 10][647]
     
-    Section 239(4): amended, on 1 August 2007, by [section 216][592] of the Evidence Act 2006 (2006 No 69).
+    Section 239(4): amended, on 1 August 2007, by [section 216][594] of the Evidence Act 2006 (2006 No 69).
 
 ##### 240 Restrictions on publication
     
@@ -6292,13 +6312,13 @@ Complaints and discipline
     
     (4) For the purposes of exercising the Disciplinary Tribunal's powers under subsections (1)(c) and (2) to make or revoke, before the start of the hearing of the charge, an order prohibiting the publication of the name or any particulars of the affairs of the person charged or any other person, the quorum at any sitting of the Disciplinary Tribunal or a division of the Disciplinary Tribunal is, despite [section 235(1)][277], the 3-member quorum specified in section 235(5).
     
-    Compare: 1982 No 123 [s 111(2)(b)--(d), (3), (6)][643]
+    Compare: 1982 No 123 [s 111(2)(b)--(d), (3), (6)][645]
     
-    Section 240(1)(c): amended, on 20 November 2012, by [section 16(1)][646] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 240(1)(c): amended, on 20 November 2012, by [section 16(1)][648] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
     
-    Section 240(2A): inserted, on 20 November 2012, by [section 16(2)][646] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 240(2A): inserted, on 20 November 2012, by [section 16(2)][648] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
     
-    Section 240(4): inserted, on 20 November 2012, by [section 16(3)][646] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 240(4): inserted, on 20 November 2012, by [section 16(3)][648] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 241 Charges that may be brought before Disciplinary Tribunal
     
@@ -6314,7 +6334,7 @@ Complaints and discipline
     
     it may, if it thinks fit, make any 1 or more of the orders authorised by [section 242][285].
     
-    Compare: 1982 No 123 [s 112(1)][647]
+    Compare: 1982 No 123 [s 112(1)][649]
 
 ##### 242 Orders that may be made where charge proved
     
@@ -6350,17 +6370,17 @@ Complaints and discipline
     
     (2) Paragraphs (c) and (d) of subsection (1) are subject to [section 244][287].
     
-    Compare: 1982 No 123 [ss 112(2)][647], [114(2)][648]
+    Compare: 1982 No 123 [ss 112(2)][649], [114(2)][650]
     
-    Section 242(1)(c): replaced, on 20 November 2012, by [section 17][649] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 242(1)(c): replaced, on 20 November 2012, by [section 17][651] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
     
-    Section 242(1)(d): replaced, on 20 November 2012, by [section 17][649] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 242(1)(d): replaced, on 20 November 2012, by [section 17][651] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
     
-    Section 242(1)(e): replaced, on 20 November 2012, by [section 17][649] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 242(1)(e): replaced, on 20 November 2012, by [section 17][651] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
     
-    Section 242(1)(f): replaced, on 20 November 2012, by [section 17][649] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 242(1)(f): replaced, on 20 November 2012, by [section 17][651] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
     
-    Section 242(1)(g): replaced, on 20 November 2012, by [section 17][649] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 242(1)(g): replaced, on 20 November 2012, by [section 17][651] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 243 Power to refer bill of costs to Standards Committee
     
@@ -6372,7 +6392,7 @@ Complaints and discipline
     
     (4) This section does not limit [section 242][285].
     
-    Compare: 1982 No 123 [s 112(4)][647]
+    Compare: 1982 No 123 [s 112(4)][649]
 
 ##### 244 Making of order for striking off roll, cancellation of registration, or suspension from practice
     
@@ -6390,17 +6410,17 @@ Complaints and discipline
     
     (3) Where the Disciplinary Tribunal makes an order, under [section 242(1)(c)][285], striking the name of a practitioner or former practitioner off the roll or an order, under section 242(1)(d), cancelling the registration of a practitioner or former practitioner, the order is, until the expiry of the time allowed for appeal under [section 253][297] or, if an appeal is commenced, until the determination of the appeal, to take effect only as an order that the practitioner or former practitioner be suspended from practice as a barrister or as a solicitor or as both, or from practice as a conveyancing practitioner, as the case may require.
     
-    Compare: 1982 No 123 [ss 113][650], [117(3)][651]
+    Compare: 1982 No 123 [ss 113][652], [117(3)][653]
     
-    Section 244(1): amended, on 20 November 2012, by [section 18(1)][652] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 244(1): amended, on 20 November 2012, by [section 18(1)][654] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
     
-    Section 244(2)(a): amended, on 20 November 2012, by [section 18(2)][652] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 244(2)(a): amended, on 20 November 2012, by [section 18(2)][654] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
     
-    Section 244(2)(b): amended, on 20 November 2012, by [section 18(2)][652] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 244(2)(b): amended, on 20 November 2012, by [section 18(2)][654] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
     
-    Section 244(2)(c): amended, on 20 November 2012, by [section 18(2)][652] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 244(2)(c): amended, on 20 November 2012, by [section 18(2)][654] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
     
-    Section 244(3): amended, on 20 November 2012, by [section 18(3)][652] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 244(3): amended, on 20 November 2012, by [section 18(3)][654] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 245 Interim suspension from practice
     
@@ -6436,9 +6456,9 @@ Complaints and discipline
     
     (8) Nothing in this section or in [section 236][279] requires the Disciplinary Tribunal to give a practitioner an opportunity to appear or be heard before the Disciplinary Tribunal makes an order under subsection (1) or gives a direction under subsection (3).
     
-    Compare: 1982 No 123 [ss 115][653], [124(2)][641]
+    Compare: 1982 No 123 [ss 115][655], [124(2)][643]
     
-    Section 245(7): replaced, on 20 November 2012, by [section 19][654] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 245(7): replaced, on 20 November 2012, by [section 19][656] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 246 Restoration of name to roll or register
     
@@ -6454,7 +6474,7 @@ Complaints and discipline
     
     (6) No application by a person for the restoration of his or her name to the roll or to the register of conveyancers may be made except under [section 60][72] or under this section.
     
-    Compare: 1982 No 123 [s 116][655]
+    Compare: 1982 No 123 [s 116][657]
 
 ##### 247 Revocation of order in respect of employee
     
@@ -6520,17 +6540,17 @@ Complaints and discipline
     
     (4) In this section, _expenses_ includes not only out-of-pocket expenses but also such amounts in respect of salaries of staff and overhead expenses incurred by either the New Zealand Law Society or the New Zealand Society of Conveyancers as the Disciplinary Tribunal considers properly attributable to an investigation.
     
-    Compare: 1982 No 123 [s 129][597]
+    Compare: 1982 No 123 [s 129][599]
 
 ##### 250 Rules of procedure
     
 *   The Disciplinary Tribunal may, from time to time, make rules, not inconsistent with this Act, in respect of the making, hearing, and determination of applications, inquiries, appeals, and other proceedings before it.
     
-    Compare: 1982 No 123 [s 130][635]
+    Compare: 1982 No 123 [s 130][637]
 
 ##### 251 Contempt of Disciplinary Tribunal
     
-*   (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $5,000 who---
+*   (1) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who---
         
     *   (a) assaults, threatens, intimidates, or wilfully insults any person, being a member of the Disciplinary Tribunal, an officer of the Disciplinary Tribunal, or any witness, during that person's sitting or attendance in the Disciplinary Tribunal, or in going to or returning from the Disciplinary Tribunal; or
     
@@ -6540,13 +6560,15 @@ Complaints and discipline
     
     (2) A member of the Disciplinary Tribunal may order the exclusion from a sitting of the Disciplinary Tribunal of any person whose behaviour, in that member's opinion, constitutes an offence against subsection (1), whether or not that person is charged with the offence; and any constable may take such steps as are reasonably necessary to enforce such an exclusion.
     
+    Section 251(1): amended, on 1 July 2013, by [section 413][513] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 251(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][495] of the Policing Act 2008 (2008 No 72).
 
 ##### 252 Power of Disciplinary Tribunal to determine procedure
     
 *   Except as provided by this Act or by rules made under this Act, the Disciplinary Tribunal may determine its own procedure.
     
-    Compare: 1982 No 123 [s 108(6)][633]
+    Compare: 1982 No 123 [s 108(6)][635]
 
 #### Appeals
 
@@ -6584,11 +6606,11 @@ Complaints and discipline
     
     (4) On hearing an appeal under subsection (1), the High Court may confirm, reverse, or modify the order or decision appealed against.
     
-    Compare: 1982 No 123 [s 118][656]
+    Compare: 1982 No 123 [s 118][658]
 
 ##### 254 Appeal to Court of Appeal on question of law
     
-*   (1) Any party to an appeal under [section 253(1)][297] who is dissatisfied with any determination of the High Court in the proceedings as being erroneous in point of law may, with the leave of that court, or, if the High Court refuses leave, with the leave of the Court of Appeal, appeal to the Court of Appeal against the determination; and [section 66][657] of the Judicature Act 1908 applies to any such appeal.
+*   (1) Any party to an appeal under [section 253(1)][297] who is dissatisfied with any determination of the High Court in the proceedings as being erroneous in point of law may, with the leave of that court, or, if the High Court refuses leave, with the leave of the Court of Appeal, appeal to the Court of Appeal against the determination; and [section 66][659] of the Judicature Act 1908 applies to any such appeal.
     
     (2) In determining whether to grant leave to appeal under this section, the Court of Appeal must have regard to whether the question of law involved in the appeal is one that, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for its decision.
     
@@ -6596,7 +6618,7 @@ Complaints and discipline
     
     (4) The decision of the Court of Appeal on any appeal under this section is final.
     
-    Compare: 1987 No 74 [s 116][658]
+    Compare: 1987 No 74 [s 116][660]
 
 ##### 255 Order for striking off, cancellation of registration, restoration, or suspension to be filed in High Court
     
@@ -6618,17 +6640,17 @@ Complaints and discipline
     
     (4) An order filed in the High Court under this section may be inspected by any person during office hours without payment of any fee.
     
-    (5) If the person who is the subject of the order is a provider under the [Legal Services Act 2011][594], the chairperson of the Disciplinary Tribunal must give a copy of the order to the Secretary for Justice.
+    (5) If the person who is the subject of the order is a provider under the [Legal Services Act 2011][596], the chairperson of the Disciplinary Tribunal must give a copy of the order to the Secretary for Justice.
     
-    Compare: 1982 No 123 [s 117][651]
+    Compare: 1982 No 123 [s 117][653]
     
-    Section 255(1)(a): amended, on 20 November 2012, by [section 20(1)][659] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 255(1)(a): amended, on 20 November 2012, by [section 20(1)][661] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
     
-    Section 255(1)(c): amended, on 20 November 2012, by [section 20(2)][659] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 255(1)(c): amended, on 20 November 2012, by [section 20(2)][661] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
     
-    Section 255(3): amended, on 20 November 2012, by [section 20(3)][659] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 255(3): amended, on 20 November 2012, by [section 20(3)][661] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
     
-    Section 255(5): added, on 1 July 2011, by [section 143][660] of the Legal Services Act 2011 (2011 No 4).
+    Section 255(5): added, on 1 July 2011, by [section 143][662] of the Legal Services Act 2011 (2011 No 4).
 
 #### Miscellaneous provisions
 
@@ -6692,21 +6714,21 @@ Complaints and discipline
     
     *   (b) if the notice relates to a conveyancing practitioner or an employee or former employee of a conveyancing practitioner or an incorporated conveyancing firm, be paid by the New Zealand Society of Conveyancers.
     
-    Compare: 1982 No 123 [s 119][661]
+    Compare: 1982 No 123 [s 119][663]
     
-    Section 256(1)(a)(i): amended, on 20 November 2012, by [section 21(1)][662] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 256(1)(a)(i): amended, on 20 November 2012, by [section 21(1)][664] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
     
-    Section 256(1)(a)(iii): amended, on 20 November 2012, by [section 21(2)][662] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 256(1)(a)(iii): amended, on 20 November 2012, by [section 21(2)][664] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
     
-    Section 256(2)(a)(i): amended, on 20 November 2012, by [section 21(3)][662] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 256(2)(a)(i): amended, on 20 November 2012, by [section 21(3)][664] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
     
-    Section 256(2)(a)(iii): amended, on 20 November 2012, by [section 21(4)][662] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 256(2)(a)(iii): amended, on 20 November 2012, by [section 21(4)][664] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
     
-    Section 256(2)(a)(iv): amended, on 20 November 2012, by [section 21(4)][662] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 256(2)(a)(iv): amended, on 20 November 2012, by [section 21(4)][664] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
     
-    Section 256(3)(a): amended, on 20 November 2012, by [section 21(5)][662] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 256(3)(a): amended, on 20 November 2012, by [section 21(5)][664] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
     
-    Section 256(3)(d): amended, on 20 November 2012, by [section 21(6)][662] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 256(3)(d): amended, on 20 November 2012, by [section 21(6)][664] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 257 Reimbursement of costs of hearing
     
@@ -6720,7 +6742,7 @@ Complaints and discipline
         
     *   (a) include not only out-of-pocket expenses in relation to the hearing but also a reasonable sum in respect of---
             
-        *   (i) the remuneration and allowances payable under [clause 4][663] of Schedule 4 to the chairperson, deputy chairperson, and lay members of the Disciplinary Tribunal; and
+        *   (i) the remuneration and allowances payable under [clause 4][665] of Schedule 4 to the chairperson, deputy chairperson, and lay members of the Disciplinary Tribunal; and
         
         *   (ii) the costs of the accommodation and the administrative and secretarial services provided to the Disciplinary Tribunal by the Ministry of Justice; but
         
@@ -6730,9 +6752,9 @@ Complaints and discipline
     
     (3) The amount payable under subsection (1)(a) and the amount payable under subsection (1)(b) are to be fixed in each case by the chairperson of the Disciplinary Tribunal.
     
-    Section 257(1)(a): amended, on 25 January 2005, pursuant to [section 65R(3)][664] of the Public Finance Act 1989 (1989 No 44).
+    Section 257(1)(a): amended, on 25 January 2005, pursuant to [section 65R(3)][666] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 257(1)(b): amended, on 25 January 2005, pursuant to [section 65R(3)][664] of the Public Finance Act 1989 (1989 No 44).
+    Section 257(1)(b): amended, on 25 January 2005, pursuant to [section 65R(3)][666] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 258 Enforcement of orders of Disciplinary Tribunal
     
@@ -6744,7 +6766,7 @@ Complaints and discipline
     
     (4) On the filing of the order it takes effect as if it were an order of the High Court to the like effect made within its jurisdiction.
     
-    Compare: 1982 No 123 [s 132][665]; 1996 No 39 [s 13][616]
+    Compare: 1982 No 123 [s 132][667]; 1996 No 39 [s 13][618]
 
 ##### 259 Annual report
     
@@ -6762,7 +6784,7 @@ Complaints and discipline
 
 ##### 261 Failure to comply with summons
     
-*   (1) Every person summoned under [clause 6][666] of Schedule 4 to attend a hearing of the Disciplinary Tribunal commits an offence if he or she, without sufficient cause, does any or all of the following:
+*   (1) Every person summoned under [clause 6][668] of Schedule 4 to attend a hearing of the Disciplinary Tribunal commits an offence if he or she, without sufficient cause, does any or all of the following:
         
     *   (a) fails to attend in accordance with the summons:
     
@@ -6774,11 +6796,13 @@ Complaints and discipline
     
     *   (e) does not provide any documents, things, or information the summons requires the person to provide.
     
-    (2) A person summoned to attend a hearing of the Disciplinary Tribunal is not to be convicted of an offence against subsection (1) unless witnesses' expenses are paid or tendered to that person in accordance with [clause 7(4)][667] of Schedule 4\.
+    (2) A person summoned to attend a hearing of the Disciplinary Tribunal is not to be convicted of an offence against subsection (1) unless witnesses' expenses are paid or tendered to that person in accordance with [clause 7(4)][669] of Schedule 4\.
     
-    (3) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $25,000\.
+    (3) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $25,000\.
     
-    Compare: 1996 No 39 [s 16][668]
+    Compare: 1996 No 39 [s 16][670]
+    
+    Section 261(3): amended, on 1 July 2013, by [section 413][513] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 262 Obstruction
     
@@ -6786,15 +6810,19 @@ Complaints and discipline
     
     (2) Every person commits an offence who wilfully obstructs, hinders, resists, or deceives the Legal Complaints Review Officer, or any person to whom any of the functions and powers of the Legal Complaints Review Officer have been delegated under this Act, in the performance of any of the functions, or the exercise of any of the powers, conferred on the Legal Complaints Review Officer or any such delegate by this Act.
     
-    (3) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $25,000\.
+    (3) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $25,000\.
+    
+    Section 262(3): amended, on 1 July 2013, by [section 413][513] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 263 Publication
     
 *   (1) Every person commits an offence who, without lawful excuse, acts in contravention of any order made by the Disciplinary Tribunal under any of paragraphs (a) to (c) of [section 240(1)][283].
     
-    (2) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $25,000\.
+    (2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $25,000\.
     
-    Compare: 1982 No 123 [s 111(5)][643]
+    Compare: 1982 No 123 [s 111(5)][645]
+    
+    Section 263(2): amended, on 1 July 2013, by [section 413][513] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 264 Liability of principal for acts of agent, etc
     
@@ -6802,13 +6830,13 @@ Complaints and discipline
     
     (2) Where any body corporate is convicted of an offence against any provision of [sections 261 to 263][307], every director and every person concerned in the management of the company is guilty of a like offence if it is proved that the act that constituted the offence was committed with his or her authority, permission, or consent or that it was attributable to neglect on his or her part.
     
-    Compare: 1975 No 116 [s 17][669]
+    Compare: 1975 No 116 [s 17][671]
 
-##### 265 Time for laying information
+##### 265 Time for filing charging document
     
-*   Despite [section 14][670] of the Summary Proceedings Act 1957, an information in respect of an offence against any provision of [sections 261 to 263][307] may be laid at any time within 2 years after the time when the matter of the information arose.
+*   Despite anything to the contrary in [section 25][672] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against any provision of [sections 261 to 263][673] ends on the date that is 2 years after the date on which the offence was committed.
     
-    Compare: 1982 No 123 [s 191(2)][671]
+    Section 265: replaced, on 1 July 2013, by [section 413][513] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Jurisdiction of High Court and Court of Appeal
 
@@ -6816,9 +6844,9 @@ Complaints and discipline
     
 *   On application to the High Court in that behalf, the name of a person enrolled as a barrister and solicitor of the High Court under or by virtue of this Act may be struck off the roll for reasonable cause, whenever and wherever it arises, in accordance with [section 267][314].
     
-    Compare: 1982 No 123 [s 92][672]
+    Compare: 1982 No 123 [s 92][674]
     
-    Section 266: amended, on 20 November 2012, by [section 22][673] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 266: amended, on 20 November 2012, by [section 22][675] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 267 High Court may dismiss application, or reserve case for Court of Appeal
     
@@ -6840,11 +6868,11 @@ Complaints and discipline
     
     *   (b) may make such other order in respect of the application as it thinks fit.
     
-    Compare: 1982 No 123 [s 93][674]
+    Compare: 1982 No 123 [s 93][676]
     
-    Section 267(1): amended, on 20 November 2012, by [section 23(1)][675] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 267(1): amended, on 20 November 2012, by [section 23(1)][677] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
     
-    Section 267(2)(b): amended, on 20 November 2012, by [section 23(2)][675] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 267(2)(b): amended, on 20 November 2012, by [section 23(2)][677] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 268 Inherent jurisdiction of High Court
     
@@ -6852,11 +6880,11 @@ Complaints and discipline
     
     (2) Despite [section 245][288], the High Court has, in the exercise of its summary jurisdiction, full power, on reasonable cause being shown, to suspend from practice a person enrolled under or by virtue of this Act as a barrister and solicitor of the High Court (whether or not the person is practising as a barrister and solicitor, or as a barrister but not also as a solicitor).
     
-    Compare: 1982 No 123 [s 94(1)][676]
+    Compare: 1982 No 123 [s 94(1)][678]
     
-    Section 268(1): amended, on 20 November 2012, by [section 24(1)][677] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 268(1): amended, on 20 November 2012, by [section 24(1)][679] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
     
-    Section 268(2): amended, on 20 November 2012, by [section 24(2)][677] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 268(2): amended, on 20 November 2012, by [section 24(2)][679] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 269 Notice of order for striking off or suspension to be published in _Gazette_
     
@@ -6868,13 +6896,13 @@ Complaints and discipline
     
     (2) The Registrar of the court in which the order is made must forthwith cause a notice stating the date and effect of the order to be published in the _Gazette_.
     
-    Section 269: replaced, on 20 November 2012, by [section 25][678] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 269: replaced, on 20 November 2012, by [section 25][680] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 270 Jurisdiction of High Court not limited
     
 *   Except as provided in this Part, nothing in this Part limits the jurisdiction of the High Court.
     
-    Compare: 1982 No 123 [s 138][679]
+    Compare: 1982 No 123 [s 138][681]
 
 #### General provisions
 
@@ -6894,14 +6922,14 @@ Complaints and discipline
     
     unless it is proved to the satisfaction of the court before which any proceedings are taken that the defendant in those proceedings acted in bad faith.
     
-    Compare: 1982 No 123 [s 137][680]
+    Compare: 1982 No 123 [s 137][682]
 
 ## Part 8  
 New Zealand Council of Legal Education
 
 ##### 273 Continuation and renaming of Council
     
-*   (1) This section continues in being the council continued in being by [section 31(1)][681] of the Law Practitioners Act 1982 and existing, immediately before the commencement of this section, under the name of the Council of Legal Education.
+*   (1) This section continues in being the council continued in being by [section 31(1)][683] of the Law Practitioners Act 1982 and existing, immediately before the commencement of this section, under the name of the Council of Legal Education.
     
     (2) On the commencement of this section, the council continued in being by subsection (1) is renamed the New Zealand Council of Legal Education.
     
@@ -6921,9 +6949,9 @@ New Zealand Council of Legal Education
     
     (4) The Council may not exercise any of its rights, powers, or privileges, except for the purpose of performing its functions.
     
-    (5) [Sections 153 to 156][682] of the Crown Entities Act 2004 apply to the Council as if it were a Crown entity within the meaning of that Act.
+    (5) [Sections 153 to 156][684] of the Crown Entities Act 2004 apply to the Council as if it were a Crown entity within the meaning of that Act.
     
-    Compare: 1982 No 123 [ss 31(1)][681], [31A][683]
+    Compare: 1982 No 123 [ss 31(1)][683], [31A][685]
 
 ##### 274 Functions
     
@@ -6943,7 +6971,7 @@ New Zealand Council of Legal Education
             
         *   (i) the recognition of foreign qualifications, registration, and experience; and
         
-        *   (ii) the recognition of qualifications for the purposes of the principle set out in [section 15][570] of the Trans-Tasman Mutual Recognition Act 1997:
+        *   (ii) the recognition of qualifications for the purposes of the principle set out in [section 15][572] of the Trans-Tasman Mutual Recognition Act 1997:
         
         
     
@@ -6951,7 +6979,7 @@ New Zealand Council of Legal Education
     
     *   (h) to inquire into, consider, and report to the Minister on any matter relating to legal education as the Minister may, from time to time, require.
     
-    Compare: 1982 No 123 [s 38(1)(a)--(c), (e), (f)][571]
+    Compare: 1982 No 123 [s 38(1)(a)--(c), (e), (f)][573]
 
 ##### 275 Powers
     
@@ -6979,7 +7007,7 @@ New Zealand Council of Legal Education
     
     *   (b) set and conduct, or arrange for the setting and conducting of, any examination required for the purposes of paragraph (a).
     
-    Compare: 1982 No 123 [s 38(1)(c), (d), (2), (3)][571]
+    Compare: 1982 No 123 [s 38(1)(c), (d), (2), (3)][573]
 
 ##### 276 Consultation with New Zealand Law Society
     
@@ -7039,7 +7067,7 @@ New Zealand Council of Legal Education
     
     (6) Regulations made under subsection (1) must be made with the approval of the Minister.
     
-    Compare: 1982 No 123 [s 39][684]
+    Compare: 1982 No 123 [s 39][686]
 
 ##### 279 Power of Council to make rules
     
@@ -7083,13 +7111,13 @@ New Zealand Council of Legal Education
     
     (9) Until any such delegation is revoked, it continues in force according to its tenor.
     
-    Compare: 1982 No 123 [s 40][685]
+    Compare: 1982 No 123 [s 40][687]
 
 ##### 281 Institute of Professional Legal Studies
     
 *   (1) Subject to subsection (2), the Council---
         
-    *   (a) must continue to maintain, as a committee of the Council, the committee known as the Institute of Professional Legal Studies (which committee is, at the commencement of this section, established under that name under [section 40][685] of the Law Practitioners Act 1982); and
+    *   (a) must continue to maintain, as a committee of the Council, the committee known as the Institute of Professional Legal Studies (which committee is, at the commencement of this section, established under that name under [section 40][687] of the Law Practitioners Act 1982); and
     
     *   (b) must ensure that the Institute of Professional Legal Studies continues to provide practical legal training for candidates for admission as barristers and solicitors of the High Court.
     
@@ -7137,9 +7165,9 @@ New Zealand Council of Legal Education
     
     (2) All members of the Council other than those referred to in subsection (1)(d) are appointed by the Governor-General, on the advice of the Attorney-General.
     
-    Compare: 1982 No 123 [s 31(2), (3)][681]
+    Compare: 1982 No 123 [s 31(2), (3)][683]
     
-    Section 282(1)(d): amended, on 20 November 2012, by [section 26][686] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 282(1)(d): amended, on 20 November 2012, by [section 26][688] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 283 Term of office
     
@@ -7155,13 +7183,13 @@ New Zealand Council of Legal Education
     
     *   (c) that member is informed in writing by the Attorney-General that the member is not to be reappointed and is not to hold office until a successor is appointed.
     
-    Compare: 1982 No 123 [s 32(1), (3)][687]
+    Compare: 1982 No 123 [s 32(1), (3)][689]
 
 ##### 284 Extraordinary vacancies
     
 *   (1) An appointed member of the Council may, at any time, be removed from office by the Governor-General for inability to perform the functions of the office, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
     
-    (2) An appointed member is deemed to have vacated his or her office if he or she is, under the [Insolvency Act 2006][688], adjudged bankrupt.
+    (2) An appointed member is deemed to have vacated his or her office if he or she is, under the [Insolvency Act 2006][690], adjudged bankrupt.
     
     (3) Despite subsection (1), if at any time an appointed member holds judicial office, he or she may not be removed from the office of appointed member, except for inability to perform the functions of the office, unless he or she is removed or suspended from his or her judicial office.
     
@@ -7171,15 +7199,15 @@ New Zealand Council of Legal Education
     
     (6) Every person appointed to fill an extraordinary vacancy in the office of an appointed member must be appointed for the residue of the term for which the vacating member was appointed.
     
-    Compare: 1982 No 123 [s 33][689]
+    Compare: 1982 No 123 [s 33][691]
     
-    Section 284(2): amended, on 3 December 2007, by [section 445][690] of the Insolvency Act 2006 (2006 No 55).
+    Section 284(2): amended, on 3 December 2007, by [section 445][692] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 285 Proceedings not affected by vacancies
     
 *   No act or proceeding of the Council, or of any committee of the Council, or of any person acting as a member of the Council or any such committee, is invalidated merely because of a vacancy in the number of the Council or committee at the time of the act or proceeding, or of the subsequent discovery that there was some defect in the appointment of any person so acting, or that he or she was incapable of being or had ceased to be such a member.
     
-    Compare: 1982 No 123 [s 34][691]
+    Compare: 1982 No 123 [s 34][693]
 
 ##### 286 Chairperson
     
@@ -7193,7 +7221,7 @@ New Zealand Council of Legal Education
     
     (5) If the chairperson is not an appointed member, he or she holds that office for such period as the Council determines or until he or she sooner ceases to be a member or resigns the office of chairperson or is removed from that office by resolution of the Council.
     
-    Compare: 1982 No 123 [s 35][692]
+    Compare: 1982 No 123 [s 35][694]
 
 ##### 287 Further provisions applying to Council
     
@@ -7203,24 +7231,24 @@ New Zealand Council of Legal Education
     
 *   (1) The Council must, in each year, give the Minister a report on the operation of this Part.
     
-    (2) The Council must include in every annual report the financial statements prepared by the Council, in accordance with [Part 4][693] of the Crown Entities Act 2004, in respect of the financial year to which the report relates, together with the audit report and the statement of responsibility relating to those financial statements.
+    (2) The Council must include in every annual report the financial statements prepared by the Council, in accordance with [Part 4][695] of the Crown Entities Act 2004, in respect of the financial year to which the report relates, together with the audit report and the statement of responsibility relating to those financial statements.
     
-    (3) The Minister must present a copy of the report to the House of Representatives in accordance with [section 150(3)][694] of the Crown Entities Act 2004\.
+    (3) The Minister must present a copy of the report to the House of Representatives in accordance with [section 150(3)][696] of the Crown Entities Act 2004\.
     
-    Compare: 1982 No 123 [s 42K][695]
+    Compare: 1982 No 123 [s 42K][697]
 
 ## Part 9  
 Lawyers and Conveyancers Special Fund
 
 ##### 289 Lawyers and Conveyancers Special Fund
     
-*   (1) The New Zealand Law Society Special Fund, which was established by [section 91B][696] of the Law Practitioners Act 1982, continues in existence but is, as from the commencement of this Act, to be known as the Lawyers and Conveyancers Special Fund.
+*   (1) The New Zealand Law Society Special Fund, which was established by [section 91B][698] of the Law Practitioners Act 1982, continues in existence but is, as from the commencement of this Act, to be known as the Lawyers and Conveyancers Special Fund.
     
     (2) Subject to subsection (3), the Special Fund is, by this Act, vested in the New Zealand Law Society and the New Zealand Society of Conveyancers jointly and is to be held by those societies in trust for the purposes specified in this Part.
     
     (3) Until the whole of [Part 5][92] comes into force, the Special Fund remains the property of the New Zealand Law Society and is to be held in trust for the purposes specified in this Part.
     
-    Compare: 1982 No 123 [s 91B][696]
+    Compare: 1982 No 123 [s 91B][698]
 
 ##### 290 Money payable into Fund
     
@@ -7230,13 +7258,13 @@ Lawyers and Conveyancers Special Fund
     
     *   (b) any interest earned on any money from time to time in the Special Fund pending its application in accordance with this Part.
     
-    Compare: 1982 No 123 [s 91D][697]
+    Compare: 1982 No 123 [s 91D][699]
 
 ##### 291 Separate bank account
     
 *   All money belonging to the Special Fund must, pending its application or investment in accordance with this Part, be paid into a bank to the credit of a separate account to be called the Lawyers and Conveyancers Special Fund Account.
     
-    Compare: 1982 No 123 [s 91C][698]
+    Compare: 1982 No 123 [s 91C][700]
 
 ##### 292 Management Committee
     
@@ -7244,7 +7272,7 @@ Lawyers and Conveyancers Special Fund
     
     (2) The Management Committee has the function of managing the Special Fund on behalf of the New Zealand Law Society and the New Zealand Society of Conveyancers.
     
-    Compare: 1982 No 123 [s 91H][699]
+    Compare: 1982 No 123 [s 91H][701]
 
 ##### 293 Membership of Management Committee
     
@@ -7260,7 +7288,7 @@ Lawyers and Conveyancers Special Fund
     
     (4) Each member of the Management Committee holds office at the pleasure of the society by which the member was appointed.
     
-    Compare: 1982 No 123 [s 91I(1)][700]
+    Compare: 1982 No 123 [s 91I(1)][702]
 
 ##### 294 Meetings of Management Committee
     
@@ -7286,13 +7314,13 @@ Lawyers and Conveyancers Special Fund
     
 *   Any money belonging to the Special Fund may, pending its application in accordance with this Part, be kept in an interest-bearing account at a bank, but may not otherwise be invested.
     
-    Compare: 1982 No 123 [s 91E][701]
+    Compare: 1982 No 123 [s 91E][703]
 
 ##### 297 Audit of accounts
     
 *   The accounts of the Special Fund must be audited annually by a chartered accountant appointed for the purpose by the Management Committee.
     
-    Compare: 1982 No 123 [s 91G(1)][702]
+    Compare: 1982 No 123 [s 91G(1)][704]
 
 ##### 298 Distribution of Special Fund
     
@@ -7306,7 +7334,7 @@ Lawyers and Conveyancers Special Fund
     
     *   (b) paying any reasonable travelling expenses incurred by members of the Management Committee in connection with the management of the Special Fund.
     
-    Compare: 1982 No 123 [s 91F(2), (3)][703]
+    Compare: 1982 No 123 [s 91F(2), (3)][705]
     
     Section 298(1): amended, on 1 July 2011, by [section 144][494] of the Legal Services Act 2011 (2011 No 4).
 
@@ -7320,7 +7348,7 @@ Lawyers and Conveyancers Special Fund
     
     (4) All the provisions of this Act, and all rules and regulations for the time being in force, relating to trust accounts and their audit apply to nominated trust accounts.
     
-    Compare: 1982 No 123 [s 91J][704]
+    Compare: 1982 No 123 [s 91J][706]
 
 ##### 300 Money required to be held in nominated trust account
     
@@ -7334,7 +7362,7 @@ Lawyers and Conveyancers Special Fund
     
     (2) Subsection (1) does not limit the circumstances in which money that is not money to which that subsection applies may be held in a nominated trust account.
     
-    Compare: 1982 No 123 [s 91K][705]
+    Compare: 1982 No 123 [s 91K][707]
 
 ##### 301 Interest to be payable on nominated trust account
     
@@ -7352,7 +7380,7 @@ Lawyers and Conveyancers Special Fund
     
     (5) In lieu of all banking charges and fees that would otherwise be payable to it in respect of any nominated trust account, a bank is entitled to retain for its own use 40% of all interest payable by it on a nominated trust account.
     
-    Compare: 1982 No 123 [s 91L][706]
+    Compare: 1982 No 123 [s 91L][708]
 
 ##### 302 Banks to pay interest on nominated trust accounts to Special Fund
     
@@ -7372,13 +7400,13 @@ Lawyers and Conveyancers Special Fund
         
         
     
-    Compare: 1982 No 123 [s 91M][707]
+    Compare: 1982 No 123 [s 91M][709]
 
 ##### 303 Practitioners, incorporated firms, and banks not liable to account to client for interest payable on nominated trust account
     
 *   No practitioner who, or incorporated firm that, deposits in a nominated trust account of that practitioner or incorporated firm any money received for, or on behalf of, any person, and no bank that holds any such money in any nominated trust account kept at that bank, is liable to account to any person other than the New Zealand Law Society or the New Zealand Society of Conveyancers or the Management Committee for any interest payable in respect of that money while it is held in any such account.
     
-    Compare: 1982 No 123 [s 91N][708]
+    Compare: 1982 No 123 [s 91N][710]
 
 ## Part 10  
 Fidelity Funds
@@ -7449,7 +7477,7 @@ Fidelity Funds
     
     _claim event_ has the meaning given to it by [section 306][357]
     
-    _de facto partner_ has the meaning given to it by [section 2C][709] of the Property (Relationships) Act 1976; and includes a former de facto partner
+    _de facto partner_ has the meaning given to it by [section 2C][711] of the Property (Relationships) Act 1976; and includes a former de facto partner
     
     _pecuniary loss_, in relation to a claim event, does not include consequential loss resulting from the claim event
     
@@ -7459,9 +7487,9 @@ Fidelity Funds
     
     *   (b) the New Zealand Society of Conveyancers
     
-    _theft_ means any crime described in [sections 217][710], [218][711], [219][712], [220][713], and [222][714] of the Crimes Act 1961\.
+    _theft_ means any crime described in [sections 217][712], [218][713], [219][714], [220][715], and [222][716] of the Crimes Act 1961\.
     
-    Compare: 1982 No 123 [s 171(2)][715]
+    Compare: 1982 No 123 [s 171(2)][717]
 
 ##### 306 Claim event
     
@@ -7473,7 +7501,7 @@ Fidelity Funds
     
     (2) For the purposes of [section 304(b)][355], a claim event occurs where a person suffers pecuniary loss by reason of the theft, by a person of the kind described in section 304(b)(i) or (ii), of any money or other valuable property entrusted to that person in the course of the provision, or the purported provision, by that person of regulated services to the public.
     
-    Compare: 1982 No 123 [s 169(1)][716]
+    Compare: 1982 No 123 [s 169(1)][718]
 
 ##### 307 Lawyers to whom, and incorporated law firms to which, this Part applies
     
@@ -7515,15 +7543,15 @@ Fidelity Funds
         
     *   (a) in the course of his or her employment by a community law centre, provides to the public---
             
-        *   (i) community legal services within the meaning of [section 4(1)][717] of the Legal Services Act 2011; or
+        *   (i) community legal services within the meaning of [section 4(1)][719] of the Legal Services Act 2011; or
         
-        *   (ii) legal services within the meaning of [section 4(1)][717] of the Legal Services Act 2011; or
+        *   (ii) legal services within the meaning of [section 4(1)][719] of the Legal Services Act 2011; or
         
         
     
     *   (b) acts as an employee of the Ministry of Justice; or
     
-    *   (c) provides to the public legal services within the meaning of the [Legal Services Act 2011][594]; or
+    *   (c) provides to the public legal services within the meaning of the [Legal Services Act 2011][596]; or
     
     *   (d) provides to the public, in his or her capacity as an employee of Public Trust or of the Maori Trustee or of a trustee company, regulated services that his or her employer is entitled to provide to the public; or
     
@@ -7531,7 +7559,7 @@ Fidelity Funds
     
     *   (f) provides, in his or her capacity as an employee of a union, regulated services to that union or to a member of that union.
     
-    Compare: 1982 No 123 [s 157][718]
+    Compare: 1982 No 123 [s 157][720]
     
     Section 307(4)(a): substituted, on 1 July 2011, by [section 144][494] of the Legal Services Act 2011 (2011 No 4).
     
@@ -7539,11 +7567,11 @@ Fidelity Funds
     
     Section 307(4)(c): substituted, on 1 July 2011, by [section 144][494] of the Legal Services Act 2011 (2011 No 4).
     
-    Section 307(4)(d): amended (with effect from 1 August 2008), on 4 August 2008, by [section 9][719] of the Lawyers and Conveyancers Amendment Act 2008 (2008 No 54).
+    Section 307(4)(d): amended (with effect from 1 August 2008), on 4 August 2008, by [section 9][721] of the Lawyers and Conveyancers Amendment Act 2008 (2008 No 54).
     
-    Section 307(4)(e): added (with effect from 1 August 2008), on 4 August 2008, by [section 9][719] of the Lawyers and Conveyancers Amendment Act 2008 (2008 No 54).
+    Section 307(4)(e): added (with effect from 1 August 2008), on 4 August 2008, by [section 9][721] of the Lawyers and Conveyancers Amendment Act 2008 (2008 No 54).
     
-    Section 307(4)(f): added (with effect from 1 August 2008), on 4 August 2008, by [section 9][719] of the Lawyers and Conveyancers Amendment Act 2008 (2008 No 54).
+    Section 307(4)(f): added (with effect from 1 August 2008), on 4 August 2008, by [section 9][721] of the Lawyers and Conveyancers Amendment Act 2008 (2008 No 54).
 
 ##### 308 Conveyancing practitioners to whom, and incorporated conveyancing firms to which, this Part applies
     
@@ -7591,7 +7619,7 @@ Fidelity Funds
     
     (3) The Lawyers' Fidelity Fund is to be the property of the New Zealand Law Society and is to be held in trust for the purposes specified in this Part.
     
-    Compare: 1982 No 123 [ss 158(2)][720], [162(1)][721]
+    Compare: 1982 No 123 [ss 158(2)][722], [162(1)][723]
 
 ##### 310 Conveyancing Practitioners' Fidelity Fund
     
@@ -7601,7 +7629,7 @@ Fidelity Funds
     
     (3) The Conveyancing Practitioners' Fidelity Fund is to be the property of the New Zealand Society of Conveyancers and is to be held in trust for the purposes specified in this Part.
     
-    Compare: 1982 No 123 [ss 158(2)][720], [162(1)][721]
+    Compare: 1982 No 123 [ss 158(2)][722], [162(1)][723]
 
 ##### 311 Rules
     
@@ -7721,7 +7749,7 @@ Fidelity Funds
     
     (5) Nothing in this section limits [sections 311(1)(n)][362] and [316][367].
     
-    Compare: 1982 No 123 [s 167(1), (2)][722]
+    Compare: 1982 No 123 [s 167(1), (2)][724]
 
 ##### 315 Power of New Zealand Society of Conveyancers to impose extraordinary levy
     
@@ -7793,7 +7821,9 @@ Fidelity Funds
 
 ##### 319 Offence
     
-*   A practitioner commits an offence and is liable on summary conviction to a fine not exceeding $25,000 who, at a time when both an election made by that practitioner under [section 317(1)][368] and the practising certificate to which that election relates are in force, receives, in the course of providing regulated services to the public, any money or other valuable property in trust for another person.
+*   A practitioner commits an offence and is liable on conviction to a fine not exceeding $25,000 who, at a time when both an election made by that practitioner under [section 317(1)][368] and the practising certificate to which that election relates are in force, receives, in the course of providing regulated services to the public, any money or other valuable property in trust for another person.
+    
+    Section 319: amended, on 1 July 2013, by [section 413][513] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 320 Application of Lawyers' Fidelity Fund
     
@@ -7809,7 +7839,7 @@ Fidelity Funds
     
     (4) This section is subject to any rules made under paragraphs (j) to (l) of [section 311(1)][362].
     
-    Compare: 1982 No 123 [ss 169(1)][716], [171(2), (3)][715]
+    Compare: 1982 No 123 [ss 169(1)][718], [171(2), (3)][717]
 
 ##### 321 Application of Conveyancing Practitioners' Fidelity Fund
     
@@ -7825,7 +7855,7 @@ Fidelity Funds
     
     (4) This section is subject to any rules made under paragraphs (j) to (l) of [section 311(1)][362].
     
-    Compare: 1982 No 123 [ss 169(1)][716], [171(2), (3)][715]
+    Compare: 1982 No 123 [ss 169(1)][718], [171(2), (3)][717]
 
 ##### 322 No compensation in respect of money instructed to be invested
     
@@ -7857,7 +7887,7 @@ Fidelity Funds
     
     (4) If the practitioner is a lawyer, nothing in this section applies to money that the lawyer is authorised to invest in any case where the only authority for investing the money is given or is capable of being given by the lawyer pursuant to a power under---
         
-    *   (a) the [Protection of Personal and Property Rights Act 1988][723]:
+    *   (a) the [Protection of Personal and Property Rights Act 1988][725]:
     
     *   (b) a trust arising out of a deceased estate:
     
@@ -7901,7 +7931,7 @@ Fidelity Funds
         
     *   (a) a deed or agreement in writing---
             
-        *   (i) for the sale and purchase of, or relating to, any interest in land or buildings, including a company lease within the meaning of [section 2][724] of the Resource Management Act 1991:
+        *   (i) for the sale and purchase of, or relating to, any interest in land or buildings, including a company lease within the meaning of [section 2][726] of the Resource Management Act 1991:
         
         *   (ii) for the granting, in relation to any land or buildings, of a lease, tenancy, or licence to occupy, or for the sale and purchase or transfer or assignment of any such lease, tenancy, or licence:
         
@@ -7913,13 +7943,13 @@ Fidelity Funds
     
     *   (b) any other assignment or settlement by deed.
     
-    Compare: 1982 No 123 [s 169A][725]
+    Compare: 1982 No 123 [s 169A][727]
 
 ##### 323 Advances from fidelity fund for purposes of this Part
     
 *   Without limiting the generality of [sections 311(1)(e)][362] and [320 to 322][371], a regulatory society may, from time to time, in its discretion, for the purpose of meeting any deficit in a practitioner's trust account, or reimbursing any client of the practitioner, or protecting the fund, or otherwise for the purpose of giving full effect to the intent of this Part, make advances from the fidelity fund held by it under this Part to any person or persons, on and subject to such terms and conditions, whether as to the method of repayment or the payment of interest or the giving of any securities, as it thinks fit.
     
-    Compare: 1982 No 123 [s 170][726]
+    Compare: 1982 No 123 [s 170][728]
 
 ##### 324 Claims against fidelity fund
     
@@ -7929,13 +7959,13 @@ Fidelity Funds
     
     (3) No person may bring a claim against a fidelity fund held under this Part by a regulatory society unless notice of the claim is given in writing to the regulatory society or the fund's management committee within 12 months after the claimant has become aware of the claim event, or within such further time as the regulatory society or committee may in its discretion allow.
     
-    Compare: 1982 No 123 [ss 169(2)][716], [171(1)][715]
+    Compare: 1982 No 123 [ss 169(2)][718], [171(1)][717]
 
 ##### 325 Defences to claims against fund
     
 *   In any action brought against the New Zealand Law Society in relation to the Lawyers' Fidelity Fund or against the New Zealand Society of Conveyancers in relation to the Conveyancing Practitioners' Fidelity Fund, all defences that would have been available to the defaulting practitioner or agent are available to the society that holds the fund.
     
-    Compare: 1982 No 123 [s 172][727]
+    Compare: 1982 No 123 [s 172][729]
 
 ##### 326 Rights of subrogation
     
@@ -7947,7 +7977,7 @@ Fidelity Funds
     
     *   (b) if successful in any proceedings commenced pursuant to paragraph (a), be entitled to recover from the defaulting practitioner or any other person against whom the proceedings are successfully taken the costs incurred by the society in taking those proceedings.
     
-    Compare: 1982 No 123 [s 173][728]
+    Compare: 1982 No 123 [s 173][730]
 
 ##### 327 Money recovered by claimants to be held in trust if rights of subrogation apply
     
@@ -7977,7 +8007,7 @@ Fidelity Funds
     
     *   (b) in relation to a regulatory society that is the New Zealand Society of Conveyancers, the Conveyancing Practitioners' Fidelity Fund.
     
-    Compare: 1982 No 123 [s 174(1), (2), (3), (4)][729]
+    Compare: 1982 No 123 [s 174(1), (2), (3), (4)][731]
 
 ##### 329 Power to rule off fund
     
@@ -8041,7 +8071,7 @@ Fidelity Funds
     
     (4) If any contract of insurance is entered into by a regulatory society in respect of any specified practitioner or incorporated firm, the regulatory society must, on the application of any other practitioner or practitioners or incorporated firm or incorporated firms, enter into a like contract of insurance in respect of the last-mentioned practitioners or incorporated firms if the insurer signifies his or her or its willingness to enter into such a contract on like terms and conditions.
     
-    Compare: 1982 No 123 [s 175][730]
+    Compare: 1982 No 123 [s 175][732]
 
 ##### 332 Application of insurance money
     
@@ -8049,7 +8079,7 @@ Fidelity Funds
     
     (2) All money so paid by the insurer must be paid into the fund and must be applied in or towards the settlement of relevant claims.
     
-    Compare: 1982 No 123 [s 176][731]
+    Compare: 1982 No 123 [s 176][733]
 
 ## Part 11  
 Miscellaneous provisions
@@ -8106,17 +8136,17 @@ Miscellaneous provisions
         
     *   (a) criminal proceedings; or
     
-    *   (b) proceedings under the [Immigration Act 2009][732]; or
+    *   (b) proceedings under the [Immigration Act 2009][734]; or
     
-    *   (c) review proceedings in respect of a statutory power of decision arising out of or under the [Immigration Act 2009][732]; or
+    *   (c) review proceedings in respect of a statutory power of decision arising out of or under the [Immigration Act 2009][734]; or
     
     *   (d) proceedings in respect of which a Family Court has jurisdiction; or
     
     *   (e) appeals from, or applications for judicial review made in relation to, decisions made in any of the proceedings described in paragraphs (a) to (d).
     
-    Section 335(b): amended, at 2 am on 29 November 2010, by [section 406(1)][733] of the Immigration Act 2009 (2009 No 51).
+    Section 335(b): amended, at 2 am on 29 November 2010, by [section 406(1)][735] of the Immigration Act 2009 (2009 No 51).
     
-    Section 335(c): amended, at 2 am on 29 November 2010, by [section 406(1)][733] of the Immigration Act 2009 (2009 No 51).
+    Section 335(c): amended, at 2 am on 29 November 2010, by [section 406(1)][735] of the Immigration Act 2009 (2009 No 51).
 
 ##### 336 Practice rules in relation to conditional fee agreements
     
@@ -8148,13 +8178,15 @@ Miscellaneous provisions
     
     (2) Where any money to which this section applies is held on behalf of a person who cannot be found and has no known agent with the authority to receive the money, the person by whom the money is held may, if that person thinks fit, pay the money to the Commissioner of Inland Revenue and send to the Commissioner particulars of the payment and of the person on whose behalf the money was held; and the person by whom the money was held is thereupon relieved from all further liability in respect of the money so paid.
     
-    (3) All money paid to the Commissioner of Inland Revenue under this section is to be deemed to have been so paid as unclaimed money, and [section 11][734] of the Unclaimed Money Act 1971 is to apply to it.
+    (3) All money paid to the Commissioner of Inland Revenue under this section is to be deemed to have been so paid as unclaimed money, and [section 11][736] of the Unclaimed Money Act 1971 is to apply to it.
     
     (4) Where a person has paid any money to the Commissioner of Inland Revenue under this section, the Commissioner may at any time require that person or any other person to give to the Commissioner all such information as the Commissioner may require in relation to the ownership of the money, including information as to the steps taken to trace the person on whose behalf the money was held.
     
-    (5) Every person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $25,000 who refuses or wilfully neglects to give any such information that is in that person's possession or control when so required, or wilfully gives any false information in answer to any such requisition.
+    (5) Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $25,000 who refuses or wilfully neglects to give any such information that is in that person's possession or control when so required, or wilfully gives any false information in answer to any such requisition.
     
-    Compare: 1982 No 123 [s 90][735]
+    Compare: 1982 No 123 [s 90][737]
+    
+    Section 337(5): amended, on 1 July 2013, by [section 413][513] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Protection of Councils of New Zealand Law Society and New Zealand Society of Conveyancers and other persons
 
@@ -8164,7 +8196,7 @@ Miscellaneous provisions
     
     (2) Nothing in this section limits [section 272][320].
     
-    Compare: 1982 No 123 [s 189][736]
+    Compare: 1982 No 123 [s 189][738]
 
 #### Regulations
 
@@ -8192,39 +8224,39 @@ Miscellaneous provisions
 
 ##### 340 Meaning of real estate agent
     
-*   _Amendment(s) incorporated in the [Act(s)][737]_.
+*   _Amendment(s) incorporated in the [Act(s)][739]_.
 
 ##### 341 Repeal
     
-*   _Amendment(s) incorporated in the [Act(s)][738]_.
+*   _Amendment(s) incorporated in the [Act(s)][740]_.
 
 #### Amendments to Land Transfer Act 1952
 
 ##### 342 Interpretation
     
-*   _Amendment(s) incorporated in the [Act(s)][739]_.
+*   _Amendment(s) incorporated in the [Act(s)][741]_.
 
 ##### 343 Correctness of instrument to be certified
     
-*   _Amendment(s) incorporated in the [Act(s)][740]_.
+*   _Amendment(s) incorporated in the [Act(s)][742]_.
 
 ##### 344 Who may give certification
     
-*   _Amendment(s) incorporated in the [Act(s)][741]_.
+*   _Amendment(s) incorporated in the [Act(s)][743]_.
 
 ##### 345 Recovery of compensation paid and costs in case of fraud
     
-*   _Amendment(s) incorporated in the [Act(s)][742]_.
+*   _Amendment(s) incorporated in the [Act(s)][744]_.
 
 #### Amendments to Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002
 
 ##### 346 Interpretation
     
-*   _Amendment(s) incorporated in the [Act(s)][743]_.
+*   _Amendment(s) incorporated in the [Act(s)][745]_.
 
 ##### 347 Power to make electronic lodgement compulsory
     
-*   _Amendment(s) incorporated in the [Act(s)][744]_.
+*   _Amendment(s) incorporated in the [Act(s)][746]_.
 
 #### Amendments to other enactments
 
@@ -8244,11 +8276,11 @@ Miscellaneous provisions
     
 *   After the commencement of this section,---
         
-    *   (a) no complaint may be made under [section 98(1)][584] of the Law Practitioners Act 1982; and
+    *   (a) no complaint may be made under [section 98(1)][586] of the Law Practitioners Act 1982; and
     
-    *   (b) no complaint (other than a complaint received before the commencement of this section) may be referred, under [section 98(2)][584] of the Law Practitioners Act 1982, to a District Law Society; and
+    *   (b) no complaint (other than a complaint received before the commencement of this section) may be referred, under [section 98(2)][586] of the Law Practitioners Act 1982, to a District Law Society; and
     
-    *   (c) no investigation into any matter may be commenced under [section 99][745] of the Law Practitioners Act 1982\.
+    *   (c) no investigation into any matter may be commenced under [section 99][747] of the Law Practitioners Act 1982\.
     
     
 
@@ -8300,35 +8332,35 @@ Miscellaneous provisions
         
     *   (a) all proceedings in relation to all investigations, inquiries, applications, appeals, and other proceedings of a disciplinary nature under the [Law Practitioners Act 1982][472] which have been commenced before the commencement of this section and which have not been determined or completed before the commencement of this section:
     
-    *   (b) all proceedings in relation to applications by practitioners for the restoration of their names to the roll which have been made before the commencement of this section under [section 116][655] of the Law Practitioners Act 1982 and which have not been determined before the commencement of this section:
+    *   (b) all proceedings in relation to applications by practitioners for the restoration of their names to the roll which have been made before the commencement of this section under [section 116][657] of the Law Practitioners Act 1982 and which have not been determined before the commencement of this section:
     
-    *   (c) all proceedings which relate to the revision of bills of costs and which have been commenced but not completed under [Part 8][746] of the Law Practitioners Act 1982 before the commencement of this section.
+    *   (c) all proceedings which relate to the revision of bills of costs and which have been commenced but not completed under [Part 8][748] of the Law Practitioners Act 1982 before the commencement of this section.
     
     (2) The proceedings to which this section applies are, subject to [sections 354 to 361][416] of this Act, to be continued and completed as if the [Law Practitioners Act 1982][472] had not been repealed.
 
 ##### 354 Continuation of Lay Observers
     
-*   (1) Despite the repeals effected by this Act, every person who, immediately before the commencement of this section, holds office under [section 96][747] of the Law Practitioners Act 1982 as a Lay Observer is, unless he or she sooner vacates office under [section 120(4)][748] of that Act, to continue to hold office until the close of the period of 6 months beginning with the date of the commencement of this section for the purpose of discharging his or her functions or exercising his or her powers in relation to any complaints made or proceedings commenced before the commencement of this section.
+*   (1) Despite the repeals effected by this Act, every person who, immediately before the commencement of this section, holds office under [section 96][749] of the Law Practitioners Act 1982 as a Lay Observer is, unless he or she sooner vacates office under [section 120(4)][750] of that Act, to continue to hold office until the close of the period of 6 months beginning with the date of the commencement of this section for the purpose of discharging his or her functions or exercising his or her powers in relation to any complaints made or proceedings commenced before the commencement of this section.
     
     (2) For the purposes of subsection (1), each Lay Observer to whom that subsection applies has all necessary powers and may exercise, despite the repeals effected by this Act, the powers conferred on a Lay Observer by the repealed enactments, which apply accordingly with all necessary modifications.
     
-    (3) [Sections 120 to 122][748] of the Law Practitioners Act 1982 continue, despite the repeal of that Act, to have effect, until the close of the period of 6 months beginning with the date of the commencement of this section, in relation to any person continued in office by subsection (1).
+    (3) [Sections 120 to 122][750] of the Law Practitioners Act 1982 continue, despite the repeal of that Act, to have effect, until the close of the period of 6 months beginning with the date of the commencement of this section, in relation to any person continued in office by subsection (1).
 
 ##### 355 Exercise by Legal Complaints Review Officer of role of Lay Observer
     
 *   (1) If any proceedings to which [section 353][415] applies have not been determined by the close of the period of 6 months beginning with the date of the commencement of this section or cannot be determined before the end of that period because a Lay Observer continued in office by [section 354][416] has, before the end of that period, vacated office, then, from the end of that period or from any earlier date on which the Lay Observer vacates office, the Legal Complaints Review Officer has, despite the repeals effected by this Act, the duties and powers that a Lay Observer would have, under the [Law Practitioners Act 1982][472], in relation to those proceedings if that Act had not been repealed.
     
-    (2) Despite subsection (1), [sections 97(5), 97(6), 97(9),][749] and [97A][750] of the Law Practitioners Act 1982 are to have effect, for the purposes of that subsection, as if, for the words ""District Law Society"" wherever they occur, there were substituted in each case the words ""complaints service established under section 121(1) of the Lawyers and Conveyancers Act 2006 by the New Zealand Law Society"".
+    (2) Despite subsection (1), [sections 97(5), 97(6), 97(9),][751] and [97A][752] of the Law Practitioners Act 1982 are to have effect, for the purposes of that subsection, as if, for the words ""District Law Society"" wherever they occur, there were substituted in each case the words ""complaints service established under section 121(1) of the Lawyers and Conveyancers Act 2006 by the New Zealand Law Society"".
 
 ##### 356 Exercise by Lawyers Standards Committee of role of complaints committee
     
-*   If any proceedings to which [section 353][415] applies have not been determined by the close of the period of 6 months beginning with the date of the commencement of this section, the New Zealand Law Society must, despite the repeals effected by this Act, appoint a Lawyers Standards Committee (not being a Lawyers Standards Committee that has under [section 357][419] the powers of a District Disciplinary Tribunal in relation to those proceedings) to carry out the duties and exercise the powers that a complaints committee appointed pursuant to [section 100][751] of the Law Practitioners Act 1982 would have had, under that Act, in relation to those proceedings if that Act had not been repealed and the relevant complaint or matter had been referred to it.
+*   If any proceedings to which [section 353][415] applies have not been determined by the close of the period of 6 months beginning with the date of the commencement of this section, the New Zealand Law Society must, despite the repeals effected by this Act, appoint a Lawyers Standards Committee (not being a Lawyers Standards Committee that has under [section 357][419] the powers of a District Disciplinary Tribunal in relation to those proceedings) to carry out the duties and exercise the powers that a complaints committee appointed pursuant to [section 100][753] of the Law Practitioners Act 1982 would have had, under that Act, in relation to those proceedings if that Act had not been repealed and the relevant complaint or matter had been referred to it.
 
 ##### 357 Exercise by Lawyers Standards Committee of role of District Disciplinary Tribunal
     
 *   (1) If any proceedings to which [section 353][415] applies have not been determined by the close of the period of 6 months beginning with the date of the commencement of this section, the New Zealand Law Society must, despite the repeals effected by this Act, appoint a Lawyers Standards Committee (not being a Lawyers Standards Committee that has, under [section 356][418], the powers of a complaints committee in relation to those proceedings) to carry out the duties and exercise the powers that a District Disciplinary Tribunal within the meaning of the [Law Practitioners Act 1982][472] would have had, under that Act, in relation to those proceedings if that Act had not been repealed.
     
-    (2) [Section 106(4)][596] of the Law Practitioners Act 1982 has effect, for the purposes of subsection (1) of this section, as if, for the words ""District Law Society"" in both places where they appear, there were substituted in each case the words ""New Zealand Law Society"".
+    (2) [Section 106(4)][598] of the Law Practitioners Act 1982 has effect, for the purposes of subsection (1) of this section, as if, for the words ""District Law Society"" in both places where they appear, there were substituted in each case the words ""New Zealand Law Society"".
 
 ##### 358 Exercise by New Zealand Lawyers and Conveyancers Disciplinary Tribunal of role of New Zealand Law Practitioners Disciplinary Tribunal
     
@@ -8338,29 +8370,29 @@ Miscellaneous provisions
 
 ##### 359 Appeal from decision of District Disciplinary Tribunal or Lawyers Standards Committee exercising powers of District Disciplinary Tribunal
     
-*   (1) Despite the repeals effected by this Act, an appeal to the New Zealand Lawyers and Conveyancers Disciplinary Tribunal may be brought under [section 107][752] of the Law Practitioners Act 1982 against any order or decision made under [Part 7][753] of the Law Practitioners Act 1982 by a District Disciplinary Tribunal or by the Lawyers Standards Committee appointed under [section 357][419] of this Act to carry out the duties and exercise the powers of a District Disciplinary Tribunal, not being a decision to refer a case to the New Zealand Law Practitioners Disciplinary Tribunal or the New Zealand Lawyers and Conveyancers Disciplinary Tribunal.
+*   (1) Despite the repeals effected by this Act, an appeal to the New Zealand Lawyers and Conveyancers Disciplinary Tribunal may be brought under [section 107][754] of the Law Practitioners Act 1982 against any order or decision made under [Part 7][755] of the Law Practitioners Act 1982 by a District Disciplinary Tribunal or by the Lawyers Standards Committee appointed under [section 357][419] of this Act to carry out the duties and exercise the powers of a District Disciplinary Tribunal, not being a decision to refer a case to the New Zealand Law Practitioners Disciplinary Tribunal or the New Zealand Lawyers and Conveyancers Disciplinary Tribunal.
     
-    (2) An appeal under [section 107][752] of the Law Practitioners Act 1982 (as applied and modified by [sections 356][418] and [357][419] of this Act and this section) may be brought only by---
+    (2) An appeal under [section 107][754] of the Law Practitioners Act 1982 (as applied and modified by [sections 356][418] and [357][419] of this Act and this section) may be brought only by---
         
     *   (a) the practitioner to whom the order or decision relates; or
     
     *   (b) the Standards Committee referred to in [section 361(2)][423] of this Act.
     
-    (3) [Section 107(3)][752] of the Law Practitioners Act 1982 has effect, for the purposes of subsection (1) of this section, as if, for the words ""New Zealand Disciplinary Tribunal"", there were substituted the words ""New Zealand Lawyers and Conveyancers Disciplinary Tribunal"".
+    (3) [Section 107(3)][754] of the Law Practitioners Act 1982 has effect, for the purposes of subsection (1) of this section, as if, for the words ""New Zealand Disciplinary Tribunal"", there were substituted the words ""New Zealand Lawyers and Conveyancers Disciplinary Tribunal"".
     
-    (4) The [Law Practitioners Act 1982][472] is (subject to the modifications made to it by this Act) to have effect in relation to any appeal under [section 107][752] of the Law Practitioners Act 1982 as if that Act had not been repealed.
+    (4) The [Law Practitioners Act 1982][472] is (subject to the modifications made to it by this Act) to have effect in relation to any appeal under [section 107][754] of the Law Practitioners Act 1982 as if that Act had not been repealed.
 
 ##### 360 Appeal from decision of New Zealand Law Practitioners Disciplinary Tribunal or New Zealand Lawyers and Conveyancers Disciplinary Tribunal
     
-*   (1) Despite the repeals effected by this Act, an appeal to the High Court may be brought under [section 118][656] of the Law Practitioners Act 1982 against any order or decision made under [Part 7][753] of the Law Practitioners Act 1982 or under [section 58][754] of that Act by the New Zealand Law Practitioners Disciplinary Tribunal or by the New Zealand Lawyers and Conveyancers Disciplinary Tribunal.
+*   (1) Despite the repeals effected by this Act, an appeal to the High Court may be brought under [section 118][658] of the Law Practitioners Act 1982 against any order or decision made under [Part 7][755] of the Law Practitioners Act 1982 or under [section 58][756] of that Act by the New Zealand Law Practitioners Disciplinary Tribunal or by the New Zealand Lawyers and Conveyancers Disciplinary Tribunal.
     
-    (2) An appeal under [section 118][656] of the Law Practitioners Act 1982 (as applied and modified by [section 358][420] of this Act and this section) may be brought only by---
+    (2) An appeal under [section 118][658] of the Law Practitioners Act 1982 (as applied and modified by [section 358][420] of this Act and this section) may be brought only by---
         
     *   (a) the practitioner or person to whom the order or decision relates:
     
     *   (b) the Standards Committee referred to in [section 361(2)][423] of this Act, where the proceedings before the New Zealand Law Practitioners Disciplinary Tribunal or the New Zealand Lawyers and Conveyancers Disciplinary Tribunal were---
             
-        *   (i) brought by a District Council (within the meaning of the [Law Practitioners Act 1982][472]) or a committee appointed under [section 100][751] of that Act; or
+        *   (i) brought by a District Council (within the meaning of the [Law Practitioners Act 1982][472]) or a committee appointed under [section 100][753] of that Act; or
         
         *   (ii) commenced by the referral of a charge to the New Zealand Law Practitioners Disciplinary Tribunal or the New Zealand Lawyers and Conveyancers Disciplinary Tribunal by a District Disciplinary Tribunal within the meaning of the [Law Practitioners Act 1982][472] or a Lawyers Standards Committee appointed under [section 357][419] of this Act to carry out the duties and exercise the powers of such a District Disciplinary Tribunal; or
         
@@ -8368,53 +8400,53 @@ Miscellaneous provisions
         
         
     
-    *   (c) the Standards Committee referred to in [section 361(2)][423] of this Act, where the proceedings before the New Zealand Law Practitioners Disciplinary Tribunal or the New Zealand Lawyers and Conveyancers Disciplinary Tribunal were commenced by the referral to the Tribunal of a matter concerning the issue of a practising certificate under [section 58][754] of the Law Practitioners Act 1982\.
+    *   (c) the Standards Committee referred to in [section 361(2)][423] of this Act, where the proceedings before the New Zealand Law Practitioners Disciplinary Tribunal or the New Zealand Lawyers and Conveyancers Disciplinary Tribunal were commenced by the referral to the Tribunal of a matter concerning the issue of a practising certificate under [section 58][756] of the Law Practitioners Act 1982\.
     
-    (3) The [Law Practitioners Act 1982][472] is (subject to the modifications made to it by this Act) to have effect in relation to any appeal under [section 118][656] of the Law Practitioners Act 1982 as if that Act had not been repealed.
+    (3) The [Law Practitioners Act 1982][472] is (subject to the modifications made to it by this Act) to have effect in relation to any appeal under [section 118][658] of the Law Practitioners Act 1982 as if that Act had not been repealed.
 
 ##### 361 Revision of practitioner's bill of costs
     
-*   (1) If a District Council within the meaning of the [Law Practitioners Act 1982][472] has not completed, before the close of the period of 6 months beginning with the date of the commencement of this section, the revision under [Part 8][746] of that Act of a practitioner's bill of costs, that revision must be undertaken by the Lawyers Standards Committee appointed under [section 356][418] of this Act to carry out the duties and exercise the powers of a complaints committee appointed pursuant to [section 100][751] of the Law Practitioners Act 1982\.
+*   (1) If a District Council within the meaning of the [Law Practitioners Act 1982][472] has not completed, before the close of the period of 6 months beginning with the date of the commencement of this section, the revision under [Part 8][748] of that Act of a practitioner's bill of costs, that revision must be undertaken by the Lawyers Standards Committee appointed under [section 356][418] of this Act to carry out the duties and exercise the powers of a complaints committee appointed pursuant to [section 100][753] of the Law Practitioners Act 1982\.
     
-    (2) [Section 143][755] of the Law Practitioners Act 1982 has effect, for the purposes of subsection (1) of this section, as if, for the words ""A District Law Society"", there were substituted the words ""The Lawyers Standards Committee appointed under section 356 of the Lawyers and Conveyancers Act 2006 to carry out the duties and exercise the powers of a complaints committee appointed pursuant to section 100 of the Law Practitioners Act 1982"".
+    (2) [Section 143][757] of the Law Practitioners Act 1982 has effect, for the purposes of subsection (1) of this section, as if, for the words ""A District Law Society"", there were substituted the words ""The Lawyers Standards Committee appointed under section 356 of the Lawyers and Conveyancers Act 2006 to carry out the duties and exercise the powers of a complaints committee appointed pursuant to section 100 of the Law Practitioners Act 1982"".
     
-    (3) Despite the repeals effected by this Act, an appeal to the Registrar (within the meaning of the [Law Practitioners Act 1982][472]) may be brought under [section 148][756] of the Law Practitioners Act 1982 against the decision of the Lawyers Standards Committee referred to in subsection (2) of this section if the decision could have been the subject of an appeal under section 148 of that Act if it had been made before the commencement of this section by a District Council.
+    (3) Despite the repeals effected by this Act, an appeal to the Registrar (within the meaning of the [Law Practitioners Act 1982][472]) may be brought under [section 148][758] of the Law Practitioners Act 1982 against the decision of the Lawyers Standards Committee referred to in subsection (2) of this section if the decision could have been the subject of an appeal under section 148 of that Act if it had been made before the commencement of this section by a District Council.
     
-    (4) [Section 148][756] of the Law Practitioners Act 1982 has effect, for the purposes of an appeal of the kind described in subsection (3) of this section, as if, for the words ""a District Council"" in both places where they occur, there were substituted in each case the words ""the Standards Committee referred to in section 361(2) of the Lawyers and Conveyancers Act 2006"".
+    (4) [Section 148][758] of the Law Practitioners Act 1982 has effect, for the purposes of an appeal of the kind described in subsection (3) of this section, as if, for the words ""a District Council"" in both places where they occur, there were substituted in each case the words ""the Standards Committee referred to in section 361(2) of the Lawyers and Conveyancers Act 2006"".
     
-    (5) An appeal to the High Court against any decision of the Registrar under [section 148][756] of the Law Practitioners Act 1982 (as applied and modified by this section) may be brought under [section 149][757] of that Act as if that Act had not been repealed.
+    (5) An appeal to the High Court against any decision of the Registrar under [section 148][758] of the Law Practitioners Act 1982 (as applied and modified by this section) may be brought under [section 149][759] of that Act as if that Act had not been repealed.
 
 #### Transitional provision relating to Law Society inspectorate
 
 ##### 362 Law Society inspectorate
     
-*   (1) Despite the repeal of the [Law Practitioners Act 1982][472] by this Act, every person who, by virtue of an appointment under [section 88A(2)(a)][758] of that Act as an inspector, is, at the commencement of this section, a member of the Law Society inspectorate both---
+*   (1) Despite the repeal of the [Law Practitioners Act 1982][472] by this Act, every person who, by virtue of an appointment under [section 88A(2)(a)][760] of that Act as an inspector, is, at the commencement of this section, a member of the Law Society inspectorate both---
         
     *   (a) continues to be, subject to his or her terms and conditions of employment and to subsection (6) of this section, a member of that inspectorate; and
     
     *   (b) is deemed to be, subject to his or her terms and conditions of employment and to subsection (6), a member of the Law Society inspectorate established by the New Zealand Law Society pursuant to regulations made under [section 115][137] of this Act.
     
-    (2) An inspector continued in office by subsection (1)(a) may, in relation to any complaints made or proceedings commenced or reviews or investigations begun before the commencement of this Act, discharge his or her functions and duties under the [Law Practitioners Act 1982][472] and any regulations made under [section 91][578] of that Act.
+    (2) An inspector continued in office by subsection (1)(a) may, in relation to any complaints made or proceedings commenced or reviews or investigations begun before the commencement of this Act, discharge his or her functions and duties under the [Law Practitioners Act 1982][472] and any regulations made under [section 91][580] of that Act.
     
-    (3) For the purposes of subsection (2), each inspector to whom that subsection applies has all necessary powers and may exercise, despite the repeals effected by this Act, the rights and powers conferred on the Law Society inspectorate by any regulations made, before the commencement of this section, under [section 91][578] of the Law Practitioners Act 1982\.
+    (3) For the purposes of subsection (2), each inspector to whom that subsection applies has all necessary powers and may exercise, despite the repeals effected by this Act, the rights and powers conferred on the Law Society inspectorate by any regulations made, before the commencement of this section, under [section 91][580] of the Law Practitioners Act 1982\.
     
-    (4) Subsections (4) to (6) of [section 88A][758] of the Law Practitioners Act 1982 continue, despite the repeal of that Act, to have effect in relation to any person continued in office by subsection (1) of this section.
+    (4) Subsections (4) to (6) of [section 88A][760] of the Law Practitioners Act 1982 continue, despite the repeal of that Act, to have effect in relation to any person continued in office by subsection (1) of this section.
     
     (5) The Law Society inspectorate continued in office by subsection (1) must report on its operations to the Council of the New Zealand Law Society at such times and in such form as may from time to time be required by that Council.
     
     (6) The New Zealand Law Society may remove from the office to which subsection (1)(a) relates or from the office to which subsection (1)(b) relates or from both any inspector continued in office by subsection (1).
     
-    (7) The repeal of the [Law Practitioners Act 1982][472] does not affect the liability of any person to pay any fee that, at the commencement of this section, is payable by that person pursuant to a resolution made under [section 88A(7)][758] of that Act.
+    (7) The repeal of the [Law Practitioners Act 1982][472] does not affect the liability of any person to pay any fee that, at the commencement of this section, is payable by that person pursuant to a resolution made under [section 88A(7)][760] of that Act.
 
 #### Transitional provisions relating to Solicitors' Fidelity Guarantee Fund
 
 ##### 363 Continuation of Part 9 of Law Practitioners Act 1982
     
-*   Despite the repeal of the [Law Practitioners Act 1982][472] by [section 349][410], the provisions of [Part 9][759] of the Law Practitioners Act 1982 and of the [Solicitors' Guarantee Fund Rules 1936][760] (SR 1936/60) are, subject to [sections 364 to 369][428], to continue to be in force until [section 370][434] comes into force.
+*   Despite the repeal of the [Law Practitioners Act 1982][472] by [section 349][410], the provisions of [Part 9][761] of the Law Practitioners Act 1982 and of the [Solicitors' Guarantee Fund Rules 1936][762] (SR 1936/60) are, subject to [sections 364 to 369][428], to continue to be in force until [section 370][434] comes into force.
 
 ##### 364 Money payable into Solicitors' Fidelity Guarantee Fund
     
-*   For the purposes of [section 363][427], [section 160][761] of the Law Practitioners Act 1982 must be read as if, for paragraphs (a) and (aa), there were substituted the following paragraphs:
+*   For the purposes of [section 363][427], [section 160][763] of the Law Practitioners Act 1982 must be read as if, for paragraphs (a) and (aa), there were substituted the following paragraphs:
     
     > *   "(aa) all sums standing to the credit of the fund on the repeal of the Law Practitioners Act 1982 by section 349 of the Lawyers and Conveyancers Act 2006:
     > 
@@ -8428,7 +8460,7 @@ Miscellaneous provisions
     
 *   (1) No person has any claim against the Solicitors' Fidelity Guarantee Fund in relation to any theft committed on or after the date on which the repeal of the [Law Practitioners Act 1982][472] takes effect.
     
-    (2) No person has any claim against the Solicitors' Fidelity Guarantee Fund in respect of any theft committed before the date on which the repeal of the [Law Practitioners Act 1982][472] takes effect unless that person has, on or before the last date for submitting claims, given notice of the claim in writing to the Council of the New Zealand Law Society or to the Management Committee appointed under [Part 9][759] of the Law Practitioners Act 1982\.
+    (2) No person has any claim against the Solicitors' Fidelity Guarantee Fund in respect of any theft committed before the date on which the repeal of the [Law Practitioners Act 1982][472] takes effect unless that person has, on or before the last date for submitting claims, given notice of the claim in writing to the Council of the New Zealand Law Society or to the Management Committee appointed under [Part 9][761] of the Law Practitioners Act 1982\.
     
     (3) The last date for submitting a claim is the last day of the period of 12 months beginning with the date on which a report under [section 367][431] is submitted by the New Zealand Law Society to the Minister.
 
@@ -8440,17 +8472,17 @@ Miscellaneous provisions
 
 ##### 367 Winding up of Solicitors' Fidelity Guarantee Fund
     
-*   (1) If the Council of the New Zealand Law Society or the Management Committee appointed under [Part 9][759] of the Law Practitioners Act 1982 forms the opinion that all claims against the Solicitors' Fidelity Guarantee Fund that it is aware of have been received and fully dealt with, it must submit a report to the Minister stating that opinion and outlining the reasons for that opinion.
+*   (1) If the Council of the New Zealand Law Society or the Management Committee appointed under [Part 9][761] of the Law Practitioners Act 1982 forms the opinion that all claims against the Solicitors' Fidelity Guarantee Fund that it is aware of have been received and fully dealt with, it must submit a report to the Minister stating that opinion and outlining the reasons for that opinion.
     
-    (2) If, in the period of 12 months beginning with the date on which the Council of the New Zealand Law Society or the Management Committee appointed under [Part 9][759] of the Law Practitioners Act 1982 submits a report under subsection (1), further claims against the Solicitors' Fidelity Guarantee Fund are submitted to the Council or the Committee, it must receive, and deal with, those claims.
+    (2) If, in the period of 12 months beginning with the date on which the Council of the New Zealand Law Society or the Management Committee appointed under [Part 9][761] of the Law Practitioners Act 1982 submits a report under subsection (1), further claims against the Solicitors' Fidelity Guarantee Fund are submitted to the Council or the Committee, it must receive, and deal with, those claims.
     
-    (3) After the expiration of the period of 12 months referred to in subsection (2), the Council of the New Zealand Law Society and the Management Committee appointed under [Part 9][759] of the Law Practitioners Act 1982 must decline to receive any further claims against the Solicitors' Fidelity Guarantee Fund.
+    (3) After the expiration of the period of 12 months referred to in subsection (2), the Council of the New Zealand Law Society and the Management Committee appointed under [Part 9][761] of the Law Practitioners Act 1982 must decline to receive any further claims against the Solicitors' Fidelity Guarantee Fund.
     
     (4) If---
         
     *   (a) no further claims against the Solicitor's Fidelity Guarantee Fund are received in the period referred to in subsection (2); or
     
-    *   (b) the Council of the New Zealand Law Society or the Management Committee appointed under [Part 9][759] of the Law Practitioners Act 1982 has fully dealt with any further claims against the Solicitor's Fidelity Guarantee Fund that were received in the period referred to in subsection (2),---
+    *   (b) the Council of the New Zealand Law Society or the Management Committee appointed under [Part 9][761] of the Law Practitioners Act 1982 has fully dealt with any further claims against the Solicitor's Fidelity Guarantee Fund that were received in the period referred to in subsection (2),---
     
     the New Zealand Law Society must so inform the Minister and submit to the Minister its final report and final audited accounts in respect of the Fund.
     
@@ -8462,7 +8494,7 @@ Miscellaneous provisions
     
 *   (1) For the purposes of [section 367][431], a claim is fully dealt with when---
         
-    *   (a) the Council of the New Zealand Law Society or the Management Committee within the meaning of [Part 9][759] of the Law Practitioners Act 1982 has notified a claimant of its final determination in relation to the claim; and
+    *   (a) the Council of the New Zealand Law Society or the Management Committee within the meaning of [Part 9][761] of the Law Practitioners Act 1982 has notified a claimant of its final determination in relation to the claim; and
     
     *   (b) either---
             
@@ -8484,7 +8516,7 @@ Miscellaneous provisions
 
 ##### 369 Application of Solicitors' Fidelity Guarantee Fund on winding up
     
-*   (1) From the commencement of the date on which the Solicitors' Fidelity Guarantee Fund is deemed to be wound up, any remaining assets of the fund cease to be held by the New Zealand Law Society in trust for the purposes appearing in [Part 9][759] of the Law Practitioners Act 1982 and must be applied by the New Zealand Law Society in accordance with subsection (2).
+*   (1) From the commencement of the date on which the Solicitors' Fidelity Guarantee Fund is deemed to be wound up, any remaining assets of the fund cease to be held by the New Zealand Law Society in trust for the purposes appearing in [Part 9][761] of the Law Practitioners Act 1982 and must be applied by the New Zealand Law Society in accordance with subsection (2).
     
     (2) The residue of the fund and any other money produced by the realisation of the other remaining assets of the fund must be applied as follows:
         
@@ -8520,7 +8552,7 @@ Miscellaneous provisions
 
 ##### 373 Assets and liabilities of District Law Societies
     
-*   (1) If the members of any District Law Society to which [section 372][438] applies resolve, before the close of the period of 6 months beginning with the date of the commencement of this section, that the assets and liabilities of the society become those of a society which is incorporated under the [Incorporated Societies Act 1908][762] and which is named in the resolution, those assets and liabilities become, as from the close of that period, assets and liabilities of that incorporated society if, as at the close of that period, the assets of the District Law Society exceed its liabilities.
+*   (1) If the members of any District Law Society to which [section 372][438] applies resolve, before the close of the period of 6 months beginning with the date of the commencement of this section, that the assets and liabilities of the society become those of a society which is incorporated under the [Incorporated Societies Act 1908][764] and which is named in the resolution, those assets and liabilities become, as from the close of that period, assets and liabilities of that incorporated society if, as at the close of that period, the assets of the District Law Society exceed its liabilities.
     
     (2) If the assets and liabilities of a District Law Society to which [section 372][438] applies do not, under subsection (1) of this section, become, as from the close of the period of 6 months beginning with the date of the commencement of this section, those of an incorporated society, those assets and liabilities become, as from the close of that period, assets and liabilities of the New Zealand Law Society.
     
@@ -8528,7 +8560,7 @@ Miscellaneous provisions
 
 ##### 374 Power to transfer assets of District Law Society library
     
-*   (1) A District Law Society to which [section 372][438] applies may, before the close of the period of 6 months specified in [section 373(1)][439], transfer to any body specified in subsection (2) of this section any assets of the law library provided and maintained by that District Law Society under [section 26(2)][763] of the Law Practitioners Act 1982\.
+*   (1) A District Law Society to which [section 372][438] applies may, before the close of the period of 6 months specified in [section 373(1)][439], transfer to any body specified in subsection (2) of this section any assets of the law library provided and maintained by that District Law Society under [section 26(2)][765] of the Law Practitioners Act 1982\.
     
     (2) The bodies to which assets may be transferred under subsection (1) are as follows:
         
@@ -8560,11 +8592,11 @@ Miscellaneous provisions
 
 ##### 375 Power of incorporated society to provide law library
     
-*   (1) If the assets of a District Law Society that become, under [section 373(1)][439], the assets of an incorporated society named in a resolution made under section 373(1) include the assets of a law library provided and maintained by a District Law Society under [section 26(2)][763] of the Law Practitioners Act 1982, the incorporated society so named may continue to provide and maintain law libraries in such towns in New Zealand as the governing body of that incorporated society directs.
+*   (1) If the assets of a District Law Society that become, under [section 373(1)][439], the assets of an incorporated society named in a resolution made under section 373(1) include the assets of a law library provided and maintained by a District Law Society under [section 26(2)][765] of the Law Practitioners Act 1982, the incorporated society so named may continue to provide and maintain law libraries in such towns in New Zealand as the governing body of that incorporated society directs.
     
     (2) Every library provided and maintained under subsection (1) is to be for the use of the High Court and such other courts as the governing body of the incorporated society so named directs, and of lawyers, and must be managed as that governing body directs.
     
-    Compare: 1982 No 123 [s 26(2), (3)][763]
+    Compare: 1982 No 123 [s 26(2), (3)][765]
 
 ##### 376 Power to contribute to funding of law libraries
     
@@ -8576,7 +8608,7 @@ Miscellaneous provisions
     
 *   (1) If, under [section 373(1)][439], assets and liabilities of a District Law Society become assets and liabilities of an incorporated society, the members of that incorporated society may not divide between them, on the dissolution of that incorporated society, all or any of its property.
     
-    (2) Nothing in the [Incorporated Societies Act 1908][762] or the rules of an incorporated society limits subsection (1).
+    (2) Nothing in the [Incorporated Societies Act 1908][764] or the rules of an incorporated society limits subsection (1).
 
 ##### 378 Consequential provisions in relation to assets, money, and property
     
@@ -8610,17 +8642,17 @@ Miscellaneous provisions
     
     *   (h) the commission of offences against the [Law Practitioners Act 1982][472] or any corresponding former Act:
     
-    *   (i) the exercise under [sections 70 to 78][524] of the Law Practitioners Act 1982, or the corresponding provisions of any former Act, of the powers of the Council of the District Law Society:
+    *   (i) the exercise under [sections 70 to 78][525] of the Law Practitioners Act 1982, or the corresponding provisions of any former Act, of the powers of the Council of the District Law Society:
     
-    *   (j) the operation of [Part 5][764] of the Law Practitioners Act 1982 (which relates to intervention in solicitor's practice) or the corresponding provisions of any former Act:
+    *   (j) the operation of [Part 5][766] of the Law Practitioners Act 1982 (which relates to intervention in solicitor's practice) or the corresponding provisions of any former Act:
     
-    *   (k) the operation of [Part 6][765] of the Law Practitioners Act 1982 (which relates to solicitors' trust accounts), or the corresponding provisions of any former Act:
+    *   (k) the operation of [Part 6][767] of the Law Practitioners Act 1982 (which relates to solicitors' trust accounts), or the corresponding provisions of any former Act:
     
-    *   (l) the operation of [Part 7][753] of the Law Practitioners Act 1982 (which relates to discipline within the legal profession) or the corresponding provisions of any former Act:
+    *   (l) the operation of [Part 7][755] of the Law Practitioners Act 1982 (which relates to discipline within the legal profession) or the corresponding provisions of any former Act:
     
-    *   (m) the operation of [Part 8][746] of the Law Practitioners Act 1982 (which relates to practitioners' costs) or the corresponding provisions of any former Act:
+    *   (m) the operation of [Part 8][748] of the Law Practitioners Act 1982 (which relates to practitioners' costs) or the corresponding provisions of any former Act:
     
-    *   (n) the operation of [Part 9][759] of the Law Practitioners Act 1982 (which relates to the Solicitors' Fidelity Guarantee Fund).
+    *   (n) the operation of [Part 9][761] of the Law Practitioners Act 1982 (which relates to the Solicitors' Fidelity Guarantee Fund).
     
     (2) Where any records of the kind referred to in subsection (1) are the property of a District Law Society, those records become the property of the New Zealand Law Society as from---
         
@@ -8644,15 +8676,15 @@ Miscellaneous provisions
 
 ##### 380 Administration of solicitor's trust account
     
-*   (1) If a District Law Society to which [section 372][438] applies holds, on the commencement of that section, any money received by that Society as the result of the exercise of its powers under [section 82][605] of the Law Practitioners Act 1982, or receives, after the commencement of that section, any money paid to it as the result of the service, before or after the commencement of that section, of a notice under section 82(1) of that Act, that District Law Society, before it is dissolved under section 372(b), must, subject to any order of the High Court, pay that money to the New Zealand Law Society.
+*   (1) If a District Law Society to which [section 372][438] applies holds, on the commencement of that section, any money received by that Society as the result of the exercise of its powers under [section 82][607] of the Law Practitioners Act 1982, or receives, after the commencement of that section, any money paid to it as the result of the service, before or after the commencement of that section, of a notice under section 82(1) of that Act, that District Law Society, before it is dissolved under section 372(b), must, subject to any order of the High Court, pay that money to the New Zealand Law Society.
     
-    (2) Any money paid to the New Zealand Law Society under subsection (1) is to be held by that Society on the same basis as it was held by the District Law Society, and [sections 82][605] and [84][609] of the Law Practitioners Act 1982 are to continue to apply, with all necessary modifications, to any such money.
+    (2) Any money paid to the New Zealand Law Society under subsection (1) is to be held by that Society on the same basis as it was held by the District Law Society, and [sections 82][607] and [84][611] of the Law Practitioners Act 1982 are to continue to apply, with all necessary modifications, to any such money.
 
 ##### 381 Solicitor's records and documents
     
-*   (1) If a District Law Society to which [section 372][438] applies has in its possession, on the commencement of that section, any records, documents, or postal articles that have come into its possession through the exercise of its powers under [section 83][606] of the Law Practitioners Act 1982, or if a District Law Society, to which section 372 applies, takes possession, after the commencement of that section, of any records, documents, or postal articles in the exercise of its powers under section 83 of the Law Practitioners Act 1982, that District Law Society, before it is dissolved under section 372(b), must, subject to subsections (5) and (6) of section 83 of the Law Practitioners Act 1982 and to any order of the High Court, transfer all of those records, documents, and postal articles to the New Zealand Law Society.
+*   (1) If a District Law Society to which [section 372][438] applies has in its possession, on the commencement of that section, any records, documents, or postal articles that have come into its possession through the exercise of its powers under [section 83][608] of the Law Practitioners Act 1982, or if a District Law Society, to which section 372 applies, takes possession, after the commencement of that section, of any records, documents, or postal articles in the exercise of its powers under section 83 of the Law Practitioners Act 1982, that District Law Society, before it is dissolved under section 372(b), must, subject to subsections (5) and (6) of section 83 of the Law Practitioners Act 1982 and to any order of the High Court, transfer all of those records, documents, and postal articles to the New Zealand Law Society.
     
-    (2) Any records, documents, or postal articles transferred to the New Zealand Law Society under subsection (1) are to be held by that Society on the same basis as they were held by the District Law Society, and [sections 83][606] and [84][609] of the Law Practitioners Act 1982 are to continue to apply with all necessary modifications to any such records, documents, or postal articles.
+    (2) Any records, documents, or postal articles transferred to the New Zealand Law Society under subsection (1) are to be held by that Society on the same basis as they were held by the District Law Society, and [sections 83][608] and [84][611] of the Law Practitioners Act 1982 are to continue to apply with all necessary modifications to any such records, documents, or postal articles.
 
 ##### 382 Certain matters not affected by transfer of assets and liabilities
     
@@ -8706,7 +8738,7 @@ Miscellaneous provisions
 
 ##### 386 Members of New Zealand Law Society
     
-*   Despite the repeal of the [Law Practitioners Act 1982][472] by this Act, every person who, by virtue of [section 3(2)][561] of that Act, is, at the commencement of this section, a member of the New Zealand Law Society continues to be, subject to this Act and the constitution of that society, a member of that society.
+*   Despite the repeal of the [Law Practitioners Act 1982][472] by this Act, every person who, by virtue of [section 3(2)][562] of that Act, is, at the commencement of this section, a member of the New Zealand Law Society continues to be, subject to this Act and the constitution of that society, a member of that society.
 
 ##### 387 Officers of New Zealand Law Society
     
@@ -8716,7 +8748,7 @@ Miscellaneous provisions
 
 ##### 388 Rights of landbrokers
     
-*   (1) This section applies to every person who, immediately before the date on which this Act received the Royal assent, held a licence as a landbroker under [section 229][518] of the Land Transfer Act 1952\.
+*   (1) This section applies to every person who, immediately before the date on which this Act received the Royal assent, held a licence as a landbroker under [section 229][519] of the Land Transfer Act 1952\.
     
     (2) A person to whom this section applies is entitled to be registered as a conveyancer if, within the period of 12 months beginning with the date of the coming into force of the rules that, as required by [section 82][100], provide for the registration of conveyancers, he or she makes an application under those rules for registration as a conveyancer and satisfies the person or body charged under those rules with considering that application that the applicant is both---
         
@@ -8724,7 +8756,7 @@ Miscellaneous provisions
     
     *   (b) a fit and proper person to be registered as a conveyancer.
     
-    (3) Every licence as a landbroker that is held under [section 229][518] of the Land Transfer Act 1952 by a person to whom this section applies is, unless sooner revoked under [section 232][766] of that Act, cancelled as from the earlier of---
+    (3) Every licence as a landbroker that is held under [section 229][519] of the Land Transfer Act 1952 by a person to whom this section applies is, unless sooner revoked under [section 232][768] of that Act, cancelled as from the earlier of---
         
     *   (a) the registration of that person as a conveyancer; or
     
@@ -8744,13 +8776,13 @@ Miscellaneous provisions
     
     *   (c) providing conveyancing services to any other person for gain or reward.
     
-    (6) A person to whom this section applies ceases to be such a person if his or her licence as a landbroker is revoked under [section 232][766] of the Land Transfer Act 1952\.
+    (6) A person to whom this section applies ceases to be such a person if his or her licence as a landbroker is revoked under [section 232][768] of the Land Transfer Act 1952\.
 
 ##### 389 Repeal
     
-*   (1) [Section 67][517] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 is repealed as from the close of the period of 12 months referred to in [section 388(2)][456].
+*   (1) [Section 67][518] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 is repealed as from the close of the period of 12 months referred to in [section 388(2)][456].
     
-    (2) [Sections 229 to 234][518] of the Land Transfer Act 1952 cease to apply to a person to whom they were applied by [section 67(2)][517] of the Land Transfer (Computer Registers and Lodgement) Amendment Act 2002 on the earlier of---
+    (2) [Sections 229 to 234][519] of the Land Transfer Act 1952 cease to apply to a person to whom they were applied by [section 67(2)][518] of the Land Transfer (Computer Registers and Lodgement) Amendment Act 2002 on the earlier of---
         
     *   (a) the registration of that person as a conveyancer under this Act; or
     
@@ -8778,25 +8810,25 @@ Miscellaneous provisions
 
 \[Repealed\]
     
-*   Heading: repealed, on 20 November 2012, by [section 27(1)][639] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+*   Heading: repealed, on 20 November 2012, by [section 27(1)][641] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 391 Appointment of members of Disciplinary Tribunal
     
 *   \[Repealed\]
     
-    Section 391: repealed, on 20 November 2012, by [section 27(1)][639] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 391: repealed, on 20 November 2012, by [section 27(1)][641] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 392 Quorum
     
 *   \[Repealed\]
     
-    Section 392: repealed, on 20 November 2012, by [section 27(1)][639] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 392: repealed, on 20 November 2012, by [section 27(1)][641] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 393 Power to alter period
     
 *   \[Repealed\]
     
-    Section 393: repealed, on 20 November 2012, by [section 27(1)][639] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Section 393: repealed, on 20 November 2012, by [section 27(1)][641] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ---
 
@@ -8825,53 +8857,53 @@ Provisions requiring appointment of agent to conduct sole practice or act as boa
     
     _donor_ means, in relation to a power of attorney given by a practitioner, the practitioner by whom or on whose behalf the power of attorney is given
     
-    _power of attorney_ means, in [clauses 19 to 25][503], a power of attorney given under [clause 2(1)][525] or [clause 3(1)][504] or [clause 4(1)][526] or [clause 5(1)][505].
+    _power of attorney_ means, in [clauses 19 to 25][503], a power of attorney given under [clause 2(1)][526] or [clause 3(1)][504] or [clause 4(1)][527] or [clause 5(1)][505].
     
-    Compare: 1982 No 123 [s 69][767]
+    Compare: 1982 No 123 [s 69][769]
 
 ##### 2 Appointment of agent to conduct sole practice of lawyer
     
-*   (1) Every lawyer to whom this schedule applies by virtue of [section 44(1)(a)][51] must, within 3 months after the date of the commencement of this clause or, as the case may require, the date of his or her commencing to be in practice in the way described in section 44(1)(a), give to some other barrister and solicitor or barristers and solicitors entitled to practise on his or her or their own account a power of attorney, in a form approved by the Council of the New Zealand Law Society, authorising him or her or them jointly or severally to exercise and perform in the donor's name, during the periods specified in [clause 7][768], the powers and duties specified in [clause 9][769].
+*   (1) Every lawyer to whom this schedule applies by virtue of [section 44(1)(a)][51] must, within 3 months after the date of the commencement of this clause or, as the case may require, the date of his or her commencing to be in practice in the way described in section 44(1)(a), give to some other barrister and solicitor or barristers and solicitors entitled to practise on his or her or their own account a power of attorney, in a form approved by the Council of the New Zealand Law Society, authorising him or her or them jointly or severally to exercise and perform in the donor's name, during the periods specified in [clause 7][770], the powers and duties specified in [clause 9][771].
     
     (2) Before a power of attorney is given under subclause (1), the written consent of the intended donee must be obtained.
     
-    (3) A power of attorney given before the date of the commencement of this clause under [section 70][524] of the Law Practitioners Act 1982 by a solicitor practising on his or her own account without partners must, if it is in force at that date and otherwise conforms to the provisions of this clause and of [clauses 6 to 9][770] (other than those of [clause 7(c)][768]), be deemed---
+    (3) A power of attorney given before the date of the commencement of this clause under [section 70][525] of the Law Practitioners Act 1982 by a solicitor practising on his or her own account without partners must, if it is in force at that date and otherwise conforms to the provisions of this clause and of [clauses 6 to 9][772] (other than those of [clause 7(c)][770]), be deemed---
         
     *   (a) to have been duly given under subclause (1) of this clause; and
     
-    *   (b) to extend and apply in respect of the periods specified in [clause 7][768] and the powers and duties specified in [clause 9][769].
+    *   (b) to extend and apply in respect of the periods specified in [clause 7][770] and the powers and duties specified in [clause 9][771].
     
-    Compare: 1982 No 123 [s 70(1), (5), (7)][524]
+    Compare: 1982 No 123 [s 70(1), (5), (7)][525]
 
 ##### 3 Appointment of person or persons to act as board of incorporated law firm
     
-*   (1) Every lawyer to whom this schedule applies by virtue of [section 44(1)(b)][51] must, within 3 months after the date on which he or she becomes the only director of an incorporated law firm, give to some other barrister and solicitor or barristers and solicitors entitled to practise on his or her or their own account a power of attorney, in a form approved by the Council of the New Zealand Law Society, authorising him or her or them to exercise and perform, during the periods specified in [clause 8][771], the powers and duties specified in [clause 10][772].
+*   (1) Every lawyer to whom this schedule applies by virtue of [section 44(1)(b)][51] must, within 3 months after the date on which he or she becomes the only director of an incorporated law firm, give to some other barrister and solicitor or barristers and solicitors entitled to practise on his or her or their own account a power of attorney, in a form approved by the Council of the New Zealand Law Society, authorising him or her or them to exercise and perform, during the periods specified in [clause 8][773], the powers and duties specified in [clause 10][774].
     
     (2) Before a power of attorney is given under subclause (1), the written consent of the intended donee must be obtained.
 
 ##### 4 Appointment of agent to conduct sole practice of conveyancing practitioner
     
-*   (1) Every conveyancing practitioner to whom this schedule applies by virtue of [section 44(1)(c)][51] must, within 3 months after the date of the commencement of this clause or, as the case may require, the date of his or her commencing to be in practice in the way described in section 44(1)(c), give to some other conveyancing practitioner or conveyancing practitioners entitled to practise on his or her or their own account a power of attorney, in a form approved by the Council of the New Zealand Society of Conveyancers, authorising him or her or them jointly or severally to exercise and perform in the donor's name, during the periods specified in [clause 7][768], the powers and duties specified in [clause 9][769].
+*   (1) Every conveyancing practitioner to whom this schedule applies by virtue of [section 44(1)(c)][51] must, within 3 months after the date of the commencement of this clause or, as the case may require, the date of his or her commencing to be in practice in the way described in section 44(1)(c), give to some other conveyancing practitioner or conveyancing practitioners entitled to practise on his or her or their own account a power of attorney, in a form approved by the Council of the New Zealand Society of Conveyancers, authorising him or her or them jointly or severally to exercise and perform in the donor's name, during the periods specified in [clause 7][770], the powers and duties specified in [clause 9][771].
     
     (2) Before a power of attorney is given under subclause (1), the written consent of the intended donee must be obtained.
 
 ##### 5 Appointment of person or persons to act as board of incorporated conveyancing firm
     
-*   (1) Every conveyancing practitioner to whom this schedule applies by virtue of [section 44(1)(d)][51] must, within 3 months after the date on which he or she becomes the only director of an incorporated conveyancing firm, give to some other conveyancing practitioner or conveyancing practitioners entitled to practise on his or her or their own account a power of attorney, in a form approved by the Council of the New Zealand Society of Conveyancers, authorising him or her or them to exercise and perform, during the periods specified in [clause 8][771], the powers and duties specified in [clause 10][772].
+*   (1) Every conveyancing practitioner to whom this schedule applies by virtue of [section 44(1)(d)][51] must, within 3 months after the date on which he or she becomes the only director of an incorporated conveyancing firm, give to some other conveyancing practitioner or conveyancing practitioners entitled to practise on his or her or their own account a power of attorney, in a form approved by the Council of the New Zealand Society of Conveyancers, authorising him or her or them to exercise and perform, during the periods specified in [clause 8][773], the powers and duties specified in [clause 10][774].
     
     (2) Before a power of attorney is given under subsection (1), the written consent of the intended donee must be obtained.
 
 ##### 6 Appointment of alternates
     
-*   (1) A power of attorney given under [clause 2(1)][525] or [clause 3(1)][504] must also appoint a barrister and solicitor or barristers and solicitors entitled to practise on his, her, or their own account as an alternate or alternates, who must exercise the powers and duties of the donee in any case where the donee is for the time being unable or unwilling to act.
+*   (1) A power of attorney given under [clause 2(1)][526] or [clause 3(1)][504] must also appoint a barrister and solicitor or barristers and solicitors entitled to practise on his, her, or their own account as an alternate or alternates, who must exercise the powers and duties of the donee in any case where the donee is for the time being unable or unwilling to act.
     
-    (2) A power of attorney given under [clause 4(1)][526] or [clause 5(1)][505] must also appoint a conveyancing practitioner or conveyancing practitioners entitled to practise on his, her, or their own account as an alternate or alternates, who must exercise the powers and duties of the donee in any case where the donee is for the time being unable or unwilling to act.
+    (2) A power of attorney given under [clause 4(1)][527] or [clause 5(1)][505] must also appoint a conveyancing practitioner or conveyancing practitioners entitled to practise on his, her, or their own account as an alternate or alternates, who must exercise the powers and duties of the donee in any case where the donee is for the time being unable or unwilling to act.
     
-    Compare: 1982 No 123 [s 70(2)][524]
+    Compare: 1982 No 123 [s 70(2)][525]
 
 ##### 7 Periods for which power of attorney under clause 2(1) or clause 4(1) are given
     
-*   The periods for which the power of attorney (referred to in [clause 2(1)][525] or [clause 4(1)][526]) must be given are---
+*   The periods for which the power of attorney (referred to in [clause 2(1)][526] or [clause 4(1)][527]) must be given are---
         
     *   (a) any current or future period or periods during which the donor is wholly or partially incapacitated and unable, by reason of his or her mental or physical condition, to conduct his or her practice; and
     
@@ -8881,7 +8913,7 @@ Provisions requiring appointment of agent to conduct sole practice or act as boa
     
     *   (c) any current or future period or periods during which the donor is prohibited by an order of the Disciplinary Tribunal from practising on his or her own account; and
     
-    *   (d) the period from the date of the donor's death until his or her administrator (within the meaning of the [Administration Act 1969][773]) either lawfully disposes of the practice or revokes the power of attorney; and
+    *   (d) the period from the date of the donor's death until his or her administrator (within the meaning of the [Administration Act 1969][775]) either lawfully disposes of the practice or revokes the power of attorney; and
     
     *   (e) if the donor, being a lawyer, is suspended from practice, then, subject to the consent of the Council of the New Zealand Law Society being obtained at that time to the operation of the power of attorney, any period during which he or she is so suspended; and
     
@@ -8891,9 +8923,9 @@ Provisions requiring appointment of agent to conduct sole practice or act as boa
     
     *   (h) if the donor, being a conveyancing practitioner, has his or her registration cancelled, then, subject to the consent of the Council of the New Zealand Society of Conveyancers being obtained at that time to the operation of the power of attorney, the period from the date on which the registration is cancelled until the practice is lawfully disposed of.
     
-    Compare: 1982 No 123 [s 70(3)][524]
+    Compare: 1982 No 123 [s 70(3)][525]
     
-    Schedule 1 clause 7(ba): inserted, on 20 November 2012, by [section 9(1)][774] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
+    Schedule 1 clause 7(ba): inserted, on 20 November 2012, by [section 9(1)][776] of the Lawyers and Conveyancers Amendment Act 2012 (2012 No 92).
 
 ##### 8 Periods for which power of attorney under clause 3(1) or clause 5(1) are given
     
@@ -8905,7 +8937,7 @@ Provisions requiring appointment of agent to conduct sole practice or act as boa
     
     *   (c) any current or future period or periods during which the donor is prohibited by an order of the Disciplinary Tribunal from practising on his or her own account; and
     
-    *   (d) the period from the date of the donor's death until his or her administrator (within the meaning of the [Administration Act 1969][773]) either lawfully disposes of the donor's shares in the incorporated firm or revokes the power of attorney; and
+    *   (d) the period from the date of the donor's death until his or her administrator (within the meaning of the [Administration Act 1969][775]) either lawfully disposes of the donor's shares in the incorporated firm or revokes the power of attorney; and
     
     *   (e) if the donor, being a lawyer, is suspended from practice, then, subject to the consent of the Council of the New Zealand Law Society being obtained at that time to the operation of the power of attorney, any period during which he or she is so suspended; and
     
@@ -8919,21 +8951,21 @@ Provisions requiring appointment of agent to conduct sole practice or act as boa
 
 ##### 9 Powers and duties under power of attorney given by sole practitioner
     
-*   (1) The powers and duties authorised to be exercised and performed by the donee of a power of attorney referred to in [clause 2(1)][525] or [clause 4(1)][526] are---
+*   (1) The powers and duties authorised to be exercised and performed by the donee of a power of attorney referred to in [clause 2(1)][526] or [clause 4(1)][527] are---
         
     *   (a) to conduct the donor's practice; and
     
     *   (b) to operate the donor's trust account or accounts; and
     
-    *   (c) if the case is one to which [clause 7(g) or clause 7(h)][768] applies, to dispose of the donor's practice; and
+    *   (c) if the case is one to which [clause 7(g) or clause 7(h)][770] applies, to dispose of the donor's practice; and
     
     *   (d) to do all things necessary for, or incidental to, the exercise of those powers---
     
     in accordance with, and subject to, this Act and all rules and regulations made under this Act.
     
-    (2) This clause is subject to [clause 21][775].
+    (2) This clause is subject to [clause 21][777].
     
-    Compare: 1983 No 123 [s 70(4)][524]
+    Compare: 1983 No 123 [s 70(4)][525]
 
 ##### 10 Powers and duties under power of attorney given by only director of incorporated firm
     
@@ -8945,29 +8977,29 @@ Provisions requiring appointment of agent to conduct sole practice or act as boa
     
     *   (c) to perform the duties of the donor in respect of the incorporated firm's trust account or accounts; and
     
-    *   (d) if the case is one to which [clause 8(g) or clause 8(h)][771] applies, to dispose of the donor's shares in the incorporated firm; and
+    *   (d) if the case is one to which [clause 8(g) or clause 8(h)][773] applies, to dispose of the donor's shares in the incorporated firm; and
     
     *   (e) to do all things necessary for, or incidental to, the exercise of those powers---
     
     in accordance with, and subject to, this Act and all rules and regulations made under this Act.
     
-    (2) This clause is subject to [clause 21][775].
+    (2) This clause is subject to [clause 21][777].
     
-    Compare: 1982 No 123 [s 70(4)][524]
+    Compare: 1982 No 123 [s 70(4)][525]
 
 ##### 11 Expenses and remuneration of donee
     
-*   All costs, charges, and expenses incurred by the donee of a power of attorney referred to in [clause 2(1)][525] or [clause 3(1)][504] or [clause 4(1)][526] or [clause 5(1)][505], or an alternate of such a donee, in the exercise of the donee's powers under the power of attorney (including such reasonable remuneration as may be approved by the Council of the appropriate society) are payable, unless the High Court otherwise directs, out of the property of the practitioner or incorporated firm by whom or on whose behalf the power of attorney was given.
+*   All costs, charges, and expenses incurred by the donee of a power of attorney referred to in [clause 2(1)][526] or [clause 3(1)][504] or [clause 4(1)][527] or [clause 5(1)][505], or an alternate of such a donee, in the exercise of the donee's powers under the power of attorney (including such reasonable remuneration as may be approved by the Council of the appropriate society) are payable, unless the High Court otherwise directs, out of the property of the practitioner or incorporated firm by whom or on whose behalf the power of attorney was given.
 
 ##### 12 Powers of New Zealand Law Society and New Zealand Society of Conveyancers
     
-*   If a practitioner to whom this schedule applies fails or refuses to give a power of attorney within the time and in the manner prescribed in respect of that practitioner by [clause 2(1)][525] or [clause 3(1)][504] or [clause 4(1)][526] or [clause 5(1)][505], or if during any period specified in [clause 7][768] or [clause 8][771] (as the case may require) the donee of a power of attorney in force under clause 2(1) or clause 3(1) or clause 4(1) or clause 5(1) is not exercising or performing his or her powers or duties under it to the satisfaction of the Council of the appropriate society, the President of that society may, of his or her own motion or pursuant to a resolution of the Council of that society, execute on behalf of the practitioner a power of attorney in accordance with clause 2(1) or clause 3(1) or clause 4(1), or clause 5(1), as the case may require; and any such power of attorney has effect as if it had been given by the practitioner under clause 2(1) or clause 3(1) or clause 4(1) or clause 5(1), as the case may require.
+*   If a practitioner to whom this schedule applies fails or refuses to give a power of attorney within the time and in the manner prescribed in respect of that practitioner by [clause 2(1)][526] or [clause 3(1)][504] or [clause 4(1)][527] or [clause 5(1)][505], or if during any period specified in [clause 7][770] or [clause 8][773] (as the case may require) the donee of a power of attorney in force under clause 2(1) or clause 3(1) or clause 4(1) or clause 5(1) is not exercising or performing his or her powers or duties under it to the satisfaction of the Council of the appropriate society, the President of that society may, of his or her own motion or pursuant to a resolution of the Council of that society, execute on behalf of the practitioner a power of attorney in accordance with clause 2(1) or clause 3(1) or clause 4(1), or clause 5(1), as the case may require; and any such power of attorney has effect as if it had been given by the practitioner under clause 2(1) or clause 3(1) or clause 4(1) or clause 5(1), as the case may require.
     
-    Compare: 1982 No 123 [s 70(6)][524]
+    Compare: 1982 No 123 [s 70(6)][525]
 
 ##### 13 Power to revoke power of attorney
     
-*   (1) A power of attorney given under [clause 2(1)][525] or [clause 3(1)][504] or [clause 4(1)][526] or [clause 5(1)][505] may, at any time, be revoked---
+*   (1) A power of attorney given under [clause 2(1)][526] or [clause 3(1)][504] or [clause 4(1)][527] or [clause 5(1)][505] may, at any time, be revoked---
         
     *   (a) by the donor; or
     
@@ -8975,31 +9007,31 @@ Provisions requiring appointment of agent to conduct sole practice or act as boa
     
     (2) A power of attorney may be revoked under subclause (1)(b) only if, in relation to the donee under the power of attorney, incapacity, bankruptcy, neglect of duty, or misconduct, is proved to the satisfaction of the President of the Council of the appropriate society.
     
-    (3) This clause is subject to [clause 14][527].
+    (3) This clause is subject to [clause 14][528].
 
 ##### 14 Restrictions on revocation of power of attorney
     
-*   While the donor continues to be a practitioner to whom this schedule applies, neither the donor nor the President of the appropriate society may revoke the power of attorney unless, at the time of revocation, the donor or the President gives a power of attorney to the same or any other practitioner or practitioners in accordance with [clause 2(1)][525] or [clause 3(1)][504] or [clause 4(1)][526] or [clause 5(1)][505].
+*   While the donor continues to be a practitioner to whom this schedule applies, neither the donor nor the President of the appropriate society may revoke the power of attorney unless, at the time of revocation, the donor or the President gives a power of attorney to the same or any other practitioner or practitioners in accordance with [clause 2(1)][526] or [clause 3(1)][504] or [clause 4(1)][527] or [clause 5(1)][505].
     
-    Compare: 1982 No 123 [s 70(8)][524]
+    Compare: 1982 No 123 [s 70(8)][525]
 
 ##### 15 Termination of powers of donee
     
-*   The powers of the donee of any power of attorney given under [clause 2(1)][525] or [clause 3(1)][504] or [clause 4(1)][526] or [clause 5(1)][505] terminate---
+*   The powers of the donee of any power of attorney given under [clause 2(1)][526] or [clause 3(1)][504] or [clause 4(1)][527] or [clause 5(1)][505] terminate---
         
     *   (a) if the power of attorney is revoked under this Act; or
     
-    *   (b) if the donee is released under [clause 22(2)][776],---
+    *   (b) if the donee is released under [clause 22(2)][778],---
     
     but do not terminate by reason only of the death of the donor or the donor becoming of unsound mind.
     
-    Compare: 1982 No 123 [s 70(9)][524]
+    Compare: 1982 No 123 [s 70(9)][525]
 
 ##### 16 Restriction on exercise of powers of donee
     
-*   The powers of the donee of any power of attorney given under [clause 2(1)][525] or [clause 3(1)][504] or [clause 4(1)][526] or [clause 5(1)][505] may not be exercised after the expiration of 1 year from the date of the grant in New Zealand of administration in the estate of the donor, except during such further period or periods as may be approved by the Council of the appropriate society.
+*   The powers of the donee of any power of attorney given under [clause 2(1)][526] or [clause 3(1)][504] or [clause 4(1)][527] or [clause 5(1)][505] may not be exercised after the expiration of 1 year from the date of the grant in New Zealand of administration in the estate of the donor, except during such further period or periods as may be approved by the Council of the appropriate society.
     
-    Compare: 1982 No 123 [s 70(10)][524]
+    Compare: 1982 No 123 [s 70(10)][525]
 
 ##### 17 Certain matters not affected
     
@@ -9017,39 +9049,39 @@ Provisions requiring appointment of agent to conduct sole practice or act as boa
     
     *   (b) the grant by a lawyer or conveyancing practitioner of a power of attorney otherwise than under this Act.
     
-    Compare: 1982 No 123 [s 70(11)][524]
+    Compare: 1982 No 123 [s 70(11)][525]
 
 ##### 18 Property Law Act 2007 and Companies Act 1993 overridden
     
-*   [Clauses 2 to 17][525] apply despite anything to the contrary in the [Property Law Act 2007][777] or the [Companies Act 1993][477] or any rule of law.
+*   [Clauses 2 to 17][526] apply despite anything to the contrary in the [Property Law Act 2007][779] or the [Companies Act 1993][477] or any rule of law.
     
-    Compare: 1982 No 123 [s 70(12)][524]
+    Compare: 1982 No 123 [s 70(12)][525]
     
-    Schedule 1 clause 18 heading: amended, on 1 January 2008, by [section 364(1)][778] of the Property Law Act 2007 (2007 No 91).
+    Schedule 1 clause 18 heading: amended, on 1 January 2008, by [section 364(1)][780] of the Property Law Act 2007 (2007 No 91).
     
-    Schedule 1 clause 18: amended, on 1 January 2008, by [section 364(1)][778] of the Property Law Act 2007 (2007 No 91).
+    Schedule 1 clause 18: amended, on 1 January 2008, by [section 364(1)][780] of the Property Law Act 2007 (2007 No 91).
 
 ##### 19 Powers of manager or administrator of estate of mentally disordered or deceased practitioner
     
-*   (1) While under the [Protection of Personal and Property Rights Act 1988][723] there is a manager of the estate of the donor, the manager may, at any time, and from time to time, suspend the powers of the donee of a power of attorney, and may, at any time, revoke any such suspension.
+*   (1) While under the [Protection of Personal and Property Rights Act 1988][725] there is a manager of the estate of the donor, the manager may, at any time, and from time to time, suspend the powers of the donee of a power of attorney, and may, at any time, revoke any such suspension.
     
     (2) Any such manager may, at any time, with the prior consent of the Council of the appropriate society, and subject to the provisions of this Act applicable to the donor, revoke any power of attorney and give to any other practitioner or practitioners entitled to practise on his, her, or their own account a power of attorney for the same purposes and for the same period as the donor was required to do.
     
-    (3) The administrator (within the meaning of the [Administration Act 1969][773]) of the estate of a deceased donor may, with the prior consent of the Council of the appropriate society, and subject to the provisions of this Act applicable to the donor, revoke a power of attorney and give to any other practitioner or practitioners entitled to practise on his, her, or their own account a power of attorney for the same purposes as the donor was required to do and for the balance remaining of the period specified in [clause 7(d)][768] or [clause 8(d)][771], as the case may be.
+    (3) The administrator (within the meaning of the [Administration Act 1969][775]) of the estate of a deceased donor may, with the prior consent of the Council of the appropriate society, and subject to the provisions of this Act applicable to the donor, revoke a power of attorney and give to any other practitioner or practitioners entitled to practise on his, her, or their own account a power of attorney for the same purposes as the donor was required to do and for the balance remaining of the period specified in [clause 7(d)][770] or [clause 8(d)][773], as the case may be.
     
-    (4) [Clauses 2 to 18][525] and [20 to 25][528], so far as they are applicable and with all necessary modifications, apply to a power of attorney given under this clause as if it were given by the practitioner to whose practice the power of attorney relates or by the practitioner who is the only director of the incorporated firm to which the power of attorney relates.
+    (4) [Clauses 2 to 18][526] and [20 to 25][529], so far as they are applicable and with all necessary modifications, apply to a power of attorney given under this clause as if it were given by the practitioner to whose practice the power of attorney relates or by the practitioner who is the only director of the incorporated firm to which the power of attorney relates.
     
-    Compare: 1982 No 123 [s 71][779]
+    Compare: 1982 No 123 [s 71][781]
 
 ##### 20 Notice of giving of power of attorney
     
 *   Whenever a power of attorney is given in respect of the practice of any practitioner to whom this schedule applies or in respect of any incorporated firm of which a practitioner to whom this schedule applies is the only director, the person giving it must forthwith give notice of the fact that it has been given, the date of it, and the name and business address of the donee, to the chief executive of the appropriate society.
     
-    Compare: 1982 No 123 [s 72][780]
+    Compare: 1982 No 123 [s 72][782]
 
 ##### 21 Conditions affecting donee of power of attorney
     
-*   (1) This section applies whenever a power of attorney is given under [clause 2(1)][525] or [clause 3(1)][504] or [clause 4(1)][526] or [clause 5(1)][505] or [clause 19][503] in respect of the practice of any practitioner or in respect of any incorporated firm of which a practitioner to whom this schedule applies is the only director.
+*   (1) This section applies whenever a power of attorney is given under [clause 2(1)][526] or [clause 3(1)][504] or [clause 4(1)][527] or [clause 5(1)][505] or [clause 19][503] in respect of the practice of any practitioner or in respect of any incorporated firm of which a practitioner to whom this schedule applies is the only director.
     
     (2) The donee must not begin to act under the power of attorney until he or she has---
         
@@ -9085,29 +9117,29 @@ Provisions requiring appointment of agent to conduct sole practice or act as boa
     
     (5) A power of attorney given by a practitioner to whom this schedule applies by virtue of [section 44(1)(a) or section 44(1)(c)][51] is revoked by operation of law when the practitioner to whose practice it relates commences practice in partnership with any other practitioner or practitioners.
     
-    Compare: 1982 No 123 [s 74][781]
+    Compare: 1982 No 123 [s 74][783]
 
 ##### 23 Bank to notify closing of trust account
     
 *   Where---
         
-    *   (a) under [clause 21(2)(c)][775] the donee of a power of attorney has given notice of it to any bank in which a practitioner's or incorporated firm's trust account is kept; and
+    *   (a) under [clause 21(2)(c)][777] the donee of a power of attorney has given notice of it to any bank in which a practitioner's or incorporated firm's trust account is kept; and
     
-    *   (b) that notice has not been followed by a notice under [clause 22(3)(b)][776] of the release of the donee; and
+    *   (b) that notice has not been followed by a notice under [clause 22(3)(b)][778] of the release of the donee; and
     
     *   (c) the bank is requested to close any such trust account, or any such account is closed,---
     
     the bank must forthwith notify the chief executive of the appropriate society of the request or closure.
     
-    Compare: 1982 No 123 [s 75][782]
+    Compare: 1982 No 123 [s 75][784]
 
 ##### 24 Agent to be authorised to appoint substitute
     
 *   (1) A power of attorney must include provision authorising the donee of the power of attorney to appoint a substitute.
     
-    (2) [Clauses 2 to 18][525] and [21 to 23][775] and [25][783] apply to a substitute appointed under such a provision as if he or she had been appointed as donee by the original power of attorney.
+    (2) [Clauses 2 to 18][526] and [21 to 23][777] and [25][785] apply to a substitute appointed under such a provision as if he or she had been appointed as donee by the original power of attorney.
     
-    Compare: 1982 No 123 [s 76][784]
+    Compare: 1982 No 123 [s 76][786]
 
 ##### 25 Practising certificates, etc
     
@@ -9123,13 +9155,13 @@ Provisions requiring appointment of agent to conduct sole practice or act as boa
     
     (4) No practising certificate may be issued in respect of a practitioner who has died; but, while the practising fees, contributions, levies, and amounts for which he or she would have been liable are being paid in respect of a practitioner who has died, this Act and all rules and regulations made under this Act apply in respect of that practitioner as if he or she were living and the holder of a current practising certificate.
     
-    Compare: 1982 No 123 [s 77][785]
+    Compare: 1982 No 123 [s 77][787]
 
 ##### 26 Part 7 not affected
     
-*   Nothing in [clauses 2 to 25][525] or in [section 45][52] in any way affects the operation of [Part 7][150].
+*   Nothing in [clauses 2 to 25][526] or in [section 45][52] in any way affects the operation of [Part 7][150].
     
-    Compare: 1982 No 123 [s 79][786]
+    Compare: 1982 No 123 [s 79][788]
 
 ---
 
@@ -9146,11 +9178,11 @@ Provisions applying in relation to investigations under section 109
     
     *   (b) if he or she was appointed under [section 109(2)][130], the accounts of any conveyancing practitioner or firm of conveyancing practitioners or incorporated conveyancing firm.
     
-    Compare: 1982 No 123 [s 85(3)][574]
+    Compare: 1982 No 123 [s 85(3)][576]
 
 ##### 2 Powers of societies to direct examination of accounts
     
-*   (1) Without limiting the generality of [clause 1][787], if the New Zealand Law Society has reasonable cause to believe---
+*   (1) Without limiting the generality of [clause 1][789], if the New Zealand Law Society has reasonable cause to believe---
         
     *   (a) that any money entrusted to a lawyer or an incorporated law firm has been stolen by that lawyer or by an employee or agent of that lawyer or firm; or
     
@@ -9160,7 +9192,7 @@ Provisions applying in relation to investigations under section 109
     
     any person for the time being holding an appointment under [section 109(1)][130] may, at any time, acting under the general or special directions of the society, examine the accounts of that lawyer or firm or incorporated law firm.
     
-    (2) Without limiting the generality of [clause 1][787], if the New Zealand Society of Conveyancers has reasonable cause to believe---
+    (2) Without limiting the generality of [clause 1][789], if the New Zealand Society of Conveyancers has reasonable cause to believe---
         
     *   (a) that any money entrusted to a conveyancing practitioner or an incorporated conveyancing firm has been stolen by that conveyancing practitioner or by an employee or agent of that conveyancing practitioner or firm; or
     
@@ -9170,7 +9202,7 @@ Provisions applying in relation to investigations under section 109
     
     any person for the time being holding an appointment under [section 109(2)][130] may, at any time, acting under the general or special directions of the society, examine the accounts of that conveyancing practitioner or firm or incorporated conveyancing firm.
     
-    Compare: 1982 No 123 [s 85(4)][574]
+    Compare: 1982 No 123 [s 85(4)][576]
 
 ##### 3 Power to obtain records, documents, and information
     
@@ -9186,7 +9218,7 @@ Provisions applying in relation to investigations under section 109
     
     *   (b) inspect all records and documents relating to any money received by any conveyancing practitioner or firm of conveyancing practitioners or incorporated conveyancing firm, or any employee, agent, or banker of any conveyancing practitioner or firm of conveyancing practitioners or incorporated conveyancing firm, whether the money has been paid into a private account or a trust account at a bank or has not been paid to any such account, and make copies of them or of any entries in them.
     
-    Compare: 1982 No 123 [s 85(5)][574]
+    Compare: 1982 No 123 [s 85(5)][576]
 
 ##### 4 Restrictions on communication of certain matters
     
@@ -9210,7 +9242,7 @@ Provisions applying in relation to investigations under section 109
     
     *   (i) in evidence in any court.
     
-    Compare: 1982 No 123 [s 85(6)][574]
+    Compare: 1982 No 123 [s 85(6)][576]
     
     Schedule 2 clause 4(g): amended, on 1 October 2008, pursuant to [section 116(a)(iii)][495] of the Policing Act 2008 (2008 No 72).
 
@@ -9218,9 +9250,9 @@ Provisions applying in relation to investigations under section 109
     
 *   (1) Where the New Zealand Law Society or the New Zealand Society of Conveyancers receives a report from a person appointed under [section 109][130], the society must consider that report in private and not otherwise.
     
-    (2) It is not lawful for any member of the Council of the New Zealand Law Society or of the Council of the New Zealand Society of Conveyancers or for any officer of either society to publish to any person any information disclosed in a report made to the society by a person appointed under [section 109][130] except pursuant to [clause 4][788] or [clause 6][789] or in the performance of the duty of that member or officer.
+    (2) It is not lawful for any member of the Council of the New Zealand Law Society or of the Council of the New Zealand Society of Conveyancers or for any officer of either society to publish to any person any information disclosed in a report made to the society by a person appointed under [section 109][130] except pursuant to [clause 4][790] or [clause 6][791] or in the performance of the duty of that member or officer.
     
-    Compare: 1982 No 123 [s 85(7)][574]
+    Compare: 1982 No 123 [s 85(7)][576]
 
 ##### 6 Power of society to communicate contents of report
     
@@ -9238,9 +9270,9 @@ Provisions applying in relation to investigations under section 109
     
     *   (f) to the Registrar-General of Land if the society considers that the communication of the contents of the report, or of part of the contents of the report, to the Registrar-General of Land is relevant to the discharge by the Registrar-General of Land of his or her duties under the [Land Transfer Act 1952][478] or any other enactment.
     
-    Compare: 1982 No 123 [s 85(8)][574]
+    Compare: 1982 No 123 [s 85(8)][576]
     
-    Schedule 2 clause 6(d): amended, on 7 July 2010, by [section 10][580] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    Schedule 2 clause 6(d): amended, on 7 July 2010, by [section 10][582] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
     
     Schedule 2 clause 6(e): amended, on 1 October 2008, pursuant to [section 116(a)(iii)][495] of the Policing Act 2008 (2008 No 72).
 
@@ -9248,21 +9280,21 @@ Provisions applying in relation to investigations under section 109
     
 *   Nothing in this schedule prevents the New Zealand Law Society or the New Zealand Society of Conveyancers, in its discretion, from giving to any client of a lawyer or firm of lawyers or of an incorporated law firm or of a conveyancing practitioner or firm of conveyancing practitioners or of an incorporated conveyancing firm any information disclosed in a report made to the society by a person appointed under [section 109][130] so far as that report relates to the client's affairs and is required by that client.
     
-    Compare: 1982 No 123 [s 85(9)][574]
+    Compare: 1982 No 123 [s 85(9)][576]
 
 ##### 8 Restrictions on publication by Council of New Zealand Institute of Chartered Accountants
     
-*   (1) If the contents, or any part of the contents, of any report made by a person appointed under [section 109][130] are disclosed to the Council of the New Zealand Institute of Chartered Accountants under [clause 6][789], that Council must consider the information given in private and not otherwise.
+*   (1) If the contents, or any part of the contents, of any report made by a person appointed under [section 109][130] are disclosed to the Council of the New Zealand Institute of Chartered Accountants under [clause 6][791], that Council must consider the information given in private and not otherwise.
     
-    (2) It is not lawful for any member of the Council of the New Zealand Institute of Chartered Accountants or for any officer of the institute to publish to any person any information so disclosed except in evidence in disciplinary proceedings under the [New Zealand Institute of Chartered Accountants Act 1996][579].
+    (2) It is not lawful for any member of the Council of the New Zealand Institute of Chartered Accountants or for any officer of the institute to publish to any person any information so disclosed except in evidence in disciplinary proceedings under the [New Zealand Institute of Chartered Accountants Act 1996][581].
     
-    Compare: 1982 No 123 [s 85(10)][574]
+    Compare: 1982 No 123 [s 85(10)][576]
     
-    Schedule 2 clause 8 heading: amended, on 7 July 2010, by [section 10][580] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    Schedule 2 clause 8 heading: amended, on 7 July 2010, by [section 10][582] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
     
-    Schedule 2 clause 8(1): amended, on 7 July 2010, by [section 10][580] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    Schedule 2 clause 8(1): amended, on 7 July 2010, by [section 10][582] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
     
-    Schedule 2 clause 8(2): amended, on 7 July 2010, by [section 10][580] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    Schedule 2 clause 8(2): amended, on 7 July 2010, by [section 10][582] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
 
 ---
 
@@ -9275,7 +9307,7 @@ Provisions applying in relation to Legal Complaints Review Officer
     
 *   (1) Every person appointed as the Legal Complaints Review Officer is to be appointed for a term of 3 years, and may be reappointed for one further term of 3 years.
     
-    (2) Every person appointed as the Legal Complaints Review Officer, unless he or she sooner vacates office under [clause 2][790], is to continue to hold office, despite the expiry of that person's term of appointment, until---
+    (2) Every person appointed as the Legal Complaints Review Officer, unless he or she sooner vacates office under [clause 2][792], is to continue to hold office, despite the expiry of that person's term of appointment, until---
         
     *   (a) the person's reappointment as the Legal Complaints Review Officer; or
     
@@ -9289,43 +9321,43 @@ Provisions applying in relation to Legal Complaints Review Officer
     
 *   (1) The person appointed as the Legal Complaints Review Officer may, at any time, be removed from office by the Minister for inability to perform the functions of the office, neglect of duty, or misconduct, proved to the satisfaction of the Minister.
     
-    (2) The person appointed as the Legal Complaints Review Officer is deemed to have vacated his or her office if he or she is, under the [Insolvency Act 2006][688], adjudged bankrupt.
+    (2) The person appointed as the Legal Complaints Review Officer is deemed to have vacated his or her office if he or she is, under the [Insolvency Act 2006][690], adjudged bankrupt.
     
     (3) The person appointed as the Legal Complaints Review Officer may, at any time, resign his or her office by giving notice in writing to that effect to the Minister.
     
-    Schedule 3 clause 2(2): amended, on 3 December 2007, by [section 445][690] of the Insolvency Act 2006 (2006 No 55).
+    Schedule 3 clause 2(2): amended, on 3 December 2007, by [section 445][692] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 3 Deputy Legal Complaints Review Officers
     
 *   (1) There may, from time to time, be appointed 2 deputies to the person appointed as the Legal Complaints Review Officer.
     
-    (2) Subject to the control of the Legal Complaints Review Officer, a Deputy Legal Complaints Review Officer has and may exercise and perform all the powers, duties, and functions of the Legal Complaints Review Officer under this Act (including the power of delegation conferred by [clause 6][791]).
+    (2) Subject to the control of the Legal Complaints Review Officer, a Deputy Legal Complaints Review Officer has and may exercise and perform all the powers, duties, and functions of the Legal Complaints Review Officer under this Act (including the power of delegation conferred by [clause 6][793]).
     
-    (3) Each Deputy Legal Complaints Review Officer is to be appointed in the same manner as the Legal Complaints Review Officer, and [sections 190][227] and [191][228] and [clauses 1][792] and [2][790] apply to a Deputy Legal Complaints Review Officer in the same manner as they apply to the Legal Complaints Review Officer.
+    (3) Each Deputy Legal Complaints Review Officer is to be appointed in the same manner as the Legal Complaints Review Officer, and [sections 190][227] and [191][228] and [clauses 1][794] and [2][792] apply to a Deputy Legal Complaints Review Officer in the same manner as they apply to the Legal Complaints Review Officer.
     
     (4) On the occurrence from any cause of a vacancy in the office of the Legal Complaints Review Officer, and in the case of the absence from duty of the person appointed as the Legal Complaints Review Officer (from whatever cause arising), and for so long as any such vacancy or absence continues, each Deputy Legal Complaints Review Officer has and may exercise and perform all the powers, duties, and functions of the Legal Complaints Review Officer.
     
     (5) The fact that a Deputy Legal Complaints Review Officer exercises or performs any power, duty, or function of the Legal Complaints Review Officer is conclusive evidence of his or her authority to do so.
     
-    Compare: 1988 No 2 [s 8][793]
+    Compare: 1988 No 2 [s 8][795]
     
-    Schedule 3 clause 3 heading: amended, on 12 December 2012, by [section 6(1)][794] of the Lawyers and Conveyancers Amendment Act (No 2) 2012 (2012 No 105).
+    Schedule 3 clause 3 heading: amended, on 12 December 2012, by [section 6(1)][796] of the Lawyers and Conveyancers Amendment Act (No 2) 2012 (2012 No 105).
     
-    Schedule 3 clause 3(1): amended, on 12 December 2012, by [section 6(2)][794] of the Lawyers and Conveyancers Amendment Act (No 2) 2012 (2012 No 105).
+    Schedule 3 clause 3(1): amended, on 12 December 2012, by [section 6(2)][796] of the Lawyers and Conveyancers Amendment Act (No 2) 2012 (2012 No 105).
     
-    Schedule 3 clause 3(2): amended, on 12 December 2012, by [section 6(3)][794] of the Lawyers and Conveyancers Amendment Act (No 2) 2012 (2012 No 105).
+    Schedule 3 clause 3(2): amended, on 12 December 2012, by [section 6(3)][796] of the Lawyers and Conveyancers Amendment Act (No 2) 2012 (2012 No 105).
     
-    Schedule 3 clause 3(3): replaced, on 12 December 2012, by [section 6(4)][794] of the Lawyers and Conveyancers Amendment Act (No 2) 2012 (2012 No 105).
+    Schedule 3 clause 3(3): replaced, on 12 December 2012, by [section 6(4)][796] of the Lawyers and Conveyancers Amendment Act (No 2) 2012 (2012 No 105).
     
-    Schedule 3 clause 3(4): amended, on 12 December 2012, by [section 6(5)][794] of the Lawyers and Conveyancers Amendment Act (No 2) 2012 (2012 No 105).
+    Schedule 3 clause 3(4): amended, on 12 December 2012, by [section 6(5)][796] of the Lawyers and Conveyancers Amendment Act (No 2) 2012 (2012 No 105).
     
-    Schedule 3 clause 3(5): amended, on 12 December 2012, by [section 6(6)][794] of the Lawyers and Conveyancers Amendment Act (No 2) 2012 (2012 No 105).
+    Schedule 3 clause 3(5): amended, on 12 December 2012, by [section 6(6)][796] of the Lawyers and Conveyancers Amendment Act (No 2) 2012 (2012 No 105).
 
 ##### 4 Remuneration and allowances
     
-*   There is to be paid to the Legal Complaints Review Officer and each Deputy Legal Complaints Review Officer out of public money remuneration by way of fees, salary, or allowances and travelling allowances and travelling expenses in accordance with the provisions of the [Fees and Travelling Allowances Act 1951][795], and the provisions of that Act are to apply accordingly as if the Legal Complaints Review Officer and each Deputy Legal Complaints Review Officer were each a member of a statutory board and the travelling were in the service of a statutory board.
+*   There is to be paid to the Legal Complaints Review Officer and each Deputy Legal Complaints Review Officer out of public money remuneration by way of fees, salary, or allowances and travelling allowances and travelling expenses in accordance with the provisions of the [Fees and Travelling Allowances Act 1951][797], and the provisions of that Act are to apply accordingly as if the Legal Complaints Review Officer and each Deputy Legal Complaints Review Officer were each a member of a statutory board and the travelling were in the service of a statutory board.
     
-    Schedule 3 clause 4: amended, on 12 December 2012, by [section 7][796] of the Lawyers and Conveyancers Amendment Act (No 2) 2012 (2012 No 105).
+    Schedule 3 clause 4: amended, on 12 December 2012, by [section 7][798] of the Lawyers and Conveyancers Amendment Act (No 2) 2012 (2012 No 105).
 
 ##### 5 Accommodation and services
     
@@ -9333,9 +9365,9 @@ Provisions applying in relation to Legal Complaints Review Officer
     
     (2) If the Ministry of Justice considers that there is a need to incur, in providing the Legal Complaints Review Officer or a Deputy Legal Complaints Review Officer with accommodation or services, costs that have not been anticipated, that Ministry must obtain the approval of the Minister of Justice before incurring those costs.
     
-    Schedule 3 clause 5(1): amended, on 12 December 2012, by [section 8(1)][797] of the Lawyers and Conveyancers Amendment Act (No 2) 2012 (2012 No 105).
+    Schedule 3 clause 5(1): amended, on 12 December 2012, by [section 8(1)][799] of the Lawyers and Conveyancers Amendment Act (No 2) 2012 (2012 No 105).
     
-    Schedule 3 clause 5(2): amended, on 12 December 2012, by [section 8(2)][797] of the Lawyers and Conveyancers Amendment Act (No 2) 2012 (2012 No 105).
+    Schedule 3 clause 5(2): amended, on 12 December 2012, by [section 8(2)][799] of the Lawyers and Conveyancers Amendment Act (No 2) 2012 (2012 No 105).
 
 ##### 6 Delegation of powers by Legal Complaints Review Officer
     
@@ -9365,7 +9397,7 @@ Provisions applying in relation to Legal Complaints Review Officer
 
 ##### 7 Revocation of delegations
     
-*   (1) Every delegation under [clause 6][791] is revocable in writing at will.
+*   (1) Every delegation under [clause 6][793] is revocable in writing at will.
     
     (2) Any such delegation, until it is revoked, continues in force according to its tenor.
     
@@ -9385,13 +9417,13 @@ Provisions applying in relation to Legal Complaints Review Officer
     
     (2) In this section, _Legal Complaints Review Officer_ includes an investigator and any other person acting on behalf of, or as the delegate of, the Legal Complaints Review Officer.
     
-    Compare: 1982 No 123 [s 127][615]
+    Compare: 1982 No 123 [s 127][617]
 
 ##### 9 Privileges and immunities of counsel
     
 *   Every counsel appearing before the Legal Complaints Review Officer has the same privileges and immunities as counsel in a court of law.
     
-    Compare: 1982 No 123 [s 127][615]
+    Compare: 1982 No 123 [s 127][617]
 
 ##### 10 Disclosure of information
     
@@ -9423,11 +9455,11 @@ Provisions applying in relation to Legal Complaints Review Officer
     
     *   (e) in evidence in any court.
     
-    Compare: 1982 No 123 [s 85(6)][574]
+    Compare: 1982 No 123 [s 85(6)][576]
     
-    Schedule 3 clause 10(1)(a): amended, on 12 December 2012, by [section 9][798] of the Lawyers and Conveyancers Amendment Act (No 2) 2012 (2012 No 105).
+    Schedule 3 clause 10(1)(a): amended, on 12 December 2012, by [section 9][800] of the Lawyers and Conveyancers Amendment Act (No 2) 2012 (2012 No 105).
     
-    Schedule 3 clause 10(2)(b)(iv): amended, on 7 July 2010, by [section 10][580] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    Schedule 3 clause 10(2)(b)(iv): amended, on 7 July 2010, by [section 10][582] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
     
     Schedule 3 clause 10(2)(c): amended, on 1 October 2008, pursuant to [section 116(a)(iii)][495] of the Policing Act 2008 (2008 No 72).
 
@@ -9443,9 +9475,9 @@ Provisions applying in relation to Legal Complaints Review Officer
     
     unless that person has acted in bad faith.
     
-    Compare: 1995 No 95 s 135(1); 1996 No 39 [s 12(1)][614]
+    Compare: 1995 No 95 s 135(1); 1996 No 39 [s 12(1)][616]
     
-    Schedule 3 clause 11: amended, on 12 December 2012, by [section 10][799] of the Lawyers and Conveyancers Amendment Act (No 2) 2012 (2012 No 105).
+    Schedule 3 clause 11: amended, on 12 December 2012, by [section 10][801] of the Lawyers and Conveyancers Amendment Act (No 2) 2012 (2012 No 105).
 
 ---
 
@@ -9464,7 +9496,7 @@ Provisions applying in relation to Disciplinary Tribunal
     
     (2) A member of the Disciplinary Tribunal is eligible for reappointment from time to time.
     
-    (3) Where the term of office of a member of the Disciplinary Tribunal has expired, that member, unless he or she sooner dies or vacates office under [clause 3][800], continues to hold office, by virtue of the appointment for the term that has expired, until---
+    (3) Where the term of office of a member of the Disciplinary Tribunal has expired, that member, unless he or she sooner dies or vacates office under [clause 3][802], continues to hold office, by virtue of the appointment for the term that has expired, until---
         
     *   (a) that member is reappointed; or
     
@@ -9472,7 +9504,7 @@ Provisions applying in relation to Disciplinary Tribunal
     
     *   (c) that member is informed in writing by the Minister or the council that appointed that member that he or she is not to be reappointed and is not to hold office until a successor is appointed.
     
-    Compare: 1982 No 123 [s 120(1)--(3)][748]
+    Compare: 1982 No 123 [s 120(1)--(3)][750]
 
 ##### 3 Vacation of office
     
@@ -9480,7 +9512,7 @@ Provisions applying in relation to Disciplinary Tribunal
     
     (2) A member of the Disciplinary Tribunal who holds office under [section 228(d) or (e)][270] and who was, in accordance with [section 233(2) or (3)][275] appointed by a council, may, at any time, be removed from office by that council for inability to perform the functions of the office, neglect of duty, or misconduct, proved to the satisfaction of that council.
     
-    (3) A member of the Disciplinary Tribunal is deemed to have vacated his or her office if he or she is, under the [Insolvency Act 2006][688], adjudged bankrupt.
+    (3) A member of the Disciplinary Tribunal is deemed to have vacated his or her office if he or she is, under the [Insolvency Act 2006][690], adjudged bankrupt.
     
     (4) A member of the Disciplinary Tribunal may, at any time, resign his or her office by giving notice in writing to that effect---
         
@@ -9496,21 +9528,21 @@ Provisions applying in relation to Disciplinary Tribunal
     
     (7) The powers of the Disciplinary Tribunal are not affected by any vacancy in its membership.
     
-    Compare: 1982 No 123 [ss 109(2)][638], [120(4), (5)][748]
+    Compare: 1982 No 123 [ss 109(2)][640], [120(4), (5)][750]
     
-    Schedule 4 clause 3(3): amended, on 3 December 2007, by [section 445][690] of the Insolvency Act 2006 (2006 No 55).
+    Schedule 4 clause 3(3): amended, on 3 December 2007, by [section 445][692] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 4 Remuneration of chairperson, deputy chairperson, and lay members
     
-*   The chairperson of the Disciplinary Tribunal, the deputy chairperson of the Disciplinary Tribunal, and every lay member of the Disciplinary Tribunal are to be paid, out of public money, remuneration by way of fees, salary, or allowances and travelling allowances and travelling expenses in accordance with the [Fees and Travelling Allowances Act 1951][795], and the provisions of that Act apply accordingly as if the chairperson or deputy chairperson or member were a member of a statutory board within the meaning of that Act.
+*   The chairperson of the Disciplinary Tribunal, the deputy chairperson of the Disciplinary Tribunal, and every lay member of the Disciplinary Tribunal are to be paid, out of public money, remuneration by way of fees, salary, or allowances and travelling allowances and travelling expenses in accordance with the [Fees and Travelling Allowances Act 1951][797], and the provisions of that Act apply accordingly as if the chairperson or deputy chairperson or member were a member of a statutory board within the meaning of that Act.
     
-    Compare: 1982 No 123 [s 121][801]
+    Compare: 1982 No 123 [s 121][803]
 
 ##### 5 Chairperson, deputy chairperson, and lay members not in service of Crown
     
-*   No person holding office as the chairperson or deputy chairperson of the Disciplinary Tribunal or as a lay member of the Disciplinary Tribunal is deemed by reason of his or her holding of that office to be employed in the Government service for the purposes of the [Government Superannuation Fund Act 1956][617] or in the State services for the purposes of the [State Sector Act 1988][474].
+*   No person holding office as the chairperson or deputy chairperson of the Disciplinary Tribunal or as a lay member of the Disciplinary Tribunal is deemed by reason of his or her holding of that office to be employed in the Government service for the purposes of the [Government Superannuation Fund Act 1956][619] or in the State services for the purposes of the [State Sector Act 1988][474].
     
-    Compare: 1982 No 123 [s 122][802]
+    Compare: 1982 No 123 [s 122][804]
 
 ##### 6 Power to summon witnesses
     
@@ -9538,11 +9570,11 @@ Provisions applying in relation to Disciplinary Tribunal
     
     *   (b) impose any terms and conditions in respect of the provision of copies of any documents or information to a person appearing at the hearing and the use that may be made of them.
     
-    Compare: 1996 No 39 [s 11(1)--(5)][803]
+    Compare: 1996 No 39 [s 11(1)--(5)][805]
 
 ##### 7 Service of summons
     
-*   (1) A summons issued under [clause 6][666] may be served---
+*   (1) A summons issued under [clause 6][668] may be served---
         
     *   (a) by delivering it to the person summoned; or
     
@@ -9556,9 +9588,11 @@ Provisions applying in relation to Disciplinary Tribunal
     
     (3) A summons that is posted is to be treated as having been served when it would have been served in the ordinary course of post.
     
-    (4) The person requiring attendance of the witness must pay or tender to the witness at the time the summons is served, or at some other reasonable time before the hearing, the sum estimated to be payable to that witness for fees, allowances, and expenses in accordance with the scale prescribed by regulations made under the [Summary Proceedings Act 1957][804].
+    (4) The person requiring attendance of the witness must pay or tender to the witness at the time the summons is served, or at some other reasonable time before the hearing, the sum estimated to be payable to that witness for fees, allowances, and expenses in accordance with the scale prescribed by regulations made under the [Criminal Procedure Act 2011][806].
     
-    Compare: 1996 No 39 [s 11(6)--(9)][803]
+    Compare: 1996 No 39 [s 11(6)--(9)][805]
+    
+    Schedule 4 clause 7(4): amended, on 1 July 2013, by [section 413][513] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 8 Witnesses' expenses
     
@@ -9570,7 +9604,7 @@ Provisions applying in relation to Disciplinary Tribunal
     
     *   (b) by the New Zealand Society of Conveyancers (if the proceedings relate to a conveyancing practitioner or former conveyancing practitioner or an incorporated conveyancing firm or former incorporated conveyancing firm or an employee or former employee of a conveyancing practitioner or an incorporated conveyancing firm).
     
-    Compare: 1982 No 123 [s 128][805]
+    Compare: 1982 No 123 [s 128][807]
 
 ##### 9 Protection and privileges of witnesses
     
@@ -9584,13 +9618,13 @@ Provisions applying in relation to Disciplinary Tribunal
     
     as witnesses have in a court of law.
     
-    Compare: 1982 No 123 [s 127][615]
+    Compare: 1982 No 123 [s 127][617]
 
 ##### 10 Privileges and immunities of counsel
     
 *   Every counsel appearing before the Disciplinary Tribunal has the same privileges and immunities as counsel in a court of law.
     
-    Compare: 1982 No 123 [s 127][615]
+    Compare: 1982 No 123 [s 127][617]
 
 ##### 11 Disciplinary Tribunal and members, etc, not personally liable
     
@@ -9635,7 +9669,7 @@ Provisions applying in relation to New Zealand Council of Legal Education
     
     (10) Except as expressly provided in this Act, the Council may determine its own procedure.
     
-    Compare: 1982 No 123 [s 36][806]
+    Compare: 1982 No 123 [s 36][808]
 
 ##### 2 Special meetings
     
@@ -9643,7 +9677,7 @@ Provisions applying in relation to New Zealand Council of Legal Education
     
     (2) Notice of the meeting must be posted to each member at his or her usual address at least 7 clear days before the date of the meeting.
     
-    Compare: 1982 No 123 [s 37][807]
+    Compare: 1982 No 123 [s 37][809]
 
 ##### 3 Teleconference meeting
     
@@ -9679,7 +9713,7 @@ Provisions applying in relation to New Zealand Council of Legal Education
     
 *   The members of the Council, and the members of any committee appointed by the Council, are to be paid such fees, salaries, and allowances, and such travelling allowances and expenses, as are, from time to time, determined by the Attorney-General after consultation with the Council.
     
-    Compare: 1982 No 123 [s 41][808]
+    Compare: 1982 No 123 [s 41][810]
 
 ##### 6 Employees
     
@@ -9695,7 +9729,7 @@ Provisions applying in relation to New Zealand Council of Legal Education
     
     (6) If no day is specified, the determination takes effect on the date on which it is made.
     
-    Compare: 1982 No 123 [s 42][809]
+    Compare: 1982 No 123 [s 42][811]
 
 ##### 7 Personnel policy
     
@@ -9727,7 +9761,7 @@ Provisions applying in relation to New Zealand Council of Legal Education
     
     *   (h) recognition of the employment requirements of people with disabilities.
     
-    Compare: 1982 No 123 [s 42A][810]
+    Compare: 1982 No 123 [s 42A][812]
 
 ##### 8 Equal employment opportunities programme
     
@@ -9737,35 +9771,35 @@ Provisions applying in relation to New Zealand Council of Legal Education
     
     *   (b) must, each year, ensure that the equal employment opportunities programme for that year is complied with.
     
-    (2) For the purposes of this clause and [clause 7][811], an equal employment opportunities programme is a programme aimed at identifying and eliminating all aspects of policies, procedures, and other institutional barriers that cause or perpetuate, or tend to cause or perpetuate, inequality in respect of the employment of any people or group of people.
+    (2) For the purposes of this clause and [clause 7][813], an equal employment opportunities programme is a programme aimed at identifying and eliminating all aspects of policies, procedures, and other institutional barriers that cause or perpetuate, or tend to cause or perpetuate, inequality in respect of the employment of any people or group of people.
     
     (3) The Council must include in every annual report a statement of the extent to which its equal employment opportunities programme for the year to which the report relates was complied with.
     
-    Compare: 1982 No 123 [s 42B][812]
+    Compare: 1982 No 123 [s 42B][814]
 
 ##### 9 Superannuation or retiring allowances
     
-*   (1) For the purpose of providing a superannuation fund or retiring allowance for any of the employees of the Council, sums by way of subsidy may, from time to time, be paid into a scheme registered under the [Superannuation Schemes Act 1989][813].
+*   (1) For the purpose of providing a superannuation fund or retiring allowance for any of the employees of the Council, sums by way of subsidy may, from time to time, be paid into a scheme registered under the [Superannuation Schemes Act 1989][815].
     
-    (2) Despite anything in this Act, any person who, immediately before becoming an employee of the Council, was a contributor to the Government Superannuation Fund under [Part 2][814] or [Part 2A][815] of the Government Superannuation Fund Act 1956 is, for the purposes of that Act, to be treated as employed in the Government service so long as that person continues to be an employee of the Council; and that Act applies to that person in all respects as if that person's service as such an employee of the Council were Government service.
+    (2) Despite anything in this Act, any person who, immediately before becoming an employee of the Council, was a contributor to the Government Superannuation Fund under [Part 2][816] or [Part 2A][817] of the Government Superannuation Fund Act 1956 is, for the purposes of that Act, to be treated as employed in the Government service so long as that person continues to be an employee of the Council; and that Act applies to that person in all respects as if that person's service as such an employee of the Council were Government service.
     
-    (3) Subject to the [Government Superannuation Fund Act 1956][617], nothing in subclause (2) entitles any person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
+    (3) Subject to the [Government Superannuation Fund Act 1956][619], nothing in subclause (2) entitles any person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
     
-    (4) For the purposes of applying the [Government Superannuation Fund Act 1956][617], in accordance with subclause (2), to a person who is in the service of the Council as an employee and is a contributor to the Government Superannuation Fund, _controlling authority_, in relation to that person, means the Council.
+    (4) For the purposes of applying the [Government Superannuation Fund Act 1956][619], in accordance with subclause (2), to a person who is in the service of the Council as an employee and is a contributor to the Government Superannuation Fund, _controlling authority_, in relation to that person, means the Council.
     
-    Compare: 1982 No 123 [s 42C][816]
+    Compare: 1982 No 123 [s 42C][818]
 
 ##### 10 Application of certain Acts to members and employees
     
-*   No person is to be treated as being employed in the service of the Crown for the purposes of the [State Sector Act 1988][474] or the [Government Superannuation Fund Act 1956][617] by reason only of that person's membership of the Council or by reason only of that person's employment under [clause 6][817].
+*   No person is to be treated as being employed in the service of the Crown for the purposes of the [State Sector Act 1988][474] or the [Government Superannuation Fund Act 1956][619] by reason only of that person's membership of the Council or by reason only of that person's employment under [clause 6][819].
     
-    Compare: 1982 No 123 [s 42E][818]
+    Compare: 1982 No 123 [s 42E][820]
 
 ##### 11 Crown may provide services for Council
     
 *   The Crown, acting through any department of State, may, from time to time, at the request of the Council, execute any work or enter into any arrangements for the execution or provision by the department for the Council of any work or service, or for the supply to the Council of any goods, stores, or equipment, on and subject to any terms and conditions agreed between the Council and the department's chief executive.
     
-    Compare: 1982 No 123 [s 42D][819]
+    Compare: 1982 No 123 [s 42D][821]
 
 ##### 12 Funds of Council
     
@@ -9777,7 +9811,7 @@ Provisions applying in relation to New Zealand Council of Legal Education
     
     *   (c) all accumulations of income derived from any such money.
     
-    Compare: 1982 No 123 [s 42F][820]
+    Compare: 1982 No 123 [s 42F][822]
 
 ##### 13 Bank accounts
     
@@ -9787,13 +9821,13 @@ Provisions applying in relation to New Zealand Council of Legal Education
     
     (3) The withdrawal or payment of money from any such account may be authorised in any manner the Council thinks fit.
     
-    Compare: 1982 No 123 [s 42G][821]
+    Compare: 1982 No 123 [s 42G][823]
 
 ##### 14 Investment of money
     
-*   Any money which belongs to the Council and which is not immediately required for expenditure by the Council may be invested subject to the restrictions in [section 161][822] of the Crown Entities Act 2004\.
+*   Any money which belongs to the Council and which is not immediately required for expenditure by the Council may be invested subject to the restrictions in [section 161][824] of the Crown Entities Act 2004\.
     
-    Compare: 1982 No 123 [s 42H][823]
+    Compare: 1982 No 123 [s 42H][825]
 
 ##### 15 Seal
     
@@ -9809,13 +9843,13 @@ Provisions applying in relation to New Zealand Council of Legal Education
     
     (4) The common seal of the Council must be judicially noticed in all courts and for all purposes.
     
-    Compare: 1982 No 123 [s 42I][824]
+    Compare: 1982 No 123 [s 42I][826]
 
 ##### 16 Exemption from income tax
     
 *   The income of the Council is exempt from income tax.
     
-    Compare: 1982 No 123 [s 42J][825]
+    Compare: 1982 No 123 [s 42J][827]
 
 ##### 17 Council and members, etc, not personally liable
     
@@ -9829,7 +9863,7 @@ Provisions applying in relation to New Zealand Council of Legal Education
     
     unless the Council or the committee or person has acted in bad faith.
     
-    Compare: 1982 No 123 [s 31B][826]
+    Compare: 1982 No 123 [s 31B][828]
 
 ---
 
@@ -9840,19 +9874,19 @@ Enactments amended
 
 ##### Care of Children Act 2004 (2004 No 90)
 
-_Amendment(s) incorporated in the [Act(s)][827]_.
+_Amendment(s) incorporated in the [Act(s)][829]_.
 
 ##### Companies Act 1993 (1993 No 105)
 
-_Amendment(s) incorporated in the [Act(s)][828]_.
+_Amendment(s) incorporated in the [Act(s)][830]_.
 
 ##### Copyright Act 1994 (1994 No 143)
 
-_Amendment(s) incorporated in the [Act(s)][829]_.
+_Amendment(s) incorporated in the [Act(s)][831]_.
 
 ##### Corrections Act 2004 (2004 No 50)
 
-_Amendment(s) incorporated in the [Act(s)][830]_.
+_Amendment(s) incorporated in the [Act(s)][832]_.
 
 ##### Credit Contracts and Consumer Finance Act 2003 (2003 No 52)
 
@@ -9860,103 +9894,103 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Criminal Investigations (Bodily Samples) Act 1995 (1995 No 55)
 
-_Amendment(s) incorporated in the [Act(s)][831]_.
+_Amendment(s) incorporated in the [Act(s)][833]_.
 
 ##### Customs and Excise Act 1996 (1996 No 27)
 
-_Amendment(s) incorporated in the [Act(s)][832]_.
+_Amendment(s) incorporated in the [Act(s)][834]_.
 
 ##### Domestic Violence Act 1995 (1995 No 86)
 
-_Amendment(s) incorporated in the [Act(s)][833]_.
+_Amendment(s) incorporated in the [Act(s)][835]_.
 
 ##### Evidence Amendment Act (No 2) 1980 (1980 No 27)
 
-_Amendment(s) incorporated in the [Act(s)][834]_.
+_Amendment(s) incorporated in the [Act(s)][836]_.
 
 ##### Financial Transactions Reporting Act 1996 (1996 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][835]_.
+_Amendment(s) incorporated in the [Act(s)][837]_.
 
 ##### Gambling Act 2003 (2003 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][836]_.
+_Amendment(s) incorporated in the [Act(s)][838]_.
 
 ##### Housing Corporation Act 1974 (1974 No 19)
 
-_Amendment(s) incorporated in the [Act(s)][837]_.
+_Amendment(s) incorporated in the [Act(s)][839]_.
 
 ##### Income Tax Act 2004 (2004 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][838]_.
+_Amendment(s) incorporated in the [Act(s)][840]_.
 
 ##### Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003 (2003 No 116)
 
-_Amendment(s) incorporated in the [Act(s)][839]_.
+_Amendment(s) incorporated in the [Act(s)][841]_.
 
 ##### Juries Act 1981 (1981 No 23)
 
-_Amendment(s) incorporated in the [Act(s)][840]_.
+_Amendment(s) incorporated in the [Act(s)][842]_.
 
 ##### Legal Services Act 2000 (2000 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][841]_.
+_Amendment(s) incorporated in the [Act(s)][843]_.
 
 ##### Patents Act 1953 (1953 No 64)
 
-_Amendment(s) incorporated in the [Act(s)][539]_.
+_Amendment(s) incorporated in the [Act(s)][540]_.
 
 ##### Police Act 1958 (1958 No 109)
 
-_Amendment(s) incorporated in the [Act(s)][842]_.
+_Amendment(s) incorporated in the [Act(s)][844]_.
 
 ##### Proceeds of Crime Act 1991 (1991 No 120)
 
-_Amendment(s) incorporated in the [Act(s)][843]_.
+_Amendment(s) incorporated in the [Act(s)][845]_.
 
 ##### Property (Relationships) Act 1976 (1976 No 166)
 
-_Amendment(s) incorporated in the [Act(s)][844]_.
+_Amendment(s) incorporated in the [Act(s)][846]_.
 
 ##### Retirement Villages Act 2003 (2003 No 112)
 
-_Amendment(s) incorporated in the [Act(s)][845]_.
+_Amendment(s) incorporated in the [Act(s)][847]_.
 
 ##### Securities Transfer Act 1991 (1991 No 119)
 
-_Amendment(s) incorporated in the [Act(s)][846]._
+_Amendment(s) incorporated in the [Act(s)][848]._
 
 ##### Serious Fraud Office Act 1990 (1990 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][847]_.
+_Amendment(s) incorporated in the [Act(s)][849]_.
 
 ##### Social Security Act 1964 (1964 No 136)
 
-_Amendment(s) incorporated in the [Act(s)][848]_.
+_Amendment(s) incorporated in the [Act(s)][850]_.
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][849]_.
+_Amendment(s) incorporated in the [Act(s)][851]_.
 
 ##### Tax Administration Act 1994 (1994 No 166)
 
-_Amendment(s) incorporated in the [Act(s)][850]_.
+_Amendment(s) incorporated in the [Act(s)][852]_.
 
 ##### Terrorism Suppression Act 2002 (2002 No 34)
 
-_Amendment(s) incorporated in the [Act(s)][851]_.
+_Amendment(s) incorporated in the [Act(s)][853]_.
 
 ##### Trans-Tasman Mutual Recognition Act 1997 (1997 No 60)
 
-_Amendment(s) incorporated in the [Act(s)][852]_.
+_Amendment(s) incorporated in the [Act(s)][854]_.
 
 ##### Unclaimed Money Act 1971 (1971 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][853]_.
+_Amendment(s) incorporated in the [Act(s)][855]_.
 
 ##### Victims' Rights Act 2002 (2002 No 39)
 
-_Amendment(s) incorporated in the [Act(s)][854]_.
+_Amendment(s) incorporated in the [Act(s)][856]_.
 
 ---
 
@@ -9967,57 +10001,57 @@ Enactments repealed
 
 ##### Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16)
 
-_Amendment(s) incorporated in the [Act(s)][855]_.
+_Amendment(s) incorporated in the [Act(s)][857]_.
 
 ##### Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113)
 
-_Amendment(s) incorporated in the [Act(s)][856]_.
+_Amendment(s) incorporated in the [Act(s)][858]_.
 
 ##### Department of Justice (Restructuring) Act 1995 (1995 No 39)
 
-_Amendment(s) incorporated in the [Act(s)][857]_.
+_Amendment(s) incorporated in the [Act(s)][859]_.
 
 ##### Education Amendment Act 1990 (1990 No 60)
 
-_Amendment(s) incorporated in the [Act(s)][858]_.
+_Amendment(s) incorporated in the [Act(s)][860]_.
 
 ##### Estate Duty Repeal Act 1999 (1999 No 64)
 
-_Amendment(s) incorporated in the [Act(s)][859]_.
+_Amendment(s) incorporated in the [Act(s)][861]_.
 
 ##### Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39)
 
-_Amendment(s) incorporated in the [Act(s)][860]_.
+_Amendment(s) incorporated in the [Act(s)][862]_.
 
 ##### Law Practitioners Act 1982 (1982 No 123)
 
 ##### Legal Services Act 2000 (2000 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][861]_.
+_Amendment(s) incorporated in the [Act(s)][863]_.
 
 ##### New Zealand Council of Law Reporting Act 1938 (1938 No 2)
 
-_Amendment(s) incorporated in the [Act(s)][862]_.
+_Amendment(s) incorporated in the [Act(s)][864]_.
 
 ##### Postal Services Act 1998 (1998 No 2)
 
-_Amendment(s) incorporated in the [Act(s)][863]_.
+_Amendment(s) incorporated in the [Act(s)][865]_.
 
 ##### Private Savings Bank (Transfer of Undertakings) Act 1992 (1992 No 21)
 
-_Amendment(s) incorporated in the [Act(s)][864]_.
+_Amendment(s) incorporated in the [Act(s)][866]_.
 
 ##### Public Finance Amendment Act 1992 (1992 No 142)
 
-_Amendment(s) incorporated in the [Act(s)][865]_.
+_Amendment(s) incorporated in the [Act(s)][867]_.
 
 ##### Public Finance Amendment Act 2004 (2004 No 113)
 
-_Amendment(s) incorporated in the [Act(s)][866]_.
+_Amendment(s) incorporated in the [Act(s)][868]_.
 
 ##### Trans-Tasman Mutual Recognition Act 1997 (1997 No 60)
 
-_Amendment(s) incorporated in the [Act(s)][867]_.
+_Amendment(s) incorporated in the [Act(s)][869]_.
 
 ---
 
@@ -10029,7 +10063,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Lawyers and Conveyancers Amendment Act 2012][868].
+*   This Act is the [Lawyers and Conveyancers Amendment Act 2012][870].
 
 ##### 2 Commencement
     
@@ -10104,102 +10138,63 @@ Amendments relating to other matters
     
     
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Lawyers and Conveyancers Act 2006\. The reprint incorporates all the amendments to the Act as at 12 December 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][869] ![](/images/external_link.gif).
+*   This is a reprint of the Lawyers and Conveyancers Act 2006 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][870] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][871] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][872] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][871] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][873] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][874] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint)
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][872] and [17E][873] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][569]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    [Lawyers and Conveyancers Amendment Act (No 2) 2012][875] (2012 No 105)
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    [Lawyers and Conveyancers Amendment Act 2012][870] (2012 No 92)
     
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][513]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Legal Services Act 2011 (2011 No 4): [sections 139][597], [140][601], [141][625], [142][627], [143][662], [144][494]
     
-*   [Lawyers and Conveyancers Amendment Act (No 2) 2012][874] (2012 No 105)
+    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][582]
     
-    [Lawyers and Conveyancers Amendment Act 2012][868] (2012 No 92)
+    Immigration Act 2009 (2009 No 51): [section 406(1)][735]
     
-    Legal Services Act 2011 (2011 No 4): [sections 139][595], [140][599], [141][623], [142][625], [143][660], [144][494]
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii), (iii)][495], [130(1)][592]
     
-    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][580]
+    Real Estate Agents Act 2008 (2008 No 66): [section 173][517]
     
-    Immigration Act 2009 (2009 No 51): [section 406(1)][733]
-    
-    Policing Act 2008 (2008 No 72): [sections 116(a)(ii), (iii)][495], [130(1)][590]
-    
-    Real Estate Agents Act 2008 (2008 No 66): [section 173][516]
-    
-    [Lawyers and Conveyancers Amendment Act 2008][875] (2008 No 54)
+    [Lawyers and Conveyancers Amendment Act 2008][876] (2008 No 54)
     
     [Lawyers and Conveyancers Act Commencement Order 2008][471] (SR 2008/182)
     
-    Court Martial Act 2007 (2007 No 101): [section 87][542]
+    Court Martial Act 2007 (2007 No 101): [section 87][543]
     
-    Property Law Act 2007 (2007 No 91): [section 364(1)][778]
+    Property Law Act 2007 (2007 No 91): [section 364(1)][780]
     
-    [Lawyers and Conveyancers Amendment Act 2007][876] (2007 No 67)
+    [Lawyers and Conveyancers Amendment Act 2007][877] (2007 No 67)
     
-    Evidence Act 2006 (2006 No 69): [section 216][592]
+    Evidence Act 2006 (2006 No 69): [section 216][594]
     
-    Insolvency Act 2006 (2006 No 55): [section 445][690]
+    Insolvency Act 2006 (2006 No 55): [section 445][692]
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][664]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][666]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM364942
 [2]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM364943
 [3]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM364944
@@ -10712,367 +10707,368 @@ Amendments relating to other matters
 [510]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM96905
 [511]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM96908
 [512]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62897
-[513]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62890
-[514]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62891
-[515]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM1151900
-[516]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM1152186
-[517]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM141499
-[518]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM272417
-[519]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM411300
-[520]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM411297
-[521]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62898
-[522]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63200
-[523]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM89466
-[524]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63225
-[525]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368117
-[526]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368119
-[527]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368129
-[528]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368135
-[529]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63234
-[530]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM51919
-[531]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM1002023
-[532]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM154035
-[533]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM154036
-[534]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM139150
-[535]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM346884
-[536]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM281771
-[537]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM133688
-[538]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM305414
-[539]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM281009
-[540]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM311635
-[541]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM165237
-[542]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM1002056
-[543]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62871
-[544]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62872
-[545]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62874
-[546]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM411301
-[547]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62875
-[548]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62877
-[549]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM144692
-[550]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62878
-[551]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62880
-[552]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62881
-[553]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62882
-[554]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872801
-[555]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM410792
-[556]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM411310
-[557]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62883
-[558]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872802
-[559]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62885
-[560]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62887
-[561]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62374
-[562]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62375
-[563]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62377
-[564]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62389
-[565]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM391405
-[566]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM195097
-[567]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM195534
-[568]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63203
-[569]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62383
-[570]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM411294
-[571]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62834
-[572]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62392
-[573]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM1460500
-[574]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63249
-[575]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63264
-[576]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM245170
-[577]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63265
-[578]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63268
-[579]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM391363
-[580]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM3043113
-[581]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM2765213
-[582]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63206
-[583]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM2765214
-[584]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63442
-[585]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63716
-[586]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM297447
-[587]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM297448
-[588]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63445
-[589]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM391422
-[590]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM1102383
-[591]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM393462
-[592]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM394552
-[593]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM968388
-[594]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM3142702
-[595]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM3143009
-[596]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63453
-[597]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63481
-[598]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872804
-[599]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM3143010
-[600]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63720
-[601]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63732
-[602]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63733
-[603]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM321142
-[604]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63244
-[605]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63245
-[606]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63246
-[607]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63256
-[608]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM88912
-[609]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63247
-[610]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63254
-[611]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM323270
-[612]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM129495
-[613]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM129498
-[614]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM391412
-[615]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63479
-[616]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM391413
-[617]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM446000
-[618]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM2765236
-[619]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM411349
-[620]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM126296
-[621]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM133690
-[622]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM408360
-[623]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM3143011
-[624]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872806
-[625]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM3143012
-[626]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368155
-[627]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368156
-[628]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4990622
-[629]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM162982
-[630]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM162983
-[631]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM162984
-[632]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM162980
-[633]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63457
-[634]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63460
-[635]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63483
-[636]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM88215
-[637]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM313886
-[638]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63459
-[639]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872828
-[640]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872809
-[641]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63476
-[642]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM391409
-[643]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63461
-[644]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM328793
-[645]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM391410
-[646]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872810
-[647]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63462
-[648]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63464
-[649]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872812
-[650]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63463
-[651]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63467
-[652]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872813
-[653]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63465
-[654]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872815
-[655]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63466
-[656]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63468
-[657]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM147320
-[658]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM112808
-[659]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872817
-[660]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM3143013
-[661]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63469
-[662]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872818
-[663]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368167
-[664]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM162942
-[665]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63485
-[666]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368169
-[667]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368170
-[668]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM391417
-[669]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM436425
-[670]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM311191
-[671]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63907
-[672]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63430
-[673]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872820
-[674]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63431
-[675]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872821
-[676]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63432
-[677]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872822
-[678]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872823
-[679]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63494
-[680]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63493
-[681]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62817
-[682]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM330555
-[683]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62819
-[684]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62837
-[685]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62838
-[686]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872826
-[687]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62825
-[688]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM385298
-[689]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62827
-[690]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM387857
-[691]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62829
-[692]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62830
-[693]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM330504
-[694]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM330552
-[695]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62865
-[696]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63297
-[697]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63401
-[698]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63299
-[699]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63413
-[700]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63415
-[701]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63403
-[702]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63411
-[703]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63405
-[704]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63418
-[705]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63420
-[706]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63422
-[707]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63424
-[708]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63426
-[709]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM441110
-[710]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM329886
-[711]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM329895
-[712]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM329897
-[713]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM330201
-[714]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM330205
-[715]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63774
-[716]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63765
-[717]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM3142733
-[718]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63743
-[719]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM1375421
-[720]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63746
-[721]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63752
-[722]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63759
-[723]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM126527
-[724]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM230272
-[725]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63766
-[726]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63773
-[727]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63775
-[728]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63776
-[729]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63777
-[730]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63779
-[731]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63780
-[732]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM1440300
-[733]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM1441347
-[734]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM398462
-[735]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63267
-[736]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63903
-[737]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM438106
-[738]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM438501
-[739]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM269037
-[740]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM271614
-[741]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM271619
-[742]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM271679
-[743]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM140144
-[744]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM140199
-[745]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63443
-[746]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63495
-[747]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63435
-[748]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63471
-[749]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63437
-[750]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63438
-[751]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63444
-[752]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63455
-[753]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63428
-[754]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62899
-[755]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63712
-[756]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63723
-[757]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63725
-[758]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63262
-[759]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63734
-[760]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM1949
-[761]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63748
-[762]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM175774
-[763]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62811
-[764]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63236
-[765]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63257
-[766]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM272427
-[767]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63219
-[768]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368122
-[769]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368124
-[770]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368121
-[771]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368123
-[772]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368125
-[773]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM392629
-[774]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM2765234
-[775]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368136
-[776]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368137
-[777]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM968961
-[778]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM969644
-[779]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63226
-[780]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63227
-[781]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63230
-[782]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63231
-[783]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368140
-[784]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63232
-[785]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63233
-[786]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63235
-[787]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368143
-[788]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368146
-[789]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368148
-[790]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368153
-[791]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368157
-[792]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368152
-[793]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM126251
-[794]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4990625
-[795]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM264952
-[796]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4990626
-[797]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4990627
-[798]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4990628
-[799]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4990629
-[800]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368166
-[801]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63472
-[802]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63473
-[803]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM391411
-[804]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM310742
-[805]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63480
-[806]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62831
-[807]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62833
-[808]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62839
-[809]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62841
-[810]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62843
-[811]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368182
-[812]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62845
-[813]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM143291
-[814]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM446395
-[815]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM446842
-[816]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62847
-[817]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368181
-[818]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62852
-[819]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62850
-[820]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62854
-[821]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62856
-[822]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM330566
-[823]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62858
-[824]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62861
-[825]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62863
-[826]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62823
-[827]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM317244
-[828]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM323278
-[829]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM345976
-[830]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM294857
-[831]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM368913
-[832]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM379239
-[833]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM371932
-[834]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM36229
-[835]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM373810
-[836]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM209713
-[837]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM411841
-[838]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM1307637
-[839]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM224587
-[840]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM44673
-[841]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM71814
-[842]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM323032
-[843]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM251693
-[844]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM441012
-[845]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM220373
-[846]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM250601
-[847]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM211455
-[848]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM360781
-[849]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM314014
-[850]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM350415
-[851]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM152785
-[852]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM410798
-[853]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM398449
-[854]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM157820
-[855]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM328991
-[856]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM221447
-[857]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM367240
-[858]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM212682
-[859]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM30509
-[860]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM391459
-[861]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM73159
-[862]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM224102
-[863]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM423790
-[864]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM261029
-[865]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM289859
-[866]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM328872
-[867]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM411379
-[868]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM2765200
-[869]: http://www.pco.parliament.govt.nz/reprints/
-[870]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM195439
-[871]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[872]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM195468
-[873]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM195470
-[874]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4990615
-[875]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM1375400
-[876]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM968381
+[513]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM3360714
+[514]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62890
+[515]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62891
+[516]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM1151900
+[517]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM1152186
+[518]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM141499
+[519]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM272417
+[520]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM411300
+[521]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM411297
+[522]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62898
+[523]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63200
+[524]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM89466
+[525]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63225
+[526]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368117
+[527]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368119
+[528]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368129
+[529]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368135
+[530]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63234
+[531]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM51919
+[532]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM1002023
+[533]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM154035
+[534]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM154036
+[535]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM139150
+[536]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM346884
+[537]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM281771
+[538]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM133688
+[539]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM305414
+[540]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM281009
+[541]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM3360053
+[542]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM165237
+[543]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM1002056
+[544]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62871
+[545]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62872
+[546]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62874
+[547]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM411301
+[548]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62875
+[549]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62877
+[550]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM144692
+[551]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62878
+[552]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62880
+[553]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62881
+[554]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62882
+[555]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872801
+[556]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM410792
+[557]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM411310
+[558]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62883
+[559]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872802
+[560]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62885
+[561]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62887
+[562]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62374
+[563]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62375
+[564]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62377
+[565]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62389
+[566]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM391405
+[567]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM2997643
+[568]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM2998573
+[569]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM2998633
+[570]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63203
+[571]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62383
+[572]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM411294
+[573]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62834
+[574]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62392
+[575]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM1460500
+[576]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63249
+[577]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63264
+[578]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM245170
+[579]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63265
+[580]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63268
+[581]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM391363
+[582]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM3043113
+[583]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM2765213
+[584]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63206
+[585]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM2765214
+[586]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63442
+[587]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63716
+[588]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM297447
+[589]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM297448
+[590]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63445
+[591]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM391422
+[592]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM1102383
+[593]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM393462
+[594]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM394552
+[595]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM968388
+[596]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM3142702
+[597]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM3143009
+[598]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63453
+[599]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63481
+[600]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872804
+[601]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM3143010
+[602]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63720
+[603]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63732
+[604]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63733
+[605]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM321142
+[606]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63244
+[607]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63245
+[608]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63246
+[609]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63256
+[610]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM88912
+[611]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63247
+[612]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63254
+[613]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM323270
+[614]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM129495
+[615]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM129498
+[616]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM391412
+[617]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63479
+[618]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM391413
+[619]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM446000
+[620]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM2765236
+[621]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM411349
+[622]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM126296
+[623]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM133690
+[624]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM408360
+[625]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM3143011
+[626]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872806
+[627]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM3143012
+[628]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368155
+[629]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368156
+[630]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4990622
+[631]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM162982
+[632]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM162983
+[633]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM162984
+[634]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM162980
+[635]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63457
+[636]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63460
+[637]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63483
+[638]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM88215
+[639]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM313886
+[640]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63459
+[641]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872828
+[642]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872809
+[643]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63476
+[644]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM391409
+[645]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63461
+[646]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM328793
+[647]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM391410
+[648]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872810
+[649]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63462
+[650]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63464
+[651]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872812
+[652]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63463
+[653]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63467
+[654]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872813
+[655]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63465
+[656]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872815
+[657]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63466
+[658]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63468
+[659]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM147320
+[660]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM112808
+[661]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872817
+[662]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM3143013
+[663]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63469
+[664]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872818
+[665]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368167
+[666]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM162942
+[667]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63485
+[668]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368169
+[669]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368170
+[670]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM391417
+[671]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM436425
+[672]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM3360067
+[673]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM367320
+[674]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63430
+[675]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872820
+[676]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63431
+[677]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872821
+[678]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63432
+[679]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872822
+[680]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872823
+[681]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63494
+[682]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63493
+[683]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62817
+[684]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM330555
+[685]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62819
+[686]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62837
+[687]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62838
+[688]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4872826
+[689]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62825
+[690]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM385298
+[691]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62827
+[692]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM387857
+[693]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62829
+[694]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62830
+[695]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM330504
+[696]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM330552
+[697]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62865
+[698]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63297
+[699]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63401
+[700]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63299
+[701]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63413
+[702]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63415
+[703]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63403
+[704]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63411
+[705]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63405
+[706]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63418
+[707]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63420
+[708]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63422
+[709]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63424
+[710]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63426
+[711]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM441110
+[712]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM329886
+[713]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM329895
+[714]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM329897
+[715]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM330201
+[716]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM330205
+[717]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63774
+[718]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63765
+[719]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM3142733
+[720]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63743
+[721]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM1375421
+[722]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63746
+[723]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63752
+[724]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63759
+[725]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM126527
+[726]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM230272
+[727]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63766
+[728]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63773
+[729]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63775
+[730]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63776
+[731]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63777
+[732]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63779
+[733]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63780
+[734]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM1440300
+[735]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM1441347
+[736]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM398462
+[737]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63267
+[738]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63903
+[739]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM438106
+[740]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM438501
+[741]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM269037
+[742]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM271614
+[743]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM271619
+[744]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM271679
+[745]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM140144
+[746]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM140199
+[747]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63443
+[748]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63495
+[749]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63435
+[750]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63471
+[751]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63437
+[752]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63438
+[753]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63444
+[754]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63455
+[755]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63428
+[756]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62899
+[757]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63712
+[758]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63723
+[759]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63725
+[760]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63262
+[761]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63734
+[762]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM1949
+[763]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63748
+[764]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM175774
+[765]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62811
+[766]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63236
+[767]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63257
+[768]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM272427
+[769]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63219
+[770]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368122
+[771]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368124
+[772]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368121
+[773]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368123
+[774]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368125
+[775]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM392629
+[776]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM2765234
+[777]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368136
+[778]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368137
+[779]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM968961
+[780]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM969644
+[781]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63226
+[782]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63227
+[783]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63230
+[784]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63231
+[785]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368140
+[786]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63232
+[787]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63233
+[788]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63235
+[789]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368143
+[790]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368146
+[791]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368148
+[792]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368153
+[793]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368157
+[794]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368152
+[795]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM126251
+[796]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4990625
+[797]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM264952
+[798]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4990626
+[799]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4990627
+[800]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4990628
+[801]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4990629
+[802]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368166
+[803]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63472
+[804]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63473
+[805]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM391411
+[806]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM3359902
+[807]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM63480
+[808]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62831
+[809]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62833
+[810]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62839
+[811]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62841
+[812]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62843
+[813]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368182
+[814]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62845
+[815]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM143291
+[816]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM446395
+[817]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM446842
+[818]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62847
+[819]: http://www.legislation.govt.nz/act/public/2006/0001/latest/whole.html#DLM368181
+[820]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62852
+[821]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62850
+[822]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62854
+[823]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62856
+[824]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM330566
+[825]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62858
+[826]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62861
+[827]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62863
+[828]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM62823
+[829]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM317244
+[830]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM323278
+[831]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM345976
+[832]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM294857
+[833]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM368913
+[834]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM379239
+[835]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM371932
+[836]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM36229
+[837]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM373810
+[838]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM209713
+[839]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM411841
+[840]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM1307637
+[841]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM224587
+[842]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM44673
+[843]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM71814
+[844]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM323032
+[845]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM251693
+[846]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM441012
+[847]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM220373
+[848]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM250601
+[849]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM211455
+[850]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM360781
+[851]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM314014
+[852]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM350415
+[853]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM152785
+[854]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM410798
+[855]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM398449
+[856]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM157820
+[857]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM328991
+[858]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM221447
+[859]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM367240
+[860]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM212682
+[861]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM30509
+[862]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM391459
+[863]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM73159
+[864]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM224102
+[865]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM423790
+[866]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM261029
+[867]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM289859
+[868]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM328872
+[869]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM411379
+[870]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM2765200
+[871]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM2998516
+[872]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM2998515
+[873]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM2998532
+[874]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[875]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM4990615
+[876]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM1375400
+[877]: http://www.legislation.govt.nz/act/public/2006/0001/latest/link.aspx?id=DLM968381
