@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -164,6 +164,8 @@ This Act is administered by the Ministry for Primary Industries.
 
 [Schedule 3][67]  
 [Forms of warrant to search place other than place of business][67]
+
+\[Repealed\]
 
 [Schedule 4][68]  
 [Enactments repealed][68]
@@ -1331,7 +1333,7 @@ Miscellaneous provisions
 
 ##### 49 Offences and penalties
     
-*   (1) Every person who knowingly fails to comply with [section 41(1)(b)(ii)][50] commits an offence, and is liable on summary conviction---
+*   (1) Every person who knowingly fails to comply with [section 41(1)(b)(ii)][50] commits an offence, and is liable on conviction---
         
     *   (a) to a fine not exceeding $150,000, if the shortfall in the account exceeds $500,000:
     
@@ -1339,7 +1341,7 @@ Miscellaneous provisions
     
     *   (c) to a fine not exceeding $30,000, if the shortfall in the account does not exceed $100,000\.
     
-    (2) Every licensee of licensed premises commits an offence, and is liable on summary conviction to a fine not exceeding $20,000, who---
+    (2) Every licensee of licensed premises commits an offence, and is liable on conviction to a fine not exceeding $20,000, who---
         
     *   (a) knowingly makes a false or misleading levy return; or
     
@@ -1357,7 +1359,13 @@ Miscellaneous provisions
     
     *   (b) in response to a request under subsection (1) or subsection (2) of [section 48][58], wilfully gives the Board false or misleading information,---
     
-    commits an offence, and is liable on summary conviction to a fine not exceeding $15,000\.
+    commits an offence, and is liable on conviction to a fine not exceeding $15,000\.
+    
+    Section 49(1): amended, on 1 July 2013, by [section 413][100] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 49(2): amended, on 1 July 2013, by [section 413][100] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 49(3): amended, on 1 July 2013, by [section 413][100] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 50 Regulations
     
@@ -1568,7 +1576,7 @@ Provisions applying to directors of Board
     
     (2) For the purposes of this schedule a director is not interested in a transaction to which the Board is a party if the transaction comprises only the giving by the Board of security to a third party which has no connection with the director, at the request of the third party, in respect of a debt or obligation of the Board for which the director or another person has personally assumed responsibility in whole or in part under a guarantee, indemnity, or by the deposit of a security.
     
-    Schedule 1 clause 9(1)(d): amended, on 26 April 2005, by [section 7][100] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Schedule 1 clause 9(1)(d): amended, on 26 April 2005, by [section 7][101] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 10 Disclosure of interest
     
@@ -1582,7 +1590,9 @@ Provisions applying to directors of Board
     
     (3) A failure by a director to comply with subclause (1) does not affect the validity of a transaction entered into by the Board or the director.
     
-    (4) Every director who fails to comply with subclause (1) commits an offence and is liable on summary conviction to a fine not exceeding $10,000\.
+    (4) Every director who fails to comply with subclause (1) commits an offence and is liable on conviction to a fine not exceeding $10,000\.
+    
+    Schedule 1 clause 10(4): amended, on 1 July 2013, by [section 413][100] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 11 Avoidance of transactions
     
@@ -1604,7 +1614,7 @@ Provisions applying to directors of Board
 
 ##### 12 Effect on third parties
     
-*   The avoidance of a transaction under [clause 11][101] does not affect the title or interest of a person in or to property which that person has acquired if the property was acquired---
+*   The avoidance of a transaction under [clause 11][102] does not affect the title or interest of a person in or to property which that person has acquired if the property was acquired---
         
     *   (a) from a person other than the Board; and
     
@@ -1616,7 +1626,7 @@ Provisions applying to directors of Board
 
 ##### 13 Application of clauses 10 and 11 in certain cases
     
-*   Nothing in [clauses 10][102] and [11][101] applies in relation to---
+*   Nothing in [clauses 10][103] and [11][102] applies in relation to---
         
     *   (a) the fixing of any levy by the Board; or
     
@@ -1650,7 +1660,7 @@ Provisions applying to directors of Board
     
     *   (c) in accordance with subclause (2); or
     
-    *   (d) in complying with [clause 10][102].
+    *   (d) in complying with [clause 10][103].
     
     (2) A director may disclose, make use of, or act on the information if---
         
@@ -1767,9 +1777,9 @@ Provisions applying to Board and board of directors
     
     (7) Except as provided in this Act and any regulations made under it, the board of directors may regulate its procedure at meetings in any manner it thinks fit.
     
-    Schedule 2 clause 5(3): amended, on 31 July 2002, by [section 4][103] of the Pork Industry Board Amendment Act 2001 (2001 No 76).
+    Schedule 2 clause 5(3): amended, on 31 July 2002, by [section 4][104] of the Pork Industry Board Amendment Act 2001 (2001 No 76).
     
-    Schedule 2 clause 5(6)(a): amended, on 31 July 2002, by [section 4][103] of the Pork Industry Board Amendment Act 2001 (2001 No 76). 
+    Schedule 2 clause 5(6)(a): amended, on 31 July 2002, by [section 4][104] of the Pork Industry Board Amendment Act 2001 (2001 No 76). 
 
 ##### 6 Chairperson and Deputy Chairperson
     
@@ -1791,13 +1801,13 @@ Provisions applying to Board and board of directors
 
 ##### 7 Contracts of Board
     
-*   (1) Subject to [clause 8][104], a contract or other enforceable obligation may be entered into by the Board as follows:
+*   (1) Subject to [clause 8][105], a contract or other enforceable obligation may be entered into by the Board as follows:
         
     *   (a) an obligation which, if entered into by a natural person, would, by law, be required to be by deed, may be entered into on behalf of the Board in writing signed under the name of the Board by---
             
         *   (i) 2 or more directors; or
         
-        *   (ii) 1 or more persons authorised by the Board under [clause 8][104]:
+        *   (ii) 1 or more persons authorised by the Board under [clause 8][105]:
         
         
     
@@ -1856,6 +1866,8 @@ Forms of warrant to search place other than place of business
 
 [s 45][54]
 
+\[Repealed\]
+    
 *   Schedule 3: repealed, on 1 October 2012, by [section 292(6)][95] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ---
@@ -1867,7 +1879,7 @@ Enactments repealed
 
 ##### Department of Justice (Restructuring) Act 1995 (1995 No 39)
 
-_Amendment(s) incorporated in the [Act(s)][105]._
+_Amendment(s) incorporated in the [Act(s)][106]._
 
 ##### Meat Amendment Act 1985 (1985 No 142)
 
@@ -1875,7 +1887,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Official Information Amendment Act 1987 (1987 No 8)
 
-_Amendment(s) incorporated in the [Act(s)][106]._
+_Amendment(s) incorporated in the [Act(s)][107]._
 
 ##### Pork Industry Board Act 1982 (1982 No 138)
 
@@ -1885,85 +1897,15 @@ _Amendment(s) incorporated in the [Act(s)][106]._
 
 ##### Poultry Board Act Repeal Act 1989 (1989 No 4)
 
-_Amendment(s) incorporated in the [Act(s)][107]._
+_Amendment(s) incorporated in the [Act(s)][108]._
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][108]._
+_Amendment(s) incorporated in the [Act(s)][109]._
 
 ##### Trustee Amendment Act 1988 (1988 No 119)
 
-_Amendment(s) incorporated in the [Act(s)][109]._
-
----
-
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][110].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][111] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
+_Amendment(s) incorporated in the [Act(s)][110]._
 
 ---
 
@@ -1981,23 +1923,23 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Pork Industry Board Act 1997\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Pork Industry Board Act 1997\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][112] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][111] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][113] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][112] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][114] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][113] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][115] and [17E][116] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][114] and [17E][115] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -2030,11 +1972,13 @@ Amendments, repeals, and miscellaneous provisions
     
 *   Search and Surveillance Act 2012 (2012 No 24): [section 292][95]
     
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][100]
+    
     Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19): [section 7][88]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][100]
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][101]
     
-    [Pork Industry Board Amendment Act 2001][117] (2001 No 76)
+    [Pork Industry Board Amendment Act 2001][116] (2001 No 76)
     
     Public Audit Act 2001 (2001 No 10): [section 52][85]
     
@@ -2142,21 +2086,20 @@ Amendments, repeals, and miscellaneous provisions
 [97]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2136781
 [98]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM129109
 [99]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM378150
-[100]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM333795
-[101]: http://www.legislation.govt.nz/act/public/1997/0106/latest/whole.html#DLM422459
-[102]: http://www.legislation.govt.nz/act/public/1997/0106/latest/whole.html#DLM422458
-[103]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM113340
-[104]: http://www.legislation.govt.nz/act/public/1997/0106/latest/whole.html#DLM422478
-[105]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM367258
-[106]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM101358
-[107]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM143212
-[108]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM163182
-[109]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM135633
-[110]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2136500
-[111]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM4686448
-[112]: http://www.pco.parliament.govt.nz/reprints/
-[113]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM195439
-[114]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[115]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM195468
-[116]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM195470
-[117]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM113333
+[100]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM3360714
+[101]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM333795
+[102]: http://www.legislation.govt.nz/act/public/1997/0106/latest/whole.html#DLM422459
+[103]: http://www.legislation.govt.nz/act/public/1997/0106/latest/whole.html#DLM422458
+[104]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM113340
+[105]: http://www.legislation.govt.nz/act/public/1997/0106/latest/whole.html#DLM422478
+[106]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM367258
+[107]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM101358
+[108]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM143212
+[109]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM163182
+[110]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM135633
+[111]: http://www.pco.parliament.govt.nz/reprints/
+[112]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM195439
+[113]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[114]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM195468
+[115]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM195470
+[116]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM113333
