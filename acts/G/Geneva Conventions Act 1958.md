@@ -1,5 +1,5 @@
 Reprint  
-as at 12 December 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -133,7 +133,7 @@ An Act to enable effect to be given to certain International Conventions done at
 
 ##### 3 Punishment for grave breaches of Conventions or First Protocol
     
-*   (1) Any person who in New Zealand or elsewhere commits, or aids or abets or procures the commission by another person of, a grave breach of any of the Conventions or of the [First Protocol][21] is guilty of an indictable offence.
+*   (1) Any person who in New Zealand or elsewhere commits, or aids or abets or procures the commission by another person of, a grave breach of any of the Conventions or of the [First Protocol][21] is guilty of an offence.
     
     (2) For the purposes of this section---
         
@@ -181,9 +181,11 @@ An Act to enable effect to be given to certain International Conventions done at
     
     Section 3: replaced, on 10 July 1987, by section 4 of the Geneva Conventions Amendment Act 1987 (1987 No 144).
     
-    Section 3(4)(b): replaced, on 1 October 2000, by [section 185][26] of the International Crimes and International Criminal Court Act 2000 (2000 No 26).
+    Section 3(1): amended, on 1 July 2013, by [section 413][26] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 3(7): amended, on 1 July 1993, by [section 6(1)][27] of the Foreign Affairs Amendment Act 1993 (1993 No 48).
+    Section 3(4)(b): replaced, on 1 October 2000, by [section 185][27] of the International Crimes and International Criminal Court Act 2000 (2000 No 26).
+    
+    Section 3(7): amended, on 1 July 1993, by [section 6(1)][28] of the Foreign Affairs Amendment Act 1993 (1993 No 48).
     
     Section 3(8): repealed, on 1 July 2009, by [section 87][24] of the Court Martial Act 2007 (2007 No 101).
 
@@ -221,9 +223,9 @@ An Act to enable effect to be given to certain International Conventions done at
     
     (5) Any court which adjourns a trial for the purpose of enabling the requirements of this section to be complied with may, notwithstanding anything in any other enactment or any rule of law, remand the accused for the period of the adjournment.
     
-    Section 4 heading: amended, on 17 May 2005, by [section 3][28] of the Geneva Conventions Amendment Act 2005 (2005 No 54).
+    Section 4 heading: amended, on 17 May 2005, by [section 3][29] of the Geneva Conventions Amendment Act 2005 (2005 No 54).
     
-    Section 4(1)(b): amended, on 17 May 2005, by [section 3][28] of the Geneva Conventions Amendment Act 2005 (2005 No 54).
+    Section 4(1)(b): amended, on 17 May 2005, by [section 3][29] of the Geneva Conventions Amendment Act 2005 (2005 No 54).
 
 ##### 5 Legal representation of prisoners of war
     
@@ -261,13 +263,13 @@ An Act to enable effect to be given to certain International Conventions done at
     
     (6) \[Repealed\]
     
-    Section 6(1): amended, on 17 May 2005, by [section 4(1)][29] of the Geneva Conventions Amendment Act 2005 (2005 No 54).
+    Section 6(1): amended, on 17 May 2005, by [section 4(1)][30] of the Geneva Conventions Amendment Act 2005 (2005 No 54).
     
-    Section 6(2): repealed, on 1 December 1983, by [section 208(1)][30] of the Armed Forces Discipline Act 1971 (1971 No 53).
+    Section 6(2): repealed, on 1 December 1983, by [section 208(1)][31] of the Armed Forces Discipline Act 1971 (1971 No 53).
     
-    Section 6(5): repealed, on 17 May 2005, by [section 4(2)][29] of the Geneva Conventions Amendment Act 2005 (2005 No 54).
+    Section 6(5): repealed, on 17 May 2005, by [section 4(2)][30] of the Geneva Conventions Amendment Act 2005 (2005 No 54).
     
-    Section 6(6): repealed, on 17 May 2005, by [section 4(2)][29] of the Geneva Conventions Amendment Act 2005 (2005 No 54).
+    Section 6(6): repealed, on 17 May 2005, by [section 4(2)][30] of the Geneva Conventions Amendment Act 2005 (2005 No 54).
 
 ##### 7 Reduction of sentence, and custody of protected prisoners of war and internees
     
@@ -295,7 +297,7 @@ An Act to enable effect to be given to certain International Conventions done at
     
     *   (e) any design or wording so nearly resembling any of the emblems or designations specified in the foregoing provisions of this subsection as to be capable of being mistaken for, or, as the case may be, understood as referring to, one of those emblems.
     
-    (2) If any person contravenes the foregoing provisions of this section he shall be guilty of an offence and be liable on summary conviction to a fine not exceeding $10,000 and to forfeit any goods upon or in connection with which the emblem, designation, design, or wording was used.
+    (2) If any person contravenes the foregoing provisions of this section he shall be guilty of an offence and be liable on conviction to a fine not exceeding $10,000 and to forfeit any goods upon or in connection with which the emblem, designation, design, or wording was used.
     
     (3) The Minister of Defence or a person authorised by that Minister to give consents under this section shall not refuse to give such a consent, and shall not withdraw such a consent, except for the purpose of giving effect to the provisions of the Conventions or of the Protocols.
     
@@ -315,7 +317,9 @@ An Act to enable effect to be given to certain International Conventions done at
     
     (9) Subsection (2) of section 18 of the Trade Marks Act 1953 is hereby consequentially repealed.
     
-    Section 8(2): amended, on 12 December 2012, by [section 10(3)(b)][31] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
+    Section 8(2): amended, on 1 July 2013, by [section 413][26] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 8(2): amended, on 12 December 2012, by [section 10(3)(b)][32] of the Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012 (2012 No 96).
     
     Section 8(3): amended, on 10 July 1987, by section 5(2) of the Geneva Conventions Amendment Act 1987 (1987 No 144).
 
@@ -359,35 +363,37 @@ An Act to enable effect to be given to certain International Conventions done at
     
     (4) The other Ministers specified in this Act may exercise the powers conferred on them by this Act in the Cook Islands, and Tokelau.
     
-    (5) All criminal jurisdiction conferred by this Act may be exercised by the High Court of the Cook Islands in the ordinary course of its criminal jurisdiction. For the purposes of this subsection, subsection (1) of section 3 shall apply as if the word ""indictable"" were omitted.
+    (5) All criminal jurisdiction conferred by this Act may be exercised by the High Court of the Cook Islands in the ordinary course of its criminal jurisdiction.
     
     (6) \[Repealed\]
     
-    Section 10 heading: amended, at 11 pm on 1 January 1962, pursuant to [section 9][32] of the Western Samoa Act 1961 (1961 No 68).
+    Section 10 heading: amended, at 11 pm on 1 January 1962, pursuant to [section 9][33] of the Western Samoa Act 1961 (1961 No 68).
     
-    Section 10(1): amended, on 9 December 1976, pursuant to [section 3(8)][33] of the Tokelau Amendment Act 1976 (1976 No 122).
+    Section 10(1): amended, on 9 December 1976, pursuant to [section 3(8)][34] of the Tokelau Amendment Act 1976 (1976 No 122).
     
-    Section 10(1): amended, at 11 pm on 1 January 1962, by [section 9][32] of the Western Samoa Act 1961 (1961 No 68).
+    Section 10(1): amended, at 11 pm on 1 January 1962, by [section 9][33] of the Western Samoa Act 1961 (1961 No 68).
     
-    Section 10(2): amended, on 9 December 1976, pursuant to [section 3(8)][33] of the Tokelau Amendment Act 1976 (1976 No 122).
+    Section 10(2): amended, on 9 December 1976, pursuant to [section 3(8)][34] of the Tokelau Amendment Act 1976 (1976 No 122).
     
-    Section 10(2): amended, at 11 pm on 1 January 1962, by [section 9][32] of the Western Samoa Act 1961 (1961 No 68).
+    Section 10(2): amended, at 11 pm on 1 January 1962, by [section 9][33] of the Western Samoa Act 1961 (1961 No 68).
     
-    Section 10(3)(a): amended, at 10.30 pm on 4 August 1965, pursuant to [section 57(3)][34] of the Cook Islands Amendment Act 1964 (1964 No 70).
+    Section 10(3)(a): amended, at 10.30 pm on 4 August 1965, pursuant to [section 57(3)][35] of the Cook Islands Amendment Act 1964 (1964 No 70).
     
-    Section 10(3)(b): amended, at 11 pm on 19 October 1974, pursuant to [section 2(2)(c)][35] of the Niue Amendment Act 1974 (1974 No 43).
+    Section 10(3)(b): amended, at 11 pm on 19 October 1974, pursuant to [section 2(2)(c)][36] of the Niue Amendment Act 1974 (1974 No 43).
     
-    Section 10(3)(c): amended, on 9 December 1976, pursuant to [section 3(8)][33] of the Tokelau Amendment Act 1976 (1976 No 122). 
+    Section 10(3)(c): amended, on 9 December 1976, pursuant to [section 3(8)][34] of the Tokelau Amendment Act 1976 (1976 No 122). 
     
-    Section 10(3)(d): repealed, at 11 pm on 1 January 1962, by [section 10(1)][36] of the Western Samoa Act 1961 (1961 No 68).
+    Section 10(3)(d): repealed, at 11 pm on 1 January 1962, by [section 10(1)][37] of the Western Samoa Act 1961 (1961 No 68).
     
-    Section 10(4): amended, on 9 December 1976, pursuant to [section 3(8)][33] of the Tokelau Amendment Act 1976 (1976 No 122).
+    Section 10(4): amended, on 9 December 1976, pursuant to [section 3(8)][34] of the Tokelau Amendment Act 1976 (1976 No 122).
     
-    Section 10(4): amended, at 11 pm on 1 January 1962, by [section 9][32] of the Western Samoa Act 1961 (1961 No 68).
+    Section 10(4): amended, at 11 pm on 1 January 1962, by [section 9][33] of the Western Samoa Act 1961 (1961 No 68).
     
-    Section 10(5): amended, at 11 pm on 1 January 1962, by [section 9][32] of the Western Samoa Act 1961 (1961 No 68).
+    Section 10(5): amended, on 1 July 2013, by [section 413][26] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 10(6): repealed, at 11 pm on 1 January 1962, by [section 10(1)][36] of the Western Samoa Act 1961 (1961 No 68).
+    Section 10(5): amended, at 11 pm on 1 January 1962, by [section 9][33] of the Western Samoa Act 1961 (1961 No 68).
+    
+    Section 10(6): repealed, at 11 pm on 1 January 1962, by [section 10(1)][37] of the Western Samoa Act 1961 (1961 No 68).
 
 ##### 11 Repeal and savings
     
@@ -1598,7 +1604,7 @@ Taking into consideration the provisions of the present Convention relating to r
 ## Part III  
 Captivity
 
-### Section I Beginning of captivity
+### Section I---Beginning of captivity
 
 ##### Article 17
 
@@ -1644,7 +1650,7 @@ The Detaining Power shall supply prisoners of war who are being evacuated with s
 
 If prisoners of war must, during evacuation, pass through transit camps, their stay in such camps shall be as brief as possible.
 
-### Section II Internment of prisoners of war
+### Section II---Internment of prisoners of war
 
 #### Chapter I---General observations
 
@@ -1864,7 +1870,7 @@ Mail and parcels addressed to their former camp shall be forwarded to them witho
 
 The costs of transfers shall be borne by the Detaining Power.
 
-### Section III Labour of prisoners of war
+### Section III---Labour of prisoners of war
 
 ##### Article 49
 
@@ -1944,7 +1950,7 @@ The treatment of prisoners of war who work for private persons, even if the latt
 
 Such prisoners of war shall have the right to remain in communication with the prisoners' representatives in the camps on which they depend.
 
-### Section IV Financial resources of prisoners of war
+### Section IV---Financial resources of prisoners of war
 
 ##### Article 58
 
@@ -2040,7 +2046,7 @@ Any claim by a prisoner of war for compensation in respect of any injury or othe
 
 Any claim by a prisoner of war for compensation in respect of personal effects, moneys, or valuables impounded by the Detaining Power under Article 18 and not forthcoming on his repatriation, or in respect of loss alleged to be due to the fault of the Detaining Power or any of its servants, shall likewise be referred to the Power on which he depends. Nevertheless, any such personal effects required for use by the prisoners of war whilst in captivity shall be replaced at the expense of the Detaining Power. The Detaining Power will, in all cases, provide the prisoner of war with a statement, signed by a responsible officer, showing all available information regarding the reasons why such effects, moneys or valuables have not been restored to him. A copy of this statement will be forwarded to the Power on which he depends through the Central Prisoners of War Agency provided for in Article 123\.
 
-### Section V Relations of prisoners of war with the exterior
+### Section V---Relations of prisoners of war with the exterior
 
 ##### Article 69
 
@@ -2118,7 +2124,7 @@ The Detaining Power shall provide all facilities for the transmission, through t
 
 In all cases they shall facilitate the preparation and execution of such documents on behalf of prisoners of war; in particular, they shall allow them to consult a lawyer and shall take what measures are necessary for the authentication of their signatures.
 
-### Section VI Relations between prisoners of war and the authorities
+### Section VI---Relations between prisoners of war and the authorities
 
 #### Chapter I---Complaints of prisoners of war respecting the conditions of captivity
 
@@ -2411,7 +2417,7 @@ In any case, prisoners of war sentenced to a penalty depriving them of their lib
 ## Part IV  
 Termination of captivity
 
-### Section I Direct repatriation and accommodation in neutral countries
+### Section I---Direct repatriation and accommodation in neutral countries
 
 ##### Article 109
 
@@ -2489,7 +2495,7 @@ The costs of repatriating prisoners of war or of transporting them to a neutral 
 
 No repatriated person may be employed on active military service.
 
-### Section II Release and repatriation of prisoners of war at the close of hostilities
+### Section II---Release and repatriation of prisoners of war at the close of hostilities
 
 ##### Article 118
 
@@ -2521,7 +2527,7 @@ Parties to the conflict shall communicate to each other the names of any prisone
 
 By agreement between the Parties to the conflict, commissions shall be established for the purpose of searching for dispersed prisoners of war and of assuring their repatriation with the least possible delay.
 
-### Section III Death of prisoners of war
+### Section III---Death of prisoners of war
 
 ##### Article 120
 
@@ -2595,7 +2601,7 @@ As soon as relief supplies or material intended for the above-mentioned purposes
 ## Part VI  
 Execution of the Convention
 
-### Section I General provisions
+### Section I---General provisions
 
 ##### Article 126
 
@@ -2643,7 +2649,7 @@ If agreement has not been reached concerning the procedure for the inquiry, the 
 
 Once the violation has been established, the Parties to the conflict shall put an end to it and shall repress it with the least possible delay.
 
-### Section II Final provisions
+### Section II---Final provisions
 
 ##### Article 133
 
@@ -2945,7 +2951,7 @@ Each Party to the conflict shall facilitate inquiries made by members of familie
 ## Part III  
 Status and treatment of protected persons
 
-### Section I Provisions common to the territories of the Parties to the conflict and to occupied territories
+### Section I---Provisions common to the territories of the Parties to the conflict and to occupied territories
 
 #### Article 27
 
@@ -2993,7 +2999,7 @@ Reprisals against protected persons and their property are prohibited.
 
 The taking of hostages is prohibited.
 
-### Section II Aliens in the territory of a Party to the conflict
+### Section II---Aliens in the territory of a Party to the conflict
 
 #### Article 35
 
@@ -3087,7 +3093,7 @@ In so far as they have not been previously withdrawn, restrictive measures taken
 
 Restrictive measures affecting their property shall be cancelled, in accordance with the law of the Detaining Power, as soon as possible after the close of hostilities.
 
-### Section III Occupied territories
+### Section III---Occupied territories
 
 #### Article 47
 
@@ -3325,7 +3331,7 @@ Decisions regarding such assigned residence or internment shall be made accordin
 
 Protected persons made subject to assigned residence and thus required to leave their homes shall enjoy the full benefit of Article 39 of the present Convention.
 
-### Section IV Regulations for the treatment of internees
+### Section IV---Regulations for the treatment of internees
 
 #### Chapter I---General provisions
 
@@ -3805,7 +3811,7 @@ If internees are transferred in accordance with Article 45, the transferring and
 
 The foregoing shall not prejudice such special agreements as may be concluded between Parties to the conflict concerning the exchange and repatriation of their nationals in enemy hands.
 
-### Section V Information Bureaux and Central Agency
+### Section V---Information Bureaux and Central Agency
 
 #### Article 136
 
@@ -3848,7 +3854,7 @@ The national Information Bureaux and the Central Information Agency shall enjoy 
 ## Part IV  
 Execution of the Convention
 
-### Section I General provisions
+### Section I---General provisions
 
 #### Article 142
 
@@ -3906,7 +3912,7 @@ If agreement has not been reached concerning the procedure for the enquiry, the 
 
 Once the violation has been established, the Parties to the conflict shall put an end to it and shall repress it with the least possible delay.
 
-### Section II Final provisions
+### Section II---Final provisions
 
 #### Article 150
 
@@ -4064,7 +4070,7 @@ The depositary of this Protocol shall convene a meeting of the High Contracting 
 ## Part II  
 Wounded, sick and shipwrecked
 
-### Section I General protection
+### Section I---General protection
 
 #### Article 8---Terminology
 
@@ -4258,7 +4264,7 @@ Neutral and other States not Parties to the conflict shall apply the relevant pr
 
 Reprisals against the persons and objects protected by this Part are prohibited.
 
-### Section II Medical transportation
+### Section II---Medical transportation
 
 #### Article 21---Medical vehicles
 
@@ -4390,7 +4396,7 @@ In and over land areas physically controlled by friendly forces, or in and over 
 
 *   5\. Neutral or other States not Parties to the conflict shall apply any conditions and restrictions on the passage of medical aircraft over, or on the landing of medical aircraft in, their territory equally to all Parties to the conflict.
 
-### Section III Missing and dead persons
+### Section III---Missing and dead persons
 
 #### Article 32---General principle
 
@@ -4440,7 +4446,7 @@ In the implementation of this Section, the activities of the High Contracting Pa
 Methods and means of warfare.  
 Combatant and prisoner-of-war status
 
-### Section I Methods and means of warfare
+### Section I---Methods and means of warfare
 
 #### Article 35---Basic rules
     
@@ -4512,7 +4518,7 @@ It is prohibited to order that there shall be no survivors, to threaten an adver
 
 *   3\. Airborne troops are not protected by this Article.
 
-### Section II Combatant and prisoner-of-war status
+### Section II---Combatant and prisoner-of-war status
 
 #### Article 43---Armed forces
     
@@ -4587,7 +4593,7 @@ It is prohibited to order that there shall be no survivors, to threaten an adver
 ## Part IV  
 Civilian population
 
-### Section I General protection against effects of hostilities
+### Section I---General protection against effects of hostilities
 
 #### Chapter I---Basic rule and field of application
 
@@ -4953,7 +4959,7 @@ For the purposes of this Protocol:
 
 *   4\. The _matériel_ and buildings of military units permanently assigned to civil defence organizations and exclusively devoted to the performance of civil defence tasks shall, if they fall into the hands of an adverse Party, remain subject to the laws of war. They may not be diverted from their civil defence purpose so long as they are required for the performance of civil defence tasks, except in case of imperative military necessity, unless previous arrangements have been made for adequate provision for the needs of the civilian population.
 
-### Section II Relief in favour of the civilian population
+### Section II---Relief in favour of the civilian population
 
 #### Article 68---Field of application
 
@@ -4995,7 +5001,7 @@ The provisions of this Section apply to the civilian population as defined in th
 
 *   4\. Under no circumstances may relief personnel exceed the terms of their mission under this Protocol. In particular they shall take account of the security requirements of the Party in whose territory they are carrying out their duties. The mission of any of the personnel who do not respect these conditions may be terminated.
 
-### Section III Treatment of persons in the power of a party to the conflict
+### Section III---Treatment of persons in the power of a party to the conflict
 
 #### Chapter I---Field of application and protection of persons and objects
 
@@ -5162,7 +5168,7 @@ The High Contracting Parties and the Parties to the conflict shall facilitate in
 ## Part V  
 Execution of the Conventions and of this Protocol
 
-### Section 1 General provisions
+### Section 1---General provisions
 
 #### Article 80---Measures for execution
     
@@ -5194,7 +5200,7 @@ The High Contracting Parties at all times, and the Parties to the conflict in ti
 
 The High Contracting Parties shall communicate to one another, as soon as possible, through the depositary and, as appropriate, through the Protecting Powers, their official translations of this Protocol, as well as the laws and regulations which they may adopt to ensure its application.
 
-### Section II Repression of breaches of the Conventions and of this Protocol
+### Section II---Repression of breaches of the Conventions and of this Protocol
 
 #### Article 85---Repression of breaches of this Protocol
     
@@ -5482,19 +5488,19 @@ Protocol II
 ## Part I  
 Scope of this Protocol
 
-### Article 1 Material field of application
+### Article 1---Material field of application
     
 *   1\. This Protocol, which develops and supplements Article 3 common to the Geneva Conventions of 12 August 1949 without modifying its existing conditions of application, shall apply to all armed conflicts which are not covered by Article 1 of the Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts (Protocol I) and which take place in the territory of a High Contracting Party between its armed forces and dissident armed forces or other organized armed groups which, under responsible command, exercise such control over a part of its territory as to enable them to carry out sustained and concerted military operations and to implement this Protocol.
 
 *   2\. This Protocol shall not apply to situations of internal disturbances and tensions, such as riots, isolated and sporadic acts of violence and other acts of a similar nature, as not being armed conflicts.
 
-### Article 2 Personal field of application
+### Article 2---Personal field of application
     
 *   1\. This Protocol shall be applied without any adverse distinction founded on race, colour, sex, language, religion or belief, political or other opinion, national or social origin, wealth, birth or other status, or on any other similar criteria (hereinafter referred to as ""adverse distinction"") to all persons affected by an armed conflict as defined in Article 1\.
 
 *   2\. At the end of the armed conflict, all the persons who have been deprived of their liberty or whose liberty has been restricted for reasons related to such conflict, as well as those deprived of their liberty or whose liberty is restricted after the conflict for the same reasons, shall enjoy the protection of Articles 5 and 6 until the end of such deprivation or restriction of liberty.
 
-### Article 3 Non-intervention
+### Article 3---Non-intervention
     
 *   1\. Nothing in this Protocol shall be invoked for the purpose of affecting the sovereignty of a State or the responsibility of the government, by all legitimate means, to maintain or re-establish law and order in the State or to defend the national unity and territorial integrity of the State.
 
@@ -5503,7 +5509,7 @@ Scope of this Protocol
 ## Part II  
 Humane treatment
 
-### Article 4 Fundamental guarantees
+### Article 4---Fundamental guarantees
     
 *   1\. All persons who do not take a direct part or who have ceased to take part in hostilities, whether or not their liberty has been restricted, are entitled to respect for their person, honour and convictions and religious practices. They shall in all circumstances be treated humanely, without any adverse distinction. It is prohibited to order that there shall be no survivors.
 
@@ -5541,7 +5547,7 @@ Humane treatment
     
     
 
-### Article 5 Persons whose liberty has been restricted
+### Article 5---Persons whose liberty has been restricted
     
 *   1\. In addition to the provisions of Article 4, the following provisions shall be respected as a minimum with regard to persons deprived of their liberty for reasons related to the armed conflict, whether they are interned or detained:
         
@@ -5575,7 +5581,7 @@ Humane treatment
 
 *   4\. If it is decided to release persons deprived of their liberty, necessary measures to ensure their safety shall be taken by those so deciding.
 
-### Article 6 Penal prosecutions
+### Article 6---Penal prosecutions
     
 *   1\. This Article applies to the prosecution and punishment of criminal offences related to the armed conflict.
 
@@ -5604,23 +5610,23 @@ Humane treatment
 ## Part III  
 Wounded, sick and shipwrecked
 
-### Article 7 Protection and care
+### Article 7---Protection and care
     
 *   1\. All the wounded, sick and shipwrecked, whether or not they have taken part in the armed conflict, shall be respected and protected.
 
 *   2\. In all circumstances they shall be treated humanely and shall receive, to the fullest extent practicable and with the least possible delay, the medical care and attention required by their condition. There shall be no distinction among them founded on any grounds other then medical ones.
 
-### Article 8 Search
+### Article 8---Search
 
 Whenever circumstances permit, and particularly after an engagement, all possible measures shall be taken, without delay, to search for and collect the wounded, sick and shipwrecked, to protect them against pillage and ill-treatment, to ensure their adequate care, and to search for the dead, prevent their being despoiled, and decently dispose of them.
 
-### Article 9 Protection of medical and religious personnel
+### Article 9---Protection of medical and religious personnel
     
 *   1\. Medical and religious personnel shall be respected and protected and shall be granted all available help for the performance of their duties. They shall not be compelled to carry out tasks which are not compatible with their humanitarian mission.
 
 *   2\. In the performance of their duties medical personnel may not be required to give priority to any person except on medical grounds.
 
-### Article 10 General protection of medical duties
+### Article 10---General protection of medical duties
     
 *   1\. Under no circumstances shall any person be punished for having carried out medical activities compatible with medical ethics, regardless of the person benefiting therefrom.
 
@@ -5630,20 +5636,20 @@ Whenever circumstances permit, and particularly after an engagement, all possibl
 
 *   4\. Subject to national law, no person engaged in medical activities may be penalized in any way for refusing or failing to give information concerning the wounded and sick who are, or who have been, under his care.
 
-### Article 11 Protection of medical units and transports
+### Article 11---Protection of medical units and transports
     
 *   1\. Medical units and transports shall be respected and protected at all times and shall not be the object of attack.
 
 *   2\. The protection to which medical units and transports are entitled shall not cease unless they are used to commit hostile acts, outside their humanitarian function. Protection may, however, cease only after a warning has been given setting, whenever appropriate, a reasonable time-limit, and after such warning has remained unheeded.
 
-### Article 12 The distinctive emblem
+### Article 12---The distinctive emblem
 
 Under the direction of the competent authority concerned, the distinctive emblem of the red cross, red crescent or red lion and sun on a white ground shall be displayed by medical and religious personnel and medical units, and on medical transports. It shall be respected in all circumstances. It shall not be used improperly.
 
 ## Part IV  
 Civilian population
 
-### Article 13 Protection of the civilian population
+### Article 13---Protection of the civilian population
     
 *   1\. The civilian population and individual civilians shall enjoy general protection against the dangers arising from military operations. To give effect to this protection, the following rules shall be observed in all circumstances.
 
@@ -5651,25 +5657,25 @@ Civilian population
 
 *   3\. Civilians shall enjoy the protection afforded by this Part, unless and for such time as they take a direct part in hostilities.
 
-### Article 14 Protection of objects indispensable to the survival of the civilian population
+### Article 14---Protection of objects indispensable to the survival of the civilian population
 
 Starvation of civilians as a method of combat is prohibited. It is therefore prohibited to attack, destroy, remove or render useless, for that purpose, objects indispensable to the survival of the civilian population, such as foodstuffs, agricultural areas for the production of foodstuffs, crops, livestock, drinking water installations and supplies and irrigation works.
 
-### Article 15 Protection of works and installations containing dangerous forces
+### Article 15---Protection of works and installations containing dangerous forces
 
 Works or installations containing dangerous forces, namely dams, dykes and nuclear electrical generating stations, shall not be made the object of attack, even where these objects are military objectives, if such attack may cause the release of dangerous forces and consequent severe losses among the civilian population.
 
-### Article 16 Protection of cultural objects and of places of worship
+### Article 16---Protection of cultural objects and of places of worship
 
 Without prejudice to the provisions of the Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict of 14 May 1954, it is prohibited to commit any acts of hostility directed against historic monuments, works of art or places of worship which constitute the cultural or spiritual heritage of peoples, and to use them in support of the military effort.
 
-### Article 17 Prohibition of forced movement of civilians
+### Article 17---Prohibition of forced movement of civilians
     
 *   1\. The displacement of the civilian population shall not be ordered for reasons related to the conflict unless the security of the civilians involved or imperative military reasons so demand. Should such displacements have to be carried out, all possible measures shall be taken in order that the civilian population may be received under satisfactory conditions of shelter, hygiene, health, safety and nutrition.
 
 *   2\. Civilians shall not be compelled to leave their own territory for reasons connected with the conflict.
 
-### Article 18 Relief societies and relief actions
+### Article 18---Relief societies and relief actions
     
 *   1\. Relief societies located in the territory of the High Contracting Party, such as Red Cross (Red Crescent, Red Lion and Sun) organizations, may offer their services for the performance of their traditional functions in relation to the victims of the armed conflict. The civilian population may, even on its own initiative, offer to collect and care for the wounded, sick and shipwrecked.
 
@@ -5678,41 +5684,41 @@ Without prejudice to the provisions of the Hague Convention for the Protection o
 ## Part V  
 Final provisions
 
-### Article 19 Dissemination
+### Article 19---Dissemination
 
 This Protocol shall be disseminated as widely as possible.
 
-### Article 20 Signature
+### Article 20---Signature
 
 This Protocol shall be open for signature by the Parties to the Conventions six months after the signing of the Final Act and will remain open for a period of twelve months.
 
-### Article 21 Ratification
+### Article 21---Ratification
 
 This Protocol shall be ratified as soon as possible. The instruments of ratification shall be deposited with the Swiss Federal Council, depositary of the Conventions.
 
-### Article 22 Accession
+### Article 22---Accession
 
 This Protocol shall be open for accession by any Party to the Conventions which has not signed it. The instruments of accession shall be deposited with the depositary.
 
-### Article 23 Entry into force
+### Article 23---Entry into force
     
 *   1\. This Protocol shall enter into force six months after two instruments of ratification or accession have been deposited.
 
 *   2\. For each Party to the Conventions thereafter ratifying or acceding to this Protocol, it shall enter into force six months after the deposit by such Party of its instrument of ratification or accession.
 
-### Article 24 Amendment
+### Article 24---Amendment
     
 *   1\. Any High Contracting Party may propose amendments to this Protocol. The text of any proposed amendment shall be communicated to the depositary which shall decide, after consultation with all the High Contracting Parties and the International Committee of the Red Cross, whether a conference should be convened to consider the proposed amendment.
 
 *   2\. The depositary shall invite to that conference all the High Contracting Parties as well as the Parties to the Conventions, whether or not they are signatories of this Protocol.
 
-### Article 25 Denunciation
+### Article 25---Denunciation
     
 *   1\. In case a High Contracting Party should denounce this Protocol, the denunciation shall only take effect six months after receipt of the instrument of denunciation. If, however, on the expiry of six months, the denouncing Party is engaged in the situation referred to in Article 1, the denunciation shall not take effect before the end of the armed conflict. Persons who have been deprived of liberty, or whose liberty has been restricted, for reasons related to the conflict shall nevertheless continue to benefit from the provisions of this Protocol until their final release.
 
 *   2\. The denunciation shall be notified in writing to the depositary, which shall transmit it to all the High Contracting Parties.
 
-### Article 26 Notifications
+### Article 26---Notifications
 
 The depositary shall inform the High Contracting Parties as well as the Parties to the Conventions, whether or not they are signatories of this Protocol, of:
     
@@ -5722,13 +5728,13 @@ The depositary shall inform the High Contracting Parties as well as the Parties 
 
 *   (c) communications and declarations received under Article 24\.
 
-### Article 27 Registration
+### Article 27---Registration
     
 *   1\. After its entry into force, this Protocol shall be transmitted by the depositary to the Secretariat of the United Nations for registration and publication, in accordance with Article 102 of the Charter of the United Nations.
 
 *   2\. The depositary shall also inform the Secretariat of the United Nations of all ratifications and accessions received by it with respect to this Protocol.
 
-### Article 28 Authentic texts
+### Article 28---Authentic texts
 
 The original of this Protocol, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic shall be deposited with the depositary, which shall transmit certified true copies thereof to all the Parties to the Conventions.
 
@@ -5748,23 +5754,23 @@ The original of this Protocol, of which the Arabic, Chinese, English, French, Ru
 
 ###### 1 General
     
-*   This is a reprint of the Geneva Conventions Act 1958\. The reprint incorporates all the amendments to the Act as at 12 December 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Geneva Conventions Act 1958\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][37] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][38] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][38] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][39] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][39] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][40] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][40] and [17E][41] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][41] and [17E][42] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -5795,15 +5801,17 @@ The original of this Protocol, of which the Arabic, Chinese, English, French, Ru
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012][42] (2012 No 96)
+*   [Geneva Conventions (Third Protocol---Red Crystal Emblem) Amendment Act 2012][43] (2012 No 96)
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][26]
     
     Court Martial Act 2007 (2007 No 101): [section 87][24]
     
-    [Geneva Conventions Amendment Act 2005][43] (2005 No 54)
+    [Geneva Conventions Amendment Act 2005][44] (2005 No 54)
     
-    International Crimes and International Criminal Court Act 2000 (2000 No 26): [section 185][26]
+    International Crimes and International Criminal Court Act 2000 (2000 No 26): [section 185][27]
     
-    Foreign Affairs Amendment Act 1993 (1993 No 48): [section 6(1)][27]
+    Foreign Affairs Amendment Act 1993 (1993 No 48): [section 6(1)][28]
     
     Legal Services Act 1991 (1991 No 71): section 159(1)
     
@@ -5811,15 +5819,15 @@ The original of this Protocol, of which the Arabic, Chinese, English, French, Ru
     
     Geneva Conventions Amendment Act 1987 (1987 No 144)
     
-    Tokelau Amendment Act 1976 (1976 No 122): [section 3(8)][33]
+    Tokelau Amendment Act 1976 (1976 No 122): [section 3(8)][34]
     
-    Niue Amendment Act 1974 (1974 No 43): [section 2(2)(c)][35]
+    Niue Amendment Act 1974 (1974 No 43): [section 2(2)(c)][36]
     
-    Armed Forces Discipline Act 1971 (1971 No 53): [section 208(1)][30]
+    Armed Forces Discipline Act 1971 (1971 No 53): [section 208(1)][31]
     
-    Cook Islands Amendment Act 1964 (1964 No 70): [section 57(3)][34]
+    Cook Islands Amendment Act 1964 (1964 No 70): [section 57(3)][35]
     
-    Western Samoa Act 1961 (1961 No 68): [sections 9][32], [10(1)][36]
+    Western Samoa Act 1961 (1961 No 68): [sections 9][33], [10(1)][37]
 
 
 
@@ -5849,21 +5857,22 @@ The original of this Protocol, of which the Arabic, Chinese, English, French, Ru
 [23]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM214686
 [24]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM1002056
 [25]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM218728
-[26]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM65527
-[27]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM302525
-[28]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM348055
-[29]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM348056
-[30]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM404242
-[31]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM2827816
-[32]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM336822
-[33]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM439964
-[34]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM355058
-[35]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM413764
-[36]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM336823
-[37]: http://www.pco.parliament.govt.nz/reprints/
-[38]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM195439
-[39]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[40]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM195468
-[41]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM195470
-[42]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM2827800
-[43]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM348049
+[26]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM3360714
+[27]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM65527
+[28]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM302525
+[29]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM348055
+[30]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM348056
+[31]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM404242
+[32]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM2827816
+[33]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM336822
+[34]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM439964
+[35]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM355058
+[36]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM413764
+[37]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM336823
+[38]: http://www.pco.parliament.govt.nz/reprints/
+[39]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM195439
+[40]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[41]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM195468
+[42]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM195470
+[43]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM2827800
+[44]: http://www.legislation.govt.nz/act/public/1958/0019/latest/link.aspx?id=DLM348049
