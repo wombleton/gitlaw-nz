@@ -1,7 +1,7 @@
 Reprint  
-as at 29 November 2007
+as at 1 July 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Children's Commissioner Act 2003Public Act2003 No 121
 
@@ -23,98 +23,98 @@ This Act is administered by the Ministry of Social Development.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
 [Part 1][2]  
 [Preliminary provisions][2]
 
-[2][3] [Commencement][3]
+[2][3][][3][Commencement][3]
 
-[3][4] [Purposes][4]
+[3][4][][4][Purposes][4]
 
-[4][5] [Interpretation][5]
+[4][5][][5][Interpretation][5]
 
-[5][6] [Act binds the Crown][6]
+[5][6][][6][Act binds the Crown][6]
 
 [Part 2][7]  
 [Appointment, functions, and powers of Commissioner][7]
 
 [Provisions relating to constitution and appointment of Commissioner][8]
 
-[6][9] [Office of Children's Commissioner continued][9]
+[6][9][][9][Office of Children's Commissioner continued][9]
 
-[7][10] [Appointment of Commissioner][10]
+[7][10][][10][Appointment of Commissioner][10]
 
-[8][11] [Appointee must consent to appointment and disclose interests][11] \[Repealed\]
+[8][11][][11][Appointee must consent to appointment and disclose interests][11] \[Repealed\]
 
-[9][12] [Term of office][12] \[Repealed\]
+[9][12][][12][Term of office][12] \[Repealed\]
 
-[10][13] [Removal of officeholder][13] \[Repealed\]
+[10][13][][13][Removal of officeholder][13] \[Repealed\]
 
 [Functions, powers, and duties of Commissioner][14]
 
-[11][15] [Matters to which Commissioner must have regard in exercising functions or powers][15]
+[11][15][][15][Matters to which Commissioner must have regard in exercising functions or powers][15]
 
-[12][16] [General functions of Commissioner][16]
+[12][16][][16][General functions of Commissioner][16]
 
-[13][17] [Functions in relation to Children, Young Persons, and Their Families Act 1989][17]
+[13][17][][17][Functions in relation to Children, Young Persons, and Their Families Act 1989][17]
 
-[14][18] [Commissioner to develop means of consulting with children][18]
+[14][18][][18][Commissioner to develop means of consulting with children][18]
 
-[15][19] [Capacity and powers][19] \[Repealed\]
+[15][19][][19][Capacity and powers][19] \[Repealed\]
 
-[16][20] [Duties][20] \[Repealed\]
+[16][20][][20][Duties][20] \[Repealed\]
 
 [Provisions relating to investigations][21]
 
-[17][22] [Commissioner's investigations must have regard to rights or interests and welfare of children][22]
+[17][22][][22][Commissioner's investigations must have regard to rights or interests and welfare of children][22]
 
-[18][23] [Commissioner may not investigate courts or tribunals][23]
+[18][23][][23][Commissioner may not investigate courts or tribunals][23]
 
-[19][24] [Referrals of matters to certain statutory officers][24]
+[19][24][][24][Referrals of matters to certain statutory officers][24]
 
-[20][25] [Special powers to call for information or documents][25]
+[20][25][][25][Special powers to call for information or documents][25]
 
-[21][26] [Compliance with requirement to provide information or document][26]
+[21][26][][26][Compliance with requirement to provide information or document][26]
 
-[22][27] [Commissioner and staff must maintain secrecy][27]
+[22][27][][27][Commissioner and staff must maintain secrecy][27]
 
-[23][28] [Consultation with other statutory officers][28]
+[23][28][][28][Consultation with other statutory officers][28]
 
-[24][29] [Access to court records][29]
+[24][29][][29][Access to court records][29]
 
-[25][30] [Commissioner must not make adverse comment unless opportunity to be heard is given][30]
+[25][30][][30][Commissioner must not make adverse comment unless opportunity to be heard is given][30]
 
-[26][31] [Commissioner may regulate procedure for investigations][31]
+[26][31][][31][Commissioner may regulate procedure for investigations][31]
 
 [Immunities and privileges][32]
 
-[27][33] [Proceedings privileged][33]
+[27][33][][33][Proceedings privileged][33]
 
 [Matters of administration][34]
 
-[28][35] [Annual report][35] \[Repealed\]
+[28][35][][35][Annual report][35] \[Repealed\]
 
-[29][36] [Money to be appropriated for purposes of this Act][36] \[Repealed\]
+[29][36][][36][Money to be appropriated for purposes of this Act][36] \[Repealed\]
 
-[30][37] [Provisions applying to Commissioner][37]
+[30][37][][37][Provisions applying to Commissioner][37]
 
 [Part 3][38]  
 [Transitional and miscellaneous provisions][38]
 
-[31][39] [Continuation of office, appointment of Commissioner, and employment of employees][39]
+[31][39][][39][Continuation of office, appointment of Commissioner, and employment of employees][39]
 
-[32][40] [Application of Act to matters commenced under Children, Young Persons, and Their Families Act 1989][40]
+[32][40][][40][Application of Act to matters commenced under Children, Young Persons, and Their Families Act 1989][40]
 
-[33][41] [Review of Commissioner's operations and performance][41] \[Repealed\]
+[33][41][][41][Review of Commissioner's operations and performance][41] \[Repealed\]
 
-[34][42] [Power to request information in connection with review][42] \[Repealed\]
+[34][42][][42][Power to request information in connection with review][42] \[Repealed\]
 
-[35][43] [Good reasons for refusing to supply requested information][43] \[Repealed\]
+[35][43][][43][Good reasons for refusing to supply requested information][43] \[Repealed\]
 
-[36][44] [Convention set out in Schedule 2 for information and reference only][44]
+[36][44][][44][Convention set out in Schedule 2 for information and reference only][44]
 
-[37][45] [Consequential amendments][45]
+[37][45][][45][Consequential amendments][45]
 
 [Schedule 1][46]  
 [Provisions applying to Commissioner][46]
@@ -439,13 +439,13 @@ Appointment, functions, and powers of Commissioner
     
     (2) Subsection (1) does not require a person to provide any information or produce any document that would be privileged in a court of law.
     
-    (3) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, who, when required to comply with a notice given under [section 20][25],---
+    (3) Every person commits an offence, and is liable on conviction to a fine not exceeding $2,000, who, when required to comply with a notice given under [section 20][25],---
         
     *   (a) refuses or fails without reasonable excuse to comply with the notice; or
     
     *   (b) knowingly or recklessly provides information that is false or misleading in any material particular.
     
-    
+    Section 21(3): amended, on 1 July 2013, by [section 413][65] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 22 Commissioner and staff must maintain secrecy
     
@@ -457,7 +457,7 @@ Appointment, functions, and powers of Commissioner
     
     *   (b) the Commissioner's obligations under any other enactment; or
     
-    *   (c) information privacy principle 6 of the [Privacy Act 1993][65].
+    *   (c) information privacy principle 6 of the [Privacy Act 1993][66].
     
     (3) The power conferred by subsection (2)(a) does not extend to---
         
@@ -465,7 +465,7 @@ Appointment, functions, and powers of Commissioner
             
         *   (i) the security, defence, or international relations of New Zealand (including New Zealand's relations with the Government of any other country or with any international organisation); or
         
-        *   (ii) any interest protected by [section 7][66] of the Official Information Act 1982; or
+        *   (ii) any interest protected by [section 7][67] of the Official Information Act 1982; or
         
         *   (iii) the maintenance of the law, including the prevention, investigation, or detection of offences; or
         
@@ -475,9 +475,9 @@ Appointment, functions, and powers of Commissioner
     
     *   (c) any information, answer, document, paper, or thing obtained by the Commissioner by reason only of compliance with a requirement made under [section 20(1)][25].
     
-    (4) The power conferred by subsection (2)(c) is subject to [sections 27 to 29][67] of the Privacy Act 1993\.
+    (4) The power conferred by subsection (2)(c) is subject to [sections 27 to 29][68] of the Privacy Act 1993\.
     
-    Compare: 1993 No 28 [s 116][68]
+    Compare: 1993 No 28 [s 116][69]
 
 ##### 23 Consultation with other statutory officers
     
@@ -507,7 +507,7 @@ Appointment, functions, and powers of Commissioner
     
     *   (g) the Privacy Commissioner.
     
-    Compare: 1993 No 28 [s 117][69]
+    Compare: 1993 No 28 [s 117][70]
     
     Section 23(3)(f): amended, on 29 November 2007, by [section 26][64] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
 
@@ -535,7 +535,7 @@ Appointment, functions, and powers of Commissioner
     
 *   Despite anything in this Act or the [Crown Entities Act 2004][53], the Commissioner must not, in any report or statement made under this Act, make any comment that is adverse to a person if the Commissioner has not given the person an opportunity to be heard.
     
-    Compare: 1989 No 24 [s 414][70]
+    Compare: 1989 No 24 [s 414][71]
     
     Section 25: amended, on 25 January 2005, by [section 200][51] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -555,21 +555,21 @@ Appointment, functions, and powers of Commissioner
     
     (4) Nothing in subsection (2) or subsection (3) applies in respect of proceedings for---
         
-    *   (a) an offence against [section 78][71] or [section 78A(1)][72] or [section 105][73] or [section 105A][74] or [section 105B][75] of the Crimes Act 1961; or
+    *   (a) an offence against [section 78][72] or [section 78A(1)][73] or [section 105][74] or [section 105A][75] or [section 105B][76] of the Crimes Act 1961; or
     
-    *   (b) the offence of conspiring to commit an offence against [section 78][71] or [section 78A(1)][72] or [section 105][73] or [section 105A][74] or [section 105B][75] of the Crimes Act 1961; or
+    *   (b) the offence of conspiring to commit an offence against [section 78][72] or [section 78A(1)][73] or [section 105][74] or [section 105A][75] or [section 105B][76] of the Crimes Act 1961; or
     
-    *   (c) the offence of attempting to commit an offence against [section 78][71] or [section 78A(1)][72] or [section 105][73] or [section 105A][74] or [section 105B][75] of the Crimes Act 1961\.
+    *   (c) the offence of attempting to commit an offence against [section 78][72] or [section 78A(1)][73] or [section 105][74] or [section 105A][75] or [section 105B][76] of the Crimes Act 1961\.
     
     (5) Nothing in subsection (3) applies to any report made by the Commissioner to a court under [section 12(1)(g)][16].
     
-    (5A) [Sections 122 to 126][76] of the Crown Entities Act 2004 apply as if the conduct for which a person may be indemnified or insured under those sections were conduct that is covered by the protection from liability in this section.
+    (5A) [Sections 122 to 126][77] of the Crown Entities Act 2004 apply as if the conduct for which a person may be indemnified or insured under those sections were conduct that is covered by the protection from liability in this section.
     
-    (5B) This section contains an exception to [section 121][77] of the Crown Entities Act 2004\.
+    (5B) This section contains an exception to [section 121][78] of the Crown Entities Act 2004\.
     
     (6) Anything said or any information supplied or any document, paper, or thing produced by a person in the course of an investigation by the Commissioner under this Act is privileged in the same manner as if the investigation were a proceeding in a court.
     
-    (7) For the purposes of [clause 3][78] of Part 2 of Schedule 1 of the Defamation Act 1992, any report made by the Commissioner under this Act is to be taken to be an official report.
+    (7) For the purposes of [clause 3][79] of Part 2 of Schedule 1 of the Defamation Act 1992, any report made by the Commissioner under this Act is to be taken to be an official report.
     
     Section 27(1): repealed, on 25 January 2005, by [section 200][51] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -606,11 +606,11 @@ Transitional and miscellaneous provisions
         
     *   (a) for a term that, immediately before that commencement, represented the remainder of the person's term as Commissioner for Children; and
     
-    *   (b) subject to the conditions of employment, determined under [section 417][79] of that Act, that applied to the person immediately before that commencement; and
+    *   (b) subject to the conditions of employment, determined under [section 417][80] of that Act, that applied to the person immediately before that commencement; and
     
-    *   (c) subject to any determination made under [section 47][80] of the Crown Entities Act 2004 (with any such determination prevailing if, and to the extent that, it is more favourable to the person than any of the conditions of employment referred to in paragraph (b)).
+    *   (c) subject to any determination made under [section 47][81] of the Crown Entities Act 2004 (with any such determination prevailing if, and to the extent that, it is more favourable to the person than any of the conditions of employment referred to in paragraph (b)).
     
-    (3) The Remuneration Authority is not obliged to make a determination under [section 47][80] of the Crown Entities Act 2004 of the salary and allowances of the person to whom subsection (2) applies before the time that that person's salary and allowances would have been next reviewed under the conditions of employment referred to in subsection (2)(b).
+    (3) The Remuneration Authority is not obliged to make a determination under [section 47][81] of the Crown Entities Act 2004 of the salary and allowances of the person to whom subsection (2) applies before the time that that person's salary and allowances would have been next reviewed under the conditions of employment referred to in subsection (2)(b).
     
     (4) This Act does not affect the employment of any person who, immediately before the commencement of this Act, was an employee of the Commissioner for Children.
     
@@ -695,13 +695,13 @@ Provisions applying to Commissioner
 
 ##### 6 Superannuation or retiring allowances
     
-*   (1) For the purpose of providing a superannuation fund or retiring allowance for the officeholder, sums by way of subsidy or contribution may be paid into any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][81].
+*   (1) For the purpose of providing a superannuation fund or retiring allowance for the officeholder, sums by way of subsidy or contribution may be paid into any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][82].
     
-    (2) Despite anything in this Act, any person who, immediately before being appointed as the Commissioner or as an employee of the Commissioner, is a contributor to the Government Superannuation Fund under [Part 2][82] or [Part 2A][83] of the Government Superannuation Fund Act 1956 is considered, for the purposes of that Act, to be employed in the Government service so long as that person continues to hold office as the Commissioner or as an employee of the Commissioner, and that Act applies to that person in all respects as if service as or for the Commissioner were Government service.
+    (2) Despite anything in this Act, any person who, immediately before being appointed as the Commissioner or as an employee of the Commissioner, is a contributor to the Government Superannuation Fund under [Part 2][83] or [Part 2A][84] of the Government Superannuation Fund Act 1956 is considered, for the purposes of that Act, to be employed in the Government service so long as that person continues to hold office as the Commissioner or as an employee of the Commissioner, and that Act applies to that person in all respects as if service as or for the Commissioner were Government service.
     
-    (3) Subject to the [Government Superannuation Fund Act 1956][84], nothing in subclause (2) entitles a person to become a contributor to the Government Superannuation Fund after the person has ceased to be a contributor.
+    (3) Subject to the [Government Superannuation Fund Act 1956][85], nothing in subclause (2) entitles a person to become a contributor to the Government Superannuation Fund after the person has ceased to be a contributor.
     
-    (4) For the purposes of applying the [Government Superannuation Fund Act 1956][84], in accordance with subclause (2), to a person who holds office as the Commissioner or as an employee of the Commissioner and is a contributor to the Government Superannuation Fund, the term _controlling authority_, in relation to any such person, means the Commissioner.
+    (4) For the purposes of applying the [Government Superannuation Fund Act 1956][85], in accordance with subclause (2), to a person who holds office as the Commissioner or as an employee of the Commissioner and is a contributor to the Government Superannuation Fund, the term _controlling authority_, in relation to any such person, means the Commissioner.
     
     Schedule 1 clause 6(1): amended, on 25 January 2005, by [section 200][51] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -739,7 +739,7 @@ Provisions applying to Commissioner
 
 ##### 11 Ability to delegate
     
-*   (1) Despite [section 73][85] of the Crown Entities Act 2004, the Commissioner may delegate any of the functions and powers of the Commissioner, either generally or specifically, only to---
+*   (1) Despite [section 73][86] of the Crown Entities Act 2004, the Commissioner may delegate any of the functions and powers of the Commissioner, either generally or specifically, only to---
         
     *   (a) an employee of the Commissioner; or
     
@@ -753,7 +753,7 @@ Provisions applying to Commissioner
     
     *   (b) \[Repealed\]
     
-    *   (c) the power to appoint attorneys under [clause 15][86].
+    *   (c) the power to appoint attorneys under [clause 15][87].
     
     (3) Despite subclause (2), the Commissioner may, with the prior approval of the Minister, delegate to any employee of the Commissioner 1 or more of the powers referred to in that subclause.
     
@@ -1373,27 +1373,27 @@ _Amendment(s) incorporated in the [Act(s)][54]._
 
 ##### Children, Young Persons, and Their Families (Residential Care) Regulations 1996 (SR 1996/354)
 
-_Amendment(s) incorporated in the [regulations][87]._
+_Amendment(s) incorporated in the [regulations][88]._
 
 ##### Family Courts Rules 2002 (SR 2002/261)
 
-_Amendment(s) incorporated in the [rules][88]._
+_Amendment(s) incorporated in the [rules][89]._
 
 ##### Health and Disability Commissioner Act 1994 (1994 No 88)
 
-_Amendment(s) incorporated in the [_Act(s)_][89]._
+_Amendment(s) incorporated in the [_Act(s)_][90]._
 
 ##### Ombudsmen Act 1975 (1975 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][90]._
+_Amendment(s) incorporated in the [Act(s)][91]._
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][91]._
+_Amendment(s) incorporated in the [Act(s)][92]._
 
 ##### Remuneration Authority Act 1977 (1977 No 110)
 
-_Amendment(s) incorporated in the [Act(s)][92]._
+_Amendment(s) incorporated in the [Act(s)][93]._
 
 ---
 
@@ -1411,13 +1411,13 @@ _Amendment(s) incorporated in the [Act(s)][92]._
 
 ###### 1 General
     
-*   This is a reprint of the Children's Commissioner Act 2003\. The reprint incorporates all the amendments to the Act as at 29 November 2007, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Children's Commissioner Act 2003\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][93] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][94] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
@@ -1427,7 +1427,7 @@ _Amendment(s) incorporated in the [Act(s)][92]._
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][94] and [17E][95] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][95] and [17E][96] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1458,7 +1458,9 @@ _Amendment(s) incorporated in the [Act(s)][92]._
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Independent Police Conduct DunedinAuthority Amendment Act 2007 (2007 No 38): [section 26][64]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][65]
+    
+    Independent Police Conduct Authority Amendment Act 2007 (2007 No 38): [section 26][64]
     
     Crown Entities Act 2004 (2004 No 115): [section 200][51]
 
@@ -1529,34 +1531,35 @@ _Amendment(s) incorporated in the [Act(s)][92]._
 [62]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM430983
 [63]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM297449
 [64]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM967974
-[65]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM296638
-[66]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM65368
-[67]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM297081
-[68]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM298411
-[69]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM298413
-[70]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM155002
-[71]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM328526
-[72]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM328528
-[73]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM328753
-[74]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM328755
-[75]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM328758
-[76]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM330374
-[77]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM330373
-[78]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM281290
-[79]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM155010
-[80]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM329975
-[81]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM143291
-[82]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM446395
-[83]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM446842
-[84]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM446000
-[85]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM330308
-[86]: http://www.legislation.govt.nz/act/public/2003/0121/latest/whole.html#DLM230952
-[87]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM225699
-[88]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM150144
-[89]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM333915
-[90]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM431296
-[91]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM163544
-[92]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM16452
-[93]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM195439
-[94]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM195468
-[95]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM195470
+[65]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM3360714
+[66]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM296638
+[67]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM65368
+[68]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM297081
+[69]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM298411
+[70]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM298413
+[71]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM155002
+[72]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM328526
+[73]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM328528
+[74]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM328753
+[75]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM328755
+[76]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM328758
+[77]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM330374
+[78]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM330373
+[79]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM281290
+[80]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM155010
+[81]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM329975
+[82]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM143291
+[83]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM446395
+[84]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM446842
+[85]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM446000
+[86]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM330308
+[87]: http://www.legislation.govt.nz/act/public/2003/0121/latest/whole.html#DLM230952
+[88]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM225699
+[89]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM150144
+[90]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM333915
+[91]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM431296
+[92]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM163544
+[93]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM16452
+[94]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM195439
+[95]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM195468
+[96]: http://www.legislation.govt.nz/act/public/2003/0121/latest/link.aspx?id=DLM195470
