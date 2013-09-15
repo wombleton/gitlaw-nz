@@ -1,5 +1,5 @@
 Reprint  
-as at 24 May 2013
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -492,7 +492,7 @@ This Act is administered by the Ministry for the Environment.
 
 [155][221][][221][Interfering with watercourses][221] \[Repealed\]
 
-[156][222][][222][Offences punishable summarily][222]
+[156][222][][222][Offences punishable summarily][222] \[Repealed\]
 
 [157][223][][223][Time for prosecutions][223]
 
@@ -1260,9 +1260,9 @@ Minister for the Environment
 
 ##### 33J Appeals to Court of Appeal
     
-*   The provisions of [section 144][293] of the Summary Proceedings Act 1957 shall apply in respect of any determination of the High Court under [section 33B][44] as if the determination were made under [section 107][294] of the Summary Proceedings Act 1957\.
+*   [Subpart 8][293] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to a determination of the High Court under [section 33B][44] as if the determination had been made under [section 300][294] of that Act.
     
-    Section 33J: inserted, on 16 December 1983, by section 13 of the Soil Conservation and Rivers Control Amendment Act 1983 (1983 No 152).
+    Section 33J: replaced, on 1 July 2013, by [section 413][295] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 2  
 Catchment districts
@@ -1271,7 +1271,7 @@ Catchment districts
     
 *   The Governor-General may, if on the recommendation of the Minister he thinks fit so to do, by Order in Council constitute and declare any part or parts of New Zealand a catchment district under this Act, with such name and from such date as may be specified in the order.
     
-    Section 34: amended, on 1 April 1988, by [section 23][295] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 34: amended, on 1 April 1988, by [section 23][296] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
 
 ##### 34A Extending jurisdiction of Catchment Boards
     
@@ -1295,7 +1295,7 @@ Catchment districts
     
     (4) On the union of 2 or more districts as herein provided the Boards of the original districts shall be dissolved.
     
-    Section 35(1): amended, on 1 April 1988, by [section 23][295] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 35(1): amended, on 1 April 1988, by [section 23][296] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
 
 ##### 36 Property, etc, of original districts to vest in united district
     
@@ -1315,7 +1315,7 @@ Catchment districts
     
 *   \[Repealed\]
     
-    Section 37: repealed, on 1 April 1988, by [section 24][296] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 37: repealed, on 1 April 1988, by [section 24][297] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
 
 ##### 37A Constitution, alteration, or abolition of districts
     
@@ -1337,15 +1337,15 @@ Catchment districts
     
     (6) Neither the Auditor-General nor any other person appointed under the foregoing provisions of this section to hold an inquiry and make an award shall be deemed to be an arbitrator within the meaning of the Arbitration Act 1908, and nothing in that Act shall apply to any such inquiry or award.
     
-    Section 38(1): amended, on 1 July 2001, pursuant to [section 52][297] of the Public Audit Act 2001 (2001 No 10).
+    Section 38(1): amended, on 1 July 2001, pursuant to [section 52][298] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 38(2): amended, on 1 July 2001, pursuant to [section 52][297] of the Public Audit Act 2001 (2001 No 10).
+    Section 38(2): amended, on 1 July 2001, pursuant to [section 52][298] of the Public Audit Act 2001 (2001 No 10).
     
     Section 38(4): amended, on 1 April 1980, pursuant to [section 12][282] of the Judicature Amendment Act 1979 (1979 No 124).
     
     Section 38(5): replaced, on 1 July 2003, by [section 262][248] of the Local Government Act 2002 (2002 No 84).
     
-    Section 38(6): amended, on 1 July 2001, pursuant to [section 52][297] of the Public Audit Act 2001 (2001 No 10).
+    Section 38(6): amended, on 1 July 2001, pursuant to [section 52][298] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 39 Creditors not affected by alteration or abolition of districts
     
@@ -1386,11 +1386,11 @@ Catchment Boards
     
     Section 41(3B): inserted, on 8 December 1971, by section 2(2) of the Soil Conservation and Rivers Control Amendment Act 1971 (1971 No 129).
     
-    Section 41(3B): amended, on 1 April 1988, by [section 25(1)][298] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 41(3B): amended, on 1 April 1988, by [section 25(1)][299] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
-    Section 41(3C): replaced, on 1 April 1988, by [section 25(2)][298] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 41(3C): replaced, on 1 April 1988, by [section 25(2)][299] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
-    Section 41(3D): repealed, on 1 April 1988, by [section 25(2)][298] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 41(3D): repealed, on 1 April 1988, by [section 25(2)][299] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
     Section 41(4): amended, on 26 October 1967, by section 2 of the Soil Conservation and Rivers Control Amendment Act 1967 (1967 No 32).
 
@@ -1414,7 +1414,7 @@ Catchment Boards
     
     (2) Where part only of a ward is situated within a particular catchment district, the provisions of this section shall apply to that part in all respects as if that part were a complete ward.
     
-    (3) For the purposes of this section, **ward** means a ward within the meaning of the [Local Electoral Act 2001][299].
+    (3) For the purposes of this section, **ward** means a ward within the meaning of the [Local Electoral Act 2001][300].
     
     Section 42A: inserted, on 26 October 1967, by section 3(1) of the Soil Conservation and Rivers Control Amendment Act 1967 (1967 No 32).
     
@@ -1450,11 +1450,11 @@ Catchment Boards
     
 *   (1) The representatives on a Catchment Board of any constituent district shall be elected by the electors of that district.
     
-    (2) Every such election shall be held in the same manner, with all necessary modifications, as the elections of members of the local authority of the constituent district; and all the provisions of the [Local Electoral Act 2001][299] and of all other Acts affecting the mode of election of members of that local authority (including the penal provisions thereof and the provisions relating to disputed elections), shall, so far as applicable and so far as consistent with this Act, apply accordingly.
+    (2) Every such election shall be held in the same manner, with all necessary modifications, as the elections of members of the local authority of the constituent district; and all the provisions of the [Local Electoral Act 2001][300] and of all other Acts affecting the mode of election of members of that local authority (including the penal provisions thereof and the provisions relating to disputed elections), shall, so far as applicable and so far as consistent with this Act, apply accordingly.
     
     (3) \[Repealed\]
     
-    (4) In the application of the [Local Electoral Act 2001][299] as aforesaid every reference therein to the local authority shall be construed as a reference to the local authority of the constituent district.
+    (4) In the application of the [Local Electoral Act 2001][300] as aforesaid every reference therein to the local authority shall be construed as a reference to the local authority of the constituent district.
     
     (5) The electoral officer of the local authority of the constituent district must be the electoral officer for the purposes of elections of representatives of that constituent district under this Act.
     
@@ -1478,7 +1478,7 @@ Catchment Boards
     
     (4) Every such election shall be held in manner provided by regulations made by the Governor-General in Council, either generally or in respect of any specified combined district or districts.
     
-    (5) By such regulations the Governor-General in Council may apply to any such election, with such modifications, exemptions, and additions as he thinks fit, the provisions of the [Local Electoral Act 2001][299] and of any other Act affecting the election of members of the local authority of any of the constituent districts included in a combined district.
+    (5) By such regulations the Governor-General in Council may apply to any such election, with such modifications, exemptions, and additions as he thinks fit, the provisions of the [Local Electoral Act 2001][300] and of any other Act affecting the election of members of the local authority of any of the constituent districts included in a combined district.
     
     Section 46(2): replaced, on 1 April 1974, by section 9(2) of the Counties Amendment Act 1974 (1974 No 8).
     
@@ -1522,9 +1522,9 @@ Catchment Boards
 
 ##### 53 Qualification of members
     
-*   Subject to [section 57A][300] of the Local Electoral Act 2001 and [section 54][79] of this Act, every person who is a parliamentary elector shall be capable of being elected or appointed as a member of any Board.
+*   Subject to [section 57A][301] of the Local Electoral Act 2001 and [section 54][79] of this Act, every person who is a parliamentary elector shall be capable of being elected or appointed as a member of any Board.
     
-    Section 53: replaced, on 17 June 1986, by [section 12][301] of the Local Government Amendment Act 1986 (1986 No 21).
+    Section 53: replaced, on 17 June 1986, by [section 12][302] of the Local Government Amendment Act 1986 (1986 No 21).
     
     Section 53: amended, on 1 July 2003, by [section 262][248] of the Local Government Act 2002 (2002 No 84).
 
@@ -1532,17 +1532,17 @@ Catchment Boards
     
 *   The following persons shall not be capable of being elected or appointed as a member of any Catchment Board:
         
-    *   (a) any person who is not qualified under [section 25][302] of the Local Electoral Act 2001 to be a candidate:
+    *   (a) any person who is not qualified under [section 25][303] of the Local Electoral Act 2001 to be a candidate:
     
     *   (b) any person who is convicted of any offence punishable by death or imprisonment for a term of 2 years or more, unless (in the case of a person seeking election or appointment) the person has obtained a pardon, or has served the sentence or otherwise suffered the penalty imposed:
     
-    *   (c) any person who is subject to a property order made under [section 30][303] or [31][304] of the Protection of Personal and Property Rights Act 1988\.
+    *   (c) any person who is subject to a property order made under [section 30][304] or [31][305] of the Protection of Personal and Property Rights Act 1988\.
     
-    Section 54: replaced, on 17 June 1986, by [section 12][301] of the Local Government Amendment Act 1986 (1986 No 21).
+    Section 54: replaced, on 17 June 1986, by [section 12][302] of the Local Government Amendment Act 1986 (1986 No 21).
     
     Section 54(a): replaced, on 1 July 2003, by [section 262][248] of the Local Government Act 2002 (2002 No 84).
     
-    Section 54(c): replaced, on 10 September 2008, by [section 19(2)][305] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Section 54(c): replaced, on 10 September 2008, by [section 19(2)][306] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
 
 ##### 55 Vacation of office by member
     
@@ -1564,19 +1564,21 @@ Catchment Boards
     
     *   (b) the member concerned shall be deemed to have been granted leave of absence until the expiration of that time, and shall not be capable of acting as a member during the period of that leave of absence.
     
-    (3) If any person does any act as a member after the person's office has become vacant under this section (other than under subsection (1)(c)) or while on leave of absence under subsection (2), the person commits an offence and shall be liable on summary conviction to a fine not exceeding $100\.
+    (3) If any person does any act as a member after the person's office has become vacant under this section (other than under subsection (1)(c)) or while on leave of absence under subsection (2), the person commits an offence and shall be liable on conviction to a fine not exceeding $100\.
     
     (4) For the purposes of subsection (1)---
         
-    *   (a) _disability_ has the meaning given by [section 21(1)(h)][306] of the Human Rights Act 1993; and
+    *   (a) _disability_ has the meaning given by [section 21(1)(h)][307] of the Human Rights Act 1993; and
     
-    *   (b) a person who becomes subject to a property order made under [section 31][304] of the Protection of Personal and Property Rights Act 1988 is to be treated as falling within subsection (1)(c) (whether or not the person has a disability).
+    *   (b) a person who becomes subject to a property order made under [section 31][305] of the Protection of Personal and Property Rights Act 1988 is to be treated as falling within subsection (1)(c) (whether or not the person has a disability).
     
-    Section 55: replaced, on 17 June 1986, by [section 12][301] of the Local Government Amendment Act 1986 (1986 No 21).
+    Section 55: replaced, on 17 June 1986, by [section 12][302] of the Local Government Amendment Act 1986 (1986 No 21).
     
-    Section 55(1)(c): replaced, on 10 September 2008, by [section 19(3)][305] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Section 55(1)(c): replaced, on 10 September 2008, by [section 19(3)][306] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
     
-    Section 55(4): inserted, on 10 September 2008, by [section 19(4)][305] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Section 55(3): amended, on 1 July 2013, by [section 413][295] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 55(4): inserted, on 10 September 2008, by [section 19(4)][306] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
 
 ##### 56 Filling of extraordinary vacancies
     
@@ -1612,13 +1614,13 @@ Catchment Boards
     
     (5) No question which may be tried under this section shall be tried in the High Court; and no proceedings in the District Court hereunder shall be removable into the High Court by certiorari or otherwise.
     
-    Section 57(1): amended, on 1 April 1980, pursuant to [section 18(2)][307] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 57(1): amended, on 1 April 1980, pursuant to [section 18(2)][308] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 57(3): amended, on 1 April 1980, pursuant to [section 18(2)][307] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 57(3): amended, on 1 April 1980, pursuant to [section 18(2)][308] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 57(4): amended, on 1 April 1980, pursuant to [section 18(2)][307] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 57(4): amended, on 1 April 1980, pursuant to [section 18(2)][308] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 57(5): amended, on 1 April 1980, pursuant to [section 18(2)][307] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 57(5): amended, on 1 April 1980, pursuant to [section 18(2)][308] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 57(5): amended, on 1 April 1980, pursuant to [section 12][282] of the Judicature Amendment Act 1979 (1979 No 124).
 
@@ -1648,7 +1650,7 @@ Catchment Boards
     
 *   \[Repealed\]
     
-    Section 59: repealed, on 30 March 1985, by [section 39(3)][308] of the Local Government Amendment Act 1985 (1985 No 60).
+    Section 59: repealed, on 30 March 1985, by [section 39(3)][309] of the Local Government Amendment Act 1985 (1985 No 60).
 
 ## Part 4  
 Proceedings of Boards
@@ -1727,7 +1729,7 @@ Proceedings of Boards
     
 *   \[Repealed\]
     
-    Section 68: repealed, on 1 March 1988, by [section 57(1)][309] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
+    Section 68: repealed, on 1 March 1988, by [section 57(1)][310] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
 
 ##### 69 Business at ordinary meetings
     
@@ -1793,7 +1795,7 @@ Proceedings of Boards
     
     Section 75(3): amended, on 19 November 1948, by [section 2(2)][246] of the Soil Conservation and Rivers Control Amendment Act 1948 (1948 No 40).
     
-    Section 75(4): replaced, on 1 March 1988, by [section 57(1)][309] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
+    Section 75(4): replaced, on 1 March 1988, by [section 57(1)][310] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
 
 #### Special orders
 
@@ -1851,7 +1853,7 @@ Proceedings of Boards
     
     Section 80(3): repealed, on 27 August 1953, by section 103(1) of the Local Elections and Polls Act 1953 (1953 No 16).
     
-    Section 80(4): repealed, on 1 January 2004, by [section 76][310] of the Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17).
+    Section 80(4): repealed, on 1 January 2004, by [section 76][311] of the Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17).
     
     Section 80(5): inserted, on 22 October 1952, by section 6 of the Soil Conservation and Rivers Control Amendment Act 1952 (1952 No 38).
 
@@ -2123,7 +2125,7 @@ Finance
     
 *   \[Repealed\]
     
-    Section 110: repealed, on 17 June 1986, by [section 12][301] of the Local Government Amendment Act 1986 (1986 No 21).
+    Section 110: repealed, on 17 June 1986, by [section 12][302] of the Local Government Amendment Act 1986 (1986 No 21).
 
 #### Receipts and expenditure
 
@@ -2143,7 +2145,7 @@ Finance
     
     Section 111(2): amended, on 21 November 1973, by section 2(1) of the Soil Conservation and Rivers Control Amendment Act 1973 (1973 No 91).
     
-    Section 111(2)(b): amended, on 1 July 2001, pursuant to [section 52][297] of the Public Audit Act 2001 (2001 No 10).
+    Section 111(2)(b): amended, on 1 July 2001, pursuant to [section 52][298] of the Public Audit Act 2001 (2001 No 10).
     
     Section 111(3): inserted, on 21 November 1973, by section 2(2) of the Soil Conservation and Rivers Control Amendment Act 1973 (1973 No 91).
 
@@ -2159,9 +2161,9 @@ Finance
     
     (5) The provisions of the last preceding section shall be read subject to the provisions of this section.
     
-    Section 112(2): amended, on 1 July 2001, pursuant to [section 52][297] of the Public Audit Act 2001 (2001 No 10).
+    Section 112(2): amended, on 1 July 2001, pursuant to [section 52][298] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 112(3): amended, on 1 July 2001, pursuant to [section 52][297] of the Public Audit Act 2001 (2001 No 10).
+    Section 112(3): amended, on 1 July 2001, pursuant to [section 52][298] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 113 Collectors to pay over moneys
     
@@ -2169,9 +2171,11 @@ Finance
     
     (2) He shall also render to the Board, within such time and in such manner as it directs, true and faithful accounts in writing under his hand of all moneys received by him, and of all moneys paid over by him, under this Act, and also a list of the names of all persons who have failed to pay any rate or money owing to the Board, with a statement of the moneys due from such persons respectively, and of the several periods and rates for or on account of which the same are due respectively.
     
-    (3) If any such collector fails to render such accounts as aforesaid, or to produce and deliver up the vouchers and receipts relating to the same in his possession or power, or to pay the balance owing by him when thereunto required, or fails, for 5 days after being thereunto required by any officer of the Board, to deliver up to the Board, or to any person appointed by it to receive the same, all papers and writings, property, matters, and things in his possession or power relating to the execution of this Act or belonging to the Board, any 2 Justices may hear and determine the matter in a summary way, and may order such collector to render such accounts, or to deliver up such vouchers and receipts as aforesaid, or to pay over the balance owing by him, or to deliver up all such papers, writings, property, matters, and things; and if such collector fails to obey such order he may by those Justices or any 2 other Justices be committed to prison for any period not exceeding 6 months.
+    (3) If any such collector fails to render such accounts as aforesaid, or to produce and deliver up the vouchers and receipts relating to the same in his possession or power, or to pay the balance owing by him when thereunto required, or fails, for 5 days after being thereunto required by any officer of the Board, to deliver up to the Board, or to any person appointed by it to receive the same, all papers and writings, property, matters, and things in his possession or power relating to the execution of this Act or belonging to the Board, any 2 Justices may hear and determine the matter, and may order such collector to render such accounts, or to deliver up such vouchers and receipts as aforesaid, or to pay over the balance owing by him, or to deliver up all such papers, writings, property, matters, and things; and if such collector fails to obey such order he may by those Justices or any 2 other Justices be committed to prison for any period not exceeding 6 months.
     
     (4) No such proceeding against or dealing with any collector as aforesaid shall deprive the Board of any remedy it may otherwise have against the collector or any surety for the collector.
+    
+    Section 113(3): amended, on 1 July 2013, by [section 413][295] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 113A Remuneration, etc, of assessors
     
@@ -2181,21 +2185,21 @@ Finance
     
     *   (b) [section 11][288] of the Soil Conservation and Rivers Control Amendment Act 1948; or
     
-    *   (c) [section 34][311] or [section 36][312] of the Soil Conservation and Rivers Control Amendment Act 1959\.
+    *   (c) [section 34][312] or [section 36][313] of the Soil Conservation and Rivers Control Amendment Act 1959\.
     
-    (2) There shall be paid to every assessor, out of the Board's funds, remuneration by way of fees or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][313]; and the provisions of that Act shall apply accordingly as if the assessor were a member of a statutory Board within the meaning of that Act.
+    (2) There shall be paid to every assessor, out of the Board's funds, remuneration by way of fees or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][314]; and the provisions of that Act shall apply accordingly as if the assessor were a member of a statutory Board within the meaning of that Act.
     
     (3) The Board shall provide, or pay the expenses of, all accommodation for the purpose of hearing and considering objections, and all secretarial and administrative services reasonably required by the assessor appointed by the Board.
     
-    Section 113A: inserted, on 1 April 1988, by [section 26][314] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 113A: inserted, on 1 April 1988, by [section 26][315] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
 
 ##### 114 Travelling expenses of members
     
-*   (1) Any Board may pay to its members travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][313], and the provisions of that Act shall apply accordingly.
+*   (1) Any Board may pay to its members travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][314], and the provisions of that Act shall apply accordingly.
     
     (2) A member voting upon any such question shall not thereby become liable to any penalty under [section 63][91].
     
-    Section 114(1): replaced, on 1 April 1952, by [section 10(1)][315] of the Fees and Travelling Allowances Act 1951 (1951 No 79).
+    Section 114(1): replaced, on 1 April 1952, by [section 10(1)][316] of the Fees and Travelling Allowances Act 1951 (1951 No 79).
 
 ##### 114A Annual allowances and remuneration of Chairman, chairmen of standing committees, and members
     
@@ -2247,11 +2251,11 @@ Finance
     
     (2) The decision of the Auditor-General as to whether or not any expenditure is properly chargeable against any such account shall be final.
     
-    Section 118 heading: amended, on 1 July 2001, pursuant to [section 52][297] of the Public Audit Act 2001 (2001 No 10).
+    Section 118 heading: amended, on 1 July 2001, pursuant to [section 52][298] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 118(1): amended, on 1 July 2001, pursuant to [section 52][297] of the Public Audit Act 2001 (2001 No 10).
+    Section 118(1): amended, on 1 July 2001, pursuant to [section 52][298] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 118(2): amended, on 1 July 2001, pursuant to [section 52][297] of the Public Audit Act 2001 (2001 No 10).
+    Section 118(2): amended, on 1 July 2001, pursuant to [section 52][298] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 119 Transfers from General Account to meet deficiencies
     
@@ -2267,13 +2271,13 @@ Finance
     
     (2) The moneys so set aside and any other moneys payable into the fund or funds shall be paid into a separate bank account in the name of the Board.
     
-    (3) The Board may from time to time apply the money forming the fund or funds only to the purposes aforesaid, or any of them, and the Board, until the money is required for any of those purposes, may invest any of the money in accordance with the provisions of the [Trustee Act 1956][316] as to the investment of trust funds.
+    (3) The Board may from time to time apply the money forming the fund or funds only to the purposes aforesaid, or any of them, and the Board, until the money is required for any of those purposes, may invest any of the money in accordance with the provisions of the [Trustee Act 1956][317] as to the investment of trust funds.
     
     (4) For the purposes of this section the property of a Board shall include every work and the results of every operation that is wholly or partly paid for by a Board, whether or not the Board has any estate or interest in the land on which the works exist or on which the operation has been undertaken.
     
     Section 120(1): amended, on 21 October 1959, by [section 22(1)][249] of the Soil Conservation and Rivers Control Amendment Act 1959 (1959 No 48).
     
-    Section 120(3): replaced, on 1 October 1988, by [section 14(1)][317] of the Trustee Amendment Act 1988 (1988 No 119).
+    Section 120(3): replaced, on 1 October 1988, by [section 14(1)][318] of the Trustee Amendment Act 1988 (1988 No 119).
     
     Section 120(4): inserted, on 21 October 1959, by [section 22(2)][249] of the Soil Conservation and Rivers Control Amendment Act 1959 (1959 No 48).
 
@@ -2289,25 +2293,25 @@ Finance
     
     *   (d) a statement of all the rates made and levied during the financial year and of the amounts collected during that year in respect of those rates and in respect of rates made and levied in previous years.
     
-    (2) Such yearly statement of financial position and statements shall be audited by the Auditor-General, which for that purpose shall have and may exercise all such powers as it has under the [Public Audit Act 2001][318] in respect of public moneys.
+    (2) Such yearly statement of financial position and statements shall be audited by the Auditor-General, which for that purpose shall have and may exercise all such powers as it has under the [Public Audit Act 2001][319] in respect of public moneys.
     
     (3) A copy of the yearly statement of financial position and statements shall when duly audited be submitted to the Minister accompanied by a report as to the operations of the Board for the year, and a copy of the statement of financial position, statements, and report shall be submitted to each constituent local authority, Drainage Board, and River Board which so requests.
     
-    Section 121 heading: amended, on 1 October 1997, pursuant to [section 6(1)][319] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 121 heading: amended, on 1 October 1997, pursuant to [section 6(1)][320] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 121(1): amended, on 1 July 2001, pursuant to [section 52][297] of the Public Audit Act 2001 (2001 No 10).
+    Section 121(1): amended, on 1 July 2001, pursuant to [section 52][298] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 121(1): amended, on 1 October 1997, pursuant to [section 6(1)][319] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 121(1): amended, on 1 October 1997, pursuant to [section 6(1)][320] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 121(2): amended, on 1 July 2001, pursuant to [section 52][297] of the Public Audit Act 2001 (2001 No 10).
+    Section 121(2): amended, on 1 July 2001, pursuant to [section 52][298] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 121(2): amended, on 1 July 2001, pursuant to [section 54(1)(a)][320] of the Public Audit Act 2001 (2001 No 10).
+    Section 121(2): amended, on 1 July 2001, pursuant to [section 54(1)(a)][321] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 121(2): amended, on 1 October 1997, pursuant to [section 6(1)][319] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 121(2): amended, on 1 October 1997, pursuant to [section 6(1)][320] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 121(3): amended, on 1 October 1997, pursuant to [section 6(1)][319] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 121(3): amended, on 1 October 1997, pursuant to [section 6(1)][320] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 121(3): amended, on 1 April 1988, by [section 27][321] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 121(3): amended, on 1 April 1988, by [section 27][322] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
     Section 121(3): amended, on 21 October 1959, by [section 23][249] of the Soil Conservation and Rivers Control Amendment Act 1959 (1959 No 48).
 
@@ -2330,7 +2334,7 @@ Powers and duties of Boards
     
 *   \[Repealed\]
     
-    Section 123: repealed, on 23 October 1959, by [section 5(2)][322] of the Public Bodies Contracts Act 1959 (1959 No 98).
+    Section 123: repealed, on 23 October 1959, by [section 5(2)][323] of the Public Bodies Contracts Act 1959 (1959 No 98).
 
 ##### 124 Boards may make compositions
     
@@ -2346,9 +2350,9 @@ Powers and duties of Boards
     
     (4) Except as provided in the last preceding subsection, nothing in this section shall be deemed to affect the provisions of the said section 33\.
     
-    Section 125 heading: amended, on 1 April 1988, by [section 28][323] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 125 heading: amended, on 1 April 1988, by [section 28][324] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
-    Section 125(1): amended, on 1 April 1988, by [section 28][323] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 125(1): amended, on 1 April 1988, by [section 28][324] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
     Section 125(3): repealed, on 1 July 2003, by [section 262][248] of the Local Government Act 2002 (2002 No 84).
 
@@ -2380,7 +2384,7 @@ Powers and duties of Boards
     
     Section 126(2): amended, on 26 October 1967, by section 9 of the Soil Conservation and Rivers Control Amendment Act 1967 (1967 No 32).
     
-    Section 126(2)(f): inserted, on 7 December 1945, by [section 79(2)][324] of the Statutes Amendment Act 1945 (1945 No 40).
+    Section 126(2)(f): inserted, on 7 December 1945, by [section 79(2)][325] of the Statutes Amendment Act 1945 (1945 No 40).
     
     Section 126(2A): repealed, on 1 October 1991, by [section 362][253] of the Resource Management Act 1991 (1991 No 69).
 
@@ -2394,7 +2398,7 @@ Powers and duties of Boards
     
 *   \[Repealed\]
     
-    Section 128: repealed, on 1 April 1988, by [section 30(1)][325] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 128: repealed, on 1 April 1988, by [section 30(1)][326] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
 
 ##### 129 Boards to furnish information to Minister
     
@@ -2402,13 +2406,13 @@ Powers and duties of Boards
     
     (2) Any person authorised by the Minister so to do may at any time inspect any watercourses, works, or properties under the control of any Board and may inspect any of the deeds, maps, books, papers, or other documents which are in the possession or under the control of the Board.
     
-    Section 129 heading: amended, on 1 April 1988, pursuant to [section 31][326] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 129 heading: amended, on 1 April 1988, pursuant to [section 31][327] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
-    Section 129(1): amended, on 1 April 1988, by [section 31(a)][326] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 129(1): amended, on 1 April 1988, by [section 31(a)][327] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
-    Section 129(1): amended, on 1 April 1988, by [section 31(b)][326] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 129(1): amended, on 1 April 1988, by [section 31(b)][327] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
-    Section 129(2): amended, on 1 April 1988, by [section 31(c)][326] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 129(2): amended, on 1 April 1988, by [section 31(c)][327] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
 
 ##### 129A Board to furnish information to constituent local authorities
     
@@ -2470,9 +2474,9 @@ Powers and duties of Boards
     
 *   (1) Every Catchment Board may, wherever it considers it expedient for the carrying out of its functions so to do, either on land acquired by it or, subject to the consent of the owner, on any other land plant or sow and maintain trees, shrubs, plants, or grasses.
     
-    (2) Subject to the provisions of the [Wildlife Act 1953][327], every Board may destroy, or make grants for the destruction of, any deer or other animals which in its opinion are likely to destroy or damage any trees, shrubs, plants, or grasses the existence of which may tend to mitigate soil erosion or to promote soil conservation or the control of floods.
+    (2) Subject to the provisions of the [Wildlife Act 1953][328], every Board may destroy, or make grants for the destruction of, any deer or other animals which in its opinion are likely to destroy or damage any trees, shrubs, plants, or grasses the existence of which may tend to mitigate soil erosion or to promote soil conservation or the control of floods.
     
-    Section 134(2): amended, on 1 April 1954, pursuant to [section 73(1)][328] of the Wildlife Act 1953 (1953 No 31).
+    Section 134(2): amended, on 1 April 1954, pursuant to [section 73(1)][329] of the Wildlife Act 1953 (1953 No 31).
 
 ##### 135 Incidental powers of Boards
     
@@ -2498,7 +2502,7 @@ Powers and duties of Boards
     
     provided that this section shall not apply in respect of the carrying out by any Board of urgent work to meet an emergency.
     
-    Section 136: amended, on 1 April 1988, by [section 32][329] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 136: amended, on 1 April 1988, by [section 32][330] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
 
 ##### 137 Notice in respect of works to be undertaken on private land
     
@@ -2522,11 +2526,11 @@ Powers and duties of Boards
     
     Section 137(1)(b): amended, on 17 November 1964, by section 7 of the Soil Conservation and Rivers Control Amendment Act 1964 (1964 No 59).
     
-    Section 137(3): replaced, on 1 April 1988, by [section 33][330] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 137(3): replaced, on 1 April 1988, by [section 33][331] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
-    Section 137(3A): inserted, on 1 April 1988, by [section 33][330] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 137(3A): inserted, on 1 April 1988, by [section 33][331] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
-    Section 137(3B): inserted, on 1 April 1988, by [section 33][330] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 137(3B): inserted, on 1 April 1988, by [section 33][331] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
     Section 137(5): inserted, on 21 October 1959, by [section 25][249] of the Soil Conservation and Rivers Control Amendment Act 1959 (1959 No 48).
 
@@ -2540,9 +2544,9 @@ Powers and duties of Boards
 
 ##### 140 Leasing powers of Boards
     
-*   In addition to any leasing powers conferred on a Board by any special Act, every Board is hereby declared to be a leasing authority within the meaning of the [Public Bodies Leases Act 1969][331] and shall have and may exercise the powers conferred on leasing authorities by that Act.
+*   In addition to any leasing powers conferred on a Board by any special Act, every Board is hereby declared to be a leasing authority within the meaning of the [Public Bodies Leases Act 1969][332] and shall have and may exercise the powers conferred on leasing authorities by that Act.
     
-    Section 140: amended, on 1 January 1970, pursuant to [section 28(1)(a)][332] of the Public Bodies Leases Act 1969 (1969 No 141).
+    Section 140: amended, on 1 January 1970, pursuant to [section 28(1)(a)][333] of the Public Bodies Leases Act 1969 (1969 No 141).
 
 #### Supervision of Drainage Boards, River Boards, and local authorities
 
@@ -2562,17 +2566,17 @@ Powers and duties of Boards
     
     (4) The Minister of Local Government after considering the report may, if that Minister thinks fit, require the Catchment Board to present a petition to the Governor-General under the [Land Drainage Act 1908][243] or the [River Boards Act 1908][244], as the case may require, containing such prayer as the Minister of Local Government shall direct.
     
-    Section 141(1): amended, on 1 April 1988, by [section 34(a)][333] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 141(1): amended, on 1 April 1988, by [section 34(a)][334] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
-    Section 141(1): amended, on 1 April 1988, by [section 34(b)][333] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 141(1): amended, on 1 April 1988, by [section 34(b)][334] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
-    Section 141(2): amended, on 1 April 1988, by [section 34(a)][333] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 141(2): amended, on 1 April 1988, by [section 34(a)][334] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
-    Section 141(3): amended, on 1 April 1988, by [section 34(a)][333] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 141(3): amended, on 1 April 1988, by [section 34(a)][334] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
-    Section 141(4): amended, on 1 April 1988, by [section 34(a)][333] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 141(4): amended, on 1 April 1988, by [section 34(a)][334] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
-    Section 141(4): amended, on 1 April 1988, by [section 34(b)][333] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 141(4): amended, on 1 April 1988, by [section 34(b)][334] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
 
 ##### 142 Reorganisation and abolition of internal drainage and river districts
     
@@ -2580,9 +2584,9 @@ Powers and duties of Boards
     
     (2) The [Land Drainage Act 1908][243] and the [River Boards Act 1908][244] shall, so far as applicable and with the necessary modifications, apply to any such petition, and proceedings may be taken thereon as if the petition were a petition to the like effect presented by a Drainage Board or River Board, or by persons entitled pursuant to either of those Acts to present such a petition.
     
-    (3) Where any drainage district is abolished or where the boundaries of any drainage district are altered, any award made under the provisions of [section 87][334] of the Land Drainage Act 1908 may, notwithstanding anything to the contrary in that section, apportion any of the property, debts, liabilities, and engagements of the Drainage Board to any Catchment Board, and thereupon the property, debts, liabilities, and engagements so apportioned shall be the property, debts, liabilities, and engagements of that Catchment Board.
+    (3) Where any drainage district is abolished or where the boundaries of any drainage district are altered, any award made under the provisions of [section 87][335] of the Land Drainage Act 1908 may, notwithstanding anything to the contrary in that section, apportion any of the property, debts, liabilities, and engagements of the Drainage Board to any Catchment Board, and thereupon the property, debts, liabilities, and engagements so apportioned shall be the property, debts, liabilities, and engagements of that Catchment Board.
     
-    (4) Where any river district is abolished, any award made under the provisions of [section 6][335] of the River Boards Amendment Act 1910 may, notwithstanding anything to the contrary in that section, apportion any of the property, debts, liabilities, and engagements of the River Board to any Catchment Board, and thereupon the property, debts, liabilities, and engagements so apportioned shall be the property, debts, liabilities, and engagements of that Catchment Board.
+    (4) Where any river district is abolished, any award made under the provisions of [section 6][336] of the River Boards Amendment Act 1910 may, notwithstanding anything to the contrary in that section, apportion any of the property, debts, liabilities, and engagements of the River Board to any Catchment Board, and thereupon the property, debts, liabilities, and engagements so apportioned shall be the property, debts, liabilities, and engagements of that Catchment Board.
     
     (5) Where under the provisions of this section any debts, liabilities, or engagements of a Drainage Board or River Board are apportioned to a Catchment Board, the Catchment Board may continue to levy any special rate previously made by the Drainage Board or River Board as security for any loan the liability for which is assumed by the Catchment Board, but such rate shall not become a charge upon any additional area.
 
@@ -2590,7 +2594,7 @@ Powers and duties of Boards
     
 *   (1) Every Catchment Board shall exercise a general supervision with respect to the exercise and performance within the catchment district by Drainage Boards and River Boards of their powers, functions, and duties, and may give such general or special directions as it considers reasonable for the guidance of internal Drainage Boards or River Boards with respect to the exercise and performance of their powers, functions, and duties.
     
-    (2) Every Catchment Board shall exercise a general supervision with respect to the exercise and performance within the catchment district by local authorities of any powers, functions, and duties as to watercourses and as to drainage conferred and imposed on local authorities by the [Land Drainage Act 1908][243], the [River Boards Act 1908][244], the [Local Government Act 1974][336], or any other Act, and may give such general or special directions as it considers reasonable for the guidance of local authorities with respect to the exercise and performance of those powers, functions, and duties.
+    (2) Every Catchment Board shall exercise a general supervision with respect to the exercise and performance within the catchment district by local authorities of any powers, functions, and duties as to watercourses and as to drainage conferred and imposed on local authorities by the [Land Drainage Act 1908][243], the [River Boards Act 1908][244], the [Local Government Act 1974][337], or any other Act, and may give such general or special directions as it considers reasonable for the guidance of local authorities with respect to the exercise and performance of those powers, functions, and duties.
     
     (3) Without prejudice to the generality of the foregoing provisions of this section, no Drainage Board, River Board, or local authority shall, in exercise or performance of any of the powers, functions, or duties referred to in the foregoing provisions of this section, construct or alter any watercourse or any other works in a catchment district otherwise than with the consent (not to be unreasonably withheld) of the Catchment Board of the district.
     
@@ -2626,15 +2630,15 @@ Powers and duties of Boards
     
 *   \[Repealed\]
     
-    Section 145A: repealed, on 1 April 1988, by [section 35(1)][337] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 145A: repealed, on 1 April 1988, by [section 35(1)][338] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
 
 ##### 145B Procedure in respect of compensation claims
     
-*   All claims under this Act for compensation shall be made and determined within the time and in the manner provided by the [Public Works Act 1981][331] in respect of lands taken under that Act or in respect of damage suffered from the exercise of any powers conferred by that Act, and the provisions of that Act shall apply accordingly:
+*   All claims under this Act for compensation shall be made and determined within the time and in the manner provided by the [Public Works Act 1981][332] in respect of lands taken under that Act or in respect of damage suffered from the exercise of any powers conferred by that Act, and the provisions of that Act shall apply accordingly:
     
     provided that:
         
-    *   (a) in determining the amount of compensation to be awarded on a claim in respect of any work or operation under this Act (whether for land taken or injuriously affected or otherwise), being a work or operation in respect of which the land is or is proposed to be rated according to a system of differential rating based on benefit to that land from the work or operation, the Land Valuation Tribunal shall not take into account the matters referred to in paragraph (e) of subsection (1) of [section 62][338] of the Public Works Act 1981:
+    *   (a) in determining the amount of compensation to be awarded on a claim in respect of any work or operation under this Act (whether for land taken or injuriously affected or otherwise), being a work or operation in respect of which the land is or is proposed to be rated according to a system of differential rating based on benefit to that land from the work or operation, the Land Valuation Tribunal shall not take into account the matters referred to in paragraph (e) of subsection (1) of [section 62][339] of the Public Works Act 1981:
     
     *   (b) no compensation shall be payable in respect of the controlling of the lighting of fires, unless the owner or occupier of the land has applied in proper form for a permit to light a fire on the land and the application has been refused, and he has followed and exhausted every right of appeal given to him by any Act, regulation, or bylaw relating to applications which have been refused:
     
@@ -2654,9 +2658,9 @@ Powers and duties of Boards
     
 *   In any case where a Board is of opinion that any defence against water constructed by any person is likely to be required for or of substantial benefit to the efficient carrying out of the Board's scheme and the owner thereof is not entitled to claim compensation in respect thereof under [sections 145][204] and [145B][206], the Board may pay to the owner of that defence against water a proportion of the cost thereof.
     
-    Section 146: amended, on 1 April 1988, by [section 36(a)][339] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 146: amended, on 1 April 1988, by [section 36(a)][340] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
-    Section 146: amended, on 1 April 1988, by [section 36(b)][339] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 146: amended, on 1 April 1988, by [section 36(b)][340] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
     Section 146: amended, on 21 October 1959, by [section 27(2)][249] of the Soil Conservation and Rivers Control Amendment Act 1959 (1959 No 48).
 
@@ -2724,9 +2728,9 @@ Offences and legal proceedings
     
     (2) Every person commits an offence and is liable to a fine not exceeding $100 who wilfully destroys, removes, pulls down, injures, or defaces any board, placard, or notice set up, made, or published under this Act.
     
-    Section 153 heading: amended, on 1 April 1988, by [section 38][340] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 153 heading: amended, on 1 April 1988, by [section 38][341] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
-    Section 153(1): amended, on 1 April 1988, by [section 38][340] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 153(1): amended, on 1 April 1988, by [section 38][341] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
     Section 153(1): amended, on 1 April 1988, by [section 43(2)(c)][256] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
@@ -2742,13 +2746,13 @@ Offences and legal proceedings
     
     Section 154: replaced, on 22 October 1952, by section 20 of the Soil Conservation and Rivers Control Amendment Act 1952 (1952 No 38).
     
-    Section 154(1): amended, on 1 April 1988, by [section 38][340] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 154(1): amended, on 1 April 1988, by [section 38][341] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
     Section 154(1): amended, on 1 April 1988, by [section 43(2)(c)][256] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
     Section 154(1): amended, on 16 December 1983, by section 17 of the Soil Conservation and Rivers Control Amendment Act 1983 (1983 No 152).
     
-    Section 154(2): amended, on 1 April 1988, by [section 38][340] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 154(2): amended, on 1 April 1988, by [section 38][341] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
     Section 154(2): amended, on 1 April 1988, by [section 43(2)(c)][256] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
@@ -2762,15 +2766,17 @@ Offences and legal proceedings
 
 ##### 156 Offences punishable summarily
     
-*   All proceedings in respect of offences against this Act or against any regulations or bylaws made under this Act shall, unless the contrary is expressed, be taken in a summary way under the [Summary Proceedings Act 1957][341].
+*   \[Repealed\]
     
-    Section 156: amended, on 1 April 1958, pursuant to [section 214(1)][342] of the Summary Proceedings Act 1957 (1957 No 87).
+    Section 156: repealed, on 1 July 2013, by [section 413][295] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 157 Time for prosecutions
     
-*   [Section 14][343] of the Summary Proceedings Act 1957 shall not apply with respect to any prosecution for an offence against this Act or against any regulation made under [Part 1][4] of this Act.
+*   [Section 25][342] of the Criminal Procedure Act 2011 shall not apply with respect to any prosecution for an offence against this Act or against any regulation made under [Part 1][4] of this Act.
     
     Section 157: replaced, on 21 October 1959, by [section 31][249] of the Soil Conservation and Rivers Control Amendment Act 1959 (1959 No 48).
+    
+    Section 157: amended, on 1 July 2013, by [section 413][295] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Legal proceedings
 
@@ -2778,19 +2784,19 @@ Offences and legal proceedings
     
 *   No Judge, District Court Judge, Justice, or Community Magistrate shall be deemed to be interested in any case in which he is acting judicially solely on the ground that he is liable to be rated within any district or is a resident within the district.
     
-    Section 158: amended, on 30 June 1998, by [section 7][344] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 158: amended, on 30 June 1998, by [section 7][343] of the District Courts Amendment Act 1998 (1998 No 76).
     
-    Section 158: amended, on 1 April 1980, pursuant to [section 18(2)][307] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 158: amended, on 1 April 1980, pursuant to [section 18(2)][308] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 159 Representation of Boards in proceedings in District Court, etc
     
 *   In all proceedings in which any Board is concerned under any Act relating to bankruptcy, and in all proceedings in a District Court or before any Justice or Community Magistrate, the Secretary, or any other person from time to time appointed by the Board for the purpose, may appear and act on behalf of the Board.
     
-    Section 159 heading: amended, on 1 April 1980, pursuant to [section 18(2)][307] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 159 heading: amended, on 1 April 1980, pursuant to [section 18(2)][308] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 159: amended, on 30 June 1998, by [section 7][344] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 159: amended, on 30 June 1998, by [section 7][343] of the District Courts Amendment Act 1998 (1998 No 76).
     
-    Section 159: amended, on 1 April 1980, pursuant to [section 18(2)][307] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 159: amended, on 1 April 1980, pursuant to [section 18(2)][308] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 159: amended, on 19 November 1948, by [section 2(2)][246] of the Soil Conservation and Rivers Control Amendment Act 1948 (1948 No 40).
 
@@ -2808,7 +2814,7 @@ Offences and legal proceedings
     
 *   \[Repealed\]
     
-    Section 162: repealed, on 1 January 1952, by [section 35(2)][345] of the Limitation Act 1950 (1950 No 65).
+    Section 162: repealed, on 1 January 1952, by [section 35(2)][344] of the Limitation Act 1950 (1950 No 65).
 
 ## Part 10  
 Miscellaneous
@@ -2849,7 +2855,7 @@ Miscellaneous
     
     Section 165A: inserted, on 21 October 1959, by [section 32][249] of the Soil Conservation and Rivers Control Amendment Act 1959 (1959 No 48).
     
-    Section 165A: amended, on 1 April 1988, by [section 38][340] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 165A: amended, on 1 April 1988, by [section 38][341] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
     Section 165A: amended, on 1 April 1988, by [section 43(2)(e)][256] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
@@ -2867,7 +2873,7 @@ Miscellaneous
     
 *   \[Repealed\]
     
-    Section 167: repealed, on 19 December 1989, by [section 11][346] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 167: repealed, on 19 December 1989, by [section 11][345] of the Regulations (Disallowance) Act 1989 (1989 No 143).
 
 ##### 168 Board not to construct works on tidal waters without Governor-General's sanction
     
@@ -2885,9 +2891,9 @@ Miscellaneous
     
     (2) In giving any consent and approval under the last preceding subsection the Minister may impose such conditions as he thinks fit for the protection and safety of the public work.
     
-    Section 169(1)(a): replaced, on 1 April 1988, by [section 39(1)][347] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 169(1)(a): replaced, on 1 April 1988, by [section 39(1)][346] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
-    Section 169(2): amended, on 1 April 1988, by [section 39(2)][347] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 169(2): amended, on 1 April 1988, by [section 39(2)][346] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
 
 ##### 170 Act not to affect property of the Crown
     
@@ -2903,7 +2909,7 @@ Miscellaneous
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 1 April 1988, by [section 40][348] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+*   Schedule 1: repealed, on 1 April 1988, by [section 40][347] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
 
 ---
 
@@ -2931,23 +2937,23 @@ Miscellaneous
 
 ###### 1 General
     
-*   This is a reprint of the Soil Conservation and Rivers Control Act 1941\. The reprint incorporates all the amendments to the Act as at 24 May 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Soil Conservation and Rivers Control Act 1941\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][349] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][348] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][350] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][349] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][351] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][350] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][352] and [17E][353] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][351] and [17E][352] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -2980,41 +2986,43 @@ Miscellaneous
     
 *   Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][268]
     
-    Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64): [section 19][305]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][295]
+    
+    Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64): [section 19][306]
     
     Local Government Act 2002 (2002 No 84): [section 262][248]
     
-    Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17): [section 76][310]
+    Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17): [section 76][311]
     
     Local Government (Rating) Act 2002 (2002 No 6): [section 138(1)][277]
     
-    Public Audit Act 2001 (2001 No 10): [sections 52][297], [54(1)(a)][320]
+    Public Audit Act 2001 (2001 No 10): [sections 52][298], [54(1)(a)][321]
     
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][344]
+    District Courts Amendment Act 1998 (1998 No 76): [section 7][343]
     
-    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][319]
+    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][320]
     
     Resource Management Act 1991 (1991 No 69): [section 362][253]
     
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][346]
+    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][345]
     
     Public Finance Act 1989 (1989 No 44): [section 83(7)][271]
     
     Soil Conservation and Rivers Control Amendment Act (No 2) 1988 (1988 No 212)
     
-    Trustee Amendment Act 1988 (1988 No 119): [section 14(1)][317]
+    Trustee Amendment Act 1988 (1988 No 119): [section 14(1)][318]
     
     Rating Powers Act 1988 (1988 No 97): sections 208(1), 209(1)
     
-    [Soil Conservation and Rivers Control Amendment Act 1988][354] (1988 No 48)
+    [Soil Conservation and Rivers Control Amendment Act 1988][353] (1988 No 48)
     
     Soil Conservation and Rivers Control Amendment Act 1987 (1987 No 202)
     
-    Local Government Official Information and Meetings Act 1987 (1987 No 174): [section 57(1)][309]
+    Local Government Official Information and Meetings Act 1987 (1987 No 174): [section 57(1)][310]
     
-    Local Government Amendment Act 1986 (1986 No 21): [section 12][301]
+    Local Government Amendment Act 1986 (1986 No 21): [section 12][302]
     
-    Local Government Amendment Act 1985 (1985 No 60): [section 39(3)][308]
+    Local Government Amendment Act 1985 (1985 No 60): [section 39(3)][309]
     
     Soil Conservation and Rivers Control Amendment Act 1983 (1983 No 152)
     
@@ -3022,7 +3030,7 @@ Miscellaneous
     
     Public Works Act 1981 (1981 No 35): [section 248(1)][259]
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][307]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][308]
     
     Judicature Amendment Act 1979 (1979 No 124): [section 12][282]
     
@@ -3050,7 +3058,7 @@ Miscellaneous
     
     Soil Conservation and Rivers Control Amendment Act 1970 (1970 No 43)
     
-    Public Bodies Leases Act 1969 (1969 No 141): [section 28(1)(a)][332]
+    Public Bodies Leases Act 1969 (1969 No 141): [section 28(1)(a)][333]
     
     Soil Conservation and Rivers Control Amendment Act 1969 (1969 No 14)
     
@@ -3068,11 +3076,9 @@ Miscellaneous
     
     Soil Conservation and Rivers Control Amendment Act 1961 (1961 No 101)
     
-    Public Bodies Contracts Act 1959 (1959 No 98): [section 5(2)][322]
+    Public Bodies Contracts Act 1959 (1959 No 98): [section 5(2)][323]
     
-    [Soil Conservation and Rivers Control Amendment Act 1959][355] (1959 No 48)
-    
-    Summary Proceedings Act 1957 (1957 No 87): [section 214(1)][342]
+    [Soil Conservation and Rivers Control Amendment Act 1959][354] (1959 No 48)
     
     Local Authorities (Members' Contracts) Amendment Act 1957 (1957 No 60): section 2(3)
     
@@ -3080,25 +3086,25 @@ Miscellaneous
     
     Local Government Loans Board Amendment Act 1954 (1954 No 75): section 8(1)
     
-    Wildlife Act 1953 (1953 No 31): [section 73(1)][328]
+    Wildlife Act 1953 (1953 No 31): [section 73(1)][329]
     
     Local Elections and Polls Act 1953 (1953 No 16): sections 102, 103(1)
     
     Soil Conservation and Rivers Control Amendment Act 1952 (1952 No 38)
     
-    Fees and Travelling Allowances Act 1951 (1951 No 79): [section 10(1)][315]
+    Fees and Travelling Allowances Act 1951 (1951 No 79): [section 10(1)][316]
     
-    Limitation Act 1950 (1950 No 65): [section 35(2)][345]
+    Limitation Act 1950 (1950 No 65): [section 35(2)][344]
     
     Land Act 1948 (1948 No 64): [section 185(1)][270]
     
-    [Soil Conservation and Rivers Control Amendment Act 1948][356] (1948 No 40)
+    [Soil Conservation and Rivers Control Amendment Act 1948][355] (1948 No 40)
     
     Maori Purposes Act 1947 (1947 No 59): [section 2][260]
     
-    [Soil Conservation and Rivers Control Amendment Act 1946][357] (1946 No 29)
+    [Soil Conservation and Rivers Control Amendment Act 1946][356] (1946 No 29)
     
-    Statutes Amendment Act 1945 (1945 No 40): [section 79(2)][324]
+    Statutes Amendment Act 1945 (1945 No 40): [section 79(2)][325]
 
 
 
@@ -3395,68 +3401,67 @@ Miscellaneous
 [290]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131644
 [291]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131645
 [292]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131646
-[293]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM313122
-[294]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM312658
-[295]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131647
-[296]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131648
-[297]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM88956
-[298]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131649
-[299]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM93300
-[300]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM94338
-[301]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM92851
-[302]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM93965
-[303]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM127009
-[304]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM127010
-[305]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM1404064
-[306]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM304475
-[307]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM35085
-[308]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM75660
-[309]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM123614
-[310]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM145126
-[311]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM323800
-[312]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM323802
-[313]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM264952
-[314]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131650
-[315]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM264982
-[316]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM304703
-[317]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM135629
-[318]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM88540
-[319]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM408960
-[320]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM88959
-[321]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131651
-[322]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM324234
-[323]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131652
-[324]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM239196
-[325]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131654
-[326]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131655
-[327]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM276813
-[328]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM278542
-[329]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131656
-[330]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131657
-[331]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM394841
-[332]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM395424
-[333]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131658
-[334]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM167368
-[335]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM176950
-[336]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM415531
-[337]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131659
-[338]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM46358
-[339]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131660
-[340]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131662
-[341]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM310742
-[342]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM314306
-[343]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM311191
-[344]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM427920
-[345]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM262646
-[346]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM195558
-[347]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131663
-[348]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131664
-[349]: http://www.pco.parliament.govt.nz/reprints/
-[350]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM195439
-[351]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[352]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM195468
-[353]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM195470
-[354]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131619
-[355]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM323058
-[356]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM248870
-[357]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM240809
+[293]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM3360482
+[294]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM3360489
+[295]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM3360714
+[296]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131647
+[297]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131648
+[298]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM88956
+[299]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131649
+[300]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM93300
+[301]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM94338
+[302]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM92851
+[303]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM93965
+[304]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM127009
+[305]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM127010
+[306]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM1404064
+[307]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM304475
+[308]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM35085
+[309]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM75660
+[310]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM123614
+[311]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM145126
+[312]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM323800
+[313]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM323802
+[314]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM264952
+[315]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131650
+[316]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM264982
+[317]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM304703
+[318]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM135629
+[319]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM88540
+[320]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM408960
+[321]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM88959
+[322]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131651
+[323]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM324234
+[324]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131652
+[325]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM239196
+[326]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131654
+[327]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131655
+[328]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM276813
+[329]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM278542
+[330]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131656
+[331]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131657
+[332]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM394841
+[333]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM395424
+[334]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131658
+[335]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM167368
+[336]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM176950
+[337]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM415531
+[338]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131659
+[339]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM46358
+[340]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131660
+[341]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131662
+[342]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM3360067
+[343]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM427920
+[344]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM262646
+[345]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM195558
+[346]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131663
+[347]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131664
+[348]: http://www.pco.parliament.govt.nz/reprints/
+[349]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM195439
+[350]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[351]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM195468
+[352]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM195470
+[353]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM131619
+[354]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM323058
+[355]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM248870
+[356]: http://www.legislation.govt.nz/act/public/1941/0012/latest/link.aspx?id=DLM240809
