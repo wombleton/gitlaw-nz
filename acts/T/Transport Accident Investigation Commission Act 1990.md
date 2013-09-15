@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2009
+as at 27 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Transport.
 
@@ -25,90 +25,90 @@ This Act is administered by the Ministry of Transport.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
 [Part 1][3]  
 [Preliminary provisions][3]
 
-[2][4] [Interpretation][4]
+[2][4][][4][Interpretation][4]
 
-[2A][5] [Application of Act][5]
+[2A][5][][5][Application of Act][5]
 
 [Part 2][6]  
 [Transport Accident Investigation Commission][6]
 
-[3][7] [Establishment of Commission][7]
+[3][7][][7][Establishment of Commission][7]
 
-[4][8] [Purpose of Commission][8]
+[4][8][][8][Purpose of Commission][8]
 
-[5][9] [Membership of Commission][9]
+[5][9][][9][Membership of Commission][9]
 
-[5A][10] [Appointment of assessors][10]
+[5A][10][][10][Appointment of assessors][10]
 
-[6][11] [Commission responsible to Minister][11] \[Repealed\]
+[6][11][][11][Commission responsible to Minister][11] \[Repealed\]
 
-[6A][12] [Extra information to be included in statement of intent][12]
+[6A][12][][12][Extra information to be included in statement of intent][12]
 
-[7][13] [Further provisions applying in relation to Commission][13]
+[7][13][][13][Further provisions applying in relation to Commission][13]
 
-[8][14] [Functions of Commission][14]
+[8][14][][14][Functions of Commission][14]
 
-[9][15] [Commission may make reports to Authority and give notice where appropriate][15]
+[9][15][][15][Commission may make reports to Authority and give notice where appropriate][15]
 
-[10][16] [Commission to notify Authority of accidents and incidents not being investigated][16]
+[10][16][][16][Commission to notify Authority of accidents and incidents not being investigated][16]
 
-[11][17] [Powers of Commission][17]
+[11][17][][17][Powers of Commission][17]
 
-[12][18] [Powers of entry and investigation][18]
+[12][18][][18][Powers of entry and investigation][18]
 
-[12A][19] [Offences in respect of certain powers of investigation][19]
+[12A][19][][19][Offences in respect of certain powers of investigation][19]
 
-[13][20] [Accidents to be investigated][20]
+[13][20][][20][Accidents to be investigated][20]
 
-[14][21] [Conduct of investigation][21]
+[14][21][][21][Conduct of investigation][21]
 
 [Part 3][22]  
 [Disclosure and admissibility of transport accident and incident investigation information][22]
 
-[14A][23] [Interpretation][23]
+[14A][23][][23][Interpretation][23]
 
-[14B][24] [Circumstances of disclosure, and admissibility, of certain investigation records][24]
+[14B][24][][24][Circumstances of disclosure, and admissibility, of certain investigation records][24]
 
-[14C][25] [Circumstances of disclosure of cockpit recordings, and certain investigation records supplied to Commission][25]
+[14C][25][][25][Circumstances of disclosure of cockpit recordings, and certain investigation records supplied to Commission][25]
 
-[14D][26] [Admissibility of cockpit recordings, and certain investigation records supplied to Commission][26]
+[14D][26][][26][Admissibility of cockpit recordings, and certain investigation records supplied to Commission][26]
 
-[14E][27] [Disclosure of record relating to accident or incident before civil proceedings commenced][27]
+[14E][27][][27][Disclosure of record relating to accident or incident before civil proceedings commenced][27]
 
-[14F][28] [Disclosure of record relating to accident or incident in civil proceedings][28]
+[14F][28][][28][Disclosure of record relating to accident or incident in civil proceedings][28]
 
-[14G][29] [Provisions relating to application under section 14E or section 14F][29]
+[14G][29][][29][Provisions relating to application under section 14E or section 14F][29]
 
-[14H][30] [Court may order record to be produced][30]
+[14H][30][][30][Court may order record to be produced][30]
 
-[14I][31] [Restriction on publication of reports of proceedings][31]
+[14I][31][][31][Restriction on publication of reports of proceedings][31]
 
-[14J][32] [Further provisions relating to disclosure of record][32]
+[14J][32][][32][Further provisions relating to disclosure of record][32]
 
-[14K][33] [Certain actions do not constitute disclosure][33]
+[14K][33][][33][Certain actions do not constitute disclosure][33]
 
-[14L][34] [Offences relating to disclosure of records][34]
+[14L][34][][34][Offences relating to disclosure of records][34]
 
-[14M][35] [Offences relating to publication of reports of proceedings or publication of records][35]
+[14M][35][][35][Offences relating to publication of reports of proceedings or publication of records][35]
 
-[14N][36] [Admissibility of accident or incident findings, recommendations, or report][36]
+[14N][36][][36][Admissibility of accident or incident findings, recommendations, or report][36]
 
-[14O][37] [Commission investigators not compellable to give opinion evidence in certain proceedings][37]
+[14O][37][][37][Commission investigators not compellable to give opinion evidence in certain proceedings][37]
 
-[14P][38] [No search warrant may be issued for record specified in section 14B(2) or section 14C(2)][38]
+[14P][38][][38][No search warrant may be issued for record specified in section 14B(2) or section 14C(2)][38]
 
-[14Q][39] [Disclosure of personal information under Privacy Act 1993][39]
+[14Q][39][][39][Disclosure of personal information under Privacy Act 1993][39]
 
-[14R][40] [Application of Official Information Act 1982 to record specified in section 14B(2) or section 14C(2)][40]
+[14R][40][][40][Application of Official Information Act 1982 to record specified in section 14B(2) or section 14C(2)][40]
 
-[15][41] [Commission to complete certain former investigations][41] \[Repealed\]
+[15][41][][41][Commission to complete certain former investigations][41] \[Repealed\]
 
-[16][42] [Amendment to Ombudsmen Act 1975][42] \[Repealed\]
+[16][42][][42][Amendment to Ombudsmen Act 1975][42] \[Repealed\]
 
 [Schedule][43]  
 [Provisions applying in relation to the Transport Accident Investigation Commission][43]
@@ -614,11 +614,17 @@ Disclosure and admissibility of transport accident and incident investigation in
     
     *   (d) proceedings before a commission of inquiry under the [Commissions of Inquiry Act 1908][71] or a body, other than the Commission, having the powers or any of the powers of such a commission of inquiry; and
     
-    *   (e) an inquiry or investigation by any person, other than the Commission, having authority to conduct the inquiry or investigation under any Act.
+    *   (e) an inquiry or investigation by any person, other than the Commission, having authority to conduct the inquiry or investigation under any Act; and
+    
+    *   (f) an inquiry to which [section 6][84] of the Inquiries Act 2013 applies.
     
     Section 14A: inserted, on 10 September 1999, by [section 7][80] of the Transport Accident Investigation Commission Amendment Act 1999 (1999 No 113).
     
-    Section 14A **proceedings** paragraph (a)(i): amended, on 1 July 2009, by [section 81][84] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 14A **proceedings** paragraph (a)(i): amended, on 1 July 2009, by [section 81][85] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    
+    Section 14A **proceedings** paragraph (e): amended, on 27 August 2013, by [section 39][86] of the Inquiries Act 2013 (2013 No 60).
+    
+    Section 14A **proceedings** paragraph (f): inserted, on 27 August 2013, by [section 39][86] of the Inquiries Act 2013 (2013 No 60).
 
 ##### 14B Circumstances of disclosure, and admissibility, of certain investigation records
     
@@ -690,7 +696,7 @@ Disclosure and admissibility of transport accident and incident investigation in
 
 ##### 14E Disclosure of record relating to accident or incident before civil proceedings commenced
     
-*   (1) This section applies to any civil proceedings if the amount of the damages claimed or intended to be claimed exceeds the amount specified from time to time as the maximum civil jurisdiction of District Courts under the [District Courts Act 1947][85]; but does not apply to proceedings under the [Employment Relations Act 2000][86].
+*   (1) This section applies to any civil proceedings if the amount of the damages claimed or intended to be claimed exceeds the amount specified from time to time as the maximum civil jurisdiction of District Courts under the [District Courts Act 1947][87]; but does not apply to proceedings under the [Employment Relations Act 2000][88].
     
     (2) A person who is or may be intending to commence civil proceedings of a kind specified in subsection (1) may apply to the High Court for the disclosure of a record specified in [section 14C(2)][25].
     
@@ -708,11 +714,11 @@ Disclosure and admissibility of transport accident and incident investigation in
     
     Section 14E: inserted, on 10 September 1999, by [section 7][80] of the Transport Accident Investigation Commission Amendment Act 1999 (1999 No 113).
     
-    Section 14E(1): amended, on 2 October 2000, by [section 240][87] of the Employment Relations Act 2000 (2000 No 24).
+    Section 14E(1): amended, on 2 October 2000, by [section 240][89] of the Employment Relations Act 2000 (2000 No 24).
 
 ##### 14F Disclosure of record relating to accident or incident in civil proceedings
     
-*   (1) This section applies to any civil proceedings if the amount of the damages claimed exceeds the amount specified from time to time as the maximum civil jurisdiction of District Courts under the [District Courts Act 1947][85]; but does not apply to proceedings under the [Employment Relations Act 2000][86].
+*   (1) This section applies to any civil proceedings if the amount of the damages claimed exceeds the amount specified from time to time as the maximum civil jurisdiction of District Courts under the [District Courts Act 1947][87]; but does not apply to proceedings under the [Employment Relations Act 2000][88].
     
     (2) A party to civil proceedings to which this section applies may apply to the High Court for the disclosure of a record specified in [section 14C(2)][25].
     
@@ -720,7 +726,7 @@ Disclosure and admissibility of transport accident and incident investigation in
     
     Section 14F: inserted, on 10 September 1999, by [section 7][80] of the Transport Accident Investigation Commission Amendment Act 1999 (1999 No 113).
     
-    Section 14F(1): amended, on 2 October 2000, by [section 240][87] of the Employment Relations Act 2000 (2000 No 24).
+    Section 14F(1): amended, on 2 October 2000, by [section 240][89] of the Employment Relations Act 2000 (2000 No 24).
 
 ##### 14G Provisions relating to application under section 14E or section 14F
     
@@ -758,7 +764,7 @@ Disclosure and admissibility of transport accident and incident investigation in
     
     Section 14G: inserted, on 10 September 1999, by [section 7][80] of the Transport Accident Investigation Commission Amendment Act 1999 (1999 No 113).
     
-    Section 14G(8): added, on 26 April 2005, by [section 7][88] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 14G(8): added, on 26 April 2005, by [section 7][90] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 14H Court may order record to be produced
     
@@ -812,25 +818,29 @@ Disclosure and admissibility of transport accident and incident investigation in
     
     (2) Every person commits an offence who contravenes [section 14J(2)][32].
     
-    (3) Every person who commits an offence against this section is liable on summary conviction,---
+    (3) Every person who commits an offence against this section is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $10,000:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $25,000\.
     
     Section 14L: inserted, on 10 September 1999, by [section 7][80] of the Transport Accident Investigation Commission Amendment Act 1999 (1999 No 113).
+    
+    Section 14L(3): amended, on 1 July 2013, by [section 413][91] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 14M Offences relating to publication of reports of proceedings or publication of records
     
 *   (1) Every person commits an offence who contravenes [section 14I][31] or [section 14J(4)][32].
     
-    (2) Every person who commits an offence against this section is liable on summary conviction,---
+    (2) Every person who commits an offence against this section is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $10,000:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $25,000\.
     
     Section 14M: inserted, on 10 September 1999, by [section 7][80] of the Transport Accident Investigation Commission Amendment Act 1999 (1999 No 113).
+    
+    Section 14M(2): amended, on 1 July 2013, by [section 413][91] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 14N Admissibility of accident or incident findings, recommendations, or report
     
@@ -842,7 +852,7 @@ Disclosure and admissibility of transport accident and incident investigation in
     
     Section 14N: inserted, on 10 September 1999, by [section 7][80] of the Transport Accident Investigation Commission Amendment Act 1999 (1999 No 113).
     
-    Section 14N(a): amended, on 1 July 2007, by [section 146][89] of the Coroners Act 2006 (2006 No 38).
+    Section 14N(a): amended, on 1 July 2007, by [section 146][92] of the Coroners Act 2006 (2006 No 38).
 
 ##### 14O Commission investigators not compellable to give opinion evidence in certain proceedings
     
@@ -862,7 +872,7 @@ Disclosure and admissibility of transport accident and incident investigation in
 
 ##### 14Q Disclosure of personal information under Privacy Act 1993
     
-*   (1) A record specified in any of paragraphs (a), (b), and (c) of [section 14B(2)][24] or [section 14C(2)][25] may be disclosed to the supplier of that record pursuant to a request made in accordance with principle 6 of the [Privacy Act 1993][90].
+*   (1) A record specified in any of paragraphs (a), (b), and (c) of [section 14B(2)][24] or [section 14C(2)][25] may be disclosed to the supplier of that record pursuant to a request made in accordance with principle 6 of the [Privacy Act 1993][93].
     
     (2) For the purposes of subsection (1), a person is the supplier of a record if the person---
         
@@ -874,7 +884,7 @@ Disclosure and admissibility of transport accident and incident investigation in
     
     (3) To avoid doubt, a person to whom a record is disclosed under this section may not disclose that record to any person in breach of [section 14B(1)][24] or [section 14C(1)][25].
     
-    (4) Nothing in this section limits [sections 27 to 29][91] of the Privacy Act 1993\.
+    (4) Nothing in this section limits [sections 27 to 29][94] of the Privacy Act 1993\.
     
     (5) This section is subject to [section 14(3)][21].
     
@@ -882,7 +892,7 @@ Disclosure and admissibility of transport accident and incident investigation in
 
 ##### 14R Application of Official Information Act 1982 to record specified in section 14B(2) or section 14C(2)
     
-*   Nothing in the [Official Information Act 1982][92] applies to a record specified in [section 14B(2)][24] or [section 14C(2)][25].
+*   Nothing in the [Official Information Act 1982][95] applies to a record specified in [section 14B(2)][24] or [section 14C(2)][25].
     
     Section 14R: inserted, on 10 September 1999, by [section 7][80] of the Transport Accident Investigation Commission Amendment Act 1999 (1999 No 113).
 
@@ -890,13 +900,13 @@ Disclosure and admissibility of transport accident and incident investigation in
     
 *   \[Repealed\]
     
-    Section 15: repealed, on 10 September 1999, by [section 9][93] of the Transport Accident Investigation Commission Amendment Act 1999 (1999 No 113).
+    Section 15: repealed, on 10 September 1999, by [section 9][96] of the Transport Accident Investigation Commission Amendment Act 1999 (1999 No 113).
 
 ##### 16 Amendment to Ombudsmen Act 1975
     
 *   \[Repealed\]
     
-    Section 16: repealed, on 10 September 1999, by [section 9][93] of the Transport Accident Investigation Commission Amendment Act 1999 (1999 No 113).
+    Section 16: repealed, on 10 September 1999, by [section 9][96] of the Transport Accident Investigation Commission Amendment Act 1999 (1999 No 113).
 
 ---
 
@@ -907,19 +917,13 @@ Provisions applying in relation to the Transport Accident Investigation Commissi
 
 #### Membership
 
-##### 1
-    
-*   The Minister shall appoint one of the members of the Commission to be the Chief Commissioner and another member to be the Deputy Chief Commissioner.
+*   1 The Minister shall appoint one of the members of the Commission to be the Chief Commissioner and another member to be the Deputy Chief Commissioner.
 
-##### 2
-    
-*   The Chief Commissioner holds office as chairperson of the board and the Deputy Chief Commissioner holds office as deputy chairperson of the board for the purposes of the [Crown Entities Act 2004][60] for the same term as they hold office as Chief Commissioner or Deputy Chief Commissioner respectively.
+*   2 The Chief Commissioner holds office as chairperson of the board and the Deputy Chief Commissioner holds office as deputy chairperson of the board for the purposes of the Crown Entities Act 2004 for the same term as they hold office as Chief Commissioner or Deputy Chief Commissioner respectively.
     
     Schedule clause 2: substituted, on 25 January 2005, by [section 200][61] of the Crown Entities Act 2004 (2004 No 115).
 
-##### 3
-    
-*   [Clauses 1 to 4][94] of Schedule 5 of the Crown Entities Act 2004 do not apply to the Commission.
+*   3 Clauses 1 to 4 of Schedule 5 of the Crown Entities Act 2004 do not apply to the Commission.
     
     Schedule clause 3: substituted, on 25 January 2005, by [section 200][61] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -1057,9 +1061,7 @@ Provisions applying in relation to the Transport Accident Investigation Commissi
 
 #### Chief executive
 
-##### 21
-    
-*   The Commission shall appoint a chief executive, who shall not be a member of the Commission, in accordance with [section 117][95] of the Crown Entities Act 2004\.
+*   21 The Commission shall appoint a chief executive, who shall not be a member of the Commission, in accordance with section 117 of the Crown Entities Act 2004\.
     
     Schedule clause 21: amended, on 25 January 2005, by [section 200][61] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -1095,15 +1097,13 @@ Provisions applying in relation to the Transport Accident Investigation Commissi
     
     *   (b) no later than 1 month after the commencement of this Act becomes an employee of the Commission,---
     
-    may continue to be a member of the Fund; and for so long as the person remains a member of the fund, the member's service in the employment of the Commission shall be deemed to be Government Service within the meaning of the [Government Superannuation Fund Act 1956][96].
+    may continue to be a member of the Fund; and for so long as the person remains a member of the fund, the member's service in the employment of the Commission shall be deemed to be Government Service within the meaning of the [Government Superannuation Fund Act 1956][97].
     
     (2) Except as provided in subclause (1), no employee of the Commission is entitled to become or remain a member of the Government Superannuation Fund.
 
 #### Delegations
 
-##### 26
-    
-*   The Commission may delegate under [section 73][97] of the Crown Entities Act 2004 its power to investigate an accident or incident, or any power incidental to that power (including the functions set out in [section 8][14] of this Act), but---
+*   26 The Commission may delegate under section 73 of the Crown Entities Act 2004 its power to investigate an accident or incident, or any power incidental to that power (including the functions set out in section 8 of this Act), but---
         
     *   (a) if it does so, it must review the facts; and
     
@@ -1111,15 +1111,11 @@ Provisions applying in relation to the Transport Accident Investigation Commissi
     
     Schedule clause 26: substituted, on 25 January 2005, by [section 200][61] of the Crown Entities Act 2004 (2004 No 115).
 
-##### 27
-    
-*   The Chief Commissioner may delegate the Chief Commissioner's power to issue a warrant under [section 12(4)][18] in the same manner as the Board may delegate a power under [section 73][97] of the Crown Entities Act 2004\.
+*   27 The Chief Commissioner may delegate the Chief Commissioner's power to issue a warrant under section 12(4) in the same manner as the Board may delegate a power under section 73 of the Crown Entities Act 2004\.
     
     Schedule clause 27: substituted, on 25 January 2005, by [section 200][61] of the Crown Entities Act 2004 (2004 No 115).
 
-##### 28
-    
-*   [Sections 74 to 76][98] of the Crown Entities Act 2004 apply to a delegation under [clause 27][99], with all necessary modifications.
+*   28 Sections 74 to 76 of the Crown Entities Act 2004 apply to a delegation under clause 27, with all necessary modifications.
     
     Schedule clause 28: substituted, on 25 January 2005, by [section 200][61] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -1201,7 +1197,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the Transport Accident Investigation Commission Amendment Act 1999, and is part of the [Transport Accident Investigation Commission Act 1990][100] (""the principal Act"").
+*   (1) This Act may be cited as the Transport Accident Investigation Commission Amendment Act 1999, and is part of the [Transport Accident Investigation Commission Act 1990][98] (""the principal Act"").
     
     (2) This Act comes into force on the day after the date on which this Act receives the Royal assent.
 
@@ -1218,80 +1214,41 @@ Amendments to principal Act
     
     
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Transport Accident Investigation Commission Act 1990\. The reprint incorporates all the amendments to the Act as at 1 July 2009, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][101] ![](/images/external_link.gif).
+*   This is a reprint of the Transport Accident Investigation Commission Act 1990 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][102] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][99] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][100] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][103] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][101] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][102] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint (most recent first)
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][104] and [17E][105] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Inquiries Act 2013 (2013 No 60): [section 39][86]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][91]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][56]
+    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][56]
     
     Policing Act 2008 (2008 No 72): [section 116(a)(ii)][76]
     
-    Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98): [section 81][84]
+    Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98): [section 81][85]
     
-    Coroners Act 2006 (2006 No 38): [section 146][89]
+    Coroners Act 2006 (2006 No 38): [section 146][92]
     
     Railways Act 2005 (2005 No 37): [section 103(3)][52]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][88]
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][90]
     
     Crown Entities Act 2004 (2004 No 115): [section 200][61]
     
@@ -1299,11 +1256,11 @@ Amendments to principal Act
     
     Land Transport Management Amendment Act 2004 (2004 No 97): [section 19(1)][55]
     
-    Employment Relations Act 2000 (2000 No 24): [section 240][87]
+    Employment Relations Act 2000 (2000 No 24): [section 240][89]
     
-    [Transport Accident Investigation Commission Amendment Act 1999][106] (1999 No 113)
+    [Transport Accident Investigation Commission Amendment Act 1999][103] (1999 No 113)
     
-    [Transport Accident Investigation Commission Amendment Act 1998][107] (1998 No 63)
+    [Transport Accident Investigation Commission Amendment Act 1998][104] (1998 No 63)
     
     Transport Accident Investigation Commission Amendment Act 1996 (1996 No 92)
     
@@ -1319,7 +1276,7 @@ Amendments to principal Act
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1990/0099/latest/whole.html#DLM219713
 [2]: http://www.legislation.govt.nz/act/public/1990/0099/latest/whole.html#DLM219716
 [3]: http://www.legislation.govt.nz/act/public/1990/0099/latest/whole.html#DLM219717
@@ -1403,27 +1360,24 @@ Amendments to principal Act
 [81]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM2105123
 [82]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM401062
 [83]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM403276
-[84]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM1034362
-[85]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM242775
-[86]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM58316
-[87]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM61487
-[88]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM333795
-[89]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM378303
-[90]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM296638
-[91]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM297081
-[92]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM64784
-[93]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM43060
-[94]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM331133
-[95]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM330367
-[96]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM446000
-[97]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM330308
-[98]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM330309
-[99]: http://www.legislation.govt.nz/act/public/1990/0099/latest/whole.html#DLM222264
-[100]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM219710
-[101]: http://www.pco.parliament.govt.nz/reprints/
-[102]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM195439
-[103]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[104]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM195468
-[105]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM195470
-[106]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM43019
-[107]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM426873
+[84]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM1566136
+[85]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM1034362
+[86]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM1566190
+[87]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM242775
+[88]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM58316
+[89]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM61487
+[90]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM333795
+[91]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM3360714
+[92]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM378303
+[93]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM296638
+[94]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM297081
+[95]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM64784
+[96]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM43060
+[97]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM446000
+[98]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM219710
+[99]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM2998516
+[100]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM2998515
+[101]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM2998532
+[102]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[103]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM43019
+[104]: http://www.legislation.govt.nz/act/public/1990/0099/latest/link.aspx?id=DLM426873
