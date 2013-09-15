@@ -1,3 +1,6 @@
+Reprint  
+as at 1 July 2013
+
 # Crown Grants Act 1908Public Act1908 No 33
 
 Date of assent4 August 1908
@@ -6,155 +9,158 @@ Date of assent4 August 1908
 
 ###### Note
 
-This Act is administered in the Department of Survey and Land Information.
+Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this eprint.
+
+A general outline of these changes is set out in the notes at the end of this eprint, together with other explanatory material about this eprint.
+
+This Act is administered by Land Information New Zealand.
 
 ---
 
 ## Contents
 
-[Title][0]
+[Title][1]
 
-[1][1] [Short Title, etc][1]
+[1][2][][2][Short Title, etc][2]
 
-[2][2] [Interpretation][2]
+[2][3][][3][Interpretation][3]
 
-[Issue of grants][3]
+[Issue of grants][4]
 
-[3][4] [Director-General's certificate][4]
+[3][5][][5][Director-General's certificate][5]
 
-[4][5] [Duties of Chief Surveyor][5]
+[4][6][][6][Duties of Chief Surveyor][6]
 
-[5][6] [Corrections in grants][6]
+[5][7][][7][Corrections in grants][7]
 
-[6][7] [Surveyor's name to appear on plan][7]
+[6][8][][8][Surveyor's name to appear on plan][8]
 
-[7][8] [Negligence of surveyor][8]
+[7][9][][9][Negligence of surveyor][9]
 
-[8][9] [Governor-General's signature][9]
+[8][10][][10][Governor-General's signature][10]
 
-[9][10] [Date of grant][10]
+[9][11][][11][Date of grant][11]
 
-[Duplicate grants][11]
+[Duplicate grants][12]
 
-[10][12] [Where grant lost or destroyed][12]
+[10][13][][13][Where grant lost or destroyed][13]
 
-[Correction or cancellation of grants][13]
+[Correction or cancellation of grants][14]
 
-[11][14] [Where grant to wrong person, land may be reconveyed or grant cancelled][14]
+[11][15][][15][Where grant to wrong person, land may be reconveyed or grant cancelled][15]
 
-[12][15] [Erroneous grant may be cancelled and new grant issued][15]
+[12][16][][16][Erroneous grant may be cancelled and new grant issued][16]
 
-[13][16] [Error in description of land][16]
+[13][17][][17][Error in description of land][17]
 
-[14][17] [Evidence of error][17]
+[14][18][][18][Evidence of error][18]
 
-[15][18] [Amended grant to be effectual][18]
+[15][19][][19][Amended grant to be effectual][19]
 
-[16][19] [New grant may be issued in certain cases][19]
+[16][20][][20][New grant may be issued in certain cases][20]
 
-[Effect of cancellation][20]
+[Effect of cancellation][21]
 
-[17][21] [Mode and effect of cancellation][21]
+[17][22][][22][Mode and effect of cancellation][22]
 
-[18][22] [Certain cancelled grants declared void _ab initio_][22]
+[18][23][][23][Certain cancelled grants declared void _ab initio_][23]
 
-[Repeal of grants][23]
+[Repeal of grants][24]
 
-[19][24] [Mode of repeal][24]
+[19][25][][25][Mode of repeal][25]
 
-[Antevesting of the legal estate][25]
+[Antevesting of the legal estate][26]
 
-[20][26] [Deeds of transfer to be valid][26]
+[20][27][][27][Deeds of transfer to be valid][27]
 
-[21][27] [Date when grantee becomes entitled to grant][27]
+[21][28][][28][Date when grantee becomes entitled to grant][28]
 
-[22][28] [Date to be certified][28]
+[22][29][][29][Date to be certified][29]
 
-[23][29] [Entry of date in _habendum_ of grant][29]
+[23][30][][30][Entry of date in _habendum_ of grant][30]
 
-[24][30] [Endorsement of date on grant previously executed][30]
+[24][31][][31][Endorsement of date on grant previously executed][31]
 
-[25][31] [Entry or endorsement to be evidence of date][31]
+[25][32][][32][Entry or endorsement to be evidence of date][32]
 
-[26][32] [Mistake in date may be corrected by Minister][32]
+[26][33][][33][Mistake in date may be corrected by Minister][33]
 
-[27][33] [Authority of Chief Surveyor to correct wrong date][33]
+[27][34][][34][Authority of Chief Surveyor to correct wrong date][34]
 
-[28][34] [Effect of corrections][34]
+[28][35][][35][Effect of corrections][35]
 
-[Registration and delivery of grants][35]
+[Registration and delivery of grants][36]
 
-[29][36] [Registration and delivery of grants][36]
+[29][37][][37][Registration and delivery of grants][37]
 
-[30][37] [Grant may be deposited in certain cases][37]
+[30][38][][38][Grant may be deposited in certain cases][38]
 
-[31][38] [Transfer or transmission of grantee's interest prior to execution of grant][38]
+[31][39][][39][Transfer or transmission of grantee's interest prior to execution of grant][39]
 
-[32][39] [Delivery of grant to successor in title of grantee][39]
+[32][40][][40][Delivery of grant to successor in title of grantee][40]
 
-[33][40] [Entries by Registrar where grant cancelled][40]
+[33][41][][41][Entries by Registrar where grant cancelled][41]
 
-[34][41] [Entries may be amended where new grant issued][41]
+[34][42][][42][Entries may be amended where new grant issued][42]
 
-[Effect of grants][42]
+[Effect of grants][43]
 
-[35][43] [Seaward boundary of land granted][43]
+[35][44][][44][Seaward boundary of land granted][44]
 
-[36][44] [Reservation of land for roads][44]
+[36][45][][45][Reservation of land for roads][45]
 
-[36A][45] [Reservation of land for railways and other public works][45]
+[36A][46][][46][Reservation of land for railways and other public works][46]
 
-[36B][46] [Removal of lapsed reservations from title][46]
+[36B][47][][47][Removal of lapsed reservations from title][47]
 
-[37][47] [Roadway to include railway][47]
+[37][48][][48][Roadway to include railway][48]
 
-[Evidence of grants][48]
+[Evidence of grants][49]
 
-[38][49] [Copies of grants as evidence][49]
+[38][50][][50][Copies of grants as evidence][50]
 
-[Fees on grants][50]
+[Fees on grants][51]
 
-[39][51] [Grant fee and acreage fee][51]
+[39][52][][52][Grant fee and acreage fee][52]
 
-[40][52] [Fees to be prepaid][52]
+[40][53][][53][Fees to be prepaid][53]
 
-[41][53] [Custody fees][53]
+[41][54][][54][Custody fees][54]
 
-[42][54] [Certain grants exempt from custody fee][54]
+[42][55][][55][Certain grants exempt from custody fee][55]
 
-[43][55] [Fee for certified copy][55]
+[43][56][][56][Fee for certified copy][56]
 
-[Recovery of fees and expenses][56]
+[Recovery of fees and expenses][57]
 
-[44][57] [Outstanding fees under prior Acts][57]
+[44][58][][58][Outstanding fees under prior Acts][58]
 
-[45][58] [Liability for and recovery of fees][58]
+[45][59][][59][Liability for and recovery of fees][59]
 
-[46][59] [Recovery of fees, etc, in case of Maori land grants][59]
+[46][60][][60][Recovery of fees, etc, in case of Maori land grants][60]
 
-[47][60] [Trustee or mortgagee paying fees may charge the same][60]
+[47][61][][61][Trustee or mortgagee paying fees may charge the same][61]
 
-[Schedule 1][61]  
-[Enactments consolidated][61]
+[Schedule 1][62]  
+[Enactments consolidated][62]
 
-[Schedule 2][62]  
-[][62]
+[Schedule 2][63]  
 
 ---
 
 An Act to consolidate certain enactments of the Parliament of New Zealand relating to grants of land by the Crown
     
-*   The words ""Parliament of New Zealand"" were substituted, as from 1 January 1987, for the words ""General Assembly"" by section [29(2)][63] Constitution Act 1986 (1986 No 114).
+*   Title: amended, on 1 January 1987, by [section 29(2)][64] of the Constitution Act 1986 (1986 No 114).
 
 ##### 1 Short Title, etc
     
 *   (1) The Short Title of this Act is the Crown Grants Act 1908\.
     
-    (2) This Act is a consolidation of the enactments mentioned in Schedule [1][61] hereto, and with respect to those enactments the following provisions shall apply:
+    (2) This Act is a consolidation of the enactments mentioned in [Schedule 1][62], and with respect to those enactments the following provisions shall apply:
         
-    *   (a) All Crown grants, certificates, orders, notifications, registers, records, instruments, and generally all acts of authority which originated under any of the said enactments or any enactment thereby repealed, and are subsisting or in force on the coming into operation of this Act, shall enure for the purposes of this Act as fully and effectually as if they had originated under the corresponding provisions of this Act, and accordingly shall, where necessary, be deemed to have so originated:
+    *   (a) all Crown grants, certificates, orders, notifications, registers, records, instruments, and generally all acts of authority which originated under any of the said enactments or any enactment thereby repealed, and are subsisting or in force on the coming into operation of this Act, shall enure for the purposes of this Act as fully and effectually as if they had originated under the corresponding provisions of this Act, and accordingly shall, where necessary, be deemed to have so originated:
     
-    *   (b) All matters and proceedings commenced under any such enactment, and pending or in progress on the coming into operation of this Act, may be continued, completed, and enforced under this Act.
+    *   (b) all matters and proceedings commenced under any such enactment, and pending or in progress on the coming into operation of this Act, may be continued, completed, and enforced under this Act.
     
     
 
@@ -162,21 +168,19 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
 *   In this Act, unless the context otherwise requires,---
     
-    _Chief Surveyor_ means the Chief Surveyor of a land district constituted under the [Land Act 1948][64], appointed under section 9 of the Survey Act 1986; and, in relation to any lands, or any subject matter affecting any lands, means the Chief Surveyor of the land district in which the lands are situated
+    _Chief Surveyor_ means the Chief Surveyor of a land district constituted under the [Land Act 1948][65], appointed under section 9 of the Survey Act 1986; and, in relation to any lands, or any subject matter affecting any lands, means the Chief Surveyor of the land district in which the lands are situated
     
     _Director-General_ means the Director-General within the meaning of section 2 of the Survey Act 1986
-    
-    ""Director-General"": substituted, as from 1 July 1996, by section 5 Survey Amendment Act 1996 (1996 No 55).
     
     _Minister_ means the Minister of the Crown for the time being responsible for the administration of this Act.
     
     Compare: 1883 No 31 s 2
     
-    Section 2 was substituted, as from 1 April 1987, by section 81(1) Survey Act 1986 (1986 N0 123).
+    Section 2: substituted, on 1 February 1990, by section 6 of the Survey Amendment Act (No 3) 1989 (1989 No 139).
     
-    Section 2 was substituted, as from 1 February 1990, by section 6 of 1989 No 139 (Survey Amendment Act (No 3) 1989).
+    Section 2 **Director-General**: substituted, on 1 July 1996, by section 5 of the Survey Amendment Act 1996 (1996 No 55).
 
-## Issue of grants
+#### Issue of grants
 
 ##### 3 Director-General's certificate
     
@@ -184,7 +188,7 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     Compare: 1883 No 31 s 3
     
-    Sections 3 and 4 were amended by section 81(1) of 1986 No 123\.
+    Section 3: amended, on 1 April 1987, by section 81(1) of the Survey Act 1986 (1986 No 123).
 
 ##### 4 Duties of Chief Surveyor
     
@@ -192,7 +196,7 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     Compare: 1883 No 31 s 4
     
-    Sections 3 and 4 were amended by section 81(1) of 1986 No 123\.
+    Section 4: amended, on 1 April 1987, by section 81(1) of the Survey Act 1986 (1986 No 123).
 
 ##### 5 Corrections in grants
     
@@ -212,7 +216,7 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     Compare: 1883 No 31 s 7
     
-    Section 7 was amended by section 81(1) of 1986 No 123\.
+    Section 7: amended, on 1 April 1987, by section 81(1) of the Survey Act 1986 (1986 No 123).
 
 ##### 8 Governor-General's signature
     
@@ -228,13 +232,13 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
 
 ##### 9 Date of grant
     
-*   Every Crown grant shall be dated as of the day whereon it is signed by the Governor-General, and such date shall be deemed to be the day of the issue thereof .
+*   Every Crown grant shall be dated as of the day whereon it is signed by the Governor-General, and such date shall be deemed to be the day of the issue thereof.
     
     Compare: 1883 No 31 s 9
     
-    The words ""and every such grant shall be entered of record in the office of the Minister"" were omitted by section 2 of the Crown Grants Amendment Act 1965\.
+    Section 9: amended, on 27 October 1965, by section 2 of the Crown Grants Amendment Act 1965 (1965 No 78).
 
-## Duplicate grants
+#### Duplicate grants
 
 ##### 10 Where grant lost or destroyed
     
@@ -246,9 +250,9 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     Compare: 1883 No 31 s 10
     
-    In subsection (1) the word ""Public"" was omitted by section [8][65] of the Seal of New Zealand Act 1977\.
+    Section 10(1): amended, on 28 February 1977, by [section 8][66] of the Seal of New Zealand Act 1977 (1977 No 1).
 
-## Correction or cancellation of grants
+#### Correction or cancellation of grants
 
 ##### 11 Where grant to wrong person, land may be reconveyed or grant cancelled
     
@@ -258,7 +262,7 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     Compare: 1883 No 31 s 12
     
-    Section 11(2) was amended by section 81(1) of 1986 No 123\.
+    Section 11(2): amended, on 1 April 1987, by section 81(1) of the Survey Act 1986 (1986 No 12).
     
     In subsection (1) the reference to ""Her Majesty"" has been updated from a reference to ""His Majesty"".
 
@@ -272,9 +276,11 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     Compare: 1883 No 31 s 11
     
-    Section 12(2) and (3) were amended by section 81(1) of 1986 No 123\.
+    Section 12(2): amended, on 1 April 1987, by section 81(1) of the Survey Act 1986 (1986 No 12).
     
-    In subsection (3) the reference to the ""Maori Land Court"" was substituted for a reference to the ""Native Land Court"" by section [9(2)(a)][66] of the Maori Purposes Act 1947
+    Section 12(3): amended, on 1 April 1987, by section 81(1) of the Survey Act 1986 (1986 No 12).
+    
+    Section 12(3): amended, on 27 November 1947, by [section 9(2)(a)][67] of the Maori Purposes Act 1947 (1947 No 59).
 
 ##### 13 Error in description of land
     
@@ -288,7 +294,7 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     Compare: 1883 No 31 s 14
     
-    Section 14 was amended by section 81(1) of 1986 No 123\.
+    Section 14: amended, on 1 April 1987, by section 81(1) of the Survey Act 1986 (1986 No 12).
 
 ##### 15 Amended grant to be effectual
     
@@ -302,13 +308,13 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     Compare: 1883 No 31 s 16
 
-## Effect of cancellation
+#### Effect of cancellation
 
 ##### 17 Mode and effect of cancellation
     
 *   (1) For the purpose of cancelling any grant a statement that the same is cancelled shall be written on the face of the copy thereof filed in the register of grants in the Minister's office, which statement shall be signed by the Governor-General and countersigned by the Minister, and sealed with the Minister's official seal.
     
-    (2) Such cancellation shall annul and make void the cancelled grant as effectually as if the same were repealed under section [19][24] hereof.
+    (2) Such cancellation shall annul and make void the cancelled grant as effectually as if the same were repealed under [section 19][25].
     
     (3) Before cancellation of the register copy of any grant the grant itself shall be delivered to the Minister, and after such cancellation the same shall be destroyed.
     
@@ -316,13 +322,13 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
 
 ##### 18 Certain cancelled grants declared void _ab initio_
     
-*   (1) Every grant purporting to have been cancelled prior to the 8th day of October 1866 (being the date of the passing of the Crown Grants Act 1866) under the authority of any Governor of New Zealand, and every grant, whether formally cancelled or not, of any land of which a new grant has been duly issued prior to that date by any such Governor, and recorded in the proper office for the record of the same, shall be deemed to be and to have been absolutely void _ab initio_ to all intents and purposes.
+*   (1) Every grant purporting to have been cancelled prior to 8 October 1866 (being the date of the passing of the Crown Grants Act 1866) under the authority of any Governor of New Zealand, and every grant, whether formally cancelled or not, of any land of which a new grant has been duly issued prior to that date by any such Governor, and recorded in the proper office for the record of the same, shall be deemed to be and to have been absolutely void _ab initio_ to all intents and purposes.
     
     (2) No grant issued in lieu of any such previous grant shall be void, or voidable, or liable to be set aside in any Court or by any process of law, on the ground of the prior issue or existence of the previous grant.
     
     Compare: 1883 No 31 s 20
 
-## Repeal of grants
+#### Repeal of grants
 
 ##### 19 Mode of repeal
     
@@ -330,9 +336,9 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     Compare: 1883 No 31 s 21
     
-    The words ""Supreme Court"" have been changed to ""High Court"" pursuant to section [12][67] Judicature Amendment Act 1979 (1979 No 124).
+    Section 19: amended, on 1 April 1980, pursuant to [section 12][68] of the Judicature Amendment Act 1979 (1979 No 124).
 
-## Antevesting of the legal estate
+#### Antevesting of the legal estate
 
 ##### 20 Deeds of transfer to be valid
     
@@ -346,23 +352,25 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
 *   (1) The dates whereon grantees shall be deemed respectively to become entitled to receive Crown grants of their lands shall be,---
         
-    *   (a) In the case of grantees of land purchased from the Crown under any Land Act or regulations for the time being in force where payment of the purchase money alone entitles the grantee to a grant, then the date of payment of such purchase money or of the last instalment thereof:
+    *   (a) in the case of grantees of land purchased from the Crown under any Land Act or regulations for the time being in force where payment of the purchase money alone entitles the grantee to a grant, then the date of payment of such purchase money or of the last instalment thereof:
     
-    *   (b) In the case of grantees of land the title to which is acquired by residence or occupation for a specified term, or by making improvements to a certain extent and of a certain value upon the land occupied, or by the fulfilment of any other conditions, whether in addition to or without the payment of purchase money, then the date on which (the purchase money, if any, having been paid) the prescribed term of residence or occupation is completed and the prescribed conditions fulfilled:
+    *   (b) in the case of grantees of land the title to which is acquired by residence or occupation for a specified term, or by making improvements to a certain extent and of a certain value upon the land occupied, or by the fulfilment of any other conditions, whether in addition to or without the payment of purchase money, then the date on which (the purchase money, if any, having been paid) the prescribed term of residence or occupation is completed and the prescribed conditions fulfilled:
     
-    *   (c) In the case of grantees of land the title to which has been determined by the Maori Land Court, or any other authority lawfully empowered to direct the issue of a Crown grant of Maori land, then the date of the certificate or order issued by that Court or authority in respect of that land:
+    *   (c) in the case of grantees of land the title to which has been determined by the Maori Land Court, or any other authority lawfully empowered to direct the issue of a Crown grant of Maori land, then the date of the certificate or order issued by that Court or authority in respect of that land:
     
-    *   (d) In any case where any specified block or section of land has been sold before being surveyed under the Act or land regulations affecting the same, and, after the sale thereof, has been found to contain a greater number of acres than it was supposed to contain at the time of the sale, and the acreage in excess has been paid for in accordance with the said Act or regulations, then the date, with respect to the whole of such block or section, of the original purchase of the portion thereof:
+    *   (d) in any case where any specified block or section of land has been sold before being surveyed under the Act or land regulations affecting the same, and, after the sale thereof, has been found to contain a greater number of acres than it was supposed to contain at the time of the sale, and the acreage in excess has been paid for in accordance with the said Act or regulations, then the date, with respect to the whole of such block or section, of the original purchase of the portion thereof:
     
-    *   (e) In the case where a fresh grant has been issued in lieu of any grant cancelled as aforesaid, then the date whereon the legal estate in the land granted vested in the grantee, or was intended to vest in him, under the cancelled grant:
+    *   (e) in the case where a fresh grant has been issued in lieu of any grant cancelled as aforesaid, then the date whereon the legal estate in the land granted vested in the grantee, or was intended to vest in him, under the cancelled grant:
     
-    *   (f) In any case not included in this section, but within the provisions of section 23 of the Crown Grants Act 1883, then the date provided for by that section.
+    *   (f) in any case not included in this section, but within the provisions of section 23 of the Crown Grants Act 1883, then the date provided for by that section.
     
     (2) In any case where under any Act or regulations heretofore in force a date is prescribed upon which a grantee became entitled to receive a Crown grant of land, but the grant has not issued before the coming into operation of this Act, then the same shall be issued in accordance with such Act or regulations.
     
     Compare: 1883 No 31 s 23
     
-    In subsection (1)(c) the reference to the ""Maori Land Court"" was substituted for a reference to the ""Native Land Court"" by section [9(2)(a)][66] of the Maori Purposes Act 1947, and the term ""Maori"" was substituted for the term ""Native"" by section [2(2)][68] of that Act.
+    Section 21(1)(c): amended, on 27 November 1947, by [section 9(2)(a)][67] of the Maori Purposes Act 1947 (11 GEO VI 1947 No 59).
+    
+    Section 21(1)(c): amended, on 27 November 1947, by [section 2(2)][69] of the Maori Purposes Act 1947 (11 GEO VI 1947 No 59)
 
 ##### 22 Date to be certified
     
@@ -374,17 +382,19 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     Compare: 1883 No 31 ss 24, 25
     
-    Section 22(2) and (3) was amended by section 81(1) of 1986 No 123\.
+    Section 22(2): amended, by section 81(1) of the Survey Act 1986 (1986 No 12).
+    
+    Section 22(3): amended, by section 81(1) of the Survey Act 1986 (1986 No 12).
 
 ##### 23 Entry of date in _habendum_ of grant
     
-*   (1) In all the foregoing cases the Chief Surveyor or other officer charged with the preparation of Crown grants may insert in the _habendum_ of any grant of land with respect to which it is desired to antevest the legal estate as aforesaid, the date in each case as ascertained and certified with respect to the class of cases to which such grant may belong, and the date so inserted shall, for the purposes of section [21][27] hereof, be deemed to be the date whereon the grantee became entitled to a Crown grant of the lands comprised therein.
+*   (1) In all the foregoing cases the Chief Surveyor or other officer charged with the preparation of Crown grants may insert in the _habendum_ of any grant of land with respect to which it is desired to antevest the legal estate as aforesaid, the date in each case as ascertained and certified with respect to the class of cases to which such grant may belong, and the date so inserted shall, for the purposes of [section 21][28], be deemed to be the date whereon the grantee became entitled to a Crown grant of the lands comprised therein.
     
     (2) Where a grantee becomes entitled at different times to grants of 2 or more blocks or sections of land, and all such blocks or sections are comprised in one and the same grant, the dates whereon he acquired title to the said blocks or sections respectively may be inserted in the _habendum_ of the grant, together with references to the said blocks or sections respectively; and every such insertion shall have the same force and effect to all intents and purposes, as regards the particular block or section to which it refers, as the insertion of one date would have had as regards the whole of the land had the grantee acquired title to the whole of the land at the same date.
     
     Compare: 1883 No 31 ss 26, 27
     
-    Section 23(1) was amended by section 81(1) of 1986 No 123\.
+    Section 23(1): amended, by section 81(1) of the Survey Act 1986 (1986 No 12).
 
 ##### 24 Endorsement of date on grant previously executed
     
@@ -404,7 +414,7 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     Compare: 1883 No 31 s 30
     
-    Section 26 was amended by section 81(1) of 1986 No 123\.
+    Section 26: amended, by section 81(1) of the Survey Act 1986 (1986 No 12).
 
 ##### 27 Authority of Chief Surveyor to correct wrong date
     
@@ -414,7 +424,7 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     Compare: 1883 No 31 s 31
     
-    Section 27 was amended by section 81(1) of 1986 No 123\.
+    Section 27: amended, by section 81(1) of the Survey Act 1986 (1986 No 12).
 
 ##### 28 Effect of corrections
     
@@ -422,23 +432,23 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     Compare: 1883 No 31 s 32
 
-## Registration and delivery of grants
+#### Registration and delivery of grants
 
 ##### 29 Registration and delivery of grants
     
 *   In every case where a Crown grant has been executed the following provisions shall apply:
         
-    *   (a) The Chief Surveyor shall forward the grant to the Registrar of Deeds for the registration district in which the land is situate, and shall notify in the _Gazette_ the fact that it has been so forwarded and is there ready for delivery to the person entitled on payment of fees and on registration:
+    *   (a) the Chief Surveyor shall forward the grant to the Registrar of Deeds for the registration district in which the land is situate, and shall notify in the _Gazette_ the fact that it has been so forwarded and is there ready for delivery to the person entitled on payment of fees and on registration:
     
-    *   (b) On full payment of all custody and registration fees payable in respect of the grant, the Registrar of Deeds shall register it and deliver it to the person entitled:
+    *   (b) on full payment of all custody and registration fees payable in respect of the grant, the Registrar of Deeds shall register it and deliver it to the person entitled:
     
-    *   (c) Where the land is situate in more districts than one, the Chief Surveyor shall forward it to the Registrar for such one of the districts as he thinks fit. Such Registrar, after payment to him of all fees as aforesaid, shall register the grant in his own books and then forward it to the Registrar of the other district, who shall register it and return it to the first-mentioned Registrar for delivery to the person entitled.
+    *   (c) where the land is situate in more districts than one, the Chief Surveyor shall forward it to the Registrar for such one of the districts as he thinks fit. Such Registrar, after payment to him of all fees as aforesaid, shall register the grant in his own books and then forward it to the Registrar of the other district, who shall register it and return it to the first-mentioned Registrar for delivery to the person entitled.
     
     Compare: 1883 No 31 s 33
     
-    Section 29(a) was amended by section 81(1) of 1986 No 123\.
+    Section 29(a): amended, by section 81(1) of the Survey Act 1986 (1986 No 12).
     
-    Section 29(c) was amended by section 81(1) of 1986 No 123\. _See_ also section [9][69] et seq of the [Deeds Registration Act 1908][70]
+    Section 29(c): amended, by section 81(1) of the Survey Act 1986 (1986 No 12).
 
 ##### 30 Grant may be deposited in certain cases
     
@@ -464,13 +474,13 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     Compare: 1883 No 31 s 40
     
-    Section 32(1) was amended by section 81(1) of 1986 No 123\.
+    Section 32(1): amended, by section 81(1) of the Survey Act 1986 (1986 No 12).
     
     The Land Transfer Act 1952 has been substituted for the repealed Land Transfer Act 1908\.
 
 ##### 33 Entries by Registrar where grant cancelled
     
-*   (1) Where a grant has been cancelled under section [11][14] hereof by reason of the name of any person not entitled to the land having been inserted therein by mistake, every entry in the books of a Registrar of Deeds relating to such land shall be cancelled by writing opposite thereto, or across the face thereof, a memorandum in the words ""Cancelled by authority of the Crown Grants Act 1908"".
+*   (1) Where a grant has been cancelled under [section 11][15] by reason of the name of any person not entitled to the land having been inserted therein by mistake, every entry in the books of a Registrar of Deeds relating to such land shall be cancelled by writing opposite thereto, or across the face thereof, a memorandum in the words ""Cancelled by authority of the Crown Grants Act 1908"".
     
     (2) Such memorandum shall be signed by the Registrar; and such entry shall be thereby cancelled, and shall thereafter be of no force or effect.
     
@@ -478,11 +488,11 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
 
 ##### 34 Entries may be amended where new grant issued
     
-*   Where a grant has been cancelled under section [12][15] hereof by reason of any error in the name of the grantee, the Registrar may, at his discretion, in lieu of cancelling the entries in his books relating to the land comprised in the grant, correct the name of the grantee, wherever it occurs in such entries, in accordance with the name in the new grant issued in lieu of the cancelled grant; and every entry so corrected shall be of the same force and effect as if it had been originally made in such corrected form.
+*   Where a grant has been cancelled under [section 12][16] by reason of any error in the name of the grantee, the Registrar may, at his discretion, in lieu of cancelling the entries in his books relating to the land comprised in the grant, correct the name of the grantee, wherever it occurs in such entries, in accordance with the name in the new grant issued in lieu of the cancelled grant; and every entry so corrected shall be of the same force and effect as if it had been originally made in such corrected form.
     
     Compare: 1883 No 31 s 36
 
-## Effect of grants
+#### Effect of grants
 
 ##### 35 Seaward boundary of land granted
     
@@ -504,17 +514,17 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
 
 ##### 36A Reservation of land for railways and other public works
     
-*   Whenever in any Crown grant there has been or hereafter may be reserved rights at any time to take part of the land comprised therein for railways or other public works of any kind, the provisions of section [36][44] of this Act shall apply as if references in that section to roads were references to railways or those other public works, as the case may be:
+*   Whenever in any Crown grant there has been or hereafter may be reserved rights at any time to take part of the land comprised therein for railways or other public works of any kind, the provisions of [section 36][45] shall apply as if references in that section to roads were references to railways or those other public works, as the case may be:
     
-    Provided that, where before the commencement of this section any land was taken for railways or other public works after the period of 5 years from the issue of the grant, no compensation shall be claimed by or paid to the owner of the land.
+    provided that, where before the commencement of this section any land was taken for railways or other public works after the period of 5 years from the issue of the grant, no compensation shall be claimed by or paid to the owner of the land.
     
-    This section was inserted by section 2 of the Crown Grants Amendment Act 1955\.
+    Section 36A: inserted, by section 2 of the Crown Grants Amendment Act 1955 (1955 No 69).
 
 ##### 36B Removal of lapsed reservations from title
     
 *   Where any reservation in any Crown grant to take part of the land for roads or railways or other public works of any kind lapses through effluxion of time, the District Land Registrar may enter a memorial in the register that the reservation has lapsed.
     
-    This section was inserted by section 3 of the Crown Grants Amendment Act 1955\.
+    Section 36B: inserted, by section 3 of the Crown Grants Amendment Act 1955 (1955 No 69).
 
 ##### 37 Roadway to include railway
     
@@ -522,19 +532,19 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     Compare: 1883 No 31 s 45
     
-    The words ""Parliament of New Zealand"" were substituted, as from 1 January 1987, for the words ""General Assembly"" by section [29(2)][63] Constitution Act 1986 (1986 No 114).
+    Section 37: amended, on 1 January 1987, by [section 29(2)][64] of the Constitution Act 1986 (1986 No 114).
 
-## Evidence of grants
+#### Evidence of grants
 
 ##### 38 Copies of grants as evidence
     
 *   Every copy of a Crown grant kept as of record, purporting to be a copy of any grant from the Crown of any land situate in New Zealand, and every copy certified under the hand of the Minister to be a true and faithful transcript of any such copy kept as of record, shall be admitted in evidence for all purposes for which the original grant might have been so admitted:
     
-    Provided that no copy purporting to be certified as aforesaid shall be admitted in evidence without proof of the Minister's signature appearing on the certificate, but his appointment as Minister need not be proved.
+    provided that no copy purporting to be certified as aforesaid shall be admitted in evidence without proof of the Minister's signature appearing on the certificate, but his appointment as Minister need not be proved.
     
     Compare: 1883 No 31 ss 37, 38
 
-## Fees on grants
+#### Fees on grants
 
 ##### 39 Grant fee and acreage fee
     
@@ -542,9 +552,9 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     Compare: 1883 No 31 s 46
     
-    Section 39 was amended by section 81(1) of 1986 No 123\.
+    Section 39: amended, by section 81(1) of the Survey Act 1986 (1986 No 12).
     
-    The words ""50 hectares, and upon every Crown grant of land exceeding that area an additional fee of 1 cent for every hectare in excess of 50 hectares"" were substituted for the words ""100 acres, and upon every Crown grant of land exceeding that acreage an additional fee of one farthing for every acre in excess of 100 acres"" by section 2 of the Crown Grants Amendment Act 1972\.
+    Section 39: amended, by section 2 of the Crown Grants Amendment Act 1972 (1972 No 52).
 
 ##### 40 Fees to be prepaid
     
@@ -558,23 +568,23 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
 *   (1) There shall be paid to the Director-General upon all grants not delivered but remaining in the charge or custody of a Chief Surveyor or other officer charged with the delivery of the same, a custody fee of 2.5 cents for every month during which they have so remained or so remain---
         
-    *   (a) Subsequent to the month of December 1866 in the case of grants issued prior to the passing of the Crown Grants Act 1866; and
+    *   (a) subsequent to the month of December 1866 in the case of grants issued prior to the passing of the Crown Grants Act 1866; and
     
-    *   (b) In the case of all other grants, after the expiration of 3 months from the date of a public notice by the Commissioner or other authorised officer that such grants are ready for delivery.
+    *   (b) in the case of all other grants, after the expiration of 3 months from the date of a public notice by the Commissioner or other authorised officer that such grants are ready for delivery.
     
-    (1A) The maximum sum payable under subsection [(1)][53] of this section in respect of custody fees on any one grant shall not exceed $2\.
+    (1A) The maximum sum payable under subsection (1) in respect of custody fees on any 1 grant shall not exceed $2\.
     
     (2) \[Repealed\]
     
     Compare: 1883 No 31 ss 48, 49, 52; 1903 No 27 s 2
     
-    Section 41(1) (that part before paragraph (a)) was amended by section 81(1) of 1986 No 123\.
+    Section 41(1): amended, by section 81(1) of the Survey Act 1986 (1986 No 12).
     
-    A proviso to subsection (1) was repealed by section 12(2) of the Finance Act 1938\.
+    Section 41(1) proviso: repealed, by section 12(2) of the Finance Act 1938 (1938 No 13).
     
-    Subsection (2) was repealed by section 12(2) of the Finance Act 1938\.
+    Section 41(2): repealed, by section 12(2) of the Finance Act 1938 (1938 No 13).
     
-    New section 41(1A) was inserted by section 2(1) of 1979 No 82\.
+    Section 41(1A): inserted, by section 2(1) of the Crown Grants Amendment Act 1979 (1979 No 82).
 
 ##### 42 Certain grants exempt from custody fee
     
@@ -582,7 +592,9 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     Compare: 1883 No 31 s 50
     
-    The reference to the ""Maori Land Court"" was substituted for a reference to the ""Native Land Court"" by section [9(2)(a)][66] of the Maori Purposes Act 1947, and the term ""Maori"" was substituted for the term ""Native"" by section [2(2)][68] of that Act.
+    Section 42: amended, by [section 9(2)(a)][67] of the Maori Purposes Act 1947 (1947 No 59).
+    
+    Section 42: amended, by [section 2(2)][69]of the Maori Purposes Act 1947 (1947 No 59).
 
 ##### 43 Fee for certified copy
     
@@ -590,7 +602,7 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     Compare: 1883 No 31 s 51
 
-## Recovery of fees and expenses
+#### Recovery of fees and expenses
 
 ##### 44 Outstanding fees under prior Acts
     
@@ -602,47 +614,39 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
 *   (1) The following persons are jointly and severally liable to pay the fees due in respect of any Crown grant, as well as the fees payable on the registration thereof under the [Deeds Registration Act 1908][70]:
         
-    *   (a) The grantees named therein; and
+    *   (a) the grantees named therein; and
     
-    *   (b) All persons in whom any legal estate of inheritance in the whole or any part of the land comprised therein is vested, whether as beneficial owners, or as trustees, or as mortgagees.
+    *   (b) all persons in whom any legal estate of inheritance in the whole or any part of the land comprised therein is vested, whether as beneficial owners, or as trustees, or as mortgagees.
     
     (2) A certificate signed by the Registrar of Deeds stating that, upon inspection of the Crown grant and of the books in his office, it appears that any such legal estate as aforesaid in all the land comprised in the grant appears to be vested in any persons, shall, for the purposes of this Act, be conclusive proof that such persons are jointly and severally liable to pay the said fees.
     
-    (3) Such certificate may be in the form numbered [(1)][72] in Schedule 2 hereto, and it shall be admitted in evidence without proof of the signature or official position of the officer whose signature it purports to bear.
+    (3) Such certificate may be in the [form numbered (1)][72] in Schedule 2, and it shall be admitted in evidence without proof of the signature or official position of the officer whose signature it purports to bear.
     
-    (4) The said fees are recoverable in a summary way by the Director-General on complaint before---
-        
-    *   (a) A District Court Judge; or
+    (4) \[Repealed\]
     
-    *   (b) Any 2 Justices who, for the purpose of hearing any such complaint, have the same powers and jurisdiction in all respects as Justices have in the case of complaints made under the [Summary Proceedings Act 1957][73]; or
-    
-    *   (c) Any one or more Community Magistrates who, for the purpose of hearing any such complaint, have the same powers and jurisdiction in all respects as 2 or more Justices have in the case of complaints made under the [Summary Proceedings Act 1957][73].
-    
-    (5) Such complaint may be in the form numbered [(2)][74] in Schedule 2 hereto, and may be laid at any time after the matter of the complaint arose, anything in the [Summary Proceedings Act 1957][73] to the contrary notwithstanding.
+    (5) \[Repealed\]
     
     Compare: 1883 No 31 ss 53-56
     
-    Subsection (4) was amended by section [18(2)][75] District Courts Amendment Act 1979 (1979 No 125) by substituting the words ""District Court Judge"" for the word ""Magistrate"".
+    Section 45(4): repealed, on 1 July 2013, by [section 413][73] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Subsection (4) was further amended by section 81(1) Survey Act 1986 (1986 No 123) by substituting the expression ""Director-General"" for the expression ""Receiver of Land Revenue"".
-    
-    Subsection (4) was substituted, as from 30 June 1998, by section [7][76] District Courts Amendment Act 1998 (1998 No 76).
-    
-    In subsection (5) the ""Summary Proceedings Act 1957"" has been substituted for the repealed ""Justices of the Peace Act 1908"".
+    Section 45(5): repealed, on 1 July 2013, by [section 413][73] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 46 Recovery of fees, etc, in case of Maori land grants
     
-*   The power of recovering expenses given to the Chief Surveyor by section [7][8] hereof, and all powers of recovering fees given by this Act to the Director-General, are hereby, in so far as regards any Crown grant issued under an order of the Maori Land Court or any other authority lawfully empowered to direct the issue of a Crown grant of Maori land, conferred on the Surveyor-General, who may, by himself or by any person duly authorised by him in that behalf, at any time exercise the same.
+*   The power of recovering expenses given to the Chief Surveyor by [section 7][9], and all powers of recovering fees given by this Act to the Director-General, are hereby, in so far as regards any Crown grant issued under an order of the Maori Land Court or any other authority lawfully empowered to direct the issue of a Crown grant of Maori land, conferred on the Surveyor-General, who may, by himself or by any person duly authorised by him in that behalf, at any time exercise the same.
     
     Compare: 1883 No 31 s 57
     
-    Section 46 was amended by section 81(1) of 1986 No 123\.
+    Section 46: amended, by section 81(1) of the Survey Act 1986 (1986 No 12).
     
-    The reference to the ""Maori Land Court"" was substituted for a reference to the ""Native Land Court"" by section [9(2)(a)][66] of the Maori Purposes Act 1947, and the term ""Maori"" was substituted for the term ""Native"" by section [2(2)][68] of that Act.
+    Section 46: amended, by [section 9(2)(a)][67] of the Maori Purposes Act 1947 (1947 No 59).
+    
+    Section 46: amended, by [section 2(2)][69] of the Maori Purposes Act 1947 (1947 No 59).
 
 ##### 47 Trustee or mortgagee paying fees may charge the same
     
-*   (1) Every trustee or mortgagee who pays on any Crown grant any fees payable by him under section [45][58] hereof shall be entitled to charge the same as part of the necessary expenses of fulfilling his trust, or to add the same to the mortgage debt, as the case may be.
+*   (1) Every trustee or mortgagee who pays on any Crown grant any fees payable by him under [section 45][59] shall be entitled to charge the same as part of the necessary expenses of fulfilling his trust, or to add the same to the mortgage debt, as the case may be.
     
     (2) Every person who pays any fees in respect of a Crown grant shall have a lien thereon for the fees so paid.
     
@@ -653,112 +657,138 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
 ## Schedule 1  
 Enactments consolidated
 
-Section [1(2)][1]
+[s 1(2)][2]
 
-*   1883, No 31---The Crown Grants Act 1883\.
-*   1903, No 27---The Crown Grants Act Amendment Act 1903\.
+##### Crown Grants Act 1883 (1883 No 31)
+
+##### Crown Grants Act Amendment Act 1903 (1903 No 27)
+
+---
 
 ## Schedule 2
 
-Section [45(3)][58]
+[s 45(3)][59]
 
-#### (1)  
+#### Form 1  
 Certificate of registrar of deeds
 
-![. ](images/ACT_NZL_PUB.1908_033_END_SCH.Second_FRM.1_GPH.49_V1.jpg)
+I HEREBY certify that, on inspection of the Crown grant of \[_state the numbers of the sections or blocks of land and the land district, as appearing in the grant_\], dated the day of 19 , and the books in the office of the Registrar of Deeds at , it appears that a legal estate of inheritance in the whole of the lands comprised in the said grant is vested in \[_state names and descriptions of persons in whom such legal estate appears to be vested_\].
 
+Dated this day of 19 .
 
-I HEREBY certify that, on inspection of the Crown grant of \[State the numbers of the sections or blocks of land and the land district, as appearing in the grant\], dated the day of 19 , and the books in the office of the Registrar of Deeds at , it appears that a legal estate of inheritance in the whole of the lands comprised in the said grant is vested in \[State names and descriptions of persons in whom such legal estate appears to be vested\]. Dated this day of 19 . E F, \[Deputy\] Registrar of Deeds for the Registration District of . 
+E F,
 
-#### (2)  
+\[Deputy\] Registrar of Deeds for the Registration District of .
+
+#### Form 2  
 Complaint
 
-Section [45(5)][58]
+[s 45(5)][59]
 
-![. ](images/ACT_NZL_PUB.1908_033_END_SCH.Second_FRM.2_GPH.50_V1.jpg)
+\[Repealed\]
+    
+*   Schedule 2 form 2: repealed, on 1 July 2013, by [section 413][73] of the Criminal Procedure Act 2011 (2011 No 81).
+
+---
+
+#### Contents
+    
+*   1General
+*   2About this eprint
+*   3List of amendments incorporated in this eprint (most recent first) 
+
+---
+
+##### Notes
+
+###### 1 General
+    
+*   This is an eprint of the Crown Grants Act 1908\. The eprint incorporates all the amendments to the Act as at 1 July 2013\. The list of amendments at the end of these notes specifies all the amendments incorporated into this eprint since 3 September 2007\.
+    
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the eprint are also included, after the principal enactment, in chronological order.
+
+###### 2 About this eprint
+    
+*   This eprint has not been officialised. For more information about eprints and officialisation, please _see_ [http://www.pco.parliament.govt.nz/eprints/][74] ![](/images/external_link.gif).
+
+###### 3 List of amendments incorporated in this eprint (most recent first)
+    
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][73]
 
 
-THE complaint of R L, Receiver of Land Revenue for the Land District of , who comes before me, J S Esquire, a Justice of the Peace \[or Community Magistrate\] in and for New Zealand \[or a Community Magistrate\], this day of 19 , and complains that certain fees, amounting in the whole to the sum of $ , are now due and payable in respect of a certain Crown grant of \[Describe land by numbers of sections or blocks, and name of land district, as in grant\], and that A B, of , is \[or are\] the grantee \[or grantees, or one of the grantees\] named in the said grant \[or, and that a legal estate of inheritance in the land comprised in the said grant is now vested in A B, of , and C D (or A B, of , and others)\]. Taken before me, on the day and year first above written, at . J S, Justice of the Peace \[or Community Magistrate\]. 
 
-*   Form (2) in Schedule 2 was amended, as from 30 June 1998, by section [7][76] District Courts Amendment Act 1998 (1998 No 76), by inserting, after the words ""New Zealand"", the words ""or a Community Magistrate"".
-*   Form (2) in Schedule 2 was amended, as from 30 June 1988, by section [7][76] District Courts Amendment Act 1998 (1998 No 76), by adding, after the words ""Justice of the Peace"" , the words ""or Community Magistrate"".
-
-
-
-[0]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139198
-[1]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139501
-[2]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139502
-[3]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139512
-[4]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139513
-[5]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139515
-[6]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139517
-[7]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139518
-[8]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139519
-[9]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139521
-[10]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139523
-[11]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139525
-[12]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139526
-[13]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139528
-[14]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139529
-[15]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139532
-[16]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139535
-[17]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139536
-[18]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139538
-[19]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139539
-[20]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139540
-[21]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139541
-[22]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139542
-[23]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139543
-[24]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139544
-[25]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139546
-[26]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139547
-[27]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139548
-[28]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139550
-[29]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139552
-[30]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139554
-[31]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139555
-[32]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139556
-[33]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139558
-[34]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139560
-[35]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139561
-[36]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139562
-[37]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139565
-[38]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139566
-[39]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139567
-[40]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139570
-[41]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139571
-[42]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139572
-[43]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139573
-[44]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139574
-[45]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139575
-[46]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139577
-[47]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139579
-[48]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139581
-[49]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139582
-[50]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139583
-[51]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139584
-[52]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139587
-[53]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139588
-[54]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139593
-[55]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139595
-[56]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139596
-[57]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139597
-[58]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139598
-[59]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139803
-[60]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139806
-[61]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139807
-[62]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139808
-[63]: http://www.legislation.govt.nz/act/public/1908/0033/latest/link.aspx?id=DLM94263
-[64]: http://www.legislation.govt.nz/act/public/1908/0033/latest/link.aspx?id=DLM250585
-[65]: http://www.legislation.govt.nz/act/public/1908/0033/latest/link.aspx?id=DLM442181
-[66]: http://www.legislation.govt.nz/act/public/1908/0033/latest/link.aspx?id=DLM245856
-[67]: http://www.legislation.govt.nz/act/public/1908/0033/latest/link.aspx?id=DLM35049
-[68]: http://www.legislation.govt.nz/act/public/1908/0033/latest/link.aspx?id=DLM245843
-[69]: http://www.legislation.govt.nz/act/public/1908/0033/latest/link.aspx?id=DLM141163
+[0]: http://www.legislation.govt.nz/act/public/1908/0033/latest/link.aspx?id=DLM195466
+[1]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139198
+[2]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139501
+[3]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139502
+[4]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM4512900
+[5]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139513
+[6]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139515
+[7]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139517
+[8]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139518
+[9]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139519
+[10]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139521
+[11]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139523
+[12]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM4512901
+[13]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139526
+[14]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM4512902
+[15]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139529
+[16]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139532
+[17]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139535
+[18]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139536
+[19]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139538
+[20]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139539
+[21]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM4512903
+[22]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139541
+[23]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139542
+[24]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM4512904
+[25]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139544
+[26]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM4512905
+[27]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139547
+[28]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139548
+[29]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139550
+[30]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139552
+[31]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139554
+[32]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139555
+[33]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139556
+[34]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139558
+[35]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139560
+[36]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM4512906
+[37]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139562
+[38]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139565
+[39]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139566
+[40]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139567
+[41]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139570
+[42]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139571
+[43]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM4512907
+[44]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139573
+[45]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139574
+[46]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139575
+[47]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139577
+[48]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139579
+[49]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM4512908
+[50]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139582
+[51]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM4512909
+[52]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139584
+[53]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139587
+[54]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139588
+[55]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139593
+[56]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139595
+[57]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM4512910
+[58]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139597
+[59]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139598
+[60]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139803
+[61]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139806
+[62]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139807
+[63]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139808
+[64]: http://www.legislation.govt.nz/act/public/1908/0033/latest/link.aspx?id=DLM94263
+[65]: http://www.legislation.govt.nz/act/public/1908/0033/latest/link.aspx?id=DLM250585
+[66]: http://www.legislation.govt.nz/act/public/1908/0033/latest/link.aspx?id=DLM442181
+[67]: http://www.legislation.govt.nz/act/public/1908/0033/latest/link.aspx?id=DLM245856
+[68]: http://www.legislation.govt.nz/act/public/1908/0033/latest/link.aspx?id=DLM35049
+[69]: http://www.legislation.govt.nz/act/public/1908/0033/latest/link.aspx?id=DLM245843
 [70]: http://www.legislation.govt.nz/act/public/1908/0033/latest/link.aspx?id=DLM141134
 [71]: http://www.legislation.govt.nz/act/public/1908/0033/latest/link.aspx?id=DLM269031
 [72]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139809
-[73]: http://www.legislation.govt.nz/act/public/1908/0033/latest/link.aspx?id=DLM310742
-[74]: http://www.legislation.govt.nz/act/public/1908/0033/latest/whole.html#DLM139811
-[75]: http://www.legislation.govt.nz/act/public/1908/0033/latest/link.aspx?id=DLM35085
-[76]: http://www.legislation.govt.nz/act/public/1908/0033/latest/link.aspx?id=DLM427920
+[73]: http://www.legislation.govt.nz/act/public/1908/0033/latest/link.aspx?id=DLM3360714
+[74]: http://www.pco.parliament.govt.nz/eprints/
