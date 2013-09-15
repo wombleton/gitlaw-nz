@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -892,7 +892,7 @@ Human tissue
 
 ##### 22 Collection or use without informed consent
     
-*   (1) A person commits an offence, and is liable on summary conviction to the penalty specified in subsection (2), if---
+*   (1) A person commits an offence, and is liable on conviction to the penalty specified in subsection (2), if---
         
     *   (a) the person collects or uses human tissue that is, or is collected from, a body; and
     
@@ -904,31 +904,31 @@ Human tissue
     
     *   (b) in every other case, imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000\.
     
-    
+    Section 22(1): amended, on 1 July 2013, by [section 413][163] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Non-health-care tissue
 
 ##### 23 Donor analysis, etc, without informed consent
     
-*   A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, if---
+*   A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, if---
         
     *   (a) the person collects non-health-care tissue for donor analysis or carries out donor analysis of non-health-care tissue; and
     
     *   (b) informed consent is required by [subpart 1][16] for that collection or use, but was not given.
     
-    
+    Section 23: amended, on 1 July 2013, by [section 413][163] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Tissue from living individuals
 
 ##### 24 Use for secondary purpose after donors' deaths without informed consent
     
-*   A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if---
+*   A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if---
         
     *   (a) the person uses for a secondary purpose, after the donor's death, human tissue from a living individual; and
     
     *   (b) informed consent is required by [subpart 1][16] for that use, and either was not given or was given but was overridden by an overriding objection.
     
-    
+    Section 24: amended, on 1 July 2013, by [section 413][163] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Affirmative defence and assumptions
 
@@ -946,7 +946,7 @@ Human tissue
     
 *   A person who proposes to collect or use human tissue is, unless that person is aware of evidence to the contrary, entitled to assume that a person who is 16 years old or older is capable.
     
-    Compare: 1988 No 4 [s 5][163]; SR 1996/78 r 2, Schedule, right 7(2)
+    Compare: 1988 No 4 [s 5][164]; SR 1996/78 r 2, Schedule, right 7(2)
 
 ##### 27 Consent or objection assumed to be free and informed
     
@@ -1104,7 +1104,7 @@ Human tissue
     
     *   (b) cannot give, raise, make, amend, revoke, revoke and replace, or accept or disagree with any other kind of informed consent, or an informed objection, an overriding objection, or a nomination.
     
-    Compare: 1988 No 4 [s 5][163]; SR 1996/78 r 2, Schedule, right 7(2)
+    Compare: 1988 No 4 [s 5][164]; SR 1996/78 r 2, Schedule, right 7(2)
 
 ##### 38 Consent or objection given or raised or made, etc, on behalf of another
     
@@ -1116,9 +1116,9 @@ Human tissue
         
     *   (a) a parent or legal guardian of that individual; and
     
-    *   (b) a welfare guardian of that individual appointed under the [Protection of Personal and Property Rights Act 1988][164]; and
+    *   (b) a welfare guardian of that individual appointed under the [Protection of Personal and Property Rights Act 1988][165]; and
     
-    *   (c) an attorney appointed by that individual under a power of attorney described in [section 95][165] of the Protection of Personal and Property Rights Act 1988\.
+    *   (c) an attorney appointed by that individual under a power of attorney described in [section 95][166] of the Protection of Personal and Property Rights Act 1988\.
     
     
 
@@ -1184,9 +1184,9 @@ Human tissue
     
     (3) For the purposes of this section,---
         
-    *   (a) _will_ has the same meaning as in the [Wills Act 2007][166]; and
+    *   (a) _will_ has the same meaning as in the [Wills Act 2007][167]; and
     
-    *   (b) it does not matter whether a will is valid (as defined in [section 7][167] of that Act).
+    *   (b) it does not matter whether a will is valid (as defined in [section 7][168] of that Act).
     
     Compare: Human Tissue Act 2004 s 3(5)(c) (UK)
 
@@ -1222,13 +1222,13 @@ Human tissue
     
     (2) This section applies even if the collection or use of the tissue is required, permitted, or otherwise controlled by law.
     
-    (3) A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if---
+    (3) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if---
         
     *   (a) the person intentionally or knowingly collects or uses human tissue for a purpose (whether or not the person knows the purpose is a non-therapeutic purpose); and
     
     *   (b) that act or omission contravenes subsection (1).
     
-    
+    Section 47(3): amended, on 1 July 2013, by [section 413][163] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Post-mortems, official inquiries, etc
 
@@ -1244,13 +1244,15 @@ Human tissue
     
     (2) The person may collect or use, in accordance with any informed consent required by this Act, tissue that is, or is from, the body, only with the approval of the coroner or other competent legal authority concerned.
     
-    (3) A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if---
+    (3) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if---
         
     *   (a) the person intentionally or knowingly collects or uses tissue that is, or is from, a body, and the person knows, or ought reasonably to know, what is specified in subsection (1)(a), (b), or (c); and
     
     *   (b) that act contravenes subsection (2).
     
     Compare: 1964 No 19 [s 3(5)][158]
+    
+    Section 48(3): amended, on 1 July 2013, by [section 413][163] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 49 Post-mortems must be performed by, or in accordance with instructions of, medical practitioners
     
@@ -1260,17 +1262,19 @@ Human tissue
         
     *   (a) a coroner acting under [section 31][160] of the Coroners Act 2006; or
     
-    *   (b) the High Court acting under [section 41][168] of the Coroners Act 2006; or
+    *   (b) the High Court acting under [section 41][169] of the Coroners Act 2006; or
     
     *   (c) the Director-General of Health acting under [section 78][161] of the Health Act 1956\.
     
-    (3) A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if---
+    (3) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if---
         
     *   (a) the person intentionally or knowingly does an act; and
     
     *   (b) that act contravenes subsection (1).
     
-    Compare: 1964 No 19 [ss 4(2)][169], [12(a)][170]
+    Compare: 1964 No 19 [ss 4(2)][170], [12(a)][171]
+    
+    Section 49(3): amended, on 1 July 2013, by [section 413][163] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Collection of tissue from bodies for therapeutic purposes, health practitioner education, or research
 
@@ -1288,13 +1292,15 @@ Human tissue
     
     *   (c) a person who the Director-General has, by notice in the _Gazette_, authorised as suitably qualified to collect tissue of that kind for 1 or more specified purposes.
     
-    (4) A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, if---
+    (4) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, if---
         
     *   (a) the person intentionally or knowingly collects human tissue that the person knows is tissue that is, or is collected from, a body (whether or not the person knows that the tissue is collected for all or any of the purposes specified in subsection (1)); and
     
     *   (b) that act contravenes subsection (1) or (2).
     
     Compare: 1964 No 19 [s 3(4)][158]
+    
+    Section 50(4): amended, on 1 July 2013, by [section 413][163] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Anatomical examinations and public display
 
@@ -1302,25 +1308,29 @@ Human tissue
     
 *   (1) No person may collect or use for anatomical examination, public display, or both, tissue that is, or is collected from, the body of an individual who, at the time he or she died, was under 16 years of age.
     
-    (2) A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, if---
+    (2) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, if---
         
     *   (a) the person intentionally or knowingly does an act; and
     
     *   (b) that act contravenes subsection (1).
     
     (3) Subsection (1) does not apply to public display by or on behalf of the responsible person and to enable people to pay their final respects to, or that is incidental to the funeral of, the dead individual.
+    
+    Section 51(2): amended, on 1 July 2013, by [section 413][163] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 52 Anatomical examinations must usually be performed at schools of anatomy
     
 *   (1) A person must not, unless authorised by [section 53][77] to do so, perform an anatomical examination, or receive, possess, store, or otherwise use all or a part of a body for anatomical examination, at a place that is not a school of anatomy.
     
-    (2) A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if---
+    (2) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if---
         
     *   (a) the person intentionally or knowingly does an act; and
     
     *   (b) that act contravenes subsection (1).
     
-    Compare: 1964 No 19 [ss 7(2)][162], [12(b)][170], (c)
+    Compare: 1964 No 19 [ss 7(2)][162], [12(b)][171], (c)
+    
+    Section 52(2): amended, on 1 July 2013, by [section 413][163] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 53 Anatomical examinations outside schools of anatomy
     
@@ -1346,7 +1356,7 @@ Human tissue
     
     *   (b) conduct the examination or collection in an orderly, quiet, and decent manner.
     
-    Compare: 1964 No 19 [s 11][171]
+    Compare: 1964 No 19 [s 11][172]
 
 #### Trading in blood, controlled human substances, or other human tissue
 
@@ -1398,13 +1408,13 @@ Human tissue
         
         
     
-    Compare: 1956 No 65 [s 92A][172]
+    Compare: 1956 No 65 [s 92A][173]
 
 ##### 56 Trading in human tissue generally prohibited
     
 *   (1) No person may, except under an exemption under [section 60][86], require or accept, or offer or provide, financial or other consideration for human tissue.
     
-    (2) A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, if---
+    (2) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, if---
         
     *   (a) the person intentionally or knowingly does an act; and
     
@@ -1428,13 +1438,15 @@ Human tissue
     
     (7) This section does not limit or affect [section 59][85].
     
-    Compare: 1956 No 65 [s 92B][173]
+    Compare: 1956 No 65 [s 92B][174]
+    
+    Section 56(2): amended, on 1 July 2013, by [section 413][163] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 57 Collection of blood or controlled human substance
     
 *   (1) No person may collect blood or any controlled human substance from a person, or from the body of a person, for the purpose of obtaining that blood or that substance for administration to another person.
     
-    (2) A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $20,000, if---
+    (2) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $20,000, if---
         
     *   (a) the person intentionally or knowingly does an act; and
     
@@ -1450,13 +1462,15 @@ Human tissue
     
     (5) Every appointed entity described in subsection (3)(a) and every employee or agent described in subsection (3)(b) who collects blood or any controlled human substance must give due recognition to the fact that the blood or controlled human substance has been donated.
     
-    Compare: 1956 No 65 [s 92C][174]
+    Compare: 1956 No 65 [s 92C][175]
+    
+    Section 57(2): amended, on 1 July 2013, by [section 413][163] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 58 Consideration not generally to be provided for collection of blood or controlled human substance for administration to another person
     
 *   (1) No person may, except under an exemption under [section 60][86], provide financial or other consideration for the collection of blood or a controlled human substance from a person, or from the body of a person, for administration to another person.
     
-    (2) A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, if---
+    (2) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, if---
         
     *   (a) the person intentionally or knowingly does an act; and
     
@@ -1464,13 +1478,15 @@ Human tissue
     
     (3) Subsection (1) does not prevent a person who collects blood or a controlled human substance from providing to, or for the benefit of, the person from whom the blood or controlled human substance is collected consideration that is reasonably related to, or that does not exceed, the actual and reasonable costs incurred by that person in connection with its collection.
     
-    Compare: 1956 No 65 [s 92B(2)][173]
+    Compare: 1956 No 65 [s 92B(2)][174]
+    
+    Section 58(2): amended, on 1 July 2013, by [section 413][163] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 59 Person administering blood or controlled human substance not to charge recipient for its collection or use
     
 *   (1) No person who administers blood or any controlled human substance to another person may, except under an exemption under [section 60][86], require or accept from the person to whom that blood or that substance is administered financial or other consideration for collecting or using it.
     
-    (2) A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, if---
+    (2) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, if---
         
     *   (a) the person intentionally or knowingly does an act; and
     
@@ -1478,7 +1494,9 @@ Human tissue
     
     (3) This section does not limit or affect [section 56][82].
     
-    Compare: 1956 No 65 [s 92D][175]
+    Compare: 1956 No 65 [s 92D][176]
+    
+    Section 59(2): amended, on 1 July 2013, by [section 413][163] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 60 Exemptions
     
@@ -1500,13 +1518,13 @@ Human tissue
     
     *   (b) present a copy to the House of Representatives no later than its 16th sitting day after the day on which the notice was given.
     
-    Compare: 1956 No 65 [s 92E][176]
+    Compare: 1956 No 65 [s 92E][177]
 
 ##### 61 Advertising prohibited
     
 *   (1) No person may, except under an exemption under [section 60][86], distribute an advertisement relating to the purchase or sale in New Zealand of human tissue.
     
-    (2) A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if---
+    (2) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if---
         
     *   (a) the person intentionally or knowingly does an act; and
     
@@ -1530,7 +1548,9 @@ Human tissue
     
     *   (c) to deposit in any area, yard, garden, or enclosure comprising part of or appurtenant to any premises.
     
-    Compare: 1956 No 65 [s 92F][177]
+    Compare: 1956 No 65 [s 92F][178]
+    
+    Section 61(2): amended, on 1 July 2013, by [section 413][163] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 62 Liability of employers, principals, and directors
     
@@ -1556,7 +1576,7 @@ Human tissue
     
     (5) _Director_, in subsection (4), includes a person who is concerned in the management of a body corporate.
     
-    Compare: 1956 No 65 [s 92G][178]
+    Compare: 1956 No 65 [s 92G][179]
 
 ##### 63 Appointed entities to collect and distribute blood and controlled human substances
     
@@ -1578,11 +1598,11 @@ Human tissue
     
     (7) After giving a notice under subsection (1), (3), or (4), the Minister must, as soon as practicable, publish in the _Gazette_, and present to the House of Representatives, a copy of that notice.
     
-    Compare: 1956 No 65 [s 92H][179]
+    Compare: 1956 No 65 [s 92H][180]
 
 ##### 64 Exemption from Part 2 of Commerce Act 1986
     
-*   Nothing in [Part 2][180] of the Commerce Act 1986 applies to---
+*   Nothing in [Part 2][181] of the Commerce Act 1986 applies to---
         
     *   (a) a contract, arrangement, understanding, or covenant in relation to blood or controlled human substances that---
             
@@ -1594,15 +1614,15 @@ Human tissue
     
     *   (b) an act done to give effect to a provision of a contract, arrangement, understanding, or covenant to which paragraph (a) applies.
     
-    Compare: 1956 No 65 [s 92I][181]
+    Compare: 1956 No 65 [s 92I][182]
 
 ##### 65 Protection of appointed entities
     
-*   (1) [Section 129][182] of the Health Act 1956 applies to any appointed entity, and to any employee or agent of an appointed entity, who, in pursuance or intended pursuance of a provision in a notice given under [section 63][89] of this Act (which relates to entities to collect and distribute blood and controlled human substances), does an act, or fails or refuses to do an act, in relation to blood or a controlled human substance.
+*   (1) [Section 129][183] of the Health Act 1956 applies to any appointed entity, and to any employee or agent of an appointed entity, who, in pursuance or intended pursuance of a provision in a notice given under [section 63][89] of this Act (which relates to entities to collect and distribute blood and controlled human substances), does an act, or fails or refuses to do an act, in relation to blood or a controlled human substance.
     
-    (2) For the purpose of applying [section 129][182] of the Health Act 1956 in accordance with subsection (1), a provision in a notice given under [section 63][89] of this Act must be treated as a provision of the [Health Act 1956][183].
+    (2) For the purpose of applying [section 129][183] of the Health Act 1956 in accordance with subsection (1), a provision in a notice given under [section 63][89] of this Act must be treated as a provision of the [Health Act 1956][184].
     
-    Compare: 1956 No 65 [s 92J][184]
+    Compare: 1956 No 65 [s 92J][185]
 
 #### Exportation and importation of human tissue
 
@@ -1612,13 +1632,15 @@ Human tissue
     
     (2) This section applies even if the exportation or importation of the tissue is required, permitted, or otherwise controlled by law.
     
-    (3) A person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if---
+    (3) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $20,000, if---
         
     *   (a) the person intentionally or knowingly does, or omits to do, an act; and
     
     *   (b) that act or omission contravenes subsection (1).
     
-    Compare: 2004 No 92 [s 9(2)(a)][185], (5)
+    Compare: 2004 No 92 [s 9(2)(a)][186], (5)
+    
+    Section 66(3): amended, on 1 July 2013, by [section 413][163] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 3  
 Technical and miscellaneous provisions
@@ -1633,7 +1655,7 @@ Technical and miscellaneous provisions
     
     *   (b) there is located at the place any thing that is or may be evidence of a contravention of that kind.
     
-    Compare: 2004 No 92 [s 67][186]
+    Compare: 2004 No 92 [s 67][187]
 
 ##### 68 Powers of authorised persons
     
@@ -1669,23 +1691,23 @@ Technical and miscellaneous provisions
     
     *   (h) \[Repealed\]
     
-    (2) The provisions of [Part 4][187] of the Search and Surveillance Act 2012 (except [subpart 3][188] and [sections 118][189] and [119][190]) apply with any necessary modifications.
+    (2) The provisions of [Part 4][188] of the Search and Surveillance Act 2012 (except [subpart 3][189] and [sections 118][190] and [119][191]) apply with any necessary modifications.
     
     (3) \[Repealed\]
     
-    Compare: 2004 No 92 [s 68][191]
+    Compare: 2004 No 92 [s 68][192]
     
-    Section 68(1)(c): repealed, on 1 October 2012, by [section 258(2)][192] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 68(1)(c): repealed, on 1 October 2012, by [section 258(2)][193] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 68(1)(f): repealed, on 1 October 2012, by [section 258(2)][192] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 68(1)(f): repealed, on 1 October 2012, by [section 258(2)][193] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 68(1)(g): repealed, on 1 October 2012, by [section 258(2)][192] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 68(1)(g): repealed, on 1 October 2012, by [section 258(2)][193] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 68(1)(h): repealed, on 1 October 2012, by [section 258(2)][192] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 68(1)(h): repealed, on 1 October 2012, by [section 258(2)][193] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 68(2): replaced, on 1 October 2012, by [section 258(3)][192] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 68(2): replaced, on 1 October 2012, by [section 258(3)][193] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 68(3): repealed, on 1 October 2012, by [section 258(3)][192] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 68(3): repealed, on 1 October 2012, by [section 258(3)][193] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 69 Entry of dwellinghouses and marae
     
@@ -1695,7 +1717,7 @@ Technical and miscellaneous provisions
     
     *   (b) with the authority of a search warrant issued under subsection (2).
     
-    (2) An issuing officer (within the meaning of [section 3][193] of the Search and Surveillance Act 2012) may, on an application made by an authorised person in the manner provided for an application for a search warrant in [subpart 3][188] of Part 4 of that Act, issue a search warrant in respect of a dwellinghouse or marae if satisfied that there are reasonable grounds to believe that in that house or marae---
+    (2) An issuing officer (within the meaning of [section 3][194] of the Search and Surveillance Act 2012) may, on an application made by an authorised person in the manner provided for an application for a search warrant in [subpart 3][189] of Part 4 of that Act, issue a search warrant in respect of a dwellinghouse or marae if satisfied that there are reasonable grounds to believe that in that house or marae---
         
     *   (a) an offence against this Act has been or is being committed; or
     
@@ -1705,33 +1727,33 @@ Technical and miscellaneous provisions
     
     (4) The search warrant authorises the authorised person to whom it is directed to exercise in respect of the dwellinghouse or marae all or any of the powers described in [section 68][97], and the provisions of that section apply to the execution of the warrant.
     
-    (5) Subject to subsection (6) and section 72, the provisions of [Part 4][187] of the Search and Surveillance Act 2012 (except [sections 118][189] and [119][190]) apply.
+    (5) Subject to subsection (6) and section 72, the provisions of [Part 4][188] of the Search and Surveillance Act 2012 (except [sections 118][190] and [119][191]) apply.
     
     (6) The authorised person to whom the search warrant is directed may execute it on 1 occasion on, or within 14 days after, the date of its issue.
     
-    Compare: 2004 No 92 [s 69][194]
+    Compare: 2004 No 92 [s 69][195]
     
-    Section 69(2): amended, on 1 October 2012, by [section 258(4)][192] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 69(2): amended, on 1 October 2012, by [section 258(4)][193] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 69(3): repealed, on 1 October 2012, by [section 258(5)][192] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 69(3): repealed, on 1 October 2012, by [section 258(5)][193] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 69(5): replaced, on 1 October 2012, by [section 258(6)][192] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 69(5): replaced, on 1 October 2012, by [section 258(6)][193] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 70 Identification of authorised person
     
 *   \[Repealed\]
     
-    Section 70: repealed, on 1 October 2012, by [section 258(7)][192] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 70: repealed, on 1 October 2012, by [section 258(7)][193] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 71 Notice requirements when place entered
     
 *   \[Repealed\]
     
-    Section 71: repealed, on 1 October 2012, by [section 258(7)][192] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 71: repealed, on 1 October 2012, by [section 258(7)][193] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 72 Disposal of property seized
     
-*   [Subpart 6][195] of Part 4 of the Search and Surveillance Act 2012 applies to any property seized by an authorised person under [section 68(1)(d)][97], subject to the following provisions:
+*   [Subpart 6][196] of Part 4 of the Search and Surveillance Act 2012 applies to any property seized by an authorised person under [section 68(1)(d)][97], subject to the following provisions:
         
     *   (a) \[Repealed\]
     
@@ -1741,27 +1763,29 @@ Technical and miscellaneous provisions
     
     *   (d) if any person is convicted of an offence to which the item relates, the Court may, if it thinks fit, order that the item be forfeited to the Crown or disposed of as the Court directs at the expense of the convicted person, and may order that the person pay any reasonable costs incurred by the authorised person or the Commissioner of Police in retaining the item.
     
-    Compare: 2004 No 92 [s 72][196]
+    Compare: 2004 No 92 [s 72][197]
     
-    Section 72: amended, on 1 October 2012, by [section 258(8)(a)][192] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 72: amended, on 1 October 2012, by [section 258(8)(a)][193] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 72(a): repealed, on 1 October 2012, by [section 258(8)(b)][192] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 72(a): repealed, on 1 October 2012, by [section 258(8)(b)][193] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 72(b): repealed, on 1 October 2012, by [section 258(8)(b)][192] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 72(b): repealed, on 1 October 2012, by [section 258(8)(b)][193] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 72(c): repealed, on 1 October 2012, by [section 258(8)(b)][192] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 72(c): repealed, on 1 October 2012, by [section 258(8)(b)][193] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### 
 
 ##### 73 Obstructing inspections, etc, by authorised persons
     
-*   Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months, or a fine not exceeding $20,000, who intentionally does all or any of the following:
+*   Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months, or a fine not exceeding $20,000, who intentionally does all or any of the following:
         
     *   (a) obstructs, hinders, or resists an authorised person, or any person lawfully assisting an authorised person, in the exercise of the authorised person's powers under this Act:
     
     *   (b) refuses or fails to comply with any lawful requirements of an authorised person under this Act.
     
-    Compare: 2004 No 90 [s 79][197]; 2004 No 92 [s 75][198]
+    Compare: 2004 No 90 [s 79][198]; 2004 No 92 [s 75][199]
+    
+    Section 73: amended, on 1 July 2013, by [section 413][163] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Regulations and Orders in Council
 
@@ -1773,7 +1797,7 @@ Technical and miscellaneous provisions
     
     (3) The standards must include requirements for ethical approval of all research using human tissue.
     
-    (4) The requirements for ethical approval must not be inconsistent with requirements under the [Human Assisted Reproductive Technology Act 2004][199] for ethical approval for human reproductive research.
+    (4) The requirements for ethical approval must not be inconsistent with requirements under the [Human Assisted Reproductive Technology Act 2004][200] for ethical approval for human reproductive research.
     
     (5) However, the standards or the regulations may identify research, or classes or kinds of research, using human tissue to which some or all of the requirements for ethical approval do not apply, or apply subject to conditions or modifications.
 
@@ -1819,7 +1843,7 @@ Technical and miscellaneous provisions
     
     (3) The regulations may also require the register to be capable of, and to be maintained for, recording 1 or more specified classes, descriptions, or kinds of other donor information.
     
-    (4) The regulations do not affect the application of the [Privacy Act 1993][200] to the collection, use, and disclosure of personal information by and for the purposes of the register.
+    (4) The regulations do not affect the application of the [Privacy Act 1993][201] to the collection, use, and disclosure of personal information by and for the purposes of the register.
     
     (5) In particular, the regulations cannot authorise or require the recording in the register of personal information---
         
@@ -1833,7 +1857,7 @@ Technical and miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 79: repealed, on 1 October 2012, by [section 258(9)][192] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 79: repealed, on 1 October 2012, by [section 258(9)][193] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Inspectors of schools of anatomy
 
@@ -1847,7 +1871,7 @@ Technical and miscellaneous provisions
     
     *   (b) persons who are not members of the police but are persons who wish to be appointed, and who the Director-General considers are suitable for appointment, as inspectors of the school of anatomy.
     
-    Compare: 1964 No 19 [s 8(1)][201]
+    Compare: 1964 No 19 [s 8(1)][202]
 
 ##### 81 Term of office
     
@@ -1861,7 +1885,7 @@ Technical and miscellaneous provisions
     
     *   (d) is removed from it under [section 82][113].
     
-    Compare: 1964 No 19 [s 8(2)][201]
+    Compare: 1964 No 19 [s 8(2)][202]
 
 ##### 82 Removal of inspectors who are not members of police
     
@@ -1877,7 +1901,7 @@ Technical and miscellaneous provisions
     
     *   (b) a later time specified for the purpose in that notice.
     
-    Compare: 1993 No 82 [s 20G(d)][202]
+    Compare: 1993 No 82 [s 20G(d)][203]
 
 ##### 83 Directions to inspectors
     
@@ -1887,7 +1911,7 @@ Technical and miscellaneous provisions
     
     (3) The Director-General may, by written notice given to the inspectors concerned, amend, revoke, or revoke and replace a written direction under this section.
     
-    Compare: 1964 No 19 [s 8(1)][201]
+    Compare: 1964 No 19 [s 8(1)][202]
 
 ##### 84 Inspectors must report irregularities
     
@@ -1901,13 +1925,13 @@ Technical and miscellaneous provisions
     
     (3) Inspectors of the same school of anatomy may combine their reports, or report together jointly, under this section.
     
-    Compare: 1964 No 19 [s 8(3)][201]
+    Compare: 1964 No 19 [s 8(3)][202]
 
 ##### 85 Inspectors may visit and inspect school
     
 *   An inspector may, at any reasonable time, visit and inspect the school of anatomy for which he or she is appointed as an inspector.
     
-    Compare: 1964 No 19 [s 8(4)][201]
+    Compare: 1964 No 19 [s 8(4)][202]
 
 #### Disclosure of health information to facilitate consideration of use of tissue for transplantation or other therapeutic purposes
 
@@ -1935,7 +1959,7 @@ Technical and miscellaneous provisions
     
     *   (c) identifying details and contact details of members of the individual's family.
     
-    (3) _Authorised tissue bank_ means a tissue bank the Director-General has by notice in the _Gazette_ authorised for the purposes of this section, and _health agency_, _health information_, and _representative_ have the meanings given to them by clause 3 of the Health Information Privacy Code 1994 issued under [section 46][203] of the Privacy Act 1993\.
+    (3) _Authorised tissue bank_ means a tissue bank the Director-General has by notice in the _Gazette_ authorised for the purposes of this section, and _health agency_, _health information_, and _representative_ have the meanings given to them by clause 3 of the Health Information Privacy Code 1994 issued under [section 46][204] of the Privacy Act 1993\.
 
 #### Repeal of organ donor provisions in driver licensing legislation
 
@@ -1943,9 +1967,9 @@ Technical and miscellaneous provisions
     
 *   (1) This section amends the [Land Transport Act 1998][152].
     
-    (2) [Section 28(1)(i)][204] is repealed.
+    (2) [Section 28(1)(i)][205] is repealed.
     
-    (3) The following section is inserted after [section 28A][205]:
+    (3) The following section is inserted after [section 28A][206]:
     
     > ##### "28B Transitional provision for driver licences showing organ donor information about holders, etc
     >     
@@ -1955,11 +1979,11 @@ Technical and miscellaneous provisions
     > 
     > 
     
-    (4) [Section 199(2)(q)][206] is repealed.
+    (4) [Section 199(2)(q)][207] is repealed.
     
-    (5) [Section 199(5)][206] is repealed; and section 199(7) and (8) are consequentially amended by omitting ""any of subsections (4) to (6)"" and substituting in each case ""subsection (4) or (6)"".
+    (5) [Section 199(5)][207] is repealed; and section 199(7) and (8) are consequentially amended by omitting ""any of subsections (4) to (6)"" and substituting in each case ""subsection (4) or (6)"".
     
-    (6) [Section 199][206] is amended by inserting the following subsections after subsection (8):
+    (6) [Section 199][207] is amended by inserting the following subsections after subsection (8):
     
     > *   "(9) The national register may, but need not, continue to show organ donor information, despite the repeals and revocations effected by sections 87 and 88 of the Human Tissue Act 2008, while that information continues to be shown on the relevant driver licence in accordance with section 28B.
     > 
@@ -1975,13 +1999,13 @@ Technical and miscellaneous provisions
     > 
     > 
     
-    Section 87(6): amended, on 10 May 2011, by [section 100(3)][207] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 87(6): amended, on 10 May 2011, by [section 100(3)][208] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
 ##### 88 Land Transport (Driver Licensing) Rule 1999 amended
     
-*   (1) This section amends the [Land Transport (Driver Licensing) Rule 1999][208].
+*   (1) This section amends the [Land Transport (Driver Licensing) Rule 1999][209].
     
-    (2) [Rules 9(h)][209] and [63(1)(k)][210] are revoked.
+    (2) [Rules 9(h)][210] and [63(1)(k)][211] are revoked.
 
 ##### 89 Commencement of sections 87 and 88
     
@@ -1999,7 +2023,7 @@ Technical and miscellaneous provisions
 
 ##### 90 Interpretation
     
-*   (1) This section amends the [Health and Disability Commissioner Act 1994][211].
+*   (1) This section amends the [Health and Disability Commissioner Act 1994][212].
     
     (2) [Section 2(1)][145] is amended by inserting the following definition in its appropriate alphabetical order:
     
@@ -2017,9 +2041,9 @@ Technical and miscellaneous provisions
 
 ##### 91 Regulations
     
-*   (1) This section amends the [Human Assisted Reproductive Technology Act 2004][199].
+*   (1) This section amends the [Human Assisted Reproductive Technology Act 2004][200].
     
-    (2) [Section 76][212] is amended by inserting the following subsections after subsection (1):
+    (2) [Section 76][213] is amended by inserting the following subsections after subsection (1):
     
     > *   "(1A) Regulations under subsection (1)(a)(i) may prescribe requirements (not inconsistent with this Act, the Health and Disability Commissioner (Code of Health and Disability Services Consumers' Rights) Regulations 1996, or the Human Tissue Act 2008) for informed consent for collection of gametes, embryos, or both---
     >         
@@ -2051,13 +2075,13 @@ Technical and miscellaneous provisions
 
 ##### 94 Exemptions under section 92E(1) of Health Act 1956
     
-*   (1) This section applies to notices given under [section 92E(1)][176] of the Health Act 1956 if those notices were in force immediately before the repeal of [Part 3A][144] of that Act.
+*   (1) This section applies to notices given under [section 92E(1)][177] of the Health Act 1956 if those notices were in force immediately before the repeal of [Part 3A][144] of that Act.
     
     (2) On and after that repeal, those notices must be treated as if they were given under [section 60][86] (exemptions), and may be revoked, varied, or added to, under that section accordingly.
 
 ##### 95 Entities appointed under Health Act 1956 to collect and distribute blood and controlled human substances
     
-*   (1) This section applies to appointments under [section 92H][179] of the Health Act 1956 if those appointments were in force immediately before the repeal of [Part 3A][144] of that Act.
+*   (1) This section applies to appointments under [section 92H][180] of the Health Act 1956 if those appointments were in force immediately before the repeal of [Part 3A][144] of that Act.
     
     (2) On and after that repeal, those appointments must be treated as if they were made under [section 63][89] (appointed entities to collect and distribute blood and controlled human substances), and may be revoked, varied, or added to, under that section accordingly.
 
@@ -2071,9 +2095,9 @@ Technical and miscellaneous provisions
     
     *   (b) Order in Council Authorising the Establishment of a School of Anatomy in connection with Auckland University College, 5 March 1888 _New Zealand Gazette_ No 14 page 298:
     
-    *   (c) [University of Otago School of Anatomy Order 1969][213] (SR 1969/278) (Wellington Hospital):
+    *   (c) [University of Otago School of Anatomy Order 1969][214] (SR 1969/278) (Wellington Hospital):
     
-    *   (d) [University of Otago School of Anatomy Order 1988][214] (SR 1988/206) (Christchurch Hospital).
+    *   (d) [University of Otago School of Anatomy Order 1988][215] (SR 1988/206) (Christchurch Hospital).
     
     (3) Every inspector of a school of anatomy who was in office immediately before the repeal of the [Human Tissue Act 1964][143] continues in office after that repeal as if appointed by the Director-General---
         
@@ -2081,7 +2105,7 @@ Technical and miscellaneous provisions
     
     *   (b) under [section 80(1)][111] and (2)(b), in every other case.
     
-    (4) Every direction by the Minister to an inspector of a school of anatomy under [section 8(1)][201] of the Human Tissue Act 1964 and in force on the repeal of that Act must after that repeal be treated as a direction by the Director-General under [section 83][114], and may be amended, revoked, or revoked and replaced under that section accordingly.
+    (4) Every direction by the Minister to an inspector of a school of anatomy under [section 8(1)][202] of the Human Tissue Act 1964 and in force on the repeal of that Act must after that repeal be treated as a direction by the Director-General under [section 83][114], and may be amended, revoked, or revoked and replaced under that section accordingly.
 
 ##### 97 Existing holdings of human tissue
     
@@ -2166,7 +2190,7 @@ Incorporation of standards in regulations by reference
     
     (3) Standards incorporated by reference in regulations under [section 74][104] or [75][105] have legal effect as part of those regulations.
     
-    Compare: 1956 No 65 [s 112ZG][215]
+    Compare: 1956 No 65 [s 112ZG][216]
 
 ##### 2 Effect of amendments to, or replacement of, standards incorporated by reference in regulations
     
@@ -2178,7 +2202,7 @@ Incorporation of standards in regulations by reference
     
     *   (c) regulations made under [section 74][104] or [75][105] after the making of the initial regulations state that the particular amendment or replacement has that effect.
     
-    Compare: 1956 No 65 [s 112ZH][216]
+    Compare: 1956 No 65 [s 112ZH][217]
 
 ##### 3 Proof of standards incorporated by reference
     
@@ -2190,13 +2214,13 @@ Incorporation of standards in regulations by reference
     
     (2) The production in proceedings of a certified copy of the standards is, in the absence of evidence to the contrary, sufficient evidence of the incorporation in the regulations of the standards.
     
-    Compare: 1956 No 65 [s 112ZI][217]
+    Compare: 1956 No 65 [s 112ZI][218]
 
 ##### 4 Effect of expiry or revocation of standards incorporated by reference
     
 *   Standards incorporated by reference in regulations under [section 74][104] or [75][105] that expire or that are revoked or that cease to have effect cease to have legal effect as part of those regulations only if regulations made under that section state that the standards cease to have legal effect.
     
-    Compare: 1956 No 65 [s 112ZJ][218]
+    Compare: 1956 No 65 [s 112ZJ][219]
 
 ##### 5 Requirement to consult
     
@@ -2234,7 +2258,7 @@ Incorporation of standards in regulations by reference
     
     (4) A failure to comply with this clause does not invalidate regulations that incorporate standards by reference.
     
-    Compare: 1956 No 65 [s 112ZK][219]
+    Compare: 1956 No 65 [s 112ZK][220]
 
 ##### 6 Access to standards incorporated by reference
     
@@ -2266,29 +2290,29 @@ Incorporation of standards in regulations by reference
     
     (3) A failure to comply with this clause does not invalidate regulations that incorporate standards by reference.
     
-    Compare: 1956 No 65 [s 112ZL][220]
+    Compare: 1956 No 65 [s 112ZL][221]
 
 ##### 7 Acts and Regulations Publication Act 1989 not applicable to standards incorporated by reference
     
-*   The [Acts and Regulations Publication Act 1989][221] does not apply to---
+*   The [Acts and Regulations Publication Act 1989][222] does not apply to---
         
     *   (a) standards incorporated by reference in regulations under [section 74][104] or [75][105]; or
     
     *   (b) an amendment to, or replacement of, those standards.
     
-    Compare: 1956 No 65 [s 112ZM][222]
+    Compare: 1956 No 65 [s 112ZM][223]
 
 ##### 8 Application of Regulations (Disallowance) Act 1989 to standards incorporated by reference
     
-*   (1) Nothing in [section 4][223] of the Regulations (Disallowance) Act 1989 requires standards that are incorporated by reference in regulations to be laid before the House of Representatives.
+*   (1) Nothing in [section 4][224] of the Regulations (Disallowance) Act 1989 requires standards that are incorporated by reference in regulations to be laid before the House of Representatives.
     
-    (2) The [Regulations (Disallowance) Act 1989][224], apart from the modification to the application of [section 4 ][223] of that Act made by subclause (1) of this clause, applies to regulations under [section 74][104] or [75][105] that incorporate standards by reference.
+    (2) The [Regulations (Disallowance) Act 1989][225], apart from the modification to the application of [section 4 ][224] of that Act made by subclause (1) of this clause, applies to regulations under [section 74][104] or [75][105] that incorporate standards by reference.
     
-    Compare: 1956 No 65 [s 112ZN][225]
+    Compare: 1956 No 65 [s 112ZN][226]
 
 ##### 9 Application of Standards Act 1988 not affected
     
-*   [Clauses 1][1] to [8][9] do not affect the application of [sections 22][226] to [25][227] of the Standards Act 1988\.
+*   [Clauses 1][1] to [8][9] do not affect the application of [sections 22][227] to [25][228] of the Standards Act 1988\.
     
     Compare: 1956 No 65 s 112ZO
 
@@ -2301,133 +2325,63 @@ Consequential amendments
 
 ##### Births, Deaths, and Marriages Registration Act 1995 (1995 No 16)
 
-[Section 39(c)(ii)][228]: omit ""Human Tissue Act 1964"" and substitute ""Human Tissue Act 2008"".
+[Section 39(c)(ii)][229]: omit ""Human Tissue Act 1964"" and substitute ""Human Tissue Act 2008"".
 
-[Section 40(1)(b)][229] and (4): omit ""Human Tissue Act 1964"" and substitute in each case ""Human Tissue Act 2008"".
+[Section 40(1)(b)][230] and (4): omit ""Human Tissue Act 1964"" and substitute in each case ""Human Tissue Act 2008"".
 
-[Section 42(2)(b)][230]: omit ""Human Tissue Act 1964"" and substitute ""Human Tissue Act 2008"".
+[Section 42(2)(b)][231]: omit ""Human Tissue Act 1964"" and substitute ""Human Tissue Act 2008"".
 
-[Section 51(2)(b)][231] and (3)(c): omit ""Human Tissue Act 1964"" and substitute in each case ""Human Tissue Act 2008"".
+[Section 51(2)(b)][232] and (3)(c): omit ""Human Tissue Act 1964"" and substitute in each case ""Human Tissue Act 2008"".
 
 ##### Coroners Act 2006 (2006 No 38)
 
-[Schedule 5][232]: repeal so much as relates to the Human Tissue Act 1964\.
+[Schedule 5][233]: repeal so much as relates to the Human Tissue Act 1964\.
 
 ##### Corrections Act 2004 (2004 No 50) 
 
-[Schedule 2:][233] repeal so much as relates to the Human Tissue Act 1964\.
+[Schedule 2:][234] repeal so much as relates to the Human Tissue Act 1964\.
 
 ##### Electronic Transactions Act 2002 (2002 No 35)
 
-[Part 2 ][234]of the Schedule: omit the item relating to section 3 of the Human Tissue Act 1964 (1964 No 19).
+[Part 2 ][235]of the Schedule: omit the item relating to section 3 of the Human Tissue Act 1964 (1964 No 19).
 
 ##### Health Act 1956 (1956 No 65)
 
-[Section 22E][235]: omit ""section 92H"" and substitute ""section 63 of the Human Tissue Act 2008"".
+[Section 22E][236]: omit ""section 92H"" and substitute ""section 63 of the Human Tissue Act 2008"".
 
 ##### Health and Disability Services (Safety) Act 2001 (2001 No 93)
 
-[Schedule 2][236]: repeal so much as relates to the Human Tissue Act 1964\.
+[Schedule 2][237]: repeal so much as relates to the Human Tissue Act 1964\.
 
 ##### Health Practitioners Competence Assurance Act 2003 (2003 No 48)
 
-[Section 67(b)(vii)][237]: omit ""Human Tissue Act 1964"" and substitute ""Human Tissue Act 2008"".
+[Section 67(b)(vii)][238]: omit ""Human Tissue Act 1964"" and substitute ""Human Tissue Act 2008"".
 
-Section 100(2)(vii): omit ""Human Tissue Act 1964"" and substitute ""[Human Tissue Act 2008][238]"".
-
-[Schedule 4][239]: repeal so much as relates to the Human Tissue Act 1964\.
-
-##### Health Sector (Transfers) Act 1993 (1993 No 23)
+Section 100(2)(vii): omit ""Human Tissue Act 1964"" and substitute ""[Human Tissue Act 2008][239]"".
 
 [Schedule 4][240]: repeal so much as relates to the Human Tissue Act 1964\.
 
+##### Health Sector (Transfers) Act 1993 (1993 No 23)
+
+[Schedule 4][241]: repeal so much as relates to the Human Tissue Act 1964\.
+
 ##### Human Rights Amendment Act 2001 (2001 No 96)
 
-[Sections 53][241] and [54][242] and heading above section 53: repeal.
+[Sections 53][242] and [54][243] and heading above section 53: repeal.
 
 ##### New Zealand Public Health and Disability Act 2000 (2000 No 91)
 
-[Section 55(1)(b)][243]: omit ""section 92A of the Health Act 1956"" and substitute ""section 55 of the Human Tissue Act 2008"".
+[Section 55(1)(b)][244]: omit ""section 92A of the Health Act 1956"" and substitute ""section 55 of the Human Tissue Act 2008"".
 
-[Section 55(1)(b)][243]: omit ""section 92H"" and substitute ""section 63"".
+[Section 55(1)(b)][244]: omit ""section 92H"" and substitute ""section 63"".
 
-[Section 55(3)][243]: omit ""Part 3A of the Health Act 1956"" and substitute ""section 55 of the Human Tissue Act 2008"".
+[Section 55(3)][244]: omit ""Part 3A of the Health Act 1956"" and substitute ""section 55 of the Human Tissue Act 2008"".
 
-[Section 65(4)(b)][244]: omit ""within the meaning of Part 3A of the Health Act 1956"" and substitute ""as defined in section 55 of the Human Tissue Act 2008"".
+[Section 65(4)(b)][245]: omit ""within the meaning of Part 3A of the Health Act 1956"" and substitute ""as defined in section 55 of the Human Tissue Act 2008"".
 
 ##### Relationships (Statutory References) Act 2005 (2005 No 3)
 
-[Schedule 1][245]: repeal so much as relates to the Human Tissue Act 1964\.
-
----
-
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][246].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][247] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
+[Schedule 1][246]: repeal so much as relates to the Human Tissue Act 1964\.
 
 ---
 
@@ -2445,23 +2399,23 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Human Tissue Act 2008\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Human Tissue Act 2008\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][248] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][247] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][249] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][248] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][250] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][249] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][251] and [17E][252] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][250] and [17E][251] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -2492,9 +2446,11 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Search and Surveillance Act 2012 (2012 No 24): [section 258][192]
+*   Search and Surveillance Act 2012 (2012 No 24): [section 258][193]
     
-    Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(3)][207]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][163]
+    
+    Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(3)][208]
     
     [Human Tissue Act 2008 Commencement Order 2008][142] (SR 2008/311)
 
@@ -2663,93 +2619,92 @@ Amendments, repeals, and miscellaneous provisions
 [160]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM377553
 [161]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307245
 [162]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM351208
-[163]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM126576
-[164]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM126527
-[165]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM127556
-[166]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM413272
-[167]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM413509
-[168]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM377574
-[169]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM350995
-[170]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM351213
-[171]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM351212
-[172]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307400
-[173]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307410
-[174]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307414
-[175]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307418
-[176]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307422
-[177]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307426
-[178]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307431
-[179]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307436
-[180]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM88261
-[181]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307440
-[182]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM308498
-[183]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM305839
-[184]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307444
-[185]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM254168
-[186]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM319397
-[187]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM2136770
-[188]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM2136781
-[189]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM2136813
-[190]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM2136815
-[191]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM319398
-[192]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM2137001
-[193]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM2136542
-[194]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM319399
-[195]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM2136860
-[196]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM319802
-[197]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM317669
-[198]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM319805
-[199]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM319240
-[200]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM296638
-[201]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM351209
-[202]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM304452
-[203]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM297408
-[204]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM434559
-[205]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM434563
-[206]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM435603
-[207]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM3231293
-[208]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM280561
-[209]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM281324
-[210]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM281581
-[211]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM333583
-[212]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM319807
-[213]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM31779
-[214]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM126167
-[215]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307957
-[216]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307959
-[217]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307962
-[218]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307965
-[219]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307967
-[220]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307973
-[221]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM195097
-[222]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307977
-[223]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM195549
-[224]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM195534
-[225]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307979
-[226]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM128740
-[227]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM128744
-[228]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM364171
-[229]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM364172
-[230]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM364176
-[231]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM364187
-[232]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM378333
-[233]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM297181
-[234]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM154861
-[235]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM306656
-[236]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM120924
-[237]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM203871
-[238]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM204310
-[239]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM205262
-[240]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM295712
-[241]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM122568
-[242]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM122538
-[243]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM81200
-[244]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM81235
-[245]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM334005
-[246]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM2136500
-[247]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM4686448
-[248]: http://www.pco.parliament.govt.nz/reprints/
-[249]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM195439
-[250]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[251]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM195468
-[252]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM195470
+[163]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM3360714
+[164]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM126576
+[165]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM126527
+[166]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM127556
+[167]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM413272
+[168]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM413509
+[169]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM377574
+[170]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM350995
+[171]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM351213
+[172]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM351212
+[173]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307400
+[174]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307410
+[175]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307414
+[176]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307418
+[177]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307422
+[178]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307426
+[179]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307431
+[180]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307436
+[181]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM88261
+[182]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307440
+[183]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM308498
+[184]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM305839
+[185]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307444
+[186]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM254168
+[187]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM319397
+[188]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM2136770
+[189]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM2136781
+[190]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM2136813
+[191]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM2136815
+[192]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM319398
+[193]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM2137001
+[194]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM2136542
+[195]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM319399
+[196]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM2136860
+[197]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM319802
+[198]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM317669
+[199]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM319805
+[200]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM319240
+[201]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM296638
+[202]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM351209
+[203]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM304452
+[204]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM297408
+[205]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM434559
+[206]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM434563
+[207]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM435603
+[208]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM3231293
+[209]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM280561
+[210]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM281324
+[211]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM281581
+[212]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM333583
+[213]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM319807
+[214]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM31779
+[215]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM126167
+[216]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307957
+[217]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307959
+[218]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307962
+[219]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307965
+[220]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307967
+[221]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307973
+[222]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM195097
+[223]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307977
+[224]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM195549
+[225]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM195534
+[226]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM307979
+[227]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM128740
+[228]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM128744
+[229]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM364171
+[230]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM364172
+[231]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM364176
+[232]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM364187
+[233]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM378333
+[234]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM297181
+[235]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM154861
+[236]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM306656
+[237]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM120924
+[238]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM203871
+[239]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM204310
+[240]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM205262
+[241]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM295712
+[242]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM122568
+[243]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM122538
+[244]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM81200
+[245]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM81235
+[246]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM334005
+[247]: http://www.pco.parliament.govt.nz/reprints/
+[248]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM195439
+[249]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[250]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM195468
+[251]: http://www.legislation.govt.nz/act/public/2008/0028/latest/link.aspx?id=DLM195470
