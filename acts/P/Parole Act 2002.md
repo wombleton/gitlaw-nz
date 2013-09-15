@@ -1,5 +1,5 @@
 Reprint  
-as at 5 March 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -762,7 +762,9 @@ Parole and other release from detention
 
 ##### 11 Application of Part to offenders detained in social welfare residence
     
-*   This Part applies to every offender detained under [section 142A][256] of the Criminal Justice Act 1985 in a residence approved for the purpose of that section as if the offender were detained in a prison, and a reference to an offender detained in a prison is a reference to an offender detained in such a residence.
+*   This Part applies to every offender detained under [section 34A][256] of the Corrections Act 2004 in a residence approved for the purpose of that section as if the offender were detained in a prison, and a reference to an offender detained in a prison is a reference to an offender detained in such a residence.
+    
+    Section 11: amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 11: amended, on 1 June 2005, by [section 206][237] of the Corrections Act 2004 (2004 No 50).
 
@@ -786,7 +788,7 @@ Parole and other release from detention
     
     (3) Despite subsection (1), the Board may, in exceptional circumstances, order that any information referred to in that subsection not be made available to an offender if, in the opinion of the relevant panel convenor, it would prejudice the mental or physical health of the offender, or endanger the safety of any person.
     
-    (4) Subsections (2) and (3) apply despite anything in the [Official Information Act 1982][257] or the [Privacy Act 1993][258].
+    (4) Subsections (2) and (3) apply despite anything in the [Official Information Act 1982][258] or the [Privacy Act 1993][259].
     
     (5) Information withheld under subsection (3) may be provided to the offender's counsel.
     
@@ -796,19 +798,21 @@ Parole and other release from detention
     
     (7) The Board must give a written copy of every order or determination to the offender who is the subject of the order or determination, along with information about how the offender may exercise any review or appeal rights that he or she has in relation to the order or determination.
     
-    (8) Any person who publishes information provided under this section in a form that identifies, or enables the identification of, a victim (as defined in [section 4][241] of the Victims' Rights Act 2002) commits an offence and is liable on summary conviction to,---
+    (8) Any person who publishes information provided under this section in a form that identifies, or enables the identification of, a victim (as defined in [section 4][241] of the Victims' Rights Act 2002) commits an offence and is liable on conviction to,---
         
     *   (a) in the case of an individual, a term of imprisonment not exceeding 3 months or a fine not exceeding $2,000; and
     
     *   (b) in the case of a body corporate, a fine not exceeding $10,000\.
     
-    Compare: 1985 No 120 [ss 106A][259], [107][260]
+    Compare: 1985 No 120 [ss 106A][260], [107][261]
     
     Section 13(2)(a): amended, on 17 December 2002, by [section 53][239] of the Victims' Rights Act 2002 (2002 No 39).
     
     Section 13(2)(b): amended, on 17 December 2002, by [section 53][239] of the Victims' Rights Act 2002 (2002 No 39).
     
-    Section 13(5A): inserted, on 1 October 2007, by [section 8][261] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 13(5A): inserted, on 1 October 2007, by [section 8][262] of the Parole Amendment Act 2007 (2007 No 28).
+    
+    Section 13(8): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 13(8): amended, on 17 December 2002, by [section 53][239] of the Victims' Rights Act 2002 (2002 No 39).
 
@@ -820,7 +824,7 @@ Parole and other release from detention
     
     (3) Every application under subsection (1) must be supported by an affidavit sworn by the applicant.
     
-    Section 13AA: inserted, on 1 October 2007, by [section 9][262] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 13AA: inserted, on 1 October 2007, by [section 9][263] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 13AB Making of confidentiality order
     
@@ -868,19 +872,21 @@ Parole and other release from detention
     
     (6) In this section and in [section 13AC][20], _current matter_, in relation to an offender, means a matter concerning the offender that is before the Board or is expected to come before the Board.
     
-    Section 13AB: inserted, on 1 October 2007, by [section 9][262] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 13AB: inserted, on 1 October 2007, by [section 9][263] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 13AC Effect of confidentiality order
     
-*   (1) A person commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, or to imprisonment for a term not exceeding 3 months, or to both, who intentionally contravenes a confidentiality order.
+*   (1) A person commits an offence, and is liable on conviction to a fine not exceeding $10,000, or to imprisonment for a term not exceeding 3 months, or to both, who intentionally contravenes a confidentiality order.
     
     (2) Despite any other enactment, the Board may hear a person whose identity may not be disclosed under a confidentiality order only if it is satisfied that procedures are in place to ensure that the hearing will not result in the disclosure of the person's identity to any person who is not, in terms of the order, permitted to have access to that information.
     
     (3) In any court proceeding that relates to the confidentiality order or to the related current matter, a person whose identity may not be disclosed under a confidentiality order has a privilege in information that discloses, or may lead to the disclosure of, the person's identity.
     
-    (4) This section has effect despite anything in [section 13][17] or [65][95], the [Official Information Act 1982][257], or the [Privacy Act 1993][258].
+    (4) This section has effect despite anything in [section 13][17] or [65][95], the [Official Information Act 1982][258], or the [Privacy Act 1993][259].
     
-    Section 13AC: inserted, on 1 October 2007, by [section 9][262] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 13AC: inserted, on 1 October 2007, by [section 9][263] of the Parole Amendment Act 2007 (2007 No 28).
+    
+    Section 13AC(1): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 13AD If confidentiality order not made
     
@@ -890,15 +896,15 @@ Parole and other release from detention
     
     *   (b) must not disclose to any person, or give any person access to, any matter relating to the application.
     
-    (2) This section has effect despite anything in [section 13][17] or [65][95], the [Official Information Act 1982][257], or the [Privacy Act 1993][258].
+    (2) This section has effect despite anything in [section 13][17] or [65][95], the [Official Information Act 1982][258], or the [Privacy Act 1993][259].
     
-    Section 13AD: inserted, on 1 October 2007, by [section 9][262] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 13AD: inserted, on 1 October 2007, by [section 9][263] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 13AE Variation or rescission of confidentiality order
     
 *   The chairperson or a panel convenor may, on the application of the person who applied for a confidentiality order or on the application of that person's successor in office, vary or rescind the order if satisfied that, because of a change in circumstances, the variation is necessary or, as the case requires, the order is no longer necessary.
     
-    Section 13AE: inserted, on 1 October 2007, by [section 9][262] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 13AE: inserted, on 1 October 2007, by [section 9][263] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 13A Procedure of Board during epidemic
     
@@ -920,7 +926,7 @@ Parole and other release from detention
     
     (4) If the notice applies to only stated parts of New Zealand, subsections (1) to (3) apply within those parts only.
     
-    Section 13A: inserted, on 19 December 2006, by [section 5][263] of the Parole Amendment Act 2006 (2006 No 88).
+    Section 13A: inserted, on 19 December 2006, by [section 5][264] of the Parole Amendment Act 2006 (2006 No 88).
 
 #### Conditions
 
@@ -950,11 +956,11 @@ Parole and other release from detention
     
     (3) In this section, _probation area_ means an area designated by the chief executive for the administration of release conditions, community-based sentences, sentences of home detention (including post-detention conditions), or orders.
     
-    Compare: 1985 No 120 [ss 107A][242], [107B][264]
+    Compare: 1985 No 120 [ss 107A][242], [107B][265]
     
-    Section 14(2): repealed, on 1 October 2007, by [section 10(1)][265] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 14(2): repealed, on 1 October 2007, by [section 10(1)][266] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 14(3): amended, on 1 October 2007, by [section 10(2)][265] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 14(3): amended, on 1 October 2007, by [section 10(2)][266] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 15 Special conditions
     
@@ -992,21 +998,21 @@ Parole and other release from detention
     
     (5) An offender does not breach his or her conditions for the purposes of [section 71][105] if he or she withdraws consent to taking prescription medication, but the failure to take the medication may give rise to a ground for recall set out in [section 61][91].
     
-    Compare: 1985 No 120 [ss 107C][266], [107D][267]
+    Compare: 1985 No 120 [ss 107C][267], [107D][268]
     
-    Section 15(1): amended, on 1 October 2007, by [section 11(1)][268] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 15(1): amended, on 1 October 2007, by [section 11(1)][269] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 15(3)(ab): inserted, on 1 October 2007, by [section 11(2)][268] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 15(3)(ab): inserted, on 1 October 2007, by [section 11(2)][269] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 15(3)(e): added, on 7 July 2004, by [section 5][269] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 15(3)(e): added, on 7 July 2004, by [section 5][270] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 15(3)(f): added, on 7 July 2004, by [section 5][269] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 15(3)(f): added, on 7 July 2004, by [section 5][270] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 ##### 15A Electronic monitoring
     
 *   (1) The purpose of an electronic monitoring condition imposed under [section 15(3)(f)][26] is to deter the offender from breaching conditions that relate to his or her whereabouts, and to monitor compliance with those conditions.
     
-    (2) For the purposes of the [Privacy Act 1993][258], information about an offender that is obtained through electronic monitoring may be used both for the purposes referred to in subsection (1) and for the following purposes:
+    (2) For the purposes of the [Privacy Act 1993][259], information about an offender that is obtained through electronic monitoring may be used both for the purposes referred to in subsection (1) and for the following purposes:
         
     *   (a) to verify compliance with any release conditions or conditions of an extended supervision order:
     
@@ -1034,15 +1040,15 @@ Parole and other release from detention
     
     *   (d) a description of processes and systems relating to electronic monitoring that were in place during the year reported on.
     
-    Section 15A: inserted, on 7 July 2004, by [section 6][270] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 15A: inserted, on 7 July 2004, by [section 6][271] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 15A(1): amended, on 1 October 2007, by [section 12(1)][271] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 15A(1): amended, on 1 October 2007, by [section 12(1)][272] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 15A(2)(a): amended, on 1 October 2007, by [section 12(2)][271] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 15A(2)(a): amended, on 1 October 2007, by [section 12(2)][272] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 15A(2)(d): added, on 1 October 2007, by [section 12(3)][271] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 15A(2)(d): added, on 1 October 2007, by [section 12(3)][272] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 15A(4)(c): substituted, on 1 October 2007, by [section 12(4)][271] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 15A(4)(c): substituted, on 1 October 2007, by [section 12(4)][272] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 16 Programmes
     
@@ -1076,15 +1082,15 @@ Parole and other release from detention
     
     (2) An offender who is detained in a prison on his or her statutory release date must be released from detention on that date.
     
-    (3) Subsection (2) is subject to [section 179A][272] of the Corrections Act 2004\.
+    (3) Subsection (2) is subject to [section 179A][273] of the Corrections Act 2004\.
     
-    Compare: 1985 No 120 [s 90][273]
+    Compare: 1985 No 120 [s 90][274]
     
-    Section 17(2): amended, on 1 October 2007, by [section 13][274] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 17(2): amended, on 1 October 2007, by [section 13][275] of the Parole Amendment Act 2007 (2007 No 28).
     
     Section 17(2): amended, on 1 June 2005, by [section 206][237] of the Corrections Act 2004 (2004 No 50).
     
-    Section 17(3): added, on 3 April 2009, by [section 36(2)][275] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 17(3): added, on 3 April 2009, by [section 36(2)][276] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 18 Conditions applying to release at statutory release date
     
@@ -1102,19 +1108,19 @@ Parole and other release from detention
     
     (3) If an offender who is subject to a long-term sentence is, while not on parole or compassionate release, sentenced within the year preceding his or her statutory release date to a short-term sentence whose release date is after that statutory release date, then, if the offender is released at the release date of the short-term sentence, that release date must be treated as if it were the release date of a long-term sentence.
     
-    (4) A prisoner to whom [section 179A][272] of the Corrections Act 2004 applies---
+    (4) A prisoner to whom [section 179A][273] of the Corrections Act 2004 applies---
         
     *   (a) is not, during the period between the statutory release date and the date of actual release, subject to any release conditions that will apply on or after his or her statutory release date; but
     
     *   (b) from the statutory release date the time begins to run on the prisoner's release conditions.
     
-    Compare: 1985 No 120 [s 99][276]
+    Compare: 1985 No 120 [s 99][277]
     
-    Section 18(2AA): inserted, on 1 October 2007, by [section 14][277] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 18(2AA): inserted, on 1 October 2007, by [section 14][278] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 18(2A): inserted, on 7 July 2004, by [section 7][278] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 18(2A): inserted, on 7 July 2004, by [section 7][279] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 18(4): added, on 3 April 2009, by [section 37][279] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 18(4): added, on 3 April 2009, by [section 37][280] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 19 Special provision for offenders sentenced to short-term sentences while on parole
     
@@ -1150,9 +1156,9 @@ Parole and other release from detention
     
     (2) The parole eligibility date of an offender who is subject only to 1 or more pre-cd sentences is the later of---
         
-    *   (a) his or her parole eligibility date as determined under [sections 89][280] and [92][281] of the Criminal Justice Act 1985; and
+    *   (a) his or her parole eligibility date as determined under [sections 89][281] and [92][282] of the Criminal Justice Act 1985; and
     
-    *   (b) if the offender does not have a parole eligibility date under those sections, his or her final release date as determined under [section 91][282] of the Criminal Justice Act 1985\.
+    *   (b) if the offender does not have a parole eligibility date under those sections, his or her final release date as determined under [section 91][283] of the Criminal Justice Act 1985\.
     
     (3) The parole eligibility date of an offender who is concurrently subject to both 1 or more pre-cd sentences and to 1 or more sentences imposed after the commencement date is the later of---
         
@@ -1162,27 +1168,27 @@ Parole and other release from detention
     
     (4) Despite anything in this section, an offender who is subject only to 1 or more short-term sentences does not have a parole eligibility date (unless the short-term sentences are cumulative and form a long-term notional single sentence, in which case subsection (1) applies to the notional single sentence and the offender will have a parole eligibility date under that subsection).
     
-    (5) If an offender is required, by an order under [section 86C(4)][283] or [86D(3)][284] of the Sentencing Act 2002, to serve a sentence without parole, the offender---
+    (5) If an offender is required, by an order under [section 86C(4)][284] or [86D(3)][285] of the Sentencing Act 2002, to serve a sentence without parole, the offender---
         
     *   (a) does not have a parole eligibility date in respect of the sentence; and
     
     *   (b) may not be released on parole in respect of that sentence.
     
-    (6) If an offender is required, by an order under [section 86E(2)][285] or [103(2A)][286] of the Sentencing Act 2002, to serve a sentence of imprisonment for life without parole, the offender may not be released on parole.
+    (6) If an offender is required, by an order under [section 86E(2)][286] or [103(2A)][287] of the Sentencing Act 2002, to serve a sentence of imprisonment for life without parole, the offender may not be released on parole.
     
-    (7) This subsection applies to an offender who is subject to a sentence (**sentence A**) in respect of which an order under [section 86C(4)][283] or [86D(3)][284] of the Sentencing Act 2002 has been made and who is also subject to 1 or more other sentences (**sentence B**) in respect of which no such order has been made.
+    (7) This subsection applies to an offender who is subject to a sentence (**sentence A**) in respect of which an order under [section 86C(4)][284] or [86D(3)][285] of the Sentencing Act 2002 has been made and who is also subject to 1 or more other sentences (**sentence B**) in respect of which no such order has been made.
     
     (8) For the purpose of determining the parole eligibility date (if any) of sentence B of an offender to whom subsection (7) applies, the full term of sentence A must be treated as the non-parole period of sentence A.
     
-    Compare: 1985 No 120 [s 92(7), (8), (9)][281]
+    Compare: 1985 No 120 [s 92(7), (8), (9)][282]
     
-    Section 20(5): added, on 1 June 2010, by [section 15][287] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 20(5): added, on 1 June 2010, by [section 15][288] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
     
-    Section 20(6): added, on 1 June 2010, by [section 15][287] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 20(6): added, on 1 June 2010, by [section 15][288] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
     
-    Section 20(7): added, on 1 June 2010, by [section 15][287] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 20(7): added, on 1 June 2010, by [section 15][288] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
     
-    Section 20(8): added, on 1 June 2010, by [section 15][287] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 20(8): added, on 1 June 2010, by [section 15][288] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
 
 ##### 21 Consideration for parole of offenders detained in prison
     
@@ -1198,7 +1204,7 @@ Parole and other release from detention
     
     (3) If subsection (2)(c) (but not subsection (2)(a)) applies to an offender, the Board must consider the offender for parole within 12 months of any final recall order that is, or is subsequently, made.
     
-    Compare: 1985 No 120 [ss 92][281], [97][288], [100][289]
+    Compare: 1985 No 120 [ss 92][282], [97][289], [100][290]
     
     Section 21 heading: amended, on 1 June 2005, by [section 206][237] of the Corrections Act 2004 (2004 No 50).
     
@@ -1214,7 +1220,7 @@ Parole and other release from detention
     
 *   An offender who is released on compassionate release may not be considered for parole by the Board.
     
-    Section 23: substituted, on 1 October 2007, by [section 15][290] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 23: substituted, on 1 October 2007, by [section 15][291] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 24 Consideration of offenders unlawfully at large when due to be considered for parole
     
@@ -1238,9 +1244,9 @@ Parole and other release from detention
     
     (5) Despite subsection (4), the Board may not consider under this section an offender who is subject to any of the following orders:
         
-    *   (a) an order made under [section 80][291] or [section 105][292] of the Criminal Justice Act 1985:
+    *   (a) an order made under [section 80][292] or [section 105][293] of the Criminal Justice Act 1985:
     
-    *   (b) an order made under [section 86][293], [section 89][294], or [section 103][286] of the Sentencing Act 2002:
+    *   (b) an order made under [section 86][294], [section 89][295], or [section 103][287] of the Sentencing Act 2002:
     
     *   (c) an order made under [section 107][155].
     
@@ -1252,7 +1258,7 @@ Parole and other release from detention
     
     (7) An offender released on parole under this section is to be treated for all purposes as an offender released on parole under [section 28(1)][43].
     
-    Compare: 1985 No 120 [ss 97(5)--(9)][288], [100(5)--(9)][289]
+    Compare: 1985 No 120 [ss 97(5)--(9)][289], [100(5)--(9)][290]
 
 ##### 26 Other times when Board may consider offenders for parole
     
@@ -1260,7 +1266,7 @@ Parole and other release from detention
     
     (2) An offender may, at any time, apply to the Board to exercise its discretion under subsection (1) to consider the offender for parole.
     
-    Compare: 1985 No 120 [ss 97(3)][288], [100(3)][289]
+    Compare: 1985 No 120 [ss 97(3)][289], [100(3)][290]
 
 ##### 27 Postponement of consideration for parole
     
@@ -1320,7 +1326,7 @@ Parole and other release from detention
     
     (5) If the notice applies to only stated parts of New Zealand, subsections (1) to (4) apply within those parts only.
     
-    Section 27A: inserted, on 19 December 2006, by [section 6][295] of the Parole Amendment Act 2006 (2006 No 88).
+    Section 27A: inserted, on 19 December 2006, by [section 6][296] of the Parole Amendment Act 2006 (2006 No 88).
 
 ##### 28 Direction for release on parole
     
@@ -1344,9 +1350,9 @@ Parole and other release from detention
     
     (5) The Board may revoke or amend any direction under this section at any time before the offender is released on parole, but, if it does so, the Board must hold another parole hearing as soon as practicable.
     
-    Compare: 1985 No 120 [ss 97(9), (10)][288], [100(9), (10)][289]
+    Compare: 1985 No 120 [ss 97(9), (10)][289], [100(9), (10)][290]
     
-    Section 28(1AA): inserted, on 1 October 2007, by [section 17][296] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 28(1AA): inserted, on 1 October 2007, by [section 17][297] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 29 Release conditions applying to parole
     
@@ -1370,7 +1376,7 @@ Parole and other release from detention
     
     (6) Special conditions imposed on an offender who is subject to 1 or more determinate sentences may not be in force for a longer period than the offender's standard release conditions.
     
-    Section 29: substituted, on 1 October 2007, by [section 18][297] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 29: substituted, on 1 October 2007, by [section 18][298] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 29A Release conditions for person to whom extended supervision order applies
     
@@ -1380,7 +1386,7 @@ Parole and other release from detention
     
     *   (b) direct that the release conditions imposed last until the offender's statutory release date.
     
-    Section 29A: inserted, on 1 October 2007, by [section 19][298] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 29A: inserted, on 1 October 2007, by [section 19][299] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 29B Board may monitor compliance with conditions
     
@@ -1420,7 +1426,7 @@ Parole and other release from detention
     
     *   (b) 6 months from the date of release, if the offender is released at the statutory release date.
     
-    Section 29B: inserted, on 1 October 2007, by [section 19][298] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 29B: inserted, on 1 October 2007, by [section 19][299] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 30 Release conditions applying to offenders detained in hospital or secure facility who are released on parole
     
@@ -1450,7 +1456,7 @@ Parole and other release from detention
     
     (2) The release conditions of an offender who is on parole are suspended during any period that the offender spends in custody under a court order (for instance, on remand) or an interim recall order, and time runs on the conditions during any period that they are suspended.
     
-    Compare: 1985 No 120 [s 107J(5)][299]
+    Compare: 1985 No 120 [s 107J(5)][300]
     
     Section 31(1)(b): amended, on 1 June 2005, by [section 206][237] of the Corrections Act 2004 (2004 No 50).
 
@@ -1462,13 +1468,13 @@ Parole and other release from detention
     
     *   (b) if the offender resumes detention in a prison under a final recall order.
     
-    Compare: 1985 No 120 [s 107L(8)][300]
+    Compare: 1985 No 120 [s 107L(8)][301]
     
     Section 32(b): amended, on 1 June 2005, by [section 206][237] of the Corrections Act 2004 (2004 No 50).
 
 #### Residential restrictions
     
-*   Heading: substituted, on 1 October 2007, by [section 20(1)][301] of the Parole Amendment Act 2007 (2007 No 28).
+*   Heading: substituted, on 1 October 2007, by [section 20(1)][302] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 33 Residential restrictions
     
@@ -1522,9 +1528,9 @@ Parole and other release from detention
     
     *   (f) for any other purpose specifically approved by the probation officer.
     
-    Section 33: substituted, on 1 October 2007, by [section 20(2)][301] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 33: substituted, on 1 October 2007, by [section 20(2)][302] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 33(2)(e): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][302] of the Policing Act 2008 (2008 No 72).
+    Section 33(2)(e): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][303] of the Policing Act 2008 (2008 No 72).
 
 ##### 34 Prior report on suitability of residential restrictions
     
@@ -1558,7 +1564,7 @@ Parole and other release from detention
     
     *   (b) in the case of any other residence, every person whom the probation officer identifies as being a relevant occupant for the purpose of subsection (3).
     
-    Section 34: substituted, on 1 October 2007, by [section 20(2)][301] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 34: substituted, on 1 October 2007, by [section 20(2)][302] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 35 Residential restrictions only to be imposed if residence suitable and occupants consent
     
@@ -1578,43 +1584,43 @@ Parole and other release from detention
     
     *   (c) the offender has been made aware of and understands the residential restrictions, and he or she agrees to comply with them.
     
-    Section 35: substituted, on 1 October 2007, by [section 20(2)][301] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 35: substituted, on 1 October 2007, by [section 20(2)][302] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 36 Detention conditions
     
 *   \[Repealed\]
     
-    Section 36: repealed, on 1 October 2007, by [section 20(2)][301] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 36: repealed, on 1 October 2007, by [section 20(2)][302] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 37 Expiry and revocation of direction for home detention
     
 *   \[Repealed\]
     
-    Section 37: repealed, on 1 October 2007, by [section 20(2)][301] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 37: repealed, on 1 October 2007, by [section 20(2)][302] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 38 Residential restrictions do not affect entitlements under Social Security Act 1964
     
-*   The fact that a person is subject to residential restrictions does not, of itself, affect any entitlement the person may have under the [Social Security Act 1964][303].
+*   The fact that a person is subject to residential restrictions does not, of itself, affect any entitlement the person may have under the [Social Security Act 1964][304].
     
-    Section 38: substituted, on 1 October 2007, by [section 21][304] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 38: substituted, on 1 October 2007, by [section 21][305] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 39 When detention conditions suspended or cancelled
     
 *   \[Repealed\]
     
-    Section 39: repealed, on 1 October 2007, by [section 21][304] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 39: repealed, on 1 October 2007, by [section 21][305] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 40 When home detention ends
     
 *   \[Repealed\]
     
-    Section 40: repealed, on 1 October 2007, by [section 21][304] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 40: repealed, on 1 October 2007, by [section 21][305] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 40A Applications for home detention during epidemic
     
 *   \[Repealed\]
     
-    Section 40A: repealed, on 1 October 2007, by [section 21][304] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 40A: repealed, on 1 October 2007, by [section 21][305] of the Parole Amendment Act 2007 (2007 No 28).
 
 #### Compassionate release
 
@@ -1660,9 +1666,9 @@ Parole and other release from detention
     
     *   (c) \[Repealed\]
     
-    Section 42(b): amended, on 1 October 2007, by [section 22][305] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 42(b): amended, on 1 October 2007, by [section 22][306] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 42(c): repealed, on 1 October 2007, by [section 22][305] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 42(c): repealed, on 1 October 2007, by [section 22][306] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 43 Start of process
     
@@ -1680,7 +1686,7 @@ Parole and other release from detention
     
     *   (ea) in the case of an offender currently detained in, or on leave from, a secure facility, a report from the compulsory care co-ordinator concerning the offender and the care and rehabilitation plan that has been, or is to be, put in place for the offender; and
     
-    *   (f) in the case of an offender currently detained in a social welfare residence (as described in [section 11][15]), a report from the chief executive of the department for the time being responsible for the administration of the [Children, Young Persons, and Their Families Act 1989][306].
+    *   (f) in the case of an offender currently detained in a social welfare residence (as described in [section 11][15]), a report from the chief executive of the department for the time being responsible for the administration of the [Children, Young Persons, and Their Families Act 1989][307].
     
     (2) The Board must take all reasonable steps to give notice to the following people that a hearing is pending:
         
@@ -1710,19 +1716,19 @@ Parole and other release from detention
     
     (6) For the purpose of providing the reports required under subsection (1)(e) and (f), the responsible clinician (or other health professional) referred to in subsection (1)(e), or the chief executive referred to in subsection (1)(f) (as the case may be), must, on request by the chief executive, supply a report on the relevant offender to the chief executive as required.
     
-    Compare: 1985 No 120 [s 106][307]
+    Compare: 1985 No 120 [s 106][308]
     
-    Section 43(1): amended, on 1 October 2007, by [section 23(1)][308] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 43(1): amended, on 1 October 2007, by [section 23(1)][309] of the Parole Amendment Act 2007 (2007 No 28).
     
     Section 43(1)(c): amended, on 1 June 2005, by [section 206][237] of the Corrections Act 2004 (2004 No 50).
     
-    Section 43(1)(d): repealed, on 1 October 2007, by [section 23(1)][308] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 43(1)(d): repealed, on 1 October 2007, by [section 23(1)][309] of the Parole Amendment Act 2007 (2007 No 28).
     
     Section 43(1)(ea): inserted, on 1 September 2004, by [section 51][238] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
     Section 43(2)(c): amended, on 1 June 2005, by [section 206][237] of the Corrections Act 2004 (2004 No 50).
     
-    Section 43(2)(d): repealed, on 1 October 2007, by [section 23(2)][308] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 43(2)(d): repealed, on 1 October 2007, by [section 23(2)][309] of the Parole Amendment Act 2007 (2007 No 28).
     
     Section 43(2)(e): amended, on 1 September 2004, by [section 51][238] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
@@ -1730,7 +1736,7 @@ Parole and other release from detention
 
 ##### 43A Consultation and disclosure necessary to provide reports
     
-*   To avoid doubt, if a person providing a report referred to in [section 43][309] considers that it is or may be necessary to do so in order to provide the report, he or she---
+*   To avoid doubt, if a person providing a report referred to in [section 43][310] considers that it is or may be necessary to do so in order to provide the report, he or she---
         
     *   (a) may consult with any other person (for example, with any victim (as defined in [section 4][241] of the Victims' Rights Act 2002)) who is or may be able to provide information relevant to the matters that the report must address (_relevant information_); and
     
@@ -1758,7 +1764,7 @@ Parole and other release from detention
     
     *   (e) a statement that the purpose of providing the victim with information about the offender is to assist the victim to make submissions, and that the information is not to be used for any other purpose.
     
-    Section 44(d): repealed, on 1 October 2007, by [section 24][310] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 44(d): repealed, on 1 October 2007, by [section 24][311] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 45 Decision on type of hearing
     
@@ -1804,7 +1810,7 @@ Parole and other release from detention
     
     *   (b) if the hearing is to be an attended one, notice of the date of the hearing and relevant information about the rights of people attending.
     
-    Section 45(7): substituted, on 1 October 2007, by [section 25][311] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 45(7): substituted, on 1 October 2007, by [section 25][312] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 46 Review of decision on type of hearing
     
@@ -1818,13 +1824,13 @@ Parole and other release from detention
     
     (5) If the hearing is to be an unattended hearing, the Board must notify the offender who sought the review.
     
-    Section 46(1): substituted, on 1 October 2007, by [section 26(1)][312] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 46(1): substituted, on 1 October 2007, by [section 26(1)][313] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 46(2): substituted, on 1 October 2007, by [section 26(1)][312] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 46(2): substituted, on 1 October 2007, by [section 26(1)][313] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 46(3): amended, on 1 October 2007, by [section 26(2)][312] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 46(3): amended, on 1 October 2007, by [section 26(2)][313] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 46(5): amended, on 1 October 2007, by [section 26(3)][312] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 46(5): amended, on 1 October 2007, by [section 26(3)][313] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 47 Interviews of offender before hearings
     
@@ -1834,7 +1840,7 @@ Parole and other release from detention
     
     (3) The offender may have a support person with him or her, and the support person may, with the consent of the offender and the permission of the member conducting the interview, speak in support of the offender.
     
-    Section 47: substituted, on 1 October 2007, by [section 27][313] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 47: substituted, on 1 October 2007, by [section 27][314] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 48 Unattended hearings
     
@@ -1888,7 +1894,7 @@ Parole and other release from detention
         
         
     
-    Compare: 1985 No 120 [ss 106A][259], [107][260]
+    Compare: 1985 No 120 [ss 106A][260], [107][261]
 
 ##### 50 Decisions must be notified
     
@@ -1902,13 +1908,13 @@ Parole and other release from detention
     
     (2) When advising a victim under this section of any release conditions applying to an offender, the Board may withhold advice of a particular condition if disclosing the condition would unduly interfere with the privacy of any other person (other than the offender).
     
-    Section 50(1)(a): amended, on 1 October 2007, by [section 28(1)][314] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 50(1)(a): amended, on 1 October 2007, by [section 28(1)][315] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 50(1)(b): amended, on 1 October 2007, by [section 28(2)][314] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 50(1)(b): amended, on 1 October 2007, by [section 28(2)][315] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 50(2): substituted, on 7 July 2004, by [section 21][315] Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 50(2): substituted, on 7 July 2004, by [section 21][316] Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 50(2): amended, on 1 October 2007, by [section 28(2)][314] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 50(2): amended, on 1 October 2007, by [section 28(2)][315] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 50A Submissions from, and interviews with, certain victims
     
@@ -1950,9 +1956,9 @@ Parole and other release from detention
     
     Section 50B: inserted, on 17 December 2002, by [section 53][239] of the Victims' Rights Act 2002 (2002 No 39).
     
-    Section 50B(2): substituted, on 7 July 2004, by [section 22][316] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 50B(2): substituted, on 7 July 2004, by [section 22][317] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 50B(2): amended, on 1 October 2007, by [section 29][317] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 50B(2): amended, on 1 October 2007, by [section 29][318] of the Parole Amendment Act 2007 (2007 No 28).
 
 #### Actual release
 
@@ -1968,7 +1974,7 @@ Parole and other release from detention
     
     Section 51(2): amended, on 1 June 2005, by [section 206][237] of the Corrections Act 2004 (2004 No 50).
     
-    Section 51(3): amended, on 1 October 2007, by [section 30][318] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 51(3): amended, on 1 October 2007, by [section 30][319] of the Parole Amendment Act 2007 (2007 No 28).
     
     Section 51(3): amended, on 1 June 2005, by [section 206][237] of the Corrections Act 2004 (2004 No 50).
 
@@ -1994,13 +2000,13 @@ Parole and other release from detention
     
     Compare: 1985 No 120 [s 94(1)(b), (3)][244]
     
-    Section 52(1): amended, on 1 October 2007, by [section 31][319] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 52(1): amended, on 1 October 2007, by [section 31][320] of the Parole Amendment Act 2007 (2007 No 28).
     
     Section 52(1): amended, on 1 June 2005, by [section 206][237] of the Corrections Act 2004 (2004 No 50).
     
     Section 52(3): amended, on 1 June 2005, by [section 206][237] of the Corrections Act 2004 (2004 No 50).
     
-    Section 52(3): amended, on 7 July 2004, by [section 23][320] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 52(3): amended, on 7 July 2004, by [section 23][321] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 ##### 53 Licence issued on release
     
@@ -2028,17 +2034,17 @@ Parole and other release from detention
     
     (4) If an offender's release conditions are varied or discharged, the offender must be given a new or amended licence that shows the conditions as varied or discharged.
     
-    Compare: 1985 No 120 [s 107F(1), (2)][321]
+    Compare: 1985 No 120 [s 107F(1), (2)][322]
     
-    Section 53(1): amended, on 1 October 2007, by [section 32(1)][322] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 53(1): amended, on 1 October 2007, by [section 32(1)][323] of the Parole Amendment Act 2007 (2007 No 28).
     
     Section 53(1): amended, on 1 June 2005, by [section 206][237] of the Corrections Act 2004 (2004 No 50).
     
-    Section 53(1)(a): amended, on 1 October 2007, by [section 32(2)][322] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 53(1)(a): amended, on 1 October 2007, by [section 32(2)][323] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 53(3): substituted, on 1 October 2007, by [section 32(3)][322] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 53(3): substituted, on 1 October 2007, by [section 32(3)][323] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 53(4): amended, on 1 October 2007, by [section 32(4)][322] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 53(4): amended, on 1 October 2007, by [section 32(4)][323] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 54 Police must be advised
     
@@ -2052,11 +2058,11 @@ Parole and other release from detention
     
     (2) Before an offender becomes subject to residential restrictions, the chief executive must advise the Police of the date on which the restrictions commence and the date on which they cease to apply.
     
-    Section 54: substituted, on 1 October 2007, by [section 33][323] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 54: substituted, on 1 October 2007, by [section 33][324] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 55 Offenders may be released early for deportation
     
-*   (1) The Minister of Immigration may, in the Minister's absolute discretion as defined in [section 11][324] of the Immigration Act 2009, give the manager of a prison a written notice ordering the release of an offender into the custody of a constable or immigration officer if subsections (3) to (7) apply to the offender.
+*   (1) The Minister of Immigration may, in the Minister's absolute discretion as defined in [section 11][325] of the Immigration Act 2009, give the manager of a prison a written notice ordering the release of an offender into the custody of a constable or immigration officer if subsections (3) to (7) apply to the offender.
     
     (2) The chief executive may give the manager of a prison a written notice ordering the release of an offender into the custody of a constable or immigration officer at a time within 28 days preceding the offender's statutory release date if subsections (3) to (6) apply to the offender. This subsection does not limit subsection (1).
     
@@ -2084,15 +2090,15 @@ Parole and other release from detention
     
     (5) The offender must be---
         
-    *   (a) liable for deportation under [section 154][325] of the Immigration Act 2009; or
+    *   (a) liable for deportation under [section 154][326] of the Immigration Act 2009; or
     
-    *   (b) the subject of a deportation order under [section 163][326] of the Immigration Act 2009; or
+    *   (b) the subject of a deportation order under [section 163][327] of the Immigration Act 2009; or
     
-    *   (c) the subject of a deportation liability notice under the [Immigration Act 2009][327]; or
+    *   (c) the subject of a deportation liability notice under the [Immigration Act 2009][328]; or
     
-    *   (d) the subject of a removal order under the [Immigration Act 1987][328]; or
+    *   (d) the subject of a removal order under the [Immigration Act 1987][329]; or
     
-    *   (e) the subject of a deportation order under the [Immigration Act 1987][328].
+    *   (e) the subject of a deportation order under the [Immigration Act 1987][329].
     
     (6) The offender must be described by one of the following:
         
@@ -2104,23 +2110,23 @@ Parole and other release from detention
     
     (7) The offender must not pose an undue risk to the safety of the community into which he or she is to be deported, as established to the Minister's satisfaction.
     
-    Section 55: substituted, at 2 am on 29 November 2010, by [section 406(1)][329] of the Immigration Act 2009 (2009 No 51).
+    Section 55: substituted, at 2 am on 29 November 2010, by [section 406(1)][330] of the Immigration Act 2009 (2009 No 51).
 
 ##### 55A Implementation of early release for deportation
     
 *   (1) A notice under [section 55(1) or (2)][80] is sufficient authority for the manager,---
         
-    *   (a) if requested by an immigration officer, to release the offender and deliver him or her into the custody of an immigration officer for detention under [section 312][330] of the Immigration Act 2009; or
+    *   (a) if requested by an immigration officer, to release the offender and deliver him or her into the custody of an immigration officer for detention under [section 312][331] of the Immigration Act 2009; or
     
-    *   (b) if requested by a constable, to release the offender and deliver him or her into the custody of a constable for arrest and detention under [section 313][331] of the Immigration Act 2009\.
+    *   (b) if requested by a constable, to release the offender and deliver him or her into the custody of a constable for arrest and detention under [section 313][332] of the Immigration Act 2009\.
     
-    (2) The offender must be returned to the custody of the manager if the circumstances in [section 336(1)][332] of the Immigration Act 2009 arise.
+    (2) The offender must be returned to the custody of the manager if the circumstances in [section 336(1)][333] of the Immigration Act 2009 arise.
     
     (3) The warrant by which an offender was originally committed to the prison is deemed to be still in force for the purpose of his or her return to custody under subsection (2). 
     
     (4) This section applies to an offender returned to custody under subsection (2) until he or she is finally deported.
     
-    Section 55A: inserted, at 2 am on 29 November 2010, by [section 406(1)][329] of the Immigration Act 2009 (2009 No 51).
+    Section 55A: inserted, at 2 am on 29 November 2010, by [section 406(1)][330] of the Immigration Act 2009 (2009 No 51).
 
 ##### 55B Offenders released early remain offenders under New Zealand law
     
@@ -2130,7 +2136,7 @@ Parole and other release from detention
     
     *   (b) he or she is liable to resume serving the sentence if he or she returns to New Zealand before the sentence expiry date.
     
-    Section 55B: inserted, at 2 am on 29 November 2010, by [section 406(1)][329] of the Immigration Act 2009 (2009 No 51).
+    Section 55B: inserted, at 2 am on 29 November 2010, by [section 406(1)][330] of the Immigration Act 2009 (2009 No 51).
 
 #### Variation and discharge of conditions
 
@@ -2144,19 +2150,19 @@ Parole and other release from detention
     
     (4) When a probation officer applies for the variation or discharge of a condition, the probation officer may suspend the condition until the application is determined.
     
-    Compare: 1985 No 120 [s 107G(1)--(3)][333]
+    Compare: 1985 No 120 [s 107G(1)--(3)][334]
     
-    Section 56(1): amended, on 1 October 2007, by [section 34(1)][334] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 56(1): amended, on 1 October 2007, by [section 34(1)][335] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 56(2): amended, on 1 October 2007, by [section 34(2)][334] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 56(2): amended, on 1 October 2007, by [section 34(2)][335] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 56A Application of section 56 during epidemic
     
 *   While an epidemic management notice is in force, a probation officer who has made an application to the Board under [section 56(2)][84] for the variation of a release condition imposed by the Board may himself or herself vary the condition; and the variation has effect until the application has been heard and disposed of.
     
-    Section 56A: inserted, on 19 December 2006, by [section 8][335] of the Parole Amendment Act 2006 (2006 No 88).
+    Section 56A: inserted, on 19 December 2006, by [section 8][336] of the Parole Amendment Act 2006 (2006 No 88).
     
-    Section 56A: amended, on 1 October 2007, by [section 35][336] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 56A: amended, on 1 October 2007, by [section 35][337] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 57 Procedure for determining applications
     
@@ -2170,9 +2176,9 @@ Parole and other release from detention
     
     *   (b) the Board wishes to hear from any person orally.
     
-    Compare: 1985 No 120 [s 107G(6), (7)][333]
+    Compare: 1985 No 120 [s 107G(6), (7)][334]
     
-    Section 57(2): amended, on 1 October 2007, by [section 36][337] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 57(2): amended, on 1 October 2007, by [section 36][338] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 58 Board determines application for variation or discharge
     
@@ -2194,11 +2200,11 @@ Parole and other release from detention
     
     *   (c) notice of the direction must be given to the offender, the probation officer involved, the Police, and (if reasonably practicable) any victim to whom notice of the original condition was given.
     
-    Compare: 1985 No 120 [s 107G(5), (9)][333]
+    Compare: 1985 No 120 [s 107G(5), (9)][334]
     
-    Section 58(1): amended, on 1 October 2007, by [section 37(1)][338] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 58(1): amended, on 1 October 2007, by [section 37(1)][339] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 58(2)(b): amended, on 1 October 2007, by [section 37(2)][338] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 58(2)(b): amended, on 1 October 2007, by [section 37(2)][339] of the Parole Amendment Act 2007 (2007 No 28).
     
     Section 58(3): amended, on 1 September 2004, by [section 51][238] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
 
@@ -2232,13 +2238,13 @@ Parole and other release from detention
     
     (4) When a recall application is made, the sentence to which the application relates ceases to run, except for the period (if any) between the lodgement of the application and the date of its determination during which the offender is under legal custody in accordance with the Corrections Act 2004\.
     
-    Compare: 1985 No 120 [s 107I(1)--(3), (7)--(9)][339]
+    Compare: 1985 No 120 [s 107I(1)--(3), (7)--(9)][340]
     
-    Section 60(2)(c): amended, on 1 October 2007, by [section 38(1)][340] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 60(2)(c): amended, on 1 October 2007, by [section 38(1)][341] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 60(2A): inserted, on 1 October 2007, by [section 38(2)][340] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 60(2A): inserted, on 1 October 2007, by [section 38(2)][341] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 60(4): substituted, on 1 October 2007, by [section 38(3)][340] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 60(4): substituted, on 1 October 2007, by [section 38(3)][341] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 61 Grounds for recall
     
@@ -2270,13 +2276,13 @@ Parole and other release from detention
         
         
     
-    Compare: 1985 No 120 [s 107I(6)][339]
+    Compare: 1985 No 120 [s 107I(6)][340]
     
-    Section 61(b): amended, on 1 October 2007, by [section 39(1)][341] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 61(b): amended, on 1 October 2007, by [section 39(1)][342] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 61(c): amended, on 1 October 2007, by [section 39(2)][341] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 61(c): amended, on 1 October 2007, by [section 39(2)][342] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 61(d): substituted, on 1 October 2007, by [section 39(3)][341] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 61(d): substituted, on 1 October 2007, by [section 39(3)][342] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 62 Making interim recall order
     
@@ -2296,9 +2302,9 @@ Parole and other release from detention
     
     (2) When deciding whether to make an interim recall order in respect of an offender who is currently detained, the chairperson or panel convenor (as the case may be) must make the decision as if the offender were not detained.
     
-    Compare: 1985 No 120 [s 107J(1)--(2A)][299]
+    Compare: 1985 No 120 [s 107J(1)--(2A)][300]
     
-    Section 62(1)(c): substituted, on 1 October 2007, by [section 40][342] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 62(1)(c): substituted, on 1 October 2007, by [section 40][343] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 63 What happens when interim recall order made
     
@@ -2316,13 +2322,13 @@ Parole and other release from detention
     
     (4) While an offender is subject to an interim recall order, he or she must be detained in custody.
     
-    Compare: 1985 No 120 [s 107J(3), (4)][299]
+    Compare: 1985 No 120 [s 107J(3), (4)][300]
     
     Section 63(1): amended, on 1 June 2005, by [section 206][237] of the Corrections Act 2004 (2004 No 50).
     
-    Section 63(1): amended, on 7 July 2004, by [section 24][343] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 63(1): amended, on 7 July 2004, by [section 24][344] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 63(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][302] of the Policing Act 2008 (2008 No 72).
+    Section 63(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][303] of the Policing Act 2008 (2008 No 72).
     
     Section 63(2): amended, on 1 June 2005, by [section 206][237] of the Corrections Act 2004 (2004 No 50).
 
@@ -2334,7 +2340,7 @@ Parole and other release from detention
     
     *   (b) a notice of the kind described in [section 63(3)][93].
     
-    Compare: 1985 No 120 [s 107K][344]
+    Compare: 1985 No 120 [s 107K][345]
 
 ##### 65 Procedure for determining recall applications
     
@@ -2356,9 +2362,9 @@ Parole and other release from detention
     
     (5) Despite subsections (1) and (2), the Board may from time to time adjourn the hearing of a recall application; but no adjournment may be for more than 8 days, unless the offender consents to a longer period.
     
-    Compare: 1985 No 120 [s 107L(1), (6), (10)][300]
+    Compare: 1985 No 120 [s 107L(1), (6), (10)][301]
     
-    Section 65(3): amended, on 1 October 2007, by [section 41][345] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 65(3): amended, on 1 October 2007, by [section 41][346] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 65A Application of section 65 during epidemic
     
@@ -2392,7 +2398,7 @@ Parole and other release from detention
     
     (7) If the notice applies to only stated parts of New Zealand, subsections (1) to (6) apply within those parts only.
     
-    Section 65A: inserted, on 19 December 2006, by [section 9][346] of the Parole Amendment Act 2006 (2006 No 88).
+    Section 65A: inserted, on 19 December 2006, by [section 9][347] of the Parole Amendment Act 2006 (2006 No 88).
 
 ##### 66 Board may make final recall order
     
@@ -2412,33 +2418,33 @@ Parole and other release from detention
     
     *   (c) the Board may vary or discharge any conditions imposed by the Board that apply to the offender, without the need for an application under [section 56][84].
     
-    Compare: 1985 No 120 [s 107L(2)--(4), (7)--(9)][300]
+    Compare: 1985 No 120 [s 107L(2)--(4), (7)--(9)][301]
     
     Section 66(1): amended, on 1 June 2005, by [section 206][237] of the Corrections Act 2004 (2004 No 50).
     
     Section 66(3): amended, on 1 June 2005, by [section 206][237] of the Corrections Act 2004 (2004 No 50).
     
-    Section 66(3): amended, on 7 July 2004, by [section 25(1)][347] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 66(3): amended, on 7 July 2004, by [section 25(1)][348] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 66(3A): inserted, on 7 July 2004, by [section 25(2)][347] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 66(3A): inserted, on 7 July 2004, by [section 25(2)][348] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 66(3A): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][302] of the Policing Act 2008 (2008 No 72).
+    Section 66(3A): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][303] of the Policing Act 2008 (2008 No 72).
     
     Section 66(3A): amended, on 1 June 2005, by [section 206][237] of the Corrections Act 2004 (2004 No 50).
     
-    Section 66(4)(b): amended, on 1 October 2007, by [section 42][348] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 66(4)(b): amended, on 1 October 2007, by [section 42][349] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 66A Protection of constables
     
-*   [Section 44][349] of the Policing Act 2008 applies to protect constables as if a warrant issued under [section 63(1)][93] or [section 66(3)][97] were a process issued out of a court.
+*   [Section 44][350] of the Policing Act 2008 applies to protect constables as if a warrant issued under [section 63(1)][93] or [section 66(3)][97] were a process issued out of a court.
     
-    Section 66A: inserted, on 7 July 2004, by [section 26][350] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 66A: inserted, on 7 July 2004, by [section 26][351] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 66A heading: amended, on 1 October 2008, pursuant to [section 116(a)(i)][302] of the Policing Act 2008 (2008 No 72).
+    Section 66A heading: amended, on 1 October 2008, pursuant to [section 116(a)(i)][303] of the Policing Act 2008 (2008 No 72).
     
-    Section 66A: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][302] of the Policing Act 2008 (2008 No 72).
+    Section 66A: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][303] of the Policing Act 2008 (2008 No 72).
     
-    Section 66A: amended, on 1 October 2008, by [section 130(1)][351] of the Policing Act 2008 (2008 No 72).
+    Section 66A: amended, on 1 October 2008, by [section 130(1)][352] of the Policing Act 2008 (2008 No 72).
 
 #### Reviews and appeals from decisions
 
@@ -2460,7 +2466,7 @@ Parole and other release from detention
             
         *   (i) an order made under that section; or
         
-        *   (ii) an order made under [section 105][292] of the Criminal Justice Act 1985 (as provided for in [section 97(8)][144]).
+        *   (ii) an order made under [section 105][293] of the Criminal Justice Act 1985 (as provided for in [section 97(8)][144]).
         
         
     
@@ -2490,9 +2496,9 @@ Parole and other release from detention
     
     *   (b) a decision of the Board taken following a reconsideration in accordance with a referral under subsection (5)(b) is the final decision of the Board.
     
-    Section 67(2)(aa): inserted, on 1 October 2007, by [section 43][352] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 67(2)(aa): inserted, on 1 October 2007, by [section 43][353] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 67(2)(aab): inserted, on 1 October 2007, by [section 43][352] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 67(2)(aab): inserted, on 1 October 2007, by [section 43][353] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 68 Appeal to High Court against postponement orders, section 107 orders, and final recall orders
     
@@ -2504,7 +2510,7 @@ Parole and other release from detention
     
     (4) In the case of an appeal against a final recall order, without limiting the matters that the court may consider in determining the appeal, the court must consider the need to protect the community, or any person or class of persons.
     
-    Compare: 1985 No 120 [s 107M(1), (3)][353]
+    Compare: 1985 No 120 [s 107M(1), (3)][354]
 
 ##### 69 Procedure on appeal against postponement orders, section 107 orders, and final recall orders
     
@@ -2514,13 +2520,23 @@ Parole and other release from detention
     
     (3) The Registrar of the High Court must, on receipt of the information from the Board, set down the appeal for hearing on the first practicable sitting day in the most convenient place where sittings of the High Court are held, and must notify the appellant and the Board accordingly.
     
-    (4) Subject to this section and, with any necessary modifications, [sections 119][354], [120][355], [123][356], [129][357], [130][358], [133][359], [134][360], [136][361], and [143][362] of the Summary Proceedings Act 1957 apply to an appeal under [section 68][101] as if the order appealed against were an order made by a District Court Judge.
+    (4) Subject to this section, [sections 323][355], [325][356], [326][357], [328][358], [334][359], [335][360], [337 to 342][361], [351][362], [379][363], and [382][364] of the Criminal Procedure Act 2011 apply to an appeal under [section 68][101] with the necessary modifications as if the order appealed against were an order made by a District Court Judge.
+    
+    (4A) Any Judge of the High Court may, on the application of the appellant or intending appellant,---
+        
+    *   (a) review a decision of a District Court to refuse to extend the time allowed for lodging an appeal under [section 68][101], and confirm the decision or reverse it and allow any extension of time that he or she thinks fit:
+    
+    *   (b) in any other case, extend any time allowed for lodging an appeal under [section 68][101].
     
     (5) On an appeal under [section 68][101], the court may receive in evidence anything that the Board could have received at first instance.
     
     (6) The court is not bound to allow the appeal on the ground merely of the improper admission or rejection of evidence unless, in the opinion of the court, a substantive wrong or miscarriage of justice occurred because of it.
     
-    Compare: 1985 No 120 [s 107M(2), (5), (6)][353]
+    Compare: 1985 No 120 [s 107M(2), (5), (6)][354]
+    
+    Section 69(4): replaced, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 69(4A): inserted, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 70 Powers of court on appeal
     
@@ -2556,31 +2572,33 @@ Parole and other release from detention
         
         
     
-    Compare: 1985 No 120 [s 107M(4), (8)][353]
+    Compare: 1985 No 120 [s 107M(4), (8)][354]
     
-    Section 70(2)(b)(ii): amended, on 1 October 2007, by [section 44][363] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 70(2)(b)(ii): amended, on 1 October 2007, by [section 44][365] of the Parole Amendment Act 2007 (2007 No 28).
 
 #### Offences
 
 ##### 71 Offence to breach conditions
     
-*   (1) Every offender commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $2,000, who breaches, without reasonable excuse, any standard release conditions or any special conditions imposed by the Board.
+*   (1) Every offender commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $2,000, who breaches, without reasonable excuse, any standard release conditions or any special conditions imposed by the Board.
     
     (2) The conviction and sentencing of an offender under this section does not limit the power to recall the offender from parole or compassionate release.
     
-    Compare: 1985 No 120 [s 107H(1), (3)][364]
+    Compare: 1985 No 120 [s 107H(1), (3)][366]
     
-    Section 71(1): amended, on 1 October 2007, by [section 45(1)][365] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 71(1): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 71(2): amended, on 1 October 2007, by [section 45(2)][365] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 71(1): amended, on 1 October 2007, by [section 45(1)][367] of the Parole Amendment Act 2007 (2007 No 28).
+    
+    Section 71(2): amended, on 1 October 2007, by [section 45(2)][367] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 72 Offence to refuse entry to residence specified under residential restrictions
     
 *   (1) This section applies to a residence (the _residence_) in which an offender is required to reside under residential restrictions.
     
-    (2) Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $5,000, who refuses or fails, without reasonable excuse, to allow a probation officer who has identified himself or herself to enter into the residence if the offender is required to be in the residence at the time that the probation officer seeks entry.
+    (2) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $5,000, who refuses or fails, without reasonable excuse, to allow a probation officer who has identified himself or herself to enter into the residence if the offender is required to be in the residence at the time that the probation officer seeks entry.
     
-    (3) Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $5,000, who refuses or fails, without reasonable excuse, to allow an authorised person to enter into the residence for the purpose of servicing or inspecting any equipment used in the electronic monitoring of the offender's compliance with the residential restrictions (whether or not the offender is required to be in the residence at that time).
+    (3) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $5,000, who refuses or fails, without reasonable excuse, to allow an authorised person to enter into the residence for the purpose of servicing or inspecting any equipment used in the electronic monitoring of the offender's compliance with the residential restrictions (whether or not the offender is required to be in the residence at that time).
     
     (4) For the purposes of subsection (3), an _authorised person_ is a person who---
         
@@ -2590,7 +2608,11 @@ Parole and other release from detention
     
     *   (c) is authorised in writing by a probation officer and has produced that written authority to an occupant of the residence.
     
-    Section 72: substituted, on 1 October 2007, by [section 46][366] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 72: substituted, on 1 October 2007, by [section 46][368] of the Parole Amendment Act 2007 (2007 No 28).
+    
+    Section 72(2): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 72(3): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Arrest of offenders
 
@@ -2600,15 +2622,15 @@ Parole and other release from detention
     
     (2) Any constable or any probation officer may arrest, without a warrant, an offender whom the constable or officer has reasonable grounds to believe has breached any of his or her release condition or conditions of an extended supervision order.
     
-    Compare: 1985 No 120 [s 107H(2)][364]
+    Compare: 1985 No 120 [s 107H(2)][366]
     
-    Section 73(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][302] of the Policing Act 2008 (2008 No 72).
+    Section 73(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][303] of the Policing Act 2008 (2008 No 72).
     
-    Section 73(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][302] of the Policing Act 2008 (2008 No 72).
+    Section 73(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][303] of the Policing Act 2008 (2008 No 72).
     
-    Section 73(2): amended, on 1 October 2007, by [section 47][367] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 73(2): amended, on 1 October 2007, by [section 47][369] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 73(2): amended, on 7 July 2004, by [section 9][368] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 73(2): amended, on 7 July 2004, by [section 9][370] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 ##### 73A Power to enter premises to arrest
     
@@ -2616,13 +2638,13 @@ Parole and other release from detention
     
     (2) If the constable who is executing the warrant is not in uniform, and the person in actual occupation of the premises asks the constable to produce evidence of his or her authority, the constable must produce the warrant or a badge or other evidence that he or she is a constable.
     
-    Compare: 1957 No 87 [s 22][369]
+    Compare: 1957 No 87 [s 22][371]
     
-    Section 73A: inserted, on 7 July 2004, by [section 27][370] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 73A: inserted, on 7 July 2004, by [section 27][372] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 73A(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][302] of the Policing Act 2008 (2008 No 72).
+    Section 73A(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][303] of the Policing Act 2008 (2008 No 72).
     
-    Section 73A(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][302] of the Policing Act 2008 (2008 No 72).
+    Section 73A(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][303] of the Policing Act 2008 (2008 No 72).
 
 #### Regulations
 
@@ -2642,9 +2664,9 @@ Parole and other release from detention
     
     *   (f) generally providing for any other matters that are contemplated by, or necessary for giving full effect to, this Part and [Part 1A][156], and their due administration.
     
-    Section 74(a): amended, on 7 July 2004, by [section 10(a)][371] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 74(a): amended, on 7 July 2004, by [section 10(a)][373] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 74(f): amended, on 7 July 2004, by [section 10(b)][371] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 74(f): amended, on 7 July 2004, by [section 10(b)][373] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 ### Subpart 3---Sentence calculation
 
@@ -2674,7 +2696,7 @@ Parole and other release from detention
     
     (2) The start date of a pre-cd sentence is the date, determined under [Part 4][225] of the Criminal Justice Act 1985, on which the sentence commences.
     
-    Compare: 1985 No 120 [s 78(1)][372]
+    Compare: 1985 No 120 [s 78(1)][374]
 
 ##### 77 Start date of notional single sentence
     
@@ -2682,9 +2704,9 @@ Parole and other release from detention
 
 ##### 78 Deferred start date
     
-*   If a court defers a start date under [section 100][373] of the Sentencing Act 2002, the start date of the sentence of imprisonment is the date on which the offender is taken into custody after the expiry of the period specified by the court.
+*   If a court defers a start date under [section 100][375] of the Sentencing Act 2002, the start date of the sentence of imprisonment is the date on which the offender is taken into custody after the expiry of the period specified by the court.
     
-    Compare: 1985 No 120 [s 78(3)][372]
+    Compare: 1985 No 120 [s 78(3)][374]
 
 ##### 79 Start date if later sentence replaces original sentence
     
@@ -2694,27 +2716,27 @@ Parole and other release from detention
     
     (3) In either situation referred to in subsection (1) or subsection (2), if the original sentence was directed to be served cumulatively on another sentence but the later sentence is not directed to be served cumulatively, then the start date of the later sentence is the start date that the original sentence would have had if it had not been directed to be served cumulatively.
     
-    Section 79: substituted, on 7 July 2004, by [section 28][374] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 79: substituted, on 7 July 2004, by [section 28][376] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 ##### 80 Start date after temporary surrender to New Zealand
     
-*   (1) This section applies if an offender is temporarily surrendered to New Zealand under the [Extradition Act 1999][375] and---
+*   (1) This section applies if an offender is temporarily surrendered to New Zealand under the [Extradition Act 1999][377] and---
         
     *   (a) is convicted and sentenced to a sentence of imprisonment; and
     
-    *   (b) is required to be returned in accordance with [section 66(2)][376] of the Extradition Act 1999 to the country from which the offender was surrendered on completion of the proceedings to which the extradition related.
+    *   (b) is required to be returned in accordance with [section 66(2)][378] of the Extradition Act 1999 to the country from which the offender was surrendered on completion of the proceedings to which the extradition related.
     
     (2) Unless the court otherwise directs, the start date of the sentence imposed is the date on which the person, having been returned to New Zealand, is taken into custody.
     
     (3) This section applies despite any other provision in this Act.
     
-    Compare: 1985 No 120 [s 78A][377]
+    Compare: 1985 No 120 [s 78A][379]
 
 ##### 81 Start date of sentence of imprisonment when term imposed
     
 *   If a person on whom a term of imprisonment is imposed for non-payment of a sum of money, disobedience of a court order, or contempt of court is not already detained under a sentence of imprisonment, then the start date of the sentence of imprisonment is the day on which the person is taken into custody to serve the term imposed.
     
-    Compare: 1985 No 120 [s 78(7)][372]
+    Compare: 1985 No 120 [s 78(7)][374]
 
 #### Sentence expiry dates
 
@@ -2736,15 +2758,15 @@ Parole and other release from detention
     
 *   (1) The non-parole period of a long-term determinate sentence is one-third of the length of the sentence, unless the sentence is one to which subsection (2) or subsection (4) applies.
     
-    (2) The non-parole period of a sentence in respect of which the court has imposed a minimum term of imprisonment (whether under [section 86][293], [section 86D(4)][284], [section 86E(4)][285], [section 89][294], or [section 103][286] of the Sentencing Act 2002) is the minimum term imposed.
+    (2) The non-parole period of a sentence in respect of which the court has imposed a minimum term of imprisonment (whether under [section 86][294], [section 86D(4)][285], [section 86E(4)][286], [section 89][295], or [section 103][287] of the Sentencing Act 2002) is the minimum term imposed.
     
     (3) The non-parole period of a sentence of imprisonment for life is 10 years, unless the court---
         
     *   (a) has imposed a minimum term of imprisonment in respect of that sentence; or
     
-    *   (b) has made an order under [section 86E(2)][285] or [103(2A)][286] of the Sentencing Act 2002 in respect of that sentence.
+    *   (b) has made an order under [section 86E(2)][286] or [103(2A)][287] of the Sentencing Act 2002 in respect of that sentence.
     
-    (3A) An offender who is subject to an order under [section 86E(2)][285] or [103(2A)][286] of the Sentencing Act 2002 is not eligible for parole in respect of the sentence to which the order relates, nor in respect of any other sentence to which he or she is subject when the order is imposed, nor in respect of any sentence subsequently imposed.
+    (3A) An offender who is subject to an order under [section 86E(2)][286] or [103(2A)][287] of the Sentencing Act 2002 is not eligible for parole in respect of the sentence to which the order relates, nor in respect of any other sentence to which he or she is subject when the order is imposed, nor in respect of any sentence subsequently imposed.
     
     (4) The non-parole period of a long-term notional single sentence is the total obtained by adding together all the non-parole periods of every sentence that makes up the notional single sentence.
     
@@ -2752,19 +2774,19 @@ Parole and other release from detention
         
     *   (a) every short-term sentence (being a sentence imposed after the commencement date) within the notional single sentence must be treated as if it had a non-parole period of one-third of its length; and
     
-    *   (ab) every sentence in respect of which an order under [section 86C(4)][283] or [86D(3)][284] of the Sentencing Act 2002 has been made must be treated as if the full term of the sentence were the non-parole period of the sentence; and
+    *   (ab) every sentence in respect of which an order under [section 86C(4)][284] or [86D(3)][285] of the Sentencing Act 2002 has been made must be treated as if the full term of the sentence were the non-parole period of the sentence; and
     
-    *   (b) every long-term pre-cd sentence under which the offender is eligible for parole must be treated as if it had a non-parole period of the period represented by the time between the commencement of the sentence and the close of the date on which the offender is eligible to be released on parole from that sentence under [section 89][280] of the Criminal Justice Act 1985; and
+    *   (b) every long-term pre-cd sentence under which the offender is eligible for parole must be treated as if it had a non-parole period of the period represented by the time between the commencement of the sentence and the close of the date on which the offender is eligible to be released on parole from that sentence under [section 89][281] of the Criminal Justice Act 1985; and
     
-    *   (c) every pre-cd sentence under which the offender is not eligible for parole (including every short-term pre-cd sentence) must be treated as if it had a non-parole period of the period represented by the time between the commencement date of the sentence and the close of the date on which the offender must be released from that sentence (the sentence's final release date) under [section 90][273] of the Criminal Justice Act 1985\.
+    *   (c) every pre-cd sentence under which the offender is not eligible for parole (including every short-term pre-cd sentence) must be treated as if it had a non-parole period of the period represented by the time between the commencement date of the sentence and the close of the date on which the offender must be released from that sentence (the sentence's final release date) under [section 90][274] of the Criminal Justice Act 1985\.
     
-    Section 84(2): amended, on 1 June 2010, by [section 16(1)][378] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 84(2): amended, on 1 June 2010, by [section 16(1)][380] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
     
-    Section 84(3): substituted, on 1 June 2010, by [section 16(2)][378] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 84(3): substituted, on 1 June 2010, by [section 16(2)][380] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
     
-    Section 84(3A): inserted, on 1 June 2010, by [section 16(2)][378] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 84(3A): inserted, on 1 June 2010, by [section 16(2)][380] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
     
-    Section 84(5)(ab): inserted, on 1 June 2010, by [section 16(3)][378] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 84(5)(ab): inserted, on 1 June 2010, by [section 16(3)][380] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
 
 ##### 85 Pre-cd sentences do not have non-parole periods
     
@@ -2776,21 +2798,21 @@ Parole and other release from detention
     
 *   (1) The release date of a short-term sentence (including a short-term notional single sentence) is the date on which the offender who is subject to the sentence has served half of it.
     
-    (1A) Subsection (1) does not apply to a short-term sentence in respect of which an order has been made under [section 86C(4)(b)][283] of the Sentencing Act 2002, and the release date of such a sentence is its sentence expiry date.
+    (1A) Subsection (1) does not apply to a short-term sentence in respect of which an order has been made under [section 86C(4)(b)][284] of the Sentencing Act 2002, and the release date of such a sentence is its sentence expiry date.
     
     (2) The release date of a long-term determinate sentence (including a long-term notional single sentence) is its sentence expiry date.
     
     (3) An indeterminate sentence has no release date.
     
-    Section 86(1A): inserted, on 1 June 2010, by [section 17(1)][379] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 86(1A): inserted, on 1 June 2010, by [section 17(1)][381] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
 
 ##### 87 Release date of pre-cd sentence
     
-*   (1) The release date of a short-term pre-cd sentence is the final release date of the sentence, as determined under [section 91][282] of the Criminal Justice Act 1985\.
+*   (1) The release date of a short-term pre-cd sentence is the final release date of the sentence, as determined under [section 91][283] of the Criminal Justice Act 1985\.
     
     (2) The release date of a long-term determinate pre-cd sentence is the date that is 3 months before its sentence expiry date.
     
-    (3) Despite subsection (2), the release date of a long-term determinate pre-cd sentence that was imposed before the commencement of the [Criminal Justice Amendment Act 1993][380] (which was 1 September 1993) is the final release date of the sentence, as determined under [section 91][282] of the Criminal Justice Act 1985\.
+    (3) Despite subsection (2), the release date of a long-term determinate pre-cd sentence that was imposed before the commencement of the [Criminal Justice Amendment Act 1993][382] (which was 1 September 1993) is the final release date of the sentence, as determined under [section 91][283] of the Criminal Justice Act 1985\.
     
     (4) An indeterminate pre-cd sentence has no release date.
 
@@ -2798,13 +2820,13 @@ Parole and other release from detention
 
 ##### 88 Chief executive must determine key dates, etc
     
-*   (1) The chief executive must ensure that the key dates and non-parole period of every sentence to which an offender is subject, and the offender's parole eligibility date and statutory release date (if any), are determined in accordance with this Part and any regulations made under this Act, or with [Parts 4][225] and [6][226] of the Criminal Justice Act 1985 and the [Criminal Justice Regulations 1985][381], as the case requires.
+*   (1) The chief executive must ensure that the key dates and non-parole period of every sentence to which an offender is subject, and the offender's parole eligibility date and statutory release date (if any), are determined in accordance with this Part and any regulations made under this Act, or with [Parts 4][225] and [6][226] of the Criminal Justice Act 1985 and the [Criminal Justice Regulations 1985][383], as the case requires.
     
     (2) Despite subsection (1), the non-parole period and release date of every sentence imposed on an offender need not be determined if the offender's parole eligibility date and statutory release date (if any) may be correctly calculated without determining all the non-parole periods and release dates.
     
     (3) A determination under this section may be revised at any time.
     
-    Compare: 1985 No 120 [s 91][282]
+    Compare: 1985 No 120 [s 91][283]
 
 #### Determining how much time has been served
 
@@ -2826,7 +2848,7 @@ Parole and other release from detention
     
     (3) When an offender is subject to 2 or more cumulative sentences that make a notional single sentence, any pre-sentence detention that relates to the cumulative sentences may be deducted only once from the single notional sentence.
     
-    Compare: 1985 No 120 [ss 81(7), (9)][382], [81A(5)][383], [81B(5)][384]
+    Compare: 1985 No 120 [ss 81(7), (9)][384], [81A(5)][385], [81B(5)][386]
 
 ##### 91 Meaning of pre-sentence detention
     
@@ -2838,15 +2860,21 @@ Parole and other release from detention
     
     *   (c) any charge that the person faced at any time between his or her arrest and before conviction.
     
-    (2) The types of detention that are pre-sentence detention are detention under an order made under [section 24(2)][385] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 and detention on remand pursuant to a court order---
+    (2) The types of detention that are pre-sentence detention are detention under an order made under [section 24(2)][387] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 and detention on remand pursuant to a court order---
         
-    *   (a) in a prison (or in a Police station in accordance with [section 35][386] of the Corrections Act 2004):
+    *   (a) in a prison (or in a Police station in accordance with [section 35][388] of the Corrections Act 2004):
     
-    *   (b) in a residence established under [section 364][387] of the Children, Young Persons, and Their Families Act 1989, or detention in Police custody under [section 238(1)(e)][388] of that Act:
+    *   (b) in a residence established under [section 364][389] of the Children, Young Persons, and Their Families Act 1989, or detention in Police custody under [section 238(1)(e)][390] of that Act:
     
-    *   (c) in a hospital or secure facility under any of [sections 23][389], [35][390], [38(2)][391], and [44(1)][392] of the Criminal Procedure (Mentally Impaired Persons) Act 2003:
+    *   (c) in a hospital or secure facility under any of [sections 23][391], [35][392], [38(2)][393], and [44(1)][394] of the Criminal Procedure (Mentally Impaired Persons) Act 2003:
     
-    *   (d) in a hospital or secure facility pursuant to an order under [section 171(2)][393] of the Summary Proceedings Act 1957:
+    *   (d) in a hospital or secure facility pursuant to an order under---
+            
+        *   (i) [section 171(2)][395] or [184T(3) or (4)][396] of the Summary Proceedings Act 1957; or
+        
+        *   (ii) [section 169][397] of the Criminal Procedure Act 2011:
+        
+        
     
     *   (e) in a hospital following an application under [section 45(2)][248] of the Mental Health (Compulsory Assessment and Treatment) Act 1992:
     
@@ -2854,11 +2882,11 @@ Parole and other release from detention
     
     *   (f) in a hospital under [section 46][249] of the Mental Health (Compulsory Assessment and Treatment) Act 1992\.
     
-    (3) In the case of an extradition offender (as defined in [section 93][138]), _pre-sentence detention_ includes detention in custody overseas in relation to a request for extradition, as recorded on a certificate obtained under [section 62][394] of the Extradition Act 1999 (including any substitute certificate obtained under that section).
+    (3) In the case of an extradition offender (as defined in [section 93][138]), _pre-sentence detention_ includes detention in custody overseas in relation to a request for extradition, as recorded on a certificate obtained under [section 62][398] of the Extradition Act 1999 (including any substitute certificate obtained under that section).
     
-    (4) In the case of an ICC offender (as defined in [section 93][138]), _pre-sentence detention_ includes detention in custody overseas, as recorded on a certificate obtained under [section 99][395] of the International Crimes and International Criminal Court Act 2000 (including any substitute certificate obtained under that section).
+    (4) In the case of an ICC offender (as defined in [section 93][138]), _pre-sentence detention_ includes detention in custody overseas, as recorded on a certificate obtained under [section 99][399] of the International Crimes and International Criminal Court Act 2000 (including any substitute certificate obtained under that section).
     
-    (4A) In the case of a MACM offender (as defined in [section 93][138]), _pre-sentence detention_ includes detention in custody overseas, as recorded on a certificate obtained under [section 41B][396] of the Mutual Assistance in Criminal Matters Act 1992 (including any substitute certificate obtained under that section).
+    (4A) In the case of a MACM offender (as defined in [section 93][138]), _pre-sentence detention_ includes detention in custody overseas, as recorded on a certificate obtained under [section 41B][400] of the Mutual Assistance in Criminal Matters Act 1992 (including any substitute certificate obtained under that section).
     
     (5) Detention that would, under subsection (2) or subsection (3), be pre-sentence detention, is not pre-sentence detention for the purposes of subsection (1) if the offender was, during that detention,---
         
@@ -2870,9 +2898,9 @@ Parole and other release from detention
         
     *   (a) a final recall order is made following that application; and
     
-    *   (b) the offender was not, immediately before the application for the recall order was made, subject to conditions related to the offender's home detention under a direction of the Board given before the commencement of [section 72][397] of the Parole Amendment Act 2007 or in accordance with that section, whether those conditions were suspended or not.
+    *   (b) the offender was not, immediately before the application for the recall order was made, subject to conditions related to the offender's home detention under a direction of the Board given before the commencement of [section 72][401] of the Parole Amendment Act 2007 or in accordance with that section, whether those conditions were suspended or not.
     
-    Compare: 1985 No 120 [ss 81(1), (8)][382], [81A][383], [81B][384]
+    Compare: 1985 No 120 [ss 81(1), (8)][384], [81A][385], [81B][386]
     
     Section 91(2): amended, on 1 September 2004, by [section 51][238] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
@@ -2880,15 +2908,15 @@ Parole and other release from detention
     
     Section 91(2)(c): substituted, on 1 September 2004, by [section 51][238] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 91(2)(d): amended, on 1 September 2004, by [section 51][238] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 91(2)(d): replaced, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 91(2)(ea): inserted, on 1 September 2004, by [section 51][238] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 91(4A): inserted, on 30 June 2002, by [section 18(1)][398] of the Mutual Assistance in Criminal Matters Amendment Act 2002 (2002 No 23).
+    Section 91(4A): inserted, on 30 June 2002, by [section 18(1)][402] of the Mutual Assistance in Criminal Matters Amendment Act 2002 (2002 No 23).
     
-    Section 91(5)(a): substituted, on 1 October 2007, by [section 50(1)][399] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 91(5)(a): substituted, on 1 October 2007, by [section 50(1)][403] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 91(6): substituted, on 1 October 2007, by [section 50(2)][399] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 91(6): substituted, on 1 October 2007, by [section 50(2)][403] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 92 Procedure for recording length of pre-sentence detention
     
@@ -2906,45 +2934,47 @@ Parole and other release from detention
     
     *   (b) the manner in which the record is amended.
     
-    (4) If the offender is dissatisfied with the outcome of the review, he or she may appeal the review to the court that imposed the sentence, in which case [Part 4][400] of the Summary Proceedings Act 1957, or (as the case may require) [Part 13][401] of the Crimes Act 1961, applies so far as it is applicable and with any necessary modifications, to the appeal.
+    (4) If the offender is dissatisfied with the outcome of the review, he or she may appeal the review to the court that imposed the sentence, in which case [subpart 4][404] of Part 6 of the Criminal Procedure Act 2011 applies so far as it is applicable and with any necessary modifications, to the appeal.
     
     (5) An extradition offender or an ICC offender or a MACM offender (as defined in [section 93][138]) may exercise the rights in this section to review and appeal a record of pre-sentence detention (as recorded on their relevant certificates) in the same way as any other offender may seek a review and appeal against a determination of the record of pre-sentence detention.
     
-    Compare: 1985 No 120 [s 81(1), (4)--(6)][382], [81A(3), (4), (9), (10)][383], [81B(3), (4), (8)--(10)][384]
+    Compare: 1985 No 120 [s 81(1), (4)--(6)][384], [81A(3), (4), (9), (10)][385], [81B(3), (4), (8)--(10)][386]
     
     Section 92(1): amended, on 1 June 2005, by [section 206][237] of the Corrections Act 2004 (2004 No 50).
     
     Section 92(1): amended, on 1 September 2004, by [section 51][238] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 92(5): amended, on 30 June 2002, by [section 18(2)][398] of the Mutual Assistance in Criminal Matters Amendment Act 2002 (2002 No 23).
+    Section 92(4): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 92(5): amended, on 30 June 2002, by [section 18(2)][402] of the Mutual Assistance in Criminal Matters Amendment Act 2002 (2002 No 23).
 
 ##### 93 Definition of extradition offender and ICC offender and MACM offender
     
 *   (1) An offender is an _extradition offender_ for the purpose of [sections 91][136] and [92][137] if---
         
-    *   (a) the offender was convicted following his or her extradition to New Zealand of the offence to which the extradition related, or of any other offence for which he or she could be tried in New Zealand in accordance with [section 64][402] of the Extradition Act 1999 as a result of that extradition; and
+    *   (a) the offender was convicted following his or her extradition to New Zealand of the offence to which the extradition related, or of any other offence for which he or she could be tried in New Zealand in accordance with [section 64][405] of the Extradition Act 1999 as a result of that extradition; and
     
     *   (b) the offender was detained in custody in the country from where the offender was extradited in relation to the request for extradition; and
     
-    *   (c) a certificate under [section 62][394] of the Extradition Act 1999 was obtained showing the total period during which the offender was held in custody in relation to the request for extradition.
+    *   (c) a certificate under [section 62][398] of the Extradition Act 1999 was obtained showing the total period during which the offender was held in custody in relation to the request for extradition.
     
     (2) An offender is an _ICC offender_ if---
         
-    *   (a) [section 98(1)][403] of the International Crimes and International Criminal Court Act 2000 applies to the offender; and
+    *   (a) [section 98(1)][406] of the International Crimes and International Criminal Court Act 2000 applies to the offender; and
     
-    *   (b) a certificate was obtained under [section 99][395] of the International Crimes and International Criminal Court Act 2000 showing the total period during which the offender was held in custody overseas in relation to a request by the ICC before the imposition of sentence in New Zealand.
+    *   (b) a certificate was obtained under [section 99][399] of the International Crimes and International Criminal Court Act 2000 showing the total period during which the offender was held in custody overseas in relation to a request by the ICC before the imposition of sentence in New Zealand.
     
     (3) An offender is a _MACM offender_ if---
         
-    *   (a) [section 41A][404] of the Mutual Assistance in Criminal Matters Act 1992 applies to the offender; and
+    *   (a) [section 41A][407] of the Mutual Assistance in Criminal Matters Act 1992 applies to the offender; and
     
-    *   (b) a certificate was obtained under [section 41B][396] of the Mutual Assistance in Criminal Matters Act 1992 showing the total period during which the offender was held in custody overseas in relation to a request by a foreign country before the imposition of sentence in New Zealand.
+    *   (b) a certificate was obtained under [section 41B][400] of the Mutual Assistance in Criminal Matters Act 1992 showing the total period during which the offender was held in custody overseas in relation to a request by a foreign country before the imposition of sentence in New Zealand.
     
-    Compare: 1985 No 120 [ss 81A(1)][383], [81B(1)][384]
+    Compare: 1985 No 120 [ss 81A(1)][385], [81B(1)][386]
     
-    Section 93 heading: amended, on 30 June 2002, by [section 18(3)][398] of the Mutual Assistance in Criminal Matters Amendment Act 2002 (2002 No 23).
+    Section 93 heading: amended, on 30 June 2002, by [section 18(3)][402] of the Mutual Assistance in Criminal Matters Amendment Act 2002 (2002 No 23).
     
-    Section 93(3): added, on 30 June 2002, by [section 18(4)][398] of the Mutual Assistance in Criminal Matters Amendment Act 2002 (2002 No 23).
+    Section 93(3): added, on 30 June 2002, by [section 18(4)][402] of the Mutual Assistance in Criminal Matters Amendment Act 2002 (2002 No 23).
 
 ##### 94 Time ceases to run in certain circumstances
     
@@ -2956,15 +2986,15 @@ Parole and other release from detention
     
     *   (c) \[Repealed\]
     
-    Compare: 1985 No 120 [ss 94(7)][244], [107I(8), (9)][339]
+    Compare: 1985 No 120 [ss 94(7)][244], [107I(8), (9)][340]
     
     Section 94(a): amended, on 1 June 2005, by [section 206][237] of the Corrections Act 2004 (2004 No 50).
     
-    Section 94(b): amended, on 1 October 2007, by [section 51(1)][405] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 94(b): amended, on 1 October 2007, by [section 51(1)][408] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 94(b): amended, on 1 October 2007, by [section 51(2)][405] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 94(b): amended, on 1 October 2007, by [section 51(2)][408] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 94(c): repealed, on 1 October 2007, by [section 51(3)][405] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 94(c): repealed, on 1 October 2007, by [section 51(3)][408] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 95 Time on bail pending appeal does not count as time served
     
@@ -2986,7 +3016,7 @@ Parole and other release from detention
     
     (3) However, this section is subject to [section 90][135] (which means that if the offender is remanded in custody during the period described in subsection (2), that period of pre-sentence detention counts as time served under the subsequent sentence).
     
-    Compare: 1985 No 120 [s 78(6)][372]
+    Compare: 1985 No 120 [s 78(6)][374]
 
 ### Subpart 4---Transitional arrangements for offenders subject to pre-cd sentences
 
@@ -2998,29 +3028,29 @@ Parole and other release from detention
         
     *   (a) an offender who was released on parole or at his or her final release date is deemed to be on parole under [section 28][43], and any conditions to which the offender is subject are deemed to be release conditions imposed by the Board; and
     
-    *   (b) an offender who was released to home detention is deemed to be on home detention under [section 35][53] (as in force before the commencement of [section 72][397] of the Parole Amendment Act 2007), and any conditions to which the offender is subject are deemed to be detention conditions imposed by the Board; and
+    *   (b) an offender who was released to home detention is deemed to be on home detention under [section 35][53] (as in force before the commencement of [section 72][401] of the Parole Amendment Act 2007), and any conditions to which the offender is subject are deemed to be detention conditions imposed by the Board; and
     
     *   (c) an offender who was released under a direction by the Minister of Corrections under [section 94][244] of the Criminal Justice Act 1985 is deemed to have been released on compassionate release under [section 41][61], and any conditions to which the offender is subject are deemed to be release conditions imposed by the Board; and
     
-    *   (d) an offender who was directed to be released under the [Criminal Justice Act 1985][406] before the commencement date, but who (although the direction had not been revoked) had not in fact been released by that date, must be released under the Criminal Justice Act 1985 in accordance with the direction but, once the offender is released, paragraphs (a), (b), and (c) apply as if the offender had been released before the commencement date.
+    *   (d) an offender who was directed to be released under the [Criminal Justice Act 1985][409] before the commencement date, but who (although the direction had not been revoked) had not in fact been released by that date, must be released under the Criminal Justice Act 1985 in accordance with the direction but, once the offender is released, paragraphs (a), (b), and (c) apply as if the offender had been released before the commencement date.
     
-    (2) If, before the commencement date, an offender is referred under [section 97(5) or (6)][288] of the Criminal Justice Act 1985 to the Board for consideration but the Board has not made a decision then, after the commencement date, the offender must be brought to the attention of the chairperson for consideration for referral to the Board under [section 25][39] of this Act.
+    (2) If, before the commencement date, an offender is referred under [section 97(5) or (6)][289] of the Criminal Justice Act 1985 to the Board for consideration but the Board has not made a decision then, after the commencement date, the offender must be brought to the attention of the chairperson for consideration for referral to the Board under [section 25][39] of this Act.
     
     (3) If, before the commencement date, an offender is being considered by the Minister of Corrections for early release under [section 94][244] of the Criminal Justice Act 1985 but the Minister has not made a decision, then, after the commencement date, the offender must be brought to the attention of the chairperson for consideration for referral to the Board under [section 41][61] of this Act.
     
     (4) If an offender referred to in subsection (3) was being considered by the Minister of Corrections on the ground referred to in [section 94(1)(c)][244] of the Criminal Justice Act 1985, the chairperson may refer the offender, and the Board may release him or her under [section 41][61] of this Act, as if he or she were eligible to be considered under that section.
     
-    (5) A properly made application for a recall order that is made under the [Criminal Justice Act 1985][406] before the commencement date must, after the commencement date, be treated as if it were a properly made recall application under [section 60][90] of this Act, and [sections 65][95] and [66][97] apply accordingly.
+    (5) A properly made application for a recall order that is made under the [Criminal Justice Act 1985][409] before the commencement date must, after the commencement date, be treated as if it were a properly made recall application under [section 60][90] of this Act, and [sections 65][95] and [66][97] apply accordingly.
     
-    (6) A properly made interim recall order that is made under the [Criminal Justice Act 1985][406] before the commencement date must, after the commencement date, be treated as if it were a properly made interim recall order made under [section 62][92] of this Act, and [sections 63 to 66][93] apply accordingly.
+    (6) A properly made interim recall order that is made under the [Criminal Justice Act 1985][409] before the commencement date must, after the commencement date, be treated as if it were a properly made interim recall order made under [section 62][92] of this Act, and [sections 63 to 66][93] apply accordingly.
     
-    (7) An application for an order under [section 105][292] of the Criminal Justice Act 1985 must, after the commencement date, be dealt with as if it were an application under [section 107][155] of this Act.
+    (7) An application for an order under [section 105][293] of the Criminal Justice Act 1985 must, after the commencement date, be dealt with as if it were an application under [section 107][155] of this Act.
     
-    (8) Every order made under [section 105][292] of the Criminal Justice Act 1985 must be reviewed by the Board under [section 107(6)][155] of this Act as if the order had been made under that section.
+    (8) Every order made under [section 105][293] of the Criminal Justice Act 1985 must be reviewed by the Board under [section 107(6)][155] of this Act as if the order had been made under that section.
     
     (9) Despite subsection (1), every appeal against a decision made under [Part 4][225] or [Part 6][226] of the Criminal Justice Act 1985 must, whether the appeal is lodged before or after the commencement date, be lodged and dealt with as if Part 6 of that Act had not been repealed.
     
-    Section 97(1)(b): amended, on 1 October 2007, by [section 52][407] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 97(1)(b): amended, on 1 October 2007, by [section 52][410] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 98 Transitional provisions for hearings within 3 months after commencement date
     
@@ -3046,7 +3076,7 @@ Parole and other release from detention
 
 ##### 100 Offenders subject to non-association orders
     
-*   (1) This section applies to an offender who is subject to a pre-cd sentence and to an order made under [section 77B][408] of the Criminal Justice Act 1985 that the offender must not associate with any specified person or with persons of any specified class (a _non-association order_).
+*   (1) This section applies to an offender who is subject to a pre-cd sentence and to an order made under [section 77B][411] of the Criminal Justice Act 1985 that the offender must not associate with any specified person or with persons of any specified class (a _non-association order_).
     
     (2) When an offender to whom this section applies is released under this Part, he or she is subject to the non-association order imposed by the court in addition to the conditions imposed by the Board as if, for all purposes, the order were a release condition imposed by the Board.
     
@@ -3054,17 +3084,17 @@ Parole and other release from detention
 
 ##### 101 Corrective training deemed to be short-term sentence
     
-*   For the purposes of this Part, a sentence of corrective training imposed under the [Criminal Justice Act 1985][406] is deemed to be a short-term sentence of imprisonment.
+*   For the purposes of this Part, a sentence of corrective training imposed under the [Criminal Justice Act 1985][409] is deemed to be a short-term sentence of imprisonment.
 
 ##### 102 Suspended sentences
     
 *   (1) This section applies if,---
         
-    *   (a) before the commencement date, an order was made under [section 21A(1)][409] of the Criminal Justice Act 1985 suspending a sentence of imprisonment; and
+    *   (a) before the commencement date, an order was made under [section 21A(1)][412] of the Criminal Justice Act 1985 suspending a sentence of imprisonment; and
     
-    *   (b) after the commencement date, an order is made under [section 21A(4)][409] of that Act (as continued for this purpose by [section 155][410] of the Sentencing Act 2002) bringing the suspended sentence into effect.
+    *   (b) after the commencement date, an order is made under [section 21A(4)][412] of that Act (as continued for this purpose by [section 155][413] of the Sentencing Act 2002) bringing the suspended sentence into effect.
     
-    (2) For the purposes of sentence calculation, the start date of the suspended sentence is the date on which the order under [section 21A(4)][409] of the Criminal Justice Act 1985 is made, and the sentence is deemed to be a short-term sentence imposed after the commencement date.
+    (2) For the purposes of sentence calculation, the start date of the suspended sentence is the date on which the order under [section 21A(4)][412] of the Criminal Justice Act 1985 is made, and the sentence is deemed to be a short-term sentence imposed after the commencement date.
 
 #### Release at final release date
 
@@ -3084,7 +3114,7 @@ Parole and other release from detention
         
     *   (a) the offender is also subject to a sentence of imprisonment imposed after the commencement date that has a release date that is later than the offender's statutory release date as it was at the commencement date; or
     
-    *   (b) the offender is subject to an order under [section 107][155], or an application for such an order, or an application under [section 105][292] of the Criminal Justice Act 1985\.
+    *   (b) the offender is subject to an order under [section 107][155], or an application for such an order, or an application under [section 105][293] of the Criminal Justice Act 1985\.
     
     (4) If subsection (3) ceases to apply to an offender, the offender must be released under this section on his or her final release date or, if that date has passed, on a date set by the Board that is as soon as practicable after it and that is not a non-release day.
     
@@ -3106,11 +3136,11 @@ Parole and other release from detention
 
 ##### 105 Calculation of final release dates
     
-*   (1) The final release date of an offender who is subject to a pre-cd sentence must be determined under [section 91][282] of the Criminal Justice Act 1985, but any date so determined may be varied in accordance with [section 106][154].
+*   (1) The final release date of an offender who is subject to a pre-cd sentence must be determined under [section 91][283] of the Criminal Justice Act 1985, but any date so determined may be varied in accordance with [section 106][154].
     
-    (2) If, after a final release date has been varied in accordance with [section 106][154], it appears that the original date determined under the [Criminal Justice Act 1985][406] should be amended (for instance, because a sentence is quashed, or an error in the determination is discovered), then the original determination may be amended and, if necessary, section 106 applies to the amended determination.
+    (2) If, after a final release date has been varied in accordance with [section 106][154], it appears that the original date determined under the [Criminal Justice Act 1985][409] should be amended (for instance, because a sentence is quashed, or an error in the determination is discovered), then the original determination may be amended and, if necessary, section 106 applies to the amended determination.
     
-    Section 105(1): amended, on 7 July 2004, by [section 30][411] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 105(1): amended, on 7 July 2004, by [section 30][414] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 ##### 106 Variation and cancellation of final release dates
     
@@ -3138,11 +3168,11 @@ Parole and other release from detention
     
     (5) None of subsection (1), subsection (2), or subsection (3) may be applied if the result would be to make the offender's final release date earlier than it was before the subsection was applied to it.
     
-    (6) The final release date of an offender who is subject to a long-term pre-cd sentence is cancelled, and [section 104(1)][152] therefore ceases to apply, if the offender is recalled under a final recall order from parole, home detention (directed by the Board before the commencement of [section 72][397] of the Parole Amendment Act 2007 or in accordance with that section), or compassionate release.
+    (6) The final release date of an offender who is subject to a long-term pre-cd sentence is cancelled, and [section 104(1)][152] therefore ceases to apply, if the offender is recalled under a final recall order from parole, home detention (directed by the Board before the commencement of [section 72][401] of the Parole Amendment Act 2007 or in accordance with that section), or compassionate release.
     
-    Section 106(6): added, on 7 July 2004, by [section 31][412] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 106(6): added, on 7 July 2004, by [section 31][415] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 106(6): amended, on 1 October 2007, by [section 53][413] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 106(6): amended, on 1 October 2007, by [section 53][416] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 107 Order that offender not be released
     
@@ -3174,20 +3204,20 @@ Parole and other release from detention
         
     *   (a) murder; or
     
-    *   (b) a sexual crime under [Part 7][414] of the Crimes Act 1961 punishable by 7 or more years' imprisonment; and includes a crime under [section 144A][415] or [section 144C][416] of that Act; or
+    *   (b) a sexual crime under [Part 7][417] of the Crimes Act 1961 punishable by 7 or more years' imprisonment; and includes a crime under [section 144A][418] or [section 144C][419] of that Act; or
     
-    *   (c) an offence against any of [sections 171][417], [173 to 176][418], [188][419], [189(1)][420], [191][421], [198 to 199][422], [208 to 210][423], [234][424], [235][425], or [236][426] of the Crimes Act 1961\.
+    *   (c) an offence against any of [sections 171][420], [173 to 176][421], [188][422], [189(1)][423], [191][424], [198 to 199][425], [208 to 210][426], [234][427], [235][428], or [236][429] of the Crimes Act 1961\.
     
-    Section 107(9) **specified offence** paragraph (c): amended, on 7 July 2004, by [section 32][427] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107(9) **specified offence** paragraph (c): amended, on 7 July 2004, by [section 32][430] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 ## Part 1A  
 Extended supervision orders
     
-*   Part 1A: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+*   Part 1A: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 #### Preliminary
     
-*   Heading: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+*   Heading: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 ##### 107A Overview of Part
     
@@ -3201,9 +3231,9 @@ Extended supervision orders
     
     *   (d) provides rights of appeal and review relating to extended supervision orders.
     
-    Section 107A: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107A: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 107A(c): amended, on 1 October 2007, by [section 54][429] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 107A(c): amended, on 1 October 2007, by [section 54][432] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 107B Meaning of relevant offence
     
@@ -3215,87 +3245,87 @@ Extended supervision orders
     
     *   (c) a conspiracy to commit any offence referred to in subsection (2) or subsection (3).
     
-    (2) An offence against any of the following sections of the [Crimes Act 1961][430] is a relevant offence:
+    (2) An offence against any of the following sections of the [Crimes Act 1961][433] is a relevant offence:
         
-    *   (a) [section 128B][431] (sexual violation), but only if the victim of the offence was under the age of 16 at the time of the offence:
+    *   (a) [section 128B][434] (sexual violation), but only if the victim of the offence was under the age of 16 at the time of the offence:
     
-    *   (b) [section 129(1)][432] (attempt to commit sexual violation), but only if the victim of the offence was under the age of 16 at the time of the offence:
+    *   (b) [section 129(1)][435] (attempt to commit sexual violation), but only if the victim of the offence was under the age of 16 at the time of the offence:
     
-    *   (c) [section 129(2)][432] (assault with intent to commit sexual violation), but only if the victim of the offence was under the age of 16 at the time of the offence:
+    *   (c) [section 129(2)][435] (assault with intent to commit sexual violation), but only if the victim of the offence was under the age of 16 at the time of the offence:
     
-    *   (d) [section 129A][433] (sexual conduct with consent induced by certain threats), but only if the victim of the offence was under the age of 16 at the time of the offence:
+    *   (d) [section 129A][436] (sexual conduct with consent induced by certain threats), but only if the victim of the offence was under the age of 16 at the time of the offence:
     
-    *   (e) [section 130(2)][434] (incest), but only if the victim of the offence was under the age of 16 at the time of the offence:
+    *   (e) [section 130(2)][437] (incest), but only if the victim of the offence was under the age of 16 at the time of the offence:
     
-    *   (f) [section 131(1)][435] (sexual connection with dependent family member under 18), but only if the victim of the offence was under the age of 16 at the time of the offence:
+    *   (f) [section 131(1)][438] (sexual connection with dependent family member under 18), but only if the victim of the offence was under the age of 16 at the time of the offence:
     
-    *   (g) [section 131(2)][435] (attempted sexual connection with dependent family member under 18), but only if the victim of the offence was under the age of 16 at the time of the offence:
+    *   (g) [section 131(2)][438] (attempted sexual connection with dependent family member under 18), but only if the victim of the offence was under the age of 16 at the time of the offence:
     
-    *   (h) [section 131(3)][435] (indecent act on dependent family member under 18), but only if the victim of the offence was under the age of 16 at the time of the offence:
+    *   (h) [section 131(3)][438] (indecent act on dependent family member under 18), but only if the victim of the offence was under the age of 16 at the time of the offence:
     
-    *   (i) [section 131B(1)][436] (meeting young person under 16 following sexual grooming, etc):
+    *   (i) [section 131B(1)][439] (meeting young person under 16 following sexual grooming, etc):
     
-    *   (j) [section 132(1)][437] (sexual connection with child under 12):
+    *   (j) [section 132(1)][440] (sexual connection with child under 12):
     
-    *   (k) [section 132(2)][437] (attempted sexual connection with child under 12):
+    *   (k) [section 132(2)][440] (attempted sexual connection with child under 12):
     
-    *   (l) [section 132(3)][434] (indecent act on child under 12):
+    *   (l) [section 132(3)][437] (indecent act on child under 12):
     
-    *   (m) [section 134(1)][438] (sexual connection with young person under 16):
+    *   (m) [section 134(1)][441] (sexual connection with young person under 16):
     
-    *   (n) [section 134(2)][438] (attempted sexual connection with young person under 16):
+    *   (n) [section 134(2)][441] (attempted sexual connection with young person under 16):
     
-    *   (o) [section 134(3)][438] (indecent act on young person under 16):
+    *   (o) [section 134(3)][441] (indecent act on young person under 16):
     
-    *   (oa) [section 135][439] (indecent assault), but only if the victim of the offence was under the age of 16 at the time of the offence:
+    *   (oa) [section 135][442] (indecent assault), but only if the victim of the offence was under the age of 16 at the time of the offence:
     
-    *   (p) [section 138(1)][440] (exploitative sexual connection with person with significant impairment):
+    *   (p) [section 138(1)][443] (exploitative sexual connection with person with significant impairment):
     
-    *   (q) [section 138(2)][440] (attempted exploitative sexual connection with person with significant impairment):
+    *   (q) [section 138(2)][443] (attempted exploitative sexual connection with person with significant impairment):
     
-    *   (r) [section 138(4)][440] (indecent act on person with significant impairment):
+    *   (r) [section 138(4)][443] (indecent act on person with significant impairment):
     
-    *   (s) [section 139][441] (indecent act between woman and girl):
+    *   (s) [section 139][444] (indecent act between woman and girl):
     
-    *   (t) [section 140][442] (indecency with boy under 12):
+    *   (t) [section 140][445] (indecency with boy under 12):
     
-    *   (u) [section 140A][443] (indecency with boy between 12 and 16):
+    *   (u) [section 140A][446] (indecency with boy between 12 and 16):
     
     *   (v) \[Repealed\]
     
-    *   (w) [section 144A][415] (sexual conduct with children and young people outside New Zealand):
+    *   (w) [section 144A][418] (sexual conduct with children and young people outside New Zealand):
     
-    *   (x) [section 144C][416] (organising or promoting child sex tours):
+    *   (x) [section 144C][419] (organising or promoting child sex tours):
     
-    *   (y) [section 208][423] (abduction for purposes of marriage or sexual connection), but only if the offence involved a young person under the age of 16 and an intention to have sexual connection with the person:
+    *   (y) [section 208][426] (abduction for purposes of marriage or sexual connection), but only if the offence involved a young person under the age of 16 and an intention to have sexual connection with the person:
     
-    *   (z) [section 210][444] (abduction of young person under 16), but only if the offence involved an intention to have sexual connection with the person.
+    *   (z) [section 210][447] (abduction of young person under 16), but only if the offence involved an intention to have sexual connection with the person.
     
     (2A) An offence is also a relevant offence if---
         
-    *   (a) it is equivalent to an offence against any of the sections of the [Crimes Act 1961][430] referred to in subsection (2); but
+    *   (a) it is equivalent to an offence against any of the sections of the [Crimes Act 1961][433] referred to in subsection (2); but
     
-    *   (b) was committed against a provision of the [Crimes Act 1961][430] that has been repealed.
+    *   (b) was committed against a provision of the [Crimes Act 1961][433] that has been repealed.
     
     (2B) For the purposes of subsection (2A),---
         
-    *   (a) an offence against the former [section 133][445] of the Crimes Act 1961 (indecency with girl under 12) is equivalent to an offence against [section 132(3)][437] of that Act (indecent act on child under 12):
+    *   (a) an offence against the former [section 133][448] of the Crimes Act 1961 (indecency with girl under 12) is equivalent to an offence against [section 132(3)][440] of that Act (indecent act on child under 12):
     
-    *   (b) an offence against the former [section 139][441] of the Crimes Act 1961 (indecent act between woman and girl) is equivalent to an offence against [section 134(3)][438] of that Act (indecent act on young person under 16):
+    *   (b) an offence against the former [section 139][444] of the Crimes Act 1961 (indecent act between woman and girl) is equivalent to an offence against [section 134(3)][441] of that Act (indecent act on young person under 16):
     
-    *   (c) an offence against the former [section 140][442] of the Crimes Act 1961 (indecency with boy under 12) is equivalent to an offence against [section 132(3)][437] of that Act (indecent act on child under 12):
+    *   (c) an offence against the former [section 140][445] of the Crimes Act 1961 (indecency with boy under 12) is equivalent to an offence against [section 132(3)][440] of that Act (indecent act on child under 12):
     
-    *   (d) an offence against the former [section 140A][443] of the Crimes Act 1961 (indecency with boy between 12 and 16) is equivalent to an offence against [section 134(3)][438] of that Act (indecent act on young person under 16):
+    *   (d) an offence against the former [section 140A][446] of the Crimes Act 1961 (indecency with boy between 12 and 16) is equivalent to an offence against [section 134(3)][441] of that Act (indecent act on young person under 16):
     
-    *   (e) an offence against the former [section 142][446] of the Crimes Act 1961 (anal intercourse)---
+    *   (e) an offence against the former [section 142][449] of the Crimes Act 1961 (anal intercourse)---
             
-        *   (i) if the person upon whom the act of anal intercourse was committed was under the age of 12 years when the act was committed, is equivalent to an offence against [section 132(1)][437] of that Act (sexual connection with child under 12); and
+        *   (i) if the person upon whom the act of anal intercourse was committed was under the age of 12 years when the act was committed, is equivalent to an offence against [section 132(1)][440] of that Act (sexual connection with child under 12); and
         
-        *   (ii) if the person upon whom the act of anal intercourse was committed was of or over the age of 12 years when the act was committed, is equivalent to an offence against [section 134(1)][438] of that Act (sexual connection with young person under 16).
+        *   (ii) if the person upon whom the act of anal intercourse was committed was of or over the age of 12 years when the act was committed, is equivalent to an offence against [section 134(1)][441] of that Act (sexual connection with young person under 16).
         
         
     
-    (3) An offence under the [Films, Videos, and Publications Classification Act 1993][447] is also a relevant offence if the offence is punishable by imprisonment and any publication that is the subject of the offence is objectionable because it does any or all of the following:
+    (3) An offence under the [Films, Videos, and Publications Classification Act 1993][450] is also a relevant offence if the offence is punishable by imprisonment and any publication that is the subject of the offence is objectionable because it does any or all of the following:
         
     *   (a) promotes or supports, or tends to promote or support, the exploitation of children, or young persons, or both, for sexual purposes:
     
@@ -3303,17 +3333,17 @@ Extended supervision orders
     
     *   (c) exploits the nudity of children, or young persons, or both.
     
-    Section 107B: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107B: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 107B(2): substituted, on 20 May 2005, by [section 10][448] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 107B(2): substituted, on 20 May 2005, by [section 10][451] of the Crimes Amendment Act 2005 (2005 No 41).
     
-    Section 107B(2)(oa): inserted, on 1 October 2007, by [section 55(1)][449] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 107B(2)(oa): inserted, on 1 October 2007, by [section 55(1)][452] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 107B(2)(v): repealed, on 1 October 2007, by [section 55(2)][449] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 107B(2)(v): repealed, on 1 October 2007, by [section 55(2)][452] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 107B(2A): inserted, on 20 May 2005, by [section 10][448] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 107B(2A): inserted, on 20 May 2005, by [section 10][451] of the Crimes Amendment Act 2005 (2005 No 41).
     
-    Section 107B(2B): inserted, on 20 May 2005, by [section 10][448] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 107B(2B): inserted, on 20 May 2005, by [section 10][451] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 107C Meaning of eligible offender
     
@@ -3327,27 +3357,27 @@ Extended supervision orders
     
     (2) To avoid doubt, and to confirm the retrospective application of this provision, despite any enactment or rule of law, an offender may be an eligible offender (including a transitional eligible offender as defined in [section 107Y][191]) even if he or she committed a relevant offence, was most recently convicted, or became subject to release conditions or detention conditions, before this Part came into force.
     
-    (3) In this section, _detention conditions_ has the same meaning as it had in [section 4][6] before the commencement of [section 72][397] of the Parole Amendment Act 2007\.
+    (3) In this section, _detention conditions_ has the same meaning as it had in [section 4][6] before the commencement of [section 72][401] of the Parole Amendment Act 2007\.
     
-    Section 107C: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107C: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 107C(3): added, on 1 October 2007, by [section 56][450] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 107C(3): added, on 1 October 2007, by [section 56][453] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 107D Meaning of sentencing court
     
 *   In this Part, _sentencing court_, in relation to an offender, means the High Court, unless every relevant offence for which the offender is subject to a sentence of imprisonment was imposed by a District Court, or any court on appeal from a District Court, in which case the sentencing court is a District Court presided over by a trial Judge.
     
-    Section 107D: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107D: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 ##### 107E Obligation to assess eligible offenders
     
 *   The chief executive must ensure that, before an eligible offender is released from detention, the offender is assessed to determine the likelihood that the offender will commit any of the relevant offences referred to in [section 107B(2)][159] after release.
     
-    Section 107E: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107E: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 #### Application for, and making of extended supervision orders
     
-*   Heading: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+*   Heading: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 ##### 107F Chief executive may apply for extended supervision order
     
@@ -3357,7 +3387,7 @@ Extended supervision orders
     
     *   (b) the date on which the offender ceases to be subject to any release conditions.
     
-    (2) An application under this section must be in the prescribed form and be accompanied by a report by a health assessor (as defined in [section 4][451] of the Sentencing Act 2002) that addresses (without limitation) the following matters:
+    (2) An application under this section must be in the prescribed form and be accompanied by a report by a health assessor (as defined in [section 4][454] of the Sentencing Act 2002) that addresses (without limitation) the following matters:
         
     *   (a) the nature of any likely future sexual offending by the offender, including the age and sex of likely victims:
     
@@ -3371,9 +3401,9 @@ Extended supervision orders
     
     (3) To avoid doubt, in addressing the matters listed in subsection (2), the health assessor may take into account any statement of the offender or any other person concerning any conduct of the offender, whether or not that conduct constitutes an offence and whether or not the offender has been charged with, or convicted of, an offence in respect of that conduct.
     
-    Section 107F: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107F: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 107F(3): added, on 1 October 2007, by [section 57][452] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 107F(3): added, on 1 October 2007, by [section 57][455] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 107G Procedure following application for extended supervision order
     
@@ -3387,15 +3417,15 @@ Extended supervision orders
     
     *   (d) a notice setting out the offender's rights and the procedures relating to the application.
     
-    (2) A Judge of a sentencing court, or a Registrar, Justice, or Community Magistrate, may issue a summons to an offender in respect of whom an application under [section 107F][164] is made; and, in that case, [sections 24][453] and [25][454] of the Summary Proceedings Act 1957 apply with all necessary modifications.
+    (2) A Judge of a sentencing court, or a Registrar, Justice, or Community Magistrate, may issue a summons to an offender in respect of whom an application under [section 107F][164] is made; and, in that case, rules in relation to service made under the [Criminal Procedure Act 2011][456] apply with all necessary modifications.
     
-    (3) A Judge of a sentencing court may issue a warrant for the arrest of the offender if the Judge is of the opinion that a warrant is necessary to compel the attendance of the offender; and, in that case, [sections 22][369] and [23][455] of the Summary Proceedings Act 1957 and [section 316][456] of the Crimes Act 1961 apply with all necessary modifications.
+    (3) A Judge of a sentencing court may issue a warrant for the arrest of the offender if the Judge is of the opinion that a warrant is necessary to compel the attendance of the offender; and, in that case, [sections 162][457] and [163][458] of the Criminal Procedure Act 2011 and [section 316][459] of the Crimes Act 1961 apply with all necessary modifications.
     
     (4) An offender who is the subject of an application for an extended supervision order must be present at the hearing of the application and may be represented by counsel.
     
     (5) During the hearing, the sentencing court may adjourn the hearing and,---
         
-    *   (a) if the offender was brought to court under [section 65(3)][457] of the Corrections Act 2004, section 65 of that Act applies; or
+    *   (a) if the offender was brought to court under [section 65(3)][460] of the Corrections Act 2004, section 65 of that Act applies; or
     
     *   (b) if the offender was brought to court following arrest under a warrant issued under subsection (3), the offender may be granted bail in accordance with subsection (6); but, if bail is not granted, the court must remand the offender in custody, in which case the period of the adjournment may not exceed 8 days unless the parties otherwise consent; or
     
@@ -3407,39 +3437,39 @@ Extended supervision orders
         
         
     
-    (6) If an offender who is the subject of an application for an extended supervision order may be granted bail,---
+    (6) If an offender who is the subject of an application for an extended supervision order may be granted bail, the [Bail Act 2000][461] applies, with all necessary modifications, as if the offender were charged with an offence and was not bailable as of right.
+    
+    (7) The following provisions of the [Criminal Procedure Act 2011][456] apply, with all necessary modifications, to proceedings for an extended supervision order:
         
-    *   (a) the [Bail Act 2000][458] applies, with all necessary modifications, as if the offender were charged with an offence and was not bailable as of right; and
+    *   (a) [section 184][462] (criminal records):
     
-    *   (b) if the sentencing court is a District Court, [Part 3][459] of that Act applies; and
+    *   (b) [section 365][463] (contempt of court):
     
-    *   (c) if the sentencing court is the High Court, [Part 4][460] of that Act applies.
+    *   (c) [section 379][363] (proceedings not to be questioned for want of form).
     
-    (7) The following provisions of the [Summary Proceedings Act 1957][461] apply, with all necessary modifications, to proceedings for an extended supervision order:
-        
-    *   (a) [section 71][462] (criminal records):
-    
-    *   (b) [section 201][463] (amendment of conviction, order, or warrant):
-    
-    *   (c) [section 203][464] (acts not generally to be done on Sunday), as if a warrant to arrest issued under this section were a warrant to arrest a person charged with an offence:
-    
-    *   (d) [section 204][465] (proceedings not to be questioned for want of form):
-    
-    *   (e) [section 206][466] (contempt of court).
-    
-    (8) Any summons, warrant, or other form that is prescribed under [section 212][467] of the Summary Proceedings Act 1957 may, if modified appropriately, be used for the purposes of this section.
+    (8) Any summons, warrant, or other form for which the content is prescribed under [section 386][464] of the Criminal Procedure Act 2011 may, if modified appropriately, be used for the purposes of this section.
     
     (9) Before the [Corrections Act 2004][229] comes into force, section 26(2) of the Penal Institutions Act 1954 applies as if paragraph (a) of that subsection applies to an offender who is subject to an application for an extended supervision order.
     
-    (10) [Subpart 3][468] of Part 5 of the Criminal Procedure Act 2011 (which relates generally to name suppression) applies, with all necessary modifications, to the hearing of an application for an extended supervision order as if the hearing were a proceeding in respect of an offence under any of [sections 128 to 142A][469] of the Crimes Act 1961\.
+    (10) [Subpart 3][465] of Part 5 of the Criminal Procedure Act 2011 (which relates generally to name suppression) applies, with all necessary modifications, to the hearing of an application for an extended supervision order as if the hearing were a proceeding in respect of an offence under any of [sections 128 to 142A][466] of the Crimes Act 1961\.
     
-    (11) The [Costs in Criminal Cases Act 1967][470] applies, with all necessary modifications, to proceedings under this Part.
+    (11) The [Costs in Criminal Cases Act 1967][467] applies, with all necessary modifications, to proceedings under this Part.
     
-    Section 107G: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107G: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 107G(5)(b): amended, on 1 October 2007, by [section 58][471] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 107G(2): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 107G(10): amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was committed before that date in accordance with the provisions of sections 397 and 399--401 of the Criminal Procedure Act 2011), by [section 393][472] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 107G(3): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 107G(5)(b): amended, on 1 October 2007, by [section 58][468] of the Parole Amendment Act 2007 (2007 No 28).
+    
+    Section 107G(6): replaced, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 107G(7): replaced, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 107G(8): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 107G(10): amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was committed before that date in accordance with the provisions of sections 397 and 399--401 of the Criminal Procedure Act 2011), by [section 393][469] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 107GA Application of section 107G during epidemic
     
@@ -3451,7 +3481,7 @@ Extended supervision orders
     
     (2) The court may, without the offender's consent, adjourn the hearing of an application for an extended supervision order to which subsection (1) applies for any period (not exceeding 21 days) it thinks appropriate in the circumstances.
     
-    Section 107GA: inserted, on 19 December 2006, by [section 10][473] of the Parole Amendment Act 2006 (2006 No 88).
+    Section 107GA: inserted, on 19 December 2006, by [section 10][470] of the Parole Amendment Act 2006 (2006 No 88).
 
 ##### 107H Hearings relating to extended supervision orders
     
@@ -3479,9 +3509,9 @@ Extended supervision orders
     
     (7) The chief executive must notify every victim of the offender concerned of the outcome of every hearing.
     
-    Section 107H: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107H: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 107H(6A): inserted, on 1 October 2007, by [section 59][474] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 107H(6A): inserted, on 1 October 2007, by [section 59][471] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 107I Sentencing court may make extended supervision order
     
@@ -3503,7 +3533,7 @@ Extended supervision orders
     
     (6) If the person to whom an application for an extended supervision order relates is already subject to an extended supervision order, any new order may not be made for a period that, when added to the unexpired portion of the earlier order, exceeds 10 years.
     
-    Section 107I: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107I: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 ##### 107IA Court may impose special conditions on interim basis
     
@@ -3529,27 +3559,27 @@ Extended supervision orders
     
     (7) [Section 107K][173] applies with all necessary modifications to an order under subsection (1).
     
-    Section 107IA: inserted, on 1 October 2007, by [section 60][475] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 107IA: inserted, on 1 October 2007, by [section 60][472] of the Parole Amendment Act 2007 (2007 No 28).
 
 #### Nature of extended supervision order
     
-*   Heading: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+*   Heading: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 ##### 107J Conditions of extended supervision order
     
 *   (1) The conditions of an extended supervision order are---
         
-    *   (a) the standard extended supervision conditions set out in [section 107JA][476]; and
+    *   (a) the standard extended supervision conditions set out in [section 107JA][473]; and
     
-    *   (b) any special conditions imposed by the Board under [section 107K][477], which apply for the period determined by the Board.
+    *   (b) any special conditions imposed by the Board under [section 107K][474], which apply for the period determined by the Board.
     
     (2) The standard extended supervision conditions---
         
-    *   (a) apply throughout the term of the order (except as provided in [section 107K(3)][477] and [section 107O][478]); and
+    *   (a) apply throughout the term of the order (except as provided in [section 107K(3)][474] and [section 107O][475]); and
     
-    *   (b) must be treated for the purpose of [sections 56 to 58][479] as having been imposed by the Board.
+    *   (b) must be treated for the purpose of [sections 56 to 58][476] as having been imposed by the Board.
     
-    Section 107J: substituted, on 1 October 2007, by [section 61][480] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 107J: substituted, on 1 October 2007, by [section 61][477] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 107JA Standard extended supervision conditions
     
@@ -3585,7 +3615,7 @@ Extended supervision orders
     
     (2) In this section, _contact_, includes communicating, or attempting to communicate, with a person by any means, such as by telephone or via the Internet.
     
-    Section 107JA: inserted, on 1 October 2007, by [section 61][480] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 107JA: inserted, on 1 October 2007, by [section 61][477] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 107K Board may impose special conditions
     
@@ -3621,19 +3651,19 @@ Extended supervision orders
     
     *   (d) every victim of the offender; but the Board may withhold notice of a particular condition if disclosure of the condition would unduly interfere with the privacy of any other person (other than the offender).
     
-    Section 107K: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107K: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 107K(1): substituted, on 1 October 2007, by [section 62][481] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 107K(1): substituted, on 1 October 2007, by [section 62][478] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 107K(1A): inserted, on 4 April 2009, by [section 4(1)][482] of the Parole (Extended Supervision Orders) Amendment Act 2009 (2009 No 6).
+    Section 107K(1A): inserted, on 4 April 2009, by [section 4(1)][479] of the Parole (Extended Supervision Orders) Amendment Act 2009 (2009 No 6).
     
-    Section 107K(2): substituted, on 1 October 2007, by [section 62][481] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 107K(2): substituted, on 1 October 2007, by [section 62][478] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 107K(2): amended, on 4 April 2009, by [section 4(2)][482] of the Parole (Extended Supervision Orders) Amendment Act 2009 (2009 No 6).
+    Section 107K(2): amended, on 4 April 2009, by [section 4(2)][479] of the Parole (Extended Supervision Orders) Amendment Act 2009 (2009 No 6).
     
-    Section 107K(3): substituted, on 1 October 2007, by [section 62][481] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 107K(3): substituted, on 1 October 2007, by [section 62][478] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 107K(3)(b): amended, on 4 April 2009, by [section 4(3)][482] of the Parole (Extended Supervision Orders) Amendment Act 2009 (2009 No 6).
+    Section 107K(3)(b): amended, on 4 April 2009, by [section 4(3)][479] of the Parole (Extended Supervision Orders) Amendment Act 2009 (2009 No 6).
 
 ##### 107L Commencement and expiry of extended supervision order
     
@@ -3661,17 +3691,17 @@ Extended supervision orders
     
     (3) An extended supervision order expires on the date on which the order is cancelled or the term of the order expires.
     
-    Section 107L: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107L: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 107L(1)(a): amended, on 1 October 2007, by [section 63(1)][483] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 107L(1)(a): amended, on 1 October 2007, by [section 63(1)][480] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 107L(2): substituted, on 1 October 2007, by [section 63(2)][483] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 107L(2): substituted, on 1 October 2007, by [section 63(2)][480] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 107L(2A): inserted, on 1 October 2007, by [section 63(2)][483] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 107L(2A): inserted, on 1 October 2007, by [section 63(2)][480] of the Parole Amendment Act 2007 (2007 No 28).
 
 #### Cancellation, extension, variation, and suspension of extended supervision orders or conditions
     
-*   Heading: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+*   Heading: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 ##### 107M Sentencing court may cancel extended supervision order
     
@@ -3691,7 +3721,7 @@ Extended supervision orders
     
     (6) If the sentencing court declines to order the cancellation of an order, the court may at the same time, and on its own initiative or on application by the chief executive, order that the offender not be permitted to apply under this section for a specified period of not more than 2 years.
     
-    Section 107M: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107M: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 ##### 107N Extension of short extended supervision order
     
@@ -3713,7 +3743,7 @@ Extended supervision orders
     
     (5) An extended supervision order may not be extended for a term that results in the total term of the order exceeding 10 years.
     
-    Section 107N: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107N: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 ##### 107O Board may vary conditions of extended supervision order
     
@@ -3731,7 +3761,7 @@ Extended supervision orders
     
     *   (d) every victim of the offender; but the Board may withhold notice of a particular condition if disclosure of the condition would unduly interfere with the privacy of any other person (other than the offender).
     
-    Section 107O: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107O: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 ##### 107P Suspension of conditions of extended supervision order
     
@@ -3755,11 +3785,11 @@ Extended supervision orders
     
     *   (c) the conditions that have not been reactivated earlier are reactivated when the offender is released.
     
-    Section 107P: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107P: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 107P(1): substituted, on 1 October 2007, by [section 64(1)][484] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 107P(1): substituted, on 1 October 2007, by [section 64(1)][481] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 107P(2)(a): amended, on 1 October 2007, by [section 64(2)][484] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 107P(2)(a): amended, on 1 October 2007, by [section 64(2)][481] of the Parole Amendment Act 2007 (2007 No 28).
     
     Section 107P(3): amended, on 1 September 2004, by [section 51][238] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
 
@@ -3771,47 +3801,51 @@ Extended supervision orders
     
     (3) If an offender who is subject to an extended supervision order is sentenced to an indeterminate sentence, the order is cancelled; but if the sentence is subsequently quashed or otherwise set aside, the extended supervision order is to be treated as if it had not been cancelled.
     
-    Section 107Q: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107Q: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 107Q(1): amended, on 1 October 2007, by [section 65][485] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 107Q(1): amended, on 1 October 2007, by [section 65][482] of the Parole Amendment Act 2007 (2007 No 28).
 
 #### Appeals and reviews
     
-*   Heading: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+*   Heading: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 ##### 107R Appeals against decisions of sentencing court
     
 *   (1) An appeal against a decision or order made by the sentencing court under [section 107I][168], [section 107M][176], or [section 107N][177] may be made by the offender to whom the decision or order relates or by the chief executive.
     
-    (2) Every appeal must be to the Court of Appeal, and [Part 13][401] of the Crimes Act 1961 applies, with all necessary modifications and subject to [section 107H][167] of this Act, as if the appeal were an appeal against sentence under [section 383][486] of the Crimes Act 1961\.
+    (2) Every appeal must be to the Court of Appeal, and [Part 6][483] of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications, and subject to [section 107H][167] of this Act, as if the appeal were an appeal against sentence.
     
     (3) The lodging of an appeal against a decision or order does not prevent that decision or order taking effect according to its terms.
     
-    Section 107R: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107R: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    
+    Section 107R(2): replaced, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 107S Review of Board decisions
     
 *   [Section 67][100] (which provides for reviews of decisions by the Board) applies to decisions by the Board under [section 107K][173] or [section 107O][178].
     
-    Section 107S: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107S: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 #### Miscellaneous provisions
     
-*   Heading: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+*   Heading: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 ##### 107T Offence to breach extended supervision order
     
-*   An offender who is subject to an extended supervision order and who breaches, without reasonable excuse, any conditions attaching to that order commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 2 years.
+*   An offender who is subject to an extended supervision order and who breaches, without reasonable excuse, any conditions attaching to that order commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years.
     
-    Section 107T: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107T: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    
+    Section 107T: amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 107U Rules about court practice and procedure
     
 *   The Governor-General may from time to time, by Order in Council, make rules regulating the practice and procedure of courts in proceedings under [section 107I][168], [section 107M][176], or [section 107N][177].
     
-    Compare: 1991 No 120 [s 90][487]
+    Compare: 1991 No 120 [s 90][484]
     
-    Section 107U: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107U: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 ##### 107V Additional victim notification
     
@@ -3823,23 +3857,23 @@ Extended supervision orders
     
     *   (c) the offender dies.
     
-    Section 107V: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107V: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 ##### 107W Information about victims not to be disclosed
     
 *   In any proceedings under this Part, no person may, directly or indirectly, disclose to the offender any information that discloses the current address or contact details of any victim of the offender (as defined in [section 4][241] of the Victims' Rights Act 2002).
     
-    Section 107W: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107W: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 ##### 107X Application of Legal Services Act 2000
     
-*   For the purposes of [section 6(a)][488] of the Legal Services Act 2000 (which identifies proceedings for which legal aid may be granted), proceedings under this Part before any court are criminal proceedings.
+*   For the purposes of [section 6(a)][485] of the Legal Services Act 2000 (which identifies proceedings for which legal aid may be granted), proceedings under this Part before any court are criminal proceedings.
     
-    Section 107X: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107X: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 #### Transitional measures
     
-*   Heading: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+*   Heading: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 ##### 107Y Definitions
     
@@ -3853,7 +3887,7 @@ Extended supervision orders
     
     *   (b) any person who, on the date on which this Part comes into force, is an eligible offender, but who ceases to be an eligible offender within 6 months after this Part comes into force.
     
-    Section 107Y: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107Y: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 ##### 107Z Applications in respect of transitional eligible offenders to be made within first 6 months after commencement
     
@@ -3863,7 +3897,7 @@ Extended supervision orders
     
     (3) However, nothing in this section prevents the chief executive applying for an extended supervision order more than 6 months after this section comes into force if, after that date, the offender is an eligible offender.
     
-    Section 107Z: inserted, on 7 July 2004, by [section 11][428] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 107Z: inserted, on 7 July 2004, by [section 11][431] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 ## Part 2  
 New Zealand Parole Board and amendments to other enactments relating to parole and release generally
@@ -3876,7 +3910,7 @@ New Zealand Parole Board and amendments to other enactments relating to parole a
     
     (2) The Department of Corrections provides administrative and training support to the Board.
     
-    (3) The Board is subject to the [Official Information Act 1982][257] and to the [Privacy Act 1993][258].
+    (3) The Board is subject to the [Official Information Act 1982][258] and to the [Privacy Act 1993][259].
 
 ##### 109 Functions of Board
     
@@ -3932,19 +3966,19 @@ New Zealand Parole Board and amendments to other enactments relating to parole a
     
     *   (d) to provide information that is readily accessible to offenders, victims (as defined in [section 4][241] of the Victims' Rights Act 2002), and the general public about matters relating to release from detention and the policies and operation of the Board generally.
     
-    Section 109(1)(b): repealed, on 1 October 2007, by [section 66(1)][489] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 109(1)(b): repealed, on 1 October 2007, by [section 66(1)][486] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 109(1)(d)(iii): repealed, on 1 October 2007, by [section 66(2)][489] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 109(1)(d)(iii): repealed, on 1 October 2007, by [section 66(2)][486] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 109(1)(da): inserted, on 1 October 2007, by [section 66(5)][489] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 109(1)(da): inserted, on 1 October 2007, by [section 66(5)][486] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 109(1)(e)(i): amended, on 1 October 2007, by [section 66(3)][489] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 109(1)(e)(i): amended, on 1 October 2007, by [section 66(3)][486] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 109(1)(e)(ia): inserted, on 7 July 2004, by [section 12(1)][490] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 109(1)(e)(ia): inserted, on 7 July 2004, by [section 12(1)][487] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 109(1)(e)(ii): amended, on 1 October 2007, by [section 66(4)][489] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 109(1)(e)(ii): amended, on 1 October 2007, by [section 66(4)][486] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 109(1)(ga): inserted, on 7 July 2004, by section [12(2)][490] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 109(1)(ga): inserted, on 7 July 2004, by section [12(2)][487] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
     Section 109(2)(d): amended, on 17 December 2002, by [section 53][239] of the Victims' Rights Act 2002 (2002 No 39).
 
@@ -4058,9 +4092,9 @@ New Zealand Parole Board and amendments to other enactments relating to parole a
     
     (5) If the chairperson sits on a parole panel, he or she may act as a panel convenor for the purposes of that sitting; and for that purpose the chairperson has all the functions and powers of a panel convenor.
     
-    Section 114(3)(a): amended, on 1 October 2007, by [section 68(1)][491] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 114(3)(a): amended, on 1 October 2007, by [section 68(1)][488] of the Parole Amendment Act 2007 (2007 No 28).
     
-    Section 114(3)(d): amended, on 1 October 2007, by [section 68(2)][491] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 114(3)(d): amended, on 1 October 2007, by [section 68(2)][488] of the Parole Amendment Act 2007 (2007 No 28).
 
 #### How Board performs its functions
 
@@ -4088,7 +4122,7 @@ New Zealand Parole Board and amendments to other enactments relating to parole a
     
     *   (b) the Department of Corrections.
     
-    Section 116(3): amended, on 1 October 2007, by [section 69][492] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 116(3): amended, on 1 October 2007, by [section 69][489] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 117 Information before Board
     
@@ -4102,15 +4136,15 @@ New Zealand Parole Board and amendments to other enactments relating to parole a
     
     (3) This section is subject to [sections 13AA to 13AE][18].
     
-    Compare: 1985 No 120 [ss 106][307], [107L(5)][300]
+    Compare: 1985 No 120 [ss 106][308], [107L(5)][301]
     
-    Section 117(3): added, on 1 October 2007, by [section 70][493] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 117(3): added, on 1 October 2007, by [section 70][490] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 117A Board may regulate own procedure
     
 *   The Board may regulate its own procedure as it thinks fit, subject to this Act and any regulations made under it.
     
-    Section 117A: inserted, on 7 July 2004, by [section 33][494] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 117A: inserted, on 7 July 2004, by [section 33][491] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
 ##### 118 Avoiding actual or perceived bias
     
@@ -4126,7 +4160,7 @@ New Zealand Parole Board and amendments to other enactments relating to parole a
 
 #### Summoning witnesses
     
-*   Heading: inserted, on 1 October 2007, by [section 71][495] of the Parole Amendment Act 2007 (2007 No 28).
+*   Heading: inserted, on 1 October 2007, by [section 71][492] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 118A Power to summon witnesses
     
@@ -4138,13 +4172,15 @@ New Zealand Parole Board and amendments to other enactments relating to parole a
     
     (2) The chairperson or panel convenor may not exercise the power conferred by subsection (1) on the basis of an application or request, but may do so only on his or her own initiative.
     
-    (3) A witness is not required to attend and give evidence or produce any things in accordance with a summons issued under subsection (1) unless, at the time of the service of the summons or at some other reasonable time before the day on which the attendance of the witness would, apart from this subsection, be required, there is tendered or paid to the witness a sum in respect of the witness's allowances and travelling expenses in accordance with the scale prescribed for the time being by regulations made under the [Summary Proceedings Act 1957][461].
+    (3) A witness is not required to attend and give evidence or produce any things in accordance with a summons issued under subsection (1) unless, at the time of the service of the summons or at some other reasonable time before the day on which the attendance of the witness would, apart from this subsection, be required, there is tendered or paid to the witness a sum in respect of the witness's allowances and travelling expenses in accordance with the scale prescribed for the time being by regulations made under the [Criminal Procedure Act 2011][456].
     
     (4) The summons must be in writing and state the place and time at which the witness is required to attend.
     
-    Compare: 1908 No 25 [s 4D][496]
+    Compare: 1908 No 25 [s 4D][493]
     
-    Section 118A: inserted, on 1 October 2007, by [section 71][495] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 118A: inserted, on 1 October 2007, by [section 71][492] of the Parole Amendment Act 2007 (2007 No 28).
+    
+    Section 118A(3): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 118B Service of summons
     
@@ -4160,17 +4196,17 @@ New Zealand Parole Board and amendments to other enactments relating to parole a
     
     (3) A summons served under subsection (1)(c) must be treated as having been served at the time when the letter would be delivered in the ordinary course of post.
     
-    Compare: 1908 No 25 [s 5][497]
+    Compare: 1908 No 25 [s 5][494]
     
-    Section 118B: inserted, on 1 October 2007, by [section 71][495] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 118B: inserted, on 1 October 2007, by [section 71][492] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 118C Protection of witnesses
     
 *   Every witness giving evidence before the Board has the same privileges and immunities as a witness in a court of law.
     
-    Compare: 1908 No 25 [s 6][498]
+    Compare: 1908 No 25 [s 6][495]
     
-    Section 118C: inserted, on 1 October 2007, by [section 71][495] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 118C: inserted, on 1 October 2007, by [section 71][492] of the Parole Amendment Act 2007 (2007 No 28).
 
 ##### 118D Offences
     
@@ -4182,11 +4218,13 @@ New Zealand Parole Board and amendments to other enactments relating to parole a
     
     *   (c) fails to produce any such book, paper, document, record, or thing.
     
-    (2) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $10,000\.
+    (2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $10,000\.
     
-    Compare: 1908 No 25 [s 9][499]
+    Compare: 1908 No 25 [s 9][496]
     
-    Section 118D: inserted, on 1 October 2007, by [section 71][495] of the Parole Amendment Act 2007 (2007 No 28).
+    Section 118D: inserted, on 1 October 2007, by [section 71][492] of the Parole Amendment Act 2007 (2007 No 28).
+    
+    Section 118D(2): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### General provisions about Board and members
 
@@ -4230,7 +4268,7 @@ New Zealand Parole Board and amendments to other enactments relating to parole a
     
     (2) Every other member must be paid fees and expenses in accordance with the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies.
     
-    (3) A person is not employed in the service of the Crown, for the purposes of the [State Sector Act 1988][500] or the [Government Superannuation Fund Act 1956][501], merely as a result of being a member of the Board.
+    (3) A person is not employed in the service of the Crown, for the purposes of the [State Sector Act 1988][497] or the [Government Superannuation Fund Act 1956][498], merely as a result of being a member of the Board.
 
 ##### 123 Immunity of members
     
@@ -4238,7 +4276,7 @@ New Zealand Parole Board and amendments to other enactments relating to parole a
 
 ##### 124 Abolition of Parole Board and District Prisons Boards
     
-*   (1) At the close of the day before the commencement date, the Parole Board established under [section 130][502] of the Criminal Justice Act 1985, and every District Prisons Board established under [section 132][503] of that Act, are abolished.
+*   (1) At the close of the day before the commencement date, the Parole Board established under [section 130][499] of the Criminal Justice Act 1985, and every District Prisons Board established under [section 132][500] of that Act, are abolished.
     
     (2) The term of every member of the Parole Board, and of every member of a District Prisons Board, expires with the close of the day before the commencement date.
     
@@ -4261,31 +4299,31 @@ Amendments to other enactments
 
 ##### Armed Forces Discipline Act 1971 (1971 No 53)
 
-_Amendment(s) incorporated in the [Act(s)][504]._
+_Amendment(s) incorporated in the [Act(s)][501]._
 
 ##### Bail Act 2000 (2000 No 38)
 
-_Amendment(s) incorporated in the [Act(s)][458]._
+_Amendment(s) incorporated in the [Act(s)][461]._
 
 ##### Extradition Act 1999 (1999 No 55)
 
-_Amendment(s) incorporated in the [Act(s)][505]._
+_Amendment(s) incorporated in the [Act(s)][502]._
 
 ##### Immigration Act 1987 (1987 No 74)
 
-_Amendment(s) incorporated in the [Act(s)][506]._
+_Amendment(s) incorporated in the [Act(s)][503]._
 
 ##### International Crimes and International Criminal Court Act 2000 (2000 No 26)
 
-_Amendment(s) incorporated in the [Act(s)][507]._
+_Amendment(s) incorporated in the [Act(s)][504]._
 
 ##### International War Crimes Tribunals Act 1995 (1995 No 27)
 
-_Amendment(s) incorporated in the [Act(s)][508]._
+_Amendment(s) incorporated in the [Act(s)][505]._
 
 ##### Legal Services Act 2000 (2000 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][488]._
+_Amendment(s) incorporated in the [Act(s)][485]._
 
 ##### Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46)
 
@@ -4293,11 +4331,11 @@ _Amendment(s) incorporated in the [Act(s)][252]._
 
 ##### Mutual Assistance in Criminal Matters Act 1992 (1992 No 86)
 
-_Amendment(s) incorporated in the [Act(s)][509]._
+_Amendment(s) incorporated in the [Act(s)][506]._
 
 ##### Official Information Act 1982 (1982 No 156)
 
-_Amendment(s) incorporated in the [Act(s)][510]._
+_Amendment(s) incorporated in the [Act(s)][507]._
 
 ##### Penal Institutions Act 1954 (1954 No 51)
 
@@ -4305,7 +4343,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Social Security Act 1964 (1964 No 136)
 
-_Amendment(s) incorporated in the [Act(s)][511]._
+_Amendment(s) incorporated in the [Act(s)][508]._
 
 ---
 
@@ -4317,13 +4355,13 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Parole Amendment Act 2007][512].
+*   This Act is the [Parole Amendment Act 2007][509].
 
 ##### 2 Commencement
     
 *   This Act comes into force on a day to be appointed by the Governor-General by Order in Council, and 1 or more orders may be made bringing different provisions into force on different dates.
     
-    Sections 2: Parole Amendment Act 2007 (except sections 4(1), (3), (7), 16, 48, 49, and 67) brought into force, on 1 October 2007, by the [Parole Amendment Act 2007 Commencement Order 2007][513] (SR 2007/256).
+    Sections 2: Parole Amendment Act 2007 (except sections 4(1), (3), (7), 16, 48, 49, and 67) brought into force, on 1 October 2007, by the [Parole Amendment Act 2007 Commencement Order 2007][510] (SR 2007/256).
 
 ##### 72 Transitional provisions relating to home detention
     
@@ -4383,23 +4421,23 @@ Commencementsee section 2
 
 ###### 1 General
     
-*   This is a reprint of the Parole Act 2002\. The reprint incorporates all the amendments to the Act as at 5 March 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Parole Act 2002\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][514] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][511] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][515] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][512] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][516] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][513] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][517] and [17E][518] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][514] and [17E][515] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -4430,25 +4468,25 @@ Commencementsee section 2
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Criminal Procedure Act 2011 (2011 No 81): [section 393][472]
+*   Criminal Procedure Act 2011 (2011 No 81): [sections 393][469], [413][257]
     
-    Sentencing and Parole Reform Act 2010 (2010 No 33) [sections 15--17(1)][287]
+    Sentencing and Parole Reform Act 2010 (2010 No 33) [sections 15--17(1)][288]
     
-    Immigration Act 2009 (2009 No 51): [section 406(1) ][329]
+    Immigration Act 2009 (2009 No 51): [section 406(1) ][330]
     
-    [Parole (Extended Supervision Orders) Amendment Act 2009][519] (2009 No 6)
+    [Parole (Extended Supervision Orders) Amendment Act 2009][516] (2009 No 6)
     
-    Corrections Amendment Act 2009 (2009 No 3): [sections 36][275], [37][279]
+    Corrections Amendment Act 2009 (2009 No 3): [sections 36][276], [37][280]
     
-    Policing Act 2008 (2008 No 72): [sections 116(a)(i), (ii)][302], [130(1)][351]
+    Policing Act 2008 (2008 No 72): [sections 116(a)(i), (ii)][303], [130(1)][352]
     
-    [Parole Amendment Act 2007][512] (2007 No 28)
+    [Parole Amendment Act 2007][509] (2007 No 28)
     
-    [Parole Amendment Act 2006][520] (2006 No 88)
+    [Parole Amendment Act 2006][517] (2006 No 88)
     
-    Crimes Amendment Act 2005 (2005 No 41): [section 10][448]
+    Crimes Amendment Act 2005 (2005 No 41): [section 10][451]
     
-    [Parole (Extended Supervision) Amendment Act 2004][521] (2004 No 67)
+    [Parole (Extended Supervision) Amendment Act 2004][518] (2004 No 67)
     
     Corrections Act 2004 (2004 No 50): [section 206][237]
     
@@ -4456,7 +4494,7 @@ Commencementsee section 2
     
     Victims' Rights Act 2002 (2002 No 39): [section 53][239]
     
-    Mutual Assistance in Criminal Matters Amendment Act 2002 (2002 No 23): [section 18][398]
+    Mutual Assistance in Criminal Matters Amendment Act 2002 (2002 No 23): [section 18][402]
     
     [Parole Act Commencement Order 2002][224] (SR 2002/177)
 
@@ -4718,269 +4756,266 @@ Commencementsee section 2
 [253]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM225491
 [254]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78279
 [255]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304070
-[256]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM79102
-[257]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM64784
-[258]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM296638
-[259]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78447
-[260]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78450
-[261]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411053
-[262]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411054
-[263]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM404689
-[264]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78460
-[265]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411062
-[266]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78463
-[267]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78466
-[268]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411063
-[269]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304071
-[270]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304072
-[271]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411064
-[272]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1955922
-[273]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78260
-[274]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411065
-[275]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1098399
-[276]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78299
-[277]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411066
-[278]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304074
-[279]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1098400
-[280]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78256
-[281]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78268
-[282]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78264
-[283]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3023016
-[284]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3023017
-[285]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3023018
-[286]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM136499
-[287]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1845346
-[288]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78286
-[289]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78403
-[290]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411067
-[291]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM77998
-[292]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78438
-[293]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM136450
-[294]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM136461
-[295]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM404691
-[296]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411070
-[297]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411071
-[298]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411073
-[299]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78492
-[300]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78502
-[301]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411077
-[302]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1102349
-[303]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM359106
-[304]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411083
-[305]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411085
-[306]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM147087
-[307]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78443
-[308]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411086
-[309]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM158540
-[310]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411087
-[311]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411088
-[312]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411089
-[313]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411090
-[314]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411092
-[315]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304541
-[316]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304542
-[317]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411093
-[318]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411094
-[319]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411095
-[320]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304543
-[321]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78473
-[322]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411096
-[323]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411097
-[324]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1440590
-[325]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1440841
-[326]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1440851
-[327]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1440300
-[328]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM108017
-[329]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1441347
-[330]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1441103
-[331]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1441104
-[332]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1441137
-[333]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78476
-[334]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411099
-[335]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM404695
-[336]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411400
-[337]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411401
-[338]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411402
-[339]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78483
-[340]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411403
-[341]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411404
-[342]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411405
-[343]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304544
-[344]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78499
-[345]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411406
-[346]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM404697
-[347]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304545
-[348]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411407
-[349]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1102245
-[350]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304546
-[351]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1102383
-[352]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411408
-[353]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78506
-[354]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM312910
-[355]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM312911
-[356]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM312919
-[357]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM312951
-[358]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM312952
-[359]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM312961
-[360]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM312962
-[361]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM312974
-[362]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM313119
-[363]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411409
-[364]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78479
-[365]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411410
-[366]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411411
-[367]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411414
-[368]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304076
-[369]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM311373
-[370]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304548
-[371]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304077
-[372]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM77985
-[373]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM136489
-[374]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304550
-[375]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM25627
-[376]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM26740
-[377]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM77992
-[378]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1845347
-[379]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM2836315
-[380]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM301654
-[381]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM102175
-[382]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78205
-[383]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78210
-[384]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78213
-[385]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM223889
-[386]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM295441
-[387]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM154320
-[388]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM152948
-[389]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM223888
-[390]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM224505
-[391]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM224509
-[392]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM224521
-[393]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM313552
-[394]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM26733
-[395]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM64495
-[396]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM274450
-[397]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411451
-[398]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM146256
-[399]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411418
-[400]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM312656
-[401]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM331790
-[402]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM26738
-[403]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM64493
-[404]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM274447
-[405]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411419
-[406]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM76615
-[407]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411420
-[408]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM77974
-[409]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM77191
-[410]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM137206
-[411]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304555
-[412]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304556
-[413]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411421
-[414]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329034
-[415]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329264
-[416]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329270
-[417]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329319
-[418]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329322
-[419]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329371
-[420]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329374
-[421]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329378
-[422]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329389
-[423]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329771
-[424]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM330250
-[425]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM330254
-[426]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM330259
-[427]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304557
-[428]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304079
-[429]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411422
-[430]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM327381
-[431]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329064
-[432]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329070
-[433]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329075
-[434]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329081
-[435]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329085
-[436]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329200
-[437]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329203
-[438]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329212
-[439]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329219
-[440]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329227
-[441]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329232
-[442]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329236
-[443]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329241
-[444]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329781
-[445]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329208
-[446]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329251
-[447]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM312894
-[448]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM346419
-[449]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411423
-[450]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411424
-[451]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM135350
-[452]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411425
-[453]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM311378
-[454]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM311391
-[455]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM311374
-[456]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM331233
-[457]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM295481
-[458]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM68379
-[459]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM68938
-[460]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM68985
-[461]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM310742
-[462]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM311813
-[463]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM314065
-[464]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM314068
-[465]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM314078
-[466]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM314081
-[467]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM314098
-[468]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3360327
-[469]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329051
-[470]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM385031
-[471]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411426
-[472]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3865810
-[473]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM404699
-[474]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411427
-[475]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411428
-[476]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM139637
-[477]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM139638
-[478]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM139648
-[479]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM138872
-[480]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411430
-[481]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411434
-[482]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1942808
-[483]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411435
-[484]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411436
-[485]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411437
-[486]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM331956
-[487]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM252322
-[488]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM71925
-[489]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411438
-[490]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304522
-[491]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411442
-[492]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411443
-[493]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411444
-[494]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304558
-[495]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411445
-[496]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM139157
-[497]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM139159
-[498]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM139161
-[499]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM139167
-[500]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM129109
-[501]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM446000
-[502]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78827
-[503]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78836
-[504]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM403808
-[505]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM25631
-[506]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM108021
-[507]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM63093
-[508]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM365097
-[509]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM274427
-[510]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM65921
-[511]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM359112
-[512]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411030
-[513]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM972250
-[514]: http://www.pco.parliament.govt.nz/reprints/
-[515]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM195439
-[516]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[517]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM195468
-[518]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM195470
-[519]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1942800
-[520]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM404679
-[521]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304060
+[256]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM5340700
+[257]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3360714
+[258]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM64784
+[259]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM296638
+[260]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78447
+[261]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78450
+[262]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411053
+[263]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411054
+[264]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM404689
+[265]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78460
+[266]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411062
+[267]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78463
+[268]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78466
+[269]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411063
+[270]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304071
+[271]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304072
+[272]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411064
+[273]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1955922
+[274]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78260
+[275]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411065
+[276]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1098399
+[277]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78299
+[278]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411066
+[279]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304074
+[280]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1098400
+[281]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78256
+[282]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78268
+[283]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78264
+[284]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3023016
+[285]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3023017
+[286]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3023018
+[287]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM136499
+[288]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1845346
+[289]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78286
+[290]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78403
+[291]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411067
+[292]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM77998
+[293]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78438
+[294]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM136450
+[295]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM136461
+[296]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM404691
+[297]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411070
+[298]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411071
+[299]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411073
+[300]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78492
+[301]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78502
+[302]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411077
+[303]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1102349
+[304]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM359106
+[305]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411083
+[306]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411085
+[307]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM147087
+[308]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78443
+[309]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411086
+[310]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM158540
+[311]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411087
+[312]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411088
+[313]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411089
+[314]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411090
+[315]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411092
+[316]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304541
+[317]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304542
+[318]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411093
+[319]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411094
+[320]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411095
+[321]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304543
+[322]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78473
+[323]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411096
+[324]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411097
+[325]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1440590
+[326]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1440841
+[327]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1440851
+[328]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1440300
+[329]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM108017
+[330]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1441347
+[331]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1441103
+[332]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1441104
+[333]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1441137
+[334]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78476
+[335]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411099
+[336]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM404695
+[337]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411400
+[338]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411401
+[339]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411402
+[340]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78483
+[341]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411403
+[342]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411404
+[343]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411405
+[344]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304544
+[345]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78499
+[346]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411406
+[347]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM404697
+[348]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304545
+[349]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411407
+[350]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1102245
+[351]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304546
+[352]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1102383
+[353]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411408
+[354]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78506
+[355]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3360518
+[356]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3360521
+[357]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3360522
+[358]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3360525
+[359]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3360535
+[360]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3360536
+[361]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3360539
+[362]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3360556
+[363]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3360596
+[364]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3360599
+[365]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411409
+[366]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78479
+[367]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411410
+[368]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411411
+[369]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411414
+[370]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304076
+[371]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM311373
+[372]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304548
+[373]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304077
+[374]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM77985
+[375]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM136489
+[376]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304550
+[377]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM25627
+[378]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM26740
+[379]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM77992
+[380]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1845347
+[381]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM2836315
+[382]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM301654
+[383]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM102175
+[384]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78205
+[385]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78210
+[386]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78213
+[387]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM223889
+[388]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM295441
+[389]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM154320
+[390]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM152948
+[391]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM223888
+[392]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM224505
+[393]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM224509
+[394]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM224521
+[395]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM313552
+[396]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM2185875
+[397]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3360289
+[398]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM26733
+[399]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM64495
+[400]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM274450
+[401]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411451
+[402]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM146256
+[403]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411418
+[404]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3360417
+[405]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM26738
+[406]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM64493
+[407]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM274447
+[408]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411419
+[409]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM76615
+[410]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411420
+[411]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM77974
+[412]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM77191
+[413]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM137206
+[414]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304555
+[415]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304556
+[416]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411421
+[417]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329034
+[418]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329264
+[419]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329270
+[420]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329319
+[421]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329322
+[422]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329371
+[423]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329374
+[424]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329378
+[425]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329389
+[426]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329771
+[427]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM330250
+[428]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM330254
+[429]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM330259
+[430]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304557
+[431]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304079
+[432]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411422
+[433]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM327381
+[434]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329064
+[435]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329070
+[436]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329075
+[437]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329081
+[438]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329085
+[439]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329200
+[440]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329203
+[441]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329212
+[442]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329219
+[443]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329227
+[444]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329232
+[445]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329236
+[446]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329241
+[447]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329781
+[448]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329208
+[449]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329251
+[450]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM312894
+[451]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM346419
+[452]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411423
+[453]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411424
+[454]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM135350
+[455]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411425
+[456]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3359902
+[457]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3360280
+[458]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3360281
+[459]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM331233
+[460]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM295481
+[461]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM68379
+[462]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3360317
+[463]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3360580
+[464]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3360605
+[465]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3360327
+[466]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM329051
+[467]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM385031
+[468]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411426
+[469]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3865810
+[470]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM404699
+[471]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411427
+[472]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411428
+[473]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM139637
+[474]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM139638
+[475]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM139648
+[476]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM138872
+[477]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411430
+[478]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411434
+[479]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1942808
+[480]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411435
+[481]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411436
+[482]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411437
+[483]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM3360366
+[484]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM252322
+[485]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM71925
+[486]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411438
+[487]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304522
+[488]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411442
+[489]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411443
+[490]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411444
+[491]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304558
+[492]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411445
+[493]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM139157
+[494]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM139159
+[495]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM139161
+[496]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM139167
+[497]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM129109
+[498]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM446000
+[499]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78827
+[500]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM78836
+[501]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM403808
+[502]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM25631
+[503]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM108021
+[504]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM63093
+[505]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM365097
+[506]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM274427
+[507]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM65921
+[508]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM359112
+[509]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM411030
+[510]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM972250
+[511]: http://www.pco.parliament.govt.nz/reprints/
+[512]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM195439
+[513]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[514]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM195468
+[515]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM195470
+[516]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM1942800
+[517]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM404679
+[518]: http://www.legislation.govt.nz/act/public/2002/0010/latest/link.aspx?id=DLM304060
