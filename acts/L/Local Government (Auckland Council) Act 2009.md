@@ -1,5 +1,5 @@
 Reprint  
-as at 13 June 2013
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1982,15 +1982,17 @@ Water supply and wastewater services for Auckland
     
 *   (1) An Auckland water organisation that fails to comply with any of [sections 65][93], [66][94], and [69][97] commits an offence.
     
-    (2) An Auckland water organisation that commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $10,000\.
+    (2) An Auckland water organisation that commits an offence against subsection (1) is liable on conviction to a fine not exceeding $10,000\.
     
     (3) In addition to any penalty imposed under subsection (2), a court may make any order relating to compensation that it thinks fit.
     
     Section 74: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    
+    Section 74(2): amended, on 1 July 2013, by [section 413][297] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 75 Offences relating to carrying out work on water supply or wastewater assets of Auckland water organisation without notice
     
-*   (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $20,000 who wilfully or negligently carries out work on, or in relation to, a water supply or wastewater asset of an Auckland water organisation that is not a local authority without first---
+*   (1) Every person commits an offence and is liable on conviction to a fine not exceeding $20,000 who wilfully or negligently carries out work on, or in relation to, a water supply or wastewater asset of an Auckland water organisation that is not a local authority without first---
         
     *   (a) notifying the organisation of the intention to carry out the work; and
     
@@ -2017,6 +2019,8 @@ Water supply and wastewater services for Auckland
     (4) A person who commits an offence under this section may, in addition to or instead of the penalty for the offence, be ordered to pay the cost incurred by the Auckland water organisation in repairing the damage done to the water supply or wastewater asset by the offence.
     
     Section 75: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    
+    Section 75(1): amended, on 1 July 2013, by [section 413][297] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 76 Offences relating to damage to water supply or wastewater assets of Auckland water organisation
     
@@ -2032,11 +2036,15 @@ Water supply and wastewater services for Auckland
     
     *   (e) anything forming part of, or connected with, any water supply or wastewater work or property not referred to in paragraphs (a) to (d).
     
-    (2) Every person commits an offence who wilfully destroys, damages, stops, obstructs, or interferes with a work or property and is liable on conviction on indictment to imprisonment for a term not exceeding 3 years or to a fine not exceeding $20,000, or to both.
+    (2) Every person commits an offence who wilfully destroys, damages, stops, obstructs, or interferes with a work or property and is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $20,000, or to both.
     
-    (3) Every person commits an offence who negligently destroys, damages, stops, obstructs, or interferes with a work or property and is liable on summary conviction to a fine not exceeding $20,000\.
+    (3) Every person commits an offence who negligently destroys, damages, stops, obstructs, or interferes with a work or property and is liable on conviction to a fine not exceeding $20,000\.
     
     Section 76: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+    
+    Section 76(2): amended, on 1 July 2013, by [section 413][297] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 76(3): amended, on 1 July 2013, by [section 413][297] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 77 Liability for damage by wilful or negligent behaviour towards water supply or wastewater work
     
@@ -2056,7 +2064,7 @@ Water supply and wastewater services for Auckland
 
 ##### 78 Council must consult other Auckland water organisations when assessing water and other sanitary services
     
-*   (1) Subsection (2) applies to the Council when carrying out its duty under [section 125][297] of the Local Government Act 2002 to assess the provision within Auckland of water and other sanitary services.
+*   (1) Subsection (2) applies to the Council when carrying out its duty under [section 125][298] of the Local Government Act 2002 to assess the provision within Auckland of water and other sanitary services.
     
     (2) The Council must consult each Auckland water organisation that is not a local authority in making its assessment.
     
@@ -2166,7 +2174,7 @@ Board promoting issues of significance for mana whenua groups and mataawaka of T
         
         
     
-    *   (b) ensuring that the Council acts in accordance with statutory provisions referring to the [Treaty of Waitangi][298].
+    *   (b) ensuring that the Council acts in accordance with statutory provisions referring to the [Treaty of Waitangi][299].
     
     Section 81: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
@@ -2258,7 +2266,7 @@ Board promoting issues of significance for mana whenua groups and mataawaka of T
         
     *   (a) is known to the board because the Auckland Council provided it to the board; and
     
-    *   (b) is information that the Auckland Council would consider withholding under the [Local Government Official Information and Meetings Act 1987][233] or the [Privacy Act 1993][299] if the Council received a request for it.
+    *   (b) is information that the Auckland Council would consider withholding under the [Local Government Official Information and Meetings Act 1987][233] or the [Privacy Act 1993][300] if the Council received a request for it.
     
     (2) When the board is deciding whether subsection (1)(b) applies to information that the Council provided to the board, it must make its decision on reasonable grounds.
     
@@ -2278,7 +2286,7 @@ Board promoting issues of significance for mana whenua groups and mataawaka of T
     
     *   (d) take into account the board's advice on other matters:
     
-    *   (e) make an agreement under [clause 20][300] of Schedule 2 every year to provide the board with the funding it needs to carry out its purpose:
+    *   (e) make an agreement under [clause 20][301] of Schedule 2 every year to provide the board with the funding it needs to carry out its purpose:
     
     *   (f) work with the board on the design and execution of documents and processes that relate to seeking the input of mana whenua groups and mataawaka of Tamaki Makaurau.
     
@@ -2511,7 +2519,7 @@ Miscellaneous
 
 ##### 100 Development contributions for transport infrastructure
     
-*   (1) The Council may include in a policy under [section 106][301] of the Local Government Act 2002 a requirement for development contributions to fund the Council's contribution to the total cost of capital expenditure by Auckland Transport.
+*   (1) The Council may include in a policy under [section 106][302] of the Local Government Act 2002 a requirement for development contributions to fund the Council's contribution to the total cost of capital expenditure by Auckland Transport.
     
     (2) Subsection (1) applies only if the capital expenditure is capital expenditure that could be funded by development contributions if it were incurred by the Council itself.
     
@@ -2521,7 +2529,7 @@ Miscellaneous
     
     *   (b) the capital expenditure were to be undertaken by the Council.
     
-    (4) [Subpart 5][302] of Part 8 of the Local Government Act 2002 applies, with any necessary modifications, to development contributions authorised by subsection (1).
+    (4) [Subpart 5][303] of Part 8 of the Local Government Act 2002 applies, with any necessary modifications, to development contributions authorised by subsection (1).
     
     (5) This section applies despite anything to the contrary in the [Local Government Act 2002][156].
     
@@ -2529,7 +2537,7 @@ Miscellaneous
 
 ##### 101 Development contributions for assets managed by other parties
     
-*   (1) The powers of the Council to require development contributions under [subpart 5][302] of Part 8 of the Local Government Act 2002 are not affected by any arrangements it has for another person or organisation to manage---
+*   (1) The powers of the Council to require development contributions under [subpart 5][303] of Part 8 of the Local Government Act 2002 are not affected by any arrangements it has for another person or organisation to manage---
         
     *   (a) reserves:
     
@@ -2547,7 +2555,7 @@ Miscellaneous
 
 ##### 102 Prohibition on establishment of community boards
     
-*   Despite [section 49][303] of the Local Government Act 2002, no community board may be established for any community within Auckland.
+*   Despite [section 49][304] of the Local Government Act 2002, no community board may be established for any community within Auckland.
     
     Section 102: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
@@ -2557,7 +2565,7 @@ Miscellaneous
 
 ##### 103 Review of representation arrangements under Local Electoral Act 2001
     
-*   (1) For the purposes of [section 19H(2)][304] of the Local Electoral Act 2001, the Council must make---
+*   (1) For the purposes of [section 19H(2)][305] of the Local Electoral Act 2001, the Council must make---
         
     *   (a) its first determination no earlier than after the completion of the 2013 triennial general elections but no later than 8 September 2018; and
     
@@ -2565,7 +2573,7 @@ Miscellaneous
     
     (2) However, if Auckland is required to be divided into 1 or more Māori wards for the purposes of the 2013 triennial general elections, the Council must make its first determination no later than 8 September 2012 and subsequent determinations at least once in every period of 6 years after that first determination.
     
-    (3) For the purposes of any review, the [Local Electoral Act 2001][164] applies with any necessary modifications and as if the following paragraphs were added to [section 19H(1)][304] of that Act:
+    (3) For the purposes of any review, the [Local Electoral Act 2001][164] applies with any necessary modifications and as if the following paragraphs were added to [section 19H(1)][305] of that Act:
     
     > *   "(e) whether a local board area should be subdivided for electoral purposes or, as the case may be, whether it should continue to be subdivided for electoral purposes; and
     > 
@@ -2595,11 +2603,11 @@ Miscellaneous
     
 *   (1) The Auditor-General must, from time to time, review the service performance of the Council and each of its council-controlled organisations.
     
-    (2) [Part 4][305] of the Public Audit Act 2001 applies to a review.
+    (2) [Part 4][306] of the Public Audit Act 2001 applies to a review.
     
-    (3) The Auditor-General may charge the Council for undertaking a review under this section and, for that purpose, [section 42(2) to (5)][306] of the Public Audit Act 2001 applies with any necessary modifications.
+    (3) The Auditor-General may charge the Council for undertaking a review under this section and, for that purpose, [section 42(2) to (5)][307] of the Public Audit Act 2001 applies with any necessary modifications.
     
-    (4) Nothing in this section limits or affects the powers of the Auditor-General under the [Public Audit Act 2001][307].
+    (4) Nothing in this section limits or affects the powers of the Auditor-General under the [Public Audit Act 2001][308].
     
     Section 104: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
@@ -2619,19 +2627,19 @@ Miscellaneous
 
 ##### 106 Representation on port company board
     
-*   For the purposes of [section 6(1)(b)][308] of the Port Companies Act 1988, any council-controlled organisation of the Auckland Council that holds equity securities in a port company (within the meaning of that Act) must be treated as if it were a regional council.
+*   For the purposes of [section 6(1)(b)][309] of the Port Companies Act 1988, any council-controlled organisation of the Auckland Council that holds equity securities in a port company (within the meaning of that Act) must be treated as if it were a regional council.
     
     Section 106: added, on 1 November 2010, by [section 31][237] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 #### Borrowing in foreign currency
     
-*   Heading: added, on 20 September 2011, by [section 4][309] of the Local Government (Auckland Council) Amendment Act 2011 (2011 No 78).
+*   Heading: added, on 20 September 2011, by [section 4][310] of the Local Government (Auckland Council) Amendment Act 2011 (2011 No 78).
 
 ##### 107 Borrowing in foreign currency
     
-*   Despite [section 113][310] of the Local Government Act 2002, the Auckland Council may borrow or enter into incidental arrangements, within or outside New Zealand, in currency other than New Zealand currency.
+*   Despite [section 113][311] of the Local Government Act 2002, the Auckland Council may borrow or enter into incidental arrangements, within or outside New Zealand, in currency other than New Zealand currency.
     
-    Section 107: added, on 20 September 2011, by [section 4][309] of the Local Government (Auckland Council) Amendment Act 2011 (2011 No 78).
+    Section 107: added, on 20 September 2011, by [section 4][310] of the Local Government (Auckland Council) Amendment Act 2011 (2011 No 78).
 
 ---
 
@@ -2694,7 +2702,7 @@ Matters to be addressed by Local Government Commission when making determination
 
 ##### 4 No compensation payable if responsibility transferred
     
-*   Unless [clause 5][311] applies, if provision is made in the determination for a responsibility to be transferred to, or assumed by, a local authority, provision may not be made for the payment of compensation to the local authority from which that responsibility is transferred or assumed.
+*   Unless [clause 5][312] applies, if provision is made in the determination for a responsibility to be transferred to, or assumed by, a local authority, provision may not be made for the payment of compensation to the local authority from which that responsibility is transferred or assumed.
 
 ##### 5 Payment if undertaking transfer
     
@@ -2713,13 +2721,13 @@ Provisions relating to board promoting issues of significance for mana whenua gr
 
 [s 89][123]
 
-*   Schedule 2: added, on 1 November 2010, by [section 32][312] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
+*   Schedule 2: added, on 1 November 2010, by [section 32][313] of the Local Government (Auckland Council) Amendment Act 2010 (2010 No 36).
 
 #### Appointment to membership and cessation of membership
 
 ##### 1 Board's membership
     
-*   (1) The board consists of 9 members appointed under [clauses 5 to 8][313].
+*   (1) The board consists of 9 members appointed under [clauses 5 to 8][314].
     
     (2) The membership is composed of---
         
@@ -2731,7 +2739,7 @@ Provisions relating to board promoting issues of significance for mana whenua gr
 
 ##### 2 Selection body's establishment and function
     
-*   (1) A selection body is established when the persons chosen as mana whenua group representatives under [clause 4][314] meet for the first time.
+*   (1) A selection body is established when the persons chosen as mana whenua group representatives under [clause 4][315] meet for the first time.
     
     (2) If a person on the selection body tells the Minister of Māori Affairs that he or she resigns, the Minister must notify the mana whenua group that nominated the person and ask the group to nominate a replacement.
     
@@ -2779,9 +2787,9 @@ Provisions relating to board promoting issues of significance for mana whenua gr
     
     *   (b) a person who is an undischarged bankrupt:
     
-    *   (c) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Companies Act 1993][315], or the [Securities Act 1978][316], or the [Securities Markets Act 1988][317], or the [Takeovers Act 1993][318]:
+    *   (c) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Companies Act 1993][316], or the [Securities Act 1978][317], or the [Securities Markets Act 1988][318], or the [Takeovers Act 1993][319]:
     
-    *   (d) a person who is subject to a property order under the [Protection of Personal and Property Rights Act 1988][319]:
+    *   (d) a person who is subject to a property order under the [Protection of Personal and Property Rights Act 1988][320]:
     
     *   (e) a person in respect of whom a personal order has been made under that Act that reflects adversely on the person's---
             
@@ -2813,7 +2821,7 @@ Provisions relating to board promoting issues of significance for mana whenua gr
     
     *   (c) requires the body to take into account the views of mataawaka when choosing the representatives.
     
-    (3) The selection body must apply [clause 5][313] when choosing the 2 mataawaka representatives.
+    (3) The selection body must apply [clause 5][314] when choosing the 2 mataawaka representatives.
 
 ##### 7 Selection body chooses mana whenua group representatives for board
     
@@ -2821,13 +2829,13 @@ Provisions relating to board promoting issues of significance for mana whenua gr
     
     (2) The selection body may choose people on the selection body for the board.
     
-    (3) The selection body must apply [clause 5][313] when choosing the 7 mana whenua group representatives.
+    (3) The selection body must apply [clause 5][314] when choosing the 7 mana whenua group representatives.
 
 ##### 8 Process for appointing members
     
 *   (1) A person whom the selection body is proposing to appoint to the board must give a written certificate to the selection body stating that the person---
         
-    *   (a) is not disqualified under [clause 5(2)][313]; and
+    *   (a) is not disqualified under [clause 5(2)][314]; and
     
     *   (b) consents to being appointed to the board.
     
@@ -2851,9 +2859,9 @@ Provisions relating to board promoting issues of significance for mana whenua gr
     
     (2) A member of the board remains a member until the earliest of the following:
         
-    *   (a) he or she becomes disqualified under [clause 5(2)][313]:
+    *   (a) he or she becomes disqualified under [clause 5(2)][314]:
     
-    *   (b) he or she is removed under [clause 10][320]:
+    *   (b) he or she is removed under [clause 10][321]:
     
     *   (c) his or her term of office ends:
     
@@ -2867,9 +2875,9 @@ Provisions relating to board promoting issues of significance for mana whenua gr
     
     *   (b) the Minister of Māori Affairs.
     
-    (4) If a member of the board dies or resigns or is removed under [clause 10][320], the selection body must appoint a replacement member in the manner described in whichever of [clause 6][321] or [7][322] applies.
+    (4) If a member of the board dies or resigns or is removed under [clause 10][321], the selection body must appoint a replacement member in the manner described in whichever of [clause 6][322] or [7][323] applies.
     
-    (5) However, if the member dies or resigns or is removed under [clause 10][320] less than 12 months before polling day for the next election of the Auckland Council, the remaining members of the board may choose not to have a replacement member appointed before polling day.
+    (5) However, if the member dies or resigns or is removed under [clause 10][321] less than 12 months before polling day for the next election of the Auckland Council, the remaining members of the board may choose not to have a replacement member appointed before polling day.
     
     (6) A replacement member's term of office is the uncompleted term of the member he or she replaces.
     
@@ -3027,7 +3035,7 @@ Provisions relating to board promoting issues of significance for mana whenua gr
 
 ##### 18 Expenses
     
-*   A member of the board is entitled, in accordance with the fees framework (as defined in [section 10(1)][323] of the Crown Entities Act 2004), to be reimbursed for actual and reasonable travelling and other expenses incurred in performing his or her functions and duties as a member.
+*   A member of the board is entitled, in accordance with the fees framework (as defined in [section 10(1)][324] of the Crown Entities Act 2004), to be reimbursed for actual and reasonable travelling and other expenses incurred in performing his or her functions and duties as a member.
 
 ##### 19 Liabilities
     
@@ -3051,9 +3059,9 @@ Provisions relating to board promoting issues of significance for mana whenua gr
     
     (4) The agreement must include---
         
-    *   (a) the fees payable to the board's members under [clause 17][324]; and
+    *   (a) the fees payable to the board's members under [clause 17][325]; and
     
-    *   (b) provision for payment of reasonable expenses under [clause 18][325].
+    *   (b) provision for payment of reasonable expenses under [clause 18][326].
     
     (5) The board and the Council must negotiate the agreement in good faith.
     
@@ -3103,9 +3111,9 @@ Provisions relating to board promoting issues of significance for mana whenua gr
 
 ##### 23 Obligation to disclose interest
     
-*   (1) A member who is interested in a matter relating to the board must disclose details of the interest in accordance with [clause 24][326] as soon as practicable after the member becomes aware that he or she is interested.
+*   (1) A member who is interested in a matter relating to the board must disclose details of the interest in accordance with [clause 24][327] as soon as practicable after the member becomes aware that he or she is interested.
     
-    (2) A general notice of an interest in a matter relating to the board, or in a matter that may in future relate to the board, that is disclosed in accordance with [clause 24][326] is a standing disclosure of that interest for the purposes of this clause.
+    (2) A general notice of an interest in a matter relating to the board, or in a matter that may in future relate to the board, that is disclosed in accordance with [clause 24][327] is a standing disclosure of that interest for the purposes of this clause.
     
     (3) A standing disclosure ceases to have effect if the nature of the interest materially alters or the extent of the interest materially increases.
 
@@ -3121,7 +3129,7 @@ Provisions relating to board promoting issues of significance for mana whenua gr
 
 ##### 25 What must be disclosed
     
-*   The details that must be disclosed under [clause 24][326] are---
+*   The details that must be disclosed under [clause 24][327] are---
         
     *   (a) the nature of the interest and the monetary value of the interest (if the monetary value can be quantified); or 
     
@@ -3143,7 +3151,7 @@ Provisions relating to board promoting issues of significance for mana whenua gr
 
 ##### 27 Permission to act despite being interested in matter
     
-*   (1) The chairperson of the board may, by prior written notice to the board, permit 1 or more members, or members with a specified class of interest, to do anything otherwise prohibited by [clause 26][327] if the chairperson is satisfied that it is in the public interest to do so.
+*   (1) The chairperson of the board may, by prior written notice to the board, permit 1 or more members, or members with a specified class of interest, to do anything otherwise prohibited by [clause 26][328] if the chairperson is satisfied that it is in the public interest to do so.
     
     (2) The permission may state conditions that the member must comply with.
     
@@ -3201,7 +3209,7 @@ Provisions relating to board promoting issues of significance for mana whenua gr
 
 ##### 31 Revocation of delegations 
     
-*   A delegation under [clause 28][328] may be revoked at will by---
+*   A delegation under [clause 28][329] may be revoked at will by---
         
     *   (a) resolution of the board and written notice to the delegate; or
     
@@ -3225,9 +3233,9 @@ Provisions relating to board promoting issues of significance for mana whenua gr
     
     (3) The board must publish the report and provide copies to the Auckland Council and the selection body.
     
-    (4) The obligations of the board under the [Public Finance Act 1989][329] are the responsibility of the members of the board.
+    (4) The obligations of the board under the [Public Finance Act 1989][330] are the responsibility of the members of the board.
     
-    (5) The board is a public entity as defined in [section 5][330] of the Public Audit Act 2001\. 
+    (5) The board is a public entity as defined in [section 5][331] of the Public Audit Act 2001\. 
 
 #### Servicing
 
@@ -3293,23 +3301,23 @@ Provisions relating to board promoting issues of significance for mana whenua gr
 
 ###### 1 General
     
-*   This is a reprint of the Local Government (Auckland Council) Act 2009\. The reprint incorporates all the amendments to the Act as at 13 June 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Local Government (Auckland Council) Act 2009\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][331] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][332] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][332] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][333] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][333] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][334] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][334] and [17E][335] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][335] and [17E][336] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -3342,15 +3350,17 @@ Provisions relating to board promoting issues of significance for mana whenua gr
     
 *   Land Transport Management Amendment Act 2013 (2013 No 35): [section 72][197]
     
-    [Local Government (Auckland Council) Amendment Act 2012][336] (2012 No 108)
+    [Local Government (Auckland Council) Amendment Act 2012][337] (2012 No 108)
     
     Local Government Act 2002 Amendment Act 2012 (2012 No 93): [section 43][175]
     
-    [Local Government (Auckland Council) Amendment Act 2011][337] (2011 No 78)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][297]
+    
+    [Local Government (Auckland Council) Amendment Act 2011][338] (2011 No 78)
     
     Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(3)][267]
     
-    [Local Government (Auckland Council) Amendment Act 2010][338] (2010 No 36)
+    [Local Government (Auckland Council) Amendment Act 2010][339] (2010 No 36)
     
     Local Government Act 2002 Amendment Act 2010 (2010 No 24): [section 50][162]
 
@@ -3653,45 +3663,46 @@ Provisions relating to board promoting issues of significance for mana whenua gr
 [294]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM132218
 [295]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM132224
 [296]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM131393
-[297]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM172925
-[298]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM435834
-[299]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM296638
-[300]: http://www.legislation.govt.nz/act/public/2009/0032/latest/whole.html#DLM3338724
-[301]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM172364
-[302]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM173498
-[303]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM171868
-[304]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM93477
-[305]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM88908
-[306]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM88936
-[307]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM88540
-[308]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM132142
-[309]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3989907
-[310]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM172393
-[311]: http://www.legislation.govt.nz/act/public/2009/0032/latest/whole.html#DLM2286719
-[312]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016183
-[313]: http://www.legislation.govt.nz/act/public/2009/0032/latest/whole.html#DLM3338705
-[314]: http://www.legislation.govt.nz/act/public/2009/0032/latest/whole.html#DLM3338704
-[315]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM319569
-[316]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM25999
-[317]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM139726
-[318]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM325508
-[319]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM126527
-[320]: http://www.legislation.govt.nz/act/public/2009/0032/latest/whole.html#DLM3338710
-[321]: http://www.legislation.govt.nz/act/public/2009/0032/latest/whole.html#DLM3338706
-[322]: http://www.legislation.govt.nz/act/public/2009/0032/latest/whole.html#DLM3338707
-[323]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM329649
-[324]: http://www.legislation.govt.nz/act/public/2009/0032/latest/whole.html#DLM3338721
-[325]: http://www.legislation.govt.nz/act/public/2009/0032/latest/whole.html#DLM3338722
-[326]: http://www.legislation.govt.nz/act/public/2009/0032/latest/whole.html#DLM3338731
-[327]: http://www.legislation.govt.nz/act/public/2009/0032/latest/whole.html#DLM3338733
-[328]: http://www.legislation.govt.nz/act/public/2009/0032/latest/whole.html#DLM3338736
-[329]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM160808
-[330]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM88578
-[331]: http://www.pco.parliament.govt.nz/reprints/
-[332]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM195439
-[333]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[334]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM195468
-[335]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM195470
-[336]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM4990404
-[337]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3989902
-[338]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016016
+[297]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3360714
+[298]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM172925
+[299]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM435834
+[300]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM296638
+[301]: http://www.legislation.govt.nz/act/public/2009/0032/latest/whole.html#DLM3338724
+[302]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM172364
+[303]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM173498
+[304]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM171868
+[305]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM93477
+[306]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM88908
+[307]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM88936
+[308]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM88540
+[309]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM132142
+[310]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3989907
+[311]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM172393
+[312]: http://www.legislation.govt.nz/act/public/2009/0032/latest/whole.html#DLM2286719
+[313]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016183
+[314]: http://www.legislation.govt.nz/act/public/2009/0032/latest/whole.html#DLM3338705
+[315]: http://www.legislation.govt.nz/act/public/2009/0032/latest/whole.html#DLM3338704
+[316]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM319569
+[317]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM25999
+[318]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM139726
+[319]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM325508
+[320]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM126527
+[321]: http://www.legislation.govt.nz/act/public/2009/0032/latest/whole.html#DLM3338710
+[322]: http://www.legislation.govt.nz/act/public/2009/0032/latest/whole.html#DLM3338706
+[323]: http://www.legislation.govt.nz/act/public/2009/0032/latest/whole.html#DLM3338707
+[324]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM329649
+[325]: http://www.legislation.govt.nz/act/public/2009/0032/latest/whole.html#DLM3338721
+[326]: http://www.legislation.govt.nz/act/public/2009/0032/latest/whole.html#DLM3338722
+[327]: http://www.legislation.govt.nz/act/public/2009/0032/latest/whole.html#DLM3338731
+[328]: http://www.legislation.govt.nz/act/public/2009/0032/latest/whole.html#DLM3338733
+[329]: http://www.legislation.govt.nz/act/public/2009/0032/latest/whole.html#DLM3338736
+[330]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM160808
+[331]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM88578
+[332]: http://www.pco.parliament.govt.nz/reprints/
+[333]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM195439
+[334]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[335]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM195468
+[336]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM195470
+[337]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM4990404
+[338]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3989902
+[339]: http://www.legislation.govt.nz/act/public/2009/0032/latest/link.aspx?id=DLM3016016
