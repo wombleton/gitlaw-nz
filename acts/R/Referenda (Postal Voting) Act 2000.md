@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1583,7 +1583,7 @@ Offences
 
 ##### 64 Rolls
     
-*   (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,000---
+*   (1) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000---
         
     *   (a) who removes a copy of a printed preliminary referendum roll from any place where it is kept under [section 17(1) or (3)][23], except for the purpose of returning it to the Registrar for the district; or
     
@@ -1591,7 +1591,7 @@ Offences
     
     *   (c) who fails, without reasonable excuse, to comply with [section 18(4)][24].
     
-    (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $50,000---
+    (2) Every person commits an offence and is liable on conviction to a fine not exceeding $50,000---
         
     *   (a) who knowingly copies the whole or any part of a copy of a printed preliminary referendum roll; or
     
@@ -1609,21 +1609,31 @@ Offences
     
     *   (d) who fails, without reasonable excuse, to comply with [section 27(2)][34].
     
-    (3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $100,000 who, except for the purposes of the referendum, knowingly copies, supplies, receives, or uses---
+    (3) Every person commits an offence and is liable on conviction to a fine not exceeding $100,000 who, except for the purposes of the referendum, knowingly copies, supplies, receives, or uses---
         
     *   (a) the whole or any part of an unprinted preliminary referendum roll, the referendum roll, or the supplementary referendum roll, including any mark made under any of [sections 26(6)][33], [34(3)(b)][43], [35(5)][44], or [42(2)(b)][53]; or
     
     *   (b) the whole or any part of any copy of an unprinted preliminary referendum roll, the referendum roll, or the supplementary referendum roll, including any mark made under any of [sections 26(6)][33], [34(3)(b)][43], [35(5)][44], or [42(2)(b)][53].
     
     Compare: 1997 No 13 [s 50][228]
+    
+    Section 64(1): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 64(2): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 64(3): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 65 Official publicity campaign
     
-*   (1) Every person who knowingly copies, supplies, receives, or uses any information supplied under [section 28(1)][35] or (3), except for the purposes of the official publicity campaign, commits an offence and is liable on summary conviction to a fine not exceeding $100,000\.
+*   (1) Every person who knowingly copies, supplies, receives, or uses any information supplied under [section 28(1) or (3)][35], except for the purposes of the official publicity campaign, commits an offence and is liable on conviction to a fine not exceeding $100,000\.
     
-    (2) Every person who fails, without reasonable excuse, to comply with [section 28(4) or (5)][35]commits an offence and is liable on summary conviction to a fine not exceeding $50,000\.
+    (2) Every person who fails, without reasonable excuse, to comply with [section 28(4) or (5)][35]commits an offence and is liable on conviction to a fine not exceeding $50,000\.
     
-    Compare: 1997 No 13 [s 51][229]
+    Compare: 1997 No 13 [s 51][230]
+    
+    Section 65(1): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 65(2): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 66 Influencing electors generally
     
@@ -1633,7 +1643,7 @@ Offences
     
     *   (b) that is or purports to be an imitation of the voting paper and that has on it any matter likely to influence any vote.
     
-    (2) Every such person commits an offence and is liable on summary conviction to a fine not exceeding $5,000\.
+    (2) Every such person commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
     (3) Nothing in this section applies to anything said or done---
         
@@ -1649,13 +1659,17 @@ Offences
         
         
     
-    Compare: 1997 No 13 [s 52][230]
+    Compare: 1997 No 13 [s 52][231]
+    
+    Section 66(2): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 67 Advertisers
     
-*   Every person to whom [section 51][64] applies commits an offence and is liable on summary conviction to a fine not exceeding $20,000 who fails, without reasonable excuse, to comply with that section.
+*   Every person to whom [section 51][64] applies commits an offence and is liable on conviction to a fine not exceeding $20,000 who fails, without reasonable excuse, to comply with that section.
     
-    Compare: 1997 No 13 [s 53][231]
+    Compare: 1997 No 13 [s 53][232]
+    
+    Section 67: amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 68 Voting papers
     
@@ -1675,7 +1689,7 @@ Offences
         
         
     
-    (2) Every person who commits an offence against this section is liable on conviction on indictment,---
+    (2) Every person who commits an offence against this section is liable on conviction,---
         
     *   (a) if the Returning Officer, or any person employed or engaged under [section 9][12], or any person acting under a delegation under [section 11][14], to imprisonment for a term not exceeding 2 years:
     
@@ -1683,7 +1697,9 @@ Offences
     
     (3) Every person who commits an offence against this section is guilty of a corrupt practice for the purposes of the [Electoral Act 1993][132].
     
-    Compare: 1997 No 13 [s 54][232]
+    Compare: 1997 No 13 [s 54][233]
+    
+    Section 68(2): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 69 Bribery by any person at any time
     
@@ -1751,7 +1767,7 @@ Offences
     
     (6) Every person who commits the offence of bribery is guilty of a corrupt practice for the purposes of the [Electoral Act 1993][132].
     
-    Compare: 1997 No 13 [ss 55(1), (4), (5)][233], [56][234]
+    Compare: 1997 No 13 [ss 55(1), (4), (5)][234], [56][235]
 
 ##### 70 Bribery by any person after voting period
     
@@ -1769,7 +1785,7 @@ Offences
     
     (3) Every person who commits the offence of bribery is guilty of a corrupt practice for the purposes of the [Electoral Act 1993][132].
     
-    Compare: 1997 No 13 [s 55(4), (5)][233]
+    Compare: 1997 No 13 [s 55(4), (5)][234]
 
 ##### 71 Bribery by elector before or during voting period
     
@@ -1791,7 +1807,7 @@ Offences
     
     (4) Every elector who commits the offence of bribery is guilty of a corrupt practice for the purposes of the [Electoral Act 1993][132].
     
-    Compare: 1997 No 13 [ss 55(3), (5)][233], [56][234]
+    Compare: 1997 No 13 [ss 55(3), (5)][234], [56][235]
 
 ##### 72 Treating
     
@@ -1809,7 +1825,7 @@ Offences
     
     *   (c) on his or her own or through another person.
     
-    (3) Every person who is the holder of a licence for the retail sale of liquor (within the meaning of the [Sale of Liquor Act 1989][235]) commits the offence of treating who, before or during the voting period, knowingly supplies any food, drink, entertainment, or provision---
+    (3) Every person who is the holder of a licence for the retail sale of liquor (within the meaning of the [Sale of Liquor Act 1989][236]) commits the offence of treating who, before or during the voting period, knowingly supplies any food, drink, entertainment, or provision---
         
     *   (a) to any person when the supply is demanded for the purpose of treating; or
     
@@ -1819,7 +1835,7 @@ Offences
     
     (5) Every person who commits the offence of treating is guilty of a corrupt practice for the purposes of the [Electoral Act 1993][132].
     
-    Compare: 1997 No 13 [s 57][236]
+    Compare: 1997 No 13 [s 57][237]
 
 ##### 73 Undue influence
     
@@ -1845,17 +1861,17 @@ Offences
     
     (4) Every person who commits the offence of undue influence is guilty of a corrupt practice for the purposes of the [Electoral Act 1993][132].
     
-    Compare: 1997 No 13 [s 58][237]
+    Compare: 1997 No 13 [s 58][238]
 
 ##### 74 Voting
     
-*   (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who---
+*   (1) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who---
         
     *   (a) is present in accordance with [section 38(3)][48] when a voter votes; and
     
     *   (b) communicates at any time to any person any information obtained as to the response for which the voter is about to vote or has voted.
     
-    (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $5,000---
+    (2) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000---
         
     *   (a) who---
             
@@ -1867,9 +1883,15 @@ Offences
     
     *   (b) who does not mark the voting paper in accordance with the voter's instructions.
     
-    (3) Every person who, except for a lawful purpose, interferes with or attempts to interfere with a voter marking his or her voting paper at the referendum commits an offence and is liable on summary conviction to a fine not exceeding $5,000\.
+    (3) Every person who, except for a lawful purpose, interferes with or attempts to interfere with a voter marking his or her voting paper at the referendum commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
-    Compare: 1997 No 13 [s 59][238]
+    Compare: 1997 No 13 [s 59][239]
+    
+    Section 74(1): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 74(2): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 74(3): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 75 Personation
     
@@ -1885,13 +1907,13 @@ Offences
     
     (3) Every person who commits, or aids, abets, counsels, or procures the commission of, the offence of personation is guilty of a corrupt practice for the purposes of the [Electoral Act 1993][132].
     
-    Compare: 1997 No 13 [s 60][239]
+    Compare: 1997 No 13 [s 60][240]
 
 ##### 76 Processing
     
-*   (1) Every person who, without the express authorisation of the Returning Officer, enters the office of the Returning Officer or any other premises when the sign referred to in [section 45(1)(b)][56] is in place commits an offence and is liable on summary conviction to a fine not exceeding $2,000\.
+*   (1) Every person who, without the express authorisation of the Returning Officer, enters the office of the Returning Officer or any other premises when the sign referred to in [section 45(1)(b)][56] is in place commits an offence and is liable on conviction to a fine not exceeding $2,000\.
     
-    (2) If the Returning Officer, or a person acting under a delegation under [section 11(1)][14], fails to take all reasonable steps as required by [section 45(2)][56], with the result that any returned voting paper is removed from his or her custody, he or she commits an offence and is liable on summary conviction to a fine not exceeding $2,000\.
+    (2) If the Returning Officer, or a person acting under a delegation under [section 11(1)][14], fails to take all reasonable steps as required by [section 45(2)][56], with the result that any returned voting paper is removed from his or her custody, he or she commits an offence and is liable on conviction to a fine not exceeding $2,000\.
     
     (3) Every person commits an offence who is present at the processing of voting papers and---
         
@@ -1901,7 +1923,11 @@ Offences
     
     (4) Every person who commits an offence against subsection (3) is guilty of a corrupt practice for the purposes of the [Electoral Act 1993][132].
     
-    Compare: 1997 No 13 [s 61][240]
+    Compare: 1997 No 13 [s 61][241]
+    
+    Section 76(1): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 76(2): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Miscellaneous
 
@@ -1909,7 +1935,7 @@ Offences
     
 *   In any prosecution for an offence in relation to any voting paper or any envelope containing any voting paper, the property in the voting paper or envelope may be stated as being in the Returning Officer.
     
-    Compare: 1997 No 13 [s 62][241]
+    Compare: 1997 No 13 [s 62][242]
 
 ## Part 8  
 Miscellaneous provisions
@@ -1940,7 +1966,7 @@ Miscellaneous provisions
     
     *   (d) to make such other provision for the case as the Governor-General thinks fit.
     
-    Compare: 1997 No 13 [s 63][242]
+    Compare: 1997 No 13 [s 63][243]
 
 ##### 79 Two or more referenda
     
@@ -1962,15 +1988,15 @@ Miscellaneous provisions
     
     *   (f) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
     
-    (2) Rules of court may be made in the manner prescribed by the [Judicature Act 1908][243] for the purposes of this Part.
+    (2) Rules of court may be made in the manner prescribed by the [Judicature Act 1908][244] for the purposes of this Part.
     
-    Compare: 1997 No 13 [s 65][244]
+    Compare: 1997 No 13 [s 65][245]
 
 ##### 81 Enactments amended
     
 *   The enactments specified in [Schedule 2][128] are amended in the manner indicated in that schedule.
     
-    Compare: 1997 No 13 [s 64][245]
+    Compare: 1997 No 13 [s 64][246]
 
 ## Part 9  
 Amendments to Citizens Initiated Referenda Act 1993
@@ -1981,63 +2007,63 @@ Amendments to Citizens Initiated Referenda Act 1993
 
 ##### 83 Interpretation
     
-*   _Amendment(s) incorporated in the [Act(s)][246]._
+*   _Amendment(s) incorporated in the [Act(s)][247]._
 
 ##### 84 Part heading substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][247]._
+*   _Amendment(s) incorporated in the [Act(s)][248]._
 
 ##### 85 Prohibitions
     
-*   _Amendment(s) incorporated in the [Act(s)][248]._
+*   _Amendment(s) incorporated in the [Act(s)][249]._
 
 ##### 86 New sections 22 to 22AB substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][249]._
+*   _Amendment(s) incorporated in the [Act(s)][250]._
 
 ##### 87 Part heading substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][250]._
+*   _Amendment(s) incorporated in the [Act(s)][251]._
 
 ##### 88 New sections 24 to 26C substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][250]._
+*   _Amendment(s) incorporated in the [Act(s)][251]._
 
 ##### 89 Endorsement and return of the writ
     
-*   _Amendment(s) incorporated in the [Act(s)][251]._
+*   _Amendment(s) incorporated in the [Act(s)][252]._
 
 ##### 90 New sections 40 and 40AA substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][252]._
+*   _Amendment(s) incorporated in the [Act(s)][253]._
 
 ##### 91 New Part heading substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][253]._
+*   _Amendment(s) incorporated in the [Act(s)][254]._
 
 ##### 92 Publicity for indicative referendum
     
-*   _Amendment(s) incorporated in the [Act(s)][253]._
+*   _Amendment(s) incorporated in the [Act(s)][254]._
 
 ##### 93 Returns in relation to advertisements
     
-*   _Amendment(s) incorporated in the [Act(s)][254]._
+*   _Amendment(s) incorporated in the [Act(s)][255]._
 
 ##### 94 Duty of Chief Electoral Officer
     
 *   \[Repealed\]
     
-    Section 94: repealed, on 28 February 2002, by [section 101(5)][255] of the Electoral Amendment Act 2002 (2002 No 1).
+    Section 94: repealed, on 28 February 2002, by [section 101(5)][256] of the Electoral Amendment Act 2002 (2002 No 1).
 
 ##### 95 Return to be open for public inspection
     
 *   \[Repealed\]
     
-    Section 95: repealed, on 28 February 2002, by [section 101(5)][255] of the Electoral Amendment Act 2002 (2002 No 1).
+    Section 95: repealed, on 28 February 2002, by [section 101(5)][256] of the Electoral Amendment Act 2002 (2002 No 1).
 
 ##### 96 Part heading substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][256]._
+*   _Amendment(s) incorporated in the [Act(s)][257]._
 
 ##### 97 New headings and sections 48 to 51G substituted
     
@@ -2045,27 +2071,27 @@ Amendments to Citizens Initiated Referenda Act 1993
 
 ##### 98 New Part heading substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][257]._
+*   _Amendment(s) incorporated in the [Act(s)][258]._
 
 ##### 99 Part heading substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][258]._
+*   _Amendment(s) incorporated in the [Act(s)][259]._
 
 ##### 100 New section 55 substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][258]._
+*   _Amendment(s) incorporated in the [Act(s)][259]._
 
 ##### 101 New section 58A inserted
     
-*   _Amendment(s) incorporated in the [Act(s)][259]._
+*   _Amendment(s) incorporated in the [Act(s)][260]._
 
 ##### 102 Schedule amended
     
 *   (1) \[Repealed\]
     
-    (2) _Amendment(s) incorporated in the [Act(s)][260]._
+    (2) _Amendment(s) incorporated in the [Act(s)][261]._
     
-    Section 102(1): repealed, on 28 February 2002, by [section 101(5)][255] of the Electoral Amendment Act 2002 (2002 No 1).
+    Section 102(1): repealed, on 28 February 2002, by [section 101(5)][256] of the Electoral Amendment Act 2002 (2002 No 1).
 
 ##### 103 Consequential repeals
     
@@ -2109,10 +2135,6 @@ CD
 
 ‡A declaration by the Returning Officer must be made before a Justice of the Peace or a solicitor.
 
----
-
-##### 
-
 #### Form 2  
 Declaration of result of referendum
 
@@ -2136,8 +2158,6 @@ Returning Officer
 \*Delete if inapplicable.
 
 †Repeat for each response.
-
----
 
 #### Form 3  
 Application for inquiry into result of referendum
@@ -2218,7 +2238,7 @@ Enactments amended
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][261]._
+_Amendment(s) incorporated in the [Act(s)][262]._
 
 ---
 
@@ -2229,7 +2249,7 @@ New form inserted
 
 \[Repealed\]
     
-*   Schedule 3: repealed, on 28 February 2002, by [section 101(5)][255] of the Electoral Amendment Act 2002 (2002 No 1).
+*   Schedule 3: repealed, on 28 February 2002, by [section 101(5)][256] of the Electoral Amendment Act 2002 (2002 No 1).
 
 ---
 
@@ -2238,7 +2258,7 @@ New form substituted
 
 [s 102(2)][125]
 
-_Amendment(s) incorporated in the [Act(s)][260]._
+_Amendment(s) incorporated in the [Act(s)][261]._
 
 ---
 
@@ -2256,23 +2276,23 @@ _Amendment(s) incorporated in the [Act(s)][260]._
 
 ###### 1 General
     
-*   This is a reprint of the Referenda (Postal Voting) Act 2000\. The reprint incorporates all the amendments to the Act as at 1 July 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Referenda (Postal Voting) Act 2000\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][262] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][263] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][263] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][264] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][264] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][265] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][265] and [17E][266] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][266] and [17E][267] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -2303,7 +2323,9 @@ _Amendment(s) incorporated in the [Act(s)][260]._
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Electoral (Administration) Amendment Act 2011 (2011 No 57): [section 60][144]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][229]
+    
+    Electoral (Administration) Amendment Act 2011 (2011 No 57): [section 60][144]
     
     Electoral (Administration) Amendment Act 2010 (2010 No 26): [section 32(2)(b)][152]
     
@@ -2544,41 +2566,42 @@ _Amendment(s) incorporated in the [Act(s)][260]._
 [226]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318822
 [227]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408905
 [228]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408906
-[229]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408907
-[230]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408908
-[231]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408909
-[232]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408910
-[233]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408911
-[234]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408912
-[235]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM165115
-[236]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408914
-[237]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408915
-[238]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408916
-[239]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408917
-[240]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408918
-[241]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408920
-[242]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408922
-[243]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM144692
-[244]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408924
-[245]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408923
-[246]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM317198
-[247]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318457
-[248]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318458
-[249]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318486
-[250]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318602
-[251]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318659
-[252]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318662
-[253]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318674
-[254]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318680
-[255]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM131139
-[256]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318810
-[257]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318843
-[258]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318858
-[259]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318862
-[260]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318885
-[261]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310742
-[262]: http://www.pco.parliament.govt.nz/reprints/
-[263]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM195439
-[264]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[265]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM195468
-[266]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM195470
+[229]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM3360714
+[230]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408907
+[231]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408908
+[232]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408909
+[233]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408910
+[234]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408911
+[235]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408912
+[236]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM165115
+[237]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408914
+[238]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408915
+[239]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408916
+[240]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408917
+[241]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408918
+[242]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408920
+[243]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408922
+[244]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM144692
+[245]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408924
+[246]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408923
+[247]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM317198
+[248]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318457
+[249]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318458
+[250]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318486
+[251]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318602
+[252]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318659
+[253]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318662
+[254]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318674
+[255]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318680
+[256]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM131139
+[257]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318810
+[258]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318843
+[259]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318858
+[260]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318862
+[261]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318885
+[262]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310742
+[263]: http://www.pco.parliament.govt.nz/reprints/
+[264]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM195439
+[265]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[266]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM195468
+[267]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM195470
