@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2008
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,7 +17,7 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Department of Building and Housing.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -25,80 +25,80 @@ This Act is administered by the Department of Building and Housing.
 
 [Title][1]
 
-[1][2] [Short Title and application][2]
+[1][2][][2][Short Title and application][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[2A][4] [Cessation of opening of new Home Ownership Accounts][4]
+[2A][4][][4][Cessation of opening of new Home Ownership Accounts][4]
 
 [Part 1][5]  
 [Ordinary Home Ownership Accounts][5]
 
-[3][6] [Eligible savings][6]
+[3][6][][6][Eligible savings][6]
 
-[4][7] [Notice of conditions][7]
+[4][7][][7][Notice of conditions][7]
 
-[5][8] [Ineligible depositors][8]
+[5][8][][8][Ineligible depositors][8]
 
-[6][9] [Purchase grant][9]
+[6][9][][9][Purchase grant][9]
 
-[7][10] [Interest subsidy][10]
+[7][10][][10][Interest subsidy][10]
 
-[7A][11] [Capitalisation of interest subsidy][11]
+[7A][11][][11][Capitalisation of interest subsidy][11]
 
-[8][12] [Preservation of benefits][12]
+[8][12][][12][Preservation of benefits][12]
 
-[9][13] [Disposition of dwelling within 5 years of payment of purchase grant][13] \[Repealed\]
+[9][13][][13][Disposition of dwelling within 5 years of payment of purchase grant][13] \[Repealed\]
 
-[10][14] [Aggregation of benefits][14]
+[10][14][][14][Aggregation of benefits][14]
 
-[11][15] [Joint accounts][15]
+[11][15][][15][Joint accounts][15]
 
-[11A][16] [New joint Ordinary Accounts not to be opened][16]
+[11A][16][][16][New joint Ordinary Accounts not to be opened][16]
 
-[12][17] [Transferability][17]
+[12][17][][17][Transferability][17]
 
-[13][18] [Payment to Corporation][18]
+[13][18][][18][Payment to Corporation][18]
 
-[14][19] [Exemption from income tax][19]
+[14][19][][19][Exemption from income tax][19]
 
 [Part 2][20]  
 [Special Home Ownership Accounts][20]
 
-[14A][21] [Special Home Ownership Accounts][21]
+[14A][21][][21][Special Home Ownership Accounts][21]
 
-[14B][22] [Existing Ordinary Home Ownership Accounts][22]
+[14B][22][][22][Existing Ordinary Home Ownership Accounts][22]
 
-[14C][23] [Transferability][23]
+[14C][23][][23][Transferability][23]
 
-[14D][24] [Withdrawal and transfers from Special Home Ownership Account][24]
+[14D][24][][24][Withdrawal and transfers from Special Home Ownership Account][24]
 
-[14E][25] [Reopening of Special Home Ownership Accounts][25]
+[14E][25][][25][Reopening of Special Home Ownership Accounts][25]
 
-[14F][26] [Withdrawal certificate][26]
+[14F][26][][26][Withdrawal certificate][26]
 
-[14G][27] [Ineligible depositors][27]
+[14G][27][][27][Ineligible depositors][27]
 
-[14H][28] [Breach of home ownership requirements][28]
+[14H][28][][28][Breach of home ownership requirements][28]
 
 [Part 3][29]  
 [General provisions][29]
 
-[14I][30] [Available savings][30]
+[14I][30][][30][Available savings][30]
 
-[14J][31] [Loans][31]
+[14J][31][][31][Loans][31]
 
-[14K][32] [Restrictions on dispositions][32]
+[14K][32][][32][Restrictions on dispositions][32]
 
-[14L][33] [Effect of dispositions within restriction period][33]
+[14L][33][][33][Effect of dispositions within restriction period][33]
 
-[14M][34] [Charges and caveats][34]
+[14M][34][][34][Charges and caveats][34]
 
-[15][35] [Information to be supplied to Minister or Corporation][35]
+[15][35][][35][Information to be supplied to Minister or Corporation][35]
 
-[16][36] [Offences and penalties][36]
+[16][36][][36][Offences and penalties][36]
 
-[17][37] [Regulations][37]
+[17][37][][37][Regulations][37]
 
 ---
 
@@ -797,13 +797,13 @@ General provisions
         
         
     
-    (2) Any person who commits an offence under subsection (1) is liable on summary conviction---
+    (2) Any person who commits an offence under subsection (1) is liable on conviction---
         
     *   (a) to imprisonment for a term not exceeding 6 months or to a fine not exceeding $1,000; and
     
     *   (b) to repay in full to the Corporation any benefits wrongfully obtained.
     
-    
+    Section 16(2): amended, on 1 July 2013, by [section 413][69] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 17 Regulations
     
@@ -815,9 +815,9 @@ General provisions
     
     *   (b) prescribing the procedure for payment of benefits:
     
-    *   (c) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act or any term or condition given pursuant to any such regulations, and prescribing penalties on summary conviction not exceeding $200 in respect of any such offences.
+    *   (c) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act or any term or condition given pursuant to any such regulations, and prescribing penalties on conviction not exceeding $200 in respect of any such offences.
     
-    
+    Section 17(2)(c): amended, on 1 July 2013, by [section 413][69] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ---
 
@@ -835,23 +835,23 @@ General provisions
 
 ###### 1 General
     
-*   This is a reprint of the Home Ownership Savings Act 1974\. The reprint incorporates all the amendments to the Act as at 1 April 2008, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Home Ownership Savings Act 1974\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][69] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][70] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][70] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][71] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][71] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][72] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][72] and [17E][73] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][73] and [17E][74] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -882,23 +882,25 @@ General provisions
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][74]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][69]
+    
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][75]
     
     Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11): [section 38(2)][66]
     
-    Housing Corporation Amendment Act 2001 (2001 No 37): [section 24(1)][75]
+    Housing Corporation Amendment Act 2001 (2001 No 37): [section 24(1)][76]
     
-    Stamp Duty Abolition Act 1999 (1999 No 61): [section 7][76]
+    Stamp Duty Abolition Act 1999 (1999 No 61): [section 7][77]
     
-    National Bank of New Zealand Limited Act 1994 (1994 No 3 (P)): [section 5(1)(a)][77]
+    National Bank of New Zealand Limited Act 1994 (1994 No 3 (P)): [section 5(1)(a)][78]
     
-    Private Savings Banks (Transfer of Undertakings) Act 1992 (1992 No 21): [section 22(1)][78]
+    Private Savings Banks (Transfer of Undertakings) Act 1992 (1992 No 21): [section 22(1)][79]
     
     Public Finance Act 1989 (1989 No 44): [section 65R(3)][48]
     
-    State Sector Act 1988 (1988 No 20): [section 90(a)][79]
+    State Sector Act 1988 (1988 No 20): [section 90(a)][80]
     
-    Building Societies Amendment Act 1987 (1987 No 175): [section 41(3)][80]
+    Building Societies Amendment Act 1987 (1987 No 175): [section 41(3)][81]
     
     State-Owned Enterprises Amendment Act 1987 (1987 No 117): section 11(1)
     
@@ -908,13 +910,13 @@ General provisions
     
     Trustee Banks Act 1983 (1983 No 116): section 3(1)
     
-    Home Ownership Savings (Increased Amount) Order 1982 (SR 1982/250): [clause 2][81]
+    Home Ownership Savings (Increased Amount) Order 1982 (SR 1982/250): [clause 2][82]
     
     Home Ownership Savings Amendment Act 1981 (1981 No 115)
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][82]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][83]
     
-    Fishing Vessel Ownership Savings Act 1977 (1977 No 62): [section 29][83]
+    Fishing Vessel Ownership Savings Act 1977 (1977 No 62): [section 29][84]
     
     Home Ownership Savings Amendment Act 1976 (1976 No 50)
 
@@ -989,18 +991,19 @@ General provisions
 [66]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM141417
 [67]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM35049
 [68]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM29377
-[69]: http://www.pco.parliament.govt.nz/reprints/
-[70]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM195439
-[71]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[72]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM195468
-[73]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM195470
-[74]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM1512303
-[75]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM95832
-[76]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM29369
-[77]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM116913
-[78]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM260673
-[79]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM129115
-[80]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM123664
-[81]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM82996
-[82]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM35031
-[83]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM444055
+[69]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM3360714
+[70]: http://www.pco.parliament.govt.nz/reprints/
+[71]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM195439
+[72]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[73]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM195468
+[74]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM195470
+[75]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM1512303
+[76]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM95832
+[77]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM29369
+[78]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM116913
+[79]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM260673
+[80]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM129115
+[81]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM123664
+[82]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM82996
+[83]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM35031
+[84]: http://www.legislation.govt.nz/act/public/1974/0051/latest/link.aspx?id=DLM444055
