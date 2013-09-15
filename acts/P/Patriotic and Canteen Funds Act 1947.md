@@ -1,5 +1,5 @@
 Reprint  
-as at 17 May 2005
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -93,6 +93,8 @@ This Act is administered by the New Zealand Defence Force.
 
 [Part 3][33]  
 [The Canteen Fund Board][33]
+
+\[Repealed\]
 
 [25][34][][34][Incorporation of Canteen Fund Board][34] \[Repealed\]
 
@@ -467,6 +469,8 @@ Provincial Patriotic Councils
 
 ## Part 3  
 The Canteen Fund Board
+
+\[Repealed\]
     
 *   Part 3: repealed, on 1 October 1987, by [section 5(4)][69] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
 
@@ -841,13 +845,15 @@ General provisions
     
     (3) Every person who commits any breach of the provisions of this Act, or of any order or direction of any person authorised under this Act to make or give that order or direction, or who, for the benefit of himself or any other person makes any misleading statement to or otherwise misleads or attempts to mislead any person duly acting for any purpose under this Act, commits an offence against this Act.
     
-    (4) Every person who commits an offence against this Act shall be liable on summary conviction to a fine not exceeding $100, and, where the offence is a continuing one, to a further fine not exceeding $10 for every day during which the offence continues.
+    (4) Every person who commits an offence against this Act shall be liable on conviction to a fine not exceeding $100, and, where the offence is a continuing one, to a further fine not exceeding $10 for every day during which the offence continues.
     
     Section 49(1): amended, on 17 May 2005, by [section 19(a)][95] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
     Section 49(1): amended, on 17 May 2005, by [section 19(b)][95] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
     Section 49(1): amended, on 1 October 1987, by [section 5(1)][69] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+    
+    Section 49(4): amended, on 1 July 2013, by [section 413][96] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 50 Regulations
     
@@ -921,23 +927,23 @@ Regulations revoked
 
 ###### 1 General
     
-*   This is a reprint of the Patriotic and Canteen Funds Act 1947\. The reprint incorporates all the amendments to the Act as at 17 May 2005, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Patriotic and Canteen Funds Act 1947\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][96] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][97] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][97] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][98] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][98] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][99] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][99] and [17E][100] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][100] and [17E][101] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -968,7 +974,9 @@ Regulations revoked
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Patriotic and Canteen Funds Amendment Act 2005][101] (2005 No 65)
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][96]
+    
+    [Patriotic and Canteen Funds Amendment Act 2005][102] (2005 No 65)
     
     Local Government Act 2002 (2002 No 84): [section 262][91]
     
@@ -978,7 +986,7 @@ Regulations revoked
     
     Trustee Amendment Act 1988 (1988 No 119): [section 14(1)][77]
     
-    [Patriotic and Canteen Funds Amendment Act 1987][102] (1987 No 4)
+    [Patriotic and Canteen Funds Amendment Act 1987][103] (1987 No 4)
     
     District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][87]
     
@@ -1100,10 +1108,11 @@ Regulations revoked
 [93]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348929
 [94]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348930
 [95]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348931
-[96]: http://www.pco.parliament.govt.nz/reprints/
-[97]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM195439
-[98]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[99]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM195468
-[100]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM195470
-[101]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348909
-[102]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM100565
+[96]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM3360714
+[97]: http://www.pco.parliament.govt.nz/reprints/
+[98]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM195439
+[99]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[100]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM195468
+[101]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM195470
+[102]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348909
+[103]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM100565
