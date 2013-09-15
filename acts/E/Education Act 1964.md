@@ -1,5 +1,5 @@
 Reprint  
-as at 21 December 2010
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,9 +25,9 @@ This Act is administered by the Ministry of Education.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
 [Part 1][4]  
 [Central administration][4]
@@ -38,25 +38,25 @@ This Act is administered by the Ministry of Education.
 
 \[Repealed\]
 
-[3][6] [Department of Education][6] \[Repealed\]
+[3][6][][6][Department of Education][6] \[Repealed\]
 
-[4][7] [Minister of Education][7] \[Repealed\]
+[4][7][][7][Minister of Education][7] \[Repealed\]
 
-[4A][8] [Advisory and technical committees][8] \[Repealed\]
+[4A][8][][8][Advisory and technical committees][8] \[Repealed\]
 
-[5][9] [Delegation of Minister's powers][9] \[Repealed\]
+[5][9][][9][Delegation of Minister's powers][9] \[Repealed\]
 
-[6][10] [Director-General of Education][10] \[Repealed\]
+[6][10][][10][Director-General of Education][10] \[Repealed\]
 
-[7][11] [Appointment of other officers][11] \[Repealed\]
+[7][11][][11][Appointment of other officers][11] \[Repealed\]
 
-[8][12] [Delegation of Director-General's powers][12] \[Repealed\]
+[8][12][][12][Delegation of Director-General's powers][12] \[Repealed\]
 
-[8A][13] [Director-General may appoint advisory and technical committees][13] \[Repealed\]
+[8A][13][][13][Director-General may appoint advisory and technical committees][13] \[Repealed\]
 
-[9][14] [Expenses of administration be appropriated by Parliament][14] \[Repealed\]
+[9][14][][14][Expenses of administration be appropriated by Parliament][14] \[Repealed\]
 
-[9A][15] [Payment of fees by private foreign students in certain cases][15] \[Repealed\]
+[9A][15][][15][Payment of fees by private foreign students in certain cases][15] \[Repealed\]
 
 [Part 2][16]  
 [Local administration][16]
@@ -67,233 +67,233 @@ This Act is administered by the Ministry of Education.
 
 \[Repealed\]
 
-[10][18] [Education districts][18] \[Repealed\]
+[10][18][][18][Education districts][18] \[Repealed\]
 
-[11][19] [Education Districts Boundaries Commissioner][19] \[Repealed\]
+[11][19][][19][Education Districts Boundaries Commissioner][19] \[Repealed\]
 
-[12][20] [Constitution of new education districts][20] \[Repealed\]
+[12][20][][20][Constitution of new education districts][20] \[Repealed\]
 
-[13][21] [Alteration of boundaries of education districts][21] \[Repealed\]
+[13][21][][21][Alteration of boundaries of education districts][21] \[Repealed\]
 
-[14][22] [Division of districts into wards][22] \[Repealed\]
+[14][22][][22][Division of districts into wards][22] \[Repealed\]
 
 [Education boards][23]
 
 \[Repealed\]
 
-[15][24] [Constitution of education boards][24] \[Repealed\]
+[15][24][][24][Constitution of education boards][24] \[Repealed\]
 
-[16][25] [Appointment of Commission to act as education board of new district][25] \[Repealed\]
+[16][25][][25][Appointment of Commission to act as education board of new district][25] \[Repealed\]
 
-[17][26] [Qualification of members of board][26] \[Repealed\]
+[17][26][][26][Qualification of members of board][26] \[Repealed\]
 
-[18][27] [Disqualification of members of boards][27] \[Repealed\]
+[18][27][][27][Disqualification of members of boards][27] \[Repealed\]
 
-[19][28] [Extraordinary vacancies on boards][28] \[Repealed\]
+[19][28][][28][Extraordinary vacancies on boards][28] \[Repealed\]
 
-[20][29] [Acts of board not to be questioned for informality, etc][29] \[Repealed\]
+[20][29][][29][Acts of board not to be questioned for informality, etc][29] \[Repealed\]
 
-[21][30] [Boards incorporated][30] \[Repealed\]
+[21][30][][30][Boards incorporated][30] \[Repealed\]
 
-[22][31] [Board employees][31] \[Repealed\]
+[22][31][][31][Board employees][31] \[Repealed\]
 
-[23][32] [Meetings of boards][32] \[Repealed\]
+[23][32][][32][Meetings of boards][32] \[Repealed\]
 
-[24][33] [Annual allowances to chairmen of education boards][33] \[Repealed\]
+[24][33][][33][Annual allowances to chairmen of education boards][33] \[Repealed\]
 
-[25][34] [Refund of members' travelling expenses][34] \[Repealed\]
+[25][34][][34][Refund of members' travelling expenses][34] \[Repealed\]
 
-[26][35] [General powers and duties of board][35] \[Repealed\]
+[26][35][][35][General powers and duties of board][35] \[Repealed\]
 
-[27][36] [Borrowing powers of education boards][36] \[Repealed\]
+[27][36][][36][Borrowing powers of education boards][36] \[Repealed\]
 
-[28][37] [Board may insure members and pay subscriptions to Education Boards' Association][37] \[Repealed\]
+[28][37][][37][Board may insure members and pay subscriptions to Education Boards' Association][37] \[Repealed\]
 
-[29][38] [Board may establish special committees][38] \[Repealed\]
+[29][38][][38][Board may establish special committees][38] \[Repealed\]
 
 [Accounts of boards][39]
 
 \[Repealed\]
 
-[30][40] [Board fund][40] \[Repealed\]
+[30][40][][40][Board fund][40] \[Repealed\]
 
-[31][41] [Education Board Account][41] \[Repealed\]
+[31][41][][41][Education Board Account][41] \[Repealed\]
 
-[32][42] [Board may establish imprest accounts][42] \[Repealed\]
+[32][42][][42][Board may establish imprest accounts][42] \[Repealed\]
 
-[33][43] [Procedure for payment by education boards of salaries and allowances to teachers][43] \[Repealed\]
+[33][43][][43][Procedure for payment by education boards of salaries and allowances to teachers][43] \[Repealed\]
 
-[34][44] [Disposal of funds of board][44] \[Repealed\]
+[34][44][][44][Disposal of funds of board][44] \[Repealed\]
 
-[35][45] [Accounts to be kept][45] \[Repealed\]
+[35][45][][45][Accounts to be kept][45] \[Repealed\]
 
-[36][46] [Board to forward annual report to Minister][46] \[Repealed\]
+[36][46][][46][Board to forward annual report to Minister][46] \[Repealed\]
 
-[37][47] [Unauthorised expenditure of education boards][47] \[Repealed\]
+[37][47][][47][Unauthorised expenditure of education boards][47] \[Repealed\]
 
 [School committees][48]
 
 \[Repealed\]
 
-[38][49] [School districts][49] \[Repealed\]
+[38][49][][49][School districts][49] \[Repealed\]
 
-[39][50] [School committees][50] \[Repealed\]
+[39][50][][50][School committees][50] \[Repealed\]
 
-[40][51] [School committees of normal schools][51] \[Repealed\]
+[40][51][][51][School committees of normal schools][51] \[Repealed\]
 
-[41][52] [Committees for intermediate schools][52] \[Repealed\]
+[41][52][][52][Committees for intermediate schools][52] \[Repealed\]
 
-[42][53] [Qualification of members of school committees][53] \[Repealed\]
+[42][53][][53][Qualification of members of school committees][53] \[Repealed\]
 
-[43][54] [Meetings of committees][54] \[Repealed\]
+[43][54][][54][Meetings of committees][54] \[Repealed\]
 
-[44][55] [Committee failing to meet to cease to exist][55] \[Repealed\]
+[44][55][][55][Committee failing to meet to cease to exist][55] \[Repealed\]
 
-[45][56] [Appearance in legal proceedings][56] \[Repealed\]
+[45][56][][56][Appearance in legal proceedings][56] \[Repealed\]
 
-[46][57] [Committee to have management of schools, etc][57] \[Repealed\]
+[46][57][][57][Committee to have management of schools, etc][57] \[Repealed\]
 
-[47][58] [School fund and property][58] \[Repealed\]
+[47][58][][58][School fund and property][58] \[Repealed\]
 
-[48][59] [Audit of committee's accounts][59] \[Repealed\]
+[48][59][][59][Audit of committee's accounts][59] \[Repealed\]
 
-[49][60] [Committee to forward annual report to board][60] \[Repealed\]
+[49][60][][60][Committee to forward annual report to board][60] \[Repealed\]
 
-[49A][61] [Board of studies][61] \[Repealed\]
+[49A][61][][61][Board of studies][61] \[Repealed\]
 
 [Governing bodies of secondary schools][62]
 
 \[Repealed\]
 
-[50][63] [Governing bodies of certain secondary schools][63] \[Repealed\]
+[50][63][][63][Governing bodies of certain secondary schools][63] \[Repealed\]
 
-[51][64] [Governing bodies of other secondary schools][64] \[Repealed\]
+[51][64][][64][Governing bodies of other secondary schools][64] \[Repealed\]
 
-[51A][65] [Teachers' representatives on boards of governors][65] \[Repealed\]
+[51A][65][][65][Teachers' representatives on boards of governors][65] \[Repealed\]
 
-[51B][66] [Representatives of proprietors of integrated schools on controlling authorities][66] \[Repealed\]
+[51B][66][][66][Representatives of proprietors of integrated schools on controlling authorities][66] \[Repealed\]
 
-[51C][67] [Qualification of members of secondary school board][67] \[Repealed\]
+[51C][67][][67][Qualification of members of secondary school board][67] \[Repealed\]
 
-[52][68] [Appointment and election of members][68] \[Repealed\]
+[52][68][][68][Appointment and election of members][68] \[Repealed\]
 
-[53][69] [Certain secondary schools not placed under separate boards of governors][69] \[Repealed\]
+[53][69][][69][Certain secondary schools not placed under separate boards of governors][69] \[Repealed\]
 
-[54][70] [Change in control of secondary schools to provide separate boards of governors][70] \[Repealed\]
+[54][70][][70][Change in control of secondary schools to provide separate boards of governors][70] \[Repealed\]
 
-[55][71] [Vesting of assets on change in control][71] \[Repealed\]
+[55][71][][71][Vesting of assets on change in control][71] \[Repealed\]
 
-[56][72] [Governing bodies of secondary schools incorporated][72] \[Repealed\]
+[56][72][][72][Governing bodies of secondary schools incorporated][72] \[Repealed\]
 
-[57][73] [Control of groups of secondary schools][73] \[Repealed\]
+[57][73][][73][Control of groups of secondary schools][73] \[Repealed\]
 
-[57A][74] [Minister may require secondary schools council to undertake control of secondary school][74] \[Repealed\]
+[57A][74][][74][Minister may require secondary schools council to undertake control of secondary school][74] \[Repealed\]
 
-[58][75] [Control and management of district high schools][75] \[Repealed\]
+[58][75][][75][Control and management of district high schools][75] \[Repealed\]
 
-[59][76] [Control of secondary schools][76] \[Repealed\]
+[59][76][][76][Control of secondary schools][76] \[Repealed\]
 
-[60][77] [Insurance of members of governing body and refund of members' travelling expenses][77] \[Repealed\]
+[60][77][][77][Insurance of members of governing body and refund of members' travelling expenses][77] \[Repealed\]
 
-[60A][78] [Remuneration and conditions of employment of staff of governing body][78] \[Repealed\]
+[60A][78][][78][Remuneration and conditions of employment of staff of governing body][78] \[Repealed\]
 
-[61][79] [General powers of governing bodies of secondary schools][79] \[Repealed\]
+[61][79][][79][General powers of governing bodies of secondary schools][79] \[Repealed\]
 
-[61A][80] [Governing bodies of secondary schools may appoint special committees][80] \[Repealed\]
+[61A][80][][80][Governing bodies of secondary schools may appoint special committees][80] \[Repealed\]
 
-[62][81] [General borrowing powers of governing bodies of secondary schools][81] \[Repealed\]
+[62][81][][81][General borrowing powers of governing bodies of secondary schools][81] \[Repealed\]
 
-[63][82] [Accounts and audit][82] \[Repealed\]
+[63][82][][82][Accounts and audit][82] \[Repealed\]
 
-[64][83] [Annual reports as to secondary schools][83] \[Repealed\]
+[64][83][][83][Annual reports as to secondary schools][83] \[Repealed\]
 
-[65][84] [Grants to governing bodies of secondary schools][84] \[Repealed\]
+[65][84][][84][Grants to governing bodies of secondary schools][84] \[Repealed\]
 
-[66][85] [General expenses][85] \[Repealed\]
+[66][85][][85][General expenses][85] \[Repealed\]
 
-[67][86] [Unauthorised expenditure of governing bodies of secondary schools][86] \[Repealed\]
+[67][86][][86][Unauthorised expenditure of governing bodies of secondary schools][86] \[Repealed\]
 
 [Teachers college councils][87]
 
 \[Repealed\]
 
-[67A][88] [Interpretation of term council][88] \[Repealed\]
+[67A][88][][88][Interpretation of term council][88] \[Repealed\]
 
-[67B][89] [Teachers colleges to be controlled by councils][89] \[Repealed\]
+[67B][89][][89][Teachers colleges to be controlled by councils][89] \[Repealed\]
 
-[67C][90] [Councils to be bodies corporate][90] \[Repealed\]
+[67C][90][][90][Councils to be bodies corporate][90] \[Repealed\]
 
-[67D][91] [Transfer of control of teachers college from one council to another][91] \[Repealed\]
+[67D][91][][91][Transfer of control of teachers college from one council to another][91] \[Repealed\]
 
-[67E][92] [Membership of teachers college councils][92] \[Repealed\]
+[67E][92][][92][Membership of teachers college councils][92] \[Repealed\]
 
-[67F][93] [Incapacity for appointment][93] \[Repealed\]
+[67F][93][][93][Incapacity for appointment][93] \[Repealed\]
 
-[67G][94] [Extraordinary vacancies on councils][94] \[Repealed\]
+[67G][94][][94][Extraordinary vacancies on councils][94] \[Repealed\]
 
-[67H][95] [Terms of office of members][95] \[Repealed\]
+[67H][95][][95][Terms of office of members][95] \[Repealed\]
 
-[67I][96] [Power of councils unaffected][96] \[Repealed\]
+[67I][96][][96][Power of councils unaffected][96] \[Repealed\]
 
-[67J][97] [General powers of teachers college councils][97] \[Repealed\]
+[67J][97][][97][General powers of teachers college councils][97] \[Repealed\]
 
-[67K][98] [Certain councils may establish committees of members including representatives][98] \[Repealed\]
+[67K][98][][98][Certain councils may establish committees of members including representatives][98] \[Repealed\]
 
-[67L][99] [Councils may establish special committees][99] \[Repealed\]
+[67L][99][][99][Councils may establish special committees][99] \[Repealed\]
 
-[67M][100] [General borrowing powers of councils][100] \[Repealed\]
+[67M][100][][100][General borrowing powers of councils][100] \[Repealed\]
 
-[67N][101] [Travelling allowances and expenses][101] \[Repealed\]
+[67N][101][][101][Travelling allowances and expenses][101] \[Repealed\]
 
-[67O][102] [Keeping and auditing accounts][102] \[Repealed\]
+[67O][102][][102][Keeping and auditing accounts][102] \[Repealed\]
 
-[67P][103] [Grants to councils of teachers colleges][103] \[Repealed\]
+[67P][103][][103][Grants to councils of teachers colleges][103] \[Repealed\]
 
-[67Q][104] [Unauthorised expenditure of councils][104] \[Repealed\]
+[67Q][104][][104][Unauthorised expenditure of councils][104] \[Repealed\]
 
-[67R][105] [Fees payable to associations of students][105] \[Repealed\]
+[67R][105][][105][Fees payable to associations of students][105] \[Repealed\]
 
-[67S][106] [Regulations][106] \[Repealed\]
+[67S][106][][106][Regulations][106] \[Repealed\]
 
-[67SA][107] [Fees for domestic teachers college students][107] \[Repealed\]
+[67SA][107][][107][Fees for domestic teachers college students][107] \[Repealed\]
 
-[67T][108] [Appeals against selection in certain cases][108] \[Repealed\]
+[67T][108][][108][Appeals against selection in certain cases][108] \[Repealed\]
 
 [Governing bodies of technical institutes][109]
 
 \[Repealed\]
 
-[68][110] [Governing bodies of certain technical institutes][110] \[Repealed\]
+[68][110][][110][Governing bodies of certain technical institutes][110] \[Repealed\]
 
-[69][111] [Technical institutes and community colleges to be placed under boards of governors][111] \[Repealed\]
+[69][111][][111][Technical institutes and community colleges to be placed under boards of governors][111] \[Repealed\]
 
-[69AA][112] [Sections to apply to technical institutes and community colleges][112] \[Repealed\]
+[69AA][112][][112][Sections to apply to technical institutes and community colleges][112] \[Repealed\]
 
-[69AB][113] [Insurance of members of governing body of specialist institution and refund of members' travelling expenses][113] \[Repealed\]
+[69AB][113][][113][Insurance of members of governing body of specialist institution and refund of members' travelling expenses][113] \[Repealed\]
 
-[69AC][114] [General powers of governing bodies of specialist institutions][114] \[Repealed\]
+[69AC][114][][114][General powers of governing bodies of specialist institutions][114] \[Repealed\]
 
-[69AD][115] [Governing bodies of specialist institutions may appoint special committees][115] \[Repealed\]
+[69AD][115][][115][Governing bodies of specialist institutions may appoint special committees][115] \[Repealed\]
 
-[69AE][116] [Accounts and audit][116] \[Repealed\]
+[69AE][116][][116][Accounts and audit][116] \[Repealed\]
 
-[69AF][117] [Annual reports as to specialist institutions][117] \[Repealed\]
+[69AF][117][][117][Annual reports as to specialist institutions][117] \[Repealed\]
 
-[69AG][118] [Grants to governing bodies of specialist institutions][118] \[Repealed\]
+[69AG][118][][118][Grants to governing bodies of specialist institutions][118] \[Repealed\]
 
-[69AH][119] [General expenses of specialist institutions][119] \[Repealed\]
+[69AH][119][][119][General expenses of specialist institutions][119] \[Repealed\]
 
-[69AI][120] [Unauthorised expenditure of governing bodies of specialist institutions][120] \[Repealed\]
+[69AI][120][][120][Unauthorised expenditure of governing bodies of specialist institutions][120] \[Repealed\]
 
-[69AJ][121] [Specialist institutions may provide closed courses][121] \[Repealed\]
+[69AJ][121][][121][Specialist institutions may provide closed courses][121] \[Repealed\]
 
-[69AK][122] [Specialist institutions may provide courses in other premises][122] \[Repealed\]
+[69AK][122][][122][Specialist institutions may provide courses in other premises][122] \[Repealed\]
 
-[69AL][123] [Specialist institutions may award diplomas][123] \[Repealed\]
+[69AL][123][][123][Specialist institutions may award diplomas][123] \[Repealed\]
 
-[69A][124] [Fees payable to associations of students][124] \[Repealed\]
+[69A][124][][124][Fees payable to associations of students][124] \[Repealed\]
 
-[69B][125] [Accounting, payment, and other administrative services][125] \[Repealed\]
+[69B][125][][125][Accounting, payment, and other administrative services][125] \[Repealed\]
 
 [Part 3][126]  
 [Establishment of schools][126]
@@ -302,169 +302,169 @@ This Act is administered by the Ministry of Education.
 
 \[Repealed\]
 
-[70][128] [Provision of pre-school education][128] \[Repealed\]
+[70][128][][128][Provision of pre-school education][128] \[Repealed\]
 
-[70A][129] [Loans for pre-school education][129] \[Repealed\]
+[70A][129][][129][Loans for pre-school education][129] \[Repealed\]
 
-[70B][130] [Recognition of institutions providing pre-school education][130] \[Repealed\]
+[70B][130][][130][Recognition of institutions providing pre-school education][130] \[Repealed\]
 
-[70C][131] [Family day care organisations][131] \[Repealed\]
+[70C][131][][131][Family day care organisations][131] \[Repealed\]
 
-[70D][132] [Child care premises, etc][132] \[Repealed\]
+[70D][132][][132][Child care premises, etc][132] \[Repealed\]
 
-[70E][133] [Right of entry to child care premises][133] \[Repealed\]
+[70E][133][][133][Right of entry to child care premises][133] \[Repealed\]
 
 [Primary education][134]
 
-[71][135] [Schools for primary education][135] \[Repealed\]
+[71][135][][135][Schools for primary education][135] \[Repealed\]
 
-[72][136] [Normal schools and model schools][136] \[Repealed\]
+[72][136][][136][Normal schools and model schools][136] \[Repealed\]
 
-[73][137] [Intermediate schools and departments][137] \[Repealed\]
+[73][137][][137][Intermediate schools and departments][137] \[Repealed\]
 
-[74][138] [Selection of contributing schools][138] \[Repealed\]
+[74][138][][138][Selection of contributing schools][138] \[Repealed\]
 
-[75][139] [Organisation and conduct of State primary schools and intermediate departments of secondary schools][139] \[Repealed\]
+[75][139][][139][Organisation and conduct of State primary schools and intermediate departments of secondary schools][139] \[Repealed\]
 
-[76][140] [Regulations][140] \[Repealed\]
+[76][140][][140][Regulations][140] \[Repealed\]
 
-[77][141] [State primary schools to be kept open at certain times][141]
+[77][141][][141][State primary schools to be kept open at certain times][141]
 
-[78][142] [Religious instruction and observances in State primary schools][142]
+[78][142][][142][Religious instruction and observances in State primary schools][142]
 
-[78A][143] 
+[78A][143][][143]
 
-[79][144] [Attendance at religious instruction or observances not compulsory][144]
+[79][144][][144][Attendance at religious instruction or observances not compulsory][144]
 
-[80][145] [Teachers may be freed from duties to take part in religious instruction or observances][145]
+[80][145][][145][Teachers may be freed from duties to take part in religious instruction or observances][145]
 
-[81][146] [Schools other than public schools not affected][146]
+[81][146][][146][Schools other than public schools not affected][146]
 
 [Secondary education][147]
 
 \[Repealed\]
 
-[82][148] [Saving of schools already established][148] \[Repealed\]
+[82][148][][148][Saving of schools already established][148] \[Repealed\]
 
-[83][149] [Secondary schools][149] \[Repealed\]
+[83][149][][149][Secondary schools][149] \[Repealed\]
 
-[84][150] [Courses of study in secondary schools][150] \[Repealed\]
+[84][150][][150][Courses of study in secondary schools][150] \[Repealed\]
 
-[85][151] [Free education in secondary schools][151] \[Repealed\]
+[85][151][][151][Free education in secondary schools][151] \[Repealed\]
 
 [Composite schools][152]
 
-[86][153] [Composite schools][153] \[Repealed\]
+[86][153][][153][Composite schools][153] \[Repealed\]
 
-[87][154] [Regulations relating to composite schools][154]
+[87][154][][154][Regulations relating to composite schools][154]
 
-[88][155] [Certain provisions to apply to composite schools][155] \[Repealed\]
+[88][155][][155][Certain provisions to apply to composite schools][155] \[Repealed\]
 
 [Further education---technical and continuation][156]
 
-[89][157] [Saving of technical institutes already established][157]
+[89][157][][157][Saving of technical institutes already established][157]
 
-[90][158] [Establishment and disestablishment of technical institutes and community colleges][158] \[Repealed\]
+[90][158][][158][Establishment and disestablishment of technical institutes and community colleges][158] \[Repealed\]
 
-[90A][159] [Technical institutes may be declared to be community colleges][159] \[Repealed\]
+[90A][159][][159][Technical institutes may be declared to be community colleges][159] \[Repealed\]
 
-[90B][160] [Revesting land][160] \[Repealed\]
+[90B][160][][160][Revesting land][160] \[Repealed\]
 
-[90C][161] [Correspondence school may be declared technical institute][161] \[Repealed\]
+[90C][161][][161][Correspondence school may be declared technical institute][161] \[Repealed\]
 
-[90D][162] [Functions of technical institutes and community colleges][162] \[Repealed\]
+[90D][162][][162][Functions of technical institutes and community colleges][162] \[Repealed\]
 
-[91][163] [Recognition of classes or courses in continuing education][163]
+[91][163][][163][Recognition of classes or courses in continuing education][163]
 
-[92][164] [Revocation of recognition of classes or courses][164]
+[92][164][][164][Revocation of recognition of classes or courses][164]
 
-[93][165] [Free continuing education][165] \[Repealed\]
+[93][165][][165][Free continuing education][165] \[Repealed\]
 
-[94][166] [Fees for continuing education for domestic students][166] \[Repealed\]
+[94][166][][166][Fees for continuing education for domestic students][166] \[Repealed\]
 
-[95][167] [Report on continuing education][167]
+[95][167][][167][Report on continuing education][167]
 
-[96][168] [Correspondence schools and classes for continuing education][168]
+[96][168][][168][Correspondence schools and classes for continuing education][168]
 
-[96A][169] [Senior Technical Divisions][169] \[Repealed\]
+[96A][169][][169][Senior Technical Divisions][169] \[Repealed\]
 
-[97][170] [Administration of continuing education][170] \[Repealed\]
+[97][170][][170][Administration of continuing education][170] \[Repealed\]
 
-[97A][171] [Continuing education organisations][171]
+[97A][171][][171][Continuing education organisations][171]
 
 [Special education][172]
 
-[98][173] [Special schools and classes][173]
+[98][173][][173][Special schools and classes][173]
 
-[99][174] [Other special classes or services providing special education][174] \[Repealed\]
+[99][174][][174][Other special classes or services providing special education][174] \[Repealed\]
 
-[100][175] [Administration of special education][175] \[Repealed\]
+[100][175][][175][Administration of special education][175] \[Repealed\]
 
 [Maori schools][176]
 
 \[Repealed\]
 
-[101][177] [Maori schools][177] \[Repealed\]
+[101][177][][177][Maori schools][177] \[Repealed\]
 
-[102][178] [Control of Maori schools][178] \[Repealed\]
+[102][178][][178][Control of Maori schools][178] \[Repealed\]
 
-[102A][179] [Change of control of Maori school][179] \[Repealed\]
+[102A][179][][179][Change of control of Maori school][179] \[Repealed\]
 
 [Chatham Islands schools][180]
 
 \[Repealed\]
 
-[103][181] [Chatham Islands schools][181] \[Repealed\]
+[103][181][][181][Chatham Islands schools][181] \[Repealed\]
 
-[104][182] [Management and control of Chatham Islands schools][182] \[Repealed\]
+[104][182][][182][Management and control of Chatham Islands schools][182] \[Repealed\]
 
 [Correspondence schools][183]
 
 \[Repealed\]
 
-[105][184] [Correspondence schools and classes][184] \[Repealed\]
+[105][184][][184][Correspondence schools and classes][184] \[Repealed\]
 
 [School camps][185]
 
 \[Repealed\]
 
-[105A][186] [School classes may be held at school camps][186] \[Repealed\]
+[105A][186][][186][School classes may be held at school camps][186] \[Repealed\]
 
-[105B][187] [Regulations relating to school camps][187] \[Repealed\]
+[105B][187][][187][Regulations relating to school camps][187] \[Repealed\]
 
 [Health education][188]
 
 \[Repealed\]
 
-[105C][189] [Parents to be consulted on treatment of health syllabus][189] \[Repealed\]
+[105C][189][][189][Parents to be consulted on treatment of health syllabus][189] \[Repealed\]
 
-[105D][190] [Parents and guardians may require students to be excluded from health education classes][190] \[Repealed\]
+[105D][190][][190][Parents and guardians may require students to be excluded from health education classes][190] \[Repealed\]
 
 [Teachers colleges][191]
 
 \[Repealed\]
 
-[106][192] [Establishment of teachers colleges][192] \[Repealed\]
+[106][192][][192][Establishment of teachers colleges][192] \[Repealed\]
 
 [Schools controlled by Director-General][193]
 
 \[Repealed\]
 
-[106A][194] [Schools controlled by Director-General][194] \[Repealed\]
+[106A][194][][194][Schools controlled by Director-General][194] \[Repealed\]
 
-[106B][195] [Regulations for schools under control of Director-General][195] \[Repealed\]
+[106B][195][][195][Regulations for schools under control of Director-General][195] \[Repealed\]
 
-[107][196] [Regulations][196] \[Repealed\]
+[107][196][][196][Regulations][196] \[Repealed\]
 
 [Education centres][197]
 
 \[Repealed\]
 
-[107A][198] [Establishment of education centres][198] \[Repealed\]
+[107A][198][][198][Establishment of education centres][198] \[Repealed\]
 
-[107B][199] [Centres to have controlling authorities][199] \[Repealed\]
+[107B][199][][199][Centres to have controlling authorities][199] \[Repealed\]
 
-[107C][200] [General powers of education centre councils][200] \[Repealed\]
+[107C][200][][200][General powers of education centre councils][200] \[Repealed\]
 
 [Part 4][201]  
 [Enrolment and attendance of pupils][201]
@@ -475,78 +475,78 @@ This Act is administered by the Ministry of Education.
 
 \[Repealed\]
 
-[108][203] [Children enrolled at State primary schools to be of school age][203] \[Repealed\]
+[108][203][][203][Children enrolled at State primary schools to be of school age][203] \[Repealed\]
 
-[109][204] [Every child between 6 and 15 years of age to be enrolled][204] \[Repealed\]
+[109][204][][204][Every child between 6 and 15 years of age to be enrolled][204] \[Repealed\]
 
-[110][205] [Enrolment with correspondence school][205] \[Repealed\]
+[110][205][][205][Enrolment with correspondence school][205] \[Repealed\]
 
-[111][206] [Certificate of exemption from enrolment][206] \[Repealed\]
+[111][206][][206][Certificate of exemption from enrolment][206] \[Repealed\]
 
-[112][207] [Exemption from enrolment by Director-General][207] \[Repealed\]
+[112][207][][207][Exemption from enrolment by Director-General][207] \[Repealed\]
 
-[113][208] [Ascertainment of suitability of education of certain children][208] \[Repealed\]
+[113][208][][208][Ascertainment of suitability of education of certain children][208] \[Repealed\]
 
-[114][209] [Compulsory enrolment in special school, etc, of certain children][209] \[Repealed\]
+[114][209][][209][Compulsory enrolment in special school, etc, of certain children][209] \[Repealed\]
 
-[115][210] [Director-General may in certain circumstances direct that a child be sent to special school, etc][210] \[Repealed\]
+[115][210][][210][Director-General may in certain circumstances direct that a child be sent to special school, etc][210] \[Repealed\]
 
-[116][211] [Penalty for failure to enrol child][211] \[Repealed\]
+[116][211][][211][Penalty for failure to enrol child][211] \[Repealed\]
 
-[117][212] [Every child required to be enrolled must attend school][212] \[Repealed\]
+[117][212][][212][Every child required to be enrolled must attend school][212] \[Repealed\]
 
-[117A][213] [Work exploration schemes][213] \[Repealed\]
+[117A][213][][213][Work exploration schemes][213] \[Repealed\]
 
-[118][214] [Certificate of exemption from attendance][214] \[Repealed\]
+[118][214][][214][Certificate of exemption from attendance][214] \[Repealed\]
 
-[119][215] [Director-General may require certain children exempted from attendance to enrol at correspondence school][215] \[Repealed\]
+[119][215][][215][Director-General may require certain children exempted from attendance to enrol at correspondence school][215] \[Repealed\]
 
-[120][216] [Penalty for irregular attendance at school][216] \[Repealed\]
+[120][216][][216][Penalty for irregular attendance at school][216] \[Repealed\]
 
-[121][217] [Employment of children of school age][217] \[Repealed\]
+[121][217][][217][Employment of children of school age][217] \[Repealed\]
 
-[122][218] [Parents not to permit employment of children of school age][218] \[Repealed\]
+[122][218][][218][Parents not to permit employment of children of school age][218] \[Repealed\]
 
-[123][219] [Appointment of attendance officers][219] \[Repealed\]
+[123][219][][219][Appointment of attendance officers][219] \[Repealed\]
 
-[124][220] [Hearing of proceedings][220] \[Repealed\]
+[124][220][][220][Hearing of proceedings][220] \[Repealed\]
 
-[125][221] [Evidence of school roll, etc][221] \[Repealed\]
+[125][221][][221][Evidence of school roll, etc][221] \[Repealed\]
 
-[126][222] [Onus of proof on parents][222] \[Repealed\]
+[126][222][][222][Onus of proof on parents][222] \[Repealed\]
 
-[127][223] [Fines to be paid into school or board funds][223] \[Repealed\]
+[127][223][][223][Fines to be paid into school or board funds][223] \[Repealed\]
 
-[128][224] [Maori and Chatham Islands schools][224] \[Repealed\]
+[128][224][][224][Maori and Chatham Islands schools][224] \[Repealed\]
 
-[129][225] [Limitations on enrolment at State primary schools][225] \[Repealed\]
+[129][225][][225][Limitations on enrolment at State primary schools][225] \[Repealed\]
 
-[129A][226] [Enrolment schemes for secondary schools][226] \[Repealed\]
+[129A][226][][226][Enrolment schemes for secondary schools][226] \[Repealed\]
 
-[129B][227] [Students to have access to reasonably convenient accommodation][227] \[Repealed\]
+[129B][227][][227][Students to have access to reasonably convenient accommodation][227] \[Repealed\]
 
-[129C][228] [Terms and holidays][228] \[Repealed\]
+[129C][228][][228][Terms and holidays][228] \[Repealed\]
 
 [Part 4A][229]  
 [Suspension and expulsion of pupils][229]
 
 \[Repealed\]
 
-[130][230] [Suspension of pupils][230] \[Repealed\]
+[130][230][][230][Suspension of pupils][230] \[Repealed\]
 
-[130A][231] [Notification of suspension][231] \[Repealed\]
+[130A][231][][231][Notification of suspension][231] \[Repealed\]
 
-[130B][232] [Suspension for specified period][232] \[Repealed\]
+[130B][232][][232][Suspension for specified period][232] \[Repealed\]
 
-[130C][233] [Suspension of pupil under 15 for unspecified period][233] \[Repealed\]
+[130C][233][][233][Suspension of pupil under 15 for unspecified period][233] \[Repealed\]
 
-[130D][234] [Suspension of pupil over 15 for unspecified period][234] \[Repealed\]
+[130D][234][][234][Suspension of pupil over 15 for unspecified period][234] \[Repealed\]
 
-[130DA][235] [Attendance at other schools of suspended or expelled pupils][235] \[Repealed\]
+[130DA][235][][235][Attendance at other schools of suspended or expelled pupils][235] \[Repealed\]
 
-[130E][236] [Delegation of powers of boards and governing bodies][236] \[Repealed\]
+[130E][236][][236][Delegation of powers of boards and governing bodies][236] \[Repealed\]
 
-[130F][237] [Suspension or expulsion of pupils from private schools][237] \[Repealed\]
+[130F][237][][237][Suspension or expulsion of pupils from private schools][237] \[Repealed\]
 
 [Part 5][238]  
 [Appointment and employment of teachers][238]
@@ -555,260 +555,260 @@ This Act is administered by the Ministry of Education.
 
 \[Repealed\]
 
-[131][240] [Teachers to be registered][240] \[Repealed\]
+[131][240][][240][Teachers to be registered][240] \[Repealed\]
 
-[132][241] [Teachers Register][241] \[Repealed\]
+[132][241][][241][Teachers Register][241] \[Repealed\]
 
-[133][242] [Publication of Register][242] \[Repealed\]
+[133][242][][242][Publication of Register][242] \[Repealed\]
 
-[134][243] [Removal of certain names from Register][243] \[Repealed\]
+[134][243][][243][Removal of certain names from Register][243] \[Repealed\]
 
-[135][244] [Cancellation of registration for misconduct][244] \[Repealed\]
+[135][244][][244][Cancellation of registration for misconduct][244] \[Repealed\]
 
-[136][245] [Notification of removal of name from Register][245] \[Repealed\]
+[136][245][][245][Notification of removal of name from Register][245] \[Repealed\]
 
 [Constitution of committees for primary appointments][246]
 
 \[Repealed\]
 
-[137][247] [Appointments committees][247] \[Repealed\]
+[137][247][][247][Appointments committees][247] \[Repealed\]
 
-[138][248] [Central Advisory Committee][248] \[Repealed\]
+[138][248][][248][Central Advisory Committee][248] \[Repealed\]
 
-[139][249] [Extraordinary vacancies on committees][249] \[Repealed\]
+[139][249][][249][Extraordinary vacancies on committees][249] \[Repealed\]
 
-[140][250] [Deputies of members][250] \[Repealed\]
+[140][250][][250][Deputies of members][250] \[Repealed\]
 
-[141][251] [Members' travelling expenses][251] \[Repealed\]
+[141][251][][251][Members' travelling expenses][251] \[Repealed\]
 
 [Appointment of primary teachers][252]
 
 \[Repealed\]
 
-[142][253] [Appointments to positions][253] \[Repealed\]
+[142][253][][253][Appointments to positions][253] \[Repealed\]
 
-[142A][254] [Retraining of teachers][254] \[Repealed\]
+[142A][254][][254][Retraining of teachers][254] \[Repealed\]
 
-[143][255] [School committees to be notified of proposed appointments][255] \[Repealed\]
+[143][255][][255][School committees to be notified of proposed appointments][255] \[Repealed\]
 
 [Primary Teachers Appointment Appeal Board][256]
 
 \[Repealed\]
 
-[144][257] [Primary Teachers Appointment Appeal Board][257] \[Repealed\]
+[144][257][][257][Primary Teachers Appointment Appeal Board][257] \[Repealed\]
 
-[145][258] [Provisional appointments][258] \[Repealed\]
+[145][258][][258][Provisional appointments][258] \[Repealed\]
 
-[145A][259] [Rights of appeal][259] \[Repealed\]
+[145A][259][][259][Rights of appeal][259] \[Repealed\]
 
-[146][260] [Notices to teachers with right to appeal][260] \[Repealed\]
+[146][260][][260][Notices to teachers with right to appeal][260] \[Repealed\]
 
-[147][261] [Notices of appeal, jurisdiction, etc][261] \[Repealed\]
+[147][261][][261][Notices of appeal, jurisdiction, etc][261] \[Repealed\]
 
 [Appointment of secondary teachers and teachers in technical institutes][262]
 
 \[Repealed\]
 
-[148][263] [Governing body may appoint teachers or lecturers][263] \[Repealed\]
+[148][263][][263][Governing body may appoint teachers or lecturers][263] \[Repealed\]
 
 [Appointment and employment of teachers: General][264]
 
-[149][265] [Teachers for special purposes][265] \[Repealed\]
+[149][265][][265][Teachers for special purposes][265] \[Repealed\]
 
-[150][266] [Married women as teachers][266] \[Repealed\]
+[150][266][][266][Married women as teachers][266] \[Repealed\]
 
-[151][267] [Restriction upon elegibility of teachers for appointment][267] \[Repealed\]
+[151][267][][267][Restriction upon elegibility of teachers for appointment][267] \[Repealed\]
 
-[152][268] [Proposed transfers of secondary teachers and teachers at composite schools][268] \[Repealed\]
+[152][268][][268][Proposed transfers of secondary teachers and teachers at composite schools][268] \[Repealed\]
 
-[152A][269] [Proposed transfer of primary teachers][269] \[Repealed\]
+[152A][269][][269][Proposed transfer of primary teachers][269] \[Repealed\]
 
-[153][270] [Payment of overgrade salaries, etc][270] \[Repealed\]
+[153][270][][270][Payment of overgrade salaries, etc][270] \[Repealed\]
 
-[154][271] [Protection of teachers in certain cases][271] \[Repealed\]
+[154][271][][271][Protection of teachers in certain cases][271] \[Repealed\]
 
-[155][272] [Duration of appointment of teacher][272] \[Repealed\]
+[155][272][][272][Duration of appointment of teacher][272] \[Repealed\]
 
-[156][273] [Interpretation][273] \[Repealed\]
+[156][273][][273][Interpretation][273] \[Repealed\]
 
-[157][274] [Disciplinary action where teacher charged with serious offence][274] \[Repealed\]
+[157][274][][274][Disciplinary action where teacher charged with serious offence][274] \[Repealed\]
 
-[158][275] [Disciplinary offences][275] \[Repealed\]
+[158][275][][275][Disciplinary offences][275] \[Repealed\]
 
-[159][276] [Steps to be taken where offence alleged][276] \[Repealed\]
+[159][276][][276][Steps to be taken where offence alleged][276] \[Repealed\]
 
-[160][277] [Notice of imposition of penalty][277] \[Repealed\]
+[160][277][][277][Notice of imposition of penalty][277] \[Repealed\]
 
-[161][278] [Appeals][278] \[Repealed\]
+[161][278][][278][Appeals][278] \[Repealed\]
 
-[161A][279] [Procedure for alleged offences by certain teachers][279] \[Repealed\]
+[161A][279][][279][Procedure for alleged offences by certain teachers][279] \[Repealed\]
 
-[162][280] [Teachers to take oath of allegiance][280]
+[162][280][][280][Teachers to take oath of allegiance][280]
 
-[163][281] [Teachers not to engage in other employment in certain circumstances][281] \[Repealed\]
+[163][281][][281][Teachers not to engage in other employment in certain circumstances][281] \[Repealed\]
 
-[164][282] [Control of officers of Public Service engaged as teachers][282] \[Repealed\]
+[164][282][][282][Control of officers of Public Service engaged as teachers][282] \[Repealed\]
 
-[164A][283] [Teachers determinations][283] \[Repealed\]
+[164A][283][][283][Teachers determinations][283] \[Repealed\]
 
-[164B][284] [Amending determinations][284] \[Repealed\]
+[164B][284][][284][Amending determinations][284] \[Repealed\]
 
-[164C][285] [Consolidating determinations][285] \[Repealed\]
+[164C][285][][285][Consolidating determinations][285] \[Repealed\]
 
-[164D][286] [Conciliation][286] \[Repealed\]
+[164D][286][][286][Conciliation][286] \[Repealed\]
 
-[164E][287] [Extent of application of Industrial Conciliation and Arbitration Act 1954][287] \[Repealed\]
+[164E][287][][287][Extent of application of Industrial Conciliation and Arbitration Act 1954][287] \[Repealed\]
 
-[165][288] [Salaries and conditions of employment of teachers][288] \[Repealed\]
+[165][288][][288][Salaries and conditions of employment of teachers][288] \[Repealed\]
 
-[165AA][289] [Appeals against selection in certain cases ][289] \[Repealed\]
+[165AA][289][][289][Appeals against selection in certain cases ][289] \[Repealed\]
 
-[165A][290] [Accounting and payment services for teachers' salaries][290] \[Repealed\]
+[165A][290][][290][Accounting and payment services for teachers' salaries][290] \[Repealed\]
 
 [Part 5A][291]  
 [Short-term appointments at technical institutes, community colleges, and teachers colleges][291]
 
 \[Repealed\]
 
-[165B][292] [Governing bodies may make short-term appointments][292] \[Repealed\]
+[165B][292][][292][Governing bodies may make short-term appointments][292] \[Repealed\]
 
 [Part 5B][293]  
 [Employees of education authorities][293]
 
 \[Repealed\]
 
-[165C][294] [Education authorities may appoint staff][294] \[Repealed\]
+[165C][294][][294][Education authorities may appoint staff][294] \[Repealed\]
 
-[165D][295] [Regulations relating to appointment of staff by education authorities][295] \[Repealed\]
+[165D][295][][295][Regulations relating to appointment of staff by education authorities][295] \[Repealed\]
 
 [Part 6][296]  
 [Teachers incorporation and Court of Appeal][296]
 
 \[Repealed\]
 
-[166][297] [Interpretation][297] \[Repealed\]
+[166][297][][297][Interpretation][297] \[Repealed\]
 
 [Incorporation of societies of teachers][298]
 
 \[Repealed\]
 
-[167][299] [Applications for registration of societies][299] \[Repealed\]
+[167][299][][299][Applications for registration of societies][299] \[Repealed\]
 
-[168][300] [Registration and incorporation][300] \[Repealed\]
+[168][300][][300][Registration and incorporation][300] \[Repealed\]
 
-[169][301] [Powers of incorporated societies][301] \[Repealed\]
+[169][301][][301][Powers of incorporated societies][301] \[Repealed\]
 
-[170][302] [Rules of society][302] \[Repealed\]
+[170][302][][302][Rules of society][302] \[Repealed\]
 
-[171][303] [Effect of resignation of member][303] \[Repealed\]
+[171][303][][303][Effect of resignation of member][303] \[Repealed\]
 
-[172][304] [Returns by society][304] \[Repealed\]
+[172][304][][304][Returns by society][304] \[Repealed\]
 
-[173][305] [Restrictions on registration][305] \[Repealed\]
+[173][305][][305][Restrictions on registration][305] \[Repealed\]
 
 [Appeals by teachers][306]
 
 \[Repealed\]
 
-[174][307] [Court of Appeal][307] \[Repealed\]
+[174][307][][307][Court of Appeal][307] \[Repealed\]
 
-[175][308] [Rights of appeal][308] \[Repealed\]
+[175][308][][308][Rights of appeal][308] \[Repealed\]
 
-[176][309] [Appearance of parties][309] \[Repealed\]
+[176][309][][309][Appearance of parties][309] \[Repealed\]
 
-[177][310] [When teachers deemed to be dismissed][310] \[Repealed\]
+[177][310][][310][When teachers deemed to be dismissed][310] \[Repealed\]
 
-[178][311] [Decision of court][311] \[Repealed\]
+[178][311][][311][Decision of court][311] \[Repealed\]
 
-[179][312] [Effect of decision in favour of appellant][312] \[Repealed\]
+[179][312][][312][Effect of decision in favour of appellant][312] \[Repealed\]
 
-[180][313] [Costs][313] \[Repealed\]
+[180][313][][313][Costs][313] \[Repealed\]
 
-[181][314] [Effect of non-attendance of members of court][314] \[Repealed\]
+[181][314][][314][Effect of non-attendance of members of court][314] \[Repealed\]
 
-[182][315] [Procedure on appeals][315] \[Repealed\]
+[182][315][][315][Procedure on appeals][315] \[Repealed\]
 
 [Part 7][316]  
 [Inspection of schools][316]
 
 \[Repealed\]
 
-[183][317] [Inspection of schools][317] \[Repealed\]
+[183][317][][317][Inspection of schools][317] \[Repealed\]
 
-[184][318] [Inspection of technical institutes, teachers colleges, and community colleges][318] \[Repealed\]
+[184][318][][318][Inspection of technical institutes, teachers colleges, and community colleges][318] \[Repealed\]
 
-[184A][319] [Inspection of pre-school institutions][319] \[Repealed\]
+[184A][319][][319][Inspection of pre-school institutions][319] \[Repealed\]
 
-[185][320] [Schools to be open for inspection][320] \[Repealed\]
+[185][320][][320][Schools to be open for inspection][320] \[Repealed\]
 
-[185A][321] [Inspection by the Director-General of school accounts][321] \[Repealed\]
+[185A][321][][321][Inspection by the Director-General of school accounts][321] \[Repealed\]
 
-[186][322] [Registration and inspection of private schools][322] \[Repealed\]
+[186][322][][322][Registration and inspection of private schools][322] \[Repealed\]
 
-[186A][323] [Registration and inspection of courses of study at private colleges][323] \[Repealed\]
+[186A][323][][323][Registration and inspection of courses of study at private colleges][323] \[Repealed\]
 
 [Part 8][324]  
 [General provisions][324]
 
-[187][325] [Exemptions from taxation][325]
+[187][325][][325][Exemptions from taxation][325]
 
-[188][326] [Exemptions from rating][326] \[Repealed\]
+[188][326][][326][Exemptions from rating][326] \[Repealed\]
 
-[189][327] [Trustees of school may agree to place it under control of board][327] \[Repealed\]
+[189][327][][327][Trustees of school may agree to place it under control of board][327] \[Repealed\]
 
-[190][328] [Vesting of assets of school placed under control of board][328] \[Repealed\]
+[190][328][][328][Vesting of assets of school placed under control of board][328] \[Repealed\]
 
-[191][329] [Controlling authority of a school or other educational institution may receive property for foundation of scholarships][329] \[Repealed\]
+[191][329][][329][Controlling authority of a school or other educational institution may receive property for foundation of scholarships][329] \[Repealed\]
 
-[192][330] [Assistance to registered private schools][330] \[Repealed\]
+[192][330][][330][Assistance to registered private schools][330] \[Repealed\]
 
-[192A][331] [Research][331] \[Repealed\]
+[192A][331][][331][Research][331] \[Repealed\]
 
-[193][332] [Bursaries, scholarships, etc][332] \[Repealed\]
+[193][332][][332][Bursaries, scholarships, etc][332] \[Repealed\]
 
-[193AA][333] [Tertiary Assistance Grants Appeal Authority][333] \[Repealed\]
+[193AA][333][][333][Tertiary Assistance Grants Appeal Authority][333] \[Repealed\]
 
-[193AB][334] [Procedure to be prescribed][334] \[Repealed\]
+[193AB][334][][334][Procedure to be prescribed][334] \[Repealed\]
 
-[193A][335] [Guidance and counselling of pupils][335] \[Repealed\]
+[193A][335][][335][Guidance and counselling of pupils][335] \[Repealed\]
 
-[193B][336] [Forbidding attendance of pupil on grounds of want of cleanliness or suspicion of communicable disease][336] \[Repealed\]
+[193B][336][][336][Forbidding attendance of pupil on grounds of want of cleanliness or suspicion of communicable disease][336] \[Repealed\]
 
-[194][337] [Temporary or permanent closing of schools and institutions in cases of emergency][337] \[Repealed\]
+[194][337][][337][Temporary or permanent closing of schools and institutions in cases of emergency][337] \[Repealed\]
 
-[195][338] [Wilful disturbance of school][338] \[Repealed\]
+[195][338][][338][Wilful disturbance of school][338] \[Repealed\]
 
-[196][339] [Certificates as to education][339] \[Repealed\]
+[196][339][][339][Certificates as to education][339] \[Repealed\]
 
-[196A][340] [School certificate examination][340] \[Repealed\]
+[196A][340][][340][School certificate examination][340] \[Repealed\]
 
-[197][341] [Bonds for entry to teaching][341] \[Repealed\]
+[197][341][][341][Bonds for entry to teaching][341] \[Repealed\]
 
-[198][342] [Right of head teachers and principals to attend meetings of school committees and school governing bodies][342] \[Repealed\]
+[198][342][][342][Right of head teachers and principals to attend meetings of school committees and school governing bodies][342] \[Repealed\]
 
-[199][343] [Occupation of teacher's house][343] \[Repealed\]
+[199][343][][343][Occupation of teacher's house][343] \[Repealed\]
 
-[200][344] [Teacher refusing to give up a teacher's house on demand][344] \[Repealed\]
+[200][344][][344][Teacher refusing to give up a teacher's house on demand][344] \[Repealed\]
 
-[201][345] [Establishment of community centres][345] \[Repealed\]
+[201][345][][345][Establishment of community centres][345] \[Repealed\]
 
-[201A][346] [Interpretation of sections 201B to 201D][346] \[Repealed\]
+[201A][346][][346][Interpretation of sections 201B to 201D][346] \[Repealed\]
 
-[201B][347] [Transport assistance provided by Director-General][347] \[Repealed\]
+[201B][347][][347][Transport assistance provided by Director-General][347] \[Repealed\]
 
-[201C][348] [Delegation by Director-General of his powers and functions in relation to school transport assistance][348] \[Repealed\]
+[201C][348][][348][Delegation by Director-General of his powers and functions in relation to school transport assistance][348] \[Repealed\]
 
-[201D][349] [Regulations for school transport assistance][349] \[Repealed\]
+[201D][349][][349][Regulations for school transport assistance][349] \[Repealed\]
 
-[201E][350] [Giving notice][350] \[Repealed\]
+[201E][350][][350][Giving notice][350] \[Repealed\]
 
-[202][351] [Annual report][351] \[Repealed\]
+[202][351][][351][Annual report][351] \[Repealed\]
 
-[203][352] [Regulations][352] \[Repealed\]
+[203][352][][352][Regulations][352] \[Repealed\]
 
-[203A][353] [Building Act 1991][353] \[Repealed\]
+[203A][353][][353][Building Act 1991][353] \[Repealed\]
 
-[204][354] [Repeals and amendment][354] \[Repealed\]
+[204][354][][354][Repeals and amendment][354] \[Repealed\]
 
 [Schedule][355]  
 [Enactments repealed][355]
@@ -2751,7 +2751,7 @@ Appointment and employment of teachers
     
     (2) Any oath or affirmation required to be made under this section may be made and subscribed before a Justice of the Peace, or a solicitor of the High Court, or the chairman of an education board or of the governing body or controlling authority of a secondary school, technical institute, community college, or teachers college, or of a school's board, and every such Justice, solicitor, and chairman shall have authority to administer and receive any such oath or affirmation.
     
-    (3) If any person is employed or continues to be employed, or acts, in a private school in contravention of this section, the managers of that private school commit an offence, and shall be jointly and severally liable on summary conviction to a fine not exceeding 50 pounds.
+    (3) If any person is employed or continues to be employed, or acts, in a private school in contravention of this section, the managers of that private school commit an offence, and shall be jointly and severally liable on conviction to a fine not exceeding 50 pounds.
     
     Compare: 1921--22 No 27 s 11
     
@@ -2768,6 +2768,8 @@ Appointment and employment of teachers
     Section 162(2): amended, on 8 November 1974, by section 14(2) of the Education Amendment Act (No 2) 1974 (1974 No 136).
     
     Section 162(2): amended, on 20 October 1972, by [section 9(2)][389] of the Education Amendment Act 1972 (1972 No 34).
+    
+    Section 162(3): amended, on 1 July 2013, by [section 413][391] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 163 Teachers not to engage in other employment in certain circumstances
     
@@ -2993,7 +2995,7 @@ Inspection of schools
     
 *   \[Repealed\]
     
-    Section 183: repealed, on 1 January 1990, by [section 12(2)(b)][391] of the Education Amendment Act 1989 (1989 No 156).
+    Section 183: repealed, on 1 January 1990, by [section 12(2)(b)][392] of the Education Amendment Act 1989 (1989 No 156).
 
 ##### 184 Inspection of technical institutes, teachers colleges, and community colleges
     
@@ -3023,7 +3025,7 @@ Inspection of schools
     
 *   \[Repealed\]
     
-    Section 186: repealed, on 1 January 1990, by [section 9(3)(a)][392] of the Education Amendment Act 1989 (1989 No 156).
+    Section 186: repealed, on 1 January 1990, by [section 9(3)(a)][393] of the Education Amendment Act 1989 (1989 No 156).
 
 ##### 186A Registration and inspection of courses of study at private colleges
     
@@ -3040,7 +3042,7 @@ General provisions
     
     (2) Nothing in subsection (1) exempts an education board, a secondary schools council, the governing body of a secondary school, teachers college, technical institute, or community college, or an education centre council, from---
         
-    *   (a) the payment of goods and services tax under the [Goods and Services Tax Act 1985][393]; or
+    *   (a) the payment of goods and services tax under the [Goods and Services Tax Act 1985][394]; or
     
     *   (b) any obligation imposed by that Act.
     
@@ -3048,9 +3050,9 @@ General provisions
     
     Section 187(1): amended, on 20 July 1987, by section 26(3) of the Education Amendment Act (No 2) 1987 (1987 No 177).
     
-    Section 187(1): amended (with effect on 15 October 1965), on 6 December 1983, by [section 17(1)][394] of the Education Amendment Act 1983 (1983 No 57).
+    Section 187(1): amended (with effect on 15 October 1965), on 6 December 1983, by [section 17(1)][395] of the Education Amendment Act 1983 (1983 No 57).
     
-    Section 187(1): amended, on 8 November 1974, by [section 14(2)][395] of the Education Amendment Act (No 2) 1974 (1974 No 136).
+    Section 187(1): amended, on 8 November 1974, by [section 14(2)][396] of the Education Amendment Act (No 2) 1974 (1974 No 136).
     
     Section 187(1): amended, on 9 December 1971, by section 14 of the Education Amendment Act 1971 (1971 No 145).
     
@@ -3291,7 +3293,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Education Amendment Act 1989][396].
+*   (1) This Act may be cited as the [Education Amendment Act 1989][397].
     
     (2) This Act shall come into force on 1 January 1990\.
 
@@ -3328,11 +3330,11 @@ Amendments to Education Act 1964
     
     (10) \[Repealed\]
     
-    Section 23(8): repealed, on 1 January 1992, by [section 35(3)(c)][397] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 23(8): repealed, on 1 January 1992, by [section 35(3)(c)][398] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
-    Section 23(9): repealed, on 1 January 1992, by [section 35(3)(c)][397] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 23(9): repealed, on 1 January 1992, by [section 35(3)(c)][398] of the Education Amendment Act (No 4) 1991 (1991 No 136).
     
-    Section 23(10): repealed, on 1 January 1992, by [section 35(3)(c)][397] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+    Section 23(10): repealed, on 1 January 1992, by [section 35(3)(c)][398] of the Education Amendment Act (No 4) 1991 (1991 No 136).
 
 ---
 
@@ -3344,7 +3346,7 @@ Commencementsee section 1
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Education Amendment Act 1990][398], and shall be read together with and deemed part of the Education Act 1989 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Education Amendment Act 1990][399], and shall be read together with and deemed part of the Education Act 1989 (hereinafter referred to as ""the principal Act"").
     
     (2) Section 50(2), and Schedule 3, shall come into force on 1 October 1990\.
     
@@ -3383,23 +3385,23 @@ Miscellaneous amendments to principal Act
 
 ###### 1 General
     
-*   This is a reprint of the Education Act 1964\. The reprint incorporates all the amendments to the Act as at 21 December 2010, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Education Act 1964\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][399] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][400] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][400] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][401] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][401] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][402] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][402] and [17E][403] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][403] and [17E][404] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -3430,7 +3432,9 @@ Miscellaneous amendments to principal Act
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Education Amendment Act (No 3) 2010 (2010 No 134): [section 35][369]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][391]
+    
+    Education Amendment Act (No 3) 2010 (2010 No 134): [section 35][369]
     
     Immigration Act 2009 (2009 No 51): [section 406(1)][368]
     
@@ -3444,13 +3448,13 @@ Miscellaneous amendments to principal Act
     
     Education Amendment Act 1993 (1993 No 51): [section 8(2)][378]
     
-    Education Amendment Act (No 4) 1991 (1991 No 136): [section 35(3)(c)][397]
+    Education Amendment Act (No 4) 1991 (1991 No 136): [section 35(3)(c)][398]
     
     Education Amendment Act (No 2) 1990 (1990 No 118): section 2(2)(a)
     
     Education Amendment Act 1990 (1990 No 60): [section 50(4), (5)][374]
     
-    Education Amendment Act 1989 (1989 No 156): [sections 9(3)(a)][392], [12(2)(b)][391], [15(5)(a)][376], [18(1)][381], [19(1)][365], [21(7)][375]
+    Education Amendment Act 1989 (1989 No 156): [sections 9(3)(a)][393], [12(2)(b)][392], [15(5)(a)][376], [18(1)][381], [19(1)][365], [21(7)][375]
     
     State Sector Amendment Act (No 2) 1989 (1989 No 136): [section 32(1)][387]
     
@@ -3480,9 +3484,9 @@ Miscellaneous amendments to principal Act
     
     Private Schools Conditional Integration Act 1975 (1975 No 129): [section 83(1), (8), (9)][372]
     
-    [Education Amendment Act (No 2) 1974][404] (1974 No 136)
+    [Education Amendment Act (No 2) 1974][405] (1974 No 136)
     
-    [Education Amendment Act 1972][405] (1972 No 34)
+    [Education Amendment Act 1972][406] (1972 No 34)
     
     Education Amendment Act 1971 (1971 No 145)
     
@@ -3887,18 +3891,19 @@ Miscellaneous amendments to principal Act
 [388]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM182047
 [389]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM407014
 [390]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM35049
-[391]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM199308
-[392]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM199305
-[393]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM81034
-[394]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM74052
-[395]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM425957
-[396]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM198291
-[397]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM253149
-[398]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM212610
-[399]: http://www.pco.parliament.govt.nz/reprints/
-[400]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM195439
-[401]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[402]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM195468
-[403]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM195470
-[404]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM425934
-[405]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM406598
+[391]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM3360714
+[392]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM199308
+[393]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM199305
+[394]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM81034
+[395]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM74052
+[396]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM425957
+[397]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM198291
+[398]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM253149
+[399]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM212610
+[400]: http://www.pco.parliament.govt.nz/reprints/
+[401]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM195439
+[402]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[403]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM195468
+[404]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM195470
+[405]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM425934
+[406]: http://www.legislation.govt.nz/act/public/1964/0135/latest/link.aspx?id=DLM406598
