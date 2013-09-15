@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -393,11 +393,13 @@ Controls in respect of ozone depleting substances
     
     *   (c) shall advise the recipient of the offences prescribed by subsection (3) and [section 13][33].
     
-    (3) Any person or representative who fails, within 6 months after the date on which any such notice is sent to the person, to submit for approval a code of practice complying with the notice, commits an offence, and is liable on summary conviction to a fine not exceeding $1,000\.
+    (3) Any person or representative who fails, within 6 months after the date on which any such notice is sent to the person, to submit for approval a code of practice complying with the notice, commits an offence, and is liable on conviction to a fine not exceeding $1,000\.
     
     Compare: 1990 No 50 s 33
     
     Section 10(1): amended, on 1 July 2011, by [section 9][70] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
+    
+    Section 10(3): amended, on 1 July 2013, by [section 413][71] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Accreditation
 
@@ -419,7 +421,9 @@ Controls in respect of ozone depleting substances
     
     *   (b) otherwise directly handles ozone depleting substances in a way that involves a possible risk of release of those substances into the atmosphere,---
     
-    and is liable on summary conviction to a fine not exceeding $10,000\.
+    and is liable on conviction to a fine not exceeding $10,000\.
+    
+    Section 11(3): amended, on 1 July 2013, by [section 413][71] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 12 Industry may be required to prepare draft accreditation schemes
     
@@ -433,23 +437,25 @@ Controls in respect of ozone depleting substances
     
     *   (d) such other matters as the notice may specify.
     
-    (2) Any person who fails without reasonable excuse, within 6 months after the date on which any such notice is sent to the person, to submit a draft accreditation scheme, commits an offence, and is liable on summary conviction to a fine not exceeding $1,000\.
+    (2) Any person who fails without reasonable excuse, within 6 months after the date on which any such notice is sent to the person, to submit a draft accreditation scheme, commits an offence, and is liable on conviction to a fine not exceeding $1,000\.
     
-    Section 12(1): amended, on 1 July 2011, by [section 10][71] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
+    Section 12(1): amended, on 1 July 2011, by [section 10][72] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
+    
+    Section 12(2): amended, on 1 July 2013, by [section 413][71] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Forms
     
-*   Heading: inserted, on 1 July 2011, by [section 11][72] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
+*   Heading: inserted, on 1 July 2011, by [section 11][73] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
 
 ##### 12A Environmental Protection Authority may approve forms
     
 *   The Environmental Protection Authority may approve forms for the purposes of this Act.
     
-    Section 12A: inserted, on 1 July 2011, by [section 11][72] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
+    Section 12A: inserted, on 1 July 2011, by [section 11][73] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
 
 #### Register
     
-*   Heading: inserted, on 1 July 2011, by [section 11][72] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
+*   Heading: inserted, on 1 July 2011, by [section 11][73] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
 
 ##### 12B Register
     
@@ -459,7 +465,7 @@ Controls in respect of ozone depleting substances
     
     (3) The Crown owns all information contained in the register.
     
-    Section 12B: inserted, on 1 July 2011, by [section 11][72] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
+    Section 12B: inserted, on 1 July 2011, by [section 11][73] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
 
 ##### 12C Information to be included in register
     
@@ -499,13 +505,13 @@ Controls in respect of ozone depleting substances
     
     (4) The register may record any other information that the Environmental Protection Authority considers appropriate.
     
-    Section 12C: inserted, on 1 July 2011, by [section 11][72] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
+    Section 12C: inserted, on 1 July 2011, by [section 11][73] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
 
 ##### 12D Environmental Protection Authority to allow New Zealand Customs Service access to register
     
 *   The Environmental Protection Authority must allow the New Zealand Customs Service to have access to the register.
     
-    Section 12D: inserted, on 1 July 2011, by [section 11][72] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
+    Section 12D: inserted, on 1 July 2011, by [section 11][73] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
 
 #### Offences and penalties
 
@@ -553,13 +559,19 @@ Controls in respect of ozone depleting substances
 
 ##### 15 Penalties
     
-*   (1) Every person who commits an offence against paragraph (a) or paragraph (b) or paragraph (c) of [section 13][33] is liable on summary conviction to a fine not exceeding $200,000\.
+*   (1) Every person who commits an offence against paragraph (a) or paragraph (b) or paragraph (c) of [section 13][33] is liable on conviction to a fine not exceeding $200,000\.
     
-    (2) Every person who commits an offence against paragraph (d) or paragraph (e) of [section 13][33] is liable on summary conviction to a fine not exceeding $100,000\.
+    (2) Every person who commits an offence against paragraph (d) or paragraph (e) of [section 13][33] is liable on conviction to a fine not exceeding $100,000\.
     
-    (3) Every person who commits an offence against paragraph (f) of [section 13][33] is liable on summary conviction to a fine not exceeding $10,000\.
+    (3) Every person who commits an offence against paragraph (f) of [section 13][33] is liable on conviction to a fine not exceeding $10,000\.
     
     Compare: 1990 No 50 s 35
+    
+    Section 15(1): amended, on 1 July 2013, by [section 413][71] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 15(2): amended, on 1 July 2013, by [section 413][71] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 15(3): amended, on 1 July 2013, by [section 413][71] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 3  
 Regulations
@@ -578,7 +590,7 @@ Regulations
     
     *   (da) prescribing the particulars of permits and exemptions to be shown in the Ozone Layer Protection Register:
     
-    *   (e) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this Act, and prescribing fines, not exceeding $5,000, that may, on summary conviction, be imposed in respect of any such offence:
+    *   (e) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this Act, and prescribing fines, not exceeding $5,000, that may, on conviction, be imposed in respect of any such offence:
     
     *   (f) providing for such other matters as are contemplated by or are necessary for giving full effect to this Act and its due administration.
     
@@ -596,11 +608,13 @@ Regulations
     
     *   (b) on or subject to any terms and conditions as may be imposed by the person granting the permit or as may be prescribed.
     
-    Compare: 1988 No 157 [s 3(2), (3)][73]
+    Compare: 1988 No 157 [s 3(2), (3)][74]
     
-    Section 16(1): amended, on 1 July 2011, by [section 12(a)][74] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
+    Section 16(1): amended, on 1 July 2011, by [section 12(a)][75] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
     
-    Section 16(1)(da): inserted, on 1 July 2011, by [section 12(b)][74] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
+    Section 16(1)(da): inserted, on 1 July 2011, by [section 12(b)][75] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
+    
+    Section 16(1)(e): amended, on 1 July 2013, by [section 413][71] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 17 Consultation requirements before regulations made
     
@@ -622,9 +636,9 @@ Regulations
     
     (6) A failure to comply with this section shall not affect the validity of any regulations made under this Act.
     
-    Section 17(1): amended, on 1 July 2011, by [section 13][75] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
+    Section 17(1): amended, on 1 July 2011, by [section 13][76] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
     
-    Section 17(5): amended, on 1 July 2011, by [section 13][75] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
+    Section 17(5): amended, on 1 July 2011, by [section 13][76] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
 
 ##### 18 Additional requirement before regulations made
     
@@ -632,7 +646,7 @@ Regulations
     
     Compare: 1990 No 50 s 53(2)(b)
     
-    Section 18: amended, on 1 July 2011, by [section 14][76] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
+    Section 18: amended, on 1 July 2011, by [section 14][77] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
 
 ##### 19 Manufacture of goods not to be prohibited unless importation also prohibited
     
@@ -675,19 +689,21 @@ Enforcement
     
     *   (b) evidence of that person's identity.
     
-    (5) Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,000 who refuses or fails to comply with any requirement of an officer under this section.
+    (5) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who refuses or fails to comply with any requirement of an officer under this section.
     
     (6) Nothing in this section shall limit or affect the privilege against self-incrimination.
     
     Compare: 1990 No 50 s 37
+    
+    Section 22(5): amended, on 1 July 2013, by [section 413][71] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 23 Search warrants
     
-*   (1) Any issuing officer (within the meaning of [section 3][77] of the Search and Surveillance Act 2012) who is satisfied, on an application made in the manner provided in [subpart 3][78] of Part 4 of that Act, that there are reasonable grounds for believing that there is in or on any premises any substances or goods, or any books, documents, or other records, which there are reasonable grounds to believe may be evidence of the commission of any offence against this Act, may issue a search warrant in the prescribed form.
+*   (1) Any issuing officer (within the meaning of [section 3][78] of the Search and Surveillance Act 2012) who is satisfied, on an application made in the manner provided in [subpart 3][79] of Part 4 of that Act, that there are reasonable grounds for believing that there is in or on any premises any substances or goods, or any books, documents, or other records, which there are reasonable grounds to believe may be evidence of the commission of any offence against this Act, may issue a search warrant in the prescribed form.
     
     (2) Every search warrant shall be directed either to a constable by name or to every constable or to any officer by name, but in any of those cases, the warrant may be executed by any constable.
     
-    (3) The provisions of [Part 4][79] of the Search and Surveillance Act 2012 (except [sections 118][80] and [119][81]) apply.
+    (3) The provisions of [Part 4][80] of the Search and Surveillance Act 2012 (except [sections 118][81] and [119][82]) apply.
     
     (4) \[Repealed\]
     
@@ -705,21 +721,21 @@ Enforcement
     
     Compare: 1990 No 50 s 38
     
-    Section 23(1): amended, on 1 October 2012, by [section 288(1)][82] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 23(1): amended, on 1 October 2012, by [section 288(1)][83] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 23(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][83] of the Policing Act 2008 (2008 No 72).
+    Section 23(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][84] of the Policing Act 2008 (2008 No 72).
     
-    Section 23(3): replaced, on 1 October 2012, by [section 288(2)][82] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 23(3): replaced, on 1 October 2012, by [section 288(2)][83] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 23(4): repealed, on 1 October 2012, by [section 288(2)][82] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 23(4): repealed, on 1 October 2012, by [section 288(2)][83] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 23(5): repealed, on 1 October 2012, by [section 288(2)][82] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 23(5): repealed, on 1 October 2012, by [section 288(2)][83] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 23(6): repealed, on 1 October 2012, by [section 288(2)][82] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 23(6): repealed, on 1 October 2012, by [section 288(2)][83] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 23(7): repealed, on 1 October 2012, by [section 288(2)][82] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 23(7): repealed, on 1 October 2012, by [section 288(2)][83] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 23(8): repealed, on 1 October 2012, by [section 288(2)][82] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 23(8): repealed, on 1 October 2012, by [section 288(2)][83] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 24 Seizure by Customs officers
     
@@ -729,9 +745,9 @@ Enforcement
 
 ##### 25 Retention of property seized
     
-*   If any constable or officer seizes any substance or goods under this Act, [subparts 1][84], [6][85], [7][86], [9][87], and [10][88] of Part 4 of the Search and Surveillance Act 2012 apply in respect of the seizure of that substance or those goods.
+*   If any constable or officer seizes any substance or goods under this Act, [subparts 1][85], [6][86], [7][87], [9][88], and [10][89] of Part 4 of the Search and Surveillance Act 2012 apply in respect of the seizure of that substance or those goods.
     
-    Section 25: replaced, on 1 October 2012, by [section 289][89] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 25: replaced, on 1 October 2012, by [section 289][90] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 26 Forfeiture of property seized
     
@@ -743,13 +759,13 @@ Enforcement
     
     Compare: 1990 No 50 s 42
     
-    Section 26 heading: amended, on 1 October 2012, by [section 290(1)][90] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 26 heading: amended, on 1 October 2012, by [section 290(1)][91] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 26(1): repealed, on 1 October 2012, by [section 290(2)][90] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 26(1): repealed, on 1 October 2012, by [section 290(2)][91] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 26(2): repealed, on 1 October 2012, by [section 290(2)][90] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 26(2): repealed, on 1 October 2012, by [section 290(2)][91] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 26(3): amended, on 1 July 2011, by [section 16][91] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
+    Section 26(3): amended, on 1 July 2011, by [section 16][92] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
 
 ## Part 5  
 Miscellaneous provisions
@@ -760,7 +776,7 @@ Miscellaneous provisions
     
     Compare: 1990 No 50 s 48
     
-    Section 27: amended, on 1 July 2011, by [section 17][92] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
+    Section 27: amended, on 1 July 2011, by [section 17][93] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
 
 ##### 28 Other Acts not affected
     
@@ -788,9 +804,9 @@ Miscellaneous provisions
     
     Compare: 1990 No 50 s 52
     
-    Section 30(1): amended, on 1 July 2011, by [section 18(1)][93] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
+    Section 30(1): amended, on 1 July 2011, by [section 18(1)][94] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
     
-    Section 30(2): amended, on 1 July 2011, by [section 18(2)][93] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
+    Section 30(2): amended, on 1 July 2011, by [section 18(2)][94] of the Ozone Layer Protection Amendment Act 2011 (2011 No 18).
 
 ##### 31 Repeals and revocations
     
@@ -798,7 +814,7 @@ Miscellaneous provisions
     
     (2) The regulation and orders specified in [Schedule 3][59] are hereby revoked.
     
-    (3) _Amendment(s) incorporated in the [Act(s)][94]._
+    (3) _Amendment(s) incorporated in the [Act(s)][95]._
 
 ##### 32 Transitional provision relating to consultation on first regulations
     
@@ -1056,8 +1072,6 @@ IN WITNESS WHEREOF the undersigned, being duly authorized to that effect, have s
 
 Done at Vienna on the 22nd day of March 1985\.
 
----
-
 ## Annex I  
 Research and Systematic Observations
 
@@ -1298,7 +1312,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Ozone Layer Protection Amendment Act 2011][95].
+*   This Act is the [Ozone Layer Protection Amendment Act 2011][96].
 
 ##### 2 Commencement
     
@@ -1306,81 +1320,11 @@ Commencementsee section 2
     
     (2) Any provision that has not earlier been brought into force comes into force on 1 December 2012\.
     
-    Section 2(1): this Act brought into force, on 1 July 2011, by the [Ozone Layer Protection Amendment Act 2011 Commencement Order 2011][96] (SR 2011/196).
+    Section 2(1): this Act brought into force, on 1 July 2011, by the [Ozone Layer Protection Amendment Act 2011 Commencement Order 2011][97] (SR 2011/196).
 
 ##### 19 Transitional provision
     
 *   Despite this Act and section 54 of the Environmental Protection Authority Act 2011, an application for a permit or exemption made before the commencement of this section must be determined by the Minister responsible for the administration of the Ozone Layer Protection Act 1996 as if this Act and the Environmental Protection Authority Act 2011 had not been passed.
-
----
-
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][97].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][98] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
 
 ---
 
@@ -1398,23 +1342,23 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Ozone Layer Protection Act 1996\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Ozone Layer Protection Act 1996\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][99] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][98] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][100] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][99] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][101] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][100] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][102] and [17E][103] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][101] and [17E][102] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1445,15 +1389,17 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Search and Surveillance Act 2012 (2012 No 24): [sections 288--290][82]
+*   Search and Surveillance Act 2012 (2012 No 24): [sections 288--290][83]
     
-    [Ozone Layer Protection Amendment Act 2011][95] (2011 No 18)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][71]
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][83]
+    [Ozone Layer Protection Amendment Act 2011][96] (2011 No 18)
     
-    Ministry of Economic Development Act 2000 (2000 No 28): [section 8(1)][104]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][84]
     
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][105]
+    Ministry of Economic Development Act 2000 (2000 No 28): [section 8(1)][103]
+    
+    District Courts Amendment Act 1998 (1998 No 76): [section 7][104]
     
     [Ozone Layer Protection Act Commencement Order 1996][60] (SR 1996/221)
 
@@ -1530,38 +1476,37 @@ Amendments, repeals, and miscellaneous provisions
 [68]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM3719320
 [69]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM3719321
 [70]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM3719327
-[71]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM3719328
-[72]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM3719329
-[73]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM137920
-[74]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM3719336
-[75]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM3719337
-[76]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM3719338
-[77]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2136542
-[78]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2136781
-[79]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2136770
-[80]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2136813
-[81]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2136815
-[82]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2137048
-[83]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM1102349
-[84]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2136771
-[85]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2136860
-[86]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2136877
-[87]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2136888
-[88]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2136896
-[89]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2137049
-[90]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2137051
-[91]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM3719340
-[92]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM3719341
-[93]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM3719342
-[94]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM380404
-[95]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM3719302
-[96]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM3757007
-[97]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2136500
-[98]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM4686448
-[99]: http://www.pco.parliament.govt.nz/reprints/
-[100]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM195439
-[101]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[102]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM195468
-[103]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM195470
-[104]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM67109
-[105]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM427920
+[71]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM3360714
+[72]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM3719328
+[73]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM3719329
+[74]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM137920
+[75]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM3719336
+[76]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM3719337
+[77]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM3719338
+[78]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2136542
+[79]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2136781
+[80]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2136770
+[81]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2136813
+[82]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2136815
+[83]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2137048
+[84]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM1102349
+[85]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2136771
+[86]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2136860
+[87]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2136877
+[88]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2136888
+[89]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2136896
+[90]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2137049
+[91]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM2137051
+[92]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM3719340
+[93]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM3719341
+[94]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM3719342
+[95]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM380404
+[96]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM3719302
+[97]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM3757007
+[98]: http://www.pco.parliament.govt.nz/reprints/
+[99]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM195439
+[100]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[101]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM195468
+[102]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM195470
+[103]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM67109
+[104]: http://www.legislation.govt.nz/act/public/1996/0040/latest/link.aspx?id=DLM427920
