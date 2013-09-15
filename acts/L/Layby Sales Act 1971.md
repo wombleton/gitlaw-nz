@@ -1,5 +1,5 @@
 Reprint  
-as at 3 December 2007
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,7 +17,7 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Ministry of Economic Development.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -25,35 +25,35 @@ This Act is administered by the Ministry of Economic Development.
 
 [Title][1]
 
-[1][2] [Short Title][2]
+[1][2][][2][Short Title][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Layby sale defined][4]
+[3][4][][4][Layby sale defined][4]
 
-[4][5] [Act not to apply to certain layby sales][5]
+[4][5][][5][Act not to apply to certain layby sales][5]
 
-[5][6] [Act to bind the Crown][6]
+[5][6][][6][Act to bind the Crown][6]
 
-[6][7] [Risk not to pass until goods delivered][7]
+[6][7][][7][Risk not to pass until goods delivered][7]
 
-[7][8] [Buyer to be entitled to a statement of his present position][8]
+[7][8][][8][Buyer to be entitled to a statement of his present position][8]
 
-[8][9] [Right of buyer to cancel layby sale][9]
+[8][9][][9][Right of buyer to cancel layby sale][9]
 
-[9][10] [Rights of seller and buyer on cancellation of layby sale][10]
+[9][10][][10][Rights of seller and buyer on cancellation of layby sale][10]
 
-[10][11] [Completion on liquidation, bankruptcy, or receivership of seller][11]
+[10][11][][11][Completion on liquidation, bankruptcy, or receivership of seller][11]
 
-[11][12] [Preference on liquidation, bankruptcy, or receivership of seller][12]
+[11][12][][12][Preference on liquidation, bankruptcy, or receivership of seller][12]
 
-[12][13] [Service of notices][13]
+[12][13][][13][Service of notices][13]
 
-[13][14] [Buyer's rights protected][14]
+[13][14][][14][Buyer's rights protected][14]
 
-[14][15] [Application][15]
+[14][15][][15][Application][15]
 
-[15][16] [Savings][16]
+[15][16][][16][Savings][16]
 
 ---
 
@@ -143,11 +143,13 @@ An Act to reform the law relating to layby sales of certain goods
     
     (3) Where the seller cancels a layby sale he shall, upon request, give to the buyer free of charge a statement complying with subsection (1) and, if the address of the buyer is known to the seller, he shall, whether the buyer requests it or not, give to the buyer, free of charge, such a statement within 7 days after the date of cancellation.
     
-    (4) Every seller who makes default in complying with subsection (1) or subsection (3) commits an offence and is liable on summary conviction to a fine not exceeding $200\.
+    (4) Every seller who makes default in complying with subsection (1) or subsection (3) commits an offence and is liable on conviction to a fine not exceeding $200\.
     
     (5) Nothing in this section shall apply in respect of any layby sale under which the purchase price does not exceed $10\.
     
     Compare: Lay-by Sales Act 1943 s 9(2) (NSW)
+    
+    Section 7(4): amended, on 1 July 2013, by [section 413][22] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 8 Right of buyer to cancel layby sale
     
@@ -195,13 +197,13 @@ An Act to reform the law relating to layby sales of certain goods
     
     (4) If any buyer makes any payment on account of the purchase price after the commencement of the bankruptcy or liquidation or the appointment he shall be entitled to have that payment refunded in full unless the purchase is completed in accordance with subsection (1).
     
-    Section 10 heading: amended, on 1 July 1994, pursuant to [section 2][22] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 10 heading: amended, on 1 July 1994, pursuant to [section 2][23] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 10(1): amended, on 1 July 1994, by [section 2][22] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 10(1): amended, on 1 July 1994, by [section 2][23] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 10(3)(b): amended, on 26 April 2005, by [section 7][23] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 10(3)(b): amended, on 26 April 2005, by [section 7][24] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 10(4): amended, on 1 July 1994, by [section 2][22] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 10(4): amended, on 1 July 1994, by [section 2][23] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
 
 ##### 11 Preference on liquidation, bankruptcy, or receivership of seller
     
@@ -211,35 +213,35 @@ An Act to reform the law relating to layby sales of certain goods
         
     *   (a) is over all or any part of the seller's accounts receivable and inventory or all or any part of either of them; and
     
-    *   (b) is not a purchase money security interest that has been perfected at the time specified in [section 74][24] of the Personal Property Securities Act 1999; and
+    *   (b) is not a purchase money security interest that has been perfected at the time specified in [section 74][25] of the Personal Property Securities Act 1999; and
     
-    *   (c) is not a security interest that has been perfected under the [Personal Property Securities Act 1999][25] at the commencement of the liquidation, or at the time of the receiver's appointment, or at the date of adjudication, as the case may be, and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation).
+    *   (c) is not a security interest that has been perfected under the [Personal Property Securities Act 1999][26] at the commencement of the liquidation, or at the time of the receiver's appointment, or at the date of adjudication, as the case may be, and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation).
     
-    (2) Debts to which priority is given by subsection (1) must be paid in accordance with [section 312][26] and [Schedule 7][27] of the Companies Act 1993, or [section 30][28] of the Receiverships Act 1993, or [section 274(3)][29] of the Insolvency Act 2006, as the case may be.
+    (2) Debts to which priority is given by subsection (1) must be paid in accordance with [section 312][27] and [Schedule 7][28] of the Companies Act 1993, or [section 30][29] of the Receiverships Act 1993, or [section 274(3)][30] of the Insolvency Act 2006, as the case may be.
     
     (3) The rights conferred by subsection (1) shall not be available to any buyer of the kind described in paragraph (a) or paragraph (b) of subsection (3) of [section 10][11].
     
-    (4) In subsection (1), the terms **account receivable**, **inventory**, **new value**, **purchase money security interest**, and **security interest** have the same meanings as in the [Personal Property Securities Act 1999][25].
+    (4) In subsection (1), the terms **account receivable**, **inventory**, **new value**, **purchase money security interest**, and **security interest** have the same meanings as in the [Personal Property Securities Act 1999][26].
     
-    (5) The provisions of this section, as in force immediately before the commencement of the [Personal Property Securities Act 1999][25], continue to apply in respect of a seller's property that was subject to a floating charge that, before the commencement of that Act, became a fixed or specific charge.
+    (5) The provisions of this section, as in force immediately before the commencement of the [Personal Property Securities Act 1999][26], continue to apply in respect of a seller's property that was subject to a floating charge that, before the commencement of that Act, became a fixed or specific charge.
     
-    Section 11 heading: amended, on 1 July 1994, pursuant to [section 2][22] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 11 heading: amended, on 1 July 1994, pursuant to [section 2][23] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 11(1): amended, on 1 May 2002, by [section 191(1)][30] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 11(1): amended, on 1 May 2002, by [section 191(1)][31] of the Personal Property Securities Act 1999 (1999 No 126).
     
-    Section 11(1): amended, on 1 July 1994, by [section 2][22] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 11(1): amended, on 1 July 1994, by [section 2][23] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 11(1A): inserted, on 1 May 2002, by [section 191(1)][30] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 11(1A): inserted, on 1 May 2002, by [section 191(1)][31] of the Personal Property Securities Act 1999 (1999 No 126).
     
-    Section 11(1A)(b): amended, on 3 December 2007, by [section 445][31] of the Insolvency Act 2006 (2006 No 55).
+    Section 11(1A)(b): amended, on 3 December 2007, by [section 445][32] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 11(1A)(c): amended, on 3 December 2007, by [section 445][31] of the Insolvency Act 2006 (2006 No 55).
+    Section 11(1A)(c): amended, on 3 December 2007, by [section 445][32] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 11(2): replaced, on 3 December 2007, by [section 445][31] of the Insolvency Act 2006 (2006 No 55).
+    Section 11(2): replaced, on 3 December 2007, by [section 445][32] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 11(4): inserted, on 1 May 2002, by [section 191(1)][30] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 11(4): inserted, on 1 May 2002, by [section 191(1)][31] of the Personal Property Securities Act 1999 (1999 No 126).
     
-    Section 11(5): inserted, on 1 May 2002, by [section 191(1)][30] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 11(5): inserted, on 1 May 2002, by [section 191(1)][31] of the Personal Property Securities Act 1999 (1999 No 126).
 
 ##### 12 Service of notices
     
@@ -255,9 +257,9 @@ An Act to reform the law relating to layby sales of certain goods
     
     (6) This section does not apply to notices or other documents served in any proceedings in any court.
     
-    Section 12(3): amended, on 1 April 1980, pursuant to [section 18(2)][32] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 12(3): amended, on 1 April 1980, pursuant to [section 18(2)][33] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 12(5): amended, on 1 April 1980, pursuant to [section 18(2)][32] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 12(5): amended, on 1 April 1980, pursuant to [section 18(2)][33] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 13 Buyer's rights protected
     
@@ -265,7 +267,7 @@ An Act to reform the law relating to layby sales of certain goods
     
     (2) Nothing in this Act shall prevent any layby sale from having effect according to its tenor in so far as the terms of that sale are more favourable to the buyer than the terms that the buyer would enjoy by virtue of the provisions of this Act.
     
-    (3) [Section 56][33] of the Sale of Goods Act 1908 shall be read subject to the provisions of this section.
+    (3) [Section 56][34] of the Sale of Goods Act 1908 shall be read subject to the provisions of this section.
 
 ##### 14 Application
     
@@ -273,9 +275,9 @@ An Act to reform the law relating to layby sales of certain goods
 
 ##### 15 Savings
     
-*   Nothing in this Act shall derogate from the provisions of the [Door to Door Sales Act 1967][34].
+*   Nothing in this Act shall derogate from the provisions of the [Door to Door Sales Act 1967][35].
     
-    Section 15: amended, on 1 April 2005, by [section 139][35] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+    Section 15: amended, on 1 April 2005, by [section 139][36] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
 
 ---
 
@@ -293,23 +295,23 @@ An Act to reform the law relating to layby sales of certain goods
 
 ###### 1 General
     
-*   This is a reprint of the Layby Sales Act 1971\. The reprint incorporates all the amendments to the Act as at 3 December 2007, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Layby Sales Act 1971\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][36] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][37] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][37] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][38] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][38] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][39] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][39] and [17E][40] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][40] and [17E][41] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -340,21 +342,23 @@ An Act to reform the law relating to layby sales of certain goods
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Insolvency Act 2006 (2006 No 55): [section 445][31]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][22]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][23]
+    Insolvency Act 2006 (2006 No 55): [section 445][32]
     
-    Credit Contracts and Consumer Finance Act 2003 (2003 No 52): [section 139][23]
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][24]
+    
+    Credit Contracts and Consumer Finance Act 2003 (2003 No 52): [section 139][24]
     
     Motor Vehicle Sales Act 2003 (2003 No 12): [section 145][20]
     
-    [Layby Sales Amendment Act 2000][41] (2000 No 70)
+    [Layby Sales Amendment Act 2000][42] (2000 No 70)
     
-    Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][30]
+    Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][31]
     
-    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][22]
+    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][23]
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][32]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][33]
 
 
 
@@ -380,23 +384,24 @@ An Act to reform the law relating to layby sales of certain goods
 [19]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM77710
 [20]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM188945
 [21]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM174638
-[22]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM328986
-[23]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM333795
-[24]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM46737
-[25]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM45599
-[26]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM322807
-[27]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM323545
-[28]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM327741
-[29]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM387286
-[30]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM47639
-[31]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM387857
-[32]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM35085
-[33]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM174699
-[34]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM384145
-[35]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM213532
-[36]: http://www.pco.parliament.govt.nz/reprints/
-[37]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM195439
-[38]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[39]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM195468
-[40]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM195470
-[41]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM77704
+[22]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM3360714
+[23]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM328986
+[24]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM333795
+[25]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM46737
+[26]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM45599
+[27]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM322807
+[28]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM323545
+[29]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM327741
+[30]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM387286
+[31]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM47639
+[32]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM387857
+[33]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM35085
+[34]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM174699
+[35]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM384145
+[36]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM213532
+[37]: http://www.pco.parliament.govt.nz/reprints/
+[38]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM195439
+[39]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[40]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM195468
+[41]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM195470
+[42]: http://www.legislation.govt.nz/act/public/1971/0080/latest/link.aspx?id=DLM77704
