@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2008
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,7 +17,7 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Ministry of Economic Development.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -25,192 +25,192 @@ This Act is administered by the Ministry of Economic Development.
 
 [Title][1]
 
-[1][2] [Short title and commencement][2]
+[1][2][][2][Short title and commencement][2]
 
 [Part 1][3]  
 [Preliminary provisions][3]
 
-[2][4] [Interpretation][4]
+[2][4][][4][Interpretation][4]
 
-[3][5] [Act to bind the Crown][5]
+[3][5][][5][Act to bind the Crown][5]
 
 [Part 2][6]  
 [General provisions][6]
 
 [Postage stamps][7]
 
-[4][8] [Postage stamps][8]
+[4][8][][8][Postage stamps][8]
 
 [Detention and examination of postal articles][9]
 
-[5][10] [Detention of postal articles][10]
+[5][10][][10][Detention of postal articles][10]
 
-[6][11] [Postal articles found to be in contravention of this Act][11]
+[6][11][][11][Postal articles found to be in contravention of this Act][11]
 
-[7][12] [Postal operator or claimant may apply for order as to disposal][12]
+[7][12][][12][Postal operator or claimant may apply for order as to disposal][12]
 
-[8][13] [Disposal following conviction][13]
+[8][13][][13][Disposal following conviction][13]
 
-[9][14] [No action to lie][14]
+[9][14][][14][No action to lie][14]
 
-[10][15] [Postal articles believed to be in contravention of other enactments][15]
+[10][15][][15][Postal articles believed to be in contravention of other enactments][15]
 
-[11][16] [Valuable postal articles to be kept safely][16]
+[11][16][][16][Valuable postal articles to be kept safely][16]
 
-[12][17] [Record of postal articles detained and opened][17]
+[12][17][][17][Record of postal articles detained and opened][17]
 
-[13][18] [Offences][18]
+[13][18][][18][Offences][18]
 
-[14][19] [Offender not relieved from liability][19]
+[14][19][][19][Offender not relieved from liability][19]
 
 [Further provisions relating to opening of postal articles][20]
 
-[15][21] [Opening of postal articles to effect delivery][21]
+[15][21][][21][Opening of postal articles to effect delivery][21]
 
 [Undeliverable postal articles][22]
 
-[16][23] [Undeliverable postal articles][23]
+[16][23][][23][Undeliverable postal articles][23]
 
-[17][24] [Disposal of unclaimed postal articles][24]
+[17][24][][24][Disposal of unclaimed postal articles][24]
 
-[18][25] [Postal articles required to be dealt with under other provisions][25]
+[18][25][][25][Postal articles required to be dealt with under other provisions][25]
 
 [General obligations relating to postal articles][26]
 
-[19][27] [Obligation to pass on postal articles][27]
+[19][27][][27][Obligation to pass on postal articles][27]
 
-[20][28] [Wrongful divulgence of information][28]
+[20][28][][28][Wrongful divulgence of information][28]
 
-[21][29] [Posting of objectionable thing][29]
+[21][29][][29][Posting of objectionable thing][29]
 
-[22][30] [Posting indecent article, etc][30]
+[22][30][][30][Posting indecent article, etc][30]
 
-[23][31] [Unlawfully opening postal article][31]
+[23][31][][31][Unlawfully opening postal article][31]
 
-[24][32] [Posting of dangerous enclosure][32]
+[24][32][][32][Posting of dangerous enclosure][32]
 
-[25][33] [Recording on postal article incorrect time or place of posting][33]
+[25][33][][33][Recording on postal article incorrect time or place of posting][33]
 
 [Part 3][34]  
 [Registration of postal operators][34]
 
 [Interpretation][35]
 
-[26][36] [Definition of business of postal operator][36]
+[26][36][][36][Definition of business of postal operator][36]
 
 [Requirement for postal operators to be registered][37]
 
-[27][38] [Postal operators must be registered][38]
+[27][38][][38][Postal operators must be registered][38]
 
-[28][39] [Offence][39]
+[28][39][][39][Offence][39]
 
 [Registration of postal operators][40]
 
-[29][41] [Applications for registration][41]
+[29][41][][41][Applications for registration][41]
 
-[30][42] [Cancellation of registration][42]
+[30][42][][42][Cancellation of registration][42]
 
-[31][43] [Offence relating to registration][43]
+[31][43][][43][Offence relating to registration][43]
 
 [Register of postal operators][44]
 
-[32][45] [Register of postal operators][45]
+[32][45][][45][Register of postal operators][45]
 
-[33][46] [Requirement to notify Secretary of certain matters][46]
+[33][46][][46][Requirement to notify Secretary of certain matters][46]
 
-[34][47] [Inspection of register][47]
+[34][47][][47][Inspection of register][47]
 
-[35][48] [Removal from register][48]
+[35][48][][48][Removal from register][48]
 
-[36][49] [Certificate of Secretary to be evidence][49]
+[36][49][][49][Certificate of Secretary to be evidence][49]
 
 [Appeals][50]
 
-[37][51] [Right of appeal][51]
+[37][51][][51][Right of appeal][51]
 
-[38][52] [Determination of appeals][52]
+[38][52][][52][Determination of appeals][52]
 
 [Part 4][53]  
 [Postal operators][53]
 
 [Postal operators to identify mail][54]
 
-[39][55] [Postal operator to identify mail accepted by it][55]
+[39][55][][55][Postal operator to identify mail accepted by it][55]
 
 [Erection of public letterboxes][56]
 
-[40][57] [Public letterboxes][57]
+[40][57][][57][Public letterboxes][57]
 
-[41][58] [Notice of work][58]
+[41][58][][58][Notice of work][58]
 
-[42][59] [Offence][59]
+[42][59][][59][Offence][59]
 
-[43][60] [Appeals in relation to conditions imposed][60]
+[43][60][][60][Appeals in relation to conditions imposed][60]
 
-[44][61] [Determination of appeals][61]
+[44][61][][61][Determination of appeals][61]
 
 [Loss or delay of letters][62]
 
-[45][63] [Loss or delay of letters][63]
+[45][63][][63][Loss or delay of letters][63]
 
 [Obligations on postal operator ceasing business][64]
 
-[46][65] [Postal operator must notify Secretary of intention to cease business][65]
+[46][65][][65][Postal operator must notify Secretary of intention to cease business][65]
 
-[47][66] [Obligations on postal operator ceasing business][66]
+[47][66][][66][Obligations on postal operator ceasing business][66]
 
 [Designated postal operators][67]
 
-[48][68] [Designation of postal operators as postal administration][68]
+[48][68][][68][Designation of postal operators as postal administration][68]
 
-[49][69] [Effect of designation][69]
+[49][69][][69][Effect of designation][69]
 
-[50][70] [Designated postal operators to comply with Government policy directions][70]
+[50][70][][70][Designated postal operators to comply with Government policy directions][70]
 
-[51][71] [Duration of designation][71]
+[51][71][][71][Duration of designation][71]
 
-[52][72] [Crown not liable][72]
+[52][72][][72][Crown not liable][72]
 
-[53][73] [Revocation of designation][73]
+[53][73][][73][Revocation of designation][73]
 
-[54][74] [Revocation, etc, of conditions][74]
+[54][74][][74][Revocation, etc, of conditions][74]
 
 [Disclosure of information by the corporation][75]
 
-[55][76] [Information to Secretary][76]
+[55][76][][76][Information to Secretary][76]
 
 [Part 5][77]  
 [Miscellaneous provisions][77]
 
 [Offences and penalties][78]
 
-[56][79] [Failure to comply with information disclosure requirements][79]
+[56][79][][79][Failure to comply with information disclosure requirements][79]
 
-[57][80] [Penalty][80]
+[57][80][][80][Penalty][80]
 
-[58][81] [Offences punishable on summary conviction][81]
+[58][81][][81][Offences punishable on summary conviction][81] \[Repealed\]
 
-[59][82] [Time for bringing prosecution extended][82]
+[59][82][][82][Time for bringing prosecution extended][82] \[Repealed\]
 
 [Regulations---General][83]
 
-[60][84] [Regulations][84]
+[60][84][][84][Regulations][84]
 
 [Regulations---Information disclosure][85]
 
-[61][86] [Regulations requiring disclosure of information][86]
+[61][86][][86][Regulations requiring disclosure of information][86]
 
 [Consequential amendments and repeals][87]
 
-[62][88] [Consequential amendments and repeals][88]
+[62][88][][88][Consequential amendments and repeals][88]
 
 [Transitional provisions][89]
 
-[63][90] [NZ Post to be registered postal operator][90]
+[63][90][][90][NZ Post to be registered postal operator][90]
 
-[64][91] [Application to postal articles posted in contravention of Postal Services Act 1987][91]
+[64][91][][91][Application to postal articles posted in contravention of Postal Services Act 1987][91]
 
-[65][92] [NZ Post to be sole postal administration for 5 years][92]
+[65][92][][92][NZ Post to be sole postal administration for 5 years][92]
 
 [Schedule][93]  
 [Enactments amended][93]
@@ -347,9 +347,11 @@ General provisions
     
     *   (d) the words "New Zealand" or, as the case requires, the abbreviation of those words appears on the stamp in the same typeface and point size as the company name appears.
     
-    (3) Every person commits an offence against this Act and is liable to a fine of not more than $10,000 who issues any postage stamp in contravention of subsection (1).
+    (3) Every person commits an offence against this Act and is liable on conviction to a fine of not more than $10,000 who issues any postage stamp in contravention of subsection (1).
     
     Compare: 1987 No 113 s 4
+    
+    Section 4(3): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Detention and examination of postal articles
 
@@ -363,13 +365,13 @@ General provisions
             
         *   (i) the [Misuse of Drugs Act 1975][98]:
         
-        *   (ii) the [Protected Objects Act 1975][105]:
+        *   (ii) the [Protected Objects Act 1975][106]:
         
-        *   (iii) the [Trade in Endangered Species Act 1989][106]:
+        *   (iii) the [Trade in Endangered Species Act 1989][107]:
         
-        *   (iv) the [Biosecurity Act 1993][107]:
+        *   (iv) the [Biosecurity Act 1993][108]:
         
-        *   (v) the [Customs and Excise Act 1996][108],---
+        *   (v) the [Customs and Excise Act 1996][109],---
         
         
     
@@ -403,7 +405,7 @@ General provisions
     
     Compare: 1987 No 113 s 7
     
-    Section 5(1)(b)(ii): amended, on 1 November 2006, by [section 35][109] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 5(1)(b)(ii): amended, on 1 November 2006, by [section 35][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
 
 ##### 6 Postal articles found to be in contravention of this Act
     
@@ -471,9 +473,11 @@ General provisions
     
     (3) If the court is satisfied that the postal article that was the subject of the prosecution should be restored to a person other than the person convicted, it may so direct.
     
-    (4) Any person aggrieved by an order made under subsection (1) for the forfeiture of any postal article may (whatever the amount involved) appeal from that order in the manner provided by the [Summary Proceedings Act 1957][110], and, until the appeal is determined or abandoned, the order is suspended and must not be carried into effect.
+    (4) Any person aggrieved by an order made under subsection (1) for the forfeiture of any postal article may (whatever the amount involved) appeal from that order in the manner provided by [subpart 4][111] of Part 6 of the Criminal Procedure Act 2011, and, until the appeal is determined or abandoned, the order is suspended and must not be carried into effect.
     
-    Compare: 1993 No 94 [ss 136][111], [137][112]
+    Compare: 1993 No 94 [ss 136][112], [137][113]
+    
+    Section 8(4): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 9 No action to lie
     
@@ -491,13 +495,13 @@ General provisions
         
     *   (a) where the postal article is believed to be in contravention, or to have been posted in contravention, of the [Misuse of Drugs Act 1975][98], the postal operator must deliver the postal article to the Commissioner of Police or to such other person as the Commissioner directs, and the postal article must be dealt with in accordance with that Act:
     
-    *   (b) where the postal article is believed to be in contravention, or to have been posted in contravention, of the [Protected Objects Act 1975][105], the postal operator must deliver the postal article to the Secretary for Internal Affairs or to such other person as the Secretary for Internal Affairs directs, and the postal article must be dealt with in accordance with that Act:
+    *   (b) where the postal article is believed to be in contravention, or to have been posted in contravention, of the [Protected Objects Act 1975][106], the postal operator must deliver the postal article to the Secretary for Internal Affairs or to such other person as the Secretary for Internal Affairs directs, and the postal article must be dealt with in accordance with that Act:
     
-    *   (c) where the postal article is believed to be in contravention, or to have been posted in contravention, of the [Trade in Endangered Species Act 1989][106], the postal operator must deliver the postal article to the Director-General of Conservation or to such other person as the Director-General directs, and the postal article must be dealt with in accordance with that Act:
+    *   (c) where the postal article is believed to be in contravention, or to have been posted in contravention, of the [Trade in Endangered Species Act 1989][107], the postal operator must deliver the postal article to the Director-General of Conservation or to such other person as the Director-General directs, and the postal article must be dealt with in accordance with that Act:
     
-    *   (d) where the postal article is believed to be in contravention, or to have been posted in contravention, of the [Biosecurity Act 1993][107], the postal operator must deliver the postal article to the chief executive of the department of State that is for the time being responsible for the administration of that Act or to such other person as that chief executive directs, and, in any such case, the provisions of that Act, so far as applicable and with all necessary modifications, apply as if the postal article were unauthorised goods that had been seized, pursuant to [section 116][113] of that Act, on the date of that delivery:
+    *   (d) where the postal article is believed to be in contravention, or to have been posted in contravention, of the [Biosecurity Act 1993][108], the postal operator must deliver the postal article to the chief executive of the department of State that is for the time being responsible for the administration of that Act or to such other person as that chief executive directs, and, in any such case, the provisions of that Act, so far as applicable and with all necessary modifications, apply as if the postal article were unauthorised goods that had been seized, pursuant to [section 116][114] of that Act, on the date of that delivery:
     
-    *   (e) where the postal article is believed to be in contravention, or to have been posted in contravention, of the [Customs and Excise Act 1996][108] or any Order in Council or regulation made under that Act, the postal operator must deliver the postal article to the chief executive of the New Zealand Customs Service or to such other person as the chief executive directs, and the postal article must be dealt with in accordance with that Act, order, or regulation:
+    *   (e) where the postal article is believed to be in contravention, or to have been posted in contravention, of the [Customs and Excise Act 1996][109] or any Order in Council or regulation made under that Act, the postal operator must deliver the postal article to the chief executive of the New Zealand Customs Service or to such other person as the chief executive directs, and the postal article must be dealt with in accordance with that Act, order, or regulation:
     
     *   (f) where the postal article is believed to be in contravention, or to have been posted in contravention, of any other enactment (other than this Act),---
             
@@ -509,9 +513,9 @@ General provisions
     
     Compare: 1987 No 113 s 8(2)
     
-    Section 10(2)(b): amended, on 1 November 2006, by [section 35][109] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 10(2)(b): amended, on 1 November 2006, by [section 35][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 10(2)(f)(i): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][114] of the Policing Act 2008 (2008 No 72).
+    Section 10(2)(f)(i): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][115] of the Policing Act 2008 (2008 No 72).
 
 ##### 11 Valuable postal articles to be kept safely
     
@@ -567,13 +571,13 @@ General provisions
 
 ##### 13 Offences
     
-*   Every postal operator commits an offence and is liable to a fine of not more than $10,000 who---
+*   Every postal operator commits an offence and is liable on conviction to a fine of not more than $10,000 who---
         
     *   (a) fails, without reasonable excuse, to properly keep records sufficient to satisfy the requirements of subsections (1) to (3) of [section 12][17]; or
     
     *   (b) fails, without reasonable excuse, to comply with the requirements of section 12(4) or section 12(5).
     
-    
+    Section 13: amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 14 Offender not relieved from liability
     
@@ -665,9 +669,11 @@ General provisions
     
     (2) Every person, other than an officer, employee, or agent of a postal operator acting in the course of that person's duty, commits an offence against this Act who, having examined the contents of a postal article not intended for that person, divulges without reasonable excuse to any person any information obtained by the first-mentioned person from or as to the contents of the postal article.
     
-    (3) Every person who commits an offence against this section is liable to imprisonment for not more than 6 months or a fine of not more than $5,000\.
+    (3) Every person who commits an offence against this section is liable on conviction to imprisonment for not more than 6 months or a fine of not more than $5,000\.
     
     Compare: 1987 No 113 s 11
+    
+    Section 20(3): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 21 Posting of objectionable thing
     
@@ -685,9 +691,11 @@ General provisions
     
 *   (1) Every person commits an offence against this Act who wilfully and without reasonable excuse opens or causes to be opened any postal article that is not addressed to that person.
     
-    (2) Every person who commits an offence against subsection (1) is liable to imprisonment for not more than 6 months or a fine of not more than $5,000\.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for not more than 6 months or a fine of not more than $5,000\.
     
     Compare: 1987 No 113 s 14
+    
+    Section 23(2): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 24 Posting of dangerous enclosure
     
@@ -697,7 +705,7 @@ General provisions
     
     *   (b) any postal article containing any matter or thing capable, as packed, of causing injury to any person.
     
-    (2) Every person who commits an offence against subsection (1) is liable to imprisonment for not more than 1 year or a fine of not more than $10,000\.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for not more than 1 year or a fine of not more than $10,000\.
     
     (3) Every person commits an offence against this Act who posts, or causes to be posted, any postal article containing any matter or thing capable, as packed, of causing damage to any postal article.
     
@@ -710,6 +718,8 @@ General provisions
     *   (c) any other matter prescribed for the purposes of this paragraph by regulations made under this Act.
     
     Compare: 1987 No 113 s 15
+    
+    Section 24(2): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 25 Recording on postal article incorrect time or place of posting
     
@@ -744,13 +754,13 @@ Registration of postal operators
     
 *   (1) Every person commits an offence who, not being registered as a postal operator under this Act, commences or carries on business as a postal operator.
     
-    (2) Every person who commits an offence against this section is liable---
+    (2) Every person who commits an offence against this section is liable on conviction---
         
     *   (a) to a fine of not more than $10,000; and
     
     *   (b) to a further fine of not more than $1,000 for every day or part of a day during which the offence continues.
     
-    
+    Section 28(2): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Registration of postal operators
 
@@ -798,7 +808,9 @@ Registration of postal operators
     
     *   (c) produces to the Secretary, or makes use of, any document knowing that it is not genuine.
     
-    (2) Every person who commits an offence against this section is liable to a fine of not more than $10,000\.
+    (2) Every person who commits an offence against this section is liable on conviction to a fine of not more than $10,000\.
+    
+    Section 31(2): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Register of postal operators
 
@@ -842,7 +854,9 @@ Registration of postal operators
     
     *   (b) be accompanied by the prescribed fee (if any).
     
-    (4) Every person commits an offence and is liable to a fine of not more than $1,000 who fails, without reasonable excuse, to comply with the requirements of subsection (1) or subsection (2).
+    (4) Every person commits an offence and is liable on conviction to a fine of not more than $1,000 who fails, without reasonable excuse, to comply with the requirements of subsection (1) or subsection (2).
+    
+    Section 33(4): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 34 Inspection of register
     
@@ -905,7 +919,9 @@ Postal operators
     
     (2) Subsection (1) does not apply if the postal operator's postal identifier is already affixed to, or impressed or printed on, the postal article.
     
-    (3) Every postal operator commits an offence and is liable to a fine of not more than $10,000 who fails, without reasonable excuse, to comply with the requirements of subsection (1).
+    (3) Every postal operator commits an offence and is liable on conviction to a fine of not more than $10,000 who fails, without reasonable excuse, to comply with the requirements of subsection (1).
+    
+    Section 39(3): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Erection of public letterboxes
 
@@ -929,15 +945,17 @@ Postal operators
     
     (4) Where a person who is given a notice pursuant to subsection (1) fails to notify the postal operator of the conditions imposed pursuant to [section 40(2)][57] within the period referred to in subsection (3), no such conditions may be imposed, and the postal operator may commence work.
     
-    Compare: 1987 No 116 [s 15A][115]; 1992 No 122 [s 25][116]
+    Compare: 1987 No 116 [s 15A][116]; 1992 No 122 [s 25][117]
 
 ##### 42 Offence
     
-*   (1) Every postal operator commits an offence and is liable to a fine of not more than $10,000 who fails to comply with [section 40][57] or [section 41][58].
+*   (1) Every postal operator commits an offence and is liable on conviction to a fine of not more than $10,000 who fails to comply with [section 40][57] or [section 41][58].
     
     (2) In addition to any fine imposed pursuant to subsection (1), the court may make any order relating to compensation that it thinks fit.
     
-    Compare: 1987 No 116 [s 15B][117]; 1992 No 122 [s 26][118]
+    Compare: 1987 No 116 [s 15B][118]; 1992 No 122 [s 26][119]
+    
+    Section 42(1): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 43 Appeals in relation to conditions imposed
     
@@ -945,7 +963,7 @@ Postal operators
     
     (2) Every appeal must be made by giving notice of appeal within 40 working days after the date of notification of the conditions imposed, or within such further period as the court allows on application made to it for that purpose either before or after those 40 working days have expired.
     
-    Compare: 1987 No 116 [s 15C][119]; 1992 No 122 [s 27][120]
+    Compare: 1987 No 116 [s 15C][120]; 1992 No 122 [s 27][121]
 
 ##### 44 Determination of appeals
     
@@ -953,7 +971,7 @@ Postal operators
     
     (2) The District Court's decision in the determination of an appeal under [section 43][60] is final.
     
-    Compare: 1987 No 116 [s 15D][121]; 1992 No 122 [s 28][122]
+    Compare: 1987 No 116 [s 15D][122]; 1992 No 122 [s 28][123]
 
 #### Loss or delay of letters
 
@@ -969,7 +987,9 @@ Postal operators
     
 *   (1) A postal operator that intends to cease to carry on business as a postal operator must notify the Secretary of that intention at least 1 month before ceasing to carry on that business.
     
-    (2) Every person commits an offence and is liable to a fine of not more than $1,000 who fails, without reasonable excuse, to comply with the requirements of subsection (1).
+    (2) Every person commits an offence and is liable on conviction to a fine of not more than $1,000 who fails, without reasonable excuse, to comply with the requirements of subsection (1).
+    
+    Section 46(2): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 47 Obligations on postal operator ceasing business
     
@@ -987,7 +1007,9 @@ Postal operators
     
     (2) Every person commits an offence who fails, without reasonable excuse, to comply with any of the requirements of subsection (1).
     
-    (3) Every person who commits an offence against this section is liable to a fine of not more than $10,000\.
+    (3) Every person who commits an offence against this section is liable on conviction to a fine of not more than $10,000\.
+    
+    Section 47(3): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Designated postal operators
 
@@ -1128,29 +1150,35 @@ Miscellaneous provisions
     
     (2) Every person commits an offence against this section who makes a false declaration when supplying any statement, report, agreement, accounts, or other information pursuant to [section 55][76].
     
-    (3) Every person who commits an offence against subsection (1) is liable to a fine of not more than $200,000 and, if the offence is a continuing one, to a further fine of not more than $10,000 for every day or part of a day during which the offence continues.
+    (3) Every person who commits an offence against subsection (1) is liable on conviction to a fine of not more than $200,000 and, if the offence is a continuing one, to a further fine of not more than $10,000 for every day or part of a day during which the offence continues.
     
-    (4) Every person who commits an offence against subsection (2) is liable to a fine of not more than $20,000\.
+    (4) Every person who commits an offence against subsection (2) is liable on conviction to a fine of not more than $20,000\.
     
-    Compare: 1992 No 122 [s 172][123]
+    Compare: 1992 No 122 [s 172][124]
+    
+    Section 56(3): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 56(4): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 57 Penalty
     
-*   Every person who commits an offence against this Act, or against any regulations made under this Act, for which no penalty is provided in any other provision of this Act or in any regulations made under this Act is liable to a fine of not more than $5,000\.
+*   Every person who commits an offence against this Act, or against any regulations made under this Act, for which no penalty is provided in any other provision of this Act or in any regulations made under this Act is liable on conviction to a fine of not more than $5,000\.
     
     Compare: 1987 No 113 s 17(1)
+    
+    Section 57: amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 58 Offences punishable on summary conviction
     
-*   Every offence against this Act or any regulations made under this Act is punishable on summary conviction.
+*   \[Repealed\]
+    
+    Section 58: repealed, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 59 Time for bringing prosecution extended
     
-*   (1) An information for an offence against this Act or any regulations made under this Act may be laid at any time within 12 months from the time when the matter of the information arose.
+*   \[Repealed\]
     
-    (2) This section overrides [section 14][124] of the Summary Proceedings Act 1957\.
-    
-    Compare: 1987 No 113 s 17(2)
+    Section 59: repealed, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Regulations---General
 
@@ -1359,7 +1387,7 @@ _Amendment(s) incorporated in the [Act(s)][140]._
 
 ###### 1 General
     
-*   This is a reprint of the Postal Services Act 1998\. The reprint incorporates all the amendments to the Act as at 1 October 2008, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Postal Services Act 1998\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
 
@@ -1406,9 +1434,11 @@ _Amendment(s) incorporated in the [Act(s)][140]._
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Policing Act 2008 (2008 No 72): [section 116(a)(ii)][114]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][105]
     
-    Protected Objects Amendment Act 2006 (2006 No 37): [section 35][109]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][115]
+    
+    Protected Objects Amendment Act 2006 (2006 No 37): [section 35][110]
     
     [Postal Services Amendment Act 2001][144] (2001 No 77)
     
@@ -1523,26 +1553,26 @@ _Amendment(s) incorporated in the [Act(s)][140]._
 [102]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM436276
 [103]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM319999
 [104]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM320101
-[105]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM432115
-[106]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM145965
-[107]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM314622
-[108]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM377336
-[109]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM376605
-[110]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM310742
-[111]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM314181
-[112]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM314182
-[113]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM316315
-[114]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM1102349
-[115]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM119717
-[116]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM282475
-[117]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM119720
-[118]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM282476
-[119]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM119723
-[120]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM282477
-[121]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM119726
-[122]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM282478
-[123]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM283392
-[124]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM311191
+[105]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM3360714
+[106]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM432115
+[107]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM145965
+[108]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM314622
+[109]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM377336
+[110]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM376605
+[111]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM3360417
+[112]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM314181
+[113]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM314182
+[114]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM316315
+[115]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM1102349
+[116]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM119717
+[117]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM282475
+[118]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM119720
+[119]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM282476
+[120]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM119723
+[121]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM282477
+[122]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM119726
+[123]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM282478
+[124]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM283392
 [125]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM113350
 [126]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM98662
 [127]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM125679
