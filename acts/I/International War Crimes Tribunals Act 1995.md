@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencement9 June 1995
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -370,9 +370,11 @@ Arrest and surrender of person to a Tribunal
     
     (2) Subject to subsection (3), the Judge shall remand the person in custody or on bail for such period or periods as may be necessary to enable the Attorney-General to make a surrender determination under [section 12][17].
     
-    (3) Where any person is remanded in custody or on bail under this section, the provisions of [sections 45][87], [45A][88], [46][89], and [47][90] of the Summary Proceedings Act 1957, and [sections 28 to 38][91] of the Bail Act 2000 shall apply as if the person had been arrested for an offence punishable by imprisonment and with any other necessary modifications.
+    (3) Where any person is remanded in custody or on bail under this section, the provisions of [sections 167 to 169][87] of the Criminal Procedure Act 2011 and [sections 28][88], [30 to 32][89], [34][90] and [35][91], and [37 to 39][92] of the Bail Act 2000 shall apply as if the person had been arrested for an offence punishable by imprisonment and with any other necessary modifications.
     
-    Section 9(3): amended, on 1 January 2001, by [section 74(2)][92] of the Bail Act 2000 (2000 No 38).
+    Section 9(3): amended, on 1 July 2013, by [section 413][93] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 9(3): amended, on 1 January 2001, by [section 74(2)][94] of the Bail Act 2000 (2000 No 38).
 
 ##### 10 Release from remand at direction of Attorney-General
     
@@ -394,11 +396,11 @@ Arrest and surrender of person to a Tribunal
     
     the constable may apply to an issuing officer for the issue of a search warrant in accordance with [section 48][63].
     
-    Section 11: amended, on 1 October 2012, by [section 267(2)][93] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 11: amended, on 1 October 2012, by [section 267(2)][95] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 11: amended, on 1 October 2008, pursuant to [section 116(b)][94] of the Policing Act 2008 (2008 No 72).
+    Section 11: amended, on 1 October 2008, pursuant to [section 116(b)][96] of the Policing Act 2008 (2008 No 72).
     
-    Section 11(b): amended, on 1 October 2008, pursuant to [section 116(b)][94] of the Policing Act 2008 (2008 No 72).
+    Section 11(b): amended, on 1 October 2008, pursuant to [section 116(b)][96] of the Policing Act 2008 (2008 No 72).
 
 #### Surrender of persons
 
@@ -450,9 +452,9 @@ Arrest and surrender of person to a Tribunal
     
     (2) For the purposes of this section, the person is not taken to be serving a sentence of imprisonment if he or she has been released on parole or licence, or has been otherwise conditionally released, for the remainder of the sentence.
     
-    Section 15(1)(a): amended, on 30 June 2002, by [section 186][95] of the Sentencing Act 2002 (2002 No 9).
+    Section 15(1)(a): amended, on 30 June 2002, by [section 186][97] of the Sentencing Act 2002 (2002 No 9).
     
-    Section 15(2): amended, on 30 June 2002, by [section 186][95] of the Sentencing Act 2002 (2002 No 9).
+    Section 15(2): amended, on 30 June 2002, by [section 186][97] of the Sentencing Act 2002 (2002 No 9).
 
 ##### 16 Detention following surrender warrant
     
@@ -464,7 +466,7 @@ Arrest and surrender of person to a Tribunal
     
     Compare: 1965 No 44 s 10(1)
     
-    Section 16(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][94] of the Policing Act 2008 (2008 No 72).
+    Section 16(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][96] of the Policing Act 2008 (2008 No 72).
     
     Section 16(3): amended, on 1 June 2005, by [section 206][86] of the Corrections Act 2004 (2004 No 50).
 
@@ -486,9 +488,9 @@ Arrest and surrender of person to a Tribunal
     
     (2) A place referred to in subsection (1)(b) or (c) may be a place in or outside New Zealand.
     
-    Section 17(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][94] of the Policing Act 2008 (2008 No 72).
+    Section 17(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][96] of the Policing Act 2008 (2008 No 72).
     
-    Section 17(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][94] of the Policing Act 2008 (2008 No 72).
+    Section 17(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][96] of the Policing Act 2008 (2008 No 72).
 
 ##### 18 Release from remand
     
@@ -528,9 +530,9 @@ Arrest and surrender of person to a Tribunal
     
     the Attorney-General must without delay inform the Tribunal of the expiry, and, if the Tribunal was required to give undertakings in accordance with [section 15(1)(b)][20], that the undertakings are no longer required to be complied with.
     
-    Section 20(a): amended, on 30 June 2002, by [section 186][95] of the Sentencing Act 2002 (2002 No 9).
+    Section 20(a): amended, on 30 June 2002, by [section 186][97] of the Sentencing Act 2002 (2002 No 9).
     
-    Section 20(b): amended, on 30 June 2002, by [section 186][95] of the Sentencing Act 2002 (2002 No 9).
+    Section 20(b): amended, on 30 June 2002, by [section 186][97] of the Sentencing Act 2002 (2002 No 9).
 
 ## Part 3  
 Other forms of assistance to a Tribunal
@@ -555,7 +557,7 @@ Other forms of assistance to a Tribunal
     
     the Attorney-General may authorise, in writing, assistance in accordance with [section 22][29] and [section 23][30].
     
-    Compare: 1992 No 86 [s 31(2)][96]
+    Compare: 1992 No 86 [s 31(2)][98]
 
 ##### 22 Taking of evidence
     
@@ -617,7 +619,7 @@ Other forms of assistance to a Tribunal
     
     (4) A person who is required, pursuant to [section 22][29] or [section 23][30], to give evidence or produce documents or other articles for the purposes of a proceeding before, or investigation conducted by, the Tribunal shall have the same privileges in relation to the answering of questions and the production of documents or articles as if the proceedings were pending in a New Zealand court or the investigation were being conducted in New Zealand, as the case may be.
     
-    Compare: 1992 No 86 [s 33(2), (4)][97]
+    Compare: 1992 No 86 [s 33(2), (4)][99]
 
 ##### 27 Tribunal immunity certificates
     
@@ -647,7 +649,7 @@ Other forms of assistance to a Tribunal
     
     (4) Nothing in this section shall prevent the exercise, by any Judge, of any jurisdiction or powers conferred on any Registrar under this section.
     
-    Compare: 1992 No 86 [s 35][98]
+    Compare: 1992 No 86 [s 35][100]
 
 #### Search and seizure
 
@@ -661,9 +663,9 @@ Other forms of assistance to a Tribunal
     
     the Attorney-General may, in writing, authorise a constable to apply to an issuing officer for the issue of a search warrant in accordance with [section 48][63], and that constable may apply for the warrant accordingly.
     
-    Section 29: amended, on 1 October 2012, by [section 267(3)][93] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 29: amended, on 1 October 2012, by [section 267(3)][95] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 29: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][94] of the Policing Act 2008 (2008 No 72).
+    Section 29: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][96] of the Policing Act 2008 (2008 No 72).
 
 #### Giving evidence at hearings, or assisting in investigations, in foreign countries
 
@@ -709,15 +711,15 @@ Other forms of assistance to a Tribunal
             
         *   (i) a prisoner; or
         
-        *   (ii) on parole, home detention, or compassionate release, or is subject to release conditions, under [Part 1][99] of the Parole Act 2002; or
+        *   (ii) on parole, home detention, or compassionate release, or is subject to release conditions, under [Part 1][101] of the Parole Act 2002; or
         
-        *   (iia) subject to a sentence of home detention imposed under [section 80A][100] of the Sentencing Act 2002; or
+        *   (iia) subject to a sentence of home detention imposed under [section 80A][102] of the Sentencing Act 2002; or
         
         *   (iii) \[Repealed\]
         
-        *   (iv) at large pursuant to [section 62][101] of the Corrections Act 2004; or
+        *   (iv) at large pursuant to [section 62][103] of the Corrections Act 2004; or
         
-        *   (v) subject to a community-based sentence (within the meaning of [section 4(1)][102] of the Sentencing Act 2002).
+        *   (v) subject to a community-based sentence (within the meaning of [section 4(1)][104] of the Sentencing Act 2002).
         
         
     
@@ -741,21 +743,21 @@ Other forms of assistance to a Tribunal
     
     (4) A direction given, pursuant to subsection (3)(a), by the Attorney-General in respect of a prisoner shall be sufficient authority for the release of the prisoner from the prison in which he or she is detained for the purposes of the direction.
     
-    (5) Every person released under a direction given pursuant to subsection (3)(a) shall, while that person is in New Zealand during the period of that release, be deemed, for the purposes of [section 120][103] of the Crimes Act 1961 (which relates to escaping from lawful custody) and for that purpose only, to continue to be in legal custody for the time being under the [Corrections Act 2004][85].
+    (5) Every person released under a direction given pursuant to subsection (3)(a) shall, while that person is in New Zealand during the period of that release, be deemed, for the purposes of [section 120][105] of the Crimes Act 1961 (which relates to escaping from lawful custody) and for that purpose only, to continue to be in legal custody for the time being under the [Corrections Act 2004][85].
     
-    Compare: 1992 No 86 [s 38][104]
+    Compare: 1992 No 86 [s 38][106]
     
-    Section 31(1)(b)(ii): substituted, on 30 June 2002, by [section 125][105] of the Parole Act 2002 (2002 No 10).
+    Section 31(1)(b)(ii): substituted, on 30 June 2002, by [section 125][107] of the Parole Act 2002 (2002 No 10).
     
-    Section 31(1)(b)(iia): inserted, on 1 October 2007, by [section 58][106] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 31(1)(b)(iia): inserted, on 1 October 2007, by [section 58][108] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 31(1)(b)(iii): repealed, on 30 June 2002, by [section 125][105] of the Parole Act 2002 (2002 No 10).
+    Section 31(1)(b)(iii): repealed, on 30 June 2002, by [section 125][107] of the Parole Act 2002 (2002 No 10).
     
     Section 31(1)(b)(iv): amended, on 1 June 2005, by [section 206][86] of the Corrections Act 2004 (2004 No 50).
     
-    Section 31(1)(b)(v): amended, on 30 June 2002, by [section 186][95] of the Sentencing Act 2002 (2002 No 9).
+    Section 31(1)(b)(v): amended, on 30 June 2002, by [section 186][97] of the Sentencing Act 2002 (2002 No 9).
     
-    Section 31(3)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][94] of the Policing Act 2008 (2008 No 72).
+    Section 31(3)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][96] of the Policing Act 2008 (2008 No 72).
     
     Section 31(3)(a): amended, on 1 June 2005, by [section 206][86] of the Corrections Act 2004 (2004 No 50).
     
@@ -767,7 +769,7 @@ Other forms of assistance to a Tribunal
     
 *   Where a prisoner who is serving a sentence for an offence against the law of New Zealand is released from a New Zealand prison pursuant to a request by a Tribunal under [section 31][40], the prisoner shall, while in custody in connection with the request (including custody outside New Zealand), be deemed to be continuing to serve that sentence.
     
-    Compare: 1992 No 86 [s 41][107]
+    Compare: 1992 No 86 [s 41][109]
     
     Section 32: amended, on 1 June 2005, by [section 206][86] of the Corrections Act 2004 (2004 No 50).
 
@@ -815,13 +817,13 @@ Other forms of assistance to a Tribunal
     
     the Attorney-General may direct that the person be transported in custody to the foreign country from which the person was first transported, and such a direction shall be sufficient authority for that person's removal from New Zealand by such means as the Attorney-General directs.
     
-    (4) For the purposes of enabling the grant of a limited visa under the [Immigration Act 2009][108] to any person whom it is proposed to transport through New Zealand pursuant to this section, the Attorney-General may issue a certificate, in writing, that the person is to be transported through New Zealand pursuant to this section.
+    (4) For the purposes of enabling the grant of a limited visa under the [Immigration Act 2009][110] to any person whom it is proposed to transport through New Zealand pursuant to this section, the Attorney-General may issue a certificate, in writing, that the person is to be transported through New Zealand pursuant to this section.
     
     (5) The Attorney-General may, at any time by notice in writing, cancel any certificate issued under subsection (4) in respect of any person who is in New Zealand for the purposes of being transported through New Zealand pursuant to this section if the Attorney-General is satisfied that that person's presence in New Zealand is no longer necessary for that purpose.
     
-    Compare: 1992 No 86 [s 42(5), (6)][109]
+    Compare: 1992 No 86 [s 42(5), (6)][111]
     
-    Section 34(4): amended, at 2 am on 29 November 2010, by [section 406(1)][110] of the Immigration Act 2009 (2009 No 51).
+    Section 34(4): amended, at 2 am on 29 November 2010, by [section 406(1)][112] of the Immigration Act 2009 (2009 No 51).
 
 #### Assistance in serving documents
 
@@ -859,7 +861,7 @@ Other forms of assistance to a Tribunal
         
         
     
-    Compare: 1992 No 86 [s 51(3)][111]
+    Compare: 1992 No 86 [s 51(3)][113]
 
 ## Part 4  
 Sittings of a Tribunal in New Zealand
@@ -886,15 +888,15 @@ Sittings of a Tribunal in New Zealand
     
 *   (1) A Tribunal may at any sitting of the Tribunal in New Zealand administer an oath or affirmation in accordance with the practice and procedure of the Tribunal.
     
-    (2) Evidence given by a person on oath or affirmation administered by the Tribunal under subsection (1) shall, for the purposes of [section 108][112] of the Crimes Act 1961 (which relates to perjury), be deemed to have been given as evidence in a judicial proceeding on oath.
+    (2) Evidence given by a person on oath or affirmation administered by the Tribunal under subsection (1) shall, for the purposes of [section 108][114] of the Crimes Act 1961 (which relates to perjury), be deemed to have been given as evidence in a judicial proceeding on oath.
     
-    Compare: 1908 No 89 [s 56M][113]; 1990 No 44 s 3
+    Compare: 1908 No 89 [s 56M][115]; 1990 No 44 s 3
 
 ##### 39 Orders made by Tribunal not subject to review
     
-*   No application for review under [Part 1][114] of the Judicature Amendment Act 1972 and no application for an order of mandamus or prohibition or certiorari or for a declaration or injunction may be brought in respect of any judgment or order or determination of a Tribunal made or given at a sitting of the Tribunal in New Zealand.
+*   No application for review under [Part 1][116] of the Judicature Amendment Act 1972 and no application for an order of mandamus or prohibition or certiorari or for a declaration or injunction may be brought in respect of any judgment or order or determination of a Tribunal made or given at a sitting of the Tribunal in New Zealand.
     
-    Compare: 1908 No 89 [s 56N][115]; 1990 No 44 s 3
+    Compare: 1908 No 89 [s 56N][117]; 1990 No 44 s 3
 
 ##### 40 Contempt of Tribunal
     
@@ -918,9 +920,11 @@ Sittings of a Tribunal in New Zealand
     
     (2) Every person commits an offence who, wilfully and without lawful excuse, disobeys any order or direction of a Tribunal made or given in the course of its proceedings.
     
-    (3) Every person who commits an offence against this section is liable on conviction on indictment to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000\.
+    (3) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000\.
     
-    Compare: 1908 No 89 [s 56O][116]; 1990 No 44 s 3
+    Compare: 1908 No 89 [s 56O][118]; 1990 No 44 s 3
+    
+    Section 40(3): amended, on 1 July 2013, by [section 413][93] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 5  
 Forfeiture of proceeds of Tribunal offences
@@ -957,27 +961,27 @@ Forfeiture of proceeds of Tribunal offences
     
     *   (b) to publish notice of the registration in the manner and within the time the court considers appropriate.
     
-    Compare: 1992 No 86 [ss 56(1)][117], [63(2)][118]
+    Compare: 1992 No 86 [ss 56(1)][119], [63(2)][120]
 
 ##### 43 Effect of registration of order
     
-*   Subject to [sections 44 to 47][57], a forfeiture order registered in accordance with [section 42][55] has effect and may be enforced as if it were a profit forfeiture order made by the High Court under the [Criminal Proceeds (Recovery) Act 2009][119] and entered on the date of registration.
+*   Subject to [sections 44 to 47][57], a forfeiture order registered in accordance with [section 42][55] has effect and may be enforced as if it were a profit forfeiture order made by the High Court under the [Criminal Proceeds (Recovery) Act 2009][121] and entered on the date of registration.
     
-    Section 43: substituted, on 1 December 2009, by [section 203][120] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 43: substituted, on 1 December 2009, by [section 203][122] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
 
 ##### 44 Registered forfeiture orders
     
 *   Where a forfeiture order against property is registered in accordance with [section 42][55],---
         
-    *   (a) [subpart 3][121] of Part 2 of the Criminal Proceeds (Recovery) Act 2009 so far as is applicable and with any necessary modifications, and except to the extent that this Act provides otherwise, applies in relation to the order; and
+    *   (a) [subpart 3][123] of Part 2 of the Criminal Proceeds (Recovery) Act 2009 so far as is applicable and with any necessary modifications, and except to the extent that this Act provides otherwise, applies in relation to the order; and
     
     *   (b) the property may be disposed of, or otherwise dealt with, in accordance with any direction of the Attorney-General or of a person authorised in writing by the Attorney-General for the purposes of this paragraph; and
     
     *   (c) if for any reason the Attorney-General decides not to direct that the property be transferred to a person or persons in accordance with the request from the Tribunal that made the order, the Attorney-General shall arrange for the property to be transferred to the person in whom it was vested immediately before the forfeiture order was made.
     
-    Compare: 1991 No 120 [s 23A(a)][122]; 1992 No 87 s 4
+    Compare: 1991 No 120 [s 23A(a)][124]; 1992 No 87 s 4
     
-    Section 44(a): substituted, on 1 December 2009, by [section 204][123] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 44(a): substituted, on 1 December 2009, by [section 204][125] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
 
 ##### 45 Third parties may apply for relief
     
@@ -999,7 +1003,7 @@ Forfeiture of proceeds of Tribunal offences
     
     (7) A person who makes an application under subsection (1) shall serve notice of the application on the Solicitor-General, who shall be a party to any proceedings on the application.
     
-    Compare: 1991 No 120 [s 23C][124]; 1992 No 87 s 4
+    Compare: 1991 No 120 [s 23C][126]; 1992 No 87 s 4
 
 ##### 46 Court may grant relief to third party
     
@@ -1029,7 +1033,7 @@ Forfeiture of proceeds of Tribunal offences
     
     but nothing in this subsection shall be taken to require such a refusal.
     
-    Compare: 1991 No 120 [s 23D][125]; 1992 No 87 s 4
+    Compare: 1991 No 120 [s 23D][127]; 1992 No 87 s 4
 
 ##### 47 Cancellation of registration of forfeiture order
     
@@ -1043,9 +1047,9 @@ Forfeiture of proceeds of Tribunal offences
     
     (3) Where, in accordance with a direction given under subsection (1), the Solicitor-General applies to the High Court for cancellation of the registration of an order, the court shall cancel the registration accordingly.
     
-    (4) Where, pursuant to the [Criminal Proceeds (Recovery) Act 2009][119], a forfeiture order registered in accordance with [section 42][55] is discharged (in whole or in part) or is revoked, that discharge or revocation may be a ground for an application for cancellation of the order under this section.
+    (4) Where, pursuant to the [Criminal Proceeds (Recovery) Act 2009][121], a forfeiture order registered in accordance with [section 42][55] is discharged (in whole or in part) or is revoked, that discharge or revocation may be a ground for an application for cancellation of the order under this section.
     
-    Section 47(4): amended, on 1 December 2009, by [section 205][126] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 47(4): amended, on 1 December 2009, by [section 205][128] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
 
 ## Part 6  
 Search, seizure, and powers of arrest
@@ -1054,7 +1058,7 @@ Search, seizure, and powers of arrest
 
 ##### 48 Issue of search warrants
     
-*   (1) Any issuing officer (within the meaning of [section 3][127] of the Search and Surveillance Act 2012) who, on an application made in the manner provided in [subpart 3][128] of Part 4 of that Act by a constable who is of or above the level of position of inspector under [section 11][15], is satisfied that there are reasonable grounds for believing that there is in or on any place or thing---
+*   (1) Any issuing officer (within the meaning of [section 3][129] of the Search and Surveillance Act 2012) who, on an application made in the manner provided in [subpart 3][130] of Part 4 of that Act by a constable who is of or above the level of position of inspector under [section 11][15], is satisfied that there are reasonable grounds for believing that there is in or on any place or thing---
         
     *   (a) any thing upon or in respect of which a relevant Tribunal offence has been, or is suspected of having been, committed; or
     
@@ -1062,7 +1066,7 @@ Search, seizure, and powers of arrest
     
     may issue a search warrant in respect of that thing.
     
-    (2) An issuing officer (within the meaning of [section 3][127] of the Search and Surveillance Act 2012) who, on an application made in the manner provided in [subpart 3][128] of Part 4 of that Act by a constable authorised under [section 29][37], is satisfied that there are reasonable grounds for believing that there is in or on any place or thing---
+    (2) An issuing officer (within the meaning of [section 3][129] of the Search and Surveillance Act 2012) who, on an application made in the manner provided in [subpart 3][130] of Part 4 of that Act by a constable authorised under [section 29][37], is satisfied that there are reasonable grounds for believing that there is in or on any place or thing---
         
     *   (a) any thing upon or in respect of which any Tribunal offence has been, or is suspected of having been committed; or
     
@@ -1070,35 +1074,35 @@ Search, seizure, and powers of arrest
     
     may issue a search warrant in respect of that thing.
     
-    (3) The provisions of [subparts 1 to 5][129] and [7 to 10][130] of Part 4, and [sections 161][131] and [162][132] of the Search and Surveillance Act 2012 apply.
+    (3) The provisions of [subparts 1 to 5][131] and [7 to 10][132] of Part 4, and [sections 161][133] and [162][134] of the Search and Surveillance Act 2012 apply.
     
     (4) In subsection (1), _relevant Tribunal offence_ means a Tribunal offence in respect of which a person has been arrested under a warrant issued under [section 7][11].
     
-    Section 48(1): amended, on 1 October 2012, by [section 267(4)][93] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 48(1): amended, on 1 October 2012, by [section 267(4)][95] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 48(1): amended, on 1 October 2008, pursuant to [section 116(b)][94] of the Policing Act 2008 (2008 No 72).
+    Section 48(1): amended, on 1 October 2008, pursuant to [section 116(b)][96] of the Policing Act 2008 (2008 No 72).
     
-    Section 48(2): amended, on 1 October 2012, by [section 267(5)][93] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 48(2): amended, on 1 October 2012, by [section 267(5)][95] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 48(3): replaced, on 1 October 2012, by [section 267(6)][93] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 48(3): replaced, on 1 October 2012, by [section 267(6)][95] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 49 Form and content of search warrant
     
 *   \[Repealed\]
     
-    Section 49: repealed, on 1 October 2012, by [section 267(7)][93] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 49: repealed, on 1 October 2012, by [section 267(7)][95] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 50 Powers conferred by warrant
     
 *   \[Repealed\]
     
-    Section 50: repealed, on 1 October 2012, by [section 267(7)][93] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 50: repealed, on 1 October 2012, by [section 267(7)][95] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 50A Power to stop vehicles
     
 *   \[Repealed\]
     
-    Section 50A: repealed, on 1 October 2012, by [section 267(7)][93] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 50A: repealed, on 1 October 2012, by [section 267(7)][95] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Execution of search warrants
 
@@ -1106,13 +1110,13 @@ Search, seizure, and powers of arrest
     
 *   \[Repealed\]
     
-    Section 51: repealed, on 1 October 2012, by [section 267(7)][93] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 51: repealed, on 1 October 2012, by [section 267(7)][95] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 52 Notice to owner or occupier of execution of warrant
     
 *   \[Repealed\]
     
-    Section 52: repealed, on 1 October 2012, by [section 267(7)][93] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 52: repealed, on 1 October 2012, by [section 267(7)][95] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 53 Certificate to Tribunal of execution of warrant
     
@@ -1124,7 +1128,7 @@ Search, seizure, and powers of arrest
     
     the Attorney-General shall, where the Tribunal concerned requests, give to the Tribunal a certificate specifying the date and time of execution of the warrant, the identity of the person who executed the warrant, and the thing or things seized under the warrant.
     
-    Section 53: amended, on 1 October 2012, by [section 267(8)][93] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 53: amended, on 1 October 2012, by [section 267(8)][95] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Arrest
 
@@ -1140,13 +1144,13 @@ Search, seizure, and powers of arrest
     
     (2) If, in any case to which this section applies, the constable is not in uniform and any person in actual occupation of the premises requires the constable to produce evidence of his or her authority, the constable shall before entering on the premises produce his or her badge or other evidence that he or she is a constable.
     
-    Section 54(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][94] of the Policing Act 2008 (2008 No 72).
+    Section 54(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][96] of the Policing Act 2008 (2008 No 72).
     
-    Section 54(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][94] of the Policing Act 2008 (2008 No 72).
+    Section 54(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][96] of the Policing Act 2008 (2008 No 72).
     
-    Section 54(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][94] of the Policing Act 2008 (2008 No 72).
+    Section 54(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][96] of the Policing Act 2008 (2008 No 72).
     
-    Section 54(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][94] of the Policing Act 2008 (2008 No 72).
+    Section 54(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][96] of the Policing Act 2008 (2008 No 72).
 
 #### General
 
@@ -1166,7 +1170,7 @@ Search, seizure, and powers of arrest
     
     (4) Without limiting the directions that may be given under subsection (3), the Attorney-General may require the Commissioner of Police or designated constable to send the thing seized to the Tribunal concerned.
     
-    (5) Subject to [sections 154][133] and [155][134] of the Search and Surveillance Act 2012 (which apply with any necessary modifications), the Attorney-General shall direct the Commissioner of Police or designated constable to return the thing seized if---
+    (5) Subject to [sections 154][135] and [155][136] of the Search and Surveillance Act 2012 (which apply with any necessary modifications), the Attorney-General shall direct the Commissioner of Police or designated constable to return the thing seized if---
         
     *   (a) the reason for its seizure no longer exists; or
     
@@ -1174,27 +1178,27 @@ Search, seizure, and powers of arrest
     
     unless the thing seized is the subject of a dispute as to who is entitled to it.
     
-    (6) Subject to [sections 154][133] and [155][134] of the Search and Surveillance Act 2012 (which apply with any necessary modifications), if no direction is given by the Attorney-General before the expiry of the period referred to in subsection (2)(b), the Commissioner of Police or designated constable shall arrange for the thing to be returned to the person from whose possession it was seized as soon as practicable after that period has expired unless the thing seized is the subject of a dispute as to who is entitled to it.
+    (6) Subject to [sections 154][135] and [155][136] of the Search and Surveillance Act 2012 (which apply with any necessary modifications), if no direction is given by the Attorney-General before the expiry of the period referred to in subsection (2)(b), the Commissioner of Police or designated constable shall arrange for the thing to be returned to the person from whose possession it was seized as soon as practicable after that period has expired unless the thing seized is the subject of a dispute as to who is entitled to it.
     
-    Compare: 1992 No 86 [s 49(4)][135]
+    Compare: 1992 No 86 [s 49(4)][137]
     
-    Section 55(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][94] of the Policing Act 2008 (2008 No 72).
+    Section 55(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][96] of the Policing Act 2008 (2008 No 72).
     
-    Section 55(1): amended, on 1 October 2008, pursuant to [section 116(b)][94] of the Policing Act 2008 (2008 No 72).
+    Section 55(1): amended, on 1 October 2008, pursuant to [section 116(b)][96] of the Policing Act 2008 (2008 No 72).
     
-    Section 55(2): amended, on 1 October 2008, pursuant to [section 116(b)][94] of the Policing Act 2008 (2008 No 72).
+    Section 55(2): amended, on 1 October 2008, pursuant to [section 116(b)][96] of the Policing Act 2008 (2008 No 72).
     
-    Section 55(3): amended, on 1 October 2008, pursuant to [section 116(b)][94] of the Policing Act 2008 (2008 No 72).
+    Section 55(3): amended, on 1 October 2008, pursuant to [section 116(b)][96] of the Policing Act 2008 (2008 No 72).
     
-    Section 55(4): amended, on 1 October 2008, pursuant to [section 116(b)][94] of the Policing Act 2008 (2008 No 72).
+    Section 55(4): amended, on 1 October 2008, pursuant to [section 116(b)][96] of the Policing Act 2008 (2008 No 72).
     
-    Section 55(5): amended, on 1 October 2012, by [section 267(9)][93] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 55(5): amended, on 1 October 2012, by [section 267(9)][95] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 55(5): amended, on 1 October 2008, pursuant to [section 116(b)][94] of the Policing Act 2008 (2008 No 72).
+    Section 55(5): amended, on 1 October 2008, pursuant to [section 116(b)][96] of the Policing Act 2008 (2008 No 72).
     
-    Section 55(6): amended, on 1 October 2012, by [section 267(10)][93] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 55(6): amended, on 1 October 2012, by [section 267(10)][95] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 55(6): amended, on 1 October 2008, pursuant to [section 116(b)][94] of the Policing Act 2008 (2008 No 72).
+    Section 55(6): amended, on 1 October 2008, pursuant to [section 116(b)][96] of the Policing Act 2008 (2008 No 72).
 
 ## Part 7  
 Miscellaneous
@@ -1243,7 +1247,7 @@ Miscellaneous
     
     (2) In any proceeding under this Act a certificate purporting to have been given under subsection (1) shall, in the absence of proof to the contrary, be sufficient evidence of the matters certified by the certificate.
     
-    Compare: 1992 No 86 [s 64][136]
+    Compare: 1992 No 86 [s 64][138]
 
 ##### 59 Notification of response to Tribunal request
     
@@ -1275,11 +1279,13 @@ Miscellaneous
     
     (2) The Governor-General may from time to time, by Order in Council, declare that a tribunal has ceased to be a tribunal for the purposes of this Act and, for that purpose, may also, by the same Order in Council, omit the Part of the Schedule that sets out the statute of that tribunal.
     
-    (3) An Order in Council made under this section is deemed to be a regulation for the purposes of the [Regulations (Disallowance) Act 1989][137].
+    (3) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][139] and must be presented to the House of Representatives under [section 41][140] of that Act.
+    
+    Section 61(3): replaced, on 5 August 2013, by [section 77(3)][141] of the Legislation Act 2012 (2012 No 119).
 
 ##### 62 Amendment to Diplomatic Privileges and Immunities Act 1968
     
-*   _Amendment(s) incorporated in the [Act(s)][138]_.
+*   _Amendment(s) incorporated in the [Act(s)][142]_.
 
 ---
 
@@ -1292,11 +1298,11 @@ Statute of the International Tribunal for the Prosecution of Persons Responsible
 
 Having been established by the Security Council acting under Chapter VII of the Charter of the United Nations, the International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Humanitarian Law Committed in the Territory of the Former Yugoslavia since 1991 (hereinafter referred to as "the International Tribunal") shall function in accordance with the provisions of the present Statute.
 
-### Article 1 Competence of the International Tribunal
+### Article 1---Competence of the International Tribunal
 
 The International Tribunal shall have the power to prosecute persons responsible for serious violations of international humanitarian law committed in the territory of the former Yugoslavia since 1991 in accordance with the provisions of the present Statute.
 
-### Article 2 Grave breaches of the Geneva Conventions of 1949
+### Article 2---Grave breaches of the Geneva Conventions of 1949
 
 The International Tribunal shall have the power to prosecute persons committing or ordering to be committed grave breaches of the Geneva Conventions of 12 August 1949, namely the following acts against persons or property protected under the provisions of the relevant Geneva Convention:
     
@@ -1316,7 +1322,7 @@ The International Tribunal shall have the power to prosecute persons committing 
 
 *   (h) taking civilians as hostages.
 
-### Article 3 Violations of the laws or customs of war
+### Article 3---Violations of the laws or customs of war
 
 The International Tribunal shall have the power to prosecute persons violating the laws or customs of war. Such violations shall include, but not be limited to:
     
@@ -1330,7 +1336,7 @@ The International Tribunal shall have the power to prosecute persons violating t
 
 *   (e) plunder of public or private property.
 
-### Article 4 Genocide
+### Article 4---Genocide
     
 *   1\. The International Tribunal shall have the power to prosecute persons committing genocide as defined in paragraph 2 of this article or of committing any of the other acts enumerated in paragraph 3 of this article.
 
@@ -1362,7 +1368,7 @@ The International Tribunal shall have the power to prosecute persons violating t
     
     
 
-### Article 5 Crimes against humanity
+### Article 5---Crimes against humanity
 
 The International Tribunal shall have the power to prosecute persons responsible for the following crimes when committed in armed conflict, whether international or internal in character, and directed against any civilian population:
     
@@ -1384,31 +1390,31 @@ The International Tribunal shall have the power to prosecute persons responsible
 
 *   (i) other inhumane acts.
 
-### Article 6 Personal jurisdiction
+### Article 6---Personal jurisdiction
 
 The International Tribunal shall have jurisdiction over natural persons pursuant to the provisions of the present Statute.
 
-### Article 7 Individual criminal responsibility
+### Article 7---Individual criminal responsibility
     
-*   1\. A person who planned, instigated, ordered, committed or otherwise aided and abetted in the planning, preparation or execution of a crime referred to in [articles 2 to 5][139] of the present Statute, shall be individually responsible for the crime.
+*   1\. A person who planned, instigated, ordered, committed or otherwise aided and abetted in the planning, preparation or execution of a crime referred to in [articles 2 to 5][143] of the present Statute, shall be individually responsible for the crime.
 
 *   2\. The official position of any accused person, whether as Head of State or Government or as a responsible Government official, shall not relieve such person of criminal responsibility nor mitigate punishment.
 
-*   3\. The fact that any of the acts referred to in [articles 2 to 5][139] of the present Statute was committed by a subordinate does not relieve his superior of criminal responsibility if he knew or had reason to know that the subordinate was about to commit such acts or had done so and the superior failed to take the necessary and reasonable measures to prevent such acts or to punish the perpetrators thereof.
+*   3\. The fact that any of the acts referred to in [articles 2 to 5][143] of the present Statute was committed by a subordinate does not relieve his superior of criminal responsibility if he knew or had reason to know that the subordinate was about to commit such acts or had done so and the superior failed to take the necessary and reasonable measures to prevent such acts or to punish the perpetrators thereof.
 
 *   4\. The fact that an accused person acted pursuant to an order of a Government or of a superior shall not relieve him of criminal responsibility, but may be considered in mitigation of punishment if the International Tribunal determines that justice so requires.
 
-### Article 8 Territorial and temporal jurisdiction
+### Article 8---Territorial and temporal jurisdiction
 
 The territorial jurisdiction of the International Tribunal shall extend to the territory of the former Socialist Federal Republic of Yugoslavia, including its land surface, airspace and territorial waters. The temporal jurisdiction of the International Tribunal shall extend to a period beginning on 1 January 1991\.
 
-### Article 9 Concurrent jurisdiction
+### Article 9---Concurrent jurisdiction
     
 *   1\. The International Tribunal and national courts shall have concurrent jurisdiction to prosecute persons for serious violations of international humanitarian law committed in the territory of the former Yugoslavia since 1 January 1991\.
 
 *   2\. The International Tribunal shall have primacy over national courts. At any stage of the procedure, the International Tribunal may formally request national courts to defer to the competence of the International Tribunal in accordance with the present Statute and the Rules of Procedure and Evidence of the International Tribunal.
 
-### Article 10 Non-bis-in-idem
+### Article 10---Non-bis-in-idem
     
 *   1\. No person shall be tried before a national court for acts constituting serious violations of international humanitarian law under the present Statute, for which he or she has already been tried by the International Tribunal.
 
@@ -1422,7 +1428,7 @@ The territorial jurisdiction of the International Tribunal shall extend to the t
 
 *   3\. In considering the penalty to be imposed on a person convicted of a crime under the present Statute, the International Tribunal shall take into account the extent to which any penalty imposed by a national court on the same person for the same act has already been served.
 
-### Article 11 Organization of the International Tribunal
+### Article 11---Organization of the International Tribunal
 
 The International Tribunal shall consist of the following organs:
     
@@ -1432,7 +1438,7 @@ The International Tribunal shall consist of the following organs:
 
 *   (c) A Registry, servicing both the Chambers and the Prosecutor.
 
-### Article 12 Composition of the Chambers
+### Article 12---Composition of the Chambers
 
 The Chambers shall be composed of eleven independent judges, no two of whom may be nationals of the same State, who shall serve as follows:
     
@@ -1440,7 +1446,7 @@ The Chambers shall be composed of eleven independent judges, no two of whom may 
 
 *   (b) Five judges shall serve in the Appeals Chamber.
 
-### Article 13 Qualifications and election of judges
+### Article 13---Qualifications and election of judges
     
 *   1\. The judges shall be persons of high moral character, impartiality and integrity who possess the qualifications required in their respective countries for appointment to the highest judicial offices. In the overall composition of the Chambers due account shall be taken of the experience of the judges in criminal law, international law, including international humanitarian law and human rights law.
 
@@ -1460,7 +1466,7 @@ The Chambers shall be composed of eleven independent judges, no two of whom may 
 
 *   4\. The judges shall be elected for a term of four years. The terms and conditions of service shall be those of the judges of the International Court of Justice. They shall be eligible for re-election.
 
-### Article 14 Officers and members of the Chambers
+### Article 14---Officers and members of the Chambers
     
 *   1\. The judges of the International Tribunal shall elect a President.
 
@@ -1470,11 +1476,11 @@ The Chambers shall be composed of eleven independent judges, no two of whom may 
 
 *   4\. The judges of each Trial Chamber shall elect a Presiding Judge, who shall conduct all of the proceedings of the Trial Chamber as a whole.
 
-### Article 15 Rules of procedure and evidence
+### Article 15---Rules of procedure and evidence
 
 The judges of the International Tribunal shall adopt rules of procedure and evidence for the conduct of the pre-trial phase of the proceedings, trials and appeals, the admission of evidence, the protection of victims and witnesses and other appropriate matters.
 
-### Article 16 The Prosecutor
+### Article 16---The Prosecutor
     
 *   1\. The Prosecutor shall be responsible for the investigation and prosecution of persons responsible for serious violations of international humanitarian law committed in the territory of the former Yugoslavia since 1 January 1991\.
 
@@ -1486,7 +1492,7 @@ The judges of the International Tribunal shall adopt rules of procedure and evid
 
 *   5\. The staff of the Office of the Prosecutor shall be appointed by the Secretary-General on the recommendation of the Prosecutor.
 
-### Article 17 The Registry
+### Article 17---The Registry
     
 *   1\. The Registry shall be responsible for the administration and servicing of the International Tribunal.
 
@@ -1496,7 +1502,7 @@ The judges of the International Tribunal shall adopt rules of procedure and evid
 
 *   4\. The staff of the Registry shall be appointed by the Secretary-General on the recommendation of the Registrar.
 
-### Article 18 Investigation and preparation of indictment
+### Article 18---Investigation and preparation of indictment
     
 *   1\. The Prosecutor shall initiate investigations ex-officio or on the basis of information obtained from any source, particularly from Governments, United Nations organs, intergovernmental and non-governmental organizations. The Prosecutor shall assess the information received or obtained and decide whether there is sufficient basis to proceed.
 
@@ -1506,13 +1512,13 @@ The judges of the International Tribunal shall adopt rules of procedure and evid
 
 *   4\. Upon a determination that a prima facie case exists, the Prosecutor shall prepare an indictment containing a concise statement of the facts and the crime or crimes with which the accused is charged under the Statute. The indictment shall be transmitted to a judge of the Trial Chamber.
 
-### Article 19 Review of the indictment
+### Article 19---Review of the indictment
     
 *   1\. The judge of the Trial Chamber to whom the indictment has been transmitted shall review it. If satisfied that a prima facie case has been established by the Prosecutor, he shall confirm the indictment. If not so satisfied, the indictment shall be dismissed.
 
 *   2\. Upon confirmation of an indictment, the judge may, at the request of the Prosecutor, issue such orders and warrants for the arrest, detention, surrender or transfer of persons, and any other orders as may be required for the conduct of the trial.
 
-### Article 20 Commencement and conduct of trial proceedings
+### Article 20---Commencement and conduct of trial proceedings
     
 *   1\. The Trial Chambers shall ensure that a trial is fair and expeditious and that proceedings are conducted in accordance with the rules of procedure and evidence, with full respect for the rights of the accused and due regard for the protection of victims and witnesses.
 
@@ -1522,11 +1528,11 @@ The judges of the International Tribunal shall adopt rules of procedure and evid
 
 *   4\. The hearings shall be public unless the Trial Chamber decides to close the proceedings in accordance with its rules of procedure and evidence.
 
-### Article 21 Rights of the accused
+### Article 21---Rights of the accused
     
 *   1\. All persons shall be equal before the International Tribunal.
 
-*   2\. In the determination of charges against him, the accused shall be entitled to a fair and public hearing, subject to [article 22][140] of the Statute.
+*   2\. In the determination of charges against him, the accused shall be entitled to a fair and public hearing, subject to [article 22][144] of the Statute.
 
 *   3\. The accused shall be presumed innocent until proved guilty according to the provisions of the present Statute.
 
@@ -1548,17 +1554,17 @@ The judges of the International Tribunal shall adopt rules of procedure and evid
     
     
 
-### Article 22 Protection of victims and witnesses
+### Article 22---Protection of victims and witnesses
 
 The International Tribunal shall provide in its rules of procedure and evidence for the protection of victims and witnesses. Such protection measures shall include, but shall not be limited to, the conduct of _in camera_ proceedings and the protection of the victim's identity.
 
-### Article 23 Judgement
+### Article 23---Judgement
     
 *   1\. The Trial Chambers shall pronounce judgements and impose sentences and penalties on persons convicted of serious violations of international humanitarian law.
 
 *   2\. The judgement shall be rendered by a majority of the judges of the Trial Chamber, and shall be delivered by the Trial Chamber in public. It shall be accompanied by a reasoned opinion in writing, to which separate or dissenting opinions may be appended.
 
-### Article 24 Penalties
+### Article 24---Penalties
     
 *   1\. The penalty imposed by the Trial Chamber shall be limited to imprisonment. In determining the terms of imprisonment, the Trial Chambers shall have recourse to the general practice regarding prison sentences in the courts of the former Yugoslavia.
 
@@ -1566,7 +1572,7 @@ The International Tribunal shall provide in its rules of procedure and evidence 
 
 *   3\. In addition to imprisonment, the Trial Chambers may order the return of any property and proceeds acquired by criminal conduct, including by means of duress, to their rightful owners.
 
-### Article 25 Appellate proceedings
+### Article 25---Appellate proceedings
     
 *   1\. The Appeals Chamber shall hear appeals from persons convicted by the Trial Chambers or from the Prosecutor on the following grounds:
         
@@ -1578,19 +1584,19 @@ The International Tribunal shall provide in its rules of procedure and evidence 
 
 *   2\. The Appeals Chamber may affirm, reverse or revise the decisions taken by the Trial Chambers.
 
-### Article 26 Review proceedings
+### Article 26---Review proceedings
 
 Where a new fact has been discovered which was not known at the time of the proceedings before the Trial Chambers or the Appeals Chamber and which could have been a decisive factor in reaching the decision, the convicted person or the Prosecutor may submit to the International Tribunal an application for review of the judgement.
 
-### Article 27 Enforcement of sentences
+### Article 27---Enforcement of sentences
 
 Imprisonment shall be served in a State designated by the International Tribunal from a list of States which have indicated to the Security Council their willingness to accept convicted persons. Such imprisonment shall be in accordance with the applicable law of the State concerned, subject to the supervision of the International Tribunal.
 
-### Article 28 Pardon or commutation of sentences
+### Article 28---Pardon or commutation of sentences
 
 If, pursuant to the applicable law of the State in which the convicted person is imprisoned, he or she is eligible for pardon or commutation of sentence, the State concerned shall notify the International Tribunal accordingly. The President of the International Tribunal, in consultation with the judges, shall decide the matter on the basis of the interests of justice and the general principles of law.
 
-### Article 29 Cooperation and judicial assistance
+### Article 29---Cooperation and judicial assistance
     
 *   1\. States shall cooperate with the International Tribunal in the investigation and prosecution of persons accused of committing serious violations of international humanitarian law.
 
@@ -1608,7 +1614,7 @@ If, pursuant to the applicable law of the State in which the convicted person is
     
     
 
-### Article 30 The status, privileges and immunities of the International Tribunal
+### Article 30---The status, privileges and immunities of the International Tribunal
     
 *   1\. The Convention on the Privileges and Immunities of the United Nations of 13 February 1946 shall apply to the International Tribunal, the judges, the Prosecutor and his staff, and the Registrar and his staff.
 
@@ -1618,19 +1624,19 @@ If, pursuant to the applicable law of the State in which the convicted person is
 
 *   4\. Other persons, including the accused, required at the seat of the International Tribunal shall be accorded such treatment as is necessary for the proper functioning of the International Tribunal.
 
-### Article 31 Seat of the International Tribunal
+### Article 31---Seat of the International Tribunal
 
 The International Tribunal shall have its seat at The Hague.
 
-### Article 32 Expenses of the International Tribunal
+### Article 32---Expenses of the International Tribunal
 
 The expenses of the International Tribunal shall be borne by the regular budget of the United Nations in accordance with Article 17 of the Charter of the United Nations.
 
-### Article 33 Working languages
+### Article 33---Working languages
 
 The working languages of the International Tribunal shall be English and French.
 
-### Article 34 Annual report
+### Article 34---Annual report
 
 The President of the International Tribunal shall submit an annual report of the International Tribunal to the Security Council and to the General Assembly.
 
@@ -1639,11 +1645,11 @@ Statute of the International Criminal Tribunal for the Prosecution of Persons Re
 
 Having been established by the Security Council acting under Chapter VII of the Charter of the United Nations, the International Criminal Tribunal for the Prosecution of Persons Responsible for Genocide and Other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan citizens responsible for genocide and other such violations committed in the territory of neighbouring States, between 1 January 1994 and 31 December 1994 (hereinafter referred to as "the International Tribunal for Rwanda") shall function in accordance with the provisions of the present Statute.
 
-### Article 1 Competence of the International Tribunal for Rwanda
+### Article 1---Competence of the International Tribunal for Rwanda
 
 The International Tribunal for Rwanda shall have the power to prosecute persons responsible for serious violations of international humanitarian law committed in the territory of Rwanda and Rwandan citizens responsible for such violations committed in the territory of neighbouring States, between 1 January 1994 and 31 December 1994, in accordance with the provisions of the present Statute.
 
-### Article 2 Genocide
+### Article 2---Genocide
     
 *   1\. The International Tribunal for Rwanda shall have the power to prosecute persons committing genocide as defined in paragraph 2 of this article or of committing any of the other acts enumerated in paragraph 3 of this article.
 
@@ -1675,7 +1681,7 @@ The International Tribunal for Rwanda shall have the power to prosecute persons 
     
     
 
-### Article 3 Crimes against humanity
+### Article 3---Crimes against humanity
 
 The International Tribunal for Rwanda shall have the power to prosecute persons responsible for the following crimes when committed as part of a widespread or systematic attack against any civilian population on national, political, ethic, racial or religious grounds:
     
@@ -1697,9 +1703,9 @@ The International Tribunal for Rwanda shall have the power to prosecute persons 
 
 *   (i) Other inhumane acts.
 
-### Article 4 Violations of Article 3 common to the Geneva Conventions and of Additional Protocol II
+### Article 4---Violations of Article 3 common to the Geneva Conventions and of Additional Protocol II
 
-The International Tribunal for Rwanda shall have the power to prosecute persons committing or ordering to be committed serious violations of [Article 3][141] common to the Geneva Conventions of 12 August 1949 for the Protection of War Victims, and of Additional Protocol II thereto of 8 June 1977\. These violations shall include, but shall not be limited to:
+The International Tribunal for Rwanda shall have the power to prosecute persons committing or ordering to be committed serious violations of [Article 3][145] common to the Geneva Conventions of 12 August 1949 for the Protection of War Victims, and of Additional Protocol II thereto of 8 June 1977\. These violations shall include, but shall not be limited to:
     
 *   (a) Violence to life, health and physical or mental well-being of persons, in particular murder as well as cruel treatment such as torture, mutilation or any form of corporal punishment;
 
@@ -1717,31 +1723,31 @@ The International Tribunal for Rwanda shall have the power to prosecute persons 
 
 *   (h) Threats to commit any of the foregoing acts.
 
-### Article 5 Personal jurisdiction
+### Article 5---Personal jurisdiction
 
 The International Tribunal for Rwanda shall have jurisdiction over natural persons pursuant to the provisions of the present Statute.
 
-### Article 6 Individual criminal responsibility
+### Article 6---Individual criminal responsibility
     
-*   1\. A person who planned, instigated, ordered, committed or otherwise aided and abetted in the planning, preparation or execution of a crime referred to in [articles 2 to 4][142] of the present Statute, shall be individually responsible for the crime.
+*   1\. A person who planned, instigated, ordered, committed or otherwise aided and abetted in the planning, preparation or execution of a crime referred to in [articles 2 to 4][146] of the present Statute, shall be individually responsible for the crime.
 
 *   2\. The official position of any accused person, whether as Head of State or Government or as a responsible Government official, shall not relieve such person of criminal responsibility nor mitigate punishment.
 
-*   3\. The fact that any of the acts referred to in [articles 2 to 4][142] of the present Statute was committed by a subordinate does not relieve his or her superior of criminal responsibility if he or she knew or had reason to know that the subordinate was about to commit such acts or had done so and the superior failed to take the necessary and reasonable measures to prevent such acts or to punish the perpetrators thereof.
+*   3\. The fact that any of the acts referred to in [articles 2 to 4][146] of the present Statute was committed by a subordinate does not relieve his or her superior of criminal responsibility if he or she knew or had reason to know that the subordinate was about to commit such acts or had done so and the superior failed to take the necessary and reasonable measures to prevent such acts or to punish the perpetrators thereof.
 
 *   4\. The fact that an accused person acted pursuant to an order of a Government or of a superior shall not relieve him or her of criminal responsibility, but may be considered in mitigation of punishment if the International Tribunal for Rwanda determines that justice so requires.
 
-### Article 7 Territorial and temporal jurisdiction
+### Article 7---Territorial and temporal jurisdiction
 
 The territorial jurisdiction of the International Tribunal for Rwanda shall extend to the territory of Rwanda including its land surface and airspace as well as to the territory of neighbouring States in respect of serious violations of international humanitarian law committed by Rwandan citizens. The temporal jurisdiction of the International Tribunal for Rwanda shall extend to a period beginning on 1 January 1994 and ending on 31 December 1994\.
 
-### Article 8 Concurrent jurisdiction
+### Article 8---Concurrent jurisdiction
     
 *   1\. The International Tribunal for Rwanda and national courts shall have concurrent jurisdiction to prosecute persons for serious violations of international humanitarian law committed in the territory of Rwanda and Rwandan citizens for such violations committed in the territory of neighbouring States, between 1 January 1994 and 31 December 1994\.
 
 *   2\. The International Tribunal for Rwanda shall have primacy over the national courts of all States. At any stage of the procedure, the International Tribunal for Rwanda may formally request national courts to defer to its competence in accordance with the present Statute and the Rules of Procedure and Evidence of the International Tribunal for Rwanda.
 
-### Article 9 Non bis in idem
+### Article 9---Non bis in idem
     
 *   1\. No person shall be tried before a national court for acts constituting serious violations of international humanitarian law under the present Statute, for which he or she has already been tried by the International Tribunal for Rwanda.
 
@@ -1755,7 +1761,7 @@ The territorial jurisdiction of the International Tribunal for Rwanda shall exte
 
 *   3\. In considering the penalty to be imposed on a person convicted of a crime under the present Statute, the International Tribunal for Rwanda shall take into account the extent to which any penalty imposed by a national court on the same person for the same act has already been served.
 
-### Article 10 Organization of the International Tribunal for Rwanda
+### Article 10---Organization of the International Tribunal for Rwanda
 
 The International Tribunal for Rwanda shall consist of the following organs:
     
@@ -1765,7 +1771,7 @@ The International Tribunal for Rwanda shall consist of the following organs:
 
 *   (c) A Registry.
 
-### Article 11 Composition of the Chambers
+### Article 11---Composition of the Chambers
 
 The Chambers shall be composed of eleven independent judges, no two of whom may be nationals of the same State, who shall serve as follows:
     
@@ -1773,7 +1779,7 @@ The Chambers shall be composed of eleven independent judges, no two of whom may 
 
 *   (b) Five judges shall serve in the Appeals Chamber.
 
-### Article 12 Qualification and election of judges
+### Article 12---Qualification and election of judges
     
 *   1\. The judges shall be persons of high moral character, impartiality and integrity who possess the qualifications required in their respective countries for appointment to the highest judicial offices. In the overall composition of the Chambers due account shall be taken of the experience of the judges in criminal law, international law, including international humanitarian law and human rights law.
 
@@ -1795,7 +1801,7 @@ The Chambers shall be composed of eleven independent judges, no two of whom may 
 
 *   5\. The judges of the Trial Chambers shall be elected for a term of four years. The terms and conditions of service shall be those of the judges of the International Tribunal for the Former Yugoslavia. They shall be eligible for re-election.
 
-### Article 13 Officers and members of the Chambers
+### Article 13---Officers and members of the Chambers
     
 *   1\. The judges of the International Tribunal for Rwanda shall elect a President.
 
@@ -1803,11 +1809,11 @@ The Chambers shall be composed of eleven independent judges, no two of whom may 
 
 *   3\. The judges of each Trial Chamber shall elect a Presiding Judge, who shall conduct all of the proceedings of that Trial Chamber as a whole.
 
-### Article 14 Rules of procedure and evidence
+### Article 14---Rules of procedure and evidence
 
 The judges of the International Tribunal for Rwanda shall adopt, for the purpose of proceedings before the International Tribunal for Rwanda, the rules of procedure and evidence for the conduct of the pre-trial phase of the proceedings, trials and appeals, the admission of evidence, the protection of victims and witnesses and other appropriate matters of the International Tribunal for the Former Yugoslavia with such changes as they deem necessary.
 
-### Article 15 The Prosecutor
+### Article 15---The Prosecutor
     
 *   1\. The Prosecutor shall be responsible for the investigation and prosecution of persons responsible for serious violations of international humanitarian law committed in the territory of Rwanda and Rwandan citizens responsible for such violations committed in the territory of neighbouring States, between 1 January 1994 and 31 December 1994\.
 
@@ -1815,7 +1821,7 @@ The judges of the International Tribunal for Rwanda shall adopt, for the purpose
 
 *   3\. The Prosecutor of the International Tribunal for the Former Yugoslavia shall also serve as the Prosecutor of the International Tribunal for Rwanda. He or she shall have additional staff, including an additional Deputy Prosecutor, to assist with prosecutions before the International Tribunal for Rwanda. Such staff shall be appointed by the Secretary-General on the recommendation of the Prosecutor.
 
-### Article 16 The Registry
+### Article 16---The Registry
     
 *   1\. The Registry shall be responsible for the administration and servicing of the International Tribunal for Rwanda.
 
@@ -1825,7 +1831,7 @@ The judges of the International Tribunal for Rwanda shall adopt, for the purpose
 
 *   4\. The staff of the Registry shall be appointed by the Secretary-General on the recommendation of the Registrar.
 
-### Article 17 Investigation and preparation of indictment
+### Article 17---Investigation and preparation of indictment
     
 *   1\. The Prosecutor shall initiate investigations ex-officio or on the basis of information obtained from any source, particularly from Governments, United Nations organs, intergovernmental and non-governmental organizations. The Prosecutor shall assess the information received or obtained and decide whether there is sufficient basis to proceed.
 
@@ -1835,13 +1841,13 @@ The judges of the International Tribunal for Rwanda shall adopt, for the purpose
 
 *   4\. Upon a determination that a prima facie case exists, the Prosecutor shall prepare an indictment containing a concise statement of the facts and the crime or crimes with which the accused is charged under the Statute. The indictment shall be transmitted to a judge of the Trial Chamber.
 
-### Article 18 Review of the indictment
+### Article 18---Review of the indictment
     
 *   1\. The judge of the Trial Chamber to whom the indictment has been transmitted shall review it. If satisfied that a prima facie case has been established by the Prosecutor, he or she shall confirm the indictment. If not so satisfied, the indictment shall be dismissed.
 
 *   2\. Upon confirmation of an indictment, the judge may, at the request of the Prosecutor, issue such orders and warrants for the arrest, detention, surrender or transfer of persons, and any other orders as may be required for the conduct of the trial.
 
-### Article 19 Commencement and conduct of trial proceedings
+### Article 19---Commencement and conduct of trial proceedings
     
 *   1\. The Trial Chambers shall ensure that a trial is fair and expeditious and that proceedings are conducted in accordance with the rules of procedure and evidence, with full respect for the rights of the accused and due regard for the protection of victims and witnesses.
 
@@ -1851,11 +1857,11 @@ The judges of the International Tribunal for Rwanda shall adopt, for the purpose
 
 *   4\. The hearings shall be public unless the Trial Chamber decides to close the proceedings in accordance with its rules of procedure and evidence.
 
-### Article 20 Rights of the accused
+### Article 20---Rights of the accused
     
 *   1\. All persons shall be equal before the International Tribunal for Rwanda.
 
-*   2\. In the determination of charges against him or her, the accused shall be entitled to a fair and public hearing, subject to [article 21][143] of the Statute.
+*   2\. In the determination of charges against him or her, the accused shall be entitled to a fair and public hearing, subject to [article 21][147] of the Statute.
 
 *   3\. The accused shall be presumed innocent until proved guilty according to the provisions of the present Statute.
 
@@ -1877,17 +1883,17 @@ The judges of the International Tribunal for Rwanda shall adopt, for the purpose
     
     
 
-### Article 21 Protection of victims and witnesses
+### Article 21---Protection of victims and witnesses
 
 The International Tribunal for Rwanda shall provide in its rules of procedure and evidence for the protection of victims and witnesses. Such protection measures shall include, but shall not be limited to, the conduct of in camera proceedings and the protection of the victim's identity.
 
-### Article 22 Judgement
+### Article 22---Judgement
     
 *   1\. The Trial Chambers shall pronounce judgements and impose sentences and penalties on persons convicted of serious violations of international humanitarian law.
 
 *   2\. The judgement shall be rendered by a majority of the judges of the Trial Chamber, and shall be delivered by the Trial Chamber in public. It shall be accompanied by a reasoned opinion in writing, to which separate or dissenting opinions may be appended.
 
-### Article 23 Penalties
+### Article 23---Penalties
     
 *   1\. The penalty imposed by the Trial Chamber shall be limited to imprisonment. In determining the terms of imprisonment, the Trial Chambers shall have recourse to the general practice regarding prison sentences in the courts of Rwanda.
 
@@ -1895,7 +1901,7 @@ The International Tribunal for Rwanda shall provide in its rules of procedure an
 
 *   3\. In addition to imprisonment, the Trial Chambers may order the return of any property and proceeds acquired by criminal conduct, including by means of duress, to their rightful owners.
 
-### Article 24 Appellate proceedings
+### Article 24---Appellate proceedings
     
 *   1\. The Appeals Chamber shall hear appeals from persons convicted by the Trial Chambers or from the Prosecutor on the following grounds:
         
@@ -1907,19 +1913,19 @@ The International Tribunal for Rwanda shall provide in its rules of procedure an
 
 *   2\. The Appeals Chamber may affirm, reverse or revise the decisions taken by the Trial Chambers.
 
-### Article 25 Review proceedings
+### Article 25---Review proceedings
 
 Where a new fact has been discovered which was not known at the time of the proceedings before the Trial Chambers or the Appeals Chamber and which could have been a decisive factor in reaching the decision, the convicted person or the Prosecutor may submit to the International Tribunal for Rwanda an application for review of the judgement.
 
-### Article 26 Enforcement of sentences
+### Article 26---Enforcement of sentences
 
 Imprisonment shall be served in Rwanda or any of the States on a list of States which have indicated to the Security Council their willingness to accept convicted persons, as designated by the International Tribunal for Rwanda. Such imprisonment shall be in accordance with the applicable law of the State concerned, subject to the supervision of the International Tribunal for Rwanda.
 
-### Article 27 Pardon or commutation of sentences
+### Article 27---Pardon or commutation of sentences
 
 If, pursuant to the applicable law of the State in which the convicted person is imprisoned, he or she is eligible for pardon or commutation of sentence, the State concerned shall notify the International Tribunal for Rwanda accordingly. There shall only be pardon or commutation of sentence if the President of the International Tribunal for Rwanda, in consultation with the judges, so decides on the basis of the interests of justice and the general principles of law.
 
-### Article 28 Cooperation and judicial assistance
+### Article 28---Cooperation and judicial assistance
     
 *   1\. States shall cooperate with the International Tribunal for Rwanda in the investigation and prosecution of persons accused of committing serious violations of international humanitarian law.
 
@@ -1937,7 +1943,7 @@ If, pursuant to the applicable law of the State in which the convicted person is
     
     
 
-### Article 29 The status, privileges and immunities of the International Tribunal for Rwanda
+### Article 29---The status, privileges and immunities of the International Tribunal for Rwanda
     
 *   1\. The Convention on the Privileges and Immunities of the United Nations of 13 February 1946 shall apply to the International Tribunal for Rwanda, the judges, the Prosecutor and his or her staff, and the Registrar and his or her staff.
 
@@ -1947,174 +1953,65 @@ If, pursuant to the applicable law of the State in which the convicted person is
 
 *   4\. Other persons, including the accused, required at the seat or meeting place of the International Tribunal for Rwanda shall be accorded such treatment as is necessary for the proper functioning of the International Tribunal for Rwanda.
 
-### Article 30 Expenses of the International Tribunal for Rwanda
+### Article 30---Expenses of the International Tribunal for Rwanda
 
 The expenses of the International Tribunal for Rwanda shall be expenses of the Organization in accordance with Article 17 of the Charter of the United Nations.
 
-### Article 31 Working languages
+### Article 31---Working languages
 
 The working languages of the International Tribunal shall be English and French.
 
-### Article 32 Annual report
+### Article 32---Annual report
 
 The President of the International Tribunal for Rwanda shall submit an annual report of the International Tribunal for Rwanda to the Security Council and to the General Assembly.
 
----
-
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][144].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][145] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the International War Crimes Tribunals Act 1995\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][146] ![](/images/external_link.gif).
+*   This is a reprint of the International War Crimes Tribunals Act 1995 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][147] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][148] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][149] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][148] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][150] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][151] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][149] and [17E][150] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][141]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Search and Surveillance Act 2012 (2012 No 24): [section 267][95]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][93]
     
+    Immigration Act 2009 (2009 No 51): [section 406(1)][112]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Criminal Proceeds (Recovery) Act 2009 (2009 No 8): [sections 203--205][122]
     
-*   Search and Surveillance Act 2012 (2012 No 24): [section 267][93]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii), (b)][96]
     
-    Immigration Act 2009 (2009 No 51): [section 406(1)][110]
-    
-    Criminal Proceeds (Recovery) Act 2009 (2009 No 8): [sections 203--205][120]
-    
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii), (b)][94]
-    
-    Sentencing Amendment Act 2007 (2007 No 27): [section 58][106]
+    Sentencing Amendment Act 2007 (2007 No 27): [section 58][108]
     
     Corrections Act 2004 (2004 No 50): [section 206][86]
     
-    Parole Act 2002 (2002 No 10): [section 125][105]
+    Parole Act 2002 (2002 No 10): [section 125][107]
     
-    Sentencing Act 2002 (2002 No 9): [section 186][95]
+    Sentencing Act 2002 (2002 No 9): [section 186][97]
     
-    Bail Act 2000 (2000 No 38): [section 74(2)][92]
+    Bail Act 2000 (2000 No 38): [section 74(2)][94]
     
-    Crimes Amendment Act (No 2) 1997 (1997 No 93): [section 25][92]
+    Crimes Amendment Act (No 2) 1997 (1997 No 93): [section 25][94]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1995/0027/latest/whole.html#DLM365018
 [2]: http://www.legislation.govt.nz/act/public/1995/0027/latest/whole.html#DLM365020
 [3]: http://www.legislation.govt.nz/act/public/1995/0027/latest/whole.html#DLM365021
@@ -2201,67 +2098,68 @@ Amendments, repeals, and miscellaneous provisions
 [84]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM294857
 [85]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM294848
 [86]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM297136
-[87]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM311655
-[88]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM311657
-[89]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM311662
-[90]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM311682
-[91]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM68942
-[92]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM69643
-[93]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2137011
-[94]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM1102349
-[95]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM137267
-[96]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM274415
-[97]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM274418
-[98]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM274420
-[99]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM137638
-[100]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM136401
-[101]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM295478
-[102]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM76621
-[103]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM329014
-[104]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM274427
-[105]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM140118
-[106]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM411004
-[107]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM274445
-[108]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM1440300
-[109]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM274453
-[110]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM1441347
-[111]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM274468
-[112]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM328793
-[113]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM146912
-[114]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM408335
-[115]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM146914
-[116]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM146916
-[117]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM274477
-[118]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM274491
-[119]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=BILL-SCDRAFT-7242
-[120]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM1451451
-[121]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM1451170
-[122]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM251075
-[123]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM1451453
-[124]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM251079
-[125]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM251081
-[126]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM1451454
-[127]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2136542
-[128]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2136781
-[129]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2136771
-[130]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2136877
-[131]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2136874
-[132]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2136875
-[133]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2136866
-[134]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2136867
-[135]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM274465
-[136]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM274493
-[137]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM195534
-[138]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM388055
-[139]: http://www.legislation.govt.nz/act/public/1995/0027/latest/whole.html#DLM2229900
-[140]: http://www.legislation.govt.nz/act/public/1995/0027/latest/whole.html#DLM2229903
-[141]: http://www.legislation.govt.nz/act/public/1995/0027/latest/whole.html#DLM2229905
-[142]: http://www.legislation.govt.nz/act/public/1995/0027/latest/whole.html#DLM2229907
-[143]: http://www.legislation.govt.nz/act/public/1995/0027/latest/whole.html#DLM2229910
-[144]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2136500
-[145]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM4686448
-[146]: http://www.pco.parliament.govt.nz/reprints/
-[147]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM195439
-[148]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[149]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM195468
-[150]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM195470
+[87]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM3360287
+[88]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM68942
+[89]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM68944
+[90]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM68956
+[91]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM68957
+[92]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM68959
+[93]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM3360714
+[94]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM69643
+[95]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2137011
+[96]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM1102349
+[97]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM137267
+[98]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM274415
+[99]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM274418
+[100]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM274420
+[101]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM137638
+[102]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM136401
+[103]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM295478
+[104]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM76621
+[105]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM329014
+[106]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM274427
+[107]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM140118
+[108]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM411004
+[109]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM274445
+[110]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM1440300
+[111]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM274453
+[112]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM1441347
+[113]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM274468
+[114]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM328793
+[115]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM146912
+[116]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM408335
+[117]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM146914
+[118]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM146916
+[119]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM274477
+[120]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM274491
+[121]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=BILL-SCDRAFT-7242
+[122]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM1451451
+[123]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM1451170
+[124]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM251075
+[125]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM1451453
+[126]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM251079
+[127]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM251081
+[128]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM1451454
+[129]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2136542
+[130]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2136781
+[131]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2136771
+[132]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2136877
+[133]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2136874
+[134]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2136875
+[135]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2136866
+[136]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2136867
+[137]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM274465
+[138]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM274493
+[139]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2997643
+[140]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2998573
+[141]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2998633
+[142]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM388055
+[143]: http://www.legislation.govt.nz/act/public/1995/0027/latest/whole.html#DLM2229900
+[144]: http://www.legislation.govt.nz/act/public/1995/0027/latest/whole.html#DLM2229903
+[145]: http://www.legislation.govt.nz/act/public/1995/0027/latest/whole.html#DLM2229905
+[146]: http://www.legislation.govt.nz/act/public/1995/0027/latest/whole.html#DLM2229907
+[147]: http://www.legislation.govt.nz/act/public/1995/0027/latest/whole.html#DLM2229910
+[148]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2998516
+[149]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2998515
+[150]: http://www.legislation.govt.nz/act/public/1995/0027/latest/link.aspx?id=DLM2998532
+[151]: http://www.pco.parliament.govt.nz/editorial-conventions/
