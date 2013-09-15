@@ -1,7 +1,7 @@
 Reprint  
-as at 22 October 2004
+as at 1 July 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Mercenary Activities (Prohibition) Act 2004Public Act2004 No 69
 
@@ -23,76 +23,76 @@ This Act is administered by the Ministry of Foreign Affairs and Trade.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
 [Part 1][2]  
 [Preliminary provisions][2]
 
-[2][3] [Commencement][3]
+[2][3][][3][Commencement][3]
 
-[3][4] [Purpose][4]
+[3][4][][4][Purpose][4]
 
-[4][5] [Interpretation][5]
+[4][5][][5][Interpretation][5]
 
-[5][6] [Mercenary defined][6]
+[5][6][][6][Mercenary defined][6]
 
-[6][7] [Act binds the Crown][7]
+[6][7][][7][Act binds the Crown][7]
 
 [Part 2][8]  
 [Mercenary activities][8]
 
 [Recruiting, using, financing, and training of mercenary][9]
 
-[7][10] [Recruiting person to be mercenary][10]
+[7][10][][10][Recruiting person to be mercenary][10]
 
-[8][11] [Using mercenary][11]
+[8][11][][11][Using mercenary][11]
 
-[9][12] [Financing mercenary][12]
+[9][12][][12][Financing mercenary][12]
 
-[10][13] [Training prospective mercenary][13]
+[10][13][][13][Training prospective mercenary][13]
 
-[11][14] [Training mercenary][14]
+[11][14][][14][Training mercenary][14]
 
 [Mercenary taking part in hostilities or concerted act of violence][15]
 
-[12][16] [Mercenary taking part in hostilities or concerted act of violence][16]
+[12][16][][16][Mercenary taking part in hostilities or concerted act of violence][16]
 
 [Extraterritorial jurisdiction][17]
 
-[13][18] [Extraterritorial jurisdiction][18]
+[13][18][][18][Extraterritorial jurisdiction][18]
 
 [Part 3][19]  
 [Miscellaneous provisions][19]
 
 [Evidence that States are, or are not, Parties to Mercenaries Convention][20]
 
-[14][21] [Certificate as to States Parties under Mercenaries Convention][21]
+[14][21][][21][Certificate as to States Parties under Mercenaries Convention][21]
 
 [Investigation and prosecution of offences against Act or referred to in Mercenaries Convention][22]
 
-[15][23] [Application of sections 16 and 17][23]
+[15][23][][23][Application of sections 16 and 17][23]
 
-[16][24] [Attorney-General to notify relevant States Parties of measures taken to ensure person's presence][24]
+[16][24][][24][Attorney-General to notify relevant States Parties of measures taken to ensure person's presence][24]
 
-[17][25] [Attorney-General to indicate to relevant States Parties whether New Zealand to exercise jurisdiction][25]
+[17][25][][25][Attorney-General to indicate to relevant States Parties whether New Zealand to exercise jurisdiction][25]
 
-[18][26] [Rights of certain persons taken into custody to communicate with representative of State][26]
+[18][26][][26][Rights of certain persons taken into custody to communicate with representative of State][26]
 
-[19][27] [Attorney-General's consent to prosecutions required][27]
+[19][27][][27][Attorney-General's consent to prosecutions required][27]
 
-[20][28] [Attorney-General to communicate outcome of prosecution][28]
+[20][28][][28][Attorney-General to communicate outcome of prosecution][28]
 
 [Extradition][29]
 
-[21][30] [Offences deemed to be included in extradition treaties][30]
+[21][30][][30][Offences deemed to be included in extradition treaties][30]
 
 [Amendment to Extradition Act 1999][31]
 
-[22][32] [Amendment to Extradition Act 1999][32]
+[22][32][][32][Amendment to Extradition Act 1999][32]
 
 [Amendment to Mutual Assistance in Criminal Matters Act 1992][33]
 
-[23][34] [Schedule of Mutual Assistance in Criminal Matters Act 1992 amended to refer to Mercenaries Convention][34]
+[23][34][][34][Schedule of Mutual Assistance in Criminal Matters Act 1992 amended to refer to Mercenaries Convention][34]
 
 [Schedule][35]  
 [International Convention against the Recruitment, Use, Financing and Training of Mercenaries][35]
@@ -215,7 +215,7 @@ Mercenary activities
 
 ##### 7 Recruiting person to be mercenary
     
-*   (1) Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 14 years, who recruits, within New Zealand or elsewhere, a person for the purpose of taking part in hostilities in an armed conflict---
+*   (1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who recruits, within New Zealand or elsewhere, a person for the purpose of taking part in hostilities in an armed conflict---
         
     *   (a) with the intention that the person being recruited make private gain from taking part in hostilities in the armed conflict; and
     
@@ -229,7 +229,7 @@ Mercenary activities
     
     *   (c) will be sent by a State that is not a party to the armed conflict on official duty as a member of its armed forces.
     
-    (3) Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 14 years, who recruits, within New Zealand or elsewhere, a person for the purpose of taking part in a concerted act of violence---
+    (3) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who recruits, within New Zealand or elsewhere, a person for the purpose of taking part in a concerted act of violence---
         
     *   (a) with the intention that the person being recruited make significant private gain from taking part in the concerted act of violence; and
     
@@ -243,21 +243,23 @@ Mercenary activities
     
     *   (c) is, or once recruited will be, a member of the armed forces of the State on whose territory the concerted act of violence is undertaken.
     
+    Section 7(1): amended, on 1 July 2013, by [section 413][36] of the Criminal Procedure Act 2011 (2011 No 81).
     
+    Section 7(3): amended, on 1 July 2013, by [section 413][36] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 8 Using mercenary
     
-*   Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 14 years, who,---
+*   Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who,---
         
     *   (a) knowing that a person is a mercenary of the kind described in [section 5(1)(a)][6], uses that person to take part in hostilities in an armed conflict; or
     
     *   (b) knowing that a person is a mercenary of the kind described in [section 5(1)(b)][6], uses that person to take part in a concerted act of violence.
     
-    
+    Section 8: amended, on 1 July 2013, by [section 413][36] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 9 Financing mercenary
     
-*   (1) Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 14 years, who, without lawful justification or reasonable excuse, provides funds intending that those funds be used, or knowing that they are to be used, in full or in part,---
+*   (1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who, without lawful justification or reasonable excuse, provides funds intending that those funds be used, or knowing that they are to be used, in full or in part,---
         
     *   (a) to enable a person who is a mercenary of the kind described in [section 5(1)(a)][6] to take part in hostilities in an armed conflict; or
     
@@ -270,40 +272,48 @@ Mercenary activities
     *   (b) includes legal documents or instruments (for example, bank credits, travellers' cheques, bank cheques, money orders, shares, securities, bonds, drafts, and letters of credit) in any form (for example, in electronic or digital form) evidencing title to, or an interest in, assets of any kind.
     
     (3) In a prosecution for financing a mercenary, it is not necessary for the prosecutor to prove that the funds provided were actually used, in full or in part, to enable a mercenary to take part in hostilities in an armed conflict or take part in a concerted act of violence.
+    
+    Section 9(1): amended, on 1 July 2013, by [section 413][36] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 10 Training prospective mercenary
     
-*   (1) Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 14 years, who trains a person to take part in hostilities in an armed conflict---
+*   (1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who trains a person to take part in hostilities in an armed conflict---
         
     *   (a) with the intention that the person being trained be recruited as a mercenary of the kind described in [section 5(1)(a)][6] once the person has completed the training; or
     
     *   (b) knowing that the person being trained is likely to be recruited as a mercenary of the kind described in [section 5(1)(a)][6] once the person has completed the training.
     
-    (2) Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 14 years, who trains a person to take part in a concerted act of violence---
+    (2) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who trains a person to take part in a concerted act of violence---
         
     *   (a) with the intention that the person being trained be recruited as a mercenary of the kind described in [section 5(1)(b)][6] once the person has completed the training; or
     
     *   (b) knowing that the person being trained is likely to be recruited as a mercenary of the kind described in [section 5(1)(b)][6] once the person has completed the training.
     
+    Section 10(1): amended, on 1 July 2013, by [section 413][36] of the Criminal Procedure Act 2011 (2011 No 81).
     
+    Section 10(2): amended, on 1 July 2013, by [section 413][36] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 11 Training mercenary
     
-*   Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 14 years, who,---
+*   Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who,---
         
     *   (a) knowing that a person is a mercenary of the kind described in [section 5(1)(a)][6], trains that person to take part in hostilities in an armed conflict; or
     
     *   (b) knowing that a person is a mercenary of the kind described in [section 5(1)(b)][6], trains that person to take part in a concerted act of violence.
     
-    
+    Section 11: amended, on 1 July 2013, by [section 413][36] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Mercenary taking part in hostilities or concerted act of violence
 
 ##### 12 Mercenary taking part in hostilities or concerted act of violence
     
-*   (1) Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 14 years, who, being a mercenary of the kind described in [section 5(1)(a)][6], intentionally takes part directly in hostilities in an armed conflict.
+*   (1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who, being a mercenary of the kind described in [section 5(1)(a)][6], intentionally takes part directly in hostilities in an armed conflict.
     
-    (2) Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 14 years, who, being a mercenary of the kind described in [section 5(1)(b)][6], intentionally takes part directly in a concerted act of violence.
+    (2) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 14 years, who, being a mercenary of the kind described in [section 5(1)(b)][6], intentionally takes part directly in a concerted act of violence.
+    
+    Section 12(1): amended, on 1 July 2013, by [section 413][36] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 12(2): amended, on 1 July 2013, by [section 413][36] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Extraterritorial jurisdiction
 
@@ -325,11 +335,11 @@ Mercenary activities
     
     *   (b) if any of the acts or omissions is alleged to have occurred on board---
             
-        *   (i) a ship registered, or required to be registered, under the [Ship Registration Act 1992][36]; or
+        *   (i) a ship registered, or required to be registered, under the [Ship Registration Act 1992][37]; or
         
         *   (ii) a ship used as a ship of the New Zealand Defence Force; or
         
-        *   (iii) an aircraft registered, or required to be registered, in New Zealand under the [Civil Aviation Act 1990][37]; or
+        *   (iii) an aircraft registered, or required to be registered, in New Zealand under the [Civil Aviation Act 1990][38]; or
         
         *   (iv) an aircraft for the time being used as an aircraft of the New Zealand Defence Force; or
         
@@ -347,15 +357,15 @@ Mercenary activities
     
     (2) The following sections do not apply in respect of an offence under any of [sections 7 to 12][10]:
         
-    *   (a) [section 8][38] of the Crimes Act 1961 (which relates to jurisdiction in respect of crimes on ships or aircraft beyond New Zealand):
+    *   (a) [section 8][39] of the Crimes Act 1961 (which relates to jurisdiction in respect of crimes on ships or aircraft beyond New Zealand):
     
-    *   (b) [section 400][39] of the Crimes Act 1961 (which requires the consent of the Attorney-General to proceedings in certain cases for offences on ships or aircraft).
+    *   (b) [section 400][40] of the Crimes Act 1961 (which requires the consent of the Attorney-General to proceedings in certain cases for offences on ships or aircraft).
     
     (3) Nothing in this section limits the application of any of [sections 7 to 12][10] in respect of---
         
     *   (a) acts or omissions that occurred wholly in New Zealand; or
     
-    *   (b) the application of [section 7][40] of the Crimes Act 1961 to the occurrence in New Zealand of---
+    *   (b) the application of [section 7][41] of the Crimes Act 1961 to the occurrence in New Zealand of---
             
         *   (i) an act or omission forming part of an offence; or
         
@@ -363,7 +373,7 @@ Mercenary activities
         
         
     
-    *   (c) the application of [section 8A][41] of the Crimes Act 1961\.
+    *   (c) the application of [section 8A][42] of the Crimes Act 1961\.
     
     
 
@@ -380,7 +390,7 @@ Miscellaneous provisions
 
 ##### 15 Application of sections 16 and 17
     
-*   (1) [Sections 16][24] and [17][25] apply whenever the Attorney-General receives information that there may be present in New Zealand a person who has committed, or is alleged to have committed, an offence against [article 2][42], [article 3][43], or [article 4][44] of the Mercenaries Convention.
+*   (1) [Sections 16][24] and [17][25] apply whenever the Attorney-General receives information that there may be present in New Zealand a person who has committed, or is alleged to have committed, an offence against [article 2][43], [article 3][44], or [article 4][45] of the Mercenaries Convention.
     
     (2) In [sections 16][24] and [17][25], _relevant States Parties_ means any---
         
@@ -388,7 +398,7 @@ Miscellaneous provisions
     
     *   (b) State Party in relation to which the offence was directed or attempted; and
     
-    *   (c) State Party in relation to which any person against whom the offence was directed or attempted is a person of the kind referred to in [article 10(2)(c)][45] of the Mercenaries Convention; and
+    *   (c) State Party in relation to which any person against whom the offence was directed or attempted is a person of the kind referred to in [article 10(2)(c)][46] of the Mercenaries Convention; and
     
     *   (d) State Party---
             
@@ -408,13 +418,13 @@ Miscellaneous provisions
         
     *   (a) a person is taken into custody in accordance with New Zealand law; or
     
-    *   (b) other measures are taken under New Zealand law to ensure a person's presence for the purposes of the institution of criminal or extradition proceedings (being the measures contemplated by [article 10(1)][45] of the Mercenaries Convention).
+    *   (b) other measures are taken under New Zealand law to ensure a person's presence for the purposes of the institution of criminal or extradition proceedings (being the measures contemplated by [article 10(1)][46] of the Mercenaries Convention).
     
     
 
 ##### 17 Attorney-General to indicate to relevant States Parties whether New Zealand to exercise jurisdiction
     
-*   When a preliminary inquiry has been undertaken under New Zealand law of the facts contained in the information (being a preliminary inquiry contemplated by [article 10(1)][45] of the Mercenaries Convention), the Attorney-General must promptly---
+*   When a preliminary inquiry has been undertaken under New Zealand law of the facts contained in the information (being a preliminary inquiry contemplated by [article 10(1)][46] of the Mercenaries Convention), the Attorney-General must promptly---
         
     *   (a) report the findings of the inquiry to the relevant States Parties; and
     
@@ -460,9 +470,9 @@ Miscellaneous provisions
 
 ##### 21 Offences deemed to be included in extradition treaties
     
-*   (1) For the purposes of the [Extradition Act 1999][46] and any Order in Council in force under [section 15][47] or [section 104][48] of that Act, any offence under any of [sections 7 to 12][10] is, if not already described in the treaty, deemed to be an offence described in any extradition treaty concluded before the relevant date and for the time being in force between New Zealand and any country that is a party to the Mercenaries Convention.
+*   (1) For the purposes of the [Extradition Act 1999][47] and any Order in Council in force under [section 15][48] or [section 104][49] of that Act, any offence under any of [sections 7 to 12][10] is, if not already described in the treaty, deemed to be an offence described in any extradition treaty concluded before the relevant date and for the time being in force between New Zealand and any country that is a party to the Mercenaries Convention.
     
-    (2) If, under subsection (1), an offence is deemed to be an offence described in an extradition treaty, no person may be surrendered for the offence in accordance with the [Extradition Act 1999][46] if the conduct alleged to constitute the offence occurred before the relevant date.
+    (2) If, under subsection (1), an offence is deemed to be an offence described in an extradition treaty, no person may be surrendered for the offence in accordance with the [Extradition Act 1999][47] if the conduct alleged to constitute the offence occurred before the relevant date.
     
     (3) In this section, _relevant date_ means, in relation to an offence under this Act, the date on which this section comes into force.
 
@@ -470,13 +480,13 @@ Miscellaneous provisions
 
 ##### 22 Amendment to Extradition Act 1999
     
-*   _Amendment(s) incorporated in the [Act(s)][49]_.
+*   _Amendment(s) incorporated in the [Act(s)][50]_.
 
 #### Amendment to Mutual Assistance in Criminal Matters Act 1992
 
 ##### 23 Schedule of Mutual Assistance in Criminal Matters Act 1992 amended to refer to Mercenaries Convention
     
-*   _Amendment(s) incorporated in the [Act(s)][50]_.
+*   _Amendment(s) incorporated in the [Act(s)][51]_.
 
 ---
 
@@ -543,13 +553,13 @@ For the purposes of the present Convention,
 
 #### _Article 2_
 
-Any person who recruits, uses, finances or trains mercenaries, as defined in [article 1][51] of the present Convention, commits an offence for the purposes of the Convention.
+Any person who recruits, uses, finances or trains mercenaries, as defined in [article 1][52] of the present Convention, commits an offence for the purposes of the Convention.
 
 #### _Article 3_
     
-*   1\. A mercenary, as defined in [article 1][51] of the present Convention, who participates directly in hostilities or in a concerted act of violence, as the case may be, commits an offence for the purposes of the Convention.
+*   1\. A mercenary, as defined in [article 1][52] of the present Convention, who participates directly in hostilities or in a concerted act of violence, as the case may be, commits an offence for the purposes of the Convention.
 
-*   2\. Nothing in this article limits the scope of application of [article 4][44] of the present Convention.
+*   2\. Nothing in this article limits the scope of application of [article 4][45] of the present Convention.
 
 #### _Article 4_
 
@@ -593,7 +603,7 @@ Any State Party having reason to believe that one of the offences set forth in t
     
     
 
-*   2\. Each State Party shall likewise take such measures as may be necessary to establish its jurisdiction over the offences set forth in [articles 2][42], [3][43] and [4][44] of the present Convention in cases where the alleged offender is present in its territory and it does not extradite him to any of the States mentioned in paragraph 1 of this article.
+*   2\. Each State Party shall likewise take such measures as may be necessary to establish its jurisdiction over the offences set forth in [articles 2][43], [3][44] and [4][45] of the present Convention in cases where the alleged offender is present in its territory and it does not extradite him to any of the States mentioned in paragraph 1 of this article.
 
 *   3\. The present Convention does not exclude any criminal jurisdiction exercised in accordance with national law.
 
@@ -623,7 +633,7 @@ Any State Party having reason to believe that one of the offences set forth in t
     
     
 
-*   4\. The provisions of paragraph 3 of this article shall be without prejudice to the right of any State Party having a claim to jurisdiction in accordance with [article 9][52], paragraph 1(b) to invite the International Committee of the Red Cross to communicate with and visit the alleged offender.
+*   4\. The provisions of paragraph 3 of this article shall be without prejudice to the right of any State Party having a claim to jurisdiction in accordance with [article 9][53], paragraph 1(b) to invite the International Committee of the Red Cross to communicate with and visit the alleged offender.
 
 *   5\. The State which makes the preliminary inquiry contemplated in paragraph 1 of this article shall promptly report its findings to the States referred to in paragraph 2 of this article and indicate whether it intends to exercise jurisdiction.
 
@@ -647,13 +657,13 @@ The State Party where the alleged offender is prosecuted shall in accordance wit
 
 #### _Article 15_
     
-*   1\. The offences set forth in [articles 2][42], [3][43] and [4][44] of the present Convention shall be deemed to be included as extraditable offences in any extradition treaty existing between States Parties. States Parties undertake to include such offences as extraditable offences in every extradition treaty to be concluded between them.
+*   1\. The offences set forth in [articles 2][43], [3][44] and [4][45] of the present Convention shall be deemed to be included as extraditable offences in any extradition treaty existing between States Parties. States Parties undertake to include such offences as extraditable offences in every extradition treaty to be concluded between them.
 
 *   2\. If a State Party which makes extradition conditional on the existence of a treaty receives a request for extradition from another State Party with which it has no extradition treaty, it may at its option consider the present Convention as the legal basis for extradition in respect of those offences. Extradition shall be subject to the other conditions provided by the law of the requested State.
 
 *   3\. States Parties which do not make extradition conditional on the existence of a treaty shall recognize those offences as extraditable offences between themselves, subject to the conditions provided by the law of the requested State.
 
-*   4\. The offences shall be treated, for the purpose of extradition between States Parties, as if they had been committed not only in the place in which they occurred but also in the territories of the States required to establish their jurisdiction in accordance with [article 9][52] of the present Convention.
+*   4\. The offences shall be treated, for the purpose of extradition between States Parties, as if they had been committed not only in the place in which they occurred but also in the territories of the States required to establish their jurisdiction in accordance with [article 9][53] of the present Convention.
 
 #### _Article 16_
 
@@ -713,13 +723,13 @@ IN WITNESS WHEREOF the undersigned, being duly authorized thereto by their respe
 
 ###### 1 General
     
-*   This is a reprint of the Mercenary Activities (Prohibition) Act 2004\. The reprint incorporates all the amendments to the Act as at 22 October 2004, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Mercenary Activities (Prohibition) Act 2004\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][53] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][54] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][54] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][55] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
@@ -729,11 +739,11 @@ IN WITNESS WHEREOF the undersigned, being duly authorized thereto by their respe
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][54] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][55] and [17E][56] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][55] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][56] and [17E][57] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][54] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][55] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][54] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
+    In outline, the editorial changes made in reprints under the authority of [section 17C][55] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
         
     *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
     *   •typeface and type size (Times Roman, generally in 11.5 point)
@@ -760,7 +770,9 @@ IN WITNESS WHEREOF the undersigned, being duly authorized thereto by their respe
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Mercenary Activities (Prohibition) Act Commencement Order 2004 (SR 2004/270): clause 2
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][36]
+    
+    Mercenary Activities (Prohibition) Act Commencement Order 2004 (SR 2004/270): clause 2
 
 
 
@@ -800,24 +812,25 @@ IN WITNESS WHEREOF the undersigned, being duly authorized thereto by their respe
 [33]: http://www.legislation.govt.nz/act/public/2004/0069/latest/whole.html#DLM304872
 [34]: http://www.legislation.govt.nz/act/public/2004/0069/latest/whole.html#DLM304873
 [35]: http://www.legislation.govt.nz/act/public/2004/0069/latest/whole.html#DLM304875
-[36]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM275026
-[37]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM214686
-[38]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM328038
-[39]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM332165
-[40]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM328024
-[41]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM328042
-[42]: http://www.legislation.govt.nz/act/public/2004/0069/latest/whole.html#DLM1847408
-[43]: http://www.legislation.govt.nz/act/public/2004/0069/latest/whole.html#DLM1847409
-[44]: http://www.legislation.govt.nz/act/public/2004/0069/latest/whole.html#DLM1847410
-[45]: http://www.legislation.govt.nz/act/public/2004/0069/latest/whole.html#DLM1847416
-[46]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM25627
-[47]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM26205
-[48]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM27321
-[49]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM27300
-[50]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM275002
-[51]: http://www.legislation.govt.nz/act/public/2004/0069/latest/whole.html#DLM1847407
-[52]: http://www.legislation.govt.nz/act/public/2004/0069/latest/whole.html#DLM1847415
-[53]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM195439
-[54]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM195466
-[55]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM195468
-[56]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM195470
+[36]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM3360714
+[37]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM275026
+[38]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM214686
+[39]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM328038
+[40]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM332165
+[41]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM328024
+[42]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM328042
+[43]: http://www.legislation.govt.nz/act/public/2004/0069/latest/whole.html#DLM1847408
+[44]: http://www.legislation.govt.nz/act/public/2004/0069/latest/whole.html#DLM1847409
+[45]: http://www.legislation.govt.nz/act/public/2004/0069/latest/whole.html#DLM1847410
+[46]: http://www.legislation.govt.nz/act/public/2004/0069/latest/whole.html#DLM1847416
+[47]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM25627
+[48]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM26205
+[49]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM27321
+[50]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM27300
+[51]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM275002
+[52]: http://www.legislation.govt.nz/act/public/2004/0069/latest/whole.html#DLM1847407
+[53]: http://www.legislation.govt.nz/act/public/2004/0069/latest/whole.html#DLM1847415
+[54]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM195439
+[55]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM195466
+[56]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM195468
+[57]: http://www.legislation.govt.nz/act/public/2004/0069/latest/link.aspx?id=DLM195470
