@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -117,17 +117,15 @@ An Act to give effect to the provisions of the Hague Convention for the Suppress
     
     _commander_, in relation to an aircraft, means the pilot for the time being in lawful command of the aircraft
     
-    _conviction on indictment_ has the same meaning as in [section 3][52] of the Crimes Act 1961
-    
     _international airport_ means any airport designated as an airport of entry and departure for international air traffic where the formalities incident to customs, immigration, public health, animal and plant quarantine, and similar procedures are carried out
     
     _military service_ includes naval and air force service; and a certificate by the Minister of Foreign Affairs that any aircraft is or is not used in military service for the purposes of this Act shall be conclusive evidence of the fact certified
     
-    _New Zealand_ includes all waters within the outer limits of the territorial sea of New Zealand as defined by [section 3][53] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
+    _New Zealand_ includes all waters within the outer limits of the territorial sea of New Zealand as defined by [section 3][52] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
     
     _New Zealand aircraft_ means an aircraft that is registered or required to be registered in New Zealand under the [Civil Aviation Act 1990][50]
     
-    _ordinarily resident in New Zealand_ has the same meaning as in [section 4][54] of the Crimes Act 1961
+    _ordinarily resident in New Zealand_ has the same meaning as in [section 4][53] of the Crimes Act 1961
     
     _passenger_ means a person carried under a contract for carriage other than a person---
         
@@ -135,9 +133,9 @@ An Act to give effect to the provisions of the Hague Convention for the Suppress
     
     *   (b) carried for the sole purpose of receiving or giving instruction in the control or navigation of aircraft in flight
     
-    _security enhanced area_ has the same meaning as in [section 2][55] of the Civil Aviation Act 1990
+    _security enhanced area_ has the same meaning as in [section 2][54] of the Civil Aviation Act 1990
     
-    _sterile area_ has the same meaning as in [section 2][55] of the Civil Aviation Act 1990
+    _sterile area_ has the same meaning as in [section 2][54] of the Civil Aviation Act 1990
     
     _the Hague Convention_ means the Convention for the Suppression of Unlawful Seizure of Aircraft, done at the Hague on 16 December 1970
     
@@ -163,33 +161,35 @@ An Act to give effect to the provisions of the Hague Convention for the Suppress
     
     whichever is the latest.
     
-    Section 2(1) **act of violence**: inserted, on 1 September 1999, by [section 3][56] of the Aviation Crimes Amendment Act 1999 (1999 No 57).
+    Section 2(1) **act of violence**: inserted, on 1 September 1999, by [section 3][55] of the Aviation Crimes Amendment Act 1999 (1999 No 57).
     
-    Section 2(1) **aircraft**: amended, on 1 September 1990, pursuant to [section 101(1)][57] of the Civil Aviation Act 1990 (1990 No 98).
+    Section 2(1) **aircraft**: amended, on 1 September 1990, pursuant to [section 101(1)][56] of the Civil Aviation Act 1990 (1990 No 98).
     
     Section 2(1) **aviation security officer**: inserted, on 14 December 1976, by section 6(1) of the Civil Aviation Amendment Act 1976 (1976 No 153).
     
-    Section 2(1) **aviation security officer**: amended, on 1 September 1990, pursuant to [section 101(1)][57] of the Civil Aviation Act 1990 (1990 No 98).
+    Section 2(1) **aviation security officer**: amended, on 1 September 1990, pursuant to [section 101(1)][56] of the Civil Aviation Act 1990 (1990 No 98).
     
-    Section 2(1) **baggage**, **cargo**, **carrier**, **contract**, and **passenger**: repealed, on 1 June 2004, by [section 41(3)][58] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 2(1) **baggage**, **cargo**, **carrier**, **contract**, and **passenger**: repealed, on 1 June 2004, by [section 41(3)][57] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 2(1) **carrier and contract**: inserted, on 1 June 2004, by [section 41(3)][58] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 2(1) **carrier and contract**: inserted, on 1 June 2004, by [section 41(3)][57] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 2(1) **international airport**: inserted, on 1 September 1999, by [section 3][56] of the Aviation Crimes Amendment Act 1999 (1999 No 57).
+    Section 2(1) **conviction on indictment**: repealed, on 1 July 2013, by [section 413][58] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 2(1) **international airport**: inserted, on 1 September 1999, by [section 3][55] of the Aviation Crimes Amendment Act 1999 (1999 No 57).
     
     Section 2(1) **New Zealand**: amended, on 1 August 1996, pursuant to section 5(4) of the Territorial Sea and Exclusive Economic Zone Amendment Act 1996 (1996 No 74).
     
     Section 2(1) **New Zealand**: amended, on 1 October 1977, by [section 33(2)(a)][59] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977 (1977 No 28).
     
-    Section 2(1) **New Zealand aircraft**: amended, on 1 September 1990, pursuant to [section 101(1)][57] of the Civil Aviation Act 1990 (1990 No 98).
+    Section 2(1) **New Zealand aircraft**: amended, on 1 September 1990, pursuant to [section 101(1)][56] of the Civil Aviation Act 1990 (1990 No 98).
     
-    Section 2(1) **passenger**: inserted, on 1 June 2004, by [section 41(3)][58] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 2(1) **passenger**: inserted, on 1 June 2004, by [section 41(3)][57] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
     Section 2(1) **security enhanced area**: inserted, on 26 September 2007, by [section 4(2)][60] of the Aviation Crimes Amendment Act 2007 (2007 No 88).
     
     Section 2(1) **sterile area**: inserted, on 26 September 2007, by [section 4(3)][60] of the Aviation Crimes Amendment Act 2007 (2007 No 88).
     
-    Section 2(1) **the Montreal Protocol**: inserted, on 1 September 1999, by [section 3][56] of the Aviation Crimes Amendment Act 1999 (1999 No 57).
+    Section 2(1) **the Montreal Protocol**: inserted, on 1 September 1999, by [section 3][55] of the Aviation Crimes Amendment Act 1999 (1999 No 57).
 
 #### Crimes relating to aircraft and international airports
     
@@ -197,11 +197,13 @@ An Act to give effect to the provisions of the Hague Convention for the Suppress
 
 ##### 3 Hijacking
     
-*   Everyone commits the crime of hijacking and is liable on conviction on indictment to imprisonment for life, who, while on board an aircraft in flight, whether in or outside New Zealand, unlawfully, by force or by threat of force or by any form of intimidation, seizes or exercises control, or attempts to seize or exercise control, of that aircraft.
+*   Everyone commits the crime of hijacking and is liable on conviction to imprisonment for life, who, while on board an aircraft in flight, whether in or outside New Zealand, unlawfully, by force or by threat of force or by any form of intimidation, seizes or exercises control, or attempts to seize or exercise control, of that aircraft.
+    
+    Section 3: amended, on 1 July 2013, by [section 413][58] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 4 Crimes in connection with hijacking
     
-*   (1) Everyone who, while on board an aircraft in flight outside New Zealand, does or omits anything which, if done or omitted by that person in New Zealand, would be a crime, commits that crime if the act or omission occurred in connection with the crime of hijacking.
+*   (1) Everyone who, while on board an aircraft in flight outside New Zealand, does or omits anything which, if done or omitted by that person in New Zealand, would be an offence punishable by imprisonment for life or by 2 or more years' imprisonment, commits that offence if the act or omission occurred in connection with the crime of hijacking.
     
     (2) Without limiting the generality of subsection (1), an act or omission by any person shall be deemed to occur in connection with the crime of hijacking if it was done or omitted with intent---
         
@@ -211,11 +213,11 @@ An Act to give effect to the provisions of the Hague Convention for the Suppress
     
     *   (c) to avoid the arrest or facilitate the flight of himself or of any other person upon the commission of the crime of hijacking.
     
-    
+    Section 4(1): amended, on 1 July 2013, by [section 413][58] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 5 Other crimes relating to aircraft
     
-*   Everyone commits a crime, and is liable on conviction on indictment to imprisonment for a term not exceeding 14 years, who, whether in or outside New Zealand,---
+*   Everyone commits a crime, and is liable on conviction to imprisonment for a term not exceeding 14 years, who, whether in or outside New Zealand,---
         
     *   (a) on board an aircraft in flight, commits an act of violence which is likely to endanger the safety of the aircraft; or
     
@@ -228,6 +230,8 @@ An Act to give effect to the provisions of the Hague Convention for the Suppress
     *   (e) destroys, damages, or interferes with the operation of any air-navigation facility used in international air navigation, where the destruction, damage, or interference is likely to endanger the safety of an aircraft in flight; or
     
     *   (f) endangers the safety of an aircraft in flight by communicating to any other person any information which the person supplying the information knows to be false.
+    
+    Section 5: amended, on 1 July 2013, by [section 413][58] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 5(a): amended, on 1 September 1999, by [section 5][62] of the Aviation Crimes Amendment Act 1999 (1999 No 57).
 
@@ -243,15 +247,21 @@ An Act to give effect to the provisions of the Hague Convention for the Suppress
     
     *   (d) disrupts the services of the international airport.
     
-    (2) Subject to subsection (3), a person who commits a crime against this section is liable on conviction on indictment to imprisonment for a term not exceeding 14 years.
+    (2) Subject to subsection (3), a person who commits a crime against this section is liable on conviction to imprisonment for a term not exceeding 14 years.
     
     (3) A person who commits a crime against subsection (1)(a),---
         
-    *   (a) in circumstances where the conduct concerned is the same as conduct described as murder under [sections 158][63], [160][64], [167][65], and [168][66] of the Crimes Act 1961, must on conviction on indictment be sentenced to imprisonment for life; and
+    *   (a) in circumstances where the conduct concerned is the same as conduct described as murder under [sections 158][63], [160][64], [167][65], and [168][66] of the Crimes Act 1961, must on conviction be sentenced to imprisonment for life; and
     
-    *   (b) in circumstances where the conduct concerned is the same as conduct described as manslaughter under [sections 158][63], [160][64], and [171][67] of the Crimes Act 1961, is liable on conviction on indictment to imprisonment for life.
+    *   (b) in circumstances where the conduct concerned is the same as conduct described as manslaughter under [sections 158][63], [160][64], and [171][67] of the Crimes Act 1961, is liable on conviction to imprisonment for life.
     
     Section 5A: inserted, on 1 September 1999, by [section 6][68] of the Aviation Crimes Amendment Act 1999 (1999 No 57).
+    
+    Section 5A(2): amended, on 1 July 2013, by [section 413][58] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 5A(3)(a): amended, on 1 July 2013, by [section 413][58] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 5A(3)(b): amended, on 1 July 2013, by [section 413][58] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 6 Extradition Act amended
     
@@ -379,7 +389,7 @@ An Act to give effect to the provisions of the Hague Convention for the Suppress
 
 ##### 11 Taking firearms, explosives, etc, on to aircraft or into sterile area or security enhanced area
     
-*   (1) Everyone commits a crime, and is liable on conviction on indictment to imprisonment for a term not exceeding 5 years, who, without lawful authority or reasonable excuse, or without the permission of the owner or operator of the aircraft or of a person duly authorised by either of them to give such permission, takes or attempts to take on board any aircraft---
+*   (1) Everyone commits a crime, and is liable on conviction to imprisonment for a term not exceeding 5 years, who, without lawful authority or reasonable excuse, or without the permission of the owner or operator of the aircraft or of a person duly authorised by either of them to give such permission, takes or attempts to take on board any aircraft---
         
     *   (a) any firearm; or
     
@@ -391,9 +401,9 @@ An Act to give effect to the provisions of the Hague Convention for the Suppress
     
     *   (e) an imitation of an item or substance specified in paragraphs (a) to (d).
     
-    (1A) Every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 5 years, who, without lawful authority or reasonable excuse, takes, or attempts to take, into a sterile area or a security enhanced area an item or substance specified in subsection (1).
+    (1A) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years, who, without lawful authority or reasonable excuse, takes, or attempts to take, into a sterile area or a security enhanced area an item or substance specified in subsection (1).
     
-    (1B) Every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 5 years, who---
+    (1B) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years, who---
         
     *   (a) has the intention of causing bodily injury or of doing any act that would constitute a crime under [section 3][5], [4][6], [5][7], or [5A][8]; and
     
@@ -411,13 +421,19 @@ An Act to give effect to the provisions of the Hague Convention for the Suppress
     
     Section 11 heading: amended, on 26 September 2007, by [section 5(1)][79] of the Aviation Crimes Amendment Act 2007 (2007 No 88).
     
+    Section 11(1): amended, on 1 July 2013, by [section 413][58] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 11(1)(d): amended, on 26 September 2007, by [section 5(2)][79] of the Aviation Crimes Amendment Act 2007 (2007 No 88).
     
     Section 11(1)(e): inserted, on 26 September 2007, by [section 5(2)][79] of the Aviation Crimes Amendment Act 2007 (2007 No 88).
     
     Section 11(1A): inserted, on 26 September 2007, by [section 5(3)][79] of the Aviation Crimes Amendment Act 2007 (2007 No 88).
     
+    Section 11(1A): amended, on 1 July 2013, by [section 413][58] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 11(1B): inserted, on 26 September 2007, by [section 5(3)][79] of the Aviation Crimes Amendment Act 2007 (2007 No 88).
+    
+    Section 11(1B): amended, on 1 July 2013, by [section 413][58] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 11(3): inserted, on 26 September 2007, by [section 5(4)][79] of the Aviation Crimes Amendment Act 2007 (2007 No 88).
 
@@ -583,9 +599,11 @@ An Act to give effect to the provisions of the Hague Convention for the Suppress
     
     (7) If the commander of an aircraft intends to deliver any person in accordance with subsection (5) in New Zealand or, in the case of a New Zealand aircraft, in any other country which is a party to the Tokyo Convention, he shall, before or as soon as practicable after landing, give notification of his intention and of the reasons for his intention to an appropriate authority in that country (being, in New Zealand, a member of the New Zealand Police).
     
-    (8) Any commander of an aircraft who without reasonable cause fails to comply with the requirements of subsection (6) or subsection (7) is liable on summary conviction to a fine not exceeding $400\.
+    (8) Any commander of an aircraft who without reasonable cause fails to comply with the requirements of subsection (6) or subsection (7) is liable on conviction to a fine not exceeding $400\.
     
     (9) A person who in good faith imposes reasonable measures, including restraint, on another person in accordance with the provisions of this section is not guilty of an offence and is not liable to any civil proceeding in respect of those measures.
+    
+    Section 15(8): amended, on 1 July 2013, by [section 413][58] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 16 Arrest of persons delivered to Police
     
@@ -625,76 +643,6 @@ An Act to give effect to the provisions of the Hague Convention for the Suppress
 
 ---
 
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][99].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][100] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
-
----
-
 #### Contents
     
 *   1General
@@ -709,23 +657,23 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Aviation Crimes Act 1972\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Aviation Crimes Act 1972\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][101] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][99] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][102] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][100] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][103] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][101] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][104] and [17E][105] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][102] and [17E][103] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -758,21 +706,23 @@ Amendments, repeals, and miscellaneous provisions
     
 *   Search and Surveillance Act 2012 (2012 No 24): [section 202][84]
     
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][58]
+    
     Immigration Act 2009 (2009 No 51): [section 406(1)][98]
     
-    [Aviation Crimes Amendment Act 2007][106] (2007 No 88)
+    [Aviation Crimes Amendment Act 2007][104] (2007 No 88)
     
-    Civil Aviation Amendment Act 2004 (2004 No 8): [section 41(3)][58]
+    Civil Aviation Amendment Act 2004 (2004 No 8): [section 41(3)][57]
     
     Civil Aviation Amendment Act 2002 (2002 No 15): [section 43][93]
     
-    [Aviation Crimes Amendment Act 1999][107] (1999 No 57)
+    [Aviation Crimes Amendment Act 1999][105] (1999 No 57)
     
     Extradition Act 1999 (1999 No 55): [section 111][73]
     
     Territorial Sea and Exclusive Economic Zone Amendment Act 1996 (1996 No 74): section 5(4)
     
-    Civil Aviation Act 1990 (1990 No 98): [section 101(1)][57]
+    Civil Aviation Act 1990 (1990 No 98): [section 101(1)][56]
     
     Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977 (1977 No 28): [section 33(2)(a)][59]
     
@@ -838,13 +788,13 @@ Amendments, repeals, and miscellaneous provisions
 [49]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM329775
 [50]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM214686
 [51]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM218513
-[52]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM328016
-[53]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM442665
-[54]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM328020
-[55]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM214692
-[56]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM28264
-[57]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM218728
-[58]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM240092
+[52]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM442665
+[53]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM328020
+[54]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM214692
+[55]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM28264
+[56]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM218728
+[57]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM240092
+[58]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM3360714
 [59]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM442752
 [60]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM968767
 [61]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM28265
@@ -885,12 +835,10 @@ Amendments, repeals, and miscellaneous provisions
 [96]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM1440300
 [97]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM327381
 [98]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM1441347
-[99]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM2136500
-[100]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM4686448
-[101]: http://www.pco.parliament.govt.nz/reprints/
-[102]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM195439
-[103]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[104]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM195468
-[105]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM195470
-[106]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM968760
-[107]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM28261
+[99]: http://www.pco.parliament.govt.nz/reprints/
+[100]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM195439
+[101]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[102]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM195468
+[103]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM195470
+[104]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM968760
+[105]: http://www.legislation.govt.nz/act/public/1972/0137/latest/link.aspx?id=DLM28261
