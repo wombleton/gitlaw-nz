@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 1980
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -153,15 +153,15 @@ An Act to effect an exchange of certain lands between the Corporation of the Bor
     
     *   (g) requiring the deposit with the Council of a prescribed sum of money by way of security for compliance by the licensee with the terms and conditions of the licence, and for the forfeiture of such deposit upon breach of such terms and conditions.
     
-    (2) Any person to whom a licence has been refused or whose licence is revoked, or whose deposit is forfeited, may, within 14 days from the date of the giving of the decision with which he feels aggrieved, by complaint under the [Summary Proceedings Act 1957][19] (the provisions whereof shall, with the necessary modifications, apply), appeal to a District Court Judge for redress.
+    (2) Any person to whom a licence has been refused or whose licence is revoked, or whose deposit is forfeited, may, within 14 days from the date of the giving of the decision with which he feels aggrieved, appeal to a District Court Judge for redress.
     
     (3) On the hearing of the proceedings the District Court Judge shall have power to confirm, reverse, or modify the decision appealed against, and such determination shall be final and conclusive.
     
     (4) The District Court Judge shall have power to award to either of the parties the costs of and incidental to any such proceedings.
     
-    Section 9(2): amended, on 1 April 1980, pursuant to [section 18(2)][20] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 9(2): amended, on 1 July 2013, by [section 413][19] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 9(2): amended, on 1 April 1958, pursuant to [section 214(1)][21] of the Summary Proceedings Act 1957 (1957 No 87).
+    Section 9(2): amended, on 1 April 1980, pursuant to [section 18(2)][20] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 9(3): amended, on 1 April 1980, pursuant to [section 18(2)][20] of the District Courts Amendment Act 1979 (1979 No 125).
     
@@ -173,15 +173,17 @@ An Act to effect an exchange of certain lands between the Corporation of the Bor
 
 ##### 11 Offences and penalties
     
-*   (1) Every person who commits a breach of any bylaw made under the authority of this Act or who, being the holder of a licence issued under the authority of any such bylaw, commits a breach of any condition contained in such licence, may be removed from any premises to which such bylaw relates by any member, officer, agent, or servant of the Council, or by any constable, and is liable on summary conviction to a fine of $40\.
+*   (1) Every person who commits a breach of any bylaw made under the authority of this Act or who, being the holder of a licence issued under the authority of any such bylaw, commits a breach of any condition contained in such licence, may be removed from any premises to which such bylaw relates by any member, officer, agent, or servant of the Council, or by any constable, and is liable on conviction to a fine of $40\.
     
-    (2) Every person commits an offence and is liable on summary conviction to a fine of $40 who, in relation to any licence granted under bylaws made under this Act, or in relation to an application for or in respect of any such licence, does any of the following things, namely:
+    (2) Every person commits an offence and is liable on conviction to a fine of $40 who, in relation to any licence granted under bylaws made under this Act, or in relation to an application for or in respect of any such licence, does any of the following things, namely:
         
     *   (a) gives a false name or address of himself or any other person; or
     
     *   (b) makes any false representation as to the identity of himself or any other person.
     
+    Section 11(1): amended, on 1 July 2013, by [section 413][19] of the Criminal Procedure Act 2011 (2011 No 81).
     
+    Section 11(2): amended, on 1 July 2013, by [section 413][19] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 12 Powers of Council under other Acts not restricted
     
@@ -225,23 +227,23 @@ Secondly, all those pieces of land containing together one rood twelve decimal f
 
 ###### 1 General
     
-*   This is a reprint of the New Plymouth Borough Land Exchange and Empowering Act 1939\. The reprint incorporates all the amendments to the Act as at 1 April 1980, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the New Plymouth Borough Land Exchange and Empowering Act 1939\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][22] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][21] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][23] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][22] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][24] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][23] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][25] and [17E][26] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][24] and [17E][25] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -272,11 +274,11 @@ Secondly, all those pieces of land containing together one rood twelve decimal f
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][20]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][19]
+    
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][20]
     
     Reserves Act 1977 (1977 No 66): [section 125(1)][18]
-    
-    Summary Proceedings Act 1957 (1957 No 87): [section 214(1)][21]
     
     National Parks Act 1952 (1952 No 54): section 64(2)
 
@@ -301,11 +303,10 @@ Secondly, all those pieces of land containing together one rood twelve decimal f
 [16]: http://www.legislation.govt.nz/act/local/1939/0006/latest/whole.html#DLM50920
 [17]: http://www.legislation.govt.nz/act/local/1939/0006/latest/link.aspx?id=DLM444304
 [18]: http://www.legislation.govt.nz/act/local/1939/0006/latest/link.aspx?id=DLM445092
-[19]: http://www.legislation.govt.nz/act/local/1939/0006/latest/link.aspx?id=DLM310742
+[19]: http://www.legislation.govt.nz/act/local/1939/0006/latest/link.aspx?id=DLM3360714
 [20]: http://www.legislation.govt.nz/act/local/1939/0006/latest/link.aspx?id=DLM35085
-[21]: http://www.legislation.govt.nz/act/local/1939/0006/latest/link.aspx?id=DLM314306
-[22]: http://www.pco.parliament.govt.nz/reprints/
-[23]: http://www.legislation.govt.nz/act/local/1939/0006/latest/link.aspx?id=DLM195439
-[24]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[25]: http://www.legislation.govt.nz/act/local/1939/0006/latest/link.aspx?id=DLM195468
-[26]: http://www.legislation.govt.nz/act/local/1939/0006/latest/link.aspx?id=DLM195470
+[21]: http://www.pco.parliament.govt.nz/reprints/
+[22]: http://www.legislation.govt.nz/act/local/1939/0006/latest/link.aspx?id=DLM195439
+[23]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[24]: http://www.legislation.govt.nz/act/local/1939/0006/latest/link.aspx?id=DLM195468
+[25]: http://www.legislation.govt.nz/act/local/1939/0006/latest/link.aspx?id=DLM195470
