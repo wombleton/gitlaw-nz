@@ -1,5 +1,5 @@
 Reprint  
-as at 19 April 2011
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,7 +17,7 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Ministry of Economic Development.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -1078,33 +1078,41 @@ An Act to consolidate and amend certain enactments relating to designs
 
 ##### 42 Offences in respect of designs required to be kept secret
     
-*   (1) Every person who fails to comply with any direction given under [section 9][11], or who makes or causes to be made an application for the registration of a design in contravention of that section, commits an offence and shall be liable on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine not exceeding 500 pounds, or to both such imprisonment and such fine.
+*   (1) Every person who fails to comply with any direction given under [section 9][11], or who makes or causes to be made an application for the registration of a design in contravention of that section, commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $1,000, or to both such imprisonment and such fine.
     
     (2) Where an offence against [section 9][11] is committed by a body corporate, every person who at the time of the commission of the offence is a director, general manager, secretary, or other similar officer of the body corporate, or is purporting to act in any such capacity, shall be deemed to have committed that offence unless he proves that the offence was committed by the body corporate without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence by the body corporate as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances.
     
-    (3) \[Repealed\]
+    (3) Despite anything to the contrary in [section 25][100] of the Criminal Procedure Act 2011 a charging document may be filed at any time in respect of an offence under subsection (1).
     
     Compare: Registered Designs Act 1949 s 33 (UK)
     
-    Section 42(3): repealed, on 1 April 1958, by [section 214(1)][100] of the Summary Proceedings Act 1957 (1957 No 87).
+    Section 42(1): amended, on 1 July 2013, by [section 413][101] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 42(3): replaced, on 1 July 2013, by [section 413][101] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 43 Falsification of register, etc
     
-*   (1) Every person who makes or causes to be made a false entry in the register of designs, or a writing falsely purporting to be a copy of an entry in that register, or produces or tenders or causes to be produced or tendered in evidence any such writing, knowing the entry or writing to be false, commits an offence and shall be liable on conviction on indictment to imprisonment for a term not exceeding 2 years.
+*   (1) Every person who makes or causes to be made a false entry in the register of designs, or a writing falsely purporting to be a copy of an entry in that register, or produces or tenders or causes to be produced or tendered in evidence any such writing, knowing the entry or writing to be false, commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years.
     
-    (2) \[Repealed\]
+    (2) Despite anything to the contrary in [section 25][100] of the Criminal Procedure Act 2011 a charging document may be filed at any time in respect of an offence under subsection (1).
     
     Compare: 1921--22 No 18 s 143(1); Registered Designs Act 1949 s 34 (UK)
     
-    Section 43(2): repealed, on 1 April 1958, by [section 214(1)][100] of the Summary Proceedings Act 1957 (1957 No 87).
+    Section 43(1): amended, on 1 July 2013, by [section 413][101] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 43(2): replaced, on 1 July 2013, by [section 413][100] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 44 Fine for falsely representing a design as registered
     
-*   (1) Every person who falsely represents that a design applied to any article sold by him is registered in New Zealand in respect of that article commits an offence and shall be liable on summary conviction to a fine not exceeding 20 pounds; and for the purposes of this provision a person who sells an article having stamped, engraved, or impressed thereon or otherwise applied thereto the words ""registered in New Zealand"" or any other words expressing or implying that the design applied to the article is registered in New Zealand shall be deemed to represent that the design applied to the article is registered in respect of that article.
+*   (1) Every person who falsely represents that a design applied to any article sold by him is registered in New Zealand in respect of that article commits an offence and shall be liable on conviction to a fine not exceeding $40; and for the purposes of this provision a person who sells an article having stamped, engraved, or impressed thereon or otherwise applied thereto the words ""registered in New Zealand"" or any other words expressing or implying that the design applied to the article is registered in New Zealand shall be deemed to represent that the design applied to the article is registered in respect of that article.
     
-    (2) Every person who after the copyright in a registered design has expired, marks any article to which the design has been applied with the words ""registered in New Zealand"" or any word or words implying that there is subsisting copyright in the design in New Zealand or causes any such article to be so marked commits an offence and shall be liable on summary conviction to a fine not exceeding 20 pounds.
+    (2) Every person who after the copyright in a registered design has expired, marks any article to which the design has been applied with the words ""registered in New Zealand"" or any word or words implying that there is subsisting copyright in the design in New Zealand or causes any such article to be so marked commits an offence and shall be liable on conviction to a fine not exceeding $40\.
     
     Compare: 1921--22 No 18 s 143(3), (4); Registered Designs Act 1949 s 35 (UK)
+    
+    Section 44(1): amended, on 1 July 2013, by [section 413][101] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 44(2): amended, on 1 July 2013, by [section 413][101] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Supplemental
 
@@ -1164,13 +1172,13 @@ An Act to consolidate and amend certain enactments relating to designs
     
     Compare: 1921--22 No 18 s 138; Registered Designs Act 1949 s 36 (UK)
     
-    Section 46(2)(ca): inserted, on 20 April 2010, by [section 7][101] of the Designs Amendment Act 2010 (2010 No 15).
+    Section 46(2)(ca): inserted, on 20 April 2010, by [section 7][102] of the Designs Amendment Act 2010 (2010 No 15).
     
-    Section 46(2)(cb): inserted, on 20 April 2010, by [section 7][101] of the Designs Amendment Act 2010 (2010 No 15).
+    Section 46(2)(cb): inserted, on 20 April 2010, by [section 7][102] of the Designs Amendment Act 2010 (2010 No 15).
     
-    Section 46(2)(cc): inserted, on 20 April 2010, by [section 7][101] of the Designs Amendment Act 2010 (2010 No 15).
+    Section 46(2)(cc): inserted, on 20 April 2010, by [section 7][102] of the Designs Amendment Act 2010 (2010 No 15).
     
-    Section 46(3): repealed, on 19 December 1989, by [section 11][102] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 46(3): repealed, on 19 December 1989, by [section 11][103] of the Regulations (Disallowance) Act 1989 (1989 No 143).
 
 ##### 47 Fees
     
@@ -1180,9 +1188,9 @@ An Act to consolidate and amend certain enactments relating to designs
     
     Compare: 1921--22 No 18 s 117; Registered Designs Act 1949 s 40 (UK)
     
-    Section 47(1): amended (with effect on 1 July 1989), on 26 July 1989, by [section 86(1)][103] of the Public Finance Act 1989 (1989 No 44).
+    Section 47(1): amended (with effect on 1 July 1989), on 26 July 1989, by [section 86(1)][104] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 47(2): amended (with effect on 1 July 1989), on 26 July 1989, by [section 86(1)][103] of the Public Finance Act 1989 (1989 No 44).
+    Section 47(2): amended (with effect on 1 July 1989), on 26 July 1989, by [section 86(1)][104] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 48 Service of notices, etc, by post
     
@@ -1202,9 +1210,9 @@ An Act to consolidate and amend certain enactments relating to designs
     
 *   This Act shall be in force in Tokelau.
     
-    Section 50 heading: amended, on 9 December 1976, pursuant to [section 3(8)][104] of the Tokelau Amendment Act 1976 (1976 No 122).
+    Section 50 heading: amended, on 9 December 1976, pursuant to [section 3(8)][105] of the Tokelau Amendment Act 1976 (1976 No 122).
     
-    Section 50: amended, on 9 December 1976, pursuant to [section 3(8)][104] of the Tokelau Amendment Act 1976 (1976 No 122).
+    Section 50: amended, on 9 December 1976, pursuant to [section 3(8)][105] of the Tokelau Amendment Act 1976 (1976 No 122).
 
 ##### 51 Saving
     
@@ -1214,7 +1222,7 @@ An Act to consolidate and amend certain enactments relating to designs
 
 ##### 52 Repeals and savings
     
-*   (1) The enactments specified in the [Schedule][105] are hereby repealed.
+*   (1) The enactments specified in the [Schedule][106] are hereby repealed.
     
     (2) Without limiting the provisions of the Acts Interpretation Act 1924, it is hereby declared that the repeal of any provision by this Act shall not affect any document made or any thing whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done.
     
@@ -1269,23 +1277,23 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ###### 1 General
     
-*   This is a reprint of the Designs Act 1953\. The reprint incorporates all the amendments to the Act as at 19 April 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Designs Act 1953\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][106] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][107] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][107] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][108] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][108] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][109] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][109] and [17E][110] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][110] and [17E][111] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1316,19 +1324,21 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Designs Amendment Act 2010][111] (2010 No 15)
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][101]
+    
+    [Designs Amendment Act 2010][112] (2010 No 15)
     
     Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][88]
     
-    [Designs Amendment Act 1999][112] (1999 No 120)
+    [Designs Amendment Act 1999][113] (1999 No 120)
     
     Estate Duty Repeal Act 1999 (1999 No 64): [section 15(1)][97]
     
     Designs Amendment Act 1996 (1996 No 118)
     
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][102]
+    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][103]
     
-    Public Finance Act 1989 (1989 No 44): [section 86(1)][103]
+    Public Finance Act 1989 (1989 No 44): [section 86(1)][104]
     
     State Sector Act 1988 (1988 No 20): [section 90(a)][84]
     
@@ -1336,7 +1346,7 @@ _Amendment(s) incorporated in the Act(s)_.
     
     Judicature Amendment Act 1979 (1979 No 124): [section 12][82]
     
-    Tokelau Amendment Act 1976 (1976 No 122): [section 3(8)][104]
+    Tokelau Amendment Act 1976 (1976 No 122): [section 3(8)][105]
     
     Designs Amendment Act 1976 (1976 No 86)
     
@@ -1345,8 +1355,6 @@ _Amendment(s) incorporated in the Act(s)_.
     Administration Act 1969 (1969 No 52): [section 84(1)][98]
     
     Crimes Act 1961 (1961 No 43): [section 412(2)][94]
-    
-    Summary Proceedings Act 1957 (1957 No 87): [section 214(1)][100]
     
     [Designs Act Commencement Order 1954][79] (SR 1954/225)
 
@@ -1452,16 +1460,17 @@ _Amendment(s) incorporated in the Act(s)_.
 [97]: http://www.legislation.govt.nz/act/public/1953/0065/latest/link.aspx?id=DLM30504
 [98]: http://www.legislation.govt.nz/act/public/1953/0065/latest/link.aspx?id=DLM393346
 [99]: http://www.legislation.govt.nz/act/public/1953/0065/latest/link.aspx?id=DLM2852847
-[100]: http://www.legislation.govt.nz/act/public/1953/0065/latest/link.aspx?id=DLM314306
-[101]: http://www.legislation.govt.nz/act/public/1953/0065/latest/link.aspx?id=DLM2852860
-[102]: http://www.legislation.govt.nz/act/public/1953/0065/latest/link.aspx?id=DLM195558
-[103]: http://www.legislation.govt.nz/act/public/1953/0065/latest/link.aspx?id=DLM163175
-[104]: http://www.legislation.govt.nz/act/public/1953/0065/latest/link.aspx?id=DLM439964
-[105]: http://www.legislation.govt.nz/act/public/1953/0065/latest/whole.html#DLM282003
-[106]: http://www.pco.parliament.govt.nz/reprints/
-[107]: http://www.legislation.govt.nz/act/public/1953/0065/latest/link.aspx?id=DLM195439
-[108]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[109]: http://www.legislation.govt.nz/act/public/1953/0065/latest/link.aspx?id=DLM195468
-[110]: http://www.legislation.govt.nz/act/public/1953/0065/latest/link.aspx?id=DLM195470
-[111]: http://www.legislation.govt.nz/act/public/1953/0065/latest/link.aspx?id=DLM2852840
-[112]: http://www.legislation.govt.nz/act/public/1953/0065/latest/link.aspx?id=DLM44961
+[100]: http://www.legislation.govt.nz/act/public/1953/0065/latest/link.aspx?id=DLM3360067
+[101]: http://www.legislation.govt.nz/act/public/1953/0065/latest/link.aspx?id=DLM3360714
+[102]: http://www.legislation.govt.nz/act/public/1953/0065/latest/link.aspx?id=DLM2852860
+[103]: http://www.legislation.govt.nz/act/public/1953/0065/latest/link.aspx?id=DLM195558
+[104]: http://www.legislation.govt.nz/act/public/1953/0065/latest/link.aspx?id=DLM163175
+[105]: http://www.legislation.govt.nz/act/public/1953/0065/latest/link.aspx?id=DLM439964
+[106]: http://www.legislation.govt.nz/act/public/1953/0065/latest/whole.html#DLM282003
+[107]: http://www.pco.parliament.govt.nz/reprints/
+[108]: http://www.legislation.govt.nz/act/public/1953/0065/latest/link.aspx?id=DLM195439
+[109]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[110]: http://www.legislation.govt.nz/act/public/1953/0065/latest/link.aspx?id=DLM195468
+[111]: http://www.legislation.govt.nz/act/public/1953/0065/latest/link.aspx?id=DLM195470
+[112]: http://www.legislation.govt.nz/act/public/1953/0065/latest/link.aspx?id=DLM2852840
+[113]: http://www.legislation.govt.nz/act/public/1953/0065/latest/link.aspx?id=DLM44961
