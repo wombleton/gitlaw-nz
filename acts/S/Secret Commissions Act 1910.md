@@ -1,3 +1,6 @@
+Reprint  
+as at 1 July 2013
+
 # Secret Commissions Act 1910Public Act1910 No 40
 
 Date of assent3 December 1910
@@ -6,45 +9,49 @@ Date of assent3 December 1910
 
 ###### Note
 
-This Act is administered by the Ministry of Justice
+Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this eprint.
+
+A general outline of these changes is set out in the notes at the end of this eprint, together with other explanatory material about this eprint.
+
+This Act is administered by the Ministry of Justice.
 
 ---
 
 ## Contents
 
-[Title][0]
+[Title][1]
 
-[1][1] [Short Title and commencement][1]
+[1][2][][2][Short Title and commencement][2]
 
-[2][2] [Interpretation][2]
+[2][3][][3][Interpretation][3]
 
-[3][3] [Gifts to agent without consent of principal an offence][3]
+[3][4][][4][Gifts to agent without consent of principal an offence][4]
 
-[4][4] [Acceptance of such gifts by agent an offence][4]
+[4][5][][5][Acceptance of such gifts by agent an offence][5]
 
-[5][5] [Duty of agent to disclose pecuniary interest in contract][5]
+[5][6][][6][Duty of agent to disclose pecuniary interest in contract][6]
 
-[6][6] [Giving false receipt, invoice, etc, to agent an offence][6]
+[6][7][][7][Giving false receipt, invoice, etc, to agent an offence][7]
 
-[7][7] [Delivery of false receipt, etc, to principal an offence][7]
+[7][8][][8][Delivery of false receipt, etc, to principal an offence][8]
 
-[8][8] [Receiving secret reward for procuring contracts an offence][8]
+[8][9][][9][Receiving secret reward for procuring contracts an offence][9]
 
-[9][9] [Aiding and abetting offences][9]
+[9][10][][10][Aiding and abetting offences][10]
 
-[10][10] [Offences by persons acting on behalf of agents][10]
+[10][11][][11][Offences by persons acting on behalf of agents][11]
 
-[11][11] [Except as provided in this section, customary nature of gift to be no defence][11]
+[11][12][][12][Except as provided in this section, customary nature of gift to be no defence][12]
 
-[12][12] [Consent of Attorney-General necessary for prosecution][12]
+[12][13][][13][Consent of Attorney-General necessary for prosecution][13]
 
-[13][13] [Penalty on conviction][13]
+[13][14][][14][Penalty on conviction][14]
 
-[14][14] [Proceedings to be before District Court Judge only][14]
+[14][15][][15][Proceedings to be before District Court Judge only][15] \[Repealed\]
 
-[15][15] [Incriminating answers and discovery][15]
+[15][16][][16][Incriminating answers and discovery][16]
 
-[16][16] [Persons deemed to be agents within the meaning of this Act][16]
+[16][17][][17][Persons deemed to be agents within the meaning of this Act][17]
 
 ---
 
@@ -52,17 +59,17 @@ An Act for the prohibition of secret commissions
 
 ##### 1 Short Title and commencement
     
-*   This Act may be cited as the Secret Commissions Act 1910, and shall come into operation on the 1st day of January 1911\.
+*   This Act may be cited as the Secret Commissions Act 1910, and shall come into operation on 1 January 1911\.
 
 ##### 2 Interpretation
     
 *   In this Act, unless a contrary intention appears,---
     
-    _Agent_ includes any person who is or has been, or desires or intends to be, employed by or acting for any other person, whether as agent, servant, broker, auctioneer, architect, solicitor, director, or in any other capacity whatever, either alone or jointly with any other person
+    _agent_ includes any person who is or has been, or desires or intends to be, employed by or acting for any other person, whether as agent, servant, broker, auctioneer, architect, solicitor, director, or in any other capacity whatever, either alone or jointly with any other person
     
-    _Principal_ includes any person by whom an agent is or has been, or intends or desires to be, employed, or for whom an agent acts or has acted, or intends or desires to act
+    _principal_ includes any person by whom an agent is or has been, or intends or desires to be, employed, or for whom an agent acts or has acted, or intends or desires to act
     
-    _Consideration_ means valuable consideration of any kind; and particularly includes discounts, commissions, rebates, bonuses, deductions, percentages, employment, payment of money (whether by way of loan, gift, or otherwise howsoever), and forbearance to demand any money or valuable thing.
+    _consideration_ means valuable consideration of any kind; and particularly includes discounts, commissions, rebates, bonuses, deductions, percentages, employment, payment of money (whether by way of loan, gift, or otherwise howsoever), and forbearance to demand any money or valuable thing.
 
 ##### 3 Gifts to agent without consent of principal an offence
     
@@ -70,7 +77,7 @@ An Act for the prohibition of secret commissions
     
     (2) Any gift or other consideration given or offered or agreed to be given to any parent, husband, wife, civil union partner, de facto partner, or child of any agent, or to his partner, clerk, or servant, or (at the agent's request or suggestion) to any other person, shall be deemed for the purposes of this section to have been given or offered or agreed to be given to the agent.
     
-    Subsection (2) was amended, as from 26 April 2005, by section [7][17] Relationships (Statutory References) Act 2005 (2005 No 3) by inserting the words ""civil union partner, de facto partner,"" after the word ""wife,"".
+    Section 3(2): amended, on 26 April 2005, by [section 7][18] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 4 Acceptance of such gifts by agent an offence
     
@@ -86,7 +93,7 @@ An Act for the prohibition of secret commissions
     
     (3) For the purposes of this section an agent shall not be deemed to have any pecuniary interest in the making of a contract by reason merely of the fact that he or any person mentioned in the last preceding subsection is a shareholder in an incorporated company having more than 20 members.
     
-    Subsection (2) was amended, as from 26 April 2005, by section [7][17] Relationships (Statutory References) Act 2005 (2005 No 3) by inserting the words ""civil union partner, de facto partner,"" after the word ""wife,"".
+    Section 5(2): amended, on 26 April 2005, by [section 7][18] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 6 Giving false receipt, invoice, etc, to agent an offence
     
@@ -118,21 +125,29 @@ An Act for the prohibition of secret commissions
 
 ##### 12 Consent of Attorney-General necessary for prosecution
     
-*   (1) No prosecution for an offence against this Act shall be commenced without the leave of the Attorney-General; and the Attorney-General shall, in granting leave to institute a prosecution, determine whether the offence shall be dealt with as an indictable offence or as one punishable on summary conviction, and the prosecution shall take place accordingly and not otherwise.
+*   (1) No prosecution for an offence against this Act may be commenced without the leave of the Attorney-General.
     
-    (2) The leave of the Attorney-General may be granted without notice to the defendant, and it shall not be necessary in any information or indictment to state that such leave has been granted, or the terms thereof. Objections to an information or indictment for want of such leave or for want of conformity to the terms thereof shall be taken before the District Court Judge, or by motion to quash the indictment, before the defendant is given in charge to the jury upon his trial, and not otherwise; and if the District Court Judge or Judge is satisfied that such leave has not been granted, or that the terms thereof have not been conformed to, the information or indictment shall be dismissed or quashed, as the case may be.
+    (2) The leave of the Attorney-General may be granted without notice to the defendant and it is not necessary in the charge to state that leave has been granted, or to state the terms of that leave.
+    
+    (3) Objections to a charge for want of leave, or for want of conformity to the terms of leave, must be made before a District Court Judge before the trial, and if the District Court Judge is satisfied that leave has not been granted, or that the terms thereof have not been conformed to, the District Court Judge must either---
+        
+    *   (a) permit the prosecutor to withdraw the charge; or
+    
+    *   (b) dismiss the charge.
+    
+    Section 12: replaced, on 1 July 2013, by [section 413][19] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 13 Penalty on conviction
     
-*   (1) Any person convicted on indictment of an offence against this Act is liable, if a corporation, to a fine not exceeding $2,000; and if any other person, to imprisonment for any period not exceeding 2 years or to a fine not exceeding $1,000\.
+*   Any person convicted of an offence against this Act is liable, if a corporation, to a fine not exceeding $2,000; and if any other person, to imprisonment for any period not exceeding 2 years or to a fine not exceeding $1,000\.
     
-    (2) Any person convicted summarily of an offence against this Act is liable, if a corporation, to a fine not exceeding $200; and if any other person, to imprisonment for any period not exceeding 3 months or to a fine not exceeding $100\.
-    
-    Subsections (1) and (2) amended by section 40(1) Criminal Justice Act 1954 (1954 No 5) (RS 1)) by omitting the words ""with or without hard labour"".
+    Section 13: replaced, on 1 July 2013, by [section 413][19] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 14 Proceedings to be before District Court Judge only
     
-*   An information under the [Summary Proceedings Act 1957][18] for an offence against this Act, whether the proceedings are by way of summary conviction or otherwise, shall be taken and heard before a District Court Judge only.
+*   \[Repealed\]
+    
+    Section 14: repealed, on 1 July 2013, by [section 413][19] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 15 Incriminating answers and discovery
     
@@ -142,44 +157,72 @@ An Act for the prohibition of secret commissions
     
 *   (1) For the purposes of this Act---
         
-    *   (a) Every officer of a corporation and every member of a governing body of a corporation shall be deemed to be an agent of the corporation:
+    *   (a) every officer of a corporation and every member of a governing body of a corporation shall be deemed to be an agent of the corporation:
     
-    *   (b) Every officer or member of any local authority, Board, Council, committee, or other body of persons, whether incorporated or unincorporated, charged by statute with any public functions shall be deemed to be an agent of that local authority, Board, Council, committee, or other body:
+    *   (b) every officer or member of any local authority, Board, Council, committee, or other body of persons, whether incorporated or unincorporated, charged by statute with any public functions shall be deemed to be an agent of that local authority, Board, Council, committee, or other body:
     
-    *   (c) Every person in the service of the Crown, or acting for or on behalf of the Crown, or holding any office in the public service, shall be deemed to be an agent of the Crown:
+    *   (c) every person in the service of the Crown, or acting for or on behalf of the Crown, or holding any office in the public service, shall be deemed to be an agent of the Crown:
     
-    *   (d) Every partner in a firm shall be deemed to be an agent of the firm:
+    *   (d) every partner in a firm shall be deemed to be an agent of the firm:
     
-    *   (e) An executor, administrator, or trustee shall be deemed to be an agent of the beneficiaries under the will, intestacy, or trust:
+    *   (e) an executor, administrator, or trustee shall be deemed to be an agent of the beneficiaries under the will, intestacy, or trust:
     
-    *   (f) The committee of the estate of a person of unsound mind shall be deemed to be the agent of that person:
+    *   (f) the committee of the estate of a person of unsound mind shall be deemed to be the agent of that person:
     
-    *   (g) An arbitrator, umpire, or valuer shall be deemed to be an agent of every party to the arbitration or valuation:
+    *   (g) an arbitrator, umpire, or valuer shall be deemed to be an agent of every party to the arbitration or valuation:
     
-    *   (h) A liquidator of a company shall be deemed to be an agent of the company.
+    *   (h) a liquidator of a company shall be deemed to be an agent of the company.
     
     (2) If by virtue of the provisions of this Act any agent is deemed to be the agent of 2 or more principals in respect of the same matter, this Act shall apply to each of those principals in the same manner as if he was the sole principal.
     
     (3) Nothing in this section shall be so construed as to restrict in any manner the meaning of the terms **agent** or **principal** as used in this Act.
 
+---
+
+#### Contents
+    
+*   1General
+*   2About this eprint
+*   3List of amendments incorporated in this eprint (most recent first) 
+
+---
+
+##### Notes
+
+###### 1 General
+    
+*   This is an eprint of the Secret Commissions Act 1910\. The eprint incorporates all the amendments to the Act as at 1 July 2013\. The list of amendments at the end of these notes specifies all the amendments incorporated into this eprint since 3 September 2007\.
+    
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the eprint are also included, after the principal enactment, in chronological order.
+
+###### 2 About this eprint
+    
+*   This eprint has not been officialised. For more information about eprints and officialisation, please _see_ [http://www.pco.parliament.govt.nz/eprints/][20] ![](/images/external_link.gif).
+
+###### 3 List of amendments incorporated in this eprint (most recent first)
+    
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][19]
 
 
-[0]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177645
-[1]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177647
-[2]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177648
-[3]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177655
-[4]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177657
-[5]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177658
-[6]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177660
-[7]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177661
-[8]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177662
-[9]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177663
-[10]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177664
-[11]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177665
-[12]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177666
-[13]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177667
-[14]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177669
-[15]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177670
-[16]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177671
-[17]: http://www.legislation.govt.nz/act/public/1910/0040/latest/link.aspx?id=DLM333795
-[18]: http://www.legislation.govt.nz/act/public/1910/0040/latest/link.aspx?id=DLM310742
+
+[0]: http://www.legislation.govt.nz/act/public/1910/0040/latest/link.aspx?id=DLM195466
+[1]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177645
+[2]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177647
+[3]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177648
+[4]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177655
+[5]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177657
+[6]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177658
+[7]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177660
+[8]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177661
+[9]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177662
+[10]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177663
+[11]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177664
+[12]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177665
+[13]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177666
+[14]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177667
+[15]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177669
+[16]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177670
+[17]: http://www.legislation.govt.nz/act/public/1910/0040/latest/whole.html#DLM177671
+[18]: http://www.legislation.govt.nz/act/public/1910/0040/latest/link.aspx?id=DLM333795
+[19]: http://www.legislation.govt.nz/act/public/1910/0040/latest/link.aspx?id=DLM3360714
+[20]: http://www.pco.parliament.govt.nz/eprints/
