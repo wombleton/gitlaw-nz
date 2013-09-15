@@ -1,5 +1,5 @@
 Reprint  
-as at 4 April 1985
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -379,7 +379,9 @@ An Act to empower the Mayor, Councillors, and Citizens of the City of Tauranga, 
 
 ##### 25 Offences
     
-*   Every person commits an offence against this Act and shall be liable on summary conviction to a fine not exceeding $100 who without lawful excuse acts in contravention of or fails to comply in any respect with any provision of this Act or of any regulations or bylaws for the time being in force under this Act.
+*   Every person commits an offence against this Act and shall be liable on conviction to a fine not exceeding $100 who without lawful excuse acts in contravention of or fails to comply in any respect with any provision of this Act or of any regulations or bylaws for the time being in force under this Act.
+    
+    Section 25: amended, on 1 July 2013, by [section 413][52] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 26 Regulations
     
@@ -391,7 +393,7 @@ An Act to empower the Mayor, Councillors, and Citizens of the City of Tauranga, 
 
 [s 3A(2)(c), (d)][5]
 
-*   Schedule: replaced, on 4 April 1985, by [section 11(1)][52] of the Tauranga City Council and Mount Maunganui Borough Council (Tauranga Harbour Bridge) Empowering Amendment Act 1985 (1985 No 3 (L)).
+*   Schedule: replaced, on 4 April 1985, by [section 11(1)][53] of the Tauranga City Council and Mount Maunganui Borough Council (Tauranga Harbour Bridge) Empowering Amendment Act 1985 (1985 No 3 (L)).
 
 Deed made 27 November 1984 between the Tauranga City Council (hereinafter called the **City Council**) of the first part and the Mount Maunganui Borough Council (hereinafter called the **Borough Council**) of the second part and the Bay of Plenty Harbour Board (hereinafter called the **Board**) of the third part: 
 
@@ -447,7 +449,7 @@ Now therefore this deed witnesseth as follows:
     
     *   ###### Function of Committee
     
-    *   (xi) The parties hereby delegate to the Committee such powers and functions and authorities as they shall jointly vest in the Committee subject however to the provisions of [section 104][53] of the Local Government Act 1974 and section 38 of the Harbours Act 1950\.
+    *   (xi) The parties hereby delegate to the Committee such powers and functions and authorities as they shall jointly vest in the Committee subject however to the provisions of [section 104][54] of the Local Government Act 1974 and section 38 of the Harbours Act 1950\.
     
     *   ###### Reports
     
@@ -575,23 +577,23 @@ Commencement4 April 1985
 
 ###### 1 General
     
-*   This is a reprint of the Tauranga City Council and Mount Maunganui Borough Council (Tauranga Harbour Bridge) Empowering Act 1972\. The reprint incorporates all the amendments to the Act as at 4 April 1985, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Tauranga City Council and Mount Maunganui Borough Council (Tauranga Harbour Bridge) Empowering Act 1972\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][54] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][55] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][55] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][56] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][56] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][57] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][57] and [17E][58] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][58] and [17E][59] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -622,7 +624,9 @@ Commencement4 April 1985
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Tauranga City Council and Mount Maunganui Borough Council (Tauranga Harbour Bridge) Empowering Amendment Act 1985][59] (1985 No 3 (L))
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][52]
+    
+    [Tauranga City Council and Mount Maunganui Borough Council (Tauranga Harbour Bridge) Empowering Amendment Act 1985][60] (1985 No 3 (L))
 
 
 
@@ -678,11 +682,12 @@ Commencement4 April 1985
 [49]: http://www.legislation.govt.nz/act/local/1972/0004/latest/whole.html#DLM71348
 [50]: http://www.legislation.govt.nz/act/local/1972/0004/latest/whole.html#DLM71358
 [51]: http://www.legislation.govt.nz/act/local/1972/0004/latest/link.aspx?id=DLM76743
-[52]: http://www.legislation.govt.nz/act/local/1972/0004/latest/link.aspx?id=DLM76744
-[53]: http://www.legislation.govt.nz/act/local/1972/0004/latest/link.aspx?id=DLM418163
-[54]: http://www.pco.parliament.govt.nz/reprints/
-[55]: http://www.legislation.govt.nz/act/local/1972/0004/latest/link.aspx?id=DLM195439
-[56]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[57]: http://www.legislation.govt.nz/act/local/1972/0004/latest/link.aspx?id=DLM195468
-[58]: http://www.legislation.govt.nz/act/local/1972/0004/latest/link.aspx?id=DLM195470
-[59]: http://www.legislation.govt.nz/act/local/1972/0004/latest/link.aspx?id=DLM76727
+[52]: http://www.legislation.govt.nz/act/local/1972/0004/latest/link.aspx?id=DLM3360714
+[53]: http://www.legislation.govt.nz/act/local/1972/0004/latest/link.aspx?id=DLM76744
+[54]: http://www.legislation.govt.nz/act/local/1972/0004/latest/link.aspx?id=DLM418163
+[55]: http://www.pco.parliament.govt.nz/reprints/
+[56]: http://www.legislation.govt.nz/act/local/1972/0004/latest/link.aspx?id=DLM195439
+[57]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[58]: http://www.legislation.govt.nz/act/local/1972/0004/latest/link.aspx?id=DLM195468
+[59]: http://www.legislation.govt.nz/act/local/1972/0004/latest/link.aspx?id=DLM195470
+[60]: http://www.legislation.govt.nz/act/local/1972/0004/latest/link.aspx?id=DLM76727
