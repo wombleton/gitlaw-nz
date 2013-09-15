@@ -1,7 +1,7 @@
 Reprint  
-as at 29 November 2010
+as at 1 July 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Maritime Crimes Act 1999Public Act1999 No 56
 
@@ -25,53 +25,53 @@ This Act is administered by the Ministry of Justice.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Act does not apply to certain ships][4]
+[3][4][][4][Act does not apply to certain ships][4]
 
 [Crimes relating to ships and fixed platforms][5]
 
-[4][6] [Crimes relating to ships][6]
+[4][6][][6][Crimes relating to ships][6]
 
-[5][7] [Crimes relating to fixed platforms][7]
+[5][7][][7][Crimes relating to fixed platforms][7]
 
-[6][8] [Further provisions relating to crimes against sections 4 and 5][8]
+[6][8][][8][Further provisions relating to crimes against sections 4 and 5][8]
 
-[7][9] [Penalties for crimes against sections 4 and 5][9]
+[7][9][][9][Penalties for crimes against sections 4 and 5][9]
 
 [Jurisdiction and application provisions][10]
 
-[8][11] [Extra-territorial jurisdiction in respect of crimes relating to ships][11]
+[8][11][][11][Extra-territorial jurisdiction in respect of crimes relating to ships][11]
 
-[9][12] [Extra-territorial jurisdiction in respect of crimes relating to fixed platforms][12]
+[9][12][][12][Extra-territorial jurisdiction in respect of crimes relating to fixed platforms][12]
 
-[10][13] [Application of Crimes Act 1961][13]
+[10][13][][13][Application of Crimes Act 1961][13]
 
 [Powers of masters][14]
 
-[11][15] [Master may deliver alleged offender to appropriate authorities][15]
+[11][15][][15][Master may deliver alleged offender to appropriate authorities][15]
 
-[12][16] [Power to search persons and baggage on ships][16]
+[12][16][][16][Power to search persons and baggage on ships][16]
 
 [Extradition of offenders][17]
 
-[13][18] [Definitions relating to extradition provisions][18]
+[13][18][][18][Definitions relating to extradition provisions][18]
 
-[14][19] [Crimes deemed to be included in extradition treaties][19]
+[14][19][][19][Crimes deemed to be included in extradition treaties][19]
 
-[15][20] [Restriction on surrender][20]
+[15][20][][20][Restriction on surrender][20]
 
-[16][21] [Certification of country as party to Rome Convention or Rome Protocol][21]
+[16][21][][21][Certification of country as party to Rome Convention or Rome Protocol][21]
 
 [Miscellaneous provisions][22]
 
-[17][23] [Attorney-General's consent required for prosecutions][23]
+[17][23][][23][Attorney-General's consent required for prosecutions][23]
 
-[18][24] [Certification of ships in military service][24]
+[18][24][][24][Certification of ships in military service][24]
 
-[19][25] [Immigration Act 2009 not limited][25]
+[19][25][][25][Immigration Act 2009 not limited][25]
 
 ---
 
@@ -221,15 +221,19 @@ An Act to give effect to the provisions of the Rome Convention for the Suppressi
 
 ##### 7 Penalties for crimes against sections 4 and 5
     
-*   (1) A person who commits a crime against [section 4(1)][6] or section 4(2)(b) or section 4(3) or [section 5(1)][7] or section 5(2)(b) or section 5(3) is liable on conviction on indictment to imprisonment for a term not exceeding 14 years.
+*   (1) A person who commits a crime against [section 4(1)][6] or section 4(2)(b) or section 4(3) or [section 5(1)][7] or section 5(2)(b) or section 5(3) is liable on conviction to imprisonment for a term not exceeding 14 years.
     
     (2) A person who commits a crime against [section 4(2)(a)][6] or [section 5(2)(a)][7],---
         
-    *   (a) in circumstances where the conduct concerned is the same as conduct described as murder, must on conviction on indictment be sentenced to imprisonment for life; and
+    *   (a) in circumstances where the conduct concerned is the same as conduct described as murder, must on conviction be sentenced to imprisonment for life; and
     
-    *   (b) in circumstances where the conduct concerned is the same as conduct described as manslaughter, is liable on conviction on indictment to imprisonment for life.
+    *   (b) in circumstances where the conduct concerned is the same as conduct described as manslaughter, is liable on conviction to imprisonment for life.
     
+    Section 7(1): amended, on 1 July 2013, by [section 413][53] of the Criminal Procedure Act 2011 (2011 No 81).
     
+    Section 7(2)(a): amended, on 1 July 2013, by [section 413][53] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 7(2)(b): amended, on 1 July 2013, by [section 413][53] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Jurisdiction and application provisions
 
@@ -273,7 +277,7 @@ An Act to give effect to the provisions of the Rome Convention for the Suppressi
 
 ##### 9 Extra-territorial jurisdiction in respect of crimes relating to fixed platforms
     
-*   [Section 5][53] applies in respect of acts or omissions that occur outside New Zealand if---
+*   [Section 5][54] applies in respect of acts or omissions that occur outside New Zealand if---
         
     *   (a) the act or omission is---
             
@@ -289,15 +293,15 @@ An Act to give effect to the provisions of the Rome Convention for the Suppressi
 
 ##### 10 Application of Crimes Act 1961
     
-*   (1) The following sections of the [Crimes Act 1961][54] do not apply in respect of any of the crimes described in [section 4][6] or [section 5][7] of this Act:
+*   (1) The following sections of the [Crimes Act 1961][55] do not apply in respect of any of the crimes described in [section 4][6] or [section 5][7] of this Act:
         
-    *   (a) [section 8][55] (which relates to jurisdiction in respect of crimes on ships or aircraft beyond New Zealand):
+    *   (a) [section 8][56] (which relates to jurisdiction in respect of crimes on ships or aircraft beyond New Zealand):
     
-    *   (b) [section 92][56] (which relates to piracy):
+    *   (b) [section 92][57] (which relates to piracy):
     
-    *   (c) [section 400][57] (which relates to the consent of the Attorney-General to proceedings in certain cases for offences on ships or aircraft).
+    *   (c) [section 400][58] (which relates to the consent of the Attorney-General to proceedings in certain cases for offences on ships or aircraft).
     
-    (2) Except for subsection (1), this Act does not limit the [Crimes Act 1961][54].
+    (2) Except for subsection (1), this Act does not limit the [Crimes Act 1961][55].
 
 #### Powers of masters
 
@@ -321,7 +325,9 @@ An Act to give effect to the provisions of the Rome Convention for the Suppressi
     
     (5) A master commits an offence who fails, without reasonable excuse, to comply with subsection (2) or subsection (3).
     
-    (6) A master who commits an offence against subsection (5) is liable on summary conviction to a fine not exceeding $500\.
+    (6) A master who commits an offence against subsection (5) is liable on conviction to a fine not exceeding $500\.
+    
+    Section 11(6): amended, on 1 July 2013, by [section 413][53] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 12 Power to search persons and baggage on ships
     
@@ -345,9 +351,9 @@ An Act to give effect to the provisions of the Rome Convention for the Suppressi
     
     *   (c) by returning the article to its owner if the master of the ship considers that the article has not been used and is not or is not likely to be used to effect or facilitate the commission of a crime against this Act, and the possession of the article is otherwise lawful.
     
-    Section 12(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][58] of the Policing Act 2008 (2008 No 72).
+    Section 12(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][59] of the Policing Act 2008 (2008 No 72).
     
-    Section 12(4)(b): amended, on 1 October 2008, by [section 130(1)][59] of the Policing Act 2008 (2008 No 72).
+    Section 12(4)(b): amended, on 1 October 2008, by [section 130(1)][60] of the Policing Act 2008 (2008 No 72).
 
 #### Extradition of offenders
 
@@ -371,9 +377,9 @@ An Act to give effect to the provisions of the Rome Convention for the Suppressi
 
 ##### 14 Crimes deemed to be included in extradition treaties
     
-*   (1) For the purposes of the [Extradition Act 1999][60] and any Order in Council in force under [section 15][61] or [section 40][62] or [section 104][63] of that Act, each crime described in [section 4][6] or [section 5][7] of this Act is deemed to be an offence described in any extradition treaty concluded before the commencement of this section and for the time being in force between New Zealand and any country which is a party to the Rome Convention or the Rome Protocol (as the case may be).
+*   (1) For the purposes of the [Extradition Act 1999][61] and any Order in Council in force under [section 15][62] or [section 40][63] or [section 104][64] of that Act, each crime described in [section 4][6] or [section 5][7] of this Act is deemed to be an offence described in any extradition treaty concluded before the commencement of this section and for the time being in force between New Zealand and any country which is a party to the Rome Convention or the Rome Protocol (as the case may be).
     
-    (2) Despite subsection (1), no person is liable to be surrendered under the [Extradition Act 1999][60] in respect of an act or omission that amounts to a crime to which that subsection applies if that act or omission occurred before the date on which the crime was deemed by that subsection to be an offence described in the relevant extradition treaty.
+    (2) Despite subsection (1), no person is liable to be surrendered under the [Extradition Act 1999][61] in respect of an act or omission that amounts to a crime to which that subsection applies if that act or omission occurred before the date on which the crime was deemed by that subsection to be an offence described in the relevant extradition treaty.
 
 ##### 15 Restriction on surrender
     
@@ -383,17 +389,17 @@ An Act to give effect to the provisions of the Rome Convention for the Suppressi
     
     *   (b) the right to be visited by a representative of the country referred to in paragraph (a).
     
-    (2) To avoid doubt, [section 99][64] of the Extradition Act 1999 applies if 2 or more countries seek and obtain an order for the surrender of the same person in respect of any act or omission that amounts to a crime described in [section 4][6] or [section 5][7].
+    (2) To avoid doubt, [section 99][65] of the Extradition Act 1999 applies if 2 or more countries seek and obtain an order for the surrender of the same person in respect of any act or omission that amounts to a crime described in [section 4][6] or [section 5][7].
     
     (3) If---
         
-    *   (a) 2 or more countries request the surrender of a person under the [Extradition Act 1999][60] in respect of any act or omission that amounts to a crime described in [section 4][6]; and
+    *   (a) 2 or more countries request the surrender of a person under the [Extradition Act 1999][61] in respect of any act or omission that amounts to a crime described in [section 4][6]; and
     
     *   (b) those countries are parties to the Rome Convention; and
     
     *   (c) the ship in respect of which the act or omission relates was flying the flag of one of those countries when the alleged crime was committed,---
     
-    then the Minister of Justice must, in addition to the matters specified in [section 99(2)][64] of the Extradition Act 1999, have due regard to the interests and responsibilities of the country whose flag the ship was flying.
+    then the Minister of Justice must, in addition to the matters specified in [section 99(2)][65] of the Extradition Act 1999, have due regard to the interests and responsibilities of the country whose flag the ship was flying.
     
     (4) This section does not limit any other considerations that the Minister of Justice or a court may take into account when considering whether or not to order the surrender of a person.
 
@@ -415,9 +421,9 @@ An Act to give effect to the provisions of the Rome Convention for the Suppressi
 
 ##### 19 Immigration Act 2009 not limited
     
-*   This Act does not limit the [Immigration Act 2009][65].
+*   This Act does not limit the [Immigration Act 2009][66].
     
-    Section 19: substituted, at 2 am on 29 November 2010, by [section 406(1)][66] of the Immigration Act 2009 (2009 No 51).
+    Section 19: substituted, at 2 am on 29 November 2010, by [section 406(1)][67] of the Immigration Act 2009 (2009 No 51).
 
 ---
 
@@ -435,23 +441,23 @@ An Act to give effect to the provisions of the Rome Convention for the Suppressi
 
 ###### 1 General
     
-*   This is a reprint of the Maritime Crimes Act 1999\. The reprint incorporates all the amendments to the Act as at 29 November 2010, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Maritime Crimes Act 1999\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][67] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][68] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][68] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][69] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][69] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][70] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][70] and [17E][71] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][71] and [17E][72] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -482,9 +488,11 @@ An Act to give effect to the provisions of the Rome Convention for the Suppressi
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Immigration Act 2009 (2009 No 51): [section 406(1)][66]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][53]
     
-    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][58], [130(1)][59]
+    Immigration Act 2009 (2009 No 51): [section 406(1)][67]
+    
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][59], [130(1)][60]
 
 
 
@@ -541,22 +549,23 @@ An Act to give effect to the provisions of the Rome Convention for the Suppressi
 [50]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM329311
 [51]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM329312
 [52]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM329319
-[53]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM28266
-[54]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM327381
-[55]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM328038
-[56]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM328572
-[57]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM332165
-[58]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM1102349
-[59]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM1102383
-[60]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM25627
-[61]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM26205
-[62]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM26269
-[63]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM27321
-[64]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM26795
-[65]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM1440300
-[66]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM1441347
-[67]: http://www.pco.parliament.govt.nz/reprints/
-[68]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM195439
-[69]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[70]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM195468
-[71]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM195470
+[53]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM3360714
+[54]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM28266
+[55]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM327381
+[56]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM328038
+[57]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM328572
+[58]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM332165
+[59]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM1102349
+[60]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM1102383
+[61]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM25627
+[62]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM26205
+[63]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM26269
+[64]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM27321
+[65]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM26795
+[66]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM1440300
+[67]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM1441347
+[68]: http://www.pco.parliament.govt.nz/reprints/
+[69]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM195439
+[70]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[71]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM195468
+[72]: http://www.legislation.govt.nz/act/public/1999/0056/latest/link.aspx?id=DLM195470
