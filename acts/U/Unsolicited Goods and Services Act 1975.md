@@ -1,5 +1,5 @@
 Reprint  
-as at 1 March 1987
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,31 +25,31 @@ This Act is administered by the Ministry of Consumer Affairs.
 
 [Title][1]
 
-[1][2] [Short Title][2]
+[1][2][][2][Short Title][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Rights of recipient of unsolicited goods][4]
+[3][4][][4][Rights of recipient of unsolicited goods][4]
 
-[4][5] [Demands for payment][5]
+[4][5][][5][Demands for payment][5]
 
-[5][6] [Threats regarding payment][6]
+[5][6][][6][Threats regarding payment][6]
 
-[6][7] [Liability for payment and duty of care][7]
+[6][7][][7][Liability for payment and duty of care][7]
 
-[7][8] [Ordering goods without authority][8]
+[7][8][][8][Ordering goods without authority][8]
 
-[8][9] [Invoices for unordered goods and services][9]
+[8][9][][9][Invoices for unordered goods and services][9]
 
-[9][10] [Unsolicited services][10]
+[9][10][][10][Unsolicited services][10]
 
-[10][11] [Unsolicited goods sent overseas][11]
+[10][11][][11][Unsolicited goods sent overseas][11]
 
-[11][12] [General penalty][12]
+[11][12][][12][General penalty][12]
 
-[12][13] [Offences by corporations][13]
+[12][13][][13][Offences by corporations][13]
 
-[13][14] [Admissibility of certain documents][14]
+[13][14][][14][Admissibility of certain documents][14]
 
 ---
 
@@ -125,13 +125,15 @@ An Act to provide greater protection for the recipients of unsolicited goods or 
     
     *   (c) invokes or causes to be invoked any other collection procedures or threatens to do so.
     
-    (2) Every person who commits an offence against this section is liable on summary conviction---
+    (2) Every person who commits an offence against this section is liable on conviction---
         
     *   (a) in the case of an individual, to a fine not exceeding $750; or
     
     *   (b) in the case of a body corporate, to a fine not exceeding $1,500\.
     
     Compare: Unsolicited Goods and Services Act 1971 s 2(2) (UK)
+    
+    Section 5(2): amended, on 1 July 2013, by [section 413][15] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 6 Liability for payment and duty of care
     
@@ -147,9 +149,11 @@ An Act to provide greater protection for the recipients of unsolicited goods or 
     
 *   (1) No person shall make a request in the name of another person that goods be sent to that other person where, if those goods were sent to that other person, those goods would be unsolicited goods unless the first-mentioned person has the express or implied authority of that other person to make that request.
     
-    (2) Every person who acts in contravention of subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $300\.
+    (2) Every person who acts in contravention of subsection (1) commits an offence and is liable on conviction to a fine not exceeding $300\.
     
     Compare: Unordered Goods and Services Act 1972 s 11 (SA)
+    
+    Section 7(2): amended, on 1 July 2013, by [section 413][15] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 8 Invoices for unordered goods and services
     
@@ -165,7 +169,7 @@ An Act to provide greater protection for the recipients of unsolicited goods or 
     
     (4) \[Repealed\]
     
-    Section 8(4): repealed, on 1 March 1987, by [section 49(2)][15] of the Fair Trading Act 1986 (1986 No 121).
+    Section 8(4): repealed, on 1 March 1987, by [section 49(2)][16] of the Fair Trading Act 1986 (1986 No 121).
 
 ##### 9 Unsolicited services
     
@@ -197,13 +201,13 @@ An Act to provide greater protection for the recipients of unsolicited goods or 
 
 ##### 11 General penalty
     
-*   Every person who commits an offence against this Act for which no penalty is provided elsewhere than in this section is liable on summary conviction---
+*   Every person who commits an offence against this Act for which no penalty is provided elsewhere than in this section is liable on conviction---
         
     *   (a) in the case of an individual, to a fine not exceeding $500; or
     
     *   (b) in the case of a body corporate, to a fine not exceeding $1,000\.
     
-    
+    Section 11: amended, on 1 July 2013, by [section 413][15] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 12 Offences by corporations
     
@@ -249,23 +253,23 @@ An Act to provide greater protection for the recipients of unsolicited goods or 
 
 ###### 1 General
     
-*   This is a reprint of the Unsolicited Goods and Services Act 1975\. The reprint incorporates all the amendments to the Act as at 1 March 1987, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Unsolicited Goods and Services Act 1975\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][16] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][17] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][17] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][18] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][18] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][19] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][19] and [17E][20] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][20] and [17E][21] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -296,7 +300,9 @@ An Act to provide greater protection for the recipients of unsolicited goods or 
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Fair Trading Act 1986 (1986 No 121): [section 49(2)][15]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][15]
+    
+    Fair Trading Act 1986 (1986 No 121): [section 49(2)][16]
 
 
 
@@ -315,9 +321,10 @@ An Act to provide greater protection for the recipients of unsolicited goods or 
 [12]: http://www.legislation.govt.nz/act/public/1975/0046/latest/whole.html#DLM434464
 [13]: http://www.legislation.govt.nz/act/public/1975/0046/latest/whole.html#DLM434465
 [14]: http://www.legislation.govt.nz/act/public/1975/0046/latest/whole.html#DLM434466
-[15]: http://www.legislation.govt.nz/act/public/1975/0046/latest/link.aspx?id=DLM97350
-[16]: http://www.pco.parliament.govt.nz/reprints/
-[17]: http://www.legislation.govt.nz/act/public/1975/0046/latest/link.aspx?id=DLM195439
-[18]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[19]: http://www.legislation.govt.nz/act/public/1975/0046/latest/link.aspx?id=DLM195468
-[20]: http://www.legislation.govt.nz/act/public/1975/0046/latest/link.aspx?id=DLM195470
+[15]: http://www.legislation.govt.nz/act/public/1975/0046/latest/link.aspx?id=DLM3360714
+[16]: http://www.legislation.govt.nz/act/public/1975/0046/latest/link.aspx?id=DLM97350
+[17]: http://www.pco.parliament.govt.nz/reprints/
+[18]: http://www.legislation.govt.nz/act/public/1975/0046/latest/link.aspx?id=DLM195439
+[19]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[20]: http://www.legislation.govt.nz/act/public/1975/0046/latest/link.aspx?id=DLM195468
+[21]: http://www.legislation.govt.nz/act/public/1975/0046/latest/link.aspx?id=DLM195470
