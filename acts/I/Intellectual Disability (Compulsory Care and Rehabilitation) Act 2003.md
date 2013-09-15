@@ -1,7 +1,7 @@
 Reprint  
-as at 18 May 2009
+as at 5 August 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003Public Act2003 No 116
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Health.
 
@@ -23,418 +23,418 @@ This Act is administered by the Ministry of Health.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
 [Part 1][2]  
 [Preliminary provisions][2]
 
-[2][3] [Commencement][3]
+[2][3][][3][Commencement][3]
 
-[3][4] [Purposes][4]
+[3][4][][4][Purposes][4]
 
-[4][5] [Outline][5]
+[4][5][][5][Outline][5]
 
-[5][6] [Interpretation][6]
+[5][6][][6][Interpretation][6]
 
-[6][7] [Meaning of care recipient and related terms][7]
+[6][7][][7][Meaning of care recipient and related terms][7]
 
-[7][8] [Meaning of intellectual disability][8]
+[7][8][][8][Meaning of intellectual disability][8]
 
-[8][9] [Persons who do not have intellectual disability][9]
+[8][9][][9][Persons who do not have intellectual disability][9]
 
-[9][10] [Meaning of facility and secure facility][10]
+[9][10][][10][Meaning of facility and secure facility][10]
 
-[10][11] [Act binds the Crown][11]
+[10][11][][11][Act binds the Crown][11]
 
 [Part 2][12]  
 [Principles and general duties][12]
 
-[11][13] [Principles governing exercise of powers under this Act][13]
+[11][13][][13][Principles governing exercise of powers under this Act][13]
 
-[12][14] [Principles governing decisions affecting children and young persons][14]
+[12][14][][14][Principles governing decisions affecting children and young persons][14]
 
-[13][15] [Powers to be exercised with proper respect for cultural identity and personal beliefs][15]
+[13][15][][15][Powers to be exercised with proper respect for cultural identity and personal beliefs][15]
 
-[14][16] [Interpreters to be provided][16]
+[14][16][][16][Interpreters to be provided][16]
 
 [Part 3][17]  
 [Needs assessments and care and rehabilitation plans][17]
 
 [Assessment of care and rehabilitation needs][18]
 
-[15][19] [Needs assessments required for certain care recipients][19]
+[15][19][][19][Needs assessments required for certain care recipients][19]
 
-[16][20] [Purposes of needs assessment][20]
+[16][20][][20][Purposes of needs assessment][20]
 
-[17][21] [When needs assessment process to be commenced][21]
+[17][21][][21][When needs assessment process to be commenced][21]
 
-[18][22] [How needs assessment process to be commenced][22]
+[18][22][][22][How needs assessment process to be commenced][22]
 
-[19][23] [Maximum period for needs assessment and preparation of care and rehabilitation plan][23]
+[19][23][][23][Maximum period for needs assessment and preparation of care and rehabilitation plan][23]
 
-[20][24] [Co-ordinator to consult assessors][24]
+[20][24][][24][Co-ordinator to consult assessors][24]
 
-[21][25] [Co-ordinator to consult with persons concerned with welfare of care recipient][25]
+[21][25][][25][Co-ordinator to consult with persons concerned with welfare of care recipient][25]
 
-[22][26] [Case conferences][26]
+[22][26][][26][Case conferences][26]
 
-[23][27] [Cultural assessment][27]
+[23][27][][27][Cultural assessment][27]
 
 [Care and rehabilitation plan][28]
 
-[24][29] [Care and rehabilitation plan to be prepared for care recipient][29]
+[24][29][][29][Care and rehabilitation plan to be prepared for care recipient][29]
 
-[25][30] [Care and rehabilitation plan to identify personal needs of care recipients][30]
+[25][30][][30][Care and rehabilitation plan to identify personal needs of care recipients][30]
 
-[26][31] [Care programme][31]
+[26][31][][31][Care programme][31]
 
-[27][32] [Other matters][32]
+[27][32][][32][Other matters][32]
 
-[28][33] [Care and rehabilitation plan may be varied][33]
+[28][33][][33][Care and rehabilitation plan may be varied][33]
 
 [Part 4][34]  
 [Compulsory care and rehabilitation of prisoners and former special patients][34]
 
-[Subpart 1][35]---[Assessment of prisoners and former special patients][35]
+[Subpart 1][35][---][35][Assessment of prisoners and former special patients][35]
 
-[29][36] [Application for assessment of prisoner or former special patient][36]
+[29][36][][36][Application for assessment of prisoner or former special patient][36]
 
-[30][37] [Matters to be stated in application][37]
+[30][37][][37][Matters to be stated in application][37]
 
-[31][38] [Application to be accompanied by certificate][38]
+[31][38][][38][Application to be accompanied by certificate][38]
 
-[32][39] [Arrangements for assessment][39]
+[32][39][][39][Arrangements for assessment][39]
 
-[33][40] [Assessment of child or young person][40]
+[33][40][][40][Assessment of child or young person][40]
 
-[34][41] [Timing for, and place of, assessment][41]
+[34][41][][41][Timing for, and place of, assessment][41]
 
-[35][42] [Proposed care recipients may have to stay in facility][42]
+[35][42][][42][Proposed care recipients may have to stay in facility][42]
 
-[36][43] [Prisoners to appear in court][43]
+[36][43][][43][Prisoners to appear in court][43]
 
-[37][44] [Assessment examination][44]
+[37][44][][44][Assessment examination][44]
 
-[38][45] [Result of assessment][45]
+[38][45][][45][Result of assessment][45]
 
-[Subpart 2][46]---[Compulsory care orders for prisoners and former special patients][46]
+[Subpart 2][46][---][46][Compulsory care orders for prisoners and former special patients][46]
 
 [Applications for compulsory care orders][47]
 
-[39][48] [Conditions for applications under this subpart][48]
+[39][48][][48][Conditions for applications under this subpart][48]
 
-[40][49] [Matters to be set out in application][49]
+[40][49][][49][Matters to be set out in application][49]
 
 [Visit by Judge][50]
 
-[41][51] [Judge to examine proposed care recipient][51]
+[41][51][][51][Judge to examine proposed care recipient][51]
 
-[42][52] [Visiting Judge may order withdrawal of application][52]
+[42][52][][52][Visiting Judge may order withdrawal of application][52]
 
 [Making compulsory care order][53]
 
-[43][54] [Visiting Judge, wherever possible, to hear application][54]
+[43][54][][54][Visiting Judge, wherever possible, to hear application][54]
 
-[44][55] [Court to consider proposed care recipient's condition][55]
+[44][55][][55][Court to consider proposed care recipient's condition][55]
 
-[45][56] [Jurisdiction to make compulsory care order][56]
+[45][56][][56][Jurisdiction to make compulsory care order][56]
 
-[46][57] [Term of compulsory care order][57]
+[46][57][][57][Term of compulsory care order][57]
 
 [Part 5][58]  
 [Status and rights of care recipients][58]
 
-[Subpart 1][59]---[General status and specific rights][59]
+[Subpart 1][59][---][59][General status and specific rights][59]
 
 [Status generally][60]
 
-[47][61] [Requirement to accept care][61]
+[47][61][][61][Requirement to accept care][61]
 
 [Specific rights of care recipients][62]
 
-[48][63] [Care recipients are consumers under Code of Health and Disability Services Consumers' Rights][63]
+[48][63][][63][Care recipients are consumers under Code of Health and Disability Services Consumers' Rights][63]
 
-[49][64] [General rights to information][64]
+[49][64][][64][General rights to information][64]
 
-[50][65] [Respect for cultural identity][65]
+[50][65][][65][Respect for cultural identity][65]
 
-[51][66] [Medical treatment][66]
+[51][66][][66][Medical treatment][66]
 
-[52][67] [Rights in case of visual or audio recording][67]
+[52][67][][67][Rights in case of visual or audio recording][67]
 
-[53][68] [Right to independent health and disability advice][68]
+[53][68][][68][Right to independent health and disability advice][68]
 
-[54][69] [Right to legal advice][69]
+[54][69][][69][Right to legal advice][69]
 
-[55][70] [Right to company][70]
+[55][70][][70][Right to company][70]
 
-[56][71] [Right to receive visitors and communicate orally with persons outside facility][71]
+[56][71][][71][Right to receive visitors and communicate orally with persons outside facility][71]
 
-[57][72] [Right to receive and send written communications and other items][72]
+[57][72][][72][Right to receive and send written communications and other items][72]
 
-[58][73] [Written communications or other items not to be intercepted if sent by or to certain office holders][73]
+[58][73][][73][Written communications or other items not to be intercepted if sent by or to certain office holders][73]
 
-[59][74] [Procedure where written communications or other items intercepted][74]
+[59][74][][74][Procedure where written communications or other items intercepted][74]
 
-[Subpart 2][75]---[Specific powers exercisable over care recipients][75]
+[Subpart 2][75][---][75][Specific powers exercisable over care recipients][75]
 
-[60][76] [Seclusion][76]
+[60][76][][76][Seclusion][76]
 
-[61][77] [Restraint of care recipients][77]
+[61][77][][77][Restraint of care recipients][77]
 
-[62][78] [Enforced medical treatment][78]
+[62][78][][78][Enforced medical treatment][78]
 
-[Subpart 3][79]---[Requirement to stay in designated facilities or places][79]
+[Subpart 3][79][---][79][Requirement to stay in designated facilities or places][79]
 
 [Placement of care recipients][80]
 
-[63][81] [Designation notices relating to secure care][81]
+[63][81][][81][Designation notices relating to secure care][81]
 
-[64][82] [Directions relating to supervised care][82]
+[64][82][][82][Directions relating to supervised care][82]
 
 [Leave for care recipients no longer subject to criminal justice system][83]
 
-[65][84] [Care manager may grant leave][84]
+[65][84][][84][Care manager may grant leave][84]
 
 [Leave for special care recipients][85]
 
-[66][86] [Minister may authorise leave for special care recipients][86]
+[66][86][][86][Minister may authorise leave for special care recipients][86]
 
-[67][87] [Director-General may authorise short-term leave][87]
+[67][87][][87][Director-General may authorise short-term leave][87]
 
-[Subpart 4][88]---[Status of special care recipients subject to sentences][88]
+[Subpart 4][88][---][88][Status of special care recipients subject to sentences][88]
 
-[68][89] [When liability to detention under sentence ceases][89]
+[68][89][][89][When liability to detention under sentence ceases][89]
 
-[69][90] [Relationship between detention in secure facility and sentence][90]
+[69][90][][90][Relationship between detention in secure facility and sentence][90]
 
-[70][91] [Care recipient whose status changes under section 69 to be held in secure care][91]
+[70][91][][91][Care recipient whose status changes under section 69 to be held in secure care][91]
 
-[71][92] [Former care recipients subject to sentence to be taken to prison][92]
+[71][92][][92][Former care recipients subject to sentence to be taken to prison][92]
 
 [Part 6][93]  
 [Reviews of condition and status of care recipients][93]
 
-[Subpart 1][94]---[Initial review of care and rehabilitation plan or compulsory care order][94]
+[Subpart 1][94][---][94][Initial review of care and rehabilitation plan or compulsory care order][94]
 
-[72][95] [Co-ordinator to report to Family Court on appropriateness of order and plan][95]
+[72][95][][95][Co-ordinator to report to Family Court on appropriateness of order and plan][95]
 
-[73][96] [Co-ordinator must send copy of report to certain persons][96]
+[73][96][][96][Co-ordinator must send copy of report to certain persons][96]
 
-[74][97] [Review by Family Court][97]
+[74][97][][97][Review by Family Court][97]
 
-[75][98] [Family Court may call for reports][98]
+[75][98][][98][Family Court may call for reports][98]
 
-[76][99] [Family Court may make recommendations][99]
+[76][99][][99][Family Court may make recommendations][99]
 
-[Subpart 2][100]---[Condition of every care recipient to be reviewed][100]
+[Subpart 2][100][---][100][Condition of every care recipient to be reviewed][100]
 
-[77][101] [Regular clinical reviews of care recipients][101]
+[77][101][][101][Regular clinical reviews of care recipients][101]
 
-[78][102] [Reviews undertaken by specialist assessors][102]
+[78][102][][102][Reviews undertaken by specialist assessors][102]
 
-[79][103] [Specialist assessor to issue certificate][103]
+[79][103][][103][Specialist assessor to issue certificate][103]
 
-[80][104] [Specialist assessor to send certificate and reports to certain persons][104]
+[80][104][][104][Specialist assessor to send certificate and reports to certain persons][104]
 
-[81][105] [Co-ordinator to send copy of certificate to certain persons][105]
+[81][105][][105][Co-ordinator to send copy of certificate to certain persons][105]
 
-[Subpart 3][106]---[Change in status of care recipient no longer subject to criminal justice system and special care recipients liable to detention under sentence][106]
+[Subpart 3][106][---][106][Change in status of care recipient no longer subject to criminal justice system and special care recipients liable to detention under sentence][106]
 
 [Form of certificate][107]
 
-[82][108] [Form of clinical review certificate for care recipients no longer subject to criminal justice system and care recipients liable to detention under sentence][108]
+[82][108][][108][Form of clinical review certificate for care recipients no longer subject to criminal justice system and care recipients liable to detention under sentence][108]
 
 [Release from compulsory care][109]
 
-[83][110] [Status on expiry of term of compulsory care order][110]
+[83][110][][110][Status on expiry of term of compulsory care order][110]
 
-[84][111] [Cancellation of court orders of certain care recipients][111]
+[84][111][][111][Cancellation of court orders of certain care recipients][111]
 
 [Continuation of compulsory care][112]
 
-[85][113] [Extension of compulsory care order][113]
+[85][113][][113][Extension of compulsory care order][113]
 
-[86][114] [Co-ordinator may seek variation of compulsory care order][114]
+[86][114][][114][Co-ordinator may seek variation of compulsory care order][114]
 
-[87][115] [Court may defer expiry of order if application for extension pending][115]
+[87][115][][115][Court may defer expiry of order if application for extension pending][115]
 
-[88][116] [Co-ordinator and court to have regard to specialist assessor's certificate][116]
+[88][116][][116][Co-ordinator and court to have regard to specialist assessor's certificate][116]
 
-[Subpart 4][117]---[Status of certain special care recipients][117]
+[Subpart 4][117][---][117][Status of certain special care recipients][117]
 
 [Special care recipients detained because unfit to stand trial][118]
 
-[89][119] [Form of clinical review certificate for special care recipients detained because unfit to stand trial][119]
+[89][119][][119][Form of clinical review certificate for special care recipients detained because unfit to stand trial][119]
 
-[90][120] [Attorney-General to be notified if special care recipient considered fit to stand trial][120]
+[90][120][][120][Attorney-General to be notified if special care recipient considered fit to stand trial][120]
 
-[91][121] [Ministers to be notified if care for person as special care recipient considered no longer necessary][121]
+[91][121][][121][Ministers to be notified if care for person as special care recipient considered no longer necessary][121]
 
 [Special care recipients detained because acquitted on account of insanity][122]
 
-[92][123] [Form of clinical review certificate for special care recipients detained because acquitted on account of insanity][123]
+[92][123][][123][Form of clinical review certificate for special care recipients detained because acquitted on account of insanity][123]
 
-[93][124] [Where person considered not to require further care as special care recipient][124]
+[93][124][][124][Where person considered not to require further care as special care recipient][124]
 
 [Change of status of certain special care recipients resulting from ministerial directions or court order][125]
 
-[94][126] [Status of special care recipients found unfit to stand trial or insane][126]
+[94][126][][126][Status of special care recipients found unfit to stand trial or insane][126]
 
 [Part 7][127]  
 [Inspections and inquiries][127]
 
-[Subpart 1][128]---[Inspections, investigations, and inquiries by district inspectors][128]
+[Subpart 1][128][---][128][Inspections, investigations, and inquiries by district inspectors][128]
 
 [Inspections][129]
 
-[95][130] [Visits by district inspectors][130]
+[95][130][][130][Visits by district inspectors][130]
 
-[96][131] [Inspectors' access to persons and documents][131]
+[96][131][][131][Inspectors' access to persons and documents][131]
 
 [Complaints about breaches of rights][132]
 
-[97][133] [Complaint of breach of rights][133]
+[97][133][][133][Complaint of breach of rights][133]
 
-[98][134] [Investigation by district inspector][134]
+[98][134][][134][Investigation by district inspector][134]
 
-[99][135] [Care recipient to be informed of outcome of investigation][135]
+[99][135][][135][Care recipient to be informed of outcome of investigation][135]
 
-[100][136] [Duty of care manager to put things right][136]
+[100][136][][136][Duty of care manager to put things right][136]
 
 [Inquiries by district inspectors][137]
 
-[101][138] [Inquiries by district inspector][138]
+[101][138][][138][Inquiries by district inspector][138]
 
-[Subpart 2][139]---[Inquiry by High Court Judge][139]
+[Subpart 2][139][---][139][Inquiry by High Court Judge][139]
 
-[102][140] [Judge may call for report on care recipient or summon care recipient][140]
+[102][140][][140][Judge may call for report on care recipient or summon care recipient][140]
 
-[103][141] [Judge may summon witnesses][141]
+[103][141][][141][Judge may summon witnesses][141]
 
-[104][142] [Judge may release care recipient no longer subject to criminal justice system][142]
+[104][142][][142][Judge may release care recipient no longer subject to criminal justice system][142]
 
-[105][143] [Orders Judge may make in relation to special care recipient detained because unfit to stand trial][143]
+[105][143][][143][Orders Judge may make in relation to special care recipient detained because unfit to stand trial][143]
 
-[106][144] [Orders Judge may make in relation to special care recipient detained because acquitted on account of insanity][144]
+[106][144][][144][Orders Judge may make in relation to special care recipient detained because acquitted on account of insanity][144]
 
-[107][145] [Judge may report to Minister][145]
+[107][145][][145][Judge may report to Minister][145]
 
-[108][146] [Other remedies still available][146]
+[108][146][][146][Other remedies still available][146]
 
 [Part 8][147]  
 [Authority to take and detain care recipients][147]
 
 [Authority to detain under court orders][148]
 
-[109][149] [Authority to admit and detain under orders][149]
+[109][149][][149][Authority to admit and detain under orders][149]
 
 [Authority to take care recipients who escape][150]
 
-[110][151] [Meaning of care recipient who has escaped][151]
+[110][151][][151][Meaning of care recipient who has escaped][151]
 
-[111][152] [Power to retake care recipient absent without authority][152]
+[111][152][][152][Power to retake care recipient absent without authority][152]
 
-[112][153] [Warrant to enter and search places to retake escaped care recipients][153]
+[112][153][][153][Warrant to enter and search places to retake escaped care recipients][153]
 
-[113][154] [Entry of place without warrant][154]
+[113][154][][154][Entry of place without warrant][154]
 
-[114][155] [Matters to be observed when place entered][155]
+[114][155][][155][Matters to be observed when place entered][155]
 
 [Protection from criminal responsibility][156]
 
-[115][157] [Matters of justification or excuse][157]
+[115][157][][157][Matters of justification or excuse][157]
 
 [Part 9][158]  
 [Procedural provisions][158]
 
 [Which court?][159]
 
-[116][160] [Jurisdiction of Family Court][160]
+[116][160][][160][Jurisdiction of Family Court][160]
 
 [Persons entitled to be heard][161]
 
-[117][162] [Persons entitled to be heard on applications][162]
+[117][162][][162][Persons entitled to be heard on applications][162]
 
-[118][163] [Specialist assessors and care managers entitled to appear and be heard on certain applications][163]
+[118][163][][163][Specialist assessors and care managers entitled to appear and be heard on certain applications][163]
 
-[119][164] [Entitlement to be served with application][164]
+[119][164][][164][Entitlement to be served with application][164]
 
-[120][165] [Obligations of district inspector on receiving copy of application][165]
+[120][165][][165][Obligations of district inspector on receiving copy of application][165]
 
-[121][166] [Attendance at hearing by care recipient and person in support][166]
+[121][166][][166][Attendance at hearing by care recipient and person in support][166]
 
-[122][167] [Excusing or excluding care recipient][167]
+[122][167][][167][Excusing or excluding care recipient][167]
 
-[123][168] [Representation of persons entitled to be heard, and special rights of care recipient][168]
+[123][168][][168][Representation of persons entitled to be heard, and special rights of care recipient][168]
 
-[124][169] [Appointment by court of lawyer to represent care recipient][169]
+[124][169][][169][Appointment by court of lawyer to represent care recipient][169]
 
-[125][170] [Court may call for report on care recipient][170]
+[125][170][][170][Court may call for report on care recipient][170]
 
-[126][171] [Evidence on report][171]
+[126][171][][171][Evidence on report][171]
 
-[127][172] [Court not bound by rules of evidence][172]
+[127][172][][172][Court not bound by rules of evidence][172]
 
-[128][173] [Power of court to call witnesses][173]
+[128][173][][173][Power of court to call witnesses][173]
 
-[129][174] [Proceedings not open to public][174]
+[129][174][][174][Proceedings not open to public][174]
 
-[130][175] [Publication of reports of proceedings][175]
+[130][175][][175][Publication of reports of proceedings][175]
 
-[131][176] [Court may dispense with hearing in certain circumstances][176]
+[131][176][][176][Court may dispense with hearing in certain circumstances][176]
 
-[132][177] [Care recipient to be given copy of order][177]
+[132][177][][177][Care recipient to be given copy of order][177]
 
 [Appeals][178]
 
-[133][179] [Appeals from decisions of Family Courts][179]
+[133][179][][179][Appeals from decisions of Family Courts][179]
 
-[134][180] [Further appeal to Court of Appeal][180]
+[134][180][][180][Further appeal to Court of Appeal][180]
 
-[135][181] [Orders stay in force during appeal][181]
+[135][181][][181][Orders stay in force during appeal][181]
 
 [Part 10][182]  
 [Relationship with other Acts][182]
 
-[136][183] [Application to mentally disordered persons][183]
+[136][183][][183][Application to mentally disordered persons][183]
 
-[137][184] [Orders under Protection of Personal and Property Rights Act 1988][184]
+[137][184][][184][Orders under Protection of Personal and Property Rights Act 1988][184]
 
-[138][185] [Orders under Children, Young Persons, and Their Families Act 1989][185]
+[138][185][][185][Orders under Children, Young Persons, and Their Families Act 1989][185]
 
-[139][186] [Certain orders under Criminal Procedure (Mentally Impaired Persons) Act 2003 prevail over orders under this Act][186]
+[139][186][][186][Certain orders under Criminal Procedure (Mentally Impaired Persons) Act 2003 prevail over orders under this Act][186]
 
 [Part 11][187]  
 [Administration][187]
 
 [Co-ordinators, care managers, and district inspectors][188]
 
-[140][189] [Compulsory care co-ordinators][189]
+[140][189][][189][Compulsory care co-ordinators][189]
 
-[141][190] [Designation of care manager][190]
+[141][190][][190][Designation of care manager][190]
 
-[142][191] [Co-ordinator or care manager may delegate powers][191]
+[142][191][][191][Co-ordinator or care manager may delegate powers][191]
 
-[143][192] [Status of delegations][192]
+[143][192][][192][Status of delegations][192]
 
-[144][193] [Designation of district inspectors][193]
+[144][193][][193][Designation of district inspectors][193]
 
-[145][194] [No proceedings against district inspectors unless bad faith shown][194]
+[145][194][][194][No proceedings against district inspectors unless bad faith shown][194]
 
-[146][195] [Designation of specialist assessors and medical consultants][195]
+[146][195][][195][Designation of specialist assessors and medical consultants][195]
 
-[147][196] [Director-General of Health may call for reports][196]
+[147][196][][196][Director-General of Health may call for reports][196]
 
-[147A][197] [Crimes of Torture Act 1989 not limited][197]
+[147A][197][][197][Crimes of Torture Act 1989 not limited][197]
 
 [Standards, rules, and regulations][198]
 
-[148][199] [Director-General may promulgate guidelines and standards][199]
+[148][199][][199][Director-General may promulgate guidelines and standards][199]
 
-[149][200] [Rules][200]
+[149][200][][200][Rules][200]
 
-[150][201] [Regulations][201]
+[150][201][][201][Regulations][201]
 
 ---
 
@@ -1753,9 +1753,11 @@ Status and rights of care recipients
     
     (2) The co-ordinator must notify the Chief Executive of the Department of Corrections about a person to whom subsection (1) applies, and the chief executive must arrange for the person to be taken to a prison within 7 days after the date of the notification.
     
-    (3) For the purposes of this section, _prison_ includes a residence for the time being approved under [section 142A][246] of the Criminal Justice Act 1985\.
+    (3) For the purposes of this section, _prison_ includes a residence for the time being approved under [section 34A][246] of the Corrections Act 2004\.
     
     Compare: 1992 No 46 [s 47(1), (3)][247]
+    
+    Section 71(3): amended, on 1 July 2013, by [section 413][248] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 6  
 Reviews of condition and status of care recipients
@@ -1994,13 +1996,13 @@ Reviews of condition and status of care recipients
 
 ##### 90 Attorney-General to be notified if special care recipient considered fit to stand trial
     
-*   (1) If a certificate in the form required by [section 89][119] states that a person is no longer unfit to stand trial, the co-ordinator must forward the certificate to the Attorney-General for the purposes of [section 31][248] of the Criminal Procedure (Mentally Impaired Persons) Act 2003\.
+*   (1) If a certificate in the form required by [section 89][119] states that a person is no longer unfit to stand trial, the co-ordinator must forward the certificate to the Attorney-General for the purposes of [section 31][249] of the Criminal Procedure (Mentally Impaired Persons) Act 2003\.
     
     (2) In forwarding a certificate to the Attorney-General, the co-ordinator may add any comments or recommendations that the co-ordinator considers appropriate.
 
 ##### 91 Ministers to be notified if care for person as special care recipient considered no longer necessary
     
-*   (1) If a certificate in the form required by [section 89][119] states that a person is still unfit to stand trial, but that it is no longer necessary that the person be cared for as a special care recipient, the co-ordinator must forward the certificate to the Minister and the Attorney-General for the purposes of [section 31][248] of the Criminal Procedure (Mentally Impaired Persons) Act 2003\.
+*   (1) If a certificate in the form required by [section 89][119] states that a person is still unfit to stand trial, but that it is no longer necessary that the person be cared for as a special care recipient, the co-ordinator must forward the certificate to the Minister and the Attorney-General for the purposes of [section 31][249] of the Criminal Procedure (Mentally Impaired Persons) Act 2003\.
     
     (2) In forwarding a certificate to the Minister, the co-ordinator may add any comments or recommendations that the co-ordinator considers appropriate.
 
@@ -2020,7 +2022,7 @@ Reviews of condition and status of care recipients
 
 ##### 93 Where person considered not to require further care as special care recipient
     
-*   (1) If a certificate in the form required by [section 92][123] states the opinion specified in subsection (2)(b) of that section, the co-ordinator must forward the certificate to the Minister for the purposes of [section 33][249] of the Criminal Procedure (Mentally Impaired Persons) Act 2003\.
+*   (1) If a certificate in the form required by [section 92][123] states the opinion specified in subsection (2)(b) of that section, the co-ordinator must forward the certificate to the Minister for the purposes of [section 33][250] of the Criminal Procedure (Mentally Impaired Persons) Act 2003\.
     
     (2) In forwarding a certificate to the Minister, under subsection (1), the co-ordinator may add any comments or recommendations that the co-ordinator considers appropriate.
 
@@ -2028,7 +2030,7 @@ Reviews of condition and status of care recipients
 
 ##### 94 Status of special care recipients found unfit to stand trial or insane
     
-*   (1) On the date that a direction is given under [section 31][248] or [section 33][249] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 or [section 105][143] or [section 106][144] of this Act that a person be held as a care recipient, the direction becomes, for the purposes of this Act, a compulsory care order made under [section 45][56] that must be regarded as---
+*   (1) On the date that a direction is given under [section 31][249] or [section 33][250] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 or [section 105][143] or [section 106][144] of this Act that a person be held as a care recipient, the direction becomes, for the purposes of this Act, a compulsory care order made under [section 45][56] that must be regarded as---
         
     *   (a) having been made on that date in respect of that person for a term of 6 months; and
     
@@ -2065,7 +2067,7 @@ Inspections and inquiries
     
     (6) The district inspector may obtain advice on a particular matter from a specialist assessor appointed for the purpose by the co-ordinator, and that specialist assessor has, for that purpose, the powers of the district inspector to visit and inspect facilities.
     
-    Compare: 1992 No 46 [s 96][250]
+    Compare: 1992 No 46 [s 96][251]
 
 ##### 96 Inspectors' access to persons and documents
     
@@ -2077,7 +2079,7 @@ Inspections and inquiries
     
     *   (b) every communication or item withheld by the care manager under [section 57][72].
     
-    Compare: 1992 No 46 [s 97][251]
+    Compare: 1992 No 46 [s 97][252]
 
 #### Complaints about breaches of rights
 
@@ -2115,7 +2117,7 @@ Inspections and inquiries
     
     (2) If the care recipient or the person who complained on behalf of the care recipient is not satisfied with the outcome of the complaint, he or she may request the Director-General of Health to examine the complaint, and the Director-General must consider if further investigation is warranted.
     
-    Compare: 1992 No 46 [s 75][252]
+    Compare: 1992 No 46 [s 75][253]
 
 ##### 100 Duty of care manager to put things right
     
@@ -2137,11 +2139,11 @@ Inspections and inquiries
     
     (3) Despite subsections (1) and (2), no district inspector may inquire into an alleged breach of a right under the Code of Rights.
     
-    (4) For the purpose of conducting an inquiry under this Act, a district inspector has the same powers and authority to summon witnesses and receive evidence as are conferred on commissions of inquiry by the [Commissions of Inquiry Act 1908][253]; and the provisions of that Act, except [sections 11][254] and [12][255] (which relate to costs), apply accordingly.
+    (4) For the purpose of conducting an inquiry under this Act, a district inspector has the same powers and authority to summon witnesses and receive evidence as are conferred on commissions of inquiry by the [Commissions of Inquiry Act 1908][254]; and the provisions of that Act, except [sections 11][255] and [12][256] (which relate to costs), apply accordingly.
     
     (5) As soon as practicable after concluding an inquiry under this section, a district inspector must send a full report of the inquiry to the co-ordinator and to the Director-General of Health.
     
-    Compare: 1992 No 46 [s 95][256]
+    Compare: 1992 No 46 [s 95][257]
 
 ### Subpart 2---Inquiry by High Court Judge
 
@@ -2181,9 +2183,9 @@ Inspections and inquiries
     
     (2) After examining the accused under [section 102(2)][140], the Judge may,---
         
-    *   (a) if the Judge considers that the accused is capable of being tried or committed for trial on the charge or indictment against the accused, direct that the accused be brought before the appropriate court; or
+    *   (a) if the Judge considers the accused is capable of being tried on the charge, direct that the accused be brought before the appropriate court; or
     
-    *   (b) if in the circumstances of the case the Judge considers it proper to do so and the interests of justice so permit, direct that the charge or indictment against the accused be dismissed (whether or not the accused is capable of being tried or committed for trial).
+    *   (b) if in the circumstances of the case the Judge considers it proper to do so and the interests of justice so permit, direct that the charge against the accused be dismissed (whether or not the accused is capable of being tried).
     
     (3) If, after examining the accused under [section 102(2)][140], the Judge is satisfied that it is no longer necessary, in the accused's own interests or in the interests of the safety of any person, class of person, or the public, that the accused continue to be cared for as a special care recipient, the Judge may order that---
         
@@ -2192,6 +2194,10 @@ Inspections and inquiries
     *   (b) the accused cease to be a care recipient under this Act.
     
     Compare: 1992 No 46 [s 84(4)--(6)][212]
+    
+    Section 105(2)(a): replaced, on 1 July 2013, by [section 413][248] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 105(2)(b): replaced, on 1 July 2013, by [section 413][248] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 106 Orders Judge may make in relation to special care recipient detained because acquitted on account of insanity
     
@@ -2228,7 +2234,7 @@ Authority to take and detain care recipients
     
     *   (b) to take all reasonable steps to detain that care recipient in the facility during the period the designation is in force.
     
-    Compare: 1992 No 46 [s 113(2)][257]
+    Compare: 1992 No 46 [s 113(2)][258]
 
 #### Authority to take care recipients who escape
 
@@ -2268,11 +2274,11 @@ Authority to take and detain care recipients
     
     *   (c) to use any reasonable force that may be required to carry out any action referred to in paragraph (a) or paragraph (b).
     
-    Section 112(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][258] of the Policing Act 2008 (2008 No 72).
+    Section 112(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][259] of the Policing Act 2008 (2008 No 72).
     
-    Section 112(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][258] of the Policing Act 2008 (2008 No 72).
+    Section 112(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][259] of the Policing Act 2008 (2008 No 72).
     
-    Section 112(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][258] of the Policing Act 2008 (2008 No 72).
+    Section 112(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][259] of the Policing Act 2008 (2008 No 72).
 
 ##### 113 Entry of place without warrant
     
@@ -2290,11 +2296,11 @@ Authority to take and detain care recipients
     
     *   (b) use any reasonable force that may be required to enter or search the place or to take and remove the care recipient.
     
-    Section 113(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][258] of the Policing Act 2008 (2008 No 72).
+    Section 113(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][259] of the Policing Act 2008 (2008 No 72).
     
-    Section 113(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][258] of the Policing Act 2008 (2008 No 72).
+    Section 113(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][259] of the Policing Act 2008 (2008 No 72).
     
-    Section 113(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][258] of the Policing Act 2008 (2008 No 72).
+    Section 113(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][259] of the Policing Act 2008 (2008 No 72).
 
 ##### 114 Matters to be observed when place entered
     
@@ -2306,9 +2312,9 @@ Authority to take and detain care recipients
     
     *   (c) explain to that person the authority of the entry, and, where entry is made with a warrant, show the warrant to that person.
     
-    Section 114: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][258] of the Policing Act 2008 (2008 No 72).
+    Section 114: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][259] of the Policing Act 2008 (2008 No 72).
     
-    Section 114(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][258] of the Policing Act 2008 (2008 No 72).
+    Section 114(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][259] of the Policing Act 2008 (2008 No 72).
 
 #### Protection from criminal responsibility
 
@@ -2324,11 +2330,11 @@ Authority to take and detain care recipients
     
     (3) For the purposes of subsection (2), it is a question of law whether in the circumstances a person's belief is based on culpable ignorance or negligence.
     
-    (4) [Sections 30][259], [31][260], [34][261], [39][262], and [40][263] of the Crimes Act 1961 apply with any necessary modifications in respect of the power described in each of the sections listed in subsection (5) as if the power were a power of arrest.
+    (4) [Sections 30][260], [31][261], [34][262], [39][263], and [40][264] of the Crimes Act 1961 apply with any necessary modifications in respect of the power described in each of the sections listed in subsection (5) as if the power were a power of arrest.
     
     (5) The sections referred to in subsection (4) are [sections 111][152], [112(4)][153], and [113(3)][154].
     
-    Compare: 1992 No 46 [s 122][264]
+    Compare: 1992 No 46 [s 122][265]
 
 ## Part 9  
 Procedural provisions
@@ -2345,7 +2351,7 @@ Procedural provisions
     
     *   (b) by determining the application.
     
-    Compare: 1992 No 46 [s 17][265]
+    Compare: 1992 No 46 [s 17][266]
 
 #### Persons entitled to be heard
 
@@ -2413,7 +2419,7 @@ Procedural provisions
     
     (3) A person nominated under subsection (2) is not entitled to be heard at the hearing, unless the person is otherwise entitled to be heard.
     
-    Compare: 1992 No 46 [s 19(1)][266]
+    Compare: 1992 No 46 [s 19(1)][267]
 
 ##### 122 Excusing or excluding care recipient
     
@@ -2423,7 +2429,7 @@ Procedural provisions
     
     (3) A discretion conferred by this section may be exercised at any stage of the hearing.
     
-    Compare: 1992 No 46 [s 19(2)--(4)][266]
+    Compare: 1992 No 46 [s 19(2)--(4)][267]
 
 ##### 123 Representation of persons entitled to be heard, and special rights of care recipient
     
@@ -2443,7 +2449,7 @@ Procedural provisions
     
     *   (e) a lawyer representing a person referred to in any of paragraphs (a) to (d).
     
-    Compare: 1992 No 46 [s 20][267]
+    Compare: 1992 No 46 [s 20][268]
 
 ##### 124 Appointment by court of lawyer to represent care recipient
     
@@ -2463,7 +2469,7 @@ Procedural provisions
     
     (6) If the lawyer is dissatisfied with the decision of the Registrar as to the amount of the bill of costs, the lawyer may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision; and the Judge may confirm the decision or vary the decision in a way that the Judge considers fair and reasonable.
     
-    Compare: 1980 No 94 [s 162(1)--(5)][268]; 1989 No 24 [s 159(2)][269]
+    Compare: 1980 No 94 [s 162(1)--(5)][269]; 1989 No 24 [s 159(2)][270]
 
 ##### 125 Court may call for report on care recipient
     
@@ -2485,7 +2491,7 @@ Procedural provisions
     
     *   (b) that those fees and expenses be paid out of public money appropriated by Parliament for the purpose.
     
-    Compare: 1992 No 46 [s 21(1)--(4), (8)][270]
+    Compare: 1992 No 46 [s 21(1)--(4), (8)][271]
 
 ##### 126 Evidence on report
     
@@ -2493,13 +2499,13 @@ Procedural provisions
     
     (2) The court may call the person making the report as a witness, either on its own initiative or on the application of a party to the proceeding.
     
-    Compare: 1992 No 46 [s 21(5), (6)][270]
+    Compare: 1992 No 46 [s 21(5), (6)][271]
 
 ##### 127 Court not bound by rules of evidence
     
 *   In a proceeding on an application under this Act, whether at first instance or on appeal or otherwise, the court may receive any evidence that it thinks fit, whether it is admissible in a court of law or not.
     
-    Compare: 1992 No 46 [s 22][271]
+    Compare: 1992 No 46 [s 22][272]
 
 ##### 128 Power of court to call witnesses
     
@@ -2509,11 +2515,13 @@ Procedural provisions
     
     (3) A witness called by the court under this section may be examined and re-examined by the court, and may be cross-examined by or on behalf of any party to the proceeding.
     
-    (4) [Sections 20][272], [38][273], and [39][274] of the Summary Proceedings Act 1957, so far as they are applicable and with all necessary modifications, apply with respect to a person called as a witness by the court under this section as if that person had been called by a party to the proceeding.
+    (4) [Sections 159][273] and [161 to 165][274] of the Criminal Procedure Act 2011, so far as they are applicable and with all necessary modifications, apply with respect to a person called as a witness by the court under this section as if that person had been called by a party to the proceeding.
     
     (5) The expenses of a witness called by the court under this section must be met in the first instance, in accordance with the prescribed scale of witnesses' expenses, out of public money appropriated by Parliament for the purpose.
     
     Compare: 1992 No 46 [s 23][275]
+    
+    Section 128(4): amended, on 1 July 2013, by [section 413][248] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 129 Proceedings not open to public
     
@@ -2608,7 +2616,7 @@ Relationship with other Acts
     
     *   (b) any order under the [Criminal Procedure (Mentally Impaired Persons) Act 2003][205] requiring the detention of the special care recipient in a secure facility is deemed to require his or her detention in a hospital under the [Mental Health (Compulsory Assessment and Treatment) Act 1992][204]; and
     
-    *   (c) any direction given during that period under [section 31][248] or [section 33][249] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 that the special care recipient be held as a patient must be treated, on the return of that person to a facility, as a direction that the person be held as a care recipient no longer subject to the criminal justice system.
+    *   (c) any direction given during that period under [section 31][249] or [section 33][250] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 that the special care recipient be held as a patient must be treated, on the return of that person to a facility, as a direction that the person be held as a care recipient no longer subject to the criminal justice system.
     
     
 
@@ -2775,13 +2783,15 @@ Administration
     
     *   (b) the prescribing of medication for care recipients.
     
-    (3) All guidelines and standards issued under subsection (1) are regulations for the purposes of the [Regulations (Disallowance) Act 1989][290], but are not regulations for the purposes of the [Acts and Regulations Publication Act 1989][291].
+    (3) All guidelines and standards issued under subsection (1) are disallowable instruments, but not legislative instruments, for the purposes of the [Legislation Act 2012][290] and must be presented to the House of Representatives under [section 41][291] of that Act.
     
     Compare: 1992 No 46 [s 130][292]
+    
+    Section 148(3): replaced, on 5 August 2013, by [section 77(3)][293] of the Legislation Act 2012 (2012 No 119).
 
 ##### 149 Rules
     
-*   Rules may be made under [section 16A][293] of the Family Courts Act 1980 regulating the practice and procedure of Family Courts in proceedings under this Act.
+*   Rules may be made under [section 16A][294] of the Family Courts Act 1980 regulating the practice and procedure of Family Courts in proceedings under this Act.
 
 ##### 150 Regulations
     
@@ -2805,72 +2815,33 @@ Administration
     
     
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003\. The reprint incorporates all the amendments to the Act as at 18 May 2009, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][294] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][295] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][296] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][297] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][298] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][295] and [17E][296] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][293]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][248]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    [Intellectual Disability (Compulsory Care and Rehabilitation) Amendment Act 2008][299] (2008 No 81)
     
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Intellectual Disability (Compulsory Care and Rehabilitation) Amendment Act 2008][297] (2008 No 81)
-    
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][258]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][259]
     
     Crimes of Torture Amendment Act 2006 (2006 No 68): [section 11][289]
     
@@ -2878,11 +2849,11 @@ Administration
     
     Corrections Act 2004 (2004 No 50): [section 206][206]
     
-    [Intellectual Disability (Compulsory Care and Rehabilitation) Act Commencement Order 2004][298] (SR 2004/148)
+    [Intellectual Disability (Compulsory Care and Rehabilitation) Act Commencement Order 2004][300] (SR 2004/148)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2003/0116/latest/whole.html#DLM224581
 [2]: http://www.legislation.govt.nz/act/public/2003/0116/latest/whole.html#DLM224582
 [3]: http://www.legislation.govt.nz/act/public/2003/0116/latest/whole.html#DLM224583
@@ -3128,35 +3099,35 @@ Administration
 [243]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263435
 [244]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM137638
 [245]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263421
-[246]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM79102
+[246]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM5340700
 [247]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263409
-[248]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM223898
-[249]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM224501
-[250]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263843
-[251]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263847
-[252]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263473
-[253]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM139130
-[254]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM139172
-[255]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM139174
-[256]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263841
-[257]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263899
-[258]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM1102349
-[259]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM328244
-[260]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM328246
-[261]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM328249
-[262]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM328255
-[263]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM328256
-[264]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM264218
-[265]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263030
-[266]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263035
-[267]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263037
-[268]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM41840
-[269]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM151084
-[270]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263038
-[271]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263040
-[272]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM311316
-[273]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM311638
-[274]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM311640
+[248]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM3360714
+[249]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM223898
+[250]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM224501
+[251]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263843
+[252]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263847
+[253]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263473
+[254]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM139130
+[255]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM139172
+[256]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM139174
+[257]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263841
+[258]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263899
+[259]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM1102349
+[260]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM328244
+[261]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM328246
+[262]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM328249
+[263]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM328255
+[264]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM328256
+[265]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM264218
+[266]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263030
+[267]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263035
+[268]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263037
+[269]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM41840
+[270]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM151084
+[271]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263038
+[272]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263040
+[273]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM3360276
+[274]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM3360278
 [275]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263041
 [276]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263043
 [277]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM2061203
@@ -3172,12 +3143,14 @@ Administration
 [287]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM263827
 [288]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM192866
 [289]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM393152
-[290]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM195534
-[291]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM195097
+[290]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM2997643
+[291]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM2998573
 [292]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM264238
-[293]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM42296
-[294]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM195439
-[295]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM195468
-[296]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM195470
-[297]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM1303502
-[298]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM261168
+[293]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM2998633
+[294]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM42296
+[295]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM2998516
+[296]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM2998515
+[297]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM2998532
+[298]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[299]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM1303502
+[300]: http://www.legislation.govt.nz/act/public/2003/0116/latest/link.aspx?id=DLM261168
