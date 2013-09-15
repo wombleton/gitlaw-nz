@@ -1,3 +1,6 @@
+Reprint  
+as at 1 July 2013
+
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Local Government (Alcohol Reform) Amendment Act 2012Public Act2012 No 121
@@ -6,57 +9,69 @@ Date of assent18 December 2012
 
 Commencementsee section 2
 
+---
+
+###### Note
+
+Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+
+A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+
+This Act is administered by the Department of Internal Affairs.
+
+---
+
 ## Contents
 
-[1 ][0][][0][Title][0]
+[1][1][][1][Title][1]
 
-[2 ][1][][1][Commencement][1]
+[2][2][][2][Commencement][2]
 
-[3 ][2][][2][Principal Act][2]
+[3][3][][3][Principal Act][3]
 
-[4 ][3][][3][New sections 147 to 147C substituted][3]
+[4][4][][4][New sections 147 to 147C substituted][4]
 
-[147][4][][4][Power to make bylaws for alcohol control purposes][4]
+[147][5][][5][Power to make bylaws for alcohol control purposes][5]
 
-[147A][5][][5][Criteria for making or continuing bylaws][5]
+[147A][6][][6][Criteria for making or continuing bylaws][6]
 
-[147B][6][][6][Criteria for making resolutions relating to bylaws ][6]
+[147B][7][][7][Criteria for making resolutions relating to bylaws][7]
 
-[147C][7][][7][Signage for areas in which bylaws for alcohol control purposes apply][7]
+[147C][8][][8][Signage for areas in which bylaws for alcohol control purposes apply][8]
 
-[5 ][8][][8][New sections 169 and 169A and new heading substituted][8]
+[5][9][][9][New sections 169 and 169A and new heading substituted][9]
 
-[169][9][][9][Powers of arrest, search, and seizure in relation to alcohol bans][9]
+[169][10][][10][Powers of arrest, search, and seizure in relation to alcohol bans][10]
 
-[Matters of proof in relation to bylaws prohibiting alcohol in public place][10]
+[Matters of proof in relation to bylaws prohibiting alcohol in public place][11]
 
-[169A][11][][11][Proving substance is alcohol in relation to alleged breach of alcohol ban][11]
+[169A][12][][12][Proving substance is alcohol in relation to alleged breach of alcohol ban][12]
 
-[6 ][12][][12][New sections 239 and 239A substituted][12]
+[6][13][][13][New sections 239 and 239A substituted][13]
 
-[239][13][][13][Offences in respect of breaches of bylaws (other than alcohol bans)][13]
+[239][14][][14][Offences in respect of breaches of bylaws (other than alcohol bans)][14]
 
-[239A][14][][14][Breaches of alcohol bans][14]
+[239A][15][][15][Breaches of alcohol bans][15]
 
-[7 ][15][][15][New sections 243 and 244 substituted][15]
+[7][16][][16][New sections 243 and 244 substituted][16]
 
-[243][16][][16][Interpretation][16]
+[243][17][][17][Interpretation][17]
 
-[244][17][][17][Proceedings for infringement offences][17]
+[244][18][][18][Proceedings for infringement offences][18]
 
-[8 ][18][][18][Issue of infringement notices][18]
+[8][19][][19][Issue of infringement notices][19]
 
-[9 ][19][][19][New section 245A inserted][19]
+[9][20][][20][New section 245A inserted][20]
 
-[245A][20][][20][Constables may require certain information][20]
+[245A][21][][21][Constables may require certain information][21]
 
-[Transitional provisions][21]
+[Transitional provisions][22]
 
-[10 ][22][][22][References in bylaws to liquor][22]
+[10][23][][23][References in bylaws to liquor][23]
 
-[11 ][23][][23][Existing bylaws to expire][23]
+[11][24][][24][Existing bylaws to expire][24]
 
-[12 ][24][][24][Processing of certain proposals for bylaws][24]
+[12][25][][25][Processing of certain proposals for bylaws][25]
 
 ---
 
@@ -72,11 +87,11 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 3 Principal Act
     
-*   This Act amends the [Local Government Act 2002][25] (the **principal Act**).
+*   This Act amends the [Local Government Act 2002][26] (the **principal Act**).
 
 ##### 4 New sections 147 to 147C substituted
     
-*   [Section 147][26] is repealed and the following sections are substituted:
+*   [Section 147][27] is repealed and the following sections are substituted:
     
     > ##### "147 Power to make bylaws for alcohol control purposes
     >     
@@ -152,7 +167,7 @@ The Parliament of New Zealand enacts as follows:
     >     
     >     "(4) Subsection (1) does not apply to a bylaw of a kind described in subsection (3).
     > 
-    > ##### "147B Criteria for making resolutions relating to bylaws 
+    > ##### "147B Criteria for making resolutions relating to bylaws
     >     
     > *   Before making under section 151 a resolution relating to a bylaw under section 147, a territorial authority must be satisfied that---
     >         
@@ -186,7 +201,7 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 5 New sections 169 and 169A and new heading substituted
     
-*   [Section 169][27] is repealed and the following sections and heading are substituted:
+*   [Section 169][28] is repealed and the following sections and heading are substituted:
     
     > ##### "169 Powers of arrest, search, and seizure in relation to alcohol bans
     >     
@@ -252,7 +267,7 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 6 New sections 239 and 239A substituted
     
-*   [Section 239][28] is repealed and the following sections are substituted:
+*   [Section 239][29] is repealed and the following sections are substituted:
     
     > ##### "239 Offences in respect of breaches of bylaws (other than alcohol bans)
     >     
@@ -264,23 +279,23 @@ The Parliament of New Zealand enacts as follows:
     >         
     >     *   "(a) the breach were an infringement offence within the meaning of that Act; and
     >     
-    >     *   "(b) the person who has committed the breach has committed the offence; and 
+    >     *   "(b) the person who has committed the breach has committed the offence; and
     >     
     >     *   "(c) the references in subsection (9) of that section to a defendant's being found guilty of, or pleading guilty to, an infringement offence for which an infringement notice has been issued were references to the person's being found to have committed, or admitting to having committed, the breach;---
     >     
     >     "and Part 3 and section 208 of that Act apply accordingly.
     >     
-    >     "(2) Proceedings in respect of a breach of a bylaw made under section 147 cannot be commenced by the laying of an information under the Summary Proceedings Act 1957, or by the filing of a notice of prosecution under section 20A of that Act.
+    >     "(2) Proceedings in respect of a breach of a bylaw made under section 147 cannot be commenced by filing a charging document under section 14 of the Criminal Procedure Act 2011\.
     >     
     >     "(3) Subsection (2) overrides subsection (1) and section 21(1)(a) of the Summary Proceedings Act 1957\."
     > 
     > 
     
-    
+    Section 6: amended, on 1 July 2013, pursuant to [section 413][30] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 7 New sections 243 and 244 substituted
     
-*   [Sections 243][29] and [244][30] are repealed and the following sections substituted:
+*   [Sections 243][31] and [244][32] are repealed and the following sections substituted:
     
     > ##### "243 Interpretation
     >     
@@ -308,7 +323,7 @@ The Parliament of New Zealand enacts as follows:
     >     
     > *   "(1) A person who is alleged to have committed an infringement offence specified as such by regulations under section 259(a) may either---
     >         
-    >     *   "(a) be proceeded against under the Summary Proceedings Act 1957; or
+    >     *   "(a) be proceeded against under the Criminal Procedure Act 2011; or
     >     
     >     *   "(b) be served with an infringement notice under section 245\.
     >     
@@ -316,17 +331,17 @@ The Parliament of New Zealand enacts as follows:
     >         
     >     *   "(a) may be served with an infringement notice under section 245; and
     >     
-    >     *   "(b) must not be proceeded against under the Summary Proceedings Act 1957\."
+    >     *   "(b) must not be proceeded against under the Criminal Procedure Act 2011\."
     >     
     >     
     > 
     > 
     
-    
+    Section 7: amended, on 1 July 2013, pursuant to [section 413][30] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 8 Issue of infringement notices
     
-*   [Section 245][31] is amended by repealing subsection (2) and substituting the following subsections:
+*   [Section 245][33] is amended by repealing subsection (2) and substituting the following subsections:
     
     > *   "(2) An infringement notice not relating to a breach of an alcohol ban may be served---
     >         
@@ -352,7 +367,7 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 9 New section 245A inserted
     
-*   The following section is inserted after [section 245][31]:
+*   The following section is inserted after [section 245][33]:
     
     > ##### "245A Constables may require certain information
     >     
@@ -366,17 +381,17 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 10 References in bylaws to liquor
     
-*   Every reference to liquor in a bylaw under [section 147(2)][26] made before the commencement of this Act has effect as a reference to alcohol within the meaning of section 147(1).
+*   Every reference to liquor in a bylaw under [section 147(2)][27] made before the commencement of this Act has effect as a reference to alcohol within the meaning of section 147(1).
 
 ##### 11 Existing bylaws to expire
     
-*   Unless earlier revoked, a bylaw under [section 147(2)][26] made before the commencement of this section expires 5 years after the commencement of this Act.
+*   Unless earlier revoked, a bylaw under [section 147(2)][27] made before the commencement of this section expires 5 years after the commencement of this Act.
 
 ##### 12 Processing of certain proposals for bylaws
     
-*   If before the commencement of this Act proposals for a bylaw under [section 147(2)][26] have been released for public consultation,---
+*   If before the commencement of this Act proposals for a bylaw under [section 147(2)][27] have been released for public consultation,---
         
-    *   (a) the bylaw may be made as if section 4 had not been enacted; but
+    *   (a) the bylaw may be made as if [section 4][4] had not been enacted; but
     
     *   (b) it expires 5 years after it is made.
     
@@ -384,47 +399,107 @@ The Parliament of New Zealand enacts as follows:
 
 ---
 
-## Legislative history
-
-6 December 2012Divided from Alcohol Reform Bill by committee of the whole House as Bill 236--3B
-
-11 December 2012Third reading
-
-18 December 2012Royal assent
+#### Contents
+    
+*   1General
+*   2Status of reprints
+*   3How reprints are prepared
+*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
+*   5List of amendments incorporated in this reprint (most recent first)
 
 ---
 
-This Act is administered by the Department of Internal Affairs.
+##### Notes
 
-[0]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925700
-[1]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925701
-[2]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925702
-[3]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925708
-[4]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925709
-[5]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925716
-[6]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925717
-[7]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925718
-[8]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925719
-[9]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925720
-[10]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925729
-[11]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925730
-[12]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925732
-[13]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925733
-[14]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925734
-[15]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925735
-[16]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925736
-[17]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925745
-[18]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925746
-[19]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925747
-[20]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925748
-[21]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925749
-[22]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925750
-[23]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925751
-[24]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925752
-[25]: http://www.legislation.govt.nz/act/public/2012/0121/latest/link.aspx?id=DLM170872
-[26]: http://www.legislation.govt.nz/act/public/2012/0121/latest/link.aspx?id=DLM172980
-[27]: http://www.legislation.govt.nz/act/public/2012/0121/latest/link.aspx?id=DLM173433
-[28]: http://www.legislation.govt.nz/act/public/2012/0121/latest/link.aspx?id=DLM174042
-[29]: http://www.legislation.govt.nz/act/public/2012/0121/latest/link.aspx?id=DLM174051
-[30]: http://www.legislation.govt.nz/act/public/2012/0121/latest/link.aspx?id=DLM174056
-[31]: http://www.legislation.govt.nz/act/public/2012/0121/latest/link.aspx?id=DLM174057
+###### 1 General
+    
+*   This is a reprint of the Local Government (Alcohol Reform) Amendment Act 2012\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
+    
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][34] ![](/images/external_link.gif).
+
+###### 2 Status of reprints
+    
+*   Under [section 16D][35] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+    
+    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+
+###### 3 How reprints are prepared
+    
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][36] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+
+###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+    
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][37] and [17E][38] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+    
+    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    
+    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
+        
+    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
+    *   •typeface and type size (Times Roman, generally in 11.5 point)
+    *   •layout of provisions, including:
+            
+        *   •indentation
+        *   •position of section headings (eg, the number and heading now appear above the section)
+        
+    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
+    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
+    *   •position of the date of assent (it now appears on the front page of each Act)
+    *   •punctuation (eg, colons are not used after definitions)
+    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
+    *   •case and appearance of letters and words, including:
+            
+        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
+        *   •small capital letters in section and subsection references are now capital letters
+        
+    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
+    *   •running heads (the information that appears at the top of each page)
+    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    
+    
+
+###### 5 List of amendments incorporated in this reprint (most recent first)
+    
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][30]
+
+
+
+[0]: http://www.legislation.govt.nz/act/public/2012/0121/latest/link.aspx?id=DLM195466
+[1]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925700
+[2]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925701
+[3]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925702
+[4]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925708
+[5]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925709
+[6]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925716
+[7]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925717
+[8]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925718
+[9]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925719
+[10]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925720
+[11]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925729
+[12]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925730
+[13]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925732
+[14]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925733
+[15]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925734
+[16]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925735
+[17]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925736
+[18]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925745
+[19]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925746
+[20]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925747
+[21]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925748
+[22]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925749
+[23]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925750
+[24]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925751
+[25]: http://www.legislation.govt.nz/act/public/2012/0121/latest/whole.html#DLM4925752
+[26]: http://www.legislation.govt.nz/act/public/2012/0121/latest/link.aspx?id=DLM170872
+[27]: http://www.legislation.govt.nz/act/public/2012/0121/latest/link.aspx?id=DLM172980
+[28]: http://www.legislation.govt.nz/act/public/2012/0121/latest/link.aspx?id=DLM173433
+[29]: http://www.legislation.govt.nz/act/public/2012/0121/latest/link.aspx?id=DLM174042
+[30]: http://www.legislation.govt.nz/act/public/2012/0121/latest/link.aspx?id=DLM3360714
+[31]: http://www.legislation.govt.nz/act/public/2012/0121/latest/link.aspx?id=DLM174051
+[32]: http://www.legislation.govt.nz/act/public/2012/0121/latest/link.aspx?id=DLM174056
+[33]: http://www.legislation.govt.nz/act/public/2012/0121/latest/link.aspx?id=DLM174057
+[34]: http://www.pco.parliament.govt.nz/reprints/
+[35]: http://www.legislation.govt.nz/act/public/2012/0121/latest/link.aspx?id=DLM195439
+[36]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[37]: http://www.legislation.govt.nz/act/public/2012/0121/latest/link.aspx?id=DLM195468
+[38]: http://www.legislation.govt.nz/act/public/2012/0121/latest/link.aspx?id=DLM195470
