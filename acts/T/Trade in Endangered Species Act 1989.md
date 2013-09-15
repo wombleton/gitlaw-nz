@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1007,9 +1007,11 @@ Endangered Species Officers
     
 *   (1) Proceedings in respect of an offence against this Act shall be commenced promptly and prosecuted with due diligence if they arise in connection with the use of any vehicle or container seized under [section 39A][51].
     
-    (2) If no proceedings are taken in respect of the offence concerned within 6 months of the seizure under [section 39A][51] of any vehicle or container, or if the proceedings concerned are discharged or dismissed, the vehicle or container shall be released from the custody of the Director-General.
+    (2) If no proceedings are taken in respect of the offence concerned within 6 months of the seizure under [section 39A][51] of any vehicle or container, or if the proceedings concerned are dismissed, the vehicle or container shall be released from the custody of the Director-General.
     
     Section 39C: inserted, on 12 August 1991, by section 7 of the Trade in Endangered Species Amendment Act 1991 (1991 No 100).
+    
+    Section 39C(2): amended, on 1 July 2013, by [section 413][112] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 39D Forfeiture of seized vehicles and containers
     
@@ -1071,31 +1073,39 @@ Endangered Species Officers
     
     shall be held in the custody of the Crown until---
         
-    *   (c) a decision is made not to lay any information or charge in respect of the alleged offence for which the specimen, receptacle, or thing was seized; or
+    *   (c) a decision is made not to file any charging document in respect of the alleged offence for which the specimen, receptacle, or thing was seized; or
     
-    *   (d) where such a charge or information is laid, upon the completion of proceedings in respect of the alleged offence for which the specimen, receptacle, or thing was seized, or such sooner time as the court may determine.
+    *   (d) where such a charging document is filed, upon the completion of proceedings in respect of the alleged offence for which the specimen, receptacle, or thing was seized, or such sooner time as the court may determine.
     
-    (4) The decision whether or not to lay any information or charge in respect of an alleged offence for which any specimen, receptacle, or thing is seized under [section 39][50] shall be made as soon as reasonably practicable after that specimen, receptacle, or thing is seized, taken possession of, or detained.
+    (4) The decision whether or not to file any charging document in respect of an alleged offence for which any specimen, receptacle, or thing is seized under [section 39][50] shall be made as soon as reasonably practicable after that specimen, receptacle, or thing is seized, taken possession of, or detained.
     
-    Section 40(2)(b): amended, on 17 May 2005, by [section 3(1)][112] of the Trade in Endangered Species Amendment Act 2005 (2005 No 71).
+    Section 40(2)(b): amended, on 17 May 2005, by [section 3(1)][113] of the Trade in Endangered Species Amendment Act 2005 (2005 No 71).
     
-    Section 40(3)(b): amended, on 17 May 2005, by [section 3(2)][112] of the Trade in Endangered Species Amendment Act 2005 (2005 No 71).
+    Section 40(3)(b): amended, on 17 May 2005, by [section 3(2)][113] of the Trade in Endangered Species Amendment Act 2005 (2005 No 71).
     
-    Section 40(4): amended, on 17 May 2005, by [section 3(3)][112] of the Trade in Endangered Species Amendment Act 2005 (2005 No 71).
+    Section 40(3)(c): amended, on 1 July 2013, by [section 413][112] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 40(3)(d): amended, on 1 July 2013, by [section 413][112] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 40(4): amended, on 1 July 2013, by [section 413][112] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 40(4): amended, on 17 May 2005, by [section 3(3)][113] of the Trade in Endangered Species Amendment Act 2005 (2005 No 71).
 
 ##### 41 Release of seized specimens
     
 *   Subject to subsection (1) of section 39 and subsections (1) and (2) of [section 40][57], where any specimen, receptacle, or thing has been seized under [section 39][50] and not previously returned by the court pursuant to the proviso to subsection (4) of section 39, then---
         
-    *   (a) on a decision being made not to lay an information or charge; or
+    *   (a) on a decision being made not to file a charging document; or
     
     *   (b) on the acquittal of any person charged with an offence for which the specimen, receptacle, or thing is subject to forfeiture---
     
     such specimen, receptacle, or thing shall forthwith be released from the custody of the Crown to the owner or person who had possession of the specimen, receptacle, or thing at the time of seizure.
     
-    Section 41: amended, on 17 May 2005, by [section 4][113] of the Trade in Endangered Species Amendment Act 2005 (2005 No 71).
+    Section 41: amended, on 17 May 2005, by [section 4][114] of the Trade in Endangered Species Amendment Act 2005 (2005 No 71).
     
     Section 41: amended, on 12 August 1991, by section 8 of the Trade in Endangered Species Amendment Act 1991 (1991 No 100).
+    
+    Section 41(a): amended, on 1 July 2013, by [section 413][112] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 42 Disposal of seized specimens
     
@@ -1105,17 +1115,17 @@ Endangered Species Officers
     
     (3) All costs and expenses of and attendant upon any disposal of a specimen forfeited to the Crown and seized under [section 39(1)][50] shall be borne by the owner or the person who had possession thereof, and shall be recoverable from him or her as a debt due to the Crown, and no compensation shall be payable in respect thereof.
     
-    (4) Notwithstanding [sections 39(1)][50], [40(1) and (2)][57] and [section 51(1)][70], any specimen of an endangered, threatened, or exploited species seized under section 39 that is deemed to be the property of the Crown under [section 57][114] of the Wildlife Act 1953 shall be disposed of in accordance with that Act.
+    (4) Notwithstanding [sections 39(1)][50], [40(1) and (2)][57] and [section 51(1)][70], any specimen of an endangered, threatened, or exploited species seized under section 39 that is deemed to be the property of the Crown under [section 57][115] of the Wildlife Act 1953 shall be disposed of in accordance with that Act.
     
-    Section 42(3): amended, on 17 May 2005, by [section 5][115] of the Trade in Endangered Species Amendment Act 2005 (2005 No 71).
+    Section 42(3): amended, on 17 May 2005, by [section 5][116] of the Trade in Endangered Species Amendment Act 2005 (2005 No 71).
 
 ##### 43 Duty of officers and employees of postal operators
     
-*   (1) It is the duty of all officers and employees of every postal operator within the meaning of the [Postal Services Act 1998][116] to assist in carrying out the provisions of this Part and to prevent the import into and export from New Zealand of any specimen of an endangered, threatened, or exploited species otherwise than in accordance with this Act.
+*   (1) It is the duty of all officers and employees of every postal operator within the meaning of the [Postal Services Act 1998][117] to assist in carrying out the provisions of this Part and to prevent the import into and export from New Zealand of any specimen of an endangered, threatened, or exploited species otherwise than in accordance with this Act.
     
-    (2) Where any postal article (within the meaning of the [Postal Services Act 1998][116]) is delivered, pursuant to [section 10(2)(c)][117] of that Act, to the Director-General or to such other person as the Director-General has directed, the provisions of this Act, so far as applicable and with all necessary modifications, apply as if the postal article had been seized, pursuant to subsection (2) or subsection (3) of [section 39][50] of this Act (whichever subsection is applicable), on the date on that delivery.
+    (2) Where any postal article (within the meaning of the [Postal Services Act 1998][117]) is delivered, pursuant to [section 10(2)(c)][118] of that Act, to the Director-General or to such other person as the Director-General has directed, the provisions of this Act, so far as applicable and with all necessary modifications, apply as if the postal article had been seized, pursuant to subsection (2) or subsection (3) of [section 39][50] of this Act (whichever subsection is applicable), on the date on that delivery.
     
-    Section 43: substituted, on 1 April 1998, by [section 62(1)][118] of the Postal Services Act 1998 (1998 No 2).
+    Section 43: substituted, on 1 April 1998, by [section 62(1)][119] of the Postal Services Act 1998 (1998 No 2).
 
 ## Part 4  
 Miscellaneous provisions
@@ -1130,7 +1140,7 @@ Miscellaneous provisions
     
     (4) The Director-General may require an applicant to bear the cost of taking and analysis of samples required pursuant to this section.
     
-    Section 43A: inserted, on 14 May 1998, by [section 11][119] of the Trade in Endangered Species Amendment Act 1998 (1998 No 17).
+    Section 43A: inserted, on 14 May 1998, by [section 11][120] of the Trade in Endangered Species Amendment Act 1998 (1998 No 17).
 
 ##### 44 Trading in endangered, threatened, or exploited species without permit or certificate
     
@@ -1142,25 +1152,31 @@ Miscellaneous provisions
     
     *   (c) trades in any specimen of an exploited species without the appropriate permit or certificate granted under any of [sections 21 to 24][27].
     
-    (2) Every person who commits an offence against subsection (1)(a) is liable on conviction on indictment,---
+    (2) Every person who commits an offence against subsection (1)(a) is liable on conviction,---
         
     *   (a) in the case of a natural person, to imprisonment for a term not exceeding 5 years or to a fine not exceeding $100,000, or to both:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $200,000\.
     
-    (3) Every person who commits an offence against subsection (1)(b) is liable on conviction on indictment,---
+    (3) Every person who commits an offence against subsection (1)(b) is liable on conviction,---
         
     *   (a) in the case of a natural person, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $50,000, or to both:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $100,000\.
     
-    (4) Every person who commits an offence against subsection (1)(c) is liable on summary conviction,---
+    (4) Every person who commits an offence against subsection (1)(c) is liable on conviction,---
         
     *   (a) in the case of a natural person, to a fine not exceeding $37,500:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $75,000\.
     
     Section 44: substituted, on 12 August 1991, by section 9 of the Trade in Endangered Species Amendment Act 1991 (1991 No 100).
+    
+    Section 44(2): amended, on 1 July 2013, by [section 413][112] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 44(3): amended, on 1 July 2013, by [section 413][112] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 44(4): amended, on 1 July 2013, by [section 413][112] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 45 Possession of specimens of endangered, threatened, or exploited species
     
@@ -1170,19 +1186,19 @@ Miscellaneous provisions
     
     *   (b) is intended to be exported or re-exported from New Zealand otherwise than in accordance with this Act.
     
-    (2) Every person who commits an offence against subsection (1) in respect of a specimen of an endangered species is liable on conviction on indictment,---
+    (2) Every person who commits an offence against subsection (1) in respect of a specimen of an endangered species is liable on conviction,---
         
     *   (a) in the case of a natural person, to imprisonment for a term not exceeding 5 years or to a fine not exceeding $100,000, or to both:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $200,000\.
     
-    (3) Every person who commits an offence against subsection (1) in respect of a specimen of a threatened species is liable on conviction on indictment,---
+    (3) Every person who commits an offence against subsection (1) in respect of a specimen of a threatened species is liable on conviction,---
         
     *   (a) in the case of a natural person, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $50,000, or to both:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $100,000\.
     
-    (4) Every person who commits an offence against subsection (1) in respect of a specimen of an exploited species is liable on summary conviction,---
+    (4) Every person who commits an offence against subsection (1) in respect of a specimen of an exploited species is liable on conviction,---
         
     *   (a) in the case of a natural person, to a fine not exceeding $37,500:
     
@@ -1190,19 +1206,27 @@ Miscellaneous provisions
     
     Section 45: substituted, on 12 August 1991, by section 9 of the Trade in Endangered Species Amendment Act 1991 (1991 No 100).
     
-    Section 45(1): amended, on 14 May 1998, by [section 12][120] of the Trade in Endangered Species Amendment Act 1998 (1998 No 17).
+    Section 45(1): amended, on 14 May 1998, by [section 12][121] of the Trade in Endangered Species Amendment Act 1998 (1998 No 17).
+    
+    Section 45(2): amended, on 1 July 2013, by [section 413][112] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 45(3): amended, on 1 July 2013, by [section 413][112] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 45(4): amended, on 1 July 2013, by [section 413][112] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 46 Failure to comply with conditions of permit or certificate
     
 *   (1) Every person commits an offence who fails to comply with any of the conditions specified by the Director-General in respect of any permit or certificate granted to him or her under [Part 1][11].
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction,---
+    (2) Every person who commits an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of a natural person, to a fine not exceeding $10,000:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $20,000\.
     
     Section 46: substituted, on 12 August 1991, by section 9 of the Trade in Endangered Species Amendment Act 1991 (1991 No 100).
+    
+    Section 46(2): amended, on 1 July 2013, by [section 413][112] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 47 Making false statements
     
@@ -1212,9 +1236,11 @@ Miscellaneous provisions
     
     *   (b) recklessly makes a statement that is false in a material particular.
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $5,000\.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $5,000\.
     
     Section 47: substituted, on 12 August 1991, by section 9 of the Trade in Endangered Species Amendment Act 1991 (1991 No 100).
+    
+    Section 47(2): amended, on 1 July 2013, by [section 413][112] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 48 Obstructing or hindering officer
     
@@ -1222,7 +1248,9 @@ Miscellaneous provisions
 
 ##### 49 General offence
     
-*   Every person who commits an offence against this Act for which no penalty is provided otherwise than in this section is liable, on summary conviction, to a fine not exceeding $2,000\.
+*   Every person who commits an offence against this Act for which no penalty is provided otherwise than in this section is liable, on conviction, to a fine not exceeding $2,000\.
+    
+    Section 49: amended, on 1 July 2013, by [section 413][112] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 50 Onus of proof in respect of certain offences
     
@@ -1292,13 +1320,13 @@ Miscellaneous provisions
     
     *   (g) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
     
-    Section 54(ea): inserted, on 14 May 1998, by [section 13][121] of the Trade in Endangered Species Amendment Act 1998 (1998 No 17).
+    Section 54(ea): inserted, on 14 May 1998, by [section 13][122] of the Trade in Endangered Species Amendment Act 1998 (1998 No 17).
     
     Section 54(f): substituted, on 12 August 1991, by section 12 of the Trade in Endangered Species Amendment Act 1991 (1991 No 100).
 
 ##### 55 Consequential amendment
     
-*   _Amendment(s) incorporated in the [Act(s)][122]._
+*   _Amendment(s) incorporated in the [Act(s)][123]._
 
 ---
 
@@ -1307,7 +1335,7 @@ Species endangered by trade
 
 [s 3(1)][4]
 
-*   Schedule 1: substituted, on 10 November 2011, by [clause 3][123] of the Trade in Endangered Species Order 2011 (SR 2011/369).
+*   Schedule 1: substituted, on 10 November 2011, by [clause 3][124] of the Trade in Endangered Species Order 2011 (SR 2011/369).
 
 The classes, families, and species listed in this schedule are arranged in descending order by class then in alphabetical order by order, family, and species. This order of arrangement is adopted in the Convention on International Trade in Endangered Species of Wild Fauna and Flora (**CITES**).
 
@@ -2599,7 +2627,7 @@ Species threatened by trade
 
 [s 3(1)][4]
 
-*   Schedule 2: substituted, on 10 November 2011, by [clause 3][123] of the Trade in Endangered Species Order 2011 (SR 2011/369).
+*   Schedule 2: substituted, on 10 November 2011, by [clause 3][124] of the Trade in Endangered Species Order 2011 (SR 2011/369).
 
 The classes, families and species listed in this schedule are arranged in descending order by class then in alphabetical order by order, family, and species. This order of arrangement is adopted in the Convention on International Trade in Endangered Species of Wild Fauna and Flora (**CITES**).
 
@@ -3534,7 +3562,7 @@ Species exploited by trade
 
 [s 3(1)][4]
 
-*   Schedule 3: substituted, on 10 November 2011, by [clause 3][123] of the Trade in Endangered Species Order 2011 (SR 2011/369).
+*   Schedule 3: substituted, on 10 November 2011, by [clause 3][124] of the Trade in Endangered Species Order 2011 (SR 2011/369).
 
 The classes, families, and species listed in this schedule are arranged in descending order by class then in alphabetical order by order, family, and species. This order of arrangement is adopted in the Convention on International Trade in Endangered Species of Wild Fauna and Flora (**CITES**).
 
@@ -3924,76 +3952,6 @@ Kernel and any derivative thereof.
 
 ---
 
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][124].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][125] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
-
----
-
 #### Contents
     
 *   1General
@@ -4008,23 +3966,23 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Trade in Endangered Species Act 1989\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Trade in Endangered Species Act 1989\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][126] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][125] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][127] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][126] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][128] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][127] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][129] and [17E][130] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][128] and [17E][129] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -4057,7 +4015,9 @@ Amendments, repeals, and miscellaneous provisions
     
 *   Search and Surveillance Act 2012 (2012 No 24): [section 303][100]
     
-    [Trade in Endangered Species Order 2011][131] (SR 2011/369)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][112]
+    
+    [Trade in Endangered Species Order 2011][130] (SR 2011/369)
     
     Immigration Act 2009 (2009 No 51): [section 406(1)][87]
     
@@ -4071,11 +4031,11 @@ Amendments, repeals, and miscellaneous provisions
     
     Trade in Endangered Species Amendment Act 1999 (1999 No 50)
     
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][132]
+    District Courts Amendment Act 1998 (1998 No 76): [section 7][131]
     
     Trade in Endangered Species Amendment Act 1998 (1998 No 17)
     
-    Postal Services Act 1998 (1998 No 2): [section 62(1)][118]
+    Postal Services Act 1998 (1998 No 2): [section 62(1)][119]
     
     Trade in Endangered Species Amendment Act 1996 (1996 No 149)
     
@@ -4203,24 +4163,23 @@ Amendments, repeals, and miscellaneous provisions
 [109]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM377342
 [110]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM314629
 [111]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM968600
-[112]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM348996
-[113]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM348997
-[114]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM278118
-[115]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM348998
-[116]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM423257
-[117]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM423710
-[118]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM423785
-[119]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM425616
-[120]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM425617
-[121]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM425618
-[122]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM107200
-[123]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM4063906
-[124]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM2136500
-[125]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM4686448
-[126]: http://www.pco.parliament.govt.nz/reprints/
-[127]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM195439
-[128]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[129]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM195468
-[130]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM195470
-[131]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM4063910
-[132]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM427920
+[112]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM3360714
+[113]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM348996
+[114]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM348997
+[115]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM278118
+[116]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM348998
+[117]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM423257
+[118]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM423710
+[119]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM423785
+[120]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM425616
+[121]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM425617
+[122]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM425618
+[123]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM107200
+[124]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM4063906
+[125]: http://www.pco.parliament.govt.nz/reprints/
+[126]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM195439
+[127]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[128]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM195468
+[129]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM195470
+[130]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM4063910
+[131]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM427920
