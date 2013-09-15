@@ -1,5 +1,5 @@
 Reprint  
-as at 24 October 2012
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Business, Innovation, and Employment.
 
@@ -2198,7 +2198,7 @@ Designated services and specified services
 
 ##### 30M Standard terms determination
     
-*   As soon as practicable after completing any consultation or conferences under [section 30L][64], or if there is no consultation or there are no conferences, after the closing date for submissions under [section 30K(1)(e)][63], the Commission must---
+*   (1) As soon as practicable after completing any consultation or conferences under [section 30L][64], or if there is no consultation or there are no conferences, after the closing date for submissions under [section 30K(1)(e)][63], the Commission must---
         
     *   (a) prepare a standard terms determination; and
     
@@ -2206,7 +2206,11 @@ Designated services and specified services
     
     *   (c) give public notice of the standard terms determination.
     
+    (2) A standard terms determination is neither a legislative instrument nor a disallowable instrument for the purposes of the [Legislation Act 2012][545] (and does not have to be presented to the House of Representatives under [section 41][546] of that Act).
+    
     Section 30M: inserted, on 22 December 2006, by [section 13][544] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    
+    Section 30M(2): inserted, on 5 August 2013, by [section 77(3)][547] of the Legislation Act 2012 (2012 No 119).
 
 ##### 30N Commission's discretion to determine how standard terms determination is to be prepared
     
@@ -2518,7 +2522,7 @@ Designated services and specified services
 
 #### Commission may initiate process for designated multinetwork service determination on own initiative
     
-*   Heading: inserted, on 22 December 2006, by [section 14][545] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+*   Heading: inserted, on 22 December 2006, by [section 14][548] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 31AA Commission may initiate process for designated multinetwork service determination on own initiative
     
@@ -2530,7 +2534,7 @@ Designated services and specified services
     
     (2) The Commission may decide to initiate that process only if it is satisfied that there are reasonable grounds for doing so.
     
-    Section 31AA: inserted, on 22 December 2006, by [section 14][545] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 31AA: inserted, on 22 December 2006, by [section 14][548] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 #### Application
 
@@ -2582,7 +2586,7 @@ Designated services and specified services
     
     *   (c) request all the parties to the determination to comment on the matter by written notice to the Commission not later than 10 working days after receipt of the notice from the Commission.
     
-    Section 34: substituted, on 22 December 2006, by [section 15][546] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 34: substituted, on 22 December 2006, by [section 15][549] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 #### Investigation
 
@@ -2596,7 +2600,7 @@ Designated services and specified services
     
     *   (c) give public notice of its decision.
     
-    Section 35: amended, on 22 December 2006, by [section 16][547] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 35: amended, on 22 December 2006, by [section 16][550] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 #### Draft determination
 
@@ -2710,13 +2714,13 @@ Designated services and specified services
     
     (4) Subsections (2) and (3) are for the avoidance of doubt.
     
-    Section 42(1): amended, on 22 December 2006, by [section 17(1)][548] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 42(1): amended, on 22 December 2006, by [section 17(1)][551] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 42(1A): inserted, on 22 December 2006, by [section 17(2)][548] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 42(1A): inserted, on 22 December 2006, by [section 17(2)][551] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 42(2): amended, on 22 December 2006, by [section 17(1)][548] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 42(2): amended, on 22 December 2006, by [section 17(1)][551] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 42(3): amended, on 22 December 2006, by [section 17(1)][548] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 42(3): amended, on 22 December 2006, by [section 17(1)][551] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 43 Requirements for application
     
@@ -2738,7 +2742,7 @@ Designated services and specified services
     
     *   (e) be accompanied by the prescribed fee, if any.
     
-    Section 43(b): substituted, on 22 December 2006, by [section 18][549] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 43(b): substituted, on 22 December 2006, by [section 18][552] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 #### Notification
 
@@ -2754,7 +2758,7 @@ Designated services and specified services
     
     *   (d) give public notice of the application.
     
-    Section 44(b): amended, on 22 December 2006, by [section 19][550] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 44(b): amended, on 22 December 2006, by [section 19][553] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 #### Calculation of price
 
@@ -2782,17 +2786,17 @@ Designated services and specified services
     
     (3) Subsection (2) is subject to the requirement (if any) set out in [subpart 1][478] of Part 2 of Schedule 1 in respect of the applicable final pricing principle.
     
-    Section 45(1): amended, on 22 December 2006, by [section 20(1)][551] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 45(1): amended, on 22 December 2006, by [section 20(1)][554] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 45(2): amended, on 22 December 2006, by [section 20(2)][551] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 45(2): amended, on 22 December 2006, by [section 20(2)][554] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 45(2)(a)(ii): substituted, on 22 December 2006, by [section 20(3)][551] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 45(2)(a)(ii): substituted, on 22 December 2006, by [section 20(3)][554] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 46 Offences
     
 *   \[Repealed\]
     
-    Section 46: repealed, on 22 December 2006, by [section 21][552] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 46: repealed, on 22 December 2006, by [section 21][555] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 #### Draft determination
 
@@ -2842,7 +2846,7 @@ Designated services and specified services
     
     *   (f) the proposed expiry date of the determination.
     
-    Section 49(a)(ii): substituted, on 22 December 2006, by [section 22][553] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 49(a)(ii): substituted, on 22 December 2006, by [section 22][556] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 #### Consultation
 
@@ -2886,7 +2890,7 @@ Designated services and specified services
     
     *   (f) the expiry date of the determination.
     
-    Section 52(a)(ii): substituted, on 22 December 2006, by [section 23][554] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 52(a)(ii): substituted, on 22 December 2006, by [section 23][557] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ### Subpart 5---Supplementary provisions for all determinations
 
@@ -2914,7 +2918,7 @@ Designated services and specified services
     
     *   (c) determine any costs under [sections 55][126] and [56][127].
     
-    Section 54(1): amended, on 22 December 2006, by [section 24][555] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 54(1): amended, on 22 December 2006, by [section 24][558] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 55 Commission's costs
     
@@ -2928,7 +2932,7 @@ Designated services and specified services
     
     *   (c) by a combination of the ways referred to in paragraphs (a) and (b).
     
-    Section 55(2): added, on 22 December 2006, by [section 25][556] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 55(2): added, on 22 December 2006, by [section 25][559] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 56 Parties' costs
     
@@ -2958,7 +2962,7 @@ Designated services and specified services
     
     (2) The Commission must give public notice of an amendment to a determination made under subsection (1).
     
-    Section 58(1)(b): repealed, on 22 December 2006, by [section 26][557] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 58(1)(b): repealed, on 22 December 2006, by [section 26][560] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 59 Reconsideration of determination
     
@@ -2978,7 +2982,7 @@ Designated services and specified services
     
     (5) The Commission must give public notice of a revoked or amended determination or a revoked and substituted determination.
     
-    Section 59(1)(b): repealed, on 22 December 2006, by [section 27][558] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 59(1)(b): repealed, on 22 December 2006, by [section 27][561] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 60 Appeals from certain determinations under Part 2
     
@@ -3004,13 +3008,13 @@ Designated services and specified services
     
     (5) \[Repealed\]
     
-    Section 60(5): repealed, on 1 January 2004, by [section 48(2)][559] of the Supreme Court Act 2003 (2003 No 53).
+    Section 60(5): repealed, on 1 January 2004, by [section 48(2)][562] of the Supreme Court Act 2003 (2003 No 53).
 
 ##### 61 Enforcing determinations of Commission
     
 *   \[Repealed\]
     
-    Section 61: repealed, on 22 December 2006, by [section 28][560] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 61: repealed, on 22 December 2006, by [section 28][563] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 62 Expiry of determinations
     
@@ -3020,11 +3024,11 @@ Designated services and specified services
     
     *   (b) the date on which the designated service or specified service to which the determination applies ceases to have that status because it has been omitted from [Schedule 1][461] under [section 66(b)][138].
     
-    Section 62: substituted, on 22 December 2006, by [section 29][561] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 62: substituted, on 22 December 2006, by [section 29][564] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 63 Application of Commerce Act 1986
     
-*   [Part 2][562] of the Commerce Act 1986 does not apply in respect of a determination made under this Part or any matter necessary for giving effect to a determination made under this Part.
+*   [Part 2][565] of the Commerce Act 1986 does not apply in respect of a determination made under this Part or any matter necessary for giving effect to a determination made under this Part.
 
 ### Subpart 6---Matters relating to regulation-making powers for designated services and specified services
 
@@ -3032,13 +3036,13 @@ Designated services and specified services
     
 *   \[Repealed\]
     
-    Section 64: repealed, on 22 December 2006, by [section 30][563] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 64: repealed, on 22 December 2006, by [section 30][566] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 65 Expiry of designated services and specified services
     
 *   \[Repealed\]
     
-    Section 65: repealed, on 22 December 2006, by [section 30][563] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 65: repealed, on 22 December 2006, by [section 30][566] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 66 Alterations to Part 2 or Part 3 of Schedule 1
     
@@ -3102,7 +3106,7 @@ Designated services and specified services
 
 ##### 67 Alterations to clauses 1 to 6 of Schedule 1
     
-*   The Governor-General may, by Order in Council made on the recommendation of the Minister, amend any of [clauses 1 to 6][564] of Schedule 1\.
+*   The Governor-General may, by Order in Council made on the recommendation of the Minister, amend any of [clauses 1 to 6][567] of Schedule 1\.
 
 ##### 68 Minister's recommendation subject to procedure in Schedule 3
     
@@ -3110,9 +3114,9 @@ Designated services and specified services
     
     (2) The Commission's recommendation must be made in accordance with the procedure set out in---
         
-    *   (a) [Part 2][565] of Schedule 3 for a telecommunications service that is omitted from [Part 3][469] of Schedule 1 and is added to [Part 2][468] of that schedule; or
+    *   (a) [Part 2][568] of Schedule 3 for a telecommunications service that is omitted from [Part 3][469] of Schedule 1 and is added to [Part 2][468] of that schedule; or
     
-    *   (b) [Part 1][566] of Schedule 3 in any other case.
+    *   (b) [Part 1][569] of Schedule 3 in any other case.
     
     (3) This section does not prevent the Minister from making a recommendation under [section 66][138] or [67][139] to amend the detail of a proposed alteration so long as the recommendation---
         
@@ -3120,7 +3124,7 @@ Designated services and specified services
     
     *   (b) does not differ from that recommendation in any material way (for example, other than in matters of drafting style or minor detail).
     
-    Section 68: substituted, on 22 December 2006, by [section 31][567] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 68: substituted, on 22 December 2006, by [section 31][570] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 68A Application of Schedule 3A
     
@@ -3128,7 +3132,7 @@ Designated services and specified services
     
     (2) However, [Schedule 3A][464] does not limit [Schedule 3][463].
     
-    Section 68A: inserted, on 22 December 2006, by [section 31][567] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 68A: inserted, on 22 December 2006, by [section 31][570] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 69 Regulations
     
@@ -3153,11 +3157,11 @@ Designated services and specified services
 ## Part 2A  
 Structural separation of Telecom
     
-*   Part 2A: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Part 2A: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ### Subpart 1---Preliminary provisions
     
-*   Subpart 1 heading: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Subpart 1 heading: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69A Purpose of Part
     
@@ -3167,7 +3171,7 @@ Structural separation of Telecom
     
     *   (b) efficient investment in telecommunications infrastructure and services.
     
-    Section 69A: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69A: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69B Interpretation
     
@@ -3201,7 +3205,7 @@ Structural separation of Telecom
     
     _ChorusCo_ means the company that is to be demerged from Telecom on separation day in accordance with the demerger arrangement
     
-    _demerger arrangement_ means an arrangement approved by the court pursuant to [Part 15][569] of the Companies Act 1993 on the application of Telecom involving the distribution of 100% of the ordinary shares held by Telecom Corporation of New Zealand Limited in ChorusCo to the holders (including a nominee for holders) of ordinary shares in Telecom Corporation of New Zealand Limited
+    _demerger arrangement_ means an arrangement approved by the court pursuant to [Part 15][572] of the Companies Act 1993 on the application of Telecom involving the distribution of 100% of the ordinary shares held by Telecom Corporation of New Zealand Limited in ChorusCo to the holders (including a nominee for holders) of ordinary shares in Telecom Corporation of New Zealand Limited
     
     _liabilities_ means liabilities, debts, charges, duties, and obligations of every description, whether present or future, actual or contingent, and whether payable or to be observed or performed in New Zealand or elsewhere
     
@@ -3211,11 +3215,11 @@ Structural separation of Telecom
     
     _separation day_ means the day on which Telecom Corporation of New Zealand Limited distributes 100% of the ordinary shares it holds in ChorusCo in accordance with the demerger arrangement.
     
-    Section 69B: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69B: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ### Subpart 2---Monitoring of shared assets, services, and systems
     
-*   Subpart 2 heading: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Subpart 2 heading: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69C Interpretation
     
@@ -3247,7 +3251,7 @@ Structural separation of Telecom
         
         *   (vii) an arrangement that relates to ensuring compliance by Telecom, Chorus, or both with---
                 
-            *   (A) the duties imposed by the [Telecommunications (Interception Capability) Act 2004][570] on a network operator (within the meaning of that Act); or
+            *   (A) the duties imposed by the [Telecommunications (Interception Capability) Act 2004][573] on a network operator (within the meaning of that Act); or
             
             *   (B) duties or requirements imposed by any other Act, interception warrant, or other lawful authority that relate to the interception of communications.
             
@@ -3255,7 +3259,7 @@ Structural separation of Telecom
         
         
     
-    Section 69C: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69C: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69D Meaning of arm's-length
     
@@ -3273,7 +3277,7 @@ Structural separation of Telecom
     
     *   (e) each acting in its own best interests.
     
-    Section 69D: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69D: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69E Requirements for sharing arrangements
     
@@ -3289,7 +3293,7 @@ Structural separation of Telecom
     
     (2) Telecom and Chorus must not enter into a sharing arrangement unless the arrangement meets the requirements in subsection (1).
     
-    Section 69E: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69E: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69F Commission must be notified of proposed and final sharing arrangements
     
@@ -3309,13 +3313,13 @@ Structural separation of Telecom
     
     (3) _See_ [sections 156L(3)][446] and [156M][447] for the maximum penalty of $1 million (and $50,000 per day) for breach of this section.
     
-    Section 69F: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69F: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69G Obligation to collect and retain information for monitoring purposes
     
 *   Telecom and Chorus must each collect and retain information relating to the operation and performance of a sharing arrangement for the purpose of enabling the Commission to monitor compliance with this subpart.
     
-    Section 69G: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69G: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69H Commission's monitoring, investigation, and enforcement powers
     
@@ -3339,7 +3343,7 @@ Structural separation of Telecom
     
     (6) _See_ [sections 156L(3)][446] and [156M][447] for the maximum penalty of $1 million (and $50,000 per day) for breach of this section.
     
-    Section 69H: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69H: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69I Commission may give non-compliance notice
     
@@ -3353,7 +3357,7 @@ Structural separation of Telecom
     
     *   (c) the 40-day time limit for rectification and enforcement (_see_ section 69K).
     
-    Section 69I: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69I: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69J Process for responding to non-compliance notice
     
@@ -3379,7 +3383,7 @@ Structural separation of Telecom
     
     *   (b) require the parties to rectify the non-compliance.
     
-    Section 69J: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69J: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69K Commission may decide on appropriate enforcement action if non-compliance persists
     
@@ -3395,7 +3399,7 @@ Structural separation of Telecom
     
     (3) The Commission must give written notice of each decision to each party affected by the decision.
     
-    Section 69K: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69K: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69L Application of pecuniary penalty provisions
     
@@ -3403,7 +3407,7 @@ Structural separation of Telecom
     
     (2) _See_ [sections 156L(3)][446] and [156M][447] for the maximum penalty of $10 million (and $500,000 per day) for breach of this section.
     
-    Section 69L: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69L: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69M Injunction may be granted by High Court
     
@@ -3415,7 +3419,7 @@ Structural separation of Telecom
     
     (4) The court may at any time rescind or vary an order made under this section. 
     
-    Section 69M: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69M: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69N Minister may grant exemption from application of subpart
     
@@ -3433,15 +3437,17 @@ Structural separation of Telecom
     
     (5) The Minister may, in like manner, vary or revoke such an exemption.
     
-    (6) An exemption under this section is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][571] but not for the purposes of the [Acts and Regulations Publication Act 1989][572].
+    (6) An exemption under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][545] and must be presented to the House of Representatives under [section 41][546] of that Act.
     
     (7) Telecom and Chorus must ensure that all exemptions granted under this section are available at all reasonable times, free of charge, on the Internet sites maintained by or on behalf of Telecom and Chorus.
     
-    Section 69N: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69N: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    
+    Section 69N(6): replaced, on 5 August 2013, by [section 77(3)][547] of the Legislation Act 2012 (2012 No 119).
 
 ### Subpart 3---Line of business restrictions
     
-*   Subpart 3 heading: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Subpart 3 heading: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69O No participation in supply of retail services
     
@@ -3453,7 +3459,7 @@ Structural separation of Telecom
     
     (2) _See_ [sections 156L(3)][446] and [156M][447] for the maximum penalty of $10 million (and $500,000 per day) for breach of this section.
     
-    Section 69O: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69O: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69P Register of non-retail users
     
@@ -3471,7 +3477,7 @@ Structural separation of Telecom
     
     (7) The Commission must, at all reasonable times, make the register available for inspection on the Commission's Internet site in an electronic form that is publicly accessible.
     
-    Section 69P: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69P: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69Q Variations to, and removals from, register
     
@@ -3495,7 +3501,7 @@ Structural separation of Telecom
     
     (3) Chorus is not in breach of [section 69O][161] to the extent that it continues to supply a service to a user within the 6-month period following the removal of the user's name from the register.
     
-    Section 69Q: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69Q: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69R No services above layer 2
     
@@ -3505,7 +3511,7 @@ Structural separation of Telecom
     
     (3) This Act applies to an undertaking required under this section as if the undertaking were required under [subpart 4][169] of this Part or [Part 4AA][387], as the case may be.
     
-    Section 69R: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69R: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69S No end-to-end services
     
@@ -3525,13 +3531,13 @@ Structural separation of Telecom
     
     (4) _See_ [sections 156L(3)][446] and [156M][447] for the maximum penalty of $10 million (and $500,000 per day) for breach of this section.
     
-    Section 69S: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69S: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69T Enforcement of breaches of sections 69O and 69S
     
 *   [Sections 69V][168] (injunctions) and [156B][434] (enforcement actions) apply to Chorus, and any related party of Chorus, that, without reasonable excuse, participates in the supply of a telecommunications service in breach of [sections 69O][161] and [69S][165].
     
-    Section 69T: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69T: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69U Application of line of business restrictions to related parties of Chorus
     
@@ -3541,7 +3547,7 @@ Structural separation of Telecom
     
     *   (b) either person acts, or is accustomed to act, in accordance with the wishes of the other person; or
     
-    *   (c) they are related companies within the meaning of section 2(3) of the [Companies Act 1993][573]; or
+    *   (c) they are related companies within the meaning of section 2(3) of the [Companies Act 1993][574]; or
     
     *   (d) either person is able, directly or indirectly, to exert a substantial degree of influence over the activities of the other; or
     
@@ -3565,9 +3571,9 @@ Structural separation of Telecom
     
     (5) The order of responsibility for remedying breaches is, to the extent practical, that the breach must be remedied first by the party whose activity resulted in the breach. 
     
-    Compare: 1993 No 106, [s 4A(2)][574], 1998 No 88 [s 21][575]
+    Compare: 1993 No 106, [s 4A(2)][575], 1998 No 88 [s 21][576]
     
-    Section 69U: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69U: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69V Injunctions may be granted by High Court for certain contraventions
     
@@ -3575,11 +3581,11 @@ Structural separation of Telecom
     
     (2) The High Court may, at any time, rescind or vary an injunction granted under this section.
     
-    Section 69V: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69V: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ### Subpart 4---Undertakings by Chorus
     
-*   Subpart 4 heading: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Subpart 4 heading: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69W Purposes of subpart
     
@@ -3591,7 +3597,7 @@ Structural separation of Telecom
     
     *   (c) facilitate efficient investment in telecommunications infrastructure and services.
     
-    Section 69W: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69W: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69X Overview
     
@@ -3603,7 +3609,7 @@ Structural separation of Telecom
     
     (2) This section is intended only as a guide to the general scheme and effect of this subpart.
     
-    Section 69X: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69X: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XA Interpretation
     
@@ -3613,9 +3619,9 @@ Structural separation of Telecom
     
     _legacy access network_ means the network comprising---
         
-    *   (a) Chorus's local loop network, as defined in [clause 1][576] of Part 1 of Schedule 1 (including any relevant line in Chorus's local telephone exchange or distribution cabinet); and
+    *   (a) Chorus's local loop network, as defined in [clause 1][577] of Part 1 of Schedule 1 (including any relevant line in Chorus's local telephone exchange or distribution cabinet); and
     
-    *   (b) Chorus's local telephone exchange, as defined in [clause 1][576] of Part 1 of Schedule 1, and Chorus's distribution cabinet (or equivalent facility); and
+    *   (b) Chorus's local telephone exchange, as defined in [clause 1][577] of Part 1 of Schedule 1, and Chorus's distribution cabinet (or equivalent facility); and
     
     *   (c) Chorus's backhaul network (whether copper, fibre, or anything else) between the local loop network handover point in Chorus's distribution cabinet (or equivalent facility) or Chorus's local telephone exchange and the first data switch (including the first data switch); and
     
@@ -3649,7 +3655,7 @@ Structural separation of Telecom
     
     _UBA service_ means the designated access service described in [subpart 1][478] of Part 2 of Schedule 1 as unbundled bitstream access service.
     
-    Section 69XA: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XA: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XB Requirements for undertakings by Chorus relating to supply of certain wholesale telecommunications services
     
@@ -3695,19 +3701,19 @@ Structural separation of Telecom
     
     *   (l) require Chorus to commit to a reasonable plan containing time frames for a transition to the end of the sharing arrangements referred to in subpart 2\.
     
-    Section 69XB: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XB: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XC Implementation of Chorus undertakings
     
-*   (1) On and from separation day, the undertakings approved by the Minister on or before separation day under [sections 42 to 44][577] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 take effect as if they were a deed that is---
+*   (1) On and from separation day, the undertakings approved by the Minister on or before separation day under [sections 42 to 44][578] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 take effect as if they were a deed that is---
         
     *   (a) properly executed by, and binding on, Chorus; and
     
     *   (b) given in favour of the Crown.
     
-    (2) The undertakings approved by the Minister after separation day under [sections 42 to 44][577] of that Act take effect in accordance with subsection (1), but with effect from the date of approval.
+    (2) The undertakings approved by the Minister after separation day under [sections 42 to 44][578] of that Act take effect in accordance with subsection (1), but with effect from the date of approval.
     
-    Section 69XC: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XC: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XD Chorus must publish Chorus undertakings
     
@@ -3715,19 +3721,19 @@ Structural separation of Telecom
     
     (2) [Section 156AK][403] applies with necessary modifications.
     
-    Section 69XD: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XD: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XE Variation of Chorus undertakings
     
 *   [Sections 156AL to 156AN][405] apply with necessary modifications to undertakings under this subpart.
     
-    Section 69XE: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XE: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XF Termination of Chorus undertakings
     
 *   [Section 156AO][408] applies with necessary modifications to undertakings under this subpart.
     
-    Section 69XF: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XF: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XG Enforcement of Chorus undertakings
     
@@ -3735,43 +3741,43 @@ Structural separation of Telecom
     
     (2) _See_ [sections 156L(3)][446] and [156M][447] for the maximum penalty of $10 million (and $500,000 per day) for failure to comply with undertakings).
     
-    Section 69XG: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XG: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ### Subpart 5---Miscellaneous
     
-*   Subpart 5 heading: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Subpart 5 heading: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### Public Works Act 1981
     
-*   Heading: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XH Application of Public Works Act 1981
     
-*   (1) Despite [section 4(4)][578] of the Finance Act 1990 and [section 24(4)][579] of the State-Owned Enterprises Act 1986, nothing in [sections 40 to 42][580] of the Public Works Act 1981 applies to the transfer of affected land from Telecom to Chorus.
+*   (1) Despite [section 4(4)][579] of the Finance Act 1990 and [section 24(4)][580] of the State-Owned Enterprises Act 1986, nothing in [sections 40 to 42][581] of the Public Works Act 1981 applies to the transfer of affected land from Telecom to Chorus.
     
-    (2) However, after that transfer, [sections 40 and 41][580] of the Public Works Act 1981 apply to that land as if Chorus were the Crown and the transfer of the land from the Crown to Telecom and from Telecom to Chorus had not taken place.
+    (2) However, after that transfer, [sections 40 and 41][581] of the Public Works Act 1981 apply to that land as if Chorus were the Crown and the transfer of the land from the Crown to Telecom and from Telecom to Chorus had not taken place.
     
-    (3) If, in relation to affected land that has been transferred by Telecom to Chorus, an offer made by Chorus under [section 40(2)][580] of the Public Works Act 1981 is not accepted within the time specified in subsection (4) and the parties have not agreed on other terms for the sale of the land, Chorus may sell or otherwise dispose of the land to any person and on such terms and conditions as it thinks fit. 
+    (3) If, in relation to affected land that has been transferred by Telecom to Chorus, an offer made by Chorus under [section 40(2)][581] of the Public Works Act 1981 is not accepted within the time specified in subsection (4) and the parties have not agreed on other terms for the sale of the land, Chorus may sell or otherwise dispose of the land to any person and on such terms and conditions as it thinks fit. 
     
     (4) The time referred to in subsection (3) is the later of the following:
         
     *   (a) 40 working days after the offer is made or such further period as Chorus considers reasonable:
     
-    *   (b) if an application has been made to the Land Valuation Tribunal pursuant to [section 40(2A)][580] of the Public Works Act 1981, 20 working days after the determination of the Tribunal.
+    *   (b) if an application has been made to the Land Valuation Tribunal pursuant to [section 40(2A)][581] of the Public Works Act 1981, 20 working days after the determination of the Tribunal.
     
     (5) In this section,---
     
-    _affected land_ means any land that, immediately before it was transferred by the Crown to Telecom pursuant to [section 4(4)][578] of the Finance Act 1990, was held by the Crown under the [Public Works Act 1981][581] for a public work
+    _affected land_ means any land that, immediately before it was transferred by the Crown to Telecom pursuant to [section 4(4)][579] of the Finance Act 1990, was held by the Crown under the [Public Works Act 1981][582] for a public work
     
-    _land_ has the same meaning as in section 2 of the [Public Works Act 1981][581]
+    _land_ has the same meaning as in section 2 of the [Public Works Act 1981][582]
     
-    _working day_ has the same meaning as in section 2 of the [Public Works Act 1981][581].
+    _working day_ has the same meaning as in section 2 of the [Public Works Act 1981][582].
     
-    Section 69XH: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XH: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### Resource Management Act 1991 issues
     
-*   Heading: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XI Requiring authority status under Resource Management Act 1991
     
@@ -3779,15 +3785,15 @@ Structural separation of Telecom
         
     *   (a) constructing or operating, or proposing to construct or operate, a network for the purpose of telecommunication as defined in [section 5][7] of this Act; and
     
-    *   (b) constructing or operating, or proposing to construct or operate, a network for the purpose of radiocommunications as defined in section 2(1) of the [Radiocommunications Act 1989][582].
+    *   (b) constructing or operating, or proposing to construct or operate, a network for the purpose of radiocommunications as defined in section 2(1) of the [Radiocommunications Act 1989][583].
     
-    (2) [Part 8][583] of the Resource Management Act 1991 applies with necessary modifications as if the approval had been given under [section 167][584] of that Act.
+    (2) [Part 8][584] of the Resource Management Act 1991 applies with necessary modifications as if the approval had been given under [section 167][585] of that Act.
     
-    Section 69XI: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XI: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XJ Designations under Resource Management Act 1991
     
-*   (1) The Minister may, before separation day, by notice in the _Gazette_, issue 2 lists comprising all or any of the designations (within the meaning of [section 166][585] of the Resource Management Act 1991) for which Telecom is responsible, as follows:
+*   (1) The Minister may, before separation day, by notice in the _Gazette_, issue 2 lists comprising all or any of the designations (within the meaning of [section 166][586] of the Resource Management Act 1991) for which Telecom is responsible, as follows:
         
     *   (a) designations that are to be transferred to Chorus:
     
@@ -3795,23 +3801,23 @@ Structural separation of Telecom
     
     (2) On separation day,---
         
-    *   (a) all the rights and responsibilities of Telecom in relation to the designations listed in a _Gazette_ notice under subsection (1)(a), as they existed immediately before separation day, are transferred to Chorus for the purposes of [section 180][586] of the Resource Management Act 1991; and
+    *   (a) all the rights and responsibilities of Telecom in relation to the designations listed in a _Gazette_ notice under subsection (1)(a), as they existed immediately before separation day, are transferred to Chorus for the purposes of [section 180][587] of the Resource Management Act 1991; and
     
     *   (b) the designations listed in a _Gazette_ notice under subsection (1)(b), as they existed immediately before separation day, are (in addition to being transferred to Chorus) granted back to Telecom, with the effect that, subject to subsection (3), Telecom continues to have the same rights and responsibilities as Chorus in relation to the designations.
     
-    (3) For the purposes of [section 177][587] of the Resource Management Act 1991,---
+    (3) For the purposes of [section 177][588] of the Resource Management Act 1991,---
         
     *   (a) the designations transferred to Chorus under subsection (2)(a) are treated as earlier designations; and
     
     *   (b) the additional designations granted to Telecom under subsection (2)(b) are treated as later designations.
     
-    (4) [Part 8][583] of the Resource Management 1991 applies with necessary modifications as if the designations had been transferred or made under that Part.
+    (4) [Part 8][584] of the Resource Management 1991 applies with necessary modifications as if the designations had been transferred or made under that Part.
     
-    Section 69XJ: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XJ: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### Restrictive covenants
     
-*   Heading: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XK Certain restrictive covenants
     
@@ -3827,31 +3833,31 @@ Structural separation of Telecom
     
     (4) The Registrar-General may enter in the register relating to the burdened land, the benefited land, or both, a notification of the effect of this section as if it were an instrument.
     
-    Section 69XK: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XK: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### Government Superannuation Fund Act 1956
     
-*   Heading: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XL Protection of existing members of Government Superannuation Fund
     
-*   (1) The [Government Superannuation Fund Act 1956][588] continues to apply to the persons referred to in subsection (2) in all respects as if service with Chorus were Government service.
+*   (1) The [Government Superannuation Fund Act 1956][589] continues to apply to the persons referred to in subsection (2) in all respects as if service with Chorus were Government service.
     
     (2) The persons are every person who, immediately before separation day,---
         
     *   (a) is employed by Telecom; and
     
-    *   (b) is deemed to be employed in the Government service under [section 2A][589] of the Government Superannuation Fund Act 1956; and
+    *   (b) is deemed to be employed in the Government service under [section 2A][590] of the Government Superannuation Fund Act 1956; and
     
-    *   (c) is a contributor to the Government Superannuation Fund under [Part 2][590] or [2A][591] of that Act.
+    *   (c) is a contributor to the Government Superannuation Fund under [Part 2][591] or [2A][592] of that Act.
     
-    (3) For the purpose of applying the [Government Superannuation Fund Act 1956][588], the chief executive of Chorus is the controlling authority.
+    (3) For the purpose of applying the [Government Superannuation Fund Act 1956][589], the chief executive of Chorus is the controlling authority.
     
-    Section 69XL: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XL: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ### Subpart 6---Taxation consequences of structural separation
     
-*   Subpart 6 heading: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Subpart 6 heading: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XM Interpretation in this subpart
     
@@ -3859,7 +3865,7 @@ Structural separation of Telecom
     
     _appointed day_ means,----
         
-    *   (a) for a purpose specified in a proposal approved by Order in Council made under [section 46][592] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011, a day specified in that proposal for that purpose:
+    *   (a) for a purpose specified in a proposal approved by Order in Council made under [section 46][593] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011, a day specified in that proposal for that purpose:
     
     *   (b) if there is no relevant day under paragraph (a), the day on which the vesting of the designated assets and liabilities, and the demerger distribution, take effect
     
@@ -3877,11 +3883,11 @@ Structural separation of Telecom
         
         
     
-    _designated assets and liabilities_ means assets and liabilities, or parts of assets and liabilities, as the case may be, specified in an Order in Council made under [section 46][592] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011, and _designated assets_ and _designated liabilities_ have corresponding meanings
+    _designated assets and liabilities_ means assets and liabilities, or parts of assets and liabilities, as the case may be, specified in an Order in Council made under [section 46][593] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011, and _designated assets_ and _designated liabilities_ have corresponding meanings
     
-    _income year_ has the same meaning as in the [Income Tax Act 2007][593]
+    _income year_ has the same meaning as in the [Income Tax Act 2007][594]
     
-    _Inland Revenue Acts_ has the same meaning as in the [Tax Administration Act 1994][594]
+    _Inland Revenue Acts_ has the same meaning as in the [Tax Administration Act 1994][595]
     
     _Telecom company_ means a member of the group of companies comprising Telecom Corporation of New Zealand Limited and the companies that are, or will be, its subsidiaries immediately following the demerger distribution and the vesting of the designated assets and liabilities
     
@@ -3889,7 +3895,7 @@ Structural separation of Telecom
     
     _vesting year_ means the income year that includes the appointed day for the vesting of the designated assets and liabilities.
     
-    Section 69XM: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XM: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XN Purpose
     
@@ -3899,25 +3905,25 @@ Structural separation of Telecom
     
     *   (b) no tax consequences arise under the Inland Revenue Acts on the appointed day for any shareholder of Telecom Corporation of New Zealand Limited or Chorus from the demerger distribution that would not have arisen if the vesting of the designated assets and liabilities and the demerger distribution had not occurred.
     
-    Section 69XN: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XN: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XO Depreciation
     
-*   (1) For the purposes of the [Income Tax Act 2007][593], for a designated asset (the **asset**) that is depreciable property,---
+*   (1) For the purposes of the [Income Tax Act 2007][594], for a designated asset (the **asset**) that is depreciable property,---
         
     *   (a) the relevant Telecom company has a deduction for an amount of depreciation loss for the period beginning on the first day of the vesting year and ending on the day before the appointed day:
     
-    *   (b) the relevant Telecom company does not derive depreciation recovery income and does not have a deduction for an amount of depreciation loss under [sections EE 44 to EE 52][595] of the Income Tax Act 2007 as a result of the vesting of the asset:
+    *   (b) the relevant Telecom company does not derive depreciation recovery income and does not have a deduction for an amount of depreciation loss under [sections EE 44 to EE 52][596] of the Income Tax Act 2007 as a result of the vesting of the asset:
     
     *   (c) the relevant Chorus company must calculate, on and after the appointed day, depreciation recovery income and deductions for amounts of depreciation loss as if, in respect of the period up to and including the appointed day, it and the Telecom company were the same person.
     
-    (2) In this section, _depreciable property, depreciation loss_, and _depreciation recovery income_ have the same meanings as in the [Income Tax Act 2007][593].
+    (2) In this section, _depreciable property, depreciation loss_, and _depreciation recovery income_ have the same meanings as in the [Income Tax Act 2007][594].
     
-    Section 69XO: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XO: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XP Tax effect of distribution of ChorusCo shares
     
-*   (1) For the purposes of the [Income Tax Act 2007][593], the following transactions do not give rise to, and are ignored for the purposes of calculating, the available subscribed capital of a Chorus company or a Telecom company:
+*   (1) For the purposes of the [Income Tax Act 2007][594], the following transactions do not give rise to, and are ignored for the purposes of calculating, the available subscribed capital of a Chorus company or a Telecom company:
         
     *   (a) the vesting of the designated assets and liabilities:
     
@@ -3927,13 +3933,13 @@ Structural separation of Telecom
     
     (2) The demerger distribution on the appointed day----
         
-    *   (a) is not a dividend or other kind of assessable income for the purposes of the [Income Tax Act 2007][593]:
+    *   (a) is not a dividend or other kind of assessable income for the purposes of the [Income Tax Act 2007][594]:
     
-    *   (b) is not a dutiable gift for the purposes of the [Estate and Gift Duties Act 1968][596]:
+    *   (b) is not a dutiable gift for the purposes of the [Estate and Gift Duties Act 1968][597]:
     
-    *   (c) is, for any relevant Telecom company, a disposition for the cost price of the share, for the purposes of the [Income Tax Act 2007][593].
+    *   (c) is, for any relevant Telecom company, a disposition for the cost price of the share, for the purposes of the [Income Tax Act 2007][594].
     
-    (3) For the purposes of the [Income Tax Act 2007][593], a person who receives a demerger distribution by virtue of holding a Telecom Corporation of New Zealand Limited share or shares is treated as----
+    (3) For the purposes of the [Income Tax Act 2007][594], a person who receives a demerger distribution by virtue of holding a Telecom Corporation of New Zealand Limited share or shares is treated as----
         
     *   (a) acquiring the relevant ChorusCo share or shares at the same time and for the same purposes as the Telecom Corporation of New Zealand Limited share or shares that give rise to that person's entitlement to the demerger distribution:
     
@@ -3957,11 +3963,11 @@ Structural separation of Telecom
         
     *   (a) _pre-calculation amount paid_ is the person's expenditure or loss incurred in acquiring the relevant Telecom Corporation of New Zealand Limited share or shares, ignoring this section:
     
-    *   (b) _Chorus mv_ is the market capitalisation of ChorusCo calculated in the manner prescribed in a proposal approved by Order in Council under [section 46][592] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011, or, if none is prescribed, the number of ChorusCo shares on issue immediately following the demerger distribution multiplied by the volume weighted average price of ChorusCo shares as traded on the NZSX over the first 5 trading days commencing on the date of listing of ChorusCo:
+    *   (b) _Chorus mv_ is the market capitalisation of ChorusCo calculated in the manner prescribed in a proposal approved by Order in Council under [section 46][593] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011, or, if none is prescribed, the number of ChorusCo shares on issue immediately following the demerger distribution multiplied by the volume weighted average price of ChorusCo shares as traded on the NZSX over the first 5 trading days commencing on the date of listing of ChorusCo:
     
-    *   (c) _Telecom mv_ is the market capitalisation of Telecom Corporation of New Zealand Limited calculated in the manner prescribed in a proposal approved by Order in Council under [section 46][592] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011, or, if none is prescribed, the number of Telecom Corporation of New Zealand Limited shares on issue immediately following the demerger distribution multiplied by the volume weighted average price of Telecom Corporation of New Zealand Limited shares as traded on the NZSX over the first 5 trading days commencing on the date of listing of ChorusCo:
+    *   (c) _Telecom mv_ is the market capitalisation of Telecom Corporation of New Zealand Limited calculated in the manner prescribed in a proposal approved by Order in Council under [section 46][593] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011, or, if none is prescribed, the number of Telecom Corporation of New Zealand Limited shares on issue immediately following the demerger distribution multiplied by the volume weighted average price of Telecom Corporation of New Zealand Limited shares as traded on the NZSX over the first 5 trading days commencing on the date of listing of ChorusCo:
     
-    *   (d) _combined mv_ is the total market capitalisation of ChorusCo and of Telecom Corporation of New Zealand Limited calculated in the manner prescribed in a proposal approved by Order in Council under [section 46][592] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011, or, if none is prescribed, the total of the market capitalisation of ChorusCo and of Telecom Corporation of New Zealand Limited determined in accordance with paragraphs (b) and (c).
+    *   (d) _combined mv_ is the total market capitalisation of ChorusCo and of Telecom Corporation of New Zealand Limited calculated in the manner prescribed in a proposal approved by Order in Council under [section 46][593] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011, or, if none is prescribed, the total of the market capitalisation of ChorusCo and of Telecom Corporation of New Zealand Limited determined in accordance with paragraphs (b) and (c).
     
     (7) Subsection (8) applies where----
         
@@ -3971,47 +3977,47 @@ Structural separation of Telecom
     
     (8) If subsection (7) applies,----
         
-    *   (a) the relevant ChorusCo share or shares are treated as part of the relevant Telecom Corporation of New Zealand Limited share or shares for the purposes of the definitions of identical share, original share, returning share transfer, and share-lending arrangement in the [Income Tax Act 2007][593]:
+    *   (a) the relevant ChorusCo share or shares are treated as part of the relevant Telecom Corporation of New Zealand Limited share or shares for the purposes of the definitions of identical share, original share, returning share transfer, and share-lending arrangement in the [Income Tax Act 2007][594]:
     
     *   (b) subsection (3) applies to the share supplier as if the share supplier were the person referred to in that subsection. 
     
-    (9) In this section, _available subscribed capital, dividend, identical share, original share, returning share transfer, share-lending arrangement, share supplier,_ and _share user_ have the same meanings as in the [Income Tax Act 2007][593].
+    (9) In this section, _available subscribed capital, dividend, identical share, original share, returning share transfer, share-lending arrangement, share supplier,_ and _share user_ have the same meanings as in the [Income Tax Act 2007][594].
     
-    Section 69XP: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XP: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XQ Goods and Services Tax Act 1985
     
-*   (1) The vesting of the designated assets and liabilities is treated as being a taxable supply on the appointed day that is charged with tax at the rate of 0% for the purposes of the [Goods and Services Tax Act 1985][597].
+*   (1) The vesting of the designated assets and liabilities is treated as being a taxable supply on the appointed day that is charged with tax at the rate of 0% for the purposes of the [Goods and Services Tax Act 1985][598].
     
-    (2) For the purpose of calculating, under the [Goods and Services Tax Act 1985][597], the amount of tax payable, or input tax deductible, on or after the appointed day by a Chorus company in respect of, or in relation to, a designated asset or a designated liability, the Chorus company and the relevant Telecom company are treated as if they were the same person in respect of the period up to and including the appointed day, subject to subsection (1).
+    (2) For the purpose of calculating, under the [Goods and Services Tax Act 1985][598], the amount of tax payable, or input tax deductible, on or after the appointed day by a Chorus company in respect of, or in relation to, a designated asset or a designated liability, the Chorus company and the relevant Telecom company are treated as if they were the same person in respect of the period up to and including the appointed day, subject to subsection (1).
     
-    (3) If it is necessary for a tax invoice, a credit note, or a debit note (the **document**) to be issued by or to a Telecom company in respect of a supply made by or to a Telecom company before the appointed day, the document may be issued by or to a Chorus company if the supply was in respect of or in relation to designated assets and liabilities. The Chorus company and the Telecom company are treated as if, in relation to that supply, they were the same person for the purposes of any requirement in the [Goods and Services Tax Act 1985][597] that the Telecom company holds, has previously been issued with, or has issued to a person, a tax invoice, a debit note, or a credit note for the supply.
+    (3) If it is necessary for a tax invoice, a credit note, or a debit note (the **document**) to be issued by or to a Telecom company in respect of a supply made by or to a Telecom company before the appointed day, the document may be issued by or to a Chorus company if the supply was in respect of or in relation to designated assets and liabilities. The Chorus company and the Telecom company are treated as if, in relation to that supply, they were the same person for the purposes of any requirement in the [Goods and Services Tax Act 1985][598] that the Telecom company holds, has previously been issued with, or has issued to a person, a tax invoice, a debit note, or a credit note for the supply.
     
-    (4) In this section, _credit note, debit note, input tax, supply, tax_, and _tax invoice_ have the same meanings as in the [Goods and Services Tax Act 1985][597].
+    (4) In this section, _credit note, debit note, input tax, supply, tax_, and _tax invoice_ have the same meanings as in the [Goods and Services Tax Act 1985][598].
     
-    Section 69XQ: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XQ: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XR Prepayments
     
 *   (1) For the purposes of the Income Tax Act 2007,----
         
-    *   (a) for the vesting year, the relevant Telecom company is treated as having an unexpired amount of expenditure under [section EA 3][598] of that Act (the **unexpired portion**) for expenditure connected with the designated assets and liabilities, calculated by applying [section EA 3(4) to (7)][598] of that Act as if the day before the appointed day were the end of an income year:
+    *   (a) for the vesting year, the relevant Telecom company is treated as having an unexpired amount of expenditure under [section EA 3][599] of that Act (the **unexpired portion**) for expenditure connected with the designated assets and liabilities, calculated by applying [section EA 3(4) to (7)][599] of that Act as if the day before the appointed day were the end of an income year:
     
     *   (b) the relevant Telecom company has, for the vesting year, income under section CH 2 of that Act for the unexpired portion described in paragraph (a):
     
-    *   (c) for an income year starting after the appointed day, the relevant Telecom company is not allowed a deduction for the unexpired portion under [section DB 50][599] of that Act, and no part of the unexpired portion is income under [section CH 2][600] of that Act:
+    *   (c) for an income year starting after the appointed day, the relevant Telecom company is not allowed a deduction for the unexpired portion under [section DB 50][600] of that Act, and no part of the unexpired portion is income under [section CH 2][601] of that Act:
     
-    *   (d) the relevant Chorus company has, for the vesting year, a deduction for the unexpired portion described in paragraph (a) under [section DB 50][599] of that Act:
+    *   (d) the relevant Chorus company has, for the vesting year, a deduction for the unexpired portion described in paragraph (a) under [section DB 50][600] of that Act:
     
-    *   (e) for the vesting year and any subsequent income year, [section EA 3][598] of that Act applies to the relevant Chorus company as if that member had been allowed a deduction under that Act for expenditure to which paragraph (a) applies.
+    *   (e) for the vesting year and any subsequent income year, [section EA 3][599] of that Act applies to the relevant Chorus company as if that member had been allowed a deduction under that Act for expenditure to which paragraph (a) applies.
     
-    (2) In this section, _expenditure_ means expenditure that the relevant Telecom company has been allowed a deduction for under the [Income Tax Act 2007][593] or an earlier Act, and that was not incurred on the items described in [section EA 3(2)][598] of that Act.
+    (2) In this section, _expenditure_ means expenditure that the relevant Telecom company has been allowed a deduction for under the [Income Tax Act 2007][594] or an earlier Act, and that was not incurred on the items described in [section EA 3(2)][599] of that Act.
     
-    Section 69XR: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XR: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XS Expenditure or loss incurred, and amounts derived
     
-*   A Chorus company and the relevant Telecom company are treated as the same person for the period prior to and including the appointed day for the purpose of determining the following, under the [Income Tax Act 2007][593]:
+*   A Chorus company and the relevant Telecom company are treated as the same person for the period prior to and including the appointed day for the purpose of determining the following, under the [Income Tax Act 2007][594]:
         
     *   (a) whether a deduction is allowed for an amount of expenditure or loss incurred by the Chorus company in connection with the designated assets or liabilities:
     
@@ -4021,100 +4027,100 @@ Structural separation of Telecom
     
     *   (d) the amount of any income of the Chorus company in connection with the designated assets or liabilities.
     
-    Section 69XS: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XS: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XT Bad debts
     
-*   [Sections CG 3][601] and [DB 31][602] of the Income Tax Act 2007 apply to a relevant Chorus company in respect of any obligation that is owed to the relevant Telecom company immediately before the appointed day and that vests in the Chorus company, as if the Telecom company and the Chorus company were the same person in respect of the period up to and including the appointed day.
+*   [Sections CG 3][602] and [DB 31][603] of the Income Tax Act 2007 apply to a relevant Chorus company in respect of any obligation that is owed to the relevant Telecom company immediately before the appointed day and that vests in the Chorus company, as if the Telecom company and the Chorus company were the same person in respect of the period up to and including the appointed day.
     
-    Section 69XT: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XT: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XU Unpaid employment expenditure
     
-*   [Sections DC 11(2) and (3)][603] and [EA 4(6)][604] of the Income Tax Act 2007 apply to any amount of employment income (as that term is defined in the Income Tax Act 2007) that a Chorus company assumes the obligation to pay in connection with the vesting. For the purposes of those sections, the Chorus company is treated as **person B**, and the relevant Telecom company that incurred the obligation to pay is treated as **person A**.
+*   [Sections DC 11(2) and (3)][604] and [EA 4(6)][605] of the Income Tax Act 2007 apply to any amount of employment income (as that term is defined in the Income Tax Act 2007) that a Chorus company assumes the obligation to pay in connection with the vesting. For the purposes of those sections, the Chorus company is treated as **person B**, and the relevant Telecom company that incurred the obligation to pay is treated as **person A**.
     
-    Section 69XU: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XU: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XV Vesting of designated assets and liabilities
     
 *   The vesting of the designated assets and liabilities in a Chorus company---
         
-    *   (a) does not give rise to a dutiable gift for the purposes of the [Estate and Gift Duties Act 1968][596]:
+    *   (a) does not give rise to a dutiable gift for the purposes of the [Estate and Gift Duties Act 1968][597]:
     
-    *   (b) does not give rise to a dividend, or, except as provided in this subpart, other assessable income, for the purposes of the [Income Tax Act 2007][593]:
+    *   (b) does not give rise to a dividend, or, except as provided in this subpart, other assessable income, for the purposes of the [Income Tax Act 2007][594]:
     
-    *   (c) does not, except as provided in this subpart, give rise to a deduction for the purposes of the [Income Tax Act 2007][593].
+    *   (c) does not, except as provided in this subpart, give rise to a deduction for the purposes of the [Income Tax Act 2007][594].
     
-    Section 69XV: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XV: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XW Revenue account property
     
-*   (1) For the purposes of the [Income Tax Act 2007][593], for a designated asset or liability that is revenue account property (the **property**), the property is treated as being disposed of by the relevant Telecom company and acquired by the relevant Chorus company for an amount equal to the property's tax book value.
+*   (1) For the purposes of the [Income Tax Act 2007][594], for a designated asset or liability that is revenue account property (the **property**), the property is treated as being disposed of by the relevant Telecom company and acquired by the relevant Chorus company for an amount equal to the property's tax book value.
     
     (2) In this section, _tax book value_ means,----
         
-    *   (a) for the property, if it is trading stock or an excepted financial arrangement acquired by the relevant Telecom company before the vesting year, the opening value of the property under [section DB 49][605] of the Income Tax Act 2007 for that Telecom company for the vesting year:
+    *   (a) for the property, if it is trading stock or an excepted financial arrangement acquired by the relevant Telecom company before the vesting year, the opening value of the property under [section DB 49][606] of the Income Tax Act 2007 for that Telecom company for the vesting year:
     
     *   (b) for the property, if paragraph (a) does not apply, the amount of expenditure or loss for which the relevant Telecom company is allowed a deduction in the vesting year as a result of the disposal.
     
-    (3) In this section, _excepted financial arrangement_, _revenue account property_, and _trading stock_ have the same meaning as in the [Income Tax Act 2007][593].
+    (3) In this section, _excepted financial arrangement_, _revenue account property_, and _trading stock_ have the same meaning as in the [Income Tax Act 2007][594].
     
-    Section 69XW: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XW: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XX Leased assets
     
-*   For the purposes of the [Income Tax Act 2007][593], for expenditure that a Telecom company incurs as a lessee under a lease that relates to a designated asset and to which [section EJ 10][606] of the Income Tax Act 2007 applies,---
+*   For the purposes of the [Income Tax Act 2007][594], for expenditure that a Telecom company incurs as a lessee under a lease that relates to a designated asset and to which [section EJ 10][607] of the Income Tax Act 2007 applies,---
         
-    *   (a) the Telecom company must calculate an amount to be allocated to the vesting year under [section EJ 10(3) and (4)][606] of that Act as if the day before the appointed day were the end of the vesting year:
+    *   (a) the Telecom company must calculate an amount to be allocated to the vesting year under [section EJ 10(3) and (4)][607] of that Act as if the day before the appointed day were the end of the vesting year:
     
-    *   (b) the relevant Chorus company must calculate an amount to be allocated to the vesting year under [section EJ 10(3) and (4)][606] of that Act as if the appointed day were the start of the vesting year:
+    *   (b) the relevant Chorus company must calculate an amount to be allocated to the vesting year under [section EJ 10(3) and (4)][607] of that Act as if the appointed day were the start of the vesting year:
     
-    *   (c) [section EJ 10][606] of that Act applies to the Chorus company for income years after the vesting year as if, in respect of the period up to and including the appointed day, the Telecom company and the Chorus company were the same person. 
+    *   (c) [section EJ 10][607] of that Act applies to the Chorus company for income years after the vesting year as if, in respect of the period up to and including the appointed day, the Telecom company and the Chorus company were the same person. 
     
-    Section 69XX: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XX: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XY Finance leases: financial arrangements rules
     
-*   (1) For the purposes of the financial arrangements rules as defined in [section EW 1(2)][607] of the Income Tax Act 2007, for a finance lease that a Telecom company is party to immediately before the appointed day and vests in a Chorus company on the appointed day,----
+*   (1) For the purposes of the financial arrangements rules as defined in [section EW 1(2)][608] of the Income Tax Act 2007, for a finance lease that a Telecom company is party to immediately before the appointed day and vests in a Chorus company on the appointed day,----
         
     *   (a) if the finance lease is an asset of the Telecom company, the Chorus company is treated as paying to the Telecom company an amount of consideration for the finance lease that is equal to the tax book value of the finance lease on the relevant day:
     
     *   (b) if the finance lease is a liability of the Telecom company, the Telecom company is treated as paying to the Chorus company an amount of consideration for the finance lease that is equal to the tax book value of the finance lease on the relevant day:
     
-    *   (c) the Telecom company must calculate, on the relevant day, a base price adjustment under [section EW 31][608] of the Income Tax Act 2007:
+    *   (c) the Telecom company must calculate, on the relevant day, a base price adjustment under [section EW 31][609] of the Income Tax Act 2007:
     
-    *   (d) if the Chorus company calculates, on or after the relevant day, a base price adjustment under [section EW 31][608] of that Act, that base price adjustment must be calculated as if, in respect of the period up to and including the relevant day, it and the Telecom company were the same person:
+    *   (d) if the Chorus company calculates, on or after the relevant day, a base price adjustment under [section EW 31][609] of that Act, that base price adjustment must be calculated as if, in respect of the period up to and including the relevant day, it and the Telecom company were the same person:
     
-    *   (e) [sections EW 38][609], [EW 42][610], and [GB 21][611] of that Act do not apply for the vesting.
+    *   (e) [sections EW 38][610], [EW 42][611], and [GB 21][612] of that Act do not apply for the vesting.
     
     (2) In this section,----
         
-    *   (a) _finance lease_ has the same meaning as in the [Income Tax Act 2007][593]:
+    *   (a) _finance lease_ has the same meaning as in the [Income Tax Act 2007][594]:
     
-    *   (b) _tax book value_ means, for the relevant day and a finance lease, the value for tax purposes of the finance lease on the relevant day determined consistently with the method used in [subpart EW][612] of the Income Tax Act 2007 to calculate and allocate income and expenditure under the finance lease as if the day immediately preceding the relevant day were the last day of an income year.
+    *   (b) _tax book value_ means, for the relevant day and a finance lease, the value for tax purposes of the finance lease on the relevant day determined consistently with the method used in [subpart EW][613] of the Income Tax Act 2007 to calculate and allocate income and expenditure under the finance lease as if the day immediately preceding the relevant day were the last day of an income year.
     
-    Section 69XY: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XY: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69XZ Approved issuer levy and administrative status
     
-*   (1) For the purposes of the [Income Tax Act 2007][593] and the [Stamp and Cheque Duties Act 1971][613], a transaction or class of transactions registered as a registered security or as registered securities by a Telecom company on or prior to the appointed day is treated as also being registered as a registered security or as registered securities, as the case may be, by the relevant Chorus company. The relevant Chorus company is treated as an approved issuer in respect of the registered security or registered securities, as the case may be.
+*   (1) For the purposes of the [Income Tax Act 2007][594] and the [Stamp and Cheque Duties Act 1971][614], a transaction or class of transactions registered as a registered security or as registered securities by a Telecom company on or prior to the appointed day is treated as also being registered as a registered security or as registered securities, as the case may be, by the relevant Chorus company. The relevant Chorus company is treated as an approved issuer in respect of the registered security or registered securities, as the case may be.
     
     (2) The relevant Telecom company and the relevant Chorus company are treated as the same person, for the period prior to and including the appointed day, for the purposes of the making, giving, or receiving of any election, notice, certificate, and filing provided for under the Inland Revenue Acts.
     
     (3) A Telecom company and the relevant Chorus company are treated as the same person for the purposes of receiving the benefit of----
         
-    *   (a) a provisional rate, as defined in [section EE 67][614] of the Income Tax Act 2007:
+    *   (a) a provisional rate, as defined in [section EE 67][615] of the Income Tax Act 2007:
     
-    *   (b) a special rate, as defined in [section EE 67][614] of that Act.
+    *   (b) a special rate, as defined in [section EE 67][615] of that Act.
     
-    (4) In this section, _registered security_ has the same meaning as in the [Income Tax Act 2007][593].
+    (4) In this section, _registered security_ has the same meaning as in the [Income Tax Act 2007][594].
     
-    Section 69XZ: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][568] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69XZ: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 51][571] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ## Part 2B  
 Information disclosure requirements
     
-*   Part 2B: inserted, on 22 December 2006, by [section 32][615] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+*   Part 2B: inserted, on 22 December 2006, by [section 32][616] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 69Y Purpose
     
@@ -4124,15 +4130,15 @@ Information disclosure requirements
     
     *   (b) by access providers, including Telecom, so that a wide range of people are informed about the operation and behaviour of prescribed businesses that provide prescribed services, in order to monitor and facilitate compliance with prescribed applicable access principles.
     
-    Compare: 1986 No 5 [s 57T(1)][616]
+    Compare: 1986 No 5 [s 57T(1)][617]
     
-    Section 69Y: inserted, on 22 December 2006, by [section 32][615] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 69Y: inserted, on 22 December 2006, by [section 32][616] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 69Z Parameters of Part
     
 *   The Commission's requirements under this Part must be reasonable, having regard to the purpose of this Part, the confidentiality of the information in question, and the time required to prepare the information.
     
-    Section 69Z: inserted, on 22 December 2006, by [section 32][615] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 69Z: inserted, on 22 December 2006, by [section 32][616] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 69ZA Interpretation
     
@@ -4144,15 +4150,15 @@ Information disclosure requirements
     
     _prescribed_ means prescribed by the Commission.
     
-    Compare: 1986 No 5 [s 57T(6)][616]
+    Compare: 1986 No 5 [s 57T(6)][617]
     
-    Section 69ZA: inserted, on 22 December 2006, by [section 32][615] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 69ZA: inserted, on 22 December 2006, by [section 32][616] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 69ZB Accounting separation of Telecom
     
 *   \[Repealed\]
     
-    Section 69ZB: repealed, on 1 July 2011, by [section 47][617] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69ZB: repealed, on 1 July 2011, by [section 47][618] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69ZC Information disclosure by all access providers
     
@@ -4194,9 +4200,9 @@ Information disclosure requirements
     
     (5) Subsection (3) does not limit subsection (2).
     
-    Compare: 1986 No 5 [s 57T(2), (3)][616]
+    Compare: 1986 No 5 [s 57T(2), (3)][617]
     
-    Section 69ZC: inserted, on 22 December 2006, by [section 32][615] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 69ZC: inserted, on 22 December 2006, by [section 32][616] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 69ZD Miscellaneous provisions relating to Commission's information disclosure requirements
     
@@ -4224,21 +4230,21 @@ Information disclosure requirements
     
     *   (k) make requirements in respect of all or part of the relevant business.
     
-    (2) Subsection (1)(j) does not limit [section 16][618] of the Interpretation Act 1999\.
+    (2) Subsection (1)(j) does not limit [section 16][619] of the Interpretation Act 1999\.
     
-    Compare: 1986 No 5 [s 57T(8)][616]
+    Compare: 1986 No 5 [s 57T(8)][617]
     
-    Section 69ZD: inserted, on 22 December 2006, by [section 32][615] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 69ZD: inserted, on 22 December 2006, by [section 32][616] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 69ZD(1): amended, on 1 July 2011, by [section 48][619] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 69ZD(1): amended, on 1 July 2011, by [section 48][620] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 69ZE Publication of Commission's information disclosure requirements
     
 *   The Commission must give public notice of requirements made under this Part.
     
-    Compare: 1986 No 5 [s 57T(4)][616]
+    Compare: 1986 No 5 [s 57T(4)][617]
     
-    Section 69ZE: inserted, on 22 December 2006, by [section 32][615] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 69ZE: inserted, on 22 December 2006, by [section 32][616] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 69ZF Information to be supplied to Commission
     
@@ -4256,9 +4262,9 @@ Information disclosure requirements
     
     *   (b) verified by statutory declaration by the persons and in the form required by the Commission.
     
-    Compare: 1986 No 5 [s 57U][620]
+    Compare: 1986 No 5 [s 57U][621]
     
-    Section 69ZF: inserted, on 22 December 2006, by [section 32][615] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 69ZF: inserted, on 22 December 2006, by [section 32][616] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 69ZG Commission to publish summaries
     
@@ -4268,9 +4274,9 @@ Information disclosure requirements
     
     *   (b) the changes in operation and behaviour over time.
     
-    Compare: 1986 No 5 [s 57V][621]
+    Compare: 1986 No 5 [s 57V][622]
     
-    Section 69ZG: inserted, on 22 December 2006, by [section 32][615] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 69ZG: inserted, on 22 December 2006, by [section 32][616] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 69ZH Reasonable charge may be imposed for providing copies of statements
     
@@ -4278,9 +4284,9 @@ Information disclosure requirements
     
     (2) A charge must be no more than is reasonably required to recover the costs of providing those copies.
     
-    Compare: 1986 No 5 [s 57W][622]
+    Compare: 1986 No 5 [s 57W][623]
     
-    Section 69ZH: inserted, on 22 December 2006, by [section 32][615] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 69ZH: inserted, on 22 December 2006, by [section 32][616] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ## Part 3  
 Telecommunications service obligations
@@ -4319,7 +4325,7 @@ Telecommunications service obligations
     
     (5) \[Repealed\]
     
-    Section 70(5): repealed, on 22 December 2006, by [section 33][623] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 70(5): repealed, on 22 December 2006, by [section 33][624] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 71 Deemed TSO instrument
     
@@ -4331,7 +4337,7 @@ Telecommunications service obligations
     
     *   (b) is conditional on, or entered into as a consequence of, the structural separation of Telecom.
     
-    Section 71(2): substituted, on 1 July 2011, by [section 8][624] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 71(2): substituted, on 1 July 2011, by [section 8][625] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 71A TSO instrument may specify total amount payable by the Crown
     
@@ -4349,19 +4355,19 @@ Telecommunications service obligations
     
     *   (e) any combination of paragraphs (a) to (d).
     
-    Section 71A: substituted, on 1 July 2011, by [section 9][625] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 71A: substituted, on 1 July 2011, by [section 9][626] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 72 New KSO does not alter or revoke constitution of Telecom
     
 *   \[Repealed\]
     
-    Section 72: repealed, on 1 July 2011, by [section 10][626] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 72: repealed, on 1 July 2011, by [section 10][627] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 73 When KSO part of original KSO ceases to have effect
     
 *   \[Repealed\]
     
-    Section 73: repealed, on 1 July 2011, by [section 10][626] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 73: repealed, on 1 July 2011, by [section 10][627] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 74 Compliance with TSO instrument
     
@@ -4369,7 +4375,7 @@ Telecommunications service obligations
     
     (2) The statutory duty in subsection (1) does not limit or affect any right, duty, liability, or remedy in respect of a TSO instrument that exists or is available apart from this Act.
     
-    Section 74: substituted, on 1 July 2011, by [section 11][627] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 74: substituted, on 1 July 2011, by [section 11][628] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 75 Variation of TSO instrument
     
@@ -4379,9 +4385,9 @@ Telecommunications service obligations
     
     *   (b) a deemed TSO instrument must be treated as part of the deemed TSO instrument.
     
-    Section 75 heading: amended, on 1 July 2011, by [section 12(1)][628] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 75 heading: amended, on 1 July 2011, by [section 12(1)][629] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 75(a): amended, on 1 July 2011, by [section 12(2)][628] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 75(a): amended, on 1 July 2011, by [section 12(2)][629] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 76 When instrument ceases to be TSO instrument
     
@@ -4399,7 +4405,7 @@ Telecommunications service obligations
     
     *   (b) in the case of a deemed TSO instrument, the service provider to whom that instrument applies agrees to that instrument ceasing to have effect as a deemed TSO instrument.
     
-    Section 76: substituted, on 1 July 2011, by [section 13][629] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 76: substituted, on 1 July 2011, by [section 13][630] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 77 Notification of TSO instrument
     
@@ -4411,11 +4417,11 @@ Telecommunications service obligations
     
     (2) The Commission must give public notice of every TSO instrument.
     
-    Section 77: substituted, on 1 July 2011, by [section 14][630] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 77: substituted, on 1 July 2011, by [section 14][631] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 78 Application of Commerce Act 1986
     
-*   [Part 2][562] of the Commerce Act 1986 does not apply in respect of a TSO instrument or a contract, arrangement, or understanding to which the TSO instrument relates or any matter necessary for giving effect to the TSO instrument or the contract, arrangement, or understanding.
+*   [Part 2][565] of the Commerce Act 1986 does not apply in respect of a TSO instrument or a contract, arrangement, or understanding to which the TSO instrument relates or any matter necessary for giving effect to the TSO instrument or the contract, arrangement, or understanding.
 
 ##### 79 When 2 or more bodies corporate must be treated as 1 person
     
@@ -4439,15 +4445,15 @@ Telecommunications service obligations
     
     *   (b) one of them supplies goods or services to the other.
     
-    Section 79: substituted, on 22 December 2006, by [section 36][631] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 79: substituted, on 22 December 2006, by [section 36][632] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ### Subpart 2---Amounts payable by liable persons to the Crown
     
-*   Subpart 2 heading: substituted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Subpart 2 heading: substituted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### Annual procedure for determining amounts payable by liable persons to the Crown
     
-*   Heading: substituted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: substituted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 80 Interpretation
     
@@ -4455,9 +4461,9 @@ Telecommunications service obligations
     
     _financial statements_,---
         
-    *   (a) except if [section 79][227] applies, has the same meaning as in [section 8][633] of the Financial Reporting Act 1993; and
+    *   (a) except if [section 79][227] applies, has the same meaning as in [section 8][634] of the Financial Reporting Act 1993; and
     
-    *   (b) if [section 79][227] applies, means a consolidated statement of financial performance of the 2 or more bodies corporate required by that section to be treated as 1 person, prepared in accordance with generally accepted accounting practice, as defined in [section 3][634] of the Financial Reporting Act 1993
+    *   (b) if [section 79][227] applies, means a consolidated statement of financial performance of the 2 or more bodies corporate required by that section to be treated as 1 person, prepared in accordance with generally accepted accounting practice, as defined in [section 3][635] of the Financial Reporting Act 1993
     
     _minimum telecommunications revenue_ means $10 million, or such other amount, as may be prescribed by regulations made under [section 101(1)(a)][291], of gross revenue (as may be determined in accordance with any specifications set by the Commission) that a liable person receives during a financial year for supplying either or both of the following (excluding any amount paid to a liable person by the Crown as compensation for the cost of complying with a TSO instrument that contains a specified amount):
         
@@ -4465,13 +4471,13 @@ Telecommunications service obligations
     
     *   (b) telecommunications services by means that rely primarily on the existence of its PTN or any other PTN.
     
-    Section 80: substituted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 80: substituted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### Requirement to produce certain information
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: repealed, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 81 Subpart does not apply to certain liable persons
     
@@ -4495,7 +4501,7 @@ Telecommunications service obligations
     
     *   (b) it is signed by 2 directors of the person with the authority of the other directors.
     
-    Section 81: substituted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 81: substituted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 82 Liable persons must produce information on qualified revenue
     
@@ -4505,13 +4511,13 @@ Telecommunications service obligations
     
     *   (b) any further information specified by the Commission for the purpose of enabling it to verify the qualified revenue of that person for the financial year preceding financial year A.
     
-    Section 82: substituted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 82: substituted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### Net cost
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: repealed, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 83 Liable persons must produce information for purposes of liability allocation determination
     
@@ -4527,7 +4533,7 @@ Telecommunications service obligations
     
     *   (b) it includes a statement of the extent to which the information provided by the liable person under subsection (1)(a) is correct and complete.
     
-    Section 83: substituted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 83: substituted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 84 Commission to prepare draft liability allocation determination
     
@@ -4541,13 +4547,13 @@ Telecommunications service obligations
     
     (2) The Commission must make reasonable efforts to do the things referred to in subsection (1) not later than 80 working days after the end of the financial year.
     
-    Section 84: substituted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 84: substituted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### Amount of revenue received by liable persons in relation to TSO instrument
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: repealed, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 85 Matters to be included in draft liability allocation determination
     
@@ -4583,13 +4589,13 @@ Telecommunications service obligations
     
     (2) To avoid doubt, the Commission may determine what revenue basis to use for the purposes of subsection (1)(a) (for example, a net revenue basis).
     
-    Section 85: substituted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 85: substituted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### General provision relating to TSO cost allocation determination and TSO cost calculation determination
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: repealed, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 86 Conferences on draft liability allocation determination
     
@@ -4599,13 +4605,13 @@ Telecommunications service obligations
     
     *   (b) invite to those conferences any person who has a material interest in the determination.
     
-    Section 86: substituted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 86: substituted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### TSO cost allocation determination
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: repealed, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 87 Commission to prepare final liability allocation determination
     
@@ -4619,7 +4625,7 @@ Telecommunications service obligations
     
     (2) The Commission must make reasonable efforts to do the things referred to in subsection (1) not later than 20 working days after the closing date for submissions specified in accordance with [section 84(1)(c)][236].
     
-    Section 87: substituted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 87: substituted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 88 Matters to be included in final liability allocation determination
     
@@ -4633,7 +4639,7 @@ Telecommunications service obligations
     
     *   (d) the reasons for the determination.
     
-    Section 88: substituted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 88: substituted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 89 Payment by liable persons to the Crown
     
@@ -4647,11 +4653,11 @@ Telecommunications service obligations
     
     (3) Subsection (2) does not authorise the imposing of interest on interest. 
     
-    Section 89: substituted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 89: substituted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### General matters
     
-*   Heading: inserted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: inserted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 90 Crown use of telecommunications development levy
     
@@ -4669,7 +4675,7 @@ Telecommunications service obligations
     
     (3) To avoid doubt, except as provided in [section 94L][277], nothing in this section requires the Crown to use any amount paid by liable persons under [section 89][244] within any particular time. 
     
-    Section 90: substituted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 90: substituted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 91 Commission must notify final liability allocation determination before notifying TSO cost calculation determination
     
@@ -4677,13 +4683,13 @@ Telecommunications service obligations
     
     (2) However, the Commission must publicly notify a final liability allocation determination for each financial year in accordance with [section 87(1)(b)][242] before it publicly notifies any final TSO cost calculation determination for that financial year in accordance with [section 94J(1)(b)][275]. 
     
-    Section 91: substituted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 91: substituted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### TSO cost calculation determination
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: repealed, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 92 Annual telecommunications development levy may be reduced by Order in Council
     
@@ -4691,15 +4697,15 @@ Telecommunications service obligations
     
     (2) The Minister must not recommend the making of an order unless the Minister is satisfied that the full amount set out in [Schedule 3B][465] is not required for the purposes in [section 90][246].
     
-    Section 92: substituted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 92: substituted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ### Subpart 2A---TSO charges payable by the Crown
     
-*   Subpart 2A: inserted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Subpart 2A: inserted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### Assessment of compliance
     
-*   Heading: inserted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: inserted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 93 Assessment of compliance with TSO instrument
     
@@ -4709,53 +4715,53 @@ Telecommunications service obligations
     
     *   (b) notify the TSO provider and the Minister, in writing, of any non-compliance by the TSO provider with the TSO instrument.
     
-    Section 93: substituted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 93: substituted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 93A Matters to be included in draft TSO cost calculation determination
     
 *   \[Repealed\]
     
-    Section 93A: repealed, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 93A: repealed, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 93B Conferences on draft TSO cost calculation determination
     
 *   \[Repealed\]
     
-    Section 93B: repealed, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 93B: repealed, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 93C Commission to prepare final TSO cost calculation determination
     
 *   \[Repealed\]
     
-    Section 93C: repealed, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 93C: repealed, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 93D Requirements for final TSO cost calculation determination
     
 *   \[Repealed\]
     
-    Section 93D: repealed, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 93D: repealed, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 93E Matters to be included in final TSO cost calculation determination
     
 *   \[Repealed\]
     
-    Section 93E: repealed, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 93E: repealed, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### Calculation of amount payable by liable person
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: repealed, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 93F Calculation of amount payable by liable person
     
 *   \[Repealed\]
     
-    Section 93F: repealed, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 93F: repealed, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### TSO provider may request TSO cost calculation determination
     
-*   Heading: inserted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: inserted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 94 TSO provider under TSO instrument without specified amount may request TSO cost calculation determination
     
@@ -4769,15 +4775,15 @@ Telecommunications service obligations
     
     (3) A TSO provider under a deemed TSO instrument who gives notice under subsection (1) must, at the time of giving that notice to the Commission, serve a copy of the notice on every other TSO provider under a deemed TSO instrument.
     
-    Section 94: substituted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 94: substituted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 94(3): added, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 54][635] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 94(3): added, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 54][636] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### Calculation of amount payable by TSO provider
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: repealed, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 94A TSO provider who requests TSO cost calculation determination liable for costs in certain circumstances
     
@@ -4787,7 +4793,7 @@ Telecommunications service obligations
     
     (3) A direction that is filed in the Registry of the High Court under this section is enforceable as a judgment of the High Court in its civil jurisdiction.
     
-    Section 94A: substituted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 94A: substituted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 94B Withdrawal of request for TSO cost calculation determination
     
@@ -4799,7 +4805,7 @@ Telecommunications service obligations
     
     (4) [Section 94A(2) and (3)][263] apply to the enforcement of the direction.
     
-    Section 94B: inserted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 94B: inserted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 94C TSO charges deemed to be zero if TSO provider does not request TSO cost calculation determination
     
@@ -4809,11 +4815,11 @@ Telecommunications service obligations
     
     *   (b) the TSO charges for the instrument are deemed to be zero.
     
-    Section 94C: inserted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 94C: inserted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### Annual procedure for determining TSO charges payable by the Crown
     
-*   Heading: inserted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: inserted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 94D Calculations of net cost and auditor's report must be given to Commission
     
@@ -4831,7 +4837,7 @@ Telecommunications service obligations
     
     (2) This section is subject to [section 94C][265].
     
-    Section 94D: inserted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 94D: inserted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 94E Considerations for determining net cost
     
@@ -4861,7 +4867,7 @@ Telecommunications service obligations
     
     _new telecommunications services_ means telecommunications services that were first provided in New Zealand within 5 years before the start of the financial year to which the calculation of the net cost relates.
     
-    Section 94E: inserted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 94E: inserted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 94EA Calculations of net revenue and auditor's report must be given to Commission
     
@@ -4879,7 +4885,7 @@ Telecommunications service obligations
         
         
     
-    Section 94EA: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 55][636] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 94EA: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 55][637] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 94EB Considerations for determining net revenue
     
@@ -4897,7 +4903,7 @@ Telecommunications service obligations
     
     (4) In this section, _established telecommunications services_ and _new telecommunications services_ have the same meanings as in [section 94E][268].
     
-    Section 94EB: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 55][636] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 94EB: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 55][637] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 94F Commission to prepare draft TSO cost calculation determination
     
@@ -4913,7 +4919,7 @@ Telecommunications service obligations
     
     (3) This section is subject to [sections 94][261] and [94C][265].
     
-    Section 94F: inserted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 94F: inserted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 94G Matters to be included in draft TSO cost calculation determination
     
@@ -4949,15 +4955,15 @@ Telecommunications service obligations
     
     *   (e) the reasons for the determination.
     
-    Section 94G: inserted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 94G: inserted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 94G(ab): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 56][637] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 94G(ab): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 56][638] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 94H Requirements for draft TSO cost calculation determination
     
 *   In preparing a draft TSO cost calculation determination of the matters referred to in [section 94G(c)][272], the Commission must consider the steps taken (if any) by the TSO provider to remedy any non-compliance by the TSO provider with the TSO instrument between the date the TSO provider was notified of the non-compliance under [section 93(b)][252] and the date that is 15 working days before public notice is given under [section 94F(1)(b)][271]. 
     
-    Section 94H: inserted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 94H: inserted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 94I Conferences on draft TSO cost calculation determination
     
@@ -4967,7 +4973,7 @@ Telecommunications service obligations
     
     *   (b) invite to those conferences any person who has a material interest in the determination.
     
-    Section 94I: inserted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 94I: inserted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 94J Commission to prepare final TSO cost calculation determination
     
@@ -4983,7 +4989,7 @@ Telecommunications service obligations
     
     (3) This section is subject to [sections 94][261] and [94C][265].
     
-    Section 94J: inserted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 94J: inserted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 94K Matters to be included in final TSO cost calculation determination
     
@@ -5033,13 +5039,13 @@ Telecommunications service obligations
     
     (2) To avoid doubt, if the calculation under subsection (1)(a) or (b) results in a figure that is zero or less, the amount for the purposes of subsection (1)(d) and (e), and that must be included in the determination, is zero.
     
-    Section 94K: inserted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 94K: inserted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 94K(1)(ab): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 57(1)][638] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 94K(1)(ab): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 57(1)][639] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 94K(1)(d)(i): amended, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 57(2)][638] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 94K(1)(d)(i): amended, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 57(2)][639] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 94K(1)(d)(ia): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 57(3)][638] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 94K(1)(d)(ia): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 57(3)][639] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 94L Payment by the Crown to TSO provider
     
@@ -5051,7 +5057,7 @@ Telecommunications service obligations
     
     (2) If the Crown does not pay the total of the amounts referred to in subsection (1) on or before the due date, the Crown must pay the TSO provider interest on the unpaid amount at the 90-day bank bill rate (as at 31 working days after the date on which the final cost calculation determination is publicly notified) plus 5% for the period from the time the amount was due until the time at which it is paid.
     
-    Section 94L: inserted, on 1 July 2011, by [section 15][632] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 94L: inserted, on 1 July 2011, by [section 15][633] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ### Subpart 3---Remedies and miscellaneous
 
@@ -5061,7 +5067,7 @@ Telecommunications service obligations
     
 *   \[Repealed\]
     
-    Section 95: repealed, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 58][639] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 95: repealed, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 58][640] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 96 Power of court to grant relief in respect of TSO instrument
     
@@ -5083,13 +5089,13 @@ Telecommunications service obligations
     
     (3) The court may at any time rescind or vary an order made under this section.
     
-    Section 96(1): amended, on 22 December 2006, by [section 47][640] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 96(1): amended, on 22 December 2006, by [section 47][641] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 96(1)(a)(i): amended, on 22 December 2006, by [section 47][640] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 96(1)(a)(i): amended, on 22 December 2006, by [section 47][641] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 96(1)(a)(ii): amended, on 22 December 2006, by [section 47][640] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 96(1)(a)(ii): amended, on 22 December 2006, by [section 47][641] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 96(1)(a)(iii): amended, on 22 December 2006, by [section 47][640] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 96(1)(a)(iii): amended, on 22 December 2006, by [section 47][641] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 97 Court must take public interest into account
     
@@ -5103,13 +5109,13 @@ Telecommunications service obligations
     
     *   (b) the fact that services are provided under the TSO instrument to a person other than, or in addition to, the Crown.
     
-    Section 98(a): amended, on 22 December 2006, by [section 48][641] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 98(a): amended, on 22 December 2006, by [section 48][642] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 99 Amounts identifying particular TSOs in invoices not permitted
     
 *   \[Repealed\]
     
-    Section 99: repealed, on 1 July 2011, by [section 16][642] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 99: repealed, on 1 July 2011, by [section 16][643] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### Miscellaneous
 
@@ -5131,7 +5137,7 @@ Telecommunications service obligations
     
     (5) _TSO provider_, in subsection (1), means the TSO provider under the TSO instrument to which the direction or determination relates.
     
-    Section 100: substituted, on 1 July 2011, by [section 17][643] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 100: substituted, on 1 July 2011, by [section 17][644] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 100A Procedure for determinations
     
@@ -5143,7 +5149,7 @@ Telecommunications service obligations
     
     *   (c) must consider all submissions made in relation to the determination and all information and opinions presented or expressed at any conference in relation to the determination.
     
-    Section 100A: inserted, on 22 December 2006, by [section 50][644] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 100A: inserted, on 22 December 2006, by [section 50][645] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 100B Commission must include information about deemed TSO instrument in TSO cost calculation determinations
     
@@ -5173,13 +5179,13 @@ Telecommunications service obligations
     
     (3) The geographical areas referred to in subsection (2) must correspond to the areas that the Commission has identified in assessing, for the purpose of calculating the TSO net cost, the commercial viability of supplying the service to end-users.
     
-    Section 100B: inserted, on 22 December 2006, by [section 50][644] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 100B: inserted, on 22 December 2006, by [section 50][645] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 100B(1)(a): amended, on 1 July 2011, by [section 18(1)][645] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 100B(1)(a): amended, on 1 July 2011, by [section 18(1)][646] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 100B(1)(b): amended, on 1 July 2011, by [section 18(2)][645] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 100B(1)(b): amended, on 1 July 2011, by [section 18(2)][646] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 100B(3): amended, on 1 July 2011, by [section 18(3)][645] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 100B(3): amended, on 1 July 2011, by [section 18(3)][646] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 100BA Commission must include information about spending of TSO charges paid in relation to deemed TSO instrument
     
@@ -5201,7 +5207,7 @@ Telecommunications service obligations
     
     (4) The TSO provider must prepare and provide any information required under subsection (3) in accordance with the Commission's requirements.
     
-    Section 100BA: inserted, on 1 July 2011, by [section 19][646] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 100BA: inserted, on 1 July 2011, by [section 19][647] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 100C Duties of Commission in complying with sections 100B and 100BA
     
@@ -5217,7 +5223,7 @@ Telecommunications service obligations
         
         
     
-    *   (c) the inclusion of that information does not constitute an action that is an interference with the privacy of an individual under [section 66][647] of the Privacy Act 1993\.
+    *   (c) the inclusion of that information does not constitute an action that is an interference with the privacy of an individual under [section 66][648] of the Privacy Act 1993\.
     
     (2) However, if the Commission considers that compliance with subsection (1)(a) will, or is likely to, prejudice compliance with subsection (1)(b) or (c), the Commission---
         
@@ -5227,11 +5233,11 @@ Telecommunications service obligations
     
     (3) In complying with [section 100BA][289], the Commission must ensure that satisfactory provision exists to protect the confidentiality of any information that may reasonably be regarded as confidential or commercially sensitive.
     
-    Section 100C: inserted, on 22 December 2006, by [section 50][644] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 100C: inserted, on 22 December 2006, by [section 50][645] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 100C heading: amended, on 1 July 2011, by [section 20(1)][648] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 100C heading: amended, on 1 July 2011, by [section 20(1)][649] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 100C(3): added, on 1 July 2011, by [section 20(2)][648] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 100C(3): added, on 1 July 2011, by [section 20(2)][649] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 101 Regulations
     
@@ -5285,17 +5291,17 @@ Telecommunications service obligations
     
     **b**
     > 
-    > is the CPI index number for the last quarter before the date of commencement of the [Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011][649] 
+    > is the CPI index number for the last quarter before the date of commencement of the [Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011][650] 
     
     **c**
     > 
     > is $10 million.
     
-    Section 101: substituted, on 1 July 2011, by [section 21][650] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 101: substituted, on 1 July 2011, by [section 21][651] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 101(1)(da): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 59(1)][651] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 101(1)(da): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 59(1)][652] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 101(1)(e)(iiia): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 59(2)][651] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 101(1)(e)(iiia): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 59(2)][652] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 101A Review of local service TSO arrangements
     
@@ -5343,7 +5349,7 @@ Telecommunications service obligations
     
     *   (f) the effects on competition in telecommunications services markets in New Zealand.
     
-    Section 101A: inserted, on 1 July 2011, by [section 22][652] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 101A: inserted, on 1 July 2011, by [section 22][653] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ## Part 4  
 Networks
@@ -5380,13 +5386,13 @@ Networks
     
     Compare: 1987 No 116 [ss 2(2)][493], [2A(1)][487]
     
-    Section 102(1): amended, on 17 May 2005, by [section 4][653] of the Telecommunications Amendment Act 2005 (2005 No 70).
+    Section 102(1): amended, on 17 May 2005, by [section 4][654] of the Telecommunications Amendment Act 2005 (2005 No 70).
     
-    Section 102(3): substituted, on 22 December 2006, by [section 52][654] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 102(3): substituted, on 22 December 2006, by [section 52][655] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 102(4): added, on 22 December 2006, by [section 52][654] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 102(4): added, on 22 December 2006, by [section 52][655] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 102(5): added, on 22 December 2006, by [section 52][654] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 102(5): added, on 22 December 2006, by [section 52][655] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 103 Ministerial requirements for declaration
     
@@ -5410,13 +5416,15 @@ Networks
     
     (1A) A declaration may be revoked by notice in the _Gazette_ (including the declarations relating to Chorus and Telecom).
     
-    (2) A notice in the _Gazette_ under this section is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][571], but not for the purposes of the [Acts and Regulations Publication Act 1989][572].
+    (2) A notice in the _Gazette_ under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][545] and must be presented to the House of Representatives under [section 41][546] of that Act.
     
     Compare: 1987 No 116 [s 2A(3), (5)][487]
     
     Section 105(1): substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 63(1)][499] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
     Section 105(1A): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 63(1)][499] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    
+    Section 105(2): replaced, on 5 August 2013, by [section 77(3)][547] of the Legislation Act 2012 (2012 No 119).
 
 #### Connection to network
 
@@ -5434,7 +5442,7 @@ Networks
     
     *   (b) any other person who provides a telecommunications service by means of a PTN that is operated by the person.
     
-    Compare: 1987 No 116 [s 6(1), (2)][655]
+    Compare: 1987 No 116 [s 6(1), (2)][656]
     
     Section 106(4)(b): amended, on 1 July 2011, by [section 26(1)][501] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
@@ -5450,7 +5458,7 @@ Networks
     
     (2) In subsection (1), _telephone analyser_ and _call associated data_ have the same meanings as in [section 2(1)][493] of the Telecommunications (Residual Provisions) Act 1987\.
     
-    Compare: 1987 No 116 [s 6(2A)][655]
+    Compare: 1987 No 116 [s 6(2A)][656]
 
 ##### 108 When operator must not refuse to agree to connection to network
     
@@ -5492,7 +5500,7 @@ Networks
     
     (2) An action under subsection (1) may be commenced at any time within 3 years from the time when the cause of action arose.
     
-    Compare: 1987 No 116 [s 20D][656]
+    Compare: 1987 No 116 [s 20D][657]
 
 ##### 111 Injunctions may be granted by High Court for contravention of section 106
     
@@ -5506,11 +5514,11 @@ Networks
     
     (2) The High Court may, at any time, rescind or vary an injunction granted under this section.
     
-    Compare: 1987 No 116 [s 20C][657]
+    Compare: 1987 No 116 [s 20C][658]
 
 #### Information requirement
     
-*   Heading: inserted, on 22 December 2006, by [section 53][658] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+*   Heading: inserted, on 22 December 2006, by [section 53][659] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 111A Information about interconnection arrangements
     
@@ -5528,7 +5536,7 @@ Networks
     
     (3) The Minister must not make a recommendation under subsection (2)(b) unless the Minister is satisfied that the proposed order to which the recommendation relates is necessary to facilitate New Zealand's compliance with its international obligations.
     
-    Section 111A: inserted, on 22 December 2006, by [section 53][658] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 111A: inserted, on 22 December 2006, by [section 53][659] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
     Section 111A(1)(a): amended, on 1 July 2011, by [section 26(1)][501] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
@@ -5546,33 +5554,37 @@ Networks
     
     *   (b) in using a telecommunications device, knowingly gives any fictitious order, instruction, or message.
     
-    (3) Every person who commits an offence against subsection (1) or subsection (2) is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000\.
+    (3) Every person who commits an offence against subsection (1) or subsection (2) is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000\.
     
-    Compare: 1987 No 116 [s 8][659]
+    Compare: 1987 No 116 [s 8][660]
+    
+    Section 112(3): amended, on 1 July 2013, by [section 413][661] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 113 Indecent telephone calls for pecuniary gain
     
 *   (1) Every person commits an offence against this Act who, in using a telephone device, uses or causes to be used indecent or obscene language, or makes or causes to be made a suggestion of an indecent or obscene nature, for the purpose of obtaining commercial gain.
     
-    (2) Every person who commits an offence against subsection (1) is liable, on summary conviction,---
+    (2) Every person who commits an offence against subsection (1) is liable, on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $2,000:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $5,000\.
     
-    Compare: 1987 No 116 [s 8A][660]
+    Compare: 1987 No 116 [s 8A][662]
+    
+    Section 113(2): amended, on 1 July 2013, by [section 413][661] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 114 Interception of telecommunications for authorised purposes
     
 *   \[Repealed\]
     
-    Section 114: repealed, on 1 October 2003, by [section 35][661] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 114: repealed, on 1 October 2003, by [section 35][663] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 115 Offence to use or disclose certain information for unauthorised purposes
     
 *   \[Repealed\]
     
-    Section 115: repealed, on 1 October 2003, by [section 35][661] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 115: repealed, on 1 October 2003, by [section 35][663] of the Crimes Amendment Act 2003 (2003 No 39).
 
 #### Evidence
 
@@ -5586,7 +5598,7 @@ Networks
     
     (2) For the purposes of this section, _computer record_ includes a computer printout or any other document produced by a device by means of which information is recorded or stored.
     
-    Compare: 1987 No 116 [s 9(2), (3)][662]
+    Compare: 1987 No 116 [s 9(2), (3)][664]
 
 ### Subpart 2---Maintenance of networks
 
@@ -5654,9 +5666,9 @@ Networks
     
     (4) If the cost to the network operator of complying with a condition referred to in subsection (3) is higher than it would have been if there were not a requirement to increase amenity values, then the person imposing the condition must pay that increase in cost.
     
-    Section 119(3): added, on 6 August 2010, by [section 5][663] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 119(3): added, on 6 August 2010, by [section 5][665] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
     
-    Section 119(4): added, on 6 August 2010, by [section 5][663] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 119(4): added, on 6 August 2010, by [section 5][665] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
 
 #### Rights of entry to land in respect of lines
 
@@ -5666,7 +5678,7 @@ Networks
     
     (2) The network operator must give the owner and the occupier of the land at least 10 working days' notice of the operator's intention to apply to the District Court under subsection (1).
     
-    Compare: 1987 No 116 [s 11(1)][664]
+    Compare: 1987 No 116 [s 11(1)][666]
 
 ##### 121 Court order
     
@@ -5684,7 +5696,7 @@ Networks
     
     *   (c) in relation to the construction, erection, or laying of a line, no practical alternative route exists.
     
-    Compare: 1987 No 116 [s 11(2)][664]
+    Compare: 1987 No 116 [s 11(2)][666]
 
 ##### 122 Contents of court order
     
@@ -5696,13 +5708,13 @@ Networks
     
     *   (c) any other conditions (including conditions relating to the payment of compensation) that the District Court thinks fit to impose.
     
-    Compare: 1987 No 116 [s 11(3)][664]
+    Compare: 1987 No 116 [s 11(3)][666]
 
 ##### 123 Service of order
     
 *   Before exercising any powers authorised by an order made under [section 121][324], the network operator must serve the order on the owner and the occupier of the land to which the order relates.
     
-    Compare: 1987 No 116 [s 11(4)][664]
+    Compare: 1987 No 116 [s 11(4)][666]
 
 ##### 124 Production of order
     
@@ -5712,7 +5724,7 @@ Networks
     
     *   (b) after the initial entry, on request.
     
-    Compare: 1987 No 116 [s 11(5)][664]
+    Compare: 1987 No 116 [s 11(5)][666]
 
 #### Rights of entry to land in respect of existing works and existing lines
 
@@ -5724,7 +5736,7 @@ Networks
     
     *   (b) perform any act or operation necessary for the purpose of inspecting, maintaining, or repairing those works or lines.
     
-    Compare: 1987 No 116 [s 12(1)][665]
+    Compare: 1987 No 116 [s 12(1)][667]
 
 ##### 126 Conditions of entry to land
     
@@ -5752,13 +5764,13 @@ Networks
     
     (3) If subsection (2) applies, the network operator must, as soon as practicable after entry on the land, give notice to the owner and to the occupier of the land of the fact of the entry on the land and of what was done.
     
-    Compare: 1987 No 116 [s 12(3)][665]
+    Compare: 1987 No 116 [s 12(3)][667]
 
 ##### 127 Evidentiary presumption
     
 *   A certificate under the seal of a network operator containing a statement that a specified instrument, machinery, engine, structure, or other work was erected or constructed before 1 January 1988 under the authority of the Post Office Act 1959 (or any Act repealed by that Act), or that a line was constructed before 1 April 1989 under the authority of this Act, is admissible in evidence in any proceedings and, in the absence of proof to the contrary, constitutes proof of that statement.
     
-    Compare: 1987 No 116 [s 12(2)][665]
+    Compare: 1987 No 116 [s 12(2)][667]
 
 #### Interference with lines
 
@@ -5766,7 +5778,7 @@ Networks
     
 *   If a tree, shrub, or plant on any land or road interferes with, or is likely to interfere with, a line, the network operator who uses the line may request the owner or occupier of the land, or local authority or other person who has control of the road, to remove or trim the tree, shrub, or plant.
     
-    Compare: 1987 No 116 [s 13(1)][666]
+    Compare: 1987 No 116 [s 13(1)][668]
 
 ##### 129 Application to District Court
     
@@ -5774,19 +5786,19 @@ Networks
     
     (2) The network operator must give the owner, occupier, local authority, or other person who fails to comply with the request at least 10 working days' notice of the operator's intention to apply to the District Court under subsection (1).
     
-    Compare: 1987 No 116 [s 13(2)][666]
+    Compare: 1987 No 116 [s 13(2)][668]
 
 ##### 130 Court order
     
 *   On being satisfied that a tree, shrub, or plant on land interferes with, or is likely to interfere with, a line, the District Court may make an order on any terms and conditions (including those relating to notice and time of removal or trimming) that the court thinks fit.
     
-    Compare: 1987 No 116 [s 13(2)][666]
+    Compare: 1987 No 116 [s 13(2)][668]
 
 ##### 131 Costs of removal or trimming of trees
     
 *   If a network operator removes or trims a tree, shrub, or plant on any land or road under the authority of an order made under [section 130][335], the owner, occupier, local authority, or other person to whom notice of the application under [section 129(2)][334] was given is liable for the reasonable cost of the work of the network operator.
     
-    Compare: 1987 No 116 [s 13(3)][666]
+    Compare: 1987 No 116 [s 13(3)][668]
 
 ##### 132 Removal of trees, etc, in emergency
     
@@ -5800,7 +5812,7 @@ Networks
     
     (3) A network operator who is unable to give notice to the relevant persons under subsection (2) must, as soon as practicable after entry on the land, give notice to the relevant persons of the fact of the entry on the land and of what was done.
     
-    Compare: 1987 No 116 [s 14(1)][667]
+    Compare: 1987 No 116 [s 14(1)][669]
 
 ##### 133 Production of authority
     
@@ -5810,13 +5822,13 @@ Networks
     
     *   (b) work under the immediate control of a person who holds evidence of that person's authority and identity, which must be produced if requested.
     
-    Compare: 1987 No 116 [s 14(2)][667]
+    Compare: 1987 No 116 [s 14(2)][669]
 
 ##### 134 Costs of removal of trees, etc, in emergency
     
 *   If a network operator removes or trims a tree, shrub, or plant on any land or road under [section 132][337], the occupier of the land, or the local authority or other person who has control of the road, as the case may be, is liable for the reasonable cost of the work of the network operator.
     
-    Compare: 1987 No 116 [s 14(3)][667]
+    Compare: 1987 No 116 [s 14(3)][669]
 
 #### Lines or wireless works on roads
     
@@ -5834,7 +5846,7 @@ Networks
     
     (2) A network operator must exercise the powers contained in subsection (1) in accordance with any reasonable conditions that the local authority or other person who has jurisdiction over that road requires.
     
-    Compare: 1987 No 116 [s 15][668]
+    Compare: 1987 No 116 [s 15][670]
     
     Section 135 heading: amended, on 1 July 2011, by [section 26(3)][501] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
@@ -5848,29 +5860,29 @@ Networks
         
     *   (a) the local authority or other person who has jurisdiction over the road; and
     
-    *   (b) any utility operator (as defined in [section 4][669] of the Utilities Access Act 2010) whose pipes, lines, or other structures will or are likely to be affected by the work.
+    *   (b) any utility operator (as defined in [section 4][671] of the Utilities Access Act 2010) whose pipes, lines, or other structures will or are likely to be affected by the work.
     
     (2) Every notice must specify the location of the proposed work, the nature of the work to be carried out, and the reasons for it.
     
-    Compare: 1987 No 116 [s 15A(1), (2)][670]
+    Compare: 1987 No 116 [s 15A(1), (2)][672]
     
-    Section 136(1): substituted, on 6 August 2010, by [section 6][671] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 136(1): substituted, on 6 August 2010, by [section 6][673] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
 
 ##### 137 Network operator to be notified of conditions
     
 *   Not later than 15 working days after the receipt of the written notice of the intention to carry out work, the local authority or other person who has jurisdiction over the road must notify the network operator in writing of any conditions imposed under [section 135(2)][341].
     
-    Compare: 1987 No 116 [s 15A(3)][670]
+    Compare: 1987 No 116 [s 15A(3)][672]
     
-    Section 137: amended, on 6 August 2010, by [section 7][672] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 137: amended, on 6 August 2010, by [section 7][674] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
 
 ##### 138 Failure to notify conditions
     
 *   If a local authority or other person who has jurisdiction over the road fails to notify the network operator of the conditions imposed under [section 135(2)][341] within the 15-working day period referred to in [section 137][343], those conditions may not be imposed, and the network operator may commence work.
     
-    Compare: 1987 No 116 [s 15A(4)][670]
+    Compare: 1987 No 116 [s 15A(4)][672]
     
-    Section 138: amended, on 6 August 2010, by [section 8][673] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 138: amended, on 6 August 2010, by [section 8][675] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
 
 ##### 139 Urgency
     
@@ -5880,17 +5892,19 @@ Networks
     
     *   (b) must give the information required by [section 136(2)][342] as soon as practicable after commencing the work.
     
-    Compare: 1987 No 116 [s 15A(5)][670]
+    Compare: 1987 No 116 [s 15A(5)][672]
 
 ##### 140 Offence to not comply with any of sections 135, 136, and 139
     
 *   (1) A network operator who fails to comply with any of [sections 135][341], [136][342], and [139][345] commits an offence.
     
-    (2) A network operator who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $10,000\.
+    (2) A network operator who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $10,000\.
     
     (3) In addition to any fine imposed under subsection (2), a court may make any order relating to compensation that it thinks fit.
     
-    Compare: 1987 No 116 [s 15B][674]
+    Compare: 1987 No 116 [s 15B][676]
+    
+    Section 140(2): amended, on 1 July 2013, by [section 413][661] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 141 Appeals by network operators to District Court
     
@@ -5902,7 +5916,7 @@ Networks
     
     (4) The decision of a District Court in the determination of an appeal under this section is final.
     
-    Compare: 1987 No 116 [ss 15C][675], [15D][676]
+    Compare: 1987 No 116 [ss 15C][677], [15D][678]
 
 #### Telephone cabinets, etc, on roads
 
@@ -5916,7 +5930,7 @@ Networks
             
         *   (i) the local authority or other person who has jurisdiction over the road; and
         
-        *   (ii) any utility operator (as defined in [section 4][669] of the Utilities Access Act 2010) whose pipes, lines, or other structures will or are likely to be affected by the work; and
+        *   (ii) any utility operator (as defined in [section 4][671] of the Utilities Access Act 2010) whose pipes, lines, or other structures will or are likely to be affected by the work; and
         
         
     
@@ -5926,19 +5940,19 @@ Networks
     
     (3) Every notice under subsection (2)(a) must specify where the cabinet or appliance is to be placed on the road and the reasons for it.
     
-    Section 142(2)(a): substituted, on 6 August 2010, by [section 9][677] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 142(2)(a): substituted, on 6 August 2010, by [section 9][679] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
 
 ##### 143 Network operator to be notified of conditions
     
 *   Not later than 15 working days after the receipt of the written notice of the network operator's intention to place a cabinet or appliance on a road under [section 142][349], the local authority or other person who has jurisdiction over that road must notify the network operator in writing of any conditions imposed under section 142(2)(b).
     
-    Section 143: amended, on 6 August 2010, by [section 10][678] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 143: amended, on 6 August 2010, by [section 10][680] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
 
 ##### 144 Failure to notify conditions
     
 *   If a local authority or other person who has jurisdiction over a road fails to notify the network operator of the conditions imposed under [section 142(2)(b)][349] within the 15-working day period referred to in [section 143][350], those conditions may not be imposed and the network operator may commence work.
     
-    Section 144: amended, on 6 August 2010, by [section 11][679] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 144: amended, on 6 August 2010, by [section 11][681] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
 
 ##### 145 Urgency
     
@@ -5954,9 +5968,11 @@ Networks
     
 *   (1) A network operator who fails to comply with [section 142][349] or [section 145][352] commits an offence.
     
-    (2) A network operator who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $10,000\.
+    (2) A network operator who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $10,000\.
     
     (3) In addition to any fine imposed under subsection (2), a court may make any order relating to compensation that it thinks fit.
+    
+    Section 146(2): amended, on 1 July 2013, by [section 413][661] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 147 Appeals by network operators to District Court
     
@@ -5970,7 +5986,7 @@ Networks
 
 #### Local authority, etc, requiring work to be done
     
-*   Heading: inserted, on 6 August 2010, by [section 12][680] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+*   Heading: inserted, on 6 August 2010, by [section 12][682] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
 
 ##### 147A Local authority, etc, may require lines, etc, to be moved
     
@@ -5980,9 +5996,9 @@ Networks
     
     (3) Before doing work as permitted by subsection (2), the person requiring the work must give notice to the network operator at least 15 working days before the work commences.
     
-    Compare: 1992 No 122 [s 32][681]; 1992 No 124 [s 33][682]
+    Compare: 1992 No 122 [s 32][683]; 1992 No 124 [s 33][684]
     
-    Section 147A: inserted, on 6 August 2010, by [section 12][680] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 147A: inserted, on 6 August 2010, by [section 12][682] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
     
     Section 147A(1): amended, on 1 July 2011, by [section 26(3)][501] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
@@ -5998,9 +6014,9 @@ Networks
         
         *   (ii) the Telecommunications (Residual Provisions) Act 1987:
         
-        *   (iii) the [Local Government Act 1974][683] or the [Local Government Act 2002][486], and any predecessor of those Acts:
+        *   (iii) the [Local Government Act 1974][685] or the [Local Government Act 2002][486], and any predecessor of those Acts:
         
-        *   (iv) the [Public Works Act 1981][581]:
+        *   (iv) the [Public Works Act 1981][582]:
         
         *   (v) any local or private Act:
         
@@ -6042,9 +6058,9 @@ Networks
     
     *   (b) failing such agreement, by arbitration under the Arbitration Act 1996, with 1 arbitrator to be appointed by each party and an umpire to be appointed by those arbitrators before entering upon their reference.
     
-    Compare: 1992 No 122 [s 33][684]; 1992 No 124 [s 34][685]
+    Compare: 1992 No 122 [s 33][686]; 1992 No 124 [s 34][687]
     
-    Section 147B: inserted, on 6 August 2010, by [section 12][680] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 147B: inserted, on 6 August 2010, by [section 12][682] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
     
     Section 147B(2): amended, on 1 July 2011, by [section 26(3)][501] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
@@ -6058,11 +6074,11 @@ Networks
 
 ##### 147C Relationship with section 54 of Government Roading Powers Act 1989
     
-*   [Sections 147A][356] and [147B][357] apply despite anything to the contrary in [section 54][686] of the Government Roading Powers Act 1989\.
+*   [Sections 147A][356] and [147B][357] apply despite anything to the contrary in [section 54][688] of the Government Roading Powers Act 1989\.
     
-    Compare: 1992 No 122 [s 34][687]; 1992 No 124 [s 35][688]
+    Compare: 1992 No 122 [s 34][689]; 1992 No 124 [s 35][690]
     
-    Section 147C: inserted, on 6 August 2010, by [section 12][680] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 147C: inserted, on 6 August 2010, by [section 12][682] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
 
 #### Miscellaneous
 
@@ -6072,7 +6088,7 @@ Networks
     
     (2) A network operator is not entitled to be paid the cost of any improvement to a line that is, or wireless works or other works that are, required to be altered by an owner of land or some other person under subsection (1).
     
-    Compare: 1987 No 116 [s 16][689]
+    Compare: 1987 No 116 [s 16][691]
     
     Section 148 heading: amended, on 1 July 2011, by [section 26(3)][501] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
@@ -6086,27 +6102,29 @@ Networks
     
     (2) However, wires of a line do not interfere with the lawful traffic on the road if the wires are placed at a height of 5.5 metres or more above the surface of the road where the wires cross a public road, or at a height of 4.25 metres or more elsewhere.
     
-    Compare: 1987 No 116 [s 17(1)][690]
+    Compare: 1987 No 116 [s 17(1)][692]
 
 ##### 150 Lines over navigable waters
     
 *   A network operator must not intentionally place a line so that it interferes with the navigation of navigable waters.
     
-    Compare: 1987 No 116 [s 17(2)][690]
+    Compare: 1987 No 116 [s 17(2)][692]
 
 ##### 151 Network operator must avoid interference with traffic
     
 *   A network operator, in maintaining, repairing, altering, or removing a line that crosses or is along a road, or that is over or under navigable waters, must not cause unnecessary or avoidable interference to the traffic on, or to the lawful use of, any road or navigable waters.
     
-    Compare: 1987 No 116 [s 17(3)][690]
+    Compare: 1987 No 116 [s 17(3)][692]
 
 ##### 152 Offence to contravene any of sections 149 to 151
     
 *   (1) A network operator who contravenes any of [sections 149 to 151][361] commits an offence.
     
-    (2) A network operator who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $10,000\.
+    (2) A network operator who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $10,000\.
     
     (3) In addition to any fine imposed under subsection (2), a court may make any order relating to compensation that it thinks fit.
+    
+    Section 152(2): amended, on 1 July 2013, by [section 413][661] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 153 Charging for access to road reserve
     
@@ -6120,9 +6138,9 @@ Networks
     
 *   (1) Every person whose property is damaged as a result of the exercise of any of the powers under this subpart is entitled to compensation.
     
-    (2) The amount of the compensation may be agreed between the network operator and the person concerned or, failing agreement, be determined in the manner provided for by the [Public Works Act 1981][581].
+    (2) The amount of the compensation may be agreed between the network operator and the person concerned or, failing agreement, be determined in the manner provided for by the [Public Works Act 1981][582].
     
-    Compare: 1987 No 116 [s 19][691]
+    Compare: 1987 No 116 [s 19][693]
 
 ##### 155 Protection of existing works
     
@@ -6130,11 +6148,11 @@ Networks
     
     (2) No person other than the network operator has an interest in any of those works or lines by reason only of having an interest in the land.
     
-    Compare: 1987 No 116 [s 20][692]
+    Compare: 1987 No 116 [s 20][694]
 
 ### Subpart 3---Access to multi-unit complexes to which fibre-to-the-premises is to be deployed
     
-*   Subpart 3: added, on 1 July 2011, by [section 23][693] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Subpart 3: added, on 1 July 2011, by [section 23][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 155A Overview
     
@@ -6142,7 +6160,7 @@ Networks
     
     (2) This subpart does not limit the statutory rights of access in [sections 120 to 127][323].
     
-    Section 155A: inserted, on 1 July 2011, by [section 23][693] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 155A: inserted, on 1 July 2011, by [section 23][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 155B Interpretation
     
@@ -6176,7 +6194,7 @@ Networks
         
     *   (a) a person who has a freehold or a leasehold interest in that part of the complex:
     
-    *   (b) any body corporate under the [Unit Titles Act 1972][694] or the registered proprietor of the complex to which the unit plan relates:
+    *   (b) any body corporate under the [Unit Titles Act 1972][696] or the registered proprietor of the complex to which the unit plan relates:
     
     *   (c) any other person who has a legal right to grant access to the building or to approve the performance of work in the building
     
@@ -6184,11 +6202,11 @@ Networks
     
     _second notice_ means a notice that complies with [section 155H][378].
     
-    Section 155B: inserted, on 1 July 2011, by [section 23][693] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 155B: inserted, on 1 July 2011, by [section 23][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### Statutory right of access to multi-unit complexes
     
-*   Heading: inserted, on 1 July 2011, by [section 23][693] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: inserted, on 1 July 2011, by [section 23][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 155C Nature of statutory right of access to multi-unit complexes
     
@@ -6204,7 +6222,7 @@ Networks
     
     *   (b) to authorise the matters referred to in subsection (1).
     
-    Section 155C: inserted, on 1 July 2011, by [section 23][693] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 155C: inserted, on 1 July 2011, by [section 23][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 155D Preconditions before statutory right of access to multi-unit complexes may be exercised
     
@@ -6222,7 +6240,7 @@ Networks
     
     *   (f) be a member of a consumer complaints system that provides for the resolution of complaints about compliance with this subpart and the Code.
     
-    Section 155D: inserted, on 1 July 2011, by [section 23][693] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 155D: inserted, on 1 July 2011, by [section 23][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 155E How statutory right of access to multi-unit complex must be exercised
     
@@ -6238,11 +6256,11 @@ Networks
     
     (4) In this section, _evidence of authority_ has the same meaning as in [section 118][319], with any necessary modifications.
     
-    Section 155E: inserted, on 1 July 2011, by [section 23][693] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 155E: inserted, on 1 July 2011, by [section 23][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### Process
     
-*   Heading: inserted, on 1 July 2011, by [section 23][693] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: inserted, on 1 July 2011, by [section 23][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 155F Requirements in respect of preliminary notice
     
@@ -6278,7 +6296,7 @@ Networks
     
     *   (j) an explanation of the process of making a complaint.
     
-    Section 155F: inserted, on 1 July 2011, by [section 23][693] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 155F: inserted, on 1 July 2011, by [section 23][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 155G Opting out of providing access under subpart
     
@@ -6292,7 +6310,7 @@ Networks
     
     (3) The service provider has no right of access under this subpart after an opt-out happens unless the service provider obtains an access order granted by the District Court.
     
-    Section 155G: inserted, on 1 July 2011, by [section 23][693] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 155G: inserted, on 1 July 2011, by [section 23][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 155H Requirements in respect of second notice
     
@@ -6346,7 +6364,7 @@ Networks
     
     *   (j) an explanation of the process of making a complaint.
     
-    Section 155H: inserted, on 1 July 2011, by [section 23][693] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 155H: inserted, on 1 July 2011, by [section 23][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 155I Access orders from District Court
     
@@ -6364,11 +6382,11 @@ Networks
     
     (5) [Sections 120(2)][323], and [122 to 124][325] apply with necessary modifications.
     
-    Section 155I: inserted, on 1 July 2011, by [section 23][693] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 155I: inserted, on 1 July 2011, by [section 23][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### Code
     
-*   Heading: inserted, on 1 July 2011, by [section 23][693] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: inserted, on 1 July 2011, by [section 23][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 155J Preparation of Code
     
@@ -6388,7 +6406,7 @@ Networks
     
     (4) The Minister must, before recommending that the Governor-General approve a Code, consult service providers, and any other persons, that the Minister reasonably considers may be likely to be representative of the persons to be affected by the Code.
     
-    Section 155J: inserted, on 1 July 2011, by [section 23][693] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 155J: inserted, on 1 July 2011, by [section 23][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 155K Approval and status of Code
     
@@ -6396,9 +6414,9 @@ Networks
     
     (2) The order may refer to, but need not contain, the Code, and must be published in the _Gazette_.
     
-    (3) The order and the Code are regulations for the purposes of the [Regulations (Disallowance) Act 1989][571].
+    (3) The order and the Code are disallowable instruments for the purposes of the [Legislation Act 2012][545].
     
-    (4) The order, but not the Code, is a regulation for the purposes of the [Acts and Regulations Publication Act 1989][572].
+    (4) The order, but not the Code, is a legislative instrument for the purposes of the [Legislation Act 2012][545].
     
     (5) The Code must be presented to the House of Representatives no later than 16 days after the date on which it is approved.
     
@@ -6412,11 +6430,15 @@ Networks
     
     *   (b) is available for purchase in hard copy, at no more than a reasonable cost, from the head office of the Ministry.
     
-    Section 155K: inserted, on 1 July 2011, by [section 23][693] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 155K: inserted, on 1 July 2011, by [section 23][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    
+    Section 155K(3): replaced, on 5 August 2013, by [section 77(3)][547] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 155K(4): replaced, on 5 August 2013, by [section 77(3)][547] of the Legislation Act 2012 (2012 No 119).
 
 #### Consumer complaints system
     
-*   Heading: inserted, on 1 July 2011, by [section 23][693] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: inserted, on 1 July 2011, by [section 23][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 155L Compliance with rules and binding settlements
     
@@ -6434,15 +6456,17 @@ Networks
     
     (5) A reference in this section to a member includes a reference to a person who was a member of the consumer complaints system at the relevant time but is no longer a member at the time of the application or order.
     
-    Section 155L: inserted, on 1 July 2011, by [section 23][693] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 155L: inserted, on 1 July 2011, by [section 23][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 155M Offence to fail to comply with District Court order
     
-*   (1) A member or former member of a consumer complaints system who, knowing that the member or former member is subject to an order made under [section 155L][384], fails to comply with the order, or fails to comply with the order within the time or in the manner required by the order, commits an offence and is liable on summary conviction to a fine not exceeding $100,000\.
+*   (1) A member or former member of a consumer complaints system who, knowing that the member or former member is subject to an order made under [section 155L][384], fails to comply with the order, or fails to comply with the order within the time or in the manner required by the order, commits an offence and is liable on conviction to a fine not exceeding $100,000\.
     
     (2) Nothing in this section applies to an order or part of an order of a District Court referred to in [section 155L(4)][384].
     
-    Section 155M: inserted, on 1 July 2011, by [section 23][693] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 155M: inserted, on 1 July 2011, by [section 23][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    
+    Section 155M(1): amended, on 1 July 2013, pursuant to [section 413][661] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 156 Notices to be in writing
     
@@ -6453,11 +6477,11 @@ Networks
 ## Part 4AA  
 Services provided using networks developed with Crown funding: Undertakings regime and Commerce Act 1986 authorisations
     
-*   Part 4AA: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Part 4AA: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ### Subpart 1---Preliminary provisions
     
-*   Subpart 1: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Subpart 1: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AA Overview
     
@@ -6475,7 +6499,7 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     (2) This section is intended only as a guide to the general scheme and effect of this Part.
     
-    Section 156AA: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AA: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AB Interpretation
     
@@ -6483,7 +6507,7 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     _access seeker_ means a person who seeks access to a relevant service
     
-    _arm's-length_ has the meaning set out in [section 69D][696]
+    _arm's-length_ has the meaning set out in [section 69D][698]
     
     _Crown_ includes Crown Fibre Holdings Limited
     
@@ -6533,11 +6557,11 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     _undertaking_ means an undertaking under this Part.
     
-    Section 156AB: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AB: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ### Subpart 2---Undertakings relating to networks developed with Crown funding as part of UFB initiative
     
-*   Subpart 2: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Subpart 2: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AC Purposes
     
@@ -6549,11 +6573,11 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     *   (c) facilitate efficient investment in telecommunications infrastructure and services.
     
-    Section 156AC: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AC: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### Requirements for undertakings
     
-*   Heading: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AD Main requirements for undertakings
     
@@ -6597,7 +6621,7 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     *   (b) specify the price or non-price terms of supply for any telecommunications service.
     
-    Section 156AD: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AD: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AE Minister may determine further requirements for undertakings
     
@@ -6611,13 +6635,13 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     (3) Any further requirements determined by the Minister under this section do not apply to an undertaking that has already been approved by the Minister. 
     
-    Section 156AE: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AE: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AF Minister must issue and consult on draft determination
     
 *   Before making a determination under [section 156AE][395], the Minister must prepare a draft determination and consult on that draft with those persons that the Minister considers have a material interest in the determination.
     
-    Section 156AF: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AF: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AG Procedural requirements for determination
     
@@ -6643,21 +6667,25 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     *   (b) for purchase at a reasonable price.
     
-    (4) A determination is deemed to be a regulation for the purposes of the [Regulations (Disallowance) Act 1989][571] but not for the purpose of the [Acts and Regulations Publication Act 1989][572].
+    (4) A determination is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][545] and must be presented to the House of Representatives under [section 41][546] of that Act.
     
-    (5) The Minister must present a copy of the determination to the House of Representatives in accordance with [section 4][697] of the Regulations (Disallowance) Act 1989\.
+    (5) \[Repealed\]
     
-    Section 156AG: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AG: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    
+    Section 156AG(4): replaced, on 5 August 2013, by [section 77(3)][547] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 156AG(5): repealed, on 5 August 2013, by [section 77(3)][547] of the Legislation Act 2012 (2012 No 119).
 
 #### Process for submission and consideration of undertakings
     
-*   Heading: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AH LFC must submit undertaking for approval by Minister
     
 *   An LFC must submit an undertaking for approval by the Minister by sending the undertaking in writing to the Minister.
     
-    Section 156AH: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AH: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AI Minister may approve or decline undertaking
     
@@ -6679,11 +6707,11 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     (5) The Minister must notify his or her approval of an undertaking by notice in the _Gazette_.
     
-    Section 156AI: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AI: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### Implementation of undertakings
     
-*   Heading: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AJ Implementation of undertaking
     
@@ -6693,7 +6721,7 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     *   (b) given in favour of the Crown.
     
-    Section 156AJ: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AJ: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AK LFC must publish undertaking
     
@@ -6701,11 +6729,11 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     (2) The LFC must make a copy of the undertaking available for inspection free of charge at its registered office.
     
-    Section 156AK: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AK: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### Variation and termination of undertakings
     
-*   Heading: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AL Variation of undertaking
     
@@ -6719,7 +6747,7 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     *   (c) the Commission is satisfied that the variation would best give effect to the purposes of this subpart.
     
-    Section 156AL: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AL: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AM Procedure for variation of undertaking
     
@@ -6737,7 +6765,7 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     (5) [Sections 156AI to 156AK][400] apply, with all necessary modifications, to a variation of an undertaking as if the variation were an undertaking.
     
-    Section 156AM: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AM: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AN Clarification of undertaking
     
@@ -6747,7 +6775,7 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     *   (b) the clarification is not material.
     
-    Section 156AN: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AN: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AO Termination of undertaking
     
@@ -6757,11 +6785,11 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     (3) The Commission may, in response to a request under subsection (2) or on its own initiative, recommend to the Minister that an undertaking be terminated under this section, if the Commission considers that the termination would best promote the purposes of this subpart.
     
-    Section 156AO: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AO: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### Effect of undertakings in relation to unbundling of certain services
     
-*   Heading: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AP Commission may not recommend or investigate unbundling of point-to-multipoint layer 1 services
     
@@ -6771,17 +6799,17 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     (3) An LFC is subject to a binding undertaking for the purposes of this section if it has entered into an undertaking that has been approved by the Minister under this subpart and that is still in force.
     
-    Section 156AP: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AP: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 #### Enforcement of undertakings
     
-*   Heading: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Heading: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AQ Enforcement and remedies under Part 4A
     
 *   [Sections 156L][446], [156M][447], and [156O to 156R][450] apply to an undertaking under this subpart as provided in [Part 4A][430].
     
-    Section 156AQ: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AQ: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AR Power of court to grant relief in respect of undertakings
     
@@ -6797,7 +6825,7 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     (3) The court may at any time rescind or vary an order made under this section.
     
-    Section 156AR: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AR: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AS Interrelationship of remedies
     
@@ -6811,17 +6839,17 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     *   (b) if so, the amount and effect of that first order.
     
-    Section 156AS: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AS: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ### Subpart 3---Information disclosure by LFCs with undertakings
     
-*   Subpart 3: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Subpart 3: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AT Purpose
     
 *   The purpose of this subpart is to promote competition in telecommunications markets for the long-term benefit of end-users of telecommunications services in New Zealand by requiring LFCs who have given undertakings in relation to certain services to provide reliable and timely information to the Commission to enable it to record over time the costs and characteristics of LFC fibre networks to inform the Commission's statutory processes and determinations.
     
-    Section 156AT: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AT: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AU Commission must require disclosure by LFCs
     
@@ -6867,7 +6895,7 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     (5) To avoid doubt, nothing in this subpart requires an LFC to prepare and disclose information about the operation of all or any of its network or wholesale activities as if those activities were operated as independent or unrelated companies.
     
-    Section 156AU: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AU: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AV Further powers of Commission relating to information disclosure
     
@@ -6895,7 +6923,7 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     *   (k) make requirements in respect of all or part of the relevant business.
     
-    Section 156AV: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AV: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AW Commission may publish reports, etc, on information collected
     
@@ -6905,11 +6933,11 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     (3) In exercising its power under this section, the Commission must ensure that it protects the confidentiality of any information that may reasonably be regarded as confidential or commercially sensitive.
     
-    Section 156AW: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AW: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ### Subpart 4---Undertakings relating to networks developed with Crown funding as part of Rural Broadband Initiative
     
-*   Subpart 4: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Subpart 4: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AX Interpretation of this subpart
     
@@ -6919,7 +6947,7 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     _service provider_ means a provider of a relevant service.
     
-    Section 156AX: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AX: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AY Requirements for undertakings under this subpart
     
@@ -6935,17 +6963,17 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     (4) Subsection (3) does not limit the further matters that may be included in an undertaking.
     
-    Section 156AY: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AY: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AZ Application of provisions in subpart 1
     
 *   [Sections 156AH to 156AN][399], [156AO][408], and [156AQ to 156AS][412], with all necessary modifications, apply to an undertaking under this subpart as if every reference in those sections to an LFC were a reference to a service provider.
     
-    Section 156AZ: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AZ: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ### Subpart 5---Commerce Act 1986 authorisations in respect of Rural Broadband Initiative
     
-*   Subpart 5: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Subpart 5: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AZA Restrictive trade practices authorisations in respect of Telecom and Vodafone participation in Rural Broadband Initiative
     
@@ -6963,17 +6991,17 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     (4) The authorisations do not apply to a contract, arrangement, or understanding that is entered into later than 6 months after the date on which this section comes into force.
     
-    (5) The authorisations must be treated as if they were authorisations granted by the Commerce Commission under [section 58(1), (2), (5), and (6)][698] of the Commerce Act 1986\.
+    (5) The authorisations must be treated as if they were authorisations granted by the Commerce Commission under [section 58(1), (2), (5), and (6)][699] of the Commerce Act 1986\.
     
-    (6) [Sections 65][699] and [91 to 97][700] of the Commerce Act 1986 do not apply to the authorisations.
+    (6) [Sections 65][700] and [91 to 97][701] of the Commerce Act 1986 do not apply to the authorisations.
     
-    (7) The effect of the authorisations is the same as that stated in [section 58A(1) and (2)][701] of the [Commerce Act 1986][513].
+    (7) The effect of the authorisations is the same as that stated in [section 58A(1) and (2)][702] of the [Commerce Act 1986][513].
     
-    Section 156AZA: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AZA: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ### Subpart 6---Commerce Act 1986 authorisations in respect of Ultra-fast Broadband Initiative
     
-*   Subpart 6: added, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Subpart 6: added, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AZB Interpretation for this subpart
     
@@ -6985,7 +7013,7 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     _telecommunications network company_ means a company that owns or operates a network.
     
-    Section 156AZB: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AZB: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AZC Restrictive trade practices authorisations in respect of participation in Ultra-fast Broadband Initiative
     
@@ -7001,13 +7029,13 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     *   (b) do not apply to any contract, arrangement, or understanding that is entered into more than 2 years after the date on which this section comes into force.
     
-    (3) The authorisations must be treated as if they were authorisations granted by the Commerce Commission under [section 58(1), (2), (5), and (6)][698] of the Commerce Act 1986\.
+    (3) The authorisations must be treated as if they were authorisations granted by the Commerce Commission under [section 58(1), (2), (5), and (6)][699] of the Commerce Act 1986\.
     
-    (4) [Sections 65][699] and [91 to 97][700] of the Commerce Act 1986 do not apply to the authorisations.
+    (4) [Sections 65][700] and [91 to 97][701] of the Commerce Act 1986 do not apply to the authorisations.
     
-    (5) The effect of the authorisations is the same as that stated in [section 58A(1) and (2)][701] of the Commerce Act 1986\. 
+    (5) The effect of the authorisations is the same as that stated in [section 58A(1) and (2)][702] of the Commerce Act 1986\. 
     
-    Section 156AZC: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AZC: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156AZD Business acquisition authorisations in respect of participation in Ultra-fast Broadband Initiative
     
@@ -7021,26 +7049,26 @@ Services provided using networks developed with Crown funding: Undertakings regi
     
     (2) The authorisations do not apply to any acquisition that is made more than 2 years after the date on which this section comes into force.
     
-    (3) The authorisations must be treated as if they were authorisations granted by the Commerce Commission under [section 67(3)(b)][702] of the Commerce Act 1986 on the date on which this section comes into force.
+    (3) The authorisations must be treated as if they were authorisations granted by the Commerce Commission under [section 67(3)(b)][703] of the Commerce Act 1986 on the date on which this section comes into force.
     
-    (4) [Sections 91 to 97][700] of the Commerce Act 1986 do not apply to the authorisations.
+    (4) [Sections 91 to 97][701] of the Commerce Act 1986 do not apply to the authorisations.
     
-    (5) The effect of the authorisations is the same as that stated in [section 69][703] of the Commerce Act 1986\.
+    (5) The effect of the authorisations is the same as that stated in [section 69][704] of the Commerce Act 1986\.
     
-    Section 156AZD: inserted, on 1 July 2011, by [section 81][695] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156AZD: inserted, on 1 July 2011, by [section 81][697] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ## Part 4A  
 Enforcement
     
-*   Part 4A: inserted, on 22 December 2006, by [section 54][704] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+*   Part 4A: inserted, on 22 December 2006, by [section 54][705] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ### Subpart 1---Enforcement of statutory and regulatory provisions
     
-*   Subpart 1: inserted, on 22 December 2006, by [section 54][704] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+*   Subpart 1: inserted, on 22 December 2006, by [section 54][705] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 #### Preliminary
     
-*   Heading: inserted, on 22 December 2006, by [section 54][704] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+*   Heading: inserted, on 22 December 2006, by [section 54][705] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 156A Application of section 156B
     
@@ -7110,39 +7138,39 @@ Enforcement
     
     *   (b) [section 69T][166].
     
-    Section 156A: inserted, on 22 December 2006, by [section 54][704] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 156A: inserted, on 22 December 2006, by [section 54][705] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 156A(1)(fa): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 64(1)][705] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156A(1)(fa): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 64(1)][706] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156A(1)(fb): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 64(1)][705] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156A(1)(fb): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 64(1)][706] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156A(1)(g): amended, on 1 July 2011, by [section 82(1)][706] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156A(1)(g): amended, on 1 July 2011, by [section 82(1)][707] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156A(1)(i): substituted, on 1 July 2011, by [section 24(1)][707] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156A(1)(i): substituted, on 1 July 2011, by [section 24(1)][708] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156A(1)(ia): inserted, on 1 July 2011, by [section 24(1)][707] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156A(1)(ia): inserted, on 1 July 2011, by [section 24(1)][708] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156A(1)(ib): inserted, on 1 July 2011, by [section 24(1)][707] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156A(1)(ib): inserted, on 1 July 2011, by [section 24(1)][708] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156A(1)(j): substituted, on 1 July 2011, by [section 24(1)][707] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156A(1)(j): substituted, on 1 July 2011, by [section 24(1)][708] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156A(1)(ja): inserted, on 1 July 2011, by [section 24(1)][707] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156A(1)(ja): inserted, on 1 July 2011, by [section 24(1)][708] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156A(1)(la): inserted, on 1 July 2011, by [section 24(2)][707] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156A(1)(la): inserted, on 1 July 2011, by [section 24(2)][708] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156A(1)(lb): inserted, on 1 July 2011, by [section 24(2)][707] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156A(1)(lb): inserted, on 1 July 2011, by [section 24(2)][708] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156A(1)(lba): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 60][708] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156A(1)(lba): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 60][709] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156A(1)(lbb): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 60][708] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156A(1)(lbb): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 60][709] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156A(1)(lc): inserted, on 1 July 2011, by [section 24(2)][707] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156A(1)(lc): inserted, on 1 July 2011, by [section 24(2)][708] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156A(1)(ld): inserted, on 1 July 2011, by [section 24(2)][707] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156A(1)(ld): inserted, on 1 July 2011, by [section 24(2)][708] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156A(1)(ma): amended, on 1 July 2011, by [section 82(2)][706] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156A(1)(ma): amended, on 1 July 2011, by [section 82(2)][707] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156A(2): added, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 64(2)][705] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156A(2): added, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 64(2)][706] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156B Enforcement actions that Commission may take
     
@@ -7154,7 +7182,7 @@ Enforcement
     
     (2) This section does not limit any power conferred on the Commission by or under [section 15][22] or any other enactment.
     
-    Section 156B: inserted, on 22 December 2006, by [section 54][704] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 156B: inserted, on 22 December 2006, by [section 54][705] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 156C Matters that Commission must take into account in deciding what enforcement action to take
     
@@ -7172,11 +7200,11 @@ Enforcement
     
     *   (f) the nature and extent of any loss or damage suffered by any person as a result of the alleged breach.
     
-    Section 156C: inserted, on 22 December 2006, by [section 54][704] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 156C: inserted, on 22 December 2006, by [section 54][705] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 #### Civil infringement notice
     
-*   Heading: inserted, on 22 December 2006, by [section 54][704] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+*   Heading: inserted, on 22 December 2006, by [section 54][705] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 156D Civil infringement notice
     
@@ -7198,7 +7226,7 @@ Enforcement
     
     *   (g) any other prescribed information (if any).
     
-    Section 156D: inserted, on 22 December 2006, by [section 54][704] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 156D: inserted, on 22 December 2006, by [section 54][705] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 156E Objection to civil infringement notice
     
@@ -7214,7 +7242,7 @@ Enforcement
     
     *   (b) be made within the prescribed time and in the prescribed manner.
     
-    Section 156E: inserted, on 22 December 2006, by [section 54][704] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 156E: inserted, on 22 December 2006, by [section 54][705] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 156F Commission must consider objection
     
@@ -7238,7 +7266,7 @@ Enforcement
     
     (3) If the Commission accepts the objection, the notice under subsection (1)(c) must also contain a statement that the civil infringement notice has been withdrawn.
     
-    Section 156F: inserted, on 22 December 2006, by [section 54][704] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 156F: inserted, on 22 December 2006, by [section 54][705] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 156G Effect of withdrawal of civil infringement notice
     
@@ -7250,7 +7278,7 @@ Enforcement
     
     (2) The Commission must refund the pecuniary penalty specified in a civil infringement notice if the notice is withdrawn after the penalty was paid.
     
-    Section 156G: inserted, on 22 December 2006, by [section 54][704] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 156G: inserted, on 22 December 2006, by [section 54][705] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 156H Consequence of not paying pecuniary penalty specified in civil infringement notice
     
@@ -7268,7 +7296,7 @@ Enforcement
     
     (3) In any proceedings for the recovery of a debt under this section, the District Court must not enter judgment in favour of the Commission unless it is satisfied that the circumstances referred to in subsection (1) exist.
     
-    Section 156H: inserted, on 22 December 2006, by [section 54][704] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 156H: inserted, on 22 December 2006, by [section 54][705] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 156I Right to appeal
     
@@ -7278,7 +7306,7 @@ Enforcement
     
     (3) An appeal under subsection (1) does not operate as a stay of the civil infringement notice.
     
-    Section 156I: inserted, on 22 December 2006, by [section 54][704] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 156I: inserted, on 22 December 2006, by [section 54][705] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 156J Decision on appeal
     
@@ -7292,7 +7320,7 @@ Enforcement
     
     *   (b) is to be refunded to the person, if the appeal is allowed after the penalty was paid to the Commission or was recovered as a debt due to the Commission under [section 156H][441].
     
-    Section 156J: inserted, on 22 December 2006, by [section 54][704] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 156J: inserted, on 22 December 2006, by [section 54][705] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 156K Commission may publish information about issue of civil infringement notice
     
@@ -7318,11 +7346,11 @@ Enforcement
     
     *   (d) if an appeal under [section 156I][442] is brought in respect of the relevant civil infringement notice during that appeal period and the District Court allows the appeal by cancelling the pecuniary penalty specified in that notice.
     
-    Section 156K: inserted, on 22 December 2006, by [section 54][704] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 156K: inserted, on 22 December 2006, by [section 54][705] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 #### Pecuniary penalty
     
-*   Heading: inserted, on 22 December 2006, by [section 54][704] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+*   Heading: inserted, on 22 December 2006, by [section 54][705] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 156L Pecuniary penalty
     
@@ -7366,25 +7394,25 @@ Enforcement
     
     (7) However, no person is liable to more than 1 pecuniary penalty under this section for the same conduct.
     
-    Section 156L: inserted, on 22 December 2006, by [section 54][704] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 156L: inserted, on 22 December 2006, by [section 54][705] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 156L(1)(a): amended, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 65(1)][709] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156L(1)(a): amended, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 65(1)][710] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156L(1)(ab): inserted, on 1 July 2011, by [section 83(1)][710] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156L(1)(ab): inserted, on 1 July 2011, by [section 83(1)][711] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156L(2): substituted, on 1 July 2011, by [section 83(2)][710] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156L(2): substituted, on 1 July 2011, by [section 83(2)][711] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156L(3)(ab): inserted, on 1 July 2011, by [section 83(3)][710] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156L(3)(ab): inserted, on 1 July 2011, by [section 83(3)][711] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156L(3)(b): substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 65(2)][709] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156L(3)(b): substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 65(2)][710] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156L(3)(ba): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 65(2)][709] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156L(3)(ba): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 65(2)][710] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156L(3)(bb): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 65(2)][709] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156L(3)(bb): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 65(2)][710] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156L(3)(bc): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 65(2)][709] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156L(3)(bc): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 65(2)][710] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156L(3)(bd): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 65(2)][709] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156L(3)(bd): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 65(2)][710] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156M Further penalty may be imposed for continuing breach
     
@@ -7408,20 +7436,20 @@ Enforcement
     
     *   (b) ends on the day on which the breach is remedied.
     
-    Section 156M: inserted, on 22 December 2006, by [section 54][704] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 156M: inserted, on 22 December 2006, by [section 54][705] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 156M(1)(aa): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 66][711] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156M(1)(aa): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 66][712] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156M(1)(ab): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 66][711] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156M(1)(ab): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 66][712] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156M(1)(ac): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 66][711] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156M(1)(ac): inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 66][712] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156M(1)(b): amended, on 1 July 2011, by [section 50][712] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156M(1)(b): amended, on 1 July 2011, by [section 50][713] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ### Subpart 2---Enforcement of determinations, approved codes, and undertakings
     
-*   Subpart 2: inserted, on 22 December 2006, by [section 54][704] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
-*   Subpart 2 heading: amended, on 1 July 2011, by [section 84][713] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Subpart 2: inserted, on 22 December 2006, by [section 54][705] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+*   Subpart 2 heading: amended, on 1 July 2011, by [section 84][714] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156N Interpretation
     
@@ -7447,13 +7475,13 @@ Enforcement
     
     _party_ means a party to an enforceable matter and includes, in the case of an undertaking under [Part 2A][143] or [4AA][387], any provider of a telecommunications service that is affected by a breach of the undertaking.
     
-    Section 156N: inserted, on 22 December 2006, by [section 54][704] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 156N: inserted, on 22 December 2006, by [section 54][705] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 156N **enforceable matter** paragraph (e): amended, on 1 July 2011, by [section 85(1)][714] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156N **enforceable matter** paragraph (e): amended, on 1 July 2011, by [section 85(1)][715] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156N **enforceable matter** paragraph (ea): inserted, on 1 July 2011, by [section 85(2)][714] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156N **enforceable matter** paragraph (ea): inserted, on 1 July 2011, by [section 85(2)][715] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156N **party**: substituted, on 1 July 2011, by [section 85(3)][714] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156N **party**: substituted, on 1 July 2011, by [section 85(3)][715] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156O Complaints of breach of enforceable matter
     
@@ -7497,17 +7525,17 @@ Enforcement
     
     (7) Subsection (2)(b)(i) does not apply in the case of an undertaking under [Part 2A][143] or [4AA][387].
     
-    Section 156O: inserted, on 22 December 2006, by [section 54][704] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 156O: inserted, on 22 December 2006, by [section 54][705] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 156O(1): substituted, on 1 July 2011, by [section 86(1)][715] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156O(1): substituted, on 1 July 2011, by [section 86(1)][716] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156O(1)(b): substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 67(1)][716] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156O(1)(b): substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 67(1)][717] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156O(4): substituted, on 1 July 2011, by [section 86(2)][715] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156O(4): substituted, on 1 July 2011, by [section 86(2)][716] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156O(4)(a)(ii): substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 67(2)][716] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156O(4)(a)(ii): substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 67(2)][717] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Section 156O(7): substituted, on 1 July 2011, by [section 86(3)][715] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156O(7): substituted, on 1 July 2011, by [section 86(3)][716] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156P Enforcement by High Court
     
@@ -7525,9 +7553,9 @@ Enforcement
     
     (5) A party who has filed a determination under subsection (1) must file in the prescribed form in the High Court any clarification of the determination under [section 58][129] or reconsideration of the determination under [section 59][130].
     
-    Section 156P: inserted, on 22 December 2006, by [section 54][704] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 156P: inserted, on 22 December 2006, by [section 54][705] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 156P(2)(b): amended, on 1 July 2011, by [section 87][717] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 156P(2)(b): amended, on 1 July 2011, by [section 87][718] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 156Q Remedies for breach of enforceable matter
     
@@ -7543,13 +7571,13 @@ Enforcement
     
     (4) Proceedings under this section may be commenced within 3 years after the matter giving rise to the breach was discovered or ought reasonably to have been discovered.
     
-    Section 156Q: inserted, on 22 December 2006, by [section 54][704] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 156Q: inserted, on 22 December 2006, by [section 54][705] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 156R Limit on amount of pecuniary penalty
     
 *   The amount of any pecuniary penalty imposed under [section 156Q(2)][452] must not exceed the value of any commercial gain resulting from the breach of the enforceable matter, less the amount of any compensatory damages that the court decides to award against the person who has committed the breach.
     
-    Section 156R: inserted, on 22 December 2006, by [section 54][704] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 156R: inserted, on 22 December 2006, by [section 54][705] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ## Part 5  
 Miscellaneous
@@ -7560,7 +7588,7 @@ Miscellaneous
     
     (2) The review must---
         
-    *   (a) consider whether the existing regulatory framework under the [Telecommunications Act 2001][718] is the most effective means to---
+    *   (a) consider whether the existing regulatory framework under the [Telecommunications Act 2001][719] is the most effective means to---
             
         *   (i) promote competition for the long-term benefit of end-users; and
         
@@ -7610,7 +7638,7 @@ Miscellaneous
     
     (4) The Minister must use his or her best endeavours to ensure that the review is completed no later than 31 March 2019\.
     
-    Section 157AA: inserted, on 1 July 2011, by [section 25][719] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Section 157AA: inserted, on 1 July 2011, by [section 25][720] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 157 Regulations
     
@@ -7640,21 +7668,21 @@ Miscellaneous
     
     *   (d) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
     
-    Section 157(ca): inserted, on 22 December 2006, by [section 55][720] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 157(ca): inserted, on 22 December 2006, by [section 55][721] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 157(cb): inserted, on 22 December 2006, by [section 55][720] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 157(cb): inserted, on 22 December 2006, by [section 55][721] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 157(cc): inserted, on 22 December 2006, by [section 55][720] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 157(cc): inserted, on 22 December 2006, by [section 55][721] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 157(cd): inserted, on 22 December 2006, by [section 55][720] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 157(cd): inserted, on 22 December 2006, by [section 55][721] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 157(ce): inserted, on 22 December 2006, by [section 55][720] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 157(ce): inserted, on 22 December 2006, by [section 55][721] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 157(cf): inserted, on 22 December 2006, by [section 55][720] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 157(cf): inserted, on 22 December 2006, by [section 55][721] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 157(cg): inserted, on 22 December 2006, by [section 55][720] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 157(cg): inserted, on 22 December 2006, by [section 55][721] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Section 157(ch): inserted, on 22 December 2006, by [section 55][720] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Section 157(ch): inserted, on 22 December 2006, by [section 55][721] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 158 Enactments amended
     
@@ -7682,11 +7710,13 @@ Miscellaneous
     
     *   (b) facilities for broadcasting to 500 or more other persons that enable programmes to be transmitted along a line or lines to each of those persons.
     
-    (3) A notice in the _Gazette_ under subsection (1)(b) is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][571], but not for the purposes of the [Acts and Regulations Publication Act 1989][572].
+    (3) A notice in the _Gazette_ under subsection (1)(b) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][545] and must be presented to the House of Representatives under [section 41][546] of that Act.
+    
+    Section 160(3): replaced, on 5 August 2013, by [section 77(3)][547] of the Legislation Act 2012 (2012 No 119).
 
 ##### 161 Transitional provision relating to repeal of section 5C of 1987 Act
     
-*   Despite any enactment or rule of law, any requirements under [Part 2][25] or [regulation 7][721] of the Telecommunications (Information Disclosure) Regulations 1999 (SR 1999/383) with which Telecom had to comply before the repeal of [section 5C][722] of the 1987 Act cease to have effect as if those regulations had not been made.
+*   Despite any enactment or rule of law, any requirements under [Part 2][25] or [regulation 7][722] of the Telecommunications (Information Disclosure) Regulations 1999 (SR 1999/383) with which Telecom had to comply before the repeal of [section 5C][723] of the 1987 Act cease to have effect as if those regulations had not been made.
 
 ---
 
@@ -7698,7 +7728,7 @@ Designated services and specified services
 ## Part 1  
 Preliminary
 
-### Subpart 1 Interpretation and application provisions
+### Subpart 1---Interpretation and application provisions
 
 ##### 1 Interpretation
     
@@ -7742,11 +7772,11 @@ Preliminary
     
     *   (b) includes a reasonable allocation of forward-looking common costs.
     
-    Schedule 1 clause 1 **Chorus's local telephone exchange**: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 68][723] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Schedule 1 clause 1 **Chorus's local telephone exchange**: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 68][724] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Schedule 1 clause 1 **geographically averaged price**: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 68][723] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Schedule 1 clause 1 **geographically averaged price**: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 68][724] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Schedule 1 clause 1 **local loop network**: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 68][723] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Schedule 1 clause 1 **local loop network**: substituted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 68][724] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 2 Application of Baumol-Willig rule
     
@@ -7776,15 +7806,15 @@ Preliminary
     
     *   (b) Chorus's unbundled copper local loop network service.
     
-    Schedule 1 clause 4A: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 68][723] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Schedule 1 clause 4A: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 68][724] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 ##### 4B Application of pricing principles for designated access services
     
 *   In applying an applicable initial pricing principle or an applicable final pricing principle, the Commission must ensure that an access provider of a designated service does not recover costs that the access provider is recovering in the price of a designated or specified service provided under a determination prepared under [section 27][44] or [30M][66] or a designated or specified service provided on commercial terms.
     
-    Schedule 1 clause 4B: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 68][723] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+    Schedule 1 clause 4B: inserted, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 68][724] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
-### Subpart 2 Standard access principles for designated access services and specified services
+### Subpart 2---Standard access principles for designated access services and specified services
 
 ##### 5 Standard access principles for designated access services and specified services
     
@@ -7798,11 +7828,11 @@ Preliminary
     
     *   (d) _principle 4_: the access provider must, if requested, provide an access seeker with information about a designated access service or specified service at the same level of detail, and within the same time frame, that the access provider would provide that information had it been requested by one of its own business units.
     
-    Schedule 1 clause 5(d): added, on 22 December 2006, by [section 56][724] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 1 clause 5(d): added, on 22 December 2006, by [section 56][725] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 6 Limits on application of standard access principles set out in clause 5
     
-*   (1) Principles 1 to 4 set out in [clause 5][725] are limited by the following factors:
+*   (1) Principles 1 to 4 set out in [clause 5][726] are limited by the following factors:
         
     *   (a) reasonable technical and operational practicability having regard to the access provider's network:
     
@@ -7814,20 +7844,20 @@ Preliminary
     
     *   (e) any request for a lesser standard of service from an access seeker.
     
-    (2) Principle 4 set out in [clause 5][725]---
+    (2) Principle 4 set out in [clause 5][726]---
         
     *   (a) does not extend to any information about identifiable individual customers of the access provider; and
     
     *   (b) is subject to the requirement that any confidential information provided to the access seeker, in accordance with that principle, must be kept confidential to that access seeker.
     
-    Schedule 1 clause 6(1): amended, on 22 December 2006, by [section 56][724] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 1 clause 6(1): amended, on 22 December 2006, by [section 56][725] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Schedule 1 clause 6(2): added, on 22 December 2006, by [section 56][724] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 1 clause 6(2): added, on 22 December 2006, by [section 56][725] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ## Part 2  
 Designated services
 
-### Subpart 1 Designated access services
+### Subpart 1---Designated access services
 
 **Interconnection with a fixed PSTN**
 
@@ -7845,11 +7875,11 @@ A service provider who seeks access to the service
 
 _Access principles:_ 
 
-The standard access principles set out in [clause 5][725]
+The standard access principles set out in [clause 5][726]
 
 _Limits on access principles:_ 
 
-The limits set out in [clause 6][726]
+The limits set out in [clause 6][727]
 
 _Initial pricing principle:_ 
 
@@ -7943,11 +7973,11 @@ A service provider who seeks access to the service
 
 _Access principles:_ 
 
-The standard access principles set out in [clause 5][725]
+The standard access principles set out in [clause 5][726]
 
 _Limits on access principles:_ 
 
-The limits set out in [clause 6][726]
+The limits set out in [clause 6][727]
 
 _Initial pricing principle:_ 
 
@@ -8095,11 +8125,11 @@ A service provider who seeks access to the service
 
 _Access principles:_ 
 
-The standard access principles set out in [clause 5][725]
+The standard access principles set out in [clause 5][726]
 
 _Limits on access principles:_ 
 
-The limits set out in [clause 6][726]
+The limits set out in [clause 6][727]
 
 _Initial pricing principle:_ 
 
@@ -8559,11 +8589,11 @@ A service provider who seeks access to the service
 
 _Access principles:_ 
 
-The standard access principles set out in [clause 5][725]
+The standard access principles set out in [clause 5][726]
 
 _Limits on access principles:_ 
 
-The limits set out in [clause 6][726]
+The limits set out in [clause 6][727]
 
 _Initial pricing principle:_ 
 
@@ -8601,11 +8631,11 @@ _Additional matters that must be considered regarding the application of [sectio
 
 Nil
 
-*   Schedule 1 Part 2 subpart 1: amended, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 68][723] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
-*   Schedule 1 Part 2 subpart 1: amended, on 30 June 2011, by [clause 3(2)][727] of the Telecommunications (Retail Services and Bundle of Retail Services) Order 2011 (SR 2011/200).
-*   Schedule 1 Part 2 subpart 1: amended, on 23 September 2010, by [clause 3][728] of the Telecommunications (Mobile Termination Access Services) Order 2010 (SR 2010/262).
+*   Schedule 1 Part 2 subpart 1: amended, on 30 November 2011 (being the date of separation day, and an Order in Council (SR 2011/302) having been made under [section 36][474]), by [section 68][724] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Schedule 1 Part 2 subpart 1: amended, on 30 June 2011, by [clause 3(2)][728] of the Telecommunications (Retail Services and Bundle of Retail Services) Order 2011 (SR 2011/200).
+*   Schedule 1 Part 2 subpart 1: amended, on 23 September 2010, by [clause 3][729] of the Telecommunications (Mobile Termination Access Services) Order 2010 (SR 2010/262).
 
-### Subpart 2 Designated multinetwork services
+### Subpart 2---Designated multinetwork services
 
 **Local telephone number portability service**
 
@@ -8695,16 +8725,16 @@ _Access provider:_ Telecom
 
 _Access seeker:_ A service provider who seeks access to the service
 
-*   Schedule 1 **Access to, and interconnection with, Telecom's fixed PDN**: repealed, on 22 December 2006, by [section 56][724] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
-*   Schedule 1 **Bundle of retail services offered by means of Telecom's fixed telecommunications network**: substituted, on 8 January 2004, by [clause 3][729] of the Telecommunications (Initial Pricing Principle) Order 2003 (SR 2003/357).
-*   Schedule 1 **Interconnection with fixed PSTN other than Telecom's**: amended, on 22 December 2006, by [section 56][724] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
-*   Schedule 1 **Telecom's fixed PDN backhaul**: repealed, on 22 December 2006, by [section 56][724] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
-*   Schedule 1 **Telecom's unbundled bitstream access**: inserted, on 22 December 2006, by [section 56][724] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
-*   Schedule 1 **Telecom's unbundled bitstream access backhaul**: inserted, on 22 December 2006, by [section 56][724] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
-*   Schedule 1 **Telecom's unbundled copper local loop network**: inserted, on 22 December 2006, by [section 56][724] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
-*   Schedule 1 **Telecom's unbundled copper local loop network backhaul (distribution cabinet to telephone exchange)**: inserted, on 22 December 2006, by [section 56][724] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
-*   Schedule 1 **Telecom's unbundled copper local loop network backhaul (telephone exchange to interconnect point)**: inserted, on 22 December 2006, by [section 56][724] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
-*   Schedule 1 **Telecom's unbundled copper local loop network co-location**: inserted, on 22 December 2006, by [section 56][724] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+*   Schedule 1 **Access to, and interconnection with, Telecom's fixed PDN**: repealed, on 22 December 2006, by [section 56][725] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+*   Schedule 1 **Bundle of retail services offered by means of Telecom's fixed telecommunications network**: substituted, on 8 January 2004, by [clause 3][730] of the Telecommunications (Initial Pricing Principle) Order 2003 (SR 2003/357).
+*   Schedule 1 **Interconnection with fixed PSTN other than Telecom's**: amended, on 22 December 2006, by [section 56][725] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+*   Schedule 1 **Telecom's fixed PDN backhaul**: repealed, on 22 December 2006, by [section 56][725] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+*   Schedule 1 **Telecom's unbundled bitstream access**: inserted, on 22 December 2006, by [section 56][725] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+*   Schedule 1 **Telecom's unbundled bitstream access backhaul**: inserted, on 22 December 2006, by [section 56][725] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+*   Schedule 1 **Telecom's unbundled copper local loop network**: inserted, on 22 December 2006, by [section 56][725] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+*   Schedule 1 **Telecom's unbundled copper local loop network backhaul (distribution cabinet to telephone exchange)**: inserted, on 22 December 2006, by [section 56][725] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+*   Schedule 1 **Telecom's unbundled copper local loop network backhaul (telephone exchange to interconnect point)**: inserted, on 22 December 2006, by [section 56][725] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+*   Schedule 1 **Telecom's unbundled copper local loop network co-location**: inserted, on 22 December 2006, by [section 56][725] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ## Part 3  
 Specified services
@@ -8751,11 +8781,11 @@ A cellular mobile telephone network operator (except Telecom or Vodafone New Zea
 
 _Access principles:_ 
 
-The standard access principles set out in [clause 5][725]
+The standard access principles set out in [clause 5][726]
 
 _Limits on access principles:_ 
 
-The limits set out in [clause 6][726] and additional limits, which must be set by taking the following matters into account:
+The limits set out in [clause 6][727] and additional limits, which must be set by taking the following matters into account:
     
 *   (a) whether the access provider has, for each relevant cellsite within an area, sufficient available capacity to provide the service, taking into account its reasonable anticipated requirements for capacity at that cellsite:
 
@@ -8805,11 +8835,11 @@ Any person who---
 
 _Access principles:_ 
 
-The standard access principles set out in [clause 5][725]
+The standard access principles set out in [clause 5][726]
 
 _Limits on access principles:_ 
 
-The limits set out in [clause 6][726] and additional limits, which must be set by taking the following matters into account:
+The limits set out in [clause 6][727] and additional limits, which must be set by taking the following matters into account:
     
 *   (a) the access provider's current and reasonable forecast requirements for capacity on the relevant facilities:
 
@@ -8833,7 +8863,7 @@ A service that enables a telecommunications network operator to co-locate transm
     
 *   (a) any towers, poles, masts, or other similar structures---
         
-    *   (i) that are used for the transmission or reception of radiocommunications (as defined in [section 2(1)][730] of the Radiocommunications Act 1989); and
+    *   (i) that are used for the transmission or reception of radiocommunications (as defined in [section 2(1)][731] of the Radiocommunications Act 1989); and
     
     *   (ii) that are owned, managed, or leased by the access provider:
     
@@ -8853,11 +8883,11 @@ Any person who---
 
 *   (b) seeks access to the service
 
-_Access principles:_ The standard access principles set out in [clause 5][725]
+_Access principles:_ The standard access principles set out in [clause 5][726]
 
 _Limits on access principles:_ 
 
-The limits set out in [clause 6][726] and additional limits, which are to be set by taking the following matters into account:
+The limits set out in [clause 6][727] and additional limits, which are to be set by taking the following matters into account:
     
 *   (a) the access provider's current and reasonable forecast requirements for capacity on the relevant facilities:
 
@@ -8873,7 +8903,7 @@ The limits set out in [clause 6][726] and additional limits, which are to be set
 
 _Additional matters that must be considered regarding application of [section 18][27]:_ Nil
 
-*   Schedule 1 **National Roaming**: substituted, on 11 September 2008, by [clause 3][731] of the Telecommunications (National Roaming) Order 2008 (SR 2008/251).
+*   Schedule 1 **National Roaming**: substituted, on 11 September 2008, by [clause 3][732] of the Telecommunications (National Roaming) Order 2008 (SR 2008/251).
 
 ---
 
@@ -8884,58 +8914,58 @@ Telecommunications access codes
 
 ## Contents
 
-[Part 1][732]  
-[Telecommunications access codes prepared by Forum][732]
+[Part 1][733]  
+[Telecommunications access codes prepared by Forum][733]
 
 [1][484][][484][Forum may prepare code][484]
 
-[2][733][][733][Requirements for draft codes for designated access services and specified services][733]
+[2][734][][734][Requirements for draft codes for designated access services and specified services][734]
 
-[3][734][][734][Requirements for draft codes for designated multi-network services][734]
+[3][735][][735][Requirements for draft codes for designated multi-network services][735]
 
-[3A][735][][735][Requirements for draft codes for services supplied under registered undertaking][735]
+[3A][736][][736][Requirements for draft codes for services supplied under registered undertaking][736]
 
 [4][485][][485][Forum must arrange referendum on draft code][485]
 
-[5][736][][736][Draft code may be submitted to Commission][736]
+[5][737][][737][Draft code may be submitted to Commission][737]
 
-[6][737][][737][Commission must consider whether consultation on draft code is needed][737]
+[6][738][][738][Commission must consider whether consultation on draft code is needed][738]
 
-[7][738][][738][Consultation process on draft code][738]
+[7][739][][739][Consultation process on draft code][739]
 
-[8][739][][739][Variation of draft code][739]
+[8][740][][740][Variation of draft code][740]
 
 [9][479][][479][When Commission must approve draft code][479] \[Repealed\]
 
 [10][480][][480][Commission's discretion to approve draft code][480]
 
-[10A][740][][740][Commission must refuse to approve draft code in certain cases][740]
+[10A][741][][741][Commission must refuse to approve draft code in certain cases][741]
 
-[10B][741][][741][Amendment of draft code][741]
+[10B][742][][742][Amendment of draft code][742]
 
-[11][742][][742][Expiry of approved code][742]
+[11][743][][743][Expiry of approved code][743]
 
-[12][743][][743][Revocation of approved codes][743]
+[12][744][][744][Revocation of approved codes][744]
 
-[13][744][][744][Amendment of approved codes][744]
+[13][745][][745][Amendment of approved codes][745]
 
-[14][745][][745][Amendment of approved code initiated by Commission][745]
+[14][746][][746][Amendment of approved code initiated by Commission][746]
 
-[15][746][][746][Consequences of not complying with Commission's request under clause 14(2)][746]
+[15][747][][747][Consequences of not complying with Commission's request under clause 14(2)][747]
 
-[16][747][][747][Public notice of approved codes][747]
+[16][748][][748][Public notice of approved codes][748]
 
-[Part 2][748]  
-[Telecommunications access codes prepared by Commission][748]
+[Part 2][749]  
+[Telecommunications access codes prepared by Commission][749]
 
-[17][749][][749][Commission may prepare code][749]
+[17][750][][750][Commission may prepare code][750]
 
 ---
 
 ## Part 1  
 Telecommunications access codes prepared by Forum
     
-*   Schedule 2 Part 1 heading: inserted, on 22 December 2006, by [section 57][750] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+*   Schedule 2 Part 1 heading: inserted, on 22 December 2006, by [section 57][751] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 1 Forum may prepare code
     
@@ -8943,7 +8973,7 @@ Telecommunications access codes prepared by Forum
     
     (2) The Commission may issue guidelines to the Forum on any matters relating to telecommunications access codes, including advice on what matters are appropriately dealt with by those codes.
     
-    Schedule 2 clause 1(2): added, on 22 December 2006, by [section 57][750] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 2 clause 1(2): added, on 22 December 2006, by [section 57][751] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 2 Requirements for draft codes for designated access services and specified services
     
@@ -8959,7 +8989,7 @@ Telecommunications access codes prepared by Forum
     
     *   (d) not directly provide for the implementation of initial and final pricing principles and any regulations relating to those principles.
     
-    Schedule 2 clause 2(1): substituted, on 22 December 2006, by [section 57][750] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 2 clause 2(1): substituted, on 22 December 2006, by [section 57][751] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 3 Requirements for draft codes for designated multi-network services
     
@@ -8991,7 +9021,7 @@ Telecommunications access codes prepared by Forum
     
     *   (c) not provide for any matter relating to the price of the service.
     
-    Schedule 2 clause 3A: inserted, on 22 December 2006, by [section 57][750] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 2 clause 3A: inserted, on 22 December 2006, by [section 57][751] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 4 Forum must arrange referendum on draft code
     
@@ -9019,13 +9049,13 @@ Telecommunications access codes prepared by Forum
     
     (5) A person entitled to register with the Commission under subclause (4) may be a member of the Forum for the purposes of this Act.
     
-    Schedule 2 clause 4(2): substituted, on 22 December 2006, by [section 57][750] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 2 clause 4(2): substituted, on 22 December 2006, by [section 57][751] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Schedule 2 clause 4(3): substituted, on 22 December 2006, by [section 57][750] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 2 clause 4(3): substituted, on 22 December 2006, by [section 57][751] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Schedule 2 clause 4(3A): inserted, on 22 December 2006, by [section 57][750] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 2 clause 4(3A): inserted, on 22 December 2006, by [section 57][751] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Schedule 2 clause 4(4): substituted, on 22 December 2006, by [section 57][750] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 2 clause 4(4): substituted, on 22 December 2006, by [section 57][751] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
     Schedule 2 clause 4(4)(a): amended, on 1 July 2011, by [section 26(1)][501] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
@@ -9037,7 +9067,7 @@ Telecommunications access codes prepared by Forum
     
     *   (b) that identifies every relevant applicable access principle; and
     
-    *   (c) that the draft code meets all the requirements set out in [clause 2][733] or [clause 3][734] or [clause 3A][735] (as the case may require); and
+    *   (c) that the draft code meets all the requirements set out in [clause 2][734] or [clause 3][735] or [clause 3A][736] (as the case may require); and
     
     *   (d) that either the draft code---
             
@@ -9053,15 +9083,15 @@ Telecommunications access codes prepared by Forum
     
     *   (g) that sets out how the apportionment is consistent with the purpose set out in [section 18][27].
     
-    Schedule 2 clause 5(c): amended, on 22 December 2006, by [section 57][750] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 2 clause 5(c): amended, on 22 December 2006, by [section 57][751] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Schedule 2 clause 5(d): substituted, on 22 December 2006, by [section 57][750] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 2 clause 5(d): substituted, on 22 December 2006, by [section 57][751] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 6 Commission must consider whether consultation on draft code is needed
     
 *   (1) The Commission must make reasonable efforts to consider whether or not consultation on the draft code is needed not later than 10 working days after the date on which the Commission received the draft code.
     
-    (2) The Commission need not do any of the things set out in [clause 7(1)][738] if the Commission is satisfied that the Forum has---
+    (2) The Commission need not do any of the things set out in [clause 7(1)][739] if the Commission is satisfied that the Forum has---
         
     *   (a) published a notice of the draft code, or caused a notice of the draft code to be published, in the _Gazette_; and
     
@@ -9089,9 +9119,9 @@ Telecommunications access codes prepared by Forum
     
 *   (1AA) This clause applies if the draft code has been prepared by the Forum under [clause 1][484].
     
-    (1) The Commission must make reasonable efforts to consider whether or not the draft code meets all of the requirements set out in [clause 2][733] or [clause 3][734] or [clause 3A][735] (as the case may require) at least 20, but not later than 40, working days after the closing date for submissions under [clause 7(2)][738].
+    (1) The Commission must make reasonable efforts to consider whether or not the draft code meets all of the requirements set out in [clause 2][734] or [clause 3][735] or [clause 3A][736] (as the case may require) at least 20, but not later than 40, working days after the closing date for submissions under [clause 7(2)][739].
     
-    (2) If the Commission considers that the draft code does not meet all of the requirements set out in [clause 2][733] or [clause 3][734] or [clause 3A][735] (as the case may require), the Commission---
+    (2) If the Commission considers that the draft code does not meet all of the requirements set out in [clause 2][734] or [clause 3][735] or [clause 3A][736] (as the case may require), the Commission---
         
     *   (a) must not approve the draft code; and
     
@@ -9101,31 +9131,31 @@ Telecommunications access codes prepared by Forum
     
     (3) If the Forum resubmits the draft code to the Commission, [clauses 1 to 7][484] and subclauses (1) and (2) again apply to the resubmitted code.
     
-    Schedule 2 clause 8(1AA): inserted, on 22 December 2006, by [section 57][750] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 2 clause 8(1AA): inserted, on 22 December 2006, by [section 57][751] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Schedule 2 clause 8(1): amended, on 22 December 2006, by [section 57][750] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 2 clause 8(1): amended, on 22 December 2006, by [section 57][751] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Schedule 2 clause 8(2): amended, on 22 December 2006, by [section 57][750] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 2 clause 8(2): amended, on 22 December 2006, by [section 57][751] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 9 When Commission must approve draft code
     
 *   \[Repealed\]
     
-    Schedule 2 clause 9: repealed, on 22 December 2006, by [section 57][750] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 2 clause 9: repealed, on 22 December 2006, by [section 57][751] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 10 Commission's discretion to approve draft code
     
 *   The Commission may approve a draft code if the Commission is satisfied that---
         
-    *   (a) the draft code meets all the requirements set out in [clause 2][733] or [clause 3][734] or [clause 3A][735] (as the case may require); and
+    *   (a) the draft code meets all the requirements set out in [clause 2][734] or [clause 3][735] or [clause 3A][736] (as the case may require); and
     
-    *   (b) all the consultation referred to in [clause 7(1)][738] has been carried out; and
+    *   (b) all the consultation referred to in [clause 7(1)][739] has been carried out; and
     
     *   (c) \[Repealed\]
     
-    Schedule 2 clause 10(a): amended, on 22 December 2006, by [section 57][750] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 2 clause 10(a): amended, on 22 December 2006, by [section 57][751] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Schedule 2 clause 10(c): repealed, on 22 December 2006, by [section 57][750] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 2 clause 10(c): repealed, on 22 December 2006, by [section 57][751] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 10A Commission must refuse to approve draft code in certain cases
     
@@ -9137,21 +9167,21 @@ Telecommunications access codes prepared by Forum
     
     *   (c) a designated multinetwork service determination under [section 39][102].
     
-    Schedule 2 clause 10A: inserted, on 22 December 2006, by [section 57][750] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 2 clause 10A: inserted, on 22 December 2006, by [section 57][751] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 10B Amendment of draft code
     
-*   (1) This clause applies only if the Commission considers that, because of a change in circumstances, a draft code submitted to it no longer meets all the requirements set out in [clause 2][733] or [clause 3][734] or [clause 3A][735] (as the case may require).
+*   (1) This clause applies only if the Commission considers that, because of a change in circumstances, a draft code submitted to it no longer meets all the requirements set out in [clause 2][734] or [clause 3][735] or [clause 3A][736] (as the case may require).
     
     (2) The Commission may prepare, or request the Forum to prepare, a specific amendment to the draft code to ensure that it meets all of those requirements.
     
     (3) If the Commission prepares the amendment, the Commission must---
         
-    *   (a) ensure that the consultation referred to in [clause 7(1)][738] has been carried out on the amended draft code; and
+    *   (a) ensure that the consultation referred to in [clause 7(1)][739] has been carried out on the amended draft code; and
     
     *   (b) decide, as soon as practicable after paragraph (a) has been complied with, whether to approve the amended draft code under [clause 10][480].
     
-    Schedule 2 clause 10B: inserted, on 22 December 2006, by [section 57][750] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 2 clause 10B: inserted, on 22 December 2006, by [section 57][751] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 11 Expiry of approved code
     
@@ -9167,15 +9197,15 @@ Telecommunications access codes prepared by Forum
         
     *   (a) requested to do so by 75% of eligible persons who voted on the approved code; and
     
-    *   (b) the Commission considers that, because of a change in circumstances, an approved code no longer meets all the requirements set out in [clause 2][733] or [clause 3][734] or [clause 3A][735] (as the case may require).
+    *   (b) the Commission considers that, because of a change in circumstances, an approved code no longer meets all the requirements set out in [clause 2][734] or [clause 3][735] or [clause 3A][736] (as the case may require).
     
     (3) Despite subclause (2), the Commission may revoke an approved code if it is satisfied that to do so best gives, or is likely to best give, effect to the purpose set out in [section 18][27].
     
-    Schedule 2 clause 12(2)(a): substituted, on 22 December 2006, by [section 57][750] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 2 clause 12(2)(a): substituted, on 22 December 2006, by [section 57][751] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Schedule 2 clause 12(2)(b): amended, on 22 December 2006, by [section 57][750] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 2 clause 12(2)(b): amended, on 22 December 2006, by [section 57][751] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
-    Schedule 2 clause 12(3): added, on 22 December 2006, by [section 57][750] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 2 clause 12(3): added, on 22 December 2006, by [section 57][751] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 13 Amendment of approved codes
     
@@ -9183,37 +9213,37 @@ Telecommunications access codes prepared by Forum
         
     *   (a) amended in the same manner that it was approved; or
     
-    *   (b) amended by the Commission in accordance with [clause 14][745].
+    *   (b) amended by the Commission in accordance with [clause 14][746].
     
     
 
 ##### 14 Amendment of approved code initiated by Commission
     
-*   (1) This clause and [clause 13][744] apply only if the Commission considers that, because of a change in circumstances, an approved code no longer meets all the requirements set out in [clause 2][733] or [clause 3][734] or [clause 3A][735] (as the case may require).
+*   (1) This clause and [clause 13][745] apply only if the Commission considers that, because of a change in circumstances, an approved code no longer meets all the requirements set out in [clause 2][734] or [clause 3][735] or [clause 3A][736] (as the case may require).
     
     (2) The Commission may request the Forum to prepare a specific amendment to an approved code for submission to it within a specified time.
     
     (3) If the Forum complies with the Commission's request under subclause (2), the same procedure that applies to draft codes must be followed.
     
-    Schedule 2 clause 14(1): amended, on 22 December 2006, by [section 57][750] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 2 clause 14(1): amended, on 22 December 2006, by [section 57][751] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 15 Consequences of not complying with Commission's request under clause 14(2)
     
-*   (1) If the Forum does not comply within a reasonable period with the Commission's request under [clause 14(2)][745], the Commission may prepare the amendment.
+*   (1) If the Forum does not comply within a reasonable period with the Commission's request under [clause 14(2)][746], the Commission may prepare the amendment.
     
     (2) If the Commission prepares the amendment, the Commission must---
         
     *   (a) ensure that---
             
-        *   (i) the amendment meets all the requirements set out in [clause 2][733] or [clause 3][734] or [clause 3A][735] (as the case may require); and
+        *   (i) the amendment meets all the requirements set out in [clause 2][734] or [clause 3][735] or [clause 3A][736] (as the case may require); and
         
-        *   (ii) the consultation referred to in [clause 7(1)][738] has been carried out; and
+        *   (ii) the consultation referred to in [clause 7(1)][739] has been carried out; and
         
         
     
     *   (b) approve the amendment as soon as practicable after paragraph (a) has been complied with.
     
-    Schedule 2 clause 15(2)(a)(i): amended, on 22 December 2006, by [section 57][750] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 2 clause 15(2)(a)(i): amended, on 22 December 2006, by [section 57][751] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 16 Public notice of approved codes
     
@@ -9228,7 +9258,7 @@ Telecommunications access codes prepared by Forum
 ## Part 2  
 Telecommunications access codes prepared by Commission
     
-*   Schedule 2 Part 2: added, on 22 December 2006, by [section 57][750] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+*   Schedule 2 Part 2: added, on 22 December 2006, by [section 57][751] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 17 Commission may prepare code
     
@@ -9236,9 +9266,9 @@ Telecommunications access codes prepared by Commission
     
     (2) This clause does not limit [clause 1][484].
     
-    (3) For the purposes of this clause, the provisions of [Part 1][751] of this schedule, so far as they are applicable and with any necessary modifications, apply to a code prepared by the Commission as if it were a code prepared by the Forum under that Part.
+    (3) For the purposes of this clause, the provisions of [Part 1][752] of this schedule, so far as they are applicable and with any necessary modifications, apply to a code prepared by the Commission as if it were a code prepared by the Forum under that Part.
     
-    Schedule 2 clause 17: added, on 22 December 2006, by [section 57][750] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 2 clause 17: added, on 22 December 2006, by [section 57][751] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ---
 
@@ -9249,43 +9279,43 @@ Procedure for altering regulated services
 
 ## Contents
 
-[Part 1][566]  
-[Procedure for designated services or specified services (except specified services that are to become designated services)][566]
+[Part 1][569]  
+[Procedure for designated services or specified services (except specified services that are to become designated services)][569]
 
 [1][489][][489][Commission's investigation][489]
 
-[2][752][][752][Draft report][752]
+[2][753][][753][Draft report][753]
 
-[3][753][][753][Conferences or public hearing][753]
+[3][754][][754][Conferences or public hearing][754]
 
 [4][510][][510][Final report of recommendation of Commission][510]
 
-[5][754][][754][Commission must give written reasons for not meeting time limit][754]
+[5][755][][755][Commission must give written reasons for not meeting time limit][755]
 
-[5A][755][][755][Minister may request clarification of final report][755]
+[5A][756][][756][Minister may request clarification of final report][756]
 
-[6][756][][756][Decision by Minister on Commission's recommendations][756]
+[6][757][][757][Decision by Minister on Commission's recommendations][757]
 
-[7][757][][757][Deferral of Minister's decision][757]
+[7][758][][758][Deferral of Minister's decision][758]
 
-[Part 2][565]  
-[Procedure for specified services to become designated services][565]
+[Part 2][568]  
+[Procedure for specified services to become designated services][568]
 
 [8][488][][488][Commission's investigation][488]
 
-[9][758][][758][Draft report][758]
+[9][759][][759][Draft report][759]
 
-[10][759][][759][Conferences or public hearing][759]
+[10][760][][760][Conferences or public hearing][760]
 
-[11][760][][760][Final report of recommendation of Commission][760]
+[11][761][][761][Final report of recommendation of Commission][761]
 
-[12][761][][761][Commission must give written reasons for not meeting time limit][761]
+[12][762][][762][Commission must give written reasons for not meeting time limit][762]
 
-[12A][762][][762][Minister may request clarification of final report][762]
+[12A][763][][763][Minister may request clarification of final report][763]
 
-[13][763][][763][Decision by Minister on Commission's recommendations][763]
+[13][764][][764][Decision by Minister on Commission's recommendations][764]
 
-[14][764][][764][Deferral of Minister's decision][764]
+[14][765][][765][Deferral of Minister's decision][765]
 
 ---
 
@@ -9308,7 +9338,7 @@ Procedure for designated services or specified services (except specified servic
     
     (7) This clause is subject to [section 156AP][410].
     
-    Schedule 3 clause 1: substituted, on 22 December 2006, by [section 58][765] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 3 clause 1: substituted, on 22 December 2006, by [section 58][766] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
     Schedule 3 clause 1(7): added, on 1 July 2011, by [section 88][476] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
@@ -9334,7 +9364,7 @@ Procedure for designated services or specified services (except specified servic
     
     *   (b) identify any recommendations that the Commission considers to be sufficiently related to each other that they ought to be considered together.
     
-    Schedule 3 clause 2(2): substituted, on 22 December 2006, by [section 58][765] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 3 clause 2(2): substituted, on 22 December 2006, by [section 58][766] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 3 Conferences or public hearing
     
@@ -9382,11 +9412,11 @@ Procedure for designated services or specified services (except specified servic
     
     (5) This clause is subject to [section 156AP][410].
     
-    Schedule 3 clause 4(1): amended, on 22 December 2006, by [section 58][765] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 3 clause 4(1): amended, on 22 December 2006, by [section 58][766] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
     Schedule 3 clause 4(3)(d): substituted, on 1 July 2011, by [section 26(1)][501] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
     
-    Schedule 3 clause 4(4): added, on 22 December 2006, by [section 58][765] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 3 clause 4(4): added, on 22 December 2006, by [section 58][766] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
     
     Schedule 3 clause 4(5): added, on 1 July 2011, by [section 88][476] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
@@ -9406,7 +9436,7 @@ Procedure for designated services or specified services (except specified servic
     
     (3) Subclause (1) does not authorise the Minister to require the Commission to undertake any further analysis of, or investigation into, any matter included in the final report.
     
-    Schedule 3 clause 5A: inserted, on 22 December 2006, by [section 58][765] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 3 clause 5A: inserted, on 22 December 2006, by [section 58][766] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 6 Decision by Minister on Commission's recommendations
     
@@ -9434,7 +9464,7 @@ Procedure for designated services or specified services (except specified servic
         
         
     
-    Schedule 3 clause 6: substituted, on 22 December 2006, by [section 58][765] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 3 clause 6: substituted, on 22 December 2006, by [section 58][766] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 7 Deferral of Minister's decision
     
@@ -9458,9 +9488,9 @@ Procedure for designated services or specified services (except specified servic
     
     *   (c) prepare, as soon as is reasonably practicable after the closing date for submissions, a final report to the Minister that contains the matters set out in the draft report and summarises, and makes recommendations on, the submissions received on the draft report.
     
-    (3) [Clause 6][756] again applies to the report referred to in subclause (1)(b)(ii) or (2)(c), as the case may be.
+    (3) [Clause 6][757] again applies to the report referred to in subclause (1)(b)(ii) or (2)(c), as the case may be.
     
-    Schedule 3 clause 7: substituted, on 22 December 2006, by [section 58][765] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 3 clause 7: substituted, on 22 December 2006, by [section 58][766] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ## Part 2  
 Procedure for specified services to become designated services
@@ -9491,7 +9521,7 @@ Procedure for specified services to become designated services
             
         *   (i) the closing date for submissions, which must not be later than 15 working days after the date of giving public notice; and
         
-        *   (ii) the date of any public hearing to be held under [clause 10][759].
+        *   (ii) the date of any public hearing to be held under [clause 10][760].
         
         
     
@@ -9539,15 +9569,15 @@ Procedure for specified services to become designated services
     
     (4) The Commission may, if it thinks fit, identify any recommendations included in the final report that it considers to be sufficiently related to each other that they ought to be considered together by the Minister.
     
-    Schedule 3 clause 11(4): added, on 22 December 2006, by [section 58][765] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 3 clause 11(4): added, on 22 December 2006, by [section 58][766] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 12 Commission must give written reasons for not meeting time limit
     
-*   If, despite making reasonable efforts, the Commission is unable to do all of the things set out in [clause 11(1)][760] within the time limit specified in that subclause, the Commission must give to the Minister written reasons for not meeting that time limit.
+*   If, despite making reasonable efforts, the Commission is unable to do all of the things set out in [clause 11(1)][761] within the time limit specified in that subclause, the Commission must give to the Minister written reasons for not meeting that time limit.
 
 ##### 12A Minister may request clarification of final report
     
-*   (1) After receiving a final report under [clause 11][760], the Minister may request that the Commission---
+*   (1) After receiving a final report under [clause 11][761], the Minister may request that the Commission---
         
     *   (a) clarify any aspect of the report:
     
@@ -9557,13 +9587,13 @@ Procedure for specified services to become designated services
     
     (3) Subclause (1) does not authorise the Minister to require the Commission to undertake any further analysis of, or investigation into, any matter included in the final report.
     
-    Schedule 3 clause 12A: inserted, on 22 December 2006, by [section 58][765] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 3 clause 12A: inserted, on 22 December 2006, by [section 58][766] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 13 Decision by Minister on Commission's recommendations
     
-*   (1) In considering a final report under [clause 11][760], the Minister must---
+*   (1) In considering a final report under [clause 11][761], the Minister must---
         
-    *   (a) consider together any recommendations that the Commission has, under [clause 11(4)][760], identified in its final report to be sufficiently related to each other (a _set of related recommendations_); and
+    *   (a) consider together any recommendations that the Commission has, under [clause 11(4)][761], identified in its final report to be sufficiently related to each other (a _set of related recommendations_); and
     
     *   (b) consider separately any other recommendations.
     
@@ -9589,9 +9619,9 @@ Procedure for specified services to become designated services
         
     *   (a) the date on which the Minister receives that report; or
     
-    *   (b) as the case may be, the date on which the Commission complies with a request under [clause 12A][762].
+    *   (b) as the case may be, the date on which the Commission complies with a request under [clause 12A][763].
     
-    Schedule 3 clause 13: substituted, on 22 December 2006, by [section 58][765] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 3 clause 13: substituted, on 22 December 2006, by [section 58][766] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ##### 14 Deferral of Minister's decision
     
@@ -9615,9 +9645,9 @@ Procedure for specified services to become designated services
     
     *   (c) prepare, as soon as is reasonably practicable after the closing date for submissions, a final report to the Minister that contains the matters set out in the draft report and summarises, and makes recommendations on, the submissions received on the draft report.
     
-    (3) [Clause 6][756] applies to the report referred to in subclause (1)(b)(ii) or (2)(c), as the case may be.
+    (3) [Clause 6][757] applies to the report referred to in subclause (1)(b)(ii) or (2)(c), as the case may be.
     
-    Schedule 3 clause 14: substituted, on 22 December 2006, by [section 58][765] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+    Schedule 3 clause 14: substituted, on 22 December 2006, by [section 58][766] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ---
 
@@ -9626,53 +9656,53 @@ Undertakings
 
 [s 68A][141]
 
-*   Schedule 3A: inserted, on 22 December 2006, by [section 59][766] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
+*   Schedule 3A: inserted, on 22 December 2006, by [section 59][767] of the Telecommunications Amendment Act (No 2) 2006 (2006 No 83).
 
 ## Contents
 
-[Preliminary][767]
+[Preliminary][768]
 
 [1][490][][490][Interpretation][490]
 
-[Purpose of clauses 3 to 16][768]
+[Purpose of clauses 3 to 16][769]
 
-[2][769][][769][Purpose of clauses 3 to 16][769]
+[2][770][][770][Purpose of clauses 3 to 16][770]
 
-[Acceptance and registration of undertakings][770]
+[Acceptance and registration of undertakings][771]
 
-[3][771][][771][Commission may accept undertaking][771]
+[3][772][][772][Commission may accept undertaking][772]
 
-[4][772][][772][Criteria for undertaking][772]
+[4][773][][773][Criteria for undertaking][773]
 
-[5][773][][773][Requirements for undertaking][773]
+[5][774][][774][Requirements for undertaking][774]
 
-[6][774][][774][Commission must register undertaking if Minister accepts Commission's recommendation][774]
+[6][775][][775][Commission must register undertaking if Minister accepts Commission's recommendation][775]
 
-[7][775][][775][Expiry of registration of undertaking][775]
+[7][776][][776][Expiry of registration of undertaking][776]
 
-[Effect of registration of undertaking][776]
+[Effect of registration of undertaking][777]
 
-[8][777][][777][Effect of registration of undertaking][777]
+[8][778][][778][Effect of registration of undertaking][778]
 
-[9][778][][778][Part 2 of Commerce Act 1986 does not apply to registered undertaking][778]
+[9][779][][779][Part 2 of Commerce Act 1986 does not apply to registered undertaking][779]
 
-[Register][779]
+[Register][780]
 
-[10][780][][780][Register of undertakings][780]
+[10][781][][781][Register of undertakings][781]
 
-[11][781][][781][Other duties and powers of Commission in relation to register][781]
+[11][782][][782][Other duties and powers of Commission in relation to register][782]
 
-[12][782][][782][Contents of register][782]
+[12][783][][783][Contents of register][783]
 
-[Process for making undertaking][783]
+[Process for making undertaking][784]
 
-[13][784][][784][Process for making undertaking][784]
+[13][785][][785][Process for making undertaking][785]
 
-[14][785][][785][Requirements for application][785]
+[14][786][][786][Requirements for application][786]
 
-[15][786][][786][Timing of application][786]
+[15][787][][787][Timing of application][787]
 
-[16][787][][787][Commission must invite submissions][787]
+[16][788][][788][Commission must invite submissions][788]
 
 ---
 
@@ -9684,7 +9714,7 @@ Undertakings
     
     _final report_ means the report that---
         
-    *   (a) is prepared in accordance with [clause 4][510] of Schedule 3 or, as the case may be, [clause 11][760] of that schedule; and
+    *   (a) is prepared in accordance with [clause 4][510] of Schedule 3 or, as the case may be, [clause 11][761] of that schedule; and
     
     *   (b) includes the Commission's recommendation on---
             
@@ -9712,7 +9742,7 @@ Undertakings
         
         
     
-    _register_ means the register of undertakings established and maintained by the Commission under [clause 10(1)][780]
+    _register_ means the register of undertakings established and maintained by the Commission under [clause 10(1)][781]
     
     _registered undertaking_ means an undertaking that is entered in the register
     
@@ -9722,13 +9752,13 @@ Undertakings
     
     *   (b) an undertaking
     
-    _undertaking_ has the meaning set out in [clause 3][771].
+    _undertaking_ has the meaning set out in [clause 3][772].
 
 #### Purpose of clauses 3 to 16
 
 ##### 2 Purpose of clauses 3 to 16
     
-*   The purpose of [clauses 3 to 16][771] is to provide, as an alternative to a proposed regulatory change, a mechanism for an access provider to supply a service to all access seekers---
+*   The purpose of [clauses 3 to 16][772] is to provide, as an alternative to a proposed regulatory change, a mechanism for an access provider to supply a service to all access seekers---
         
     *   (a) on a voluntary basis that avoids the need for regulation; and
     
@@ -9756,17 +9786,17 @@ Undertakings
         
         
     
-    (3) However, an undertaking that the Commission accepts under subclause (2) has no legal effect unless it is registered under [clause 6][774].
+    (3) However, an undertaking that the Commission accepts under subclause (2) has no legal effect unless it is registered under [clause 6][775].
     
-    (4) For the purposes of subclause (2), [clauses 4][510], [6][756], and [7][757] of Schedule 3 or, as the case may be, [clauses 11][760], [13][763], and [14][764] of that schedule apply with any necessary modifications.
+    (4) For the purposes of subclause (2), [clauses 4][510], [6][757], and [7][758] of Schedule 3 or, as the case may be, [clauses 11][761], [13][764], and [14][765] of that schedule apply with any necessary modifications.
 
 ##### 4 Criteria for undertaking
     
-*   The Commission must not make a recommendation under [clause 3(2)][771] unless the Commission is satisfied that the undertaking---
+*   The Commission must not make a recommendation under [clause 3(2)][772] unless the Commission is satisfied that the undertaking---
         
     *   (a) complies with this Act and any regulations made under this Act; and
     
-    *   (b) complies with the standard access principles set out in [clause 5][725] of Schedule 1 and any limits on those standard access principles set out in [clause 6][726] of that schedule.
+    *   (b) complies with the standard access principles set out in [clause 5][726] of Schedule 1 and any limits on those standard access principles set out in [clause 6][727] of that schedule.
     
     
 
@@ -9784,7 +9814,7 @@ Undertakings
     
     *   (e) provide for any other prescribed matters.
     
-    (2) An undertaking must not be amended after the Commission has made a recommendation under [clause 3(2)][771] in respect of that undertaking.
+    (2) An undertaking must not be amended after the Commission has made a recommendation under [clause 3(2)][772] in respect of that undertaking.
 
 ##### 6 Commission must register undertaking if Minister accepts Commission's recommendation
     
@@ -9794,7 +9824,7 @@ Undertakings
             
         *   (i) the name of the relevant access provider; and
         
-        *   (ii) any other information specified in [clause 12][782]; and
+        *   (ii) any other information specified in [clause 12][783]; and
         
         
     
@@ -9856,7 +9886,7 @@ Undertakings
 
 ##### 9 Part 2 of Commerce Act 1986 does not apply to registered undertaking
     
-*   [Part 2][562] of the Commerce Act 1986 does not apply in respect of---
+*   [Part 2][565] of the Commerce Act 1986 does not apply in respect of---
         
     *   (a) a registered undertaking; and
     
@@ -9888,7 +9918,7 @@ Undertakings
     
     (2) The Commission may, at any time, make any amendments to the register that are necessary to---
         
-    *   (a) reflect any changes in the information specified in [clause 13][784]; or
+    *   (a) reflect any changes in the information specified in [clause 13][785]; or
     
     *   (b) correct a mistake caused by any error or omission on the part of the Commission.
     
@@ -9914,11 +9944,11 @@ Undertakings
 
 ##### 13 Process for making undertaking
     
-*   (1) An access provider who wishes to make an undertaking must apply to the Commission in accordance with [clause 14][785].
+*   (1) An access provider who wishes to make an undertaking must apply to the Commission in accordance with [clause 14][786].
     
     (2) The Commission must deal with the application---
         
-    *   (a) in accordance with [clauses 15(2)][786] and [16][787]:
+    *   (a) in accordance with [clauses 15(2)][787] and [16][788]:
     
     *   (b) in the prescribed manner, if any.
     
@@ -9926,7 +9956,7 @@ Undertakings
 
 ##### 14 Requirements for application
     
-*   An application under [clause 13][784] must---
+*   An application under [clause 13][785] must---
         
     *   (a) be in writing; and
     
@@ -9940,7 +9970,7 @@ Undertakings
 
 ##### 15 Timing of application
     
-*   (1) An application under [clause 13][784]---
+*   (1) An application under [clause 13][785]---
         
     *   (a) may be made after the date on which public notice is given under [clause 1(3)][489] of Schedule 3; but
     
@@ -9950,7 +9980,7 @@ Undertakings
 
 ##### 16 Commission must invite submissions
     
-*   (1) After receiving an application under [clause 13][784], the Commission must---
+*   (1) After receiving an application under [clause 13][785], the Commission must---
         
     *   (a) give public notice of the application; and
     
@@ -9969,7 +9999,7 @@ Annual telecommunications development levy
 
 [ss 85][238], [92][249]
 
-*   Schedule 3B: inserted, on 1 July 2011, by [section 27][788] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
+*   Schedule 3B: inserted, on 1 July 2011, by [section 27][789] of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011 (2011 No 27).
 
 **Financial year** **Telecommunications development levy**
 
@@ -10024,35 +10054,35 @@ _Amendment(s) incorporated in the [Act(s)][503]._
 
 ##### Commerce Amendment Act 2001 (2001 No 32)
 
-_Amendment(s) incorporated in the [Act(s)][789]._
+_Amendment(s) incorporated in the [Act(s)][790]._
 
 ##### Crimes Act 1961 (1961 No 43)
 
-_Amendment(s) incorporated in the [Act(s)][790]._
+_Amendment(s) incorporated in the [Act(s)][791]._
 
 ##### Electricity Act 1992 (1992 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][791]._
+_Amendment(s) incorporated in the [Act(s)][792]._
 
 ##### Gas Act 1992 (1992 No 124)
 
-_Amendment(s) incorporated in the [Act(s)][792]._
+_Amendment(s) incorporated in the [Act(s)][793]._
 
 ##### Mercantile Law Act 1908 (1908 No 117)
 
-_Amendment(s) incorporated in the [Act(s)][793]._
+_Amendment(s) incorporated in the [Act(s)][794]._
 
 ##### Public Works Act 1981 (1981 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][794]._
+_Amendment(s) incorporated in the [Act(s)][795]._
 
 ##### Resource Management Act 1991 (1991 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][795]._
+_Amendment(s) incorporated in the [Act(s)][796]._
 
 ##### Submarine Cables and Pipelines Protection Act 1996 (1996 No 22)
 
-_Amendment(s) incorporated in the [Act(s)][796]._
+_Amendment(s) incorporated in the [Act(s)][797]._
 
 ---
 
@@ -10064,7 +10094,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Telecommunications Amendment Act (No 2) 2006][797].
+*   This Act is the [Telecommunications Amendment Act (No 2) 2006][798].
 
 ##### 2 Commencement
     
@@ -10147,7 +10177,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Infrastructure (Amendments Relating to Utilities Access) Act 2010][798].
+*   This Act is the [Infrastructure (Amendments Relating to Utilities Access) Act 2010][799].
 
 ##### 2 Commencement
     
@@ -10169,7 +10199,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011][649].
+*   This Act is the [Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011][650].
 
 ##### 2 Commencement
     
@@ -10619,172 +10649,63 @@ Structural separation of Telecom
     
 *   The separation undertakings given by Telecom in favour of the Crown for the purposes of Part 2A (before its repeal and substitution by this Act) cease to have legal effect from the close of the day before separation day.
 
----
-
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][799].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][800] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Telecommunications Act 2001\. The reprint incorporates all the amendments to the Act as at 24 October 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][801] ![](/images/external_link.gif).
+*   This is a reprint of the Telecommunications Act 2001 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][802] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][800] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][801] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][803] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][802] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][803] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][804] and [17E][805] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][547]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Telecommunications (International Co-operation) Amendment Act 2012][806] (2012 No 87)
+    [Telecommunications (International Co-operation) Amendment Act 2012][804] (2012 No 87)
     
     Search and Surveillance Act 2012 (2012 No 24): [section 339][531]
     
-    [Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011][649] (2011 No 27)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][661]
     
-    [Telecommunications (Retail Services and Bundle of Retail Services) Order 2011][807] (SR 2011/200)
+    [Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011][650] (2011 No 27)
     
-    [Telecommunications (Mobile Termination Access Services) Order 2010][808] (SR 2010/262)
+    [Telecommunications (Retail Services and Bundle of Retail Services) Order 2011][805] (SR 2011/200)
     
-    Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99): [sections 5--12][663]
+    [Telecommunications (Mobile Termination Access Services) Order 2010][806] (SR 2010/262)
     
-    [Telecommunications Amendment Act 2010][809] (2010 No 90)
+    Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99): [sections 5--12][665]
     
-    [Telecommunications (National Roaming) Order 2008][810] (SR 2008/251)
+    [Telecommunications Amendment Act 2010][807] (2010 No 90)
     
-    [Telecommunications Amendment Act (No 2) 2006][797] (2006 No 83)
+    [Telecommunications (National Roaming) Order 2008][808] (SR 2008/251)
     
-    [Telecommunications Amendment Act 2005][811] (2005 No 70)
+    [Telecommunications Amendment Act (No 2) 2006][798] (2006 No 83)
+    
+    [Telecommunications Amendment Act 2005][809] (2005 No 70)
     
     Crown Entities Act 2004 (2004 No 115): [section 200][506]
     
-    [Telecommunications (Initial Pricing Principle) Order 2003][812] (SR 2003/357)
+    [Telecommunications (Initial Pricing Principle) Order 2003][810] (SR 2003/357)
     
-    Supreme Court Act 2003 (2003 No 53): [section 48(2)][559]
+    Supreme Court Act 2003 (2003 No 53): [section 48(2)][562]
     
-    Crimes Amendment Act 2003 (2003 No 39): [section 35][813]
+    Crimes Amendment Act 2003 (2003 No 39): [section 35][811]
     
     Local Government Act 2002 (2002 No 84): [section 262][497]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM124964
 [2]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM124965
 [3]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM124966
@@ -11329,272 +11250,270 @@ Amendments, repeals, and miscellaneous provisions
 [542]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM127765
 [543]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM401983
 [544]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM401984
-[545]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402627
-[546]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402630
-[547]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402632
-[548]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402633
-[549]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402634
-[550]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402635
-[551]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402636
-[552]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402637
-[553]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402638
-[554]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402639
-[555]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402640
-[556]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402641
-[557]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402642
-[558]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402643
-[559]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM214522
-[560]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402644
-[561]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402645
-[562]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM88261
-[563]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402647
-[564]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM127747
-[565]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM2049203
-[566]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM2049202
-[567]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402648
-[568]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629159
-[569]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM321178
-[570]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM242335
-[571]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM195534
-[572]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM195097
-[573]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM319569
-[574]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM324894
-[575]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM428482
-[576]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM127745
-[577]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629155
-[578]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM203567
-[579]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM98075
-[580]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM46055
-[581]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM45426
-[582]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM195575
-[583]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM236204
-[584]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM236219
-[585]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM236206
-[586]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM236280
-[587]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM236269
-[588]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM446000
-[589]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM446173
-[590]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM446395
-[591]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM446842
-[592]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3729219
-[593]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1512300
-[594]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM348342
-[595]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1514649
-[596]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM385591
-[597]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM81034
-[598]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1514272
-[599]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1513728
-[600]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1512848
-[601]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1512834
-[602]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1513650
-[603]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1513784
-[604]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1514274
-[605]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1513726
-[606]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1515118
-[607]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1515231
-[608]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1515304
-[609]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1515326
-[610]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1515335
-[611]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1516953
-[612]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1515229
-[613]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM399728
-[614]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1514741
-[615]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402651
-[616]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM88772
-[617]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3819327
-[618]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM31484
-[619]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3819328
-[620]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM88780
-[621]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM88782
-[622]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM88784
-[623]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402914
-[624]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3819312
-[625]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387360
-[626]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3819313
-[627]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3819314
-[628]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387363
-[629]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387364
-[630]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387366
-[631]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402918
-[632]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387368
-[633]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM324914
-[634]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM324886
-[635]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629631
-[636]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629632
-[637]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629637
-[638]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629638
-[639]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3819333
-[640]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402954
-[641]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402955
-[642]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387415
-[643]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387416
-[644]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402957
-[645]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387419
-[646]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387420
-[647]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM297441
-[648]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387422
-[649]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387305
-[650]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387423
-[651]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629639
-[652]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3729206
-[653]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM348987
-[654]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402962
-[655]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119433
-[656]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119751
-[657]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119748
-[658]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402963
-[659]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119440
-[660]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119444
-[661]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM200438
-[662]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119447
-[663]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2924910
-[664]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119701
-[665]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119704
-[666]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119708
-[667]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119711
-[668]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119714
-[669]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2248933
-[670]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119717
-[671]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2924911
-[672]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2924912
-[673]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2924913
-[674]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119720
-[675]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119723
-[676]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119726
-[677]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2924914
-[678]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2924915
-[679]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2924916
-[680]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2924917
-[681]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM282487
-[682]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM285788
-[683]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM415531
-[684]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM282488
-[685]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM285789
-[686]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM175293
-[687]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM282490
-[688]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM285791
-[689]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119729
-[690]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119731
-[691]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119735
-[692]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119737
-[693]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3729207
-[694]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM405590
-[695]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387438
-[696]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM126484
-[697]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM195549
-[698]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM89031
-[699]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM89056
-[700]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM89498
-[701]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM89033
-[702]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM89064
-[703]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM89070
-[704]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402967
-[705]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629647
-[706]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387504
-[707]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387428
-[708]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629640
-[709]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629648
-[710]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387505
-[711]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629649
-[712]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3819330
-[713]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387506
-[714]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387507
-[715]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387512
-[716]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629654
-[717]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387513
-[718]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM124960
-[719]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629835
-[720]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM403331
-[721]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM303497
-[722]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119423
-[723]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629656
-[724]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM403332
-[725]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM127768
-[726]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM127770
-[727]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3774215
-[728]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3167638
-[729]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM229135
-[730]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM195581
-[731]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1450506
-[732]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM2049200
-[733]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128211
-[734]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128213
-[735]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128214
-[736]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128220
-[737]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128223
-[738]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128224
-[739]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128225
-[740]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128233
-[741]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128235
-[742]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128237
-[743]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128238
-[744]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128242
-[745]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128243
-[746]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128246
-[747]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128248
-[748]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM2049201
-[749]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128251
-[750]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM403333
-[751]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128207
-[752]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128258
-[753]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128260
-[754]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128264
-[755]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128265
-[756]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128267
-[757]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128270
-[758]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128276
-[759]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128277
-[760]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128278
-[761]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128280
-[762]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128281
-[763]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128283
-[764]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128286
-[765]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM403334
-[766]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM403335
-[767]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM2049204
-[768]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM2049205
-[769]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128611
-[770]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM2049206
-[771]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128613
-[772]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128615
-[773]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128616
-[774]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128617
-[775]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128618
-[776]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM2049207
-[777]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128620
-[778]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128621
-[779]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM2049208
-[780]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128623
-[781]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128624
-[782]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128625
-[783]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM2049209
-[784]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128627
-[785]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128628
-[786]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128629
-[787]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128630
-[788]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387430
-[789]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM92234
-[790]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM329814
-[791]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM281866
-[792]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM285420
-[793]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM171975
-[794]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM47300
-[795]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM230268
-[796]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM375809
-[797]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM401943
-[798]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2924904
-[799]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2136500
-[800]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM4686448
-[801]: http://www.pco.parliament.govt.nz/reprints/
-[802]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM195439
+[545]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2997643
+[546]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2998573
+[547]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2998633
+[548]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402627
+[549]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402630
+[550]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402632
+[551]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402633
+[552]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402634
+[553]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402635
+[554]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402636
+[555]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402637
+[556]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402638
+[557]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402639
+[558]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402640
+[559]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402641
+[560]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402642
+[561]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402643
+[562]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM214522
+[563]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402644
+[564]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402645
+[565]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM88261
+[566]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402647
+[567]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM127747
+[568]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM2049203
+[569]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM2049202
+[570]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402648
+[571]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629159
+[572]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM321178
+[573]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM242335
+[574]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM319569
+[575]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM324894
+[576]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM428482
+[577]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM127745
+[578]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629155
+[579]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM203567
+[580]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM98075
+[581]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM46055
+[582]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM45426
+[583]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM195575
+[584]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM236204
+[585]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM236219
+[586]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM236206
+[587]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM236280
+[588]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM236269
+[589]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM446000
+[590]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM446173
+[591]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM446395
+[592]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM446842
+[593]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3729219
+[594]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1512300
+[595]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM348342
+[596]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1514649
+[597]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM385591
+[598]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM81034
+[599]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1514272
+[600]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1513728
+[601]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1512848
+[602]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1512834
+[603]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1513650
+[604]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1513784
+[605]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1514274
+[606]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1513726
+[607]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1515118
+[608]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1515231
+[609]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1515304
+[610]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1515326
+[611]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1515335
+[612]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1516953
+[613]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1515229
+[614]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM399728
+[615]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1514741
+[616]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402651
+[617]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM88772
+[618]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3819327
+[619]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM31484
+[620]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3819328
+[621]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM88780
+[622]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM88782
+[623]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM88784
+[624]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402914
+[625]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3819312
+[626]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387360
+[627]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3819313
+[628]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3819314
+[629]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387363
+[630]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387364
+[631]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387366
+[632]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402918
+[633]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387368
+[634]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM324914
+[635]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM324886
+[636]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629631
+[637]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629632
+[638]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629637
+[639]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629638
+[640]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3819333
+[641]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402954
+[642]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402955
+[643]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387415
+[644]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387416
+[645]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402957
+[646]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387419
+[647]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387420
+[648]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM297441
+[649]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387422
+[650]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387305
+[651]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387423
+[652]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629639
+[653]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3729206
+[654]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM348987
+[655]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402962
+[656]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119433
+[657]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119751
+[658]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119748
+[659]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402963
+[660]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119440
+[661]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3360714
+[662]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119444
+[663]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM200438
+[664]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119447
+[665]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2924910
+[666]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119701
+[667]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119704
+[668]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119708
+[669]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119711
+[670]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119714
+[671]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2248933
+[672]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119717
+[673]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2924911
+[674]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2924912
+[675]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2924913
+[676]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119720
+[677]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119723
+[678]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119726
+[679]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2924914
+[680]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2924915
+[681]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2924916
+[682]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2924917
+[683]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM282487
+[684]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM285788
+[685]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM415531
+[686]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM282488
+[687]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM285789
+[688]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM175293
+[689]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM282490
+[690]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM285791
+[691]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119729
+[692]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119731
+[693]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119735
+[694]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119737
+[695]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3729207
+[696]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM405590
+[697]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387438
+[698]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM126484
+[699]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM89031
+[700]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM89056
+[701]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM89498
+[702]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM89033
+[703]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM89064
+[704]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM89070
+[705]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402967
+[706]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629647
+[707]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387504
+[708]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387428
+[709]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629640
+[710]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629648
+[711]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387505
+[712]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629649
+[713]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3819330
+[714]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387506
+[715]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387507
+[716]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387512
+[717]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629654
+[718]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387513
+[719]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM124960
+[720]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629835
+[721]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM403331
+[722]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM303497
+[723]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM119423
+[724]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3629656
+[725]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM403332
+[726]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM127768
+[727]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM127770
+[728]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3774215
+[729]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3167638
+[730]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM229135
+[731]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM195581
+[732]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1450506
+[733]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM2049200
+[734]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128211
+[735]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128213
+[736]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128214
+[737]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128220
+[738]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128223
+[739]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128224
+[740]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128225
+[741]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128233
+[742]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128235
+[743]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128237
+[744]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128238
+[745]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128242
+[746]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128243
+[747]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128246
+[748]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128248
+[749]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM2049201
+[750]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128251
+[751]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM403333
+[752]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128207
+[753]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128258
+[754]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128260
+[755]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128264
+[756]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128265
+[757]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128267
+[758]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128270
+[759]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128276
+[760]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128277
+[761]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128278
+[762]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128280
+[763]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128281
+[764]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128283
+[765]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128286
+[766]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM403334
+[767]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM403335
+[768]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM2049204
+[769]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM2049205
+[770]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128611
+[771]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM2049206
+[772]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128613
+[773]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128615
+[774]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128616
+[775]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128617
+[776]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128618
+[777]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM2049207
+[778]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128620
+[779]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128621
+[780]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM2049208
+[781]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128623
+[782]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128624
+[783]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128625
+[784]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM2049209
+[785]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128627
+[786]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128628
+[787]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128629
+[788]: http://www.legislation.govt.nz/act/public/2001/0103/latest/whole.html#DLM128630
+[789]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3387430
+[790]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM92234
+[791]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM329814
+[792]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM281866
+[793]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM285420
+[794]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM171975
+[795]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM47300
+[796]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM230268
+[797]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM375809
+[798]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM401943
+[799]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2924904
+[800]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2998516
+[801]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2998515
+[802]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM2998532
 [803]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[804]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM195468
-[805]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM195470
-[806]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM4484501
-[807]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3774209
-[808]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3167648
-[809]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3044800
-[810]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1450500
-[811]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM348976
-[812]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM229129
-[813]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402917
+[804]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM4484501
+[805]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3774209
+[806]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3167648
+[807]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM3044800
+[808]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM1450500
+[809]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM348976
+[810]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM229129
+[811]: http://www.legislation.govt.nz/act/public/2001/0103/latest/link.aspx?id=DLM402917
