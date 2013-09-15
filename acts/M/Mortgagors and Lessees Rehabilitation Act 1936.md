@@ -1,5 +1,5 @@
 Reprint  
-as at 1 August 2007
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -583,11 +583,13 @@ Rehabilitation of mortgagors and lessees
 
 ##### 34 Right to inspect filed statements
     
-*   (1) Any person whose name appears on any list of creditors or debtors filed by an applicant pursuant to the foregoing provisions of this Act, and any other person who claims, in writing addressed to the Registrar, that he is a creditor of the applicant, may at any time during the office hours of the court inspect the filed list of creditors or debtors or the filed statement of the applicant's assets and liabilities, and any amendment of such list or statement. If any person, not being a creditor of the applicant, knowingly makes to the Registrar for the purposes of this section a false representation to the effect that he is a creditor of the applicant, he shall be guilty of an offence, and shall be liable on summary conviction to a fine of 50 pounds.
+*   (1) Any person whose name appears on any list of creditors or debtors filed by an applicant pursuant to the foregoing provisions of this Act, and any other person who claims, in writing addressed to the Registrar, that he is a creditor of the applicant, may at any time during the office hours of the court inspect the filed list of creditors or debtors or the filed statement of the applicant's assets and liabilities, and any amendment of such list or statement. If any person, not being a creditor of the applicant, knowingly makes to the Registrar for the purposes of this section a false representation to the effect that he is a creditor of the applicant, he shall be guilty of an offence, and shall be liable on conviction to a fine of 50 pounds.
     
     (2) Any inspection under this section may be made personally by the creditor or debtor or person claiming to be a creditor, as aforesaid, or may be made by any other person acting as the authorised agent of a creditor or debtor.
     
     (3) Any person inspecting the list of creditors or debtors or statement of assets and liabilities pursuant to the foregoing provisions of this section may take any copy thereof or extract therefrom.
+    
+    Section 34(1): amended, on 1 July 2013, by [section 413][107] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 35 Application for adjustment of liabilities to be referred to an Adjustment Commission
     
@@ -781,7 +783,7 @@ Rehabilitation of mortgagors and lessees
     
     *   (f) providing for the payment to the mortgagee or lessor, or to such other person as may be specified, of the whole or any part of the amount of the applicant's liability under any guarantee.
     
-    Section 49(2): amended, on 22 December 1937, by [section 3(3)][107] of the Mortgagors and Lessees Rehabilitation Amendment Act 1937 (1937 No 30).
+    Section 49(2): amended, on 22 December 1937, by [section 3(3)][108] of the Mortgagors and Lessees Rehabilitation Amendment Act 1937 (1937 No 30).
 
 ##### 50 Power to give priority to moneys advanced in respect of farming operations
     
@@ -844,7 +846,7 @@ Miscellaneous
     
     *   (e) to issue or proceed with any process of execution in pursuance of any judgment, decree, or order of any court in its civil jurisdiction if the judgment, decree, or order was obtained in respect of an adjustable debt or in respect of a debt secured by an adjustable security, or if the property affected by the process of execution is subject to an adjustable security or is comprised in an adjustable lease:
     
-    *   (f) to issue or proceed with a summons under [section 5][108] of the Imprisonment for Debt Limitation Act 1908 in respect of any judgment or order of any court obtained in respect of an adjustable debt or in respect of a debt secured by an adjustable security, except in cases in which fraud is alleged against the judgment debtor:
+    *   (f) to issue or proceed with a summons under [section 5][109] of the Imprisonment for Debt Limitation Act 1908 in respect of any judgment or order of any court obtained in respect of an adjustable debt or in respect of a debt secured by an adjustable security, except in cases in which fraud is alleged against the judgment debtor:
     
     *   (g) to file or proceed with a bankruptcy petition or a winding-up petition in respect of any adjustable debt or in respect of any debt secured by an adjustable security:
     
@@ -854,7 +856,7 @@ Miscellaneous
     
     (5) The period during which the commencement of proceedings in any court for the enforcement of any debt or liability is prohibited by the operation of this section shall not be taken into account for the purpose of any enactment limiting the period within which those proceedings may be commenced.
     
-    Section 55(3)(e): amended, on 31 October 1936, by [section 56][109] of the Statutes Amendment Act 1936 (1936 No 58).
+    Section 55(3)(e): amended, on 31 October 1936, by [section 56][110] of the Statutes Amendment Act 1936 (1936 No 58).
 
 ##### 56 Power to reopen transactions in certain cases where creditors have exercised their rights
     
@@ -902,9 +904,9 @@ Miscellaneous
     
     (5) Notwithstanding anything in the foregoing provisions of this section, the court or the Adjustment Commission may in any case make an order directing the manner in which any notice or document is to be delivered, or dispensing with the delivery thereof.
     
-    Section 61(4): amended, on 27 November 1947, pursuant to [section 2(2)][110] of the Maori Purposes Act 1947 (1947 No 59).
+    Section 61(4): amended, on 27 November 1947, pursuant to [section 2(2)][111] of the Maori Purposes Act 1947 (1947 No 59).
     
-    Section 61(4): amended, on 27 November 1947, pursuant to [section 9(2)(a)][111] of the Maori Purposes Act 1947 (1947 No 59).
+    Section 61(4): amended, on 27 November 1947, pursuant to [section 9(2)(a)][112] of the Maori Purposes Act 1947 (1947 No 59).
 
 ##### 62 Costs in proceedings before court or Adjustment Commission
     
@@ -912,7 +914,7 @@ Miscellaneous
 
 ##### 63 Power to fix solicitors' fees in respect of proceedings under this Act or National Expenditure Adjustment Act
     
-*   (1) The Governor-General may from time to time, by Order in Council, fix the maximum fees that may be charged by any solicitor to any client in respect of proceedings in the court or before any Adjustment Commission under this Act, or in respect of any proceedings under [Part 3][112] of the National Expenditure Adjustment Act 1932\.
+*   (1) The Governor-General may from time to time, by Order in Council, fix the maximum fees that may be charged by any solicitor to any client in respect of proceedings in the court or before any Adjustment Commission under this Act, or in respect of any proceedings under [Part 3][113] of the National Expenditure Adjustment Act 1932\.
     
     (2) All Orders in Council that were issued under section 25 of the Mortgagors and Tenants Relief Act 1933, and are in force at the passing of this Act, shall enure for the purposes of this Act as fully and effectually as if they had been issued under this section, and accordingly shall, where necessary, be deemed to have been so issued.
 
@@ -924,7 +926,9 @@ Miscellaneous
     
 *   (1) Except with the consent of the court or Adjustment Commission, no report or account of any sitting of the court or of any Adjustment Commission, or of any application, evidence, or proceedings before the court or Adjustment Commission, or of any list published in the _Gazette_ as provided in the last preceding section, shall be published in any newspaper or other document.
     
-    (2) Every person who publishes or causes to be published any report or account in contravention of the provisions of this section commits an offence, and shall be liable on summary conviction to a fine of 50 pounds.
+    (2) Every person who publishes or causes to be published any report or account in contravention of the provisions of this section commits an offence, and shall be liable on conviction to a fine of 50 pounds.
+    
+    Section 65(2): amended, on 1 July 2013, by [section 413][107] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 66 Application of fire insurance moneys in restitution of destroyed or damaged property
     
@@ -962,7 +966,7 @@ Miscellaneous
 
 ##### 73 Registration of orders under Land Transfer Act, Chattels Transfer Act, and other Acts
     
-*   (1) Any order of the court affecting any property may, if the court so orders, or if the rules of the court so provide, be registered in respect of that property under the Land Transfer Act 1915, the [Deeds Registration Act 1908][113], the Chattels Transfer Act 1924, or any other Act.
+*   (1) Any order of the court affecting any property may, if the court so orders, or if the rules of the court so provide, be registered in respect of that property under the Land Transfer Act 1915, the [Deeds Registration Act 1908][114], the Chattels Transfer Act 1924, or any other Act.
     
     (2) For the purposes of such registration a copy of the order, under the seal of the court, shall be transmitted by the Registrar of the court to the District Land Registrar, Registrar of Deeds, Registrar of the Supreme Court, or other person charged with the duty of keeping the register concerned, and the said Registrar or other person shall thereupon register it accordingly without payment of any fee. Unless the court otherwise orders, or the rules of the court otherwise provide, the production of any certificate of title or other instrument shall not be necessary for the purpose of any such registration.
     
@@ -972,7 +976,7 @@ Miscellaneous
     
 *   \[Repealed\]
     
-    Section 74: repealed, on 17 March 1988, by [section 7(2)][114] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
+    Section 74: repealed, on 17 March 1988, by [section 7(2)][115] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
 
 ##### 75 Enforcement of orders
     
@@ -1032,11 +1036,11 @@ Miscellaneous
     
 *   (1) The Governor-General may from time to time, by Order in Council, make all such regulations as in his opinion may be necessary or expedient for giving full effect to the provisions of this Act and for the due administration thereof.
     
-    (2) Without limiting the general power hereinbefore conferred, regulations may be made under this section for the purpose of providing that, notwithstanding anything to the contrary in the Land Transfer Act 1915 or in the [Deeds Registration Act 1908][113] or in any other Act, any mortgage executed for the purposes of this Act shall upon registration have priority over any mortgage or charge previously registered.
+    (2) Without limiting the general power hereinbefore conferred, regulations may be made under this section for the purpose of providing that, notwithstanding anything to the contrary in the Land Transfer Act 1915 or in the [Deeds Registration Act 1908][114] or in any other Act, any mortgage executed for the purposes of this Act shall upon registration have priority over any mortgage or charge previously registered.
     
     (3) \[Repealed\]
     
-    Section 83(3): repealed, on 19 December 1989, by [section 11][115] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 83(3): repealed, on 19 December 1989, by [section 11][116] of the Regulations (Disallowance) Act 1989 (1989 No 143).
 
 #### National Expenditure Adjustment Act
 
@@ -1046,17 +1050,17 @@ Miscellaneous
 
 ##### 85 Power to transfer functions of High Court or District Court Judge to the Court of Review
     
-*   The Governor-General may from time to time, by Order in Council, transfer to the Court of Review all or any of the functions of the Supreme Court or of a Stipendiary Magistrate under [Part 3][112] of the National Expenditure Adjustment Act 1932\. Every such Order in Council shall have effect according to its tenor, and shall come into force on a date to be fixed in that behalf in the order.
+*   The Governor-General may from time to time, by Order in Council, transfer to the Court of Review all or any of the functions of the Supreme Court or of a Stipendiary Magistrate under [Part 3][113] of the National Expenditure Adjustment Act 1932\. Every such Order in Council shall have effect according to its tenor, and shall come into force on a date to be fixed in that behalf in the order.
 
 #### Repeals and savings
 
 ##### 86 Repeals
     
-*   (1) The enactments specified in the [Schedule][116] are hereby repealed.
+*   (1) The enactments specified in the [Schedule][117] are hereby repealed.
     
     (2) \[Repealed\]
     
-    Section 86(2): repealed, on 1 January 1957, by [section 89(1)][117] of the Trustee Act 1956 (1956 No 61).
+    Section 86(2): repealed, on 1 January 1957, by [section 89(1)][118] of the Trustee Act 1956 (1956 No 61).
 
 ##### 87 Saving of existing orders for relief under Mortgagors and Tenants Relief Act
     
@@ -1121,23 +1125,23 @@ _Amendment(s) incorporated in the Act(s)._
 
 ###### 1 General
     
-*   This is a reprint of the Mortgagors and Lessees Rehabilitation Act 1936\. The reprint incorporates all the amendments to the Act as at 1 August 2007, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Mortgagors and Lessees Rehabilitation Act 1936\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][118] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][119] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][119] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][120] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][120] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][121] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][121] and [17E][122] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][122] and [17E][123] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1168,19 +1172,21 @@ _Amendment(s) incorporated in the Act(s)._
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Evidence Act 2006 (2006 No 69): [section 216][105]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][107]
     
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][115]
+    Evidence Act 2006 (2006 No 69): [section 216][105]
     
-    Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16): [section 7(2)][114]
+    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][116]
     
-    Trustee Act 1956 (1956 No 61): [section 89(1)][117]
+    Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16): [section 7(2)][115]
     
-    Maori Purposes Act 1947 (1947 No 59): [sections 2(2)][110], [9(2)(a)][111]
+    Trustee Act 1956 (1956 No 61): [section 89(1)][118]
     
-    Mortgagors and Lessees Rehabilitation Amendment Act 1937 (1937 No 30): [section 3(3)][107]
+    Maori Purposes Act 1947 (1947 No 59): [sections 2(2)][111], [9(2)(a)][112]
     
-    Statutes Amendment Act 1936 (1936 No 58): [section 56][109]
+    Mortgagors and Lessees Rehabilitation Amendment Act 1937 (1937 No 30): [section 3(3)][108]
+    
+    Statutes Amendment Act 1936 (1936 No 58): [section 56][110]
 
 
 
@@ -1291,19 +1297,20 @@ _Amendment(s) incorporated in the Act(s)._
 [104]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM393462
 [105]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM394552
 [106]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM139130
-[107]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM222049
-[108]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM143574
-[109]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM221706
-[110]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM245843
-[111]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM245856
-[112]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM212264
-[113]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM141134
-[114]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM128778
-[115]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM195558
-[116]: http://www.legislation.govt.nz/act/public/1936/0033/latest/whole.html#DLM220421
-[117]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM305825
-[118]: http://www.pco.parliament.govt.nz/reprints/
-[119]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM195439
-[120]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[121]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM195468
-[122]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM195470
+[107]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM3360714
+[108]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM222049
+[109]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM143574
+[110]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM221706
+[111]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM245843
+[112]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM245856
+[113]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM212264
+[114]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM141134
+[115]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM128778
+[116]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM195558
+[117]: http://www.legislation.govt.nz/act/public/1936/0033/latest/whole.html#DLM220421
+[118]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM305825
+[119]: http://www.pco.parliament.govt.nz/reprints/
+[120]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM195439
+[121]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[122]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM195468
+[123]: http://www.legislation.govt.nz/act/public/1936/0033/latest/link.aspx?id=DLM195470
