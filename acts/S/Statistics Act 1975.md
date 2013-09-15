@@ -1,5 +1,5 @@
 Reprint  
-as at 31 August 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -157,7 +157,7 @@ This Act is administered by Statistics New Zealand.
 [Part 6][64]  
 [Miscellaneous provisions][64]
 
-[48][65][][65][Time within which information may be laid][65]
+[48][65][][65][Time for filing charging document][65]
 
 [49][66][][66][Regulations and Orders in Council][66]
 
@@ -1125,9 +1125,9 @@ Offences and penalties
 
 ##### 43 Neglect or refusal to supply particulars
     
-*   (1) Every person commits an offence who fails to produce any books of account, vouchers, documents, or other business records when lawfully required so to do, or who neglects or refuses to fill in and supply the particulars required in any schedule lawfully left with or sent to him, or who neglects or refuses to answer any question or inquiry lawfully addressed to him by the Statistician, or by an employee of the department authorised in writing by the Statistician, and is liable on summary conviction to a fine not exceeding $500 or, in the case of a body corporate, to a fine not exceeding $2,000\.
+*   (1) Every person commits an offence who fails to produce any books of account, vouchers, documents, or other business records when lawfully required so to do, or who neglects or refuses to fill in and supply the particulars required in any schedule lawfully left with or sent to him, or who neglects or refuses to answer any question or inquiry lawfully addressed to him by the Statistician, or by an employee of the department authorised in writing by the Statistician, and is liable on conviction to a fine not exceeding $500 or, in the case of a body corporate, to a fine not exceeding $2,000\.
     
-    (2) The conviction of any person of an offence against subsection (1) or against this subsection in relation to his failure to produce any books of account, vouchers, documents, or other business records, or to his neglect or refusal to fill in and supply any particulars required in any such schedules or to answer any such question or inquiry, shall not relieve him of his obligation to supply such books of account, vouchers, documents, or other business records, or to fill in and supply the particulars or to answer the question or inquiry; and if, after the expiration of 14 days from the date of the conviction, he still has failed to produce the books of account, vouchers, documents, or other business records lawfully requested, or he continues to neglect or refuse to fill in and supply the particulars or to answer the question or inquiry, he commits a further offence and is liable on summary conviction in respect of each day after the expiration of those 14 days to a fine not exceeding $20 or, in the case of a body corporate, to a fine not exceeding $80\.
+    (2) The conviction of any person of an offence against subsection (1) or against this subsection in relation to his failure to produce any books of account, vouchers, documents, or other business records, or to his neglect or refusal to fill in and supply any particulars required in any such schedules or to answer any such question or inquiry, shall not relieve him of his obligation to supply such books of account, vouchers, documents, or other business records, or to fill in and supply the particulars or to answer the question or inquiry; and if, after the expiration of 14 days from the date of the conviction, he still has failed to produce the books of account, vouchers, documents, or other business records lawfully requested, or he continues to neglect or refuse to fill in and supply the particulars or to answer the question or inquiry, he commits a further offence and is liable on conviction in respect of each day after the expiration of those 14 days to a fine not exceeding $20 or, in the case of a body corporate, to a fine not exceeding $80\.
     
     (2A) Any obligation imposed on any person to produce any books of account, vouchers, documents, or other business records when lawfully required to do so, or to fill in and supply the particulars required in any schedule lawfully left with or sent to him, or to answer any question or inquiry lawfully addressed to him by the Statistician, or by an employee of the department authorised in writing by the Statistician, being an obligation required to be performed at or within a specified or particular time, shall be deemed to be a continuing obligation to produce such books of account, vouchers, documents, or other business records, or to fill in and supply any particulars required in any such schedule, or to answer any such question or inquiry, notwithstanding that the obligation has not been performed at or within that time.
     
@@ -1137,9 +1137,13 @@ Offences and penalties
     
     Compare: 1955 No 45 s 30
     
+    Section 43(1): amended, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 43(1): amended, on 5 November 1982, by section 11(1)(a) of the Statistics Amendment Act 1982 (1982 No 38).
     
     Section 43(1): amended, on 5 November 1982, by section 11(1)(b) of the Statistics Amendment Act 1982 (1982 No 38).
+    
+    Section 43(2): amended, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 43(2): amended, on 5 November 1982, by section 11(2)(a) of the Statistics Amendment Act 1982 (1982 No 38).
     
@@ -1169,7 +1173,7 @@ Offences and penalties
     
     (2) A person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $500 or, in the case of a body corporate, not exceeding $2,000\.
     
-    Section 45A: inserted, on 31 August 2012, by [section 5][97] of the Statistics Amendment Act 2012 (2012 No 67).
+    Section 45A: inserted, on 31 August 2012, by [section 5][98] of the Statistics Amendment Act 2012 (2012 No 67).
 
 ##### 46 Other offences
     
@@ -1195,7 +1199,9 @@ Offences and penalties
 
 ##### 47 General penalty
     
-*   Every person who commits an offence against this Act for which no penalty is prescribed elsewhere than in this section is liable on summary conviction to a fine not exceeding $500 or, in the case of a body corporate, not exceeding $2,000\.
+*   Every person who commits an offence against this Act for which no penalty is prescribed elsewhere than in this section is liable on conviction to a fine not exceeding $500 or, in the case of a body corporate, not exceeding $2,000\.
+    
+    Section 47: amended, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 47: amended, on 5 November 1982, by section 13(a) of the Statistics Amendment Act 1982 (1982 No 38).
     
@@ -1204,11 +1210,11 @@ Offences and penalties
 ## Part 6  
 Miscellaneous provisions
 
-##### 48 Time within which information may be laid
+##### 48 Time for filing charging document
     
-*   Notwithstanding anything in the [Summary Proceedings Act 1957][98], any information in respect of an offence against this Act may be laid at any time within 12 months from the time when the matter of the information arose.
+*   Despite anything to the contrary in [section 25][99] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was committed.
     
-    Compare: 1955 No 45 s 35
+    Section 48: replaced, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 49 Regulations and Orders in Council
     
@@ -1259,23 +1265,23 @@ Regulations revoked
 
 ###### 1 General
     
-*   This is a reprint of the Statistics Act 1975\. The reprint incorporates all the amendments to the Act as at 31 August 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Statistics Act 1975\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][99] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][100] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][100] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][101] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][101] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][102] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][102] and [17E][103] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][103] and [17E][104] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1306,13 +1312,15 @@ Regulations revoked
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Statistics Amendment Act 2012][104] (2012 No 67)
+*   [Statistics Amendment Act 2012][105] (2012 No 67)
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][97]
     
     Duties of Statutory Officers (Census and Other Remedial Provisions) Act 2011 (2011 No 64): [section 4][83]
     
     Public Records Amendment Act (No 2) 2010 (2010 No 133): [section 19][82]
     
-    [Statistics Amendment Act 2010][105] (2010 No 86)
+    [Statistics Amendment Act 2010][106] (2010 No 86)
     
     Public Records Act 2005 (2005 No 40): [section 67(1)][75]
     
@@ -1332,7 +1340,7 @@ Regulations revoked
     
     Customs and Excise Act 1996 (1996 No 27): [section 290(1)][92]
     
-    [Income Tax Act 1994][106] (1994 No 164): section YB 1
+    [Income Tax Act 1994][107] (1994 No 164): section YB 1
     
     [Statistics Amendment Act 1994][76] (1994 No 159)
     
@@ -1350,7 +1358,7 @@ Regulations revoked
     
     Statistics Amendment Act 1978 (1978 No 126)
     
-    Government Superannuation Fund Amendment Act 1976 (1976 No 30): [section 3(3)][107]
+    Government Superannuation Fund Amendment Act 1976 (1976 No 30): [section 3(3)][108]
 
 
 
@@ -1451,14 +1459,15 @@ Regulations revoked
 [94]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM345739
 [95]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM201327
 [96]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM302411
-[97]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM4444708
-[98]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM310742
-[99]: http://www.pco.parliament.govt.nz/reprints/
-[100]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM195439
-[101]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[102]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM195468
-[103]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM195470
-[104]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM4444702
-[105]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3044400
-[106]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM1184504
-[107]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM439001
+[97]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3360714
+[98]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM4444708
+[99]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3360067
+[100]: http://www.pco.parliament.govt.nz/reprints/
+[101]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM195439
+[102]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[103]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM195468
+[104]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM195470
+[105]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM4444702
+[106]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3044400
+[107]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM1184504
+[108]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM439001
