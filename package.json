@@ -19,6 +19,9 @@
     "gitlaw"
   ],
   "author": "Rowan Crawford",
+  "engines": {
+      "node": ">=0.10.17"
+  },
   "license": "MIT",
   "readmeFilename": "README.md",
   "gitHead": "93370f17dc45677ff85d357230de5fd8d69a7520",
@@ -28,7 +31,7 @@
     "cheerio": "~0.10.8",
     "request": "~2.16.6",
     "html-md": "~2.0.2",
-    "github": "~0.1.9",
-    "shagit": "0.0.1"
+    "shagit": "0.0.1",
+    "github-api": "~0.7.0"
   }
 }

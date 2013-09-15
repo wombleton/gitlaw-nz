@@ -6,19 +6,19 @@ var async = require('async'),
     request = require('request'),
     url = require('url'),
     md = require('html-md'),
-    GitHubApi = require('github'),
+    GitHub = require('github-api'),
     shagit = require('shagit'),
     github,
+    repo,
     actQueue,
     searchQueue,
     retried = {};
 
-github = new GitHubApi({
-    // required
-    version: "3.0.0",
-    // optional
-    timeout: 5000
+github = new GitHub({
+    token: process.env.GITHUB_TOKEN,
+    auth: 'oauth'
 });
+repo = github.getRepo(process.env.USER, process.env.REPO);
 
 function scrapeSearch(uri, callback) {
     request({
@@ -110,20 +110,15 @@ function downloadAct(task, callback) {
 
             if (title) {
                 path = getPath(title);
-                auth();
-                github.repos.getContent({
-                    user: process.env.USER,
-                    repo: process.env.REPO,
-                    path: path
-                }, function(err, data) {
+                repo.read('master', path, function(err, content, contentSha) {
                     var sha;
 
                     if (err) {
                         callback(err);
                     } else {
                         sha = shagit(markdown);
-                        if (sha !== data.sha) {
-                            updateAct(path, title, data, markdown, callback);
+                        if (sha !== contentSha) {
+                            updateAct(path, title, markdown, callback);
                         } else {
                             console.log("%s matches. Moving to next file.", path);
                             callback();
@@ -135,13 +130,6 @@ function downloadAct(task, callback) {
     });
 }
 
-function auth() {
-    github.authenticate({
-        type: 'oauth',
-        token: process.env.GITHUB_TOKEN
-    });
-}
-
 function respectLimit(obj, callback) {
     if (obj && obj.meta && obj.meta['x-ratelimit-remaining'] === '0') {
         setTimeout(callback, 60 * 60 * 1000);
@@ -150,34 +138,9 @@ function respectLimit(obj, callback) {
     }
 }
 
-function updateAct(path, title, data, markdown, callback) {
+function updateAct(path, title, markdown, callback) {
     console.log("Updating %s to new content", path);
-    auth();
-    GitHubApi.prototype.httpSend.call(github, {
-        user: process.env.USER,
-        repo: process.env.REPO,
-        path: path,
-        message: "New version for " + title,
-        content: new Buffer(markdown).toString('base64'),
-        sha: data.sha,
-        author: {
-            name: "GitLaw NZ Bot",
-            email: process.env.USER_EMAIL
-        }
-    }, {
-        method: 'PUT',
-        url: "/repos/:user/:repo/contents/:path",
-        params: {
-            "$user": null,
-            "$repo": null,
-            "$path": null,
-            "message": null,
-            "content": null,
-            "sha": null,
-            "author": null
-        }
-    },
-    function(err, result) {
+    repo.write('master', path, markdown, "New version for " + title, function(err) {
         if (err) {
             console.log("Error updating: %s", err);
         } else {
