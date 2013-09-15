@@ -1,5 +1,5 @@
 Reprint  
-as at 7 July 2010
+as at 5 August 2013
 
 # Incorporated Societies Act 1908Public Act1908 No 212
 
@@ -9,11 +9,9 @@ Date of assent15 September 1908
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this eprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this eprint. See the notes at the end of this eprint for further details.
 
-A general outline of these changes is set out in the notes at the end of this eprint, together with other explanatory material about this eprint.
-
-This Act is administered by the Ministry of Economic Development.
+This Act is administered by the Ministry of Business, Innovation and Employment.
 
 ---
 
@@ -21,93 +19,93 @@ This Act is administered by the Ministry of Economic Development.
 
 [Title][1]
 
-[1][2] [Short Title][2]
+[1][2][][2][Short Title][2]
 
-[2][3] [Repeal][3]
+[2][3][][3][Repeal][3]
 
-[3][4] [Interpretation][4]
+[3][4][][4][Interpretation][4]
 
-[4][5] [Incorporated societies][5]
+[4][5][][5][Incorporated societies][5]
 
-[5][6] [Pecuniary gain][6]
+[5][6][][6][Pecuniary gain][6]
 
-[6][7] [Rules of incorporated societies][7]
+[6][7][][7][Rules of incorporated societies][7]
 
-[7][8] [How to apply for incorporation][8]
+[7][8][][8][How to apply for incorporation][8]
 
-[8][9] [Steps that Registrar must take if satisfied that requirements met][9]
+[8][9][][9][Steps that Registrar must take if satisfied that requirements met][9]
 
-[9][10] [Certificate of incorporation to be conclusive evidence of registration][10]
+[9][10][][10][Certificate of incorporation to be conclusive evidence of registration][10]
 
-[10][11] [Upon issue of certificate members to be a body corporate][11]
+[10][11][][11][Upon issue of certificate members to be a body corporate][11]
 
-[11][12] [Name of society not to be the same as the name of another society or body corporate][12]
+[11][12][][12][Name of society not to be the same as the name of another society or body corporate][12]
 
-[11A][13] [Change of name][13]
+[11A][13][][13][Change of name][13]
 
-[12][14] [Appeal from Registrar to High Court][14] \[Repealed\]
+[12][14][][14][Appeal from Registrar to High Court][14] \[Repealed\]
 
-[13][15] [No liability on members for obligation of society][15]
+[13][15][][15][No liability on members for obligation of society][15]
 
-[14][16] [Members to have no right to property of society][16]
+[14][16][][16][Members to have no right to property of society][16]
 
-[15][17] [Contracts by society][17]
+[15][17][][17][Contracts by society][17]
 
-[16][18] [Service of summons, etc, on society][18]
+[16][18][][18][Service of summons, etc, on society][18]
 
-[17][19] [Security for costs where society is plaintiff][19]
+[17][19][][19][Security for costs where society is plaintiff][19]
 
-[18][20] [Registered office][20]
+[18][20][][20][Registered office][20]
 
-[19][21] [Restriction of operations of society][21]
+[19][21][][21][Restriction of operations of society][21]
 
-[20][22] [Society not to engage in operations involving pecuniary gain][22]
+[20][22][][22][Society not to engage in operations involving pecuniary gain][22]
 
-[21][23] [Alteration of rules][23]
+[21][23][][23][Alteration of rules][23]
 
-[22][24] [Register of members][24]
+[22][24][][24][Register of members][24]
 
-[23][25] [Annual financial statement][25]
+[23][25][][25][Annual financial statement][25]
 
-[23A][26] [Power to compromise with creditors and members][26]
+[23A][26][][26][Power to compromise with creditors and members][26]
 
-[23B][27] [Information as to compromises with creditors and members][27]
+[23B][27][][27][Information as to compromises with creditors and members][27]
 
-[24][28] [Members may resolve to put society into liquidation][28]
+[24][28][][28][Members may resolve to put society into liquidation][28]
 
-[25][29] [High Court may put society into liquidation][29]
+[25][29][][29][High Court may put society into liquidation][29]
 
-[26][30] [Application to Court to appoint liquidator][30]
+[26][30][][30][Application to court to appoint liquidator][30]
 
-[27][31] [Division of surplus assets on winding up][31]
+[27][31][][31][Division of surplus assets on winding up][31]
 
-[28][32] [Dissolution by Registrar][32]
+[28][32][][32][Dissolution by Registrar][32]
 
-[29][33] [Corporate body may become member of society][33]
+[29][33][][33][Corporate body may become member of society][33]
 
-[30][34] [Pecuniary gain received by member of such corporate body][34]
+[30][34][][34][Pecuniary gain received by member of such corporate body][34]
 
-[31][35] [Corporate body to be equivalent to 3 members][35]
+[31][35][][35][Corporate body to be equivalent to 3 members][35]
 
-[32][36] [Registrar][36]
+[32][36][][36][Registrar][36]
 
-[33][37] [Registrar to keep register of incorporated societies][37]
+[33][37][][37][Registrar to keep register of incorporated societies][37]
 
-[34][38] [Inspection of documents][38]
+[34][38][][38][Inspection of documents][38]
 
-[34A][39] [Powers of inspection of Registrar][39]
+[34A][39][][39][Powers of inspection of Registrar][39]
 
-[34B][40] [Appeals from decisions of Registrar][40]
+[34B][40][][40][Appeals from decisions of Registrar][40]
 
-[35][41] [Exemption from stamp duty][41] \[Repealed\]
+[35][41][][41][Exemption from stamp duty][41] \[Repealed\]
 
-[36][42] [Regulations][42]
+[36][42][][42][Regulations][42]
 
 [Schedule 1][43]  
 [Application for incorporation][43]
 
 [Schedule 2][44]  
-[Table of fees payable to the Registrar.][44]
+[Table of fees payable to the Registrar][44]
 
 \[Repealed\]
 
@@ -117,7 +115,7 @@ An Act to make provision for the incorporation of societies which are not establ
 
 ##### 1 Short Title
     
-*   This Act may be cited as the Incorporated Societies Act 1908, and shall come into operation on the 1st day of January 1909\.
+*   This Act may be cited as the Incorporated Societies Act 1908, and shall come into operation on the 1 January 1909\.
 
 ##### 2 Repeal
     
@@ -131,13 +129,13 @@ An Act to make provision for the incorporation of societies which are not establ
     
 *   In this Act, except where a contrary intention appears,---
     
-    _Prescribed_ means prescribed by this Act or by regulations
+    _prescribed_ means prescribed by this Act or by regulations
     
     _Registrar_ means the Registrar of Incorporated Societies under this Act
     
-    _Regulations_ means regulations made by the Governor-General under the authority of this Act by Order in Council gazetted
-    
     _Society_ means a society incorporated under this Act.
+    
+    Section 3 **regulations**: repealed, on 5 August 2013, by [section 77(3)][45] of the Legislation Act 2012 (2012 No 119).
 
 ##### 4 Incorporated societies
     
@@ -149,17 +147,17 @@ An Act to make provision for the incorporation of societies which are not establ
     
 *   Persons shall not be deemed to be associated for pecuniary gain merely by reason of any of the following circumstances, namely:
         
-    *   (a) That the society itself makes a pecuniary gain, unless that gain or some part thereof is divided among or received by the members or some of them:
+    *   (a) that the society itself makes a pecuniary gain, unless that gain or some part thereof is divided among or received by the members or some of them:
     
-    *   (b) That the members of the society are entitled to divide between them the property of the society on its dissolution:
+    *   (b) that the members of the society are entitled to divide between them the property of the society on its dissolution:
     
-    *   (c) That the society is established for the protection or regulation of some trade, business, industry, or calling in which the members are engaged or interested, if the society itself does not engage or take part in any such trade, business, industry, or calling, or any part or branch thereof:
+    *   (c) that the society is established for the protection or regulation of some trade, business, industry, or calling in which the members are engaged or interested, if the society itself does not engage or take part in any such trade, business, industry, or calling, or any part or branch thereof:
     
-    *   (d) That any member of the society derives pecuniary gain from the society by way of salary as the servant or officer of the society:
+    *   (d) that any member of the society derives pecuniary gain from the society by way of salary as the servant or officer of the society:
     
-    *   (e) That any member of the society derives from the society any pecuniary gain to which he would be equally entitled if he were not a member of the society:
+    *   (e) that any member of the society derives from the society any pecuniary gain to which he would be equally entitled if he were not a member of the society:
     
-    *   (f) That the members of the society compete with each other for trophies or prizes other than money prizes.
+    *   (f) that the members of the society compete with each other for trophies or prizes other than money prizes.
     
     
 
@@ -167,35 +165,35 @@ An Act to make provision for the incorporation of societies which are not establ
     
 *   (1) The rules of a society shall state or provide for the following matters, that is to say:
         
-    *   (a) The name of the society, with the addition of the word ""Incorporated"" as the last word in that name:
+    *   (a) the name of the society, with the addition of the word ""Incorporated"" as the last word in that name:
     
-    *   (b) The objects for which the society is established:
+    *   (b) the objects for which the society is established:
     
-    *   (c) The modes in which persons become members of the society:
+    *   (c) the modes in which persons become members of the society:
     
-    *   (d) The modes in which persons cease to be members of the society:
+    *   (d) the modes in which persons cease to be members of the society:
     
-    *   (e) The mode in which the rules of the society may be altered, added to, or rescinded:
+    *   (e) the mode in which the rules of the society may be altered, added to, or rescinded:
     
-    *   (f) The mode of summoning and holding general meetings of the society, and of voting thereat:
+    *   (f) the mode of summoning and holding general meetings of the society, and of voting thereat:
     
-    *   (g) The appointment of officers of the society:
+    *   (g) the appointment of officers of the society:
     
-    *   (h) The control and use of the common seal of the society:
+    *   (h) the control and use of the common seal of the society:
     
-    *   (i) The control and investment of the funds of the society:
+    *   (i) the control and investment of the funds of the society:
     
-    *   (j) The powers (if any) of the society to borrow money:
+    *   (j) the powers (if any) of the society to borrow money:
     
-    *   (k) The disposition of the property of the society in the event of the society being put into liquidation:
+    *   (k) the disposition of the property of the society in the event of the society being put into liquidation:
     
-    *   (l) Such other matters as the Registrar may require to be provided for in any particular instance.
+    *   (l) such other matters as the Registrar may require to be provided for in any particular instance.
     
     (2) The rules of the society may contain any other provisions which are not inconsistent with this Act or with law.
     
     (3) The rules of the society and any amendment of those rules shall be printed or typewritten.
     
-    Subsection (1)(k) was substituted, as from 1 July 1994, by [section 2][45] Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 6(1)(k): replaced, on 1 July 1994, by [section 2][46] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
 
 ##### 7 How to apply for incorporation
     
@@ -205,7 +203,7 @@ An Act to make provision for the incorporation of societies which are not establ
             
         *   (i) in the form set out in [Schedule 1][43], or a substantially similar form; and
         
-        *   (ii) signed by not less than 15 members in accordance with subsections [(2)][8] and [(3)][8]; and
+        *   (ii) signed by not less than 15 members in accordance with subsections (2) and (3); and
         
         
     
@@ -227,9 +225,7 @@ An Act to make provision for the incorporation of societies which are not establ
     
     (3) In the case of a corporate subscriber that has a seal, the seal may also be affixed as part of its signature.
     
-    Subsection (1)(b) was amended, as from 1 April 1954, by section [2(2)(b)][46] Incorporated Societies Amendment Act 1953 by substituting the words ""prescribed fee"" for the words ""fee prescribed in Schedule 2 hereto"".
-    
-    Section 7 was substituted, as from 15 December 2005, by [section 3][47] Incorporated Societies Amendment Act 2005 (2005 No 106).
+    Section 7: replaced, on 15 December 2005, by [section 3][47] of the Incorporated Societies Amendment Act 2005 (2005 No 106).
 
 ##### 8 Steps that Registrar must take if satisfied that requirements met
     
@@ -241,7 +237,7 @@ An Act to make provision for the incorporation of societies which are not establ
     
     *   (c) register the rules of the society by sealing them with the Registrar's seal.
     
-    Section 8 was substituted, as from 15 December 2005, by [section 4][48] Incorporated Societies Amendment Act 2005 (2005 No 106).
+    Section 8: replaced, on 15 December 2005, by [section 4][48] of the Incorporated Societies Amendment Act 2005 (2005 No 106).
 
 ##### 9 Certificate of incorporation to be conclusive evidence of registration
     
@@ -257,9 +253,9 @@ An Act to make provision for the incorporation of societies which are not establ
     
     (2) Except with the consent of the High Court, no society shall be registered by a name which, in the opinion of the Registrar, is undesirable.
     
-    Section 11 was substituted, as from 1 December 1951, by section 2 Incorporated Societies Amendment Act 1951 (1951 No 38).
+    Section 11: replaced, on 1 December 1951, by section 2 of the Incorporated Societies Amendment Act 1951 (1951 No 38).
     
-    Subsection (2) was inserted, as from 14 October 1981, by section 2 Incorporated Societies Amendment Act 1981 (1981 No 41).
+    Section 11(2): inserted, on 14 October 1981, by section 2 of the Incorporated Societies Amendment Act 1981 (1981 No 41).
 
 ##### 11A Change of name
     
@@ -271,23 +267,19 @@ An Act to make provision for the incorporation of societies which are not establ
     
     the society shall, within a period of 6 weeks from the date of its being required by the Registrar to do so, or such longer period as he may allow, change its name in accordance with [section 21][23] of this Act to a name that is not in contravention as aforesaid and is not, in the opinion of the Registrar, undesirable.
     
-    (2) If a society makes default in complying with the requirements of subsection [(1)][13] of this section, it commits an offence and shall be liable on summary conviction to a fine not exceeding $10 for every day on which the offence has continued.
+    (2) If a society makes default in complying with the requirements of subsection (1) of this section, it commits an offence and shall be liable on conviction to a fine not exceeding $10 for every day on which the offence has continued.
     
-    (3) No fee shall be payable to the Registrar in respect of an alteration of the rules of a society if the alteration only changes the society's name pursuant to the requirements of subsection [(1)][13] of this section.
+    (3) No fee shall be payable to the Registrar in respect of an alteration of the rules of a society if the alteration only changes the society's name pursuant to the requirements of subsection (1) of this section.
     
-    Section 11A was inserted, as from 5 November 1971, by section 2 Incorporated Societies Amendment Act 1971 (1971 No 43).
+    Section 11A: replaced, on 14 October 1981, by section 3(1) of the Incorporated Societies Amendment Act 1981 (1981 No 41).
     
-    Section 11A was substituted, as from 14 October 1981, by section 3(1) Incorporated Societies Amendment Act 1981 (1981 No 41).
+    Section 11A(2): amended, on 1 July 2013, by [section 413][49] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 12 Appeal from Registrar to High Court
     
 *   \[Repealed\]
     
-    Section 12 was amended, as from 27 October 1965, by substituting the words ""Supreme Court"" for the words ""Governor-General in Council"".
-    
-    The words ""High Court"" were substituted, as from 1 April 1980, for the words ""Supreme Court"" pursuant to [section 12][49] Judicature Amendment Act 1979 (1979 No 124).
-    
-    Section 12 was repealed, as from 14 October 1981, by section 6 Incorporated Societies Amendment Act 1981 (1981 No 41).
+    Section 12: repealed, on 14 October 1981, by section 6 of the Incorporated Societies Amendment Act 1981 (1981 No 41).
 
 ##### 13 No liability on members for obligation of society
     
@@ -311,7 +303,7 @@ An Act to make provision for the incorporation of societies which are not establ
 
 ##### 17 Security for costs where society is plaintiff
     
-*   (1) Where a society is the plaintiff in any action or other legal proceeding, and there appears by any credible testimony to be reason to believe that if the defendant is successful in his defence the assets of the society will be insufficient to pay his costs, any Court or Judge having jurisdiction in the matter may require sufficient security to be given for those costs, and may stay all proceedings until that security is given.
+*   (1) Where a society is the plaintiff in any action or other legal proceeding, and there appears by any credible testimony to be reason to believe that if the defendant is successful in his defence the assets of the society will be insufficient to pay his costs, any court or Judge having jurisdiction in the matter may require sufficient security to be given for those costs, and may stay all proceedings until that security is given.
     
     (2) \[Repealed\]
     
@@ -325,21 +317,21 @@ An Act to make provision for the incorporation of societies which are not establ
     
     (3) Until that notice is given, the society shall be deemed not to have complied with the provisions of this section as to having a registered office.
     
-    (4) If any society carries on its operations without having a registered office, every officer of the society and every member of the committee or other governing body of the society shall be liable to a fine not exceeding 10¢ for every day during which those operations are carried on.
+    (4) If any society carries on its operations without having a registered office, every officer of the society and every member of the committee or other governing body of the society shall be liable to a fine not exceeding 1 shilling for every day during which those operations are carried on.
 
 ##### 19 Restriction of operations of society
     
 *   (1) If any society carries on or proposes to carry on any operation which is beyond the scope of the objects of the society as defined in its rules, the Registrar may give notice in writing to the society not to carry on that operation.
     
-    (2) If after the receipt of that notice the society fails or refuses to conform thereto, every officer of the society and every member of the committee or other governing body of the society shall be liable to a fine not exceeding $2 for every day during which that failure or refusal continues, unless he proves that the failure or refusal has taken place without his authority or consent.
+    (2) If after the receipt of that notice the society fails or refuses to conform thereto, every officer of the society and every member of the committee or other governing body of the society shall be liable to a fine not exceeding 1 pound for every day during which that failure or refusal continues, unless he proves that the failure or refusal has taken place without his authority or consent.
 
 ##### 20 Society not to engage in operations involving pecuniary gain
     
 *   (1) No society shall do any act of such a nature that if the doing thereof were one of the objects for which the society was established the members of the society would be deemed to be associated for pecuniary gain within the meaning of [sections 4][5] and [5][6] hereof.
     
-    (2) Every society which does any such act shall be liable to a fine not exceeding $200\.
+    (2) Every society which does any such act shall be liable to a fine not exceeding 100 pounds.
     
-    (3) Every member who aids, abets, procures, assists, or takes part in the doing of any such act by a society shall be liable to a fine not exceeding $40, and all such members shall be jointly and severally liable to any creditor of the society for all debts and obligations incurred by the society in or in consequence of the doing of that act.
+    (3) Every member who aids, abets, procures, assists, or takes part in the doing of any such act by a society shall be liable to a fine not exceeding 20 pounds, and all such members shall be jointly and severally liable to any creditor of the society for all debts and obligations incurred by the society in or in consequence of the doing of that act.
     
     (4) Every member who derives any pecuniary gain from any act done by the society in breach of this section shall be deemed to have received the same to the use of the society, and the same may be recovered by the society accordingly.
 
@@ -357,15 +349,15 @@ An Act to make provision for the incorporation of societies which are not establ
     
     (3) The Registrar, if satisfied that the alteration has been duly made, and that the rules as so altered conform in all respects to this Act, shall register the alteration in like manner as in the case of the original rules, and the said alteration shall thereupon take effect according to the tenor thereof. Such registration shall be conclusive evidence that all conditions precedent to the making of the alteration, or to the registration thereof, have been duly fulfilled.
     
-    (3A) Notwithstanding anything in subsection [(3)][23] of this section, the High Court, on an application made to it by any member of the society, may in its discretion, if it is satisfied that any such condition as aforesaid has not been duly fulfilled, declare the alteration to be void in whole or in part, and order that the registration be cancelled in whole or in part, and may by the order give such directions and make such provisions as seem just in the circumstances of the case. On the delivery to the Registrar of a sealed copy of the Court's order he shall forthwith amend the register accordingly.
+    (3A) Notwithstanding anything in subsection (3) of this section, the High Court, on an application made to it by any member of the society, may in its discretion, if it is satisfied that any such condition as aforesaid has not been duly fulfilled, declare the alteration to be void in whole or in part, and order that the registration be cancelled in whole or in part, and may by the order give such directions and make such provisions as seem just in the circumstances of the case. On the delivery to the Registrar of a sealed copy of the court's order he shall forthwith amend the register accordingly.
     
     (4) No alteration in the objects of a society shall be registered unless the Registrar is satisfied either that the alteration is not of such a nature as to prejudicially affect any existing creditor of the society, or that all creditors who may be so affected consent to the alteration.
     
     (5) In the case of any alteration of the name of a society the Registrar may, in his discretion, refuse to register the alteration until the making thereof has been publicly advertised in such manner as the Registrar thinks fit.
     
-    Subsection (2) was substituted, as from 15 December 2005, by [section 5][51] Incorporated Societies Amendment Act 2005 (2005 No 106).
+    Section 21(2): replaced, on 15 December 2005, by [section 5][51] of the Incorporated Societies Amendment Act 2005 (2005 No 106).
     
-    Subsection (3A) was inserted, as from 5 November 1971, by section 3 Incorporated Societies Amendment Act 1971\.
+    Section 21(3A): inserted, on 5 November 1971, by section 3 of the Incorporated Societies Amendment Act 1971 (1971 No 43).
 
 ##### 22 Register of members
     
@@ -375,171 +367,177 @@ An Act to make provision for the incorporation of societies which are not establ
     
     (3) Every society must, on request by the Registrar, send to the Registrar a list of the names and addresses of its members, accompanied by a certificate by an officer of the society certifying that the list is correct.
     
-    Section 22 was substituted, as from 15 December 2005, by [section 6][52] Incorporated Societies Amendment Act 2005 (2005 No 106).
+    Section 22: replaced, on 15 December 2005, by [section 6][52] of the Incorporated Societies Amendment Act 2005 (2005 No 106).
 
 ##### 23 Annual financial statement
     
 *   (1) Every society shall deliver annually to the Registrar, in such form and at such time as he requires, a statement containing the following particulars:
         
-    *   (a) The income and expenditure of the society during the society's last financial year:
+    *   (a) the income and expenditure of the society during the society's last financial year:
     
-    *   (b) The assets and liabilities of the society at the close of the said year:
+    *   (b) the assets and liabilities of the society at the close of the said year:
     
-    *   (c) All mortgages, charges, and securities of any description affecting any of the property of the society at the close of the said year.
+    *   (c) all mortgages, charges, and securities of any description affecting any of the property of the society at the close of the said year.
     
     (2) The said statement shall be accompanied by a certificate signed by some officer of the society to the effect that the statement has been submitted to and approved by the members of the society at a general meeting.
     
-    (3) If any default is made by a society in the observance of the provisions of this section, every officer of the society shall be liable to a fine not exceeding 10c for every day during which the default continues.
+    (3) If any default is made by a society in the observance of the provisions of this section, every officer of the society shall be liable to a fine not exceeding 1 shilling for every day during which the default continues.
     
     (4) Nothing in this section applies to a society that is---
         
-    *   (a) an issuer within the meaning of [section 4][53] of the [Financial Reporting Act 1993][54]; or
+    *   (a) an issuer within the meaning of [section 4][53] of the Financial Reporting Act 1993; or
     
-    *   (b) a charitable entity within the meaning of [section 4][55] of the [Charities Act 2005][56].
+    *   (b) a charitable entity within the meaning of [section 4][54] of the Charities Act 2005\.
     
-    Subsection (4) was inserted, as from 1 July 1994, by [section 49][57] Financial Reporting Act 1993 (1993 No 106).
-    
-    Subsection (4) was substituted, as from 1 July 2005, by [section 76][58] Charities Act 2005 (2005 No 39).
+    Section 23(4): replaced, on 1 July 2005, by [section 76][55] of the Charities Act 2005 (2005 No 39).
 
 ##### 23A Power to compromise with creditors and members
     
-*   (1) Where a compromise or arrangement is proposed between a society and its creditors or any class of them, or between the society and its members or any class of them, the High Court may, on the application of the society or of any creditor or member of the society, or, in the case of a society in liquidation, of the liquidator, order a meeting of the creditors or class of creditors, or of the members of the society or class of members, as the case may be, to be summoned in such manner as the Court directs. If any question arises under this section as to whether or not any members or creditors of a society constitute a class of members or a class of creditors, as the case may be, it shall be determined by the High Court as in the circumstances it thinks proper.
+*   (1) Where a compromise or arrangement is proposed between a society and its creditors or any class of them, or between the society and its members or any class of them, the High Court may, on the application of the society or of any creditor or member of the society, or, in the case of a society in liquidation, of the liquidator, order a meeting of the creditors or class of creditors, or of the members of the society or class of members, as the case may be, to be summoned in such manner as the court directs. If any question arises under this section as to whether or not any members or creditors of a society constitute a class of members or a class of creditors, as the case may be, it shall be determined by the High Court as in the circumstances it thinks proper.
     
     (2) If a majority in number representing not less than three-fourths in value of the creditors or class of creditors or not less than three-fourths of the members or class of members, as the case may be, voting in person or, where proxies are allowed, by proxy at the meeting agree to any compromise or arrangement, the compromise or arrangement shall, if sanctioned by the High Court, be binding on all the creditors or the class of creditors, or on the members or class of members, as the case may be, and also on the society, or, in the case of a society in liquidation, on the liquidator of the society.
     
-    (3) An order made under subsection [(2)][26] of this section shall have no effect until a sealed copy of the order has been delivered to the Registrar for registration, and a copy of every such order shall be annexed to every copy of the rules of the society issued after the order has been made.
+    (3) An order made under subsection (2) of this section shall have no effect until a sealed copy of the order has been delivered to the Registrar for registration, and a copy of every such order shall be annexed to every copy of the rules of the society issued after the order has been made.
     
-    (4) If a society makes default in complying with subsection [(3)][26] of this section, the society and every officer of the society who is in default shall be liable on summary conviction to a fine not exceeding $2 for each copy in respect of which default is made.
+    (4) If a society makes default in complying with subsection (3) of this section, the society and every officer of the society who is in default shall be liable on conviction to a fine not exceeding $2 for each copy in respect of which default is made.
     
     (5) In this section and in [section 23B][27] of this Act---
     
-    _Creditor_ includes every person who has a claim that in the liquidation of a society would be admitted as a claim in accordance with [Part 16][59] of the [Companies Act 1993][60] (as applied by section [24(3)][28] and section [26(3)][30] of this Act)
+    _creditor_ includes every person who has a claim that in the liquidation of a society would be admitted as a claim in accordance with [Part 16][56] of the Companies Act 1993 (as applied by [section 24(3)][28] and [section 26(3)][30] of this Act)
     
-    _Officer of the society who is in default_ means any officer of the society who---
+    _officer of the society who is in default_ means any officer of the society who---
         
-    *   (a) Knowingly and wilfully authorises or permits the default, refusal, or contravention mentioned in this section or in [section 23B][27] of this Act; or
+    *   (a) knowingly and wilfully authorises or permits the default, refusal, or contravention mentioned in this section or in [section 23B][27] of this Act; or
     
-    *   (b) Knew or ought to have known of the default, refusal, or contravention and did not take all reasonable steps to secure compliance by the society with the requirements specified in or imposed by this section or [section 23B][27] of this Act.
+    *   (b) knew or ought to have known of the default, refusal, or contravention and did not take all reasonable steps to secure compliance by the society with the requirements specified in or imposed by this section or [section 23B][27] of this Act.
     
-    Section 23A was inserted, as from 14 October 1981, by section 4 Incorporated Societies Amendment Act 1981 (1981 No 41).
+    Section 23A: inserted, on 14 October 1981, by section 4 of the Incorporated Societies Amendment Act 1981 (1981 No 41).
     
-    Subsection (1) was amended, as from 1 July 1994, by section [2(1)][61] Incorporated Societies Amendment Act 1993 (1993 No 114) by substituting the words ""in liquidation"" for the words ""being wound up"". _See_ [section 5][62] of that Act as to the transitional provisions applying to the liquidation of societies.
+    Section 23A(1): amended, on 1 July 1994, by [section 2(1)][57] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
     
-    Subsection (2) was amended, as from 1 July 1994, by section [2(2)][61] Incorporated Societies Amendment Act 1993 (1993 No 114) by substituting the word ""liquidation"" for the words ""the course of being wound up"". _See_ [section 5][62] of that Act as to the transitional provisions applying to the liquidation of societies.
+    Section 23A(2): amended, on 1 July 1994, by [section 2(2)][57] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
     
-    Subsection (5): the definition of Creditor was substituted, as from 1 July 1994, by section [2(3)][61] Incorporated Societies Amendment Act 1993 (1993 No 114). _See_ [section 5][62] of that Act as to the transitional provisions applying to the liquidation of societies.
+    Section 23A(4): amended, on 1 July 2013, by [section 413][49] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 23A(5) **creditor**: replaced, on 1 July 1994, by [section 2(3)][57] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
 
 ##### 23B Information as to compromises with creditors and members
     
 *   (1) Where a meeting of creditors or any class of creditors or of members or any class of members is summoned under [section 23A][26] of this Act, there shall---
         
-    *   (a) With every notice summoning the meeting which is sent to a creditor or member, be sent also a statement explaining the effect of the compromise or arrangement and in particular stating any material interests of the officers of the society, whether as officers or as members or as creditors of the society or otherwise, and the effect thereon of the compromise or arrangement, in so far as it is different from the effect on the like interests and of other persons; and
+    *   (a) with every notice summoning the meeting which is sent to a creditor or member, be sent also a statement explaining the effect of the compromise or arrangement and in particular stating any material interests of the officers of the society, whether as officers or as members or as creditors of the society or otherwise, and the effect thereon of the compromise or arrangement, in so far as it is different from the effect on the like interests and of other persons; and
     
-    *   (b) In every notice summoning the meeting which is given by advertisement, be included either such a statement as aforesaid or a notification of the place at which and the manner in which creditors or members entitled to attend the meeting may obtain copies of such a statement as aforesaid.
+    *   (b) in every notice summoning the meeting which is given by advertisement, be included either such a statement as aforesaid or a notification of the place at which and the manner in which creditors or members entitled to attend the meeting may obtain copies of such a statement as aforesaid.
     
     (2) Where the compromise or arrangement affects the rights of creditors of the society, the said statement shall give the like explanation as respects any trustees appointed on behalf of creditors as it is required to give as respects the society's officers.
     
     (3) Where a notice given by advertisement includes a notification that copies of a statement explaining the effect of the compromise or arrangement proposed can be obtained by creditors or members entitled to attend the meeting, every such creditor or member shall, on making application in the manner indicated by the notice, be furnished by the society free of charge with a copy of the statement.
     
-    (4) Where a society makes default in complying with any requirement of this section, the society and every officer of the society who is in default shall be liable on summary conviction to a fine not exceeding $1,000, and, for the purpose of this subsection, any liquidator of the society and any trustees appointed on behalf of creditors of the society shall be deemed to be officers of the society:
+    (4) Where a society makes default in complying with any requirement of this section, the society and every officer of the society who is in default shall be liable on conviction to a fine not exceeding $1,000, and, for the purpose of this subsection, any liquidator of the society and any trustees appointed on behalf of creditors of the society shall be deemed to be officers of the society:
     
     Provided that a person shall not be liable under this subsection if that person shows that the default was due to the refusal of any other person, being an officer of the society or a trustee appointed on behalf of creditors, to supply the necessary particulars as to his interests.
     
-    (5) It shall be the duty of any officer of the society and of any trustee appointed on behalf of creditors of the society to give notice to the society of such matters relating to himself as may be necessary for the purposes of this section, and any person who makes default in complying with this subsection shall be liable on summary conviction to a fine not exceeding $100\.
+    (5) It shall be the duty of any officer of the society and of any trustee appointed on behalf of creditors of the society to give notice to the society of such matters relating to himself as may be necessary for the purposes of this section, and any person who makes default in complying with this subsection shall be liable on conviction to a fine not exceeding $100\.
     
-    Section 23B was inserted, as from 14 October 1981, by section 4 Incorporated Societies Amendment Act 1981\.
+    Section 23B: inserted, on 14 October 1981, by section 4 of the Incorporated Societies Amendment Act 1981 (1981 No 41).
+    
+    Section 23B(4): amended, on 1 July 2013, by [section 413][49] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 23B(5): amended, on 1 July 2013, by [section 413][49] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 24 Members may resolve to put society into liquidation
     
 *   (1) A society may be put into liquidation if the society, at a general meeting of its members, passes a resolution appointing a liquidator, and the resolution is confirmed at a subsequent general meeting called together for that purpose and held not earlier than 30 days after the date on which the resolution to be confirmed was passed.
     
-    (2) In subsection [(1)][28] of this section, the term _resolution_ means a resolution carried by a majority of the valid votes cast by members voting at the general meeting in person or, if so allowed by the society's rules, by proxy; and, for the purposes of that subsection, the resolution shall be taken to be confirmed at the subsequent general meeting if the confirmation is carried by such a majority.
+    (2) In subsection (1) of this section, the term _resolution_ means a resolution carried by a majority of the valid votes cast by members voting at the general meeting in person or, if so allowed by the society's rules, by proxy; and, for the purposes of that subsection, the resolution shall be taken to be confirmed at the subsequent general meeting if the confirmation is carried by such a majority.
     
-    (3) Subject to this Act and to any regulations made under it, the provisions of [Part 16][59] of the [Companies Act 1993][60] shall apply to the liquidation of the society, with such modifications as may be necessary, as if the society was a company that had been put into liquidation under section [241(2)(a)][63] of that Act.
+    (3) Subject to this Act and to any regulations made under it, the provisions of [Part 16][56] of the Companies Act 1993 shall apply to the liquidation of the society, with such modifications as may be necessary, as if the society was a company that had been put into liquidation under [section 241(2)(a)][58] of that Act.
     
-    Subsection (1A) was inserted, as from 5 November 1971, by section 4 Incorporated Societies Amendment Act 1971 (1971 No 43).
-    
-    Sections 24 to 26 were substituted as from 1 July 1994 by section [3(1)][64] Incorporated Societies Amendment Act 1993 (1993 No 114). _See_ [section 5][62] of that Act for the transitional provisions applying to the liquidation of societies.
+    Section 24: replaced, on 1 July 1994, by [section 3(1)][59] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
 
 ##### 25 High Court may put society into liquidation
     
 *   A society may be put into liquidation by the appointment by the High Court as liquidator of a named person or of an Official Assignee for a named district under the following circumstances, that is to say:
         
-    *   (a) If the society suspends its operations for the space of a year; or
+    *   (a) if the society suspends its operations for the space of a year; or
     
-    *   (b) If the members of the society are reduced in number to less than 15; or
+    *   (b) if the members of the society are reduced in number to less than 15; or
     
-    *   (c) If the society is unable to pay its debts; or
+    *   (c) if the society is unable to pay its debts; or
     
-    *   (d) If the society carries on any operation whereby any member makes any pecuniary gain contrary to the provisions of this Act; or
+    *   (d) if the society carries on any operation whereby any member makes any pecuniary gain contrary to the provisions of this Act; or
     
-    *   (e) If the High Court or a Judge thereof is of the opinion that it is just and equitable that the society should be put into liquidation.
+    *   (e) if the High Court or a Judge thereof is of the opinion that it is just and equitable that the society should be put into liquidation.
     
-    The words ""High Court"" in the original section 25 were substituted, as from 1 April 1980, for the words ""Supreme Court"" pursuant to [section 12][49] Judicature Amendment Act 1979 (1979 No 124).
-    
-    Sections 24 to 26 were substituted as from 1 July 1994 by section [3(1)][64] Incorporated Societies Amendment Act 1993 (1993 No 114). _See_ [section 5][62] of that Act for the transitional provisions applying to the liquidation of societies.
+    Section 25: replaced, on 1 July 1994, by [section 3(1)][59] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
 
-##### 26 Application to Court to appoint liquidator
+##### 26 Application to court to appoint liquidator
     
 *   (1) Any application to the High Court for the appointment of a liquidator of a society shall be made by the society or by a member or by a creditor or by the Registrar.
     
-    (2) All costs incurred by the Registrar in making an application shall, unless the Court or a Judge thereof otherwise orders, be a first charge on the assets of the society.
+    (2) All costs incurred by the Registrar in making an application shall, unless the court or a Judge thereof otherwise orders, be a first charge on the assets of the society.
     
-    (3) Subject to this Act and to any regulations made under it, [Parts 16][59] and [17][65] of the [Companies Act 1993][60] shall apply, with such modifications as may be necessary,---
+    (3) Subject to this Act and to any regulations made under it, [Parts 16][56] and [17][60] of the Companies Act 1993 shall apply, with such modifications as may be necessary,---
         
-    *   (a) To the application for the appointment of a liquidator as if the application was an application under section [241(2)(c)][63] of that Act; and
+    *   (a) to the application for the appointment of a liquidator as if the application was an application under [section 241(2)(c)][58] of that Act; and
     
-    *   (b) To the liquidation as if the liquidator had been appointed under section [241(2)(c)][63] of that Act.
+    *   (b) to the liquidation as if the liquidator had been appointed under [section 241(2)(c)][58] of that Act.
     
-    The words ""High Court"" in the original section 26 were substituted, as from 1 April 1980, for the words ""Supreme Court"" pursuant to [section 12][49] Judicature Amendment Act 1979 (1979 No 124).
-    
-    Sections 24 to 26 were substituted, as from 1 July 1994, by section [3(1)][64] Incorporated Societies Amendment Act 1993 (1993 No 114). _See_ [section 5][62] of that Act for the transitional provisions applying to the liquidation of societies.
+    Section 26: replaced, on 1 July 1994, by [section 3(1)][59] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
 
 ##### 27 Division of surplus assets on winding up
     
 *   (1) On the liquidation of a society or on its dissolution by the Registrar all surplus assets after the payment of all costs, debts, and liabilities shall, subject to any trust affecting the same, be disposed of in manner provided by the rules of the society or if such assets cannot be disposed of in accordance with the rules, then as the Registrar directs.
     
-    (2) If the said surplus assets are subject to any trust, they shall be disposed of as the High Court or a Judge thereof directs in the case where a liquidator was appointed by the Court, or as the Registrar directs in a case where a liquidator was appointed by a resolution of the members or in the case of a dissolution by the Registrar, but an appeal shall lie from any such decision of the Registrar to the High Court at the suit of any person interested. No appeal under this subsection or under subsection [(1)][31] of this section from any decision of the Registrar shall lie unless notice thereof is delivered to the Registrar within one month after the date on which the decision was given.
+    (2) If the said surplus assets are subject to any trust, they shall be disposed of as the High Court or a Judge thereof directs in the case where a liquidator was appointed by the court, or as the Registrar directs in a case where a liquidator was appointed by a resolution of the members or in the case of a dissolution by the Registrar, but an appeal shall lie from any such decision of the Registrar to the High Court at the suit of any person interested. No appeal under this subsection or under subsection (1) of this section from any decision of the Registrar shall lie unless notice thereof is delivered to the Registrar within one month after the date on which the decision was given.
     
-    (3) Where any direction is given under the foregoing provisions of this section, there may (for the purposes of that direction) be included in that direction, or in a subsequent direction given by a Registrar or Court or Judge who or which gave or had power to give the original direction, all or any of the following further directions:
+    (3) Where any direction is given under the foregoing provisions of this section, there may (for the purposes of that direction) be included in that direction, or in a subsequent direction given by a Registrar or court or Judge who or which gave or had power to give the original direction, all or any of the following further directions:
         
-    *   (a) A direction vesting all or any of the assets of the society without transfer, conveyance, or assignment in such person or persons as may be specified in the direction, subject to all charges, encumbrances, estates, and interests affecting the same:
+    *   (a) a direction vesting all or any of the assets of the society without transfer, conveyance, or assignment in such person or persons as may be specified in the direction, subject to all charges, encumbrances, estates, and interests affecting the same:
     
-    *   (b) If anything remains to be done to complete any matters outstanding on the liquidation or dissolution of the society or to provide for the payment of all costs, debts, and liabilities of and in relation to the society and its liquidation or dissolution, such directions as may be necessary or expedient to make provision for the completion and payment thereof:
+    *   (b) if anything remains to be done to complete any matters outstanding on the liquidation or dissolution of the society or to provide for the payment of all costs, debts, and liabilities of and in relation to the society and its liquidation or dissolution, such directions as may be necessary or expedient to make provision for the completion and payment thereof:
     
-    *   (c) A direction conferring on any person such powers as may be necessary or expedient to enable him to carry out the functions and duties imposed on him by any direction given under this section.
+    *   (c) a direction conferring on any person such powers as may be necessary or expedient to enable him to carry out the functions and duties imposed on him by any direction given under this section.
     
-    (4) Every direction given under subsection [(3)][31] of this section shall have effect according to its tenor as soon as the direction becomes final; and for the purposes of this subsection such a direction shall become final---
+    (4) Every direction given under subsection (3) of this section shall have effect according to its tenor as soon as the direction becomes final; and for the purposes of this subsection such a direction shall become final---
         
-    *   (a) On the date specified therein if that date commences after the time determined under paragraph [(b)][31] of this subsection:
+    *   (a) on the date specified therein if that date commences after the time determined under paragraph (b) of this subsection:
     
-    *   (b) In any case where no date on which the direction is to become final is specified therein, or where the date for finality that is specified therein does not commence after the time specified in this paragraph---
+    *   (b) on any case where no date on which the direction is to become final is specified therein, or where the date for finality that is specified therein does not commence after the time specified in this paragraph---
             
-        *   (i) When the direction under the said subsection [(3)][31] is given, if at that time no right of appeal without special leave is subsisting in respect of the direction providing for the distribution of the said surplus assets, and all appeals duly made against that direction have been determined; or
+        *   (i) when the direction under the said subsection (3) is given, if at that time no right of appeal without special leave is subsisting in respect of the direction providing for the distribution of the said surplus assets, and all appeals duly made against that direction have been determined; or
         
-        *   (ii) Upon the expiration of the time allowed for any appeal without special leave that may lie against the direction providing for the distribution of the said surplus assets, or upon the determination of all appeals against that direction that are duly made either within that time or while any other appeal against that direction is awaiting determination, whichever is later, if when the direction under the said subsection [(3)][31] is given a right of appeal without special leave is subsisting in respect of the direction providing for the distribution of the said surplus assets or any appeal duly made against that direction has not been determined.
+        *   (ii) upon the expiration of the time allowed for any appeal without special leave that may lie against the direction providing for the distribution of the said surplus assets, or upon the determination of all appeals against that direction that are duly made either within that time or while any other appeal against that direction is awaiting determination, whichever is later, if when the direction under the said subsection (3) is given a right of appeal without special leave is subsisting in respect of the direction providing for the distribution of the said surplus assets or any appeal duly made against that direction has not been determined.
         
         
     
-    (5) Where by any direction under this section any estate or interest in land under the [Land Transfer Act 1952][66] is vested in any person, then, subject to the provisions of that direction, the District Land Registrar for the land registration district in which the land is situated, on application made to him by that person in such form as may be prescribed by the Governor-General by Order in Council and on the registration or deposit of such documents or plans as the District Land Registrar may require, shall make such entries in the register and generally do all such things as may be necessary to give full effect to the provisions of the direction.
+    (5) Where by any direction under this section any estate or interest in land under the [Land Transfer Act 1952][61] is vested in any person, then, subject to the provisions of that direction, the District Land Registrar for the land registration district in which the land is situated, on application made to him by that person in such form as may be prescribed by the Governor-General by Order in Council and on the registration or deposit of such documents or plans as the District Land Registrar may require, shall make such entries in the register and generally do all such things as may be necessary to give full effect to the provisions of the direction.
     
     (6) Except as provided in the foregoing provisions of this section, no appeal shall lie against any direction of the Registrar given under this section.
     
     (7) This section shall bind the Crown.
     
-    Subsection (1) was amended by section [4(2)(a)][67] and [(b)][67] Incorporated Societies Amendment Act 1922 by inserting the words ""or on its dissolution by the Registrar"" and ""or if such assets cannot be disposed of in accordance with the rules, then as the Registrar directs"".
+    Section 27(1): amended, on 1 July 1994, by [section 4][62] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
     
-    Subsection (1) was amended, as from 1 July 1994 by [section 4][68] Incorporated Societies Amendment Act 1993 (1993 No 114) by substituting the word ""liquidation"" for the words ""winding up"" in each place where they occur. _See_ [section 5][62] of that Act for the transitional provisions applying to the liquidation of societies.
+    Section 27(1): amended, on 17 October 1922, by [section 4(2)(a) and (b)][63] of the Incorporated Societies Amendment Act 1922 (1922 No 27).
     
-    Subsection (2) was amended by section [4(2)(c)][67] Incorporated Societies Amendment Act 1922 by inserting the words ""or in the case of a dissolution by the Registrar"" and ""under this or the last preceding subsection"".
+    Section 27(2): amended, on 10 December 1976, by section 2(1) of the Incorporated Societies Amendment Act 1976 (1976 No 93).
     
-    Subsection (2) was amended by section 2(1) Incorporated Societies Amendment Act 1976 by substituting the words ""No appeal under this subsection or under subsection (1) of this section from any decision of the Registrar shall lie unless notice thereof is delivered to the Registrar within one month after the date on which the decision was given"" for the words ""The decision of the Registrar \[under this or the last preceding subsection\] shall be final, unless notice of appeal therefrom is delivered to the Registrar within one month after the decision has been given""
+    Section 27(2): amended, on 17 October 1922, by [section 4(2)(c)][63] of the Incorporated Societies Amendment Act 1922 (1922 No 27).
     
-    Subsection (2) was amended, as from 1 July 1994 by section [4(2)][68] Incorporated Societies Amendment Act 1993 (1993 No 114) by substituting the words ""where a liquidator was appointed by the Court, or as the Registrar directs in a case where a liquidator was appointed by a resolution of the members"" for the words ""of a winding up by the said Court, or as the Registrar directs in the case of a voluntary winding up"". _See_ [section 5][62] of that Act for the transitional provisions applying to the liquidation of societies.
+    Section 27(2): amended, on 1 July 1994, by [section 4(2)][62] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
     
-    Subsections (3) to (7) were inserted by section 2(2) Incorporated Societies Amendment Act 1976\.
+    Section 27(3): inserted, on 10 December 1976, by section 2(2) of the Incorporated Societies Amendment Act 1976 (1976 No 93).
     
-    Subsection (3)(b) was amended, as from 1 July 1994 by [section 4][68] Incorporated Societies Amendment Act 1993 (1993 No 114) by substituting the word ""liquidation"" for the words ""winding up"" in each place where they occur. _See_ [section 5][62] of that Act for the transitional provisions applying to the liquidation of societies.
+    Section 27(3)(b): amended, on 1 July 1994, by [section 4][62] of the Incorporated Societies Amendment Act 1993 (1993 No 114).
+    
+    Section 27(4): inserted, on 10 December 1976, by section 2(2) of the Incorporated Societies Amendment Act 1976 (1976 No 93).
+    
+    Section 27(5): inserted, on 10 December 1976, by section 2(2) of the Incorporated Societies Amendment Act 1976 (1976 No 93).
+    
+    Section 27(6): inserted, on 10 December 1976, by section 2(2) of the Incorporated Societies Amendment Act 1976 (1976 No 93).
+    
+    Section 27(7): inserted, on 10 December 1976, by section 2(2) of the Incorporated Societies Amendment Act 1976 (1976 No 93).
 
 ##### 28 Dissolution by Registrar
     
@@ -569,7 +567,7 @@ An Act to make provision for the incorporation of societies which are not establ
         
     *   (a) recorded in the register; and
     
-    *   (b) published--- 
+    *   (b) published---
             
         *   (i) in the _Gazette_; and 
         
@@ -579,7 +577,7 @@ An Act to make provision for the incorporation of societies which are not establ
     
     (6) At the time the declaration of revocation is recorded in the register the society is revived, as if no dissolution had taken place, with effect from the time that the society was dissolved.
     
-    Section 28: substituted, on 7 July 2010, by [section 4][69] of the Incorporated Societies Amendment Act 2010 (2010 No 68).
+    Section 28: substituted, on 7 July 2010, by [section 4][64] of the Incorporated Societies Amendment Act 2010 (2010 No 68).
 
 ##### 29 Corporate body may become member of society
     
@@ -593,19 +591,21 @@ An Act to make provision for the incorporation of societies which are not establ
     
 *   In estimating---
         
-    *   (a) The number of subscribers to the rules of a society for the purposes of [section 4][5] or [section 7][8] of this Act, or to the rules of a branch or group of branches for the purposes of [section 3][70] of the [Incorporated Societies Amendment Act 1920][71]; or
+    *   (a) the number of subscribers to the rules of a society for the purposes of [section 4][5] or [section 7][8] of this Act, or to the rules of a branch or group of branches for the purposes of [section 3][65] of the Incorporated Societies Amendment Act 1920; or
     
-    *   (b) The number of members of a society for the purposes of [section 4][5] or [section 25][29] of this Act or of a branch for the purposes of [section 2][72] or [section 3][70] of the [Incorporated Societies Amendment Act 1920][71]---
+    *   (b) the number of members of a society for the purposes of [section 4][5] or [section 25][29] of this Act or of a branch for the purposes of [section 2][66] or [section 3][65] of the Incorporated Societies Amendment Act 1920---
     
     every corporate body that is a subscriber or member shall be taken as the equivalent of 3 subscribers or 3 members, as the case may require.
     
-    Section 31 was substituted, as from 5 November 1971, by section 6 Incorporated Societies Amendment Act 1971 (1971 No 43).
+    Section 31: replaced, on 5 November 1971, by section 6 of the Incorporated Societies Amendment Act 1971 (1971 No 43).
 
 ##### 32 Registrar
     
-*   (1) The Governor-General may from time to time appoint some person to be the Registrar of Incorporated Societies, and may make regulations, consistent with this Act, prescribing the duties and powers of the Registrar.
+*   (1) The Governor-General may from time to time appoint some person to be the Registrar of Incorporated Societies, and may, by Order in Council, make regulations, consistent with this Act, prescribing the duties and powers of the Registrar.
     
     (2) The Registrar so appointed may hold his office in conjunction with any other office which the Governor-General deems not incompatible therewith.
+    
+    Section 32(1): amended, on 5 August 2013, by [section 77(3)][45] of the Legislation Act 2012 (2012 No 119).
 
 ##### 33 Registrar to keep register of incorporated societies
     
@@ -619,7 +619,7 @@ An Act to make provision for the incorporation of societies which are not establ
     
     (2) The Registrar shall keep a seal for the authentication of any documents required for the purposes of this Act.
     
-    (2A) The Registrar may from time to time, in his discretion, direct the transfer of any register that is kept in the office of an Assistant Registrar under or by virtue of [section 2][73] of the [Incorporated Societies Amendment Act 1922][74] from that office to any other such office, and may also direct that any documents so kept, and relating to any society, be so transferred. Forthwith after any such transfer the Registrar shall give notice in the _Gazette_ of the transfer.
+    (2A) The Registrar may from time to time, in his discretion, direct the transfer of any register that is kept in the office of an Assistant Registrar under or by virtue of [section 2][67] of the Incorporated Societies Amendment Act 1922 from that office to any other such office, and may also direct that any documents so kept, and relating to any society, be so transferred. Forthwith after any such transfer the Registrar shall give notice in the _Gazette_ of the transfer.
     
     (3) There shall be paid to the Registrar such fees as may be prescribed by regulations in respect of such matters as may be so prescribed.
     
@@ -627,91 +627,91 @@ An Act to make provision for the incorporation of societies which are not establ
     
     (5) All expenses incurred in the administration of this Act shall be paid out of money appropriated by Parliament.
     
-    Section 33(1A): inserted, on 7 July 2010, by [section 5][75] of the Incorporated Societies Amendment Act 2010 (2010 No 68).
+    Section 33(1A): inserted, on 7 July 2010, by [section 5][68] of the Incorporated Societies Amendment Act 2010 (2010 No 68).
     
-    Subsection (2A) was inserted, as from 5 November 1971, by section 7 Incorporated Societies Amendment Act 1971\.
+    Section 33(2A): inserted, on 5 November 1971, by section 7 of the Incorporated Societies Amendment Act 1971 (1971 No 43).
     
-    Subsection (3) was substituted by section [2(1)][46] Incorporated Societies Amendment Act 1953\.
+    Section 33(3): replaced, on 26 November 1953, by [section 2(1)][69] of the Incorporated Societies Amendment Act 1953 (1953 No 80).
     
-    In subsection (4) the reference to the Consolidated Account was substituted for a reference to the Consolidated Revenue Account (as substituted for a reference to the Consolidated Fund by section 4(4) Public Revenues Amendment Act 1963) by section 114(6) Public Finance Act 1977\. The terms ""Public Account"" and ""Consolidated Account"" were abolished by [section 83][76] Public Finance Act 1989 and are both deemed to be part of the ""Crown Bank Account"".
+    Section 33(4): amended, on 1 April 1978, pursuant to section 114(6) of the Public Finance Act 1977 (1977 No 65).
 
 ##### 34 Inspection of documents
     
-*   (1) Every person may,, inspect the register or any documents lodged with the Registrar.
+*   (1) Every person may, inspect the register or any documents lodged with the Registrar.
     
     (2) Any person may, on payment of the prescribed fee, require a copy of the certificate of the incorporation of any society, or a copy of or extract from the register or any document lodged with the Registrar, to be certified by the Registrar under his seal.
     
     (3) Any such copy or extract purporting to be under the seal of the Registrar shall be received in evidence in all proceedings, civil or criminal.
     
-    (4) No process for compelling the production of any document kept by the Registrar shall issue from any Court except with the leave of that Court, and every such process if issued shall bear on it a statement that it is issued with the leave of the Court.
+    (4) No process for compelling the production of any document kept by the Registrar shall issue from any court except with the leave of that court, and every such process if issued shall bear on it a statement that it is issued with the leave of the court.
     
-    Subsection (1) was amended, as from 5 November 1971, by section 8(1) Incorporated Societies Amendment Act 1971 by omitting the words ""on payment of the prescribed fee"".
+    Section 34(1): amended, on 5 November 1971, by section 8(1) of the Incorporated Societies Amendment Act 1971 (1971 No 43).
     
-    Subsection (4) was inserted, as from 5 November 1971, by section 8(2) Incorporated Societies Amendment Act 1971\.
+    Section 34(4): inserted, on 5 November 1971, by section 8(2) of the Incorporated Societies Amendment Act 1971 (1971 No 43).
 
 ##### 34A Powers of inspection of Registrar
     
-*   (1) Subject to subsection [(3)][39] of this section, the Registrar or any person authorised by him may, for the purpose of ascertaining whether a society or any officer of a society is complying or has complied with this Act, or of ascertaining whether the Registrar should exercise any of his rights or powers under this Act, or of detecting offences against this Act---
+*   (1) Subject to subsection (3) of this section, the Registrar or any person authorised by him may, for the purpose of ascertaining whether a society or any officer of a society is complying or has complied with this Act, or of ascertaining whether the Registrar should exercise any of his rights or powers under this Act, or of detecting offences against this Act---
         
-    *   (a) Require a society or any officer of a society to produce for inspection any registers, records, accounts, books, or papers that are kept by the society; and
+    *   (a) require a society or any officer of a society to produce for inspection any registers, records, accounts, books, or papers that are kept by the society; and
     
-    *   (b) In any case where the Registrar or the person authorised by him considers that the aforesaid purpose cannot be achieved by inspecting only the documents specified in paragraph [(a)][39] of this subsection, or where such documents are not produced for inspection, require any person (including any officer employed in or in connection with any Government Department) to produce for inspection any registers, records, accounts, books, or papers that contain information relating to any money or other property that is or has been managed, supervised, controlled, or held in trust by or for the society; and
+    *   (b) in any case where the Registrar or the person authorised by him considers that the aforesaid purpose cannot be achieved by inspecting only the documents specified in paragraph (a) of this subsection, or where such documents are not produced for inspection, require any person (including any officer employed in or in connection with any Government Department) to produce for inspection any registers, records, accounts, books, or papers that contain information relating to any money or other property that is or has been managed, supervised, controlled, or held in trust by or for the society; and
     
-    *   (c) Inspect and make records of any such registers, records, accounts, books, or papers; and
+    *   (c) inspect and make records of any such registers, records, accounts, books, or papers; and
     
-    *   (d) For the purposes of making records thereof, take possession of and remove from the premises where they are kept, for such period of time as is reasonable in the circumstances, any such registers, records, accounts, books, or papers.
+    *   (d) for the purposes of making records thereof, take possession of and remove from the premises where they are kept, for such period of time as is reasonable in the circumstances, any such registers, records, accounts, books, or papers.
     
     (1A) To avoid doubt, in subsection (1) **registers, records, accounts, books, or papers** includes any of those things in an electronic form.
     
-    (2) Nothing in subsection [(1)][39] of this section limits or affects the [Tax Administration Act 1994][77] or the [Statistics Act 1975][78].
+    (2) Nothing in subsection (1) of this section limits or affects the [Tax Administration Act 1994][70] or the [Statistics Act 1975][71].
     
     (3) \[Repealed\]
     
-    (4) A person who has made an inspection under subsection [(1)][39] of this section shall give, divulge, or communicate any records or information that he has acquired in the course of the inspection to such of the following persons as may require such records or information, namely:
+    (4) A person who has made an inspection under subsection (1) of this section shall give, divulge, or communicate any records or information that he has acquired in the course of the inspection to such of the following persons as may require such records or information, namely:
         
-    *   (a) The Registrar:
+    *   (a) the Registrar:
     
-    *   (b) An Assistant Registrar.
+    *   (b) an Assistant Registrar.
     
-    (5) A person who has made an inspection under subsection [(1)][39] of this section shall, upon being directed to do so by a person for the time being holding the office of Registrar, give, divulge, or communicate any records or information that he has acquired in the course of the inspection to such of the following persons as that Registrar specifies, namely:
+    (5) A person who has made an inspection under subsection (1) of this section shall, upon being directed to do so by a person for the time being holding the office of Registrar, give, divulge, or communicate any records or information that he has acquired in the course of the inspection to such of the following persons as that Registrar specifies, namely:
         
-    *   (a) The Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act:
+    *   (a) the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act:
     
-    *   (b) The chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act:
+    *   (b) the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act:
     
-    *   (c) Any person authorised by that Registrar to receive such records or information.
+    *   (c) any person authorised by that Registrar to receive such records or information.
     
     (6) \[Repealed\]
     
-    (7) The Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act or the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act may, by written notice to that person, require a person for the time being holding the office of Registrar or Deputy Registrar to give a direction under subsection [(5)][39] of this section; and that person shall comply with any such requirement.
+    (7) The Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act or the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act may, by written notice to that person, require a person for the time being holding the office of Registrar or Deputy Registrar to give a direction under subsection (5) of this section; and that person shall comply with any such requirement.
     
     (8) \[Repealed\]
     
-    (9) If any society refuses or fails to produce for inspection to the Registrar, or to any person authorised by the Registrar for the purposes of subsection [(1)][39] of this section, any document that the Registrar or authorised person has under that subsection required it to produce, the society commits an offence and shall be liable to a fine not exceeding $1,000\.
+    (9) If any society refuses or fails to produce for inspection to the Registrar, or to any person authorised by the Registrar for the purposes of subsection (1) of this section, any document that the Registrar or authorised person has under that subsection required it to produce, the society commits an offence and shall be liable to a fine not exceeding $1,000\.
     
-    (10) If any officer of a society or other person refuse or fails to produce for inspection to the Registrar, or to any person authorised by the Registrar for the purposes of subsection [(1)][39] of this section, any document within the power or control of that officer or person that the Registrar or authorised person has under that subsection required him to produce, that officer or person commits an offence and shall be liable to a fine not exceeding $1,000\.
+    (10) If any officer of a society or other person refuse or fails to produce for inspection to the Registrar, or to any person authorised by the Registrar for the purposes of subsection (1) of this section, any document within the power or control of that officer or person that the Registrar or authorised person has under that subsection required him to produce, that officer or person commits an offence and shall be liable to a fine not exceeding $1,000\.
     
-    (11) Any person who wilfully obstructs or hinders the Registrar, or any person authorised by the Registrar for the purposes of subsection [(1)][39] of this section, while the Registrar or authorised person is making an inspection, or a record, or taking possession of, or removing any documents pursuant to that subsection, commits an offence and shall be liable to a fine not exceeding $1,000\.
+    (11) Any person who wilfully obstructs or hinders the Registrar, or any person authorised by the Registrar for the purposes of subsection (1) of this section, while the Registrar or authorised person is making an inspection, or a record, or taking possession of, or removing any documents pursuant to that subsection, commits an offence and shall be liable to a fine not exceeding $1,000\.
     
     (12) Nothing in this section limits or affects legal professional privilege.
     
-    Sections 34A and 34B were inserted, as from 14 October 1981, by section 5 Incorporated Societies Amendment Act 1981 (1981 No 41).
+    Section 34A: replaced, on 6 December 1983, by section 2 of the Incorporated Societies Amendment Act 1983 (1983 No 54).
     
-    Section 34A was substituted, as from 6 December 1983, by section 2 Incorporated Societies Amendment Act 1983 (1983 No 54).
+    Section 34(1A): inserted, on 7 July 2010, by [section 6][72] of the Incorporated Societies Amendment Act 2010 (2010 No 68).
     
-    Section 34(1A): inserted, on 7 July 2010, by [section 6][79] of the Incorporated Societies Amendment Act 2010 (2010 No 68).
+    Section 34A(2): amended, on 1 April 1995, by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
-    Subsection (2) was amended, as from 1 April 1995, by section YB 1 Income Tax Act 1994 (1994 No 164) by substituting the words ""Tax Administration Act 1994"" for the words ""Inland Revenue Department Act 1974"".
+    Section 34A(3): repealed, on 1 April 1987, by [section 25(1)][73] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Subsection (3) was repealed, as from 1 April 1987, by section [25(1)][80] Official Information Amendment Act 1987 (1987 No 8).
+    Section 34A(5)(a): replaced, on 1 October 1995, by [section 10(3)][74] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Subsection (5)(a) and (b) were substituted, as from 1 October 1995, by section [10(3)][81] Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 34A(5)(b): replaced, on 1 October 1995, by [section 10(3)][74] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Subsection (6) was repealed, as from 1 April 1987, by section [25(1)][80] Official Information Amendment Act 1987 (1987 No 8).
+    Section 34A(6): repealed, on 1 April 1987, by [section 25(1)][73] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Subsection (7) was substituted, as from 1 October 1995, by section [10(3)][81] Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 34A(7): replaced, on 1 October 1995, by [section 10(3)][74] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Subsection (8) was repealed, as from 1 April 1987, by section [25(1)][80] Official Information Amendment Act 1987 (1987 No 8).
+    Section 34A(8): repealed, on 1 April 1987, by [section 25(1)][73] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 34B Appeals from decisions of Registrar
     
@@ -721,38 +721,40 @@ An Act to make provision for the incorporation of societies which are not establ
     
     (3) No right of appeal shall lie under this section against any act or decision of the Registrar---
         
-    *   (a) In respect of which there is any express provision in this Act in the nature of an appeal or review; or
+    *   (a) in respect of which there is any express provision in this Act in the nature of an appeal or review; or
     
-    *   (b) That is declared by this Act to be conclusive or final, or that is embodied in any document declared by this Act to be conclusive evidence of any act, decision, matter, or thing.
+    *   (b) that is declared by this Act to be conclusive or final, or that is embodied in any document declared by this Act to be conclusive evidence of any act, decision, matter, or thing.
     
     (4) Notwithstanding any other provision of any Act or any rule of law, where a person appeals or applies to the High Court in respect of an act or decision of the Registrar under [section 34A][39] of this Act, until a decision on the appeal or application is given, the Registrar, and any person authorised by him under that section for the purpose, may continue to exercise his powers under that section as if no such appeal or application had been made, and no person shall be excused from fulfilling his obligations under that section by reason of that appeal or application:
     
     Provided that, to the extent that an appeal or application in respect of any such act or decision is allowed or granted, as the case may be,---
         
-    *   (a) The Registrar shall ensure that, forthwith after the decision on the appeal or application is given, all records made by him, or by a person authorised by him for that purpose, under section [34A(1)(c)][39] of this Act in respect of that act or decision are destroyed or expunged; and
+    *   (a) the Registrar shall ensure that, forthwith after the decision on the appeal or application is given, all records made by him, or by a person authorised by him for that purpose, under [section 34A(1)(c)][39] of this Act in respect of that act or decision are destroyed or expunged; and
     
-    *   (b) No information acquired under paragraph [(a)][39] or paragraph [(b)][39] of section 34A(1) of this Act in respect of that act or decision shall be admissible in evidence in any proceedings.
+    *   (b) no information acquired under paragraph (a) or paragraph (b) of section 34A(1) of this Act in respect of that act or decision shall be admissible in evidence in any proceedings.
     
-    Sections 34A and 34B were inserted, as from 14 October 1981, by section 5 Incorporated Societies Amendment Act 1981 (1981 No 41).
+    Section 34B: inserted, on 14 October 1981, by section 5 of the Incorporated Societies Amendment Act 1981 (1981 No 41).
 
 ##### 35 Exemption from stamp duty
     
 *   \[Repealed\]
     
-    Section 35 was repealed, as from 1 January 1972, by section [101(1)][82] Stamp and Cheque Duties Act 1971 (1971 No 51).
+    Section 35: repealed, on 1 January 1972, by [section 101(1)][75] of the Stamp and Cheque Duties Act 1971 (1971 No 51).
 
 ##### 36 Regulations
     
-*   The Governor-General may, by Order in Council gazetted, make such regulations as he deems necessary for carrying into full effect the provisions of this Act.
+*   The Governor-General may, by Order in Council, make such regulations as he deems necessary for carrying into full effect the provisions of this Act.
+    
+    Section 36: amended, on 5 August 2013, by [section 77(3)][45] of the Legislation Act 2012 (2012 No 119).
 
 ---
 
 ## Schedule 1  
 Application for incorporation
 
-s [7(1)(a)][8]
+[s 7(1)(a)][8]
 
-*   The heading to Schedule 1 was amended, as from 15 December 2005, by [section 7][83] Incorporated Societies Amendment Act 2005 (2005 No 106) by substituting the expression ""s 7(1)(a)"" for the expression ""Section 7(a)"".
+*   Schedule 1 heading: amended, on 15 December 2005, by [section 7][76] of the Incorporated Societies Amendment Act 2005 (2005 No 106).
 
 We, the several persons whose names are subscribed hereto, being members of the above-mentioned society, hereby make application for the incorporation of the society under the foregoing rules, in accordance with the Incorporated Societies Act 1908\.
 
@@ -761,46 +763,41 @@ Dated this day of ..., 19 .
 ---
 
 ## Schedule 2  
-Table of fees payable to the Registrar.
+Table of fees payable to the Registrar
 
-Section [7(1)(b)][8]
+[s 7(1)(b)][8]
 
 \[Repealed\]
     
-*   Schedule 2 was substituted, as from 17 October 1922, by [section 5][84] Incorporated Societies Amendment Act 1922 (1922 No 27).
-*   Schedule 2 was repealed, as from 1 April 1954, by section [2(2)(a)][46] Incorporated Societies Amendment Act 1953 (1953 No 80).
+*   Schedule 2: repealed, on 1 April 1954, by [section 2(2)(a)][69] of the Incorporated Societies Amendment Act 1953 (1953 No 80).
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2About this eprint
-*   3List of amendments incorporated in this eprint (most recent first) 
-
----
-
-##### Notes
+##### Eprint notes
 
 ###### 1 General
     
-*   This is an eprint of the Incorporated Societies Act 1908\. The eprint incorporates all the amendments to the Act as at 7 July 2010\. The list of amendments at the end of these notes specifies all the amendments incorporated into this eprint since 3 September 2007\.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the eprint are also included, after the principal enactment, in chronological order.
+*   This is an eprint of the Incorporated Societies Act 1908 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
 ###### 2 About this eprint
     
-*   This eprint has not been officialised. For more information about eprints and officialisation, please _see_ [http://www.pco.parliament.govt.nz/eprints/][85] ![](/images/external_link.gif).
+*   This eprint is not an official version of the legislation under [section 18][77] of the Legislation Act 2012\.
 
-###### 3 List of amendments incorporated in this eprint (most recent first)
+###### 3 Amendments incorporated in this eprint
     
-*   [Incorporated Societies Amendment Act 2010][86] (2010 No 68)
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][45]
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][49]
+    
+    [Incorporated Societies Amendment Act 2010][78] (2010 No 68)
     
     Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31): [section 164][50]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1908/0212/latest/whole.html#DLM175777
 [2]: http://www.legislation.govt.nz/act/public/1908/0212/latest/whole.html#DLM175779
 [3]: http://www.legislation.govt.nz/act/public/1908/0212/latest/whole.html#DLM175780
@@ -845,45 +842,37 @@ Section [7(1)(b)][8]
 [42]: http://www.legislation.govt.nz/act/public/1908/0212/latest/whole.html#DLM176185
 [43]: http://www.legislation.govt.nz/act/public/1908/0212/latest/whole.html#DLM176186
 [44]: http://www.legislation.govt.nz/act/public/1908/0212/latest/whole.html#DLM176189
-[45]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM328986
-[46]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM282032
+[45]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM2998633
+[46]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM328986
 [47]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM361789
 [48]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM361791
-[49]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM35049
+[49]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM3360714
 [50]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM2286150
 [51]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM361793
 [52]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM361794
 [53]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM324887
-[54]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM323597
-[55]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM344376
-[56]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM344367
-[57]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM325176
-[58]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM345521
-[59]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM321666
-[60]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM319569
-[61]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM327454
-[62]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM327457
-[63]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM321678
-[64]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM327455
-[65]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM322825
-[66]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM269031
-[67]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM195720
-[68]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM327456
-[69]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM3042505
-[70]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM192030
-[71]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM192021
-[72]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM192027
-[73]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM195718
-[74]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM195712
-[75]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM3042509
-[76]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM163167
-[77]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM348342
-[78]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM430704
-[79]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM3042510
-[80]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM101353
-[81]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM367235
-[82]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM401040
-[83]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM361796
-[84]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM195721
-[85]: http://www.pco.parliament.govt.nz/eprints/
-[86]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM3042500
+[54]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM344376
+[55]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM345521
+[56]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM321666
+[57]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM327454
+[58]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM321678
+[59]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM327455
+[60]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM322825
+[61]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM269031
+[62]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM327456
+[63]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM195720
+[64]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM3042505
+[65]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM192030
+[66]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM192027
+[67]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM195718
+[68]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM3042509
+[69]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM282032
+[70]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM348342
+[71]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM430704
+[72]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM3042510
+[73]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM101353
+[74]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM367235
+[75]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM401040
+[76]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM361796
+[77]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM2998516
+[78]: http://www.legislation.govt.nz/act/public/1908/0212/latest/link.aspx?id=DLM3042500
