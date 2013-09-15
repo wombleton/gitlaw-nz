@@ -1,78 +1,91 @@
-# Nelson Waterworks Act 1863Provincial Act
+Reprint  
+as at 1 July 2013
+
+# Nelson Waterworks Act 1863Provincial Act1
 
 Date of assent7 August 1863
 
-*   References to the ""Parliament of New Zealand"" were substituted for references to the ""General Assembly of New Zealand"" by section [29(2)][0] Constitution Act 1986\.
-*   References in this Act to decimal currency were substituted for references to the former currency by section [7][1] Decimal Currency Act 1964 (1964 No 27).
-*   References to a District Court Judge were substituted for references to a Magistrate pursuant to section [18(2)][2] District Courts Amendment Act 1979\.
+*   References to the ""Parliament of New Zealand"" were substituted for references to the ""General Assembly of New Zealand"" by [section 29(2)][0] Constitution Act 1986\.
+*   References in this Act to decimal currency were substituted for references to the former currency by [section 7][1] Decimal Currency Act 1964 (1964 No 27).
+*   References to a District Court Judge were substituted for references to a Magistrate pursuant to [section 18(2)][2] District Courts Amendment Act 1979\.
+
+---
+
+###### Note
+
+Changes authorised by [section 17C][3] of the Acts and Regulations Publication Act 1989 have been made in this eprint.
+
+A general outline of these changes is set out in the notes at the end of this eprint, together with other explanatory material about this eprint.
+
+---
 
 ## Contents
 
-[Title][3]
+[Title][4]
     
-*   [Preamble][4]
+*   [Preamble][5]
 
-[1][5] [Short Title][5]
+[1][6][][6][Short Title][6]
 
-[2][6] [Interpretation][6]
+[2][7][][7][Interpretation][7]
 
-[3][7] [Waterworks may be constructed][7]
+[3][8][][8][Waterworks may be constructed][8]
 
-[4][8] [Power to take lands, etc][8]
+[4][9][][9][Power to take lands, etc][9]
 
-[5][9] [Other watering places to be provided][9]
+[5][10][][10][Other watering places to be provided][10]
 
-[6][10] [Compensation to be made for lands taken, etc][10]
+[6][11][][11][Compensation to be made for lands taken, etc][11]
 
-[7][11] [Amount of compensation, how ascertained][11]
+[7][12][][12][Amount of compensation, how ascertained][12]
 
-[8][12] [Limit of time for making claims][12]
+[8][13][][13][Limit of time for making claims][13]
 
-[9][13] [Service pipes to be laid on at expense of occupier][13]
+[9][14][][14][Service pipes to be laid on at expense of occupier][14]
 
-[10][14] [Power to break up streets and open drains, etc][14]
+[10][15][][15][Power to break up streets and open drains, etc][15]
 
-[11][15] [Streets, etc, broken up to be reinstated][15]
+[11][16][][16][Streets, etc, broken up to be reinstated][16]
 
-[12][16] [Penalty for obstructing construction of works][16]
+[12][17][][17][Penalty for obstructing construction of works][17]
 
-[13][17] [Penalty for diverting water, etc][17]
+[13][18][][18][Penalty for diverting water, etc][18]
 
-[14][18] [Assessment to be made][18]
+[14][19][][19][Assessment to be made][19]
 
-[15][19] [Notice of assessment to be given][19]
+[15][20][][20][Notice of assessment to be given][20]
 
-[16][20] [Parties aggrieved may appeal][20]
+[16][21][][21][Parties aggrieved may appeal][21]
 
-[17][21] [][21] \[Repealed\]
+[17][22][][22] \[Repealed\]
 
-[18][22] [Certain buildings to pay extra rate][22]
+[18][23][][23][Certain buildings to pay extra rate][23]
 
-[19][23] [Breweries, etc, to pay extra rate][23]
+[19][24][][24][Breweries, etc, to pay extra rate][24]
 
-[20][24] [Water not to be used for working machinery without consent of Superintendent][24]
+[20][25][][25][Water not to be used for working machinery without consent of Superintendent][25]
 
-[21][25] [Superintendent may supply water for other purposes][25]
+[21][26][][26][Superintendent may supply water for other purposes][26]
 
-[22][26] [Exemptions from rates][26]
+[22][27][][27][Exemptions from rates][27]
 
-[23][27] [][27] \[Repealed\]
+[23][28][][28] \[Repealed\]
 
-[24][28] [][28] \[Repealed\]
+[24][29][][29] \[Repealed\]
 
-[25][29] [If rates not paid water may be stopped][29]
+[25][30][][30][If rates not paid water may be stopped][30]
 
-[26][30] [Penalty for permitting water to be taken from premises][30]
+[26][31][][31][Penalty for permitting water to be taken from premises][31]
 
-[27][31] [Penalty for wasting water][31]
+[27][32][][32][Penalty for wasting water][32]
 
-[28][32] [Penalty for fouling water][32]
+[28][33][][33][Penalty for fouling water][33]
 
-[29][33] [Penalties, how recovered][33]
+[29][34][][34][Penalties, how recovered][34]
 
-[30][34] [Limitation of penalty][34]
+[30][35][][35][Limitation of penalty][35]
 
-[31][35] [Money to be paid to Provincial Treasurer, and appropriated by Superintendent for purposes of Act][35]
+[31][36][][36][Money to be paid to Provincial Treasurer, and appropriated by Superintendent for purposes of Act][36]
 
 ---
 
@@ -122,9 +135,9 @@ An Act to make provision for the making and maintaining waterworks for supplying
     
     He may without previous payment, tender or deposit, enter upon, and use any land within the said City, or District of Brook Street Valley, for the purpose of taking any earth, stone, or clay therefrom, and he may enter upon and use any lands adjacent for making temporary roads or approaches to the works:
     
-    Provided always that before he shall make such temporary use of any such lands, he shall give 10 days' notice of such his intention to the occupiers of such lands except in the case of accident to the works requiring immediate reparation:
+    provided always that before he shall make such temporary use of any such lands, he shall give 10 days' notice of such his intention to the occupiers of such lands except in the case of accident to the works requiring immediate reparation:
     
-    Provided also that the Superintendent shall until any land taken by him for temporary use be given up to the owner pay to the owner or occupier half yearly reasonable compensation for the use of such lands, and for any damage or injury done to the crop or to the surface of the land or otherwise, and such compensation shall, if the parties cannot agree, be settled by arbitration, in manner hereinafter provided.
+    provided also that the Superintendent shall until any land taken by him for temporary use be given up to the owner pay to the owner or occupier half yearly reasonable compensation for the use of such lands, and for any damage or injury done to the crop or to the surface of the land or otherwise, and such compensation shall, if the parties cannot agree, be settled by arbitration, in manner hereinafter provided.
 
 ##### 5 Other watering places to be provided
     
@@ -174,11 +187,11 @@ An Act to make provision for the making and maintaining waterworks for supplying
     
 *   If any person shall think himself aggrieved by such assessment on the ground that it includes any property for which he is not rateable under this Act, or that it assess his rateable property beyond its full and fair annual value, or that the name or property of any person is omitted out of such assessment, or that the property of any person is assessed below its full and fair annual value, the person so considering himself aggrieved may at any time within 28 days after public notice of such assessment shall have been given as aforesaid, notify in writing to the Superintendent the grounds of his objection to the assessment and his intention to appeal to a bench of District Court Judges; and shall also send a similar notice to the Clerk to the District Court Judges at Nelson, who shall thereupon by advertisement in some newspaper published in the Province, summon a meeting of the District Court Judges to hear such appeals, which meeting shall be held within 14 days after the expiration of the aforesaid 28 days, and in case it shall appear that the appellant is entitled to relief on account of being erroneously or too highly assessed, or that the name or property of any person has been improperly omitted out of the assessment, or that the property of any person is assessed below its full and fair annual value, the said Court of Appeal shall alter or amend the assessment in such manner as it shall deem necessary, but the assessment shall not be altered with respect to any other person named therein, and the said Court of Appeal shall have power to order the costs of such appeal to be paid by either party, and the determination of the said Court of Appeal shall be final and conclusive.
 
-##### 17
+##### 17 
     
 *   \[Repealed\]
     
-    Section 17 was repealed by section [3][36] Provincial Ordinances Act 1892\.
+    Section 17 was repealed by [section 3][37] Provincial Ordinances Act 1892\.
 
 ##### 18 Certain buildings to pay extra rate
     
@@ -190,7 +203,7 @@ An Act to make provision for the making and maintaining waterworks for supplying
 
 ##### 20 Water not to be used for working machinery without consent of Superintendent
     
-*   No water to be supplied under the powers of this Act shall be used as a water power for the purpose of working any machinery without authority in writing from the Superintendent for that purpose: AND it shall be lawful for the Superintendent to charge such sum of money by way of rate for the use of water for such purposes as he shall think fit: AND any person who shall use any water so to be supplied as aforesaid for any such purpose without such authority first had and obtained, shall forfeit and pay for every day the water shall be so used, any sum not exceeding $40, and it shall be lawful for the Superintendent to stop the supply of water to such person.
+*   No water to be supplied under the powers of this Act shall be used as a water power for the purpose of working any machinery without authority in writing from the Superintendent for that purpose: And it shall be lawful for the Superintendent to charge such sum of money by way of rate for the use of water for such purposes as he shall think fit: And any person who shall use any water so to be supplied as aforesaid for any such purpose without such authority first had and obtained, shall forfeit and pay for every day the water shall be so used, any sum not exceeding $40, and it shall be lawful for the Superintendent to stop the supply of water to such person.
 
 ##### 21 Superintendent may supply water for other purposes
     
@@ -200,17 +213,17 @@ An Act to make provision for the making and maintaining waterworks for supplying
     
 *   No rates shall be paid in respect of any buildings belonging to the Crown, or reserved or set apart for public purposes, or vested in trust for any public object, nor any buildings used as public schools, libraries, or museums.
 
-##### 23
+##### 23 
     
 *   \[Repealed\]
     
-    Section 23 was repealed by section [3][36] Provincial Ordinances Act 1892\.
+    Section 23 was repealed by [section 3][37] Provincial Ordinances Act 1892\.
 
-##### 24
+##### 24 
     
 *   \[Repealed\]
     
-    Section 24 was repealed by section [3][36] Provincial Ordinances Act 1892\.
+    Section 24 was repealed by [section 3][37] Provincial Ordinances Act 1892\.
 
 ##### 25 If rates not paid water may be stopped
     
@@ -230,7 +243,9 @@ An Act to make provision for the making and maintaining waterworks for supplying
 
 ##### 29 Penalties, how recovered
     
-*   All penalties incurred under the authority of this Act may be recovered in a summary manner before any Justice or Justices of the Peace.
+*   All penalties incurred under the authority of this Act may be recovered on conviction in accordance with [Part 3][38] of the Summary Proceedings Act 1957\.
+    
+    Section 29: amended, on 1 July 2013, by [section 413][39] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 30 Limitation of penalty
     
@@ -240,42 +255,72 @@ An Act to make provision for the making and maintaining waterworks for supplying
     
 *   All money collected under the authority of this Act shall be paid to the Provincial Treasurer, and shall be appropriated by the Superintendent, by warrant under his hand, in carrying out the provisions of this Act, and in repayment of any money borrowed for the purposes hereof and the interest thereon.
 
+---
+
+#### Contents
+    
+*   1General
+*   2About this eprint
+*   3List of amendments incorporated in this eprint (most recent first) 
+
+---
+
+##### Notes
+
+###### 1 General
+    
+*   This is an eprint of the Nelson Waterworks Act 1863\. The eprint incorporates all the amendments to the Act as at 1 July 2013\. The list of amendments at the end of these notes specifies all the amendments incorporated into this eprint since 3 September 2007\.
+    
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the eprint are also included, after the principal enactment, in chronological order.
+
+###### 2 About this eprint
+    
+*   This eprint has not been officialised. For more information about eprints and officialisation, please _see_ [http://www.pco.parliament.govt.nz/eprints/][40] ![](/images/external_link.gif).
+
+###### 3 List of amendments incorporated in this eprint (most recent first)
+    
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][39]
+
 
 
 [0]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/link.aspx?id=DLM94263
 [1]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/link.aspx?id=DLM351265
 [2]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/link.aspx?id=DLM35085
-[3]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124363
-[4]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124364
-[5]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124367
-[6]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124368
-[7]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124383
-[8]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124384
-[9]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124385
-[10]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124386
-[11]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124387
-[12]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124388
-[13]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124389
-[14]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124390
-[15]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124391
-[16]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124392
-[17]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124393
-[18]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124394
-[19]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124395
-[20]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124396
-[21]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124397
-[22]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124399
-[23]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124700
-[24]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124701
-[25]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124702
-[26]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124703
-[27]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124704
-[28]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124706
-[29]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124708
-[30]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124709
-[31]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124710
-[32]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124711
-[33]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124712
-[34]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124713
-[35]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124714
-[36]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/link.aspx?id=DLM133472
+[3]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/link.aspx?id=DLM195466
+[4]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124363
+[5]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124364
+[6]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124367
+[7]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124368
+[8]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124383
+[9]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124384
+[10]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124385
+[11]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124386
+[12]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124387
+[13]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124388
+[14]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124389
+[15]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124390
+[16]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124391
+[17]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124392
+[18]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124393
+[19]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124394
+[20]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124395
+[21]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124396
+[22]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124397
+[23]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124399
+[24]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124700
+[25]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124701
+[26]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124702
+[27]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124703
+[28]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124704
+[29]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124706
+[30]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124708
+[31]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124709
+[32]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124710
+[33]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124711
+[34]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124712
+[35]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124713
+[36]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/whole.html#DLM124714
+[37]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/link.aspx?id=DLM133472
+[38]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/link.aspx?id=DLM311863
+[39]: http://www.legislation.govt.nz/act/provincial/1863/0001/latest/link.aspx?id=DLM3360714
+[40]: http://www.pco.parliament.govt.nz/eprints/
