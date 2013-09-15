@@ -1,5 +1,5 @@
 Reprint  
-as at 1 May 2011
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -21,43 +21,43 @@ A general outline of these changes is set out in the notes at the end of this re
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
-[3][3] [Interpretation][3]
+[3][3][][3][Interpretation][3]
 
-[4][4] [Levying and collection of tolls][4]
+[4][4][][4][Levying and collection of tolls][4]
 
-[5][5] [Application of tolls payable under this Act][5]
+[5][5][][5][Application of tolls payable under this Act][5]
 
-[6][6] [Annual estimates concerning tolls][6]
+[6][6][][6][Annual estimates concerning tolls][6]
 
-[7][7] [Annual report about tolls][7]
+[7][7][][7][Annual report about tolls][7]
 
-[8][8] [Rates of tolls][8]
+[8][8][][8][Rates of tolls][8]
 
-[9][9] [Publication of rates of tolls][9]
+[9][9][][9][Publication of rates of tolls][9]
 
-[10][10] [Display of rates of tolls][10]
+[10][10][][10][Display of rates of tolls][10]
 
-[11][11] [Facilities for collection of tolls][11]
+[11][11][][11][Facilities for collection of tolls][11]
 
-[12][12] [Liability for payment of tolls][12]
+[12][12][][12][Liability for payment of tolls][12]
 
-[13][13] [Payment of toll][13]
+[13][13][][13][Payment of toll][13]
 
-[14][14] [Powers in respect of non-payment][14]
+[14][14][][14][Powers in respect of non-payment][14]
 
-[15][15] [Exemption from payment of tolls][15]
+[15][15][][15][Exemption from payment of tolls][15]
 
-[16][16] [Bylaws][16]
+[16][16][][16][Bylaws][16]
 
-[17][17] [Special consultative procedure and bylaws][17]
+[17][17][][17][Special consultative procedure and bylaws][17]
 
-[18][18] [Power of Council to enter into contracts for payment of tolls][18]
+[18][18][][18][Power of Council to enter into contracts for payment of tolls][18]
 
-[19][19] [Offences][19]
+[19][19][][19][Offences][19]
 
 [Schedule 1][20]  
 [PJK Junction][20]
@@ -359,7 +359,7 @@ A general outline of these changes is set out in the notes at the end of this re
 
 ##### 19 Offences
     
-*   A person commits an offence and is liable on summary conviction to a fine not exceeding $500 who---
+*   A person commits an offence and is liable on conviction to a fine not exceeding $500 who---
         
     *   (a) evades the payment of any toll payable by that person; or
     
@@ -367,7 +367,7 @@ A general outline of these changes is set out in the notes at the end of this re
     
     *   (c) falsely claims exemption from any toll.
     
-    
+    Section 19: amended, on 1 July 2013, by [section 413][33] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ---
 
@@ -437,23 +437,23 @@ Lot 1 DP 15388Allotment 525, Te Papa Parish, City of Tauranga 186 708 m2
 
 ###### 1 General
     
-*   This is a reprint of the Tauranga District Council (Route K Toll) Empowering Act 2000\. The reprint incorporates all the amendments to the Act as at 1 May 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Tauranga District Council (Route K Toll) Empowering Act 2000\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][33] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][34] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][34] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][35] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][35] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][36] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][36] and [17E][37] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][37] and [17E][38] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -484,7 +484,9 @@ Lot 1 DP 15388Allotment 525, Te Papa Parish, City of Tauranga 186 708 m2
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][27]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][33]
+    
+    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][27]
     
     Public Transport Management Act 2008 (2008 No 87): [section 63(1)][30]
     
@@ -525,8 +527,9 @@ Lot 1 DP 15388Allotment 525, Te Papa Parish, City of Tauranga 186 708 m2
 [30]: http://www.legislation.govt.nz/act/local/2000/0001/latest/link.aspx?id=DLM1180107
 [31]: http://www.legislation.govt.nz/act/local/2000/0001/latest/link.aspx?id=DLM423695
 [32]: http://www.legislation.govt.nz/act/local/2000/0001/latest/link.aspx?id=DLM425277
-[33]: http://www.pco.parliament.govt.nz/reprints/
-[34]: http://www.legislation.govt.nz/act/local/2000/0001/latest/link.aspx?id=DLM195439
-[35]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[36]: http://www.legislation.govt.nz/act/local/2000/0001/latest/link.aspx?id=DLM195468
-[37]: http://www.legislation.govt.nz/act/local/2000/0001/latest/link.aspx?id=DLM195470
+[33]: http://www.legislation.govt.nz/act/local/2000/0001/latest/link.aspx?id=DLM3360714
+[34]: http://www.pco.parliament.govt.nz/reprints/
+[35]: http://www.legislation.govt.nz/act/local/2000/0001/latest/link.aspx?id=DLM195439
+[36]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[37]: http://www.legislation.govt.nz/act/local/2000/0001/latest/link.aspx?id=DLM195468
+[38]: http://www.legislation.govt.nz/act/local/2000/0001/latest/link.aspx?id=DLM195470
