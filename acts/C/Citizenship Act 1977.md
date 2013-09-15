@@ -1,5 +1,5 @@
 Reprint  
-as at 19 December 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -887,7 +887,7 @@ Miscellaneous provisions
 
 ##### 27 Offences and penalties
     
-*   (1) Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 5 years or a fine not exceeding $15,000, or both, who---
+*   (1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 5 years or a fine not exceeding $15,000, or both, who---
         
     *   (a) for the purpose of procuring anything to be done or not to be done under this Act,---
             
@@ -911,7 +911,7 @@ Miscellaneous provisions
     
     *   (e) knowingly resists, obstructs, or deceives any person who is exercising or attempting to exercise any function or power imposed or conferred under this Act.
     
-    (2) Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 10 years or a fine not exceeding $50,000, or both, who, knowingly and without reasonable excuse,---
+    (2) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 10 years or a fine not exceeding $50,000, or both, who, knowingly and without reasonable excuse,---
         
     *   (a) records, deletes, or alters any entry in a citizenship register or database; or
     
@@ -920,6 +920,10 @@ Miscellaneous provisions
     *   (c) issues a citizenship document to a person who has no lawful entitlement to the document.
     
     Section 27: substituted, on 21 April 2005, by [section 14][111] of the Citizenship Amendment Act 2005 (2005 No 43).
+    
+    Section 27(1): amended, on 1 July 2013, by [section 413][112] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 27(2): amended, on 1 July 2013, by [section 413][112] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 28 Regulations
     
@@ -993,21 +997,21 @@ Miscellaneous provisions
     
     (2) Every fee prescribed by or under regulations made under this section shall be reasonable, having regard to the costs and expenses incurred and borne by or on behalf of the Secretary in respect of the matter for which the fee is payable.
     
-    Section 28(1)(f): substituted, on 18 November 1992, by [section 12(1)][112] of the Citizenship Amendment Act 1992 (1992 No 104).
+    Section 28(1)(f): substituted, on 18 November 1992, by [section 12(1)][113] of the Citizenship Amendment Act 1992 (1992 No 104).
     
-    Section 28(1)(g): substituted, on 18 November 1992, by [section 12(1)][112] of the Citizenship Amendment Act 1992 (1992 No 104).
+    Section 28(1)(g): substituted, on 18 November 1992, by [section 12(1)][113] of the Citizenship Amendment Act 1992 (1992 No 104).
     
-    Section 28(1)(h): substituted, on 1 April 1987, by [section 25(1)][113] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 28(1)(h): substituted, on 1 April 1987, by [section 25(1)][114] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 28(1)(i): amended, on 18 November 1992, by [section 12(2)][112] of the Citizenship Amendment Act 1992 (1992 No 104).
+    Section 28(1)(i): amended, on 18 November 1992, by [section 12(2)][113] of the Citizenship Amendment Act 1992 (1992 No 104).
     
-    Section 28(1)(i)(viia): inserted, on 18 November 1992, by [section 12(3)][112] of the Citizenship Amendment Act 1992 (1992 No 104).
+    Section 28(1)(i)(viia): inserted, on 18 November 1992, by [section 12(3)][113] of the Citizenship Amendment Act 1992 (1992 No 104).
     
-    Section 28(1)(i)(viib): inserted, on 18 November 1992, by [section 12(3)][112] of the Citizenship Amendment Act 1992 (1992 No 104).
+    Section 28(1)(i)(viib): inserted, on 18 November 1992, by [section 12(3)][113] of the Citizenship Amendment Act 1992 (1992 No 104).
     
-    Section 28(1)(j): repealed, on 1 September 1995, by [section 96][114] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 28(1)(j): repealed, on 1 September 1995, by [section 96][115] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
     
-    Section 28(2): added, on 18 November 1992, by [section 12(4)][112] of the Citizenship Amendment Act 1992 (1992 No 104).
+    Section 28(2): added, on 18 November 1992, by [section 12(4)][113] of the Citizenship Amendment Act 1992 (1992 No 104).
 
 ##### 29 Application of Act to Cook Islands, Niue, and Tokelau
     
@@ -1017,7 +1021,7 @@ Miscellaneous provisions
     
     The provisions of this Act shall extend to the Cook Islands as part of the law of the Cook Islands.
     
-    (2) _Amendment(s) incorporated in the _[_Act(s)_][115].
+    (2) _Amendment(s) incorporated in the _[_Act(s)_][116].
     
     (3) The provisions of this Act shall be in force in Tokelau.
 
@@ -1080,11 +1084,11 @@ Enactments consequentially amended
 
 ##### Adoption Act 1955 (1955 No 93)
 
-_Amendment(s) incorporated in the [Act(s)][116]._
+_Amendment(s) incorporated in the [Act(s)][117]._
 
 ##### Age of Majority Act 1970 (1970 No 137)
 
-_Amendment(s) incorporated in the [Act(s)][117]._
+_Amendment(s) incorporated in the [Act(s)][118]._
 
 ##### Consular Privileges and Immunities Act 1971 (1971 No 11)
 
@@ -1092,7 +1096,7 @@ _Amendment(s) incorporated in the [Act(s)][69]._
 
 ##### Diplomatic Privileges and Immunities Act 1968 (1968 No 36) 
 
-_Amendment(s) incorporated in the [Act(s)][118]._
+_Amendment(s) incorporated in the [Act(s)][119]._
 
 ##### Status of Children Act 1969 (1969 No 18)
 
@@ -1100,7 +1104,7 @@ _Amendment(s) incorporated in the [Act(s)][87]._
 
 ##### Western Samoa Act 1961 (1961 No 68)
 
-_Amendment(s) incorporated in the [Act(s)][119]._
+_Amendment(s) incorporated in the [Act(s)][120]._
 
 ---
 
@@ -1109,7 +1113,7 @@ Disclosure of information to specified agencies
 
 [s 26A][38]
 
-*   Schedule 4: added, on 27 September 2001, by [section 4][120] of the Citizenship Amendment Act 2001 (2001 No 58).
+*   Schedule 4: added, on 27 September 2001, by [section 4][121] of the Citizenship Amendment Act 2001 (2001 No 58).
 
 **Specified agency** **Purpose**
 
@@ -1150,10 +1154,10 @@ Ministry of Education
 To verify and update student information on the National Student Index
 
 *   Schedule 4: amended, on 24 January 2009, by [section 47][107] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
-*   Schedule 4: amended, on 21 April 2005, by [section 15][121] of the Citizenship Amendment Act 2005 (2005 No 43).
-*   Schedule 4: amended, on 19 December 2002, by [section 3(1)][122] of the Citizenship Amendment Act 2002 (2002 No 62).
-*   Schedule 4: amended, on 19 December 2002, by [section 3(2)][122] of the Citizenship Amendment Act 2002 (2002 No 62).
-*   Schedule 4: amended, on 1 October 2001, pursuant to [section 13(1)][123] of the State Sector Amendment Act 2003 (2003 No 41).
+*   Schedule 4: amended, on 21 April 2005, by [section 15][122] of the Citizenship Amendment Act 2005 (2005 No 43).
+*   Schedule 4: amended, on 19 December 2002, by [section 3(1)][123] of the Citizenship Amendment Act 2002 (2002 No 62).
+*   Schedule 4: amended, on 19 December 2002, by [section 3(2)][123] of the Citizenship Amendment Act 2002 (2002 No 62).
+*   Schedule 4: amended, on 1 October 2001, pursuant to [section 13(1)][124] of the State Sector Amendment Act 2003 (2003 No 41).
 
 ---
 
@@ -1190,7 +1194,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Citizenship Amendment Act 2005][124].
+*   (1) This Act is the [Citizenship Amendment Act 2005][125].
     
     (2) In this Act, the Citizenship Act 1977 is called ""the principal Act"".
 
@@ -1252,23 +1256,23 @@ Commencementsee section 2
 
 ###### 1 General
     
-*   This is a reprint of the Citizenship Act 1977\. The reprint incorporates all the amendments to the Act as at 19 December 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Citizenship Act 1977\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][125] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][126] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][126] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][127] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][127] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][128] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][128] and [17E][129] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][129] and [17E][130] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1301,31 +1305,33 @@ Commencementsee section 2
     
 *   Identity Information Confirmation Act 2012 (2012 No 124): [section 22][110]
     
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][112]
+    
     Immigration Act 2009 (2009 No 51): [section 406(1)][67]
     
     Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][107]
     
     Overseas Investment Act 2005 (2005 No 82): [section 75][99]
     
-    [Citizenship Amendment Act 2005][124] (2005 No 43)
+    [Citizenship Amendment Act 2005][125] (2005 No 43)
     
     State Sector Amendment Act (No 2) 2004 (2004 No 114): [section 19(1)][52]
     
-    State Sector Amendment Act 2003 (2003 No 41): [section 13(1)][123]
+    State Sector Amendment Act 2003 (2003 No 41): [section 13(1)][124]
     
     New Zealand Trade and Enterprises Act 2003 (2003 No 27): [section 84][77]
     
-    [Citizenship Amendment Act 2002][130] (2002 No 62)
+    [Citizenship Amendment Act 2002][131] (2002 No 62)
     
-    [Citizenship Amendment Act (No 2) 2001][131] (2001 No 95)
+    [Citizenship Amendment Act (No 2) 2001][132] (2001 No 95)
     
-    [Citizenship Amendment Act 2001][132] (2001 No 58)
+    [Citizenship Amendment Act 2001][133] (2001 No 58)
     
     [Citizenship Amendment Act 2000][78] (2000 No 9)
     
     Adoption (Intercountry) Act 1997 (1997 No 109): [section 29][66]
     
-    Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16): [section 96][114]
+    Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16): [section 96][115]
     
     Foreign Affairs Amendment Act 1993 (1993 No 48): [section 2(3)][75]
     
@@ -1333,7 +1339,7 @@ Commencementsee section 2
     
     Judicature Amendment Act 1991 (1991 No 60): [section 3(4)][96]
     
-    Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][113]
+    Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][114]
     
     Citizenship Amendment Act 1985 (1985 No 169)
     
@@ -1457,24 +1463,25 @@ Commencementsee section 2
 [109]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM3136800
 [110]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM3136868
 [111]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM346761
-[112]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM280683
-[113]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM101353
-[114]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM364791
-[115]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM377692
-[116]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM293189
-[117]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM396810
-[118]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM388024
-[119]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM336804
-[120]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM110991
-[121]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM346763
-[122]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM167883
-[123]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM201377
-[124]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM346733
-[125]: http://www.pco.parliament.govt.nz/reprints/
-[126]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM195439
-[127]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[128]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM195468
-[129]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM195470
-[130]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM167877
-[131]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM121266
-[132]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM110979
+[112]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM3360714
+[113]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM280683
+[114]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM101353
+[115]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM364791
+[116]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM377692
+[117]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM293189
+[118]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM396810
+[119]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM388024
+[120]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM336804
+[121]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM110991
+[122]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM346763
+[123]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM167883
+[124]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM201377
+[125]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM346733
+[126]: http://www.pco.parliament.govt.nz/reprints/
+[127]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM195439
+[128]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[129]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM195468
+[130]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM195470
+[131]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM167877
+[132]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM121266
+[133]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM110979
