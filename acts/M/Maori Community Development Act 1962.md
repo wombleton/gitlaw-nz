@@ -1,5 +1,5 @@
 Reprint  
-as at 7 July 2010
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -27,117 +27,117 @@ This Act is administered by Te Puni Kōkiri.
 
 [Title][2]
 
-[1][3] [Short Title and commencement][3]
+[1][3][][3][Short Title and commencement][3]
 
-[2][4] [Interpretation][4]
+[2][4][][4][Interpretation][4]
 
 [Administration][5]
 
-[3][6] [Act to be administered by Minister][6]
+[3][6][][6][Act to be administered by Minister][6]
 
-[4][7] [Community Officers][7]
+[4][7][][7][Community Officers][7]
 
-[5][8] [Honorary Community Officers][8] \[Repealed\]
+[5][8][][8][Honorary Community Officers][8] \[Repealed\]
 
-[6][9] [Functions of Community Officers][9]
+[6][9][][9][Functions of Community Officers][9]
 
-[7][10] [Appointment of Maori Wardens][10]
+[7][10][][10][Appointment of Maori Wardens][10]
 
 [Maori Committees][11]
 
-[8][12] [Maori Committee areas][12]
+[8][12][][12][Maori Committee areas][12]
 
-[9][13] [Maori Committees][13]
+[9][13][][13][Maori Committees][13]
 
-[10][14] [Functions of Maori Committees][14]
+[10][14][][14][Functions of Maori Committees][14]
 
-[10A][15] [Direct representation of Maori Committee on District Maori Council][15]
+[10A][15][][15][Direct representation of Maori Committee on District Maori Council][15]
 
 [Maori Executive Committees][16]
 
-[11][17] [Maori Executive Committee areas][17]
+[11][17][][17][Maori Executive Committee areas][17]
 
-[12][18] [Maori Executive Committees][18]
+[12][18][][18][Maori Executive Committees][18]
 
-[13][19] [Functions of Maori Executive Committees][19]
+[13][19][][19][Functions of Maori Executive Committees][19]
 
 [District Maori Councils][20]
 
-[14][21] [Maori Council districts][21]
+[14][21][][21][Maori Council districts][21]
 
-[15][22] [District Maori Councils][22]
+[15][22][][22][District Maori Councils][22]
 
-[15A][23] [District Maori Councils may recognise Maori societies][23]
+[15A][23][][23][District Maori Councils may recognise Maori societies][23]
 
-[16][24] [Functions of District Maori Councils][24]
+[16][24][][24][Functions of District Maori Councils][24]
 
 [New Zealand Maori Council][25]
 
-[17][26] [New Zealand Maori Council][26]
+[17][26][][26][New Zealand Maori Council][26]
 
-[18][27] [General functions of the New Zealand Maori Council][27]
+[18][27][][27][General functions of the New Zealand Maori Council][27]
 
 [Elections][28]
 
-[19][29] [Elections of Maori Committees][29]
+[19][29][][29][Elections of Maori Committees][29]
 
-[20][30] [Provisions as to retirement after elections][30]
+[20][30][][30][Provisions as to retirement after elections][30]
 
-[21][31] [Appointment of members of Maori Associations][31]
+[21][31][][31][Appointment of members of Maori Associations][31]
 
-[22][32] [Vacancies in membership][32]
+[22][32][][32][Vacancies in membership][32]
 
-[23][33] [Meetings][33]
+[23][33][][33][Meetings][33]
 
 [Financial provisions][34]
 
-[24][35] [Contributions to funds][35]
+[24][35][][35][Contributions to funds][35]
 
-[25][36] [Subsidies][36]
+[25][36][][36][Subsidies][36]
 
-[26][37] [Expenses of Councils and Committees][37]
+[26][37][][37][Expenses of Councils and Committees][37]
 
-[27][38] [Money to be paid into bank][38]
+[27][38][][38][Money to be paid into bank][38]
 
-[28][39] [Books of account][39]
+[28][39][][39][Books of account][39]
 
-[29][40] [Disposal of assets on dissolution][40]
+[29][40][][40][Disposal of assets on dissolution][40]
 
 [Prevention of unruly behaviour][41]
 
-[30][42] [Prevention of riotous behaviour][42]
+[30][42][][42][Prevention of riotous behaviour][42]
 
-[31][43] [Prevention of drunkenness][43]
+[31][43][][43][Prevention of drunkenness][43]
 
-[32][44] [Maori may be ordered to leave hotel][44]
+[32][44][][44][Maori may be ordered to leave hotel][44]
 
-[33][45] [Disorderly behaviour at Maori gatherings][45]
+[33][45][][45][Disorderly behaviour at Maori gatherings][45]
 
-[34][46] [Prohibition orders against Maoris][46] \[Repealed\]
+[34][46][][46][Prohibition orders against Maoris][46] \[Repealed\]
 
-[35][47] [Retention of car keys][47]
+[35][47][][47][Retention of car keys][47]
 
-[36][48] [Imposition of penalties by Maori Committees][48]
+[36][48][][48][Imposition of penalties by Maori Committees][48]
 
 [Miscellaneous provisions][49]
 
-[37][50] [Associations to be bodies corporate][50]
+[37][50][][50][Associations to be bodies corporate][50]
 
-[38][51] [Contracts by Associations][51]
+[38][51][][51][Contracts by Associations][51]
 
-[39][52] [Authentication of documents][52]
+[39][52][][52][Authentication of documents][52]
 
-[40][53] [Associations may acquire land][53]
+[40][53][][53][Associations may acquire land][53]
 
-[40A][54] [Property of former Maori Tribal Committees and Maori Tribal Executive Committees][54]
+[40A][54][][54][Property of former Maori Tribal Committees and Maori Tribal Executive Committees][54]
 
-[41][55] [Members of Maori Associations not personally liable][55]
+[41][55][][55][Members of Maori Associations not personally liable][55]
 
-[42][56] [Penalties][56]
+[42][56][][56][Penalties][56]
 
-[43][57] [Regulations][57]
+[43][57][][57][Regulations][57]
 
-[44][58] [Repeals][58]
+[44][58][][58][Repeals][58]
 
 [Schedule][59]  
 [Enactments repealed][59]
@@ -628,7 +628,9 @@ An Act to provide for the constitution of Maori Associations, to define their po
     
     commits an offence against this Act.
     
-    (2) Nothing in this section shall be construed to prevent a penalty being imposed on any person under the [Summary Proceedings Act 1957][81] in respect of an offence committed against section 3 of the Police Offences Act 1927, but no person shall be punished twice for the same offence.
+    (2) Nothing in this section shall be construed to prevent a penalty being imposed on any person under the [Criminal Procedure Act 2011][81] in respect of an offence committed against section 3 of the Police Offences Act 1927, but no person shall be punished twice for the same offence.
+    
+    Section 30(2): amended, on 1 July 2013, by [section 413][82] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 31 Prevention of drunkenness
     
@@ -640,7 +642,7 @@ An Act to provide for the constitution of Maori Associations, to define their po
     
     (2) If the Maori refuses or fails to leave the premises when ordered to do so as aforesaid, he commits an offence against this Act and the Warden may request any constable to expel the Maori from the premises and that constable may do so with or without the assistance of the Warden.
     
-    Section 32(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][82] of the Policing Act 2008 (2008 No 72).
+    Section 32(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][83] of the Policing Act 2008 (2008 No 72).
 
 ##### 33 Disorderly behaviour at Maori gatherings
     
@@ -666,25 +668,27 @@ An Act to provide for the constitution of Maori Associations, to define their po
     
     (8) A Maori Committee for any area in which a meeting place is situated may, in respect of the meeting place, issue a written permit for the introduction of intoxicating liquor into the meeting place for the purpose of being consumed therein at any gathering of Maoris other than a gathering for the purposes of a dance. Any such permit shall prescribe the nature and place of the gathering and may contain such conditions as the Maori Committee thinks fit in respect of the supply and the consumption of liquor. A copy of every such permit shall be supplied to the senior constable for the area and the permit shall not have any effect until the copy is so supplied.
     
-    (9) Nothing in this section shall be construed to prevent a penalty being imposed on any person under the [Summary Proceedings Act 1957][81] in respect of an offence committed against [section 59][83] of the Statutes Amendment Act 1939, but no person shall be punished twice for the same offence.
+    (9) Nothing in this section shall be construed to prevent a penalty being imposed on any person under the [Criminal Procedure Act 2011][81] in respect of an offence committed against [section 59][84] of the Statutes Amendment Act 1939, but no person shall be punished twice for the same offence.
     
-    (10) In subsection (6)(a), _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][84] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
+    (10) In subsection (6)(a), _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][85] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
     
-    Section 33(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][82] of the Policing Act 2008 (2008 No 72).
+    Section 33(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][83] of the Policing Act 2008 (2008 No 72).
     
-    Section 33(6)(a): amended, on 18 September 2004, by [section 175(1)][85] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 33(6)(a): amended, on 18 September 2004, by [section 175(1)][86] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 33(7): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][82] of the Policing Act 2008 (2008 No 72).
+    Section 33(7): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][83] of the Policing Act 2008 (2008 No 72).
     
-    Section 33(8): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][82] of the Policing Act 2008 (2008 No 72).
+    Section 33(8): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][83] of the Policing Act 2008 (2008 No 72).
     
-    Section 33(10): inserted, on 18 September 2004, by [section 175(1)][85] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 33(9): amended, on 1 July 2013, by [section 413][82] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 33(10): inserted, on 18 September 2004, by [section 175(1)][86] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 
 ##### 34 Prohibition orders against Maoris
     
 *   \[Repealed\]
     
-    Section 34: repealed, on 1 April 1990, by [section 230(1)][86] of the Sale of Liquor Act 1989 (1989 No 63).
+    Section 34: repealed, on 1 April 1990, by [section 230(1)][87] of the Sale of Liquor Act 1989 (1989 No 63).
 
 ##### 35 Retention of car keys
     
@@ -704,11 +708,11 @@ An Act to provide for the constitution of Maori Associations, to define their po
 
 ##### 36 Imposition of penalties by Maori Committees
     
-*   (1) If a Maori Committee is satisfied that an offence has been committed by a Maori against [section 30][42], [section 32][44], [section 33][45], or [section 35][47], it may authorise proceedings to be taken in a summary manner under the [Summary Proceedings Act 1957][81] in respect of the offence or it may, in its discretion, impose on the offender a penalty in respect thereof of such amount as it thinks fit, not exceeding 10 pounds:
+*   (1) If a Maori Committee is satisfied that an offence has been committed by a Maori against [section 30][42], [section 32][44], [section 33][45], or [section 35][47], it may authorise proceedings to be taken under the [Criminal Procedure Act 2011][81] in respect of the offence or it may, in its discretion, impose on the offender a penalty in respect thereof of such amount as it thinks fit, not exceeding 10 pounds:
     
-    provided that no penalty shall be imposed by a Maori Committee under this subsection if the person charged elects to be dealt with summarily under the [Summary Proceedings Act 1957][81], and before imposing any penalty, the Committee shall make known to the offender his right of election and the nature of the charge against him.
+    provided that no penalty shall be imposed by a Maori Committee under this subsection if the person charged elects to be dealt with under the [Criminal Procedure Act 2011][81], and before imposing any penalty, the Committee shall make known to the offender his right of election and the nature of the charge against him.
     
-    (2) No person shall have a penalty imposed on him under this section for an offence in respect of which summary proceedings have been taken under the [Summary Proceedings Act 1957][81] and no person shall have a penalty imposed on him under the Summary Proceedings Act 1957 for an offence for which a penalty has been imposed under this section.
+    (2) No person shall have a penalty imposed on him under this section for an offence in respect of which proceedings have been taken under the [Criminal Procedure Act 2011][81] and no person shall have a penalty imposed on him under the Criminal Procedure Act 2011 for an offence for which a penalty has been imposed under this section.
     
     (3) For the purpose of investigating any offence referred to in subsection (1) and determining the amount of the penalty, a Maori Committee may, subject to any directions of the Minister, adopt such form of procedure as it may think suitable:
     
@@ -720,11 +724,19 @@ An Act to provide for the constitution of Maori Associations, to define their po
     
     (5) The amount of any penalties imposed by a Maori Committee under this section shall be paid to the Committee and shall form part of its funds.
     
-    (6) The amount of any penalty imposed under the [Summary Proceedings Act 1957][81] pursuant to proceedings authorised in that behalf under this section, and the amount of any penalty so imposed on a person who has elected under this section to be dealt with summarily under that Act, shall be paid into the funds of the Maori Committee of the Maori Committee area within which the offence was committed:
+    (6) The amount of any penalty imposed under the [Criminal Procedure Act 2011][81] pursuant to proceedings authorised in that behalf under this section, and the amount of any penalty so imposed on a person who has elected under this section to be dealt with under that Act, shall be paid into the funds of the Maori Committee of the Maori Committee area within which the offence was committed:
     
     provided that there shall be deducted from the amount of any such penalty and credited to the Ordinary Revenue Account of the Consolidated Fund an amount equal to 5% of the penalty.
     
-    Section 36(4): amended, on 1 April 1980, pursuant to [section 18(2)][87] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 36(1): amended, on 1 July 2013, by [section 413][82] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 36(1) proviso: amended, on 1 July 2013, by [section 413][82] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 36(2): amended, on 1 July 2013, by [section 413][82] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 36(4): amended, on 1 April 1980, pursuant to [section 18(2)][88] of the District Courts Amendment Act 1979 (1979 No 125).
+    
+    Section 36(6): amended, on 1 July 2013, by [section 413][82] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Miscellaneous provisions
 
@@ -750,7 +762,7 @@ An Act to provide for the constitution of Maori Associations, to define their po
 
 ##### 40 Associations may acquire land
     
-*   Any Maori Association may,, acquire any land or interest in land, whether by way of purchase, lease, or otherwise, for any communal purposes, and may sell, lease, sublease, mortgage, or otherwise dispose of any such land or interest so acquired.
+*   Any Maori Association may acquire any land or interest in land, whether by way of purchase, lease, or otherwise, for any communal purposes, and may sell, lease, sublease, mortgage, or otherwise dispose of any such land or interest so acquired.
     
     Section 40: amended, on 22 October 1963, by section 8(a) of the Maori Community Development Amendment Act 1963 (1963 No 53).
     
@@ -762,9 +774,9 @@ An Act to provide for the constitution of Maori Associations, to define their po
     
     (2) Where any property transferred as aforesaid consists of land or any interest in land, or of any mortgage or encumbrance of land, any security over stock or chattels, any lien, bonds, stocks, shares, debentures, or any like security, it shall be the duty of every Registrar of Deeds, District Land Registrar, Registrar of the High Court, or other person charged with the duty of keeping any register, on the application of the Maori Association in which such property is so vested, and without the payment of any fee, to register that Maori Association in the appropriate register or registers as the owner, mortgagee, encumbrancer, or grantee as the case may require and to do all such other things as may be necessary to give effect to this section.
     
-    Section 40A: inserted, on 28 October 1965, by [section 12][88] of the Maori Purposes Act 1965 (1965 No 121).
+    Section 40A: inserted, on 28 October 1965, by [section 12][89] of the Maori Purposes Act 1965 (1965 No 121).
     
-    Section 40A(2): amended, on 1 April 1980, pursuant to [section 12][89] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 40A(2): amended, on 1 April 1980, pursuant to [section 12][90] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 41 Members of Maori Associations not personally liable
     
@@ -772,7 +784,9 @@ An Act to provide for the constitution of Maori Associations, to define their po
 
 ##### 42 Penalties
     
-*   Every person who commits an offence against this Act for which no penalty is specifically provided shall be liable on summary conviction to a fine not exceeding 20 pounds.
+*   Every person who commits an offence against this Act for which no penalty is specifically provided shall be liable on conviction to a fine not exceeding 20 pounds.
+    
+    Section 42: amended, on 1 July 2013, by [section 413][82] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 43 Regulations
     
@@ -803,15 +817,15 @@ Enactments repealed
 
 ##### Maori Purposes Act 1947 (1947 No 59) (1957 Reprint, Vol 9, p 160)
 
-_Amendment(s) incorporated in the [Act(s)][90]._
+_Amendment(s) incorporated in the [Act(s)][91]._
 
 ##### Maori Purposes Act 1948 (1948 No 69) (1957 Reprint, Vol 9, p 161)
 
-_Amendment(s) incorporated in the [Act(s)][91]._
+_Amendment(s) incorporated in the [Act(s)][92]._
 
 ##### Maori Purposes Act 1949 (1949 No 46) (1957 Reprint, Vol 9, p 161)
 
-_Amendment(s) incorporated in the [Act(s)][92]._
+_Amendment(s) incorporated in the [Act(s)][93]._
 
 ##### Maori Purposes Act 1950 (1950 No 98) (1957 Reprint, Vol 9, p 162)
 
@@ -819,11 +833,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Maori Purposes Act 1955 (1955 No 106) (1957 Reprint, Vol 9, p 163)
 
-_Amendment(s) incorporated in the [Act(s)][93]._
+_Amendment(s) incorporated in the [Act(s)][94]._
 
 ##### Maori Purposes Act 1957 (1957 No 81) (1957 Reprint, Vol 9, p 163)
 
-_Amendment(s) incorporated in the [Act(s)][94]._
+_Amendment(s) incorporated in the [Act(s)][95]._
 
 ##### Maori Social and Economic Advancement Act 1945 (1945 No 43) (1957 Reprint, Vol 9, p 131)
 
@@ -849,23 +863,23 @@ _Amendment(s) incorporated in the [Act(s)][94]._
 
 ###### 1 General
     
-*   This is a reprint of the Maori Community Development Act 1962\. The reprint incorporates all the amendments to the Act as at 7 July 2010, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Maori Community Development Act 1962\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][95] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][96] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][96] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][97] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][97] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][98] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][1] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][98] and [17E][99] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][1] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][99] and [17E][100] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][1] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -896,13 +910,15 @@ _Amendment(s) incorporated in the [Act(s)][94]._
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][79]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][82]
+    
+    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][79]
     
     Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(1)][76]
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][82]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][83]
     
-    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][85]
+    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][86]
     
     Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][75]
     
@@ -914,7 +930,7 @@ _Amendment(s) incorporated in the [Act(s)][94]._
     
     Maori Affairs Restructuring Act 1989 (1989 No 68): [section 10][63]
     
-    Sale of Liquor Act 1989 (1989 No 63): [section 230(1)][86]
+    Sale of Liquor Act 1989 (1989 No 63): [section 230(1)][87]
     
     State Sector Act 1988 (1988 No 20): [section 90(a)][66]
     
@@ -922,9 +938,9 @@ _Amendment(s) incorporated in the [Act(s)][94]._
     
     Maori Purposes Act 1979 (1979 No 136): [section 19(1), (2)][0]
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][87]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][88]
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][89]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][90]
     
     Maori Purposes Act 1975 (1975 No 135): [sections 14(1)][67], [15][71]
     
@@ -940,7 +956,7 @@ _Amendment(s) incorporated in the [Act(s)][94]._
     
     Maori Purposes Act 1967 (1967 No 145): [section 8][62]
     
-    Maori Purposes Act 1965 (1965 No 121): [section 12][88]
+    Maori Purposes Act 1965 (1965 No 121): [section 12][89]
     
     Maori Community Development Amendment Act 1963 (1963 No 53)
 
@@ -1027,22 +1043,23 @@ _Amendment(s) incorporated in the [Act(s)][94]._
 [78]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM391422
 [79]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM3043113
 [80]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM391427
-[81]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM310742
-[82]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM1102349
-[83]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM228689
-[84]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM204329
-[85]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM205009
-[86]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM167530
-[87]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM35085
-[88]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM374009
-[89]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM35049
-[90]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM245836
-[91]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM254439
-[92]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM259765
-[93]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM293858
-[94]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM310736
-[95]: http://www.pco.parliament.govt.nz/reprints/
-[96]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM195439
-[97]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[98]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM195468
-[99]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM195470
+[81]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM3359902
+[82]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM3360714
+[83]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM1102349
+[84]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM228689
+[85]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM204329
+[86]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM205009
+[87]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM167530
+[88]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM35085
+[89]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM374009
+[90]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM35049
+[91]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM245836
+[92]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM254439
+[93]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM259765
+[94]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM293858
+[95]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM310736
+[96]: http://www.pco.parliament.govt.nz/reprints/
+[97]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM195439
+[98]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[99]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM195468
+[100]: http://www.legislation.govt.nz/act/public/1962/0133/latest/link.aspx?id=DLM195470
