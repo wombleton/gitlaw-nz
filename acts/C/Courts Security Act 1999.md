@@ -1,5 +1,5 @@
 Reprint  
-as at 4 June 2013
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -775,9 +775,11 @@ An Act to provide for---
     
     *   (b) a person who is helping a court security officer to exercise any such power or duty.
     
-    (2) A person who commits an offence against this section is liable on summary conviction by a court presided over by a District Court Judge or 2 or more justices to a fine not exceeding $300 or to imprisonment for a term not exceeding 3 months.
+    (2) A person who commits an offence against this section is liable on conviction by a court presided over by a District Court Judge or 2 or more justices to a fine not exceeding $300 or to imprisonment for a term not exceeding 3 months.
     
     Compare: 1957 No 87 [s 192(9)][76]
+    
+    Section 30(2): amended, on 1 July 2013, by [section 413][77] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Immunities
 
@@ -803,7 +805,7 @@ An Act to provide for---
 
 ##### 33 Powers of other officials: court security officers may exercise
     
-*   (1) This section applies to any power or duty relating to security in a courtroom where proceedings are being heard that is given to any official other than a court security officer or a Police officer, for example, the power given to an officer of the court by [section 112][77] of the District Courts Act 1947\.
+*   (1) This section applies to any power or duty relating to security in a courtroom where proceedings are being heard that is given to any official other than a court security officer or a Police officer, for example, the power given to an officer of the court by [section 112][78] of the District Courts Act 1947\.
     
     (2) A court security officer may exercise any such power or duty if the presiding judicial officer directs the officer, in specific language, to do so.
 
@@ -811,7 +813,7 @@ An Act to provide for---
     
 *   Every Police officer has and may exercise all or any of the powers and duties given to a court security officer by this Act.
     
-    Compare: 1990 No 98 [s 87][78]
+    Compare: 1990 No 98 [s 87][79]
 
 ##### 35 Powers of other persons not affected
     
@@ -857,23 +859,23 @@ An Act to provide for---
 
 ###### 1 General
     
-*   This is a reprint of the Courts Security Act 1999\. The reprint incorporates all the amendments to the Act as at 4 June 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Courts Security Act 1999\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][79] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][80] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][80] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][81] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][81] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][82] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][82] and [17E][83] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][83] and [17E][84] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -905,6 +907,8 @@ An Act to provide for---
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
 *   Corrections Amendment Act 2013 (2013 No 5): [section 47][74]
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][77]
     
     Policing Act 2008 (2008 No 72): [section 116(a)(vii)][64]
     
@@ -997,10 +1001,11 @@ An Act to provide for---
 [74]: http://www.legislation.govt.nz/act/public/1999/0115/latest/link.aspx?id=DLM4036044
 [75]: http://www.legislation.govt.nz/act/public/1999/0115/latest/link.aspx?id=DLM297136
 [76]: http://www.legislation.govt.nz/act/public/1999/0115/latest/link.aspx?id=DLM313771
-[77]: http://www.legislation.govt.nz/act/public/1999/0115/latest/link.aspx?id=DLM244431
-[78]: http://www.legislation.govt.nz/act/public/1999/0115/latest/link.aspx?id=DLM217809
-[79]: http://www.pco.parliament.govt.nz/reprints/
-[80]: http://www.legislation.govt.nz/act/public/1999/0115/latest/link.aspx?id=DLM195439
-[81]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[82]: http://www.legislation.govt.nz/act/public/1999/0115/latest/link.aspx?id=DLM195468
-[83]: http://www.legislation.govt.nz/act/public/1999/0115/latest/link.aspx?id=DLM195470
+[77]: http://www.legislation.govt.nz/act/public/1999/0115/latest/link.aspx?id=DLM3360714
+[78]: http://www.legislation.govt.nz/act/public/1999/0115/latest/link.aspx?id=DLM244431
+[79]: http://www.legislation.govt.nz/act/public/1999/0115/latest/link.aspx?id=DLM217809
+[80]: http://www.pco.parliament.govt.nz/reprints/
+[81]: http://www.legislation.govt.nz/act/public/1999/0115/latest/link.aspx?id=DLM195439
+[82]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[83]: http://www.legislation.govt.nz/act/public/1999/0115/latest/link.aspx?id=DLM195468
+[84]: http://www.legislation.govt.nz/act/public/1999/0115/latest/link.aspx?id=DLM195470
