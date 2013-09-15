@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -200,7 +200,7 @@ An Act to vest powers in the Governor-General in Council and the Minister of Ene
     
     *   (c) the method by which quantities are to be measured for different purposes.
     
-    (6) Any person who without reasonable excuse contravenes or fails to comply with a direction given to him under subsection (2) commits an offence against this Act and is liable on summary conviction to a fine not exceeding $10,000\.
+    (6) Any person who without reasonable excuse contravenes or fails to comply with a direction given to him under subsection (2) commits an offence against this Act and is liable on conviction to a fine not exceeding $10,000\.
     
     Section 6(1): amended, on 1 October 2008, by [section 17][15] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
@@ -211,6 +211,8 @@ An Act to vest powers in the Governor-General in Council and the Minister of Ene
     Section 6(3)(a): amended, on 1 October 2008, by [section 17][15] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
     Section 6(3)(b): amended, on 1 October 2008, by [section 17][15] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    
+    Section 6(6): amended, on 1 July 2013, by [section 413][18] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 7 Power to obtain information
     
@@ -224,9 +226,9 @@ An Act to vest powers in the Governor-General in Council and the Minister of Ene
     
     *   (c) to furnish, as and when specified by the Minister, information and forecasts relating to the undertaking itself or its activities.
     
-    (3) Any person who without reasonable excuse contravenes or fails to comply with a direction given to him under subsection (2) commits an offence against this Act and is liable on summary conviction to a fine not exceeding $2,000\.
+    (3) Any person who without reasonable excuse contravenes or fails to comply with a direction given to him under subsection (2) commits an offence against this Act and is liable on conviction to a fine not exceeding $2,000\.
     
-    (4) Any person who in compliance or purported compliance with a direction given under subsection (2) makes, or causes to be made on his behalf, a statement which he knows to be false or does not believe to be true commits an offence against this Act and is liable on summary conviction to a fine not exceeding $2,000\.
+    (4) Any person who in compliance or purported compliance with a direction given under subsection (2) makes, or causes to be made on his behalf, a statement which he knows to be false or does not believe to be true commits an offence against this Act and is liable on conviction to a fine not exceeding $2,000\.
     
     (5) \[Repealed\]
     
@@ -238,9 +240,13 @@ An Act to vest powers in the Governor-General in Council and the Minister of Ene
     
     Section 7(2)(b): amended, on 1 October 2008, by [section 17][15] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 7(5): repealed, on 1 April 1987, by [section 25(1)][18] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 7(3): amended, on 1 July 2013, by [section 413][18] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 7(6): repealed, on 1 April 1987, by [section 25(1)][18] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 7(4): amended, on 1 July 2013, by [section 413][18] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 7(5): repealed, on 1 April 1987, by [section 25(1)][19] of the Official Information Amendment Act 1987 (1987 No 8).
+    
+    Section 7(6): repealed, on 1 April 1987, by [section 25(1)][19] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 8 Further provisions as to directions under sections 6 and 7
     
@@ -280,7 +286,7 @@ An Act to vest powers in the Governor-General in Council and the Minister of Ene
     
     (3) Regulations made under [section 4(1)][5] may provide that the powers set out in this section shall be available, with all necessary modifications, for the purpose of ensuring that the provisions of those regulations are effectively carried out and complied with.
     
-    Section 9(3): amended, on 1 October 2012, by [section 320][19] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 9(3): amended, on 1 October 2012, by [section 320][20] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 10 Liability of directors, etc, where offence committed by body corporate
     
@@ -288,13 +294,13 @@ An Act to vest powers in the Governor-General in Council and the Minister of Ene
 
 ##### 11 Search warrants
     
-*   (1) If an offence created by or under this Act has been committed or is suspected of having been committed (notwithstanding that the offence is not punishable by imprisonment), any person authorised in writing by the chief executive may exercise the powers of a constable to apply for a warrant under [section 6][20] of the Search and Surveillance Act 2012\.
+*   (1) If an offence created by or under this Act has been committed or is suspected of having been committed (notwithstanding that the offence is not punishable by imprisonment), any person authorised in writing by the chief executive may exercise the powers of a constable to apply for a warrant under [section 6][21] of the Search and Surveillance Act 2012\.
     
-    (2) [Subparts 1][21], [3][22], [6][23], [7][24], [9][25], and [10][26] of Part 4 of the Search and Surveillance Act 2012 apply.
+    (2) [Subparts 1][22], [3][23], [6][24], [7][25], [9][26], and [10][27] of Part 4 of the Search and Surveillance Act 2012 apply.
     
     (3) For the purposes of this section, _chief executive_ means the chief executive of the department that, with the authority of the Prime Minister, is responsible for the administration of this Act.
     
-    Section 11: replaced, on 1 October 2012, by [section 321][27] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 11: replaced, on 1 October 2012, by [section 321][28] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ---
 
@@ -1204,8 +1210,6 @@ IN WITNESS WHEREOF the undersigned, being duly authorised thereto by their respe
 
 DONE at Paris, this eighteenth day of November, Nineteen Hundred and Seventy Four.
 
----
-
 ## Annex  
 Emergency reserves
 
@@ -1351,76 +1355,6 @@ The reports from the Standing Group on Emergency Questions on the matters mentio
 
 ---
 
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][28].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][29] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
-
----
-
 #### Contents
     
 *   1General
@@ -1435,23 +1369,23 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the International Energy Agreement Act 1976\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the International Energy Agreement Act 1976\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][30] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][29] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][31] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][30] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][32] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][31] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][33] and [17E][34] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][32] and [17E][33] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1482,13 +1416,15 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Search and Surveillance Act 2012 (2012 No 24): [sections 320][19], [321][27]
+*   Search and Surveillance Act 2012 (2012 No 24): [sections 320][20], [321][28]
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][18]
     
     Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60): [section 17][15]
     
     Energy (Fuels, Levies, and References) Act 1989 (1989 No 140): [section 5][16]
     
-    Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][18]
+    Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][19]
 
 
 
@@ -1510,20 +1446,19 @@ Amendments, repeals, and miscellaneous provisions
 [15]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM1382846
 [16]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM194767
 [17]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM242535
-[18]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM101353
-[19]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM4356912
-[20]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM2136635
-[21]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM2136771
-[22]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM2136781
-[23]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM2136860
-[24]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM2136877
-[25]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM2136888
-[26]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM2136896
-[27]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM4356913
-[28]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM2136500
-[29]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM4686448
-[30]: http://www.pco.parliament.govt.nz/reprints/
-[31]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM195439
-[32]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[33]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM195468
-[34]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM195470
+[18]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM3360714
+[19]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM101353
+[20]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM4356912
+[21]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM2136635
+[22]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM2136771
+[23]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM2136781
+[24]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM2136860
+[25]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM2136877
+[26]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM2136888
+[27]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM2136896
+[28]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM4356913
+[29]: http://www.pco.parliament.govt.nz/reprints/
+[30]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM195439
+[31]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[32]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM195468
+[33]: http://www.legislation.govt.nz/act/public/1976/0155/latest/link.aspx?id=DLM195470
