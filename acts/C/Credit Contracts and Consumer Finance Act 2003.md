@@ -1,5 +1,5 @@
 Reprint  
-as at 24 October 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,7 +17,7 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Ministry of Consumer Affairs.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -301,7 +301,7 @@ This Act is administered by the Ministry of Consumer Affairs.
 
 [104][137][][137][Conviction for 2 or more offences][137]
 
-[105][138][][138][When proceedings may be commenced][138]
+[105][138][][138][When proceedings may be commenced for certain offences][138]
 
 [Subpart 5][139][---][139][Defence][139]
 
@@ -2249,15 +2249,21 @@ Enforcement and remedies
 
 ##### 103 Offences
     
-*   (1) Every creditor, lessor, transferee, or buy-back promoter who breaches any of the provisions of [sections 17 to 69][23], [71 to 74][95], and [76 to 82][100] commits an offence and is liable on summary conviction to a fine not exceeding $30,000\.
+*   (1) Every creditor, lessor, transferee, or buy-back promoter who breaches any of the provisions of [sections 17 to 69][23], [71 to 74][95], and [76 to 82][100] commits an offence and is liable on conviction to a fine not exceeding $30,000\.
     
-    (2) Every transferee who breaches [section 75][99] commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 1 year or to a fine not exceeding $200,000, or to both.
+    (2) Every transferee who breaches [section 75][99] commits an offence and is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $200,000, or to both.
     
-    (3) Every person who acts in breach of an order made under [section 108][143] commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $30,000, or to both.
+    (3) Every person who acts in breach of an order made under [section 108][143] commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $30,000, or to both.
     
     (4) _Amendment(s) incorporated in the [Act(s)][218]_.
     
     Compare: 1986 No 121 [s 40(1)][219]
+    
+    Section 103(1): amended, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 103(2): amended, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 103(3): amended, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 104 Conviction for 2 or more offences
     
@@ -2265,13 +2271,17 @@ Enforcement and remedies
     
     Compare: 1986 No 121 [s 40(2)][219]
 
-##### 105 When proceedings may be commenced
+##### 105 When proceedings may be commenced for certain offences
     
-*   (1) Proceedings under [section 103][136] may be commenced at any time within 3 years after the matter giving rise to the breach arose.
+*   (1) Despite anything to the contrary in [section 25][221] of the Criminal Procedure Act 2011,---
+        
+    *   (a) a charging document may be filed at any time in respect of an offence against [section 103(2)][136]; and
     
-    (2) This section applies despite [section 14][220] of the Summary Proceedings Act 1957\.
+    *   (b) the limitation period in respect of an offence against [section 103(3)][136] ends on the date that is 3 years after the date on which the offence was committed.
     
-    Compare: 1986 No 121 [s 40(3)][219]
+    (2) Nothing in subsection (1) affects the application of [section 25][221] of the Criminal Procedure Act 2011 in relation to any offence not mentioned in that subsection.
+    
+    Section 105: replaced, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 5---Defence
 
@@ -2299,7 +2309,7 @@ Enforcement and remedies
         
     *   (a) the person---
             
-        *   (i) has been convicted of an offence against this Act, or of a crime involving dishonesty (as defined in [section 2(1)][221] of the Crimes Act 1961); or
+        *   (i) has been convicted of an offence against this Act, or of a crime involving dishonesty (as defined in [section 2(1)][222] of the Crimes Act 1961); or
         
         *   (ii) is, or has been, a creditor under a credit contract that has been reopened under the Credit Contracts Act 1981; or
         
@@ -2391,23 +2401,23 @@ Enforcement and remedies
     
     (4) This section does not affect the court's power to make any order (including any order as to costs).
     
-    Section 112(1): amended, on 1 January 2004, by [section 48(1)][222] of the Supreme Court Act 2003 (2003 No 53).
+    Section 112(1): amended, on 1 January 2004, by [section 48(1)][223] of the Supreme Court Act 2003 (2003 No 53).
 
 ##### 113 Application of Commerce Act 1986
     
 *   The following provisions of the [Commerce Act 1986][189] apply with all necessary modifications:
         
-    *   (a) [sections 15 to 17][223] (proceedings of the Commission):
+    *   (a) [sections 15 to 17][224] (proceedings of the Commission):
     
-    *   (b) [section 90][224] (conduct by servants or agents):
+    *   (b) [section 90][225] (conduct by servants or agents):
     
-    *   (c) [section 98][225] (Commission may require person to supply information or documents or give evidence):
+    *   (c) [section 98][226] (Commission may require person to supply information or documents or give evidence):
     
-    *   (d) [sections 98A][226] and [98G][227] (Commission's powers of search and seizure):
+    *   (d) [sections 98A][227] and [98G][228] (Commission's powers of search and seizure):
     
-    *   (e) [section 99][228] (powers of Commission to take evidence):
+    *   (e) [section 99][229] (powers of Commission to take evidence):
     
-    *   (ea) [sections 99B to 99P][229] (assistance to overseas regulators), as if---
+    *   (ea) [sections 99B to 99P][230] (assistance to overseas regulators), as if---
             
         *   (i) references in those sections to competition law were references to consumer credit law; and
         
@@ -2415,31 +2425,31 @@ Enforcement and remedies
         
         
     
-    *   (f) [section 100][230] (powers of Commission to prohibit disclosure of information, documents, and evidence):
+    *   (f) [section 100][231] (powers of Commission to prohibit disclosure of information, documents, and evidence):
     
-    *   (g) [section 100A][231] (Commission may state case for opinion of High Court):
+    *   (g) [section 100A][232] (Commission may state case for opinion of High Court):
     
-    *   (h) [sections 101][232] (notices) and [102][233] (service of notices):
+    *   (h) [sections 101][233] (notices) and [102][234] (service of notices):
     
-    *   (i) [section 103][234] (offences):
+    *   (i) [section 103][235] (offences):
     
-    *   (j) [section 104][235] (determinations of Commission):
+    *   (j) [section 104][236] (determinations of Commission):
     
     *   (k) \[Repealed\]
     
-    *   (l) [section 106][236] (proceedings privileged):
+    *   (l) [section 106][237] (proceedings privileged):
     
-    *   (m) [section 106A][237] (judicial notice):
+    *   (m) [section 106A][238] (judicial notice):
     
-    *   (n) [section 109][238] (Commission may prescribe forms).
+    *   (n) [section 109][239] (Commission may prescribe forms).
     
-    Section 113(a): substituted, on 25 January 2005, by [section 200][239] of the Crown Entities Act 2004 (2004 No 115).
+    Section 113(a): substituted, on 25 January 2005, by [section 200][240] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 113(d): amended, on 1 October 2012, by [section 314(2)][240] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 113(d): amended, on 1 October 2012, by [section 314(2)][241] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 113(ea): inserted, on 24 October 2012, by [section 4][241] of the Credit Contracts and Consumer Finance (International Co-operation) Amendment Act 2012 (2012 No 85).
+    Section 113(ea): inserted, on 24 October 2012, by [section 4][242] of the Credit Contracts and Consumer Finance (International Co-operation) Amendment Act 2012 (2012 No 85).
     
-    Section 113(k): repealed, on 25 January 2005, by [section 200][239] of the Crown Entities Act 2004 (2004 No 115).
+    Section 113(k): repealed, on 25 January 2005, by [section 200][240] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 114 Additional proceedings
     
@@ -2467,13 +2477,15 @@ Enforcement and remedies
     
 *   (1) If any person is convicted in any proceedings for an offence relating to anything for which a warrant has been issued, and any order is made under [section 115][151], the operation of the order is suspended,---
         
-    *   (a) in any case, until the expiration of the time prescribed by the [Summary Proceedings Act 1957][242] for the filing of a notice of appeal or an application for leave to appeal; and
+    *   (a) in any case, until the expiration of the time prescribed by the [Criminal Procedure Act 2011][243] for the filing of a notice of appeal or an application for leave to appeal; and
     
     *   (b) if a notice of appeal is filed within the time so prescribed, until the determination of the appeal; and
     
     *   (c) if application for leave to appeal is filed within the time so prescribed, until the application is determined, and, if leave to appeal is granted, until the determination of the appeal.
     
     (2) If the operation of any order is suspended until the determination of the appeal, the court determining the appeal may, by order, cancel or vary the order.
+    
+    Section 116(1)(a): amended, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 5  
 Reopening of oppressive credit contracts, consumer leases, and buy-back transactions
@@ -2677,7 +2689,7 @@ Miscellaneous provisions
     
 *   (1) An assignee of a credit contract, a consumer lease, or a buy-back transaction from a creditor, a lessor, or a transferee takes the contract, lease, or transaction subject to all equities and to all rights and remedies under this Act that the debtor, the lessee, or the occupier has or would have against the original creditor, the original lessor, the original transferee, or any subsequent creditor, lessor, or transferee.
     
-    (2) This section is subject to the [Bills of Exchange Act 1908][243].
+    (2) This section is subject to the [Bills of Exchange Act 1908][244].
     
     Compare: 1981 No 27 s 42
 
@@ -2697,7 +2709,7 @@ Miscellaneous provisions
     
 *   (1) This Act has effect despite any provision to the contrary in any credit contract, guarantee, consumer lease, or buy-back transaction.
     
-    (2) Every creditor, lessor, or transferee commits an offence against [section 13(i)][244] of the Fair Trading Act 1986 who purports to contract out of any provision of this Act.
+    (2) Every creditor, lessor, or transferee commits an offence against [section 13(i)][245] of the Fair Trading Act 1986 who purports to contract out of any provision of this Act.
     
     (3) Subsection (1) does not limit or affect any term in a credit contract, guarantee, consumer lease, or buy-back transaction between a creditor, a lessor, or a transferee and a debtor, a guarantor, a lessee, or an occupier to the extent that the term---
         
@@ -2707,7 +2719,7 @@ Miscellaneous provisions
     
     (4) Subsection (1) does not prevent a debtor, guarantor, lessee, or occupier who has a claim under this Act from agreeing to settle or compromise that claim.
     
-    Compare: 1993 No 91 [s 43][245]
+    Compare: 1993 No 91 [s 43][246]
 
 ##### 136 Application of law relating to illegal contracts
     
@@ -2839,7 +2851,7 @@ Miscellaneous provisions
     
 *   (1) If this Act does not apply to a credit contract, hire purchase agreement, or guarantee made before the commencement of this section, or to any act, omission, right, interest, title, immunity, or duty in connection with that contract, agreement, or guarantee, then the Credit Contracts Act 1981 and the Hire Purchase Act 1971 continue to apply to the contract, agreement, or guarantee or to the act, omission, right, interest, title, immunity, or duty as if they were still in force.
     
-    (2) For the purposes of subsection (1), Part 2 of [Schedule 1][246] of the Disputes Tribunals Act 1988 is to be read as if it includes references to the Credit Contracts Act 1981 and the Hire Purchase Act 1971\.
+    (2) For the purposes of subsection (1), Part 2 of [Schedule 1][247] of the Disputes Tribunals Act 1988 is to be read as if it includes references to the Credit Contracts Act 1981 and the Hire Purchase Act 1971\.
     
     (2A) The references in subsection (1) to the Credit Contracts Act 1981 and the Hire Purchase Act 1971 are references to those Acts as in force immediately before the commencement of this section, except that references in section 45A of the Credit Contracts Act 1981 and section 47A of the Hire Purchase Act 1971 to $7,500 and $12,000 must be treated as references to $15,000 and $20,000 respectively.
     
@@ -3181,75 +3193,75 @@ Acts amended
 
 ##### Administration Act 1969 (1969 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][247]_.
+_Amendment(s) incorporated in the [Act(s)][248]_.
 
 ##### Bills of Exchange Act 1908 (1908 No 15)
 
-_Amendment(s) incorporated in the [Act(s)][248]_.
+_Amendment(s) incorporated in the [Act(s)][249]_.
 
 ##### Consumer Guarantees Act 1993 (1993 No 91)
 
-_Amendment(s) incorporated in the [Act(s)][249]_.
+_Amendment(s) incorporated in the [Act(s)][250]_.
 
 ##### Contractual Remedies Act 1979 (1979 No 11)
 
-_Amendment(s) incorporated in the [Act(s)][250]_.
+_Amendment(s) incorporated in the [Act(s)][251]_.
 
 ##### Credit (Repossession) Act 1997 (1997 No 85)
 
-_Amendment(s) incorporated in the [Act(s)][251]_.
+_Amendment(s) incorporated in the [Act(s)][252]_.
 
 ##### Department of Justice (Restructuring) Act 1995 (1995 No 39)
 
-_Amendment(s) incorporated in the [Act(s)][252]_.
+_Amendment(s) incorporated in the [Act(s)][253]_.
 
 ##### Disputes Tribunals Act 1988 (1988 No 110)
 
-_Amendment(s) incorporated in the [Act(s)][253]_.
+_Amendment(s) incorporated in the [Act(s)][254]_.
 
 ##### Disputes Tribunals Amendment Act 1998 (1998 No 84)
 
-_Amendment(s) incorporated in the [Act(s)][254]_.
+_Amendment(s) incorporated in the [Act(s)][255]_.
 
 ##### District Courts Amendment Act 1979 (1979 No 125)
 
-_Amendment(s) incorporated in the [Act(s)][255]_.
+_Amendment(s) incorporated in the [Act(s)][256]_.
 
 ##### District Courts Amendment Act 1991 (1991 No 61)
 
-_Amendment(s) incorporated in the [Act(s)][256]_.
+_Amendment(s) incorporated in the [Act(s)][257]_.
 
 ##### Door to Door Sales Act 1967 (1967 No 126)
 
-_Amendment(s) incorporated in the [Act(s)][257]_.
+_Amendment(s) incorporated in the [Act(s)][258]_.
 
 ##### Fencing of Swimming Pools Act 1987 (1987 No 178)
 
-_Amendment(s) incorporated in the [Act(s)][258]_.
+_Amendment(s) incorporated in the [Act(s)][259]_.
 
 ##### Finance Act 1941 (1941 No 4)
 
-_Amendment(s) incorporated in the [Act(s)][259]_.
+_Amendment(s) incorporated in the [Act(s)][260]_.
 
 ##### Finance Act 1986 (1986 No 134)
 
-_Amendment(s) incorporated in the [Act(s)][260]_.
+_Amendment(s) incorporated in the [Act(s)][261]_.
 
 ##### Goods and Services Tax Act 1985 (1985 No 141)
 
-_Amendment(s) incorporated in the [Act(s)][261]_.
+_Amendment(s) incorporated in the [Act(s)][262]_.
 
 ##### Income Tax Act 1994 (1994 No 164)
 
-_Amendment(s) incorporated in the [Act(s)][262]_.
+_Amendment(s) incorporated in the [Act(s)][263]_.
 
 ##### Insolvency Act 1967 (1967 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][263]_.
+_Amendment(s) incorporated in the [Act(s)][264]_.
 
 ##### Layby Sales Act 1971 (1971 No 80)
 
-_Amendment(s) incorporated in the [Act(s)][264]_.
+_Amendment(s) incorporated in the [Act(s)][265]_.
 
 ##### Motor Vehicle Dealers Act 1975 (1975 No 127)
 
@@ -3257,89 +3269,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Motor Vehicle Sales Act 2003 (2003 No 12)
 
-_Amendment(s) incorporated in the [Act(s)][265]_.
+_Amendment(s) incorporated in the [Act(s)][266]_.
 
 ##### Sentencing Act 2002 (2002 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][266]_.
+_Amendment(s) incorporated in the [Act(s)][267]_.
 
 ##### Social Security Act 1964 (1964 No 136)
 
-_Amendment(s) incorporated in the [Act(s)][267]_.
+_Amendment(s) incorporated in the [Act(s)][268]_.
 
 ##### Superannuation Schemes Act 1989 (1989 No 10)
 
-_Amendment(s) incorporated in the [Act(s)][268]_.
-
----
-
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][269].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][270] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
+_Amendment(s) incorporated in the [Act(s)][269]_.
 
 ---
 
@@ -3357,23 +3299,23 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Credit Contracts and Consumer Finance Act 2003\. The reprint incorporates all the amendments to the Act as at 24 October 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Credit Contracts and Consumer Finance Act 2003\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][271] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][270] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][272] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][271] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][273] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][272] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][274] and [17E][275] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][273] and [17E][274] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -3404,9 +3346,11 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Credit Contracts and Consumer Finance (International Co-operation) Amendment Act 2012][276] (2012 No 85)
+*   [Credit Contracts and Consumer Finance (International Co-operation) Amendment Act 2012][275] (2012 No 85)
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 314][240]
+    Search and Surveillance Act 2012 (2012 No 24): [section 314][241]
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][220]
     
     Student Loan Scheme Act 2011 (2011 No 62): [sections 222][196], [223][197]
     
@@ -3420,9 +3364,9 @@ Amendments, repeals, and miscellaneous provisions
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][202]
     
-    Crown Entities Act 2004 (2004 No 115): [section 200][239]
+    Crown Entities Act 2004 (2004 No 115): [section 200][240]
     
-    Supreme Court Act 2003 (2003 No 53): [section 48(1)][222]
+    Supreme Court Act 2003 (2003 No 53): [section 48(1)][223]
 
 
 
@@ -3646,60 +3590,59 @@ Amendments, repeals, and miscellaneous provisions
 [217]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89493
 [218]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM314307
 [219]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM96990
-[220]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM311191
-[221]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM327394
-[222]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM214522
-[223]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM88206
-[224]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89496
-[225]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89917
-[226]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89919
-[227]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89932
-[228]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89937
-[229]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM4854102
-[230]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89944
-[231]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89946
-[232]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89948
-[233]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89950
-[234]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89951
-[235]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89955
-[236]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89961
-[237]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89967
-[238]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89981
-[239]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM331111
-[240]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM2137101
-[241]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM4484206
-[242]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM310742
-[243]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM137810
-[244]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM96908
-[245]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM312859
-[246]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM134172
-[247]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM392629
-[248]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM137885
-[249]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM311052
-[250]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM31565
-[251]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM414112
-[252]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM367258
-[253]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM133281
-[254]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM428173
-[255]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM35051
-[256]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM230232
-[257]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM384193
-[258]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM124447
-[259]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM230336
-[260]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM100546
-[261]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM81045
-[262]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM1184504
-[263]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM382505
-[264]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM405319
-[265]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM188116
-[266]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM135341
-[267]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM362802
-[268]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM143291
-[269]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM2136500
-[270]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM4686448
-[271]: http://www.pco.parliament.govt.nz/reprints/
-[272]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM195439
-[273]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[274]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM195468
-[275]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM195470
-[276]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM4484200
+[220]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM3360714
+[221]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM3360067
+[222]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM327394
+[223]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM214522
+[224]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM88206
+[225]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89496
+[226]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89917
+[227]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89919
+[228]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89932
+[229]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89937
+[230]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM4854102
+[231]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89944
+[232]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89946
+[233]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89948
+[234]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89950
+[235]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89951
+[236]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89955
+[237]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89961
+[238]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89967
+[239]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM89981
+[240]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM331111
+[241]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM2137101
+[242]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM4484206
+[243]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM3359902
+[244]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM137810
+[245]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM96908
+[246]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM312859
+[247]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM134172
+[248]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM392629
+[249]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM137885
+[250]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM311052
+[251]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM31565
+[252]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM414112
+[253]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM367258
+[254]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM133281
+[255]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM428173
+[256]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM35051
+[257]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM230232
+[258]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM384193
+[259]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM124447
+[260]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM230336
+[261]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM100546
+[262]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM81045
+[263]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM1184504
+[264]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM382505
+[265]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM405319
+[266]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM188116
+[267]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM135341
+[268]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM362802
+[269]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM143291
+[270]: http://www.pco.parliament.govt.nz/reprints/
+[271]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM195439
+[272]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[273]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM195468
+[274]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM195470
+[275]: http://www.legislation.govt.nz/act/public/2003/0052/latest/link.aspx?id=DLM4484200
