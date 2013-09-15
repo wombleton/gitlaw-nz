@@ -1,7 +1,7 @@
 Reprint  
-as at 2 July 1996
+as at 5 August 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Intelligence and Security Committee Act 1996Public Act1996 No 46
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Department of the Prime Minister and Cabinet.
 
@@ -25,49 +25,49 @@ This Act is administered by the Department of the Prime Minister and Cabinet.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Definition of sensitive information][4]
+[3][4][][4][Definition of sensitive information][4]
 
-[4][5] [Act to bind the Crown][5]
+[4][5][][5][Act to bind the Crown][5]
 
 [Intelligence and Security Committee][6]
 
-[5][7] [Intelligence and Security Committee][7]
+[5][7][][7][Intelligence and Security Committee][7]
 
-[6][8] [Functions of Committee][8]
+[6][8][][8][Functions of Committee][8]
 
-[7][9] [Membership of Committee][9]
+[7][9][][9][Membership of Committee][9]
 
-[8][10] [Endorsement of nominated members][10]
+[8][10][][10][Endorsement of nominated members][10]
 
-[9][11] [Revocation of nomination][11]
+[9][11][][11][Revocation of nomination][11]
 
-[10][12] [Suspension and cessation of membership][12]
+[10][12][][12][Suspension and cessation of membership][12]
 
-[11][13] [Extraordinary vacancies][13]
+[11][13][][13][Extraordinary vacancies][13]
 
-[12][14] [Conduct of proceedings][14]
+[12][14][][14][Conduct of proceedings][14]
 
-[13][15] [Meetings of Committee][15]
+[13][15][][15][Meetings of Committee][15]
 
-[14][16] [Attendance before Committee][16]
+[14][16][][16][Attendance before Committee][16]
 
-[15][17] [Judicial proceedings][17]
+[15][17][][17][Judicial proceedings][17]
 
-[16][18] [Privilege][18]
+[16][18][][18][Privilege][18]
 
 [Disclosure of information][19]
 
-[17][20] [Provision of information to Committee][20]
+[17][20][][20][Provision of information to Committee][20]
 
-[18][21] [Restrictions on reports to House of Representatives][21]
+[18][21][][21][Restrictions on reports to House of Representatives][21]
 
-[19][22] [Secrecy][22]
+[19][22][][22][Secrecy][22]
 
-[20][23] [Offences][23]
+[20][23][][23][Offences][23]
 
 ---
 
@@ -115,7 +115,9 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     (2) The Governor-General may from time to time by Order in Council declare any agency to be an intelligence and security agency for the purposes of this Act.
     
-    (3) Every Order in Council made under subsection (2) shall be deemed to be a regulation for the purposes of the [Acts and Regulations Publication Act 1989][26] and the [Regulations (Disallowance) Act 1989][27].
+    (3) An Order in Council made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][26] and must be presented to the House of Representatives under [section 41][27] of that Act.
+    
+    Section 2(3): replaced, on 5 August 2013, by [section 77(3)][28] of the Legislation Act 2012 (2012 No 119).
 
 ##### 3 Definition of sensitive information
     
@@ -179,7 +181,7 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     (2) The functions of the Committee do not include---
         
-    *   (a) inquiring into any matter within the jurisdiction of the Inspector-General of Intelligence and Security appointed under [section 5][28] of the Inspector-General of Intelligence and Security Act 1996; or
+    *   (a) inquiring into any matter within the jurisdiction of the Inspector-General of Intelligence and Security appointed under [section 5][29] of the Inspector-General of Intelligence and Security Act 1996; or
     
     *   (b) inquiring into any matter that is operationally sensitive, including any matter that relates to intelligence collection and production methods or sources of information; or
     
@@ -305,7 +307,7 @@ An Act to increase the level of oversight and review of intelligence and securit
 
 ##### 16 Privilege
     
-*   (1) The proceedings of the Committee shall be deemed to be proceedings in Parliament for the purposes of Article 9 of the [Bill of Rights 1688][29].
+*   (1) The proceedings of the Committee shall be deemed to be proceedings in Parliament for the purposes of Article 9 of the [Bill of Rights 1688][30].
     
     (2) Anything said or any information supplied or any document, paper, or thing produced by any person in the course of any inquiry or proceedings of the Committee under this Act shall be privileged in the same manner as if the inquiry or proceedings were proceedings of the House of Representatives.
 
@@ -399,80 +401,41 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     *   (b) make use of any such information.
     
-    (2) Every person commits an offence and shall be liable on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine not exceeding $10,000 or to both who acts in contravention of [section 19][22] or subsection (1).
+    (2) Every person commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $10,000 or to both who acts in contravention of [section 19][22] or subsection (1).
     
     (3) No prosecution for an offence against this section shall be commenced except with the leave of the Attorney-General.
     
-    (4) _Amendment(s) incorporated in the [Act(s)][30]._
-
----
-
-#### Contents
+    (4) _Amendment(s) incorporated in the [Act(s)][31]._
     
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+    Section 20(2): amended, on 1 July 2013, by [section 413][32] of the Criminal Procedure Act 2011 (2011 No 81).
+
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Intelligence and Security Committee Act 1996\. The reprint incorporates all the amendments to the Act as at 2 July 1996, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][31] ![](/images/external_link.gif).
+*   This is a reprint of the Intelligence and Security Committee Act 1996 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][32] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][33] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][34] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][33] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][35] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][36] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][34] and [17E][35] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][28]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][32]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392244
 [2]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392246
 [3]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392247
@@ -498,13 +461,14 @@ An Act to increase the level of oversight and review of intelligence and securit
 [23]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392282
 [24]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM391605
 [25]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM391803
-[26]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM195408
-[27]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM195545
-[28]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM392519
-[29]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM10992
-[30]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM314314
-[31]: http://www.pco.parliament.govt.nz/reprints/
-[32]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM195439
-[33]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[34]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM195468
-[35]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM195470
+[26]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM2997643
+[27]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM2998573
+[28]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM2998633
+[29]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM392519
+[30]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM10992
+[31]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM314314
+[32]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM3360714
+[33]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM2998516
+[34]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM2998515
+[35]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM2998532
+[36]: http://www.pco.parliament.govt.nz/editorial-conventions/
