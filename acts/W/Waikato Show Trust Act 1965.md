@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 1997
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -212,7 +212,9 @@ An Act to constitute and incorporate the Waikato Show Trust Board and to declare
 
 ##### 17 Penalty
     
-*   Every person who commits any breach of any bylaw under this Act is liable to a fine not exceeding 5 pounds and shall also be liable to pay damages in respect of any injury done by such person. All fines and damages may be recovered in a summary way, and when so recovered shall be paid without deduction to the Trust Board.
+*   Every person who commits any breach of any bylaw under this Act is liable on conviction to a fine not exceeding 5 pounds and shall also be liable to pay damages in respect of any injury done by such person. All fines and damages may be recovered in accordance with [Part 3][32] of the Summary Proceedings Act 1957, and when so recovered shall be paid without deduction to the Trust Board.
+    
+    Section 17: amended, on 1 July 2013, by [section 413][33] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 18 Repeal
     
@@ -241,47 +243,27 @@ All those pieces of land containing Firstly, sixty-three (63) acres eight decima
 ## Schedule 2  
 Board of Control: Constitution and delegated powers
 
-##### 1
-    
-*   The Board of Control shall consist of 9 persons of whom the Trust Board shall nominate 3 and the 2 constituent associations 3 each. At the expiration of 3 years computed as from the date of the passing of this Act and annually thereafter 1 member from each of the 3 groups shall retire but shall be eligible for renomination. The order of retirement in each group shall be governed by length of service but in cases where this presents difficulty of application ballot shall be resorted to, it being the intention of this Act that each nominee shall hold office continuously for at least 3 years before being required to retire.
+*   1 The Board of Control shall consist of 9 persons of whom the Trust Board shall nominate 3 and the 2 constituent associations 3 each. At the expiration of 3 years computed as from the date of the passing of this Act and annually thereafter 1 member from each of the 3 groups shall retire but shall be eligible for renomination. The order of retirement in each group shall be governed by length of service but in cases where this presents difficulty of application ballot shall be resorted to, it being the intention of this Act that each nominee shall hold office continuously for at least 3 years before being required to retire.
 
-##### 2
-    
-*   In the event of the Trust Board or either constituent association passing a resolution to the effect that any 1 or more of the persons nominated by any of them respectively no longer enjoy the confidence of the Trust Board or either constituent association, as the case may be, then the Board of Control, upon the receipt of a copy of such resolution and upon being satisfied that there are good and sufficient grounds for such resolution, may declare the seat or seats of the member or members affected to be vacant and such vacancies shall be deemed to be casual within the meaning of the next succeeding paragraph.
+*   2 In the event of the Trust Board or either constituent association passing a resolution to the effect that any 1 or more of the persons nominated by any of them respectively no longer enjoy the confidence of the Trust Board or either constituent association, as the case may be, then the Board of Control, upon the receipt of a copy of such resolution and upon being satisfied that there are good and sufficient grounds for such resolution, may declare the seat or seats of the member or members affected to be vacant and such vacancies shall be deemed to be casual within the meaning of the next succeeding paragraph.
 
-##### 3
-    
-*   In the event of a casual vacancy arising by reason of the death, resignation, refusal to act, or retirement from any cause, of a member of the Board of Control then the body by whom such member was nominated shall fill the vacancy so created and may do so immediately or at any time thereafter.
+*   3 In the event of a casual vacancy arising by reason of the death, resignation, refusal to act, or retirement from any cause, of a member of the Board of Control then the body by whom such member was nominated shall fill the vacancy so created and may do so immediately or at any time thereafter.
 
-##### 4
-    
-*   The members of the Board of Control shall from time to time appoint a Chairman, who shall preside at all meetings. Except with the consent of all the nominees for the time being of the Trust Board, the Chairman shall be one of such nominees. In case of the absence of the Chairman from any meeting the members then present shall appoint a Chairman for that meeting, who shall be one of the nominees for the time being of the Trust Board, if any such nominee or nominees is or are present at such meeting.
+*   4 The members of the Board of Control shall from time to time appoint a Chairman, who shall preside at all meetings. Except with the consent of all the nominees for the time being of the Trust Board, the Chairman shall be one of such nominees. In case of the absence of the Chairman from any meeting the members then present shall appoint a Chairman for that meeting, who shall be one of the nominees for the time being of the Trust Board, if any such nominee or nominees is or are present at such meeting.
 
-##### 5
-    
-*   The Board of Control shall meet for the dispatch of business as often as it shall deem necessary. It shall be the duty of the Chairman to convene a meeting upon receiving a requisition in writing from any 3 members.
+*   5 The Board of Control shall meet for the dispatch of business as often as it shall deem necessary. It shall be the duty of the Chairman to convene a meeting upon receiving a requisition in writing from any 3 members.
     
     If the Chairman is for any reason not available or fails forthwith upon receipt of such requisition to convene a meeting, then any 3 members may themselves convene a meeting. The Chairman shall also have the right to convene a meeting at any time.
 
-##### 6
-    
-*   Except in the case of what in the opinion of the Chairman is an emergency meeting, not less than 3 days' notice of any meeting shall be given. Notice of any meeting shall be given by post unless the Chairman is of opinion that it is not reasonably practicable so to do. Any notice given by post shall be deemed to have been received by the member to whom it was addressed at the time when such notice would ordinarily be delivered in the ordinary course of post and shall be deemed sufficiently given if addressed to the member concerned at his address last known to the Chairman of the Board of Control. It shall not be necessary for any such notice to give particulars of the business intended to be transacted at the meeting.
+*   6 Except in the case of what in the opinion of the Chairman is an emergency meeting, not less than 3 days' notice of any meeting shall be given. Notice of any meeting shall be given by post unless the Chairman is of opinion that it is not reasonably practicable so to do. Any notice given by post shall be deemed to have been received by the member to whom it was addressed at the time when such notice would ordinarily be delivered in the ordinary course of post and shall be deemed sufficiently given if addressed to the member concerned at his address last known to the Chairman of the Board of Control. It shall not be necessary for any such notice to give particulars of the business intended to be transacted at the meeting.
 
-##### 7
-    
-*   At all meetings of the Board of Control 5 shall form a quorum, and the Chairman shall have a casting as well as a deliberative vote. Every matter shall be determined by a majority.
+*   7 At all meetings of the Board of Control 5 shall form a quorum, and the Chairman shall have a casting as well as a deliberative vote. Every matter shall be determined by a majority.
 
-##### 8
-    
-*   During the continuance of the trusts set out in subsection (1) of [section 7][9], and save as otherwise expressly provided to the contrary by this Act, the custody, management, and control of the Trust property shall, as from the passing of the Act, be vested in the Board of Control.
+*   8 During the continuance of the trusts set out in subsection (1) of section 7, and save as otherwise expressly provided to the contrary by this Act, the custody, management, and control of the Trust property shall, as from the passing of the Act, be vested in the Board of Control.
 
-##### 9
-    
-*   Without limiting the rights and powers of the Board of Control, as custodians, managers, and controllers of the Trust property, it is hereby declared that the primary duty and function of the Board of Control is to use and administer the lands from time to time comprised in the Trust property and the grandstand, buildings, structures, fences, and appointments from time to time within, upon, or about the said lands (herein referred to as the **showgrounds**) to the best advantage of the 2 constituent associations and to maintain and care for the showgrounds for such purposes.
+*   9 Without limiting the rights and powers of the Board of Control, as custodians, managers, and controllers of the Trust property, it is hereby declared that the primary duty and function of the Board of Control is to use and administer the lands from time to time comprised in the Trust property and the grandstand, buildings, structures, fences, and appointments from time to time within, upon, or about the said lands (herein referred to as the showgrounds) to the best advantage of the 2 constituent associations and to maintain and care for the showgrounds for such purposes.
 
-##### 10
-    
-*   In the succeeding clauses of this schedule:
+*   10 In the succeeding clauses of this schedule:
         
     *   (a) the expression _current liabilities_ means all liabilities of the Trust Board which from time to time have fallen due for payment but are unpaid, saving only any liability for the repayment of the principal moneys comprised in any loan of moneys:
     
@@ -289,35 +271,21 @@ Board of Control: Constitution and delegated powers
     
     
 
-##### 11
-    
-*   The Board of Control shall punctually pay and discharge the current liabilities of the Trust Board, and except as may otherwise be specially arranged between the Trust Board and the Board of Control shall for that purpose use only the current assets of the Trust Board save and except that the Board of Control may have recourse to such borrowing as is authorised by [paragraph 2][31] of Part 2 of Schedule 3 and to levying as provided in [paragraph 15][32]. The costs and disbursements incidental to the preparation and promotion of this Act shall be a liability of the Trust Board.
+*   11 The Board of Control shall punctually pay and discharge the current liabilities of the Trust Board, and except as may otherwise be specially arranged between the Trust Board and the Board of Control shall for that purpose use only the current assets of the Trust Board save and except that the Board of Control may have recourse to such borrowing as is authorised by paragraph 2 of Part 2 of Schedule 3 and to levying as provided in paragraph 15\. The costs and disbursements incidental to the preparation and promotion of this Act shall be a liability of the Trust Board.
 
-##### 12
-    
-*   Except with the previous consent of the Trust Board, the Board of Control shall exercise reasonable care not to incur any liability the discharge of which will probably involve recourse to the sale of land comprised in the Trust property or to the raising of money by the exercise of any borrowing powers (other than that conferred by [paragraph 2][31] of Part 2 of Schedule 3), or to any general reserve constituted for the time being under [paragraph 13][33].
+*   12 Except with the previous consent of the Trust Board, the Board of Control shall exercise reasonable care not to incur any liability the discharge of which will probably involve recourse to the sale of land comprised in the Trust property or to the raising of money by the exercise of any borrowing powers (other than that conferred by paragraph 2 of Part 2 of Schedule 3), or to any general reserve constituted for the time being under paragraph 13\.
 
-##### 13
-    
-*   If the Trust Board is at any time or times of the opinion, upon reasonable grounds, that any moneys or investments are not immediately required by the Board of Control for the payment of current liabilities, then the Trust Board may resolve that such moneys or investments be constituted a general reserve. It shall be the duty of the Board of Control to apply the moneys and investments comprised in the general reserve in or towards the payment of such liabilities of the Trust Board, whether current or otherwise, as the Trust Board may from time to time resolve, and it shall not be lawful for the Board of Control to expend any of such moneys otherwise than in pursuance of such a resolution. The Trust Board may at any time require the Board of Control to keep any moneys forming part of the general reserve in a separate bank account. The Trust Board may at any time resolve that any part of the general reserve shall cease to be part of the general reserve.
+*   13 If the Trust Board is at any time or times of the opinion, upon reasonable grounds, that any moneys or investments are not immediately required by the Board of Control for the payment of current liabilities, then the Trust Board may resolve that such moneys or investments be constituted a general reserve. It shall be the duty of the Board of Control to apply the moneys and investments comprised in the general reserve in or towards the payment of such liabilities of the Trust Board, whether current or otherwise, as the Trust Board may from time to time resolve, and it shall not be lawful for the Board of Control to expend any of such moneys otherwise than in pursuance of such a resolution. The Trust Board may at any time require the Board of Control to keep any moneys forming part of the general reserve in a separate bank account. The Trust Board may at any time resolve that any part of the general reserve shall cease to be part of the general reserve.
 
-##### 14
-    
-*   The Board of Control may at any time give an undertaking to the Trust Board to set aside and apply to any specific purpose any part of the revenues and/or levies received by it in carrying out its duty hereunder or any part of the current assets of the Trust Board, and it shall thereupon be the duty of the Board of Control to exercise reasonable care to carry out any such undertaking and any moneys so set aside shall not be applied to any other purpose except with the consent of the Trust Board.
+*   14 The Board of Control may at any time give an undertaking to the Trust Board to set aside and apply to any specific purpose any part of the revenues and/or levies received by it in carrying out its duty hereunder or any part of the current assets of the Trust Board, and it shall thereupon be the duty of the Board of Control to exercise reasonable care to carry out any such undertaking and any moneys so set aside shall not be applied to any other purpose except with the consent of the Trust Board.
 
-##### 15
-    
-*   During the annual Summer Show held by the Waikato Agricultural and Pastoral Association and the annual Winter Show held by the Waikato Winter Show Association the Board of Control shall delegate to the respective constituent association the exclusive use and management of the showgrounds, gates, and stands and the collection of the revenue therefrom and from the said show, whether by way of entrance fee paid by exhibitors, licence fees paid by sideshowmen, or otherwise, and the said constituent association shall during any such show in its absolute discretion admit or exclude from the showgrounds such persons upon such terms as it may think proper. The respective constituent associations may retain the proceeds from its said show and after payment of all accounts incurred therewith shall furnish to the Board of Control no later than 30 days after such show a profit and loss account showing the net profit (if any) arising therefrom and the said Board shall have power to levy the profits of the particular constituent association for the proper and efficient carrying out of the custody, control, and management of the showgrounds. In every case where such delegation of powers shall be made the constituent association acting thereunder shall be deemed to be the agent of the Trust Board and shall be accountable as such subject to the foregoing provisions of this paragraph.
+*   15 During the annual Summer Show held by the Waikato Agricultural and Pastoral Association and the annual Winter Show held by the Waikato Winter Show Association the Board of Control shall delegate to the respective constituent association the exclusive use and management of the showgrounds, gates, and stands and the collection of the revenue therefrom and from the said show, whether by way of entrance fee paid by exhibitors, licence fees paid by sideshowmen, or otherwise, and the said constituent association shall during any such show in its absolute discretion admit or exclude from the showgrounds such persons upon such terms as it may think proper. The respective constituent associations may retain the proceeds from its said show and after payment of all accounts incurred therewith shall furnish to the Board of Control no later than 30 days after such show a profit and loss account showing the net profit (if any) arising therefrom and the said Board shall have power to levy the profits of the particular constituent association for the proper and efficient carrying out of the custody, control, and management of the showgrounds. In every case where such delegation of powers shall be made the constituent association acting thereunder shall be deemed to be the agent of the Trust Board and shall be accountable as such subject to the foregoing provisions of this paragraph.
 
-##### 16
-    
-*   The Books of Accounts required by this Act to be kept by the Board of Control for and on behalf of the Trust Board shall be open to inspection by the 2 constituent associations at all reasonable times. The financial year of the Trust Board shall commence on 1 May every year and close on 30 April of the following year, and the Board of Control shall on or before 15 June in each year supply each of them, the Trust Board, and the 2 constituent associations with 3 copies of the annual report, statement of financial position, and profit and loss account covering the year just ended.
+*   16 The Books of Accounts required by this Act to be kept by the Board of Control for and on behalf of the Trust Board shall be open to inspection by the 2 constituent associations at all reasonable times. The financial year of the Trust Board shall commence on 1 May every year and close on 30 April of the following year, and the Board of Control shall on or before 15 June in each year supply each of them, the Trust Board, and the 2 constituent associations with 3 copies of the annual report, statement of financial position, and profit and loss account covering the year just ended.
     
     Schedule 2 clause 16: amended, on 1 October 1997, pursuant to [section 6(1)][34] of the Financial Reporting Amendment Act 1997 (1997 No 17).
 
-##### 17
-    
-*   All questions, disputes, and differences whatsoever which may at any time or times hereafter arise between the Trust Board, the Board of Control, the Waikato Agricultural and Pastoral Association, and the Waikato Winter Show Association or any 2 or more of them, concerning the proper meaning and construction of any paragraph of this schedule, or any of them (with any variations, modifications, or additions made thereto from time to time) or concerning the rights or obligations of any of them under such paragraphs, or any of them, shall be referred to arbitration in accordance with the Arbitration Act 1908 or any amendment thereto or re-enactment thereof for the time being in force. Any reference to arbitration under this paragraph of this schedule shall be to a single arbitrator to be agreed to by all parties to the dispute or difference. In the event of the parties failing to agree upon the appointment of an arbitrator within 7 days after any party to the dispute or difference has called upon the other party or parties by notice in writing to agree upon the appointment of a person named in such notice then any party to the dispute or difference may apply to the President for the time being of the Hamilton District Law Society who may thereupon appoint an arbitrator who shall have the like powers to act in the reference and make an award as if he had been appointed by consent of all parties.
+*   17 All questions, disputes, and differences whatsoever which may at any time or times hereafter arise between the Trust Board, the Board of Control, the Waikato Agricultural and Pastoral Association, and the Waikato Winter Show Association or any 2 or more of them, concerning the proper meaning and construction of any paragraph of this schedule, or any of them (with any variations, modifications, or additions made thereto from time to time) or concerning the rights or obligations of any of them under such paragraphs, or any of them, shall be referred to arbitration in accordance with the Arbitration Act 1908 or any amendment thereto or re-enactment thereof for the time being in force. Any reference to arbitration under this paragraph of this schedule shall be to a single arbitrator to be agreed to by all parties to the dispute or difference. In the event of the parties failing to agree upon the appointment of an arbitrator within 7 days after any party to the dispute or difference has called upon the other party or parties by notice in writing to agree upon the appointment of a person named in such notice then any party to the dispute or difference may apply to the President for the time being of the Hamilton District Law Society who may thereupon appoint an arbitrator who shall have the like powers to act in the reference and make an award as if he had been appointed by consent of all parties.
 
 ---
 
@@ -457,7 +425,7 @@ Powers of the Trust Board which during the continuance of the trusts set forth i
 
 ###### 1 General
     
-*   This is a reprint of the Waikato Show Trust Act 1965\. The reprint incorporates all the amendments to the Act as at 1 October 1997, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Waikato Show Trust Act 1965\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][40] ![](/images/external_link.gif).
 
@@ -504,7 +472,9 @@ Powers of the Trust Board which during the continuance of the trusts set forth i
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][34]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][33]
+    
+    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][34]
     
     Protection of Personal and Property Rights Act 1988 (1988 No 4): [section 113][39]
 
@@ -542,8 +512,8 @@ Powers of the Trust Board which during the continuance of the trusts set forth i
 [29]: http://www.legislation.govt.nz/act/private/1965/0003/latest/whole.html#DLM105051
 [30]: http://www.legislation.govt.nz/act/private/1965/0003/latest/whole.html#DLM105059
 [31]: http://www.legislation.govt.nz/act/private/1965/0003/latest/whole.html#DLM105053
-[32]: http://www.legislation.govt.nz/act/private/1965/0003/latest/whole.html#DLM105020
-[33]: http://www.legislation.govt.nz/act/private/1965/0003/latest/whole.html#DLM105018
+[32]: http://www.legislation.govt.nz/act/private/1965/0003/latest/link.aspx?id=DLM311863
+[33]: http://www.legislation.govt.nz/act/private/1965/0003/latest/link.aspx?id=DLM3360714
 [34]: http://www.legislation.govt.nz/act/private/1965/0003/latest/link.aspx?id=DLM408960
 [35]: http://www.legislation.govt.nz/act/private/1965/0003/latest/whole.html#DLM105029
 [36]: http://www.legislation.govt.nz/act/private/1965/0003/latest/whole.html#DLM105032
