@@ -1,5 +1,5 @@
 Reprint  
-as at 30 June 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1001,13 +1001,15 @@ General administration
     
     (2) Subject to any general or special directions given by the Board, the Commissioner may delegate to any officer of the department any of the powers set out in the last preceding subsection. The provisions of subsections (3), (4), (5), and (6) of [section 15][21] shall apply, with the necessary modifications, to any delegation by the Commissioner under this subsection.
     
-    (3) All actions and proceedings by or on behalf of Her Majesty respecting Crown land within any district or respecting any contract relating thereto, or any breach of any such contract, or any trespass thereon, or any damages accruing by reason of trespass thereon, or for the recovery of any rents, purchase moneys, or other moneys in respect of Crown land, or in respect of any damages or wrongs whatsoever in any way suffered by the Crown in respect of Crown land, and any proceedings for the breach of any provision of this Act, may be commenced, prosecuted, and carried on by and in the name of the Commissioner on behalf of Her Majesty, and the Commissioner may be plaintiff, or defendant, or informant, as the case may require, in any such action or proceeding.
+    (3) All actions and proceedings by or on behalf of Her Majesty respecting Crown land within any district or respecting any contract relating thereto, or any breach of any such contract, or any trespass thereon, or any damages accruing by reason of trespass thereon, or for the recovery of any rents, purchase moneys, or other moneys in respect of Crown land, or in respect of any damages or wrongs whatsoever in any way suffered by the Crown in respect of Crown land, and any proceedings for the breach of any provision of this Act, may be commenced, prosecuted, and carried on by and in the name of the Commissioner on behalf of Her Majesty, and the Commissioner may be plaintiff, or defendant, or prosecutor, as the case may require, in any such action or proceeding.
     
     (4) All documents which require to be executed for the purposes of this Act by or on behalf of Her Majesty, or by or on behalf of the Board, may, unless otherwise provided by this Act, be executed by the Commissioner and, if so executed, shall be as valid and effectual as if executed by or on behalf of Her Majesty, or by or on behalf of the Board, as the case may be.
     
     Compare: 1924 No 31 ss 34, 35
     
     Section 24(1)(e): amended, on 1 January 2008, by [section 364(1)][284] of the Property Law Act 2007 (2007 No 91).
+    
+    Section 24(3): amended, on 1 July 2013, by [section 413][285] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 25 Recovery of possession of Crown land
     
@@ -1017,15 +1019,15 @@ General administration
     
     (3) If possession is not given pursuant to that order, the District Court Judge or any Justice may issue a warrant requiring the bailiff of the court, or any constable, to give possession of those lands to the plaintiff.
     
-    (4) The provisions of [sections 99][285], and [100][286], and of subsection (3) of [section 101][287] of the District Courts Act 1947 shall apply to any proceedings under this section.
+    (4) The provisions of [sections 99][286], and [100][287], and of subsection (3) of [section 101][288] of the District Courts Act 1947 shall apply to any proceedings under this section.
     
     Compare: 1924 No 31 s 36
     
-    Section 25(1): amended, on 1 April 1980, pursuant to [section 18(2)][288] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 25(1): amended, on 1 April 1980, pursuant to [section 18(2)][289] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 25(3): amended, on 1 April 1980, pursuant to [section 18(2)][288] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 25(3): amended, on 1 April 1980, pursuant to [section 18(2)][289] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 25(4): amended, on 1 April 1980, pursuant to [section 2(3)][289] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 25(4): amended, on 1 April 1980, pursuant to [section 2(3)][290] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 26 Inspection of Crown land
     
@@ -1073,17 +1075,17 @@ General administration
     
     Compare: 1925 No 15 s 45
     
-    Section 28 heading: amended, on 25 January 2005, pursuant to [section 83(7)][290] of the Public Finance Act 1989 (1989 No 44).
+    Section 28 heading: amended, on 25 January 2005, pursuant to [section 83(7)][291] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 28(1): amended, on 25 January 2005, pursuant to [section 83(7)][290] of the Public Finance Act 1989 (1989 No 44).
+    Section 28(1): amended, on 25 January 2005, pursuant to [section 83(7)][291] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 28(1)(aa): inserted, on 21 November 1977, by [section 4(2)][291] of the Land Amendment Act 1977 (1977 No 51).
+    Section 28(1)(aa): inserted, on 21 November 1977, by [section 4(2)][292] of the Land Amendment Act 1977 (1977 No 51).
     
     Section 28(1)(e): repealed, on 1 April 1978, by section 139(1) of the Public Finance Act 1977 (1977 No 65).
     
     Section 28(1)(f): repealed, on 1 April 1978, by section 139(1) of the Public Finance Act 1977 (1977 No 65).
     
-    Section 28(2): amended, on 25 January 2005, pursuant to [section 83(7)][290] of the Public Finance Act 1989 (1989 No 44).
+    Section 28(2): amended, on 25 January 2005, pursuant to [section 83(7)][291] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 29 Payments into Crown Bank Account
     
@@ -1091,9 +1093,9 @@ General administration
     
     Compare: 1924 No 31 s 20; 1929 No 8 s 8
     
-    Section 29 heading: amended, on 25 January 2005, pursuant to [section 83(7)][290] of the Public Finance Act 1989 (1989 No 44).
+    Section 29 heading: amended, on 25 January 2005, pursuant to [section 83(7)][291] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 29: amended, on 25 January 2005, pursuant to [section 83(7)][290] of the Public Finance Act 1989 (1989 No 44).
+    Section 29: amended, on 25 January 2005, pursuant to [section 83(7)][291] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 30 Adjustments on change of status of land
     
@@ -1113,7 +1115,7 @@ General administration
     
     Compare: 1927 No 33 s 4
     
-    Section 32: amended, on 25 January 2005, pursuant to [section 83(7)][290] of the Public Finance Act 1989 (1989 No 44).
+    Section 32: amended, on 25 January 2005, pursuant to [section 83(7)][291] of the Public Finance Act 1989 (1989 No 44).
 
 ## Part 2  
 Surveys
@@ -1195,7 +1197,7 @@ Purchase and development of land
     
     (4) Where any private land is leased to the Board pursuant to this section, the Board shall, subject to the terms and conditions of the lease, have the powers in respect of the land that it would have if the land were Crown land.
     
-    Section 40A: inserted, on 21 November 1977, by [section 4(1)][291] of the Land Amendment Act 1977 (1977 No 51).
+    Section 40A: inserted, on 21 November 1977, by [section 4(1)][292] of the Land Amendment Act 1977 (1977 No 51).
 
 ##### 41 Trust lands may be sold to Crown
     
@@ -1215,13 +1217,13 @@ Purchase and development of land
 
 ##### 41A State housing land may be declared to be Crown land or set apart as reserves
     
-*   The Minister of Lands may from time to time, by notice in the _Gazette_, declare any land set apart for the purposes of [Part 1][292] of the Housing Act 1955 to be Crown land subject to this Act as from a date to be specified in the notice, which date may be the date of the notice or any date before or after the date of the notice, and as from the date so specified the land shall be deemed to be Crown land subject to this Act.
+*   The Minister of Lands may from time to time, by notice in the _Gazette_, declare any land set apart for the purposes of [Part 1][293] of the Housing Act 1955 to be Crown land subject to this Act as from a date to be specified in the notice, which date may be the date of the notice or any date before or after the date of the notice, and as from the date so specified the land shall be deemed to be Crown land subject to this Act.
     
     Section 41A: inserted (with effect on 1 April 1954), on 28 September 1954, by section 2(1) of the Land Amendment Act 1954 (1954 No 37).
     
-    Section 41A: amended, on 1 April 1988, pursuant to [section 3(2)][293] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
+    Section 41A: amended, on 1 April 1988, pursuant to [section 3(2)][294] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
     
-    Section 41A: amended, on 21 October 1955, pursuant to [section 42(1)][294] of the Housing Act 1955 (1955 No 51).
+    Section 41A: amended, on 21 October 1955, pursuant to [section 42(1)][295] of the Housing Act 1955 (1955 No 51).
 
 ##### 42 Cancellation of instruments of title
     
@@ -1235,13 +1237,13 @@ Purchase and development of land
     
     *   (d) any land set apart as a reserve under subsection (1A) of [section 167][229]---
     
-    comprises the whole of the land for which any instrument of title has been issued under the [Land Transfer Act 1952][295], the instrument of title shall be cancelled.
+    comprises the whole of the land for which any instrument of title has been issued under the [Land Transfer Act 1952][296], the instrument of title shall be cancelled.
     
-    (2) Where before the commencement of this Act any private land or Maori land has been purchased or acquired by the Crown for the purposes of any former Land Act and is subject to the [Land Transfer Act 1952][295] or to the [Deeds Registration Act 1908][296],---
+    (2) Where before the commencement of this Act any private land or Maori land has been purchased or acquired by the Crown for the purposes of any former Land Act and is subject to the [Land Transfer Act 1952][296] or to the [Deeds Registration Act 1908][297],---
         
-    *   (a) in the case of land that is, or was at the date of the purchase or acquisition, subject to the [Land Transfer Act 1952][295] or any former Land Transfer Act the District Land Registrar shall, on the written request of the Commissioner and on the surrender to the Registrar of any outstanding instrument of title in the name of the Crown, cancel the instrument of title:
+    *   (a) in the case of land that is, or was at the date of the purchase or acquisition, subject to the [Land Transfer Act 1952][296] or any former Land Transfer Act the District Land Registrar shall, on the written request of the Commissioner and on the surrender to the Registrar of any outstanding instrument of title in the name of the Crown, cancel the instrument of title:
     
-    *   (b) in the case of land that is, or was at the date of the purchase or acquisition, subject to the [Deeds Registration Act 1908][296] the Registrar of Deeds shall, on the written request of the Commissioner and on the surrender to the Registrar of the instrument of title by which the land was vested in the Crown and any earlier instruments of title affecting that land, cancel the instruments of title and the relative entries in the index book.
+    *   (b) in the case of land that is, or was at the date of the purchase or acquisition, subject to the [Deeds Registration Act 1908][297] the Registrar of Deeds shall, on the written request of the Commissioner and on the surrender to the Registrar of the instrument of title by which the land was vested in the Crown and any earlier instruments of title affecting that land, cancel the instruments of title and the relative entries in the index book.
     
     (3) Where any such land comprises part of the land for which any instrument of title has been issued, the instrument of title shall be cancelled so far as it relates to that part of the land. The District Land Registrar shall retain the partially cancelled instrument, and when required by the person entitled thereto shall issue to that person, without payment of any fee, a certificate of title for the balance of the land included in the partially cancelled instrument.
     
@@ -1255,7 +1257,7 @@ Purchase and development of land
     
     Section 42(1)(b): amended, on 1 January 1956, pursuant to [section 93(1)][264] of the Maori Reserved Land Act 1955 (1955 No 38).
     
-    Section 42(6): inserted, on 21 November 1977, by [section 4(3)][291] of the Land Amendment Act 1977 (1977 No 51).
+    Section 42(6): inserted, on 21 November 1977, by [section 4(3)][292] of the Land Amendment Act 1977 (1977 No 51).
 
 ##### 43 Unformed and unused roads
     
@@ -1277,15 +1279,15 @@ Purchase and development of land
     
     (4) The Board may carry on all usual farming activities on land developed or being developed under this section until the time is appropriate in the opinion of the Board for the disposal of the land on permanent tenure under this Act; and to this end, in addition to the powers set forth in the last 3 preceding subsections, may employ such managers, sharemilkers, and workmen, let any grazing, and generally enter into such contracts and do such things as in the opinion of the Board are necessary for the proper farming of the land.
     
-    (5) Where the Board, in the exercise of its powers under this section, has carried out any soil conservation work on Crown land without any grant or loan made by the Minister for the Environment pursuant to the provisions of [section 30][297] of the Soil Conservation and Rivers Control Act 1941, then, notwithstanding any provision of this Act or any other Act, the Board may, as a condition of alienation of the land, require any purchaser, lessee, or licensee to enter into a land improvement agreement, as if the soil conservation work had been carried out by a grant or loan by the Minister for the Environment under the said section 30, with the Catchment Board or Catchment Commission constituted under the Soil Conservation and Rivers Control Act 1941 for the district or area, as the case may be, wherein the land is situated, or with the Waikato Catchment Board constituted under the Waikato Valley Authority Act 1956 where the land is situated in the Waikato Valley as defined under that Act, for the future maintenance of that soil conservation work in such manner and upon such terms and conditions as the Board may require. All the provisions of [section 30A][298] of the Soil Conservation and Rivers Control Act 1941 relating to the form of registration and the effect of land improvement agreements, as far as they are applicable and with any necessary modifications, shall apply to any land improvement agreement entered into in accordance with the provisions of this subsection.
+    (5) Where the Board, in the exercise of its powers under this section, has carried out any soil conservation work on Crown land without any grant or loan made by the Minister for the Environment pursuant to the provisions of [section 30][298] of the Soil Conservation and Rivers Control Act 1941, then, notwithstanding any provision of this Act or any other Act, the Board may, as a condition of alienation of the land, require any purchaser, lessee, or licensee to enter into a land improvement agreement, as if the soil conservation work had been carried out by a grant or loan by the Minister for the Environment under the said section 30, with the Catchment Board or Catchment Commission constituted under the Soil Conservation and Rivers Control Act 1941 for the district or area, as the case may be, wherein the land is situated, or with the Waikato Catchment Board constituted under the Waikato Valley Authority Act 1956 where the land is situated in the Waikato Valley as defined under that Act, for the future maintenance of that soil conservation work in such manner and upon such terms and conditions as the Board may require. All the provisions of [section 30A][299] of the Soil Conservation and Rivers Control Act 1941 relating to the form of registration and the effect of land improvement agreements, as far as they are applicable and with any necessary modifications, shall apply to any land improvement agreement entered into in accordance with the provisions of this subsection.
     
     Compare: 1925 No 15 s 79; 1929 No 8 ss 6, 13
     
     Section 44(5): inserted, on 8 December 1971, by section 2 of the Land Amendment Act 1971 (1971 No 105).
     
-    Section 44(5): amended, on 1 April 1988, pursuant to [section 41(3)][299] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 44(5): amended, on 1 April 1988, pursuant to [section 41(3)][300] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
     
-    Section 44(5): amended, on 1 April 1988, pursuant to [section 52(1)][300] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 44(5): amended, on 1 April 1988, pursuant to [section 52(1)][301] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
 
 ##### 45 Joint preparation of land for settlement
     
@@ -1317,13 +1319,13 @@ Purchase and development of land
     
     (5) No lease granted under this section, whether by the Board or by the local authority, shall confer on the lessee any right of acquiring the fee simple of the land comprised therein.
     
-    (6) For the purposes of this section, the expression _local authority_ includes any public entity as defined in [section 4][301] of the Public Audit Act 2001\.
+    (6) For the purposes of this section, the expression _local authority_ includes any public entity as defined in [section 4][302] of the Public Audit Act 2001\.
     
     Compare: 1933 No 44 s 2
     
     Section 47(3): amended, on 1 September 1977, by [section 6(3)][270] of the Land Valuation Proceedings Amendment Act 1977 (1977 No 15).
     
-    Section 47(6): replaced, on 1 July 2001, by [section 53][302] of the Public Audit Act 2001 (2001 No 10).
+    Section 47(6): replaced, on 1 July 2001, by [section 53][303] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 48 Land held for government purpose may be developed or farmed or let on short tenancy
     
@@ -1335,13 +1337,13 @@ Purchase and development of land
     
     (3) No development or farming of any such land shall be undertaken and no lease or licence over the same shall be granted without the consent of the Minister for the time being vested with the control of the land and every such lease or licence shall be on such terms and conditions as that Minister approves.
     
-    (4) Every lease or licence granted under this section shall be drawn up and executed in the manner provided by [Part 5][117] as if the land were Crown land, but it shall not be necessary to register any such lease or licence under the [Land Transfer Act 1952][295], unless the Board in any case otherwise determines.
+    (4) Every lease or licence granted under this section shall be drawn up and executed in the manner provided by [Part 5][117] as if the land were Crown land, but it shall not be necessary to register any such lease or licence under the [Land Transfer Act 1952][296], unless the Board in any case otherwise determines.
     
-    (5) The District Land Registrar shall, if the lease or licence is produced to him for registration, register it in the manner provided in [Part 5][117] as if the land were Crown land, and likewise shall register all subsequent dealings with the lease or licence and all such subsequent dealings shall be subject to the provisions of [Part 5][117]. Where the Crown is the registered proprietor under a certificate of title under the [Land Transfer Act 1952][295] of the whole or part of the land in any lease or licence under this section, the lease or licence shall contain a reference to every certificate of title issued in respect of any land therein, and the District Land Registrar shall enter a memorial of the lease or licence and of all subsequent dealings with the lease or licence on every such certificate of title.
+    (5) The District Land Registrar shall, if the lease or licence is produced to him for registration, register it in the manner provided in [Part 5][117] as if the land were Crown land, and likewise shall register all subsequent dealings with the lease or licence and all such subsequent dealings shall be subject to the provisions of [Part 5][117]. Where the Crown is the registered proprietor under a certificate of title under the [Land Transfer Act 1952][296] of the whole or part of the land in any lease or licence under this section, the lease or licence shall contain a reference to every certificate of title issued in respect of any land therein, and the District Land Registrar shall enter a memorial of the lease or licence and of all subsequent dealings with the lease or licence on every such certificate of title.
     
     (6) The provisions of [section 85][123] as to rebates on payments shall not apply to any lease or licence granted under this section, unless the Board in any case otherwise determines.
     
-    Section 48(1): amended, on 5 December 1951, by [section 3(1)][303] of the Land Amendment Act 1951 (1951 No 60).
+    Section 48(1): amended, on 5 December 1951, by [section 3(1)][304] of the Land Amendment Act 1951 (1951 No 60).
     
     Section 48(2): replaced, on 1 December 1950, by section 4(1) of the Land Amendment Act 1950 (1950 No 96).
     
@@ -1349,15 +1351,15 @@ Purchase and development of land
     
     Section 48(3): amended, on 1 December 1950, by section 4(2)(b) of the Land Amendment Act 1950 (1950 No 96).
     
-    Section 48(4): inserted, on 5 December 1951, by [section 3(2)][303] of the Land Amendment Act 1951 (1951 No 60).
+    Section 48(4): inserted, on 5 December 1951, by [section 3(2)][304] of the Land Amendment Act 1951 (1951 No 60).
     
-    Section 48(4): amended, on 1 January 1953, pursuant to [section 245(1)][304] of the Land Transfer Act 1952 (1952 No 52).
+    Section 48(4): amended, on 1 January 1953, pursuant to [section 245(1)][305] of the Land Transfer Act 1952 (1952 No 52).
     
-    Section 48(5): inserted, on 5 December 1951, by [section 3(2)][303] of the Land Amendment Act 1951 (1951 No 60).
+    Section 48(5): inserted, on 5 December 1951, by [section 3(2)][304] of the Land Amendment Act 1951 (1951 No 60).
     
-    Section 48(5): amended, on 1 January 1953, pursuant to [section 245(1)][304] of the Land Transfer Act 1952 (1952 No 52).
+    Section 48(5): amended, on 1 January 1953, pursuant to [section 245(1)][305] of the Land Transfer Act 1952 (1952 No 52).
     
-    Section 48(6): inserted, on 5 December 1951, by [section 3(2)][303] of the Land Amendment Act 1951 (1951 No 60).
+    Section 48(6): inserted, on 5 December 1951, by [section 3(2)][304] of the Land Amendment Act 1951 (1951 No 60).
 
 ##### 49 Development and disposal of timber, flax, and minerals
     
@@ -1377,13 +1379,13 @@ Purchase and development of land
 
 ##### 50A Community water supply associations
     
-*   (1) Any 2 or more persons, being occupiers of land situated within a water area, may, by complying with the provisions of the [Companies Act 1993][305], as modified by this Act, form an incorporated association with limited liability under the name of ""The \[_distinctive name of association_\] Community Water Supply Association Limited"".
+*   (1) Any 2 or more persons, being occupiers of land situated within a water area, may, by complying with the provisions of the [Companies Act 1993][306], as modified by this Act, form an incorporated association with limited liability under the name of ""The \[_distinctive name of association_\] Community Water Supply Association Limited"".
     
-    (2) Every association shall be registered in the manner provided by the [Companies Act 1993][305] for the registration of companies and, subject to this section and the next 3 succeeding sections, shall be deemed to be a company incorporated under that Act having the liability of its shareholders limited as provided in [section 97][306] of that Act, and the provisions of that Act shall apply accordingly.
+    (2) Every association shall be registered in the manner provided by the [Companies Act 1993][306] for the registration of companies and, subject to this section and the next 3 succeeding sections, shall be deemed to be a company incorporated under that Act having the liability of its shareholders limited as provided in [section 97][307] of that Act, and the provisions of that Act shall apply accordingly.
     
     (3) The constitution of every association shall be in a form prescribed by the Governor-General by Order in Council, and the association may not alter or add to its constitution without the prior consent of the Board.
     
-    (4) Notwithstanding [section 16][307] of the Companies Act 1993, the capacity of the association shall be restricted to---
+    (4) Notwithstanding [section 16][308] of the Companies Act 1993, the capacity of the association shall be restricted to---
         
     *   (a) the construction and operation of a community water supply scheme:
     
@@ -1415,9 +1417,9 @@ Purchase and development of land
     
     *   (b) the assignee in bankruptcy of a member:
     
-    *   (c) in the case of a mentally disordered person within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][308], being a patient within the meaning of that Act, Public Trust or, as the case may be, the manager of his estate:
+    *   (c) in the case of a mentally disordered person within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][309], being a patient within the meaning of that Act, Public Trust or, as the case may be, the manager of his estate:
     
-    *   (d) in the case of a member in respect of whom a property order is in force under the [Protection of Personal and Property Rights Act 1988][309], the manager of his estate:
+    *   (d) in the case of a member in respect of whom a property order is in force under the [Protection of Personal and Property Rights Act 1988][310], the manager of his estate:
     
     *   (e) in the case of a member being a company which is being wound up, the liquidator of the company
     
@@ -1427,9 +1429,9 @@ Purchase and development of land
     
     _waterworks_ has the same meaning as in [section 50][70].
     
-    (8) The provisions of this section (as in force before the commencement of the [Company Law Reform (Transitional Provisions) Act 1994][310]) shall continue to apply in relation to every association constituted before the commencement of that Act.
+    (8) The provisions of this section (as in force before the commencement of the [Company Law Reform (Transitional Provisions) Act 1994][311]) shall continue to apply in relation to every association constituted before the commencement of that Act.
     
-    Section 50A: inserted, on 26 November 1953, by [section 3][311] of the Land Amendment Act 1953 (1953 No 67).
+    Section 50A: inserted, on 26 November 1953, by [section 3][312] of the Land Amendment Act 1953 (1953 No 67).
     
     Section 50A(1): replaced, on 1 July 1994, by [section 2][266] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
@@ -1445,13 +1447,13 @@ Purchase and development of land
     
     Section 50A(7) **member** paragraph (c): amended, on 1 March 2002, by [section 170(1)][265] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 50A(7) **member** paragraph (c): amended, on 1 November 1992, pursuant to [section 137(1)][312] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 50A(7) **member** paragraph (c): amended, on 1 November 1992, pursuant to [section 137(1)][313] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
     
     Section 50A(7) **member** paragraph (c): amended, on 1 April 1970, pursuant to section 129(4) of the Mental Health Act 1969 (1969 No 16).
     
     Section 50A(7) **member** paragraph (c): amended, on 1 April 1970, pursuant to section 129(7) of the Mental Health Act 1969 (1969 No 16).
     
-    Section 50A(7) **member** paragraph (d): amended, on 1 October 1988, pursuant to [section 117(3)][313] of the Protection of Personal and Property Rights Act 1988 (1988 No 4).
+    Section 50A(7) **member** paragraph (d): amended, on 1 October 1988, pursuant to [section 117(3)][314] of the Protection of Personal and Property Rights Act 1988 (1988 No 4).
     
     Section 50A(8): inserted, on 1 July 1994, by [section 2][266] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
 
@@ -1485,7 +1487,7 @@ Purchase and development of land
     
     (8) A member shall not mortgage, charge, or otherwise encumber his shares.
     
-    Section 50B: inserted, on 26 November 1953, by [section 3][311] of the Land Amendment Act 1953 (1953 No 67).
+    Section 50B: inserted, on 26 November 1953, by [section 3][312] of the Land Amendment Act 1953 (1953 No 67).
     
     Section 50B(1): replaced, on 1 July 1994, by [section 2][266] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
@@ -1509,7 +1511,7 @@ Purchase and development of land
     
     (5) Where under this section the association reissues any shares deemed to have been surrendered to it, there shall be paid to the former owner of the shares from the proceeds (if any) received by the association on that reissue such amount as may be agreed upon between the association and the former owner, or in default of agreement, such amount (if any) as the Board determines.
     
-    Section 50C: inserted, on 26 November 1953, by [section 3][311] of the Land Amendment Act 1953 (1953 No 67).
+    Section 50C: inserted, on 26 November 1953, by [section 3][312] of the Land Amendment Act 1953 (1953 No 67).
     
     Section 50C(1): amended, on 1 December 1961, by section 3(2)(a) of the Land Amendment Act 1961 (1961 No 86).
 
@@ -1523,15 +1525,15 @@ Purchase and development of land
     
     *   (b) his shares shall be deemed to have been surrendered to the association and may be reissued by the association to any occupier of land in the water area as if they had not been previously issued.
     
-    Section 50D: inserted, on 26 November 1953, by [section 3][311] of the Land Amendment Act 1953 (1953 No 67).
+    Section 50D: inserted, on 26 November 1953, by [section 3][312] of the Land Amendment Act 1953 (1953 No 67).
 
 ##### 50E Board may make advances to associations
     
 *   Advances and readvances to any association may from time to time be made out of a Crown Bank Account from moneys appropriated by Parliament for the purpose or such of the purposes of the association as the Board approves, and upon such security for repayment of the advances and readvances, either by debenture over the assets of the association or otherwise, as the Board thinks fit, and at such rate of interest as the Minister of Finance determines.
     
-    Section 50E: inserted, on 26 November 1953, by [section 3][311] of the Land Amendment Act 1953 (1953 No 67).
+    Section 50E: inserted, on 26 November 1953, by [section 3][312] of the Land Amendment Act 1953 (1953 No 67).
     
-    Section 50E: amended, on 25 January 2005, pursuant to [section 83(7)][290] of the Public Finance Act 1989 (1989 No 44).
+    Section 50E: amended, on 25 January 2005, pursuant to [section 83(7)][291] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 50F Associations to supply water to members
     
@@ -1543,7 +1545,7 @@ Purchase and development of land
     
     (4) In this section the term _member_ includes the mortgagee in possession of the land of a member or the lessor or licensor who is in possession of the land of a member in exercise of any right of forfeiture or re-entry in any lease or licence.
     
-    Section 50F: inserted, on 26 November 1953, by [section 3][311] of the Land Amendment Act 1953 (1953 No 67).
+    Section 50F: inserted, on 26 November 1953, by [section 3][312] of the Land Amendment Act 1953 (1953 No 67).
 
 ## Part 4  
 Classification and alienation of Crown land
@@ -1566,9 +1568,9 @@ Classification and alienation of Crown land
     
     Compare: 1924 No 31 s 127
     
-    Section 51(1)(b): amended, on 1 April 1980, by [section 8(3)][314] of the Local Government Amendment Act 1979 (1979 No 59).
+    Section 51(1)(b): amended, on 1 April 1980, by [section 8(3)][315] of the Local Government Amendment Act 1979 (1979 No 59).
     
-    Section 51(1)(d): repealed, on 23 June 1998, by [section 104][315] of the Crown Pastoral Land Act 1998 (1998 No 65).
+    Section 51(1)(d): repealed, on 23 June 1998, by [section 104][316] of the Crown Pastoral Land Act 1998 (1998 No 65).
     
     Section 51(3): replaced, on 23 June 1998, by [section 102][274] of the Crown Pastoral Land Act 1998 (1998 No 65).
 
@@ -1594,7 +1596,7 @@ Classification and alienation of Crown land
     
     Section 52(2): inserted, on 1 December 1950, by section 5(1) of the Land Amendment Act 1950 (1950 No 96).
     
-    Section 52(2): amended, on 19 October 1965, by [section 6][316] of the Land Amendment Act 1965 (1965 No 48).
+    Section 52(2): amended, on 19 October 1965, by [section 6][317] of the Land Amendment Act 1965 (1965 No 48).
     
     Section 52(3): inserted, on 1 December 1950, by section 5(1) of the Land Amendment Act 1950 (1950 No 96).
     
@@ -1626,7 +1628,7 @@ Classification and alienation of Crown land
     
     Compare: 1924 No 31 ss 70, 155, 156, 176, 177
     
-    Section 53(4) proviso: inserted, on 1 January 1969, by [section 2][317] of the Land Amendment Act 1968 (1968 No 50).
+    Section 53(4) proviso: inserted, on 1 January 1969, by [section 2][318] of the Land Amendment Act 1968 (1968 No 50).
 
 ##### 54 Allotment of land without competition
     
@@ -1646,15 +1648,15 @@ Classification and alienation of Crown land
     
     (2) Before approving any application under this section the Board may require the applicant to advertise his application in some newspaper or newspapers circulating in the locality; and it may also require him to serve notice of his application on the owner, lessee, licensee, or occupier of any land adjacent to the Crown land applied for.
     
-    (3) Where any land is disposed of by way of lease or licence under this section to an applicant who already holds land under lease or licence from the Crown, the Board may, in lieu of issuing a lease or licence over the additional land, incorporate it in his existing lease or licence, subject to such increase in the price or rental value or rent as the Board may determine, but otherwise subject to the same terms and conditions as apply to the existing lease or licence. In this subsection the expression _lease or licence from the Crown_ includes a lease, registered under the [Land Transfer Act 1952][295] and current at the date when the land first became Crown land subject to this Act, of land of which Her Majesty the Queen is the registered proprietor under a certificate of title under the [Land Transfer Act 1952][295].
+    (3) Where any land is disposed of by way of lease or licence under this section to an applicant who already holds land under lease or licence from the Crown, the Board may, in lieu of issuing a lease or licence over the additional land, incorporate it in his existing lease or licence, subject to such increase in the price or rental value or rent as the Board may determine, but otherwise subject to the same terms and conditions as apply to the existing lease or licence. In this subsection the expression _lease or licence from the Crown_ includes a lease, registered under the [Land Transfer Act 1952][296] and current at the date when the land first became Crown land subject to this Act, of land of which Her Majesty the Queen is the registered proprietor under a certificate of title under the [Land Transfer Act 1952][296].
     
     (4) \[Repealed\]
     
-    Compare: 1924 No 31 ss 128, 144, 145, 146, 148, 149, 158; 1925 No 15 ss 72, 73; 1939 No 35 s 5; 1944 No 34 s 5; 1946 No 40 [s 44][318]
+    Compare: 1924 No 31 ss 128, 144, 145, 146, 148, 149, 158; 1925 No 15 ss 72, 73; 1939 No 35 s 5; 1944 No 34 s 5; 1946 No 40 [s 44][319]
     
-    Section 54(1)(a): amended, on 26 April 2005, by [section 7][319] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 54(1)(a): amended, on 26 April 2005, by [section 7][320] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 54(3): amended, on 26 November 1953, by [section 5(1)][320] of the Land Amendment Act 1953 (1953 No 67).
+    Section 54(3): amended, on 26 November 1953, by [section 5(1)][321] of the Land Amendment Act 1953 (1953 No 67).
     
     Section 54(3): amended, on 22 October 1952, by section 2(a) of the Land Amendment Act 1952 (1952 No 46).
     
@@ -1676,7 +1678,7 @@ Classification and alienation of Crown land
     
     Compare: 1925 No 15 s 61
     
-    Section 56(1): amended, on 1 January 1969, by [section 3(1)][321] of the Land Amendment Act 1968 (1968 No 50).
+    Section 56(1): amended, on 1 January 1969, by [section 3(1)][322] of the Land Amendment Act 1968 (1968 No 50).
 
 ##### 57 Lands not immediately productive or profitable
     
@@ -1686,13 +1688,13 @@ Classification and alienation of Crown land
     
     Compare: 1924 No 31 s 214; 1927 No 21 s 7
     
-    Section 57(1): amended, on 5 December 1951, by [section 4][322] of the Land Amendment Act 1951 (1951 No 60).
+    Section 57(1): amended, on 5 December 1951, by [section 4][323] of the Land Amendment Act 1951 (1951 No 60).
 
 ##### 58 Land reserved from sale
     
 *   \[Repealed\]
     
-    Section 58: repealed, on 10 April 1990, by [section 37][323] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 58: repealed, on 10 April 1990, by [section 37][324] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 59 Minerals reserved to the Crown
     
@@ -1740,11 +1742,11 @@ Classification and alienation of Crown land
         
     *   (a) likely to be disposed of; or
     
-    *   (b) likely to become conservation area under the [Conservation Act 1987][324]; or
+    *   (b) likely to become conservation area under the [Conservation Act 1987][325]; or
     
-    *   (c) likely to become a reserve under the [Reserves Act 1977][325].
+    *   (c) likely to become a reserve under the [Reserves Act 1977][326].
     
-    Section 60AA: inserted, on 23 June 1998, by [section 2][326] of the Land Amendment Act 1998 (1998 No 66).
+    Section 60AA: inserted, on 23 June 1998, by [section 2][327] of the Land Amendment Act 1998 (1998 No 66).
 
 ##### 60A Board may impose building line restrictions
     
@@ -1758,7 +1760,7 @@ Classification and alienation of Crown land
     
     (2) Where it is subsequently ascertained that any pipeline the subject of the easement which was on the land at the time of the grant or reservation was not at that time on the line or lines so indicated, the grant or reservation shall apply with respect to the correct line upon which it is so ascertained that the pipeline was constructed, as if the correct line had been indicated in the instrument granting or reserving the easement, and all persons affected by the grant or reservation shall have the same rights, powers, and remedies and be subject to the same obligations as if the pipeline had been correctly indicated in the instrument granting or reserving the easement.
     
-    (3) No action shall lie against the Crown under [Part 11][327] of the Land Transfer Act 1952 by reason of the fact that any pipeline in existence on the land at the time of the grant or reservation, if registered under that Act, was not on the line or lines indicated in the instrument making the grant or reservation.
+    (3) No action shall lie against the Crown under [Part 11][328] of the Land Transfer Act 1952 by reason of the fact that any pipeline in existence on the land at the time of the grant or reservation, if registered under that Act, was not on the line or lines indicated in the instrument making the grant or reservation.
     
     (4) In this section the term _pipeline_ means any pipes or system of pipes for the supply of water or for the disposal of storm water or sewage; and includes any septic tank, any drain, any well, and any water bore.
     
@@ -1774,7 +1776,7 @@ Classification and alienation of Crown land
     
     Compare: 1924 No 31 s 160; 1925 No 15 s 74
     
-    Section 61(1): amended, on 19 October 1965, by [section 10][328] of the Land Amendment Act 1965 (1965 No 48).
+    Section 61(1): amended, on 19 October 1965, by [section 10][329] of the Land Amendment Act 1965 (1965 No 48).
 
 #### Tenures
 
@@ -1786,9 +1788,9 @@ Classification and alienation of Crown land
     
     *   (b) \[Repealed\]
     
-    Section 62: replaced, on 1 January 1969, by [section 4(1)][329] of the Land Amendment Act 1968 (1968 No 50).
+    Section 62: replaced, on 1 January 1969, by [section 4(1)][330] of the Land Amendment Act 1968 (1968 No 50).
     
-    Section 62(b): repealed, on 23 June 1998, by [section 104][315] of the Crown Pastoral Land Act 1998 (1998 No 65).
+    Section 62(b): repealed, on 23 June 1998, by [section 104][316] of the Crown Pastoral Land Act 1998 (1998 No 65).
 
 ##### 63 Renewable lease
     
@@ -1820,13 +1822,13 @@ Classification and alienation of Crown land
     
     Compare: 1924 No 31 s 196; 1925 No 15 s 54; 1939 No 21 s 5
     
-    Section 63(3): replaced, on 1 January 1971, by [section 2(1)][330] of the Land Amendment Act 1970 (1970 No 122).
+    Section 63(3): replaced, on 1 January 1971, by [section 2(1)][331] of the Land Amendment Act 1970 (1970 No 122).
     
-    Section 63(4): amended, on 1 January 1971, by [section 2(2)][330] of the Land Amendment Act 1970 (1970 No 122).
+    Section 63(4): amended, on 1 January 1971, by [section 2(2)][331] of the Land Amendment Act 1970 (1970 No 122).
     
     Section 63(5): inserted, on 1 December 1950, by section 10 of the Land Amendment Act 1950 (1950 No 96).
     
-    Section 63(5) first proviso: inserted, on 5 December 1951, by [section 5][331] of the Land Amendment Act 1951 (1951 No 60).
+    Section 63(5) first proviso: inserted, on 5 December 1951, by [section 5][332] of the Land Amendment Act 1951 (1951 No 60).
     
     Section 63(5) second proviso: replaced, on 18 November 1964, by section 2 of the Land Amendment Act 1964 (1964 No 94).
 
@@ -1858,25 +1860,25 @@ Classification and alienation of Crown land
     
     Compare: 1926 No 49 s 3
     
-    Section 65(3): amended, on 1 January 1969, by [section 3(1)][321] of the Land Amendment Act 1968 (1968 No 50).
+    Section 65(3): amended, on 1 January 1969, by [section 3(1)][322] of the Land Amendment Act 1968 (1968 No 50).
     
-    Section 65(4): replaced, on 1 January 1969, by [section 5(1)][332] of the Land Amendment Act 1968 (1968 No 50).
+    Section 65(4): replaced, on 1 January 1969, by [section 5(1)][333] of the Land Amendment Act 1968 (1968 No 50).
     
     Section 65(6): replaced, on 25 October 1956, by section 5 of the Land Amendment Act 1956 (1956 No 42).
     
-    Section 65(8): amended, on 1 January 1969, by [section 5(2)][332] of the Land Amendment Act 1968 (1968 No 50).
+    Section 65(8): amended, on 1 January 1969, by [section 5(2)][333] of the Land Amendment Act 1968 (1968 No 50).
 
 ##### 66 Pastoral leases
     
 *   \[Repealed\]
     
-    Section 66: repealed, on 23 June 1998, by [section 104][315] of the Crown Pastoral Land Act 1998 (1998 No 65).
+    Section 66: repealed, on 23 June 1998, by [section 104][316] of the Crown Pastoral Land Act 1998 (1998 No 65).
 
 ##### 66AA Pastoral occupation licences
     
 *   \[Repealed\]
     
-    Section 66AA: repealed, on 23 June 1998, by [section 104][315] of the Crown Pastoral Land Act 1998 (1998 No 65).
+    Section 66AA: repealed, on 23 June 1998, by [section 104][316] of the Crown Pastoral Land Act 1998 (1998 No 65).
 
 ##### 66A Recreation permit
     
@@ -1896,7 +1898,7 @@ Classification and alienation of Crown land
     
     (4) As a condition of granting a recreation permit to the holder of any pastoral lease or pastoral occupation licence the Board may require the holder to surrender to the Board any part of the land comprised in the lease or licence in order to facilitate erosion prevention measures.
     
-    (5) Every recreation permit shall be deemed to be issued subject to the condition that the holder will comply with all local authority bylaws, rules, regulations, and requisitions, and with the provisions of the [Resource Management Act 1991][333].
+    (5) Every recreation permit shall be deemed to be issued subject to the condition that the holder will comply with all local authority bylaws, rules, regulations, and requisitions, and with the provisions of the [Resource Management Act 1991][334].
     
     (6) Every recreation permit shall be issued on such other terms and subject to such other conditions (whether as to the payment of fees or otherwise) as the Board may determine, whether generally or in a particular case.
     
@@ -1920,7 +1922,7 @@ Classification and alienation of Crown land
     
     (2) Any Crown land available for disposal under this Act which in the opinion of the Board ought not for any reason to be permanently alienated from the Crown by way of sale may be leased for any term, not exceeding 33 years, with or without a right of renewal, perpetual or otherwise, for the same term. Any such lease and any renewal thereof shall be at such rent and subject to such terms and conditions as the Board in each case determines, but no such lease and no renewal of any such lease shall confer any right of acquiring the fee simple.
     
-    (3) Any Crown land in the vicinity of a national park available for disposal under this Act which in the opinion of the Board is suitable or adaptable for residential or commercial purposes may be classified by the Board as a special leasing area, and may be subdivided for residential or commercial purposes and disposed of by way of lease in accordance with subsection (2). All money received by way of rent or otherwise from any such disposal shall be paid by the department into a Departmental Bank Account and, subject to the approval of the Minister, may, without further appropriation than this section, be paid out of that Departmental Bank Account and paid and applied under [section 57][334] of the National Parks Act 1980 as if it were money received under that Act.
+    (3) Any Crown land in the vicinity of a national park available for disposal under this Act which in the opinion of the Board is suitable or adaptable for residential or commercial purposes may be classified by the Board as a special leasing area, and may be subdivided for residential or commercial purposes and disposed of by way of lease in accordance with subsection (2). All money received by way of rent or otherwise from any such disposal shall be paid by the department into a Departmental Bank Account and, subject to the approval of the Minister, may, without further appropriation than this section, be paid out of that Departmental Bank Account and paid and applied under [section 57][335] of the National Parks Act 1980 as if it were money received under that Act.
     
     (4) Any Crown land available for disposal under this Act which in the opinion of the Board ought not for any reason to be permanently alienated from the Crown by way of sale until a period of time has elapsed or certain conditions have been fulfilled may be leased for any term, not exceeding 33 years, at such rent and subject to such terms and conditions as the Board in each case determines. Any such lease may confer on the lessee the right on the expiry thereof, if all the terms and conditions have been complied with, to elect to purchase the land for cash or on deferred payments or to take a renewable lease under this Act at such price or rental value and subject to such terms and conditions as the Board may then in each case determine. If the lessee is dissatisfied with the price or rental value determined by the Board, he may require the price or rental value to be determined by the Land Valuation Tribunal, and thereupon the provisions of this Act relating to appeals to the Land Valuation Tribunal shall, with the necessary modifications, apply, as if the lessee were the lessee under a renewable lease exercising his right to acquire the fee simple or his right of renewal of his lease, as the case may be.
     
@@ -1928,13 +1930,13 @@ Classification and alienation of Crown land
     
     Section 67(1): amended, on 23 June 1998, by [section 102][274] of the Crown Pastoral Land Act 1998 (1998 No 65).
     
-    Section 67(2): replaced, on 5 December 1951, by [section 6][335] of the Land Amendment Act 1951 (1951 No 60).
+    Section 67(2): replaced, on 5 December 1951, by [section 6][336] of the Land Amendment Act 1951 (1951 No 60).
     
     Section 67(3): inserted, on 22 October 1959, by section 2 of the Land Amendment Act 1959 (1959 No 70).
     
-    Section 67(3): amended, on 1 July 1989, by [section 86(1)][336] of the Public Finance Act 1989 (1989 No 44).
+    Section 67(3): amended, on 1 July 1989, by [section 86(1)][337] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 67(3): amended, on 1 April 1981, by [section 80(1)][337] of the National Parks Act 1980 (1980 No 66).
+    Section 67(3): amended, on 1 April 1981, by [section 80(1)][338] of the National Parks Act 1980 (1980 No 66).
     
     Section 67(4): inserted, on 6 December 1962, by section 3 of the Land Amendment Act 1962 (1962 No 78).
     
@@ -1944,7 +1946,7 @@ Classification and alienation of Crown land
     
 *   (1) A lease under [section 67][100] may provide that specified people or kinds of people have the right to enter and remain on the land held under it or any specified part of it without the consent of the lessee, either unconditionally or subject to the observance of any conditions specified in the lease; and in that case---
         
-    *   (a) subject to paragraph (b), when any person (or person of the kind) specified enters or remains on the land or part, the [Trespass Act 1980][338] applies as if the person were not a trespasser on it; but
+    *   (a) subject to paragraph (b), when any person (or person of the kind) specified enters or remains on the land or part, the [Trespass Act 1980][339] applies as if the person were not a trespasser on it; but
     
     *   (b) if the right is subject to the observance of a condition and the person fails or refuses to observe it,---
             
@@ -1952,15 +1954,15 @@ Classification and alienation of Crown land
         
         *   (ii) at any time after the warning, the person does not have the benefit of paragraph (a); and
         
-        *   (iii) if the person was warned to leave the land or part, the warning has effect as a warning under [section 3][339] of that Act; and
+        *   (iii) if the person was warned to leave the land or part, the warning has effect as a warning under [section 3][340] of that Act; and
         
-        *   (iv) if the person was warned to stay off the land or part, the warning has effect as a warning under [section 4][340] of that Act.
+        *   (iv) if the person was warned to stay off the land or part, the warning has effect as a warning under [section 4][341] of that Act.
         
         
     
     (2) A lease under [section 67][100] may empower the Commissioner to authorise people (whether specified people or people of any specified kind) to enter and remain on the land held under it or any specified part of it without the consent of the lessee, either unconditionally or subject to the observance of any conditions specified in the authority; and in that case---
         
-    *   (a) subject to paragraph (b), when any person (or person of the kind) authorised enters or remains on the land or part, the [Trespass Act 1980][338] applies as if the person were not a trespasser on it; but
+    *   (a) subject to paragraph (b), when any person (or person of the kind) authorised enters or remains on the land or part, the [Trespass Act 1980][339] applies as if the person were not a trespasser on it; but
     
     *   (b) if the authority is subject to the observance of a condition and the person fails or refuses to observe it,---
             
@@ -1968,13 +1970,13 @@ Classification and alienation of Crown land
         
         *   (ii) at any time after the warning, the person does not have the benefit of paragraph (a); and
         
-        *   (iii) if the person was warned to leave the land or part, the warning has effect as a warning under [section 3][339] of that Act; and
+        *   (iii) if the person was warned to leave the land or part, the warning has effect as a warning under [section 3][340] of that Act; and
         
-        *   (iv) if the person was warned to stay off the land or part, the warning has effect as a warning under [section 4][340] of that Act.
+        *   (iv) if the person was warned to stay off the land or part, the warning has effect as a warning under [section 4][341] of that Act.
         
         
     
-    Section 67A: inserted, on 23 June 1998, by [section 3][341] of the Land Amendment Act 1998 (1998 No 66).
+    Section 67A: inserted, on 23 June 1998, by [section 3][342] of the Land Amendment Act 1998 (1998 No 66).
 
 ##### 68 Short tenancies for grazing or other purposes
     
@@ -2028,13 +2030,13 @@ Classification and alienation of Crown land
     
 *   (1) Any person of the age of 17 years and upwards may become a purchaser, lessee, or licensee under this Act.
     
-    (2) For the purposes of this Act, and also of the [Fencing Act 1978][342], any minor who holds any land by virtue of any lease, licence, or other form of tenure under this Act shall be deemed to be of full age.
+    (2) For the purposes of this Act, and also of the [Fencing Act 1978][343], any minor who holds any land by virtue of any lease, licence, or other form of tenure under this Act shall be deemed to be of full age.
     
     Compare: 1924 No 31 ss 106, 251; 1925 No 15 s 53(d)
     
-    Section 70(2): amended, on 1 April 1979, pursuant to [section 28(1)][343] of the Fencing Act 1978 (1978 No 50).
+    Section 70(2): amended, on 1 April 1979, pursuant to [section 28(1)][344] of the Fencing Act 1978 (1978 No 50).
     
-    Section 70(2): amended, on 1 January 1971, by [section 6][344] of the Age of Majority Act 1970 (1970 No 137).
+    Section 70(2): amended, on 1 January 1971, by [section 6][345] of the Age of Majority Act 1970 (1970 No 137).
 
 ##### 71 Applications by several persons
     
@@ -2052,7 +2054,7 @@ Classification and alienation of Crown land
     
     Compare: 1924 No 31 s 109
     
-    Section 72(1): replaced, on 14 October 1981, by [section 3(2)][345] of the Land Amendment Act 1981 (1981 No 44).
+    Section 72(1): replaced, on 14 October 1981, by [section 3(2)][346] of the Land Amendment Act 1981 (1981 No 44).
 
 ##### 73 Method of application
     
@@ -2189,9 +2191,9 @@ Leases and licences
 
 ##### 82 Registration of leases and licences
     
-*   (1) Every lease or licence issued under this Act, except leases and licences referred to in subsection (4), shall, after execution by the Commissioner and the lessee or licensee as hereinbefore provided, be registered under the [Land Transfer Act 1952][295], and the lease or licence which is retained in the office of the District Land Registrar shall form a folium of the register book in that office, and on it all dealings therewith shall be registered.
+*   (1) Every lease or licence issued under this Act, except leases and licences referred to in subsection (4), shall, after execution by the Commissioner and the lessee or licensee as hereinbefore provided, be registered under the [Land Transfer Act 1952][296], and the lease or licence which is retained in the office of the District Land Registrar shall form a folium of the register book in that office, and on it all dealings therewith shall be registered.
     
-    (1A) Where the land comprised in any such lease or licence is not properly defined by survey or for any other reason cannot be fully described, the District Land Registrar may accept the lease or licence for registration, but in such a case he shall endorse on the registered copy of the lease or licence and on the outstanding copy thereof the words ""Limited as to parcels"", and thereupon the provisions of [Part 12][346] of the Land Transfer Act 1952, as far as they are applicable and with the necessary modifications, shall apply to the lease or licence as if it were a certificate of title limited as to parcels issued under that Part.
+    (1A) Where the land comprised in any such lease or licence is not properly defined by survey or for any other reason cannot be fully described, the District Land Registrar may accept the lease or licence for registration, but in such a case he shall endorse on the registered copy of the lease or licence and on the outstanding copy thereof the words ""Limited as to parcels"", and thereupon the provisions of [Part 12][347] of the Land Transfer Act 1952, as far as they are applicable and with the necessary modifications, shall apply to the lease or licence as if it were a certificate of title limited as to parcels issued under that Part.
     
     (1B) Where any lease or licence is limited as to parcels under the provisions of subsection (1A), it shall remain so limited until the Commissioner has lodged for registration with the District Land Registrar a certificate properly describing the land comprised in the lease or licence together with a plan defining that land, and on the registration of that certificate and plan the District Land Registrar shall, if necessary, amend the description of the land comprised in the lease or licence and in the plan thereon and shall endorse on the lease or licence a memorial to the effect that the lease or licence has ceased to be limited as to parcels, and the lease or licence shall thereupon take effect in all respects as an ordinary lease or licence duly registered under subsection (1).
     
@@ -2203,33 +2205,33 @@ Leases and licences
         
     *   (a) the Commissioner may lodge for deposit with the District Land Registrar a plan of survey of definition or subdivision of the land in the lease or licence; and
     
-    *   (b) where on the deposit of a plan of subdivision any land on the plan will vest pursuant to [sections 238][347] or [239][348] of the Resource Management Act 1991, the Commissioner shall request the District Land Registrar to issue a certificate of title under the [Land Transfer Act 1952][295] in the name of Her Majesty the Queen for the land comprised in the lease or licence at the time of the lodging of the plan for deposit, and the District Land Registrar shall issue a certificate of title accordingly.
+    *   (b) where on the deposit of a plan of subdivision any land on the plan will vest pursuant to [sections 238][348] or [239][349] of the Resource Management Act 1991, the Commissioner shall request the District Land Registrar to issue a certificate of title under the [Land Transfer Act 1952][296] in the name of Her Majesty the Queen for the land comprised in the lease or licence at the time of the lodging of the plan for deposit, and the District Land Registrar shall issue a certificate of title accordingly.
     
     (4) This section shall not apply to a pastoral lease or pastoral occupation licence under this Act, nor to a licence under [section 68][102], nor to any lease or licence under [Part 11][225], nor, unless the Board otherwise determines, to any lease or licence under [section 67][100] or [section 69][104].
     
     Compare: 1924 No 31 s 99
     
-    Section 82(1): amended, on 1 January 1953, pursuant to [section 245(1)][304] of the Land Transfer Act 1952 (1952 No 52).
+    Section 82(1): amended, on 1 January 1953, pursuant to [section 245(1)][305] of the Land Transfer Act 1952 (1952 No 52).
     
     Section 82(1A): inserted, on 28 September 1954, by section 5 of the Land Amendment Act 1954 (1954 No 37).
     
     Section 82(1B): inserted, on 28 September 1954, by section 5 of the Land Amendment Act 1954 (1954 No 37).
     
-    Section 82(3A): inserted, on 1 April 1979, by [section 3(5)][349] of the Local Government Amendment Act 1978 (1978 No 43).
+    Section 82(3A): inserted, on 1 April 1979, by [section 3(5)][350] of the Local Government Amendment Act 1978 (1978 No 43).
     
     Section 82(3A)(b): amended, on 1 October 1991, by [section 362][267] of the Resource Management Act 1991 (1991 No 69).
 
 ##### 83 Registration of dealings with certain leases and licences
     
-*   (1) The District Land Registrar shall keep in the Land Transfer Office a register of leases and licences not required to be registered under the [Land Transfer Act 1952][295] pursuant to [section 48][68] or to the last preceding section (other than licences issued under [section 68][102] or [Part 11][225]), and shall enter in the appropriate register a copy of every such lease or licence for the land registration district presented to him by the Commissioner for registration.
+*   (1) The District Land Registrar shall keep in the Land Transfer Office a register of leases and licences not required to be registered under the [Land Transfer Act 1952][296] pursuant to [section 48][68] or to the last preceding section (other than licences issued under [section 68][102] or [Part 11][225]), and shall enter in the appropriate register a copy of every such lease or licence for the land registration district presented to him by the Commissioner for registration.
     
     (2) Subject to the requirements of this Act relating to dealings with any lease or licence, any instrument or notice of any kind which is registrable against a lease under the Land Transfer Act 1952 by virtue of that Act or any other Act shall be registrable in the Land Registry Office against any lease or licence kept in a register under subsection (1), and may be so registered in the manner prescribed by the Act by virtue of which it is registrable.
     
     (3) Every such instrument or notice shall,---
         
-    *   (a) in the case of an instrument or notice of any kind which is registrable against a lease under the [Land Transfer Act 1952][295] by virtue of that Act, be in the form prescribed by that Act; and
+    *   (a) in the case of an instrument or notice of any kind which is registrable against a lease under the [Land Transfer Act 1952][296] by virtue of that Act, be in the form prescribed by that Act; and
     
-    *   (b) in the case of an instrument or notice of any kind which is registrable against a lease under the [Land Transfer Act 1952][295] by virtue of any other Act, be in the form prescribed by that other Act.
+    *   (b) in the case of an instrument or notice of any kind which is registrable against a lease under the [Land Transfer Act 1952][296] by virtue of any other Act, be in the form prescribed by that other Act.
     
     (3A) Every entry made on any lease or licence in respect of any instrument or notice duly registered against that lease or licence under subsection (2) shall, if purporting to be duly made and signed, be received in all courts as evidence of the particulars therein set forth, and, against the person originally named in the lease or licence and all persons claiming through or under or in trust for him, shall, until it is lawfully cancelled, be conclusive evidence that any person named in the entry, instrument, or notice is seised or possessed of the estate or interest which purports to be vested in him as registered owner by virtue of that entry and of the instrument or notice in respect of which it is made.
     
@@ -2237,17 +2239,17 @@ Leases and licences
     
     Compare: 1924 No 31 ss 268, 270
     
-    Section 83 heading: replaced, on 23 November 1967, by [section 2][350] of the Land Amendment Act 1967 (1967 No 86).
+    Section 83 heading: replaced, on 23 November 1967, by [section 2][351] of the Land Amendment Act 1967 (1967 No 86).
     
-    Section 83(1): amended, on 1 January 1953, pursuant to [section 245(1)][304] of the Land Transfer Act 1952 (1952 No 52).
+    Section 83(1): amended, on 1 January 1953, pursuant to [section 245(1)][305] of the Land Transfer Act 1952 (1952 No 52).
     
-    Section 83(1): amended, on 26 November 1953, by [section 6][351] of the Land Amendment Act 1953 (1953 No 67).
+    Section 83(1): amended, on 26 November 1953, by [section 6][352] of the Land Amendment Act 1953 (1953 No 67).
     
-    Section 83(2): replaced, on 23 November 1967, by [section 2(1)][350] of the Land Amendment Act 1967 (1967 No 86).
+    Section 83(2): replaced, on 23 November 1967, by [section 2(1)][351] of the Land Amendment Act 1967 (1967 No 86).
     
-    Section 83(3): replaced, on 23 November 1967, by [section 2(1)][350] of the Land Amendment Act 1967 (1967 No 86).
+    Section 83(3): replaced, on 23 November 1967, by [section 2(1)][351] of the Land Amendment Act 1967 (1967 No 86).
     
-    Section 83(3A): inserted, on 23 November 1967, by [section 2(1)][350] of the Land Amendment Act 1967 (1967 No 86).
+    Section 83(3A): inserted, on 23 November 1967, by [section 2(1)][351] of the Land Amendment Act 1967 (1967 No 86).
 
 ##### 84 Payment of rent
     
@@ -2283,11 +2285,11 @@ Leases and licences
     
     Section 85(1): amended, on 30 November 1979, by [section 5(2)][273] of the Land Amendment Act 1979 (1979 No 57).
     
-    Section 85(1): amended, on 1 January 1969, by [section 3(1)][321] of the Land Amendment Act 1968 (1968 No 50).
+    Section 85(1): amended, on 1 January 1969, by [section 3(1)][322] of the Land Amendment Act 1968 (1968 No 50).
     
-    Section 85(2): amended, on 1 January 1969, by [section 3(1)][321] of the Land Amendment Act 1968 (1968 No 50).
+    Section 85(2): amended, on 1 January 1969, by [section 3(1)][322] of the Land Amendment Act 1968 (1968 No 50).
     
-    Section 85(3): amended, on 1 January 1969, by [section 3(1)][321] of the Land Amendment Act 1968 (1968 No 50).
+    Section 85(3): amended, on 1 January 1969, by [section 3(1)][322] of the Land Amendment Act 1968 (1968 No 50).
 
 ##### 86 Adjustments in rental value, etc, where land included in or excluded from lease or licence
     
@@ -2307,13 +2309,13 @@ Leases and licences
     
     *   (b) where the purchase is made during the currency of the lease, as from the date on which the purchase price is paid (where the improvements are purchased for cash), or as from the date on which the purchase money is deemed to be advanced to the lessee by the Board (where the improvements are purchased over a period of time).
     
-    Section 87(1): amended, on 1 January 1971, by [section 4(a)][352] of the Land Amendment Act 1970 (1970 No 122).
+    Section 87(1): amended, on 1 January 1971, by [section 4(a)][353] of the Land Amendment Act 1970 (1970 No 122).
     
-    Section 87(3): amended, on 1 January 1971, by [section 4(b)][352] of the Land Amendment Act 1970 (1970 No 122).
+    Section 87(3): amended, on 1 January 1971, by [section 4(b)][353] of the Land Amendment Act 1970 (1970 No 122).
 
 ##### 87A Appeal against decision of Board where improvements purchased during currency of lease
     
-*   (1) Any lessee who is dissatisfied with the determination of the Board under [section 87][125] may, within 1 month after receiving notice in writing of the determination of the Board, appeal from that determination to the Land Valuation Tribunal. Every such appeal shall be filed in the appropriate office of the District Court (as defined in [section 2][353] of the Land Valuation Proceedings Act 1948), and a copy of the appeal shall be served on the Commissioner.
+*   (1) Any lessee who is dissatisfied with the determination of the Board under [section 87][125] may, within 1 month after receiving notice in writing of the determination of the Board, appeal from that determination to the Land Valuation Tribunal. Every such appeal shall be filed in the appropriate office of the District Court (as defined in [section 2][354] of the Land Valuation Proceedings Act 1948), and a copy of the appeal shall be served on the Commissioner.
     
     (2) Every appeal under this section shall contain or be accompanied by such particulars, information, or documents as may be prescribed or as may be required by the Land Valuation Tribunal, and shall be verified by the statutory declaration of the appellant.
     
@@ -2327,15 +2329,15 @@ Leases and licences
     
     (6) \[Repealed\]
     
-    Section 87A: inserted, on 19 October 1965, by [section 11][354] of the Land Amendment Act 1965 (1965 No 48).
+    Section 87A: inserted, on 19 October 1965, by [section 11][355] of the Land Amendment Act 1965 (1965 No 48).
     
-    Section 87A(1): amended, on 1 April 1980, pursuant to [section 18(2)][288] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 87A(1): amended, on 1 April 1980, pursuant to [section 18(2)][289] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 87A(1): amended, on 1 September 1977, by [section 6(3)][270] of the Land Valuation Proceedings Amendment Act 1977 (1977 No 15).
     
     Section 87A(2): amended, on 1 September 1977, by [section 6(3)][270] of the Land Valuation Proceedings Amendment Act 1977 (1977 No 15).
     
-    Section 87A(3): replaced, on 1 January 1971, by [section 5][355] of the Land Amendment Act 1970 (1970 No 122).
+    Section 87A(3): replaced, on 1 January 1971, by [section 5][356] of the Land Amendment Act 1970 (1970 No 122).
     
     Section 87A(3): amended, on 15 August 1991, by [section 3(4)][280] of the Judicature Amendment Act 1991 (1991 No 60).
     
@@ -2343,13 +2345,13 @@ Leases and licences
     
     Section 87A(3): amended, on 1 September 1977, by [section 6(3)][270] of the Land Valuation Proceedings Amendment Act 1977 (1977 No 15).
     
-    Section 87A(4): replaced, on 1 January 1971, by [section 5][355] of the Land Amendment Act 1970 (1970 No 122).
+    Section 87A(4): replaced, on 1 January 1971, by [section 5][356] of the Land Amendment Act 1970 (1970 No 122).
     
     Section 87A(4): amended, on 1 September 1977, by [section 6(3)][270] of the Land Valuation Proceedings Amendment Act 1977 (1977 No 15).
     
-    Section 87A(5): repealed, on 1 January 1971, by [section 5][355] of the Land Amendment Act 1970 (1970 No 122).
+    Section 87A(5): repealed, on 1 January 1971, by [section 5][356] of the Land Amendment Act 1970 (1970 No 122).
     
-    Section 87A(6): repealed, on 1 January 1971, by [section 5][355] of the Land Amendment Act 1970 (1970 No 122).
+    Section 87A(6): repealed, on 1 January 1971, by [section 5][356] of the Land Amendment Act 1970 (1970 No 122).
 
 ##### 88 Moneys spent for protection or benefit of land
     
@@ -2367,9 +2369,9 @@ Leases and licences
     
     Compare: 1924 No 31 s 164
     
-    Section 88(3): amended, on 1 January 1969, by [section 3(1)][321] of the Land Amendment Act 1968 (1968 No 50).
+    Section 88(3): amended, on 1 January 1969, by [section 3(1)][322] of the Land Amendment Act 1968 (1968 No 50).
     
-    Section 88(6): amended, on 1 January 1969, by [section 3(1)][321] of the Land Amendment Act 1968 (1968 No 50).
+    Section 88(6): amended, on 1 January 1969, by [section 3(1)][322] of the Land Amendment Act 1968 (1968 No 50).
 
 #### Transfer, subdivision, and mortgage of leases or licences
 
@@ -2403,9 +2405,9 @@ Leases and licences
     
     Section 89(3): amended, on 1 December 1961, by section 3(2)(d) of the Land Amendment Act 1961 (1961 No 86).
     
-    Section 89(3A): inserted, on 14 October 1981, by [section 3(1)][345] of the Land Amendment Act 1981 (1981 No 44).
+    Section 89(3A): inserted, on 14 October 1981, by [section 3(1)][346] of the Land Amendment Act 1981 (1981 No 44).
     
-    Section 89(3B): inserted, on 14 October 1981, by [section 3(1)][345] of the Land Amendment Act 1981 (1981 No 44).
+    Section 89(3B): inserted, on 14 October 1981, by [section 3(1)][346] of the Land Amendment Act 1981 (1981 No 44).
     
     Section 89(4): replaced, on 2 October 1958, by section 2 of the Land Amendment Act 1958 (1958 No 72).
     
@@ -2431,7 +2433,7 @@ Leases and licences
     
     (2) Any person who assigns any lease or licence pursuant to the provisions of subsection (1) shall forthwith notify the Commissioner of the full name and address of the assignee, the power under which the assignment has been made, and whether the assignment is to a new trustee or to a beneficiary under the trust. No such assignment shall be registered by the District Land Registrar unless and until he is satisfied that the notice required by this subsection has been given to the Commissioner.
     
-    Section 91A: inserted, on 19 October 1965, by [section 12][356] of the Land Amendment Act 1965 (1965 No 48).
+    Section 91A: inserted, on 19 October 1965, by [section 12][357] of the Land Amendment Act 1965 (1965 No 48).
 
 ##### 92 Transfer by Commissioner where no probate or letters of administration applied for
     
@@ -2447,7 +2449,7 @@ Leases and licences
     
     (2) The cost of all surveys and plans necessary to give effect to the subdivision shall be borne by the lessee or licensee.
     
-    (3) The Board's approval of a subdivision may be given subject to the condition that the lessee or licensee shall pay to the Crown the value as determined by the Board of any land that vests as road on the deposit of a survey plan pursuant to [section 238][347] of the Resource Management Act 1991\.
+    (3) The Board's approval of a subdivision may be given subject to the condition that the lessee or licensee shall pay to the Crown the value as determined by the Board of any land that vests as road on the deposit of a survey plan pursuant to [section 238][348] of the Resource Management Act 1991\.
     
     (4) On the approval of the plan of the subdivision and on the payment of such fee as may be prescribed for each new lease or licence, the Board may cancel the original lease or licence and issue new leases or licences over the several lots in the subdivision for the residue of the original term and subject to the same conditions, save that the original rent or balance of the purchase price shall be apportioned between the several lots in the subdivision as the Board may determine:
     
@@ -2505,7 +2507,7 @@ Leases and licences
     
     Compare: 1924 No 31 s 93(2)
     
-    Section 97: amended, on 14 October 1981, by [section 3(3)][345] of the Land Amendment Act 1981 (1981 No 44).
+    Section 97: amended, on 14 October 1981, by [section 3(3)][346] of the Land Amendment Act 1981 (1981 No 44).
 
 ##### 98 Exemption from residence
     
@@ -2519,9 +2521,9 @@ Leases and licences
     
     Compare: 1924 No 31 ss 180(3), 181, 182, 184
     
-    Section 98(1): amended, on 26 April 2005, by [section 7][319] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 98(1): amended, on 26 April 2005, by [section 7][320] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 98(3): amended, on 26 April 2005, by [section 7][319] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 98(3): amended, on 26 April 2005, by [section 7][320] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 #### Good husbandry and improvements
 
@@ -2531,13 +2533,13 @@ Leases and licences
         
     *   (a) farm the land diligently and in a husbandlike manner according to the rules of good husbandry, and will not in any way commit waste:
     
-    *   (b) keep the land free from wild animals, rabbits, and other vermin, and generally comply with the provisions of the [Biosecurity Act 1993][357]:
+    *   (b) keep the land free from wild animals, rabbits, and other vermin, and generally comply with the provisions of the [Biosecurity Act 1993][358]:
     
     *   (c) properly clean and clear from weeds and keep open all creeks, drains, ditches, and watercourses upon the land, including any drains or ditches which may be constructed by the Commissioner after the commencement of the term of the lease or licence.
     
     Compare: 1924 No 31 s 258(1)(e)
     
-    Section 99(b): amended, on 1 October 1993, pursuant to [section 167(1)][358] of the Biosecurity Act 1993 (1993 No 95).
+    Section 99(b): amended, on 1 October 1993, pursuant to [section 167(1)][359] of the Biosecurity Act 1993 (1993 No 95).
 
 ##### 100 Preservation of timber
     
@@ -2553,7 +2555,7 @@ Leases and licences
     
 *   In every lease or licence under this Act or any former Land Act there shall be implied a covenant on the part of the lessee or licensee that he will to the satisfaction of the Commissioner throughout the term of the lease or licence,---
         
-    *   (a) cut and trim all live fences and hedges, clear the land of all noxious weeds, and comply with the provisions of the [Biosecurity Act 1993][357]:
+    *   (a) cut and trim all live fences and hedges, clear the land of all noxious weeds, and comply with the provisions of the [Biosecurity Act 1993][358]:
     
     *   (b) maintain all improvements belonging to the Crown (including improvements which are being purchased by the lessee or licensee by instalments over a period of years), and repair and maintain and keep in good substantial repair, order, and condition all buildings, fences, gates, and other erections then existing or thereafter erected on the said land, and will not, without the prior written consent of the Commissioner, pull down or remove them, or any part of them:
     
@@ -2561,7 +2563,7 @@ Leases and licences
     
     Compare: 1924 No 31 s 258(1)(d)
     
-    Section 101(a): amended, on 1 October 1993, pursuant to [section 167(1)][358] of the Biosecurity Act 1993 (1993 No 95).
+    Section 101(a): amended, on 1 October 1993, pursuant to [section 167(1)][359] of the Biosecurity Act 1993 (1993 No 95).
 
 ##### 102 Covenants to be binding on executors and assigns
     
@@ -2595,9 +2597,9 @@ Leases and licences
     
     Compare: 1924 No 31 ss 186, 187, 258(2); 1925 No 15 s 54(6); 1926 No 49 s 3(3)(d)
     
-    Section 104(1): amended, on 19 October 1965, by [section 13(1)(a)][359] of the Land Amendment Act 1965 (1965 No 48).
+    Section 104(1): amended, on 19 October 1965, by [section 13(1)(a)][360] of the Land Amendment Act 1965 (1965 No 48).
     
-    Section 104(2): amended, on 19 October 1965, by [section 13(1)(b)][359] of the Land Amendment Act 1965 (1965 No 48).
+    Section 104(2): amended, on 19 October 1965, by [section 13(1)(b)][360] of the Land Amendment Act 1965 (1965 No 48).
 
 ##### 105 Board to be judge of fulfilment of conditions
     
@@ -2609,37 +2611,37 @@ Leases and licences
 
 \[Repealed\]
     
-*   Heading: repealed, on 23 June 1998, pursuant to [section 104][315] of the Crown Pastoral Land Act 1998 (1998 No 65).
+*   Heading: repealed, on 23 June 1998, pursuant to [section 104][316] of the Crown Pastoral Land Act 1998 (1998 No 65).
 
 ##### 106 Burning of tussock
     
 *   \[Repealed\]
     
-    Section 106: repealed, on 23 June 1998, by [section 104][315] of the Crown Pastoral Land Act 1998 (1998 No 65).
+    Section 106: repealed, on 23 June 1998, by [section 104][316] of the Crown Pastoral Land Act 1998 (1998 No 65).
 
 ##### 107 Boundaries of pastoral lands
     
 *   \[Repealed\]
     
-    Section 107: repealed, on 23 June 1998, by [section 104][315] of the Crown Pastoral Land Act 1998 (1998 No 65).
+    Section 107: repealed, on 23 June 1998, by [section 104][316] of the Crown Pastoral Land Act 1998 (1998 No 65).
 
 ##### 108 Cultivation, cropping, and grassing of pastoral lands
     
 *   \[Repealed\]
     
-    Section 108: repealed, on 23 June 1998, by [section 104][315] of the Crown Pastoral Land Act 1998 (1998 No 65).
+    Section 108: repealed, on 23 June 1998, by [section 104][316] of the Crown Pastoral Land Act 1998 (1998 No 65).
 
 ##### 109 Procedure on expiry of pastoral occupation licence
     
 *   \[Repealed\]
     
-    Section 109: repealed, on 23 June 1998, by [section 104][315] of the Crown Pastoral Land Act 1998 (1998 No 65).
+    Section 109: repealed, on 23 June 1998, by [section 104][316] of the Crown Pastoral Land Act 1998 (1998 No 65).
 
 ##### 110 Travelling stock
     
 *   \[Repealed\]
     
-    Section 110: repealed, on 23 June 1998, by [section 104][315] of the Crown Pastoral Land Act 1998 (1998 No 65).
+    Section 110: repealed, on 23 June 1998, by [section 104][316] of the Crown Pastoral Land Act 1998 (1998 No 65).
 
 #### Rates and taxes
 
@@ -2647,7 +2649,7 @@ Leases and licences
     
 *   (1) Subject to the provisions of the next succeeding section, every lessee or licensee shall be liable for all rates, taxes, or assessments of every nature or kind whatsoever lawfully imposed upon the occupier of the lands included in his lease or licence during the term for which he is lessee or licensee.
     
-    (2) No Crown land is capable of being sold for the non-payment of rates due by the ratepayer, but a local authority may sell the interest of a lessee or licensee described under [section 11(2)][360] of the Local Government (Rating) Act 2002 to a person who is qualified to acquire that interest and who has been approved by the Board.
+    (2) No Crown land is capable of being sold for the non-payment of rates due by the ratepayer, but a local authority may sell the interest of a lessee or licensee described under [section 11(2)][361] of the Local Government (Rating) Act 2002 to a person who is qualified to acquire that interest and who has been approved by the Board.
     
     (3) If any lessee or licensee of Crown land fails, for 14 days after demand, to pay to a local authority any rate on Crown land for which he is liable, he shall be deemed to have committed a breach of his lease or licence, and in any such case the Board may, at the request of the local authority, if the rate or any portion thereof remains unpaid for 1 month after notice served on the lessee or licensee by the Board, declare the lease or licence to be forfeited.
     
@@ -2655,13 +2657,13 @@ Leases and licences
     
     Compare: 1924 No 31 s 101; 1925 No 15 s 67; 1928 No 37 s 5
     
-    Section 111(2): replaced, on 1 July 2003, by [section 137(1)][361] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 111(2): replaced, on 1 July 2003, by [section 137(1)][362] of the Local Government (Rating) Act 2002 (2002 No 6).
 
 ##### 112 Rates payable under temporary tenancies
     
 *   \[Repealed\]
     
-    Section 112: repealed, on 1 July 2003, by [section 137(1)][361] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 112: repealed, on 1 July 2003, by [section 137(1)][362] of the Local Government (Rating) Act 2002 (2002 No 6).
 
 #### Documents of title
 
@@ -2681,15 +2683,15 @@ Leases and licences
     
     (3) Any land so incorporated in a lease or licence shall be subject to the same reservations, trusts, rights, titles, interests, and encumbrances as those to which the land with which it is incorporated is subject.
     
-    (4) In this section the expression _lease or licence_ includes a lease current at the date when the land first became Crown land subject to this Act of land of which Her Majesty the Queen is the registered proprietor under a certificate of title under the [Land Transfer Act 1952][295]. Where land is incorporated in any such last-mentioned lease the District Land Registrar, on production of the certificate by the Commissioner referred to in subsection (1), shall, without further authority than this subsection, issue a certificate of title in the name of Her Majesty the Queen for the land incorporated in the lease. Every such last-mentioned certificate of title shall continue in force until the expiration or sooner determination of the lease, and shall then be cancelled by the District Land Registrar.
+    (4) In this section the expression _lease or licence_ includes a lease current at the date when the land first became Crown land subject to this Act of land of which Her Majesty the Queen is the registered proprietor under a certificate of title under the [Land Transfer Act 1952][296]. Where land is incorporated in any such last-mentioned lease the District Land Registrar, on production of the certificate by the Commissioner referred to in subsection (1), shall, without further authority than this subsection, issue a certificate of title in the name of Her Majesty the Queen for the land incorporated in the lease. Every such last-mentioned certificate of title shall continue in force until the expiration or sooner determination of the lease, and shall then be cancelled by the District Land Registrar.
     
     Compare: 1924 No 31 s 105
     
-    Section 113 heading: replaced, on 19 October 1965, by [section 15][362] of the Land Amendment Act 1965 (1965 No 48).
+    Section 113 heading: replaced, on 19 October 1965, by [section 15][363] of the Land Amendment Act 1965 (1965 No 48).
     
-    Section 113(1): replaced, on 19 October 1965, by [section 15(1)][362] of the Land Amendment Act 1965 (1965 No 48).
+    Section 113(1): replaced, on 19 October 1965, by [section 15(1)][363] of the Land Amendment Act 1965 (1965 No 48).
     
-    Section 113(4): inserted, on 26 November 1953, by [section 5(2)][320] of the Land Amendment Act 1953 (1953 No 67).
+    Section 113(4): inserted, on 26 November 1953, by [section 5(2)][321] of the Land Amendment Act 1953 (1953 No 67).
 
 ##### 114 Bringing down interests
     
@@ -2701,7 +2703,7 @@ Leases and licences
     
     *   (b) before issuing a certificate of title for the land, the District Land Registrar must take all steps, and make all entries in the registers, necessary to record the existence of the interest.
     
-    (3) If under [section 65(2)][363] of the Crown Pastoral Land Act 1998 a lessee or licensee is granted a special lease of land held under the lease or licence concerned, to the extent that the lease or licence is or was subject to (or has or had the benefit of) an interest that applied in relation to the land,---
+    (3) If under [section 65(2)][364] of the Crown Pastoral Land Act 1998 a lessee or licensee is granted a special lease of land held under the lease or licence concerned, to the extent that the lease or licence is or was subject to (or has or had the benefit of) an interest that applied in relation to the land,---
         
     *   (a) the special lease is subject to the interest (or has the benefit of the interest) as if it had been created in respect of the special lease; and
     
@@ -2719,27 +2721,27 @@ Leases and licences
     
     the new, renewed, or substituted lease or licence is subject to (or has the benefit of) every interest to which the surrendered, expired, or former lease or licence was subject (or had the benefit of); and the District Land Registrar must record the interest on it (if more than 1, in order of their registered priority).
     
-    Section 114: replaced, on 23 June 1998, by [section 4][364] of the Land Amendment Act 1998 (1998 No 66).
+    Section 114: replaced, on 23 June 1998, by [section 4][365] of the Land Amendment Act 1998 (1998 No 66).
 
 ##### 115 Lost lease or licence
     
-*   (1) The Board on being satisfied that any lease or licence (not being a lease or licence registered under the [Land Transfer Act 1952][295]) has been lost or accidentally destroyed, may issue a new lease or licence in lieu thereof, on such terms and conditions and on payment of such fee in each case as it thinks fit.
+*   (1) The Board on being satisfied that any lease or licence (not being a lease or licence registered under the [Land Transfer Act 1952][296]) has been lost or accidentally destroyed, may issue a new lease or licence in lieu thereof, on such terms and conditions and on payment of such fee in each case as it thinks fit.
     
     (2) Where any endorsement is required to be made on any such lease or licence that has been lost or destroyed, the Board may issue a new lease or licence in lieu thereof, and may make the required endorsement thereon, or, if it thinks fit, may incorporate the substance of the endorsement with the terms of the original lease or licence and insert them together in the new lease or licence.
     
     Compare: 1924 No 31 s 103
     
-    Section 115(1): amended, on 1 January 1953, pursuant to [section 245(1)][304] of the Land Transfer Act 1952 (1952 No 52).
+    Section 115(1): amended, on 1 January 1953, pursuant to [section 245(1)][305] of the Land Transfer Act 1952 (1952 No 52).
 
 ##### 116 Title to issue on payment of purchase price
     
-*   (1) A purchase of land for cash or on deferred payments, or a lessee or licensee who exercises any right which the lessee or licensee may have to purchase the fee simple of the land comprised in the lease or licence, shall, on completion of the payment of the purchase price, and on payment of such title fee as may be prescribed, be entitled to a certificate of title under the [Land Transfer Act 1952][295] in respect of that land.
+*   (1) A purchase of land for cash or on deferred payments, or a lessee or licensee who exercises any right which the lessee or licensee may have to purchase the fee simple of the land comprised in the lease or licence, shall, on completion of the payment of the purchase price, and on payment of such title fee as may be prescribed, be entitled to a certificate of title under the [Land Transfer Act 1952][296] in respect of that land.
     
-    (2) Notwithstanding anything in [section 12][365] of the Land Transfer Act 1952, no warrant or other authority shall be necessary for the issue of such a certificate of title other than a certificate by the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor as provided for in subsection (3).
+    (2) Notwithstanding anything in [section 12][366] of the Land Transfer Act 1952, no warrant or other authority shall be necessary for the issue of such a certificate of title other than a certificate by the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor as provided for in subsection (3).
     
-    (3) On completion of all necessary surveys (if any) the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor may file in the office of the District Land Registrar a certificate in the form set out in [Schedule 2][253] of this Act certified as correct by the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor. Every such certificate shall have the same effect as a warrant issued under [section 12][365] of the Land Transfer Act 1952, and the District Land Registrar shall issue a certificate of title for the land under that Act accordingly.
+    (3) On completion of all necessary surveys (if any) the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor may file in the office of the District Land Registrar a certificate in the form set out in [Schedule 2][253] of this Act certified as correct by the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor. Every such certificate shall have the same effect as a warrant issued under [section 12][366] of the Land Transfer Act 1952, and the District Land Registrar shall issue a certificate of title for the land under that Act accordingly.
     
-    (4) The land comprised in any certificate of title issued pursuant to such a certificate by the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor shall be deemed to be subject to the [Land Transfer Act 1952][295] as from the date fixed by the last-mentioned certificate as the date of acquisition of title thereto, and that date shall for all purposes whatsoever be deemed the ante-vesting date in the same manner as if the ante-vesting date had been inserted in a Crown grant of the land.
+    (4) The land comprised in any certificate of title issued pursuant to such a certificate by the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor shall be deemed to be subject to the [Land Transfer Act 1952][296] as from the date fixed by the last-mentioned certificate as the date of acquisition of title thereto, and that date shall for all purposes whatsoever be deemed the ante-vesting date in the same manner as if the ante-vesting date had been inserted in a Crown grant of the land.
     
     (5) The date fixed by the certificate of the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor as the date of acquisition of title to the land comprised in that certificate shall,---
         
@@ -2749,7 +2751,7 @@ Leases and licences
     
     (6) Every certificate by the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor under this section shall be conclusive evidence to the District Land Registrar of the matters required by this section to be therein stated.
     
-    (7) The provisions of [sections 14][366] and [15][367] of the Land Transfer Act 1952 shall, with the necessary modifications, apply to a certificate of title issued pursuant to subsection (3) as if the certificate of the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor were a warrant by the Governor-General and as if the certificate of title had been issued pursuant to such a warrant.
+    (7) The provisions of [sections 14][367] and [15][368] of the Land Transfer Act 1952 shall, with the necessary modifications, apply to a certificate of title issued pursuant to subsection (3) as if the certificate of the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor were a warrant by the Governor-General and as if the certificate of title had been issued pursuant to such a warrant.
     
     (8) Where any land owned by the Crown is to be granted in fee simple under the authority of this Act or of any other Act, the grant and issue of a certificate of title in lieu of a Crown grant to the person entitled thereto may be effected in the manner provided by the foregoing provisions of this section, which provisions shall extend and apply with such modifications as are necessary. The provisions of this subsection shall be in addition to and not in substitution for any other authority providing for the issue of or conveyance of title to land alienated from the Crown.
     
@@ -2781,13 +2783,13 @@ Leases and licences
 
 ##### 118 Lease or licence in exchange for land resumed
     
-*   (1) Where the whole or portion of any Crown land held under a lease or licence is resumed under the last preceding section, or has been resumed under the corresponding provisions of any former Land Act, or is or has heretofore been taken under the [Public Works Act 1981][368] for any public work, and the lessee or licensee has agreed to accept as compensation in whole or in part therefor a lease or licence of any other Crown land, a lease or licence of that other land may, notwithstanding anything to the contrary in this or in any other Act, be granted to him accordingly.
+*   (1) Where the whole or portion of any Crown land held under a lease or licence is resumed under the last preceding section, or has been resumed under the corresponding provisions of any former Land Act, or is or has heretofore been taken under the [Public Works Act 1981][369] for any public work, and the lessee or licensee has agreed to accept as compensation in whole or in part therefor a lease or licence of any other Crown land, a lease or licence of that other land may, notwithstanding anything to the contrary in this or in any other Act, be granted to him accordingly.
     
     (2) Any such land may be incorporated in the original lease or licence or in any other lease or licence held by the lessee or licensee.
     
     Compare: 1924 No 31 s 151
     
-    Section 118(1): amended, on 1 February 1982, pursuant to [section 248(1)][369] of the Public Works Act 1981 (1981 No 35).
+    Section 118(1): amended, on 1 February 1982, pursuant to [section 248(1)][370] of the Public Works Act 1981 (1981 No 35).
 
 ## Part 6  
 Advances to Crown tenants
@@ -2832,7 +2834,7 @@ Advances to Crown tenants
     
     Compare: 1929 No 8 ss 7(3), 14(3)
     
-    Section 121(2): amended, on 1 January 1969, by [section 3(1)][321] of the Land Amendment Act 1968 (1968 No 50).
+    Section 121(2): amended, on 1 January 1969, by [section 3(1)][322] of the Land Amendment Act 1968 (1968 No 50).
 
 ## Part 7  
 Acquisition of fee simple and modification of existing leases and licences
@@ -2891,7 +2893,7 @@ Acquisition of fee simple and modification of existing leases and licences
     
     (7C) For the purposes of subsection (7A), and notwithstanding anything in that subsection or in subsection (7B),---
         
-    *   (a) where the lessee is a serviceman or discharged serviceman and the yearly rent has been determined pursuant to [section 29][370] of the Statutes Amendment Act 1943 or subsection (5) of [section 63][94] of this Act or the lessee is in receipt of a concession allowed by the Board under [section 153][210] of this Act, then, notwithstanding the provisions of the lease, the percentage or proportion of the rental value of the land and the rental value of the land shall be the percentage or proportion of the rental value of the land and the rental value of the land, respectively, which would become applicable on the transfer, sublease, or other disposition of the lease to any person not being a serviceman or discharged serviceman:
+    *   (a) where the lessee is a serviceman or discharged serviceman and the yearly rent has been determined pursuant to [section 29][371] of the Statutes Amendment Act 1943 or subsection (5) of [section 63][94] of this Act or the lessee is in receipt of a concession allowed by the Board under [section 153][210] of this Act, then, notwithstanding the provisions of the lease, the percentage or proportion of the rental value of the land and the rental value of the land shall be the percentage or proportion of the rental value of the land and the rental value of the land, respectively, which would become applicable on the transfer, sublease, or other disposition of the lease to any person not being a serviceman or discharged serviceman:
     
     *   (b) where the lessee has been granted any other concession by the Board, no account shall be taken of that concession:
     
@@ -2913,25 +2915,25 @@ Acquisition of fee simple and modification of existing leases and licences
     
     Section 122(1): amended, on 1 January 1956, pursuant to [section 93(1)][264] of the Maori Reserved Land Act 1955 (1955 No 38).
     
-    Section 122(5): replaced, on 1 January 1971, by [section 6(1)][371] of the Land Amendment Act 1970 (1970 No 122).
+    Section 122(5): replaced, on 1 January 1971, by [section 6(1)][372] of the Land Amendment Act 1970 (1970 No 122).
     
-    Section 122(7): replaced, on 1 January 1971, by [section 6(2)][371] of the Land Amendment Act 1970 (1970 No 122).
+    Section 122(7): replaced, on 1 January 1971, by [section 6(2)][372] of the Land Amendment Act 1970 (1970 No 122).
     
-    Section 122(7A): inserted, on 1 January 1971, by [section 6(2)][371] of the Land Amendment Act 1970 (1970 No 122).
+    Section 122(7A): inserted, on 1 January 1971, by [section 6(2)][372] of the Land Amendment Act 1970 (1970 No 122).
     
-    Section 122(7B): inserted, on 1 January 1971, by [section 6(2)][371] of the Land Amendment Act 1970 (1970 No 122).
+    Section 122(7B): inserted, on 1 January 1971, by [section 6(2)][372] of the Land Amendment Act 1970 (1970 No 122).
     
-    Section 122(7C): inserted, on 1 January 1971, by [section 6(2)][371] of the Land Amendment Act 1970 (1970 No 122).
+    Section 122(7C): inserted, on 1 January 1971, by [section 6(2)][372] of the Land Amendment Act 1970 (1970 No 122).
     
-    Section 122(8): replaced, on 1 January 1971, by [section 6(3)][371] of the Land Amendment Act 1970 (1970 No 122).
+    Section 122(8): replaced, on 1 January 1971, by [section 6(3)][372] of the Land Amendment Act 1970 (1970 No 122).
     
-    Section 122(10): amended, on 21 November 1977, by [section 6][372] of the Land Amendment Act 1977 (1977 No 51).
+    Section 122(10): amended, on 21 November 1977, by [section 6][373] of the Land Amendment Act 1977 (1977 No 51).
     
     Section 122(11): amended, on 1 January 1956, pursuant to [section 93(1)][264] of the Maori Reserved Land Act 1955 (1955 No 38).
 
 ##### 123 Appeal to Land Valuation Tribunal
     
-*   (1) Where the lessee requires the values set out in subsection (5) or the value ascertained by the Board pursuant to paragraph (c) of subsection (7A) of the last preceding section to be determined by the Land Valuation Tribunal, the Commissioner shall, as soon as possible after the notice of the lessee's requirement in that behalf has been received, file in the appropriate office of the District Court (as defined in [section 2][353] of the Land Valuation Proceedings Act 1948) an application to have the said values or, as the case may be, the value so ascertained determined by the Land Valuation Tribunal. The application shall be accompanied by a copy of the Commissioner's notification to the lessee pursuant to subsection (8) of the last preceding section, and a copy of the lessee's notice given pursuant to subsection (10) of that section.
+*   (1) Where the lessee requires the values set out in subsection (5) or the value ascertained by the Board pursuant to paragraph (c) of subsection (7A) of the last preceding section to be determined by the Land Valuation Tribunal, the Commissioner shall, as soon as possible after the notice of the lessee's requirement in that behalf has been received, file in the appropriate office of the District Court (as defined in [section 2][354] of the Land Valuation Proceedings Act 1948) an application to have the said values or, as the case may be, the value so ascertained determined by the Land Valuation Tribunal. The application shall be accompanied by a copy of the Commissioner's notification to the lessee pursuant to subsection (8) of the last preceding section, and a copy of the lessee's notice given pursuant to subsection (10) of that section.
     
     (2) After hearing the application the Land Valuation Tribunal shall determine the values set out in subsection (5) or the value ascertained by the Board pursuant to paragraph (c) of subsection (7A) of the last preceding section. Subject to the right of appeal to the Administrative Division of the High Court vested in any party, the purchase price of the land shall be fixed in accordance with the values so determined by the Tribunal:
     
@@ -2945,33 +2947,33 @@ Acquisition of fee simple and modification of existing leases and licences
     
     Section 123 heading: amended, on 23 December 1977, pursuant to [section 6(3)][270] of the Land Valuation Proceedings Amendment Act 1977 (1977 No 15).
     
-    Section 123(1): amended, on 1 April 1980, pursuant to [section 18(2)][288] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 123(1): amended, on 1 April 1980, pursuant to [section 18(2)][289] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 123(1): amended, on 1 September 1977, by [section 6(3)][270] of the Land Valuation Proceedings Amendment Act 1977 (1977 No 15).
     
-    Section 123(1): amended, on 1 January 1971, by [section 7(1)(a)][373] of the Land Amendment Act 1970 (1970 No 122).
+    Section 123(1): amended, on 1 January 1971, by [section 7(1)(a)][374] of the Land Amendment Act 1970 (1970 No 122).
     
-    Section 123(1): amended, on 1 January 1971, by [section 7(1)(b)][373] of the Land Amendment Act 1970 (1970 No 122).
+    Section 123(1): amended, on 1 January 1971, by [section 7(1)(b)][374] of the Land Amendment Act 1970 (1970 No 122).
     
     Section 123(2): amended, on 1 April 1980, pursuant to [section 12][278] of the Judicature Amendment Act 1979 (1979 No 124).
     
     Section 123(2): amended, on 1 September 1977, by [section 6(3)][270] of the Land Valuation Proceedings Amendment Act 1977 (1977 No 15).
     
-    Section 123(2): amended, on 1 January 1971, by [section 7(1)(c)][373] of the Land Amendment Act 1970 (1970 No 122).
+    Section 123(2): amended, on 1 January 1971, by [section 7(1)(c)][374] of the Land Amendment Act 1970 (1970 No 122).
     
-    Section 123(2): amended, on 1 April 1969, pursuant to [section 2(4)][374] of the Land Valuation Proceedings Amendment Act 1968 (1968 No 42).
+    Section 123(2): amended, on 1 April 1969, pursuant to [section 2(4)][375] of the Land Valuation Proceedings Amendment Act 1968 (1968 No 42).
     
-    Section 123(2) first proviso: replaced, on 1 January 1971, by [section 7(2)][373] of the Land Amendment Act 1970 (1970 No 122).
+    Section 123(2) first proviso: replaced, on 1 January 1971, by [section 7(2)][374] of the Land Amendment Act 1970 (1970 No 122).
     
     Section 123(2) first proviso: amended, on 1 April 1980, pursuant to [section 12][278] of the Judicature Amendment Act 1979 (1979 No 124).
     
     Section 123(2) first proviso: amended, on 1 September 1977, by [section 6(3)][270] of the Land Valuation Proceedings Amendment Act 1977 (1977 No 15).
     
-    Section 123(2) second proviso: inserted, on 1 January 1971, by [section 7(2)][373] of the Land Amendment Act 1970 (1970 No 122).
+    Section 123(2) second proviso: inserted, on 1 January 1971, by [section 7(2)][374] of the Land Amendment Act 1970 (1970 No 122).
     
-    Section 123(3): repealed, on 1 January 1971, by [section 7(3)][373] of the Land Amendment Act 1970 (1970 No 122).
+    Section 123(3): repealed, on 1 January 1971, by [section 7(3)][374] of the Land Amendment Act 1970 (1970 No 122).
     
-    Section 123(4): repealed, on 1 January 1971, by [section 7(3)][373] of the Land Amendment Act 1970 (1970 No 122).
+    Section 123(4): repealed, on 1 January 1971, by [section 7(3)][374] of the Land Amendment Act 1970 (1970 No 122).
 
 ##### 124 Payment of purchase money
     
@@ -2989,9 +2991,9 @@ Acquisition of fee simple and modification of existing leases and licences
     
     Section 124(1): amended, on 1 September 1977, by [section 6(3)][270] of the Land Valuation Proceedings Amendment Act 1977 (1977 No 15).
     
-    Section 124(1): amended, on 1 January 1971, by [section 8][375] of the Land Amendment Act 1970 (1970 No 122).
+    Section 124(1): amended, on 1 January 1971, by [section 8][376] of the Land Amendment Act 1970 (1970 No 122).
     
-    Section 124(1): amended, on 5 December 1951, by [section 8(4)][376] of the Land Amendment Act 1951 (1951 No 60).
+    Section 124(1): amended, on 5 December 1951, by [section 8(4)][377] of the Land Amendment Act 1951 (1951 No 60).
     
     Section 124(1): amended, on 1 December 1950, by section 15(a) of the Land Amendment Act 1950 (1950 No 96).
     
@@ -3033,13 +3035,13 @@ Acquisition of fee simple and modification of existing leases and licences
     
     Section 125(2): amended, on 1 December 1950, by section 9(2) of the Land Amendment Act 1950 (1950 No 96).
     
-    Section 125(3): replaced, on 19 October 1965, by [section 17][377] of the Land Amendment Act 1965 (1965 No 48).
+    Section 125(3): replaced, on 19 October 1965, by [section 17][378] of the Land Amendment Act 1965 (1965 No 48).
     
-    Section 125(3A): inserted, on 19 October 1965, by [section 17][377] of the Land Amendment Act 1965 (1965 No 48).
+    Section 125(3A): inserted, on 19 October 1965, by [section 17][378] of the Land Amendment Act 1965 (1965 No 48).
     
-    Section 125(3B): inserted, on 19 October 1965, by [section 17][377] of the Land Amendment Act 1965 (1965 No 48).
+    Section 125(3B): inserted, on 19 October 1965, by [section 17][378] of the Land Amendment Act 1965 (1965 No 48).
     
-    Section 125(4): inserted, on 21 October 1949, by [section 31(2)][378] of the Statutes Amendment Act 1949 (1949 No 51).
+    Section 125(4): inserted, on 21 October 1949, by [section 31(2)][379] of the Statutes Amendment Act 1949 (1949 No 51).
 
 ##### 126 Exchange of certain existing leases for renewable leases under this Act
     
@@ -3059,13 +3061,13 @@ Acquisition of fee simple and modification of existing leases and licences
     
     Section 126(1) proviso: amended, on 1 December 1950, by section 9(3) of the Land Amendment Act 1950 (1950 No 96).
     
-    Section 126(4): inserted, on 5 December 1951, by [section 11][379] of the Land Amendment Act 1951 (1951 No 60).
+    Section 126(4): inserted, on 5 December 1951, by [section 11][380] of the Land Amendment Act 1951 (1951 No 60).
 
 ##### 126A Exchange of pastoral leases for renewable leases
     
 *   \[Repealed\]
     
-    Section 126A: repealed, on 23 June 1998, by [section 104][315] of the Crown Pastoral Land Act 1998 (1998 No 65).
+    Section 126A: repealed, on 23 June 1998, by [section 104][316] of the Crown Pastoral Land Act 1998 (1998 No 65).
 
 ##### 127 Exchange of deferred-payment licences
     
@@ -3142,25 +3144,25 @@ Renewals of renewable leases
     
     Compare: 1924 No 31 ss 198, 199, 202
     
-    Section 131(1): replaced, on 1 January 1971, by [section 9(1)][380] of the Land Amendment Act 1970 (1970 No 122).
+    Section 131(1): replaced, on 1 January 1971, by [section 9(1)][381] of the Land Amendment Act 1970 (1970 No 122).
     
     Section 131(2) proviso: repealed, on 1 November 1950, by section 45(1) of the Servicemen's Settlement Act 1950 (1950 No 41).
     
-    Section 131(3): amended, on 1 January 1971, by [section 9(2)][380] of the Land Amendment Act 1970 (1970 No 122).
+    Section 131(3): amended, on 1 January 1971, by [section 9(2)][381] of the Land Amendment Act 1970 (1970 No 122).
     
-    Section 131(3)(b): replaced, on 1 January 1971, by [section 9(3)][380] of the Land Amendment Act 1970 (1970 No 122).
+    Section 131(3)(b): replaced, on 1 January 1971, by [section 9(3)][381] of the Land Amendment Act 1970 (1970 No 122).
     
-    Section 131(4): amended, on 1 January 1971, by [section 9(4)(a)][380] of the Land Amendment Act 1970 (1970 No 122).
+    Section 131(4): amended, on 1 January 1971, by [section 9(4)(a)][381] of the Land Amendment Act 1970 (1970 No 122).
     
-    Section 131(4): amended, on 1 January 1971, by [section 9(4)(b)][380] of the Land Amendment Act 1970 (1970 No 122).
+    Section 131(4): amended, on 1 January 1971, by [section 9(4)(b)][381] of the Land Amendment Act 1970 (1970 No 122).
     
-    Section 131(5): replaced, on 1 January 1971, by [section 9(5)][380] of the Land Amendment Act 1970 (1970 No 122).
+    Section 131(5): replaced, on 1 January 1971, by [section 9(5)][381] of the Land Amendment Act 1970 (1970 No 122).
     
-    Section 131(6): amended, on 1 January 1971, by [section 9(6)(a)][380] of the Land Amendment Act 1970 (1970 No 122).
+    Section 131(6): amended, on 1 January 1971, by [section 9(6)(a)][381] of the Land Amendment Act 1970 (1970 No 122).
     
-    Section 131(6): amended, on 1 January 1971, by [section 9(6)(b)][380] of the Land Amendment Act 1970 (1970 No 122).
+    Section 131(6): amended, on 1 January 1971, by [section 9(6)(b)][381] of the Land Amendment Act 1970 (1970 No 122).
     
-    Section 131(6): amended, on 1 January 1971, by [section 9(6)(c)][380] of the Land Amendment Act 1970 (1970 No 122).
+    Section 131(6): amended, on 1 January 1971, by [section 9(6)(c)][381] of the Land Amendment Act 1970 (1970 No 122).
 
 ##### 132 Lessee's election
     
@@ -3178,7 +3180,7 @@ Renewals of renewable leases
     
     Compare: 1924 No 31 ss 200, 201
     
-    Section 132(1): replaced, on 1 January 1971, by [section 10][381] of the Land Amendment Act 1970 (1970 No 122).
+    Section 132(1): replaced, on 1 January 1971, by [section 10][382] of the Land Amendment Act 1970 (1970 No 122).
     
     Section 132(1)(c): amended, on 1 September 1977, by [section 6(3)][270] of the Land Valuation Proceedings Amendment Act 1977 (1977 No 15).
     
@@ -3198,13 +3200,13 @@ Renewals of renewable leases
     
     *   (b) the value specified in paragraph (c) of that subsection, as applied for the purposes of this section by subsection (1).
     
-    Section 132A: inserted, on 1 January 1971, by [section 11][382] of the Land Amendment Act 1970 (1970 No 122).
+    Section 132A: inserted, on 1 January 1971, by [section 11][383] of the Land Amendment Act 1970 (1970 No 122).
     
     Section 132A(2): amended, on 1 September 1977, by [section 6(3)][270] of the Land Valuation Proceedings Amendment Act 1977 (1977 No 15).
 
 ##### 133 Appeal to Land Valuation Tribunal
     
-*   (1) Where the lessee requires the values specified in subsection (1) of [section 132][184] or subsection (1) of [section 132A][185] to be determined by the Land Valuation Tribunal as provided in subsection (1) of the said section 132 or subsection (2) of the said section 132A, as the case may be, the Commissioner shall, as soon as possible after the lessee's notification of his election is received, file in the appropriate office of the District Court (as defined in [section 2][353] of the Land Valuation Proceedings Act 1948) an application to have the said values determined by the Tribunal. The application shall be accompanied by a copy of the Commissioner's notification to the lessee pursuant to subsection (6) of the said [section 131][183] or subsection (2) of the said section 132A, as the case may be, and a copy of the lessee's notice of election pursuant to subsection (1) of the said section 132 or subsection (2) of the said section 132A.
+*   (1) Where the lessee requires the values specified in subsection (1) of [section 132][184] or subsection (1) of [section 132A][185] to be determined by the Land Valuation Tribunal as provided in subsection (1) of the said section 132 or subsection (2) of the said section 132A, as the case may be, the Commissioner shall, as soon as possible after the lessee's notification of his election is received, file in the appropriate office of the District Court (as defined in [section 2][354] of the Land Valuation Proceedings Act 1948) an application to have the said values determined by the Tribunal. The application shall be accompanied by a copy of the Commissioner's notification to the lessee pursuant to subsection (6) of the said [section 131][183] or subsection (2) of the said section 132A, as the case may be, and a copy of the lessee's notice of election pursuant to subsection (1) of the said section 132 or subsection (2) of the said section 132A.
     
     (2) After hearing the application, the Land Valuation Tribunal shall determine the values as required by the lessee or any of those values, as the case may be. Subject to any right of appeal to the High Court vested in any party, the rental value of the land for the purposes of any renewal lease or, as the case may be, for the next ensuing period of 11 years of the term of a renewable lease shall be fixed in accordance with the value of the land included in the lease exclusive of improvements as so determined by the Tribunal and the value of improvements, if any, as ascertained by the Board under paragraph (b) of subsection (1) of [section 131][183]:
     
@@ -3212,11 +3214,11 @@ Renewals of renewable leases
     
     provided also that where, on a revaluation under [section 139][194] or the corresponding provisions of any former Land Act, the value of the improvements referred to in the said paragraph (b) has been reduced, then, for the purposes of this section the value of those improvements as determined on that revaluation shall be deemed to be their value at the commencement of the lease.
     
-    Section 133: replaced, on 1 January 1971, by [section 12(1)][383] of the Land Amendment Act 1970 (1970 No 122).
+    Section 133: replaced, on 1 January 1971, by [section 12(1)][384] of the Land Amendment Act 1970 (1970 No 122).
     
     Section 133 heading: amended, on 1 September 1977, pursuant to [section 6(3)][270] of the Land Valuation Proceedings Amendment Act 1977 (1977 No 15).
     
-    Section 133(1): amended, on 1 April 1980, pursuant to [section 18(2)][288] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 133(1): amended, on 1 April 1980, pursuant to [section 18(2)][289] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 133(1): amended, on 1 September 1977, by [section 6(3)][270] of the Land Valuation Proceedings Amendment Act 1977 (1977 No 15).
     
@@ -3305,15 +3307,15 @@ Remissions, revaluations, forfeitures
     
     *   (b) to a lessee or licensee who is purchasing any improvements belonging to the Crown, as if the principal portion of any instalment of purchase money and interest were rent.
     
-    (7) The provisions of this section shall apply to the holder of any lease or licence issued under any authority other than the [Public Bodies Leases Act 1969][384] of any land set apart as an endowment for any purpose and administered by the Board:
+    (7) The provisions of this section shall apply to the holder of any lease or licence issued under any authority other than the [Public Bodies Leases Act 1969][385] of any land set apart as an endowment for any purpose and administered by the Board:
     
     provided that no remission or postponement of rent shall be granted hereunder to any lessee or licensee of an endowment vested in any corporate body or person without the prior consent of that body or person.
     
     (8) Rent or interest the payment of which has been postponed under this section shall not be deemed to be rent or interest in arrear for the purpose of obtaining any rebate under this Act provided any interest payable on that postponed rent or interest is duly paid.
     
-    Compare: 1924 No 31 s 124; 1926 No 49 s 17; 1927 No 21 ss 5, 6; 1932 No 24 [s 17][385]
+    Compare: 1924 No 31 s 124; 1926 No 49 s 17; 1927 No 21 ss 5, 6; 1932 No 24 [s 17][386]
     
-    Section 138(7): amended, on 1 January 1970, pursuant to [section 28(1)(a)][386] of the Public Bodies Leases Act 1969 (1969 No 141).
+    Section 138(7): amended, on 1 January 1970, pursuant to [section 28(1)(a)][387] of the Public Bodies Leases Act 1969 (1969 No 141).
 
 #### Revaluations
 
@@ -3329,11 +3331,11 @@ Remissions, revaluations, forfeitures
     
     Compare: 1924 No 31 s 216
     
-    Section 139(3): amended, on 19 October 1965, by [section 19][387] of the Land Amendment Act 1965 (1965 No 48).
+    Section 139(3): amended, on 19 October 1965, by [section 19][388] of the Land Amendment Act 1965 (1965 No 48).
 
 ##### 140 Appeal to Land Valuation Tribunal
     
-*   (1) Any lessee who is dissatisfied with the determination of the Board under the last preceding section may within 2 months after receipt of notice of the determination, appeal from that determination to the Land Valuation Tribunal. Every such appeal shall be filed in the appropriate office of the District Court (as defined in [section 2][353] of the Land Valuation Proceedings Act 1948), and a copy of the appeal shall be served on the Commissioner.
+*   (1) Any lessee who is dissatisfied with the determination of the Board under the last preceding section may within 2 months after receipt of notice of the determination, appeal from that determination to the Land Valuation Tribunal. Every such appeal shall be filed in the appropriate office of the District Court (as defined in [section 2][354] of the Land Valuation Proceedings Act 1948), and a copy of the appeal shall be served on the Commissioner.
     
     (2) Every appeal under this section shall contain or be accompanied by such particulars, information, or documents as may be prescribed or as may be required by the Tribunal, and shall be verified by the statutory declaration of the applicant.
     
@@ -3341,7 +3343,7 @@ Remissions, revaluations, forfeitures
     
     Section 140 heading: amended, on 1 September 1977, pursuant to [section 6(3)][270] of the Land Valuation Proceedings Amendment Act 1977 (1977 No 15).
     
-    Section 140(1): amended, on 1 April 1980, pursuant to [section 18(2)][288] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 140(1): amended, on 1 April 1980, pursuant to [section 18(2)][289] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 140(1): amended, on 1 September 1977, by [section 6(3)][270] of the Land Valuation Proceedings Amendment Act 1977 (1977 No 15).
     
@@ -3385,7 +3387,7 @@ Remissions, revaluations, forfeitures
     
     (3) No surrender shall be accepted under subsection (1) without the consent in writing of every person having a registered interest in the lease or licence; and any land allotted under subsection (2) may be subject to the condition that the lessee or licensee shall execute an appropriate instrument granting to any person having a registered interest in the surrendered lease or licence a similar interest in the new lease or licence.
     
-    Compare: 1925 No 42; 1939 No 23 [s 23][388]
+    Compare: 1925 No 42; 1939 No 23 [s 23][389]
 
 ##### 144 Certificate respecting revaluation
     
@@ -3443,11 +3445,11 @@ Remissions, revaluations, forfeitures
     
     (3) Where the Board is of opinion that the disposal of any land is being hindered by reason of the value of the improvements as provided in the last preceding subsection being excessive, the Board may in its discretion from time to time reduce the value of the improvements and again offer the land for acquisition. No claim shall lie against Her Majesty, or the Board, or any Land Settlement Committee, or the Commissioner by reason of any such reduction of valuation.
     
-    (4) The provisions of subsections (1) and (3) shall be read subject to the provisions of subsection (5) of [section 27][389] of the Housing Corporation Act 1974 in every case where the lease or licence forfeited is subject to a mortgage to which that section applies.
+    (4) The provisions of subsections (1) and (3) shall be read subject to the provisions of subsection (5) of [section 27][390] of the Housing Corporation Act 1974 in every case where the lease or licence forfeited is subject to a mortgage to which that section applies.
     
     Compare: 1924 No 31 ss 80(2), 81
     
-    Section 149(4): amended, on 14 October 1972, pursuant to [section 50(2)][390] of the Housing Corporation Act 1974 (1974 No 19).
+    Section 149(4): amended, on 14 October 1972, pursuant to [section 50(2)][391] of the Housing Corporation Act 1974 (1974 No 19).
 
 ##### 150 Improvements to be purchased by incoming lessee or licensee
     
@@ -3492,9 +3494,9 @@ Servicemen and discharged servicemen
     
     (3) In this Part the expression _1942 basic value_, in relation to any land, means the basic value thereof as determined for the purposes of this Part in accordance with the provisions of section 53 of the Servicemen's Settlement and Land Sales Act 1943\.
     
-    Section 152(2): amended, on 26 April 2005, by [section 7][319] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 152(2): amended, on 26 April 2005, by [section 7][320] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 152(3): inserted, on 5 December 1951, by [section 12][391] of the Land Amendment Act 1951 (1951 No 60).
+    Section 152(3): inserted, on 5 December 1951, by [section 12][392] of the Land Amendment Act 1951 (1951 No 60).
 
 ##### 153 Variation of rental payments
     
@@ -3504,33 +3506,33 @@ Servicemen and discharged servicemen
     
     (3) The provisions of this section shall apply whether the lease or licence has been originally granted to the lessee or licensee or has been transferred to him, and shall apply whether the lease or licence was granted under this Act or under any former Land Act.
     
-    Compare: 1943 No 20 [s 29][370]
+    Compare: 1943 No 20 [s 29][371]
     
-    Section 153(2): amended, on 1 January 1969, by [section 3(1)][321] of the Land Amendment Act 1968 (1968 No 50).
+    Section 153(2): amended, on 1 January 1969, by [section 3(1)][322] of the Land Amendment Act 1968 (1968 No 50).
 
 ##### 153A Reduction in rent to cease to operate where lease transferred to person who is not a discharged serviceman
     
 *   (1) Where---
         
-    *   (a) the yearly rent payable under any lease to which this section applies is for the time being payable at a reduced rate pursuant to [section 29][370] of the Statutes Amendment Act 1943; and
+    *   (a) the yearly rent payable under any lease to which this section applies is for the time being payable at a reduced rate pursuant to [section 29][371] of the Statutes Amendment Act 1943; and
     
     *   (b) the lessee transfers, subleases, or otherwise disposes of the whole or any part of his interest in the lease to any person (not being a serviceman or discharged serviceman who is for the time being entitled pursuant to subsection (1) of [section 153][210] to a variation in the yearly rent payable under the lease) or enters into an agreement to transfer, sublease, or otherwise dispose of, at any future date, his interest to any person (not being such a serviceman or discharged serviceman),---
     
-    then, notwithstanding anything in the lease or in the said [section 29][370] or in the enactments specified in subsection (2), the yearly rent payable under the lease shall, as from the date of the registration of the transfer or sublease or other instrument of disposition or, as the case may be, the date when that person enters into possession of the land pursuant to the agreement, be the yearly rent that would have been payable under the lease if the said [section 29][370] had not been passed.
+    then, notwithstanding anything in the lease or in the said [section 29][371] or in the enactments specified in subsection (2), the yearly rent payable under the lease shall, as from the date of the registration of the transfer or sublease or other instrument of disposition or, as the case may be, the date when that person enters into possession of the land pursuant to the agreement, be the yearly rent that would have been payable under the lease if the said [section 29][371] had not been passed.
     
     (2) This section applies with respect to every lease current at the commencement of this Act and granted under section 8 of the Small Farms Amendment Act 1935 or section 5 of the Small Farms Amendment Act 1939\.
     
-    Section 153A: inserted (with effect on 1 April 1949), on 26 November 1953, by [section 8][392] of the Land Amendment Act 1953 (1953 No 67).
+    Section 153A: inserted (with effect on 1 April 1949), on 26 November 1953, by [section 8][393] of the Land Amendment Act 1953 (1953 No 67).
     
-    Section 153A(1): amended, on 19 October 1965, by [section 20(b)][393] of the Land Amendment Act 1965 (1965 No 48).
+    Section 153A(1): amended, on 19 October 1965, by [section 20(b)][394] of the Land Amendment Act 1965 (1965 No 48).
     
-    Section 153A(1)(b): amended, on 19 October 1965, by [section 20(a)][393] of the Land Amendment Act 1965 (1965 No 48).
+    Section 153A(1)(b): amended, on 19 October 1965, by [section 20(a)][394] of the Land Amendment Act 1965 (1965 No 48).
 
 ##### 154 Servicemen to be notified of 1942 basic value
     
 *   Any serviceman or discharged serviceman to whom [section 155][213] applies and who has not before the commencement of this section been notified by the Board of the 1942 basic value as at the date of the disposal of the land as determined by the Board of the fee simple of the land held by him shall be entitled upon making written application to the Commissioner to be notified by the Commissioner of that basic value.
     
-    Section 154: replaced, on 5 December 1951, by [section 14][394] of the Land Amendment Act 1951 (1951 No 60).
+    Section 154: replaced, on 5 December 1951, by [section 14][395] of the Land Amendment Act 1951 (1951 No 60).
 
 ##### 155 Application for review of liabilities
     
@@ -3542,7 +3544,7 @@ Servicemen and discharged servicemen
     
     provided that no such application shall be made by any transferee except within the period during which the application could have been made had the interest not been transferred.
     
-    Section 155: replaced, on 5 December 1951, by [section 15][395] of the Land Amendment Act 1951 (1951 No 60).
+    Section 155: replaced, on 5 December 1951, by [section 15][396] of the Land Amendment Act 1951 (1951 No 60).
 
 ##### 156 Review by the Board
     
@@ -3554,7 +3556,7 @@ Servicemen and discharged servicemen
     
     (2) Every determination of the Board made under this section shall forthwith be communicated to the applicant, together with a statement as to whether the Board considers that the basic value as determined by it as at the date of the disposal of the land exceeds the true 1942 basic value and, if so, what is the true 1942 basic value and what adjustments will in consequence be made to the liabilities of the applicant, together also with a statement of the applicant's right under [section 157][215] to apply to the Land Valuation Tribunal to fix that value.
     
-    Section 156: replaced, on 5 December 1951, by [section 16][396] of the Land Amendment Act 1951 (1951 No 60).
+    Section 156: replaced, on 5 December 1951, by [section 16][397] of the Land Amendment Act 1951 (1951 No 60).
     
     Section 156(2): amended, on 1 September 1977, by [section 6(3)][270] of the Land Valuation Proceedings Amendment Act 1977 (1977 No 15).
 
@@ -3562,15 +3564,15 @@ Servicemen and discharged servicemen
     
 *   (1) Where an applicant is dissatisfied with the determination of the Board as to the 1942 basic value of the land, he may, within 2 months after the communication to him of the determination of the Board under [section 156][214], or within such further time as under any special circumstances of sickness or accident or otherwise the Board or the court may in its discretion allow, apply to the Land Valuation Tribunal to fix the 1942 basic value.
     
-    (2) Every such application shall be made by notice in writing filed in the appropriate office of the District Court (as defined in [section 2][353] of the Land Valuation Proceedings Act 1948).
+    (2) Every such application shall be made by notice in writing filed in the appropriate office of the District Court (as defined in [section 2][354] of the Land Valuation Proceedings Act 1948).
     
     (3) Where in any case the applicant does not apply to the Land Valuation Tribunal within the time prescribed or allowed under subsection (1) to fix the 1942 basic value of the land, the determination of the Board shall be final and conclusive.
     
-    Section 157: replaced, on 5 December 1951, by [section 17][397] of the Land Amendment Act 1951 (1951 No 60).
+    Section 157: replaced, on 5 December 1951, by [section 17][398] of the Land Amendment Act 1951 (1951 No 60).
     
     Section 157(1): amended, on 1 September 1977, by [section 6(3)][270] of the Land Valuation Proceedings Amendment Act 1977 (1977 No 15).
     
-    Section 157(2): amended, on 1 April 1980, pursuant to [section 18(2)][288] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 157(2): amended, on 1 April 1980, pursuant to [section 18(2)][289] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 157(2): amended, on 1 September 1977, by [section 6(3)][270] of the Land Valuation Proceedings Amendment Act 1977 (1977 No 15).
     
@@ -3582,7 +3584,7 @@ Servicemen and discharged servicemen
     
     (2) Where the Land Valuation Tribunal determines that the true 1942 basic value of the land is less than the 1942 basic value as determined by the Board as at the date of the disposal of the land, the Board shall determine what consequential adjustments should be made in the rental value and rent or the purchase price of the land or the principal moneys secured by any mortgage or instrument by way of security to the Crown or to the State Advances Corporation of New Zealand so as to put the applicant in the same monetary position as he would have been in had the 1942 basic value been correctly determined by the Board as at the date of the disposal of the land. The decision of the Board as to what consequential adjustments should be made shall be final and conclusive.
     
-    Section 158: replaced, on 5 December 1951, by [section 18][398] of the Land Amendment Act 1951 (1951 No 60).
+    Section 158: replaced, on 5 December 1951, by [section 18][399] of the Land Amendment Act 1951 (1951 No 60).
     
     Section 158 heading: amended, on 1 September 1977, pursuant to [section 6(3)][270] of the Land Valuation Proceedings Amendment Act 1977 (1977 No 15).
     
@@ -3594,7 +3596,7 @@ Servicemen and discharged servicemen
     
 *   Subject to the provisions of [section 157][215] relating to applications to the Land Valuation Tribunal, where any review of liabilities is made in relation to any land as aforesaid, no application for a further review of liabilities shall be made in relation to that land.
     
-    Section 159: replaced, on 5 December 1951, by [section 19][399] of the Land Amendment Act 1951 (1951 No 60).
+    Section 159: replaced, on 5 December 1951, by [section 19][400] of the Land Amendment Act 1951 (1951 No 60).
     
     Section 159: amended, on 1 September 1977, by [section 6(3)][270] of the Land Valuation Proceedings Amendment Act 1977 (1977 No 15).
 
@@ -3606,7 +3608,7 @@ Servicemen and discharged servicemen
     
     (3) No fee shall be payable to any District Land Registrar or Registrar of the High Court in respect of the receipt or filing of any certificate under this section.
     
-    Section 160: replaced, on 5 December 1951, by [section 20][400] of the Land Amendment Act 1951 (1951 No 60).
+    Section 160: replaced, on 5 December 1951, by [section 20][401] of the Land Amendment Act 1951 (1951 No 60).
     
     Section 160(2): amended, on 1 April 1980, pursuant to [section 12][278] of the Judicature Amendment Act 1979 (1979 No 124).
     
@@ -3616,25 +3618,25 @@ Servicemen and discharged servicemen
     
 *   \[Repealed\]
     
-    Section 161: repealed, on 5 December 1951, by [section 13(1)][401] of the Land Amendment Act 1951 (1951 No 60).
+    Section 161: repealed, on 5 December 1951, by [section 13(1)][402] of the Land Amendment Act 1951 (1951 No 60).
 
 ##### 162 Board's determination to be final if no appeal filed
     
 *   \[Repealed\]
     
-    Section 162: repealed, on 5 December 1951, by [section 13(1)][401] of the Land Amendment Act 1951 (1951 No 60).
+    Section 162: repealed, on 5 December 1951, by [section 13(1)][402] of the Land Amendment Act 1951 (1951 No 60).
 
 ##### 163 No second review
     
 *   \[Repealed\]
     
-    Section 163: repealed, on 5 December 1951, by [section 13(1)][401] of the Land Amendment Act 1951 (1951 No 60).
+    Section 163: repealed, on 5 December 1951, by [section 13(1)][402] of the Land Amendment Act 1951 (1951 No 60).
 
 ##### 164 Adjustments to be endorsed on certificate of title
     
 *   \[Repealed\]
     
-    Section 164: repealed, on 5 December 1951, by [section 13(1)][401] of the Land Amendment Act 1951 (1951 No 60).
+    Section 164: repealed, on 5 December 1951, by [section 13(1)][402] of the Land Amendment Act 1951 (1951 No 60).
 
 ##### 164A Suspensory loans
     
@@ -3693,13 +3695,13 @@ Licences for timber, flax, minerals, and other purposes
     
     (6) \[Repealed\]
     
-    (6A) Nothing in this section shall derogate from the provisions of the [Resource Management Act 1991][333] or the [Crown Minerals Act 1991][402].
+    (6A) Nothing in this section shall derogate from the provisions of the [Resource Management Act 1991][334] or the [Crown Minerals Act 1991][403].
     
     Compare: 1924 No 31 ss 347, 348
     
     Section 165(1): amended, on 1 October 1991, by [section 362][267] of the Resource Management Act 1991 (1991 No 69).
     
-    Section 165(1): amended, on 26 November 1953, by [section 9(1)][403] of the Land Amendment Act 1953 (1953 No 67).
+    Section 165(1): amended, on 26 November 1953, by [section 9(1)][404] of the Land Amendment Act 1953 (1953 No 67).
     
     Section 165(2): repealed, on 1 October 1991, by [section 362][267] of the Resource Management Act 1991 (1991 No 69).
     
@@ -3722,37 +3724,37 @@ Reserves
     
 *   (1) The Minister of Conservation may from time to time, with the prior consent in writing of the Minister of Lands, by notice in the _Gazette_, set apart as a reserve any Crown land for any purpose which in his or her opinion is desirable in the public interest. Every such notice shall take effect from the date thereof or from such later date as is specified in the notice.
     
-    (1A) On the recommendation of the Minister of Housing, any land held for State housing purposes under the [Housing Act 1955][404] may be set apart as a reserve under subsection (1) as if it were Crown land subject to this Act.
+    (1A) On the recommendation of the Minister of Housing, any land held for State housing purposes under the [Housing Act 1955][405] may be set apart as a reserve under subsection (1) as if it were Crown land subject to this Act.
     
     (2) Upon the notice aforesaid being published in the _Gazette_, the land described therein shall be and be deemed to be dedicated to the purpose for which it was reserved, and may at any time thereafter be granted for that purpose in fee simple, subject to the condition that it shall be held in trust for that purpose unless and until that purpose is lawfully changed.
     
     (3) Crown land may be set apart as a reserve under this section notwithstanding that it is subject to a pastoral lease or a pastoral occupation licence granted under this Act.
     
-    (4) Where any Crown land is set apart as a reserve under this section for any public purpose which is a Government work within the meaning of the [Public Works Act 1981][368], the land so set apart shall be deemed to be subject to that Act, save that [section 35][405] of that Act, other than the second and third provisoes to that section, shall have no application thereto.
+    (4) Where any Crown land is set apart as a reserve under this section for any public purpose which is a Government work within the meaning of the [Public Works Act 1981][369], the land so set apart shall be deemed to be subject to that Act, save that [section 35][406] of that Act, other than the second and third provisoes to that section, shall have no application thereto.
     
-    (5) For the purposes of this section the balance of the lands described in [Schedules 3][406] and [4][407] of the Westland and Nelson Coalfields Administration Act 1877, as amended by the [Westland and Nelson Coalfields Administration Act 1901][408], and by [section 7][409] of the Reserves and other Lands Disposal Act 1932, remaining vested in the Crown, and which has not been set apart for any public purpose, shall be deemed to be Crown land:
+    (5) For the purposes of this section the balance of the lands described in [Schedules 3][407] and [4][408] of the Westland and Nelson Coalfields Administration Act 1877, as amended by the [Westland and Nelson Coalfields Administration Act 1901][409], and by [section 7][410] of the Reserves and other Lands Disposal Act 1932, remaining vested in the Crown, and which has not been set apart for any public purpose, shall be deemed to be Crown land:
     
     provided that no part of the said lands shall be set apart as a reserve without the approval of the Minister of Transport.
     
     (6) A copy of any notice by the Minister of Conservation under subsection (1) and published in the _Gazette_ may be forwarded to the District Land Registrar or the Registrar of Deeds, as the case may require, who shall thereupon, without payment of any fee, record the copy of the notice and register it against the appropriate title (if any).
     
-    Compare: 1924 No 31 ss 359, 361; 1925 No 15 s 71; 1938 No 19 [s 13][410]
+    Compare: 1924 No 31 ss 359, 361; 1925 No 15 s 71; 1938 No 19 [s 13][411]
     
     Section 167(1): replaced, on 25 November 1994, by section 4 of the Foreshore and Seabed Endowment Revesting Amendment Act 1994 (1994 No 113).
     
     Section 167(1A): inserted (with effect on 1 April 1954), on 28 September 1954, by section 2(2) of the Land Amendment Act 1954 (1954 No 37).
     
-    Section 167(1A): amended. on 21 October 1955, by [section 13(2)][411] of the Housing Act 1955 (1955 No 51).
+    Section 167(1A): amended. on 21 October 1955, by [section 13(2)][412] of the Housing Act 1955 (1955 No 51).
     
     Section 167(4): amended, on 25 November 1994, by section 4 of the Foreshore and Seabed Endowment Revesting Amendment Act 1994 (1994 No 113).
     
-    Section 167(4): amended, on 1 February 1982, pursuant to [section 248(1)][369] of the Public Works Act 1981 (1981 No 35).
+    Section 167(4): amended, on 1 February 1982, pursuant to [section 248(1)][370] of the Public Works Act 1981 (1981 No 35).
     
     Section 167(4): amended, on 1 October 1954, by section 4(3) of the Public Works Amendment Act 1954 (1954 No 85).
     
     Section 167(5): amended, on 1 September 1972, pursuant to section 6(2)(a) of the Ministry of Transport Amendment Act 1972 (1972 No 4).
     
-    Section 167(6): inserted, on 1 April 1954, by [section 11(2)][412] of the Land Amendment Act 1953 (1953 No 67).
+    Section 167(6): inserted, on 1 April 1954, by [section 11(2)][413] of the Land Amendment Act 1953 (1953 No 67).
     
     Section 167(6): amended, on 1 April 1987, by [section 65(1)][281] of the Conservation Act 1987 (1987 No 65).
 
@@ -3793,11 +3795,11 @@ Miscellaneous provisions
     
     (2) The memorandum of renewal or variation shall be signed by the Commissioner and by the lessee or licensee, and shall be registered with the District Land Registrar, who shall enter an appropriate memorial on the register book copy of the lease or licence and on the outstanding copy thereof:
     
-    provided that notwithstanding anything to the contrary in [section 66][413] of the Land Transfer Act 1952, a memorial of a memorandum of renewal or variation of any lease in respect of which a certificate of title has been issued under that section shall be entered on all relevant instruments and on that certificate of title, which shall have full validity and effect during the renewal or new term.
+    provided that notwithstanding anything to the contrary in [section 66][414] of the Land Transfer Act 1952, a memorial of a memorandum of renewal or variation of any lease in respect of which a certificate of title has been issued under that section shall be entered on all relevant instruments and on that certificate of title, which shall have full validity and effect during the renewal or new term.
     
     (3) On registration of any such memorandum of renewal or variation the lease or licence shall be deemed to have been renewed or exchanged, as the case may be, in the same way as if a renewal or new lease or licence for the term and subject to the conditions set out in the memorandum of renewal or variation had been duly executed and registered, and shall continue to be subject to the same reservations, trusts, rights, titles, interests, and encumbrances as those to which the land in the lease or licence was subject immediately before the registration of the said memorandum of renewal or variation.
     
-    Section 170(2) proviso: amended, on 1 January 1953, pursuant to [section 245(1)][304] of the Land Transfer Act 1952 (1952 No 52).
+    Section 170(2) proviso: amended, on 1 January 1953, pursuant to [section 245(1)][305] of the Land Transfer Act 1952 (1952 No 52).
 
 ##### 170A Variation of covenants in leases and licences
     
@@ -3807,7 +3809,7 @@ Miscellaneous provisions
     
     (3) If the interest of the lessee or licensee is at the time of the registration of the memorandum of variation subject to any mortgage, the memorandum shall not be binding on the mortgagee unless he has consented in writing thereto in the memorandum.
     
-    Section 170A: inserted, on 26 November 1953, by [section 10][414] of the Land Amendment Act 1953 (1953 No 67).
+    Section 170A: inserted, on 26 November 1953, by [section 10][415] of the Land Amendment Act 1953 (1953 No 67).
 
 ##### 170B Rates of interest
     
@@ -3841,17 +3843,17 @@ Miscellaneous provisions
     
     (4) Nothing in this section shall be construed to derogate from any other provision of this Act under which the Board has power to determine the terms, conditions, and manner of repayment of any advances made by the Board or money due to the Crown.
     
-    Section 170B: inserted, on 1 January 1969, by [section 6][415] of the Land Amendment Act 1968 (1968 No 50).
+    Section 170B: inserted, on 1 January 1969, by [section 6][416] of the Land Amendment Act 1968 (1968 No 50).
     
-    Section 170B(1): amended, on 9 November 1984, by [section 2(1)][416] of the Land Amendment Act 1984 (1984 No 11).
+    Section 170B(1): amended, on 9 November 1984, by [section 2(1)][417] of the Land Amendment Act 1984 (1984 No 11).
     
-    Section 170B(1)(a): amended, on 21 November 1977, by [section 7(a)][417] of the Land Amendment Act 1977 (1977 No 51).
+    Section 170B(1)(a): amended, on 21 November 1977, by [section 7(a)][418] of the Land Amendment Act 1977 (1977 No 51).
     
-    Section 170B(1)(b): replaced, on 21 November 1977, by [section 7(b)][417] of the Land Amendment Act 1977 (1977 No 51).
+    Section 170B(1)(b): replaced, on 21 November 1977, by [section 7(b)][418] of the Land Amendment Act 1977 (1977 No 51).
     
-    Section 170B(1A): inserted, on 9 November 1984, by [section 2(2)][416] of the Land Amendment Act 1984 (1984 No 11).
+    Section 170B(1A): inserted, on 9 November 1984, by [section 2(2)][417] of the Land Amendment Act 1984 (1984 No 11).
     
-    Section 170B(2): amended, on 9 November 1984, by [section 2(3)][416] of the Land Amendment Act 1984 (1984 No 11).
+    Section 170B(2): amended, on 9 November 1984, by [section 2(3)][417] of the Land Amendment Act 1984 (1984 No 11).
 
 ##### 171 Issue of certificate of title where fee simple of several leases acquired; and amalgamation of leases
     
@@ -3863,25 +3865,25 @@ Miscellaneous provisions
 
 ##### 172 No title by user or adverse possession
     
-*   (1) No dedication or grant of a right of way shall, by reason only of user, be presumed or allowed to be asserted or established as against the Crown, or as against any person or body holding lands for any public work or in trust for any public purpose or as against any State enterprise referred to in [Schedule 2][418] of the State-Owned Enterprises Act 1986, or as against a mixed ownership model company within the meaning of [section 45P][419] of the Public Finance Act 1989, whether such user commenced before or after the coming into force of this Act.
+*   (1) No dedication or grant of a right of way shall, by reason only of user, be presumed or allowed to be asserted or established as against the Crown, or as against any person or body holding lands for any public work or in trust for any public purpose or as against any State enterprise referred to in [Schedule 2][419] of the State-Owned Enterprises Act 1986, or as against a mixed ownership model company within the meaning of [section 45P][420] of the Public Finance Act 1989, whether such user commenced before or after the coming into force of this Act.
     
-    (2) No title to any land that is a road or street, or is held for any public work, or that has in any manner been reserved for any purpose, or that is deemed to be reserved from sale or other disposition in accordance with [section 58][85], or the corresponding provisions of any former Land Act, and no right, privilege, or easement in, upon, or over any such land shall be acquired, or be deemed at any time heretofore to have been acquired, by possession or user adversely to or in derogation of the title of Her Majesty, or of any local authority, public body, State enterprise referred to in [Schedule 2][418] of the State-Owned Enterprises Act 1986, a mixed ownership model company (within the meaning of [section 45P][419] of the Public Finance Act 1989), or person in whom the land has been at any time vested in trust for the purposes for which it has been reserved as aforesaid.
+    (2) No title to any land that is a road or street, or is held for any public work, or that has in any manner been reserved for any purpose, or that is deemed to be reserved from sale or other disposition in accordance with [section 58][85], or the corresponding provisions of any former Land Act, and no right, privilege, or easement in, upon, or over any such land shall be acquired, or be deemed at any time heretofore to have been acquired, by possession or user adversely to or in derogation of the title of Her Majesty, or of any local authority, public body, State enterprise referred to in [Schedule 2][419] of the State-Owned Enterprises Act 1986, a mixed ownership model company (within the meaning of [section 45P][420] of the Public Finance Act 1989), or person in whom the land has been at any time vested in trust for the purposes for which it has been reserved as aforesaid.
     
     (3) Subsection (2) applies despite any enactment that prescribes a limitation period or other limitation defence.
     
     Compare: 1924 No 31 s 13; 1931 No 40 s 10
     
-    Section 172(1): amended, on 30 June 2012, by [section 11][420] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+    Section 172(1): amended, on 30 June 2012, by [section 11][421] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
     
     Section 172(1): amended, on 1 April 1987, by [section 32(1)][275] of the State-Owned Enterprises Act 1986 (1986 No 124).
     
-    Section 172(2): amended, on 30 June 2012, by [section 11][420] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+    Section 172(2): amended, on 30 June 2012, by [section 11][421] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
     
-    Section 172(2): amended, on 1 January 2011, by [section 58][421] of the Limitation Act 2010 (2010 No 110).
+    Section 172(2): amended, on 1 January 2011, by [section 58][422] of the Limitation Act 2010 (2010 No 110).
     
     Section 172(2): amended, on 1 April 1987, by [section 32(1)][275] of the State-Owned Enterprises Act 1986 (1986 No 124).
     
-    Section 172(3): inserted, on 1 January 2011, by [section 58][421] of the Limitation Act 2010 (2010 No 110).
+    Section 172(3): inserted, on 1 January 2011, by [section 58][422] of the Limitation Act 2010 (2010 No 110).
 
 ##### 173 No certiorari
     
@@ -3893,7 +3895,7 @@ Miscellaneous provisions
 
 ##### 174 Valuer to make declaration
     
-*   Where any person is employed to make a valuation for the purposes of this Act he shall, if so required by the Board, before entering into consideration of any matters referred to him, make and subscribe a declaration under the [Oaths and Declarations Act 1957][422] that---
+*   Where any person is employed to make a valuation for the purposes of this Act he shall, if so required by the Board, before entering into consideration of any matters referred to him, make and subscribe a declaration under the [Oaths and Declarations Act 1957][423] that---
         
     *   (a) he has no interest, directly or indirectly, in the matter referred to him; and
     
@@ -3901,13 +3903,13 @@ Miscellaneous provisions
     
     Compare: 1924 No 31 s 87
     
-    Section 174: amended, on 1 April 1958, pursuant to [section 32(1)][423] of the Oaths and Declarations Act 1957 (1957 No 88).
+    Section 174: amended, on 1 April 1958, pursuant to [section 32(1)][424] of the Oaths and Declarations Act 1957 (1957 No 88).
 
 ##### 175 Limitation on area which may be held
     
 *   \[Repealed\]
     
-    Section 175: repealed, on 23 June 1998, by [section 5(a)][424] of the Land Amendment Act 1998 (1998 No 66).
+    Section 175: repealed, on 23 June 1998, by [section 5(a)][425] of the Land Amendment Act 1998 (1998 No 66).
 
 ##### 176 Trespass on or damage to Crown land
     
@@ -3917,7 +3919,7 @@ Miscellaneous provisions
     
     *   (b) any public reserve not granted to or vested in any local body, trustees, or other persons,---
     
-    but shall not include any lands which are subject to the [Forests Act 1949][425].
+    but shall not include any lands which are subject to the [Forests Act 1949][426].
     
     (2) Every person commits an offence against this Act who, without right, title, or licence,---
         
@@ -3933,7 +3935,7 @@ Miscellaneous provisions
     
     *   (f) uses, sells, or otherwise disposes of any wood, timber, bark, flax, mineral, gravel, guano, or other substance whatever knowing the same to have been removed unlawfully from lands of the Crown.
     
-    (3) No person shall be convicted under this section except on the information of the Commissioner or of some person appointed in writing by him.
+    (3) Only the Commissioner, or some person appointed in writing by the Commissioner, may file a charging document for an offence under this section.
     
     (4) If any person is found on any lands of the Crown having in his possession any live or dead timber, trees, bark, flax, mineral, gravel, guano, or other substance, he shall for the purposes of this section be deemed, in the absence of proof to the contrary, to have cut, stripped, dug, or removed the same from the lands of the Crown, and the onus shall lie on him of proving that he did not do so or that he had authority to do so.
     
@@ -3951,17 +3953,17 @@ Miscellaneous provisions
     
     Compare: 1924 No 31 ss 39, 40, 41
     
-    Section 176(1): amended, on 1 January 1950, pursuant to [section 73(1)][426] of the Forests Act 1949 (1949 No 19).
+    Section 176(1): amended, on 1 January 1950, pursuant to [section 73(1)][427] of the Forests Act 1949 (1949 No 19).
     
     Section 176(2)(e): repealed, on 20 October 1955, by section 62(1) of the Forest and Rural Fires Act 1955 (1955 No 44).
     
-    Section 176(3): amended, on 21 November 1977, by [section 8(2)][427] of the Land Amendment Act 1977 (1977 No 51).
+    Section 176(3): replaced, on 1 July 2013, by [section 413][285] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 176(7): amended, on 1 April 1980, pursuant to [section 18(2)][288] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 176(7): amended, on 1 April 1980, pursuant to [section 18(2)][289] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 177 Claims for compensation
     
-*   (1) All claims for compensation in respect of any matters arising under this Act, or for value of improvements shall, unless otherwise specially provided in this Act, be settled within the time and in the manner provided by the [Public Works Act 1981][368] and the provisions of that Act shall, so far as they are applicable and with the necessary modifications, apply with respect to any such claims under this Act:
+*   (1) All claims for compensation in respect of any matters arising under this Act, or for value of improvements shall, unless otherwise specially provided in this Act, be settled within the time and in the manner provided by the [Public Works Act 1981][369] and the provisions of that Act shall, so far as they are applicable and with the necessary modifications, apply with respect to any such claims under this Act:
     
     provided that in any such case the claim shall be settled in the manner provided in this subsection only in the event of the failure of the parties concerned to arrive at an agreement without taking proceedings under this subsection.
     
@@ -3969,13 +3971,13 @@ Miscellaneous provisions
     
     Compare: 1924 No 31 s 85
     
-    Section 177(1): amended, on 1 February 1982, pursuant to [section 248(1)][369] of the Public Works Act 1981 (1981 No 35).
+    Section 177(1): amended, on 1 February 1982, pursuant to [section 248(1)][370] of the Public Works Act 1981 (1981 No 35).
 
 ##### 178 Kauri gum reserves
     
 *   \[Repealed\]
     
-    Section 178: repealed, on 26 November 1953, by [section 9(3)][403] of the Land Amendment Act 1953 (1953 No 67).
+    Section 178: repealed, on 26 November 1953, by [section 9(3)][404] of the Land Amendment Act 1953 (1953 No 67).
 
 ##### 179 Land Subdivision in Counties Act 1946 not to form part of Land Act
     
@@ -4013,19 +4015,21 @@ Miscellaneous provisions
     
     Section 181(2)(b): amended, on 18 November 1964, by section 3 of the Land Amendment Act 1964 (1964 No 94).
     
-    Section 181(3): repealed, on 1 July 1989, by [section 86(1)][336] of the Public Finance Act 1989 (1989 No 44).
+    Section 181(3): repealed, on 1 July 1989, by [section 86(1)][337] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 182 Offences
     
-*   (1) Except where otherwise provided in this Act, every person who commits an offence against this Act is liable on summary conviction to a fine not exceeding $400 or to imprisonment for any term not exceeding 1 year, and, where the offence is a continuing one, to a further fine not exceeding $10 for every day during which the offence continues.
+*   (1) Except where otherwise provided in this Act, every person who commits an offence against this Act is liable on conviction to a fine not exceeding $400 or to imprisonment for any term not exceeding 1 year, and, where the offence is a continuing one, to a further fine not exceeding $10 for every day during which the offence continues.
     
-    (2) Notwithstanding [section 14][431] of the Summary Proceedings Act 1957, any information in respect of any offence against this Act may be laid at any time within 1 year from the time when the matter of the information arose.
+    (2) Despite anything to the contrary in [section 25][431] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was committed.
     
     Compare: 1924 No 31 s 388
     
+    Section 182(1): amended, on 1 July 2013, by [section 413][285] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 182(1): amended, on 1 January 1955, pursuant to section 40(1) of the Criminal Justice Act 1954 (1954 No 50).
     
-    Section 182(2): inserted, on 21 November 1977, by [section 8(1)][427] of the Land Amendment Act 1977 (1977 No 51).
+    Section 182(2): replaced, on 1 July 2013, by [section 413][285] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 183 Service of notices
     
@@ -4326,7 +4330,7 @@ _Amendment(s) incorporated in the [Act(s)][449]_.
 
 ##### Reserves and other Lands Disposal Act 1939 (1939 No 23)
 
-_Amendment(s) incorporated in the [Act(s)][388]_.
+_Amendment(s) incorporated in the [Act(s)][389]_.
 
 ##### Reserves and other Lands Disposal Act 1941 (1941 No 21)
 
@@ -4391,8 +4395,8 @@ Schedule 1 **Land Laws Amendment Act 1920**: inserted, on 25 October 1956, by se
 ## Schedule 2  
 Certificate under section 116 of the Land Act 1948 for the issue of a certificate of title under the Land Transfer Act 1952
     
-*   Schedule 2: inserted, on 5 December 1951, by [section 8(3)][376] of the Land Amendment Act 1951 (1951 No 60).
-*   Schedule 2 heading: amended, on 1 January 1953, pursuant to [section 245(1)][304] of the Land Transfer Act 1952 (1952 No 52).
+*   Schedule 2: inserted, on 5 December 1951, by [section 8(3)][377] of the Land Amendment Act 1951 (1951 No 60).
+*   Schedule 2 heading: amended, on 1 January 1953, pursuant to [section 245(1)][305] of the Land Transfer Act 1952 (1952 No 52).
 
 Name, occupation, and address of person entitled to Crown grant:
 
@@ -4408,14 +4412,14 @@ Date from which entitled:
 
 Trusts, reservations, and restrictions affecting land, and general remarks:
 
-I hereby certify that the above particulars are correct, and the District Land Registrar is hereby authorised to issue accordingly a certificate of title under the [Land Transfer Act 1952][295] instead of a Crown grant.
+I hereby certify that the above particulars are correct, and the District Land Registrar is hereby authorised to issue accordingly a certificate of title under the [Land Transfer Act 1952][296] instead of a Crown grant.
 
 Signature:  
 (Director-General within the meaning of section 2 of the Survey Act 1986)
     
 *   Schedule 2: amended, on 1 July 1996, by section 5 of the Survey Amendment Act 1996 (1996 No 55).
 *   Schedule 2: amended, on 1 April 1987, by [section 32(1)][275] of the State-Owned Enterprises Act 1986 (1986 No 124).
-*   Schedule 2: amended, on 1 January 1953, pursuant to [section 245(1)][304] of the Land Transfer Act 1952 (1952 No 52).
+*   Schedule 2: amended, on 1 January 1953, pursuant to [section 245(1)][305] of the Land Transfer Act 1952 (1952 No 52).
 
 ---
 
@@ -4433,7 +4437,7 @@ Signature:
 
 ###### 1 General
     
-*   This is a reprint of the Land Act 1948\. The reprint incorporates all the amendments to the Act as at 30 June 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Land Act 1948\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][459] ![](/images/external_link.gif).
 
@@ -4480,27 +4484,29 @@ Signature:
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45): [section 11][420]
+*   Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45): [section 11][421]
     
-    Limitation Act 2010 (2010 No 110): [section 58][421]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][285]
+    
+    Limitation Act 2010 (2010 No 110): [section 58][422]
     
     Property Law Act 2007 (2007 No 91): [section 364(1)][284]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][319]
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][320]
     
     Local Government Act 2002 (2002 No 84): [section 262][271]
     
     Cadastral Survey Act 2002 (2002 No 12): [section 68(1), (2)][263]
     
-    Local Government (Rating) Act 2002 (2002 No 6): [section 137(1)][361]
+    Local Government (Rating) Act 2002 (2002 No 6): [section 137(1)][362]
     
     Public Trust Act 2001 (2001 No 100): [section 170(1)][265]
     
-    Public Audit Act 2001 (2001 No 10): [section 53][302]
+    Public Audit Act 2001 (2001 No 10): [section 53][303]
     
     [Land Amendment Act 1998][464] (1998 No 66)
     
-    Crown Pastoral Land Act 1998 (1998 No 65): [sections 102][274], [104][315]
+    Crown Pastoral Land Act 1998 (1998 No 65): [sections 102][274], [104][316]
     
     Survey Amendment Act 1996 (1996 No 55): section 5
     
@@ -4508,29 +4514,29 @@ Signature:
     
     Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][266]
     
-    Biosecurity Act 1993 (1993 No 95): [section 167(1)][358]
+    Biosecurity Act 1993 (1993 No 95): [section 167(1)][359]
     
     Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(2)][272]
     
-    Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46): [section 137(1)][312]
+    Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46): [section 137(1)][313]
     
     Resource Management Act 1991 (1991 No 69): [section 362][267]
     
     Judicature Amendment Act 1991 (1991 No 60): [section 3(1), (4)][280]
     
-    Conservation Law Reform Act 1990 (1990 No 31): [section 37][323]
+    Conservation Law Reform Act 1990 (1990 No 31): [section 37][324]
     
     Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][433]
     
     Survey Amendment Act (No 3) 1989 (1989 No 139): sections 6, 8(a)
     
-    Public Finance Act 1989 (1989 No 44): [sections 83(7)][290], [86(1)][336]
+    Public Finance Act 1989 (1989 No 44): [sections 83(7)][291], [86(1)][337]
     
-    Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48): [sections 41(3)][299], [52(1)][300]
+    Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48): [sections 41(3)][300], [52(1)][301]
     
-    Ministry of Works and Development Abolition Act 1988 (1988 No 42): [section 3(2)][293]
+    Ministry of Works and Development Abolition Act 1988 (1988 No 42): [section 3(2)][294]
     
-    Protection of Personal and Property Rights Act 1988 (1988 No 4): [section 117(3)][313]
+    Protection of Personal and Property Rights Act 1988 (1988 No 4): [section 117(3)][314]
     
     Conservation Act 1987 (1987 No 65): [section 65(1)][281]
     
@@ -4546,23 +4552,23 @@ Signature:
     
     [Land Amendment Act 1981][466] (1981 No 44)
     
-    Public Works Act 1981 (1981 No 35): [section 248(1)][369]
+    Public Works Act 1981 (1981 No 35): [section 248(1)][370]
     
-    National Parks Act 1980 (1980 No 66): [section 80(1)][337]
+    National Parks Act 1980 (1980 No 66): [section 80(1)][338]
     
-    District Courts Amendment Act 1979 (1979 No 125): [sections 2(3)][289], [18(2)][288]
+    District Courts Amendment Act 1979 (1979 No 125): [sections 2(3)][290], [18(2)][289]
     
     Judicature Amendment Act 1979 (1979 No 124): [section 12][278]
     
     Hunter Gift for the Settlement of Discharged Soldiers Amendment Act 1979 (1979 No 92): section 3(2)(c)
     
-    Local Government Amendment Act 1979 (1979 No 59): [section 8(3)][314]
+    Local Government Amendment Act 1979 (1979 No 59): [section 8(3)][315]
     
     [Land Amendment Act 1979][467] (1979 No 57)
     
-    Fencing Act 1978 (1978 No 50): [section 28(1)][343]
+    Fencing Act 1978 (1978 No 50): [section 28(1)][344]
     
-    Local Government Amendment Act 1978 (1978 No 43): [section 3(5)][349]
+    Local Government Amendment Act 1978 (1978 No 43): [section 3(5)][350]
     
     Public Finance Act 1977 (1977 No 65): section 139(1), (2)
     
@@ -4574,7 +4580,7 @@ Signature:
     
     Maori Affairs Amendment Act 1974 (1974 No 73): section 11(2)
     
-    Housing Corporation Act 1974 (1974 No 19): [section 50(2)][390]
+    Housing Corporation Act 1974 (1974 No 19): [section 50(2)][391]
     
     Coal Mines Amendment Act 1972 (1972 No 8): section 49(3)
     
@@ -4586,17 +4592,17 @@ Signature:
     
     Mining Act 1971 (1971 No 25): section 245
     
-    Age of Majority Act 1970 (1970 No 137): [section 6][344]
+    Age of Majority Act 1970 (1970 No 137): [section 6][345]
     
     [Land Amendment Act 1970][469] (1970 No 122)
     
-    Public Bodies Leases Act 1969 (1969 No 141): [section 28(1)(a)][386]
+    Public Bodies Leases Act 1969 (1969 No 141): [section 28(1)(a)][387]
     
     Mental Health Act 1969 (1969 No 16): section 129(4), (7)
     
     [Land Amendment Act 1968][470] (1968 No 50)
     
-    Land Valuation Proceedings Amendment Act 1968 (1968 No 42): [sections 2(4)][374], [15][269]
+    Land Valuation Proceedings Amendment Act 1968 (1968 No 42): [sections 2(4)][375], [15][269]
     
     [Land Amendment Act 1967][471] (1967 No 86)
     
@@ -4622,13 +4628,13 @@ Signature:
     
     Land Amendment Act 1958 (1958 No 72)
     
-    Oaths and Declarations Act 1957 (1957 No 88): [section 32(1)][423]
+    Oaths and Declarations Act 1957 (1957 No 88): [section 32(1)][424]
     
     Public Trust Office Act 1957 (1957 No 36): section 142(1)
     
     Land Amendment Act 1956 (1956 No 42)
     
-    Housing Act 1955 (1955 No 51): [sections 13(2)][411], [42(1)][294]
+    Housing Act 1955 (1955 No 51): [sections 13(2)][412], [42(1)][295]
     
     Forest and Rural Fires Act 1955 (1955 No 44): section 62(1)
     
@@ -4644,7 +4650,7 @@ Signature:
     
     [Land Amendment Act 1953][473] (1953 No 67)
     
-    Land Transfer Act 1952 (1952 No 52): [section 245(1)][304]
+    Land Transfer Act 1952 (1952 No 52): [section 245(1)][305]
     
     Land Amendment Act 1952 (1952 No 46)
     
@@ -4656,9 +4662,9 @@ Signature:
     
     Legislative Council Abolition Act 1950 (1950 No 3): [section 2(4)][430]
     
-    Statutes Amendment Act 1949 (1949 No 51): [section 31(2)][378]
+    Statutes Amendment Act 1949 (1949 No 51): [section 31(2)][379]
     
-    Forests Act 1949 (1949 No 19): [section 73(1)][426]
+    Forests Act 1949 (1949 No 19): [section 73(1)][427]
 
 
 
@@ -4947,153 +4953,153 @@ Signature:
 [282]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM129109
 [283]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM129566
 [284]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM969644
-[285]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM244384
-[286]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM244385
-[287]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM244388
-[288]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM35085
-[289]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM35057
-[290]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM163167
-[291]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM442940
-[292]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM291075
-[293]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM131610
-[294]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM291360
-[295]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM269031
-[296]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM141134
-[297]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM231010
-[298]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM231025
-[299]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM131665
-[300]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM131677
-[301]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM88548
-[302]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM88957
-[303]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM263683
-[304]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM272483
-[305]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM319569
-[306]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM320464
-[307]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM320117
-[308]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM262175
-[309]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM126527
-[310]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM328980
-[311]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM282012
-[312]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM264250
-[313]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM128108
-[314]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM34672
-[315]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM427215
-[316]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM373732
-[317]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM388257
-[318]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM242403
-[319]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM333795
-[320]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM282015
-[321]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM388258
-[322]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM263684
-[323]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM208750
-[324]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM103609
-[325]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM444304
-[326]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM427225
-[327]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM271280
-[328]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM373739
-[329]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM388259
-[330]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM396146
-[331]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM263685
-[332]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM388260
-[333]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM230264
-[334]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM38275
-[335]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM263686
-[336]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM163175
-[337]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM38526
-[338]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM36926
-[339]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM36943
-[340]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM36944
-[341]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM427226
-[342]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM21806
-[343]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM21887
-[344]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM396805
-[345]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM48683
-[346]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM271699
-[347]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM237298
-[348]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM237600
-[349]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM21254
-[350]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM384134
-[351]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM282016
-[352]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM396149
-[353]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM249219
-[354]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM373740
-[355]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM396150
-[356]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM373741
-[357]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM314622
-[358]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM316768
-[359]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM373742
-[360]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM132213
-[361]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM133500
-[362]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM373744
-[363]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM427067
-[364]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM427227
-[365]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM270041
-[366]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM270045
-[367]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM270047
-[368]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM45426
-[369]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM48604
-[370]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM236458
-[371]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM396151
-[372]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM442943
-[373]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM396152
-[374]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM388230
-[375]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM396153
-[376]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM263689
-[377]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM373747
-[378]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM260501
-[379]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM263695
-[380]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM396154
-[381]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM396155
-[382]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM396156
-[383]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM396157
-[384]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM394841
-[385]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM213203
-[386]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM395424
-[387]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM373749
-[388]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM226975
-[389]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM412238
-[390]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM412430
-[391]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM263697
-[392]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM282019
-[393]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM373750
-[394]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM263699
-[395]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM264100
-[396]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM264101
-[397]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM264102
-[398]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM264103
-[399]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM264104
-[400]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM264105
-[401]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM263698
-[402]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM242535
-[403]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM282020
-[404]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM291039
-[405]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM46039
-[406]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM13752
-[407]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM13754
-[408]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM134498
-[409]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM212890
-[410]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM225727
-[411]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM291094
-[412]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM282023
-[413]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM270475
-[414]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM282022
-[415]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM388261
-[416]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM75172
-[417]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM442944
-[418]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM98602
-[419]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM4576341
-[420]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM4538252
-[421]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM2033287
-[422]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM314552
-[423]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM316164
-[424]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM427228
-[425]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM255625
-[426]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM257423
-[427]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM442945
+[285]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM3360714
+[286]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM244384
+[287]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM244385
+[288]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM244388
+[289]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM35085
+[290]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM35057
+[291]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM163167
+[292]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM442940
+[293]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM291075
+[294]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM131610
+[295]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM291360
+[296]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM269031
+[297]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM141134
+[298]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM231010
+[299]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM231025
+[300]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM131665
+[301]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM131677
+[302]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM88548
+[303]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM88957
+[304]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM263683
+[305]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM272483
+[306]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM319569
+[307]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM320464
+[308]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM320117
+[309]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM262175
+[310]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM126527
+[311]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM328980
+[312]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM282012
+[313]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM264250
+[314]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM128108
+[315]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM34672
+[316]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM427215
+[317]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM373732
+[318]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM388257
+[319]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM242403
+[320]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM333795
+[321]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM282015
+[322]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM388258
+[323]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM263684
+[324]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM208750
+[325]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM103609
+[326]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM444304
+[327]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM427225
+[328]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM271280
+[329]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM373739
+[330]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM388259
+[331]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM396146
+[332]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM263685
+[333]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM388260
+[334]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM230264
+[335]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM38275
+[336]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM263686
+[337]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM163175
+[338]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM38526
+[339]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM36926
+[340]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM36943
+[341]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM36944
+[342]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM427226
+[343]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM21806
+[344]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM21887
+[345]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM396805
+[346]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM48683
+[347]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM271699
+[348]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM237298
+[349]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM237600
+[350]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM21254
+[351]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM384134
+[352]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM282016
+[353]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM396149
+[354]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM249219
+[355]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM373740
+[356]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM396150
+[357]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM373741
+[358]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM314622
+[359]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM316768
+[360]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM373742
+[361]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM132213
+[362]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM133500
+[363]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM373744
+[364]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM427067
+[365]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM427227
+[366]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM270041
+[367]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM270045
+[368]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM270047
+[369]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM45426
+[370]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM48604
+[371]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM236458
+[372]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM396151
+[373]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM442943
+[374]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM396152
+[375]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM388230
+[376]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM396153
+[377]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM263689
+[378]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM373747
+[379]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM260501
+[380]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM263695
+[381]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM396154
+[382]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM396155
+[383]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM396156
+[384]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM396157
+[385]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM394841
+[386]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM213203
+[387]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM395424
+[388]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM373749
+[389]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM226975
+[390]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM412238
+[391]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM412430
+[392]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM263697
+[393]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM282019
+[394]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM373750
+[395]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM263699
+[396]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM264100
+[397]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM264101
+[398]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM264102
+[399]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM264103
+[400]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM264104
+[401]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM264105
+[402]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM263698
+[403]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM242535
+[404]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM282020
+[405]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM291039
+[406]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM46039
+[407]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM13752
+[408]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM13754
+[409]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM134498
+[410]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM212890
+[411]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM225727
+[412]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM291094
+[413]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM282023
+[414]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM270475
+[415]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM282022
+[416]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM388261
+[417]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM75172
+[418]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM442944
+[419]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM98602
+[420]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM4576341
+[421]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM4538252
+[422]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM2033287
+[423]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM314552
+[424]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM316164
+[425]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM427228
+[426]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM255625
+[427]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM257423
 [428]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM339181
 [429]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM401040
 [430]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM260920
-[431]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM311191
+[431]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM3360067
 [432]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM242400
 [433]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM195558
 [434]: http://www.legislation.govt.nz/act/public/1948/0064/latest/link.aspx?id=DLM249036
