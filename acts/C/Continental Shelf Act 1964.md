@@ -1,5 +1,5 @@
 Reprint  
-as at 28 June 2013
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -143,7 +143,7 @@ An Act to make provision as to the exploration and exploitation of the continent
     
     (6) Subject to the provisions of subsection (3), nothing in the Mining Act 1926 or in the Coal Mines Act 1925 shall apply with respect to minerals in the seabed or subsoil of the continental shelf.
     
-    (7) Every person commits an offence, and is liable on summary conviction to a fine not exceeding £100, who prospects or mines for, or carries on operations for the recovery of, minerals in the seabed or subsoil of the continental shelf otherwise than pursuant to a licence under this section and in accordance with the conditions of the licence (not being a condition relating to the payment of royalties to the Crown).
+    (7) Every person commits an offence, and is liable on conviction to a fine not exceeding £100, who prospects or mines for, or carries on operations for the recovery of, minerals in the seabed or subsoil of the continental shelf otherwise than pursuant to a licence under this section and in accordance with the conditions of the licence (not being a condition relating to the payment of royalties to the Crown).
     
     (8) No licence may be granted under this section after the commencement of [section 5AA][7], regardless of whether an application for the licence is made before that date. Instead, clause 5 of [Schedule 1][24] of the Crown Minerals Act 1991 applies to the application as if it were an application described in subclause (1) of that clause.
     
@@ -155,9 +155,11 @@ An Act to make provision as to the exploration and exploitation of the continent
     
     Section 5(4): amended, on 1 April 1978, by section 25 of the Ministry of Energy Act 1977 (1977 No 33).
     
-    Section 5(8): inserted, on 24 May 2013, by [section 5][26] of the Continental Shelf Amendment Act 2013 (2013 No 16).
+    Section 5(7): amended, on 1 July 2013, by [section 413][26] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 5(9): inserted, on 24 May 2013, by [section 5][26] of the Continental Shelf Amendment Act 2013 (2013 No 16).
+    Section 5(8): inserted, on 24 May 2013, by [section 5][27] of the Continental Shelf Amendment Act 2013 (2013 No 16).
+    
+    Section 5(9): inserted, on 24 May 2013, by [section 5][27] of the Continental Shelf Amendment Act 2013 (2013 No 16).
 
 ##### 5AA Mining for minerals on continental shelf on or after commencement of this section
     
@@ -169,7 +171,7 @@ An Act to make provision as to the exploration and exploitation of the continent
     
     *   (c) the Minister of Transport were the appropriate Minister for the purposes of [section 2A][21] of that Act.
     
-    Section 5AA: inserted, on 24 May 2013, by [section 6][27] of the Continental Shelf Amendment Act 2013 (2013 No 16).
+    Section 5AA: inserted, on 24 May 2013, by [section 6][28] of the Continental Shelf Amendment Act 2013 (2013 No 16).
 
 ##### 5A Payments and contributions with respect to exploitation of continental shelf beyond 200 nautical miles
     
@@ -177,9 +179,9 @@ An Act to make provision as to the exploration and exploitation of the continent
         
     *   (a) every licence granted under [section 5][6] in respect of the exploitation of the non-living resources of the continental shelf beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured; and
     
-    *   (b) every permit granted under [section 25][28] of the Crown Minerals Act 1991 in respect of the exploration or prospecting for or the mining of petroleum in the seabed and subsoil of the continental shelf beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured; and
+    *   (b) every permit granted under [section 25][29] of the Crown Minerals Act 1991 in respect of the exploration or prospecting for or the mining of petroleum in the seabed and subsoil of the continental shelf beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured; and
     
-    *   (c) every permit granted under [section 25][29] of the Crown Minerals Act 1991, in respect of the exploration or prospecting for, or the mining of, minerals other than petroleum in the seabed and subsoil of the continental shelf beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured.
+    *   (c) every permit granted under [section 25][30] of the Crown Minerals Act 1991, in respect of the exploration or prospecting for, or the mining of, minerals other than petroleum in the seabed and subsoil of the continental shelf beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured.
     
     (2) The Minister of Energy shall impose in every licence to which this section applies the condition that the licensee pay to the Crown royalties at the rate specified in the licence.
     
@@ -191,9 +193,9 @@ An Act to make provision as to the exploration and exploitation of the continent
     
     Section 5A: inserted, on 1 August 1996, by section 4 of the Continental Shelf Amendment Act 1996 (1996 No 71).
     
-    Section 5A(1)(b): amended, on 24 May 2013, by [section 7(1)][30] of the Continental Shelf Amendment Act 2013 (2013 No 16).
+    Section 5A(1)(b): amended, on 24 May 2013, by [section 7(1)][31] of the Continental Shelf Amendment Act 2013 (2013 No 16).
     
-    Section 5A(1)(c): inserted, on 24 May 2013, by [section 7(2)][30] of the Continental Shelf Amendment Act 2013 (2013 No 16).
+    Section 5A(1)(c): inserted, on 24 May 2013, by [section 7(2)][31] of the Continental Shelf Amendment Act 2013 (2013 No 16).
 
 ##### 6 Oysters, other shellfish, and sponges on continental shelf
     
@@ -277,17 +279,17 @@ An Act to make provision as to the exploration and exploitation of the continent
     
     (2) In this section the term _continental shelf_ includes the seabed and subsoil of the submarine areas within the territorial limits of New Zealand.
     
-    Section 8(1)(a): repealed, on 28 June 2013, by [section 171][31] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
+    Section 8(1)(a): repealed, on 28 June 2013, by [section 171][32] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
     
-    Section 8(1)(b): repealed, on 28 June 2013, by [section 171][31] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
+    Section 8(1)(b): repealed, on 28 June 2013, by [section 171][32] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
     
-    Section 8(1)(f): repealed, on 28 June 2013, by [section 171][31] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
+    Section 8(1)(f): repealed, on 28 June 2013, by [section 171][32] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
     
-    Section 8(1)(g): repealed, on 28 June 2013, by [section 171][31] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
+    Section 8(1)(g): repealed, on 28 June 2013, by [section 171][32] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
     
-    Section 8(1)(i): repealed, on 28 June 2013, by [section 171][31] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
+    Section 8(1)(i): repealed, on 28 June 2013, by [section 171][32] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
     
-    Section 8(1)(j): repealed, on 28 June 2013, by [section 171][31] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
+    Section 8(1)(j): repealed, on 28 June 2013, by [section 171][32] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
 
 ##### 9 Act in force in Cook Islands
     
@@ -303,11 +305,11 @@ An Act to make provision as to the exploration and exploitation of the continent
     
     Section 9(2)(b): amended, on 1 April 1978, by section 25 of the Ministry of Energy Act 1977 (1977 No 33).
     
-    Section 9(2)(b): amended, at 11 pm on 19 October 1974, pursuant to [section 2(2)(c)][32] of the Niue Amendment Act 1974 (1974 No 43).
+    Section 9(2)(b): amended, at 11 pm on 19 October 1974, pursuant to [section 2(2)(c)][33] of the Niue Amendment Act 1974 (1974 No 43).
     
-    Section 9(2)(b): amended, at 10.30 pm on 4 August 1965, pursuant to [section 57(3)][33] of the Cook Islands Amendment Act 1964 (1964 No 70).
+    Section 9(2)(b): amended, at 10.30 pm on 4 August 1965, pursuant to [section 57(3)][34] of the Cook Islands Amendment Act 1964 (1964 No 70).
     
-    Section 9(2)(c): amended, at 11 pm on 19 October 1974, pursuant to [section 2(2)(d)][32] of the Niue Amendment Act 1974 (1974 No 43).
+    Section 9(2)(c): amended, at 11 pm on 19 October 1974, pursuant to [section 2(2)(d)][33] of the Niue Amendment Act 1974 (1974 No 43).
 
 ---
 
@@ -325,23 +327,23 @@ An Act to make provision as to the exploration and exploitation of the continent
 
 ###### 1 General
     
-*   This is a reprint of the Continental Shelf Act 1964\. The reprint incorporates all the amendments to the Act as at 28 June 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Continental Shelf Act 1964\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][34] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][35] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][35] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][36] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][36] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][37] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][37] and [17E][38] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][38] and [17E][39] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -372,11 +374,13 @@ An Act to make provision as to the exploration and exploitation of the continent
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72): [section 171][31]
+*   [Continental Shelf Amendment Act 2013][40] (2013 No 16)
     
-    [Continental Shelf Amendment Act 2013][39] (2013 No 16)
+    Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72): [section 171][32]
     
-    [Continental Shelf Amendment Act 2005][40] (2005 No 96)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][26]
+    
+    [Continental Shelf Amendment Act 2005][41] (2005 No 96)
     
     Continental Shelf Amendment Act 1996 (1996 No 71)
     
@@ -388,7 +392,7 @@ An Act to make provision as to the exploration and exploitation of the continent
     
     Petroleum Amendment Act 1975 (1975 No 43): section 9
     
-    Niue Amendment Act 1974 (1974 No 43): [section 2(2)(c), (d)][32]
+    Niue Amendment Act 1974 (1974 No 43): [section 2(2)(c), (d)][33]
     
     Ministry of Transport Amendment Act 1972 (1972 No 4): section 6(1)
     
@@ -396,7 +400,7 @@ An Act to make provision as to the exploration and exploitation of the continent
     
     Territorial Sea and Fishing Zone Act 1965 (1965 No 11): section 11
     
-    Cook Islands Amendment Act 1964 (1964 No 70): [section 57(3)][33]
+    Cook Islands Amendment Act 1964 (1964 No 70): [section 57(3)][34]
 
 
 
@@ -426,18 +430,19 @@ An Act to make provision as to the exploration and exploitation of the continent
 [23]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM5138007
 [24]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM247367
 [25]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM5226938
-[26]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM5138008
-[27]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM5138009
-[28]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM246328
-[29]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM5226925
-[30]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM5138011
-[31]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM3956359
-[32]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM413764
-[33]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM355058
-[34]: http://www.pco.parliament.govt.nz/reprints/
-[35]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM195439
-[36]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[37]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM195468
-[38]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM195470
-[39]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM5138003
-[40]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM361159
+[26]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM3360714
+[27]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM5138008
+[28]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM5138009
+[29]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM246328
+[30]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM5226925
+[31]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM5138011
+[32]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM3956359
+[33]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM413764
+[34]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM355058
+[35]: http://www.pco.parliament.govt.nz/reprints/
+[36]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM195439
+[37]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[38]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM195468
+[39]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM195470
+[40]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM5138003
+[41]: http://www.legislation.govt.nz/act/public/1964/0028/latest/link.aspx?id=DLM361159
