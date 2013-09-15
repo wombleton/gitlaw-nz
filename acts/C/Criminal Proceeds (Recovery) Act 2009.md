@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -870,9 +870,9 @@ Preliminary provisions
             
         *   (i) any other employee of the person or agency by whom the prosecutor is employed who has responsibilities for any matter directly connected with the proceedings; and
         
-        *   (ii) any counsel representing the person who laid the information in the proceedings; and
+        *   (ii) any counsel representing the person who commenced the proceedings; and
         
-        *   (iii) in the case of a private prosecution, the person who laid the information and any counsel representing that person
+        *   (iii) in the case of a private prosecution, the person who commenced the proceedings and any counsel representing that person
         
         
     
@@ -927,6 +927,10 @@ Preliminary provisions
     Section 5(1) **financial institution**: substituted, on 17 October 2009, by [section 161(2)][333] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
     
     Section 5(1) **lawyer**: replaced, on 25 February 2012, by [section 4][334] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
+    
+    Section 5(1) **prosecutor** paragraph (b)(ii): amended, on 1 July 2013, by [section 413][335] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 5(1) **prosecutor** paragraph (b)(iii): amended, on 1 July 2013, by [section 413][335] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 6 Meaning of significant criminal activity
     
@@ -995,9 +999,11 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (j) an order for relief from a foreign restraining order or foreign forfeiture order registered in New Zealand.
     
-    (2) Proceedings relating to instrument forfeiture orders are proceedings under the [Sentencing Act 2002][323] and, in relation to an appeal from an instrument forfeiture order, the [Summary Proceedings Act 1957][335] or the [Crimes Act 1961][336], as the case requires.
+    (2) Proceedings relating to instrument forfeiture orders are proceedings under the [Sentencing Act 2002][323] and, in relation to an appeal from an instrument forfeiture order, [subpart 4][336] of Part 6 of the Criminal Procedure Act 2011\.
     
     Compare: Criminal Assets Recovery Act 1990 s 5 (NSW)
+    
+    Section 10(2): amended, on 1 July 2013, by [section 413][335] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 11 Restraint not necessary before forfeiture
     
@@ -1081,13 +1087,15 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (b) in the case of an application made under [section 26][38],---
             
-        *   (i) the High Court; or
+        *   (i) the High Court, if the offence with which the instrument of crime is associated is for a category 4 offence, or if an order has been made under [section 68][338] or [70][339] of the Criminal Procedure Act 2011 transferring the proceedings in relation to the offence to the High Court:
         
-        *   (ii) if the charge of the offence with which the instrument of crime is associated has been or is to be tried in a District Court, the District Court.
+        *   (ii) the District Court, if subparagraph (i) does not apply.
         
         
     
     Compare: 1991 No 120 [s 39(1)][337]
+    
+    Section 20(b): replaced, on 1 July 2013, by [section 413][335] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Applications for restraining order made on and without notice
 
@@ -1101,7 +1109,7 @@ Criminal proceeds and instruments forfeiture regime
     
     (2) The court hearing an application for a restraining order may, at any time before the application is finally determined, direct the applicant to serve a copy of the application on a specified person or class of persons, in the manner and within the time that the court thinks fit.
     
-    Compare: 1991 No 120 [s 40(a), (b)][338]
+    Compare: 1991 No 120 [s 40(a), (b)][340]
 
 ##### 22 Application for restraining order without notice
     
@@ -1111,7 +1119,7 @@ Criminal proceeds and instruments forfeiture regime
     
     (3) Any provisions of this subpart that relate to restraining orders applied for on notice apply, with any necessary modifications, to restraining orders applied for without notice.
     
-    Compare: 1991 No 120 [s 41(1), (6)][339]
+    Compare: 1991 No 120 [s 41(1), (6)][341]
 
 #### Being heard at hearing for restraining order
 
@@ -1127,7 +1135,7 @@ Criminal proceeds and instruments forfeiture regime
     
     (2) Subsection (1) is subject to [section 22][32].
     
-    Compare: 1991 No [120 s 40(c)][338]
+    Compare: 1991 No [120 s 40(c)][340]
 
 #### Making restraining orders
 
@@ -1157,7 +1165,7 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (c) all of a respondent's property (including property acquired after the making of the order) other than specifically excluded property.
     
-    Compare: 1991 No 120 [ss 39(2)(b), (c)][337], [42(1)][340]
+    Compare: 1991 No 120 [ss 39(2)(b), (c)][337], [42(1)][342]
 
 ##### 26 Making restraining order relating to instrument of crime
     
@@ -1185,7 +1193,7 @@ Criminal proceeds and instruments forfeiture regime
         
         
     
-    Compare: 1991 No 120 [s 42(1)][340]
+    Compare: 1991 No 120 [s 42(1)][342]
 
 #### Registration of restraining orders
 
@@ -1201,7 +1209,7 @@ Criminal proceeds and instruments forfeiture regime
     
     (3) If the particulars are so recorded on the register, any person who subsequently deals with the property is deemed to have notice of the restraining order at the time of the dealing.
     
-    Compare: 1991 No 120 [s 57][341]
+    Compare: 1991 No 120 [s 57][343]
 
 #### Conditions on restraining order
 
@@ -1227,7 +1235,7 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (b) a member of the household of the respondent.
     
-    Compare: 1991 No 120 [s 42(2), (3)][340]
+    Compare: 1991 No 120 [s 42(2), (3)][342]
 
 #### Undertakings as to damages or costs in relation to restraining orders
 
@@ -1239,7 +1247,7 @@ Criminal proceeds and instruments forfeiture regime
     
     (3) Any expense incurred by the Crown in satisfaction of an undertaking given on behalf of the Crown under subsection (1) may be incurred without further appropriation than this section.
     
-    Compare: 1991 No 120 [s 45][342]
+    Compare: 1991 No 120 [s 45][344]
 
 #### Excluding severable interest from restrained property
 
@@ -1267,7 +1275,7 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (c) the likelihood that the interest will become subject to a forfeiture order.
     
-    Compare: 1991 No 120 [s 48][343]
+    Compare: 1991 No 120 [s 48][345]
 
 ##### 31 Excluding severable interest from restrained property when applicant mortgagee
     
@@ -1281,7 +1289,7 @@ Criminal proceeds and instruments forfeiture regime
     
     (2) If this subsection applies, any proceeds resulting from the sale of the property that are payable to the mortgagor are, if the restraining order is made, restrained property, despite the proceeds from the sale not being property that the court originally restrained.
     
-    Compare: 1991 No 120 [s 48][343]
+    Compare: 1991 No 120 [s 48][345]
 
 #### Disposition or dealings set aside from restrained property
 
@@ -1301,7 +1309,7 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (b) declare the respective rights of any persons who acquired interests in the property on or after the day on which the disposition or dealing took place and before the day of the order.
     
-    Compare: 1991 No 120 [s 59][344]
+    Compare: 1991 No 120 [s 59][346]
 
 #### Further orders associated with restraining orders
 
@@ -1339,9 +1347,9 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (d) with the leave of the court, any other person.
     
-    Compare: 1991 No 120 [s 47(3)][345]
+    Compare: 1991 No 120 [s 47(3)][347]
     
-    Section 33(2): replaced, on 25 February 2012, by [section 5][346] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
+    Section 33(2): replaced, on 25 February 2012, by [section 5][348] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
 
 ##### 34 Making further orders
     
@@ -1353,7 +1361,7 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (b) at any later time before the expiry of the associated restraining order.
     
-    Compare: 1991 No 120 [s 47(1)][345]
+    Compare: 1991 No 120 [s 47(1)][347]
 
 ##### 35 Types of further order
     
@@ -1383,19 +1391,19 @@ Criminal proceeds and instruments forfeiture regime
         
         
     
-    Compare: 1991 No 120 [s 47(2)][345]
+    Compare: 1991 No 120 [s 47(2)][347]
 
 ##### 36 Impact of certain further orders
     
 *   (1) A person to whom an order made under [section 35(c) or (e)(iii) or (iv)][53] applies, is not excused from answering any question, or furnishing any information, on the ground that compliance with that requirement could or would tend to incriminate that person or subject that person to any penalty or forfeiture.
     
-    (2) An examination by the Official Assignee under an order made under [section 35(e)(iii)][53] is a judicial proceeding within the meaning of [section 108][347] of the Crimes Act 1961 (which relates to perjury).
+    (2) An examination by the Official Assignee under an order made under [section 35(e)(iii)][53] is a judicial proceeding within the meaning of [section 108][349] of the Crimes Act 1961 (which relates to perjury).
     
     (3) A person required to be examined under an order made under [section 35(c) or (e)(iii)][53] must, before being required to comply with any requirements imposed by the order, be given a reasonable opportunity to arrange for a lawyer to accompany the person.
     
     (4) The proceeds of a sale resulting from an order made under [section 35(e)(v)][53] are restrained property, despite the proceeds from the sale not being the property that the court originally restrained.
     
-    Compare: 1991 No 120 [s 47(5), (6)][345]
+    Compare: 1991 No 120 [s 47(5), (6)][347]
 
 #### Duration of restraining orders and further orders
 
@@ -1421,7 +1429,7 @@ Criminal proceeds and instruments forfeiture regime
     
     (3) On the expiry of a restraining order, any further order associated with that restraining order also expires.
     
-    Compare: 1991 No 120 [s 65(1)][348]
+    Compare: 1991 No 120 [s 65(1)][350]
 
 ##### 38 Duration of restraining order when application for forfeiture order declined
     
@@ -1443,7 +1451,7 @@ Criminal proceeds and instruments forfeiture regime
     
     (4) If an application is made for restraining order B, the court must, so far as it is practicable and consistent with the interests of justice, ensure that the application is dealt with speedily.
     
-    Compare: 1991 No 120[s 41(2)--(5)][339]
+    Compare: 1991 No 120[s 41(2)--(5)][341]
 
 ##### 40 Duration of restraining order relating to instrument of crime in certain circumstances
     
@@ -1473,7 +1481,7 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (b) the acquittal or quashing occurs.
     
-    Compare: 1991 No 120 [s 65][348]
+    Compare: 1991 No 120 [s 65][350]
 
 ##### 41 Extending duration of restraining order
     
@@ -1485,7 +1493,7 @@ Criminal proceeds and instruments forfeiture regime
     
     (4) If, before a restraining order would otherwise expire under [section 37(1)][56], an application is made to a court under this section and the application is granted, the restraining order ceases to be in force on the date specified in the court's order.
     
-    Compare: 1991 No 120 [s 66(1), (2)][349]
+    Compare: 1991 No 120 [s 66(1), (2)][351]
 
 ##### 42 Additional matters relating to extending duration of restraining order
     
@@ -1493,7 +1501,7 @@ Criminal proceeds and instruments forfeiture regime
     
     (2) An applicant for an order under [section 41(1)][60] must serve a copy of the application on any person who, to the knowledge of the applicant, has an interest in the property that is the subject of the application.
     
-    Compare: 1991 No 120 [s 66(3), (4)][349]
+    Compare: 1991 No 120 [s 66(3), (4)][351]
 
 ### Subpart 3---Civil forfeiture orders
 
@@ -1503,13 +1511,13 @@ Criminal proceeds and instruments forfeiture regime
     
 *   The Commissioner may apply for a civil forfeiture order.
     
-    Compare: 1991 No 120 [s 8(1)][350]
+    Compare: 1991 No 120 [s 8(1)][352]
 
 ##### 44 Application to High Court
     
 *   An application for a civil forfeiture order must be made to the High Court.
     
-    Compare: 1991 No 120 [s 8(2)][350]
+    Compare: 1991 No 120 [s 8(2)][352]
 
 #### Notice and entitlement to be heard in relation to civil forfeiture orders
 
@@ -1521,7 +1529,7 @@ Criminal proceeds and instruments forfeiture regime
     
     (3) On an application for a civil forfeiture order, the High Court may, at any time before the application is finally determined, direct the Commissioner to serve notice of the application on a specified person or class of persons, in the manner and within the time the Court thinks fit.
     
-    Compare: 1991 No 120 [s 10(1)][351]
+    Compare: 1991 No 120 [s 10(1)][353]
 
 ##### 46 Who may be heard at hearing for civil forfeiture order
     
@@ -1533,7 +1541,7 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (c) any other person who claims an interest in the property to which the application relates.
     
-    Compare: 1991 No 120 [s 10(2)][351]
+    Compare: 1991 No 120 [s 10(2)][353]
 
 #### Matters relating to application for civil forfeiture order
 
@@ -1557,7 +1565,7 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (b) any person who the Commissioner has reason to believe may have an interest in any additional property included in the application by the amendment.
     
-    Compare: 1991 No 120 [s 12][352]
+    Compare: 1991 No 120 [s 12][354]
 
 ##### 48 Notice of application for civil forfeiture order may be recorded on registers
     
@@ -1577,7 +1585,7 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (c) the application to which the entry relates is amended so as to exclude the property in respect of which the entry is made.
     
-    Compare: 1991 No 120 [s 11][353]
+    Compare: 1991 No 120 [s 11][355]
 
 #### Application for assets forfeiture order
 
@@ -1593,7 +1601,7 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (d) any other persons who, to the knowledge of the Commissioner, have an interest in the property to which the application relates.
     
-    Compare: 1991 No 120 [s 9][354]
+    Compare: 1991 No 120 [s 9][356]
 
 #### Making assets forfeiture order
 
@@ -1619,7 +1627,7 @@ Criminal proceeds and instruments forfeiture regime
     
     (5) If any property that is land is vested in the Crown absolutely as a consequence of an assets forfeiture order made under subsection (3), an interest recorded on the title to the land that is not affected by the assets forfeiture order is not extinguished.
     
-    Compare: 1991 No 120 [ss 15(1)][355], [16(1)][356]
+    Compare: 1991 No 120 [ss 15(1)][357], [16(1)][358]
 
 ##### 51 Exclusion of respondent's property from assets forfeiture order because of undue hardship
     
@@ -1649,7 +1657,7 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (d) identify the property in which the respondent holds interests and the nature of those interests.
     
-    Compare: 1991 No 120 [s 9][354]
+    Compare: 1991 No 120 [s 9][356]
 
 #### Making profit forfeiture order
 
@@ -1753,7 +1761,7 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (b) the respondent and any other person who claims an interest in the property are entitled to appear and to adduce evidence at the hearing of the application.
     
-    Compare: 1991 No 120 [s 29][357]
+    Compare: 1991 No 120 [s 29][359]
 
 #### Matters associated with making civil forfeiture order
 
@@ -1767,19 +1775,19 @@ Criminal proceeds and instruments forfeiture regime
     
     (2) Without limiting the generality of subsection (1)(b), if a Court makes a civil forfeiture order against any property the title to which is passed by registration on a register maintained under any New Zealand enactment, the Court may direct an officer of the Court to do anything reasonably necessary to obtain possession of any document required to effect the transfer of the property and for that purpose may, by warrant, authorise an officer to enter and search any place or thing and seize any document.
     
-    (3) [Part 4][358] of the Search and Surveillance Act 2012 (except [subpart 6][359]), so far as applicable and with all necessary modifications, applies in relation to a warrant issued under subsection (2) as if it were a warrant issued under [section 101][152] to a member of the police.
+    (3) [Part 4][360] of the Search and Surveillance Act 2012 (except [subpart 6][361]), so far as applicable and with all necessary modifications, applies in relation to a warrant issued under subsection (2) as if it were a warrant issued under [section 101][152] to a member of the police.
     
-    Compare: 1991 No 120[s 15(3)--(7)][355]
+    Compare: 1991 No 120[s 15(3)--(7)][357]
     
-    Section 59(3): amended, on 1 October 2012, by [section 214(1)][360] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 59(3): amended, on 1 October 2012, by [section 214(1)][362] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 60 Civil forfeiture order relating to land
     
-*   (1) Nothing in [section 50 or 55][75] affects the operation of [section 99][361] of the Land Transfer Act 1952 in relation to a civil forfeiture order made in respect of an estate or interest in land under that Act.
+*   (1) Nothing in [section 50 or 55][75] affects the operation of [section 99][363] of the Land Transfer Act 1952 in relation to a civil forfeiture order made in respect of an estate or interest in land under that Act.
     
-    (2) If the High Court makes a civil forfeiture order in respect of an estate or interest in land, the order must be transmitted by the Registrar of the Court to the Registrar-General of Land or the Registrar of Deeds, as the case may be, for the purposes of registration under the [Land Transfer Act 1952][362] or the [Deeds Registration Act 1908][363], as the case may require.
+    (2) If the High Court makes a civil forfeiture order in respect of an estate or interest in land, the order must be transmitted by the Registrar of the Court to the Registrar-General of Land or the Registrar of Deeds, as the case may be, for the purposes of registration under the [Land Transfer Act 1952][364] or the [Deeds Registration Act 1908][365], as the case may require.
     
-    Compare: 1991 No 120 [s 16(2), (3)][356]
+    Compare: 1991 No 120 [s 16(2), (3)][358]
 
 #### Relief from civil forfeiture order for persons other than respondent
 
@@ -1805,7 +1813,7 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (b) that evidence proposed to be adduced by the applicant in connection with the application under subsection (2) was not reasonably available to the applicant at the time of the hearing of the application for the civil forfeiture order.
     
-    Compare: 1991 No 120 [s 17(1), (2), (4)--(6)][364]
+    Compare: 1991 No 120 [s 17(1), (2), (4)--(6)][366]
 
 ##### 63 Application for relief from civil forfeiture order to identify nature and reasons for relief sought
     
@@ -1897,7 +1905,7 @@ Criminal proceeds and instruments forfeiture regime
     
     (2) If any property that is land is vested in the Crown absolutely as a consequence of an instrument forfeiture order made under subsection (1), an interest recorded on the title to the land that is not affected by the instrument forfeiture order is not extinguished.
     
-    Compare: 1991 No 120 [s 16(1), (3)][356]
+    Compare: 1991 No 120 [s 16(1), (3)][358]
 
 ##### 71 Additional matters in respect of making instrument forfeiture order
     
@@ -1909,19 +1917,19 @@ Criminal proceeds and instruments forfeiture regime
     
     (2) Without limiting the generality of subsection (1)(b), if a court makes an instrument forfeiture order against any property the title to which is passed by registration on a register maintained under any New Zealand enactment, the court may direct an officer of the court to do anything reasonably necessary to obtain possession of any document required to effect the transfer of the property and for that purpose may, by warrant, authorise an officer to enter and search any place or thing and seize any document.
     
-    (3) [Part 4][358] of the Search and Surveillance Act 2012 (except [subpart 6][359]), so far as applicable and with all necessary modifications, applies in relation to a warrant issued under subsection (2) as if it were a warrant issued under [section 101][152] to a member of the police.
+    (3) [Part 4][360] of the Search and Surveillance Act 2012 (except [subpart 6][361]), so far as applicable and with all necessary modifications, applies in relation to a warrant issued under subsection (2) as if it were a warrant issued under [section 101][152] to a member of the police.
     
-    Compare: 1991 No 120 [s 15(3)--(7)][355]
+    Compare: 1991 No 120 [s 15(3)--(7)][357]
     
-    Section 71(3): amended, on 1 October 2012, by [section 214(2)][360] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 71(3): amended, on 1 October 2012, by [section 214(2)][362] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 72 Instrument forfeiture order relating to land
     
-*   (1) Nothing in [section 70][101] affects the operation of [section 99][361] of the Land Transfer Act 1952 in relation to an instrument forfeiture order made in respect of an estate or interest under that Act.
+*   (1) Nothing in [section 70][101] affects the operation of [section 99][363] of the Land Transfer Act 1952 in relation to an instrument forfeiture order made in respect of an estate or interest under that Act.
     
-    (2) If a court makes an instrument forfeiture order in respect of an estate or interest in land, the order must be transmitted by the registrar of the court to the Registrar-General of Land or the Registrar of Deeds, as the case may be, for the purposes of registration under the [Land Transfer Act 1952][362] or the [Deeds Registration Act 1908][363], as the case may require.
+    (2) If a court makes an instrument forfeiture order in respect of an estate or interest in land, the order must be transmitted by the registrar of the court to the Registrar-General of Land or the Registrar of Deeds, as the case may be, for the purposes of registration under the [Land Transfer Act 1952][364] or the [Deeds Registration Act 1908][365], as the case may require.
     
-    Compare: 1991 No 120 [s 16(2), (3)][356]
+    Compare: 1991 No 120 [s 16(2), (3)][358]
 
 #### Disposal of forfeited property under instrument forfeiture order in certain circumstances
 
@@ -1937,7 +1945,7 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (b) on the date when all appeals in respect of the order have been withdrawn or finally determined.
     
-    Compare: 1991 No 120 [s 16(4), (5)][356]
+    Compare: 1991 No 120 [s 16(4), (5)][358]
 
 ##### 74 Discharge of instrument forfeiture order on appeal or quashing of conviction
     
@@ -1961,7 +1969,7 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (b) in any other case, and subject to [section 76][108], arrange for payment to the person (if known) of an amount equal to the value of the person's interest.
     
-    Compare: 1991 No 120 [s 19][365]
+    Compare: 1991 No 120 [s 19][367]
 
 ##### 75 Official Assignee may apply for directions regarding discharge of instrument forfeiture order under section 74
     
@@ -1975,13 +1983,13 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (c) every person who claims an interest in the application is entitled to appear and to adduce evidence at the hearing of the application.
     
-    Compare: 1991 No 120 [s 20][366]
+    Compare: 1991 No 120 [s 20][368]
 
 ##### 76 Double benefit not permitted
     
 *   If, on any application for relief made under [section 142J][328] of the Sentencing Act 2002 in respect of any interest in any property, a court has made an order under [section 142L(2)(b)(ii)][328] or [142M(2)(a)][328] of that Act, an amount equal to the amount payable by the Crown under that order must be deducted from any amount required to be paid, under [section 74(3)(b)][106], to that applicant in respect of that interest.
     
-    Compare: 1991 No 120 [s 21][367]
+    Compare: 1991 No 120 [s 21][369]
 
 #### Applications for relief relating to instrument forfeiture order
 
@@ -2003,9 +2011,9 @@ Criminal proceeds and instruments forfeiture regime
     
     (2) For the purposes of subsection (1),---
         
-    *   (a) the provisions of [sections 115][368] and [116 to 144B][369] of the Summary Proceedings Act 1957 apply as if every reference to a defendant were a reference to a person referred to in subsection (1):
+    *   (a) [subpart 6][370] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications:
     
-    *   (b) the provisions of [sections 383][370], [383A][371], and [385 to 399][372] of the Crimes Act 1961 apply as if every reference to a person convicted on indictment were a reference to a person referred to in subsection (1):
+    *   (b) \[Repealed\]
     
     *   (c) the court with jurisdiction to consider the appeal must determine---
             
@@ -2015,7 +2023,7 @@ Criminal proceeds and instruments forfeiture regime
                 
             *   (A) there is any good reason why the appellant failed to make an application for relief before the instrument forfeiture order was made; and
             
-            *   (B) if so, whether relief ought to be granted, having regard to the requirements set out in [section 142L][328] or [142M][373] of the Sentencing Act 2002 (whichever is applicable):
+            *   (B) if so, whether relief ought to be granted, having regard to the requirements set out in [section 142L][328] or [142M][371] of the Sentencing Act 2002 (whichever is applicable):
             
             
         
@@ -2024,6 +2032,10 @@ Criminal proceeds and instruments forfeiture regime
     *   (d) any notice or other document required to be given to either the prosecutor or the offender (whether under any provisions referred to in paragraph (a) or otherwise) must be given to both those persons.
     
     (3) Any appeal by an offender against sentence does not affect the right of any other person who claims to have an interest in the property that is the subject of the appeal to bring an appeal under this section.
+    
+    Section 78(2)(a): replaced, on 1 July 2013, by [section 413][335] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 78(2)(b): repealed, on 1 July 2013, by [section 413][335] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 79 Power of appeal court to vary offender's sentence
     
@@ -2053,7 +2065,7 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (d) if the property consists, wholly or in part, of a business, do anything that is necessary or convenient for carrying on that business.
     
-    Compare: 1991 No 120 [s 50][374]
+    Compare: 1991 No 120 [s 50][372]
 
 #### No liability for certain payments
 
@@ -2067,7 +2079,7 @@ Criminal proceeds and instruments forfeiture regime
     
     (2) The Official Assignee may not make mortgage payments in relation to restrained property or foreign restrained property unless directed by the court that made the restraining order or registered the foreign restraining order to do so out of the restrained property or foreign restrained property.
     
-    Compare: 1991 No 120 [s 61][375]
+    Compare: 1991 No 120 [s 61][373]
 
 #### Discharge of assets forfeiture orders by Official Assignee
 
@@ -2079,13 +2091,13 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (b) secondly, by paying to the Secretary for Justice the amount (if any) payable by way of legal aid granted to the former interest holder (less any contributions paid by the former interest holder):
     
-    *   (c) thirdly, by paying, in the order of priority set out in [section 86E][376] of the Summary Proceedings Act 1957, any of the following amounts imposed on the former interest holder:
+    *   (c) thirdly, by paying, in the order of priority set out in [section 86E][374] of the Summary Proceedings Act 1957, any of the following amounts imposed on the former interest holder:
             
-        *   (i) any amount of reparation (as defined in [section 79][377] of the Summary Proceedings Act 1957):
+        *   (i) any amount of reparation (as defined in [section 79][375] of the Summary Proceedings Act 1957):
         
-        *   (ii) any offender levy (as defined in [section 79][377] of the Summary Proceedings Act 1957):
+        *   (ii) any offender levy (as defined in [section 79][375] of the Summary Proceedings Act 1957):
         
-        *   (iii) any other type of fine (as defined in [section 79][377] of the Summary Proceedings Act 1957):
+        *   (iii) any other type of fine (as defined in [section 79][375] of the Summary Proceedings Act 1957):
         
         
     
@@ -2103,11 +2115,11 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (b) must, if he or she does so, hold the proceeds of realising those assets until the expiry of the specified period.
     
-    Compare: 1991 No 120 [s 54][378]
+    Compare: 1991 No 120 [s 54][376]
     
-    Section 82(1)(b): amended, on 1 July 2011, by [section 144][379] of the Legal Services Act 2011 (2011 No 4).
+    Section 82(1)(b): amended, on 1 July 2011, by [section 144][377] of the Legal Services Act 2011 (2011 No 4).
     
-    Section 82(1)(c): replaced, on 1 August 2012, by [section 4][380] of the Criminal Proceeds (Recovery) Amendment Act 2011 (2011 No 35).
+    Section 82(1)(c): replaced, on 1 August 2012, by [section 4][378] of the Criminal Proceeds (Recovery) Amendment Act 2011 (2011 No 35).
 
 #### Discharge of profit forfeiture order by Official Assignee
 
@@ -2119,13 +2131,13 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (b) secondly, by paying to the Secretary for Justice the amount (if any) payable by way of legal aid granted to the former interest holder (less any contributions paid by the former interest holder):
     
-    *   (c) thirdly, by paying, in the order of priority set out in [section 86E][376] of the Summary Proceedings Act 1957, any of the following amounts imposed on the former interest holder:
+    *   (c) thirdly, by paying, in the order of priority set out in [section 86E][374] of the Summary Proceedings Act 1957, any of the following amounts imposed on the former interest holder:
             
-        *   (i) any amount of reparation (as defined in [section 79][377] of the Summary Proceedings Act 1957):
+        *   (i) any amount of reparation (as defined in [section 79][375] of the Summary Proceedings Act 1957):
         
-        *   (ii) any offender levy (as defined in [section 79][377] of the Summary Proceedings Act 1957):
+        *   (ii) any offender levy (as defined in [section 79][375] of the Summary Proceedings Act 1957):
         
-        *   (iii) any other type of fine (as defined in [section 79][377] of the Summary Proceedings Act 1957):
+        *   (iii) any other type of fine (as defined in [section 79][375] of the Summary Proceedings Act 1957):
         
         
     
@@ -2155,27 +2167,27 @@ Criminal proceeds and instruments forfeiture regime
     
     (5) This section is subject to [section 84][123] and any regulations made under [section 173(d)][251].
     
-    Compare: 1991 No 120 [s 51][381]
+    Compare: 1991 No 120 [s 51][379]
     
-    Section 83(1)(b): amended, on 1 July 2011, by [section 144][379] of the Legal Services Act 2011 (2011 No 4).
+    Section 83(1)(b): amended, on 1 July 2011, by [section 144][377] of the Legal Services Act 2011 (2011 No 4).
     
-    Section 83(1)(c): replaced, on 1 August 2012, by [section 5][382] of the Criminal Proceeds (Recovery) Amendment Act 2011 (2011 No 35).
+    Section 83(1)(c): replaced, on 1 August 2012, by [section 5][380] of the Criminal Proceeds (Recovery) Amendment Act 2011 (2011 No 35).
 
 ##### 84 Bankruptcy in relation to profit forfeiture order
     
-*   (1) If, after a profit forfeiture order is made, the Official Assignee is given notice in writing of the filing of a creditor's application in respect of the person under [section 13][383] of the Insolvency Act 2006, the Official Assignee must, until the petition has been withdrawn or been disposed of, refrain from taking, or continuing to take, any of the following actions:
+*   (1) If, after a profit forfeiture order is made, the Official Assignee is given notice in writing of the filing of a creditor's application in respect of the person under [section 13][381] of the Insolvency Act 2006, the Official Assignee must, until the petition has been withdrawn or been disposed of, refrain from taking, or continuing to take, any of the following actions:
         
     *   (a) selling or disposing of the property specified in the order:
     
     *   (b) paying the amounts specified in [section 83][122].
     
-    (2) If a person whose property is the subject of a profit forfeiture order becomes bankrupt, the property that is the subject of the profit forfeiture order, if it has not yet been disposed of, ceases to be in the custody and control of the Official Assignee and is deemed to be vested in the Assignee of the bankrupt's property under [section 101][384] of the Insolvency Act 2006\.
+    (2) If a person whose property is the subject of a profit forfeiture order becomes bankrupt, the property that is the subject of the profit forfeiture order, if it has not yet been disposed of, ceases to be in the custody and control of the Official Assignee and is deemed to be vested in the Assignee of the bankrupt's property under [section 101][382] of the Insolvency Act 2006\.
     
     (3) A profit forfeiture order made against a person is provable in the bankruptcy of that person.
     
-    (4) To avoid doubt, subsection (3) applies despite anything in [section 232(2)][385] of the Insolvency Act 2006\.
+    (4) To avoid doubt, subsection (3) applies despite anything in [section 232(2)][383] of the Insolvency Act 2006\.
     
-    Compare: 1991 No 120 [s 60][386]
+    Compare: 1991 No 120 [s 60][384]
 
 #### Discharge of instrument forfeiture order by Official Assignee
 
@@ -2187,21 +2199,21 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (b) secondly, by paying to the Secretary for Justice the amount (if any) payable by way of legal aid granted to the former interest holder (less any contributions paid by the former interest holder):
     
-    *   (c) thirdly, by paying, in the order of priority set out in [section 86E][376] of the Summary Proceedings Act 1957, any of the following outstanding amounts imposed on the former interest holder:
+    *   (c) thirdly, by paying, in the order of priority set out in [section 86E][374] of the Summary Proceedings Act 1957, any of the following outstanding amounts imposed on the former interest holder:
             
-        *   (i) any amount of reparation (as defined in [section 79][377] of the Summary Proceedings Act 1957):
+        *   (i) any amount of reparation (as defined in [section 79][375] of the Summary Proceedings Act 1957):
         
-        *   (ii) any offender levy (as defined in [section 79][377] of the Summary Proceedings Act 1957):
+        *   (ii) any offender levy (as defined in [section 79][375] of the Summary Proceedings Act 1957):
         
-        *   (iii) any other type of fine (as defined in [section 79][377] of the Summary Proceedings Act 1957):
+        *   (iii) any other type of fine (as defined in [section 79][375] of the Summary Proceedings Act 1957):
         
         
     
     *   (d) fourthly, by paying any remaining money to the Crown.
     
-    Section 85(b): amended, on 1 July 2011, by [section 144][379] of the Legal Services Act 2011 (2011 No 4).
+    Section 85(b): amended, on 1 July 2011, by [section 144][377] of the Legal Services Act 2011 (2011 No 4).
     
-    Section 85(c): replaced, on 1 August 2012, by [section 6][387] of the Criminal Proceeds (Recovery) Amendment Act 2011 (2011 No 35).
+    Section 85(c): replaced, on 1 August 2012, by [section 6][385] of the Criminal Proceeds (Recovery) Amendment Act 2011 (2011 No 35).
 
 #### Discharge of foreign forfeiture order registered in New Zealand by Official Assignee
 
@@ -2243,9 +2255,9 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (b) proper remuneration for work undertaken by any person (being the Official Assignee or any delegate of the Official Assignee or any other member of the staff of the Official Assignee) in connection with the exercise or performance, by the Official Assignee or any delegate of the Official Assignee, of functions or powers under this Act in respect of the property.
     
-    Compare: 1991 No 120 [s 63][388]
+    Compare: 1991 No 120 [s 63][386]
     
-    Section 87(1)(a): amended, on 25 February 2012, by [section 6][389] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
+    Section 87(1)(a): amended, on 25 February 2012, by [section 6][387] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
 
 #### Delegation by Official Assignee
 
@@ -2257,7 +2269,7 @@ Criminal proceeds and instruments forfeiture regime
             
         *   (i) the Deputy Official Assignee for New Zealand; or
         
-        *   (ii) an Official Assignee or Deputy Official Assignee appointed under the [State Sector Act 1988][390]; and
+        *   (ii) an Official Assignee or Deputy Official Assignee appointed under the [State Sector Act 1988][388]; and
         
         
     
@@ -2271,7 +2283,7 @@ Criminal proceeds and instruments forfeiture regime
     
     (3) The power of the Official Assignee to delegate under subsection (1) does not limit any power of delegation conferred on the Official Assignee by any other Act.
     
-    Compare: 1991 No 120 [s 86(1)--(4)][391]
+    Compare: 1991 No 120 [s 86(1)--(4)][389]
 
 ##### 89 Acting under delegation from Official Assignee
     
@@ -2295,7 +2307,7 @@ Criminal proceeds and instruments forfeiture regime
     
     (6) Any person purporting to exercise or perform any functions or powers of the Official Assignee by virtue of a delegation under [section 88][131] must, when required to do so, produce evidence of that person's authority to exercise or perform the functions or powers.
     
-    Compare: 1991 No 120 [s 86(5)--(9)][391]
+    Compare: 1991 No 120 [s 86(5)--(9)][389]
 
 ##### 90 Revocation of delegation from Official Assignee
     
@@ -2303,7 +2315,7 @@ Criminal proceeds and instruments forfeiture regime
     
     (2) A delegation under [section 88][131], until it is revoked, continues in force according to its tenor, even though the Official Assignee by whom it was made may have ceased to hold office, and continues to have effect as if made by the successor in office of the Official Assignee.
     
-    Compare: 1991 No 120 [s 87][392]
+    Compare: 1991 No 120 [s 87][390]
 
 ### Subpart 6---Role of police
 
@@ -2311,7 +2323,7 @@ Criminal proceeds and instruments forfeiture regime
     
 *   In this subpart, unless the context otherwise requires, _Commissioner_ includes any member of the police to whom the powers, functions, or duties of the Commissioner under this Act are delegated.
     
-    Section 91: amended, on 25 February 2012, by [section 7][393] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
+    Section 91: amended, on 25 February 2012, by [section 7][391] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
 
 #### Functions of Commissioner of Police
 
@@ -2335,9 +2347,9 @@ Criminal proceeds and instruments forfeiture regime
     
     (3) This section applies despite any other provision of any enactment or rule of law or equity.
     
-    (4) A _final decision_ does not include a decision in proceedings for an interim order under [section 8][394] of the Judicature Amendment Act 1972\.
+    (4) A _final decision_ does not include a decision in proceedings for an interim order under [section 8][392] of the Judicature Amendment Act 1972\.
     
-    Compare: 1990 No 51 [s 21][395]
+    Compare: 1990 No 51 [s 21][393]
 
 ##### 94 Effect of final decision that exercise of powers unlawful
     
@@ -2363,7 +2375,7 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (b) may be used in connection with the exercise of any power conferred by this Act unless the court that declared the exercise of the powers to be unlawful is satisfied that there was no unfairness in obtaining the evidence.
     
-    Compare: 1990 No 51 [s 22][396]
+    Compare: 1990 No 51 [s 22][394]
 
 #### Approval of settlements
 
@@ -2383,13 +2395,13 @@ Criminal proceeds and instruments forfeiture regime
 
 #### Delegation of powers, functions, or duties of Commissioner of Police
     
-*   Heading: amended, on 25 February 2012, by [section 8][397] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
+*   Heading: amended, on 25 February 2012, by [section 8][395] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
 
 ##### 96 Delegation of powers, functions, or duties of Commissioner of Police
     
-*   The provisions of the [Policing Act 2008][398] relating to the delegation of powers, functions, or duties of the Commissioner apply in all respects to the powers, functions, or duties of the Commissioner under this Act.
+*   The provisions of the [Policing Act 2008][396] relating to the delegation of powers, functions, or duties of the Commissioner apply in all respects to the powers, functions, or duties of the Commissioner under this Act.
     
-    Section 96: replaced, on 25 February 2012, by [section 9][399] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
+    Section 96: replaced, on 25 February 2012, by [section 9][397] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
 
 #### Outside investigators appointed by Commissioner
 
@@ -2403,7 +2415,7 @@ Criminal proceeds and instruments forfeiture regime
     
     (2) Any person appointed under subsection (1) is deemed to be a member of the police for the purposes of the investigation in respect of which he or she is appointed.
     
-    Compare: 1990 No 51 [s 34][400]
+    Compare: 1990 No 51 [s 34][398]
 
 ##### 98 Disclosure to Commissioner of Police of information held by Inland Revenue Department
     
@@ -2467,7 +2479,7 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 101 Police may obtain warrant to search for and seize evidence and property
     
-*   (1) Any Judge may issue a warrant to search any place or thing, if the Judge is satisfied, on an application made in the manner provided in [subpart 3][401] of Part 4 of the Search and Surveillance Act 2012, that there are reasonable grounds for believing that property or evidence of the kind referred to in subsection (2) is in or on the place or thing, or will come into or onto the place or thing, while the warrant is in force.
+*   (1) Any Judge may issue a warrant to search any place or thing, if the Judge is satisfied, on an application made in the manner provided in [subpart 3][399] of Part 4 of the Search and Surveillance Act 2012, that there are reasonable grounds for believing that property or evidence of the kind referred to in subsection (2) is in or on the place or thing, or will come into or onto the place or thing, while the warrant is in force.
     
     (2) The property or evidence in respect of which a search warrant may be issued under subsection (1) is---
         
@@ -2481,19 +2493,23 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (b) before, on, or after the making of a restraining order.
     
-    (4) A warrant may be issued under subsection (1) whether or not an information has been laid in respect of the relevant qualifying instrument forfeiture offence.
+    (4) A warrant may be issued under subsection (1) whether or not a charging document has been filed in respect of the relevant qualifying instrument forfeiture offence.
     
-    (5) However, if an information has not been laid in respect of that offence at the time when the application for the warrant is made, the Judge must not issue a warrant unless the Judge is satisfied that an information will be laid in respect of the offence within 48 hours of the issue of the warrant.
+    (5) However, if a charging document has not been filed in respect of that offence at the time when the application for the warrant is made, the Judge must not issue a warrant unless the Judge is satisfied that a charging document will be filed in respect of the offence within 48 hours of the issue of the warrant.
     
-    Compare: 1991 No 120 [s 30][402]
+    Compare: 1991 No 120 [s 30][400]
     
-    Section 101(1): amended, on 1 October 2012, by [section 215(1)][403] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 101(1): amended, on 1 October 2012, by [section 215(1)][401] of the Search and Surveillance Act 2012 (2012 No 24).
+    
+    Section 101(4): amended, on 1 July 2013, by [section 413][335] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 101(5): amended, on 1 July 2013, by [section 413][335] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Commissioner's powers
 
 ##### 102 Commissioner may obtain warrant to search for and seize evidence and property
     
-*   (1) Any Judge may issue a warrant to search any place or thing if, on an application made in the manner provided in [subpart 3][401] of Part 4 of the Search and Surveillance Act 2012, the Judge is satisfied that there are reasonable grounds for believing property or evidence of the kind referred to in subsection (2) is in or on the place or thing, or will come into or onto the place or thing, while the warrant is in force.
+*   (1) Any Judge may issue a warrant to search any place or thing if, on an application made in the manner provided in [subpart 3][399] of Part 4 of the Search and Surveillance Act 2012, the Judge is satisfied that there are reasonable grounds for believing property or evidence of the kind referred to in subsection (2) is in or on the place or thing, or will come into or onto the place or thing, while the warrant is in force.
     
     (2) The property or evidence in respect of which a warrant may be issued under subsection (1) is---
         
@@ -2515,13 +2531,13 @@ Criminal proceeds and instruments forfeiture regime
     
     (4) A warrant may not be issued under subsection (1) in respect of any evidence or property solely because it is believed to relate to, or be, an instrument of crime.
     
-    Section 102(1): amended, on 1 October 2012, by [section 215(2)][403] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 102(1): amended, on 1 October 2012, by [section 215(2)][401] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 103 Commissioner to transfer property to Official Assignee
     
 *   If any property is seized pursuant to a warrant issued under [section 101][152] or [102(1)][154] (other than documents or other material believed to be evidence establishing the nature and extent of any person's interest in or control over an instrument of crime or any other property), the Commissioner must arrange for the property to be placed in the custody and control of the Official Assignee as soon as practicable after it is seized, unless otherwise directed by the court that issued the warrant.
     
-    Compare: 1991 No 120 [s 35][404]
+    Compare: 1991 No 120 [s 35][402]
 
 #### Production orders
 
@@ -2529,7 +2545,7 @@ Criminal proceeds and instruments forfeiture regime
     
 *   (1) The Commissioner may apply to a Judge for a production order under [section 105][158] if the Commissioner has reason to believe that a person has possession or control of documents that are relevant to an investigation by the Commissioner under this Act or to any proceedings under this Act.
     
-    (2) Every application under this section must be made in the manner provided in relation to a search warrant in [sections 99][405] and [100][406] of the Search and Surveillance Act 2012, and must contain the following particulars:
+    (2) Every application under this section must be made in the manner provided in relation to a search warrant in [sections 99][403] and [100][404] of the Search and Surveillance Act 2012, and must contain the following particulars:
         
     *   (a) the grounds on which the application is made:
     
@@ -2541,13 +2557,13 @@ Criminal proceeds and instruments forfeiture regime
     
     (4) Every person who commits an offence against subsection (3) is liable on conviction to imprisonment for a term not exceeding 1 year.
     
-    Compare: 1991 No 120 [s 68][407]
+    Compare: 1991 No 120 [s 68][405]
     
-    Section 104(2): amended, on 1 October 2012, by [section 215(3)][403] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 104(2): amended, on 1 October 2012, by [section 215(3)][401] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 104(3): inserted, on 1 October 2012, by [section 215(4)][403] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 104(3): inserted, on 1 October 2012, by [section 215(4)][401] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 104(4): inserted, on 1 October 2012, by [section 215(4)][403] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 104(4): inserted, on 1 October 2012, by [section 215(4)][401] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 105 Court may make production order
     
@@ -2579,15 +2595,15 @@ Criminal proceeds and instruments forfeiture regime
     
     (6) If any person is required to produce any document under this section and fails to do so, the Commissioner may require that person to state to the best of his of her knowledge or belief where the document is.
     
-    Compare: 1991 No 120 [s 69][408]
+    Compare: 1991 No 120 [s 69][406]
     
-    Section 105(1)(a): amended, on 25 February 2012, by [section 10][409] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
+    Section 105(1)(a): amended, on 25 February 2012, by [section 10][407] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
     
-    Section 105(1)(b): amended, on 25 February 2012, by [section 10][409] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
+    Section 105(1)(b): amended, on 25 February 2012, by [section 10][407] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
 
 #### Examination orders
     
-*   Heading: inserted, on 25 February 2012, by [section 11][410] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
+*   Heading: inserted, on 25 February 2012, by [section 11][408] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
 
 ##### 106 Application for examination order
     
@@ -2599,7 +2615,7 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (c) to produce for inspection any documents that the Commissioner has reason to believe are in the person's possession or control or may be relevant to the investigation or to any proceedings under this Act.
     
-    (2) Every application under this section must be made in the manner provided in relation to a search warrant in [sections 99][405] and [100][406] of the Search and Surveillance Act 2012, and must contain the following particulars:
+    (2) Every application under this section must be made in the manner provided in relation to a search warrant in [sections 99][403] and [100][404] of the Search and Surveillance Act 2012, and must contain the following particulars:
         
     *   (a) the grounds on which the application is made:
     
@@ -2611,17 +2627,17 @@ Criminal proceeds and instruments forfeiture regime
     
     (4) Every person who commits an offence against subsection (3) is liable on conviction to imprisonment for a term not exceeding 1 year.
     
-    Section 106(2): amended, on 1 October 2012, by [section 215(5)][403] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 106(2): amended, on 1 October 2012, by [section 215(5)][401] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 106(3): inserted, on 1 October 2012, by [section 215(6)][403] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 106(3): inserted, on 1 October 2012, by [section 215(6)][401] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 106(4): inserted, on 1 October 2012, by [section 215(6)][403] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 106(4): inserted, on 1 October 2012, by [section 215(6)][401] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Examination order
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 February 2012, by [section 12][411] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
+*   Heading: repealed, on 25 February 2012, by [section 12][409] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
 
 ##### 107 Power to require attendance before Commissioner, production of documents, etc
     
@@ -2663,17 +2679,17 @@ Criminal proceeds and instruments forfeiture regime
     
     (7) Any person who is required to attend before the Commissioner under this section must, before being required to comply with any requirements imposed under this section, be given a reasonable opportunity to arrange for a lawyer to accompany him or her.
     
-    Compare: 1990 No 51 [s 9][412]
+    Compare: 1990 No 51 [s 9][410]
     
-    Section 107(3)(c): amended, on 25 February 2012, by [section 13(1)][413] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
+    Section 107(3)(c): amended, on 25 February 2012, by [section 13(1)][411] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
     
-    Section 107(3)(d): amended, on 25 February 2012, by [section 13(2)][413] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
+    Section 107(3)(d): amended, on 25 February 2012, by [section 13(2)][411] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
 
 #### Non-compliance with production order or examination order
 
 ##### 108 Power to obtain search warrant for non-compliance with production order or examination order
     
-*   (1) The Commissioner may, on an application made in the manner provided in [subpart 3][401] of Part 4 of the Search and Surveillance Act 2012, apply to any Judge for a warrant to search any thing or place specified in the application.
+*   (1) The Commissioner may, on an application made in the manner provided in [subpart 3][399] of Part 4 of the Search and Surveillance Act 2012, apply to any Judge for a warrant to search any thing or place specified in the application.
     
     (2) Any Judge may issue a warrant if the Judge is satisfied---
         
@@ -2697,11 +2713,11 @@ Criminal proceeds and instruments forfeiture regime
         
         
     
-    Compare: 1990 No 51 [s 6][414]
+    Compare: 1990 No 51 [s 6][412]
     
-    Section 108(1): amended, on 1 October 2012, by [section 215(7)][403] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 108(1): amended, on 1 October 2012, by [section 215(7)][401] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 108(2): amended, on 1 October 2012, by [section 215(8)][403] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 108(2): amended, on 1 October 2012, by [section 215(8)][401] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 109 Immunity from liability for disclosure of information under this Act
     
@@ -2719,7 +2735,7 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 110 Official Assignee may apply for warrant to search for and seize property
     
-*   (1) Any Judge may issue a warrant to search any place or thing if, on an application made in the manner provided in [subpart 3][401] of Part 4 of the Search and Surveillance Act 2012, the Judge is satisfied---
+*   (1) Any Judge may issue a warrant to search any place or thing if, on an application made in the manner provided in [subpart 3][399] of Part 4 of the Search and Surveillance Act 2012, the Judge is satisfied---
         
     *   (a) that there are reasonable grounds for believing that property of the kind referred to in subsection (2) is in or on the place or thing, or will come into or onto the place or thing, while the warrant is in force; and
     
@@ -2745,15 +2761,15 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (b) the Official Assignee has reasonable grounds to believe that any property of that kind is at risk of damage, alteration, removal, or being treated in any other way to diminish its value.
     
-    Compare: 1991 No 120 [s 30][402]
+    Compare: 1991 No 120 [s 30][400]
     
-    Section 110(1): amended, on 1 October 2012, by [section 215(9)][403] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 110(1): amended, on 1 October 2012, by [section 215(9)][401] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 111 Official Assignee to hold property
     
 *   If property is seized pursuant to a warrant issued under [section 110][166], or transferred to the Official Assignee under [section 103][155], the Official Assignee must arrange for the property to be kept until it is dealt with in accordance with another provision of this Act.
     
-    Compare: 1991 No 120 [s 35][404]
+    Compare: 1991 No 120 [s 35][402]
 
 ##### 112 Return of seized property
     
@@ -2789,59 +2805,59 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 114 Application of Part 4 of Search and Surveillance Act 2012
     
-*   (1) The provisions of [Part 4][358] of the Search and Surveillance Act 2012 (except [subpart 6][359]) apply in respect of every search warrant applied for, or issued, under this Act.
+*   (1) The provisions of [Part 4][360] of the Search and Surveillance Act 2012 (except [subpart 6][361]) apply in respect of every search warrant applied for, or issued, under this Act.
     
-    (2) The provisions of [subpart 6][359] of Part 4 of that Act apply to evidence seized under [sections 101(2)(a)][415], and [102(2)(b) and (c)][416].
+    (2) The provisions of [subpart 6][361] of Part 4 of that Act apply to evidence seized under [sections 101(2)(a)][413], and [102(2)(b) and (c)][414].
     
-    Section 114: replaced, on 1 October 2012, by [section 216][417] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 114: replaced, on 1 October 2012, by [section 216][415] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 115 Application for search warrant
     
 *   \[Repealed\]
     
-    Section 115: repealed, on 1 October 2012, by [section 217][418] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 115: repealed, on 1 October 2012, by [section 217][416] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 116 Form and content of search warrant
     
 *   \[Repealed\]
     
-    Section 116: repealed, on 1 October 2012, by [section 217][418] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 116: repealed, on 1 October 2012, by [section 217][416] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 117 When search warrant is executed
     
 *   \[Repealed\]
     
-    Section 117: repealed, on 1 October 2012, by [section 217][418] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 117: repealed, on 1 October 2012, by [section 217][416] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 118 Powers conferred by search warrant
     
 *   \[Repealed\]
     
-    Section 118: repealed, on 1 October 2012, by [section 217][418] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 118: repealed, on 1 October 2012, by [section 217][416] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 119 Powers of persons called to assist
     
 *   \[Repealed\]
     
-    Section 119: repealed, on 1 October 2012, by [section 217][418] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 119: repealed, on 1 October 2012, by [section 217][416] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 120 Person executing warrant to produce evidence of authority
     
 *   \[Repealed\]
     
-    Section 120: repealed, on 1 October 2012, by [section 217][418] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 120: repealed, on 1 October 2012, by [section 217][416] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 121 Inventory of items seized
     
 *   \[Repealed\]
     
-    Section 121: repealed, on 1 October 2012, by [section 217][418] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 121: repealed, on 1 October 2012, by [section 217][416] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 122 Compliance with certain provisions unnecessary in some circumstances
     
 *   \[Repealed\]
     
-    Section 122: repealed, on 1 October 2012, by [section 217][418] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 122: repealed, on 1 October 2012, by [section 217][416] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Orders
 
@@ -2869,27 +2885,27 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 124 Warrants associated with foreign restraining orders and foreign forfeiture orders
     
-*   (1) A member of the police, if authorised under [section 59(2)(a)][419] of the Mutual Assistance in Criminal Matters Act 1992 to apply for a search warrant under [section 101][152], may apply for a search warrant of that kind.
+*   (1) A member of the police, if authorised under [section 59(2)(a)][417] of the Mutual Assistance in Criminal Matters Act 1992 to apply for a search warrant under [section 101][152], may apply for a search warrant of that kind.
     
     (2) [Sections 101(1) to (3)][152], [103][155], [112][168], and [113][169] apply, with any necessary modifications, to an application under subsection (1).
 
 ##### 125 Powers of Commissioner in relation to warrants associated with foreign restraining orders and foreign forfeiture orders
     
-*   (1) The Commissioner, if authorised under [section 59(2)(b)][419] of the Mutual Assistance in Criminal Matters Act 1992 to apply for a search warrant under [section 102][154], may apply for a search warrant of that kind.
+*   (1) The Commissioner, if authorised under [section 59(2)(b)][417] of the Mutual Assistance in Criminal Matters Act 1992 to apply for a search warrant under [section 102][154], may apply for a search warrant of that kind.
     
     (2) [Sections 102][154], [103][155], [112][168], and [113][169] apply, with any necessary modifications, to an application under subsection (1).
 
 ##### 126 Powers of Official Assignee in relation to warrants associated with foreign restraining orders and foreign forfeiture orders
     
-*   (1) The Official Assignee, if authorised under [section 59(2)(c)][419] of the Mutual Assistance in Criminal Matters Act 1992 to apply for a search warrant under [section 110][166], may apply for a search warrant of that kind.
+*   (1) The Official Assignee, if authorised under [section 59(2)(c)][417] of the Mutual Assistance in Criminal Matters Act 1992 to apply for a search warrant under [section 110][166], may apply for a search warrant of that kind.
     
     (2) [Sections 110 to 113][166] apply, with any necessary modifications, to an application under subsection (1).
 
 ##### 127 Provisions associated with foreign restraining orders and foreign forfeiture orders
     
-*   [Part 4][358] of the Search and Surveillance Act 2012 (except [subpart 6][359]) applies, with any necessary modifications, to an application for a warrant made under any of [sections 124 to 126][420].
+*   [Part 4][360] of the Search and Surveillance Act 2012 (except [subpart 6][361]) applies, with any necessary modifications, to an application for a warrant made under any of [sections 124 to 126][418].
     
-    Section 127: replaced, on 1 October 2012, by [section 218][421] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 127: replaced, on 1 October 2012, by [section 218][419] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ### Subpart 8---Foreign restraining orders and foreign forfeiture orders
 
@@ -2897,7 +2913,7 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 128 Interim foreign restraining order
     
-*   (1) The Commissioner may apply for an interim foreign restraining order if authorised by the Attorney-General under [section 60][422] of the Mutual Assistance in Criminal Matters Act 1992\.
+*   (1) The Commissioner may apply for an interim foreign restraining order if authorised by the Attorney-General under [section 60][420] of the Mutual Assistance in Criminal Matters Act 1992\.
     
     (2) An application under subsection (1) is an application made without notice.
     
@@ -2915,9 +2931,9 @@ Criminal proceeds and instruments forfeiture regime
     
     (4) An interim foreign restraining order is to be treated in all respects (other than under [sections 37 to 42][56]) as if it were a restraining order.
     
-    (5) This section applies, with any necessary modifications, to an application for a restraining order made under [section 112][423] of the International Crimes and International Criminal Court Act 2000\.
+    (5) This section applies, with any necessary modifications, to an application for a restraining order made under [section 112][421] of the International Crimes and International Criminal Court Act 2000\.
     
-    Compare: 1991 No 120 [s 66A(1), (2), (6)][424]
+    Compare: 1991 No 120 [s 66A(1), (2), (6)][422]
 
 ##### 129 Expiry of interim foreign restraining orders
     
@@ -2929,7 +2945,7 @@ Criminal proceeds and instruments forfeiture regime
     
     (2) Despite subsection (1), if the duration of an interim foreign restraining order is extended by a court, the interim foreign restraining order expires on the date specified by the court under [section 130][191].
     
-    Compare: 1991 No 120 [s 66A(3), (4)][424]
+    Compare: 1991 No 120 [s 66A(3), (4)][422]
 
 ##### 130 Extending duration of interim foreign restraining order
     
@@ -2941,7 +2957,7 @@ Criminal proceeds and instruments forfeiture regime
     
     (4) If, before an interim foreign restraining order would otherwise expire under [section 129(1)][190], an application is made to a court under this section and the application is granted, the interim foreign restraining order ceases to be in force on the date specified in the court's order, unless it is further extended on an application under this section.
     
-    Compare: 1991 No 120 [s 66(1), (2)][349]
+    Compare: 1991 No 120 [s 66(1), (2)][351]
 
 ##### 131 Additional matters relating to extending duration of interim foreign restraining order
     
@@ -2949,21 +2965,21 @@ Criminal proceeds and instruments forfeiture regime
     
     (2) An applicant for an order under [section 130][191] must serve, so far as is practicable, a copy of the application on any person who, to the knowledge of the applicant, has an interest in the property that is the subject of the application.
     
-    Compare: 1991 No 120 [s 66(3), (4)][349]
+    Compare: 1991 No 120 [s 66(3), (4)][351]
 
 #### Registering foreign restraining orders
 
 ##### 132 Who may apply to register foreign restraining order
     
-*   The Commissioner may apply to register a foreign restraining order in New Zealand if authorised by the Attorney-General under [section 54][425] of the Mutual Assistance in Criminal Matters Act 1992\.
+*   The Commissioner may apply to register a foreign restraining order in New Zealand if authorised by the Attorney-General under [section 54][423] of the Mutual Assistance in Criminal Matters Act 1992\.
 
 ##### 133 Application to register foreign restraining order made to High Court
     
-*   If authorised to register a foreign restraining order in New Zealand under [section 54][425] of the Mutual Assistance in Criminal Matters Act 1992, the Commissioner may apply to the High Court.
+*   If authorised to register a foreign restraining order in New Zealand under [section 54][423] of the Mutual Assistance in Criminal Matters Act 1992, the Commissioner may apply to the High Court.
 
 ##### 134 Provisions of subpart 2 of Part 2 applying to registering foreign restraining orders
     
-*   (1) The following sections of [subpart 2][25] of Part 2 apply, with all necessary modifications, if an application is made to register a foreign restraining order in New Zealand under [section 54][425] of the Mutual Assistance in Criminal Matters Act 1992 or an application is made to register a restraining order under [section 112(2)][423] of the International Crimes and International Criminal Court Act 2000:
+*   (1) The following sections of [subpart 2][25] of Part 2 apply, with all necessary modifications, if an application is made to register a foreign restraining order in New Zealand under [section 54][423] of the Mutual Assistance in Criminal Matters Act 1992 or an application is made to register a restraining order under [section 112(2)][421] of the International Crimes and International Criminal Court Act 2000:
         
     *   (a) [section 19][28] (application to identify proposed restrained property, respondent (if any), and interest holders):
     
@@ -3023,11 +3039,11 @@ Criminal proceeds and instruments forfeiture regime
         
         
     
-    Compare: 1991 No 120 [s 66B(1)][426]
+    Compare: 1991 No 120 [s 66B(1)][424]
 
 ##### 135 Effect of registering foreign restraining order in New Zealand
     
-*   (1) If a foreign restraining order is registered in New Zealand under [section 56][427] of the Mutual Assistance in Criminal Matters Act 1992, the property specified in the foreign restraining order that is located in New Zealand---
+*   (1) If a foreign restraining order is registered in New Zealand under [section 56][425] of the Mutual Assistance in Criminal Matters Act 1992, the property specified in the foreign restraining order that is located in New Zealand---
         
     *   (a) is not to be disposed of, or dealt with, other than is provided for in the order; and
     
@@ -3047,7 +3063,7 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (c) the date when the Commissioner registers a foreign forfeiture order in New Zealand in respect of some or all of the property specified in the foreign restraining order:
     
-    *   (d) the date on which the registration of the foreign restraining order in New Zealand has been cancelled under [section 58][428] of the Mutual Assistance in Criminal Matters Act 1992\.
+    *   (d) the date on which the registration of the foreign restraining order in New Zealand has been cancelled under [section 58][426] of the Mutual Assistance in Criminal Matters Act 1992\.
     
     (2) Despite subsection (1), if the registration of a foreign restraining order in New Zealand is extended as a result of an application to the High Court, it expires on the date specified by the High Court under [section 137][200].
     
@@ -3067,7 +3083,7 @@ Criminal proceeds and instruments forfeiture regime
     
     (2) An applicant for an order under subsection (1) must serve a copy of the application on any person who, to the knowledge of the applicant, has an interest in the property that is the subject of the application.
     
-    Section 138(1): amended, on 25 February 2012, by [section 15][429] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
+    Section 138(1): amended, on 25 February 2012, by [section 15][427] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
 
 ##### 139 Exclusion of interest from foreign restraining order registered in New Zealand
     
@@ -3093,11 +3109,11 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 140 Who may apply to register foreign forfeiture order
     
-*   The Commissioner may apply to register a foreign forfeiture order in New Zealand if authorised by the Attorney-General under [section 55][430] of the Mutual Assistance in Criminal Matters Act 1992\.
+*   The Commissioner may apply to register a foreign forfeiture order in New Zealand if authorised by the Attorney-General under [section 55][428] of the Mutual Assistance in Criminal Matters Act 1992\.
 
 ##### 141 Application to register foreign forfeiture order made to High Court
     
-*   If authorised to apply to register a foreign forfeiture order in New Zealand under [section 55][430] of the Mutual Assistance in Criminal Matters Act 1992, the Commissioner may apply to the High Court.
+*   If authorised to apply to register a foreign forfeiture order in New Zealand under [section 55][428] of the Mutual Assistance in Criminal Matters Act 1992, the Commissioner may apply to the High Court.
 
 ##### 142 Notice of registration of foreign forfeiture order
     
@@ -3107,7 +3123,7 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 143 Provisions of subpart 3 of Part 2 applying to registering foreign forfeiture orders
     
-*   (1) The following sections of [subpart 3][62] of Part 2 apply, with all necessary modifications, if an application is made to register a foreign forfeiture order in New Zealand under [section 55][430] of the Mutual Assistance in Criminal Matters Act 1992:
+*   (1) The following sections of [subpart 3][62] of Part 2 apply, with all necessary modifications, if an application is made to register a foreign forfeiture order in New Zealand under [section 55][428] of the Mutual Assistance in Criminal Matters Act 1992:
         
     *   (a) [section 47 ][70] (amending application for civil forfeiture order):
     
@@ -3151,7 +3167,7 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 144 Registering foreign forfeiture order
     
-*   The effect of registering a foreign forfeiture order in New Zealand under [section 56][427] of the Mutual Assistance in Criminal Matters Act 1992 is that the property specified in the foreign forfeiture order---
+*   The effect of registering a foreign forfeiture order in New Zealand under [section 56][425] of the Mutual Assistance in Criminal Matters Act 1992 is that the property specified in the foreign forfeiture order---
         
     *   (a) vests in the Crown absolutely; and
     
@@ -3189,17 +3205,17 @@ Criminal proceeds and instruments forfeiture regime
     
     (2) Without limiting the generality of subsection (1)(b), if a Court registers a foreign forfeiture order in New Zealand against any property the title to which is passed by registration on a register maintained under any New Zealand enactment, the Court may direct an officer of the Court to do anything reasonably necessary to obtain possession of any document required to effect the transfer of the property and for that purpose may, by warrant, authorise an officer to enter and search any place or thing and seize any document.
     
-    (3) [Part 4][358] of the Search and Surveillance Act 2012 (except [subpart 6][359]), so far as applicable and with all necessary modifications, applies in relation to a warrant issued under subsection (2) as if it were a warrant issued under [section 101][152] to a member of the police.
+    (3) [Part 4][360] of the Search and Surveillance Act 2012 (except [subpart 6][361]), so far as applicable and with all necessary modifications, applies in relation to a warrant issued under subsection (2) as if it were a warrant issued under [section 101][152] to a member of the police.
     
-    Compare: 1991 No 120 [s 15(3)--(7)][355]
+    Compare: 1991 No 120 [s 15(3)--(7)][357]
     
-    Section 146(3): amended, on 1 October 2012, by [section 219][431] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 146(3): amended, on 1 October 2012, by [section 219][429] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 147 Registering foreign forfeiture order relating to land
     
-*   (1) Nothing in [section 144][208] affects the operation of [section 99][361] of the Land Transfer Act 1952 in respect of an estate or interest in land under that Act.
+*   (1) Nothing in [section 144][208] affects the operation of [section 99][363] of the Land Transfer Act 1952 in respect of an estate or interest in land under that Act.
     
-    (2) If the High Court registers a foreign forfeiture order in New Zealand in respect of an estate or interest in land, the order must be transmitted by the Registrar of the Court to the Registrar-General of Land or the Registrar of Deeds, as the case may be, for the purposes of registration under the [Land Transfer Act 1952][362] or the [Deeds Registration Act 1908][363], as the case may require.
+    (2) If the High Court registers a foreign forfeiture order in New Zealand in respect of an estate or interest in land, the order must be transmitted by the Registrar of the Court to the Registrar-General of Land or the Registrar of Deeds, as the case may be, for the purposes of registration under the [Land Transfer Act 1952][364] or the [Deeds Registration Act 1908][365], as the case may require.
 
 #### Relief from foreign forfeiture order registered in New Zealand
 
@@ -3239,25 +3255,29 @@ Criminal proceeds and instruments forfeiture regime
     
 *   (1) Every person commits an offence who, knowing that a restraining order has been made or that a foreign restraining order has been registered in New Zealand in respect of property, disposes or otherwise deals with that property in contravention of the order.
     
-    (2) Every person who commits an offence against this section is liable on conviction on indictment,---
+    (2) Every person who commits an offence against this section is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 5 years or a fine not exceeding $20,000 or both:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $60,000\.
     
-    Compare: 1991 No 120 [s 58][432]
+    Compare: 1991 No 120 [s 58][430]
+    
+    Section 150(2): amended, on 1 July 2013, by [section 413][335] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 151 Contravention of forfeiture orders or foreign forfeiture orders
     
 *   (1) Every person commits an offence who, knowing that an assets forfeiture order or profit forfeiture order or instrument forfeiture order is in force or a foreign forfeiture order is registered in New Zealand in relation to property to which title is passed by registration on a register maintained under any New Zealand enactment, disposes of or otherwise deals with the property before the Crown's interest in the property has been registered in the manner required by law.
     
-    (2) Every person who commits an offence against this section is liable on conviction on indictment,---
+    (2) Every person who commits an offence against this section is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 5 years or a fine not exceeding $20,000, or both:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $60,000\.
     
-    Compare: 1991 No 120 [s 84][433]
+    Compare: 1991 No 120 [s 84][431]
+    
+    Section 151(2): amended, on 1 July 2013, by [section 413][335] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 152 Failing to comply with orders and search warrants
     
@@ -3269,13 +3289,15 @@ Criminal proceeds and instruments forfeiture regime
     
     (2) Every person commits an offence who fails, without reasonable excuse, to comply with a search warrant issued under this Act that relates to his or her premises.
     
-    (3) Every person who commits an offence against subsection (1) or (2) is liable on indictment---
+    (3) Every person who commits an offence against subsection (1) or (2) is liable on conviction---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 1 year or a fine not exceeding $15,000, or both:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $40,000\.
     
-    Compare: 1991 No 120 [s 76][434]
+    Compare: 1991 No 120 [s 76][432]
+    
+    Section 152(3): amended, on 1 July 2013, by [section 413][335] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 153 Search order not to be disclosed
     
@@ -3317,23 +3339,25 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 154 Offence to disclose existence or operation of search order
     
-*   Every person who knowingly contravenes any of subsections (1) to (4) of [section 153][220] commits an offence and is liable on indictment---
+*   Every person who knowingly contravenes any of subsections (1) to (4) of [section 153][220] commits an offence and is liable on conviction---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 1 year or a fine not exceeding $15,000, or both:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $40,000\.
     
-    Compare: 1991 No 120 [s 81][435]
+    Compare: 1991 No 120 [s 81][433]
+    
+    Section 154: amended, on 1 July 2013, by [section 413][335] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 155 Offence of obstruction
     
-*   Every person who, without reasonable excuse, intentionally obstructs any person exercising a power or carrying out a duty under this Act commits an offence and is liable on indictment---
+*   Every person who, without reasonable excuse, intentionally obstructs any person exercising a power or carrying out a duty under this Act commits an offence and is liable on conviction---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 1 year or a fine not exceeding $15,000 or both:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $40,000\.
     
-    
+    Section 155: amended, on 1 July 2013, by [section 413][335] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Compliance not actionable
 
@@ -3351,7 +3375,7 @@ Criminal proceeds and instruments forfeiture regime
     
     (3) The indemnity conferred by subsection (1) extends to legal costs in defending a proceeding.
     
-    (4) Nothing in this section limits or affects any provision of the [Crown Proceedings Act 1950][436] or the [Crimes Act 1961][336] relating to the liability of the Crown on matters of justification and exercise.
+    (4) Nothing in this section limits or affects any provision of the [Crown Proceedings Act 1950][434] or the [Crimes Act 1961][435] relating to the liability of the Crown on matters of justification and exercise.
     
     (5) Any money required for the purposes of this section must be paid out of a Crown bank account without further appropriation.
     
@@ -3371,7 +3395,7 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (b) includes any delegate of the enforcement officer exercising functions and powers under this Act or [sections 142A to 142Q][328] of the Sentencing Act 2002\.
     
-    Compare: 1991 No 120 [s 62][437]
+    Compare: 1991 No 120 [s 62][436]
 
 #### Operation of other laws
 
@@ -3379,7 +3403,7 @@ Criminal proceeds and instruments forfeiture regime
     
 *   Nothing in this Act limits or restricts the operation of any other enactment providing for the forfeiture of property or imposition of pecuniary penalties.
     
-    Compare: 1991 No 120 [s 91][438]
+    Compare: 1991 No 120 [s 91][437]
 
 #### Effect of exercise of powers on duties of confidentiality
 
@@ -3391,9 +3415,9 @@ Criminal proceeds and instruments forfeiture regime
     
     (3) This section is subject to [sections 160 to 162][231].
     
-    Compare: 1990 No 51 [s 23][439]
+    Compare: 1990 No 51 [s 23][438]
     
-    Section 159(3): amended, on 25 February 2012, by [section 16][440] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
+    Section 159(3): amended, on 25 February 2012, by [section 16][439] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
 
 ##### 160 Legal professional privilege
     
@@ -3427,11 +3451,11 @@ Criminal proceeds and instruments forfeiture regime
     
     (7) For the purposes of this section, references to a lawyer include a firm in which he or she is a partner or is held out to be a partner.
     
-    Compare: 1990 No 51 [s 24][441]
+    Compare: 1990 No 51 [s 24][440]
     
-    Section 160(4)(a): amended, on 25 February 2012, by [section 17(1)][442] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
+    Section 160(4)(a): amended, on 25 February 2012, by [section 17(1)][441] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
     
-    Section 160(7): amended, on 25 February 2012, by [section 17(2)][442] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
+    Section 160(7): amended, on 25 February 2012, by [section 17(2)][441] of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
 
 ##### 161 Privilege in relation to tax advice
     
@@ -3445,9 +3469,9 @@ Criminal proceeds and instruments forfeiture regime
     
     (5) For the purposes of this section,---
     
-    _tax advice document_ has the same meaning as in [section 20B][443] of the Tax Administration Act 1994
+    _tax advice document_ has the same meaning as in [section 20B][442] of the Tax Administration Act 1994
     
-    _tax advisor_ has the same meaning as in [section 20B][443] of the Tax Administration Act 1994\.
+    _tax advisor_ has the same meaning as in [section 20B][442] of the Tax Administration Act 1994\.
 
 ##### 162 Certain provisions not to apply to police, Inland Revenue, Statistics, and Reserve Bank officers
     
@@ -3461,13 +3485,13 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (d) any person acting in his or her capacity as an officer or employee of the Reserve Bank of New Zealand.
     
-    Compare: 1990 No 51 [s 25][444]
+    Compare: 1990 No 51 [s 25][443]
 
 ##### 163 Privilege against self-incrimination no excuse
     
 *   No person is excused from answering any question, supplying any information, producing any document, or providing any explanation under [section 105][158] or [107][161] on the ground that to do so would or might incriminate or tend to incriminate that person.
     
-    Compare: 1990 No 51 [s 27][445]
+    Compare: 1990 No 51 [s 27][444]
 
 #### Admissibility of evidence
 
@@ -3477,11 +3501,11 @@ Criminal proceeds and instruments forfeiture regime
     
     (2) This section is subject to [section 165][237].
     
-    Compare: 1990 No 51 [s 26][446]
+    Compare: 1990 No 51 [s 26][445]
 
 ##### 165 Admissibility of self-incriminating statements
     
-*   (1) A self-incriminating statement made orally by a person (whether or not the statement is recorded in writing) in the course of answering any question, or supplying any information, or producing any document, or providing any explanation, as required under [section 105][158] or [107][161], may be used in evidence against that person only in a prosecution for an offence under [section 108][347] of the Crimes Act 1961 (which relates to perjury) or under this Act in relation to any evidence given by the person that is inconsistent with the statement.
+*   (1) A self-incriminating statement made orally by a person (whether or not the statement is recorded in writing) in the course of answering any question, or supplying any information, or producing any document, or providing any explanation, as required under [section 105][158] or [107][161], may be used in evidence against that person only in a prosecution for an offence under [section 108][349] of the Crimes Act 1961 (which relates to perjury) or under this Act in relation to any evidence given by the person that is inconsistent with the statement.
     
     (2) Despite subsection (1), any statement made in relation to---
         
@@ -3489,7 +3513,7 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (b) the answering of any question in a way that is false or misleading in a material particular, or the supply of any information, or the production of any document, or the providing of any explanation that is false or misleading in a material particular, may be used in evidence against that person in any prosecution for any offence under [section 152][219] arising from that act.
     
-    Compare: 1990 No 51 [s 28][447]
+    Compare: 1990 No 51 [s 28][446]
 
 ##### 166 Admissibility of evidence given to court or Official Assignee
     
@@ -3505,7 +3529,7 @@ Criminal proceeds and instruments forfeiture regime
             
         *   (i) a proceeding for giving false evidence in the course of the examination or, as the case may require, for making any false statement in any statement so furnished; or
         
-        *   (ii) the prosecution of that person for an offence against [section 108][347] of the Crimes Act 1961 (which relates to perjury) or under this Act in relation to any evidence given by the person that is inconsistent with the statement or disclosure; or
+        *   (ii) the prosecution of that person for an offence against [section 108][349] of the Crimes Act 1961 (which relates to perjury) or under this Act in relation to any evidence given by the person that is inconsistent with the statement or disclosure; or
         
         *   (iii) the proceedings in relation to which the statement was made or the document was given:
         
@@ -3513,7 +3537,7 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (b) any other evidence provided by the person is admissible in civil or criminal proceedings, subject to any enactment or rule of law to the contrary.
     
-    Compare: 1991 No 120 [s 49][448]
+    Compare: 1991 No 120 [s 49][447]
 
 #### Arrangements to avoid operation of this Act or Sentencing Act 2002
 
@@ -3591,7 +3615,7 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 171 Repeal
     
-*   The [Proceeds of Crime Act 1991][449] (1991 No 120) is repealed.
+*   The [Proceeds of Crime Act 1991][448] (1991 No 120) is repealed.
 
 #### Transitional provisions
 
@@ -3625,13 +3649,13 @@ Criminal proceeds and instruments forfeiture regime
     
     *   (g) providing for such other matters as are contemplated by, or are necessary for giving full effect to, this Act and for its due administration.
     
-    Compare: 1991 No 120 [s 89][450]
+    Compare: 1991 No 120 [s 89][449]
 
 ##### 174 Rules
     
 *   The Governor-General may from time to time, by Order in Council, make rules regulating the practice and procedure of courts in proceedings under this Act.
     
-    Compare: 1991 No 120 [s 90][451]
+    Compare: 1991 No 120 [s 90][450]
 
 ### Subpart 10---Consequential amendments to other enactments
 
@@ -3639,15 +3663,15 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 175 Amendments to Crimes Act 1961
     
-*   [Sections 176 to 178][256] amend the [Crimes Act 1961][336].
+*   [Sections 176 to 178][256] amend the [Crimes Act 1961][435].
 
 ##### 176 Defence of enforcement of enactment
     
-*   [Section 244(b)][452] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
+*   [Section 244(b)][451] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
 
 ##### 177 Destruction of relevant records made by use of interception device
     
-*   [Section 312J][453] is amended by inserting the following subsection after subsection (1):
+*   [Section 312J][452] is amended by inserting the following subsection after subsection (1):
     
     > *   "(1A) In subsection (1), _proceedings_ includes proceedings under sections 142A to 142Q of the Sentencing Act 2002 and any proceedings under the Criminal Proceeds (Recovery) Act 2009\."
     > 
@@ -3657,7 +3681,7 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 178 Restriction on admissibility of evidence of private communications lawfully intercepted
     
-*   [Section 312N][454] is amended by repealing paragraph (i) and substituting the following paragraphs:
+*   [Section 312N][453] is amended by repealing paragraph (i) and substituting the following paragraphs:
     
     > *   "(i) offences of 2 or more of those kinds specified in paragraphs (a) to (h); or
     > 
@@ -3671,13 +3695,13 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 179 Amendments to Customs and Excise Act 1996
     
-*   [Sections 180 to 182][261] amend the [Customs and Excise Act 1996][455].
+*   [Sections 180 to 182][261] amend the [Customs and Excise Act 1996][454].
 
 ##### 180 Detention of goods suspected to be tainted property
     
-*   (1) [Section 166A][456] is amended by omitting the heading and substituting the following heading: ""**Detention of goods suspected to be instrument of crime or tainted property**"".
+*   (1) [Section 166A][455] is amended by omitting the heading and substituting the following heading: ""**Detention of goods suspected to be instrument of crime or tainted property**"".
     
-    (2) [Section 166A][456] is amended by repealing paragraph (c) and substituting the following paragraph:
+    (2) [Section 166A][455] is amended by repealing paragraph (c) and substituting the following paragraph:
     
     > *   "(c) he or she has good cause to suspect that the goods are an instrument of crime or tainted property (as those terms are defined in section 5(1) of the Criminal Proceeds (Recovery) Act 2009)."
     > 
@@ -3687,11 +3711,11 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 181 Further provisions about detention under section 166A
     
-*   [Section 166C(4)(d)][457] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
+*   [Section 166C(4)(d)][456] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
 
 ##### 182 Return of goods detained under section 166A
     
-*   [Section 166D(3)][458] is amended by repealing paragraph (a) and substituting the following paragraph:
+*   [Section 166D(3)][457] is amended by repealing paragraph (a) and substituting the following paragraph:
     
     > *   "(a) an information is laid in respect of the relevant qualifying instrument forfeiture offence (as defined in section 5(1) of the Criminal Proceeds (Recovery) Act 2009); or".
     > 
@@ -3703,11 +3727,11 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 183 Amendment to Evidence Act 2006
     
-*   [Section 184][266] amends the [Evidence Act 2006][459].
+*   [Section 184][266] amends the [Evidence Act 2006][458].
 
 ##### 184 Undercover police officers
     
-*   [Section 108][460] is amended by adding the following subsection:
+*   [Section 108][459] is amended by adding the following subsection:
     
     > *   "(6) This section also applies, with any necessary modifications, in any case where a person is being, or is to be, proceeded against under---
     >         
@@ -3725,7 +3749,7 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 185 Amendments to Financial Transactions Reporting Act 1996
     
-*   [Sections 186 to 195][269] amend the [Financial Transactions Reporting Act 1996][461].
+*   [Sections 186 to 195][269] amend the [Financial Transactions Reporting Act 1996][460].
 
 ##### 186 Title amended
     
@@ -3733,27 +3757,27 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 187 Verification of identity where money laundering or proceeds of crime suspected
     
-*   (1) The heading to [section 11][462] is amended by omitting ""**proceeds of crime**"" and substituting ""**proceeds of significant criminal activity**"".
+*   (1) The heading to [section 11][461] is amended by omitting ""**proceeds of crime**"" and substituting ""**proceeds of significant criminal activity**"".
     
-    (2) [Section 11(1)(b)(ii)][462] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
+    (2) [Section 11(1)(b)(ii)][461] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
 
 ##### 188 Offences
     
-*   [Section 13(1)(j)(ii)(B)][463] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
+*   [Section 13(1)(j)(ii)(B)][462] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
 
 ##### 189 Financial institutions to report suspicious transactions
     
-*   [Section 15(1)(b)(ii)][464] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
+*   [Section 15(1)(b)(ii)][463] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
 
 ##### 190 Auditors may report suspicious transactions
     
-*   [Section 16(b)][465] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
+*   [Section 16(b)][464] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
 
 ##### 191 Protection of identity of persons making suspicious transaction reports
     
-*   (1) [Section 21(2)(b)][466] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
+*   (1) [Section 21(2)(b)][465] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
     
-    (2) [Section 21(2)][466] is amended by repealing paragraphs (c) and (d) and substituting the following paragraphs:
+    (2) [Section 21(2)][465] is amended by repealing paragraphs (c) and (d) and substituting the following paragraphs:
     
     > *   "(c) any activity relating to an application for a restraining order, assets forfeiture order, or profit forfeiture order under the Criminal Proceeds (Recovery) Act 2009:
     > 
@@ -3767,17 +3791,17 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 192 Offences
     
-*   [Section 22(1)(b)(ii)][467] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
+*   [Section 22(1)(b)(ii)][466] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
 
 ##### 193 Commissioner to issue guidelines relating to reporting of suspicious transactions
     
-*   [Section 24(1)(a)(ii)][468] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
+*   [Section 24(1)(a)(ii)][467] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
 
 ##### 194 Application of Privacy Act 1993
     
-*   (1) [Section 28(c)][469] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
+*   (1) [Section 28(c)][468] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
     
-    (2) [Section 28][469] is amended by repealing paragraphs (d) and (e) and substituting the following paragraphs:
+    (2) [Section 28][468] is amended by repealing paragraphs (d) and (e) and substituting the following paragraphs:
     
     > *   "(d) any activity relating to an application for a restraining order, assets forfeiture order, or profit forfeiture order under the Criminal Proceeds (Recovery) Act 2009:
     > 
@@ -3791,9 +3815,9 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 195 Application of Privacy Act 1993
     
-*   (1) [Section 43(b)][470] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
+*   (1) [Section 43(b)][469] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
     
-    (2) [Section 43][470] is amended by repealing paragraphs (c) and (d) and substituting the following paragraphs:
+    (2) [Section 43][469] is amended by repealing paragraphs (c) and (d) and substituting the following paragraphs:
     
     > *   "(c) any activity relating to an application for a restraining order, assets forfeiture order, or profit forfeiture order under the Criminal Proceeds (Recovery) Act 2009:
     > 
@@ -3809,13 +3833,13 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 196 Amendments to International Crimes and International Criminal Court Act 2000
     
-*   [Sections 197 to 201][281] amend the [International Crimes and International Criminal Court Act 2000][471].
+*   [Sections 197 to 201][281] amend the [International Crimes and International Criminal Court Act 2000][470].
 
 ##### 197 Interpretation
     
-*   (1) Paragraph (b) of the definition of _forfeiture order_ in [section 4][472] is amended by omitting ""pecuniary penalty order"" and substituting ""profit forfeiture order"".
+*   (1) Paragraph (b) of the definition of _forfeiture order_ in [section 4][471] is amended by omitting ""pecuniary penalty order"" and substituting ""profit forfeiture order"".
     
-    (2) The definition of _tainted property_ in [section 4][472] is repealed and the following definition substituted:
+    (2) The definition of _tainted property_ in [section 4][471] is repealed and the following definition substituted:
     
     > "_tainted property_, in relation to an international crime, means any---
     >     
@@ -3829,7 +3853,7 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 198 Attorney-General may authorise measures
     
-*   [Section 112(1)][423] is repealed and the following subsection substituted:
+*   [Section 112(1)][421] is repealed and the following subsection substituted:
     
     > *   "(1) If the Attorney-General gives authority for the request for assistance in identifying, tracing and freezing, or seizing tainted property to proceed, the Attorney-General may authorise the appropriate New Zealand authority to apply for 1 or more of the following orders or warrants:
     >         
@@ -3847,11 +3871,11 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 199 Method of registration of order
     
-*   [Section 128(3)][473] and (4) are amended by omitting ""Proceeds of Crimes Act 1991"" and substituting in each case ""Criminal Proceeds (Recovery) Act 2009"".
+*   [Section 128(3)][472] and (4) are amended by omitting ""Proceeds of Crimes Act 1991"" and substituting in each case ""Criminal Proceeds (Recovery) Act 2009"".
 
 ##### 200 New sections 130 and 131 substituted
     
-*   [Sections 130 and 131][474] are repealed and the following sections substituted:
+*   [Sections 130 and 131][473] are repealed and the following sections substituted:
     
     > ##### "130 Effect of registration of order
     >     
@@ -3901,17 +3925,17 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 201 Cancellation of registration order
     
-*   [Section 134(4)][475] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
+*   [Section 134(4)][474] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
 
 #### Amendments to International War Crimes Tribunals Act 1995
 
 ##### 202 Amendments to International War Crimes Tribunals Act 1995
     
-*   [Sections 203 to 205][290] amend the [International War Crimes Tribunals Act 1995][476].
+*   [Sections 203 to 205][290] amend the [International War Crimes Tribunals Act 1995][475].
 
 ##### 203 New section 43 substituted
     
-*   [Section 43][477] is repealed and the following section substituted:
+*   [Section 43][476] is repealed and the following section substituted:
     
     > ##### "43 Effect of registration of order
     >     
@@ -3923,7 +3947,7 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 204 Registered forfeiture orders
     
-*   [Section 44][478] is amended by repealing paragraph (a) and substituting the following paragraph:
+*   [Section 44][477] is amended by repealing paragraph (a) and substituting the following paragraph:
     
     > *   "(a) subpart 3 of Part 2 of the Criminal Proceeds (Recovery) Act 2009 so far as is applicable and with any necessary modifications, and except to the extent that this Act provides otherwise, applies in relation to the order; and".
     > 
@@ -3933,17 +3957,17 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 205 Cancellation of registration of forfeiture order
     
-*   [Section 47(4)][479] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
+*   [Section 47(4)][478] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
 
 #### Amendment to Judicature Act 1908
 
 ##### 206 Amendment to Judicature Act 1908
     
-*   [Section 207][296] amends the [Judicature Act 1908][480].
+*   [Section 207][296] amends the [Judicature Act 1908][479].
 
 ##### 207 Application of Part 4A
     
-*   Rule 19.2(r) of [Schedule 2][481] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
+*   Rule 19.2(r) of [Schedule 2][480] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
     
     Section 207: amended, on 25 February 2012, by section 18 of the Criminal Proceeds (Recovery) Amendment Act 2012 (2012 No 9).
 
@@ -3951,11 +3975,11 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 208 Amendments to Legal Services Act 2000
     
-*   [Sections 209 and 210][299] amend the [Legal Services Act 2000][482].
+*   [Sections 209 and 210][299] amend the [Legal Services Act 2000][481].
 
 ##### 209 When legal aid may be granted: civil matters
     
-*   [Section 9][483] is amended by adding the following subsections:
+*   [Section 9][482] is amended by adding the following subsections:
     
     > *   "(11) The Agency may grant legal aid to an applicant in respect of a civil proceeding under the Criminal Proceeds (Recovery) Act 2009 if the Agency considers that the interests of justice require that the applicant be granted legal aid.
     > 
@@ -3975,7 +3999,7 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 210 Schedule 1 amended
     
-*   [Schedule 1][484] is amended by repealing clause 3(1)(f) and substituting the following paragraphs:
+*   [Schedule 1][483] is amended by repealing clause 3(1)(f) and substituting the following paragraphs:
     
     > *   "(f) the value of the subject matter of the proceedings, unless the Agency determines a proportion of that value that should be included in the assessment of the person's total assets:
     > 
@@ -3989,17 +4013,17 @@ Criminal proceeds and instruments forfeiture regime
 
 ##### 211 Amendment to Misuse of Drugs Act 1975
     
-*   [Section 212][303] amends the [Misuse of Drugs Act 1975][485].
+*   [Section 212][303] amends the [Misuse of Drugs Act 1975][484].
 
 ##### 212 Laundering proceeds of drug offences
     
-*   [Section 12B(6)(b)][486] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
+*   [Section 12B(6)(b)][485] is amended by omitting ""Proceeds of Crime Act 1991"" and substituting ""Criminal Proceeds (Recovery) Act 2009"".
 
 #### Amendment to Summary Proceedings Act 1957
 
 ##### 213 Amendment to Summary Proceedings Act 1957
     
-*   [Section 214][306] amends the [Summary Proceedings Act 1957][335].
+*   [Section 214][306] amends the [Summary Proceedings Act 1957][486].
 
 ##### 214 Part 2 of Schedule 1 amended
     
@@ -4149,76 +4173,6 @@ Criminal proceeds and instruments forfeiture regime
 
 ---
 
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][499].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][500] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
-
----
-
 #### Contents
     
 *   1General
@@ -4233,23 +4187,23 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Criminal Proceeds (Recovery) Act 2009\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Criminal Proceeds (Recovery) Act 2009\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][501] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][499] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][502] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][500] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][503] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][501] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][504] and [17E][505] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][502] and [17E][503] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -4280,13 +4234,15 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Search and Surveillance Act 2012 (2012 No 24): [sections 214--219][360]
+*   Search and Surveillance Act 2012 (2012 No 24): [sections 214--219][362]
     
-    [Criminal Proceeds (Recovery) Amendment Act 2012][506] (2012 No 9)
+    [Criminal Proceeds (Recovery) Amendment Act 2012][504] (2012 No 9)
     
-    [Criminal Proceeds (Recovery) Amendment Act 2011][507] (2011 No 35)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][335]
     
-    Legal Services Act 2011 (2011 No 4): [section 144][379]
+    [Criminal Proceeds (Recovery) Amendment Act 2011][505] (2011 No 35)
+    
+    Legal Services Act 2011 (2011 No 4): [section 144][377]
     
     Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35): [section 161(2)][333]
 
@@ -4627,158 +4583,158 @@ Amendments, repeals, and miscellaneous provisions
 [332]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM431296
 [333]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM2141072
 [334]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014307
-[335]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM310742
-[336]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM327381
+[335]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM3360714
+[336]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM3360417
 [337]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251620
-[338]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251621
-[339]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251622
-[340]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251624
-[341]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251643
-[342]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251627
-[343]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251631
-[344]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251645
-[345]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251630
-[346]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014310
-[347]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM328793
-[348]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251654
-[349]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251655
-[350]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251057
-[351]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251059
-[352]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251061
-[353]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251060
-[354]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251058
-[355]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251065
-[356]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251066
-[357]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251089
-[358]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM2136770
-[359]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM2136860
-[360]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4355908
-[361]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM270684
-[362]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM269031
-[363]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM141134
-[364]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251067
-[365]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251069
-[366]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251070
-[367]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251071
-[368]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM312674
-[369]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM312699
-[370]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM331956
-[371]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM331965
-[372]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM331971
-[373]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM2601261
-[374]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251634
-[375]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251647
-[376]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4289562
-[377]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM311866
-[378]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251640
-[379]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM3143015
-[380]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM3851200
-[381]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251635
-[382]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM3851201
-[383]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM385877
-[384]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM386404
-[385]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM387210
-[386]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251646
-[387]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM3555903
-[388]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251650
-[389]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014311
-[390]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM129109
-[391]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM252318
-[392]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM252319
-[393]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014312
-[394]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM408368
-[395]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM211450
-[396]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM211452
-[397]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014313
-[398]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM1102100
-[399]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014314
-[400]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM211469
-[401]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM2136781
-[402]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251094
-[403]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4355909
-[404]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251601
-[405]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM2136790
-[406]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM2136791
-[407]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251683
-[408]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251686
-[409]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014316
-[410]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014317
-[411]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014319
-[412]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM211434
-[413]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014320
-[414]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM211430
-[415]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM2136792
-[416]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM2136794
-[417]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4355910
-[418]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4355912
-[419]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM274481
-[420]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4355801
-[421]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4355913
-[422]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM274483
-[423]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM64916
-[424]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251657
-[425]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM274473
-[426]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251660
-[427]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM274477
-[428]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM274479
-[429]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014322
-[430]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM274475
-[431]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4355915
-[432]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251644
-[433]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM252316
-[434]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251696
-[435]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM252306
-[436]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM261466
-[437]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251649
-[438]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM252323
-[439]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM211454
-[440]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014323
-[441]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM211455
-[442]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014324
-[443]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM350419
-[444]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM211458
-[445]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM211460
-[446]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM211459
-[447]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM211461
-[448]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251632
-[449]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM250668
-[450]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM252321
-[451]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM252322
-[452]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM330403
-[453]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM330985
-[454]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM330998
-[455]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM377336
-[456]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM379246
-[457]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM379250
-[458]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM379244
-[459]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM393462
-[460]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM393943
-[461]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM373803
-[462]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM373890
-[463]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM373895
-[464]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM373899
-[465]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM374103
-[466]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM374114
-[467]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM374118
-[468]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM374123
-[469]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM374128
-[470]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM374167
-[471]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM63090
-[472]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM63098
-[473]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM64941
-[474]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM64943
-[475]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM64947
-[476]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM365015
-[477]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM365922
-[478]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM365923
-[479]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM365926
-[480]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM144692
-[481]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM147653
-[482]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM71806
-[483]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM71940
-[484]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM73106
-[485]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM436100
-[486]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM436285
+[338]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM3360130
+[339]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM3360133
+[340]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251621
+[341]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251622
+[342]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251624
+[343]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251643
+[344]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251627
+[345]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251631
+[346]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251645
+[347]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251630
+[348]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014310
+[349]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM328793
+[350]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251654
+[351]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251655
+[352]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251057
+[353]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251059
+[354]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251061
+[355]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251060
+[356]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251058
+[357]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251065
+[358]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251066
+[359]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251089
+[360]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM2136770
+[361]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM2136860
+[362]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4355908
+[363]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM270684
+[364]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM269031
+[365]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM141134
+[366]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251067
+[367]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251069
+[368]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251070
+[369]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251071
+[370]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM3360449
+[371]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM2601261
+[372]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251634
+[373]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251647
+[374]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4289562
+[375]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM311866
+[376]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251640
+[377]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM3143015
+[378]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM3851200
+[379]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251635
+[380]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM3851201
+[381]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM385877
+[382]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM386404
+[383]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM387210
+[384]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251646
+[385]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM3555903
+[386]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251650
+[387]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014311
+[388]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM129109
+[389]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM252318
+[390]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM252319
+[391]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014312
+[392]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM408368
+[393]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM211450
+[394]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM211452
+[395]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014313
+[396]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM1102100
+[397]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014314
+[398]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM211469
+[399]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM2136781
+[400]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251094
+[401]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4355909
+[402]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251601
+[403]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM2136790
+[404]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM2136791
+[405]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251683
+[406]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251686
+[407]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014316
+[408]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014317
+[409]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014319
+[410]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM211434
+[411]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014320
+[412]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM211430
+[413]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM2136792
+[414]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM2136794
+[415]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4355910
+[416]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4355912
+[417]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM274481
+[418]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4355801
+[419]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4355913
+[420]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM274483
+[421]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM64916
+[422]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251657
+[423]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM274473
+[424]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251660
+[425]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM274477
+[426]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM274479
+[427]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014322
+[428]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM274475
+[429]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4355915
+[430]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251644
+[431]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM252316
+[432]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251696
+[433]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM252306
+[434]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM261466
+[435]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM327381
+[436]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251649
+[437]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM252323
+[438]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM211454
+[439]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014323
+[440]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM211455
+[441]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014324
+[442]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM350419
+[443]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM211458
+[444]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM211460
+[445]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM211459
+[446]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM211461
+[447]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM251632
+[448]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM250668
+[449]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM252321
+[450]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM252322
+[451]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM330403
+[452]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM330985
+[453]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM330998
+[454]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM377336
+[455]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM379246
+[456]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM379250
+[457]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM379244
+[458]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM393462
+[459]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM393943
+[460]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM373803
+[461]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM373890
+[462]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM373895
+[463]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM373899
+[464]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM374103
+[465]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM374114
+[466]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM374118
+[467]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM374123
+[468]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM374128
+[469]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM374167
+[470]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM63090
+[471]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM63098
+[472]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM64941
+[473]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM64943
+[474]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM64947
+[475]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM365015
+[476]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM365922
+[477]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM365923
+[478]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM365926
+[479]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM144692
+[480]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM147653
+[481]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM71806
+[482]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM71940
+[483]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM73106
+[484]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM436100
+[485]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM436285
+[486]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM310742
 [487]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM314307
 [488]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM348342
 [489]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM352409
@@ -4791,12 +4747,10 @@ Amendments, repeals, and miscellaneous provisions
 [496]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM153326
 [497]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM153360
 [498]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM153379
-[499]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM2136500
-[500]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4686448
-[501]: http://www.pco.parliament.govt.nz/reprints/
-[502]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM195439
-[503]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[504]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM195468
-[505]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM195470
-[506]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014300
-[507]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM3555904
+[499]: http://www.pco.parliament.govt.nz/reprints/
+[500]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM195439
+[501]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[502]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM195468
+[503]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM195470
+[504]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM4014300
+[505]: http://www.legislation.govt.nz/act/public/2009/0008/latest/link.aspx?id=DLM3555904
