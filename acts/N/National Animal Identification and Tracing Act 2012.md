@@ -1,5 +1,5 @@
 Reprint  
-as at 1 March 2013
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry for Primary Industries.
 
@@ -102,7 +102,7 @@ This Act is administered by the Ministry for Primary Industries.
 
 [30][38][][38][Obligation to identify and register NAIT animals][38]
 
-[Movement and compliance ][39]
+[Movement and compliance][39]
 
 [31][40][][40][Obligation to declare movement of NAIT animals][40]
 
@@ -120,7 +120,7 @@ This Act is administered by the Ministry for Primary Industries.
 
 [35][47][][47][Obligation on manufacturers of animal identification devices][47]
 
-[36][48][][48][Obligation on other identification system administrators ][48]
+[36][48][][48][Obligation on other identification system administrators][48]
 
 [Exercise of regulation-making power in relation to this Part][49]
 
@@ -220,7 +220,7 @@ This Act is administered by the Ministry for Primary Industries.
 
 [74][96][][96][Repeal of Animal Identification Act 1993][96]
 
-[75][97][][97][Amendments to other enactments ][97]
+[75][97][][97][Amendments to other enactments][97]
 
 [Schedule 1][98]  
 [NAIT animals][98]
@@ -297,9 +297,9 @@ Preliminary provisions
     
     _animal identification device_ means an ear tag, apparatus, or other mechanism that---
         
-    *   (a) is attached or applied to, or implanted or located within, an animal; and 
+    *   (a) is attached or applied to, or implanted or located within, an animal; and
     
-    *   (b) contains the animal identifier and other information 
+    *   (b) contains the animal identifier and other information
     
     _animal identifier_ means the unique identifier that applies to an individual NAIT animal or a single identifier that commonly applies to all NAIT animals within a herd, flock, or other grouping of animals and is unique to that grouping
     
@@ -333,7 +333,7 @@ Preliminary provisions
         
         
     
-    _livestock_ means animals kept as part of an agricultural operation, whether for commercial purposes or for private use 
+    _livestock_ means animals kept as part of an agricultural operation, whether for commercial purposes or for private use
     
     _meat processing facility_ means a place where NAIT animals are slaughtered and dressed for reward or trade
     
@@ -347,7 +347,7 @@ Preliminary provisions
     
     _NAIT authorised person_ means a person appointed under [section 52][68]
     
-    _NAIT device_ means an animal identification device manufactured or supplied in accordance with standards issued under [section 14][16] or regulations made under this Act 
+    _NAIT device_ means an animal identification device manufactured or supplied in accordance with standards issued under [section 14][16] or regulations made under this Act
     
     _NAIT identification system_ means an identification system approved by the NAIT organisation under [section 15][17]
     
@@ -389,7 +389,7 @@ Preliminary provisions
     
     _unidentified animal_ means a NAIT animal that---
         
-    *   (a) is not correctly identified by a NAIT device; or 
+    *   (a) is not correctly identified by a NAIT device; or
     
     *   (b) has not been registered with the NAIT organisation.
     
@@ -1115,7 +1115,7 @@ Obligations of persons participating in NAIT scheme
     
     *   (e) declare the death, loss, or intended export of NAIT animals; and
     
-    *   (f) provide correct and up-to-date information to the NAIT organisation as required by or under this Act. 
+    *   (f) provide correct and up-to-date information to the NAIT organisation as required by or under this Act.
     
     (3) These obligations apply to every PICA---
         
@@ -1147,7 +1147,7 @@ Obligations of persons participating in NAIT scheme
     
     (3) If subsection (2)(a) or (b) applies, the PICA remains responsible for compliance with this Act in respect of the action or duty.
     
-    (4) To avoid doubt, an entity accredited under [section 20(1)(b)][22] to deal with NAIT animals may employ 1 or more PICAs for whom the obligations set out in this Part apply under subsection (1)(a). 
+    (4) To avoid doubt, an entity accredited under [section 20(1)(b)][22] to deal with NAIT animals may employ 1 or more PICAs for whom the obligations set out in this Part apply under subsection (1)(a).
 
 ### Subpart 1---Obligations on PICAs
 
@@ -1163,11 +1163,11 @@ Obligations of persons participating in NAIT scheme
     
     (2) A registered PICA may---
         
-    *   (a) nominate a delegate to undertake specified procedures and obligations under this Act on behalf of the PICA (a _PICA delegate_): 
+    *   (a) nominate a delegate to undertake specified procedures and obligations under this Act on behalf of the PICA (a _PICA delegate_):
     
     *   (b) appoint an information provider to carry out 1 or more of the functions referred to in [section 18][20].
     
-    (3) A person nominated as a delegate must register as a PICA delegate with the NAIT organisation in the manner provided for in [section 27][33]. 
+    (3) A person nominated as a delegate must register as a PICA delegate with the NAIT organisation in the manner provided for in [section 27][33].
 
 ##### 27 Registration process
     
@@ -1189,11 +1189,11 @@ Obligations of persons participating in NAIT scheme
 
 ##### 29 Obligation to register NAIT location
     
-*   (1) Each PICA must register with the NAIT organisation every location where that person is in charge of NAIT animals (_NAIT location_). 
+*   (1) Each PICA must register with the NAIT organisation every location where that person is in charge of NAIT animals (_NAIT location_).
     
     (2) In registering a NAIT location, a PICA must confirm that he or she is a PICA for the specified location.
     
-    (3) However, in the case of locations where events are held that involve NAIT animals, such as shows and rodeos, the event organiser must, before the event,--- 
+    (3) However, in the case of locations where events are held that involve NAIT animals, such as shows and rodeos, the event organiser must, before the event,---
         
     *   (a) notify the event with the NAIT organisation; and
     
@@ -1227,7 +1227,7 @@ Obligations of persons participating in NAIT scheme
     
     (2) A PICA must not move NAIT animals from the NAIT location which that PICA controls unless those animals are fitted with the prescribed NAIT device.
 
-#### Movement and compliance 
+#### Movement and compliance
 
 ##### 31 Obligation to declare movement of NAIT animals
     
@@ -1269,7 +1269,7 @@ Obligations of persons participating in NAIT scheme
 
 ##### 34 When reporting time frames may be extended
     
-*   (1) Despite [section 33(c)][45], the NAIT organisation may, after consulting the Ministry and, if applicable, the relevant agency, give notice of alternative time limits to those prescribed by regulations made under this Act for the provision of information by any PICA. 
+*   (1) Despite [section 33(c)][45], the NAIT organisation may, after consulting the Ministry and, if applicable, the relevant agency, give notice of alternative time limits to those prescribed by regulations made under this Act for the provision of information by any PICA.
     
     (2) Notice under subsection (1)---
         
@@ -1281,7 +1281,7 @@ Obligations of persons participating in NAIT scheme
         
         
     
-    *   (b) must be published in the _Gazette_ and may be given anywhere else that the NAIT organisation considers appropriate, including on (but not limited to) an Internet site maintained by or on behalf of the NAIT organisation. 
+    *   (b) must be published in the _Gazette_ and may be given anywhere else that the NAIT organisation considers appropriate, including on (but not limited to) an Internet site maintained by or on behalf of the NAIT organisation.
     
     (3) If, before notice is given under subsection (1), a PICA has failed to comply with the time limits prescribed by regulations made under this Act, the NAIT organisation may extend the time for the PICA to comply with those time limits.
     
@@ -1309,9 +1309,9 @@ Obligations of persons participating in NAIT scheme
     
     
 
-##### 36 Obligation on other identification system administrators 
+##### 36 Obligation on other identification system administrators
     
-*   (1) This section applies to any person who administers an animal identification system approved under [section 15(1)(b)][17]. 
+*   (1) This section applies to any person who administers an animal identification system approved under [section 15(1)(b)][17].
     
     (2) A person to whom this section applies must---
         
@@ -1335,11 +1335,11 @@ Obligations of persons participating in NAIT scheme
     
     *   (c) the desirability of maintaining consistency between the system of animal identification and tracing practised in New Zealand and the relevant standards, requirements, or recommended practices that are accepted internationally; and
     
-    *   (d) the relative cost of having an exemption against the cost of not having an exemption; and 
+    *   (d) the relative cost of having an exemption against the cost of not having an exemption; and
     
     *   (e) factors such as---
             
-        *   (i) who bears the costs; and 
+        *   (i) who bears the costs; and
         
         *   (ii) the negative and positive impacts of the exemptions on persons participating in the NAIT scheme; and
         
@@ -1354,7 +1354,7 @@ NAIT information system
 
 ##### 38 Definitions for this Part
     
-*   In this Part,--- 
+*   In this Part,---
     
     _administrator_ means the NAIT information system administrator appointed under [section 39(2)][53]
     
@@ -1448,13 +1448,13 @@ NAIT information system
     
 *   (1) The NAIT information system must have the functionality to distinguish between core data and non-core data easily.
     
-    (2) The NAIT information system must be able to interact with--- 
+    (2) The NAIT information system must be able to interact with---
         
-    *   (a) the biosecurity database; and 
+    *   (a) the biosecurity database; and
     
     *   (b) any database established by the Crown for the purposes of the Animal Products Act 1999\.
     
-    (3) Interaction as described in subsection (2) may take place only for a purpose in[section 40][54].
+    (3) Interaction as described in subsection (2) may take place only for a purpose in [section 40][54].
     
     (4) The NAIT information system must hold core data only for as long as reasonably necessary to achieve the purposes in [section 40][54].
     
@@ -1506,7 +1506,7 @@ NAIT information system
         
         
     
-    (3) The administrator must grant the application if satisfied that the data is as described in subsection (2)(a) or (b). 
+    (3) The administrator must grant the application if satisfied that the data is as described in subsection (2)(a) or (b).
     
     (4) The administrator must decline the application if not satisfied as described in subsection (3).
     
@@ -1608,7 +1608,7 @@ NAIT information system
     
     (17) The administrator or the panel must grant the application, wholly or partly, if satisfied that---
         
-    *   (a) the entity is currently accredited under section 20; and
+    *   (a) the entity is currently accredited under [section 20][22]; and
     
     *   (b) the linking and access do not compromise the operation of the NAIT information system.
     
@@ -1737,7 +1737,7 @@ Compliance and enforcement, immunities, cost recovery, regulation-making powers,
     
 *   [Schedule 2][99] contains provisions relevant to---
         
-    *   (a) the administration of the NAIT scheme; and 
+    *   (a) the administration of the NAIT scheme; and
     
     *   (b) compliance with, and enforcement of, obligations under this Act.
     
@@ -1807,7 +1807,7 @@ Compliance and enforcement, immunities, cost recovery, regulation-making powers,
     
     (5) The reference in subsection (4) to recovering one-third of the amount is modified in that---
         
-    *   (a) a shortfall in cost recovery in a period may be recovered in the subsequent period; and 
+    *   (a) a shortfall in cost recovery in a period may be recovered in the subsequent period; and
     
     *   (b) an over-recovery of costs in a period may be counted towards the recovery of costs in a subsequent period.
     
@@ -1823,7 +1823,7 @@ Compliance and enforcement, immunities, cost recovery, regulation-making powers,
     
     (9) The Minister may also recommend the amendment of the regulations in the period to which they apply if the Minister is satisfied that---
         
-    *   (a) the addition to or removal from [Schedule 1][98] of a species or sub-group of species requires a reallocation of costs among NAIT participants; and 
+    *   (a) the addition to or removal from [Schedule 1][98] of a species or sub-group of species requires a reallocation of costs among NAIT participants; and
     
     *   (b) the persons likely to be substantially affected by the amendment, or their representatives, have been consulted.
     
@@ -1965,9 +1965,9 @@ Compliance and enforcement, immunities, cost recovery, regulation-making powers,
     
     *   (m) state whether or not the persons collecting the levy are entitled to recover the cost of collection and, if the persons are entitled to do so, specify the maximum rate of collection costs:
     
-    *   (n) for the purpose of ascertaining whether or not the regulations are being complied with,--- 
+    *   (n) for the purpose of ascertaining whether or not the regulations are being complied with,---
             
-        *   (i) require the keeping of accounts, statements, and records of a specified class or description by all or any of the NAIT organisation, the persons responsible for collecting the levy, and the persons responsible for paying it; and 
+        *   (i) require the keeping of accounts, statements, and records of a specified class or description by all or any of the NAIT organisation, the persons responsible for collecting the levy, and the persons responsible for paying it; and
         
         *   (ii) require the retention of the accounts, statements, or records for a specified period:
         
@@ -2009,7 +2009,7 @@ Compliance and enforcement, immunities, cost recovery, regulation-making powers,
             
         *   (i) the organisation's financial position as a result of money paid as levy in the year; and
         
-        *   (ii) the financial results of all of the organisation's activities involving the use of the money paid as levy in the year or the use of assets the organisation has at the end of the year as a result of money paid as levy in the year. 
+        *   (ii) the financial results of all of the organisation's activities involving the use of the money paid as levy in the year or the use of assets the organisation has at the end of the year as a result of money paid as levy in the year.
         
         
     
@@ -2017,29 +2017,37 @@ Compliance and enforcement, immunities, cost recovery, regulation-making powers,
 
 ##### 64 Levy regulations to be confirmed
     
-*   (1) Subsection (2) applies to regulations under [section 62][81] that--- 
+*   (1) Subsection (2) applies to regulations under [section 62][81] that---
         
     *   (a) are made on or after 1 January and before 1 July in the same year; and
     
     *   (b) are not revoked with effect before or on 1 July in the next year; and
     
-    *   (c) are not stopped from having effect before or on 1 July in the next year by the application of [section 5][116] of the Regulations (Disallowance) Act 1989; and
+    *   (c) are not stopped from having effect before or on 1 July in the next year by the application of [section 42][116] of the Legislation Act 2012; and
     
-    *   (d) will not be stopped from having effect before or on 1 July in the next year by the application of [section 5][116] of the Regulations (Disallowance) Act 1989\.
+    *   (d) will not be stopped from having effect before or on 1 July in the next year by the application of [section 42][116] of the Legislation Act 2012\.
     
     (2) The regulations are deemed to have been revoked at the close of 30 June in the next year unless they have been confirmed by an Act of Parliament passed before or on that day.
     
-    (3) Subsection (4) applies to regulations under [section 62][81] that--- 
+    (3) Subsection (4) applies to regulations under [section 62][81] that---
         
     *   (a) are made on or after 1 July and before or on 31 December in the same year; and
     
     *   (b) are not revoked with effect before or on 1 January in the year after the next year; and
     
-    *   (c) are not stopped from having effect before or on 1 January in the year after the next year by the application of [section 5][116] of the Regulations (Disallowance) Act 1989; and
+    *   (c) are not stopped from having effect before or on 1 January in the year after the next year by the application of [section 42][116] of the Legislation Act 2012; and
     
-    *   (d) will not be stopped from having effect before or on 1 January in the year after the next year by the application of [section 5][116] of the Regulations (Disallowance) Act 1989\.
+    *   (d) will not be stopped from having effect before or on 1 January in the year after the next year by the application of [section 42][116] of the Legislation Act 2012\.
     
     (4) The regulations are deemed to have been revoked at the close of 31 December in the year after the year in which they were made unless they have been confirmed by an Act of Parliament passed before or on that day.
+    
+    Section 64(1)(c): amended, on 5 August 2013, by [section 77(3)][117] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 64(1)(d): amended, on 5 August 2013, by [section 77(3)][117] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 64(3)(c): amended, on 5 August 2013, by [section 77(3)][117] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 64(1)(d): amended, on 5 August 2013, by [section 77(3)][117] of the Legislation Act 2012 (2012 No 119).
 
 ##### 65 Failure to pay
     
@@ -2053,7 +2061,7 @@ Compliance and enforcement, immunities, cost recovery, regulation-making powers,
 
 ##### 66 Charges for services outside this Act
     
-*   (1) This section applies if the NAIT organisation provides services other than the services required by this Act. 
+*   (1) This section applies if the NAIT organisation provides services other than the services required by this Act.
     
     (2) [Sections 57 to 65][76] do not apply to the services.
     
@@ -2133,7 +2141,7 @@ Compliance and enforcement, immunities, cost recovery, regulation-making powers,
         
         *   (vi) the likelihood of the sector joining the NAIT scheme voluntarily; and
         
-        *   (vii) the risks posed to New Zealand's market reputation and biosecurity status by not making the addition; and 
+        *   (vii) the risks posed to New Zealand's market reputation and biosecurity status by not making the addition; and
         
         *   (viii) the need to be able to respond to the human health issues relating to food residues associated with animals, food-borne diseases associated with animals, and diseases transferable between animals and humans.
         
@@ -2161,7 +2169,7 @@ Compliance and enforcement, immunities, cost recovery, regulation-making powers,
         
         
     
-    (9) Before recommending the removal from the schedule of a species or sub-group of species that was added under subsection (6), the Minister must--- 
+    (9) Before recommending the removal from the schedule of a species or sub-group of species that was added under subsection (6), the Minister must---
         
     *   (a) have regard to---
             
@@ -2171,7 +2179,7 @@ Compliance and enforcement, immunities, cost recovery, regulation-making powers,
         
         
     
-    *   (b) be satisfied that--- 
+    *   (b) be satisfied that---
             
         *   (i) at least 5 years have passed since the species or sub-group of species was added to the schedule; and
         
@@ -2185,29 +2193,37 @@ Compliance and enforcement, immunities, cost recovery, regulation-making powers,
     
 *   (1) This section applies to an Order in Council made under [section 67(2)][87].
     
-    (2) Subsection (3) applies to an order that--- 
+    (2) Subsection (3) applies to an order that---
         
     *   (a) is made on or after 1 January and before 1 July in the same year; and
     
     *   (b) is not revoked with effect before or on 1 July in the next year; and
     
-    *   (c) is not stopped from having effect before or on 1 July in the next year by the application of [section 5][116] of the Regulations (Disallowance) Act 1989; and
+    *   (c) is not stopped from having effect before or on 1 July in the next year by the application of [section 42][116] of the Legislation Act 2012; and
     
-    *   (d) will not be stopped from having effect before or on 1 July in the next year by the application of [section 5][116] of the Regulations (Disallowance) Act 1989\.
+    *   (d) will not be stopped from having effect before or on 1 July in the next year by the application of [section 42][116] of the Legislation Act 2012\.
     
     (3) The order is deemed to have been revoked at the close of 30 June in the next year unless it has been confirmed by an Act of Parliament passed before or on that day.
     
-    (4) Subsection (5) applies to an order that--- 
+    (4) Subsection (5) applies to an order that---
         
     *   (a) is made on or after 1 July and before or on 31 December in the same year; and
     
     *   (b) is not revoked with effect before or on 1 January in the year after the next year; and
     
-    *   (c) is not stopped from having effect before or on 1 January in the year after the next year by the application of [section 5][116] of the Regulations (Disallowance) Act 1989; and
+    *   (c) is not stopped from having effect before or on 1 January in the year after the next year by the application of [section 42][116] of the Legislation Act 2012; and
     
-    *   (d) will not be stopped from having effect before or on 1 January in the year after the next year by the application of [section 5][116] of the Regulations (Disallowance) Act 1989\.
+    *   (d) will not be stopped from having effect before or on 1 January in the year after the next year by the application of [section 42][116] of the Legislation Act 2012\.
     
     (5) The order is deemed to have been revoked at the close of 31 December in the year after the year in which it was made unless it has been confirmed by an Act of Parliament passed before or on that day.
+    
+    Section 68(2)(c): amended, on 5 August 2013, by [section 77(3)][117] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 68(2)(d): amended, on 5 August 2013, by [section 77(3)][117] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 68(4)(c): amended, on 5 August 2013, by [section 77(3)][117] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 68(4)(d): amended, on 5 August 2013, by [section 77(3)][117] of the Legislation Act 2012 (2012 No 119).
 
 ##### 69 Other regulations
     
@@ -2293,13 +2309,13 @@ Compliance and enforcement, immunities, cost recovery, regulation-making powers,
     
     (2) If material is incorporated by reference in regulations or standards made under this Act, [Schedule 3][100] applies to that material.
     
-    (3) However, if the incorporated material is a New Zealand Standard (as defined in [section 2][117] of the Standards Act 1988), that Act applies.
+    (3) However, if the incorporated material is a New Zealand Standard (as defined in [section 2][118] of the Standards Act 1988), that Act applies.
 
 #### Transitional provisions
 
 ##### 71 Previously approved identification systems may continue
     
-*   (1) This section applies to a NAIT animal identified at the commencement of this Act in accordance with an identification system approved under [section 158][118] of the Animal Products Act 1999 or [section 50][119] of the Biosecurity Act 1993\.
+*   (1) This section applies to a NAIT animal identified at the commencement of this Act in accordance with an identification system approved under [section 158][119] of the Animal Products Act 1999 or [section 50][120] of the Biosecurity Act 1993\.
     
     (2) The animal may continue to be identified in accordance with the system.
     
@@ -2321,9 +2337,9 @@ Compliance and enforcement, immunities, cost recovery, regulation-making powers,
 
 ##### 74 Repeal of Animal Identification Act 1993
     
-*   The [Animal Identification Act 1993][120] is repealed. 
+*   The [Animal Identification Act 1993][121] is repealed.
 
-##### 75 Amendments to other enactments 
+##### 75 Amendments to other enactments
     
 *   The enactments specified in [Schedule 4][101] are amended in the manner shown in that schedule.
 
@@ -2343,7 +2359,7 @@ Deer All members of the family Cervidae that are farmed or kept in captivity
 ## Schedule 2  
 Compliance and enforcement
 
-s 55
+[s 55][72]
 
 ##### 1 Interpretation
     
@@ -2353,7 +2369,7 @@ s 55
     
     _access information_ includes codes, passwords, and encryption keys, and any related information that enables access to a computer system or any other data storage device
     
-    _call associated data_ has the meaning given in [section 3(1)][121] of the Telecommunications (Interception Capability) Act 2004
+    _call associated data_ has the meaning given in [section 3(1)][122] of the Telecommunications (Interception Capability) Act 2004
     
     _computer system_---
         
@@ -2371,7 +2387,7 @@ s 55
     
     *   (b) includes any part of the items described in paragraph (a) and all related input, output, processing, storage, software, or communication facilities, and stored data
     
-    _document_ includes call associated data and the content of telecommunications for which, at the time an application is made under [clause 14][122] for a production order against a network operator, the network operator has storage capability, and stores that data and content in the normal course of its business
+    _document_ includes call associated data and the content of telecommunications for which, at the time an application is made under [clause 14][123] for a production order against a network operator, the network operator has storage capability, and stores that data and content in the normal course of its business
     
     _evidential material_, in relation to a particular offence, means evidence or any other item, tangible or intangible, of relevance to the investigation of the offence
     
@@ -2379,11 +2395,11 @@ s 55
         
     *   (a) a Judge:
     
-    *   (b) a person such as a Justice of the Peace, Community Magistrate, Registrar, or Deputy Registrar 
+    *   (b) a person such as a Justice of the Peace, Community Magistrate, Registrar, or Deputy Registrar
     
     _law enforcement agency_ means the Ministry or the NAIT organisation
     
-    _network operator_ has the meaning given in [section 3(1)][121] of the Telecommunications (Interception Capability) Act 2004
+    _network operator_ has the meaning given in [section 3(1)][122] of the Telecommunications (Interception Capability) Act 2004
     
     _Registrar_ and _Deputy Registrar_ mean the Registrar and Deputy Registrar of the District Court
     
@@ -2391,7 +2407,7 @@ s 55
     
     _search power_, in relation to any provision in this schedule, means every search warrant issued under this Act
     
-    _search warrant_ means a search warrant within the meaning of [clause 29(2)][123].
+    _search warrant_ means a search warrant within the meaning of [clause 29(2)][124].
     
     (2) For the purposes of the definition of computer system, a computer is interconnected with another computer if it can be lawfully used to provide access to that other computer---
         
@@ -2432,7 +2448,7 @@ Powers relevant to administration of NAIT scheme
     
     *   (b) ascertaining the movements of NAIT animals.
     
-    (3) This section is subject to [clause 64][83] (which provides for a privilege against self-incrimination). 
+    (3) This section is subject to [clause 64][83] (which provides for a privilege against self-incrimination).
 
 ##### 3 Audit of core data
     
@@ -2452,7 +2468,7 @@ Powers relevant to administration of NAIT scheme
     
     *   (c) the PICA, the PICA's delegate, or the PICA's information provider may make a written submission before an adverse report is issued on the basis of the audit.
     
-    (4) This section is subject to [clause 64][124] (which provides for a privilege against self-incrimination).
+    (4) This section is subject to [clause 64][125] (which provides for a privilege against self-incrimination).
 
 ##### 4 Power to determine status of person as PICA
     
@@ -2508,11 +2524,11 @@ Powers relevant to administration of NAIT scheme
 
 ##### 6 Power to act if person defaults
     
-*   (1) This clause applies to a person who is directed under [clause 5][125] to take some specified action.
+*   (1) This clause applies to a person who is directed under [clause 5][126] to take some specified action.
     
-    (2) If the person fails to comply with the direction within the time specified in the notice or, if no time was specified in a notice under [clause 5(2)][125], within a reasonable time, a NAIT officer or a NAIT authorised person may take action, or cause action to be taken, that is reasonably necessary and appropriate for achieving the purposes of the notice.
+    (2) If the person fails to comply with the direction within the time specified in the notice or, if no time was specified in a notice under [clause 5(2)][126], within a reasonable time, a NAIT officer or a NAIT authorised person may take action, or cause action to be taken, that is reasonably necessary and appropriate for achieving the purposes of the notice.
     
-    (3) If a specified action is required to be carried out on Māori land, the notice given to the owners must comply with [section 181][126] of Te Ture Whenua Maori Act 1993\.
+    (3) If a specified action is required to be carried out on Māori land, the notice given to the owners must comply with [section 181][127] of Te Ture Whenua Maori Act 1993\.
     
     (4) The NAIT officer or a NAIT authorised person is entitled to recover the costs and expenses reasonably incurred under subclause (2) as a debt due from the person to whom the notice was given.
 
@@ -2544,11 +2560,11 @@ Powers relevant to administration of NAIT scheme
 
 ##### 9 Failure to comply with conditions
     
-*   If a person to whom a seized or produced thing is released or who is given access to it under [clause 8][127] fails to comply with any condition imposed under clause 8(5), the thing may be seized again, or required to be produced, or the ability to have access to the thing ended at the direction of the person who released it or provided access to it.
+*   If a person to whom a seized or produced thing is released or who is given access to it under [clause 8][128] fails to comply with any condition imposed under clause 8(5), the thing may be seized again, or required to be produced, or the ability to have access to the thing ended at the direction of the person who released it or provided access to it.
 
 ##### 10 Application to District Court for access to thing seized or produced
     
-*   (1) A person referred to in [clause 8(2)][127] may apply to the District Court for access to any thing seized by a person exercising a search power or produced to any person under a production order if the person's application under that section---
+*   (1) A person referred to in [clause 8(2)][128] may apply to the District Court for access to any thing seized by a person exercising a search power or produced to any person under a production order if the person's application under that section---
         
     *   (a) has been refused; or
     
@@ -2564,7 +2580,7 @@ Powers relevant to administration of NAIT scheme
 
 ##### 11 Application to District Court for release of thing seized or produced
     
-*   (1) A person referred to in [clause 8(2)][127] may apply to the District Court for the release of any thing seized by a person exercising a search power or produced to a person under a production order.
+*   (1) A person referred to in [clause 8(2)][128] may apply to the District Court for the release of any thing seized by a person exercising a search power or produced to a person under a production order.
     
     (2) The court may release the thing to the applicant if it is satisfied that it would be contrary to the interests of justice for the item to be retained in custody, having regard to---
         
@@ -2621,7 +2637,7 @@ Powers applying in relation to all livestock
 
 ##### 13 Removal of straying livestock
     
-*   (1) If an occupier of land (_person A_) believes on reasonable grounds that livestock owned by another person (_person B_) have strayed onto person A's land,--- 
+*   (1) If an occupier of land (_person A_) believes on reasonable grounds that livestock owned by another person (_person B_) have strayed onto person A's land,---
         
     *   (a) person A may apply in writing to a NAIT officer requesting that written notice be given to person B, requiring that person to remove livestock that belong to person B at that person's expense; and
     
@@ -2658,7 +2674,7 @@ Powers of NAIT officers to obtain certain orders
     
 *   (1) This clause applies to a NAIT officer who is entitled to apply for a search warrant to obtain documents.
     
-    (2) The NAIT officer may apply to an issuing officer for a production order against a person in respect of those documents if the NAIT officer is satisfied that the conditions specified in clause 15 for making the order against the person are met.
+    (2) The NAIT officer may apply to an issuing officer for a production order against a person in respect of those documents if the NAIT officer is satisfied that the conditions specified in [clause 15][129] for making the order against the person are met.
     
     (3) An application must be in writing and must set out the following particulars:
         
@@ -2680,7 +2696,7 @@ Powers of NAIT officers to obtain certain orders
         
         *   (ii) on an ongoing basis,---
                 
-            *   (A) those documents for which production is sought that are in the person's possession or under the person's control at the time the order is made; and 
+            *   (A) those documents for which production is sought that are in the person's possession or under the person's control at the time the order is made; and
             
             *   (B) those documents for which production is sought and that come into the person's possession or under the person's control at any time while the order is in force.
             
@@ -2704,11 +2720,11 @@ Powers of NAIT officers to obtain certain orders
         
         
     
-    (2) A production order does not affect the privilege against self-incrimination provided for in [clause 64][124].
+    (2) A production order does not affect the privilege against self-incrimination provided for in [clause 64][125].
 
 ##### 16 Issuing officer may make order
     
-*   An issuing officer may make a production order against a person if satisfied, on an application made under [clause 14][122], that the conditions specified in [clause 15][128] are met.
+*   An issuing officer may make a production order against a person if satisfied, on an application made under [clause 14][123], that the conditions specified in [clause 15][129] are met.
 
 ##### 17 Form and content of production order
     
@@ -2718,7 +2734,7 @@ Powers of NAIT officers to obtain certain orders
             
         *   (i) any documents described in the order that are in the possession or under the control of person A; and
         
-        *   (ii) if [clause 14(3)(g)(ii)(B)][122] applies, documents described in the order that come into the possession or under the control of person A while the order is in force; and 
+        *   (ii) if [clause 14(3)(g)(ii)(B)][123] applies, documents described in the order that come into the possession or under the control of person A while the order is in force; and
         
         
     
@@ -2764,15 +2780,15 @@ Powers of NAIT officers to obtain certain orders
     
 *   (1) The following provisions apply to an application for a production order as if any reference in those provisions to a warrant or search warrant were a reference to a production order:
         
-    *   (a) [clause 30(2)][129] (requirements for further information); and
+    *   (a) [clause 30(2)][130] (requirements for further information); and
     
-    *   (b) [clause 31][130] (verification of application); and
+    *   (b) [clause 31][131] (verification of application); and
     
-    *   (c) [clause 32][131] (mode of application); and
+    *   (c) [clause 32][132] (mode of application); and
     
-    *   (d) [clause 33][132] (retention of documents).
+    *   (d) [clause 33][133] (retention of documents).
     
-    (2) [Clauses 37][133] (transmission of search warrants) and [39][134] (when a search warrant is invalid) apply to production orders as if any reference in those provisions to a warrant or search warrant were a reference to a production order.
+    (2) [Clauses 37][134] (transmission of search warrants) and [39][135] (when a search warrant is invalid) apply to production orders as if any reference in those provisions to a warrant or search warrant were a reference to a production order.
 
 ## Part 4  
 Search and inspection powers
@@ -2787,7 +2803,7 @@ Search and inspection powers
 
 ##### 23 Application of rules about consent searches
     
-*   [Clauses 24 to 27][135] apply in respect of consent searches undertaken by a NAIT officer in circumstances where a power of search by a NAIT officer could be exercised if he or she held a particular belief or suspicion specified in this Act.
+*   [Clauses 24 to 27][136] apply in respect of consent searches undertaken by a NAIT officer in circumstances where a power of search by a NAIT officer could be exercised if he or she held a particular belief or suspicion specified in this Act.
 
 ##### 24 Purposes for which consent search may be undertaken
     
@@ -2805,7 +2821,7 @@ Search and inspection powers
     
 *   Before conducting a search by consent, the NAIT officer who proposes to conduct it must---
         
-    *   (a) determine that the search is for a purpose authorised by [clause 24][135]; and
+    *   (a) determine that the search is for a purpose authorised by [clause 24][136]; and
     
     *   (b) advise the person from whom consent is sought of the reason for the proposed search; and
     
@@ -2817,9 +2833,9 @@ Search and inspection powers
     
 *   A search by consent is unlawful if---
         
-    *   (a) it is not for a purpose set out in clause 24; or
+    *   (a) it is not for a purpose set out in [clause 24][136]; or
     
-    *   (b) the NAIT officer fails to comply with [clause 25(a), (b), or (c)][136]; or
+    *   (b) the NAIT officer fails to comply with [clause 25(a), (b), or (c)][137]; or
     
     *   (c) the search is undertaken in reliance on a consent given by a person who does not have authority to give that consent.
     
@@ -2847,17 +2863,17 @@ Search and inspection powers
 
 ##### 29 Power to apply for search warrant
     
-*   (1) A NAIT officer may apply for a search warrant in the manner set out in [clauses 30 to 33][129] if the officer has reasonable grounds---
+*   (1) A NAIT officer may apply for a search warrant in the manner set out in [clauses 30 to 33][130] if the officer has reasonable grounds---
         
     *   (a) to suspect that an offence against this Act has been, is being, or will be committed; and
     
     *   (b) to believe that the search will disclose evidence in respect of that offence.
     
-    (2) The provisions of [clauses 30 to 33][129] apply in respect of every warrant applied for, or issued, under this Act that would enable, in respect of any land, premises, place, vehicle, or other thing,---
+    (2) The provisions of [clauses 30 to 33][130] apply in respect of every warrant applied for, or issued, under this Act that would enable, in respect of any land, premises, place, vehicle, or other thing,---
         
-    *   (a) entry; or 
+    *   (a) entry; or
     
-    *   (b) entry and search; or 
+    *   (b) entry and search; or
     
     *   (c) entry and inspection; or
     
@@ -2925,13 +2941,13 @@ Search and inspection powers
     
     *   (b) the issuing officer is satisfied that the question of whether the warrant should be issued can properly be determined on the basis of an oral communication or a personal appearance (and the material described in paragraph (c)); and
     
-    *   (c) the information required by [clause 30(1) to (3)][129] is supplied (whether orally, or partly orally and partly in writing) to the issuing officer.
+    *   (c) the information required by [clause 30(1) to (3)][130] is supplied (whether orally, or partly orally and partly in writing) to the issuing officer.
     
     (4) An issuing officer may allow an application for a search warrant to be made without either an appearance in person or an oral communication with the issuing officer if---
         
     *   (a) the issuing officer is satisfied that the question of whether the search warrant should be issued can properly be determined on the basis of any written communication by the applicant (including the material described in paragraph (b)); and
     
-    *   (b) the information required by [clause 30(1) to (3)][129] has been supplied to the issuing officer; and
+    *   (b) the information required by [clause 30(1) to (3)][130] has been supplied to the issuing officer; and
     
     *   (c) the issuing officer is satisfied that there is no need to ask any questions of, or seek any further information from, the applicant.
     
@@ -2941,9 +2957,9 @@ Search and inspection powers
     
 *   (1) The Registrar of the District Court where an application is made (or of the District Court closest to that place) must retain control of a copy (whether in electronic form or otherwise) of---
         
-    *   (a) every written application for a search warrant; or 
+    *   (a) every written application for a search warrant; or
     
-    *   (b) in the case of an oral application, the record of the application made by the issuing officer. 
+    *   (b) in the case of an oral application, the record of the application made by the issuing officer.
     
     (2) The copy must be retained until,---
         
@@ -2951,11 +2967,11 @@ Search and inspection powers
     
     *   (b) in any other case, the expiry of 2 years after the records were first retained under the control of the Registrar of the District Court.
     
-    (3) An applicant to whom a search warrant is issued must retain the warrant (whether in electronic form or otherwise), a copy of the application (if made in written form), copies of all documents tendered by the applicant in support of the application, and a copy of any search warrant report referred to in clause 36 required to be prepared,---
+    (3) An applicant to whom a search warrant is issued must retain the warrant (whether in electronic form or otherwise), a copy of the application (if made in written form), copies of all documents tendered by the applicant in support of the application, and a copy of any search warrant report referred to in [clause 36][138] required to be prepared,---
         
     *   (a) in the case of a warrant that is executed, until the completion of any proceedings where the validity of the warrant may be in issue; or
     
-    *   (b) in any other case, until the destruction or transfer of the warrant and other documents is required by or under the [Public Records Act 2005][137] or any other enactment or rule of law.
+    *   (b) in any other case, until the destruction or transfer of the warrant and other documents is required by or under the [Public Records Act 2005][139] or any other enactment or rule of law.
     
     
 
@@ -3045,7 +3061,7 @@ Search and inspection powers
 
 ##### 36 Issuing officer may require search warrant report
     
-*   (1) An issuing officer may impose a condition under [clause 35(3)(b)][138] requiring the employer of any person to whom a search warrant is issued to provide that issuing officer with a search warrant report within a specified period.
+*   (1) An issuing officer may impose a condition under [clause 35(3)(b)][140] requiring the employer of any person to whom a search warrant is issued to provide that issuing officer with a search warrant report within a specified period.
     
     (2) A search warrant report must state---
         
@@ -3083,11 +3099,11 @@ Search and inspection powers
     
 *   (1) A search warrant is invalid---
         
-    *   (a) if, having regard to the information contained in the application, the grounds or conditions for lawful issue of a warrant set out in [clause 34(1)][139] were not satisfied at the time that the search warrant was issued:
+    *   (a) if, having regard to the information contained in the application, the grounds or conditions for lawful issue of a warrant set out in [clause 34(1)][141] were not satisfied at the time that the search warrant was issued:
     
     *   (b) if the warrant contains a defect, irregularity, omission, or want of form that is likely to mislead anyone executing or affected by the warrant as to its purpose or scope.
     
-    (2) If a warrant is invalid under this clause, [section 204][140] of the Summary Proceedings Act 1957 (which provides that a warrant is not invalid by reason only of a defect, irregularity, omission, or want of form) does not apply to that warrant.
+    (2) If a warrant is invalid under this clause, [section 204][142] of the Summary Proceedings Act 1957 (which provides that a warrant is not invalid by reason only of a defect, irregularity, omission, or want of form) does not apply to that warrant.
 
 #### Carrying out search powers
 
@@ -3101,7 +3117,7 @@ Search and inspection powers
     
     *   (c) to use any force in respect of any property that is reasonable for the purposes of carrying out the entry and search and any lawful seizure:
     
-    *   (d) if and only if [clause 45(2)][141] applies to the person exercising the power, to detain any person who is at the place or in the vehicle or other thing being searched, or who arrives there while the search is being undertaken, for a reasonable period (using reasonable force if necessary), to enable the person exercising the power to determine whether the person is connected with the object of the search:
+    *   (d) if and only if [clause 45(2)][143] applies to the person exercising the power, to detain any person who is at the place or in the vehicle or other thing being searched, or who arrives there while the search is being undertaken, for a reasonable period (using reasonable force if necessary), to enable the person exercising the power to determine whether the person is connected with the object of the search:
     
     *   (e) to seize any thing that may lawfully be seized:
     
@@ -3147,7 +3163,7 @@ Search and inspection powers
     
 *   (1) Every person called on to assist a person exercising a search power is subject to the control of the person with overall responsibility for exercising that power.
     
-    (2) Every person called on to assist a person exercising a search power may, in addition to exercising the powers set out in [clause 40(a), (d), (e), (f), and (i)][142],---
+    (2) Every person called on to assist a person exercising a search power may, in addition to exercising the powers set out in [clause 40(a), (d), (e), (f), and (i)][144],---
         
     *   (a) use reasonable force in respect of any property for the purposes of carrying out the entry and search and any lawful seizure, while under the direction of the person exercising the power:
     
@@ -3183,19 +3199,19 @@ Search and inspection powers
 
 ##### 45 Limitation on exercise of powers
     
-*   (1) The powers conferred by [clauses 40 to 44][142] are subject to---
+*   (1) The powers conferred by [clauses 40 to 44][144] are subject to---
         
-    *   (a) any conditions imposed under [clause 35(3)(b)][138] by an issuing officer who issues a search warrant:
+    *   (a) any conditions imposed under [clause 35(3)(b)][140] by an issuing officer who issues a search warrant:
     
-    *   (b) [clauses 62 to 72][143] (which relate to privilege and confidentiality).
+    *   (b) [clauses 62 to 72][145] (which relate to privilege and confidentiality).
     
-    (2) The powers conferred by [clause 40(d)][142] to detain a person may only be exercised by a person who has power to arrest the person to be detained---
+    (2) The powers conferred by [clause 40(d)][144] to detain a person may only be exercised by a person who has power to arrest the person to be detained---
         
     *   (a) for a suspected offence to which the search relates; or
     
     *   (b) for a suspected offence to which evidential material that is discovered in the course of the search relates.
     
-    (3) To avoid doubt, the powers conferred by [clauses 40(c)][142] and [43(2)(a)][144] do not authorise the application of force to any person.
+    (3) To avoid doubt, the powers conferred by [clauses 40(c)][144] and [43(2)(a)][146] do not authorise the application of force to any person.
 
 ##### 46 Securing place, vehicle, or other thing to be searched
     
@@ -3251,7 +3267,7 @@ Search and inspection powers
     
     *   (b) any other search power exercisable by him or her under this Act.
     
-    (2) If a NAIT officer seizes an item under subclause (1), in circumstances where the officer is not already exercising a search power, the officer may exercise the relevant power conferred by [clause 41][145] in relation to the seizure.
+    (2) If a NAIT officer seizes an item under subclause (1), in circumstances where the officer is not already exercising a search power, the officer may exercise the relevant power conferred by [clause 41][147] in relation to the seizure.
 
 #### Inspection without warrant
 
@@ -3263,15 +3279,15 @@ Search and inspection powers
         
     *   (a) with the consent of an occupier; or
     
-    *   (b) if a warrant has been issued under [clause 34][139], in compliance with any conditions of the warrant.
+    *   (b) if a warrant has been issued under [clause 34][141], in compliance with any conditions of the warrant.
     
     
 
-#### Powers relating to vehicles 
+#### Powers relating to vehicles
 
 ##### 50 Stopping vehicles with or without warrant for purposes of search
     
-*   (1) A NAIT officer or a NAIT authorised person may stop a vehicle to exercise the power conferred by [clause 49][146].
+*   (1) A NAIT officer or a NAIT authorised person may stop a vehicle to exercise the power conferred by [clause 49][148].
     
     (2) A NAIT officer may stop a vehicle to conduct a search under a power to search with a warrant issued under this Act if he or she is satisfied that the warrant has been issued and is in force.
 
@@ -3331,9 +3347,9 @@ Search and inspection powers
     
     (3) The information to which subclause (2) applies is---
         
-    *   (a) personal information (within the meaning of the [Privacy Act 1993][147]); and
+    *   (a) personal information (within the meaning of the [Privacy Act 1993][149]); and
     
-    *   (b) commercially sensitive within the meaning of [section 9(2)(b)][148] of the Official Information Act 1982:
+    *   (b) commercially sensitive within the meaning of [section 9(2)(b)][150] of the Official Information Act 1982:
     
     (4) A person may not be detained and searched under this clause before the constable has---
         
@@ -3389,7 +3405,7 @@ Search and inspection powers
     
     *   (b) contains or may contain information tending to incriminate the specified person.
     
-    (6) Subclauses (2), (4), and (5) are subject to Part 5 of this schedule (which relates to privilege and confidentiality).
+    (6) Subclauses (2), (4), and (5) are subject to [Part 5][151] of this schedule (which relates to privilege and confidentiality).
 
 #### Identification and notice requirements
 
@@ -3449,13 +3465,13 @@ Search and inspection powers
     
     *   (d) if nothing is seized, the fact that nothing was seized:
     
-    *   (e) if any thing was seized, the fact that seizure occurred and (if an inventory was not provided at the same time under [clauses 59 to 61][149]) that an inventory of the things seized will be provided to the occupier of the place or person in charge of the vehicle or other thing no later than 7 days after the seizure.
+    *   (e) if any thing was seized, the fact that seizure occurred and (if an inventory was not provided at the same time under [clauses 59 to 61][152]) that an inventory of the things seized will be provided to the occupier of the place or person in charge of the vehicle or other thing no later than 7 days after the seizure.
     
-    (6) For the purposes of this clause and [clauses 59 to 61][149],---
+    (6) For the purposes of this clause and [clauses 59 to 61][152],---
         
     *   (a) the following persons may not be treated as the occupier of the place or the person in charge of a vehicle or other thing:
             
-        *   (i) any person who is under 14 years of age (unless [clause 27(2)][150] applies to that person):
+        *   (i) any person who is under 14 years of age (unless [clause 27(2)][153] applies to that person):
         
         *   (ii) any person who the person executing the warrant has reasonable grounds to believe is not the occupier of the place or person in charge of the vehicle or other thing:
         
@@ -3463,7 +3479,7 @@ Search and inspection powers
     
     *   (b) every reference to a copy of the authority referred to in subclause (1)(b)(i) means, in a case where a search is undertaken without a search warrant, written advice about the enactment that authorises the search.
     
-    (7) Subclauses (4) and (5) are subject to clauses 60 and 61\.
+    (7) Subclauses (4) and (5) are subject to [clauses 60][154] and [61][155].
     
     (8) This section does not apply to a remote access search.
 
@@ -3491,7 +3507,7 @@ Search and inspection powers
         
     *   (a) written notice specifying what was seized; and
     
-    *   (b) a copy of the authority referred to in [clause 57(1)(b)(i)][151].
+    *   (b) a copy of the authority referred to in [clause 57(1)(b)(i)][156].
     
     (2) A written notice referred to in subclause (1)(a)---
         
@@ -3507,15 +3523,15 @@ Search and inspection powers
     
     *   (c) need not be provided to the occupier of the place or person in charge of the vehicle or other thing from which the seizure took place if the person who carries out the search is satisfied that none of the items seized are owned by that person.
     
-    (3) If the occupier of the place or person in charge of the vehicle or other thing is not present at the time of seizure, a written notice referred to in subclause (1)(a) and a copy of the authority referred to in [clause 57(1)(b)(i)][151] may be provided to that person by leaving the notice in a prominent position at the place, or in or on the vehicle or other thing.
+    (3) If the occupier of the place or person in charge of the vehicle or other thing is not present at the time of seizure, a written notice referred to in subclause (1)(a) and a copy of the authority referred to in [clause 57(1)(b)(i)][156] may be provided to that person by leaving the notice in a prominent position at the place, or in or on the vehicle or other thing.
     
     (4) Subclause (1) is subject to subclauses (2) and (3).
     
-    (5) This clause is subject to [clauses 60][152] and [61][153].
+    (5) This clause is subject to [clauses 60][154] and [61][155].
 
 ##### 60 Compliance with certain provisions may be postponed
     
-*   (1) The Director-General may apply to the District Court for an order to postpone the obligation to comply with [clause 57(4) or (5)][151] or [59][149] on the grounds that compliance would---
+*   (1) The Director-General may apply to the District Court for an order to postpone the obligation to comply with [clause 57(4) or (5)][156] or [59][152] on the grounds that compliance would---
         
     *   (a) endanger the safety of any person; or
     
@@ -3527,7 +3543,7 @@ Search and inspection powers
     
     *   (b) in the case of any other entry and search power, until the expiry of 7 days after the search power is exercised.
     
-    (3) On an application under subclause (1), the District Court may make an order to postpone for a specified period not exceeding 12 months the obligation to comply with [clause 57(4) or (5)][151] or [59][149] if the District Court is satisfied that there are reasonable grounds for believing that compliance would---
+    (3) On an application under subclause (1), the District Court may make an order to postpone for a specified period not exceeding 12 months the obligation to comply with [clause 57(4) or (5)][156] or [59][152] if the District Court is satisfied that there are reasonable grounds for believing that compliance would---
         
     *   (a) endanger the safety of any person; or
     
@@ -3537,7 +3553,7 @@ Search and inspection powers
 
 ##### 61 Further postponement of, or dispensation from, obligation to comply with certain provisions
     
-*   (1) A person who has obtained an order under [clause 60(3)][152] may, before the expiry of that order, apply to the District Court for a further order to postpone or dispense with the obligation to comply with [clause 57(4) or (5)][151] or [59][149] on the grounds that compliance would---
+*   (1) A person who has obtained an order under [clause 60(3)][154] may, before the expiry of that order, apply to the District Court for a further order to postpone or dispense with the obligation to comply with [clause 57(4) or (5)][156] or [59][152] on the grounds that compliance would---
         
     *   (a) endanger the safety of any person; or
     
@@ -3547,9 +3563,9 @@ Search and inspection powers
     
     (3) On an application under subclause (1), the District Court may---
         
-    *   (a) make an order to postpone, for a further specified period not exceeding 12 months, the obligation to comply with [clause 57(4) or (5)][151] or [59][149]; or
+    *   (a) make an order to postpone, for a further specified period not exceeding 12 months, the obligation to comply with [clause 57(4) or (5)][156] or [59][152]; or
     
-    *   (b) order a permanent dispensation from that obligation. 
+    *   (b) order a permanent dispensation from that obligation.
     
     (4) The District Court may exercise the discretion under subclause (3) if satisfied that compliance would---
         
@@ -3561,7 +3577,7 @@ Search and inspection powers
         
     *   (a) a copy or clone of any information taken or made; or
     
-    *   (b) a thing the possession of which by the person from whom it was seized is unlawful under New Zealand law (for example, a controlled drug that is found in the possession of a member of the public in circumstances in which possession by the person of the controlled drug is an offence against the [Misuse of Drugs Act 1975][154]).
+    *   (b) a thing the possession of which by the person from whom it was seized is unlawful under New Zealand law (for example, a controlled drug that is found in the possession of a member of the public in circumstances in which possession by the person of the controlled drug is an offence against the [Misuse of Drugs Act 1975][157]).
     
     
 
@@ -3572,23 +3588,23 @@ Privilege and confidentiality
     
 *   (1) The following privileges are recognised for the purposes of this Part:
         
-    *   (a) legal professional privilege, to the extent that (under [section 53(5)][155] of the Evidence Act 2006) it forms part of the general law:
+    *   (a) legal professional privilege, to the extent that (under [section 53(5)][158] of the Evidence Act 2006) it forms part of the general law:
     
-    *   (b) privilege for communications with legal advisers (as described in [section 54][156] of the Evidence Act 2006):
+    *   (b) privilege for communications with legal advisers (as described in [section 54][159] of the Evidence Act 2006):
     
-    *   (c) privilege for preparatory materials for proceedings (as described in [section 56][157] of the Evidence Act 2006):
+    *   (c) privilege for preparatory materials for proceedings (as described in [section 56][160] of the Evidence Act 2006):
     
-    *   (d) privilege for settlement negotiations or mediation (as described in [section 57][158] of the Evidence Act 2006):
+    *   (d) privilege for settlement negotiations or mediation (as described in [section 57][161] of the Evidence Act 2006):
     
-    *   (e) privilege for communications with ministers of religion (as described in [section 58][159] of the Evidence Act 2006):
+    *   (e) privilege for communications with ministers of religion (as described in [section 58][162] of the Evidence Act 2006):
     
-    *   (f) privilege in criminal proceedings for information obtained by medical practitioners and clinical psychologists (as described in [section 59][160] of the Evidence Act 2006):
+    *   (f) privilege in criminal proceedings for information obtained by medical practitioners and clinical psychologists (as described in [section 59][163] of the Evidence Act 2006):
     
-    *   (g) to the extent provided in [clause 64][124], and only to that extent, any privilege against self-incrimination (as described in [section 60][161] of the Evidence Act 2006):
+    *   (g) to the extent provided in [clause 64][125], and only to that extent, any privilege against self-incrimination (as described in [section 60][164] of the Evidence Act 2006):
     
-    *   (h) privilege for informers (as described in [section 64][162] of the Evidence Act 2006):
+    *   (h) privilege for informers (as described in [section 64][165] of the Evidence Act 2006):
     
-    *   (i) the rights conferred on a journalist under [section 68][163] of the Evidence Act 2006 to protect certain sources.
+    *   (i) the rights conferred on a journalist under [section 68][166] of the Evidence Act 2006 to protect certain sources.
     
     (2) For the purposes of this Part, no privilege applies for any communication or information if there is a prima facie case that the communication or information is made or received, or compiled or prepared,---
         
@@ -3602,17 +3618,17 @@ Privilege and confidentiality
     
 *   (1) Subclause (2) applies to documents that are books of account or accounting records kept---
         
-    *   (a) by a solicitor in relation to any trust account money that is subject to [section 112][164] of the Lawyers and Conveyancers Act 2006; or
+    *   (a) by a solicitor in relation to any trust account money that is subject to [section 112][167] of the Lawyers and Conveyancers Act 2006; or
     
     *   (b) by a nominee company that---
             
-        *   (i) is subject to practice rules made by the Council of the New Zealand Law Society under [section 96][165] of the Lawyers and Conveyancers Act 2006; and
+        *   (i) is subject to practice rules made by the Council of the New Zealand Law Society under [section 96][168] of the Lawyers and Conveyancers Act 2006; and
         
         *   (ii) is operated by a barrister and solicitor or an incorporated law firm as a nominee for securities and documents of title held for clients.
         
         
     
-    (2) The application by [clause 62][143] of [section 54][156] of the Evidence Act 2006 (which relates to the privilege for communications with legal advisers) does not prevent, limit, or affect---
+    (2) The application by [clause 62][145] of [section 54][159] of the Evidence Act 2006 (which relates to the privilege for communications with legal advisers) does not prevent, limit, or affect---
         
     *   (a) the making of a production order, issuing of a search warrant, or exercise of any other search power concerning a document to which this subclause applies; or
     
@@ -3624,15 +3640,15 @@ Privilege and confidentiality
 
 ##### 64 Privilege against self-incrimination
     
-*   (1) A production order does not affect the privilege against self-incrimination that an individual may have under [section 60][161] of the Evidence Act 2006\.
+*   (1) A production order does not affect the privilege against self-incrimination that an individual may have under [section 60][164] of the Evidence Act 2006\.
     
-    (2) Any assertion of a privilege against self-incrimination must be based on [section 60][161] of the Evidence Act 2006\.
+    (2) Any assertion of a privilege against self-incrimination must be based on [section 60][164] of the Evidence Act 2006\.
     
-    (3) If any individual refuses to produce any information or document or to answer any question on the ground that it is a privileged communication under [section 60][161] of the Evidence Act 2006, the NAIT officer concerned may apply to the District Court for an order determining whether or not the claim of privilege is valid.
+    (3) If any individual refuses to produce any information or document or to answer any question on the ground that it is a privileged communication under [section 60][164] of the Evidence Act 2006, the NAIT officer concerned may apply to the District Court for an order determining whether or not the claim of privilege is valid.
     
     (4) For the purposes of determining any application referred to in subclause (3), the individual must offer sufficient evidence to enable the District Court to assess whether self-incrimination is reasonably likely if the individual produced the information or the document or answered the question.
     
-    (5) [Section 63][166] of the Evidence Act 2006 does not apply to a production order.
+    (5) [Section 63][169] of the Evidence Act 2006 does not apply to a production order.
 
 ##### 65 Other privileges
     
@@ -3640,11 +3656,11 @@ Privilege and confidentiality
     
     (2) For the purpose of determining any application, the District Court may require the information or document to be produced.
     
-    (3) The District Court must, on the application of the Director-General, disallow a privilege claim under this clause if satisfied that the claim to privilege would, under [section 67(1)][167] of the Evidence Act 2006, be disallowed in a proceeding.
+    (3) The District Court must, on the application of the Director-General, disallow a privilege claim under this clause if satisfied that the claim to privilege would, under [section 67(1)][170] of the Evidence Act 2006, be disallowed in a proceeding.
 
 ##### 66 Effect of privilege on search warrants and search powers
     
-*   A person who claims privilege in respect of any thing that is seized or sought to be seized has the right, in accordance with [clauses 67 to 72][168],---
+*   A person who claims privilege in respect of any thing that is seized or sought to be seized has the right, in accordance with [clauses 67 to 72][171],---
         
     *   (a) to prevent the search under this Act of any communication or information to which the privilege would apply if it were sought to be disclosed in a proceeding, pending determination of the claim to privilege, and subsequently if the claim to privilege is upheld:
     
@@ -3716,7 +3732,7 @@ Privilege and confidentiality
 
 ##### 70 Interim steps pending resolution of privilege claim
     
-*   If a person executing a search warrant is unable, under [clause 61][153], [67][168], [68][169], or [69][170], to search a thing (whether as a result of the requirements of any of those provisions, or because of a claim of privilege made concerning the thing, or for any other reason), the person---
+*   If a person executing a search warrant is unable, under [clause 61][155], [67][171], [68][172], or [69][173], to search a thing (whether as a result of the requirements of any of those provisions, or because of a claim of privilege made concerning the thing, or for any other reason), the person---
         
     *   (a) may---
             
@@ -3740,13 +3756,13 @@ Privilege and confidentiality
         
     *   (a) must provide the person responsible for executing the search warrant, or exercising the other search power, with a particularised list of the things for which the privilege is claimed, as soon as practicable after being provided with the opportunity to claim privilege or being advised that a search is to be, is being, or has been conducted, as the case requires; and
     
-    *   (b) if the thing for which the privilege is claimed cannot be adequately particularised in accordance with paragraph (a), may apply to the District Court for directions or relief (with a copy of the thing provided under [clause 70(b)][171]).
+    *   (b) if the thing for which the privilege is claimed cannot be adequately particularised in accordance with paragraph (a), may apply to the District Court for directions or relief (with a copy of the thing provided under [clause 70(b)][174]).
     
     
 
 ##### 72 Admission of evidence
     
-*   (1) If the District Court upholds a claim to privilege under [clause 64][124], [65][172], [69][170], [70][171], or [71][173] concerning any communication or information, the communication or information to which the privilege applies is not admissible in any proceedings arising from, or related to, the execution of the search warrant or exercise of the other search power or surveillance power.
+*   (1) If the District Court upholds a claim to privilege under [clause 64][125], [65][175], [69][173], [70][174], or [71][176] concerning any communication or information, the communication or information to which the privilege applies is not admissible in any proceedings arising from, or related to, the execution of the search warrant or exercise of the other search power or surveillance power.
     
     (2) Subject to subclause (1), this Part does not limit or affect the admissibility of any evidence, or the discretion of any court to admit or refuse to admit any evidence, in any proceedings.
 
@@ -3761,7 +3777,7 @@ Reporting
 
 ##### 74 Annual reporting of search powers
     
-*   Every annual report prepared by the Director-General for the purposes of [section 39][174] of the Public Finance Act 1989 or any other applicable enactment requiring an annual report to be presented to Parliament, for the period covered by the report, must state the number of occasions on which entry powers (other than searches by consent) were exercised without a warrant.
+*   Every annual report prepared by the Director-General for the purposes of [section 39][177] of the Public Finance Act 1989 or any other applicable enactment requiring an annual report to be presented to Parliament, for the period covered by the report, must state the number of occasions on which entry powers (other than searches by consent) were exercised without a warrant.
 
 ## Part 7  
 Offences and penalties
@@ -3778,7 +3794,7 @@ Offences and penalties
     
     (2) Every person commits an offence who---
         
-    *   (a) fails to comply with a requirement of a NAIT officer under [clause 53][175]; and
+    *   (a) fails to comply with a requirement of a NAIT officer under [clause 53][178]; and
     
     *   (b) knows or ought reasonably to know that the person imposing the requirement is a NAIT officer.
     
@@ -3788,7 +3804,7 @@ Offences and penalties
 
 ##### 76 Offence of failing to carry out obligations in relation to computer system search
     
-*   Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months who fails, without reasonable excuse, to assist a person exercising a search power when requested to do so under [clause 56][176].
+*   Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months who fails, without reasonable excuse, to assist a person exercising a search power when requested to do so under [clause 56][179].
 
 ##### 77 Offences relating to exercise of powers
     
@@ -3810,7 +3826,7 @@ Offences and penalties
     
 *   (1) Every person commits an offence who knowingly provides information that is materially false or misleading to---
         
-    *   (a) the NAIT organisation; or 
+    *   (a) the NAIT organisation; or
     
     *   (b) a NAIT officer or a NAIT authorised person exercising powers under this Act.
     
@@ -3818,9 +3834,9 @@ Offences and penalties
     
     (3) Every person commits an offence who, contrary to the provisions of this Act, knowingly accesses, uses, or discloses information on the NAIT information system that is---
         
-    *   (a) personal information within the meaning of the [Privacy Act 1993][147]; or
+    *   (a) personal information within the meaning of the [Privacy Act 1993][149]; or
     
-    *   (b) commercially sensitive within the meaning of [section 9(2)(b)(ii)][148] of the Official Information Act 1982\.
+    *   (b) commercially sensitive within the meaning of [section 9(2)(b)(ii)][150] of the Official Information Act 1982\.
     
     (4) Every person commits an offence who, in the circumstances set out in subclause (5),---
         
@@ -3858,7 +3874,7 @@ Offences and penalties
         
     *   (a) with the consent of the person to whom the information relates; or
     
-    *   (b) to the extent that the information is already in the public domain; or 
+    *   (b) to the extent that the information is already in the public domain; or
     
     *   (c) to the extent that the information is used for the purposes of, or in connection with, the exercise of powers conferred by this Act; or
     
@@ -3876,7 +3892,7 @@ Offences and penalties
 
 ##### 80 Offence of failing to comply with production order
     
-*   (1) Every person commits an offence if he or she fails to comply with a production order made under [clause 16][177].
+*   (1) Every person commits an offence if he or she fails to comply with a production order made under [clause 16][180].
     
     (2) Every person who commits an offence against subclause (1) is liable on summary conviction,---
         
@@ -4016,9 +4032,9 @@ Offences and penalties
     
 *   (1) Every person commits an offence who fails to comply with directions given by a NAIT officer or a NAIT authorised person under---
         
-    *   (a) [clause 2][178]; or
+    *   (a) [clause 2][181]; or
     
-    *   (b) [clause 5][125].
+    *   (b) [clause 5][126].
     
     (2) Every person who commits an offence against subclause (1) is liable on summary conviction,---
         
@@ -4034,15 +4050,15 @@ Offences and penalties
     
 *   (1) This section applies when a person is alleged to have committed an infringement offence.
     
-    (2) Proceedings may be taken against a person by serving an infringement notice on the person under [clause 87][179].
+    (2) Proceedings may be taken against a person by serving an infringement notice on the person under [clause 87][182].
     
     (3) If an infringement notice is served,---
         
-    *   (a) proceedings for an offence may be commenced in accordance with [section 21][180] of the Summary Proceedings Act 1957; and
+    *   (a) proceedings for an offence may be commenced in accordance with [section 21][183] of the Summary Proceedings Act 1957; and
     
-    *   (b) section 21 of that Act applies with the necessary modifications.
+    *   (b) [section 21][183] of that Act applies with the necessary modifications.
     
-    (4) In this clause and [clauses 87 to 89][179],---
+    (4) In this clause and [clauses 87 to 89][182],---
     
     _infringement fee_, in relation to an infringement offence, means the amount prescribed by regulations made under this Act to be payable for the offence
     
@@ -4096,7 +4112,7 @@ Offences and penalties
         
         
     
-    (6) For the purposes of the [Summary Proceedings Act 1957][181], an infringement notice or a cancellation notice served under subclause (5) is treated as having been served on the person at the time when it was posted.
+    (6) For the purposes of the [Summary Proceedings Act 1957][184], an infringement notice or a cancellation notice served under subclause (5) is treated as having been served on the person at the time when it was posted.
 
 ##### 88 Form of infringement notice
     
@@ -4118,7 +4134,7 @@ Offences and penalties
     
     *   (g) a statement of what will happen if the person does not pay the infringement fee or ask for a hearing or for cancellation of the notice; and
     
-    *   (h) a summary of the provisions of [section 21(10)][180] of the Summary Proceedings Act 1957\.
+    *   (h) a summary of the provisions of [section 21(10)][183] of the Summary Proceedings Act 1957\.
     
     
 
@@ -4166,7 +4182,7 @@ Offences and penalties
 
 ##### 94 Defences must be notified to prosecutor
     
-*   (1) In a prosecution for an offence against [clause 82][182], [83][183], [84][184], or [85][185], it is a defence if the defendant proves---
+*   (1) In a prosecution for an offence against [clause 82][185], [83][186], [84][187], or [85][188], it is a defence if the defendant proves---
         
     *   (a) that the defendant took all reasonable steps to avoid committing the offence; or
     
@@ -4271,7 +4287,7 @@ Provisions applying where material is incorporated by reference in regulations m
     
     *   (b) the Minister is satisfied that the NAIT organisation already uses, or has been adequately consulted on, the material proposed to be incorporated by reference.
     
-    (2) Before regulations or standards are made that incorporate material by reference (including amendment or replacement material), the chief executive of the Ministry must--- 
+    (2) Before regulations or standards are made that incorporate material by reference (including amendment or replacement material), the chief executive of the Ministry must---
         
     *   (a) make copies of the material available for inspection during working hours for a reasonable period, free of charge, at the head office of the Ministry or of the NAIT organisation, as the case requires; and
     
@@ -4307,15 +4323,19 @@ Provisions applying where material is incorporated by reference in regulations m
     
     (2) A failure to comply with subclause (1) does not invalidate the regulations or standards that incorporate the material by reference.
 
-##### 6 Acts and Regulations Publication Act 1989 not applicable to material incorporated by reference
+##### 6 Application of Legislation Act 2012 to material incorporated by reference
     
-*   The [Acts and Regulations Publication Act 1989][186] does not apply to material incorporated by reference in regulations.
+*   (1) [Subpart 1][189] of Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in regulations.
+    
+    (2) Nothing in [section 41][190] of the Legislation Act 2012 requires material that is incorporated by reference in regulations or standards made under this Act to be presented to the House of Representatives.
+    
+    Schedule 3 clause 6: replaced, on 5 August 2013, by [section 77(3)][117] of the Legislation Act 2012 (2012 No 119).
 
 ##### 7 Application of Regulations (Disallowance) Act 1989
     
-*   (1) Nothing in [section 4][187] of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in regulations or standards made under this Act to be presented to the House of Representatives.
+*   \[Repealed\]
     
-    (2) The Regulations (Disallowance) Act 1989, apart from the modification to the application of [section 4][187] of the Act made by subclause (1), applies to regulations.
+    Schedule 3 clause 7: repealed, on 5 August 2013, by [section 77(3)][117] of the Legislation Act 2012 (2012 No 119).
 
 ---
 
@@ -4326,104 +4346,63 @@ Enactments amended
 
 ##### [Animal Products Act 1999][105] (1999 No 93)
 
-[Section 161(5)(a)(viiia)][188]: repeal and substitute:
+[Section 161(5)(a)(viiia)][191]: repeal and substitute:
 
 > *   "(viiia) the National Animal Identification and Tracing Act 2012:".
 > 
 > 
 
-##### [Ombudsmen Act 1975][189] (1975 No 9)
+##### [Ombudsmen Act 1975][192] (1975 No 9)
 
-[Part 2 of Schedule 1][190]: insert the following in its appropriate alphabetical order:
+[Part 2 of Schedule 1][193]: insert the following in its appropriate alphabetical order:
 
 > "National Animal Identification and Tracing Organisation".
 
-##### [Wild Animal Control Act 1977][191] (1977 No 111)
+##### [Wild Animal Control Act 1977][194] (1977 No 111)
 
-[Section 2(1)][192]: definition of _wild animal_: omit ""an identification system registered under section 3 of the Animal Identification Act 1993"" from paragraph (a)(iii)(B) and substitute ""an animal identification device approved under the National Animal Identification and Tracing Act 2012"".
+[Section 2(1)][195]: definition of _wild animal_: omit ""an identification system registered under section 3 of the Animal Identification Act 1993"" from paragraph (a)(iii)(B) and substitute ""an animal identification device approved under the National Animal Identification and Tracing Act 2012"".
 
-[Section 9(2)(d)(i)][193]: repeal and substitute:
+[Section 9(2)(d)(i)][196]: repeal and substitute:
 
 > *   "(i) approved under the National Animal Identification and Tracing Act 2012; or".
 > 
 > 
 
-[Section 12(2)][194]: omit ""the branding thereof as provided for pursuant to section 3 of the Animal Identification Act 1993"" and substitute ""the identification of it under the National Animal Identification and Tracing Act 2012"". 
+[Section 12(2)][197]: omit ""the branding thereof as provided for pursuant to section 3 of the Animal Identification Act 1993"" and substitute ""the identification of it under the National Animal Identification and Tracing Act 2012"".
 
-[Section 12A(8)][195]: omit ""registered under section 3 of the Animal Identification Act 1993"" and substitute ""approved under the National Animal Identification and Tracing Act 2012"".
+[Section 12A(8)][198]: omit ""registered under section 3 of the Animal Identification Act 1993"" and substitute ""approved under the National Animal Identification and Tracing Act 2012"".
 
-[Section 12B(4)][196]: omit ""registered under section 3 of the Animal Identification Act 1993"" and substitute ""approved under the National Animal Identification and Tracing Act 2012"".
+[Section 12B(4)][199]: omit ""registered under section 3 of the Animal Identification Act 1993"" and substitute ""approved under the National Animal Identification and Tracing Act 2012"".
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the National Animal Identification and Tracing Act 2012\. The reprint incorporates all the amendments to the Act as at 1 March 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][197] ![](/images/external_link.gif).
+*   This is a reprint of the National Animal Identification and Tracing Act 2012 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][198] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][200] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][201] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][199] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][202] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][203] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][200] and [17E][201] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][117]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [National Animal Identification and Tracing Act Commencement Order 2012][102] (SR 2012/113)
+    [National Animal Identification and Tracing Act Commencement Order 2012][102] (SR 2012/113)
     
     National Animal Identification and Tracing Act 2012 (2012 No 2): [section 2(3)(b)][2]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3430223
 [2]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3752700
 [3]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3732600
@@ -4539,89 +4518,91 @@ Enactments amended
 [113]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM316059
 [114]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM35202
 [115]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM129566
-[116]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM195551
-[117]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM128144
-[118]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM35792
-[119]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM315356
-[120]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM317163
-[121]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM242343
-[122]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748459
-[123]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748479
-[124]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748526
-[125]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748441
-[126]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM291805
-[127]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748445
-[128]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748460
-[129]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748480
-[130]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748481
-[131]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748482
-[132]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748483
-[133]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748488
-[134]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748490
-[135]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748473
-[136]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748474
-[137]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM345528
-[138]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748486
-[139]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748485
-[140]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM314078
-[141]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748497
-[142]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748492
-[143]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748524
-[144]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748495
-[145]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748493
-[146]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748504
-[147]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM296638
-[148]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM65371
-[149]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748520
-[150]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748476
-[151]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748517
-[152]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748521
-[153]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748522
-[154]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM436100
-[155]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM393658
-[156]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM393659
-[157]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM393663
-[158]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM393664
-[159]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM393665
-[160]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM393667
-[161]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM393672
-[162]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM393676
-[163]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM393681
-[164]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM366142
-[165]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM366124
-[166]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM393675
-[167]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM393679
-[168]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748529
-[169]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748530
-[170]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748531
-[171]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748532
-[172]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748527
-[173]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748533
-[174]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM162412
-[175]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748509
-[176]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748514
-[177]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748461
-[178]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748437
-[179]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748557
-[180]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM311346
-[181]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM310742
-[182]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748547
-[183]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748548
-[184]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748549
-[185]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748550
-[186]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM195097
-[187]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM195549
-[188]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM36101
-[189]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM430983
-[190]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM431744
-[191]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM16622
-[192]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM16628
-[193]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM16998
-[194]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM17209
-[195]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM17227
-[196]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM17235
-[197]: http://www.pco.parliament.govt.nz/reprints/
-[198]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM195439
-[199]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[200]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM195468
-[201]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM195470
+[116]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM2998575
+[117]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM2998633
+[118]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM128144
+[119]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM35792
+[120]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM315356
+[121]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM317163
+[122]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM242343
+[123]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748459
+[124]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748479
+[125]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748526
+[126]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748441
+[127]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM291805
+[128]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748445
+[129]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748460
+[130]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748480
+[131]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748481
+[132]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748482
+[133]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748483
+[134]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748488
+[135]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748490
+[136]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748473
+[137]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748474
+[138]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748487
+[139]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM345528
+[140]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748486
+[141]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748485
+[142]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM314078
+[143]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748497
+[144]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748492
+[145]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748524
+[146]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748495
+[147]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748493
+[148]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748504
+[149]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM296638
+[150]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM65371
+[151]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3752714
+[152]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748520
+[153]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748476
+[154]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748521
+[155]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748522
+[156]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748517
+[157]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM436100
+[158]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM393658
+[159]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM393659
+[160]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM393663
+[161]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM393664
+[162]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM393665
+[163]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM393667
+[164]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM393672
+[165]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM393676
+[166]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM393681
+[167]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM366142
+[168]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM366124
+[169]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM393675
+[170]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM393679
+[171]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748529
+[172]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748530
+[173]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748531
+[174]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748532
+[175]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748527
+[176]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748533
+[177]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM162412
+[178]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748509
+[179]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748514
+[180]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748461
+[181]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748437
+[182]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748557
+[183]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM311346
+[184]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM310742
+[185]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748547
+[186]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748548
+[187]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748549
+[188]: http://www.legislation.govt.nz/act/public/2012/0002/latest/whole.html#DLM3748550
+[189]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM2997694
+[190]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM2998573
+[191]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM36101
+[192]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM430983
+[193]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM431744
+[194]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM16622
+[195]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM16628
+[196]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM16998
+[197]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM17209
+[198]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM17227
+[199]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM17235
+[200]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM2998516
+[201]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM2998515
+[202]: http://www.legislation.govt.nz/act/public/2012/0002/latest/link.aspx?id=DLM2998532
+[203]: http://www.pco.parliament.govt.nz/editorial-conventions/
