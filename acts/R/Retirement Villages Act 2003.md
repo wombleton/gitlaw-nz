@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2011
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,294 +13,294 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Department of Building and Housing.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
 [Part 1][2]  
 [Preliminary provisions][2]
 
-[2][3] [Commencement][3]
+[2][3][][3][Commencement][3]
 
-[3][4] [Purpose][4]
+[3][4][][4][Purpose][4]
 
-[4][5] [Act to bind the Crown][5]
+[4][5][][5][Act to bind the Crown][5]
 
-[5][6] [Interpretation][6]
+[5][6][][6][Interpretation][6]
 
-[6][7] [Meaning of retirement village][7]
+[6][7][][7][Meaning of retirement village][7]
 
-[7][8] [Obligations of operator][8]
+[7][8][][8][Obligations of operator][8]
 
-[8][9] [Operator and director, trustee, or office holder of operator not to be exempt from liability][9]
+[8][9][][9][Operator and director, trustee, or office holder of operator not to be exempt from liability][9]
 
-[9][10] [Power of court to grant relief in proceedings for negligence, etc][10]
+[9][10][][10][Power of court to grant relief in proceedings for negligence, etc][10]
 
 [Part 2][11]  
 [Registration, occupation right agreements, and related requirements and rules][11]
 
 [Registration of retirement villages][12]
 
-[10][13] [Retirement villages to be registered][13]
+[10][13][][13][Retirement villages to be registered][13]
 
-[11][14] [Registration is not approval][14]
+[11][14][][14][Registration is not approval][14]
 
-[12][15] [Registration of existing retirement villages][15]
+[12][15][][15][Registration of existing retirement villages][15]
 
-[13][16] [Annual return][16]
+[13][16][][16][Annual return][16]
 
-[14][17] [Registrar may alter register][17]
+[14][17][][17][Registrar may alter register][17]
 
-[15][18] [Registration to be continuous][18]
+[15][18][][18][Registration to be continuous][18]
 
-[16][19] [Certification of registered documents][19]
+[16][19][][19][Certification of registered documents][19]
 
-[17][20] [Operator to notify change of circumstances and documentation][20]
+[17][20][][20][Operator to notify change of circumstances and documentation][20]
 
 [Suspension of registration][21]
 
-[18][22] [Suspension of registration][22]
+[18][22][][22][Suspension of registration][22]
 
 [Cancellation of registration][23]
 
-[19][24] [Cancellation of registration][24]
+[19][24][][24][Cancellation of registration][24]
 
-[20][25] [Further requirements as to registration and keeping registers][25]
+[20][25][][25][Further requirements as to registration and keeping registers][25]
 
 [Memorials][26]
 
-[21][27] [Memorial on certificates of title of retirement villages][27]
+[21][27][][27][Memorial on certificates of title of retirement villages][27]
 
-[22][28] [Effect of memorial][28]
+[22][28][][28][Effect of memorial][28]
 
-[23][29] [Memorial and loss of registration][29]
+[23][29][][29][Memorial and loss of registration][29]
 
 [Statutory supervisor to be asked to act as representative][30]
 
-[24][31] [Receiver, liquidator, and statutory manager must ask statutory supervisor to represent residents][31]
+[24][31][][31][Receiver, liquidator, and statutory manager must ask statutory supervisor to represent residents][31]
 
 [Offer and advertising prohibited if retirement village not registered][32]
 
-[25][33] [No offer of occupation or advertising unless retirement village registered][33]
+[25][33][][33][No offer of occupation or advertising unless retirement village registered][33]
 
 [Other restrictions on advertising][34]
 
-[26][35] [Operator must ensure that advertisements are not misleading or deceptive][35]
+[26][35][][35][Operator must ensure that advertisements are not misleading or deceptive][35]
 
 [Occupation right agreements][36]
 
-[27][37] [Occupation right agreements][37]
+[27][37][][37][Occupation right agreements][37]
 
-[28][38] [Cooling-off period and cancellation for delay][38]
+[28][38][][38][Cooling-off period and cancellation for delay][38]
 
-[29][39] [Deposits and other payments must be independently held][39]
+[29][39][][39][Deposits and other payments must be independently held][39]
 
-[30][40] [Information to be provided][40]
+[30][40][][40][Information to be provided][40]
 
-[31][41] [Occupation right agreement voidable][41]
+[31][41][][41][Occupation right agreement voidable][41]
 
 [Code of residents' rights][42]
 
-[32][43] [Retirement villages to have code of residents' rights][43]
+[32][43][][43][Retirement villages to have code of residents' rights][43]
 
-[33][44] [Distribution of code of residents' rights][44]
+[33][44][][44][Distribution of code of residents' rights][44]
 
 [Other information relevant to occupancy][45]
 
-[34][46] [Right to be supplied with information relevant to occupancy][46]
+[34][46][][46][Right to be supplied with information relevant to occupancy][46]
 
 [Rights of residents in relation to occupancy right][47]
 
-[35][48] [No legal impediments to occupation][48]
+[35][48][][48][No legal impediments to occupation][48]
 
 [Part 3][49]  
 [Retirement Commissioner and statutory supervisors][49]
 
 [Retirement Commissioner][50]
 
-[36][51] [Retirement Commissioner to monitor, etc, effect of this Act][51]
+[36][51][][51][Retirement Commissioner to monitor, etc, effect of this Act][51]
 
 [Statutory supervisors][52]
 
-[37][53] [Registrar must approve statutory supervisor][53] \[Repealed\]
+[37][53][][53][Registrar must approve statutory supervisor][53] \[Repealed\]
 
-[38][54] [Operator must appoint statutory supervisor][54]
+[38][54][][54][Operator must appoint statutory supervisor][54]
 
-[39][55] [Registrar's consent required for termination or non-renewal of appointment][55]
+[39][55][][55][Registrar's consent required for termination or non-renewal of appointment][55]
 
-[40][56] [Operator must not indemnify or exempt statutory supervisor from liability][56]
+[40][56][][56][Operator must not indemnify or exempt statutory supervisor from liability][56]
 
-[41][57] [Exemption from requirement for statutory supervisor][57]
+[41][57][][57][Exemption from requirement for statutory supervisor][57]
 
-[42][58] [Duties of statutory supervisor][58]
+[42][58][][58][Duties of statutory supervisor][58]
 
-[43][59] [Powers of statutory supervisor][59]
+[43][59][][59][Powers of statutory supervisor][59]
 
-[44][60] [Public statement by statutory supervisor][60]
+[44][60][][60][Public statement by statutory supervisor][60]
 
-[45][61] [Liability for loss limited][61]
+[45][61][][61][Liability for loss limited][61]
 
-[46][62] [Statutory supervisor may require information][62]
+[46][62][][62][Statutory supervisor may require information][62]
 
 [Auditor must answer questions and supply information][63]
 
-[47][64] [Auditor must answer questions and supply information][64]
+[47][64][][64][Auditor must answer questions and supply information][64]
 
 [Part 4][65]  
 [Dispute resolution, enforcement, and penalties][65]
 
 [Dispute resolution][66]
 
-[48][67] [Interpretation][67]
+[48][67][][67][Interpretation][67]
 
-[49][68] [Resident's rights may be exercised by personal representative][68]
+[49][68][][68][Resident's rights may be exercised by personal representative][68]
 
-[50][69] [Types of dispute procedures][69]
+[50][69][][69][Types of dispute procedures][69]
 
-[51][70] [Complaints facility][70]
+[51][70][][70][Complaints facility][70]
 
-[52][71] [Resident or operator may require dispute resolution][71]
+[52][71][][71][Resident or operator may require dispute resolution][71]
 
-[53][72] [Types of dispute for which resident may give dispute notice][72]
+[53][72][][72][Types of dispute for which resident may give dispute notice][72]
 
-[54][73] [Types of dispute for which operator may give dispute notice][73]
+[54][73][][73][Types of dispute for which operator may give dispute notice][73]
 
-[55][74] [Operator must notify statutory supervisor of certain disputes][74]
+[55][74][][74][Operator must notify statutory supervisor of certain disputes][74]
 
-[56][75] [Form of dispute notice][75]
+[56][75][][75][Form of dispute notice][75]
 
-[57][76] [Time for giving dispute notice][76]
+[57][76][][76][Time for giving dispute notice][76]
 
-[58][77] [Retirement Commissioner approves persons eligible for appointment to disputes panel][77]
+[58][77][][77][Retirement Commissioner approves persons eligible for appointment to disputes panel][77]
 
-[59][78] [Operator must appoint disputes panel][78]
+[59][78][][78][Operator must appoint disputes panel][78]
 
-[60][79] [Composition of disputes panel][79]
+[60][79][][79][Composition of disputes panel][79]
 
-[61][80] [Disputes panel must disclose interests and previous involvement][80]
+[61][80][][80][Disputes panel must disclose interests and previous involvement][80]
 
-[62][81] [Operator's duties to secure independence of disputes panel][81]
+[62][81][][81][Operator's duties to secure independence of disputes panel][81]
 
-[63][82] [Meaning of previous involvement in dispute][82]
+[63][82][][82][Meaning of previous involvement in dispute][82]
 
-[64][83] [Conduct of hearing][83]
+[64][83][][83][Conduct of hearing][83]
 
-[65][84] [Hearing must be held][84]
+[65][84][][84][Hearing must be held][84]
 
-[66][85] [Panel may refuse to hear dispute][85]
+[66][85][][85][Panel may refuse to hear dispute][85]
 
-[67][86] [Evidence and attendance][86]
+[67][86][][86][Evidence and attendance][86]
 
-[68][87] [Matters that disputes panel must take into account in deciding certain disputes][87]
+[68][87][][87][Matters that disputes panel must take into account in deciding certain disputes][87]
 
-[69][88] [Powers of disputes panel][88]
+[69][88][][88][Powers of disputes panel][88]
 
-[70][89] [Additional powers of disputes panel in certain disputes][89]
+[70][89][][89][Additional powers of disputes panel in certain disputes][89]
 
-[71][90] [Record of decision][90]
+[71][90][][90][Record of decision][90]
 
-[72][91] [Effect and enforcement of dispute resolution decisions][91]
+[72][91][][91][Effect and enforcement of dispute resolution decisions][91]
 
-[73][92] [Effect of vacancy in panel membership][92]
+[73][92][][92][Effect of vacancy in panel membership][92]
 
-[74][93] [Costs on dispute resolution][93]
+[74][93][][93][Costs on dispute resolution][93]
 
-[75][94] [Appeal to District or High Court][94]
+[75][94][][94][Appeal to District or High Court][94]
 
 [Enforcement and penalties][95]
 
-[76][96] [Jurisdiction of High Court][96]
+[76][96][][96][Jurisdiction of High Court][96]
 
-[77][97] [Jurisdiction of District Court][97]
+[77][97][][97][Jurisdiction of District Court][97]
 
-[78][98] [Jurisdiction of Disputes Tribunal][98]
+[78][98][][98][Jurisdiction of Disputes Tribunal][98]
 
-[79][99] [Contraventions of certain provisions an offence][99]
+[79][99][][99][Contraventions of certain provisions an offence][99]
 
-[80][100] [Injunctions may be granted by court for contravention of certain provisions][100]
+[80][100][][100][Injunctions may be granted by court for contravention of certain provisions][100]
 
-[81][101] [Order to disclose information or publish advertisement][101]
+[81][101][][101][Order to disclose information or publish advertisement][101]
 
-[82][102] [Other orders][102]
+[82][102][][102][Other orders][102]
 
-[83][103] [Monetary limits and exercise of jurisdiction][103]
+[83][103][][103][Monetary limits and exercise of jurisdiction][103]
 
-[84][104] [General provisions relating to section 82 orders][104]
+[84][104][][104][General provisions relating to section 82 orders][104]
 
-[85][105] [Defences][105]
+[85][105][][105][Defences][105]
 
-[86][106] [Finding in proceedings to be evidence][106]
+[86][106][][106][Finding in proceedings to be evidence][106]
 
 [Part 5][107]  
 [Registrar of Retirement Villages, code of practice, and miscellaneous matters][107]
 
 [Registrar of Retirement Villages][108]
 
-[87][109] [Appointment of Registrar][109]
+[87][109][][109][Appointment of Registrar][109]
 
-[88][110] [Power of Registrar to delegate][110]
+[88][110][][110][Power of Registrar to delegate][110]
 
 [Code of practice][111]
 
-[89][112] [Code of practice must be prepared and published][112]
+[89][112][][112][Code of practice must be prepared and published][112]
 
-[90][113] [Duration and variation of code of practice][113]
+[90][113][][113][Duration and variation of code of practice][113]
 
-[91][114] [Retirement Commissioner to provide publication information][114]
+[91][114][][114][Retirement Commissioner to provide publication information][114]
 
-[92][115] [Status of code of practice][115]
+[92][115][][115][Status of code of practice][115]
 
-[93][116] [Exemption from requirement to comply with code of practice][116]
+[93][116][][116][Exemption from requirement to comply with code of practice][116]
 
 [Registered office of retirement village][117]
 
-[94][118] [Registered office][118]
+[94][118][][118][Registered office][118]
 
 [Change of registered office][119]
 
-[95][120] [Change of registered office][120]
+[95][120][][120][Change of registered office][120]
 
 [Address for service of retirement village][121]
 
-[96][122] [Address for service][122]
+[96][122][][122][Address for service][122]
 
 [Registrar's powers of inspection][123]
 
-[97][124] [Registrar's powers of inspection][124]
+[97][124][][124][Registrar's powers of inspection][124]
 
-[98][125] [Disclosure of information and reports][125]
+[98][125][][125][Disclosure of information and reports][125]
 
-[99][126] [Certain provisions of Companies Act 1993 apply][126]
+[99][126][][126][Certain provisions of Companies Act 1993 apply][126]
 
-[100][127] [Deeds of participation][127]
+[100][127][][127][Deeds of participation][127]
 
-[101][128] [Regulations][128]
+[101][128][][128][Regulations][128]
 
-[102][129] [Fees and charges][129]
+[102][129][][129][Fees and charges][129]
 
-[103][130] [Regulations defining retirement villages][130]
+[103][130][][130][Regulations defining retirement villages][130]
 
-[104][131] [Regulations prescribing criteria for exemptions under section 41][131]
+[104][131][][131][Regulations prescribing criteria for exemptions under section 41][131]
 
-[105][132] [Regulations prescribing criteria for exemptions under section 93][132]
+[105][132][][132][Regulations prescribing criteria for exemptions under section 93][132]
 
-[106][133] [Notices][133]
+[106][133][][133][Notices][133]
 
-[107][134] [Acts not to apply][134]
+[107][134][][134][Acts not to apply][134]
 
-[108][135] [Amendment to Corporations (Investigation and Management) Act 1989][135]
+[108][135][][135][Amendment to Corporations (Investigation and Management) Act 1989][135]
 
-[109][136] [Amendments to Financial Reporting Act 1993][136]
+[109][136][][136][Amendments to Financial Reporting Act 1993][136]
 
-[110][137] [Amendment to Securities Act 1978][137]
+[110][137][][137][Amendment to Securities Act 1978][137]
 
 [Schedule 1][138]  
 [Registration and register][138]
@@ -1797,33 +1797,45 @@ Dispute resolution, enforcement, and penalties
 
 ##### 79 Contraventions of certain provisions an offence
     
-*   (1) Every person commits an offence who, without reasonable excuse, contravenes any of [sections 12][15], [18(3)][22], [22(1)][28], [25(1)][33], [32][43], [33(1)][44], [35][48], [38(1)][54], [39][55], or [97(3)][124], or includes any material that is false or misleading in an application for an exemption under [section 41][57] or [section 93][116], and is liable on summary conviction,---
+*   (1) Every person commits an offence who, without reasonable excuse, contravenes any of [sections 12][15], [18(3)][22], [22(1)][28], [25(1)][33], [32][43], [33(1)][44], [35][48], [38(1)][54], [39][55], or [97(3)][124], or includes any material that is false or misleading in an application for an exemption under [section 41][57] or [section 93][116], and is liable on conviction,---
         
     *   (a) in the case of a person other than a body corporate, to a fine not exceeding $30,000; or
     
     *   (b) in the case of a body corporate, to a fine not exceeding $100,000\.
     
-    (2) Every person commits an offence who, without reasonable excuse, contravenes any of [sections 17][20], [19(3)][24], [26(1)][35], [27(1)][37], [28(1)][38], [29][39], [30(1)][40], [34(2)][46], [59(2)][78], [92(2)][115], or [98(5)][125] and is liable on summary conviction,---
+    (2) Every person commits an offence who, without reasonable excuse, contravenes any of [sections 17][20], [19(3)][24], [26(1)][35], [27(1)][37], [28(1)][38], [29][39], [30(1)][40], [34(2)][46], [59(2)][78], [92(2)][115], or [98(5)][125] and is liable on conviction,---
         
     *   (a) in the case of a person other than a body corporate, to a fine not exceeding $15,000; or
     
     *   (b) in the case of a body corporate, to a fine not exceeding $50,000\.
     
-    (3) Every person commits an offence who, without reasonable excuse, contravenes any of [sections 13][16], [16][19], [26][35], [70(2)][89], [92(2)][115], [95(2)][120], [96(4)][122], or [98(2) and (3)][125] and is liable on summary conviction,---
+    (3) Every person commits an offence who, without reasonable excuse, contravenes any of [sections 13][16], [16][19], [26][35], [70(2)][89], [92(2)][115], [95(2)][120], [96(4)][122], or [98(2) and (3)][125] and is liable on conviction,---
         
     *   (a) in the case of a person other than a body corporate, to a fine not exceeding $5,000; or
     
     *   (b) in the case of a body corporate, to a fine not exceeding $10,000\.
     
-    (4) Every auditor of a retirement village commits an offence who fails to comply with any reasonable request made under [section 47][64] by the statutory supervisor, the Registrar, or the Retirement Commissioner and is liable on summary conviction to a fine not exceeding $10,000\.
+    (4) Every auditor of a retirement village commits an offence who fails to comply with any reasonable request made under [section 47][64] by the statutory supervisor, the Registrar, or the Retirement Commissioner and is liable on conviction to a fine not exceeding $10,000\.
     
-    (5) Every operator of a retirement village commits an offence who fails to comply with any reasonable request made under [section 46][62] and is liable on summary conviction to a fine not exceeding $10,000\.
+    (5) Every operator of a retirement village commits an offence who fails to comply with any reasonable request made under [section 46][62] and is liable on conviction to a fine not exceeding $10,000\.
     
-    (6) Every person commits an offence who, without reasonable excuse, contravenes any other provision of this Act and is liable on summary conviction to a fine not exceeding $5,000\.
+    (6) Every person commits an offence who, without reasonable excuse, contravenes any other provision of this Act and is liable on conviction to a fine not exceeding $5,000\.
     
     (7) Proceedings under this section may be commenced at any time within 3 years after the matter giving rise to the contravention arose.
     
     Compare: 1986 No 5 [s 40][182]
+    
+    Section 79(1): amended, on 1 July 2013, by [section 413][183] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 79(2): amended, on 1 July 2013, by [section 413][183] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 79(3): amended, on 1 July 2013, by [section 413][183] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 79(4): amended, on 1 July 2013, by [section 413][183] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 79(5): amended, on 1 July 2013, by [section 413][183] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 79(6): amended, on 1 July 2013, by [section 413][183] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 80 Injunctions may be granted by court for contravention of certain provisions
     
@@ -1863,7 +1875,7 @@ Dispute resolution, enforcement, and penalties
     
     *   (b) whether or not there is an imminent danger of substantial damage to any person if the first-mentioned person engages in conduct of that kind.
     
-    Compare: 1986 No 5 [s 41][183]
+    Compare: 1986 No 5 [s 41][184]
 
 ##### 81 Order to disclose information or publish advertisement
     
@@ -1875,7 +1887,7 @@ Dispute resolution, enforcement, and penalties
     
     (2) In subsection (1), _applicable information_ is information that is in the possession of the person to whom the order is directed or to which that person has access.
     
-    Compare: 1986 No 5 [s 42][184]
+    Compare: 1986 No 5 [s 42][185]
 
 ##### 82 Other orders
     
@@ -1911,7 +1923,7 @@ Dispute resolution, enforcement, and penalties
     
     *   (e) an order directing the person who engaged in the conduct referred to in subsection (1), at that person's own expense, to supply specified services to the person who suffered, or is likely to suffer, the loss or damage.
     
-    Compare: 1986 No 5 [s 43(1), (2)][185]
+    Compare: 1986 No 5 [s 43(1), (2)][186]
 
 ##### 83 Monetary limits and exercise of jurisdiction
     
@@ -1935,17 +1947,17 @@ Dispute resolution, enforcement, and penalties
     
     *   (c) make an order under [section 82(3)(e)][102] directing a person to supply services if the value of the services exceeds $15,000\.
     
-    (3) Despite subsection (2), if, in respect of any proceedings properly before a Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made under [section 13][186] of the Disputes Tribunals Act 1988, subsection (2) must be read as if every reference in that subsection to $15,000 were a reference to $20,000\.
+    (3) Despite subsection (2), if, in respect of any proceedings properly before a Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made under [section 13][187] of the Disputes Tribunals Act 1988, subsection (2) must be read as if every reference in that subsection to $15,000 were a reference to $20,000\.
     
-    Compare: 1986 No 5 [s 43(3), (4), (4A)][185]
+    Compare: 1986 No 5 [s 43(3), (4), (4A)][186]
     
-    Section 83(2)(a): amended, on 1 August 2009, by [section 8][187] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 83(2)(a): amended, on 1 August 2009, by [section 8][188] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 83(2)(b): amended, on 1 August 2009, by [section 8][187] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 83(2)(b): amended, on 1 August 2009, by [section 8][188] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 83(2)(c): amended, on 1 August 2009, by [section 8][187] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 83(2)(c): amended, on 1 August 2009, by [section 8][188] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 83(3): amended, on 1 August 2009, by [section 8][187] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 83(3): amended, on 1 August 2009, by [section 8][188] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
 
 ##### 84 General provisions relating to section 82 orders
     
@@ -1953,13 +1965,13 @@ Dispute resolution, enforcement, and penalties
     
     (2) An order made under [section 82(3)(a) or (b)][102] does not prevent proceedings being instituted or commenced under [sections 79 to 86][99].
     
-    (3) Nothing in [section 82][102] or [section 83][103] limits or affects the [Illegal Contracts Act 1970][188].
+    (3) Nothing in [section 82][102] or [section 83][103] limits or affects the [Illegal Contracts Act 1970][189].
     
     (4) For the purposes of [sections 81][101] and [82][102], a reference to _court_ includes a reference to a District Court and also, for the purposes of section 82, a Disputes Tribunal.
     
-    (5) Nothing in [section 82][102] or [section 83][103] affects [section 317][189] of the Injury Prevention, Rehabilitation, and Compensation Act 2001\.
+    (5) Nothing in [section 82][102] or [section 83][103] affects [section 317][190] of the Injury Prevention, Rehabilitation, and Compensation Act 2001\.
     
-    Compare: 1986 No 5 [s 43(5)--(9)][185]
+    Compare: 1986 No 5 [s 43(5)--(9)][186]
 
 ##### 85 Defences
     
@@ -1989,7 +2001,7 @@ Dispute resolution, enforcement, and penalties
     
     *   (b) that the defendant received the advertisement or the information contained in the advertisement, as the case may be, in the ordinary course of that business and did not know and had no reason to suspect that the publication of the advertisement or the publication of the advertisement containing that information, as the case may be, would constitute a contravention of the provision.
     
-    Compare: 1986 No 5 [s 44(1), (2), (4)][190]
+    Compare: 1986 No 5 [s 44(1), (2), (4)][191]
 
 ##### 86 Finding in proceedings to be evidence
     
@@ -1999,7 +2011,7 @@ Dispute resolution, enforcement, and penalties
     
     *   (b) may be proved by production of a document under the seal of the High Court or District Court, as the case may be, in which the finding was made.
     
-    Compare: 1986 No 5 [s 46][191]
+    Compare: 1986 No 5 [s 46][192]
 
 ## Part 5  
 Registrar of Retirement Villages, code of practice, and miscellaneous matters
@@ -2008,9 +2020,9 @@ Registrar of Retirement Villages, code of practice, and miscellaneous matters
 
 ##### 87 Appointment of Registrar
     
-*   (1) There must be a Registrar of Retirement Villages who must be appointed under the [State Sector Act 1988][192] by the chief executive of the department that, with the authority of the Prime Minister, is for the time being responsible for the employment of that Registrar.
+*   (1) There must be a Registrar of Retirement Villages who must be appointed under the [State Sector Act 1988][193] by the chief executive of the department that, with the authority of the Prime Minister, is for the time being responsible for the employment of that Registrar.
     
-    (2) The person holding office as Registrar of Companies under the [Companies Act 1993][193] immediately before the commencement of this section is deemed to have been appointed as Registrar of Retirement Villages in accordance with this section.
+    (2) The person holding office as Registrar of Companies under the [Companies Act 1993][194] immediately before the commencement of this section is deemed to have been appointed as Registrar of Retirement Villages in accordance with this section.
 
 ##### 88 Power of Registrar to delegate
     
@@ -2118,7 +2130,7 @@ Registrar of Retirement Villages, code of practice, and miscellaneous matters
 
 ##### 92 Status of code of practice
     
-*   (1) A code of practice is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][194], but not for the purposes of the [Acts and Regulations Publication Act 1989][195].
+*   (1) A code of practice is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][195] and must be presented to the House of Representatives under [section 41][196] of that Act.
     
     (2) While a code of practice is in force, it---
         
@@ -2139,6 +2151,8 @@ Registrar of Retirement Villages, code of practice, and miscellaneous matters
     (4) The operator of a retirement village must make a copy of the code of practice available to every resident and intending resident on request.
     
     (5) Subsection (2) is subject to [section 93][116].
+    
+    Section 92(1): replaced, on 5 August 2013, by [section 77(3)][197] of the Legislation Act 2012 (2012 No 119).
 
 ##### 93 Exemption from requirement to comply with code of practice
     
@@ -2188,7 +2202,7 @@ Registrar of Retirement Villages, code of practice, and miscellaneous matters
     
     *   (c) if the registered office is not at the offices of any such firm or person but is located in a building occupied by persons other than the retirement village, state particulars of its location in the building.
     
-    Compare: 1993 No 105 [s 186][196]
+    Compare: 1993 No 105 [s 186][198]
 
 #### Change of registered office
 
@@ -2200,7 +2214,7 @@ Registrar of Retirement Villages, code of practice, and miscellaneous matters
     
     (3) The change in the registered office takes effect on a date stated in the notice, not being a date earlier than 5 working days after the notice is registered.
     
-    Compare: 1993 No 105 [s 187][197]
+    Compare: 1993 No 105 [s 187][199]
 
 #### Address for service of retirement village
 
@@ -2216,7 +2230,7 @@ Registrar of Retirement Villages, code of practice, and miscellaneous matters
     
     (5) A change of address for service takes effect on a date stated in the notice, not being a date that is earlier than 5 working days after the notice is registered.
     
-    Compare: 1993 No 105 [s 193][198]
+    Compare: 1993 No 105 [s 193][200]
 
 #### Registrar's powers of inspection
 
@@ -2244,7 +2258,7 @@ Registrar of Retirement Villages, code of practice, and miscellaneous matters
         
         
     
-    (2) Nothing in this section affects the [Tax Administration Act 1994][199] or the [Statistics Act 1975][200].
+    (2) Nothing in this section affects the [Tax Administration Act 1994][201] or the [Statistics Act 1975][202].
     
     (3) A person must not obstruct or hinder the Registrar or a person authorised by the Registrar while exercising a power conferred by subsection (1).
     
@@ -2308,9 +2322,9 @@ Registrar of Retirement Villages, code of practice, and miscellaneous matters
 
 ##### 99 Certain provisions of Companies Act 1993 apply
     
-*   (1) [Sections 364][201] and [388 to 392][202] of the Companies Act 1993 (which provide for the method of service to be undertaken by the Registrar) apply, with any necessary modifications, in respect of the service of any document by the Registrar under this Act or any regulations made under this Act.
+*   (1) [Sections 364][203] and [388 to 392][204] of the Companies Act 1993 (which provide for the method of service to be undertaken by the Registrar) apply, with any necessary modifications, in respect of the service of any document by the Registrar under this Act or any regulations made under this Act.
     
-    (2) [Sections 368 to 372][203] of the Companies Act 1993 apply in respect of the disclosure of information or reports referred to in [section 97][124], with any necessary modifications.
+    (2) [Sections 368 to 372][205] of the Companies Act 1993 apply in respect of the disclosure of information or reports referred to in [section 97][124], with any necessary modifications.
 
 ##### 100 Deeds of participation
     
@@ -2434,15 +2448,15 @@ Registrar of Retirement Villages, code of practice, and miscellaneous matters
 
 ##### 108 Amendment to Corporations (Investigation and Management) Act 1989
     
-*   _Amendment(s) incorporated in the [Act(s)][204]_.
+*   _Amendment(s) incorporated in the [Act(s)][206]_.
 
 ##### 109 Amendments to Financial Reporting Act 1993
     
-*   _Amendment(s) incorporated in the [Act(s)][205]_.
+*   _Amendment(s) incorporated in the [Act(s)][207]_.
 
 ##### 110 Amendment to Securities Act 1978
     
-*   _Amendment(s) incorporated in the [Act(s)][206]_.
+*   _Amendment(s) incorporated in the [Act(s)][208]_.
 
 ---
 
@@ -2455,17 +2469,11 @@ Registration and register
 
 ### Register
 
-##### 1
-    
-*   The Registrar must ensure that a register of retirement villages registered under [Part 2][11], the application for registration and supporting documents, and the other documents required to be registered under this Act is kept.
+*   1 The Registrar must ensure that a register of retirement villages registered under Part 2, the application for registration and supporting documents, and the other documents required to be registered under this Act is kept.
 
-##### 2
-    
-*   The New Zealand register may be divided into different parts, which may be kept in any places in New Zealand that the Registrar determines from time to time.
+*   2 The New Zealand register may be divided into different parts, which may be kept in any places in New Zealand that the Registrar determines from time to time.
 
-##### 3
-    
-*   The register may be---
+*   3 The register may be---
         
     *   (a) an electronic register; or
     
@@ -2475,21 +2483,13 @@ Registration and register
 
 ### Registrar may direct transfer
 
-##### 4
-    
-*   The Registrar may direct the transfer of part of the register and of any record relating to a retirement village from one place in New Zealand to another place in New Zealand.
+*   4 The Registrar may direct the transfer of part of the register and of any record relating to a retirement village from one place in New Zealand to another place in New Zealand.
 
-##### 5
-    
-*   Despite [clause 4][207], the Registrar must not direct the transfer of any part of the register or of any record relating to a particular retirement village unless the operator of the retirement village has requested the transfer and written notice of the proposed transfer is given to the operator.
+*   5 Despite clause 4, the Registrar must not direct the transfer of any part of the register or of any record relating to a particular retirement village unless the operator of the retirement village has requested the transfer and written notice of the proposed transfer is given to the operator.
 
-##### 6
-    
-*   The Registrar must give notice in the _Gazette_ of any transfer under [clause 4][207] as soon as practicable after the transfer is made.
+*   6 The Registrar must give notice in the Gazette of any transfer under clause 4 as soon as practicable after the transfer is made.
 
-##### 7
-    
-*   Nothing in [clauses 5][208] and [6][209] applies to the transfer of part of the register or of any record relating to a particular retirement village from one place in New Zealand to another place in New Zealand if---
+*   7 Nothing in clauses 5 and 6 applies to the transfer of part of the register or of any record relating to a particular retirement village from one place in New Zealand to another place in New Zealand if---
         
     *   (a) the register is an electronic register; and
     
@@ -2497,25 +2497,19 @@ Registration and register
     
     
 
-##### 8
-    
-*   All the records relating to a particular retirement village must be kept in the same place.
+*   8 All the records relating to a particular retirement village must be kept in the same place.
 
 ### Registration of documents
 
-##### 9
-    
-*   On receipt of an application for registration as a retirement village or any other document for registration under this Act, the Registrar must,---
+*   9 On receipt of an application for registration as a retirement village or any other document for registration under this Act, the Registrar must,---
         
-    *   (a) subject to [clause 10][210], register the document in the register; and
+    *   (a) subject to [clause 10][209], register the document in the register; and
     
     *   (b) give written advice of the registration to the person from whom the document was received.
     
     
 
-##### 10
-    
-*   The Registrar may refuse to register a document received by the Registrar for registration under this Act if that document---
+*   10 The Registrar may refuse to register a document received by the Registrar for registration under this Act if that document---
         
     *   (a) is not in the prescribed form, if any; or
     
@@ -2531,9 +2525,7 @@ Registration and register
     
     
 
-##### 11
-    
-*   If the Registrar refuses to register a document in reliance on [clause 10][210], the Registrar must request either---
+*   11 If the Registrar refuses to register a document in reliance on clause 10, the Registrar must request either---
         
     *   (a) that the document be appropriately amended or completed and submitted for registration again; or
     
@@ -2541,69 +2533,55 @@ Registration and register
     
     
 
-##### 12
-    
-*   A document is **registered** when---
+*   12 A document is registered when---
         
     *   (a) the document itself is constituted as part of the register; or
     
-    *   (b) particulars of the document are entered in any device or facility referred to in [clause 3][211].
+    *   (b) particulars of the document are entered in any device or facility referred to in [clause 3][210].
     
     
 
-##### 13
-    
-*   Neither registration nor refusal of registration of a document by the Registrar affects, or creates a presumption as to, the validity or invalidity of the document or the correctness or otherwise of the information contained in it.
+*   13 Neither registration nor refusal of registration of a document by the Registrar affects, or creates a presumption as to, the validity or invalidity of the document or the correctness or otherwise of the information contained in it.
 
 ### Inspection and evidence of register
 
-##### 14
-    
-*   A person may, on payment of fees (if any) that are prescribed, inspect---
+*   14 A person may, on payment of fees (if any) that are prescribed, inspect---
         
     *   (a) any document that constitutes part of the register:
     
-    *   (b) particulars of any registered document that have been entered on the register referred to in [clause 3][211]:
+    *   (b) particulars of any registered document that have been entered on the register referred to in [clause 3][210]:
     
     *   (c) any registered document, particulars of which have been entered in the register.
     
     
 
-##### 15
-    
-*   A person may, on payment of any prescribed fees, require the Registrar to give or certify---
+*   15 A person may, on payment of any prescribed fees, require the Registrar to give or certify---
         
     *   (a) a copy of, or extract from, a document that constitutes part of the register; or
     
-    *   (b) particulars of any registered document that have been entered in the register referred to in [clause 3][211]; or
+    *   (b) particulars of any registered document that have been entered in the register referred to in [clause 3][210]; or
     
     *   (c) a copy of, or extract from, a registered document, particulars of which have been entered in that register.
     
     
 
-##### 16
-    
-*   A process to compel the production of---
+*   16 A process to compel the production of---
         
     *   (a) a registered document kept by the Registrar; or
     
-    *   (b) evidence of the entry of particulars of a registered document in the register referred to in [clause 3][211]---
+    *   (b) evidence of the entry of particulars of a registered document in the register referred to in [clause 3][210]---
     
     must not issue from the court without the leave of the court, and, if it is issued from the court with the leave of the court, it must have a statement attached to it that it is issued with the leave of the court.
 
-##### 17
-    
-*   A copy of, or extract from, a registered document---
+*   17 A copy of, or extract from, a registered document---
         
     *   (a) that constitutes part of the register; or
     
-    *   (b) particulars of which have been entered in the register referred to in [clause 3][211]---
+    *   (b) particulars of which have been entered in the register referred to in [clause 3][210]---
     
     that is certified to be a true copy or extract by the Registrar is admissible in evidence in legal proceedings to the same extent as the original document.
 
-##### 18
-    
-*   An extract certified by the Registrar as containing particulars of a registered document that have been entered in the register referred to in [clause 3][211] is, in the absence of proof to the contrary, conclusive evidence of the entry of those particulars.
+*   18 An extract certified by the Registrar as containing particulars of a registered document that have been entered in the register referred to in clause 3 is, in the absence of proof to the contrary, conclusive evidence of the entry of those particulars.
 
 ---
 
@@ -2731,9 +2709,7 @@ Occupation right agreements
 
 #### Required information and provisions
 
-##### 1
-    
-*   The occupation right agreement must contain---
+*   1 The occupation right agreement must contain---
         
     *   (a) provisions in relation to the following topics:
             
@@ -2789,9 +2765,7 @@ Occupation right agreements
     
     
 
-##### 2
-    
-*   The provisions referred to in paragraphs (a) to (e) of [clause 1][212] must be consistent with---
+*   2 The provisions referred to in paragraphs (a) to (e) of clause 1 must be consistent with---
         
     *   (a) the Retirement Villages Act 2003, and any regulations made under that Act; and
     
@@ -2812,21 +2786,15 @@ This is a summary of the basic rights given to you by the Retirement Villages Ac
 
 #### _Services and other benefits_
 
-##### 1
-    
-*   You have the right to services and other benefits promised to you in your occupation right agreement.
+*   1 You have the right to services and other benefits promised to you in your occupation right agreement.
 
 #### _Information_
 
-##### 2
-    
-*   You have the right to information relating to any matters affecting, or likely to affect, the terms or conditions of your residency.
+*   2 You have the right to information relating to any matters affecting, or likely to affect, the terms or conditions of your residency.
 
 #### _Consultation_
 
-##### 3
-    
-*   You have the right to be consulted by the operator about any proposed changes in the services and benefits provided or the charges that you pay that will or might have a material impact on your---
+*   3 You have the right to be consulted by the operator about any proposed changes in the services and benefits provided or the charges that you pay that will or might have a material impact on your---
         
     *   (a) occupancy; or
     
@@ -2836,33 +2804,23 @@ This is a summary of the basic rights given to you by the Retirement Villages Ac
 
 #### _Right to complain_
 
-##### 4
-    
-*   You have the right to complain to the operator and to receive a response within a reasonable time.
+*   4 You have the right to complain to the operator and to receive a response within a reasonable time.
 
 #### _Disputes_
 
-##### 5
-    
-*   You have the right to a speedy and efficient process for resolving disputes between you and the operator or between you and other residents of the village.
+*   5 You have the right to a speedy and efficient process for resolving disputes between you and the operator or between you and other residents of the village.
 
 #### _Use of support person or representative_
 
-##### 6
-    
-*   You have the right, in your dealings with the operator or other residents of the village, to involve a support person or a person to represent you. The cost of involving a support person or person to represent you must be met by you.
+*   6 You have the right, in your dealings with the operator or other residents of the village, to involve a support person or a person to represent you. The cost of involving a support person or person to represent you must be met by you.
 
 #### _Right to be treated with courtesy and have rights respected_
 
-##### 7
-    
-*   You have the right to be treated with courtesy and have your rights respected by the operator, the people who work at the village, and the people who provide services at the village.
+*   7 You have the right to be treated with courtesy and have your rights respected by the operator, the people who work at the village, and the people who provide services at the village.
 
 #### _Right not to be exploited_
 
-##### 8
-    
-*   You have the right not to be exploited by the operator, the people who work at the village, and the people who provide services at the village.
+*   8 You have the right not to be exploited by the operator, the people who work at the village, and the people who provide services at the village.
 
 ##### Your obligations to others
 
@@ -2886,8 +2844,8 @@ Other contact persons, if you want to make a complaint about a breach of your ri
 
 The Retirement Commissioner publishes information on the code of residents' rights and disputes procedures available under the Retirement Villages Act 2003 that may assist to resolve your complaint.
     
-*   Schedule 4 **Information**: added, on 15 December 2005, by [section 8(2)][213] of the Retirement Villages Amendment Act 2005 (2005 No 113).
-*   Schedule 4 **Other contact persons** paragraph (c): repealed, on 15 December 2005, by [section 8(1)][213] of the Retirement Villages Amendment Act 2005 (2005 No 113).
+*   Schedule 4 **Information**: added, on 15 December 2005, by [section 8(2)][211] of the Retirement Villages Amendment Act 2005 (2005 No 113).
+*   Schedule 4 **Other contact persons** paragraph (c): repealed, on 15 December 2005, by [section 8(1)][211] of the Retirement Villages Amendment Act 2005 (2005 No 113).
 
 ---
 
@@ -3026,17 +2984,16 @@ The code of practice must specify minimum requirements to be given effect to in 
     
 *   The matters that must be addressed in the code of practice are requirements in relation to communication by the operator of a retirement village with residents or intending residents for whom English is a second language or whose ability to communicate is limited.
 
-*   Schedule 5: amended, on 20 September 2007, by [section 4][214] of the Retirement Villages Amendment Act 2007 (2007 No 78).
+*   Schedule 5: amended, on 20 September 2007, by [section 4][212] of the Retirement Villages Amendment Act 2007 (2007 No 78).
 
 ---
 
-#### Contents
+#### Reprints notes   Contents
     
 *   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+*   2Legal status
+*   3Editorial and format changes
+*   4Amendments incorporated in this reprint
 
 ---
 
@@ -3044,60 +3001,29 @@ The code of practice must specify minimum requirements to be given effect to in 
 
 ###### 1 General
     
-*   This is a reprint of the Retirement Villages Act 2003\. The reprint incorporates all the amendments to the Act as at 1 October 2011, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][215] ![](/images/external_link.gif).
+*   This is a reprint of the Retirement Villages Act 2003 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][216] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][213] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][214] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][217] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][215] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][216] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][218] and [17E][219] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][197]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][183]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10): [sections 64--66][166]
+    Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10): [sections 64--66][166]
     
     Unit Titles Act 2010 (2010 No 22): [section 233(1)][154]
     
-    Disputes Tribunals Amendment Act 2009 (2009 No 22): [section 8][187]
+    Disputes Tribunals Amendment Act 2009 (2009 No 22): [section 8][188]
     
-    [Retirement Villages Amendment Act 2007][220] (2007 No 78)
+    [Retirement Villages Amendment Act 2007][217] (2007 No 78)
     
     Insolvency Act 2006 (2006 No 55): [section 445][160]
     
@@ -3107,7 +3033,7 @@ The code of practice must specify minimum requirements to be given effect to in 
     
     Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][151]
     
-    [Retirement Villages Amendment Act 2005][221] (2005 No 113)
+    [Retirement Villages Amendment Act 2005][218] (2005 No 113)
     
     New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42): [section 10(2)][165]
     
@@ -3115,7 +3041,7 @@ The code of practice must specify minimum requirements to be given effect to in 
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2003/0112/latest/whole.html#DLM220368
 [2]: http://www.legislation.govt.nz/act/public/2003/0112/latest/whole.html#DLM220369
 [3]: http://www.legislation.govt.nz/act/public/2003/0112/latest/whole.html#DLM220370
@@ -3298,42 +3224,39 @@ The code of practice must specify minimum requirements to be given effect to in 
 [180]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM133619
 [181]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM88401
 [182]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM88402
-[183]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM88403
-[184]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM88404
-[185]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM88405
-[186]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM133648
-[187]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM1919616
-[188]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM396434
-[189]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM103473
-[190]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM88406
-[191]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM88416
-[192]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM129109
-[193]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM319569
-[194]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM195534
-[195]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM195097
-[196]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM320858
-[197]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM320859
-[198]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM320869
-[199]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM348342
-[200]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM430704
-[201]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM323212
-[202]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM323273
-[203]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM323224
-[204]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM144909
-[205]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM324887
-[206]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM27289
-[207]: http://www.legislation.govt.nz/act/public/2003/0112/latest/whole.html#DLM220989
-[208]: http://www.legislation.govt.nz/act/public/2003/0112/latest/whole.html#DLM220990
-[209]: http://www.legislation.govt.nz/act/public/2003/0112/latest/whole.html#DLM220991
-[210]: http://www.legislation.govt.nz/act/public/2003/0112/latest/whole.html#DLM220996
-[211]: http://www.legislation.govt.nz/act/public/2003/0112/latest/whole.html#DLM220987
-[212]: http://www.legislation.govt.nz/act/public/2003/0112/latest/whole.html#DLM1963346
-[213]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM362602
-[214]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM968521
-[215]: http://www.pco.parliament.govt.nz/reprints/
-[216]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM195439
-[217]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[218]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM195468
-[219]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM195470
-[220]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM968514
-[221]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM362291
+[183]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM3360714
+[184]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM88403
+[185]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM88404
+[186]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM88405
+[187]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM133648
+[188]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM1919616
+[189]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM396434
+[190]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM103473
+[191]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM88406
+[192]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM88416
+[193]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM129109
+[194]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM319569
+[195]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM2997643
+[196]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM2998573
+[197]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM2998633
+[198]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM320858
+[199]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM320859
+[200]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM320869
+[201]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM348342
+[202]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM430704
+[203]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM323212
+[204]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM323273
+[205]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM323224
+[206]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM144909
+[207]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM324887
+[208]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM27289
+[209]: http://www.legislation.govt.nz/act/public/2003/0112/latest/whole.html#DLM220996
+[210]: http://www.legislation.govt.nz/act/public/2003/0112/latest/whole.html#DLM220987
+[211]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM362602
+[212]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM968521
+[213]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM2998516
+[214]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM2998515
+[215]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM2998532
+[216]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[217]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM968514
+[218]: http://www.legislation.govt.nz/act/public/2003/0112/latest/link.aspx?id=DLM362291
