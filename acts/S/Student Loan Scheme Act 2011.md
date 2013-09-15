@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2013
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Inland Revenue Department.
 
@@ -475,11 +475,11 @@ This Act is administered by the Inland Revenue Department.
 
 [163][221][][221][Offence to prejudice employees because of student loan repayment liability][221]
 
-[164][222][][222][Proceedings to be taken summarily][222]
+[164][222][][222][Proceedings to be commenced by Commissioner][222]
 
-[165][223][][223][Information may charge several offences][223]
+[165][223][][223][Charge may charge several offences][223]
 
-[166][224][][224][Information may be laid within 10 years][224]
+[166][224][][224][Time for filing charging document][224]
 
 [Subpart 4][225][---][225][Borrower's right to object to loan manager about details of loan advances][225]
 
@@ -614,7 +614,7 @@ This Act is administered by the Inland Revenue Department.
 
 [216][290][][290][Transitional regulations][290]
 
-[217][291][][291][Application of Regulations (Disallowance) Act 1989 and Acts and Regulations Publication Act 1989][291]
+[217][291][][291][Application of Legislation Act 2012][291]
 
 [Savings and transitional provisions][292]
 
@@ -4192,31 +4192,37 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     Compare: 1992 No 141 [s 81][501]
 
-##### 164 Proceedings to be taken summarily
+##### 164 Proceedings to be commenced by Commissioner
     
-*   A proceeding for an offence against [section 163][221] must be taken by way of summary prosecution before a District Court Judge upon the information of the Commissioner.
+*   A proceeding for an offence against [section 163][221] must be commenced by the filing of a charging document in the name of the Commissioner.
     
-    Compare: 1992 No 141 [s 82][502]
+    Section 164: replaced, on 1 July 2013, by [section 413][502] of the Criminal Procedure Act 2011 (2011 No 81).
 
-##### 165 Information may charge several offences
+##### 165 Charge may charge several offences
     
-*   (1) An information may charge the defendant with any number of offences against [section 163][221] if those offences are founded on the same set of facts, or form or are part of a series of offences of the same or similar character.
+*   (1) A charge may charge the defendant with any number of offences against [section 163][221] if those offences are founded on the same set of facts, or form or are part of a series of offences of the same or similar character.
     
-    (2) If an information charges more than 1 offence,---
+    (2) If a charging document charges more than 1 offence,---
         
-    *   (a) particulars of each offence charged must be set out separately in the information; and
+    *   (a) particulars of each offence charged must be set out separately in the charging document; and
     
     *   (b) all of those charges must be heard together, unless the court, either before or at any time during the hearing, considers it just that any charge should be heard separately and makes an order to that effect.
     
     Compare: 1992 No 141 [s 83][503]
+    
+    Section 165 heading: amended, on 1 July 2013, by [section 413][502] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 165(1): amended, on 1 July 2013, by [section 413][502] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 165(2): amended, on 1 July 2013, by [section 413][502] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 165(2)(a): amended, on 1 July 2013, by [section 413][502] of the Criminal Procedure Act 2011 (2011 No 81).
 
-##### 166 Information may be laid within 10 years
+##### 166 Time for filing charging document
     
-*   (1) An information for an offence against [section 163][221] may be laid at any time within 10 years after the end of the tax year in which the offence was committed.
+*   Despite anything to the contrary in [section 25][504] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against [section 163][221] ends on the date that is 10 years after the end of the year in which the offence was committed.
     
-    (2) Subsection (1) applies despite anything in the [Summary Proceedings Act 1957][504] or in any other Act.
-    
-    Compare: 1992 No 141 [s 84][505]
+    Section 166: replaced, on 1 July 2013, by [section 413][502] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 4---Borrower's right to object to loan manager about details of loan advances
 
@@ -4238,7 +4244,7 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     (4) However, the loan manager may extend the time allowed under subsection (3)(d).
     
-    Compare: 1992 No 141 [ss 6][506], [10][507]
+    Compare: 1992 No 141 [ss 6][505], [10][506]
 
 ##### 168 Loan manager must consider objections
     
@@ -4250,7 +4256,7 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     *   (b) notify the Commissioner (in the manner determined by the Commissioner and the loan manager) of the loan manager's decision in respect of the objection.
     
-    Compare: 1992 No 141 [s 7][508]
+    Compare: 1992 No 141 [s 7][507]
 
 ##### 169 Power to require objection to be determined by chief executive
     
@@ -4260,7 +4266,7 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     (3) However, the chief executive may extend the time allowed under subsection (2).
     
-    Compare: 1992 No 141 [ss 8][509], [10][507]
+    Compare: 1992 No 141 [ss 8][508], [10][506]
 
 ##### 170 Chief executive must consider objections required to be determined by chief executive
     
@@ -4274,7 +4280,7 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     (3) The loan manager must, as soon as practicable, notify the Commissioner (in the manner determined by the Commissioner and the loan manager) of the chief executive's decision in respect of the objection.
     
-    Compare: 1992 No 141 [s 9][510]
+    Compare: 1992 No 141 [s 9][509]
 
 ##### 171 Right to apply to Disputes Tribunal or District Court
     
@@ -4292,11 +4298,11 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     (5) Subsection (4) applies---
         
-    *   (a) despite anything in the [Disputes Tribunals Act 1988][511] or the [District Courts Act 1947][512]; but
+    *   (a) despite anything in the [Disputes Tribunals Act 1988][510] or the [District Courts Act 1947][511]; but
     
     *   (b) subject to subsections (1) and (2).
     
-    Compare: 1992 No 141 [s 11][513]
+    Compare: 1992 No 141 [s 11][512]
 
 ##### 172 Notification of Disputes Tribunal's or District Court's decision about objection
     
@@ -4308,27 +4314,27 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
 
 ##### 173 Part 4A of Tax Administration Act 1994 applies to disputes under this Act
     
-*   (1) The procedures in [Part 4A][514] of the Tax Administration Act 1994 apply, with all necessary modifications, to a dispute between a person and the Commissioner under this Act.
+*   (1) The procedures in [Part 4A][513] of the Tax Administration Act 1994 apply, with all necessary modifications, to a dispute between a person and the Commissioner under this Act.
     
     (2) However, subsection (1) does not apply to an objection to the details of a loan advance made or charged to a borrower (_see_ [section 167][226]).
     
-    Compare: 1992 No 141 [s 69A][515]
+    Compare: 1992 No 141 [s 69A][514]
 
 #### Rights to challenge and challenge procedures
     
-*   Heading: replaced, on 30 March 2013, by [section 30][516] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+*   Heading: replaced, on 30 March 2013, by [section 30][515] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 174 Dispute process must be completed before challenge is made
     
 *   A person may challenge a matter under this subpart only after the dispute process applied by [section 173][234] has been concluded in relation to that matter.
     
-    Compare: 1992 No 141 [s 69A][515]
+    Compare: 1992 No 141 [s 69A][514]
 
 ##### 174A Part 8A of Tax Administration Act 1994 applies to challenges under this Act
     
 *   The procedures under [Part 8A][453] of the Tax Administration Act 1994 apply, with all necessary modifications, to a challenge of a matter under this Act.
     
-    Section 174A: inserted, on 30 March 2013, by [section 31][517] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 174A: inserted, on 30 March 2013, by [section 31][516] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 175 Challenge to details of consolidated loan balance
     
@@ -4358,7 +4364,7 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
         
         
     
-    Compare: 1992 No 141 [s 65A][518]
+    Compare: 1992 No 141 [s 65A][517]
 
 ##### 177 Challenge to special deduction rate certificate for unused repayment threshold
     
@@ -4374,7 +4380,7 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
 *   An employer or PAYE intermediary who is required to make a salary or wage deduction may, on the ground that the determination is erroneous, challenge a determination made under [section 62(2)][79].
     
-    Compare: 1992 No 141 [s 67][519]
+    Compare: 1992 No 141 [s 67][518]
 
 ##### 180 Challenge to decision regarding significant over-deduction
     
@@ -4394,13 +4400,13 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
 *   A borrower whose repayment obligation has been assessed under [section 51][66], [76][95], [89][113], or [109][142] may, on the ground that the assessment is erroneous or excessive or has been issued in error, challenge the assessment.
     
-    Compare: 1992 No 141 [s 64][520]
+    Compare: 1992 No 141 [s 64][519]
 
 ##### 182A Challenge to decision concerning repayment holiday
     
-*   A borrower may challenge a decision by the Commissioner under [section 107B][521] not to grant the borrower a repayment holiday, on the ground that the decision is not fair and reasonable.
+*   A borrower may challenge a decision by the Commissioner under [section 107B][520] not to grant the borrower a repayment holiday, on the ground that the decision is not fair and reasonable.
     
-    Section 182A: inserted, on 30 March 2013, by [section 32][522] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 182A: inserted, on 30 March 2013, by [section 32][521] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 183 Challenge to interest charged
     
@@ -4412,11 +4418,11 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
         
     *   (a) this Act; or
     
-    *   (b) [Parts 4A][514] and [8A][453] of the Tax Administration Act 1994; or
+    *   (b) [Parts 4A][513] and [8A][453] of the Tax Administration Act 1994; or
     
     *   (c) a loan contract.
     
-    Compare: 1992 No 141 [ss 65][523], [65A(e)][518], (f), [69B][524]
+    Compare: 1992 No 141 [ss 65][522], [65A(e)][517], (f), [69B][523]
 
 ##### 184 Challenge to decision concerning relief
     
@@ -4430,31 +4436,31 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     (2) A borrower may challenge the relief provided to the borrower under [section 146][194], [147][198], or [154][206] on the ground that the relief is not fair and reasonable.
     
-    Compare: 1992 No 141 [s 66B][525]
+    Compare: 1992 No 141 [s 66B][524]
 
 ##### 185 Challenge to late filing penalty
     
 *   A borrower who is charged with a late filing penalty may challenge the penalty on the ground that it was imposed on the borrower in error.
     
-    Compare: 1992 No 141 [s 66][526]
+    Compare: 1992 No 141 [s 66][525]
 
 ##### 186 Challenge to student loan shortfall penalty
     
 *   A borrower who has a student loan shortfall penalty imposed on him or her may challenge the student loan shortfall penalty on the ground that it was imposed on the borrower in error.
     
-    Compare: 1992 No 141 [s 68][527]
+    Compare: 1992 No 141 [s 68][526]
 
 ##### 187 Person who may make challenge
     
 *   A challenge under this subpart may be made only by or on behalf of the person to whom the information, assessment, notice, decision, or matter relates.
     
-    Compare: 1992 No 141 [s 69][528]
+    Compare: 1992 No 141 [s 69][527]
 
 ##### 188 Commissioner's decision on challenges
     
 *   \[Repealed\]
     
-    Section 188: repealed, on 30 March 2013, by [section 33][529] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 188: repealed, on 30 March 2013, by [section 33][528] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ## Part 5  
 Matters of general application and miscellaneous matters
@@ -4471,7 +4477,7 @@ Matters of general application and miscellaneous matters
     
     (2) However, no annual administration fee may be charged to a borrower for a tax year if that borrower is charged with a student loan establishment fee under section 14 in that tax year.
     
-    Section 189(1): amended (with effect on 1 April 2012), on 12 April 2012, by [section 47][530] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 189(1): amended (with effect on 1 April 2012), on 12 April 2012, by [section 47][529] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 190 Tax year other than 12 months due to change in balance date
     
@@ -4501,7 +4507,7 @@ Matters of general application and miscellaneous matters
     > 
     > is the number of days in the period.
     
-    Compare: 1992 No 141 [s 61][531]
+    Compare: 1992 No 141 [s 61][530]
     
     Section 190(1)(a): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][395] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
@@ -4521,33 +4527,33 @@ Matters of general application and miscellaneous matters
     
     Compare: 1992 No 141 [s 14(3)][417]
     
-    Section 191(1): amended, on 30 March 2013, by [section 34(1)][532] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 191(1): amended, on 30 March 2013, by [section 34(1)][531] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
     Section 191(2): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][395] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 191(3A): inserted (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 34(2)][532] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 191(3A): inserted (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 34(2)][531] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 192 Payment date not otherwise specified
     
 *   If this Act does not specify a date by which an amount payable under this Act is payable, the amount is due and payable 30 days after the date on which the borrower is notified in writing that the amount is due and payable.
     
-    Compare: 1992 No 141 [s 47][533]
+    Compare: 1992 No 141 [s 47][532]
 
 ##### 193 Recovery of unpaid amount
     
 *   (1) An unpaid amount is recoverable as a debt due to the Crown.
     
-    (2) [Sections 156 to 165][534] of the Tax Administration Act 1994, as far as they are applicable and with all necessary modifications, apply for the purposes of this Act, as if---
+    (2) [Sections 156 to 165][533] of the Tax Administration Act 1994, as far as they are applicable and with all necessary modifications, apply for the purposes of this Act, as if---
         
     *   (a) every reference in those provisions to income tax or tax were a reference to an unpaid amount; and
     
     *   (b) every reference in those provisions to a taxpayer or a person were a reference to a borrower; and
     
-    *   (c) the reference to an assessment in [section 162][535] of the Tax Administration Act 1994 were a reference to an assessment made under [Part 2][38] of this Act; and
+    *   (c) the reference to an assessment in [section 162][534] of the Tax Administration Act 1994 were a reference to an assessment made under [Part 2][38] of this Act; and
     
-    *   (d) every reference to ""this Act"" in [sections 164][536] and [165][537] of the Tax Administration Act 1994 were a reference to the Student Loan Scheme Act 2011\.
+    *   (d) every reference to ""this Act"" in [sections 164][535] and [165][536] of the Tax Administration Act 1994 were a reference to the Student Loan Scheme Act 2011\.
     
-    Compare: 1992 No 141 [s 46][538]
+    Compare: 1992 No 141 [s 46][537]
 
 ##### 193A Contact person may be requested to assist
     
@@ -4581,7 +4587,7 @@ Matters of general application and miscellaneous matters
     
     *   (b) an individual nominated by the borrower under [section 107A][137] or [193B][261].
     
-    Section 193A: inserted (with effect on 1 April 2012), on 12 April 2012, by [section 48][539] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 193A: inserted (with effect on 1 April 2012), on 12 April 2012, by [section 48][538] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 193B Changes relating to identity and details of contact person
     
@@ -4589,13 +4595,13 @@ Matters of general application and miscellaneous matters
     
     (2) If there is a change in any of the details of a borrower's contact person, the borrower must promptly notify the Commissioner of the changed details.
     
-    Section 193B: inserted (with effect on 1 April 2012), on 12 April 2012, by [section 48][539] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 193B: inserted (with effect on 1 April 2012), on 12 April 2012, by [section 48][538] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 193C Changes relating to contact details of borrower
     
 *   If there is a change in any of the borrower's contact details, the borrower must promptly notify the Commissioner of the changed details.
     
-    Section 193C: inserted, on 30 March 2013, by [section 35][540] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 193C: inserted, on 30 March 2013, by [section 35][539] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 194 Order in which salary or wage deductions and payments offset against borrower's consolidated loan balance
     
@@ -4611,9 +4617,9 @@ Matters of general application and miscellaneous matters
     
     *   (b) a Commissioner deduction for the purposes of [section 49(1)(a)][63] that does not exceed the total amount specified under section 49(2)(b).
     
-    Compare: 1992 No 141 [s 50][541]
+    Compare: 1992 No 141 [s 50][540]
     
-    Section 194(2): inserted, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 66][542] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 194(2): inserted, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 66][541] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 195 Date on which salary or wage deductions and payments treated as being made and credited
     
@@ -4641,11 +4647,11 @@ Matters of general application and miscellaneous matters
     
     *   (c) a payment made by an overseas-based borrower (excluding a salary or wage deduction) is credited on the date it is received by the Commissioner.
     
-    Compare: 1992 No 141 [ss 48][543], [49][544]
+    Compare: 1992 No 141 [ss 48][542], [49][543]
     
-    Section 195(3): amended (with effect on 1 April 2012), on 12 April 2012, by [section 49(1)][545] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 195(3): amended (with effect on 1 April 2012), on 12 April 2012, by [section 49(1)][544] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
     
-    Section 195(3A): inserted (with effect on 1 April 2012), on 12 April 2012, by [section 49(2)][545] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 195(3A): inserted (with effect on 1 April 2012), on 12 April 2012, by [section 49(2)][544] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
     
     Section 195(4)(b): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][395] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
@@ -4659,17 +4665,17 @@ Matters of general application and miscellaneous matters
     
     (2) The Commissioner must cancel any loan interest that is calculated and accrued between the date of the notification and the date on which the payment is received.
     
-    (3) A notification provided on or after 2 March 2012 under [section 60A(1)][546] of the Student Loan Scheme Act 1992 is treated as being a notification under subsection (1).
+    (3) A notification provided on or after 2 March 2012 under [section 60A(1)][545] of the Student Loan Scheme Act 1992 is treated as being a notification under subsection (1).
     
     (4) \[Repealed\]
     
-    Compare: 1992 No 141 [s 60A][546]
+    Compare: 1992 No 141 [s 60A][545]
     
-    Section 196(1)(a): amended, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 67(1)][547] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 196(1)(a): amended, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 67(1)][546] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 196(2): replaced (with effect on 1 April 2012), on 12 April 2012, by [section 50][548] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 196(2): replaced (with effect on 1 April 2012), on 12 April 2012, by [section 50][547] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
     
-    Section 196(4): repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 67(2)][547] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 196(4): repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 67(2)][546] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 197 Write-off of consolidated loan balance
     
@@ -4691,9 +4697,9 @@ Matters of general application and miscellaneous matters
     
     (7) Subsection (6) applies despite anything to the contrary.
     
-    Compare: 1992 No 141 [s 60][549]
+    Compare: 1992 No 141 [s 60][548]
     
-    Section 197: replaced, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 68][550] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 197: replaced, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 68][549] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 198 Commissioner may remedy incorrect application of Act
     
@@ -4707,7 +4713,7 @@ Matters of general application and miscellaneous matters
 
 ##### 199 Manner of making refunds
     
-*   A refund that is made under this Act must be made in the manner required under [section 184A][551] of the Tax Administration Act 1994\.
+*   A refund that is made under this Act must be made in the manner required under [section 184A][550] of the Tax Administration Act 1994\.
     
     Compare: 1992 No 141 [ss 55A(3)][464], [56(2B)][440], [57(2A)][441], [58A(3)][433]
 
@@ -4715,7 +4721,7 @@ Matters of general application and miscellaneous matters
     
 *   A refund that is made under this Act may be made without further appropriation than this section.
     
-    Compare: 1992 No 141 [s 59][552]
+    Compare: 1992 No 141 [s 59][551]
 
 ##### 201 Loan advances and other information may be altered
     
@@ -4733,11 +4739,11 @@ Matters of general application and miscellaneous matters
     
     *   (b) alter any information (other than the details of a loan advance made or charged to the borrower) provided or made available to a borrower under [section 19][24] in accordance with a decision of the Commissioner under [subpart 5 of Part 4][232].
     
-    Compare: 1992 No 141 [s 7(1)][508]
+    Compare: 1992 No 141 [s 7(1)][507]
 
 ##### 202 Provisions of Tax Administration Act 1994 and Income Tax Act 2007 to apply to this Act
     
-*   [Sections 21][553], [24B][371], [24F][369], [24H][554], [33][324], [34][555], [35][556], [36 to 39][557], [42 to 44][558], [79][559], [80][560], [92][561], [92A][562], [106 to 108][403], [108B to 111][563], [113][564], and [114][565] of the Tax Administration Act 1994 and [sections LC 10][566], [RM 2][567], [RM 4][568], and [RM 6][569], and paragraph (b) of the definition of basic tax rate in [section YA 1][318] of the Income Tax Act 2007 apply, as far as applicable and with all necessary modifications, for the purposes of this Act as if---
+*   [Sections 21][552], [24B][371], [24F][369], [24H][553], [33][324], [34][554], [35][555], [36 to 39][556], [42 to 44][557], [79][558], [80][559], [92][560], [92A][561], [106 to 108][403], [108B to 111][562], [113][563], and [114][564] of the Tax Administration Act 1994 and [sections LC 10][565], [RM 2][566], and [RM 4][567], and paragraph (b) of the definition of basic tax rate in [section YA 1][318] of the Income Tax Act 2007 apply, as far as applicable and with all necessary modifications, for the purposes of this Act as if---
         
     *   (a) every reference to a taxpayer or a person were a reference to a borrower; and
     
@@ -4747,7 +4753,9 @@ Matters of general application and miscellaneous matters
     
     *   (d) every reference to a return were a reference to, as applicable, a declaration of adjusted net income or a notification of a borrower's annual gross income and annual total deductions under [section 114][149].
     
-    Compare: 1992 No 141 [s 16][570]
+    Compare: 1992 No 141 [s 16][568]
+    
+    Section 202: amended (with effect on 1 April 2013), on 17 July 2013, by [section 148][569] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
     Section 202(d): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][395] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
@@ -4779,13 +4787,13 @@ Matters of general application and miscellaneous matters
     
     *   (c) whether the loan contract was signed before, on, or after the date on which this section comes into force.
     
-    Section 204(3)(c): amended, on 30 March 2013, by [section 36][571] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 204(3)(c): amended, on 30 March 2013, by [section 36][570] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 205 Loan contract enforceable against minor
     
-*   A loan contract entered into by a borrower (whether before or after the commencement of this section) who is under 18 years of age must be treated, for the purposes of the [Minors' Contracts Act 1969][572], as if the borrower were aged 18 years.
+*   A loan contract entered into by a borrower (whether before or after the commencement of this section) who is under 18 years of age must be treated, for the purposes of the [Minors' Contracts Act 1969][571], as if the borrower were aged 18 years.
     
-    Compare: 1992 No 141 [s 63A][573]
+    Compare: 1992 No 141 [s 63A][572]
 
 ##### 206 Student loan contracts are not credit contracts
     
@@ -4793,9 +4801,9 @@ Matters of general application and miscellaneous matters
         
     *   (a) a credit contract for the purposes of the Credit Contracts Act 1981:
     
-    *   (b) a credit contract or a consumer credit contract for the purposes of the [Credit Contracts and Consumer Finance Act 2003][574].
+    *   (b) a credit contract or a consumer credit contract for the purposes of the [Credit Contracts and Consumer Finance Act 2003][573].
     
-    (2) No cause of action exists under the Credit Contracts Act 1981 or the [Credit Contracts and Consumer Finance Act 2003][574] in relation to a loan contract.
+    (2) No cause of action exists under the Credit Contracts Act 1981 or the [Credit Contracts and Consumer Finance Act 2003][573] in relation to a loan contract.
     
     (3) This section applies---
         
@@ -4857,7 +4865,7 @@ Matters of general application and miscellaneous matters
     
     _specified department_ means the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the [Social Security Act 1964][317].
     
-    Compare: 1992 No 141 [s 62][575]
+    Compare: 1992 No 141 [s 62][574]
 
 ##### 208 Disclosure of information between Inland Revenue Department and New Zealand Customs Service for information-matching purposes
     
@@ -4867,7 +4875,7 @@ Matters of general application and miscellaneous matters
     
     *   (b) verify whether borrowers are New Zealand residents; and
     
-    *   (c) locate, when they enter or leave New Zealand, borrowers who are in **serious default** (within the meaning of [section 280G][576] of the Customs and Excise Act 1996) in relation to student loans.
+    *   (c) locate, when they enter or leave New Zealand, borrowers who are in **serious default** (within the meaning of [section 280G][575] of the Customs and Excise Act 1996) in relation to student loans.
     
     (2) For the purpose of this section, the Commissioner may provide to the chief executive of the New Zealand Customs Service any of the following information that is held by the Inland Revenue Department:
         
@@ -4887,15 +4895,15 @@ Matters of general application and miscellaneous matters
     
     (4) Subsection (2) applies despite any obligation as to secrecy or other restriction imposed by any enactment or otherwise on the disclosure of information.
     
-    Compare: 1992 No 141 [s 62A][577]
+    Compare: 1992 No 141 [s 62A][576]
     
-    Section 208(1): replaced, on 30 March 2013, by [section 37][578] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 208(1): replaced, on 30 March 2013, by [section 37][577] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 209 Power of Commissioner to access arrival or departure information
     
-*   In accordance with, and for the purpose set out in, [section 280I][579] of the Customs and Excise Act 1996, the Commissioner may access any information-recording system used by the New Zealand Customs Service to store arrival or departure information.
+*   In accordance with, and for the purpose set out in, [section 280I][578] of the Customs and Excise Act 1996, the Commissioner may access any information-recording system used by the New Zealand Customs Service to store arrival or departure information.
     
-    Compare: 1992 No 141 [s 62B][580]
+    Compare: 1992 No 141 [s 62B][579]
 
 #### Informing and notifying under this Act
 
@@ -4925,7 +4933,7 @@ Matters of general application and miscellaneous matters
     
     *   (c) made orally in person in a manner acceptable to the Commissioner; or
     
-    *   (d) by an electronic means (except a fax), if the person complies with the [Electronic Transactions Act 2002][581], including by email or the Internet; or
+    *   (d) by an electronic means (except a fax), if the person complies with the [Electronic Transactions Act 2002][580], including by email or the Internet; or
     
     *   (e) in any other manner acceptable to the Commissioner.
     
@@ -4933,7 +4941,7 @@ Matters of general application and miscellaneous matters
     
     (3) A notification that is given by post is treated as having been given at the time the notification would have been delivered in the ordinary course of the post.
     
-    (4) Despite subsection (1)(d) of this section, [section 6][582] of the Tax Administration Act 1994, and [sections 16][583] and [20][584] of the Electronic Transactions Act 2002, the consent of a person is not required in order for information to be communicated in an electronic form.
+    (4) Despite subsection (1)(d) of this section, [section 6][581] of the Tax Administration Act 1994, and [sections 16][582] and [20][583] of the Electronic Transactions Act 2002, the consent of a person is not required in order for information to be communicated in an electronic form.
 
 ##### 212 Meaning of notify a person in writing
     
@@ -4941,7 +4949,7 @@ Matters of general application and miscellaneous matters
         
     *   (a) that is printed, typewritten, or otherwise visibly represented, copied, or reproduced on paper and is given by personal delivery, post, or fax; or
     
-    *   (b) by an electronic means (except a fax), if the person complies with the [Electronic Transactions Act 2002][581], including by email or the Internet; or
+    *   (b) by an electronic means (except a fax), if the person complies with the [Electronic Transactions Act 2002][580], including by email or the Internet; or
     
     *   (c) in any other manner acceptable to the Commissioner.
     
@@ -4949,7 +4957,7 @@ Matters of general application and miscellaneous matters
     
     (3) A notification in writing that is given by post is treated as having been given at the time the notification would have been delivered in the ordinary course of the post.
     
-    (4) Despite subsection (1)(b) of this section, [section 6][582] of the Tax Administration Act 1994, and [sections 16][583] and [20][584] of the Electronic Transactions Act 2002, the consent of a person is not required in order for information to be communicated in an electronic form.
+    (4) Despite subsection (1)(b) of this section, [section 6][581] of the Tax Administration Act 1994, and [sections 16][582] and [20][583] of the Electronic Transactions Act 2002, the consent of a person is not required in order for information to be communicated in an electronic form.
 
 ##### 213 Meaning of formally notify
     
@@ -4973,7 +4981,7 @@ Matters of general application and miscellaneous matters
 
 ##### 214 Notice requirements of Tax Administration Act 1994 do not apply
     
-*   [Sections 210 to 213][283] of this Act override [sections 14][585] and [14B][586] of the Tax Administration Act 1994\.
+*   [Sections 210 to 213][283] of this Act override [sections 14][584] and [14B][585] of the Tax Administration Act 1994\.
 
 #### Regulations
 
@@ -4999,9 +5007,9 @@ Matters of general application and miscellaneous matters
     
     *   (i) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
     
-    Compare: 1992 No 141 [s 87][587]
+    Compare: 1992 No 141 [s 87][586]
     
-    Section 215(d): replaced, on 30 March 2013, by [section 38][588] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 215(d): replaced, on 30 March 2013, by [section 38][587] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 216 Transitional regulations
     
@@ -5025,9 +5033,11 @@ Matters of general application and miscellaneous matters
     
     
 
-##### 217 Application of Regulations (Disallowance) Act 1989 and Acts and Regulations Publication Act 1989
+##### 217 Application of Legislation Act 2012
     
-*   Regulations made under [section 215][289] or [216][290] are regulations for the purposes of the [Regulations (Disallowance) Act 1989][589] and the [Acts and Regulations Publication Act 1989][590].
+*   Regulations made under [section 215][289] or [216][290] are a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][588] and must be presented to the House of Representatives under [section 41][589] of that Act.
+    
+    Section 217: replaced, on 5 August 2013, by [section 77(3)][590] of the Legislation Act 2012 (2012 No 119).
 
 #### Savings and transitional provisions
 
@@ -5764,7 +5774,7 @@ Heading to [section 57B][653]: omit ""**1 April 2004**"" and substitute ""**31 M
 
 [Section 57B][653]: omit ""1 April 2004"" and substitute ""31 March 2006"".
 
-New sections 63B to 63N: insert after [section 63A][573]:
+New sections 63B to 63N: insert after [section 63A][572]:
 
 > ##### "63B Initial disclosure
 >     
@@ -5948,13 +5958,13 @@ New sections 63B to 63N: insert after [section 63A][573]:
 > 
 > 
 
-[Section 87(1)][587]: insert after paragraph (bb):
+[Section 87(1)][586]: insert after paragraph (bb):
 
 > *   "(bc) specifying further information requirements in accordance with section 63C(1)(f):".
 > 
 > 
 
-##### [Credit Contracts and Consumer Finance Act 2003][574] (2003 No 52)
+##### [Credit Contracts and Consumer Finance Act 2003][573] (2003 No 52)
 
 [Section 15(1)][654]: insert after paragraph (c):
 
@@ -5985,15 +5995,15 @@ Amendments to other Acts
 
 Definition of **student loan** in [section 180C(2)][660]: omit ""section 2 of the Student Loan Scheme Act 1992"" and substitute ""section 4(1) of the Student Loan Scheme Act 2011"".
 
-##### [Credit Contracts and Consumer Finance Act 2003][574] (2003 No 52)
+##### [Credit Contracts and Consumer Finance Act 2003][573] (2003 No 52)
 
 [Section 15(1)(ca)][654]: omit ""section 2(1) of the Student Loan Scheme Act 1992"" and substitute ""section 4(1) of the Student Loan Scheme Act 2011"".
 
 ##### [Customs and Excise Act 1996][661] (1996 No 27)
 
-Definition of **borrower** in [section 280G][576]: omit ""section 2 of the Student Loan Scheme Act 1992"" and substitute ""section 4(1) of the Student Loan Scheme Act 2011"".
+Definition of **borrower** in [section 280G][575]: omit ""section 2 of the Student Loan Scheme Act 1992"" and substitute ""section 4(1) of the Student Loan Scheme Act 2011"".
 
-Definition of **identifying information** in [section 280G][576]: omit ""section 62A(2) of the Student Loan Scheme Act 1992"" and substitute ""section 208(2) of the Student Loan Scheme Act 2011"".
+Definition of **identifying information** in [section 280G][575]: omit ""section 62A(2) of the Student Loan Scheme Act 1992"" and substitute ""section 208(2) of the Student Loan Scheme Act 2011"".
 
 Heading to [section 280H][662]: omit ""**Student Loan Scheme Act 1992**"" and substitute ""**Student Loan Scheme Act 2011**"".
 
@@ -6005,9 +6015,9 @@ Heading to [section 280H][662]: omit ""**Student Loan Scheme Act 1992**"" and su
 > 
 > 
 
-Heading to [section 280I][579]: omit ""**Student Loan Scheme Act 1992**"" and substitute ""**Student Loan Scheme Act 2011**"".
+Heading to [section 280I][578]: omit ""**Student Loan Scheme Act 1992**"" and substitute ""**Student Loan Scheme Act 2011**"".
 
-[Section 280I(1)(a) to (d)][579]: repeal and substitute:
+[Section 280I(1)(a) to (d)][578]: repeal and substitute:
 
 > *   "(a) whether borrowers are New Zealand-based or overseas-based for the purposes of the Student Loan Scheme Act 2011:
 > 
@@ -6017,7 +6027,7 @@ Heading to [section 280I][579]: omit ""**Student Loan Scheme Act 1992**"" and su
 > 
 > 
 
-##### [District Courts Act 1947][512] (1947 No 16)
+##### [District Courts Act 1947][511] (1947 No 16)
 
 [Section 84I(2)(c)(iiia)][663]: omit ""section 46 of the Student Loan Scheme Act 1992"" and substitute ""section 193 of the Student Loan Scheme Act 2011"".
 
@@ -6205,7 +6215,7 @@ Paragraph (d)(ix) of the definition of **tax** in [section 3(1)][316]: repeal an
 > 
 > 
 
-[Section 184A(5)(f)][551]: repeal and substitute:
+[Section 184A(5)(f)][550]: repeal and substitute:
 
 > *   "(f) a repayment obligation, as defined in section 4(1) of the Student Loan Scheme Act 2011, if the borrower has chosen to receive a refund under section 132 of that Act."
 > 
@@ -6248,82 +6258,45 @@ Paragraph (c)(vii) of the definition of **personal income** in [regulation 2(1)]
 
 Paragraph (c)(v) of the definition of **spousal or partner's income** in [regulation 2(1)][706]: omit ""within the meaning of section 2 of the Student Loan Scheme Act 1992"" and substitute ""as defined in section 4(1) of the Student Loan Scheme Act 2011"".
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Student Loan Scheme Act 2011\. The reprint incorporates all the amendments to the Act as at 1 April 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][707] ![](/images/external_link.gif).
+*   This is a reprint of the Student Loan Scheme Act 2011 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][708] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][707] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][708] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][709] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][709] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][710] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][710] and [17E][711] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52): [section 148][569]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    [Student Loan Scheme Amendment Act 2013][650] (2013 No 10)
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Student Loan Scheme Amendment Act 2013][650] (2013 No 10)
+    Legislation Act 2012 (2012 No 119): [section 77(3)][590]
     
     Student Loan Scheme (Repayment Percentage) Regulations 2012 (SR 2012/192): [regulation 3][332]
     
-    [Student Loan Scheme (Budget Measures) Amendment Act 2012][712] (2012 No 39)
+    [Student Loan Scheme (Budget Measures) Amendment Act 2012][711] (2012 No 39)
     
-    [Student Loan Scheme Amendment Act 2012][713] (2012 No 32)
+    [Student Loan Scheme Amendment Act 2012][712] (2012 No 32)
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][502]
     
     Student Loan Scheme Act 2011 (2011 No 62): [section 218(2)][293]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3179931
 [2]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3179932
 [3]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3179933
@@ -6825,95 +6798,95 @@ Paragraph (c)(v) of the definition of **spousal or partner's income** in [regula
 [499]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356930
 [500]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356934
 [501]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288662
-[502]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288663
+[502]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3360714
 [503]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288664
-[504]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM310742
-[505]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288665
-[506]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287417
-[507]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287424
-[508]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287418
-[509]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287419
-[510]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287422
-[511]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM133281
-[512]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM242775
-[513]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287426
-[514]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM353135
-[515]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288611
-[516]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682996
-[517]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682998
-[518]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288293
-[519]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288603
-[520]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288288
-[521]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4425737
-[522]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683000
-[523]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288290
-[524]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288613
-[525]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288601
-[526]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288296
-[527]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288606
-[528]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288608
-[529]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683002
-[530]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989073
-[531]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288250
-[532]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683003
-[533]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288177
-[534]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356978
-[535]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM357427
-[536]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM357430
-[537]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM357432
-[538]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288171
-[539]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989074
-[540]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683004
-[541]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288183
-[542]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004239
-[543]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288179
-[544]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288180
-[545]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337325
-[546]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288248
-[547]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004240
-[548]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337326
-[549]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288246
-[550]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4574846
-[551]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM358789
-[552]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288243
-[553]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM350437
-[554]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1252607
-[555]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351124
-[556]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351125
-[557]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351127
-[558]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351328
-[559]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM352122
-[560]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM352124
-[561]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM354189
-[562]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM354426
-[563]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM354915
-[564]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM354948
-[565]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM354955
-[566]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1517998
-[567]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1520416
-[568]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1520420
-[569]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1520424
-[570]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287452
-[571]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683006
-[572]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM392349
-[573]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288284
-[574]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM211511
-[575]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288257
-[576]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM380132
-[577]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288279
-[578]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683007
-[579]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM380146
-[580]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288281
-[581]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM154184
-[582]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM350134
-[583]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM154828
-[584]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM154834
-[585]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM350156
-[586]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM350162
-[587]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288673
-[588]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683008
-[589]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM195534
-[590]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM195097
+[504]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3360067
+[505]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287417
+[506]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287424
+[507]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287418
+[508]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287419
+[509]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287422
+[510]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM133281
+[511]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM242775
+[512]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287426
+[513]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM353135
+[514]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288611
+[515]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682996
+[516]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682998
+[517]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288293
+[518]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288603
+[519]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288288
+[520]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4425737
+[521]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683000
+[522]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288290
+[523]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288613
+[524]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288601
+[525]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288296
+[526]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288606
+[527]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288608
+[528]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683002
+[529]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989073
+[530]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288250
+[531]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683003
+[532]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288177
+[533]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356978
+[534]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM357427
+[535]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM357430
+[536]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM357432
+[537]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288171
+[538]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989074
+[539]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683004
+[540]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288183
+[541]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004239
+[542]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288179
+[543]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288180
+[544]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337325
+[545]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288248
+[546]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004240
+[547]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337326
+[548]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288246
+[549]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4574846
+[550]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM358789
+[551]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288243
+[552]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM350437
+[553]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1252607
+[554]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351124
+[555]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351125
+[556]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351127
+[557]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351328
+[558]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM352122
+[559]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM352124
+[560]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM354189
+[561]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM354426
+[562]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM354915
+[563]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM354948
+[564]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM354955
+[565]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1517998
+[566]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1520416
+[567]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1520420
+[568]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287452
+[569]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5166154
+[570]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683006
+[571]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM392349
+[572]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288284
+[573]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM211511
+[574]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288257
+[575]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM380132
+[576]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288279
+[577]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683007
+[578]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM380146
+[579]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288281
+[580]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM154184
+[581]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM350134
+[582]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM154828
+[583]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM154834
+[584]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM350156
+[585]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM350162
+[586]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288673
+[587]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683008
+[588]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2997643
+[589]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2998573
+[590]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2998633
 [591]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4574848
 [592]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM5136044
 [593]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM5136045
@@ -7030,10 +7003,9 @@ Paragraph (c)(v) of the definition of **spousal or partner's income** in [regula
 [704]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM406640
 [705]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM259350
 [706]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM259355
-[707]: http://www.pco.parliament.govt.nz/reprints/
-[708]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM195439
-[709]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[710]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM195468
-[711]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM195470
-[712]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4489603
-[713]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989003
+[707]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2998516
+[708]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2998515
+[709]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2998532
+[710]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[711]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4489603
+[712]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989003
