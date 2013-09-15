@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2011
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,7 +17,7 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Ministry of Business, Innovation and Employment.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -532,13 +532,17 @@ An Act to consolidate and amend certain enactments relating to patents
     
 *   (1) Every officer and employee of the Patent Office shall be incapable, during the period for which he holds his appointment and for 1 year thereafter, of applying in New Zealand for a patent or of acquiring directly or indirectly, except under a will or on an intestacy, any right or interest in any patent granted or to be granted in New Zealand.
     
-    (2) Every officer and employee of the Patent Office commits an offence, and shall be liable on summary conviction to a fine not exceeding 50 pounds, if, during the period for which he holds his appointment and for 1 year thereafter, he applies in any country other than New Zealand for a patent or acquires directly or indirectly, except under a will or on an intestacy, any right or interest in any patent granted or to be granted in any country other than New Zealand.
+    (2) Every officer and employee of the Patent Office commits an offence, and shall be liable on conviction to a fine not exceeding $100, if, during the period for which he holds his appointment and for 1 year thereafter, he applies in any country other than New Zealand for a patent or acquires directly or indirectly, except under a will or on an intestacy, any right or interest in any patent granted or to be granted in any country other than New Zealand.
     
-    (3) Every officer and employee of the Patent Office commits an offence, and shall be liable on summary conviction to a fine not exceeding 20 pounds, if, outside the scope of his official duties, he drafts or prepares a specification or drawing or any part of a specification or drawing or makes a search of the records of the Patent Office for the use or information of any applicant or intending applicant for a patent under this Act.
+    (3) Every officer and employee of the Patent Office commits an offence, and shall be liable on conviction to a fine not exceeding $40, if, outside the scope of his official duties, he drafts or prepares a specification or drawing or any part of a specification or drawing or makes a search of the records of the Patent Office for the use or information of any applicant or intending applicant for a patent under this Act.
     
     (4) Nothing in subsections (1) and (2) shall prevent any former officer or employee of the Patent Office who is practising as a solicitor or patent attorney from lawfully carrying out, within the period of 1 year specified in those subsections, any function that is merely incidental to that practice.
     
     Compare: 1947 No 37 s 4
+    
+    Section 6(2): amended, on 1 July 2013, by [section 413][169] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 6(3): amended, on 1 July 2013, by [section 413][169] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Application, investigation, opposition, etc
 
@@ -566,7 +570,7 @@ An Act to consolidate and amend certain enactments relating to patents
         
         *   (ii) no rights remain outstanding in respect of the first application; and
         
-        *   (iii) the first application has not served to establish a priority date (as defined in [section 2][169]) in relation to another application in any country.
+        *   (iii) the first application has not served to establish a priority date (as defined in [section 2][170]) in relation to another application in any country.
         
         
     
@@ -576,9 +580,9 @@ An Act to consolidate and amend certain enactments relating to patents
     
     Compare: 1921--22 No 18 ss 3, 48; Patents Act 1949 s 1 (UK)
     
-    Section 7(2): amended, on 14 October 1999, by [section 2(1)][170] of the Patents Amendment Act 1999 (1999 No 119).
+    Section 7(2): amended, on 14 October 1999, by [section 2(1)][171] of the Patents Amendment Act 1999 (1999 No 119).
     
-    Section 7(2A): inserted, on 19 August 1992, by [section 3][171] of the Patents Amendment Act 1992 (1992 No 81).
+    Section 7(2A): inserted, on 19 August 1992, by [section 3][172] of the Patents Amendment Act 1992 (1992 No 81).
 
 ##### 8 Application
     
@@ -676,7 +680,7 @@ An Act to consolidate and amend certain enactments relating to patents
     
     Compare: 1921--22 No 18 s 5; Patents Act 1949 s 6 (UK)
     
-    Section 12(1): amended, on 1 December 1992, by [section 4][172] of the Patents Amendment Act 1992 (1992 No 81).
+    Section 12(1): amended, on 1 December 1992, by [section 4][173] of the Patents Amendment Act 1992 (1992 No 81).
 
 ##### 13 Search for anticipation by previous publication
     
@@ -748,9 +752,9 @@ An Act to consolidate and amend certain enactments relating to patents
     
     (2) This section shall not apply to Treaty applications.
     
-    Section 15(1): amended, on 1 December 1992, by [section 5(1)][173] of the Patents Amendment Act 1992 (1992 No 81).
+    Section 15(1): amended, on 1 December 1992, by [section 5(1)][174] of the Patents Amendment Act 1992 (1992 No 81).
     
-    Section 15(2): inserted, on 1 December 1992, by [section 5(2)][173] of the Patents Amendment Act 1992 (1992 No 81).
+    Section 15(2): inserted, on 1 December 1992, by [section 5(2)][174] of the Patents Amendment Act 1992 (1992 No 81).
 
 ##### 16 Reference in case of potential infringement
     
@@ -780,7 +784,7 @@ An Act to consolidate and amend certain enactments relating to patents
     
     (2) An appeal to the court shall lie from any decision of the Commissioner under this section.
     
-    Section 17: replaced, on 1 January 1995, by [section 3][174] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 17: replaced, on 1 January 1995, by [section 3][175] of the Patents Amendment Act 1994 (1994 No 122).
 
 ##### 18 Supplementary provisions as to examination, etc
     
@@ -808,9 +812,9 @@ An Act to consolidate and amend certain enactments relating to patents
     
     Compare: 1939 No 26 s 72; Patents Act 1949 s 12 (UK)
     
-    Section 19(1): amended, on 1 December 1992, by [section 6(1)][175] of the Patents Amendment Act 1992 (1992 No 81).
+    Section 19(1): amended, on 1 December 1992, by [section 6(1)][176] of the Patents Amendment Act 1992 (1992 No 81).
     
-    Section 19(1A): inserted, on 1 December 1992, by [section 6(2)][175] of the Patents Amendment Act 1992 (1992 No 81).
+    Section 19(1A): inserted, on 1 December 1992, by [section 6(2)][176] of the Patents Amendment Act 1992 (1992 No 81).
 
 ##### 20 Acceptance and publication of complete specification
     
@@ -830,7 +834,7 @@ An Act to consolidate and amend certain enactments relating to patents
     
     Section 20(4): replaced, on 2 September 1996, by section 3 of the Patents Amendment Act 1996 (1996 No 139).
     
-    Section 20(5): repealed, on 1 January 2011, by [section 58][176] of the Limitation Act 2010 (2010 No 110).
+    Section 20(5): repealed, on 1 January 2011, by [section 58][177] of the Limitation Act 2010 (2010 No 110).
 
 ##### 21 Opposition to grant of patent
     
@@ -976,9 +980,15 @@ An Act to consolidate and amend certain enactments relating to patents
     
     provided that this subsection shall not apply in relation to an invention for which an application for protection has first been filed in a country outside New Zealand by a person resident outside New Zealand.
     
-    (6) If any person fails to comply with any direction given under this section or makes or causes to be made an application for the grant of a patent in contravention of this section, he shall be guilty of an offence and shall be liable on conviction on indictment, to imprisonment for a term not exceeding 2 years or to a fine not exceeding 500 pounds, or to both such imprisonment and such fine.
+    (6) If any person fails to comply with any direction given under this section or makes or causes to be made an application for the grant of a patent in contravention of this section, he shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $1,000, or to both such imprisonment and such fine.
+    
+    (7) Despite anything to the contrary in [section 25][178] of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against subsection (1).
     
     Compare: 1921--22 No 18 s 33; Patents Act 1949 s 18 (UK)
+    
+    Section 25(6): amended, on 1 July 2013, by [section 413][169] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 25(7): inserted, on 1 July 2013, by [section 413][169] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 26 Inventions relating to atomic energy
     
@@ -998,19 +1008,25 @@ An Act to consolidate and amend certain enactments relating to patents
     
     (7) The power of a government department and persons authorised by a government department under [section 55][74] shall include power to make, use, exercise, or vend an invention for such purposes relating to the production or use of atomic energy or research into matters connected therewith as the Minister of Defence thinks necessary or expedient, and any reference in that section or in [sections 56][75] and [57][76] to the services of the Crown shall be construed as including a reference to those purposes.
     
-    (8) Every person who commits an offence against this section shall be liable on conviction on indictment, to imprisonment for a term not exceeding 2 years or to a fine not exceeding 500 pounds, or to both such imprisonment and such fine.
+    (8) Every person who commits an offence against this section shall be liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $1,000, or to both such imprisonment and such fine.
+    
+    (9) Despite anything to the contrary in [section 25][178] of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against subsection (8).
     
     Compare: 1947 No 37 s 6; Patents Act 1949 s 106(3) (UK)
+    
+    Section 26(8): amended, on 1 July 2013, by [section 413][169] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 26(9): inserted, on 1 July 2013, by [section 413][169] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Treaty application
     
-*   Heading: inserted, on 1 December 1992, by [section 7][177] of the Patents Amendment Act 1992 (1992 No 81).
+*   Heading: inserted, on 1 December 1992, by [section 7][179] of the Patents Amendment Act 1992 (1992 No 81).
 
 ##### 26A Treaty application deemed to be application accompanied by complete specification
     
 *   For the purposes of this Act, a Treaty application shall be deemed to be an application for a patent for an invention accompanied by a complete specification.
     
-    Section 26A: inserted, on 1 December 1992, by [section 7][177] of the Patents Amendment Act 1992 (1992 No 81).
+    Section 26A: inserted, on 1 December 1992, by [section 7][179] of the Patents Amendment Act 1992 (1992 No 81).
 
 ##### 26B Description, claims, and drawings
     
@@ -1022,13 +1038,13 @@ An Act to consolidate and amend certain enactments relating to patents
     
     *   (b) shall accordingly, pursuant to subsection (1), form part of the complete specification, even if such indications are contained in another document.
     
-    Section 26B: inserted, on 1 December 1992, by [section 7][177] of the Patents Amendment Act 1992 (1992 No 81).
+    Section 26B: inserted, on 1 December 1992, by [section 7][179] of the Patents Amendment Act 1992 (1992 No 81).
 
 ##### 26C International filing date
     
 *   A Treaty application shall be deemed to have been filed in New Zealand on its international filing date.
     
-    Section 26C: inserted, on 1 December 1992, by [section 7][177] of the Patents Amendment Act 1992 (1992 No 81).
+    Section 26C: inserted, on 1 December 1992, by [section 7][179] of the Patents Amendment Act 1992 (1992 No 81).
 
 ##### 26D Commissioner to provide international filing date
     
@@ -1052,7 +1068,7 @@ An Act to consolidate and amend certain enactments relating to patents
     
     (3) This section shall not apply to an international application that has been filed in a receiving Office in a language other than the English language, unless a translation of that application into the English language, verified in accordance with regulations made under this Act, has been furnished to the Commissioner.
     
-    Section 26D: inserted, on 1 December 1992, by [section 7][177] of the Patents Amendment Act 1992 (1992 No 81).
+    Section 26D: inserted, on 1 December 1992, by [section 7][179] of the Patents Amendment Act 1992 (1992 No 81).
 
 ##### 26E Amendments to documents forming part of complete specification
     
@@ -1068,7 +1084,7 @@ An Act to consolidate and amend certain enactments relating to patents
     
     (3) Where a Treaty application has been rectified under Rule 91 of the Treaty regulations, the description, claims, and drawings contained in that Treaty application shall be deemed, for the purposes of this Act, to have been amended on the application's international filing date.
     
-    Section 26E: inserted, on 1 December 1992, by [section 7][177] of the Patents Amendment Act 1992 (1992 No 81).
+    Section 26E: inserted, on 1 December 1992, by [section 7][179] of the Patents Amendment Act 1992 (1992 No 81).
 
 ##### 26F Treaty application void
     
@@ -1084,7 +1100,7 @@ An Act to consolidate and amend certain enactments relating to patents
     
     *   (e) the applicant fails to fulfil the applicant's obligations under Article 39(1)(a) of the Patent Cooperation Treaty within the prescribed time limit.
     
-    Section 26F: inserted, on 1 December 1992, by [section 7][177] of the Patents Amendment Act 1992 (1992 No 81).
+    Section 26F: inserted, on 1 December 1992, by [section 7][179] of the Patents Amendment Act 1992 (1992 No 81).
 
 ##### 26G Requirements for examination of Treaty application
     
@@ -1102,13 +1118,13 @@ An Act to consolidate and amend certain enactments relating to patents
     
     (2) Notwithstanding the provisions of subsection (1), the Commissioner may, on the express request of the applicant, exercise his or her powers under [section 12][15] at any time.
     
-    Section 26G: inserted, on 1 December 1992, by [section 7][177] of the Patents Amendment Act 1992 (1992 No 81).
+    Section 26G: inserted, on 1 December 1992, by [section 7][179] of the Patents Amendment Act 1992 (1992 No 81).
 
 ##### 26H Publication of Treaty applications
     
 *   The publication of a Treaty application, pursuant to Article 21 of the Patent Cooperation Treaty, shall confer no rights or privileges on the applicant under this Act, and shall have no effect other than to confer upon the application the status of a published document for the purpose of any investigation under this Act.
     
-    Section 26H: inserted, on 1 December 1992, by [section 7][177] of the Patents Amendment Act 1992 (1992 No 81).
+    Section 26H: inserted, on 1 December 1992, by [section 7][179] of the Patents Amendment Act 1992 (1992 No 81).
 
 #### Grant, effect, and term of patent
 
@@ -1146,7 +1162,7 @@ An Act to consolidate and amend certain enactments relating to patents
     
     provided that a patent may be assigned for any place in or part of New Zealand as effectually as if it were granted so as to extend to that place or part only.
     
-    (2) Subject to the provisions of this Act and of subsection (3) of [section 7][178] of the Crown Proceedings Act 1950, a patent shall have the same effect against the Crown as it has against a subject.
+    (2) Subject to the provisions of this Act and of subsection (3) of [section 7][180] of the Crown Proceedings Act 1950, a patent shall have the same effect against the Crown as it has against a subject.
     
     (3) A patent shall be in such form as may be prescribed.
     
@@ -1154,7 +1170,7 @@ An Act to consolidate and amend certain enactments relating to patents
     
     Compare: 1921--22 No 18 s 16; Patents Act 1949 s 21 (UK)
     
-    Section 29(1): amended, on 28 February 1977, by [section 8][179] of the Seal of New Zealand Act 1977 (1977 No 1).
+    Section 29(1): amended, on 28 February 1977, by [section 8][181] of the Seal of New Zealand Act 1977 (1977 No 1).
 
 ##### 30 Date and term of patent
     
@@ -1174,27 +1190,27 @@ An Act to consolidate and amend certain enactments relating to patents
     
     Compare: 1921--22 No 18 ss 15, 19; 1939 No 26 s 60; Patents Act 1949 s 22 (UK)
     
-    Section 30(3): replaced, on 1 January 1995, by [section 4(1)][180] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 30(3): replaced, on 1 January 1995, by [section 4(1)][182] of the Patents Amendment Act 1994 (1994 No 122).
     
-    Section 30(5): amended, on 1 January 1995, by [section 4(2)][180] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 30(5): amended, on 1 January 1995, by [section 4(2)][182] of the Patents Amendment Act 1994 (1994 No 122).
 
 ##### 31 Extension on ground of inadequate remuneration
     
 *   \[Repealed\]
     
-    Section 31: repealed, on 1 January 1995, by [section 5][181] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 31: repealed, on 1 January 1995, by [section 5][183] of the Patents Amendment Act 1994 (1994 No 122).
 
 ##### 32 Extension on ground of war loss
     
 *   \[Repealed\]
     
-    Section 32: repealed, on 1 January 1995, by [section 5][181] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 32: repealed, on 1 January 1995, by [section 5][183] of the Patents Amendment Act 1994 (1994 No 122).
 
 ##### 33 Extension on ground of war loss of licensee
     
 *   \[Repealed\]
     
-    Section 33: repealed, on 1 January 1995, by [section 5][181] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 33: repealed, on 1 January 1995, by [section 5][183] of the Patents Amendment Act 1994 (1994 No 122).
 
 ##### 34 Patents of addition
     
@@ -1394,7 +1410,7 @@ An Act to consolidate and amend certain enactments relating to patents
     
     Compare: 1921--22 No 18 s 27; 1939 No 26 s 61; Patents Act 1949 s 32 (UK)
     
-    Section 41(1)(k): repealed, on 1 January 1995, by [section 6][182] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 41(1)(k): repealed, on 1 January 1995, by [section 6][184] of the Patents Amendment Act 1994 (1994 No 122).
 
 ##### 42 Revocation of patent by Commissioner
     
@@ -1508,49 +1524,49 @@ An Act to consolidate and amend certain enactments relating to patents
     
     (8) No licence shall be granted under this section in respect of a patent relating to an integrated circuit.
     
-    Section 46: replaced, on 1 January 1995, by [section 7][183] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 46: replaced, on 1 January 1995, by [section 7][185] of the Patents Amendment Act 1994 (1994 No 122).
 
 ##### 47 Provisions as to licences under section 46
     
 *   \[Repealed\]
     
-    Section 47: repealed, on 1 January 1995, by [section 8][184] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 47: repealed, on 1 January 1995, by [section 8][186] of the Patents Amendment Act 1994 (1994 No 122).
 
 ##### 48 Exercise of powers on applications under section 46
     
 *   The powers of the court on an application under [section 46][64] shall be exercised with a view to securing that the inventor or other person beneficially entitled to a patent shall receive reasonable remuneration having regard to the nature of the invention.
     
-    Section 48: replaced, on 1 January 1995, by [section 9][185] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 48: replaced, on 1 January 1995, by [section 9][187] of the Patents Amendment Act 1994 (1994 No 122).
 
 ##### 49 Endorsement, etc, on application of Crown
     
 *   \[Repealed\]
     
-    Section 49: repealed, on 1 January 1995, by [section 10(1)][186] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 49: repealed, on 1 January 1995, by [section 10(1)][188] of the Patents Amendment Act 1994 (1994 No 122).
 
 ##### 50 Revocation of patent
     
 *   \[Repealed\]
     
-    Section 50: repealed, on 1 January 1995, by [section 10(1)][186] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 50: repealed, on 1 January 1995, by [section 10(1)][188] of the Patents Amendment Act 1994 (1994 No 122).
 
 ##### 51 Inventions relating to food or medicine, etc
     
 *   \[Repealed\]
     
-    Section 51: repealed, on 19 August 1992, by [section 8(1)][187] of the Patents Amendment Act 1992 (1992 No 81).
+    Section 51: repealed, on 19 August 1992, by [section 8(1)][189] of the Patents Amendment Act 1992 (1992 No 81).
 
 ##### 52 Procedure on application under sections 46 to 50
     
 *   \[Repealed\]
     
-    Section 52: repealed, on 1 January 1995, by [section 10(2)][186] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 52: repealed, on 1 January 1995, by [section 10(2)][188] of the Patents Amendment Act 1994 (1994 No 122).
 
 ##### 53 Appeal and references to arbitrator
     
 *   \[Repealed\]
     
-    Section 53: repealed, on 1 January 1995, by [section 10(2)][186] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 53: repealed, on 1 January 1995, by [section 10(2)][188] of the Patents Amendment Act 1994 (1994 No 122).
 
 ##### 54 Supplementary provisions
     
@@ -1562,9 +1578,9 @@ An Act to consolidate and amend certain enactments relating to patents
     
     Compare: 1921--22 No 18 s 30; Patents Act 1949 s 45 (UK)
     
-    Section 54(2): repealed, on 1 January 1995, by [section 11(1)][188] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 54(2): repealed, on 1 January 1995, by [section 11(1)][190] of the Patents Amendment Act 1994 (1994 No 122).
     
-    Section 54(3): amended, on 1 January 1995, by [section 11(2)][188] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 54(3): amended, on 1 January 1995, by [section 11(2)][190] of the Patents Amendment Act 1994 (1994 No 122).
 
 #### Use of patented inventions for services of the Crown
 
@@ -1584,7 +1600,7 @@ An Act to consolidate and amend certain enactments relating to patents
     
     (4) The purchaser of any articles sold in the exercise of powers conferred by this section, and any person claiming through the purchaser, shall have power to deal with them in the same manner as if the patent were held on behalf of the Crown.
     
-    Section 55: replaced, on 1 January 1995, by [section 12][189] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 55: replaced, on 1 January 1995, by [section 12][191] of the Patents Amendment Act 1994 (1994 No 122).
 
 ##### 56 Rights of third parties in respect of Crown use
     
@@ -1604,13 +1620,13 @@ An Act to consolidate and amend certain enactments relating to patents
     
     Compare: 1921--22 No 18 s 32(1); 1943 No 6 s 4; Patents Act 1949 s 47 (UK)
     
-    Section 56(1): amended, on 1 January 1995, by [section 13(1)][190] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 56(1): amended, on 1 January 1995, by [section 13(1)][192] of the Patents Amendment Act 1994 (1994 No 122).
     
-    Section 56(2): repealed, on 1 January 1995, by [section 13(2)][190] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 56(2): repealed, on 1 January 1995, by [section 13(2)][192] of the Patents Amendment Act 1994 (1994 No 122).
     
-    Section 56(3): repealed, on 1 January 1995, by [section 13(2)][190] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 56(3): repealed, on 1 January 1995, by [section 13(2)][192] of the Patents Amendment Act 1994 (1994 No 122).
     
-    Section 56(4): repealed, on 1 January 1995, by [section 13(2)][190] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 56(4): repealed, on 1 January 1995, by [section 13(2)][192] of the Patents Amendment Act 1994 (1994 No 122).
 
 ##### 57 Reference of disputes as to Crown use
     
@@ -1630,7 +1646,7 @@ An Act to consolidate and amend certain enactments relating to patents
     
     (4) In any proceedings under this section, the court may at any time order the whole proceedings or any question or issue of fact arising therein to be referred to a special or official referee or an arbitrator on such terms as the court may direct; and references to the court in the foregoing provisions of this section shall be construed accordingly.
     
-    Section 57: replaced, on 1 January 1995, by [section 14][191] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 57: replaced, on 1 January 1995, by [section 14][193] of the Patents Amendment Act 1994 (1994 No 122).
 
 ##### 58 Special provisions as to Crown use during emergency
     
@@ -1638,11 +1654,11 @@ An Act to consolidate and amend certain enactments relating to patents
         
     *   (a) to avoid prejudice to the security or defence of New Zealand; or
     
-    *   (b) to assist in the exercise of powers and the implementation of civil defence emergency management during a state of emergency declared under the [Civil Defence Emergency Management Act 2002][192].
+    *   (b) to assist in the exercise of powers and the implementation of civil defence emergency management during a state of emergency declared under the [Civil Defence Emergency Management Act 2002][194].
     
-    Section 58: replaced, on 1 January 1995, by [section 15][193] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 58: replaced, on 1 January 1995, by [section 15][195] of the Patents Amendment Act 1994 (1994 No 122).
     
-    Section 58(b): replaced, on 1 December 2002, by [section 117][194] of the Civil Defence Emergency Management Act 2002 (2002 No 33).
+    Section 58(b): replaced, on 1 December 2002, by [section 117][196] of the Civil Defence Emergency Management Act 2002 (2002 No 33).
 
 ##### 58A Nature and scope of rights under section 55
     
@@ -1658,7 +1674,7 @@ An Act to consolidate and amend certain enactments relating to patents
     
     (3) Except in a case to which [section 58][77] applies, the right to use a patented invention under [section 55][74] is subject to the government department or person authorised by a government department under section 55 having first taken all reasonable steps to obtain the consent of the patentee to the use of the patented invention on reasonable terms and conditions, and having failed to obtain such consent within a reasonable period of time.
     
-    Section 58A: inserted, on 1 January 1995, by [section 15][193] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 58A: inserted, on 1 January 1995, by [section 15][195] of the Patents Amendment Act 1994 (1994 No 122).
 
 ##### 58B Duty to inform owner
     
@@ -1666,13 +1682,13 @@ An Act to consolidate and amend certain enactments relating to patents
     
     (2) Nothing in subsection (1) requires the government department to notify or disclose information to the patentee if to do so would, or might reasonably be expected to, prejudice the security or defence of New Zealand.
     
-    Section 58B: inserted, on 1 January 1995, by [section 15][193] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 58B: inserted, on 1 January 1995, by [section 15][195] of the Patents Amendment Act 1994 (1994 No 122).
 
 ##### 58C Patentee entitled to remuneration
     
 *   Where an act is done under [section 55][74], the Crown shall pay such remuneration to the patentee as may be agreed, or as may be determined by a method agreed, between the Crown and the patentee or as may, in default of agreement, be determined by the court under [section 57][76].
     
-    Section 58C: inserted, on 1 January 1995, by [section 15][193] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 58C: inserted, on 1 January 1995, by [section 15][195] of the Patents Amendment Act 1994 (1994 No 122).
 
 #### Anticipation, etc
 
@@ -1854,13 +1870,13 @@ An Act to consolidate and amend certain enactments relating to patents
     
     Compare: Patents Act 1977 s 100 (UK)
     
-    Section 68A: inserted, on 1 January 1995, by [section 16][195] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 68A: inserted, on 1 January 1995, by [section 16][197] of the Patents Amendment Act 1994 (1994 No 122).
 
 ##### 68B Regulatory review exception
     
 *   It is not an infringement of a patent for a person to make, use, exercise, or vend the invention concerned solely for uses reasonably related to the development and submission of information required under New Zealand law or the law of any other country that regulates the manufacture, construction, use, or sale of any product.
     
-    Section 68B: inserted, on 19 December 2002, by [section 3][196] of the Patents Amendment Act 2002 (2002 No 72).
+    Section 68B: inserted, on 19 December 2002, by [section 3][198] of the Patents Amendment Act 2002 (2002 No 72).
 
 ##### 69 Order for account in action for infringement
     
@@ -2102,15 +2118,15 @@ An Act to consolidate and amend certain enactments relating to patents
     
     (2) Where any person makes any claim, or threatens to bring or gives notice of his intention to bring any proceedings (other than criminal proceedings), against any other person in respect of any interest as owner, mortgagee, licensee, or otherwise in a patent, being an interest which is not registered under this Act and which is capable of being so registered, that other person may, at any time within 1 month thereafter by notice in writing given to the maker of the claim or threat or the giver of the notice of intention to bring the proceedings, require him to register under this Act the interest in respect of which the claim or threat is made or the notice of intention to bring the proceedings is given, and if he fails to do so within 6 months after the giving of the notice under this subsection he shall not thereafter be entitled to bring any proceedings in respect of the claim or interest against the person who has given the notice to register.
     
-    (3) Nothing in this section enables a person to obtain any relief the granting of which is prevented by the [Limitation Act 2010][197], and nothing in [section 40][198] of that Act excludes the operation of that Act in any case where proceedings may be barred under this section.
+    (3) Nothing in this section enables a person to obtain any relief the granting of which is prevented by the [Limitation Act 2010][199], and nothing in [section 40][200] of that Act excludes the operation of that Act in any case where proceedings may be barred under this section.
     
-    Section 85(3): replaced, on 1 January 2011, by [section 58][176] of the Limitation Act 2010 (2010 No 110).
+    Section 85(3): replaced, on 1 January 2011, by [section 58][177] of the Limitation Act 2010 (2010 No 110).
 
 ##### 85A Application of Personal Property Securities Act 1999
     
-*   Nothing in [sections 83 to 85][112] affects the operation of the [Personal Property Securities Act 1999][199].
+*   Nothing in [sections 83 to 85][112] affects the operation of the [Personal Property Securities Act 1999][201].
     
-    Section 85A: inserted, on 1 May 2002, by [section 191(1)][200] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 85A: inserted, on 1 May 2002, by [section 191(1)][202] of the Personal Property Securities Act 1999 (1999 No 126).
 
 ##### 86 Commissioner may dispense with production of probate or letters of administration in certain cases
     
@@ -2138,13 +2154,13 @@ An Act to consolidate and amend certain enactments relating to patents
     
     (3) Every qualified person who is registered under this section as the proprietor of a patent shall hold it subject to all existing interests and equities affecting it.
     
-    (4) Nothing in [section 70][201] or in [section 73][202] of the Administration Act 1969 shall be deemed to restrict the operation of this section.
+    (4) Nothing in [section 70][203] or in [section 73][204] of the Administration Act 1969 shall be deemed to restrict the operation of this section.
     
     Compare: 1947 No 37 s 5
     
-    Section 86(1) **qualified person** paragraph (c): repealed, on 24 May 1999, by [section 15(1)][203] of the Estate Duty Repeal Act 1999 (1999 No 64).
+    Section 86(1) **qualified person** paragraph (c): repealed, on 24 May 1999, by [section 15(1)][205] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
-    Section 86(4): amended, on 1 January 1971, pursuant to [section 84(1)][204] of the Administration Act 1969 (1969 No 52).
+    Section 86(4): amended, on 1 January 1971, pursuant to [section 84(1)][206] of the Administration Act 1969 (1969 No 52).
 
 ##### 87 Rectification of register of patents by court
     
@@ -2284,9 +2300,9 @@ An Act to consolidate and amend certain enactments relating to patents
     
     (2) In any proceedings under this Act before the Commissioner, he may administer oaths to any witness, and may in the prescribed manner require the attendance of any witness and discovery and production of documents.
     
-    (3) Any evidence given on oath before the Commissioner shall be deemed to be given in a judicial proceeding for the purposes of [sections 108][205] and [109][206] of the Crimes Act 1961\.
+    (3) Any evidence given on oath before the Commissioner shall be deemed to be given in a judicial proceeding for the purposes of [sections 108][207] and [109][208] of the Crimes Act 1961\.
     
-    (4) [Section 111][207] of the Crimes Act 1961 shall apply to every affidavit and statutory declaration made for the purposes of this Act.
+    (4) [Section 111][209] of the Crimes Act 1961 shall apply to every affidavit and statutory declaration made for the purposes of this Act.
     
     (5) The Governor-General may from time to time, by Order in Council, make regulations---
         
@@ -2296,13 +2312,13 @@ An Act to consolidate and amend certain enactments relating to patents
     
     *   (c) making provision for the payment of the expenses of witnesses:
     
-    *   (d) imposing fines not exceeding 20 pounds for failure or refusal of any person so to attend and give evidence.
+    *   (d) imposing fines not exceeding $40 for failure or refusal of any person so to attend and give evidence.
     
     Compare: 1921--22 No 18 s 129; Patents Act 1949 s 83 (UK)
     
-    Section 96(3): amended, on 1 January 1962, pursuant to [section 412(2)][208] of the Crimes Act 1961 (1961 No 43).
+    Section 96(3): amended, on 1 January 1962, pursuant to [section 412(2)][210] of the Crimes Act 1961 (1961 No 43).
     
-    Section 96(4): amended, on 1 January 1962, pursuant to [section 412(2)][208] of the Crimes Act 1961 (1961 No 43).
+    Section 96(4): amended, on 1 January 1962, pursuant to [section 412(2)][210] of the Crimes Act 1961 (1961 No 43).
 
 #### Appeals
 
@@ -2382,17 +2398,17 @@ An Act to consolidate and amend certain enactments relating to patents
     
     (2) Nothing in this section shall authorise a patent attorney to transact business or conduct proceedings in a court.
     
-    (3) A person who is registered under [section 100][134] as a patent attorney is not guilty of an offence against [section 32][209] or [section 33][210] or [section 35][211] of the Lawyers and Conveyancers Act 2006 by reason only of exercising any of the powers conferred on patent attorneys by this section.
+    (3) A person who is registered under [section 100][134] as a patent attorney is not guilty of an offence against [section 32][211] or [section 33][212] or [section 35][213] of the Lawyers and Conveyancers Act 2006 by reason only of exercising any of the powers conferred on patent attorneys by this section.
     
     Compare: Patents Act 1949 s 88(5) (UK)
     
-    Section 101(3): replaced, on 1 August 2008, by [section 348][212] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 101(3): replaced, on 1 August 2008, by [section 348][214] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
 
 ##### 102 Cancellation of registration of patent attorneys
     
 *   (1) The court, on application made by the Commissioner or by the New Zealand Institute of Patent Attorneys Incorporated with the leave in writing of the Attorney-General, may order the removal from the register of patent attorneys of the name of any patent attorney or the suspension from practice before the Patent Office of any patent attorney who---
         
-    *   (a) is convicted of a crime involving dishonesty within the meaning of [section 2][213] of the Crimes Act 1961; or
+    *   (a) is convicted of a crime involving dishonesty within the meaning of [section 2][215] of the Crimes Act 1961; or
     
     *   (b) has been guilty of misconduct in his professional capacity and by reason thereof is not a fit and proper person to practise as a patent attorney; or
     
@@ -2402,7 +2418,7 @@ An Act to consolidate and amend certain enactments relating to patents
     
     (3) No person whose name has been removed from the register of patent attorneys under this section shall be again entered thereon except by direction of the court.
     
-    Section 102(1)(a): amended, on 1 January 1962, by [section 411(1)][214] of the Crimes Act 1961 (1961 No 43).
+    Section 102(1)(a): amended, on 1 January 1962, by [section 411(1)][216] of the Crimes Act 1961 (1961 No 43).
 
 ##### 103 Restrictions on practice as patent attorney
     
@@ -2422,13 +2438,15 @@ An Act to consolidate and amend certain enactments relating to patents
     
     shall be deemed to carry on business as a patent attorney.
     
-    (4) Any person who or company which fails to comply with or acts in contravention of the provisions of this section commits an offence, and shall be liable on summary conviction to a fine not exceeding 100 pounds.
+    (4) Any person who or company which fails to comply with or acts in contravention of the provisions of this section commits an offence, and shall be liable on conviction to a fine not exceeding $200\.
     
     (5) Nothing in this section shall be construed as prohibiting barristers or solicitors of the High Court of New Zealand from giving professional advice or taking such part in proceedings under this Act as has heretofore been taken by them.
     
     (6) Nothing in this section shall prevent the personal representative of a deceased patent attorney from carrying on the business or practice of the deceased patent attorney for a period not exceeding 3 years from the date of the death of the patent attorney, or for such further period (if any) as the court may allow, if the personal representative is himself registered as a patent attorney or employs a person who is registered as a patent attorney to manage the business or practice.
     
     Compare: 1921--22 No 18 s 135
+    
+    Section 103(4): amended, on 1 July 2013, by [section 413][169] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 103(5): amended, on 1 April 1980, pursuant to [section 12][163] of the Judicature Amendment Act 1979 (1979 No 124).
 
@@ -2444,15 +2462,21 @@ An Act to consolidate and amend certain enactments relating to patents
 
 ##### 105 Falsification of register, etc
     
-*   Every person who makes or causes to be made a false entry in any register kept under this Act, or a writing falsely purporting to be a copy of an entry in any such register, or produces or tenders or causes to be produced or tendered in evidence any such writing, knowing the entry or writing to be false, commits an offence, and shall be liable on conviction on indictment to imprisonment for any term not exceeding 2 years.
+*   (1) Every person who makes or causes to be made a false entry in any register kept under this Act, or a writing falsely purporting to be a copy of an entry in any such register, or produces or tenders or causes to be produced or tendered in evidence any such writing, knowing the entry or writing to be false, commits an offence, and shall be liable on conviction to imprisonment for any term not exceeding 2 years.
+    
+    (2) Despite anything to the contrary in [section 25][178] of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against subsection (1).
     
     Compare: 1921--22 No 18 s 143; Patents Act 1949 s 90 (UK)
+    
+    Section 105(1): amended, on 1 July 2013, by [section 413][169] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 105(2): inserted, on 1 July 2013, by [section 413][169] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 106 Unauthorised claim of patent rights
     
-*   (1) Every person who falsely represents that he or another person is the patentee of an invention or that he or another person has applied for a patent for an invention commits an offence and shall be liable on summary conviction to a fine not exceeding 100 pounds.
+*   (1) Every person who falsely represents that he or another person is the patentee of an invention or that he or another person has applied for a patent for an invention commits an offence and shall be liable on conviction to a fine not exceeding $200\.
     
-    (2) Every person who falsely represents that an article sold by him is patented in New Zealand or is the subject of an application for a patent in New Zealand commits an offence and shall be liable on summary conviction to a fine not exceeding 50 pounds.
+    (2) Every person who falsely represents that an article sold by him is patented in New Zealand or is the subject of an application for a patent in New Zealand commits an offence and shall be liable on conviction to a fine not exceeding $100\.
     
     (3) For the purposes of this section---
         
@@ -2462,15 +2486,21 @@ An Act to consolidate and amend certain enactments relating to patents
     
     provided that it shall be sufficient defence to any prosecution under this subsection to show that the article was patented or was the subject of an application for a patent at the time when and in the country where the words were stamped, engraved, or impressed on or otherwise applied to it.
     
-    (4) Every person who uses on his place of business or on any document issued by him or otherwise the words ""Patent Office"", or any other words suggesting that his place of business is or is officially connected with the Patent Office, commits an offence and shall be liable on summary conviction to a fine not exceeding 50 pounds.
+    (4) Every person who uses on his place of business or on any document issued by him or otherwise the words ""Patent Office"", or any other words suggesting that his place of business is or is officially connected with the Patent Office, commits an offence and shall be liable on conviction to a fine not exceeding $100\.
     
     Compare: 1921--22 No 18 s 143; Patents Act 1949 s 91 (UK)
+    
+    Section 106(1): amended, on 1 July 2013, by [section 413][169] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 106(2): amended, on 1 July 2013, by [section 413][169] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 106(4): amended, on 1 July 2013, by [section 413][169] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 107 Protection of Royal Arms, etc
     
-*   The grant of a patent under this Act shall not in itself authorise the patentee to use or place on any patented article any representation specified in [sections 12 to 15][215] of the Flags, Emblems, and Names Protection Act 1981\.
+*   The grant of a patent under this Act shall not in itself authorise the patentee to use or place on any patented article any representation specified in [sections 12 to 15][217] of the Flags, Emblems, and Names Protection Act 1981\.
     
-    Section 107: replaced, on 1 January 1982, by [section 27(1)][216] of the Flags, Emblems, and Names Protection Act 1981 (1981 No 47).
+    Section 107: replaced, on 1 January 1982, by [section 27(1)][218] of the Flags, Emblems, and Names Protection Act 1981 (1981 No 47).
 
 ##### 108 Offences by companies
     
@@ -2482,7 +2512,7 @@ An Act to consolidate and amend certain enactments relating to patents
     
 *   \[Repealed\]
     
-    Section 109: repealed, on 1 April 1958, by [section 214(1)][217] of the Summary Proceedings Act 1957 (1957 No 87).
+    Section 109: repealed, on 1 April 1958, by [section 214(1)][219] of the Summary Proceedings Act 1957 (1957 No 87).
 
 #### Miscellaneous
 
@@ -2556,9 +2586,9 @@ An Act to consolidate and amend certain enactments relating to patents
     
     Compare: 1921--22 No 18, s 138; Patents Act 1949 s 94 (UK)
     
-    Section 114(2)(l): inserted, on 1 December 1992, by [section 9][218] of the Patents Amendment Act 1992 (1992 No 81).
+    Section 114(2)(l): inserted, on 1 December 1992, by [section 9][220] of the Patents Amendment Act 1992 (1992 No 81).
     
-    Section 114(3): repealed, on 19 December 1989, by [section 11][219] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 114(3): repealed, on 19 December 1989, by [section 11][221] of the Regulations (Disallowance) Act 1989 (1989 No 143).
 
 ##### 115 Fees
     
@@ -2574,11 +2604,11 @@ An Act to consolidate and amend certain enactments relating to patents
     
     Compare: 1921--22 No 18 s 117; Patents Act 1949 s 99 (UK)
     
-    Section 115(1): amended (with effect on 1 July 1989), on 26 July 1989, by [section 86(1)][220] of the Public Finance Act 1989 (1989 No 44).
+    Section 115(1): amended (with effect on 1 July 1989), on 26 July 1989, by [section 86(1)][222] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 115(2): amended (with effect on 1 July 1989), on 26 July 1989, by [section 86(1)][220] of the Public Finance Act 1989 (1989 No 44).
+    Section 115(2): amended (with effect on 1 July 1989), on 26 July 1989, by [section 86(1)][222] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 115(3): inserted, on 1 December 1992, by [section 10][221] of the Patents Amendment Act 1992 (1992 No 81).
+    Section 115(3): inserted, on 1 December 1992, by [section 10][223] of the Patents Amendment Act 1992 (1992 No 81).
 
 ##### 116 Annual report of Commissioner
     
@@ -2588,7 +2618,7 @@ An Act to consolidate and amend certain enactments relating to patents
     
     (3) The Minister shall lay a copy of the report before the House of Representatives within 28 sitting days of receiving it.
     
-    Section 116: replaced, on 19 August 1992, by [section 11(1)][222] of the Patents Amendment Act 1992 (1992 No 81).
+    Section 116: replaced, on 19 August 1992, by [section 11(1)][224] of the Patents Amendment Act 1992 (1992 No 81).
 
 ##### 117 Saving for Royal prerogative, etc
     
@@ -2602,9 +2632,9 @@ An Act to consolidate and amend certain enactments relating to patents
     
 *   This Act shall be in force in Tokelau.
     
-    Section 118 heading: amended, on 9 December 1976, pursuant to [section 3(8)][223] of the Tokelau Amendment Act 1976 (1976 No 122).
+    Section 118 heading: amended, on 9 December 1976, pursuant to [section 3(8)][225] of the Tokelau Amendment Act 1976 (1976 No 122).
     
-    Section 118: amended, on 9 December 1976, pursuant to [section 3(8)][223] of the Tokelau Amendment Act 1976 (1976 No 122).
+    Section 118: amended, on 9 December 1976, pursuant to [section 3(8)][225] of the Tokelau Amendment Act 1976 (1976 No 122).
 
 ##### 119 Repeals and savings
     
@@ -2689,103 +2719,55 @@ Transitional provisions
 
 [s 119(3)(b)][155]
 
-##### 1
-    
-*   Subject to the provisions of this schedule, any Order in Council, regulation, order, requirement, certificate, notice, decision, direction, authorisation, consent, application, request, or thing made, issued, given, or done under any enactment repealed by this Act shall, if in force at the commencement of this Act, and so far as it could have been made, issued, given, or done under this Act, continue in force and have effect as if made, issued, given, or done under the corresponding enactment of this Act.
+*   1 Subject to the provisions of this schedule, any Order in Council, regulation, order, requirement, certificate, notice, decision, direction, authorisation, consent, application, request, or thing made, issued, given, or done under any enactment repealed by this Act shall, if in force at the commencement of this Act, and so far as it could have been made, issued, given, or done under this Act, continue in force and have effect as if made, issued, given, or done under the corresponding enactment of this Act.
 
-##### 2
-    
-*   [Section 11][14] shall apply in relation to a complete specification filed before the commencement of this Act as it applies to a complete specification filed after the commencement of this Act:
+*   2 Section 11 shall apply in relation to a complete specification filed before the commencement of this Act as it applies to a complete specification filed after the commencement of this Act:
     
     provided that for the purposes of the said [section 11][14] a claim of any such specification filed after a provisional specification shall be deemed to be fairly based on the matter disclosed in the provisional specification unless the claim is for a further invention or an invention different from that contained in the provisional specification.
 
-##### 3
-    
-*   Notwithstanding anything in subsection (2) of section 9, a complete specification shall not be filed in pursuance of an application which, by virtue of section 7 of the Patents, Designs, and Trade Marks Act 1921--22 was deemed to be abandoned at any time before the commencement of this Act.
+*   3 Notwithstanding anything in subsection (2) of section 9, a complete specification shall not be filed in pursuance of an application which, by virtue of section 7 of the Patents, Designs, and Trade Marks Act 1921--22 was deemed to be abandoned at any time before the commencement of this Act.
 
-##### 4
-    
-*   Where a complete specification has been filed before the commencement of this Act but has not been accepted, then, in relation to matters arising before the acceptance or refusal of acceptance of the complete specification, the provisions of this Act shall not apply, but the provisions of the Patents, Designs, and Trade Marks Act 1921--22 shall continue to apply, notwithstanding the repeal thereof.
+*   4 Where a complete specification has been filed before the commencement of this Act but has not been accepted, then, in relation to matters arising before the acceptance or refusal of acceptance of the complete specification, the provisions of this Act shall not apply, but the provisions of the Patents, Designs, and Trade Marks Act 1921--22 shall continue to apply, notwithstanding the repeal thereof.
 
-##### 5
-    
-*   The provisions of [sections 21][24] and [42][58] relating to the grounds on which the grant of a patent may be opposed or on which a patent may be revoked by the Commissioner shall not apply in any case where the complete specification was accepted before the commencement of this Act, but the provisions of the Patents, Designs, and Trade Marks Act 1921--22, relating to those matters shall continue to apply in any such case notwithstanding the repeal thereof.
+*   5 The provisions of sections 21 and 42 relating to the grounds on which the grant of a patent may be opposed or on which a patent may be revoked by the Commissioner shall not apply in any case where the complete specification was accepted before the commencement of this Act, but the provisions of the Patents, Designs, and Trade Marks Act 1921--22, relating to those matters shall continue to apply in any such case notwithstanding the repeal thereof.
 
-##### 6
-    
-*   The power of the Commissioner under [section 22][25] to refuse the grant of a patent unless the complete specification is amended to his satisfaction shall not be exercisable in relation to any complete specification which was accepted before the commencement of this Act.
+*   6 The power of the Commissioner under section 22 to refuse the grant of a patent unless the complete specification is amended to his satisfaction shall not be exercisable in relation to any complete specification which was accepted before the commencement of this Act.
 
-##### 7
-    
-*   The provisions of [section 62][85] shall apply in relation to any application for a patent made before the commencement of this Act as they apply in relation to such an application made after the commencement of this Act.
+*   7 The provisions of section 62 shall apply in relation to any application for a patent made before the commencement of this Act as they apply in relation to such an application made after the commencement of this Act.
 
-##### 8
-    
-*   Where, in relation to any invention, the time for giving notice to the Commissioner under section 50 of the Patents, Designs, and Trade Marks Act 1921--22 expired before the commencement of this Act and the notice was not given, subsections (2) and (4) of [section 60][83] of this Act shall not apply in relation to that invention or any patent for that invention.
+*   8 Where, in relation to any invention, the time for giving notice to the Commissioner under section 50 of the Patents, Designs, and Trade Marks Act 1921--22 expired before the commencement of this Act and the notice was not given, subsections (2) and (4) of section 60 of this Act shall not apply in relation to that invention or any patent for that invention.
 
-##### 9
-    
-*   In relation to a complete specification which was accepted before the commencement of this Act, this Act shall have effect as if for the words ""the date of the publication"", wherever those words occur, there were substituted the words ""the date of the acceptance"".
+*   9 In relation to a complete specification which was accepted before the commencement of this Act, this Act shall have effect as if for the words the date of the publication, wherever those words occur, there were substituted the words the date of the acceptance.
 
-##### 10
-    
-*   Where a specification filed before the commencement of this Act has become open to public inspection, it shall continue to be open to public inspection notwithstanding anything in [section 91][121].
+*   10 Where a specification filed before the commencement of this Act has become open to public inspection, it shall continue to be open to public inspection notwithstanding anything in section 91\.
 
-##### 11
-    
-*   Where a specification which, before the commencement of this Act, has become open to public inspection under paragraph (a) of subsection (3) of section 144 of the Patents, Designs, and Trade Marks Act 1921--22, the proviso to subsection (7) of section 55 of the Patents, Designs, and Trade Marks Amendment Act 1939, or section 5 of the Patents, Designs, and Trade Marks Amendment Act 1946 has been amended before acceptance, nothing in subsection (2) of [section 40][55] of this Act shall be construed as authorising reference to be made, in construing the specification, to the specification as it subsisted before acceptance.
+*   11 Where a specification which, before the commencement of this Act, has become open to public inspection under paragraph (a) of subsection (3) of section 144 of the Patents, Designs, and Trade Marks Act 1921--22, the proviso to subsection (7) of section 55 of the Patents, Designs, and Trade Marks Amendment Act 1939, or section 5 of the Patents, Designs, and Trade Marks Amendment Act 1946 has been amended before acceptance, nothing in subsection (2) of section 40 of this Act shall be construed as authorising reference to be made, in construing the specification, to the specification as it subsisted before acceptance.
 
-##### 12
-    
-*   Where 2 or more persons are registered as grantee or proprietor in respect of a patent which was granted or for which application was made before the commencement of this Act, the right of each of those persons to assign the whole or part of his interest in the patent shall not be restricted by reason only of the provisions of [section 63][87].
+*   12 Where 2 or more persons are registered as grantee or proprietor in respect of a patent which was granted or for which application was made before the commencement of this Act, the right of each of those persons to assign the whole or part of his interest in the patent shall not be restricted by reason only of the provisions of section 63\.
 
-##### 13
-    
-*   A condition of any contract in force immediately before the commencement of this Act shall not be invalidated by reason only of the provisions of [section 66][90].
+*   13 A condition of any contract in force immediately before the commencement of this Act shall not be invalidated by reason only of the provisions of section 66\.
 
-##### 14
-    
-*   Notwithstanding the repeal of section 44 of the Patents, Designs, and Trade Marks Act 1921--22, subsection (1A) of that section, as set out in section 67 of the Patents, Designs, and Trade Marks Act 1939, shall continue to apply in any case where the complete specification was filed before the commencement of this Act.
+*   14 Notwithstanding the repeal of section 44 of the Patents, Designs, and Trade Marks Act 1921--22, subsection (1A) of that section, as set out in section 67 of the Patents, Designs, and Trade Marks Act 1939, shall continue to apply in any case where the complete specification was filed before the commencement of this Act.
 
-##### 15
-    
-*   Subsections (1) and (3) of [section 30][43] shall not apply to any patent granted before the commencement of this Act.
+*   15 Subsections (1) and (3) of section 30 shall not apply to any patent granted before the commencement of this Act.
 
-##### 16
-    
-*   Subsection (1) of [section 34][47] shall apply in relation to any application made before the commencement of this Act as it applies in relation to an application made after the commencement of this Act.
+*   16 Subsection (1) of section 34 shall apply in relation to any application made before the commencement of this Act as it applies in relation to an application made after the commencement of this Act.
 
-##### 17
-    
-*   [Section 35][49] shall have effect, in relation to a patent which has ceased to have effect before the commencement of this Act, as if for the reference to [section 30][43] there were substituted a reference to section 19 of the Patents, Designs, and Trade Marks Act 1921--22\.
+*   17 Section 35 shall have effect, in relation to a patent which has ceased to have effect before the commencement of this Act, as if for the reference to section 30 there were substituted a reference to section 19 of the Patents, Designs, and Trade Marks Act 1921--22\.
 
-##### 18
-    
-*   Where the time allowed under section 59 of the Patents, Designs, and Trade Marks Amendment Act 1939 for the sealing of a patent has expired before the commencement of this Act and the patent has not been sealed, [section 36][50] of this Act shall have effect in relation to the application for the patent as if for the reference to [section 27][40] of this Act there were substituted a reference to section 59 of the Patents, Designs, and Trade Marks Amendment Act 1939\.
+*   18 Where the time allowed under section 59 of the Patents, Designs, and Trade Marks Amendment Act 1939 for the sealing of a patent has expired before the commencement of this Act and the patent has not been sealed, section 36 of this Act shall have effect in relation to the application for the patent as if for the reference to section 27 of this Act there were substituted a reference to section 59 of the Patents, Designs, and Trade Marks Amendment Act 1939\.
 
-##### 19
-    
-*   Where the time allowed under section 72 of the Patents, Designs, and Trade Marks Amendment Act 1939 for the acceptance of a complete specification has expired before the commencement of this Act and the complete specification has not been accepted, [section 37][51] of this Act shall have effect in relation to the application for the patent as if for every reference to [section 19][22] or [section 93][123] of this Act there were substituted a reference to section 72 of the Patents, Designs, and Trade Marks Amendment Act 1939\.
+*   19 Where the time allowed under section 72 of the Patents, Designs, and Trade Marks Amendment Act 1939 for the acceptance of a complete specification has expired before the commencement of this Act and the complete specification has not been accepted, section 37 of this Act shall have effect in relation to the application for the patent as if for every reference to section 19 or section 93 of this Act there were substituted a reference to section 72 of the Patents, Designs, and Trade Marks Amendment Act 1939\.
 
-##### 20
-    
-*   In relation to any proceedings pending at the commencement of this Act the provisions of [sections 39][54] and [71][98] shall not apply, but the provisions of section 24 of the Patents, Designs, and Trade Marks Act 1921--22 and of subsection (2) of section 64 of the Patents, Designs, and Trade Marks Amendment Act 1939 shall continue to apply notwithstanding the repeal of those enactments.
+*   20 In relation to any proceedings pending at the commencement of this Act the provisions of sections 39 and 71 shall not apply, but the provisions of section 24 of the Patents, Designs, and Trade Marks Act 1921--22 and of subsection (2) of section 64 of the Patents, Designs, and Trade Marks Amendment Act 1939 shall continue to apply notwithstanding the repeal of those enactments.
 
-##### 21
-    
-*   [Section 72][99] shall not apply in relation to any infringement of a patent committed before the commencement of this Act.
+*   21 Section 72 shall not apply in relation to any infringement of a patent committed before the commencement of this Act.
 
-##### 22
-    
-*   Nothing in this Act shall affect the term of any patent granted before the commencement of this Act.
+*   22 Nothing in this Act shall affect the term of any patent granted before the commencement of this Act.
 
-##### 23
-    
-*   Any document referring to any enactment repealed by this Act shall be construed as referring to the corresponding enactment of this Act.
+*   23 Any document referring to any enactment repealed by this Act shall be construed as referring to the corresponding enactment of this Act.
 
-##### 24
-    
-*   Where any application or proceeding under the regulations revoked by [Schedule 2][157] has been filed or commenced before the commencement of this Act, or where any application or proceeding could (if those regulations remained in force) be filed or commenced after the commencement of this Act and be accorded a date before the commencement of this Act, the application or proceeding may be filed, commenced, continued, and completed as if the said regulations continued in force. Any patent granted before or after the commencement of this Act with an extension under regulation 8 of the Patents, Designs, Trade Marks, and Copyright Emergency Regulations 1940 shall be subject to the conditions which would be imposed by that regulation if it continued in force.
+*   24 Where any application or proceeding under the regulations revoked by Schedule 2 has been filed or commenced before the commencement of this Act, or where any application or proceeding could (if those regulations remained in force) be filed or commenced after the commencement of this Act and be accorded a date before the commencement of this Act, the application or proceeding may be filed, commenced, continued, and completed as if the said regulations continued in force. Any patent granted before or after the commencement of this Act with an extension under regulation 8 of the Patents, Designs, Trade Marks, and Copyright Emergency Regulations 1940 shall be subject to the conditions which would be imposed by that regulation if it continued in force.
 
 ---
 
@@ -2828,13 +2810,13 @@ Have concluded the present Treaty.
 
 ## Introduction Provisions
 
-### Article 1 Establishment of a Union
+### Article 1---Establishment of a Union
     
 *   (1) The States party to this Treaty (hereinafter called ""the Contracting States"") constitute a Union for cooperation in the filing, searching, and examination, of applications for the protection of inventions, and for rendering special technical services. The Union shall be known as the International Patent Cooperation Union.
 
 *   (2) No provision of this Treaty shall be interpreted as diminishing the rights under the Paris Convention for the Protection of Industrial Property of any national or resident of any country party to that Convention.
 
-### Article 2 Definitions
+### Article 2---Definitions
 
 For the purposes of this Treaty and the Regulations and unless expressly stated otherwise:
     
@@ -2889,7 +2871,7 @@ For the purposes of this Treaty and the Regulations and unless expressly stated 
 ## Chapter I  
 International Application and International Search
 
-### Article 3 The International Application
+### Article 3---The International Application
     
 *   (1) Applications for the protection of inventions in any of the Contracting States may be filed as international applications under this Treaty.
 
@@ -2909,7 +2891,7 @@ International Application and International Search
     
     
 
-### Article 4 The Request
+### Article 4---The Request
     
 *   (1) The request shall contain:
         
@@ -2931,15 +2913,15 @@ International Application and International Search
 
 *   (4) Failure to indicate in the request the name and other prescribed data concerning the inventor shall have no consequence in any designated State whose national law requires the furnishing of the said indications but allows that they be furnished at a time later than that of the filing of a national application. Failure to furnish the said indications in a separate notice shall have no consequence in any designated State whose national law does not require the furnishing of the said indications.
 
-### Article 5 The Description
+### Article 5---The Description
 
 The description shall disclose the invention in a manner sufficiently clear and complete for the invention to be carried out by a person skilled in the art.
 
-### Article 6 The Claims
+### Article 6---The Claims
 
 The claim or claims shall define the matter for which protection is sought. Claims shall be clear and concise. They shall be fully supported by the description.
 
-### Article 7 The Drawings
+### Article 7---The Drawings
     
 *   (1) Subject to the provisions of paragraph (2)(ii), drawings shall be required when they are necessary for the understanding of the invention.
 
@@ -2951,7 +2933,7 @@ The claim or claims shall define the matter for which protection is sought. Clai
     
     
 
-### Article 8 Claiming Priority
+### Article 8---Claiming Priority
     
 *   (1) The international application may contain a declaration, as prescribed in the Regulations, claiming the priority of one or more earlier applications filed in or for any country party to the Paris Convention for the Protection of Industrial Property.
 
@@ -2959,7 +2941,7 @@ The claim or claims shall define the matter for which protection is sought. Clai
 
 *   (b) The international application for which the priority of one or more earlier applications filed in or for a Contracting State is claimed may contain the designation of that State. Where, in the international application, the priority of one or more national applications filed in or for a designated State is claimed, or where the priority of an international application having designated only one State is claimed, the conditions for, and the effect of, the priority claim in that State shall be governed by the national law of that State.
 
-### Article 9 The Applicant
+### Article 9---The Applicant
     
 *   (1) Any resident or national of a Contracting State may file an international application.
 
@@ -2967,11 +2949,11 @@ The claim or claims shall define the matter for which protection is sought. Clai
 
 *   (3) The concepts of residence and nationality, and the application of those concepts in cases where there are several applicants or where the applicants are not the same for all the designated States, are defined in the Regulations.
 
-### Article 10 The Receiving Office
+### Article 10---The Receiving Office
 
 The international application shall be filed with the prescribed receiving Office, which will check and process it as provided in this Treaty and the Regulations.
 
-### Article 11 Filing Date and Effects of the International Application
+### Article 11---Filing Date and Effects of the International Application
     
 *   (1) The receiving Office shall accord as the international filing date the date of receipt of the international application, provided that that Office has found that, at the time of receipt:
         
@@ -3003,7 +2985,7 @@ The international application shall be filed with the prescribed receiving Offic
 
 *   (4) Any international application fulfilling the requirements listed in items (i) to (iii) of paragraph (1) shall be equivalent to a regular national filing within the meaning of the Paris Convention for the Protection of Industrial Property.
 
-### Article 12 Transmittal of the International Application to the International Bureau and the International Searching Authority
+### Article 12---Transmittal of the International Application to the International Bureau and the International Searching Authority
     
 *   (1) One copy of the international application shall be kept by the receiving Office (""home copy""), one copy (""record copy"") shall be transmitted to the International Bureau, and another copy (""search copy"") shall be transmitted to the competent International Searching Authority referred to in Article 16, as provided in the Regulations.
 
@@ -3011,7 +2993,7 @@ The international application shall be filed with the prescribed receiving Offic
 
 *   (3) The international application shall be considered withdrawn if the record copy has not been received by the International Bureau within the prescribed time limit.
 
-### Article 13 Availability of Copy of the International Application to Designated Offices
+### Article 13---Availability of Copy of the International Application to Designated Offices
     
 *   (1) Any designated Office may ask the International Bureau to transmit to it a copy of the international application prior to the communication provided for in Article 20, and the International Bureau shall transmit such copy to the designated Office as soon as possible after the expiration of one year from the priority date.
 
@@ -3021,7 +3003,7 @@ The international application shall be filed with the prescribed receiving Offic
 
 *   (c) Any national Office may notify the International Bureau that it does not wish to receive copies as provided for in subparagraph (b), in which case that subparagraph shall not be applicable in respect of that Office.
 
-### Article 14 Certain Defects in the International Application
+### Article 14---Certain Defects in the International Application
     
 *   (1)(a) The receiving Office shall check whether the international application contains any of the following defects, that is to say:
         
@@ -3047,7 +3029,7 @@ The international application shall be filed with the prescribed receiving Offic
 
 *   (4) If, after having accorded an international filing date to the international application, the receiving Office finds, within the prescribed time limit, that any of the requirements listed in items (i) to (iii) of Article 11(1) was not complied with at that date, the said application shall be considered withdrawn and the receiving Office shall so declare.
 
-### Article 15 The International Search
+### Article 15---The International Search
     
 *   (1) Each international application shall be the subject of international search.
 
@@ -3063,7 +3045,7 @@ The international application shall be filed with the prescribed receiving Offic
 
 *   (c) The international-type search shall be carried out by the International Searching Authority referred to in Article 16 which would be competent for an international search if the national application were an international application and were filed with the Office referred to in subparagraphs (a) and (b). If the national application is in a language which the International Searching Authority considers it is not equipped to handle, the international-type search shall be carried out on a translation prepared by the applicant in a language prescribed for international applications and which the International Searching Authority has undertaken to accept for international applications. The national application and the translation, when required, shall be presented in the form prescribed for international applications.
 
-### Article 16 The International Searching Authority
+### Article 16---The International Searching Authority
     
 *   (1) International search shall be carried out by an International Searching Authority, which may be either a national Office or an intergovernmental organization, such as the International Patent Institute, whose tasks include the establishing of documentary search reports on prior art with respect to inventions which are the subject of applications.
 
@@ -3079,7 +3061,7 @@ The international application shall be filed with the prescribed receiving Offic
 
 *   (e) Before the Assembly makes a decision on the appointment of any national Office or intergovernmental organization, or on the extension of its appointment, or before it allows any such appointment to lapse, the Assembly shall hear the interested Office or organization and seek the advice of the Committee for Technical Cooperation referred to in Article 56 once that Committee has been established.
 
-### Article 17 Procedure before the International Searching Authority
+### Article 17---Procedure before the International Searching Authority
     
 *   (1) Procedure before the International Searching Authority shall be governed by the provisions of this Treaty, the Regulations, and the agreement which the International Bureau shall conclude, subject to this Treaty and the Regulations, with the said Authority.
 
@@ -3097,7 +3079,7 @@ The international application shall be filed with the prescribed receiving Offic
 
 *   (b) The national law of any designated State may provide that, where the national Office of that State finds the invitation, referred to in subparagraph (a), of the International Searching Authority justified and where the applicant has not paid all additional fees, those parts of the international application which consequently have not been searched shall, as far as effects in that State are concerned, be considered withdrawn unless a special fee is paid by the applicant to the national Office of that State.
 
-### Article 18 The International Search Report
+### Article 18---The International Search Report
     
 *   (1) The international search report shall be established within the prescribed time limit and in the prescribed form.
 
@@ -3105,7 +3087,7 @@ The international application shall be filed with the prescribed receiving Offic
 
 *   (3) The international search report or the declaration referred to in Article 17(2)(a) shall be translated as provided in the Regulations. The translations shall be prepared by or under the responsibility of the International Bureau.
 
-### Article 19 Amendment of the Claims before the International Bureau
+### Article 19---Amendment of the Claims before the International Bureau
     
 *   (1) The applicant shall, after having received the international search report, be entitled to one opportunity to amend the claims of the international application by filing amendments with the International Bureau within the prescribed time limit. He may, at the same time, file a brief statement, as provided in the Regulations, explaining the amendments and indicating any impact that such amendments might have on the description and the drawings.
 
@@ -3113,7 +3095,7 @@ The international application shall be filed with the prescribed receiving Offic
 
 *   (3) If the national law of any designated State permits amendments to go beyond the said disclosure, failure to comply with paragraph (2) shall have no consequence in that State.
 
-### Article 20 Communication to Designated Offices
+### Article 20---Communication to Designated Offices
     
 *   (1)(a) The international application, together with the international search report (including any indication referred to in Article 17(2)(b)) or the declaration referred to in Article 17(2)(a), shall be communicated to each designated Office, as provided in the Regulations, unless the designated Office waives such requirement in its entirety or in part.
 
@@ -3123,7 +3105,7 @@ The international application shall be filed with the prescribed receiving Offic
 
 *   (3) At the request of the designated Office or the applicant, the International Searching Authority shall send to the said Office or the applicant, respectively, copies of the documents cited in the international search report, as provided in the Regulations.
 
-### Article 21 International Publication
+### Article 21---International Publication
     
 *   (1) The International Bureau shall publish international applications.
 
@@ -3139,7 +3121,7 @@ The international application shall be filed with the prescribed receiving Offic
 
 *   (6) If the international application contains expressions or drawings which, in the opinion of the International Bureau, are contrary to morality or public order, or if, in its opinion, the international application contains disparaging statements as defined in the Regulations, it may omit such expressions, drawings, and statements, from its publications, indicating the place and number of words or drawings omitted, and furnishing, upon request, individual copies of the passages omitted.
 
-### Article 22 Copy, Translation, and Fee, to Designated Offices
+### Article 22---Copy, Translation, and Fee, to Designated Offices
     
 *   (1) The applicant shall furnish a copy of the international application (unless the communication provided for in Article 20 has already taken place) and a translation thereof (as prescribed), and pay the national fee (if any), to each designated Office not later than at the expiration of 20 months from the priority date. Where the national law of the designated State requires the indication of the name of and other prescribed data concerning the inventor but allows that these indications be furnished at a time later than that of the filing of a national application, the applicant shall, unless they were contained in the request, furnish the said indications to the national Office of or acting for the State not later than at the expiration of 20 months from the priority date.
 
@@ -3147,13 +3129,13 @@ The international application shall be filed with the prescribed receiving Offic
 
 *   (3) Any national law may, for performing the acts referred to in paragraphs (1) or (2), fix time limits which expire later than the time limit provided for in those paragraphs.
 
-### Article 23 Delaying of National Procedure
+### Article 23---Delaying of National Procedure
     
 *   (1) No designated Office shall process or examine the international application prior to the expiration of the applicable time limit under Article 22\.
 
 *   (2) Notwithstanding the provisions of paragraph (1), any designated Office may, on the express request of the applicant, process or examine the international application at any time.
 
-### Article 24 Possible Loss of Effect in Designated States
+### Article 24---Possible Loss of Effect in Designated States
     
 *   (1) Subject, in case (ii) below, to the provisions of Article 25, the effect of the international application provided for in Article 11(3) shall cease in any designated State with the same consequences as the withdrawal of any national application in that State:
         
@@ -3167,7 +3149,7 @@ The international application shall be filed with the prescribed receiving Offic
 
 *   (2) Notwithstanding the provisions of paragraph (1), any designated Office may maintain the effect provided for in Article 11(3) even where such effect is not required to be maintained by virtue of Article 25(2).
 
-### Article 25 Review by Designated Offices
+### Article 25---Review by Designated Offices
     
 *   (1)(a) Where the receiving Office has refused to accord an international filing date or has declared that the international application is considered withdrawn, or where the International Bureau has made a finding under Article 12(3), the International Bureau shall promptly send, at the request of the applicant, copies of any document in the file to any of the designated Offices named by the applicant.
 
@@ -3179,11 +3161,11 @@ The international application shall be filed with the prescribed receiving Offic
 
 *   (b) Where the record copy has reached the International Bureau after the expiration of the time limit prescribed under Article 12(3) on account of any error or omission on the part of the applicant, the provisions of subparagraph (a) shall apply only under the circumstances referred to in Article 48(2).
 
-### Article 26 Opportunity to Correct before Designated Offices
+### Article 26---Opportunity to Correct before Designated Offices
 
 No designated Office shall reject an international application on the grounds of non-compliance with the requirements of this Treaty and the Regulations without first giving the applicant the opportunity to correct the said application to the extent and according to the procedure provided by the national law for the same or comparable situations in respect of national applications.
 
-### Article 27 National Requirements
+### Article 27---National Requirements
     
 *   (1) No national law shall require compliance with requirements relating to the form or contents of the international application different from or additional to those which are provided for in this Treaty and the Regulations.
 
@@ -3207,7 +3189,7 @@ No designated Office shall reject an international application on the grounds of
 
 *   (8) Nothing in this Treaty and the Regulations is intended to be construed as limiting the freedom of any Contracting State to apply measures deemed necessary for the preservation of its national security or to limit, for the protection of the general economic interests of that State, the right of its own residents or nationals to file international applications.
 
-### Article 28 Amendment of the Claims, the Description, and the Drawings, before Designated Offices
+### Article 28---Amendment of the Claims, the Description, and the Drawings, before Designated Offices
     
 *   (1) The applicant shall be given the opportunity to amend the claims, the description, and the drawings, before each designated Office within the prescribed time limit. No designated Office shall grant a patent, or refuse the grant of a patent, before such time limit has expired except with the express consent of the applicant.
 
@@ -3217,7 +3199,7 @@ No designated Office shall reject an international application on the grounds of
 
 *   (4) Where the designated Office requires a translation of the international application, the amendments shall be in the language of the translation.
 
-### Article 29 Effects of the International Publication
+### Article 29---Effects of the International Publication
     
 *   (1) As far as the protection of any rights of the applicant in a designated State is concerned, the effects, in that State, of the international publication of an international application shall, subject to the provisions of paragraphs (2) to (4), be the same as those which the national law of the designated State provides for the compulsory national publication of unexamined national applications as such.
 
@@ -3237,7 +3219,7 @@ No designated Office shall reject an international application on the grounds of
 
 *   (4) The national law of any designated State may provide that the effects provided for in paragraph (1) shall be applicable only from the date on which a copy of the international application as published under Article 21 has been received in the national Office of or acting for such State. The said Office shall publish the date of receipt in its gazette as soon as possible.
 
-### Article 30 Confidential Nature of the International Application
+### Article 30---Confidential Nature of the International Application
     
 *   (1)(a) Subject to the provisions of subparagraph (b), the International Bureau and the International Searching Authorities shall not allow access by any person or authority to the international application before the international publication of that application, unless requested or authorized by the applicant.
 
@@ -3264,7 +3246,7 @@ No designated Office shall reject an international application on the grounds of
 ## Chapter II  
 International Preliminary Examination
 
-### Article 31 Demand for International Preliminary Examination
+### Article 31---Demand for International Preliminary Examination
     
 *   (1) On the demand of the applicant, his international application shall be the subject of an international preliminary examination as provided in the following provisions and the Regulations.
 
@@ -3286,7 +3268,7 @@ International Preliminary Examination
 
 *   (7) Each elected Office shall be notified of its election.
 
-### Article 32 The International Preliminary Examining Authority
+### Article 32---The International Preliminary Examining Authority
     
 *   (1) International preliminary examination shall be carried out by the International Preliminary Examining Authority.
 
@@ -3294,7 +3276,7 @@ International Preliminary Examination
 
 *   (3) The provisions of Article 16(3) shall apply, _murtatis mutandis_, in respect of International Preliminary Examining Authorities.
 
-### Article 33 The International Preliminary Examination
+### Article 33---The International Preliminary Examination
     
 *   (1) The objective of the international preliminary examination is to formulate a preliminary and non-binding opinion on the questions whether the claimed invention appears to be novel, to involve an inventive step (to be non-obvious), and to be industrially applicable.
 
@@ -3308,7 +3290,7 @@ International Preliminary Examination
 
 *   (6) The international preliminary examination shall take into consideration all the documents cited in the international search report. It may take into consideration any additional documents considered to be relevant in the particular case.
 
-### Article 34 Procedure before the International Preliminary Examining Authority
+### Article 34---Procedure before the International Preliminary Examining Authority
     
 *   (1) Procedure before the International Preliminary Examining Authority shall be governed by the provisions of this Treaty, the Regulations, and the agreement which the International Bureau shall conclude, subject to this Treaty and the Regulations, with the said Authority.
 
@@ -3344,7 +3326,7 @@ International Preliminary Examination
 
 *   (b) If any of the situations referred to in subparagraph (a) is found to exist in, or in connection with, certain claims only, the provisions of that subparagraph shall apply only to the said claims.
 
-### Article 35 The International Preliminary Examination Report
+### Article 35---The International Preliminary Examination Report
     
 *   (1) The international preliminary examination report shall be established within the prescribed time limit and in the prescribed form.
 
@@ -3354,7 +3336,7 @@ International Preliminary Examination
 
 *   (b) If a situation under Article 34(4)(b) is found to exist, the international preliminary examination report shall, in relation to the claims in question, contain the statement as provided in subparagraph (a), whereas, in relation to the other claims, it shall contain the statement as provided in paragraph (2).
 
-### Article 36 Transmittal, Translation, and Communication, of the International Preliminary Examination Report
+### Article 36---Transmittal, Translation, and Communication, of the International Preliminary Examination Report
     
 *   (1) The international preliminary examination report, together with the prescribed annexes, shall be transmitted to the applicant and to the International Bureau.
 
@@ -3368,7 +3350,7 @@ International Preliminary Examination
 
 *   (4) The provisions of Article 20(3) shall apply, _mutatis mutandis_, to copies of any document which is cited in the international preliminary examination report and which was not cited in the international search report.
 
-### Article 37 Withdrawal of Demand or Election
+### Article 37---Withdrawal of Demand or Election
     
 *   (1) The applicant may withdraw any or all elections.
 
@@ -3382,13 +3364,13 @@ International Preliminary Examination
 
 *   (b) Withdrawal of the demand or of the election shall not be considered to be withdrawal of the international application if such withdrawal is effected prior to the expiration of the applicable time limit under Article 22; however, any Contracting State may provide in its national law that the aforesaid shall apply only if its national Office has received, within the said time limit, a copy of the international application, together with a translation (as prescribed), and the national fee.
 
-### Article 38 Confidential Nature of the International Preliminary Examination
+### Article 38---Confidential Nature of the International Preliminary Examination
     
 *   (1) Neither the International Bureau nor the International Preliminary Examining Authority shall, unless requested or authorized by the applicant, allow access within the meaning, and with the proviso, of Article 30(4) to the file of the international preliminary examination by any person or authority at any time, except by the elected Offices once the international preliminary examination report has been established.
 
 *   (2) Subject to the provisions of paragraph (1) and Articles 36(1) and (3) and 37(3)(b), neither the International Bureau nor the International Preliminary Examining Authority shall, unless requested or authorized by the applicant, give information on the issuance or non-issuance of an international preliminary examination report and on the withdrawal or nonwithdrawal of the demand or of any election.
 
-### Article 39 Copy, Translation, and Fee, to Elected Offices
+### Article 39---Copy, Translation, and Fee, to Elected Offices
     
 *   (1)(a) If the election of any Contracting State has been effected prior to the expiration of the 19th month from the priority date, the provisions of Article 22 shall not apply to such State and the applicant shall furnish a copy of the international application (unless the communication under Article 20 has already taken place) and a translation thereof (as prescribed), and pay the national fee (if any), to each elected Office not later than at the expiration of 30 months from the priority date.
 
@@ -3398,13 +3380,13 @@ International Preliminary Examination
 
 *   (3) Any elected Office may maintain the effect provided for in Article 11(3) even where the applicant does not comply with the requirements provided for in paragraph (1)(a) or (b).
 
-### Article 40 Delaying of National Examination and Other Processing
+### Article 40---Delaying of National Examination and Other Processing
     
 *   (1) If the election of any Contracting State has been effected prior to the expiration of the 19th month from the priority date, the provisions of Article 23 shall not apply to such State and the national Office of or acting for that State shall not proceed, subject to the provisions of paragraph (2), to the examination and other processing of the international application prior to the expiration of the applicable time limit under Article 39\.
 
 *   (2) Notwithstanding the provisions of paragraph (1), any elected Office may, on the express request of the applicant, proceed to the examination and other processing of the international application at any time.
 
-### Article 41 Amendment of the Claims, the Description, and the Drawings, before Elected Offices
+### Article 41---Amendment of the Claims, the Description, and the Drawings, before Elected Offices
     
 *   (1) The applicant shall be given the opportunity to amend the claims, the description, and the drawings, before each elected Office within the prescribed time limit. No elected Office shall grant a patent, or refuse the grant of a patent, before such time limit has expired, except with the express consent of the applicant.
 
@@ -3414,32 +3396,32 @@ International Preliminary Examination
 
 *   (4) Where an elected Office requires a translation of the international application, the amendments shall be in the language of the translation.
 
-### Article 42 Results of National Examination in Elected Offices
+### Article 42---Results of National Examination in Elected Offices
 
 No elected Office receiving the international preliminary examination report may require that the applicant furnish copies, or information on the contents, of any papers connected with the examination relating to the same international application in any other elected Office.
 
 ## Chapter III  
 Common Provisions
 
-### Article 43 Seeking Certain Kinds of Protection
+### Article 43---Seeking Certain Kinds of Protection
 
 In respect of any designated or elected State whose law provides for the grant of inventors' certificates, utility certificates, utility models, patents or certificates of addition, inventors' certificates of addition, or utility certificates of addition, the applicant may indicate, as prescribed in the Regulations, that his international application is for the grant, as far as that State is concerned, of an inventor's certificate, a utility certificate, or a utility model, rather than a patent, or that it is for the grant of a patent or certificate of addition, an inventor's certificate of addition, or a utility certificate of addition, and the ensuing effect shall be governed by the applicant's choice. For the purposes of this Article and any Rule thereunder, Article 2(ii) shall not apply.
 
-### Article 44 Seeking Two Kinds of Protection
+### Article 44---Seeking Two Kinds of Protection
 
 In respect of any designated or elected State whose law permits an application, while being for the grant of a patent or one of the other kinds of protection referred to in Article 43, to be also for the grant of another of the said kinds of protection, the applicant may indicate, as prescribed in the Regulations, the two kinds of protection he is seeking, and the ensuing effect shall be governed by the applicant's indications. For the purposes of this Article, Article 2(ii) shall not apply.
 
-### Article 45 Regional Patent Treaties
+### Article 45---Regional Patent Treaties
     
 *   (1) Any treaty providing for the grant of regional patents (""regional patent treaty""), and giving to all persons who, according to Article 9, are entitled to file international applications the right to file applications for such patents, may provide that international applications designating or electing a State party to both the regional patent treaty and the present Treaty may be filed as applications for such patents.
 
 *   (2) The national law of the said designated or elected State may provide that any designation or election of such State in the international application shall have the effect of an indication of the wish to obtain a regional patent under the regional patent treaty.
 
-### Article 46 Incorrect Translation of the International Application
+### Article 46---Incorrect Translation of the International Application
 
 If, because of an incorrect translation of the international application, the scope of any patent granted on that application exceeds the scope of the international application in its original language, the competent authorities of the Contracting State concerned may accordingly and retroactively limit the scope of the patent, and declare it null and void to the extent that its scope has exceeded the scope of the international application in its original language.
 
-### Article 47 Time Limits
+### Article 47---Time Limits
     
 *   (1) The details for computing time limits referred to in this Treaty are governed by the Regulations.
 
@@ -3449,7 +3431,7 @@ If, because of an incorrect translation of the international application, the sc
 
 *   (c) The details of the procedure are governed by the Regulations.
 
-### Article 48 Delay in Meeting Certain Time Limits
+### Article 48---Delay in Meeting Certain Time Limits
     
 *   (1) Where any time limit fixed in this Treaty or the Regulations is not met because of interruption in the mail service or unavoidable loss or delay in the mail, the time limit shall be deemed to be met in the cases and subject to the proof and other conditions prescribed in the Regulations.
 
@@ -3457,14 +3439,14 @@ If, because of an incorrect translation of the international application, the sc
 
 *   (b) Any Contracting State may, as far as that State is concerned, excuse, for reasons other than those referred to in subparagraph (a), any delay in meeting any time limit.
 
-### Article 49 Right to Practice before International Authorities
+### Article 49---Right to Practice before International Authorities
 
 Any attorney, patent agent, or other person, having the right to practice before the national Office with which the international application was filed, shall be entitled to practice before the International Bureau and the competent International Searching Authority and competent International Preliminary Examining Authority in respect of that application.
 
 ## Chapter IV  
 Technical Services
 
-### Article 50 Patent Information Services
+### Article 50---Patent Information Services
     
 *   (1) The International Bureau may furnish services by providing technical and any other pertinent information available to it on the basis of published documents, primarily patents and published applications (referred to in this Article as ""the information services"").
 
@@ -3482,7 +3464,7 @@ Technical Services
 
 *   (7) The Assembly shall, when it considers it necessary, recommend methods of providing financing supplementary to those referred to in paragraph (5).
 
-### Article 51 Technical Assistance
+### Article 51---Technical Assistance
     
 *   (1) The Assembly shall establish a Committee for Technical Assistance (referred to in this Article as ""the Committee"").
 
@@ -3498,14 +3480,14 @@ Technical Services
 
 *   (5) The details concerning the implementation of the provisions of this Article shall be governed by decisions of the Assembly and, within the limits to be fixed by the Assembly, such working groups as the Assembly may set up for that purpose.
 
-### Article 52 Relations with Other Provisions of the Treaty
+### Article 52---Relations with Other Provisions of the Treaty
 
 Nothing in this Chapter shall affect the financial provisions contained in any other Chapter of this Treaty. Such provisions are not applicable to the present Chapter or to its implementation.
 
 ## Chapter V  
 Administrative Provisions
 
-### Article 53 Assembly
+### Article 53---Assembly
     
 *   (1)(a) The Assembly shall, subject to Article 57(8), consist of the Contracting States.
 
@@ -3523,7 +3505,7 @@ Administrative Provisions
     
     *   (v) review and approve the reports and activities of the Executive Committee established under paragraph (9), and give instructions to such Committee;
     
-    *   (vi) determine the program and adopt the triennial[1][224] budget of the Union, and approve its final accounts;
+    *   (vi) determine the program and adopt the triennial[1][226] budget of the Union, and approve its final accounts;
     
     *   (vii) adopt the financial regulations of the Union;
     
@@ -3555,7 +3537,7 @@ Administrative Provisions
 
 *   (9) When the number of Contracting States exceeds forty, the Assembly shall establish an Executive Committee. Any reference to the Executive Committee in this Treaty and the Regulations shall be construed as references to such Committee once it has been established.
 
-*   (10) Until the Executive Committee has been established, the Assembly shall approve, within the limits of the program and triennial budget, the annual programs and budgets prepared by the Director General.[2][225]
+*   (10) Until the Executive Committee has been established, the Assembly shall approve, within the limits of the program and triennial budget, the annual programs and budgets prepared by the Director General.[2][227]
 
 *   (11)(a) The Assembly shall meet in every second calendar year in ordinary session upon convocation by the Director General and, in the absence of exceptional circumstances, during the same period and at the same place as the General Assembly of the Organization.
 
@@ -3563,7 +3545,7 @@ Administrative Provisions
 
 *   (12) The Assembly shall adopt its own rules of procedure.
 
-### Article 54 Executive Committee
+### Article 54---Executive Committee
     
 *   (1) When the Assembly has established an Executive Committee, that Committee shall be subject to the provisions set forth hereinafter.
 
@@ -3617,7 +3599,7 @@ Administrative Provisions
 
 *   (10) The Executive Committee shall adopt its own rules of procedure.
 
-### Article 55 International Bureau
+### Article 55---International Bureau
     
 *   (1) Administrative tasks concerning the Union shall be performed by the International Bureau.
 
@@ -3639,7 +3621,7 @@ Administrative Provisions
 
 *   (8) The International Bureau shall carry out any other tasks assigned to it.
 
-### Article 56 Committee for Technical Cooperation
+### Article 56---Committee for Technical Cooperation
     
 *   (1) The Assembly shall establish a Committee for Technical Cooperation (referred to in this Article as ""the Committee"").
 
@@ -3673,7 +3655,7 @@ Administrative Provisions
 
 *   (8) The details of the procedure of the Committee shall be governed by the decisions of the Assembly.
 
-### Article 57 Finances
+### Article 57---Finances
     
 *   (1)(a) The Union shall have a budget.
 
@@ -3723,7 +3705,7 @@ Administrative Provisions
 
 *   (9) The auditing of the accounts shall be effected by one or more of the Contracting States or by external auditors, as provided in the financial regulations. They shall be designated, with their agreement, by the Assembly.
 
-### Article 58 Regulations
+### Article 58---Regulations
     
 *   (1) The Regulations annexed to this Treaty provide Rules:
         
@@ -3758,14 +3740,14 @@ Administrative Provisions
 ## Chapter VI  
 Disputes
 
-### Article 59 Disputes
+### Article 59---Disputes
 
 Subject to Article 64(5), any dispute between two or more Contracting States concerning the interpretation or application of this Treaty or the Regulations, not settled by negotiation, may, by any one of the States concerned, be brought before the International Court of Justice by application in conformity with the Statute of the Court, unless the States concerned agree on some other method of settlement. The Contracting State bringing the dispute before the Court shall inform the International Bureau; the International Bureau shall bring the matter to the attention of the other Contracting States.
 
 ## Chapter VII  
 Revision and Amendment
 
-### Article 60 Revision of the Treaty
+### Article 60---Revision of the Treaty
     
 *   (1) This Treaty may be revised from time to time by a special conference of the Contracting States.
 
@@ -3775,7 +3757,7 @@ Revision and Amendment
 
 *   (4) Articles 53(5), (9) and (11), 54, 55(4) to (8), 56, and 57, may be amended either by a revision conference or according to the provisions of Article 61\.
 
-### Article 61 Amendment of Certain Provisions of the Treaty
+### Article 61---Amendment of Certain Provisions of the Treaty
     
 *   (1)(a) Proposals for the amendment of Articles 53(5), (9) and (11), 54, 55(4) to (8), 56, and 57, may be initiated by any State member of the Assembly, by the Executive Committee, or by the Director General.
 
@@ -3794,7 +3776,7 @@ Revision and Amendment
 ## Chapter VIII  
 Final Provisions
 
-### Article 62 Becoming Party to the Treaty
+### Article 62---Becoming Party to the Treaty
     
 *   (1) Any State member of the International Union for the Protection of Industrial Property may become party to this Treaty by:
         
@@ -3810,7 +3792,7 @@ Final Provisions
 
 *   (4) Paragraph (3) shall in no way be understood as implying the recognition or tacit acceptance by a Contracting State of the factual situation concerning a territory to which this Treaty is made applicable by another Contracting State by virtue of the said paragraph.
 
-### Article 63 Entry into Force of the Treaty
+### Article 63---Entry into Force of the Treaty
     
 *   (1)(a) Subject to the provisions of paragraph (3), this Treaty shall enter into force three months after eight States have deposited their instruments of ratification of accession, provided that at least four of those States each fulfill any of the following conditions:
         
@@ -3828,7 +3810,7 @@ Final Provisions
 
 *   (3) The provisions of Chapter II and the corresponding provisions of the Regulations annexed to this Treaty shall become applicable, however, only on the date on which three States each of which fulfill at least one of the three requirements specified in paragraph (1) have become party to this Treaty without declaring, as provided in Article 64(1), that they do not intend to be bound by the provisions of Chapter II. That date shall not, however, be prior to that of the initial entry into force under paragraph (1).
 
-### Article 64 Reservations
+### Article 64---Reservations
     
 *   (1)(a) Any State may declare that it shall not be bound by the provisions of Chapter II.
 
@@ -3870,19 +3852,19 @@ Final Provisions
 
 *   (7) No reservations to this Treaty other than the reservations under paragraphs (1) to (5) are permitted.
 
-### Article 65 Gradual Application
+### Article 65---Gradual Application
     
 *   (1) If the agreement with any International Searching or Preliminary Examining Authority provides, transitionally, for limits on the number or kind of international applications that such Authority undertakes to process, the Assembly shall adopt the measures necessary for the gradual application of this Treaty and the Regulations in respect of given categories of international applications. This provision shall also apply to requests for an international-type search under Article 15(5).
 
 *   (2) The Assembly shall fix the dates from which, subject to the provision of paragraph (1), international applications may be filed and demands for international preliminary examination may be submitted. Such dates shall not be later than six months after this Treaty has entered into force according to the provisions of Article 63(1), or after Chapter II has become applicable under Article 63(3), respectively.
 
-### Article 66 Denunciation
+### Article 66---Denunciation
     
 *   (1) Any Contracting State may denounce this Treaty by notification addressed to the Director General.
 
 *   (2) Denunciation shall take effect six months after receipt of the said notification by the Director General. It shall not affect the effects of the international application in the denouncing State if the international application was filed, and, where the denouncing State has been elected, the election was made, prior to the expiration of the said six-month period.
 
-### Article 67 Signature and Languages
+### Article 67---Signature and Languages
     
 *   (1)(a) This Treaty shall be signed in a single original in the English and French languages, both texts being equally authentic.
 
@@ -3890,7 +3872,7 @@ Final Provisions
 
 *   (2) This Treaty shall remain open for signature at Washington until December 31, 1970\.
 
-### Article 68 Depositary Functions
+### Article 68---Depositary Functions
     
 *   (1) The original of this Treaty, when no longer open for signature, shall be deposited with the Director General.
 
@@ -3900,7 +3882,7 @@ Final Provisions
 
 *   (4) The Director General shall transmit two copies, certified by him, of any amendment to this Treaty and the Regulations to the Governments of all Contracting States and, on request, to the Government of any other State.
 
-### Article 69 Notifications
+### Article 69---Notifications
 
 The Director General shall notify the Governments of all States party to the Paris Convention for the Protection of Industrial Property of:
     
@@ -3926,7 +3908,7 @@ s 2
 ## Part A  
 Introductory Rules
 
-### Rule 1 Abbreviated Expressions
+### Rule 1---Abbreviated Expressions
 
 ##### 1.1 Meaning of Abbreviated Expressions
     
@@ -3934,7 +3916,7 @@ Introductory Rules
 
 *   (b) In these Regulations, the words ""Chapter"" and ""Article"" refer to the specified Chapter or Article of the Treaty.
 
-### Rule 2 Interpretation of Certain Words
+### Rule 2---Interpretation of Certain Words
 
 ##### 2.1 ""Applicant""
 
@@ -3955,7 +3937,7 @@ Whenever the word ""signature"" is used, it shall be understood that, if the nat
 ## Part B  
 Rules Concerning Chapter I of the Treaty
 
-### Rule 3 The Request (Form)
+### Rule 3---The Request (Form)
 
 ##### 3.1 Form of Request
 
@@ -3983,7 +3965,7 @@ Copies of the printed form shall be furnished free of charge to the applicants b
 
 Subject to Rule 3.3, particulars of the printed request form and of a request presented as a computer print-out shall be prescribed by the Administrative Instructions.
 
-### Rule 4 The Request (Contents)
+### Rule 4---The Request (Contents)
 
 ##### 4.1 Mandatory and Optional Contents; Signature
     
@@ -4159,7 +4141,7 @@ If the applicant wishes his international application to be treated, in any desi
 
 *   (b) If the request contains matter other than that specified in Rules 4.1 to 4.16 or permitted under paragraph (a) by the Administrative Instructions, the receiving Office shall _ex officio_ delete the additional matter.
 
-### Rule 5 The Description
+### Rule 5---The Description
 
 ##### 5.1 Manner of the Description
     
@@ -4187,7 +4169,7 @@ If the applicant wishes his international application to be treated, in any desi
 
 Where the international application contains disclosure of a nucleotide and/or amino acid sequence, the description shall contain a listing of the sequence complying with the standard prescribed by the Administrative Instructions.
 
-### Rule 6 The Claims
+### Rule 6---The Claims
 
 ##### 6.1 Number and Numbering of Claims
     
@@ -4229,7 +4211,7 @@ Where the international application contains disclosure of a nucleotide and/or a
 
 Any designated State in which the grant of a utility model is sought on the basis of an international application may, instead of Rules 6.1 to 6.4, apply in respect of the matters regulated in those Rules the provisions of its national law concerning utility models once the processing of the international application has started in that State, provided that the applicant shall be allowed at least two months from the expiration of the time limit applicable under Article 22 to adapt his application to the requirements of the said provisions of the national law.
 
-### Rule 7 The Drawings
+### Rule 7---The Drawings
 
 ##### 7.1 Flow Sheets and Diagrams
 
@@ -4239,7 +4221,7 @@ Flow sheets and diagrams are considered drawings.
 
 The time limit referred to in Article 7(2)(ii) shall be reasonable under the circumstances of the case and shall, in no case, be shorter than two months from the date of the written invitation requiring the filing of drawings or additional drawings under the said provision.
 
-### Rule 8 The Abstract
+### Rule 8---The Abstract
 
 ##### 8.1 Contents and Form of the Abstract
     
@@ -4267,7 +4249,7 @@ The time limit referred to in Article 7(2)(ii) shall be reasonable under the cir
 
 The abstract shall be so drafted that it can efficiently serve as a scanning tool for purposes of searching in the particular art, especially by assisting the scientist, engineer or researcher in formulating an opinion on whether there is a need for consulting the international application itself.
 
-### Rule 9 Expressions, Etc., Not to Be Used
+### Rule 9---Expressions, Etc., Not to Be Used
 
 ##### 9.1 Definition
 
@@ -4289,7 +4271,7 @@ The receiving Office and the International Searching Authority may note lack of 
 
 ""Disparaging statements,"" referred to in Article 21(6), shall have the meaning as defined in Rule 9.1(iii).
 
-### Rule 10 Terminology and Signs
+### Rule 10---Terminology and Signs
 
 ##### 10.1 Terminology and Signs
     
@@ -4309,7 +4291,7 @@ The receiving Office and the International Searching Authority may note lack of 
 
 The terminology and the signs shall be consistent throughout the international application.
 
-### Rule 11 Physical Requirements of the International Application
+### Rule 11---Physical Requirements of the International Application
 
 ##### 11.1 Number of Copies
     
@@ -4454,7 +4436,7 @@ Each sheet shall be reasonably free from erasures and shall be free from alterat
 
 Rules 10, and 11.1 to 11.13, also apply to any document --- for example, corrected pages, amended claims --- submitted after the filing of the international application.
 
-### Rule 12 Language of the International Application
+### Rule 12---Language of the International Application
 
 ##### 12.1 Admitted Languages
     
@@ -4478,7 +4460,7 @@ Rules 10, and 11.1 to 11.13, also apply to any document --- for example, correct
 
 Any changes in the international application, such as amendments and corrections, shall, subject to Rules 46.3 and 66.9, be in the same language as the said application.
 
-### Rule 13 Unity of Invention
+### Rule 13---Unity of Invention
 
 ##### 13.1 Requirement
 
@@ -4500,7 +4482,7 @@ Subject to Rule 13.1, it shall be permitted to include in the same international
 
 Any designated State in which the grant of a utility model is sought on the basis of an international application may, instead of Rules 13.1 to 13.4, apply in respect of the matters regulated in those Rules the provisions of its national law concerning utility models once the processing of the international application has started in that State, provided that the applicant shall be allowed at least two months from the expiration of the time limit applicable under Article 22 to adapt his application to the requirements of the said provisions of the national law.
 
-### Rule 13bis Microbiological Inventions
+### Rule 13bis---Microbiological Inventions
 
 ##### 13_bis_.1 Definition
 
@@ -4558,7 +4540,7 @@ If any of the indications referred to in Rule 13_bis_.3(a) is not included in a 
 
 *   (c) The International Bureau shall promptly publish in the Gazette requirements notified to it under paragraph (a) and information notified to it under paragraph (b).
 
-### Rule 13ter Nucleotide and/or Amino Acid Sequence Listings
+### Rule 13ter---Nucleotide and/or Amino Acid Sequence Listings
 
 ##### 13_ter_.1 Sequence Listing for International Authorities
     
@@ -4592,7 +4574,7 @@ If any of the indications referred to in Rule 13_bis_.3(a) is not included in a 
     
     
 
-### Rule 14 The Transmittal Fee
+### Rule 14---The Transmittal Fee
 
 ##### 14.1 The Transmittal Fee
     
@@ -4600,7 +4582,7 @@ If any of the indications referred to in Rule 13_bis_.3(a) is not included in a 
 
 *   (b) The amount and the due date of the transmittal fee, if any, shall be fixed by the receiving Office.
 
-### Rule 15 The International Fee
+### Rule 15---The International Fee
 
 ##### 15.1 Basic Fee and Designation Fee
 
@@ -4658,7 +4640,7 @@ The receiving Office shall refund the international fee to the applicant:
 
 *   (ii) if, before the transmittal of the record copy to the International Bureau, the international application is withdrawn or considered withdrawn.
 
-### Rule 16 The Search Fee
+### Rule 16---The Search Fee
 
 ##### 16.1 Right to Ask for a Fee
     
@@ -4686,7 +4668,7 @@ The receiving Office shall refund the search fee to the applicant:
 
 Where the international application claims the priority of an earlier international application which has been the subject of an international search by the same International Searching Authority, that Authority shall refund the search fee paid in connection with the later international application to the extent and under the conditions provided for in the agreement under Article 16(3)(b), if the international search report on the later international application could wholly or partly be based on the results of the international search effected on the earlier international application.
 
-### Rule 16bis Extension of Time Limits for Payment of Fees
+### Rule 16bis---Extension of Time Limits for Payment of Fees
 
 ##### 16_bis_.1 Invitation by the Receiving Office
     
@@ -4716,7 +4698,7 @@ Where the international application claims the priority of an earlier internatio
 
 *   (b) The amount of the late payment fee shall not, however, exceed the amount of the basic fee.
 
-### Rule 17 The Priority Document
+### Rule 17---The Priority Document
 
 ##### 17.1 Obligation to Submit Copy of Earlier National Application
     
@@ -4744,7 +4726,7 @@ Where the international application claims the priority of an earlier internatio
 
 *   (d) Paragraphs (a) to (c) shall apply also to any earlier international application whose priority is claimed in the subsequent international application.
 
-### Rule 18 The Applicant
+### Rule 18---The Applicant
 
 ##### 18.1 Residence
     
@@ -4770,7 +4752,7 @@ If there are two or more applicants, the right to file an international applicat
 
 *   (c) The International Bureau shall, from time to time, publish information on the various national laws in respect of the question who is qualified (inventor, successor in title of the inventor, owner of the invention, or other) to file a national application and shall accompany such information by a warning that the effect of the international application in any designated State may depend on whether the person designated in the international application as applicant for the purposes of that State is a person who, under the national law of that State, is qualified to file a national application.
 
-### Rule 19 The Competent Receiving Office
+### Rule 19---The Competent Receiving Office
 
 ##### 19.1 Where to File
     
@@ -4790,7 +4772,7 @@ If there are two or more applicants, the requirements of Rule 19.1 shall be cons
 
 *   (b) The International Bureau shall, promptly upon receipt, publish the notification in the Gazette.
 
-### Rule 20 Receipt of the International Application
+### Rule 20---Receipt of the International Application
 
 ##### 20.1 Date and Number
     
@@ -4862,7 +4844,7 @@ If the receiving Office later discovers, or on the basis of the applicant's repl
 
 Against payment of a fee, the receiving Office shall furnish to the applicant, on request, certified copies of the international application as filed and of any corrections thereto.
 
-### Rule 21 Preparation of Copies
+### Rule 21---Preparation of Copies
 
 ##### 21.1 Responsibility of the Receiving Office
     
@@ -4872,7 +4854,7 @@ Against payment of a fee, the receiving Office shall furnish to the applicant, o
 
 *   (c) If the international application is filed in less than the number of copies required under Rule 11.1(b), the receiving Office shall be responsible for the prompt preparation of the number of copies required, and shall have the right to fix a fee for performing that task and to collect such fee from the applicant.
 
-### Rule 22 Transmittal of the Record Copy
+### Rule 22---Transmittal of the Record Copy
 
 ##### 22.1 Procedure
     
@@ -4904,7 +4886,7 @@ Against payment of a fee, the receiving Office shall furnish to the applicant, o
 
 The time limit referred to in Article 12(3) shall be three months from the date of the notification sent by the International Bureau to the applicant under Rule 22.1(c) or (g).
 
-### Rule 23 Transmittal of the Search Copy
+### Rule 23---Transmittal of the Search Copy
 
 ##### 23.1 Procedure
     
@@ -4912,7 +4894,7 @@ The time limit referred to in Article 12(3) shall be three months from the date 
 
 *   (b) _\[Deleted\]_
 
-### Rule 24 Receipt of the Record Copy by the International Bureau
+### Rule 24---Receipt of the Record Copy by the International Bureau
 
 ##### 24.1 _\[Deleted\]_
 
@@ -4938,13 +4920,13 @@ The time limit referred to in Article 12(3) shall be three months from the date 
 
 *   (c) If the record copy is received after the expiration of the time limit fixed in Rule 22.3, the International Bureau shall promptly notify the applicant, the receiving Office, and the International Searching Authority, accordingly.
 
-### Rule 25 Receipt of the Search Copy by the International Searching Authority
+### Rule 25---Receipt of the Search Copy by the International Searching Authority
 
 ##### 25.1 Notification of Receipt of the Search Copy
 
 The International Searching Authority shall promptly notify the International Bureau, the applicant, and --- unless the International Searching Authority is the same as the receiving Office --- the receiving Office, of the fact and the date of receipt of the search copy.
 
-### Rule 26 Checking by, and Correcting before, the Receiving Office of Certain Elements of the International Application
+### Rule 26---Checking by, and Correcting before, the Receiving Office of Certain Elements of the International Application
 
 ##### 26.1 Time Limit for Check
     
@@ -4988,7 +4970,7 @@ The receiving Office shall not be required to issue the invitation to correct a 
 
 *   (b) The date on which the applicant receives the notification provided for in Article 14(2) shall have no effect on the time limit fixed under Rule 20.2(a)(iii).
 
-### Rule 27 Lack of Payment of Fees
+### Rule 27---Lack of Payment of Fees
 
 ##### 27.1 Fees
     
@@ -4996,7 +4978,7 @@ The receiving Office shall not be required to issue the invitation to correct a 
 
 *   (b) For the purposes of Article 14(3)(a) and (b), ""the fee prescribed under Article 4(2)"" means the designation fee part of the international fee (Rule 15.1(ii)) and, where required, the late payment fee (Rule 16_bis_.2).
 
-### Rule 28 Defects Noted by the International Bureau
+### Rule 28---Defects Noted by the International Bureau
 
 ##### 28.1 Note on Certain Defects
     
@@ -5004,7 +4986,7 @@ The receiving Office shall not be required to issue the invitation to correct a 
 
 *   (b) The receiving Office shall, unless it disagrees with the said opinion, proceed as provided in Article 14(1)(b) and Rule 26\.
 
-### Rule 29 International Applications or Designations Considered Withdrawn under Article 14(1), (3) or (4)
+### Rule 29---International Applications or Designations Considered Withdrawn under Article 14(1), (3) or (4)
 
 ##### 29.1 Finding by Receiving Office
     
@@ -5032,13 +5014,13 @@ If the International Bureau or the International Searching Authority considers t
 
 Before the receiving Office issues any declaration under Article 14(4), it shall notify the applicant of its intent to issue such declaration and the reasons therefor. The applicant may, if he disagrees with the tentative finding of the receiving Office, submit arguments to that effect within one month from the notification.
 
-### Rule 30 Time Limit under Article 14(4)
+### Rule 30---Time Limit under Article 14(4)
 
 ##### 30.1 Time Limit
 
 The time limit referred to in Article 14(4) shall be four months from the international filing date.
 
-### Rule 31 Copies Required under Article 13
+### Rule 31---Copies Required under Article 13
 
 ##### 31.1 Request for Copies
     
@@ -5058,7 +5040,7 @@ _\[Deleted\]_
 
 _\[Deleted\]_
 
-### Rule 33 Relevant Prior Art for the International Search
+### Rule 33---Relevant Prior Art for the International Search
 
 ##### 33.1 Relevant Prior Art for the International Search
     
@@ -5084,7 +5066,7 @@ _\[Deleted\]_
 
 *   (b) In so far as possible and reasonable, the international search shall cover the entire subject matter to which the claims are directed or to which they might reasonably be expected to be directed after they have been amended.
 
-### Rule 34 Minimum Documentation
+### Rule 34---Minimum Documentation
 
 ##### 34.1 Definition
     
@@ -5122,7 +5104,7 @@ _\[Deleted\]_
 
 *   (f) For the purposes of this Rule, applications which have only been laid open for public inspection are not considered published applications.
 
-### Rule 35 The Competent International Searching Authority
+### Rule 35---The Competent International Searching Authority
 
 ##### 35.1 When Only One International Searching Authority is Competent
 
@@ -5140,7 +5122,7 @@ Each receiving Office shall, in accordance with the terms of the applicable agre
 
 *   (b) Any receiving Office availing itself of the faculty provided in paragraph (a) shall promptly inform the International Bureau, and the International Bureau shall promptly publish such information.
 
-### Rule 36 Minimum Requirements for International Searching Authorities
+### Rule 36---Minimum Requirements for International Searching Authorities
 
 ##### 36.1 Definition of Minimum Requirements
 
@@ -5152,7 +5134,7 @@ The minimum requirements referred to in Article 16(3)(c) shall be the following:
 
 *   (iii) that Office or organization must have a staff which is capable of searching the required technical fields and which has the language facilities to understand at least those languages in which the minimum documentation referred to in Rule 34 is written or is translated.
 
-### Rule 37 Missing or Defective Title
+### Rule 37---Missing or Defective Title
 
 ##### 37.1 Lack of Title
 
@@ -5162,7 +5144,7 @@ If the international application does not contain a title and the receiving Offi
 
 If the international application does not contain a title and the International Searching Authority has not received a notification from the receiving Office to the effect that the applicant has been invited to furnish a title, or if the said Authority finds that the title does not comply with Rule 4.3, it shall itself establish a title.
 
-### Rule 38 Missing or Defective Abstract
+### Rule 38---Missing or Defective Abstract
 
 ##### 38.1 Lack of Abstract
 
@@ -5174,7 +5156,7 @@ If the international application does not contain an abstract and the receiving 
 
 *   (b) The applicant may, within one month from the date of mailing of the international search report, submit comments on the abstract established by the International Searching Authority. Where that Authority amends the abstract established by it, it shall notify the amendment to the International Bureau.
 
-### Rule 39 Subject Matter under Article 17(2)(a)(i)
+### Rule 39---Subject Matter under Article 17(2)(a)(i)
 
 ##### 39.1 Definition
 
@@ -5192,7 +5174,7 @@ No International Searching Authority shall be required to search an internationa
 
 *   (vi) computer programs to the extent that the International Searching Authority is not equipped to search prior art concerning such programs.
 
-### Rule 40 Lack of Unity of Invention (International Search)
+### Rule 40---Lack of Unity of Invention (International Search)
 
 ##### 40.1 Invitation to Pay
 
@@ -5214,19 +5196,19 @@ The invitation to pay additional fees provided for in Article 17(3)(a) shall spe
 
 The time limit provided for in Article 17(3)(a) shall be fixed, in each case, according to the circumstances of the case, by the International Searching Authority; it shall not be shorter than 15 or 30 days, respectively, depending on whether the applicant's address is in the same country as or in a different country from that in which the International Searching Authority is located, and it shall not be longer than 45 days, from the date of the invitation.
 
-### Rule 41 Earlier Search Other Than International Search
+### Rule 41---Earlier Search Other Than International Search
 
 ##### 41.1 Obligation to Use Results; Refund of Fee
 
 If reference has been made in the request, in the form provided for in Rule 4.11, to an international-type search carried out under the conditions set out in Article 15(5) or to a search other than an international or international-type search, the International Searching Authority shall, to the extent possible, use the results of the said search in establishing the international search report on the international application. The International Searching Authority shall refund the search fee, to the extent and under the conditions provided for in the agreement under Article 16(3)(b) or in a communication addressed to and published in the Gazette by the International Bureau, if the international search report could wholly or partly be based on the results of the said search.
 
-### Rule 42 Time Limit for International Search
+### Rule 42---Time Limit for International Search
 
 ##### 42.1 Time Limit for International Search
 
 The time limit for establishing the international search report or the declaration referred to in Article 17(2)(a) shall be three months from the receipt of the search copy by the International Searching Authority, or nine months from the priority date, whichever time limit expires later.
 
-### Rule 43 The International Search Report
+### Rule 43---The International Search Report
 
 ##### 43.1 Identifications
 
@@ -5282,7 +5264,7 @@ The international search report shall contain no matter other than that specifie
 
 The physical requirements as to the form of the international search report shall be prescribed by the Administrative Instructions.
 
-### Rule 44 Transmittal of the International Search Report, Etc.
+### Rule 44---Transmittal of the International Search Report, Etc.
 
 ##### 44.1 Copies of Report or Declaration
 
@@ -5306,13 +5288,13 @@ The International Searching Authority shall, on the same day, transmit one copy 
 
 *   (d) Any International Searching Authority may perform the obligations referred to in paragraphs (a) and (b) through another agency responsible to it.
 
-### Rule 45 Translation of the International Search Report
+### Rule 45---Translation of the International Search Report
 
 ##### 45.1 Languages
 
 International search reports and declarations referred to in Article 17(2)(a) shall, when not in English, be translated into English.
 
-### Rule 46 Amendment of Claims before the International Bureau
+### Rule 46---Amendment of Claims before the International Bureau
 
 ##### 46.1 Time Limit
 
@@ -5338,7 +5320,7 @@ If the international application has been filed in a language other than the lan
 
 *   (b) and (c) _\[Deleted\]_
 
-### Rule 47 Communication to Designated Offices
+### Rule 47---Communication to Designated Offices
 
 ##### 47.1 Procedure
     
@@ -5370,7 +5352,7 @@ The international application communicated under Article 20 shall be in the lang
 
 Where the applicant makes an express request to a designated Office under Article 23(2) before the communication provided for in Article 20 has taken place, the International Bureau shall, upon request of the applicant or the designated Office, promptly effect that communication to that Office.
 
-### Rule 48 International Publication
+### Rule 48---International Publication
 
 ##### 48.1 Form
     
@@ -5450,7 +5432,7 @@ Where the publication of the international application by the International Bure
 
 *   (c) If the international application, the designation of any designated State or the priority claim is withdrawn under Rule 90_bis_ after the technical preparations for international publication have been completed, notice of the withdrawal shall be published in the Gazette.
 
-### Rule 49 Copy, Translation and Fee under Article 22
+### Rule 49---Copy, Translation and Fee under Article 22
 
 ##### 49.1 Notification
     
@@ -5518,7 +5500,7 @@ No applicant shall be required to use a national form when performing the acts r
 
 *   (l) If, on July 12, 1991, paragraph (c_bis_) or paragraph (k) is not compatible with the national law applied by the designated Office, the paragraph concerned shall not apply to that designated Office for as long as it continues not to be compatible with that law, provided that the said Office informs the International Bureau accordingly by December 31, 1991\. The information received shall be promptly published by the International Bureau in the Gazette.
 
-### Rule 50 Faculty under Article 22(3)
+### Rule 50---Faculty under Article 22(3)
 
 ##### 50.1 Exercise of Faculty
     
@@ -5530,7 +5512,7 @@ No applicant shall be required to use a national form when performing the acts r
 
 *   (d) Notifications concerning the lengthening of the previously fixed time limit shall become effective upon publication by the International Bureau in the Gazette in respect of international applications pending at the time or filed after the date of such publication, or, if the Contracting State effecting the notification fixes some later date, as from the latter date.
 
-### Rule 51 Review by Designated Offices
+### Rule 51---Review by Designated Offices
 
 ##### 51.1 Time Limit for Presenting the Request to Send Copies
 
@@ -5544,7 +5526,7 @@ Where the applicant, after having received a negative determination under Articl
 
 The time limit referred to in Article 25(2)(a) shall expire at the same time as the time limit prescribed in Rule 51.1\.
 
-### Rule 51bis Certain National Requirements Allowed under Article 27(1), (2), (6) and (7)
+### Rule 51bis---Certain National Requirements Allowed under Article 27(1), (2), (6) and (7)
 
 ##### 51_bis_.1 Certain National Requirements Allowed
     
@@ -5582,7 +5564,7 @@ The time limit referred to in Article 25(2)(a) shall expire at the same time as 
 
 *   (b) The national law applicable by the designated Office may, in accordance with Article 27(2)(ii), require that the applicant, upon invitation by the designated Office, furnish a certification of the translation of the international application by a public authority or a sworn translator, if the designated Office deems such certification to be necessary under the circumstances, within a time limit which shall be reasonable under the circumstances and shall be fixed in the invitation.
 
-### Rule 52 Amendment of the Claims, the Description, and the Drawings, before Designated Offices
+### Rule 52---Amendment of the Claims, the Description, and the Drawings, before Designated Offices
 
 ##### 52.1 Time Limit
     
@@ -5593,7 +5575,7 @@ The time limit referred to in Article 25(2)(a) shall expire at the same time as 
 ## Part C  
 Rules Concerning Chapter II of the Treaty
 
-### Rule 53 The Demand
+### Rule 53---The Demand
 
 ##### 53.1 Form
     
@@ -5673,7 +5655,7 @@ The international application shall be identified by the name and address of the
 
 *   (c) If any amendments under Article 34 are submitted with the demand, the statement shall so indicate.
 
-### Rule 54 The Applicant Entitled to Make a Demand
+### Rule 54---The Applicant Entitled to Make a Demand
 
 ##### 54.1 Residence and Nationality
 
@@ -5695,13 +5677,13 @@ If there are two or more applicants, the right to make a demand under Article 31
 
 *   (b) _\[Deleted\]_
 
-### Rule 55 Languages (International Preliminary Examination)
+### Rule 55---Languages (International Preliminary Examination)
 
 ##### 55.1 The Demand
 
 The demand shall be in the language of the international application or, if the international application has been filed in a language other than the language in which it is published, in the language of publication.
 
-### Rule 56 Later Elections
+### Rule 56---Later Elections
 
 ##### 56.1 Elections Submitted Later Than the Demand
     
@@ -5739,7 +5721,7 @@ The notice effecting the later election shall preferably be worded as follows: "
 
 The later election shall be in the language of the demand.
 
-### Rule 57 The Handling Fee
+### Rule 57---The Handling Fee
 
 ##### 57.1 Requirement to Pay
     
@@ -5785,7 +5767,7 @@ The International Preliminary Examining Authority shall refund the handling fee 
 
 *   (ii) if the demand is considered, under Rule 54.4(a), not to have been submitted.
 
-### Rule 58 The Preliminary Examination Fee
+### Rule 58---The Preliminary Examination Fee
 
 ##### 58.1 Right to Ask for a Fee
     
@@ -5807,7 +5789,7 @@ The International Preliminary Examining Authority shall refund the handling fee 
 
 The International Preliminary Examining Authorities shall inform the International Bureau of the extent, if any, to which, and the conditions, if any, under which, they will refund any amount paid as a preliminary examination fee where the demand is considered as if it had not been submitted, and the International Bureau shall promptly publish such information.
 
-### Rule 59 The Competent International Preliminary Examining Authority
+### Rule 59---The Competent International Preliminary Examining Authority
 
 ##### 59.1 Demands under Article 31(2)(a)
 
@@ -5817,7 +5799,7 @@ For demands made under Article 31(2)(a), each receiving Office of or acting for 
 
 As to demands made under Article 31(2)(b), the Assembly, in specifying the International Preliminary Examining Authority competent for international applications filed with a national Office which is an International Preliminary Examining Authority, shall give preference to that Authority; if the national Office is not an International Preliminary Examining Authority, the Assembly shall give preference to the International Preliminary Examining Authority recommended by that Office.
 
-### Rule 60 Certain Defects in the Demand or Elections
+### Rule 60---Certain Defects in the Demand or Elections
 
 ##### 60.1 Defects in the Demand
     
@@ -5845,7 +5827,7 @@ As to demands made under Article 31(2)(b), the Assembly, in specifying the Inter
 
 *   (d) Where, in respect of an applicant for a certain elected State, the signature required under Rule 56.1(b) and (c) or the name or address is lacking after the expiration of the time limit under paragraph (a), the later election of that State shall be considered as if it had not been made.
 
-### Rule 61 Notification of the Demand and Elections
+### Rule 61---Notification of the Demand and Elections
 
 ##### 61.1 Notification to the International Bureau and the Applicant
     
@@ -5873,7 +5855,7 @@ The International Bureau shall inform the applicant in writing of the notificati
 
 Where a demand has been filed prior to the expiration of the 19th month from the priority date, the International Bureau shall publish a notice of that fact in the Gazette promptly after the filing of the demand, but not before the international publication of the international application. The notice shall indicate all designated States bound by Chapter II which have not been elected.
 
-### Rule 62 Copy of Amendments Under Article 19 for the International Preliminary Examining Authority
+### Rule 62---Copy of Amendments Under Article 19 for the International Preliminary Examining Authority
 
 ##### 62.1 Amendments Made before the Demand is Filed
 
@@ -5885,7 +5867,7 @@ Upon receipt of a demand from the International Preliminary Examining Authority,
 
 *   (b) _\[Deleted\]_
 
-### Rule 63 Minimum Requirements for International Preliminary Examining Authorities
+### Rule 63---Minimum Requirements for International Preliminary Examining Authorities
 
 ##### 63.1 Definition of Minimum Requirements
 
@@ -5897,7 +5879,7 @@ The minimum requirements referred to in Article 32(3) shall be the following:
 
 *   (iii) that Office or organization must have a staff which is capable of examining in the required technical fields and which has the language facilities to understand at least those languages in which the minimum documentation referred to in Rule 34 is written or is translated.
 
-### Rule 64 Prior Art for International Preliminary Examination
+### Rule 64---Prior Art for International Preliminary Examination
 
 ##### 64.1 Prior Art
     
@@ -5919,7 +5901,7 @@ In cases where the making available to the public occurred by means of an oral d
 
 In cases where any application or any patent which would constitute prior art for the purposes of Article 33(2) and (3) had it been published prior to the relevant date referred to in Rule 64.1 was published on a date which is the same as, or later than, the relevant date but was filed earlier than the relevant date or claimed the priority of an earlier application which had been filed prior to the relevant date, such published application or patent shall not be considered part of the prior art for the purposes of Article 33(2) and (3). Nevertheless, the international preliminary examination report shall call attention to such application or patent in the manner provided for in Rule 70.10\.
 
-### Rule 65 Inventive Step or Non-Obviousness
+### Rule 65---Inventive Step or Non-Obviousness
 
 ##### 65.1 Approach to Prior Art
 
@@ -5929,7 +5911,7 @@ For the purposes of Article 33(3), the international preliminary examination sha
 
 For the purposes of Article 33(3), the relevant date for the consideration of inventive step (non-obviousness) is the date prescribed in Rule 64.1\.
 
-### Rule 66 Procedure before the International Preliminary Examining Authority
+### Rule 66---Procedure before the International Preliminary Examining Authority
 
 ##### 66.1 Basis of the International Preliminary Examination
     
@@ -6009,7 +5991,7 @@ The International Preliminary Examining Authority may, at any time, communicate 
 
 If the international application has been filed in a language other than the language in which it is published, any amendment, as well as any letter referred to in Rule 66.8(a), shall be submitted in the language of publication.
 
-### Rule 67 Subject Matter under Article 34(4)(a)(i)
+### Rule 67---Subject Matter under Article 34(4)(a)(i)
 
 ##### 67.1 Definition
 
@@ -6027,7 +6009,7 @@ No International Preliminary Examining Authority shall be required to carry out 
 
 *   (vi) computer programs to the extent that the International Preliminary Examining Authority is not equipped to carry out an international preliminary examination concerning such programs.
 
-### Rule 68 Lack of Unity of Invention (International Preliminary Examination)
+### Rule 68---Lack of Unity of Invention (International Preliminary Examination)
 
 ##### 68.1 No Invitation to Restrict or Pay
 
@@ -6057,7 +6039,7 @@ If the applicant restricts the claims but not sufficiently to comply with the re
 
 In case of doubt which invention is the main invention for the purposes of Article 34(3)(c), the invention first mentioned in the claims shall be considered the main invention.
 
-### Rule 69 Start of and Time Limit for International Preliminary Examination
+### Rule 69---Start of and Time Limit for International Preliminary Examination
 
 ##### 69.1 Start of International Preliminary Examination
     
@@ -6087,7 +6069,7 @@ The time limit for establishing the international preliminary examination report
 
 *   (ii) nine months from the start of the international preliminary examination if the demand was filed after the expiration of 19 months from the priority date.
 
-### Rule 70 The International Preliminary Examination Report
+### Rule 70---The International Preliminary Examination Report
 
 ##### 70.1 Definition
 
@@ -6189,7 +6171,7 @@ Each replacement sheet under Rule 66.8(a) and each replacement sheet containing 
 
 *   (b) _\[Deleted\]_
 
-### Rule 71 Transmittal of the International Preliminary Examination Report
+### Rule 71---Transmittal of the International Preliminary Examination Report
 
 ##### 71.1 Recipients
 
@@ -6205,7 +6187,7 @@ The International Preliminary Examining Authority shall, on the same day, transm
 
 *   (d) Any International Preliminary Examining Authority may perform the obligations referred to in paragraphs (a) and (b) through another agency responsible to it.
 
-### Rule 72 Translation of the International Preliminary Examination Report
+### Rule 72---Translation of the International Preliminary Examination Report
 
 ##### 72.1 Languages
     
@@ -6221,7 +6203,7 @@ The International Bureau shall transmit a copy of the translation referred to in
 
 The applicant may make written observations on what, in his opinion, are errors of translation in the translation of the international preliminary examination report and shall send a copy of any such observations to each of the interested elected Offices and a copy to the International Bureau.
 
-### Rule 73 Communication of the International Preliminary Examination Report
+### Rule 73---Communication of the International Preliminary Examination Report
 
 ##### 73.1 Preparation of Copies
 
@@ -6231,7 +6213,7 @@ The International Bureau shall prepare the copies of the documents to be communi
 
 The communication provided for in Article 36(3)(a) shall be effected as promptly as possible but not earlier than the communication under Article 20\.
 
-### Rule 74 Translations of Annexes of the International Preliminary Examination Report and Transmittal Thereof
+### Rule 74---Translations of Annexes of the International Preliminary Examination Report and Transmittal Thereof
 
 ##### 74.1 Content of Translation and Time Limit for Transmittal Thereof
 
@@ -6241,7 +6223,7 @@ Where the furnishing of a translation of the international application is requir
 
 _\[Deleted\]_
 
-### Rule 76 Copy, Translation and Fee under Article 39(1); Translation of Priority Document
+### Rule 76---Copy, Translation and Fee under Article 39(1); Translation of Priority Document
 
 ##### 76.1, 76.2 and 76.3 _\[Deleted\]_
 
@@ -6265,7 +6247,7 @@ Rules 22.1(g), 49 and 51_bis_ shall apply, provided that:
 
 If, on July 12, 1991, Rule 76.5(iv) is not compatible with the national law applied by the elected Office in respect of claims amended under Article 19, Rule 76.5(iv) shall not apply in that respect to that elected Office for as long as it continues not to be compatible with that law, provided that the said Office informs the International Bureau accordingly by December 31, 1991\. The information received shall be promptly published by the International Bureau in the Gazette.
 
-### Rule 77 Faculty under Article 39(1)(b)
+### Rule 77---Faculty under Article 39(1)(b)
 
 ##### 77.1 Exercise of Faculty
     
@@ -6277,7 +6259,7 @@ If, on July 12, 1991, Rule 76.5(iv) is not compatible with the national law appl
 
 *   (d) Notifications concerning the lengthening of the previously fixed time limit shall become effective upon publication by the International Bureau in the Gazette in respect of demands pending at the time or submitted after the date of such publication, or, if the Contracting State effecting the notification fixes some later date, as from the latter date.
 
-### Rule 78 Amendment of the Claims, the Description, and the Drawings, before Elected Offices
+### Rule 78---Amendment of the Claims, the Description, and the Drawings, before Elected Offices
 
 ##### 78.1 Time Limit Where Election Is Effected prior to Expiration of 19 Months from Priority Date
     
@@ -6296,13 +6278,13 @@ The provisions of Rules 6.5 and 13.5 shall apply, _mutatis mutandis_, before ele
 ## Part D  
 Rules Concerning Chapter III of the Treaty
 
-### Rule 79 Calendar
+### Rule 79---Calendar
 
 ##### 79.1 Expressing Dates
 
 Applicants, national Offices, receiving Offices, International Searching and Preliminary Examining Authorities, and the International Bureau, shall, for the purposes of the Treaty and the Regulations, express any date in terms of the Christian era and the Gregorian calendar, or, if they use other eras and calendars, they shall also express any date in terms of the Christian era and the Gregorian calendar.
 
-### Rule 80 Computation of Time Limits
+### Rule 80---Computation of Time Limits
 
 ##### 80.1 Periods Expressed in Years
 
@@ -6338,7 +6320,7 @@ If the expiration of any period during which any document or fee must reach a na
 
 *   (b) Any Office or organization may depart from the provisions of paragraph (a) up to midnight on the relevant day.
 
-### Rule 81 Modification of Time Limits Fixed in the Treaty
+### Rule 81---Modification of Time Limits Fixed in the Treaty
 
 ##### 81.1 Proposal
     
@@ -6364,7 +6346,7 @@ If the expiration of any period during which any document or fee must reach a na
 
 *   (d) The proposal shall be considered adopted if none of the Contracting States opposes the amendment and if at least one-half of the Contracting States express either approval or indifference or abstention.
 
-### Rule 82 Irregularities in the Mail Service
+### Rule 82---Irregularities in the Mail Service
 
 ##### 82.1 Delay or Loss in Mail
     
@@ -6390,7 +6372,7 @@ If the expiration of any period during which any document or fee must reach a na
 
 *   (b) If such circumstances are proven to the satisfaction of the national Office or intergovernmental organization which is the addressee, delay in arrival shall be excused, provided that the interested party proves to the satisfaction of the said Office or organization that he effected the mailing within five days after the mail service was resumed. The provisions of Rule 82.1(c) shall apply _mutatis mutandis_.
 
-### Rule 82bis Excuse by the Designated or Elected State of Delays in Meeting Certain Time Limits
+### Rule 82bis---Excuse by the Designated or Elected State of Delays in Meeting Certain Time Limits
 
 ##### 82_bis_.1 Meaning of ""Time Limit"" in Article 48(2)
 
@@ -6406,13 +6388,13 @@ The reference to ""any time limit"" in Article 48(2) shall be construed as compr
 
 The provisions of the national law which is referred to in Article 48(2) concerning the excusing, by the designated or elected State, of any delay in meeting any time limit are those provisions which provide for reinstatement of rights, restoration, _restitutio in integrum_ or further processing in spite of non-compliance with a time limit, and any other provision providing for the extension of time limits or for excusing delays in meeting time limits.
 
-### Rule 82ter Rectification of Errors Made by the Receiving Office or by the International Bureau
+### Rule 82ter---Rectification of Errors Made by the Receiving Office or by the International Bureau
 
 ##### 82_ter_.1 Errors Concerning the International Filing Date and the Priority Claim
 
 If the applicant proves to the satisfaction of any designated or elected Office that the international filing date is incorrect due to an error made by the receiving Office or that the declaration made under Article 8(1) has been erroneously cancelled or corrected by the receiving Office or the International Bureau, and if the error is an error such that, had it been made by the designated or elected Office itself, that Office would rectify it under the national law or national practice, the said Office shall rectify the error and shall treat the international application as if it had been accorded the rectified international filing date or as if the declaration under Article 8(1) had not been cancelled or corrected, as the case may be.
 
-### Rule 83 Right to Practice before International Authorities
+### Rule 83---Right to Practice before International Authorities
 
 ##### 83.1 Proof of Right
 
@@ -6427,19 +6409,19 @@ The International Bureau, the competent International Searching Authority, and t
 ## Part E  
 Rules Concerning Chapter V of the Treaty
 
-### Rule 84 Expenses of Delegations
+### Rule 84---Expenses of Delegations
 
 ##### 84.1 Expenses Borne by Governments
 
 The expenses of each Delegation participating in any organ established by or under the Treaty shall be borne by the Government which has appointed it.
 
-### Rule 85 Absence of Quorum in the Assembly
+### Rule 85---Absence of Quorum in the Assembly
 
 ##### 85.1 Voting by Correspondence
 
 In the case provided for in Article 53(5)(b), the International Bureau shall communicate the decisions of the Assembly (other than those concerning the Assembly's own procedure) to the Contracting States which were not represented and shall invite them to express in writing their vote or abstention within a period of three months from the date of the communication. If, at the expiration of that period, the number of Contracting States having thus expressed their vote or abstention attains the number of Contracting States which was lacking for attaining the quorum in the session itself, such decisions shall take effect provided that at the same time the required majority still obtains.
 
-### Rule 86 The Gazette
+### Rule 86---The Gazette
 
 ##### 86.1 Contents
 
@@ -6477,7 +6459,7 @@ The title of the Gazette shall be determined by the Director General.
 
 Further details concerning the Gazette may be provided for in the Administrative Instructions.
 
-### Rule 87 Copies of Publications
+### Rule 87---Copies of Publications
 
 ##### 87.1 International Searching and Preliminary Examining Authorities
 
@@ -6489,7 +6471,7 @@ Any International Searching or Preliminary Examining Authority shall have the ri
 
 *   (b) The publications referred to in paragraph (a) shall be sent on special request. If any publication is available in more than one language, the request shall specify the language or languages in which it is desired.
 
-### Rule 88 Amendment of the Regulations
+### Rule 88---Amendment of the Regulations
 
 ##### 88.1 Requirement of Unanimity
 
@@ -6527,7 +6509,7 @@ Amendment of the following provisions of these Regulations shall require that no
 
 Any proposal for amending a provision referred to in Rules 88.1 or 88.3 shall, if the proposal is to be decided upon in the Assembly, be communicated to all Contracting States at least two months prior to the opening of that session of the Assembly which is called upon to make a decision on the proposal.
 
-### Rule 89 Administrative Instructions
+### Rule 89---Administrative Instructions
 
 ##### 89.1 Scope
     
@@ -6558,7 +6540,7 @@ Any proposal for amending a provision referred to in Rules 88.1 or 88.3 shall, i
 ## Part F  
 Rules Concerning Several Chapters of the Treaty
 
-### Rule 90 Agents and Common Representatives
+### Rule 90---Agents and Common Representatives
 
 ##### 90.1 Appointment as Agent
     
@@ -6622,7 +6604,7 @@ Rules Concerning Several Chapters of the Treaty
 
 *   (e) Rule 90.4(b) and (c) shall apply, _mutatis mutandis_, to a document containing a revocation or renunciation under this Rule.
 
-### Rule 90bis Withdrawals
+### Rule 90bis---Withdrawals
 
 ##### 90_bis_.1 Withdrawal of the International Application
     
@@ -6692,7 +6674,7 @@ Rules Concerning Several Chapters of the Treaty
 
 *   (b) The notification referred to in paragraph (a) shall be promptly published by the International Bureau in the Gazette, and shall have effect in respect of international applications filed more than one month after the date of such publication.
 
-### Rule 91 Obvious Errors in Documents
+### Rule 91---Obvious Errors in Documents
 
 ##### 91.1 Rectification
     
@@ -6734,7 +6716,7 @@ Rules Concerning Several Chapters of the Treaty
 
 *   (g_quater_) Where the international application is not published by virtue of Article 64(3), any notification made under paragraph (g)(i) must reach, and any rectification made under paragraph (g)(iii) must be authorized by, the International Bureau, in order for the authorization to be effective, not later than at the time of the communication of the international application under Article 20\.
 
-### Rule 92 Correspondence
+### Rule 92---Correspondence
 
 ##### 92.1 Need for Letter and for Signature
     
@@ -6790,7 +6772,7 @@ Any document or letter emanating from or transmitted by a national Office or an 
 
 *   (h) No national Office or intergovernmental organization shall be obliged to receive any document submitted by a means referred to in paragraph (a) unless it has notified the International Bureau that it is prepared to receive such a document by that means and the International Bureau has published information thereon in the Gazette.
 
-### Rule 92bis Recording of Changes in Certain Indications in the Request or the Demand
+### Rule 92bis---Recording of Changes in Certain Indications in the Request or the Demand
 
 ##### 92_bis_.1 Recording of Changes by the International Bureau
     
@@ -6810,7 +6792,7 @@ Any document or letter emanating from or transmitted by a national Office or an 
     
     
 
-### Rule 93 Keeping of Records and Files
+### Rule 93---Keeping of Records and Files
 
 ##### 93.1 The Receiving Office
 
@@ -6830,13 +6812,13 @@ Each International Searching Authority and each International Preliminary Examin
 
 For the purposes of this Rule, records, copies and files shall also mean photograhic reproductions of records, copies, and files, whatever may be the form of such reproductions (microfilms or other).
 
-### Rule 94 Furnishing of Copies by the International Bureau and the International Preliminary Examining Authority
+### Rule 94---Furnishing of Copies by the International Bureau and the International Preliminary Examining Authority
 
 ##### 94.1 Obligation To Furnish
 
 At the request of the applicant or any person authorized by the applicant, the International Bureau and the International Preliminary Examining Authority shall furnish, subject to reimbursement of the cost of the service, copies of any document contained in the file of the applicant's international application or purported international application.
 
-### Rule 95 Availability of Translations
+### Rule 95---Availability of Translations
 
 ##### 95.1 Furnishing of Copies of Translations
     
@@ -6844,7 +6826,7 @@ At the request of the applicant or any person authorized by the applicant, the I
 
 *   (b) The International Bureau may, upon request and subject to reimbursement of the cost, furnish to any person copies of the translations received under paragraph (a).
 
-### Rule 96 The Schedule of Fees
+### Rule 96---The Schedule of Fees
 
 ##### 96.1 Schedule of Fees Annexed to Regulations
 
@@ -6882,11 +6864,11 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the Patents Amendment Act 1994, and shall be read together with and deemed part of the [Patents Act 1953][226] (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the Patents Amendment Act 1994, and shall be read together with and deemed part of the [Patents Act 1953][228] (hereinafter referred to as ""the principal Act"").
     
     (2) This Act shall come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
     
-    Section 1(2): this Act brought into force, on 1 January 1995, by the [Patents Amendment Act Commencement Order 1994][227] (SR 1994/302).
+    Section 1(2): this Act brought into force, on 1 January 1995, by the [Patents Amendment Act Commencement Order 1994][229] (SR 1994/302).
 
 ##### 17 Transitional provisions
     
@@ -6942,23 +6924,23 @@ Commencementsee section 1(2)
 
 ###### 1 General
     
-*   This is a reprint of the Patents Act 1953\. The reprint incorporates all the amendments to the Act as at 1 January 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Patents Act 1953\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][228] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][230] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][229] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][231] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][230] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][232] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][231] and [17E][232] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][233] and [17E][234] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -6989,53 +6971,55 @@ Commencementsee section 1(2)
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Limitation Act 2010 (2010 No 110): [section 58][176]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][169]
     
-    Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][212]
+    Limitation Act 2010 (2010 No 110): [section 58][177]
     
-    [Patents Amendment Act 2002][233] (2002 No 72)
+    Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][214]
     
-    Civil Defence Emergency Management Act 2002 (2002 No 33): [section 117][194]
+    [Patents Amendment Act 2002][235] (2002 No 72)
     
-    Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][200]
+    Civil Defence Emergency Management Act 2002 (2002 No 33): [section 117][196]
     
-    [Patents Amendment Act 1999][234] (1999 No 119)
+    Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][202]
     
-    Estate Duty Repeal Act 1999 (1999 No 64): [section 15(1)][203]
+    [Patents Amendment Act 1999][236] (1999 No 119)
+    
+    Estate Duty Repeal Act 1999 (1999 No 64): [section 15(1)][205]
     
     Patents Amendment Act 1996 (1996 No 139)
     
-    [Patents Amendment Act 1994][235] (1994 No 122)
+    [Patents Amendment Act 1994][237] (1994 No 122)
     
-    [Patents Amendment Act 1992][236] (1992 No 81)
+    [Patents Amendment Act 1992][238] (1992 No 81)
     
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][219]
+    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][221]
     
-    Public Finance Act 1989 (1989 No 44): [section 86(1)][220]
+    Public Finance Act 1989 (1989 No 44): [section 86(1)][222]
     
     Trade and Industry Act Repeal Act 1988 (1988 No 156): [section 4(1)][166]
     
     State Sector Act 1988 (1988 No 20): [section 88(2)][168]
     
-    Flags, Emblems, and Names Protection Act 1981 (1981 No 47): [section 27(1)][216]
+    Flags, Emblems, and Names Protection Act 1981 (1981 No 47): [section 27(1)][218]
     
     Shop Trading Hours Amendment Act 1980 (1980 No 36): section 5(3)
     
     Judicature Amendment Act 1979 (1979 No 124): [section 12][163]
     
-    Seal of New Zealand Act 1977 (1977 No 1): [section 8][179]
+    Seal of New Zealand Act 1977 (1977 No 1): [section 8][181]
     
-    Tokelau Amendment Act 1976 (1976 No 122): [section 3(8)][223]
+    Tokelau Amendment Act 1976 (1976 No 122): [section 3(8)][225]
     
     Patents Amendment Act 1976 (1976 No 112)
     
     Patents Amendment Act 1972 (1972 No 91)
     
-    Administration Act 1969 (1969 No 52): [section 84(1)][204]
+    Administration Act 1969 (1969 No 52): [section 84(1)][206]
     
-    Crimes Act 1961 (1961 No 43): [sections 411(1)][214], [412(2)][208]
+    Crimes Act 1961 (1961 No 43): [sections 411(1)][216], [412(2)][210]
     
-    Summary Proceedings Act 1957 (1957 No 87): [section 214(1)][217]
+    Summary Proceedings Act 1957 (1957 No 87): [section 214(1)][219]
     
     [Patents Act Commencement Order 1954][159] (SR 1954/220)
 
@@ -7215,71 +7199,73 @@ Commencementsee section 1(2)
 [166]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM137557
 [167]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM129109
 [168]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM130375
-[169]: http://www.legislation.govt.nz/act/public/1953/0064/latest/whole.html#DLM280093
-[170]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM44956
-[171]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM270398
-[172]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM270399
-[173]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM271100
-[174]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344652
-[175]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM271101
-[176]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM2033287
-[177]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM271102
-[178]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM261925
-[179]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM442181
-[180]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344653
-[181]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344654
-[182]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344655
-[183]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344656
-[184]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344657
-[185]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344658
-[186]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344659
-[187]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM271103
-[188]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344660
-[189]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344661
-[190]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344662
-[191]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344663
-[192]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM149788
-[193]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344664
-[194]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM151437
-[195]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344665
-[196]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM169226
-[197]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM2033100
-[198]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM2033254
-[199]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM45599
-[200]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM47639
-[201]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM393092
-[202]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM393097
-[203]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM30504
-[204]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM393346
-[205]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM328793
-[206]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM328796
-[207]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM328799
-[208]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM332403
-[209]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM365742
-[210]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM365743
-[211]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM365745
-[212]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM367849
-[213]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM327394
-[214]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM332400
-[215]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM52214
-[216]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM52254
-[217]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM314306
-[218]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM271104
-[219]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM195558
-[220]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM163175
-[221]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM271105
-[222]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM271106
-[223]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM439964
-[224]: http://www.legislation.govt.nz/act/public/1953/0064/latest/whole.html#DLM4789800
-[225]: http://www.legislation.govt.nz/act/public/1953/0064/latest/whole.html#DLM4798600
-[226]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM280030
-[227]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM198163
-[228]: http://www.pco.parliament.govt.nz/reprints/
-[229]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM195439
-[230]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[231]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM195468
-[232]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM195470
-[233]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM169220
-[234]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM44950
-[235]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344645
-[236]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM270391
+[169]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM3360714
+[170]: http://www.legislation.govt.nz/act/public/1953/0064/latest/whole.html#DLM280093
+[171]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM44956
+[172]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM270398
+[173]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM270399
+[174]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM271100
+[175]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344652
+[176]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM271101
+[177]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM2033287
+[178]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM3360067
+[179]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM271102
+[180]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM261925
+[181]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM442181
+[182]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344653
+[183]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344654
+[184]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344655
+[185]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344656
+[186]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344657
+[187]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344658
+[188]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344659
+[189]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM271103
+[190]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344660
+[191]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344661
+[192]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344662
+[193]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344663
+[194]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM149788
+[195]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344664
+[196]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM151437
+[197]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344665
+[198]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM169226
+[199]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM2033100
+[200]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM2033254
+[201]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM45599
+[202]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM47639
+[203]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM393092
+[204]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM393097
+[205]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM30504
+[206]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM393346
+[207]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM328793
+[208]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM328796
+[209]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM328799
+[210]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM332403
+[211]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM365742
+[212]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM365743
+[213]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM365745
+[214]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM367849
+[215]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM327394
+[216]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM332400
+[217]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM52214
+[218]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM52254
+[219]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM314306
+[220]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM271104
+[221]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM195558
+[222]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM163175
+[223]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM271105
+[224]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM271106
+[225]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM439964
+[226]: http://www.legislation.govt.nz/act/public/1953/0064/latest/whole.html#DLM4789800
+[227]: http://www.legislation.govt.nz/act/public/1953/0064/latest/whole.html#DLM4798600
+[228]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM280030
+[229]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM198163
+[230]: http://www.pco.parliament.govt.nz/reprints/
+[231]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM195439
+[232]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[233]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM195468
+[234]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM195470
+[235]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM169220
+[236]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM44950
+[237]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM344645
+[238]: http://www.legislation.govt.nz/act/public/1953/0064/latest/link.aspx?id=DLM270391
