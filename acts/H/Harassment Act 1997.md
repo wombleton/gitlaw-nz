@@ -1,5 +1,5 @@
 Reprint  
-as at 1 November 2009
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,137 +25,137 @@ This Act is administered by the Ministry of Justice.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
 [Part 1][3]  
 [Preliminary provisions][3]
 
 [Interpretation][4]
 
-[2][5] [Interpretation][5]
+[2][5][][5][Interpretation][5]
 
-[3][6] [Meaning of harassment][6]
+[3][6][][6][Meaning of harassment][6]
 
-[4][7] [Meaning of specified act][7]
+[4][7][][7][Meaning of specified act][7]
 
-[5][8] [Meaning of act done to person][8]
+[5][8][][8][Meaning of act done to person][8]
 
 [Object][9]
 
-[6][10] [Object][10]
+[6][10][][10][Object][10]
 
 [Crown bound][11]
 
-[7][12] [Act to bind the Crown][12]
+[7][12][][12][Act to bind the Crown][12]
 
 [Part 2][13]  
 [Criminal harassment][13]
 
-[8][14] [Criminal harassment][14]
+[8][14][][14][Criminal harassment][14]
 
 [Part 3][15]  
 [Civil harassment][15]
 
 [Applications][16]
 
-[9][17] [Application for restraining order][17]
+[9][17][][17][Application for restraining order][17]
 
-[10][18] [Contents of application][18]
+[10][18][][18][Contents of application][18]
 
-[11][19] [Application by minors][19]
+[11][19][][19][Application by minors][19]
 
-[12][20] [Application against minors][20]
+[12][20][][20][Application against minors][20]
 
-[13][21] [Applications on behalf of certain persons][21]
+[13][21][][21][Applications on behalf of certain persons][21]
 
-[14][22] [Applicant's involvement in proceedings where representative appointed][22]
+[14][22][][22][Applicant's involvement in proceedings where representative appointed][22]
 
-[15][23] [Applications for restraining order to be on notice][23]
+[15][23][][23][Applications for restraining order to be on notice][23]
 
-[16][24] [Power to make restraining order][24]
+[16][24][][24][Power to make restraining order][24]
 
-[17][25] [Defence to prove that specified acts done for lawful purpose][25]
+[17][25][][25][Defence to prove that specified acts done for lawful purpose][25]
 
-[18][26] [Protection from respondent's associates][26]
+[18][26][][26][Protection from respondent's associates][26]
 
 [Conditions of restraining orders][27]
 
-[19][28] [Standard conditions of restraining orders][28]
+[19][28][][28][Standard conditions of restraining orders][28]
 
-[20][29] [Court may impose special conditions][29]
+[20][29][][29][Court may impose special conditions][29]
 
 [Duration, variation, and discharge of restraining orders][30]
 
-[21][31] [Duration of restraining order][31]
+[21][31][][31][Duration of restraining order][31]
 
-[22][32] [Power to vary restraining order][32]
+[22][32][][32][Power to vary restraining order][32]
 
-[23][33] [Power to discharge restraining order][33]
+[23][33][][33][Power to discharge restraining order][33]
 
-[24][34] [Variation or discharge on behalf of minors, etc][34]
+[24][34][][34][Variation or discharge on behalf of minors, etc][34]
 
 [Enforcement of restraining orders][35]
 
-[25][36] [Offence to contravene restraining order][36]
+[25][36][][36][Offence to contravene restraining order][36]
 
 [Power to require person to supply name and address][37]
 
-[26][38] [Power to require person to supply name and address][38]
+[26][38][][38][Power to require person to supply name and address][38]
 
-[27][39] [Offence][39]
+[27][39][][39][Offence][39]
 
-[28][40] [Police may release information to enable application for restraining order to be made][40]
+[28][40][][40][Police may release information to enable application for restraining order to be made][40]
 
 [Part 4][41]  
 [General provisions][41]
 
 [General provisions][42]
 
-[29][43] [Standard of proof][43]
+[29][43][][43][Standard of proof][43]
 
-[30][44] [Admission of evidence][44]
+[30][44][][44][Admission of evidence][44]
 
-[31][45] [Applications may be heard together][45]
+[31][45][][45][Applications may be heard together][45]
 
-[32][46] [Vexatious proceedings][46]
+[32][46][][46][Vexatious proceedings][46]
 
-[33][47] [Copies of orders to be sent to Police][47]
+[33][47][][47][Copies of orders to be sent to Police][47]
 
 [Appeals][48]
 
-[34][49] [Appeals to High Court][49]
+[34][49][][49][Appeals to High Court][49]
 
-[35][50] [Application of provisions relating to minors, etc][50]
+[35][50][][50][Application of provisions relating to minors, etc][50]
 
-[36][51] [Appeals to Court of Appeal][51]
+[36][51][][51][Appeals to Court of Appeal][51]
 
-[37][52] [Appeals to be heard as soon as practicable][52]
+[37][52][][52][Appeals to be heard as soon as practicable][52]
 
-[38][53] [Effect of appeal][53]
+[38][53][][53][Effect of appeal][53]
 
 [Power to clear court and restrict publication of proceedings][54]
 
-[39][55] [Power to clear court and restrict publication of proceedings][55]
+[39][55][][55][Power to clear court and restrict publication of proceedings][55]
 
-[40][56] [Application for renewal or review of order made under section 39][56]
+[40][56][][56][Application for renewal or review of order made under section 39][56]
 
-[41][57] [Contravention of orders made under section 39][57]
+[41][57][][57][Contravention of orders made under section 39][57]
 
 [Rules and regulations][58]
 
-[42][59] [Rules of court][59]
+[42][59][][59][Rules of court][59]
 
-[43][60] [Regulations][60]
+[43][60][][60][Regulations][60]
 
 [Amendments to other enactments][61]
 
-[44][62] [Amendment to Summary Proceedings Act 1957][62]
+[44][62][][62][Amendment to Summary Proceedings Act 1957][62]
 
-[45][63] [Amendment to Electoral Act 1993][63]
+[45][63][][63][Amendment to Electoral Act 1993][63]
 
 [Saving][64]
 
-[46][65] [Other remedies for harassment not limited or affected][65]
+[46][65][][65][Other remedies for harassment not limited or affected][65]
 
 ---
 
@@ -361,7 +361,9 @@ Criminal harassment
         
         
     
-    (2) Every person who commits an offence against this section is liable, on summary conviction, to imprisonment for a term not exceeding 2 years.
+    (2) Every person who commits an offence against this section is liable, on conviction, to imprisonment for a term not exceeding 2 years.
+    
+    Section 8(2): amended, on 1 July 2013, by [section 413][67] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 3  
 Civil harassment
@@ -378,9 +380,9 @@ Civil harassment
     
     (4) A person who is or has been in a domestic relationship with another person may not apply under this Act for a restraining order in respect of that other person.
     
-    (5) For the purposes of subsection (4), _domestic relationship_ has the same meaning as it has in the [Domestic Violence Act 1995][67].
+    (5) For the purposes of subsection (4), _domestic relationship_ has the same meaning as it has in the [Domestic Violence Act 1995][68].
     
-    Compare: 1995 No 86 [s 7][68]
+    Compare: 1995 No 86 [s 7][69]
     
     Section 9(2): amended, on 26 April 2005, by [section 7][66] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
@@ -388,7 +390,7 @@ Civil harassment
     
 *   Any application for a restraining order may seek a direction under [section 18][26] that the order apply against a particular person, being a person whom the respondent has encouraged or is encouraging to do any specified act to the applicant.
     
-    Compare: 1995 No 86 [s 8][69]
+    Compare: 1995 No 86 [s 8][70]
 
 ##### 11 Application by minors
     
@@ -406,7 +408,7 @@ Civil harassment
     
     *   (b) orders may be made on the application, and enforced, as if the minor were of full age.
     
-    Compare: 1995 No 86 [s 9][70]
+    Compare: 1995 No 86 [s 9][71]
     
     Section 11(1): amended, on 26 April 2005, by [section 7][66] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
@@ -430,7 +432,7 @@ Civil harassment
     
     *   (b) the court may make a direction under [section 18][26] that a restraining order apply against such a minor, as if the minor were of full age.
     
-    Compare: 1995 No 86 [s 10][71]
+    Compare: 1995 No 86 [s 10][72]
     
     Section 12(1): amended, on 26 April 2005, by [section 7][66] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
@@ -484,7 +486,7 @@ Civil harassment
     
     *   (e) that there is unlikely to be any conflict between the interests of the proposed appointee and the interests of the person in respect of whom the application is made.
     
-    Compare: 1995 No 86 [s 12(1)--(3)][72]
+    Compare: 1995 No 86 [s 12(1)--(3)][73]
     
     Section 13(1)(a): amended, on 26 April 2005, by [section 7][66] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
@@ -500,7 +502,7 @@ Civil harassment
     
     then, unless the court is satisfied that the objection is not freely made, no further steps may be taken in the proceedings.
     
-    Compare: 1995 No 86 [s 12(4)--(5)][72]
+    Compare: 1995 No 86 [s 12(4)--(5)][73]
 
 ##### 15 Applications for restraining order to be on notice
     
@@ -534,7 +536,7 @@ Civil harassment
     
     (3) To avoid any doubt, an order may be made under subsection (1) where the need for protection arises from the risk of the respondent doing, or encouraging another person to do, a specified act of a different type from the specified act found to have occurred for the purposes of paragraph (a) of that subsection.
     
-    Compare: 1995 No 86 [s 14][73]
+    Compare: 1995 No 86 [s 14][74]
 
 ##### 17 Defence to prove that specified acts done for lawful purpose
     
@@ -564,7 +566,7 @@ Civil harassment
     
     (4) [Sections 16(2)][24], 16(3), and [17][25] apply, with the necessary modifications, in respect of an application for a direction under subsection (1).
     
-    Compare: 1995 No 86 [s 17][74]
+    Compare: 1995 No 86 [s 17][75]
 
 #### Conditions of restraining orders
 
@@ -578,7 +580,7 @@ Civil harassment
     
     (2) Where, under a direction made under [section 18][26], a restraining order applies against an associated respondent, the provisions of this section apply, with all necessary modifications, in respect of the associated respondent.
     
-    Compare: 1995 No 86 [s 19][75]
+    Compare: 1995 No 86 [s 19][76]
 
 ##### 20 Court may impose special conditions
     
@@ -588,7 +590,7 @@ Civil harassment
     
     (3) In the absence of a direction under subsection (2), a special condition has effect for the duration of the restraining order, unless sooner varied or discharged.
     
-    Compare: 1995 No 86 [s 27][76]
+    Compare: 1995 No 86 [s 27][77]
 
 #### Duration, variation, and discharge of restraining orders
 
@@ -604,7 +606,7 @@ Civil harassment
     
     *   (c) in the absence of such a direction, the expiry of 1 year from the date on which the order is made.
     
-    Compare: 1995 No 86 [s 45][77]
+    Compare: 1995 No 86 [s 45][78]
 
 ##### 22 Power to vary restraining order
     
@@ -628,7 +630,7 @@ Civil harassment
     
     (4) The court must not extend the duration of a restraining order under this section unless the court is satisfied that the extension is necessary to protect the applicant from further harassment.
     
-    Compare: 1995 No 86 [s 46][78]
+    Compare: 1995 No 86 [s 46][79]
 
 ##### 23 Power to discharge restraining order
     
@@ -642,7 +644,7 @@ Civil harassment
     
     (5) On an application under subsection (4), the court may, if it thinks fit, discharge a restraining order in so far as it relates to the associated respondent.
     
-    Compare: 1995 No 86 [s 47][79]
+    Compare: 1995 No 86 [s 47][80]
 
 ##### 24 Variation or discharge on behalf of minors, etc
     
@@ -654,7 +656,7 @@ Civil harassment
     
     as they apply in relation to the making of an application for a restraining order.
     
-    Compare: 1995 No 86 [s 48][80]
+    Compare: 1995 No 86 [s 48][81]
 
 #### Enforcement of restraining orders
 
@@ -666,9 +668,9 @@ Civil harassment
     
     *   (b) fails to comply with any condition of a restraining order.
     
-    (2) Subject to subsection (3), every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $5,000\.
+    (2) Subject to subsection (3), every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $5,000\.
     
-    (3) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 2 years where---
+    (3) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 2 years where---
         
     *   (a) that person has previously been convicted on at least 2 different occasions of a qualifying offence; and
     
@@ -680,7 +682,11 @@ Civil harassment
     
     *   (b) restraining orders made for the benefit of the same person.
     
-    Compare: 1995 No 86 [s 49][81]
+    Compare: 1995 No 86 [s 49][82]
+    
+    Section 25(2): amended, on 1 July 2013, by [section 413][67] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 25(3): amended, on 1 July 2013, by [section 413][67] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Power to require person to supply name and address
 
@@ -708,33 +714,35 @@ Civil harassment
     
     (7) Nothing in this section limits or affects any other power conferred on a constable to require a person to supply any particulars.
     
-    Compare: 1989 No 63 [s 176(1)--(3)][82]
+    Compare: 1989 No 63 [s 176(1)--(3)][83]
     
-    Section 26(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][83] of the Policing Act 2008 (2008 No 72).
+    Section 26(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][84] of the Policing Act 2008 (2008 No 72).
     
-    Section 26(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][83] of the Policing Act 2008 (2008 No 72).
+    Section 26(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][84] of the Policing Act 2008 (2008 No 72).
     
-    Section 26(3)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][83] of the Policing Act 2008 (2008 No 72).
+    Section 26(3)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][84] of the Policing Act 2008 (2008 No 72).
     
-    Section 26(3)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][83] of the Policing Act 2008 (2008 No 72).
+    Section 26(3)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][84] of the Policing Act 2008 (2008 No 72).
     
-    Section 26(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][83] of the Policing Act 2008 (2008 No 72).
+    Section 26(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][84] of the Policing Act 2008 (2008 No 72).
     
-    Section 26(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][83] of the Policing Act 2008 (2008 No 72).
+    Section 26(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][84] of the Policing Act 2008 (2008 No 72).
     
-    Section 26(7): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][83] of the Policing Act 2008 (2008 No 72).
+    Section 26(7): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][84] of the Policing Act 2008 (2008 No 72).
 
 ##### 27 Offence
     
-*   Every person commits an offence and is liable on summary conviction to a fine not exceeding $500 who, having been required by any constable to supply any particulars or evidence under [section 26][38], without reasonable excuse,---
+*   Every person commits an offence and is liable on conviction to a fine not exceeding $500 who, having been required by any constable to supply any particulars or evidence under [section 26][38], without reasonable excuse,---
         
     *   (a) refuses or fails to supply the particulars or evidence; or
     
     *   (b) supplies any particulars or evidence knowing that the particulars or evidence are false in a material respect.
     
-    Compare: 1989 No 63 [s 176(4)][82]
+    Compare: 1989 No 63 [s 176(4)][83]
     
-    Section 27: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][83] of the Policing Act 2008 (2008 No 72).
+    Section 27: amended, on 1 July 2013, by [section 413][67] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 27: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][84] of the Policing Act 2008 (2008 No 72).
 
 ##### 28 Police may release information to enable application for restraining order to be made
     
@@ -752,7 +760,7 @@ Civil harassment
     
     (5) For the purposes of this section, an alleged harasser includes a person who is being, or has been, encouraged, by another person, to do a specified act to a person.
     
-    Section 28(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][83] of the Policing Act 2008 (2008 No 72).
+    Section 28(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][84] of the Policing Act 2008 (2008 No 72).
 
 ## Part 4  
 General provisions
@@ -763,7 +771,7 @@ General provisions
     
 *   Every question of fact arising in any proceedings under this Act (other than criminal proceedings) must be decided on the balance of probabilities.
     
-    Compare: 1995 No 86 [s 85][84]
+    Compare: 1995 No 86 [s 85][85]
 
 ##### 30 Admission of evidence
     
@@ -775,7 +783,7 @@ General provisions
     
     (2) Subsection (1) does not limit any other provision under which applications may be dealt with together.
     
-    Compare: 1989 No 24 [s 158][85]
+    Compare: 1989 No 24 [s 158][86]
 
 ##### 32 Vexatious proceedings
     
@@ -789,7 +797,7 @@ General provisions
     
     (5) Nothing in this section limits any other power of the court to dismiss proceedings.
     
-    Compare: 1980 No 94 [s 163][86]
+    Compare: 1980 No 94 [s 163][87]
 
 ##### 33 Copies of orders to be sent to Police
     
@@ -813,7 +821,7 @@ General provisions
     
     *   (e) by making the copy available in such other manner as is appropriate in the circumstances.
     
-    Compare: 1995 No 86 [s 88][87]
+    Compare: 1995 No 86 [s 88][88]
 
 #### Appeals
 
@@ -829,27 +837,27 @@ General provisions
     
     (1) A party to proceedings in which there is made a decision to which subsection (1AA) applies may appeal to the High Court against the decision.
     
-    (2) The [High Court Rules][88] and [sections 74 to 78][89] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][90] of that Act.
+    (2) The [High Court Rules][89] and [sections 74 to 78][90] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][91] of that Act.
     
-    (3) On the _ex parte_ application of the appellant, the Family Court or District Court (as the case requires) may order that the appellant must not be required under [section 74(1)][89] of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+    (3) On the _ex parte_ application of the appellant, the Family Court or District Court (as the case requires) may order that the appellant must not be required under [section 74(1)][90] of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
     
     (3A) Subsection (3) overrides subsection (2).
     
     (4) \[Repealed\]
     
-    Compare: 1995 No 86 [s 91][91]
+    Compare: 1995 No 86 [s 91][92]
     
-    Section 34(1AA): inserted, on 24 November 2003, by [section 4][92] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 34(1AA): inserted, on 24 November 2003, by [section 4][93] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 34(1): substituted, on 24 November 2003, by [section 4][92] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 34(1): substituted, on 24 November 2003, by [section 4][93] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 34(2): substituted, on 24 November 2003, by [section 4][92] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 34(2): substituted, on 24 November 2003, by [section 4][93] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 34(3): substituted, on 24 November 2003, by [section 4][92] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 34(3): substituted, on 24 November 2003, by [section 4][93] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 34(3A): inserted, on 24 November 2003, by [section 4][92] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 34(3A): inserted, on 24 November 2003, by [section 4][93] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 34(4): repealed, on 1 January 2004, by [section 48(2)][93] of the Supreme Court Act 2003 (2003 No 53).
+    Section 34(4): repealed, on 1 January 2004, by [section 48(2)][94] of the Supreme Court Act 2003 (2003 No 53).
 
 ##### 35 Application of provisions relating to minors, etc
     
@@ -861,7 +869,7 @@ General provisions
     
     as they apply in relation to the making of an application for a restraining order.
     
-    Compare: 1995 No 86 [s 92][94]
+    Compare: 1995 No 86 [s 92][95]
 
 ##### 36 Appeals to Court of Appeal
     
@@ -871,17 +879,17 @@ General provisions
     
     (3) \[Repealed\]
     
-    Compare: 1995 No 86 [s 93][95]
+    Compare: 1995 No 86 [s 93][96]
     
-    Section 36(1): amended, on 1 January 2004, by [section 47][96] of the Supreme Court Act 2003 (2003 No 53).
+    Section 36(1): amended, on 1 January 2004, by [section 47][97] of the Supreme Court Act 2003 (2003 No 53).
     
-    Section 36(3): repealed, on 1 January 2004, by [section 47][96] of the Supreme Court Act 2003 (2003 No 53).
+    Section 36(3): repealed, on 1 January 2004, by [section 47][97] of the Supreme Court Act 2003 (2003 No 53).
 
 ##### 37 Appeals to be heard as soon as practicable
     
 *   Every appeal under [section 34][49] or [section 36][51] must be heard as soon as practicable after the appeal is lodged.
     
-    Compare: 1995 No 86 [s 94][97]
+    Compare: 1995 No 86 [s 94][98]
 
 ##### 38 Effect of appeal
     
@@ -891,7 +899,7 @@ General provisions
     
     *   (b) every order made under this Act may be enforced in the same manner in all respects as if no such appeal were pending.
     
-    Compare: 1995 No 86 [s 95][98]
+    Compare: 1995 No 86 [s 95][99]
 
 #### Power to clear court and restrict publication of proceedings
 
@@ -935,7 +943,7 @@ General provisions
     
     *   (b) to hear proceedings in private or to exclude any person from the court.
     
-    Compare: 1985 No 120 [s 138(2), (4)][99]
+    Compare: 1985 No 120 [s 138(2), (4)][100]
 
 ##### 40 Application for renewal or review of order made under section 39
     
@@ -955,7 +963,7 @@ General provisions
     
 *   (1) Every person commits an offence who breaches any order made under [section 39(1)(a)][55] or section 39(1)(b) or evades or attempts to evade any such order.
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction,---
+    (2) Every person who commits an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $1,000:
     
@@ -963,13 +971,15 @@ General provisions
     
     (3) The breach of any order made under [section 39(1)(c)][55], or any evasion or attempted evasion of it, may be dealt with as contempt of court.
     
-    Compare: 1985 No 120 [s 138(7), (8)][99]
+    Compare: 1985 No 120 [s 138(7), (8)][100]
+    
+    Section 41(2): amended, on 1 July 2013, by [section 413][67] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Rules and regulations
 
 ##### 42 Rules of court
     
-*   (1) In addition to all other powers conferred by the [District Courts Act 1947][100], the Governor-General may from time to time, by Order in Council, make rules---
+*   (1) In addition to all other powers conferred by the [District Courts Act 1947][101], the Governor-General may from time to time, by Order in Council, make rules---
         
     *   (a) regulating the practice and procedure of District Courts in proceedings under this Act:
     
@@ -1009,17 +1019,17 @@ General provisions
     
     *   (g) provide for information about proceedings under this Act to be transferred between courts (whether District Courts, Family Courts, the High Court, the Court of Appeal, or the Supreme Court), including (without limitation) between different courts, or between different divisions of the same court, or between courts exercising civil jurisdiction and courts exercising criminal jurisdiction, or between courts exercising appellate jurisdiction and courts exercising original jurisdiction:
     
-    *   (h) apply, with or without modification, provisions of the [District Courts Rules 2009][101].
+    *   (h) apply, with or without modification, provisions of the [District Courts Rules 2009][102].
     
-    (3) In the absence of any rules under this section or in any situation not covered by any such rules, the [District Courts Rules 2009][101] apply, with all necessary modifications, to proceedings under this Act.
+    (3) In the absence of any rules under this section or in any situation not covered by any such rules, the [District Courts Rules 2009][102] apply, with all necessary modifications, to proceedings under this Act.
     
-    Compare: 1995 No 86 [s 126][102]
+    Compare: 1995 No 86 [s 126][103]
     
-    Section 42(2)(g): amended, on 1 January 2004, by [section 47][96] of the Supreme Court Act 2003 (2003 No 53).
+    Section 42(2)(g): amended, on 1 January 2004, by [section 47][97] of the Supreme Court Act 2003 (2003 No 53).
     
-    Section 42(2)(h): amended, on 1 November 2009, pursuant to [rule 17.1][103] of the District Court Rules 2009 (SR 2009/257).
+    Section 42(2)(h): amended, on 1 November 2009, pursuant to [rule 17.1][104] of the District Court Rules 2009 (SR 2009/257).
     
-    Section 42(3): amended, on 1 November 2009, pursuant to [rule 17.1][103] of the District Court Rules 2009 (SR 2009/257).
+    Section 42(3): amended, on 1 November 2009, pursuant to [rule 17.1][104] of the District Court Rules 2009 (SR 2009/257).
 
 ##### 43 Regulations
     
@@ -1035,11 +1045,11 @@ General provisions
 
 ##### 44 Amendment to Summary Proceedings Act 1957
     
-*   _Amendment(s) incorporated in the [Act(s)][104]._
+*   _Amendment(s) incorporated in the [Act(s)][105]._
 
 ##### 45 Amendment to Electoral Act 1993
     
-*   _Amendment(s) incorporated in the [Act(s)][105]._
+*   _Amendment(s) incorporated in the [Act(s)][106]._
 
 #### Saving
 
@@ -1063,23 +1073,23 @@ General provisions
 
 ###### 1 General
     
-*   This is a reprint of the Harassment Act 1997\. The reprint incorporates all the amendments to the Act as at 1 November 2009, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Harassment Act 1997\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][106] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][107] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][107] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][108] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][108] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][109] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][109] and [17E][110] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][110] and [17E][111] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1110,15 +1120,17 @@ General provisions
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   District Court Rules 2009 (SR 2009/257): [rule 17.1][103]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][67]
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][83]
+    District Court Rules 2009 (SR 2009/257): [rule 17.1][104]
+    
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][84]
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][66]
     
-    Supreme Court Act 2003 (2003 No 53): [sections 47][96], [48(2)][93]
+    Supreme Court Act 2003 (2003 No 53): [sections 47][97], [48(2)][94]
     
-    District Courts Amendment Act 2002 (2002 No 63): [section 4][92]
+    District Courts Amendment Act 2002 (2002 No 63): [section 4][93]
 
 
 
@@ -1189,47 +1201,48 @@ General provisions
 [64]: http://www.legislation.govt.nz/act/public/1997/0092/latest/whole.html#DLM418000
 [65]: http://www.legislation.govt.nz/act/public/1997/0092/latest/whole.html#DLM418001
 [66]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM333795
-[67]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM371952
-[68]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372126
-[69]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372129
-[70]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372130
-[71]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372138
-[72]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372143
-[73]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372148
-[74]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372152
-[75]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372155
-[76]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372166
-[77]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372193
-[78]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372194
-[79]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372195
-[80]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372196
-[81]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372198
-[82]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM166638
-[83]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM1102349
-[84]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372460
-[85]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM151079
-[86]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM41846
-[87]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372463
-[88]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM147655
-[89]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM243909
-[90]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM243795
-[91]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372467
-[92]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM168713
-[93]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM214522
-[94]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372471
-[95]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372472
-[96]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM214520
-[97]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372473
-[98]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372474
-[99]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM78862
-[100]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM242775
-[101]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM2300100
-[102]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372836
-[103]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM2300894
-[104]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM314098
-[105]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM309404
-[106]: http://www.pco.parliament.govt.nz/reprints/
-[107]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM195439
-[108]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[109]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM195468
-[110]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM195470
+[67]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM3360714
+[68]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM371952
+[69]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372126
+[70]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372129
+[71]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372130
+[72]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372138
+[73]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372143
+[74]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372148
+[75]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372152
+[76]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372155
+[77]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372166
+[78]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372193
+[79]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372194
+[80]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372195
+[81]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372196
+[82]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372198
+[83]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM166638
+[84]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM1102349
+[85]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372460
+[86]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM151079
+[87]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM41846
+[88]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372463
+[89]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM147655
+[90]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM243909
+[91]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM243795
+[92]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372467
+[93]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM168713
+[94]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM214522
+[95]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372471
+[96]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372472
+[97]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM214520
+[98]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372473
+[99]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372474
+[100]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM78862
+[101]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM242775
+[102]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM2300100
+[103]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM372836
+[104]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM2300894
+[105]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM314098
+[106]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM309404
+[107]: http://www.pco.parliament.govt.nz/reprints/
+[108]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM195439
+[109]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[110]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM195468
+[111]: http://www.legislation.govt.nz/act/public/1997/0092/latest/link.aspx?id=DLM195470
