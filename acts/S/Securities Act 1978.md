@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 14 September 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,7 +17,7 @@ Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have 
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Business, Innovation and Employment.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -287,17 +287,19 @@ This Act is administered by the Ministry of Business, Innovation and Employment.
 
 [Register of securities offers][130]
 
-[43N][131][][131][Register of securities offers][131]
+\[Repealed\]
 
-[43O][132][][132][Purpose of register][132]
+[43N][131][][131][Register of securities offers][131] \[Repealed\]
 
-[43P][133][][133][Contents of register][133]
+[43O][132][][132][Purpose of register][132] \[Repealed\]
 
-[43Q][134][][134][Duty to notify relevant matters and provide certain documents and information to Registrar][134]
+[43P][133][][133][Contents of register][133] \[Repealed\]
 
-[43R][135][][135][Amendments to register][135]
+[43Q][134][][134][Duty to notify relevant matters and provide certain documents and information to Registrar][134] \[Repealed\]
 
-[43S][136][][136][Search of register][136]
+[43R][135][][135][Amendments to register][135] \[Repealed\]
+
+[43S][136][][136][Search of register][136] \[Repealed\]
 
 [44][137][][137][Suspension and cancellation of registration of registered prospectus][137] \[Repealed\]
 
@@ -493,7 +495,7 @@ This Act is administered by the Ministry of Business, Innovation and Employment.
 
 [65H][233][][233][Power of Registrar to delegate][233]
 
-[66][234][][234][Registers to be kept by Registrar for purposes of this Act][234] \[Repealed\]
+[66][234][][234][Registers to be kept by Registrar for purposes of this Act][234]
 
 [Part 3][235]  
 [General investigation and enforcement powers][235]
@@ -3929,238 +3931,46 @@ Restrictions on offer and allotment of securities to the public
     Section 43M: inserted, on 1 May 2011, by [section 21][464] of the Securities Amendment Act 2011 (2011 No 6).
 
 #### Register of securities offers
+
+\[Repealed\]
     
-*   Heading: inserted, on 1 July 2013, by [section 22][469] of the Securities Amendment Act 2011 (2011 No 6).
+*   Heading: repealed, on 14 September 2013, pursuant to [section 4(2)(a)][469] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 43N Register of securities offers
     
-*   (1) A register called the register of securities offers is established.
+*   \[Repealed\]
     
-    (2) The register must be kept by the Registrar.
-    
-    (3) The register may be---
-        
-    *   (a) an electronic register; or
-    
-    *   (b) kept in any other manner that the Registrar thinks fit.
-    
-    (4) The register must be operated at all times unless---
-        
-    *   (a) the Registrar suspends the operation of the register, in whole or in part, in accordance with subsection (5); or
-    
-    *   (b) otherwise provided in regulations.
-    
-    (5) The Registrar may refuse access to the register or otherwise suspend the operation of the register, in whole or in part, if the Registrar considers that it is not practical to provide access to the register.
-    
-    Section 43N: inserted, on 1 July 2013, by [section 22][469] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 43N: repealed, on 14 September 2013, by [section 4(2)(a)][469] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 43O Purpose of register
     
-*   The purpose of the register is---
-        
-    *   (a) to give public notice of offers of securities made under registered prospectuses; and
+*   \[Repealed\]
     
-    *   (b) to enable any person to---
-            
-        *   (i) obtain information contained in, or concerning, registered prospectuses; and
-        
-        *   (ii) obtain other information about, or copies of documents relating to, offers of securities made under registered prospectuses; and
-        
-        *   (iii) compare information about offers of securities made under registered prospectuses; and
-        
-        
-    
-    *   (c) to assist any person to decide whether or not to subscribe for securities offered to the public; and
-    
-    *   (d) to assist any person to perform a financial adviser service (within the meaning of the [Financial Advisers Act 2008][470]) or to otherwise comment on an offer of securities to the public; and
-    
-    *   (e) to assist any person---
-            
-        *   (i) in the exercise of the person's powers under this Act or any other enactment; or
-        
-        *   (ii) in the performance of the person's functions or duties under this Act or any other enactment.
-        
-        
-    
-    Section 43O: inserted, on 1 July 2013, by [section 22][469] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 43O: repealed, on 14 September 2013, by [section 4(2)(a)][469] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 43P Contents of register
     
-*   (1) The register must contain all of the following information and documents, to the extent that the information or documents are relevant, for each registered prospectus:
-        
-    *   (a) the name of the issuer and the issuer's financial service provider number (if any):
+*   \[Repealed\]
     
-    *   (b) the name of every promoter in relation to the offer and the promoter's financial service provider number, if any (subject to subsection (3)):
-    
-    *   (c) the name of every relevant trustee or supervisor and the relevant trustee or supervisor's financial service provider number (if any):
-    
-    *   (d) the name of the offer that is specified in the prospectus and the registration number for the prospectus (as specified in the certificate given under [section 42][112]):
-    
-    *   (e) the type of security or securities being offered (for example, an equity security, a debt security, a participatory security, a unit in a unit trust, an interest in a superannuation scheme, or a life insurance policy):
-    
-    *   (f) the date of the prospectus:
-    
-    *   (g) the date specified in the prospectus as the last day on which the offer is able to be accepted or, if there is no such date, a statement to that effect:
-    
-    *   (h) if there is any minimum or maximum number or amount of the securities being offered, the number or amount:
-    
-    *   (i) the status of the prospectus (being a status that is determined and described in the prescribed manner):
-    
-    *   (j) the date of registration of the prospectus and of every instrument that amends the prospectus:
-    
-    *   (k) a copy of the prospectus and of every instrument that amends the prospectus:
-    
-    *   (l) a copy of each investment statement distributed by or on behalf of the issuer in respect of the offer:
-    
-    *   (m) a copy of any relevant deed (incorporating or together with all amendments to the deed):
-    
-    *   (n) a copy of all documents that are required by the regulations to be attached to, or to accompany, the prospectus when it is delivered to the Registrar for registration:
-    
-    *   (o) a copy of any certificate registered under [section 37A(1A)][86] and any financial statements that accompany that certificate:
-    
-    *   (p) any notice or information provided by the FMA in respect of the prospectus or an investment statement for the offer under [section 43J][126] or [43K][127]:
-    
-    *   (q) a copy of the most recent financial statements of, or relating to, the issuer (and, if there is a scheme, the scheme) that have been registered under [section 18][471] of the Financial Reporting Act 1993, together with a copy of the auditor's report on those statements:
-    
-    *   (r) any documents, information, and other matters made publicly available under [section 54C][176]:
-    
-    *   (s) any other prescribed matters.
-    
-    (2) However, the register is not required to contain information or documents that are prescribed as being information or documents that are not required to be contained in the register.
-    
-    (3) Subsection (1)(b) does not apply in respect of a director who is a promoter merely as a result of paragraph (b) of the definition of promoter in [section 2][3].
-    
-    (4) The register must also contain---
-        
-    *   (a) all other documents required to be registered by the Registrar under this Act; and
-    
-    *   (b) any other prescribed information or documents.
-    
-    (5) In this section and [section 43S][136],---
-    
-    _financial service provider number_, in relation to a person, is the number given to the person on the person's registration under the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][342]
-    
-    _relevant deed_ means, in the case of an offer of---
-        
-    *   (a) debt securities, the trust deed:
-    
-    *   (b) participatory securities, the deed of participation:
-    
-    *   (c) units in a unit trust, the trust deed for the unit trust:
-    
-    *   (d) interests in a superannuation scheme, the trust deed for the superannuation scheme
-    
-    _relevant trustee or supervisor_ means, in the case of an offer of---
-        
-    *   (a) debt securities, the trustee:
-    
-    *   (b) participatory securities, the statutory supervisor:
-    
-    *   (c) units in a unit trust, the unit trustee:
-    
-    *   (d) interests in a superannuation scheme, the superannuation trustee.
-    
-    Section 43P: inserted, on 1 July 2013, by [section 22][469] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 43P: repealed, on 14 September 2013, by [section 4(2)(a)][469] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 43Q Duty to notify relevant matters and provide certain documents and information to Registrar
     
-*   (1) An issuer must, in the prescribed manner,---
-        
-    *   (a) notify the Registrar of any relevant changes in respect of a registered prospectus within 5 working days of becoming aware of the change; and
+*   \[Repealed\]
     
-    *   (b) provide to the Registrar a copy of any documents, information, and other matters made, or to be made, publicly available under [section 54C][176] before the date that is 5 working days after that material is made available under that section; and
-    
-    *   (c) provide to the Registrar, before the date that is 5 working days after it is first distributed, a copy of each investment statement that is, or is to be, distributed by or on behalf of the issuer in respect of the offer.
-    
-    (2) In this section, _relevant changes_, in respect of a registered prospectus,---
-        
-    *   (a) means---
-            
-        *   (i) any change in the information referred to in [section 43P(1)(a) to (h)][133] in respect of the prospectus; or
-        
-        *   (ii) any change in circumstances that would result in a change to the status of the prospectus as referred to in [section 43P(1)(i)][133]; or
-        
-        *   (iii) any other prescribed change that is relevant to the issuer, the scheme (if any), or the prospectus; but
-        
-        
-    
-    *   (b) does not include---
-            
-        *   (i) any change in respect of which the FMA is required to notify the Registrar (for example, an order made under [section 43G][123]); or
-        
-        *   (ii) any change that occurs after the period within which allotments of securities may be made under the prospectus has ended as a result of [section 37A(1)(c)][86]; or
-        
-        *   (iii) any other change that is prescribed.
-        
-        
-    
-    (3) An issuer commits an offence and is liable on conviction to a fine not exceeding $300,000 if the issuer,---
-        
-    *   (a) without reasonable excuse, contravenes subsection (1); or
-    
-    *   (b) in purported compliance with subsection (1), supplies a document, information, or other matter knowing it to be false or misleading.
-    
-    (4) This section does not apply to changes that occur, or investment statements that are distributed, before the commencement of this section.
-    
-    Section 43Q: inserted, on 1 July 2013, by [section 22][469] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 43Q: repealed, on 14 September 2013, by [section 4(2)(a)][469] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 43R Amendments to register
     
-*   (1) The Registrar may amend the register if---
-        
-    *   (a) an issuer or the FMA informs the Registrar of information that is different from the information entered on the register; or
+*   \[Repealed\]
     
-    *   (b) the Registrar is satisfied at any time that the register contains a typographical error or a mistake, or omits information supplied to the Registrar.
-    
-    (2) The Registrar must amend the register if the regulations require the Registrar to do so in circumstances specified by the regulations.
-    
-    Section 43R: inserted, on 1 July 2013, by [section 22][469] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 43R: repealed, on 14 September 2013, by [section 4(2)(a)][469] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 43S Search of register
     
-*   (1) A person may search the register in accordance with this Act or the regulations.
+*   \[Repealed\]
     
-    (2) The register may be searched only by reference to the following criteria:
-        
-    *   (a) the name of an offer as specified in a prospectus:
-    
-    *   (b) the registration number of a prospectus:
-    
-    *   (c) the name of an issuer:
-    
-    *   (d) the name of a promoter:
-    
-    *   (e) the name of a relevant trustee or supervisor:
-    
-    *   (f) the financial service provider number of an issuer, a promoter, or a relevant trustee or supervisor:
-    
-    *   (g) the status of a prospectus (being a status that is determined and described in the prescribed manner):
-    
-    *   (h) prospectuses that have a particular date or have a date within a range of dates:
-    
-    *   (i) prospectuses that were registered on a particular date or at any time during a range of dates:
-    
-    *   (j) prospectuses under which offers are open for acceptance on a particular date or at any time during a range of dates:
-    
-    *   (k) orders made by the FMA in respect of prospectuses that are in force on a particular date or at any time during a range of dates:
-    
-    *   (l) the type of security being offered:
-    
-    *   (m) any other prescribed criteria:
-    
-    *   (n) any combination of the criteria in paragraphs (a) to (m).
-    
-    (3) A search of the register may be carried out only by the following persons for the following purposes:
-        
-    *   (a) an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual:
-    
-    *   (b) a person, for a purpose referred to in [section 43O][132]:
-    
-    *   (c) a person, for the purpose of advising another person in connection with any of the purposes referred to in this section.
-    
-    (4) A person who searches the register for personal information in breach of this section must be treated, for the purposes of [Part 8][472] of the Privacy Act 1993, as having breached an information privacy principle under [section 66(1)(a)(i)][473] of that Act.
-    
-    Section 43S: inserted, on 1 July 2013, by [section 22][469] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 43S: repealed, on 14 September 2013, by [section 4(2)(a)][469] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 44 Suspension and cancellation of registration of registered prospectus
     
@@ -4170,7 +3980,7 @@ Restrictions on offer and allotment of securities to the public
 
 #### Delayed allotment orders and prohibition orders concerning simplified disclosure prospectuses
     
-*   Heading: inserted, on 28 July 2009, by [section 12][474] of the Securities (Disclosure) Amendment Act 2009 (2009 No 23).
+*   Heading: inserted, on 28 July 2009, by [section 12][470] of the Securities (Disclosure) Amendment Act 2009 (2009 No 23).
 
 ##### 44A FMA may make delayed allotment orders
     
@@ -4198,7 +4008,7 @@ Restrictions on offer and allotment of securities to the public
     
     (7) In this section, _issuer's disclosure obligations_ means the disclosure obligations that an issuer is subject to and that the issuer has relied on in order to permit the issuer to use a simplified disclosure prospectus in accordance with the regulations and the definition of simplified disclosure prospectus.
     
-    Section 44A: substituted, on 28 July 2009, by [section 12][474] of the Securities (Disclosure) Amendment Act 2009 (2009 No 23).
+    Section 44A: substituted, on 28 July 2009, by [section 12][470] of the Securities (Disclosure) Amendment Act 2009 (2009 No 23).
     
     Section 44A heading: amended, on 1 May 2011, by [section 84(3)][358] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -4270,9 +4080,9 @@ Restrictions on offer and allotment of securities to the public
     
     *   (c) it may notify any other person of those matters.
     
-    Section 44AB: inserted, on 28 July 2009, by [section 12][474] of the Securities (Disclosure) Amendment Act 2009 (2009 No 23).
+    Section 44AB: inserted, on 28 July 2009, by [section 12][470] of the Securities (Disclosure) Amendment Act 2009 (2009 No 23).
     
-    Section 44AB(1): substituted, on 1 May 2011, by [section 23][475] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 44AB(1): substituted, on 1 May 2011, by [section 23][471] of the Securities Amendment Act 2011 (2011 No 6).
     
     Section 44AB(2): amended, on 1 May 2011, by [section 84(3)][358] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -4288,11 +4098,11 @@ Restrictions on offer and allotment of securities to the public
     
     *   (b) it must include in that notice the reasons for acting urgently and must otherwise comply with that section.
     
-    Section 44AC: inserted, on 28 July 2009, by [section 12][474] of the Securities (Disclosure) Amendment Act 2009 (2009 No 23).
+    Section 44AC: inserted, on 28 July 2009, by [section 12][470] of the Securities (Disclosure) Amendment Act 2009 (2009 No 23).
     
     Section 44AC: amended, on 1 May 2011, by [section 84(3)][358] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 44AC(a): substituted, on 1 May 2011, by [section 24][476] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 44AC(a): substituted, on 1 May 2011, by [section 24][472] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 44AD Effect of delayed allotment orders
     
@@ -4334,7 +4144,7 @@ Restrictions on offer and allotment of securities to the public
     
     (5) This section applies despite anything in the terms of the offer.
     
-    Section 44AD: inserted, on 28 July 2009, by [section 12][474] of the Securities (Disclosure) Amendment Act 2009 (2009 No 23).
+    Section 44AD: inserted, on 28 July 2009, by [section 12][470] of the Securities (Disclosure) Amendment Act 2009 (2009 No 23).
     
     Section 44AD(3): amended, on 1 May 2011, by [section 84(3)][358] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -4350,7 +4160,7 @@ Restrictions on offer and allotment of securities to the public
     
     (4) The FMA may, either of its own volition or on the application of the person concerned, revoke or suspend a prohibition order, on the terms and conditions it thinks fit, if it is satisfied that it should not continue in force.
     
-    Section 44AE: inserted, on 28 July 2009, by [section 12][474] of the Securities (Disclosure) Amendment Act 2009 (2009 No 23).
+    Section 44AE: inserted, on 28 July 2009, by [section 12][470] of the Securities (Disclosure) Amendment Act 2009 (2009 No 23).
     
     Section 44AE heading: amended, on 1 May 2011, by [section 84(3)][358] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -4418,9 +4228,9 @@ Restrictions on offer and allotment of securities to the public
     
     *   (c) it may notify any other person of those matters.
     
-    Section 44AF: inserted, on 28 July 2009, by [section 12][474] of the Securities (Disclosure) Amendment Act 2009 (2009 No 23).
+    Section 44AF: inserted, on 28 July 2009, by [section 12][470] of the Securities (Disclosure) Amendment Act 2009 (2009 No 23).
     
-    Section 44AF(1): substituted, on 1 May 2011, by [section 25][477] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 44AF(1): substituted, on 1 May 2011, by [section 25][473] of the Securities Amendment Act 2011 (2011 No 6).
     
     Section 44AF(2): amended, on 1 May 2011, by [section 84(3)][358] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -4444,13 +4254,13 @@ Restrictions on offer and allotment of securities to the public
     
     *   (b) [section 37(1A)(a) and (4) to (7)][86] apply (which provide that an allotment of a security that is offered in a simplified disclosure prospectus by a person who is subject to a prohibition order while that order is in force is invalid and of no effect).
     
-    Section 44AG: inserted, on 28 July 2009, by [section 12][474] of the Securities (Disclosure) Amendment Act 2009 (2009 No 23).
+    Section 44AG: inserted, on 28 July 2009, by [section 12][470] of the Securities (Disclosure) Amendment Act 2009 (2009 No 23).
     
     Section 44AG: amended, on 1 May 2011, by [section 84(3)][358] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 #### Contributory mortgages
     
-*   Heading: inserted, on 1 October 1997, by [section 21][478] of the Securities Amendment Act 1996 (1996 No 100).
+*   Heading: inserted, on 1 October 1997, by [section 21][474] of the Securities Amendment Act 1996 (1996 No 100).
 
 ##### 44B FMA's powers in respect of contributory mortgages
     
@@ -4504,13 +4314,13 @@ Restrictions on offer and allotment of securities to the public
     
     Section 44B(1): amended, on 1 May 2011, by [section 84(3)][358] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 44B(2): substituted, on 1 May 2011, by [section 26][479] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 44B(2): substituted, on 1 May 2011, by [section 26][475] of the Securities Amendment Act 2011 (2011 No 6).
     
-    Section 44B(2A): inserted, on 1 May 2011, by [section 26][479] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 44B(2A): inserted, on 1 May 2011, by [section 26][475] of the Securities Amendment Act 2011 (2011 No 6).
     
-    Section 44B(2B): inserted, on 1 May 2011, by [section 26][479] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 44B(2B): inserted, on 1 May 2011, by [section 26][475] of the Securities Amendment Act 2011 (2011 No 6).
     
-    Section 44B(2C): inserted, on 1 May 2011, by [section 26][479] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 44B(2C): inserted, on 1 May 2011, by [section 26][475] of the Securities Amendment Act 2011 (2011 No 6).
     
     Section 44B(3): amended, on 1 May 2011, by [section 84(3)][358] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -4570,7 +4380,7 @@ Restrictions on offer and allotment of securities to the public
     
     Section 44C(2): amended, on 3 May 2001, by [section 5(d)][360] of the Securities Amendment Act 2001 (2001 No 25).
     
-    Section 44C(4): amended, on 1 October 1997, by [section 22][480] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 44C(4): amended, on 1 October 1997, by [section 22][476] of the Securities Amendment Act 1996 (1996 No 100).
     
     Section 44C(5): amended, on 3 May 2001, by [section 5(d)][360] of the Securities Amendment Act 2001 (2001 No 25).
     
@@ -4614,7 +4424,7 @@ Restrictions on offer and allotment of securities to the public
     
     Section 44D(2): amended, on 3 May 2001, by [section 5(d)][360] of the Securities Amendment Act 2001 (2001 No 25).
     
-    Section 44D(2): amended, on 1 October 1997, by [section 23][481] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 44D(2): amended, on 1 October 1997, by [section 23][477] of the Securities Amendment Act 1996 (1996 No 100).
 
 #### Trust deeds and deeds of participation
 
@@ -4638,7 +4448,7 @@ Restrictions on offer and allotment of securities to the public
     
     (3) The Registrar must, on the registration of a copy of a trust deed or deed of participation under this section, give a certificate of that registration (and the certificate is conclusive evidence that the deed has been registered under this section).
     
-    Section 46: substituted, on 1 May 2011, by [section 27][482] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 46: substituted, on 1 May 2011, by [section 27][478] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 47 Amendment of registered deed
     
@@ -4658,7 +4468,7 @@ Restrictions on offer and allotment of securities to the public
     
     (4) The Registrar must, on the registration of a copy of an instrument of amendment under this section, give a certificate of that registration (and the certificate is conclusive evidence that the instrument has been registered under this section).
     
-    Section 47: substituted, on 1 May 2011, by [section 27][482] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 47: substituted, on 1 May 2011, by [section 27][478] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 47A Registrar not required to consider certain matters
     
@@ -4668,7 +4478,7 @@ Restrictions on offer and allotment of securities to the public
     
     *   (b) contains any misdescription or error.
     
-    Section 47A: inserted, on 1 May 2011, by [section 27][482] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 47A: inserted, on 1 May 2011, by [section 27][478] of the Securities Amendment Act 2011 (2011 No 6).
 
 #### Trustees and statutory supervisors
 
@@ -4682,9 +4492,9 @@ Restrictions on offer and allotment of securities to the public
     
     *   (c) the court consents.
     
-    (2) This section does not apply to the removal of a trustee or statutory supervisor by the FMA under [Part 2][483] of the Securities Trustees and Statutory Supervisors Act 2011\.
+    (2) This section does not apply to the removal of a trustee or statutory supervisor by the FMA under [Part 2][479] of the Securities Trustees and Statutory Supervisors Act 2011\.
     
-    Section 48: substituted, on 1 October 2011, by [section 69][484] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
+    Section 48: substituted, on 1 October 2011, by [section 69][480] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
 
 ##### 49 Trustees and statutory supervisors may apply to court for orders relating to securities
     
@@ -4720,13 +4530,13 @@ Restrictions on offer and allotment of securities to the public
     
     (4) The court may at any time vary or rescind any order made under this section.
     
-    Section 49(1)(a): substituted, on 1 October 2011, by [section 70(1)][485] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
+    Section 49(1)(a): substituted, on 1 October 2011, by [section 70(1)][481] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
     
-    Section 49(3)(fa): inserted, on 1 October 2011, by [section 70(2)][485] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
+    Section 49(3)(fa): inserted, on 1 October 2011, by [section 70(2)][481] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
 
 #### Duties of auditors
     
-*   Heading: inserted, on 1 October 1997, by [section 24][486] of the Securities Amendment Act 1996 (1996 No 100).
+*   Heading: inserted, on 1 October 1997, by [section 24][482] of the Securities Amendment Act 1996 (1996 No 100).
 
 ##### 50 Duty of auditor to report to trustee or statutory supervisor
     
@@ -4742,7 +4552,7 @@ Restrictions on offer and allotment of securities to the public
     
     (4) Nothing in this section affects the duties or liability of a trustee or statutory supervisor.
     
-    Section 50: substituted, on 1 October 1997, by [section 24][486] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 50: substituted, on 1 October 1997, by [section 24][482] of the Securities Amendment Act 1996 (1996 No 100).
 
 ##### 50A Duty of auditor to report to unit trustee
     
@@ -4758,7 +4568,7 @@ Restrictions on offer and allotment of securities to the public
     
     (4) Nothing in this section affects the duties or liability of an issuer of units in a unit trust or a unit trustee.
     
-    Section 50A: inserted, on 1 October 1997, by [section 24][486] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 50A: inserted, on 1 October 1997, by [section 24][482] of the Securities Amendment Act 1996 (1996 No 100).
 
 ##### 50B Duty of auditor to report to KiwiSaver trustee
     
@@ -4806,13 +4616,13 @@ Restrictions on offer and allotment of securities to the public
     
     *   (f) [section 50B(4)][161].
     
-    Compare: 1989 No 157 [s 157ZH][487]
+    Compare: 1989 No 157 [s 157ZH][483]
     
-    Section 50C: inserted, on 1 October 2011, by [section 71][488] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
+    Section 50C: inserted, on 1 October 2011, by [section 71][484] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
 
 #### Obligations of issuers
     
-*   Heading: inserted, on 1 October 1997, by [section 24][486] of the Securities Amendment Act 1996 (1996 No 100).
+*   Heading: inserted, on 1 October 1997, by [section 24][482] of the Securities Amendment Act 1996 (1996 No 100).
 
 ##### 51 Issuers to keep registers of securities
     
@@ -4854,7 +4664,7 @@ Restrictions on offer and allotment of securities to the public
     
     (6) Every issuer of securities offered to the public (other than securities that have been redeemed) shall ensure that every register kept by it under this section is audited at least once a year by a qualified auditor.
     
-    (7) Nothing in subsection (6) applies to a superannuation scheme if, by virtue of [section 13(2)][489] of the Superannuation Schemes Act 1989, the annual accounts of the scheme need not be audited.
+    (7) Nothing in subsection (6) applies to a superannuation scheme if, by virtue of [section 13(2)][485] of the Superannuation Schemes Act 1989, the annual accounts of the scheme need not be audited.
     
     (8) If the auditor considers at any time that this section is not being complied with, the auditor shall forthwith advise the issuer and,---
         
@@ -4872,13 +4682,13 @@ Restrictions on offer and allotment of securities to the public
     
     (10) Subsection (9) does not apply to an issuer that is a company if the registers of the company are kept at its registered office.
     
-    (11) Nothing in this section derogates from the [Life Insurance Act 1908][490] or the [Companies Act 1993][491].
+    (11) Nothing in this section derogates from the [Life Insurance Act 1908][486] or the [Companies Act 1993][487].
     
-    Section 51: substituted, on 1 October 1997, by [section 24][486] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 51: substituted, on 1 October 1997, by [section 24][482] of the Securities Amendment Act 1996 (1996 No 100).
     
     Section 51(8)(ca): inserted, on 1 May 2011, by [section 56][363] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 51(11): amended, on 15 April 2004, by [section 18][492] of the Securities Amendment Act 2004 (2004 No 31).
+    Section 51(11): amended, on 15 April 2004, by [section 18][488] of the Securities Amendment Act 2004 (2004 No 31).
 
 ##### 52 Rights of inspection of registers of securities and to copies of registers and deeds
     
@@ -4892,11 +4702,11 @@ Restrictions on offer and allotment of securities to the public
     
     (5) For the purposes of this section, a register shall be deemed to be duly closed if closed in accordance with provisions contained in the rules of the issuer or in the securities or any trust deed or deed of participation relating to the securities, during a period or periods not exceeding in aggregate 30 days in any year.
     
-    (6) Nothing in this section derogates from the [Life Insurance Act 1908][490] or the [Companies Act 1993][491].
+    (6) Nothing in this section derogates from the [Life Insurance Act 1908][486] or the [Companies Act 1993][487].
     
-    Section 52: substituted, on 1 October 1997, by [section 24][486] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 52: substituted, on 1 October 1997, by [section 24][482] of the Securities Amendment Act 1996 (1996 No 100).
     
-    Section 52(6): amended, on 15 April 2004, by [section 19][493] of the Securities Amendment Act 2004 (2004 No 31).
+    Section 52(6): amended, on 15 April 2004, by [section 19][489] of the Securities Amendment Act 2004 (2004 No 31).
 
 ##### 53 Issuers to keep proper accounting records
     
@@ -4934,7 +4744,7 @@ Restrictions on offer and allotment of securities to the public
     
     *   (d) if the business of the issuer or scheme involves providing services, a record of services provided and relevant invoices.
     
-    Section 53: substituted, on 1 October 1997, by [section 24][486] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 53: substituted, on 1 October 1997, by [section 24][482] of the Securities Amendment Act 1996 (1996 No 100).
 
 ##### 53A Place where accounting records to be kept
     
@@ -4942,13 +4752,13 @@ Restrictions on offer and allotment of securities to the public
     
     (2) The accounting records may be kept at a place outside New Zealand only if there is sent to, and kept at a place in, New Zealand such documents in respect of the business dealt with in those accounting records as will disclose with reasonable accuracy the financial position of that business at intervals not exceeding 6 months and will enable to be prepared the financial statements of the issuer or scheme, and any document annexed to any of those documents giving information that is required by any enactment.
     
-    Section 53A: inserted, on 1 October 1997, by [section 24][486] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 53A: inserted, on 1 October 1997, by [section 24][482] of the Securities Amendment Act 1996 (1996 No 100).
 
 ##### 53B Accounting records to be in English
     
 *   Accounting records required by [section 53][166] and the documents in respect of the business dealt with in those accounting records referred to in [section 53A][167] shall be kept either in written form in the English language or so as to enable the accounting records to be readily accessible and readily convertible into written form in the English language.
     
-    Section 53B: inserted, on 1 October 1997, by [section 24][486] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 53B: inserted, on 1 October 1997, by [section 24][482] of the Securities Amendment Act 1996 (1996 No 100).
 
 ##### 53C Period for which accounting records to be kept
     
@@ -4956,13 +4766,13 @@ Restrictions on offer and allotment of securities to the public
     
     (2) Nothing in subsection (1) derogates from any other requirement to keep accounting records for a particular time.
     
-    Section 53C: inserted, on 1 October 1997, by [section 24][486] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 53C: inserted, on 1 October 1997, by [section 24][482] of the Securities Amendment Act 1996 (1996 No 100).
 
 ##### 53D Inspection of accounting records
     
 *   Every issuer shall make the accounting records required to be kept under [section 53][166] and the documents in respect of the business dealt with in those accounting records referred to in [section 53A][167] available in written form in English at all reasonable times for inspection without charge by the directors of the issuer and by any trustee, statutory supervisor, KiwiSaver trustee, or unit trustee and by other persons authorised or permitted to inspect the accounting records of the issuer or scheme.
     
-    Section 53D: inserted, on 1 October 1997, by [section 24][486] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 53D: inserted, on 1 October 1997, by [section 24][482] of the Securities Amendment Act 1996 (1996 No 100).
     
     Section 53D: amended, on 1 May 2011, by [section 56][363] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
@@ -4974,21 +4784,21 @@ Restrictions on offer and allotment of securities to the public
     
     (3) Every issuer of participatory securities, units in a unit trust, or interests in a superannuation scheme offered to the public must ensure that the financial statements for the scheme to which the securities relate are audited at least once a year by a qualified auditor.
     
-    (4) Nothing in subsection (3) applies to a superannuation scheme if, by virtue of [section 13(2)][489] of the Superannuation Schemes Act 1989, the annual accounts of the scheme need not be audited.
+    (4) Nothing in subsection (3) applies to a superannuation scheme if, by virtue of [section 13(2)][485] of the Superannuation Schemes Act 1989, the annual accounts of the scheme need not be audited.
     
-    Section 53E: inserted, on 1 October 1997, by [section 24][486] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 53E: inserted, on 1 October 1997, by [section 24][482] of the Securities Amendment Act 1996 (1996 No 100).
     
-    Section 53E(2): repealed, on 15 April 2004, by [section 20(1)][494] of the Securities Amendment Act 2004 (2004 No 31).
+    Section 53E(2): repealed, on 15 April 2004, by [section 20(1)][490] of the Securities Amendment Act 2004 (2004 No 31).
     
-    Section 53E(3): substituted, on 15 April 2004, by [section 20(2)][494] of the Securities Amendment Act 2004 (2004 No 31).
+    Section 53E(3): substituted, on 15 April 2004, by [section 20(2)][490] of the Securities Amendment Act 2004 (2004 No 31).
 
 ##### 53F Application of other Acts not affected
     
-*   Nothing in [sections 53 to 53E][166] derogates from the [Companies Act 1993][491] or any other enactment.
+*   Nothing in [sections 53 to 53E][166] derogates from the [Companies Act 1993][487] or any other enactment.
     
-    Section 53F: inserted, on 1 October 1997, by [section 24][486] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 53F: inserted, on 1 October 1997, by [section 24][482] of the Securities Amendment Act 1996 (1996 No 100).
     
-    Section 53F: amended, on 15 April 2004, by [section 21][495] of the Securities Amendment Act 2004 (2004 No 31).
+    Section 53F: amended, on 15 April 2004, by [section 21][491] of the Securities Amendment Act 2004 (2004 No 31).
 
 ##### 54 Issuers to issue certificates evidencing securities
     
@@ -5006,21 +4816,21 @@ Restrictions on offer and allotment of securities to the public
     
     _system_ means---
         
-    *   (a) a system authorised or approved under the [Securities Transfer Act 1991][496]:
+    *   (a) a system authorised or approved under the [Securities Transfer Act 1991][492]:
     
-    *   (b) a designated settlement system (as defined in [section 156M][497] of the Reserve Bank of New Zealand Act 1989).
+    *   (b) a designated settlement system (as defined in [section 156M][493] of the Reserve Bank of New Zealand Act 1989).
     
-    Section 54(1): amended, on 1 October 1997, by [section 26][498] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 54(1): amended, on 1 October 1997, by [section 26][494] of the Securities Amendment Act 1996 (1996 No 100).
     
-    Section 54(3): substituted, on 24 November 2009, by [section 10][499] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 54(3): substituted, on 24 November 2009, by [section 10][495] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
     
-    Section 54(4): substituted, on 24 November 2009, by [section 10][499] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 54(4): substituted, on 24 November 2009, by [section 10][495] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 54A Information to be sent periodically to security holders
     
 *   Every issuer of securities offered to the public for subscription shall send, or cause to be sent, to each security holder, at the times prescribed by regulations, the documents, information, and other matters required to be sent by those regulations.
     
-    Section 54A: inserted, on 1 October 1997, by [section 27][500] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 54A: inserted, on 1 October 1997, by [section 27][496] of the Securities Amendment Act 1996 (1996 No 100).
 
 ##### 54B Information to be disclosed by issuers on request
     
@@ -5038,7 +4848,7 @@ Restrictions on offer and allotment of securities to the public
     
     (4) The documents referred to in subsection (3) must be sent to the security holder or prospective investor as soon as practicable but, in any event, within 5 working days of the issuer receiving the request.
     
-    Section 54B: inserted, on 1 October 1997, by [section 27][500] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 54B: inserted, on 1 October 1997, by [section 27][496] of the Securities Amendment Act 1996 (1996 No 100).
 
 ##### 54C Documents, information, and other matters to be made publicly available
     
@@ -5046,7 +4856,7 @@ Restrictions on offer and allotment of securities to the public
     
     (2) The documents, information, and other matters must, if required by the regulations, be presented, calculated, or prepared in accordance with the frameworks or methodologies specified in a notice issued by the FMA under [section 54D][177].
     
-    Section 54C: inserted, on 1 May 2011, by [section 28][501] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 54C: inserted, on 1 May 2011, by [section 28][497] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 54D FMA may specify frameworks or methodologies
     
@@ -5074,7 +4884,7 @@ Restrictions on offer and allotment of securities to the public
     
     (5) A notification in the _Gazette_ for the purpose of subsection (4)(b) does not have to include the text of the notice.
     
-    Section 54D: inserted, on 1 May 2011, by [section 28][501] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 54D: inserted, on 1 May 2011, by [section 28][497] of the Securities Amendment Act 2011 (2011 No 6).
     
     Section 54D(3): replaced, on 5 August 2013, by [section 77(3)][467] of the Legislation Act 2012 (2012 No 119).
 
@@ -5084,7 +4894,7 @@ Restrictions on offer and allotment of securities to the public
     
     (2) A failure to comply with subsection (1) does not affect the validity of the notice.
     
-    Section 54E: inserted, on 1 May 2011, by [section 28][501] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 54E: inserted, on 1 May 2011, by [section 28][497] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 54F FMA may vary or revoke notice
     
@@ -5092,7 +4902,7 @@ Restrictions on offer and allotment of securities to the public
     
     (2) [Sections 54D(2) to (5)][177] and [54E][178] apply, with necessary modifications, in all respects to a variation or revocation under this section.
     
-    Section 54F: inserted, on 1 May 2011, by [section 28][501] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 54F: inserted, on 1 May 2011, by [section 28][497] of the Securities Amendment Act 2011 (2011 No 6).
 
 #### Liability of issuers, etc, and offences
 
@@ -5120,7 +4930,7 @@ Restrictions on offer and allotment of securities to the public
     
     *   (c) a certificate registered under [section 37A(1A)][86], and any financial statements that accompany that certificate, shall be deemed to be included in the registered prospectus to which the certificate relates.
     
-    Section 55: substituted, on 1 October 1997, by [section 28(1)][502] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 55: substituted, on 1 October 1997, by [section 28(1)][498] of the Securities Amendment Act 1996 (1996 No 100).
 
 #### Civil liability
     
@@ -5300,9 +5110,9 @@ Restrictions on offer and allotment of securities to the public
     
     Section 56: substituted, on 1 September 1983, by section 27 of the Securities Amendment Act 1982 (1982 No 147).
     
-    Section 56 heading: substituted, on 25 October 2006, by [section 7(1)][503] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 56 heading: substituted, on 25 October 2006, by [section 7(1)][499] of the Securities Amendment Act 2006 (2006 No 46).
     
-    Section 56(1): substituted, on 25 October 2006, by [section 7(2)][503] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 56(1): substituted, on 25 October 2006, by [section 7(2)][499] of the Securities Amendment Act 2006 (2006 No 46).
     
     Section 56(2): amended, on 1 May 2011, by [section 84(3)][358] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -5312,17 +5122,17 @@ Restrictions on offer and allotment of securities to the public
     
     Section 56(3): amended, on 3 May 2001, by [section 5(c)][360] of the Securities Amendment Act 2001 (2001 No 25).
     
-    Section 56(3)(a): substituted, on 1 May 2011, by [section 29][504] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 56(3)(a): substituted, on 1 May 2011, by [section 29][500] of the Securities Amendment Act 2011 (2011 No 6).
     
     Section 56(3)(a): amended, on 1 May 2011, pursuant to [section 56][363] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 56(3)(b): substituted, on 1 May 2011, by [section 29][504] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 56(3)(b): substituted, on 1 May 2011, by [section 29][500] of the Securities Amendment Act 2011 (2011 No 6).
     
     Section 56(3)(b): amended, on 1 May 2011, pursuant to [section 56][363] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 56(3)(ba): inserted, on 25 October 2006, by [section 7(3)][503] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 56(3)(ba): inserted, on 25 October 2006, by [section 7(3)][499] of the Securities Amendment Act 2006 (2006 No 46).
     
-    Section 56(3)(c): amended, on 25 October 2006, by [section 7(4)][503] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 56(3)(c): amended, on 25 October 2006, by [section 7(4)][499] of the Securities Amendment Act 2006 (2006 No 46).
     
     Section 56(3)(c): amended, on 3 May 2001, by [section 5(c)][360] of the Securities Amendment Act 2001 (2001 No 25).
     
@@ -5368,9 +5178,9 @@ Restrictions on offer and allotment of securities to the public
     
     Section 57: substituted, on 1 September 1983, by section 28 of the Securities Amendment Act 1982 (1982 No 147).
     
-    Section 57 heading: substituted, on 25 October 2006, by [section 8(1)][505] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 57 heading: substituted, on 25 October 2006, by [section 8(1)][501] of the Securities Amendment Act 2006 (2006 No 46).
     
-    Section 57(1): substituted, on 25 October 2006, by [section 8(2)][505] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 57(1): substituted, on 25 October 2006, by [section 8(2)][501] of the Securities Amendment Act 2006 (2006 No 46).
     
     Section 57(2): amended, on 3 May 2001, by [section 5(c)][360] of the Securities Amendment Act 2001 (2001 No 25).
     
@@ -5378,13 +5188,13 @@ Restrictions on offer and allotment of securities to the public
     
     Section 57(2)(a): amended, on 3 May 2001, by [section 5(d)][360] of the Securities Amendment Act 2001 (2001 No 25).
     
-    Section 57(2)(b): substituted, on 1 May 2011, by [section 30][506] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 57(2)(b): substituted, on 1 May 2011, by [section 30][502] of the Securities Amendment Act 2011 (2011 No 6).
     
     Section 57(2)(b): amended, on 1 May 2011, pursuant to [section 56][363] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 57(2)(ba): inserted, on 25 October 2006, by [section 8(3)][505] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 57(2)(ba): inserted, on 25 October 2006, by [section 8(3)][501] of the Securities Amendment Act 2006 (2006 No 46).
     
-    Section 57(2)(c): amended, on 25 October 2006, by [section 8(4)][505] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 57(2)(c): amended, on 25 October 2006, by [section 8(4)][501] of the Securities Amendment Act 2006 (2006 No 46).
     
     Section 57(2)(c): amended, on 3 May 2001, by [section 5(c)][360] of the Securities Amendment Act 2001 (2001 No 25).
     
@@ -5416,9 +5226,9 @@ Restrictions on offer and allotment of securities to the public
     
     Section 57A: inserted, on 1 September 1983, by section 29 of the Securities Amendment Act 1982 (1982 No 147).
     
-    Section 57A heading: substituted, on 25 October 2006, by [section 9(1)][507] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 57A heading: substituted, on 25 October 2006, by [section 9(1)][503] of the Securities Amendment Act 2006 (2006 No 46).
     
-    Section 57A(1): substituted, on 25 October 2006, by [section 9(2)][507] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 57A(1): substituted, on 25 October 2006, by [section 9(2)][503] of the Securities Amendment Act 2006 (2006 No 46).
     
     Section 57A(2): amended, on 3 May 2001, by [section 5(c)][360] of the Securities Amendment Act 2001 (2001 No 25).
     
@@ -5426,31 +5236,31 @@ Restrictions on offer and allotment of securities to the public
     
     Section 57A(2)(b): amended, on 3 May 2001, by [section 5(c)][360] of the Securities Amendment Act 2001 (2001 No 25).
     
-    Section 57A(2)(c): amended, on 20 September 2007, by [section 5][508] of the Securities Amendment Act 2007 (2007 No 79).
+    Section 57A(2)(c): amended, on 20 September 2007, by [section 5][504] of the Securities Amendment Act 2007 (2007 No 79).
     
     Section 57A(2)(c): amended, on 3 May 2001, by [section 5(c)][360] of the Securities Amendment Act 2001 (2001 No 25).
 
 #### General provisions on civil liability remedies
     
-*   Heading: inserted, on 25 October 2006, by [section 10][509] of the Securities Amendment Act 2006 (2006 No 46).
+*   Heading: inserted, on 25 October 2006, by [section 10][505] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 57B Pecuniary penalty order and compensation order may be made for same conduct
     
 *   A person may be liable for both a pecuniary penalty order and compensation for the same conduct.
     
-    Section 57B: inserted, on 25 October 2006, by [section 10][509] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 57B: inserted, on 25 October 2006, by [section 10][505] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 57C Only 1 pecuniary penalty order may be made for same conduct
     
 *   If conduct by a person constitutes 2 or more civil liability events, proceedings may be brought against that person for any 1 or more of the civil liability events, but no person is liable to more than 1 pecuniary penalty order for the same conduct.
     
-    Section 57C: inserted, on 25 October 2006, by [section 10][509] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 57C: inserted, on 25 October 2006, by [section 10][505] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 57D Standard of proof for civil remedies
     
 *   The proceedings under [sections 55A to 57A][183] are civil proceedings and the usual rules of the court and rules of evidence and procedure for civil proceedings apply (including the standard of proof).
     
-    Section 57D: inserted, on 25 October 2006, by [section 10][509] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 57D: inserted, on 25 October 2006, by [section 10][505] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 57E Time limit for applying for civil remedies
     
@@ -5460,13 +5270,13 @@ Restrictions on offer and allotment of securities to the public
     
     (3) However, an application for compensation in respect of the civil liability event may be made at any time within 6 months after the date on which a declaration of civil liability is made, even if the usual time limit has expired.
     
-    Section 57E: inserted, on 25 October 2006, by [section 10][509] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 57E: inserted, on 25 October 2006, by [section 10][505] of the Securities Amendment Act 2006 (2006 No 46).
     
-    Section 57E(1): amended, on 1 May 2011, by [section 31(1)][510] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 57E(1): amended, on 1 May 2011, by [section 31(1)][506] of the Securities Amendment Act 2011 (2011 No 6).
 
 #### Criminal liability
     
-*   Heading: inserted, on 25 October 2006, by [section 11][511] of the Securities Amendment Act 2006 (2006 No 46).
+*   Heading: inserted, on 25 October 2006, by [section 11][507] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 58 Criminal liability for misstatement in advertisement or registered prospectus
     
@@ -5490,9 +5300,9 @@ Restrictions on offer and allotment of securities to the public
     
     *   (b) a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
     
-    Section 58: substituted, on 15 December 1994, by [section 2(1)][512] of the Securities Amendment Act (No 2) 1994 (1994 No 158).
+    Section 58: substituted, on 15 December 1994, by [section 2(1)][508] of the Securities Amendment Act (No 2) 1994 (1994 No 158).
     
-    Section 58(3): amended, on 1 May 2011, by [section 32][513] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 58(3): amended, on 1 May 2011, by [section 32][509] of the Securities Amendment Act 2011 (2011 No 6).
     
     Section 58(5): replaced, on 1 July 2013, by [section 413][458] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -5520,7 +5330,7 @@ Restrictions on offer and allotment of securities to the public
     
     Section 59(1): amended, on 1 July 2013, by [section 413][458] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 59(1): amended, on 1 December 2002, by [section 17][514] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 59(1): amended, on 1 December 2002, by [section 17][510] of the Securities Amendment Act 2002 (2002 No 43).
     
     Section 59(1): amended, on 1 September 1983, by section 31(1) of the Securities Amendment Act 1982 (1982 No 147).
     
@@ -5550,7 +5360,7 @@ Restrictions on offer and allotment of securities to the public
     
     (4) This section applies in respect of prospectuses and instruments of amendment delivered to the Registrar for registration under this Act on or after the commencement of this section.
     
-    Section 59A: substituted, on 1 May 2011, by [section 33][515] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 59A: substituted, on 1 May 2011, by [section 33][511] of the Securities Amendment Act 2011 (2011 No 6).
     
     Section 59A(3): amended, on 1 July 2013, by [section 413][458] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -5578,27 +5388,27 @@ Restrictions on offer and allotment of securities to the public
     
     Section 60(1): amended, on 1 July 2013, by [section 413][458] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 60(1): amended, on 1 December 2002, by [section 19(1)(d)][516] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 60(1): amended, on 1 December 2002, by [section 19(1)(d)][512] of the Securities Amendment Act 2002 (2002 No 43).
     
-    Section 60(1)(a): repealed, on 1 December 2002, by [section 19(1)(a)][516] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 60(1)(a): repealed, on 1 December 2002, by [section 19(1)(a)][512] of the Securities Amendment Act 2002 (2002 No 43).
     
-    Section 60(1)(b): repealed, on 1 December 2002, by [section 19(1)(a)][516] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 60(1)(b): repealed, on 1 December 2002, by [section 19(1)(a)][512] of the Securities Amendment Act 2002 (2002 No 43).
     
-    Section 60(1)(c): repealed, on 1 May 2011, by [section 34(1)][517] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 60(1)(c): repealed, on 1 May 2011, by [section 34(1)][513] of the Securities Amendment Act 2011 (2011 No 6).
     
-    Section 60(1)(d): amended, on 1 May 2011, by [section 34(2)][517] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 60(1)(d): amended, on 1 May 2011, by [section 34(2)][513] of the Securities Amendment Act 2011 (2011 No 6).
     
-    Section 60(1)(d): amended, on 1 December 2002, by [section 19(1)(c)][516] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 60(1)(d): amended, on 1 December 2002, by [section 19(1)(c)][512] of the Securities Amendment Act 2002 (2002 No 43).
     
     Section 60(2): amended, on 1 July 2013, by [section 413][458] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 60(2): amended, on 1 May 2011, by [section 34(3)(a)][517] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 60(2): amended, on 1 May 2011, by [section 34(3)(a)][513] of the Securities Amendment Act 2011 (2011 No 6).
     
-    Section 60(2): amended, on 1 May 2011, by [section 34(3)(b)][517] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 60(2): amended, on 1 May 2011, by [section 34(3)(b)][513] of the Securities Amendment Act 2011 (2011 No 6).
     
-    Section 60(2): amended, on 1 December 2002, by [section 19(2)][516] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 60(2): amended, on 1 December 2002, by [section 19(2)][512] of the Securities Amendment Act 2002 (2002 No 43).
     
-    Section 60(2): amended, on 1 October 1997, by [section 31][518] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 60(2): amended, on 1 October 1997, by [section 31][514] of the Securities Amendment Act 1996 (1996 No 100).
     
     Section 60(2): amended, on 1 September 1983, by section 32 of the Securities Amendment Act 1982 (1982 No 147).
     
@@ -5606,19 +5416,19 @@ Restrictions on offer and allotment of securities to the public
 
 #### Management bans
     
-*   Heading: inserted, on 25 October 2006, by [section 13][519] of the Securities Amendment Act 2006 (2006 No 46).
+*   Heading: inserted, on 25 October 2006, by [section 13][515] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 60A When court may make management banning orders
     
 *   (1) The court may, on application by an entitled person, make a management banning order against a person (_A_) if---
         
-    *   (a) A has been convicted of an offence against [section 58][520] or [59][521] or a pecuniary penalty order has been made against A under this Act; or
+    *   (a) A has been convicted of an offence against [section 58][516] or [59][517] or a pecuniary penalty order has been made against A under this Act; or
     
-    *   (ab) A has been convicted of an offence against [section 51][522] or [61][523] of the Financial Markets Authority Act 2011; or
+    *   (ab) A has been convicted of an offence against [section 51][518] or [61][519] of the Financial Markets Authority Act 2011; or
     
     *   (b) A has, while a director of an incorporated or unincorporated body,---
             
-        *   (i) persistently contravened this Act, the [Companies Act 1993][491], the [Securities Markets Act 1988][524], the [Securities Trustees and Statutory Supervisors Act 2011][426], the [Takeovers Act 1993][525], or the takeovers code in force under that Act; or
+        *   (i) persistently contravened this Act, the [Companies Act 1993][487], the [Securities Markets Act 1988][520], the [Securities Trustees and Statutory Supervisors Act 2011][426], the [Takeovers Act 1993][521], or the takeovers code in force under that Act; or
         
         *   (ii) if the incorporated or unincorporated body has so contravened, persistently failed to take all reasonable steps to obtain compliance with those Acts or the code; or
         
@@ -5644,13 +5454,13 @@ Restrictions on offer and allotment of securities to the public
     
     *   (e) a person who is, or has been, a security holder or creditor of an incorporated or unincorporated body referred to in paragraph (c).
     
-    Section 60A: inserted, on 25 October 2006, by [section 13][519] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 60A: inserted, on 25 October 2006, by [section 13][515] of the Securities Amendment Act 2006 (2006 No 46).
     
-    Section 60A(1)(a): amended, on 1 May 2011, by [section 35(1)][526] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 60A(1)(a): amended, on 1 May 2011, by [section 35(1)][522] of the Securities Amendment Act 2011 (2011 No 6).
     
-    Section 60A(1)(ab): inserted, on 1 May 2011, by [section 35(2)][526] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 60A(1)(ab): inserted, on 1 May 2011, by [section 35(2)][522] of the Securities Amendment Act 2011 (2011 No 6).
     
-    Section 60A(1)(b)(i): amended, on 1 October 2011, by [section 72][527] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
+    Section 60A(1)(b)(i): amended, on 1 October 2011, by [section 72][523] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
     
     Section 60A(2)(a): amended, on 1 May 2011, by [section 84(3)][358] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -5658,27 +5468,27 @@ Restrictions on offer and allotment of securities to the public
     
 *   A management banning order may, for a period stated in the order of 10 years or less, prohibit or restrict the person (without the leave of the court) from being a director or promoter of, or in any way (whether directly or indirectly) being concerned or taking part in the management of, an incorporated or unincorporated body (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand).
     
-    Section 60B: inserted, on 25 October 2006, by [section 13][519] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 60B: inserted, on 25 October 2006, by [section 13][515] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 60C Offence of contravening management banning order
     
 *   An individual who acts in contravention of a management banning order under [section 60A][204] commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both.
     
-    Section 60C: inserted, on 25 October 2006, by [section 13][519] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 60C: inserted, on 25 October 2006, by [section 13][515] of the Securities Amendment Act 2006 (2006 No 46).
     
     Section 60C: amended, on 1 July 2013, by [section 413][458] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 60D Only 1 management banning order may be made for same conduct
     
-*   If conduct by a person constitutes grounds for making an order under any 1 or more of [section 60A][204] of this Act, [section 43F][528] of the Securities Markets Act 1988, [section 44F][529] of the Takeovers Act 1993, and [section 383][530] of the Companies Act 1993, proceedings may be brought against that person under any 1 or more of those provisions, but no person is liable to more than 1 order under those provisions for the same conduct.
+*   If conduct by a person constitutes grounds for making an order under any 1 or more of [section 60A][204] of this Act, [section 43F][524] of the Securities Markets Act 1988, [section 44F][525] of the Takeovers Act 1993, and [section 383][526] of the Companies Act 1993, proceedings may be brought against that person under any 1 or more of those provisions, but no person is liable to more than 1 order under those provisions for the same conduct.
     
-    Section 60D: inserted, on 25 October 2006, by [section 13][519] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 60D: inserted, on 25 October 2006, by [section 13][515] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 60E Persons automatically banned from management
     
 *   (1) This section applies to a person if---
         
-    *   (a) the person has been convicted of an offence against [section 58][199] of this Act or [section 51][522] or [61][523] of the Financial Markets Authority Act 2011; or
+    *   (a) the person has been convicted of an offence against [section 58][199] of this Act or [section 51][518] or [61][519] of the Financial Markets Authority Act 2011; or
     
     *   (b) a pecuniary penalty order has been made against the person under this Act.
     
@@ -5692,11 +5502,11 @@ Restrictions on offer and allotment of securities to the public
     
     (3) An individual who acts in contravention of this section commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both.
     
-    Section 60E: inserted, on 25 October 2006, by [section 13][519] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 60E: inserted, on 25 October 2006, by [section 13][515] of the Securities Amendment Act 2006 (2006 No 46).
     
-    Section 60E(1): substituted, on 1 May 2011, by [section 36(1)][531] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 60E(1): substituted, on 1 May 2011, by [section 36(1)][527] of the Securities Amendment Act 2011 (2011 No 6).
     
-    Section 60E(2A): inserted, on 1 May 2011, by [section 36(2)][531] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 60E(2A): inserted, on 1 May 2011, by [section 36(2)][527] of the Securities Amendment Act 2011 (2011 No 6).
     
     Section 60E(3): amended, on 1 July 2013, by [section 413][458] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -5712,7 +5522,7 @@ Restrictions on offer and allotment of securities to the public
     
     (3) The FMA, and any other persons that the court thinks fit, may attend and be heard at the hearing of the application.
     
-    Section 60F: inserted, on 25 October 2006, by [section 13][519] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 60F: inserted, on 25 October 2006, by [section 13][515] of the Securities Amendment Act 2006 (2006 No 46).
     
     Section 60F(1)(a): amended, on 1 May 2011, by [section 84(3)][358] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -5722,13 +5532,13 @@ Restrictions on offer and allotment of securities to the public
 
 #### Orders to preserve assets to satisfy claims
     
-*   Heading: inserted, on 25 October 2006, by [section 13][519] of the Securities Amendment Act 2006 (2006 No 46).
+*   Heading: inserted, on 25 October 2006, by [section 13][515] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 60G When court may prohibit payment or transfer of money, securities, or other property
     
 *   (1) This section applies if---
         
-    *   (a) an investigation is being carried out under the [Financial Markets Authority Act 2011][532] in relation to an act or omission by a person that---
+    *   (a) an investigation is being carried out under the [Financial Markets Authority Act 2011][528] in relation to an act or omission by a person that---
             
         *   (i) constitutes or may constitute a contravention of this Act; or
         
@@ -5764,7 +5574,7 @@ Restrictions on offer and allotment of securities to the public
     
     _civil proceedings_ means proceedings in a court (other than criminal proceedings)
     
-    _financial markets legislation_ has the same meaning as in [section 4][533] of the Financial Markets Authority Act 2011
+    _financial markets legislation_ has the same meaning as in [section 4][529] of the Financial Markets Authority Act 2011
     
     _liable_ means liable, or may be or become liable, to pay money (whether in respect of a debt, by way of damages or compensation, or otherwise) or to account for securities or other property
     
@@ -5772,15 +5582,15 @@ Restrictions on offer and allotment of securities to the public
     
     Compare: Corporations Act 2001 s 1323(1) (Aust)
     
-    Section 60G: inserted, on 25 October 2006, by [section 13][519] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 60G: inserted, on 25 October 2006, by [section 13][515] of the Securities Amendment Act 2006 (2006 No 46).
     
-    Section 60G(1): substituted, on 1 May 2011, by [section 37(1)][534] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 60G(1): substituted, on 1 May 2011, by [section 37(1)][530] of the Securities Amendment Act 2011 (2011 No 6).
     
     Section 60G(2): amended, on 1 May 2011, by [section 84(3)][358] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 60G(3) **civil proceedings**: inserted, on 1 May 2011, by [section 37(2)][534] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 60G(3) **civil proceedings**: inserted, on 1 May 2011, by [section 37(2)][530] of the Securities Amendment Act 2011 (2011 No 6).
     
-    Section 60G(3) **financial markets legislation**: inserted, on 1 May 2011, by [section 37(2)][534] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 60G(3) **financial markets legislation**: inserted, on 1 May 2011, by [section 37(2)][530] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 60H What orders may be made
     
@@ -5828,9 +5638,9 @@ Restrictions on offer and allotment of securities to the public
     
     Compare: Corporations Act 2001 s 1323(1), (2A), (6) (Aust)
     
-    Section 60H: inserted, on 25 October 2006, by [section 13][519] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 60H: inserted, on 25 October 2006, by [section 13][515] of the Securities Amendment Act 2006 (2006 No 46).
     
-    Section 60H(1)(ga): inserted, on 1 May 2011, by [section 38(1)][535] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 60H(1)(ga): inserted, on 1 May 2011, by [section 38(1)][531] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 60I Interim orders
     
@@ -5840,17 +5650,17 @@ Restrictions on offer and allotment of securities to the public
     
     Compare: Corporations Act 2001 s 1323(3), (4) (Aust)
     
-    Section 60I: inserted, on 25 October 2006, by [section 13][519] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 60I: inserted, on 25 October 2006, by [section 13][515] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 60J Relationship with other law
     
 *   (1) Nothing in [sections 60G to 60I][211] affects the powers that the court has apart from those sections.
     
-    (2) This section has effect subject to the [Insolvency Act 1967][536].
+    (2) This section has effect subject to the [Insolvency Act 1967][532].
     
     Compare: Corporations Act 2001 s 1323(7), (8) (Aust)
     
-    Section 60J: inserted, on 25 October 2006, by [section 13][519] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 60J: inserted, on 25 October 2006, by [section 13][515] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 60K Offence
     
@@ -5862,7 +5672,7 @@ Restrictions on offer and allotment of securities to the public
     
     Compare: Corporations Act 2001 s 1323(9), (10) (Aust).
     
-    Section 60K: inserted, on 25 October 2006, by [section 13][519] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 60K: inserted, on 25 October 2006, by [section 13][515] of the Securities Amendment Act 2006 (2006 No 46).
     
     Section 60K: amended, on 1 July 2013, by [section 413][458] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -5876,7 +5686,7 @@ Restrictions on offer and allotment of securities to the public
     
     (2) An indemnity given in breach of this section is void.
     
-    Section 61: substituted, on 15 April 2004, by [section 23][537] of the Securities Amendment Act 2004 (2004 No 31).
+    Section 61: substituted, on 15 April 2004, by [section 23][533] of the Securities Amendment Act 2004 (2004 No 31).
 
 ##### 61A Permitted indemnities for certain costs of directors, employees, and auditors of issuers
     
@@ -5892,9 +5702,9 @@ Restrictions on offer and allotment of securities to the public
     
     *   (b) any costs incurred by him or her in connection with an application under [section 63][221] in which he or she is relieved from liability by the court.
     
-    (2) This section does not limit [section 162][538] of the Companies Act 1993\.
+    (2) This section does not limit [section 162][534] of the Companies Act 1993\.
     
-    Section 61A: inserted, on 15 April 2004, by [section 23][537] of the Securities Amendment Act 2004 (2004 No 31).
+    Section 61A: inserted, on 15 April 2004, by [section 23][533] of the Securities Amendment Act 2004 (2004 No 31).
 
 ##### 61B Permitted insurance for certain liability of directors and employees of issuer
     
@@ -5922,9 +5732,9 @@ Restrictions on offer and allotment of securities to the public
     
     (4) However, subsection (3) does not apply to the extent that the director or employee proves that the insurance was fair to the issuer at the time the insurance was effected.
     
-    (5) A certificate signed for the purposes of [section 162(6)][538] of the Companies Act 1993 is effective also for the purposes of subsection (2); but this section does not limit section 162 of the Companies Act 1993\.
+    (5) A certificate signed for the purposes of [section 162(6)][534] of the Companies Act 1993 is effective also for the purposes of subsection (2); but this section does not limit section 162 of the Companies Act 1993\.
     
-    Section 61B: inserted, on 15 April 2004, by [section 23][537] of the Securities Amendment Act 2004 (2004 No 31).
+    Section 61B: inserted, on 15 April 2004, by [section 23][533] of the Securities Amendment Act 2004 (2004 No 31).
 
 ##### 61C Interpretation for sections 61 to 61B
     
@@ -5938,7 +5748,7 @@ Restrictions on offer and allotment of securities to the public
     
     _indemnify_ includes relieve, exempt, or excuse from liability, whether before or after the liability arises.
     
-    Section 61C: inserted, on 15 April 2004, by [section 23][537] of the Securities Amendment Act 2004 (2004 No 31).
+    Section 61C: inserted, on 15 April 2004, by [section 23][533] of the Securities Amendment Act 2004 (2004 No 31).
 
 ##### 62 Liability of trustees and statutory supervisors
     
@@ -5992,11 +5802,11 @@ Restrictions on offer and allotment of securities to the public
     
     Section 63(1): amended, on 3 May 2001, by [section 5(e)][360] of the Securities Amendment Act 2001 (2001 No 25).
     
-    Section 63(1)(a): amended, on 28 July 2009, by [section 14(1)][539] of the Securities (Disclosure) Amendment Act 2009 (2009 No 23).
+    Section 63(1)(a): amended, on 28 July 2009, by [section 14(1)][535] of the Securities (Disclosure) Amendment Act 2009 (2009 No 23).
     
     Section 63(1)(b): substituted, on 1 September 1983, by section 33 of the Securities Amendment Act 1982 (1982 No 147).
     
-    Section 63(1)(b): amended, on 28 July 2009, by [section 14(2)][539] of the Securities (Disclosure) Amendment Act 2009 (2009 No 23).
+    Section 63(1)(b): amended, on 28 July 2009, by [section 14(2)][535] of the Securities (Disclosure) Amendment Act 2009 (2009 No 23).
     
     Section 63(2): amended, on 3 May 2001, by [section 5(c)][360] of the Securities Amendment Act 2001 (2001 No 25).
     
@@ -6008,19 +5818,19 @@ Restrictions on offer and allotment of securities to the public
 
 ##### 63A No liability under Fair Trading Act 1986 if not liable under this Act
     
-*   A court hearing a proceeding brought against a person under the [Fair Trading Act 1986][540] must not find that person liable for conduct that is regulated by this Act if that person would not be liable for that conduct under this Act.
+*   A court hearing a proceeding brought against a person under the [Fair Trading Act 1986][536] must not find that person liable for conduct that is regulated by this Act if that person would not be liable for that conduct under this Act.
     
-    Section 63A: inserted, on 25 October 2006, by [section 14][541] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 63A: inserted, on 25 October 2006, by [section 14][537] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 64 Time for filing charging document for certain offences
     
-*   (1) Despite anything to the contrary in [section 25][542] of the Criminal Procedure Act 2011,---
+*   (1) Despite anything to the contrary in [section 25][538] of the Criminal Procedure Act 2011,---
         
     *   (a) a charging document may be filed at any time in relation to an offence against [section 58][199], [60C][206], [60E(3)][208], or [60K][215] of this Act; and
     
     *   (b) the limitation period in respect of an offence against [section 38B(5)][102] or [60(1)][202] of this Act ends on the date that is 3 years after the date on which the offence was committed.
     
-    (2) Nothing in subsection (1) affects the application of [section 25][542] of the Criminal Procedure Act 2011 in relation to any offence not mentioned in that subsection.
+    (2) Nothing in subsection (1) affects the application of [section 25][538] of the Criminal Procedure Act 2011 in relation to any offence not mentioned in that subsection.
     
     Section 64: replaced, on 1 July 2013, by [section 413][458] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -6030,19 +5840,19 @@ Restrictions on offer and allotment of securities to the public
 
 #### Other general provisions
     
-*   Heading: substituted, on 25 October 2006, by [section 15][543] of the Securities Amendment Act 2006 (2006 No 46).
+*   Heading: substituted, on 25 October 2006, by [section 15][539] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 65A Jurisdiction of courts in New Zealand
     
 *   The High Court has exclusive jurisdiction to hear and determine proceedings in New Zealand under this Act, other than proceedings for offences against [Part 2][61].
     
-    Section 65A: inserted, on 1 December 2002, by [section 20][544] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 65A: inserted, on 1 December 2002, by [section 20][540] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 65B Court may order payment of FMA's costs
     
 *   If the FMA brings or conducts proceedings under this Act and the court makes any order against a person under this Act, the court may also order that person to pay the FMA's costs and expenses in conducting the proceedings.
     
-    Section 65B: inserted, on 25 October 2006, by [section 16][545] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 65B: inserted, on 25 October 2006, by [section 16][541] of the Securities Amendment Act 2006 (2006 No 46).
     
     Section 65B heading: amended, on 1 May 2011, by [section 84(5)][358] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -6054,7 +5864,7 @@ Restrictions on offer and allotment of securities to the public
     
 *   The court may, for the purpose of securing compliance with any other order it makes under this Act, direct a person to do or refrain from doing a specified act.
     
-    Section 65C: inserted, on 25 October 2006, by [section 16][545] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 65C: inserted, on 25 October 2006, by [section 16][541] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 65D Giving notice of application for court orders
     
@@ -6064,7 +5874,7 @@ Restrictions on offer and allotment of securities to the public
     
     *   (b) publish notice of the application in the manner the court thinks fit.
     
-    Section 65D: inserted, on 25 October 2006, by [section 16][545] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 65D: inserted, on 25 October 2006, by [section 16][541] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 65E General provisions as to court's orders
     
@@ -6072,13 +5882,13 @@ Restrictions on offer and allotment of securities to the public
     
     (2) The court may revoke, vary, or suspend an order made under this Act on the terms and conditions the court thinks fit.
     
-    Section 65E: inserted, on 25 October 2006, by [section 16][545] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 65E: inserted, on 25 October 2006, by [section 16][541] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 65F No pecuniary penalty and fine for same conduct
     
 *   A person cannot be ordered to pay a pecuniary penalty and be liable for a fine under this Act for the same conduct.
     
-    Section 65F: inserted, on 25 October 2006, by [section 16][545] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 65F: inserted, on 25 October 2006, by [section 16][541] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 65G Appeals against decisions of FMA on questions of law only
     
@@ -6096,7 +5906,7 @@ Restrictions on offer and allotment of securities to the public
     
     *   (f) [section 44B][147] (which relates to the FMA's powers in respect of contributory mortgages).
     
-    Section 65G: inserted, on 1 May 2011, by [section 39][546] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 65G: inserted, on 1 May 2011, by [section 39][542] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 65H Power of Registrar to delegate
     
@@ -6116,296 +5926,298 @@ Restrictions on offer and allotment of securities to the public
     
     (4) A person who appears to act under a delegation is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
     
-    Section 65H: inserted, on 1 May 2011, by [section 39][546] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 65H: inserted, on 1 May 2011, by [section 39][542] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 66 Registers to be kept by Registrar for purposes of this Act
     
-*   \[Repealed\]
+*   (1) The Registrar shall cause to be kept in the office of each District Registrar of Companies such registers as he or she considers necessary for the purposes of this Act, and all matters required by this Act to be registered or recorded by the Registrar shall be recorded therein.
     
-    Section 66: repealed, on 1 July 2013, by [section 40][547] of the Securities Amendment Act 2011 (2011 No 6).
+    (2) [Sections 360][543], [361][544], and [363][545] of the Companies Act 1993 apply in respect of any documents kept by the Registrar for the purposes of this Act as if they were documents kept for the purposes of that Act.
+    
+    Section 66: treated as being in force (after being repealed on 1 July 2013 by section 40 of the Securities Amendment Act 2011 (2011 No 6)), on 14 September 2013, by [section 4(2)(b)][469] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ## Part 3  
 General investigation and enforcement powers
 
 \[Repealed\]
     
-*   Part 3: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+*   Part 3: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 #### Powers of inspection
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+*   Heading: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 67 Power to inspect documents
     
 *   \[Repealed\]
     
-    Section 67: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 67: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 67A Power to request or approve Registrar or authorised persons to inspect documents
     
 *   \[Repealed\]
     
-    Section 67A: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 67A: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 68 Limits on exercise of power to inspect documents
     
 *   \[Repealed\]
     
-    Section 68: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 68: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 68A Requirements for persons authorised to inspect documents
     
 *   \[Repealed\]
     
-    Section 68A: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 68A: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 68B Disclosure of information from inspection
     
 *   \[Repealed\]
     
-    Section 68B: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 68B: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 68C Powers not limited
     
 *   \[Repealed\]
     
-    Section 68C: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 68C: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 68D Non-disclosure of information from inspection
     
 *   \[Repealed\]
     
-    Section 68D: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 68D: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 68E No privilege against self-incrimination
     
 *   \[Repealed\]
     
-    Section 68E: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 68E: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 68F Protection from liability for persons exercising powers of inspection
     
 *   \[Repealed\]
     
-    Section 68F: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 68F: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 68G Rights of appeal
     
 *   \[Repealed\]
     
-    Section 68G: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 68G: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 68H Time for appeal
     
 *   \[Repealed\]
     
-    Section 68H: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 68H: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 68I Situation while appeal pending
     
 *   \[Repealed\]
     
-    Section 68I: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 68I: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 68J Determination of appeal
     
 *   \[Repealed\]
     
-    Section 68J: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 68J: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 68K Requirements where appeal allowed
     
 *   \[Repealed\]
     
-    Section 68K: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 68K: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 69 Appeals against other decisions of Registrar
     
 *   \[Repealed\]
     
-    Section 69: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 69: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 69A Appeals from decisions under section 67A
     
 *   \[Repealed\]
     
-    Section 69A: repealed, on 1 December 2002, by [section 22][549] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 69A: repealed, on 1 December 2002, by [section 22][547] of the Securities Amendment Act 2002 (2002 No 43).
 
 #### Commission's powers for receiving evidence
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+*   Heading: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 69B Who may receive evidence
     
 *   \[Repealed\]
     
-    Section 69B: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 69B: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 69BA Admissibility of evidence
     
 *   \[Repealed\]
     
-    Section 69BA: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 69BA: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 69C How evidence may be given
     
 *   \[Repealed\]
     
-    Section 69C: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 69C: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 69D Power to summon witnesses
     
 *   \[Repealed\]
     
-    Section 69D: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 69D: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 69E Witnesses' expenses
     
 *   \[Repealed\]
     
-    Section 69E: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 69E: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 #### Exercise of inspection and evidence powers for overseas regulators
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+*   Heading: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 69F Power of Commission to act on requests of overseas regulators
     
 *   \[Repealed\]
     
-    Section 69F: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 69F: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 69G Commission's consideration of requests
     
 *   \[Repealed\]
     
-    Section 69G: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 69G: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 69H Conditions that may be imposed on providing information to overseas regulators
     
 *   \[Repealed\]
     
-    Section 69H: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 69H: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 69I Undertakings to be obtained before providing certain information to overseas regulators
     
 *   \[Repealed\]
     
-    Section 69I: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 69I: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 #### Commission's power to accept undertakings
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+*   Heading: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 69J Commission may accept undertakings
     
 *   \[Repealed\]
     
-    Section 69J: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 69J: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 69K Enforcement of undertakings
     
 *   \[Repealed\]
     
-    Section 69K: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 69K: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 #### Proceedings before Commission
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+*   Heading: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 69L Right to be heard and represented at proceedings before Commission
     
 *   \[Repealed\]
     
-    Section 69L: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 69L: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 69M Power to hear proceedings in private
     
 *   \[Repealed\]
     
-    Section 69M: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 69M: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 69N Power to make other confidentiality orders
     
 *   \[Repealed\]
     
-    Section 69N: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 69N: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 69O Commission may state case for opinion of High Court
     
 *   \[Repealed\]
     
-    Section 69O: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 69O: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 #### Appeals of Commission decisions
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+*   Heading: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 69P Appeals to High Court on questions of law only
     
 *   \[Repealed\]
     
-    Section 69P: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 69P: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 69Q Requirements for lodging appeal
     
 *   \[Repealed\]
     
-    Section 69Q: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 69Q: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 69R Determination of appeal
     
 *   \[Repealed\]
     
-    Section 69R: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 69R: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 #### Miscellaneous provisions
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+*   Heading: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 69S Witnesses and counsel to have privileges of witnesses and counsel in court
     
 *   \[Repealed\]
     
-    Section 69S: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 69S: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 69T No privilege against self-incrimination
     
 *   \[Repealed\]
     
-    Section 69T: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 69T: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 69U Restrictions on use of self-incriminating statements obtained by summons
     
 *   \[Repealed\]
     
-    Section 69U: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 69U: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 69V Limitation on disclosure of information obtained in Commission's operations
     
 *   \[Repealed\]
     
-    Section 69V: repealed, on 1 May 2011, by [section 41][548] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 69V: repealed, on 1 May 2011, by [section 41][546] of the Securities Amendment Act 2011 (2011 No 6).
 
 ## Part 4  
 Regulations and exemptions
     
-*   Part 4 heading: inserted, on 1 December 2002, by [section 24][550] of the Securities Amendment Act 2002 (2002 No 43).
-*   Part 4 heading: amended, on 1 May 2011, by [section 42][551] of the Securities Amendment Act 2011 (2011 No 6).
+*   Part 4 heading: inserted, on 1 December 2002, by [section 24][548] of the Securities Amendment Act 2002 (2002 No 43).
+*   Part 4 heading: amended, on 1 May 2011, by [section 42][549] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 70 Regulations and Orders in Council
     
@@ -6493,49 +6305,49 @@ Regulations and exemptions
     
     (4) \[Repealed\]
     
-    Section 70(1): amended, on 12 March 2009, by [section 25(1)][552] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 70(1): amended, on 12 March 2009, by [section 25(1)][550] of the Securities Amendment Act 2002 (2002 No 43).
     
     Section 70(1)(b): substituted, on 16 December 1982, by section 35 of the Securities Amendment Act 1982 (1982 No 147).
     
-    Section 70(1)(b): amended, on 2 September 1996, by [section 37(1)][553] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 70(1)(b): amended, on 2 September 1996, by [section 37(1)][551] of the Securities Amendment Act 1996 (1996 No 100).
     
-    Section 70(1)(b)(i): amended, on 2 September 1996, by [section 37(1)][553] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 70(1)(b)(i): amended, on 2 September 1996, by [section 37(1)][551] of the Securities Amendment Act 1996 (1996 No 100).
     
-    Section 70(1)(b)(ii): amended, on 2 September 1996, by [section 37(1)][553] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 70(1)(b)(ii): amended, on 2 September 1996, by [section 37(1)][551] of the Securities Amendment Act 1996 (1996 No 100).
     
-    Section 70(1)(b)(iii): amended, on 2 September 1996, by [section 37(2)][553] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 70(1)(b)(iii): amended, on 2 September 1996, by [section 37(2)][551] of the Securities Amendment Act 1996 (1996 No 100).
     
     Section 70(1)(c): substituted, on 16 December 1982, by section 35 of the Securities Amendment Act 1982 (1982 No 147).
     
-    Section 70(1)(c): amended, on 2 September 1996, by [section 37(3)][553] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 70(1)(c): amended, on 2 September 1996, by [section 37(3)][551] of the Securities Amendment Act 1996 (1996 No 100).
     
-    Section 70(1)(ca): inserted, on 2 September 1996, by [section 37(4)][553] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 70(1)(ca): inserted, on 2 September 1996, by [section 37(4)][551] of the Securities Amendment Act 1996 (1996 No 100).
     
-    Section 70(1)(cb): inserted, on 1 May 2011, by [section 43(1)][554] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 70(1)(cb): inserted, on 1 May 2011, by [section 43(1)][552] of the Securities Amendment Act 2011 (2011 No 6).
     
-    Section 70(1)(d): substituted, on 28 July 2009, by [section 15][555] of the Securities (Disclosure) Amendment Act 2009 (2009 No 23).
+    Section 70(1)(d): substituted, on 28 July 2009, by [section 15][553] of the Securities (Disclosure) Amendment Act 2009 (2009 No 23).
     
     Section 70(1)(e): repealed, on 16 December 1982, by section 35 of the Securities Amendment Act 1982 (1982 No 147).
     
     Section 70(1)(f): repealed, on 16 December 1982, by section 35 of the Securities Amendment Act 1982 (1982 No 147).
     
-    Section 70(1)(g): amended, on 1 October 2011, by [section 73(1)][556] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
+    Section 70(1)(g): amended, on 1 October 2011, by [section 73(1)][554] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
     
-    Section 70(1)(ha): inserted, on 1 July 2013, by [section 43(2)][554] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 70(1)(ha): inserted, on 1 July 2013, by [section 43(2)][552] of the Securities Amendment Act 2011 (2011 No 6).
     
-    Section 70(1)(hb): inserted, on 1 July 2013, by [section 43(2)][554] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 70(1)(hb): inserted, on 1 July 2013, by [section 43(2)][552] of the Securities Amendment Act 2011 (2011 No 6).
     
-    Section 70(1A): inserted, on 1 October 2011, by [section 73(2)][556] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
+    Section 70(1A): inserted, on 1 October 2011, by [section 73(2)][554] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
     
-    Section 70(2): amended, on 12 March 2009, by [section 25(2)][552] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 70(2): amended, on 12 March 2009, by [section 25(2)][550] of the Securities Amendment Act 2002 (2002 No 43).
     
-    Section 70(3): substituted, on 12 March 2009, by [section 25(3)][552] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 70(3): substituted, on 12 March 2009, by [section 25(3)][550] of the Securities Amendment Act 2002 (2002 No 43).
     
     Section 70(3): amended, on 1 May 2011, by [section 84(3)][358] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 70(3A): repealed, on 21 December 1988, by [section 51(1)][557] of the Securities Markets Act 1988 (1988 No 234).
+    Section 70(3A): repealed, on 21 December 1988, by [section 51(1)][555] of the Securities Markets Act 1988 (1988 No 234).
     
-    Section 70(4): repealed, on 21 December 1988, by [section 51(1)][557] of the Securities Markets Act 1988 (1988 No 234).
+    Section 70(4): repealed, on 21 December 1988, by [section 51(1)][555] of the Securities Markets Act 1988 (1988 No 234).
 
 ##### 70AAA Regulations relating to exemptions under section 5(1)
     
@@ -6553,7 +6365,7 @@ Regulations and exemptions
     
     *   (b) be satisfied that the regulations are needed in order to prevent an exemption in [section 5(1)][11] from applying in inappropriate circumstances, having regard to whether the exemption may, in relation to securities of a particular kind, cause significant detriment to subscribers for those securities who are members of the public in New Zealand.
     
-    Section 70AAA: inserted, on 1 May 2011, by [section 44][558] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 70AAA: inserted, on 1 May 2011, by [section 44][556] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 70AA Regulations may require compliance with generally accepted accounting practice and incorporate financial reporting standards by reference
     
@@ -6575,29 +6387,29 @@ Regulations and exemptions
     
     _chief executive_ means the chief executive of the Ministry
     
-    _financial reporting standard_ has the same meaning as in [section 2(1)][559] of the Financial Reporting Act 1993
+    _financial reporting standard_ has the same meaning as in [section 2(1)][557] of the Financial Reporting Act 1993
     
-    _generally accepted accounting practice_ has the same meaning as in [section 3][560] of the Financial Reporting Act 1993
+    _generally accepted accounting practice_ has the same meaning as in [section 3][558] of the Financial Reporting Act 1993
     
     _material incorporated by reference_ means any particular financial reporting standard that is incorporated by reference under subsection (1)(b)
     
     _Ministry_ means the department of State that, with the authority of the Prime Minister, is responsible for the administration of this Act.
     
-    Section 70AA: inserted, on 25 October 2006, by [section 21][561] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 70AA: inserted, on 25 October 2006, by [section 21][559] of the Securities Amendment Act 2006 (2006 No 46).
     
-    Section 70AA(1)(b): amended, on 1 July 2011, by [section 12][562] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 70AA(1)(b): amended, on 1 July 2011, by [section 12][560] of the Financial Reporting Amendment Act 2011 (2011 No 22).
     
-    Section 70AA(4) **approved financial reporting standard**: repealed, on 1 July 2011, by [section 12][562] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 70AA(4) **approved financial reporting standard**: repealed, on 1 July 2011, by [section 12][560] of the Financial Reporting Amendment Act 2011 (2011 No 22).
     
-    Section 70AA(4) **financial reporting standard**: inserted, on 1 July 2011, by [section 12][562] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 70AA(4) **financial reporting standard**: inserted, on 1 July 2011, by [section 12][560] of the Financial Reporting Amendment Act 2011 (2011 No 22).
     
-    Section 70AA(4) **material incorporated by reference**: amended, on 1 July 2011, by [section 12][562] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 70AA(4) **material incorporated by reference**: amended, on 1 July 2011, by [section 12][560] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 
 ##### 70AAB Effect of amendments to, or replacement of, material incorporated by reference in regulations
     
 *   An amendment to, or replacement of, material incorporated by reference in regulations (_regulations A_) has legal effect as part of regulations A.
     
-    Section 70AAB: inserted, on 25 October 2006, by [section 21][561] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 70AAB: inserted, on 25 October 2006, by [section 21][559] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 70AAC Access to material incorporated by reference
     
@@ -6637,15 +6449,15 @@ Regulations and exemptions
     
     (4) A failure to comply with this section does not invalidate regulations that incorporate material by reference.
     
-    Section 70AAC: inserted, on 25 October 2006, by [section 21][561] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 70AAC: inserted, on 25 October 2006, by [section 21][559] of the Securities Amendment Act 2006 (2006 No 46).
     
-    Section 70AAC(2): amended, on 1 July 2011, by [section 12][562] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 70AAC(2): amended, on 1 July 2011, by [section 12][560] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 
 ##### 70AAD Application of Legislation Act 2012 to material incorporated by reference
     
-*   (1) [Part 2][563] of the Legislation Act 2012 does not apply to material incorporated by reference in regulations or to an amendment to, or replacement of, that material.
+*   (1) [Part 2][561] of the Legislation Act 2012 does not apply to material incorporated by reference in regulations or to an amendment to, or replacement of, that material.
     
-    (2) [Subpart 1][564] of Part 3 of the Legislation Act 2012 applies to regulations that incorporate material by reference.
+    (2) [Subpart 1][562] of Part 3 of the Legislation Act 2012 applies to regulations that incorporate material by reference.
     
     (3) However, nothing in [section 41][466] of the Legislation Act 2012 requires material that is incorporated by reference in regulations to be presented to the House of Representatives.
     
@@ -6659,9 +6471,9 @@ Regulations and exemptions
 
 ##### 70AAF Application of Standards Act 1988 not affected
     
-*   [Sections 70AA to 70AAD][284] do not affect the application of [sections 22 to 25][565] of the Standards Act 1988\.
+*   [Sections 70AA to 70AAD][284] do not affect the application of [sections 22 to 25][563] of the Standards Act 1988\.
     
-    Section 70AAF: inserted, on 25 October 2006, by [section 21][561] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 70AAF: inserted, on 25 October 2006, by [section 21][559] of the Securities Amendment Act 2006 (2006 No 46).
     
     Section 70AAF: amended, on 5 August 2013, by [section 77(3)][467] of the Legislation Act 2012 (2012 No 119).
 
@@ -6693,17 +6505,17 @@ Regulations and exemptions
     
     *   (b) authorising the FMA to require payment of any costs incurred by the FMA.
     
-    Section 70A: inserted, on 21 December 1988, by [section 52][566] of the Securities Markets Act 1988 (1988 No 234).
+    Section 70A: inserted, on 21 December 1988, by [section 52][564] of the Securities Markets Act 1988 (1988 No 234).
     
-    Section 70A(1)(b): amended, on 1 May 2011, by [section 45(1)][567] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 70A(1)(b): amended, on 1 May 2011, by [section 45(1)][565] of the Securities Amendment Act 2011 (2011 No 6).
     
-    Section 70A(1)(b): amended, on 1 May 2011, by [section 45(2)][567] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 70A(1)(b): amended, on 1 May 2011, by [section 45(2)][565] of the Securities Amendment Act 2011 (2011 No 6).
     
-    Section 70A(1)(c): added, on 1 May 2011, by [section 45(2)][567] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 70A(1)(c): added, on 1 May 2011, by [section 45(2)][565] of the Securities Amendment Act 2011 (2011 No 6).
     
-    Section 70A(1)(d): added, on 1 May 2011, by [section 45(2)][567] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 70A(1)(d): added, on 1 May 2011, by [section 45(2)][565] of the Securities Amendment Act 2011 (2011 No 6).
     
-    Section 70A(1A): inserted, on 1 May 2011, by [section 45(3)][567] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 70A(1A): inserted, on 1 May 2011, by [section 45(3)][565] of the Securities Amendment Act 2011 (2011 No 6).
     
     Section 70A(3)(a): amended, on 1 May 2011, by [section 84(3)][358] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -6729,7 +6541,7 @@ Regulations and exemptions
     
     (3) Nothing in [Part 5][294] limits subsection (1).
     
-    Section 70B: inserted, on 1 May 2011, by [section 46][568] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 70B: inserted, on 1 May 2011, by [section 46][566] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 70C Status and publication of exemptions
     
@@ -6765,7 +6577,7 @@ Regulations and exemptions
         
         
     
-    Section 70C: inserted, on 1 May 2011, by [section 46][568] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 70C: inserted, on 1 May 2011, by [section 46][566] of the Securities Amendment Act 2011 (2011 No 6).
     
     Section 70C(1): replaced, on 5 August 2013, by [section 77(3)][467] of the Legislation Act 2012 (2012 No 119).
     
@@ -6777,16 +6589,16 @@ Regulations and exemptions
     
     (2) [Sections 70B(2)][291] and [70C][292] apply, with necessary modifications, in all respects to a variation or revocation under this section.
     
-    Section 70D: inserted, on 1 May 2011, by [section 46][568] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 70D: inserted, on 1 May 2011, by [section 46][566] of the Securities Amendment Act 2011 (2011 No 6).
 
 ## Part 5  
 Recognition and application regimes
     
-*   Part 5 heading: inserted, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
+*   Part 5 heading: inserted, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
 
 ### Subpart 1---Preliminary
     
-*   Subpart 1 heading: inserted, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
+*   Subpart 1 heading: inserted, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 71 Purpose of this Part
     
@@ -6798,17 +6610,17 @@ Recognition and application regimes
     
     *   (c) provide for enforcement in New Zealand of fines and pecuniary penalties imposed for breaches of securities laws of designated countries.
     
-    Section 71: substituted, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 71: substituted, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 72 Definition of country in this Part
     
 *   In this Part, _country_ includes a State, a territory, a country, or a group of countries in respect of which a single securities law, or set of laws, is in force.
     
-    Section 72: substituted, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 72: substituted, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
 
 ### Subpart 2---Exemption from Part 2 and Regulations for New Zealand offers under recognition regime
     
-*   Subpart 2 heading: inserted, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
+*   Subpart 2 heading: inserted, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 73 Exemption from Part 2 and Regulations for New Zealand offers under recognition regime
     
@@ -6828,7 +6640,7 @@ Recognition and application regimes
     
     *   (b) of the full name and address in New Zealand of 1 or more persons resident or incorporated in New Zealand who are authorised to accept service in New Zealand at that address of documents on behalf of the issuer.
     
-    Section 73: substituted, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 73: substituted, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 74 Power to exempt from Part 2 and Regulations under recognition regime
     
@@ -6850,7 +6662,7 @@ Recognition and application regimes
     
     *   (b) after consulting with the FMA.
     
-    Section 74: substituted, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 74: substituted, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
     
     Section 74(2)(b): amended, on 1 May 2011, by [section 84(3)][358] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -6878,7 +6690,7 @@ Recognition and application regimes
     
     (2) Regulations may provide different exemptions, preconditions, and terms and conditions for different classes of securities, offers, persons, or circumstances.
     
-    Section 75: substituted, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 75: substituted, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
     
     Section 75(1)(d): amended, on 1 May 2011, by [section 84(3)][358] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -6904,13 +6716,13 @@ Recognition and application regimes
     
     *   (b) in the case of a person other than the issuer, in the opinion of the court dealing with the case, the contravention did not take place with the person's knowledge and consent.
     
-    Section 76: substituted, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 76: substituted, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
     
     Section 76(2): amended, on 1 July 2013, by [section 413][458] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 3---Extension of Part 2 and Regulations to overseas offers under application regime
     
-*   Subpart 3 heading: inserted, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
+*   Subpart 3 heading: inserted, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 77 Extension of Part 2 and Regulations to overseas offers under application regime
     
@@ -6922,7 +6734,7 @@ Recognition and application regimes
     
     *   (c) any other preconditions of the application regime are met.
     
-    Section 77: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 77: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 78 Power to extend Part 2 and Regulations under application regime
     
@@ -6938,7 +6750,7 @@ Recognition and application regimes
     
     *   (b) after consulting with the FMA.
     
-    Section 78: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 78: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
     
     Section 78(2)(b): amended, on 1 May 2011, by [section 84(3)][358] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -6960,13 +6772,13 @@ Recognition and application regimes
     
     (2) The regulations may provide different applications of provisions, preconditions, and terms and conditions for different classes of securities, offers, persons, or circumstances.
     
-    Section 79: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 79: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
     
-    Section 79(1)(d): substituted, on 1 May 2011, by [section 47][570] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 79(1)(d): substituted, on 1 May 2011, by [section 47][568] of the Securities Amendment Act 2011 (2011 No 6).
 
 ### Subpart 4---Enforcement of overseas pecuniary penalties under application regime
     
-*   Subpart 4 heading: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
+*   Subpart 4 heading: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 80 Enforcement of overseas pecuniary penalties under application regime
     
@@ -6978,7 +6790,7 @@ Recognition and application regimes
     
     *   (c) any other preconditions of the application regime are met.
     
-    Section 80: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 80: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 81 Power to enforce overseas pecuniary penalties under application regime
     
@@ -6988,7 +6800,7 @@ Recognition and application regimes
     
     *   (b) the preconditions of the application regime (if any).
     
-    Section 81: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 81: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 82 Interpretation
     
@@ -7006,15 +6818,15 @@ Recognition and application regimes
     
     _registered judgment_ means a judgment that is registered under [section 83][311].
     
-    Section 82: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 82: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 83 Registration of judgment
     
 *   The High Court must register a judgment to which this subpart applies under [section 80][308] as a civil judgment debt if an application is made to it in accordance with regulations made under [section 90][318].
     
-    Section 83: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 83: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
     
-    Section 83: amended, on 25 October 2006, by [section 22][571] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 83: amended, on 25 October 2006, by [section 22][569] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 84 Effect of registration
     
@@ -7026,7 +6838,7 @@ Recognition and application regimes
     
     as if the judgment had been given by the High Court.
     
-    Section 84: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 84: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 85 Enforceability of registered judgment
     
@@ -7036,7 +6848,7 @@ Recognition and application regimes
     
     *   (b) a court in the place of rendition.
     
-    Section 85: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 85: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 86 Stay may be granted
     
@@ -7060,7 +6872,7 @@ Recognition and application regimes
     
     (3) For the purposes of subsection (2)(a)(i), an _appropriate application for relief_ is an application to set aside, vary, or appeal against the registered judgment that is made to a court or tribunal that has jurisdiction under the law in force in the place of rendition to grant the application.
     
-    Section 86: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 86: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 87 Costs
     
@@ -7076,7 +6888,7 @@ Recognition and application regimes
     
     *   (b) if there is no such similar judgment, the most closely analogous judgment given by the High Court.
     
-    Section 87: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 87: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 88 Interest
     
@@ -7086,13 +6898,13 @@ Recognition and application regimes
     
     *   (b) is recoverable to the extent that the judgment creditor satisfies the High Court as to the amount of the interest.
     
-    Section 88: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 88: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 89 Rules of private international law not to apply
     
 *   If a judgment is registered in the High Court under this subpart, the courts of New Zealand must not, merely because of the operation of a rule of private international law, refuse to permit proceedings by way of enforcement of the registered judgment to be taken or continued.
     
-    Section 89: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 89: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 90 Other regulations for registration of judgments under application regime
     
@@ -7106,7 +6918,7 @@ Recognition and application regimes
     
     *   (d) other requirements for the way in which those judgments may be registered (for example, the currency of registrations and the registration of partly satisfied judgments).
     
-    Section 90: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 90: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
 
 ---
 
@@ -7117,7 +6929,7 @@ Acts to which section 67 applies
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 1 May 2011, by [section 48][572] of the Securities Amendment Act 2011 (2011 No 6).
+*   Schedule 1: repealed, on 1 May 2011, by [section 48][570] of the Securities Amendment Act 2011 (2011 No 6).
 
 ---
 
@@ -7126,9 +6938,9 @@ Qualifications
 
 [s 5(1)(e)][11]
 
-*   1 A practising certificate under the [Lawyers and Conveyancers Act 2006][573].
+*   1 A practising certificate under the [Lawyers and Conveyancers Act 2006][571].
 
-*   2 Registration (including interim or temporary registration) as a medical practitioner under the [Health Practitioners Competence Assurance Act 2003][574].
+*   2 Registration (including interim or temporary registration) as a medical practitioner under the [Health Practitioners Competence Assurance Act 2003][572].
 
 *   3 \[Repealed\]
 
@@ -7138,33 +6950,33 @@ Qualifications
 
 *   6 A qualification entitling the holder to practise the profession of engineering in New Zealand (which qualification may consist of membership of the Institution of Professional Engineers of New Zealand Incorporated and require the holder to comply with the applicable rules of the Institution).
 
-*   7 Registration as a valuer under the [Valuers Act 1948][575].
+*   7 Registration as a valuer under the [Valuers Act 1948][573].
 
-*   8 A practising certificate under the [Veterinarians Act 2005][576].
+*   8 A practising certificate under the [Veterinarians Act 2005][574].
 
 *   9 Registration as a surveyor within the meaning of the Survey Act 1986\.
 
-*   10 Registration as an optometrist or dispensing optician under the [Health Practitioners Competence Assurance Act 2003][574].
+*   10 Registration as an optometrist or dispensing optician under the [Health Practitioners Competence Assurance Act 2003][572].
 
-*   11 Registration as a registered architect under the [Registered Architects Act 2005][577].
+*   11 Registration as a registered architect under the [Registered Architects Act 2005][575].
 
-*   12 Registration as a dentist under the [Health Practitioners Competence Assurance Act 2003][574].
+*   12 Registration as a dentist under the [Health Practitioners Competence Assurance Act 2003][572].
 
-*   13 Registration as a patent attorney under the [Patents Act 1953][577].
+*   13 Registration as a patent attorney under the [Patents Act 1953][575].
 
-*   Schedule 2 item 1: amended, on 1 August 2008, pursuant to [section 349][578] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+*   Schedule 2 item 1: amended, on 1 August 2008, pursuant to [section 349][576] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
 *   Schedule 2 item 2: substituted, on 1 July 1996, by section 143(1) of the Medical Practitioners Act 1995 (1995 No 95).
 *   Schedule 2 item 2: amended, on 18 September 2004, by section 175(1) of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 *   Schedule 2 item 3: repealed, on 1 July 1996, by section 143(1) of the Medical Practitioners Act 1995 (1995 No 95).
 *   Schedule 2 item 4: repealed, on 1 July 1996, by section 143(1) of the Medical Practitioners Act 1995 (1995 No 95).
 *   Schedule 2 item 5: substituted, on 1 October 1996, by section 23 of the Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39).
-*   Schedule 2 item 5: amended, on 7 July 2010, by [section 10][579] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
-*   Schedule 2 item 6: substituted, on 1 January 2004, by [section 76][580] of the Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17).
-*   Schedule 2 item 8: substituted, on 22 December 2005, by [section 105][581] of the Veterinarians Act 2005 (2005 No 126).
+*   Schedule 2 item 5: amended, on 7 July 2010, by [section 10][577] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+*   Schedule 2 item 6: substituted, on 1 January 2004, by [section 76][578] of the Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17).
+*   Schedule 2 item 8: substituted, on 22 December 2005, by [section 105][579] of the Veterinarians Act 2005 (2005 No 126).
 *   Schedule 2 item 9: amended, on 1 April 1987, pursuant to section 81(3) of the Survey Act 1986 (1986 No 123).
-*   Schedule 2 item 10: amended, on 18 September 2004, by [section 175(1)][582] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
-*   Schedule 2 item 11: substituted, on 1 July 2006, by [section 87][583] of the Registered Architects Act 2005 (2005 No 38).
-*   Schedule 2 item 12: amended, on 18 September 2004, by [section 175(1)][582] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+*   Schedule 2 item 10: amended, on 18 September 2004, by [section 175(1)][580] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+*   Schedule 2 item 11: substituted, on 1 July 2006, by [section 87][581] of the Registered Architects Act 2005 (2005 No 38).
+*   Schedule 2 item 12: amended, on 18 September 2004, by [section 175(1)][580] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 *   Schedule 2 item 13: added, on 1 September 1983, by section 36 of the Securities Amendment Act 1982 (1982 No 147).
 
 ---
@@ -7177,7 +6989,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Securities Amendment Act 2006][584].
+*   This Act is the [Securities Amendment Act 2006][582].
 
 ##### 2 Commencement
     
@@ -7193,7 +7005,7 @@ Commencementsee section 2
     
     (3) For the purposes of subsection (2), 1 or more orders may be made bringing different provisions into force on different dates.
     
-    Section 2(2): brought into force, on 29 February 2008, by the [Securities Amendment Act 2006 Commencement Order 2007][585] (SR 2007/369).
+    Section 2(2): brought into force, on 29 February 2008, by the [Securities Amendment Act 2006 Commencement Order 2007][583] (SR 2007/369).
 
 ##### 3 Principal Act amended
     
@@ -7229,7 +7041,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Securities Amendment Act 2011][586].
+*   This Act is the [Securities Amendment Act 2011][584].
 
 ##### 2 Commencement
     
@@ -7391,19 +7203,21 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][587] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][588] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][585] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][586] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][589] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][590] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][587] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][588] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][467]
+*   Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70): [section 4(2)][469]
+    
+    Legislation Act 2012 (2012 No 119): [section 77(3)][467]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][458]
     
-    Financial Reporting Amendment Act 2011 (2011 No 22): [section 12][562]
+    Financial Reporting Amendment Act 2011 (2011 No 22): [section 12][560]
     
     Auditor Regulation Act 2011 (2011 No 21): [section 82][375]
     
@@ -7411,59 +7225,59 @@ Commencementsee section 2
     
     KiwiSaver Amendment Act 2011 (2011 No 8): [section 56][363]
     
-    [Securities Amendment Act 2011][586] (2011 No 6) 
+    [Securities Amendment Act 2011][584] (2011 No 6) 
     
     Financial Markets Authority Act 2011 (2011 No 5): [section 84(3), (5) ][358]
     
     Limitation Act 2010 (2010 No 110): [section 58][442]
     
-    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][579]
+    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][577]
     
     Unit Titles Act 2010 (2010 No 22): [section 233(1) ][393]
     
-    [Securities Amendment Act 2009][591] (2009 No 56) 
+    [Securities Amendment Act 2009][589] (2009 No 56) 
     
-    Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53): [section 10][499]
+    Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53): [section 10][495]
     
-    [Securities (Disclosure) Amendment Act 2009][592] (2009 No 23) 
+    [Securities (Disclosure) Amendment Act 2009][590] (2009 No 23) 
     
     Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(2)(a) ][362]
     
-    [Securities (Local Authority Exemption) Amendment Act 2008][593] (2008 No 23) 
+    [Securities (Local Authority Exemption) Amendment Act 2008][591] (2008 No 23) 
     
     Limited Partnerships Act 2008 (2008 No 1): [section 121(3) ][359]
     
     Income Tax Act 2007 (2007 No 97): [section ZA 2(1) ][349]
     
-    [Securities Amendment Act 2007][594] (2007 No 79) 
+    [Securities Amendment Act 2007][592] (2007 No 79) 
     
     Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81): [sections 232][367], [233][406]
     
     Securities Markets Amendment Act 2006 (2006 No 47): [section 14][401]
     
-    [Securities Amendment Act 2006][584] (2006 No 46) 
+    [Securities Amendment Act 2006][582] (2006 No 46) 
     
-    Lawyers and Conveyancers Act 2006 (2006 No 1): [section 349][578]
+    Lawyers and Conveyancers Act 2006 (2006 No 1): [section 349][576]
     
-    Veterinarians Act 2005 (2005 No 126): [section 105][581]
+    Veterinarians Act 2005 (2005 No 126): [section 105][579]
     
-    Registered Architects Act 2005 (2005 No 38): [section 87][583]
+    Registered Architects Act 2005 (2005 No 38): [section 87][581]
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][413]
     
     Crown Entities Act 2004 (2004 No 115): [section 200][423]
     
-    Income Tax Act 2004 (2004 No 35): [section YA 2][595]
+    Income Tax Act 2004 (2004 No 35): [section YA 2][593]
     
-    [Securities Amendment Act 2004 (2004 No 31)][596]
+    [Securities Amendment Act 2004 (2004 No 31)][594]
     
     Retirement Villages Act 2003 (2003 No 112): [section 110][398]
     
-    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1) ][582]
+    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1) ][580]
     
-    [Securities Amendment Act 2002][597] (2002 No 43) 
+    [Securities Amendment Act 2002][595] (2002 No 43) 
     
-    Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17): [section 76][580]
+    Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17): [section 76][578]
     
     Public Trust Act 2001 (2001 No 100): [section 170(1) ][361]
     
@@ -7471,19 +7285,19 @@ Commencementsee section 2
     
     Takeovers Amendment Act 2001 (2001 No 30): [section 12(2) ][378]
     
-    [Securities Amendment Act 2001][598] (2001 No 25) 
+    [Securities Amendment Act 2001][596] (2001 No 25) 
     
-    Public Audit Act 2001 (2001 No 10): [section 53][599]
+    Public Audit Act 2001 (2001 No 10): [section 53][597]
     
-    [Securities Amendment Act (No 2) 1997][600] (1997 No 54) 
+    [Securities Amendment Act (No 2) 1997][598] (1997 No 54) 
     
-    [Securities Amendment Act 1997][601] (1997 No 16) 
+    [Securities Amendment Act 1997][599] (1997 No 16) 
     
-    [Securities Amendment Act 1996][602] (1996 No 100) 
+    [Securities Amendment Act 1996][600] (1996 No 100) 
     
     Local Government Amendment Act (No 3) 1996 (1996 No 83): [section 13(1) ][402]
     
-    Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39): [section 23][603]
+    Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39): [section 23][601]
     
     Co-operative Companies Act 1996 (1996 No 24): [section 51][354]
     
@@ -7493,7 +7307,7 @@ Commencementsee section 2
     
     Reserve Bank of New Zealand Amendment Act 1995 (1995 No 5): section 13(2) 
     
-    [Securities Amendment Act (No 2) 1994][604] (1994 No 158) 
+    [Securities Amendment Act (No 2) 1994][602] (1994 No 158) 
     
     Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][394]
     
@@ -7505,7 +7319,7 @@ Commencementsee section 2
     
     Superannuation Schemes Act 1989 (1989 No 10): [section 31][348]
     
-    [Securities Markets Act 1988][524] (1988 No 234)
+    [Securities Markets Act 1988][520] (1988 No 234)
     
     Survey Act 1986 (1986 No 123): section 81(3)
     
@@ -7990,139 +7804,137 @@ Commencementsee section 2
 [466]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2998573
 [467]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2998633
 [468]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3231086
-[469]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3637770
-[470]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM1584200
-[471]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM324958
-[472]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM297439
-[473]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM297441
-[474]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM1827132
-[475]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3637785
-[476]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3637786
-[477]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3637787
-[478]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM406329
-[479]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3637789
-[480]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM406330
-[481]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM406331
-[482]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3637791
-[483]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2651165
-[484]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2651305
-[485]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2651308
-[486]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM406332
-[487]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM1607388
-[488]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2651309
-[489]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM143777
-[490]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM169542
-[491]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM319569
-[492]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM245069
-[493]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM245070
-[494]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM245071
-[495]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM245072
-[496]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM250195
-[497]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM202023
-[498]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM406347
-[499]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2166004
-[500]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM406348
-[501]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3637795
-[502]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM406351
-[503]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM382672
-[504]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638200
-[505]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM382673
-[506]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638201
-[507]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM382674
-[508]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM968532
-[509]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM382675
-[510]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638202
-[511]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM382681
-[512]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM347435
-[513]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638203
-[514]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM160472
-[515]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638204
-[516]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM160475
-[517]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638206
-[518]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM406355
-[519]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM382683
-[520]: http://www.legislation.govt.nz/act/public/1978/0103/latest/whole.html#DLM3637802
-[521]: http://www.legislation.govt.nz/act/public/1978/0103/latest/whole.html#DLM3565224
-[522]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3565221
-[523]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3231753
-[524]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM139726
-[525]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM325508
-[526]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638207
-[527]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2651312
-[528]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM141877
-[529]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM326702
-[530]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM323252
-[531]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638208
-[532]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3231004
-[533]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3231030
-[534]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3637706
-[535]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3637711
-[536]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM382333
-[537]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM245074
-[538]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM320806
-[539]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM1827144
-[540]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM96438
-[541]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM383005
-[542]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3360067
-[543]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM383007
-[544]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM160476
-[545]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM383008
-[546]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638210
-[547]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638213
-[548]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638214
-[549]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM160495
-[550]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM161324
-[551]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638215
-[552]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM161326
-[553]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM406361
-[554]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638216
-[555]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM1827145
-[556]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2651315
-[557]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM142030
-[558]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638217
-[559]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM324804
-[560]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM324886
-[561]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM383024
-[562]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3701759
-[563]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2997693
-[564]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2998558
-[565]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM128740
-[566]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM142032
-[567]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638219
-[568]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638220
-[569]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM161327
-[570]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638225
-[571]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM383043
-[572]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638226
-[573]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM364938
-[574]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM203311
-[575]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM249941
-[576]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM363858
-[577]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM343165
-[578]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM367851
-[579]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3043113
-[580]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM145126
-[581]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM364675
-[582]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM205009
-[583]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM344303
-[584]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM382646
-[585]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM1061132
-[586]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3637712
-[587]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2998516
-[588]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2998515
-[589]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2998532
-[590]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[591]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2498702
-[592]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM1827100
-[593]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM995300
-[594]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM968524
-[595]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM277145
-[596]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM244583
-[597]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM160442
-[598]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM91203
-[599]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM88957
-[600]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM410721
-[601]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM408932
-[602]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM405828
-[603]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM391427
-[604]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM347429
+[469]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM5561110
+[470]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM1827132
+[471]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3637785
+[472]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3637786
+[473]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3637787
+[474]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM406329
+[475]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3637789
+[476]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM406330
+[477]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM406331
+[478]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3637791
+[479]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2651165
+[480]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2651305
+[481]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2651308
+[482]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM406332
+[483]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM1607388
+[484]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2651309
+[485]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM143777
+[486]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM169542
+[487]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM319569
+[488]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM245069
+[489]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM245070
+[490]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM245071
+[491]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM245072
+[492]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM250195
+[493]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM202023
+[494]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM406347
+[495]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2166004
+[496]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM406348
+[497]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3637795
+[498]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM406351
+[499]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM382672
+[500]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638200
+[501]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM382673
+[502]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638201
+[503]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM382674
+[504]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM968532
+[505]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM382675
+[506]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638202
+[507]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM382681
+[508]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM347435
+[509]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638203
+[510]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM160472
+[511]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638204
+[512]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM160475
+[513]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638206
+[514]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM406355
+[515]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM382683
+[516]: http://www.legislation.govt.nz/act/public/1978/0103/latest/whole.html#DLM3637802
+[517]: http://www.legislation.govt.nz/act/public/1978/0103/latest/whole.html#DLM3565224
+[518]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3565221
+[519]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3231753
+[520]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM139726
+[521]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM325508
+[522]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638207
+[523]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2651312
+[524]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM141877
+[525]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM326702
+[526]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM323252
+[527]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638208
+[528]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3231004
+[529]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3231030
+[530]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3637706
+[531]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3637711
+[532]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM382333
+[533]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM245074
+[534]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM320806
+[535]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM1827144
+[536]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM96438
+[537]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM383005
+[538]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3360067
+[539]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM383007
+[540]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM160476
+[541]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM383008
+[542]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638210
+[543]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM323203
+[544]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM323208
+[545]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM323211
+[546]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638214
+[547]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM160495
+[548]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM161324
+[549]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638215
+[550]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM161326
+[551]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM406361
+[552]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638216
+[553]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM1827145
+[554]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2651315
+[555]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM142030
+[556]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638217
+[557]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM324804
+[558]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM324886
+[559]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM383024
+[560]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3701759
+[561]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2997693
+[562]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2998558
+[563]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM128740
+[564]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM142032
+[565]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638219
+[566]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638220
+[567]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM161327
+[568]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638225
+[569]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM383043
+[570]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638226
+[571]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM364938
+[572]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM203311
+[573]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM249941
+[574]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM363858
+[575]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM343165
+[576]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM367851
+[577]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3043113
+[578]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM145126
+[579]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM364675
+[580]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM205009
+[581]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM344303
+[582]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM382646
+[583]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM1061132
+[584]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3637712
+[585]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2998516
+[586]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2998515
+[587]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2998532
+[588]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[589]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2498702
+[590]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM1827100
+[591]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM995300
+[592]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM968524
+[593]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM277145
+[594]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM244583
+[595]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM160442
+[596]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM91203
+[597]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM88957
+[598]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM410721
+[599]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM408932
+[600]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM405828
+[601]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM391427
+[602]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM347429
