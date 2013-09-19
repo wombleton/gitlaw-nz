@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 14 September 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -4254,11 +4254,13 @@ KiwiSaver schemes
     
 *   (1) There is implied in the trust deed of a KiwiSaver scheme a provision that no member of the scheme will be transferred to another KiwiSaver scheme, or to another section of the same scheme, unless the trustees (in the case of a restricted KiwiSaver scheme) have, or the manager (in the case of any other KiwiSaver scheme) has, obtained the written consent of the member concerned.
     
-    (2) This section is subject to [section 119G][199].
+    (2) This section is subject to [section 119G][199] and regulations made under [section 230][350].
     
     Compare: 1989 No 10 [s 9B(1), (1A), (5)][599]
     
     Section 119C: inserted, on 1 May 2011, by [section 16][596] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    
+    Section 119C(2): amended, on 14 September 2013, by [section 91][600] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 119D Procedural requirements in case of certain transfers
     
@@ -4306,7 +4308,7 @@ KiwiSaver schemes
     
     (6) For the purposes of this section and [section 119E][197], references to the transfer of members from one scheme to another include references to transfers of members from one section of a scheme to another section of the same scheme.
     
-    Compare: 1989 No 10 [s 9B(2)--(3), (5)][600]
+    Compare: 1989 No 10 [s 9B(2)--(3), (5)][601]
     
     Section 119D: inserted, on 1 May 2011, by [section 16][596] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
@@ -4416,7 +4418,7 @@ KiwiSaver schemes
     
     (6) The FMA may give approval subject to any terms and conditions that the FMA may specify in the notice of approval, and the approval is effective only if the transfer is carried out in accordance with those terms and conditions.
     
-    Compare: 1989 No 10 [s 9BAB][601]
+    Compare: 1989 No 10 [s 9BAB][602]
     
     Section 119H: inserted, on 1 May 2011, by [section 16][596] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
@@ -4428,7 +4430,7 @@ KiwiSaver schemes
     
     *   (b) the proposed action is not unreasonable in relation to the best interests of 1 or more of those members who have not been contacted.
     
-    Compare: 1989 No 10 [s 9BA][602]
+    Compare: 1989 No 10 [s 9BA][603]
     
     Section 119I: inserted, on 1 May 2011, by [section 16][596] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
@@ -4438,7 +4440,7 @@ KiwiSaver schemes
     
     (2) Every provision implied in a trust deed in accordance with [sections 119A to 119I][193], [129A][225], and [129B][227] is enforceable by the manager, the trustees, or a member of the scheme.
     
-    Compare: 1989 No 10 [s 11][603]
+    Compare: 1989 No 10 [s 11][604]
     
     Section 119J: inserted, on 1 May 2011, by [section 16][596] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
@@ -4460,7 +4462,7 @@ KiwiSaver schemes
     
     (3) Nothing in subsection (1) limits any provision in the [Securities Act 1978][382].
     
-    Compare: 1989 No 10 [s 15A][604]
+    Compare: 1989 No 10 [s 15A][605]
     
     Section 119K: inserted, on 1 May 2011, by [section 16][596] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
@@ -4496,9 +4498,9 @@ KiwiSaver schemes
     
     (4) In subsection (1), _trust deed_ does not include a participation agreement that does not relate to the member.
     
-    (5) Nothing in subsection (1) limits [sections 54A][605], [54B][606], or any other provision of the Securities Act 1978\.
+    (5) Nothing in subsection (1) limits [sections 54A][606], [54B][607], or any other provision of the Securities Act 1978\.
     
-    Compare: 1989 No 10 [s 17][607]
+    Compare: 1989 No 10 [s 17][608]
     
     Section 119L: inserted, on 1 May 2011, by [section 16][596] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
@@ -4522,7 +4524,7 @@ KiwiSaver schemes
 
 #### Annual reports, returns, and statements
     
-*   Heading: inserted, on 1 May 2011, by [section 17][608] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+*   Heading: inserted, on 1 May 2011, by [section 17][609] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 123 Requirement for annual report
     
@@ -4534,7 +4536,7 @@ KiwiSaver schemes
     
     (4) The trustees or the manager (as the case may be) must, within 28 days after the annual report is completed, send to the FMA a copy of the completed report and, if not already contained in or attached to the report, a copy of the annual financial statements.
     
-    Section 123: substituted, on 1 May 2011, by [section 18][609] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 123: substituted, on 1 May 2011, by [section 18][610] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 124 Annual report in case of KiwiSaver scheme established under umbrella trust
     
@@ -4542,7 +4544,7 @@ KiwiSaver schemes
         
     *   (a) [section 123][210], in relation to the KiwiSaver scheme; and
     
-    *   (b) [section 14][610] of the Superannuation Schemes Act 1989, in relation to the registered superannuation scheme.
+    *   (b) [section 14][611] of the Superannuation Schemes Act 1989, in relation to the registered superannuation scheme.
     
     (2) However, a combined report must---
         
@@ -4572,15 +4574,15 @@ KiwiSaver schemes
     
     *   (c) information that is not reasonably ascertainable from information that is in the possession or control of the trustees or the manager (as the case may be).
     
-    Section 125(1): amended, on 1 May 2011, by [section 19(1)][611] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 125(1): amended, on 1 May 2011, by [section 19(1)][612] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
     Section 125(1): amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 125(4): amended, on 1 May 2011, by [section 19(2)][611] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 125(4): amended, on 1 May 2011, by [section 19(2)][612] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 125(4)(b): amended, on 1 May 2011, by [section 19(3)][611] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 125(4)(b): amended, on 1 May 2011, by [section 19(3)][612] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 125(4)(c): amended, on 1 May 2011, by [section 19(3)][611] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 125(4)(c): amended, on 1 May 2011, by [section 19(3)][612] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 125A Requirement for annual personalised statement of contributions and accumulations for members
     
@@ -4592,7 +4594,7 @@ KiwiSaver schemes
     
     *   (c) any other prescribed information.
     
-    Section 125A: substituted, on 1 May 2011, by [section 20][612] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 125A: substituted, on 1 May 2011, by [section 20][613] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 #### Other implied provisions
 
@@ -4612,15 +4614,15 @@ KiwiSaver schemes
     
     (5) \[Repealed\]
     
-    Section 126(3)(b): amended, on 1 May 2011, by [section 21(1)][613] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 126(3)(b): amended, on 1 May 2011, by [section 21(1)][614] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 126(4): repealed, on 1 May 2011, by [section 21(2)][613] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 126(4): repealed, on 1 May 2011, by [section 21(2)][614] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 126(5): repealed, on 1 May 2011, by [section 21(2)][613] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 126(5): repealed, on 1 May 2011, by [section 21(2)][614] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 127 Exercise of functions by FMA relating to clause 2 of KiwiSaver scheme rules
     
-*   (1) In exercising any function under this Act that requires the FMA to consider whether a KiwiSaver scheme complies with [clause 2][614] of the KiwiSaver scheme rules (which relates to a requirement that fees not be unreasonable), the FMA---
+*   (1) In exercising any function under this Act that requires the FMA to consider whether a KiwiSaver scheme complies with [clause 2][615] of the KiwiSaver scheme rules (which relates to a requirement that fees not be unreasonable), the FMA---
         
     *   (a) must have regard to any prescribed matter:
     
@@ -4628,7 +4630,7 @@ KiwiSaver schemes
     
     *   (c) may make decisions in accordance with any prescribed process.
     
-    (2) The FMA may publish, in any form that the FMA considers fit, guidance as to matters that the FMA considers relevant to considering whether a KiwiSaver scheme complies with [clause 2][614] of the KiwiSaver scheme rules (including principles that the FMA may use to make that assessment).
+    (2) The FMA may publish, in any form that the FMA considers fit, guidance as to matters that the FMA considers relevant to considering whether a KiwiSaver scheme complies with [clause 2][615] of the KiwiSaver scheme rules (including principles that the FMA may use to make that assessment).
     
     (3) The FMA is not limited to considering matters published by the FMA under subsection (2).
     
@@ -4646,7 +4648,7 @@ KiwiSaver schemes
     
 *   \[Repealed\]
     
-    Section 128: repealed, on 1 May 2011, by [section 22][615] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 128: repealed, on 1 May 2011, by [section 22][616] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 128A Terms relating to members' tax credits implied into trust deed
     
@@ -4662,19 +4664,19 @@ KiwiSaver schemes
     
     *   (b) are enforceable by a trustee, a manager, or a member of the scheme or fund.
     
-    Section 128A: inserted, on 1 July 2007, by [section 66][616] of the Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007 (2007 No 19).
+    Section 128A: inserted, on 1 July 2007, by [section 66][617] of the Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007 (2007 No 19).
     
-    Section 128A(1): amended (with effect on 1 April 2008), on 6 October 2009, by [section 729][617] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 128A(1): amended (with effect on 1 April 2008), on 6 October 2009, by [section 729][618] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 128A(1): amended (with effect on 1 July 2007), on 19 December 2007, by [section 73(a)][618] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 128A(1): amended (with effect on 1 July 2007), on 19 December 2007, by [section 73(a)][619] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 128A(2): amended (with effect on 1 July 2007), on 19 December 2007, by [section 73(b)(i)][618] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 128A(2): amended (with effect on 1 July 2007), on 19 December 2007, by [section 73(b)(i)][619] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 128A(2)(a): amended (with effect on 1 July 2007), on 19 December 2007, by [section 73(b)(ii)][618] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 128A(2)(a): amended (with effect on 1 July 2007), on 19 December 2007, by [section 73(b)(ii)][619] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 128A(2)(b): amended, on 1 May 2011, by [section 23][619] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 128A(2)(b): amended, on 1 May 2011, by [section 23][620] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 128A(2)(b): amended (with effect on 1 July 2007), on 19 December 2007, by [section 73(b)(iii)][618] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 128A(2)(b): amended (with effect on 1 July 2007), on 19 December 2007, by [section 73(b)(iii)][619] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
 ##### 128B Terms relating to back-dated validation implied into trust deed
     
@@ -4686,9 +4688,9 @@ KiwiSaver schemes
     
     *   (b) are enforceable by a trustee, a manager, or a member of the scheme.
     
-    Section 128B: inserted (with effect on 1 July 2007), on 19 December 2007, by [section 74][620] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 128B: inserted (with effect on 1 July 2007), on 19 December 2007, by [section 74][621] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 128B(2)(b): amended, on 1 May 2011, by [section 24][621] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 128B(2)(b): amended, on 1 May 2011, by [section 24][622] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 128C Terms relating to lump sum payments by complying superannuation funds
     
@@ -4700,11 +4702,11 @@ KiwiSaver schemes
     
     *   (b) are enforceable by a trustee, a manager, or a member of the fund.
     
-    Section 128C: inserted, on 1 April 2008, by [section 75][622] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 128C: inserted, on 1 April 2008, by [section 75][623] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 128C(1): amended (with effect on 1 April 2008), on 6 October 2009, by [section 730][623] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 128C(1): amended (with effect on 1 April 2008), on 6 October 2009, by [section 730][624] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 128C(2)(b): amended, on 1 May 2011, by [section 25][624] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 128C(2)(b): amended, on 1 May 2011, by [section 25][625] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 128D Terms relating to compulsory employer contributions implied into trust deed
     
@@ -4720,9 +4722,9 @@ KiwiSaver schemes
     
     *   (b) are enforceable by a trustee, a manager, or a member of the scheme or fund.
     
-    Section 128D: inserted, on 1 April 2008, by [section 76][625] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 128D: inserted, on 1 April 2008, by [section 76][626] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 128D(2)(b): amended, on 1 May 2011, by [section 26][626] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 128D(2)(b): amended, on 1 May 2011, by [section 26][627] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 128E Provisions implied in trust deeds by regulations
     
@@ -4734,7 +4736,7 @@ KiwiSaver schemes
     
     *   (c) is enforceable by the trustees, the manager, or any member of the scheme, unless the regulations provide otherwise.
     
-    Section 128E: inserted, on 1 May 2011, by [section 27][627] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 128E: inserted, on 1 May 2011, by [section 27][628] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 #### Amending trust deed in relation to KiwiSaver scheme
 
@@ -4758,17 +4760,17 @@ KiwiSaver schemes
     
     (4) \[Repealed\]
     
-    Section 129(1): substituted, on 1 May 2011, by [section 28(1)][628] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 129(1): substituted, on 1 May 2011, by [section 28(1)][629] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 129(2): substituted, on 1 May 2011, by [section 28(1)][628] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 129(2): substituted, on 1 May 2011, by [section 28(1)][629] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 129(3): amended, on 1 May 2011, by [section 28(2)(a)][628] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 129(3): amended, on 1 May 2011, by [section 28(2)(a)][629] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 129(3): amended, on 1 May 2011, by [section 28(2)(b)][628] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 129(3): amended, on 1 May 2011, by [section 28(2)(b)][629] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
     Section 129(3): amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 129(4): repealed, on 19 December 2007, by [section 77(3)][629] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 129(4): repealed, on 19 December 2007, by [section 77(3)][630] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
 ##### 129A Implied provision as to alterations to scheme
     
@@ -4780,21 +4782,21 @@ KiwiSaver schemes
     
     *   (b) would have the effect of extending, varying, or limiting the scope of the trust deed in a material particular.
     
-    Compare: 1989 No 10 [s 9A][630]
+    Compare: 1989 No 10 [s 9A][631]
     
-    Section 129A: inserted, on 1 May 2011, by [section 29][631] of the KiwiSaver Amendment Act 2011 (2011 No  8).
+    Section 129A: inserted, on 1 May 2011, by [section 29][632] of the KiwiSaver Amendment Act 2011 (2011 No  8).
 
 #### Reversion of scheme assets to employer
     
-*   Heading: inserted, on 1 May 2011, by [section 29][631] of the KiwiSaver Amendment Act 2011 (2011 No  8).
+*   Heading: inserted, on 1 May 2011, by [section 29][632] of the KiwiSaver Amendment Act 2011 (2011 No  8).
 
 ##### 129B Implied provision as to reversion of scheme assets to employer
     
 *   There is implied in the trust deed of a KiwiSaver scheme that provides for the reversion of any assets of the scheme to an employer, a provision that no part of the assets may revert to an employer without the prior written consent of the FMA.
     
-    Compare: 1989 No 10 [s 10][632]
+    Compare: 1989 No 10 [s 10][633]
     
-    Section 129B: inserted, on 1 May 2011, by [section 29][631] of the KiwiSaver Amendment Act 2011 (2011 No  8).
+    Section 129B: inserted, on 1 May 2011, by [section 29][632] of the KiwiSaver Amendment Act 2011 (2011 No  8).
 
 ##### 130 Consent to reversion of assets to employer
     
@@ -4804,7 +4806,7 @@ KiwiSaver schemes
     
     *   (b) that the reversion is fair and equitable to the members, taking into account the manner in which the scheme acquired those assets.
     
-    Section 130: amended, on 1 May 2011, by [section 30][633] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 130: amended, on 1 May 2011, by [section 30][634] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
     Section 130: amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -4836,9 +4838,9 @@ KiwiSaver schemes
 
 ##### 133 Matters required to be specified in application
     
-*   Every application for registration under [section 131][231] must specify the matters set out in [Part 1][634] of Schedule 2\.
+*   Every application for registration under [section 131][231] must specify the matters set out in [Part 1][635] of Schedule 2\.
     
-    Section 133: amended, on 1 May 2011, by [section 33][635] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 133: amended, on 1 May 2011, by [section 33][636] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 134 Registration of scheme
     
@@ -4850,9 +4852,9 @@ KiwiSaver schemes
         
         *   (ii) that the scheme is eligible to be a KiwiSaver scheme under [section 116][175]; and
         
-        *   (iii) of the matters required to be certified under [Part 1][634] of Schedule 2; and
+        *   (iii) of the matters required to be certified under [Part 1][635] of Schedule 2; and
         
-        *   (iv) that fees charged in accordance with any information provided in the application will comply with [clause 2][614] of the KiwiSaver scheme rules; and
+        *   (iv) that fees charged in accordance with any information provided in the application will comply with [clause 2][615] of the KiwiSaver scheme rules; and
         
         
     
@@ -4860,7 +4862,7 @@ KiwiSaver schemes
     
     (2) The registration of a KiwiSaver scheme under this section must be treated as having taken effect on the date on which the FMA enters the scheme as a KiwiSaver scheme in the KiwiSaver schemes register.
     
-    Section 134(1): amended, on 1 May 2011, by [section 34][636] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 134(1): amended, on 1 May 2011, by [section 34][637] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
     Section 134(1): amended, on 1 May 2011, by [section 82][398] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -5048,7 +5050,7 @@ KiwiSaver schemes
         
         *   (iv) know whether an employer is an exempt employer; and
         
-        *   (v) know how to access information about the manager or trustees that is contained in the register of financial service providers established and maintained under [section 24][637] of the Financial Service Providers (Registration and Dispute Resolution) Act 2008 (including details of the relevant dispute resolution scheme); and
+        *   (v) know how to access information about the manager or trustees that is contained in the register of financial service providers established and maintained under [section 24][638] of the Financial Service Providers (Registration and Dispute Resolution) Act 2008 (including details of the relevant dispute resolution scheme); and
         
         
     
@@ -5068,13 +5070,13 @@ KiwiSaver schemes
         
         
     
-    Section 158(a)(ia): inserted, on 1 May 2011, by [section 36(1)][638] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 158(a)(ia): inserted, on 1 May 2011, by [section 36(1)][639] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 158(a)(ib): inserted, on 1 May 2011, by [section 36(1)][638] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 158(a)(ib): inserted, on 1 May 2011, by [section 36(1)][639] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 158(a)(v): added, on 1 May 2011, by [section 36(2)][638] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 158(a)(v): added, on 1 May 2011, by [section 36(2)][639] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 158(ab): inserted, on 1 April 2008, by [section 79][639] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 158(ab): inserted, on 1 April 2008, by [section 79][640] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
 ##### 159 FMA is Registrar of register
     
@@ -5104,17 +5106,17 @@ KiwiSaver schemes
     
     *   (da) in the case of a KiwiSaver scheme other than a restricted scheme, the name of the manager of the scheme and an address for service for the manager; and
     
-    *   (db) the unique identifiers issued to the trustees and the manager by the Registrar of Financial Service Providers and contained in the register of financial service providers established and maintained under [section 24][637] of the Financial Service Providers (Registration and Dispute Resolution) Act 2008; and
+    *   (db) the unique identifiers issued to the trustees and the manager by the Registrar of Financial Service Providers and contained in the register of financial service providers established and maintained under [section 24][638] of the Financial Service Providers (Registration and Dispute Resolution) Act 2008; and
     
     *   (e) the date upon which the financial year of the scheme ends; and
     
     *   (f) each notice of change sent or delivered under [section 164][267].
     
-    Section 160(ba): inserted, on 1 May 2011, by [section 37(1)][640] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 160(ba): inserted, on 1 May 2011, by [section 37(1)][641] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 160(da): inserted, on 1 May 2011, by [section 37(2)][640] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 160(da): inserted, on 1 May 2011, by [section 37(2)][641] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 160(db): inserted, on 1 May 2011, by [section 37(2)][640] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 160(db): inserted, on 1 May 2011, by [section 37(2)][641] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 161 Additional contents of register
     
@@ -5124,13 +5126,13 @@ KiwiSaver schemes
         
     *   (a) the name of the fund; and
     
-    *   (b) the date on which approval of the fund under [section 35][641] of the Superannuation Schemes Act 1989 became effective; and
+    *   (b) the date on which approval of the fund under [section 35][642] of the Superannuation Schemes Act 1989 became effective; and
     
     *   (c) the names of the trustees of the fund and an address for service for the trustees; and
     
     *   (d) the date upon which the financial year of the fund ends; and
     
-    *   (e) each notice of change sent or delivered under [section 37][642] of the Superannuation Schemes Act 1989\.
+    *   (e) each notice of change sent or delivered under [section 37][643] of the Superannuation Schemes Act 1989\.
     
     (2) The register must contain any other prescribed information or documents.
     
@@ -5138,9 +5140,9 @@ KiwiSaver schemes
     
     (3) This section is subject to [section 162][265].
     
-    Section 161(1B): inserted, on 1 April 2008, by [section 80(1)][643] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 161(1B): inserted, on 1 April 2008, by [section 80(1)][644] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 161(2B): inserted, on 1 April 2008, by [section 80(2)][643] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 161(2B): inserted, on 1 April 2008, by [section 80(2)][644] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
 ##### 162 FMA may refuse access to or suspend operation of register, or omit or remove, or restrict public access to, information and documents in register
     
@@ -5152,13 +5154,13 @@ KiwiSaver schemes
     
     *   (b) the FMA considers, in the public interest, that the information or documents should not form part of the register.
     
-    (3) This section does not limit the [Official Information Act 1982][644] or the [Privacy Act 1993][381].
+    (3) This section does not limit the [Official Information Act 1982][645] or the [Privacy Act 1993][381].
     
     Section 162 heading: amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
     
     Section 162(1): amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 162(2): substituted, on 1 April 2008, by [section 81][645] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 162(2): substituted, on 1 April 2008, by [section 81][646] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
     Section 162(2): amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -5178,9 +5180,9 @@ KiwiSaver schemes
     
     Section 163: amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 163(a): substituted, on 1 April 2008, by [section 82][646] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 163(a): substituted, on 1 April 2008, by [section 82][647] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 163(b): repealed, on 1 April 2008, by [section 82][646] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 163(b): repealed, on 1 April 2008, by [section 82][647] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
 ##### 164 Duty to notify changes to FMA
     
@@ -5194,11 +5196,11 @@ KiwiSaver schemes
     
     Section 164 heading: amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 164(1): amended, on 1 May 2011, by [section 38][647] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 164(1): amended, on 1 May 2011, by [section 38][648] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
     Section 164(1): amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 164(2): substituted, on 19 December 2007, by [section 83][648] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 164(2): substituted, on 19 December 2007, by [section 83][649] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
 ##### 165 Form of notice under section 164
     
@@ -5256,11 +5258,11 @@ KiwiSaver schemes
     
     Section 168: amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 168(a): amended, on 1 May 2011, by [section 39(1)][649] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 168(a): amended, on 1 May 2011, by [section 39(1)][650] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 168(a): amended, on 1 May 2011, by [section 39(2)][649] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 168(a): amended, on 1 May 2011, by [section 39(2)][650] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 168(ab): inserted, on 1 May 2011, by [section 39(3)][649] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 168(ab): inserted, on 1 May 2011, by [section 39(3)][650] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
     Section 168(b): amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -5282,7 +5284,7 @@ KiwiSaver schemes
     
     (4) The trustees must, as soon as practicable after being notified by the FMA under subsection (2)(a), notify the members of the scheme of the determination.
     
-    Section 168A: inserted, on 1 May 2011, by [section 40][650] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 168A: inserted, on 1 May 2011, by [section 40][651] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 169 Powers of FMA in event of scheme operating in contravention of this Act, etc
     
@@ -5308,23 +5310,23 @@ KiwiSaver schemes
     
     (5) The FMA must not give a direction under subsection (4)(b) if the operation of the scheme in accordance with the direction would be contrary to the provisions of the trust deed.
     
-    Compare: 1989 No 10 [s 20][651]
+    Compare: 1989 No 10 [s 20][652]
     
     Section 169 heading: amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
     
     Section 169(1): amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 169(2): amended, on 1 May 2011, by [section 41(1)][652] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 169(2): amended, on 1 May 2011, by [section 41(1)][653] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 169(3): repealed, on 1 April 2008, by [section 84][653] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 169(3): repealed, on 1 April 2008, by [section 84][654] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
     Section 169(4): amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 169(4)(a): amended, on 1 May 2011, by [section 41(2)][652] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 169(4)(a): amended, on 1 May 2011, by [section 41(2)][653] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
     Section 169(4)(a): amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 169(4)(b): amended, on 1 May 2011, by [section 41(3)][652] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 169(4)(b): amended, on 1 May 2011, by [section 41(3)][653] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
     Section 169(5): amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -5350,7 +5352,7 @@ KiwiSaver schemes
     
 *   If the registration of a KiwiSaver scheme is cancelled, the KiwiSaver scheme rules and any other provisions implied in a trust deed by or under this Act must continue to be implied in the trust deed of the scheme until the scheme is wound up.
     
-    Section 171: substituted, on 1 May 2011, by [section 42][654] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 171: substituted, on 1 May 2011, by [section 42][655] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 172 Receiver or liquidator to designate or appoint independent trustee if required
     
@@ -5376,9 +5378,9 @@ KiwiSaver schemes
     
     *   (b) is entitled to be paid out of the assets of the scheme reasonable remuneration for, and any expenses reasonably incurred by that person in, acting in his or her capacity as a trustee of the scheme.
     
-    Compare: 1989 No 10 [s 20A][655]
+    Compare: 1989 No 10 [s 20A][656]
     
-    Section 172(3): amended, on 1 May 2011, by [section 43][656] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 172(3): amended, on 1 May 2011, by [section 43][657] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 #### Winding up
 
@@ -5394,17 +5396,17 @@ KiwiSaver schemes
     
     (2) [Sections 50 to 52][64] set out the effect of notice to the Commissioner in relation to members of the KiwiSaver scheme and [subpart 3][69] of Part 2 relates to the transfer of members' interests to another KiwiSaver scheme.
     
-    Section 173(1): amended, on 1 May 2011, by [section 44][657] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 173(1): amended, on 1 May 2011, by [section 44][658] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
     Section 173(1): amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
     
     Section 173(1)(a): amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 173(1)(b): amended, on 1 May 2011, by [section 44][657] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 173(1)(b): amended, on 1 May 2011, by [section 44][658] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 173(1)(b): amended, on 21 December 2010, by [section 177][658] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 173(1)(b): amended, on 21 December 2010, by [section 177][659] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 173(1)(c): added, on 1 May 2011, by [section 44][657] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 173(1)(c): added, on 1 May 2011, by [section 44][658] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 174 Winding up report
     
@@ -5412,7 +5414,7 @@ KiwiSaver schemes
         
     *   (a) must, within 4 months of the date on which the winding up takes effect, ensure that final financial statements of the scheme, showing the financial position of the scheme as at the date on which the winding up takes effect, are prepared; and
     
-    *   (b) must, within 4 months of the date on which the winding up takes effect, ensure that those final financial statements are audited by a licensed auditor or a registered audit firm (within the meaning of [section 6][659] of the Auditor Regulation Act 2011); and
+    *   (b) must, within 4 months of the date on which the winding up takes effect, ensure that those final financial statements are audited by a licensed auditor or a registered audit firm (within the meaning of [section 6][660] of the Auditor Regulation Act 2011); and
     
     *   (c) must, within 28 days after the final financial statements have been audited, ensure that---
             
@@ -5424,15 +5426,15 @@ KiwiSaver schemes
     
     *   (d) must inform the FMA of the date on which the distribution of the assets is completed.
     
-    Compare: 1989 No 10 [s 21(1)][660]
+    Compare: 1989 No 10 [s 21(1)][661]
     
-    Section 174(a): amended, on 1 May 2011, by [section 45(1)][661] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 174(a): amended, on 1 May 2011, by [section 45(1)][662] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 174(b): amended, on 1 July 2012, by [section 82][662] of the Auditor Regulation Act 2011 (2011 No 21).
+    Section 174(b): amended, on 1 July 2012, by [section 82][663] of the Auditor Regulation Act 2011 (2011 No 21).
     
-    Section 174(b): amended, on 1 May 2011, by [section 45(1)][661] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 174(b): amended, on 1 May 2011, by [section 45(1)][662] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 174(c): substituted, on 1 May 2011, by [section 45(2)][661] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 174(c): substituted, on 1 May 2011, by [section 45(2)][662] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
     Section 174(d): amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -5440,13 +5442,13 @@ KiwiSaver schemes
     
 *   The registration of a KiwiSaver scheme that has been wound up is deemed to be cancelled as soon as the distribution of the assets is completed.
     
-    Section 174A: inserted, on 1 May 2011, by [section 46][663] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 174A: inserted, on 1 May 2011, by [section 46][664] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 175 Time for doing certain things may be extended
     
 *   The FMA may, by giving notice to the relevant person, extend the time period within which a person must comply with any of the requirements set out in [sections 173][280] and [174][281].
     
-    Compare: 1989 No 10 [s 21(1A)][660]
+    Compare: 1989 No 10 [s 21(1A)][661]
     
     Section 175: amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -5458,9 +5460,9 @@ KiwiSaver schemes
     
     *   (b) to receive, upon payment of the relevant fee, a copy of the trust deed.
     
-    (2) The relevant fee is the amount prescribed in respect of documents to which [regulation 2(d)][664] of the Securities (Fees) Regulations 1998 applies.
+    (2) The relevant fee is the amount prescribed in respect of documents to which [regulation 2(d)][665] of the Securities (Fees) Regulations 1998 applies.
     
-    Compare: 1989 No 10 [s 21(2)][660]
+    Compare: 1989 No 10 [s 21(2)][661]
 
 ### Subpart 6---Default KiwiSaver schemes
 
@@ -5488,13 +5490,13 @@ KiwiSaver schemes
     
     (6) A restricted scheme is not eligible to be a default KiwiSaver scheme.
     
-    Section 177(1): amended, on 1 May 2011, by [section 47(1)][665] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 177(1): amended, on 1 May 2011, by [section 47(1)][666] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 177(2): repealed, on 1 May 2011, by [section 47(2)][665] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 177(2): repealed, on 1 May 2011, by [section 47(2)][666] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
     Section 177(5): added, on 1 May 2011, by [section 82][398] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 177(6): added, on 1 May 2011, by [section 47(3)][665] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 177(6): added, on 1 May 2011, by [section 47(3)][666] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 178 Provisions of instrument of appointment to prevail over provisions of trust deed
     
@@ -5592,9 +5594,9 @@ KiwiSaver schemes
     
     (4) The High Court may at any time rescind or vary an order made under this section.
     
-    Section 183(1): amended, on 1 May 2011, by [section 48(1)][666] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 183(1): amended, on 1 May 2011, by [section 48(1)][667] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 183(2): substituted, on 1 May 2011, by [section 48(2)][666] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 183(2): substituted, on 1 May 2011, by [section 48(2)][667] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 184 Revocations, etc, of instruments of appointment
     
@@ -5704,9 +5706,9 @@ KiwiSaver schemes
 
 ##### 189B Duty to give notice to FMA about fee increases
     
-*   Any person referred to in [clause 2][614] of the KiwiSaver scheme rules who increases a fee to which that clause applies must give notice of the increase to the FMA as soon as reasonably practicable after the increase takes effect.
+*   Any person referred to in [clause 2][615] of the KiwiSaver scheme rules who increases a fee to which that clause applies must give notice of the increase to the FMA as soon as reasonably practicable after the increase takes effect.
     
-    Section 189B: inserted, on 1 April 2008, by [section 86][667] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 189B: inserted, on 1 April 2008, by [section 86][668] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
     Section 189B heading: amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -5714,7 +5716,7 @@ KiwiSaver schemes
 
 ##### 189C Powers of High Court in relation to unreasonable fees
     
-*   (1) If the High Court is satisfied, on the application of a member or the FMA, that any of the persons referred to in [clause 2][614] of the KiwiSaver scheme rules have charged a fee that is unreasonable, it may order that the fee be annulled or reduced.
+*   (1) If the High Court is satisfied, on the application of a member or the FMA, that any of the persons referred to in [clause 2][615] of the KiwiSaver scheme rules have charged a fee that is unreasonable, it may order that the fee be annulled or reduced.
     
     (2) The High Court may make any other order it thinks fit for the purpose of giving effect to an order under subsection (1).
     
@@ -5728,7 +5730,7 @@ KiwiSaver schemes
     
     *   (c) may have regard to any other matter it thinks fit.
     
-    Section 189C: inserted, on 1 April 2008, by [section 86][667] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 189C: inserted, on 1 April 2008, by [section 86][668] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
     Section 189C(1): amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -5754,7 +5756,7 @@ KiwiSaver schemes
     
     (4) For the avoidance of doubt, this section does not require any person who holds office as an administration manager, investment manager, or auditor of a KiwiSaver scheme to carry out functions additional to those functions that he or she would ordinarily carry out in the course of holding that office, other than to disclose to the FMA information relating to the affairs of the KiwiSaver scheme.
     
-    Compare: 1989 No 10 [s 18A][668]
+    Compare: 1989 No 10 [s 18A][669]
     
     Section 191 heading: amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -5774,7 +5776,7 @@ KiwiSaver schemes
     
     (5) Nothing in subsection (4) limits the admissibility of any information obtained in any other way.
     
-    Compare: 1989 No 10 [s 18B][669]
+    Compare: 1989 No 10 [s 18B][670]
     
     Section 192(1): amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -5794,7 +5796,7 @@ KiwiSaver schemes
     
     (2) Every report must be presented to the House of Representatives by the responsible Minister as soon as practicable after it has been received by that Minister.
     
-    Compare: 1989 No 10 [s 28][670]
+    Compare: 1989 No 10 [s 28][671]
     
     Section 194 heading: amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -5802,9 +5804,9 @@ KiwiSaver schemes
 
 ##### 195 Unclaimed money held by trustees of KiwiSaver scheme
     
-*   (1) [Section 77][671] of the Trustee Act 1956 applies subject to this section in relation to a member's interest in a KiwiSaver scheme held by, or in the control of, the trustees of that scheme.
+*   (1) [Section 77][672] of the Trustee Act 1956 applies subject to this section in relation to a member's interest in a KiwiSaver scheme held by, or in the control of, the trustees of that scheme.
     
-    (2) [Section 77][671] of the Trustee Act 1956 applies to the member's interest only if, at the time that section is applied,---
+    (2) [Section 77][672] of the Trustee Act 1956 applies to the member's interest only if, at the time that section is applied,---
         
     *   (a) the member of the scheme in respect of which the trust exists is able to be identified, according to the information held by or available to the trustees, as being at least 5 years older than the date on which a withdrawal is permitted under [clause 4][423] of the KiwiSaver scheme rules; and
     
@@ -5812,13 +5814,13 @@ KiwiSaver schemes
     
     *   (c) there has been no contribution made to the member's account in the preceding 5 years, excluding any fee subsidy or Crown contribution.
     
-    Section 195(2)(b): amended, on 1 May 2011, by [section 49][672] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 195(2)(b): amended, on 1 May 2011, by [section 49][673] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 196 Member's interest in KiwiSaver scheme not assignable
     
 *   (1) Except as expressly provided in this Act, a member's interest or any future benefits that will or may become payable to a member under the KiwiSaver scheme must not be assigned or charged or passed to any other person whether by way of security, operation of law, or any other means.
     
-    (2) However, nothing in subsection (1) prevents a member's interest or any future benefits that will or may become payable to a member under the KiwiSaver scheme from being released, assigned, or charged, or from passing to any other person if it is required by the provisions of any enactment, including a requirement by order of the court under any enactment (including an order made under [section 31][673] of the Property (Relationships) Act 1976).
+    (2) However, nothing in subsection (1) prevents a member's interest or any future benefits that will or may become payable to a member under the KiwiSaver scheme from being released, assigned, or charged, or from passing to any other person if it is required by the provisions of any enactment, including a requirement by order of the court under any enactment (including an order made under [section 31][674] of the Property (Relationships) Act 1976).
 
 ##### 197 Offence to fail to provide information under this Part
     
@@ -5840,15 +5842,15 @@ KiwiSaver schemes
     
     *   (d) if a person has a right to be advised of certain information, the trustees of the KiwiSaver scheme to which the information relates have a duty to ensure that the information is supplied to the person.
     
-    Section 197(1): amended, on 1 July 2013, by [section 413][674] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 197(1): amended, on 1 July 2013, by [section 413][675] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 197(2): amended, on 1 May 2011, by [section 50(a)][675] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 197(2): amended, on 1 May 2011, by [section 50(a)][676] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 197(2)(a): amended, on 1 May 2011, by [section 50(b)][675] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 197(2)(a): amended, on 1 May 2011, by [section 50(b)][676] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 197(2)(b): amended, on 1 May 2011, by [section 50(b)][675] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 197(2)(b): amended, on 1 May 2011, by [section 50(b)][676] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 197(2)(c): amended, on 1 May 2011, by [section 50(b)][675] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 197(2)(c): amended, on 1 May 2011, by [section 50(b)][676] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 198 Other offences under this Part
     
@@ -5870,7 +5872,7 @@ KiwiSaver schemes
     
     (2) If any company commits an offence against this Act, every officer of the company who knowingly authorises or permits the offence also commits an offence against this Act.
     
-    Section 198(1): amended, on 1 July 2013, by [section 413][674] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 198(1): amended, on 1 July 2013, by [section 413][675] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 198(1)(a): amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -5896,7 +5898,7 @@ KiwiSaver schemes
     
 *   If any fee is payable in accordance with any regulations made under this Act, the FMA may decline to take any action in respect of the matter for which the fee is payable, or decline to accept the document to which the fee relates, unless the fee, or an estimate of the fee, has been paid.
     
-    Compare: 1989 No 10 [s 29][676]
+    Compare: 1989 No 10 [s 29][677]
     
     Section 200 heading: amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -5938,29 +5940,29 @@ KiwiSaver schemes
     
     *   (c) the power of investment is exercised in accordance with the express terms relating to the default investment product specified in an instrument of appointment made under [section 177][286].
     
-    (2) If this section applies, the exercise of the power must be treated, for the purposes of [section 13G][677] of the Trustee Act 1956, as consistent with any requirements of the trust deed or statute that are binding on the trustee or the manager (as the case may be) and that relate to the obtaining of consent or compliance with any direction with respect to the investment of trust funds.
+    (2) If this section applies, the exercise of the power must be treated, for the purposes of [section 13G][678] of the Trustee Act 1956, as consistent with any requirements of the trust deed or statute that are binding on the trustee or the manager (as the case may be) and that relate to the obtaining of consent or compliance with any direction with respect to the investment of trust funds.
     
-    Section 202(1)(b): amended, on 1 May 2011, by [section 51(1)][678] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 202(1)(b): amended, on 1 May 2011, by [section 51(1)][679] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 202(2): amended, on 1 May 2011, by [section 51(2)][678] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 202(2): amended, on 1 May 2011, by [section 51(2)][679] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 203 General application of Financial Transactions Reporting Act 1996
     
-*   (1) For the avoidance of doubt, an offer to become a member of a KiwiSaver scheme is, subject to [section 204][316], a request to a financial institution for the person to become a facility holder within the meaning of the [Financial Transactions Reporting Act 1996][679].
+*   (1) For the avoidance of doubt, an offer to become a member of a KiwiSaver scheme is, subject to [section 204][316], a request to a financial institution for the person to become a facility holder within the meaning of the [Financial Transactions Reporting Act 1996][680].
     
-    (2) A provider must, for the purposes of [section 6][680] of the Financial Transactions Reporting Act 1996, unless the provider has already verified the person's identity, treat a request by a member to make a permitted withdrawal as if it was a request to a financial institution for the person to become a facility holder within the meaning of that Act.
+    (2) A provider must, for the purposes of [section 6][681] of the Financial Transactions Reporting Act 1996, unless the provider has already verified the person's identity, treat a request by a member to make a permitted withdrawal as if it was a request to a financial institution for the person to become a facility holder within the meaning of that Act.
 
 ##### 204 Application of Financial Transactions Reporting Act 1996 to default allocation of members to KiwiSaver schemes
     
 *   (1) This section applies in respect of any allocation of a person (_A_) to, or any offer by a person (_A_) to become a member of, a KiwiSaver scheme under [sections 50 to 52][64].
     
-    (2) For the purposes of [section 6][680] of the Financial Transactions Reporting Act 1996, an offer or allocation to which this section applies is not a request to a financial institution for the person to become a facility holder as defined in [section 2(1)][681] of that Act.
+    (2) For the purposes of [section 6][681] of the Financial Transactions Reporting Act 1996, an offer or allocation to which this section applies is not a request to a financial institution for the person to become a facility holder as defined in [section 2(1)][682] of that Act.
     
     (3) Despite subsection (2),---
         
     *   (a) a provider of a KiwiSaver scheme must make reasonable efforts to verify A's identity at the time that A becomes a member of a KiwiSaver scheme; and
     
-    *   (b) if A makes a voluntary payment into the KiwiSaver scheme, the payment must, for the purposes of [section 6][680] of the Financial Transactions Reporting Act 1996, unless the provider has already verified A's identity, be treated as a request to a financial institution for the person to become a facility holder within the meaning of that Act.
+    *   (b) if A makes a voluntary payment into the KiwiSaver scheme, the payment must, for the purposes of [section 6][681] of the Financial Transactions Reporting Act 1996, unless the provider has already verified A's identity, be treated as a request to a financial institution for the person to become a facility holder within the meaning of that Act.
     
     (4) In this section, _voluntary payment_ means,---
         
@@ -5995,13 +5997,13 @@ General provisions
     
     (3) The statements required by this section must be included at the end of the ""Who is involved in providing it for me?"" section of the investment statement.
     
-    (4) For the purposes of the [Securities Act 1978][382], a failure to comply with this section is also treated as if it were a failure to comply with the [Securities Regulations 1983][682].
+    (4) For the purposes of the [Securities Act 1978][382], a failure to comply with this section is also treated as if it were a failure to comply with the [Securities Regulations 1983][683].
     
-    Section 205A: inserted, on 1 April 2008, by [section 87][683] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 205A: inserted, on 1 April 2008, by [section 87][684] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
 ##### 206 Factual description of, or transmission of information about, KiwiSaver scheme not financial adviser service
     
-*   For the avoidance of doubt, the Crown or any other person does not perform a financial adviser service for the purposes of the [Financial Advisers Act 2008][684] if the Crown or that person---
+*   For the avoidance of doubt, the Crown or any other person does not perform a financial adviser service for the purposes of the [Financial Advisers Act 2008][685] if the Crown or that person---
         
     *   (a) supplies an information pack as required or authorised by this Act; or
     
@@ -6013,11 +6015,11 @@ General provisions
     
     *   (e) otherwise exercises or carries out a function, duty, or power under this Act.
     
-    Section 206 heading: amended, on 16 August 2010, by [section 162(2)][685] of the Financial Advisers Act 2008 (2008 No 91).
+    Section 206 heading: amended, on 16 August 2010, by [section 162(2)][686] of the Financial Advisers Act 2008 (2008 No 91).
     
-    Section 206: amended, on 16 August 2010, by [section 162(3)][685] of the Financial Advisers Act 2008 (2008 No 91).
+    Section 206: amended, on 16 August 2010, by [section 162(3)][686] of the Financial Advisers Act 2008 (2008 No 91).
     
-    Section 206: amended, on 19 December 2007, by [section 88][686] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 206: amended, on 19 December 2007, by [section 88][687] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
 ##### 207 Unique identifiers
     
@@ -6027,7 +6029,7 @@ General provisions
     
     *   (b) are reasonably necessary for the effective administration of the overall KiwiSaver scheme.
     
-    (2) Despite [Information Privacy Principle 12(2) or (4)][687] of the Privacy Act 1993, a provider of a KiwiSaver scheme may---
+    (2) Despite [Information Privacy Principle 12(2) or (4)][688] of the Privacy Act 1993, a provider of a KiwiSaver scheme may---
         
     *   (a) require an individual to disclose any unique identifier that has been assigned to that person by the Commissioner for the purposes of carrying out specified functions, duties, or powers; and
     
@@ -6075,23 +6077,23 @@ General provisions
     
     *   (b) gives rise to any civil or criminal liability of the Crown or those officers or employees under the [Securities Act 1978][382].
     
-    Section 209(2): amended, on 1 July 2007, by [section 67][688] of the Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007 (2007 No 19).
+    Section 209(2): amended, on 1 July 2007, by [section 67][689] of the Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007 (2007 No 19).
 
 ##### 210 Certain sections of Securities Act 1978 modified in relation to KiwiSaver scheme
     
 *   (1) This section applies if an interest in a KiwiSaver scheme is allotted in contravention of---
         
-    *   (a) [section 37][689] of the Securities Act 1978 (which relates to void irregular allotments of securities); or
+    *   (a) [section 37][690] of the Securities Act 1978 (which relates to void irregular allotments of securities); or
     
-    *   (b) [section 37A][690] of the Securities Act 1978 (which relates to voidable irregular allotments of securities); or
+    *   (b) [section 37A][691] of the Securities Act 1978 (which relates to voidable irregular allotments of securities); or
     
-    *   (c) [section 43D][691], [43F][692], [43G][693], [43I][694], or [43K][695] of the Securities Act 1978 (which relate to various restrictions on the allotment of securities).
+    *   (c) [section 43D][692], [43F][693], [43G][694], [43I][695], or [43K][696] of the Securities Act 1978 (which relate to various restrictions on the allotment of securities).
     
     *   (d) \[Repealed\]
     
     (2) If this section applies,---
         
-    *   (a) any resulting duty of the trustees (as issuer in respect of a restricted KiwiSaver scheme), the manager (as issuer in respect of any other KiwiSaver scheme), or any other person to repay subscriptions or any other amount under [section 37(5), 37(6)][689], [37A(6), 37A(7)][690], [43F(2)(b)][692], [43G(3)(b) or (4)(b)][693] of the Securities Act 1978 does not apply; but
+    *   (a) any resulting duty of the trustees (as issuer in respect of a restricted KiwiSaver scheme), the manager (as issuer in respect of any other KiwiSaver scheme), or any other person to repay subscriptions or any other amount under [section 37(5), 37(6)][690], [37A(6), 37A(7)][691], [43F(2)(b)][693], [43G(3)(b) or (4)(b)][694] of the Securities Act 1978 does not apply; but
     
     *   (b) the trustees or the manager (as the case may be) must instead provide the Commissioner with a notice of---
             
@@ -6109,13 +6111,13 @@ General provisions
     
     Section 210(1)(d): repealed, on 1 May 2011, by [section 82][398] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 210(2)(a): amended, on 1 May 2011, by [section 52(1)][696] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 210(2)(a): amended, on 1 May 2011, by [section 52(1)][697] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
     Section 210(2)(a): amended, on 1 May 2011, by [section 82][398] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 210(2)(b): amended, on 1 May 2011, by [section 52(2)][696] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 210(2)(b): amended, on 1 May 2011, by [section 52(2)][697] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 210(2)(b)(ii): amended, on 19 December 2007, by [section 89][697] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 210(2)(b)(ii): amended, on 19 December 2007, by [section 89][698] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
 ##### 211 Duty of Commissioner under section 50 modified in certain cases in which section 210 applies
     
@@ -6129,9 +6131,9 @@ General provisions
     
     (3) Subsection (2) does not apply if, in the opinion of the Commissioner, the application of [section 50][64] in accordance with that subsection is not practicable.
     
-    Section 211(1)(b): amended (with effect on 1 July 2007), on 19 December 2007, by [section 90(1)][698] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 211(1)(b): amended (with effect on 1 July 2007), on 19 December 2007, by [section 90(1)][699] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 211(2): amended (with effect on 1 July 2007), on 19 December 2007, by [section 90(2)][698] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 211(2): amended (with effect on 1 July 2007), on 19 December 2007, by [section 90(2)][699] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
 #### Disputes under Parts 2 and 3
 
@@ -6161,7 +6163,7 @@ General provisions
 
 ##### 213 Reconsideration of other decisions
     
-*   [Part 8A][699] of the Tax Administration Act 1994 applies to every notice of a disputable decision given by the Commissioner under this Act.
+*   [Part 8A][700] of the Tax Administration Act 1994 applies to every notice of a disputable decision given by the Commissioner under this Act.
 
 #### Penalties
 
@@ -6171,13 +6173,13 @@ General provisions
     
     (2) \[Repealed\]
     
-    Section 214 heading: amended, on 1 April 2009, by [section 91(1)][700] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 214 heading: amended, on 1 April 2009, by [section 91(1)][701] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 214(1): amended, on 1 April 2009, by [section 91(2)(a)][700] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 214(1): amended, on 1 April 2009, by [section 91(2)(a)][701] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 214(1): amended, on 1 April 2009, by [section 91(2)(b)][700] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 214(1): amended, on 1 April 2009, by [section 91(2)(b)][701] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 214(2): repealed, on 1 April 2009, by [section 91(3)][700] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 214(2): repealed, on 1 April 2009, by [section 91(3)][701] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
 ##### 215 Penalty for employer to fail to provide information
     
@@ -6211,11 +6213,11 @@ General provisions
     
     (5) The penalty is due and payable on the day on which the next tax deduction required to be made by the employer under the PAYE rules is due to be paid to the Commissioner after the end of the PAYE period in which the failure occurred.
     
-    Section 215(2)(a): substituted (with effect on 1 July 2007), on 19 December 2007, by [section 92(1)][701] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 215(2)(a): substituted (with effect on 1 July 2007), on 19 December 2007, by [section 92(1)][702] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 215(3): amended, on 19 December 2007, by [section 92(2)][701] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 215(3): amended, on 19 December 2007, by [section 92(2)][702] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 215(4): amended, on 1 April 2009, by [section 92(3)][701] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 215(4): amended, on 1 April 2009, by [section 92(3)][702] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
     Section 215(4)(a): amended, on 1 April 2008, by [section ZA 2(1)][387] of the Income Tax Act 2007 (2007 No 97).
     
@@ -6225,15 +6227,15 @@ General provisions
     
 *   \[Repealed\]
     
-    Section 216: repealed, on 1 April 2009, by [section 94][702] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 216: repealed, on 1 April 2009, by [section 94][703] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
 #### Giving of notices
 
 ##### 217 Giving of notices by and to Commissioner
     
-*   (1) [Section 14][703] of the Tax Administration Act 1994 applies when this Act requires the Commissioner to give a notice to a person.
+*   (1) [Section 14][704] of the Tax Administration Act 1994 applies when this Act requires the Commissioner to give a notice to a person.
     
-    (2) [Section 14B][704] of the Tax Administration Act 1994 applies when this Act requires a person to give a notice to the Commissioner.
+    (2) [Section 14B][705] of the Tax Administration Act 1994 applies when this Act requires a person to give a notice to the Commissioner.
 
 ##### 218 Giving of notices to other persons
     
@@ -6247,7 +6249,7 @@ General provisions
     
     (5) The person may give the notice by personal delivery to an addressee that is a corporate body, if the personal delivery is made to the addressee's office during working hours.
     
-    (6) The person may give the notice by an electronic means of communication to the addressee, if the person complies with the [Electronic Transactions Act 2002][705].
+    (6) The person may give the notice by an electronic means of communication to the addressee, if the person complies with the [Electronic Transactions Act 2002][706].
     
     (7) The person may give the notice by posting it---
         
@@ -6259,17 +6261,17 @@ General provisions
     
     (8) A notice given by post is treated as having been given at the time it would have been delivered in the ordinary course of post.
     
-    Compare: 1994 No 166 [s 14C][706]
+    Compare: 1994 No 166 [s 14C][707]
 
 ##### 219 Consent to electronic transactions
     
-*   (1) A person who gives his or her electronic address to any other person under this Act is treated as having consented to use, provide, or accept information in an electronic form for all of the purposes of this Act and the [Electronic Transactions Act 2002][705].
+*   (1) A person who gives his or her electronic address to any other person under this Act is treated as having consented to use, provide, or accept information in an electronic form for all of the purposes of this Act and the [Electronic Transactions Act 2002][706].
     
     (2) This section does not apply to the Commissioner of Inland Revenue or any employee or officer of the Inland Revenue Department.
     
-    Compare: 2002 No 35 [s 16][707]
+    Compare: 2002 No 35 [s 16][708]
     
-    Section 219(2): added (with effect on 1 July 2007), on 19 December 2007, by [section 95][708] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 219(2): added (with effect on 1 July 2007), on 19 December 2007, by [section 95][709] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
 ##### 220 Special rules about giving of investment statements
     
@@ -6287,7 +6289,7 @@ General provisions
     
 *   The Commissioner and a provider may, for the purposes of administering this Act or a KiwiSaver scheme, communicate to each other by electronic means a person's name, address, date of birth, and tax file number.
     
-    Section 220B: inserted, on 21 December 2010, by [section 178][709] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 220B: inserted, on 21 December 2010, by [section 178][710] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
 
 #### Miscellaneous provisions
 
@@ -6299,15 +6301,15 @@ General provisions
     
     (3) However, if the Commissioner is satisfied that the application of subsections (1) and (2) would result in undue hardship to a person, or is not practicable, the refund of contribution may be made by other means acceptable to the Commissioner.
     
-    (4) In this section, _bank account_ means an account with a bank that is a registered bank within the meaning of the [Reserve Bank of New Zealand Act 1989][710] or a private savings bank or a credit union or a building society or the PSIS Limited.
+    (4) In this section, _bank account_ means an account with a bank that is a registered bank within the meaning of the [Reserve Bank of New Zealand Act 1989][711] or a private savings bank or a credit union or a building society or the PSIS Limited.
     
-    Compare: 1994 No 166 [s 184A][711]
+    Compare: 1994 No 166 [s 184A][712]
     
-    Section 221(1): amended (with effect on 1 July 2007), on 19 December 2007, by [section 96(1)][712] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 221(1): amended (with effect on 1 July 2007), on 19 December 2007, by [section 96(1)][713] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 221(2): amended (with effect on 1 July 2007), on 19 December 2007, by [section 96(2)][712] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 221(2): amended (with effect on 1 July 2007), on 19 December 2007, by [section 96(2)][713] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 221(3): amended (with effect on 1 July 2007), on 19 December 2007, by [section 96(3)][712] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 221(3): amended (with effect on 1 July 2007), on 19 December 2007, by [section 96(3)][713] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
 ##### 222 Role of Commissioner under this Act
     
@@ -6347,7 +6349,7 @@ General provisions
     
     (3) The delegation must be in writing.
     
-    (4) [Section 41][713] of the State Sector Act 1988 applies if the delegation is to a chief executive or to an employee (as those terms are defined in that Act).
+    (4) [Section 41][714] of the State Sector Act 1988 applies if the delegation is to a chief executive or to an employee (as those terms are defined in that Act).
     
     (5) If the delegation is to another person,---
         
@@ -6357,7 +6359,7 @@ General provisions
     
     *   (c) every person purporting to act under the delegation is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of the delegation.
     
-    Section 225(2): amended, on 19 December 2007, by [section 97][714] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 225(2): amended, on 19 December 2007, by [section 97][715] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
 ##### 226 Crown contribution: kick-start contributions
     
@@ -6381,25 +6383,25 @@ General provisions
     
     (4) If A ceases being a member of the first KiwiSaver scheme of which they are a member because the Commissioner accepts an opt-out notice outside the time limit in [section 16][20] or because A's enrolment is invalid, and the amount of the contribution under this section was never paid, then the next KiwiSaver scheme of which A is a member is treated as their first one, for the purposes of this section and entitlement to the contribution.
     
-    Section 226 heading: amended, on 2 November 2012, by [section 236][715] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 226 heading: amended, on 2 November 2012, by [section 236][716] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 226(1): substituted (with effect on 1 July 2007), on 19 December 2007, by [section 98(1)][716] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 226(1): substituted (with effect on 1 July 2007), on 19 December 2007, by [section 98(1)][717] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 226(1): amended, on 21 December 2010, by [section 179][717] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 226(1): amended, on 21 December 2010, by [section 179][718] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 226(1): amended (with effect on 1 July 2007), on 6 October 2009, by [section 731(1)][718] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 226(1): amended (with effect on 1 July 2007), on 6 October 2009, by [section 731(1)][719] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 226(1A): inserted (with effect on 1 July 2007), on 19 December 2007, by [section 98(1)][716] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 226(1A): inserted (with effect on 1 July 2007), on 19 December 2007, by [section 98(1)][717] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 226(1B): inserted (with effect on 1 July 2007), on 19 December 2007, by [section 98(1)][716] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 226(1B): inserted (with effect on 1 July 2007), on 19 December 2007, by [section 98(1)][717] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 226(1C): inserted, on 19 December 2007, by [section 98(2)][716] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 226(1C): inserted, on 19 December 2007, by [section 98(2)][717] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 226(2): amended (with effect on 1 July 2007), on 19 December 2007, by [section 98(3)][716] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 226(2): amended (with effect on 1 July 2007), on 19 December 2007, by [section 98(3)][717] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 226(2B): inserted, on 19 December 2007, by [section 98(4)][716] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 226(2B): inserted, on 19 December 2007, by [section 98(4)][717] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 226(4): substituted (with effect on 1 July 2007), on 6 October 2009, by [section 731(2)][718] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 226(4): substituted (with effect on 1 July 2007), on 6 October 2009, by [section 731(2)][719] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 227 Status of Crown contribution and fee subsidy for tax purposes
     
@@ -6407,7 +6409,7 @@ General provisions
         
     *   (a) income for the purposes of the [Income Tax Act 2007][412]; or
     
-    *   (b) a gift for the purposes of the [Estate and Gift Duties Act 1968][719].
+    *   (b) a gift for the purposes of the [Estate and Gift Duties Act 1968][720].
     
     Section 227(a): amended, on 1 April 2008, by [section ZA 2(1)][387] of the Income Tax Act 2007 (2007 No 97).
 
@@ -6477,7 +6479,7 @@ General provisions
     
     *   (o) providing for when fee subsidies referred to in paragraph (n) may or will be paid, and terms and conditions relating to payment and to the application of those contributions and subsidies, and how those terms and conditions may be enforced:
     
-    *   (p) prescribing matters that are relevant to a determination or consideration as to whether a fee is unreasonable for the purposes of [clause 2][614] of the KiwiSaver scheme rules or [section 127][216]:
+    *   (p) prescribing matters that are relevant to a determination or consideration as to whether a fee is unreasonable for the purposes of [clause 2][615] of the KiwiSaver scheme rules or [section 127][216]:
     
     *   (q) prescribing circumstances in which the purchase of an estate in land enables a withdrawal under [clause 8][464] of the KiwiSaver scheme rules:
     
@@ -6503,21 +6505,21 @@ General provisions
     
     *   (c) provide for the trustee of the scheme to have the power, exercisable with the consent of the manager of the scheme (but without requiring the consent of members), to make amendments to the trust deed that do not adversely affect the interests of members.
     
-    Section 228(1)(ba): inserted, on 1 May 2011, by [section 53(1)][720] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 228(1)(ba): inserted, on 1 May 2011, by [section 53(1)][721] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 228(1)(bb): inserted, on 1 May 2011, by [section 53(1)][720] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 228(1)(bb): inserted, on 1 May 2011, by [section 53(1)][721] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
     Section 228(1)(c): amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 228(1)(fa): inserted, on 1 May 2011, by [section 53(2)][720] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 228(1)(fa): inserted, on 1 May 2011, by [section 53(2)][721] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 228(1)(ga): inserted, on 1 May 2011, by [section 53(3)][720] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 228(1)(ga): inserted, on 1 May 2011, by [section 53(3)][721] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 228(1)(gb): inserted, on 1 May 2011, by [section 53(3)][720] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 228(1)(gb): inserted, on 1 May 2011, by [section 53(3)][721] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
     Section 228(1)(t): amended, on 1 May 2011, by [section 82][398] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 228(2): added, on 1 May 2011, by [section 53(4)][720] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 228(2): added, on 1 May 2011, by [section 53(4)][721] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 229 Regulations relating to mortgage diversion facility
     
@@ -6581,27 +6583,27 @@ General provisions
     
     (4) If a provider chooses to participate in the mortgage diversion facility, any withdrawal made in accordance with those regulations must be treated as if it were a withdrawal that is permitted under the [KiwiSaver scheme rules][360].
     
-    Section 229(1): amended, on 19 December 2007, by [section 99(1)][721] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 229(1): amended, on 19 December 2007, by [section 99(1)][722] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 229(2): amended, on 19 December 2007, by [section 99(2)][721] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 229(2): amended, on 19 December 2007, by [section 99(2)][722] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 229(2)(b): amended, on 19 December 2007, by [section 99(3)][721] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 229(2)(b): amended, on 19 December 2007, by [section 99(3)][722] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 229(2)(c)(ii): substituted, on 19 December 2007, by [section 99(4)][721] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 229(2)(c)(ii): substituted, on 19 December 2007, by [section 99(4)][722] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 229(2)(e): amended, on 19 December 2007, by [section 99(5)][721] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 229(2)(e): amended, on 19 December 2007, by [section 99(5)][722] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 229(3)(eb): inserted, on 1 June 2009, by [section 5][722] of the Taxation (Budget Tax Measures) Act 2009 (2009 No 14).
+    Section 229(3)(eb): inserted, on 1 June 2009, by [section 5][723] of the Taxation (Budget Tax Measures) Act 2009 (2009 No 14).
     
-    Section 229(2)(f): amended, on 19 December 2007, by [section 99(6)][721] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 229(2)(f): amended, on 19 December 2007, by [section 99(6)][722] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 229(2)(i): substituted, on 19 December 2007, by [section 99(7)][721] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 229(2)(i): substituted, on 19 December 2007, by [section 99(7)][722] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 229(2)(i): amended (with effect on 1 July 2008), on 6 October 2009, by [section 732(1)][723] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 229(2)(i): amended (with effect on 1 July 2008), on 6 October 2009, by [section 732(1)][724] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 229(2)(ia): inserted (with effect on 1 July 2008), on 6 October 2009, by [section 732(2)][723] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 229(2)(ia): inserted (with effect on 1 July 2008), on 6 October 2009, by [section 732(2)][724] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 229(2)(jb): inserted, on 1 July 2013, by [section 188][724] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Section 229(2)(jb): inserted, on 1 July 2013, by [section 188][725] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
 
 ##### 230 Regulations relating to default KiwiSaver providers
     
@@ -6619,13 +6621,21 @@ General provisions
         
         
     
+    *   (ba) providing for the following matters in relation to all or any class of default members of a scheme that is subject to a terminating event under [section 185][294]:
+            
+        *   (i) requiring those default members to be reallocated and transferred to a default KiwiSaver scheme and providing the method of determining, terms of, and procedures for the reallocation and the transfer (or providing for the Minister to require or determine any of those matters by direction to the scheme provider or providing for another person or method to determine any of those matters):
+        
+        *   (ii) requiring the reallocation and transfer to be carried out in accordance with that method, those terms, and those procedures:
+        
+        
+    
     *   (c) requiring the provider of a scheme that is or was a scheme provided under an instrument of appointment to do any act or thing following any terminating event under [section 185][294] including, without limitation,---
             
         *   (i) requiring the members of the scheme to be notified of the terminating event or of any other matter and specifying time frames for notification to occur:
         
         *   (ii) prescribing any advice, information, or documents that must accompany any notification given under subparagraph (i):
         
-        *   (iii) requiring the provider to do any act or thing or carry out any prescribed procedures to facilitate or enable the transfer of members to another KiwiSaver scheme in accordance with this Act:
+        *   (iii) requiring the provider to do any act or thing or carry out any prescribed procedures to facilitate or enable the transfer of members to another KiwiSaver scheme in accordance with this Act, regulations made under paragraph (ba), or the [Financial Markets Conduct Act 2013][726]:
         
         *   (iv) requiring the provider to report to any specified person or persons, or to produce to any specified person or persons, any papers, documents, records, or things in respect of the scheme, at specified times or contingent on any specified events:
         
@@ -6633,7 +6643,15 @@ General provisions
     
     *   (d) requiring the provider of any new scheme to which members are or are to be transferred from a scheme that is subject to a terminating event under [section 185][294] to do any act or thing or to carry out any prescribed procedures to facilitate or enable the transfer of members to the provider's KiwiSaver scheme.
     
+    (1A) In this section, _default members_ means members that were allocated to a scheme under [sections 50][64] and [51][65] and are in a default investment product of a scheme.
+    
     (2) However, regulations made under subsection (1)(c)(iii) may not require a provider to report to any person or produce any papers, documents, or records, after the provider's scheme no longer has any members who became members of the scheme under [section 52][66].
+    
+    Section 230(1)(ba): inserted, on 14 September 2013, by [section 101(3)][727] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    
+    Section 230(1)(c)(iii): amended, on 14 September 2013, by [section 101(6)][727] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    
+    Section 230(1A): inserted, on 14 September 2013, by [section 101(7)][727] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 230A Regulations relating to compulsory employer contributions
     
@@ -6641,7 +6659,7 @@ General provisions
     
     (2) The Minister of Finance may make a recommendation under subsection (1) only if the Minister is satisfied that an employer may not prevent compulsory employer contributions increasing their employer contributions in relation to the class of employees because terms relating to their employer contributions are imposed independently of the employer and the class of employees.
     
-    Section 230A: inserted, on 19 December 2007, by [section 100][725] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 230A: inserted, on 19 December 2007, by [section 100][728] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
 ##### 231 Amendments to other Acts
     
@@ -6665,25 +6683,25 @@ General provisions
     
     *   (b) an investment statement under the [Securities Act 1978][382] that is dated before 1 July 2007\.
     
-    (2) A document to which this section applies is as valid and effectual as it would have been if the [Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007][726] had not been enacted and as if the relevant KiwiSaver scheme or complying superannuation fund had not changed as a result.
+    (2) A document to which this section applies is as valid and effectual as it would have been if the [Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007][729] had not been enacted and as if the relevant KiwiSaver scheme or complying superannuation fund had not changed as a result.
     
-    Section 233: added, on 1 July 2007, by [section 68][727] of the Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007 (2007 No 19).
+    Section 233: added, on 1 July 2007, by [section 68][730] of the Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007 (2007 No 19).
 
 ##### 234 Protection from non-compliance: Taxation (KiwiSaver) Act 2007
     
-*   If, as a result of amendments provided by the [Taxation (KiwiSaver) Act 2007][728], there is non-compliance with an Act before 1 February 2008, the non-compliance is ignored unless it continues on or after 1 February 2008\.
+*   If, as a result of amendments provided by the [Taxation (KiwiSaver) Act 2007][731], there is non-compliance with an Act before 1 February 2008, the non-compliance is ignored unless it continues on or after 1 February 2008\.
     
-    Section 234: added, on 19 December 2007, by [section 101][729] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 234: added, on 19 December 2007, by [section 101][732] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
 ##### 235 Protection from non-compliance: Taxation (Urgent Measures and Annual Rates) Act 2008
     
 *   (1) If, as a result of amendments provided by the [Taxation (Urgent Measures and Annual Rates) Act 2008][553], there is non-compliance with an Act related to securities before 14 February 2009, the non-compliance is ignored unless it continues on or after 14 February 2009\.
     
-    (2) Every provider of a KiwiSaver scheme or a complying superannuation fund, and every person acting on behalf of a provider is exempted in connection with the KiwiSaver scheme or complying superannuation fund from complying with [regulation 7A(4)][730] of the Securities Regulations 1983 in respect of information that must be disclosed in an investment statement because of changes to the scheme, fund, or the securities arising from any provision of the [Taxation (Urgent Measures and Annual Rates) Act 2008][553].
+    (2) Every provider of a KiwiSaver scheme or a complying superannuation fund, and every person acting on behalf of a provider is exempted in connection with the KiwiSaver scheme or complying superannuation fund from complying with [regulation 7A(4)][733] of the Securities Regulations 1983 in respect of information that must be disclosed in an investment statement because of changes to the scheme, fund, or the securities arising from any provision of the [Taxation (Urgent Measures and Annual Rates) Act 2008][553].
     
     (3) The exemption in subsection (2) applies only in relation to an investment statement that has been first prepared and dated before 1 January 2009\.
     
-    (4) The exemption in subsection (2) applies if all information, statements, and other matters specified under italicised questions set out in [Schedule 3D][731] of the Securities Regulations 1983 that are required to be contained in an investment statement in respect of a security are---
+    (4) The exemption in subsection (2) applies if all information, statements, and other matters specified under italicised questions set out in [Schedule 3D][734] of the Securities Regulations 1983 that are required to be contained in an investment statement in respect of a security are---
         
     *   (a) set out in a consistent style or format; and
     
@@ -6691,37 +6709,37 @@ General provisions
     
     (5) Subsections (2) to (4) cease to have effect on and after 30 June 2009\.
     
-    Section 235: added, on 15 December 2008, by [section 49][732] of the Taxation (Urgent Measures and Annual Rates) Act 2008 (2008 No 105).
+    Section 235: added, on 15 December 2008, by [section 49][735] of the Taxation (Urgent Measures and Annual Rates) Act 2008 (2008 No 105).
 
 ##### 236 Protection from non-compliance: Taxation (Budget Tax Measures) Act 2009
     
-*   If, as a result of amendments in [Part 2][733] of the Taxation (Budget Tax Measures) Act 2009, there is non-compliance with an enactment related to securities, the non-compliance is ignored, if it starts before 31 July 2009 and does not continue on or after 31 July 2009, or if it relates to----
+*   If, as a result of amendments in [Part 2][736] of the Taxation (Budget Tax Measures) Act 2009, there is non-compliance with an enactment related to securities, the non-compliance is ignored, if it starts before 31 July 2009 and does not continue on or after 31 July 2009, or if it relates to----
         
     *   (a) a prospectus that is registered under the [Securities Act 1978][382] before 1 June 2009:
     
     *   (b) an investment statement under the [Securities Act 1978][382] that is dated before 1 June 2009\.
     
-    Section 236: added, on 1 June 2009, by [section 6][734] of the Taxation (Budget Tax Measures) Act 2009 (2009 No 14).
+    Section 236: added, on 1 June 2009, by [section 6][737] of the Taxation (Budget Tax Measures) Act 2009 (2009 No 14).
 
 ##### 237 Protection from non-compliance: Taxation (Annual Rates and Budget Measures) Act 2011
     
-*   If, as a result of amendments in [sections 7 to 14][735] of the Taxation (Annual Rates and Budget Measures) Act 2011, there is non-compliance with an enactment related to securities, the non-compliance is ignored, if it starts before 31 July 2011 and does not continue on or after 31 July 2011, or if it relates to----
+*   If, as a result of amendments in [sections 7 to 14][738] of the Taxation (Annual Rates and Budget Measures) Act 2011, there is non-compliance with an enactment related to securities, the non-compliance is ignored, if it starts before 31 July 2011 and does not continue on or after 31 July 2011, or if it relates to----
         
     *   (a) a prospectus that is registered under the [Securities Act 1978][382] on or before 27 May 2011:
     
     *   (b) an investment statement under the [Securities Act 1978][382] that is dated on or before 27 May 2011\.
     
-    Section 237: added, on 24 May 2011, by [section 15][736] of the Taxation (Annual Rates and Budget Measures) Act 2011 (2011 No 23).
+    Section 237: added, on 24 May 2011, by [section 15][739] of the Taxation (Annual Rates and Budget Measures) Act 2011 (2011 No 23).
 
 ##### 238 Protection from non-compliance: Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012
     
-*   If an effect of the enactment of [sections 166][737], [231][486], and [234][557] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (the **Act**) for an issuer of a security is their non-compliance with an enactment related to securities, that non-compliance is ignored, if it starts before the date (the **end date**) that is 2 months after the day (the **assent day**) on which the Act receives the Royal assent and does not continue on or after the end date, or if it relates to---
+*   If an effect of the enactment of [sections 166][740], [231][486], and [234][557] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (the **Act**) for an issuer of a security is their non-compliance with an enactment related to securities, that non-compliance is ignored, if it starts before the date (the **end date**) that is 2 months after the day (the **assent day**) on which the Act receives the Royal assent and does not continue on or after the end date, or if it relates to---
         
     *   (a) a prospectus that is registered under the [Securities Act 1978][382] on or before assent day:
     
     *   (b) an investment statement under the [Securities Act 1978][382] that is dated on or before assent day.
     
-    Section 238: inserted, on 2 November 2012, by [section 237][738] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 238: inserted, on 2 November 2012, by [section 237][741] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
 
 ---
 
@@ -6736,11 +6754,11 @@ KiwiSaver scheme rules
     
     (2) The KiwiSaver scheme rules in [clauses 1E to 17][587] apply to all KiwiSaver schemes.
     
-    Schedule 1 clause 1: substituted, on 1 May 2011, by [section 54(1)][739] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Schedule 1 clause 1: substituted, on 1 May 2011, by [section 54(1)][742] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 #### Rules applying to KiwiSaver schemes other than restricted schemes
     
-*   Heading: inserted, on 1 May 2011, by [section 54(1)][739] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+*   Heading: inserted, on 1 May 2011, by [section 54(1)][742] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 1A Trustee's duties
     
@@ -6750,7 +6768,7 @@ KiwiSaver scheme rules
     
     *   (b) exercise the care, diligence, and skill that a prudent person engaged in the profession or business of acting as a trustee would exercise in acting as the trustee of a KiwiSaver scheme other than a restricted scheme.
     
-    Schedule 1 clause 1A: inserted, on 1 May 2011, by [section 54(1)][739] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Schedule 1 clause 1A: inserted, on 1 May 2011, by [section 54(1)][742] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 1B Manager's duties
     
@@ -6762,7 +6780,7 @@ KiwiSaver scheme rules
     
     (2) The manager must use the manager's best endeavours and skill to ensure that the affairs of the scheme are conducted in a proper and efficient manner.
     
-    Schedule 1 clause 1B: inserted, on 1 May 2011, by [section 54(1)][739] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Schedule 1 clause 1B: inserted, on 1 May 2011, by [section 54(1)][742] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 1C Scheme investments and property
     
@@ -6776,7 +6794,7 @@ KiwiSaver scheme rules
     
     (3) If the trustee refuses to act on a direction of the manager, the trustee must notify the manager and the FMA in writing of the trustee's reasons for refusing to do so.
     
-    Schedule 1 clause 1C: inserted, on 1 May 2011, by [section 54(1)][739] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Schedule 1 clause 1C: inserted, on 1 May 2011, by [section 54(1)][742] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 1D Manager to provide information to trustee
     
@@ -6794,23 +6812,23 @@ KiwiSaver scheme rules
         
         
     
-    Schedule 1 clause 1D: inserted, on 1 May 2011, by [section 54(1)][739] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Schedule 1 clause 1D: inserted, on 1 May 2011, by [section 54(1)][742] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 #### Rules applying to all KiwiSaver schemes
     
-*   Heading: inserted, on 1 May 2011, by [section 54(1)][739] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+*   Heading: inserted, on 1 May 2011, by [section 54(1)][742] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 1E Investment of scheme money
     
 *   (1) All money belonging to a KiwiSaver scheme and available for investment must be invested in accordance with the provisions of the [Trustee Act 1956][588] as to the investment of trust funds.
     
-    (2) The trustees (in the case of a restricted scheme), the manager (in the case of any other KiwiSaver scheme), and the investment managers (if any) of a scheme must, in exercising a power of investment, exercise the care, diligence, and skill required of a trustee by [section 13B][740] or [13C][741] of the Trustee Act 1956\.
+    (2) The trustees (in the case of a restricted scheme), the manager (in the case of any other KiwiSaver scheme), and the investment managers (if any) of a scheme must, in exercising a power of investment, exercise the care, diligence, and skill required of a trustee by [section 13B][743] or [13C][744] of the Trustee Act 1956\.
     
-    (3) Subclause (2) applies despite anything to the contrary in [section 13D(1)][742] of the Trustee Act 1956\.
+    (3) Subclause (2) applies despite anything to the contrary in [section 13D(1)][745] of the Trustee Act 1956\.
     
-    Compare: 1989 No 10 [s 8][743]
+    Compare: 1989 No 10 [s 8][746]
     
-    Schedule 1 clause 1E: inserted, on 1 May 2011, by [section 54(1)][739] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Schedule 1 clause 1E: inserted, on 1 May 2011, by [section 54(1)][742] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 2 Fees must not be unreasonable
     
@@ -6836,15 +6854,15 @@ KiwiSaver scheme rules
     
     (5) \[Repealed\]
     
-    Schedule 1 clause 2(1)(ab): inserted, on 1 May 2011, by [section 54(2)][739] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Schedule 1 clause 2(1)(ab): inserted, on 1 May 2011, by [section 54(2)][742] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Schedule 1 clause 2(2): repealed, on 19 December 2007, by [section 102(1)][744] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Schedule 1 clause 2(2): repealed, on 19 December 2007, by [section 102(1)][747] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Schedule 1 clause 2(3): repealed, on 19 December 2007, by [section 102(1)][744] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Schedule 1 clause 2(3): repealed, on 19 December 2007, by [section 102(1)][747] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Schedule 1 clause 2(4): repealed, on 19 December 2007, by [section 102(1)][744] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Schedule 1 clause 2(4): repealed, on 19 December 2007, by [section 102(1)][747] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Schedule 1 clause 2(5): repealed, on 19 December 2007, by [section 102(1)][744] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Schedule 1 clause 2(5): repealed, on 19 December 2007, by [section 102(1)][747] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
 ##### 3 Minimum contribution for employee member
     
@@ -6858,7 +6876,7 @@ KiwiSaver scheme rules
     
     *   (b) to enable the payment of fees in respect of the KiwiSaver scheme.
     
-    Schedule 1 clause 3(2): amended (with effect on 1 July 2012), on 2 November 2012, by [section 238(1)][745] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Schedule 1 clause 3(2): amended (with effect on 1 July 2012), on 2 November 2012, by [section 238(1)][748] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
 
 ##### 4 Lock-in of funds to KiwiSaver end payment date
     
@@ -6870,7 +6888,7 @@ KiwiSaver scheme rules
     
     *   (b) the 5 year qualification date; or
     
-    *   (c) the date on which the member has been a member of a complying superannuation fund (or of a complying superannuation fund and a KiwiSaver scheme) for 5 years.
+    *   (c) \[Repealed\]
     
     (3) A member is entitled to withdraw an amount not more than the member's accumulation on the later date referred to in subclause (2).
     
@@ -6882,25 +6900,33 @@ KiwiSaver scheme rules
     
     *   (b) the provider gives notice to the member that the person's membership is terminated.
     
-    (6) For the purposes of these rules, _5 year qualification date_ means the earlier of----
+    (6) For the purposes of these rules, _5 year qualification date_ means the earliest of----
         
     *   (a) the date that is 5 years after the day on which the member first became a member of a KiwiSaver scheme; or
     
-    *   (b) the date that is 5 years after the day, under [section 85][118], on which the Commissioner first received a contribution for a KiwiSaver scheme in relation to the member.
+    *   (b) the date that is 5 years after the day, under [section 85][118], on which the Commissioner first received a contribution for a KiwiSaver scheme in relation to the member; or
     
-    Schedule 1 clause 4(2)(b): replaced (with effect on 1 July 2012), on 2 November 2012, by [section 238(2)][745] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    *   (c) the date that is 5 years after the day on which the member first became a member of a complying superannuation fund, if the member has become a member of the KiwiSaver scheme as a result of a transfer from a complying superannuation fund.
     
-    Schedule 1 clause 4(2)(c): added, on 1 July 2007, by [section 227(b)][746] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Schedule 1 clause 4(2)(b): replaced (with effect on 1 July 2012), on 2 November 2012, by [section 238(2)][748] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Schedule 1 clause 4(3): amended, on 19 December 2007, by [section 102(2)][744] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Schedule 1 clause 4(2)(c): repealed, on 14 September 2013, by [section 105(1)][749] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Schedule 1 clause 6: inserted (with effect on 1 July 2012), on 2 November 2012, by [section 238(3)][745] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Schedule 1 clause 4(3): amended, on 19 December 2007, by [section 102(2)][747] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    
+    Schedule 1 clause 4(6): inserted (with effect on 1 July 2012), on 2 November 2012, by [section 238(3)][748] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    
+    Schedule 1 clause 4(6): amended, on 14 September 2013, by [section 105(2)][749] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    
+    Schedule 1 clause 4(6)(b): amended, on 14 September 2013, by [section 105(3)][749] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    
+    Schedule 1 clause 4(6)(c): inserted, on 14 September 2013, by [section 105(3)][749] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 4B Amounts from Australian complying superannuation schemes
     
 *   A member may withdraw the amount that was transferred from an Australian complying superannuation scheme (disregarding any positive or negative returns for the purpose of calculating that amount), if the member is 60 years or more and the member's retirement (as that term is defined in regulation 6.01(7) of the Superannuation Industry (Supervision) Regulations 1994 (Aust), with necessary modification for KiwiSaver scheme trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme)) is taken to have occurred.
     
-    Schedule 1 clause 4B: inserted, on 1 July 2013, by [section 189(1)][747] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Schedule 1 clause 4B: inserted, on 1 July 2013, by [section 189(1)][750] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
 
 ##### 5 Trustees and managers must pay permitted withdrawal as lump sum
     
@@ -6908,25 +6934,25 @@ KiwiSaver scheme rules
     
     (2) Nothing in subclause (1) prevents a member purchasing annuities or a pension from all or part of the member's accumulation or member's interest that is withdrawn by that member.
     
-    Schedule 1 clause 5 heading: amended, on 1 May 2011, by [section 54(3)][739] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Schedule 1 clause 5 heading: amended, on 1 May 2011, by [section 54(3)][742] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Schedule 1 clause 5(1): amended, on 1 May 2011, by [section 54(4)][739] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Schedule 1 clause 5(1): amended, on 1 May 2011, by [section 54(4)][742] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 6 Trustees and managers may reasonably require evidence to establish right to make permitted withdrawal
     
 *   A trustee (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme) may reasonably require a member who applies to make a permitted withdrawal to provide evidence of the facts necessary to establish the member's right to make the withdrawal.
     
-    Schedule 1 clause 6 heading: amended, on 1 May 2011, by [section 54(5)][739] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Schedule 1 clause 6 heading: amended, on 1 May 2011, by [section 54(5)][742] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Schedule 1 clause 6: amended, on 1 May 2011, by [section 54(6)][739] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Schedule 1 clause 6: amended, on 1 May 2011, by [section 54(6)][742] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 7 Release of funds required under other enactments
     
 *   (1) The trustees of a restricted KiwiSaver scheme and the manager of any other KiwiSaver scheme must comply with the provisions of any enactment that requires them to release funds from the KiwiSaver scheme in accordance with that enactment.
     
-    (2) A requirement to release funds from the KiwiSaver scheme under any enactment includes a requirement by order of any court under any enactment (including an order made under [section 31][673] of the Property (Relationships) Act 1976).
+    (2) A requirement to release funds from the KiwiSaver scheme under any enactment includes a requirement by order of any court under any enactment (including an order made under [section 31][674] of the Property (Relationships) Act 1976).
     
-    Schedule 1 clause 7(1): amended, on 1 May 2011, by [section 54(7)][739] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Schedule 1 clause 7(1): amended, on 1 May 2011, by [section 54(7)][742] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 8 Withdrawal for purpose of purchase of first home
     
@@ -6982,9 +7008,9 @@ KiwiSaver scheme rules
     
     (7) It is a condition of subclause (3) that---
         
-    *   (a) any withdrawal made under that provision must be paid to the member's solicitor; and
+    *   (a) any withdrawal made under that provision must be paid to a practitioner (within the meaning of [section 6][751] of the Lawyers and Conveyancers Act 2006) acting on behalf of the member; and
     
-    *   (b) the trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme) may require from the member's solicitor, before payment of the withdrawal,---
+    *   (b) the trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme) may require from that practitioner, before payment of the withdrawal,---
             
         *   (i) a copy of an agreement for the sale and purchase of the estate in land showing the member as purchaser; and
         
@@ -6996,23 +7022,27 @@ KiwiSaver scheme rules
     
     (8) This clause is subject to the terms of any participation agreement that restricts or prevents the withdrawal of employer vested contributions that are not compulsory employer contributions in relation to the member.
     
-    Schedule 1 clause 8(1): substituted, on 6 October 2009, by [section 733(1)][748] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Schedule 1 clause 8(1): substituted, on 6 October 2009, by [section 733(1)][752] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Schedule 1 clause 8(4): replaced, on 1 July 2013, by [section 189(2)][747] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Schedule 1 clause 8(4): replaced, on 1 July 2013, by [section 189(2)][750] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Schedule 1 clause 8(5): amended (with effect on 1 July 2010), on 21 December 2010, by [section 180(1)][749] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Schedule 1 clause 8(5): amended (with effect on 1 July 2010), on 21 December 2010, by [section 180(1)][753] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Schedule 1 clause 8(5)(ab): inserted (with effect on 1 July 2010), on 21 December 2010, by [section 180(2)][749] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Schedule 1 clause 8(5)(ab): inserted (with effect on 1 July 2010), on 21 December 2010, by [section 180(2)][753] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Schedule 1 clause 8(6): amended (with effect on 1 July 2010), on 21 December 2010, by [section 180(3)][749] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Schedule 1 clause 8(6): amended (with effect on 1 July 2010), on 21 December 2010, by [section 180(3)][753] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Schedule 1 clause 8(7)(b): amended, on 1 May 2011, by [section 54(8)][739] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Schedule 1 clause 8(7)(a): amended, on 14 September 2013, by [section 107(1)][754] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Schedule 1 clause 8(7)(b)(ii): amended, on 1 May 2011, by [section 54(9)][739] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Schedule 1 clause 8(7)(b): amended, on 14 September 2013, by [section 107(2)][754] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Schedule 1 clause 8(7)(b)(iii): amended, on 1 May 2011, by [section 54(10)][739] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Schedule 1 clause 8(7)(b): amended, on 1 May 2011, by [section 54(8)][742] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Schedule 1 clause 8(8): amended, on 1 April 2008, by [section 102(3)][744] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Schedule 1 clause 8(7)(b)(ii): amended, on 1 May 2011, by [section 54(9)][742] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    
+    Schedule 1 clause 8(7)(b)(iii): amended, on 1 May 2011, by [section 54(10)][742] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    
+    Schedule 1 clause 8(8): amended, on 1 April 2008, by [section 102(3)][747] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
 ##### 9 Withdrawal on death
     
@@ -7020,15 +7050,15 @@ KiwiSaver scheme rules
         
     *   (a) on application by the member's personal representative, pay to that person an amount that is equal to the value of the member's accumulation at the date on which the application is accepted as part of the member's estate; or
     
-    *   (b) if the requirements of [section 65][750] of the Administration Act 1969 are met, pay to the relevant person any sum authorised by that section, subject to that Act.
+    *   (b) if the requirements of [section 65][755] of the Administration Act 1969 are met, pay to the relevant person any sum authorised by that section, subject to that Act.
     
-    Schedule 1 clause 9: substituted (with effect on 1 July 2007), on 6 October 2009, by [section 733(2)][748] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Schedule 1 clause 9: substituted (with effect on 1 July 2007), on 6 October 2009, by [section 733(2)][752] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Schedule 1 clause 9: amended, on 1 May 2011, by [section 54(11)][739] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Schedule 1 clause 9: amended, on 1 May 2011, by [section 54(11)][742] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 10 Withdrawal in cases of significant financial hardship
     
-*   (1) If the trustees are reasonably satisfied that a member is suffering or is likely to suffer from significant financial hardship, the member may, on application to the trustees in accordance with [clause 13][751], make a significant financial hardship withdrawal in accordance with this clause.
+*   (1) If the trustees are reasonably satisfied that a member is suffering or is likely to suffer from significant financial hardship, the member may, on application to the trustees in accordance with [clause 13][756], make a significant financial hardship withdrawal in accordance with this clause.
     
     (2) The amount of that significant financial hardship withdrawal may, subject to the trustees' approval under subclause (3), be up to the value of the member's accumulation less the amount of the Crown contribution (disregarding any positive or negative returns for the purpose of calculating the amount of the Crown contribution) on the date of withdrawal.
     
@@ -7062,7 +7092,7 @@ KiwiSaver scheme rules
 
 ##### 12 Withdrawal in cases of serious illness
     
-*   (1) In addition to a withdrawal on the grounds of serious illness under [clause 11(1)(g)][567], if the trustees are reasonably satisfied that a member is suffering from serious illness, the member may, on application to the trustees in accordance with [clause 13][751], make a serious illness withdrawal in accordance with this clause.
+*   (1) In addition to a withdrawal on the grounds of serious illness under [clause 11(1)(g)][567], if the trustees are reasonably satisfied that a member is suffering from serious illness, the member may, on application to the trustees in accordance with [clause 13][756], make a serious illness withdrawal in accordance with this clause.
     
     (2) The amount of that serious illness withdrawal may be up to the value of the member's accumulation.
     
@@ -7072,15 +7102,15 @@ KiwiSaver scheme rules
     
     *   (b) that poses a serious and imminent risk of death.
     
-    Schedule 1 clause 12(2): amended, on 19 December 2007, by [section 102(4)][744] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Schedule 1 clause 12(2): amended, on 19 December 2007, by [section 102(4)][747] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Schedule 1 clause 12(3)(a): amended, on 19 December 2007, by [section 102(5)][744] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Schedule 1 clause 12(3)(a): amended, on 19 December 2007, by [section 102(5)][747] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
 ##### 13 Application for withdrawal for significant financial hardship or serious illness
     
-*   (1) The application for a withdrawal under [clause 10][752] or [12][568] must be in the form required by the trustees.
+*   (1) The application for a withdrawal under [clause 10][757] or [12][568] must be in the form required by the trustees.
     
-    (1B) The application for a withdrawal under [clause 10][752] must include a completed statutory declaration in respect of the member's assets and liabilities.
+    (1B) The application for a withdrawal under [clause 10][757] must include a completed statutory declaration in respect of the member's assets and liabilities.
     
     (2) The trustees---
         
@@ -7088,19 +7118,19 @@ KiwiSaver scheme rules
     
     *   (b) may require that any other documents, things, or information produced in support of the application be verified by oath, statutory declaration, or otherwise.
     
-    Schedule 1 clause 13(1): amended, on 19 December 2007, by [section 102(6)][744] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Schedule 1 clause 13(1): amended, on 19 December 2007, by [section 102(6)][747] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Schedule 1 clause 13(1B): inserted, on 19 December 2007, by [section 102(7)][744] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Schedule 1 clause 13(1B): inserted, on 19 December 2007, by [section 102(7)][747] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
 ##### 14 Withdrawal or transfer to foreign scheme in cases of permanent emigration
     
-*   (1) Subject to [clause 14B][753], a member may, on application to the trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme), and no earlier than 1 year after the member's permanent emigration from New Zealand, withdraw an amount equal to the member's accumulation, at the time of the withdrawal, less the total of the following 2 amounts:
+*   (1) Subject to [clause 14B][758], a member may, on application to the trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme), and no earlier than 1 year after the member's permanent emigration from New Zealand, withdraw an amount equal to the member's accumulation, at the time of the withdrawal, less the total of the following 2 amounts:
         
     *   (a) the amount of the Crown contribution arising from a tax credit under [section MK 1][367] of the Income Tax Act 2007 (disregarding any positive or negative returns for the purpose of calculating the amount of the Crown contribution):
     
     *   (b) the amount that was transferred from an Australian complying superannuation scheme (disregarding any positive or negative returns for the purpose of calculating that amount).
     
-    (2) Subject to [clause 14B][753], a member may, on application to the trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme), at any time after the member's permanent emigration from New Zealand, have the trustees or the manager (as the case may be) transfer to a foreign superannuation scheme authorised for that purpose under regulations made under [section 228][348] the member's accumulation, less the total of the following 2 amounts:
+    (2) Subject to [clause 14B][758], a member may, on application to the trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme), at any time after the member's permanent emigration from New Zealand, have the trustees or the manager (as the case may be) transfer to a foreign superannuation scheme authorised for that purpose under regulations made under [section 228][348] the member's accumulation, less the total of the following 2 amounts:
         
     *   (a) the amount of the Crown contribution arising from a tax credit under [section MK 1][367] of the Income Tax Act 2007 (disregarding any positive or negative returns for the purpose of calculating the amount of the Crown contribution):
     
@@ -7120,15 +7150,15 @@ KiwiSaver scheme rules
     
     (4) The trustees or manager (as the case may be) may require that any other documents, things, or information produced in an application under subclause (1) or (2) be verified by oath, statutory declaration, or otherwise.
     
-    Schedule 1 clause 14(1): replaced, on 1 July 2013, by [section 189(4)][747] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Schedule 1 clause 14(1): replaced, on 1 July 2013, by [section 189(4)][750] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Schedule 1 clause 14(2): replaced, on 1 July 2013, by [section 189(4)][747] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Schedule 1 clause 14(2): replaced, on 1 July 2013, by [section 189(4)][750] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Schedule 1 clause 14(3): amended, on 1 May 2011, by [section 54(12)(b)][739] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Schedule 1 clause 14(3): amended, on 1 May 2011, by [section 54(12)(b)][742] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Schedule 1 clause 14(3)(b): amended, on 1 May 2011, by [section 54(12)(b)][739] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Schedule 1 clause 14(3)(b): amended, on 1 May 2011, by [section 54(12)(b)][742] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Schedule 1 clause 14(4): amended, on 1 May 2011, by [section 54(12)(b)][739] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Schedule 1 clause 14(4): amended, on 1 May 2011, by [section 54(12)(b)][742] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ##### 14B Exceptions to clause 14 for Australian permanent emigration
     
@@ -7152,7 +7182,7 @@ KiwiSaver scheme rules
     
     (5) The trustees or the manager (as the case may be) may require that any other documents, things, or information produced in an application under subclause (2) be verified by oath, statutory declaration, or otherwise.
     
-    Schedule 1 clause 14B: inserted, on 1 July 2013, by [section 189(5)][747] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Schedule 1 clause 14B: inserted, on 1 July 2013, by [section 189(5)][750] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
 
 ##### 15 Contributions holiday
     
@@ -7170,23 +7200,23 @@ KiwiSaver scheme rules
     
 *   Despite [rules 4 to 14][423], the amount of the Crown contribution arising from a tax credit under [section MK 1][367] of the Income Tax Act 2007 (disregarding any positive or negative returns for the purposes of calculating that amount of Crown contribution) may not be withdrawn---
         
-    *   (a) before the member, the personal representative, or the relevant person under [section 65][750] of the Administration Act 1969 (as the case may be) gives the provider a statutory declaration stating, to the best of their knowledge, the periods for which the member has their principal place of residence in New Zealand; and
+    *   (a) before the member, the personal representative, or the relevant person under [section 65][755] of the Administration Act 1969 (as the case may be) gives the provider a statutory declaration stating, to the best of their knowledge, the periods for which the member has their principal place of residence in New Zealand; and
     
-    *   (b) to the extent to which the provider has notice that their claim for a tax credit is wrong, because they have got the time for which the member meets the requirements of [section MK 2][754] of the Income Tax Act 2007 wrong.
+    *   (b) to the extent to which the provider has notice that their claim for a tax credit is wrong, because they have got the time for which the member meets the requirements of [section MK 2][759] of the Income Tax Act 2007 wrong.
     
-    Schedule 1 clause 17: added, on 1 July 2007, by [section 69(3)][755] of the Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007 (2007 No 19).
+    Schedule 1 clause 17: added, on 1 July 2007, by [section 69(3)][760] of the Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007 (2007 No 19).
     
-    Schedule 1 clause 17: amended (with effect on 1 April 2008), on 6 October 2009, by [section 733(5)(a)][748] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Schedule 1 clause 17: amended (with effect on 1 April 2008), on 6 October 2009, by [section 733(5)(a)][752] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Schedule 1 clause 17(a): substituted (with effect on 1 July 2007), on 6 October 2009, by [section 733(4)][748] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Schedule 1 clause 17(a): substituted (with effect on 1 July 2007), on 6 October 2009, by [section 733(4)][752] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Schedule 1 clause 17(a): amended, on 1 May 2011, by [section 54(13)][739] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Schedule 1 clause 17(a): amended, on 1 May 2011, by [section 54(13)][742] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Schedule 1 clause 17(a): amended (with effect on 1 April 2008), on 6 October 2009, by [section 733(5)(b)][748] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Schedule 1 clause 17(a): amended (with effect on 1 April 2008), on 6 October 2009, by [section 733(5)(b)][752] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Schedule 1 clause 17(b): amended, on 1 May 2011, by [section 54(14)][739] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Schedule 1 clause 17(b): amended, on 1 May 2011, by [section 54(14)][742] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Schedule 1 clause 17(b): amended (with effect on 1 April 2008), on 6 October 2009, by [section 733(5)(c)][748] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Schedule 1 clause 17(b): amended (with effect on 1 April 2008), on 6 October 2009, by [section 733(5)(c)][752] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ---
 
@@ -7236,26 +7266,26 @@ Matters to be specified in application for registration of KiwiSaver scheme
     
     
 
-*   Schedule 2 clause 3(a): substituted, on 1 May 2011, by [section 55(1)][756] of the KiwiSaver Amendment Act 2011 (2011 No 8).
-*   Schedule 2 clause 3(b): substituted, on 1 May 2011, by [section 55(1)][756] of the KiwiSaver Amendment Act 2011 (2011 No 8).
-*   Schedule 2 clause 4: substituted, on 1 May 2011, by [section 55(2)][756] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+*   Schedule 2 clause 3(a): substituted, on 1 May 2011, by [section 55(1)][761] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+*   Schedule 2 clause 3(b): substituted, on 1 May 2011, by [section 55(1)][761] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+*   Schedule 2 clause 4: substituted, on 1 May 2011, by [section 55(2)][761] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 *   Schedule 2 clause 5: amended, on 1 May 2011, by [section 85(1)][439] of the Financial Markets Authority Act 2011 (2011 No 5).
-*   Schedule 2 clause 7: amended, on 1 May 2011, by [section 55(3)][756] of the KiwiSaver Amendment Act 2011 (2011 No 8).
-*   Schedule 2 clause 11: substituted, on 1 May 2011, by [section 55(4)][756] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+*   Schedule 2 clause 7: amended, on 1 May 2011, by [section 55(3)][761] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+*   Schedule 2 clause 11: substituted, on 1 May 2011, by [section 55(4)][761] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ## Part 2  
 Matters to be specified in proposal to convert registered superannuation scheme to KiwiSaver scheme
 
 \[Repealed\]
     
-*   Schedule 2 Part 2: repealed, on 1 May 2011, by [section 55(5)][756] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+*   Schedule 2 Part 2: repealed, on 1 May 2011, by [section 55(5)][761] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ## Part 3  
 Matters to be specified in proposal to establish KiwiSaver scheme under umbrella scheme
 
 \[Repealed\]
     
-*   Schedule 2 Part 3: repealed, on 1 May 2011, by [section 55(5)][756] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+*   Schedule 2 Part 3: repealed, on 1 May 2011, by [section 55(5)][761] of the KiwiSaver Amendment Act 2011 (2011 No 8).
 
 ---
 
@@ -7274,23 +7304,23 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Companies Act 1993 (1993 No 105)
 
-_Amendment(s) incorporated in the [Act(s)][757]_.
+_Amendment(s) incorporated in the [Act(s)][762]_.
 
 ##### Financial Transactions Reporting Act 1996 (1996 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][758]_.
+_Amendment(s) incorporated in the [Act(s)][763]_.
 
 ##### Income Tax Act 2004 (2004 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][759]_.
+_Amendment(s) incorporated in the [Act(s)][764]_.
 
 ##### Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49)
 
-_Amendment(s) incorporated in the [Act(s)][760]_.
+_Amendment(s) incorporated in the [Act(s)][765]_.
 
 ##### Insolvency Act 1967 (1967 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][761]_.
+_Amendment(s) incorporated in the [Act(s)][766]_.
 
 ##### Social Security Act 1964 (1964 No 136)
 
@@ -7313,7 +7343,7 @@ Transitional rates for employers and employees
 
 \[Repealed\]
     
-*   Schedule 4: repealed, on 1 April 2009, by [section 50][762] of the Taxation (Urgent Measures and Annual Rates) Act 2008 (2008 No 105).
+*   Schedule 4: repealed, on 1 April 2009, by [section 50][767] of the Taxation (Urgent Measures and Annual Rates) Act 2008 (2008 No 105).
 
 ---
 
@@ -7325,7 +7355,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [KiwiSaver Amendment Act 2011][763].
+*   This Act is the [KiwiSaver Amendment Act 2011][768].
 
 ##### 2 Commencement
     
@@ -7555,33 +7585,35 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][764] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][765] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][769] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][770] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][766] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][767] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][771] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][772] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52): [section 147][400]
+*   Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70): [sections 91][600], [101(3), (6), (7)][727], [105][749], [107][754]
+    
+    Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52): [section 147][400]
     
     Legislation Act 2012 (2012 No 119): [section 77(3)][490]
     
     Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88): [sections 228--238][399]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][674]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][675]
     
     Student Loan Scheme Act 2011 (2011 No 62): [section 223][544]
     
     Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63): [sections 210][401], [211][522]
     
-    Taxation (Annual Rates and Budget Measures) Act 2011 (2011 No 23): [section 15][736]
+    Taxation (Annual Rates and Budget Measures) Act 2011 (2011 No 23): [section 15][739]
     
-    Auditor Regulation Act 2011 (2011 No 21): [section 82][662]
+    Auditor Regulation Act 2011 (2011 No 21): [section 82][663]
     
     Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10): [section 62][576]
     
-    [KiwiSaver Amendment Act 2011][763] (2011 No 8)
+    [KiwiSaver Amendment Act 2011][768] (2011 No 8)
     
     Financial Markets Authority Act 2011 (2011 No 5): [sections 82][398], [85(1)][439]
     
@@ -7593,29 +7625,29 @@ Commencementsee section 2
     
     Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [Part 4][396]
     
-    Taxation (Budget Tax Measures) Act 2009 (2009 No 14): [sections 5--6][722]
+    Taxation (Budget Tax Measures) Act 2009 (2009 No 14): [sections 5--6][723]
     
     Employment Relations Amendment Act 2008 (2008 No 106): [section 10][556]
     
     Taxation (Urgent Measures and Annual Rates) Act 2008 (2008 No 105): [sections 43--46, 48, 50][485]
     
-    Financial Advisers Act 2008 (2008 No 91): [section 162][685]
+    Financial Advisers Act 2008 (2008 No 91): [section 162][686]
     
     Policing Act 2008 (2008 No 72): [section 116(a)(vii)][561]
     
     Employment Relations (Breaks, Infant Feeding, and Other Matters) Amendment Act 2008 (2008 No 58): [section 10][555]
     
-    Taxation (Personal Tax Cuts, Annual Rates, and Remedial Matters) Act 2008 (2008 No 36): [section 58(2)][768]
+    Taxation (Personal Tax Cuts, Annual Rates, and Remedial Matters) Act 2008 (2008 No 36): [section 58(2)][773]
     
     Taxation (KiwiSaver) Act 2007 (2007 No 110): [sections 27--62][397], [63(2), (3)][547], [64--103][549]
     
     Income Tax Act 2007 (2007 No 97): [sections ZA 1(1)][394], [ZA 2(1)][387]
     
-    Taxation (KiwiSaver and Company Tax Rate) Amendment Act 2007 (2007 No 19): [sections 58--63][395], [65--68][542], [69(2), (3)][755]
+    Taxation (KiwiSaver and Company Tax Rate) Amendment Act 2007 (2007 No 19): [sections 58--63][395], [65--68][542], [69(2), (3)][760]
     
     Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81): [sections 221--227][393]
     
-    [KiwiSaver Act Commencement Order 2006][769] (SR 2006/357)
+    [KiwiSaver Act Commencement Order 2006][774] (SR 2006/357)
 
 
 
@@ -8219,173 +8251,178 @@ Commencementsee section 2
 [597]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM143753
 [598]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM143755
 [599]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM143758
-[600]: http://www.legislation.govt.nz/act/public/2006/0040/latest/whole.html#DLM143758
-[601]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM143766
-[602]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM143768
-[603]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM143774
-[604]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM143789
-[605]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM29138
-[606]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM29140
-[607]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM143794
-[608]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638197
-[609]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638199
-[610]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM143780
-[611]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638401
-[612]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638402
-[613]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638404
-[614]: http://www.legislation.govt.nz/act/public/2006/0040/latest/whole.html#DLM379489
-[615]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638405
-[616]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM408525
-[617]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM2178977
-[618]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107303
-[619]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638107
-[620]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107304
-[621]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638108
-[622]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107306
-[623]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM2178978
-[624]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638109
-[625]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107308
-[626]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638407
-[627]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638110
-[628]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638408
-[629]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107310
-[630]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM143756
-[631]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638409
-[632]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM79769
-[633]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638413
-[634]: http://www.legislation.govt.nz/act/public/2006/0040/latest/whole.html#DLM379716
-[635]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638416
-[636]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638417
-[637]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1109527
-[638]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638419
-[639]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107312
-[640]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638420
-[641]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM144060
-[642]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM144069
-[643]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107313
-[644]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM64784
-[645]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107314
-[646]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107315
-[647]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638421
-[648]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107316
-[649]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638422
-[650]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638423
-[651]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM144012
-[652]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638425
-[653]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107317
-[654]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638112
-[655]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM144014
-[656]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638427
-[657]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638428
-[658]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3123593
-[659]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3230581
-[660]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM144022
-[661]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638429
-[662]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3231525
-[663]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638430
-[664]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM272251
-[665]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638432
-[666]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638433
-[667]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107319
-[668]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM144003
-[669]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM144008
-[670]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM144047
-[671]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM305592
-[672]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638434
-[673]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM441644
-[674]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3360714
-[675]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638435
-[676]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM144050
-[677]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM305075
-[678]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638436
-[679]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM373804
-[680]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM373883
-[681]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM373810
-[682]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM85800
-[683]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107322
-[684]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1584200
-[685]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1584831
-[686]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107324
-[687]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM297038
-[688]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM408527
-[689]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM28302
-[690]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM28351
-[691]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3723295
-[692]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3724900
-[693]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3724901
-[694]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3724904
-[695]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3724906
-[696]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638437
-[697]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107325
-[698]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107326
-[699]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM355922
-[700]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107327
-[701]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107328
-[702]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107331
-[703]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM350156
-[704]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM350162
-[705]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM154184
-[706]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM350165
-[707]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM154828
-[708]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107332
-[709]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3123594
-[710]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM199363
-[711]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM358789
-[712]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107333
-[713]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM129566
-[714]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107334
-[715]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3986039
-[716]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107335
-[717]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3353330
-[718]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1401736
-[719]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM385591
-[720]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638438
-[721]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107336
-[722]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM2095416
-[723]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM2178979
-[724]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM2546442
-[725]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107337
-[726]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM407677
-[727]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM408528
-[728]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107121
-[729]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107339
-[730]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM86341
-[731]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM88002
-[732]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1765000
-[733]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM2095414
-[734]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM2095417
-[735]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3741013
-[736]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3758002
-[737]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3985958
-[738]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3986040
-[739]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638439
-[740]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM305065
-[741]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM305067
-[742]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM305069
-[743]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM79767
-[744]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107341
-[745]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM4505239
-[746]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM401674
-[747]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM2546443
-[748]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM2178980
-[749]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3353331
-[750]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM393030
-[751]: http://www.legislation.govt.nz/act/public/2006/0040/latest/whole.html#DLM379708
-[752]: http://www.legislation.govt.nz/act/public/2006/0040/latest/whole.html#DLM379701
-[753]: http://www.legislation.govt.nz/act/public/2006/0040/latest/whole.html#DLM5345337
-[754]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1518602
-[755]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM408530
-[756]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638449
-[757]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM323545
-[758]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM374188
-[759]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM247813
-[760]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM101801
-[761]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM383234
-[762]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1765002
-[763]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638116
-[764]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM2998516
-[765]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM2998515
-[766]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM2998532
-[767]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[768]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1328113
-[769]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM418365
+[600]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM5566302
+[601]: http://www.legislation.govt.nz/act/public/2006/0040/latest/whole.html#DLM143758
+[602]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM143766
+[603]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM143768
+[604]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM143774
+[605]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM143789
+[606]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM29138
+[607]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM29140
+[608]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM143794
+[609]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638197
+[610]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638199
+[611]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM143780
+[612]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638401
+[613]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638402
+[614]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638404
+[615]: http://www.legislation.govt.nz/act/public/2006/0040/latest/whole.html#DLM379489
+[616]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638405
+[617]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM408525
+[618]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM2178977
+[619]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107303
+[620]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638107
+[621]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107304
+[622]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638108
+[623]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107306
+[624]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM2178978
+[625]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638109
+[626]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107308
+[627]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638407
+[628]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638110
+[629]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638408
+[630]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107310
+[631]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM143756
+[632]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638409
+[633]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM79769
+[634]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638413
+[635]: http://www.legislation.govt.nz/act/public/2006/0040/latest/whole.html#DLM379716
+[636]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638416
+[637]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638417
+[638]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1109527
+[639]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638419
+[640]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107312
+[641]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638420
+[642]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM144060
+[643]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM144069
+[644]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107313
+[645]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM64784
+[646]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107314
+[647]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107315
+[648]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638421
+[649]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107316
+[650]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638422
+[651]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638423
+[652]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM144012
+[653]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638425
+[654]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107317
+[655]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638112
+[656]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM144014
+[657]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638427
+[658]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638428
+[659]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3123593
+[660]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3230581
+[661]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM144022
+[662]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638429
+[663]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3231525
+[664]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638430
+[665]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM272251
+[666]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638432
+[667]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638433
+[668]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107319
+[669]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM144003
+[670]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM144008
+[671]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM144047
+[672]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM305592
+[673]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638434
+[674]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM441644
+[675]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3360714
+[676]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638435
+[677]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM144050
+[678]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM305075
+[679]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638436
+[680]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM373804
+[681]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM373883
+[682]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM373810
+[683]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM85800
+[684]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107322
+[685]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1584200
+[686]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1584831
+[687]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107324
+[688]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM297038
+[689]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM408527
+[690]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM28302
+[691]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM28351
+[692]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3723295
+[693]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3724900
+[694]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3724901
+[695]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3724904
+[696]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3724906
+[697]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638437
+[698]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107325
+[699]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107326
+[700]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM355922
+[701]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107327
+[702]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107328
+[703]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107331
+[704]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM350156
+[705]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM350162
+[706]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM154184
+[707]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM350165
+[708]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM154828
+[709]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107332
+[710]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3123594
+[711]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM199363
+[712]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM358789
+[713]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107333
+[714]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM129566
+[715]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107334
+[716]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3986039
+[717]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107335
+[718]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3353330
+[719]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1401736
+[720]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM385591
+[721]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638438
+[722]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107336
+[723]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM2095416
+[724]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM2178979
+[725]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM2546442
+[726]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM4090503
+[727]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM5561470
+[728]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107337
+[729]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM407677
+[730]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM408528
+[731]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107121
+[732]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107339
+[733]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM86341
+[734]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM88002
+[735]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1765000
+[736]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM2095414
+[737]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM2095417
+[738]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3741013
+[739]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3758002
+[740]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3985958
+[741]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3986040
+[742]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638439
+[743]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM305065
+[744]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM305067
+[745]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM305069
+[746]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM79767
+[747]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1107341
+[748]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM4505239
+[749]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM5561489
+[750]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM2546443
+[751]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM364948
+[752]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM2178980
+[753]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3353331
+[754]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM5561494
+[755]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM393030
+[756]: http://www.legislation.govt.nz/act/public/2006/0040/latest/whole.html#DLM379708
+[757]: http://www.legislation.govt.nz/act/public/2006/0040/latest/whole.html#DLM379701
+[758]: http://www.legislation.govt.nz/act/public/2006/0040/latest/whole.html#DLM5345337
+[759]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1518602
+[760]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM408530
+[761]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638449
+[762]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM323545
+[763]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM374188
+[764]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM247813
+[765]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM101801
+[766]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM383234
+[767]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1765002
+[768]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM3638116
+[769]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM2998516
+[770]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM2998515
+[771]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM2998532
+[772]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[773]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM1328113
+[774]: http://www.legislation.govt.nz/act/public/2006/0040/latest/link.aspx?id=DLM418365
