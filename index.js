@@ -12,7 +12,8 @@ var async = require('async'),
     repo,
     actQueue,
     searchQueue,
-    retried = {};
+    retried = {},
+    SEARCH_URL = 'http://www.legislation.govt.nz/act/results.aspx?search=ta_act_All_ac%40ainf%40anif_an%40bn%40rn_200_a&p=1';
 
 github = new GitHub({
     token: process.env.GITHUB_TOKEN,
@@ -33,13 +34,6 @@ function scrapeSearch(uri, callback) {
             process.exit(1);
         } else {
             $ = cheerio.load(body);
-            href = $('.search-results-pagination li:last-child a').attr('href');
-
-            if (href) {
-                href = 'http://www.legislation.govt.nz' + href;
-                console.log('Loading: ' + href);
-                searchQueue.push(href);
-            }
 
             acts = $('.resultsTitle a');
 
@@ -56,11 +50,27 @@ function scrapeSearch(uri, callback) {
                 uri.search = undefined;
                 uri.pathname = uri.pathname.replace(/\/[^\/]+\.html$/, '/whole.html');
 
-                actQueue.unshift({
+                actQueue.push({
                     title: title,
                     uri: 'http://www.legislation.govt.nz' + url.format(uri)
                 });
             });
+
+            href = $('.search-results-pagination li:last-child a').attr('href');
+
+            if (href) {
+                href = 'http://www.legislation.govt.nz' + href;
+                console.log('Loading: ' + href);
+                actQueue.push({
+                    search: true,
+                    uri: href
+                });
+            } else {
+                setTimeout(function() {
+                    searchQueue.push(SEARCH_URL);
+                }, 24 * 60 * 60 * 1000);
+                console.log("Restarting scan in 24 hours.");
+            }
 
             callback();
         }
@@ -76,8 +86,12 @@ function getPath(title) {
 function downloadAct(task, callback) {
     var uri = task.uri;
 
+
     // skip former title acts
     if (/formertitle\.aspx/.test(uri)) {
+        return callback();
+    } else if (task.search) {
+        searchQueue.push(uri);
         return callback();
     }
 
@@ -131,8 +145,14 @@ function downloadAct(task, callback) {
 }
 
 function respectLimit(obj, callback) {
-    if (obj && obj.meta && obj.meta['x-ratelimit-remaining'] === '0') {
-        setTimeout(callback, 60 * 60 * 1000);
+    var limit = obj && obj.meta && obj.meta['x-ratelimit-remaining'];
+    if (limit) {
+       if (limit === '0') {
+           console.log("GitHub rate limit hit. Sleeping for an hour.");
+           setTimeout(callback, 60 * 60 * 1000);
+       } else {
+           console.log("GitHub rate limit remaining is %s.", limit);
+       }
     } else {
         callback();
     }
@@ -162,11 +182,4 @@ searchQueue = async.queue(scrapeSearch);
 
 actQueue = async.queue(downloadAct, process.env.QUEUE_SIZE || 1);
 
-actQueue.drain = function() {
-    setTimeout(function() {
-        searchQueue.push('http://www.legislation.govt.nz/act/results.aspx?search=ta_act_All_ac%40ainf%40anif_an%40bn%40rn_200_a&p=1');
-    }, 24 * 60 * 60 * 1000);
-    console.log("Restarting scan in 24 hours.");
-};
-
-searchQueue.push('http://www.legislation.govt.nz/act/results.aspx?search=ta_act_All_ac%40ainf%40anif_an%40bn%40rn_200_a&p=1');
+searchQueue.push(SEARCH_URL);
