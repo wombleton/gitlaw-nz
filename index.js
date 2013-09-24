@@ -128,6 +128,7 @@ function downloadAct(task, callback) {
                     var sha;
 
                     if (err) {
+                        console.log("Error checking github: %s", err);
                         callback(err);
                     } else {
                         sha = shagit(markdown);
@@ -142,20 +143,6 @@ function downloadAct(task, callback) {
             }
         }
     });
-}
-
-function respectLimit(obj, callback) {
-    var limit = obj && obj.meta && obj.meta['x-ratelimit-remaining'];
-    if (limit) {
-       if (limit === '0') {
-           console.log("GitHub rate limit hit. Sleeping for an hour.");
-           setTimeout(callback, 60 * 60 * 1000);
-       } else {
-           console.log("GitHub rate limit remaining is %s.", limit);
-       }
-    } else {
-        callback();
-    }
 }
 
 function updateAct(path, title, markdown, callback) {
