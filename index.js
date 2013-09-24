@@ -22,6 +22,7 @@ github = new GitHub({
 repo = github.getRepo(process.env.USER, process.env.REPO);
 
 function scrapeSearch(uri, callback) {
+    console.log('Loading: ' + uri);
     request({
         uri: uri
     }, function(err, response, body) {
@@ -60,7 +61,6 @@ function scrapeSearch(uri, callback) {
 
             if (href) {
                 href = 'http://www.legislation.govt.nz' + href;
-                console.log('Loading: ' + href);
                 actQueue.push({
                     search: true,
                     uri: href
@@ -128,10 +128,14 @@ function downloadAct(task, callback) {
                     var sha;
 
                     if (err) {
-                        console.log("Error checking github: %s. Sleeping for an hour..", err);
-                        setTimeout(function() {
-                            callback(err)
-                        }, 60 * 60 * 1000);
+                        if (err === 'not found') {
+                            updateAct(path, title, markdown, callback);
+                        } else {
+                            console.log("Error checking github: %s. Sleeping for an hour..", err);
+                            setTimeout(function() {
+                                callback(err)
+                            }, 60 * 60 * 1000);
+                        }
                     } else {
                         sha = shagit(markdown);
                         if (sha !== contentSha) {
