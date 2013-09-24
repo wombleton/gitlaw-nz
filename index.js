@@ -128,8 +128,10 @@ function downloadAct(task, callback) {
                     var sha;
 
                     if (err) {
-                        console.log("Error checking github: %s", err);
-                        callback(err);
+                        console.log("Error checking github: %s. Sleeping for an hour..", err);
+                        setTimeout(function() {
+                            callback(err)
+                        }, 60 * 60 * 1000);
                     } else {
                         sha = shagit(markdown);
                         if (sha !== contentSha) {
