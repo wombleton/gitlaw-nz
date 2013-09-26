@@ -4568,7 +4568,7 @@ Functions, powers, and duties of central and local government
     
     *   (b) for all other proposals, the policies or provisions of the proposal that implement, or give effect to, the objectives of the proposal.
     
-    Section 32: replaced for certain purposes, on 4 September 2013, by [section 70][1094] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Section 32: replaced, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 70][1094] of the Resource Management Amendment Act 2013 (2013 No 63).
 
 ##### 32AA Requirements for undertaking and publishing further evaluations
     
@@ -4592,7 +4592,7 @@ Functions, powers, and duties of central and local government
     
     (3) In this section, _proposal_ means a proposed statement, plan, or change for which a further evaluation must be undertaken under this Act.
     
-    Section 32AA: inserted for certain purposes, on 4 September 2013, by [section 70][1094] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Section 32AA: inserted, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 70][1094] of the Resource Management Amendment Act 2013 (2013 No 63).
 
 ##### 32A Failure to carry out evaluation
     
@@ -4610,11 +4610,11 @@ Functions, powers, and duties of central and local government
     
     Section 32A(1): amended, on 4 September 2013, by [section 6][1096] of the Resource Management Amendment Act 2013 (2013 No 63).
     
-    Section 32A(1): amended for certain purposes, on 4 September 2013, by [section 71(1)][1097] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Section 32A(1): amended, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 71(1)][1097] of the Resource Management Amendment Act 2013 (2013 No 63).
     
-    Section 32A(2): replaced for certain purposes, on 4 September 2013, by [section 71(2)][1097] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Section 32A(2): replaced, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 71(2)][1097] of the Resource Management Amendment Act 2013 (2013 No 63).
     
-    Section 32A(3): inserted for certain purposes, on 4 September 2013, by [section 71(2)][1097] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Section 32A(3): inserted, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 71(2)][1097] of the Resource Management Amendment Act 2013 (2013 No 63).
 
 ##### 33 Transfer of powers
     
@@ -6160,9 +6160,9 @@ Standards, policy statements, and plans
     
     Section 44: replaced, on 1 October 2009, by [section 45][1187] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 44(2)(ba): inserted for certain purposes, on 4 September 2013, by [section 72(1)][1188] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Section 44(2)(ba): inserted, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 72(1)][1188] of the Resource Management Amendment Act 2013 (2013 No 63).
     
-    Section 44(2)(c): amended for certain purposes, on 4 September 2013, by [section 72(2)][1188] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Section 44(2)(c): amended, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 72(2)][1188] of the Resource Management Amendment Act 2013 (2013 No 63).
 
 ##### 44A Local authority recognition of national environmental standards
     
@@ -6254,9 +6254,9 @@ Standards, policy statements, and plans
     
     Section 46(a): amended, on 10 August 2005, by [section 31][1191] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 46(b): amended for certain purposes, on 4 September 2013, by [section 73(1)][1192] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Section 46(b): amended, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 73(1)][1192] of the Resource Management Amendment Act 2013 (2013 No 63).
     
-    Section 46(c): inserted for certain purposes, on 4 September 2013, by [section 73(2)][1192] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Section 46(c): inserted, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 73(2)][1192] of the Resource Management Amendment Act 2013 (2013 No 63).
 
 ##### 46A Minister chooses process
     
@@ -6302,7 +6302,7 @@ Standards, policy statements, and plans
     
     Section 46A: inserted, on 10 August 2005, by [section 32][1195] of the Resource Management Amendment Act 2005 (2005 No 87).
     
-    Section 46A(1)(b)(iaaa): inserted for certain purposes, on 4 September 2013, by [section 74][1196] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Section 46A(1)(b)(iaaa): inserted, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 74][1196] of the Resource Management Amendment Act 2013 (2013 No 63).
     
     Section 46A(2)(b)(i): replaced, on 1 October 2009, by [section 46(1)][1197] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
@@ -6470,7 +6470,7 @@ Standards, policy statements, and plans
     
     Section 52 heading: amended, on 1 October 2009, by [section 52(1)][1207] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 52(1): replaced for certain purposes, on 4 September 2013, by [section 75][1208] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Section 52(1): replaced, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 75][1208] of the Resource Management Amendment Act 2013 (2013 No 63).
     
     Section 52(3)(c): replaced, on 1 October 2009, by [section 52(3)][1207] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
@@ -6676,7 +6676,7 @@ Standards, policy statements, and plans
     
     Section 61 heading: amended, on 17 December 1997, by [section 11][1222] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 61(1): replaced for certain purposes, on 4 September 2013, by [section 76][1223] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Section 61(1): replaced, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 76][1223] of the Resource Management Amendment Act 2013 (2013 No 63).
     
     Section 61(2)(a)(ii): repealed, on 1 August 2003, by [section 24(1)][1224] of the Resource Management Amendment Act 2003 (2003 No 23).
     
@@ -6924,7 +6924,7 @@ Standards, policy statements, and plans
     
     Section 66 heading: amended, on 17 December 1997, by [section 13][1236] of the Resource Management Amendment Act 1997 (1997 No 104).
     
-    Section 66(1): replaced for certain purposes, on 4 September 2013, by [section 77][1237] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Section 66(1): replaced, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 77][1237] of the Resource Management Amendment Act 2013 (2013 No 63).
     
     Section 66(2): amended, on 10 August 2005, by [section 40(2)][1238] of the Resource Management Amendment Act 2005 (2005 No 87).
     
@@ -7288,7 +7288,7 @@ Standards, policy statements, and plans
     
     (3) In preparing or changing any district plan, a territorial authority must not have regard to trade competition or the effects of trade competition.
     
-    Section 74(1): replaced for certain purposes, on 4 September 2013, by [section 78][1256] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Section 74(1): replaced, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 78][1256] of the Resource Management Amendment Act 2013 (2013 No 63).
     
     Section 74(2): amended, on 10 August 2005, by [section 45(2)][1257] of the Resource Management Amendment Act 2005 (2005 No 87).
     
@@ -11291,7 +11291,7 @@ Proposals of national significance
     
     Section 143: replaced, on 1 October 2009, by [section 100][1435] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 143: amended for certain purposes, on 4 September 2013, by [section 79][1440] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Section 143: amended, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 79][1440] of the Resource Management Amendment Act 2013 (2013 No 63).
 
 ##### 144 Restriction on when Minister may call in matter
     
@@ -13381,9 +13381,9 @@ Occupation of common marine and coastal area
     
     Section 165H: replaced, on 1 October 2011, by [section 49][1499] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 165H(1A): inserted for certain purposes, on 4 September 2013, by [section 80(1)][1504] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Section 165H(1A): inserted, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 80(1)][1504] of the Resource Management Amendment Act 2013 (2013 No 63).
     
-    Section 165H(2): amended for certain purposes, on 4 September 2013, by [section 80(2)][1504] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Section 165H(2): amended, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 80(2)][1504] of the Resource Management Amendment Act 2013 (2013 No 63).
 
 ##### 165I Offer of authorisations for activities in common marine and coastal area in accordance with plan
     
@@ -19609,7 +19609,7 @@ Declarations, enforcement, and ancillary powers
     
     Section 310(a): amended, on 1 October 2009, by [section 150][983] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 310(a)(i): amended for certain purposes, on 4 September 2013, by [section 81][1743] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Section 310(a)(i): amended, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 81][1743] of the Resource Management Amendment Act 2013 (2013 No 63).
     
     Section 310(b): replaced, on 10 August 2005, by [section 115(1)][1744] of the Resource Management Amendment Act 2005 (2005 No 87).
     
@@ -21729,9 +21729,9 @@ Miscellaneous provisions
     
     Section 360B: inserted, on 1 October 2011, by [section 57][1861] of the Resource Management Amendment Act (No 2) 2011 (2011 No 70).
     
-    Section 360B(2)(c)(iv): amended for certain purposes, on 4 September 2013, by [section 82(1)][1862] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Section 360B(2)(c)(iv): amended, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 82(1)][1862] of the Resource Management Amendment Act 2013 (2013 No 63).
     
-    Section 360B(2)(d): inserted for certain purposes, on 4 September 2013, by [section 82(2)][1862] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Section 360B(2)(d): inserted, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 82(2)][1862] of the Resource Management Amendment Act 2013 (2013 No 63).
 
 ##### 360C Regional council's obligations
     
@@ -24490,7 +24490,7 @@ Preparation and change of policy statements and plans by local authorities
     
     (6) The obligation imposed by subclause (5) is in addition to the local authority's obligations under [section 35][78] (records).
     
-    Schedule 1 clause 5(1): replaced for certain purposes, on 4 September 2013, by [section 83][2017] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Schedule 1 clause 5(1): replaced, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 83][2017] of the Resource Management Amendment Act 2013 (2013 No 63).
     
     Schedule 1 clause 5(1A): inserted, on 7 July 1993, by [section 211(1)][2018] of the Resource Management Amendment Act 1993 (1993 No 65).
     
@@ -24688,9 +24688,9 @@ Preparation and change of policy statements and plans by local authorities
     
     Schedule 1 clause 10: replaced, on 1 October 2009, by [section 149(9)][2007] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Schedule 1 clause 10(2)(ab): inserted for certain purposes, on 4 September 2013, by [section 84(1)][2022] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Schedule 1 clause 10(2)(ab): inserted, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 84(1)][2022] of the Resource Management Amendment Act 2013 (2013 No 63).
     
-    Schedule 1 clause 10(4)(aaa): inserted for certain purposes, on 4 September 2013, by [section 84(2)][2022] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Schedule 1 clause 10(4)(aaa): inserted, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 84(2)][2022] of the Resource Management Amendment Act 2013 (2013 No 63).
 
 ##### 11 Notification of decision
     
@@ -24993,7 +24993,7 @@ Requests for changes to policy statements and plans of local authorities and req
     
     Schedule 1 clause 22: replaced, on 7 July 1993, by [section 220][2030] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 22(1): amended for certain purposes, on 4 September 2013, by [section 85][2031] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Schedule 1 clause 22(1): amended, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 85][2031] of the Resource Management Amendment Act 2013 (2013 No 63).
     
     Schedule 1 clause 22(1): amended, on 1 August 2003, by [section 92(13)][2016] of the Resource Management Amendment Act 2003 (2003 No 23).
 
@@ -25097,7 +25097,7 @@ Requests for changes to policy statements and plans of local authorities and req
     
     Schedule 1 clause 25: replaced, on 7 July 1993, by [section 220][2030] of the Resource Management Amendment Act 1993 (1993 No 65).
     
-    Schedule 1 clause 25(1A): inserted for certain purposes, on 4 September 2013, by [section 86][2032] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Schedule 1 clause 25(1A): inserted, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 86][2032] of the Resource Management Amendment Act 2013 (2013 No 63).
     
     Schedule 1 clause 25(2): replaced, on 17 December 1997, by [section 72][2033] of the Resource Management Amendment Act 1997 (1997 No 104).
     
@@ -25207,7 +25207,7 @@ Requests for changes to policy statements and plans of local authorities and req
     
     Schedule 1 clause 29(1B): inserted, on 1 October 2009, by [section 149(19)][2007] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Schedule 1 clause 29(4): replaced for certain purposes, on 4 September 2013, by [section 87][2036] of the Resource Management Amendment Act 2013 (2013 No 63).
+    Schedule 1 clause 29(4): replaced, on 4 September 2013, but only for the purposes of the preparation of the first Auckland combined plan under Part 4 of the Local Government (Auckland Transitional Provisions) Act 2010, by [section 87][2036] of the Resource Management Amendment Act 2013 (2013 No 63).
     
     Schedule 1 clause 29(6): amended, on 1 August 2003, by [section 92(14)(a)][2016] of the Resource Management Amendment Act 2003 (2003 No 23).
     
