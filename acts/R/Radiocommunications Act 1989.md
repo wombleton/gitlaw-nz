@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 26 September 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -3034,7 +3034,7 @@ Miscellaneous provisions
             
         *   (i) the New Zealand Security Intelligence Service, for the purpose of obtaining intelligence relevant to security; or
         
-        *   (ii) the Government Communications Security Bureau, for the purpose of obtaining foreign intelligence; or
+        *   (ii) the Government Communications Security Bureau, for the purpose of obtaining intelligence about the capabilities, intentions, and activities of foreign persons and foreign organisations; or
         
         
     
@@ -3056,21 +3056,25 @@ Miscellaneous provisions
     
     (3) For the purposes of this section,---
         
-    *   (a) _foreign intelligence_ has the same meaning as in [section 4][398] of the Government Communications Security Bureau Act 2003:
+    *   (a) \[Repealed\]
     
-    *   (b) _security_ has the same meaning as in [section 2(1)][399] of the New Zealand Security Intelligence Service Act 1969\.
+    *   (b) _security_ has the same meaning as in [section 2(1)][398] of the New Zealand Security Intelligence Service Act 1969\.
     
-    (4) Subsection (2) does not authorise the interception of any private communications within the meaning of [section 216A][400] of the Crimes Act 1961\.
+    (4) Subsection (2) does not authorise the interception of any private communications within the meaning of [section 216A][399] of the Crimes Act 1961\.
     
-    Section 133A: inserted, on 12 October 2001, by [section 46][401] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 133A: inserted, on 12 October 2001, by [section 46][400] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 133A(2)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][402] of the Policing Act 2008 (2008 No 72).
+    Section 133A(2)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][401] of the Policing Act 2008 (2008 No 72).
+    
+    Section 133A(2)(c)(ii): amended, on 26 September 2013, by [section 29][402] of the Government Communications Security Bureau Amendment Act 2013 (2013 No 57).
     
     Section 133A(2)(e)(i): amended, on 20 December 2001, pursuant to [section 159(3)][403] of the Telecommunications Act 2001 (2001 No 103).
     
     Section 133A(2)(e)(iia): inserted, on 2 April 2003, by [section 32(1)][404] of the Government Communications Security Bureau Act 2003 (2003 No 9).
     
     Section 133A(3): substituted, on 2 April 2003, by [section 32(2)][404] of the Government Communications Security Bureau Act 2003 (2003 No 9).
+    
+    Section 133A(3)(a): repealed, on 26 September 2013, by [section 29][402] of the Government Communications Security Bureau Amendment Act 2013 (2013 No 57).
     
     Section 133A(4): amended, on 2 April 2003, by [section 32(3)][404] of the Government Communications Security Bureau Act 2003 (2003 No 9).
 
@@ -4682,7 +4686,9 @@ Commencementsee section 2
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][448]
+*   Government Communications Security Bureau Amendment Act 2013 (2013 No 57): [section 29][402]
+    
+    Legislation Act 2012 (2012 No 119): [section 77(3)][448]
     
     [Radiocommunications Amendment Act 2012][457] (2012 No 65)
     
@@ -4694,7 +4700,7 @@ Commencementsee section 2
     
     Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [section 861][426]
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][402]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][401]
     
     [Radiocommunications Amendment Act (No 2) 2008][459] (2008 No 51)
     
@@ -5146,11 +5152,11 @@ Commencementsee section 2
 [395]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM187177
 [396]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM23069
 [397]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM124822
-[398]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM187185
-[399]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM391611
-[400]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM329804
-[401]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54322
-[402]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM1102349
+[398]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM391611
+[399]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM329804
+[400]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54322
+[401]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM1102349
+[402]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM5177779
 [403]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM127741
 [404]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM187863
 [405]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM3043707
