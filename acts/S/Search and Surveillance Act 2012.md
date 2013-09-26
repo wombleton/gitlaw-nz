@@ -1,5 +1,5 @@
 Reprint  
-as at 1 September 2013
+as at 26 September 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -2128,13 +2128,15 @@ Enforcement officers' powers and orders
             
         *   (i) [section 4A(1) or (2)][607] of the New Zealand Security Intelligence Service Act 1969; or
         
-        *   (ii) [section 17][608] of the Government Communications Security Bureau Act 2003:
+        *   (ii) section 15A(1)(a) of the Government Communications Security Bureau Act 2003:
         
         
     
     *   (d) activities carried out by the enforcement officer's use of a surveillance device, if that use is authorised under any enactment other than this Act.
     
     (2) Subsection (1)(b) does not prevent an enforcement officer from applying for a warrant authorising covert audio recording in the circumstances set out in that subsection.
+    
+    Section 47(1)(c)(ii): amended, on 26 September 2013, by [section 29][608] of the Government Communications Security Bureau Amendment Act 2013 (2013 No 57).
 
 ##### 48 Surveillance device warrant need not be obtained for use of surveillance device in some situations of emergency or urgency
     
@@ -8576,7 +8578,9 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Search and Surveillance Act Commencement Order 2013][550] (SR 2013/302)
+*   Government Communications Security Bureau Amendment Act 2013 (2013 No 57): [section 29][608]
+    
+    [Search and Surveillance Act Commencement Order 2013][550] (SR 2013/302)
     
     Psychoactive Substances Act 2013 (2013 No 53): [sections 108][606], [110(1)][1089]
     
@@ -9200,7 +9204,7 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 [605]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5043096
 [606]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5043145
 [607]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM391815
-[608]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM187845
+[608]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5177779
 [609]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM242343
 [610]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM23443
 [611]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM436281
