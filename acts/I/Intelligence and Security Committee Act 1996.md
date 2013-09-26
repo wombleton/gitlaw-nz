@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 26 September 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -41,33 +41,51 @@ This Act is administered by the Department of the Prime Minister and Cabinet.
 
 [7][9][][9][Membership of Committee][9]
 
-[8][10][][10][Endorsement of nominated members][10]
+[7A][10][][10][Further provisions relating to chairperson and Leader of the Opposition][10]
 
-[9][11][][11][Revocation of nomination][11]
+[8][11][][11][Endorsement of nominated members][11]
 
-[10][12][][12][Suspension and cessation of membership][12]
+[9][12][][12][Revocation of nomination][12]
 
-[11][13][][13][Extraordinary vacancies][13]
+[10][13][][13][Suspension and cessation of membership][13]
 
-[12][14][][14][Conduct of proceedings][14]
+[11][14][][14][Extraordinary vacancies][14]
 
-[13][15][][15][Meetings of Committee][15]
+[12][15][][15][Conduct of proceedings][15]
 
-[14][16][][16][Attendance before Committee][16]
+[13][16][][16][Meetings of Committee][16]
 
-[15][17][][17][Judicial proceedings][17]
+[14][17][][17][Attendance before Committee][17]
 
-[16][18][][18][Privilege][18]
+[15][18][][18][Judicial proceedings][18]
 
-[Disclosure of information][19]
+[16][19][][19][Privilege][19]
 
-[17][20][][20][Provision of information to Committee][20]
+[Disclosure of information][20]
 
-[18][21][][21][Restrictions on reports to House of Representatives][21]
+[17][21][][21][Provision of information to Committee][21]
 
-[19][22][][22][Secrecy][22]
+[18][22][][22][Restrictions on reports to House of Representatives][22]
 
-[20][23][][23][Offences][23]
+[19][23][][23][Secrecy][23]
+
+[20][24][][24][Offences][24]
+
+[Periodic reviews][25]
+
+[21][26][][26][Requirement to hold periodic reviews][26]
+
+[22][27][][27][Appointment of reviewers and related matters][27]
+
+[23][28][][28][Provision of information][28]
+
+[24][29][][29][Report of reviewers][29]
+
+[25][30][][30][Remuneration of reviewers][30]
+
+[26][31][][31][Provision of administrative and other support][31]
+
+[27][32][][32][Reviewers to determine own procedure][32]
 
 ---
 
@@ -85,7 +103,7 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     _chief executive_,---
         
-    *   (a) in relation to the New Zealand Security Intelligence Service, means the Director of Security holding office under the [New Zealand Security Intelligence Service Act 1969][24]:
+    *   (a) in relation to the New Zealand Security Intelligence Service, means the Director of Security holding office under the [New Zealand Security Intelligence Service Act 1969][33]:
     
     *   (b) in relation to the Government Communications Security Bureau, means the Director of that Bureau:
     
@@ -101,7 +119,7 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     *   (c) any other agency declared by the Governor-General from time to time by Order in Council as an intelligence and security agency for the purposes of this Act
     
-    _New Zealand Security Intelligence Service_ means the New Zealand Security Intelligence Service referred to in [section 3][25] of the New Zealand Security Intelligence Service Act 1969
+    _New Zealand Security Intelligence Service_ means the New Zealand Security Intelligence Service referred to in [section 3][34] of the New Zealand Security Intelligence Service Act 1969
     
     _nominated member_ means a member of the Committee nominated in accordance with [section 7(1)(c)][9] or section 7(1)(d)
     
@@ -115,9 +133,9 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     (2) The Governor-General may from time to time by Order in Council declare any agency to be an intelligence and security agency for the purposes of this Act.
     
-    (3) An Order in Council made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][26] and must be presented to the House of Representatives under [section 41][27] of that Act.
+    (3) An Order in Council made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][35] and must be presented to the House of Representatives under [section 41][36] of that Act.
     
-    Section 2(3): replaced, on 5 August 2013, by [section 77(3)][28] of the Legislation Act 2012 (2012 No 119).
+    Section 2(3): replaced, on 5 August 2013, by [section 77(3)][37] of the Legislation Act 2012 (2012 No 119).
 
 ##### 3 Definition of sensitive information
     
@@ -171,23 +189,37 @@ An Act to increase the level of oversight and review of intelligence and securit
         
     *   (a) subject to subsection (2), to examine the policy, administration, and expenditure of each intelligence and security agency:
     
+    *   (ab) without limiting paragraph (a), to conduct an annual financial review of the performance of an intelligence and security agency in the previous financial year after the responsible Minister has submitted a copy of the agency's annual report to the Committee:
+    
     *   (b) subject to subsection (2), to consider any bill, petition, or other matter in relation to an intelligence and security agency referred to the Committee by the House of Representatives:
     
     *   (c) to receive and consider the annual report of each intelligence and security agency:
     
     *   (d) to consider any matter (not being a matter relating directly to the activities of an intelligence and security agency) referred to the Committee by the Prime Minister by reason of that matter's security or intelligence implications:
     
-    *   (e) subject to [section 18][21], to report to the House of Representatives on the activities of the Committee.
+    *   (e) subject to [section 18][22],---
+            
+        *   (i) to present an annual report to the House of Representatives on the activities of the Committee; and
+        
+        *   (ii) to make an annual report publicly available on the Internet site of the New Zealand Parliament:
+        
+        
+    
+    *   (f) to consider and discuss with the Inspector-General of Intelligence and Security his or her annual report as presented to the House of Representatives under [section 27(3)][38] of the Inspector-General of Intelligence and Security Act 1996\.
     
     (2) The functions of the Committee do not include---
         
-    *   (a) inquiring into any matter within the jurisdiction of the Inspector-General of Intelligence and Security appointed under [section 5][29] of the Inspector-General of Intelligence and Security Act 1996; or
+    *   (a) inquiring into any matter within the jurisdiction of the Inspector-General of Intelligence and Security appointed under [section 5][39] of the Inspector-General of Intelligence and Security Act 1996; or
     
     *   (b) inquiring into any matter that is operationally sensitive, including any matter that relates to intelligence collection and production methods or sources of information; or
     
     *   (c) originating or conducting inquiries into complaints by individuals concerning the activities of an intelligence and security agency that are capable of being resolved under any other enactment.
     
+    Section 6(1)(ab): inserted, on 26 September 2013, by [section 4(1)][40] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
     
+    Section 6(1)(e): replaced, on 26 September 2013, by [section 4(2)][40] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
+    
+    Section 6(1)(f): inserted, on 26 September 2013, by [section 4(2)][40] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
 
 ##### 7 Membership of Committee
     
@@ -207,11 +239,35 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     (4) For the avoidance of doubt, it is hereby declared that any member of Parliament who acts as a member of the Committee shall be deemed, in so acting, to be acting in his or her official capacity as a member of Parliament.
 
+##### 7A Further provisions relating to chairperson and Leader of the Opposition
+    
+*   (1) Subsection (2) applies if---
+        
+    *   (a) the Committee is, in the course of conducting a financial review of an intelligence and security agency, discussing any matter relating to the performance of the intelligence and security agency; and
+    
+    *   (b) the Prime Minister is the responsible Minister under the legislation governing the intelligence security agency.
+    
+    (2) If the Prime Minister is chairing the meeting of the Committee at which the matter is discussed,---
+        
+    *   (a) the Prime Minister must not act as chairperson of the Committee; and
+    
+    *   (b) another member of the Committee nominated by the Prime Minister, being one of the 2 members appointed under [section 7(1)(c)][9], must act as chairperson.
+    
+    (3) The chairperson of the Committee may appoint either of the following (if not already a member of the Committee) to be an alternate chairperson to act as chairperson at the discretion of the chairperson in the absence of the chairperson at a meeting of the Committee:
+        
+    *   (a) the Deputy Prime Minister:
+    
+    *   (b) the Attorney-General.
+    
+    (4) The Leader of the Opposition may appoint the person who acts as his or her deputy in the House of Representatives to act in place of the Leader of the Opposition in the absence of the Leader of the Opposition at a meeting of the Committee.
+    
+    Section 7A: inserted, on 26 September 2013, by [section 5][41] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
+
 ##### 8 Endorsement of nominated members
     
 *   (1) The Prime Minister shall, as soon as practicable after the commencement of each Parliament, submit to the House of Representatives, for endorsement, the names of the members of the House of Representatives nominated under paragraphs (c) and (d) of [section 7(1)][9] as members of the Committee.
     
-    (2) If the House of Representatives declines to endorse as a member of the Committee any member of the House of Representatives nominated under this section or [section 11(1)][13], the Prime Minister or the Leader of the Opposition, as the case may require, shall, in accordance with the requirements of paragraph (c) or paragraph (d) of [section 7(1)][9], as the case may require, nominate another member of the House of Representatives for membership of the Committee and shall submit to the House of Representatives for endorsement the name of the member so nominated for membership of the Committee.
+    (2) If the House of Representatives declines to endorse as a member of the Committee any member of the House of Representatives nominated under this section or [section 11(1)][14], the Prime Minister or the Leader of the Opposition, as the case may require, shall, in accordance with the requirements of paragraph (c) or paragraph (d) of [section 7(1)][9], as the case may require, nominate another member of the House of Representatives for membership of the Committee and shall submit to the House of Representatives for endorsement the name of the member so nominated for membership of the Committee.
     
     (3) The Committee shall not transact any business until, as required by paragraphs (c) and (d) of [section 7(1)][9], 3 members of the House of Representatives have been nominated and endorsed as members of the Committee.
 
@@ -227,7 +283,7 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     (2) A person ceases to be a member of the Committee---
         
-    *   (a) if that person is a nominated member of the Committee and that person's nomination as a member of the Committee is revoked under [section 9][11]:
+    *   (a) if that person is a nominated member of the Committee and that person's nomination as a member of the Committee is revoked under [section 9][12]:
     
     *   (b) if Parliament is dissolved or expires:
     
@@ -241,7 +297,7 @@ An Act to increase the level of oversight and review of intelligence and securit
         
     *   (a) any nominated member ceases, before Parliament is dissolved or expires, to be a member of the House of Representatives; or
     
-    *   (b) the nomination of any nominated member is revoked under [section 9][11],---
+    *   (b) the nomination of any nominated member is revoked under [section 9][12],---
     
     his or her office as a nominated member of the Committee shall become vacant and the Prime Minister or the Leader of the Opposition, as the case may require, shall nominate another member of the House of Representatives to fill the vacancy and shall submit to the House of Representatives for endorsement the name of the member of the House of Representatives nominated as a member of the Committee.
     
@@ -257,7 +313,11 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     (2) The proceedings of the Committee shall be held in private unless the Committee by unanimous resolution resolves otherwise.
     
+    (2A) However, subsection (2) does not apply when the Committee is performing its function specified in [section 6(1)(ab)][8].
+    
     (3) Where the proceedings of the Committee are conducted in private, the Committee may, having regard to the requirements of security and to such other matters as the Committee thinks fit, give directions as to the persons who may be present.
+    
+    Section 12(2A): inserted, on 26 September 2013, by [section 6][42] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
 
 ##### 13 Meetings of Committee
     
@@ -273,9 +333,13 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     (6) No member of the Committee may be represented at any meeting of the Committee by any other person.
     
+    (6A) Subsection (6) applies subject to [section 7A][10].
+    
     (7) The chief executive of the Department of the Prime Minister and Cabinet shall, with the concurrence of the Committee, appoint such officers as are required to assist the Committee in the conduct of its business.
     
     (8) Only a person who has an appropriate security clearance may be appointed to assist the Committee.
+    
+    Section 13(6A): inserted, on 26 September 2013, by [section 7][43] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
 
 ##### 14 Attendance before Committee
     
@@ -299,15 +363,15 @@ An Act to increase the level of oversight and review of intelligence and securit
 
 ##### 15 Judicial proceedings
     
-*   (1) No proceedings, civil or criminal, shall lie against any member of the Committee, or any person appointed under [section 13(7)][15] to assist the Committee, for anything the member or person may do or report or say or fail to do or report or say in the course of the exercise or intended exercise of the Committee's functions under this Act, unless it is shown that the member or person acted in bad faith.
+*   (1) No proceedings, civil or criminal, shall lie against any member of the Committee, or any person appointed under [section 13(7)][16] to assist the Committee, for anything the member or person may do or report or say or fail to do or report or say in the course of the exercise or intended exercise of the Committee's functions under this Act, unless it is shown that the member or person acted in bad faith.
     
-    (2) No member of the Committee, or person appointed under [section 13(7)][15] to assist the Committee, shall be called to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to that member's or person's knowledge in the exercise of the Committee's functions under this Act.
+    (2) No member of the Committee, or person appointed under [section 13(7)][16] to assist the Committee, shall be called to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to that member's or person's knowledge in the exercise of the Committee's functions under this Act.
     
-    (3) Nothing in subsection (1) or subsection (2) applies in respect of proceedings for an offence against [section 20][23].
+    (3) Nothing in subsection (1) or subsection (2) applies in respect of proceedings for an offence against [section 20][24].
 
 ##### 16 Privilege
     
-*   (1) The proceedings of the Committee shall be deemed to be proceedings in Parliament for the purposes of Article 9 of the [Bill of Rights 1688][30].
+*   (1) The proceedings of the Committee shall be deemed to be proceedings in Parliament for the purposes of Article 9 of the [Bill of Rights 1688][44].
     
     (2) Anything said or any information supplied or any document, paper, or thing produced by any person in the course of any inquiry or proceedings of the Committee under this Act shall be privileged in the same manner as if the inquiry or proceedings were proceedings of the House of Representatives.
 
@@ -341,7 +405,7 @@ An Act to increase the level of oversight and review of intelligence and securit
 
 ##### 18 Restrictions on reports to House of Representatives
     
-*   (1) The Committee shall in discharging its function of reporting to the House of Representatives, have regard generally to the requirements of security.
+*   (1) The Committee shall in discharging its function of presenting an annual report or other report to the House of Representatives, have regard generally to the requirements of security.
     
     (2) The Committee shall not in a report to the House of Representatives disclose---
         
@@ -355,7 +419,7 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     *   (b) information the public disclosure of which would be likely to endanger the safety of any person; or
     
-    *   (c) any sensitive information disclosed to the Committee in accordance with subsection (2) or subsection (3) of [section 17][20].
+    *   (c) any sensitive information disclosed to the Committee in accordance with subsection (2) or subsection (3) of [section 17][21].
     
     (3) The Committee shall not in a report to the House of Representatives disclose---
         
@@ -370,20 +434,22 @@ An Act to increase the level of oversight and review of intelligence and securit
         
     
     unless the Committee considers that there are compelling reasons in the public interest why the information should be so disclosed or published.
+    
+    Section 18(1): amended, on 26 September 2013, by [section 8][45] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
 
 ##### 19 Secrecy
     
-*   (1) No person who is, or has at any time been, a person assisting the Committee by virtue of an appointment under [section 13(7)][15], or a person appearing before the Committee in any capacity, shall, except in the performance of that person's functions or duties under this Act, or in the exercise of that person's powers under this Act, or with the authority of the Committee, disclose or publish or cause to be disclosed or published---
+*   (1) No person who is, or has at any time been, a person assisting the Committee by virtue of an appointment under [section 13(7)][16], or a person appearing before the Committee in any capacity, shall, except in the performance of that person's functions or duties under this Act, or in the exercise of that person's powers under this Act, or with the authority of the Committee, disclose or publish or cause to be disclosed or published---
         
-    *   (a) any sensitive information disclosed to the Committee in accordance with subsection (2) or subsection (3) of [section 17][20]; or
+    *   (a) any sensitive information disclosed to the Committee in accordance with subsection (2) or subsection (3) of [section 17][21]; or
     
-    *   (b) any other information provided to the Committee by an intelligence and security agency the further disclosure of which would be likely to prejudice any of the interests referred to in paragraphs (a) to (c) of [section 18(2)][21] or paragraphs (a) and (b) of section 18(3).
+    *   (b) any other information provided to the Committee by an intelligence and security agency the further disclosure of which would be likely to prejudice any of the interests referred to in paragraphs (a) to (c) of [section 18(2)][22] or paragraphs (a) and (b) of section 18(3).
     
     (2) No person shall disclose to any other person any minutes or other record relating to the proceedings of any meeting of the Committee unless---
         
     *   (a) the disclosure of the minutes or record is necessary for the purposes of---
             
-        *   (i) a report to the House of Representatives (being a report that complies with [section 18][21]); or
+        *   (i) a report to the House of Representatives (being a report that complies with [section 18][22]); or
         
         *   (ii) the conduct of the business of the Committee; or
         
@@ -395,19 +461,101 @@ An Act to increase the level of oversight and review of intelligence and securit
 
 ##### 20 Offences
     
-*   (1) No person who is, or has at any time been, a person assisting the Committee by virtue of an appointment under [section 13(7)][15] or a person appearing before the Committee in any capacity, shall, either directly or indirectly, except in the performance of that person's functions or duties under this Act, or in the exercise of that person's powers under this Act, or with the written authority of the Committee or its chairperson,---
+*   (1) No person who is, or has at any time been, a person assisting the Committee by virtue of an appointment under [section 13(7)][16] or a person appearing before the Committee in any capacity, shall, either directly or indirectly, except in the performance of that person's functions or duties under this Act, or in the exercise of that person's powers under this Act, or with the written authority of the Committee or its chairperson,---
         
     *   (a) make a record of, or disclose to any person, any information acquired by the person assisting the Committee in his or her capacity as a person assisting the Committee or acquired by the person appearing before the Committee by virtue of that person's appearance before the Committee; or
     
     *   (b) make use of any such information.
     
-    (2) Every person commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $10,000 or to both who acts in contravention of [section 19][22] or subsection (1).
+    (2) Every person commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $10,000 or to both who acts in contravention of [section 19][23] or subsection (1).
     
     (3) No prosecution for an offence against this section shall be commenced except with the leave of the Attorney-General.
     
-    (4) _Amendment(s) incorporated in the [Act(s)][31]._
+    (4) _Amendment(s) incorporated in the [Act(s)][46]._
     
-    Section 20(2): amended, on 1 July 2013, by [section 413][32] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 20(2): amended, on 1 July 2013, by [section 413][47] of the Criminal Procedure Act 2011 (2011 No 81).
+
+#### Periodic reviews
+    
+*   Heading: inserted, on 26 September 2013, by [section 9][48] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
+
+##### 21 Requirement to hold periodic reviews
+    
+*   A review of the intelligence and security agencies, the legislation governing them, and their oversight legislation must, in accordance with the terms of reference specified under [section 22(3)(a)][27], be---
+        
+    *   (a) commenced before 30 June 2015; and
+    
+    *   (b) afterwards, held at intervals not shorter than 5 years and not longer than 7 years.
+    
+    Section 21: inserted, on 26 September 2013, by [section 9][48] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
+
+##### 22 Appointment of reviewers and related matters
+    
+*   (1) A review under [section 21][26] must be conducted by 2 persons (_reviewers_) appointed by the Attorney-General.
+    
+    (2) The reviewers appointed under subsection (1) must have an appropriate security clearance.
+    
+    (3) The Attorney-General must also specify---
+        
+    *   (a) the terms of reference for the review, which may include any matter relevant to the functions, effectiveness, and efficiency of the intelligence and security agencies and their contribution to national security; and
+    
+    *   (b) any matters that he or she considers that the reviewers should take into account in determining how to conduct the review; and
+    
+    *   (c) the date by which the review is to be concluded.
+    
+    (4) Before doing anything under this section, the Attorney-General must consult the Committee.
+    
+    (5) The persons appointed as reviewers, the terms of reference of the review, any matters specified in relation to the conduct of the review, and the date by which the review must be concluded must be notified in the _Gazette_ as soon as practicable after the appointment of the reviewers.
+    
+    Section 22: inserted, on 26 September 2013, by [section 9][48] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
+
+##### 23 Provision of information
+    
+*   To assist the reviewers to conduct their review,---
+        
+    *   (a) the reviewers may ask the chief executive of an intelligence and security agency and the Inspector-General of Intelligence and Security to provide information; and
+    
+    *   (b) the chief executive of an intelligence and security agency or the Inspector-General of Intelligence and Security may provide information to the reviewers, whether in response to a request under paragraph (a) or on his or her own initiative.
+    
+    Section 23: inserted, on 26 September 2013, by [section 9][48] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
+
+##### 24 Report of reviewers
+    
+*   (1) After completing a review, the reviewers must prepare a report containing the results of their review.
+    
+    (2) The report must be provided to the Committee by the date specified for the completion of the review.
+    
+    (3) After the Committee has considered the report, the Committee must present the report to the House of Representatives.
+    
+    (4) For the purposes of subsection (3), [section 18][22] applies, with all necessary modifications, as if the report had been prepared by the Committee.
+    
+    Section 24: inserted, on 26 September 2013, by [section 9][48] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
+
+##### 25 Remuneration of reviewers
+    
+*   (1) A reviewer is entitled---
+        
+    *   (a) to receive remuneration not within paragraph (b) for services as a reviewer at a rate and of a kind determined by the Attorney-General in accordance with the fees framework; and
+    
+    *   (b) in accordance with the fees framework, to be reimbursed for actual and reasonable travelling and other expenses incurred in carrying out his or her office as a reviewer.
+    
+    (2) For the purposes of subsection (1), _fees framework_ means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
+    
+    Section 25: inserted, on 26 September 2013, by [section 9][48] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
+
+##### 26 Provision of administrative and other support
+    
+*   (1) The Ministry of Justice is responsible for providing to the reviewers the administrative, secretarial, and other support necessary for the reviewers to conduct their review effectively and efficiently.
+    
+    (2) A person providing administrative, secretarial, or other support under subsection (1) must have an appropriate security clearance.
+    
+    Section 26: inserted, on 26 September 2013, by [section 9][48] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
+
+##### 27 Reviewers to determine own procedure
+    
+*   The reviewers may determine their own procedure subject to any matters specified under [section 22(3)(b)][27].
+    
+    Section 27: inserted, on 26 September 2013, by [section 9][48] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
 
 #### 
 
@@ -421,17 +569,19 @@ An Act to increase the level of oversight and review of intelligence and securit
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][33] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][34] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][49] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][50] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][35] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][36] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][51] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][52] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][28]
+*   [Intelligence and Security Committee Amendment Act 2013][53] (2013 No 59)
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][32]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][37]
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][47]
 
 
 
@@ -445,30 +595,47 @@ An Act to increase the level of oversight and review of intelligence and securit
 [7]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392266
 [8]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392267
 [9]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392268
-[10]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392269
-[11]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392270
-[12]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392271
-[13]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392272
-[14]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392273
-[15]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392274
-[16]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392275
-[17]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392276
-[18]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392277
-[19]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM2180208
-[20]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392279
-[21]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392280
-[22]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392281
-[23]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392282
-[24]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM391605
-[25]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM391803
-[26]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM2997643
-[27]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM2998573
-[28]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM2998633
-[29]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM392519
-[30]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM10992
-[31]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM314314
-[32]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM3360714
-[33]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM2998516
-[34]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM2998515
-[35]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM2998532
-[36]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[10]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM5648408
+[11]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392269
+[12]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392270
+[13]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392271
+[14]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392272
+[15]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392273
+[16]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392274
+[17]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392275
+[18]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392276
+[19]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392277
+[20]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM2180208
+[21]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392279
+[22]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392280
+[23]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392281
+[24]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM392282
+[25]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM5648419
+[26]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM5648420
+[27]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM5648421
+[28]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM5648423
+[29]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM5648424
+[30]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM5648425
+[31]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM5648427
+[32]: http://www.legislation.govt.nz/act/public/1996/0046/latest/whole.html#DLM5648428
+[33]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM391605
+[34]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM391803
+[35]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM2997643
+[36]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM2998573
+[37]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM2998633
+[38]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM392546
+[39]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM392519
+[40]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM5496020
+[41]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM5496021
+[42]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM5496003
+[43]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM5496023
+[44]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM10992
+[45]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM5496024
+[46]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM314314
+[47]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM3360714
+[48]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM5496004
+[49]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM2998516
+[50]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM2998515
+[51]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM2998532
+[52]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[53]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM5496015
