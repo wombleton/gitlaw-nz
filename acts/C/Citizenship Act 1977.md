@@ -159,7 +159,7 @@ An Act to make better provision with respect to the status of New Zealand citize
     
     _prescribed_ means prescribed by regulations made under this Act or by the Minister
     
-    _protected state_ means a State or territory that is declared by Her Majesty by Order in Council to be a protected state for the purposes of the British Nationality Act 1948 (UK); and includes the New Hebrides and Canton Island
+    _protected State_ means a State or territory that is declared by Her Majesty by Order in Council to be a protected State for the purposes of the British Nationality Act 1948 (UK); and includes the New Hebrides and Canton Island
     
     _protectorate_ means a State or territory that is declared by Her Majesty by Order in Council to be a protectorate for the purposes of the British Nationality Act 1948 (UK)
     
@@ -257,17 +257,17 @@ An Act to make better provision with respect to the status of New Zealand citize
     
     Compare: 1948 No 15 ss 2(2), 26, 27; 1959 No 38 s 9; 1969 No 18 [s 12(2)][62]
     
-    Section 3(1)(a): substituted, on 21 April 2005, by [section 4(1)][63] of the Citizenship Amendment Act 2005 (2005 No 43).
+    Section 3(1)(a): replaced, on 21 April 2005, by [section 4(1)][63] of the Citizenship Amendment Act 2005 (2005 No 43).
     
-    Section 3(2): substituted, on 18 November 1992, by [section 3][64] of the Citizenship Amendment Act 1992 (1992 No 104).
-    
-    Section 3(2) proviso: amended, on 10 December 2001, by [section 3(2)][65] of the Citizenship Amendment Act (No 2) 2001 (2001 No 95).
+    Section 3(2): replaced, on 18 November 1992, by [section 3][64] of the Citizenship Amendment Act 1992 (1992 No 104).
     
     Section 3(2)(aa): inserted, on 10 December 2001, by [section 3(1)][65] of the Citizenship Amendment Act (No 2) 2001 (2001 No 95).
     
     Section 3(2)(b)(ii): amended, on 1 January 1999, by [section 29(1)][66] of the Adoption (Intercountry) Act 1997 (1997 No 109).
     
     Section 3(2)(ba): inserted, on 1 January 1999, by [section 29(1)][66] of the Adoption (Intercountry) Act 1997 (1997 No 109).
+    
+    Section 3(2) proviso: amended, on 10 December 2001, by [section 3(2)][65] of the Citizenship Amendment Act (No 2) 2001 (2001 No 95).
     
     Section 3(2A): inserted, on 18 November 1992 by [section 3][64] of the Citizenship Amendment Act 1992 (1992 No 104).
     
@@ -279,7 +279,7 @@ An Act to make better provision with respect to the status of New Zealand citize
     
     Section 3(5A): inserted, on 21 April 2005, by [section 4(3)][63] of the Citizenship Amendment Act 2005 (2005 No 43).
     
-    Section 3(6): added, on 1 January 1999, by [section 29(2)][66] of the Adoption (Intercountry) Act 1997 (1997 No 109).
+    Section 3(6): inserted, on 1 January 1999, by [section 29(2)][66] of the Adoption (Intercountry) Act 1997 (1997 No 109).
 
 ##### 4 Administration of Act
     
@@ -316,7 +316,7 @@ New Zealand citizenship
         
     *   (a) the person was born in New Zealand on or after l January 1949 and before 1 January 2006; or
     
-    *   (b) the person was born in New Zealand on or after 1 January 2006, and, at the time of the person's birth, at least 1 of the person's parents was---
+    *   (b) the person was born in New Zealand on or after 1 January 2006, and, at the time of the person's birth, at least one of the person's parents was---
             
         *   (i) a New Zealand citizen; or
         
@@ -338,7 +338,7 @@ New Zealand citizenship
             
         *   (i) the person, having recently been born, has been found abandoned in New Zealand; and
         
-        *   (ii) investigations have failed to establish the identity of at least 1 of the person's parents.
+        *   (ii) investigations have failed to establish the identity of at least one of the person's parents.
         
         
     
@@ -376,23 +376,23 @@ New Zealand citizenship
     
     Compare: 1948 No 15 s 6
     
-    Section 6(1): substituted, on 21 April 2005, by [section 5(1)][73] of the Citizenship Amendment Act 2005 (2005 No 43).
+    Section 6(1): replaced, on 21 April 2005, by [section 5(1)][73] of the Citizenship Amendment Act 2005 (2005 No 43).
     
     Section 6(1)(b)(ii): amended, at 2 am on 29 November 2010, by [section 406(1)][67] of the Immigration Act 2009 (2009 No 51).
     
-    Section 6(3): substituted, on 21 April 2005, by [section 5(2)][73] of the Citizenship Amendment Act 2005 (2005 No 43).
+    Section 6(3): replaced, on 21 April 2005, by [section 5(2)][73] of the Citizenship Amendment Act 2005 (2005 No 43).
     
-    Section 6(4): substituted, on 18 November 1992, by [section 4(1)][74] of the Citizenship Amendment Act 1992 (1992 No 104).
+    Section 6(4): replaced, on 18 November 1992, by [section 4(1)][74] of the Citizenship Amendment Act 1992 (1992 No 104).
     
     Section 6(4)(b)(i): amended, on 1 July 1993, pursuant to [section 2(3)][75] of the Foreign Affairs Amendment Act 1993 (1993 No 48).
     
     Section 6(4)(b)(iia): inserted, on 10 December 2001, by [section 4][76] of the Citizenship Amendment Act (No 2) 2001 (2001 No 95).
     
-    Section 6(4)(b)(iii): substituted, on 1 July 2003, by [section 84][77] of the New Zealand Trade and Enterprise Act 2003 (2003 No 27).
+    Section 6(4)(b)(iii): replaced, on 1 July 2003, by [section 84][77] of the New Zealand Trade and Enterprise Act 2003 (2003 No 27).
     
-    Sections 6(5): added, on 21 April 2005, by [section 5(3)][73] of the Citizenship Amendment Act 2005 (2005 No 43).
+    Sections 6(5): inserted, on 21 April 2005, by [section 5(3)][73] of the Citizenship Amendment Act 2005 (2005 No 43).
     
-    Sections 6(6): added, on 21 April 2005, by [section 5(3)][73] of the Citizenship Amendment Act 2005 (2005 No 43).
+    Sections 6(6): inserted, on 21 April 2005, by [section 5(3)][73] of the Citizenship Amendment Act 2005 (2005 No 43).
     
     Section 6(6)(b): amended, at 2 am on 29 November 2010, by [section 406(1)][67] of the Immigration Act 2009 (2009 No 51).
 
@@ -412,13 +412,13 @@ New Zealand citizenship
     
     Compare: 1948 No 15 s 7
     
-    Section 7(1): substituted, on 21 April 2005, by [section 6][79] of the Citizenship Amendment Act 2005 (2005 No 43).
+    Section 7(1): replaced, on 21 April 2005, by [section 6][79] of the Citizenship Amendment Act 2005 (2005 No 43).
     
-    Section 7(2): substituted, on 10 December 2001, by [section 5][80] of the Citizenship Amendment Act (No 2) 2001 (2001 No 95).
+    Section 7(2): replaced, on 10 December 2001, by [section 5][80] of the Citizenship Amendment Act (No 2) 2001 (2001 No 95).
     
-    Section 7(3): added, on 18 November 1992, by [section 5][81] of the Citizenship Amendment Act 1992 (1992 No 104).
+    Section 7(3): inserted, on 18 November 1992, by [section 5][81] of the Citizenship Amendment Act 1992 (1992 No 104).
     
-    Section 7(4): added, on 8 April 2000, by [section 3(2)][82] of the Citizenship Amendment Act 2000 (2000 No 9).
+    Section 7(4): inserted, on 8 April 2000, by [section 3(2)][82] of the Citizenship Amendment Act 2000 (2000 No 9).
 
 ##### 8 Citizenship by grant
     
@@ -514,13 +514,13 @@ New Zealand citizenship
     
     *   (b) the Minister may treat an applicant as intending to continue to reside in New Zealand if the applicant intends to accompany his or her New Zealand citizen spouse or civil union or de facto partner on Crown service for the New Zealand Government or public service for the Government of the Cook Islands, Niue, or Tokelau.
     
-    Section 8: substituted, on 21 April 2005, by [section 7][83] of the Citizenship Amendment Act 2005 (2005 No 43).
+    Section 8: replaced, on 21 April 2005, by [section 7][83] of the Citizenship Amendment Act 2005 (2005 No 43).
     
     Section 8(2)(a): amended, at 2 am on 29 November 2010, by [section 406(1)][67] of the Immigration Act 2009 (2009 No 51).
     
-    Section 8(2)(b)(ii): amended, at 2 am on 29 November 2010, by [section 406(1)][67] of the Immigration Act 2009 (2009 No 51).
+    Section 8(2)(b): amended, at 2 am on 29 November 2010, by [section 406(1)][67] of the Immigration Act 2009 (2009 No 51).
     
-    Section 8(3)(a): substituted, at 2 am on 29 November 2010, by [section 406(1)][67] of the Immigration Act 2009 (2009 No 51).
+    Section 8(3)(a): replaced, at 2 am on 29 November 2010, by [section 406(1)][67] of the Immigration Act 2009 (2009 No 51).
     
     Section 8(3)(b): amended, at 2 am on 29 November 2010, by [section 406(1)][67] of the Immigration Act 2009 (2009 No 51).
     
@@ -550,7 +550,7 @@ New Zealand citizenship
     
     *   (b) must have regard to the requirements of [section 9A(1)][15] (but subject to the Minister's discretion under section 9A(2) and (3)).
     
-    Section 9: substituted, on 21 April 2005, by [section 7][83] of the Citizenship Amendment Act 2005 (2005 No 43).
+    Section 9: replaced, on 21 April 2005, by [section 7][83] of the Citizenship Amendment Act 2005 (2005 No 43).
 
 ##### 9A Disqualifying convictions
     
@@ -586,7 +586,7 @@ New Zealand citizenship
     
     (2) This section does not apply to a person who has previously been deprived of New Zealand citizenship by order under [section 16][25] or [section 17][26], or renounced his or her citizenship under [section 15][24].
     
-    Section 10(2): added, on 10 December 2001, by [section 8][85] of the Citizenship Amendment Act (No 2) 2001 (2001 No 95).
+    Section 10(2): inserted, on 10 December 2001, by [section 8][85] of the Citizenship Amendment Act (No 2) 2001 (2001 No 95).
 
 ##### 11 Minister may require oath or affirmation of allegiance to be taken
     
@@ -594,7 +594,7 @@ New Zealand citizenship
     
     (2) Unless the Minister agrees otherwise, the oath or affirmation must be taken or made at a public citizenship ceremony.
     
-    Section 11: substituted, on 21 April 2005, by [section 8][86] of the Citizenship Amendment Act 2005 (2005 No 43).
+    Section 11: replaced, on 21 April 2005, by [section 8][86] of the Citizenship Amendment Act 2005 (2005 No 43).
 
 ##### 12 Certificate of New Zealand citizenship
     
@@ -604,7 +604,7 @@ New Zealand citizenship
     
     (3) Where a certificate of New Zealand citizenship is issued to a person who is a New Zealand citizen by descent, he shall cease to have that status as from the specified date.
     
-    (4) For the purposes of subsections (2) and (3) the specified date shall be---
+    (4) For the purposes of subsections (2) and (3) the _specified date_ shall be---
         
     *   (a) in the case of a person required under [section 11][18] to take an oath of allegiance, the date on which he takes that oath or makes an affirmation to the same effect:
     
@@ -628,7 +628,7 @@ New Zealand citizenship
     
     (4) A person shall not be a New Zealand citizen by virtue of subsection (3) if that person's relevant parent was a New Zealand citizen by descent only, unless---
         
-    *   (a) that person or his relevant parent was born in a protectorate, protected state, mandated territory, or trust territory, or any place in a foreign country where by treaty, capitulation, grant, usage, sufferance, or other lawful means Her Majesty then had jurisdiction over British subjects; or
+    *   (a) that person or his relevant parent was born in a protectorate, protected State, mandated territory, or trust territory, or any place in a foreign country where by treaty, capitulation, grant, usage, sufferance, or other lawful means Her Majesty then had jurisdiction over British subjects; or
     
     *   (b) in the case of a person born in a place other than a place mentioned in paragraph (a), his birth or citizenship by descent is registered, in accordance with regulations made under this Act, before that person has attained the age of 16 years; or
     
@@ -668,7 +668,7 @@ New Zealand citizenship
     
     Section 15(3)(a): amended, on 21 April 2005, by [section 9][89] of the Citizenship Amendment Act 2005 (2005 No 43).
     
-    Section 15(4): added, on 10 December 2001, by [section 9][90] of the Citizenship Amendment Act (No 2) 2001 (2001 No 95).
+    Section 15(4): inserted, on 10 December 2001, by [section 9][90] of the Citizenship Amendment Act (No 2) 2001 (2001 No 95).
 
 ##### 16 Deprivation of New Zealand citizenship in special cases
     
@@ -708,7 +708,7 @@ New Zealand citizenship
     
     Section 17(2): amended, on 21 April 2005, by [section 11(1)][94] of the Citizenship Amendment Act 2005 (2005 No 43).
     
-    Section 17(3): added, on 21 April 2005, by [section 11(2)][94] of the Citizenship Amendment Act 2005 (2005 No 43).
+    Section 17(3): inserted, on 21 April 2005, by [section 11(2)][94] of the Citizenship Amendment Act 2005 (2005 No 43).
 
 ##### 18 Effect of order
     
@@ -752,7 +752,7 @@ New Zealand citizenship
     
     Section 19(5): repealed, on 15 August 1991, by [section 3(4)][96] of the Judicature Amendment Act 1991 (1991 No 60).
     
-    Section 19(9): added, on 15 August 1991, by [section 3(4)][96] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 19(9): inserted, on 15 August 1991, by [section 3(4)][96] of the Judicature Amendment Act 1991 (1991 No 60).
 
 ##### 20 Saving of obligations incurred before loss of citizenship, etc
     
@@ -770,7 +770,7 @@ New Zealand citizenship
     
     (3) A certificate issued under this section shall, unless it is proved that the issue of the certificate was procured by fraud, false representation, or the wilful concealment of relevant information, or was the result of administrative error, be evidence that the person named in the certificate was or was not, on the date on which the certificate was issued, a New Zealand citizen, but without prejudice to any evidence that he or she was or was not a New Zealand citizen at an earlier date.
     
-    Section 21: substituted, on 18 November 1992, by [section 10][97] of the Citizenship Amendment Act 1992 (1992 No 104).
+    Section 21: replaced, on 18 November 1992, by [section 10][97] of the Citizenship Amendment Act 1992 (1992 No 104).
 
 ##### 22 Minister may delegate functions and powers to overseas representatives
     
@@ -801,7 +801,7 @@ Miscellaneous provisions
     
     Compare: 1948 No 28 s 3
     
-    Section 23(2)(c): substituted, on 25 August 2005, by [section 75][99] of the Overseas Investment Act 2005 (2005 No 82).
+    Section 23(2)(c): replaced, on 25 August 2005, by [section 75][99] of the Overseas Investment Act 2005 (2005 No 82).
 
 ##### 24 General provisions as to certificates and other documents
     
@@ -919,7 +919,7 @@ Miscellaneous provisions
     
     *   (c) issues a citizenship document to a person who has no lawful entitlement to the document.
     
-    Section 27: substituted, on 21 April 2005, by [section 14][111] of the Citizenship Amendment Act 2005 (2005 No 43).
+    Section 27: replaced, on 21 April 2005, by [section 14][111] of the Citizenship Amendment Act 2005 (2005 No 43).
     
     Section 27(1): amended, on 1 July 2013, by [section 413][112] of the Criminal Procedure Act 2011 (2011 No 81).
     
@@ -941,9 +941,9 @@ Miscellaneous provisions
     
     *   (f) providing for the registration, by officers in the service of the New Zealand Government,---
             
-        *   (i) of the births and deaths of persons of any class or description born or dying in any Commonwealth country, or in a protected state, or in any foreign country:
+        *   (i) of the births and deaths of persons of any class or description born or dying in any Commonwealth country, or in a protected State, or in any foreign country:
         
-        *   (ii) of citizenship by descent of persons born in any Commonwealth country, or in a protected state, or in any foreign country:
+        *   (ii) of citizenship by descent of persons born in any Commonwealth country, or in a protected State, or in any foreign country:
         
         
     
@@ -997,11 +997,11 @@ Miscellaneous provisions
     
     (2) Every fee prescribed by or under regulations made under this section shall be reasonable, having regard to the costs and expenses incurred and borne by or on behalf of the Secretary in respect of the matter for which the fee is payable.
     
-    Section 28(1)(f): substituted, on 18 November 1992, by [section 12(1)][113] of the Citizenship Amendment Act 1992 (1992 No 104).
+    Section 28(1)(f): replaced, on 18 November 1992, by [section 12(1)][113] of the Citizenship Amendment Act 1992 (1992 No 104).
     
-    Section 28(1)(g): substituted, on 18 November 1992, by [section 12(1)][113] of the Citizenship Amendment Act 1992 (1992 No 104).
+    Section 28(1)(g): replaced, on 18 November 1992, by [section 12(1)][113] of the Citizenship Amendment Act 1992 (1992 No 104).
     
-    Section 28(1)(h): substituted, on 1 April 1987, by [section 25(1)][114] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 28(1)(h): replaced, on 1 April 1987, by [section 25(1)][114] of the Official Information Amendment Act 1987 (1987 No 8).
     
     Section 28(1)(i): amended, on 18 November 1992, by [section 12(2)][113] of the Citizenship Amendment Act 1992 (1992 No 104).
     
@@ -1011,7 +1011,7 @@ Miscellaneous provisions
     
     Section 28(1)(j): repealed, on 1 September 1995, by [section 96][115] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
     
-    Section 28(2): added, on 18 November 1992, by [section 12(4)][113] of the Citizenship Amendment Act 1992 (1992 No 104).
+    Section 28(2): inserted, on 18 November 1992, by [section 12(4)][113] of the Citizenship Amendment Act 1992 (1992 No 104).
 
 ##### 29 Application of Act to Cook Islands, Niue, and Tokelau
     
@@ -1040,11 +1040,11 @@ Oath of allegiance
 
 [s 11][18]
 
-*   Schedule 1: substituted, on 14 December 1979, by section 2 of the Citizenship Amendment Act 1979 (1979 No 80).
+*   Schedule 1: replaced, on 14 December 1979, by section 2 of the Citizenship Amendment Act 1979 (1979 No 80).
 
 I, \[_full name_\], swear that I will be faithful and bear true allegiance to Her (_or_ His) Majesty \[_specify the name of the reigning Sovereign, as thus_: Queen Elizabeth the Second, Queen of New Zealand,\] Her (_or_ His) heirs and successors, according to law, and that I will faithfully observe the laws of New Zealand and fulfil my duties as a New Zealand citizen.
 
-So help me God. 
+So help me God.
 
 ---
 
@@ -1113,7 +1113,7 @@ Disclosure of information to specified agencies
 
 [s 26A][38]
 
-*   Schedule 4: added, on 27 September 2001, by [section 4][121] of the Citizenship Amendment Act 2001 (2001 No 58).
+*   Schedule 4: inserted, on 27 September 2001, by [section 4][121] of the Citizenship Amendment Act 2001 (2001 No 58).
 
 **Specified agency** **Purpose**
 
@@ -1155,34 +1155,9 @@ To verify and update student information on the National Student Index
 
 *   Schedule 4: amended, on 24 January 2009, by [section 47][107] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 *   Schedule 4: amended, on 21 April 2005, by [section 15][122] of the Citizenship Amendment Act 2005 (2005 No 43).
-*   Schedule 4: amended, on 19 December 2002, by [section 3(1)][123] of the Citizenship Amendment Act 2002 (2002 No 62).
-*   Schedule 4: amended, on 19 December 2002, by [section 3(2)][123] of the Citizenship Amendment Act 2002 (2002 No 62).
-*   Schedule 4: amended, on 1 October 2001, pursuant to [section 13(1)][124] of the State Sector Amendment Act 2003 (2003 No 41).
-
----
-
-# Citizenship Amendment Act (No 2) 2001Public Act2001 No 95
-
-Date of assent9 December 2001
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   (1) This Act is the Citizenship Amendment Act (No 2) 2001\.
-    
-    (2) In this Act, the Citizenship Act 1977 is called "the principal Act".
-
-##### 2 Commencement
-    
-*   This Act comes into force on the day after the date on which it receives the Royal assent.
-
-## Part 2  
-Reinstatement of lapsed citizenship
-
-##### 10 Reinstatement of lapsed citizenship by descent
-    
-*   The citizenship of any New Zealand citizen by descent that has lapsed under section 7(2) of the principal Act before the commencement of this Act is reinstated with effect from the time it lapsed.
+*   Schedule 4: amended (with effect on 1 October 2001), on 2 August 2003, pursuant to [section 13(1)][123] of the State Sector Amendment Act 2003 (2003 No 41).
+*   Schedule 4: amended, on 19 December 2002, by [section 3(1)][124] of the Citizenship Amendment Act 2002 (2002 No 62).
+*   Schedule 4: amended, on 19 December 2002, by [section 3(2)][124] of the Citizenship Amendment Act 2002 (2002 No 62).
 
 ---
 
@@ -1236,9 +1211,9 @@ Commencementsee section 2
     
     _new_, in relation to any section or provision, means the relevant section or provision of the principal Act as substituted by section 7 of this Act.
     
-    Section 17(2)(d)(i): substituted, at 2 am on 29 November 2010, by [section 406(1)][67] of the Immigration Act 2009 (2009 No 51).
+    Section 17(2)(d)(i): replaced, at 2 am on 29 November 2010, by [section 406(1)][67] of the Immigration Act 2009 (2009 No 51).
     
-    Section 17(3)(b): substituted, at 2 am on 29 November 2010, by [section 406(1)][67] of the Immigration Act 2009 (2009 No 51).
+    Section 17(3)(b): replaced, at 2 am on 29 November 2010, by [section 406(1)][67] of the Immigration Act 2009 (2009 No 51).
 
 ---
 
@@ -1317,7 +1292,7 @@ Commencementsee section 2
     
     State Sector Amendment Act (No 2) 2004 (2004 No 114): [section 19(1)][52]
     
-    State Sector Amendment Act 2003 (2003 No 41): [section 13(1)][124]
+    State Sector Amendment Act 2003 (2003 No 41): [section 13(1)][123]
     
     New Zealand Trade and Enterprises Act 2003 (2003 No 27): [section 84][77]
     
@@ -1474,8 +1449,8 @@ Commencementsee section 2
 [120]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM336804
 [121]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM110991
 [122]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM346763
-[123]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM167883
-[124]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM201377
+[123]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM201377
+[124]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM167883
 [125]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM346733
 [126]: http://www.pco.parliament.govt.nz/reprints/
 [127]: http://www.legislation.govt.nz/act/public/1977/0061/latest/link.aspx?id=DLM195439
