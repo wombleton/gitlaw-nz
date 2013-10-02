@@ -7,7 +7,7 @@ as at 1 July 2013
 
 Date of assent21 January 1981
 
-Commencementsee section 1(2), (3)
+Commencementsee section 1
 
 ---
 
@@ -100,7 +100,7 @@ An Act to establish Family Courts as divisions of District Courts, and to provid
     
     _Family Courts Rules_ means the rules made under [section 16A][22].
     
-    Section 2: substituted, on 13 September 2002, by [section 3][29] of the Family Courts Amendment Act 2000 (2000 No 65).
+    Section 2: replaced, on 13 September 2002, by [section 3][29] of the Family Courts Amendment Act 2000 (2000 No 65).
 
 ##### 3 Act to bind the Crown
     
@@ -144,7 +144,7 @@ An Act to establish Family Courts as divisions of District Courts, and to provid
     
     (7) The Principal Family Court Judge is responsible for ensuring the orderly and expeditious discharge of the business of the court in consultation with the Chief District Court Judge.
     
-    Section 6: substituted, on 20 May 2004, by [section 3][30] of the Family Courts Amendment Act 2004 (2004 No 44).
+    Section 6: replaced, on 20 May 2004, by [section 3][30] of the Family Courts Amendment Act 2004 (2004 No 44).
 
 ##### 7 Acting Family Court Judges
     
@@ -182,7 +182,7 @@ An Act to establish Family Courts as divisions of District Courts, and to provid
     
     (6) This section shall be read subject to [section 9][37] of the District Courts Act 1947\.
     
-    Section 9(6): added, on 2 September 1996, by section 3(2) of the District Courts Amendment Act 1996 (1996 No 119).
+    Section 9(6): inserted, on 2 September 1996, by section 3(2) of the District Courts Amendment Act 1996 (1996 No 119).
 
 ##### 10 Avoidance of unnecessary formality
     
@@ -192,9 +192,9 @@ An Act to establish Family Courts as divisions of District Courts, and to provid
     
     (3) A lawyer appearing in a Family Court must not wear a gown or a wig.
     
-    Section 10(2): substituted, on 18 May 2009, by [section 6][38] of the Family Courts Amendment Act 2008 (2008 No 78).
+    Section 10(2): replaced, on 18 May 2009, by [section 6][38] of the Family Courts Amendment Act 2008 (2008 No 78).
     
-    Section 10(3): added, on 18 May 2009, by [section 6][38] of the Family Courts Amendment Act 2008 (2008 No 78).
+    Section 10(3): inserted, on 18 May 2009, by [section 6][38] of the Family Courts Amendment Act 2008 (2008 No 78).
 
 ##### 11 Jurisdiction of Family Courts
     
@@ -234,9 +234,9 @@ An Act to establish Family Courts as divisions of District Courts, and to provid
     
     Section 11(1)(c): amended, on 1 July 2005, by [section 151][51] of the Care of Children Act 2004 (2004 No 90).
     
-    Section 11(1)(e): substituted, on 1 February 2002, by [section 64(2)][52] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 11(1)(e): replaced, on 1 February 2002, by [section 64(2)][52] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
-    Section 11(1)(g): substituted, on 1 July 1992, by [section 247][53] of the Child Support Act 1991 (1991 No 142).
+    Section 11(1)(g): replaced, on 1 July 1992, by [section 247][53] of the Child Support Act 1991 (1991 No 142).
     
     Section 11(1)(ga): inserted, on 1 November 1989, by [section 449][54] of the Children, Young Persons, and Their Families Act 1989 (1989 No 24).
     
@@ -402,7 +402,7 @@ An Act to establish Family Courts as divisions of District Courts, and to provid
     
 *   While any Family Courts Rules are in force, all proceedings in a Family Court (and all proceedings in a District Court under [section 15][67] of this Act or [section 151][68] of the Children, Young Persons, and Their Families Act 1989) must be brought and dealt with under those rules, except to the extent that the Act under which the proceedings are brought provides for them to be brought or dealt with under some other enactment.
     
-    Section 12: substituted, on 13 September 2002, by [section 4][69] of the Family Courts Amendment Act 2000 (2000 No 65).
+    Section 12: replaced, on 13 September 2002, by [section 4][69] of the Family Courts Amendment Act 2000 (2000 No 65).
 
 ##### 13 Court may state case for High Court
     
@@ -442,7 +442,7 @@ An Act to establish Family Courts as divisions of District Courts, and to provid
     
     Section 16(3): amended, on 2 September 1996, by section 3(3) of the District Courts Amendment Act 1996 (1996 No 119).
     
-    Section 16(4): added, on 24 November 2003, by [section 4][72] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 16(4): inserted, on 24 November 2003, by [section 4][72] of the District Courts Amendment Act 2002 (2002 No 63).
     
     Section 16(4): amended, on 1 July 2013, by [section 413][58] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -621,21 +621,17 @@ _Amendment(s) incorporated in the [Act(s)][80]._
 
 _Amendment(s) incorporated in the [Act(s)][42]._
 
-##### Interpretation Act 1999 (1999 No 85)
-
-_Amendment(s) incorporated in the [Act(s)][81]._
-
 ##### Marriage Act 1955 (1955 No 92) (RS Vol 9, p 365)
 
 _Amendment(s) incorporated in the [Act(s)][39]._
 
-##### Matrimonial Property Act 1976 (1976 No 166) (RS Vol 26, p 491)
+##### Matrimonial Property Act 1976 (1976 No 166)
 
 _Amendment(s) incorporated in the [Act(s)][43]._
 
 ##### Social Security Act 1964 (1964 No 136)
 
-_Amendment(s) incorporated in the [Act(s)][82]._
+_Amendment(s) incorporated in the [Act(s)][81]._
 
 ---
 
@@ -655,21 +651,21 @@ _Amendment(s) incorporated in the [Act(s)][82]._
     
 *   This is a reprint of the Family Courts Act 1980\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][83] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][82] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][84] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][83] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][85] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][84] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][86] and [17E][87] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][85] and [17E][86] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -698,15 +694,15 @@ _Amendment(s) incorporated in the [Act(s)][82]._
     
     
 
-###### 5 List of amendments incorporated in this eprint (most recent first)
+###### 5 List of amendments incorporated in this reprint (most recent first)
     
 *   Criminal Procedure Act 2011 (2011 No 81): [section 413][58]
     
-    [Family Courts Amendment Act 2008][88] (2008 No 78)
+    [Family Courts Amendment Act 2008][87] (2008 No 78)
     
     Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][76]
     
-    [Family Courts Amendment Act 2007][89] (2007 No 56)
+    [Family Courts Amendment Act 2007][88] (2007 No 56)
     
     Wills Act 2007 (2007 No 36): [section 41][55]
     
@@ -714,19 +710,21 @@ _Amendment(s) incorporated in the [Act(s)][82]._
     
     Care of Children Act 2004 (2004 No 90): [section 151][51]
     
-    [Family Courts Amendment Act 2004][90] (2004 No 44)
+    [Family Courts Amendment Act 2004][89] (2004 No 44)
     
     State Sector Amendment Act 2003 (2003 No 41): [section 14][35]
     
     District Courts Amendment Act 2002 (2002 No 63): [section 4][72]
     
-    Property (Relationships) Amendment Act 2001 (2001 No 5): [section 64(1), (2), (7)(b)][52]
+    Property (Relationships) Amendment Act 2001 (2001 No 5): [section 64(2)][52]
     
-    [Family Courts Amendment Act 2000][91] (2000 No 65)
+    [Family Courts Amendment Act 2000][90] (2000 No 65)
     
     District Courts Amendment Act 1996 (1996 No 119): section 3(2), (3)
     
     Child Support Act 1991 (1991 No 142): [section 247][53]
+    
+    Family Courts Amendment Act 1991 (1991 No 66): section 2(1)
     
     Children, Young Persons, and Their Families Act 1989 (1989 No 24): [section 449][54]
     
@@ -801,7 +799,7 @@ _Amendment(s) incorporated in the [Act(s)][82]._
 [64]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM364150
 [65]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM224577
 [66]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM371925
-[67]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM149467
+[67]: http://www.legislation.govt.nz/act/public/1980/0161/latest/whole.html#DLM149467
 [68]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM151058
 [69]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM76827
 [70]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM243255
@@ -815,14 +813,13 @@ _Amendment(s) incorporated in the [Act(s)][82]._
 [78]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM1302221
 [79]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM292666
 [80]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM81033
-[81]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM1325500
-[82]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM359106
-[83]: http://www.pco.parliament.govt.nz/reprints/
-[84]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM195439
-[85]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[86]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM195468
-[87]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM195470
-[88]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM1302200
-[89]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM968261
-[90]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM294310
-[91]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM76812
+[81]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM359106
+[82]: http://www.pco.parliament.govt.nz/reprints/
+[83]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM195439
+[84]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[85]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM195468
+[86]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM195470
+[87]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM1302200
+[88]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM968261
+[89]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM294310
+[90]: http://www.legislation.govt.nz/act/public/1980/0161/latest/link.aspx?id=DLM76812
