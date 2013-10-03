@@ -655,7 +655,7 @@ General provisions
     
     *   (m) the Transport Accident Investigation Commission established by [section 3][188] of the Transport Accident Investigation Commission Act 1990:
     
-    *   (n) a Royal Commission, or a commission of inquiry appointed by an Order in Council made under the [Commissions of Inquiry Act 1908][189], or a commission of inquiry or board of inquiry or court of inquiry or committee of inquiry appointed, pursuant to, or by, any provision of an Act:Inquiries Act 2013:
+    *   (n) a Royal Commission, or a commission of inquiry appointed by an Order in Council made under the [Commissions of Inquiry Act 1908][189], or a commission of inquiry or board of inquiry or court of inquiry or committee of inquiry appointed, pursuant to, or by, any provision of an Act:
     
     *   (o) an inquiry to which [section 6][190] of the Inquiries Act 2013 applies
     
