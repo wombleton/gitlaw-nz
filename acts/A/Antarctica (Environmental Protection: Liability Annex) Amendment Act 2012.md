@@ -1,3 +1,6 @@
+Reprint  
+as at 4 October 2013
+
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Antarctica (Environmental Protection: Liability Annex) Amendment Act 2012Public Act2012 No 95
@@ -6,47 +9,59 @@ Date of assent11 December 2012
 
 Commencementsee section 2
 
+---
+
+###### Note
+
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
+
+This Act is administered by the Ministry of Foreign Affairs and Trade.
+
+---
+
 ## Contents
 
-[1 ][0][][0][Title][0]
+[1 ][1][][1][Title][1]
 
-[2 ][1][][1][Commencement][1]
+[2 ][2][][2][Commencement][2]
 
-[3 ][2][][2][Principal Act amended][2]
+[3 ][3][][3][Principal Act amended][3]
 
-[4 ][3][][3][Consent of Attorney-General required for certain proceedings][3]
+[4 ][4][][4][Consent of Attorney-General required for certain proceedings][4]
 
-[5 ][4][][4][New Part 5A inserted][4]
+[5 ][5][][5][New Part 5A inserted][5]
 
-[Part 5A][5]  
-[Liability for environmental emergencies][5]
+[Part 5A][6]  
+[Liability for environmental emergencies][6]
 
-[Preliminary provisions][6]
+[Preliminary provisions][7]
 
-[37A][7][][7][Purpose of Part][7]
+[37A][8][][8][Purpose of Part][8]
 
-[37B][8][][8][Interpretation for this Part][8]
+[37B][9][][9][Interpretation for this Part][9]
 
-[Responding to environmental emergencies][9]
+[Responding to environmental emergencies][10]
 
-[37C][10][][10][New Zealand operators to give notice of environmental emergencies][10]
+[37C][11][][11][New Zealand operators to give notice of environmental emergencies][11]
 
-[37D][11][][11][New Zealand operators to take response action][11]
+[37D][12][][12][New Zealand operators to take response action][12]
 
-[Civil liability for failure to take response action][12]
+[Civil liability for failure to take response action][13]
 
-[37E][13][][13][Recovery of cost of response action taken by others][13]
+[37E][14][][14][Recovery of cost of response action taken by others][14]
 
-[37F][14][][14][Order to pay money where no response action taken][14]
+[37F][15][][15][Order to pay money where no response action taken][15]
 
-[37G][15][][15][Exemptions from liability][15]
+[37G][16][][16][Exemptions from liability][16]
 
-[37H][16][][16][Limits on amount of liability][16]
+[37H][17][][17][Limits on amount of liability][17]
 
-[37I][17][][17][Joint and several liability][17]
+[37I][18][][18][Joint and several liability][18]
 
-[Schedule][18]  
-[Annex VI added to Schedule 2][18]
+[Schedule][19]  
+[Annex VI added to Schedule 2][19]
 
 ---
 
@@ -62,13 +77,13 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 3 Principal Act amended
     
-*   This Act amends the [Antarctica (Environmental Protection) Act 1994][19].
+*   This Act amends the [Antarctica (Environmental Protection) Act 1994][20].
 
 ##### 4 Consent of Attorney-General required for certain proceedings
     
-*   (1) [Section 6(1)][20] is amended by inserting ""but subject to subsection (3),"" after ""any other enactment,"".
+*   (1) [Section 6(1)][21] is amended by inserting ""but subject to subsection (3),"" after ""any other enactment,"".
     
-    (2) [Section 6][20] is amended by adding the following subsection:
+    (2) [Section 6][21] is amended by adding the following subsection:
     
     > *   "(3) Subsection (1) does not apply to proceedings under sections 37E and 37F."
     > 
@@ -78,7 +93,7 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 5 New Part 5A inserted
     
-*   (1) The following Part is inserted after [section 37][21]:
+*   (1) The following Part is inserted after [section 37][22]:
     
     > ## "Part 5A  
     > "Liability for environmental emergencies
@@ -159,7 +174,7 @@ The Parliament of New Zealand enacts as follows:
     >     
     > *   "(1) A New Zealand operator whose activities give rise to an environmental emergency, or who discovers an environmental emergency, must immediately notify the Ministry of the emergency.
     >     
-    >     "(2) A New Zealand operator who, knowing that the operator's activities have given rise to an environmental emergency, fails to comply with subsection (1) commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 12 months, a fine not exceeding $100,000, or both. 
+    >     "(2) A New Zealand operator who, knowing that the operator's activities have given rise to an environmental emergency, fails to comply with subsection (1) commits an offence and is liable on conviction to imprisonment for a term not exceeding 12 months, a fine not exceeding $100,000, or both. 
     >     
     >     "(3) For the purposes of this section,---
     >         
@@ -173,7 +188,7 @@ The Parliament of New Zealand enacts as follows:
     >     
     > *   "(1) A New Zealand operator whose activities give rise to an environmental emergency must take prompt and effective response action.
     >     
-    >     "(2) A New Zealand operator who, knowing that, or being reckless as to whether, the operator's activities have given rise to an environmental emergency, fails to take prompt and effective response action commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 2 years, a fine not exceeding $200,000, or both. 
+    >     "(2) A New Zealand operator who, knowing that, or being reckless as to whether, the operator's activities have given rise to an environmental emergency, fails to take prompt and effective response action commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years, a fine not exceeding $200,000, or both. 
     >     
     >     "(3) However, a New Zealand operator is not liable to conviction under this section if the environmental emergency, or the failure to take prompt and effective response action, was a result of any of the circumstances described in section 37G(1)(a) to (d). 
     >     
@@ -277,14 +292,16 @@ The Parliament of New Zealand enacts as follows:
     > 
     > 
     
-    (2) Schedule 2, which sets out the Protocol on Environmental Protection to the Antarctic Treaty, is amended by adding Annex VI, as set out in the [Schedule][18].
+    (2) Schedule 2, which sets out the Protocol on Environmental Protection to the Antarctic Treaty, is amended by adding Annex VI, as set out in the [Schedule][19].
+    
+    Section 5(1): amended, on 4 October 2013, by [regulation 3(1)][23] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ---
 
 ## Schedule  
 Annex VI added to Schedule 2
 
-[s 5(2)][4]
+[s 5(2)][5]
 
 ## Annex VI to the Protocol on Environmental Protection to the Antarctic Treaty
 
@@ -308,11 +325,11 @@ _Having regard_ to Article IV of the Antarctic Treaty and Article 8 of the Proto
 
 **Have agreed** as follows:
 
-### Article 1 Scope
+### Article 1---Scope
 
 This Annex shall apply to environmental emergencies in the Antarctic Treaty area which relate to scientific research programmes, tourism and all other governmental and non-governmental activities in the Antarctic Treaty area for which advance notice is required under Article VII(5) of the Antarctic Treaty, including associated logistic support activities. Measures and plans for preventing and responding to such emergencies are also included in this Annex. It shall apply to all tourist vessels that enter the Antarctic Treaty area. It shall also apply to environmental emergencies in the Antarctic Treaty area which relate to other vessels and activities as may be decided in accordance with Article 13\.
 
-### Article 2 Definitions
+### Article 2---Definitions
 
 For the purposes of this Annex:
     
@@ -344,7 +361,7 @@ For the purposes of this Annex:
 
 *   (g) ""The Parties"" means the States for which this Annex has become effective in accordance with Article 9 of the Protocol.
 
-### Article 3 Preventative Measures
+### Article 3---Preventative Measures
     
 *   1\. Each Party shall require its operators to undertake reasonable preventative measures that are designed to reduce the risk of environmental emergencies and their potential adverse impact.
 
@@ -358,7 +375,7 @@ For the purposes of this Annex:
     
     
 
-### Article 4 Contingency Plans
+### Article 4---Contingency Plans
     
 *   1\. Each Party shall require its operators to:
         
@@ -388,7 +405,7 @@ For the purposes of this Annex:
 
 *   3\. Each Party shall establish and implement procedures for immediate notification of, and co-operative responses to, environmental emergencies, and shall promote the use of notification procedures and co-operative response procedures by its operators that cause environmental emergencies.
 
-### Article 5 Response Action
+### Article 5---Response Action
 
 1\.Each Party shall require each of its operators to take prompt and effective response action to environmental emergencies arising from the activities of that operator.
 
@@ -404,7 +421,7 @@ For the purposes of this Annex:
 
 5\.Parties taking response action shall consult and coordinate their action with all other Parties taking response action, carrying out activities in the vicinity of the environmental emergency, or otherwise impacted by the environmental emergency, and shall, where practicable, take into account all relevant expert guidance which has been provided by permanent observer delegations to the Antarctic Treaty Consultative Meeting, by other organisations, or by other relevant experts. 
 
-### Article 6 Liability
+### Article 6---Liability
 
 1\.An operator that fails to take prompt and effective response action to environmental emergencies arising from its activities shall be liable to pay the costs of response action taken by Parties pursuant to Article 5(2) to such Parties.
 
@@ -418,7 +435,7 @@ For the purposes of this Annex:
 
 5\.Notwithstanding that a Party is liable under this Article for its failure to provide for prompt and effective response action to environmental emergencies caused by its warships, naval auxiliaries, or other ships or aircraft owned or operated by it and used, for the time being, only on government non-commercial service, nothing in this Annex is intended to affect the sovereign immunity under international law of such warships, naval auxiliaries, or other ships or aircraft.
 
-### Article 7 Actions
+### Article 7---Actions
 
 1\.Only a Party that has taken response action pursuant to Article 5(2) may bring an action against a non-State operator for liability pursuant to Article 6(1) and such action may be brought in the courts of not more than one Party where the operator is incorporated or has its principal place of business or his or her habitual place of residence. However, should the operator not be incorporated in a Party or have its principal place of business or his or her habitual place of residence in a Party, the action may be brought in the courts of the Party of the operator within the meaning of Article 2(d). Such actions for compensation shall be brought within three years of the commencement of the response action or within three years of the date on which the Party bringing the action knew or ought reasonably to have known the identity of the operator, whichever is later. In no event shall an action against a non-State operator be commenced later than 15 years after the commencement of the response action.
 
@@ -434,7 +451,7 @@ For the purposes of this Annex:
 
 6\.Under this Annex, the provisions of Articles 19(4), 19(5), and 20(1) of the Protocol, and, as applicable, the Schedule to the Protocol on Arbitration, are only applicable to liability of a Party as a State operator for compensation for response action that has been undertaken to an environmental emergency or for payment into the fund.
 
-### Article 8 Exemptions from Liability
+### Article 8---Exemptions from Liability
     
 *   1\. An operator shall not be liable pursuant to Article 6 if it proves that the environmental emergency was caused by:
         
@@ -450,7 +467,7 @@ For the purposes of this Annex:
 
 *   2\. A Party, or its agents or operators specifically authorised by it to take such action on its behalf, shall not be liable for an environmental emergency resulting from response action taken by it pursuant to Article 5(2) to the extent that such response action was reasonable in all the circumstances.
 
-### Article 9 Limits of Liability
+### Article 9---Limits of Liability
 
 1\.The maximum amount for which each operator may be liable under Article 6(1) or Article 6(2), in respect of each environmental emergency, shall be as follows:
 
@@ -490,11 +507,11 @@ provided that the applicable limits are at least as high as the following: for a
 
 (c)a ship's tonnage shall be the gross tonnage calculated in accordance with the tonnage measurement rules contained in Annex I of the International Convention on Tonnage Measurement of Ships, 1969\.
 
-### Article 10 State Liability
+### Article 10---State Liability
 
 A Party shall not be liable for the failure of an operator, other than its State operators, to take response action to the extent that that Party took appropriate measures within its competence, including the adoption of laws and regulations, administrative actions and enforcement measures, to ensure compliance with this Annex.
 
-### Article 11 Insurance and Other Financial Security
+### Article 11---Insurance and Other Financial Security
     
 *   1\. Each Party shall require its operators to maintain adequate insurance or other financial security, such as the guarantee of a bank or similar financial institution, to cover liability under Article 6(1) up to the applicable limits set out in Article 9(1) and Article 9(2).
 
@@ -502,7 +519,7 @@ A Party shall not be liable for the failure of an operator, other than its State
 
 *   3\. Notwithstanding paragraphs 1 and 2 above, a Party may maintain self-insurance in respect of its State operators, including those carrying out activities in the furtherance of scientific research.
 
-### Article 12 The Fund
+### Article 12---The Fund
     
 *   1\. The Secretariat of the Antarctic Treaty shall maintain and administer a fund, in accordance with Decisions including terms of reference to be adopted by the Parties, to provide, _inter alia_, for the reimbursement of the reasonable and justified costs incurred by a Party or Parties in taking response action pursuant to Article 5(2). 
 
@@ -512,7 +529,7 @@ A Party shall not be liable for the failure of an operator, other than its State
 
 *   4\. Any State or person may make voluntary contributions to the fund.
 
-### Article 13 Amendment or Modification
+### Article 13---Amendment or Modification
     
 *   1\. This Annex may be amended or modified by a Measure adopted in accordance with Article IX(1) of the Antarctic Treaty.
 
@@ -520,43 +537,55 @@ A Party shall not be liable for the failure of an operator, other than its State
 
 *   3\. Any amendment or modification of this Annex which becomes effective in accordance with paragraph 1 or 2 above shall thereafter become effective as to any other Party when notice of approval by it has been received by the Depositary.
 
----
-
-## Legislative history
-
-24 June 2009Introduction (Bill 37--1)
-
-20 August 2009First reading and referral to Foreign Affairs, Defence and Trade Committee
-
-26 November 2009Reported from Foreign Affairs, Defence and Trade Committee
-
-4 December 2012Second reading, third reading
-
-11 December 2012Royal assent
+#### 
 
 ---
 
-This Act is administered by the Ministry of Foreign Affairs and Trade.
+##### Reprints notes
 
-[0]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051615
-[1]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051616
-[2]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051617
-[3]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051618
-[4]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051619
-[5]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051620
-[6]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051621
-[7]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051622
-[8]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051623
-[9]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051648
-[10]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051649
-[11]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051650
-[12]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051651
-[13]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051652
-[14]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051653
-[15]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051654
-[16]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051655
-[17]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051656
-[18]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051657
-[19]: http://www.legislation.govt.nz/act/public/2012/0095/latest/link.aspx?id=DLM342782
-[20]: http://www.legislation.govt.nz/act/public/2012/0095/latest/link.aspx?id=DLM342794
-[21]: http://www.legislation.govt.nz/act/public/2012/0095/latest/link.aspx?id=DLM343290
+###### 1 General
+    
+*   This is a reprint of the Antarctica (Environmental Protection: Liability Annex) Amendment Act 2012 that incorporates all the amendments to that Act as at the date of the last amendment to it.
+
+###### 2 Legal status
+    
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][24] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][25] of that Act.
+
+###### 3 Editorial and format changes
+    
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][26] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][27] ![](/images/external_link.gif).
+
+###### 4 Amendments incorporated in this reprint
+    
+*   Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][23]
+
+
+
+[0]: http://www.legislation.govt.nz/act/public/2012/0095/latest/link.aspx?id=DLM2998524
+[1]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051615
+[2]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051616
+[3]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051617
+[4]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051618
+[5]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051619
+[6]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051620
+[7]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051621
+[8]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051622
+[9]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051623
+[10]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051648
+[11]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051649
+[12]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051650
+[13]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051651
+[14]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051652
+[15]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051653
+[16]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051654
+[17]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051655
+[18]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051656
+[19]: http://www.legislation.govt.nz/act/public/2012/0095/latest/whole.html#DLM2051657
+[20]: http://www.legislation.govt.nz/act/public/2012/0095/latest/link.aspx?id=DLM342782
+[21]: http://www.legislation.govt.nz/act/public/2012/0095/latest/link.aspx?id=DLM342794
+[22]: http://www.legislation.govt.nz/act/public/2012/0095/latest/link.aspx?id=DLM343290
+[23]: http://www.legislation.govt.nz/act/public/2012/0095/latest/link.aspx?id=DLM5642106
+[24]: http://www.legislation.govt.nz/act/public/2012/0095/latest/link.aspx?id=DLM2998516
+[25]: http://www.legislation.govt.nz/act/public/2012/0095/latest/link.aspx?id=DLM2998515
+[26]: http://www.legislation.govt.nz/act/public/2012/0095/latest/link.aspx?id=DLM2998532
+[27]: http://www.pco.parliament.govt.nz/editorial-conventions/
