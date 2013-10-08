@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 4 October 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13120,7 +13120,7 @@ Synthetic greenhouse gas levy
     
 *   (1) A person who is an importer commits an offence against this Act if the person, without reasonable excuse, fails to comply with [section 248(1)][384] (requirement to collect data or other information and keep records).
     
-    (2) Every person who is convicted of an offence against subsection (1) is liable on summary conviction,---
+    (2) Every person who is convicted of an offence against subsection (1) is liable on conviction,---
         
     *   (a) the first time the person is convicted of that offence, to a fine not exceeding $8,000:
     
@@ -13129,6 +13129,8 @@ Synthetic greenhouse gas levy
     *   (c) on every subsequent occasion that the person is convicted of that offence, to a fine not exceeding $24,000\.
     
     Section 259: inserted, on 1 January 2013, by [section 100][799] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    
+    Section 259(2): amended, on 4 October 2013, by [regulation 3(1)][809] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 260 Failure to provide information or documents
     
@@ -13138,13 +13140,15 @@ Synthetic greenhouse gas levy
     
     *   (b) fails to appear before the EPA or an enforcement officer, or fails to produce any document or documents, when required to do so under [section 254][391].
     
-    (2) Every person who is convicted of an offence against subsection (1) is liable on summary conviction,---
+    (2) Every person who is convicted of an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $12,000:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $24,000\.
     
     Section 260: inserted, on 1 January 2013, by [section 100][799] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    
+    Section 260(2): amended, on 4 October 2013, by [regulation 3(1)][809] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 261 Other offences
     
@@ -13168,23 +13172,27 @@ Synthetic greenhouse gas levy
         
         
     
-    (2) Every person who is convicted of an offence against subsection (1) is liable on summary conviction,---
+    (2) Every person who is convicted of an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $25,000:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $50,000\.
     
     Section 261: inserted, on 1 January 2013, by [section 100][799] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    
+    Section 261(2): amended, on 4 October 2013, by [regulation 3(1)][809] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 262 Offence for breach of confidentiality
     
-*   A person who knowingly contravenes [section 256][393] commits an offence and is liable on summary conviction to either or both of---
+*   A person who knowingly contravenes [section 256][393] commits an offence and is liable on conviction to either or both of---
         
     *   (a) imprisonment for a term not exceeding 6 months:
     
     *   (b) a fine not exceeding $15,000\.
     
     Section 262: inserted, on 1 January 2013, by [section 100][799] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    
+    Section 262: amended, on 4 October 2013, by [regulation 3(1)][809] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 263 Evasion
     
@@ -13204,13 +13212,15 @@ Synthetic greenhouse gas levy
     
     *   (c) provides altered, false, incomplete, or misleading information to the Minister or the EPA or any other person in respect of a matter in this Part.
     
-    (2) Every person who is convicted of an offence against subsection (1) is liable on conviction on indictment to either or both of---
+    (2) Every person who is convicted of an offence against subsection (1) is liable on conviction to either or both of---
         
     *   (a) imprisonment for a term not exceeding 5 years:
     
     *   (b) a fine not exceeding $50,000\.
     
     Section 263: inserted, on 1 January 2013, by [section 100][799] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    
+    Section 263(2): amended, on 4 October 2013, by [regulation 3(1)][809] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 #### Offence in relation to release of synthetic greenhouse gases
     
@@ -13222,13 +13232,15 @@ Synthetic greenhouse gas levy
     
     (2) The activities are installing, operating, servicing, modifying, dismantling, or disposing of any electrical switchgear, refrigeration or air-conditioning equipment, or other heat-transfer medium.
     
-    (3) A person who is convicted of an offence against subsection (1) is liable on summary conviction,---
+    (3) A person who is convicted of an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $25,000:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $50,000\.
     
     Section 264: inserted, on 1 January 2013, by [section 100][799] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    
+    Section 264(3): amended, on 4 October 2013, by [regulation 3(1)][809] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 265 Defence for release of synthetic greenhouse gas
     
@@ -13242,13 +13254,19 @@ Synthetic greenhouse gas levy
 
 ##### 266 Limitation period for commencement of proceedings
     
-*   Despite [section 14][809] of the Summary Proceedings Act 1957, an information for an offence against---
+*   Despite [section 25][689] of the Criminal Procedure Act 2011, the limitation period for an offence against---
         
-    *   (a) [section 260][399] or [261(1)(a), (b), or (e)][400] may be laid at any time within 2 years from the time when the matter of the information arose:
+    *   (a) [section 260][399] or [261(1)(a), (b), or (e)][400] ends on the date that is 2 years from the date on which the offence was committed:
     
-    *   (b) [section 259][398] or [261(1)(c) or (d)][400] may be commenced at any time within 7 years from the time when the matter of the information arose.
+    *   (b) [section 259][398] or [261(1)(c) or (d)][400] ends on the date that is 7 years from the date on which the offence was committed.
     
     Section 266: inserted, on 1 January 2013, by [section 100][799] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    
+    Section 266: amended, on 4 October 2013, by [regulation 3(1)][809] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    
+    Section 266(a): amended, on 4 October 2013, by [regulation 3(1)][809] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    
+    Section 266(b): amended, on 4 October 2013, by [regulation 3(1)][809] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 267 Evidence in proceedings
     
@@ -14956,7 +14974,9 @@ Commencementsee section 2
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][491]
+*   Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][809]
+    
+    Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][491]
     
     Legislation Act 2012 (2012 No 119): [section 77(3)][624]
     
@@ -15802,7 +15822,7 @@ Commencementsee section 2
 [806]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM378900
 [807]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM378905
 [808]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM378909
-[809]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM311191
+[809]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM5642106
 [810]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM2473400
 [811]: http://www.legislation.govt.nz/act/public/2002/0040/latest/whole.html#DLM160059
 [812]: http://www.legislation.govt.nz/act/public/2002/0040/latest/link.aspx?id=DLM1131291
