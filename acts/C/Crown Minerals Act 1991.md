@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 4 October 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -4145,7 +4145,7 @@ Permits, access to land, and other matters
     
     (3) Every person who commits an offence against [section 100(3)][169] is liable on conviction to a fine not exceeding $3,000\.
     
-    (3A) Every person who commits an offence against [section 100(3A)][169] is liable on summary conviction to a fine not exceeding $800,000\.
+    (3A) Every person who commits an offence against [section 100(3A)][169] is liable on conviction to a fine not exceeding $800,000\.
     
     (4) A court may sentence any person who commits an offence against this Act to a sentence of community work, and the provisions of [Part 2][366] of the Sentencing Act 2002, with all necessary modifications, apply accordingly.
     
@@ -4171,17 +4171,19 @@ Permits, access to land, and other matters
     
     Section 101(3A): inserted, on 24 May 2013, by [section 54(4)][367] of the Crown Minerals Amendment Act 2013 (2013 No 14).
     
-    Section 101(4): substituted, on 30 June 2002, by [section 186][368] of the Sentencing Act 2002 (2002 No 9).
+    Section 101(3A): amended, on 4 October 2013, by [regulation 3(1)][368] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    
+    Section 101(4): substituted, on 30 June 2002, by [section 186][369] of the Sentencing Act 2002 (2002 No 9).
 
 ##### 101A Interpretation
     
 *   In [sections 101B][172] and [101C][173],---
     
-    _exclusive economic zone_ has the same meaning as in [section 2(1)][369] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
+    _exclusive economic zone_ has the same meaning as in [section 2(1)][370] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
     
-    _foreign ship_ has the same meaning as in [section 2(1)][370] of the Maritime Transport Act 1994
+    _foreign ship_ has the same meaning as in [section 2(1)][371] of the Maritime Transport Act 1994
     
-    _master_ has the same meaning as in [section 2(1)][370] of the Maritime Transport Act 1994
+    _master_ has the same meaning as in [section 2(1)][371] of the Maritime Transport Act 1994
     
     _offshore area_ means any area that is---
         
@@ -4193,7 +4195,7 @@ Permits, access to land, and other matters
     
     _permitted prospecting, exploration, or mining activity_ means an activity authorised under a prospecting, exploration, or mining permit
     
-    _ship_ has the same meaning as in [section 2(1)][370] of the Maritime Transport Act 1994
+    _ship_ has the same meaning as in [section 2(1)][371] of the Maritime Transport Act 1994
     
     _specified non-interference zone_ means a zone specified by the chief executive in accordance with [section 101B(6) to (8)][172]
     
@@ -4203,7 +4205,7 @@ Permits, access to land, and other matters
     
     *   (b) includes a petroleum pipeline, petroleum pumping station, petroleum tank station, or petroleum valve station.
     
-    Section 101A: inserted, on 24 May 2013, by [section 55][371] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 101A: inserted, on 24 May 2013, by [section 55][372] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 ##### 101B Interfering with structure or operation in offshore area
     
@@ -4223,13 +4225,13 @@ Permits, access to land, and other matters
     
     (3) In prosecuting an offence against subsection (2), it is not necessary for the prosecution to prove that the person intended to commit the offence.
     
-    (4) A person who commits an offence against subsection (1) is liable on summary conviction,---
+    (4) A person who commits an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $50,000:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $100,000\.
     
-    (5) A person who commits an offence against subsection (2) is liable on summary conviction to a fine not exceeding $10,000\.
+    (5) A person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $10,000\.
     
     (6) For the purposes of subsection (2), the chief executive may specify a non-interference zone by notice published in a fortnightly edition of the _New Zealand Notices to Mariners_ (under Part 25 of the Maritime Rules).
     
@@ -4247,7 +4249,11 @@ Permits, access to land, and other matters
     
     (9) No proceedings for an offence against this section may be brought in a New Zealand court in respect of a contravention of this section on board, or by a person leaving, a foreign ship without the consent of the Attorney-General.
     
-    Section 101B: inserted, on 24 May 2013, by [section 55][371] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 101B: inserted, on 24 May 2013, by [section 55][372] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    
+    Section 101B(4): amended, on 4 October 2013, by [regulation 3(1)][368] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    
+    Section 101B(5): amended, on 4 October 2013, by [regulation 3(1)][368] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 101C Powers of enforcement officers
     
@@ -4279,7 +4285,7 @@ Permits, access to land, and other matters
     
     *   (c) every person acting under the command of a person described in paragraph (b).
     
-    Section 101C: inserted, on 24 May 2013, by [section 55][371] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 101C: inserted, on 24 May 2013, by [section 55][372] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 ##### 102 Liability of principal for acts of agents
     
@@ -4353,13 +4359,13 @@ Permits, access to land, and other matters
     
     (3) To avoid doubt, any interest payable on fees must be paid into a Crown Bank Account.
     
-    Section 104(1): amended, on 24 May 2013, by [section 56(1)][372] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 104(1): amended, on 24 May 2013, by [section 56(1)][373] of the Crown Minerals Amendment Act 2013 (2013 No 14).
     
-    Section 104(1): amended, on 24 May 2013, by [section 56(2)][372] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 104(1): amended, on 24 May 2013, by [section 56(2)][373] of the Crown Minerals Amendment Act 2013 (2013 No 14).
     
-    Section 104(2): replaced, on 24 May 2013, by [section 56(3)][372] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 104(2): replaced, on 24 May 2013, by [section 56(3)][373] of the Crown Minerals Amendment Act 2013 (2013 No 14).
     
-    Section 104(3): inserted, on 24 May 2013, by [section 56(3)][372] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 104(3): inserted, on 24 May 2013, by [section 56(3)][373] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 #### Regulations
 
@@ -4415,25 +4421,25 @@ Permits, access to land, and other matters
     
     (3) Any regulations made under this section may apply generally throughout New Zealand or within any specified part or parts thereof. All regulations made under this section shall, unless otherwise specified in the regulations, apply generally throughout New Zealand and the continental shelf.
     
-    Section 105(1)(a): replaced, on 24 May 2013, by [section 57(1)][373] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 105(1)(a): replaced, on 24 May 2013, by [section 57(1)][374] of the Crown Minerals Amendment Act 2013 (2013 No 14).
     
-    Section 105(1)(ca): inserted, on 24 May 2013, by [section 57(2)][373] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 105(1)(ca): inserted, on 24 May 2013, by [section 57(2)][374] of the Crown Minerals Amendment Act 2013 (2013 No 14).
     
-    Section 105(1)(cb): inserted, on 24 May 2013, by [section 57(2)][373] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 105(1)(cb): inserted, on 24 May 2013, by [section 57(2)][374] of the Crown Minerals Amendment Act 2013 (2013 No 14).
     
-    Section 105(1)(f): amended, on 24 May 2013, by [section 57(3)][373] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 105(1)(f): amended, on 24 May 2013, by [section 57(3)][374] of the Crown Minerals Amendment Act 2013 (2013 No 14).
     
-    Section 105(1)(g): amended, on 24 May 2013, by [section 57(3)][373] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 105(1)(g): amended, on 24 May 2013, by [section 57(3)][374] of the Crown Minerals Amendment Act 2013 (2013 No 14).
     
-    Section 105(1)(ga): inserted, on 18 October 2004, by [section 5][374] of the Crown Minerals Amendment Act 2004 (2004 No 84).
+    Section 105(1)(ga): inserted, on 18 October 2004, by [section 5][375] of the Crown Minerals Amendment Act 2004 (2004 No 84).
     
-    Section 105(1)(gb): inserted, on 18 October 2004, by [section 5][374] of the Crown Minerals Amendment Act 2004 (2004 No 84).
+    Section 105(1)(gb): inserted, on 18 October 2004, by [section 5][375] of the Crown Minerals Amendment Act 2004 (2004 No 84).
     
     Section 105(1)(gb): amended, on 24 May 2013, by [section 64][238] of the Crown Minerals Amendment Act 2013 (2013 No 14).
     
-    Section 105(1)(p): amended, on 24 May 2013, by [section 57(3)][373] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 105(1)(p): amended, on 24 May 2013, by [section 57(3)][374] of the Crown Minerals Amendment Act 2013 (2013 No 14).
     
-    Section 105(1)(r): amended, on 24 May 2013, by [section 57(3)][373] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 105(1)(r): amended, on 24 May 2013, by [section 57(3)][374] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 ##### 105A Regulations relating to royalties
     
@@ -4463,7 +4469,7 @@ Permits, access to land, and other matters
     
     (4) Despite subsection (3), the period in relation to which the royalty calculations are made must be that specified in the current regulations.
     
-    Section 105A: inserted, on 24 May 2013, by [section 58][375] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 105A: inserted, on 24 May 2013, by [section 58][376] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 ##### 105B Regulations not invalid for certain matters
     
@@ -4481,13 +4487,13 @@ Permits, access to land, and other matters
     
     (2) No regulation made under [section 105A][179] is invalid because it authorises the Minister or any other person to determine any costs, value, or price for the purpose of assessing royalties payable in any case.
     
-    Section 105B: inserted, on 24 May 2013, by [section 58][375] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 105B: inserted, on 24 May 2013, by [section 58][376] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 ##### 105C Regulations may incorporate material by reference
     
 *   (1) Regulations made under [section 105][178] or [105A][179] may incorporate by reference 1 or more of the following:
         
-    *   (a) financial reporting standards made under the [Financial Reporting Act 1993][376], as those standards are defined in [section 2(1)][377] of that Act (_financial reporting standards_):
+    *   (a) financial reporting standards made under the [Financial Reporting Act 1993][377], as those standards are defined in [section 2(1)][378] of that Act (_financial reporting standards_):
     
     *   (b) a standard, framework, code of practice, recommended practice, or requirement of an international organisation or a national organisation:
     
@@ -4507,7 +4513,7 @@ Permits, access to land, and other matters
     
     *   (b) forms part of the regulations for all purposes and has legal effect accordingly.
     
-    (4) An amendment to, or replacement of, a financial reporting standard in regulations made under [section 105][178] or [105A][179] (the _initial regulations_) has legal effect as part of the initial regulations on and from the date on which the amendment or regulation takes effect and commences to apply under [section 28][378] of the Financial Reporting Act 1993, if---
+    (4) An amendment to, or replacement of, a financial reporting standard in regulations made under [section 105][178] or [105A][179] (the _initial regulations_) has legal effect as part of the initial regulations on and from the date on which the amendment or regulation takes effect and commences to apply under [section 28][379] of the Financial Reporting Act 1993, if---
         
     *   (a) the amendment or replacement is made by the External Reporting Board in accordance with that Act; and
     
@@ -4535,17 +4541,17 @@ Permits, access to land, and other matters
     
     (10) A failure to comply with subsection (9) does not invalidate regulations that incorporate any material incorporated by reference in regulations made under [section 105][178] or [105A][179].
     
-    (11) [Part 2][379] of the Legislation Act 2012 does not apply to---
+    (11) [Part 2][380] of the Legislation Act 2012 does not apply to---
         
     *   (a) standards or terms incorporated by reference in regulations made under this section; or
     
     *   (b) an amendment to or replacement of those standards or terms.
     
-    (12) [Subpart 1][380] of Part 3 of the Legislation Act 2012 applies to regulations made under this section that incorporate standards or terms by reference.
+    (12) [Subpart 1][381] of Part 3 of the Legislation Act 2012 applies to regulations made under this section that incorporate standards or terms by reference.
     
     (13) However, nothing in [section 41][267] of the Legislation Act 2012 requires material that is incorporated by reference in regulations made under this section to be presented to the House of Representatives.
     
-    Section 105C: inserted, on 24 May 2013, by [section 58][375] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 105C: inserted, on 24 May 2013, by [section 58][376] of the Crown Minerals Amendment Act 2013 (2013 No 14).
     
     Section 105C(11): replaced, on 5 August 2013, by [section 63(3)][268] of the Crown Minerals Amendment Act 2013 (2013 No 14).
     
@@ -4587,7 +4593,7 @@ Permits, access to land, and other matters
     
     (4) A failure to comply with this section does not invalidate an instrument that incorporates material by reference in reliance on [section 105C][181].
     
-    (5) For the purposes of subsection (1)(c), a chief executive may not rely on [section 66][381] of the Copyright Act 1994 as authority to make the proposed material available on an Internet site.
+    (5) For the purposes of subsection (1)(c), a chief executive may not rely on [section 66][382] of the Copyright Act 1994 as authority to make the proposed material available on an Internet site.
     
     (6) Nothing in this section applies to material proposed to be incorporated by reference described in [section 105C(1)(a)][181].
     
@@ -4597,18 +4603,18 @@ Permits, access to land, and other matters
     
     *   (b) an accurate translation in an official New Zealand language of the material, if the material is not in an official New Zealand language.
     
-    Section 105D: inserted, on 24 May 2013, by [section 58][375] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 105D: inserted, on 24 May 2013, by [section 58][376] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 ## Part 2  
 Savings and transitional provisions
     
-*   Part 2: replaced, on 24 May 2013, by [section 59][382] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+*   Part 2: replaced, on 24 May 2013, by [section 59][383] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 ##### 106 Savings and transitional provisions
     
 *   The savings and transitional provisions set out in [Schedule 1][185] have effect for the purposes of this Act.
     
-    Section 106: replaced, on 24 May 2013, by [section 59][382] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 106: replaced, on 24 May 2013, by [section 59][383] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 ---
 
@@ -4617,60 +4623,60 @@ Savings and transitional provisions
 
 [ss 1B][4], [106][184]
 
-*   Schedule 1: replaced, on 24 May 2013, by [section 60][383] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+*   Schedule 1: replaced, on 24 May 2013, by [section 60][384] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 ## Contents
 
-[Part 1][384]  
-[Provisions relating to Crown Minerals Amendment Act 2013][384]
+[Part 1][385]  
+[Provisions relating to Crown Minerals Amendment Act 2013][385]
 
-[1][385][][385][Interpretation][385]
+[1][386][][386][Interpretation][386]
 
-[Subpart 1][386][---][386][Provisions relating to permits and permit holders][386]
+[Subpart 1][387][---][387][Provisions relating to permits and permit holders][387]
 
-[2][387][][387][Permit holder must notify Minister of operator][387]
+[2][388][][388][Permit holder must notify Minister of operator][388]
 
 [3][217][][217][Provisions relating to minerals programmes][217]
 
-[4][388][][388][Provisions about royalties][388]
+[4][389][][389][Provisions about royalties][389]
 
-[5][389][][389][Pending applications for permit or change to permit][389]
+[5][390][][390][Pending applications for permit or change to permit][390]
 
-[6][390][][390][Pending applications for petroleum exploration permit][390]
+[6][391][][391][Pending applications for petroleum exploration permit][391]
 
-[7][391][][391][Petroleum exploration permit holders' rights to extension of duration of permit][391]
+[7][392][][392][Petroleum exploration permit holders' rights to extension of duration of permit][392]
 
-[8][392][][392][Relinquishment obligation][392]
+[8][393][][393][Relinquishment obligation][393]
 
-[9][393][][393][Pending applications for access arrangement for Crown land][393]
+[9][394][][394][Pending applications for access arrangement for Crown land][394]
 
-[10][394][][394][Provisions relating to speculative prospectors][394]
+[10][395][][395][Provisions relating to speculative prospectors][395]
 
-[Subpart 2][395][---][395][Provisions relating to existing privileges][395]
+[Subpart 2][396][---][396][Provisions relating to existing privileges][396]
 
-[11][396][][396][Application of this subpart][396]
+[11][397][][397][Application of this subpart][397]
 
-[12][397][][397][Existing privileges continue][397]
+[12][398][][398][Existing privileges continue][398]
 
-[13][398][][398][Operators for existing privileges][398]
+[13][399][][399][Operators for existing privileges][399]
 
-[14][399][][399][New sections apply to existing privileges][399]
+[14][400][][400][New sections apply to existing privileges][400]
 
-[15][400][][400][Administration of existing privileges in respect of Resource Management Act 1991 and Health and Safety in Employment Act 1992 matters][400]
+[15][401][][401][Administration of existing privileges in respect of Resource Management Act 1991 and Health and Safety in Employment Act 1992 matters][401]
 
-[16][401][][401][Bonds and monetary deposits][401]
+[16][402][][402][Bonds and monetary deposits][402]
 
-[17][402][][402][Fees payable by holders of existing privileges][402]
+[17][403][][403][Fees payable by holders of existing privileges][403]
 
-[18][403][][403][Data lodgement requirements for certain existing privileges][403]
+[18][404][][404][Data lodgement requirements for certain existing privileges][404]
 
-[19][404][][404][Notices under section 24 of Mining Act 1971][404]
+[19][405][][405][Notices under section 24 of Mining Act 1971][405]
 
-[20][405][][405][Compensation claims][405]
+[20][406][][406][Compensation claims][406]
 
-[Subpart 3][406][---][406][Other matters][406]
+[Subpart 3][407][---][407][Other matters][407]
 
-[21][407][][407][Existing reservations of land][407]
+[21][408][][408][Existing reservations of land][408]
 
 ---
 
@@ -4679,9 +4685,9 @@ Provisions relating to Crown Minerals Amendment Act 2013
 
 ##### 1 Interpretation
     
-*   In [Part 1][384] of this schedule,---
+*   In [Part 1][385] of this schedule,---
     
-    _Amendment Act_ means the [Crown Minerals Amendment Act 2013][408]
+    _Amendment Act_ means the [Crown Minerals Amendment Act 2013][409]
     
     _existing permit_ means a permit that existed immediately before the commencement of the Amendment Act
     
@@ -4813,7 +4819,7 @@ Provisions relating to Crown Minerals Amendment Act 2013
     
     (2) In this clause, _specified permit_ means---
         
-    *   (a) a permit granted in respect of an application to which [clause 6][390] applies; and
+    *   (a) a permit granted in respect of an application to which [clause 6][391] applies; and
     
     *   (b) an existing exploration permit for petroleum.
     
@@ -4851,7 +4857,7 @@ Provisions relating to Crown Minerals Amendment Act 2013
     
     *   (b) the holder of the privilege continues to have the same statutory rights as the holder would have had if the principal Act and the [Resource Management Act 1991][231] had not been enacted (except that if any consent in respect of the privilege would, but for this subclause, be required and need to be sought under the Resource Management Act 1991, then the Resource Management Act 1991 does apply); and
     
-    *   (c) subject to [clause 15][400], the holder of the privilege continues to have the same statutory obligations as the holder would have had if the principal Act had not been enacted; and
+    *   (c) subject to [clause 15][401], the holder of the privilege continues to have the same statutory obligations as the holder would have had if the principal Act had not been enacted; and
     
     *   (d) every person having any function, power, or duty relating to the administration of the Act that applied to the privilege before that date continues to have those functions, powers, and duties; and
     
@@ -4901,11 +4907,11 @@ Provisions relating to Crown Minerals Amendment Act 2013
 
 ##### 15 Administration of existing privileges in respect of Resource Management Act 1991 and Health and Safety in Employment Act 1992 matters
     
-*   (1) Subject to [clause 16][401], the functions, powers, and duties---
+*   (1) Subject to [clause 16][402], the functions, powers, and duties---
         
     *   (a) that, before the commencement of the principal Act, would have been exercisable or performable by the Minister of Energy in respect of an existing privilege, or of any condition of an existing privilege, or of any provisions of an Act that relate to an existing privilege; and
     
-    *   (b) that concern matters that are within the functions of a local authority under [section 30][409] or [31][410] of the Resource Management Act 1991---
+    *   (b) that concern matters that are within the functions of a local authority under [section 30][410] or [31][411] of the Resource Management Act 1991---
     
     are exercisable or performable by the appropriate consent authority and the provisions of the [Resource Management Act 1991][231] relating to the existing privilege, with all necessary modifications, apply accordingly.
     
@@ -4917,21 +4923,21 @@ Provisions relating to Crown Minerals Amendment Act 2013
     
     (5) A failure to comply with subclause (3) or (4) does not invalidate any variation or enforcement action.
     
-    (6) A local authority has, for the purposes of exercising or performing its functions, powers, and duties in relation to an existing privilege under this section, all of the powers conferred on an enforcement officer by [section 332][411] of the Resource Management Act 1991\.
+    (6) A local authority has, for the purposes of exercising or performing its functions, powers, and duties in relation to an existing privilege under this section, all of the powers conferred on an enforcement officer by [section 332][412] of the Resource Management Act 1991\.
     
-    (7) Despite [clause 12(1)(d)][397] or [section 4][412] of the Health and Safety in Employment Act 1992, the functions, powers, and duties that---
+    (7) Despite [clause 12(1)(d)][398] or [section 4][413] of the Health and Safety in Employment Act 1992, the functions, powers, and duties that---
         
     *   (a) before the commencement of the [Health and Safety in Employment Act 1992][203], would have been exercisable or performable by any person in respect of an existing privilege; and
     
-    *   (b) concern matters that are within the functions, powers, and duties of an Inspector holding office under [section 29(1)][413] of the Health and Safety in Employment Act 1992---
+    *   (b) concern matters that are within the functions, powers, and duties of an Inspector holding office under [section 29(1)][414] of the Health and Safety in Employment Act 1992---
     
     are exercisable or performable by an Inspector in relation to the existing privilege and that Act applies accordingly with any necessary modifications.
     
-    (8) Despite [clause 12(1)(d)][397], the functions, powers, and duties---
+    (8) Despite [clause 12(1)(d)][398], the functions, powers, and duties---
         
     *   (a) that before the commencement of the principal Act would have been exercisable or performable by an Inspector and that would have arisen in respect of an existing privilege, or of any condition of an existing privilege, or of any provisions of an Act that relate to an existing privilege; and
     
-    *   (b) that concern matters that are not within the functions of a local authority under [section 30][409] or [31][410] of the Resource Management Act 1991 or an Inspector under [section 29(1)][413] of the Health and Safety in Employment Act 1992---
+    *   (b) that concern matters that are not within the functions of a local authority under [section 30][410] or [31][411] of the Resource Management Act 1991 or an Inspector under [section 29(1)][414] of the Health and Safety in Employment Act 1992---
     
     are exercisable or performable by the chief executive, and the provisions of the Act relating to the existing privilege apply accordingly, with any necessary modifications.
     
@@ -4973,7 +4979,7 @@ Provisions relating to Crown Minerals Amendment Act 2013
 
 ##### 17 Fees payable by holders of existing privileges
     
-*   (1) This clause applies despite [clause 12(1)][397].
+*   (1) This clause applies despite [clause 12(1)][398].
     
     (2) The holders of coal mining rights under the Coal Mines Act 1979 are not liable for the payment of rental under that Act in respect of any period following the date of commencement of the principal Act.
     
@@ -5001,7 +5007,7 @@ Provisions relating to Crown Minerals Amendment Act 2013
     
     *   (c) an authorisation given, an agreement entered into, or a grant of rights under the Iron and Steel Industry Act 1959, or an existing right referred to in section 5 of that Act.
     
-    (2) Despite [clause 12(1)][397], from the commencement of the Amendment Act, the holder of an existing privilege is only required to comply with the requirements of the principal Act (as amended by the Amendment Act) for the lodging of data and reports in respect of the licence that would apply if the licence were the equivalent kind of prospecting, mining, or exploration permit, as the case may be.
+    (2) Despite [clause 12(1)][398], from the commencement of the Amendment Act, the holder of an existing privilege is only required to comply with the requirements of the principal Act (as amended by the Amendment Act) for the lodging of data and reports in respect of the licence that would apply if the licence were the equivalent kind of prospecting, mining, or exploration permit, as the case may be.
 
 ##### 19 Notices under section 24 of Mining Act 1971
     
@@ -5060,7 +5066,7 @@ Regulations revoked
 
 ##### Mining Regulations 1981 (SR 1981/347)
 
-_Amendment(s) incorporated in the [regulations][414]._
+_Amendment(s) incorporated in the [regulations][415]._
 
 ##### Mining Regulations 1981, Amendment No 3 (SR 1988/329)
 
@@ -5078,15 +5084,15 @@ _Amendment(s) incorporated in the [Act(s)][312]_.
 
 ##### Conservation Law Reform Act 1990 (1990 No 31)
 
-_Amendment(s) incorporated in the [Act(s)][415]_.
+_Amendment(s) incorporated in the [Act(s)][416]_.
 
 ##### Continental Shelf Act 1964 (1964 No 28) (RS Vol 16, p 83)
 
-_Amendment(s) incorporated in the [Act(s)][416]_.
+_Amendment(s) incorporated in the [Act(s)][417]_.
 
 ##### Environment Act 1986 (1986 No 127)
 
-_Amendment(s) incorporated in the [Act(s)][417]_.
+_Amendment(s) incorporated in the [Act(s)][418]_.
 
 ##### Marine Farming Act 1971 (1971 No 29) (RS Vol 22, p 695)
 
@@ -5094,19 +5100,19 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Ministry of Energy (Abolition) Act 1989 (1989 No 140)
 
-_Amendment(s) incorporated in the [Act(s)][418]_.
+_Amendment(s) incorporated in the [Act(s)][419]_.
 
 ##### National Parks Act 1980 (1980 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][419]_.
+_Amendment(s) incorporated in the [Act(s)][420]_.
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][420]_.
+_Amendment(s) incorporated in the [Act(s)][421]_.
 
 ##### State-Owned Enterprises Act 1986 (1986 No 124)
 
-_Amendment(s) incorporated in the [Act(s)][421]_.
+_Amendment(s) incorporated in the [Act(s)][422]_.
 
 ##### State-Owned Enterprises Amendment Act 1987 (1987 No 117)
 
@@ -5118,7 +5124,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Transit New Zealand Act 1989 (1989 No 75)
 
-_Amendment(s) incorporated in the [Act(s)][422]_.
+_Amendment(s) incorporated in the [Act(s)][423]_.
 
 ## Part 2  
 Regulations amended
@@ -5136,9 +5142,9 @@ _Amendment(s) incorporated in the regulations_.
 ## Schedule 4  
 Land to which access restrictions apply
 
-[ss 53(3)][89], [54(3)][90], [61][97], [Schedule 1 cl 9][393]
+[ss 53(3)][89], [54(3)][90], [61][97], [Schedule 1 cl 9][394]
 
-*   Schedule 4: replaced, on 24 May 2013, by [section 61][423] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+*   Schedule 4: replaced, on 24 May 2013, by [section 61][424] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 *   1 Any national park (within the meaning of section 2 of the National Parks Act 1980).
 
@@ -5209,7 +5215,7 @@ Thresholds for Tier 1 and Tier 2 activities
 
 [s 2B][9]
 
-*   Schedule 5: inserted, on 24 May 2013, by [section 62][424] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+*   Schedule 5: inserted, on 24 May 2013, by [section 62][425] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 **Mineral type** **Exploration permit** **Mining permit**
 
@@ -5245,15 +5251,17 @@ _platinum group metals_ means iridium, osmium, palladium, platinum, rhodium, and
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][425] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][426] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][426] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][427] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][427] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][428] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][428] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][429] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Crown Minerals Amendment Act 2013][408] (2013 No 14)
+*   Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][368]
+    
+    [Crown Minerals Amendment Act 2013][409] (2013 No 14)
     
     Ngāti Whare Claims Settlement Act 2012 (2012 No 28): [sections 90(5)][308], [105(6)][309]
     
@@ -5265,19 +5273,19 @@ _platinum group metals_ means iridium, osmium, palladium, platinum, rhodium, and
     
     Ngāti Awa Claims Settlement Act 2005 (2005 No 28): [sections 87][259], [160][307]
     
-    [Crown Minerals Amendment Act 2004][429] (2004 No 84)
+    [Crown Minerals Amendment Act 2004][430] (2004 No 84)
     
-    [Crown Minerals Amendment Act 2003][430] (2003 No 45)
+    [Crown Minerals Amendment Act 2003][431] (2003 No 45)
     
-    Sentencing Act 2002 (2002 No 9): [section 186][368]
+    Sentencing Act 2002 (2002 No 9): [section 186][369]
     
     Public Trust Act 2001 (2001 No 100): [section 170(1)][328]
     
     Forests (West Coast Accord) Act 2000 (2000 No 45): [section 22][323]
     
-    [Crown Minerals Amendment Act (No 2) 1997][431] (1997 No 91)
+    [Crown Minerals Amendment Act (No 2) 1997][432] (1997 No 91)
     
-    [Crown Minerals Amendment Act 1997][432] (1997 No 82)
+    [Crown Minerals Amendment Act 1997][433] (1997 No 82)
     
     Territorial Sea and Exclusive Economic Zone Amendment Act 1996 (1996 No 74): section 5(4)
     
@@ -5659,68 +5667,69 @@ _platinum group metals_ means iridium, osmium, palladium, platinum, rhodium, and
 [365]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM3360714
 [366]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM135593
 [367]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM4756297
-[368]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM137267
-[369]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM442587
-[370]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM334667
-[371]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM5137916
-[372]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM4756298
-[373]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM4756299
-[374]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM315678
-[375]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM4756300
-[376]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM323597
-[377]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM324804
-[378]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM3876041
-[379]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM2997693
-[380]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM2998558
-[381]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM346207
-[382]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM4756303
-[383]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM5227131
-[384]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239307
-[385]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239308
-[386]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239319
-[387]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239320
-[388]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239324
-[389]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239325
-[390]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239326
-[391]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239327
-[392]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239329
-[393]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239330
-[394]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239331
-[395]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239332
-[396]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239333
-[397]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239334
-[398]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239335
-[399]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239336
-[400]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239337
-[401]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239338
-[402]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239339
-[403]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239340
-[404]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239341
-[405]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239342
-[406]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239343
-[407]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239344
-[408]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM4756102
-[409]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM232560
-[410]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM232574
-[411]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM239020
-[412]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM279208
-[413]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM279613
-[414]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM78955
-[415]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM207911
-[416]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM351638
-[417]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM98974
-[418]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM194753
-[419]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM36962
-[420]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM160808
-[421]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM97376
-[422]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM173368
-[423]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM5227132
-[424]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM5227150
-[425]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM2998516
-[426]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM2998515
-[427]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM2998532
-[428]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[429]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM315669
-[430]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM201715
-[431]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM417067
-[432]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM413610
+[368]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM5642106
+[369]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM137267
+[370]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM442587
+[371]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM334667
+[372]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM5137916
+[373]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM4756298
+[374]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM4756299
+[375]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM315678
+[376]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM4756300
+[377]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM323597
+[378]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM324804
+[379]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM3876041
+[380]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM2997693
+[381]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM2998558
+[382]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM346207
+[383]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM4756303
+[384]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM5227131
+[385]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239307
+[386]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239308
+[387]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239319
+[388]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239320
+[389]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239324
+[390]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239325
+[391]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239326
+[392]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239327
+[393]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239329
+[394]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239330
+[395]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239331
+[396]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239332
+[397]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239333
+[398]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239334
+[399]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239335
+[400]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239336
+[401]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239337
+[402]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239338
+[403]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239339
+[404]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239340
+[405]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239341
+[406]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239342
+[407]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239343
+[408]: http://www.legislation.govt.nz/act/public/1991/0070/latest/whole.html#DLM5239344
+[409]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM4756102
+[410]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM232560
+[411]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM232574
+[412]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM239020
+[413]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM279208
+[414]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM279613
+[415]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM78955
+[416]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM207911
+[417]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM351638
+[418]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM98974
+[419]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM194753
+[420]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM36962
+[421]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM160808
+[422]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM97376
+[423]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM173368
+[424]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM5227132
+[425]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM5227150
+[426]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM2998516
+[427]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM2998515
+[428]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM2998532
+[429]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[430]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM315669
+[431]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM201715
+[432]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM417067
+[433]: http://www.legislation.govt.nz/act/public/1991/0070/latest/link.aspx?id=DLM413610
