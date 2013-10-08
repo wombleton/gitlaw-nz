@@ -1,5 +1,5 @@
 Reprint  
-as at 28 June 2013
+as at 4 October 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry for the Environment.
 
@@ -2852,7 +2852,9 @@ Objections, appeals, and enforcement
 
 ##### 113 Appeal to Court of Appeal
     
-*   [Section 144][311] of the Summary Proceedings Act 1957 applies to a decision of the High Court on an appeal filed under [section 105][140] of this Act as if the decision had been made under [section 107][312] of the Summary Proceedings Act 1957\.
+*   [Subpart 8][311] of Part 6 of the Criminal Procedure Act 2011 applies to a decision of the High Court on an appeal filed under [section 105][140] of this Act as if the decision had been made under [section 300][312] of the Criminal Procedure Act 2011\.
+    
+    Section 113: amended, on 4 October 2013, by [regulation 3(1)][313] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ### Subpart 2---Enforcement
 
@@ -2918,7 +2920,7 @@ Objections, appeals, and enforcement
     
     (2) The application for an enforcement order must be in the prescribed form and specify the relief sought.
     
-    (3) [Part 11][313] of the Resource Management Act 1991 applies as if the application were made under [Part 12][314] of that Act.
+    (3) [Part 11][314] of the Resource Management Act 1991 applies as if the application were made under [Part 12][315] of that Act.
 
 ##### 117 Notice of application for enforcement order
     
@@ -3022,19 +3024,19 @@ Objections, appeals, and enforcement
     
 *   (1) No person may apply to the Environment Court for an enforcement order of a kind specified in any of [section 115(1)(a) to (c)][153] in respect of anything done or to be done---
         
-    *   (a) by or on behalf of the Director of Maritime New Zealand under [section 248][315] or [249][316] of the Maritime Transport Act 1994; or
+    *   (a) by or on behalf of the Director of Maritime New Zealand under [section 248][316] or [249][317] of the Maritime Transport Act 1994; or
     
     *   (b) by or on behalf of any person in accordance with any instructions issued under either of those sections of that Act; or
     
-    *   (c) by or on behalf of any on-scene commander under [section 305][317] or [311][318] of that Act or in accordance with a direction given under [section 310][319] of that Act; or
+    *   (c) by or on behalf of any on-scene commander under [section 305][318] or [311][319] of that Act or in accordance with a direction given under [section 310][320] of that Act; or
     
-    *   (d) by or on behalf of the master or owner of any ship, or the owner or operator of any oil transfer site or offshore installation, or any other person, in accordance with a direction given under [section 305][317] of that Act.
+    *   (d) by or on behalf of the master or owner of any ship, or the owner or operator of any oil transfer site or offshore installation, or any other person, in accordance with a direction given under [section 305][318] of that Act.
     
     (2) No person may apply for an enforcement order of a kind specified in [section 115(1)(c)][153] in respect of any actual or reasonable costs where---
         
-    *   (a) the costs that a person has incurred or is likely to incur constitute pollution damage (as defined in [section 342][320] of the Maritime Transport Act 1994); and
+    *   (a) the costs that a person has incurred or is likely to incur constitute pollution damage (as defined in [section 342][321] of the Maritime Transport Act 1994); and
     
-    *   (b) in respect of those costs, the person is liable in damages under [Part 25][321] of that Act.
+    *   (b) in respect of those costs, the person is liable in damages under [Part 25][322] of that Act.
     
     (3) Neither the Environment Court nor any other court may make an order relating to such damage in any proceedings (including prosecutions for offences) under this Act.
 
@@ -3116,25 +3118,25 @@ Objections, appeals, and enforcement
     
     *   (d) be lodged with the Environment Court and served on the EPA within 15 working days after service of the abatement notice on the person who lodged the appeal.
     
-    (3) [Part 11][313] of the Resource Management Act 1991 applies as if the appeal were lodged under [Part 12][314] of that Act.
+    (3) [Part 11][314] of the Resource Management Act 1991 applies as if the appeal were lodged under [Part 12][315] of that Act.
 
 ##### 130 Restrictions on certain abatement notices
     
 *   No person may serve an abatement notice on a person in respect of anything done or to be done by or on behalf of---
         
-    *   (a) the Director of Maritime New Zealand under [section 248][315] or [249][316] of the Maritime Transport Act 1994; or
+    *   (a) the Director of Maritime New Zealand under [section 248][316] or [249][317] of the Maritime Transport Act 1994; or
     
     *   (b) a person in accordance with instructions issued under either of those sections; or
     
-    *   (c) an on-scene commander under [section 305][317] or [311][318] of that Act or in accordance with a direction given under [section 310][319] of that Act; or
+    *   (c) an on-scene commander under [section 305][318] or [311][319] of that Act or in accordance with a direction given under [section 310][320] of that Act; or
     
-    *   (d) the master or owner of a ship, or the owner or operator of an oil transfer site or offshore installation, or any other person, in accordance with a direction given under [section 305][317] or [311][318] of that Act.
+    *   (d) the master or owner of a ship, or the owner or operator of an oil transfer site or offshore installation, or any other person, in accordance with a direction given under [section 305][318] or [311][319] of that Act.
     
     
 
 ##### 131 Proceedings in Environment Court
     
-*   [Sections 299 to 308][322] of the Resource Management Act 1991 apply to proceedings in the Environment Court under this Act.
+*   [Sections 299 to 308][323] of the Resource Management Act 1991 apply to proceedings in the Environment Court under this Act.
 
 #### Offences and penalties
 
@@ -3178,9 +3180,9 @@ Objections, appeals, and enforcement
     
     (2) Every person who commits an offence against [section 132(1)][172] is also liable on conviction, if the offence is a continuing one, to a fine not exceeding $10,000 for every day or part of a day during which the offence continues.
     
-    (3) A person who commits an offence against [section 132(2)][172] is liable on summary conviction to a fine not exceeding $10,000, and, if the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues.
+    (3) A person who commits an offence against [section 132(2)][172] is liable on conviction to a fine not exceeding $10,000, and, if the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues.
     
-    (4) A person who commits an offence against [section 132(3)][172] is liable on summary conviction to a fine not exceeding $1,500\.
+    (4) A person who commits an offence against [section 132(3)][172] is liable on conviction to a fine not exceeding $1,500\.
     
     (5) If a person is convicted of an offence against [section 132][172], the court may, instead of or in addition to imposing a fine, make 1 or more of the following orders:
         
@@ -3189,6 +3191,10 @@ Objections, appeals, and enforcement
     *   (b) an order requiring the Environmental Protection Authority to serve notice, under [section 76(2)][102], of the review of a marine consent held by the person, but only if the offence involves an act or omission that breaches the consent.
     
     (6) The continued existence of anything, or the intermittent repetition of any actions, contrary to any provision of this Act is a continuing offence.
+    
+    Section 133(3): amended, on 4 October 2013, by [regulation 3(1)][313] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    
+    Section 133(4): amended, on 4 October 2013, by [regulation 3(1)][313] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 134 Strict liability and defences
     
@@ -3264,15 +3270,21 @@ Objections, appeals, and enforcement
 
 ##### 136 Commencement of offence proceedings
     
-*   Only an enforcement officer may lay an information in respect of an offence under this Act.
+*   Only an enforcement officer may file a charging document in respect of an offence under this Act.
+    
+    Section 136: amended, on 4 October 2013, by [regulation 3(1)][313] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 137 Limitation period
     
-*   (1) An information in respect of an offence against this Act may be laid no later than 6 months after the time when the breach giving rise to the offence first became known, or should have become known, to the enforcement officer.
+*   (1) Despite anything to the contrary in [section 25][324] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 6 months after the date on which the breach giving rise to the offence first became known, or should have become known, to the enforcement officer.
     
     (2) The period of 6 months does not run while the person charged (being a natural person) is beyond the outer limits of the territorial sea.
     
-    (3) This section overrides [section 14][323] of the Summary Proceedings Act 1957\.
+    (3) \[Repealed\]
+    
+    Section 137(1): amended, on 4 October 2013, by [regulation 3(1)][313] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    
+    Section 137(3): repealed, on 4 October 2013, by [regulation 3(1)][313] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 #### Appointment and powers of enforcement officers
 
@@ -3348,13 +3360,13 @@ Objections, appeals, and enforcement
     
     (5) Before an enforcement officer exercises a power to board and inspect a foreign vessel under subsection (1)(c), the officer must send a copy of the authority described in subsection (4) to the Secretary of Foreign Affairs.
     
-    (6) The provisions of [Part 4][324] (except subparts 2 and 8, and [sections 118][325] and [119][326]) of the Search and Surveillance Act 2012 apply in respect of the powers conferred by this section.
+    (6) The provisions of [Part 4][325] (except subparts 2 and 8, and [sections 118][326] and [119][327]) of the Search and Surveillance Act 2012 apply in respect of the powers conferred by this section.
     
     (7) In this section,---
     
     _enter_, in relation to a vessel, means board
     
-    _foreign vessel_ means a vessel that is not a New Zealand ship within the meaning of that term in the [Ship Registration Act 1992][327].
+    _foreign vessel_ means a vessel that is not a New Zealand ship within the meaning of that term in the [Ship Registration Act 1992][328].
 
 ## Part 5  
 Miscellaneous, transitional provisions, and consequential amendments
@@ -3535,17 +3547,21 @@ Miscellaneous, transitional provisions, and consequential amendments
 
 ##### 149 Service on master or owner of ship
     
-*   (1) If the master or owner of a ship is a defendant in a prosecution for an offence against [section 132(1)(a)][172], service on the defendant of a summons or other document is achieved for the purposes of the [Summary Proceedings Act 1957][328] if the summons or other document is---
+*   (1) If the master or owner of a ship is a defendant in a prosecution for an offence against [section 132(1)(a)][172], service on the defendant of a summons or other document is achieved for the purposes of the [Criminal Procedure Act 2011][329] if the summons or other document is---
         
     *   (a) delivered personally to the agent of the ship on behalf of the defendant or is brought to the notice of the agent if the agent refuses to accept it on behalf of the defendant; or
     
     *   (b) sent to the agent of the ship by registered letter addressed to that agent on behalf of the defendant at the agent's last known or usual place of residence or business; or
     
-    *   (c) served in accordance with [section 24][329] of the Summary Proceedings Act 1957 if a District Court Judge, Justice, Community Magistrate, or Registrar directs that the document or summons must be served in accordance with that section.
+    *   (c) served in accordance with rules made under the [Criminal Procedure Act 2011][329] if a District Court Judge, Justice, Community Magistrate, or Registrar directs that the document or summons must be served in accordance with those rules.
     
     (2) Subsection (1) applies despite any other enactment.
     
     (3) If a summons or document is sent by post under subsection (1)(b), it is presumed to be received by the agent at the time at which the notice or document would have been delivered in the ordinary course of the post.
+    
+    Section 149(1): amended, on 4 October 2013, by [regulation 3(1)][313] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    
+    Section 149(1)(c): amended, on 4 October 2013, by [regulation 3(1)][313] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 #### Incorporation by reference
 
@@ -4121,76 +4137,35 @@ Miscellaneous, transitional provisions, and consequential amendments
     
     
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012\. The reprint incorporates all the amendments to the Act as at 28 June 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][352] ![](/images/external_link.gif).
+*   This is a reprint of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][353] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][352] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][353] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][354] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][354] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][355] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][355] and [17E][356] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][313]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act Commencement Order 2013][245] (SR 2013/282)
+    [Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act Commencement Order 2013][245] (SR 2013/282)
     
     Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][284]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2012/0072/latest/whole.html#DLM3955431
 [2]: http://www.legislation.govt.nz/act/public/2012/0072/latest/whole.html#DLM3955432
 [3]: http://www.legislation.govt.nz/act/public/2012/0072/latest/whole.html#DLM3955433
@@ -4501,25 +4476,25 @@ Miscellaneous, transitional provisions, and consequential amendments
 [308]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2417786
 [309]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2417787
 [310]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2417792
-[311]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM313122
-[312]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM312658
-[313]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM237637
-[314]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM238504
-[315]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337335
-[316]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337336
-[317]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337689
-[318]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337696
-[319]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337694
-[320]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337864
-[321]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337863
-[322]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM238272
-[323]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM311191
-[324]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2136770
-[325]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2136813
-[326]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2136815
-[327]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM275026
-[328]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM310742
-[329]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM311378
+[311]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3360482
+[312]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3360489
+[313]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5642106
+[314]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM237637
+[315]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM238504
+[316]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337335
+[317]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337336
+[318]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337689
+[319]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337696
+[320]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337694
+[321]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337864
+[322]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337863
+[323]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM238272
+[324]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3360067
+[325]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2136770
+[326]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2136813
+[327]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2136815
+[328]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM275026
+[329]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3359902
 [330]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM346207
 [331]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM128740
 [332]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM195097
@@ -4542,8 +4517,7 @@ Miscellaneous, transitional provisions, and consequential amendments
 [349]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM233620
 [350]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2136500
 [351]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM4356950
-[352]: http://www.pco.parliament.govt.nz/reprints/
-[353]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM195439
-[354]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[355]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM195468
-[356]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM195470
+[352]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2998516
+[353]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2998515
+[354]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2998532
+[355]: http://www.pco.parliament.govt.nz/editorial-conventions/
