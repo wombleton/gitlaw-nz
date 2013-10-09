@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 4 October 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry for Primary Industries (Part 19) and Land Information New Zealand.
 
@@ -3634,13 +3634,15 @@ Roads
     
     (8) All costs and expenses incurred by an authority in carrying out any work under subsection (7) may be recovered from the person who failed to comply with the requirement as a debt due to the authority.
     
-    (9) The power of entry conferred by subsection (7) may be exercised in addition to or instead of the laying of an information for an offence under that subsection.
+    (9) The power of entry conferred by subsection (7) may be exercised in addition to or instead of the filing of a charging document for an offence under that subsection.
     
     Compare: 1928 No 21 ss 169, 170, 171; 1948 No 39 s 32
     
     Section 133(1) **authority** paragraph (a): substituted, on 1 April 1988, by section 36 of the Public Works Amendment Act 1988 (1988 No 43).
     
     Section 133(7): amended, on 1 July 2013, by [section 413][406] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 133(9): amended, on 4 October 2013, by [regulation 3(1)][407] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 134 Service of notice
     
@@ -3986,7 +3988,7 @@ Railways
     
     Compare: 1928 No 21 s 222
     
-    Section 169(4): amended, on 1 January 2004, by [section 76][407] of the Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17).
+    Section 169(4): amended, on 1 January 2004, by [section 76][408] of the Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17).
 
 ##### 170 Alterations to roads, drains, etc
     
@@ -4006,7 +4008,7 @@ Railways
     
     Compare: 1928 No 21 s 225
     
-    Section 170(3): amended, on 1 January 2004, by [section 76][407] of the Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17).
+    Section 170(3): amended, on 1 January 2004, by [section 76][408] of the Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17).
 
 ##### 171 Agreement as to use of railway bridge for combined traffic
     
@@ -4068,7 +4070,7 @@ Railways
 
 ##### 174 Application of Impounding Act 1955
     
-*   The person in charge of any railway or part of a railway, whether vested in the Crown or not, shall be deemed to be the occupier of it for the purposes of the [Impounding Act 1955][408]; and any act, matter, or thing permitted or required to be performed or done by the occupier of land as defined in that Act may be performed or done in respect of any such railway or part by the person so in charge or by any person authorised generally or particularly by him for that purpose.
+*   The person in charge of any railway or part of a railway, whether vested in the Crown or not, shall be deemed to be the occupier of it for the purposes of the [Impounding Act 1955][409]; and any act, matter, or thing permitted or required to be performed or done by the occupier of land as defined in that Act may be performed or done in respect of any such railway or part by the person so in charge or by any person authorised generally or particularly by him for that purpose.
     
     Compare: 1928 No 21 s 234
 
@@ -4109,7 +4111,7 @@ Railways and tramways regulation and inspection
     
 *   In [sections 177 to 183][223]---
     
-    _local railway_ means all railways and tramways, whether constructed under the authority of this Act or any other Act; but does not include railways vested in, or held or occupied by, the Crown or a railway operator (as that term is defined in [section 2][409] of the New Zealand Railways Corporation Restructuring Act 1990)
+    _local railway_ means all railways and tramways, whether constructed under the authority of this Act or any other Act; but does not include railways vested in, or held or occupied by, the Crown or a railway operator (as that term is defined in [section 2][410] of the New Zealand Railways Corporation Restructuring Act 1990)
     
     _Minister_ means the Minister of Transport
     
@@ -4117,7 +4119,7 @@ Railways and tramways regulation and inspection
     
     Compare: 1928 No 21 s 240
     
-    Section 176 **local railway**: substituted, on 28 August 1990, by [section 35][410] of the New Zealand Railways Corporation Restructuring Act 1990 (1990 No 105).
+    Section 176 **local railway**: substituted, on 28 August 1990, by [section 35][411] of the New Zealand Railways Corporation Restructuring Act 1990 (1990 No 105).
     
     Section 176 **Minister**: inserted, on 1 April 1988, by section 45 of the Public Works Amendment Act 1988 (1988 No 43).
 
@@ -4222,13 +4224,13 @@ Defence works
 
 ##### 184 Crown may construct defence works
     
-*   The Crown is hereby empowered to construct and maintain any defence work in accordance with the [Building Act 2004][411], where that Act applies to the work.
+*   The Crown is hereby empowered to construct and maintain any defence work in accordance with the [Building Act 2004][412], where that Act applies to the work.
     
     Compare: 1928 No 21 s 252
     
     Section 184 heading: amended, on 1 April 1988, by section 46 of the Public Works Amendment Act 1988 (1988 No 43).
     
-    Section 184: amended, on 31 March 2005, by [section 414][412] of the Building Act 2004 (2004 No 72).
+    Section 184: amended, on 31 March 2005, by [section 414][413] of the Building Act 2004 (2004 No 72).
     
     Section 184: amended, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
     
@@ -4350,7 +4352,7 @@ Artificial lakes and secondary use of public works land
     
     (6) Any such licence, permit, or privilege may be immediately revoked upon the breach of any of the terms or conditions upon or subject to which it is granted, or if in the opinion of the Minister or local authority concerned the service of the public so requires.
     
-    (7) If the secondary use authorised by any such notice includes the general characteristics of a reserve within the meaning of the [Reserves Act 1977][333] or of a national park within the meaning of the [National Parks Act 1980][413], the Minister, by the same or another notice, may specify which (if any) of the provisions of either of those Acts shall apply to the land, and may vest the control of it in---
+    (7) If the secondary use authorised by any such notice includes the general characteristics of a reserve within the meaning of the [Reserves Act 1977][333] or of a national park within the meaning of the [National Parks Act 1980][414], the Minister, by the same or another notice, may specify which (if any) of the provisions of either of those Acts shall apply to the land, and may vest the control of it in---
         
     *   (a) any local authority;
     
@@ -4408,7 +4410,7 @@ Artificial lakes and secondary use of public works land
     
     Compare: 1948 No 39 s 39
     
-    Section 193(3): repealed, on 1 July 1989, by [section 86(1)][414] of the Public Finance Act 1989 (1989 No 44).
+    Section 193(3): repealed, on 1 July 1989, by [section 86(1)][415] of the Public Finance Act 1989 (1989 No 44).
 
 ## Part 18  
 Government drains
@@ -4434,9 +4436,9 @@ Irrigation
 
 ##### 195A Application of Part 19 of Public Works Act 1981
     
-*   This Part shall apply only to irrigation schemes owned by the Crown, irrigation schemes under construction by the Crown, and to irrigation schemes that the Crown has agreed to construct, and not to irrigation schemes sold or otherwise disposed of by the Crown under [Part 1][415] of the Irrigation Schemes Act 1990\.
+*   This Part shall apply only to irrigation schemes owned by the Crown, irrigation schemes under construction by the Crown, and to irrigation schemes that the Crown has agreed to construct, and not to irrigation schemes sold or otherwise disposed of by the Crown under [Part 1][416] of the Irrigation Schemes Act 1990\.
     
-    Section 195A: inserted, on 3 July 1990, by [section 19][416] of the Irrigation Schemes Act 1990 (1990 No 52).
+    Section 195A: inserted, on 3 July 1990, by [section 19][417] of the Irrigation Schemes Act 1990 (1990 No 52).
 
 ##### 196 Interpretation
     
@@ -4576,13 +4578,13 @@ Irrigation
     
     Compare: 1975 No 138 s 8
     
-    Section 204(1): substituted, on 1 July 2001, by [section 151][417] of the Local Electoral Act 2001 (2001 No 35).
+    Section 204(1): substituted, on 1 July 2001, by [section 151][418] of the Local Electoral Act 2001 (2001 No 35).
 
 ##### 205 Voting
     
 *   Only those persons appearing on the special roll prepared under [section 204][261] shall be entitled to vote on any poll under this Part, and each such person shall be allowed 1 vote only.
     
-    Compare: 1975 No 135 [s 9][418]
+    Compare: 1975 No 135 [s 9][419]
 
 ##### 206 Publication of proposal to take a poll
     
@@ -4598,7 +4600,7 @@ Irrigation
     
     *   (b) not less than 3 months nor more than 12 months after the date of public notification under [section 200][257] of the investigation of the proposed irrigation scheme.
     
-    (2) On the day so specified a poll shall be taken by each territorial authority whose district or part of it is included in the proposed irrigation district, and, subject to any necessary modifications and to any direction given by the Minister, the poll shall be taken in the manner provided under the [Local Electoral Act 2001][419].
+    (2) On the day so specified a poll shall be taken by each territorial authority whose district or part of it is included in the proposed irrigation district, and, subject to any necessary modifications and to any direction given by the Minister, the poll shall be taken in the manner provided under the [Local Electoral Act 2001][420].
     
     (3) The reasonable cost of every poll under this Part that is not held simultaneously with the election of members of any local authority, and the reasonable additional costs incurred by a local authority for any poll under this Part that is held simultaneously with the election of members of the local authority, may be paid by the Crown out of money appropriated by Parliament for the purpose.
     
@@ -4606,7 +4608,7 @@ Irrigation
     
     Compare: 1975 No 138 s 11
     
-    Section 207(2): amended, on 1 July 2001, by [section 151][417] of the Local Electoral Act 2001 (2001 No 35).
+    Section 207(2): amended, on 1 July 2001, by [section 151][418] of the Local Electoral Act 2001 (2001 No 35).
 
 ##### 208 Constitution of district, etc
     
@@ -4660,25 +4662,25 @@ Irrigation
     
 *   Notwithstanding that a basic charge may have been notified under [section 202][259] or adjusted under [section 210][268] (before its repeal), the Governor-General may from time to time, by Order in Council, determine the basic charge for each hectare of irrigable land in any irrigation district.
     
-    Section 209: substituted, on 3 July 1990, by [section 20(1)][420] of the Irrigation Schemes Act 1990 (1990 No 52).
+    Section 209: substituted, on 3 July 1990, by [section 20(1)][421] of the Irrigation Schemes Act 1990 (1990 No 52).
 
 ##### 210 Adjustment of basic charge
     
 *   \[Repealed\]
     
-    Section 210: repealed, on 3 July 1990, by [section 20(1)][420] of the Irrigation Schemes Act 1990 (1990 No 52).
+    Section 210: repealed, on 3 July 1990, by [section 20(1)][421] of the Irrigation Schemes Act 1990 (1990 No 52).
 
 ##### 211 Water availability charge
     
 *   Notwithstanding that a water availability charge may have been notified under [section 202][259] or adjusted under [section 212][270] (before its repeal), the Governor-General may from time to time, by Order in Council, determine the annual water availability charge for each unit quantity or unit rate of supply of water in any irrigation district.
     
-    Section 211: substituted, on 3 July 1990, by [section 21(1)][421] of the Irrigation Schemes Act 1990 (1990 No 52).
+    Section 211: substituted, on 3 July 1990, by [section 21(1)][422] of the Irrigation Schemes Act 1990 (1990 No 52).
 
 ##### 212 Adjustment of water availability charge
     
 *   \[Repealed\]
     
-    Section 212: repealed, on 3 July 1990, by [section 21(1)][421] of the Irrigation Schemes Act 1990 (1990 No 52).
+    Section 212: repealed, on 3 July 1990, by [section 21(1)][422] of the Irrigation Schemes Act 1990 (1990 No 52).
 
 ##### 212A Alternative to basic and water availability charges
     
@@ -4706,7 +4708,7 @@ Irrigation
     
     Compare: 1975 No 138 s 17
     
-    Section 213: amended, on 1 July 1994, pursuant to [section 5(1)(a)][422] of the National Bank of New Zealand Limited Act 1994 (1994 No 3 (P)).
+    Section 213: amended, on 1 July 1994, pursuant to [section 5(1)(a)][423] of the National Bank of New Zealand Limited Act 1994 (1994 No 3 (P)).
     
     Section 213 proviso: added, on 30 March 1987, by section 2(2) of the Public Works Amendment Act 1987 (1987 No 62).
 
@@ -4868,7 +4870,7 @@ Irrigation
     
     (2) While a certificate is so registered, no transfer, conveyance, mortgage, lease, or other instrument affecting the land or any estate or interest therein, or any part of it, shall be registered or lodged with the District Land Registrar without the prior written consent of the Minister.
     
-    (3) In addition to all other powers and remedies conferred on the Crown by any Act, agreement, or instrument, the Crown shall, for the recovery of the money specified in any certificate registered under subsection (1) against the title of any land, have the same powers and remedies under the [Land Transfer Act 1952][349] or the [Property Law Act 2007][423], as the case may be, as if the certificate were a mortgage of the land.
+    (3) In addition to all other powers and remedies conferred on the Crown by any Act, agreement, or instrument, the Crown shall, for the recovery of the money specified in any certificate registered under subsection (1) against the title of any land, have the same powers and remedies under the [Land Transfer Act 1952][349] or the [Property Law Act 2007][424], as the case may be, as if the certificate were a mortgage of the land.
     
     (4) On the payment of all money for the time being secured by any certificate registered under subsection (1), the Minister shall without fee deposit with the District Land Registrar a release of the certificate; and the District Land Registrar shall, without fee, register the release.
     
@@ -4876,7 +4878,7 @@ Irrigation
     
     Section 221(1): amended, on 1 April 1988, by section 68 of the Public Works Amendment Act 1988 (1988 No 43).
     
-    Section 221(3): amended, on 1 January 2008, by [section 364(1)][424] of the Property Law Act 2007 (2007 No 91).
+    Section 221(3): amended, on 1 January 2008, by [section 364(1)][425] of the Property Law Act 2007 (2007 No 91).
 
 ##### 222 Application of this Part to existing schemes
     
@@ -4961,7 +4963,7 @@ National and local works
     
     (15) A certificate under the hand of the Controller and Auditor-General shall, until the contrary is proved, be sufficient evidence of the amount in respect of which default has been so made and of the date on which it was payable.
     
-    (16) Without prejudice to the provisions of subsections (14) and (15), the Minister, for the purposes of recovering any amount due and payable by a local authority under any agreement entered into under this section, may appoint a receiver with power from time to time to make, levy, and collect a rate on all the rateable property in the whole or any specified part or parts of the district of the local authority in default, and for that purpose the receiver has all the powers of a receiver appointed under section 40B of the Receiverships Act 1993 and the provisions of [sections 40B to 40D][425] of that Act, with the necessary modifications, apply accordingly.
+    (16) Without prejudice to the provisions of subsections (14) and (15), the Minister, for the purposes of recovering any amount due and payable by a local authority under any agreement entered into under this section, may appoint a receiver with power from time to time to make, levy, and collect a rate on all the rateable property in the whole or any specified part or parts of the district of the local authority in default, and for that purpose the receiver has all the powers of a receiver appointed under section 40B of the Receiverships Act 1993 and the provisions of [sections 40B to 40D][426] of that Act, with the necessary modifications, apply accordingly.
     
     (17) Agreements may be made under this section in respect of any undertaking that has been completed or partially completed as well as in respect of any undertaking not commenced.
     
@@ -4969,7 +4971,7 @@ National and local works
     
     (19) Notwithstanding anything to the contrary in this Act, any land taken, acquired, or used for any undertaking in respect of which an agreement has been made under this section may be transferred or leased to any party to the agreement, or sold or otherwise disposed of, and the proceeds thereof shared or distributed, in accordance with the provisions of the agreement.
     
-    (20) For the purposes of any agreement under this section, any party to the agreement which is a requiring authority within the meaning of the [Resource Management Act 1991][323], in his or its own name or on behalf of all parties, may make any requirement under [Part 8][426] of the Resource Management Act 1991, and make an application under any statutory provision for consent, authorisation, permission, a licence, a permit, a right, or any other type of approval.
+    (20) For the purposes of any agreement under this section, any party to the agreement which is a requiring authority within the meaning of the [Resource Management Act 1991][323], in his or its own name or on behalf of all parties, may make any requirement under [Part 8][427] of the Resource Management Act 1991, and make an application under any statutory provision for consent, authorisation, permission, a licence, a permit, a right, or any other type of approval.
     
     Compare: 1944 No 31 s 31
     
@@ -4983,17 +4985,17 @@ National and local works
     
     Section 224(6): repealed, on 1 July 1998, by [section 16(1)][367] of the Local Government Amendment Act (No 3) 1996 (1996 No 83).
     
-    Section 224(8): repealed, on 1 July 2003, by [section 138(1)][427] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 224(8): repealed, on 1 July 2003, by [section 138(1)][428] of the Local Government (Rating) Act 2002 (2002 No 6).
     
-    Section 224(9): repealed, on 1 July 2003, by [section 138(1)][427] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 224(9): repealed, on 1 July 2003, by [section 138(1)][428] of the Local Government (Rating) Act 2002 (2002 No 6).
     
-    Section 224(10): repealed, on 1 July 2003, by [section 138(1)][427] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 224(10): repealed, on 1 July 2003, by [section 138(1)][428] of the Local Government (Rating) Act 2002 (2002 No 6).
     
-    Section 224(11): repealed, on 1 July 2003, by [section 138(1)][427] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 224(11): repealed, on 1 July 2003, by [section 138(1)][428] of the Local Government (Rating) Act 2002 (2002 No 6).
     
-    Section 224(12): repealed, on 1 July 2003, by [section 138(1)][427] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 224(12): repealed, on 1 July 2003, by [section 138(1)][428] of the Local Government (Rating) Act 2002 (2002 No 6).
     
-    Section 224(13): repealed, on 1 July 2003, by [section 138(1)][427] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 224(13): repealed, on 1 July 2003, by [section 138(1)][428] of the Local Government (Rating) Act 2002 (2002 No 6).
     
     Section 224(16): substituted, on 1 July 2003, by [section 262][343] of the Local Government Act 2002 (2002 No 84).
     
@@ -5001,7 +5003,7 @@ National and local works
     
     Section 224(18): amended, on 1 August 2008, by [section 50(1)][348] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 224(18): amended, on 1 July 2001, by [section 24(1)][428] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 224(18): amended, on 1 July 2001, by [section 24(1)][429] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
     Section 224(20): amended, on 1 October 1991, by [section 362][357] of the Resource Management Act 1991 (1991 No 69).
 
@@ -5022,7 +5024,7 @@ General provisions
 
 ##### 226 Shares in building-unit companies
     
-*   (1) In this section, _building-unit company_ means a company registered under the Companies Act 1955 or the [Companies Act 1993][429] the articles of association or the constitution, as the case may be, of which provides that the registered holder of specified shares in the company is entitled, by virtue of being the holder of those shares, to occupy a specified portion of a building owned by the company.
+*   (1) In this section, _building-unit company_ means a company registered under the Companies Act 1955 or the [Companies Act 1993][430] the articles of association or the constitution, as the case may be, of which provides that the registered holder of specified shares in the company is entitled, by virtue of being the holder of those shares, to occupy a specified portion of a building owned by the company.
     
     (2) On behalf of the Crown the Minister of Lands may purchase and shall be deemed always to have had the power to purchase any shares in the capital of any building-unit company, and may hold, sell, or otherwise dispose of the shares.
     
@@ -5030,7 +5032,7 @@ General provisions
     
     Compare: 1928 No 21 s 331A; 1973 No 44 s 21
     
-    Section 226(1): substituted, on 1 July 1994, by [section 2][430] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 226(1): substituted, on 1 July 1994, by [section 2][431] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
     Section 226(2): amended, on 1 April 1988, by section 72 of the Public Works Amendment Act 1988 (1988 No 43).
     
@@ -5050,7 +5052,7 @@ General provisions
     
 *   Notwithstanding anything to the contrary in any Act, it shall be lawful and be deemed to have always been lawful for the Government of New Zealand to construct and maintain outside New Zealand any work for the benefit of New Zealand that would, if constructed and maintained in New Zealand, be a public work within the meaning of this Act.
     
-    Compare: 1946 No 16 [s 23][431]
+    Compare: 1946 No 16 [s 23][432]
 
 ##### 229 Improvement of farm land
     
@@ -5062,17 +5064,17 @@ General provisions
     
     (4) For the purposes of the [Statutory Land Charges Registration Act 1928][386], notice of any charge under subsection (2) and any certificate releasing any such charge, and any consent under subsection (3), may be signed by the chief executive of the new Ministry.
     
-    Compare: 1939 No 39 [s 61][432]
+    Compare: 1939 No 39 [s 61][433]
     
     Section 229(1): amended, on 1 April 1988, by section 73(1) of the Public Works Amendment Act 1988 (1988 No 43).
     
     Section 229(2): amended, on 1 April 1988, by section 73(2) of the Public Works Amendment Act 1988 (1988 No 43).
     
-    Section 229(3): amended, on 1 March 1998, by [section 5(1)(c)][433] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100).
+    Section 229(3): amended, on 1 March 1998, by [section 5(1)(c)][434] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100).
     
     Section 229(3): amended, on 1 April 1988, by section 73(3) of the Public Works Amendment Act 1988 (1988 No 43).
     
-    Section 229(4): amended, on 1 March 1998, by [section 5(1)(c)][433] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100).
+    Section 229(4): amended, on 1 March 1998, by [section 5(1)(c)][434] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100).
     
     Section 229(4): amended, on 1 April 1988, by section 73(4) of the Public Works Amendment Act 1988 (1988 No 43).
 
@@ -5204,7 +5206,7 @@ General provisions
         
         the Minister or the local authority, as the case may be, may give not less than 10 working days' notice, by advertisement in 2 issues of a daily newspaper circulating in the district in which the land held for the public work is situated, of his or its intention to sell or destroy the property, but if the Minister or the local authority is satisfied that the condition of the property is such that it is of little or no value, he or it may dispense with the giving of such notice:
     
-    *   (b) if the property is a motor vehicle to which is affixed a licence to use the vehicle for the current licensing year, the Minister or the local authority may give not less than 10 working days' notice to the person last registered under [Part 17][434] of the Land Transport Act 1998 in respect of the vehicle of his or its intention to sell or destroy the vehicle.
+    *   (b) if the property is a motor vehicle to which is affixed a licence to use the vehicle for the current licensing year, the Minister or the local authority may give not less than 10 working days' notice to the person last registered under [Part 17][435] of the Land Transport Act 1998 in respect of the vehicle of his or its intention to sell or destroy the vehicle.
     
     (3) The Minister or the local authority, or any other person, shall not be liable for any loss or damage occasioned by or following upon the removal of the property pursuant to subsection (1).
     
@@ -5222,15 +5224,15 @@ General provisions
     
     (7) For the purposes of this section, _vehicle_ means a contrivance equipped with wheels or revolving runners upon which it moves or is moved; and includes a contrivance from which the road wheels or revolving runners have been removed.
     
-    (8) In this section, expressions defined in the [Land Transport Act 1998][435] have, in relation to any motor vehicle, the meanings so defined.
+    (8) In this section, expressions defined in the [Land Transport Act 1998][436] have, in relation to any motor vehicle, the meanings so defined.
     
     Section 239(1): amended, on 1 April 1988, by section 81 of the Public Works Amendment Act 1988 (1988 No 43).
     
-    Section 239(2)(b): amended, on 1 May 2011, by [section 35(4)][436] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 239(2)(b): amended, on 1 May 2011, by [section 35(4)][437] of the Land Transport Amendment Act 2009 (2009 No 17).
     
     Section 239(5): amended, on 25 January 2005, pursuant to [section 83(7)][394] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 239(8): amended, on 1 May 2011, by [section 35(4)][436] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 239(8): amended, on 1 May 2011, by [section 35(4)][437] of the Land Transport Amendment Act 2009 (2009 No 17).
 
 ##### 240 Recovery of land from persons holding illegal possession
     
@@ -5246,13 +5248,13 @@ General provisions
     
     (3) If delivery of the land is not made pursuant to such order the court may issue a warrant authorising and requiring the bailiff of the court or any constable to give possession of the land to the plaintiff.
     
-    (4) The provisions of [sections 99][437], [100][438], and [101][439] of the District Courts Act 1947 shall, so far as they are not repugnant to or inconsistent with this section, apply to any proceedings taken under this section.
+    (4) The provisions of [sections 99][438], [100][439], and [101][440] of the District Courts Act 1947 shall, so far as they are not repugnant to or inconsistent with this section, apply to any proceedings taken under this section.
     
     Compare: 1928 No 21 s 334
     
     Section 240(1): amended, on 1 April 1988, by section 82 of the Public Works Amendment Act 1988 (1988 No 43).
     
-    Section 240(3): amended, on 1 October 2008, pursuant to section [116(a)(ii)][440] of the Policing Act 2008 (2008 No 72).
+    Section 240(3): amended, on 1 October 2008, pursuant to section [116(a)(ii)][441] of the Policing Act 2008 (2008 No 72).
 
 ##### 241 Obstructing employees
     
@@ -5350,7 +5352,7 @@ General provisions
     
     (3) \[Repealed\]
     
-    (4) _Amendment(s) incorporated in the [Act(s)][441]_.
+    (4) _Amendment(s) incorporated in the [Act(s)][442]_.
     
     Section 247(1): repealed, on 1 October 1989, by [section 116(1)][346] of the Government Roading Powers Act 1989 (1989 No 75).
     
@@ -5362,13 +5364,13 @@ General provisions
     
 *   (1) The enactments specified in [Schedule 8][319] are hereby repealed.
     
-    (2) The Order in Council fixing a day upon which [section 36][442] of the Finance Act 1933 (No 2) shall come into force, published in _Gazette_ 1934, Volume 1, at page 424 is hereby revoked.
+    (2) The Order in Council fixing a day upon which [section 36][443] of the Finance Act 1933 (No 2) shall come into force, published in _Gazette_ 1934, Volume 1, at page 424 is hereby revoked.
     
-    (3) Notwithstanding the repeal of any enactment by this section, the powers and duties conferred on the Maori Trustee by section 104 of the Public Works Act 1928 (as substituted by section 6 of the Public Works Amendment Act 1962 and amended by section 2 of the Public Works Amendment Act 1964) shall, in respect of land taken for the purposes of a public work before 1 January 1975, continue and be exercised as if the said section 104 had not been repealed by [section 12(8)][443] of the Maori Purposes Act 1974\.
+    (3) Notwithstanding the repeal of any enactment by this section, the powers and duties conferred on the Maori Trustee by section 104 of the Public Works Act 1928 (as substituted by section 6 of the Public Works Amendment Act 1962 and amended by section 2 of the Public Works Amendment Act 1964) shall, in respect of land taken for the purposes of a public work before 1 January 1975, continue and be exercised as if the said section 104 had not been repealed by [section 12(8)][444] of the Maori Purposes Act 1974\.
     
     (4) Notwithstanding the repeal of any enactment by this section or by section 15(2) of the Public Works Amendment Act 1973, every railway the construction of which has been authorised or deemed to have been authorised under any such enactment or by any enactment continued in force by any such enactment shall be deemed to have been authorised to be constructed under [section 164][207], and so much of the Acts as are set out in Schedule 9 of the Public Works Act 1928 shall continue in force and operate as if such repeal had not been made.
     
-    Compare: 1928 No 21 s 346; 1973 No 44 s 15; 1974 No 144 [s 12(9)][443]
+    Compare: 1928 No 21 s 346; 1973 No 44 s 15; 1974 No 144 [s 12(9)][444]
 
 ##### 249 Transitional provision
     
@@ -5469,7 +5471,7 @@ I, \[_full name_\] chairperson _or_ mayor _or_ chief executive of the \[_name of
 
 *   6 That the \[_name of local authority_\] is of the opinion that the land should be used for the said work and that no private injury will be done for which due compensation is not provided by the Public Works Act 1981\.
 
-And I make this solemn declaration conscientiously believing the same to be true and by virtue of the [Oaths and Declarations Act 1957][444].
+And I make this solemn declaration conscientiously believing the same to be true and by virtue of the [Oaths and Declarations Act 1957][445].
 
 Declared at \[_place_, _date_\], before me: \[_name_\]
 
@@ -5692,11 +5694,11 @@ Enactments repealed
 
 ##### Finance Act (No 2) 1930 (1930 No 40) (Reprinted 1975, Vol 3, p 2472)
 
-_Amendment(s) incorporated in the [Act(s)][445]._ 
+_Amendment(s) incorporated in the [Act(s)][446]._ 
 
 ##### Finance Act (No 2) 1933 (1933 No 41) (Reprinted 1975, Vol 3, p 2472)
 
-_Amendment(s) incorporated in the [Act(s)][446]._ 
+_Amendment(s) incorporated in the [Act(s)][447]._ 
 
 ##### Finance Act (No 2) 1936 (1936 No 36) (Reprinted 1975, Vol 3, p 2490)
 
@@ -5712,7 +5714,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Finance Act (No 2) 1939 (1939 No 38) (Reprinted 1975, Vol 3, p 2497)
 
-_Amendment(s) incorporated in the [Act(s)][447]._
+_Amendment(s) incorporated in the [Act(s)][448]._
 
 ##### Finance Act (No 3) 1944 (1944 No 31) (Reprinted 1975, Vol 3, p 2504)
 
@@ -5724,15 +5726,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Finance Act 1946 (1946 No 16) (Reprinted 1975, Vol 3, p 2519)
 
-_Amendment(s) incorporated in the [Act(s)][431]._
+_Amendment(s) incorporated in the [Act(s)][432]._
 
 ##### Finance Act (No 2) 1946 (1946 No 41) (Reprinted 1975, Vol 3, p 2520)
 
-_Amendment(s) incorporated in the [Act(s)][448]._
+_Amendment(s) incorporated in the [Act(s)][449]._
 
 ##### Finance Act 1949 (1949 No 39) (Reprinted 1975, Vol 3, p 2560)
 
-_Amendment(s) incorporated in the [Act(s)][449]._
+_Amendment(s) incorporated in the [Act(s)][450]._
 
 ##### Finance Act 1950 (1950 No 93) (Reprinted 1975, Vol 3, p 2562)
 
@@ -5740,11 +5742,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Finance Act 1951 (1951 No 78) (Reprinted 1975, Vol 3, p 2564)
 
-_Amendment(s) incorporated in the [Act(s)][450]._
+_Amendment(s) incorporated in the [Act(s)][451]._
 
 ##### Finance Act (No 2) 1952 (1952 No 81) (Reprinted 1975, Vol 3, p 2576)
 
-_Amendment(s) incorporated in the [Act(s)][451]._
+_Amendment(s) incorporated in the [Act(s)][452]._
 
 ##### Finance Act 1953 (1953 No 9) (Reprinted 1975, Vol 3, p 2576)
 
@@ -5752,7 +5754,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Finance Act (No 2) 1953 (1953 No 115) (Reprinted 1975, Vol 3, p 2578)
 
-_Amendment(s) incorporated in the [Act(s)][452]._
+_Amendment(s) incorporated in the [Act(s)][453]._
 
 ##### Finance Act (No 2) 1955 (1955 No 103) (Reprinted 1975, Vol 3, p 2584)
 
@@ -5760,15 +5762,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Finance Act 1957 (1957 No 106) (Reprinted 1975, Vol 3, p 2588)
 
-_Amendment(s) incorporated in the [Act(s)][453]._
+_Amendment(s) incorporated in the [Act(s)][454]._
 
 ##### Finance Act 1958 (1958 No 38) (Reprinted 1975, Vol 3, p 2590)
 
-_Amendment(s) incorporated in the [Act(s)][454]._
+_Amendment(s) incorporated in the [Act(s)][455]._
 
 ##### Finance Act 1959 (1959 No 96) (Reprinted 1975, Vol 3, p 2591)
 
-_Amendment(s) incorporated in the [Act(s)][455]._
+_Amendment(s) incorporated in the [Act(s)][456]._
 
 ##### Finance Act (No 2) 1964 (1964 No 121) (Reprinted 1975, Vol 3, p 2607)
 
@@ -5780,7 +5782,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Finance Act 1971 (1971 No 55) (Reprinted 1975, Vol 3, p 2613)
 
-_Amendment(s) incorporated in the [Act(s)][456]._
+_Amendment(s) incorporated in the [Act(s)][457]._
 
 ##### Harbours Act 1950 (1950 No 34) (RS Vol 2, p 551)
 
@@ -5788,15 +5790,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Impounding Act 1955 (1955 No 108) (Reprinted 1957, Vol 6, p 335)
 
-_Amendment(s) incorporated in the [Act(s)][457]._
+_Amendment(s) incorporated in the [Act(s)][458]._
 
 ##### Land Valuation Proceedings Amendment Act 1968 (1968 No 42) (Reprinted 1968, Vol 2, p 1619)
 
-_Amendment(s) incorporated in the [Act(s)][458]._
+_Amendment(s) incorporated in the [Act(s)][459]._
 
 ##### Land Valuation Proceedings Amendment Act 1977 (1977 No 15)
 
-_Amendment(s) incorporated in the [Act(s)][459]._
+_Amendment(s) incorporated in the [Act(s)][460]._
 
 ##### Licensing Amendment Act (No 2) 1953 (1953 No 90) (RS Vol 3, p 275)
 
@@ -5804,19 +5806,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Local Government Amendment Act (No 3) 1977 (1977 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][460]._
+_Amendment(s) incorporated in the [Act(s)][461]._
 
 ##### Local Government Amendment Act 1978 (1978 No 43)
 
-_Amendment(s) incorporated in the [Act(s)][461]._
+_Amendment(s) incorporated in the [Act(s)][462]._
 
 ##### Local Government Amendment Act 1979 (1979 No 59)
 
-_Amendment(s) incorporated in the [Act(s)][462]._
+_Amendment(s) incorporated in the [Act(s)][463]._
 
 ##### Maori Purposes Act 1974 (1974 No 144) (Reprinted 1975, Vol 3, p 2620)
 
-_Amendment(s) incorporated in the [Act(s)][443]._
+_Amendment(s) incorporated in the [Act(s)][444]._
 
 ##### Mining Act 1971 (1971 No 25)
 
@@ -5884,76 +5886,35 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Statutes Amendment Act 1939 (1939 No 39) (Reprinted 1975, Vol 2, p 2500)
 
-_Amendment(s) incorporated in the [Act(s)][463]._
+_Amendment(s) incorporated in the [Act(s)][464]._
 
 ##### Statutes Amendment Act 1951 (1951 No 81) (Reprinted 1975, Vol 3, p 2565)
 
-_Amendment(s) incorporated in the [Act(s)][464]._
+_Amendment(s) incorporated in the [Act(s)][465]._
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Public Works Act 1981\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][465] ![](/images/external_link.gif).
+*   This is a reprint of the Public Works Act 1981 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][466] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][466] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][467] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][467] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][468] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][469] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][468] and [17E][469] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][407]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Land Transport Management Amendment Act 2013 (2013 No 35): [section 72][347]
+    Land Transport Management Amendment Act 2013 (2013 No 35): [section 72][347]
     
     Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45): [section 11][365]
     
@@ -5963,35 +5924,35 @@ _Amendment(s) incorporated in the [Act(s)][464]._
     
     Limitation Act 2010 (2010 No 110): [section 58][371]
     
-    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][436]
+    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][437]
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][440]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][441]
     
     Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][348]
     
-    Property Law Act 2007 (2007 No 91): [section 364(1)][424]
+    Property Law Act 2007 (2007 No 91): [section 364(1)][425]
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][385]
     
     Foreshore and Seabed Act 2004 (2004 No 93): [section 103(1)][338]
     
-    Building Act 2004 (2004 No 72): [section 414][412]
+    Building Act 2004 (2004 No 72): [section 414][413]
     
     Local Government Act 2002 (2002 No 84): [section 262][343]
     
     Trade Marks Act 2002 (2002 No 49): section 201
     
-    Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17): [section 76][407]
+    Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17): [section 76][408]
     
-    Local Government (Rating) Act 2002 (2002 No 6): [section 138(1)][427]
+    Local Government (Rating) Act 2002 (2002 No 6): [section 138(1)][428]
     
     Telecommunications Act 2001 (2001 No 103): [section 158][398]
     
     Public Trust Act 2001 (2001 No 100): [section 170(1)][351]
     
-    Housing Corporation Amendment Act 2001 (2001 No 37): [section 24(1)][428]
+    Housing Corporation Amendment Act 2001 (2001 No 37): [section 24(1)][429]
     
-    Local Electoral Act 2001 (2001 No 35): [section 151][417]
+    Local Electoral Act 2001 (2001 No 35): [section 151][418]
     
     New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][344]
     
@@ -5999,7 +5960,7 @@ _Amendment(s) incorporated in the [Act(s)][464]._
     
     Land Transport Act 1998 (1998 No 110): [section 215(1)][470]
     
-    Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100): [section 5(1)(c)][433]
+    Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100): [section 5(1)(c)][434]
     
     Resource Management Amendment Act 1996 (1996 No 160): [section 6(2)(a), (b)][337]
     
@@ -6013,9 +5974,9 @@ _Amendment(s) incorporated in the [Act(s)][464]._
     
     Copyright Act 1994 (1994 No 143): [section 236(1)][341]
     
-    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][430]
+    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][431]
     
-    National Bank of New Zealand Limited Act 1994 (1994 No 3 (P)): [section 5(1)(a)][422]
+    National Bank of New Zealand Limited Act 1994 (1994 No 3 (P)): [section 5(1)(a)][423]
     
     Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362][350]
     
@@ -6029,11 +5990,11 @@ _Amendment(s) incorporated in the [Act(s)][464]._
     
     Resource Management Act 1991 (1991 No 69): [section 362][357]
     
-    New Zealand Railways Corporation Restructuring Act 1990 (1990 No 105): [section 35][410]
+    New Zealand Railways Corporation Restructuring Act 1990 (1990 No 105): [section 35][411]
     
     Education Amendment Act 1990 (1990 No 60): [section 50(5)][345]
     
-    Irrigation Schemes Act 1990 (1990 No 52): [sections 19][416], [20(1)][420], [21(1)][421]
+    Irrigation Schemes Act 1990 (1990 No 52): [sections 19][417], [20(1)][421], [21(1)][422]
     
     Conservation Law Reform Act 1990 (1990 No 31): [section 37][339]
     
@@ -6041,7 +6002,7 @@ _Amendment(s) incorporated in the [Act(s)][464]._
     
     Government Roading Powers Act 1989 (1989 No 75): [section 116(1)][346], (4)
     
-    Public Finance Act 1989 (1989 No 44): sections [83(7)][394], [86(1)][414]
+    Public Finance Act 1989 (1989 No 44): sections [83(7)][394], [86(1)][415]
     
     Public Works Amendment Act 1988 (1988 No 43)
     
@@ -6067,7 +6028,7 @@ _Amendment(s) incorporated in the [Act(s)][464]._
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1981/0035/latest/whole.html#DLM45429
 [2]: http://www.legislation.govt.nz/act/public/1981/0035/latest/whole.html#DLM45431
 [3]: http://www.legislation.govt.nz/act/public/1981/0035/latest/whole.html#DLM45432
@@ -6474,67 +6435,67 @@ _Amendment(s) incorporated in the [Act(s)][464]._
 [404]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM230272
 [405]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM353005
 [406]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM3360714
-[407]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM145126
-[408]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM293863
-[409]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM222636
-[410]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM223141
-[411]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM306035
-[412]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM309090
-[413]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM36962
-[414]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM163175
-[415]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM211811
-[416]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM211854
-[417]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM95330
-[418]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM437759
-[419]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM93300
-[420]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM211856
-[421]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM211858
-[422]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM116917
-[423]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM968961
-[424]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM969644
-[425]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM327779
-[426]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM236204
-[427]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM133501
-[428]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM96736
-[429]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM319569
-[430]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM328986
-[431]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM240544
-[432]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM228695
-[433]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM418619
-[434]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM2214226
-[435]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM433612
-[436]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM2015063
-[437]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM244384
-[438]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM244385
-[439]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM244388
-[440]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM1102349
-[441]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM432906
-[442]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM215125
-[443]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM430443
-[444]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM314552
-[445]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM208921
-[446]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM214785
-[447]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM227764
-[448]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM242450
-[449]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM259287
-[450]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM264906
-[451]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM275681
-[452]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM284358
-[453]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM317313
-[454]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM320029
-[455]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM324212
-[456]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM404289
-[457]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM294252
-[458]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM388250
-[459]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM442565
-[460]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM18570
-[461]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM21253
-[462]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM34678
-[463]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM228693
-[464]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM265590
-[465]: http://www.pco.parliament.govt.nz/reprints/
-[466]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM195439
-[467]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[468]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM195468
-[469]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM195470
+[407]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM5642106
+[408]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM145126
+[409]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM293863
+[410]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM222636
+[411]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM223141
+[412]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM306035
+[413]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM309090
+[414]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM36962
+[415]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM163175
+[416]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM211811
+[417]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM211854
+[418]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM95330
+[419]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM437759
+[420]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM93300
+[421]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM211856
+[422]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM211858
+[423]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM116917
+[424]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM968961
+[425]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM969644
+[426]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM327779
+[427]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM236204
+[428]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM133501
+[429]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM96736
+[430]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM319569
+[431]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM328986
+[432]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM240544
+[433]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM228695
+[434]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM418619
+[435]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM2214226
+[436]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM433612
+[437]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM2015063
+[438]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM244384
+[439]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM244385
+[440]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM244388
+[441]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM1102349
+[442]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM432906
+[443]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM215125
+[444]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM430443
+[445]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM314552
+[446]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM208921
+[447]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM214785
+[448]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM227764
+[449]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM242450
+[450]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM259287
+[451]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM264906
+[452]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM275681
+[453]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM284358
+[454]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM317313
+[455]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM320029
+[456]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM324212
+[457]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM404289
+[458]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM294252
+[459]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM388250
+[460]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM442565
+[461]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM18570
+[462]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM21253
+[463]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM34678
+[464]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM228693
+[465]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM265590
+[466]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM2998516
+[467]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM2998515
+[468]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM2998532
+[469]: http://www.pco.parliament.govt.nz/editorial-conventions/
 [470]: http://www.legislation.govt.nz/act/public/1981/0035/latest/link.aspx?id=DLM435656
