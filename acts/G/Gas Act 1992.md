@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 4 October 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -3633,11 +3633,13 @@ Miscellaneous provisions
         
         
     
-    *   (b) in relation to a person other than the Secretary, the laying of an information under this Act.
+    *   (b) in relation to a person other than the Secretary, the filing of a charging document under this Act.
     
     Section 57C: inserted, on 4 May 2010, by [section 17(1)][341] of the Gas Amendment Act 2006 (2006 No 71).
     
     Section 57C(4)(a)(i): amended, on 1 July 2013, by [section 413][228] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 57C(4)(b): amended, on 4 October 2013, by [regulation 3(1)][342] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 57D Procedural requirements for infringement notices
     
@@ -3793,27 +3795,27 @@ Enactments amended
 
 ##### Energy Companies Act 1992 (1992 No 56)
 
-_Amendment(s) incorporated in the [Act(s)][342]._
+_Amendment(s) incorporated in the [Act(s)][343]._
 
 ##### Environment Act 1986 (1986 No 127)
 
-_Amendment(s) incorporated in the [Act(s)][343]._
+_Amendment(s) incorporated in the [Act(s)][344]._
 
 ##### Judicature Amendment Act 1991 (1991 No 60)
 
-_Amendment(s) incorporated in the [Act(s)][344]._
+_Amendment(s) incorporated in the [Act(s)][345]._
 
 ##### Ministry of Energy (Abolition) Act 1989 (1989 No 140)
 
-_Amendment(s) incorporated in the [Act(s)][345]._
+_Amendment(s) incorporated in the [Act(s)][346]._
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][346]._
+_Amendment(s) incorporated in the [Act(s)][347]._
 
 ##### Resource Management Act 1991 (1991 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][347]._
+_Amendment(s) incorporated in the [Act(s)][348]._
 
 ---
 
@@ -3836,7 +3838,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Gas Amendment Act 2004][348].
+*   (1) This Act is the [Gas Amendment Act 2004][349].
     
     (2) In this Act, the Gas Act 1992 is called ""the principal Act"".
 
@@ -3846,7 +3848,7 @@ Commencementsee section 2
     
     (2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
     
-    Section 2(1): amended, on 18 October 2004, by [section 201(1)][349] of the Crown Entities Act 2004 (2004 No 115).
+    Section 2(1): amended, on 18 October 2004, by [section 201(1)][350] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Commencement of Energy Commission provisions
 
@@ -3888,7 +3890,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Gas Amendment Act 2006][350].
+*   This Act is the [Gas Amendment Act 2006][351].
 
 ##### 2 Commencement
     
@@ -3896,7 +3898,7 @@ Commencementsee section 2
     
     (2) The rest of this Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions.
     
-    Section 2(2): sections 4, 5, 6(2)--(5), 7, 10--12, and 15--18 brought into force, on 4 May 2010, by the [Gas Amendment Act 2006 Commencement Order 2010][351] (SR 2010/75).
+    Section 2(2): sections 4, 5, 6(2)--(5), 7, 10--12, and 15--18 brought into force, on 4 May 2010, by the [Gas Amendment Act 2006 Commencement Order 2010][352] (SR 2010/75).
 
 ##### 17 New sections 57A to 57F inserted
     
@@ -3914,7 +3916,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Infrastructure (Amendments Relating to Utilities Access) Act 2010][352].
+*   This Act is the [Infrastructure (Amendments Relating to Utilities Access) Act 2010][353].
 
 ##### 2 Commencement
     
@@ -3938,19 +3940,21 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][353] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][354] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][354] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][355] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][355] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][356] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][356] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][357] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][220]
+*   Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][342]
+    
+    Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][220]
     
     Legislation Act 2012 (2012 No 119): [section 77(3)][282]
     
-    [Gas Amendment Act 2012][357] (2012 No 103)
+    [Gas Amendment Act 2012][358] (2012 No 103)
     
     Search and Surveillance Act 2012 (2012 No 24): [section 318][289]
     
@@ -3964,7 +3968,7 @@ Commencementsee section 2
     
     Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99): [sections 18--20][247]
     
-    [Gas Amendment Act 2010][358] (2010 No 17)
+    [Gas Amendment Act 2010][359] (2010 No 17)
     
     Policing Act 2008 (2008 No 72): [section 116(a)(ii)][240]
     
@@ -3972,19 +3976,19 @@ Commencementsee section 2
     
     Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][213]
     
-    [Gas Amendment Act 2007][359] (2007 No 60)
+    [Gas Amendment Act 2007][360] (2007 No 60)
     
     Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74): [section 185][207]
     
-    [Gas Amendment Act 2006][350] (2006 No 71)
+    [Gas Amendment Act 2006][351] (2006 No 71)
     
     Railways Act 2005 (2005 No 37): [section 103(3)][211]
     
-    [Gas Amendment Act 2004][348] (2004 No 83)
+    [Gas Amendment Act 2004][349] (2004 No 83)
     
     Building Act 2004 (2004 No 72): [section 414][321]
     
-    [Gas Amendment Act 2003][360] (2003 No 74)
+    [Gas Amendment Act 2003][361] (2003 No 74)
     
     Local Government Act 2002 (2002 No 84): [section 262][212]
     
@@ -3994,15 +3998,15 @@ Commencementsee section 2
     
     Telecommunications Act 2001 (2001 No 103): [section 158][216]
     
-    [Gas Amendment Act 2001][361] (2001 No 67)
+    [Gas Amendment Act 2001][362] (2001 No 67)
     
-    [Gas Amendment Act 2000][362] (2000 No 69)
+    [Gas Amendment Act 2000][363] (2000 No 69)
     
     Interpretation Act 1999 (1999 No 85): [section 38(1)][323]
     
     Land Transport Act 1998 (1998 No 110): [section 215(1)][222]
     
-    [Gas Amendment Act 1997][363] (1997 No 46)
+    [Gas Amendment Act 1997][364] (1997 No 46)
     
     Financial Reporting Amendment Act 1997 (1997 No 17): [section 6][327]
     
@@ -4356,25 +4360,26 @@ Commencementsee section 2
 [339]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM311346
 [340]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM3359902
 [341]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396743
-[342]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM267128
-[343]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM98974
-[344]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM230212
-[345]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM194753
-[346]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM163182
-[347]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM242025
-[348]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM315518
-[349]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM331112
-[350]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396700
-[351]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2831200
-[352]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2924904
-[353]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2998516
-[354]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2998515
-[355]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2998532
-[356]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[357]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990020
-[358]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2852866
-[359]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM1107111
-[360]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM217048
-[361]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM112759
-[362]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM76895
-[363]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM410365
+[342]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM5642106
+[343]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM267128
+[344]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM98974
+[345]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM230212
+[346]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM194753
+[347]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM163182
+[348]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM242025
+[349]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM315518
+[350]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM331112
+[351]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM396700
+[352]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2831200
+[353]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2924904
+[354]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2998516
+[355]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2998515
+[356]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2998532
+[357]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[358]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM4990020
+[359]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM2852866
+[360]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM1107111
+[361]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM217048
+[362]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM112759
+[363]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM76895
+[364]: http://www.legislation.govt.nz/act/public/1992/0124/latest/link.aspx?id=DLM410365
