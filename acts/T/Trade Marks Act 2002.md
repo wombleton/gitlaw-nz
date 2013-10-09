@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 4 October 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Business, Innovation, and Employment.
 
@@ -2765,9 +2765,11 @@ Legal proceedings
     
     (4) A person who ceases to be an enforcement officer must return the person's warrant of appointment.
     
-    (5) A person who fails to comply with subsection (4) commits an offence and is liable on summary conviction to a fine not exceeding $1,000\.
+    (5) A person who fails to comply with subsection (4) commits an offence and is liable on conviction to a fine not exceeding $1,000\.
     
     Section 134B: inserted, on 7 October 2011, by [section 18][400] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    
+    Section 134B(5): amended, on 4 October 2013, by [regulation 3(1)][401] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 134C Functions of enforcement officer
     
@@ -3011,7 +3013,7 @@ Legal proceedings
         
     *   (a) in the case of a warrant that is executed, the completion of any proceedings in respect of which the validity of the warrant may be in issue; and
     
-    *   (b) in any other case, the destruction or transfer of the warrant and other documents is required by the [Public Records Act 2005][401] or any other enactment or rule of law.
+    *   (b) in any other case, the destruction or transfer of the warrant and other documents is required by the [Public Records Act 2005][402] or any other enactment or rule of law.
     
     Section 134K: inserted, on 7 October 2011, by [section 18][400] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
@@ -3049,9 +3051,9 @@ Legal proceedings
     
     *   (b) exclude any person from the place or thing searched, or from any area within the place or thing, or give any other reasonable direction to such a person, if the person carrying out the search has reasonable grounds to believe that the person will obstruct or hinder the exercise of the power.
     
-    (3) The powers conferred by this section are subject to any conditions imposed under [section 134I(3)(b)][402].
+    (3) The powers conferred by this section are subject to any conditions imposed under [section 134I(3)(b)][403].
     
-    (4) [Section 198B][403] of the Summary Proceedings Act 1957 applies with all necessary modifications as if for each reference to a constable there were substituted a reference to the person authorised to execute the search warrant.
+    (4) [Section 198B][404] of the Summary Proceedings Act 1957 applies with all necessary modifications as if for each reference to a constable there were substituted a reference to the person authorised to execute the search warrant.
     
     Section 134M: inserted, on 7 October 2011, by [section 18][400] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
@@ -3375,13 +3377,15 @@ Legal proceedings
     
 *   (1) No person may, without reasonable excuse, fail to comply with an order under [section 134Y][220].
     
-    (2) Every person who breaches subsection (1) commits an offence and is liable on summary conviction,---
+    (2) Every person who breaches subsection (1) commits an offence and is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or a fine not exceeding $10,000; and
     
     *   (b) in the case of a body corporate, to a fine not exceeding $50,000\.
     
     Section 134ZA: inserted, on 7 October 2011, by [section 18][400] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    
+    Section 134ZA(2): amended, on 4 October 2013, by [regulation 3(1)][401] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 #### Powers of Police
     
@@ -3399,25 +3403,25 @@ Legal proceedings
 
 ##### 134ZC Privilege against self-incrimination
     
-*   (1) An order under [section 134Y][220] does not affect the privilege against self-incrimination that an individual may have under [section 60][404] of the Evidence Act 2006\. 
+*   (1) An order under [section 134Y][220] does not affect the privilege against self-incrimination that an individual may have under [section 60][405] of the Evidence Act 2006\. 
     
-    (2) Any assertion of a privilege against self-incrimination must be based on [section 60][404] of the Evidence Act 2006\. 
+    (2) Any assertion of a privilege against self-incrimination must be based on [section 60][405] of the Evidence Act 2006\. 
     
-    (3) If any individual refuses to produce a document on the ground that it is a privileged communication under [section 60][404] of the Evidence Act 2006, an enforcement officer or a member of the Police may apply to a District Court Judge for an order determining whether the claim of privilege is valid; and, in respect of any such application, the individual must offer sufficient evidence to enable the District Court Judge to assess whether self-incrimination would be reasonably likely if the individual produced the document.
+    (3) If any individual refuses to produce a document on the ground that it is a privileged communication under [section 60][405] of the Evidence Act 2006, an enforcement officer or a member of the Police may apply to a District Court Judge for an order determining whether the claim of privilege is valid; and, in respect of any such application, the individual must offer sufficient evidence to enable the District Court Judge to assess whether self-incrimination would be reasonably likely if the individual produced the document.
     
-    (4) To avoid doubt, nothing in this section affects the application of [section 65][405] of the Evidence Act 2006 (which relates to waiver of privilege) in respect of the privilege against self-incrimination that a person may have under [section 60][404] of that Act. 
+    (4) To avoid doubt, nothing in this section affects the application of [section 65][406] of the Evidence Act 2006 (which relates to waiver of privilege) in respect of the privilege against self-incrimination that a person may have under [section 60][405] of that Act. 
     
-    (5) [Section 63][406] of the Evidence Act 2006 does not apply to an order made under [section 134Y][220].
+    (5) [Section 63][407] of the Evidence Act 2006 does not apply to an order made under [section 134Y][220].
     
     Section 134ZC: inserted, on 7 October 2011, by [section 18][400] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 134ZD Other privileges
     
-*   (1) If, in a criminal proceeding, a person could assert a privilege under [section 54][407] or [56][408] of the Evidence Act 2006 in respect of a communication or information, that person has the same privilege for the purposes of an examination under [section 134D][195], a search warrant issued under [section 134F][198], and an order made under [section 134Y][220].
+*   (1) If, in a criminal proceeding, a person could assert a privilege under [section 54][408] or [56][409] of the Evidence Act 2006 in respect of a communication or information, that person has the same privilege for the purposes of an examination under [section 134D][195], a search warrant issued under [section 134F][198], and an order made under [section 134Y][220].
     
-    (2) Subsection (3) applies to documents that are books of account or accounting records referred to in [section 55(1)][409] of the Evidence Act 2006\. 
+    (2) Subsection (3) applies to documents that are books of account or accounting records referred to in [section 55(1)][410] of the Evidence Act 2006\. 
     
-    (3) The application, by subsection (1), of [section 54][407] of the Evidence Act 2006 (which relates to the privilege for communications with legal advisers) does not prevent, limit, or affect---
+    (3) The application, by subsection (1), of [section 54][408] of the Evidence Act 2006 (which relates to the privilege for communications with legal advisers) does not prevent, limit, or affect---
         
     *   (a) the issue or execution of a search warrant under [section 134F][198]; or
     
@@ -3433,9 +3437,9 @@ Legal proceedings
     
     (5) If a person asserts a claim to privilege under this section in respect of any communication or information, an enforcement officer or a member of the Police may apply to a District Court Judge for an order determining whether or not the claim to privilege is valid; and, for the purpose of determining any such application, the District Court Judge may require the communication or information to be produced to him or her. 
     
-    (6) A District Court Judge may, on the application of an enforcement officer or a member of the Police, disallow a privilege claimed under this section if the Judge is satisfied that the claim to privilege would, under [section 67(1)][410] of the Evidence Act 2006, be disallowed in a proceeding. 
+    (6) A District Court Judge may, on the application of an enforcement officer or a member of the Police, disallow a privilege claimed under this section if the Judge is satisfied that the claim to privilege would, under [section 67(1)][411] of the Evidence Act 2006, be disallowed in a proceeding. 
     
-    (7) [Section 65][405] of the Evidence Act 2006 (which relates to waiver of privilege) applies in respect of any privilege under this section.
+    (7) [Section 65][406] of the Evidence Act 2006 (which relates to waiver of privilege) applies in respect of any privilege under this section.
     
     Section 134ZD: inserted, on 7 October 2011, by [section 18][400] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
@@ -3483,15 +3487,15 @@ Legal proceedings
     
     _accepted notice_ means a notice given under [section 137][235] that has been accepted by the chief executive under [section 139][237]
     
-    _chief executive_ has the same meaning as in [section 2(1)][411] of the Customs and Excise Act 1996
+    _chief executive_ has the same meaning as in [section 2(1)][412] of the Customs and Excise Act 1996
     
     _claimant_ means a person who gives a notice under [section 137][235]
     
-    _control of the Customs_ has the same meaning as in [section 20][412] of the Customs and Excise Act 1996
+    _control of the Customs_ has the same meaning as in [section 20][413] of the Customs and Excise Act 1996
     
     _Customs_ means the New Zealand Customs Service
     
-    _Customs officer_ has the same meaning as in [section 2(1)][411] of the Customs and Excise Act 1996
+    _Customs officer_ has the same meaning as in [section 2(1)][412] of the Customs and Excise Act 1996
     
     _infringing sign_ means a sign that is---
         
@@ -3501,9 +3505,9 @@ Legal proceedings
     
     *   (c) similar to such a trade mark and is used on or in physical relation to goods that are identical with or similar to goods in respect of which the trade mark is registered, if such use would be likely to deceive or confuse.
     
-    Section 135 **accepted notice**: inserted, on 16 September 2011, by [section 19][413] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 135 **accepted notice**: inserted, on 16 September 2011, by [section 19][414] of the Trade Marks Amendment Act 2011 (2011 No 71).
     
-    Section 135 **Customs**: inserted, on 16 September 2011, by [section 19][413] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 135 **Customs**: inserted, on 16 September 2011, by [section 19][414] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 #### Notice of infringing sign
 
@@ -3511,7 +3515,7 @@ Legal proceedings
     
 *   Nothing in [sections 137 to 141][235] applies in relation to any infringing sign that has been applied to goods that are put on the market anywhere in the world under any 1 or more of the circumstances referred to in [section 97A(1)(a) to (c)][142].
     
-    Section 136: substituted, on 16 September 2011, by [section 20][414] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 136: substituted, on 16 September 2011, by [section 20][415] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 137 Notice may be given to chief executive
     
@@ -3587,7 +3591,7 @@ Legal proceedings
     
     *   (b) by posting it to the most recent address for that person that has been notified to the chief executive.
     
-    Section 139A: inserted, on 16 September 2011, by [section 21][415] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 139A: inserted, on 16 September 2011, by [section 21][416] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 139B Notice of suspension
     
@@ -3599,13 +3603,13 @@ Legal proceedings
     
     *   (b) by posting it to the most recent address for that person that has been notified to the chief executive.
     
-    Section 139B: inserted, on 16 September 2011, by [section 21][415] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 139B: inserted, on 16 September 2011, by [section 21][416] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 139C Chief executive may reinstate accepted notice
     
 *   The chief executive may reinstate an accepted notice suspended under [section 139A][238] if the chief executive is satisfied that the grounds for the suspension no longer apply.
     
-    Section 139C: inserted, on 16 September 2011, by [section 21][415] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 139C: inserted, on 16 September 2011, by [section 21][416] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 140 Duration of accepted notice
     
@@ -3619,7 +3623,7 @@ Legal proceedings
     
     (2) However, an accepted notice is not in force during the period of any suspension under [section 139A][238].
     
-    Section 140: substituted, on 16 September 2011, by [section 22][416] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 140: substituted, on 16 September 2011, by [section 22][417] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 141 Licensee may require notice
     
@@ -3817,7 +3821,7 @@ Legal proceedings
 
 #### Enforcement powers of Customs officers
     
-*   Heading: inserted, on 7 October 2011, by [section 23][417] of the Trade Marks Amendment Act 2011 (2011 No 71).
+*   Heading: inserted, on 7 October 2011, by [section 23][418] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 155A Customs officer may seize goods in control of Customs
     
@@ -3825,7 +3829,7 @@ Legal proceedings
     
     (2) The provisions of [sections 134T to 134W][214] apply with all necessary modifications in respect of any imported goods seized under this section, and in applying those provisions every reference to the chief executive must be read as a reference to the chief executive of the New Zealand Customs Service. 
     
-    Section 155A: inserted, on 7 October 2011, by [section 23][417] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 155A: inserted, on 7 October 2011, by [section 23][418] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 155B Chief executive may require person to produce documents concerning goods in control of Customs
     
@@ -3859,7 +3863,7 @@ Legal proceedings
     
     *   (c) make copies of the document.
     
-    Section 155B: inserted, on 7 October 2011, by [section 23][417] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 155B: inserted, on 7 October 2011, by [section 23][418] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 155C Chief executive may require person to appear and answer questions concerning goods in control of Customs
     
@@ -3885,7 +3889,7 @@ Legal proceedings
         
         
     
-    Section 155C: inserted, on 7 October 2011, by [section 23][417] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 155C: inserted, on 7 October 2011, by [section 23][418] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 155D Customs officer may apply for production order
     
@@ -3903,7 +3907,7 @@ Legal proceedings
     
     *   (e) provide details of the documents in respect of which the order is sought.
     
-    Section 155D: inserted, on 7 October 2011, by [section 23][417] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 155D: inserted, on 7 October 2011, by [section 23][418] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 155E Judge may order documents to be produced
     
@@ -3925,7 +3929,7 @@ Legal proceedings
     
     *   (c) may be subject to any further terms and conditions the District Court Judge thinks fit.
     
-    Section 155E: inserted, on 7 October 2011, by [section 23][417] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 155E: inserted, on 7 October 2011, by [section 23][418] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 155F Powers of Customs officer to whom documents produced
     
@@ -3937,7 +3941,7 @@ Legal proceedings
     
     *   (c) make copies of the document.
     
-    Section 155F: inserted, on 7 October 2011, by [section 23][417] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 155F: inserted, on 7 October 2011, by [section 23][418] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 155G Issue of search warrants to Customs officers
     
@@ -3949,27 +3953,27 @@ Legal proceedings
     
     (4) [Sections 134T to 134W][214] apply with all necessary modifications in respect of any thing seized under a search warrant issued under this section, and in applying those provisions every reference to the chief executive must be read as a reference to the chief executive of the New Zealand Customs Service. 
     
-    Section 155G: inserted, on 7 October 2011, by [section 23][417] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 155G: inserted, on 7 October 2011, by [section 23][418] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 155H Privilege against self-incrimination
     
-*   (1) A notice under [section 155B][264] or [155C][265], or an order under [section 155E][267], does not affect the privilege against self-incrimination that an individual may have under [section 60][404] of the Evidence Act 2006\. 
+*   (1) A notice under [section 155B][264] or [155C][265], or an order under [section 155E][267], does not affect the privilege against self-incrimination that an individual may have under [section 60][405] of the Evidence Act 2006\. 
     
-    (2) Any assertion of a privilege against self-incrimination must be based on [section 60][404] of the Evidence Act 2006\. 
+    (2) Any assertion of a privilege against self-incrimination must be based on [section 60][405] of the Evidence Act 2006\. 
     
-    (3) If any individual refuses to produce any information or document or to answer any question on the ground that it is a privileged communication under [section 60][404] of the Evidence Act 2006, a Customs officer or a member of the Police may apply to a District Court Judge for an order determining whether the claim of privilege is valid; and, in respect of any such application, the individual must offer sufficient evidence to enable the District Court Judge to assess whether self-incrimination would be reasonably likely if the individual produced the information or the document or answered the question.
+    (3) If any individual refuses to produce any information or document or to answer any question on the ground that it is a privileged communication under [section 60][405] of the Evidence Act 2006, a Customs officer or a member of the Police may apply to a District Court Judge for an order determining whether the claim of privilege is valid; and, in respect of any such application, the individual must offer sufficient evidence to enable the District Court Judge to assess whether self-incrimination would be reasonably likely if the individual produced the information or the document or answered the question.
     
-    (4) To avoid doubt, nothing in this section affects the application of [section 65][405] of the Evidence Act 2006 (which relates to waiver of privilege) in respect of the privilege against self-incrimination that a person may have under [section 60][404] of that Act. 
+    (4) To avoid doubt, nothing in this section affects the application of [section 65][406] of the Evidence Act 2006 (which relates to waiver of privilege) in respect of the privilege against self-incrimination that a person may have under [section 60][405] of that Act. 
     
-    (5) [Section 63][406] of the Evidence Act 2006 does not apply to an order made under [section 155E][267]. 
+    (5) [Section 63][407] of the Evidence Act 2006 does not apply to an order made under [section 155E][267]. 
     
-    Section 155H: inserted, on 7 October 2011, by [section 23][417] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 155H: inserted, on 7 October 2011, by [section 23][418] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 155I Other privileges
     
-*   (1) If, in a criminal proceeding, a person could assert a privilege under [section 54][407] or [56][408] of the Evidence Act 2006 in respect of a communication or information, that person has the same privilege for the purposes of a notice issued under [section 155B][264] or [155C][265], an order made under [section 155E][267], and a search warrant issued under [section 155G][269]. 
+*   (1) If, in a criminal proceeding, a person could assert a privilege under [section 54][408] or [56][409] of the Evidence Act 2006 in respect of a communication or information, that person has the same privilege for the purposes of a notice issued under [section 155B][264] or [155C][265], an order made under [section 155E][267], and a search warrant issued under [section 155G][269]. 
     
-    (2) Subsection (3) applies to documents that are books of account or accounting records referred to in [section 55(1)][409] of the Evidence Act 2006\. 
+    (2) Subsection (3) applies to documents that are books of account or accounting records referred to in [section 55(1)][410] of the Evidence Act 2006\. 
     
     (3) The application, by subsection (1), of section 54 of the Evidence Act 2006 (which relates to the privilege for communications with legal advisers) does not prevent, limit, or affect---
         
@@ -3991,11 +3995,11 @@ Legal proceedings
     
     (5) If a person asserts a claim to privilege under this section in respect of any communication or information, a Customs officer or a member of the Police may apply to a District Court Judge for an order determining whether the claim to privilege is valid; and, for the purpose of determining any such application, the District Court Judge may require the communication or information to be produced to him or her. 
     
-    (6) A District Court Judge may, on the application of a Customs officer or a member of the Police, disallow a privilege claimed under this section if the Judge is satisfied that the claim to privilege would, under [section 67(1)][410] of the Evidence Act 2006, be disallowed in a proceeding. 
+    (6) A District Court Judge may, on the application of a Customs officer or a member of the Police, disallow a privilege claimed under this section if the Judge is satisfied that the claim to privilege would, under [section 67(1)][411] of the Evidence Act 2006, be disallowed in a proceeding. 
     
-    (7) [Section 65][405] of the Evidence Act 2006 (which relates to waiver of privilege) applies in respect of any privilege under this section. 
+    (7) [Section 65][406] of the Evidence Act 2006 (which relates to waiver of privilege) applies in respect of any privilege under this section. 
     
-    Section 155I: inserted, on 7 October 2011, by [section 23][417] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 155I: inserted, on 7 October 2011, by [section 23][418] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 155J Offences
     
@@ -4009,17 +4013,19 @@ Legal proceedings
     
     (3) No person may, without reasonable excuse, refuse or fail to comply with an order made under [section 155E][267].
     
-    (4) Every person who breaches any of subsections (1) to (3) commits an offence and is liable on summary conviction,---
+    (4) Every person who breaches any of subsections (1) to (3) commits an offence and is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or to a fine not exceeding $10,000; and
     
     *   (b) in the case of a body corporate, to a fine not exceeding $50,000\. 
     
-    Section 155J: inserted, on 7 October 2011, by [section 23][417] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 155J: inserted, on 7 October 2011, by [section 23][418] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    
+    Section 155J(4): amended, on 4 October 2013, by [regulation 3(1)][401] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 #### Immunity
     
-*   Heading: inserted, on 7 October 2011, by [section 23][417] of the Trade Marks Amendment Act 2011 (2011 No 71).
+*   Heading: inserted, on 7 October 2011, by [section 23][418] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 155K No liability if powers exercised in good faith
     
@@ -4037,7 +4043,7 @@ Legal proceedings
     
     *   (c) in the reasonably held belief that the prerequisites for the exercise of any power had been satisfied.
     
-    Section 155K: inserted, on 7 October 2011, by [section 23][417] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 155K: inserted, on 7 October 2011, by [section 23][418] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 #### Delegation of chief executive's powers, duties, and functions
 
@@ -4133,9 +4139,9 @@ Legal proceedings
     
     (4) In any proceeding under this Act before the Commissioner, the Commissioner may administer oaths to any witness, and may in the prescribed manner require the attendance of any witness and discovery and production of documents.
     
-    (5) Any evidence given on oath before the Commissioner is deemed to be given in a judicial proceeding for the purposes of [sections 108][418] and [109][419] of the Crimes Act 1961\.
+    (5) Any evidence given on oath before the Commissioner is deemed to be given in a judicial proceeding for the purposes of [sections 108][419] and [109][420] of the Crimes Act 1961\.
     
-    (6) [Section 111][420] of the Crimes Act 1961 applies to every affidavit and statutory declaration made for the purposes of this Act.
+    (6) [Section 111][421] of the Crimes Act 1961 applies to every affidavit and statutory declaration made for the purposes of this Act.
     
     Compare: 1953 No 66 s 68
 
@@ -4151,7 +4157,7 @@ Legal proceedings
     
     Compare: 1953 No 66 s 69
     
-    Section 161(2): amended, on 15 December 2005, by [section 14][421] of the Trade Marks Amendment Act 2005 (2005 No 116).
+    Section 161(2): amended, on 15 December 2005, by [section 14][422] of the Trade Marks Amendment Act 2005 (2005 No 116).
 
 ##### 162 Registration is prima facie evidence of validity
     
@@ -4278,7 +4284,7 @@ Administrative provisions and miscellaneous
 
 ##### 175 Commissioner and Assistant Commissioners of Trade Marks
     
-*   (1) The chief executive of the Ministry must appoint, under the [State Sector Act 1988][422],---
+*   (1) The chief executive of the Ministry must appoint, under the [State Sector Act 1988][423],---
         
     *   (a) the Commissioner of Trade Marks; and
     
@@ -4286,7 +4292,7 @@ Administrative provisions and miscellaneous
     
     (2) Those persons are employees of the Ministry, and those appointments may be made separately or in conjunction with any other office in the Ministry. 
     
-    Section 175: substituted, on 16 September 2011, by [section 24][423] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 175: substituted, on 16 September 2011, by [section 24][424] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 175A Functions of Commissioner
     
@@ -4304,7 +4310,7 @@ Administrative provisions and miscellaneous
     
     *   (f) perform or exercise other functions, duties, and powers conferred on him or her by this Act and the regulations.
     
-    Section 175A: inserted, on 16 September 2011, by [section 24][423] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 175A: inserted, on 16 September 2011, by [section 24][424] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 175B Powers of Assistant Commissioners
     
@@ -4312,7 +4318,7 @@ Administrative provisions and miscellaneous
     
     (2) The fact that an Assistant Commissioner performs or exercises those functions, duties, and powers is conclusive evidence of the authority to do so.
     
-    Section 175B: inserted, on 16 September 2011, by [section 24][423] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 175B: inserted, on 16 September 2011, by [section 24][424] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 175C Power of Commissioner to delegate
     
@@ -4334,7 +4340,7 @@ Administrative provisions and miscellaneous
     
     (5) Any reference in this Act or the regulations to the Commissioner includes a reference to the delegate in respect of anything delegated to that person.
     
-    Section 175C: inserted, on 16 September 2011, by [section 24][423] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 175C: inserted, on 16 September 2011, by [section 24][424] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 176 Hearing before exercise of Commissioner's discretion
     
@@ -4404,9 +4410,9 @@ Administrative provisions and miscellaneous
     
     Compare: 1953 No 66 s 5(1)
     
-    Section 182(b): substituted, on 15 December 2005, by [section 15][424] of the Trade Marks Amendment Act 2005 (2005 No 116).
+    Section 182(b): substituted, on 15 December 2005, by [section 15][425] of the Trade Marks Amendment Act 2005 (2005 No 116).
     
-    Section 182(d): substituted, on 16 September 2011, by [section 25][425] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 182(d): substituted, on 16 September 2011, by [section 25][426] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 183 No notices of trusts may be entered in register
     
@@ -4576,7 +4582,7 @@ Administrative provisions and miscellaneous
         
         
     
-    Section 193 heading: amended, on 15 December 2005, by [section 16][426] of the Trade Marks Amendment Act 2005 (2005 No 116).
+    Section 193 heading: amended, on 15 December 2005, by [section 16][427] of the Trade Marks Amendment Act 2005 (2005 No 116).
 
 #### Amendment of other documents
 
@@ -4630,7 +4636,7 @@ Administrative provisions and miscellaneous
 
 ##### 198 Annual report by Commissioner of Patents
     
-*   The Commissioner of Patents must, in his or her annual report with respect to the operation of the [Patents Act 1953][427], include a report with respect to the operation of this Act as if it formed a part of or was included in that Act.
+*   The Commissioner of Patents must, in his or her annual report with respect to the operation of the [Patents Act 1953][428], include a report with respect to the operation of this Act as if it formed a part of or was included in that Act.
     
     Compare: 1953 No 66 s 83
 
@@ -4732,15 +4738,15 @@ Administrative provisions and miscellaneous
     
     *   (m) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
     
-    Section 199(b)(ia): inserted, on 16 September 2011, by [section 26(1)][428] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 199(b)(ia): inserted, on 16 September 2011, by [section 26(1)][429] of the Trade Marks Amendment Act 2011 (2011 No 71).
     
-    Section 199(c) heading: repealed, on 16 September 2011, by [section 26(2)][428] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 199(c) heading: repealed, on 16 September 2011, by [section 26(2)][429] of the Trade Marks Amendment Act 2011 (2011 No 71).
     
-    Section 199(c): repealed, on 16 September 2011, by [section 26(2)][428] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 199(c): repealed, on 16 September 2011, by [section 26(2)][429] of the Trade Marks Amendment Act 2011 (2011 No 71).
     
-    Section 199(e)(i): substituted, on 16 September 2011, by [section 26(3)][428] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 199(e)(i): substituted, on 16 September 2011, by [section 26(3)][429] of the Trade Marks Amendment Act 2011 (2011 No 71).
     
-    Section 199(j): substituted, on 16 September 2011, by [section 26(4)][428] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 199(j): substituted, on 16 September 2011, by [section 26(4)][429] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 199A Regulations: Madrid Protocol
     
@@ -4770,7 +4776,7 @@ Administrative provisions and miscellaneous
         
         
     
-    Section 199A: inserted, on 16 September 2011, by [section 27][429] of the Trade Marks Amendment Act 2011 (2011 No 71).
+    Section 199A: inserted, on 16 September 2011, by [section 27][430] of the Trade Marks Amendment Act 2011 (2011 No 71).
 
 ##### 200 Orders in Council relating to convention countries
     
@@ -4790,7 +4796,7 @@ Administrative provisions and miscellaneous
     
 *   (1) The Trade Marks Act 1953 (1953 No 66) is repealed.
     
-    (2) Despite the repeal of the Trade Marks Act 1953 by subsection (1), the [Prohibited Marks Order 1961][430] (SR 1961/120) and the [Prohibited Marks Order 1982][431] (SR 1982/127)---
+    (2) Despite the repeal of the Trade Marks Act 1953 by subsection (1), the [Prohibited Marks Order 1961][431] (SR 1961/120) and the [Prohibited Marks Order 1982][432] (SR 1982/127)---
         
     *   (a) continue in force as if that Act had not been repealed; and
     
@@ -4830,7 +4836,7 @@ Administrative provisions and miscellaneous
     
 *   A certificate of validity of registration given under section 61 of the Trade Marks Act 1953 has effect as if given under [section 165(1)][289] of this Act.
     
-    Section 206: amended, on 15 December 2005, by [section 17][432] of the Trade Marks Amendment Act 2005 (2005 No 116).
+    Section 206: amended, on 15 December 2005, by [section 17][433] of the Trade Marks Amendment Act 2005 (2005 No 116).
 
 ##### 207 Orders in Council relating to convention countries under Trade Marks Act 1953
     
@@ -4864,9 +4870,9 @@ Administrative provisions and miscellaneous
     
     (7) A trade mark that was registered as a defensive trade mark under the Trade Marks Act 1953 cannot be revoked under [section 66(1)(a) or (b)][97] until 3 years after the coming into force of this Act.
     
-    Section 208(2): amended, on 22 October 2003, by [section 3][433] of the Trade Marks Amendment Act 2003 (2003 No 100).
+    Section 208(2): amended, on 22 October 2003, by [section 3][434] of the Trade Marks Amendment Act 2003 (2003 No 100).
     
-    Section 208(5): substituted, on 15 December 2005, by [section 18][434] of the Trade Marks Amendment Act 2005 (2005 No 116).
+    Section 208(5): substituted, on 15 December 2005, by [section 18][435] of the Trade Marks Amendment Act 2005 (2005 No 116).
 
 ##### 209 Status of notes, etc, on register before commencement of Act
     
@@ -4885,7 +4891,7 @@ Acts amended
 
 ##### Administration Act 1969 (1969 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][435]._
+_Amendment(s) incorporated in the [Act(s)][436]._
 
 ##### Animal Remedies Act 1967 (1967 No 51)
 
@@ -4893,7 +4899,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Commerce Act 1986 (1986 No 5)
 
-_Amendment(s) incorporated in the [Act(s)][436]._
+_Amendment(s) incorporated in the [Act(s)][437]._
 
 ##### Copyright Act 1994 (1994 No 143)
 
@@ -4901,23 +4907,23 @@ _Amendment(s) incorporated in the [Act(s)][395]._
 
 ##### Crown Proceedings Act 1950 (1950 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][437]._
+_Amendment(s) incorporated in the [Act(s)][438]._
 
 ##### Disputes Tribunals Act 1988 (1988 No 110)
 
-_Amendment(s) incorporated in the [Act(s)][438]._
+_Amendment(s) incorporated in the [Act(s)][439]._
 
 ##### Fair Trading Act 1986 (1986 No 121)
 
-_Amendment(s) incorporated in the [Act(s)][439]._
+_Amendment(s) incorporated in the [Act(s)][440]._
 
 ##### Flags, Emblems, and Names Protection Act 1981 (1981 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][440]._
+_Amendment(s) incorporated in the [Act(s)][441]._
 
 ##### Geographical Indications Act 1994 (1994 No 125)
 
-_Amendment(s) incorporated in the [Act(s)][441]._
+_Amendment(s) incorporated in the [Act(s)][442]._
 
 ##### Pesticides Act 1979 (1979 No 26)
 
@@ -4925,88 +4931,47 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][442]._
+_Amendment(s) incorporated in the [Act(s)][443]._
 
 ##### Public Works Act 1981 (1981 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][443]._
+_Amendment(s) incorporated in the [Act(s)][444]._
 
 ##### Smoke-free Environment Act 1990 (1990 No 108)
 
-_Amendment(s) incorporated in the [Act(s)][444]._
+_Amendment(s) incorporated in the [Act(s)][445]._
 
 ##### Standards Act 1988 (1988 No 5)
 
-_Amendment(s) incorporated in the [Act(s)][445]._
+_Amendment(s) incorporated in the [Act(s)][446]._
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][446]._
+_Amendment(s) incorporated in the [Act(s)][447]._
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Trade Marks Act 2002\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][447] ![](/images/external_link.gif).
+*   This is a reprint of the Trade Marks Act 2002 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][448] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][448] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][449] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][449] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][450] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][451] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][450] and [17E][451] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][401]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Trade Marks Amendment Act 2012][452] (2012 No 20)
+    [Trade Marks Amendment Act 2012][452] (2012 No 20)
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][393]
     
@@ -5022,7 +4987,7 @@ _Amendment(s) incorporated in the [Act(s)][446]._
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2002/0049/latest/whole.html#DLM164243
 [2]: http://www.legislation.govt.nz/act/public/2002/0049/latest/whole.html#DLM164244
 [3]: http://www.legislation.govt.nz/act/public/2002/0049/latest/whole.html#DLM164245
@@ -5423,57 +5388,57 @@ _Amendment(s) incorporated in the [Act(s)][446]._
 [398]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM346610
 [399]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM346615
 [400]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290055
-[401]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM345528
-[402]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM4124331
-[403]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM314016
-[404]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM393672
-[405]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM393677
-[406]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM393675
-[407]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM393659
-[408]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM393663
-[409]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM393662
-[410]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM393679
-[411]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM377342
-[412]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM378192
-[413]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290099
-[414]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2353611
-[415]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290104
-[416]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290108
-[417]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290110
-[418]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM328793
-[419]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM328796
-[420]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM328799
-[421]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM362648
-[422]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM129109
-[423]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2353613
-[424]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM362649
-[425]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290126
-[426]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM362650
-[427]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM280030
-[428]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290127
-[429]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290128
-[430]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM15734
-[431]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM82309
-[432]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM362651
-[433]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM218849
-[434]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM362652
-[435]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM392629
-[436]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM88410
-[437]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM261925
-[438]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM133292
-[439]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM96923
-[440]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM51363
-[441]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM345232
-[442]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM298477
-[443]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM45426
-[444]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM223905
-[445]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM128701
-[446]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM314314
-[447]: http://www.pco.parliament.govt.nz/reprints/
-[448]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM195439
-[449]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[450]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM195468
-[451]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM195470
+[401]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM5642106
+[402]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM345528
+[403]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM4124331
+[404]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM314016
+[405]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM393672
+[406]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM393677
+[407]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM393675
+[408]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM393659
+[409]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM393663
+[410]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM393662
+[411]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM393679
+[412]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM377342
+[413]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM378192
+[414]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290099
+[415]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2353611
+[416]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290104
+[417]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290108
+[418]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290110
+[419]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM328793
+[420]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM328796
+[421]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM328799
+[422]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM362648
+[423]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM129109
+[424]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2353613
+[425]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM362649
+[426]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290126
+[427]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM362650
+[428]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM280030
+[429]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290127
+[430]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290128
+[431]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM15734
+[432]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM82309
+[433]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM362651
+[434]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM218849
+[435]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM362652
+[436]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM392629
+[437]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM88410
+[438]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM261925
+[439]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM133292
+[440]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM96923
+[441]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM51363
+[442]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM345232
+[443]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM298477
+[444]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM45426
+[445]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM223905
+[446]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM128701
+[447]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM314314
+[448]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2998516
+[449]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2998515
+[450]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2998532
+[451]: http://www.pco.parliament.govt.nz/editorial-conventions/
 [452]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM4015202
 [453]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM2290000
 [454]: http://www.legislation.govt.nz/act/public/2002/0049/latest/link.aspx?id=DLM362630
