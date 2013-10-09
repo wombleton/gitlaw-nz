@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 4 October 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -71,7 +71,7 @@ An Act to confer on the Governor-General in Council power to make regulations to
     
 *   (1) Every person who commits, or attempts to commit, or does any act with intent to commit, or counsels, procures, aids, abets, or incites any other person to commit, or conspires with any other person (whether in New Zealand or elsewhere) to commit any offence against any regulations made under this Act shall be liable on conviction, in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $10,000, or, in the case of a company or other corporation, to a fine not exceeding $100,000\.
     
-    (2) The publication in the _Gazette_ or in accordance with the [Legislation Act 2012][9] of any regulations made under this Act or of any Order in Council, Proclamation, order, notice, warrant, licence, or other act of authority under this Act or under the regulations must be treated for all purposes as being notice of the act of authority to all persons concerned, and in any prosecution the liability of the accused must be determined accordingly.
+    (2) The publication in the _Gazette_ or in accordance with the [Legislation Act 2012][9] of any regulations made under this Act or of any Order in Council, Proclamation, order, notice, warrant, licence, or other act of authority under this Act or under the regulations must be treated for all purposes as being notice of the act of authority to all persons concerned, and in any prosecution the liability of the defendant must be determined accordingly.
     
     (3) Nothing in this Act or in any regulations made under this Act shall be so construed or shall so operate as to take away or restrict the liability of any person for any offence punishable independently of this Act, but no person shall be punished twice for the same offence.
     
@@ -82,6 +82,8 @@ An Act to confer on the Governor-General in Council power to make regulations to
     Section 3(1): amended, on 31 August 1990, by section 2(b) of the United Nations Amendment Act 1990 (1990 No 124).
     
     Section 3(2): replaced, on 5 August 2013, by [section 77(3)][11] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 3(2): amended, on 4 October 2013, by [regulation 3(1)][12] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 4 Application to Cook Islands and other territories
     
@@ -89,13 +91,13 @@ An Act to confer on the Governor-General in Council power to make regulations to
     
     (2) Except so far as otherwise expressly provided, regulations made under this Act shall not be in force in the Cook Islands or in any such territory as aforesaid.
     
-    Heading: amended, at 11 pm on 1 January 1962, pursuant to [section 9][12] of the Western Samoa Act 1961 (1961 No 68).
+    Heading: amended, at 11 pm on 1 January 1962, pursuant to [section 9][13] of the Western Samoa Act 1961 (1961 No 68).
     
     Section 4(1): amended, on 1 January 1987, pursuant to [section 5(2)][8] of the Constitution Act 1986 (1986 No 114).
     
-    Section 4(1): amended, at 11 pm on 1 January 1962, by [section 9][12] of the Western Samoa Act 1961 (1961 No 68).
+    Section 4(1): amended, at 11 pm on 1 January 1962, by [section 9][13] of the Western Samoa Act 1961 (1961 No 68).
     
-    Section 4(2): amended, at 11 pm on 1 January 1962, by [section 9][12] of the Western Samoa Act 1961 (1961 No 68).
+    Section 4(2): amended, at 11 pm on 1 January 1962, by [section 9][13] of the Western Samoa Act 1961 (1961 No 68).
 
 ##### 5 Repeals
     
@@ -113,15 +115,17 @@ An Act to confer on the Governor-General in Council power to make regulations to
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][13] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][14] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][14] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][15] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][15] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][16] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][16] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][17] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][11]
+*   Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][12]
+    
+    Legislation Act 2012 (2012 No 119): [section 77(3)][11]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][10]
     
@@ -129,7 +133,7 @@ An Act to confer on the Governor-General in Council power to make regulations to
     
     Constitution Act 1986 (1986 No 114): [section 5(2)][8]
     
-    Western Samoa Act 1961 (1961 No 68): [section 9][12]
+    Western Samoa Act 1961 (1961 No 68): [section 9][13]
 
 
 
@@ -145,8 +149,9 @@ An Act to confer on the Governor-General in Council power to make regulations to
 [9]: http://www.legislation.govt.nz/act/public/1946/0007/latest/link.aspx?id=DLM2997643
 [10]: http://www.legislation.govt.nz/act/public/1946/0007/latest/link.aspx?id=DLM3360714
 [11]: http://www.legislation.govt.nz/act/public/1946/0007/latest/link.aspx?id=DLM2998633
-[12]: http://www.legislation.govt.nz/act/public/1946/0007/latest/link.aspx?id=DLM336822
-[13]: http://www.legislation.govt.nz/act/public/1946/0007/latest/link.aspx?id=DLM2998516
-[14]: http://www.legislation.govt.nz/act/public/1946/0007/latest/link.aspx?id=DLM2998515
-[15]: http://www.legislation.govt.nz/act/public/1946/0007/latest/link.aspx?id=DLM2998532
-[16]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[12]: http://www.legislation.govt.nz/act/public/1946/0007/latest/link.aspx?id=DLM5642106
+[13]: http://www.legislation.govt.nz/act/public/1946/0007/latest/link.aspx?id=DLM336822
+[14]: http://www.legislation.govt.nz/act/public/1946/0007/latest/link.aspx?id=DLM2998516
+[15]: http://www.legislation.govt.nz/act/public/1946/0007/latest/link.aspx?id=DLM2998515
+[16]: http://www.legislation.govt.nz/act/public/1946/0007/latest/link.aspx?id=DLM2998532
+[17]: http://www.pco.parliament.govt.nz/editorial-conventions/
