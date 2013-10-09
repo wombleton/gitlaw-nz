@@ -1,5 +1,5 @@
 Reprint  
-as at 1 August 2013
+as at 4 October 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Transport.
 
@@ -2008,15 +2008,21 @@ Enforcement and other matters
 
 ##### 76 Proceedings for offences generally
     
-*   (1) An offence against this Act is punishable on summary conviction.
+*   (1) \[Repealed\]
     
-    (2) Despite [section 14][187] of the Summary Proceedings Act 1957, an information for---
+    (2) Despite [section 25][187] of the Criminal Procedure Act 2011, the limitation period for---
         
-    *   (a) a specified offence may be laid at any time within 5 years after the time when the matter giving rise to the information arose:
+    *   (a) a specified offence ends on the date that is 5 years after the date on which the offence was committed:
     
-    *   (b) for any other offence against this Act may be laid within 1 year after the time when the matter giving rise to the information arose.
+    *   (b) for any other offence against this Act ends on the date that is 1 year after the date on which the offence was committed.
     
+    Section 76(1): repealed, on 4 October 2013, by [regulation 3(1)][188] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
     
+    Section 76(2): amended, on 4 October 2013, by [regulation 3(1)][188] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    
+    Section 76(2)(a): amended, on 4 October 2013, by [regulation 3(1)][188] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    
+    Section 76(2)(b): amended, on 4 October 2013, by [regulation 3(1)][188] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 77 Admissibility of certain statements
     
@@ -2032,7 +2038,7 @@ Enforcement and other matters
     
     *   (b) a statement relating to a matter that must by any enactment be specified in a logbook.
     
-    Compare: 1977 No 124 [s 23B][188]
+    Compare: 1977 No 124 [s 23B][189]
 
 #### Defences
 
@@ -2066,19 +2072,19 @@ Enforcement and other matters
 
 ##### 79 Power to issue search warrant in respect of alleged offence
     
-*   (1) A search warrant may be issued in accordance with [section 198][189] of the Summary Proceedings Act 1957 in relation to an alleged specified offence against this Act.
+*   (1) A search warrant may be issued in accordance with [section 198][190] of the Summary Proceedings Act 1957 in relation to an alleged specified offence against this Act.
     
     (2) Subsection (1) applies even though the offence is not punishable by imprisonment.
     
-    (3) If a search warrant is issued under [section 198][189] of the Summary Proceedings Act 1957, as provided for by subsection (1), the following provisions of that Act apply as far as they are applicable and with any necessary modifications:
+    (3) If a search warrant is issued under [section 198][190] of the Summary Proceedings Act 1957, as provided for by subsection (1), the following provisions of that Act apply as far as they are applicable and with any necessary modifications:
         
-    *   (a) [section 198B ][190] (which relates to computer access assistance):
+    *   (a) [section 198B ][191] (which relates to computer access assistance):
     
-    *   (b) [section 199][191] (which relates to the disposal of things seized).
+    *   (b) [section 199][192] (which relates to the disposal of things seized).
     
-    (4) It is declared that a person who, under [section 199][191] of the Summary Proceedings Act 1957 (as applied by subsection (3)), has custody of any thing seized under a warrant provided for by subsection (1) may disclose any information contained in or derived from the thing only---
+    (4) It is declared that a person who, under [section 199][192] of the Summary Proceedings Act 1957 (as applied by subsection (3)), has custody of any thing seized under a warrant provided for by subsection (1) may disclose any information contained in or derived from the thing only---
         
-    *   (a) for the purposes of [section 199][191] of that Act (as so applied); or
+    *   (a) for the purposes of [section 199][192] of that Act (as so applied); or
     
     *   (b) for the purposes of investigating or prosecuting an offence; or
     
@@ -2110,15 +2116,19 @@ Enforcement and other matters
     
 *   (1) If a person is alleged to have committed an infringement offence, the person may either---
         
-    *   (a) be proceeded against summarily under the [Summary Proceedings Act 1957][192]; or
+    *   (a) be proceeded against by filing a charging document under [section 14][193] of the Criminal Procedure Act 2011; or
     
     *   (b) be issued with an infringement notice as provided in [section 82][115]. 
     
-    (2) Despite anything in [section 21][193] of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to lay an information is not necessary where an infringement offence is proceeded with summarily.
+    (2) Proceedings commenced in the way described in subsection (1)(a) do not require leave of a District Court Judge or Registrar under [section 21(1)(a)][194] of the Summary Proceedings Act 1957\.
+    
+    Section 81(1)(a): amended, on 4 October 2013, by [regulation 3(1)][188] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    
+    Section 81(2): amended, on 4 October 2013, by [regulation 3(1)][188] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 82 Issue of infringement notice and reminder notices
     
-*   [Sections 139][186] and [140][194] of the Land Transport Act 1998 apply with any necessary modifications to the issue of an infringement notice or a reminder notice for an infringement offence under this Act. 
+*   [Sections 139][186] and [140][195] of the Land Transport Act 1998 apply with any necessary modifications to the issue of an infringement notice or a reminder notice for an infringement offence under this Act. 
 
 ##### 83 Infringement fees
     
@@ -2126,9 +2136,9 @@ Enforcement and other matters
     
     (2) To avoid doubt, in the case of an infringement offence against [section 10(2)][13], the person must pay the fee prescribed by the regulations made under section 89\.
     
-    (3) All infringement fees received under this Act or recovered under the [Summary Proceedings Act 1957][192] must be paid into a Crown bank account.
+    (3) All infringement fees received under this Act or recovered under the [Summary Proceedings Act 1957][196] must be paid into a Crown bank account.
     
-    Compare: 1998 No 110 [s 43(3)][195]
+    Compare: 1998 No 110 [s 43(3)][197]
 
 ##### 84 Courts may impose appropriate fines for infringement offences
     
@@ -2136,7 +2146,7 @@ Enforcement and other matters
     
     (2) A court may impose a fine for the infringement offence that is not more than the maximum fine prescribed for that offence, whether the fine imposed is more than, the same as, or less than the prescribed infringement fee for that offence.
     
-    Compare: 1998 No 110 [s 43A][196]
+    Compare: 1998 No 110 [s 43A][198]
 
 ### Subpart 2---Other matters
 
@@ -2168,7 +2178,7 @@ Enforcement and other matters
     
     (6) The repeal of any Act of Parliament passed for the purpose of expressly validating or confirming regulations made under subsection (1) does not, unless there is any express provision to the contrary, affect the validity or confirmation of the Order in Council.
     
-    Compare: 1977 No 124 [s 20][197]
+    Compare: 1977 No 124 [s 20][199]
 
 ##### 86 Licence for heavy RUC vehicle invalid 1 month after road user charges rate increased
     
@@ -2176,7 +2186,7 @@ Enforcement and other matters
     
     (2) Despite any other provision of this Act, a licence for a heavy RUC vehicle that is issued before the increase comes into force is no longer valid after the expiry of 1 month from the date of the increase.
     
-    Compare: 1977 No 124 [s 21][198]
+    Compare: 1977 No 124 [s 21][200]
 
 ##### 87 Appointment of RUC collector
     
@@ -2354,7 +2364,7 @@ Enforcement and other matters
     
     (5) A person or class of persons, or the holder or holders for the time being of a specified office or class of offices, to whom any functions, duties, or powers are delegated under this section may perform those functions and duties, or exercise those powers, in the same manner and with the same effect as if they had been imposed or conferred on that person directly by this Act and not by delegation.
     
-    Compare: 1977 No 124 [s 23D(1), (2)--(4), (6)][199]
+    Compare: 1977 No 124 [s 23D(1), (2)--(4), (6)][201]
 
 ##### 92 Further provisions relating to delegation
     
@@ -2372,15 +2382,15 @@ Enforcement and other matters
     
     (3) A person purporting to act under any delegation under [section 91][127] must, if reasonably requested to do so, produce evidence of the person's authority to act under the delegation.
     
-    Compare: 1977 No 124 [s 23D(2A), (7)][199]
+    Compare: 1977 No 124 [s 23D(2A), (7)][201]
 
 #### Notice requirements
 
 ##### 93 Notice requirements
     
-*   (1) [Part 1][200] of Schedule 2 applies to a notice given under this Act by the RUC collector.
+*   (1) [Part 1][202] of Schedule 2 applies to a notice given under this Act by the RUC collector.
     
-    (2) [Part 2][201] of Schedule 2 applies to a notice given under this Act to the RUC collector.
+    (2) [Part 2][203] of Schedule 2 applies to a notice given under this Act to the RUC collector.
 
 ### Subpart 3---Consequential amendments, repeal and revocation, and transitional and savings provisions
 
@@ -2412,17 +2422,17 @@ Enforcement and other matters
 
 ##### 97 Transitional and savings provisions relating to electronic distance recorders and hubodometers approved under former Act
     
-*   (1) On and from the commencement of [section 43][56] of this Act, an electronic distance recorder approved under [regulation 6A][202] of the Road User Charges Regulations 1978 and in use immediately before that commencement must be treated as if it were an electronic distance recorder provided by an electronic system provider under [section 43][56].
+*   (1) On and from the commencement of [section 43][56] of this Act, an electronic distance recorder approved under [regulation 6A][204] of the Road User Charges Regulations 1978 and in use immediately before that commencement must be treated as if it were an electronic distance recorder provided by an electronic system provider under [section 43][56].
     
-    (2) On and from the commencement of [section 48][63] of this Act, a hubodometer manufactured under a brand name specified in the definition of hubodometer in [regulation 2][203] of the Road User Charges Regulations 1978 and in use immediately before that commencement must be treated as if it were approved by the RUC collector under section 48\.
+    (2) On and from the commencement of [section 48][63] of this Act, a hubodometer manufactured under a brand name specified in the definition of hubodometer in [regulation 2][205] of the Road User Charges Regulations 1978 and in use immediately before that commencement must be treated as if it were approved by the RUC collector under section 48\.
 
 ##### 98 Other transitional and savings provisions
     
 *   (1) Any road user charges that are assessable or payable under the former Act in relation to the period of 6 years immediately before the commencement of [Part 3][69] of this Act must, despite the repeal of the former Act, be treated as remaining in force and proceedings for the recovery of those road user charges may be enforced, continued, or completed as if this Act had not been passed.
     
-    (2) An inquiry commenced under [section 18A][204] of the former Act that is pending or in progress immediately before the repeal of that section by this Act may be continued or completed (as the case may be) as if this Act had not been passed.
+    (2) An inquiry commenced under [section 18A][206] of the former Act that is pending or in progress immediately before the repeal of that section by this Act may be continued or completed (as the case may be) as if this Act had not been passed.
     
-    (3) An assessment for any unpaid road user charges made under [section 18C][205] or [18D][206] of the former Act must, despite the repeal of those provisions, be treated as remaining in force and proceedings for the recovery of those road user charges may be enforced, continued, or completed in accordance with those provisions, as if this Act had not been passed.
+    (3) An assessment for any unpaid road user charges made under [section 18C][207] or [18D][208] of the former Act must, despite the repeal of those provisions, be treated as remaining in force and proceedings for the recovery of those road user charges may be enforced, continued, or completed in accordance with those provisions, as if this Act had not been passed.
     
     (4) All proceedings in respect of an offence committed or alleged to have been committed under the former Act may, despite the repeal of those provisions, be enforced, continued, or completed (as the case may be) as if this Act had not been passed.
 
@@ -2447,7 +2457,7 @@ Duties relating to management of RUC information by electronic system providers
 
 ##### 2 Duties of electronic system provider relating to use and disclosure of RUC information
     
-*   (1) An electronic system provider must not use or disclose RUC information collected under [clause 1][207] except as required or authorised by or under this Act or any other enactment.
+*   (1) An electronic system provider must not use or disclose RUC information collected under [clause 1][209] except as required or authorised by or under this Act or any other enactment.
     
     (2) An electronic system provider must take reasonable steps to ensure that the RUC information it collects is protected against unauthorised access or use, misuse, loss, modification, or unauthorised disclosure.
     
@@ -2505,7 +2515,7 @@ Notice given by RUC collector
     
     *   (b) by personal delivery to a person that is a body corporate, if the personal delivery is made to the person's office during working hours:
     
-    *   (c) by an electronic means of communication to the person, if the RUC collector complies with the [Electronic Transactions Act 2002][208]:
+    *   (c) by an electronic means of communication to the person, if the RUC collector complies with the [Electronic Transactions Act 2002][210]:
     
     *   (d) by post---
             
@@ -2536,7 +2546,7 @@ Notice given to RUC collector
         
     *   (a) by personal delivery, if the delivery is made during working hours; or
     
-    *   (b) by electronic means of communication, if the person complies with the [Electronic Transactions Act 2002][208]; or
+    *   (b) by electronic means of communication, if the person complies with the [Electronic Transactions Act 2002][210]; or
     
     *   (c) by post to the street address or post office box number for the office.
     
@@ -2552,25 +2562,25 @@ Consequential amendments to other enactments
 ## Part 1  
 Amendments to other Acts
 
-##### [Canterbury Earthquake Recovery Act 2011][209] (2011 No 12)
+##### [Canterbury Earthquake Recovery Act 2011][211] (2011 No 12)
 
-[Section 71(3)(s)][210]: repeal and substitute:
+[Section 71(3)(s)][212]: repeal and substitute:
 
 > *   "(s) the Road User Charges Act 2012:".
 > 
 > 
 
-##### [Children, Young Persons, and Their Families Act 1989][211] (1989 No 24)
+##### [Children, Young Persons, and Their Families Act 1989][213] (1989 No 24)
 
-Paragraph (a) of the definition of _traffic offence_ in [section 2(1)][212]: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012"".
+Paragraph (a) of the definition of _traffic offence_ in [section 2(1)][214]: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012"".
 
-##### [Fire Service Act 1975][213] (1975 No 42)
+##### [Fire Service Act 1975][215] (1975 No 42)
 
-Definition of _motor vehicle_ in [section 47B][214]: omit ""any motor vehicle with a gross laden weight (as defined in section 2(1) of the Road User Charges Act 1977) exceeding 3.5 tonnes"" and substitute ""a heavy RUC vehicle (as defined in section 5(1) of the Road User Charges Act 2012)"".
+Definition of _motor vehicle_ in [section 47B][216]: omit ""any motor vehicle with a gross laden weight (as defined in section 2(1) of the Road User Charges Act 1977) exceeding 3.5 tonnes"" and substitute ""a heavy RUC vehicle (as defined in section 5(1) of the Road User Charges Act 2012)"".
 
 ##### [Goods and Services Tax Act 1985][146] (1985 No 141)
 
-[Section 5(6B)][215]: repeal and substitute:
+[Section 5(6B)][217]: repeal and substitute:
 
 > *   "(6B) For the purposes of this Act, any amount of road user charges paid pursuant to the Road User Charges Act 2012 is deemed to be a consideration for a supply of services in the course or furtherance of a taxable activity carried on by the New Zealand Transport Agency."
 > 
@@ -2582,82 +2592,82 @@ Definition of _land transport documents_ in [section 2(1)][145]: omit ""Road Use
 
 Paragraph (a) of the definition of _land transport register_ in [section 2(1)][145]: insert "", or the Road User Charges Act 2012"" after ""Railways Act 2005"".
 
-[Section 30ZH(1)][216]: omit ""12 months"" in each place where it appears and substitute in each case ""36 months"".
+[Section 30ZH(1)][218]: omit ""12 months"" in each place where it appears and substitute in each case ""36 months"".
 
-[Section 30ZH][216]: insert after subsection (1):
+[Section 30ZH][218]: insert after subsection (1):
 
 > *   "(1A) Despite anything in subsection (1), if the logbook only contains entries for a light RUC vehicle (as defined in section 5(1) of the Road User Charges Act 2012), the driver must retain the logbook only for a period of 12 months."
 > 
 > 
 
-[Section 113(1)(a)][217]: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012"".
+[Section 113(1)(a)][219]: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012"".
 
-[Section 125(1)(c)][218]: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012"".
+[Section 125(1)(c)][220]: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012"".
 
-[Section 146(1)][219]: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012 (or any regulations made under that Act)"".
+[Section 146(1)][221]: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012 (or any regulations made under that Act)"".
 
-[Section 147(1)][220]: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012 (or any regulations made under that Act)"".
+[Section 147(1)][222]: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012 (or any regulations made under that Act)"".
 
-[Section 147(7)][220]: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012 (or any regulations made under that Act)"".
+[Section 147(7)][222]: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012 (or any regulations made under that Act)"".
 
-[Section 167(1)(e)(iii)][221]: repeal. 
+[Section 167(1)(e)(iii)][223]: repeal. 
 
-[Section 168(1)(a)][222]: omit ""the Road User Charges Act 1977,"".
+[Section 168(1)(a)][224]: omit ""the Road User Charges Act 1977,"".
 
-[Section 168(6)][222]: repeal.
+[Section 168(6)][224]: repeal.
 
-[Section 208(1)(a)][223]: omit ""; or"" and substitute "":"" and add:
+[Section 208(1)(a)][225]: omit ""; or"" and substitute "":"" and add:
 
 > *   "(iv) the Road User Charges Act 2012; or".
 > 
 > 
 
-[Section 218(4)][224]: omit ""(other than rates of road user charges), which regulation is made under the Transport Act 1962, the Road User Charges Act 1977"" and substitute ""under the Transport Act 1962"".
+[Section 218(4)][226]: omit ""(other than rates of road user charges), which regulation is made under the Transport Act 1962, the Road User Charges Act 1977"" and substitute ""under the Transport Act 1962"".
 
-##### [Land Transport Amendment Act 2011][225] (2011 No 31)
+##### [Land Transport Amendment Act 2011][227] (2011 No 31)
 
-[Section 7][226]: paragraph (a) of the definition of _traffic offence_ in new [section 91A][227]: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012"".
+[Section 7][228]: paragraph (a) of the definition of _traffic offence_ in new [section 91A][229]: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012"".
 
 ##### [Land Transport Management Act 2003][159] (2003 No 118)
 
-[Section 6(a)][228]: omit ""Schedule 3 of the Road User Charges Act 1977, any additional charges under section 21A of that Act, and any assessments under section 18C or 18D of that Act"" and substitute ""regulations made under section 85 of the Road User Charges Act 2012 and any assessments for unpaid road user charges under Part 3 of that Act"". 
+[Section 6(a)][230]: omit ""Schedule 3 of the Road User Charges Act 1977, any additional charges under section 21A of that Act, and any assessments under section 18C or 18D of that Act"" and substitute ""regulations made under section 85 of the Road User Charges Act 2012 and any assessments for unpaid road user charges under Part 3 of that Act"". 
 
-##### [Land Transport (Road Safety Enforcement) Amendment Act 2001][229] (2001 No 104)
+##### [Land Transport (Road Safety Enforcement) Amendment Act 2001][231] (2001 No 104)
 
-[Section 3(b)][230]: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012 (or any regulations made under that Act)"". 
+[Section 3(b)][232]: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012 (or any regulations made under that Act)"". 
 
-##### [New Zealand Railways Corporation Act 1981][231] (1981 No 119)
+##### [New Zealand Railways Corporation Act 1981][233] (1981 No 119)
 
-[Section 119A][232]: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012"". 
+[Section 119A][234]: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012"". 
 
-##### [Privacy Act 1993][233] (1993 No 28)
+##### [Privacy Act 1993][235] (1993 No 28)
 
-Third column of item relating to New Zealand Transport Agency records in [Schedule 5][234]: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012"". 
+Third column of item relating to New Zealand Transport Agency records in [Schedule 5][236]: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012"". 
 
-##### [Sentencing Amendment Act 2011][235] (2011 No 47)
+##### [Sentencing Amendment Act 2011][237] (2011 No 47)
 
-[Section 27(4)][236]: new [section 137(3)(fb)][237] of the Sentencing Act 2002: omit ""section 9 of the Road User Charges Act 1977"" and substitute ""the Road User Charges Act 2012"".
+[Section 27(4)][238]: new [section 137(3)(fb)][239] of the Sentencing Act 2002: omit ""section 9 of the Road User Charges Act 1977"" and substitute ""the Road User Charges Act 2012"".
 
-##### [Summary Proceedings Act 1957][192] (1957 No 87)
+##### [Summary Proceedings Act 1957][196] (1957 No 87)
 
-Paragraph (a) of the definition of_traffic offence_ in [section 100A(1)][238]: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012"".
+Paragraph (a) of the definition of_traffic offence_ in [section 100A(1)][240]: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012"".
 
-##### [Summary Proceedings Amendment Act 2011][239] (2011 No 32)
+##### [Summary Proceedings Amendment Act 2011][241] (2011 No 32)
 
-[Section 10][240]: paragraph (a) of the definition of_traffic offence_ in new [section 79(1)][241] of the Summary Proceedings Act 1957: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012"".
+[Section 10][242]: paragraph (a) of the definition of_traffic offence_ in new [section 79(1)][243] of the Summary Proceedings Act 1957: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012"".
 
-[Section 32][242]: new [section 100R(1)(i)][243] of the Summary Proceedings Act 1957: omit ""section 9 of the Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012"".
+[Section 32][244]: new [section 100R(1)(i)][245] of the Summary Proceedings Act 1957: omit ""section 9 of the Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012"".
 
 ## Part 2  
 Amendments to regulations
 
-##### [Consumer Information Standards (Used Motor Vehicles) Regulations 2008][244] (SR 2008/112)
+##### [Consumer Information Standards (Used Motor Vehicles) Regulations 2008][246] (SR 2008/112)
 
-[Schedule 2][245]: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012"".
+[Schedule 2][247]: omit ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012"".
 
-##### [Land Transport Management (Apportionment and Refund of Excise Duty and Excise-Equivalent Duty) Regulations 2004][246] (SR 2004/238)
+##### [Land Transport Management (Apportionment and Refund of Excise Duty and Excise-Equivalent Duty) Regulations 2004][248] (SR 2004/238)
 
-Definition of **licensed vehicle** in [regulation 3(1)][247]: omit: ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012"".
+Definition of **licensed vehicle** in [regulation 3(1)][249]: omit: ""Road User Charges Act 1977"" and substitute ""Road User Charges Act 2012"".
 
 ##### Land Transport Rule: Vehicle Dimensions and Mass 2002
 
@@ -2675,74 +2685,33 @@ Definition of _road user charges_ in Part 2: omit ""Road User Charges Act 1977""
 
 Item relating to distance record in Part 4---Using the logbook form: omit ""Hubodometer"" and substitute ""electronic distance recorder or hubodometer"".
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Road User Charges Act 2012\. The reprint incorporates all the amendments to the Act as at 1 August 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][248] ![](/images/external_link.gif).
+*   This is a reprint of the Road User Charges Act 2012 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][249] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][250] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][251] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][250] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][252] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][253] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][251] and [17E][252] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][188]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Road User Charges Act Commencement Order 2012][253] (SR 2012/137)
+    [Road User Charges Act Commencement Order 2012][254] (SR 2012/137)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2012/0001/latest/whole.html#DLM3394833
 [2]: http://www.legislation.govt.nz/act/public/2012/0001/latest/whole.html#DLM3394834
 [3]: http://www.legislation.govt.nz/act/public/2012/0001/latest/whole.html#DLM3394835
@@ -2929,70 +2898,71 @@ Item relating to distance record in Part 4---Using the logbook form: omit ""Hubo
 [184]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM214075
 [185]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM354996
 [186]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM435155
-[187]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM311191
-[188]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM19654
-[189]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM314010
-[190]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM314016
-[191]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM314018
-[192]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM310742
-[193]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM311346
-[194]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM435156
-[195]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM434669
-[196]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM434670
-[197]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM19191
-[198]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM19196
-[199]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM19662
-[200]: http://www.legislation.govt.nz/act/public/2012/0001/latest/whole.html#DLM3395090
-[201]: http://www.legislation.govt.nz/act/public/2012/0001/latest/whole.html#DLM3395092
-[202]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM61080
-[203]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM61050
-[204]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM19170
-[205]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM19177
-[206]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM19180
-[207]: http://www.legislation.govt.nz/act/public/2012/0001/latest/whole.html#DLM3395084
-[208]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM154184
-[209]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM3653503
-[210]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM3570826
-[211]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM147087
-[212]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM147094
-[213]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM432647
-[214]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM433722
-[215]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM81877
-[216]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM434631
-[217]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM435099
-[218]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM435125
-[219]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM435167
-[220]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM435170
-[221]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM435407
-[222]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM435411
-[223]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM435637
-[224]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM435661
-[225]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM3556200
-[226]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM3556212
-[227]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM3556214
-[228]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM227124
-[229]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM128645
-[230]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM128652
-[231]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM57005
-[232]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM58271
-[233]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM296638
-[234]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM298798
-[235]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM3558554
-[236]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM3558569
-[237]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM136866
-[238]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM2603807
-[239]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM3557941
-[240]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM3557960
-[241]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM311866
-[242]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM3558667
-[243]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM2603845
-[244]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM1271200
-[245]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM1271232
-[246]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM276771
-[247]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM276777
-[248]: http://www.pco.parliament.govt.nz/reprints/
-[249]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM195439
-[250]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[251]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM195468
-[252]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM195470
-[253]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM4503806
+[187]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM3360067
+[188]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM5642106
+[189]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM19654
+[190]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM314010
+[191]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM314016
+[192]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM314018
+[193]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM3360057
+[194]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM311346
+[195]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM435156
+[196]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM310742
+[197]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM434669
+[198]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM434670
+[199]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM19191
+[200]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM19196
+[201]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM19662
+[202]: http://www.legislation.govt.nz/act/public/2012/0001/latest/whole.html#DLM3395090
+[203]: http://www.legislation.govt.nz/act/public/2012/0001/latest/whole.html#DLM3395092
+[204]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM61080
+[205]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM61050
+[206]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM19170
+[207]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM19177
+[208]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM19180
+[209]: http://www.legislation.govt.nz/act/public/2012/0001/latest/whole.html#DLM3395084
+[210]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM154184
+[211]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM3653503
+[212]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM3570826
+[213]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM147087
+[214]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM147094
+[215]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM432647
+[216]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM433722
+[217]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM81877
+[218]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM434631
+[219]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM435099
+[220]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM435125
+[221]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM435167
+[222]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM435170
+[223]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM435407
+[224]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM435411
+[225]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM435637
+[226]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM435661
+[227]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM3556200
+[228]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM3556212
+[229]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM3556214
+[230]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM227124
+[231]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM128645
+[232]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM128652
+[233]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM57005
+[234]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM58271
+[235]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM296638
+[236]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM298798
+[237]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM3558554
+[238]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM3558569
+[239]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM136866
+[240]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM2603807
+[241]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM3557941
+[242]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM3557960
+[243]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM311866
+[244]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM3558667
+[245]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM2603845
+[246]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM1271200
+[247]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM1271232
+[248]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM276771
+[249]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM276777
+[250]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM2998516
+[251]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM2998515
+[252]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM2998532
+[253]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[254]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM4503806
