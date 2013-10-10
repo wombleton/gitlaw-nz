@@ -1468,7 +1468,7 @@ Te Waka Toi
 *   Schedule 1 Part 2 Medicines Classification Committee: inserted, on 1 August 1984, by [section 113(a)][249] of the Medicines Act 1981 (1981 No 118).
 *   Schedule 1 Part 2 Medicines Review Committee: inserted, on 1 August 1984, by [section 113(a)][249] of the Medicines Act 1981 (1981 No 118).
 *   Schedule 1 Part 2 Mental Health Commission: repealed, on 1 July 2012, by [section 7(2)][250] of the Mental Health Commission Amendment Act 2012 (2012 No 42).
-*   Schedule 1 Part 2 Meridian Energy Limited: repealed, on 30 August 2013, by [section 6(3)][251] of the State-Owned Enterprises Act 2012 (2012 No 44).
+*   Schedule 1 Part 2 Meridian Energy Limited: repealed, on 30 August 2013, by [section 6(3)][251] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
 *   Schedule 1 Part 2 Meteorological Service of New Zealand Limited: inserted, on 30 June 1992, by [clause 3][252] of the State-Owned Enterprises Order 1992 (SR 1992/181).
 *   Schedule 1 Part 2 Mighty River Power Limited: repealed, on 8 March 2013, by [section 6(4)][251] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
 *   Schedule 1 Part 2 Mortality review committees: inserted, on 1 January 2001, by [section 111(1)][64] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
