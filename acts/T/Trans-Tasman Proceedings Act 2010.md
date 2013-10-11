@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 11 October 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -229,6 +229,8 @@ The Parliament of New Zealand enacts as follows:
 *   (1) [Parts 1][3] and [2][12] and [Schedules 1][93] and [2][94] come into force on a date appointed by the Governor-General by Order in Council.
     
     (2) The rest of this Act comes into force on the day after the date on which this Act receives the Royal assent.
+    
+    Section 2(1): Parts 1 and 2 and Schedules 1 and 2 brought into force, on 11 October 2013, by the [Trans-Tasman Proceedings Act Commencement Order 2013][95] (SR 2013/342).
 
 ## Part 1  
 Preliminary and general provisions
@@ -253,9 +255,9 @@ Preliminary and general provisions
     
     *   (c) New Zealand courts giving interim relief in support of civil proceedings commenced in Australian courts:
     
-    *   (d) people in Australia appearing remotely (other than to give, examine a person giving, or make submissions in relation to, remote evidence, under [sections 168 to 172][95] of the Evidence Act 2006) in civil proceedings in New Zealand courts and tribunals:
+    *   (d) people in Australia appearing remotely (other than to give, examine a person giving, or make submissions in relation to, remote evidence, under [sections 168 to 172][96] of the Evidence Act 2006) in civil proceedings in New Zealand courts and tribunals:
     
-    *   (e) people in New Zealand appearing remotely (other than to give, examine a person giving, or make submissions in relation to, remote evidence, under [sections 173 to 180][96] of the Evidence Act 2006) in civil proceedings in Australian courts and tribunals:
+    *   (e) people in New Zealand appearing remotely (other than to give, examine a person giving, or make submissions in relation to, remote evidence, under [sections 173 to 180][97] of the Evidence Act 2006) in civil proceedings in Australian courts and tribunals:
     
     *   (f) recognition and enforcement in New Zealand of specified judgments of Australian courts and tribunals:
     
@@ -265,13 +267,13 @@ Preliminary and general provisions
     
     *   (i) recognition and enforcement in New Zealand of Australian judgments imposing regulatory regime criminal fines.
     
-    (4) This Act also amends [sections 150 to 162][97] of the Evidence Act 2006, which relate to subpoenas issued in civil proceedings in New Zealand courts being served and complied with in Australia, so that they also provide for---
+    (4) This Act also amends [sections 150 to 162][98] of the Evidence Act 2006, which relate to subpoenas issued in civil proceedings in New Zealand courts being served and complied with in Australia, so that they also provide for---
         
-    *   (a) leave to serve a New Zealand subpoena on a witness in Australia to be given by a New Zealand court that is not a superior New Zealand court if the subpoena is one issued by that court or is one issued by a tribunal declared to be a New Zealand court under [section 152][98] of the Evidence Act 2006; and
+    *   (a) leave to serve a New Zealand subpoena on a witness in Australia to be given by a New Zealand court that is not a superior New Zealand court if the subpoena is one issued by that court or is one issued by a tribunal declared to be a New Zealand court under [section 152][99] of the Evidence Act 2006; and
     
     *   (b) subpoenas issued in criminal proceedings in New Zealand courts to be served and complied with in Australia.
     
-    (5) _New Zealand court_ and _New Zealand subpoena_ have, in subsection (4), the meanings given to them by [section 150][97] of the Evidence Act 2006\.
+    (5) _New Zealand court_ and _New Zealand subpoena_ have, in subsection (4), the meanings given to them by [section 150][98] of the Evidence Act 2006\.
     
     (6) Subsections (3) to (5), and the guides to [subparts 1 to 8][13] of Part 2, are by way of explanation only. They do not affect any section specified in them.
 
@@ -419,9 +421,9 @@ Preliminary and general provisions
     
     *   (d) any other Australian law that is specified for the purposes of this paragraph by an order under subsection (2)(c):
     
-    *   (e) the [Proceeds of Crime Act 1991][99], and [sections 142A to 142Q][100] of the Sentencing Act 2002:
+    *   (e) the [Proceeds of Crime Act 1991][100], and [sections 142A to 142Q][101] of the Sentencing Act 2002:
     
-    *   (f) the [Criminal Proceeds (Recovery) Act 2009][101]
+    *   (f) the [Criminal Proceeds (Recovery) Act 2009][102]
     
     _registered_, in relation to an Australian judgment, means registered in a New Zealand court under [section 57][68]
     
@@ -445,7 +447,7 @@ Preliminary and general provisions
     
     *   (b) an audiovisual link
     
-    _remote evidence_ means evidence given or to be given under [section 168][95] or [173][96] of the Evidence Act 2006
+    _remote evidence_ means evidence given or to be given under [section 168][96] or [173][97] of the Evidence Act 2006
     
     _submissions in relation to remote evidence_ means---
         
@@ -469,7 +471,7 @@ Preliminary and general provisions
         
     *   (a) as in the court's or tribunal's procedural rules; or
     
-    *   (b) if those rules do not define the term, as in [section 29][102] of the Interpretation Act 1999\.
+    *   (b) if those rules do not define the term, as in [section 29][103] of the Interpretation Act 1999\.
     
     (2) The Governor-General may, by Order in Council,---
         
@@ -485,11 +487,11 @@ Preliminary and general provisions
     
 *   A reference in, or in any regulations made under, this Act to a repealed Australian enactment is a reference to an Australian enactment that, with or without modification, replaces, or that corresponds to, the Australian enactment repealed.
     
-    Compare: 1999 No 85 [s 22(2)][103]
+    Compare: 1999 No 85 [s 22(2)][104]
 
 ##### 6 Trans-Tasman market proceedings provisions not affected
     
-*   Nothing in this Act limits or affects [Part 1A][104] of the Judicature Act 1908 (operating in conjunction with Part 8 of the Australian Act).
+*   Nothing in this Act limits or affects [Part 1A][105] of the Judicature Act 1908 (operating in conjunction with Part 8 of the Australian Act).
 
 ##### 7 Act binds the Crown
     
@@ -503,9 +505,9 @@ Preliminary and general provisions
     
     *   (b) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
     
-    (2) Every Order in Council under any other provision of this Act is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][105] and must be presented to the House of Representatives under [section 41][106] of that Act.
+    (2) Every Order in Council under any other provision of this Act is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][106] and must be presented to the House of Representatives under [section 41][107] of that Act.
     
-    Section 8(2): amended, on 5 August 2013, by [section 77(3)][107] of the Legislation Act 2012 (2012 No 119).
+    Section 8(2): amended, on 5 August 2013, by [section 77(3)][108] of the Legislation Act 2012 (2012 No 119).
 
 ##### 9 Procedural rules
     
@@ -515,9 +517,9 @@ Preliminary and general provisions
 
 ##### 10 Amendments to, and revocations of, other enactments
     
-*   (1) The enactments listed in [Parts 1][108] and [2][109] of Schedule 2 are amended in the manner specified in those Parts.
+*   (1) The enactments listed in [Parts 1][109] and [2][110] of Schedule 2 are amended in the manner specified in those Parts.
     
-    (2) The orders listed in [Part 3][110] of Schedule 2 are revoked.
+    (2) The orders listed in [Part 3][111] of Schedule 2 are revoked.
 
 ## Part 2  
 Trans-Tasman proceedings
@@ -564,7 +566,7 @@ Trans-Tasman proceedings
     
     (4) An order under subsection (3)(a) must not declare a tribunal to be one to which this subpart applies unless, when the order is made, the tribunal is prescribed for the purposes of [section 66(1)(b)(i)][77] (which relates to enforcement in Australia of New Zealand judgments) of the Australian Act.
     
-    Compare: 1908 No 89 Schedule 2 [r 25.8(4), (5)][111]
+    Compare: 1908 No 89 Schedule 2 [r 25.8(4), (5)][112]
 
 ##### 13 Service of initiating documents in Australia
     
@@ -578,7 +580,7 @@ Trans-Tasman proceedings
     
     *   (b) to be satisfied that there is a connection between the proceeding and New Zealand.
     
-    Compare: 1908 No 89 Schedule 2 [rr 6.27][112], [6.28][113]
+    Compare: 1908 No 89 Schedule 2 [rr 6.27][113], [6.28][114]
 
 ##### 14 Effect of service under section 13
     
@@ -616,7 +618,7 @@ Trans-Tasman proceedings
     
     *   (b) before the defendant has taken any fresh step after the defendant becomes aware of the failure.
     
-    Compare: 1908 No 89 Schedule 2 [r 1.5][114]
+    Compare: 1908 No 89 Schedule 2 [r 1.5][115]
 
 ##### 17 Time for filing appearance or response document
     
@@ -690,7 +692,7 @@ Trans-Tasman proceedings
     
     (4) A plaintiff's solicitor must not be accepted as surety for a security that the plaintiff is required to give under subsection (1).
     
-    Compare: 1908 No 89 Schedule 2 [rr 5.45][115], [5.46][116]
+    Compare: 1908 No 89 Schedule 2 [rr 5.45][116], [5.46][117]
 
 ### Subpart 2---New Zealand courts declining jurisdiction on grounds that Australian court is more appropriate forum
 
@@ -818,7 +820,7 @@ Trans-Tasman proceedings
     
 *   An order under [section 24][28] or[25][29] may be made subject to any conditions the New Zealand court considers are appropriate in order to facilitate, without delay or undue expense, the determination of the matters in issue between the parties to the proceeding.
     
-    Compare: 1908 No 89 Schedule 2 [r 15.1(3)][117]; Service and Execution of Process Act 1992 s 20(5) (Aust)
+    Compare: 1908 No 89 Schedule 2 [r 15.1(3)][118]; Service and Execution of Process Act 1992 s 20(5) (Aust)
 
 ##### 27 How this subpart affects New Zealand court's powers to stay proceedings
     
@@ -872,7 +874,7 @@ Trans-Tasman proceedings
     
     *   (c) a warrant of arrest of property:
     
-    *   (d) any action, assistance, order, or other relief under [subpart 1][118] or [2][119] of Part 4 of the Evidence Act 2006\.
+    *   (d) any action, assistance, order, or other relief under [subpart 1][119] or [2][120] of Part 4 of the Evidence Act 2006\.
     
     (3) The Governor-General may, by Order in Council, declare a New Zealand court (other than the High Court) to be a court to which subsection (1)(b) applies.
 
@@ -892,7 +894,7 @@ Trans-Tasman proceedings
     
     (2) This subpart does not affect the court's procedural rules, or any other New Zealand laws, under which the court may give interim relief in support of the Australian proceeding.
     
-    Compare: 1908 No 89 Schedule 2 [r 7.81][120]
+    Compare: 1908 No 89 Schedule 2 [r 7.81][121]
 
 ##### 33 Application of New Zealand court procedural rules to interim relief proceeding
     
@@ -904,7 +906,7 @@ Trans-Tasman proceedings
 
 ##### 34 Guide to this subpart
     
-*   (1) This subpart is about people appearing remotely from Australia in New Zealand civil proceedings, and people appearing remotely from New Zealand in Australian civil proceedings. However, this subpart applies only to remote appearances unrelated to remote evidence in those proceedings. Trans-Tasman remote appearances related to remote evidence in civil or criminal proceedings are governed by [subpart 1][118] of Part 4 of the Evidence Act 2006 (operating in conjunction with the Australian Act).
+*   (1) This subpart is about people appearing remotely from Australia in New Zealand civil proceedings, and people appearing remotely from New Zealand in Australian civil proceedings. However, this subpart applies only to remote appearances unrelated to remote evidence in those proceedings. Trans-Tasman remote appearances related to remote evidence in civil or criminal proceedings are governed by [subpart 1][119] of Part 4 of the Evidence Act 2006 (operating in conjunction with the Australian Act).
     
     (2) [Sections 38 to 43][47] are about remote appearances from Australia---
         
@@ -938,17 +940,17 @@ Trans-Tasman proceedings
     
     *   (c) make submissions in relation to remote evidence.
     
-    (2) This subpart therefore does not affect, but complements, [subpart 1][118] of Part 4 of the Evidence Act 2006 (operating in conjunction with the Australian Act) and, in particular, the following sections of the [Evidence Act 2006][121]:
+    (2) This subpart therefore does not affect, but complements, [subpart 1][119] of Part 4 of the Evidence Act 2006 (operating in conjunction with the Australian Act) and, in particular, the following sections of the [Evidence Act 2006][122]:
         
-    *   (a) [sections 168 to 172][95] of that Act (which enable a New Zealand court, as defined in [section 150][97] of that Act, and in any proceeding before it, to receive remote evidence, and examination and submissions in relation to remote evidence, by audio link or audiovisual link from Australia); and
+    *   (a) [sections 168 to 172][96] of that Act (which enable a New Zealand court, as defined in [section 150][98] of that Act, and in any proceeding before it, to receive remote evidence, and examination and submissions in relation to remote evidence, by audio link or audiovisual link from Australia); and
     
-    *   (b) [sections 173 to 180][96] of that Act (which enable an Australian court, as defined in [section 150][97] of that Act, and in any proceeding before it, to take remote evidence, and receive examination and submissions in relation to remote evidence, by audio link or audiovisual link from New Zealand).
+    *   (b) [sections 173 to 180][97] of that Act (which enable an Australian court, as defined in [section 150][98] of that Act, and in any proceeding before it, to take remote evidence, and receive examination and submissions in relation to remote evidence, by audio link or audiovisual link from New Zealand).
     
     
 
 ##### 36 Courts (Remote Participation) Act 2010 does not apply to appearances under this subpart
     
-*   Nothing in the Courts (Remote Participation) Act 2010 applies to any remote appearance in accordance with [section 23(4)][27] or [sections 37 to 43][46] or [44 to 51][122].
+*   Nothing in the Courts (Remote Participation) Act 2010 applies to any remote appearance in accordance with [section 23(4)][27] or [sections 37 to 43][46] or [44 to 51][123].
     
     Compare: 2006 No 69 s 153A
 
@@ -1000,7 +1002,7 @@ Trans-Tasman proceedings
         
     *   (a) the party's counsel is entitled to practise as a barrister, a solicitor, or both in relation to the remote appearances to which the leave relates; and
     
-    *   (b) each of those appearances is for the purposes of [section 27(1)(b)(i)][123] of the Lawyers and Conveyancers Act 2006 an appearance allowed by this Act.
+    *   (b) each of those appearances is for the purposes of [section 27(1)(b)(i)][124] of the Lawyers and Conveyancers Act 2006 an appearance allowed by this Act.
     
     
 
@@ -1028,7 +1030,7 @@ Trans-Tasman proceedings
     
     *   (b) people who are at the Australian place to see and hear people at the New Zealand place.
     
-    Compare: 1908 No 89 Schedule 2 [r 10.25][124]; 2006 No 69 [s 170][125]
+    Compare: 1908 No 89 Schedule 2 [r 10.25][125]; 2006 No 69 [s 170][126]
 
 ##### 41 Remote appearances from Australia by audio link
     
@@ -1038,7 +1040,7 @@ Trans-Tasman proceedings
     
     *   (b) people who are at the Australian place to hear people at the New Zealand place.
     
-    Compare: 2006 No 69 [s 171][126]
+    Compare: 2006 No 69 [s 171][127]
 
 ##### 42 Costs of remote appearances from Australia
     
@@ -1116,7 +1118,7 @@ Trans-Tasman proceedings
     
     (3) A person in New Zealand appearing remotely under [section 44][54] as a party has, in relation to the remote appearance, all the privileges and immunities of a party in a proceeding in the High Court.
     
-    Compare: 1908 No 89 [s 26IB(2)(b)][127]; 2006 No 69 [s 177][128]
+    Compare: 1908 No 89 [s 26IB(2)(b)][128]; 2006 No 69 [s 177][129]
 
 ##### 50 Contempt of Australian courts or tribunals
     
@@ -1166,9 +1168,9 @@ Trans-Tasman proceedings
     
     (5) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 3 months, or to a fine not exceeding $1,000, or to both.
     
-    Compare: 1908 No 89 [s 56C][129]; 1947 No 16 [s 112][130]; 2003 No 53 [s 35][131]; 2006 No 69 [s 179][132]
+    Compare: 1908 No 89 [s 56C][130]; 1947 No 16 [s 112][131]; 2003 No 53 [s 35][132]; 2006 No 69 [s 179][133]
     
-    Section 50(5): amended, on 1 July 2013, by [section 413][133] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 50(5): amended, on 1 July 2013, by [section 413][134] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 51 Assistance to Australian courts and tribunals
     
@@ -1204,7 +1206,7 @@ Trans-Tasman proceedings
     
     (2) By way of explanation, the judgment therefore cannot be enforced by way of---
         
-    *   (a) a registration or other enforcement process under [Part 1][134] of the Reciprocal Enforcement of Judgments Act 1934, [section 56][135] of the Judicature Act 1908, or any other enactment in force in New Zealand; or
+    *   (a) a registration or other enforcement process under [Part 1][135] of the Reciprocal Enforcement of Judgments Act 1934, [section 56][136] of the Judicature Act 1908, or any other enactment in force in New Zealand; or
     
     *   (b) any common law, or other non-legislative, action or claim to enforce the judgment.
     
@@ -1236,7 +1238,7 @@ Trans-Tasman proceedings
             
         *   (i) the judgment is a final and conclusive judgment that is given in a civil proceeding or a criminal proceeding by an Australian court; and
         
-        *   (ii) the judgment is an order made under the Australian Act by an Australian court (as defined in [section 150][97] of the Evidence Act 2006) for the payment of expenses (as so defined)---
+        *   (ii) the judgment is an order made under the Australian Act by an Australian court (as defined in [section 150][98] of the Evidence Act 2006) for the payment of expenses (as so defined)---
                 
             *   (A) incurred by a witness (as so defined) in complying with an Australian subpoena (as so defined) served on the witness in New Zealand; or
             
@@ -1342,7 +1344,7 @@ Trans-Tasman proceedings
     
     *   (b) in any other case, as if it were for an equivalent amount in New Zealand currency, calculated using the rate of exchange on the working day (the _conversion day_) before the day on which the entitled person made the application for registration.
     
-    (2) _Working day_, in subsection (1)(b), has the same meaning as in [section 29][102] of the Interpretation Act 1999\.
+    (2) _Working day_, in subsection (1)(b), has the same meaning as in [section 29][103] of the Interpretation Act 1999\.
     
     (3) The rate of exchange on the conversion day is that determined in the prescribed manner.
     
@@ -1364,7 +1366,7 @@ Trans-Tasman proceedings
     
     (2) The judgment may be registered in the New Zealand court under [section 57][68] in respect of the registrable provisions, but no other provisions.
     
-    Compare: 1934 No 11 [s 4(5)][136]; Foreign Judgments Act 1991 s 6(13) (Aust)
+    Compare: 1934 No 11 [s 4(5)][137]; Foreign Judgments Act 1991 s 6(13) (Aust)
 
 ##### 61 Setting aside registration
     
@@ -1506,7 +1508,7 @@ Trans-Tasman proceedings
     
     (3) Subsection (2) does not limit subsection (1).
     
-    Compare: 1978 No 103 [s 89][137]
+    Compare: 1978 No 103 [s 89][138]
 
 ### Subpart 6---Recognition and enforcement in New Zealand of judgments given in Australian trans-Tasman market proceedings
 
@@ -1544,7 +1546,7 @@ Trans-Tasman proceedings
     
     (2) Subsection (1) overrides [section 56][67], which if not overridden would permit the application to be made to a Registrar of a New Zealand court specified or described in section 56(1)(a) or (b).
     
-    Compare: 1934 No 11 [s 8D(1)][138]
+    Compare: 1934 No 11 [s 8D(1)][139]
 
 ### Subpart 7---Recognition and enforcement in New Zealand of Australian judgments imposing civil pecuniary penalties
 
@@ -1936,11 +1938,11 @@ Amendments to Acts
 
 ##### Evidence Act 2006 (2006 No 69)
 
-Paragraph (b) of the definition of _expenses_ in [section 150][97]: omit ""thing---"" and substitute ""thing"".
+Paragraph (b) of the definition of _expenses_ in [section 150][98]: omit ""thing---"" and substitute ""thing"".
 
-Definition of _expenses_ in [section 150][97]: omit ""necessary for the purposes of complying with the subpoena"" in the second place where it appears.
+Definition of _expenses_ in [section 150][98]: omit ""necessary for the purposes of complying with the subpoena"" in the second place where it appears.
 
-[Section 150][97]: insert in their appropriate alphabetical order:
+[Section 150][98]: insert in their appropriate alphabetical order:
 
 > "_audio link_ means facilities (for example, telephone facilities) that enable audio communication between people in different places
 > 
@@ -1972,7 +1974,7 @@ Definition of _expenses_ in [section 150][97]: omit ""necessary for the purposes
 > 
 > 
 
-[Section 151][139]: repeal and substitute:
+[Section 151][140]: repeal and substitute:
 
 > ##### "151 Meaning of specified proceeding
 >     
@@ -1988,7 +1990,7 @@ Definition of _expenses_ in [section 150][97]: omit ""necessary for the purposes
 > 
 > 
 
-New sections 153A and 153B: insert after [section 153][140]:
+New sections 153A and 153B: insert after [section 153][141]:
 
 > ##### "153A Courts (Remote Participation) Act 2010 does not apply to remote appearances under this subpart
 >     
@@ -2004,21 +2006,21 @@ New sections 153A and 153B: insert after [section 153][140]:
 > 
 > 
 
-[Section 154(1)][141]: omit ""High Court"" and substitute ""relevant court"".
+[Section 154(1)][142]: omit ""High Court"" and substitute ""relevant court"".
 
-[Section 160][142]: omit ""High Court"" in each place where it appears and substitute in each case ""relevant court"".
+[Section 160][143]: omit ""High Court"" in each place where it appears and substitute in each case ""relevant court"".
 
-[Section 161(a)][143]: omit ""High Court"" and substitute ""relevant court"".
+[Section 161(a)][144]: omit ""High Court"" and substitute ""relevant court"".
 
-[Section 163(2)(a)][144]: omit ""Federal Court, or of the order of the Judge of the Family Court of Australia, or the order of the Judge of a Supreme Court of a State or a territory of Australia, as the case may be,"" and substitute ""court of judicature within Australia"".
+[Section 163(2)(a)][145]: omit ""Federal Court, or of the order of the Judge of the Family Court of Australia, or the order of the Judge of a Supreme Court of a State or a territory of Australia, as the case may be,"" and substitute ""court of judicature within Australia"".
 
-[Section 165(4)(a)][145]: omit ""the Federal Court or a Judge of the Family Court of Australia or a Judge of a Supreme Court of an Australian State or a territory"" and substitute ""a court of judicature within Australia"".
+[Section 165(4)(a)][146]: omit ""the Federal Court or a Judge of the Family Court of Australia or a Judge of a Supreme Court of an Australian State or a territory"" and substitute ""a court of judicature within Australia"".
 
 Section 165(5): omit ""Federal Court or by the Family Court of Australia or by a Supreme Court of an Australian State or a territory"" and substitute ""court of judicature within Australia referred to in subsection (4)(a)"".
 
-Heading above[section 168][95]: omit ""_Video link and telephone conferences_"" and substitute ""_Audio links and audiovisual links_"".
+Heading above[section 168][96]: omit ""_Video link and telephone conferences_"" and substitute ""_Audio links and audiovisual links_"".
 
-[Section 168][95]: repeal and substitute:
+[Section 168][96]: repeal and substitute:
 
 > ##### "168 New Zealand court may receive evidence, and related examination and submissions, by audio link and audiovisual link from Australia
 >     
@@ -2064,33 +2066,33 @@ Heading above[section 168][95]: omit ""_Video link and telephone conferences_"" 
 > 
 > 
 
-[Section 169][146]: omit ""submissions by video link or telephone conference"" and substitute ""examination or submissions by audio link or audiovisual link"".
+[Section 169][147]: omit ""submissions by video link or telephone conference"" and substitute ""examination or submissions by audio link or audiovisual link"".
 
-Heading to [section 170][125]: omit ""**and submissions by video link**"" and substitute ""**, examination, and submissions by audiovisual link**"".
+Heading to [section 170][126]: omit ""**and submissions by video link**"" and substitute ""**, examination, and submissions by audiovisual link**"".
 
-[Section 170][125]: omit ""or submissions made by video link"" and substitute "", or examination or submissions made, by audiovisual link"".
+[Section 170][126]: omit ""or submissions made by video link"" and substitute "", or examination or submissions made, by audiovisual link"".
 
-[Section 170][125]: omit ""or the submissions are to be made"" and substitute "", or the examination is to be made, or the submissions are to be made,"".
+[Section 170][126]: omit ""or the submissions are to be made"" and substitute "", or the examination is to be made, or the submissions are to be made,"".
 
-[Section 170][125]: omit ""video facilities"" and substitute ""facilities"".
+[Section 170][126]: omit ""video facilities"" and substitute ""facilities"".
 
-[Section 170(a)][125]: insert ""examination or"" before ""submissions in Australia"".
+[Section 170(a)][126]: insert ""examination or"" before ""submissions in Australia"".
 
-[Section 170(b)][125]: omit ""or the submissions are made"" and substitute "", the examination is made, or the submissions are made,"".
+[Section 170(b)][126]: omit ""or the submissions are made"" and substitute "", the examination is made, or the submissions are made,"".
 
-Heading to [section 171][126]: omit ""**and submissions by telephone**"" and substitute ""**, examination, and submissions by audio link**"".
+Heading to [section 171][127]: omit ""**and submissions by telephone**"" and substitute ""**, examination, and submissions by audio link**"".
 
-[Section 171][126]: omit ""or submissions made by telephone conference"" and substitute "", or examination or submissions made, by audio link"".
+[Section 171][127]: omit ""or submissions made by telephone conference"" and substitute "", or examination or submissions made, by audio link"".
 
-[Section 171][126]: omit ""or the submissions are to be made"" and substitute "", or the examination is to be made, or the submissions are to be made,"".
+[Section 171][127]: omit ""or the submissions are to be made"" and substitute "", or the examination is to be made, or the submissions are to be made,"".
 
-[Section 171][126]: omit ""telephone conference facilities"" and substitute ""facilities"".
+[Section 171][127]: omit ""telephone conference facilities"" and substitute ""facilities"".
 
-[Section 171(a)][126]: insert ""examination or"" before ""submissions in Australia"".
+[Section 171(a)][127]: insert ""examination or"" before ""submissions in Australia"".
 
-[Section 171(b)][126]: omit ""or the submissions are made"" and substitute "", the examination is made, or the submissions are made,"".
+[Section 171(b)][127]: omit ""or the submissions are made"" and substitute "", the examination is made, or the submissions are made,"".
 
-[Section 172][147]: repeal and substitute:
+[Section 172][148]: repeal and substitute:
 
 > ##### "172 Rights of Australian counsel
 >     
@@ -2106,9 +2108,9 @@ Heading to [section 171][126]: omit ""**and submissions by telephone**"" and sub
 > 
 > 
 
-Heading above [section 173][96]: omit ""_Video link and telephone conferences_"" and substitute ""_Audio links and audiovisual links_"".
+Heading above [section 173][97]: omit ""_Video link and telephone conferences_"" and substitute ""_Audio links and audiovisual links_"".
 
-[Section 173][96]: repeal and substitute:
+[Section 173][97]: repeal and substitute:
 
 > ##### "173 Australian court may take evidence, and receive related examination and submissions, by audio link or audiovisual link from New Zealand
 >     
@@ -2118,39 +2120,39 @@ Heading above [section 173][96]: omit ""_Video link and telephone conferences_""
 > 
 > 
 
-[Section 174][148]: insert ""examination or"" before ""submissions"" in both places where it appears.
+[Section 174][149]: insert ""examination or"" before ""submissions"" in both places where it appears.
 
-[Section 175(1)(b)][149]: insert "", the examination is or is to be made,"" before ""or the submissions are or are to be made"".
+[Section 175(1)(b)][150]: insert "", the examination is or is to be made,"" before ""or the submissions are or are to be made"".
 
-Heading to [section 176][150]: insert ""**or examination or submissions made**"" after ""**evidence given**"".
+Heading to [section 176][151]: insert ""**or examination or submissions made**"" after ""**evidence given**"".
 
-[Section 176][150]: insert "", the examination is made,"" after ""the evidence is given"".
+[Section 176][151]: insert "", the examination is made,"" after ""the evidence is given"".
 
-[Section 177(1)][128]: insert ""an examination or"" before ""submissions"".
+[Section 177(1)][129]: insert ""an examination or"" before ""submissions"".
 
-[Section 177(2)][128]: insert ""examination or"" before ""submissions"".
+[Section 177(2)][129]: insert ""examination or"" before ""submissions"".
 
-[Section 177][128]: omit ""video link or telephone conference"" in each place where it appears and substitute in each case ""audio link or audiovisual link"".
+[Section 177][129]: omit ""video link or telephone conference"" in each place where it appears and substitute in each case ""audio link or audiovisual link"".
 
-[Section 178(1)][151]: omit ""video link or telephone conference"" and substitute ""audio link or audiovisual link"".
+[Section 178(1)][152]: omit ""video link or telephone conference"" and substitute ""audio link or audiovisual link"".
 
-[Section 179(1)][132]: insert "", an examination is being made,"" after ""evidence is being given"".
+[Section 179(1)][133]: insert "", an examination is being made,"" after ""evidence is being given"".
 
-[Section 179(1)][132]: omit ""video link or telephone conference"" and substitute ""audio link or audiovisual link"".
+[Section 179(1)][133]: omit ""video link or telephone conference"" and substitute ""audio link or audiovisual link"".
 
-[Section 180(a)][152]: insert "", an examination is being or will be made,"" after ""evidence is being or will be given"".
+[Section 180(a)][153]: insert "", an examination is being or will be made,"" after ""evidence is being or will be given"".
 
-[Section 180(a)][152]: omit ""video link or telephone conference"" and substitute ""audio link or audiovisual link"".
+[Section 180(a)][153]: omit ""video link or telephone conference"" and substitute ""audio link or audiovisual link"".
 
-[Section 181][153] and heading above section 181: repeal.
+[Section 181][154] and heading above section 181: repeal.
 
-[Section 189(1)][154]: omit ""subsection"" and substitute ""section"".
+[Section 189(1)][155]: omit ""subsection"" and substitute ""section"".
 
-[Section 199(1)(e)][155]: omit ""submissions by video link or telephone conference"" and substitute ""examinations and submissions by audio link or audiovisual link"".
+[Section 199(1)(e)][156]: omit ""submissions by video link or telephone conference"" and substitute ""examinations and submissions by audio link or audiovisual link"".
 
 ##### Judicature Act 1908 (1908 No 89)
 
-New sections 56DB and 56DC: insert after [section 56D][156]:
+New sections 56DB and 56DC: insert after [section 56D][157]:
 
 > ##### "56DB Trans-Tasman Proceedings Act 2010 does not affect this Part
 >     
@@ -2178,7 +2180,7 @@ Section 56Q: add:
 
 ##### Maritime Transport Act 1994 (1994 No 104)
 
-[Section 369][157]: repeal and substitute:
+[Section 369][158]: repeal and substitute:
 
 > ##### "369 Reciprocal enforcement of judgments
 >     
@@ -2192,9 +2194,9 @@ Section 56Q: add:
 
 ##### Reciprocal Enforcement of Judgments Act 1934 (1934 No 11)
 
-Definition of **Australian tax** in [section 2(1)][158]: repeal.
+Definition of **Australian tax** in [section 2(1)][159]: repeal.
 
-[Section 3][159]: insert after subsection (1):
+[Section 3][160]: insert after subsection (1):
 
 > *   "(1A) Nothing in this Part applies or extends to a judgment that is given in or by a superior court or an inferior court of Australia.
 > 
@@ -2204,19 +2206,19 @@ Definition of **Australian tax** in [section 2(1)][158]: repeal.
 > 
 > 
 
-[Section 3(3A)][159]: repeal.
+[Section 3(3A)][160]: repeal.
 
-[Section 3A(3) and (4)][160]: repeal.
+[Section 3A(3) and (4)][161]: repeal.
 
-[Section 3B(4)][161]: omit "", not being a judgment of a superior Court or an inferior Court of Australia,"".
+[Section 3B(4)][162]: omit "", not being a judgment of a superior Court or an inferior Court of Australia,"".
 
-[Section 3B(5)][161]: repeal.
+[Section 3B(5)][162]: repeal.
 
-[Section 6(1)(e)][162]: omit ", not being a judgment of a superior Court or an inferior Court of Australia under which Australian tax is payable,".
+[Section 6(1)(e)][163]: omit ", not being a judgment of a superior Court or an inferior Court of Australia under which Australian tax is payable,".
 
-[Section 6(3)(a)(vi)][162]: repeal.
+[Section 6(3)(a)(vi)][163]: repeal.
 
-[Part 1A][163]: repeal.
+[Part 1A][164]: repeal.
 
 ## Part 2  
 Amendment to order
@@ -2252,17 +2254,19 @@ Orders revoked
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][164] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][165] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][165] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][166] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][166] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][167] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][167] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][168] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][107]
+*   [Trans-Tasman Proceedings Act Commencement Order 2013][95] (SR 2013/342)
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][133]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][108]
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][134]
 
 
 
@@ -2361,76 +2365,77 @@ Orders revoked
 [92]: http://www.legislation.govt.nz/act/public/2010/0108/latest/whole.html#DLM2576414
 [93]: http://www.legislation.govt.nz/act/public/2010/0108/latest/whole.html#DLM2576415
 [94]: http://www.legislation.govt.nz/act/public/2010/0108/latest/whole.html#DLM2576440
-[95]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394263
-[96]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394269
-[97]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394211
-[98]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394240
-[99]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM250668
-[100]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM2601243
-[101]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=BILL-SCDRAFT-7242
-[102]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM31803
-[103]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM31491
-[104]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM146686
-[105]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM2997643
-[106]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM2998573
-[107]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM2998633
-[108]: http://www.legislation.govt.nz/act/public/2010/0108/latest/whole.html#DLM2576441
-[109]: http://www.legislation.govt.nz/act/public/2010/0108/latest/whole.html#DLM2576468
-[110]: http://www.legislation.govt.nz/act/public/2010/0108/latest/whole.html#DLM2576470
-[111]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM1819788
-[112]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM1818846
-[113]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM1818848
-[114]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM1818543
-[115]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM1818756
-[116]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM1818759
-[117]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM1819261
-[118]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394209
-[119]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394279
-[120]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM1818951
-[121]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM393462
-[122]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM2576375
-[123]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM365736
-[124]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM2604319
-[125]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394265
-[126]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394266
-[127]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM146090
-[128]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394273
-[129]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM146679
-[130]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM244431
-[131]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM214099
-[132]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394275
-[133]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM3360714
-[134]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM216464
-[135]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM146660
-[136]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM216475
-[137]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM30435
-[138]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM216706
-[139]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394238
-[140]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394241
-[141]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394243
-[142]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394251
-[143]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394252
-[144]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394255
-[145]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394258
-[146]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394264
-[147]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394267
-[148]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394270
-[149]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394271
-[150]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394272
-[151]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394274
-[152]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394276
-[153]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394278
-[154]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394503
-[155]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394528
-[156]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM146688
-[157]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM338170
-[158]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM216428
-[159]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM216465
-[160]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM216471
-[161]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM216473
-[162]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM216486
-[163]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM216492
-[164]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM2998516
-[165]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM2998515
-[166]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM2998532
-[167]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[95]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM5500500
+[96]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394263
+[97]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394269
+[98]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394211
+[99]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394240
+[100]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM250668
+[101]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM2601243
+[102]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=BILL-SCDRAFT-7242
+[103]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM31803
+[104]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM31491
+[105]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM146686
+[106]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM2997643
+[107]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM2998573
+[108]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM2998633
+[109]: http://www.legislation.govt.nz/act/public/2010/0108/latest/whole.html#DLM2576441
+[110]: http://www.legislation.govt.nz/act/public/2010/0108/latest/whole.html#DLM2576468
+[111]: http://www.legislation.govt.nz/act/public/2010/0108/latest/whole.html#DLM2576470
+[112]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM1819788
+[113]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM1818846
+[114]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM1818848
+[115]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM1818543
+[116]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM1818756
+[117]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM1818759
+[118]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM1819261
+[119]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394209
+[120]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394279
+[121]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM1818951
+[122]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM393462
+[123]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM2576375
+[124]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM365736
+[125]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM2604319
+[126]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394265
+[127]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394266
+[128]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM146090
+[129]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394273
+[130]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM146679
+[131]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM244431
+[132]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM214099
+[133]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394275
+[134]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM3360714
+[135]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM216464
+[136]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM146660
+[137]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM216475
+[138]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM30435
+[139]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM216706
+[140]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394238
+[141]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394241
+[142]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394243
+[143]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394251
+[144]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394252
+[145]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394255
+[146]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394258
+[147]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394264
+[148]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394267
+[149]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394270
+[150]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394271
+[151]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394272
+[152]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394274
+[153]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394276
+[154]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394278
+[155]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394503
+[156]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM394528
+[157]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM146688
+[158]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM338170
+[159]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM216428
+[160]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM216465
+[161]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM216471
+[162]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM216473
+[163]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM216486
+[164]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM216492
+[165]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM2998516
+[166]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM2998515
+[167]: http://www.legislation.govt.nz/act/public/2010/0108/latest/link.aspx?id=DLM2998532
+[168]: http://www.pco.parliament.govt.nz/editorial-conventions/
