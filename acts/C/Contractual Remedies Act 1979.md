@@ -25,39 +25,39 @@ This Act is administered by the Ministry of Justice.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Act to bind the Crown][4]
+[3][4][][4][Act to bind the Crown][4]
 
-[4][5] [Statements during negotiations for a contract][5]
+[4][5][][5][Statements during negotiations for a contract][5]
 
-[5][6] [Remedy provided in contract][6]
+[5][6][][6][Remedy provided in contract][6]
 
-[6][7] [Damages for misrepresentation][7]
+[6][7][][7][Damages for misrepresentation][7]
 
-[7][8] [Cancellation of contract][8]
+[7][8][][8][Cancellation of contract][8]
 
-[8][9] [Rules applying to cancellation][9]
+[8][9][][9][Rules applying to cancellation][9]
 
-[9][10] [Power of court to grant relief][10]
+[9][10][][10][Power of court to grant relief][10]
 
-[10][11] [Recovery of damages][11]
+[10][11][][11][Recovery of damages][11]
 
-[11][12] [Assignees][12]
+[11][12][][12][Assignees][12]
 
-[12][13] [Jurisdiction of District Courts][13] \[Repealed\]
+[12][13][][13][Jurisdiction of District Courts][13] \[Repealed\]
 
-[13][14] [Jurisdiction of Disputes Tribunals][14] \[Repealed\]
+[13][14][][14][Jurisdiction of Disputes Tribunals][14] \[Repealed\]
 
-[14][15] [Amendments and repeals][15]
+[14][15][][15][Amendments and repeals][15]
 
-[14A][16] [Act does not apply to contracts governed by foreign law][16]
+[14A][16][][16][Act does not apply to contracts governed by foreign law][16]
 
-[15][17] [Savings][17]
+[15][17][][17][Savings][17]
 
-[16][18] [Application of Act][18]
+[16][18][][18][Application of Act][18]
 
 ---
 
@@ -77,7 +77,7 @@ An Act to reform the law relating to remedies for misrepresentation and breach o
     
     _court_ means, in relation to any matter, the court, tribunal, or arbitral tribunal by or before which the matter falls to be determined.
     
-    Section 2 **court**: substituted, on 19 December 2002, by [section 3][19] of the Contractual Remedies Amendment Act 2002 (2002 No 79).
+    Section 2 **court**: replaced, on 19 December 2002, by [section 3][19] of the Contractual Remedies Amendment Act 2002 (2002 No 79).
 
 ##### 3 Act to bind the Crown
     
@@ -101,7 +101,7 @@ An Act to reform the law relating to remedies for misrepresentation and breach o
     
     (4) In any proceedings properly before a Disputes Tribunal, this section shall not limit the powers of the Tribunal under [section 18(7)][22] of the Disputes Tribunals Act 1988\.
     
-    Section 4(4): substituted, on 1 March 1989, by [section 67][23] of the Disputes Tribunals Act 1988 (1988 No 110).
+    Section 4(4): replaced, on 1 March 1989, by [section 67][23] of the Disputes Tribunals Act 1988 (1988 No 110).
 
 ##### 5 Remedy provided in contract
     
@@ -181,7 +181,7 @@ An Act to reform the law relating to remedies for misrepresentation and breach o
     
     (4) Nothing in subsection (3) shall affect the right of a party to recover damages in respect of a misrepresentation or the repudiation or breach of the contract by another party.
     
-    Section 8(1)(b): substituted, on 19 December 2002, by [section 5][25] of the Contractual Remedies Amendment Act 2002 (2002 No 79).
+    Section 8(1)(b): replaced, on 19 December 2002, by [section 5][25] of the Contractual Remedies Amendment Act 2002 (2002 No 79).
 
 ##### 9 Power of court to grant relief
     
@@ -257,7 +257,7 @@ An Act to reform the law relating to remedies for misrepresentation and breach o
     
     Section 11(4)(b): repealed, on 1 April 2005, by [section 139][29] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
     
-    Section 11(4)(c): added, on 1 April 1994, by [section 53][30] of the Consumer Guarantees Act 1993 (1993 No 91).
+    Section 11(4)(c): inserted, on 1 April 1994, by [section 53][30] of the Consumer Guarantees Act 1993 (1993 No 91).
 
 ##### 12 Jurisdiction of District Courts
     
@@ -315,7 +315,7 @@ An Act to reform the law relating to remedies for misrepresentation and breach o
     
     Section 15(f): repealed, on 1 January 2011, by [section 58][39] of the Limitation Act 2010 (2010 No 110).
     
-    Section 15(g): substituted, on 1 January 2008, by [section 364(1)][28] of the Property Law Act 2007 (2007 No 91).
+    Section 15(g): replaced, on 1 January 2008, by [section 364(1)][28] of the Property Law Act 2007 (2007 No 91).
     
     Section 15(ga): inserted, on 1 April 1994, by [section 54][40] of the Consumer Guarantees Act 1993 (1993 No 91).
 
