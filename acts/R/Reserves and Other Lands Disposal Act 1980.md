@@ -25,39 +25,39 @@ This Act is administered by Land Information New Zealand.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [State forests][3]
+[2][3][][3][State forests][3]
 
-[3][4] [Customhouse, Auckland][4]
+[3][4][][4][Customhouse, Auckland][4]
 
-[4][5] [Opotiki library centre][5]
+[4][5][][5][Opotiki library centre][5]
 
-[5][6] [Tongariro National Park][6]
+[5][6][][6][Tongariro National Park][6]
 
-[6][7] [Taranaki Harbours Board][7]
+[6][7][][7][Taranaki Harbours Board][7]
 
-[7][8] [Egmont National Park][8]
+[7][8][][8][Egmont National Park][8]
 
-[8][9] [Parliament grounds][9] \[Repealed\]
+[8][9][][9][Parliament grounds][9] \[Repealed\]
 
-[9][10] [Abel Tasman National Park][10]
+[9][10][][10][Abel Tasman National Park][10]
 
-[10][11] [Governor-General may declare certain land in Denniston to be Crown land][11]
+[10][11][][11][Governor-General may declare certain land in Denniston to be Crown land][11]
 
-[11][12] [Mount Aspiring National Park][12]
+[11][12][][12][Mount Aspiring National Park][12]
 
-[12][13] [Transfer of interest in lease in perpetuity][13]
+[12][13][][13][Transfer of interest in lease in perpetuity][13]
 
-[13][14] [Horseshoe Bend Cemetery][14]
+[13][14][][14][Horseshoe Bend Cemetery][14]
 
-[14][15] [Otago University endowment lands][15]
+[14][15][][15][Otago University endowment lands][15]
 
-[15][16] [Otago Harbour Board][16]
+[15][16][][16][Otago Harbour Board][16]
 
-[16][17] [Repeal of Lands Improvement and Native Lands Acquisition Act 1894][17]
+[16][17][][17][Repeal of Lands Improvement and Native Lands Acquisition Act 1894][17]
 
-[17][18] [Entries in registers][18]
+[17][18][][18][Entries in registers][18]
 
 ---
 
@@ -71,7 +71,15 @@ An Act to provide for various matters relating to Crown land, reserves, and othe
 
 ##### 2 State forests
     
-*   Whereas the land to which this section relates is State forest land subject to the [Forests Act 1949][19]: And whereas it is desired that it should be declared to be Crown land subject to the [Land Act 1948][20]: And whereas [section 19(1)][21] of the Forests Act 1949 prohibits the revocation of the setting apart of land as State forest land except by Parliament: And whereas it is desired to ensure that a lease affecting the land to which subsection (3)(f) relates is not affected by the revocation of the State forest status of that land: Be it therefore enacted as follows:
+*   Whereas the land to which this section relates is State forest land subject to the [Forests Act 1949][19]: 
+    
+    And whereas it is desired that it should be declared to be Crown land subject to the [Land Act 1948][20]:
+    
+    And whereas [section 19(1)][21] of the Forests Act 1949 prohibits the revocation of the setting apart of land as State forest land except by Parliament:
+    
+    And whereas it is desired to ensure that a lease affecting the land to which subsection (3)(f) relates is not affected by the revocation of the State forest status of that land:
+    
+    Be it therefore enacted as follows:
     
     (1) The setting apart of the land to which this section relates as State forest land is hereby revoked, and the land is hereby declared to be Crown land subject to the [Land Act 1948][20].
     
@@ -147,13 +155,35 @@ An Act to provide for various matters relating to Crown land, reserves, and othe
 
 ##### 3 Customhouse, Auckland
     
-*   Whereas [section 3(2)][22] of the Reserves and Other Lands Disposal Act 1979 limits any lease or licence granted by the administering body of the reserve known as the Customhouse at Auckland to a term not exceeding 5 years: And whereas it is expedient that the administering body should be empowered to grant leases or licences having a greater term with or without any right of renewal, in perpetuity or otherwise: Be it therefore enacted as follows:
+*   Whereas [section 3(2)][22] of the Reserves and Other Lands Disposal Act 1979 limits any lease or licence granted by the administering body of the reserve known as the Customhouse at Auckland to a term not exceeding 5 years:
     
-    _Amendment(s) incorporated in the [Act(s)][22]._
+    And whereas it is expedient that the administering body should be empowered to grant leases or licences having a greater term with or without any right of renewal, in perpetuity or otherwise:
+    
+    Be it therefore enacted as follows:
+    
+    [Section 3][22] of the Reserves and Other Lands Disposal Act 1979 is hereby amended by repealing subsection (2), and substituting the following subsection:
+    
+    > *   "(2) The terms and conditions relating to the term of any lease or licence granted under subsection (1), and of any right of renewal to be conferred on the lessee (whether in perpetuity or otherwise), shall be determined by the administering body with the consent of the Minister of Lands."
+    > 
+    > 
+    
+    
 
 ##### 4 Opotiki library centre
     
-*   Whereas the land to which this section relates was held by the Opotiki Mechanics' Institute (in this section referred to as the Institute), a body duly incorporated under the [Libraries and Mechanics Institutes Act 1908][23], in trust as a site for a Mechanics Institute: And whereas the Institute purported to transfer the land referred to in paragraph (a) of subsection (3) to the Opotiki Borough Council (now known as the Opotiki County Council and in this section referred to as the Council on 16 February 1965 in trust for the purposes of a public library reserve: And whereas the Institute purported to transfer the land referred to in paragraph (b) of that subsection to the Council on 27 March 1969: And whereas the land was at those times subject to the Reserves and Domains Act 1953 and could not be so transferred by the Institute: And whereas the Institute and the Council entered into a deed of trust dated 27 March 1969 relating to the holding and administering of the land referred to in the said paragraph (b) in trust for library centre purposes: And whereas it is desirable that the title of the Council to the land should be confirmed as a reserve for public library centre purposes in respect of the land referred to in paragraph (a) of subsection (3), and as an endowment for public library centre purposes in respect of the land referred to in paragraph (b) of that subsection: Be it therefore enacted as follows:
+*   Whereas the land to which this section relates was held by the Opotiki Mechanics' Institute (in this section referred to as the **Institute**), a body duly incorporated under the [Libraries and Mechanics Institutes Act 1908][23], in trust as a site for a Mechanics Institute:
+    
+    And whereas the Institute purported to transfer the land referred to in paragraph (a) of subsection (3) to the Opotiki Borough Council (now known as the Opotiki County Council and in this section referred to as the Council on 16 February 1965 in trust for the purposes of a public library reserve:
+    
+    And whereas the Institute purported to transfer the land referred to in paragraph (b) of that subsection to the Council on 27 March 1969:
+    
+    And whereas the land was at those times subject to the Reserves and Domains Act 1953 and could not be so transferred by the Institute:
+    
+    And whereas the Institute and the Council entered into a deed of trust dated 27 March 1969 relating to the holding and administering of the land referred to in the said paragraph (b) in trust for library centre purposes:
+    
+    And whereas it is desirable that the title of the Council to the land should be confirmed as a reserve for public library centre purposes in respect of the land referred to in paragraph (a) of subsection (3), and as an endowment for public library centre purposes in respect of the land referred to in paragraph (b) of that subsection:
+    
+    Be it therefore enacted as follows:
     
     (1) The land referred to in paragraph (a) of subsection (3) is hereby vested in the Council for the purposes of a local purpose reserve (public library centre purposes) subject to the [Reserves Act 1977][24] but free from all other trusts, reservations, and restrictions.
     
@@ -169,7 +199,13 @@ An Act to provide for various matters relating to Crown land, reserves, and othe
 
 ##### 5 Tongariro National Park
     
-*   Whereas the land to which this section relates is included in the Tongariro National Park: And whereas it is desired to exclude it from the National Park: And whereas section 10(2) of the National Parks Act 1952 prohibits the exclusion of land from a National Park except by Act of Parliament: Be it therefore enacted as follows:
+*   Whereas the land to which this section relates is included in the Tongariro National Park:
+    
+    And whereas it is desired to exclude it from the National Park:
+    
+    And whereas section 10(2) of the National Parks Act 1952 prohibits the exclusion of land from a National Park except by Act of Parliament:
+    
+    Be it therefore enacted as follows:
     
     (1) The land to which this section relates is hereby excluded from the Tongariro National Park.
     
@@ -177,7 +213,13 @@ An Act to provide for various matters relating to Crown land, reserves, and othe
 
 ##### 6 Taranaki Harbours Board
     
-*   Whereas the land to which this section relates is held by the Taranaki Harbours Board on trust for harbour purposes: And whereas the Board wishes to return the land to the Crown: And whereas the Board does not have power to dispose of land held by it on trust: Be it therefore enacted as follows:
+*   Whereas the land to which this section relates is held by the Taranaki Harbours Board on trust for harbour purposes:
+    
+    And whereas the Board wishes to return the land to the Crown:
+    
+    And whereas the Board does not have power to dispose of land held by it on trust:
+    
+    Be it therefore enacted as follows:
     
     (1) The land to which this section relates is hereby vested in the Crown free from all trusts, reservations, and restrictions.
     
@@ -185,7 +227,17 @@ An Act to provide for various matters relating to Crown land, reserves, and othe
 
 ##### 7 Egmont National Park
     
-*   Whereas the land to which this section relates is included in the Egmont National Park: And whereas the land does not meet the criteria established for National Park status: And whereas it is desired to exclude it from the National Park: And whereas the Minister of Lands has referred the proposal to exclude the land from the National Park to the Taranaki Maori Trust Board in accordance with [section 6][26] of the Mount Egmont Vesting Act 1978: And whereas section 10(2) of the National Parks Act 1952 prohibits the exclusion of land from a National Park except by Act of Parliament: Be it therefore enacted as follows:
+*   Whereas the land to which this section relates is included in the Egmont National Park:
+    
+    And whereas the land does not meet the criteria established for National Park status:
+    
+    And whereas it is desired to exclude it from the National Park: 
+    
+    And whereas the Minister of Lands has referred the proposal to exclude the land from the National Park to the Taranaki Maori Trust Board in accordance with [section 6][26] of the Mount Egmont Vesting Act 1978:
+    
+    And whereas section 10(2) of the National Parks Act 1952 prohibits the exclusion of land from a National Park except by Act of Parliament:
+    
+    Be it therefore enacted as follows:
     
     (1) The land to which this section relates is hereby excluded from the Egmont National Park.
     
@@ -209,7 +261,15 @@ An Act to provide for various matters relating to Crown land, reserves, and othe
 
 ##### 9 Abel Tasman National Park
     
-*   Whereas the land to which this section relates is included in the Abel Tasman National Park: And whereas the land does not meet the criteria established for National Park status: And whereas it is desired to exclude if from the National Park: And whereas section 10(2) of the National Parks Act 1952 prohibits the exclusion of land from a National Park except by Act of Parliament: Be it therefore enacted as follows:
+*   Whereas the land to which this section relates is included in the Abel Tasman National Park:
+    
+    And whereas the land does not meet the criteria established for National Park status:
+    
+    And whereas it is desired to exclude if from the National Park:
+    
+    And whereas section 10(2) of the National Parks Act 1952 prohibits the exclusion of land from a National Park except by Act of Parliament:
+    
+    Be it therefore enacted as follows:
     
     (1) The land to which this section relates is hereby excluded from the Abel Tasman National Park.
     
@@ -225,7 +285,13 @@ An Act to provide for various matters relating to Crown land, reserves, and othe
 
 ##### 10 Governor-General may declare certain land in Denniston to be Crown land
     
-*   Whereas the land to which this section relates has been granted in fee simple: And whereas the owners cannot be located and the land has been abandoned: And whereas it is desired that the land should be resumed by Her Majesty, but subject to the right of the owners and any other persons having estates or interests in the land to claim and receive compensation: Be it therefore enacted as follows:
+*   Whereas the land to which this section relates has been granted in fee simple:
+    
+    And whereas the owners cannot be located and the land has been abandoned:
+    
+    And whereas it is desired that the land should be resumed by Her Majesty, but subject to the right of the owners and any other persons having estates or interests in the land to claim and receive compensation:
+    
+    Be it therefore enacted as follows:
     
     (1) Subject to subsections (2) and (3), the Governor-General may, from time to time, by Proclamation made on the recommendation of the Minister of Lands, declare that any land, or any portion of the land, to which this section relates shall, as from a date specified in any such Proclamation, be vested in Her Majesty as Crown land subject to the [Land Act 1948][20].
     
@@ -249,13 +315,31 @@ An Act to provide for various matters relating to Crown land, reserves, and othe
 
 ##### 11 Mount Aspiring National Park
     
-*   Whereas [section 11][28] of the Reserves and Other Lands Disposal Act 1979 excluded certain land from the Mount Aspiring National Park: And whereas there is an error in the description of part of that land: And whereas it is necessary to correct that error: Be it therefore enacted as follows:
+*   Whereas [section 11][28] of the Reserves and Other Lands Disposal Act 1979 excluded certain land from the Mount Aspiring National Park:
     
-    _Amendment(s) incorporated in the [Act(s)][28]._
+    And whereas there is an error in the description of part of that land:
+    
+    And whereas it is necessary to correct that error:
+    
+    Be it therefore enacted as follows:
+    
+    Section 11(2)(b) of the Reserves and Other Lands Disposal Act 1979 is hereby amended by omitting the expression "containing 2 096 square metres", and substituting the expression "containing 8.0070 hectares, more".
 
 ##### 12 Transfer of interest in lease in perpetuity
     
-*   Whereas Simeon Inder, of Blackstone Hill, butcher, was granted a lease in perpetuity over the land to which this section relates on 4 June 1907: And whereas Simeon Inder died intestate and apparently without issue on 6 March 1927: And whereas it appears that the land to which this section relates was occupied and farmed by Herbert Luke Inder of Blackstone Hill, farmer, brother of Simeon Inder, from the date of the granting of the lease until his death on 11 September 1961: And whereas Robert Lyall Inder, son of Herbert Luke Inder, occupied and farmed the land from that date: And whereas public advertising has not resulted in any person claiming an interest in the land: And whereas it is desirable that the interest formerly held in the land by Simeon Inder should be transferred to Robert Lyall Inder: Be it therefore enacted as follows:
+*   Whereas Simeon Inder, of Blackstone Hill, butcher, was granted a lease in perpetuity over the land to which this section relates on 4 June 1907:
+    
+    And whereas Simeon Inder died intestate and apparently without issue on 6 March 1927:
+    
+    And whereas it appears that the land to which this section relates was occupied and farmed by Herbert Luke Inder of Blackstone Hill, farmer, brother of Simeon Inder, from the date of the granting of the lease until his death on 11 September 1961:
+    
+    And whereas Robert Lyall Inder, son of Herbert Luke Inder, occupied and farmed the land from that date:
+    
+    And whereas public advertising has not resulted in any person claiming an interest in the land:
+    
+    And whereas it is desirable that the interest formerly held in the land by Simeon Inder should be transferred to Robert Lyall Inder:
+    
+    Be it therefore enacted as follows:
     
     (1) The interest of Simeon Inder, as lessee, in the lease in perpetuity granted by the Crown to him over the land to which this section relates is hereby transferred to Robert Lyall Inder, nephew of Simeon Inder.
     
@@ -263,7 +347,15 @@ An Act to provide for various matters relating to Crown land, reserves, and othe
 
 ##### 13 Horseshoe Bend Cemetery
     
-*   Whereas the land to which this section relates was declared to be a closed cemetery vested in the Tuapeka County Council by a notice dated 10 October 1928 and published in the _Gazette_ of that year at page 3019: And whereas the graves in the cemetery are of historic interest: And whereas it is desirable that the cemetery should be vested in the Crown as a reserve under the [Reserves Act 1977][24]: And whereas it is not desirable that the [Burial and Cremation Act 1964][29] should apply to the land: Be it therefore enacted as follows:
+*   Whereas the land to which this section relates was declared to be a closed cemetery vested in the Tuapeka County Council by a notice dated 10 October 1928 and published in the _Gazette_ of that year at page 3019:
+    
+    And whereas the graves in the cemetery are of historic interest:
+    
+    And whereas it is desirable that the cemetery should be vested in the Crown as a reserve under the [Reserves Act 1977][24]:
+    
+    And whereas it is not desirable that the [Burial and Cremation Act 1964][29] should apply to the land:
+    
+    Be it therefore enacted as follows:
     
     (1) The land to which this section relates is hereby vested in the Crown as a reserve under the [Reserves Act 1977][24].
     
@@ -273,13 +365,43 @@ An Act to provide for various matters relating to Crown land, reserves, and othe
 
 ##### 14 Otago University endowment lands
     
-*   Whereas a scheme for sale of certain land held by the University of Otago as an endowment for the University is provided for in [section 16][33] of the Reserves and Other Lands Disposal Act 1977: And whereas it is desired to amend the scheme, by removing a provision that allows a reduction in the purchase price to be made where more than 25% of the purchase price is paid as a deposit, by providing for arbitration on the purchase price of land sold under the scheme, by providing for a reduction in the purchase price to be made in recognition of the value of the lessees' goodwill in the leases of the land, and by empowering the Land Settlement Board to determine the date as at which the determinations of the purchase price and goodwill are to be made: Be it therefore enacted as follows:
+*   Whereas a scheme for sale of certain land held by the University of Otago as an endowment for the University is provided for in [section 16][33] of the Reserves and Other Lands Disposal Act 1977:
     
-    (1), (2) _Amendment(s) incorporated in the [Act(s)][33]_.
+    And whereas it is desired to amend the scheme, by removing a provision that allows a reduction in the purchase price to be made where more than 25% of the purchase price is paid as a deposit, by providing for arbitration on the purchase price of land sold under the scheme, by providing for a reduction in the purchase price to be made in recognition of the value of the lessees' goodwill in the leases of the land, and by empowering the Land Settlement Board to determine the date as at which the determinations of the purchase price and goodwill are to be made:
+    
+    Be it therefore enacted as follows:
+    
+    (1) [Section 16(4)][33] of the Reserves and Other Lands Disposal Act 1977 is hereby amended by repealing paragraphs (c) and (d), and substituting the following paragraph:
+    
+    > *   "(c) the licence shall be for such period as may be fixed by the Council of the University, being not less than 10 years and not greater than 20 years, commencing on the 1 January or the 1 July next following the date of the licence:"
+    > 
+    > 
+    
+    (2) [Section 16][33] of the Reserves and Other Lands Disposal Act 1977 is hereby amended by repealing subsections (6) and (7), and substituting the following subsections:
+    
+    > *   "(6) Where the District Field Officer declines to confirm the purchase price determined by the registered valuer under subsection (5), the purchase price shall be fixed by arbitration in accordance with the provisions of the Arbitration Act 1908\.
+    > 
+    > *   "(7) For the purposes of such arbitration subsection (6) shall be deemed to be a submission within the meaning of the Arbitration Act 1908 and the reference shall be deemed to be to 2 arbitrators, 1 to be a registered valuer appointed by the Council of the University, and the other to be a registered valuer appointed by the Director-General of Lands.
+    > 
+    > *   "(7A) The purchase price of any land to be sold under this section shall be reduced by the value (if any) of the purchaser's goodwill in any lease held by him over that land, as determined by the Commissioner of Crown Lands, Dunedin.
+    > 
+    > *   "(7B) Every determination of a purchase price or of goodwill under subsection (5) or subsection (6) or subsection (7A) shall be made as at a date determined by the Land Settlement Board, being a date not later than the date on which the agreement to sell the land is entered into under subsection (1)."
+    > 
+    > 
+    
+    
 
 ##### 15 Otago Harbour Board
     
-*   Whereas the land to which this section relates was reclaimed by the Otago Harbour Board in or about 1917: And whereas the land has not been vested in the Board nor in any other person: And whereas the Board has purported to grant leases of some of the land: And whereas it is expedient that the land be vested in the Board and that the validity of the leases granted by the Board be confirmed: Be it therefore enacted as follows:
+*   Whereas the land to which this section relates was reclaimed by the Otago Harbour Board in or about 1917:
+    
+    And whereas the land has not been vested in the Board nor in any other person:
+    
+    And whereas the Board has purported to grant leases of some of the land:
+    
+    And whereas it is expedient that the land be vested in the Board and that the validity of the leases granted by the Board be confirmed:
+    
+    Be it therefore enacted as follows:
     
     (1) The land to which this section relates is hereby vested in the Otago Harbour Board.
     
@@ -289,17 +411,23 @@ An Act to provide for various matters relating to Crown land, reserves, and othe
 
 ##### 16 Repeal of Lands Improvement and Native Lands Acquisition Act 1894
     
-*   Whereas the Lands Improvement and Native Lands Acquisition Act 1894 and certain regulations made under that Act are still in force: And whereas it appears that the provisions of that Act are spent: And whereas it is desirable to repeal that Act and the regulations made under that Act: Be it therefore enacted as follows:
+*   Whereas the Lands Improvement and Native Lands Acquisition Act 1894 and certain regulations made under that Act are still in force:
+    
+    And whereas it appears that the provisions of that Act are spent:
+    
+    And whereas it is desirable to repeal that Act and the regulations made under that Act:
+    
+    Be it therefore enacted as follows:
     
     (1) The Lands Improvement and Native Lands Acquisition Act 1894 is hereby repealed.
     
     (2) The following regulations are hereby revoked:
         
-    *   (a) the Lands Improvement and Native Land Acquisition Regulations 1909 (_Gazette_, 1909, Vol II, p 2156):
+    *   (a) the Lands Improvement and Native Land Acquisition Regulations 1909 (_Gazette_ 1909 Vol II, p 2156):
     
-    *   (b) the Lands Improvement and Native Land Acquisition Regulations 1911 (_Gazette_, 1911, Vol I, p 1335; 1911, Vol II, p 3570):
+    *   (b) the Lands Improvement and Native Land Acquisition Regulations 1911 (_Gazette_ 1911 Vol I, p 1335; 1911 Vol II, p 3570):
     
-    *   (c) the Land Improvement and Native Land Acquisition Regulations 1914 (_Gazette_, 1914, Vol II, pp 3240 and 3942).
+    *   (c) the Land Improvement and Native Land Acquisition Regulations 1914 (_Gazette_ 1914 Vol II, pp 3240 and 3942).
     
     
 
