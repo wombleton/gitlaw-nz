@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 11 October 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -51,23 +51,25 @@ This Act is administered by the Ministry of Justice.
 [Part 1A][13]  
 [Enforcement of judgments and orders of Federal Court of Australia][13]
 
-[8A][14][][14][Interpretation][14]
+\[Repealed\]
 
-[8B][15][][15][Application][15]
+[8A][14][][14][Interpretation][14] \[Repealed\]
 
-[8C][16][][16][Service in New Zealand][16]
+[8B][15][][15][Application][15] \[Repealed\]
 
-[8D][17][][17][Registration][17]
+[8C][16][][16][Service in New Zealand][16] \[Repealed\]
 
-[8E][18][][18][Cases in which registration must be set aside][18]
+[8D][17][][17][Registration][17] \[Repealed\]
 
-[8F][19][][19][Variation][19]
+[8E][18][][18][Cases in which registration must be set aside][18] \[Repealed\]
 
-[8G][20][][20][Stay of execution][20]
+[8F][19][][19][Variation][19] \[Repealed\]
 
-[8H][21][][21][Application of rules of private international law][21]
+[8G][20][][20][Stay of execution][20] \[Repealed\]
 
-[8I][22][][22][Rules of court][22]
+[8H][21][][21][Application of rules of private international law][21] \[Repealed\]
+
+[8I][22][][22][Rules of court][22] \[Repealed\]
 
 [Part 2][23]  
 [Miscellaneous and general][23]
@@ -98,8 +100,6 @@ An Act to make better provision for the enforcement in New Zealand of judgments 
     
     _appeal_ includes any proceeding by way of discharging or setting aside a judgment or an application for a new trial or a stay of execution
     
-    _Australian tax_ means tax or a charge of a similar nature payable under the laws of the Commonwealth of Australia or any State or Territory of Australia; and includes additional or other tax payable by way of penalty, interest, or otherwise by reason of a contravention of any of those laws or of a requirement made under any of those laws
-    
     _country of the original court_ means the country in which the original court is situated
     
     _High Court_ means the High Court of New Zealand
@@ -128,11 +128,11 @@ An Act to make better provision for the enforcement in New Zealand of judgments 
     
     Compare: Foreign Judgments (Reciprocal Enforcement) Act 1933 s 11 (UK)
     
-    Section 2(1) **Australian tax**: inserted, on 13 March 1992, by section 2(1) of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
+    Section 2(1) **Australian tax**: repealed, on 11 October 2013, by [section 10(1)][31] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 2(1) **High Court**: inserted, on 1 April 1980, pursuant to [section 12][31] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 2(1) **High Court**: inserted, on 1 April 1980, pursuant to [section 12][32] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 2(1) **judgment**: amended, on 1 July 1997, by [section 17][32] of the Arbitration Act 1996 (1996 No 99).
+    Section 2(1) **judgment**: amended, on 1 July 1997, by [section 17][33] of the Arbitration Act 1996 (1996 No 99).
     
     Section 2(1) **judgment**: amended, on 13 March 1992, by section 2(2) of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
     
@@ -140,13 +140,13 @@ An Act to make better provision for the enforcement in New Zealand of judgments 
     
     Section 2(1) **judgment debtor**: amended, on 13 March 1992, by section 2(4) of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
     
-    Section 2(1) **judgments given in the superior courts of New Zealand**: amended, on 1 April 1980, pursuant to [section 12][31] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 2(1) **judgments given in the superior courts of New Zealand**: amended, on 1 April 1980, pursuant to [section 12][32] of the Judicature Amendment Act 1979 (1979 No 124).
     
     Section 2(1) **money judgment**: inserted, on 13 March 1992, by section 2(5) of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
     
     Section 2(1) **non-money judgment**: inserted, on 13 March 1992, by section 2(5) of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
     
-    Section 2(1) **Supreme Court**: repealed, on 1 April 1980, pursuant to [section 12][31] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 2(1) **Supreme Court**: repealed, on 1 April 1980, pursuant to [section 12][32] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ## Part 1  
 Reciprocal enforcement of judgments
@@ -154,6 +154,12 @@ Reciprocal enforcement of judgments
 ##### 3 Application of this Part
     
 *   (1) This Part shall extend to the United Kingdom.
+    
+    (1A) Nothing in this Part applies or extends to a judgment that is given in or by a superior court or an inferior court of Australia.
+    
+    (1B) Subsection (1A) does not, however, prevent a judgment given in or by a superior court or an inferior court of Australia from being a registrable Australian judgment under [subpart 5][34] of Part 2 of the Trans-Tasman Proceedings Act 2010\.
+    
+    (1C) Subsection (1A), and the amendments to, and revocations of orders under, this Part effected by [Schedule 2][35] of the Trans-Tasman Proceedings Act 2010, do not, however, affect the application of this Part to a judgment given in or by a superior court or an inferior court of Australia before the commencement of [subpart 5][34] of Part 2 of that Act.
     
     (2) If the Governor-General is satisfied that, in the event of the benefits conferred by this Part being extended to money judgments given in the superior courts of any part of Her Majesty's dominions outside the United Kingdom, or given in the superior courts of any foreign country, substantial reciprocity of treatment will be assured as respects the enforcement within that part of Her Majesty's dominions or in that foreign country, as the case may be, of money judgments given in the superior courts of New Zealand, he may by Order in Council direct---
         
@@ -173,7 +179,7 @@ Reciprocal enforcement of judgments
         
         provided that nothing in this paragraph shall apply with respect to judgments given in the United Kingdom or in any other part of Her Majesty's dominions to which Part 1 of the Administration of Justice Act 1922 applied immediately before the passing of this Act.
     
-    (3A) Nothing in paragraph (b) of subsection (3) prevents a judgment given in a superior court of Australia under which Australian tax is payable being a judgment to which this Part applies.
+    (3A) \[Repealed\]
     
     (4) For the purposes of this section a judgment shall be deemed to be final and conclusive notwithstanding that an appeal may be pending against it, or that it may still be subject to appeal, in the courts of the country of the original court.
     
@@ -183,6 +189,12 @@ Reciprocal enforcement of judgments
     
     Compare: Foreign Judgments (Reciprocal Enforcement) Act 1933 s 1 (UK)
     
+    Section 3(1A): inserted, on 11 October 2013, by [section 10(1)][31] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    
+    Section 3(1B): inserted, on 11 October 2013, by [section 10(1)][31] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    
+    Section 3(1C): inserted, on 11 October 2013, by [section 10(1)][31] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    
     Section 3(2): amended, on 13 March 1992, by section 3(1) of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
     
     Section 3(2A): inserted, on 13 March 1992, by section 3(2) of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
@@ -191,7 +203,7 @@ Reciprocal enforcement of judgments
     
     Section 3(3): amended, on 13 March 1992, by section 3(3)(b) of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
     
-    Section 3(3A): inserted, on 13 March 1992, by section 3(4) of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
+    Section 3(3A): repealed, on 11 October 2013, by [section 10(1)][31] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
     Section 3(6): repealed, on 13 March 1992, by section 3(5) of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
 
@@ -207,15 +219,19 @@ Reciprocal enforcement of judgments
     
     *   (c) it is given after the coming into operation of the Order in Council directing that the inferior court is a specified inferior court for the purposes of this Part.
     
-    (3) Nothing in paragraph (b) of subsection (2) prevents a judgment given in an inferior court of Australia under which Australian tax is payable being a judgment to which this Part applies.
+    (3) \[Repealed\]
     
-    (4) Nothing in paragraph (c) of subsection (2) applies to a judgment of an inferior court of Australia.
+    (4) \[Repealed\]
     
     (5) For the purposes of this section, a judgment shall be deemed to be final and conclusive notwithstanding that an appeal may be pending against it, or that it may still be subject to appeal, in the courts of the country of the original court.
     
     (6) The Governor-General may by a subsequent Order in Council vary or revoke any Order in Council previously made under this section.
     
     Section 3A: inserted, on 13 March 1992, by section 4 of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
+    
+    Section 3A(3): repealed, on 11 October 2013, by [section 10(1)][31] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    
+    Section 3A(4): repealed, on 11 October 2013, by [section 10(1)][31] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 3B Application of this Part to non-money judgments
     
@@ -229,13 +245,17 @@ Reciprocal enforcement of judgments
     
     *   (b) the kinds of non-money judgments.
     
-    (4) A specified non-money judgment, not being a judgment of a superior court or an inferior court of Australia, shall be a judgment to which this Part applies if it was given after the coming into operation of an Order in Council made under subsection (1) or subsection (2), as the case may be, in relation to that judgment.
+    (4) A specified non-money judgment shall be a judgment to which this Part applies if it was given after the coming into operation of an Order in Council made under subsection (1) or subsection (2), as the case may be, in relation to that judgment.
     
-    (5) A specified non-money judgment that is a judgment of a superior court or an inferior court of Australia shall be a judgment to which this Part applies whether it was given before or after the coming into operation of an Order in Council made under subsection (1) or subsection (2), as the case may be, in relation to that judgment.
+    (5) \[Repealed\]
     
     (6) The Governor-General may by a subsequent Order in Council vary or revoke any Order in Council previously made under this section.
     
     Section 3B: inserted, on 13 March 1992, by section 4 of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
+    
+    Section 3B(4): amended, on 11 October 2013, by [section 10(1)][31] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    
+    Section 3B(5): repealed, on 11 October 2013, by [section 10(1)][31] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 4 Application for, and effect of, registration of judgment
     
@@ -277,19 +297,19 @@ Reciprocal enforcement of judgments
     
     Compare: Foreign Judgments (Reciprocal Enforcement) Act 1933 s 2 (UK)
     
-    Section 4(1): amended, on 1 April 1980, pursuant to [section 12][31] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 4(1): amended, on 1 April 1980, pursuant to [section 12][32] of the Judicature Amendment Act 1979 (1979 No 124).
     
     Section 4(1) proviso paragraph (b): amended, on 13 March 1992, by section 5(1) of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
     
     Section 4(2): amended, on 13 March 1992, by section 5(2)(c) of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
     
-    Section 4(2): amended, on 1 April 1980, pursuant to [section 12][31] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 4(2): amended, on 1 April 1980, pursuant to [section 12][32] of the Judicature Amendment Act 1979 (1979 No 124).
     
     Section 4(2)(a): amended, on 13 March 1992, by section 5(2)(a) of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
     
     Section 4(2)(d): amended, on 13 March 1992, by section 5(2)(b) of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
     
-    Section 4(2)(d): amended, on 1 April 1980, pursuant to [section 12][31] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 4(2)(d): amended, on 1 April 1980, pursuant to [section 12][32] of the Judicature Amendment Act 1979 (1979 No 124).
     
     Section 4(2) proviso: amended, on 13 March 1992, by section 5(2)(d) of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
     
@@ -299,13 +319,13 @@ Reciprocal enforcement of judgments
     
     Section 4(4): amended, on 13 March 1992, by section 5(5) of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
     
-    Section 4(5): amended, on 1 April 1980, pursuant to [section 12][31] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 4(5): amended, on 1 April 1980, pursuant to [section 12][32] of the Judicature Amendment Act 1979 (1979 No 124).
     
     Section 4(6): amended, on 13 March 1992, by section 5(6) of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
 
 ##### 5 Rules of court
     
-*   (1) The power to make rules of court under [section 51C][33] of the Judicature Act 1908 shall, subject to the provisions of this section, include power to make rules for the following purposes:
+*   (1) The power to make rules of court under [section 51C][36] of the Judicature Act 1908 shall, subject to the provisions of this section, include power to make rules for the following purposes:
         
     *   (a) for making provision with respect to the giving of security for costs by persons applying for the registration of judgments:
     
@@ -323,7 +343,7 @@ Reciprocal enforcement of judgments
     
     Compare: Foreign Judgments (Reciprocal Enforcement) Act 1933 s 3 (UK)
     
-    Section 5(1): amended, on 1 January 1986, pursuant to [section 12(1)][34] of the Judicature Amendment Act (No 2) 1985 (1985 No 112).
+    Section 5(1): amended, on 1 January 1986, pursuant to [section 12(1)][37] of the Judicature Amendment Act (No 2) 1985 (1985 No 112).
     
     Section 5(1)(e): replaced, on 13 March 1992, by section 6 of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
 
@@ -339,7 +359,7 @@ Reciprocal enforcement of judgments
     
     *   (d) that the judgment was obtained by fraud; or
     
-    *   (e) that the enforcement of the judgment, not being a judgment of a superior court or an inferior court of Australia under which Australian tax is payable, would be contrary to public policy in New Zealand; or
+    *   (e) that the enforcement of the judgment would be contrary to public policy in New Zealand; or
     
     *   (f) that the rights under the judgment are not vested in the person by whom the application for registration was made.
     
@@ -359,7 +379,7 @@ Reciprocal enforcement of judgments
         
         *   (v) if the judgment debtor, being a defendant in the original court, had an office or place of business in the country of that court and the proceedings in that court were in respect of a transaction effected through or at that office or place:
         
-        *   (vi) if Australian tax is payable under the judgment:
+        *   (vi) \[Repealed\]
         
         
     
@@ -377,13 +397,13 @@ Reciprocal enforcement of judgments
     
     Compare: Foreign Judgments (Reciprocal Enforcement) Act 1933 s 4 (UK)
     
-    Section 6(1): amended, on 1 April 1980, pursuant to [section 12][31] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 6(1): amended, on 1 April 1980, pursuant to [section 12][32] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 6(1)(e): amended, on 13 March 1992, by section 7(1) of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
+    Section 6(1)(e): amended, on 11 October 2013, by [section 10(1)][31] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
     
-    Section 6(2): amended, on 1 April 1980, pursuant to [section 12][31] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 6(2): amended, on 1 April 1980, pursuant to [section 12][32] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 6(3)(a)(vi): inserted, on 13 March 1992, by section 7(2) of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
+    Section 6(3)(a)(vi): repealed, on 11 October 2013, by [section 10(1)][31] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 7 Powers of High Court on application to set aside registration
     
@@ -395,13 +415,13 @@ Reciprocal enforcement of judgments
     
     Compare: Foreign Judgments (Reciprocal Enforcement) Act 1933 s 5 (UK)
     
-    Section 7 heading: amended, on 1 April 1980, pursuant to [section 12][31] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 7 heading: amended, on 1 April 1980, pursuant to [section 12][32] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 7(1): amended, on 1 April 1980, pursuant to [section 12][31] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 7(1): amended, on 1 April 1980, pursuant to [section 12][32] of the Judicature Amendment Act 1979 (1979 No 124).
     
     Section 7(2): amended, on 13 March 1992, by section 8 of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
     
-    Section 7(3): amended, on 1 April 1980, pursuant to [section 12][31] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 7(3): amended, on 1 April 1980, pursuant to [section 12][32] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 8 Judgments which can be registered under this Act not to be enforceable otherwise
     
@@ -411,138 +431,64 @@ Reciprocal enforcement of judgments
 
 ## Part 1A  
 Enforcement of judgments and orders of Federal Court of Australia
+
+\[Repealed\]
     
-*   Part 1A: inserted, on 1 July 1990, by section 2 of the Reciprocal Enforcement of Judgments Amendment Act 1990 (1990 No 45).
+*   Part 1A: repealed, on 11 October 2013, by [section 10(1)][31] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 8A Interpretation
     
-*   In this Part, unless the context otherwise requires,---
+*   \[Repealed\]
     
-    _injunction_ includes an interim or interlocutory injunction whether obtained _inter partes_ or _ex parte_
-    
-    _order_ means a direction under which a person is required to perform an act, or to make a payment, including a payment of a pecuniary penalty, or to observe a condition or to refrain from performing an act or from engaging in specified conduct, whether the order is interlocutory or final; but does not include an injunction
-    
-    _specified proceeding_ means a proceeding in the Federal Court of Australia in which---
-        
-    *   (a) a matter for determination arises under---
-            
-        *   (i) any of sections 46A, 155A, or 155B of the Trade Practices Act 1974 of the Parliament of the Commonwealth of Australia; or
-        
-        *   (ii) a provision of Part VI or Part XII of the Trade Practices Act 1974 of the Parliament of the Commonwealth of Australia in so far as it relates to any of sections 46A, 155A, or 155B of that Act---
-        
-        whether or not any other matter arises for determination; or
-    
-    *   (b) any other kind of relief specified by the Governor-General by Order in Council for the purposes of this Part is sought; or
-    
-    *   (c) an interlocutory order is sought in relation to a proceeding of the kind mentioned in paragraph (a) or paragraph (b); or
-    
-    *   (d) the enforcement is sought of a judgment or order or injunction given or made or granted in a proceeding of the kind mentioned in paragraph (a) or paragraph (b).
-    
-    Section 8A: inserted, on 1 July 1990, by section 2 of the Reciprocal Enforcement of Judgments Amendment Act 1990 (1990 No 45).
+    Section 8A: repealed, on 11 October 2013, by [section 10(1)][31] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 8B Application
     
-*   (1) This Part applies to a judgment or order or injunction given or made or granted in a specified proceeding.
+*   \[Repealed\]
     
-    (2) Nothing in [Part 1][4] applies to a judgment or order or injunction to which this Part applies.
-    
-    Section 8B: inserted, on 1 July 1990, by section 2 of the Reciprocal Enforcement of Judgments Amendment Act 1990 (1990 No 45).
+    Section 8B: repealed, on 11 October 2013, by [section 10(1)][31] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 8C Service in New Zealand
     
-*   An order or injunction to which this Part applies may be served in New Zealand on the person expressed to be bound by it.
+*   \[Repealed\]
     
-    Section 8C: inserted, on 1 July 1990, by section 2 of the Reciprocal Enforcement of Judgments Amendment Act 1990 (1990 No 45).
+    Section 8C: repealed, on 11 October 2013, by [section 10(1)][31] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 8D Registration
     
-*   (1) On production of a copy of a judgment or order or injunction to which this Part applies in accordance with rules made under [section 51C][33] of the Judicature Act 1908, the High Court shall, on being satisfied that the judgment or order or injunction is one to which this Part applies, order that the judgment or order or injunction be registered.
+*   \[Repealed\]
     
-    (2) A registered judgment or order or injunction to which this Part applies shall---
-        
-    *   (a) for the purposes of execution, be of the same force and effect; and
-    
-    *   (b) in the case of a judgment or order under which a sum of money is payable, carry interest on that sum; and
-    
-    *   (c) be subject to the same control over its execution by the High Court---
-    
-    as if it had been a judgment or order or injunction originally given or made or granted in the High Court on the date of registration.
-    
-    (3) Where a judgment or order to which this Part applies under which a sum is payable that is expressed in Australian currency is to be registered under this Part, the judgment or order is to be registered---
-        
-    *   (a) if the applicant for registration of the judgment or order has stated in the application that the applicant wishes the judgment or order to be registered in Australian currency, in Australian currency; or
-    
-    *   (b) in any other case, as if it were for an equivalent amount in New Zealand currency, based on the rate of exchange prevailing on the day of the application for registration.
-    
-    (4) If, at the date of the application for registration of a judgment or order to which this Part applies under which a sum of money is payable the judgment or order has been partly satisfied, the judgment or order shall not be registered in respect of the whole sum payable under the judgment or order, but shall be registered only in respect of the balance remaining payable at that date.
-    
-    (5) In addition to any sum of money payable under the judgment or order, including any interest which by the law of the Commonwealth of Australia becomes due under the judgment or order up to the time or registration, the judgment or order shall be registered for the reasonable costs of and incidental to registration, including the costs of obtaining a certified copy of the judgment from the Federal Court of Australia.
-    
-    Section 8D: inserted, on 1 July 1990, by section 2 of the Reciprocal Enforcement of Judgments Amendment Act 1990 (1990 No 45).
-    
-    Section 8D(2): amended, on 13 March 1992, by section 9(1) of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
-    
-    Section 8D(3): replaced, on 13 March 1992, by section 9(2) of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
+    Section 8D: repealed, on 11 October 2013, by [section 10(1)][31] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 8E Cases in which registration must be set aside
     
-*   The High Court shall set aside the registration of a judgment or order or injunction that is registered under [section 8D][17] on the application of any person against whom it may be enforced if the High Court is satisfied that the judgment or order or injunction---
-        
-    *   (a) is unenforceable in Australia; or
+*   \[Repealed\]
     
-    *   (b) has been wholly satisfied; or
-    
-    *   (c) was registered in contravention of this Part or that this Part does not apply to it; or
-    
-    *   (d) has been reversed or set aside by the Federal Court of Australia or the High Court of Australia; or
-    
-    *   (e) relates to a claim or claims for relief for a contravention, or 2 or more contraventions, of section 46A of the Trade Practices Act 1974 of the Parliament of the Commonwealth of Australia, whether or not it also relates to any other claim for relief, that has, or all of which have, been dismissed by the Federal Court of Australia or the High Court of Australia.
-    
-    Section 8E: inserted, on 1 July 1990, by section 2 of the Reciprocal Enforcement of Judgments Amendment Act 1990 (1990 No 45).
+    Section 8E: repealed, on 11 October 2013, by [section 10(1)][31] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 8F Variation
     
-*   (1) A copy of every judgment or order of the Federal Court of Australia varying a judgment or order or injunction registered under this Part shall be registered in the High Court and the provisions of this Part shall apply to the judgment or order or injunction as so varied.
+*   \[Repealed\]
     
-    (2) No execution of a judgment registered under this Part that has been varied by the Federal Court of Australia or by the High Court of Australia shall be issued and no proceedings to enforce an order or injunction registered under this Part that has been varied by the Federal Court of Australia or by the High Court of Australia, as the case may be, shall be commenced before the registration of the variation of the judgment or order under subsection (1) without the leave of the High Court.
-    
-    Section 8F: inserted, on 1 July 1990, by section 2 of the Reciprocal Enforcement of Judgments Amendment Act 1990 (1990 No 45).
+    Section 8F: repealed, on 11 October 2013, by [section 10(1)][31] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 8G Stay of execution
     
-*   (1) The High Court may, if it is satisfied that a person against whom a judgment or order or injunction has been registered under this Part---
-        
-    *   (a) has applied, or intends to apply, to the Federal Court of Australia to have the judgment or order or injunction set aside; or
+*   \[Repealed\]
     
-    *   (b) has appealed, or intends to appeal, to the High Court of Australia against the judgment or the making of the order or the granting of the injunction,---
-    
-    the High Court may order that enforcement of the judgment or order or injunction be stayed pending the determination of the application or appeal, as the case may be, or until a specified date, or for a specified period.
-    
-    (2) If the High Court makes an order on the ground that a person intends to apply to the Federal Court of Australia to have the judgment or order or injunction set aside or intends to appeal to the High Court of Australia against the judgment or the making of the order or the granting of the injunction, the High Court shall impose, as a condition of the order, a condition that the person makes the application or brings the appeal, as the case may be, by a specified date or within a specified period.
-    
-    (3) Every order made under subsection (1) shall be made on the condition that the application or appeal, as the case may be, is proceeded with in an expeditious manner.
-    
-    (4) An order under subsection (1) may be made on such other conditions, including conditions relating to the giving of security, as the High Court thinks fit.
-    
-    Section 8G: inserted, on 1 July 1990, by section 2 of the Reciprocal Enforcement of Judgments Amendment Act 1990 (1990 No 45).
+    Section 8G: repealed, on 11 October 2013, by [section 10(1)][31] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 8H Application of rules of private international law
     
-*   The provisions of this Part shall have effect in relation to the execution and enforcement of judgments, orders, and injunctions registered under this Part notwithstanding any rule of law relating to the jurisdiction of the courts of countries other than New Zealand or to public policy.
+*   \[Repealed\]
     
-    Section 8H: inserted, on 1 July 1990, by section 2 of the Reciprocal Enforcement of Judgments Amendment Act 1990 (1990 No 45).
+    Section 8H: repealed, on 11 October 2013, by [section 10(1)][31] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ##### 8I Rules of court
     
-*   (1) Rules may be made under [section 51C][33] of the Judicature Act 1908 for, or in relation to, the registration of judgments, orders, and injunctions to which this Part applies.
+*   \[Repealed\]
     
-    (2) Without limiting subsection (1), rules may be made that make provision for---
-        
-    *   (a) the registration and service of facsimiles of judgments, orders, and injunctions to which this Part applies; and
-    
-    *   (b) the service of notice of registration of judgments, orders, and injunctions to which this Part applies.
-    
-    Section 8I: inserted, on 1 July 1990, by section 2 of the Reciprocal Enforcement of Judgments Amendment Act 1990 (1990 No 45).
+    Section 8I: repealed, on 11 October 2013, by [section 10(1)][31] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ## Part 2  
 Miscellaneous and general
@@ -597,9 +543,9 @@ Miscellaneous and general
 
 ##### 11A Application of Legislation Act 2012 to orders
     
-*   An Order in Council made under this Act is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][35] and must be presented to the House of Representatives under [section 41][36] of that Act.
+*   An Order in Council made under this Act is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][38] and must be presented to the House of Representatives under [section 41][39] of that Act.
     
-    Section 11A: replaced, on 5 August 2013, by [section 77(3)][37] of the Legislation Act 2012 (2012 No 119).
+    Section 11A: replaced, on 5 August 2013, by [section 77(3)][40] of the Legislation Act 2012 (2012 No 119).
 
 ##### 12 Repeal and savings
     
@@ -609,7 +555,7 @@ Miscellaneous and general
 
 ##### 13 Section 56 of Judicature Act 1908 modified
     
-*   [Section 56][38] of the Judicature Act 1908 shall hereafter apply only in respect of such judgments, decrees, rules, and orders as, being enforceable under that section, are not enforceable in New Zealand in accordance with the foregoing provisions of this Act.
+*   [Section 56][41] of the Judicature Act 1908 shall hereafter apply only in respect of such judgments, decrees, rules, and orders as, being enforceable under that section, are not enforceable in New Zealand in accordance with the foregoing provisions of this Act.
 
 #### 
 
@@ -623,25 +569,25 @@ Miscellaneous and general
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][39] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][40] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][42] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][43] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][41] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][42] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][44] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][45] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][37]
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][40]
     
-    Arbitration Act 1996 (1996 No 99): [section 17][32]
+    Trans-Tasman Proceedings Act 2010 (2010 No 108): [section 10(1)][31]
     
-    Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10) 
+    Arbitration Act 1996 (1996 No 99): [section 17][33]
     
-    Reciprocal Enforcement of Judgments Amendment Act 1990 (1990 No 45)
+    Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10)
     
-    Judicature Amendment Act (No 2) 1985 (1985 No 112): [section 12(1) ][34]
+    Judicature Amendment Act (No 2) 1985 (1985 No 112): [section 12(1) ][37]
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][31]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][32]
 
 
 
@@ -676,15 +622,18 @@ Miscellaneous and general
 [28]: http://www.legislation.govt.nz/act/public/1934/0011/latest/whole.html#DLM216728
 [29]: http://www.legislation.govt.nz/act/public/1934/0011/latest/whole.html#DLM216729
 [30]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM403276
-[31]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM35049
-[32]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM405707
-[33]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM146607
-[34]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM75962
-[35]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM2997643
-[36]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM2998573
-[37]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM2998633
-[38]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM146660
-[39]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM2998516
-[40]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM2998515
-[41]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM2998532
-[42]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[31]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM2576329
+[32]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM35049
+[33]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM405707
+[34]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM2576383
+[35]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM2576440
+[36]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM146607
+[37]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM75962
+[38]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM2997643
+[39]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM2998573
+[40]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM2998633
+[41]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM146660
+[42]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM2998516
+[43]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM2998515
+[44]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM2998532
+[45]: http://www.pco.parliament.govt.nz/editorial-conventions/
