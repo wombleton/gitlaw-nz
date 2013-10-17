@@ -438,7 +438,7 @@ General provisions
     
     *   (b) as soon as possible after that valuation has been made, the leasing authority shall give to the lessee notice in writing informing him of the amount of that valuation and requiring him to notify the leasing authority in writing within 2 months whether he agrees to the amount of that valuation or requires that valuation to be determined by arbitration in accordance with paragraph (c):
     
-    *   (c) within 2 months after the giving of that notice to the lessee, he shall give notice in writing to the leasing authority stating whether he agrees to the valuation specified in the notice given to him or requires that valuation to be determined by arbitration. If he so requires, that valuation shall be determined in accordance with the provisions of [clauses 7 to 11][47] of Schedule 1, which shall, with the necessary modifications, apply as if the valuation were being made to determine the rent payable under a renewal lease:
+    *   (c) within 2 months after the giving of that notice to the lessee, he shall give notice in writing to the leasing authority stating whether he agrees to the valuation specified in the notice given to him or requires that valuation to be determined by arbitration. If he so requires, that valuation shall be determined in accordance with the provisions of [clauses 7 to 11][50] of Schedule 1, which shall, with the necessary modifications, apply as if the valuation were being made to determine the rent payable under a renewal lease:
     
     *   (d) if the lessee fails to give to the leasing authority within the time specified in paragraph (c) the notice referred in that paragraph, he shall be deemed to have agreed to the valuation set out in the notice given to him under paragraph (b):
     
@@ -464,7 +464,7 @@ General provisions
     
     *   (b) without offering the same for public application and ballot or, as the case may be, for sale by public auction or public tender, grant to the former lessee a new lease of all the land comprised in the surrendered leases for the remainder of the term of the surrendered leases where they all have the same expiry date, or, where they do not all have the same expiry date, for a term expiring on a date fixed by the leasing authority, being not later than the latest expiry date under the surrendered leases, at a rent to be fixed by the leasing authority either before or after the surrender, and on any terms and conditions authorised by this Act.
     
-    (1B) For the purposes of [section 117][50] of the Land Transfer Act 1952, every new lease granted under subsection (1A) shall, in relation to each part of the land comprised therein that was subject to any such surrendered lease, be deemed to be in substitution for that surrendered lease.
+    (1B) For the purposes of [section 117][51] of the Land Transfer Act 1952, every new lease granted under subsection (1A) shall, in relation to each part of the land comprised therein that was subject to any such surrendered lease, be deemed to be in substitution for that surrendered lease.
     
     (2) In this section the term _lease_ includes an agreement for a lease, and the term _lessee_ has a corresponding meaning.
     
@@ -510,7 +510,7 @@ General provisions
     
     Section 23C: inserted, on 1 April 1978, by [section 7(3)][42] of the Local Government Amendment Act (No 3) 1977 (1977 No 122).
     
-    Section 23C(1): amended, on 7 July 2004, by [section 22(1)][51] of the Local Government Act 1974 Amendment Act 2004 (2004 No 64).
+    Section 23C(1): amended, on 7 July 2004, by [section 22(1)][52] of the Local Government Act 1974 Amendment Act 2004 (2004 No 64).
 
 ##### 24 Lease not invalidated by failure of leasing authority to observe provisions of Act
     
@@ -520,7 +520,7 @@ General provisions
     
     Compare: 1908 No 240 s 13
     
-    Section 24(1): amended, on 7 July 2004, by [section 22(2)][51] of the Local Government Act 1974 Amendment Act 2004 (2004 No 64).
+    Section 24(1): amended, on 7 July 2004, by [section 22(2)][52] of the Local Government Act 1974 Amendment Act 2004 (2004 No 64).
     
     Section 24(1): amended, on 1 April 1978, by [section 7(3)][42] of the Local Government Amendment Act (No 3) 1977 (1977 No 122).
 
@@ -707,11 +707,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Lincoln College Act 1961 (1961 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][52]._
+_Amendment(s) incorporated in the [Act(s)][53]._
 
 ##### Massey University Act 1963 (1963 No 7)
 
-_Amendment(s) incorporated in the [Act(s)][53]._
+_Amendment(s) incorporated in the [Act(s)][54]._
 
 ##### Municipal Corporations Act 1954 (1954 No 76) (1957 Reprint, Vol 10, p 377)
 
@@ -723,23 +723,23 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### University of Auckland Act 1961 (1961 No 50)
 
-_Amendment(s) incorporated in the [Act(s)][54]._
+_Amendment(s) incorporated in the [Act(s)][55]._
 
 ##### University of Canterbury Act 1961 (1961 No 49)
 
-_Amendment(s) incorporated in the [Act(s)][55]._
+_Amendment(s) incorporated in the [Act(s)][56]._
 
 ##### University of Otago Amendment Act 1961 (1961 No 48)
 
-_Amendment(s) incorporated in the [Act(s)][56]._
+_Amendment(s) incorporated in the [Act(s)][57]._
 
 ##### University of Waikato Act 1963 (1963 No 8)
 
-_Amendment(s) incorporated in the [Act(s)][57]._
+_Amendment(s) incorporated in the [Act(s)][58]._
 
 ##### Victoria University of Wellington Act 1961 (1961 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][58]._
+_Amendment(s) incorporated in the [Act(s)][59]._
 
 ---
 
@@ -759,21 +759,21 @@ _Amendment(s) incorporated in the [Act(s)][58]._
     
 *   This is a reprint of the Public Bodies Leases Act 1969\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][59] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][60] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][60] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][61] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][61] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][62] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][62] and [17E][63] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][63] and [17E][64] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -806,7 +806,7 @@ _Amendment(s) incorporated in the [Act(s)][58]._
     
 *   Criminal Procedure Act 2011 (2011 No 81): [section 413][48]
     
-    Local Government Act 1974 Amendment Act 2004 (2004 No 64): [section 22][51]
+    Local Government Act 1974 Amendment Act 2004 (2004 No 64): [section 22][52]
     
     Local Government Act 2002 (2002 No 84): [section 262][40]
     
@@ -876,17 +876,18 @@ _Amendment(s) incorporated in the [Act(s)][58]._
 [47]: http://www.legislation.govt.nz/act/public/1969/0141/latest/whole.html#DLM395432
 [48]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM3360714
 [49]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM239393
-[50]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM271033
-[51]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM304013
-[52]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM336193
-[53]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM345360
-[54]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM334955
-[55]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM334447
-[56]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM332449
-[57]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM347774
-[58]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM335469
-[59]: http://www.pco.parliament.govt.nz/reprints/
-[60]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM195439
-[61]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[62]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM195468
-[63]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM195470
+[50]: http://www.legislation.govt.nz/act/public/1969/0141/latest/whole.html#DLM4340936
+[51]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM271033
+[52]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM304013
+[53]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM336193
+[54]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM345360
+[55]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM334955
+[56]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM334447
+[57]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM332449
+[58]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM347774
+[59]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM335469
+[60]: http://www.pco.parliament.govt.nz/reprints/
+[61]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM195439
+[62]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[63]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM195468
+[64]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM195470
