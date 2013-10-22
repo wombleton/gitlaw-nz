@@ -201,7 +201,7 @@ Status of children generally
     
 *   (1) Letters of administration with or without the will annexed in respect of the estate of any deceased person or any part thereof shall not be granted to any applicant therefor unless the applicant shows---
         
-    *   (a) that he has made reasonable inquiries to determine whether there exists (in addition to any parent or child of the deceased person already known to him) any parent or child of the deceased person who could claim an interest in the estate or part by reason only of this Act and the provisions of the enactments governing the distribution of intestate estates or the provisions of the will (such parent or child being hereafter in this section referred to as _any such claimant_); or
+    *   (a) that he has made reasonable inquiries to determine whether there exists (in addition to any parent or child of the deceased person already known to him) any parent or child of the deceased person who could claim an interest in the estate or part by reason only of this Act and the provisions of the enactments governing the distribution of intestate estates or the provisions of the will (such parent or child being hereafter in this section referred to as any such claimant); or
     
     *   (b) that no useful purpose would be served in the particular case by making the inquiries specified in paragraph (a); or
     
@@ -231,7 +231,7 @@ Status of children generally
 
 ##### 6 Reasonable inquiries to precede distribution
     
-*   (1) For the purposes of the distribution of any estate or of any property held upon trust, an executor, administrator, or trustee shall make reasonable inquiries to determine whether there exists any person (in addition to any person or persons already known to him) who could claim an interest in the estate or property by reason only of this Act and the provisions of the enactments governing the distribution of intestate estates or the provisions of the will, deed, or other document governing the distribution of the estate or property (such person being hereafter in this section and in [section 6A][15] and in [section 6B][16] referred to as _any claimant_).
+*   (1) For the purposes of the distribution of any estate or of any property held upon trust, an executor, administrator, or trustee shall make reasonable inquiries to determine whether there exists any person (in addition to any person or persons already known to him) who could claim an interest in the estate or property by reason only of this Act and the provisions of the enactments governing the distribution of intestate estates or the provisions of the will, deed, or other document governing the distribution of the estate or property (such person being hereafter in this section and in [section 6A][15] and in [section 6B][16] referred to as any claimant).
     
     (2) In the case of a continuing trust of income it shall be sufficient for the purposes of continuing distributions of income if reasonable inquiries as to the existence of any claimant are made before the first distribution after the commencement of this section of income under the trust.
     
@@ -391,7 +391,7 @@ Status of children generally
     
     Section 8(1): amended, on 1 August 2007, by [section 216][66] of the Evidence Act 2006 (2006 No 69).
     
-    Section 8(1)(a): replaced, on 1 September 1995, by [section 95][67] of the Births, Deaths, and Marriages Registration Act 1995 (1995 No 16).
+    Section 8(1)(a): replaced, on 1 September 1995, by [section 95][67] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
     
     Section 8(1)(a): amended, on 24 January 2009, by [section 47][68] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
@@ -441,7 +441,7 @@ Status of children generally
     
     Section 9(3): replaced, on 1 July 2005, by [section 11][74] of the Status of Children Amendment Act 2004 (2004 No 91).
     
-    Section 9(4): replaced, on 1 September 1995, by [section 95][67] of the Births, Deaths, and Marriages Registration Act 1995 (1995 No 16).
+    Section 9(4): replaced, on 1 September 1995, by [section 95][67] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
     
     Section 9(4): amended, on 24 January 2009, by [section 47][68] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
@@ -805,7 +805,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 _Amendment(s) incorporated in the [Act(s)][79]._
 
-##### Births and Deaths Registration Act 1951 (1951 No 22) (1957 Reprint, Vol. 1, p 591)
+##### Births and Deaths Registration Act 1951 (1951 No 22) (1957 Reprint, Vol 1, p 591)
 
 _Amendment(s) incorporated in the Act(s)._
 
@@ -921,7 +921,7 @@ _Amendment(s) incorporated in the Act(s)._
     
     [Status of Children Amendment Act 2004][97] (2004 No 91)
     
-    Births, Deaths, and Marriages Registration Act 1995 (1995 No 16): [section 95][98]
+    Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16): [section 95][67]
     
     Status of Children Amendment Act 1990 (1990 No 15)
     
@@ -1041,4 +1041,3 @@ _Amendment(s) incorporated in the Act(s)._
 [95]: http://www.pco.parliament.govt.nz/editorial-conventions/
 [96]: http://www.legislation.govt.nz/act/public/1969/0018/latest/link.aspx?id=DLM968565
 [97]: http://www.legislation.govt.nz/act/public/1969/0018/latest/link.aspx?id=DLM318333
-[98]: http://www.legislation.govt.nz/act/public/1969/0018/latest/link.aspx?id=DLM364122
