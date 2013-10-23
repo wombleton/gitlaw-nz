@@ -1705,7 +1705,7 @@ Procedure for infringement offences
     
     *   (b) by being left for him at his place of residence with a member of his family living with him and appearing to be of or over the age of 18 years; or
     
-    *   (c) by being sent to him by addressed to him at his last known or usual place of residence or at his place of business; or
+    *   (c) by being sent to him by prepaid post addressed to him at his last known or usual place of residence or at his place of business; or
     
     *   (d) in the case of a notice relating to an infringement offence, by being sent by letter by prepaid post addressed to the defendant at the defendant's last known place of residence or business; or
     
