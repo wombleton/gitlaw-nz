@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 23 October 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -2326,21 +2326,23 @@ Miscellaneous provisions
 
 ##### 80 Instructions of chief executive under certain provisions that conflict with other instructions
     
-*   (1) If a harbourmaster or any other person gives, under the [Local Government Act 1974][139], instructions (_harbourmaster's instructions_) that conflict with instructions given by the chief executive under [section 30(4)][35], [section 31(1)][36], or [section 34(1)][39] (_chief executive's instructions_), the chief executive's instructions prevail.
+*   (1) If a harbourmaster or any other person gives instructions under Part 3A of the Maritime Transport Act 1994 (_harbourmaster's instructions_) that conflict with instructions given by the chief executive under [section 30(4)][35], [section 31(1)][36], or [section 34(1)][39] (_chief executive's instructions_), the chief executive's instructions prevail.
     
     (2) If the chief executive becomes aware of any conflict between any chief executive's instructions and any harbourmaster's instructions, the chief executive must, as soon as practicable, advise the person who has made the harbourmaster's instructions of the conflict, and that person must immediately upon being so advised withdraw those instructions or alter them so as to remove the conflict.
     
     (3) The chief executive must not issue chief executive's instructions that conflict with the exercise of a power by---
         
-    *   (a) a person under [Part 5][140] of the Civil Defence Emergency Management Act 2002; or
+    *   (a) a person under [Part 5][139] of the Civil Defence Emergency Management Act 2002; or
     
-    *   (b) a Recovery Co-ordinator appointed under [section 29][141] of the Civil Defence Emergency Management Act 2002 and acting under that Act; or
+    *   (b) a Recovery Co-ordinator appointed under [section 29][140] of the Civil Defence Emergency Management Act 2002 and acting under that Act; or
     
-    *   (c) any constable under [section 10][142] of the International Terrorism (Emergency Powers) Act 1987; or
+    *   (c) any constable under [section 10][141] of the International Terrorism (Emergency Powers) Act 1987; or
     
-    *   (d) a person under [Part 4][143] of the Health Act 1956\.
+    *   (d) a person under [Part 4][142] of the Health Act 1956\.
     
-    Compare: 1994 No 104 [s 254][144]
+    Compare: 1994 No 104 [s 254][143]
+    
+    Section 80(1): amended, on 23 October 2013, by [section 90][144] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
     Section 80(3)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][102] of the Policing Act 2008 (2008 No 72).
 
@@ -2417,7 +2419,9 @@ Add, after rule 40B.32, the following rules:
 
 ###### 4 Amendments incorporated in this reprint (most recent first)
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][115]
+*   Maritime Transport Amendment Act 2013 (2013 No 84): [section 90][144]
+    
+    Legislation Act 2012 (2012 No 119): [section 77(3)][115]
     
     Search and Surveillance Act 2012 (2012 No 24): [section 277][123]
     
@@ -2568,12 +2572,12 @@ Add, after rule 40B.32, the following rules:
 [136]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM216974
 [137]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM335714
 [138]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM335733
-[139]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM415531
-[140]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM150786
-[141]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM150725
-[142]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM124852
-[143]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM307455
-[144]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM337341
+[139]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM150786
+[140]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM150725
+[141]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM124852
+[142]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM307455
+[143]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM337341
+[144]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM4698973
 [145]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM338804
 [146]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM269594
 [147]: http://www.legislation.govt.nz/act/public/2004/0016/latest/whole.html#DLM241892
