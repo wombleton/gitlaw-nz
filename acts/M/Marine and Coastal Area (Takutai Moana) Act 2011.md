@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 23 October 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1330,13 +1330,13 @@ Common marine and coastal area
         
     *   (a) any port company (as defined in [section 2(1)][235] of the Port Companies Act 1988):
     
-    *   (b) any port operator (as defined in [section 650J(6)][236] of the Local Government Act 1974):
+    *   (b) any port operator (as defined in Part 3A of the Maritime Transport Act 1994):
     
-    *   (c) the company (as defined in [section 2][237] of the Auckland Airport Act 1987) that operates Auckland International Airport (including any entity that operates all or part of the airport and that is a subsidiary of, or successor to, that company):
+    *   (c) the company (as defined in [section 2][236] of the Auckland Airport Act 1987) that operates Auckland International Airport (including any entity that operates all or part of the airport and that is a subsidiary of, or successor to, that company):
     
-    *   (d) the company (as defined in [section 2][238] of the Wellington Airport Act 1990) that operates Wellington International Airport (including any entity that operates all or part of the airport and that is a subsidiary of, or successor to, that company).
+    *   (d) the company (as defined in [section 2][237] of the Wellington Airport Act 1990) that operates Wellington International Airport (including any entity that operates all or part of the airport and that is a subsidiary of, or successor to, that company).
     
-    
+    Section 37(2)(b): replaced, on 23 October 2013, by [section 90][238] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 38 Notification of determination and variation
     
@@ -2053,7 +2053,7 @@ Customary interests
         
         *   (v) a port company (as defined in [section 2(1)][235] of the Port Companies Act 1988):
         
-        *   (vi) a port operator (as defined in [section 650J(6)][236] of the Local Government Act 1974); and
+        *   (vi) a port operator (as defined in Part 3A of the Maritime Transport Act 1994):
         
         
     
@@ -2118,6 +2118,8 @@ Customary interests
         
     
     _existing_, in relation to an activity, means an activity for which, before the effective date, any necessary resource consents have been granted, whether or not any or all of them have been given effect to before the effective date.
+    
+    Section 63 **accommodated infrastructure** paragraph (b)(vi): replaced, on 23 October 2013, by [section 90][238] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 64 Accommodated activities
     
@@ -4855,7 +4857,9 @@ Regulations amended
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][214]
+*   Maritime Transport Amendment Act 2013 (2013 No 84): [section 90][238]
+    
+    Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][214]
     
     Legislation Act 2012 (2012 No 119): [section 77(3)][217]
     
@@ -5099,9 +5103,9 @@ Regulations amended
 [233]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM236206
 [234]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM435367
 [235]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM131688
-[236]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM423551
-[237]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM125376
-[238]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM211896
+[236]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM125376
+[237]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM211896
+[238]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM4698973
 [239]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM140136
 [240]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM239322
 [241]: http://www.legislation.govt.nz/act/public/2011/0003/latest/link.aspx?id=DLM239326
