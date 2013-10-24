@@ -1,5 +1,5 @@
 Reprint  
-as at 4 October 2013
+as at 23 October 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -218,11 +218,11 @@ This Act is administered by the Ministry of Justice.
 
 [Subpart 4][96][---][96][Bail pending appeal against conviction or sentence][96]
 
-[53][97][][97][Granting of bail to appellant in custody pending appeal to District Court presided over by District Court Judge][97]
+[53][97][][97][Granting of bail to appellant in custody or on home detention pending appeal to District Court presided over by District Court Judge][97]
 
-[54][98][][98][Granting of bail to appellant in custody pending appeal to High Court][98]
+[54][98][][98][Granting of bail to appellant in custody or on home detention pending appeal to High Court][98]
 
-[55][99][][99][Granting of bail to appellant in custody pending appeal to Court of Appeal or Supreme Court][99]
+[55][99][][99][Granting of bail to appellant in custody or on home detention pending appeal to Court of Appeal or Supreme Court][99]
 
 [56][100][][100][Appeals on questions of law][100]
 
@@ -230,31 +230,33 @@ This Act is administered by the Ministry of Justice.
 
 [58][102][][102][Time on bail pending appeal not to be taken as time served][102]
 
-[59][103][][103][Surrender of appellant released on bail][103]
+[59][103][][103][Surrender of appellant released on bail from sentence of imprisonment][103]
 
-[Part 4][104]  
-[Bail when proceedings taken by way of indictment][104]
+[60][104][][104][Surrender of appellant released on bail from sentence of home detention][104]
 
-\[Repealed\]
-
-[Part 5][105]  
-[Miscellaneous provisions][105]
-
-[73][106][][106][Rules][106]
-
-[73A][107][][107][Authentication of documents][107]
-
-[74][108][][108][Repeal and enactments amended][108]
-
-[75][109][][109][Savings][109]
-
-[Schedule 1][110]  
-[Modifications of Part 3 where appeal is from District Court presided over by Community Magistrate or Community Magistrates to District Court presided over by District Court Judge][110]
+[Part 4][105]  
+[Bail when proceedings taken by way of indictment][105]
 
 \[Repealed\]
 
-[Schedule 2][111]  
-[Amendments to other enactments][111]
+[Part 5][106]  
+[Miscellaneous provisions][106]
+
+[73][107][][107][Rules][107]
+
+[73A][108][][108][Authentication of documents][108]
+
+[74][109][][109][Repeal and enactments amended][109]
+
+[75][110][][110][Savings][110]
+
+[Schedule 1][111]  
+[Modifications of Part 3 where appeal is from District Court presided over by Community Magistrate or Community Magistrates to District Court presided over by District Court Judge][111]
+
+\[Repealed\]
+
+[Schedule 2][112]  
+[Amendments to other enactments][112]
 
 ---
 
@@ -270,9 +272,9 @@ This Act is administered by the Ministry of Justice.
     
 *   In this Act, unless the context otherwise requires,---
     
-    _Class A controlled drug_ has the same meaning as in [section 2(1)][112] of the Misuse of Drugs Act 1975
+    _Class A controlled drug_ has the same meaning as in [section 2(1)][113] of the Misuse of Drugs Act 1975
     
-    _Class B controlled drug_ has the same meaning as in [section 2(1)][112] of the Misuse of Drugs Act 1975
+    _Class B controlled drug_ has the same meaning as in [section 2(1)][113] of the Misuse of Drugs Act 1975
     
     _conviction_ includes an order; and _convicted_ has a corresponding meaning
     
@@ -282,7 +284,7 @@ This Act is administered by the Ministry of Justice.
     
     _drug dealing offence_ means---
         
-    *   (a) any offence against [section 6][113] or [12C(1)(a)][114] of the Misuse of Drugs Act 1975 in relation to a Class A controlled drug or a Class B controlled drug; or
+    *   (a) any offence against [section 6][114] or [12C(1)(a)][115] of the Misuse of Drugs Act 1975 in relation to a Class A controlled drug or a Class B controlled drug; or
     
     *   (b) an attempt to commit an offence referred to in paragraph (a)
     
@@ -292,11 +294,11 @@ This Act is administered by the Ministry of Justice.
     
     _electronic monitoring condition_ or _EM condition_ means a condition of bail imposed under [section 30B][44]
     
-    _judicial officer_ has the same meaning as in [section 5][115] of the Criminal Procedure Act 2011
+    _judicial officer_ has the same meaning as in [section 5][116] of the Criminal Procedure Act 2011
     
     _Police bail_ means bail granted by a Police employee under [section 21(1)][2]
     
-    _Police employee_ has the same meaning as in [section 4][116] of the Policing Act 2008
+    _Police employee_ has the same meaning as in [section 4][117] of the Policing Act 2008
     
     _Registrar_ means any Registrar of the High Court or of a District Court, as the case may require; and includes a Deputy Registrar.
     
@@ -308,37 +310,37 @@ This Act is administered by the Ministry of Justice.
     
     _temporary EM address_ means an address approved by an EM assessor under [section 30N][56]
     
-    _working day_ has the same meaning as in [section 5][115] of the Criminal Procedure Act 2011\.
+    _working day_ has the same meaning as in [section 5][116] of the Criminal Procedure Act 2011\.
     
-    Section 3 **Class A controlled drug**: inserted, on 4 September 2013, by [section 4(1)][117] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 3 **Class A controlled drug**: inserted, on 4 September 2013, by [section 4(1)][118] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 3 **Class B controlled drug**: inserted, on 4 September 2013, by [section 4(1)][117] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 3 **Class B controlled drug**: inserted, on 4 September 2013, by [section 4(1)][118] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 3 **committal for trial**: repealed, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 3 **committal for trial**: repealed, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
     
-    Section 3 **court**: inserted, on 4 September 2013, by [section 4(1)][117] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 3 **court**: inserted, on 4 September 2013, by [section 4(1)][118] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 3 **drug dealing offence**: replaced, on 4 September 2013, by [section 4(2)][117] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 3 **drug dealing offence**: replaced, on 4 September 2013, by [section 4(2)][118] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 3 **electronic monitoring address** or **EM address**: inserted, on 4 September 2013, by [section 4(3)][117] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 3 **electronic monitoring address** or **EM address**: inserted, on 4 September 2013, by [section 4(3)][118] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 3 **electronic monitoring assessor** or **EM assessor**: inserted, on 4 September 2013, by [section 4(3)][117] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 3 **electronic monitoring assessor** or **EM assessor**: inserted, on 4 September 2013, by [section 4(3)][118] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 3 **electronic monitoring condition** or **EM condition**: inserted, on 4 September 2013, by [section 4(3)][117] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 3 **electronic monitoring condition** or **EM condition**: inserted, on 4 September 2013, by [section 4(3)][118] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 3 **judicial officer**: inserted, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 3 **judicial officer**: inserted, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
     
-    Section 3 **offence**: repealed, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 3 **offence**: repealed, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
     
-    Section 3 **Police bail**: inserted, on 4 September 2013, by [section 4(1)][117] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 3 **Police bail**: inserted, on 4 September 2013, by [section 4(1)][118] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 3 **Police employee**: inserted, on 4 September 2013, by [section 4(1)][117] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 3 **Police employee**: inserted, on 4 September 2013, by [section 4(1)][118] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 3 **relevant occupant**: inserted, on 4 September 2013, by [section 4(3)][117] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 3 **relevant occupant**: inserted, on 4 September 2013, by [section 4(3)][118] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 3 **temporary EM address**: inserted, on 4 September 2013, by [section 4(3)][117] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 3 **temporary EM address**: inserted, on 4 September 2013, by [section 4(3)][118] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 3 **working day**: inserted, on 4 September 2013, by [section 4(1)][117] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 3 **working day**: inserted, on 4 September 2013, by [section 4(1)][118] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 4 Act binds the Crown
     
@@ -359,7 +361,7 @@ General provisions regarding bail
     
 *   (1) A defendant is bailable as of right who is charged with an offence that is not punishable by imprisonment.
     
-    (2) A defendant is bailable as of right who is charged with an offence for which the maximum punishment is less than 3 years' imprisonment, unless the offence is one against [section 194][119] of the Crimes Act 1961 (which relates to assault on a child, or by a male on a female) or against [section 49][120] of the Domestic Violence Act 1995 (which relate to contravention of a protection order).
+    (2) A defendant is bailable as of right who is charged with an offence for which the maximum punishment is less than 3 years' imprisonment, unless the offence is one against [section 194][120] of the Crimes Act 1961 (which relates to assault on a child, or by a male on a female) or against [section 49][121] of the Domestic Violence Act 1995 (which relate to contravention of a protection order).
     
     (3) \[Repealed\]
     
@@ -367,11 +369,11 @@ General provisions regarding bail
     
     (5) Subject to [sections 9 to 17][10], a defendant who is charged with an offence and is not bailable as of right must be released by a court on reasonable terms and conditions unless the court is satisfied that there is just cause for continued detention.
     
-    Compare: 1961 No 43 [s 319][121]
+    Compare: 1961 No 43 [s 319][122]
     
-    Section 7(2): amended, on 28 October 2009, by [section 4][122] of the Bail Amendment Act 2009 (2009 No 45).
+    Section 7(2): amended, on 28 October 2009, by [section 4][123] of the Bail Amendment Act 2009 (2009 No 45).
     
-    Section 7(3): repealed, on 4 September 2013, by [section 5][123] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 7(3): repealed, on 4 September 2013, by [section 5][124] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 8 Consideration of just cause for continued detention
     
@@ -409,35 +411,35 @@ General provisions regarding bail
     
     (3) \[Repealed\]
     
-    (4) When considering an application for bail, the court must take into account any views of a victim of an offence of a kind referred to in [section 29][124] of the Victims' Rights Act 2002, or of a parent or legal guardian of a victim of that kind, conveyed in accordance with [section 30][125] of that Act.
+    (4) When considering an application for bail, the court must take into account any views of a victim of an offence of a kind referred to in [section 29][125] of the Victims' Rights Act 2002, or of a parent or legal guardian of a victim of that kind, conveyed in accordance with [section 30][126] of that Act.
     
     (4A) When considering an application for bail, the court must not take into account the fact that the defendant has provided, or may provide, information relating to the investigation or prosecution of any offence, including any offence committed or alleged to have been committed by the defendant.
     
     (4B) However, despite subsection (4A), the court may take into account the cooperation by the defendant with authorities in the investigation or prosecution of any offence if that cooperation is relevant to the court's assessment of the risk that the defendant will fail to appear in court, interfere with witnesses or evidence, or offend while on bail.
     
-    (5) In deciding, in relation to a defendant charged with an offence against [section 49][120] of the Domestic Violence Act 1995, whether or not to grant bail to the defendant or allow the defendant to go at large, the court's paramount consideration is the need to protect the victim of the alleged offence.
+    (5) In deciding, in relation to a defendant charged with an offence against [section 49][121] of the Domestic Violence Act 1995, whether or not to grant bail to the defendant or allow the defendant to go at large, the court's paramount consideration is the need to protect the victim of the alleged offence.
     
-    Section 8: substituted, on 1 October 2007, by [section 4][126] of the Bail Amendment Act 2007 (2007 No 26).
+    Section 8: substituted, on 1 October 2007, by [section 4][127] of the Bail Amendment Act 2007 (2007 No 26).
     
-    Section 8(1)(a): amended, on 17 December 2008, by [section 4(1)][127] of the Bail Amendment Act 2008 (2008 No 107).
+    Section 8(1)(a): amended, on 17 December 2008, by [section 4(1)][128] of the Bail Amendment Act 2008 (2008 No 107).
     
-    Section 8(3): repealed, on 17 December 2008, by [section 4(2)][127] of the Bail Amendment Act 2008 (2008 No 107).
+    Section 8(3): repealed, on 17 December 2008, by [section 4(2)][128] of the Bail Amendment Act 2008 (2008 No 107).
     
-    Section 8(4A): inserted, on 4 September 2013, by [section 6][128] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 8(4A): inserted, on 4 September 2013, by [section 6][129] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 8(4B): inserted, on 4 September 2013, by [section 6][128] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 8(4B): inserted, on 4 September 2013, by [section 6][129] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 8(5): amended, on 28 October 2009, by [section 5][129] of the Bail Amendment Act 2009 (2009 No 45).
+    Section 8(5): amended, on 28 October 2009, by [section 5][130] of the Bail Amendment Act 2009 (2009 No 45).
 
 ##### 9 Restriction on bail if defendant charged with treason or espionage
     
-*   No defendant who is charged with a crime against [section 73][130] or [section 76][131] of the Crimes Act 1961 (which relate to treason) or against [section 78][132] of the Crimes Act 1961 (which relates to espionage) may be granted bail except by order of the Governor-General or a High Court Judge.
+*   No defendant who is charged with a crime against [section 73][131] or [section 76][132] of the Crimes Act 1961 (which relate to treason) or against [section 78][133] of the Crimes Act 1961 (which relates to espionage) may be granted bail except by order of the Governor-General or a High Court Judge.
     
-    Compare: 1961 No 43 [s 318(1)][133]
+    Compare: 1961 No 43 [s 318(1)][134]
 
 ##### 9A Restriction on bail if defendant charged with murder
     
-*   (1) This section applies to a defendant of or over the age of 17 years who is charged with murder under [section 167][134] or [168][135] of the Crimes Act 1961\.
+*   (1) This section applies to a defendant of or over the age of 17 years who is charged with murder under [section 167][135] or [168][136] of the Crimes Act 1961\.
     
     (2) No defendant to whom this section applies may be granted bail or allowed to go at large except by order of a High Court Judge or a District Court Judge.
     
@@ -447,7 +449,7 @@ General provisions regarding bail
     
     (5) In deciding whether or not to grant bail to a defendant to whom this section applies or to allow the defendant to go at large, the need to protect the safety of the public and, where appropriate, the need to protect the safety of any particular person or persons are the primary considerations.
     
-    Section 9A: inserted, on 4 September 2013, by [section 7][136] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 9A: inserted, on 4 September 2013, by [section 7][137] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 10 Restriction on bail if defendant with previous conviction for specified offence charged with further specified offence
     
@@ -455,41 +457,41 @@ General provisions regarding bail
     
     (2) In this section, _specified offence_ means any offence against any of the following provisions of the Crimes Act 1961:
         
-    *   (a) [section 128B][137] (sexual violation):
+    *   (a) [section 128B][138] (sexual violation):
     
-    *   (b) [section 132][138] (sexual conduct with child under 12):
+    *   (b) [section 132][139] (sexual conduct with child under 12):
     
-    *   (c) [section 134][139] (sexual conduct with young person under 16):
+    *   (c) [section 134][140] (sexual conduct with young person under 16):
     
-    *   (d) [section 167][134] (murder):
+    *   (d) [section 167][135] (murder):
     
-    *   (e) [section 168][135] (murder):
+    *   (e) [section 168][136] (murder):
     
-    *   (f) [section 171][140] (manslaughter):
+    *   (f) [section 171][141] (manslaughter):
     
-    *   (g) [section 173][141] (attempt to murder):
+    *   (g) [section 173][142] (attempt to murder):
     
-    *   (h) [section 188][142] (wounding with intent):
+    *   (h) [section 188][143] (wounding with intent):
     
-    *   (i) [section 189][143] (injuring with intent):
+    *   (i) [section 189][144] (injuring with intent):
     
-    *   (j) [section 191][144] (aggravated wounding or injury):
+    *   (j) [section 191][145] (aggravated wounding or injury):
     
-    *   (k) [section 198A][145] (using any firearm against law enforcement officer, etc):
+    *   (k) [section 198A][146] (using any firearm against law enforcement officer, etc):
     
-    *   (l) [section 198B][146] (commission of crime with firearm):
+    *   (l) [section 198B][147] (commission of crime with firearm):
     
-    *   (m) [section 208][147] (abduction for purposes of marriage or sexual connection):
+    *   (m) [section 208][148] (abduction for purposes of marriage or sexual connection):
     
-    *   (n) [section 209][148] (kidnapping):
+    *   (n) [section 209][149] (kidnapping):
     
-    *   (o) [section 232][149] (aggravated burglary):
+    *   (o) [section 232][150] (aggravated burglary):
     
-    *   (p) [section 234][150] (robbery):
+    *   (p) [section 234][151] (robbery):
     
-    *   (q) [section 235][151] (aggravated robbery):
+    *   (q) [section 235][152] (aggravated robbery):
     
-    *   (r) [section 236][152] (assault with intent to rob).
+    *   (r) [section 236][153] (assault with intent to rob).
     
     (3) No defendant to whom this section applies may be granted bail or allowed to go at large except by order of a High Court Judge or a District Court Judge.
     
@@ -499,15 +501,15 @@ General provisions regarding bail
     
     (6) In deciding whether or not to grant bail to a defendant to whom this section applies or allow the defendant to go at large, the need to protect the safety of the public and, where appropriate, the need to protect the safety of the victim or victims of the alleged offending, are primary considerations.
     
-    Compare: 1961 No 43 [s 318(2)--(5), (7)][133]
+    Compare: 1961 No 43 [s 318(2)--(5), (7)][134]
     
-    Section 10(2): replaced, on 4 September 2013, by [section 8][153] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 10(2): replaced, on 4 September 2013, by [section 8][154] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 11 Restriction on bail if defendant with previous conviction for specified offence found guilty or pleads guilty to further specified offence
     
 *   No defendant of or over the age of 17 years who is found guilty of, or pleads guilty to, a specified offence (as defined in [section 10(2)][12]) and who has 1 or more previous convictions for a specified offence (whether those convictions were for the same specified offence or for different specified offences) may, while waiting to be sentenced or otherwise dealt with for the first-mentioned specified offence, be granted bail or allowed to go at large.
     
-    Compare: 1961 No 43 [s 318(6)][133]
+    Compare: 1961 No 43 [s 318(6)][134]
 
 ##### 12 Further restriction on bail in certain cases
     
@@ -515,11 +517,11 @@ General provisions regarding bail
         
     *   (a) the defendant is of or over the age of 17 years and---
             
-        *   (i) is charged with an offence under the [Crimes Act 1961][154] that carries a maximum sentence of 3 or more years' imprisonment; and
+        *   (i) is charged with an offence under the [Crimes Act 1961][155] that carries a maximum sentence of 3 or more years' imprisonment; and
         
-        *   (ii) at the time of the alleged commission of the offence was remanded at large or on bail awaiting trial for another offence under the [Crimes Act 1961][154] that carries a maximum sentence of 3 or more years' imprisonment; and
+        *   (ii) at the time of the alleged commission of the offence was remanded at large or on bail awaiting trial for another offence under the [Crimes Act 1961][155] that carries a maximum sentence of 3 or more years' imprisonment; and
         
-        *   (iii) has at any time previously received a sentence of imprisonment (within the meaning of that term in [section 4(1)][155] of the Sentencing Act 2002); or
+        *   (iii) has at any time previously received a sentence of imprisonment (within the meaning of that term in [section 4(1)][156] of the Sentencing Act 2002); or
         
         
     
@@ -527,7 +529,7 @@ General provisions regarding bail
             
         *   (i) is charged with an offence that carries a maximum sentence of 3 or more years' imprisonment; and
         
-        *   (ii) has previously received 14 or more sentences of imprisonment (within the meaning of that term in [section 4(1)][155] of the Sentencing Act 2002); and
+        *   (ii) has previously received 14 or more sentences of imprisonment (within the meaning of that term in [section 4(1)][156] of the Sentencing Act 2002); and
         
         *   (iii) has previously been convicted of an offence that was committed while the defendant was remanded at large or on bail and that carries a maximum sentence of 3 or more years' imprisonment (whether or not the conviction resulted in any of the sentences of imprisonment referred to in subparagraph (ii)).
         
@@ -545,21 +547,21 @@ General provisions regarding bail
     
     *   (b) burglary or any other serious property offence.
     
-    (6) For the purposes of subsection (5), _serious property offence_ means an offence against [Part 10][156] of the Crimes Act 1961 punishable by imprisonment for a term of more than 7 years.
+    (6) For the purposes of subsection (5), _serious property offence_ means an offence against [Part 10][157] of the Crimes Act 1961 punishable by imprisonment for a term of more than 7 years.
     
     (7) In deciding whether or not to grant bail to a defendant to whom this section applies or allow the defendant to go at large, the need to protect the safety of the public and, where appropriate, the need to protect the safety of the victim or victims of the alleged offending, are primary considerations.
     
-    (8) For the purposes of this section, a reference in this section to a _sentence of imprisonment_ includes a sentence of corrective training imposed under the [Criminal Justice Act 1985][157] or any former Act.
+    (8) For the purposes of this section, a reference in this section to a _sentence of imprisonment_ includes a sentence of corrective training imposed under the [Criminal Justice Act 1985][158] or any former Act.
     
-    Section 12(1)(a)(iii): amended, on 30 June 2002, by [section 186][158] of the Sentencing Act 2002 (2002 No 9).
+    Section 12(1)(a)(iii): amended, on 30 June 2002, by [section 186][159] of the Sentencing Act 2002 (2002 No 9).
     
-    Section 12(1)(b)(ii): amended, on 30 June 2002, by [section 186][158] of the Sentencing Act 2002 (2002 No 9).
+    Section 12(1)(b)(ii): amended, on 30 June 2002, by [section 186][159] of the Sentencing Act 2002 (2002 No 9).
     
-    Section 12(1)(b)(iii): amended, on 30 June 2002, by [section 186][158] of the Sentencing Act 2002 (2002 No 9).
+    Section 12(1)(b)(iii): amended, on 30 June 2002, by [section 186][159] of the Sentencing Act 2002 (2002 No 9).
     
-    Section 12(2): amended, on 30 June 2002, by [section 186][158] of the Sentencing Act 2002 (2002 No 9).
+    Section 12(2): amended, on 30 June 2002, by [section 186][159] of the Sentencing Act 2002 (2002 No 9).
     
-    Section 12(8): added, on 30 June 2002, by [section 186][158] of the Sentencing Act 2002 (2002 No 9).
+    Section 12(8): added, on 30 June 2002, by [section 186][159] of the Sentencing Act 2002 (2002 No 9).
 
 ##### 13 Exercise of discretion when considering bail pending sentencing
     
@@ -589,15 +591,15 @@ General provisions regarding bail
     
     (5) This section is subject to [section 11][13].
     
-    Section 13(4A): inserted, on 5 March 2012, by [section 4][159] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 13(4A): inserted, on 5 March 2012, by [section 4][160] of the Bail Amendment Act 2011 (2011 No 82).
     
-    Section 13(4A): amended, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 13(4A): amended, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
     
-    Section 13(4B): inserted, on 5 March 2012, by [section 4][159] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 13(4B): inserted, on 5 March 2012, by [section 4][160] of the Bail Amendment Act 2011 (2011 No 82).
 
 ##### 14 Exercise of discretion when considering bail pending appeal
     
-*   (1) If a person is in custody under a conviction and is appealing the conviction or sentence, or both, the court must not grant bail unless it is satisfied on the balance of probabilities that it would be in the interests of justice in the particular case to do so.
+*   (1) If a person is in custody or subject to a sentence of home detention under a conviction and is appealing the conviction or sentence, or both, the court must not grant bail unless it is satisfied on the balance of probabilities that it would be in the interests of justice in the particular case to do so.
     
     (2) The onus is on the appellant to show cause why bail should be granted.
     
@@ -613,11 +615,11 @@ General provisions regarding bail
     
     *   (e) any other consideration that the court considers relevant.
     
-    
+    Section 14(1): amended, on 23 October 2013, by [section 4][161] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
 
 #### Special provision as to bail of young persons remanded
     
-*   Heading: amended, on 4 October 2013, by [regulation 3(1)][160] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+*   Heading: amended, on 4 October 2013, by [regulation 3(1)][162] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 15 Granting of bail to defendant who is 17 years of age
     
@@ -631,23 +633,23 @@ General provisions regarding bail
         
     *   (a) [sections 7][8] (except subsection (5)), [9 to 12][10], and [16 to 17A][20]; and
     
-    *   (b) [section 175][161] of the Criminal Procedure Act 2011,---
+    *   (b) [section 175][163] of the Criminal Procedure Act 2011,---
     
     but no other enactment.
     
-    (3) Subject to [sections 171(1)][162] and [172(1)][163] of the Criminal Procedure Act 2011 and to the [Children, Young Persons, and Their Families Act 1989][164], this section applies in respect of a defendant who is under the age of 17 years and who is charged with or convicted of any offence in a District Court or the High Court.
+    (3) Subject to [sections 171(1)][164] and [172(1)][165] of the Criminal Procedure Act 2011 and to the [Children, Young Persons, and Their Families Act 1989][166], this section applies in respect of a defendant who is under the age of 17 years and who is charged with or convicted of any offence in a District Court or the High Court.
     
-    Compare: 1985 No 120 [s 142(4)][165]
+    Compare: 1985 No 120 [s 142(4)][167]
     
-    Section 15 heading: amended, on 4 September 2013, by [section 9(1)][166] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 15 heading: amended, on 4 September 2013, by [section 9(1)][168] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 15(1): replaced, on 4 September 2013, by [section 9(2)][166] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 15(1): replaced, on 4 September 2013, by [section 9(2)][168] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 15(2)(a): amended, on 4 September 2013, by [section 9(3)][166] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 15(2)(a): amended, on 4 September 2013, by [section 9(3)][168] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 15(2)(b): replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 15(2)(b): replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
     
-    Section 15(3): amended, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 15(3): amended, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
 
 #### Special provisions in respect of bail for drug dealing offences
 
@@ -655,13 +657,13 @@ General provisions regarding bail
     
 *   A defendant who is charged with or convicted of a drug dealing offence may be granted bail by order of a High Court Judge or District Court Judge but not otherwise.
     
-    Section 16: replaced, on 4 September 2013, by [section 10][167] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 16: replaced, on 4 September 2013, by [section 10][169] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 17 Bail for drug dealing offence may be continued or renewed by District Court
     
 *   \[Repealed\]
     
-    Section 17: repealed, on 4 September 2013, by [section 11][168] of the Bail Amendment Act 2013 (2013 No  66).
+    Section 17: repealed, on 4 September 2013, by [section 11][170] of the Bail Amendment Act 2013 (2013 No  66).
 
 ##### 17A Restriction on bail if defendant charged with serious Class A drug offence
     
@@ -673,11 +675,11 @@ General provisions regarding bail
     
     (4) In this section, _serious Class A drug offence_ means---
         
-    *   (a) an offence under [section 6][113] or [12C(1)(a)][169] of the Misuse of Drugs Act 1975 for contravention of section 6(1)(a), (b), (c), or (f) in relation to a Class A controlled drug; or
+    *   (a) an offence under [section 6][114] or [12C(1)(a)][171] of the Misuse of Drugs Act 1975 for contravention of section 6(1)(a), (b), (c), or (f) in relation to a Class A controlled drug; or
     
     *   (b) an attempt to commit an offence in paragraph (a).
     
-    Section 17A: inserted, on 4 September 2013, by [section 12][170] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 17A: inserted, on 4 September 2013, by [section 12][172] of the Bail Amendment Act 2013 (2013 No 66).
 
 #### General provisions relating to bail hearings
 
@@ -731,7 +733,7 @@ General provisions regarding bail
     
     (8) In a prosecution for an offence against subsection (6), it is not necessary for the prosecution to prove that the defendant intended to commit an offence.
     
-    Section 19: replaced, on 5 March 2012, by [section 5][171] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 19: replaced, on 5 March 2012, by [section 5][173] of the Bail Amendment Act 2011 (2011 No 82).
 
 ##### 20 Evidence in bail hearing
     
@@ -749,7 +751,7 @@ General provisions regarding bail
         
         
     
-    Section 20(2): substituted, on 19 December 2002, by [section 3][172] of the Bail Amendment Act 2002 (2002 No 57).
+    Section 20(2): substituted, on 19 December 2002, by [section 3][174] of the Bail Amendment Act 2002 (2002 No 57).
 
 ## Part 2  
 Police bail
@@ -758,13 +760,13 @@ Police bail
     
 *   (1) Any Police employee may, if he or she considers it prudent to do so, grant bail (**Police bail**) to a defendant who is charged with an offence and has been arrested without a warrant.
     
-    (2) Subsection (1) does not apply in any case to which any of [section 9][10], [9A][11], [10][12], [12][14], [16][173], or [17A][174] applies.
+    (2) Subsection (1) does not apply in any case to which any of [section 9][10], [9A][11], [10][12], [12][14], [16][175], or [17A][176] applies.
     
-    (3) In determining whether it is prudent to grant Police bail to a defendant charged with an offence against [section 49][120] of the Domestic Violence Act 1995, the Police employee must make the need to protect the victim of the alleged offence the paramount consideration.
+    (3) In determining whether it is prudent to grant Police bail to a defendant charged with an offence against [section 49][121] of the Domestic Violence Act 1995, the Police employee must make the need to protect the victim of the alleged offence the paramount consideration.
     
     (4) Despite [section 7][8], no person is entitled to be granted Police bail under this section as of right.
     
-    Section 21: replaced, on 4 September 2013, by [section 13][175] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 21: replaced, on 4 September 2013, by [section 13][177] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 21A Notice of Police bail
     
@@ -780,7 +782,7 @@ Police bail
         
         *   (iii) the conditions of bail, including the time, date, and place for attendance by the defendant before a court; and
         
-        *   (iv) any other information required by rules made under [section 386][176] of the Criminal Procedure Act 2011 to accompany a summons to a defendant issued under that Act; and
+        *   (iv) any other information required by rules made under [section 386][178] of the Criminal Procedure Act 2011 to accompany a summons to a defendant issued under that Act; and
         
         
     
@@ -796,7 +798,7 @@ Police bail
     
     (4) The date for attendance by the defendant before a court must not be later than 14 days from the date of the notice.
     
-    Section 21A: inserted, on 4 September 2013, by [section 13][175] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 21A: inserted, on 4 September 2013, by [section 13][177] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 21B Conditions of Police bail
     
@@ -810,11 +812,11 @@ Police bail
     
     *   (b) the court that the defendant must attend will be closed for more than 7 consecutive days after the date of the defendant's arrest.
     
-    Section 21B: inserted, on 4 September 2013, by [section 13][175] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 21B: inserted, on 4 September 2013, by [section 13][177] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 22 Conditions of Police bail granted to defendant charged with domestic violence offence
     
-*   (1) In addition to the condition or conditions imposed under [section 21B][177], a Police employee who grants Police bail to a defendant charged with a domestic violence offence may impose as a condition of the bail any condition that he or she considers reasonably necessary to protect---
+*   (1) In addition to the condition or conditions imposed under [section 21B][179], a Police employee who grants Police bail to a defendant charged with a domestic violence offence may impose as a condition of the bail any condition that he or she considers reasonably necessary to protect---
         
     *   (a) the victim of the alleged offence; and
     
@@ -822,33 +824,33 @@ Police bail
     
     (2) In this section,---
     
-    _domestic relationship_ has the same meaning as in [section 4][178] of the Domestic Violence Act 1995
+    _domestic relationship_ has the same meaning as in [section 4][180] of the Domestic Violence Act 1995
     
     _domestic violence offence_ means an offence against any enactment if the offence involves the use of violence against a person with whom the offender is, or has been, in a domestic relationship
     
-    _violence_ has the same meaning as in [section 3(2), (4), and (5)][179] of the Domestic Violence Act 1995\.
+    _violence_ has the same meaning as in [section 3(2), (4), and (5)][181] of the Domestic Violence Act 1995\.
     
-    Section 22: replaced, on 4 September 2013, by [section 13][175] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 22: replaced, on 4 September 2013, by [section 13][177] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 23 Bail and breach of protection order
     
-*   (1) If a person is arrested under [section 50][180] of the Domestic Violence Act 1995 and charged with an offence against [section 49][120] of that Act, the person must not be released on bail by a Police employee under [section 21][28] during the 24 hours immediately following the arrest.
+*   (1) If a person is arrested under [section 50][182] of the Domestic Violence Act 1995 and charged with an offence against [section 49][121] of that Act, the person must not be released on bail by a Police employee under [section 21][28] during the 24 hours immediately following the arrest.
     
     (2) Nothing in subsection (1) limits or affects the obligation of the Police to bring a person who is charged with an offence before a court as soon as possible.
     
     (3) If a person to whom subsection (1) applies is not brought before a court during the 24 hours immediately following the arrest, the person may, at the expiry of that period, be released on bail by a Police employee under [section 21][28].
     
-    (4) If a person to whom subsection (1) applies has also been charged with 1 or more other offences arising out of the same incident, the person must not be released on bail by a Police employee under [section 21][28] in respect of any of those offences during the 24 hours immediately following the arrest for an offence against [section 49][120] of the Domestic Violence Act 1995\.
+    (4) If a person to whom subsection (1) applies has also been charged with 1 or more other offences arising out of the same incident, the person must not be released on bail by a Police employee under [section 21][28] in respect of any of those offences during the 24 hours immediately following the arrest for an offence against [section 49][121] of the Domestic Violence Act 1995\.
     
-    Compare: 1995 No 86 [s 51][181]
+    Compare: 1995 No 86 [s 51][183]
     
-    Section 23(1): amended, on 1 October 2008, by [section 130(1)][182] of the Policing Act 2008 (2008 No 72).
+    Section 23(1): amended, on 1 October 2008, by [section 130(1)][184] of the Policing Act 2008 (2008 No 72).
     
-    Section 23(3): amended, on 1 October 2008, by [section 130(1)][182] of the Policing Act 2008 (2008 No 72).
+    Section 23(3): amended, on 1 October 2008, by [section 130(1)][184] of the Policing Act 2008 (2008 No 72).
     
-    Section 23(4): amended, on 28 October 2009, by [section 7][183] of the Bail Amendment Act 2009 (2009 No 45).
+    Section 23(4): amended, on 28 October 2009, by [section 7][185] of the Bail Amendment Act 2009 (2009 No 45).
     
-    Section 23(4): amended, on 1 October 2008, by [section 130(1)][182] of the Policing Act 2008 (2008 No 72).
+    Section 23(4): amended, on 1 October 2008, by [section 130(1)][184] of the Policing Act 2008 (2008 No 72).
 
 ##### 24 Failure to answer Police bail
     
@@ -856,7 +858,7 @@ Police bail
         
     *   (a) fails without reasonable excuse to attend personally at the time and the court specified in the notice of Police bail; or
     
-    *   (b) fails without reasonable excuse to attend personally at the time and place to which the hearing has been adjourned under [section 167(2)][184] of the Criminal Procedure Act 2011\.
+    *   (b) fails without reasonable excuse to attend personally at the time and place to which the hearing has been adjourned under [section 167(2)][186] of the Criminal Procedure Act 2011\.
     
     (2) A person who commits an offence under subsection (1) is liable on conviction to---
         
@@ -864,36 +866,36 @@ Police bail
     
     *   (b) a fine not exceeding $1,000\.
     
-    Section 24: replaced, on 4 September 2013, by [section 14][185] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 24: replaced, on 4 September 2013, by [section 14][187] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 25 Effect on bond of attendance or non-attendance of person bailed by constable
     
 *   \[Repealed\]
     
-    Section 25: repealed, on 4 September 2013, by [section 15][186] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 25: repealed, on 4 September 2013, by [section 15][188] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 26 Breach of condition of Police bail
     
 *   [Sections 39][73], [51][92], and [52][93] apply, with any necessary modifications, to a defendant who has been released on Police bail granted under [section 21][28] and who fails to comply with any condition of that bail.
     
-    Section 26: replaced, on 4 September 2013, by [section 16][187] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 26: replaced, on 4 September 2013, by [section 16][189] of the Bail Amendment Act 2013 (2013 No 66).
 
 ## Part 3  
 Court bail
     
-*   Part 3: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+*   Part 3: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
 
 ### Subpart 1---Granting of bail on adjournment
     
-*   Subpart 1 heading: inserted, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+*   Subpart 1 heading: inserted, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
 
 ##### 27 Bail on adjournment
     
-*   (1) In any case referred to in [section 168(1)][188] of the Criminal Procedure Act 2011 (which relates to dealing with a defendant on adjournment), a judicial officer may grant the defendant bail under this section.
+*   (1) In any case referred to in [section 168(1)][190] of the Criminal Procedure Act 2011 (which relates to dealing with a defendant on adjournment), a judicial officer may grant the defendant bail under this section.
     
     (2) A Registrar may exercise the power conferred by subsection (1) to grant bail if the prosecutor agrees.
     
-    Section 27: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 27: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
 
 ##### 28 Warrant for detention of defendant remanded on bail
     
@@ -903,17 +905,17 @@ Court bail
     
     *   (b) certify on the warrant the fact that the judicial officer or Registrar has granted the defendant bail, and the condition or conditions imposed.
     
-    Section 28: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 28: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
     
-    Section 28(a): amended, on 4 September 2013, by [section 17(1)][189] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 28(a): amended, on 4 September 2013, by [section 17(1)][191] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 28(b): amended, on 4 September 2013, by [section 17(2)][189] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 28(b): amended, on 4 September 2013, by [section 17(2)][191] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 29 Defendant, if bailable as of right, to be brought before court on request
     
 *   (1) A defendant who is bailable as of right must, if the defendant so requests, be brought before a court for the purpose of making an application for bail if---
         
-    *   (a) the defendant has been remanded in custody under [section 168][188] of the Criminal Procedure Act 2011; and
+    *   (a) the defendant has been remanded in custody under [section 168][190] of the Criminal Procedure Act 2011; and
     
     *   (b) the defendant did not make application for bail under this Act at the time of the remand.
     
@@ -921,7 +923,7 @@ Court bail
     
     (3) If bail is granted under this section, the particulars required to be certified by the judicial officer or Registrar under [section 28(b)][39] must be certified in writing by the court granting bail, and forwarded to the prison manager of the prison in which the defendant is detained under the remand warrant.
     
-    Section 29: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 29: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
 
 ##### 30 Conditions of bail
     
@@ -953,15 +955,15 @@ Court bail
     
     (6) Subsection (5) does not apply if bail is granted by the High Court.
     
-    Section 30: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 30: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
     
-    Section 30(2): replaced, on 4 September 2013, by [section 18][190] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 30(2): replaced, on 4 September 2013, by [section 18][192] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 30(2A): inserted, on 4 September 2013, by [section 18][190] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 30(2A): inserted, on 4 September 2013, by [section 18][192] of the Bail Amendment Act 2013 (2013 No 66).
 
 #### Electronic monitoring condition
     
-*   Heading: inserted, on 4 September 2013, by [section 19][191] of the Bail Amendment Act 2013 (2013 No 66).
+*   Heading: inserted, on 4 September 2013, by [section 19][193] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 30A Purpose of EM condition
     
@@ -973,7 +975,7 @@ Court bail
     
     *   (c) does not commit any offence while on bail.
     
-    Section 30A: inserted, on 4 September 2013, by [section 19][191] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 30A: inserted, on 4 September 2013, by [section 19][193] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 30B When court may grant bail with EM condition
     
@@ -981,7 +983,7 @@ Court bail
         
     *   (a) is eligible for bail with an EM condition; and
     
-    *   (b) the court has satisfied itself as to the matters set out in [section 30I][192].
+    *   (b) the court has satisfied itself as to the matters set out in [section 30I][194].
     
     (2) A defendant is eligible for bail with an EM condition if the defendant---
         
@@ -995,13 +997,13 @@ Court bail
     
     (4) For the purposes of the grant of bail with an EM condition, _court_ includes a Registrar in any circumstance in which a Registrar is empowered to grant bail.
     
-    Section 30B: inserted, on 4 September 2013, by [section 19][191] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 30B: inserted, on 4 September 2013, by [section 19][193] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 30C Court must not grant bail with EM condition if less restrictive bail conditions suffice
     
 *   A court must not grant bail with an EM condition if the court considers that a less restrictive condition or combination of conditions would be sufficient to ensure the outcomes set out in [section 30A(a) to (c)][43].
     
-    Section 30C: inserted, on 4 September 2013, by [section 19][191] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 30C: inserted, on 4 September 2013, by [section 19][193] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 30D Application for bail with EM condition
     
@@ -1017,7 +1019,7 @@ Court bail
     
     (4) The chief executive of the Ministry of Justice must approve and publish a form for an application for bail with an EM condition.
     
-    Section 30D: inserted, on 4 September 2013, by [section 19][191] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 30D: inserted, on 4 September 2013, by [section 19][193] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 30E Responsibility for management of EM bail
     
@@ -1031,7 +1033,7 @@ Court bail
     
     (3) The Minister of Justice may make a nomination under subsection (1) from time to time, and, in consultation with the Minister of Police and the Minister of Corrections, may revoke a nomination by notice in writing to the person concerned.
     
-    Section 30E: inserted, on 4 September 2013, by [section 19][191] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 30E: inserted, on 4 September 2013, by [section 19][193] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 30F EM reports
     
@@ -1055,7 +1057,7 @@ Court bail
     
     *   (d) whether every relevant occupant of the premises at the proposed EM address has consented, in accordance with [section 30G(2)][49], to the defendant remaining at the address while on bail with an EM condition:
     
-    *   (e) if the defendant has been charged with an offence of a kind referred to in [section 29][124] of the Victims' Rights Act 2002, the views of the following persons as to the appropriateness of bail with an EM condition:
+    *   (e) if the defendant has been charged with an offence of a kind referred to in [section 29][125] of the Victims' Rights Act 2002, the views of the following persons as to the appropriateness of bail with an EM condition:
             
         *   (i) any victim of the alleged offence; and
         
@@ -1073,7 +1075,7 @@ Court bail
     
     *   (d) any other matter that the EM assessor considers to be relevant to the decision whether or not to grant a defendant bail with an EM condition.
     
-    Section 30F: inserted, on 4 September 2013, by [section 19][191] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 30F: inserted, on 4 September 2013, by [section 19][193] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 30G EM assessor must ascertain whether relevant occupants consent to defendant remaining at EM address
     
@@ -1097,7 +1099,7 @@ Court bail
     
     *   (d) inform the occupant that consent to the defendant remaining at the EM address while on bail with an EM condition can be withdrawn at any time and inform the occupant how he or she may withdraw his or her consent.
     
-    Section 30G: inserted, on 4 September 2013, by [section 19][191] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 30G: inserted, on 4 September 2013, by [section 19][193] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 30H Use of information obtained for EM report
     
@@ -1105,13 +1107,13 @@ Court bail
         
     *   (a) use in the determination of the application to which the report relates:
     
-    *   (b) use in the preparation of a pre-sentence report under [section 26][193] of the Sentencing Act 2002 in relation to the defendant:
+    *   (b) use in the preparation of a pre-sentence report under [section 26][195] of the Sentencing Act 2002 in relation to the defendant:
     
     *   (c) any other use to which the defendant has consented.
     
     (2) EM information may not be used except in accordance with subsection (1).
     
-    Section 30H: inserted, on 4 September 2013, by [section 19][191] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 30H: inserted, on 4 September 2013, by [section 19][193] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 30I Court must be satisfied as to certain matters before granting bail with EM condition
     
@@ -1137,13 +1139,13 @@ Court bail
     
     *   (c) may have regard to any other relevant information.
     
-    Section 30I: inserted, on 4 September 2013, by [section 19][191] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 30I: inserted, on 4 September 2013, by [section 19][193] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 30J Court must specify EM address
     
 *   In granting bail with an EM condition, a court must specify the EM address.
     
-    Section 30J: inserted, on 4 September 2013, by [section 19][191] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 30J: inserted, on 4 September 2013, by [section 19][193] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 30K EM assessor must define area of EM address to which defendant is confined
     
@@ -1155,7 +1157,7 @@ Court bail
     
     *   (b) advise the relevant occupants of the area.
     
-    Section 30K: inserted, on 4 September 2013, by [section 19][191] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 30K: inserted, on 4 September 2013, by [section 19][193] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 30L Defendant's obligations under EM condition
     
@@ -1191,7 +1193,7 @@ Court bail
     
     (2) A breach by a defendant of an obligation under subsection (1) is a breach of the EM condition.
     
-    Section 30L: inserted, on 4 September 2013, by [section 19][191] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 30L: inserted, on 4 September 2013, by [section 19][193] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 30M Authorised absence from EM address
     
@@ -1205,7 +1207,7 @@ Court bail
     
     *   (b) the purpose or purposes for which the defendant may be absent.
     
-    Section 30M: inserted, on 4 September 2013, by [section 19][191] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 30M: inserted, on 4 September 2013, by [section 19][193] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 30N EM assessor may approve temporary EM address
     
@@ -1221,7 +1223,7 @@ Court bail
     
     (4) If, in the opinion of the EM assessor, there is no suitable temporary EM address available, the EM assessor must notify the Police and the defendant without delay, and the defendant must surrender himself or herself to Police custody.
     
-    Section 30N: inserted, on 4 September 2013, by [section 19][191] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 30N: inserted, on 4 September 2013, by [section 19][193] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 30O Use of information obtained from electronic monitoring
     
@@ -1235,7 +1237,7 @@ Court bail
     
     *   (d) verifying that the defendant has not tampered with or otherwise interfered with the electronic monitoring equipment.
     
-    Section 30O: inserted, on 4 September 2013, by [section 19][191] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 30O: inserted, on 4 September 2013, by [section 19][193] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 30P Court may remand defendant in custody pending installation of electronic monitoring equipment, etc
     
@@ -1245,29 +1247,29 @@ Court bail
     
     *   (b) the making of any other arrangement to enable the defendant to comply with the EM condition.
     
-    Section 30P: inserted, on 4 September 2013, by [section 19][191] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 30P: inserted, on 4 September 2013, by [section 19][193] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 30Q Defendant on bail with EM condition not in custody
     
 *   A defendant on bail with an EM condition is not in custody.
     
-    Section 30Q: inserted, on 4 September 2013, by [section 19][191] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 30Q: inserted, on 4 September 2013, by [section 19][193] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 30R Bail with EM condition does not affect entitlements under Social Security Act 1964
     
-*   The fact that a defendant is on bail with an EM condition does not, of itself, affect any entitlement the defendant may have under the [Social Security Act 1964][194].
+*   The fact that a defendant is on bail with an EM condition does not, of itself, affect any entitlement the defendant may have under the [Social Security Act 1964][196].
     
-    Section 30R: inserted, on 4 September 2013, by [section 19][191] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 30R: inserted, on 4 September 2013, by [section 19][193] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 30S Subsequent application for bail with EM condition
     
 *   Nothing in this Act prevents a defendant, who has previously applied for bail without an EM condition and been refused, from subsequently applying for bail with an EM condition on the same charges.
     
-    Section 30S: inserted, on 4 September 2013, by [section 19][191] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 30S: inserted, on 4 September 2013, by [section 19][193] of the Bail Amendment Act 2013 (2013 No 66).
 
 #### Procedures after defendant granted bail
     
-*   Heading: inserted, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+*   Heading: inserted, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
 
 ##### 31 Release of defendant granted bail
     
@@ -1297,23 +1299,23 @@ Court bail
     
     (5) A copy of the notice of bail or bail bond must be given to the defendant on his or her release or as soon as practicable after that.
     
-    Section 31: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 31: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
     
-    Section 31(1A): inserted, on 4 September 2013, by [section 20(1)][195] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 31(1A): inserted, on 4 September 2013, by [section 20(1)][197] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 31(2)(c): amended, on 4 September 2013, by [section 20(2)][195] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 31(2)(c): amended, on 4 September 2013, by [section 20(2)][197] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 31(3)(a): amended, on 4 September 2013, by [section 20(3)][195] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 31(3)(a): amended, on 4 September 2013, by [section 20(3)][197] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 31(3)(b): amended, on 4 September 2013, by [section 20(4)][195] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 31(3)(b): amended, on 4 September 2013, by [section 20(4)][197] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 31(4): amended, on 4 September 2013, by [section 20(5)][195] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 31(4): amended, on 4 September 2013, by [section 20(5)][197] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 32 Warrant of deliverance
     
 *   \[Repealed\]
     
-    Section 32: repealed, on 4 September 2013, by [section 21][196] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 32: repealed, on 4 September 2013, by [section 21][198] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 33 Variation of conditions of bail in District Court
     
@@ -1355,23 +1357,23 @@ Court bail
     
     (6) If, in any case to which subsection (5) applies, the defendant fails without reasonable excuse to attend at the time and place required, or fails to a fresh notice of bail, the Registrar or a District Court Judge may issue a warrant for the arrest of the defendant.
     
-    Section 33: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 33: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
     
-    Section 33 heading: amended, on 4 September 2013, by [section 22(1)][197] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 33 heading: amended, on 4 September 2013, by [section 22(1)][199] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 33(1): replaced, on 4 September 2013, by [section 22(2)][197] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 33(1): replaced, on 4 September 2013, by [section 22(2)][199] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 33(1A): inserted, on 4 September 2013, by [section 22(3)][197] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 33(1A): inserted, on 4 September 2013, by [section 22(3)][199] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 33(1B): inserted, on 4 September 2013, by [section 22(3)][197] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 33(1B): inserted, on 4 September 2013, by [section 22(3)][199] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 33(2): amended, on 4 September 2013, by [section 22(4)][197] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 33(2): amended, on 4 September 2013, by [section 22(4)][199] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 33(4): amended, on 4 September 2013, by [section 22(5)][197] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 33(4): amended, on 4 September 2013, by [section 22(5)][199] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 33(5)(a)(iii): amended, on 4 September 2013, by [section 22(6)][197] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 33(5)(a)(iii): amended, on 4 September 2013, by [section 22(6)][199] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 33(6): amended, on 4 September 2013, by [section 22(7)][197] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 33(6): amended, on 4 September 2013, by [section 22(7)][199] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 34 Variation of conditions of bail in High Court, Court of Appeal, or Supreme Court
     
@@ -1411,25 +1413,25 @@ Court bail
     
     (5) If, in any case to which subsection (4) applies, the defendant fails without reasonable excuse to attend at the time and place required, or fails to enter into a fresh bail bond, the Registrar must refer the matter to a Judge, who may issue a warrant for the arrest of the defendant.
     
-    Section 34: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 34: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
     
-    Section 34 heading: replaced, on 4 September 2013, by [section 23(1)][198] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 34 heading: replaced, on 4 September 2013, by [section 23(1)][200] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 34(1): replaced, on 4 September 2013, by [section 23(2)][198] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 34(1): replaced, on 4 September 2013, by [section 23(2)][200] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 34(1A): inserted, on 4 September 2013, by [section 23(3)][198] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 34(1A): inserted, on 4 September 2013, by [section 23(3)][200] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 34(1B): inserted, on 4 September 2013, by [section 23(3)][198] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 34(1B): inserted, on 4 September 2013, by [section 23(3)][200] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 34(2): replaced, on 4 September 2013, by [section 23(4)][198] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 34(2): replaced, on 4 September 2013, by [section 23(4)][200] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 34(4): amended, on 4 September 2013, by [section 23(5)][198] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 34(4): amended, on 4 September 2013, by [section 23(5)][200] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 34(4)(a): amended, on 4 September 2013, by [section 23(5)][198] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 34(4)(a): amended, on 4 September 2013, by [section 23(5)][200] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 34(4)(a)(iii): amended, on 4 September 2013, by [section 23(6)][198] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 34(4)(a)(iii): amended, on 4 September 2013, by [section 23(6)][200] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 34(4)(b): amended, on 4 September 2013, by [section 23(5)][198] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 34(4)(b): amended, on 4 September 2013, by [section 23(5)][200] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 34A Surrender of defendant on bail with EM condition
     
@@ -1441,9 +1443,9 @@ Court bail
     
     (2) The Police must bring a defendant on bail with an EM condition who surrenders himself or herself to Police custody before a judicial officer at the earliest opportunity.
     
-    (3) If a defendant on bail with an EM condition who is under the age of 17 years surrenders himself or herself to Police custody, [sections 234(c)][199], [235][200], and [236][201] of the Children, Young Persons, and Their Families Act 1989 apply with any necessary modifications.
+    (3) If a defendant on bail with an EM condition who is under the age of 17 years surrenders himself or herself to Police custody, [sections 234(c)][201], [235][202], and [236][203] of the Children, Young Persons, and Their Families Act 1989 apply with any necessary modifications.
     
-    Section 34A: inserted, on 4 September 2013, by [section 24][202] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 34A: inserted, on 4 September 2013, by [section 24][204] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 35 Defendant on bail may be arrested without warrant in certain circumstances
     
@@ -1455,7 +1457,7 @@ Court bail
     
     (2) A defendant who is arrested under subsection (1) must,---
         
-    *   (a) if released on bail by a District Court, Registrar, or Police employee in relation to a category 1, 2, or 3 offence, be brought before a District Court as soon as possible, unless the Solicitor-General has assumed responsibility for the proceedings in accordance with [section 187][203] of the Criminal Procedure Act 2011; or
+    *   (a) if released on bail by a District Court, Registrar, or Police employee in relation to a category 1, 2, or 3 offence, be brought before a District Court as soon as possible, unless the Solicitor-General has assumed responsibility for the proceedings in accordance with [section 187][205] of the Criminal Procedure Act 2011; or
     
     *   (b) if released on bail in any circumstances to which paragraph (a) does not apply, be brought before a High Court Judge or a District Court Judge as soon as possible.
     
@@ -1467,11 +1469,11 @@ Court bail
     
     (6) Nothing in this section prevents a constable from seeking a warrant to arrest a defendant under [section 37][71].
     
-    Section 35: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 35: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
     
-    Section 35(1): amended, on 4 September 2013, by [section 25(1)][204] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 35(1): amended, on 4 September 2013, by [section 25(1)][206] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 35(2): replaced, on 4 September 2013, by [section 25(2)][204] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 35(2): replaced, on 4 September 2013, by [section 25(2)][206] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 36 Arrest of defendant charged with drug dealing offence
     
@@ -1505,15 +1507,15 @@ Court bail
     
     (7) Nothing in this section prevents a constable from seeking a warrant to arrest a defendant under [section 37][71].
     
-    Section 36: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 36: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
     
-    Section 36(2): amended, on 4 September 2013, by [section 26(1)][205] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 36(2): amended, on 4 September 2013, by [section 26(1)][207] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 36(3): amended, on 4 September 2013, by [section 26(2)][205] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 36(3): amended, on 4 September 2013, by [section 26(2)][207] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 36(4): amended, on 4 September 2013, by [section 26(3)][205] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 36(4): amended, on 4 September 2013, by [section 26(3)][207] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 36(5): amended, on 4 September 2013, by [section 26(4)][205] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 36(5): amended, on 4 September 2013, by [section 26(4)][207] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 36A Offence to refuse authorised person entry to EM address
     
@@ -1537,7 +1539,7 @@ Court bail
         
         
     
-    Section 36A: inserted, on 4 September 2013, by [section 27][206] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 36A: inserted, on 4 September 2013, by [section 27][208] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 37 Issue of warrant to arrest defendant absconding or breaching bail condition or who fails to answer bail
     
@@ -1587,11 +1589,11 @@ Court bail
     
     *   (c) for proceedings in the Court of Appeal or the Supreme Court, a Judge or Registrar of the High Court.
     
-    Section 37: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 37: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
     
-    Section 37(1): amended, on 4 September 2013, by [section 28(1)][207] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 37(1): amended, on 4 September 2013, by [section 28(1)][209] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 37(7): replaced, on 4 September 2013, by [section 28(2)][207] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 37(7): replaced, on 4 September 2013, by [section 28(2)][209] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 38 Failure to answer bail
     
@@ -1603,7 +1605,7 @@ Court bail
     
     *   (c) fails without reasonable excuse to comply with any condition imposed under [section 40(3)][75].
     
-    Section 38: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 38: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
 
 ##### 39 Non-performance of condition of bail may be certified and recorded
     
@@ -1611,7 +1613,7 @@ Court bail
     
     (2) A certificate given by a judicial officer under subsection (1) is, in the absence of proof to the contrary, sufficient evidence for the purposes of [sections 24][33] and [38][72] that the defendant has failed to comply with the condition of the notice of bail or bail bond specified in the certificate.
     
-    (3) In addition to the certification described in subsection (1), if a defendant who has been released on bail at any time fails to comply with any condition of bail, without reasonable excuse, a judicial officer must direct the Registrar that the nature of the condition and the non-performance of the condition be entered in the court record kept in accordance with [section 184][208] of the Criminal Procedure Act 2011\.
+    (3) In addition to the certification described in subsection (1), if a defendant who has been released on bail at any time fails to comply with any condition of bail, without reasonable excuse, a judicial officer must direct the Registrar that the nature of the condition and the non-performance of the condition be entered in the court record kept in accordance with [section 184][210] of the Criminal Procedure Act 2011\.
     
     (4) Despite subsection (3), the judicial officer may decide not to direct that the failure to comply be entered in the court record if in the judicial officer's opinion the failure to comply is of such a minor nature that it does not warrant being taken into account when considering an application for bail from the defendant on a subsequent occasion.
     
@@ -1619,39 +1621,39 @@ Court bail
     
     (6) In this section, _judicial officer_ means---
         
-    *   (a) any judicial officer, if the defendant was released on bail by a District Court, Registrar, or Police employee in relation to a category 1, 2, or 3 offence and the Solicitor-General has not assumed responsibility for the proceedings in accordance with [section 187][203] of the Criminal Procedure Act 2011:
+    *   (a) any judicial officer, if the defendant was released on bail by a District Court, Registrar, or Police employee in relation to a category 1, 2, or 3 offence and the Solicitor-General has not assumed responsibility for the proceedings in accordance with [section 187][205] of the Criminal Procedure Act 2011:
     
     *   (b) a Judge, if any of the matters set out in paragraph (a) do not apply.
     
-    Section 39: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 39: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
     
-    Section 39(1): amended, on 4 September 2013, by [section 29(1)][209] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 39(1): amended, on 4 September 2013, by [section 29(1)][211] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 39(3): amended, on 4 September 2013, by [section 29(2)][209] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 39(3): amended, on 4 September 2013, by [section 29(2)][211] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 39(6): replaced, on 4 September 2013, by [section 29(3)][209] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 39(6): replaced, on 4 September 2013, by [section 29(3)][211] of the Bail Amendment Act 2013 (2013 No 66).
 
 ### Subpart 2---Bail on deferment of sentence
     
-*   Subpart 2 heading: inserted, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+*   Subpart 2 heading: inserted, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
 
 ##### 40 Bail on deferment of sentence
     
-*   (1) This section applies if the start date of a sentence imposed on an offender is deferred under [section 80W][210] or [100][211] of the Sentencing Act 2002 and the offender is not liable to be detained under any other sentence or order.
+*   (1) This section applies if the start date of a sentence imposed on an offender is deferred under [section 80W][212] or [100][213] of the Sentencing Act 2002 and the offender is not liable to be detained under any other sentence or order.
     
     (2) If this section applies, the court that defers the start date of the offender's sentence must grant the offender bail.
     
     (3) An offender who is granted bail under this section must be released on condition that the offender must,---
         
-    *   (a) if the sentence is deferred under [section 80W][210] of the Sentencing Act 2002,---
+    *   (a) if the sentence is deferred under [section 80W][212] of the Sentencing Act 2002,---
             
-        *   (i) go to and remain at the home detention residence (as defined in [section 4][155] of that Act) at the expiry of the period of deferral specified by the court, unless absent in accordance with [section 80C(3)(a) or (b)][212] of that Act; and
+        *   (i) go to and remain at the home detention residence (as defined in [section 4][156] of that Act) at the expiry of the period of deferral specified by the court, unless absent in accordance with [section 80C(3)(a) or (b)][214] of that Act; and
         
         *   (ii) advise a probation officer as soon as possible of any change in circumstances affecting the availability or suitability of the home detention residence; or
         
         
     
-    *   (b) if the sentence is deferred under [section 100][211] of the Sentencing Act 2002, surrender himself or herself to the prison manager of the prison concerned at the expiry of the period of deferral specified by the court.
+    *   (b) if the sentence is deferred under [section 100][213] of the Sentencing Act 2002, surrender himself or herself to the prison manager of the prison concerned at the expiry of the period of deferral specified by the court.
     
     (4) The provisions of [sections 30 to 39][41], and [44 to 52][82], as far as they are applicable and with all necessary modifications, apply as if the offender were a defendant who had been granted bail.
     
@@ -1659,15 +1661,15 @@ Court bail
     
     (6) If any decision is made by the High Court under [section 34(1)][66] (as applied by subsection (4)) in respect of an offender, the provisions of [sections 47][86] and [48][87], as far as they are applicable and with all necessary modifications, apply as if the offender were a defendant granted bail.
     
-    Section 40: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 40: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
 
 ### Subpart 3---Appeals on question of bail
     
-*   Subpart 3 heading: inserted, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+*   Subpart 3 heading: inserted, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
 
 #### Appeals from decisions of Justices or Community Magistrates
     
-*   Heading: inserted, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+*   Heading: inserted, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
 
 ##### 41 Appeals from decisions of Justices or Community Magistrates relating to bail
     
@@ -1693,11 +1695,11 @@ Court bail
     
     (7) An appeal under this section is by way of rehearing.
     
-    Section 41: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 41: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
 
 ##### 42 Procedure relating to appeal under section 41
     
-*   (1) [Sections 273 to 275][213] and [subpart 12][214] of Part 6 of the Criminal Procedure Act 2011 apply to an appeal under [section 41][78] as if the appeal were a first appeal against a decision on a costs order.
+*   (1) [Sections 273 to 275][215] and [subpart 12][216] of Part 6 of the Criminal Procedure Act 2011 apply to an appeal under [section 41][78] as if the appeal were a first appeal against a decision on a costs order.
     
     (2) Despite any other enactment or rule of law, on the hearing of the appeal it is not necessary to produce---
         
@@ -1719,7 +1721,7 @@ Court bail
     
     (6) If, in the case of an appeal under [section 41(2)][78], the defendant does not appear at the hearing of the appeal, a District Court presided over by a District Court Judge may, if it thinks fit, issue a warrant for the arrest of the defendant.
     
-    Section 42: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 42: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
 
 ##### 43 Execution of decision of District Court on appeal relating to bail
     
@@ -1743,15 +1745,15 @@ Court bail
     
     (4) If, in any case to which subsection (3) applies, the defendant fails without reasonable excuse to attend at the time and place required, or fails to enter into a fresh notice of bail, the Registrar of the District Court appealed from must refer the matter to a District Court Judge, who may issue a warrant for the arrest of the defendant.
     
-    Section 43: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 43: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
     
-    Section 43(1): amended, on 4 September 2013, by [section 30(1)][215] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 43(1): amended, on 4 September 2013, by [section 30(1)][217] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 43(3)(a)(iii): amended, on 4 September 2013, by [section 30(2)][215] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 43(3)(a)(iii): amended, on 4 September 2013, by [section 30(2)][217] of the Bail Amendment Act 2013 (2013 No 66).
 
 #### Appeals from decisions of District Court Judges
     
-*   Heading: inserted, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+*   Heading: inserted, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
 
 ##### 44 Appeal from decision of District Court Judge relating to bail
     
@@ -1771,11 +1773,11 @@ Court bail
     
     (6) An appeal under this section is by way of rehearing.
     
-    Section 44: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 44: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
 
 ##### 45 Procedure relating to appeal under section 44
     
-*   (1) [Sections 273 to 275][213] and [subpart 12][214] of Part 6 of the Criminal Procedure Act 2011 apply to an appeal under [section 44][82] as if the appeal were a first appeal against a decision on a costs order.
+*   (1) [Sections 273 to 275][215] and [subpart 12][216] of Part 6 of the Criminal Procedure Act 2011 apply to an appeal under [section 44][82] as if the appeal were a first appeal against a decision on a costs order.
     
     (2) Despite any other enactment or rule of law, on the hearing of an appeal under [section 44][82] it is not necessary to produce---
         
@@ -1797,7 +1799,7 @@ Court bail
     
     (6) If, in the case of an appeal under [section 44(2)][82], the defendant does not appear at the hearing of the appeal, the High Court may, if it thinks fit, issue a warrant for the arrest of the defendant.
     
-    Section 45: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 45: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
 
 ##### 46 Execution of decision of High Court on appeal relating to bail
     
@@ -1821,15 +1823,15 @@ Court bail
     
     (4) If, in any case to which subsection (3) applies, the defendant fails without reasonable excuse to attend at the time and place required, or fails to enter into a fresh notice of bail, the Registrar of the District Court appealed from must refer the matter to a District Court Judge who may issue a warrant for the arrest of the defendant.
     
-    Section 46: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 46: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
     
-    Section 46(1): amended, on 4 September 2013, by [section 31(1)][216] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 46(1): amended, on 4 September 2013, by [section 31(1)][218] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 46(3)(a)(iii): amended, on 4 September 2013, by [section 31(2)][216] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 46(3)(a)(iii): amended, on 4 September 2013, by [section 31(2)][218] of the Bail Amendment Act 2013 (2013 No 66).
 
 #### Appeals from decisions of High Court
     
-*   Heading: inserted, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+*   Heading: inserted, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
 
 ##### 47 Appeal from decision of High Court relating to bail
     
@@ -1849,7 +1851,7 @@ Court bail
     
     (4) Nothing in this section applies in respect of any decision made by a High Court Judge if that decision was made on appeal from any decision of a District Court.
     
-    Section 47: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 47: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
 
 ##### 48 Procedure relating to appeal under section 47
     
@@ -1867,9 +1869,9 @@ Court bail
     
     (5) On an appeal under [section 47][86] the Court of Appeal may confirm the decision appealed against, or vary it, or set it aside and make such other order as the Court of Appeal thinks ought to have been made in the first place.
     
-    Section 48: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 48: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
     
-    Section 48(1): amended, on 4 September 2013, by [section 32][217] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 48(1): amended, on 4 September 2013, by [section 32][219] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 49 Execution of decision of Court of Appeal on appeal relating to bail
     
@@ -1885,13 +1887,13 @@ Court bail
     
     (6) A defendant to whom subsection (4) applies and who is not in custody may be arrested without warrant by any constable or any officer of a prison.
     
-    Section 49: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 49: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
     
-    Section 49(4): amended, on 4 September 2013, by [section 33][218] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 49(4): amended, on 4 September 2013, by [section 33][220] of the Bail Amendment Act 2013 (2013 No 66).
 
 #### Appeals from decisions of Court of Appeal on appeal
     
-*   Heading: inserted, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+*   Heading: inserted, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
 
 ##### 50 Execution of decision of Supreme Court on appeal relating to bail
     
@@ -1907,13 +1909,13 @@ Court bail
     
     (6) A defendant to whom subsection (4) applies who is not in custody may be arrested without warrant by any constable or any officer of a prison.
     
-    Section 50: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 50: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
     
-    Section 50(4): amended, on 4 September 2013, by [section 34][219] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 50(4): amended, on 4 September 2013, by [section 34][221] of the Bail Amendment Act 2013 (2013 No 66).
 
 #### Appeal against entry of non-performance of condition of bail
     
-*   Heading: inserted, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+*   Heading: inserted, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
 
 ##### 51 Appeal against entry by Justice or Community Magistrate of non-performance of condition of bail in court record
     
@@ -1931,9 +1933,9 @@ Court bail
     
     (4) No direction appealed against under this section is suspended merely because notice of that appeal has been given.
     
-    Section 51: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 51: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
     
-    Section 51(1): amended, on 4 September 2013, by [section 35][220] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 51(1): amended, on 4 September 2013, by [section 35][222] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 52 Appeal against entry by District Court Judge or High Court Judge of non-performance of condition of bail in court record
     
@@ -1951,13 +1953,13 @@ Court bail
     
     (4) No direction appealed against under this section is suspended merely because notice of that appeal has been given.
     
-    Section 52: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 52: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
     
-    Section 52(1): amended, on 4 September 2013, by [section 36][221] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 52(1): amended, on 4 September 2013, by [section 36][223] of the Bail Amendment Act 2013 (2013 No 66).
 
 #### Issue of warrant for detention in custody
     
-*   Heading: inserted, on 4 September 2013, by [section 37][222] of the Bail Amendment Act 2013 (2013 No 66).
+*   Heading: inserted, on 4 September 2013, by [section 37][224] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 52A Period for which warrant for detention in custody may be issued
     
@@ -1971,17 +1973,21 @@ Court bail
     
     *   (c) pending the defendant being brought up for sentence and during his or her sentencing.
     
-    Section 52A: inserted, on 4 September 2013, by [section 37][222] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 52A: inserted, on 4 September 2013, by [section 37][224] of the Bail Amendment Act 2013 (2013 No 66).
 
 ### Subpart 4---Bail pending appeal against conviction or sentence
     
-*   Subpart 4 heading: inserted, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+*   Subpart 4 heading: inserted, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
 
-##### 53 Granting of bail to appellant in custody pending appeal to District Court presided over by District Court Judge
+##### 53 Granting of bail to appellant in custody or on home detention pending appeal to District Court presided over by District Court Judge
     
-*   (1) This section applies if a person is in custody under a conviction and is appealing the conviction or sentence, or both, to a District Court presided over by a District Court Judge.
+*   (1) This section applies if a person---
+        
+    *   (a) is in custody under a conviction or sentence, or is subject to a sentence of home detention; and
     
-    (2) If the appellant is in custody only under the conviction to which the appeal relates, the appellant is bailable, at any time before the hearing of the appeal,---
+    *   (b) is appealing the conviction or sentence, or both, to a District Court presided over by a District Court Judge.
+    
+    (2) If the appellant is in custody, or is subject to a sentence of home detention, only under the conviction to which the appeal relates, the appellant is bailable, at any time before the hearing of the appeal,---
         
     *   (a) at the discretion of the Justice or Justices or a Community Magistrate or Community Magistrates who presided over the District Court whose determination is appealed against; or
     
@@ -1989,21 +1995,39 @@ Court bail
     
     (3) Subject to the provisions of [section 31][63] (as applied by subsection (4)), if an appellant is granted bail, the appellant must be released on condition that the appellant attend personally at the District Court dealing with the appeal on the day on which the appeal is to be heard and on any day to which the hearing may from time to time be adjourned.
     
-    (4) If an appellant is granted bail under this section, the provisions of [sections 30 to 33][41], [34][66], [37][71], [38][72], [39][73], and [51][92], as far as they are applicable and with any necessary modifications, apply as if the appellant were a defendant remanded in custody who had been granted bail.
+    (4) If an appellant is granted bail under this section, the provisions of [sections 30 to 33][41], [35][68], [37][71], [38][72], [39][73], and [51][92], as far as they are applicable and with any necessary modifications, apply as if the appellant were a defendant remanded in custody who had been granted bail.
     
     (5) If an appellant is granted or refused bail under this section, or any decision is made under [section 33(1)][65] (as applied by subsection (4)) in respect of any appellant, the provisions of [sections 41][78] and [42][79], as far as they are applicable and with any necessary modifications, apply as if the appellant were a defendant who had been granted or, as the case may be, refused bail.
     
-    (6) [Section 54(6)][98] applies for the purpose of this section.
+    (6) For the purposes of this section,---
+        
+    *   (a) an appellant is not deemed to be in custody only under the conviction to which the appeal relates if a direction has been given under [section 83][225] of the Sentencing Act 2002 that another sentence or term of imprisonment is to follow the sentence imposed on that conviction, and the appellant has not appealed against the conviction in respect of which that other sentence or term was imposed; and
     
-    (7) If an appeal is filed on a question of law under [subpart 8][223] of Part 6 of the Criminal Procedure Act 2011 and the appeal relates to a person's conviction, this section applies to the convicted person as it does to the appellant.
+    *   (b) an appellant is not deemed to be subject to a sentence of home detention only under the conviction to which the appeal relates if a direction has been given under [section 80B][226] of the Sentencing Act 2002 that another sentence of home detention is to follow the sentence imposed on that conviction, and the appellant has not appealed against the conviction in respect of which that other sentence was imposed.
     
-    Section 53: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    (7) If an appeal is filed on a question of law under [subpart 8][227] of Part 6 of the Criminal Procedure Act 2011 and the appeal relates to a person's conviction, this section applies to the convicted person as it does to the appellant.
+    
+    Section 53: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
+    
+    Section 53 heading: amended, on 23 October 2013, by [section 6(1)][228] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
+    
+    Section 53(1): replaced, on 23 October 2013, by [section 6(2)][228] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
+    
+    Section 53(2): amended, on 23 October 2013, by [section 6(3)][228] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
+    
+    Section 53(4): amended, on 23 October 2013, by [section 6(4)][228] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
+    
+    Section 53(6): replaced, on 23 October 2013, by [section 6(5)][228] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
 
-##### 54 Granting of bail to appellant in custody pending appeal to High Court
+##### 54 Granting of bail to appellant in custody or on home detention pending appeal to High Court
     
-*   (1) This section applies if a person is in custody under a conviction and is appealing the conviction or sentence, or both, to the High Court.
+*   (1) This section applies if a person---
+        
+    *   (a) is in custody under a conviction or is subject to a sentence of home detention; and
     
-    (2) If the appellant is in custody only under the conviction to which the appeal relates, the appellant is bailable at any time before the hearing of the appeal---
+    *   (b) is appealing the conviction or sentence, or both, to the High Court.
+    
+    (2) If the appellant is in custody, or is subject to a sentence of home detention, only under the conviction to which the appeal relates, the appellant is bailable at any time before the hearing of the appeal---
         
     *   (a) at the discretion of the District Court Judge who presided over the District Court whose determination is appealed against; or
     
@@ -2011,35 +2035,55 @@ Court bail
     
     (3) Subject to the provisions of [section 31][63] (as applied by subsection (4)), if an appellant is granted bail, the appellant must be released on condition that the appellant attend personally at the High Court on the day on which the appeal is to be heard and on any day to which the hearing may from time to time be adjourned.
     
-    (4) If an appellant is granted bail under this section, the provisions of [sections 30 to 33][41], [35 to 39][224], and [52][93], as far as they are applicable and with any necessary modifications, apply as if the appellant were a defendant remanded in custody who had been granted bail.
+    (4) If an appellant is granted bail under this section, the provisions of [sections 30 to 33][41], [35 to 39][229], and [52][93], as far as they are applicable and with any necessary modifications, apply as if the appellant were a defendant remanded in custody who had been granted bail.
     
     (5) If an appellant is granted or refused bail under this section, or any decision is made under [section 33(1)][65] (as applied by subsection (4)) in respect of any appellant, the provisions of [sections 44][82] and [45][83], as far as they are applicable and with all necessary modifications, apply as if the appellant were a defendant who had been granted or, as the case may be, refused bail.
     
-    (6) For the purposes of this section, an appellant is not deemed to be in custody only under the conviction to which the appeal relates if a direction has been given under [section 83][225] of the Sentencing Act 2002 that another sentence or term of imprisonment is to follow the sentence imposed on that conviction, and the appellant has not appealed against the conviction in respect of which that other sentence or term was imposed.
+    (6) [Section 53(6)][97] applies for the purposes of this section.
     
-    (7) If an appeal is filed on a question of law under [subpart 8][223] of Part 6 of the Criminal Procedure Act 2011 and the appeal relates to a person's conviction, this section applies to the convicted person as it does to the appellant.
+    (7) If an appeal is filed on a question of law under [subpart 8][227] of Part 6 of the Criminal Procedure Act 2011 and the appeal relates to a person's conviction, this section applies to the convicted person as it does to the appellant.
     
-    Compare: 1957 No 87 [s 125][226]
+    Compare: 1957 No 87 [s 125][230]
     
-    Section 54: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 54: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
     
-    Section 54(4): amended, on 4 September 2013, by [section 38][227] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 54 heading: amended, on 23 October 2013, by [section 7(1)][231] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
+    
+    Section 54(1): replaced, on 23 October 2013, by [section 7(2)][231] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
+    
+    Section 54(2): amended, on 23 October 2013, by [section 7(3)][231] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
+    
+    Section 54(4): amended, on 4 September 2013, by [section 38][232] of the Bail Amendment Act 2013 (2013 No 66).
+    
+    Section 54(6): replaced, on 23 October 2013, by [section 7(4)][231] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
 
-##### 55 Granting of bail to appellant in custody pending appeal to Court of Appeal or Supreme Court
+##### 55 Granting of bail to appellant in custody or on home detention pending appeal to Court of Appeal or Supreme Court
     
-*   (1) This section applies if a person is in custody under a conviction and is appealing the conviction or sentence, or both, to the Court of Appeal or the Supreme Court.
+*   (1) This section applies if a person---
+        
+    *   (a) is in custody under a conviction or is subject to a sentence of home detention; and
     
-    (2) The Court of Appeal or the Supreme Court (as the case may be) or the Judge who presided at the trial in the court below may, if it or the Judge thinks fit, on the application of an appellant and on such terms and subject to such conditions as the court or Judge thinks fit, grant bail to the appellant pending the determination of the appeal, if the appellant is in custody only under the conviction to which the appeal relates.
+    *   (b) is appealing the conviction or sentence, or both, to the Court of Appeal or the Supreme Court.
     
-    (3) If an appeal is filed on a question of law under [subpart 8][223] of Part 6 of the Criminal Procedure Act 2011 and the appeal relates to a person's conviction, this section applies to the convicted person as it does to the appellant.
+    (2) The Court of Appeal or the Supreme Court (as the case may be) or the Judge who presided at the trial in the court below may, if it or the Judge thinks fit, on the application of an appellant and on such terms and subject to such conditions as the court or Judge thinks fit, grant bail to the appellant pending the determination of the appeal, if the appellant is in custody, or is subject to a sentence of home detention, only under the conviction to which the appeal relates.
     
-    (4) For the purposes of this section, an appellant is not deemed to be in custody only under the conviction to which the appeal relates if a direction has been given under [section 83][225] of the Sentencing Act 2002 that another sentence or term of imprisonment is to follow the sentence imposed on that conviction, and the appellant has not appealed against the conviction in respect of which that other sentence or term was imposed.
+    (3) If an appeal is filed on a question of law under [subpart 8][227] of Part 6 of the Criminal Procedure Act 2011 and the appeal relates to a person's conviction, this section applies to the convicted person as it does to the appellant.
     
-    Section 55: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    (4) [Section 53(6)][97] applies for the purposes of this section.
+    
+    Section 55: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
+    
+    Section 55 heading: amended, on 23 October 2013, by [section 8(1)][233] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
+    
+    Section 55(1): replaced, on 23 October 2013, by [section 8(2)][233] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
+    
+    Section 55(2): amended, on 23 October 2013, by [section 8(3)][233] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
+    
+    Section 55(4): replaced, on 23 October 2013, by [section 8(4)][233] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
 
 ##### 56 Appeals on questions of law
     
-*   If under [section 302(2)][228] of the Criminal Procedure Act 2011 a District Court or the High Court has decided to postpone sentencing a person or deferred the commencement of any sentence imposed, the court may, in accordance with the applicable provisions of this Act and the Criminal Procedure Act 2011,---
+*   If under [section 302(2)][234] of the Criminal Procedure Act 2011 a District Court or the High Court has decided to postpone sentencing a person or deferred the commencement of any sentence imposed, the court may, in accordance with the applicable provisions of this Act and the Criminal Procedure Act 2011,---
         
     *   (a) allow the defendant to go at large; or
     
@@ -2047,11 +2091,11 @@ Court bail
     
     *   (c) remand the defendant in custody.
     
-    Section 56: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 56: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
 
 ##### 57 Intermediate effects of appeal
     
-*   (1) In every case where an appeal court directs a new trial or remits a sentence, the court must, in accordance with the applicable provisions of this Act and the [Criminal Procedure Act 2011][229],---
+*   (1) In every case where an appeal court directs a new trial or remits a sentence, the court must, in accordance with the applicable provisions of this Act and the [Criminal Procedure Act 2011][235],---
         
     *   (a) allow the defendant to go at large; or
     
@@ -2061,30 +2105,68 @@ Court bail
     
     (2) If no application for bail has been made to the appeal court, the defendant may at any time apply to a High Court Judge or a District Court Judge (as the case may require), who may in the Judge's discretion grant bail on such terms and subject to such conditions as the Judge thinks fit.
     
-    Section 57: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 57: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
 
 ##### 58 Time on bail pending appeal not to be taken as time served
     
-*   [Section 95][230] of the Parole Act 2002 applies if an appellant is released on bail pending an appeal.
+*   (1) [Section 95][236] of the Parole Act 2002 applies if an appellant is released on bail pending an appeal.
     
-    Section 58: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    (2) For the purpose of calculating how much time an offender who is subject to a sentence of home detention has served, time ceases to run on the sentence during any period in which the offender is released on bail pending an appeal.
+    
+    Section 58: replaced, on 23 October 2013, by [section 9][237] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
 
-##### 59 Surrender of appellant released on bail
+##### 59 Surrender of appellant released on bail from sentence of imprisonment
     
-*   (1) An appellant who has been released from custody on bail pending the hearing of the appeal may surrender himself or herself and apply to a judicial officer of the court that released the defendant on bail for the discharge of bail.
+*   (1) An appellant who has been released from custody on bail pending the hearing of the appeal may surrender himself or herself and apply to a judicial officer of the court that released the appellant on bail for the discharge of bail.
     
-    (2) A judicial officer who discharges the bail of a defendant may then issue a warrant for the arrest of the appellant and for his or her committal to a prison for the unexpired term of the sentence originally imposed.
+    (2) A judicial officer who discharges the bail of an appellant may then issue a warrant for the arrest of the appellant and for his or her committal to a prison for the unexpired term of the sentence originally imposed.
     
-    Section 59: replaced, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+    Section 59: replaced, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
     
-    Section 59(2): amended, on 4 September 2013, by [section 39][231] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 59 heading: amended, on 23 October 2013, by [section 10(1)][238] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
+    
+    Section 59(1): amended, on 23 October 2013, by [section 10(2)][238] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
+    
+    Section 59(2): amended, on 23 October 2013, by [section 10(3)][238] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
+    
+    Section 59(2): amended, on 4 September 2013, by [section 39][239] of the Bail Amendment Act 2013 (2013 No 66).
+
+##### 60 Surrender of appellant released on bail from sentence of home detention
+    
+*   (1) An appellant who has been released from a sentence of home detention on bail pending the hearing of an appeal may surrender himself or herself and apply to a District Court Judge for the discharge of bail, and the District Court Judge may order that the appellant resume serving the sentence of home detention.
+    
+    (2) If an appellant applies for the discharge of bail under subsection (1), the District Court Judge may,---
+        
+    *   (a) if the appellant has been on bail for longer than 2 months, adjourn the matter to enable a probation officer to obtain the information required under subsection (3); and
+    
+    *   (b) either---
+            
+        *   (i) remand the appellant in custody; or
+        
+        *   (ii) grant the appellant bail for the period of the adjournment.
+        
+        
+    
+    (3) Before ordering that an appellant resume serving a sentence of home detention under subsection (1), the District Court Judge must, if the appellant has been on bail for longer than 2 months, consider information from a probation officer on---
+        
+    *   (a) whether the home detention residence is still available and suitable; and
+    
+    *   (b) whether every relevant occupant (as defined in [section 26A(4)(a)][240] of the Sentencing Act 2002) of the home detention residence consents, in accordance with section 26A(3)(d) of the Sentencing Act 2002, to the appellant resuming the sentence at the home detention residence.
+    
+    (4) If a District Court Judge orders that the appellant resume serving the sentence of home detention,---
+        
+    *   (a) the appellant must go to and remain at the home detention residence unless absent in accordance with [section 80C(3)(a) or (b)][214] of the Sentencing Act 2002; and
+    
+    *   (b) the sentence of home detention resumes when the appellant has arrived at the home detention residence under paragraph (a).
+    
+    Section 60: inserted, on 23 October 2013, by [section 11][241] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
 
 ## Part 4  
 Bail when proceedings taken by way of indictment
 
 \[Repealed\]
     
-*   Part 4: repealed, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+*   Part 4: repealed, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
 
 ## Part 5  
 Miscellaneous provisions
@@ -2109,13 +2191,13 @@ Miscellaneous provisions
     
     (4) In the absence of evidence to the contrary, any document is to be treated as having been authenticated in accordance with this section.
     
-    Section 73A: inserted, on 4 September 2013, by [section 40][232] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 73A: inserted, on 4 September 2013, by [section 40][242] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 74 Repeal and enactments amended
     
 *   (1) The Crimes Amendment Act (No 2) 1991 is repealed.
     
-    (2) The enactments specified in [Schedule 2][111] are amended in the manner indicated in that schedule.
+    (2) The enactments specified in [Schedule 2][112] are amended in the manner indicated in that schedule.
 
 ##### 75 Savings
     
@@ -2130,26 +2212,26 @@ Modifications of Part 3 where appeal is from District Court presided over by Com
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 1 July 2013, by [section 15][118] of the Bail Amendment Act 2011 (2011 No 82).
+*   Schedule 1: repealed, on 1 July 2013, by [section 15][119] of the Bail Amendment Act 2011 (2011 No 82).
 
 ---
 
 ## Schedule 2  
 Amendments to other enactments
 
-[s 74(2)][108]
+[s 74(2)][109]
 
 ##### Antarctica (Environmental Protection) Act 1994 (1994 No 119)
 
-_Amendment(s) incorporated in the [Act(s)][233]._
+_Amendment(s) incorporated in the [Act(s)][243]._
 
 ##### Children, Young Persons, and Their Families Act 1989 (1989 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][164]._
+_Amendment(s) incorporated in the [Act(s)][166]._
 
 ##### Crimes Act 1961 (1961 No 43)
 
-_Amendment(s) incorporated in the [Act(s)][154]._
+_Amendment(s) incorporated in the [Act(s)][155]._
 
 ##### Crimes Amendment Act (No 2) 1980 (1980 No 85)
 
@@ -2157,59 +2239,59 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Crimes Amendment Act (No 2) 1985 (1985 No 121)
 
-_Amendment(s) incorporated in the [Act(s)][234]._
+_Amendment(s) incorporated in the [Act(s)][244]._
 
 ##### Crimes Amendment Act (No 2) 1995 (1995 No 68)
 
-_Amendment(s) incorporated in the [Act(s)][235]._
+_Amendment(s) incorporated in the [Act(s)][245]._
 
 ##### Crimes Amendment Act 1998 (1998 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][236]._
+_Amendment(s) incorporated in the [Act(s)][246]._
 
 ##### Crimes Amendment Act (No 2) 1998 (1998 No 79)
 
-_Amendment(s) incorporated in the [Act(s)][237]._
+_Amendment(s) incorporated in the [Act(s)][247]._
 
 ##### Criminal Justice Act 1985 (1985 No 120)
 
-_Amendment(s) incorporated in the [Act(s)][238]._
+_Amendment(s) incorporated in the [Act(s)][248]._
 
 ##### District Courts Act 1947 (1947 No 16)
 
-_Amendment(s) incorporated in the [Act(s)][239]._
+_Amendment(s) incorporated in the [Act(s)][249]._
 
 ##### District Courts Amendment Act 1998 (1998 No 76)
 
-_Amendment(s) incorporated in the [Act(s)][240]._
+_Amendment(s) incorporated in the [Act(s)][250]._
 
 ##### Domestic Violence Act 1995 (1995 No 86)
 
-_Amendment(s) incorporated in the [Act(s)][181]._
+_Amendment(s) incorporated in the [Act(s)][183]._
 
 ##### Extradition Act 1999 (1999 No 55)
 
-_Amendment(s) incorporated in the [Act(s)][241]._
+_Amendment(s) incorporated in the [Act(s)][251]._
 
 ##### International War Crimes Tribunal Act 1995 (1995 No 27)
 
-_Amendment(s) incorporated in the [Act(s)][242]._
+_Amendment(s) incorporated in the [Act(s)][252]._
 
 ##### Misuse of Drugs Amendment Act 1978 (1975 No 116)
 
-_Amendment(s) incorporated in the [Act(s)][243]._
+_Amendment(s) incorporated in the [Act(s)][253]._
 
 ##### Misuse of Drugs Amendment Act 1998 (1998 No 14)
 
-_Amendment(s) incorporated in the [Act(s)][244]._
+_Amendment(s) incorporated in the [Act(s)][254]._
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][245]._
+_Amendment(s) incorporated in the [Act(s)][255]._
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][246]._
+_Amendment(s) incorporated in the [Act(s)][256]._
 
 ##### Summary Proceedings Amendment Act (No 2) 1987 (1987 No 172)
 
@@ -2221,7 +2303,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Summary Proceedings Amendment Act 1993 (1993 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][247]._
+_Amendment(s) incorporated in the [Act(s)][257]._
 
 ##### Summary Proceedings Amendment Act 1994 (1994 No 161)
 
@@ -2229,7 +2311,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Summary Proceedings Amendment Act 1995 (1995 No 64)
 
-_Amendment(s) incorporated in the [Act(s)][248]._
+_Amendment(s) incorporated in the [Act(s)][258]._
 
 ##### Summary Proceedings Amendment Act (No 2) 1995 (1995 No 87)
 
@@ -2237,7 +2319,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Summary Proceedings Amendment Act (No 2) 1998 (1998 No 77)
 
-_Amendment(s) incorporated in the [Act(s)][249]._
+_Amendment(s) incorporated in the [Act(s)][259]._
 
 ---
 
@@ -2249,7 +2331,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Crimes Amendment Act (No 3) 2011][250].
+*   This Act is the [Crimes Amendment Act (No 3) 2011][260].
 
 ##### 2 Commencement
     
@@ -2278,7 +2360,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Bail Amendment Act 2011][251].
+*   This Act is the [Bail Amendment Act 2011][261].
 
 ##### 2 Commencement
     
@@ -2288,7 +2370,7 @@ Commencementsee section 2
     
     (3) Any provision that has not earlier been brought into force comes into force on the day that is 2 years after the date on which this Act receives the Royal assent.
     
-    Section 2(1): sections 4, 5, and 7--14 brought into force, on 5 March 2012, by the [Bail Amendment Act 2011 Commencement Order 2011][252] (SR 2011/411).
+    Section 2(1): sections 4, 5, and 7--14 brought into force, on 5 March 2012, by the [Bail Amendment Act 2011 Commencement Order 2011][262] (SR 2011/411).
 
 ##### 3 Principal Act amended
     
@@ -2336,43 +2418,45 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][253] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][254] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][263] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][264] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][255] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][256] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][265] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][266] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [section 3(1)][160]
+*   Administration of Community Sentences and Orders Act 2013 (2013 No 88): [Parts 1][267], [2][268]
     
-    [Bail Amendment Act 2013][257] (2013 No 66)
+    Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [section 3(1)][162]
     
-    [Bail Amendment Act 2011][251] (2011 No 82)
+    [Bail Amendment Act 2013][269] (2013 No 66)
     
-    [Bail Amendment Act 2009][258] (2009 No 45)
+    [Bail Amendment Act 2011][261] (2011 No 82)
     
-    [Bail Amendment Act 2008][259] (2008 No 107)
+    [Bail Amendment Act 2009][270] (2009 No 45)
     
-    Policing Act 2008 (2008 No 72): [section 130(1)][182]
+    [Bail Amendment Act 2008][271] (2008 No 107)
     
-    Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41): [section 18][260]
+    Policing Act 2008 (2008 No 72): [section 130(1)][184]
     
-    [Bail Amendment Act 2007][261] (2007 No 26)
+    Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41): [section 18][272]
     
-    Sentencing Amendment Act 2004 (2004 No 68): [sections 20--24][262]
+    [Bail Amendment Act 2007][273] (2007 No 26)
     
-    Corrections Act 2004 (2004 No 50): [section 206][263]
+    Sentencing Amendment Act 2004 (2004 No 68): [sections 20--24][274]
     
-    [Bail Amendment Act 2003][264] (2003 No 60)
+    Corrections Act 2004 (2004 No 50): [section 206][275]
     
-    Supreme Court Act 2003 (2003 No 53): [section 48(1)][265]
+    [Bail Amendment Act 2003][276] (2003 No 60)
     
-    [Bail Amendment Act 2002][266] (2002 No 57)
+    Supreme Court Act 2003 (2003 No 53): [section 48(1)][277]
     
-    Parole Act 2002 (2002 No 10): [section 125][267]
+    [Bail Amendment Act 2002][278] (2002 No 57)
     
-    Sentencing Act 2002 (2002 No 9): [section 186][158]
+    Parole Act 2002 (2002 No 10): [section 125][279]
+    
+    Sentencing Act 2002 (2002 No 9): [section 186][159]
 
 
 
@@ -2480,167 +2564,179 @@ Commencementsee section 2
 [101]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM68999
 [102]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM69601
 [103]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM69603
-[104]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM68985
-[105]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM69641
-[106]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM69642
-[107]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM5599660
-[108]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM69643
-[109]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM69644
-[110]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM69645
-[111]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM69656
-[112]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM436106
-[113]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM436222
-[114]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM436276
-[115]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3359970
-[116]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM1102132
-[117]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454113
-[118]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4057416
-[119]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329383
-[120]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM372198
-[121]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM331258
-[122]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM2473207
-[123]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454138
-[124]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM157893
-[125]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM157895
-[126]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM410221
-[127]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM1764008
-[128]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454139
-[129]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM2473208
-[130]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM328520
-[131]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM328524
-[132]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM328526
-[133]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM331254
-[134]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329311
-[135]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329312
-[136]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454140
-[137]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329064
-[138]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329203
-[139]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329212
-[140]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329319
-[141]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329322
-[142]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329371
-[143]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329374
-[144]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329378
-[145]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329392
-[146]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329394
-[147]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329771
-[148]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329775
-[149]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM330245
-[150]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM330250
-[151]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM330254
-[152]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM330259
-[153]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454142
-[154]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM327381
-[155]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM135350
-[156]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329883
-[157]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM76615
-[158]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM137267
-[159]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4057406
-[160]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM5642106
-[161]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3360304
-[162]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3360298
-[163]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3360300
-[164]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM147087
-[165]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM78874
-[166]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454144
-[167]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM5565505
-[168]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM5565509
-[169]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM436404
-[170]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454148
-[171]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4057407
-[172]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM167837
-[173]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM5565506
-[174]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM4454149
-[175]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454151
-[176]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3360605
-[177]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM5595302
-[178]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM372120
-[179]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM372117
-[180]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM372199
-[181]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM372400
-[182]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM1102383
-[183]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM2473216
-[184]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3360287
-[185]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454162
-[186]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454164
-[187]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM5565506
-[188]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3360288
-[189]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869203
-[190]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454167
-[191]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454168
-[192]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM5595320
-[193]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM135581
-[194]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM359106
-[195]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454189
-[196]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454152
-[197]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454155
-[198]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454191
-[199]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM152939
-[200]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM152943
-[201]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM152945
-[202]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454192
-[203]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3360321
-[204]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454194
-[205]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454166
-[206]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454196
-[207]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869205
-[208]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3360317
-[209]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869207
-[210]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM136423
-[211]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM136489
-[212]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM136403
-[213]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3360455
-[214]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3360509
-[215]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869209
-[216]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869210
-[217]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869211
-[218]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869212
-[219]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869213
-[220]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869214
-[221]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869215
-[222]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869216
-[223]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3360482
-[224]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM4869214
+[104]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM5693442
+[105]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM68985
+[106]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM69641
+[107]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM69642
+[108]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM5599660
+[109]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM69643
+[110]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM69644
+[111]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM69645
+[112]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM69656
+[113]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM436106
+[114]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM436222
+[115]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM436276
+[116]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3359970
+[117]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM1102132
+[118]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454113
+[119]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4057416
+[120]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329383
+[121]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM372198
+[122]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM331258
+[123]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM2473207
+[124]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454138
+[125]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM157893
+[126]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM157895
+[127]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM410221
+[128]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM1764008
+[129]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454139
+[130]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM2473208
+[131]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM328520
+[132]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM328524
+[133]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM328526
+[134]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM331254
+[135]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329311
+[136]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329312
+[137]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454140
+[138]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329064
+[139]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329203
+[140]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329212
+[141]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329319
+[142]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329322
+[143]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329371
+[144]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329374
+[145]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329378
+[146]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329392
+[147]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329394
+[148]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329771
+[149]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329775
+[150]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM330245
+[151]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM330250
+[152]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM330254
+[153]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM330259
+[154]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454142
+[155]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM327381
+[156]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM135350
+[157]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM329883
+[158]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM76615
+[159]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM137267
+[160]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4057406
+[161]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4088215
+[162]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM5642106
+[163]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3360304
+[164]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3360298
+[165]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3360300
+[166]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM147087
+[167]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM78874
+[168]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454144
+[169]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM5565505
+[170]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM5565509
+[171]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM436404
+[172]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454148
+[173]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4057407
+[174]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM167837
+[175]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM5565506
+[176]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM4454149
+[177]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454151
+[178]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3360605
+[179]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM5595302
+[180]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM372120
+[181]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM372117
+[182]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM372199
+[183]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM372400
+[184]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM1102383
+[185]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM2473216
+[186]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3360287
+[187]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454162
+[188]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454164
+[189]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM5565506
+[190]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3360288
+[191]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869203
+[192]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454167
+[193]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454168
+[194]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM5595320
+[195]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM135581
+[196]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM359106
+[197]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454189
+[198]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454152
+[199]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454155
+[200]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454191
+[201]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM152939
+[202]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM152943
+[203]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM152945
+[204]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454192
+[205]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3360321
+[206]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454194
+[207]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454166
+[208]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454196
+[209]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869205
+[210]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3360317
+[211]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869207
+[212]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM136423
+[213]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM136489
+[214]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM136403
+[215]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3360455
+[216]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3360509
+[217]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869209
+[218]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869210
+[219]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869211
+[220]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869212
+[221]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869213
+[222]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869214
+[223]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869215
+[224]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869216
 [225]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM136445
-[226]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM312933
-[227]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869219
-[228]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3360490
-[229]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3359902
-[230]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM139375
-[231]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869220
-[232]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869222
-[233]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM343606
-[234]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM79191
-[235]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM371237
-[236]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM426415
-[237]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM428123
-[238]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM78558
-[239]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM242775
-[240]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM427921
-[241]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM25627
-[242]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM365060
-[243]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM23690
-[244]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM425332
-[245]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM298798
-[246]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM311134
-[247]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM302508
-[248]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM371094
-[249]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM427945
-[250]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3650002
-[251]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4057400
-[252]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4153507
-[253]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM2998516
-[254]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM2998515
-[255]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM2998532
-[256]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[257]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454102
-[258]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM2473202
-[259]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM1764000
-[260]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM1380050
-[261]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM410214
-[262]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM304804
-[263]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM297136
-[264]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM216505
-[265]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM214522
-[266]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM167831
-[267]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM140118
+[226]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM136402
+[227]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3360482
+[228]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM5342104
+[229]: http://www.legislation.govt.nz/act/public/2000/0038/latest/whole.html#DLM4869214
+[230]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM312933
+[231]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM5342105
+[232]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869219
+[233]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM5342106
+[234]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3360490
+[235]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3359902
+[236]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM139375
+[237]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM5342107
+[238]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM5342109
+[239]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869220
+[240]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM135582
+[241]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM5342110
+[242]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4869222
+[243]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM343606
+[244]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM79191
+[245]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM371237
+[246]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM426415
+[247]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM428123
+[248]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM78558
+[249]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM242775
+[250]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM427921
+[251]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM25627
+[252]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM365060
+[253]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM23690
+[254]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM425332
+[255]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM298798
+[256]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM311134
+[257]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM302508
+[258]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM371094
+[259]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM427945
+[260]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM3650002
+[261]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4057400
+[262]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4153507
+[263]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM2998516
+[264]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM2998515
+[265]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM2998532
+[266]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[267]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4088213
+[268]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM5342102
+[269]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM4454102
+[270]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM2473202
+[271]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM1764000
+[272]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM1380050
+[273]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM410214
+[274]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM304804
+[275]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM297136
+[276]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM216505
+[277]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM214522
+[278]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM167831
+[279]: http://www.legislation.govt.nz/act/public/2000/0038/latest/link.aspx?id=DLM140118
