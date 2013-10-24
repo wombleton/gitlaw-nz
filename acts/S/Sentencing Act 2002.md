@@ -1,5 +1,5 @@
 Reprint  
-as at 4 September 2013
+as at 23 October 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -347,483 +347,487 @@ This Act is administered by the Ministry of Justice and the Department of Correc
 
 [80M][161][][161][Appeals in respect of substituted sentences][161]
 
-[80N][162][][162][Imposition of post-detention conditions on offender][162]
+[80MA][162][][162][Registrar must notify controlling officer and offender of resumption of sentence][162]
 
-[80O][163][][163][Standard post-detention conditions][163]
+[80N][163][][163][Imposition of post-detention conditions on offender][163]
 
-[80P][164][][164][Special post-detention conditions][164]
+[80O][164][][164][Standard post-detention conditions][164]
 
-[80Q][165][][165][Review of post-detention conditions if conditions incompatible][165]
+[80P][165][][165][Special post-detention conditions][165]
 
-[80R][166][][166][Variation or discharge of post-detention conditions][166]
+[80Q][166][][166][Review of post-detention conditions if conditions incompatible][166]
 
-[80S][167][][167][Offence to breach detention conditions][167]
+[80R][167][][167][Variation or discharge of post-detention conditions][167]
 
-[80T][168][][168][Offence to refuse entry to home detention residence][168]
+[80S][168][][168][Offence to breach detention conditions][168]
 
-[80U][169][][169][Offence to breach post-detention conditions][169]
+[80T][169][][169][Offence to refuse entry to home detention residence][169]
 
-[80V][170][][170][Arrest without warrant for breach of detention or post-detention conditions][170]
+[80U][170][][170][Offence to breach post-detention conditions][170]
 
-[80W][171][][171][Court may defer start date of sentence of home detention][171]
+[80V][171][][171][Arrest without warrant for breach of detention or post-detention conditions][171]
 
-[80X][172][][172][Commencement of sentence of home detention][172]
+[80W][172][][172][Court may defer start date of sentence of home detention][172]
 
-[80Y][173][][173][Commencement of sentence of home detention after temporary surrender under Extradition Act 1999][173]
+[80X][173][][173][Commencement of sentence of home detention][173]
 
-[80Z][174][][174][When home detention ends][174]
+[80Y][174][][174][Commencement of sentence of home detention after temporary surrender under Extradition Act 1999][174]
 
-[80ZA][175][][175][When detention conditions suspended][175]
+[80Z][175][][175][When home detention ends][175]
 
-[80ZB][176][][176][Time ceases to run in certain circumstances][176]
+[80ZA][176][][176][When detention conditions suspended][176]
 
-[80ZC][177][][177][Order must be drawn up][177]
+[80ZB][177][][177][Time ceases to run in certain circumstances][177]
 
-[80ZD][178][][178][Offender must be given copy of new or amended order][178]
+[80ZC][178][][178][Order must be drawn up][178]
 
-[80ZE][179][][179][Home detention does not affect entitlements under Social Security Act 1964][179]
+[80ZD][179][][179][Offender must be given copy of new or amended order][179]
 
-[80ZF][180][][180][Application of Injury Prevention, Rehabilitation, and Compensation Act 2001 to persons serving home detention sentence][180]
+[80ZE][180][][180][Home detention does not affect entitlements under Social Security Act 1964][180]
 
-[80ZG][181][][181][Effect of subsequent sentence of imprisonment][181]
+[80ZF][181][][181][Application of Injury Prevention, Rehabilitation, and Compensation Act 2001 to persons serving home detention sentence][181]
 
-[80ZH][182][][182][Application of section 80F during epidemic][182]
+[80ZG][182][][182][Effect of subsequent sentence of imprisonment][182]
 
-[80ZI][183][][183][Application of section 80R during epidemic][183]
+[80ZGD][183][][183][Effect of appeal on resumption of sentence of home detention][183]
 
-[Subpart 2B][184][---][184][Judicial monitoring][184]
+[80ZH][184][][184][Application of section 80F during epidemic][184]
 
-[80ZJ][185][][185][Progress reports][185]
+[80ZI][185][][185][Application of section 80R during epidemic][185]
 
-[80ZK][186][][186][Consideration of progress reports][186]
+[Subpart 2B][186][---][186][Judicial monitoring][186]
 
-[80ZL][187][][187][Procedure][187]
+[80ZJ][187][][187][Progress reports][187]
 
-[80ZM][188][][188][Procedure if possible grounds for variation or cancellation of sentence exist][188]
+[80ZK][188][][188][Consideration of progress reports][188]
 
-[Subpart 3][189][---][189][Imprisonment][189]
+[80ZL][189][][189][Procedure][189]
 
-[81][190][][190][Length of sentence of imprisonment][190]
+[80ZM][190][][190][Procedure if possible grounds for variation or cancellation of sentence exist][190]
 
-[81B][191][][191][Procedure if offender convicted in District Court and court believes offender could be sentenced to life imprisonment][191]
+[Subpart 3][191][---][191][Imprisonment][191]
 
-[82][192][][192][Pre-sentence detention must not be taken into account in determining length of sentence][192]
+[81][192][][192][Length of sentence of imprisonment][192]
 
-[83][193][][193][Cumulative and concurrent sentences of imprisonment][193]
+[81B][193][][193][Procedure if offender convicted in District Court and court believes offender could be sentenced to life imprisonment][193]
 
-[84][194][][194][Guidance on use of cumulative and concurrent sentences of imprisonment][194]
+[82][194][][194][Pre-sentence detention must not be taken into account in determining length of sentence][194]
 
-[85][195][][195][Court to consider totality of offending][195]
+[83][195][][195][Cumulative and concurrent sentences of imprisonment][195]
 
-[Imposition of minimum period of imprisonment in relation to determinate sentence of imprisonment][196]
+[84][196][][196][Guidance on use of cumulative and concurrent sentences of imprisonment][196]
 
-[86][197][][197][Imposition of minimum period of imprisonment in relation to determinate sentence of imprisonment][197]
+[85][197][][197][Court to consider totality of offending][197]
 
-[Additional consequences for repeated serious violent offending][198]
+[Imposition of minimum period of imprisonment in relation to determinate sentence of imprisonment][198]
 
-[86A][199][][199][Interpretation][199]
+[86][199][][199][Imposition of minimum period of imprisonment in relation to determinate sentence of imprisonment][199]
 
-[86B][200][][200][Stage-1 offence: offender given first warning][200]
+[Additional consequences for repeated serious violent offending][200]
 
-[86C][201][][201][Stage-2 offence other than murder: offender given final warning and must serve full term of imprisonment][201]
+[86A][201][][201][Interpretation][201]
 
-[86D][202][][202][Stage-3 offences other than murder: offender sentenced to maximum term of imprisonment][202]
+[86B][202][][202][Stage-1 offence: offender given first warning][202]
 
-[86E][203][][203][When murder is a stage-2 or stage-3 offence][203]
+[86C][203][][203][Stage-2 offence other than murder: offender given final warning and must serve full term of imprisonment][203]
 
-[86F][204][][204][Continuing effect of warnings][204]
+[86D][204][][204][Stage-3 offences other than murder: offender sentenced to maximum term of imprisonment][204]
 
-[86G][205][][205][Consequences of cancellation of record on later sentences][205]
+[86E][205][][205][When murder is a stage-2 or stage-3 offence][205]
 
-[86H][206][][206][Appeal against orders relating to imprisonment][206]
+[86F][206][][206][Continuing effect of warnings][206]
 
-[86I][207][][207][Sections 86B to 86E prevail over inconsistent provisions][207]
+[86G][207][][207][Consequences of cancellation of record on later sentences][207]
 
-[Preventive detention][208]
+[86H][208][][208][Appeal against orders relating to imprisonment][208]
 
-[87][209][][209][Sentence of preventive detention][209]
+[86I][209][][209][Sections 86B to 86E prevail over inconsistent provisions][209]
 
-[88][210][][210][Offender must be notified that sentence of preventive detention will be considered, and reports must be obtained][210]
+[Preventive detention][210]
 
-[89][211][][211][Imposition of minimum period of imprisonment][211]
+[87][211][][211][Sentence of preventive detention][211]
 
-[90][212][][212][Procedure if offender convicted in District Court and court believes offender could be sentenced to preventive detention][212]
+[88][212][][212][Offender must be notified that sentence of preventive detention will be considered, and reports must be obtained][212]
 
-[Warrant of commitment for sentence of imprisonment][213]
+[89][213][][213][Imposition of minimum period of imprisonment][213]
 
-[91][214][][214][Warrant of commitment for sentence of imprisonment][214]
+[90][214][][214][Procedure if offender convicted in District Court and court believes offender could be sentenced to preventive detention][214]
 
-[Interpretation provision relating to references to offender being sentenced to imprisonment for particular period][215]
+[Warrant of commitment for sentence of imprisonment][215]
 
-[92][216][][216][References to period of imprisonment for purposes of section 93][216]
+[91][216][][216][Warrant of commitment for sentence of imprisonment][216]
 
-[Conditions on release of offender sentenced to imprisonment for short term][217]
+[Interpretation provision relating to references to offender being sentenced to imprisonment for particular period][217]
 
-[93][218][][218][Imposition of conditions on release of offender sentenced to imprisonment for short term][218]
+[92][218][][218][References to period of imprisonment for purposes of section 93][218]
 
-[94][219][][219][Variation of release conditions][219]
+[Conditions on release of offender sentenced to imprisonment for short term][219]
 
-[95][220][][220][Review of conditions if conditions incompatible][220]
+[93][220][][220][Imposition of conditions on release of offender sentenced to imprisonment for short term][220]
 
-[96][221][][221][Offence to breach conditions][221]
+[94][221][][221][Variation of release conditions][221]
 
-[Home detention][222]
+[95][222][][222][Review of conditions if conditions incompatible][222]
+
+[96][223][][223][Offence to breach conditions][223]
+
+[Home detention][224]
 
 \[Repealed\]
 
-[97][223][][223][Court must consider granting offender leave to apply for home detention in certain cases][223] \[Repealed\]
+[97][225][][225][Court must consider granting offender leave to apply for home detention in certain cases][225] \[Repealed\]
 
-[98][224][][224][Appeal against order granting or declining leave to apply for home detention][224] \[Repealed\]
+[98][226][][226][Appeal against order granting or declining leave to apply for home detention][226] \[Repealed\]
 
-[99][225][][225][Effect of subsequent conviction on home detention][225] \[Repealed\]
+[99][227][][227][Effect of subsequent conviction on home detention][227] \[Repealed\]
 
-[Provisions about start date of sentence of imprisonment][226]
+[Provisions about start date of sentence of imprisonment][228]
 
-[100][227][][227][Court may defer start date of sentence of imprisonment][227]
+[100][229][][229][Court may defer start date of sentence of imprisonment][229]
 
-[101][228][][228][Start date of sentence of imprisonment][228]
+[101][230][][230][Start date of sentence of imprisonment][230]
 
-[Subpart 4][229][---][229][Sentencing for murder][229]
+[Subpart 4][231][---][231][Sentencing for murder][231]
 
-[Presumption in relation to sentence for murder][230]
+[Presumption in relation to sentence for murder][232]
 
-[102][231][][231][Presumption in favour of life imprisonment for murder][231]
+[102][233][][233][Presumption in favour of life imprisonment for murder][233]
 
-[Imposition of minimum period of imprisonment or imprisonment without parole][232]
+[Imposition of minimum period of imprisonment or imprisonment without parole][234]
 
-[103][233][][233][Imposition of minimum period of imprisonment or imprisonment without parole if life imprisonment imposed for murder][233]
+[103][235][][235][Imposition of minimum period of imprisonment or imprisonment without parole if life imprisonment imposed for murder][235]
 
-[104][234][][234][Imposition of minimum period of imprisonment of 17 years or more][234]
+[104][236][][236][Imposition of minimum period of imprisonment of 17 years or more][236]
 
-[105][235][][235][Appeal against imposition of minimum period of imprisonment][235]
+[105][237][][237][Appeal against imposition of minimum period of imprisonment][237]
 
-[Subpart 4A][236][---][236][Offender levy and victims' services bank account][236]
+[Subpart 4A][238][---][238][Offender levy and victims' services bank account][238]
 
-[105A][237][][237][Interpretation][237]
+[105A][239][][239][Interpretation][239]
 
-[105B][238][][238][Offender to pay levy][238]
+[105B][240][][240][Offender to pay levy][240]
 
-[105C][239][][239][Priority of payments received from offender][239] \[Repealed\]
+[105C][241][][241][Priority of payments received from offender][241] \[Repealed\]
 
-[105D][240][][240][Amount of levy][240]
+[105D][242][][242][Amount of levy][242]
 
-[105E][241][][241][Payment of levy][241]
+[105E][243][][243][Payment of levy][243]
 
-[105F][242][][242][Distribution of money in account][242]
+[105F][244][][244][Distribution of money in account][244]
 
-[105G][243][][243][Victims' services bank account][243]
+[105G][245][][245][Victims' services bank account][245]
 
-[105H][244][][244][Payments from, and other operation of, account][244]
+[105H][246][][246][Payments from, and other operation of, account][246]
 
-[105I][245][][245][Regulations on operation of account][245]
+[105I][247][][247][Regulations on operation of account][247]
 
-[105J][246][][246][Approval of agency][246]
+[105J][248][][248][Approval of agency][248]
 
-[Subpart 5][247][---][247][Discharge and miscellaneous orders][247]
+[Subpart 5][249][---][249][Discharge and miscellaneous orders][249]
 
-[Discharge][248]
+[Discharge][250]
 
-[106][249][][249][Discharge without conviction][249]
+[106][251][][251][Discharge without conviction][251]
 
-[107][250][][250][Guidance for discharge without conviction][250]
+[107][252][][252][Guidance for discharge without conviction][252]
 
-[108][251][][251][Conviction and discharge][251]
+[108][253][][253][Conviction and discharge][253]
 
-[109][252][][252][Guidance on conviction and discharge][252]
+[109][254][][254][Guidance on conviction and discharge][254]
 
-[Order to come up for sentence if called on][253]
+[Order to come up for sentence if called on][255]
 
-[110][254][][254][Order to come up for sentence if called on][254]
+[110][256][][256][Order to come up for sentence if called on][256]
 
-[111][255][][255][Calling offender to come up for sentence][255]
+[111][257][][257][Calling offender to come up for sentence][257]
 
-[Non-association orders][256]
+[Non-association orders][258]
 
-[112][257][][257][Non-association order][257]
+[112][259][][259][Non-association order][259]
 
-[113][258][][258][Effect of non-association order][258]
+[113][260][][260][Effect of non-association order][260]
 
-[114][259][][259][Cumulative orders and sentences][259]
+[114][261][][261][Cumulative orders and sentences][261]
 
-[115][260][][260][Order must be drawn up and copy given to offender, etc][260]
+[115][262][][262][Order must be drawn up and copy given to offender, etc][262]
 
-[116][261][][261][Right of appeal against non-association order][261]
+[116][263][][263][Right of appeal against non-association order][263]
 
-[117][262][][262][Commencement of period of non-association][262]
+[117][264][][264][Commencement of period of non-association][264]
 
-[118][263][][263][Breach of non-association order constitutes offence][263]
+[118][265][][265][Breach of non-association order constitutes offence][265]
 
-[119][264][][264][Effect of subsequent sentences on non-association order][264]
+[119][266][][266][Effect of subsequent sentences on non-association order][266]
 
-[120][265][][265][Resumption of non-association order if sentence of imprisonment quashed][265]
+[120][267][][267][Resumption of non-association order if sentence of imprisonment quashed][267]
 
-[121][266][][266][Application for review of non-association order][266]
+[121][268][][268][Application for review of non-association order][268]
 
-[122][267][][267][Determination of application for variation or cancellation of order][267]
+[122][269][][269][Determination of application for variation or cancellation of order][269]
 
-[123][268][][268][Jurisdiction and procedure][268]
+[123][270][][270][Jurisdiction and procedure][270]
 
-[Protection orders][269]
+[Protection orders][271]
 
-[123A][270][][270][Interpretation of terms used in this section and sections 123B to 123G][270]
+[123A][272][][272][Interpretation of terms used in this section and sections 123B to 123G][272]
 
-[123B][271][][271][Protection order][271]
+[123B][273][][273][Protection order][273]
 
-[123C][272][][272][Provisions applying to protection order made under section 123B][272]
+[123C][274][][274][Provisions applying to protection order made under section 123B][274]
 
-[123D][273][][273][Explanation of protection order][273]
+[123D][275][][275][Explanation of protection order][275]
 
-[123E][274][][274][Protection order to be issued and served on offender][274]
+[123E][276][][276][Protection order to be issued and served on offender][276]
 
-[123F][275][][275][Protection order to be sent to Family Court][275]
+[123F][277][][277][Protection order to be sent to Family Court][277]
 
-[123G][276][][276][Protection order treated as if made by Family Court][276]
+[123G][278][][278][Protection order treated as if made by Family Court][278]
 
-[Disqualification from driving][277]
+[Disqualification from driving][279]
 
-[124][278][][278][Power of court to disqualify offenders from driving motor vehicles][278]
+[124][280][][280][Power of court to disqualify offenders from driving motor vehicles][280]
 
-[125][279][][279][Period of disqualification from driving][279]
+[125][281][][281][Period of disqualification from driving][281]
 
-[126][280][][280][Provisions of Land Transport Act 1998 apply if offender disqualified under section 124][280]
+[126][282][][282][Provisions of Land Transport Act 1998 apply if offender disqualified under section 124][282]
 
-[Confiscation of motor vehicles][281]
+[Confiscation of motor vehicles][283]
 
-[127][282][][282][Interpretation of terms used in sections 128 to 142][282]
+[127][284][][284][Interpretation of terms used in sections 128 to 142][284]
 
-[128][283][][283][Confiscation of motor vehicle][283]
+[128][285][][285][Confiscation of motor vehicle][285]
 
-[129][284][][284][Confiscation of motor vehicle after second offence][284]
+[129][286][][286][Confiscation of motor vehicle after second offence][286]
 
-[129A][285][][285][Confiscation and destruction after third illegal street racing offence][285]
+[129A][287][][287][Confiscation and destruction after third illegal street racing offence][287]
 
-[129B][286][][286][Written caution to persons with interest in motor vehicles involved in offences][286]
+[129B][288][][288][Written caution to persons with interest in motor vehicles involved in offences][288]
 
-[129C][287][][287][Review of written caution][287]
+[129C][289][][289][Review of written caution][289]
 
-[129D][288][][288][Written caution of no effect if conviction quashed][288]
+[129D][290][][290][Written caution of no effect if conviction quashed][290]
 
-[129E][289][][289][Appeal against confiscation by persons treated as substitutes][289]
+[129E][291][][291][Appeal against confiscation by persons treated as substitutes][291]
 
-[129EA][290][][290][Appeal against confiscation by third party][290]
+[129EA][292][][292][Appeal against confiscation by third party][292]
 
-[129F][291][][291][Warning notice to secured parties if confiscation not ordered for second illegal street racing offence][291]
+[129F][293][][293][Warning notice to secured parties if confiscation not ordered for second illegal street racing offence][293]
 
-[130][292][][292][Court may order declaration of ownership to be completed][292]
+[130][294][][294][Court may order declaration of ownership to be completed][294]
 
-[130A][293][][293][Court may disregard disposal of motor vehicle by person after written caution][293]
+[130A][295][][295][Court may disregard disposal of motor vehicle by person after written caution][295]
 
-[131][294][][294][If motor vehicle has been disposed of, court may prohibit offender from acquiring another motor vehicle][294]
+[131][296][][296][If motor vehicle has been disposed of, court may prohibit offender from acquiring another motor vehicle][296]
 
-[132][295][][295][Enforcement of confiscation order][295]
+[132][297][][297][Enforcement of confiscation order][297]
 
-[132A][296][][296][Offence to sell or dispose of motor vehicle subject to confiscation order][296]
+[132A][298][][298][Offence to sell or dispose of motor vehicle subject to confiscation order][298]
 
-[133][297][][297][Offence to remove confiscated vehicle][297]
+[133][299][][299][Offence to remove confiscated vehicle][299]
 
-[134][298][][298][Defect in warrant does not make action unlawful][298]
+[134][300][][300][Defect in warrant does not make action unlawful][300]
 
-[135][299][][299][Registrar may direct order to be enforced in another District Court][299]
+[135][301][][301][Registrar may direct order to be enforced in another District Court][301]
 
-[136][300][][300][Offender must not acquire new interest in motor vehicle for 12 months][300]
+[136][302][][302][Offender must not acquire new interest in motor vehicle for 12 months][302]
 
-[136A][301][][301][Registrar must apply for deregistration of motor vehicle subject to confiscation and destruction order][301]
+[136A][303][][303][Registrar must apply for deregistration of motor vehicle subject to confiscation and destruction order][303]
 
-[137][302][][302][Sale of confiscated motor vehicles][302]
+[137][304][][304][Sale of confiscated motor vehicles][304]
 
-[137A][303][][303][Certain sales conditional on dismantling and destruction][303]
+[137A][305][][305][Certain sales conditional on dismantling and destruction][305]
 
-[137B][304][][304][Failure to comply with condition to dismantle and destroy][304]
+[137B][306][][306][Failure to comply with condition to dismantle and destroy][306]
 
-[137C][305][][305][Sale of motor vehicle surrendered or recovered under section 137B][305]
+[137C][307][][307][Sale of motor vehicle surrendered or recovered under section 137B][307]
 
-[138][306][][306][Disposal of unsaleable confiscated vehicle][306]
+[138][308][][308][Disposal of unsaleable confiscated vehicle][308]
 
-[138A][307][][307][Offender liable for outstanding costs of seizure, storage, and sale][307]
+[138A][309][][309][Offender liable for outstanding costs of seizure, storage, and sale][309]
 
-[139][308][][308][Procedure if notice given that vehicle subject to security agreement][308]
+[139][310][][310][Procedure if notice given that vehicle subject to security agreement][310]
 
-[140][309][][309][Lessor may apply to Registrar][309]
+[140][311][][311][Lessor may apply to Registrar][311]
 
-[140A][310][][310][What happens if lessor does not apply to Registrar before motor vehicle sold or disposed of][310]
+[140A][312][][312][What happens if lessor does not apply to Registrar before motor vehicle sold or disposed of][312]
 
-[141][311][][311][Secured party may apply to court][311]
+[141][313][][313][Secured party may apply to court][313]
 
-[141A][312][][312][Certain payments required before transfers take effect][312]
+[141A][314][][314][Certain payments required before transfers take effect][314]
 
-[141B][313][][313][Application of proceeds of sale by secured party][313]
+[141B][315][][315][Application of proceeds of sale by secured party][315]
 
-[141C][314][][314][Failure by secured party to sell or account for proceeds][314]
+[141C][316][][316][Failure by secured party to sell or account for proceeds][316]
 
-[142][315][][315][Order may be cancelled on application by bona fide purchaser][315]
+[142][317][][317][Order may be cancelled on application by bona fide purchaser][317]
 
-[Instrument forfeiture orders][316]
+[Instrument forfeiture orders][318]
 
-[142A][317][][317][Interpretation of terms used in sections 142B to 142Q][317]
+[142A][319][][319][Interpretation of terms used in sections 142B to 142Q][319]
 
-[142B][318][][318][Duties of prosecutor if offender guilty of qualifying instrument forfeiture offence][318]
+[142B][320][][320][Duties of prosecutor if offender guilty of qualifying instrument forfeiture offence][320]
 
-[142C][319][][319][Duties of court on notification][319]
+[142C][321][][321][Duties of court on notification][321]
 
-[142D][320][][320][Notice of possible instrument forfeiture order may be recorded on registers][320]
+[142D][322][][322][Notice of possible instrument forfeiture order may be recorded on registers][322]
 
-[142E][321][][321][Duties of prosecutor as to service][321]
+[142E][323][][323][Duties of prosecutor as to service][323]
 
-[142F][322][][322][Court may require further information][322]
+[142F][324][][324][Court may require further information][324]
 
-[142G][323][][323][Independent valuation of property][323]
+[142G][325][][325][Independent valuation of property][325]
 
-[142H][324][][324][Court may order declaration of ownership to be completed][324]
+[142H][326][][326][Court may order declaration of ownership to be completed][326]
 
-[142I][325][][325][Determining ownership of property][325]
+[142I][327][][327][Determining ownership of property][327]
 
-[142J][326][][326][Applications for relief from instrument forfeiture order][326]
+[142J][328][][328][Applications for relief from instrument forfeiture order][328]
 
-[142K][327][][327][Hearings concerning instrument forfeiture orders][327]
+[142K][329][][329][Hearings concerning instrument forfeiture orders][329]
 
-[142L][328][][328][Court may grant relief from instrument forfeiture order to applicant who establishes interest in property][328]
+[142L][330][][330][Court may grant relief from instrument forfeiture order to applicant who establishes interest in property][330]
 
-[142M][329][][329][Court may grant relief from instrument forfeiture order to applicant on grounds of undue hardship][329]
+[142M][331][][331][Court may grant relief from instrument forfeiture order to applicant on grounds of undue hardship][331]
 
-[142N][330][][330][Instrument forfeiture orders][330]
+[142N][332][][332][Instrument forfeiture orders][332]
 
-[142O][331][][331][Offence of providing false or misleading information under section 142F][331]
+[142O][333][][333][Offence of providing false or misleading information under section 142F][333]
 
-[142P][332][][332][Evidence in instrument forfeiture order proceedings][332]
+[142P][334][][334][Evidence in instrument forfeiture order proceedings][334]
 
-[142Q][333][][333][Relationship with other provisions in Act][333]
+[142Q][335][][335][Relationship with other provisions in Act][335]
 
-[Subpart 6][334][---][334][Miscellaneous, transitional, and savings provisions][334]
+[Subpart 6][336][---][336][Miscellaneous, transitional, and savings provisions][336]
 
-[Miscellaneous provisions][335]
+[Miscellaneous provisions][337]
 
-[143][336][][336][Sentence not invalidated by mistake in age of offender][336]
+[143][338][][338][Sentence not invalidated by mistake in age of offender][338]
 
-[143A][337][][337][Sentencing following finding or verdict of guilt on more than 1 charge][337]
+[143A][339][][339][Sentencing following finding or verdict of guilt on more than 1 charge][339]
 
-[144][338][][338][Royal prerogative not affected][338]
+[144][340][][340][Royal prerogative not affected][340]
 
-[145][339][][339][Maximum period of detention for administrative tasks][339]
+[145][341][][341][Maximum period of detention for administrative tasks][341]
 
-[145A][340][][340][Manner in which amounts of reparation must be applied in cases involving same offence][340] \[Repealed\]
+[145A][342][][342][Manner in which amounts of reparation must be applied in cases involving same offence][342] \[Repealed\]
 
-[145B][341][][341][Manner in which amounts of reparation must be applied in cases involving different offences][341] \[Repealed\]
+[145B][343][][343][Manner in which amounts of reparation must be applied in cases involving different offences][343] \[Repealed\]
 
-[145C][342][][342][No Crown liability for error, etc, in applying payments of amounts of reparation][342] \[Repealed\]
+[145C][344][][344][No Crown liability for error, etc, in applying payments of amounts of reparation][344] \[Repealed\]
 
-[145D][343][][343][Definitions for sections 145A to 145C][343] \[Repealed\]
+[145D][345][][345][Definitions for sections 145A to 145C][345] \[Repealed\]
 
-[146][344][][344][Consent to treatment, etc, not affected][344]
+[146][346][][346][Consent to treatment, etc, not affected][346]
 
-[146A][345][][345][A certificate of conviction for succession purposes][345]
+[146A][347][][347][A certificate of conviction for succession purposes][347]
 
-[147][346][][346][Regulations][346]
+[147][348][][348][Regulations][348]
 
-[Transitional and savings provisions][347]
+[Transitional and savings provisions][349]
 
-[148][348][][348][Reparation or fine for offence committed before commencement date][348]
+[148][350][][350][Reparation or fine for offence committed before commencement date][350]
 
-[149][349][][349][Community-based sentence for offence committed before commencement date][349]
+[149][351][][351][Community-based sentence for offence committed before commencement date][351]
 
-[150][350][][350][Community-based sentences imposed under Criminal Justice Act 1985][350] \[Repealed\]
+[150][352][][352][Community-based sentences imposed under Criminal Justice Act 1985][352] \[Repealed\]
 
-[151][351][][351][Offender subject to community-based sentence under Criminal Justice Act 1985 sentenced to further community-based sentence after commencement date][351] \[Repealed\]
+[151][353][][353][Offender subject to community-based sentence under Criminal Justice Act 1985 sentenced to further community-based sentence after commencement date][353] \[Repealed\]
 
-[152][352][][352][Section 86 not to apply to offender convicted of offence committed before commencement date except for serious violent offender][352]
+[152][354][][354][Section 86 not to apply to offender convicted of offence committed before commencement date except for serious violent offender][354]
 
-[153][353][][353][Offender convicted of specified offence committed before commencement date][353]
+[153][355][][355][Offender convicted of specified offence committed before commencement date][355]
 
-[154][354][][354][Offender convicted of murder committed before commencement date][354]
+[154][356][][356][Offender convicted of murder committed before commencement date][356]
 
-[155][355][][355][Suspended sentences of imprisonment][355]
+[155][357][][357][Suspended sentences of imprisonment][357]
 
-[156][356][][356][Corrective training][356]
+[156][358][][358][Corrective training][358]
 
-[157][357][][357][Offenders liable to come up for sentence if called on][357]
+[157][359][][359][Offenders liable to come up for sentence if called on][359]
 
-[158][358][][358][Non-association orders and confiscation of vehicles for offence committed before commencement date][358]
+[158][360][][360][Non-association orders and confiscation of vehicles for offence committed before commencement date][360]
 
-[159][359][][359][Non-association orders, disqualification from driving, and confiscation of vehicles imposed under Criminal Justice Act 1985][359]
+[159][361][][361][Non-association orders, disqualification from driving, and confiscation of vehicles imposed under Criminal Justice Act 1985][361]
 
-[160][360][][360][Person under 17 years of age imprisoned][360]
+[160][362][][362][Person under 17 years of age imprisoned][362]
 
-[Subpart 7][361][---][361][Amendments to other enactments][361]
+[Subpart 7][363][---][363][Amendments to other enactments][363]
 
-[Amendments to Children, Young Persons, and Their Families Act 1989][362]
+[Amendments to Children, Young Persons, and Their Families Act 1989][364]
 
-[161][363][][363][Custody of child or young person pending hearing][363]
+[161][365][][365][Custody of child or young person pending hearing][365]
 
-[162][364][][364][Restrictions on power of court to order child or young person to be detained in custody][364]
+[162][366][][366][Restrictions on power of court to order child or young person to be detained in custody][366]
 
-[163][365][][365][New section 239A inserted][365]
+[163][367][][367][New section 239A inserted][367]
 
-[Amendments to Crimes Act 1961][366]
+[Amendments to Crimes Act 1961][368]
 
-[164][367][][367][Repeal of home invasion provisions in Crimes Act 1961][367]
+[164][369][][369][Repeal of home invasion provisions in Crimes Act 1961][369]
 
-[165][368][][368][New section 172 substituted][368]
+[165][370][][370][New section 172 substituted][370]
 
-[Amendments to Criminal Justice Act 1985][369]
+[Amendments to Criminal Justice Act 1985][371]
 
-[166][370][][370][Certain provisions in Criminal Justice Act 1985 repealed][370]
+[166][372][][372][Certain provisions in Criminal Justice Act 1985 repealed][372]
 
-[167][371][][371][Appeal against acquittal on account of insanity][371] \[Repealed\]
+[167][373][][373][Appeal against acquittal on account of insanity][373] \[Repealed\]
 
-[168][372][][372][Order to be made if person under disability or insane][372] \[Repealed\]
+[168][374][][374][Order to be made if person under disability or insane][374] \[Repealed\]
 
-[169][373][][373][Power of court to commit to institution on conviction][373] \[Repealed\]
+[169][375][][375][Power of court to commit to institution on conviction][375] \[Repealed\]
 
-[170][374][][374][Power of court to require psychiatric report][374] \[Repealed\]
+[170][376][][376][Power of court to require psychiatric report][376] \[Repealed\]
 
-[171][375][][375][Access to psychiatric reports][375] \[Repealed\]
+[171][377][][377][Access to psychiatric reports][377] \[Repealed\]
 
-[172][376][][376][Probation officers][376]
+[172][378][][378][Probation officers][378]
 
-[173][377][][377][New section 124A inserted][377]
+[173][379][][379][New section 124A inserted][379]
 
-[174][378][][378][Duties of probation officers][378]
+[174][380][][380][Duties of probation officers][380]
 
-[175][379][][379][New sections 126 and 127 substituted][379]
+[175][381][][381][New sections 126 and 127 substituted][381]
 
-[176][380][][380][New section 129 substituted][380]
+[176][382][][382][New section 129 substituted][382]
 
-[177][381][][381][Special provisions as to young persons remanded or committed for trial or sentence][381]
+[177][383][][383][Special provisions as to young persons remanded or committed for trial or sentence][383]
 
-[178][382][][382][New sections 142AA and 142AB inserted into Criminal Justice Act 1985][382]
+[178][384][][384][New sections 142AA and 142AB inserted into Criminal Justice Act 1985][384]
 
-[179][383][][383][Detention of children or young persons serving sentence of imprisonment][383]
+[179][385][][385][Detention of children or young persons serving sentence of imprisonment][385]
 
-[Amendment to District Courts Act 1947][384]
+[Amendment to District Courts Act 1947][386]
 
-[180][385][][385][Appointment and qualifications][385] \[Repealed\]
+[180][387][][387][Appointment and qualifications][387] \[Repealed\]
 
-[Amendment to Judicature Act 1908][386]
+[Amendment to Judicature Act 1908][388]
 
-[181][387][][387][Judges of the High Court][387] \[Repealed\]
+[181][389][][389][Judges of the High Court][389] \[Repealed\]
 
-[Amendments to Misuse of Drugs Amendment Act 1978][388]
+[Amendments to Misuse of Drugs Amendment Act 1978][390]
 
-[182][389][][389][Parole][389]
+[182][391][][391][Parole][391]
 
-[Amendments to Summary Proceedings Act 1957][390]
+[Amendments to Summary Proceedings Act 1957][392]
 
-[183][391][][391][Extension of time to pay][391]
+[183][393][][393][Extension of time to pay][393]
 
-[184][392][][392][Bailiff may arrange extension of time to pay][392]
+[184][394][][394][Bailiff may arrange extension of time to pay][394]
 
-[185][393][][393][Operation of attachment order][393]
+[185][395][][395][Operation of attachment order][395]
 
-[Other amendments and repeals][394]
+[Other amendments and repeals][396]
 
-[186][395][][395][Acts amended][395]
+[186][397][][397][Acts amended][397]
 
-[187][396][][396][Enactments repealed][396]
+[187][398][][398][Enactments repealed][398]
 
-[Schedule 1][397]  
-[Amendments to other enactments][397]
+[Schedule 1][399]  
+[Amendments to other enactments][399]
 
-[Schedule 2][398]  
-[Enactments repealed][398]
+[Schedule 2][400]  
+[Enactments repealed][400]
 
 ---
 
@@ -835,7 +839,7 @@ This Act is administered by the Ministry of Justice and the Department of Correc
     
 *   This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
     
-    Section 2: Sentencing Act 2002 brought into force, on 30 June 2002, by the [Sentencing Act Commencement Order 2002][399] (SR 2002/176).
+    Section 2: Sentencing Act 2002 brought into force, on 30 June 2002, by the [Sentencing Act Commencement Order 2002][401] (SR 2002/176).
 
 ## Part 1  
 Sentencing purposes and principles, and provisions of general application
@@ -864,13 +868,13 @@ Sentencing purposes and principles, and provisions of general application
     
     _community-based sentence_ has the meaning given to it in [section 44][70]
     
-    _community work centre_ means a community work centre established under [section 30][400] of the Corrections Act 2004
+    _community work centre_ means a community work centre established under [section 30][402] of the Corrections Act 2004
     
     _counsel_, in relation to any person, means a person enrolled as a barrister and solicitor of the High Court of New Zealand who is representing that person in any proceedings
     
     _court_ means any court exercising jurisdiction in criminal cases
     
-    _Crown organisation_ has the same meaning as in [section 4][401] of the Crown Organisations (Criminal Liability) Act 2002
+    _Crown organisation_ has the same meaning as in [section 4][403] of the Crown Organisations (Criminal Liability) Act 2002
     
     _curfew address_ means the address, specified by a court, where an offender must remain during the curfew period
     
@@ -884,19 +888,19 @@ Sentencing purposes and principles, and provisions of general application
     
     _District Court_ includes a Youth Court
     
-    _epidemic management notice_ means a notice under [section 8(1)][402] of the Epidemic Preparedness Act 2006 stating that the application of this Act is modified in order to deal with the practical effects of the outbreak of the disease referred to in the notice
+    _epidemic management notice_ means a notice under [section 8(1)][404] of the Epidemic Preparedness Act 2006 stating that the application of this Act is modified in order to deal with the practical effects of the outbreak of the disease referred to in the notice
     
-    _forfeiture order_ has the same meaning as in [section 5(1)][403] of the Criminal Proceeds (Recovery) Act 2009
+    _forfeiture order_ has the same meaning as in [section 5(1)][405] of the Criminal Proceeds (Recovery) Act 2009
     
     _health assessor_ means a health practitioner who---
         
-    *   (a) is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][404] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine, and who is a practising psychiatrist; or
+    *   (a) is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][406] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine, and who is a practising psychiatrist; or
     
-    *   (b) is, or is deemed to be, registered with the Psychologists Board continued by [section 114(1)(a)][404] of the Health Practitioners Act 2003 as a practitioner of the profession of psychology
+    *   (b) is, or is deemed to be, registered with the Psychologists Board continued by [section 114(1)(a)][406] of the Health Practitioners Act 2003 as a practitioner of the profession of psychology
     
     _home detention residence_ means the residence, specified by a court, where an offender sentenced to home detention serves that sentence
     
-    _hospital_ means a hospital within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][405]
+    _hospital_ means a hospital within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][407]
     
     _immediate family_, in relation to a victim,---
         
@@ -930,31 +934,31 @@ Sentencing purposes and principles, and provisions of general application
     
     _indeterminate sentence of imprisonment_ means a sentence of imprisonment for life or a sentence of preventive detention
     
-    _instrument forfeiture order_ means an instrument forfeiture order made under [section 142N][330]
+    _instrument forfeiture order_ means an instrument forfeiture order made under [section 142N][332]
     
     _instrument of crime_---
         
     *   (a) means property used (wholly or in part) to commit, or to facilitate the commission of, a qualifying instrument forfeiture offence; and
     
-    *   (b) includes, in relation to a qualifying instrument forfeiture offence that is an offence against [section 8(1) or (2A)][406] of the Terrorism Suppression Act 2002, funds (as defined in [section 4(1)][407] of that Act) allocated for the purpose of committing that offence; and
+    *   (b) includes, in relation to a qualifying instrument forfeiture offence that is an offence against [section 8(1) or (2A)][408] of the Terrorism Suppression Act 2002, funds (as defined in [section 4(1)][409] of that Act) allocated for the purpose of committing that offence; and
     
     *   (c) in relation to any property referred to in paragraphs (a) and (b), the proceeds of any disposition of that property or any other property into which that property is converted, after the commission of the qualifying instrument forfeiture offence, except to the extent provided otherwise by any order of a court under this Act or the Criminal Proceeds (Recovery) Act 2009, excluding any severable interest or granting relief
     
-    _minimum period of imprisonment_ means the period of imprisonment that the court has, under [section 86][197], [86D(4)][202], [86E(4)(a)][203], [89][211], or [103][233], ordered that an offender must serve before he or she can be released under [subpart 2][408] of Part 1 of the Parole Act 2002
+    _minimum period of imprisonment_ means the period of imprisonment that the court has, under [section 86][199], [86D(4)][204], [86E(4)(a)][205], [89][213], or [103][235], ordered that an offender must serve before he or she can be released under [subpart 2][410] of Part 1 of the Parole Act 2002
     
     _non-release day_ means a Saturday, a Sunday, Christmas Day, Boxing Day, New Year's Day, the second day of January, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, and, in respect of a particular place where an offender is serving a sentence of community detention or home detention, the anniversary day of the region in which that place is situated
     
     _offender_ includes a person who is dealt with or is liable to be dealt with for non-payment of a sum of money, disobedience of a court order, or contempt of court
     
-    _post-detention conditions_ means any standard post-detention conditions and special post-detention conditions imposed under [section 80N][162] on an offender sentenced to home detention
+    _post-detention conditions_ means any standard post-detention conditions and special post-detention conditions imposed under [section 80N][163] on an offender sentenced to home detention
     
-    _prison_ means a prison established or deemed to be established under the [Corrections Act 2004][409]
+    _prison_ means a prison established or deemed to be established under the [Corrections Act 2004][411]
     
-    _prison officer_ means an officer as defined in [section 3(1)][410] of the Corrections Act 2004
+    _prison officer_ means an officer as defined in [section 3(1)][412] of the Corrections Act 2004
     
     _probation area_ means an area designated by the chief executive of the Department of Corrections for the administration of release conditions, community-based sentences, sentences of home detention, or orders
     
-    _probation officer_ means a person appointed to be, or designated as, a probation officer under [section 24][411] of the Corrections Act 2004; and includes a person exercising only some of the functions or powers of a probation officer under that Act
+    _probation officer_ means a person appointed to be, or designated as, a probation officer under [section 24][413] of the Corrections Act 2004; and includes a person exercising only some of the functions or powers of a probation officer under that Act
     
     _qualifying instrument forfeiture offence_---
         
@@ -978,13 +982,13 @@ Sentencing purposes and principles, and provisions of general application
     
     _sentence term_, in relation to a sentence of community detention, is the period that the sentence of community detention is in force
     
-    _sentencing guidelines_ means sentencing guidelines produced by the Sentencing Council in force under the [Sentencing Council Act 2007][412]
+    _sentencing guidelines_ means sentencing guidelines produced by the Sentencing Council in force under the [Sentencing Council Act 2007][414]
     
-    _short-term sentence_ has the same meaning as in [section 4(1)][413] of the Parole Act 2002
+    _short-term sentence_ has the same meaning as in [section 4(1)][415] of the Parole Act 2002
     
-    _staff member of a prison_ means a staff member within the meaning of [section 3(1)][410] of the Corrections Act 2004
+    _staff member of a prison_ means a staff member within the meaning of [section 3(1)][412] of the Corrections Act 2004
     
-    _tainted property_ has the same meaning as in [section 5(1)][403] of the Criminal Proceeds (Recovery) Act 2009
+    _tainted property_ has the same meaning as in [section 5(1)][405] of the Criminal Proceeds (Recovery) Act 2009
     
     _trial Judge_, in relation to a District Court, means a Judge who holds a warrant under section 5B of the District Courts Act 1947 to conduct jury trials
     
@@ -1012,9 +1016,9 @@ Sentencing purposes and principles, and provisions of general application
     
     (2) For the purposes of this Act,---
         
-    *   (a) an offender is subject to a sentence of imprisonment until the sentence expires (in accordance with [sections 82][414] and [83][415] of the Parole Act 2002):
+    *   (a) an offender is subject to a sentence of imprisonment until the sentence expires (in accordance with [sections 82][416] and [83][417] of the Parole Act 2002):
     
-    *   (ab) an offender is subject to a sentence of home detention from the date the sentence commences in accordance with [section 80W][171], [80X][172], or [80Y][173] until the sentence ends in accordance with [section 80Z][174], except when the sentence is suspended under [section 80ZG(2)][181]:
+    *   (ab) an offender is subject to a sentence of home detention from the date the sentence commences in accordance with [section 80W][172], [80X][173], or [80Y][174] until the sentence ends in accordance with [section 80Z][175], except when the sentence is suspended under [section 80ZG(2)][182]:
     
     *   (b) except as provided in paragraph (c), an offender is subject to a sentence of community work from the date that the sentence commences in accordance with [section 75][140], [75A][141], or [76][143] until the date that it expires in accordance with section 75A:
     
@@ -1028,97 +1032,97 @@ Sentencing purposes and principles, and provisions of general application
     
     *   (b) to avoid doubt, does not include dealing with a person for non-payment of a sum of money, disobedience of a court order, or contempt of court.
     
-    (4) For the purposes of this Act, the offender, in the case of a Crown organisation that is charged with, or convicted of, an offence against the [Building Act 2004][416], the [Health and Safety in Employment Act 1992][417], or the [Resource Management Act 1991][418], is that Crown organisation and not the Crown.
+    (4) For the purposes of this Act, the offender, in the case of a Crown organisation that is charged with, or convicted of, an offence against the [Building Act 2004][418], the [Health and Safety in Employment Act 1992][419], or the [Resource Management Act 1991][420], is that Crown organisation and not the Crown.
     
-    Section 4(1) **community work centre**: amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 4(1) **community work centre**: amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
     
-    Section 4(1) **Crown organisation**: inserted, on 18 October 2002, by [section 28(1)][420] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
+    Section 4(1) **Crown organisation**: inserted, on 18 October 2002, by [section 28(1)][422] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
     
-    Section 4(1) **curfew address**: inserted, on 1 October 2007, by [section 4(3)][421] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 4(1) **curfew address**: inserted, on 1 October 2007, by [section 4(3)][423] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 4(1) **curfew period**: inserted, on 1 October 2007, by [section 4(3)][421] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 4(1) **curfew period**: inserted, on 1 October 2007, by [section 4(3)][423] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 4(1) **detention conditions**: inserted, on 1 October 2007, by [section 4(3)][421] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 4(1) **detention conditions**: inserted, on 1 October 2007, by [section 4(3)][423] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 4(1) **detention end date**: inserted, on 1 October 2007, by [section 4(3)][421] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 4(1) **detention end date**: inserted, on 1 October 2007, by [section 4(3)][423] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 4(1) **epidemic management notice**: inserted, on 19 December 2006, by [section 4][422] of the Sentencing Amendment Act (No 2) 2006 (2006 No 89).
+    Section 4(1) **epidemic management notice**: inserted, on 19 December 2006, by [section 4][424] of the Sentencing Amendment Act (No 2) 2006 (2006 No 89).
     
-    Section 4(1) **forfeiture order**: inserted, on 1 December 2009, by [section 6][423] of the Sentencing Amendment Act 2009 (2009 No 10).
+    Section 4(1) **forfeiture order**: inserted, on 1 December 2009, by [section 6][425] of the Sentencing Amendment Act 2009 (2009 No 10).
     
-    Section 4(1) **health assessor**: substituted, on 18 September 2004, by [section 175(1)][424] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 4(1) **health assessor**: substituted, on 18 September 2004, by [section 175(1)][426] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 4(1) **home detention**: repealed, on 1 October 2007, by [section 4(1)][421] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 4(1) **home detention**: repealed, on 1 October 2007, by [section 4(1)][423] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 4(1) **home detention residence**: inserted, on 1 October 2007, by [section 4(3)][421] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 4(1) **home detention residence**: inserted, on 1 October 2007, by [section 4(3)][423] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 4(1) **immediate family** paragraph (b): substituted, on 26 April 2005, by [section 7][425] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 4(1) **immediate family** paragraph (b): substituted, on 26 April 2005, by [section 7][427] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 4(1) **incapable** paragraph (b): amended, on 17 December 2002, by [section 53][426] of the Victims' Rights Act 2002 (2002 No 39).
+    Section 4(1) **incapable** paragraph (b): amended, on 17 December 2002, by [section 53][428] of the Victims' Rights Act 2002 (2002 No 39).
     
-    Section 4(1) **instrument forfeiture order**: inserted, on 1 December 2009, by [section 6][423] of the Sentencing Amendment Act 2009 (2009 No 10).
+    Section 4(1) **instrument forfeiture order**: inserted, on 1 December 2009, by [section 6][425] of the Sentencing Amendment Act 2009 (2009 No 10).
     
-    Section 4(1) **instrument of crime**: inserted, on 1 December 2009, by [section 6][423] of the Sentencing Amendment Act 2009 (2009 No 10).
+    Section 4(1) **instrument of crime**: inserted, on 1 December 2009, by [section 6][425] of the Sentencing Amendment Act 2009 (2009 No 10).
     
-    Section 4(1) **instrument of crime** paragraph (b): amended, on 7 July 2010, by [section 4][427] of the Sentencing Amendment Act (No 2) 2010 (2010 No 84).
+    Section 4(1) **instrument of crime** paragraph (b): amended, on 7 July 2010, by [section 4][429] of the Sentencing Amendment Act (No 2) 2010 (2010 No 84).
     
-    Section 4(1) **instrument of crime** paragraph (c): added, on 7 July 2010, by [section 4][427] of the Sentencing Amendment Act (No 2) 2010 (2010 No 84).
+    Section 4(1) **instrument of crime** paragraph (c): added, on 7 July 2010, by [section 4][429] of the Sentencing Amendment Act (No 2) 2010 (2010 No 84).
     
-    Section 4(1) **minimum period of imprisonment**: amended, on 1 June 2010, by [section 5][428] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 4(1) **minimum period of imprisonment**: amended, on 1 June 2010, by [section 5][430] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
     
-    Section 4(1) **non-release day**: inserted, on 1 October 2007, by [section 4(3)][421] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 4(1) **non-release day**: inserted, on 1 October 2007, by [section 4(3)][423] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 4(1) **penal institution**: repealed, on 1 June 2005, by [section 206][429] of the Corrections Act 2004 (2004 No 50).
+    Section 4(1) **penal institution**: repealed, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
     
-    Section 4(1) **post-detention conditions**: inserted, on 1 October 2007, by [section 4(3)][421] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 4(1) **post-detention conditions**: inserted, on 1 October 2007, by [section 4(3)][423] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 4(1) **prison**: inserted, on 1 June 2005, by [section 206][429] of the Corrections Act 2004 (2004 No 50).
+    Section 4(1) **prison**: inserted, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
     
-    Section 4(1) **prison officer**: inserted, on 18 September 2012, by [section 4][430] of the Sentencing (Aggravating Factors) Amendment Act 2012 (2012 No 74).
+    Section 4(1) **prison officer**: inserted, on 18 September 2012, by [section 4][432] of the Sentencing (Aggravating Factors) Amendment Act 2012 (2012 No 74).
     
-    Section 4(1) **probation area**: substituted, on 1 October 2007, by [section 4(2)][421] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 4(1) **probation area**: substituted, on 1 October 2007, by [section 4(2)][423] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 4(1) **probation officer**: amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 4(1) **probation officer**: amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
     
-    Section 4(1) **qualifying instrument forfeiture offence**: inserted, on 1 December 2009, by [section 6][423] of the Sentencing Amendment Act 2009 (2009 No 10).
+    Section 4(1) **qualifying instrument forfeiture offence**: inserted, on 1 December 2009, by [section 6][425] of the Sentencing Amendment Act 2009 (2009 No 10).
     
-    Section 4(1) **sentence term**: inserted, on 1 October 2007, by [section 4(3)][421] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 4(1) **sentence term**: inserted, on 1 October 2007, by [section 4(3)][423] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 4(1) **sentencing guidelines**: inserted, on 1 October 2007, by [section 4(3)][421] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 4(1) **sentencing guidelines**: inserted, on 1 October 2007, by [section 4(3)][423] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 4(1) **short-term sentence**: inserted, on 1 October 2007, by [section 4(3)][421] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 4(1) **short-term sentence**: inserted, on 1 October 2007, by [section 4(3)][423] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 4(1) **staff member of a penal institution**: repealed, on 1 June 2005, by [section 206][429] of the Corrections Act 2004 (2004 No 50).
+    Section 4(1) **staff member of a penal institution**: repealed, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
     
-    Section 4(1) **staff member of a prison**: inserted, on 1 June 2005, by [section 206][429] of the Corrections Act 2004 (2004 No 50).
+    Section 4(1) **staff member of a prison**: inserted, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
     
-    Section 4(1) **tainted property**: inserted, on 1 December 2009, by [section 6][423] of the Sentencing Amendment Act 2009 (2009 No 10).
+    Section 4(1) **tainted property**: inserted, on 1 December 2009, by [section 6][425] of the Sentencing Amendment Act 2009 (2009 No 10).
     
-    Section 4(1) **trial Judge**: replaced, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 4(1) **trial Judge**: replaced, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
     
-    Section 4(1) **victim** paragraph (a): substituted, on 17 December 2002, by [section 53][426] of the Victims' Rights Act 2002 (2002 No 39).
+    Section 4(1) **victim** paragraph (a): substituted, on 17 December 2002, by [section 53][428] of the Victims' Rights Act 2002 (2002 No 39).
     
-    Section 4(2)(ab): inserted, on 1 October 2007, by [section 4(4)][421] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 4(2)(ab): inserted, on 1 October 2007, by [section 4(4)][423] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 4(2)(b): amended, on 1 October 2007, by [section 4(5)][421] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 4(2)(b): amended, on 1 October 2007, by [section 4(5)][423] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 4(2)(ba): inserted, on 1 October 2007, by [section 4(6)][421] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 4(2)(ba): inserted, on 1 October 2007, by [section 4(6)][423] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 4(4): added, on 18 October 2002, by [section 28(2)][420] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
+    Section 4(4): added, on 18 October 2002, by [section 28(2)][422] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
     
-    Section 4(4): amended, on 1 October 2009, by [section 166][431] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 4(4): amended, on 1 October 2009, by [section 166][433] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
-    Section 4(4): amended, on 31 March 2005, by [section 414][432] of the Building Act 2004 (2004 No 72).
+    Section 4(4): amended, on 31 March 2005, by [section 414][434] of the Building Act 2004 (2004 No 72).
 
 ##### 5 Application of this Act
     
 *   (1) Except as provided in subsection (2), this Act binds the Crown.
     
-    (2) This Act does not apply to proceedings under the [Armed Forces Discipline Act 1971][433], or to proceedings on appeal from any decision under that Act, except as expressly provided in that Act.
+    (2) This Act does not apply to proceedings under the [Armed Forces Discipline Act 1971][435], or to proceedings on appeal from any decision under that Act, except as expressly provided in that Act.
     
-    (3) Subject to [section 6][8] and [sections 148 to 160][348], this Act applies to offences committed before or after the commencement date.
+    (3) Subject to [section 6][8] and [sections 148 to 160][350], this Act applies to offences committed before or after the commencement date.
     
-    Compare: 1985 No 120 [s 3][434]
+    Compare: 1985 No 120 [s 3][436]
 
 ##### 6 Penal enactments not to have retrospective effect to disadvantage of offender
     
@@ -1126,7 +1130,7 @@ Sentencing purposes and principles, and provisions of general application
     
     (2) Subsection (1) applies despite any other enactment or rule of law.
     
-    Compare: 1985 No 120 [s 4][435]
+    Compare: 1985 No 120 [s 4][437]
 
 #### Purposes and principles of sentencing
 
@@ -1178,7 +1182,7 @@ Sentencing purposes and principles, and provisions of general application
     
     *   (j) must take into account any outcomes of restorative justice processes that have occurred, or that the court is satisfied are likely to occur, in relation to the particular case (including, without limitation, anything referred to in [section 10][16]).
     
-    Section 8(g): amended, on 1 October 2007, by [section 6(2)][436] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 8(g): amended, on 1 October 2007, by [section 6(2)][438] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 9 Aggravating and mitigating factors
     
@@ -1210,11 +1214,11 @@ Sentencing purposes and principles, and provisions of general application
         
         
     
-    *   (ha) that the offence was committed as part of, or involves, a terrorist act (as defined in [section 5(1)][437] of the Terrorism Suppression Act 2002):
+    *   (ha) that the offence was committed as part of, or involves, a terrorist act (as defined in [section 5(1)][439] of the Terrorism Suppression Act 2002):
     
     *   (hb) the nature and extent of any connection between the offending and the offender's---
             
-        *   (i) participation in an organised criminal group (within the meaning of [section 98A][438] of the Crimes Act 1961); or
+        *   (i) participation in an organised criminal group (within the meaning of [section 98A][440] of the Crimes Act 1961); or
         
         *   (ii) involvement in any other form of organised criminal association:
         
@@ -1252,7 +1256,7 @@ Sentencing purposes and principles, and provisions of general application
     
     *   (g) any evidence of the offender's previous good character:
     
-    *   (h) that the offender spent time on bail with an EM condition as defined in [section 3][439] of the Bail Act 2000\.
+    *   (h) that the offender spent time on bail with an EM condition as defined in [section 3][441] of the Bail Act 2000\.
     
     (3) Despite subsection (2)(e), the court must not take into account by way of mitigation the fact that the offender was, at the time of committing the offence, affected by the voluntary consumption or use of alcohol or any drug or other substance (other than a drug or other substance used for bona fide medical purposes).
     
@@ -1276,45 +1280,45 @@ Sentencing purposes and principles, and provisions of general application
         
     *   (a) ambulance services, first aid, or medical or paramedical care:
     
-    *   (b) services provided by or on behalf of a fire brigade (as defined in [section 2(1)][440] of the Fire Service Act 1975) to save life or property.
+    *   (b) services provided by or on behalf of a fire brigade (as defined in [section 2(1)][442] of the Fire Service Act 1975) to save life or property.
     
     (5) In this section, _procedural requirement_ means a requirement imposed by or under---
         
-    *   (a) the [Criminal Procedure Act 2011][441]; or
+    *   (a) the [Criminal Procedure Act 2011][443]; or
     
     *   (b) any rules of court or regulations made under that Act; or
     
-    *   (c) the [Criminal Disclosure Act 2008][442] or any regulations made under that Act.
+    *   (c) the [Criminal Disclosure Act 2008][444] or any regulations made under that Act.
     
-    Compare: 1985 No 120 [s 12A][443]
+    Compare: 1985 No 120 [s 12A][445]
     
-    Section 9(1)(fa): inserted, on 18 September 2012, by [section 5(1)][444] of the Sentencing (Aggravating Factors) Amendment Act 2012 (2012 No 74).
+    Section 9(1)(fa): inserted, on 18 September 2012, by [section 5(1)][446] of the Sentencing (Aggravating Factors) Amendment Act 2012 (2012 No 74).
     
-    Section 9(1)(fb): inserted, on 18 September 2012, by [section 5(1)][444] of the Sentencing (Aggravating Factors) Amendment Act 2012 (2012 No 74).
+    Section 9(1)(fb): inserted, on 18 September 2012, by [section 5(1)][446] of the Sentencing (Aggravating Factors) Amendment Act 2012 (2012 No 74).
     
-    Section 9(1)(ha): inserted, on 31 October 2003, by [section 3][445] of the Sentencing Amendment Act 2003 (2003 No 109).
+    Section 9(1)(ha): inserted, on 31 October 2003, by [section 3][447] of the Sentencing Amendment Act 2003 (2003 No 109).
     
-    Section 9(1)(hb): inserted, on 1 December 2009, by [section 4][446] of the Sentencing Amendment Act (No 3) 2009 (2009 No 49).
+    Section 9(1)(hb): inserted, on 1 December 2009, by [section 4][448] of the Sentencing Amendment Act (No 3) 2009 (2009 No 49).
     
-    Section 9(1)(k): inserted, on 1 July 2013, by [section 4(1)][447] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 9(1)(k): inserted, on 1 July 2013, by [section 4(1)][449] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
     
-    Section 9(2)(fa): inserted, on 1 July 2013, by [section 4(2)][447] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 9(2)(fa): inserted, on 1 July 2013, by [section 4(2)][449] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
     
-    Section 9(2)(fb): inserted, on 1 July 2013, by [section 4(2)][447] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 9(2)(fb): inserted, on 1 July 2013, by [section 4(2)][449] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
     
-    Section 9(2)(g): amended, on 4 September 2013, by [section 42(2)][448] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 9(2)(g): amended, on 4 September 2013, by [section 42(2)][450] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 9(2)(h): inserted, on 4 September 2013, by [section 42(3)][448] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 9(2)(h): inserted, on 4 September 2013, by [section 42(3)][450] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 9(3A): inserted, on 4 September 2013, by [section 42(4)][448] of the Bail Amendment Act 2013 (2013 No 66).
+    Section 9(3A): inserted, on 4 September 2013, by [section 42(4)][450] of the Bail Amendment Act 2013 (2013 No 66).
     
-    Section 9(4A): inserted, on 18 September 2012, by [section 5(2)][444] of the Sentencing (Aggravating Factors) Amendment Act 2012 (2012 No 74).
+    Section 9(4A): inserted, on 18 September 2012, by [section 5(2)][446] of the Sentencing (Aggravating Factors) Amendment Act 2012 (2012 No 74).
     
-    Section 9(5): inserted, on 1 July 2013, by [section 4(3)][447] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 9(5): inserted, on 1 July 2013, by [section 4(3)][449] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 #### Additional aggravating factors in cases involving violence against, or neglect of, child under 14 years
     
-*   Heading: inserted, on 17 December 2008, by [section 4][449] of the Sentencing (Offences Against Children) Amendment Act 2008 (2008 No 109).
+*   Heading: inserted, on 17 December 2008, by [section 4][451] of the Sentencing (Offences Against Children) Amendment Act 2008 (2008 No 109).
 
 ##### 9A Cases involving violence against, or neglect of, child under 14 years
     
@@ -1336,7 +1340,7 @@ Sentencing purposes and principles, and provisions of general application
     
     (4) Nothing in this section implies that a factor referred to in subsection (2) must be given greater weight than any other factor that the court might take into account.
     
-    Section 9A: inserted, on 17 December 2008, by [section 4][449] of the Sentencing (Offences Against Children) Amendment Act 2008 (2008 No 109).
+    Section 9A: inserted, on 17 December 2008, by [section 4][451] of the Sentencing (Offences Against Children) Amendment Act 2008 (2008 No 109).
 
 #### Taking into account offer or agreement to make amends
 
@@ -1382,11 +1386,11 @@ Sentencing purposes and principles, and provisions of general application
     
     *   (e) any remedial action referred to in subsection (1)(e) has been completed.
     
-    Compare: 1985 No 120 [s 12][450]
+    Compare: 1985 No 120 [s 12][452]
 
 #### Hierarchy of sentences and orders
     
-*   Heading: inserted, on 1 October 2007, by [section 7][451] of the Sentencing Amendment Act 2007 (2007 No 27).
+*   Heading: inserted, on 1 October 2007, by [section 7][453] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 10A Hierarchy of sentences and orders
     
@@ -1406,11 +1410,11 @@ Sentencing purposes and principles, and provisions of general application
     
     *   (f) sentence of imprisonment.
     
-    Section 10A: inserted, on 1 October 2007, by [section 7][451] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 10A: inserted, on 1 October 2007, by [section 7][453] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 #### Taking account of instrument forfeiture order or successful application for relief
     
-*   Heading: inserted, on 1 December 2009, by [section 7][452] of the Sentencing Amendment Act 2009 (2009 No 10).
+*   Heading: inserted, on 1 December 2009, by [section 7][454] of the Sentencing Amendment Act 2009 (2009 No 10).
 
 ##### 10B Court must take into account instrument forfeiture order or successful application for relief
     
@@ -1420,7 +1424,7 @@ Sentencing purposes and principles, and provisions of general application
     
     *   (b) any forfeiture of that property by any other order or means arising from the offender's conviction:
     
-    *   (c) any order for relief made under [section 142L][328] or [142M][329] in favour of another person in respect of property used to commit, or to facilitate the commission of, the qualifying instrument forfeiture offence:
+    *   (c) any order for relief made under [section 142L][330] or [142M][331] in favour of another person in respect of property used to commit, or to facilitate the commission of, the qualifying instrument forfeiture offence:
     
     *   (d) the nature of the relationship between that person and the offender:
     
@@ -1436,23 +1440,23 @@ Sentencing purposes and principles, and provisions of general application
         
     *   (a) any property that is the subject of a forfeiture order has been surrendered to the Official Assignee; or
     
-    *   (b) any appeal or application for relief in relation to an instrument forfeiture order or any other proceeding under the [Criminal Proceeds (Recovery) Act 2009][453] has been determined.
+    *   (b) any appeal or application for relief in relation to an instrument forfeiture order or any other proceeding under the [Criminal Proceeds (Recovery) Act 2009][455] has been determined.
     
-    Section 10B: inserted, on 1 December 2009, by [section 7][452] of the Sentencing Amendment Act 2009 (2009 No 10).
+    Section 10B: inserted, on 1 December 2009, by [section 7][454] of the Sentencing Amendment Act 2009 (2009 No 10).
 
 #### General provisions about discharge without conviction, etc, and imposition of reparation, fines, community-based sentences, sentences of home detention, and imprisonment
     
-*   Heading: amended, on 1 October 2007, by [section 8][454] of the Sentencing Amendment Act 2007 (2007 No 27).
+*   Heading: amended, on 1 October 2007, by [section 8][456] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 11 Discharge or order to come up for sentence if called on
     
 *   (1) If a person who is charged with an offence is found guilty, or pleads guilty, before entering a conviction and imposing a sentence the court must consider whether the offender would be more appropriately dealt with by---
         
-    *   (a) discharging the offender without conviction under [section 106][249]; or
+    *   (a) discharging the offender without conviction under [section 106][251]; or
     
-    *   (b) convicting and discharging the offender under [section 108][251]; or
+    *   (b) convicting and discharging the offender under [section 108][253]; or
     
-    *   (c) convicting the offender and ordering the offender, under [section 110][254], to come up for sentence if called on.
+    *   (c) convicting the offender and ordering the offender, under [section 110][256], to come up for sentence if called on.
     
     (2) If any provision applicable to the particular offence in this or any other enactment provides a presumption in favour of imposing, on conviction, a sentence of imprisonment, a sentence of home detention, a community-based sentence, or a fine, then---
         
@@ -1460,29 +1464,29 @@ Sentencing purposes and principles, and provisions of general application
     
     *   (b) the court is not precluded from dealing with the offender in that manner if the court thinks that it is appropriate in the circumstances.
     
-    Section 11(2): amended, on 1 October 2007, by [section 9][455] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 11(2): amended, on 1 October 2007, by [section 9][457] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 12 Reparation
     
 *   (1) If a court is lawfully entitled under [Part 2][50] to impose a sentence or order of reparation, it must impose it unless it is satisfied that the sentence or order would result in undue hardship for the offender or the dependants of the offender, or that any other special circumstances would make it inappropriate.
     
-    (1A) When considering undue hardship or other special circumstances under subsection (1), a court must not take into account that the offender is required to pay a levy under [section 105B][238].
+    (1A) When considering undue hardship or other special circumstances under subsection (1), a court must not take into account that the offender is required to pay a levy under [section 105B][240].
     
     (2) A sentence of reparation may be imposed, in relation to any particular offence, on its own or in addition to any other sentence.
     
     (3) If a court does not impose a sentence or order of reparation in a case where it is lawfully entitled to do so, it must give reasons for not doing so.
     
-    (4) In this section, _order of reparation_ means an order under [section 106(3)(b)][249], [108(2)(b)][251], or [110(3)(b][254]).
+    (4) In this section, _order of reparation_ means an order under [section 106(3)(b)][251], [108(2)(b)][253], or [110(3)(b][256]).
     
-    Compare: 1985 No 120 [s 11][456]
+    Compare: 1985 No 120 [s 11][458]
     
-    Section 12(1): amended, on 13 February 2012, by [section 4(1)][457] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 12(1): amended, on 13 February 2012, by [section 4(1)][459] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 12(1A): inserted, on 1 July 2010, by [section 4][458] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
+    Section 12(1A): inserted, on 1 July 2010, by [section 4][460] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
     
-    Section 12(3): amended, on 13 February 2012, by [section 4(2)][457] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 12(3): amended, on 13 February 2012, by [section 4(2)][459] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 12(4): inserted, on 13 February 2012, by [section 4(3)][457] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 12(4): inserted, on 13 February 2012, by [section 4(3)][459] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 13 Sentence of fine
     
@@ -1534,7 +1538,7 @@ Sentencing purposes and principles, and provisions of general application
     
     *   (b) requires a court to impose a sentence of imprisonment in relation to a particular offence.
     
-    Section 15A: inserted, on 1 October 2007, by [section 10][459] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 15A: inserted, on 1 October 2007, by [section 10][461] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 15B Limitation on sentence of home detention for person under 17 years
     
@@ -1542,11 +1546,11 @@ Sentencing purposes and principles, and provisions of general application
     
     (2) \[Repealed\]
     
-    Section 15B: inserted, on 1 October 2007, by [section 10][459] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 15B: inserted, on 1 October 2007, by [section 10][461] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 15B(1): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 15B(1): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
     
-    Section 15B(2): repealed, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 15B(2): repealed, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ##### 16 Sentence of imprisonment
     
@@ -1566,13 +1570,13 @@ Sentencing purposes and principles, and provisions of general application
     
     *   (b) requires a court to impose a sentence of imprisonment in relation to a particular offence.
     
-    Compare: 1985 No 120 [s 7(1)][460]
+    Compare: 1985 No 120 [s 7(1)][462]
 
 ##### 17 Imprisonment may be imposed if offender unlikely to comply with other sentences
     
 *   Nothing in this Part limits the discretion of a court to impose a sentence of imprisonment on an offender if the court is satisfied on reasonable grounds that the offender is unlikely to comply with any other sentence that it could lawfully impose and that would otherwise be appropriate.
     
-    Compare: 1985 No 120 [s 9][461]
+    Compare: 1985 No 120 [s 9][463]
 
 ##### 18 Limitation on imprisonment of person under 17 years
     
@@ -1580,11 +1584,11 @@ Sentencing purposes and principles, and provisions of general application
     
     (2) \[Repealed\]
     
-    Compare: 1985 No 120 [s 8][462]
+    Compare: 1985 No 120 [s 8][464]
     
-    Section 18(1): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 18(1): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
     
-    Section 18(2): repealed, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 18(2): repealed, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 #### Permitted combinations of sentences
 
@@ -1608,7 +1612,7 @@ Sentencing purposes and principles, and provisions of general application
     
     (9) A sentence of imprisonment may be combined with a sentence of reparation or, subject to subsection (3), a fine.
     
-    Section 19: substituted, on 1 October 2007, by [section 11][463] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 19: substituted, on 1 October 2007, by [section 11][465] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 20 Guidance on use of combinations of sentences
     
@@ -1624,7 +1628,7 @@ Sentencing purposes and principles, and provisions of general application
     
     *   (b) the offender requires the imposition of standard conditions or any of the special conditions available under a sentence of supervision or intensive supervision to address the causes of his or her offending.
     
-    Section 20: substituted, on 1 October 2007, by [section 11][463] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 20: substituted, on 1 October 2007, by [section 11][465] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 21 Effect of provisions concerning multiple sentences on powers of court
     
@@ -1634,7 +1638,7 @@ Sentencing purposes and principles, and provisions of general application
     
     *   (b) limits the power of a court to make any order that it is empowered to make on the conviction of any person, whether under this or any other enactment.
     
-    Compare: 1985 No 120 [s 13(8), (9)][464]
+    Compare: 1985 No 120 [s 13(8), (9)][466]
 
 #### Provisions of general application restricting cumulative sentences
 
@@ -1642,7 +1646,7 @@ Sentencing purposes and principles, and provisions of general application
     
 *   No sentence of any kind may be imposed cumulatively on a non-association order.
     
-    Compare: 1985 No 120 [s 28B(2)][465]
+    Compare: 1985 No 120 [s 28B(2)][467]
 
 ##### 23 No sentence may be cumulative on indeterminate sentence of imprisonment
     
@@ -1684,11 +1688,11 @@ Sentencing purposes and principles, and provisions of general application
     
     *   (b) the court accepts is a fact that may, if established, have that effect on the sentence or other disposition of the case.
     
-    Section 24(1)(a): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 24(1)(a): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
     
-    Section 24(2)(b): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 24(2)(b): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
     
-    Section 24(2)(c): amended, on 7 July 2004, by [section 3][466] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 24(2)(c): amended, on 7 July 2004, by [section 3][468] of the Sentencing Amendment Act 2004 (2004 No 68).
 
 #### Sentencing procedure
 
@@ -1710,9 +1714,9 @@ Sentencing purposes and principles, and provisions of general application
     
     (2) If proceedings are adjourned under this section or under [section 10(4)][16], a Judge or Justice or Community Magistrate having jurisdiction to deal with offences of the same kind (whether or not the same Judge or Justice or Community Magistrate before whom the case was heard) may, after inquiry into the circumstances of the case, sentence or otherwise deal with the offender for the offence to which the adjournment relates.
     
-    Compare: 1985 No 120 [s 14(1), (5)][467]
+    Compare: 1985 No 120 [s 14(1), (5)][469]
     
-    Section 25(1)(da): inserted, on 1 December 2009, by [section 8][468] of the Sentencing Amendment Act 2009 (2009 No 10).
+    Section 25(1)(da): inserted, on 1 December 2009, by [section 8][470] of the Sentencing Amendment Act 2009 (2009 No 10).
 
 ##### 26 Pre-sentence reports
     
@@ -1764,15 +1768,15 @@ Sentencing purposes and principles, and provisions of general application
     
     *   (b) any alternative sentence or other mode of disposition that may be considered by the court if it appears that the sentence or other mode of disposition under consideration is inappropriate.
     
-    Compare: 1985 No 120 [s 15][469]
+    Compare: 1985 No 120 [s 15][471]
     
-    Section 26(2)(e): substituted, on 1 October 2007, by [section 13(1)][470] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 26(2)(e): substituted, on 1 October 2007, by [section 13(1)][472] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 26(2)(f): amended, on 1 October 2007, by [section 13(2)][470] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 26(2)(f): amended, on 1 October 2007, by [section 13(2)][472] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 26(2)(g): amended, on 1 October 2007, by [section 13(3)][470] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 26(2)(g): amended, on 1 October 2007, by [section 13(3)][472] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 26(2)(h): substituted, on 1 October 2007, by [section 13(4)][470] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 26(2)(h): substituted, on 1 October 2007, by [section 13(4)][472] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 26A Additional requirements when considering sentence of community detention or home detention
     
@@ -1820,7 +1824,7 @@ Sentencing purposes and principles, and provisions of general application
         
         
     
-    Section 26A: inserted, on 1 October 2007, by [section 14][471] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 26A: inserted, on 1 October 2007, by [section 14][473] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 27 Offender may request court to hear person on personal, family, whanau, community, and cultural background of offender
     
@@ -1844,7 +1848,7 @@ Sentencing purposes and principles, and provisions of general application
     
     (5) If an offender does not make a request under this section, the court may suggest to the offender that it may be of assistance to the court to hear a person or persons called by the offender on any of the matters specified in subsection (1).
     
-    Compare: 1985 No 120 [s 16][472]
+    Compare: 1985 No 120 [s 16][474]
 
 ##### 28 Disclosure of reports
     
@@ -1860,17 +1864,17 @@ Sentencing purposes and principles, and provisions of general application
     
     (4) Failure to give a copy of any report in accordance with this section does not affect the validity of the proceedings in a court or of any order made or sentence imposed by a court.
     
-    Compare: 1985 No 120 [s 17][473]
+    Compare: 1985 No 120 [s 17][475]
 
 ##### 29 Access to reports
     
-*   (1) The following persons may have access to any report submitted to a court under [section 26][43] or [section 33][54] or [section 142F][322], and held by the court:
+*   (1) The following persons may have access to any report submitted to a court under [section 26][43] or [section 33][54] or [section 142F][324], and held by the court:
         
     *   (a) the manager or other person in charge of a prison to which the offender is sent, whether during any proceedings or in accordance with any sentence imposed:
     
     *   (b) a Director of Area Mental Health Services, or a staff member of a hospital, who requires access to the report for the purposes of his or her official duties:
     
-    *   (ba) a compulsory care co-ordinator, or a staff member of a facility under the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][474], who requires access to the report for the purposes of his or her official duties:
+    *   (ba) a compulsory care co-ordinator, or a staff member of a facility under the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][476], who requires access to the report for the purposes of his or her official duties:
     
     *   (c) an officer or employee of the Department of Corrections or the Ministry of Justice, or a staff member of a prison, who requires access to the report for the purposes of his or her official duties:
     
@@ -1878,21 +1882,21 @@ Sentencing purposes and principles, and provisions of general application
     
     *   (e) the prosecutor appearing on sentence or on appeal against sentence.
     
-    (2) Despite anything in the [Official Information Act 1982][475] or the [Privacy Act 1993][476], no person may have access under either of those Acts to a report or any part of a report that a court has ordered under [section 28][46] or [section 34][55] not to be disclosed to that person.
+    (2) Despite anything in the [Official Information Act 1982][477] or the [Privacy Act 1993][478], no person may have access under either of those Acts to a report or any part of a report that a court has ordered under [section 28][46] or [section 34][55] not to be disclosed to that person.
     
-    Compare: 1985 No 120 [s 18][477]
+    Compare: 1985 No 120 [s 18][479]
     
-    Section 29(1): amended, on 1 December 2009, by [section 9][478] of the Sentencing Amendment Act 2009 (2009 No 10).
+    Section 29(1): amended, on 1 December 2009, by [section 9][480] of the Sentencing Amendment Act 2009 (2009 No 10).
     
-    Section 29(1)(a): amended, on 1 June 2005, by [section 206][429] of the Corrections Act 2004 (2004 No 50).
+    Section 29(1)(a): amended, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
     
-    Section 29(1)(b): substituted, on 1 September 2004, by [section 51][479] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 29(1)(b): substituted, on 1 September 2004, by [section 51][481] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 29(1)(ba): inserted, on 1 September 2004, by [section 51][479] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 29(1)(ba): inserted, on 1 September 2004, by [section 51][481] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 29(1)(c): amended, on 1 June 2005, by [section 206][429] of the Corrections Act 2004 (2004 No 50).
+    Section 29(1)(c): amended, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
     
-    Section 29(1)(c): amended, on 1 October 2003, pursuant to [section 14(1)][480] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 29(1)(c): amended, on 1 October 2003, pursuant to [section 14(1)][482] of the State Sector Amendment Act 2003 (2003 No 41).
 
 ##### 30 No sentence of imprisonment to be imposed without opportunity for legal representation
     
@@ -1900,7 +1904,7 @@ Sentencing purposes and principles, and provisions of general application
     
     (2) Subsection (1) does not apply if the court is satisfied that the offender---
         
-    *   (a) was informed of his or her rights relating to legal representation, including, where appropriate, the right to apply for legal aid under the [Legal Services Act 2000][481]; and
+    *   (a) was informed of his or her rights relating to legal representation, including, where appropriate, the right to apply for legal aid under the [Legal Services Act 2000][483]; and
     
     *   (b) fully understood those rights; and
     
@@ -1916,13 +1920,13 @@ Sentencing purposes and principles, and provisions of general application
     
     (4) For the purposes of this section, an offender refuses or fails to exercise his or her rights relating to legal representation if the offender---
         
-    *   (a) refuses or fails to apply for legal aid under the [Legal Services Act 2000][481] or applies for it unsuccessfully; and
+    *   (a) refuses or fails to apply for legal aid under the [Legal Services Act 2000][483] or applies for it unsuccessfully; and
     
     *   (b) refuses or fails to engage counsel by other means.
     
-    Compare: 1985 No 120 [s 10][482]
+    Compare: 1985 No 120 [s 10][484]
     
-    Section 30(3)(b): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 30(3)(b): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ##### 31 General requirement to give reasons
     
@@ -1961,15 +1965,15 @@ Sentences, orders, and related matters
     
     (4) Subsection (3) applies whether or not the right to bring proceedings or make the application has been exercised in the particular case, and whether or not any time prescribed for the exercise of that right has expired.
     
-    (5) Despite subsections (1) and (3), the court must not order the making of reparation in respect of any consequential loss or damage described in subsection (1)(c) for which the court believes that a person has entitlements under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][483].
+    (5) Despite subsections (1) and (3), the court must not order the making of reparation in respect of any consequential loss or damage described in subsection (1)(c) for which the court believes that a person has entitlements under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][485].
     
     (6) When determining the amount of reparation to be made, the court must take into account any offer, agreement, response, measure, or action as described in [section 10][16].
     
     (7) The court must not impose as part of a sentence of reparation an obligation on the offender to perform any form of work or service for the person who suffered the harm, loss, or damage.
     
-    (8) Nothing in [section 320][484] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 applies to sentencing proceedings.
+    (8) Nothing in [section 320][486] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 applies to sentencing proceedings.
     
-    Compare: 1985 No 120 [s 22(1)][485]
+    Compare: 1985 No 120 [s 22(1)][487]
 
 ##### 33 Court may order reparation report
     
@@ -1983,7 +1987,7 @@ Sentences, orders, and related matters
             
         *   (i) the nature and value of the loss or damage; and
         
-        *   (ii) the extent to which the person who suffered the loss or damage is likely to be covered by entitlements under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][483]:
+        *   (ii) the extent to which the person who suffered the loss or damage is likely to be covered by entitlements under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][485]:
         
         
     
@@ -2003,13 +2007,13 @@ Sentences, orders, and related matters
     
     (3) For the purposes of the preparation of a reparation report, a court may direct the offender to make a declaration as to his or her financial capacity in accordance with [section 42][66].
     
-    Compare: 1985 No 120 [s 22(3)][485]
+    Compare: 1985 No 120 [s 22(3)][487]
     
-    Section 33(1): amended, on 7 July 2004, by [section 4(1)][486] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 33(1): amended, on 7 July 2004, by [section 4(1)][488] of the Sentencing Amendment Act 2004 (2004 No 68).
     
-    Section 33(1)(b): amended, on 7 July 2004, by [section 4(2)(a)][486] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 33(1)(b): amended, on 7 July 2004, by [section 4(2)(a)][488] of the Sentencing Amendment Act 2004 (2004 No 68).
     
-    Section 33(1)(c)(i): amended, on 7 July 2004, by [section 4(2)(b)][486] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 33(1)(c)(i): amended, on 7 July 2004, by [section 4(2)(b)][488] of the Sentencing Amendment Act 2004 (2004 No 68).
 
 ##### 34 Reparation reports
     
@@ -2043,7 +2047,7 @@ Sentences, orders, and related matters
     
     (6) Failure to give a copy of any report in accordance with subsection (5) does not affect the validity of the proceedings in a court or of any order made or sentence imposed by a court.
     
-    Compare: 1985 No 120 [s 23][487]
+    Compare: 1985 No 120 [s 23][489]
 
 ##### 35 Taking into account financial capacity of offender
     
@@ -2063,33 +2067,33 @@ Sentences, orders, and related matters
     
     *   (c) a sentence of reparation on an offender who is subject to an earlier sentence or order of reparation or an earlier sentence of a fine, or a combination of any of those.
     
-    (3) The court must take into account that any payments received from the offender must be applied in the order of priority set out in [sections 86E to 86G][488] of the Summary Proceedings Act 1957\.
+    (3) The court must take into account that any payments received from the offender must be applied in the order of priority set out in [sections 86E to 86G][490] of the Summary Proceedings Act 1957\.
     
-    Compare: 1985 No 120 [s 22(6), (8)][485]
+    Compare: 1985 No 120 [s 22(6), (8)][487]
     
-    Section 35(2): replaced, on 13 February 2012, by [section 5][489] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 35(2): replaced, on 13 February 2012, by [section 5][491] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 35(3): replaced, on 13 February 2012, by [section 5][489] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 35(3): replaced, on 13 February 2012, by [section 5][491] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 36 Payment conditions of sentence of reparation
     
 *   (1) If a court sentences an offender to make reparation, the court may---
         
-    *   (a) make an order, under [section 81(1)(a)][490] of the Summary Proceedings Act 1957, allowing the offender greater time to pay or allowing the offender to pay by instalments, or both; or
+    *   (a) make an order, under [section 81(1)(a)][492] of the Summary Proceedings Act 1957, allowing the offender greater time to pay or allowing the offender to pay by instalments, or both; or
     
-    *   (b) make an order, under [section 83(1)][491] of the Summary Proceedings Act 1957, requiring the offender to pay immediately; or
+    *   (b) make an order, under [section 83(1)][493] of the Summary Proceedings Act 1957, requiring the offender to pay immediately; or
     
     *   (c) direct the Registrar to determine the conditions of payment of the reparation, including whether to---
             
-        *   (i) require the offender to pay the reparation immediately under [section 83(1)][491] of the Summary Proceedings Act 1957 (which applies with any necessary modifications); or
+        *   (i) require the offender to pay the reparation immediately under [section 83(1)][493] of the Summary Proceedings Act 1957 (which applies with any necessary modifications); or
         
-        *   (ii) enter into an arrangement with the offender allowing the offender greater time to pay or allowing the offender to pay by instalments, or both, under [section 86][492] of the Summary Proceedings Act 1957\.
+        *   (ii) enter into an arrangement with the offender allowing the offender greater time to pay or allowing the offender to pay by instalments, or both, under [section 86][494] of the Summary Proceedings Act 1957\.
         
         
     
-    (2) If the court does not make an order or give a direction under subsection (1), the reparation must be paid in 1 lump sum within the time allowed for the payment of fines generally by [section 80][493] of the Summary Proceedings Act 1957\.
+    (2) If the court does not make an order or give a direction under subsection (1), the reparation must be paid in 1 lump sum within the time allowed for the payment of fines generally by [section 80][495] of the Summary Proceedings Act 1957\.
     
-    Section 36: replaced, on 13 February 2012, by [section 6][494] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 36: replaced, on 13 February 2012, by [section 6][496] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 37 Copy of conditions of reparation to be given to person who suffered harm, loss, or damage
     
@@ -2097,7 +2101,7 @@ Sentences, orders, and related matters
     
     (2) Failure to give a copy of the conditions of the sentence in accordance with this section does not affect the validity of the proceedings in the court or of the sentence imposed by the court.
     
-    Compare: 1985 No 120 [s 24(c), (d)][495]
+    Compare: 1985 No 120 [s 24(c), (d)][497]
 
 ##### 38 Payment of sums to person who suffered harm, loss, or damage
     
@@ -2105,7 +2109,7 @@ Sentences, orders, and related matters
     
     (2) A sentence of reparation does not affect any right that the person who suffered the harm, loss, or damage has to recover by civil proceedings any damages in excess of the amount recovered under the sentence.
     
-    Compare: 1985 No 120 [s 24(e), (f)][495]
+    Compare: 1985 No 120 [s 24(e), (f)][497]
 
 ##### 38A Cancellation of sentence of reparation
     
@@ -2133,7 +2137,7 @@ Sentences, orders, and related matters
             
         *   (i) the ground in subsection (2) or (3) has been established; and
         
-        *   (ii) enforcement of the original sentence of reparation under [Part 3][496] of the Summary Proceedings Act 1957 (or, if applicable, under [section 19][497] of the Crimes Act 1961) is unlikely to be effective.
+        *   (ii) enforcement of the original sentence of reparation under [Part 3][498] of the Summary Proceedings Act 1957 (or, if applicable, under [section 19][499] of the Crimes Act 1961) is unlikely to be effective.
         
         
     
@@ -2157,9 +2161,9 @@ Sentences, orders, and related matters
     
     (6) If the court cancels a sentence of reparation, the amount of reparation outstanding is deemed to be remitted from the date the order is made or any other date that the court may specify.
     
-    Section 38A: inserted, on 1 August 2012, by [section 7][498] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 38A: inserted, on 1 August 2012, by [section 7][500] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 38A(4)(b)(ii): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 38A(4)(b)(ii): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 #### Fines
 
@@ -2175,15 +2179,15 @@ Sentences, orders, and related matters
     
     (4) \[Repealed\]
     
-    Compare: 1985 No 120 [s 26(1), (3)][499]
+    Compare: 1985 No 120 [s 26(1), (3)][501]
     
-    Section 39 heading: amended, on 1 October 2007, by [section 16(1)][500] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 39 heading: amended, on 1 October 2007, by [section 16(1)][502] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 39(2A): inserted, on 1 October 2007, by [section 16(2)][500] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 39(2A): inserted, on 1 October 2007, by [section 16(2)][502] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 39(3): amended, on 1 October 2007, by [section 16(3)][500] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 39(3): amended, on 1 October 2007, by [section 16(3)][502] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 39(4): repealed, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 39(4): repealed, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ##### 40 Determining amount of fine
     
@@ -2203,17 +2207,17 @@ Sentences, orders, and related matters
         
     *   (a) the amount of reparation payable; and
     
-    *   (b) that any payments received from the offender must be applied in the order of priority set out in [sections 86E to 86G][488] of the Summary Proceedings Act 1957\.
+    *   (b) that any payments received from the offender must be applied in the order of priority set out in [sections 86E to 86G][490] of the Summary Proceedings Act 1957\.
     
-    (5) When considering the financial capacity of the offender under subsection (1), the court must not take into account that the offender is required to pay a levy under [section 105B][238].
+    (5) When considering the financial capacity of the offender under subsection (1), the court must not take into account that the offender is required to pay a levy under [section 105B][240].
     
-    Compare: 1985 No 120 [ss 26(4)][499], [27][501]; Criminal Justice Act 1991 s 18 (UK)
+    Compare: 1985 No 120 [ss 26(4)][501], [27][503]; Criminal Justice Act 1991 s 18 (UK)
     
-    Section 40(4): replaced, on 13 February 2012, by [section 8][502] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 40(4): replaced, on 13 February 2012, by [section 8][504] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 40(4A): inserted, on 13 February 2012, by [section 8][502] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 40(4A): inserted, on 13 February 2012, by [section 8][504] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 40(5): inserted, on 1 July 2010, by [section 6][503] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
+    Section 40(5): inserted, on 1 July 2010, by [section 6][505] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
 
 ##### 41 Financial capacity of offender
     
@@ -2263,7 +2267,7 @@ Sentences, orders, and related matters
     
 *   A court may direct that an offender be detained in the custody of the court for a period not exceeding 2 hours for the purpose of making a declaration of financial capacity in accordance with [section 42][66].
     
-    Section 42A: inserted, on 13 February 2012, by [section 9][504] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 42A: inserted, on 13 February 2012, by [section 9][506] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 43 Offence of providing false or misleading information
     
@@ -2271,7 +2275,7 @@ Sentences, orders, and related matters
     
     Compare: Criminal Justice Act 1991 s 20(3) (UK)
     
-    Section 43: amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 43: amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ### Subpart 2---Community-based sentences
 
@@ -2289,7 +2293,7 @@ Sentences, orders, and related matters
     
     (2) In sentencing an offender to a community-based sentence, a court may have regard to the potential effect that a particular sentence may have in contributing to the development of an offender's work and living skills.
     
-    Section 44: substituted, on 1 October 2007, by [section 17][505] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 44: substituted, on 1 October 2007, by [section 17][507] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 #### Supervision
 
@@ -2307,9 +2311,9 @@ Sentences, orders, and related matters
     
     (3) This section is subject to [sections 46][73] and [47][74].
     
-    Section 45(1)(ab): inserted, on 1 October 2007, by [section 18(1)][506] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 45(1)(ab): inserted, on 1 October 2007, by [section 18(1)][508] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 45(2): amended, on 1 October 2007, by [section 18(2)][506] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 45(2): amended, on 1 October 2007, by [section 18(2)][508] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 46 Guidance on use of sentence of supervision
     
@@ -2357,9 +2361,9 @@ Sentences, orders, and related matters
     
     *   (b) in the case of an offender who is also subject to a sentence of community detention, any condition of that sentence.
     
-    Compare: 1985 No 120 [s 49][507]
+    Compare: 1985 No 120 [s 49][509]
     
-    Section 49(2): substituted, on 1 October 2007, by [section 19][508] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 49(2): substituted, on 1 October 2007, by [section 19][510] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 50 Special conditions related to programme
     
@@ -2395,7 +2399,7 @@ Sentences, orders, and related matters
         
         
     
-    Section 51: amended, on 1 October 2007, by [section 20][509] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 51: amended, on 1 October 2007, by [section 20][511] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 52 Other special conditions
     
@@ -2429,17 +2433,17 @@ Sentences, orders, and related matters
     
     (5) An offender does not breach his or her conditions for the purposes of [section 70][132] if he or she withdraws consent to taking prescription medication; but the failure to take the medication may give rise to a ground for variation or cancellation of the sentence of supervision under [section 54][81].
     
-    Section 52(2)(ba): inserted, on 1 October 2007, by [section 21(1)][510] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 52(2)(ba): inserted, on 1 October 2007, by [section 21(1)][512] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 52(3A): inserted, on 1 October 2007, by [section 21(2)][510] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 52(3A): inserted, on 1 October 2007, by [section 21(2)][512] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 52(5): amended, on 1 October 2007, by [section 21(3)][510] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 52(5): amended, on 1 October 2007, by [section 21(3)][512] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 53 Offender to be under supervision of probation officer
     
 *   An offender who is subject to a sentence of supervision must be under the supervision of a probation officer in the probation area in which the offender resides for the time being, or of any other probation officer that the chief executive of the Department of Corrections may direct.
     
-    Compare: 1985 No 120 [s 48][511]
+    Compare: 1985 No 120 [s 48][513]
 
 ##### 54 Variation or cancellation of sentence of supervision
     
@@ -2475,9 +2479,9 @@ Sentences, orders, and related matters
     
     (7) If an application is made under this section for the remission, suspension, or variation of any condition imposed by the court, a probation officer may suspend the condition until the application has been heard and disposed of.
     
-    Section 54(1)(c)(i): substituted, on 1 October 2007, by [section 22(1)][512] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 54(1)(c)(i): substituted, on 1 October 2007, by [section 22(1)][514] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 54(3)(a): substituted, on 1 October 2007, by [section 22(2)][512] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 54(3)(a): substituted, on 1 October 2007, by [section 22(2)][514] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 54A Application of section 54 during epidemic
     
@@ -2497,23 +2501,23 @@ Sentences, orders, and related matters
     
     *   (b) the date on which a probation officer rescinds the variation or suspension.
     
-    Section 54A: inserted, on 19 December 2006, by [section 5][513] of the Sentencing Amendment Act (No 2) 2006 (2006 No 89).
+    Section 54A: inserted, on 19 December 2006, by [section 5][515] of the Sentencing Amendment Act (No 2) 2006 (2006 No 89).
     
-    Section 54A(1)(a): amended, on 1 October 2007, by [section 23(1)][514] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 54A(1)(a): amended, on 1 October 2007, by [section 23(1)][516] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 54A(1)(b): amended, on 1 October 2007, by [section 23(2)][514] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 54A(1)(b): amended, on 1 October 2007, by [section 23(2)][516] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 54A(1)(b): amended, on 1 October 2007, by [section 23(3)][514] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 54A(1)(b): amended, on 1 October 2007, by [section 23(3)][516] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 54A(1)(c): added, on 1 October 2007, by [section 23(3)][514] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 54A(1)(c): added, on 1 October 2007, by [section 23(3)][516] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 54A(2): amended, on 1 October 2007, by [section 23(4)][514] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 54A(2): amended, on 1 October 2007, by [section 23(4)][516] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 54A(3): added, on 1 October 2007, by [section 23(5)][514] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 54A(3): added, on 1 October 2007, by [section 23(5)][516] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 #### Intensive supervision
     
-*   Heading: inserted, on 1 October 2007, by [section 24][515] of the Sentencing Amendment Act 2007 (2007 No 27).
+*   Heading: inserted, on 1 October 2007, by [section 24][517] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 54B Sentence of intensive supervision
     
@@ -2527,7 +2531,7 @@ Sentences, orders, and related matters
     
     (2) The sentence may be for a period, being not less than 6 months and not more than 2 years, that the court thinks fit.
     
-    Section 54B: inserted, on 1 October 2007, by [section 24][515] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 54B: inserted, on 1 October 2007, by [section 24][517] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 54C Guidance on use of sentence of intensive supervision
     
@@ -2543,13 +2547,13 @@ Sentences, orders, and related matters
         
         
     
-    Section 54C: inserted, on 1 October 2007, by [section 24][515] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 54C: inserted, on 1 October 2007, by [section 24][517] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 54D Sentences of intensive supervision in respect of 2 or more offences must be served concurrently
     
 *   If a court imposes a sentence of intensive supervision in respect of each of 2 or more offences (whether on the same occasion or on different occasions), the sentences must be served concurrently.
     
-    Section 54D: inserted, on 1 October 2007, by [section 24][515] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 54D: inserted, on 1 October 2007, by [section 24][517] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 54E Conditions of sentence of intensive supervision
     
@@ -2559,7 +2563,7 @@ Sentences, orders, and related matters
     
     *   (b) any special conditions imposed by the court under [section 54G ][89]or [54I][91].
     
-    Section 54E: inserted, on 1 October 2007, by [section 24][515] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 54E: inserted, on 1 October 2007, by [section 24][517] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 54F Standard conditions of intensive supervision
     
@@ -2597,7 +2601,7 @@ Sentences, orders, and related matters
     
     *   (b) in the case of an offender who is also subject to a sentence of community detention, any condition of that sentence.
     
-    Section 54F: inserted, on 1 October 2007, by [section 24][515] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 54F: inserted, on 1 October 2007, by [section 24][517] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 54G Special conditions related to programmes
     
@@ -2609,7 +2613,7 @@ Sentences, orders, and related matters
     
     *   (c) the offender requires a programme to reduce the likelihood of further offending by the offender through the rehabilitation and reintegration of the offender.
     
-    Section 54G: inserted, on 1 October 2007, by [section 24][515] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 54G: inserted, on 1 October 2007, by [section 24][517] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 54H Programmes
     
@@ -2633,7 +2637,7 @@ Sentences, orders, and related matters
         
         
     
-    Section 54H: inserted, on 1 October 2007, by [section 24][515] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 54H: inserted, on 1 October 2007, by [section 24][517] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 54I Other special conditions
     
@@ -2655,7 +2659,7 @@ Sentences, orders, and related matters
     
     *   (c) conditions requiring the offender to undertake training in basic work and living skills:
     
-    *   (d) a condition requiring the offender to comply with the requirements of judicial monitoring under [subpart 2B][184] as directed by a probation officer or the sentencing Judge:
+    *   (d) a condition requiring the offender to comply with the requirements of judicial monitoring under [subpart 2B][186] as directed by a probation officer or the sentencing Judge:
     
     *   (e) any other conditions that the court thinks fit to reduce the likelihood of further offending by the offender.
     
@@ -2675,13 +2679,13 @@ Sentences, orders, and related matters
     
     (6) An offender does not breach his or her conditions for the purposes of [section 70A][133] if he or she withdraws consent to taking prescription medication, but the failure to take the medication may give rise to a ground for variation or cancellation of the sentence of intensive supervision under [section 54K][93].
     
-    Section 54I: inserted, on 1 October 2007, by [section 24][515] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 54I: inserted, on 1 October 2007, by [section 24][517] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 54J Offender to be under supervision of probation officer
     
 *   An offender who is subject to a sentence of intensive supervision is under the supervision of a probation officer in the probation area in which the offender resides for the time being, or of any other probation officer that the chief executive of the Department of Corrections may direct.
     
-    Section 54J: inserted, on 1 October 2007, by [section 24][515] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 54J: inserted, on 1 October 2007, by [section 24][517] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 54K Variation or cancellation of sentence of intensive supervision
     
@@ -2717,7 +2721,7 @@ Sentences, orders, and related matters
     
     (7) If an application is made under this section for the remission, suspension, or variation of any special condition imposed by the court, a probation officer may suspend the special condition until the application has been heard and disposed of.
     
-    Section 54K: inserted, on 1 October 2007, by [section 24][515] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 54K: inserted, on 1 October 2007, by [section 24][517] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 54L Application of section 54K during epidemic
     
@@ -2737,7 +2741,7 @@ Sentences, orders, and related matters
     
     *   (b) the date on which a probation officer rescinds the variation or suspension.
     
-    Section 54L: inserted, on 1 October 2007, by [section 24][515] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 54L: inserted, on 1 October 2007, by [section 24][517] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 #### Community work
 
@@ -2755,7 +2759,7 @@ Sentences, orders, and related matters
     
     (3) This section is subject to [sections 56][97] and [57][98].
     
-    Section 55(1)(ab): inserted, on 1 October 2007, by [section 25][516] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 55(1)(ab): inserted, on 1 October 2007, by [section 25][518] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 56 Guidance on use of sentence of community work
     
@@ -2773,7 +2777,7 @@ Sentences, orders, and related matters
     
     (3) The court may assume that suitable work is available for the offender to perform under the sentence unless the court is advised otherwise by a probation officer.
     
-    Section 56(1)(a): amended, on 1 October 2007, by [section 26][517] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 56(1)(a): amended, on 1 October 2007, by [section 26][519] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 57 Concurrent and cumulative sentences of community work
     
@@ -2785,9 +2789,9 @@ Sentences, orders, and related matters
     
     (3) A sentence of community work must be served concurrently with any sentence of supervision, intensive supervision, community detention, or home detention, whether or not the sentences are imposed at the same time.
     
-    Section 57(2A): inserted, on 1 October 2007, by [section 27(1)][518] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 57(2A): inserted, on 1 October 2007, by [section 27(1)][520] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 57(3): substituted, on 1 October 2007, by [section 27(2)][518] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 57(3): substituted, on 1 October 2007, by [section 27(2)][520] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 57A Court may defer commencement date of sentence of community work
     
@@ -2797,7 +2801,7 @@ Sentences, orders, and related matters
     
     *   (b) in the case of a sentence of home detention, any conditions imposed under [section 80C][151] or [80D][152].
     
-    Section 57A: inserted, on 1 October 2007, by [section 28][519] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 57A: inserted, on 1 October 2007, by [section 28][521] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 58 Length of sentence of community work
     
@@ -2807,7 +2811,7 @@ Sentences, orders, and related matters
     
     (3) Any work done by an offender under a sentence of community work must be treated as having been done under that sentence and under any and each other concurrent sentence of community work that the offender was subject to at the time that the work was done.
     
-    Section 58: substituted, on 1 October 2007, by [section 29][520] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 58: substituted, on 1 October 2007, by [section 29][522] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 59 Offender must report to probation officer
     
@@ -2867,15 +2871,15 @@ Sentences, orders, and related matters
     
     *   (c) on any land of which the Crown or any public body is the owner or lessee or occupier, or any land that is administered by the Crown or any public body; or
     
-    *   (d) at or for any local authority (within the meaning of the [Local Government Act 2002][521]).
+    *   (d) at or for any local authority (within the meaning of the [Local Government Act 2002][523]).
     
     (2) No offender may be directed for the purposes of a sentence of community work to do any work if, in doing so, the offender would take the place of any person who would otherwise be employed in doing that work in the ordinary course of that person's paid employment.
     
-    Compare: 1985 No 120 [s 60][522]
+    Compare: 1985 No 120 [s 60][524]
     
-    Section 63(1)(c): amended, on 1 October 2007, by [section 30][523] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 63(1)(c): amended, on 1 October 2007, by [section 30][525] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 63(1)(d): added, on 1 October 2007, by [section 30][523] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 63(1)(d): added, on 1 October 2007, by [section 30][525] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 64 When community work must be done
     
@@ -2913,7 +2917,7 @@ Sentences, orders, and related matters
     
     (6) To avoid doubt, if an offender is excused under this section from reporting, that does not have the effect of remitting any of the hours of community work required to be done under the sentence.
     
-    Compare: 1985 No 120 [s 41][524]
+    Compare: 1985 No 120 [s 41][526]
 
 ##### 66A Court may authorise hours of work to be converted into training
     
@@ -2927,7 +2931,7 @@ Sentences, orders, and related matters
     
     *   (b) the need to hold the offender accountable to the community by making compensation to it.
     
-    Section 66A: inserted, on 1 October 2007, by [section 31][525] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 66A: inserted, on 1 October 2007, by [section 31][527] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 66B Some hours of work may be converted to training
     
@@ -2943,7 +2947,7 @@ Sentences, orders, and related matters
     
     (4) Subsection (3) is subject to [section 66C][111].
     
-    Section 66B: inserted, on 1 October 2007, by [section 31][525] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 66B: inserted, on 1 October 2007, by [section 31][527] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 66C Consequences of failing without excuse to complete training
     
@@ -2953,7 +2957,7 @@ Sentences, orders, and related matters
     
     *   (b) the offender must, in addition to the period spent in training, but subject to [section 67][113], undertake community work for the total number of hours ordered under the sentence.
     
-    Section 66C: inserted, on 1 October 2007, by [section 31][525] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 66C: inserted, on 1 October 2007, by [section 31][527] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 66D When hours of community work not counted
     
@@ -2961,7 +2965,7 @@ Sentences, orders, and related matters
     
     (2) The number of hours that the probation officer may refuse to treat as work undertaken under the sentence must not exceed 10% of the total number of hours under the sentence.
     
-    Section 66D: inserted, on 1 October 2007, by [section 31][525] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 66D: inserted, on 1 October 2007, by [section 31][527] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 67 Remission of sentence of community work
     
@@ -2977,7 +2981,7 @@ Sentences, orders, and related matters
     
     (2) This section does not give any offender a right to a remission.
     
-    Section 67A: inserted, on 19 December 2006, by [section 6][526] of the Sentencing Amendment Act (No 2) 2006 (2006 No 89).
+    Section 67A: inserted, on 19 December 2006, by [section 6][528] of the Sentencing Amendment Act (No 2) 2006 (2006 No 89).
 
 ##### 68 Variation or cancellation of sentence of community work
     
@@ -3021,13 +3025,13 @@ Sentences, orders, and related matters
     
     (2) This section does not give any offender a right to an extension.
     
-    Section 69A: inserted, on 19 December 2006, by [section 7][527] of the Sentencing Amendment Act (No 2) 2006 (2006 No 89).
+    Section 69A: inserted, on 19 December 2006, by [section 7][529] of the Sentencing Amendment Act (No 2) 2006 (2006 No 89).
     
-    Section 69A(1): amended, on 1 October 2007, by [section 32][528] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 69A(1): amended, on 1 October 2007, by [section 32][530] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 #### Community detention
     
-*   Heading: inserted, on 1 October 2007, by [section 33][529] of the Sentencing Amendment Act 2007 (2007 No 27).
+*   Heading: inserted, on 1 October 2007, by [section 33][531] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 69B Sentence of community detention
     
@@ -3047,7 +3051,7 @@ Sentences, orders, and related matters
     
     (5) An offender is not in custody during the curfew period.
     
-    Section 69B: inserted, on 1 October 2007, by [section 33][529] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 69B: inserted, on 1 October 2007, by [section 33][531] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 69C Guidance on use of sentence of community detention
     
@@ -3085,7 +3089,7 @@ Sentences, orders, and related matters
     
     *   (b) the proposed curfew address is in an area in which a community detention scheme is operated by the chief executive of the Department of Corrections.
     
-    Section 69C: inserted, on 1 October 2007, by [section 33][529] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 69C: inserted, on 1 October 2007, by [section 33][531] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 69D Concurrent and cumulative sentences of community detention
     
@@ -3095,7 +3099,7 @@ Sentences, orders, and related matters
     
     (3) If a court imposes a sentence of community work and a sentence of community detention, or imposes one of them on an offender who is already subject to the other, the sentences must be served concurrently.
     
-    Section 69D: inserted, on 1 October 2007, by [section 33][529] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 69D: inserted, on 1 October 2007, by [section 33][531] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 69E Conditions of community detention during sentence term
     
@@ -3141,9 +3145,9 @@ Sentences, orders, and related matters
     
     (4) A probation officer may approve an alternative curfew address under [section 69K][128], pending determination of an application to vary the curfew address under [section 69I][126].
     
-    Section 69E: inserted, on 1 October 2007, by [section 33][529] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 69E: inserted, on 1 October 2007, by [section 33][531] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 69E(1)(d): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][530] of the Policing Act 2008 (2008 No 72)
+    Section 69E(1)(d): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][532] of the Policing Act 2008 (2008 No 72)
 
 ##### 69F Electronic monitoring
     
@@ -3163,7 +3167,7 @@ Sentences, orders, and related matters
     
     (4) Any information obtained by electronic monitoring outside the curfew period must be destroyed as soon as practicable.
     
-    Section 69F: inserted, on 1 October 2007, by [section 33][529] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 69F: inserted, on 1 October 2007, by [section 33][531] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 69G Offence to breach conditions of community detention
     
@@ -3173,9 +3177,9 @@ Sentences, orders, and related matters
     
     *   (b) fails, without reasonable excuse, to report when required to do so under [section 78][145] or [80][147].
     
-    Section 69G: inserted, on 1 October 2007, by [section 33][529] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 69G: inserted, on 1 October 2007, by [section 33][531] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 69G: amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 69G: amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ##### 69H Offence to refuse entry to community detention curfew address
     
@@ -3191,11 +3195,11 @@ Sentences, orders, and related matters
     
     *   (c) is authorised in writing by a probation officer and has produced that written authority to an occupant of the residence.
     
-    Section 69H: inserted, on 1 October 2007, by [section 33][529] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 69H: inserted, on 1 October 2007, by [section 33][531] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 69H(1): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 69H(1): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
     
-    Section 69H(2): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 69H(2): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ##### 69I Variation or cancellation of sentence of community detention
     
@@ -3231,7 +3235,7 @@ Sentences, orders, and related matters
     
     (6) If an application is made under this section for the suspension or variation of the curfew period, a probation officer may suspend the curfew period until the application has been heard and disposed of.
     
-    Section 69I: inserted, on 1 October 2007, by [section 33][529] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 69I: inserted, on 1 October 2007, by [section 33][531] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 69J Application of section 69I during epidemic
     
@@ -3251,7 +3255,7 @@ Sentences, orders, and related matters
     
     *   (b) the date on which a probation officer rescinds the variation or suspension.
     
-    Section 69J: inserted, on 1 October 2007, by [section 33][529] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 69J: inserted, on 1 October 2007, by [section 33][531] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 69K Alternative curfew address pending determination of application under section 69I
     
@@ -3265,19 +3269,19 @@ Sentences, orders, and related matters
     
     (5) If, in the opinion of the probation officer, there is no suitable alternative curfew address available and the probation officer has not made an application under [section 69I][126], the probation officer must make an application to the court under that section at the earliest opportunity.
     
-    Section 69K: inserted, on 1 October 2007, by [section 33][529] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 69K: inserted, on 1 October 2007, by [section 33][531] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 69L When sentence ends on non-release day
     
 *   If the last day of an offender's sentence of community detention falls on a non-release day, the offender ceases to be subject to the sentence on the nearest preceding day that is not a non-release day.
     
-    Section 69L: inserted, on 1 October 2007, by [section 33][529] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 69L: inserted, on 1 October 2007, by [section 33][531] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 69M Community detention does not affect entitlements under Social Security Act 1964
     
-*   The fact that a person is serving a sentence of community detention does not, of itself, affect any entitlement the person may have under the [Social Security Act 1964][531].
+*   The fact that a person is serving a sentence of community detention does not, of itself, affect any entitlement the person may have under the [Social Security Act 1964][533].
     
-    Section 69M: inserted, on 1 October 2007, by [section 33][529] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 69M: inserted, on 1 October 2007, by [section 33][531] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 #### Offences related to community-based sentences
 
@@ -3289,9 +3293,9 @@ Sentences, orders, and related matters
     
     *   (b) fails, without reasonable excuse, to report when required to do so under [section 78][145] or [section 80][147].
     
-    Compare: 1985 No 120 [s 52(1)][532]
+    Compare: 1985 No 120 [s 52(1)][534]
     
-    Section 70: amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 70: amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ##### 70A Offence to breach conditions of intensive supervision
     
@@ -3301,9 +3305,9 @@ Sentences, orders, and related matters
     
     *   (b) fails, without reasonable excuse, to report when required to do so under [section 78][145] or [80][147].
     
-    Section 70A: inserted, on 1 October 2007, by [section 34][533] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 70A: inserted, on 1 October 2007, by [section 34][535] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 70A: amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 70A: amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ##### 71 Offences relating to breach of sentence of community work
     
@@ -3337,19 +3341,19 @@ Sentences, orders, and related matters
     
     (2) A person commits an offence, and is liable on conviction to a fine not exceeding $500, who, without lawful justification or excuse, loiters about any community work centre or any place where persons sentenced to community work are placed, and refuses or neglects to depart after being warned by a constable or by a probation officer.
     
-    Compare: 1985 No 120 [ss 36][534], [45][535]
+    Compare: 1985 No 120 [ss 36][536], [45][537]
     
-    Section 71(1): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 71(1): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
     
-    Section 71(1)(d): amended, on 1 October 2007, by [section 35][536] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 71(1)(d): amended, on 1 October 2007, by [section 35][538] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 71(2): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 71(2): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
     
-    Section 71(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][530] of the Policing Act 2008 (2008 No 72).
+    Section 71(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][532] of the Policing Act 2008 (2008 No 72).
 
 #### Review of community-based sentences and cancellation of sentences of reparation
     
-*   Heading: amended, on 1 August 2012, by [section 10(1)][537] of the Sentencing Amendment Act 2011 (2011 No 47).
+*   Heading: amended, on 1 August 2012, by [section 10(1)][539] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 72 Jurisdiction and procedure
     
@@ -3385,57 +3389,57 @@ Sentences, orders, and related matters
     
     *   (c) on the chief executive of the Department of Corrections, if a probation officer is not the applicant under [section 54][81], [54K][93], [68][115], or [69I][126].
     
-    (2A) An application under [section 38A][60] must be served in accordance with [section 79A][538] or [79B][539] of the Summary Proceedings Act 1957\.
+    (2A) An application under [section 38A][60] must be served in accordance with [section 79A][540] or [79B][541] of the Summary Proceedings Act 1957\.
     
     (2B) If an application under [section 38A][60] has been lodged in a court by a Registrar, the Registrar may, for the purpose of having the offender brought before the court dealing with the application, issue a warrant for the arrest of the offender.
     
-    (2C) [Sections 88AA][540] and [88AC][541] of the Summary Proceedings Act 1957 apply with any necessary modifications to a warrant to arrest issued under subsection (2B).
+    (2C) [Sections 88AA][542] and [88AC][543] of the Summary Proceedings Act 1957 apply with any necessary modifications to a warrant to arrest issued under subsection (2B).
     
-    (2D) For the purposes of [sections 280C to 280F][542] of the Customs and Excise Act 1996 and [sections 295 to 297][543] of the Immigration Act 2009, a warrant for the arrest of the offender issued under subsection (2B) is to be treated as a warrant for arrest that has been issued in respect of the non-payment of the whole, or of any part, of a fine.
+    (2D) For the purposes of [sections 280C to 280F][544] of the Customs and Excise Act 1996 and [sections 295 to 297][545] of the Immigration Act 2009, a warrant for the arrest of the offender issued under subsection (2B) is to be treated as a warrant for arrest that has been issued in respect of the non-payment of the whole, or of any part, of a fine.
     
     (3) If an application under [section 54][81], [54K][93], [68][115], or [69I][126] has been lodged in a court by a probation officer, a probation officer or a constable may, for the purpose of having the offender brought before the court dealing with the application, apply to a court for the issue of a warrant to arrest the offender.
     
     (4) No warrant issued under subsection (3) may be executed otherwise than by a constable.
     
-    (5) If an offender is arrested under a warrant issued under subsection (3), [sections 167 to 170][544], [206][545], and [385][546] of the Criminal Procedure Act 2011, so far as they are applicable and with any necessary modifications, apply as if the application were a charging document.
+    (5) If an offender is arrested under a warrant issued under subsection (3), [sections 167 to 170][546], [206][547], and [385][548] of the Criminal Procedure Act 2011, so far as they are applicable and with any necessary modifications, apply as if the application were a charging document.
     
-    Compare: 1985 No 120 [s 65][547]
+    Compare: 1985 No 120 [s 65][549]
     
-    Section 72(1): amended, on 1 August 2012, by [section 10(2)][537] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 72(1): amended, on 1 August 2012, by [section 10(2)][539] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 72(1): amended, on 1 October 2007, by [section 36(1)][548] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 72(1): amended, on 1 October 2007, by [section 36(1)][550] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 72(1)(a)(ia): inserted, on 1 January 2004, by [section 48(1)][549] of the Supreme Court Act 2003 (2003 No 53).
+    Section 72(1)(a)(ia): inserted, on 1 January 2004, by [section 48(1)][551] of the Supreme Court Act 2003 (2003 No 53).
     
-    Section 72(1)(b)(ia): inserted, on 1 January 2004, by [section 48(1)][549] of the Supreme Court Act 2003 (2003 No 53).
+    Section 72(1)(b)(ia): inserted, on 1 January 2004, by [section 48(1)][551] of the Supreme Court Act 2003 (2003 No 53).
     
-    Section 72(1)(b)(ii): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 72(1)(b)(ii): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
     
-    Section 72(2)(b): replaced, on 1 August 2012, by [section 10(3)][537] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 72(2)(b): replaced, on 1 August 2012, by [section 10(3)][539] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 72(2)(c): inserted, on 1 August 2012, by [section 10(3)][537] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 72(2)(c): inserted, on 1 August 2012, by [section 10(3)][539] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 72(2A): inserted, on 1 August 2012, by [section 10(4)][537] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 72(2A): inserted, on 1 August 2012, by [section 10(4)][539] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 72(2B): inserted, on 1 August 2012, by [section 10(4)][537] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 72(2B): inserted, on 1 August 2012, by [section 10(4)][539] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 72(2C): inserted, on 1 August 2012, by [section 10(4)][537] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 72(2C): inserted, on 1 August 2012, by [section 10(4)][539] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 72(2D): inserted, on 1 August 2012, by [section 10(4)][537] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 72(2D): inserted, on 1 August 2012, by [section 10(4)][539] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 72(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][530] of the Policing Act 2008 (2008 No 72).
+    Section 72(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][532] of the Policing Act 2008 (2008 No 72).
     
-    Section 72(3): amended, on 1 October 2007, by [section 36(2)][548] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 72(3): amended, on 1 October 2007, by [section 36(2)][550] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 72(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][530] of the Policing Act 2008 (2008 No 72).
+    Section 72(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][532] of the Policing Act 2008 (2008 No 72).
     
-    Section 72(5): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 72(5): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ##### 73 Appeal in respect of substituted sentence
     
 *   For the purposes of any appeal or application for leave to appeal, a sentence substituted for a community-based sentence imposed on the conviction of the offender on a charge is deemed to be a sentence imposed on the conviction of the offender on that charge.
     
-    Section 73: replaced, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 73: replaced, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 #### Miscellaneous provisions
 
@@ -3473,9 +3477,9 @@ Sentences, orders, and related matters
     
     (6) A copy of the order must be given to the chief executive of the Department of Corrections as soon as possible after it is drawn up.
     
-    Compare: 1985 No 120 [s 58][550]
+    Compare: 1985 No 120 [s 58][552]
     
-    Section 74(3A): inserted, on 1 October 2007, by [section 37][551] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 74(3A): inserted, on 1 October 2007, by [section 37][553] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 75 Commencement of community-based sentences
     
@@ -3483,7 +3487,7 @@ Sentences, orders, and related matters
     
     (2) Subsection (1) applies---
         
-    *   (a) subject to [sections 75A][141] and [75B][142] and to [sections 345][552] and[346][553] of the Criminal Procedure Act 2011; and
+    *   (a) subject to [sections 75A][141] and [75B][142] and to [sections 345][554] and[346][555] of the Criminal Procedure Act 2011; and
     
     *   (b) regardless of whether or not the sentence is imposed in substitution for another sentence.
     
@@ -3501,23 +3505,23 @@ Sentences, orders, and related matters
     
     (8) \[Repealed\]
     
-    Section 75(2)(a): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 75(2)(a): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
     
-    Section 75(2)(a): amended, on 1 October 2007, by [section 38(1)][554] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 75(2)(a): amended, on 1 October 2007, by [section 38(1)][556] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 75(2A): inserted, on 1 October 2007, by [section 38(2)][554] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 75(2A): inserted, on 1 October 2007, by [section 38(2)][556] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 75(3): repealed, on 1 October 2007, by [section 38(3)][554] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 75(3): repealed, on 1 October 2007, by [section 38(3)][556] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 75(4): repealed, on 1 October 2007, by [section 38(3)][554] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 75(4): repealed, on 1 October 2007, by [section 38(3)][556] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 75(5): repealed, on 1 October 2007, by [section 38(3)][554] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 75(5): repealed, on 1 October 2007, by [section 38(3)][556] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 75(6): repealed, on 1 October 2007, by [section 38(3)][554] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 75(6): repealed, on 1 October 2007, by [section 38(3)][556] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 75(7): repealed, on 1 October 2007, by [section 38(3)][554] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 75(7): repealed, on 1 October 2007, by [section 38(3)][556] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 75(8): repealed, on 1 October 2007, by [section 38(3)][554] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 75(8): repealed, on 1 October 2007, by [section 38(3)][556] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 75A Commencement of cumulative sentences of community work
     
@@ -3545,7 +3549,7 @@ Sentences, orders, and related matters
     
     (6) A sentence of community work expires on the date that the offender completes the hours of work required under the sentence (taking into account any hours remitted under [section 67][113]), whether or not the period of time allowed under [section 58][100] or any extended period granted under [section 69][116] or [69A][117] has expired.
     
-    Section 75A: inserted, on 1 October 2007, by [section 39][555] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 75A: inserted, on 1 October 2007, by [section 39][557] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 75B Commencement of cumulative sentences of community detention
     
@@ -3571,15 +3575,15 @@ Sentences, orders, and related matters
     
     *   (b) to avoid doubt, any period during which the offender was subject to the cancelled sentence must not be treated as having been served under the subsequent sentence.
     
-    Section 75B: inserted, on 1 October 2007, by [section 39][555] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 75B: inserted, on 1 October 2007, by [section 39][557] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 76 Commencement of community-based sentence after temporary surrender under Extradition Act 1999
     
-*   (1) This section applies if an offender is temporarily surrendered to New Zealand under the [Extradition Act 1999][556] and---
+*   (1) This section applies if an offender is temporarily surrendered to New Zealand under the [Extradition Act 1999][558] and---
         
     *   (a) is convicted and sentenced under this Act to a community-based sentence; and
     
-    *   (b) is required to be returned in accordance with [section 66(2)][557] of the Extradition Act 1999 to the country from where the offender was surrendered on completion of the proceedings to which the extradition related.
+    *   (b) is required to be returned in accordance with [section 66(2)][559] of the Extradition Act 1999 to the country from where the offender was surrendered on completion of the proceedings to which the extradition related.
     
     (2) Unless the court otherwise directs, the sentence imposed does not commence until the offender has reported to a probation officer after being returned to New Zealand.
     
@@ -3589,19 +3593,19 @@ Sentences, orders, and related matters
     
     (4) This section applies despite any other provisions in this Act.
     
-    Compare: 1985 No 120 [s 59A][558]
+    Compare: 1985 No 120 [s 59A][560]
     
-    Section 76(3): substituted, on 1 October 2007, by [section 40][559] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 76(3): substituted, on 1 October 2007, by [section 40][561] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 76(3A): inserted, on 1 October 2007, by [section 40][559] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 76(3A): inserted, on 1 October 2007, by [section 40][561] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 77 Application of Injury Prevention, Rehabilitation, and Compensation Act 2001 to persons serving community-based sentence
     
 *   When an offender performs any service or does any work or attends any course or programme for the purposes of a community-based sentence, the following provisions apply:
         
-    *   (a) if the offender suffers any personal injury for which he or she has cover under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][483] arising out of and in the course of performing the activities described above,---
+    *   (a) if the offender suffers any personal injury for which he or she has cover under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][485] arising out of and in the course of performing the activities described above,---
             
-        *   (i) the personal injury is deemed, for the purposes of [section 97][560] of that Act only, to be a work-related personal injury; and
+        *   (i) the personal injury is deemed, for the purposes of [section 97][562] of that Act only, to be a work-related personal injury; and
         
         *   (ii) the Crown is liable to pay compensation to which the offender is entitled under that section:
         
@@ -3609,7 +3613,7 @@ Sentences, orders, and related matters
     
     *   (b) the cost of all other entitlements of the offender under that Act must be met from the Earners' Account in the case of an offender who is an earner and from the Non-Earners' Account in all other cases.
     
-    Compare: 1985 No 120 [s 62][561]
+    Compare: 1985 No 120 [s 62][563]
 
 ##### 78 Effect of subsequent sentence of imprisonment
     
@@ -3653,13 +3657,13 @@ Sentences, orders, and related matters
     
     (7) If this subsection applies, the community-based sentence is suspended.
     
-    Section 78(4): amended, on 1 October 2007, by [section 41(1)][562] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 78(4): amended, on 1 October 2007, by [section 41(1)][564] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 78(5)(a): substituted, on 1 October 2007, by [section 41(2)][562] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 78(5)(a): substituted, on 1 October 2007, by [section 41(2)][564] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 78(5)(b): substituted, on 1 October 2007, by [section 41(2)][562] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 78(5)(b): substituted, on 1 October 2007, by [section 41(2)][564] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 78(5)(c): added, on 1 October 2007, by [section 41(2)][562] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 78(5)(c): added, on 1 October 2007, by [section 41(2)][564] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 79 Period of suspension not counted towards sentence
     
@@ -3671,9 +3675,9 @@ Sentences, orders, and related matters
     
     (4) No period during which a sentence of community detention is suspended under [section 78(2) or (7)][145] is counted towards the period under [section 69B(2)][119].
     
-    Section 79(3): added, on 1 October 2007, by [section 42][563] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 79(3): added, on 1 October 2007, by [section 42][565] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 79(4): added, on 1 October 2007, by [section 42][563] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 79(4): added, on 1 October 2007, by [section 42][565] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80 Resumption of community-based sentence if sentence of imprisonment quashed
     
@@ -3697,15 +3701,15 @@ Sentences, orders, and related matters
     
     (5) If the community-based sentence never resumes under subsection (3), it is cancelled when the offender ceases to be detained under the sentence or sentences of imprisonment.
     
-    Section 80(3)(a): substituted, on 1 October 2007, by [section 43][564] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80(3)(a): substituted, on 1 October 2007, by [section 43][566] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 80(3)(b): substituted, on 1 October 2007, by [section 43][564] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80(3)(b): substituted, on 1 October 2007, by [section 43][566] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 80(3)(c): added, on 1 October 2007, by [section 43][564] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80(3)(c): added, on 1 October 2007, by [section 43][566] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ### Subpart 2A---Home detention
     
-*   Subpart 2A: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+*   Subpart 2A: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80A Sentence of home detention
     
@@ -3745,7 +3749,7 @@ Sentences, orders, and related matters
     
     (6) This section is subject to [section 80B][150].
     
-    Section 80A: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80A: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80B Concurrent and cumulative sentences of home detention
     
@@ -3753,11 +3757,11 @@ Sentences, orders, and related matters
     
     (2) If a court imposes cumulative sentences of home detention or imposes 1 or more sentences of home detention on an offender who is already serving a sentence of home detention, the total term of the sentences of home detention must not be more than 12 months.
     
-    (3) Before deciding to impose 2 or more sentences of home detention cumulatively or concurrently, the court must consider the guidance under [sections 84][194] and [85][195] as if it applied to sentences of home detention.
+    (3) Before deciding to impose 2 or more sentences of home detention cumulatively or concurrently, the court must consider the guidance under [sections 84][196] and [85][197] as if it applied to sentences of home detention.
     
     (4) Subject to [section 57A][99], if a court imposes a sentence of community work and a sentence of home detention, or imposes one of them on an offender who is already subject to the other, the sentences must be served concurrently.
     
-    Section 80B: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80B: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80C Detention conditions applying to offender sentenced to home detention
     
@@ -3773,7 +3777,7 @@ Sentences, orders, and related matters
     
     *   (b) the offender must not leave the home detention residence at any time except in the circumstances set out in subsections (3), (4), and (5); and
     
-    *   (c) the offender must keep in his or her possession the order drawn up under [section 80ZC][177] and, if requested to do so by a constable or a probation officer, must produce the order for inspection; and
+    *   (c) the offender must keep in his or her possession the order drawn up under [section 80ZC][178] and, if requested to do so by a constable or a probation officer, must produce the order for inspection; and
     
     *   (d) the offender must, when required by a probation officer, submit to the electronic monitoring of compliance with his or her detention conditions; and
     
@@ -3815,9 +3819,9 @@ Sentences, orders, and related matters
     
     *   (b) three quarters of the notional single sentence of home detention that is created when sentences of home detention are ordered to be served concurrently or cumulatively.
     
-    Section 80C: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80C: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 80C(2)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][530] of the Policing Act 2008 (2008 No 72).
+    Section 80C(2)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][532] of the Policing Act 2008 (2008 No 72).
 
 ##### 80D Special conditions of sentence of home detention
     
@@ -3841,7 +3845,7 @@ Sentences, orders, and related matters
     
     *   (c) conditions relating to a programme:
     
-    *   (d) a condition requiring the offender to comply with the requirements of judicial monitoring under [subpart 2B][184] as directed by a probation officer or the sentencing Judge:
+    *   (d) a condition requiring the offender to comply with the requirements of judicial monitoring under [subpart 2B][186] as directed by a probation officer or the sentencing Judge:
     
     *   (e) any other conditions that the court thinks fit to reduce the likelihood of further offending by the offender.
     
@@ -3859,9 +3863,9 @@ Sentences, orders, and related matters
     
     *   (b) consents to taking the prescription medication.
     
-    (8) An offender does not breach his or her detention conditions for the purposes of [section 80S][167] if he or she withdraws consent to taking prescription medication; but the failure to take the medication may give rise to a ground for variation or cancellation of the sentence of home detention under [section 80F][154].
+    (8) An offender does not breach his or her detention conditions for the purposes of [section 80S][168] if he or she withdraws consent to taking prescription medication; but the failure to take the medication may give rise to a ground for variation or cancellation of the sentence of home detention under [section 80F][154].
     
-    Section 80D: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80D: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80E Electronic monitoring
     
@@ -3877,7 +3881,7 @@ Sentences, orders, and related matters
     
     *   (d) to verify that the offender has not tampered or otherwise interfered with the ability of the electronic monitoring equipment to operate effectively and accurately.
     
-    Section 80E: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80E: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80F Application for variation or cancellation of sentence of home detention
     
@@ -3919,7 +3923,7 @@ Sentences, orders, and related matters
     
     (6) [Section 72][136] applies, with any necessary modifications, to an application under this section.
     
-    Section 80F: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80F: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80G Matters relating to orders under section 80F
     
@@ -3933,7 +3937,7 @@ Sentences, orders, and related matters
     
     (5) If an application is made under [section 80F][154] for the remission, suspension, or variation of any special condition of a sentence of home detention, a probation officer may suspend the condition until the application has been heard and disposed of.
     
-    Section 80G: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80G: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80H Alternative residence pending determination of application under section 80F
     
@@ -3947,7 +3951,7 @@ Sentences, orders, and related matters
     
     (5) If, in the opinion of the probation officer, there is no suitable alternative residence available and the probation officer has not made an application under [section 80F][154], the probation officer must make an application to the court under that section at the earliest opportunity.
     
-    Section 80H: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80H: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80I Leave to apply for cancellation of sentence of imprisonment and substitution of sentence of home detention in certain cases
     
@@ -3959,17 +3963,17 @@ Sentences, orders, and related matters
     
     (2) At the time of sentencing, the court must make an order granting the offender leave to apply to the court of first instance for cancellation of the sentence of imprisonment and substitution of a sentence of home detention if the offender finds a suitable residence at a later date.
     
-    Section 80I: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80I: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80J Appeal against order granting leave to apply for cancellation of sentence of imprisonment and substitution of sentence of home detention
     
 *   (1) This section applies for the purposes of filing and determining any appeal against an order granting leave, or a refusal of the court to grant leave, under [section 80I][157] or [80K(7)][159].
     
-    (2) For the purposes of [Part 6][566] of the Criminal Procedure Act 2011, an order under [section 80I][157] or [80K(7)][159] is a sentence.
+    (2) For the purposes of [Part 6][568] of the Criminal Procedure Act 2011, an order under [section 80I][157] or [80K(7)][159] is a sentence.
     
-    Section 80J: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80J: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 80J(2): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 80J(2): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ##### 80K Application for cancellation of sentence of imprisonment and substitution of sentence of home detention
     
@@ -3993,7 +3997,7 @@ Sentences, orders, and related matters
     
     (8) A sentence of imprisonment that is cancelled under this section is a custodial sentence for the purposes of any other enactment.
     
-    Section 80K: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80K: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80L Updated pre-sentence report
     
@@ -4001,7 +4005,7 @@ Sentences, orders, and related matters
     
     (2) If an offender agrees to a probation officer updating the offender's pre-sentence report under subsection (1), the probation officer must update the report in accordance with [section 26A][44].
     
-    Section 80L: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80L: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80M Appeals in respect of substituted sentences
     
@@ -4013,9 +4017,19 @@ Sentences, orders, and related matters
     
     (2) For the purposes of any appeal or application for leave to appeal against the substituted sentence, a sentence substituted for a sentence imposed on the conviction of the offender on a charge is deemed to be a sentence imposed on the conviction of the offender on that charge.
     
-    Section 80M: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80M: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 80M(2): replaced, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 80M(2): replaced, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+
+##### 80MA Registrar must notify controlling officer and offender of resumption of sentence
+    
+*   If the outcome of an offender's appeal against a sentence of home detention is unsuccessful and the offender has been granted bail under [section 53][569], [54][570], or [55][571] of the Bail Act 2000, the Registrar of the appeal court must---
+        
+    *   (a) notify the controlling officer (within the meaning of [section 27][572] of the Corrections Act 2004) of the probation area in which the sentence is to be served of the date on which the sentence is to resume; and
+    
+    *   (b) notify the offender of that date if he or she is not present in court at the time the appeal is disposed of.
+    
+    Section 80MA: inserted, on 23 October 2013, by [section 38][573] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
 
 ##### 80N Imposition of post-detention conditions on offender
     
@@ -4023,7 +4037,7 @@ Sentences, orders, and related matters
     
     (2) If a court sentences an offender to a term of home detention of more than 6 months,---
         
-    *   (a) the standard post-detention conditions apply to the offender for a period of 12 months from the detention end date, unless the court specifies otherwise; and [sections 80Q][165], [80R][166], and [80U][169] apply as if the standard conditions had been imposed by order of the court; and
+    *   (a) the standard post-detention conditions apply to the offender for a period of 12 months from the detention end date, unless the court specifies otherwise; and [sections 80Q][166], [80R][167], and [80U][170] apply as if the standard conditions had been imposed by order of the court; and
     
     *   (b) the court may, at the same time, impose any special post-detention conditions on the offender and, if it does so, must specify when the conditions expire.
     
@@ -4037,7 +4051,7 @@ Sentences, orders, and related matters
     
     *   (b) that order applies in respect of all the sentences of home detention imposed on that occasion.
     
-    Section 80N: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80N: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80O Standard post-detention conditions
     
@@ -4059,7 +4073,7 @@ Sentences, orders, and related matters
     
     *   (h) the offender must take part in a rehabilitative and reintegrative needs assessment if and when directed to do so by a probation officer.
     
-    Section 80O: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80O: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80P Special post-detention conditions
     
@@ -4091,13 +4105,13 @@ Sentences, orders, and related matters
     
     *   (b) consents to taking the prescription medication.
     
-    Section 80P: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80P: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80Q Review of post-detention conditions if conditions incompatible
     
 *   (1) This section applies if---
         
-    *   (a) an offender is, at the same time, subject to post-detention conditions imposed under 2 or more orders made under [section 80N][162]; and
+    *   (a) an offender is, at the same time, subject to post-detention conditions imposed under 2 or more orders made under [section 80N][163]; and
     
     *   (b) a probation officer is satisfied that---
             
@@ -4107,29 +4121,29 @@ Sentences, orders, and related matters
         
         
     
-    (2) The probation officer must apply for a review of the conditions to which the offender is subject under the orders made under [section 80N][162].
+    (2) The probation officer must apply for a review of the conditions to which the offender is subject under the orders made under [section 80N][163].
     
-    (3) [Section 80R][166] applies with any necessary modifications to an application made under this section.
+    (3) [Section 80R][167] applies with any necessary modifications to an application made under this section.
     
-    Section 80Q: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80Q: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80R Variation or discharge of post-detention conditions
     
-*   (1) An offender who is subject to post-detention conditions imposed under [section 80N][162], or a probation officer, may apply for an order under subsection (3).
+*   (1) An offender who is subject to post-detention conditions imposed under [section 80N][163], or a probation officer, may apply for an order under subsection (3).
     
     (2) [Section 72][136] applies, with any necessary modifications, to an application under this section.
     
     (3) On an application under subsection (1), the court may, if it thinks fit,---
         
-    *   (a) suspend or vary any condition, or impose any additional conditions described in [section 80N][162], that could have been imposed on the offender at the time when the offender was convicted of the offence for which the sentence was imposed; or
+    *   (a) suspend or vary any condition, or impose any additional conditions described in [section 80N][163], that could have been imposed on the offender at the time when the offender was convicted of the offence for which the sentence was imposed; or
     
-    *   (b) discharge a condition and substitute any other condition described in [section 80N][162] that could have been imposed on the offender at the time that the offender was convicted of the offence for which the sentence was imposed.
+    *   (b) discharge a condition and substitute any other condition described in [section 80N][163] that could have been imposed on the offender at the time that the offender was convicted of the offence for which the sentence was imposed.
     
-    (4) If the court varies a special condition or imposes an additional special condition under subsection (3), [section 80P][164] applies.
+    (4) If the court varies a special condition or imposes an additional special condition under subsection (3), [section 80P][165] applies.
     
     (5) If an application is made under this section for the suspension, variation, or discharge of any condition, a probation officer may suspend the condition until the application has been heard and disposed of.
     
-    Section 80R: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80R: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80S Offence to breach detention conditions
     
@@ -4137,11 +4151,11 @@ Sentences, orders, and related matters
         
     *   (a) breaches, without reasonable excuse, any detention conditions of a sentence of home detention; or
     
-    *   (b) fails to report when required to do so under [section 80ZG][181].
+    *   (b) fails to report when required to do so under [section 80ZG][182].
     
-    Section 80S: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80S: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 80S: amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 80S: amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ##### 80T Offence to refuse entry to home detention residence
     
@@ -4157,29 +4171,29 @@ Sentences, orders, and related matters
     
     *   (c) is authorised in writing by a probation officer and has produced that written authority to an occupant of the residence.
     
-    Section 80T: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80T: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 80T(1): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 80T(1): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
     
-    Section 80T(2): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 80T(2): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ##### 80U Offence to breach post-detention conditions
     
-*   (1) An offender commits an offence, and is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $1,500, who breaches, without reasonable excuse, any post-detention conditions imposed under [section 80N][162] or [80R][166].
+*   (1) An offender commits an offence, and is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $1,500, who breaches, without reasonable excuse, any post-detention conditions imposed under [section 80N][163] or [80R][167].
     
-    (2) In the case of a condition of the kind referred to in [section 80P(2)(b)][164] (which involves prescription medication), an offender does not breach his or her conditions for the purposes of this section if he or she withdraws consent to taking prescription medication.
+    (2) In the case of a condition of the kind referred to in [section 80P(2)(b)][165] (which involves prescription medication), an offender does not breach his or her conditions for the purposes of this section if he or she withdraws consent to taking prescription medication.
     
-    Section 80U: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80U: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 80U(1): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 80U(1): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ##### 80V Arrest without warrant for breach of detention or post-detention conditions
     
 *   Any constable or any probation officer may arrest, without warrant, an offender who the constable or officer has reasonable grounds to believe has breached any of his or her detention conditions or post-detention conditions.
     
-    Section 80V: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80V: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 80V: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][530] of the Policing Act 2008 (2008 No 72).
+    Section 80V: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][532] of the Policing Act 2008 (2008 No 72).
 
 ##### 80W Court may defer start date of sentence of home detention
     
@@ -4201,11 +4215,11 @@ Sentences, orders, and related matters
     
     *   (d) the offender has already commenced serving the sentence or is detained under any other sentence or order.
     
-    Section 80W: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80W: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80X Commencement of sentence of home detention
     
-*   (1) A sentence of home detention commences on the day it is imposed unless the start date of the sentence is deferred under [section 80W][171].
+*   (1) A sentence of home detention commences on the day it is imposed unless the start date of the sentence is deferred under [section 80W][172].
     
     (2) Subsection (1) applies---
         
@@ -4215,7 +4229,7 @@ Sentences, orders, and related matters
     
     (3) If a sentence of home detention is imposed cumulatively on another sentence of home detention imposed at the same time,---
         
-    *   (a) at least 1 of the sentences must commence on the day that the sentence is imposed or to which the start date has been deferred under [section 80W][171]; and
+    *   (a) at least 1 of the sentences must commence on the day that the sentence is imposed or to which the start date has been deferred under [section 80W][172]; and
     
     *   (b) the commencement date for the subsequent sentence is the detention end date of the first sentence.
     
@@ -4233,15 +4247,15 @@ Sentences, orders, and related matters
     
     *   (b) any time served under the cancelled sentence must not be treated as having been served under the subsequent sentence.
     
-    Section 80X: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80X: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80Y Commencement of sentence of home detention after temporary surrender under Extradition Act 1999
     
-*   (1) This section applies if an offender is temporarily surrendered to New Zealand under the [Extradition Act 1999][556] and---
+*   (1) This section applies if an offender is temporarily surrendered to New Zealand under the [Extradition Act 1999][558] and---
         
     *   (a) is convicted and sentenced under this Act to a sentence of home detention; and
     
-    *   (b) is required to be returned in accordance with [section 66(2)][557] of the Extradition Act 1999 to the country from where the offender was surrendered on completion of the proceedings to which the extradition related.
+    *   (b) is required to be returned in accordance with [section 66(2)][559] of the Extradition Act 1999 to the country from where the offender was surrendered on completion of the proceedings to which the extradition related.
     
     (2) Unless the court otherwise directs, the sentence imposed does not commence until the offender has reported to a probation officer after being returned to New Zealand.
     
@@ -4253,7 +4267,7 @@ Sentences, orders, and related matters
     
     (4) This section applies despite any other provisions in this Act.
     
-    Section 80Y: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80Y: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80Z When home detention ends
     
@@ -4265,19 +4279,19 @@ Sentences, orders, and related matters
     
     (2) If the offender's detention end date falls on a non-release day, the offender ceases to be subject to detention conditions on the nearest preceding day that is not a non-release day.
     
-    Section 80Z: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80Z: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80ZA When detention conditions suspended
     
 *   The detention conditions of an offender serving a sentence of home detention are suspended during any period that the offender spends in custody under a court order (for example, on remand), but time continues to run during any period that they are suspended.
     
-    Section 80ZA: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80ZA: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80ZB Time ceases to run in certain circumstances
     
 *   For the purpose of calculating how much time an offender who is subject to a sentence of home detention has served, time ceases to run on the sentence during any period---
         
-    *   (a) between the date on which an application for a variation or cancellation of the sentence under [section 80F][567] is lodged and the earlier of---
+    *   (a) between the date on which an application for a variation or cancellation of the sentence under [section 80F][574] is lodged and the earlier of---
             
         *   (i) the date on which the offender is next taken into custody; and
         
@@ -4287,7 +4301,7 @@ Sentences, orders, and related matters
     
     *   (b) in which an offender is released on bail pending an appeal.
     
-    Section 80ZB: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80ZB: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80ZC Order must be drawn up
     
@@ -4317,27 +4331,27 @@ Sentences, orders, and related matters
     
     (6) A copy of the order must be given to the chief executive of the Department of Corrections as soon as possible, but no later than 24 hours, after it has been drawn up.
     
-    Section 80ZC: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80ZC: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80ZD Offender must be given copy of new or amended order
     
-*   If an offender's detention conditions or post-detention conditions are varied or discharged, the offender must be given a copy of the new or amended order that shows the conditions as varied or discharged, and the provisions of this section and [section 80ZC][177] apply.
+*   If an offender's detention conditions or post-detention conditions are varied or discharged, the offender must be given a copy of the new or amended order that shows the conditions as varied or discharged, and the provisions of this section and [section 80ZC][178] apply.
     
-    Section 80ZD: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80ZD: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80ZE Home detention does not affect entitlements under Social Security Act 1964
     
-*   The fact that a person is serving a sentence of home detention does not, of itself, affect any entitlement the person may have under the [Social Security Act 1964][531].
+*   The fact that a person is serving a sentence of home detention does not, of itself, affect any entitlement the person may have under the [Social Security Act 1964][533].
     
-    Section 80ZE: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80ZE: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80ZF Application of Injury Prevention, Rehabilitation, and Compensation Act 2001 to persons serving home detention sentence
     
 *   When an offender performs any service or does any work or attends any assessment, course, or programme for the purposes of a home detention sentence, the following provisions apply:
         
-    *   (a) if the offender suffers any personal injury for which he or she has cover under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][483] arising out of and in the course of performing the activities described above,---
+    *   (a) if the offender suffers any personal injury for which he or she has cover under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][485] arising out of and in the course of performing the activities described above,---
             
-        *   (i) the personal injury is deemed, for the purposes of [section 97][560] of that Act only, to be a work-related personal injury; and
+        *   (i) the personal injury is deemed, for the purposes of [section 97][562] of that Act only, to be a work-related personal injury; and
         
         *   (ii) the Crown is liable to pay compensation to which the offender is entitled under that section:
         
@@ -4345,7 +4359,7 @@ Sentences, orders, and related matters
     
     *   (b) the cost of all other entitlements of the offender under that Act must be met from the Earners' Account in the case of an offender who is an earner and from the Non-Earners' Account in all other cases.
     
-    Section 80ZF: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80ZF: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80ZG Effect of subsequent sentence of imprisonment
     
@@ -4369,7 +4383,55 @@ Sentences, orders, and related matters
     
     (6) If the sentence of home detention never resumes under subsection (4)(b), it is cancelled when the offender ceases to be detained under the sentence of imprisonment.
     
-    Section 80ZG: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80ZG: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
+
+##### 80ZGD Effect of appeal on resumption of sentence of home detention
+    
+*   (1) This section applies if---
+        
+    *   (a) an offender has, on or after the commencement of this section, lodged an appeal against---
+            
+        *   (i) a sentence of home detention imposed before or after that commencement; or
+        
+        *   (ii) the conviction on which that sentence is based; or
+        
+        *   (iii) both; and
+        
+        
+    
+    *   (b) the offender has been granted bail under [section 53][569], [54][570], or [55][571] of the Bail Act 2000; and
+    
+    *   (c) the outcome of the appeal is that---
+            
+        *   (i) the appeal is dismissed; or
+        
+        *   (ii) the appeal is deemed pursuant to rules of court to be dismissed; or
+        
+        *   (iii) leave to appeal is refused; or
+        
+        *   (iv) neither the sentence of home detention nor the conviction on which it was made is set aside when the appeal is determined.
+        
+        
+    
+    (2) If this section applies,---
+        
+    *   (a) the court to which the appeal is made must specify a date on which the offender must report to a probation officer and that date must be not earlier than 10 working days after the outcome of the appeal is determined and must fall on a working day; and
+    
+    *   (b) the offender must report to a probation officer on that date; and
+    
+    *   (c) the sentence of home detention resumes when the offender has reported to the probation officer on that date.
+    
+    (3) If the offender has been on bail for more than 2 months, the probation officer must, before the sentence of home detention resumes,---
+        
+    *   (a) review the suitability of the home detention address; and
+    
+    *   (b) ensure every relevant occupant consents, in accordance with [section 26A(3)][44], to the offender resuming the sentence at the home detention residence; and
+    
+    *   (c) if necessary, apply to the court for a variation or cancellation of the sentence under [section 80F][154] or obtain from the chief executive of the Department of Corrections a variation of the home detention residence under section 80FA.
+    
+    (4) This section does not apply if the offender is detained under a sentence of imprisonment.
+    
+    Section 80ZGD: inserted, on 23 October 2013, by [section 43][575] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
 
 ##### 80ZH Application of section 80F during epidemic
     
@@ -4389,15 +4451,15 @@ Sentences, orders, and related matters
     
     *   (b) the date a probation officer rescinds the variation or suspension.
     
-    Section 80ZH: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80ZH: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80ZI Application of section 80R during epidemic
     
 *   (1) While an epidemic management notice is in force,---
         
-    *   (a) a probation officer who has applied for an order under [section 80R(3)][166] varying the post-detention conditions subject to which a sentence of home detention was imposed by the court on an offender may himself or herself vary those conditions; and
+    *   (a) a probation officer who has applied for an order under [section 80R(3)][167] varying the post-detention conditions subject to which a sentence of home detention was imposed by the court on an offender may himself or herself vary those conditions; and
     
-    *   (b) any probation officer may himself or herself vary the post-detention conditions subject to which a sentence of home detention was imposed by the court on an offender if the offender has applied for an order under [section 80R(3)][166] varying those conditions.
+    *   (b) any probation officer may himself or herself vary the post-detention conditions subject to which a sentence of home detention was imposed by the court on an offender if the offender has applied for an order under [section 80R(3)][167] varying those conditions.
     
     (2) Any variation under subsection (1) has effect until the earlier of---
         
@@ -4405,17 +4467,17 @@ Sentences, orders, and related matters
     
     *   (b) the date on which a probation officer rescinds the variation or suspension.
     
-    Section 80ZI: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80ZI: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ### Subpart 2B---Judicial monitoring
     
-*   Subpart 2B: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+*   Subpart 2B: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80ZJ Progress reports
     
 *   (1) If the court has imposed a sentence of intensive supervision or home detention and a special condition of that sentence is that the offender be subject to judicial monitoring, the probation officer supervising the offender must give a written progress report to the Judge who sentenced the offender or to any other Judge of that court if for any reason it is impracticable for the sentencing Judge to be given the report.
     
-    (2) The progress report must be given to the Judge within 3 months of the date that the sentence commenced under [section 75][140],[76][143], [80W][171], [80X][172], or [80Y][173] (whichever is applicable) or the date at which the offender has served one-third of his or her sentence, whichever is the earlier.
+    (2) The progress report must be given to the Judge within 3 months of the date that the sentence commenced under [section 75][140],[76][143], [80W][172], [80X][173], or [80Y][174] (whichever is applicable) or the date at which the offender has served one-third of his or her sentence, whichever is the earlier.
     
     (3) The progress report---
         
@@ -4425,21 +4487,21 @@ Sentences, orders, and related matters
     
     (4) The probation officer must prepare and give the Judge further progress reports at specified intervals of not less than 3 months if directed to do so by the Judge.
     
-    Section 80ZJ: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80ZJ: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80ZK Consideration of progress reports
     
 *   After considering a progress report, the Judge may order that the offender attend before him or her if the Judge considers it desirable for the administration of the sentence or for the rehabilitation or reintegration of the offender.
     
-    Section 80ZK: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80ZK: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80ZL Procedure
     
-*   (1) A copy of an order under [section 80ZK][186] must be given to the offender and the probation officer who filed the progress report.
+*   (1) A copy of an order under [section 80ZK][188] must be given to the offender and the probation officer who filed the progress report.
     
     (2) The order must be accompanied by a notice setting out the time and place of the attendance.
     
-    Section 80ZL: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80ZL: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80ZM Procedure if possible grounds for variation or cancellation of sentence exist
     
@@ -4449,7 +4511,7 @@ Sentences, orders, and related matters
     
     (3) After hearing submissions on whether the sentence should be varied or cancelled at the hearing, the Judge may vary or cancel the sentence of intensive supervision or home detention in accordance with [section 54K][93] or [80F][154] (whichever is applicable) as if an application had been made under either of those sections.
     
-    Section 80ZM: inserted, on 1 October 2007, by [section 44][565] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80ZM: inserted, on 1 October 2007, by [section 44][567] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ### Subpart 3---Imprisonment
 
@@ -4457,7 +4519,7 @@ Sentences, orders, and related matters
     
 *   If under any enactment an offender is liable to imprisonment for life or for any specified term, the court may, in accordance with this Act, impose imprisonment for the maximum term provided for the particular offence or any lesser term, unless a minimum term of imprisonment is expressly provided for.
     
-    Compare: 1985 No 120 [s 72][568]
+    Compare: 1985 No 120 [s 72][576]
 
 ##### 81B Procedure if offender convicted in District Court and court believes offender could be sentenced to life imprisonment
     
@@ -4465,15 +4527,15 @@ Sentences, orders, and related matters
     
     (2) The court must transfer the offender to the High Court for sentence and make an entry in the permanent court record to the effect that the court has declined jurisdiction on the ground that it has reason to believe that the offender should be considered for a sentence of life imprisonment.
     
-    Section 81B: inserted, on 1 July 2013, by [section 5][569] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 81B: inserted, on 1 July 2013, by [section 5][577] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
     
-    Section 81B(2): amended, on 1 July 2013, by [section 4][570] of the Sentencing Amendment Act 2013 (2013 No 32).
+    Section 81B(2): amended, on 1 July 2013, by [section 4][578] of the Sentencing Amendment Act 2013 (2013 No 32).
 
 ##### 82 Pre-sentence detention must not be taken into account in determining length of sentence
     
-*   In determining the length of any sentence of imprisonment to be imposed, the court must not take into account any part of the period during which the offender was on pre-sentence detention as defined in [section 91][571] of the Parole Act 2002\.
+*   In determining the length of any sentence of imprisonment to be imposed, the court must not take into account any part of the period during which the offender was on pre-sentence detention as defined in [section 91][579] of the Parole Act 2002\.
     
-    Compare: 1985 No 120 [s 81(2)][572]
+    Compare: 1985 No 120 [s 81(2)][580]
 
 ##### 83 Cumulative and concurrent sentences of imprisonment
     
@@ -4481,7 +4543,7 @@ Sentences, orders, and related matters
     
     (2) Despite subsection (1), a court may not impose a sentence of imprisonment cumulatively on another sentence of imprisonment if, at the time of sentencing, the offender is subject to a sentence of imprisonment but, having commenced serving the sentence, is no longer detained under it.
     
-    (3) For the purposes of subsection (2), a person who is detained under an interim recall order under the [Parole Act 2002][573] is not detained under the sentence to which the interim recall order applies.
+    (3) For the purposes of subsection (2), a person who is detained under an interim recall order under the [Parole Act 2002][581] is not detained under the sentence to which the interim recall order applies.
     
     (4) An indeterminate sentence of imprisonment must not be imposed cumulatively on any other sentence.
     
@@ -4489,9 +4551,9 @@ Sentences, orders, and related matters
     
     (6) For the purpose of this section, a term of imprisonment imposed on an offender (whether by committal, sentence, or order) in respect of the non-payment of a sum of money, contempt of court, or disobedience of a court order is deemed to be a determinate sentence of imprisonment.
     
-    Compare: 1985 No 120 [s 73][574]
+    Compare: 1985 No 120 [s 73][582]
     
-    Section 83(2): substituted, on 7 July 2004, by [section 6][575] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 83(2): substituted, on 7 July 2004, by [section 6][583] of the Sentencing Amendment Act 2004 (2004 No 68).
 
 ##### 84 Guidance on use of cumulative and concurrent sentences of imprisonment
     
@@ -4531,7 +4593,7 @@ Sentences, orders, and related matters
     
 *   (1) If a court sentences an offender to a determinate sentence of imprisonment of more than 2 years for a particular offence, it may, at the same time as it sentences the offender, order that the offender serve a minimum period of imprisonment in relation to that particular sentence.
     
-    (2) The court may impose a minimum period of imprisonment that is longer than the period otherwise applicable under [section 84(1)][576] of the Parole Act 2002 if it is satisfied that that period is insufficient for all or any of the following purposes:
+    (2) The court may impose a minimum period of imprisonment that is longer than the period otherwise applicable under [section 84(1)][584] of the Parole Act 2002 if it is satisfied that that period is insufficient for all or any of the following purposes:
         
     *   (a) holding the offender accountable for the harm done to the victim and the community by the offending:
     
@@ -4549,107 +4611,107 @@ Sentences, orders, and related matters
     
     *   (b) 10 years.
     
-    (5) For the purposes of [Part 6][566] of the Criminal Procedure Act 2011, an order under this section is a sentence.
+    (5) For the purposes of [Part 6][568] of the Criminal Procedure Act 2011, an order under this section is a sentence.
     
-    Section 86(2): substituted, on 7 July 2004, by [section 7][577] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 86(2): substituted, on 7 July 2004, by [section 7][585] of the Sentencing Amendment Act 2004 (2004 No 68).
     
-    Section 86(3): repealed, on 7 July 2004, by [section 7][577] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 86(3): repealed, on 7 July 2004, by [section 7][585] of the Sentencing Amendment Act 2004 (2004 No 68).
     
-    Section 86(5): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 86(5): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 #### Additional consequences for repeated serious violent offending
     
-*   Heading: inserted, on 1 June 2010, by [section 6(1)][578] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+*   Heading: inserted, on 1 June 2010, by [section 6(1)][586] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
 
 ##### 86A Interpretation
     
-*   In this section and in [sections 86B to 86I][200], unless the context otherwise requires,---
+*   In this section and in [sections 86B to 86I][202], unless the context otherwise requires,---
     
-    _record of final warning_, in relation to an offender, means a record of a warning that the offender has under [section 86C(3)][201] or [86E(8)][203]
+    _record of final warning_, in relation to an offender, means a record of a warning that the offender has under [section 86C(3)][203] or [86E(8)][205]
     
-    _record of first warning_, in relation to an offender, means a record of a warning that the offender has under [section 86B(3)][200]
+    _record of first warning_, in relation to an offender, means a record of a warning that the offender has under [section 86B(3)][202]
     
-    _serious violent offence_ means an offence against any of the following provisions of the [Crimes Act 1961][579]:
+    _serious violent offence_ means an offence against any of the following provisions of the [Crimes Act 1961][587]:
         
-    *   (1) [section 128B][579] (sexual violation):
+    *   (1) [section 128B][587] (sexual violation):
     
-    *   (2) [section 129][580] (attempted sexual violation and assault with intent to commit sexual violation):
+    *   (2) [section 129][588] (attempted sexual violation and assault with intent to commit sexual violation):
     
-    *   (3) [section 129A(1)][581] (sexual connection with consent induced by threat):
+    *   (3) [section 129A(1)][589] (sexual connection with consent induced by threat):
     
-    *   (4) [section 131(1)][582] (sexual connection with dependent family member under 18 years):
+    *   (4) [section 131(1)][590] (sexual connection with dependent family member under 18 years):
     
-    *   (5) [section 131(2)][582] (attempted sexual connection with dependent family member under 18 years):
+    *   (5) [section 131(2)][590] (attempted sexual connection with dependent family member under 18 years):
     
-    *   (6) [section 132(1)][583] (sexual connection with child):
+    *   (6) [section 132(1)][591] (sexual connection with child):
     
-    *   (7) [section 132(2)][583] (attempted sexual connection with child):
+    *   (7) [section 132(2)][591] (attempted sexual connection with child):
     
-    *   (8) [section 132(3)][583] (indecent act on child):
+    *   (8) [section 132(3)][591] (indecent act on child):
     
-    *   (9) [section 134(1)][584] (sexual connection with young person):
+    *   (9) [section 134(1)][592] (sexual connection with young person):
     
-    *   (10) [section 134(2)][584] (attempted sexual connection with young person):
+    *   (10) [section 134(2)][592] (attempted sexual connection with young person):
     
-    *   (11) [section 134(3)][584] (indecent act on young person):
+    *   (11) [section 134(3)][592] (indecent act on young person):
     
-    *   (12) [section 135][585] (indecent assault):
+    *   (12) [section 135][593] (indecent assault):
     
-    *   (13) [section 138(1)][586] (exploitative sexual connection with person with significant impairment):
+    *   (13) [section 138(1)][594] (exploitative sexual connection with person with significant impairment):
     
-    *   (14) [section 138(2)][586] (attempted exploitative sexual connection with person with significant impairment):
+    *   (14) [section 138(2)][594] (attempted exploitative sexual connection with person with significant impairment):
     
-    *   (15) [section 142A][587] (compelling indecent act with animal):
+    *   (15) [section 142A][595] (compelling indecent act with animal):
     
-    *   (16) [section 144A][588] (sexual conduct with children and young people outside New Zealand):
+    *   (16) [section 144A][596] (sexual conduct with children and young people outside New Zealand):
     
-    *   (17) [section 172][589] (murder):
+    *   (17) [section 172][597] (murder):
     
-    *   (18) [section 173][590] (attempted murder):
+    *   (18) [section 173][598] (attempted murder):
     
-    *   (19) [section 174][591] (counselling or attempting to procure murder):
+    *   (19) [section 174][599] (counselling or attempting to procure murder):
     
-    *   (20) [section 175][592] (conspiracy to murder):
+    *   (20) [section 175][600] (conspiracy to murder):
     
-    *   (21) [section 177][593] (manslaughter):
+    *   (21) [section 177][601] (manslaughter):
     
-    *   (22) [section 188(1)][594] (wounding with intent to cause grievous bodily harm):
+    *   (22) [section 188(1)][602] (wounding with intent to cause grievous bodily harm):
     
-    *   (23) [section 188(2)][594] (wounding with intent to injure):
+    *   (23) [section 188(2)][602] (wounding with intent to injure):
     
-    *   (24) [section 189(1)][595] (injuring with intent to cause grievous bodily harm):
+    *   (24) [section 189(1)][603] (injuring with intent to cause grievous bodily harm):
     
-    *   (25) [section 191(1)][596] (aggravated wounding):
+    *   (25) [section 191(1)][604] (aggravated wounding):
     
-    *   (26) [section 191(2)][596] (aggravated injury):
+    *   (26) [section 191(2)][604] (aggravated injury):
     
-    *   (27) [section 198(1)][597] (discharging firearm or doing dangerous act with intent to do grievous bodily harm):
+    *   (27) [section 198(1)][605] (discharging firearm or doing dangerous act with intent to do grievous bodily harm):
     
-    *   (28) [section 198(2)][597] (discharging firearm or doing dangerous act with intent to injure):
+    *   (28) [section 198(2)][605] (discharging firearm or doing dangerous act with intent to injure):
     
-    *   (29) [section 198A(1)][598] (using firearm against law enforcement officer, etc):
+    *   (29) [section 198A(1)][606] (using firearm against law enforcement officer, etc):
     
-    *   (30) [section 198A(2)][598] (using firearm with intent to resist arrest or detention):
+    *   (30) [section 198A(2)][606] (using firearm with intent to resist arrest or detention):
     
-    *   (31) [section 198B][599] (commission of crime with firearm):
+    *   (31) [section 198B][607] (commission of crime with firearm):
     
-    *   (32) [section 200(1)][600] (poisoning with intent to cause grievous bodily harm):
+    *   (32) [section 200(1)][608] (poisoning with intent to cause grievous bodily harm):
     
-    *   (33) [section 201][601] (infecting with disease):
+    *   (33) [section 201][609] (infecting with disease):
     
-    *   (34) [section 208][602] (abduction for purposes of marriage or sexual connection):
+    *   (34) [section 208][610] (abduction for purposes of marriage or sexual connection):
     
-    *   (35) [section 209][603] (kidnapping):
+    *   (35) [section 209][611] (kidnapping):
     
-    *   (36) [section 232(1)][604] (aggravated burglary):
+    *   (36) [section 232(1)][612] (aggravated burglary):
     
-    *   (37) [section 234][605] (robbery):
+    *   (37) [section 234][613] (robbery):
     
-    *   (38) [section 235][606] (aggravated robbery):
+    *   (38) [section 235][614] (aggravated robbery):
     
-    *   (39) [section 236(1)][607] (causing grievous bodily harm with intent to rob or assault with intent to rob in specified circumstances):
+    *   (39) [section 236(1)][615] (causing grievous bodily harm with intent to rob or assault with intent to rob in specified circumstances):
     
-    *   (40) [section 236(2)][607] (assault with intent to rob)
+    *   (40) [section 236(2)][615] (assault with intent to rob)
     
     _stage-1 offence_ means an offence that---
         
@@ -4657,7 +4719,7 @@ Sentences, orders, and related matters
     
     *   (b) was committed by an offender at a time when the offender---
             
-        *   (i) did not have a record of first warning given under [section 86B][200]; and
+        *   (i) did not have a record of first warning given under [section 86B][202]; and
         
         *   (ii) was 18 years of age or over
         
@@ -4675,7 +4737,7 @@ Sentences, orders, and related matters
     
     *   (b) was committed by an offender at a time when the offender had a record of final warning (in relation to 1 or more offences).
     
-    Section 86A: inserted, on 1 June 2010, by [section 6(1)][578] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 86A: inserted, on 1 June 2010, by [section 6(1)][586] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
 
 ##### 86B Stage-1 offence: offender given first warning
     
@@ -4691,7 +4753,7 @@ Sentences, orders, and related matters
     
     (4) The court must give the offender a written notice that sets out the consequences if the offender is convicted of any serious violent offence committed after the warning given under subsection (1)(a).
     
-    Section 86B: inserted, on 1 June 2010, by [section 6(1)][578] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 86B: inserted, on 1 June 2010, by [section 6(1)][586] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
 
 ##### 86C Stage-2 offence other than murder: offender given final warning and must serve full term of imprisonment
     
@@ -4707,23 +4769,23 @@ Sentences, orders, and related matters
     
     (4) If the sentence imposed on the offender for any stage-2 offences is a determinate sentence of imprisonment, the court must order that the offender serve the full term of the sentence and, accordingly, that the offender,---
         
-    *   (a) in the case of a long-term sentence (within the meaning of the [Parole Act 2002][573]), serve the sentence without parole; and
+    *   (a) in the case of a long-term sentence (within the meaning of the [Parole Act 2002][581]), serve the sentence without parole; and
     
-    *   (b) in the case of a short-term sentence (within the meaning of the [Parole Act 2002][573]), not be released before the expiry of the sentence.
+    *   (b) in the case of a short-term sentence (within the meaning of the [Parole Act 2002][581]), not be released before the expiry of the sentence.
     
-    (5) If the sentence imposed on the offender for 1 or more stage-2 offences is a short-term sentence (within the meaning of the [Parole Act 2002][573]) and any conditions are imposed on the offender under [section 93][218], then, despite anything in that section, those conditions take effect on the sentence expiry date (within the meaning of the Parole Act 2002).
+    (5) If the sentence imposed on the offender for 1 or more stage-2 offences is a short-term sentence (within the meaning of the [Parole Act 2002][581]) and any conditions are imposed on the offender under [section 93][220], then, despite anything in that section, those conditions take effect on the sentence expiry date (within the meaning of the Parole Act 2002).
     
-    (6) If, but for the application of this section, the court would have ordered, under [section 86][197], that the offender serve a minimum period of imprisonment, the court must state, with reasons, the period that it would have imposed.
+    (6) If, but for the application of this section, the court would have ordered, under [section 86][199], that the offender serve a minimum period of imprisonment, the court must state, with reasons, the period that it would have imposed.
     
     (7) The court must give the offender a written notice that sets out the consequences if the offender is convicted of any serious violent offence committed after the warning given under subsection (1)(a).
     
-    Section 86C: inserted, on 1 June 2010, by [section 6(1)][578] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 86C: inserted, on 1 June 2010, by [section 6(1)][586] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
 
 ##### 86D Stage-3 offences other than murder: offender sentenced to maximum term of imprisonment
     
 *   (1) Despite any other enactment,---
         
-    *   (a) a proceeding against a defendant charged with a stage-3 offence must be transferred to the High Court when the proceeding is adjourned for trial or trial callover under [section 57][608] of the Criminal Procedure Act 2011 or, as the case may be, in accordance with [section 36][609] of that Act, and the proceeding from that point, including the trial, must be in the High Court; and
+    *   (a) a proceeding against a defendant charged with a stage-3 offence must be transferred to the High Court when the proceeding is adjourned for trial or trial callover under [section 57][616] of the Criminal Procedure Act 2011 or, as the case may be, in accordance with [section 36][617] of that Act, and the proceeding from that point, including the trial, must be in the High Court; and
     
     *   (b) no court other than the High Court, or the Court of Appeal or the Supreme Court on an appeal, may sentence an offender for a stage-3 offence.
     
@@ -4737,17 +4799,17 @@ Sentences, orders, and related matters
     
     (6) If the court imposes a sentence under subsection (2), any other sentence of imprisonment imposed on the same occasion (whether for a stage-3 offence or for any other kind of offence) must be imposed concurrently.
     
-    (7) Despite subsection (2), this section does not preclude the court from imposing, under [section 87][209], a sentence of preventive detention on the offender, and if the court imposes such a sentence on the offender,---
+    (7) Despite subsection (2), this section does not preclude the court from imposing, under [section 87][211], a sentence of preventive detention on the offender, and if the court imposes such a sentence on the offender,---
         
     *   (a) subsections (2) to (5) do not apply; and
     
-    *   (b) the minimum period of imprisonment that the court imposes on the offender under [section 89(1)][211] must not be less than the term of imprisonment that the court would have imposed under subsection (2), unless the court is satisfied that, given the circumstances of the offence and the offender, the imposition of that minimum period would be manifestly unjust.
+    *   (b) the minimum period of imprisonment that the court imposes on the offender under [section 89(1)][213] must not be less than the term of imprisonment that the court would have imposed under subsection (2), unless the court is satisfied that, given the circumstances of the offence and the offender, the imposition of that minimum period would be manifestly unjust.
     
     (8) If, in reliance on subsection (7)(b), the court imposes a minimum period of imprisonment that is less than the term of imprisonment that the court would have imposed under subsection (2), the court must give written reasons for doing so.
     
-    Section 86D: inserted, on 1 June 2010, by [section 6(1)][578] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 86D: inserted, on 1 June 2010, by [section 6(1)][586] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
     
-    Section 86D(1)(a): replaced, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 86D(1)(a): replaced, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ##### 86E When murder is a stage-2 or stage-3 offence
     
@@ -4769,7 +4831,7 @@ Sentences, orders, and related matters
         
     *   (a) if that murder is a stage-3 offence, impose a minimum period of imprisonment of not less than 20 years unless the court is satisfied that, given the circumstances of the offence and the offender, it would be manifestly unjust to do so; and
     
-    *   (b) if that murder is a stage-2 offence, or if the court is satisfied that a minimum period of imprisonment of not less than 20 years under paragraph (a) would be manifestly unjust, order that the offender serve a minimum period of imprisonment in accordance with [section 103][233].
+    *   (b) if that murder is a stage-2 offence, or if the court is satisfied that a minimum period of imprisonment of not less than 20 years under paragraph (a) would be manifestly unjust, order that the offender serve a minimum period of imprisonment in accordance with [section 103][235].
     
     (5) If, in the case of a stage-3 offence, the court imposes under subsection (4)(a) a minimum period of imprisonment of less than 20 years, the court must give written reasons for doing so.
     
@@ -4785,11 +4847,11 @@ Sentences, orders, and related matters
     
     (9) The court must give the offender a written notice that sets out the consequences if the offender is convicted of any serious violent offence committed after the warning given under subsection (6)(a).
     
-    Section 86E: inserted, on 1 June 2010, by [section 6(1)][578] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 86E: inserted, on 1 June 2010, by [section 6(1)][586] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
 
 ##### 86F Continuing effect of warnings
     
-*   (1) An offender continues to have a record of first warning or a record of final warning regardless of whether the offender has served or otherwise completed the sentence imposed on the offender for the offence (including, without limitation, any sentence imposed under [section 86D][202] or [86E][203]) to which the record relates.
+*   (1) An offender continues to have a record of first warning or a record of final warning regardless of whether the offender has served or otherwise completed the sentence imposed on the offender for the offence (including, without limitation, any sentence imposed under [section 86D][204] or [86E][205]) to which the record relates.
     
     (2) However, an offender ceases to have a record of first warning or a record of final warning if, on an appeal, an appellate court---
         
@@ -4813,15 +4875,15 @@ Sentences, orders, and related matters
     
     (6) Subsection (3) is subject to subsection (4).
     
-    Section 86F: inserted, on 1 June 2010, by [section 6(1)][578] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 86F: inserted, on 1 June 2010, by [section 6(1)][586] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
 
 ##### 86G Consequences of cancellation of record on later sentences
     
 *   (1) This section applies where,---
         
-    *   (a) in accordance with [section 86F(2)][204], an offender ceases to have a record of first warning or a record of final warning or both (the _previous record_); and
+    *   (a) in accordance with [section 86F(2)][206], an offender ceases to have a record of first warning or a record of final warning or both (the _previous record_); and
     
-    *   (b) the offender continues to be subject to a sentence (a _later sentence_) that was imposed on the offender under any of [sections 86C][201], [86D][202], or [86E][203] for serious violent offences committed when the offender had the previous record.
+    *   (b) the offender continues to be subject to a sentence (a _later sentence_) that was imposed on the offender under any of [sections 86C][203], [86D][204], or [86E][205] for serious violent offences committed when the offender had the previous record.
     
     (2) The appellate court must take the actions described in this section that are applicable to the case or remit the matter to the court that sentenced the offender with a direction to take those actions.
     
@@ -4833,43 +4895,43 @@ Sentences, orders, and related matters
     
     *   (c) if the court considers it just to make any consequential orders, the court must make those orders.
     
-    (4) Without limiting the generality of subsection (3), if an offender who continues to be subject to a later sentence for 1 or more stage-2 offences ceases, in accordance with [section 86F(2)][204], to have a record of first warning, the appropriate court must---
+    (4) Without limiting the generality of subsection (3), if an offender who continues to be subject to a later sentence for 1 or more stage-2 offences ceases, in accordance with [section 86F(2)][206], to have a record of first warning, the appropriate court must---
         
-    *   (a) cancel any order imposed on the offender in respect of those stage-2 offences under [section 86C(4)][201]; and
+    *   (a) cancel any order imposed on the offender in respect of those stage-2 offences under [section 86C(4)][203]; and
     
-    *   (b) if the court considers it appropriate to do so, impose a minimum period of imprisonment under [section 86][197] in respect of those stage-2 offences, taking into account any indication given by the sentencing court under [section 86C(6)][201]; and
+    *   (b) if the court considers it appropriate to do so, impose a minimum period of imprisonment under [section 86][199] in respect of those stage-2 offences, taking into account any indication given by the sentencing court under [section 86C(6)][203]; and
     
-    *   (c) in the case of a stage-2 offence that is murder, cancel any sentence or order imposed on the offender under [section 86E(2)][203] and re-sentence the offender under [subpart 4][610] of this Part.
+    *   (c) in the case of a stage-2 offence that is murder, cancel any sentence or order imposed on the offender under [section 86E(2)][205] and re-sentence the offender under [subpart 4][618] of this Part.
     
-    (5) Without limiting the generality of subsection (3), if an offender who continues to be subject to a later sentence for stage-3 offences ceases, in accordance with [section 86F(2)][204], to have either a record of first warning or a record of final warning, the appropriate court must,---
+    (5) Without limiting the generality of subsection (3), if an offender who continues to be subject to a later sentence for stage-3 offences ceases, in accordance with [section 86F(2)][206], to have either a record of first warning or a record of final warning, the appropriate court must,---
         
-    *   (a) if the offender has been sentenced under [section 86D][202], re-sentence the offender for the offence concerned by applying [section 86C][201]; and
+    *   (a) if the offender has been sentenced under [section 86D][204], re-sentence the offender for the offence concerned by applying [section 86C][203]; and
     
-    *   (b) in the case of a stage-3 offence that is murder, cancel any order made under [section 86E(4)(a)][203] and replace it with an order under section 86E(4)(b).
+    *   (b) in the case of a stage-3 offence that is murder, cancel any order made under [section 86E(4)(a)][205] and replace it with an order under section 86E(4)(b).
     
-    (6) Without limiting the generality of subsection (3), if an offender who continues to be subject to a later sentence for stage-3 convictions ceases, in accordance with [section 86F(2)][204], to have both a record of first warning and a record of final warning, the court must,---
+    (6) Without limiting the generality of subsection (3), if an offender who continues to be subject to a later sentence for stage-3 convictions ceases, in accordance with [section 86F(2)][206], to have both a record of first warning and a record of final warning, the court must,---
         
-    *   (a) if the offender has been sentenced under [section 86D][202], re-sentence the offender for the offence concerned:
+    *   (a) if the offender has been sentenced under [section 86D][204], re-sentence the offender for the offence concerned:
     
-    *   (b) in the case of a stage-3 offence that is murder, cancel any sentence or order imposed on the offender under [section 86E(2)][203] and any order under section 86E(4) and re-sentence the offender under [subpart 4][229] of this Part:
+    *   (b) in the case of a stage-3 offence that is murder, cancel any sentence or order imposed on the offender under [section 86E(2)][205] and any order under section 86E(4) and re-sentence the offender under [subpart 4][231] of this Part:
     
-    *   (c) administer a first warning to the offender by taking the action described in [section 86B(1)][200].
+    *   (c) administer a first warning to the offender by taking the action described in [section 86B(1)][202].
     
-    Section 86G: inserted, on 1 June 2010, by [section 6(1)][578] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 86G: inserted, on 1 June 2010, by [section 6(1)][586] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
 
 ##### 86H Appeal against orders relating to imprisonment
     
-*   For the purposes of [Part 6][566] of the Criminal Procedure Act 2011, an order under [section 86D(3) or (4)][202], or [86E(2)(b) or (4)(a)][203], is a sentence.
+*   For the purposes of [Part 6][568] of the Criminal Procedure Act 2011, an order under [section 86D(3) or (4)][204], or [86E(2)(b) or (4)(a)][205], is a sentence.
     
-    Section 86H: inserted, on 1 June 2010, by [section 6(1)][578] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 86H: inserted, on 1 June 2010, by [section 6(1)][586] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
     
-    Section 86H: amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 86H: amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ##### 86I Sections 86B to 86E prevail over inconsistent provisions
     
-*   A provision contained in [sections 86B to 86E][200] that is inconsistent with another provision of this Act or the [Parole Act 2002][573] prevails over the other provision, to the extent of the inconsistency.
+*   A provision contained in [sections 86B to 86E][202] that is inconsistent with another provision of this Act or the [Parole Act 2002][581] prevails over the other provision, to the extent of the inconsistency.
     
-    Section 86I: inserted, on 1 June 2010, by [section 6(1)][578] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 86I: inserted, on 1 June 2010, by [section 6(1)][586] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
 
 #### Preventive detention
 
@@ -4883,7 +4945,7 @@ Sentences, orders, and related matters
     
     *   (b) the person was 18 years of age or over at the time of committing the offence; and
     
-    *   (c) the court is satisfied that the person is likely to commit another qualifying sexual or violent offence if the person is released at the sentence expiry date (as specified in [subpart 3][611] of Part 1 of the Parole Act 2002) of any sentence, other than a sentence under this section, that the court is able to impose.
+    *   (c) the court is satisfied that the person is likely to commit another qualifying sexual or violent offence if the person is released at the sentence expiry date (as specified in [subpart 3][619] of Part 1 of the Parole Act 2002) of any sentence, other than a sentence under this section, that the court is able to impose.
     
     (3) The High Court may, on the application of the prosecutor or on its own motion, impose a sentence of preventive detention on the offender.
     
@@ -4899,13 +4961,13 @@ Sentences, orders, and related matters
     
     *   (e) the principle that a lengthy determinate sentence is preferable if this provides adequate protection for society.
     
-    (5) In this section and in [sections 88][210] and [90][212], _qualifying sexual or violent offence_ means---
+    (5) In this section and in [sections 88][212] and [90][214], _qualifying sexual or violent offence_ means---
         
-    *   (a) a sexual crime under [Part 7][612] of the Crimes Act 1961 punishable by 7 or more years' imprisonment; and includes a crime under [section 144A][588] or [section 144C][613] of that Act; or
+    *   (a) a sexual crime under [Part 7][620] of the Crimes Act 1961 punishable by 7 or more years' imprisonment; and includes a crime under [section 144A][596] or [section 144C][621] of that Act; or
     
-    *   (b) an offence against any of [sections 171][614], [173 to 176][590], [188][594], [189(1)][595], [191][596], [198 to 199][597], [208 to 210][602], [234][605], [235][606], or [236][607] of the Crimes Act 1961\.
+    *   (b) an offence against any of [sections 171][622], [173 to 176][598], [188][602], [189(1)][603], [191][604], [198 to 199][605], [208 to 210][610], [234][613], [235][614], or [236][615] of the Crimes Act 1961\.
     
-    Section 87(5)(b): amended, on 7 July 2004, by [section 8][615] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 87(5)(b): amended, on 7 July 2004, by [section 8][623] of the Sentencing Amendment Act 2004 (2004 No 68).
 
 ##### 88 Offender must be notified that sentence of preventive detention will be considered, and reports must be obtained
     
@@ -4915,21 +4977,21 @@ Sentences, orders, and related matters
     
     *   (b) the court has considered reports from at least 2 appropriate health assessors about the likelihood of the offender committing a further qualifying sexual or violent offence.
     
-    (2) Despite anything in [section 38(1) and (5)][616] of the Criminal Procedure (Mentally Impaired Persons) Act 2003,---
+    (2) Despite anything in [section 38(1) and (5)][624] of the Criminal Procedure (Mentally Impaired Persons) Act 2003,---
         
-    *   (a) the court may, for the purposes of obtaining the report referred to in subsection (1)(b), exercise all or any of the powers conferred by [section 38(2)][616] of the Criminal Procedure (Mentally Impaired Persons) Act 2003; and
+    *   (a) the court may, for the purposes of obtaining the report referred to in subsection (1)(b), exercise all or any of the powers conferred by [section 38(2)][624] of the Criminal Procedure (Mentally Impaired Persons) Act 2003; and
     
-    *   (b) [section 38(4)][616] and [sections 40 to 46][617] of that Act apply, so far as they are applicable and with any necessary modifications, to the offender and any report so obtained.
+    *   (b) [section 38(4)][624] and [sections 40 to 46][625] of that Act apply, so far as they are applicable and with any necessary modifications, to the offender and any report so obtained.
     
     (3) To avoid doubt, a health assessor's report under subsection (1)(b) may take into account any statement of the offender or any other person concerning any conduct of the offender, whether or not that conduct constitutes an offence and whether or not the offender has been charged with, or convicted of, an offence in respect of that conduct.
     
-    Section 88(2): amended, on 1 September 2004, by [section 51][479] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 88(2): amended, on 1 September 2004, by [section 51][481] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 88(2)(a): amended, on 1 September 2004, by [section 51][479] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 88(2)(a): amended, on 1 September 2004, by [section 51][481] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 88(2)(b): amended, on 1 September 2004, by [section 51][479] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 88(2)(b): amended, on 1 September 2004, by [section 51][481] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 88(3): added, on 1 October 2007, by [section 47][618] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 88(3): added, on 1 October 2007, by [section 47][626] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 89 Imposition of minimum period of imprisonment
     
@@ -4941,13 +5003,13 @@ Sentences, orders, and related matters
     
     *   (b) the minimum period of imprisonment required for the purposes of the safety of the community in the light of the offender's age and the risk posed by the offender to that safety at the time of sentencing.
     
-    (2A) In any case where a sentence of preventive detention is imposed for a stage-3 offence (within the meaning of [section 86A][199]), subsections (1) and (2) are subject to [section 86D(7)][202].
+    (2A) In any case where a sentence of preventive detention is imposed for a stage-3 offence (within the meaning of [section 86A][201]), subsections (1) and (2) are subject to [section 86D(7)][204].
     
-    (3) For the purposes of [Part 6][566] of the Criminal Procedure Act 2011, an order under subsection (1) is a sentence.
+    (3) For the purposes of [Part 6][568] of the Criminal Procedure Act 2011, an order under subsection (1) is a sentence.
     
-    Section 89(2A): inserted, on 1 June 2010, by [section 7][619] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 89(2A): inserted, on 1 June 2010, by [section 7][627] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
     
-    Section 89(3): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 89(3): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ##### 90 Procedure if offender convicted in District Court and court believes offender could be sentenced to preventive detention
     
@@ -4955,7 +5017,7 @@ Sentences, orders, and related matters
     
     (2) The court must transfer the offender to the High Court for sentence and make an entry in the permanent court record to the effect that the court has declined jurisdiction on the ground that it has reason to believe that the offender should be considered for a sentence of preventive detention.
     
-    Section 90(2): replaced, on 1 July 2013, by [section 5][620] of the Sentencing Amendment Act 2013 (2013 No 32).
+    Section 90(2): replaced, on 1 July 2013, by [section 5][628] of the Sentencing Amendment Act 2013 (2013 No 32).
 
 #### Warrant of commitment for sentence of imprisonment
 
@@ -4981,19 +5043,19 @@ Sentences, orders, and related matters
     
     (9) A warrant under this section may be issued in respect of any number of sentences imposed in respect of the same offender at the same sitting of the court.
     
-    Compare: 1985 No 120 [s 143][621]
+    Compare: 1985 No 120 [s 143][629]
     
-    Section 91(4): repealed, on 1 October 2007, by [section 48][622] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 91(4): repealed, on 1 October 2007, by [section 48][630] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 91(5): repealed, on 1 October 2007, by [section 48][622] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 91(5): repealed, on 1 October 2007, by [section 48][630] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 91(8A): inserted, on 1 January 2004, by [section 48(1)][549] of the Supreme Court Act 2003 (2003 No 53).
+    Section 91(8A): inserted, on 1 January 2004, by [section 48(1)][551] of the Supreme Court Act 2003 (2003 No 53).
 
 #### Interpretation provision relating to references to offender being sentenced to imprisonment for particular period
 
 ##### 92 References to period of imprisonment for purposes of section 93
     
-*   (1) For the purposes of [section 93][218], a court sentences an offender to imprisonment for a particular period if,---
+*   (1) For the purposes of [section 93][220], a court sentences an offender to imprisonment for a particular period if,---
         
     *   (a) in a case where the offender was not already subject to a sentence or sentences of imprisonment, it sentences the offender to 1 sentence of imprisonment, the term of which is equal to that period; or
     
@@ -5001,7 +5063,7 @@ Sentences, orders, and related matters
     
     *   (c) in a case where the offender was already subject to a sentence or sentences of imprisonment, it sentences the offender to 1 or more sentences of imprisonment the total term of which, including the existing sentences of imprisonment, is equal to that period.
     
-    (2) For the purposes of this section, the total term of 2 or more sentences of imprisonment is a term beginning with the commencement date of the first of the sentences to commence and ending with the sentence expiry date (as specified in [subpart 3][611] of Part 1 of the Parole Act 2002) of the sentence last to expire.
+    (2) For the purposes of this section, the total term of 2 or more sentences of imprisonment is a term beginning with the commencement date of the first of the sentences to commence and ending with the sentence expiry date (as specified in [subpart 3][619] of Part 1 of the Parole Act 2002) of the sentence last to expire.
 
 #### Conditions on release of offender sentenced to imprisonment for short term
 
@@ -5011,7 +5073,7 @@ Sentences, orders, and related matters
     
     (2) If a court sentences an offender to a term of imprisonment of more than 12 months but not more than 24 months,---
         
-    *   (a) the standard conditions apply to the offender until the sentence expiry date, unless the court specifies otherwise; and [sections 94][219], [95][220], and [96][221] apply as if the standard conditions had been imposed by order of the court; and
+    *   (a) the standard conditions apply to the offender until the sentence expiry date, unless the court specifies otherwise; and [sections 94][221], [95][222], and [96][223] apply as if the standard conditions had been imposed by order of the court; and
     
     *   (b) the court may at the same time impose any special conditions on the offender and, if it does so, must specify when the conditions expire.
     
@@ -5025,11 +5087,11 @@ Sentences, orders, and related matters
     
     (2B) In this section,---
     
-    _sentence expiry date_ has the meaning given to it in [section 4][413] of the Parole Act 2002
+    _sentence expiry date_ has the meaning given to it in [section 4][415] of the Parole Act 2002
     
-    _special conditions_ includes, without limitation, conditions of a kind described in [section 15(3)][623] of the Parole Act 2002, other than an electronic monitoring condition as referred to in section 15(3)(f) of that Act, or a residential restriction condition as referred to in section 15(3)(ab) of that Act
+    _special conditions_ includes, without limitation, conditions of a kind described in [section 15(3)][631] of the Parole Act 2002, other than an electronic monitoring condition as referred to in section 15(3)(f) of that Act, or a residential restriction condition as referred to in section 15(3)(ab) of that Act
     
-    _standard conditions_ means the conditions set out in [section 14(1)][624] of the Parole Act 2002\.
+    _standard conditions_ means the conditions set out in [section 14(1)][632] of the Parole Act 2002\.
     
     (3) A special condition must not be imposed unless it is designed to---
         
@@ -5045,7 +5107,7 @@ Sentences, orders, and related matters
     
     *   (b) consents to taking the prescription medication.
     
-    (5) If a court sentences an offender to a term of imprisonment of more than 24 months, it must not impose conditions on the offender's release from imprisonment (and [section 18(2)][625] of the Parole Act 2002 applies).
+    (5) If a court sentences an offender to a term of imprisonment of more than 24 months, it must not impose conditions on the offender's release from imprisonment (and [section 18(2)][633] of the Parole Act 2002 applies).
     
     (6) A court must not impose conditions on an offender's release from imprisonment if---
         
@@ -5061,21 +5123,21 @@ Sentences, orders, and related matters
     
     *   (b) that order applies in respect of all the sentences of imprisonment imposed on that occasion.
     
-    Section 93(1): substituted, on 7 July 2004, by [section 9(1)][626] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 93(1): substituted, on 7 July 2004, by [section 9(1)][634] of the Sentencing Amendment Act 2004 (2004 No 68).
     
-    Section 93(2): substituted, on 7 July 2004, by [section 9(1)][626] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 93(2): substituted, on 7 July 2004, by [section 9(1)][634] of the Sentencing Amendment Act 2004 (2004 No 68).
     
-    Section 93(2A): inserted, on 7 July 2004, by [section 9(1)][626] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 93(2A): inserted, on 7 July 2004, by [section 9(1)][634] of the Sentencing Amendment Act 2004 (2004 No 68).
     
-    Section 93(2B): inserted, on 7 July 2004, by [section 9(1)][626] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 93(2B): inserted, on 7 July 2004, by [section 9(1)][634] of the Sentencing Amendment Act 2004 (2004 No 68).
     
-    Section 93(2B) **special conditions**: amended, on 1 October 2007, by [section 49(4)][627] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 93(2B) **special conditions**: amended, on 1 October 2007, by [section 49(4)][635] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 93(7): repealed, on 7 July 2004, by [section 9(2)][626] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 93(7): repealed, on 7 July 2004, by [section 9(2)][634] of the Sentencing Amendment Act 2004 (2004 No 68).
 
 ##### 94 Variation of release conditions
     
-*   (1) An offender who is subject to conditions imposed under [section 93][218], or a probation officer, may apply for an order under subsection (3) of this section.
+*   (1) An offender who is subject to conditions imposed under [section 93][220], or a probation officer, may apply for an order under subsection (3) of this section.
     
     (2) [Section 72][136] applies with any necessary modifications to an application under this section.
     
@@ -5083,9 +5145,9 @@ Sentences, orders, and related matters
         
     *   (a) suspend any condition or vary the duration of any condition, or impose additional conditions; or
     
-    *   (b) discharge a condition and substitute any other condition described in [section 93][218] that could have been imposed on the offender at the time when the offender was convicted of the offence for which the sentence was imposed.
+    *   (b) discharge a condition and substitute any other condition described in [section 93][220] that could have been imposed on the offender at the time when the offender was convicted of the offence for which the sentence was imposed.
     
-    (4) The court must not vary any existing condition, or impose any new condition, of a kind referred to in [section 93(4)][218] (which involves prescription medication) unless the offender---
+    (4) The court must not vary any existing condition, or impose any new condition, of a kind referred to in [section 93(4)][220] (which involves prescription medication) unless the offender---
         
     *   (a) has been fully advised, by a person who is qualified to prescribe that medication, about the nature and likely or intended effect of any variation or new condition in relation to the medication and any known risks; and
     
@@ -5097,7 +5159,7 @@ Sentences, orders, and related matters
     
 *   (1) This section applies if---
         
-    *   (a) an offender is, at the same time, subject to conditions imposed under 2 or more orders made under [section 93][218]; and
+    *   (a) an offender is, at the same time, subject to conditions imposed under 2 or more orders made under [section 93][220]; and
     
     *   (b) a probation officer is satisfied that---
             
@@ -5107,41 +5169,41 @@ Sentences, orders, and related matters
         
         
     
-    (2) The probation officer must apply for a review of the conditions to which the offender is subject under the orders made under [section 93][218].
+    (2) The probation officer must apply for a review of the conditions to which the offender is subject under the orders made under [section 93][220].
     
-    (3) [Section 94][219] applies with any necessary modifications to an application made under this section.
+    (3) [Section 94][221] applies with any necessary modifications to an application made under this section.
 
 ##### 96 Offence to breach conditions
     
-*   (1) Every offender commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $2,000, who breaches, without reasonable excuse, any conditions imposed under [section 93][218] or [section 94][219].
+*   (1) Every offender commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $2,000, who breaches, without reasonable excuse, any conditions imposed under [section 93][220] or [section 94][221].
     
-    (2) In the case of a condition of a kind referred to in [section 93(4)][218] (which involves prescription medication) an offender does not breach his or her conditions for the purposes of this section if he or she withdraws consent to taking prescription medication.
+    (2) In the case of a condition of a kind referred to in [section 93(4)][220] (which involves prescription medication) an offender does not breach his or her conditions for the purposes of this section if he or she withdraws consent to taking prescription medication.
     
-    Section 96(1): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 96(1): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 #### Home detention
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 October 2007, by [section 50][628] of the Sentencing Amendment Act 2007 (2007 No 27).
+*   Heading: repealed, on 1 October 2007, by [section 50][636] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 97 Court must consider granting offender leave to apply for home detention in certain cases
     
 *   \[Repealed\]
     
-    Section 97: repealed, on 1 October 2007, by [section 50][628] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 97: repealed, on 1 October 2007, by [section 50][636] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 98 Appeal against order granting or declining leave to apply for home detention
     
 *   \[Repealed\]
     
-    Section 98: repealed, on 1 October 2007, by [section 50][628] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 98: repealed, on 1 October 2007, by [section 50][636] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 99 Effect of subsequent conviction on home detention
     
 *   \[Repealed\]
     
-    Section 99: repealed, on 1 October 2007, by [section 50][628] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 99: repealed, on 1 October 2007, by [section 50][636] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 #### Provisions about start date of sentence of imprisonment
 
@@ -5155,9 +5217,9 @@ Sentences, orders, and related matters
     
     (2) \[Repealed\]
     
-    (3) The sentence of imprisonment starts on the date specified in [section 78][629] of the Parole Act 2002\.
+    (3) The sentence of imprisonment starts on the date specified in [section 78][637] of the Parole Act 2002\.
     
-    (3A) The [Bail Act 2000][630] provides that an offender whose sentence is deferred under this section must be granted bail.
+    (3A) The [Bail Act 2000][638] provides that an offender whose sentence is deferred under this section must be granted bail.
     
     (4) Despite subsection (1), no court may defer the start date of a sentence of imprisonment if---
         
@@ -5171,23 +5233,23 @@ Sentences, orders, and related matters
     
     (5) For the purpose of this section, a term of imprisonment imposed on an offender (whether by committal, sentence, or order) in respect of the non-payment of a sum of money, contempt of court, or disobedience of a court order is deemed to be a determinate sentence of imprisonment.
     
-    Compare: 1985 No 120 [s 78(2)][631]
+    Compare: 1985 No 120 [s 78(2)][639]
     
-    Section 100(1)(b): repealed, on 1 October 2007, by [section 51][632] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 100(1)(b): repealed, on 1 October 2007, by [section 51][640] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 100(2): repealed, on 1 October 2007, by [section 51][632] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 100(2): repealed, on 1 October 2007, by [section 51][640] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 100(3A): inserted, on 7 July 2004, by [section 11(2)][633] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 100(3A): inserted, on 7 July 2004, by [section 11(2)][641] of the Sentencing Amendment Act 2004 (2004 No 68).
     
-    Section 100(4)(b): amended, on 7 July 2004, by [section 11(3)][633] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 100(4)(b): amended, on 7 July 2004, by [section 11(3)][641] of the Sentencing Amendment Act 2004 (2004 No 68).
     
-    Section 100(4)(c): added, on 7 July 2004, by [section 11(3)][633] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 100(4)(c): added, on 7 July 2004, by [section 11(3)][641] of the Sentencing Amendment Act 2004 (2004 No 68).
     
-    Section 100(4)(d): added, on 7 July 2004, by [section 11(3)][633] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 100(4)(d): added, on 7 July 2004, by [section 11(3)][641] of the Sentencing Amendment Act 2004 (2004 No 68).
 
 ##### 101 Start date of sentence of imprisonment
     
-*   (1) Except as provided in [section 100][227], the start date of a sentence of imprisonment is that set out in [section 76][634] of the Parole Act 2002\.
+*   (1) Except as provided in [section 100][229], the start date of a sentence of imprisonment is that set out in [section 76][642] of the Parole Act 2002\.
     
     (2) For the purpose of this section, a term of imprisonment imposed on an offender (whether by committal, sentence, or order) in respect of the non-payment of a sum of money, contempt of court, or disobedience of a court order is deemed to be a determinate sentence of imprisonment.
 
@@ -5201,19 +5263,19 @@ Sentences, orders, and related matters
     
     (2) If a court does not impose a sentence of imprisonment for life on an offender convicted of murder, it must give written reasons for not doing so.
     
-    (3) This section is subject to [section 86E(2)][203].
+    (3) This section is subject to [section 86E(2)][205].
     
-    Section 102(3): added, on 1 June 2010, by [section 8][635] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 102(3): added, on 1 June 2010, by [section 8][643] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
 
 #### Imposition of minimum period of imprisonment or imprisonment without parole
     
-*   Heading: amended, on 1 June 2010, by [section 9][636] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+*   Heading: amended, on 1 June 2010, by [section 9][644] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
 
 ##### 103 Imposition of minimum period of imprisonment or imprisonment without parole if life imprisonment imposed for murder
     
 *   (1) If a court sentences an offender convicted of murder to imprisonment for life it must,---
         
-    *   (a) if [section 86E(1)][203] does not apply to the conviction,---
+    *   (a) if [section 86E(1)][205] does not apply to the conviction,---
             
         *   (i) order that the offender serve a minimum period of imprisonment under that sentence; or
         
@@ -5221,7 +5283,7 @@ Sentences, orders, and related matters
         
         
     
-    *   (b) in any case where [section 86E(1)][203] applies to the conviction, take the action prescribed by that section.
+    *   (b) in any case where [section 86E(1)][205] applies to the conviction, take the action prescribed by that section.
     
     (2) The minimum term of imprisonment ordered may not be less than 10 years, and must be the minimum term of imprisonment that the court considers necessary to satisfy all or any of the following purposes:
         
@@ -5245,31 +5307,31 @@ Sentences, orders, and related matters
     
     (6) \[Repealed\]
     
-    (7) Subsection (2) is subject to [section 104][234].
+    (7) Subsection (2) is subject to [section 104][236].
     
-    Section 103 heading: amended, on 1 June 2010, by [section 10(1)][637] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 103 heading: amended, on 1 June 2010, by [section 10(1)][645] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
     
-    Section 103(1): substituted, on 1 June 2010, by [section 10(2)][637] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 103(1): substituted, on 1 June 2010, by [section 10(2)][645] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
     
-    Section 103(2): substituted, on 7 July 2004, by [section 12][638] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 103(2): substituted, on 7 July 2004, by [section 12][646] of the Sentencing Amendment Act 2004 (2004 No 68).
     
-    Section 103(2A): inserted, on 1 June 2010, by [section 10(3)][637] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 103(2A): inserted, on 1 June 2010, by [section 10(3)][645] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
     
-    Section 103(2B): inserted, on 1 June 2010, by [section 10(3)][637] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 103(2B): inserted, on 1 June 2010, by [section 10(3)][645] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
     
-    Section 103(3): repealed, on 7 July 2004, by [section 12][638] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 103(3): repealed, on 7 July 2004, by [section 12][646] of the Sentencing Amendment Act 2004 (2004 No 68).
     
-    Section 103(4): repealed, on 7 July 2004, by [section 12][638] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 103(4): repealed, on 7 July 2004, by [section 12][646] of the Sentencing Amendment Act 2004 (2004 No 68).
     
-    Section 103(5): repealed, on 7 July 2004, by [section 12][638] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 103(5): repealed, on 7 July 2004, by [section 12][646] of the Sentencing Amendment Act 2004 (2004 No 68).
     
-    Section 103(6): repealed, on 7 July 2004, by [section 12][638] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 103(6): repealed, on 7 July 2004, by [section 12][646] of the Sentencing Amendment Act 2004 (2004 No 68).
     
-    Section 103(7): amended, on 1 June 2010, by [section 10(4)][637] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 103(7): amended, on 1 June 2010, by [section 10(4)][645] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
 
 ##### 104 Imposition of minimum period of imprisonment of 17 years or more
     
-*   (1) The court must make an order under [section 103][233] imposing a minimum period of imprisonment of at least 17 years in the following circumstances, unless it is satisfied that it would be manifestly unjust to do so:
+*   (1) The court must make an order under [section 103][235] imposing a minimum period of imprisonment of at least 17 years in the following circumstances, unless it is satisfied that it would be manifestly unjust to do so:
         
     *   (a) if the murder was committed in an attempt to avoid the detection, prosecution, or conviction of any person for any offence or in any other way to attempt to subvert the course of justice; or
     
@@ -5281,7 +5343,7 @@ Sentences, orders, and related matters
     
     *   (e) if the murder was committed with a high level of brutality, cruelty, depravity, or callousness; or
     
-    *   (ea) if the murder was committed as part of a terrorist act (as defined in [section 5(1)][437] of the Terrorism Suppression Act 2002); or
+    *   (ea) if the murder was committed as part of a terrorist act (as defined in [section 5(1)][439] of the Terrorism Suppression Act 2002); or
     
     *   (f) if the deceased was a constable or a prison officer acting in the course of his or her duty; or
     
@@ -5291,35 +5353,35 @@ Sentences, orders, and related matters
     
     *   (i) in any other exceptional circumstances.
     
-    (2) This section does not apply to an offender in respect of whom an order under [section 86E(2)(b) or (4)(a)][203] or [103(2A)][233] is made.
+    (2) This section does not apply to an offender in respect of whom an order under [section 86E(2)(b) or (4)(a)][205] or [103(2A)][235] is made.
     
-    Section 104(1)(ea): inserted, on 31 October 2003, by [section 4][639] of the Sentencing Amendment Act 2003 (2003 No 109).
+    Section 104(1)(ea): inserted, on 31 October 2003, by [section 4][647] of the Sentencing Amendment Act 2003 (2003 No 109).
     
-    Section 104(1)(f): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][530] of the Policing Act 2008 (2008 No 72).
+    Section 104(1)(f): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][532] of the Policing Act 2008 (2008 No 72).
     
-    Section 104(2): added, on 1 June 2010, by [section 11][640] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 104(2): added, on 1 June 2010, by [section 11][648] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
 
 ##### 105 Appeal against imposition of minimum period of imprisonment
     
-*   For the purposes of [Part 6][566] of the Criminal Procedure Act 2011, an order under [section 103][233] is a sentence.
+*   For the purposes of [Part 6][568] of the Criminal Procedure Act 2011, an order under [section 103][235] is a sentence.
     
-    Section 105: amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 105: amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ### Subpart 4A---Offender levy and victims' services bank account
     
-*   Subpart 4A: inserted, on 1 July 2010, by [section 7][641] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
+*   Subpart 4A: inserted, on 1 July 2010, by [section 7][649] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
 
 ##### 105A Interpretation
     
 *   For the purposes of this subpart, unless the context otherwise requires,---
     
-    _account_ means the Crown bank account known as the victims' services bank account established under [section 105G][243]
+    _account_ means the Crown bank account known as the victims' services bank account established under [section 105G][245]
     
-    _approved agency_ means an organisation for the time being approved by the Secretary under [section 105J][246]
+    _approved agency_ means an organisation for the time being approved by the Secretary under [section 105J][248]
     
     _Secretary_ means the Secretary for Justice; and includes a person or body authorised by the Secretary to exercise or perform his or her functions, powers, and duties under this Act.
     
-    Section 105A: inserted, on 1 July 2010, by [section 7][641] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
+    Section 105A: inserted, on 1 July 2010, by [section 7][649] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
 
 ##### 105B Offender to pay levy
     
@@ -5329,43 +5391,43 @@ Sentences, orders, and related matters
     
     (3) The levy is not a sentence and is in addition to any sentence.
     
-    Section 105B: inserted, on 1 July 2010, by [section 7][641] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
+    Section 105B: inserted, on 1 July 2010, by [section 7][649] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
 
 ##### 105C Priority of payments received from offender
     
 *   \[Repealed\]
     
-    Section 105C: repealed, on 13 February 2012, by [section 11][642] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 105C: repealed, on 13 February 2012, by [section 11][650] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 105D Amount of levy
     
-*   The amount of the levy payable under [section 105B][238] is $50 unless regulations made under [section 147][346] prescribe otherwise.
+*   The amount of the levy payable under [section 105B][240] is $50 unless regulations made under [section 147][348] prescribe otherwise.
     
-    Section 105D: inserted, on 1 July 2010, by [section 7][641] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
+    Section 105D: inserted, on 1 July 2010, by [section 7][649] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
 
 ##### 105E Payment of levy
     
 *   An offender must pay the levy to the Secretary, who must pay the levy into the account.
     
-    Section 105E: inserted, on 1 July 2010, by [section 7][641] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
+    Section 105E: inserted, on 1 July 2010, by [section 7][649] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
 
 ##### 105F Distribution of money in account
     
 *   The Secretary may, from time to time, pay to an approved agency any amount of money from money that is held in the account.
     
-    Section 105F: inserted, on 1 July 2010, by [section 7][641] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
+    Section 105F: inserted, on 1 July 2010, by [section 7][649] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
 
 ##### 105G Victims' services bank account
     
 *   The Secretary must, for the purposes of this subpart, establish through the Treasury a separate Crown bank account to be known as the victims' services bank account.
     
-    Section 105G: inserted, on 1 July 2010, by [section 7][641] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
+    Section 105G: inserted, on 1 July 2010, by [section 7][649] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
 
 ##### 105H Payments from, and other operation of, account
     
-*   The Secretary must ensure that money is paid out of the account, and that the account is otherwise operated, only as permitted or required by this subpart or by regulations made under [section 105I][245].
+*   The Secretary must ensure that money is paid out of the account, and that the account is otherwise operated, only as permitted or required by this subpart or by regulations made under [section 105I][247].
     
-    Section 105H: inserted, on 1 July 2010, by [section 7][641] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
+    Section 105H: inserted, on 1 July 2010, by [section 7][649] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
 
 ##### 105I Regulations on operation of account
     
@@ -5375,7 +5437,7 @@ Sentences, orders, and related matters
     
     *   (b) providing for the manner in which, and the conditions subject to which, the Secretary may or must otherwise operate the account.
     
-    Section 105I: inserted, on 1 July 2010, by [section 7][641] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
+    Section 105I: inserted, on 1 July 2010, by [section 7][649] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
 
 ##### 105J Approval of agency
     
@@ -5385,7 +5447,7 @@ Sentences, orders, and related matters
         
     *   (a) the organisation has as one of its roles providing services to victims of crime; and
     
-    *   (b) any amount paid to the organisation under [section 105F][242] will be applied to provide services to victims of crime; and
+    *   (b) any amount paid to the organisation under [section 105F][244] will be applied to provide services to victims of crime; and
     
     *   (c) the organisation has members with the knowledge, experience, and skills to provide services to victims of crime; and
     
@@ -5393,7 +5455,7 @@ Sentences, orders, and related matters
     
     (3) The Secretary may at any time, by notice in writing to an organisation approved under subsection (1), revoke that approval if the Secretary is no longer satisfied of the matters set out in subsection (2) or of any other matters that the Secretary considers relevant.
     
-    Section 105J: inserted, on 1 July 2010, by [section 7][641] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
+    Section 105J: inserted, on 1 July 2010, by [section 7][649] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
 
 ### Subpart 5---Discharge and miscellaneous orders
 
@@ -5431,17 +5493,17 @@ Sentences, orders, and related matters
     
     (7) \[Repealed\]
     
-    Compare: 1985 No 120 [s 19][643]
+    Compare: 1985 No 120 [s 19][651]
     
-    Section 106(3A): replaced, on 13 February 2012, by [section 12(1)][644] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 106(3A): replaced, on 13 February 2012, by [section 12(1)][652] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 106(4): repealed, on 13 February 2012, by [section 12(2)][644] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 106(4): repealed, on 13 February 2012, by [section 12(2)][652] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 106(5): repealed, on 13 February 2012, by [section 12(2)][644] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 106(5): repealed, on 13 February 2012, by [section 12(2)][652] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 106(6): repealed, on 13 February 2012, by [section 12(2)][644] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 106(6): repealed, on 13 February 2012, by [section 12(2)][652] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 106(7): repealed, on 13 February 2012, by [section 12(2)][644] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 106(7): repealed, on 13 February 2012, by [section 12(2)][652] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 107 Guidance for discharge without conviction
     
@@ -5477,17 +5539,17 @@ Sentences, orders, and related matters
     
     (6) \[Repealed\]
     
-    Compare: 1985 No 120 [s 20][645]
+    Compare: 1985 No 120 [s 20][653]
     
-    Section 108(2A): replaced, on 13 February 2012, by [section 13(1)][646] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 108(2A): replaced, on 13 February 2012, by [section 13(1)][654] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 108(3): repealed, on 13 February 2012, by [section 13(2)][646] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 108(3): repealed, on 13 February 2012, by [section 13(2)][654] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 108(4): repealed, on 13 February 2012, by [section 13(2)][646] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 108(4): repealed, on 13 February 2012, by [section 13(2)][654] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 108(5): repealed, on 13 February 2012, by [section 13(2)][646] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 108(5): repealed, on 13 February 2012, by [section 13(2)][654] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 108(6): repealed, on 13 February 2012, by [section 13(2)][646] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 108(6): repealed, on 13 February 2012, by [section 13(2)][654] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 109 Guidance on conviction and discharge
     
@@ -5525,27 +5587,27 @@ Sentences, orders, and related matters
     
     (7) \[Repealed\]
     
-    Compare: 1985 No 120 [s 21(1), (2)][647]
+    Compare: 1985 No 120 [s 21(1), (2)][655]
     
-    Section 110(3A): replaced, on 13 February 2012, by [section 14(1)][648] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 110(3A): replaced, on 13 February 2012, by [section 14(1)][656] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 110(4): repealed, on 13 February 2012, by [section 14(2)][648] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 110(4): repealed, on 13 February 2012, by [section 14(2)][656] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 110(5): repealed, on 13 February 2012, by [section 14(2)][648] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 110(5): repealed, on 13 February 2012, by [section 14(2)][656] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 110(6): repealed, on 13 February 2012, by [section 14(2)][648] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 110(6): repealed, on 13 February 2012, by [section 14(2)][656] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 110(7): repealed, on 13 February 2012, by [section 14(2)][648] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 110(7): repealed, on 13 February 2012, by [section 14(2)][656] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 111 Calling offender to come up for sentence
     
-*   (1) This section applies if an offender in respect of whom an order is made under [section 110][254]---
+*   (1) This section applies if an offender in respect of whom an order is made under [section 110][256]---
         
     *   (a) is convicted of a subsequent offence punishable by imprisonment for a term of more than 3 months; or
     
-    *   (b) fails to comply with any other order referred to in [section 110(3)][254]; or
+    *   (b) fails to comply with any other order referred to in [section 110(3)][256]; or
     
-    *   (c) fails to comply with any agreement or fails to take any measure or action of a kind referred to in [section 10(1)(b), (d), or (e)][16] that was brought to the attention of the court at the time the court made the order under [section 110][254].
+    *   (c) fails to comply with any agreement or fails to take any measure or action of a kind referred to in [section 10(1)(b), (d), or (e)][16] that was brought to the attention of the court at the time the court made the order under [section 110][256].
     
     (2) Any of the following persons may, at any time within the period specified in the order, apply to a court having jurisdiction to deal with the original offence to have the offender brought before the court to be dealt with for that offence:
         
@@ -5565,7 +5627,7 @@ Sentences, orders, and related matters
     
     *   (c) issue an arrest warrant without first issuing a summons.
     
-    (4) If an application is made under subsection (2), [sections 167 to 170][544], [206][545], and [385][546] of the Criminal Procedure Act 2011 apply, with any necessary modifications, as if the application were a charging document.
+    (4) If an application is made under subsection (2), [sections 167 to 170][546], [206][547], and [385][548] of the Criminal Procedure Act 2011 apply, with any necessary modifications, as if the application were a charging document.
     
     (5) If a person appears before a court under this section and the court is satisfied of any of the matters specified in subsection (1), the court---
         
@@ -5573,13 +5635,13 @@ Sentences, orders, and related matters
     
     *   (b) may sentence or otherwise deal with the offender for the original offence.
     
-    Compare: 1985 No 120 [s 21(3)--(6)][647]
+    Compare: 1985 No 120 [s 21(3)--(6)][655]
     
-    Section 111(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][530] of the Policing Act 2008 (2008 No 72).
+    Section 111(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][532] of the Policing Act 2008 (2008 No 72).
     
-    Section 111(2)(d): amended, on 1 October 2003, pursuant to [section 14(2)][480] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 111(2)(d): amended, on 1 October 2003, pursuant to [section 14(2)][482] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 111(4): replaced, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 111(4): replaced, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 #### Non-association orders
 
@@ -5595,11 +5657,11 @@ Sentences, orders, and related matters
     
     (5) The court must not make a non-association order if the offender is already detained under a sentence of imprisonment of more than 24 months imposed on an earlier occasion.
     
-    (6) [Section 202][649] of the Criminal Procedure Act 2011 applies to a person specified in a non-association order as if that person were connected with the proceedings.
+    (6) [Section 202][657] of the Criminal Procedure Act 2011 applies to a person specified in a non-association order as if that person were connected with the proceedings.
     
-    Compare: 1985 No 120 [s 28A(1)--(3), (6)][650]
+    Compare: 1985 No 120 [s 28A(1)--(3), (6)][658]
     
-    Section 112(6): amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was committed before that date in accordance with the provisions of sections 397 and 399--401 of the Criminal Procedure Act 2011), by [section 393][651] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 112(6): amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was committed before that date in accordance with the provisions of sections 397 and 399--401 of the Criminal Procedure Act 2011), by [section 393][659] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 113 Effect of non-association order
     
@@ -5611,7 +5673,7 @@ Sentences, orders, and related matters
     
     (2) A non-association order has effect for the period, not exceeding 12 months, that the court may specify in the order.
     
-    Compare: 1985 No 120 [s 28A(4), (5)][650]
+    Compare: 1985 No 120 [s 28A(4), (5)][658]
 
 ##### 114 Cumulative orders and sentences
     
@@ -5619,7 +5681,7 @@ Sentences, orders, and related matters
     
     (2) If the court imposes a non-association order on an offender who is already detained under a sentence of imprisonment of 24 months or less, the non-association order is cumulative on the other sentence.
     
-    Compare: [1985 No 120][652] [s 28B(1), (1A)][465]
+    Compare: [1985 No 120][660] [s 28B(1), (1A)][467]
 
 ##### 115 Order must be drawn up and copy given to offender, etc
     
@@ -5635,25 +5697,25 @@ Sentences, orders, and related matters
     
     *   (b) the constable in charge of the Police station nearest to the court in which the order was made.
     
-    Compare: 1985 No 120 [s 28C][653]
+    Compare: 1985 No 120 [s 28C][661]
     
-    Section 115(4)(b): amended, on 1 October 2008, pursuant to [section 116(a)(iv)][530] of the Policing Act 2008 (2008 No 72).
+    Section 115(4)(b): amended, on 1 October 2008, pursuant to [section 116(a)(iv)][532] of the Policing Act 2008 (2008 No 72).
 
 ##### 116 Right of appeal against non-association order
     
-*   For the purposes of [Part 6][566] of the Criminal Procedure Act 2011, a non-association order is a sentence.
+*   For the purposes of [Part 6][568] of the Criminal Procedure Act 2011, a non-association order is a sentence.
     
-    Compare: 1985 No 120 [s 28D][654]
+    Compare: 1985 No 120 [s 28D][662]
     
-    Section 116: amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 116: amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ##### 117 Commencement of period of non-association
     
 *   (1) Except as provided in subsection (2), the period of non-association specified by a non-association order commences on the day on which the order is made.
     
-    (2) If a non-association order is, under [section 114(2)][259], cumulative on a sentence of imprisonment, the period of non-association specified by the non-association order commences on the day on which the offender is released from detention under the sentence of imprisonment.
+    (2) If a non-association order is, under [section 114(2)][261], cumulative on a sentence of imprisonment, the period of non-association specified by the non-association order commences on the day on which the offender is released from detention under the sentence of imprisonment.
     
-    Compare: 1985 No 120 [s 28E][655]
+    Compare: 1985 No 120 [s 28E][663]
 
 ##### 118 Breach of non-association order constitutes offence
     
@@ -5661,9 +5723,9 @@ Sentences, orders, and related matters
     
     (2) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $1,000\.
     
-    Compare: 1985 No 120 [s 28F][656]
+    Compare: 1985 No 120 [s 28F][664]
     
-    Section 118(2): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 118(2): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ##### 119 Effect of subsequent sentences on non-association order
     
@@ -5681,11 +5743,11 @@ Sentences, orders, and related matters
         
         
     
-    Compare: 1985 No 120 [s 28G(1)][657]
+    Compare: 1985 No 120 [s 28G(1)][665]
 
 ##### 120 Resumption of non-association order if sentence of imprisonment quashed
     
-*   (1) This section applies to a non-association order that is suspended under [section 119(a) or (b)][264].
+*   (1) This section applies to a non-association order that is suspended under [section 119(a) or (b)][266].
     
     (2) The non-association order is suspended until the earlier of the following events:
         
@@ -5695,33 +5757,33 @@ Sentences, orders, and related matters
     
     (3) The non-association order is resumed if the sentence of imprisonment based on which the non-association order was suspended is quashed and that results in the offender no longer being detained under a sentence of imprisonment.
     
-    (4) If a non-association order is resumed under subsection (3), no period during which the order was suspended is counted towards the period under [section 113(2)][258].
+    (4) If a non-association order is resumed under subsection (3), no period during which the order was suspended is counted towards the period under [section 113(2)][260].
     
     (5) If the non-association order never resumes under subsection (3), it is cancelled when the offender ceases to be detained under the sentence of imprisonment based on which the non-association order was suspended.
 
 ##### 121 Application for review of non-association order
     
-*   (1) An offender may, at any time after the expiration of half the period of non-association under a non-association order, apply to the court in accordance with [section 123][268] for the variation or cancellation of the order.
+*   (1) An offender may, at any time after the expiration of half the period of non-association under a non-association order, apply to the court in accordance with [section 123][270] for the variation or cancellation of the order.
     
-    (2) If a non-association order is cumulative on a sentence of imprisonment, the offender may, before the period of non-association commences, apply to the court in accordance with [section 123][268] for the variation or cancellation of the order.
+    (2) If a non-association order is cumulative on a sentence of imprisonment, the offender may, before the period of non-association commences, apply to the court in accordance with [section 123][270] for the variation or cancellation of the order.
     
-    (3) A probation officer may apply to a court in accordance with [section 123][268] for the variation or cancellation of a non-association order if---
+    (3) A probation officer may apply to a court in accordance with [section 123][270] for the variation or cancellation of a non-association order if---
         
     *   (a) the offender who is subject to it is convicted of an offence punishable by imprisonment; or
     
     *   (b) a probation officer believes on reasonable grounds that the offender has failed or is unable to comply with the order.
     
-    (4) Subsection (3) does not apply if the order is cancelled under [section 120][265].
+    (4) Subsection (3) does not apply if the order is cancelled under [section 120][267].
     
     (5) If an application is made under this section by a probation officer, the probation officer may suspend the order until the application has been heard and disposed of.
     
-    Compare: 1985 No 120 [ss 28H(1)][658], [28I(1), (2), (6)][659]
+    Compare: 1985 No 120 [ss 28H(1)][666], [28I(1), (2), (6)][667]
     
-    Section 121(4): amended, on 7 July 2004, by [section 16][660] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 121(4): amended, on 7 July 2004, by [section 16][668] of the Sentencing Amendment Act 2004 (2004 No 68).
 
 ##### 122 Determination of application for variation or cancellation of order
     
-*   (1) On an application under [section 121][266], the court must have regard to---
+*   (1) On an application under [section 121][268], the court must have regard to---
         
     *   (a) any change in circumstances since the non-association order was made; and
     
@@ -5743,41 +5805,41 @@ Sentences, orders, and related matters
     
     *   (b) in any other case, the period of non-association expires on the date that the order cancelling the non-association order is made.
     
-    Compare: 1985 No 120 [ss 28H(2)][658], [28I(4), (5)][659]
+    Compare: 1985 No 120 [ss 28H(2)][666], [28I(4), (5)][667]
 
 ##### 123 Jurisdiction and procedure
     
-*   (1) [Section 72][136] applies, with any necessary modifications, to every application under [section 121][266].
+*   (1) [Section 72][136] applies, with any necessary modifications, to every application under [section 121][268].
     
     (2) Before determining the application, the court may make any inquiries as to the circumstances of the case that the court considers reasonable, and may hear any evidence relevant to those circumstances.
     
     (3) If the court varies or cancels the non-association order, the Registrar must give written notice of the decision to the chief executive of the Department of Corrections and the constable in charge of the Police station nearest to the court.
     
-    Compare: 1985 No 120 [ss 28H(4)][658], [28I(7)][659], [28J][661]
+    Compare: 1985 No 120 [ss 28H(4)][666], [28I(7)][667], [28J][669]
     
-    Section 123(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][530] of the Policing Act 2008 (2008 No 72).
+    Section 123(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][532] of the Policing Act 2008 (2008 No 72).
 
 #### Protection orders
     
-*   Heading: inserted, on 1 July 2010, by [section 4][662] of the Sentencing Amendment Act (No 2) 2009 (2009 No 44).
+*   Heading: inserted, on 1 July 2010, by [section 4][670] of the Sentencing Amendment Act (No 2) 2009 (2009 No 44).
 
 ##### 123A Interpretation of terms used in this section and sections 123B to 123G
     
-*   In this section and [sections 123B to 123G][271], unless the context otherwise requires,---
+*   In this section and [sections 123B to 123G][273], unless the context otherwise requires,---
     
-    _child_ has the meaning given to it by [section 2][663] of the Domestic Violence Act 1995
+    _child_ has the meaning given to it by [section 2][671] of the Domestic Violence Act 1995
     
-    _domestic relationship_ has the meaning given to it by [section 4][664] of the Domestic Violence Act 1995
+    _domestic relationship_ has the meaning given to it by [section 4][672] of the Domestic Violence Act 1995
     
-    _domestic violence offence_ means an offence against any enactment (other than the [Domestic Violence Act 1995][665]) involving the use of violence against a person, other than a child, with whom the offender is, or has been, in a domestic relationship
+    _domestic violence offence_ means an offence against any enactment (other than the [Domestic Violence Act 1995][673]) involving the use of violence against a person, other than a child, with whom the offender is, or has been, in a domestic relationship
     
-    _domestic violence proceedings_ means proceedings in a Family Court or a District Court under the [Domestic Violence Act 1995][665] that relate wholly or partly to an application for a protection order
+    _domestic violence proceedings_ means proceedings in a Family Court or a District Court under the [Domestic Violence Act 1995][673] that relate wholly or partly to an application for a protection order
     
     _victim of the offence_ means the person against whom the offence was committed by the offender
     
-    _violence_ has the meaning given to it by [section 3(2), (4), and (5)][666] of the Domestic Violence Act 1995\.
+    _violence_ has the meaning given to it by [section 3(2), (4), and (5)][674] of the Domestic Violence Act 1995\.
     
-    Section 123A: inserted, on 1 July 2010, by [section 4][662] of the Sentencing Amendment Act (No 2) 2009 (2009 No 44).
+    Section 123A: inserted, on 1 July 2010, by [section 4][670] of the Sentencing Amendment Act (No 2) 2009 (2009 No 44).
 
 ##### 123B Protection order
     
@@ -5785,7 +5847,7 @@ Sentences, orders, and related matters
         
     *   (a) an offender is convicted of a domestic violence offence; and
     
-    *   (b) there is not currently in force a protection order against the offender made under the [Domestic Violence Act 1995][665] for the protection of the victim of the offence.
+    *   (b) there is not currently in force a protection order against the offender made under the [Domestic Violence Act 1995][673] for the protection of the victim of the offence.
     
     (2) The court may make a protection order against the offender if---
         
@@ -5799,25 +5861,25 @@ Sentences, orders, and related matters
     
     (5) If an order is made under subsection (2) in the circumstances described in subsection (4), the domestic violence proceedings, in so far as they relate to an application for a protection order against the offender, end.
     
-    Section 123B: inserted, on 1 July 2010, by [section 4][662] of the Sentencing Amendment Act (No 2) 2009 (2009 No 44).
+    Section 123B: inserted, on 1 July 2010, by [section 4][670] of the Sentencing Amendment Act (No 2) 2009 (2009 No 44).
 
 ##### 123C Provisions applying to protection order made under section 123B
     
-*   (1) Subject to the modifications set out in subsection (2), the following provisions apply so far as applicable to a protection order made under [section 123B][271] as if that order were a final protection order made under the [Domestic Violence Act 1995][665]:
+*   (1) Subject to the modifications set out in subsection (2), the following provisions apply so far as applicable to a protection order made under [section 123B][273] as if that order were a final protection order made under the [Domestic Violence Act 1995][673]:
         
-    *   (a) [sections 16(1)][667], [19][668] (except subsection (3)), [20][669] (except subsection (5)), [21][670] (except subsections (2)(a), (4), and (5)), [24(3)][671], [25(1)][672] (except paragraph (a)), [26(1)][673], [28][674] (except subsection (6)), [32(1) and (4)][675], and [33][676] of the Domestic Violence Act 1995; and
+    *   (a) [sections 16(1)][675], [19][676] (except subsection (3)), [20][677] (except subsection (5)), [21][678] (except subsections (2)(a), (4), and (5)), [24(3)][679], [25(1)][680] (except paragraph (a)), [26(1)][681], [28][682] (except subsection (6)), [32(1) and (4)][683], and [33][684] of the Domestic Violence Act 1995; and
     
-    *   (b) [section 27][677] of the Domestic Violence Act 1995, except that the court may not impose a condition relating to the matters set out in subsection (2) of that section.
+    *   (b) [section 27][685] of the Domestic Violence Act 1995, except that the court may not impose a condition relating to the matters set out in subsection (2) of that section.
     
     (2) The modifications referred to in subsection (1) are as follows:
         
-    *   (a) every reference to protection order or final order must be read as a reference to an order made under [section 123B][271]:
+    *   (a) every reference to protection order or final order must be read as a reference to an order made under [section 123B][273]:
     
     *   (b) every reference to the respondent must be read as a reference to the offender:
     
     *   (c) every reference to the applicant or protected person must be read as a reference to the victim of the offence.
     
-    Section 123C: inserted, on 1 July 2010, by [section 4][662] of the Sentencing Amendment Act (No 2) 2009 (2009 No 44).
+    Section 123C: inserted, on 1 July 2010, by [section 4][670] of the Sentencing Amendment Act (No 2) 2009 (2009 No 44).
 
 ##### 123D Explanation of protection order
     
@@ -5827,7 +5889,7 @@ Sentences, orders, and related matters
             
         *   (i) the order; and
         
-        *   (ii) any direction to attend a programme made under [section 32][675] of the Domestic Violence Act 1995 (as applied by [section 123C(1)(a)][272]); and
+        *   (ii) any direction to attend a programme made under [section 32][683] of the Domestic Violence Act 1995 (as applied by [section 123C(1)(a)][274]); and
         
         
     
@@ -5843,11 +5905,11 @@ Sentences, orders, and related matters
     
     (2) Failure to give the explanation required by subsection (1) does not affect the validity of the order made.
     
-    Section 123D: inserted, on 1 July 2010, by [section 4][662] of the Sentencing Amendment Act (No 2) 2009 (2009 No 44).
+    Section 123D: inserted, on 1 July 2010, by [section 4][670] of the Sentencing Amendment Act (No 2) 2009 (2009 No 44).
 
 ##### 123E Protection order to be issued and served on offender
     
-*   (1) Where the court makes a protection order under [section 123B][271], the Registrar of that court must---
+*   (1) Where the court makes a protection order under [section 123B][273], the Registrar of that court must---
         
     *   (a) immediately issue the order; and
     
@@ -5855,31 +5917,31 @@ Sentences, orders, and related matters
     
     (2) For the purpose of subsection (1), the court may direct that the offender be detained in the custody of the court for a period, not exceeding 2 hours, that may be necessary to enable the order to be issued and a copy served on the offender.
     
-    Section 123E: inserted, on 1 July 2010, by [section 4][662] of the Sentencing Amendment Act (No 2) 2009 (2009 No 44).
+    Section 123E: inserted, on 1 July 2010, by [section 4][670] of the Sentencing Amendment Act (No 2) 2009 (2009 No 44).
 
 ##### 123F Protection order to be sent to Family Court
     
-*   (1) Immediately after the issue of a protection order in accordance with [section 123E][274], the court must send a copy of the order to the Family Court nearest to where the victim of the offence resides.
+*   (1) Immediately after the issue of a protection order in accordance with [section 123E][276], the court must send a copy of the order to the Family Court nearest to where the victim of the offence resides.
     
     (2) On receipt of a copy of an order under subsection (1), the Registrar of the Family Court must enter the order in the records of the Family Court.
     
-    Section 123F: inserted, on 1 July 2010, by [section 4][662] of the Sentencing Amendment Act (No 2) 2009 (2009 No 44).
+    Section 123F: inserted, on 1 July 2010, by [section 4][670] of the Sentencing Amendment Act (No 2) 2009 (2009 No 44).
 
 ##### 123G Protection order treated as if made by Family Court
     
-*   As soon as an order has been entered in the records of the Family Court under [section 123F(2)][275],---
+*   As soon as an order has been entered in the records of the Family Court under [section 123F(2)][277],---
         
-    *   (a) the order is to be treated as if it were a final protection order made by that court under the [Domestic Violence Act 1995][665]; and
+    *   (a) the order is to be treated as if it were a final protection order made by that court under the [Domestic Violence Act 1995][673]; and
     
-    *   (b) [sections, 22(2)(b) and (6)][678], [23][679], [29 to 31][680], [34][681], [35][682], [38 to 44][683], [45(2)][684], [46(1)][685], [47(1)][686], [48 to 50][687], [82][688], and [88 to 95][689] of the Domestic Violence Act 1995 apply to the order accordingly.
+    *   (b) [sections, 22(2)(b) and (6)][686], [23][687], [29 to 31][688], [34][689], [35][690], [38 to 44][691], [45(2)][692], [46(1)][693], [47(1)][694], [48 to 50][695], [82][696], and [88 to 95][697] of the Domestic Violence Act 1995 apply to the order accordingly.
     
-    Section 123G: inserted, on 1 July 2010, by [section 4][662] of the Sentencing Amendment Act (No 2) 2009 (2009 No 44).
+    Section 123G: inserted, on 1 July 2010, by [section 4][670] of the Sentencing Amendment Act (No 2) 2009 (2009 No 44).
 
 #### Disqualification from driving
 
 ##### 124 Power of court to disqualify offenders from driving motor vehicles
     
-*   (1) This section applies if a person is convicted of an offence punishable by imprisonment, not being an offence against the [Land Transport Act 1998][690].
+*   (1) This section applies if a person is convicted of an offence punishable by imprisonment, not being an offence against the [Land Transport Act 1998][698].
     
     (2) A court may exercise the power in subsection (3) if a person is convicted of an offence referred to in subsection (1) and the court is satisfied that,---
         
@@ -5887,65 +5949,65 @@ Sentences, orders, and related matters
     
     *   (b) a motor vehicle was used by the offender, whether or not the offender was the driver or person in charge, for the purpose of facilitating his or her flight or avoiding his or her detection or arrest after the commission of the offence.
     
-    (3) The court may order the offender to be disqualified from holding or obtaining a driver licence within the meaning of the [Land Transport Act 1998][690] for any period in accordance with [section 125][279] that the court thinks fit.
+    (3) The court may order the offender to be disqualified from holding or obtaining a driver licence within the meaning of the [Land Transport Act 1998][698] for any period in accordance with [section 125][281] that the court thinks fit.
     
     (4) The court may make an order under this section in addition to, or instead of, passing any other sentence or making any other order.
     
     (5) Nothing in this section limits or affects any power of the court under any other enactment to make an order disqualifying any person from holding or obtaining a driver licence.
     
-    Compare: 1985 No 120 [s 83(1), (2), (6)][691]
+    Compare: 1985 No 120 [s 83(1), (2), (6)][699]
     
-    Section 124(1): amended, on 10 May 2011, by [section 100(3)][692] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 124(1): amended, on 10 May 2011, by [section 100(3)][700] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
 ##### 125 Period of disqualification from driving
     
-*   (1) The period of disqualification ordered under [section 124][278] must not exceed 3 years, except as provided in subsection (2).
+*   (1) The period of disqualification ordered under [section 124][280] must not exceed 3 years, except as provided in subsection (2).
     
     (2) If the person is convicted of manslaughter, the court may fix any period of disqualification that it thinks fit.
     
-    Compare: 1985 No 120 [s 83(3)][691]
+    Compare: 1985 No 120 [s 83(3)][699]
 
 ##### 126 Provisions of Land Transport Act 1998 apply if offender disqualified under section 124
     
-*   If an offender is disqualified from holding or obtaining a driver licence by an order made under [section 124][278], the following provisions of the [Land Transport Act 1998][690] apply, so far as they are applicable and with any necessary modifications, as if the order had been made under that Act:
+*   If an offender is disqualified from holding or obtaining a driver licence by an order made under [section 124][280], the following provisions of the [Land Transport Act 1998][698] apply, so far as they are applicable and with any necessary modifications, as if the order had been made under that Act:
         
-    *   (a) [section 82][693] (effect of disqualification):
+    *   (a) [section 82][701] (effect of disqualification):
     
-    *   (b) [section 83][694] (holder to undergo prescribed tests if disqualified for more than 1 year):
+    *   (b) [section 83][702] (holder to undergo prescribed tests if disqualified for more than 1 year):
     
-    *   (c) [section 84][695] (new licence or endorsement to be issued if disqualified driver qualifies for specified vehicle classes):
+    *   (c) [section 84][703] (new licence or endorsement to be issued if disqualified driver qualifies for specified vehicle classes):
     
-    *   (d) [section 85][696] (when disqualification starts):
+    *   (d) [section 85][704] (when disqualification starts):
     
-    *   (e) [section 86][697] (term of disqualification if person already disqualified):
+    *   (e) [section 86][705] (term of disqualification if person already disqualified):
     
-    *   (f) [section 87][698] (particulars of court orders relating to disqualification to be sent to New Zealand Transport Agency and offender):
+    *   (f) [section 87][706] (particulars of court orders relating to disqualification to be sent to New Zealand Transport Agency and offender):
     
-    *   (g) [section 99][699] (court may remove disqualification):
+    *   (g) [section 99][707] (court may remove disqualification):
     
-    *   (h) [section 103][700] (persons who may apply to court for limited licence):
+    *   (h) [section 103][708] (persons who may apply to court for limited licence):
     
-    *   (i) [section 104][701] (issue of limited licence to be delayed or prohibited in certain cases):
+    *   (i) [section 104][709] (issue of limited licence to be delayed or prohibited in certain cases):
     
-    *   (j) [section 105][702] (court may make order authorising grant of limited licence):
+    *   (j) [section 105][710] (court may make order authorising grant of limited licence):
     
-    *   (ja) [section 65A(2)][703] (court may authorise person to apply for an alcohol interlock licence):
+    *   (ja) [section 65A(2)][711] (court may authorise person to apply for an alcohol interlock licence):
     
-    *   (k) [section 107][704] (appeals against court orders relating to disqualification or grant of limited licence, and deferral of disqualification).
+    *   (k) [section 107][712] (appeals against court orders relating to disqualification or grant of limited licence, and deferral of disqualification).
     
-    Compare: 1985 No 120 [s 83(5)][691]
+    Compare: 1985 No 120 [s 83(5)][699]
     
-    Section 126(f): amended, on 1 August 2008, by [section 50(1)][705] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 126(f): amended, on 1 August 2008, by [section 50(1)][713] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 126(ja): inserted, on 10 September 2012, by [section 100(2)][692] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 126(ja): inserted, on 10 September 2012, by [section 100(2)][700] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
 #### Confiscation of motor vehicles
 
 ##### 127 Interpretation of terms used in sections 128 to 142
     
-*   (1) For the purposes of this section and [sections 128 to 142][283], unless the context otherwise requires,---
+*   (1) For the purposes of this section and [sections 128 to 142][285], unless the context otherwise requires,---
     
-    _constable_ has the meaning given to it in [section 4][706] of the Policing Act 2008
+    _constable_ has the meaning given to it in [section 4][714] of the Policing Act 2008
     
     _hire purchase agreement_ means---
         
@@ -5953,61 +6015,61 @@ Sentences, orders, and related matters
     
     *   (b) an agreement for the purchase of goods by instalment payments, however the agreement describes the payments, under which the person who agrees to purchase the goods is given possession of them before the total amount payable has been paid
     
-    _impoundment costs_, in relation to a motor vehicle that has been confiscated while impounded under the [Land Transport Act 1998][690], means the fees and charges for towage and storage that are prescribed or assessed in the manner specified by regulations made under [section 167][707] of that Act, and, where those fees and charges have already been paid by the chief executive of the Ministry of Justice, means the amount required to reimburse the chief executive for that payment
+    _impoundment costs_, in relation to a motor vehicle that has been confiscated while impounded under the [Land Transport Act 1998][698], means the fees and charges for towage and storage that are prescribed or assessed in the manner specified by regulations made under [section 167][715] of that Act, and, where those fees and charges have already been paid by the chief executive of the Ministry of Justice, means the amount required to reimburse the chief executive for that payment
     
     _interest_ means any proprietary interest, whether legal or equitable, and whether vested or contingent
     
-    _lease_ does not include a hire purchase agreement or a rental service agreement to which the holder of a rental service licence under the [Land Transport Act 1998][690] is a party
+    _lease_ does not include a hire purchase agreement or a rental service agreement to which the holder of a rental service licence under the [Land Transport Act 1998][698] is a party
     
-    _motor vehicle_ means a motor vehicle within the meaning of [section 2(1)][708] of the Land Transport Act 1998; but does not include a trailer
+    _motor vehicle_ means a motor vehicle within the meaning of [section 2(1)][716] of the Land Transport Act 1998; but does not include a trailer
     
-    _person who is registered_, in relation to a motor vehicle, means the person who is registered under the [Land Transport Act 1998][690] in respect of the vehicle, and where several persons are so registered, means any one of those persons
+    _person who is registered_, in relation to a motor vehicle, means the person who is registered under the [Land Transport Act 1998][698] in respect of the vehicle, and where several persons are so registered, means any one of those persons
     
-    _Police employee_ has the meaning given to it in [section 4][706] of the Policing Act 2008
+    _Police employee_ has the meaning given to it in [section 4][714] of the Policing Act 2008
     
-    _secured party_ has the meaning given to it in [section 16][709] of the Personal Property Securities Act 1999, except that the reference to security interest is a reference to security interest as defined by this subsection
+    _secured party_ has the meaning given to it in [section 16][717] of the Personal Property Securities Act 1999, except that the reference to security interest is a reference to security interest as defined by this subsection
     
-    _security agreement_ has the meaning given to it in [section 16][709] of the Personal Property Securities Act 1999, but does not include a lease
+    _security agreement_ has the meaning given to it in [section 16][717] of the Personal Property Securities Act 1999, but does not include a lease
     
-    _security interest_ has the meaning given to it in [section 17][710] of the Personal Property Securities Act 1999, but does not include a lease
+    _security interest_ has the meaning given to it in [section 17][718] of the Personal Property Securities Act 1999, but does not include a lease
     
-    _written caution_ means a caution issued under [section 129B][286].
+    _written caution_ means a caution issued under [section 129B][288].
     
-    (2) For the purposes of [sections 128 to 142][283], a motor vehicle is owned by an offender whether the offender owns it solely or as a joint tenant or tenant in common with any other person.
+    (2) For the purposes of [sections 128 to 142][285], a motor vehicle is owned by an offender whether the offender owns it solely or as a joint tenant or tenant in common with any other person.
     
-    (3) For the purposes of [sections 128 to 142][283], a person is, in relation to an offender, a _substitute for the offender_ or a _substitute_ if---
+    (3) For the purposes of [sections 128 to 142][285], a person is, in relation to an offender, a _substitute for the offender_ or a _substitute_ if---
         
-    *   (a) the person is served with a written caution, under [section 129B][286], about an offence committed by the offender; and
+    *   (a) the person is served with a written caution, under [section 129B][288], about an offence committed by the offender; and
     
-    *   (b) within 4 years after the date of the commission of the offence for which that written caution was served, the offender commits a further offence specified in [section 128(1)][283] involving a motor vehicle that, at the time of the commission of that offence, the person owns or has an interest in.
+    *   (b) within 4 years after the date of the commission of the offence for which that written caution was served, the offender commits a further offence specified in [section 128(1)][285] involving a motor vehicle that, at the time of the commission of that offence, the person owns or has an interest in.
     
-    Compare: 1985 No 120 [s 84(1)][711]
+    Compare: 1985 No 120 [s 84(1)][719]
     
-    Section 127(1) **constable**: inserted, on 1 August 2012, by [section 15(4)][712] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 127(1) **constable**: inserted, on 1 August 2012, by [section 15(4)][720] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 127(1) **encumbrance**: repealed, on 1 August 2012, by [section 15(1)][712] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 127(1) **encumbrance**: repealed, on 1 August 2012, by [section 15(1)][720] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 127(1) **hire purchase agreement**: replaced, on 1 August 2012, by [section 15(2)][712] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 127(1) **hire purchase agreement**: replaced, on 1 August 2012, by [section 15(2)][720] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 127(1) **impoundment costs**: inserted, on 1 December 2009, by [section 5(1)][713] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 127(1) **impoundment costs**: inserted, on 1 December 2009, by [section 5(1)][721] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 127(1) **lease**: inserted, on 1 August 2012, by [section 15(3)][712] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 127(1) **lease**: inserted, on 1 August 2012, by [section 15(3)][720] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 127(1) **leasing agreement**: repealed, on 1 August 2012, by [section 15(3)][712] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 127(1) **leasing agreement**: repealed, on 1 August 2012, by [section 15(3)][720] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 127(1) **person who is registered**: added, on 1 December 2009, by [section 5(1)][713] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 127(1) **person who is registered**: added, on 1 December 2009, by [section 5(1)][721] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 127(1) **Police employee**: inserted, on 1 August 2012, by [section 15(4)][712] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 127(1) **Police employee**: inserted, on 1 August 2012, by [section 15(4)][720] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 127(1) **secured party**: inserted, on 1 August 2012, by [section 15(4)][712] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 127(1) **secured party**: inserted, on 1 August 2012, by [section 15(4)][720] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 127(1) **security agreement**: inserted, on 1 August 2012, by [section 15(4)][712] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 127(1) **security agreement**: inserted, on 1 August 2012, by [section 15(4)][720] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 127(1) **security interest**: inserted, on 1 August 2012, by [section 15(4)][712] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 127(1) **security interest**: inserted, on 1 August 2012, by [section 15(4)][720] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 127(1) **written caution**: added, on 1 December 2009, by [section 5(1)][713] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 127(1) **written caution**: added, on 1 December 2009, by [section 5(1)][721] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 127(3): added, on 1 December 2009, by [section 5(2)][713] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 127(3): added, on 1 December 2009, by [section 5(2)][721] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
 
 ##### 128 Confiscation of motor vehicle
     
@@ -6015,7 +6077,7 @@ Sentences, orders, and related matters
         
     *   (a) an offence punishable by imprisonment for a term of more than 12 months, or by imprisonment for life:
     
-    *   (b) an offence against any of the provisions of [sections 35(1)(a)][714], 35(1)(b), [36A(1)(a) or (c)][715], [38(1)][716], [39(1)][717], [52(1)(aa)][718], 52(1)(c) (but only in relation to failing to stop in accordance with [section 114(2)][719] or failing to give particulars in accordance with section 114(3)), or [56 to 60][720] of the Land Transport Act 1998 (which relate to driving offences).
+    *   (b) an offence against any of the provisions of [sections 35(1)(a)][722], 35(1)(b), [36A(1)(a) or (c)][723], [38(1)][724], [39(1)][725], [52(1)(aa)][726], 52(1)(c) (but only in relation to failing to stop in accordance with [section 114(2)][727] or failing to give particulars in accordance with section 114(3)), or [56 to 60][728] of the Land Transport Act 1998 (which relate to driving offences).
     
     (2) A court may exercise the power in subsection (3) if a person is convicted of an offence referred to in subsection (1) and the court by or before which the offender is convicted is satisfied---
         
@@ -6023,7 +6085,7 @@ Sentences, orders, and related matters
             
         *   (i) was used to commit or facilitate the commission of the offence, whether or not the offender was the driver or person in charge; or
         
-        *   (ii) in the case of an offence against any of the provisions of [sections 35(1)(a) and (b)][714], [36(1)(a)][721], [36AA][722], [36A(1)(a) and (c)][715], [38(1)][716], [39(1)][717], [52(1)(aa) and (c)][718], and [56 to 62][720] of the Land Transport Act 1998, was being driven by, or in the charge of, the offender at the material time; or
+        *   (ii) in the case of an offence against any of the provisions of [sections 35(1)(a) and (b)][722], [36(1)(a)][729], [36AA][730], [36A(1)(a) and (c)][723], [38(1)][724], [39(1)][725], [52(1)(aa) and (c)][726], and [56 to 62][728] of the Land Transport Act 1998, was being driven by, or in the charge of, the offender at the material time; or
         
         *   (iii) was used by the offender, whether or not the offender was the driver or person in charge, to facilitate the offender's flight or avoid his or her detection or arrest after the commission of the offence; and
         
@@ -6051,29 +6113,29 @@ Sentences, orders, and related matters
     
     *   (d) any other considerations that the court thinks fit.
     
-    Compare: 1985 No 120 [s 84(2), (4)][711]
+    Compare: 1985 No 120 [s 84(2), (4)][719]
     
-    Section 128(1)(b): amended, on 1 December 2009, by [section 6(1)][723] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 128(1)(b): amended, on 1 December 2009, by [section 6(1)][731] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 128(1)(b): amended, on 2 May 2003, by [section 11(1)][724] of the Land Transport (Unauthorised Street and Drag Racing) Amendment Act 2003 (2003 No 11).
+    Section 128(1)(b): amended, on 2 May 2003, by [section 11(1)][732] of the Land Transport (Unauthorised Street and Drag Racing) Amendment Act 2003 (2003 No 11).
     
-    Section 128(2): substituted, on 1 December 2009, by [section 6(2)][723] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 128(2): substituted, on 1 December 2009, by [section 6(2)][731] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 128(2)(a)(ii): amended, on 10 September 2012, by [section 100(2)][692] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 128(2)(a)(ii): amended, on 10 September 2012, by [section 100(2)][700] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 128(3A): inserted, on 1 December 2009, by [section 6(3)][723] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 128(3A): inserted, on 1 December 2009, by [section 6(3)][731] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 128(5)(a): amended, on 1 December 2009, by [section 6(4)][723] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 128(5)(a): amended, on 1 December 2009, by [section 6(4)][731] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 128(5)(c): amended, on 1 December 2009, by [section 6(5)][723] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 128(5)(c): amended, on 1 December 2009, by [section 6(5)][731] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
 
 ##### 129 Confiscation of motor vehicle after second offence
     
 *   (1) This section applies if,---
         
-    *   (a) on or after 26 July 1996, a person commits an offence (the _first offence_) against any of [sections 32(1)(a) or (b)][725], [35(1)(a) or (b)][714], [36(1)][721], [36AA][722], [36A(1)(a) or (c)][715], [39(1)][717], [56(1) or (2)][720], [57A(1)][726], [58(1)][727], [60(1)][728], [61(1)][729], 61(2) or [62(1)][730] of the Land Transport Act 1998 (which relate to driving offences) or [section 171][614] of the Crimes Act 1961 (but only where the manslaughter involved the use of a motor vehicle); and
+    *   (a) on or after 26 July 1996, a person commits an offence (the _first offence_) against any of [sections 32(1)(a) or (b)][733], [35(1)(a) or (b)][722], [36(1)][729], [36AA][730], [36A(1)(a) or (c)][723], [39(1)][725], [56(1) or (2)][728], [57A(1)][734], [58(1)][735], [60(1)][736], [61(1)][737], 61(2) or [62(1)][738] of the Land Transport Act 1998 (which relate to driving offences) or [section 171][622] of the Crimes Act 1961 (but only where the manslaughter involved the use of a motor vehicle); and
     
-    *   (b) within 4 years after the date of the commission of that offence, the person commits a further offence (the _second offence_) against any of those provisions of the [Land Transport Act 1998][690].
+    *   (b) within 4 years after the date of the commission of that offence, the person commits a further offence (the _second offence_) against any of those provisions of the [Land Transport Act 1998][698].
     
     (2) For the purpose of subsection (1), it does not matter whether or not the second offence is of the same kind as the first offence, but it must be an offence that arises from a different incident from the one that gave rise to the first offence.
     
@@ -6081,29 +6143,29 @@ Sentences, orders, and related matters
     
     (4) Despite subsection (3), the court must not make an order under that subsection if it will result in extreme hardship to the offender or undue hardship to any other person.
     
-    (5) For the purposes of this section, a conviction for an offence against a provision of the [Transport Act 1962][731] that corresponds to an offence specified in subsection (1) must be treated as a conviction for an offence specified in that subsection.
+    (5) For the purposes of this section, a conviction for an offence against a provision of the [Transport Act 1962][739] that corresponds to an offence specified in subsection (1) must be treated as a conviction for an offence specified in that subsection.
     
-    Compare: 1985 No 120 [s 84(2A), (2AA)][711]
+    Compare: 1985 No 120 [s 84(2A), (2AA)][719]
     
-    Section 129(1)(a): amended, on 10 September 2012, by [section 100(2)][692] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 129(1)(a): amended, on 10 September 2012, by [section 100(2)][700] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 129(1)(a): amended, on 1 May 2011, by [section 35(4)][732] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 129(1)(a): amended, on 1 May 2011, by [section 35(4)][740] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 129(1)(a): amended, on 7 July 2004, by [section 17(a)][733] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 129(1)(a): amended, on 7 July 2004, by [section 17(a)][741] of the Sentencing Amendment Act 2004 (2004 No 68).
     
-    Section 129(1)(a): amended, on 7 July 2004, by [section 17(b)][733] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 129(1)(a): amended, on 7 July 2004, by [section 17(b)][741] of the Sentencing Amendment Act 2004 (2004 No 68).
     
-    Section 129(1)(a): amended, on 7 July 2004, by [section 17(c)][733] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 129(1)(a): amended, on 7 July 2004, by [section 17(c)][741] of the Sentencing Amendment Act 2004 (2004 No 68).
     
-    Section 129(1)(a): amended, on 2 May 2003, by [section 11(1)][724] of the Land Transport (Unauthorised Street and Drag Racing) Amendment Act 2003 (2003 No 11).
+    Section 129(1)(a): amended, on 2 May 2003, by [section 11(1)][732] of the Land Transport (Unauthorised Street and Drag Racing) Amendment Act 2003 (2003 No 11).
 
 ##### 129A Confiscation and destruction after third illegal street racing offence
     
 *   (1) This section applies if---
         
-    *   (a) an offender commits an offence against [section 36A(1)(a) or (c)][715] of the Land Transport Act 1998 (the _current offence_); and
+    *   (a) an offender commits an offence against [section 36A(1)(a) or (c)][723] of the Land Transport Act 1998 (the _current offence_); and
     
-    *   (b) the offender has previously been convicted of 2 offences (the _previous offences_) against [section 36A(1)(a) or (c)][715] of the Land Transport Act 1998 that were each committed within the period of 4 years before the commission of the current offence.
+    *   (b) the offender has previously been convicted of 2 offences (the _previous offences_) against [section 36A(1)(a) or (c)][723] of the Land Transport Act 1998 that were each committed within the period of 4 years before the commission of the current offence.
     
     (2) For the purpose of subsection (1), it does not matter whether or not the offences are of the same kind, but the current offence and each of the previous offences must arise from different incidents.
     
@@ -6121,17 +6183,17 @@ Sentences, orders, and related matters
     
     *   (b) the substitute took all reasonable steps to prevent the offender from committing the offence or offences.
     
-    Section 129A: inserted, on 1 December 2009, by [section 7][734] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 129A: inserted, on 1 December 2009, by [section 7][742] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 129A(5): inserted, on 1 August 2012, by [section 16][735] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 129A(5): inserted, on 1 August 2012, by [section 16][743] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 129B Written caution to persons with interest in motor vehicles involved in offences
     
 *   (1) Subsection (2) applies whenever---
         
-    *   (a) a court convicts an offender of an offence specified in [section 128(1)][283] involving a motor vehicle; and
+    *   (a) a court convicts an offender of an offence specified in [section 128(1)][285] involving a motor vehicle; and
     
-    *   (b) the court is satisfied the offence was committed in circumstances that would permit or require the confiscation of the motor vehicle under [section 128][283], [129][284], or [129A][285] if the offender owned or had an interest in it at the time of conviction; and
+    *   (b) the court is satisfied the offence was committed in circumstances that would permit or require the confiscation of the motor vehicle under [section 128][285], [129][286], or [129A][287] if the offender owned or had an interest in it at the time of conviction; and
     
     *   (c) it appears to the court that the offender does not own or have an interest in the motor vehicle.
     
@@ -6143,7 +6205,7 @@ Sentences, orders, and related matters
             
         *   (i) was stolen or converted at the material time; or
         
-        *   (ii) was let on hire at the material time in accordance with a rental service licence under the [Land Transport Act 1998][690]:
+        *   (ii) was let on hire at the material time in accordance with a rental service licence under the [Land Transport Act 1998][698]:
         
         
     
@@ -6167,7 +6229,7 @@ Sentences, orders, and related matters
     
     *   (d) that the recipient is believed to own or have an interest in the motor vehicle and that none of the exceptions stated in subsection (3) has been established to the satisfaction of the court:
     
-    *   (e) a warning that if the offender is convicted of a further offence specified in [section 128(1)][283] that involves a motor vehicle owned by the recipient or in which the recipient has an interest, the motor vehicle is liable to be confiscated or confiscated and destroyed:
+    *   (e) a warning that if the offender is convicted of a further offence specified in [section 128(1)][285] that involves a motor vehicle owned by the recipient or in which the recipient has an interest, the motor vehicle is liable to be confiscated or confiscated and destroyed:
     
     *   (f) the recipient's right to seek a review of the court's decision to order the service of the written caution on the recipient.
     
@@ -6195,19 +6257,19 @@ Sentences, orders, and related matters
     
     (9) An endorsement on a copy of a written caution stating the fact, date, time, and mode of service and purporting to be signed by a person of a kind described in subsection (8) is, in the absence of evidence to the contrary, sufficient proof of service of the written caution in accordance with this section.
     
-    Section 129B: inserted, on 1 December 2009, by [section 7][734] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 129B: inserted, on 1 December 2009, by [section 7][742] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 129B(2): amended, on 1 August 2012, by [section 17(1)][736] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 129B(2): amended, on 1 August 2012, by [section 17(1)][744] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 129B(3)(b)(ii): replaced, on 1 August 2012, by [section 17(2)][736] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 129B(3)(b)(ii): replaced, on 1 August 2012, by [section 17(2)][744] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 129B(7)(c): inserted, on 1 August 2012, by [section 17(3)][736] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 129B(7)(c): inserted, on 1 August 2012, by [section 17(3)][744] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 129B(8)(aa): inserted, on 1 August 2012, by [section 17(4)][736] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 129B(8)(aa): inserted, on 1 August 2012, by [section 17(4)][744] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 129B(8)(a): amended, on 1 August 2012, by [section 17(5)][736] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 129B(8)(a): amended, on 1 August 2012, by [section 17(5)][744] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 129B(9): amended, on 1 August 2012, by [section 17(6)][736] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 129B(9): amended, on 1 August 2012, by [section 17(6)][744] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 129C Review of written caution
     
@@ -6219,7 +6281,7 @@ Sentences, orders, and related matters
     
     *   (c) the applicant is a secured party under a security agreement relating to the motor vehicle, or the lessor of the motor vehicle under a lease, but has no relationship of another kind with the offender:
     
-    *   (d) the motor vehicle was let on hire at the material time in accordance with a rental service licence under the [Land Transport Act 1998][690].
+    *   (d) the motor vehicle was let on hire at the material time in accordance with a rental service licence under the [Land Transport Act 1998][698].
     
     (2) Every application must include a statutory declaration that specifies a ground stated in subsection (1) and why that ground applies.
     
@@ -6239,21 +6301,21 @@ Sentences, orders, and related matters
     
     *   (d) if a written caution served on a person is cancelled, the written caution is deemed not to have been served on the person.
     
-    Section 129C: inserted, on 1 December 2009, by [section 7][734] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 129C: inserted, on 1 December 2009, by [section 7][742] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 129C(1)(c): replaced, on 1 August 2012, by [section 18][737] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 129C(1)(c): replaced, on 1 August 2012, by [section 18][745] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 129D Written caution of no effect if conviction quashed
     
-*   (1) If all of the convictions in respect of which a written caution has been served on a person are quashed, and no convictions for offences qualifying for confiscation under [section 128][283], [129][284], or [129A][285] are substituted, the written caution ceases to have effect and is deemed not to have been served.
+*   (1) If all of the convictions in respect of which a written caution has been served on a person are quashed, and no convictions for offences qualifying for confiscation under [section 128][285], [129][286], or [129A][287] are substituted, the written caution ceases to have effect and is deemed not to have been served.
     
     (2) If a written caution ceases to have effect under subsection (1), the Registrar must, by ordinary post, facsimile, email, or other electronic means, advise every person served with the written caution of that outcome.
     
-    Section 129D: inserted, on 1 December 2009, by [section 7][734] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 129D: inserted, on 1 December 2009, by [section 7][742] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
 
 ##### 129E Appeal against confiscation by persons treated as substitutes
     
-*   (1) If the court orders, under [section 128][283] or [129A][285], the confiscation of a motor vehicle on the basis that the person who owns it, or has an interest in it, is a substitute for the offender, that person may, within 20 working days after the date of the order, or within any further time that the appropriate court allows, appeal to the appropriate court against the order on 1 or more of the following grounds:
+*   (1) If the court orders, under [section 128][285] or [129A][287], the confiscation of a motor vehicle on the basis that the person who owns it, or has an interest in it, is a substitute for the offender, that person may, within 20 working days after the date of the order, or within any further time that the appropriate court allows, appeal to the appropriate court against the order on 1 or more of the following grounds:
         
     *   (a) the motor vehicle was stolen or converted at the material time:
     
@@ -6261,11 +6323,11 @@ Sentences, orders, and related matters
     
     *   (c) the appellant is a secured party under a security agreement relating to the motor vehicle, or the lessor of the motor vehicle under a lease, but has no relationship of another kind with the offender:
     
-    *   (d) the motor vehicle was let on hire at the material time in accordance with a rental service licence under the [Land Transport Act 1998][690]:
+    *   (d) the motor vehicle was let on hire at the material time in accordance with a rental service licence under the [Land Transport Act 1998][698]:
     
     *   (e) the appellant took all reasonable steps to prevent the offender from committing the offence or offences:
     
-    *   (f) the appellant had not, before the commission of the offence or offences, been served with a written caution under [section 129B][286] in relation to the offender:
+    *   (f) the appellant had not, before the commission of the offence or offences, been served with a written caution under [section 129B][288] in relation to the offender:
     
     *   (g) the appellant did not know, and could not reasonably have known, that the offender would commit the offence or offences:
     
@@ -6293,31 +6355,31 @@ Sentences, orders, and related matters
     
     *   (b) if the order was made in the High Court, the appeal must be brought in the Court of Appeal in accordance with the rules of court governing civil appeals to that court.
     
-    Section 129E: inserted, on 1 December 2009, by [section 7][734] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 129E: inserted, on 1 December 2009, by [section 7][742] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 129E(1)(a): replaced, on 1 August 2012, by [section 19(1)][738] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 129E(1)(a): replaced, on 1 August 2012, by [section 19(1)][746] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 129E(1)(b): replaced, on 1 August 2012, by [section 19(1)][738] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 129E(1)(b): replaced, on 1 August 2012, by [section 19(1)][746] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 129E(1)(c): replaced, on 1 August 2012, by [section 19(1)][738] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 129E(1)(c): replaced, on 1 August 2012, by [section 19(1)][746] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 129E(1)(d): replaced, on 1 August 2012, by [section 19(1)][738] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 129E(1)(d): replaced, on 1 August 2012, by [section 19(1)][746] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 129E(1)(e): replaced, on 1 August 2012, by [section 19(1)][738] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 129E(1)(e): replaced, on 1 August 2012, by [section 19(1)][746] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 129E(1)(f): replaced, on 1 August 2012, by [section 19(1)][738] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 129E(1)(f): replaced, on 1 August 2012, by [section 19(1)][746] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 129E(1)(g): replaced, on 1 August 2012, by [section 19(1)][738] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 129E(1)(g): replaced, on 1 August 2012, by [section 19(1)][746] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 129E(1)(h): inserted, on 1 August 2012, by [section 19(1)][738] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 129E(1)(h): inserted, on 1 August 2012, by [section 19(1)][746] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 129E(2)(b): amended, on 1 August 2012, by [section 19(2)][738] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 129E(2)(b): amended, on 1 August 2012, by [section 19(2)][746] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 129E(5)(a): amended, on 1 August 2012, by [section 19(3)][738] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 129E(5)(a): amended, on 1 August 2012, by [section 19(3)][746] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 129EA Appeal against confiscation by third party
     
-*   (1) If the court orders the confiscation of a motor vehicle under [section 128][283], [129][284], or [129A][285], a person (other than the offender or, as the case may be, the substitute for the offender) may, within 20 working days after the date of the order, or within any further time that the appropriate court allows, appeal to the appropriate court against the order on the ground that the confiscation is causing, or will cause, undue hardship to the appellant or any other person (other than the offender or, as the case may be, the substitute for the offender).
+*   (1) If the court orders the confiscation of a motor vehicle under [section 128][285], [129][286], or [129A][287], a person (other than the offender or, as the case may be, the substitute for the offender) may, within 20 working days after the date of the order, or within any further time that the appropriate court allows, appeal to the appropriate court against the order on the ground that the confiscation is causing, or will cause, undue hardship to the appellant or any other person (other than the offender or, as the case may be, the substitute for the offender).
     
     (2) The appellant must serve the notice of appeal on---
         
@@ -6337,15 +6399,15 @@ Sentences, orders, and related matters
     
     *   (b) if the order was made in the High Court, the appeal must be brought in the Court of Appeal in accordance with the rules of court governing civil appeals to that court.
     
-    Section 129EA: inserted, on 1 August 2012, by [section 20][739] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 129EA: inserted, on 1 August 2012, by [section 20][747] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 129F Warning notice to secured parties if confiscation not ordered for second illegal street racing offence
     
 *   (1) This section applies if---
         
-    *   (a) an offender commits an offence against [section 36A(1)(a) or (c)][715] of the Land Transport Act 1998 (the _current offence_); and
+    *   (a) an offender commits an offence against [section 36A(1)(a) or (c)][723] of the Land Transport Act 1998 (the _current offence_); and
     
-    *   (b) the offender has previously been convicted of an offence (the _previous offence_) against [section 36A(1)(a) or (c)][715] of the Land Transport Act 1998 committed within the period of 4 years before the commission of the current offence; and
+    *   (b) the offender has previously been convicted of an offence (the _previous offence_) against [section 36A(1)(a) or (c)][723] of the Land Transport Act 1998 committed within the period of 4 years before the commission of the current offence; and
     
     *   (c) the court by or before which the offender is convicted of the current offence is satisfied that a motor vehicle owned by the offender or by the substitute for the offender or in which the offender or the substitute has any interest was being driven by, or in the charge of, the offender at the material time; and
     
@@ -6353,21 +6415,21 @@ Sentences, orders, and related matters
     
     (2) The Registrar must---
         
-    *   (a) check whether a financing statement has been registered in respect of the motor vehicle on the personal property securities register kept under the [Personal Property Securities Act 1999][740]; and
+    *   (a) check whether a financing statement has been registered in respect of the motor vehicle on the personal property securities register kept under the [Personal Property Securities Act 1999][748]; and
     
-    *   (b) issue a warning notice stating that any motor vehicle owned by the offender or by the substitute for the offender or in which the offender or the substitute has an interest is liable to be confiscated and destroyed if the offender commits another offence against [section 36A(1)(a) or (c)][715] of the Land Transport Act 1998 before the expiry of 4 years from the commission of the previous offence; and
+    *   (b) issue a warning notice stating that any motor vehicle owned by the offender or by the substitute for the offender or in which the offender or the substitute has an interest is liable to be confiscated and destroyed if the offender commits another offence against [section 36A(1)(a) or (c)][723] of the Land Transport Act 1998 before the expiry of 4 years from the commission of the previous offence; and
     
     *   (c) send the warning notice, by ordinary post, facsimile, email, or other electronic means to every person (other than the offender or the substitute) who the Registrar believes is a party to a security agreement or lease relating to the motor vehicle.
     
-    (3) The jurisdiction of a court to make a confiscation and destruction order under [section 129A][285] or [136(4)][300] or the validity of any order made under those sections is not affected by a failure to comply with subsection (2).
+    (3) The jurisdiction of a court to make a confiscation and destruction order under [section 129A][287] or [136(4)][302] or the validity of any order made under those sections is not affected by a failure to comply with subsection (2).
     
-    Section 129F: inserted, on 1 December 2009, by [section 7][734] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 129F: inserted, on 1 December 2009, by [section 7][742] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 129F(2)(c): amended, on 1 August 2012, by [section 21][741] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 129F(2)(c): amended, on 1 August 2012, by [section 21][749] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 130 Court may order declaration of ownership to be completed
     
-*   (1) If a court is considering whether to order the confiscation of a motor vehicle under [section 128][283], [129][284], or [129A][285], the court may order that the offender complete a declaration of ownership before ordering the confiscation.
+*   (1) If a court is considering whether to order the confiscation of a motor vehicle under [section 128][285], [129][286], or [129A][287], the court may order that the offender complete a declaration of ownership before ordering the confiscation.
     
     (2) The declaration of ownership must specify---
         
@@ -6383,39 +6445,39 @@ Sentences, orders, and related matters
     
     (4) If a court does not make an order under this section, that does not affect the validity of any other order of the court.
     
-    Compare: 1985 No 120 [s 84(2B)--(2E)][711]
+    Compare: 1985 No 120 [s 84(2B)--(2E)][719]
     
-    Section 130(1): amended, on 1 December 2009, by [section 8(1)][742] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 130(1): amended, on 1 December 2009, by [section 8(1)][750] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 130(2)(b): amended, on 1 August 2012, by [section 22][743] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 130(2)(b): amended, on 1 August 2012, by [section 22][751] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 130(2)(b): amended, on 1 December 2009, by [section 8(2)][742] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 130(2)(b): amended, on 1 December 2009, by [section 8(2)][750] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
 
 ##### 130A Court may disregard disposal of motor vehicle by person after written caution
     
 *   (1) This section applies if---
         
-    *   (a) a person has been served with a written caution under [section 129B][286] in respect of an offender; and
+    *   (a) a person has been served with a written caution under [section 129B][288] in respect of an offender; and
     
     *   (b) after being served with the written caution, the person purports to dispose of his or her ownership interest or other interest in the motor vehicle described in the written caution; and
     
-    *   (c) following that disposition, the offender is convicted of a further offence specified in [section 128(1)][283] involving that motor vehicle; and
+    *   (c) following that disposition, the offender is convicted of a further offence specified in [section 128(1)][285] involving that motor vehicle; and
     
     *   (d) it appears to the court that the offender does not own or have an interest in the motor vehicle.
     
-    (2) If the circumstances of the further offence described in subsection (1)(c) would, but for that disposition, enable the court to order the confiscation of the motor vehicle under [section 128][283] or [129A][285] on the basis that the person is a substitute for the offender, and the court is not satisfied that the disposition was made with a bona fide intention to dispose permanently of the person's ownership or interest in the motor vehicle,---
+    (2) If the circumstances of the further offence described in subsection (1)(c) would, but for that disposition, enable the court to order the confiscation of the motor vehicle under [section 128][285] or [129A][287] on the basis that the person is a substitute for the offender, and the court is not satisfied that the disposition was made with a bona fide intention to dispose permanently of the person's ownership or interest in the motor vehicle,---
         
     *   (a) the court may, if it thinks fit, set the disposition aside; and
     
-    *   (b) [section 128][283] or [129A][285], as the case may be, applies as if the disposition by the person had not occurred.
+    *   (b) [section 128][285] or [129A][287], as the case may be, applies as if the disposition by the person had not occurred.
     
     (3) Before making an order under subsection (2), the court must give any person to whom the disposition of the motor vehicle was made an opportunity to be heard.
     
-    Section 130A: inserted, on 1 December 2009, by [section 9][744] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 130A: inserted, on 1 December 2009, by [section 9][752] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
 
 ##### 131 If motor vehicle has been disposed of, court may prohibit offender from acquiring another motor vehicle
     
-*   (1) This section applies if, in any case to which any of [section 128][283], [129][284], or [129A][285] would otherwise apply, the offender or any substitute for the offender has, before the date of the offender's conviction, ceased to be the owner of the motor vehicle or to have any interest in it.
+*   (1) This section applies if, in any case to which any of [section 128][285], [129][286], or [129A][287] would otherwise apply, the offender or any substitute for the offender has, before the date of the offender's conviction, ceased to be the owner of the motor vehicle or to have any interest in it.
     
     (2) The court may---
         
@@ -6427,23 +6489,23 @@ Sentences, orders, and related matters
         
     *   (a) the court may, if it thinks fit, set the disposition aside; and
     
-    *   (b) [section 128][283], [129][284], or [129A][285], as the case may be, applies as if the disposition by the offender or by the substitute for the offender had not occurred.
+    *   (b) [section 128][285], [129][286], or [129A][287], as the case may be, applies as if the disposition by the offender or by the substitute for the offender had not occurred.
     
     (4) Before making an order under subsection (3), the court must give any person to whom the disposition of the motor vehicle was made an opportunity to be heard.
     
-    Compare: 1985 No 120 [s 84(3), (3A), (3B)][711]
+    Compare: 1985 No 120 [s 84(3), (3A), (3B)][719]
     
-    Section 131(1): substituted, on 1 December 2009, by [section 10(1)][745] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 131(1): substituted, on 1 December 2009, by [section 10(1)][753] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 131(2)(b): amended, on 1 December 2009, by [section 10(2)][745] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 131(2)(b): amended, on 1 December 2009, by [section 10(2)][753] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 131(3): amended, on 1 December 2009, by [section 10(3)][745] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 131(3): amended, on 1 December 2009, by [section 10(3)][753] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 131(3)(b): substituted, on 1 December 2009, by [section 10(4)][745] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 131(3)(b): substituted, on 1 December 2009, by [section 10(4)][753] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
 
 ##### 132 Enforcement of confiscation order
     
-*   (1) If a court makes a confiscation order under any of [sections 128][283], [129][284], and [129A][285], it must specify in that order the time and place at which the offender or the substitute for the offender must surrender the motor vehicle to the Registrar or to a bailiff or constable.
+*   (1) If a court makes a confiscation order under any of [sections 128][285], [129][286], and [129A][287], it must specify in that order the time and place at which the offender or the substitute for the offender must surrender the motor vehicle to the Registrar or to a bailiff or constable.
     
     (2) If the offender or the substitute for the offender fails to surrender the motor vehicle in accordance with the order, the court must issue a warrant in the prescribed form authorising the Registrar or any bailiff or constable to confiscate the motor vehicle.
     
@@ -6455,105 +6517,105 @@ Sentences, orders, and related matters
     
     (6) If a motor vehicle is surrendered to or seized by any bailiff or constable under this section, that officer must, as soon as practicable, deliver it into the custody of the Registrar of the court.
     
-    Compare: 1985 No 120 [s 84(5)--(8), (10)][711]
+    Compare: 1985 No 120 [s 84(5)--(8), (10)][719]
     
-    Section 132(1): substituted, on 1 December 2009, by [section 11(1)][746] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 132(1): substituted, on 1 December 2009, by [section 11(1)][754] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 132(2): amended, on 1 December 2009, by [section 11(2)][746] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 132(2): amended, on 1 December 2009, by [section 11(2)][754] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 132(5): repealed, on 1 August 2012, by [section 23][747] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 132(5): repealed, on 1 August 2012, by [section 23][755] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 132A Offence to sell or dispose of motor vehicle subject to confiscation order
     
 *   (1) This section applies in any case where a motor vehicle---
         
-    *   (a) is subject to an order under any of [sections 128(3)][283], [129(3)][284], [129A(3)][285], and [136(4)][300]; but
+    *   (a) is subject to an order under any of [sections 128(3)][285], [129(3)][286], [129A(3)][287], and [136(4)][302]; but
     
     *   (b) has not yet been surrendered to, or seized by, a Registrar, bailiff, or constable.
     
     (2) Every person commits an offence, and is liable on conviction to a fine not exceeding $2,000, who sells or disposes of the motor vehicle or any part of the motor vehicle.
     
-    Section 132A: inserted, on 1 December 2009, by [section 12][748] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 132A: inserted, on 1 December 2009, by [section 12][756] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 132A(2): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 132A(2): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ##### 133 Offence to remove confiscated vehicle
     
-*   (1) A person commits an offence who removes or attempts to remove any motor vehicle surrendered to or seized by any bailiff or constable under [section 132][295] from the custody of that bailiff or constable, or from the custody of the Registrar of the court, without the approval of the Registrar.
+*   (1) A person commits an offence who removes or attempts to remove any motor vehicle surrendered to or seized by any bailiff or constable under [section 132][297] from the custody of that bailiff or constable, or from the custody of the Registrar of the court, without the approval of the Registrar.
     
     (2) A person who commits an offence under this section is liable on conviction to a fine not exceeding $200\.
     
-    Compare: 1985 No 120 [s 84(11)][711]
+    Compare: 1985 No 120 [s 84(11)][719]
     
-    Section 133(2): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 133(2): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ##### 134 Defect in warrant does not make action unlawful
     
-*   (1) No confiscation made under the authority of [section 132][295] is unlawful, and no person making a confiscation under the authority of section 132 is a trespasser, because of any defect or want of form in the warrant of confiscation.
+*   (1) No confiscation made under the authority of [section 132][297] is unlawful, and no person making a confiscation under the authority of section 132 is a trespasser, because of any defect or want of form in the warrant of confiscation.
     
-    (2) No person making a confiscation under the authority of [section 132][295] is a trespasser from the beginning because of any irregularity afterwards committed by that person.
+    (2) No person making a confiscation under the authority of [section 132][297] is a trespasser from the beginning because of any irregularity afterwards committed by that person.
     
     (3) Despite subsections (1) and (2), a person aggrieved by a defect or irregularity referred to in those subsections may recover satisfaction for the special damage by action at law.
     
-    Compare: 1985 No 120 [s 84(9)][711]
+    Compare: 1985 No 120 [s 84(9)][719]
 
 ##### 135 Registrar may direct order to be enforced in another District Court
     
-*   (1) Despite anything in [section 132][295], if it appears to the Registrar of a District Court in which an order for the confiscation of any motor vehicle is made that the order may be more effectively enforced in another District Court, the Registrar may so direct.
+*   (1) Despite anything in [section 132][297], if it appears to the Registrar of a District Court in which an order for the confiscation of any motor vehicle is made that the order may be more effectively enforced in another District Court, the Registrar may so direct.
     
-    (2) If the Registrar makes a direction under subsection (1), [sections 132 to 134][295] and [sections 137 to 141][302] apply accordingly.
+    (2) If the Registrar makes a direction under subsection (1), [sections 132 to 134][297] and [sections 137 to 141][304] apply accordingly.
     
-    Compare: 1985 No 120 [s 84(12)][711]
+    Compare: 1985 No 120 [s 84(12)][719]
     
-    Section 135(1): amended, on 1 August 2012, by [section 24][749] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 135(1): amended, on 1 August 2012, by [section 24][757] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 136 Offender must not acquire new interest in motor vehicle for 12 months
     
 *   (1) This section applies if---
         
-    *   (a) a court makes an order for the confiscation of a motor vehicle under any of [sections 128][283], [129][284], and [129A][285]; or
+    *   (a) a court makes an order for the confiscation of a motor vehicle under any of [sections 128][285], [129][286], and [129A][287]; or
     
-    *   (b) a court has made an order under [section 131(2)(a)][294] prohibiting an offender from acquiring a motor vehicle for 12 months.
+    *   (b) a court has made an order under [section 131(2)(a)][296] prohibiting an offender from acquiring a motor vehicle for 12 months.
     
     (2) The offender must not, within 12 months after the date of the order, acquire any interest in any motor vehicle.
     
     (3) A person commits an offence and is liable on conviction to a fine not exceeding $500 who acquires any interest in a motor vehicle in contravention of subsection (2).
     
-    (4) If a court convicts a person of an offence against this section, then instead of, or in addition to, imposing a fine, the court may order that the motor vehicle concerned be confiscated and, where this section applies because of an order under [section 129A][285], may also order that the motor vehicle be destroyed.
+    (4) If a court convicts a person of an offence against this section, then instead of, or in addition to, imposing a fine, the court may order that the motor vehicle concerned be confiscated and, where this section applies because of an order under [section 129A][287], may also order that the motor vehicle be destroyed.
     
-    (5) If a court orders the confiscation, or the confiscation and destruction, of a motor vehicle under subsection (4), [sections 129EA][290], [130][292], [131 to 135][294], this section, and [sections 136A to 142][301] apply accordingly.
+    (5) If a court orders the confiscation, or the confiscation and destruction, of a motor vehicle under subsection (4), [sections 129EA][292], [130][294], [131 to 135][296], this section, and [sections 136A to 142][303] apply accordingly.
     
-    Compare: 1985 No 120 [s 85][750]
+    Compare: 1985 No 120 [s 85][758]
     
-    Section 136(1)(a): amended, on 1 December 2009, by [section 13(1)][751] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 136(1)(a): amended, on 1 December 2009, by [section 13(1)][759] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 136(3): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 136(3): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
     
-    Section 136(4): substituted, on 1 December 2009, by [section 13(2)][751] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 136(4): substituted, on 1 December 2009, by [section 13(2)][759] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 136(5): substituted, on 1 December 2009, by [section 13(2)][751] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 136(5): substituted, on 1 December 2009, by [section 13(2)][759] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 136(5): amended, on 1 August 2012, by [section 25][752] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 136(5): amended, on 1 August 2012, by [section 25][760] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 136A Registrar must apply for deregistration of motor vehicle subject to confiscation and destruction order
     
-*   If, under [section 129A][285] or [136(4)][300], the court orders a motor vehicle to be confiscated and destroyed, the Registrar---
+*   If, under [section 129A][287] or [136(4)][302], the court orders a motor vehicle to be confiscated and destroyed, the Registrar---
         
-    *   (a) is, for the purposes of the [Land Transport Act 1998][690] and any regulations made under it, entitled to apply for the cancellation of the registration of the motor vehicle; and
+    *   (a) is, for the purposes of the [Land Transport Act 1998][698] and any regulations made under it, entitled to apply for the cancellation of the registration of the motor vehicle; and
     
     *   (b) must make that application before the motor vehicle is sold or disposed of.
     
-    Section 136A: replaced, on 1 August 2012, by [section 26][753] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 136A: replaced, on 1 August 2012, by [section 26][761] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 137 Sale of confiscated motor vehicles
     
-*   (1) Subject to [section 138][306], as soon as practicable after a motor vehicle is delivered into a Registrar's custody under [section 132][295], the Registrar must arrange for the sale of the motor vehicle by public auction or in any other manner that the Registrar, subject to any direction by the court, thinks fit.
+*   (1) Subject to [section 138][308], as soon as practicable after a motor vehicle is delivered into a Registrar's custody under [section 132][297], the Registrar must arrange for the sale of the motor vehicle by public auction or in any other manner that the Registrar, subject to any direction by the court, thinks fit.
     
-    (2) The Registrar, or any officer of the Ministry of Justice authorised by the Registrar, may conduct the auction even if the Registrar or that officer does not hold a licence under the [Auctioneers Act 1928][754] or the Motor Vehicle Dealers Act 1975\.
+    (2) The Registrar, or any officer of the Ministry of Justice authorised by the Registrar, may conduct the auction even if the Registrar or that officer does not hold a licence under the [Auctioneers Act 1928][762] or the Motor Vehicle Dealers Act 1975\.
     
     (3) Subject to subsection (4), the proceeds of the sale must be applied in the following manner and order of priority:
         
-    *   (a) if the motor vehicle has been impounded under the [Land Transport Act 1998][690], in paying any impoundment costs:
+    *   (a) if the motor vehicle has been impounded under the [Land Transport Act 1998][698], in paying any impoundment costs:
     
     *   (b) in payment of the costs of the sale (including all costs incurred in seizing the motor vehicle, towing and storing the vehicle, and complying with the provisions of this subpart preliminary to sale):
     
@@ -6561,21 +6623,21 @@ Sentences, orders, and related matters
     
     *   (d) in payment of any sentence or order of reparation payable by the offender:
     
-    *   (e) in payment of any levy payable by the offender under [section 105B][238] of this Act:
+    *   (e) in payment of any levy payable by the offender under [section 105B][240] of this Act:
     
     *   (f) in payment of any fine or court costs payable by the offender:
     
-    *   (fa) in payment of any fees and accident insurance levies prescribed under [section 242(2)(b)][755] of the Land Transport Act 1998 that are outstanding in respect of the vehicle:
+    *   (fa) in payment of any fees and accident insurance levies prescribed under [section 242(2)(b)][763] of the Land Transport Act 1998 that are outstanding in respect of the vehicle:
     
-    *   (fb) in payment of any road user charges under the [Road User Charges Act 2012][756] that are outstanding in respect of the vehicle:
+    *   (fb) in payment of any road user charges under the [Road User Charges Act 2012][764] that are outstanding in respect of the vehicle:
     
     *   (g) to the offender or, as the case requires, the substitute for the offender.
     
-    (3A) If any proceeds of sale are required to be applied to 2 or more security interests under subsection (3)(c), those proceeds must be applied in the order of priority determined for those security interests by [Part 7][757] or [8][758] of the Personal Property Securities Act 1999\.
+    (3A) If any proceeds of sale are required to be applied to 2 or more security interests under subsection (3)(c), those proceeds must be applied in the order of priority determined for those security interests by [Part 7][765] or [8][766] of the Personal Property Securities Act 1999\.
     
     (4) If the proceeds arise out of the sale of a motor vehicle owned by a substitute for the offender or in which the substitute had an interest, the proceeds must be applied in the manner and order of priority specified in subsection (3), except that the payment described in paragraphs (d) to (f) of that subsection are limited to sums imposed in respect of offences committed by the offender in a motor vehicle that, at the material time, was owned by the substitute or in which the substitute had an interest.
     
-    (5) A motor vehicle may be sold under this section even though it fails to comply in any respect with [section 242][755] of the Land Transport Act 1998, and the purchaser of that motor vehicle---
+    (5) A motor vehicle may be sold under this section even though it fails to comply in any respect with [section 242][763] of the Land Transport Act 1998, and the purchaser of that motor vehicle---
         
     *   (a) is, despite that Act or any other enactment, entitled to tow the motor vehicle to any appropriate place; and
     
@@ -6583,57 +6645,57 @@ Sentences, orders, and related matters
     
     *   (c) must comply in all respects with that Act as soon as the motor vehicle has been towed to that place.
     
-    (6) If the Registrar considers that a motor vehicle is not roadworthy and that it would be uneconomic to render it roadworthy, the Registrar must, before the motor vehicle is sold under this section, apply, under the [Land Transport Act 1998][690], to have the registration of the motor vehicle cancelled as if the Registrar were the person who, under that Act, is entitled to apply for that cancellation.
+    (6) If the Registrar considers that a motor vehicle is not roadworthy and that it would be uneconomic to render it roadworthy, the Registrar must, before the motor vehicle is sold under this section, apply, under the [Land Transport Act 1998][698], to have the registration of the motor vehicle cancelled as if the Registrar were the person who, under that Act, is entitled to apply for that cancellation.
     
     (7) The person to whom a motor vehicle is sold under this section obtains, by virtue of this section, good title to the motor vehicle free of all ownership interests and other proprietary interests held in the motor vehicle before that sale.
     
-    Compare: 1985 No 120 [s 87(1)--(3)][759]
+    Compare: 1985 No 120 [s 87(1)--(3)][767]
     
-    Section 137(1): amended, on 1 December 2009, by [section 15(1)][760] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 137(1): amended, on 1 December 2009, by [section 15(1)][768] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 137(2): amended, on 1 August 2012, by [section 27(1)][761] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 137(2): amended, on 1 August 2012, by [section 27(1)][769] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 137(2): amended, on 1 October 2003, pursuant to [section 14(1)][480] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 137(2): amended, on 1 October 2003, pursuant to [section 14(1)][482] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 137(3): substituted, on 1 December 2009, by [section 15(2)][760] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 137(3): substituted, on 1 December 2009, by [section 15(2)][768] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 137(3)(c): replaced, on 1 August 2012, by [section 27(2)][761] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 137(3)(c): replaced, on 1 August 2012, by [section 27(2)][769] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 137(3)(e): amended, on 1 August 2012, by [section 27(3)][761] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 137(3)(e): amended, on 1 August 2012, by [section 27(3)][769] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 137(3)(fa): inserted, on 1 August 2012, by [section 27(4)][761] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 137(3)(fa): inserted, on 1 August 2012, by [section 27(4)][769] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 137(3)(fb): inserted, on 1 August 2012, by [section 27(4)][761] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 137(3)(fb): inserted, on 1 August 2012, by [section 27(4)][769] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 137(3A): inserted, on 1 August 2012, by [section 27(5)][761] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 137(3A): inserted, on 1 August 2012, by [section 27(5)][769] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 137(4): added, on 1 December 2009, by [section 15(2)][760] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 137(4): added, on 1 December 2009, by [section 15(2)][768] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 137(4): amended, on 1 August 2012, by [section 27(6)][761] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 137(4): amended, on 1 August 2012, by [section 27(6)][769] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 137(5): inserted, on 1 August 2012, by [section 27(7)][761] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 137(5): inserted, on 1 August 2012, by [section 27(7)][769] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 137(6): inserted, on 1 August 2012, by [section 27(7)][761] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 137(6): inserted, on 1 August 2012, by [section 27(7)][769] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 137(7): inserted, on 1 August 2012, by [section 27(7)][761] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 137(7): inserted, on 1 August 2012, by [section 27(7)][769] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 137A Certain sales conditional on dismantling and destruction
     
-*   (1) This section applies if any motor vehicle sold under [section 137][302] is subject to a confiscation and destruction order under [section 129A][285] or [136(4)][300].
+*   (1) This section applies if any motor vehicle sold under [section 137][304] is subject to a confiscation and destruction order under [section 129A][287] or [136(4)][302].
     
     (2) The sale of the motor vehicle is subject to a condition that the purchaser dismantle the motor vehicle for any saleable parts and destroy the remainder of the motor vehicle, to the satisfaction of the Registrar.
     
     (3) The condition imposed by subsection (2) must be fulfilled within 30 working days after the date of the sale, or within any longer period that the Registrar specifies in writing.
     
-    (4) Despite [section 137(7)][302], the property in the motor vehicle does not pass to the purchaser until the condition imposed by subsection (2) has been fulfilled.
+    (4) Despite [section 137(7)][304], the property in the motor vehicle does not pass to the purchaser until the condition imposed by subsection (2) has been fulfilled.
     
-    Section 137A: inserted, on 1 December 2009, by [section 16][762] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 137A: inserted, on 1 December 2009, by [section 16][770] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 137A(4): amended, on 1 August 2012, by [section 28][763] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 137A(4): amended, on 1 August 2012, by [section 28][771] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 137B Failure to comply with condition to dismantle and destroy
     
-*   (1) Where the sale of a motor vehicle is subject to a condition imposed by [section 137A(2)][303] and that condition is not fulfilled within the appropriate time, the Registrar may require any person in possession of the motor vehicle to surrender it to the Registrar, or a bailiff or constable, at a specified time and place.
+*   (1) Where the sale of a motor vehicle is subject to a condition imposed by [section 137A(2)][305] and that condition is not fulfilled within the appropriate time, the Registrar may require any person in possession of the motor vehicle to surrender it to the Registrar, or a bailiff or constable, at a specified time and place.
     
     (2) If the person in possession of the motor vehicle fails to surrender the motor vehicle at the time and place specified by the Registrar, the court may issue a warrant in the prescribed form authorising the Registrar or any bailiff or constable to recover the motor vehicle.
     
@@ -6643,117 +6705,117 @@ Sentences, orders, and related matters
     
     (5) If a motor vehicle is surrendered to or recovered by any bailiff or constable under this section, that officer must, as soon as practicable, deliver it into the custody of the Registrar of the court.
     
-    (6) [Sections 133][297] and [134][298] apply, with any necessary modifications, in respect of a motor vehicle surrendered or recovered under this section and to a warrant issued under this section.
+    (6) [Sections 133][299] and [134][300] apply, with any necessary modifications, in respect of a motor vehicle surrendered or recovered under this section and to a warrant issued under this section.
     
-    Section 137B: inserted, on 1 December 2009, by [section 16][762] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 137B: inserted, on 1 December 2009, by [section 16][770] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
 
 ##### 137C Sale of motor vehicle surrendered or recovered under section 137B
     
-*   (1) As soon as practicable after a motor vehicle is delivered into a Registrar's custody under [section 137B][304], the Registrar must arrange for the sale of the motor vehicle, and [sections 137(1), (2), (5), and (7)][302], [137A][764], and [137B][765] apply to that sale with any necessary modifications.
+*   (1) As soon as practicable after a motor vehicle is delivered into a Registrar's custody under [section 137B][306], the Registrar must arrange for the sale of the motor vehicle, and [sections 137(1), (2), (5), and (7)][304], [137A][772], and [137B][773] apply to that sale with any necessary modifications.
     
     (2) The proceeds of the sale must be applied in the following manner and order of priority:
         
     *   (a) in payment of the costs of the sale (including all costs incurred in recovering the motor vehicle, and towing and storing the vehicle):
     
-    *   (b) in payment of the purchase price to the purchaser to whom the motor vehicle was sold under [section 137][302]:
+    *   (b) in payment of the purchase price to the purchaser to whom the motor vehicle was sold under [section 137][304]:
     
-    *   (c) in payment of any unsatisfied amounts described in [section 137(3)][302] in accordance with that section and with all necessary modifications.
+    *   (c) in payment of any unsatisfied amounts described in [section 137(3)][304] in accordance with that section and with all necessary modifications.
     
-    Section 137C: inserted, on 1 December 2009, by [section 16][762] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 137C: inserted, on 1 December 2009, by [section 16][770] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 137C(1): amended, on 1 August 2012, by [section 29][766] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 137C(1): amended, on 1 August 2012, by [section 29][774] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 138 Disposal of unsaleable confiscated vehicle
     
-*   (1) If the Registrar has reasonable grounds to believe that a motor vehicle that is delivered into his or her custody under [section 132][295] or [137B][304] is unsaleable, the Registrar may dispose of the vehicle in any manner he or she thinks fit.
+*   (1) If the Registrar has reasonable grounds to believe that a motor vehicle that is delivered into his or her custody under [section 132][297] or [137B][306] is unsaleable, the Registrar may dispose of the vehicle in any manner he or she thinks fit.
     
     (2) If the Registrar proposes to dispose of a motor vehicle under subsection (1), the Registrar---
         
-    *   (a) is, for the purposes of the [Land Transport Act 1998][690] and any regulations made under it, entitled to apply for the cancellation of the registration of the motor vehicle; and
+    *   (a) is, for the purposes of the [Land Transport Act 1998][698] and any regulations made under it, entitled to apply for the cancellation of the registration of the motor vehicle; and
     
     *   (b) must make that application before the disposal of the motor vehicle.
     
     (3) The person to whom a motor vehicle is disposed of under this section obtains, by virtue of this section, good title to the motor vehicle free of all ownership interests and other proprietary interests held in the motor vehicle before that disposition.
     
-    Section 138(1): amended, on 1 December 2009, by [section 17][767] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 138(1): amended, on 1 December 2009, by [section 17][775] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 138(2): inserted, on 1 August 2012, by [section 30][768] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 138(2): inserted, on 1 August 2012, by [section 30][776] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 138(3): inserted, on 1 August 2012, by [section 30][768] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 138(3): inserted, on 1 August 2012, by [section 30][776] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 138A Offender liable for outstanding costs of seizure, storage, and sale
     
-*   (1) If the amount realised from the sale of a motor vehicle under [section 137][302] or its disposal under [section 138][306] is less than the costs described in subsection (2), the offender is liable for the shortfall between that amount and those costs.
+*   (1) If the amount realised from the sale of a motor vehicle under [section 137][304] or its disposal under [section 138][308] is less than the costs described in subsection (2), the offender is liable for the shortfall between that amount and those costs.
     
     (2) The costs are,---
         
-    *   (a) if the motor vehicle has been impounded under the [Land Transport Act 1998][690], any impoundment costs; and
+    *   (a) if the motor vehicle has been impounded under the [Land Transport Act 1998][698], any impoundment costs; and
     
     *   (b) the costs of the sale (including all costs incurred in seizing the motor vehicle, towing and storing the vehicle, and complying with the provisions of this subpart preliminary to sale).
     
     (3) Subsection (1) applies regardless of whether the offender owned or had an interest in the motor vehicle.
     
-    (4) Part 3 (except [section 84][769]) of the Summary Proceedings Act 1957 (or, if applicable, [section 19][497] of the Crimes Act 1961) applies with any necessary modifications to any amount the offender is liable to pay under subsection (1) as if it were a fine.
+    (4) Part 3 (except [section 84][777]) of the Summary Proceedings Act 1957 (or, if applicable, [section 19][499] of the Crimes Act 1961) applies with any necessary modifications to any amount the offender is liable to pay under subsection (1) as if it were a fine.
     
     (5) A certificate issued by the Registrar that, following the sale or disposal of a motor vehicle, the offender is liable to pay a sum under subsection (1) is, in the absence of proof to the contrary, sufficient evidence of the facts certified.
     
-    Section 138A: inserted, on 1 December 2009, by [section 18][770] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 138A: inserted, on 1 December 2009, by [section 18][778] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 138A(4): replaced, on 13 February 2012, by [section 31(1)][771] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 138A(4): replaced, on 13 February 2012, by [section 31(1)][779] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 138A(4): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 138A(4): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
     
-    Section 138A(5): amended, on 13 February 2012, by [section 31(2)(a)][771] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 138A(5): amended, on 13 February 2012, by [section 31(2)(a)][779] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 138A(5): amended, on 13 February 2012, by [section 31(2)(b)][771] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 138A(5): amended, on 13 February 2012, by [section 31(2)(b)][779] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 139 Procedure if notice given that vehicle subject to security agreement
     
-*   (1) If notice is given to the Registrar before the proceeds of sale are fully applied under [section 137][302] that the confiscated motor vehicle is subject to a security agreement and the claim is not established to the Registrar's satisfaction, the Registrar must issue a summons calling before the court the party making the claim.
+*   (1) If notice is given to the Registrar before the proceeds of sale are fully applied under [section 137][304] that the confiscated motor vehicle is subject to a security agreement and the claim is not established to the Registrar's satisfaction, the Registrar must issue a summons calling before the court the party making the claim.
     
     (2) The following provisions apply to every summons issued under subsection (1) so far as they are applicable and with the necessary modifications:
         
-    *   (a) the provisions of the [High Court Rules][772] relating to interpleader by an officer executing a writ or other order; or
+    *   (a) the provisions of the [High Court Rules][780] relating to interpleader by an officer executing a writ or other order; or
     
-    *   (b) as the case may require, [section 94][773] of the District Courts Act 1947\.
+    *   (b) as the case may require, [section 94][781] of the District Courts Act 1947\.
     
-    Compare: 1985 No 120 [s 87(4)][759]
+    Compare: 1985 No 120 [s 87(4)][767]
     
-    Section 139 heading: amended, on 1 August 2012, by [section 32(1)][774] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 139 heading: amended, on 1 August 2012, by [section 32(1)][782] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 139(1): amended, on 1 August 2012, by [section 32(2)(a)][774] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 139(1): amended, on 1 August 2012, by [section 32(2)(a)][782] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 139(1): amended, on 1 August 2012, by [section 32(2)(b)][774] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 139(1): amended, on 1 August 2012, by [section 32(2)(b)][782] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 140 Lessor may apply to Registrar
     
-*   (1) The lessor (not being the offender or a substitute for the offender whose motor vehicle has been confiscated) under a lease of a confiscated motor vehicle (not being a motor vehicle that is to be destroyed under [section 129A][285] or [136(4)][300]) may apply to the Registrar, at any time before the Registrar has sold or disposed of the motor vehicle, for the transfer of the motor vehicle to the lessor as if the offender or the substitute had breached the terms of the lease.
+*   (1) The lessor (not being the offender or a substitute for the offender whose motor vehicle has been confiscated) under a lease of a confiscated motor vehicle (not being a motor vehicle that is to be destroyed under [section 129A][287] or [136(4)][302]) may apply to the Registrar, at any time before the Registrar has sold or disposed of the motor vehicle, for the transfer of the motor vehicle to the lessor as if the offender or the substitute had breached the terms of the lease.
     
     (2) If subsection (1) applies, the Registrar may transfer the motor vehicle to the lessor accordingly.
     
     (2A) On the transfer of the motor vehicle under subsection (2) to the lessor, the lease is cancelled.
     
-    (3) This section is subject to [section 141A][312].
+    (3) This section is subject to [section 141A][314].
     
-    Section 140: substituted, on 1 December 2009, by [section 19][775] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 140: substituted, on 1 December 2009, by [section 19][783] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 140 heading: amended, on 1 August 2012, by [section 33(1)][776] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 140 heading: amended, on 1 August 2012, by [section 33(1)][784] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 140(1): amended, on 1 August 2012, by [section 33(2)(a)][776] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 140(1): amended, on 1 August 2012, by [section 33(2)(a)][784] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 140(1): amended, on 1 August 2012, by [section 33(2)(b)][776] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 140(1): amended, on 1 August 2012, by [section 33(2)(b)][784] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 140(1): amended, on 1 August 2012, by [section 33(2)(c)][776] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 140(1): amended, on 1 August 2012, by [section 33(2)(c)][784] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 140(2A): inserted, on 1 August 2012, by [section 33(3)][776] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 140(2A): inserted, on 1 August 2012, by [section 33(3)][784] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 140A What happens if lessor does not apply to Registrar before motor vehicle sold or disposed of
     
 *   (1) This section applies if---
         
-    *   (a) [section 140][309] applies; but
+    *   (a) [section 140][311] applies; but
     
-    *   (b) the lessor does not apply to the court for the transfer of the motor vehicle under [section 140(1)][309] before it is sold or disposed of; and
+    *   (b) the lessor does not apply to the court for the transfer of the motor vehicle under [section 140(1)][311] before it is sold or disposed of; and
     
     *   (c) the vehicle is sold; and
     
@@ -6763,95 +6825,95 @@ Sentences, orders, and related matters
     
     (3) On an application under subsection (2), the Registrar or a District Court Judge may release the proceeds of the sale of the motor vehicle in accordance with subsections (4) and (5).
     
-    (4) The proceeds of the sale of the motor vehicle must be applied in accordance with [section 137][302] as if the lease were a security agreement as defined in [section 127(1)][282] and the lessor were a secured party as defined in that subsection.
+    (4) The proceeds of the sale of the motor vehicle must be applied in accordance with [section 137][304] as if the lease were a security agreement as defined in [section 127(1)][284] and the lessor were a secured party as defined in that subsection.
     
-    (5) However, despite subsection (4), [section 137][302] applies subject to the following modifications:
+    (5) However, despite subsection (4), [section 137][304] applies subject to the following modifications:
         
     *   (a) the proceeds of the sale of the motor vehicle must be applied in payment to the lessor of the amount to which the lessor would, but for the sale, have been entitled to under the lease; and
     
-    *   (b) the proceeds of the sale of the motor vehicle must be applied in the manner and order of priority set out in [section 137][302], except that,---
+    *   (b) the proceeds of the sale of the motor vehicle must be applied in the manner and order of priority set out in [section 137][304], except that,---
             
-        *   (i) in the case of a lease for a term of less than 1 year, those proceeds must be applied for the payment to the lessor described in paragraph (a) after they are applied for the payments described in [section 137(3)(a) and (b)][302], but before they are applied for the remainder of the payments described in section 137(3)(c) to (g); and
+        *   (i) in the case of a lease for a term of less than 1 year, those proceeds must be applied for the payment to the lessor described in paragraph (a) after they are applied for the payments described in [section 137(3)(a) and (b)][304], but before they are applied for the remainder of the payments described in section 137(3)(c) to (g); and
         
-        *   (ii) in the case of a lease for a term of more than 1 year, those proceeds must be applied for the payment to the lessor described in paragraph (a) as if they were payments described in [section 137(3)(c)][302], and section 137(3)(c) and (3A) applied.
+        *   (ii) in the case of a lease for a term of more than 1 year, those proceeds must be applied for the payment to the lessor described in paragraph (a) as if they were payments described in [section 137(3)(c)][304], and section 137(3)(c) and (3A) applied.
         
         
     
     (6) On the release of the proceeds of the sale of the motor vehicle to the lessor, the lease is cancelled.
     
-    Section 140A: inserted, on 1 August 2012, by [section 34][777] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 140A: inserted, on 1 August 2012, by [section 34][785] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 141 Secured party may apply to court
     
 *   (1) Any party (not being the offender or a substitute for the offender whose motor vehicle has been confiscated) to a security agreement over a confiscated motor vehicle may apply to the court, at any time before the Registrar has sold or disposed of the motor vehicle, for an order under subsection (3).
     
-    (2) Subsection (1) does not apply to a motor vehicle that is to be destroyed under [section 129A][285] or [136(4)][300].
+    (2) Subsection (1) does not apply to a motor vehicle that is to be destroyed under [section 129A][287] or [136(4)][302].
     
     (3) The court may, if it thinks fit, make an order---
         
     *   (a) directing the Registrar to transfer the motor vehicle to that other party; and
     
-    *   (b) directing that party to sell the motor vehicle and account for the proceeds of sale in accordance with [section 141B][313].
+    *   (b) directing that party to sell the motor vehicle and account for the proceeds of sale in accordance with [section 141B][315].
     
-    (3A) If 2 or more secured parties have applied for an order under subsection (3), then the court must transfer the motor vehicle to the secured party with the highest-ranking security interest under the order of priority determined by [Part 7][757] or [8][758] of the Personal Property Securities Act 1999\.
+    (3A) If 2 or more secured parties have applied for an order under subsection (3), then the court must transfer the motor vehicle to the secured party with the highest-ranking security interest under the order of priority determined by [Part 7][765] or [8][766] of the Personal Property Securities Act 1999\.
     
-    (4) Subsection (3) is subject to [section 141A][312].
+    (4) Subsection (3) is subject to [section 141A][314].
     
     (5) The person to whom a motor vehicle is sold under a direction given under subsection (3)(b) obtains, by virtue of this section, good title to the motor vehicle free of all ownership interests and other proprietary interests held in the motor vehicle before that sale.
     
-    Section 141: substituted, on 1 December 2009, by [section 19][775] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 141: substituted, on 1 December 2009, by [section 19][783] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 141(1): amended, on 1 August 2012, by [section 35(1)][778] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 141(1): amended, on 1 August 2012, by [section 35(1)][786] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 141(1): amended, on 1 August 2012, by [section 35(2)][778] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 141(1): amended, on 1 August 2012, by [section 35(2)][786] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 141(3A): inserted, on 1 August 2012, by [section 35(4)][778] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 141(3A): inserted, on 1 August 2012, by [section 35(4)][786] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 141(4): amended, on 1 August 2012, by [section 35(3)][778] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 141(4): amended, on 1 August 2012, by [section 35(3)][786] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 141(5): inserted, on 1 August 2012, by [section 35(5)][778] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 141(5): inserted, on 1 August 2012, by [section 35(5)][786] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 141A Certain payments required before transfers take effect
     
-*   (1) An order for the transfer of a motor vehicle under [section 140][309] or [141][311] does not take effect unless the following costs have been paid into court:
+*   (1) An order for the transfer of a motor vehicle under [section 140][311] or [141][313] does not take effect unless the following costs have been paid into court:
         
-    *   (a) if the motor vehicle has been impounded under the [Land Transport Act 1998][690], any impoundment costs:
+    *   (a) if the motor vehicle has been impounded under the [Land Transport Act 1998][698], any impoundment costs:
     
     *   (b) any costs incurred in seizing, towing, and storing the motor vehicle.
     
     (2) Any costs required to be paid by subsection (1) must be paid within 10 working days after the day on which the lessor or the secured party is notified of the decision to transfer the vehicle, or within any longer period specified by the Registrar in writing.
     
-    (3) If the costs specified in subsection (1) are not paid within the time required by or under subsection (2), the Registrar may proceed with the sale of the vehicle under [section 137][302] or its disposal under [section 138][306].
+    (3) If the costs specified in subsection (1) are not paid within the time required by or under subsection (2), the Registrar may proceed with the sale of the vehicle under [section 137][304] or its disposal under [section 138][308].
     
-    Section 141A: inserted, on 1 December 2009, by [section 19][775] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 141A: inserted, on 1 December 2009, by [section 19][783] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 141A(3): amended, on 1 August 2012, by [section 36][779] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 141A(3): amended, on 1 August 2012, by [section 36][787] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 141B Application of proceeds of sale by secured party
     
-*   (1) Every person to whom a motor vehicle is transferred under [section 141][311] must, on disposing of the motor vehicle,---
+*   (1) Every person to whom a motor vehicle is transferred under [section 141][313] must, on disposing of the motor vehicle,---
         
     *   (a) account to the Registrar for the proceeds of the sale:
     
     *   (b) pay into court the proceeds of the sale, less---
             
-        *   (i) any costs paid under [section 141A][312]; and
+        *   (i) any costs paid under [section 141A][314]; and
         
         *   (ii) the amount of the costs and expenses of, and incidental to, the sale.
         
         
     
-    (2) The Registrar must then apply the balance remaining in accordance with [section 137(3)(c) to (g) and (3A)][302] with all necessary modifications.
+    (2) The Registrar must then apply the balance remaining in accordance with [section 137(3)(c) to (g) and (3A)][304] with all necessary modifications.
     
-    Section 141B: inserted, on 1 December 2009, by [section 19][775] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 141B: inserted, on 1 December 2009, by [section 19][783] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 141B(1)(b): replaced, on 1 August 2012, by [section 37(1)][780] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 141B(1)(b): replaced, on 1 August 2012, by [section 37(1)][788] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 141B(2): amended, on 1 August 2012, by [section 37(2)][780] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 141B(2): amended, on 1 August 2012, by [section 37(2)][788] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 141C Failure by secured party to sell or account for proceeds
     
-*   (1) If the court has directed a secured party under [section 141(3)(b)][311] to sell a motor vehicle and the secured party fails to do so within a reasonable time, the Registrar may require any person in possession of the vehicle to surrender it to the Registrar, or a bailiff or constable, at a specified time and place.
+*   (1) If the court has directed a secured party under [section 141(3)(b)][313] to sell a motor vehicle and the secured party fails to do so within a reasonable time, the Registrar may require any person in possession of the vehicle to surrender it to the Registrar, or a bailiff or constable, at a specified time and place.
     
     (2) If the person in possession of the motor vehicle fails to surrender the motor vehicle at the time and place specified by the Registrar, the court may issue a warrant in the prescribed form authorising the Registrar or any bailiff or constable to recover the motor vehicle.
     
@@ -6861,17 +6923,17 @@ Sentences, orders, and related matters
     
     (5) If a motor vehicle is surrendered to or recovered by any bailiff or constable under this section, that officer must, as soon as practicable, deliver it into the custody of the Registrar.
     
-    (6) [Sections 133][297] and [134][298] apply, with any necessary modifications, in respect of a motor vehicle surrendered or recovered under this section and to a warrant issued under this section.
+    (6) [Sections 133][299] and [134][300] apply, with any necessary modifications, in respect of a motor vehicle surrendered or recovered under this section and to a warrant issued under this section.
     
-    (7) As soon as practicable after the motor vehicle is delivered into the Registrar's custody under subsection (5), the Registrar must arrange for its sale under [section 137][302] or its disposal under [section 138][306].
+    (7) As soon as practicable after the motor vehicle is delivered into the Registrar's custody under subsection (5), the Registrar must arrange for its sale under [section 137][304] or its disposal under [section 138][308].
     
-    (8) A secured party who fails, in whole or in part, to pay into court the money required under [section 141B(1)(b)][313] is liable to the Crown for any amount not paid, and that amount may be recovered from the secured party as a debt due to the Crown.
+    (8) A secured party who fails, in whole or in part, to pay into court the money required under [section 141B(1)(b)][315] is liable to the Crown for any amount not paid, and that amount may be recovered from the secured party as a debt due to the Crown.
     
-    Section 141C: inserted, on 1 August 2012, by [section 38][781] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 141C: inserted, on 1 August 2012, by [section 38][789] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 142 Order may be cancelled on application by bona fide purchaser
     
-*   (1) On application to it by any person, the court must cancel a confiscation order (including a confiscation and destruction order under [section 129A][285] or [136(4)][300]) made in respect of a motor vehicle if it is satisfied that, at any time after the conviction of the offender, that person purchased the motor vehicle in good faith without knowledge of the conviction.
+*   (1) On application to it by any person, the court must cancel a confiscation order (including a confiscation and destruction order under [section 129A][287] or [136(4)][302]) made in respect of a motor vehicle if it is satisfied that, at any time after the conviction of the offender, that person purchased the motor vehicle in good faith without knowledge of the conviction.
     
     (2) In the circumstances described in subsection (1), the court---
         
@@ -6879,29 +6941,29 @@ Sentences, orders, and related matters
     
     *   (b) may make any other consequential order or orders that it thinks just and reasonable.
     
-    (3) [Section 136][300] applies with any necessary modifications to an order made under subsection (2)(a).
+    (3) [Section 136][302] applies with any necessary modifications to an order made under subsection (2)(a).
     
-    Compare: 1985 No 120 [s 88][782]
+    Compare: 1985 No 120 [s 88][790]
     
-    Section 142(1): amended, on 1 December 2009, by [section 20(1)][783] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 142(1): amended, on 1 December 2009, by [section 20(1)][791] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 142(2): substituted, on 1 December 2009, by [section 20(2)][783] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 142(2): substituted, on 1 December 2009, by [section 20(2)][791] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 142(3): added, on 1 December 2009, by [section 20(2)][783] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 142(3): added, on 1 December 2009, by [section 20(2)][791] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
 
 #### Instrument forfeiture orders
     
-*   Heading: inserted, on 1 December 2009, by [section 10][784] of the Sentencing Amendment Act 2009 (2009 No 10).
+*   Heading: inserted, on 1 December 2009, by [section 10][792] of the Sentencing Amendment Act 2009 (2009 No 10).
 
 ##### 142A Interpretation of terms used in sections 142B to 142Q
     
-*   For the purposes of [sections 142B to 142Q][318], unless the context otherwise requires,---
+*   For the purposes of [sections 142B to 142Q][320], unless the context otherwise requires,---
     
     _Commissioner_ means the Commissioner of Police
     
-    _prosecutor_ has the same meaning as in [section 5(1)][403] of the Criminal Proceeds (Recovery) Act 2009\.
+    _prosecutor_ has the same meaning as in [section 5(1)][405] of the Criminal Proceeds (Recovery) Act 2009\.
     
-    Section 142A: inserted, on 1 December 2009, by [section 10][784] of the Sentencing Amendment Act 2009 (2009 No 10).
+    Section 142A: inserted, on 1 December 2009, by [section 10][792] of the Sentencing Amendment Act 2009 (2009 No 10).
 
 ##### 142B Duties of prosecutor if offender guilty of qualifying instrument forfeiture offence
     
@@ -6911,21 +6973,21 @@ Sentences, orders, and related matters
     
     *   (b) the name and identifying details of any person (other than the offender) who, to the knowledge of the prosecutor, has an interest in the property.
     
-    Section 142B: inserted, on 1 December 2009, by [section 10][784] of the Sentencing Amendment Act 2009 (2009 No 10).
+    Section 142B: inserted, on 1 December 2009, by [section 10][792] of the Sentencing Amendment Act 2009 (2009 No 10).
 
 ##### 142C Duties of court on notification
     
-*   On receiving notice under [section 142B][318], the court, if it is of the opinion that it should consider making an instrument forfeiture order,---
+*   On receiving notice under [section 142B][320], the court, if it is of the opinion that it should consider making an instrument forfeiture order,---
         
-    *   (a) must direct the prosecutor to issue and serve any notice required by [section 142E][321]:
+    *   (a) must direct the prosecutor to issue and serve any notice required by [section 142E][323]:
     
-    *   (b) may direct the prosecutor to report further information to the court under [section 142F][322].
+    *   (b) may direct the prosecutor to report further information to the court under [section 142F][324].
     
-    Section 142C: inserted, on 1 December 2009, by [section 10][784] of the Sentencing Amendment Act 2009 (2009 No 10).
+    Section 142C: inserted, on 1 December 2009, by [section 10][792] of the Sentencing Amendment Act 2009 (2009 No 10).
 
 ##### 142D Notice of possible instrument forfeiture order may be recorded on registers
     
-*   (1) Subsection (2) applies if the court has given a direction under [section 142C][319] relating to property of a kind that is covered by a New Zealand enactment that enables the registration of---
+*   (1) Subsection (2) applies if the court has given a direction under [section 142C][321] relating to property of a kind that is covered by a New Zealand enactment that enables the registration of---
         
     *   (a) title to that property; or
     
@@ -6935,27 +6997,27 @@ Sentences, orders, and related matters
     
     (3) The court must order an Authority to cancel an entry made on a register under subsection (2) if---
         
-    *   (a) the matter to which the entry relates is finally determined and the relevant appeal period (defined in [section 73(3)][137] and referred to in [section 85][785] of the Criminal Proceeds (Recovery) Act 2009) has expired; or
+    *   (a) the matter to which the entry relates is finally determined and the relevant appeal period (defined in [section 73(3)][137] and referred to in [section 85][793] of the Criminal Proceeds (Recovery) Act 2009) has expired; or
     
     *   (b) proceedings to which the entry relates are discontinued for any reason.
     
-    Compare: 1991 No 120 [s 16(2), (3)][786]
+    Compare: 1991 No 120 [s 16(2), (3)][794]
     
-    Section 142D: inserted, on 1 December 2009, by [section 10][784] of the Sentencing Amendment Act 2009 (2009 No 10).
+    Section 142D: inserted, on 1 December 2009, by [section 10][792] of the Sentencing Amendment Act 2009 (2009 No 10).
 
 ##### 142E Duties of prosecutor as to service
     
-*   (1) If a court gives a direction under [section 142C][319], the prosecutor must take all reasonable steps to notify every person (other than the offender) whose name was included in the notice given to the court under [section 142B][318], any other person whom the prosecutor believes has an interest in the property in question, and the Commissioner---
+*   (1) If a court gives a direction under [section 142C][321], the prosecutor must take all reasonable steps to notify every person (other than the offender) whose name was included in the notice given to the court under [section 142B][320], any other person whom the prosecutor believes has an interest in the property in question, and the Commissioner---
         
     *   (a) that the property may be made the subject of an instrument forfeiture order:
     
     *   (b) that the person may, within 10 working days of the date of the notice, apply to the court for relief:
     
-    *   (c) of the grounds set out in [section 77(1)][787] of the Criminal Proceeds (Recovery) Act 2009 on which an application for relief may be made.
+    *   (c) of the grounds set out in [section 77(1)][795] of the Criminal Proceeds (Recovery) Act 2009 on which an application for relief may be made.
     
-    (2) A notice given under subsection (1) must be given as soon as practicable after the court gives a direction under [section 142C][319] and in any event not later than 5 working days after the giving of that direction.
+    (2) A notice given under subsection (1) must be given as soon as practicable after the court gives a direction under [section 142C][321] and in any event not later than 5 working days after the giving of that direction.
     
-    Section 142E: inserted, on 1 December 2009, by [section 10][784] of the Sentencing Amendment Act 2009 (2009 No 10).
+    Section 142E: inserted, on 1 December 2009, by [section 10][792] of the Sentencing Amendment Act 2009 (2009 No 10).
 
 ##### 142F Court may require further information
     
@@ -6971,13 +7033,13 @@ Sentences, orders, and related matters
     
     *   (e) any other matter specified by the court.
     
-    Section 142F: inserted, on 1 December 2009, by [section 10][784] of the Sentencing Amendment Act 2009 (2009 No 10).
+    Section 142F: inserted, on 1 December 2009, by [section 10][792] of the Sentencing Amendment Act 2009 (2009 No 10).
 
 ##### 142G Independent valuation of property
     
 *   For the purposes of determining the value of an instrument of crime, a court may, at its own discretion or at the request of either party to the proceedings or any person who claims to have an interest in the property, seek an independent valuation as to the value of the property or any interest in the property.
     
-    Section 142G: inserted, on 1 December 2009, by [section 10][784] of the Sentencing Amendment Act 2009 (2009 No 10).
+    Section 142G: inserted, on 1 December 2009, by [section 10][792] of the Sentencing Amendment Act 2009 (2009 No 10).
 
 ##### 142H Court may order declaration of ownership to be completed
     
@@ -6997,13 +7059,13 @@ Sentences, orders, and related matters
     
     (4) In this section, _relevant date_ means the date on which the offender was convicted of the qualifying instrument forfeiture offence.
     
-    Section 142H: inserted, on 1 December 2009, by [section 10][784] of the Sentencing Amendment Act 2009 (2009 No 10).
+    Section 142H: inserted, on 1 December 2009, by [section 10][792] of the Sentencing Amendment Act 2009 (2009 No 10).
 
 ##### 142I Determining ownership of property
     
-*   For the purpose of determining the nature and extent of any person's interest in an instrument of crime, the court may apply the provisions of [section 58][788] of the Criminal Proceeds (Recovery) Act 2009, which applies with all necessary modifications.
+*   For the purpose of determining the nature and extent of any person's interest in an instrument of crime, the court may apply the provisions of [section 58][796] of the Criminal Proceeds (Recovery) Act 2009, which applies with all necessary modifications.
     
-    Section 142I: inserted, on 1 December 2009, by [section 10][784] of the Sentencing Amendment Act 2009 (2009 No 10).
+    Section 142I: inserted, on 1 December 2009, by [section 10][792] of the Sentencing Amendment Act 2009 (2009 No 10).
 
 ##### 142J Applications for relief from instrument forfeiture order
     
@@ -7011,13 +7073,13 @@ Sentences, orders, and related matters
     
     (2) An application by any person for relief must be made to the court that convicted the offender---
         
-    *   (a) on either of the grounds set out in [section 77(1)][787] of the Criminal Proceeds (Recovery) Act 2009; and
+    *   (a) on either of the grounds set out in [section 77(1)][795] of the Criminal Proceeds (Recovery) Act 2009; and
     
     *   (b) in the prescribed form (if any); and
     
     *   (c) within---
             
-        *   (i) the time specified in the notice served on the person under [section 142E][789]; or
+        *   (i) the time specified in the notice served on the person under [section 142E][797]; or
         
         *   (ii) if no notice is served on the person, 15 working days after the day on which the offender was convicted of the qualifying instrument forfeiture offence; or
         
@@ -7047,25 +7109,25 @@ Sentences, orders, and related matters
     
     (4) An applicant for relief must provide the court and the prosecutor with a list of persons on whom notice of the application has been served.
     
-    Section 142J: inserted, on 1 December 2009, by [section 10][784] of the Sentencing Amendment Act 2009 (2009 No 10).
+    Section 142J: inserted, on 1 December 2009, by [section 10][792] of the Sentencing Amendment Act 2009 (2009 No 10).
 
 ##### 142K Hearings concerning instrument forfeiture orders
     
-*   (1) If a court issues a direction under [section 142C][319], it may convene a hearing to determine whether to make an instrument forfeiture order or to grant an application made for relief from an instrument forfeiture order under [section 142J][326].
+*   (1) If a court issues a direction under [section 142C][321], it may convene a hearing to determine whether to make an instrument forfeiture order or to grant an application made for relief from an instrument forfeiture order under [section 142J][328].
     
     (2) At the hearing, the prosecutor, the offender, any person making an application for relief from an instrument forfeiture order, and any other person who claims to have an interest in the property that may be the subject of the instrument forfeiture order or who believes that he or she may suffer undue hardship if the property is forfeited, may be heard.
     
     (3) If a hearing is not held under subsection (1), the matters referred to in that subsection and subsection (2) may occur during the sentencing hearing.
     
-    Section 142K: inserted, on 1 December 2009, by [section 10][784] of the Sentencing Amendment Act 2009 (2009 No 10).
+    Section 142K: inserted, on 1 December 2009, by [section 10][792] of the Sentencing Amendment Act 2009 (2009 No 10).
 
 ##### 142L Court may grant relief from instrument forfeiture order to applicant who establishes interest in property
     
 *   (1) This section applies if---
         
-    *   (a) a person applies to the court under [section 142J][326] for relief from an instrument forfeiture order in respect of an interest in property on the ground set out in [section 77(1)(a)][787] of the Criminal Proceeds (Recovery) Act 2009; and
+    *   (a) a person applies to the court under [section 142J][328] for relief from an instrument forfeiture order in respect of an interest in property on the ground set out in [section 77(1)(a)][795] of the Criminal Proceeds (Recovery) Act 2009; and
     
-    *   (b) the court is satisfied, following a hearing under [section 142K][327], that the applicant has established on the balance of probabilities that the applicant---
+    *   (b) the court is satisfied, following a hearing under [section 142K][329], that the applicant has established on the balance of probabilities that the applicant---
             
         *   (i) has an interest in the property to which the instrument forfeiture order relates; and
         
@@ -7085,7 +7147,7 @@ Sentences, orders, and related matters
         
         *   (iii) directing that the interest not be included in an instrument forfeiture order made in respect of the proceedings that gave rise to the application; or
         
-        *   (iv) determining, in accordance with [section 142N][330], not to make an instrument forfeiture order.
+        *   (iv) determining, in accordance with [section 142N][332], not to make an instrument forfeiture order.
         
         
     
@@ -7097,11 +7159,11 @@ Sentences, orders, and related matters
     
     (4) The court must not make an order under subsection (2)(b)(ii) unless it is satisfied that it cannot reasonably make an order under subsection (2)(b)(i) or (iii) (for example, because the interest of the applicant is not severable from the other property in question).
     
-    Section 142L: inserted, on 1 December 2009, by [section 10][784] of the Sentencing Amendment Act 2009 (2009 No 10).
+    Section 142L: inserted, on 1 December 2009, by [section 10][792] of the Sentencing Amendment Act 2009 (2009 No 10).
 
 ##### 142M Court may grant relief from instrument forfeiture order to applicant on grounds of undue hardship
     
-*   (1) This section applies if a person applies to the court under [section 142J][326] for relief from an instrument forfeiture order on the ground set out in [section 77(1)(b)][787] of the Criminal Proceeds (Recovery) Act 2009\.
+*   (1) This section applies if a person applies to the court under [section 142J][328] for relief from an instrument forfeiture order on the ground set out in [section 77(1)(b)][795] of the Criminal Proceeds (Recovery) Act 2009\.
     
     (2) If the court is satisfied that, having regard to all the circumstances, undue hardship is likely to be caused to the person making the application or to another person (other than the offender), by the operation of an instrument forfeiture order, the court---
         
@@ -7117,17 +7179,17 @@ Sentences, orders, and related matters
     
     *   (c) any other matter relating to the nature and circumstances of the qualifying instrument forfeiture offence to which the property relates.
     
-    Compare: 1991 No 120 [ss 15(2)][790], [18][791]
+    Compare: 1991 No 120 [ss 15(2)][798], [18][799]
     
-    Section 142M: inserted, on 1 December 2009, by [section 10][784] of the Sentencing Amendment Act 2009 (2009 No 10).
+    Section 142M: inserted, on 1 December 2009, by [section 10][792] of the Sentencing Amendment Act 2009 (2009 No 10).
 
 ##### 142N Instrument forfeiture orders
     
-*   (1) Following a hearing under [section 142K][327], the court may, if it is satisfied that the property described in the notice given under [section 142B][318] is an instrument of crime, order that the instrument of crime or any part of it specified by the court be forfeited to the Crown.
+*   (1) Following a hearing under [section 142K][329], the court may, if it is satisfied that the property described in the notice given under [section 142B][320] is an instrument of crime, order that the instrument of crime or any part of it specified by the court be forfeited to the Crown.
     
     (2) In considering whether or not to make an instrument forfeiture order under subsection (1) in respect of particular property, the court may have regard to---
         
-    *   (a) any matter raised in an application for relief under [section 142J][326]; and
+    *   (a) any matter raised in an application for relief under [section 142J][328]; and
     
     *   (b) the use that is ordinarily made, or was intended to be made, of the instrument of crime; and
     
@@ -7135,45 +7197,45 @@ Sentences, orders, and related matters
     
     *   (d) the nature and extent of the offender's interest in the instrument of crime (if any), and the nature and extent of any other person's interest in it (if any); and
     
-    *   (e) in addition to the matters referred to in [section 77(1)][787] of the Criminal Proceeds (Recovery) Act 2009, any other matter relating to the nature and circumstances of the qualifying instrument forfeiture offence or the offender, including the gravity of the qualifying instrument forfeiture offence.
+    *   (e) in addition to the matters referred to in [section 77(1)][795] of the Criminal Proceeds (Recovery) Act 2009, any other matter relating to the nature and circumstances of the qualifying instrument forfeiture offence or the offender, including the gravity of the qualifying instrument forfeiture offence.
     
     (3) A court that makes an instrument forfeiture order may, if it considers that it is appropriate to do so, by order,---
         
     *   (a) declare the nature, extent, and value of any person's interest in an instrument of crime; and
     
-    *   (b) declare that the instrument forfeiture order may, to the extent to which it relates to the interest, be discharged under [section 85][785] of the Criminal Proceeds (Recovery) Act 2009\.
+    *   (b) declare that the instrument forfeiture order may, to the extent to which it relates to the interest, be discharged under [section 85][793] of the Criminal Proceeds (Recovery) Act 2009\.
     
     (4) If the court orders that property (other than money) be forfeited to the Crown, the court must specify in the order the amount that it considers to be the value of the property at the time the order is made.
     
     (5) If a court makes an instrument forfeiture order, the court may give any directions that are necessary or convenient for giving effect to the order.
     
-    Section 142N: inserted, on 1 December 2009, by [section 10][784] of the Sentencing Amendment Act 2009 (2009 No 10).
+    Section 142N: inserted, on 1 December 2009, by [section 10][792] of the Sentencing Amendment Act 2009 (2009 No 10).
 
 ##### 142O Offence of providing false or misleading information under section 142F
     
-*   Every person is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 who provides false or misleading information to a court in response to a direction under [section 142F][322].
+*   Every person is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 who provides false or misleading information to a court in response to a direction under [section 142F][324].
     
-    Section 142O: inserted, on 1 December 2009, by [section 10][784] of the Sentencing Amendment Act 2009 (2009 No 10).
+    Section 142O: inserted, on 1 December 2009, by [section 10][792] of the Sentencing Amendment Act 2009 (2009 No 10).
     
-    Section 142O: amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 142O: amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ##### 142P Evidence in instrument forfeiture order proceedings
     
-*   In determining whether or not to make an instrument forfeiture order under [section 142N][330] as a result of a person's conviction, the court may take into account evidence given in the proceedings taken against that person for the offence, including, without limitation,---
+*   In determining whether or not to make an instrument forfeiture order under [section 142N][332] as a result of a person's conviction, the court may take into account evidence given in the proceedings taken against that person for the offence, including, without limitation,---
         
     *   (a) documents, exhibits, or other things connected with the proceedings that the court considers relevant; and
     
     *   (b) notes or transcripts of evidence admitted in the proceedings.
     
-    Compare: 1991 No 120 [s 14(1)][792]
+    Compare: 1991 No 120 [s 14(1)][800]
     
-    Section 142P: inserted, on 1 December 2009, by [section 10][784] of the Sentencing Amendment Act 2009 (2009 No 10).
+    Section 142P: inserted, on 1 December 2009, by [section 10][792] of the Sentencing Amendment Act 2009 (2009 No 10).
 
 ##### 142Q Relationship with other provisions in Act
     
-*   Nothing in [sections 142A to 142P][317] affects [sections 127 to 142][282].
+*   Nothing in [sections 142A to 142P][319] affects [sections 127 to 142][284].
     
-    Section 142Q: inserted, on 1 December 2009, by [section 10][784] of the Sentencing Amendment Act 2009 (2009 No 10).
+    Section 142Q: inserted, on 1 December 2009, by [section 10][792] of the Sentencing Amendment Act 2009 (2009 No 10).
 
 ### Subpart 6---Miscellaneous, transitional, and savings provisions
 
@@ -7217,31 +7279,31 @@ Sentences, orders, and related matters
     
     *   (b) the time allowed for giving notice of the appeal or application runs from the date on which the substituted sentence was in fact imposed.
     
-    Compare: 1985 No 120 [s 137][793]
+    Compare: 1985 No 120 [s 137][801]
     
-    Section 143(1): substituted, on 7 July 2004, by [section 18][794] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 143(1): substituted, on 7 July 2004, by [section 18][802] of the Sentencing Amendment Act 2004 (2004 No 68).
     
-    Section 143(2): substituted, on 7 July 2004, by [section 18][794] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 143(2): substituted, on 7 July 2004, by [section 18][802] of the Sentencing Amendment Act 2004 (2004 No 68).
     
-    Section 143(3)(a)(ia): inserted, on 1 January 2004, by [section 48(1)][549] of the Supreme Court Act 2003 (2003 No 53).
+    Section 143(3)(a)(ia): inserted, on 1 January 2004, by [section 48(1)][551] of the Supreme Court Act 2003 (2003 No 53).
     
-    Section 143(3)(b)(ia): inserted, on 1 January 2004, by [section 48(1)][549] of the Supreme Court Act 2003 (2003 No 53).
+    Section 143(3)(b)(ia): inserted, on 1 January 2004, by [section 48(1)][551] of the Supreme Court Act 2003 (2003 No 53).
     
-    Section 143(3)(b)(ii): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 143(3)(b)(ii): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ##### 143A Sentencing following finding or verdict of guilt on more than 1 charge
     
 *   If 1 sentence is imposed following a finding of guilt or verdict of guilty on more than 1 charge, the sentence is lawful if any of those charges would have justified the sentence.
     
-    Compare: 1961 No 43 [s 340(7)][795]
+    Compare: 1961 No 43 [s 340(7)][803]
     
-    Section 143A: inserted, on 1 July 2013, by [section 6][796] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 143A: inserted, on 1 July 2013, by [section 6][804] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ##### 144 Royal prerogative not affected
     
 *   Nothing in this Act limits or affects the Royal prerogative of mercy.
     
-    Compare: 1985 No 120 [s 146][797]
+    Compare: 1985 No 120 [s 146][805]
 
 ##### 145 Maximum period of detention for administrative tasks
     
@@ -7255,7 +7317,7 @@ Sentences, orders, and related matters
         
     *   (a) make a declaration of financial capacity in accordance with [section 42][66]:
     
-    *   (b) make a declaration of ownership of a motor vehicle in accordance with [section 130][292].
+    *   (b) make a declaration of ownership of a motor vehicle in accordance with [section 130][294].
     
     (3) An offender may be detained in the custody of the court for a period specified in subsection (4) if, at any time after sentencing, 2 or more of the following are required to be completed:
         
@@ -7263,11 +7325,11 @@ Sentences, orders, and related matters
     
     *   (b) an order for a community-based sentence to be drawn up and a copy given to the offender under [section 74][139]:
     
-    *   (c) an order for a sentence of home detention to be drawn up and a copy given to the offender under [section 80ZC][177]:
+    *   (c) an order for a sentence of home detention to be drawn up and a copy given to the offender under [section 80ZC][178]:
     
-    *   (d) a non-association order to be drawn up and a copy given to the offender under [section 115][260]:
+    *   (d) a non-association order to be drawn up and a copy given to the offender under [section 115][262]:
     
-    *   (e) a protection order to be drawn up and served on the offender under [section 123E][274].
+    *   (e) a protection order to be drawn up and served on the offender under [section 123E][276].
     
     (4) The period referred to in subsection (3) is---
         
@@ -7277,35 +7339,35 @@ Sentences, orders, and related matters
     
     (5) If an offender is detained in the custody of the court for 2 or more orders for community-based sentences to be drawn up under [section 74][139], each order is a separate administrative task for the purposes of subsection (4).
     
-    (6) Nothing in this section limits or affects [sections 42A][67], [74(4)][139], [80ZC(4)][177], [115(2)][260], [123E(2)][274], and [130(3)][292] if the administrative task described in each of those sections is undertaken separately on any 1 occasion, rather than in conjunction with other administrative tasks.
+    (6) Nothing in this section limits or affects [sections 42A][67], [74(4)][139], [80ZC(4)][178], [115(2)][262], [123E(2)][276], and [130(3)][294] if the administrative task described in each of those sections is undertaken separately on any 1 occasion, rather than in conjunction with other administrative tasks.
     
     (7) In this section, _administrative task_ means a task of a kind specified in subsection (2) or, as the case may be, subsection (3).
     
-    Section 145: replaced, on 13 February 2012, by [section 39][798] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 145: replaced, on 13 February 2012, by [section 39][806] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 145A Manner in which amounts of reparation must be applied in cases involving same offence
     
 *   \[Repealed\]
     
-    Section 145A: repealed, on 13 February 2012, by [section 40][799] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 145A: repealed, on 13 February 2012, by [section 40][807] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 145B Manner in which amounts of reparation must be applied in cases involving different offences
     
 *   \[Repealed\]
     
-    Section 145B: repealed, on 13 February 2012, by [section 40][799] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 145B: repealed, on 13 February 2012, by [section 40][807] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 145C No Crown liability for error, etc, in applying payments of amounts of reparation
     
 *   \[Repealed\]
     
-    Section 145C: repealed, on 13 February 2012, by [section 40][799] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 145C: repealed, on 13 February 2012, by [section 40][807] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 145D Definitions for sections 145A to 145C
     
 *   \[Repealed\]
     
-    Section 145D: repealed, on 13 February 2012, by [section 40][799] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 145D: repealed, on 13 February 2012, by [section 40][807] of the Sentencing Amendment Act 2011 (2011 No 47).
 
 ##### 146 Consent to treatment, etc, not affected
     
@@ -7313,17 +7375,17 @@ Sentences, orders, and related matters
     
     (2) Subsection (1) applies except as expressly provided by any other enactment.
     
-    Compare: 1985 No 120 [s 148][800]
+    Compare: 1985 No 120 [s 148][808]
 
 ##### 146A A certificate of conviction for succession purposes
     
-*   (1) On or at any time after sentencing a person for an offence against any Act of unlawfully killing another person or child that has not become a person, a court may certify that for the purposes of the [Succession (Homicide) Act 2007][801] the person convicted is guilty of homicide of that other person or child that has not become a person.
+*   (1) On or at any time after sentencing a person for an offence against any Act of unlawfully killing another person or child that has not become a person, a court may certify that for the purposes of the [Succession (Homicide) Act 2007][809] the person convicted is guilty of homicide of that other person or child that has not become a person.
     
     (2) A court may issue a certificate under this section on the application of the prosecutor, any interested person, or on its own initiative.
     
-    Section 146A: inserted, on 17 November 2007, by [section 17][802] of the Succession (Homicide) Act 2007 (2007 No 95).
+    Section 146A: inserted, on 17 November 2007, by [section 17][810] of the Succession (Homicide) Act 2007 (2007 No 95).
     
-    Section 146A(2): amended, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 146A(2): amended, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ##### 147 Regulations
     
@@ -7335,13 +7397,13 @@ Sentences, orders, and related matters
     
     *   (c) prescribing offences in respect of the contravention of, or non-compliance with, any regulations made under this Act and the amounts of fines that may be imposed in respect of those offences, which fines must not exceed $500:
     
-    *   (ca) prescribing the amount of the levy payable under [section 105B][238]:
+    *   (ca) prescribing the amount of the levy payable under [section 105B][240]:
     
     *   (d) generally providing for any other matters that are contemplated by, or necessary for giving full effect to, this Act, and for its due administration.
     
-    Compare: 1985 No 120 [s 149][803]
+    Compare: 1985 No 120 [s 149][811]
     
-    Section 147(ca): inserted, on 1 July 2010, by [section 9][804] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
+    Section 147(ca): inserted, on 1 July 2010, by [section 9][812] of the Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42).
 
 #### Transitional and savings provisions
 
@@ -7349,7 +7411,7 @@ Sentences, orders, and related matters
     
 *   (1) This section applies if an offender is sentenced on or after the commencement date for an offence committed before that date.
     
-    (2) [Sections 11][456] and [22 to 28][485] of the Criminal Justice Act 1985 apply as if those sections had not been repealed.
+    (2) [Sections 11][458] and [22 to 28][487] of the Criminal Justice Act 1985 apply as if those sections had not been repealed.
     
     (3) Despite subsection (2), unless the particular enactment expressly provides otherwise, no court may sentence an offender referred to in subsection (1) to both a sentence of imprisonment and a fine for a particular offence.
 
@@ -7359,9 +7421,9 @@ Sentences, orders, and related matters
     
     (2) The court may, subject to [section 19][33],---
         
-    *   (a) sentence the offender to community work under [subpart 2][69] if, had it been dealing with the offender immediately before the commencement date, it would have sentenced him or her to community service or periodic detention under [section 29][805] or [section 37][806] of the Criminal Justice Act 1985; or
+    *   (a) sentence the offender to community work under [subpart 2][69] if, had it been dealing with the offender immediately before the commencement date, it would have sentenced him or her to community service or periodic detention under [section 29][813] or [section 37][814] of the Criminal Justice Act 1985; or
     
-    *   (b) sentence the offender to supervision under [subpart 2][69] if, had it been dealing with the offender immediately before the commencement date, it would have sentenced him or her to supervision or a community programme under [section 46][807] or [section 53][808] of the Criminal Justice Act 1985\.
+    *   (b) sentence the offender to supervision under [subpart 2][69] if, had it been dealing with the offender immediately before the commencement date, it would have sentenced him or her to supervision or a community programme under [section 46][815] or [section 53][816] of the Criminal Justice Act 1985\.
     
     (3) When determining the length of, or number of hours of work to be done under, a sentence imposed in accordance with this section, the court---
         
@@ -7375,29 +7437,29 @@ Sentences, orders, and related matters
     
 *   \[Repealed\]
     
-    Section 150: repealed, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 150: repealed, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ##### 151 Offender subject to community-based sentence under Criminal Justice Act 1985 sentenced to further community-based sentence after commencement date
     
 *   \[Repealed\]
     
-    Section 151: repealed, on 1 July 2013, by [section 7][419] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
+    Section 151: repealed, on 1 July 2013, by [section 7][421] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
 
 ##### 152 Section 86 not to apply to offender convicted of offence committed before commencement date except for serious violent offender
     
-*   (1) Except as provided in subsection (2), nothing in [section 86][197] applies to an offender who is sentenced on or after the commencement date for an offence committed before that date.
+*   (1) Except as provided in subsection (2), nothing in [section 86][199] applies to an offender who is sentenced on or after the commencement date for an offence committed before that date.
     
-    (2) If an offender is sentenced on or after the commencement date for an offence committed before that date that is a serious violent offence as defined in [section 2][809] of the Criminal Justice Act 1985, [section 86][197] applies.
+    (2) If an offender is sentenced on or after the commencement date for an offence committed before that date that is a serious violent offence as defined in [section 2][817] of the Criminal Justice Act 1985, [section 86][199] applies.
 
 ##### 153 Offender convicted of specified offence committed before commencement date
     
 *   (1) This section applies if---
         
-    *   (a) an offender is sentenced on or after the commencement date for an offence committed before that date that is a specified offence as defined in [section 75(4)][810] of the Criminal Justice Act 1985; and
+    *   (a) an offender is sentenced on or after the commencement date for an offence committed before that date that is a specified offence as defined in [section 75(4)][818] of the Criminal Justice Act 1985; and
     
-    *   (b) had the court been dealing with the offender immediately before the commencement date, the court would have sentenced the offender to preventive detention under [section 75][810] of the Criminal Justice Act 1985 or committed the offender to the High Court in accordance with section 75(3) of that Act.
+    *   (b) had the court been dealing with the offender immediately before the commencement date, the court would have sentenced the offender to preventive detention under [section 75][818] of the Criminal Justice Act 1985 or committed the offender to the High Court in accordance with section 75(3) of that Act.
     
-    (2) The court may deal with the offender under [sections 87 to 90][209].
+    (2) The court may deal with the offender under [sections 87 to 90][211].
 
 ##### 154 Offender convicted of murder committed before commencement date
     
@@ -7405,15 +7467,15 @@ Sentences, orders, and related matters
     
     (2) Except as provided in subsection (3), the offender must be sentenced under this Act.
     
-    (3) [Section 104][234] does not apply to the sentencing of an offender to whom this section applies.
+    (3) [Section 104][236] does not apply to the sentencing of an offender to whom this section applies.
 
 ##### 155 Suspended sentences of imprisonment
     
-*   (1) This section applies to an offender who, immediately before the commencement date, was subject to a suspended sentence of imprisonment imposed under the [Criminal Justice Act 1985][652].
+*   (1) This section applies to an offender who, immediately before the commencement date, was subject to a suspended sentence of imprisonment imposed under the [Criminal Justice Act 1985][660].
     
-    (2) The offender continues to be subject to that sentence on and after the commencement date, and the provisions of the [Criminal Justice Act 1985][652] (as modified by subsection (3)), and any other enactment, relating to suspended sentences apply as if they had not been amended or repealed by this Act.
+    (2) The offender continues to be subject to that sentence on and after the commencement date, and the provisions of the [Criminal Justice Act 1985][660] (as modified by subsection (3)), and any other enactment, relating to suspended sentences apply as if they had not been amended or repealed by this Act.
     
-    (3) [Section 21A][811] of the Criminal Justice Act 1985 must be read as if for subsection (5) of that section there were substituted subsection (4) of this section.
+    (3) [Section 21A][819] of the Criminal Justice Act 1985 must be read as if for subsection (5) of that section there were substituted subsection (4) of this section.
     
     (4) If a court decides that a suspended sentence is not to take effect for the period specified in the order, the court must either---
         
@@ -7433,17 +7495,17 @@ Sentences, orders, and related matters
 
 ##### 156 Corrective training
     
-*   (1) This section applies to an offender who, immediately before the commencement date, was subject to a sentence of corrective training imposed under [section 68][812] of the Criminal Justice Act 1985\.
+*   (1) This section applies to an offender who, immediately before the commencement date, was subject to a sentence of corrective training imposed under [section 68][820] of the Criminal Justice Act 1985\.
     
-    (2) The offender must continue to serve that sentence as if this Act had not been passed, and the provisions of the [Criminal Justice Act 1985][652] and any other enactment relating to corrective training apply as if they had not been amended or repealed by this Act.
+    (2) The offender must continue to serve that sentence as if this Act had not been passed, and the provisions of the [Criminal Justice Act 1985][660] and any other enactment relating to corrective training apply as if they had not been amended or repealed by this Act.
 
 ##### 157 Offenders liable to come up for sentence if called on
     
-*   (1) This section applies to every order made under [section 21][647] of the Criminal Justice Act 1985 requiring an offender to appear for sentence if called upon to do so that was still in force immediately before the commencement date.
+*   (1) This section applies to every order made under [section 21][655] of the Criminal Justice Act 1985 requiring an offender to appear for sentence if called upon to do so that was still in force immediately before the commencement date.
     
     (2) The order---
         
-    *   (a) continues in force as if it were an order made under [section 110][254]; and
+    *   (a) continues in force as if it were an order made under [section 110][256]; and
     
     *   (b) ceases to have effect on the date on which it would have ceased to have effect had this Act not been enacted.
     
@@ -7453,11 +7515,11 @@ Sentences, orders, and related matters
     
 *   (1) This section applies if an offender is sentenced on or after the commencement date for an offence committed before that date.
     
-    (2) The court may make a non-association order or order for the confiscation of a vehicle under [subpart 5][247] if it would have had the power to do so under the [Criminal Justice Act 1985][652] had it been dealing with the offender immediately before the commencement date.
+    (2) The court may make a non-association order or order for the confiscation of a vehicle under [subpart 5][249] if it would have had the power to do so under the [Criminal Justice Act 1985][660] had it been dealing with the offender immediately before the commencement date.
 
 ##### 159 Non-association orders, disqualification from driving, and confiscation of vehicles imposed under Criminal Justice Act 1985
     
-*   Every non-association order, disqualification from driving order, or order for the confiscation of a vehicle made under the [Criminal Justice Act 1985][652] that is in force immediately before the commencement date continues in force as if it had been made under [subpart 5][247].
+*   Every non-association order, disqualification from driving order, or order for the confiscation of a vehicle made under the [Criminal Justice Act 1985][660] that is in force immediately before the commencement date continues in force as if it had been made under [subpart 5][249].
 
 ##### 160 Person under 17 years of age imprisoned
     
@@ -7469,7 +7531,7 @@ Sentences, orders, and related matters
     
     (2) The offender continues to be subject to the sentence despite the fact that at the time of the commission of the offence the offender had not attained the age of 17 years.
     
-    (3) Nothing in [section 143(2)][336] applies in respect of the offender.
+    (3) Nothing in [section 143(2)][338] applies in respect of the offender.
 
 ### Subpart 7---Amendments to other enactments
 
@@ -7477,93 +7539,93 @@ Sentences, orders, and related matters
 
 ##### 161 Custody of child or young person pending hearing
     
-*   _Amendment(s) incorporated in the [Act(s)][813]._
+*   _Amendment(s) incorporated in the [Act(s)][821]._
 
 ##### 162 Restrictions on power of court to order child or young person to be detained in custody
     
-*   _Amendment(s) incorporated in the [Act(s)][814]._
+*   _Amendment(s) incorporated in the [Act(s)][822]._
 
 ##### 163 New section 239A inserted
     
-*   _Amendment(s) incorporated in the [Act(s)][815]._
+*   _Amendment(s) incorporated in the [Act(s)][823]._
 
 #### Amendments to Crimes Act 1961
 
 ##### 164 Repeal of home invasion provisions in Crimes Act 1961
     
-*   _Amendment(s) incorporated in the [Act(s)][816]._
+*   _Amendment(s) incorporated in the [Act(s)][824]._
 
 ##### 165 New section 172 substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][589]._
+*   _Amendment(s) incorporated in the [Act(s)][597]._
 
 #### Amendments to Criminal Justice Act 1985
 
 ##### 166 Certain provisions in Criminal Justice Act 1985 repealed
     
-*   _Amendment(s) incorporated in the [Act(s)][817]._
+*   _Amendment(s) incorporated in the [Act(s)][825]._
 
 ##### 167 Appeal against acquittal on account of insanity
     
 *   \[Repealed\]
     
-    Section 167: repealed, on 1 September 2004, by [section 51][479] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 167: repealed, on 1 September 2004, by [section 51][481] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
 
 ##### 168 Order to be made if person under disability or insane
     
 *   \[Repealed\]
     
-    Section 168: repealed, on 1 September 2004, by [section 51][479] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 168: repealed, on 1 September 2004, by [section 51][481] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
 
 ##### 169 Power of court to commit to institution on conviction
     
 *   \[Repealed\]
     
-    Section 169: repealed, on 1 September 2004, by [section 51][479] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 169: repealed, on 1 September 2004, by [section 51][481] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
 
 ##### 170 Power of court to require psychiatric report
     
 *   \[Repealed\]
     
-    Section 170: repealed, on 1 September 2004, by [section 51][479] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 170: repealed, on 1 September 2004, by [section 51][481] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
 
 ##### 171 Access to psychiatric reports
     
 *   \[Repealed\]
     
-    Section 171: repealed, on 1 September 2004, by [section 51][479] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 171: repealed, on 1 September 2004, by [section 51][481] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
 
 ##### 172 Probation officers
     
-*   _Amendment(s) incorporated in the [Act(s)][818]._
+*   _Amendment(s) incorporated in the [Act(s)][826]._
 
 ##### 173 New section 124A inserted
     
-*   _Amendment(s) incorporated in the [Act(s)][819]._
+*   _Amendment(s) incorporated in the [Act(s)][827]._
 
 ##### 174 Duties of probation officers
     
-*   _Amendment(s) incorporated in the [Act(s)][820]._
+*   _Amendment(s) incorporated in the [Act(s)][828]._
 
 ##### 175 New sections 126 and 127 substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][821]._
+*   _Amendment(s) incorporated in the [Act(s)][829]._
 
 ##### 176 New section 129 substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][822]._
+*   _Amendment(s) incorporated in the [Act(s)][830]._
 
 ##### 177 Special provisions as to young persons remanded or committed for trial or sentence
     
-*   _Amendment(s) incorporated in the [Act(s)][823]._
+*   _Amendment(s) incorporated in the [Act(s)][831]._
 
 ##### 178 New sections 142AA and 142AB inserted into Criminal Justice Act 1985
     
-*   _Amendment(s) incorporated in the [Act(s)][824]._
+*   _Amendment(s) incorporated in the [Act(s)][832]._
 
 ##### 179 Detention of children or young persons serving sentence of imprisonment
     
-*   _Amendment(s) incorporated in the [Act(s)][825]._
+*   _Amendment(s) incorporated in the [Act(s)][833]._
 
 #### Amendment to District Courts Act 1947
 
@@ -7571,7 +7633,7 @@ Sentences, orders, and related matters
     
 *   \[Repealed\]
     
-    Section 180: repealed, on 20 May 2004, by [section 3(3)][826] of the District Courts Amendment Act 2004 (2004 No 42).
+    Section 180: repealed, on 20 May 2004, by [section 3(3)][834] of the District Courts Amendment Act 2004 (2004 No 42).
 
 #### Amendment to Judicature Act 1908
 
@@ -7579,64 +7641,64 @@ Sentences, orders, and related matters
     
 *   \[Repealed\]
     
-    Section 181: repealed, on 20 May 2004, by [section 3(3)][827] of the Judicature Amendment Act 2004 (2004 No 45).
+    Section 181: repealed, on 20 May 2004, by [section 3(3)][835] of the Judicature Amendment Act 2004 (2004 No 45).
 
 #### Amendments to Misuse of Drugs Amendment Act 1978
 
 ##### 182 Parole
     
-*   _Amendment(s) incorporated in the [Act(s)][828]._
+*   _Amendment(s) incorporated in the [Act(s)][836]._
 
 #### Amendments to Summary Proceedings Act 1957
 
 ##### 183 Extension of time to pay
     
-*   _Amendment(s) incorporated in the [Act(s)][492]._
+*   _Amendment(s) incorporated in the [Act(s)][494]._
 
 ##### 184 Bailiff may arrange extension of time to pay
     
-*   _Amendment(s) incorporated in the [Act(s)][829]._
+*   _Amendment(s) incorporated in the [Act(s)][837]._
 
 ##### 185 Operation of attachment order
     
-*   _Amendment(s) incorporated in the [Act(s)][830]._
+*   _Amendment(s) incorporated in the [Act(s)][838]._
 
 #### Other amendments and repeals
 
 ##### 186 Acts amended
     
-*   The Acts set out in [Schedule 1][397] are amended in the manner set out in that schedule.
+*   The Acts set out in [Schedule 1][399] are amended in the manner set out in that schedule.
 
 ##### 187 Enactments repealed
     
-*   The enactments set out in [Schedule 2][398] are repealed.
+*   The enactments set out in [Schedule 2][400] are repealed.
 
 ---
 
 ## Schedule 1  
 Amendments to other enactments
 
-[s 186][395]
+[s 186][397]
 
 ##### Alcoholism and Drug Addiction Act 1966 (1966 No 97)
 
-_Amendment(s) incorporated in the [Act(s)][831]._
+_Amendment(s) incorporated in the [Act(s)][839]._
 
 ##### Armed Forces Discipline Act 1971 (1971 No 53)
 
-_Amendment(s) incorporated in the [Act(s)][433]._
+_Amendment(s) incorporated in the [Act(s)][435]._
 
 ##### Bail Act 2000 (2000 No 38)
 
-_Amendment(s) incorporated in the [Act(s)][630]._
+_Amendment(s) incorporated in the [Act(s)][638]._
 
 ##### Child Support Act 1991 (1991 No 142)
 
-_Amendment(s) incorporated in the [Act(s)][832]._
+_Amendment(s) incorporated in the [Act(s)][840]._
 
 ##### Children, Young Persons, and Their Families Act 1989 (1989 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][833]._
+_Amendment(s) incorporated in the [Act(s)][841]._
 
 ##### Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121)
 
@@ -7644,118 +7706,118 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Copyright Act 1994 (1994 No 143)
 
-_Amendment(s) incorporated in the [Act(s)][834]._
+_Amendment(s) incorporated in the [Act(s)][842]._
 
 ##### Costs in Criminal Cases Act 1967 (1967 No 129)
 
-_Amendment(s) incorporated in the [Act(s)][835]._
+_Amendment(s) incorporated in the [Act(s)][843]._
 
 ##### Crimes Act 1961 (1961 No 43)
 
-_Amendment(s) incorporated in the [Act(s)][579]._
+_Amendment(s) incorporated in the [Act(s)][587]._
 
 ##### Crown Minerals Act 1991 (1991 No 70)
 
-_Amendment(s) incorporated in the [Act(s)][836]._
+_Amendment(s) incorporated in the [Act(s)][844]._
 
 ##### Disputes Tribunals Act 1988 (1988 No 110)
 
-_Amendment(s) incorporated in the [Act(s)][837]._
+_Amendment(s) incorporated in the [Act(s)][845]._
 
 ##### District Courts Act 1947 (1947 No 16)
 
-_Amendment(s) incorporated in the [Act(s)][838]._
+_Amendment(s) incorporated in the [Act(s)][846]._
 
 ##### Electoral Act 1993 (1993 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][839]._
+_Amendment(s) incorporated in the [Act(s)][847]._
 
 ##### Extradition Act 1999 (1999 No 55)
 
-_Amendment(s) incorporated in the [Act(s)][556]._
+_Amendment(s) incorporated in the [Act(s)][558]._
 
 ##### Fisheries Act 1996 (1996 No 88)
 
-_Amendment(s) incorporated in the [Act(s)][840]._
+_Amendment(s) incorporated in the [Act(s)][848]._
 
 ##### Health Act 1956 (1956 No 65)
 
-_Amendment(s) incorporated in the [Act(s)][841]._
+_Amendment(s) incorporated in the [Act(s)][849]._
 
 ##### Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49)
 
-_Amendment(s) incorporated in the [Act(s)][483]._
+_Amendment(s) incorporated in the [Act(s)][485]._
 
 ##### Insolvency Act 1967 (1967 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][842]._
+_Amendment(s) incorporated in the [Act(s)][850]._
 
 ##### International Crimes and International Criminal Court Act 2000 (2000 No 26)
 
-_Amendment(s) incorporated in the [Act(s)][843]._
+_Amendment(s) incorporated in the [Act(s)][851]._
 
 ##### International War Crimes Tribunals Act 1995 (1995 No 27)
 
-_Amendment(s) incorporated in the [Act(s)][844]._
+_Amendment(s) incorporated in the [Act(s)][852]._
 
 ##### Land Transport Act 1998 (1998 No 110)
 
-_Amendment(s) incorporated in the [Act(s)][690]._
+_Amendment(s) incorporated in the [Act(s)][698]._
 
 ##### Legal Services Act 2000 (2000 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][481]._
+_Amendment(s) incorporated in the [Act(s)][483]._
 
 ##### Marine Reserves Act 1971 (1971 No 15)
 
-_Amendment(s) incorporated in the [Act(s)][845]._
+_Amendment(s) incorporated in the [Act(s)][853]._
 
 ##### Misuse of Drugs Act 1975 (1975 No 116)
 
-_Amendment(s) incorporated in the [Act(s)][846]._
+_Amendment(s) incorporated in the [Act(s)][854]._
 
 ##### Mutual Assistance in Criminal Matters Act 1992 (1992 No 86)
 
-_Amendment(s) incorporated in the [Act(s)][847]._
+_Amendment(s) incorporated in the [Act(s)][855]._
 
 ##### Passports Act 1992 (1992 No 92)
 
-_Amendment(s) incorporated in the [Act(s)][848]._
+_Amendment(s) incorporated in the [Act(s)][856]._
 
 ##### Police Act 1958 (1958 No 109)
 
-_Amendment(s) incorporated in the [Act(s)][849]._
+_Amendment(s) incorporated in the [Act(s)][857]._
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][476]._
+_Amendment(s) incorporated in the [Act(s)][478]._
 
 ##### Resource Management Act 1991 (1991 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][418]._
+_Amendment(s) incorporated in the [Act(s)][420]._
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][850]._
+_Amendment(s) incorporated in the [Act(s)][858]._
 
 ##### Summary Proceedings Amendment Act (No 2) 1996 (1996 No 146)
 
-_Amendment(s) incorporated in the [Act(s)][851]._
+_Amendment(s) incorporated in the [Act(s)][859]._
 
 ##### Wildlife Act 1953 (1953 No 31)
 
-_Amendment(s) incorporated in the [Act(s)][852]._
+_Amendment(s) incorporated in the [Act(s)][860]._
 
 ---
 
 ## Schedule 2  
 Enactments repealed
 
-[s 187][396]
+[s 187][398]
 
 ##### Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121)
 
-_Amendment(s) incorporated in the [Act(s)][853]._
+_Amendment(s) incorporated in the [Act(s)][861]._
 
 ##### Crimes Amendment Act (No 3) 1993 (1993 No 62)
 
@@ -7775,17 +7837,17 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Criminal Justice Amendment Act 1993 (1993 No 43)
 
-_Amendment(s) incorporated in the [Act(s)][854]._
+_Amendment(s) incorporated in the [Act(s)][862]._
 
 ##### Criminal Justice Amendment Act (No 2) 1993 (1993 No 93)
 
 ##### Criminal Justice Amendment Act 1994 (1994 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][855]._
+_Amendment(s) incorporated in the [Act(s)][863]._
 
 ##### Criminal Justice Amendment Act 1995 (1995 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][856]._
+_Amendment(s) incorporated in the [Act(s)][864]._
 
 ##### Criminal Justice Amendment Act 1996 (1996 No 81)
 
@@ -7797,21 +7859,21 @@ _Amendment(s) incorporated in the [Act(s)][856]._
 
 ##### Criminal Justice Amendment Act (No 2) 1998 (1998 No 78)
 
-_Amendment(s) incorporated in the [Act(s)][857]._
+_Amendment(s) incorporated in the [Act(s)][865]._
 
 ##### Criminal Justice Amendment Act 1999 (1999 No 9)
 
 ##### Criminal Justice Amendment Act (No 2) 1999 (1999 No 78)
 
-_Amendment(s) incorporated in the [Act(s)][858]._
+_Amendment(s) incorporated in the [Act(s)][866]._
 
 ##### Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49)
 
-_Amendment(s) incorporated in the [Act(s)][483]._
+_Amendment(s) incorporated in the [Act(s)][485]._
 
 ##### Land Transport Act 1998 (1998 No 110)
 
-_Amendment(s) incorporated in the [Act(s)][690]._
+_Amendment(s) incorporated in the [Act(s)][698]._
 
 ##### Penal Institutions Act 1954 (1954 No 51)
 
@@ -7823,7 +7885,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Summary Proceedings Amendment Act 1993 (1993 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][859]._
+_Amendment(s) incorporated in the [Act(s)][867]._
 
 ##### Transport Amendment Act (No 2) 1988 (1988 No 170)
 
@@ -7839,13 +7901,13 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Sentencing Amendment Act 2007][860].
+*   This Act is the [Sentencing Amendment Act 2007][868].
 
 ##### 2 Commencement
     
 *   This Act comes into force on a day to be appointed by the Governor-General by Order in Council, and 1 or more orders may be made bringing different provisions into force on different dates.
     
-    Section 2: sections 1--4, 6(2), 7--11, 13, 14, 16--44, 47, 48, 49(4), 50, 51, 55--58 and Schedule brought into force, on 1 October 2007, by the [Sentencing Amendment Act 2007 Commencement Order 2007][861] (SR 2007/254).
+    Section 2: sections 1--4, 6(2), 7--11, 13, 14, 16--44, 47, 48, 49(4), 50, 51, 55--58 and Schedule brought into force, on 1 October 2007, by the [Sentencing Amendment Act 2007 Commencement Order 2007][869] (SR 2007/254).
 
 #### Transitional provisions
 
@@ -7895,7 +7957,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Sentencing Amendment Act 2009][862].
+*   This Act is the [Sentencing Amendment Act 2009][870].
 
 ##### 2 Commencement
     
@@ -7919,7 +7981,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Sentencing (Vehicle Confiscation) Amendment Act 2009][863].
+*   This Act is the [Sentencing (Vehicle Confiscation) Amendment Act 2009][871].
 
 ##### 2 Commencement
     
@@ -7959,7 +8021,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Sentencing and Parole Reform Act 2010][864].
+*   This Act is the [Sentencing and Parole Reform Act 2010][872].
 
 ##### 2 Commencement
     
@@ -7995,95 +8057,97 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][865] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][866] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][873] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][874] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][867] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][868] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][875] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][876] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Bail Amendment Act 2013 (2013 No 66): [section 42][448]
+*   Administration of Community Sentences and Orders Act 2013 (2013 No 88): [sections 38][573], [43][575]
     
-    [Sentencing Amendment Act 2013][869] (2013 No 32)
+    Bail Amendment Act 2013 (2013 No 66): [section 42][450]
     
-    [Sentencing (Aggravating Factors) Amendment Act 2012][870] (2012 No 74)
+    [Sentencing Amendment Act 2013][877] (2013 No 32)
     
-    [Sentencing Amendment Act (No 2) 2011][871] (2011 No 93)
+    [Sentencing (Aggravating Factors) Amendment Act 2012][878] (2012 No 74)
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 393][651]
+    [Sentencing Amendment Act (No 2) 2011][879] (2011 No 93)
     
-    [Sentencing Amendment Act 2011][872] (2011 No 47)
+    Criminal Procedure Act 2011 (2011 No 81): [section 393][659]
     
-    Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(2), (3)][692]
+    [Sentencing Amendment Act 2011][880] (2011 No 47)
     
-    [Sentencing Amendment Act (No 2) 2010][873] (2010 No 84)
+    Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(2), (3)][700]
     
-    Sentencing and Parole Reform Act 2010 (2010 No 33): [Part 1][874]
+    [Sentencing Amendment Act (No 2) 2010][881] (2010 No 84)
     
-    [Sentencing Amendment Act (No 3) 2009][875] (2009 No 49)
+    Sentencing and Parole Reform Act 2010 (2010 No 33): [Part 1][882]
     
-    [Sentencing Amendment Act (No 2) 2009][876] (2009 No 44)
+    [Sentencing Amendment Act (No 3) 2009][883] (2009 No 49)
     
-    [Sentencing (Offender Levy) Amendment Act 2009][877] (2009 No 42)
+    [Sentencing Amendment Act (No 2) 2009][884] (2009 No 44)
     
-    [Sentencing (Vehicle Confiscation) Amendment Act 2009][863] (2009 No 37)
+    [Sentencing (Offender Levy) Amendment Act 2009][885] (2009 No 42)
     
-    Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31): [section 166][431]
+    [Sentencing (Vehicle Confiscation) Amendment Act 2009][871] (2009 No 37)
     
-    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][732]
+    Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31): [section 166][433]
     
-    [Sentencing Amendment Act 2009][862] (2009 No 10)
+    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][740]
     
-    [Sentencing (Offences Against Children) Amendment Act 2008][878] (2008 No 109)
+    [Sentencing Amendment Act 2009][870] (2009 No 10)
     
-    Public Transport Management Act 2008 (2008 No 87): [section 63(2)][879]
+    [Sentencing (Offences Against Children) Amendment Act 2008][886] (2008 No 109)
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii), (iv)][530]
+    Public Transport Management Act 2008 (2008 No 87): [section 63(2)][887]
     
-    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][705]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii), (iv)][532]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][880]
+    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][713]
     
-    Succession (Homicide) Act 2007 (2007 No 95): [section 17][802]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][888]
     
-    [Sentencing Amendment Act 2007 Commencement Order 2007][861] (SR 2007/254)
+    Succession (Homicide) Act 2007 (2007 No 95): [section 17][810]
     
-    [Sentencing Amendment Act 2007 (2007 No 27)][860]
+    [Sentencing Amendment Act 2007 Commencement Order 2007][869] (SR 2007/254)
     
-    [Sentencing Amendment Act (No 2) 2006 (2006 No 89)][881]
+    [Sentencing Amendment Act 2007 (2007 No 27)][868]
     
-    [Sentencing Amendment Act 2006 (2006 No 12)][882]
+    [Sentencing Amendment Act (No 2) 2006 (2006 No 89)][889]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][425]
+    [Sentencing Amendment Act 2006 (2006 No 12)][890]
     
-    Building Act 2004 (2004 No 72): [section 414][432]
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][427]
     
-    [Sentencing Amendment Act 2004 (2004 No 68)][883]
+    Building Act 2004 (2004 No 72): [section 414][434]
     
-    Corrections Act 2004 (2004 No 50): [section 206][429]
+    [Sentencing Amendment Act 2004 (2004 No 68)][891]
     
-    Judicature Amendment Act 2004 (2004 No 45): [section 3(3)][827]
+    Corrections Act 2004 (2004 No 50): [section 206][431]
     
-    District Courts Amendment Act 2004 (2004 No 42): [section 3(3)][826]
+    Judicature Amendment Act 2004 (2004 No 45): [section 3(3)][835]
     
-    Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115): [section 51][479]
+    District Courts Amendment Act 2004 (2004 No 42): [section 3(3)][834]
     
-    [Sentencing Amendment Act 2003 (2003 No 109)][884]
+    Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115): [section 51][481]
     
-    Supreme Court Act 2003 (2003 No 53): [section 48(1)][549]
+    [Sentencing Amendment Act 2003 (2003 No 109)][892]
     
-    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][424]
+    Supreme Court Act 2003 (2003 No 53): [section 48(1)][551]
     
-    State Sector Amendment Act 2003 (2003 No 41): [section 14][480]
+    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][426]
     
-    Land Transport (Unauthorised Street and Drag Racing) Amendment Act 2003 (2003 No 11): [section 11(1)][724]
+    State Sector Amendment Act 2003 (2003 No 41): [section 14][482]
     
-    Victims' Rights Act 2002 (2002 No 39): [section 53][426]
+    Land Transport (Unauthorised Street and Drag Racing) Amendment Act 2003 (2003 No 11): [section 11(1)][732]
     
-    Crown Organisations (Criminal Liability) Act 2002 (2002 No 37): [section 28][420]
+    Victims' Rights Act 2002 (2002 No 39): [section 53][428]
     
-    [Sentencing Act Commencement Order 2002][399] (SR 2002/176)
+    Crown Organisations (Criminal Liability) Act 2002 (2002 No 37): [section 28][422]
+    
+    [Sentencing Act Commencement Order 2002][401] (SR 2002/176)
 
 
 
@@ -8249,726 +8313,734 @@ Commencementsee section 2
 [159]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136411
 [160]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136412
 [161]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136413
-[162]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136414
-[163]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136415
-[164]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136416
-[165]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136417
-[166]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136418
-[167]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136419
-[168]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136420
-[169]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136421
-[170]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136422
-[171]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136423
-[172]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136424
-[173]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136425
-[174]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136426
-[175]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136427
-[176]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136428
-[177]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136429
-[178]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136430
-[179]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136431
-[180]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136432
-[181]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136433
-[182]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136434
-[183]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136435
-[184]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136436
-[185]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136437
-[186]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136438
-[187]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136439
-[188]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136440
-[189]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136441
-[190]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136442
-[191]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM5342916
-[192]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136444
-[193]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136445
-[194]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136447
-[195]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136448
-[196]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136449
-[197]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136450
-[198]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3023001
-[199]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3023002
-[200]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3023015
-[201]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3023016
-[202]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3023017
-[203]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3023018
-[204]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3023019
-[205]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3023020
-[206]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3023022
-[207]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3023023
-[208]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136453
-[209]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136454
-[210]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136457
-[211]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136461
-[212]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136462
-[213]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136463
-[214]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136464
-[215]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136466
-[216]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136467
-[217]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136468
-[218]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136469
-[219]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136479
-[220]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136480
-[221]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136481
-[222]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136482
-[223]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136483
-[224]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136485
-[225]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136486
-[226]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136488
-[227]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136489
-[228]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136494
-[229]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136495
-[230]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136496
-[231]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136497
-[232]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136498
-[233]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136499
-[234]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136802
-[235]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136804
-[236]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051104
-[237]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051105
-[238]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051112
-[239]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051113
-[240]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051114
-[241]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051115
-[242]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051116
-[243]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051117
-[244]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051118
-[245]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051119
-[246]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051120
-[247]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136805
-[248]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136806
-[249]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136807
-[250]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136809
-[251]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136810
-[252]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136812
-[253]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136813
-[254]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136814
-[255]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136816
-[256]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136817
-[257]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136818
-[258]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136819
-[259]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136820
-[260]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136821
-[261]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136822
-[262]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136823
-[263]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136824
-[264]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136825
-[265]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136826
-[266]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136827
-[267]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136829
-[268]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136830
-[269]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051158
-[270]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051159
-[271]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051172
-[272]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051173
-[273]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051174
-[274]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051175
-[275]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051176
-[276]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051177
-[277]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136831
-[278]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136832
-[279]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136833
-[280]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136834
-[281]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136836
-[282]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136837
-[283]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136850
-[284]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136853
-[285]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602502
-[286]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602505
-[287]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602506
-[288]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602507
-[289]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602508
-[290]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM4640203
-[291]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602509
-[292]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136859
-[293]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602555
-[294]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136860
-[295]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136861
-[296]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602735
-[297]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136862
-[298]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136863
-[299]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136864
-[300]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136865
-[301]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602757
-[302]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136866
-[303]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602773
-[304]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602774
-[305]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602775
-[306]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136867
-[307]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602799
-[308]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136868
-[309]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136869
-[310]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM4640204
-[311]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136870
-[312]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2603010
-[313]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2603011
-[314]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM4640205
-[315]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136872
-[316]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601242
-[317]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601243
-[318]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601248
-[319]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601249
-[320]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601250
-[321]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601252
-[322]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601253
-[323]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601254
-[324]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601255
-[325]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601257
-[326]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601258
-[327]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601259
-[328]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601260
-[329]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601261
-[330]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601262
-[331]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601263
-[332]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601264
-[333]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601265
-[334]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136873
-[335]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136874
-[336]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136875
-[337]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM5342920
-[338]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136878
-[339]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136879
-[340]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136880
-[341]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136883
-[342]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136886
-[343]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136888
-[344]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136894
-[345]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM1101200
-[346]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136895
-[347]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136896
-[348]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136897
-[349]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136898
-[350]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136899
-[351]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137200
-[352]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137203
-[353]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137204
-[354]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137205
-[355]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137206
-[356]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137207
-[357]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137208
-[358]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137209
-[359]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137210
-[360]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137211
-[361]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137212
-[362]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137213
-[363]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137214
-[364]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137215
-[365]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137216
-[366]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137218
-[367]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137219
-[368]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137220
-[369]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137222
-[370]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137223
-[371]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137224
-[372]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137226
-[373]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137228
-[374]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137230
-[375]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137232
-[376]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137234
-[377]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137236
-[378]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137238
-[379]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137239
-[380]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137242
-[381]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137244
-[382]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137245
-[383]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137253
-[384]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137254
-[385]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137255
-[386]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137257
-[387]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137258
-[388]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137260
-[389]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137261
-[390]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137262
-[391]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137263
-[392]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137264
-[393]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137265
-[394]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137266
-[395]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137267
-[396]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137268
-[397]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137269
-[398]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137604
-[399]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM131754
-[400]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM295433
-[401]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM156449
-[402]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM404486
-[403]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1451012
-[404]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM204329
-[405]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM262175
-[406]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM152710
-[407]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM152400
-[408]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM138435
-[409]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM294848
-[410]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM294857
-[411]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM295423
-[412]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410028
-[413]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM137641
-[414]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM139333
-[415]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM139334
-[416]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM306035
-[417]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM278828
-[418]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM230264
-[419]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4058815
-[420]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM157104
-[421]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410235
-[422]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM404710
-[423]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1936309
-[424]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM205009
-[425]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM333795
-[426]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM158562
-[427]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3044202
-[428]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2836303
-[429]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM297136
-[430]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3251040
-[431]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2218819
-[432]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM309090
-[433]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM401062
-[434]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77123
-[435]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77126
-[436]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410260
-[437]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM152702
-[438]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM328596
-[439]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM68385
-[440]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM432653
-[441]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3359902
-[442]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1378802
-[443]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77161
-[444]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3251043
-[445]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM220309
-[446]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2491605
-[447]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4058809
-[448]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4454302
-[449]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1763908
-[450]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77157
-[451]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410261
-[452]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1936320
-[453]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=BILL-SCDRAFT-7242
-[454]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410264
-[455]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410265
-[456]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77154
-[457]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558559
-[458]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1826713
-[459]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410266
-[460]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77136
-[461]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77146
-[462]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77141
-[463]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410270
-[464]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77164
-[465]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77555
-[466]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304579
-[467]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77168
-[468]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1936323
-[469]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77171
-[470]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410276
-[471]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410277
-[472]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77173
-[473]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77175
-[474]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM224577
-[475]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM64784
-[476]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM296638
-[477]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77177
-[478]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1936324
-[479]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM224534
-[480]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM201378
-[481]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM71806
-[482]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77148
-[483]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM99493
-[484]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM103478
-[485]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77517
-[486]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304580
-[487]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77522
-[488]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4289562
-[489]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558504
-[490]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM311883
-[491]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM311891
-[492]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM312217
-[493]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM311879
-[494]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558562
-[495]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77525
-[496]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM311863
-[497]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM328088
-[498]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558506
-[499]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77535
-[500]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410281
-[501]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77538
-[502]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558508
-[503]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1826715
-[504]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558509
-[505]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410282
-[506]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410285
-[507]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77860
-[508]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410286
-[509]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410287
-[510]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410288
-[511]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77858
-[512]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410289
-[513]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM404713
-[514]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410290
-[515]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410291
-[516]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410604
-[517]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410605
-[518]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410606
-[519]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410607
-[520]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410609
-[521]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM170872
-[522]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77902
-[523]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410611
-[524]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77833
-[525]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410612
-[526]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM404715
-[527]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM404717
-[528]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410617
-[529]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410618
-[530]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1102349
-[531]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM359106
-[532]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77869
-[533]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410633
-[534]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77817
-[535]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77846
-[536]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410635
-[537]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558511
-[538]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4289162
-[539]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4289171
-[540]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4290126
-[541]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4290128
-[542]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM380105
-[543]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1441050
-[544]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3360287
-[545]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3360356
-[546]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3360601
-[547]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77926
-[548]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410636
-[549]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM214522
-[550]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77893
-[551]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410637
-[552]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3360550
-[553]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3360551
-[554]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410638
-[555]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410639
-[556]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM25627
-[557]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM26740
-[558]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77899
-[559]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410642
-[560]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM101448
-[561]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77908
-[562]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410643
-[563]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410644
-[564]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410645
-[565]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410646
-[566]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3360366
-[567]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM136406
-[568]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77951
-[569]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4058811
-[570]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM5189124
-[571]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM139346
-[572]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78205
-[573]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM137631
-[574]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77953
-[575]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304582
-[576]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM139336
-[577]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304583
-[578]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1845322
-[579]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM327381
-[580]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329070
-[581]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329075
-[582]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329085
-[583]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329203
-[584]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329212
-[585]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329219
-[586]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329227
-[587]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329256
-[588]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329264
-[589]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329320
-[590]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329322
-[591]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329325
-[592]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329326
-[593]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329329
-[594]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329371
-[595]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329374
-[596]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329378
-[597]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329389
-[598]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329392
-[599]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329394
-[600]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329701
-[601]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329704
-[602]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329771
-[603]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329775
-[604]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM330245
-[605]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM330250
-[606]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM330254
-[607]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM330259
-[608]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3865730
-[609]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3865717
-[610]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM136495
-[611]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM139318
-[612]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329034
-[613]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329270
-[614]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329319
-[615]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304584
-[616]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM224509
-[617]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM224513
-[618]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410692
-[619]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2836312
-[620]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM5189125
-[621]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM79110
-[622]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410693
-[623]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM138471
-[624]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM138469
-[625]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM138480
-[626]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304585
-[627]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410694
-[628]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410695
-[629]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM139326
-[630]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM68379
-[631]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77985
-[632]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410696
-[633]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304593
-[634]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM139324
-[635]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2836313
-[636]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1845340
-[637]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1845341
-[638]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304594
-[639]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM220310
-[640]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1845342
-[641]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1826716
-[642]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558512
-[643]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77184
-[644]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558564
-[645]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77186
-[646]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558565
-[647]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77189
-[648]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558566
-[649]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3360349
-[650]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77550
-[651]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3865810
-[652]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM76615
-[653]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77559
-[654]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77562
-[655]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77565
-[656]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77570
-[657]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77573
-[658]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77581
-[659]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77584
-[660]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304598
-[661]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77588
-[662]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2471514
-[663]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM371932
-[664]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372120
-[665]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM371925
-[666]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372117
-[667]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372151
-[668]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372155
-[669]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372157
-[670]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372159
-[671]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372162
-[672]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372163
-[673]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372164
-[674]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372167
-[675]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372172
-[676]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372173
-[677]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372166
-[678]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372160
-[679]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372161
-[680]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372169
-[681]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372174
-[682]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372175
-[683]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372178
-[684]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372193
-[685]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372194
-[686]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372195
-[687]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372196
-[688]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372456
-[689]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372463
-[690]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM433612
-[691]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78218
-[692]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3231293
-[693]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434888
-[694]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434889
-[695]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434893
-[696]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434895
-[697]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434896
-[698]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434897
-[699]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM435051
-[700]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM435075
-[701]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM435078
-[702]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM435080
-[703]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4738730
-[704]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM435084
-[705]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1313622
-[706]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1102132
-[707]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM435407
-[708]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM433619
-[709]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM45928
-[710]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM46187
-[711]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78223
-[712]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558513
-[713]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470204
-[714]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434650
-[715]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434653
-[716]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434659
-[717]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434662
-[718]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434682
-[719]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM435105
-[720]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434692
-[721]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434651
-[722]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3820293
-[723]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470213
-[724]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM187889
-[725]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434641
-[726]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2507342
-[727]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434697
-[728]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434802
-[729]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434807
-[730]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434811
-[731]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM341189
-[732]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2015063
-[733]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304599
-[734]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470214
-[735]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558528
-[736]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558529
-[737]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558530
-[738]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558531
-[739]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558532
-[740]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM45599
-[741]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558534
-[742]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470225
-[743]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558535
-[744]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470226
-[745]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470228
-[746]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470229
-[747]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558536
-[748]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470230
-[749]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558537
-[750]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78238
-[751]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470232
-[752]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558538
-[753]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558567
-[754]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM205305
-[755]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3701427
-[756]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3394800
-[757]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM46724
-[758]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM46763
-[759]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78246
-[760]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470235
-[761]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558569
-[762]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470236
-[763]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558539
-[764]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2470237
-[765]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2470238
-[766]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558571
-[767]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470240
-[768]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558572
-[769]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM312202
-[770]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470241
-[771]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558540
-[772]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM147653
-[773]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM244360
-[774]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558541
-[775]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470243
-[776]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558542
-[777]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558543
-[778]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558573
-[779]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558545
-[780]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558546
-[781]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558547
-[782]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78250
-[783]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470248
-[784]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1936325
-[785]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1451234
-[786]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM251066
-[787]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1451219
-[788]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1451194
-[789]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2601252
-[790]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM251065
-[791]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM251068
-[792]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM251063
-[793]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78860
-[794]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304800
-[795]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM331428
-[796]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4058813
-[797]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM79117
-[798]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558549
-[799]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558552
-[800]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM79123
-[801]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM970267
-[802]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM970309
-[803]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM79125
-[804]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1826735
-[805]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77594
-[806]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77822
-[807]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77852
-[808]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77873
-[809]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM76621
-[810]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77959
-[811]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77191
-[812]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77939
-[813]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM152948
-[814]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM152953
-[815]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM152958
-[816]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM328070
-[817]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77124
-[818]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78579
-[819]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78588
-[820]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78591
-[821]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78807
-[822]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78823
-[823]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78874
-[824]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78891
-[825]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM79102
-[826]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM293788
-[827]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM294327
-[828]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM24045
-[829]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM312222
-[830]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM312606
-[831]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM380084
-[832]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM253150
-[833]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM147087
-[834]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM345633
-[835]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM385031
-[836]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM242535
-[837]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM133281
-[838]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM242775
-[839]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM307518
-[840]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM394191
-[841]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM305839
-[842]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM382333
-[843]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM63090
-[844]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM365015
-[845]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM397837
-[846]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM436100
-[847]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM273056
-[848]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM277432
-[849]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM321405
-[850]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM310742
-[851]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM407207
-[852]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM276813
-[853]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM344631
-[854]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM301654
-[855]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM331038
-[856]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM371241
-[857]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM428100
-[858]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM31201
-[859]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM302276
-[860]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410228
-[861]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM972193
-[862]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1936302
-[863]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2095700
-[864]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1845300
-[865]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2998516
-[866]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2998515
-[867]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2998532
-[868]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[869]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM5189117
-[870]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3251032
-[871]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4058805
-[872]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558554
-[873]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3044204
-[874]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1845320
-[875]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2491600
-[876]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2471509
-[877]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1826700
-[878]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1763900
-[879]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1180107
-[880]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1523176
-[881]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM404703
-[882]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372234
-[883]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304573
-[884]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM220303
+[162]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM5693600
+[163]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136414
+[164]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136415
+[165]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136416
+[166]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136417
+[167]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136418
+[168]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136419
+[169]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136420
+[170]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136421
+[171]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136422
+[172]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136423
+[173]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136424
+[174]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136425
+[175]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136426
+[176]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136427
+[177]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136428
+[178]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136429
+[179]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136430
+[180]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136431
+[181]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136432
+[182]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136433
+[183]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM5693606
+[184]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136434
+[185]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136435
+[186]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136436
+[187]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136437
+[188]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136438
+[189]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136439
+[190]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136440
+[191]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136441
+[192]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136442
+[193]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM5342916
+[194]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136444
+[195]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136445
+[196]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136447
+[197]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136448
+[198]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136449
+[199]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136450
+[200]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3023001
+[201]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3023002
+[202]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3023015
+[203]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3023016
+[204]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3023017
+[205]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3023018
+[206]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3023019
+[207]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3023020
+[208]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3023022
+[209]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3023023
+[210]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136453
+[211]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136454
+[212]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136457
+[213]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136461
+[214]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136462
+[215]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136463
+[216]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136464
+[217]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136466
+[218]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136467
+[219]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136468
+[220]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136469
+[221]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136479
+[222]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136480
+[223]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136481
+[224]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136482
+[225]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136483
+[226]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136485
+[227]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136486
+[228]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136488
+[229]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136489
+[230]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136494
+[231]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136495
+[232]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136496
+[233]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136497
+[234]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136498
+[235]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136499
+[236]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136802
+[237]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136804
+[238]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051104
+[239]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051105
+[240]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051112
+[241]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051113
+[242]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051114
+[243]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051115
+[244]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051116
+[245]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051117
+[246]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051118
+[247]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051119
+[248]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051120
+[249]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136805
+[250]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136806
+[251]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136807
+[252]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136809
+[253]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136810
+[254]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136812
+[255]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136813
+[256]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136814
+[257]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136816
+[258]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136817
+[259]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136818
+[260]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136819
+[261]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136820
+[262]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136821
+[263]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136822
+[264]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136823
+[265]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136824
+[266]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136825
+[267]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136826
+[268]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136827
+[269]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136829
+[270]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136830
+[271]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051158
+[272]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051159
+[273]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051172
+[274]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051173
+[275]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051174
+[276]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051175
+[277]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051176
+[278]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM3051177
+[279]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136831
+[280]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136832
+[281]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136833
+[282]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136834
+[283]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136836
+[284]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136837
+[285]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136850
+[286]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136853
+[287]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602502
+[288]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602505
+[289]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602506
+[290]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602507
+[291]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602508
+[292]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM4640203
+[293]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602509
+[294]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136859
+[295]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602555
+[296]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136860
+[297]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136861
+[298]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602735
+[299]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136862
+[300]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136863
+[301]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136864
+[302]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136865
+[303]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602757
+[304]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136866
+[305]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602773
+[306]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602774
+[307]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602775
+[308]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136867
+[309]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2602799
+[310]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136868
+[311]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136869
+[312]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM4640204
+[313]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136870
+[314]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2603010
+[315]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2603011
+[316]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM4640205
+[317]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136872
+[318]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601242
+[319]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601243
+[320]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601248
+[321]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601249
+[322]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601250
+[323]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601252
+[324]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601253
+[325]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601254
+[326]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601255
+[327]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601257
+[328]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601258
+[329]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601259
+[330]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601260
+[331]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601261
+[332]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601262
+[333]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601263
+[334]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601264
+[335]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2601265
+[336]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136873
+[337]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136874
+[338]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136875
+[339]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM5342920
+[340]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136878
+[341]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136879
+[342]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136880
+[343]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136883
+[344]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136886
+[345]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136888
+[346]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136894
+[347]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM1101200
+[348]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136895
+[349]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136896
+[350]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136897
+[351]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136898
+[352]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM136899
+[353]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137200
+[354]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137203
+[355]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137204
+[356]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137205
+[357]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137206
+[358]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137207
+[359]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137208
+[360]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137209
+[361]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137210
+[362]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137211
+[363]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137212
+[364]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137213
+[365]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137214
+[366]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137215
+[367]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137216
+[368]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137218
+[369]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137219
+[370]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137220
+[371]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137222
+[372]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137223
+[373]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137224
+[374]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137226
+[375]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137228
+[376]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137230
+[377]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137232
+[378]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137234
+[379]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137236
+[380]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137238
+[381]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137239
+[382]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137242
+[383]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137244
+[384]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137245
+[385]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137253
+[386]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137254
+[387]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137255
+[388]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137257
+[389]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137258
+[390]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137260
+[391]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137261
+[392]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137262
+[393]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137263
+[394]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137264
+[395]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137265
+[396]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137266
+[397]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137267
+[398]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137268
+[399]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137269
+[400]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM137604
+[401]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM131754
+[402]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM295433
+[403]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM156449
+[404]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM404486
+[405]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1451012
+[406]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM204329
+[407]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM262175
+[408]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM152710
+[409]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM152400
+[410]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM138435
+[411]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM294848
+[412]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM294857
+[413]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM295423
+[414]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410028
+[415]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM137641
+[416]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM139333
+[417]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM139334
+[418]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM306035
+[419]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM278828
+[420]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM230264
+[421]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4058815
+[422]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM157104
+[423]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410235
+[424]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM404710
+[425]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1936309
+[426]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM205009
+[427]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM333795
+[428]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM158562
+[429]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3044202
+[430]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2836303
+[431]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM297136
+[432]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3251040
+[433]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2218819
+[434]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM309090
+[435]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM401062
+[436]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77123
+[437]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77126
+[438]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410260
+[439]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM152702
+[440]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM328596
+[441]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM68385
+[442]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM432653
+[443]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3359902
+[444]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1378802
+[445]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77161
+[446]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3251043
+[447]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM220309
+[448]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2491605
+[449]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4058809
+[450]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4454302
+[451]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1763908
+[452]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77157
+[453]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410261
+[454]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1936320
+[455]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=BILL-SCDRAFT-7242
+[456]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410264
+[457]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410265
+[458]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77154
+[459]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558559
+[460]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1826713
+[461]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410266
+[462]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77136
+[463]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77146
+[464]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77141
+[465]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410270
+[466]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77164
+[467]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77555
+[468]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304579
+[469]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77168
+[470]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1936323
+[471]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77171
+[472]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410276
+[473]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410277
+[474]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77173
+[475]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77175
+[476]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM224577
+[477]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM64784
+[478]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM296638
+[479]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77177
+[480]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1936324
+[481]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM224534
+[482]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM201378
+[483]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM71806
+[484]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77148
+[485]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM99493
+[486]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM103478
+[487]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77517
+[488]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304580
+[489]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77522
+[490]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4289562
+[491]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558504
+[492]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM311883
+[493]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM311891
+[494]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM312217
+[495]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM311879
+[496]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558562
+[497]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77525
+[498]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM311863
+[499]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM328088
+[500]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558506
+[501]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77535
+[502]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410281
+[503]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77538
+[504]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558508
+[505]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1826715
+[506]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558509
+[507]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410282
+[508]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410285
+[509]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77860
+[510]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410286
+[511]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410287
+[512]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410288
+[513]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77858
+[514]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410289
+[515]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM404713
+[516]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410290
+[517]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410291
+[518]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410604
+[519]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410605
+[520]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410606
+[521]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410607
+[522]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410609
+[523]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM170872
+[524]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77902
+[525]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410611
+[526]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77833
+[527]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410612
+[528]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM404715
+[529]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM404717
+[530]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410617
+[531]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410618
+[532]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1102349
+[533]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM359106
+[534]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77869
+[535]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410633
+[536]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77817
+[537]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77846
+[538]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410635
+[539]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558511
+[540]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4289162
+[541]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4289171
+[542]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4290126
+[543]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4290128
+[544]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM380105
+[545]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1441050
+[546]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3360287
+[547]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3360356
+[548]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3360601
+[549]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77926
+[550]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410636
+[551]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM214522
+[552]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77893
+[553]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410637
+[554]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3360550
+[555]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3360551
+[556]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410638
+[557]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410639
+[558]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM25627
+[559]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM26740
+[560]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77899
+[561]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410642
+[562]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM101448
+[563]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77908
+[564]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410643
+[565]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410644
+[566]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410645
+[567]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410646
+[568]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3360366
+[569]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM68994
+[570]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM68995
+[571]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM68996
+[572]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM295428
+[573]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4825722
+[574]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM136406
+[575]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4088253
+[576]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77951
+[577]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4058811
+[578]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM5189124
+[579]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM139346
+[580]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78205
+[581]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM137631
+[582]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77953
+[583]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304582
+[584]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM139336
+[585]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304583
+[586]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1845322
+[587]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM327381
+[588]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329070
+[589]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329075
+[590]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329085
+[591]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329203
+[592]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329212
+[593]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329219
+[594]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329227
+[595]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329256
+[596]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329264
+[597]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329320
+[598]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329322
+[599]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329325
+[600]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329326
+[601]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329329
+[602]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329371
+[603]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329374
+[604]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329378
+[605]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329389
+[606]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329392
+[607]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329394
+[608]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329701
+[609]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329704
+[610]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329771
+[611]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329775
+[612]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM330245
+[613]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM330250
+[614]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM330254
+[615]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM330259
+[616]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3865730
+[617]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3865717
+[618]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM136495
+[619]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM139318
+[620]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329034
+[621]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329270
+[622]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM329319
+[623]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304584
+[624]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM224509
+[625]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM224513
+[626]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410692
+[627]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2836312
+[628]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM5189125
+[629]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM79110
+[630]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410693
+[631]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM138471
+[632]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM138469
+[633]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM138480
+[634]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304585
+[635]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410694
+[636]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410695
+[637]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM139326
+[638]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM68379
+[639]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77985
+[640]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410696
+[641]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304593
+[642]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM139324
+[643]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2836313
+[644]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1845340
+[645]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1845341
+[646]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304594
+[647]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM220310
+[648]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1845342
+[649]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1826716
+[650]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558512
+[651]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77184
+[652]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558564
+[653]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77186
+[654]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558565
+[655]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77189
+[656]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558566
+[657]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3360349
+[658]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77550
+[659]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3865810
+[660]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM76615
+[661]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77559
+[662]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77562
+[663]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77565
+[664]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77570
+[665]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77573
+[666]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77581
+[667]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77584
+[668]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304598
+[669]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77588
+[670]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2471514
+[671]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM371932
+[672]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372120
+[673]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM371925
+[674]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372117
+[675]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372151
+[676]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372155
+[677]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372157
+[678]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372159
+[679]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372162
+[680]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372163
+[681]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372164
+[682]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372167
+[683]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372172
+[684]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372173
+[685]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372166
+[686]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372160
+[687]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372161
+[688]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372169
+[689]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372174
+[690]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372175
+[691]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372178
+[692]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372193
+[693]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372194
+[694]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372195
+[695]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372196
+[696]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372456
+[697]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372463
+[698]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM433612
+[699]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78218
+[700]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3231293
+[701]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434888
+[702]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434889
+[703]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434893
+[704]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434895
+[705]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434896
+[706]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434897
+[707]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM435051
+[708]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM435075
+[709]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM435078
+[710]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM435080
+[711]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4738730
+[712]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM435084
+[713]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1313622
+[714]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1102132
+[715]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM435407
+[716]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM433619
+[717]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM45928
+[718]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM46187
+[719]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78223
+[720]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558513
+[721]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470204
+[722]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434650
+[723]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434653
+[724]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434659
+[725]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434662
+[726]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434682
+[727]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM435105
+[728]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434692
+[729]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434651
+[730]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3820293
+[731]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470213
+[732]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM187889
+[733]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434641
+[734]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2507342
+[735]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434697
+[736]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434802
+[737]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434807
+[738]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM434811
+[739]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM341189
+[740]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2015063
+[741]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304599
+[742]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470214
+[743]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558528
+[744]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558529
+[745]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558530
+[746]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558531
+[747]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558532
+[748]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM45599
+[749]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558534
+[750]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470225
+[751]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558535
+[752]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470226
+[753]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470228
+[754]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470229
+[755]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558536
+[756]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470230
+[757]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558537
+[758]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78238
+[759]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470232
+[760]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558538
+[761]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558567
+[762]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM205305
+[763]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3701427
+[764]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3394800
+[765]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM46724
+[766]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM46763
+[767]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78246
+[768]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470235
+[769]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558569
+[770]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470236
+[771]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558539
+[772]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2470237
+[773]: http://www.legislation.govt.nz/act/public/2002/0009/latest/whole.html#DLM2470238
+[774]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558571
+[775]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470240
+[776]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558572
+[777]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM312202
+[778]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470241
+[779]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558540
+[780]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM147653
+[781]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM244360
+[782]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558541
+[783]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470243
+[784]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558542
+[785]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558543
+[786]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558573
+[787]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558545
+[788]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558546
+[789]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558547
+[790]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78250
+[791]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470248
+[792]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1936325
+[793]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1451234
+[794]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM251066
+[795]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1451219
+[796]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1451194
+[797]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2601252
+[798]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM251065
+[799]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM251068
+[800]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM251063
+[801]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78860
+[802]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304800
+[803]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM331428
+[804]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4058813
+[805]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM79117
+[806]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558549
+[807]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558552
+[808]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM79123
+[809]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM970267
+[810]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM970309
+[811]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM79125
+[812]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1826735
+[813]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77594
+[814]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77822
+[815]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77852
+[816]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77873
+[817]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM76621
+[818]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77959
+[819]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77191
+[820]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77939
+[821]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM152948
+[822]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM152953
+[823]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM152958
+[824]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM328070
+[825]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM77124
+[826]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78579
+[827]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78588
+[828]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78591
+[829]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78807
+[830]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78823
+[831]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78874
+[832]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78891
+[833]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM79102
+[834]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM293788
+[835]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM294327
+[836]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM24045
+[837]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM312222
+[838]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM312606
+[839]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM380084
+[840]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM253150
+[841]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM147087
+[842]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM345633
+[843]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM385031
+[844]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM242535
+[845]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM133281
+[846]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM242775
+[847]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM307518
+[848]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM394191
+[849]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM305839
+[850]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM382333
+[851]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM63090
+[852]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM365015
+[853]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM397837
+[854]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM436100
+[855]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM273056
+[856]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM277432
+[857]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM321405
+[858]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM310742
+[859]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM407207
+[860]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM276813
+[861]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM344631
+[862]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM301654
+[863]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM331038
+[864]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM371241
+[865]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM428100
+[866]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM31201
+[867]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM302276
+[868]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM410228
+[869]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM972193
+[870]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1936302
+[871]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2095700
+[872]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1845300
+[873]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2998516
+[874]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2998515
+[875]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2998532
+[876]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[877]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM5189117
+[878]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3251032
+[879]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM4058805
+[880]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558554
+[881]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3044204
+[882]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1845320
+[883]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2491600
+[884]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2471509
+[885]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1826700
+[886]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1763900
+[887]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1180107
+[888]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1523176
+[889]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM404703
+[890]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372234
+[891]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304573
+[892]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM220303
