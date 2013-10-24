@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 23 October 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Department of Internal Affairs.
 
@@ -3282,29 +3282,31 @@ This Act is administered by the Department of Internal Affairs.
 [Part 39A][1455]  
 [Navigation][1455]
 
-[650A][1456][][1456][Councils may carry out harbour works][1456]
+[650A][1456][][1456][Councils may carry out harbour works][1456] \[Repealed\]
 
-[650B][1457][][1457][Appointment of harbourmasters, enforcement officers, and honorary officers][1457]
+[650B][1457][][1457][Appointment of harbourmasters, enforcement officers, and honorary officers][1457] \[Repealed\]
 
-[650C][1458][][1458][General powers of harbourmasters and enforcement officers][1458]
+[650C][1458][][1458][General powers of harbourmasters and enforcement officers][1458] \[Repealed\]
 
-[650D][1459][][1459][Harbourmaster may remove ships][1459]
+[650D][1459][][1459][Harbourmaster may remove ships][1459] \[Repealed\]
 
-[650E][1460][][1460][Harbourmasters and others may regulate some navigation activities][1460]
+[650E][1460][][1460][Harbourmasters and others may regulate some navigation activities][1460] \[Repealed\]
 
-[650F][1461][][1461][Application of section 710 and other requirements][1461]
+[650F][1461][][1461][Application of section 710 and other requirements][1461] \[Repealed\]
 
-[650G][1462][][1462][Offence][1462]
+[650G][1462][][1462][Offence][1462] \[Repealed\]
 
-[650H][1463][][1463][Freedom of passage for officers of Customs, etc][1463]
+[650H][1463][][1463][Freedom of passage for officers of Customs, etc][1463] \[Repealed\]
 
-[650I][1464][][1464][Crown harbours and facilities][1464]
+[650I][1464][][1464][Crown harbours and facilities][1464] \[Repealed\]
 
-[650J][1465][][1465][Delegation or transfer of council's functions, duties, or powers under this Part][1465]
+[650J][1465][][1465][Delegation or transfer of council's functions, duties, or powers under this Part][1465] \[Repealed\]
 
 [Wreck][1466]
 
-[650K][1467][][1467][Removal of wreck][1467]
+\[Repealed\]
+
+[650K][1467][][1467][Removal of wreck][1467] \[Repealed\]
 
 [Part 40][1468]  
 [Miscellaneous powers][1468]
@@ -3400,6 +3402,8 @@ This Act is administered by the Department of Internal Affairs.
 [Part 43][1505]  
 [Bylaws][1505]
 
+\[Repealed\]
+
 [679][1506][][1506][This Part to be subject to Bylaws Act 1910][1506] \[Repealed\]
 
 [680][1507][][1507][Application of Part 43][1507] \[Repealed\]
@@ -3410,7 +3414,7 @@ This Act is administered by the Department of Internal Affairs.
 
 [683][1510][][1510][Penalty for breach of bylaws][1510] \[Repealed\]
 
-[684AA][1511][][1511][Certain provisions of Local Government Act 2002 to apply to bylaws made under this Act][1511]
+[684AA][1511][][1511][Certain provisions of Local Government Act 2002 to apply to bylaws made under this Act][1511] \[Repealed\]
 
 [684][1512][][1512][Subject matter of bylaws][1512] \[Repealed\]
 
@@ -3418,15 +3422,17 @@ This Act is administered by the Department of Internal Affairs.
 
 [Navigation bylaws][1514]
 
-[684B][1515][][1515][Bylaws relating to navigation and related activities][1515]
+\[Repealed\]
 
-[684C][1516][][1516][Navigation bylaws not to affect port operations][1516]
+[684B][1515][][1515][Bylaws relating to navigation and related activities][1515] \[Repealed\]
 
-[684D][1517][][1517][No marine pollution charges][1517]
+[684C][1516][][1516][Navigation bylaws not to affect port operations][1516] \[Repealed\]
 
-[684E][1518][][1518][General provisions relating to navigation bylaws][1518]
+[684D][1517][][1517][No marine pollution charges][1517] \[Repealed\]
 
-[684F][1519][][1519][Council must consult Director][1519]
+[684E][1518][][1518][General provisions relating to navigation bylaws][1518] \[Repealed\]
+
+[684F][1519][][1519][Council must consult Director][1519] \[Repealed\]
 
 [685][1520][][1520][Licences to hawkers and pedlars][1520] \[Repealed\]
 
@@ -3580,13 +3586,13 @@ This Act is administered by the Department of Internal Affairs.
 
 [699][1585][][1585][Time for filing charging document][1585]
 
-[699A][1586][][1586][Infringement offences relating to navigation bylaws][1586]
+[699A][1586][][1586][Infringement offences relating to navigation bylaws][1586] \[Repealed\]
 
-[699B][1587][][1587][Commission of infringement offence][1587]
+[699B][1587][][1587][Commission of infringement offence][1587] \[Repealed\]
 
 [699C][1588][][1588][Infringement notices][1588]
 
-[699D][1589][][1589][Entitlement to infringement fees][1589]
+[699D][1589][][1589][Entitlement to infringement fees][1589] \[Repealed\]
 
 [Legal proceedings][1590]
 
@@ -15720,253 +15726,79 @@ Prevention of fires
 ## Part 39A  
 Navigation
     
-*   Part 39A: inserted, on 29 April 1999, by [section 6(1) ][2050]of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
+*   Part 39A: repealed, on 23 October 2013, by [section 85(2)(a)][2050] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 650A Councils may carry out harbour works
     
-*   (1) For the purposes of this Part,---
-        
-    *   (a) a regional council may---
-            
-        *   (i) erect and maintain navigation aids:
-        
-        *   (ii) remove obstructions and impediments to navigation, and execute and maintain works which in the opinion of the council tend to improve navigation:
-        
-        
+*   \[Repealed\]
     
-    *   (b) a territorial authority may---
-            
-        *   (i) erect and maintain quays, docks, piers, wharves, jetties, launching ramps, and any other works for the improvement, protection, management, or utilisation of waters within its district:
-        
-        *   (ii) erect and maintain protective works (other than works undertaken under the [Soil Conservation and Rivers Control Act 1941][2012]) to prevent the encroachment of waters within its district:
-        
-        *   (iii) carry out such other navigation or harbour-related functions and responsibilities as it may have under a local government reorganisation scheme under this Act.
-        
-        
-    
-    (2) All wharves, jetties, and other works constructed by a council under the authority of this section belong to the council.
-    
-    (3) A council or other local authority may not construct wharves or other works, or levy any tolls, on land owned by some other person, without that person's consent.
-    
-    (4) The powers conferred by this section are subject to the [Resource Management Act 1991][1820].
-    
-    Section 650A: inserted, on 29 April 1999, by [section 6(1)][2050] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
+    Section 650A: repealed, on 23 October 2013, by [section 85(2)(a)][2050] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 650B Appointment of harbourmasters, enforcement officers, and honorary officers
     
-*   (1) A regional council may appoint such harbourmasters and enforcement officers (including honorary enforcement officers) as it thinks necessary for the purposes of this Part.
+*   \[Repealed\]
     
-    (2) An honorary enforcement officer of a council has only such powers of enforcement officers under this Part as the council specifies in the instrument appointing the person to be an honorary enforcement officer.
-    
-    (3) Harbourmasters appointed under subsection (1) must have such qualifications as may be required by maritime rules.
-    
-    Section 650B: inserted, on 29 April 1999, by [section 6(1)][2050] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
+    Section 650B: repealed, on 23 October 2013, by [section 85(2)(a)][2050] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 650C General powers of harbourmasters and enforcement officers
     
-*   (1) A harbourmaster or enforcement officer of a regional council may at any time, for the purposes of carrying out his or her duty, enter and remain on any ship in waters within the council's region.
+*   \[Repealed\]
     
-    (2) A harbourmaster or an enforcement officer (together with such assistants and equipment as are considered necessary) may enter and remain on any maritime facility, or on any land or property of a port company or other operator of a port facility, within the region of the council that appointed the harbourmaster for the purposes of carrying out his or her functions.
-    
-    (3) For the purpose of ensuring navigation safety, a harbourmaster or enforcement officer may give directions regulating---
-        
-    *   (a) the time and manner in which any ship may enter into, depart from, lie, or navigate in those waters:
-    
-    *   (b) the position, mooring, unmooring, placing, removing, securing, or unsecuring of any ship within those waters:
-    
-    *   (c) the manner in which any ship within those waters, or at any maritime facility, may take in or discharge its cargo or any part of its cargo, and the manner in which cargo is secured or is being handled on a ship where there is a risk of cargo falling overboard and becoming a hazard to navigation.
-    
-    Section 650C: inserted, on 29 April 1999, by [section 6(1)][2050] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
+    Section 650C: repealed, on 23 October 2013, by [section 85(2)(a)][2050] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 650D Harbourmaster may remove ships
     
-*   (1) For the purposes of ensuring navigation safety or enforcing navigation bylaws, a harbourmaster of a regional council may---
-        
-    *   (a) direct the master of any ship in waters within the region of the council, or lying at any maritime facility, to moor, unmoor, anchor, weigh anchor, secure, unsecure, place, or move his or her ship; and
+*   \[Repealed\]
     
-    *   (b) cause the ship to be moored or unmoored or to be anchored or to weigh anchor or to be secured or unsecured or to be placed or removed according to the harbourmaster's directions, and employ a sufficient number of persons for the purpose.
-    
-    (2) A harbourmaster of a regional council may, in relation to any floating, submerged, or stranded object (other than one to which [section 650K][1467] applies) that the harbourmaster considers is a hazard to navigation, do or cause to be done anything referred to in subsection (1)(b) (as if the object were a ship).
-    
-    (3) The expenses incurred by a harbourmaster under subsection (1) or subsection (2) are payable by the master and the owner of the ship, or by the owner of the object (as the case may be), and are recoverable as a debt due to the council.
-    
-    Section 650D: inserted, on 29 April 1999, by [section 6(1)][2050] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
+    Section 650D: repealed, on 23 October 2013, by [section 85(2)(a)][2050] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 650E Harbourmasters and others may regulate some navigation activities
     
-*   (1) A harbourmaster of a regional council may, in the interests of navigation safety, do all or any of the following things in relation to any waters within the council's region:
-        
-    *   (a) require the person appearing to be in charge of any ship or seaplane to stop, and to give his or her name and address, on being requested to do so by the harbourmaster:
+*   \[Repealed\]
     
-    *   (b) require any person found committing an offence against the council's navigation bylaws to give his or her name and address:
-    
-    *   (c) on informing the owner of a ship or seaplane of an alleged offence against the council's navigation bylaws, and on requesting the owner to do so, require the owner to give all information in the owner's possession or obtainable by the owner which may lead to the identification of the person by whom the offence is alleged to have been committed:
-    
-    *   (d) regulate and control the traffic and navigation, and provide specially for the direct and personal control of that traffic, on any day or occasion of unusual or extraordinary traffic.
-    
-    (2) A person authorised by the council, or any constable acting on the request of the harbourmaster or such an authorised person, who---
-        
-    *   (a) has received a complaint that there has been a breach of any of the council's navigation bylaws; and
-    
-    *   (b) on investigation of the complaint, is of the opinion that there has been a breach of the council's navigation bylaws,---
-    
-    may exercise any power under subsection (1)(a) to (c).
-    
-    (3) If a harbourmaster or enforcement officer of a regional council believes on reasonable grounds that a person has committed a breach of maritime rules involving navigation safety, the harbourmaster or enforcement officer may exercise any power under subsection (1)(a) to (c), and those provisions apply with any necessary modifications.
-    
-    (4) No honorary enforcement officer may exercise any power under subsection (1)(c) or (d).
-    
-    Section 650E: inserted, on 29 April 1999, by [section 6(1)][2050] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
-    
-    Section 650E(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][1990] of the Policing Act 2008 (2008 No 72).
+    Section 650E: repealed, on 23 October 2013, by [section 85(2)(a)][2050] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 650F Application of section 710 and other requirements
     
-*   (1) [Section 710][1762] applies in respect of every harbourmaster, enforcement officer, and honorary enforcement officer.
+*   \[Repealed\]
     
-    (2) In addition to complying with [section 710][1762], before entering a place in the exercise of any power under any of [sections 650C to 650E][1458], a harbourmaster, enforcement officer, or honorary enforcement officer must produce the person's written warrant under section 710 to any person appearing to be in charge of the place entered---
-        
-    *   (a) on entering the place (if such a person is then present); and
-    
-    *   (b) at any reasonable time thereafter, if asked to do so by the person.
-    
-    (3) If there is no person appearing to be in charge of the place at any time between the time of entry and the time the harbourmaster, enforcement officer, or honorary enforcement officer leaves the place, the harbourmaster or officer must, as soon as is practicable upon leaving the place, give an occupier or person in charge of the place written notice stating that the place has been entered, and specifying the following matters:
-        
-    *   (a) the time and date of entry:
-    
-    *   (b) the circumstances and purpose of entry:
-    
-    *   (c) the name, office or position, and employer of every person entering:
-    
-    *   (d) every thing that has been seized, or that nothing has been seized, and every action taken, or that no action has been taken.
-    
-    (4) This section applies to a constable who exercises any power under [section 650E][1460] as if his or her warrant card or other evidence of appointment were a warrant under [section 710][1762].
-    
-    Section 650F: inserted, on 29 April 1999, by [section 6(1)][2050] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
-    
-    Section 650F(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][1990] of the Policing Act 2008 (2008 No 72).
+    Section 650F: repealed, on 23 October 2013, by [section 85(2)(a)][2050] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 650G Offence
     
-*   A person commits an offence against this Act who fails without reasonable cause to comply with a direction or requirement given or made under [section 650C][1458] or [section 650D][1459] or [section 650E][1460].
+*   \[Repealed\]
     
-    Section 650G: inserted, on 29 April 1999, by [section 6(1)][2050] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
+    Section 650G: repealed, on 23 October 2013, by [section 85(2)(a)][2050] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 650H Freedom of passage for officers of Customs, etc
     
-*   Officers of Customs, officers of the Ministry of Agriculture and Forestry, officers of the Ministry of Fisheries, officers of Maritime New Zealand, and persons acting under the authority of the Authority or the Director of Maritime New Zealand, acting in the execution of their duty, have at all times free ingress, passage, and egress, into, through, and out of waters within the region of a regional council, by land or water, and with ships or otherwise, and over any wharf.
+*   \[Repealed\]
     
-    Section 650H: inserted, on 29 April 1999, by [section 6(1)][2050] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
-    
-    Section 650H: amended, on 1 July 2005, by [section 11(3)][1843] of the Maritime Transport Amendment Act 2004 (2004 No 98).
+    Section 650H: repealed, on 23 October 2013, by [section 85(2)(a)][2050] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 650I Crown harbours and facilities
     
-*   (1) This section applies to waters, maritime facilities, and maritime works that---
-        
-    *   (a) are owned or operated by the Crown; and
+*   \[Repealed\]
     
-    *   (b) are not subject to the jurisdiction of a local authority.
-    
-    (2) Where this section applies, the Crown may---
-        
-    *   (a) regulate and lease, and charge for, the use of maritime facilities and maritime works:
-    
-    *   (b) exercise navigation safety control over any area:
-    
-    *   (c) do any other thing that a regional council or other local authority may do in relation to waters, maritime facilities, or maritime works under this Part or under any of the provisions of [sections 684B to 684F][1515] and [sections 699A to 699D][1586].
-    
-    (3) The responsible Minister may appoint such harbourmasters and enforcement officers for the purposes of this section as he or she thinks fit; and such harbourmasters and enforcement officers have the powers of a harbourmaster or enforcement officer (as the case may be) under this Part.
-    
-    (4) For the purposes of this section, the responsible Minister is,---
-        
-    *   (a) in the case of facilities or works under the control or management of the Department of Conservation, the Minister of Conservation:
-    
-    *   (b) in the case of waters, facilities, or works under the control or management of the New Zealand Defence Force, the Minister of Defence:
-    
-    *   (c) in the case of the harbour to which the Milford Sound Harbour Regulations 1983 (SR 1983/103) apply, and any Crown-owned or operated facilities or works associated with that harbour, the Minister of Transport:
-    
-    *   (d) in any other case, the Minister of Local Government.
-    
-    (5) The Governor-General may, by Order in Council, make regulations relating the use of maritime facilities and maritime works to which this section applies.
-    
-    (6) Regulations made under subsection (5) may provide for the leasing, or the making of charges for the use of, maritime facilities and maritime works to which this section applies:
-    
-    (7) For the purposes of subsection (5), [section 723][1780] is to continue to have effect as if it had not been repealed by the [Local Government Act 2002][2051].
-    
-    Section 650I: inserted, on 29 April 1999, by [section 6(1)][2050] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
-    
-    Section 650I(2)(c): amended, on 1 July 2003, by [section 262][2052] of the Local Government Act 2002 (2002 No 84).
-    
-    Section 650I(5): inserted, on 1 July 2003, by [section 262][2052] of the Local Government Act 2002 (2002 No 84).
-    
-    Section 650I(6): inserted, on 1 July 2003, by [section 262][2052] of the Local Government Act 2002 (2002 No 84).
-    
-    Section 650I(7): inserted, on 1 July 2003, by [section 262][2052] of the Local Government Act 2002 (2002 No 84).
+    Section 650I: repealed, on 23 October 2013, by [section 85(2)(a)][2050] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 650J Delegation or transfer of council's functions, duties, or powers under this Part
     
-*   (1) A council may, in accordance with this section,---
-        
-    *   (a) transfer to another public authority any of its functions, duties, or powers (other than this power of transfer) under this Part:
+*   \[Repealed\]
     
-    *   (b) delegate to a port operator any functions, duties, or powers (other than a power to make bylaws) under this Part that relate to navigation safety.
-    
-    (2) A transferee under subsection (1)(a) may delegate to a port operator any of the functions, duties, and powers transferred under that provision to the transferee that relate to navigation safety.
-    
-    (3) If any functions, duties, or powers delegated under subsection (1)(b) are exercisable or required to be performed by a harbourmaster, those functions, duties, and powers may be exercised or performed by employees of the port operator, subject to any conditions set out in the instrument of delegation.
-    
-    (4) [Section 37SC][81], with any necessary modifications, applies to transfers under subsection (1)(a), but nothing in this section limits any provision of that section that provides for any matter not provided for in this section.
-    
-    (5) [Section 715][1767], with any necessary modifications, applies to delegations under subsection (1)(b) or subsection (2), but nothing in this section limits any provision of section 715 that provides for any matter not provided for in this section.
-    
-    (6) In this section,---
-    
-    _port operator_ includes a port company under the [Port Companies Act 1988][2053] and any other operator of facilities for the loading or unloading of cargo or passengers carried by sea
-    
-    _public authority_ includes any local authority, iwi authority, government department, or statutory authority.
-    
-    Section 650J: inserted, on 29 April 1999, by [section 6(1)][2050] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
+    Section 650J: repealed, on 23 October 2013, by [section 85(2)(a)][2050] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 #### Wreck
+
+\[Repealed\]
     
-*   Heading: inserted, on 29 April 1999, by [section 6(1)][2050] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
+*   Heading: repealed, on 23 October 2013, by [section 85(2)(a)][2050] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 650K Removal of wreck
     
-*   (1) In this section, _wreck_ includes---
-        
-    *   (a) any ship or aircraft which is abandoned, stranded, or in distress, or any equipment or cargo or other articles belonging to or separated from any such ship or aircraft; and
+*   \[Repealed\]
     
-    *   (b) any derelict ship; and
-    
-    *   (c) shipping containers and property lost overboard or similarly separated from a ship, other than cargo lost in the course of its unloading or discharge from the ship while the ship is in a port.
-    
-    (2) If a wreck on or in any land or waters within the region of a regional council is a hazard to navigation, the council may take steps to remove and deal with the wreck in accordance with the following provisions:
-        
-    *   (a) the council must, by a written request addressed to the owner of the wreck, or to an agent of the owner, ask the owner to either---
-            
-        *   (i) remove the wreck within the time specified in the request and in a manner satisfactory to the council; or
-        
-        *   (ii) undertake, under a security satisfactory to the council, to remove the whole of the wreck within a time fixed by and in a manner satisfactory to the council:
-        
-        
-    
-    *   (b) if the owner or agent cannot be found, or fails within the time specified in the written request to remove the whole of the wreck in a way satisfactory to the council, or to enter into such an undertaking to remove the wreck, or having undertaken to remove the wreck, fails to remove it in accordance with that undertaking, the council may, if the council has made reasonable inquiries to find the owner or agent, remove the wreck, and may recover from the owner, in any court of competent jurisdiction, the expenses incurred in removing it (the **expenses of removal**):
-    
-    *   (c) the council may, for the purpose of removal, destroy the wreck or any part of it, and may remove and take possession of the wreck or any part of it, and may sell the wreck or any part of it; and may, out of the proceeds (if any) of the sale, without any reference to the part of the wreck from the sale of which those proceeds may accrue, reimburse itself for the whole of the expenses of removal, and must after reimbursing itself pay over the surplus (if any) to the owner:
-    
-    *   (d) if the proceeds of the sale are insufficient to pay the whole expenses of removal, the council may recover the balance from the owner of the wreck:
-    
-    *   (e) the council does not have to retain any unsaleable wreck and may dispose of or destroy it as it thinks fit:
-    
-    *   (f) if the council fails, within 14 days after notice in writing from the Director to remove or to take steps to cause the owner of the wreck, to remove the wreck, the Director may take steps to remove the wreck, and for that purpose has all the powers of a regional council under this section.
-    
-    (3) For the purposes of this section, _owner_ includes not only the owner of the wreck at the time of the sinking, stranding, or abandonment, but also includes any purchaser of any such wreck, or the materials of which the wreck may be or may have been composed, so long as the same remains sunk, stranded, or abandoned.
-    
-    (4) Nothing in this section affects or limits anything in [section 110][2054] of the Maritime Transport Act 1994\.
-    
-    Section 650K: inserted, on 29 April 1999, by [section 6(1)][2050] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
+    Section 650K: repealed, on 23 October 2013, by [section 85(2)(a)][2050] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ## Part 40  
 Miscellaneous powers
@@ -16015,13 +15847,13 @@ Miscellaneous powers
 
 \[Repealed\]
     
-*   Heading: repealed, on 29 April 1999, by [section 6(2)][2050] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
+*   Heading: repealed, on 29 April 1999, by [section 6(2)][2051] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
 
 ##### 656 Powers of council with respect to harbour works to be exercised subject to Harbours Act 1950
     
 *   \[Repealed\]
     
-    Section 656: repealed, on 29 April 1999, by [section 6(2)][2050] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
+    Section 656: repealed, on 29 April 1999, by [section 6(2)][2051] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
 
 #### Telegraphs, telephones, and electric lines
 
@@ -16173,7 +16005,7 @@ Private works
     
 *   \[Repealed\]
     
-    Section 675A: repealed, on 14 August 1986, by [section 13(1)][2055] of the Local Government Amendment Act (No 3) 1986 (1986 No 50).
+    Section 675A: repealed, on 14 August 1986, by [section 13(1)][2052] of the Local Government Amendment Act (No 3) 1986 (1986 No 50).
 
 ##### 676 Council may execute works on default by owner or occupier
     
@@ -16195,8 +16027,10 @@ Private works
 
 ## Part 43  
 Bylaws
+
+\[Repealed\]
     
-*   Part 43: inserted, on 1 April 1980, by [section 2][1998] of the Local Government Amendment Act 1979 (1979 No 59).
+*   Part 43: repealed, on 23 October 2013, by [section 85(2)(a)][2050] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 679 This Part to be subject to Bylaws Act 1910
     
@@ -16230,11 +16064,9 @@ Bylaws
 
 ##### 684AA Certain provisions of Local Government Act 2002 to apply to bylaws made under this Act
     
-*   (1) Despite anything to the contrary in the [Local Government Act 2002][2056], [sections 150][2057], [151][2058], [155][2059], and [156][2060] of that Act apply, with all necessary modifications, to any bylaw made under this Act.
+*   \[Repealed\]
     
-    (2) This section does not limit any other provisions of that Act that apply to a bylaw made under this Act.
-    
-    Section 684AA: inserted, on 28 June 2006, by [section 30][2061] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 684AA: repealed, on 23 October 2013, by [section 85(2)(a)][2050] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 684 Subject matter of bylaws
     
@@ -16249,116 +16081,40 @@ Bylaws
     Section 684A: repealed, on 1 July 2003, by [section 266][1864] of the Local Government Act 2002 (2002 No 84).
 
 #### Navigation bylaws
+
+\[Repealed\]
     
-*   Heading: inserted, on 29 April 1999, by [section 7][2062] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
+*   Heading: repealed, on 23 October 2013, by [section 85(2)(a)][2050] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 684B Bylaws relating to navigation and related activities
     
-*   A regional council may from time to time, by bylaw under this Act, do all or any of the following things in relation to waters within its region:
-        
-    *   (a) generally regulate and control, for the purposes of navigation and safety, the use or management of ships (including the mode and place of their mooring, anchoring, position, unmooring, and removal):
+*   \[Repealed\]
     
-    *   (b) regulate the placing and maintenance of moorings and maritime facilities (which bylaws may not be inconsistent with the [Resource Management Act 1991][1820]):
-    
-    *   (c) regulate and control, and prevent nuisances arising from,---
-            
-        *   (a) the speed, use, anchoring, mooring, and management of ships and seaplanes:
-        
-        *   (b) the towing of any thing or person:
-        
-        
-    
-    *   (d) if the council is satisfied that such action is necessary in the interests of navigation safety,---
-            
-        *   (i) reserve any specified waters for use by any specified kind of ship or seaplane, or by any persons:
-        
-        *   (ii) regulate or prohibit the use of those waters by other ships or persons:
-        
-        *   (iii) on the occasion of boat races, yacht races, launch races, or swimming races, or similar events,---
-                
-            *   (A) provide for the prohibition or regulation of the use of specified classes of ships:
-            
-            *   (B) regulate admission to specified areas or authorise the organisers of the event to regulate admission to specified areas:
-            
-            
-        
-        
-    
-    *   (e) regulate and control the use of any anchorage:
-    
-    *   (f) put in place ship traffic separation schemes and ship traffic management schemes:
-    
-    *   (g) specify requirements (which may not be inconsistent with maritime rules) for---
-            
-        *   (i) the provision of life jackets and buoyancy aids on pleasure craft:
-        
-        *   (ii) the wearing of life jackets and buoyancy aids by persons on pleasure craft:
-        
-        *   (iii) the marking and identification of personal water craft; and, for the purposes of this subparagraph, a personal water craft is a power driven ship that---
-                
-            *   (A) has a fully enclosed hull; and
-            
-            *   (B) does not take on water if capsized; and
-            
-            *   (C) is designed to be operated by a person standing, sitting astride, or kneeling on it, but not seated within it:
-            
-            
-        
-        
-    
-    *   (h) fix fees and charges in respect of the use of any land, building, equipment, or other property, that is owned by the council and operated for navigation-related purposes, and in respect of navigation-related activities the council undertakes, including (without limitation) bylaws---
-            
-        *   (i) fixing fees and charges for any function, duty, power, or service carried out or exercised or provided by the council in respect of any ship, maritime facility, offshore installation, pipeline, oil transfer site, navigational aid, or marine farm, or in respect of navigation generally:
-        
-        *   (ii) fixing such fees and charges on the basis of the nature of the facility, the location and use of the facility, the size of the vessel, or on any other differential basis:
-        
-        *   (iii) specifying the persons who are liable to pay such fees and charges:
-        
-        
-    
-    *   (i) exempting specified classes of persons from compliance with any provision of the bylaws or providing for the council to exempt any person from compliance with any provision of the bylaws; and providing for the council to suspend the operation of any provision of the bylaws, in any class of case or in any particular case, in circumstances specified in the bylaws.
-    
-    Section 684B: inserted, on 29 April 1999, by [section 7][2062] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
+    Section 684B: repealed, on 23 October 2013, by [section 85(2)(a)][2050] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 684C Navigation bylaws not to affect port operations
     
-*   Bylaws made under [section 684B][1515] may not limit or affect the ability of a port company or an operator of a port facility to manage its operations within areas owned or controlled by it, except to the extent the council considers necessary in the interests of navigation safety.
+*   \[Repealed\]
     
-    Section 684C: inserted, on 29 April 1999, by [section 7][2062] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
+    Section 684C: repealed, on 23 October 2013, by [section 85(2)(a)][2050] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 684D No marine pollution charges
     
-*   (1) Nothing in [section 684B][1515] permits a council to make any navigation bylaw imposing any charges in respect of its responsibilities in relation to oil pollution.
+*   \[Repealed\]
     
-    (2) Any navigation bylaw in force immediately before the commencement of this section ceases to have effect to the extent that it imposes any charges in respect of a council's responsibilities in relation to oil pollution.
-    
-    (3) In this section, _oil_ has the same meaning as in [section 222(1)][2063] of the Maritime Transport Act 1994\.
-    
-    Section 684D: inserted, on 29 April 1999, by [section 7][2062] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
+    Section 684D: repealed, on 23 October 2013, by [section 85(2)(a)][2050] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 684E General provisions relating to navigation bylaws
     
-*   (1) Navigation bylaws may apply---
-        
-    *   (a) generally to navigation or associated activities in or on waters under the control, and within the region, of a regional council; or
+*   \[Repealed\]
     
-    *   (b) to navigation or associated activities in or on specified waters within the region of a regional council or specified parts of such specified waters.
-    
-    (2) Despite [section 682(c)][1509], navigation bylaws may not impose licensing requirements in respect of any aspect of commercial shipping operations that is subject to any requirement contained in any maritime rule, but nothing in this subsection prevents navigation bylaws imposing licensing requirements in respect of other aspects of commercial shipping operations.
-    
-    (3) No navigation bylaw concerning any ship traffic separation scheme or ship traffic management scheme may come into force unless the Director has approved the content of the bylaw.
-    
-    (4) Except as otherwise expressly provided in this Part, navigation bylaws may not be inconsistent with the [Lakes District Waterways Authority (Shotover River) Empowering Act 1985][2064], the [Resource Management Act 1991][1820], the [Northland Regional Council and Far North District Council Vesting and Empowering Act 1992][2065], or the [Maritime Transport Act 1994][1825].
-    
-    Section 684E: inserted, on 29 April 1999, by [section 7][2062] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
+    Section 684E: repealed, on 23 October 2013, by [section 85(2)(a)][2050] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 684F Council must consult Director
     
-*   Before making a navigation bylaw concerning a matter for which a maritime rule may be made, a regional council must consult the Director of Maritime New Zealand about the proposed bylaw.
+*   \[Repealed\]
     
-    Section 684F: inserted, on 29 April 1999, by [section 7][2062] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
-    
-    Section 684F: amended, on 1 July 2005, by [section 11(3)][1843] of the Maritime Transport Amendment Act 2004 (2004 No 98).
+    Section 684F: repealed, on 23 October 2013, by [section 85(2)(a)][2050] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 685 Licences to hawkers and pedlars
     
@@ -16778,75 +16534,31 @@ Offences and legal proceedings
 
 ##### 699 Time for filing charging document
     
-*   Despite anything to the contrary in [section 25][2066] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations or bylaws made under it ends on the date that is 12 months after the date on which the offence was committed.
+*   Despite anything to the contrary in [section 25][2053] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations or bylaws made under it ends on the date that is 12 months after the date on which the offence was committed.
     
     Section 699: replaced, on 1 July 2013, by [section 413][1983] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 699A Infringement offences relating to navigation bylaws
     
-*   (1) In [sections 699B to 699D][1587],---
+*   \[Repealed\]
     
-    _infringement fee_, in relation to an infringement offence, means the infringement fee prescribed for that offence by regulations made under subsection (2)
-    
-    _infringement offence_ means a breach of a navigation bylaw that is specified in regulations made under subsection (2) as an infringement offence for the purposes of this section.
-    
-    (2) The Governor-General may from time to time, by Order in Council, make regulations---
-        
-    *   (a) prescribing the infringement fee payable in respect of each infringement offence, which fee may not exceed $1,000:
-    
-    *   (b) specifying which breaches of navigation bylaws are infringement offences for the purposes of this section:
-    
-    *   (c) prescribing the form of infringement notices for infringement offences.
-    
-    Section 699A: inserted, on 29 April 1999, by [section 8][2067] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
+    Section 699A: repealed, on 23 October 2013, by [section 85(2)(b)][2050] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 699B Commission of infringement offence
     
-*   If any person is alleged to have committed an infringement offence, that person may either---
-        
-    *   (a) be proceeded against by filing a charging document under [section 14][2068] of the Criminal Procedure Act 2011; or
+*   \[Repealed\]
     
-    *   (b) be served with an infringement notice as provided for in [section 699C][1588].
-    
-    Section 699B: inserted, on 29 April 1999, by [section 8][2067] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
-    
-    Section 699B(a): replaced, on 1 July 2013, by [section 413][1983] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 699B: repealed, on 23 October 2013, by [section 85(2)(b)][2050] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 699C Infringement notices
     
-*   (1) If a harbourmaster or an enforcement officer observes a person committing an infringement offence, or has reasonable cause to believe such an offence is being or has been committed by that person, an infringement notice in respect of that offence may be served on that person.
-    
-    (2) Any harbourmaster or enforcement officer (not necessarily the person who issued the notice) may deliver the infringement notice (or a copy of it) to the person alleged to have committed an infringement offence personally or by post addressed to that person's last known place of residence or business; and, in that case it (or the copy) is to be treated as having been served on that person when it was posted.
-    
-    (3) Every infringement notice must be in the prescribed form and must contain the following particulars:
-        
-    *   (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence; and
-    
-    *   (b) the amount of the infringement fee specified for that offence; and
-    
-    *   (c) the address of the place at which the infringement fee may be paid; and
-    
-    *   (d) the time within which the infringement fee must be paid; and
-    
-    *   (e) a summary of the provisions of [section 21(10)][2069] of the Summary Proceedings Act 1957; and
-    
-    *   (f) a statement that the person served with the notice has a right to request a hearing; and
-    
-    *   (g) a statement of what will happen if the person served with the notice neither pays the infringement fee nor requests a hearing; and
-    
-    *   (h) such other particulars as are prescribed.
-    
-    (4) If an infringement notice has been issued under this section, proceedings in respect of the offence to which the notice relates may be commenced in accordance with [section 21][2069] of the Summary Proceedings Act 1957; and, in that case, the provisions of that section apply with the necessary modifications.
-    
-    Section 699C: inserted, on 29 April 1999, by [section 8][2067] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
-    
-    Section 699C(2): amended, on 1 July 2013, by [section 413][1983] of the Criminal Procedure Act 2011 (2011 No 81).
+*   Section 699C: repealed, on 23 October 2013, by [section 85(2)(b)][2050] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 699D Entitlement to infringement fees
     
-*   A regional council is entitled to retain all infringement fees received by it in respect of infringement offences where the infringement notice was issued by an enforcement officer of that council.
+*   \[Repealed\]
     
-    Section 699D: inserted, on 29 April 1999, by [section 8][2067] of the Local Government Amendment Act (No 2) 1999 (1999 No 24).
+    Section 699D: repealed, on 23 October 2013, by [section 85(2)(b)][2050] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 #### Legal proceedings
 
@@ -16955,452 +16667,452 @@ Special provisions applying to Auckland Regional Authority
     
 *   \[Repealed\]
     
-    Section 707B: repealed, on 1 July 1992, by [section 67(1)][2070] of the Local Government Amendment Act 1992 (1992 No 42).
+    Section 707B: repealed, on 1 July 1992, by [section 67(1)][2054] of the Local Government Amendment Act 1992 (1992 No 42).
 
 ##### 707C Membership of Auckland Regional Authority
     
 *   \[Repealed\]
     
-    Section 707C: repealed, on 1 July 1992, by [section 67(1)][2070] of the Local Government Amendment Act 1992 (1992 No 42).
+    Section 707C: repealed, on 1 July 1992, by [section 67(1)][2054] of the Local Government Amendment Act 1992 (1992 No 42).
 
 ##### 707D Auckland Regional Authority elections
     
 *   \[Repealed\]
     
-    Section 707D: repealed, on 1 July 1992, by [section 67(1)][2070] of the Local Government Amendment Act 1992 (1992 No 42).
+    Section 707D: repealed, on 1 July 1992, by [section 67(1)][2054] of the Local Government Amendment Act 1992 (1992 No 42).
 
 ##### 707E Extraordinary vacancies
     
 *   \[Repealed\]
     
-    Section 707E: repealed, on 1 July 1992, by [section 67(1)][2070] of the Local Government Amendment Act 1992 (1992 No 42).
+    Section 707E: repealed, on 1 July 1992, by [section 67(1)][2054] of the Local Government Amendment Act 1992 (1992 No 42).
 
 ##### 707F Compilation of electoral roll
     
 *   \[Repealed\]
     
-    Section 707F: repealed, on 1 October 1991, by [section 21(1)][2071] of the Local Government Amendment Act 1991 (1991 No 49).
+    Section 707F: repealed, on 1 October 1991, by [section 21(1)][2055] of the Local Government Amendment Act 1991 (1991 No 49).
 
 ##### 707G Roll to be available for public inspection
     
 *   \[Repealed\]
     
-    Section 707G: repealed, on 1 October 1991, by [section 21(1)][2071] of the Local Government Amendment Act 1991 (1991 No 49).
+    Section 707G: repealed, on 1 October 1991, by [section 21(1)][2055] of the Local Government Amendment Act 1991 (1991 No 49).
 
 ##### 707H Application for registration as a parliamentary elector
     
 *   \[Repealed\]
     
-    Section 707H: repealed, on 1 October 1991, by [section 21(1)][2071] of the Local Government Amendment Act 1991 (1991 No 49).
+    Section 707H: repealed, on 1 October 1991, by [section 21(1)][2055] of the Local Government Amendment Act 1991 (1991 No 49).
 
 ##### 707I Completion of roll
     
 *   \[Repealed\]
     
-    Section 707I: repealed, on 1 October 1991, by [section 21(1)][2071] of the Local Government Amendment Act 1991 (1991 No 49).
+    Section 707I: repealed, on 1 October 1991, by [section 21(1)][2055] of the Local Government Amendment Act 1991 (1991 No 49).
 
 ##### 707J Amendments to roll
     
 *   \[Repealed\]
     
-    Section 707J: repealed, on 1 October 1991, by [section 21(1)][2071] of the Local Government Amendment Act 1991 (1991 No 49).
+    Section 707J: repealed, on 1 October 1991, by [section 21(1)][2055] of the Local Government Amendment Act 1991 (1991 No 49).
 
 ##### 707K When roll in force
     
 *   \[Repealed\]
     
-    Section 707K: repealed, on 1 October 1991, by [section 21(1)][2071] of the Local Government Amendment Act 1991 (1991 No 49).
+    Section 707K: repealed, on 1 October 1991, by [section 21(1)][2055] of the Local Government Amendment Act 1991 (1991 No 49).
 
 ##### 707L Proof of roll
     
 *   \[Repealed\]
     
-    Section 707L: repealed, on 1 October 1991, by [section 21(1)][2071] of the Local Government Amendment Act 1991 (1991 No 49).
+    Section 707L: repealed, on 1 October 1991, by [section 21(1)][2055] of the Local Government Amendment Act 1991 (1991 No 49).
 
 ##### 707M Roll for by-elections
     
 *   \[Repealed\]
     
-    Section 707M: repealed, on 1 October 1991, by [section 21(1)][2071] of the Local Government Amendment Act 1991 (1991 No 49).
+    Section 707M: repealed, on 1 October 1991, by [section 21(1)][2055] of the Local Government Amendment Act 1991 (1991 No 49).
 
 ## Part 44B  
 Auckland Regional Services Trust
 
 \[Repealed\]
     
-*   Part 44B: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+*   Part 44B: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707N Interpretation
     
 *   \[Repealed\]
     
-    Section 707N: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707N: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 #### Auckland Regional Services Trust
     
-*   Heading: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+*   Heading: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707O Constitution of Trust
     
 *   \[Repealed\]
     
-    Section 707O: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707O: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707P Establishment of Trust
     
 *   \[Repealed\]
     
-    Section 707P: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707P: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 #### Transfer of specified assets and specified liabilities to Trust
     
-*   Heading: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+*   Heading: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707Q Preparation of plan for vesting of specified assets and specified liabilities in Trust
     
 *   \[Repealed\]
     
-    Section 707Q: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707Q: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707QA Special provisions in relation to transfers of assets and liabilities to Watercare Services Limited and Regional Forests Limited
     
 *   \[Repealed\]
     
-    Section 707QA: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707QA: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707QB Prohibition on sale or other disposition of water services assets and shares in Watercare Services Limited
     
 *   \[Repealed\]
     
-    Section 707QB: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707QB: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707R Vesting of assets and liabilities in Trust
     
 *   \[Repealed\]
     
-    Section 707R: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707R: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707S Certain matters not affected by transfer of specified assets or specified liabilities to Trust
     
 *   \[Repealed\]
     
-    Section 707S: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707S: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707T Provisions relating to transfer of specified assets and specified liabilities to Trust
     
 *   \[Repealed\]
     
-    Section 707T: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707T: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707U Transfer of regulatory powers not authorised
     
 *   \[Repealed\]
     
-    Section 707U: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707U: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707UA Divestment of assets in transport-related enterprises to be subject to Part 34B
     
 *   \[Repealed\]
     
-    Section 707UA: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707UA: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707V Stamp duty exemption
     
 *   \[Repealed\]
     
-    Section 707V: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707V: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707W Taxation
     
 *   \[Repealed\]
     
-    Section 707W: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707W: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707X Taxes and duties
     
 *   \[Repealed\]
     
-    Section 707X: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707X: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707Y Uses deemed to be permitted uses
     
 *   \[Repealed\]
     
-    Section 707Y: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707Y: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707Z Modification of provisions of Public Works Act 1981
     
 *   \[Repealed\]
     
-    Section 707Z: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707Z: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZA Obligation to lodge caveat
     
 *   \[Repealed\]
     
-    Section 707ZA: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZA: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZB Exclusions
     
 *   \[Repealed\]
     
-    Section 707ZB: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZB: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZC Reduction in functions, duties, and powers of Auckland Regional Council
     
 *   \[Repealed\]
     
-    Section 707ZC: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZC: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZD Continuous service of transferred employees
     
 *   \[Repealed\]
     
-    Section 707ZD: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZD: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZE Maintenance of conditions of employment
     
 *   \[Repealed\]
     
-    Section 707ZE: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZE: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZEA Restrictions on compensation for redundancy
     
 *   \[Repealed\]
     
-    Section 707ZEA: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZEA: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZF Water services
     
 *   \[Repealed\]
     
-    Section 707ZF: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZF: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZG Refusal disposal sites
     
 *   \[Repealed\]
     
-    Section 707ZG: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZG: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZH Properties and funds acquired from Auckland Harbour Board
     
 *   \[Repealed\]
     
-    Section 707ZH: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZH: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZI Special obligation of Trust in relation to carrying out of its work and functions
     
 *   \[Repealed\]
     
-    Section 707ZI: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZI: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 #### Functions of Trust
     
-*   Heading: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+*   Heading: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZJ Functions of Trust
     
 *   \[Repealed\]
     
-    Section 707ZJ: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZJ: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZJA Functions in relation to America's Cup
     
 *   \[Repealed\]
     
-    Section 707ZJA: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZJA: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZJB Management of assets
     
 *   \[Repealed\]
     
-    Section 707ZJB: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZJB: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZJC Obligation of Trust to report annually on assets owned by it
     
 *   \[Repealed\]
     
-    Section 707ZJC: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZJC: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZJD Power to dispose of assets
     
 *   \[Repealed\]
     
-    Section 707ZJD: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZJD: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZJE Effect of sections 707ZJA to 707ZJD
     
 *   \[Repealed\]
     
-    Section 707ZJE: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZJE: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZK Trust to be local authority for certain purposes
     
 *   \[Repealed\]
     
-    Section 707ZK: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZK: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 #### Elections
     
-*   Heading: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+*   Heading: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZL Election of members of Trust
     
 *   \[Repealed\]
     
-    Section 707ZL: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZL: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZM First election of members
     
 *   \[Repealed\]
     
-    Section 707ZM: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZM: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 #### Chief executive
     
-*   Heading: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+*   Heading: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZN Special provision in respect of appointment by Auckland Regional Council of chief executive of Trust
     
 *   \[Repealed\]
     
-    Section 707ZN: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZN: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 #### Accountability and accounting
     
-*   Heading: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+*   Heading: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZO Conduct of affairs
     
 *   \[Repealed\]
     
-    Section 707ZO: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZO: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZP Annual report to public concerning plans
     
 *   \[Repealed\]
     
-    Section 707ZP: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZP: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZQ Annual report to public concerning performance
     
 *   \[Repealed\]
     
-    Section 707ZQ: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZQ: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZR Audit Office to be auditor
     
 *   \[Repealed\]
     
-    Section 707ZR: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZR: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 #### Funding
     
-*   Heading: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+*   Heading: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZS Funding
     
 *   \[Repealed\]
     
-    Section 707ZS: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZS: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZT Establishment costs
     
 *   \[Repealed\]
     
-    Section 707ZT: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZT: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZU Application of revenue
     
 *   \[Repealed\]
     
-    Section 707ZU: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZU: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZV Rating for funding of Trust
     
 *   \[Repealed\]
     
-    Section 707ZV: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZV: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZVA Power of Auckland Regional Council to rate in respect of retained liabilities
     
 *   \[Repealed\]
     
-    Section 707ZVA: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZVA: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 #### Community Trust
     
-*   Heading: repealed, on 1 October 1998, by [section 6(1)(c)][2073] of the Local Government Amendment Act 1998 (1998 No 89).
+*   Heading: repealed, on 1 October 1998, by [section 6(1)(c)][2057] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZW Establishment of Community Trust
     
 *   \[Repealed\]
     
-    Section 707ZW: repealed, on 1 August 1998, by [section 6(1)(c)][2073] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZW: repealed, on 1 August 1998, by [section 6(1)(c)][2057] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZX Trustees
     
 *   \[Repealed\]
     
-    Section 707ZX: repealed, on 1 August 1998, by [section 6(1)(c)][2073] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZX: repealed, on 1 August 1998, by [section 6(1)(c)][2057] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZY Disqualification from appointment
     
 *   \[Repealed\]
     
-    Section 707ZY: repealed, on 1 August 1998, by [section 6(1)(c)][2073] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZY: repealed, on 1 August 1998, by [section 6(1)(c)][2057] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZZ Term of appointment
     
 *   \[Repealed\]
     
-    Section 707ZZ: repealed, on 1 August 1998, by [section 6(1)(c)][2073] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZZ: repealed, on 1 August 1998, by [section 6(1)(c)][2057] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZZA Purposes of Community Trust
     
 *   \[Repealed\]
     
-    Section 707ZZA: repealed, on 1 August 1998, by [section 6(1)(c)][2073] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZZA: repealed, on 1 August 1998, by [section 6(1)(c)][2057] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZZB Financial statements
     
 *   \[Repealed\]
     
-    Section 707ZZB: repealed, on 1 August 1998, by [section 6(1)(c)][2073] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZZB: repealed, on 1 August 1998, by [section 6(1)(c)][2057] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZZC Trustees to hold public meeting
     
 *   \[Repealed\]
     
-    Section 707ZZC: repealed, on 1 August 1998, by [section 6(1)(c)][2073] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZZC: repealed, on 1 August 1998, by [section 6(1)(c)][2057] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZZD Matters to be included in trust deed
     
 *   \[Repealed\]
     
-    Section 707ZZD: repealed, on 1 August 1998, by [section 6(1)(c)][2073] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZZD: repealed, on 1 August 1998, by [section 6(1)(c)][2057] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZZE Trust deed not to be inconsistent with provisions of this Act
     
 *   \[Repealed\]
     
-    Section 707ZZE: repealed, on 1 August 1998, by [section 6(1)(c)][2073] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZZE: repealed, on 1 August 1998, by [section 6(1)(c)][2057] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZZF Application of Trustee Act 1956
     
 *   \[Repealed\]
     
-    Section 707ZZF: repealed, on 1 August 1998, by [section 6(1)(c)][2073] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZZF: repealed, on 1 August 1998, by [section 6(1)(c)][2057] of the Local Government Amendment Act 1998 (1998 No 89).
 
 #### Achievement of objects
     
-*   Heading: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+*   Heading: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ##### 707ZZG Duty to act in furtherance of this Part
     
 *   \[Repealed\]
     
-    Section 707ZZG: repealed, on 1 October 1998, by [section 14(1)(e)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+    Section 707ZZG: repealed, on 1 October 1998, by [section 14(1)(e)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ## Part 44C  
 Infrastructure Auckland
@@ -17413,241 +17125,241 @@ Infrastructure Auckland
     
 *   \[Repealed\]
     
-    Section 707ZZH: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZH: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZI Interpretation
     
 *   \[Repealed\]
     
-    Section 707ZZI: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZI: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZJ Constitution of Infrastructure Auckland
     
 *   \[Repealed\]
     
-    Section 707ZZJ: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZJ: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZK Principal function of Infrastructure Auckland
     
 *   \[Repealed\]
     
-    Section 707ZZK: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZK: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZL Grants
     
 *   \[Repealed\]
     
-    Section 707ZZL: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZL: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZM Special obligations of Infrastructure Auckland
     
 *   \[Repealed\]
     
-    Section 707ZZM: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZM: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZN Additional special obligation of Infrastructure Auckland in respect of Ports of Auckland Limited
     
 *   \[Repealed\]
     
-    Section 707ZZN: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZN: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZO Membership of Infrastructure Auckland
     
 *   \[Repealed\]
     
-    Section 707ZZO: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZO: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZP Infrastructure Auckland to be local authority for certain purposes
     
 *   \[Repealed\]
     
-    Section 707ZZP: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZP: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZQ Statement of corporate intent
     
 *   \[Repealed\]
     
-    Section 707ZZQ: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZQ: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZR Transport-related enterprises
     
 *   \[Repealed\]
     
-    Section 707ZZR: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZR: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZS Electoral College
     
 *   \[Repealed\]
     
-    Section 707ZZS: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZS: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZT Functions of Electoral College
     
 *   \[Repealed\]
     
-    Section 707ZZT: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZT: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZU Appointment of members of Infrastructure Auckland
     
 *   \[Repealed\]
     
-    Section 707ZZU: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZU: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZV Members of Electoral College
     
 *   \[Repealed\]
     
-    Section 707ZZV: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZV: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZW Alternate members of Electoral College
     
 *   \[Repealed\]
     
-    Section 707ZZW: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZW: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZX Chairperson of Electoral College
     
 *   \[Repealed\]
     
-    Section 707ZZX: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZX: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZY Meetings of Electoral College
     
 *   \[Repealed\]
     
-    Section 707ZZY: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZY: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZ Infrastructure Auckland deed
     
 *   \[Repealed\]
     
-    Section 707ZZZ: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZ: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZA Contents of Infrastructure Auckland deed
     
 *   \[Repealed\]
     
-    Section 707ZZZA: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZA: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZB Long-term funding plan
     
 *   \[Repealed\]
     
-    Section 707ZZZB: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZB: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZC Proceedings of Infrastructure Auckland
     
 *   \[Repealed\]
     
-    Section 707ZZZC: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZC: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 #### Accountability and accounting
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+*   Heading: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZD Conduct of affairs
     
 *   \[Repealed\]
     
-    Section 707ZZZD: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZD: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZE Annual plan
     
 *   \[Repealed\]
     
-    Section 707ZZZE: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZE: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZF Annual policy in relation to grants
     
 *   \[Repealed\]
     
-    Section 707ZZZF: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZF: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZG Annual report
     
 *   \[Repealed\]
     
-    Section 707ZZZG: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZG: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZH Exemption for listed companies
     
 *   \[Repealed\]
     
-    Section 707ZZZH: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZH: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 #### America's Cup
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+*   Heading: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZI Functions in relation to America's Cup
     
 *   \[Repealed\]
     
-    Section 707ZZZI: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZI: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZJ Obligation to report annually on assets
     
 *   \[Repealed\]
     
-    Section 707ZZZJ: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZJ: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZK Power to dispose of shares
     
 *   \[Repealed\]
     
-    Section 707ZZZK: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZK: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 #### Dissolution of Auckland Regional Services Trust
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+*   Heading: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZL Dissolution of Auckland Regional Services Trust
     
 *   \[Repealed\]
     
-    Section 707ZZZL: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZL: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZLA Transfer of money subject to trust
     
 *   \[Repealed\]
     
-    Section 707ZZZLA: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZLA: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZM Taxes and duties
     
 *   \[Repealed\]
     
-    Section 707ZZZM: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZM: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZN Modification of provisions of Public Works Act 1981
     
 *   \[Repealed\]
     
-    Section 707ZZZN: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZN: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZO Obligation to lodge caveat
     
 *   \[Repealed\]
     
-    Section 707ZZZO: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZO: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZP Employees
     
 *   \[Repealed\]
     
-    Section 707ZZZP: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZP: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZQ Final accounts of Auckland Regional Services Trust
     
 *   \[Repealed\]
     
-    Section 707ZZZQ: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZQ: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZR Vesting of shares in Watercare Services Limited
     
@@ -17677,91 +17389,91 @@ Infrastructure Auckland
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+*   Heading: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZV Dissolution of Regional Treasury Management Limited
     
 *   \[Repealed\]
     
-    Section 707ZZZV: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZV: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZW Final accounts of Regional Treasury Management Limited
     
 *   \[Repealed\]
     
-    Section 707ZZZW: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZW: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZX Taxes and duties
     
 *   \[Repealed\]
     
-    Section 707ZZZX: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZX: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 #### Miscellaneous provisions
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+*   Heading: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZY Certain matters not affected by this Part
     
 *   \[Repealed\]
     
-    Section 707ZZZY: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZY: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZZ Provisions relating to vesting of assets and liabilities in Infrastructure Auckland
     
 *   \[Repealed\]
     
-    Section 707ZZZZ: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZZ: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZZA Registers
     
 *   \[Repealed\]
     
-    Section 707ZZZZA: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZZA: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 #### Transitional provisions
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+*   Heading: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZZB Initial membership of Infrastructure Auckland
     
 *   \[Repealed\]
     
-    Section 707ZZZZB: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZZB: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZZC Membership of Infrastructure Auckland in period beginning on 1 July 1999 and ending with 31 December 1999
     
 *   \[Repealed\]
     
-    Section 707ZZZZC: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZZC: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZZD Membership of Infrastructure Auckland in period beginning on 1 January 2000 and ending with 30 June 2001
     
 *   \[Repealed\]
     
-    Section 707ZZZZD: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZZD: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZZE Power to resign
     
 *   \[Repealed\]
     
-    Section 707ZZZZE: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZZE: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZZF Extraordinary vacancies
     
 *   \[Repealed\]
     
-    Section 707ZZZZF: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZZF: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 707ZZZZG Chairperson of Infrastructure Auckland
     
 *   \[Repealed\]
     
-    Section 707ZZZZG: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 707ZZZZG: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ## Part 44D  
 Westport Harbour
@@ -17913,7 +17625,7 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 716A: repealed, on 25 December 2002, by [section 267(a)][2075] of the Local Government Act 2002 (2002 No 84).
+    Section 716A: repealed, on 25 December 2002, by [section 267(a)][2059] of the Local Government Act 2002 (2002 No 84).
 
 #### Special orders
 
@@ -17943,7 +17655,7 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 717: repealed, on 18 June 1986, by [section 7][2076] of the Local Government Amendment Act (No 2) 1986 (1986 No 24).
+    Section 717: repealed, on 18 June 1986, by [section 7][2060] of the Local Government Amendment Act (No 2) 1986 (1986 No 24).
 
 ##### 718 Application of Act to County of Fiord
     
@@ -17973,7 +17685,7 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 722: repealed, on 1 July 1992, by [section 70][2077] of the Local Government Amendment Act 1992 (1992 No 42).
+    Section 722: repealed, on 1 July 1992, by [section 70][2061] of the Local Government Amendment Act 1992 (1992 No 42).
 
 ##### 723 Regulations
     
@@ -18017,7 +17729,7 @@ Classes of local authorities for the purposes of sections 214 to 214M
 
 \[Repealed\]
     
-*   Schedule 1A: repealed, on 1 July 1992, by [section 72(1)][2078] of the Local Government Amendment Act 1992 (1992 No 42).
+*   Schedule 1A: repealed, on 1 July 1992, by [section 72(1)][2062] of the Local Government Amendment Act 1992 (1992 No 42).
 
 ---
 
@@ -18028,7 +17740,7 @@ Matters which (where applicable) Local Government Commission shall provide for i
 
 \[Repealed\]
     
-*   Schedule 2: repealed, on 1 November 1989, by [section 42(1)][2079] of the Local Government Amendment Act (No 2) 1989 (1989 No 29).
+*   Schedule 2: repealed, on 1 November 1989, by [section 42(1)][2063] of the Local Government Amendment Act (No 2) 1989 (1989 No 29).
 
 ---
 
@@ -18039,7 +17751,7 @@ Payments on transfer of trading undertaking from a territorial authority to a re
 
 \[Repealed\]
     
-*   Schedule 3: repealed, on 1 November 1989, by [section 43(1)][2080] of the Local Government Amendment Act (No 2) 1989 (1989 No 29).
+*   Schedule 3: repealed, on 1 November 1989, by [section 43(1)][2064] of the Local Government Amendment Act (No 2) 1989 (1989 No 29).
 
 ---
 
@@ -18115,7 +17827,7 @@ Scales of local authorities fuel tax
 [ss 185(2)][601], [187][603]
 
 *   Schedule 6: inserted, on 1 April 1978, by [section 7(1)(b)][1840] of the Local Government Amendment Act (No 3) 1977 (1977 No 122).
-*   Schedule 6 heading: amended, on 1 October 2008, by [section 20(1)][2081] of the Local Government Act 1974 Amendment Act 2008 (2008 No 63).
+*   Schedule 6 heading: amended, on 1 October 2008, by [section 20(1)][2065] of the Local Government Act 1974 Amendment Act 2008 (2008 No 63).
 
 **Scale****Specified engine fuel that is motor spirit or ethyl alcohol**  
 **per litre** **Specified engine fuel that is diesel or biodiesel**  
@@ -18127,8 +17839,8 @@ B0.44 cent 0.22 cent
 
 C0.22 cent 0.11 cent
 
-*   Schedule 6: amended, on 1 October 2008, by [section 20(2)(a)][2081] of the Local Government Act 1974 Amendment Act 2008 (2008 No 63).
-*   Schedule 6: amended, on 1 October 2008, by [section 20(2)(b)][2081] of the Local Government Act 1974 Amendment Act 2008 (2008 No 63).
+*   Schedule 6: amended, on 1 October 2008, by [section 20(2)(a)][2065] of the Local Government Act 1974 Amendment Act 2008 (2008 No 63).
+*   Schedule 6: amended, on 1 October 2008, by [section 20(2)(b)][2065] of the Local Government Act 1974 Amendment Act 2008 (2008 No 63).
 
 ---
 
@@ -18136,7 +17848,7 @@ C0.22 cent 0.11 cent
 
 [ss 181][597], [183][599]
 
-*   Schedule 7: replaced, on 1 July 1992, by [section 75][2082] of the Local Government Amendment Act 1992 (1992 No 42).
+*   Schedule 7: replaced, on 1 July 1992, by [section 75][2066] of the Local Government Amendment Act 1992 (1992 No 42).
 
 **Tax area****Component districts**  
 **(""(D)"" indicates the distribution authority)**
@@ -18315,9 +18027,9 @@ Invercargill City (D)
 
 Gore District.
 
-*   Schedule 7 item 2: amended, on 12 December 2012, by [section 4(1)][2083] of the Local Government Act 1974 Amendment Act 2012 (2012 No 106).
+*   Schedule 7 item 2: amended, on 12 December 2012, by [section 4(1)][2067] of the Local Government Act 1974 Amendment Act 2012 (2012 No 106).
 *   Schedule 7 item 2: amended, on 1 November 2010, by [section 113(1)][1867] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
-*   Schedule 7 item 17: amended, on 12 December 2012, by [section 4(2)][2083] of the Local Government Act 1974 Amendment Act 2012 (2012 No 106).
+*   Schedule 7 item 17: amended, on 12 December 2012, by [section 4(2)][2067] of the Local Government Act 1974 Amendment Act 2012 (2012 No 106).
 
 ---
 
@@ -18327,7 +18039,7 @@ Notice of imposition or alteration of local authorities fuel tax
 [ss 185][601], [187][603]
 
 *   Schedule 8: inserted, on 1 April 1978, by [section 7(1)(b)][1840] of the Local Government Amendment Act (No 3) 1977 (1977 No 122).
-*   Schedule 8 heading: amended, on 1 October 2008, by [section 21(1)][2084] of the Local Government Act 1974 Amendment Act 2008 (2008 No 63).
+*   Schedule 8 heading: amended, on 1 October 2008, by [section 21(1)][2068] of the Local Government Act 1974 Amendment Act 2008 (2008 No 63).
 
 In accordance with a decision made under [section 185][601] (_or_ [section 187][603]) of the Local Government Act 1974, a local authorities fuel tax will be levied on the following scale with effect on and after \[_effective date_\] and within the tax area consisting of \[_name of component districts within the tax area_\].
 
@@ -18345,7 +18057,7 @@ Date:
 
 Principal Administrative Officer of \[_name of taxing authority_\], distribution authority of tax area.
     
-*   Schedule 8: amended, on 1 October 2008, by [section 21(2)][2084] of the Local Government Act 1974 Amendment Act 2008 (2008 No 63).
+*   Schedule 8: amended, on 1 October 2008, by [section 21(2)][2068] of the Local Government Act 1974 Amendment Act 2008 (2008 No 63).
 *   Schedule 8: amended, on 19 January 1981, pursuant to [section 2(2)][1856] of the Local Government Amendment Act 1980 (1980 No 82).
 
 ---
@@ -18420,21 +18132,21 @@ Conditions as to stopping of roads and the temporary prohibition of traffic on r
     
     provided that no road may be closed for any purpose specified in paragraph (e) if that closure would, in the opinion of the council, be likely to impede traffic unreasonably.
     
-    Schedule 10 clause 11: replaced, on 14 August 1986, by [section 14(1)][2085] of the Local Government Amendment Act (No 3) 1986 (1986 No 50).
+    Schedule 10 clause 11: replaced, on 14 August 1986, by [section 14(1)][2069] of the Local Government Amendment Act (No 3) 1986 (1986 No 50).
 
 *   11A The council shall give public notice of its intention to consider closing any road or part of a road under clause 11(e); and shall give public notice of any decision to close any road or part of a road under that provision.
     
-    Schedule 10 clause 11A: inserted, on 14 August 1986, by [section 14(1)][2085] of the Local Government Amendment Act (No 3) 1986 (1986 No 50).
+    Schedule 10 clause 11A: inserted, on 14 August 1986, by [section 14(1)][2069] of the Local Government Amendment Act (No 3) 1986 (1986 No 50).
 
 *   11B Where any road or part of a road is closed under clause 11(e), the council or, with the consent of the council, the promoter of any activity for the purpose of which the road has been closed may impose charges for the entry of persons and vehicles to the area of closed road, any structure erected on the road, or any structure or area under the control of the council or the promoter on adjoining land.
     
-    Schedule 10 clause 11B: inserted, on 14 August 1986, by [section 14(1)][2085] of the Local Government Amendment Act (No 3) 1986 (1986 No 50).
+    Schedule 10 clause 11B: inserted, on 14 August 1986, by [section 14(1)][2069] of the Local Government Amendment Act (No 3) 1986 (1986 No 50).
 
 *   11C Where any road or part of a road is closed under clause 11(e), the road or part of a road shall be deemed for the purposes of---
         
     *   (a) \[Repealed\]
     
-    *   (b) the [Traffic Regulations 1976][2086]:
+    *   (b) the [Traffic Regulations 1976][2070]:
     
     *   (c) the Transport (Drivers Licensing) Regulations 1985:
     
@@ -18442,21 +18154,21 @@ Conditions as to stopping of roads and the temporary prohibition of traffic on r
     
     *   (e) the Transport (Vehicle Registration and Licensing) Notice 1986:
     
-    *   (ea) the [Land Transport Act 1998][2087]:
+    *   (ea) the [Land Transport Act 1998][2071]:
     
     *   (f) any enactment made in substitution for any enactment referred to in paragraphs (a) to (ea)---
     
     not to be a road; but nothing in this clause shall affect the status of the road or part of a road as a public place for the purposes of this or any other enactment.
     
-    Schedule 10 clause 11C: inserted, on 14 August 1986, by [section 14(1)][2085] of the Local Government Amendment Act (No 3) 1986 (1986 No 50).
+    Schedule 10 clause 11C: inserted, on 14 August 1986, by [section 14(1)][2069] of the Local Government Amendment Act (No 3) 1986 (1986 No 50).
     
     Schedule 10 clause 11C(a): repealed, on 10 May 2011, by [section 100(3)][2041] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
     Schedule 10 clause 11C(d): repealed, on 1 May 2011, by [section 35(4)][1991] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Schedule 10 clause 11C(ea): inserted, on 1 March 1999, by [section 215(1)][2088] of the Land Transport Act 1998 (1998 No 110).
+    Schedule 10 clause 11C(ea): inserted, on 1 March 1999, by [section 215(1)][2072] of the Land Transport Act 1998 (1998 No 110).
     
-    Schedule 10 clause 11C(f): amended, on 1 March 1999, by [section 215(1)][2088] of the Land Transport Act 1998 (1998 No 110).
+    Schedule 10 clause 11C(f): amended, on 1 March 1999, by [section 215(1)][2072] of the Land Transport Act 1998 (1998 No 110).
 
 *   12 The powers conferred on the council by clause 11 (except paragraph (e)) may be exercised by the chairman on behalf of the council or by any officer of the council authorised by the council in that behalf.
 
@@ -18468,13 +18180,13 @@ Conditions as to stopping of roads and the temporary prohibition of traffic on r
 
 *   16 No person shall---
         
-    *   (a) use a vehicle, or permit a vehicle to be used, on any road which is for the time being closed for such vehicles pursuant to [clause 11][2089]; or
+    *   (a) use a vehicle, or permit a vehicle to be used, on any road which is for the time being closed for such vehicles pursuant to [clause 11][2073]; or
     
-    *   (aa) without the consent of the council or the promoter of any activity permitted by the council, enter or attempt to enter, or be present, on any road or part of a road that is for the time being closed to pedestrian traffic pursuant to [clause 11][2089]; or
+    *   (aa) without the consent of the council or the promoter of any activity permitted by the council, enter or attempt to enter, or be present, on any road or part of a road that is for the time being closed to pedestrian traffic pursuant to [clause 11][2073]; or
     
-    *   (b) use a motor vehicle, or permit a motor vehicle to be used, on any road where its use has for the time being been prohibited by a resolution under [clause 13][2090].
+    *   (b) use a motor vehicle, or permit a motor vehicle to be used, on any road where its use has for the time being been prohibited by a resolution under [clause 13][2074].
     
-    Schedule 10 clause 16(aa): inserted, on 14 August 1986, by [section 14(2)][2085] of the Local Government Amendment Act (No 3) 1986 (1986 No 50).
+    Schedule 10 clause 16(aa): inserted, on 14 August 1986, by [section 14(2)][2069] of the Local Government Amendment Act (No 3) 1986 (1986 No 50).
 
 ---
 
@@ -18553,13 +18265,13 @@ Provisions as to constructing or maintaining waterworks, drainage works, trade w
 
 [ss 379][947], [380][948], [402][975], [426][1003], [433][1011], [445][1027], [454][1037], [477][1064], [501B][1093], [516][1121], [522(1)(c), (d)][1172]
 
-*   Schedule 14: inserted, on 1 April 1980, by [section 6][2091] of the Local Government Amendment Act 1979 (1979 No 59).
-*   Schedule 14 heading: amended, on 19 January 1981, by [section 53(a)][2092] of the Local Government Amendment Act 1980 (1980 No 82).
-*   Schedule 14 heading: amended, on 19 January 1981, by [section 53(b)][2092] of the Local Government Amendment Act 1980 (1980 No 82).
+*   Schedule 14: inserted, on 1 April 1980, by [section 6][2075] of the Local Government Amendment Act 1979 (1979 No 59).
+*   Schedule 14 heading: amended, on 19 January 1981, by [section 53(a)][2076] of the Local Government Amendment Act 1980 (1980 No 82).
+*   Schedule 14 heading: amended, on 19 January 1981, by [section 53(b)][2076] of the Local Government Amendment Act 1980 (1980 No 82).
 
 *   1 Before interfering with any road or other work that is not under the control of the council for the purposes of constructing or maintaining waterworks or drainage works or trade wastes systems or drainage channels, or laying gas pipes, or electricity cables, or erecting poles, the council shall give not less than 1 month's notice in writing to the local authority or body having control of the road or work.
     
-    Schedule 14 clause 1: amended, on 19 January 1981, by [section 53(c)][2092] of the Local Government Amendment Act 1980 (1980 No 82).
+    Schedule 14 clause 1: amended, on 19 January 1981, by [section 53(c)][2076] of the Local Government Amendment Act 1980 (1980 No 82).
 
 *   2 If that local authority or body objects to the interference, the matter shall be referred to a District Court, and the decision of the court shall be final.
     
@@ -18567,11 +18279,11 @@ Provisions as to constructing or maintaining waterworks, drainage works, trade w
 
 *   3 The council may at any time interfere with the road or work, so far as may be necessary to effect all necessary repairs in the waterworks or drainage works or trade wastes systems or drainage channels or gas pipes or electricity cables or poles, on giving to that local authority or body not less than 3 days' previous notice in writing of its intention to do so.
     
-    Schedule 14 clause 3: amended, on 19 January 1981, by [section 53(d)][2092] of the Local Government Amendment Act 1980 (1980 No 82).
+    Schedule 14 clause 3: amended, on 19 January 1981, by [section 53(d)][2076] of the Local Government Amendment Act 1980 (1980 No 82).
 
 *   4 In any sudden emergency or danger to the waterworks or drainage works or trade wastes systems or drainage channels or gas pipes or electricity cables or poles or property adjoining, the council may, without any previous notice, proceed to effect the necessary repairs, but shall as soon as practicable thereafter inform the local authority or body.
     
-    Schedule 14 clause 4: amended, on 19 January 1981, by [section 53(e)][2092] of the Local Government Amendment Act 1980 (1980 No 82).
+    Schedule 14 clause 4: amended, on 19 January 1981, by [section 53(e)][2076] of the Local Government Amendment Act 1980 (1980 No 82).
 
 *   5 The provisions of this schedule shall, in relation to any public work that is a government work to which section 241 applies, be read subject to that section.
 
@@ -18617,7 +18329,7 @@ Provisions relating to Auckland Regional Services Trust
 
 \[Repealed\]
     
-*   Schedule 17A: repealed, on 1 October 1998, by [section 14(1)(a)][2072] of the Local Government Amendment Act 1998 (1998 No 89).
+*   Schedule 17A: repealed, on 1 October 1998, by [section 14(1)(a)][2056] of the Local Government Amendment Act 1998 (1998 No 89).
 
 ---
 
@@ -18628,7 +18340,7 @@ Provisions relating to Infrastructure Auckland
 
 \[Repealed\]
     
-*   Schedule 17B: repealed, on 1 July 2004, by [section 48(1)(a)][2074] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+*   Schedule 17B: repealed, on 1 July 2004, by [section 48(1)(a)][2058] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ---
 
@@ -18751,7 +18463,7 @@ Commencementsee section 1
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Local Government Amendment Act 1978][2093], and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as "the principal Act").
+*   (1) This Act may be cited as the [Local Government Amendment Act 1978][2077], and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as "the principal Act").
     
     (2) This section and section 307 of the principal Act (as enacted by section 2 of this Act) shall come into force on the date on which this Act receives the Governor-General's assent.
     
@@ -18782,7 +18494,7 @@ Miscellaneous provisions
     
     (7) Every special order made under any enactment repealed by this Act and in force at the commencement of this Act shall continue in force after the commencement of this Act, as if it had been made under the corresponding provision of the principal Act as enacted by section 2 of this Act.
     
-    (8) _Amendment(s) incorporated in the [Act(s)][2094]._
+    (8) _Amendment(s) incorporated in the [Act(s)][2078]._
     
     Section 4(2): repealed, on 1 April 1980, by [section 9(1)][1935] of the Local Government Amendment Act 1979 (1979 No 59).
 
@@ -18796,7 +18508,7 @@ Commencementsee section 1
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Local Government Amendment Act 1979][2095], and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as "the principal Act").
+*   (1) This Act may be cited as the [Local Government Amendment Act 1979][2079], and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as "the principal Act").
     
     (2) Section 7(1) and Schedule 2, so far as they relate to sections 42, 43, and 44 of the principal Act, and section 7(2) of this Act shall be deemed to have come into force on 1 November 1979\.
     
@@ -18851,7 +18563,7 @@ Miscellaneous provisions
     
     (9) \[Repealed\]
     
-    Section 9(9): repealed, on 5 May 1988, by [section 5(h)][2096] of the Petroleum Sector Reform Act 1988 (1988 No 95).
+    Section 9(9): repealed, on 5 May 1988, by [section 5(h)][2080] of the Petroleum Sector Reform Act 1988 (1988 No 95).
 
 ##### 10 Transitional provisions
     
@@ -18891,7 +18603,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Local Government Amendment Act 1985][2097], and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as "the principal Act").
+*   (1) This Act may be cited as the [Local Government Amendment Act 1985][2081], and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as "the principal Act").
     
     (2) Except as provided in section 38(6), this Act shall come into force on the day after the date on which it receives the Governor-General's assent.
 
@@ -18925,7 +18637,7 @@ Commencement17 June 1986
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Local Government Amendment Act 1986][2098], and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as "the principal Act").
+*   This Act may be cited as the [Local Government Amendment Act 1986][2082], and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as "the principal Act").
 
 ##### 5 Saving in respect of surveys requested before commencement of Act
     
@@ -18941,7 +18653,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Local Government Amendment Act 1989][2099], and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as "the principal Act").
+*   (1) This Act may be cited as the [Local Government Amendment Act 1989][2083], and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as "the principal Act").
     
     (2) This Act shall be deemed to have come into force on 19 December 1988\.
 
@@ -19139,7 +18851,7 @@ Commencementsee section 1(2)
     
     (4) Where a dispute arises between 2 or more transitional committees concerning the amount to be included, under subsection (3)(e), as costs of any of those transitional committees, that dispute shall be determined by the Local Government Commission, whose decision shall be final.
     
-    Section 16(3)(ba): inserted, on 6 June 1989, by [section 50][2100] of the Local Government Amendment Act (No 2) 1989 (1989 No 29).
+    Section 16(3)(ba): inserted, on 6 June 1989, by [section 50][2084] of the Local Government Amendment Act (No 2) 1989 (1989 No 29).
 
 ##### 17 Funding of transitional committees
     
@@ -19269,9 +18981,9 @@ Commencementsee section 1(2)
     
     (8) Nothing in this section limits the right of any transitional committee or local authority to dismiss for good cause or in accordance with any contract any person appointed under this section.
     
-    Section 25(2): amended, on 1 April 2003, by [section 4(1)][2101] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+    Section 25(2): amended, on 1 April 2003, by [section 4(1)][2085] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
-    Section 25(7): amended, on 1 April 2003, by [section 4(1)][2101] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+    Section 25(7): amended, on 1 April 2003, by [section 4(1)][2085] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
 
 ##### 25A Definitions of former authority and successor authority
     
@@ -19369,7 +19081,7 @@ Commencementsee section 1(2)
     
     (2) No person to whom subsection (1) applies shall be entitled to receive any payment or other benefit by reason only of that person ceasing to be an employee of the local authority or transitional committee by which that person was employed before he or she became an employee of the new local authority.
     
-    Section 26A: inserted, on 6 June 1989, by [section 52][2102] of the Local Government Amendment Act (No 2) 1989 (1989 No 29).
+    Section 26A: inserted, on 6 June 1989, by [section 52][2086] of the Local Government Amendment Act (No 2) 1989 (1989 No 29).
     
     Section 26A(1)(a): replaced, on 16 December 1989, by section 25 of the Local Government Reform (Transitional Provisions) Act 1990 (1990 No 27).
 
@@ -19443,9 +19155,9 @@ Commencementsee section 1(2)
     
 *   For the purposes of the Income Tax Act 2007, the Accident Compensation Act 1982, and the Goods and Services Tax Act 1985, every local authority constituted pursuant to a final reorganisation scheme shall be deemed to be the same local authority as each of the local authorities whose district, region, or functions are wholly transferred to that local authority.
     
-    Section 29A: inserted, on 6 June 1989, by [section 54][2103] of the Local Government Amendment Act (No 2) 1989 (1989 No 29).
+    Section 29A: inserted, on 6 June 1989, by [section 54][2087] of the Local Government Amendment Act (No 2) 1989 (1989 No 29).
     
-    Section 29A: amended, on 1 April 2008, by [section ZA 2(1)][2104] of the Income Tax Act 2007 (2007 No 97).
+    Section 29A: amended, on 1 April 2008, by [section ZA 2(1)][2088] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 30 Protection for persons acting in relation to transitional matters
     
@@ -19479,7 +19191,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Local Government Amendment Act (No 2) 1989][2105], and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as "the principal Act").
+*   (1) This Act may be cited as the [Local Government Amendment Act (No 2) 1989][2089], and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as "the principal Act").
     
     (2) Except as otherwise provided in this Act, this Act shall come into force on the day on which it receives the Royal assent.
 
@@ -19597,7 +19309,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Local Government Amendment Act 1991][2106], and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as "the principal Act").
+*   (1) This Act may be cited as the [Local Government Amendment Act 1991][2090], and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as "the principal Act").
     
     (2) Except as provided in sections 16(2) and 21(3), this Act shall come into force on 1 July 1991\.
 
@@ -19651,7 +19363,7 @@ Commencement28 November 1991
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Local Government Amendment Act (No 3) 1991][2107], and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as "the principal Act").
+*   This Act may be cited as the [Local Government Amendment Act (No 3) 1991][2091], and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as "the principal Act").
 
 ##### 3 Validation
     
@@ -19667,7 +19379,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Local Government Amendment Act 1992][2108], and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as "the principal Act").
+*   (1) This Act may be cited as the [Local Government Amendment Act 1992][2092], and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as "the principal Act").
     
     (2) Except as provided in sections 8(3), 9(2), 10(2), 11(2), 58(10), 68(2), 71(2), 76(2), 79(2), 81, 89(10), and 109(2), this Act shall come into force on 1 July 1992\.
 
@@ -20284,7 +19996,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Local Government Amendment Act 1994][2109], and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as "the principal Act").
+*   (1) This Act may be cited as the [Local Government Amendment Act 1994][2093], and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as "the principal Act").
     
     (2) Except as provided in section 17(3), this Act shall come into force on the day on which it receives the Royal assent.
 
@@ -20346,7 +20058,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Local Government Amendment Act (No 2) 1995][2110], and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as "the principal Act").
+*   (1) This Act may be cited as the [Local Government Amendment Act (No 2) 1995][2094], and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as "the principal Act").
     
     (2) This Act shall come into force on the day on which it receives the Royal assent.
 
@@ -20392,7 +20104,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Local Government Amendment Act (No 3) 1996][2111], and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as "the principal Act").
+*   (1) This Act may be cited as the [Local Government Amendment Act (No 3) 1996][2095], and shall be read together with and deemed part of the Local Government Act 1974 (hereinafter referred to as "the principal Act").
     
     (2) Except as provided in sections 10(2), 13(3), 14(4), 16(2), 17(2), 18(2), 21(3) and 22(3), this Act shall come into force on the day after the date on which this Act receives the Royal assent.
 
@@ -20472,7 +20184,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Local Government Amendment Act (No 2) 1999][2112], and is part of the Local Government Act 1974 ("the principal Act").
+*   (1) This Act may be cited as the [Local Government Amendment Act (No 2) 1999][2096], and is part of the Local Government Act 1974 ("the principal Act").
     
     (2) This Act comes into force on the day after the date on which it receives the Royal assent.
 
@@ -20526,7 +20238,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Infrastructure (Amendments Relating to Utilities Access) Act 2010][2113].
+*   This Act is the [Infrastructure (Amendments Relating to Utilities Access) Act 2010][2097].
 
 ##### 2 Commencement
     
@@ -20538,70 +20250,29 @@ Commencementsee section 2
     
 *   To avoid doubt, the amendments made by this Act are intended to apply prospectively only and do not apply to or affect any notice given, request made, condition proposed or agreed to, or any other thing done before this Act comes into force.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Local Government Act 1974\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][2114] ![](/images/external_link.gif).
+*   This is a reprint of the Local Government Act 1974 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][2115] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][2098] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][2099] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][2116] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][2100] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][2101] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][2117] and [17E][2118] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Maritime Transport Amendment Act 2013 (2013 No 84): [section 85][2050]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Local Government Act 1974 Amendment Act 2012][2119] (2012 No 106)
+    [Local Government Act 1974 Amendment Act 2012][2102] (2012 No 106)
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][1983]
     
@@ -20629,8 +20300,6 @@ Commencementsee section 2
     
     Local Government Act 1974 Amendment Act 2006 (2006 No 27)
     
-    Local Government Act 2002 Amendment Act 2006 (2006 No 26): [section 30][2061]
-    
     Public Records Act 2005 (2005 No 40): [section 66(b)][1928]
     
     Railways Act 2005 (2005 No 37): [section 103(3)][1966]
@@ -20643,7 +20312,7 @@ Commencementsee section 2
     
     Local Government Act 1974 Amendment Act 2004 (2004 No 64)
     
-    Local Government (Auckland) Amendment Act 2004 (2004 No 57): [section 48(1)(a)][2074]
+    Local Government (Auckland) Amendment Act 2004 (2004 No 57): [section 48(1)(a)][2058]
     
     Land Transport Management Act 2003 (2003 No 118): [section 90][2043]
     
@@ -20653,7 +20322,7 @@ Commencementsee section 2
     
     Local Electoral Amendment Act 2002 (2002 No 85): [section 53(d)][1879]
     
-    Local Government Act 2002 (2002 No 84): [sections 262][2052], [266][1864], [267(a)][2075], [270][2044]
+    Local Government Act 2002 (2002 No 84): [sections 262][2103], [266][1864], [267(a)][2059], [270][2044]
     
     Civil Defence Emergency Management Act 2002 (2002 No 33): [section 117][2049]
     
@@ -20667,17 +20336,17 @@ Commencementsee section 2
     
     New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][1844]
     
-    [Local Government Amendment Act (No 5) 1999][2120] (1999 No 125)
+    [Local Government Amendment Act (No 5) 1999][2104] (1999 No 125)
     
-    [Local Government Amendment Act (No 4) 1999][2121] (1999 No 108)
+    [Local Government Amendment Act (No 4) 1999][2105] (1999 No 108)
     
     Stamp Duty Abolition Act 1999 (1999 No 61): [section 7][2042]
     
-    [Local Government Amendment Act (No 2) 1999][2122] (1999 No 24)
+    [Local Government Amendment Act (No 2) 1999][2106] (1999 No 24)
     
-    Land Transport Act 1998 (1998 No 110): [section 215(1)][2088]
+    Land Transport Act 1998 (1998 No 110): [section 215(1)][2072]
     
-    [Local Government Amendment Act 1998][2123] (1998 No 89)
+    [Local Government Amendment Act 1998][2107] (1998 No 89)
     
     Health and Disability Services Amendment Act 1998 (1998 No 74): section 5(4)
     
@@ -20685,15 +20354,15 @@ Commencementsee section 2
     
     Local Government Amendment Act (No 3) 1997 (1997 No 95)
     
-    [Local Government Amendment Act 1997][2124] (1997 No 49)
+    [Local Government Amendment Act 1997][2108] (1997 No 49)
     
     Resource Management Amendment Act 1996 (1996 No 160): [section 6(2)(a)][1848]
     
-    [Local Government Amendment Act (No 3) 1996][2125] (1996 No 83)
+    [Local Government Amendment Act (No 3) 1996][2109] (1996 No 83)
     
-    [Local Government Amendment Act (No 2) 1995][2126] (1995 No 40)
+    [Local Government Amendment Act (No 2) 1995][2110] (1995 No 40)
     
-    [Local Government Amendment Act 1994][2127] (1994 No 68)
+    [Local Government Amendment Act 1994][2111] (1994 No 68)
     
     Building Amendment Act 1993 (1993 No 99): section 24(2)
     
@@ -20709,19 +20378,19 @@ Commencementsee section 2
     
     Energy Companies Act 1992 (1992 No 56): [section 89(1), (2)][1955]
     
-    [Local Government Amendment Act 1992][2128] (1992 No 42)
+    [Local Government Amendment Act 1992][2112] (1992 No 42)
     
     Building Act 1991 (1991 No 150): section 92(1)
     
     Resource Management Act 1991 (1991 No 69): [section 362][1845]
     
-    [Local Government Amendment Act 1991][2129] (1991 No 49)
+    [Local Government Amendment Act 1991][2113] (1991 No 49)
     
     Local Government Reform (Transitional Provisions) Act 1990 (1990 No 27): section 24(1)
     
     Government Roading Powers Act 1989 (1989 No 75): [section 116(1), (4)][1862]
     
-    [Local Government Amendment Act (No 2) 1989][2130] (1989 No 29)
+    [Local Government Amendment Act (No 2) 1989][2114] (1989 No 29)
     
     Local Government Amendment Act (No 3) 1988 (1988 No 109)
     
@@ -20733,13 +20402,13 @@ Commencementsee section 2
     
     Constitution Act 1986 (1986 No 114): [section 29(2)][1810]
     
-    [Local Government Amendment Act (No 3) 1986][2131] (1986 No 50)
+    [Local Government Amendment Act (No 3) 1986][2115] (1986 No 50)
     
-    [Local Government Amendment Act (No 2) 1986][2132] (1986 No 24)
+    [Local Government Amendment Act (No 2) 1986][2116] (1986 No 24)
     
-    [Local Government Amendment Act 1986][2133] (1986 No 21)
+    [Local Government Amendment Act 1986][2117] (1986 No 21)
     
-    [Local Government Amendment Act 1985][2134] (1985 No 60)
+    [Local Government Amendment Act 1985][2118] (1985 No 60)
     
     Local Government Amendment Act 1984 (1984 No 18)
     
@@ -20751,17 +20420,17 @@ Commencementsee section 2
     
     Public Works Act 1981 (1981 No 35): [section 248(1)][1857]
     
-    [Local Government Amendment Act 1980][2135] (1980 No 82)
+    [Local Government Amendment Act 1980][2119] (1980 No 82)
     
     Chatham Islands County Council Empowering Act 1980 (1980 No 6 (L)): section 14(3)
     
     District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][1911]
     
-    [Local Government Amendment Act 1979][2136] (1979 No 59)
+    [Local Government Amendment Act 1979][2120] (1979 No 59)
     
-    [Local Government Amendment Act 1978][2137] (1978 No 43)
+    [Local Government Amendment Act 1978][2121] (1978 No 43)
     
-    [Local Government Amendment Act (No 3) 1977][2094] (1977 No 122)
+    [Local Government Amendment Act (No 3) 1977][2078] (1977 No 122)
     
     Local Government Amendment Act 1976 (1976 No 55)
     
@@ -20769,7 +20438,7 @@ Commencementsee section 2
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1974/0066/latest/whole.html#DLM415534
 [2]: http://www.legislation.govt.nz/act/public/1974/0066/latest/whole.html#DLM415538
 [3]: http://www.legislation.govt.nz/act/public/1974/0066/latest/whole.html#DLM415539
@@ -22819,91 +22488,75 @@ Commencementsee section 2
 [2047]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM304011
 [2048]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM149788
 [2049]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM151437
-[2050]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM23541
-[2051]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM170872
-[2052]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM174088
-[2053]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM131682
-[2054]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM336291
-[2055]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM93866
-[2056]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM170875
-[2057]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM172990
-[2058]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM172992
-[2059]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM173401
-[2060]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM173404
-[2061]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM373970
-[2062]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM23542
-[2063]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM336955
-[2064]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM76199
-[2065]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM80171
-[2066]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM3360067
-[2067]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM23543
-[2068]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM3360057
-[2069]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM311346
-[2070]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM261841
-[2071]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM229883
-[2072]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM428824
-[2073]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM428808
-[2074]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM301338
-[2075]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM174093
-[2076]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM92866
-[2077]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM261846
-[2078]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM261849
-[2079]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM159267
-[2080]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM159268
-[2081]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM1583130
-[2082]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM261854
-[2083]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM4990088
-[2084]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM1583131
-[2085]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM93868
-[2086]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM50037
-[2087]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM433612
-[2088]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM435656
-[2089]: http://www.legislation.govt.nz/act/public/1974/0066/latest/whole.html#DLM425712
-[2090]: http://www.legislation.govt.nz/act/public/1974/0066/latest/whole.html#DLM425723
-[2091]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM34670
-[2092]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM39475
-[2093]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM21245
-[2094]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM18546
-[2095]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM34653
-[2096]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM132535
-[2097]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM75199
-[2098]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM92829
-[2099]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM142034
-[2100]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM159281
-[2101]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM167443
-[2102]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM159284
-[2103]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM159286
-[2104]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM1523176
-[2105]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM159202
-[2106]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM229840
-[2107]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM250148
-[2108]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM261626
-[2109]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM332596
-[2110]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM367652
-[2111]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM394122
-[2112]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM23528
-[2113]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM2924904
-[2114]: http://www.pco.parliament.govt.nz/reprints/
-[2115]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM195439
-[2116]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[2117]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM195468
-[2118]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM195470
-[2119]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM4990083
-[2120]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM45512
-[2121]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM42746
-[2122]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM23532
-[2123]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM428800
-[2124]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM410386
-[2125]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM394126
-[2126]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM367656
-[2127]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM332800
-[2128]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM261630
-[2129]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM229844
-[2130]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM159206
-[2131]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM93845
-[2132]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM92857
-[2133]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM92833
-[2134]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM75603
-[2135]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM38579
-[2136]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM34657
-[2137]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM21249
+[2050]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM4698966
+[2051]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM23541
+[2052]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM93866
+[2053]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM3360067
+[2054]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM261841
+[2055]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM229883
+[2056]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM428824
+[2057]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM428808
+[2058]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM301338
+[2059]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM174093
+[2060]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM92866
+[2061]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM261846
+[2062]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM261849
+[2063]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM159267
+[2064]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM159268
+[2065]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM1583130
+[2066]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM261854
+[2067]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM4990088
+[2068]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM1583131
+[2069]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM93868
+[2070]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM50037
+[2071]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM433612
+[2072]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM435656
+[2073]: http://www.legislation.govt.nz/act/public/1974/0066/latest/whole.html#DLM425712
+[2074]: http://www.legislation.govt.nz/act/public/1974/0066/latest/whole.html#DLM425723
+[2075]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM34670
+[2076]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM39475
+[2077]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM21245
+[2078]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM18546
+[2079]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM34653
+[2080]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM132535
+[2081]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM75199
+[2082]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM92829
+[2083]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM142034
+[2084]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM159281
+[2085]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM167443
+[2086]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM159284
+[2087]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM159286
+[2088]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM1523176
+[2089]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM159202
+[2090]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM229840
+[2091]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM250148
+[2092]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM261626
+[2093]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM332596
+[2094]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM367652
+[2095]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM394122
+[2096]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM23528
+[2097]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM2924904
+[2098]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM2998516
+[2099]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM2998515
+[2100]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM2998532
+[2101]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[2102]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM4990083
+[2103]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM174088
+[2104]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM45512
+[2105]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM42746
+[2106]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM23532
+[2107]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM428800
+[2108]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM410386
+[2109]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM394126
+[2110]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM367656
+[2111]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM332800
+[2112]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM261630
+[2113]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM229844
+[2114]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM159206
+[2115]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM93845
+[2116]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM92857
+[2117]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM92833
+[2118]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM75603
+[2119]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM38579
+[2120]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM34657
+[2121]: http://www.legislation.govt.nz/act/public/1974/0066/latest/link.aspx?id=DLM21249
