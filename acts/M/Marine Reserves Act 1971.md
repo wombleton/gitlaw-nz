@@ -159,7 +159,7 @@ An Act to provide for the setting up and management of areas of the sea and fore
     
     _ranger_ means a ranger appointed or deemed to be appointed under this Act
     
-    _sell _ includes---
+    _sell_ includes---
         
     *   (a) barter and any form of exchange for consideration:
     
@@ -251,7 +251,7 @@ An Act to provide for the setting up and management of areas of the sea and fore
     
     (6) If the right to do anything in a marine reserve by virtue of a mining interest is made subject to this Act or to any provision of this Act, it may continue to be exercised in the marine reserve only to the extent that it can be exercised in accordance with this Act or with the provision, as the case may be; and if it cannot be exercised in accordance with this Act or with the particular provision of this Act, it shall not be exercised at all.
     
-    Section 4(3): amended, on 1 April 1987, by section 11(1) of the State-Owned Enterprises Amendment Act 1987 (1987 No 117).
+    Section 4(3): amended (with effect on 1 April 1987), on 1 July 1987, by section 11(1) of the State-Owned Enterprises Amendment Act 1987 (1987 No 117).
     
     Section 4(3): amended, on 1 February 1982, pursuant to [section 248(1)][53] of the Public Works Act 1981 (1981 No 35).
     
@@ -261,7 +261,7 @@ An Act to provide for the setting up and management of areas of the sea and fore
     
     Section 4(4): amended, on 1 April 1980, pursuant to section 268(2) of the Coal Mines Act 1979 (1979 No 21).
     
-    Section 4(5): amended, on 1 April 1987, by section 11(1) of the State-Owned Enterprises Amendment Act 1987 (1987 No 117).
+    Section 4(5): amended (with effect on 1 April 1987), on 1 July 1987, by section 11(1) of the State-Owned Enterprises Amendment Act 1987 (1987 No 117).
     
     Section 4(5): amended, on 1 September 1972, by section 6(1) of the Ministry of Agriculture and Fisheries Amendment Act 1972 (1972 No 3).
 
@@ -345,11 +345,11 @@ An Act to provide for the setting up and management of areas of the sea and fore
     
     (10) If notice is required by this section to be given to any person, it shall be deemed to be given to all the owners of any Maori land within the meaning of the Maori Affairs Act 1953, when it is given to such owners as have been nominated for the purpose by the Registrar of the Maori Land Court at the request of the person required to give the notice. On receiving any such request the Registrar shall nominate all owners whose current addresses are known to him.
     
-    (11) For the purposes of this section the expression **estate or interest in land** shall include any mining interest.
+    (11) For the purposes of this section the expression _estate or interest in land_ shall include any mining interest.
     
     (12) This section shall bind the Crown.
     
-    Section 5(1)(a): replaced, on 1 October 1996, by [section 316(1)][47] of the Fisheries Act 1996 (1996 No 88). 
+    Section 5(1)(a): replaced, on 1 October 1996, by [section 316(1)][47] of the Fisheries Act 1996 (1996 No 88).
     
     Section 5(1)(b): amended, on 1 September 1972, by section 6(1) of the Ministry of Agriculture and Fisheries Amendment Act 1972 (1972 No 3).
     
@@ -413,7 +413,7 @@ An Act to provide for the setting up and management of areas of the sea and fore
     
     Section 7: replaced, on 10 April 1990, by [section 53][63] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 7(2)(b): amended, on 1 July 2003, by [section 262][65] of the Local Government Act 2002 (2002 No 84). 
+    Section 7(2)(b): amended, on 1 July 2003, by [section 262][65] of the Local Government Act 2002 (2002 No 84).
 
 ##### 8 Conservation management plans
     
@@ -901,7 +901,7 @@ An Act to provide for the setting up and management of areas of the sea and fore
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][87] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][87] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
