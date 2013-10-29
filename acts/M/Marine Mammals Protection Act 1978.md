@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 25 October 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencement20 October 1978
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Department of Conservation.
 
@@ -87,22 +87,26 @@ This Act is administered by the Department of Conservation.
 
 [23][32][][32][Offences and penalties][32]
 
-[24][33][][33][Onus of proof in respect of certain offences][33]
+[23A][33][][33][Penalties for offences committed for commercial gain or reward][33]
 
-[25][34][][34][Proceedings in respect of offences][34]
+[24][34][][34][Onus of proof in respect of certain offences][34]
 
-[26][35][][35][Defences in respect of certain offences][35]
+[25][35][][35][Proceedings in respect of offences][35]
 
-[27][36][][36][Liability for causing officer to incur expense][36]
+[26][36][][36][Defences in respect of certain offences][36]
 
-[28][37][][37][Regulations][37]
+[26A][37][][37][Sentence of community work][37]
 
-[29][38][][38][Costs of administering Act, receipts][38]
+[27][38][][38][Liability for causing officer to incur expense][38]
 
-[30][39][][39][Amendments, repeals, and revocations][39]
+[28][39][][39][Regulations][39]
 
-[Schedule][40]  
-[Enactments amended][40]
+[29][40][][40][Costs of administering Act, receipts][40]
+
+[30][41][][41][Amendments, repeals, and revocations][41]
+
+[Schedule][42]  
+[Enactments amended][42]
 
 ---
 
@@ -120,7 +124,7 @@ An Act to make provision for the protection, conservation, and management of mar
     
     *   (b) any act or omission occurring on any New Zealand ship or aircraft, wherever that ship or aircraft may be:
     
-    *   (c) subject to [section 26(2)][35], any act or omission by any person who is a New Zealand citizen, wherever that person may be.
+    *   (c) subject to [section 26(2)][36], any act or omission by any person who is a New Zealand citizen, wherever that person may be.
     
     
 
@@ -128,19 +132,19 @@ An Act to make provision for the protection, conservation, and management of mar
     
 *   (1) In this Act, unless the context otherwise requires,---
     
-    _aircraft_ has the same meaning as in [section 2][41] of the Civil Aviation Act 1990
+    _aircraft_ has the same meaning as in [section 2][43] of the Civil Aviation Act 1990
     
     _approved_ means approved by the Minister
     
     _aquatic life_ means any species of plant or animal life which, at any time in the life history of the species, must inhabit water; and includes seabirds (whether or not in an aquatic environment)
     
-    _Board_ means a Conservation Board established under [section 6L][42] of the Conservation Act 1987
+    _Board_ means a Conservation Board established under [section 6L][44] of the Conservation Act 1987
     
-    _Conservation Authority_ means the New Zealand Conservation Authority established under [section 6A][43] of the Conservation Act 1987
+    _Conservation Authority_ means the New Zealand Conservation Authority established under [section 6A][45] of the Conservation Act 1987
     
     _conservation management plan_ means a conservation management plan approved under [section 3D][8]
     
-    _conservation management strategy_ means a conservation management strategy approved under [section 17F][44] of the Conservation Act 1987
+    _conservation management strategy_ means a conservation management strategy approved under [section 17F][46] of the Conservation Act 1987
     
     _Crown-owned land_ means unoccupied land vested in Her Majesty and administered by a Minister of the Crown for the time being charged with the administration of the department of State that has control of the land
     
@@ -178,9 +182,9 @@ An Act to make provision for the protection, conservation, and management of mar
     
     _Minister_ means the Minister of Conservation
     
-    _New Zealand fisheries waters_ has the same meaning as in [section 2(1)][45] of the Fisheries Act 1996
+    _New Zealand fisheries waters_ has the same meaning as in [section 2(1)][47] of the Fisheries Act 1996
     
-    _New Zealand ship_ has the same meaning as in [section 2(1)][46] of the Maritime Transport Act 1994
+    _New Zealand ship_ has the same meaning as in [section 2(1)][48] of the Maritime Transport Act 1994
     
     _officer_ means a Marine Mammals Officer declared or appointed as such under [section 11][20]
     
@@ -204,51 +208,51 @@ An Act to make provision for the protection, conservation, and management of mar
     
     _vessel_ means any ship, boat, steamer, lighter, launch, raft, barge, punt, or ferry boat; and includes every description of vessel, whether used in navigation or in any way kept or used as a hulk or storeship or for any other purpose
     
-    _warranted officer_ has the same meaning as in the [Conservation Act 1987][47].
+    _warranted officer_ has the same meaning as in the [Conservation Act 1987][49].
     
     (2) For the purposes of this Act, a marine mammal shall be in the possession of any person when that person has, alone or jointly with any other person, possession of or control over the marine mammal, or possession of or control over any vessel, vehicle, aircraft, hovercraft, container, package, receptacle, or place in or on which the marine mammal is kept.
     
     (3) The Minister, after having regard to any relevant international standards and any relevant standards within New Zealand, may from time to time, by notice in the _Gazette_, declare any species of marine mammal to be a threatened species for the purposes of this Act.
     
-    Section 2(1) **aircraft**: substituted, on 1 February 1995, by [section 203][48] of the Maritime Transport Act 1994 (1994 No 104).
+    Section 2(1) **aircraft**: substituted, on 1 February 1995, by [section 203][50] of the Maritime Transport Act 1994 (1994 No 104).
     
-    Section 2(1) **aquatic life**: inserted, on 1 October 1996, by [section 316(1)][49] of the Fisheries Act 1996 (1996 No 88).
+    Section 2(1) **aquatic life**: inserted, on 1 October 1996, by [section 316(1)][51] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 2(1) **Board**: inserted, on 10 April 1990, by [section 106][50] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **Board**: inserted, on 10 April 1990, by [section 106][52] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **Conservation Authority**: inserted, on 10 April 1990, by [section 106][50] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **Conservation Authority**: inserted, on 10 April 1990, by [section 106][52] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **conservation management plan**: inserted, on 10 April 1990, by [section 106][50] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **conservation management plan**: inserted, on 10 April 1990, by [section 106][52] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **conservation management strategy**: inserted, on 10 April 1990, by [section 106][50] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **conservation management strategy**: inserted, on 10 April 1990, by [section 106][52] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **Director-General**: substituted, on 1 April 1987, by [section 65(1)][51] of the Conservation Act 1987 (1987 No 65).
+    Section 2(1) **Director-General**: substituted, on 1 April 1987, by [section 65(1)][53] of the Conservation Act 1987 (1987 No 65).
     
-    Section 2(1) **fishing**: inserted, on 1 October 1996, by [section 316(1)][49] of the Fisheries Act 1996 (1996 No 88).
+    Section 2(1) **fishing**: inserted, on 1 October 1996, by [section 316(1)][51] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 2(1) **fishing-related mortality**: inserted, on 1 October 1996, by [section 316(1)][49] of the Fisheries Act 1996 (1996 No 88).
+    Section 2(1) **fishing-related mortality**: inserted, on 1 October 1996, by [section 316(1)][51] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 2(1) **hovercraft**: substituted, on 1 February 1995, by [section 203][48] of the Maritime Transport Act 1994 (1994 No 104).
+    Section 2(1) **hovercraft**: substituted, on 1 February 1995, by [section 203][50] of the Maritime Transport Act 1994 (1994 No 104).
     
-    Section 2(1) **human-induced mortality**: inserted, on 1 October 1996, by [section 316(1)][49] of the Fisheries Act 1996 (1996 No 88).
+    Section 2(1) **human-induced mortality**: inserted, on 1 October 1996, by [section 316(1)][51] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 2(1) **Inspector of Sea Fishing**: repealed, on 1 April 1987, by [section 65(1)][51] of the Conservation Act 1987 (1987 No 65).
+    Section 2(1) **Inspector of Sea Fishing**: repealed, on 1 April 1987, by [section 65(1)][53] of the Conservation Act 1987 (1987 No 65).
     
-    Section 2(1) **Minister**: amended, on 1 April 1987, by [section 65(1)][51] of the Conservation Act 1987 (1987 No 65).
+    Section 2(1) **Minister**: amended, on 1 April 1987, by [section 65(1)][53] of the Conservation Act 1987 (1987 No 65).
     
-    Section 2(1) **New Zealand fisheries waters**: amended, on 1 October 1996, by [section 316(1)][49] of the Fisheries Act 1996 (1996 No 88).
+    Section 2(1) **New Zealand fisheries waters**: amended, on 1 October 1996, by [section 316(1)][51] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 2(1) **New Zealand ship**: substituted, on 1 February 1995, by [section 203][48] of the Maritime Transport Act 1994 (1994 No 104).
+    Section 2(1) **New Zealand ship**: substituted, on 1 February 1995, by [section 203][50] of the Maritime Transport Act 1994 (1994 No 104).
     
-    Section 2(1) **population management plan**: inserted, on 1 October 1996, by [section 316(1)][49] of the Fisheries Act 1996 (1996 No 88).
+    Section 2(1) **population management plan**: inserted, on 1 October 1996, by [section 316(1)][51] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 2(1) **Registrar**: repealed, on 1 April 1987, by [section 65(1)][51] of the Conservation Act 1987 (1987 No 65).
+    Section 2(1) **Registrar**: repealed, on 1 April 1987, by [section 65(1)][53] of the Conservation Act 1987 (1987 No 65).
     
-    Section 2(1) **threatened species**: inserted, on 1 October 1996, by [section 316(1)][49] of the Fisheries Act 1996 (1996 No 88).
+    Section 2(1) **threatened species**: inserted, on 1 October 1996, by [section 316(1)][51] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 2(1) **warranted officer**: added, on 1 April 1987, by [section 65(1)][51] of the Conservation Act 1987 (1987 No 65).
+    Section 2(1) **warranted officer**: added, on 1 April 1987, by [section 65(1)][53] of the Conservation Act 1987 (1987 No 65).
     
-    Section 2(3): added, on 1 October 1996, by [section 316(1)][49] of the Fisheries Act 1996 (1996 No 88).
+    Section 2(3): added, on 1 October 1996, by [section 316(1)][51] of the Fisheries Act 1996 (1996 No 88).
 
 ##### 3 Act to bind the Crown
     
@@ -262,7 +266,7 @@ An Act to make provision for the protection, conservation, and management of mar
     
     *   (b) any conservation management strategy and any conservation management plan for the time being in force for the area concerned.
     
-    Section 3A: inserted, on 10 April 1990, by [section 107][52] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 3A: inserted, on 10 April 1990, by [section 107][54] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 3B General policy
     
@@ -270,67 +274,67 @@ An Act to make provision for the protection, conservation, and management of mar
     
     (2) Nothing in any such general policy shall derogate from any provision in this Act or any other Act.
     
-    (3) For the purposes of this section, [sections 17B][53] (except subsections (1) and (2)) and [17N][54] of the Conservation Act 1987 shall, with any necessary modifications, apply with respect to such general policies, subject to the following provisions:
+    (3) For the purposes of this section, [sections 17B][55] (except subsections (1) and (2)) and [17N][56] of the Conservation Act 1987 shall, with any necessary modifications, apply with respect to such general policies, subject to the following provisions:
         
-    *   (a) in addition to the consultation required by [section 17B(3)(a)][53] of that Act, the Director-General shall also consult the responsible chief executive, the Secretary for Transport, and the Secretary for the Environment before preparing any such policy:
+    *   (a) in addition to the consultation required by [section 17B(3)(a)][55] of that Act, the Director-General shall also consult the responsible chief executive, the Secretary for Transport, and the Secretary for the Environment before preparing any such policy:
     
-    *   (b) as soon as practicable after a draft policy is prepared under [section 17B(3)][53] of that Act, the Director-General shall send a copy of it to each of the persons referred to in paragraph (a) of this subsection:
+    *   (b) as soon as practicable after a draft policy is prepared under [section 17B(3)][55] of that Act, the Director-General shall send a copy of it to each of the persons referred to in paragraph (a) of this subsection:
     
     *   (c) before sending a draft policy to the Conservation Authority, the Director-General shall consider any comments made by the persons referred to in paragraph (a).
     
-    Section 3B: inserted, on 10 April 1990, by [section 107][52] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 3B: inserted, on 10 April 1990, by [section 107][54] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 3B(3)(a): amended, on 1 July 1995, pursuant to [section 6(1)(a)][55] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
+    Section 3B(3)(a): amended, on 1 July 1995, pursuant to [section 6(1)(a)][57] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
 
 ##### 3C Conservation management strategies
     
 *   (1) Every conservation management strategy shall establish objectives for the integrated management of marine mammals under this Act.
     
-    (2) For the purposes of this section, the following provisions shall apply in addition to those in [section 17F][44] of the Conservation Act 1987:
+    (2) For the purposes of this section, the following provisions shall apply in addition to those in [section 17F][46] of the Conservation Act 1987:
         
-    *   (a) in addition to the consultation required by [section 17F(a)][44] of that Act, the Director-General shall consult the responsible chief executive, the Secretary for Transport, and all regional councils within the meaning of the [Local Government Act 2002][56] that are affected:
+    *   (a) in addition to the consultation required by [section 17F(a)][46] of that Act, the Director-General shall consult the responsible chief executive, the Secretary for Transport, and all regional councils within the meaning of the [Local Government Act 2002][58] that are affected:
     
-    *   (b) in addition to the notification required by [section 17F(a)][44] of that Act, the Director-General shall also send a copy of the draft strategy to the responsible chief executive and the Secretary for Transport:
+    *   (b) in addition to the notification required by [section 17F(a)][46] of that Act, the Director-General shall also send a copy of the draft strategy to the responsible chief executive and the Secretary for Transport:
     
     *   (c) before sending the strategy to the Boards affected, the Director-General shall consider any comments made by the responsible chief executive, the Secretary for Transport, and all such regional councils that are affected.
     
-    Section 3C: inserted, on 10 April 1990, by [section 107][52] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 3C: inserted, on 10 April 1990, by [section 107][54] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 3C(2)(a): amended, on 1 July 2003, by [section 262][57] of the Local Government Act 2002 (2002 No 84).
+    Section 3C(2)(a): amended, on 1 July 2003, by [section 262][59] of the Local Government Act 2002 (2002 No 84).
     
-    Section 3C(2)(a): amended, on 1 July 1995, pursuant to [section 6(1)(a)][55] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
+    Section 3C(2)(a): amended, on 1 July 1995, pursuant to [section 6(1)(a)][57] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
     
-    Section 3C(2)(b): amended, on 1 July 1995, pursuant to [section 6(1)(a)][55] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
+    Section 3C(2)(b): amended, on 1 July 1995, pursuant to [section 6(1)(a)][57] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
     
-    Section 3C(2)(c): amended, on 1 July 2003, by [section 262][57] of the Local Government Act 2002 (2002 No 84).
+    Section 3C(2)(c): amended, on 1 July 2003, by [section 262][59] of the Local Government Act 2002 (2002 No 84).
     
-    Section 3C(2)(c): amended, on 1 July 1995, pursuant to [section 6(1)(a)][55] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
+    Section 3C(2)(c): amended, on 1 July 1995, pursuant to [section 6(1)(a)][57] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
 
 ##### 3D Conservation management plans
     
 *   (1) The purpose of a conservation management plan under this section is to establish objectives for the management of a marine mammal sanctuary or sanctuaries.
     
-    (2) For the purposes of this section, [sections 17E][58] (except subsections (1), (4), (6), and (7)), [17G][59], [17H][60], [17I][61], and [17N][54] of the Conservation Act 1987 shall, with any necessary modifications, apply with respect to conservation management plans under this section, subject to the following provisions:
+    (2) For the purposes of this section, [sections 17E][60] (except subsections (1), (4), (6), and (7)), [17G][61], [17H][62], [17I][63], and [17N][56] of the Conservation Act 1987 shall, with any necessary modifications, apply with respect to conservation management plans under this section, subject to the following provisions:
         
-    *   (a) in addition to the consultation required by [section 17F(a)][44] of that Act (as applied by [section 17G(1)][59] of that Act), the Director-General shall also consult the responsible chief executive, the Secretary for Transport, and all regional councils within the meaning of the [Local Government Act 2002][56] that are affected:
+    *   (a) in addition to the consultation required by [section 17F(a)][46] of that Act (as applied by [section 17G(1)][61] of that Act), the Director-General shall also consult the responsible chief executive, the Secretary for Transport, and all regional councils within the meaning of the [Local Government Act 2002][58] that are affected:
     
-    *   (b) in addition to the notification required by [section 17F(a)][44] of that Act (as so applied), the Director-General shall also send a copy of the draft plan to the responsible chief executive, the Secretary for Transport, and all such affected regional councils:
+    *   (b) in addition to the notification required by [section 17F(a)][46] of that Act (as so applied), the Director-General shall also send a copy of the draft plan to the responsible chief executive, the Secretary for Transport, and all such affected regional councils:
     
     *   (c) before sending the plans to the Boards affected, the Director-General shall consider any comments made by the responsible chief executive, the Secretary for Transport, and all such regional councils that are affected.
     
-    Section 3D: inserted, on 10 April 1990, by [section 107][52] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 3D: inserted, on 10 April 1990, by [section 107][54] of the Conservation Law Reform Act 1990 (1990 No 31).
     
     Section 3D(2): amended, on 25 November 1994, by section 2 of the Marine Mammals Protection Amendment Act 1994 (1994 No 111).
     
-    Section 3D(2)(a): amended, on 1 July 2003, by [section 262][57] of the Local Government Act 2002 (2002 No 84). 
+    Section 3D(2)(a): amended, on 1 July 2003, by [section 262][59] of the Local Government Act 2002 (2002 No 84). 
     
-    Section 3D(2)(a): amended, on 1 July 1995, pursuant to [section 6(1)(a)][55] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
+    Section 3D(2)(a): amended, on 1 July 1995, pursuant to [section 6(1)(a)][57] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
     
-    Section 3D(2)(b): amended, on 1 July 1995, pursuant to [section 6(1)(a)][55] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
+    Section 3D(2)(b): amended, on 1 July 1995, pursuant to [section 6(1)(a)][57] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
     
-    Section 3D(2)(c): amended, on 1 July 2003, by [section 262][57] of the Local Government Act 2002 (2002 No 84).
+    Section 3D(2)(c): amended, on 1 July 2003, by [section 262][59] of the Local Government Act 2002 (2002 No 84).
     
-    Section 3D(2)(c): amended, on 1 July 1995, pursuant to [section 6(1)(a)][55] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
+    Section 3D(2)(c): amended, on 1 July 1995, pursuant to [section 6(1)(a)][57] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
 
 ##### 3E Population management plans
     
@@ -356,7 +360,7 @@ An Act to make provision for the protection, conservation, and management of mar
     
     (2) In the case of any marine mammals ranging outside New Zealand fisheries waters, the maximum allowable level of fishing-related mortality set under paragraph (f) or paragraph (g) of subsection (1) shall be based on a fair and equitable consideration of the proportion that the estimated fishing-related mortality of marine mammals within those waters bears to the total estimated mortality of marine mammals in all waters (including waters outside New Zealand fisheries waters).
     
-    Section 3E: inserted, on 1 October 1996, by [section 316(1)][49] of the Fisheries Act 1996 (1996 No 88).
+    Section 3E: inserted, on 1 October 1996, by [section 316(1)][51] of the Fisheries Act 1996 (1996 No 88).
 
 ##### 3F Determining maximum allowable level of fishing-related mortality
     
@@ -366,7 +370,7 @@ An Act to make provision for the protection, conservation, and management of mar
     
     *   (b) in the case of any other marine mammal, shall determine a level of fishing-related mortality which should neither cause a net reduction in the size of the population nor seriously threaten the reproductive capacity of the species.
     
-    Section 3F: inserted, on 1 October 1996, by [section 316(1)][49] of the Fisheries Act 1996 (1996 No 88).
+    Section 3F: inserted, on 1 October 1996, by [section 316(1)][51] of the Fisheries Act 1996 (1996 No 88).
 
 ##### 3G Determining area-based maximum levels of fishing-related mortality
     
@@ -374,11 +378,11 @@ An Act to make provision for the protection, conservation, and management of mar
         
     *   (a) for populations of threatened species that are geographically or genetically discrete; and
     
-    *   (b) for areas corresponding to areas having effect under the [Fisheries Act 1996][62] as fisheries management areas or quota management areas.
+    *   (b) for areas corresponding to areas having effect under the [Fisheries Act 1996][64] as fisheries management areas or quota management areas.
     
     (2) In setting any area-based limit for a threatened species under [section 3E(1)(g)][9], the Minister shall determine a level of fishing-related mortality for a discrete population referred to in subsection (1) which should neither cause a net reduction in the size of the population nor seriously threaten the reproductive capacity of that population.
     
-    Section 3G: inserted, on 1 October 1996, by [section 316(1)][49] of the Fisheries Act 1996 (1996 No 88).
+    Section 3G: inserted, on 1 October 1996, by [section 316(1)][51] of the Fisheries Act 1996 (1996 No 88).
 
 ##### 3H Procedure for preparation and approval of population management plans
     
@@ -448,9 +452,9 @@ An Act to make provision for the protection, conservation, and management of mar
     
     (3) Any approved plan may be amended, and paragraph (a) and paragraphs (l) to (p) of subsection (1) and subsection (2) shall apply to every such amendment with any necessary modifications.
     
-    Section 3H: inserted, on 1 October 1996, by [section 316(1)][49] of the Fisheries Act 1996 (1996 No 88).
+    Section 3H: inserted, on 1 October 1996, by [section 316(1)][51] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 3H(1)(o): inserted, on 23 June 1998, by [section 36][63] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 3H(1)(o): inserted, on 23 June 1998, by [section 36][65] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
 
 ##### 4 Restrictions on holding or taking marine mammals
     
@@ -464,9 +468,9 @@ An Act to make provision for the protection, conservation, and management of mar
     
     (1A) The Minister may from time to time, by notice in the _Gazette_, prescribe criteria and standards in respect of any kind of permit referred to in subsection (1); and the prescribed criteria and standards shall be deemed to form part of permits of that kind and shall be complied with accordingly.
     
-    (2) Subject to [section 5(3)][14] and to any regulations made under [section 28][37], no person shall import into New Zealand or export from New Zealand any marine mammal or marine mammal product except pursuant to a permit issued under this Act.
+    (2) Subject to [section 5(3)][14] and to any regulations made under [section 28][39], no person shall import into New Zealand or export from New Zealand any marine mammal or marine mammal product except pursuant to a permit issued under this Act.
     
-    (3) Nothing in subsection (2) shall apply with respect to any whale product the subject of an order made under [section 54][64] or [section 56][65] of the Customs and Excise Act 1996\.
+    (3) Nothing in subsection (2) shall apply with respect to any whale product the subject of an order made under [section 54][66] or [section 56][67] of the Customs and Excise Act 1996\.
     
     (4) \[Repealed\]
     
@@ -484,13 +488,13 @@ An Act to make provision for the protection, conservation, and management of mar
     
     Section 4(1A): inserted, on 25 November 1994, by section 3(1) of the Marine Mammals Protection Act Amendment 1994 (1994 No 111).
     
-    Section 4(3): amended, on 1 October 1996, by [section 289(1)][66] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 4(3): amended, on 1 October 1996, by [section 289(1)][68] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 4(4): repealed, on 1 April 1987, by [section 65(1)][51] of the Conservation Act 1987 (1987 No 65).
+    Section 4(4): repealed, on 1 April 1987, by [section 65(1)][53] of the Conservation Act 1987 (1987 No 65).
     
-    Section 4(5)(a): amended, on 1 April 1987, pursuant to [section 65(1)][51] of the Conservation Act 1987 (1987 No 65).
+    Section 4(5)(a): amended, on 1 April 1987, pursuant to [section 65(1)][53] of the Conservation Act 1987 (1987 No 65).
     
-    Section 4(5)(b): amended, on 1 April 1987, pursuant to [section 65(1)][51] of the Conservation Act 1987 (1987 No 65).
+    Section 4(5)(b): amended, on 1 April 1987, pursuant to [section 65(1)][53] of the Conservation Act 1987 (1987 No 65).
 
 ##### 5 Application for permit
     
@@ -572,11 +576,15 @@ An Act to make provision for the protection, conservation, and management of mar
 
 ##### 9 Offence to take marine mammal without permit
     
-*   (1) Every person commits an offence and is liable to imprisonment for a term not exceeding 6 months or to a fine not exceeding $250,000, and to a further fine not exceeding $10,000 for every marine mammal in respect of which the offence was committed, who takes, has in possession, exports, imports, has on board any vessel, vehicle, aircraft, or hovercraft, or has control of any marine mammal, otherwise than under this Act or a permit.
+*   (1) Every person commits an offence and is liable to imprisonment for a term not exceeding 2 years or to a fine not exceeding $250,000 who takes, has in possession, exports, imports, has on board any vessel, vehicle, aircraft, or hovercraft, or has control of any marine mammal, otherwise than under this Act or a permit.
     
     (2) Upon the conviction of any person for an offence against subsection (1), any marine mammal unlawfully taken, in possession, under the control of any person, or on board any vessel, vehicle, aircraft, or hovercraft, and all vessels, vehicles, aircraft, hovercraft, gear, nets, tackle, equipment, and apparatus used in respect of the commission of the offence shall be forfeit to the Crown, and shall be disposed of as the Minister thinks fit.
     
-    Section 9(1): substituted, on 1 October 1996, by [section 316(1)][49] of the Fisheries Act 1996 (1996 No 88).
+    Section 9(1): substituted, on 1 October 1996, by [section 316(1)][51] of the Fisheries Act 1996 (1996 No 88).
+    
+    Section 9(1): amended, on 25 October 2013, by [section 39(a)][69] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 9(1): amended, on 25 October 2013, by [section 39(b)][69] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
 
 ##### 10 Director-General to be notified of actions taken in respect of marine mammals
     
@@ -594,7 +602,7 @@ An Act to make provision for the protection, conservation, and management of mar
 
 ##### 11 Marine Mammals Officers
     
-*   (1) Every warranted officer, and every fisheries officer appointed under [section 196][67] of the Fisheries Act 1996, and every constable, shall be a Marine Mammals Officer for the purposes of this Act.
+*   (1) Every warranted officer, and every fisheries officer appointed under [section 196][70] of the Fisheries Act 1996, and every constable, shall be a Marine Mammals Officer for the purposes of this Act.
     
     (2) For the purposes of this Act, the Director-General may from time to time appoint any person to be a Marine Mammals Officer on such terms and conditions as may be approved. If any person appointed as an officer is a full-time officer or employee of the State services he shall not be entitled to any additional remuneration in respect of his appointment under this subsection.
     
@@ -604,29 +612,29 @@ An Act to make provision for the protection, conservation, and management of mar
     
     (5) Any person appointed under subsection (2) shall, on the expiration of the term of his appointment, or on the sooner expiry of his appointment by removal from office or resignation, surrender to the Director-General his warrant of appointment.
     
-    (6) No person appointed under subsection (2) shall, by virtue of that appointment, be deemed to be employed in the service of Her Majesty for the purposes of the [State Sector Act 1988][68] or the [Government Superannuation Fund Act 1956][69].
+    (6) No person appointed under subsection (2) shall, by virtue of that appointment, be deemed to be employed in the service of Her Majesty for the purposes of the [State Sector Act 1988][71] or the [Government Superannuation Fund Act 1956][72].
     
-    (7) Every person declared to be an officer under subsection (1) shall have and may exercise, in respect of supervising, administering, and enforcing the provisions of this Act, all the powers that an warranted officer has in relation to supervising, administering, and enforcing the provisions of the [Conservation Act 1987][47].
+    (7) Every person declared to be an officer under subsection (1) shall have and may exercise, in respect of supervising, administering, and enforcing the provisions of this Act, all the powers that an warranted officer has in relation to supervising, administering, and enforcing the provisions of the [Conservation Act 1987][49].
     
     (8) Every officer appointed under subsection (2) shall have such duties and may exercise such powers in relation to marine mammals as the Director-General may direct, being powers of no greater extent than those exercised by a warranted officer.
     
     (9) The Director-General shall issue to every officer (except a constable) a warrant showing the officer's authority to exercise any powers conferred on him pursuant to this section.
     
-    (10) The production by any officer of any warrant issued under this section or [section 59][70] of the Conservation Act 1987 or [section 196][67] of the Fisheries Act 1996 or of any evidence that the officer is a constable shall, until the contrary is proved, be sufficient authority for any such officer to do anything authorised by subsection (7) or subsection (8).
+    (10) The production by any officer of any warrant issued under this section or [section 59][73] of the Conservation Act 1987 or [section 196][70] of the Fisheries Act 1996 or of any evidence that the officer is a constable shall, until the contrary is proved, be sufficient authority for any such officer to do anything authorised by subsection (7) or subsection (8).
     
-    Section 11(1): amended, on 1 October 2001, pursuant to [section 314(1)(v)][71] of the Fisheries Act 1996 (1996 No 88).
+    Section 11(1): amended, on 1 October 2001, pursuant to [section 314(1)(v)][74] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 11(1): amended, on 1 April 1987, by [section 65(1)][51] of the Conservation Act 1987 (1987 No 65).
+    Section 11(1): amended, on 1 April 1987, by [section 65(1)][53] of the Conservation Act 1987 (1987 No 65).
     
-    Section 11(6): amended, on 1 April 1988, pursuant to [section 90(a) ][72]of the State Sector Act 1988 (1988 No 20).
+    Section 11(6): amended, on 1 April 1988, pursuant to [section 90(a) ][75]of the State Sector Act 1988 (1988 No 20).
     
-    Section 11(7): amended, on 1 April 1987, by [section 65(1)][51] of the Conservation Act 1987 (1987 No 65).
+    Section 11(7): amended, on 1 April 1987, by [section 65(1)][53] of the Conservation Act 1987 (1987 No 65).
     
-    Section 11(8): amended, on 1 April 1987, by [section 65(1)][51] of the Conservation Act 1987 (1987 No 65).
+    Section 11(8): amended, on 1 April 1987, by [section 65(1)][53] of the Conservation Act 1987 (1987 No 65).
     
-    Section 11(10): amended, on 1 October 2001, pursuant to [section 314(1)(v)][71] of the Fisheries Act 1996 (1996 No 88).
+    Section 11(10): amended, on 1 October 2001, pursuant to [section 314(1)(v)][74] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 11(10): amended, on 1 April 1987, by [section 65(1)][51] of the Conservation Act 1987 (1987 No 65).
+    Section 11(10): amended, on 1 April 1987, by [section 65(1)][53] of the Conservation Act 1987 (1987 No 65).
 
 ##### 12 Officers to be provided with subsistence and accommodation
     
@@ -638,9 +646,9 @@ An Act to make provision for the protection, conservation, and management of mar
 
 ##### 13 Powers of search
     
-*   (1) Subject to this Act and notwithstanding anything to the contrary in the [Conservation Act 1987][47], every officer who has reason to believe or suspect that a breach of this Act or of any regulation made under it has been or is being committed, may enter, inspect, and examine any vehicle, vessel, aircraft, or hovercraft.
+*   (1) Subject to this Act and notwithstanding anything to the contrary in the [Conservation Act 1987][49], every officer who has reason to believe or suspect that a breach of this Act or of any regulation made under it has been or is being committed, may enter, inspect, and examine any vehicle, vessel, aircraft, or hovercraft.
     
-    (2) The provisions of [Part 4][73] of the Search and Surveillance Act 2012 (except for [subpart 3][74]) apply in respect of the powers in subsection (1).
+    (2) The provisions of [Part 4][76] of the Search and Surveillance Act 2012 (except for [subpart 3][77]) apply in respect of the powers in subsection (1).
     
     (3) An officer shall not enter, inspect, or examine any aircraft or hovercraft unless he is accompanied by the pilot in command, or the owner, or a representative or agent of the owner, of the aircraft or hovercraft.
     
@@ -648,7 +656,7 @@ An Act to make provision for the protection, conservation, and management of mar
     
     (5) Every officer may, in the course of any search under this section or [section 14][23], open (by force if necessary) any container, package, or receptacle, and seize and take away any marine mammal supposedly illegally taken together with any such container, package, or receptacle, or seize and take away any thing which he has reason to believe will be evidence of a breach of the provisions of this Act or of any regulation made under it.
     
-    (5A) The provisions of [subparts 1][75], [5][76], [6][77], [7][78], [9][79], and [10][80] of Part 4 of the Search and Surveillance Act 2012 apply in respect of the powers in subsection (5).
+    (5A) The provisions of [subparts 1][78], [5][79], [6][80], [7][81], [9][82], and [10][83] of Part 4 of the Search and Surveillance Act 2012 apply in respect of the powers in subsection (5).
     
     (6) Every person in or about any dwellinghouse, place, vehicle, or vessel inspected under the provisions of this Act, and the pilot in command and the owner and every agent or representative of the owner of any aircraft or hovercraft so inspected, shall---
         
@@ -656,25 +664,25 @@ An Act to make provision for the protection, conservation, and management of mar
     
     *   (b) facilitate the removal of any container, package, receptacle, or thing.
     
-    Section 13(1): amended, on 1 April 1987, by [section 65(1)][51] of the Conservation Act 1987 (1987 No 65).
+    Section 13(1): amended, on 1 April 1987, by [section 65(1)][53] of the Conservation Act 1987 (1987 No 65).
     
-    Section 13(2): replaced, on 1 October 2012, by [section 274(1)][81] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 13(2): replaced, on 1 October 2012, by [section 274(1)][84] of the Search and Surveillance Act 2012 (2012 No 24).
     
     Section 13(4): amended, on 13 December 1979, by section 2 of the Marine Mammals Protection Amendment Act 1979 (1979 No 98).
     
-    Section 13(5A): inserted, on 1 October 2012, by [section 274(2)][81] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 13(5A): inserted, on 1 October 2012, by [section 274(2)][84] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 14 Officer may obtain warrant
     
-*   (1) An issuing officer (within the meaning of [section 3][82] of the Search and Surveillance Act 2012) may, on application by an officer made in the manner provided in [subpart 3][74] of Part 4 of that Act, issue a search warrant, to an officer named in the warrant, authorising the entry and search of any dwellinghouse, place, vehicle, aircraft, or hovercraft if the issuing officer is satisfied that there are reasonable grounds to suspect that---
+*   (1) An issuing officer (within the meaning of [section 3][85] of the Search and Surveillance Act 2012) may, on application by an officer made in the manner provided in [subpart 3][77] of Part 4 of that Act, issue a search warrant, to an officer named in the warrant, authorising the entry and search of any dwellinghouse, place, vehicle, aircraft, or hovercraft if the issuing officer is satisfied that there are reasonable grounds to suspect that---
         
     *   (a) any breach of this Act or any regulation made under it has been, is being, or will be committed; or
     
     *   (b) preparation has been made to commit a breach of this kind.
     
-    (2) The provisions of [Part 4][73] of the Search and Surveillance Act 2012 apply.
+    (2) The provisions of [Part 4][76] of the Search and Surveillance Act 2012 apply.
     
-    Section 14: replaced, on 1 October 2012, by [section 275][83] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 14: replaced, on 1 October 2012, by [section 275][86] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 15 Officers, etc, protected from proceedings
     
@@ -682,13 +690,13 @@ An Act to make provision for the protection, conservation, and management of mar
 
 ##### 16 Reporting of accidental death or injury
     
-*   (1) Where any person, in the course of fishing pursuant to any licence, permit, or permission granted or given under the [Fisheries Act 1983][84], accidentally or incidentally kills or injures a marine mammal he shall---
+*   (1) Where any person, in the course of fishing pursuant to any licence, permit, or permission granted or given under the [Fisheries Act 1983][87], accidentally or incidentally kills or injures a marine mammal he shall---
         
-    *   (a) if fishing from a vessel, record the event in the vessel's log and report the event in writing to an officer or a fishery officer (as defined in [section 2(1)][45] of the Fisheries Act 1996) not later than 48 hours after the arrival of the vessel in port; and
+    *   (a) if fishing from a vessel, record the event in the vessel's log and report the event in writing to an officer or a fishery officer (as defined in [section 2(1)][47] of the Fisheries Act 1996) not later than 48 hours after the arrival of the vessel in port; and
     
-    *   (b) in any other case, report the event in writing to an officer or a fishery officer (as defined in [section 2(1)][45] of the Fisheries Act 1996) as soon as practicable.
+    *   (b) in any other case, report the event in writing to an officer or a fishery officer (as defined in [section 2(1)][47] of the Fisheries Act 1996) as soon as practicable.
     
-    (2) Any person (not being a person to whom subsection (1) applies) who, by any means whatsoever, accidentally or incidentally kills or injures any marine mammal shall report the event to an officer or a fishery officer (as defined in [section 2(1)][45] of the Fisheries Act 1996) as soon as practicable.
+    (2) Any person (not being a person to whom subsection (1) applies) who, by any means whatsoever, accidentally or incidentally kills or injures any marine mammal shall report the event to an officer or a fishery officer (as defined in [section 2(1)][47] of the Fisheries Act 1996) as soon as practicable.
     
     (3) Every report under subsection (1) or subsection (2) shall include---
         
@@ -702,21 +710,29 @@ An Act to make provision for the protection, conservation, and management of mar
     
     (4) Every person commits an offence against this Act who contravenes subsection (1) or subsection (2).
     
-    Section 16(1): amended, on 1 October 1996, by [section 316(1)][49] of the Fisheries Act 1996 (1996 No 88).
+    (5) Every person commits an offence against this Act who refuses or fails to furnish any information or particulars required by the Director-General under subsection (3A).
     
-    Section 16(1): amended, on 1 October 1983, by [section 108(1)][85] of the Fisheries Act 1983 (1983 No 14).
+    (6) Every person who commits an offence against this section is liable on conviction before a District Court Judge to a fine not exceeding $10,000\.
     
-    Section 16(1)(a): amended, on 1 October 1996, by [section 316(1)][49] of the Fisheries Act 1996 (1996 No 88).
+    Section 16(1): amended, on 1 October 1996, by [section 316(1)][51] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 16(1)(b): amended, on 1 October 1996, by [section 316(1)][49] of the Fisheries Act 1996 (1996 No 88).
+    Section 16(1): amended, on 1 October 1983, by [section 108(1)][88] of the Fisheries Act 1983 (1983 No 14).
     
-    Section 16(2): amended, on 1 October 1996, by [section 316(1)][49] of the Fisheries Act 1996 (1996 No 88).
+    Section 16(1)(a): amended, on 1 October 1996, by [section 316(1)][51] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 16(3)(a): amended, on 1 October 1996, by [section 316(1)][49] of the Fisheries Act 1996 (1996 No 88).
+    Section 16(1)(b): amended, on 1 October 1996, by [section 316(1)][51] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 16(3)(c): amended, on 1 October 1996, by [section 316(1)][49] of the Fisheries Act 1996 (1996 No 88).
+    Section 16(2): amended, on 1 October 1996, by [section 316(1)][51] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 16(3A): inserted, on 1 October 1996, by [section 316(1)][49] of the Fisheries Act 1996 (1996 No 88).
+    Section 16(3)(a): amended, on 1 October 1996, by [section 316(1)][51] of the Fisheries Act 1996 (1996 No 88).
+    
+    Section 16(3)(c): amended, on 1 October 1996, by [section 316(1)][51] of the Fisheries Act 1996 (1996 No 88).
+    
+    Section 16(3A): inserted, on 1 October 1996, by [section 316(1)][51] of the Fisheries Act 1996 (1996 No 88).
+    
+    Section 16(5): inserted, on 25 October 2013, by [section 40][89] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 16(6): inserted, on 25 October 2013, by [section 40][89] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
 
 ##### 17 Purse seining
     
@@ -746,11 +762,11 @@ An Act to make provision for the protection, conservation, and management of mar
     
     Section 18(1)(a): amended (with effect on 1 April 1987), on 1 July 1987, by section 11(1) of the State-Owned Enterprises Amendment Act 1987 (1987 No 117).
     
-    Section 18(1)(a): amended, on 1 April 1987, by [section 65(1)][51] of the Conservation Act 1987 (1987 No 65).
+    Section 18(1)(a): amended, on 1 April 1987, by [section 65(1)][53] of the Conservation Act 1987 (1987 No 65).
     
-    Section 18(1)(c): amended, on 1 April 1987, by [section 65(1)][51] of the Conservation Act 1987 (1987 No 65).
+    Section 18(1)(c): amended, on 1 April 1987, by [section 65(1)][53] of the Conservation Act 1987 (1987 No 65).
     
-    Section 18(2): amended, on 1 April 1987, by [section 65(1)][51] of the Conservation Act 1987 (1987 No 65).
+    Section 18(2): amended, on 1 April 1987, by [section 65(1)][53] of the Conservation Act 1987 (1987 No 65).
 
 ##### 19 Destruction of diseased captive marine mammals
     
@@ -760,27 +776,27 @@ An Act to make provision for the protection, conservation, and management of mar
     
     *   (b) to be so injured or debilitated that it might be suffering---
     
-    an officer, veterinarian within the meaning of [section 4][86] of the Veterinarians Act 2005, or other person authorised by the Minister, may seize or destroy that marine mammal.
+    an officer, veterinarian within the meaning of [section 4][90] of the Veterinarians Act 2005, or other person authorised by the Minister, may seize or destroy that marine mammal.
     
     (2) The costs of and incidental to any such seizure or destruction shall be borne by the person keeping the marine mammal concerned.
     
     (3) No compensation shall be payable to any person under this section.
     
-    Section 19(1): amended, on 22 December 2005, pursuant to [section 95][87] of the Veterinarians Act 2005 (2005 No 126).
+    Section 19(1): amended, on 22 December 2005, pursuant to [section 95][91] of the Veterinarians Act 2005 (2005 No 126).
 
 ##### 20 No derogation from certain enactments
     
 *   Nothing in this Act shall derogate from the provisions of---
         
-    *   (a) the [Animal Welfare Act 1999][88]:
+    *   (a) the [Animal Welfare Act 1999][92]:
     
-    *   (b) [Part 4][89] of the Antarctica (Environmental Protection) Act 1994:
+    *   (b) [Part 4][93] of the Antarctica (Environmental Protection) Act 1994:
     
     *   (c) the Ross Dependency Whaling Regulations, 1929, as published in the _Gazette_ on 31 October 1929 at pages 2747 and 2748\.
     
-    Section 20(a): substituted, on 1 January 2000, by [section 194][90] of the Animal Welfare Act 1999 (1999 No 142).
+    Section 20(a): substituted, on 1 January 2000, by [section 194][94] of the Animal Welfare Act 1999 (1999 No 142).
     
-    Section 20(b): substituted, on 23 January 1998, by [section 56(1)][91] of the Antarctica (Environmental Protection) Act 1994 (1994 No 119).
+    Section 20(b): substituted, on 23 January 1998, by [section 56(1)][95] of the Antarctica (Environmental Protection) Act 1994 (1994 No 119).
 
 ##### 21 Advisory, research, and technical committees
     
@@ -792,11 +808,11 @@ An Act to make provision for the protection, conservation, and management of mar
     
     (4) No delegation under this section shall prevent the exercise of any power by the Minister.
     
-    (5) Every committee appointed under this section is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][92], and there shall be paid to the members of the committee, from money appropriated by Parliament for the purpose, remuneration by way of salary, fees, allowances, travelling allowances, or expenses in accordance with that Act and its provisions shall apply accordingly.
+    (5) Every committee appointed under this section is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][96], and there shall be paid to the members of the committee, from money appropriated by Parliament for the purpose, remuneration by way of salary, fees, allowances, travelling allowances, or expenses in accordance with that Act and its provisions shall apply accordingly.
     
     (6) The Minister may direct the Director-General to provide from his Department such services as may be necessary to enable any committee to discharge its functions more properly.
     
-    Section 21(6): amended, on 1 April 1987, by [section 65(1)][51] of the Conservation Act 1987 (1987 No 65).
+    Section 21(6): amended, on 1 April 1987, by [section 65(1)][53] of the Conservation Act 1987 (1987 No 65).
 
 ##### 22 Marine mammal sanctuaries
     
@@ -806,19 +822,27 @@ An Act to make provision for the protection, conservation, and management of mar
     
     (3) When defining and declaring a sanctuary under this section, the Minister may specify the activities that may or may not be engaged in within the sanctuary, and may impose restrictions in respect of the sanctuary.
     
-    (4) No marine mammal sanctuary shall be declared in any Maritime or National Park, in any reserve within the meaning of the [Reserves Act 1977][93], or in any marine reserve declared under the [Marine Reserves Act 1971][94].
+    (4) No marine mammal sanctuary shall be declared in any Maritime or National Park, in any reserve within the meaning of the [Reserves Act 1977][97], or in any marine reserve declared under the [Marine Reserves Act 1971][98].
     
-    (5) Every constable, and every ranger appointed under [section 38][95] of the Wildlife Act 1953, section 27 of the National Parks Act 1952, or under [section 8][96] of the Reserves Act 1977 shall have the authority to exercise any of the powers conferred on a ranger under [section 39][97] of the Wildlife Act 1953 in any marine mammal sanctuary.
+    (5) Every constable, and every ranger appointed under [section 38][99] of the Wildlife Act 1953, section 27 of the National Parks Act 1952, or under [section 8][100] of the Reserves Act 1977 shall have the authority to exercise any of the powers conferred on a ranger under [section 39][101] of the Wildlife Act 1953 in any marine mammal sanctuary.
 
 ##### 23 Offences and penalties
     
-*   (1) Every person commits an offence against this Act who---
+*   (1) Every person commits an offence who---
         
-    *   (a) acts in contravention of or fails to comply in any respect with any notice, direction, restriction, requirement, or condition given, made, or imposed under this Act or any regulations made under it; or
+    *   (a) acts in contravention of or fails to comply in any respect with any notice, direction, restriction, requirement, or condition given, made, or imposed under this Act; or
     
-    *   (b) makes any false or misleading statement or any material omission in any communication with or application or return to the Minister, to the Director-General, or to the Department of Conservation or any duly authorised officer or employee of the Department of Conservation, or any officer (whether in writing or otherwise), for the purposes of this Act or of any regulations made under it; or
+    *   (b) makes any false or misleading statement or any material omission in any communication with or application or return to the Minister, to the Director-General, or to the Department of Conservation, or any duly authorised officer or employee of the Department of Conservation, or any officer (whether in writing or otherwise), for the purposes of this Act; or
     
-    *   (c) refuses or fails to furnish any return or information or particulars required by the Minister, the Director-General, or any duly authorised officer or employee of the Department of Conservation, or any officer, for the purposes of this Act or of any regulations under it.
+    *   (c) refuses or fails to furnish any return or information or particulars required by the Minister, the Director-General, or any duly authorised officer or employee of the Department of Conservation, or any officer, for the purposes of this Act.
+    
+    (1A) Every person commits an offence against this Act who---
+        
+    *   (a) acts in contravention of or fails to comply in any respect with any notice, direction, restriction, requirement, or condition given, made, or imposed under any regulations made under this Act; or
+    
+    *   (b) makes any false or misleading statement or any material omission in any communication with or application or return to the Minister, to the Director-General, or to the Department of Conservation, or any duly authorised officer or employee of the Department of Conservation, or any officer (whether in writing or otherwise), for the purposes of any regulations made under this Act; or
+    
+    *   (c) refuses or fails to furnish any return or information or particulars required by the Minister, the Director-General, or any duly authorised officer or employee of the Department of Conservation, or any officer, for the purposes of any regulations made under this Act.
     
     (2) Every person commits an offence against this Act who---
         
@@ -826,23 +850,55 @@ An Act to make provision for the protection, conservation, and management of mar
     
     *   (b) uses any vehicle, vessel, aircraft, or hovercraft to herd or harass any marine mammal.
     
+    (2A) Every person who commits an offence against subsection (1) or [section 10][19] or [12(3)][21] is liable on conviction to,---
+        
+    *   (a) in the case of an individual, imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both:
+    
+    *   (b) in the case of a body corporate, a fine not exceeding $200,000:
+    
+    *   (c) in any case, where the offence is a continuing one, a further fine not exceeding $10,000 for every day on which the offence continues.
+    
     (3) Every person who commits an offence against this Act for which no penalty is provided otherwise than in this section is liable, on conviction before a District Court Judge, to a fine not exceeding---
         
-    *   (a) in the case of an offence against [section 17][26] or subsection (2) of this section, $30,000; and
+    *   (a) in the case of an offence against subsection (2) or [section 17][26],---
+            
+        *   (i) in the case of an individual, imprisonment for a term not exceeding 2 years or a fine not exceeding $100,000, or both:
+        
+        *   (ii) in the case of a body corporate, a fine not exceeding $200,000:
+        
+        *   (iii) in any case, where the offence is a continuing one, a further fine not exceeding $10,000 for every day on which the offence continues; and
+        
+        
     
     *   (b) in any other case, $10,000\.
     
-    Section 23(1)(b): amended, on 1 April 1987, by [section 65(1)][51] of the Conservation Act 1987 (1987 No 65).
+    Section 23(1): replaced, on 25 October 2013, by [section 41(1)][102] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
     
-    Section 23(1)(c): amended, on 1 April 1987, by [section 65(1)][51] of the Conservation Act 1987 (1987 No 65).
+    Section 23(1A): inserted, on 25 October 2013, by [section 41(1)][102] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
     
-    Section 23(3): amended, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 23(2A): inserted, on 25 October 2013, by [section 41(2)][102] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
     
-    Section 23(3): amended, on 1 April 1980, pursuant to [section 18(2)][99] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 23(3): amended, on 1 July 2013, by [section 413][103] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 23(3)(a): amended, on 1 October 1996, by [section 316(1)][49] of the Fisheries Act 1996 (1996 No 88).
+    Section 23(3): amended, on 1 April 1980, pursuant to [section 18(2)][104] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 23(3)(b): amended, on 1 October 1996, by [section 316(1)][49] of the Fisheries Act 1996 (1996 No 88).
+    Section 23(3)(a): replaced, on 25 October 2013, by [section 41(4)][102] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 23(3)(b): amended, on 1 October 1996, by [section 316(1)][51] of the Fisheries Act 1996 (1996 No 88).
+
+##### 23A Penalties for offences committed for commercial gain or reward
+    
+*   (1) If a person is convicted of an offence against this Act and, on sentencing for that offence, the court is satisfied beyond reasonable doubt that the offence was committed for the purpose of commercial gain or reward (whether or not any gain or reward is realised), the person is liable instead of any penalty otherwise prescribed to,---
+        
+    *   (a) in the case of an individual, imprisonment for a term not exceeding 5 years or a fine not exceeding $300,000, or both:
+    
+    *   (b) in the case of a body corporate, a fine not exceeding $300,000:
+    
+    *   (c) in any case, where the offence is a continuing one, a further fine not exceeding $20,000 for every day on which the offence continues.
+    
+    (2) Subsection (1) overrides every other provision of this Act to the contrary.
+    
+    Section 23A: inserted, on 25 October 2013, by [section 42][105] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
 
 ##### 24 Onus of proof in respect of certain offences
     
@@ -850,21 +906,27 @@ An Act to make provision for the protection, conservation, and management of mar
 
 ##### 25 Proceedings in respect of offences
     
-*   Despite anything to the contrary in [section 25][100] of the Criminal Procedure Act 2011, proceedings may be taken under this Act against any person for an offence committed at sea or beyond the outer limits of New Zealand fisheries waters at any time within 12 months from the date on which that person first lands in New Zealand after the commission of the offence or, for an offence committed in New Zealand, within 12 months after the date of the commission of the offence.
+*   Despite anything to the contrary in [section 25][106] of the Criminal Procedure Act 2011, proceedings may be taken under this Act against any person for an offence committed at sea or beyond the outer limits of New Zealand fisheries waters at any time within 12 months from the date on which that person first lands in New Zealand after the commission of the offence or, for an offence committed in New Zealand, within 12 months after the date of the commission of the offence.
     
-    Section 25: amended, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 25: amended, on 1 July 2013, by [section 413][103] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 26 Defences in respect of certain offences
     
 *   (1) Where any person (not being a New Zealand citizen) is charged with any offence under this Act, it shall be a defence to the charge if the defendant proves that the act or omission constituting the offence took place beyond the outer limits of New Zealand fisheries waters or, not being an offence concerning the importing of any marine mammal or marine mammal product, relates only to marine mammals taken beyond those outer limits.
     
-    (2) Where any New Zealand citizen is charged with any offence under this Act, it shall be a defence to the charge if the defendant proves that the act or omission constituting the offence took place beyond the outer limits of New Zealand fisheries waters and did not contravene any international agreement to which effect had been given by regulations made under [section 28][37] or by any other enactment.
+    (2) Where any New Zealand citizen is charged with any offence under this Act, it shall be a defence to the charge if the defendant proves that the act or omission constituting the offence took place beyond the outer limits of New Zealand fisheries waters and did not contravene any international agreement to which effect had been given by regulations made under [section 28][39] or by any other enactment.
     
     (3) Where any person is charged with any offence under this Act, it shall be a defence to the charge if the defendant proves that the act or omission constituting the offence took place in circumstances of stress or emergency and was necessary for the preservation, protection, or maintenance of human life.
     
     (4) Where any person is charged with killing or injuring any marine mammal contrary to the provisions of this Act or any regulations made under it and the provisions of subsection (1) or subsection (2) or subsection (3) do not apply in the circumstances of the case, it shall be a defence to the charge if the defendant proves that the death of or injury to the marine mammal was accidental, or incidental, and that the requirements of [section 16][25] were complied with.
     
-    Section 26(4): amended, on 1 October 1996, by [section 316(1)][49] of the Fisheries Act 1996 (1996 No 88).
+    Section 26(4): amended, on 1 October 1996, by [section 316(1)][51] of the Fisheries Act 1996 (1996 No 88).
+
+##### 26A Sentence of community work
+    
+*   A court may sentence any individual who commits an offence against this Act to a sentence of community work, and the provisions of [Part 2][107] of the Sentencing Act 2002 apply with all necessary modifications.
+    
+    Section 26A: inserted, on 25 October 2013, by [section 43][108] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
 
 ##### 27 Liability for causing officer to incur expense
     
@@ -906,11 +968,11 @@ An Act to make provision for the protection, conservation, and management of mar
     
     (2) All fees or other money (except fines) received pursuant to this Act shall be deemed to be a receipt of the Department of Conservation and shall be accounted for accordingly.
     
-    Section 29(2): amended, on 1 April 1987, by [section 65(1)][51] of the Conservation Act 1987 (1987 No 65).
+    Section 29(2): amended, on 1 April 1987, by [section 65(1)][53] of the Conservation Act 1987 (1987 No 65).
 
 ##### 30 Amendments, repeals, and revocations
     
-*   (1) The enactments specified in the [Schedule][40] are hereby amended in the manner indicated in that schedule.
+*   (1) The enactments specified in the [Schedule][42] are hereby amended in the manner indicated in that schedule.
     
     (2) The following enactments are hereby repealed:
         
@@ -955,7 +1017,7 @@ An Act to make provision for the protection, conservation, and management of mar
 ## Schedule  
 Enactments amended
 
-[s 30(1)][39]
+[s 30(1)][41]
 
 ##### Animals Protection Act 1960 (1960 No 30)
 
@@ -991,112 +1053,71 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Territorial Sea and Exclusive Economic Zone Act 1977 (1977 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][101]_.
+_Amendment(s) incorporated in the [Act(s)][109]_.
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Marine Mammals Protection Act 1978\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][102] ![](/images/external_link.gif).
+*   This is a reprint of the Marine Mammals Protection Act 1978 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][103] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][110] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][111] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][104] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][112] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][113] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][105] and [17E][106] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Conservation (Natural Heritage Protection) Act 2013 (2013 No 89): [Part 6][114]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Search and Surveillance Act 2012 (2012 No 24): [sections 274][84], [275][86]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][103]
     
+    Veterinarians Act 2005 (2005 No 126): [section 95][91]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Local Government Act 2002 (2002 No 84): [section 262][59]
     
-*   Search and Surveillance Act 2012 (2012 No 24): [sections 274][81], [275][83]
+    Animal Welfare Act 1999 (1999 No 142): [section 194][94]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][98]
+    Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67): [section 36][65]
     
-    Veterinarians Act 2005 (2005 No 126): [section 95][87]
+    Fisheries Act 1996 (1996 No 88): [sections 314(1)(v)][74], [316(1)][51]
     
-    Local Government Act 2002 (2002 No 84): [section 262][57]
+    Customs and Excise Act 1996 (1996 No 27): [section 289(1)][68]
     
-    Animal Welfare Act 1999 (1999 No 142): [section 194][90]
+    Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31): [section 6(1)(a)][57]
     
-    Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67): [section 36][63]
-    
-    Fisheries Act 1996 (1996 No 88): [sections 314(1)(v)][71], [316(1)][49]
-    
-    Customs and Excise Act 1996 (1996 No 27): [section 289(1)][66]
-    
-    Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31): [section 6(1)(a)][55]
-    
-    Antarctica (Environmental Protection) Act 1994 (1994 No 119): [section 56(1)][91]
+    Antarctica (Environmental Protection) Act 1994 (1994 No 119): [section 56(1)][95]
     
     Marine Mammals Protection Amendment Act 1994 (1994 No 111)
     
-    Maritime Transport Act 1994 (1994 No 104): [section 203][48]
+    Maritime Transport Act 1994 (1994 No 104): [section 203][50]
     
-    Conservation Law Reform Act 1990 (1990 No 31): [sections 106][50], [107][52]
+    Conservation Law Reform Act 1990 (1990 No 31): [sections 106][52], [107][54]
     
-    State Sector Act 1988 (1988 No 20): [section 90(a)][72]
+    State Sector Act 1988 (1988 No 20): [section 90(a)][75]
     
     State-Owned Enterprises Amendment Act 1987 (1987 No 117): section 11(1)
     
-    Conservation Act 1987 (1987 No 65): [section 65(1)][51]
+    Conservation Act 1987 (1987 No 65): [section 65(1)][53]
     
-    Fisheries Act 1983 (1983 No 14): [section 108(1)][85]
+    Fisheries Act 1983 (1983 No 14): [section 108(1)][88]
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][99]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][104]
     
     Marine Mammals Protection Amendment Act 1979 (1979 No 98)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1978/0080/latest/whole.html#DLM25113
 [2]: http://www.legislation.govt.nz/act/public/1978/0080/latest/whole.html#DLM25115
 [3]: http://www.legislation.govt.nz/act/public/1978/0080/latest/whole.html#DLM25116
@@ -1129,77 +1150,85 @@ _Amendment(s) incorporated in the [Act(s)][101]_.
 [30]: http://www.legislation.govt.nz/act/public/1978/0080/latest/whole.html#DLM25370
 [31]: http://www.legislation.govt.nz/act/public/1978/0080/latest/whole.html#DLM25372
 [32]: http://www.legislation.govt.nz/act/public/1978/0080/latest/whole.html#DLM25373
-[33]: http://www.legislation.govt.nz/act/public/1978/0080/latest/whole.html#DLM25377
-[34]: http://www.legislation.govt.nz/act/public/1978/0080/latest/whole.html#DLM25378
-[35]: http://www.legislation.govt.nz/act/public/1978/0080/latest/whole.html#DLM25379
-[36]: http://www.legislation.govt.nz/act/public/1978/0080/latest/whole.html#DLM25381
-[37]: http://www.legislation.govt.nz/act/public/1978/0080/latest/whole.html#DLM25382
-[38]: http://www.legislation.govt.nz/act/public/1978/0080/latest/whole.html#DLM25383
-[39]: http://www.legislation.govt.nz/act/public/1978/0080/latest/whole.html#DLM25385
-[40]: http://www.legislation.govt.nz/act/public/1978/0080/latest/whole.html#DLM25386
-[41]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM214692
-[42]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM104213
-[43]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM104086
-[44]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM104608
-[45]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM394199
-[46]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM334667
-[47]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM103609
-[48]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM336920
-[49]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM399975
-[50]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM209173
-[51]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM106995
-[52]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM209182
-[53]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM104294
-[54]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM104629
-[55]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM366838
-[56]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM170872
-[57]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM174088
-[58]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM104603
-[59]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM104611
-[60]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM104613
-[61]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM104615
-[62]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM394191
-[63]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM427273
-[64]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM378460
-[65]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM378465
-[66]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM380185
-[67]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM398601
-[68]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM129109
-[69]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM446000
-[70]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM106939
-[71]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM399971
-[72]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM130377
-[73]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM2136770
-[74]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM2136781
-[75]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM2136771
-[76]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM2136842
-[77]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM2136860
-[78]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM2136877
-[79]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM2136888
-[80]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM2136896
-[81]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM4356800
-[82]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM2136542
-[83]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM2137023
-[84]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM66581
-[85]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM70539
-[86]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM363866
-[87]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM364659
-[88]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM49663
-[89]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM343259
-[90]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM51965
-[91]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM343623
-[92]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM264952
-[93]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM444304
-[94]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM397837
-[95]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM277803
-[96]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM444464
-[97]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM277812
-[98]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM3360714
-[99]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM35085
-[100]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM3360067
-[101]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM442578
-[102]: http://www.pco.parliament.govt.nz/reprints/
-[103]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM195439
-[104]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[105]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM195468
-[106]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM195470
+[33]: http://www.legislation.govt.nz/act/public/1978/0080/latest/whole.html#DLM5697815
+[34]: http://www.legislation.govt.nz/act/public/1978/0080/latest/whole.html#DLM25377
+[35]: http://www.legislation.govt.nz/act/public/1978/0080/latest/whole.html#DLM25378
+[36]: http://www.legislation.govt.nz/act/public/1978/0080/latest/whole.html#DLM25379
+[37]: http://www.legislation.govt.nz/act/public/1978/0080/latest/whole.html#DLM5697817
+[38]: http://www.legislation.govt.nz/act/public/1978/0080/latest/whole.html#DLM25381
+[39]: http://www.legislation.govt.nz/act/public/1978/0080/latest/whole.html#DLM25382
+[40]: http://www.legislation.govt.nz/act/public/1978/0080/latest/whole.html#DLM25383
+[41]: http://www.legislation.govt.nz/act/public/1978/0080/latest/whole.html#DLM25385
+[42]: http://www.legislation.govt.nz/act/public/1978/0080/latest/whole.html#DLM25386
+[43]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM214692
+[44]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM104213
+[45]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM104086
+[46]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM104608
+[47]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM394199
+[48]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM334667
+[49]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM103609
+[50]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM336920
+[51]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM399975
+[52]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM209173
+[53]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM106995
+[54]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM209182
+[55]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM104294
+[56]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM104629
+[57]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM366838
+[58]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM170872
+[59]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM174088
+[60]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM104603
+[61]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM104611
+[62]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM104613
+[63]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM104615
+[64]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM394191
+[65]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM427273
+[66]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM378460
+[67]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM378465
+[68]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM380185
+[69]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM5469534
+[70]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM398601
+[71]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM129109
+[72]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM446000
+[73]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM106939
+[74]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM399971
+[75]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM130377
+[76]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM2136770
+[77]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM2136781
+[78]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM2136771
+[79]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM2136842
+[80]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM2136860
+[81]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM2136877
+[82]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM2136888
+[83]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM2136896
+[84]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM4356800
+[85]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM2136542
+[86]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM2137023
+[87]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM66581
+[88]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM70539
+[89]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM5469535
+[90]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM363866
+[91]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM364659
+[92]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM49663
+[93]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM343259
+[94]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM51965
+[95]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM343623
+[96]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM264952
+[97]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM444304
+[98]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM397837
+[99]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM277803
+[100]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM444464
+[101]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM277812
+[102]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM5469536
+[103]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM3360714
+[104]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM35085
+[105]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM5469537
+[106]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM3360067
+[107]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM135593
+[108]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM5469539
+[109]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM442578
+[110]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM2998516
+[111]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM2998515
+[112]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM2998532
+[113]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[114]: http://www.legislation.govt.nz/act/public/1978/0080/latest/link.aspx?id=DLM5469533
