@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 25 October 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -241,39 +241,45 @@ This Act is administered by the Department of Conservation.
 
 [69][103][][103][Presumptions relating to offences][103]
 
-[70][104][][104][Penalty for offences][104]
+[69A][104][][104][Penalties for certain offences][104]
 
-[71][105][][105][Removal and disposal of abandoned boats and vehicles, and vehicles parked in prohibited places][105]
+[69B][105][][105][Penalties for offences committed for commercial gain or reward][105]
 
-[Part 8][106]  
-[Miscellaneous provisions][106]
+[70][106][][106][Penalties][106]
 
-[72][107][][107][Former Authority and boards to cease to exist][107]
+[70A][107][][107][Sentence of community work][107]
 
-[73][108][][108][Assets, liabilities, and rights of former Authority and boards transferred to Crown][108]
+[71][108][][108][Removal and disposal of abandoned boats and vehicles, and vehicles parked in prohibited places][108]
 
-[74][109][][109][Director-General may execute documents on behalf of the Crown][109]
+[Part 8][109]  
+[Miscellaneous provisions][109]
 
-[75][110][][110][Director-General may act in proceedings on behalf of the Crown][110]
+[72][110][][110][Former Authority and boards to cease to exist][110]
 
-[76][111][][111][Certificates of title in respect of national parks][111]
+[73][111][][111][Assets, liabilities, and rights of former Authority and boards transferred to Crown][111]
 
-[77][112][][112][Approval under this Act not to authorise actions in contravention of other Acts][112]
+[74][112][][112][Director-General may execute documents on behalf of the Crown][112]
 
-[78][113][][113][Mining operations in national parks][113] \[Repealed\]
+[75][113][][113][Director-General may act in proceedings on behalf of the Crown][113]
 
-[79][114][][114][Certain other Acts unaffected][114]
+[76][114][][114][Certificates of title in respect of national parks][114]
 
-[80][115][][115][Amendments, repeals, and revocations][115]
+[77][115][][115][Approval under this Act not to authorise actions in contravention of other Acts][115]
 
-[Schedule 1][116]  
-[Enactments amended][116]
+[78][116][][116][Mining operations in national parks][116] \[Repealed\]
 
-[Schedule 2][117]  
-[Enactments repealed][117]
+[79][117][][117][Certain other Acts unaffected][117]
 
-[Schedule 3][118]  
-[Bylaws revoked][118]
+[80][118][][118][Amendments, repeals, and revocations][118]
+
+[Schedule 1][119]  
+[Enactments amended][119]
+
+[Schedule 2][120]  
+[Enactments repealed][120]
+
+[Schedule 3][121]  
+[Bylaws revoked][121]
 
 ---
 
@@ -295,13 +301,13 @@ An Act to consolidate and amend the law relating to national parks
     
     _animal_ means any mammal, bird, reptile, amphibian, fish (including shellfish) or related organism, insect, crustacean, or organism of every kind; but does not include a human being
     
-    _Authority_ means the New Zealand Conservation Authority established under [section 6A][119] of the Conservation Act 1987
+    _Authority_ means the New Zealand Conservation Authority established under [section 6A][122] of the Conservation Act 1987
     
-    _Board_ means a Conservation Board established under [section 6L][120] of the Conservation Act 1987
+    _Board_ means a Conservation Board established under [section 6L][123] of the Conservation Act 1987
     
     _boat_ means every description of vessel (including barges, rafts, lighters, and like vessels) however propelled; and includes a hovercraft
     
-    _certified aerodrome_ means an aerodrome licensed under the Civil Aviation Regulations 1953 or certificated under rules made under the [Civil Aviation Act 1990][121]
+    _certified aerodrome_ means an aerodrome licensed under the Civil Aviation Regulations 1953 or certificated under rules made under the [Civil Aviation Act 1990][124]
     
     _Chief Surveyor_, means the Chief Surveyor for each land district in which the park or any part of the park is situated
     
@@ -335,9 +341,9 @@ An Act to consolidate and amend the law relating to national parks
     
     under [section 49][67]
     
-    _conservation area_ has the same meaning as in the [Conservation Act 1987][122]
+    _conservation area_ has the same meaning as in the [Conservation Act 1987][125]
     
-    _conservation management strategy_ means a conservation management strategy approved under [section 17F][123] of the Conservation Act 1987
+    _conservation management strategy_ means a conservation management strategy approved under [section 17F][126] of the Conservation Act 1987
     
     _day_ means a period of 24 hours beginning at midnight and ending with the following midnight
     
@@ -353,7 +359,7 @@ An Act to consolidate and amend the law relating to national parks
     
     _indigenous animal_ means a native animal
     
-    _land district_ means a land district constituted under [section 22][124] of the Land Act 1948
+    _land district_ means a land district constituted under [section 22][127] of the Land Act 1948
     
     _lease_---
         
@@ -367,9 +373,9 @@ An Act to consolidate and amend the law relating to national parks
             
             
         
-        *   (ii) any document purporting to be a lease (whether or not the document gives the lessee exclusive possession of the land concerned) and issued under any enactment passed before the commencement of [section 2][125] of the National Parks Amendment Act 1996:
+        *   (ii) any document purporting to be a lease (whether or not the document gives the lessee exclusive possession of the land concerned) and issued under any enactment passed before the commencement of [section 2][128] of the National Parks Amendment Act 1996:
         
-        *   (iii) any document purporting to be a lease (whether or not the document gives the lessee exclusive possession of the land concerned) and issued under this Act before the commencement of the said [section 2][125]; but
+        *   (iii) any document purporting to be a lease (whether or not the document gives the lessee exclusive possession of the land concerned) and issued under this Act before the commencement of the said [section 2][128]; but
         
         
     
@@ -389,23 +395,23 @@ An Act to consolidate and amend the law relating to national parks
     
     *   (b) includes---
             
-        *   (i) any document purporting to be a licence (whether or not the licence gives an interest, or makes any provision, referred to in paragraph (a)) and issued under any enactment relating to national parks that was passed before the commencement of [section 2][125] of the National Parks Amendment Act 1996; and
+        *   (i) any document purporting to be a licence (whether or not the licence gives an interest, or makes any provision, referred to in paragraph (a)) and issued under any enactment relating to national parks that was passed before the commencement of [section 2][128] of the National Parks Amendment Act 1996; and
         
-        *   (ii) any document purporting to be a licence and purporting to grant an exclusive interest in land, and issued under this Act before the date of commencement of the said [section 2][125] or issued under any other enactment relating to national parks that was passed before that date; and
+        *   (ii) any document purporting to be a licence and purporting to grant an exclusive interest in land, and issued under this Act before the date of commencement of the said [section 2][128] or issued under any other enactment relating to national parks that was passed before that date; and
         
-        *   (iii) any document purporting to be a licence (whether or not the licence gives an interest, or makes any provision, referred to in paragraph (a)) and issued under this Act before the commencement of the said [section 2][125];---
+        *   (iii) any document purporting to be a licence (whether or not the licence gives an interest, or makes any provision, referred to in paragraph (a)) and issued under this Act before the commencement of the said [section 2][128];---
         
         
     
     and _licensee_ has a corresponding meaning
     
-    _local authority_ means a local authority within the meaning of the [Local Government Act 2002][126]
+    _local authority_ means a local authority within the meaning of the [Local Government Act 2002][129]
     
     _management plan_, in relation to any park, means a management plan prepared and approved for that park in accordance with [sections 45 to 48][62]
     
     _Minister_ means the Minister of Conservation
     
-    _motor vehicle_ has the same meaning as in the [Land Transport Act 1998][127]; and includes any motor vehicle from which the wheels have been removed
+    _motor vehicle_ has the same meaning as in the [Land Transport Act 1998][130]; and includes any motor vehicle from which the wheels have been removed
     
     _national park_ or _park_ means a national park constituted under this Act
     
@@ -425,7 +431,7 @@ An Act to consolidate and amend the law relating to national parks
         
         
     
-    but does not include any person who has seized or taken custody of the dog under this Act or the [Conservation Act 1987][122] or the [Animal Welfare Act 1999][128] or the [Dog Control Act 1996][129] or any order made under the Dog Control Act 1996 or the Animal Welfare Act 1999
+    but does not include any person who has seized or taken custody of the dog under this Act or the [Conservation Act 1987][125] or the [Animal Welfare Act 1999][131] or the [Dog Control Act 1996][132] or any order made under the Dog Control Act 1996 or the Animal Welfare Act 1999
     
     _permit_---
         
@@ -441,11 +447,11 @@ An Act to consolidate and amend the law relating to national parks
     
     _protected wildlife_ means---
         
-    *   (a) any animal for the time being absolutely protected pursuant to [section 3][130] of the Wildlife Act 1953:
+    *   (a) any animal for the time being absolutely protected pursuant to [section 3][133] of the Wildlife Act 1953:
     
-    *   (b) any animal for the time being partially protected pursuant to [section 5][131] of the Wildlife Act 1953, other than an animal in such circumstances that it may be hunted or killed under the authority of subsection (2) of that section:
+    *   (b) any animal for the time being partially protected pursuant to [section 5][134] of the Wildlife Act 1953, other than an animal in such circumstances that it may be hunted or killed under the authority of subsection (2) of that section:
     
-    *   (c) any animal that is a marine mammal within the meaning of the [Marine Mammals Protection Act 1978][132]
+    *   (c) any animal that is a marine mammal within the meaning of the [Marine Mammals Protection Act 1978][135]
     
     _protected wildlife vulnerable to dogs_ means---
         
@@ -457,87 +463,87 @@ An Act to consolidate and amend the law relating to national parks
     
     *   (d) any protected wildlife that feeds upon or in close proximity to the ground:
     
-    *   (e) any animal that is a marine mammal within the meaning of the [Marine Mammals Protection Act 1978][132]
+    *   (e) any animal that is a marine mammal within the meaning of the [Marine Mammals Protection Act 1978][135]
     
     _ranger_ means any ranger referred to in [section 40][51]; and, for the purposes of [Part 5A][76], includes a person---
         
     *   (a) who---
             
-        *   (i) is a warranted officer appointed under [section 59][133] of the Conservation Act 1987; or
+        *   (i) is a warranted officer appointed under [section 59][136] of the Conservation Act 1987; or
         
-        *   (ii) is a person deemed, by [section  59(2) or section 59(9)][133] of the Conservation Act 1987, to be a warranted officer for the purposes of that Act; and
+        *   (ii) is a person deemed, by [section  59(2) or section 59(9)][136] of the Conservation Act 1987, to be a warranted officer for the purposes of that Act; and
         
         
     
     *   (b) is acting on or in respect of any matter or thing arising, situated, or formerly situated, in the district, area, or areas for which the person is appointed or is deemed to be a warranted officer
     
-    _reserve_ has the same meaning as in the [Reserves Act 1977][134]
+    _reserve_ has the same meaning as in the [Reserves Act 1977][137]
     
     _specially protected area_ means any part of a national park set apart as a specially protected area under [section 12][17]
     
-    _vehicle_ has the same meaning as in the [Land Transport Act 1998][127]; and includes any vehicle from which the wheels have been removed
+    _vehicle_ has the same meaning as in the [Land Transport Act 1998][130]; and includes any vehicle from which the wheels have been removed
     
     _wilderness area_ means any part of a national park set apart as a wilderness area under [section 14][20].
     
     Compare: 1952 No 54 s 2; 1974 No 69 s 2
     
-    Section 2 **activity**: inserted, on 1 July 1996, by [section 2][125] of the National Parks Amendment Act 1996 (1996 No 4).
+    Section 2 **activity**: inserted, on 1 July 1996, by [section 2][128] of the National Parks Amendment Act 1996 (1996 No 4).
     
-    Section 2 **aircraft**: amended, on 1 September 1990, pursuant to [section 101(1)][135] of the Civil Aviation Act 1990 (1990 No 98).
+    Section 2 **aircraft**: amended, on 1 September 1990, pursuant to [section 101(1)][138] of the Civil Aviation Act 1990 (1990 No 98).
     
-    Section 2 **Authority**: inserted, on 10 April 1990, by [section 109(2)][136] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2 **Authority**: inserted, on 10 April 1990, by [section 109(2)][139] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2 **Board**: inserted, on 10 April 1990, by [section 109(2)][136] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2 **Board**: inserted, on 10 April 1990, by [section 109(2)][139] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2 **certified aerodrome**: inserted, on 1 July 1996, by [section 2][125] of the National Parks Amendment Act 1996 (1996 No 4).
+    Section 2 **certified aerodrome**: inserted, on 1 July 1996, by [section 2][128] of the National Parks Amendment Act 1996 (1996 No 4).
     
-    Section 2 **Commissioner**: repealed, on 1 April 1987, by [section 65(1)][137] of the Conservation Act 1987 (1987 No 65).
+    Section 2 **Commissioner**: repealed, on 1 April 1987, by [section 65(1)][140] of the Conservation Act 1987 (1987 No 65).
     
     Section 2 **companion dog**: inserted, on 2 May 1996, by section 2(1) of the National Parks Amendment Act (No 2) 1996 (1996 No 15).
     
-    Section 2 **concession** or **concession document**: inserted, on 1 July 1996, by [section 2][125] of the National Parks Amendment Act 1996 (1996 No 4).
+    Section 2 **concession** or **concession document**: inserted, on 1 July 1996, by [section 2][128] of the National Parks Amendment Act 1996 (1996 No 4).
     
-    Section 2 **concessionaire**: inserted, on 1 July 1996, by [section 2][125] of the National Parks Amendment Act 1996 (1996 No 4).
+    Section 2 **concessionaire**: inserted, on 1 July 1996, by [section 2][128] of the National Parks Amendment Act 1996 (1996 No 4).
     
-    Section 2 **conservation area**: inserted, on 1 April 1987, by [section 65(1)][137] of the Conservation Act 1987 (1987 No 65).
+    Section 2 **conservation area**: inserted, on 1 April 1987, by [section 65(1)][140] of the Conservation Act 1987 (1987 No 65).
     
-    Section 2 **conservation management strategy**: inserted, on 1 April 1990, by [section 109(2)][136] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2 **conservation management strategy**: inserted, on 1 April 1990, by [section 109(2)][139] of the Conservation Law Reform Act 1990 (1990 No 31).
     
     Section 2 **day**: inserted, on 2 May 1996, by section 2(1) of the National Parks Amendment Act (No 2) 1996 (1996 No 15).
     
-    Section 2 **Department**: amended, on 1 April 1987, by [section 65(1)][137] of the Conservation Act 1987 (1987 No 65).
+    Section 2 **Department**: amended, on 1 April 1987, by [section 65(1)][140] of the Conservation Act 1987 (1987 No 65).
     
-    Section 2 **Director-General**: amended, on 1 April 1987, by [section 65(1)][137] of the Conservation Act 1987 (1987 No 65).
+    Section 2 **Director-General**: amended, on 1 April 1987, by [section 65(1)][140] of the Conservation Act 1987 (1987 No 65).
     
-    Section 2 **foreshore**: replaced, on 7 July 2010, by [section 4][138] of the National Parks Amendment Act 2010 (2010 No 73).
+    Section 2 **foreshore**: replaced, on 7 July 2010, by [section 4][141] of the National Parks Amendment Act 2010 (2010 No 73).
     
     Section 2 **guide dog**: inserted, on 2 May 1996, by section 2(1) of the National Parks Amendment Act (No 2) 1996 (1996 No 15).
     
-    Section 2 **guide dog**: amended, on 30 April 2003, by [section 28(1)][139] of the Royal New Zealand Foundation of the Blind Act 2002 (2002 No 3 (P)).
+    Section 2 **guide dog**: amended, on 30 April 2003, by [section 28(1)][142] of the Royal New Zealand Foundation of the Blind Act 2002 (2002 No 3 (P)).
     
     Section 2 **indigenous animal**: inserted, on 25 November 1994, by section 2(1) of the National Parks Amendment Act 1994 (1994 No 112).
     
-    Section 2 **lease**: inserted, on 1 July 1996, by [section 2][125] of the National Parks Amendment Act 1996 (1996 No 4).
+    Section 2 **lease**: inserted, on 1 July 1996, by [section 2][128] of the National Parks Amendment Act 1996 (1996 No 4).
     
-    Section 2 **licence**: inserted, on 1 July 1996, by [section 2][125] of the National Parks Amendment Act 1996 (1996 No 4).
+    Section 2 **licence**: inserted, on 1 July 1996, by [section 2][128] of the National Parks Amendment Act 1996 (1996 No 4).
     
-    Section 2 **local authority**: replaced, on 1 July 2003, by [section 262][140] of the Local Government Act 2002 (2002 No 84).
+    Section 2 **local authority**: replaced, on 1 July 2003, by [section 262][143] of the Local Government Act 2002 (2002 No 84).
     
-    Section 2 **Minister**: amended, on 1 April 1987, by [section 65(1)][137] of the Conservation Act 1987 (1987 No 65).
+    Section 2 **Minister**: amended, on 1 April 1987, by [section 65(1)][140] of the Conservation Act 1987 (1987 No 65).
     
-    Section 2 **motor vehicle**: amended, on 1 March 1999, by [section 215(1)][141] of the Land Transport Act 1998 (1998 No 110).
+    Section 2 **motor vehicle**: amended, on 1 March 1999, by [section 215(1)][144] of the Land Transport Act 1998 (1998 No 110).
     
-    Section 2 **National Parks and Reserves Authority** or **Authority**: repealed, on 10 April 1990, by [section 109(1)(a)][136] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2 **National Parks and Reserves Authority** or **Authority**: repealed, on 10 April 1990, by [section 109(1)(a)][139] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2 **National parks and reserves board** or **board**: repealed, on 10 April 1990, by [section 109(1)(b)][136] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2 **National parks and reserves board** or **board**: repealed, on 10 April 1990, by [section 109(1)(b)][139] of the Conservation Law Reform Act 1990 (1990 No 31).
     
     Section 2 **native plants and animals**: inserted, on 25 November 1994, by section 2(2) of the National Parks Amendment Act 1994 (1994 No 112).
     
     Section 2 **owner**: inserted, on 2 May 1996, by section 2(1) of the National Parks Amendment Act (No 2) 1996 (1996 No 15).
     
-    Section 2 **owner**: amended, on 1 January 2000, by [section 194][142] of the Animal Welfare Act 1999 (1999 No 142).
+    Section 2 **owner**: amended, on 1 January 2000, by [section 194][145] of the Animal Welfare Act 1999 (1999 No 142).
     
-    Section 2 **permit**: inserted, on 1 July 1996, by [section 2][125] of the National Parks Amendment Act 1996 (1996 No 4).
+    Section 2 **permit**: inserted, on 1 July 1996, by [section 2][128] of the National Parks Amendment Act 1996 (1996 No 4).
     
     Section 2 **protected wildlife**: replaced, on 2 May 1996, by section 2(1) of the National Parks Amendment Act (No 2) 1996 (1996 No 15).
     
@@ -545,7 +551,7 @@ An Act to consolidate and amend the law relating to national parks
     
     Section 2 **ranger**: replaced, on 2 May 1996, by section 2(2) of the National Parks Amendment Act (No 2) 1996 (1996 No 15).
     
-    Section 2 **vehicle**: amended, on 1 March 1999, by [section 215(1)][141] of the Land Transport Act 1998 (1998 No 110).
+    Section 2 **vehicle**: amended, on 1 March 1999, by [section 215(1)][144] of the Land Transport Act 1998 (1998 No 110).
 
 ##### 3 Act to bind the Crown
     
@@ -638,15 +644,15 @@ National parks
     
     (2) The Arthur's Pass National Park named in subsection (1)(c) is the same national park as the Arthur Pass National Park existing immediately before the commencement of this Act.
     
-    (3) By virtue of [section 162][143] of the Ngāi Tahu Claims Settlement Act 1998, the Mount Cook National Park is now called the Aoraki/Mount Cook National Park.
+    (3) By virtue of [section 162][146] of the Ngāi Tahu Claims Settlement Act 1998, the Mount Cook National Park is now called the Aoraki/Mount Cook National Park.
     
     (4) By virtue of Order in Council dated 3 April 2000 (_Gazette_ 1 June 2000, p 1281), Urewera National Park is now called Te Urewera National Park.
     
     Compare: 1952 No 54 s 9; 1974 No 69 s 4
     
-    Section 6(3): inserted, on 1 October 1998, by [section 162(3)][143] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
+    Section 6(3): inserted, on 1 October 1998, by [section 162(3)][146] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
     
-    Section 6(4): inserted, on 27 September 2001, by [section 3][144] of the National Parks Amendment Act 2001 (2001 No 73).
+    Section 6(4): inserted, on 27 September 2001, by [section 3][147] of the National Parks Amendment Act 2001 (2001 No 73).
 
 ##### 7 Constitution of other national parks and addition of land to national parks
     
@@ -658,9 +664,9 @@ National parks
         
         *   (ii) \[Repealed\]
         
-        *   (iii) any land subject to the [Tourist and Health Resorts Control Act 1908][145] or the Tourist Hotel Corporation Act 1974; or
+        *   (iii) any land subject to the [Tourist and Health Resorts Control Act 1908][148] or the Tourist Hotel Corporation Act 1974; or
         
-        *   (iv) any reserve vested in Her Majesty subject to the [Reserves Act 1977][134]; or
+        *   (iv) any reserve vested in Her Majesty subject to the [Reserves Act 1977][137]; or
         
         *   (v) any land acquired by the Crown for national park purposes,---
         
@@ -674,29 +680,29 @@ National parks
     
     (2) The Minister shall not make any recommendation under subsection (1) except on the recommendation of the Authority made after consultation with the appropriate Board (if any).
     
-    (2A) Before making a recommendation under subsection (1)(d), the Minister must refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa under [section 27(2)][146] or [30][147] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, as the case may be.
+    (2A) Before making a recommendation under subsection (1)(d), the Minister must refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa under [section 27(2)][149] or [30][150] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, as the case may be.
     
     (3) \[Repealed\]
     
-    (4) No land subject to the [Tourist and Health Resorts Control Act 1908][145] or the Tourist Hotel Corporation Act 1974 shall be declared to be a park or to be added to any park, except on the joint recommendation of the Minister and the Minister of Tourism.
+    (4) No land subject to the [Tourist and Health Resorts Control Act 1908][148] or the Tourist Hotel Corporation Act 1974 shall be declared to be a park or to be added to any park, except on the joint recommendation of the Minister and the Minister of Tourism.
     
     (5) \[Repealed\]
     
-    (6) No foreshore shall be declared to be a park or to be added to any park, except on the joint recommendation of the Minister and the Minister of Transport, and, where the foreshore is under the control of a regional council under the [Resource Management Act 1991][148], except with the consent of that body.
+    (6) No foreshore shall be declared to be a park or to be added to any park, except on the joint recommendation of the Minister and the Minister of Transport, and, where the foreshore is under the control of a regional council under the [Resource Management Act 1991][151], except with the consent of that body.
     
     Compare: 1952 No 54 s 10(1); 1974 No 69 s 5(1)
     
-    Section 7(1)(a)(i): replaced, on 1 April 1987, by [section 65(1)][137] of the Conservation Act 1987 (1987 No 65).
+    Section 7(1)(a)(i): replaced, on 1 April 1987, by [section 65(1)][140] of the Conservation Act 1987 (1987 No 65).
     
-    Section 7(1)(a)(ii): repealed, on 1 April 1987, by [section 65(1)][137] of the Conservation Act 1987 (1987 No 65).
+    Section 7(1)(a)(ii): repealed, on 1 April 1987, by [section 65(1)][140] of the Conservation Act 1987 (1987 No 65).
     
-    Section 7(2A): inserted, on 1 November 2008, by [section 38][149] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30).
+    Section 7(2A): inserted, on 1 November 2008, by [section 38][152] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30).
     
-    Section 7(3): repealed, on 1 April 1987, by [section 65(1)][137] of the Conservation Act 1987 (1987 No 65).
+    Section 7(3): repealed, on 1 April 1987, by [section 65(1)][140] of the Conservation Act 1987 (1987 No 65).
     
-    Section 7(5): repealed, on 1 October 1991, by [section 362][150] of the Resource Management Act 1991 (1991 No 69).
+    Section 7(5): repealed, on 1 October 1991, by [section 362][153] of the Resource Management Act 1991 (1991 No 69).
     
-    Section 7(6): replaced, on 1 October 1991, by [section 362][150] of the Resource Management Act 1991 (1991 No 69).
+    Section 7(6): replaced, on 1 October 1991, by [section 362][153] of the Resource Management Act 1991 (1991 No 69).
 
 ##### 8 Investigation of proposals to add to parks or establish new parks
     
@@ -710,7 +716,7 @@ National parks
     
     (3) The Director-General shall, on receiving any such request, give notice to the responsible Minister of the Crown of the proposal under investigation.
     
-    Section 8(3): amended, on 2 January 1990, pursuant to [section 4(a)][151] of the Ministry of Energy (Abolition) Act 1989 (1989 No 140).
+    Section 8(3): amended, on 2 January 1990, pursuant to [section 4(a)][154] of the Ministry of Energy (Abolition) Act 1989 (1989 No 140).
 
 ##### 9 Acquisition of land for national parks
     
@@ -726,29 +732,29 @@ National parks
 
 ##### 10 Park land administered under certain other Acts
     
-*   (1) Any land that, at the commencement of this Act, is part of a national park and is being administered under the [Tourist and Health Resorts Control Act 1908][145] shall continue to be administered under that Act, but otherwise shall remain part of the park.
+*   (1) Any land that, at the commencement of this Act, is part of a national park and is being administered under the [Tourist and Health Resorts Control Act 1908][148] shall continue to be administered under that Act, but otherwise shall remain part of the park.
     
-    (2) Notwithstanding anything in the [Tourist and Health Resorts Control Act 1908][145], the Governor-General may from time to time, by Order in Council made on the recommendation of the Minister after consultation with the Minister of Tourism and the Authority, declare that any land described in the order, being part of a national park, shall be administered under the Act, and as from the date of the Order in Council or from such later date as may be specified in the order, the land shall be so administered, but otherwise shall remain part of the park.
+    (2) Notwithstanding anything in the [Tourist and Health Resorts Control Act 1908][148], the Governor-General may from time to time, by Order in Council made on the recommendation of the Minister after consultation with the Minister of Tourism and the Authority, declare that any land described in the order, being part of a national park, shall be administered under the Act, and as from the date of the Order in Council or from such later date as may be specified in the order, the land shall be so administered, but otherwise shall remain part of the park.
     
-    (3) Where any land that is part of a national park is being administered under the [Tourist and Health Resorts Control Act 1908][145], the Governor-General may, by Order in Council made on the recommendation of the Minister and the Minister of Tourism, declare that the land shall cease to be administered under that Act.
+    (3) Where any land that is part of a national park is being administered under the [Tourist and Health Resorts Control Act 1908][148], the Governor-General may, by Order in Council made on the recommendation of the Minister and the Minister of Tourism, declare that the land shall cease to be administered under that Act.
     
     (4) The Minister shall consult with the Minister of Tourism before---
         
-    *   (a) making any decision or taking any action under this Act that affects the administration of the [Tourist and Health Resorts Control Act 1908][145]; or
+    *   (a) making any decision or taking any action under this Act that affects the administration of the [Tourist and Health Resorts Control Act 1908][148]; or
     
-    *   (b) making any bylaw under [section 56][75] that affects the administration of the [Tourist and Health Resorts Control Act 1908][145].
+    *   (b) making any bylaw under [section 56][75] that affects the administration of the [Tourist and Health Resorts Control Act 1908][148].
     
     Compare: 1952 No 54 s 10(4)--(7); 1955 No 75 s 3(b)
     
-    Section 10(1): amended, on 23 March 1990, by [section 21(2)][152] of the Tourist Hotel Corporation of New Zealand Act 1989 (1989 No 130).
+    Section 10(1): amended, on 23 March 1990, by [section 21(2)][155] of the Tourist Hotel Corporation of New Zealand Act 1989 (1989 No 130).
     
-    Section 10(2): amended, on 23 March 1990, by [section 21(2)][152] of the Tourist Hotel Corporation of New Zealand Act 1989 (1989 No 130).
+    Section 10(2): amended, on 23 March 1990, by [section 21(2)][155] of the Tourist Hotel Corporation of New Zealand Act 1989 (1989 No 130).
     
-    Section 10(3): amended, on 23 March 1990, by [section 21(2)][152] of the Tourist Hotel Corporation of New Zealand Act 1989 (1989 No 130).
+    Section 10(3): amended, on 23 March 1990, by [section 21(2)][155] of the Tourist Hotel Corporation of New Zealand Act 1989 (1989 No 130).
     
-    Section 10(4)(a): amended, on 23 March 1990, by [section 21(2)][152] of the Tourist Hotel Corporation of New Zealand Act 1989 (1989 No 130).
+    Section 10(4)(a): amended, on 23 March 1990, by [section 21(2)][155] of the Tourist Hotel Corporation of New Zealand Act 1989 (1989 No 130).
     
-    Section 10(4)(b): amended, on 23 March 1990, by [section 21(2)][152] of the Tourist Hotel Corporation of New Zealand Act 1989 (1989 No 130).
+    Section 10(4)(b): amended, on 23 March 1990, by [section 21(2)][155] of the Tourist Hotel Corporation of New Zealand Act 1989 (1989 No 130).
 
 ##### 11 Exclusion of land from national park
     
@@ -772,7 +778,7 @@ National parks
     
 *   An Order in Council made under any of [sections 7][12], [10][15], and [12][17] must be published in the _Gazette_.
     
-    Section 12A: inserted, on 5 August 2013, by [section 77(3)][153] of the Legislation Act 2012 (2012 No 119).
+    Section 12A: inserted, on 5 August 2013, by [section 77(3)][156] of the Legislation Act 2012 (2012 No 119).
 
 ##### 13 Permits for access to specially protected areas
     
@@ -830,7 +836,7 @@ National parks
 
 ##### 14A Special provisions relating to wilderness areas under Reserves Act 1977 or Conservation Act 1987
     
-*   (1) This section applies where land set apart as or declared to be a wilderness area under the [Reserves Act 1977][134] or the [Conservation Act 1987][122] is constituted as a park.
+*   (1) This section applies where land set apart as or declared to be a wilderness area under the [Reserves Act 1977][137] or the [Conservation Act 1987][125] is constituted as a park.
     
     (2) Notwithstanding any other provision of this Act, where this section applies, the Minister may, by notice in the _Gazette_, declare that the wilderness area shall continue to be set apart as a wilderness area as if the land had been set apart as a wilderness area under [section 14][20].
     
@@ -842,7 +848,7 @@ National parks
     
     *   (c) after receipt of a recommendation under paragraph (b), the Minister may, by notice in the _Gazette_, make such further declarations or provisions with respect to the status of the area as a wilderness area as he or she considers appropriate; and that notice shall have effect according to its tenor.
     
-    Section 14A: inserted, on 13 March 1996, by [section 3][154] of the National Parks Amendment Act 1996 (1996 No 4).
+    Section 14A: inserted, on 13 March 1996, by [section 3][157] of the National Parks Amendment Act 1996 (1996 No 4).
 
 ##### 15 Amenities areas
     
@@ -875,13 +881,13 @@ National Parks and Reserves Authority
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 May 1990, by [section 112(2)][155] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Heading: repealed, on 25 May 1990, by [section 112(2)][158] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 17 National Parks and Reserves Authority
     
 *   \[Repealed\]
     
-    Section 17: repealed, on 25 May 1990, by [section 112(2)][155] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 17: repealed, on 25 May 1990, by [section 112(2)][158] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 18 Functions of Authority
     
@@ -903,88 +909,88 @@ National Parks and Reserves Authority
     
     Compare: 1952 No 54 s 6
     
-    Section 18(b): amended, on 10 April 1990, by [section 111(a)][156] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 18(b): amended, on 10 April 1990, by [section 111(a)][159] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 18(f): repealed, on 10 April 1990, by [section 111(b)][156] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 18(f): repealed, on 10 April 1990, by [section 111(b)][159] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 18A Minister to consult Authority in respect of access notice under Crown Minerals Act 1991
     
-*   The Minister shall consult the Authority in respect of any notice requesting an access arrangement in respect of a national park served on the Minister pursuant to [section 59][157] of the Crown Minerals Act 1991, as soon as practicable after receiving the notice.
+*   The Minister shall consult the Authority in respect of any notice requesting an access arrangement in respect of a national park served on the Minister pursuant to [section 59][160] of the Crown Minerals Act 1991, as soon as practicable after receiving the notice.
     
-    Section 18A: inserted, on 1 October 1991, by [section 121][158] of the Crown Minerals Act 1991 (1991 No 70).
+    Section 18A: inserted, on 1 October 1991, by [section 121][161] of the Crown Minerals Act 1991 (1991 No 70).
 
 ##### 19 Authority to implement policy of the Government
     
 *   \[Repealed\]
     
-    Section 19: repealed, on 25 May 1990, by [section 112(2)][155] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 19: repealed, on 25 May 1990, by [section 112(2)][158] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 20 Authority may release recommendations, reports, or advice to public
     
 *   \[Repealed\]
     
-    Section 20: repealed, on 25 May 1990, by [section 112(2)][155] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 20: repealed, on 25 May 1990, by [section 112(2)][158] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 21 Annual report
     
 *   \[Repealed\]
     
-    Section 21: repealed, on 25 May 1990, by [section 112(2)][155] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 21: repealed, on 25 May 1990, by [section 112(2)][158] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 22 Term of office of members of Authority
     
 *   \[Repealed\]
     
-    Section 22: repealed, on 25 May 1990, by [section 112(2)][155] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 22: repealed, on 25 May 1990, by [section 112(2)][158] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 23 Chairman of Authority
     
 *   \[Repealed\]
     
-    Section 23: repealed, on 25 May 1990, by [section 112(2)][155] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 23: repealed, on 25 May 1990, by [section 112(2)][158] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 24 Meetings of Authority
     
 *   \[Repealed\]
     
-    Section 24: repealed, on 25 May 1990, by [section 112(2)][155] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 24: repealed, on 25 May 1990, by [section 112(2)][158] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 25 Director-General entitled to attend meetings of Authority
     
 *   \[Repealed\]
     
-    Section 25: repealed, on 25 May 1990, by [section 112(2)][155] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 25: repealed, on 25 May 1990, by [section 112(2)][158] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26 Servicing of Authority
     
 *   \[Repealed\]
     
-    Section 26: repealed, on 25 May 1990, by [section 112(2)][155] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26: repealed, on 25 May 1990, by [section 112(2)][158] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 27 Fees and travelling expenses of members of Authority
     
 *   \[Repealed\]
     
-    Section 27: repealed, on 25 May 1990, by [section 112(2)][155] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 27: repealed, on 25 May 1990, by [section 112(2)][158] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 28 Public Bodies Meetings Act 1962 to apply to Authority
     
 *   \[Repealed\]
     
-    Section 28: repealed, on 1 March 1988, by [section 58(1)][159] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
+    Section 28: repealed, on 1 March 1988, by [section 58(1)][162] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
 
 ## Part 3  
 National parks and reserves boards
 
 \[Repealed\]
     
-*   Heading: repealed, on 19 July 1990, by [section 114(2)][160] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Heading: repealed, on 19 July 1990, by [section 114(2)][163] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 29 National parks and reserves boards
     
 *   \[Repealed\]
     
-    Section 29: repealed, on 19 July 1990, by [section 114(2)][160] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 29: repealed, on 19 July 1990, by [section 114(2)][163] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 30 Functions of Boards
     
@@ -1018,76 +1024,76 @@ National parks and reserves boards
     
     Compare: 1952 No 54 s 26; 1974 No 69 s 8
     
-    Section 30(1)(a): replaced, on 10 April 1990, by [section 113(1)][161] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 30(1)(a): replaced, on 10 April 1990, by [section 113(1)][164] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 30(1)(d): amended, on 1 April 1987, by [section 65(1)][137] of the Conservation Act 1987(1987 No 65).
+    Section 30(1)(d): amended, on 1 April 1987, by [section 65(1)][140] of the Conservation Act 1987(1987 No 65).
     
-    Section 30(1)(e): repealed, on 10 April 1990, by [section 113(2)][161] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 30(1)(e): repealed, on 10 April 1990, by [section 113(2)][164] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 30(1)(f): amended, on 1 April 1987, by [section 65(1)][137] of the Conservation Act 1987 (1987 No 65).
+    Section 30(1)(f): amended, on 1 April 1987, by [section 65(1)][140] of the Conservation Act 1987 (1987 No 65).
     
-    Section 30(2): inserted, on 10 April 1990, by [section 113(3)][161] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 30(2): inserted, on 10 April 1990, by [section 113(3)][164] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 31 Board may release recommendations, reports, or advice to public
     
 *   \[Repealed\]
     
-    Section 31: repealed, on 19 July 1990, by [section 114(2)][160] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 31: repealed, on 19 July 1990, by [section 114(2)][163] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 32 Membership of boards
     
 *   \[Repealed\]
     
-    Section 32: repealed, on 19 July 1990, by [section 114(2)][160] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 32: repealed, on 19 July 1990, by [section 114(2)][163] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 33 Term of office of members of board
     
 *   \[Repealed\]
     
-    Section 33: repealed, on 19 July 1990, by [section 114(2)][160] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 33: repealed, on 19 July 1990, by [section 114(2)][163] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 34 Chairman of board
     
 *   \[Repealed\]
     
-    Section 34: repealed, on 19 July 1990, by [section 114(2)][160] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 34: repealed, on 19 July 1990, by [section 114(2)][163] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 35 Meetings of Board
     
 *   \[Repealed\]
     
-    Section 35: repealed, on 19 July 1990, by [section 114(2)][160] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 35: repealed, on 19 July 1990, by [section 114(2)][163] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 36 Director-General entitled to attend meetings of board
     
 *   \[Repealed\]
     
-    Section 36: repealed, on 19 July 1990, by [section 114(2)][160] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 36: repealed, on 19 July 1990, by [section 114(2)][163] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 37 Servicing of boards
     
 *   \[Repealed\]
     
-    Section 37: repealed, on 19 July 1990, by [section 114(2)][160] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 37: repealed, on 19 July 1990, by [section 114(2)][163] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 38 Fees and travelling expenses of members of board
     
 *   \[Repealed\]
     
-    Section 38: repealed, on 19 July 1990, by [section 114(2)][160] of the Conservation Law Reform 1990 (1990 No 31).
+    Section 38: repealed, on 19 July 1990, by [section 114(2)][163] of the Conservation Law Reform 1990 (1990 No 31).
 
 ##### 39 Public Bodies Meetings Act 1962 to apply to board
     
 *   \[Repealed\]
     
-    Section 39: repealed, on 1 March 1988, by [section 58(1)][159] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
+    Section 39: repealed, on 1 March 1988, by [section 58(1)][162] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
 
 ## Part 4  
 Administration
 
 ##### 40 Rangers
     
-*   (1) There may from time to time be appointed under the [State Sector Act 1988][162] suitable persons to be rangers for the purposes of this Act.
+*   (1) There may from time to time be appointed under the [State Sector Act 1988][165] suitable persons to be rangers for the purposes of this Act.
     
     (2) The Minister may from time to time appoint a suitable person to be a ranger in an honorary capacity for the purposes of this Act.
     
@@ -1099,17 +1105,17 @@ Administration
     
     (6) Every honorary ranger shall be appointed to hold office during the pleasure of the Minister or for such specified term as the Minister thinks fit.
     
-    (7) No person appointed to be an honorary ranger shall, by virtue of that appointment, be deemed to be employed in the service of Her Majesty for the purposes of the [State Sector Act 1988][162] or of the [Government Superannuation Fund Act 1956][163].
+    (7) No person appointed to be an honorary ranger shall, by virtue of that appointment, be deemed to be employed in the service of Her Majesty for the purposes of the [State Sector Act 1988][165] or of the [Government Superannuation Fund Act 1956][166].
     
-    (8) Every constable, every warranted officer appointed under subsection (1) or deemed to have been appointed by subsection (9) of [section 59][133] of the Conservation Act 1987, and every ranger appointed under the [Wildlife Act 1953][164], shall, by virtue of his office, have all the powers of a ranger under this Act.
+    (8) Every constable, every warranted officer appointed under subsection (1) or deemed to have been appointed by subsection (9) of [section 59][136] of the Conservation Act 1987, and every ranger appointed under the [Wildlife Act 1953][167], shall, by virtue of his office, have all the powers of a ranger under this Act.
     
     Compare: 1952 No 54 ss 27A, 27B; 1968 No 136 ss 5(1), 6
     
-    Section 40(1): amended, on 1 April 1988, pursuant to [section 90(a)][165] of the State Sector Act 1988 (1988 No 20).
+    Section 40(1): amended, on 1 April 1988, pursuant to [section 90(a)][168] of the State Sector Act 1988 (1988 No 20).
     
-    Section 40(7): amended, on 1 April 1988, pursuant to [section 90(a)][165] of the State Sector Act 1988 (1988 No 20).
+    Section 40(7): amended, on 1 April 1988, pursuant to [section 90(a)][168] of the State Sector Act 1988 (1988 No 20).
     
-    Section 40(8): amended, on 10 April 1990, by [section 115][166] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 40(8): amended, on 10 April 1990, by [section 115][169] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 41 Delegation of Minister's powers and functions
     
@@ -1168,7 +1174,7 @@ Control and management of national parks
     
     Compare: 1952 No 54 ss 15, 26; 1974 No 69 s 8
     
-    Section 43(aa): inserted, on 10 April 1990, by [section 116][167] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 43(aa): inserted, on 10 April 1990, by [section 116][170] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 #### General policy statements
 
@@ -1196,15 +1202,15 @@ Control and management of national parks
     
     (8) Every current statement of general policy adopted by the Authority shall be available for public inspection free of charge during ordinary office hours at the office of the Director-General at Wellington and at such other places as the Authority decides.
     
-    Section 44(3)(c): amended, on 1 April 1987, by [section 65(1)][137] of the Conservation Act 1987 (1987 No 65).
+    Section 44(3)(c): amended, on 1 April 1987, by [section 65(1)][140] of the Conservation Act 1987 (1987 No 65).
     
-    Section 44(6): amended, on 17 May 2005, by [section 3][168] of the National Parks Amendment Act 2005 (2005 No 62).
+    Section 44(6): amended, on 17 May 2005, by [section 3][171] of the National Parks Amendment Act 2005 (2005 No 62).
     
-    Section 44(8): amended, on 1 April 1987, by [section 65(1)][137] of the Conservation Act 1987 (1987 No 65).
+    Section 44(8): amended, on 1 April 1987, by [section 65(1)][140] of the Conservation Act 1987 (1987 No 65).
 
 #### Conservation management strategies
     
-*   Heading: inserted, on 10 April 1990, by [section 117][169] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Heading: inserted, on 10 April 1990, by [section 117][172] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 44A Conservation management strategies
     
@@ -1212,7 +1218,7 @@ Control and management of national parks
     
     (2) Nothing in any management plan shall derogate from the provisions of any conservation management strategy.
     
-    Section 44A: inserted, on 10 April 1990, by [section 117][169] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 44A: inserted, on 10 April 1990, by [section 117][172] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 #### Management plans
 
@@ -1242,7 +1248,7 @@ Control and management of national parks
     
     (5) Where any such amendment is of such a nature that the Director-General and the Board affected consider that it will not materially affect the objectives or policies expressed in the plan or the public interest in the area concerned, the amendment shall be dealt with in accordance with [sections 47][64] (except subsections (1) to (3)) and [48][65].
     
-    Section 46: replaced, on 10 April 1990, by [section 118][170] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 46: replaced, on 10 April 1990, by [section 118][173] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 47 Procedure for preparing and reviewing management plans
     
@@ -1278,31 +1284,31 @@ Control and management of national parks
     
     (7) In exercising their functions, duties, and powers under this section, the Board, the Director-General, and the Authority shall have regard to any relevant concessions for the time being in force.
     
-    Section 47(1): amended, on 10 April 1990, by [section 119(1)][171] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 47(1): amended, on 10 April 1990, by [section 119(1)][174] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 47(1): amended, on 1 April 1987, by [section 65(1)][137] of the Conservation Act 1987 (1987 No 65).
+    Section 47(1): amended, on 1 April 1987, by [section 65(1)][140] of the Conservation Act 1987 (1987 No 65).
     
-    Section 47(1)(b): amended, on 1 April 1987, by [section 65(1)][137] of the Conservation Act 1987 (1987 No 65).
+    Section 47(1)(b): amended, on 1 April 1987, by [section 65(1)][140] of the Conservation Act 1987 (1987 No 65).
     
-    Section 47(2): amended, on 10 April 1990, by [section 119(2)(a)][171] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 47(2): amended, on 10 April 1990, by [section 119(2)(a)][174] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 47(2): amended, on 1 April 1987, by [section 65(1)][137] of the Conservation Act 1987 (1987 No 65).
+    Section 47(2): amended, on 1 April 1987, by [section 65(1)][140] of the Conservation Act 1987 (1987 No 65).
     
-    Section 47(2)(a): amended, on 1 April 1987, by [section 65(1)][137] of the Conservation Act 1987 (1987 No 65).
+    Section 47(2)(a): amended, on 1 April 1987, by [section 65(1)][140] of the Conservation Act 1987 (1987 No 65).
     
-    Section 47(2)(b): amended, on 1 April 1987, by [section 65(1)][137] of the Conservation Act 1987 (1987 No 65).
+    Section 47(2)(b): amended, on 1 April 1987, by [section 65(1)][140] of the Conservation Act 1987 (1987 No 65).
     
-    Section 47(2)(c): amended, on 10 April 1990, by [section 119(2)(b)][171] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 47(2)(c): amended, on 10 April 1990, by [section 119(2)(b)][174] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 47(3): replaced, on 10 April 1990, by [section 119(3)][171] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 47(3): replaced, on 10 April 1990, by [section 119(3)][174] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 47(4): replaced, on 10 April 1990, by [section 119(4)][171] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 47(4): replaced, on 10 April 1990, by [section 119(4)][174] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 47(5): replaced, on 10 April 1990, by [section 119(4)][171] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 47(5): replaced, on 10 April 1990, by [section 119(4)][174] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 47(6): inserted, on 10 April 1990, by [section 119(4)][171] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 47(6): inserted, on 10 April 1990, by [section 119(4)][174] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 47(7): inserted, on 1 July 1996, by [section 4][172] of the National Parks Amendment Act 1996 (1996 No 4).
+    Section 47(7): inserted, on 1 July 1996, by [section 4][175] of the National Parks Amendment Act 1996 (1996 No 4).
 
 ##### 48 Approval of management plans
     
@@ -1314,15 +1320,15 @@ Control and management of national parks
     
     (4) Every approved management plan shall be available for public inspection during ordinary office hours, free of charge, at places decided by the Board, and at the office of the Director-General at Wellington.
     
-    Section 48(1): amended, on 27 March 2008, by [section 4][173] of the National Parks Amendment Act 2008 (2008 No 14).
+    Section 48(1): amended, on 27 March 2008, by [section 4][176] of the National Parks Amendment Act 2008 (2008 No 14).
     
-    Section 48(4): amended, on 1 April 1987, by [section 65(1)][137] of the Conservation Act 1987 (1987 No 65).
+    Section 48(4): amended, on 1 April 1987, by [section 65(1)][140] of the Conservation Act 1987 (1987 No 65).
 
 #### Powers of Minister
 
 ##### 49 Concessions
     
-*   (1) The Minister may, in accordance with [Part 3B][174] of the Conservation Act 1987, grant a concession in respect of any park; and the said Part 3B shall apply as if references in that Part to a conservation area were references to a park and with any other necessary modifications.
+*   (1) The Minister may, in accordance with [Part 3B][177] of the Conservation Act 1987, grant a concession in respect of any park; and the said Part 3B shall apply as if references in that Part to a conservation area were references to a park and with any other necessary modifications.
     
     (2) Before granting any concession over a park, the Minister shall satisfy himself or herself that a concession---
         
@@ -1346,11 +1352,11 @@ Control and management of national parks
     
     (6) Nothing in this section authorises any person to do anything on or in respect of any private land.
     
-    (7) This section is subject to [Part 2][175] of the Forests (West Coast Accord) Act 2000, in relation to land that is added to a national park as a result of a declaration under [section 8(1)][176] of that Act.
+    (7) This section is subject to [Part 2][178] of the Forests (West Coast Accord) Act 2000, in relation to land that is added to a national park as a result of a declaration under [section 8(1)][179] of that Act.
     
-    Section 49: replaced, on 1 July 1996, by [section 5(1)][177] of the National Parks Amendment Act 1996 (1996 No 4).
+    Section 49: replaced, on 1 July 1996, by [section 5(1)][180] of the National Parks Amendment Act 1996 (1996 No 4).
     
-    Section 49(7): inserted, on 21 October 2000, by [section 22][178] of the Forests (West Coast Accord) Act 2000 (2000 No 45).
+    Section 49(7): inserted, on 21 October 2000, by [section 22][181] of the Forests (West Coast Accord) Act 2000 (2000 No 45).
 
 ##### 50 Accommodation within parks
     
@@ -1378,21 +1384,21 @@ Control and management of national parks
     
     Compare: 1952 No 54 ss 28(1)(c), (e), (f), (ii), (2), 30; 1964 No 102 s 2(1); 1968 No 136 s 5(2)(a), (b)
     
-    Section 50(1)(a): amended, on 10 April 1990, by [section 121(1)(a)][179] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 50(1)(a): amended, on 10 April 1990, by [section 121(1)(a)][182] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 50(1)(b): repealed, on 1 July 1996, by [section 6(1)(a)][180] of the National Parks Amendment Act 1996 (1996 No 4).
+    Section 50(1)(b): repealed, on 1 July 1996, by [section 6(1)(a)][183] of the National Parks Amendment Act 1996 (1996 No 4).
     
-    Section 50(1)(d): replaced, on 1 July 1996, by [section 6(2)][180] of the National Parks Amendment Act 1996 (1996 No 4).
+    Section 50(1)(d): replaced, on 1 July 1996, by [section 6(2)][183] of the National Parks Amendment Act 1996 (1996 No 4).
     
-    Section 50(2): amended, on 1 July 1996, by [section 6(1)(b)][180] of the National Parks Amendment Act 1996 (1996 No 4).
+    Section 50(2): amended, on 1 July 1996, by [section 6(1)(b)][183] of the National Parks Amendment Act 1996 (1996 No 4).
     
-    Section 50(3): repealed, on 1 July 1996, by [section 6(1)(c)][180] of the National Parks Amendment Act 1996 (1996 No 4).
+    Section 50(3): repealed, on 1 July 1996, by [section 6(1)(c)][183] of the National Parks Amendment Act 1996 (1996 No 4).
     
-    Section 50(4): inserted, on 10 April 1990, by [section 121(2)][179] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 50(4): inserted, on 10 April 1990, by [section 121(2)][182] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 50(4): amended, on 1 July 1996, by [section 6(1)(d)][180] of the National Parks Amendment Act 1996 (1996 No 4).
+    Section 50(4): amended, on 1 July 1996, by [section 6(1)(d)][183] of the National Parks Amendment Act 1996 (1996 No 4).
     
-    Section 50(5): inserted, on 10 April 1990, by [section 121(2)][179] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 50(5): inserted, on 10 April 1990, by [section 121(2)][182] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 51 Farming within parks
     
@@ -1400,7 +1406,7 @@ Control and management of national parks
     
     (2) The Minister may, in accordance with the management plan for the park, grant concessions under [section 49][67] over any part of the park that is land to which this section applies.
     
-    Section 51: replaced, on 1 July 1996, by [section 7][181] of the National Parks Amendment Act 1996 (1996 No 4).
+    Section 51: replaced, on 1 July 1996, by [section 7][184] of the National Parks Amendment Act 1996 (1996 No 4).
 
 ##### 51A Other activities in parks
     
@@ -1410,25 +1416,25 @@ Control and management of national parks
     
     (3) If the Minister authorises a person to do any thing, the Minister may impose any terms and conditions the Minister considers appropriate in the circumstances, including a condition requiring the payment of fees.
     
-    Section 51A: inserted, on 7 July 2010, by [section 5][182] of the National Parks Amendment Act 2010 (2010 No 73).
+    Section 51A: inserted, on 7 July 2010, by [section 5][185] of the National Parks Amendment Act 2010 (2010 No 73).
 
 ##### 52 Conservation Act 1987 to apply to leases and licences
     
 *   \[Repealed\]
     
-    Section 52: repealed, on 1 July 1996, by [section 8(1)][183] of the National Parks Amendment Act 1996 (1996 No 4).
+    Section 52: repealed, on 1 July 1996, by [section 8(1)][186] of the National Parks Amendment Act 1996 (1996 No 4).
 
 ##### 53 Powers of Minister where services provided by the Crown
     
 *   \[Repealed\]
     
-    Section 53: repealed, on 1 July 1996, by [section 8(1)][183] of the National Parks Amendment Act 1996 (1996 No 4).
+    Section 53: repealed, on 1 July 1996, by [section 8(1)][186] of the National Parks Amendment Act 1996 (1996 No 4).
 
 ##### 54 Minister may grant easements
     
 *   \[Repealed\]
     
-    Section 54: repealed, on 1 July 1996, by [section 8(1)][183] of the National Parks Amendment Act 1996 (1996 No 4).
+    Section 54: repealed, on 1 July 1996, by [section 8(1)][186] of the National Parks Amendment Act 1996 (1996 No 4).
 
 ##### 55 Roads within park
     
@@ -1438,7 +1444,7 @@ Control and management of national parks
     
     Compare: 1952 No 54 s 33
     
-    Section 55(2): amended, on 1 July 1996, by [section 9][184] of the National Parks Amendment Act 1996 (1996 No 4).
+    Section 55(2): amended, on 1 July 1996, by [section 9][187] of the National Parks Amendment Act 1996 (1996 No 4).
 
 ##### 56 Bylaws
     
@@ -1468,9 +1474,9 @@ Control and management of national parks
     
     *   (l) prescribing conditions upon which operators and pilots in command of aircraft may land and take off or set down, pick up, or recover within any park any person, livestock, carcass, or article of any description:
     
-    *   (m) prescribing fines, not exceeding $500 in any one case, for the breach of any bylaw made under paragraphs (a) to (j):
+    *   (m) prescribing fines, not exceeding $5,000 in any one case, for the breach of any bylaw made under paragraphs (a) to (j):
     
-    *   (n) prescribing fines, not exceeding $5,000 in any one case, for the breach of any bylaw made under paragraph (k) or paragraph (l).
+    *   (n) prescribing fines, not exceeding $10,000 in any one case, for the breach of any bylaw made under paragraphs (k) to (l).
     
     (2) Bylaws may be made under subsection (1) in respect of parks generally, or in respect of any 1 or more of those parks.
     
@@ -1478,7 +1484,11 @@ Control and management of national parks
     
     Compare: 1952 No 54 ss 38--40; 1970 No 92 s 2; 1973 No 80 s 3; 1977 No 82 s 6(1)
     
-    Section 56(1)(d): replaced, on 10 April 1990, by [section 124][185] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 56(1)(d): replaced, on 10 April 1990, by [section 124][188] of the Conservation Law Reform Act 1990 (1990 No 31).
+    
+    Section 56(1)(m): replaced, on 25 October 2013, by [section 10][189] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 56(1)(n): replaced, on 25 October 2013, by [section 10][189] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
 
 ## Part 5A  
 Control of dogs
@@ -1497,19 +1507,19 @@ Control of dogs
     
     (2) Without limiting the generality of subsection (1), it is hereby declared that the Director-General may refuse to issue a dog control permit if the permit is sought---
         
-    *   (a) in relation to a dog that is classified as a dangerous dog under [section 31][186] of the Dog Control Act 1996 or is not registered under that Act; or
+    *   (a) in relation to a dog that is classified as a dangerous dog under [section 31][190] of the Dog Control Act 1996 or is not registered under that Act; or
     
     *   (b) by a person who is---
             
-        *   (i) a person classified under [section 21(1)][187] of the Dog Control Act 1996 as a probationary owner; or
+        *   (i) a person classified under [section 21(1)][191] of the Dog Control Act 1996 as a probationary owner; or
         
-        *   (ii) a person disqualified under [section 25][188] of the Dog Control Act 1996 from being the owner of any dog; or
+        *   (ii) a person disqualified under [section 25][192] of the Dog Control Act 1996 from being the owner of any dog; or
         
         *   (iii) a person who has been convicted of an offence under the Dog Control and Hydatids Act 1982; or
         
-        *   (iv) a person who has been convicted of an offence against [section 26ZZP][189] or [section 26ZZQ][190] of the Conservation Act 1987 or [section 56I][85] of this Act; or
+        *   (iv) a person who has been convicted of an offence against [section 26ZZP][193] or [section 26ZZQ][194] of the Conservation Act 1987 or [section 56I][85] of this Act; or
         
-        *   (v) a person who has been convicted of an offence against the [Wildlife Act 1953][164], the [Marine Mammals Protection Act 1978][132], or the [Trade in Endangered Species Act 1989][191] or any regulations made under any of those Acts.
+        *   (v) a person who has been convicted of an offence against the [Wildlife Act 1953][167], the [Marine Mammals Protection Act 1978][135], or the [Trade in Endangered Species Act 1989][195] or any regulations made under any of those Acts.
         
         
     
@@ -1585,7 +1595,7 @@ Control of dogs
     
     Section 56E: inserted, on 2 May 1996, by section 3 of the National Parks Amendment Act (No 2) 1996 (1996 No 15).
     
-    Section 56E(1)(a): amended, on 1 October 2008, by [section 130(1)][192] of the Policing Act 2008 (2008 No 72).
+    Section 56E(1)(a): amended, on 1 October 2008, by [section 130(1)][196] of the Policing Act 2008 (2008 No 72).
 
 ##### 56F Seizure and destruction of dogs
     
@@ -1643,7 +1653,7 @@ Control of dogs
     
     *   (b) hold the dog in a kennel under the Department's custody; or
     
-    *   (c) place the dog in the custody of a territorial authority to be impounded under [section 69][193] of the Dog Control Act 1996\.
+    *   (c) place the dog in the custody of a territorial authority to be impounded under [section 69][197] of the Dog Control Act 1996\.
     
     (2) Where a dog is held by the Department under subsection (1)(b), the following provisions shall apply:
         
@@ -1661,9 +1671,9 @@ Control of dogs
     
     *   (d) the sale, destruction, or other disposal of a dog under these provisions shall not relieve any former owner of the dog of the liability to pay any fees incurred in respect of the dog's seizure, sustenance, and holding.
     
-    (3) Where a dog that is not registered under the [Dog Control Act 1996][129] but ought to be so registered is held by the Department under subsection (1)(b) of this section, no offence is committed against [section 42][194] of that Act by the person holding or disposing of the dog under subsection (1)(b).
+    (3) Where a dog that is not registered under the [Dog Control Act 1996][132] but ought to be so registered is held by the Department under subsection (1)(b) of this section, no offence is committed against [section 42][198] of that Act by the person holding or disposing of the dog under subsection (1)(b).
     
-    (4) Except as provided in subsection (1)(c), nothing in [section 69][193] of the Dog Control Act 1996 affects or limits the provisions of this section.
+    (4) Except as provided in subsection (1)(c), nothing in [section 69][197] of the Dog Control Act 1996 affects or limits the provisions of this section.
     
     Section 56G: inserted, on 2 May 1996, by section 3 of the National Parks Amendment Act (No 2) 1996 (1996 No 15).
 
@@ -1689,7 +1699,7 @@ Control of dogs
     
     Section 56I: inserted, on 2 May 1996, by section 3 of the National Parks Amendment Act (No 2) 1996 (1996 No 15).
     
-    Section 56I(1): amended, on 1 July 2013, by [section 413][195] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 56I(1): amended, on 1 July 2013, by [section 413][199] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 56J Power of ranger to request information
     
@@ -1709,7 +1719,7 @@ Control of dogs
     
     Section 56J: inserted, on 2 May 1996, by section 3 of the National Parks Amendment Act (No 2) 1996 (1996 No 15).
     
-    Section 56J(2): amended, on 1 July 2013, by [section 413][195] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 56J(2): amended, on 1 July 2013, by [section 413][199] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 56K Evidence in proceedings
     
@@ -1746,13 +1756,13 @@ Financial provisions
 
 ##### 57 Application of revenue from national parks
     
-*   (1) All money received by way of rent, penalties, fee, fines, royalties, donations, subsidies, or otherwise under this Act shall be paid in accordance with the [Public Finance Act 1989][196] into a Crown Bank Account, the Department's Departmental Bank Account, or a Trust Bank Account and applied, as directed by the Minister, in purchasing, taking on lease, managing, administering, maintaining, protecting, improving, or developing national parks, conducting research into matters related to national parks, or for educational purposes associated with national parks, or otherwise in carrying out the objects of this Act.
+*   (1) All money received by way of rent, penalties, fee, fines, royalties, donations, subsidies, or otherwise under this Act shall be paid in accordance with the [Public Finance Act 1989][200] into a Crown Bank Account, the Department's Departmental Bank Account, or a Trust Bank Account and applied, as directed by the Minister, in purchasing, taking on lease, managing, administering, maintaining, protecting, improving, or developing national parks, conducting research into matters related to national parks, or for educational purposes associated with national parks, or otherwise in carrying out the objects of this Act.
     
     (2) Notwithstanding subsection (1), where any money has been received under this Act by way of gift or bequest and the person who gave or bequeathed the money has directed that the money shall be used for any particular purpose or purposes or in any particular park or parks, that money shall be applied only in accordance with those directions.
     
-    Section 57(1): amended, on 25 January 2005, pursuant to [section 83(7)][197] of the Public Finance Act 1989 (1989 No 44).
+    Section 57(1): amended, on 25 January 2005, pursuant to [section 83(7)][201] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 57(1): amended, on 1 July 1989, by [section 86(1)][198] of the Public Finance Act 1989 (1989 No 44).
+    Section 57(1): amended, on 1 July 1989, by [section 86(1)][202] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 58 Application of proceeds where land excluded from national park
     
@@ -1770,15 +1780,15 @@ Financial provisions
     
     (2) Where, before the commencement of this Act, any land was excluded from a national park, then, notwithstanding anything in any other Act, subsection (1) shall apply with respect to the proceeds of any alienation of the land received after the commencement of this Act as if the land had been excluded from the national park under [section 11][16].
     
-    Compare: 1977 No 66 [s 82][199]
+    Compare: 1977 No 66 [s 82][203]
     
-    Section 58(1): amended, on 25 January 2005, pursuant to [section 83(7)][197] of the Public Finance Act 1989 (1989 No 44).
+    Section 58(1): amended, on 25 January 2005, pursuant to [section 83(7)][201] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 58(1): amended, on 1 July 1989, by [section 86(1)][198] of the Public Finance Act 1989 (1989 No 44).
+    Section 58(1): amended, on 1 July 1989, by [section 86(1)][202] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 58(1)(a): amended, on 1 July 1989, by [section 86(1)][198] of the Public Finance Act 1989 (1989 No 44).
+    Section 58(1)(a): amended, on 1 July 1989, by [section 86(1)][202] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 58(1)(b): amended, on 1 July 1989, by [section 86(1)][198] of the Public Finance Act 1989 (1989 No 44).
+    Section 58(1)(b): amended, on 1 July 1989, by [section 86(1)][202] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 59 Local authorities may make contributions for national park purposes
     
@@ -1841,25 +1851,29 @@ Offences
     
     (6) Any person convicted of an offence under this section shall, in addition to any penalty for which he may be liable for the offence, be liable to pay the cost of repairing or restoring any damage done to the park, or to any plant or property growing or being in the park in the course of committing such an offence.
     
-    (7) Any person convicted of an offence under this section shall, in addition to any penalty for which he may be liable for the offence and in addition to any costs for which he may be liable under subsection (6), be liable to pay twice the full market value of any animal or substance removed from the park if the District Court Judge is satisfied that the animal or substance was so removed in the course of committing such an offence for commercial or other gain.
+    (7) \[Repealed\]
     
-    (8) For the purposes of subsections (6) and (7), the cost or value shall be assessed by a District Court Judge, and shall be recoverable in like manner as a fine.
+    (8) For the purpose of subsection (6), the cost or value shall be assessed by a District Court Judge, and shall be recoverable in like manner as a fine.
     
     Compare: 1952 No 54 s 54; 1955 No 75 s 2; 1968 No 136 s 5(2)(d); 1974 No 69 s 10; 1977 No 82 ss 7(1), (3), 8(1), 9
     
-    Section 60(1)(d): amended, on 1 November 2006, by [section 35][200] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 60(1)(d): amended, on 1 November 2006, by [section 35][204] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 60(1)(j): replaced, on 1 July 1996, by [section 10(1)][201] of the National Parks Amendment Act 1996 (1996 No 4).
+    Section 60(1)(j): replaced, on 1 July 1996, by [section 10(1)][205] of the National Parks Amendment Act 1996 (1996 No 4).
     
-    Section 60(1)(l): inserted, on 1 July 1996, by [section 10(2)][201] of the National Parks Amendment Act 1996 (1996 No 4).
+    Section 60(1)(l): inserted, on 1 July 1996, by [section 10(2)][205] of the National Parks Amendment Act 1996 (1996 No 4).
     
-    Section 60(2)(a): amended, on 1 April 1987, by [section 65(1)][137] of the Conservation Act 1987 (1987 No 65).
+    Section 60(2)(a): amended, on 1 April 1987, by [section 65(1)][140] of the Conservation Act 1987 (1987 No 65).
     
-    Section 60(2)(c): amended, on 1 July 1996, by [section 10(3)(a)][201] of the National Parks Amendment Act 1996 (1996 No 4).
+    Section 60(2)(c): amended, on 1 July 1996, by [section 10(3)(a)][205] of the National Parks Amendment Act 1996 (1996 No 4).
     
-    Section 60(2)(d): amended, on 1 July 1996, by [section 10(3)(b)][201] of the National Parks Amendment Act 1996 (1996 No 4).
+    Section 60(2)(d): amended, on 1 July 1996, by [section 10(3)(b)][205] of the National Parks Amendment Act 1996 (1996 No 4).
     
-    Section 60(8): amended, on 1 July 2013, by [section 413][195] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 60(7): repealed, on 25 October 2013, by [section 11(1)][206] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 60(8): amended, on 25 October 2013, by [section 11(2)][206] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 60(8): amended, on 1 July 2013, by [section 413][199] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 61 Seizure and forfeiture of property
     
@@ -1867,15 +1881,15 @@ Offences
     
     (2) \[Repealed\]
     
-    (3) If, in any case to which paragraph (a) or (b) applies, no proceedings are taken in respect of that offence within 6 months after that seizure, or in proceedings taken within that period the charge is dismissed, then, despite [subpart 6][202] of Part 4 of the Search and Surveillance Act 2012,---
+    (3) If, in any case to which paragraph (a) or (b) applies, no proceedings are taken in respect of that offence within 6 months after that seizure, or in proceedings taken within that period the charge is dismissed, then, despite [subpart 6][207] of Part 4 of the Search and Surveillance Act 2012,---
         
-    *   (a) in any case where the item seized is protected wildlife or the nest or egg of any protected wildlife or the body of any protected wildlife, or any part thereof, it shall be dealt with under the [Wildlife Act 1953][164]:
+    *   (a) in any case where the item seized is protected wildlife or the nest or egg of any protected wildlife or the body of any protected wildlife, or any part thereof, it shall be dealt with under the [Wildlife Act 1953][167]:
     
     *   (b) in any case where the item seized is a protected New Zealand object, it shall be dealt with as follows:
             
-        *   (i) where, under the [Protected Objects Act 1975][203], it is the property of the Crown, it shall be delivered to the Secretary for Internal Affairs or, with his consent, kept in the custody of the Director-General:
+        *   (i) where, under the [Protected Objects Act 1975][208], it is the property of the Crown, it shall be delivered to the Secretary for Internal Affairs or, with his consent, kept in the custody of the Director-General:
         
-        *   (ii) in any other case, it shall be delivered to the person who is entitled to its custody under the [Protected Objects Act 1975][203].
+        *   (ii) in any other case, it shall be delivered to the person who is entitled to its custody under the [Protected Objects Act 1975][208].
         
         
     
@@ -1883,13 +1897,13 @@ Offences
     
     (4) Where in proceedings taken within that period in respect of that offence against the person from whom the property was seized, the defendant is convicted of the offence in respect of which the property was seized, then---
         
-    *   (a) in any case where that property is protected wildlife or the nest or egg of any protected wildlife or the body of any protected wildlife, or any part thereof, it shall be forfeited to the Crown and shall be dealt with under the [Wildlife Act 1953][164]:
+    *   (a) in any case where that property is protected wildlife or the nest or egg of any protected wildlife or the body of any protected wildlife, or any part thereof, it shall be forfeited to the Crown and shall be dealt with under the [Wildlife Act 1953][167]:
     
     *   (b) in any case where the item seized is a protected New Zealand object, it shall be dealt with as follows:
             
-        *   (i) where, under the [Protected Objects Act 1975][203], it is the property of the Crown, it shall be delivered to the Secretary for Internal Affairs or, with his consent, kept in the custody of the Director-General:
+        *   (i) where, under the [Protected Objects Act 1975][208], it is the property of the Crown, it shall be delivered to the Secretary for Internal Affairs or, with his consent, kept in the custody of the Director-General:
         
-        *   (ii) in any other case, it shall be delivered to the person who is entitled to its custody under the [Protected Objects Act 1975][203]:
+        *   (ii) in any other case, it shall be delivered to the person who is entitled to its custody under the [Protected Objects Act 1975][208]:
         
         
     
@@ -1899,7 +1913,7 @@ Offences
     
     (6) Any chainsaw, firearm, trap, net, or other like item found in the unlawful possession of any person in any park, and any item found in the possession of any person in any park and used in committing an offence in the park, may be seized by any ranger.
     
-    (7) Subject to subsection (3), the provisions of [Part 4][204] of the Search and Surveillance Act 2012 (except [subpart 3][205]) apply.
+    (7) Subject to subsection (3), the provisions of [Part 4][209] of the Search and Surveillance Act 2012 (except [subpart 3][210]) apply.
     
     (8) \[Repealed\]
     
@@ -1909,37 +1923,37 @@ Offences
     
     Compare: 1952 No 54 s 54(8)
     
-    Section 61(2): repealed, on 1 October 2012, by [section 285(2)][206] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 61(2): repealed, on 1 October 2012, by [section 285(2)][211] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 61(3): amended, on 1 July 2013, by [section 413][195] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 61(3): amended, on 1 July 2013, by [section 413][199] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 61(3): amended, on 1 October 2012, by [section 285(3)(a)][206] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 61(3): amended, on 1 October 2012, by [section 285(3)(a)][211] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 61(3): amended, on 1 October 2012, by [section 285(3)(b)][206] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 61(3): amended, on 1 October 2012, by [section 285(3)(b)][211] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 61(3): amended, on 1 October 2012, by [section 285(3)(c)][206] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 61(3): amended, on 1 October 2012, by [section 285(3)(c)][211] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 61(3)(a): amended, on 1 April 1987, by [section 65(1)][137] of the Conservation Act 1987 (1987 No 65).
+    Section 61(3)(a): amended, on 1 April 1987, by [section 65(1)][140] of the Conservation Act 1987 (1987 No 65).
     
-    Section 61(3)(b): amended, on 1 November 2006, by [section 35][200] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 61(3)(b): amended, on 1 November 2006, by [section 35][204] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 61(3)(b)(i): amended, on 1 November 2006, by [section 35][200] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 61(3)(b)(i): amended, on 1 November 2006, by [section 35][204] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 61(3)(b)(ii): amended, on 1 November 2006, by [section 35][200] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 61(3)(b)(ii): amended, on 1 November 2006, by [section 35][204] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 61(3)(c): repealed, on 1 October 2012, by [section 285(3)(d)][206] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 61(3)(c): repealed, on 1 October 2012, by [section 285(3)(d)][211] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 61(4)(b): amended, on 1 November 2006, by [section 35][200] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 61(4)(b): amended, on 1 November 2006, by [section 35][204] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 61(4)(b)(i): amended, on 1 November 2006, by [section 35][200] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 61(4)(b)(i): amended, on 1 November 2006, by [section 35][204] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 61(4)(b)(ii): amended, on 1 November 2006, by [section 35][200] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 61(4)(b)(ii): amended, on 1 November 2006, by [section 35][204] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 61(6): amended, on 1 October 2012, by [section 285(4)][206] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 61(6): amended, on 1 October 2012, by [section 285(4)][211] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 61(7): replaced, on 1 October 2012, by [section 285(5)][206] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 61(7): replaced, on 1 October 2012, by [section 285(5)][211] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 61(8): repealed, on 1 October 2012, by [section 285(5)][206] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 61(8): repealed, on 1 October 2012, by [section 285(5)][211] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 62 Trespassing animals
     
@@ -1969,13 +1983,13 @@ Offences
     
     (7) All money received by the Minister under this section shall be paid into a Crown Bank Account and dealt with in accordance with [section 57][90].
     
-    (8) Nothing in this section applies to wild animals (as defined in [section 2][207] of the Wild Animal Control Act 1977).
+    (8) Nothing in this section applies to wild animals (as defined in [section 2][212] of the Wild Animal Control Act 1977).
     
     Compare: 1952 No 54 s 54(5)--(7); 1977 No 82 s 9(2)(d)
     
-    Section 62(6): amended, on 1 July 2013, by [section 413][195] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 62(6): amended, on 1 July 2013, by [section 413][199] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 62(7): amended, on 25 January 2005, pursuant to [section 83(7)][197] of the Public Finance Act 1989 (1989 No 44).
+    Section 62(7): amended, on 25 January 2005, pursuant to [section 83(7)][201] of the Public Finance Act 1989 (1989 No 44).
     
     Section 62(8): inserted, on 25 November 1994, by section 6 of the National Parks Amendment Act 1994 (1994 No 112).
 
@@ -2013,13 +2027,13 @@ Offences
     
     *   (b) in the presence of the owner or other person in possession, open and search any parcel, package, case, bag, luggage, or other container in or on that vehicle, riding or pack animal, boat, aircraft, tent, caravan, hut, or bach.
     
-    (2) The provisions of [Part 4][204] of the Search and Surveillance Act 2012 (except [subpart 3][205] and [sections 118][208] and [119][209]) apply.
+    (2) The provisions of [Part 4][209] of the Search and Surveillance Act 2012 (except [subpart 3][210] and [sections 118][213] and [119][214]) apply.
     
     Compare: 1952 No 54 s 52A(d); 1977 No 82 s 7(1)
     
-    Section 65(1): amended, on 10 April 1990, by [section 125(1)][210] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 65(1): amended, on 10 April 1990, by [section 125(1)][215] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 65(2): replaced, on 1 October 2012, by [section 285(6)][206] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 65(2): replaced, on 1 October 2012, by [section 285(6)][211] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 66 Stopping and searching boats outside parks
     
@@ -2031,7 +2045,7 @@ Offences
     
     *   (c) arrest without warrant any person whom he has good cause to suspect of having committed such an offence.
     
-    (2) The provisions of [Part 4][204] of the Search and Surveillance Act 2012 (except [subpart 3][205]) apply.
+    (2) The provisions of [Part 4][209] of the Search and Surveillance Act 2012 (except [subpart 3][210]) apply.
     
     (3) \[Repealed\]
     
@@ -2051,15 +2065,15 @@ Offences
     
     *   (e) the master of any New Zealand Government ship within the meaning of section 2(1) of the Shipping and Seamen Act 1952\.
     
-    Compare: 1977 No 66 [s 100][211]
+    Compare: 1977 No 66 [s 100][216]
     
-    Section 66(1)(a): amended, on 10 April 1990, by [section 126(1)][212] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 66(1)(a): amended, on 10 April 1990, by [section 126(1)][217] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 66(1)(b): amended, on 1 November 2006, by [section 35][200] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 66(1)(b): amended, on 1 November 2006, by [section 35][204] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 66(2): replaced, on 1 October 2012, by [section 285(7)][206] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 66(2): replaced, on 1 October 2012, by [section 285(7)][211] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 66(3): repealed, on 1 October 2012, by [section 285(7)][206] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 66(3): repealed, on 1 October 2012, by [section 285(7)][211] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 67 Proceedings in respect of offences
     
@@ -2069,13 +2083,13 @@ Offences
     
     (3) Any officer in the department, although not the person who filed the charging document, may appear and conduct the prosecution in any proceedings for offences against this Act or any bylaws made under this Act.
     
-    Section 67: replaced, on 1 July 2013, by [section 413][195] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 67: replaced, on 1 July 2013, by [section 413][199] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 68 Time for filing charging document
     
-*   Despite anything to the contrary in [section 25][213] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or against any bylaws made under it ends on the date that is 12 months after the date on which the offence is discovered.
+*   Despite anything to the contrary in [section 25][218] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or against any bylaws made under it ends on the date that is 12 months after the date on which the offence is discovered.
     
-    Section 68: replaced, on 1 July 2013, by [section 413][195] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 68: replaced, on 1 July 2013, by [section 413][199] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 69 Presumptions relating to offences
     
@@ -2085,19 +2099,65 @@ Offences
     
     Compare: 1952 No 54 s 57; 1968 No 136 s 5(2)(e)
     
-    Section 69(1): amended, on 1 November 2006, by [section 35][200] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 69(1): amended, on 1 November 2006, by [section 35][204] of the Protected Objects Amendment Act 2006 (2006 No 37).
 
-##### 70 Penalty for offences
+##### 69A Penalties for certain offences
     
-*   Every person who commits an offence against this Act for which no penalty is prescribed elsewhere in this Act is liable on conviction,---
+*   (1) Every person who commits an offence against any of the provisions listed in subsection (2) is liable on conviction to the penalties prescribed in subsection (3).
+    
+    (2) The provisions are---
         
-    *   (a) where the offence was committed by an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,500, and where the offence is a continuing one, to a further fine not exceeding $250 for every day on which the offence has continued:
+    *   (a) [section 13(5)][19], which relates to access to specially protected areas:
     
-    *   (b) where the offence was committed by a corporation, to a fine not exceeding $25,000, and, where the offence is a continuing one to a further fine not exceeding $2,500 for every day on which the offence has continued.
+    *   (b) [section 60(1)(a) to (i), (k), and (l)][94], which relate to unauthorised acts in parks:
     
-    Compare: 1952 No 54 s 54(3); 1977 No 82 s 8(1)
+    *   (c) [section 60(2)(a) and (b)][94], which relate to failure to remove animals, vehicles, or aircraft from parks:
     
-    Section 70: amended, on 1 July 2013, by [section 413][195] of the Criminal Procedure Act 2011 (2011 No 81).
+    *   (d) [section 60(4)(b) and (c)][94], which relate to the use of firearms:
+    
+    *   (e) [section 63(a)][97], which relates to wilfully obstructing rangers.
+    
+    (3) The penalties are,---
+        
+    *   (a) in the case of an individual, imprisonment for a term not exceeding 2 years or a fine not exceeding $100,000, or both:
+    
+    *   (b) in the case of a body corporate, a fine not exceeding $200,000:
+    
+    *   (c) in any case, where the offence is a continuing one, a further fine not exceeding $10,000 for every day on which the offence continues.
+    
+    Section 69A: inserted, on 25 October 2013, by [section 12][219] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+
+##### 69B Penalties for offences committed for commercial gain or reward
+    
+*   (1) If a person is convicted of an offence against this Act and, on sentencing for that offence, the court is satisfied beyond reasonable doubt that the offence was committed for the purpose of commercial gain or reward (whether or not any gain or reward is realised), the person is liable instead of any penalty otherwise prescribed to,---
+        
+    *   (a) in the case of an individual, imprisonment for a term not exceeding 5 years or a fine not exceeding $300,000, or both:
+    
+    *   (b) in the case of a body corporate, a fine not exceeding $300,000:
+    
+    *   (c) in any case, where the offence is a continuing one, a further fine not exceeding $20,000 for every day on which the offence continues.
+    
+    (2) Subsection (1) overrides every other provision of this Act to the contrary.
+    
+    Section 69B: inserted, on 25 October 2013, by [section 12][219] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+
+##### 70 Penalties
+    
+*   Every person who commits an offence against this Act for which no penalty is prescribed elsewhere in this Act is liable on conviction to,---
+        
+    *   (a) in the case of an individual, imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both:
+    
+    *   (b) in the case of a body corporate, a fine not exceeding $200,000:
+    
+    *   (c) in any case, where the offence is a continuing one, a further fine not exceeding $10,000 for every day on which the offence continues.
+    
+    Section 70: replaced, on 25 October 2013, by [section 13][220] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+
+##### 70A Sentence of community work
+    
+*   A court may sentence any individual who commits an offence against this Act to a sentence of community work, and the provisions of [Part 2][221] of the Sentencing Act 2002 apply with all necessary modifications.
+    
+    Section 70A: inserted, on 25 October 2013, by [section 13][220] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
 
 ##### 71 Removal and disposal of abandoned boats and vehicles, and vehicles parked in prohibited places
     
@@ -2123,7 +2183,7 @@ Offences
         
         *   (ii) a licence to use the vehicle for the current licensing year is affixed to it,---
         
-        the Minister may give not less than 14 days' notice to the person last registered under [Part 17][214] of the Land Transport Act 1998 in respect of the vehicle of his intention to sell or destroy the vehicle.
+        the Minister may give not less than 14 days' notice to the person last registered under [Part 17][222] of the Land Transport Act 1998 in respect of the vehicle of his intention to sell or destroy the vehicle.
     
     (5) Any notice under subsection (4)(b) may be given by personal delivery to the person in question, or by posting it to him by registered letter addressed to him at his last known place of residence or business in New Zealand.
     
@@ -2139,19 +2199,19 @@ Offences
     
     (8) For the purposes of this section, and without limiting the meaning of the term **abandoned**, a boat or vehicle shall be deemed to have been abandoned if it is left unused for a period of more than 1 month without the approval of the Minister.
     
-    (9) In this section expressions defined in the [Land Transport Act 1998][127] have, in relation to any motor vehicle, the meanings so defined.
+    (9) In this section expressions defined in the [Land Transport Act 1998][130] have, in relation to any motor vehicle, the meanings so defined.
     
     Compare: 1952 No 54 s 57A; 1974 No 69 s 11
     
-    Section 71(4)(b): amended, on 1 May 2011, by [section 35(4)][215] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 71(4)(b): amended, on 1 May 2011, by [section 35(4)][223] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 71(5): amended, on 1 May 2011, by [section 35(4)][215] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 71(5): amended, on 1 May 2011, by [section 35(4)][223] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 71(7): amended, on 25 January 2005, pursuant to [section 83(7)][197] of the Public Finance Act 1989 (1989 No 44).
+    Section 71(7): amended, on 25 January 2005, pursuant to [section 83(7)][201] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 71(9): amended, on 1 May 2011, by [section 35(4)][215] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 71(9): amended, on 1 May 2011, by [section 35(4)][223] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 71(9): amended, on 1 March 1999, by [section 215(1)][141] of the Land Transport Act 1998 (1998 No 110).
+    Section 71(9): amended, on 1 March 1999, by [section 215(1)][144] of the Land Transport Act 1998 (1998 No 110).
 
 ## Part 8  
 Miscellaneous provisions
@@ -2162,7 +2222,7 @@ Miscellaneous provisions
     
     (2) The members of the National Parks Authority appointed by or under section 4 of the National Parks Act 1952 and the members of every National Park Board appointed by or under sections 16 to 18A of that Act, holding office immediately before the commencement of this Act, shall go out of office on the commencement of this Act.
     
-    (3) Every reference in any enactment passed before the commencement of this Act, other than an enactment specified in [Schedule 1][116], to the National Parks Authority or any National Park Board shall be read as a reference to the Minister of Lands.
+    (3) Every reference in any enactment passed before the commencement of this Act, other than an enactment specified in [Schedule 1][119], to the National Parks Authority or any National Park Board shall be read as a reference to the Minister of Lands.
 
 ##### 73 Assets, liabilities, and rights of former Authority and boards transferred to Crown
     
@@ -2192,70 +2252,70 @@ Miscellaneous provisions
     
     shall, in the absence of proof to the contrary, be sufficient evidence that the property is vested in the Crown.
     
-    (6) Except as provided in subsections (3) and (5), nothing in this section shall derogate from the provisions of the [Land Transfer Act 1952][216].
+    (6) Except as provided in subsections (3) and (5), nothing in this section shall derogate from the provisions of the [Land Transfer Act 1952][224].
     
-    Section 73(2): amended, on 25 January 2005, pursuant to [section 83(7)][197] of the Public Finance Act 1989 (1989 No 44).
+    Section 73(2): amended, on 25 January 2005, pursuant to [section 83(7)][201] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 73(3): amended, on 1 June 2002, pursuant to [section 38(2)][217] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 73(3): amended, on 1 June 2002, pursuant to [section 38(2)][225] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
-    Section 73(5): amended, on 1 June 2002, pursuant to [section 38(2)][217] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 73(5): amended, on 1 June 2002, pursuant to [section 38(2)][225] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 74 Director-General may execute documents on behalf of the Crown
     
 *   All documents that require to be executed for the purpose of this Act by or on behalf of Her Majesty or by or on behalf of the Minister may, unless otherwise provided by this Act, be executed by the Director-General, and if so executed shall be as valid and effectual as if executed by or on behalf of Her Majesty or by or on behalf of the Minister, as the case may be.
     
-    Compare: 1977 No 66 [s 117][218]
+    Compare: 1977 No 66 [s 117][226]
 
 ##### 75 Director-General may act in proceedings on behalf of the Crown
     
 *   All actions and proceedings by or on behalf of the Crown in connection with any breach of contract or any trespass or any damage accruing by reason of trespass or for the recovery of any rent, purchase money, or other money in respect of any national park or in respect of any damages or wrongs suffered by the Crown in respect of any national park may be commenced, prosecuted, and carried on by the Director-General on behalf of the Crown, and the Director-General may be plaintiff or defendant, as the case may require, in any such action or proceeding.
     
-    Compare: 1977 No 66 [s 118][219]
+    Compare: 1977 No 66 [s 118][227]
 
 ##### 76 Certificates of title in respect of national parks
     
-*   (1) The Registrar for the Land Registration District in which is situated any land forming part of any national park shall, on completion of such surveys (if any) as may be necessary, and on being requested in writing to do so by the Director-General, issue a certificate or certificates of title under the [Land Transfer Act 1952][216] in the name of Her Majesty in respect of any such land.
+*   (1) The Registrar for the Land Registration District in which is situated any land forming part of any national park shall, on completion of such surveys (if any) as may be necessary, and on being requested in writing to do so by the Director-General, issue a certificate or certificates of title under the [Land Transfer Act 1952][224] in the name of Her Majesty in respect of any such land.
     
     (2) Subsection (1) shall not oblige any person to register any lease or licence granted under this Act.
     
     Compare: 1952 No 54 s 60
     
-    Section 76(1): amended, on 1 June 2002, pursuant to [section 38(2)][217] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 76(1): amended, on 1 June 2002, pursuant to [section 38(2)][225] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
-    Section 76(1): amended, on 1 April 1987, by [section 65(1)][137] of the Conservation Act 1987 (1987 No 65).
+    Section 76(1): amended, on 1 April 1987, by [section 65(1)][140] of the Conservation Act 1987 (1987 No 65).
 
 ##### 77 Approval under this Act not to authorise actions in contravention of other Acts
     
-*   Nothing in any authorisation by the Minister to do any act that would otherwise be unlawful under this Act shall be deemed to authorise any person to do any act in contravention of the [Native Plants Protection Act 1934][220], the [Wildlife Act 1953][164], the Historic Places Act 1993, the [Protected Objects Act 1975][203], the [Wild Animal Control Act 1977][221], or any other Act, or any regulation, proclamation, warrant, bylaw, or notification made or issued under any Act.
+*   Nothing in any authorisation by the Minister to do any act that would otherwise be unlawful under this Act shall be deemed to authorise any person to do any act in contravention of the [Native Plants Protection Act 1934][228], the [Wildlife Act 1953][167], the Historic Places Act 1993, the [Protected Objects Act 1975][208], the [Wild Animal Control Act 1977][229], or any other Act, or any regulation, proclamation, warrant, bylaw, or notification made or issued under any Act.
     
-    Section 77: amended, on 1 November 2006, by [section 35][200] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 77: amended, on 1 November 2006, by [section 35][204] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 77: amended, on 1 July 1993, pursuant to [section 118(1)][222] of the Historic Places Act 1993 (1993 No 38).
+    Section 77: amended, on 1 July 1993, pursuant to [section 118(1)][230] of the Historic Places Act 1993 (1993 No 38).
 
 ##### 78 Mining operations in national parks
     
 *   \[Repealed\]
     
-    Section 78: repealed, on 1 October 1991, by [section 362][150] of the Resource Management Act 1991 (1991 No 69).
+    Section 78: repealed, on 1 October 1991, by [section 362][153] of the Resource Management Act 1991 (1991 No 69).
 
 ##### 79 Certain other Acts unaffected
     
-*   Nothing in this Act shall affect the [Manapouri - Te Anau Development Act 1963][223] or the [Mount Egmont Vesting Act 1978][224].
+*   Nothing in this Act shall affect the [Manapouri - Te Anau Development Act 1963][231] or the [Mount Egmont Vesting Act 1978][232].
 
 ##### 80 Amendments, repeals, and revocations
     
-*   (1) The enactments specified in [Schedule 1][116] are hereby amended in the manner indicated in that schedule.
+*   (1) The enactments specified in [Schedule 1][119] are hereby amended in the manner indicated in that schedule.
     
-    (2) The enactments specified in [Schedule 2][117] are hereby repealed.
+    (2) The enactments specified in [Schedule 2][120] are hereby repealed.
     
-    (3) All bylaws made under section 38 of the National Parks Act 1952, including those specified in [Schedule 3][118], are hereby revoked.
+    (3) All bylaws made under section 38 of the National Parks Act 1952, including those specified in [Schedule 3][121], are hereby revoked.
 
 ---
 
 ## Schedule 1  
 Enactments amended
 
-[s 80(1)][115]
+[s 80(1)][118]
 
 ##### Coal Mines Act 1979 (1979 No 21)
 
@@ -2263,7 +2323,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Forest and Rural Fires Act 1977 (1977 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][225]._
+_Amendment(s) incorporated in the [Act(s)][233]._
 
 ##### Harbours Act 1950 (1950 No 34) (RS Vol 2, p 551)
 
@@ -2271,19 +2331,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Land Act 1948 (1948 No 64) (Reprinted 1972, Vol 2, p 1557)
 
-_Amendment(s) incorporated in the [Act(s)][226]._
+_Amendment(s) incorporated in the [Act(s)][234]._
 
 ##### Litter Act 1979 (1979 No 41)
 
-_Amendment(s) incorporated in the [Act(s)][227]._
+_Amendment(s) incorporated in the [Act(s)][235]._
 
 ##### Local Authorities (Members' Interests) Act 1968 (1968 No 147) (Reprinted 1974, Vol 3, p 2399)
 
-_Amendment(s) incorporated in the [Act(s)][228]._
+_Amendment(s) incorporated in the [Act(s)][236]._
 
 ##### Local Government Amendment Act (No 3) 1977 (1977 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][229]._
+_Amendment(s) incorporated in the [Act(s)][237]._
 
 ##### Marine Farming Act 1971 (1971 No 29)
 
@@ -2291,7 +2351,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Marine Reserves Act 1971 (1971 No 15)
 
-_Amendment(s) incorporated in the [Act(s)][230]._
+_Amendment(s) incorporated in the [Act(s)][238]._
 
 ##### Mining Act 1971 (1971 No 25)
 
@@ -2307,7 +2367,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Ombudsmen Act 1975 (1975 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][231]._
+_Amendment(s) incorporated in the [Act(s)][239]._
 
 ##### Petroleum Act 1937 (1937 No 27) (Reprinted 1976, Vol 5, p 4249)
 
@@ -2315,7 +2375,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Reserves Act 1977 (1977 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][232]._
+_Amendment(s) incorporated in the [Act(s)][240]._
 
 ##### Town and Country Planning Act 1977 (1977 No 121)
 
@@ -2330,7 +2390,7 @@ _Amendment(s) incorporated in the Act(s)._
 ## Schedule 2  
 Enactments repealed
 
-[s 80(2)][115]
+[s 80(2)][118]
 
 ##### 
 
@@ -2363,7 +2423,7 @@ Enactments repealed
 ## Schedule 3  
 Bylaws revoked
 
-[s 80(3)][115]
+[s 80(3)][118]
 
 **Subject matter** **_Gazette_ reference**
 
@@ -2461,49 +2521,51 @@ An Act to amend the National Parks Act 1980
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][233] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][234] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][241] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][242] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][235] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][236] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][243] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][244] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][153]
+*   Conservation (Natural Heritage Protection) Act 2013 (2013 No 89): [Part 2][245]
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 285][206]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][156]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][195]
+    Search and Surveillance Act 2012 (2012 No 24): [section 285][211]
     
-    [National Parks Amendment Act 2010][237] (2010 No 73)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][199]
     
-    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][215]
+    [National Parks Amendment Act 2010][246] (2010 No 73)
     
-    Policing Act 2008 (2008 No 72): [section 130(1)][192]
+    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][223]
     
-    New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30): [section 38][149]
+    Policing Act 2008 (2008 No 72): [section 130(1)][196]
     
-    [National Parks Amendment Act 2008][238] (2008 No 14)
+    New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30): [section 38][152]
     
-    Protected Objects Amendment Act 2006 (2006 No 37): [section 35][200]
+    [National Parks Amendment Act 2008][247] (2008 No 14)
     
-    [National Parks Amendment Act 2005][239] (2005 No 62)
+    Protected Objects Amendment Act 2006 (2006 No 37): [section 35][204]
     
-    Local Government Act 2002 (2002 No 84): [section 262][140]
+    [National Parks Amendment Act 2005][248] (2005 No 62)
     
-    Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11): [section 38(2)][217]
+    Local Government Act 2002 (2002 No 84): [section 262][143]
     
-    Royal New Zealand Foundation of the Blind Act 2002 (2002 No 3 (P)): [section 28(1)][139]
+    Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11): [section 38(2)][225]
     
-    [National Parks Amendment Act 2001][240] (2001 No 73)
+    Royal New Zealand Foundation of the Blind Act 2002 (2002 No 3 (P)): [section 28(1)][142]
     
-    Forests (West Coast Accord) Act 2000 (2000 No 45):[section 22][178]
+    [National Parks Amendment Act 2001][249] (2001 No 73)
     
-    Animal Welfare Act 1999 (1999 No 142): [section 194][142]
+    Forests (West Coast Accord) Act 2000 (2000 No 45):[section 22][181]
+    
+    Animal Welfare Act 1999 (1999 No 142): [section 194][145]
     
     Land Transport Act 1998 (1998 No 110): section 215(1)
     
-    Ngāi Tahu Claims Settlement Act 1998 (1998 No 97): [section 162(3)][143]
+    Ngāi Tahu Claims Settlement Act 1998 (1998 No 97): [section 162(3)][146]
     
     National Parks Amendment Act (No 2) 1996 (1996 No 15)
     
@@ -2511,27 +2573,27 @@ An Act to amend the National Parks Act 1980
     
     National Parks Amendment Act 1994 (1994 No 112)
     
-    Historic Places Act 1993 (1993 No 38): [section 118(1)][222]
+    Historic Places Act 1993 (1993 No 38): [section 118(1)][230]
     
-    Crown Minerals Act 1991 (1991 No 70): [section 121][158]
+    Crown Minerals Act 1991 (1991 No 70): [section 121][161]
     
-    Resource Management Act 1991 (1991 No 69): [section 362][150]
+    Resource Management Act 1991 (1991 No 69): [section 362][153]
     
-    Civil Aviation Act 1990 (1990 No 98): [section 101(1)][135]
+    Civil Aviation Act 1990 (1990 No 98): [section 101(1)][138]
     
-    Conservation Law Reform Act 1990 (1990 No 31): [sections 109][136], [111][156], [112(2)][155], [113][161], [114(2)][160], [115--119][166], [121(1)(a), (2)][179], [124--126][185]
+    Conservation Law Reform Act 1990 (1990 No 31): [sections 109][139], [111][159], [112(2)][158], [113][164], [114(2)][163], [115--119][169], [121(1)(a), (2)][182], [124--126][188]
     
-    Ministry of Energy (Abolition) Act 1989 (1989 No 140): [section 4(a)][151]
+    Ministry of Energy (Abolition) Act 1989 (1989 No 140): [section 4(a)][154]
     
-    Tourist Hotel Corporation of New Zealand Act 1989 (1989 No 130): [section 21(2)][152]
+    Tourist Hotel Corporation of New Zealand Act 1989 (1989 No 130): [section 21(2)][155]
     
-    Public Finance Act 1989 (1989 No 44): [sections 83(7)][197], [86(1)][198]
+    Public Finance Act 1989 (1989 No 44): [sections 83(7)][201], [86(1)][202]
     
-    State Sector Act 1988 (1988 No 20): [section 90(a)][165]
+    State Sector Act 1988 (1988 No 20): [section 90(a)][168]
     
-    Local Government Official Information and Meetings Act 1987 (1987 No 174): [section 58(1)][159]
+    Local Government Official Information and Meetings Act 1987 (1987 No 174): [section 58(1)][162]
     
-    Conservation Act 1987 (1987 No 65): [section 65(1)][137]
+    Conservation Act 1987 (1987 No 65): [section 65(1)][140]
     
     National Parks Amendment Act 1982 (1982 No 86)
 
@@ -2641,140 +2703,149 @@ An Act to amend the National Parks Act 1980
 [101]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38508
 [102]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38509
 [103]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38510
-[104]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38512
-[105]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38513
-[106]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38515
-[107]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38516
-[108]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38517
-[109]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38518
-[110]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38519
-[111]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38520
-[112]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38521
-[113]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38523
-[114]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38525
-[115]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38526
-[116]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38527
-[117]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38537
-[118]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38538
-[119]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM104086
-[120]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM104213
-[121]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM214686
-[122]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM103609
-[123]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM104608
-[124]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM251177
-[125]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM373605
-[126]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM170872
-[127]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM433612
-[128]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM49663
-[129]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM374409
-[130]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM277090
-[131]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM277093
-[132]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM25110
-[133]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM106939
-[134]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM444304
-[135]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM218728
-[136]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209189
-[137]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM106995
-[138]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM3043005
-[139]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM121634
-[140]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM174088
-[141]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM435656
-[142]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM51965
-[143]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM429954
-[144]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM113306
-[145]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM175060
-[146]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM1065508
-[147]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM1065512
-[148]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM230264
-[149]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM1065526
-[150]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM239393
-[151]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM194766
-[152]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM194285
-[153]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM2998633
-[154]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM373624
-[155]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209199
-[156]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209198
-[157]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM246712
-[158]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM247364
-[159]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM123615
-[160]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209401
-[161]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209400
-[162]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM129109
-[163]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM446000
-[164]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM276813
-[165]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM130377
-[166]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209402
-[167]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209403
-[168]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM348464
-[169]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209404
-[170]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209407
-[171]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209409
-[172]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM373625
-[173]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM1209607
-[174]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM104633
-[175]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM73833
-[176]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM73834
-[177]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM373626
-[178]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM73848
-[179]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209412
-[180]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM373628
-[181]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM373629
-[182]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM3043009
-[183]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM373631
-[184]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM373632
-[185]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209418
-[186]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM374887
-[187]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM374839
-[188]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM374853
-[189]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM106092
-[190]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM106094
-[191]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM145965
-[192]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM1102383
-[193]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM375442
-[194]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM375173
-[195]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM3360714
-[196]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM160808
-[197]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM163167
-[198]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM163175
-[199]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM444936
-[200]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM376605
-[201]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM373633
-[202]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM2136860
-[203]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM432115
-[204]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM2136770
-[205]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM2136781
-[206]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM2137043
-[207]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM16628
-[208]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM2136813
-[209]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM2136815
-[210]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209419
-[211]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM445003
-[212]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209420
-[213]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM3360067
-[214]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM2214226
-[215]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM2015063
-[216]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM269031
-[217]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM141417
-[218]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM445067
-[219]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM445068
-[220]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM216730
-[221]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM16622
-[222]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM301645
-[223]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM348211
-[224]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM21218
-[225]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM442946
-[226]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM250585
-[227]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM33081
-[228]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM390002
-[229]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM18542
-[230]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM397837
-[231]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM430987
-[232]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM444308
-[233]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM2998516
-[234]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM2998515
-[235]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM2998532
-[236]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[237]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM3043000
-[238]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM1209600
-[239]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM348461
-[240]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM113303
+[104]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM5697405
+[105]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM5697406
+[106]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38512
+[107]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM5697416
+[108]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38513
+[109]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38515
+[110]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38516
+[111]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38517
+[112]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38518
+[113]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38519
+[114]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38520
+[115]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38521
+[116]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38523
+[117]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38525
+[118]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38526
+[119]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38527
+[120]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38537
+[121]: http://www.legislation.govt.nz/act/public/1980/0066/latest/whole.html#DLM38538
+[122]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM104086
+[123]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM104213
+[124]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM214686
+[125]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM103609
+[126]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM104608
+[127]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM251177
+[128]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM373605
+[129]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM170872
+[130]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM433612
+[131]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM49663
+[132]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM374409
+[133]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM277090
+[134]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM277093
+[135]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM25110
+[136]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM106939
+[137]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM444304
+[138]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM218728
+[139]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209189
+[140]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM106995
+[141]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM3043005
+[142]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM121634
+[143]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM174088
+[144]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM435656
+[145]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM51965
+[146]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM429954
+[147]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM113306
+[148]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM175060
+[149]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM1065508
+[150]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM1065512
+[151]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM230264
+[152]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM1065526
+[153]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM239393
+[154]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM194766
+[155]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM194285
+[156]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM2998633
+[157]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM373624
+[158]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209199
+[159]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209198
+[160]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM246712
+[161]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM247364
+[162]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM123615
+[163]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209401
+[164]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209400
+[165]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM129109
+[166]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM446000
+[167]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM276813
+[168]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM130377
+[169]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209402
+[170]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209403
+[171]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM348464
+[172]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209404
+[173]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209407
+[174]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209409
+[175]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM373625
+[176]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM1209607
+[177]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM104633
+[178]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM73833
+[179]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM73834
+[180]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM373626
+[181]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM73848
+[182]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209412
+[183]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM373628
+[184]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM373629
+[185]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM3043009
+[186]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM373631
+[187]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM373632
+[188]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209418
+[189]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM4425521
+[190]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM374887
+[191]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM374839
+[192]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM374853
+[193]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM106092
+[194]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM106094
+[195]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM145965
+[196]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM1102383
+[197]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM375442
+[198]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM375173
+[199]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM3360714
+[200]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM160808
+[201]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM163167
+[202]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM163175
+[203]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM444936
+[204]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM376605
+[205]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM373633
+[206]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM5469507
+[207]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM2136860
+[208]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM432115
+[209]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM2136770
+[210]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM2136781
+[211]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM2137043
+[212]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM16628
+[213]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM2136813
+[214]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM2136815
+[215]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209419
+[216]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM445003
+[217]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM209420
+[218]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM3360067
+[219]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM5469508
+[220]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM4425522
+[221]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM135593
+[222]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM2214226
+[223]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM2015063
+[224]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM269031
+[225]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM141417
+[226]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM445067
+[227]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM445068
+[228]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM216730
+[229]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM16622
+[230]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM301645
+[231]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM348211
+[232]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM21218
+[233]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM442946
+[234]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM250585
+[235]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM33081
+[236]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM390002
+[237]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM18542
+[238]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM397837
+[239]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM430987
+[240]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM444308
+[241]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM2998516
+[242]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM2998515
+[243]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM2998532
+[244]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[245]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM4425519
+[246]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM3043000
+[247]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM1209600
+[248]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM348461
+[249]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM113303
