@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 25 October 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -284,60 +284,62 @@ This Act is administered by the Department of Conservation.
 
 [67H][126][][126][Offenders also liable for loss or damage][126]
 
-[68][127][][127][Conduct of proceedings and recovery of fines][127]
+[67I][127][][127][Penalties for offences committed for commercial gain or reward][127]
 
-[68A][128][][128][Proceedings in respect of offences][128]
+[68][128][][128][Conduct of proceedings and recovery of fines][128]
 
-[68AB][129][][129][Mens rea and strict liability offences][129]
+[68A][129][][129][Proceedings in respect of offences][129]
 
-[68B][130][][130][Defences to offences in respect of marine wildlife][130]
+[68AB][130][][130][Mens rea and strict liability offences][130]
 
-[69][131][][131][Evidence of boundaries, etc][131]
+[68B][131][][131][Defences to offences in respect of marine wildlife][131]
 
-[70][132][][132][Forfeitures][132]
+[69][132][][132][Evidence of boundaries, etc][132]
 
-[Miscellaneous][133]
+[70][133][][133][Forfeitures][133]
 
-[71][134][][134][Saving of other Acts][134]
+[Miscellaneous][134]
 
-[71A][135][][135][Control of dogs][135]
+[71][135][][135][Saving of other Acts][135]
 
-[72][136][][136][Regulations][136]
+[71A][136][][136][Control of dogs][136]
 
-[73][137][][137][Repeals, savings, and consequential amendments][137]
+[72][137][][137][Regulations][137]
 
-[Schedule 1][138]  
-[Wildlife declared to be game][138]
+[73][138][][138][Repeals, savings, and consequential amendments][138]
 
-[Schedule 2][139]  
-[Partially protected wildlife][139]
+[Schedule 1][139]  
+[Wildlife declared to be game][139]
 
-[Schedule 3][140]  
-[Wildlife that may be hunted or killed subject to Minister's notification][140]
+[Schedule 2][140]  
+[Partially protected wildlife][140]
 
-[Schedule 4][141]  
-[Wildlife not protected, except in areas and during periods specified in Minister's notification][141]
+[Schedule 3][141]  
+[Wildlife that may be hunted or killed subject to Minister's notification][141]
 
-[Schedule 5][142]  
-[Wildlife not protected][142]
+[Schedule 4][142]  
+[Wildlife not protected, except in areas and during periods specified in Minister's notification][142]
 
-[Schedule 6][143]  
-[Animals declared to be noxious animals subject to the Noxious Animals Act 1956][143]
+[Schedule 5][143]  
+[Wildlife not protected][143]
 
-[Schedule 7][144]  
-[Terrestrial and freshwater invertebrates declared to be animals][144]
+[Schedule 6][144]  
+[Animals declared to be noxious animals subject to the Noxious Animals Act 1956][144]
 
-[Schedule 7A][145]  
-[Marine species declared to be animals][145]
+[Schedule 7][145]  
+[Terrestrial and freshwater invertebrates declared to be animals][145]
 
-[Schedule 8][146]  
-[Wildlife not protected but may be kept, bred, or farmed in captivity pursuant to regulations made under principal Act or by Minister's direction][146]
+[Schedule 7A][146]  
+[Marine species declared to be animals][146]
 
-[Schedule 9][147]  
-[Acts not affected by this Act][147]
+[Schedule 8][147]  
+[Wildlife not protected but may be kept, bred, or farmed in captivity pursuant to regulations made under principal Act or by Minister's direction][147]
 
-[Schedule 10][148]  
-[Enactments repealed][148]
+[Schedule 9][148]  
+[Acts not affected by this Act][148]
+
+[Schedule 10][149]  
+[Enactments repealed][149]
 
 ---
 
@@ -399,7 +401,7 @@ An Act to consolidate and amend the law relating to the protection and control o
     
     _conservation management plan_ means a conservation management plan approved under [section 14E][32]
     
-    _conservation management strategy_ means a conservation management strategy approved under the [Conservation Act 1987][149]
+    _conservation management strategy_ means a conservation management strategy approved under the [Conservation Act 1987][150]
     
     _council_, in relation to any acclimatisation society, means the governing body of the society, by whatever name it is called
     
@@ -425,9 +427,9 @@ An Act to consolidate and amend the law relating to the protection and control o
     
     _firearm_ means any gun, rifle, or air gun; and includes any kind of weapon or device from which any shot, bullet, arrow, stone, or other missile can be discharged; and _shoot_ has a corresponding meaning
     
-    _Fish and Game Council_ means a Fish and Game Council established under [section 26P][150] of the Conservation Act 1987
+    _Fish and Game Council_ means a Fish and Game Council established under [section 26P][151] of the Conservation Act 1987
     
-    _fish and game ranger_ means a fish and game ranger appointed pursuant to [section 26FA][151] of the Conservation Act 1987 or deemed to be appointed under that section
+    _fish and game ranger_ means a fish and game ranger appointed pursuant to [section 26FA][152] of the Conservation Act 1987 or deemed to be appointed under that section
     
     _fishing_---
         
@@ -443,7 +445,7 @@ An Act to consolidate and amend the law relating to the protection and control o
     
     _fishing-related mortality_ means the accidental death or incidental death of any protected species that occurs in the course of fishing
     
-    _game_ means all animals and game birds for the time being specified in [Schedule 1][138]
+    _game_ means all animals and game birds for the time being specified in [Schedule 1][139]
     
     _game bird habitat stamp_ means a stamp in a form approved by the Minister under [section 19A][43]
     
@@ -465,9 +467,9 @@ An Act to consolidate and amend the law relating to the protection and control o
             
             
         
-        *   (ii) any document purporting to be a lease (whether or not the document gives the lessee exclusive possession of the land concerned) and issued under any enactment passed before the commencement of [section 2][152] of the Wildlife Amendment Act 1996:
+        *   (ii) any document purporting to be a lease (whether or not the document gives the lessee exclusive possession of the land concerned) and issued under any enactment passed before the commencement of [section 2][153] of the Wildlife Amendment Act 1996:
         
-        *   (iii) any document purporting to be a lease (whether or not the document gives the lessee exclusive possession of the land concerned) and issued under this Act before the commencement of the said [section 2][152]; but
+        *   (iii) any document purporting to be a lease (whether or not the document gives the lessee exclusive possession of the land concerned) and issued under this Act before the commencement of the said [section 2][153]; but
         
         
     
@@ -487,11 +489,11 @@ An Act to consolidate and amend the law relating to the protection and control o
     
     *   (b) includes---
             
-        *   (i) any document purporting to be a licence (whether or not the licence gives an interest, or makes any provision, referred to in paragraph (a)) and issued under any enactment relating to wildlife that was passed before the commencement of [section 2][152] of the Wildlife Amendment Act 1996; and
+        *   (i) any document purporting to be a licence (whether or not the licence gives an interest, or makes any provision, referred to in paragraph (a)) and issued under any enactment relating to wildlife that was passed before the commencement of [section 2][153] of the Wildlife Amendment Act 1996; and
         
-        *   (ii) any document purporting to be a licence and purporting to grant an exclusive interest in land, and issued under this Act before the date of commencement of the said [section 2][152] or issued under any other enactment relating to wildlife that was passed before that date; and
+        *   (ii) any document purporting to be a licence and purporting to grant an exclusive interest in land, and issued under this Act before the date of commencement of the said [section 2][153] or issued under any other enactment relating to wildlife that was passed before that date; and
         
-        *   (iii) any document purporting to be a licence (whether or not the licence gives an interest, or makes any provision, referred to in paragraph (a)) and issued under this Act before the commencement of the said [section 2][152];---
+        *   (iii) any document purporting to be a licence (whether or not the licence gives an interest, or makes any provision, referred to in paragraph (a)) and issued under this Act before the commencement of the said [section 2][153];---
         
         
     
@@ -505,9 +507,9 @@ An Act to consolidate and amend the law relating to the protection and control o
     
     _Minister_ means the Minister of Conservation
     
-    _New Zealand Fish and Game Council_ means the New Zealand Fish and Game Council established by [section 26B][153] of the Conservation Act 1987
+    _New Zealand Fish and Game Council_ means the New Zealand Fish and Game Council established by [section 26B][154] of the Conservation Act 1987
     
-    _New Zealand fisheries waters_ has the same meaning as in [section 2(1)][154] of the Fisheries Act 1996
+    _New Zealand fisheries waters_ has the same meaning as in [section 2(1)][155] of the Fisheries Act 1996
     
     _New Zealand Game Bird Habitat Trust Board_ or _Board_ means the New Zealand Game Bird Habitat Trust Board established by [section 44B][78]
     
@@ -539,15 +541,15 @@ An Act to consolidate and amend the law relating to the protection and control o
     
     _threatened species_ means any marine wildlife that is for the time being declared by a notice under subsection (1)(a) to be a threatened species
     
-    _wildlife_ means any animal that is living in a wild state; and includes any such animal or egg or offspring of any such animal held or hatched or born in captivity, whether pursuant to an authority granted under this Act or otherwise; but does not include any animals of any species specified in [Schedule 6][143] (being animals that are wild animals subject to the [Wild Animals Control Act 1977][155])
+    _wildlife_ means any animal that is living in a wild state; and includes any such animal or egg or offspring of any such animal held or hatched or born in captivity, whether pursuant to an authority granted under this Act or otherwise; but does not include any animals of any species specified in [Schedule 6][144] (being animals that are wild animals subject to the [Wild Animals Control Act 1977][156])
     
     _wildlife district_ means a wildlife district under this Act
     
-    _wildlife management reserve_ means a wildlife management reserve declared under [section 14A][26]; and includes any reserve under the [Reserves Act 1977][156] classified as a Government purpose reserve for a wildlife management reserve
+    _wildlife management reserve_ means a wildlife management reserve declared under [section 14A][26]; and includes any reserve under the [Reserves Act 1977][157] classified as a Government purpose reserve for a wildlife management reserve
     
-    _wildlife refuge_ means a wildlife refuge declared under [section 14][24]; and includes any reserve under the [Reserves Act 1977][156] classified as a Government purpose reserve for a wildlife refuge
+    _wildlife refuge_ means a wildlife refuge declared under [section 14][24]; and includes any reserve under the [Reserves Act 1977][157] classified as a Government purpose reserve for a wildlife refuge
     
-    _wildlife sanctuary_ or _sanctuary_ means a wildlife sanctuary declared under [section 9][18]; and includes any reserve under the [Reserves Act 1977][156] classified as a Government purpose reserve for a wildlife sanctuary.
+    _wildlife sanctuary_ or _sanctuary_ means a wildlife sanctuary declared under [section 9][18]; and includes any reserve under the [Reserves Act 1977][157] classified as a Government purpose reserve for a wildlife sanctuary.
     
     (1A) The Minister, after having regard to any relevant international standards and any relevant standards applying within New Zealand, may from time to time, by notice in the _Gazette_, declare any species of marine wildlife to be a threatened species for the purposes of this Act.
     
@@ -555,81 +557,81 @@ An Act to consolidate and amend the law relating to the protection and control o
     
     Compare: 1921--22 No 57 s 2
     
-    Section 2(1) **activity**: inserted, on 1 July 1996, by [section 2(1)][152] of the Wildlife Amendment Act 1996 (1996 No 2).
+    Section 2(1) **activity**: inserted, on 1 July 1996, by [section 2(1)][153] of the Wildlife Amendment Act 1996 (1996 No 2).
     
-    Section 2(1) **animal**: amended, on 1 October 1996, by [section 316(1)][157] of the Fisheries Act 1996 (1996 No 88).
+    Section 2(1) **animal**: amended, on 1 October 1996, by [section 316(1)][158] of the Fisheries Act 1996 (1996 No 88).
     
     Section 2(1) **animal**: amended, on 19 September 1980, by section 2(1) of the Wildlife Amendment Act 1980 (1980 No 17).
     
-    Section 2(1) **aquatic life**: inserted, on 1 October 1996, by [section 316(1)][157] of the Fisheries Act 1996 (1996 No 88).
+    Section 2(1) **aquatic life**: inserted, on 1 October 1996, by [section 316(1)][158] of the Fisheries Act 1996 (1996 No 88).
     
     Section 2(1) **associated products**: inserted, on 17 May 1993, by section 2(2) of the Wildlife Amendment Act 1993 (1993 No 39).
     
-    Section 2(1) **concession** or **concession document**: inserted, on 1 July 1996, by [section 2(1)][152] of the Wildlife Amendment Act 1996 (1996 No 2).
+    Section 2(1) **concession** or **concession document**: inserted, on 1 July 1996, by [section 2(1)][153] of the Wildlife Amendment Act 1996 (1996 No 2).
     
-    Section 2(1) **concessionaire**: inserted, on 1 July 1996, by [section 2(1)][152] of the Wildlife Amendment Act 1996 (1996 No 2).
+    Section 2(1) **concessionaire**: inserted, on 1 July 1996, by [section 2(1)][153] of the Wildlife Amendment Act 1996 (1996 No 2).
     
-    Section 2(1) **conservation management plan**: inserted, on 10 April 1990, by [section 65][158] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **conservation management plan**: inserted, on 10 April 1990, by [section 65][159] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **conservation management strategy**: inserted, on 10 April 1990, by [section 65][158] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **conservation management strategy**: inserted, on 10 April 1990, by [section 65][159] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **Department**: amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 2(1) **Department**: amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
     Section 2(1) **Director**: inserted, on 25 November 1994, by section 2(1) of the Wildlife Amendment Act 1994 (1994 No 109).
     
-    Section 2(1) **Director-General**: inserted, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 2(1) **Director-General**: inserted, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 2(1) **district**: repealed, on 10 April 1990, by [section 65][158] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **district**: repealed, on 10 April 1990, by [section 65][159] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **domestic bird**: replaced, on 1 October 1993, by [section 168(1)][160] of the Biosecurity Act 1993 (1993 No 95).
+    Section 2(1) **domestic bird**: replaced, on 1 October 1993, by [section 168(1)][161] of the Biosecurity Act 1993 (1993 No 95).
     
-    Section 2(1) **Fish and Game Council**: inserted, on 10 April 1990, by [section 65][158] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **Fish and Game Council**: inserted, on 10 April 1990, by [section 65][159] of the Conservation Law Reform Act 1990 (1990 No 31).
     
     Section 2(1) **fish and game ranger**: inserted, on 25 November 1994, by section 2(1) of the Wildlife Amendment Act 1994 (1994 No 109).
     
-    Section 2(1) **fishing**: inserted, on 1 October 1996, by [section 316(1)][157] of the Fisheries Act 1996 (1996 No 88).
+    Section 2(1) **fishing**: inserted, on 1 October 1996, by [section 316(1)][158] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 2(1) **fishing-related mortality**: inserted, on 1 October 1996, by [section 316(1)][157] of the Fisheries Act 1996 (1996 No 88).
+    Section 2(1) **fishing-related mortality**: inserted, on 1 October 1996, by [section 316(1)][158] of the Fisheries Act 1996 (1996 No 88).
     
     Section 2(1) **game**: amended, on 17 May 1993, by section 2(1) of the Wildlife Amendment Act 1993 (1993 No 39).
     
     Section 2(1) **game bird habitat stamp**: inserted, on 17 May 1993, by section 2(2) of the Wildlife Amendment Act 1993 (1993 No 39).
     
-    Section 2(1) **game hunting guide**: inserted, on 13 March 1996, by [section 2(3)][152] of the Wildlife Amendment Act 1996 (1996 No 2).
+    Section 2(1) **game hunting guide**: inserted, on 13 March 1996, by [section 2(3)][153] of the Wildlife Amendment Act 1996 (1996 No 2).
     
-    Section 2(1) **human-induced mortality**: inserted, on 1 October 1996, by [section 316(1)][157] of the Fisheries Act 1996 (1996 No 88).
+    Section 2(1) **human-induced mortality**: inserted, on 1 October 1996, by [section 316(1)][158] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 2(1) **lease**: inserted, on 1 July 1996, by [section 2(1)][152] of the Wildlife Amendment Act 1996 (1996 No 2).
+    Section 2(1) **lease**: inserted, on 1 July 1996, by [section 2(1)][153] of the Wildlife Amendment Act 1996 (1996 No 2).
     
-    Section 2(1) **licence** first definition: inserted, on 1 July 1996, by [section 2(1)][152] of the Wildlife Amendment Act 1996 (1996 No 2).
+    Section 2(1) **licence** first definition: inserted, on 1 July 1996, by [section 2(1)][153] of the Wildlife Amendment Act 1996 (1996 No 2).
     
     Section 2(1) **licence** second definition: inserted, on 17 May 1993, by section 2(2) of the Wildlife Amendment Act 1993 (1993 No 39).
     
-    Section 2(1) **marine species**: inserted, on 1 October 1996, by [section 316(1)][157] of the Fisheries Act 1996 (1996 No 88).
+    Section 2(1) **marine species**: inserted, on 1 October 1996, by [section 316(1)][158] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 2(1) **marine wildlife**: inserted, on 1 October 1996, by [section 316(1)][157] of the Fisheries Act 1996 (1996 No 88).
+    Section 2(1) **marine wildlife**: inserted, on 1 October 1996, by [section 316(1)][158] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 2(1) **Minister**: amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 2(1) **Minister**: amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
     Section 2(1) **New Zealand Fish and Game Council**: inserted, on 17 May 1993, by section 2(2) of the Wildlife Amendment Act 1993 (1993 No 39).
     
-    Section 2(1) **New Zealand fisheries waters**: inserted, on 1 October 1996, by [section 316(1)][157] of the Fisheries Act 1996 (1996 No 88).
+    Section 2(1) **New Zealand fisheries waters**: inserted, on 1 October 1996, by [section 316(1)][158] of the Fisheries Act 1996 (1996 No 88).
     
     Section 2(1) **New Zealand Game Bird Habitat Trust Board** or **Board**: inserted, on 17 May 1993, by section 2(2) of the Wildlife Amendment Act 1993 (1993 No 39).
     
-    Section 2(1) **open season**: replaced, on 13 March 1996, by [section 2(2)][152] of the Wildlife Amendment Act 1996 (1996 No 2).
+    Section 2(1) **open season**: replaced, on 13 March 1996, by [section 2(2)][153] of the Wildlife Amendment Act 1996 (1996 No 2).
     
-    Section 2(1) **permit**: inserted, on 1 July 1996, by [section 2(1)][152] of the Wildlife Amendment Act 1996 (1996 No 2).
+    Section 2(1) **permit**: inserted, on 1 July 1996, by [section 2(1)][153] of the Wildlife Amendment Act 1996 (1996 No 2).
     
-    Section 2(1) **population management plan**: inserted, on 1 October 1996, by [section 316(1)][157] of the Fisheries Act 1996 (1996 No 88).
+    Section 2(1) **population management plan**: inserted, on 1 October 1996, by [section 316(1)][158] of the Fisheries Act 1996 (1996 No 88).
     
     Section 2(1) **ranger**: amended, on 25 November 1994, by section 2(2) of the Wildlife Amendment Act 1994 (1994 No 109).
     
-    Section 2(1) **Secretary**: repealed, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 2(1) **Secretary**: repealed, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 2(1) **society**: repealed, on 10 April 1990, by [section 65][158] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **society**: repealed, on 10 April 1990, by [section 65][159] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **threatened species**: inserted, on 1 October 1996, by [section 316(1)][157] of the Fisheries Act 1996 (1996 No 88).
+    Section 2(1) **threatened species**: inserted, on 1 October 1996, by [section 316(1)][158] of the Fisheries Act 1996 (1996 No 88).
     
     Section 2(1) **wildlife**: replaced, on 19 September 1980, by section 2(2) of the Wildlife Amendment Act 1980 (1980 No 17).
     
@@ -639,7 +641,7 @@ An Act to consolidate and amend the law relating to the protection and control o
     
     Section 2(1) **wildlife sanctuary** or **sanctuary**: replaced, on 19 September 1980, by section 2(4) of the Wildlife Amendment Act 1980 (1980 No 17).
     
-    Section 2(1A): inserted, on 1 October 1996, by [section 316(1)][157] of the Fisheries Act 1996 (1996 No 88).
+    Section 2(1A): inserted, on 1 October 1996, by [section 316(1)][158] of the Fisheries Act 1996 (1996 No 88).
     
     Section 2(2): repealed, on 17 November 1964, by section 2(2)(a) of the Wildlife Amendment Act 1964 (1964 No 63).
 
@@ -663,30 +665,30 @@ An Act to consolidate and amend the law relating to the protection and control o
     
 *   Notwithstanding anything in [section 3][7], [sections 9 to 14][18], [14A][26], [14B][29], [14C][30], [14E][32], and [37][64] shall not apply in respect of any wildlife outside the outer limits of the territorial sea of New Zealand.
     
-    Section 2B: inserted, on 1 October 1996, by [section 316(1)][157] of the Fisheries Act 1996 (1996 No 88).
+    Section 2B: inserted, on 1 October 1996, by [section 316(1)][158] of the Fisheries Act 1996 (1996 No 88).
 
 ## Part 1  
 Protection of wildlife
 
 ##### 3 Wildlife to be protected
     
-*   Subject to the provisions of this Act, all wildlife is hereby declared to be subject to this Act and (except in the case of wildlife for the time being specified in [Schedule 1][138], [Schedule 2][139], [Schedule 3][140], [Schedule 4][141], or [Schedule 5][142]) to be absolutely protected throughout New Zealand and New Zealand fisheries waters.
+*   Subject to the provisions of this Act, all wildlife is hereby declared to be subject to this Act and (except in the case of wildlife for the time being specified in [Schedule 1][139], [Schedule 2][140], [Schedule 3][141], [Schedule 4][142], or [Schedule 5][143]) to be absolutely protected throughout New Zealand and New Zealand fisheries waters.
     
     Compare: 1921--22 No 57 s 3(1)
     
-    Section 3: amended, on 1 October 1996, by [section 316(1)][157] of the Fisheries Act 1996 (1996 No 88).
+    Section 3: amended, on 1 October 1996, by [section 316(1)][158] of the Fisheries Act 1996 (1996 No 88).
 
 ##### 4 Certain wildlife declared to be game
     
-*   The wildlife for the time being specified in [Schedule 1][138] is hereby declared to be game for the purposes of this Act.
+*   The wildlife for the time being specified in [Schedule 1][139] is hereby declared to be game for the purposes of this Act.
     
     Compare: 1921--22 No 57 s 8(1), (2)
 
 ##### 5 Certain wildlife partially protected
     
-*   (1) The wildlife for the time being specified in [Schedule 2][139] is hereby declared to be partially protected, and that protection shall apply throughout New Zealand, except where that schedule otherwise provides.
+*   (1) The wildlife for the time being specified in [Schedule 2][140] is hereby declared to be partially protected, and that protection shall apply throughout New Zealand, except where that schedule otherwise provides.
     
-    (2) Notwithstanding anything to the contrary in this Act, when any injury or damage to any land or to any property on any land has arisen owing to the presence on the land of any wildlife for the time being specified in [Schedule 2][139], the occupier of the land or any other person with the authority of the occupier may hunt or kill on the land any such wildlife, subject to any regulations for the time being in force under this Act:
+    (2) Notwithstanding anything to the contrary in this Act, when any injury or damage to any land or to any property on any land has arisen owing to the presence on the land of any wildlife for the time being specified in [Schedule 2][140], the occupier of the land or any other person with the authority of the occupier may hunt or kill on the land any such wildlife, subject to any regulations for the time being in force under this Act:
     
     provided that nothing in this subsection shall authorise the hunting or killing of any wildlife in a wildlife sanctuary or wildlife refuge except pursuant to an authority granted under [section 11][20] or [section 14][24] or [section 54][100].
     
@@ -694,7 +696,7 @@ Protection of wildlife
 
 ##### 6 Certain wildlife may be hunted subject to conditions imposed by the Minister
     
-*   (1) The Minister may from time to time in his discretion, by notification, declare that any wildlife for the time being specified in [Schedule 3][140] may be hunted or killed or had in possession subject to such conditions as he prescribes, and any such wildlife may be hunted or killed or had in possession accordingly.
+*   (1) The Minister may from time to time in his discretion, by notification, declare that any wildlife for the time being specified in [Schedule 3][141] may be hunted or killed or had in possession subject to such conditions as he prescribes, and any such wildlife may be hunted or killed or had in possession accordingly.
     
     (2) Without limiting the general power to prescribe conditions conferred by subsection (1), the Minister may prescribe under that subsection any of the following conditions:
         
@@ -710,41 +712,41 @@ Protection of wildlife
     
     (3) Every person who hunts, kills, or has in his or her possession any wildlife to which any notification under subsection (1) refers, otherwise than in accordance with any conditions prescribed by the Minister under this section, commits an offence against this Act and is liable on conviction to the penalty set out in [section 67F(3)][124].
     
-    Section 6(3): replaced, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 6(3): replaced, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
 
 ##### 7 Certain wildlife not protected
     
-*   (1) The wildlife for the time being specified in [Schedule 4][141] is hereby declared to be unprotected throughout New Zealand, except where that schedule otherwise provides:
+*   (1) The wildlife for the time being specified in [Schedule 4][142] is hereby declared to be unprotected throughout New Zealand, except where that schedule otherwise provides:
     
     provided that, where the Minister considers that hunting by other persons is likely to interfere with studies and investigations of or campaigns against the wildlife specified in that schedule carried out by the Department, he may from time to time in his discretion, by notification, declare that any wildlife for the time being specified in that schedule may not be hunted or killed or had in possession in such area and during such period as are specified in the notification.
     
     (2) Every person who in any area and during any period specified in any notification under subsection (1) hunts, kills, or has in his or her possession any wildlife to which the notification refers, commits an offence against this Act and is liable on conviction to the penalty set out in [section 67F(3)][124].
     
-    (3) The wildlife for the time being specified in [Schedule 5][142] is hereby declared to be unprotected throughout New Zealand, except where that schedule otherwise provides.
+    (3) The wildlife for the time being specified in [Schedule 5][143] is hereby declared to be unprotected throughout New Zealand, except where that schedule otherwise provides.
     
-    Section 7(2): replaced, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 7(2): replaced, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
 
 ##### 7A Noxious animals
     
-*   (1) Wild animals of any of the species for the time being specified in [Schedule 6][143] are hereby declared to be noxious animals, and shall be subject to the Noxious Animals Act 1956\.
+*   (1) Wild animals of any of the species for the time being specified in [Schedule 6][144] are hereby declared to be noxious animals, and shall be subject to the Noxious Animals Act 1956\.
     
     (2) The Governor-General may from time to time, by Order in Council,---
         
-    *   (a) amend [Schedule 6][143] by including a reference to any other species of animal, or by omitting the reference to any species of animal for the time being included therein:
+    *   (a) amend [Schedule 6][144] by including a reference to any other species of animal, or by omitting the reference to any species of animal for the time being included therein:
     
-    *   (b) amend any other schedule of this Act by omitting the reference to any species of animal included in [Schedule 6][143] under paragraph (a), or by including the reference to any species of animal excluded from Schedule 6 under that paragraph.
+    *   (b) amend any other schedule of this Act by omitting the reference to any species of animal included in [Schedule 6][144] under paragraph (a), or by including the reference to any species of animal excluded from Schedule 6 under that paragraph.
     
     Section 7A: inserted (with effect on 1 April 1956), on 10 May 1956, by section 2(1) of the Wildlife Amendment Act 1956 (1956 No 5).
 
 ##### 7B Terrestrial and freshwater invertebrates
     
-*   (1) The terrestrial and freshwater invertebrates specified in [Schedule 7][144] are hereby declared to be animals.
+*   (1) The terrestrial and freshwater invertebrates specified in [Schedule 7][145] are hereby declared to be animals.
     
     (2) The Governor-General may from time to time, by Order in Council,---
         
-    *   (a) include, in [Schedule 7][144], any terrestrial or freshwater invertebrate not for the time being specified in that schedule:
+    *   (a) include, in [Schedule 7][145], any terrestrial or freshwater invertebrate not for the time being specified in that schedule:
     
-    *   (b) omit, from [Schedule 7][144], any terrestrial or freshwater invertebrate for the time being specified in that schedule.
+    *   (b) omit, from [Schedule 7][145], any terrestrial or freshwater invertebrate for the time being specified in that schedule.
     
     (3) Any such Order in Council may be expressed to operate throughout New Zealand or in such part or parts of New Zealand and for such period or periods as may be specified.
     
@@ -752,27 +754,27 @@ Protection of wildlife
 
 ##### 7BA Marine species
     
-*   (1) The marine species listed in [Schedule 7A][145] are hereby declared to be animals.
+*   (1) The marine species listed in [Schedule 7A][146] are hereby declared to be animals.
     
     (2) The Governor-General may from time to time, by Order in Council,---
         
-    *   (a) include, in [Schedule 7A][145], the name of any marine species not for the time being listed in that schedule:
+    *   (a) include, in [Schedule 7A][146], the name of any marine species not for the time being listed in that schedule:
     
-    *   (b) omit, from [Schedule 7A][145], the name of any marine species for the time being listed in that schedule.
+    *   (b) omit, from [Schedule 7A][146], the name of any marine species for the time being listed in that schedule.
     
     (3) Any such Order in Council may be expressed to operate throughout New Zealand or New Zealand fisheries waters or such parts thereof, and for such period or periods, as may be specified.
     
-    Section 7BA: inserted, on 1 October 1996, by [section 316(1)][157] of the Fisheries Act 1996 (1996 No 88).
+    Section 7BA: inserted, on 1 October 1996, by [section 316(1)][158] of the Fisheries Act 1996 (1996 No 88).
 
 ##### 7C Farming certain unprotected animals
     
-*   (1) No person shall farm, breed, or sell, or capture or convey or keep in captivity for the purposes of farming, breeding, or selling, any wildlife specified in [Schedule 8][146] unless any such activity is authorised by the Minister pursuant to [section 41][71] or by regulations made under this Act.
+*   (1) No person shall farm, breed, or sell, or capture or convey or keep in captivity for the purposes of farming, breeding, or selling, any wildlife specified in [Schedule 8][147] unless any such activity is authorised by the Minister pursuant to [section 41][71] or by regulations made under this Act.
     
     (2) Every person who contravenes subsection (1) commits an offence against this Act and is liable on conviction to the penalty set out in [section 67F(3)][124].
     
     Section 7C: inserted, on 6 December 1983, by section 2(1) of the Wildlife Amendment Act 1983 (1983 No 48).
     
-    Section 7C(2): replaced, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 7C(2): replaced, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
 
 ##### 8 Alteration of schedules
     
@@ -792,9 +794,9 @@ Protection of wildlife
     
     Compare: 1921--22 No 57 ss 3(2), (5), 5, 8(3)--(6)
     
-    Section 8(3): amended, on 25 January 2005, pursuant to [section 83(7)][162] of the Public Finance Act 1989 (1989 No 44).
+    Section 8(3): amended, on 25 January 2005, pursuant to [section 83(7)][163] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 8(3): amended, on 10 April 1990, by [section 66][163] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 8(3): amended, on 10 April 1990, by [section 66][164] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 #### Wildlife sanctuaries
 
@@ -808,7 +810,7 @@ Protection of wildlife
     
     *   (aa) no Order issued under this subsection shall affect any waters of the sea or of any harbour unless it is issued on the joint recommendation of the Minister of Conservation and the Minister of Transport:
     
-    *   (b) a conservation area within the meaning of the [Conservation Act 1987][149] and any foreshore adjacent to any such area and required for a wildlife sanctuary shall be reserved as such pursuant to [section 18][164] of that Act, and thereupon shall be subject to the provisions of this Act relating to sanctuaries, but otherwise shall be subject to that Act:
+    *   (b) a conservation area within the meaning of the [Conservation Act 1987][150] and any foreshore adjacent to any such area and required for a wildlife sanctuary shall be reserved as such pursuant to [section 18][165] of that Act, and thereupon shall be subject to the provisions of this Act relating to sanctuaries, but otherwise shall be subject to that Act:
     
     *   (c) land held for a public work other than a wildlife sanctuary that is required for a sanctuary may be declared to be a wildlife sanctuary only pursuant to section 37 of the Public Works Amendment Act 1948\.
     
@@ -850,69 +852,71 @@ Protection of wildlife
     
     (3) Any prohibition or restriction imposed by an Order in Council under this section may be absolute or conditional, and the Order may authorise the Minister or the Director-General to grant exemptions from any such prohibition or restriction.
     
-    (4) Every person who does any act that is for the time being prohibited by an Order in Council issued under this section or fails to comply in any respect with any condition imposed in any such Order commits an offence against this Act and is liable on conviction to the penalty set out in [section 67F(3)][124].
+    (4) Every person who does any act that is for the time being prohibited by an Order in Council issued under this section or fails to comply in any respect with any condition imposed in any such Order commits an offence against this Act and is liable on conviction to the penalty set out in [section 67F(7)][124].
     
     (5) Every person having any estate or interest in any land included without his consent in any wildlife sanctuary which is injuriously affected or damaged or reduced in value by its inclusion in the sanctuary shall be entitled to full compensation for the same from the Minister. All such claims for compensation shall, unless settled by agreement, be determined within the time and in the manner provided by the Public Works Act 1928, as in the case of land injuriously affected by a public work, and, subject to this section, the provisions of that Act relating to compensation shall, as far as they are applicable and with the necessary modifications, apply accordingly.
     
-    Section 9(1): amended, on 24 May 2013, by [section 4(1)][165] of the Wildlife Amendment Act 2013 (2013 No 18).
+    Section 9(1): amended, on 24 May 2013, by [section 4(1)][166] of the Wildlife Amendment Act 2013 (2013 No 18).
     
-    Section 9(1): amended, on 24 May 2013, by [section 4(3)][165] of the Wildlife Amendment Act 2013 (2013 No 18).
+    Section 9(1): amended, on 24 May 2013, by [section 4(3)][166] of the Wildlife Amendment Act 2013 (2013 No 18).
     
-    Section 9(1): amended, on 24 May 2013, by [section 4(7)][165] of the Wildlife Amendment Act 2013 (2013 No 18).
+    Section 9(1): amended, on 24 May 2013, by [section 4(7)][166] of the Wildlife Amendment Act 2013 (2013 No 18).
     
     Section 9(1): amended, on 21 October 1959, by section 3(1) of the Wildlife Amendment Act 1959 (1959 No 49).
     
-    Section 9(1) proviso paragraph (a): amended, on 24 May 2013, by [section 4(2)][165] of the Wildlife Amendment Act 2013 (2013 No 18).
+    Section 9(1) proviso paragraph (a): amended, on 24 May 2013, by [section 4(2)][166] of the Wildlife Amendment Act 2013 (2013 No 18).
     
-    Section 9(1) proviso paragraph (a): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 9(1) proviso paragraph (a): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
     Section 9(1) proviso paragraph (aa): inserted, on 21 October 1959, by section 3(2) of the Wildlife Amendment Act 1959 (1959 No 49).
     
-    Section 9(1) proviso paragraph (aa): amended, on 24 May 2013, by [section 4(2)][165] of the Wildlife Amendment Act 2013 (2013 No 18).
+    Section 9(1) proviso paragraph (aa): amended, on 24 May 2013, by [section 4(2)][166] of the Wildlife Amendment Act 2013 (2013 No 18).
     
-    Section 9(1) proviso paragraph (aa): amended, on 24 May 2013, by [section 4(4)][165] of the Wildlife Amendment Act 2013 (2013 No 18).
+    Section 9(1) proviso paragraph (aa): amended, on 24 May 2013, by [section 4(4)][166] of the Wildlife Amendment Act 2013 (2013 No 18).
     
-    Section 9(1) proviso paragraph (aa): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 9(1) proviso paragraph (aa): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
     Section 9(1) proviso paragraph (aa): amended, on 1 September 1972, pursuant to section 6(2)(a) of the Ministry of Transport Amendment Act 1972 (1972 No 4).
     
-    Section 9(1) proviso paragraph (b): replaced, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 9(1) proviso paragraph (b): replaced, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 9(1) proviso paragraph (d): repealed, on 1 April 1987, by [section 65 (1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 9(1) proviso paragraph (d): repealed, on 1 April 1987, by [section 65 (1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 9(2): amended, on 24 May 2013, by [section 4(5)][165] of the Wildlife Amendment Act 2013 (2013 No 18).
+    Section 9(2): amended, on 24 May 2013, by [section 4(5)][166] of the Wildlife Amendment Act 2013 (2013 No 18).
     
-    Section 9(2)(c): amended, on 24 May 2013, by [section 4(7)][165] of the Wildlife Amendment Act 2013 (2013 No 18).
+    Section 9(2)(c): amended, on 24 May 2013, by [section 4(7)][166] of the Wildlife Amendment Act 2013 (2013 No 18).
     
-    Section 9(2)(d): amended, on 24 May 2013, by [section 4(7)][165] of the Wildlife Amendment Act 2013 (2013 No 18).
+    Section 9(2)(d): amended, on 24 May 2013, by [section 4(7)][166] of the Wildlife Amendment Act 2013 (2013 No 18).
     
-    Section 9(2)(e): amended, on 24 May 2013, by [section 4(7)][165] of the Wildlife Amendment Act 2013 (2013 No 18).
+    Section 9(2)(e): amended, on 24 May 2013, by [section 4(7)][166] of the Wildlife Amendment Act 2013 (2013 No 18).
     
-    Section 9(2)(f): amended, on 24 May 2013, by [section 4(7)][165] of the Wildlife Amendment Act 2013 (2013 No 18).
+    Section 9(2)(f): amended, on 24 May 2013, by [section 4(7)][166] of the Wildlife Amendment Act 2013 (2013 No 18).
     
-    Section 9(2)(h): amended, on 24 May 2013, by [section 4(7)][165] of the Wildlife Amendment Act 2013 (2013 No 18).
+    Section 9(2)(h): amended, on 24 May 2013, by [section 4(7)][166] of the Wildlife Amendment Act 2013 (2013 No 18).
     
-    Section 9(2)(i): amended, on 24 May 2013, by [section 4(7)][165] of the Wildlife Amendment Act 2013 (2013 No 18).
+    Section 9(2)(i): amended, on 24 May 2013, by [section 4(7)][166] of the Wildlife Amendment Act 2013 (2013 No 18).
     
     Section 9(2)(n): replaced, on 19 September 1980, by section 4 of the Wildlife Amendment Act 1980 (1980 No 17).
     
-    Section 9(3): amended, on 24 May 2013, by [section 4(6)][165] of the Wildlife Amendment Act 2013 (2013 No 18).
+    Section 9(3): amended, on 24 May 2013, by [section 4(6)][166] of the Wildlife Amendment Act 2013 (2013 No 18).
     
-    Section 9(3): amended, on 24 May 2013, by [section 4(7)][165] of the Wildlife Amendment Act 2013 (2013 No 18).
+    Section 9(3): amended, on 24 May 2013, by [section 4(7)][166] of the Wildlife Amendment Act 2013 (2013 No 18).
     
-    Section 9(3): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 9(3): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 9(4): replaced, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 9(4): replaced, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 9(4): amended, on 24 May 2013, by [section 4(3)][165] of the Wildlife Amendment Act 2013 (2013 No 18).
+    Section 9(4): amended, on 25 October 2013, by [section 19][167] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
     
-    Section 9(4): amended, on 24 May 2013, by [section 4(6)][165] of the Wildlife Amendment Act 2013 (2013 No 18).
+    Section 9(4): amended, on 24 May 2013, by [section 4(3)][166] of the Wildlife Amendment Act 2013 (2013 No 18).
+    
+    Section 9(4): amended, on 24 May 2013, by [section 4(6)][166] of the Wildlife Amendment Act 2013 (2013 No 18).
 
 ##### 10 All wildlife in sanctuaries absolutely protected
     
 *   Subject to any provision to the contrary in any Order in Council under [section 9][18], and to [section 11][20], all wildlife in any wildlife sanctuary shall while within the sanctuary be deemed to be absolutely protected, notwithstanding that the wildlife or any species thereof is elsewhere partially protected or is game or is unprotected under this Act.
     
-    Section 10: amended, on 24 May 2013, by [section 5][166] of the Wildlife Amendment Act 2013 (2013 No 18).
+    Section 10: amended, on 24 May 2013, by [section 5][168] of the Wildlife Amendment Act 2013 (2013 No 18).
 
 ##### 11 Destruction or seizure of certain animals found in sanctuaries
     
@@ -926,11 +930,11 @@ Protection of wildlife
     
     (5) All branded cattle, sheep, horses, mules, asses, pigs, or goats found in any wildlife sanctuary (not being animals belonging to the occupier of any land included in the sanctuary) may be seized by a ranger authorised in writing by the Director-General to do so, either generally or in any specified case, and, on conviction of any person for causing or allowing the said animals to be in the sanctuary in breach of the provisions of this Act, may be adjudged by the court to be forfeited to the Crown.
     
-    Section 11(1): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 11(1): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 11(4): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 11(4): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 11(5): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 11(5): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
 
 ##### 12 Mining privileges, coal mining rights, and public works
     
@@ -942,13 +946,13 @@ Protection of wildlife
     
 *   Any officer of the Department, or any officer of any other department in which for the time being is vested the control of any wildlife sanctuary, or any other person acting with the written authority of the Director-General, may in any wildlife sanctuary exercise the powers conferred on rangers by subsection (1) of [section 39][68].
     
-    Section 13: amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 13: amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
 
 #### Wildlife refuges
 
 ##### 14 Wildlife refuges
     
-*   (1) Notwithstanding anything to the contrary in the [Conservation Act 1987][149], the Government Railways Act 1949, or any other Act affecting lands of the Crown, the Governor-General may from time to time, by Proclamation, declare any area described in the Proclamation and available for the purpose, subject in the case of any land other than unoccupied land of the Crown to the consent of the occupier, to be a wildlife refuge for the purposes of this Act, and may in like manner revoke or amend any such Proclamation:
+*   (1) Notwithstanding anything to the contrary in the [Conservation Act 1987][150], the Government Railways Act 1949, or any other Act affecting lands of the Crown, the Governor-General may from time to time, by Proclamation, declare any area described in the Proclamation and available for the purpose, subject in the case of any land other than unoccupied land of the Crown to the consent of the occupier, to be a wildlife refuge for the purposes of this Act, and may in like manner revoke or amend any such Proclamation:
     
     provided that---
         
@@ -956,13 +960,13 @@ Protection of wildlife
     
     *   (aa) no Proclamation issued under this subsection shall affect any waters of the sea or of any harbour within the meaning of the Harbours Act 1950 unless it is issued on the joint recommendation of the Minister of Conservation and the Minister of Transport:
     
-    *   (b) land held for a public work other than a wildlife refuge that is required for a wildlife refuge may be declared to be a wildlife refuge only by a notice under [section 191][167] of the Public Works Act 1981:
+    *   (b) land held for a public work other than a wildlife refuge that is required for a wildlife refuge may be declared to be a wildlife refuge only by a notice under [section 191][169] of the Public Works Act 1981:
     
     *   (c) \[Repealed\]
     
     *   (d) any Proclamation issued under this subsection may be revoked without the consent of the occupier:
     
-    *   (e) a conservation area within the meaning of the [Conservation Act 1987][149] and any foreshore adjacent to any such area, required for a wildlife refuge shall be reserved as such pursuant to [section 18][164] of that Act, and thereupon shall be subject to any or all of the provisions of this Act relating to wildlife refuges, but otherwise shall be subject to the Conservation Act 1987:
+    *   (e) a conservation area within the meaning of the [Conservation Act 1987][150] and any foreshore adjacent to any such area, required for a wildlife refuge shall be reserved as such pursuant to [section 18][165] of that Act, and thereupon shall be subject to any or all of the provisions of this Act relating to wildlife refuges, but otherwise shall be subject to the Conservation Act 1987:
     
     *   (f) any Proclamation issued under this subsection may prohibit or restrict the pollution of any wildlife refuge by means of rubbish, sewage, industrial waste, mining debris, sawmill refuse, or any other means.
     
@@ -972,7 +976,7 @@ Protection of wildlife
     
     (1B) Any prohibition or restriction under subsection (1A) may be absolute or conditional, and the Proclamation or notice may authorise the Minister or the Director-General to grant exemptions from the prohibition or restriction.
     
-    (1C) Every person commits an offence against this Act and is liable on conviction to the penalty set out in [section 67F(3)][124] who does any act that is for the time being prohibited by a Proclamation or notice under subsection (1A) or fails to comply in any respect with any condition imposed in any such Proclamation or notice.
+    (1C) Every person commits an offence against this Act and is liable on conviction to the penalty set out in [section 67F(5)][124] who does any act that is for the time being prohibited by a Proclamation or notice under subsection (1A) or fails to comply in any respect with any condition imposed in any such Proclamation or notice.
     
     (2) Where a wildlife refuge has been declared under subsection (1), the Minister may authorise in writing the occupier of any land included in the wildlife refuge or any other person having the authority of the occupier---
         
@@ -982,15 +986,15 @@ Protection of wildlife
     
     *   (c) to discharge firearms or explosives on the land:
     
-    *   (d) to destroy any animals specified in [Schedule 2][139] or [Schedule 5][142] or [Schedule 6][143] or any rabbits or hares on the land:
+    *   (d) to destroy any animals specified in [Schedule 2][140] or [Schedule 5][143] or [Schedule 6][144] or any rabbits or hares on the land:
     
     *   (e) to do any other acts necessary for the carrying on of the normal use of the land, subject to such conditions as may be prescribed in the Proclamation.
     
-    (2A) Any officer of the Department of Conservation appointed as a ranger under subsection (1) of [section 38][66] or any ranger appointed under paragraph (c) of subsection (2) of that section or any other person authorised in writing in that behalf by the Director-General, either generally or in any particular case, may bring firearms or explosives on to any wildlife refuge for the purpose of destroying any animal specified in [Schedule 2][139] or [Schedule 5][142] or [Schedule 6][143] or any rabbit or hare, where that animal or rabbit or hare is a nuisance or is causing damage to that wildlife refuge or to any wildlife in that wildlife refuge.
+    (2A) Any officer of the Department of Conservation appointed as a ranger under subsection (1) of [section 38][66] or any ranger appointed under paragraph (c) of subsection (2) of that section or any other person authorised in writing in that behalf by the Director-General, either generally or in any particular case, may bring firearms or explosives on to any wildlife refuge for the purpose of destroying any animal specified in [Schedule 2][140] or [Schedule 5][143] or [Schedule 6][144] or any rabbit or hare, where that animal or rabbit or hare is a nuisance or is causing damage to that wildlife refuge or to any wildlife in that wildlife refuge.
     
     (3) While any Proclamation or notice under subsection (1) remains in force, it shall not be lawful for any person, except as provided in subsection (2) or subsection (2A) or in subsection (2) of [section 5][9] or pursuant to an authority granted under [section 53][99] or [section 54][100], to hunt or kill for any purpose, or molest, capture, disturb, harry, or worry any wildlife in the wildlife refuge, or to take, destroy, or disturb the nests, eggs, or spawn of any such wildlife, or for any person to bring onto the wildlife refuge or have in his possession or discharge in the wildlife refuge any firearm or explosive, or have in his possession or control in the wildlife refuge any dog or cat, or to do anything likely to cause any wildlife to leave the wildlife refuge.
     
-    (3A) Every person who contravenes subsection (3) commits an offence against this Act and is liable on conviction to the penalty set out in [section 67F(1)][124].
+    (3A) Every person who contravenes subsection (3) commits an offence against this Act and is liable on conviction to the penalty set out in [section 67F(5)][124].
     
     (4) Notwithstanding anything in this Act or in any regulations under this Act, the performance in any wildlife refuge by any person of any act authorised by the Minister under subsection (2) shall not be deemed a breach of this Act.
     
@@ -998,25 +1002,25 @@ Protection of wildlife
     
     Compare: 1921--22 No 57 s 6
     
-    Section 14(1): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 14(1): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 14(1) proviso paragraph (a): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 14(1) proviso paragraph (a): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
     Section 14(1) proviso paragraph (aa): inserted, on 21 October 1959, by section 4(1) of the Wildlife Amendment Act 1959 (1959 No 49).
     
-    Section 14(1) proviso paragraph (aa): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 14(1) proviso paragraph (aa): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
     Section 14(1) proviso paragraph (aa): amended, on 1 September 1972, pursuant to section 6(2)(a) of the Ministry of Transport Amendment Act 1972 (1972 No 4).
     
     Section 14(1) proviso paragraph (b): amended, on 6 December 1983, by section 3(1) of the Wildlife Amendment Act 1983 (1983 No 48).
     
-    Section 14(1) proviso paragraph (c): repealed, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 14(1) proviso paragraph (c): repealed, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
     Section 14(1) proviso paragraph (d): inserted, on 19 September 1980, by section 5 of the Wildlife Amendment Act 1980 (1980 No 17).
     
-    Section 14(1) proviso paragraph (e): replaced, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 14(1) proviso paragraph (e): replaced, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 14(1) proviso paragraph (e): amended, on 22 October 2003, by [section 3][168] of the Wildlife Amendment Act 2003 (2003 No 103).
+    Section 14(1) proviso paragraph (e): amended, on 22 October 2003, by [section 3][170] of the Wildlife Amendment Act 2003 (2003 No 103).
     
     Section 14(1) proviso paragraph (f): inserted, on 19 September 1980, by section 5 of the Wildlife Amendment Act 1980 (1980 No 17).
     
@@ -1026,13 +1030,15 @@ Protection of wildlife
     
     Section 14(1B): inserted, on 10 May 1956, by section 3 of the Wildlife Amendment Act 1956 (1956 No 5).
     
-    Section 14(1B): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 14(1B): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
     Section 14(1B): amended, on 6 December 1983, by section 3(2) of the Wildlife Amendment Act 1983 (1983 No 48).
     
     Section 14(1C): inserted, on 10 May 1956, by section 3 of the Wildlife Amendment Act 1956 (1956 No 5).
     
-    Section 14(1C): amended, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 14(1C): amended, on 25 October 2013, by [section 20(1)][171] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 14(1C): amended, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
     Section 14(1C): amended, on 6 December 1983, by section 3(2) of the Wildlife Amendment Act 1983 (1983 No 48).
     
@@ -1040,7 +1046,7 @@ Protection of wildlife
     
     Section 14(2A): inserted, on 21 October 1959, by section 4(3) of the Wildlife Amendment Act 1959 (1959 No 49).
     
-    Section 14(2A): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 14(2A): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
     Section 14(2A): amended, on 17 November 1964, by section 3(2) of the Wildlife Amendment Act 1964 (1964 No 63).
     
@@ -1048,7 +1054,9 @@ Protection of wildlife
     
     Section 14(3): amended, on 21 October 1959, by section 4(4) of the Wildlife Amendment Act 1959 (1959 No 49).
     
-    Section 14(3A): inserted, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 14(3A): inserted, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    
+    Section 14(3A): amended, on 25 October 2013, by [section 20(2)][171] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
 
 #### Wildlife management reserves
     
@@ -1056,7 +1064,7 @@ Protection of wildlife
 
 ##### 14A Wildlife management reserves
     
-*   (1) Notwithstanding anything to the contrary in the [Conservation Act 1987][149], the Government Railways Act 1949, or any other Act affecting lands of the Crown the Governor-General may from time to time, by Proclamation, declare any area described in the Proclamation and available for the purpose, subject in the case of any land other than unoccupied land of the Crown to the consent of the occupier, to be a wildlife management reserve for the purposes of this Act subject to such conditions as may be specified in the Proclamation; and may in like manner revoke or amend any such Proclamation:
+*   (1) Notwithstanding anything to the contrary in the [Conservation Act 1987][150], the Government Railways Act 1949, or any other Act affecting lands of the Crown the Governor-General may from time to time, by Proclamation, declare any area described in the Proclamation and available for the purpose, subject in the case of any land other than unoccupied land of the Crown to the consent of the occupier, to be a wildlife management reserve for the purposes of this Act subject to such conditions as may be specified in the Proclamation; and may in like manner revoke or amend any such Proclamation:
     
     provided that---
         
@@ -1066,9 +1074,9 @@ Protection of wildlife
     
     *   (c) no Proclamation issued under this subsection shall affect any land owned or leased by a Fish and Game Council without the consent of that Council:
     
-    *   (d) land held for a public work other than a wildlife management reserve that is required for a wildlife management reserve may be declared to be a wildlife management reserve only pursuant to [section 191][167] of the Public Works Act 1981:
+    *   (d) land held for a public work other than a wildlife management reserve that is required for a wildlife management reserve may be declared to be a wildlife management reserve only pursuant to [section 191][169] of the Public Works Act 1981:
     
-    *   (e) a conservation area within the meaning of the [Conservation Act 1987][149], and any foreshore adjacent to any such area, required for a wildlife management reserve shall be reserved as such pursuant to [section 18][164] of that Act, and thereupon shall be subject to the provisions of this Act relating to wildlife management reserves, but otherwise shall be subject to that Act:
+    *   (e) a conservation area within the meaning of the [Conservation Act 1987][150], and any foreshore adjacent to any such area, required for a wildlife management reserve shall be reserved as such pursuant to [section 18][165] of that Act, and thereupon shall be subject to the provisions of this Act relating to wildlife management reserves, but otherwise shall be subject to that Act:
     
     *   (f) any Proclamation issued under this subsection may be revoked without the consent of the occupier.
     
@@ -1076,31 +1084,33 @@ Protection of wildlife
     
     (3) Any prohibition or restriction imposed by a Proclamation under this section may be absolute or conditional, and the Proclamation may authorise the Minister or the Director-General to grant exemptions from any such prohibition or restriction.
     
-    (4) Every person commits an offence against this Act and is liable on conviction to the penalty set out in [section 67F(3)][124] who does any act that is prohibited by a Proclamation issued under this section, or fails to comply in any respect with any condition imposed in any such Proclamation.
+    (4) Every person commits an offence against this Act and is liable on conviction to the penalty set out in [section 67F(5)][124] who does any act that is prohibited by a Proclamation issued under this section, or fails to comply in any respect with any condition imposed in any such Proclamation.
     
     Section 14A: inserted, on 19 September 1980, by section 6(1) of the Wildlife Amendment Act 1980 (1980 No 17).
     
-    Section 14A(1): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 14A(1): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 14A(1) proviso paragraph (a): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 14A(1) proviso paragraph (a): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 14A(1) proviso paragraph (b): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 14A(1) proviso paragraph (b): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
     Section 14A(1) proviso paragraph (b): amended, on 6 December 1983, by section 3(1) of the Wildlife Amendment Act 1983 (1983 No 48).
     
-    Section 14A(1) proviso paragraph (c): replaced, on 10 April 1990, by [section 67][169] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 14A(1) proviso paragraph (c): replaced, on 10 April 1990, by [section 67][172] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 14A(1) proviso paragraph (d): amended, on 1 February 1982, pursuant to [section 248(1)][170] of the Public Works Act 1981 (1981 No 35).
+    Section 14A(1) proviso paragraph (d): amended, on 1 February 1982, pursuant to [section 248(1)][173] of the Public Works Act 1981 (1981 No 35).
     
-    Section 14A(1) proviso paragraph (e): replaced, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 14A(1) proviso paragraph (e): replaced, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 14A(3): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 14A(3): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 14A(4): amended, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 14A(4): amended, on 25 October 2013, by [section 21][174] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 14A(4): amended, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
 
 ##### 14AA Granting of concessions in wildlife sanctuaries, wildlife refuges, and wildlife management reserves
     
-*   (1) The Minister may, in accordance with [Part 3B][171] of the Conservation Act 1987, grant a concession in respect of any wildlife sanctuary, wildlife refuge, or wildlife management reserve held or managed by the Minister; and the said Part 3B shall apply as if references in that Part to a conservation area were references to a sanctuary, refuge, or reserve under this Act and with any other necessary modifications.
+*   (1) The Minister may, in accordance with [Part 3B][175] of the Conservation Act 1987, grant a concession in respect of any wildlife sanctuary, wildlife refuge, or wildlife management reserve held or managed by the Minister; and the said Part 3B shall apply as if references in that Part to a conservation area were references to a sanctuary, refuge, or reserve under this Act and with any other necessary modifications.
     
     (2) The Minister may impose a reasonable charge for the use of any facilities (other than a path or track) provided by the Minister in or in respect of any such sanctuary, refuge, or reserve.
     
@@ -1116,11 +1126,11 @@ Protection of wildlife
     
     (4) Nothing in this section authorises any person to do anything on or in respect of any private land.
     
-    Section 14AA: inserted, on 1 July 1996, by [section 3(1)][172] of the Wildlife Amendment Act 1996 (1996 No 2).
+    Section 14AA: inserted, on 1 July 1996, by [section 3(1)][176] of the Wildlife Amendment Act 1996 (1996 No 2).
 
 #### Management planning
     
-*   Heading: replaced, on 10 April 1990, by [section 68][173] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Heading: replaced, on 10 April 1990, by [section 68][177] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 14B Wildlife areas to be managed by Department
     
@@ -1130,7 +1140,7 @@ Protection of wildlife
     
     *   (b) any conservation management strategy and any conservation management plan for the time being in force for the area concerned.
     
-    Section 14B: replaced, on 10 April 1990, by [section 68][173] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 14B: replaced, on 10 April 1990, by [section 68][177] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 14C General policy
     
@@ -1138,9 +1148,9 @@ Protection of wildlife
     
     (2) Nothing in any such general policy shall derogate from any provision in this Act or any other Act.
     
-    (3) For the purposes of this section, [sections 17B][174] (except subsections (1) and (2)) and [17N][175] of the Conservation Act 1987 shall, with any necessary modifications, apply with respect to such general policies.
+    (3) For the purposes of this section, [sections 17B][178] (except subsections (1) and (2)) and [17N][179] of the Conservation Act 1987 shall, with any necessary modifications, apply with respect to such general policies.
     
-    Section 14C: replaced, on 10 April 1990, by [section 68][173] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 14C: replaced, on 10 April 1990, by [section 68][177] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 14D Conservation management strategies
     
@@ -1148,21 +1158,21 @@ Protection of wildlife
     
     (2) No work (other than necessary work associated with the day-to-day administration and management of the wildlife sanctuary, wildlife refuge, or wildlife management reserve) shall be undertaken on any wildlife sanctuary, wildlife refuge, or wildlife management reserve before a conservation management strategy or conservation management plan for that area is approved.
     
-    Section 14D: inserted, on 10 April 1990, by [section 68][173] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 14D: inserted, on 10 April 1990, by [section 68][177] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 14E Conservation management plans
     
 *   (1) The purpose of a conservation management plan under this section is to establish objectives for the management of any wildlife sanctuary, wildlife refuge, or wildlife management reserve, or any combination of them.
     
-    (2) Nothing in [section 41][176] of the Reserves Act 1977 shall apply in respect of the subject matter of any conservation management plan.
+    (2) Nothing in [section 41][180] of the Reserves Act 1977 shall apply in respect of the subject matter of any conservation management plan.
     
-    (3) Subject to subsection (4), for the purposes of this section, [sections 17E][177] (except subsections (1), (4), and (6)), [17G][178], [17H][179], [17I][180], and [17N][175] of the Conservation Act 1987 shall, with any necessary modifications, apply with respect to conservation management plans.
+    (3) Subject to subsection (4), for the purposes of this section, [sections 17E][181] (except subsections (1), (4), and (6)), [17G][182], [17H][183], [17I][184], and [17N][179] of the Conservation Act 1987 shall, with any necessary modifications, apply with respect to conservation management plans.
     
-    (4) Where a draft conservation management plan under this section relates to a wildlife sanctuary, wildlife refuge, or wildlife management reserve established on land other than land of the Crown, the Director-General may determine that the provisions of paragraphs (a) to (j) of [section 17F][181] of the Conservation Act 1987 (as applied by [section 17G(1)][178] of that Act) shall not apply in respect of that plan.
+    (4) Where a draft conservation management plan under this section relates to a wildlife sanctuary, wildlife refuge, or wildlife management reserve established on land other than land of the Crown, the Director-General may determine that the provisions of paragraphs (a) to (j) of [section 17F][185] of the Conservation Act 1987 (as applied by [section 17G(1)][182] of that Act) shall not apply in respect of that plan.
     
     (5) All management plans approved under this Act before the commencement of this section shall be deemed to have been approved under this section.
     
-    Section 14E: inserted, on 10 April 1990, by [section 68][173] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 14E: inserted, on 10 April 1990, by [section 68][177] of the Conservation Law Reform Act 1990 (1990 No 31).
     
     Section 14E(3): amended, on 25 November 1994, by section 3 of the Wildlife Amendment Act 1994 (1994 No 109).
 
@@ -1190,7 +1200,7 @@ Protection of wildlife
     
     (2) In the case of any marine wildlife ranging outside New Zealand fisheries waters, the maximum allowable level of fishing-related mortality set under paragraph (f) or paragraph (g) of subsection (1) shall be based on a fair and equitable consideration of the proportion that the estimated fishing-related mortality of that species within those waters is to the total estimated fishing-related mortality of that species in all waters (including waters outside New Zealand fisheries waters).
     
-    Section 14F: inserted, on 1 October 1996, by [section 316(1)][157] of the Fisheries Act 1996 (1996 No 88).
+    Section 14F: inserted, on 1 October 1996, by [section 316(1)][158] of the Fisheries Act 1996 (1996 No 88).
 
 ##### 14G Determining maximum allowable level of fishing-related mortality
     
@@ -1200,7 +1210,7 @@ Protection of wildlife
     
     *   (b) in the case of any other marine wildlife, shall determine a level of fishing-related mortality which should neither cause a net reduction in the size of the population nor seriously threaten the reproductive capacity of the species.
     
-    Section 14G: inserted, on 1 October 1996, by [section 316(1)][157] of the Fisheries Act 1996 (1996 No 88).
+    Section 14G: inserted, on 1 October 1996, by [section 316(1)][158] of the Fisheries Act 1996 (1996 No 88).
 
 ##### 14H Determining area-based maximum levels of fishing-related mortality
     
@@ -1208,11 +1218,11 @@ Protection of wildlife
         
     *   (a) for populations of threatened species that are geographically or genetically discrete; and
     
-    *   (b) for areas corresponding to areas having effect under the [Fisheries Act 1996][182] as fisheries management areas or quota management areas.
+    *   (b) for areas corresponding to areas having effect under the [Fisheries Act 1996][186] as fisheries management areas or quota management areas.
     
     (2) In setting any area-based limit for a threatened species under [section 14F(1)(g)][33], the Minister shall determine a level of fishing-related mortality for a discrete population referred to in subsection (1) which should neither cause a net reduction in the size of the population nor seriously threaten the reproductive capacity of that population.
     
-    Section 14H: inserted, on 1 October 1996, by [section 316(1)][157] of the Fisheries Act 1996 (1996 No 88).
+    Section 14H: inserted, on 1 October 1996, by [section 316(1)][158] of the Fisheries Act 1996 (1996 No 88).
 
 ##### 14I Procedure for preparation and approval of population management plans
     
@@ -1282,7 +1292,7 @@ Protection of wildlife
     
     (3) Any approved plan may be amended, and paragraph (a) and paragraphs (l) to (p) of subsection (1) and subsection (2) shall apply to every such amendment with any necessary modifications.
     
-    Section 14I: inserted, on 1 October 1996, by [section 316(1)][157] of the Fisheries Act 1996 (1996 No 88).
+    Section 14I: inserted, on 1 October 1996, by [section 316(1)][158] of the Fisheries Act 1996 (1996 No 88).
 
 ## Part 2  
 Game
@@ -1309,9 +1319,9 @@ Game
     
     (6) Every person who hunts or kills any game during a close season commits an offence against this Act and is liable on conviction to the penalty set out in [section 67E(3)][123].
     
-    Section 15: replaced, on 13 March 1996, by [section 4][183] of the Wildlife Amendment Act 1996 (1996 No 2).
+    Section 15: replaced, on 13 March 1996, by [section 4][187] of the Wildlife Amendment Act 1996 (1996 No 2).
     
-    Section 15(6): replaced, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 15(6): replaced, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
 
 ##### 16 Notification as to conditions on which open season declared
     
@@ -1343,17 +1353,17 @@ Game
     
     Compare: 1921--22 No 57 s 10
     
-    Section 16(1): amended, on 13 March 1996, by [section 5(1)(a)][184] of the Wildlife Amendment Act 1996 (1996 No 2).
+    Section 16(1): amended, on 13 March 1996, by [section 5(1)(a)][188] of the Wildlife Amendment Act 1996 (1996 No 2).
     
     Section 16(1)(bb): inserted, on 17 November 1964, by section 4(1) of the Wildlife Amendment Act 1964 (1964 No 63).
     
     Section 16(1)(cc): inserted, on 21 October 1959, by section 5(1) of the Wildlife Amendment Act 1959 (1959 No 49).
     
-    Section 16(1)(cc): amended, on 13 March 1996, by [section 5(1)(b)][184] of the Wildlife Amendment Act 1996 (1996 No 2).
+    Section 16(1)(cc): amended, on 13 March 1996, by [section 5(1)(b)][188] of the Wildlife Amendment Act 1996 (1996 No 2).
     
-    Section 16(2): replaced, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 16(2): replaced, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 16(3): replaced, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 16(3): replaced, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
 
 ##### 17 Hunting or killing in game areas
     
@@ -1389,23 +1399,23 @@ Game
     
     Section 17: replaced, on 20 October 1972, by section 2(1) of the Wildlife Amendment Act 1972 (1972 No 116).
     
-    Section 17(2): replaced, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 17(2): replaced, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 17(3): replaced, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 17(3): replaced, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 17(4): amended, on 10 April 1990, by [section 70(a)][185] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 17(4): amended, on 10 April 1990, by [section 70(a)][189] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 17(4): amended, on 10 April 1990, by [section 70(b)][185] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 17(4): amended, on 10 April 1990, by [section 70(b)][189] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 17(4): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 17(4): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 17(5): amended, on 10 April 1990, by [section 70(c)][185] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 17(5): amended, on 10 April 1990, by [section 70(c)][189] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 17(6): amended, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 17(6): amended, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 17(7): amended, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 17(7): amended, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 17(8): amended, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 17(8): amended, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
 
 ##### 18 Restrictions on the taking of game
     
@@ -1491,7 +1501,7 @@ Game
     
     Section 18(1)(g): amended, on 21 October 1959, by section 7(c) of the Wildlife Amendment Act 1959 (1959 No 49).
     
-    Section 18(1A): inserted, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 18(1A): inserted, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
     Section 18(2) **row boat**: amended, on 21 October 1959, by section 7(d) of the Wildlife Amendment Act 1959 (1959 No 49).
 
@@ -1519,7 +1529,7 @@ Game
     
     *   (b) where there are several such persons, such one of them as is, by notice in writing signed by all of them and delivered to the Fish and Game Council for the area concerned, appointed to be the occupier for the purposes of that subsection. Every such appointment shall continue in force during the whole of the open season in respect of which it is made and shall lapse at the end of that season.
     
-    (4A) In subsection (3) the term _occupier_, in relation to any land, does not include a person appointed under the [Conservation Act 1987][149] to be the manager of a marginal strip.
+    (4A) In subsection (3) the term _occupier_, in relation to any land, does not include a person appointed under the [Conservation Act 1987][150] to be the manager of a marginal strip.
     
     (5) On production to the Fish and Game Council of the appointment referred to in paragraph (b) of subsection (4), the Fish and Game Council shall endorse on the appointment a certificate that it has been so produced and shall return it to the person appointed, who shall, in any circumstances where a licence under this Act to hunt or kill game is required, produce that appointment so endorsed to any authorised person (as defined in subsection (3) of [section 61][108]) demanding its production, and if he fails to do so he commits an offence against this Act and is liable on conviction to the penalty set out in [section 67E(1)][123].
     
@@ -1527,19 +1537,19 @@ Game
     
     Compare: 1921--22 No 57 s 14
     
-    Section 19(1): replaced, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 19(1): replaced, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 19(2): repealed, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 19(2): repealed, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 19(3): amended, on 26 April 2005, by [section 7][186] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 19(3): amended, on 26 April 2005, by [section 7][190] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 19(4)(b): amended, on 10 April 1990, by [section 71(1)(c)][187] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 19(4)(b): amended, on 10 April 1990, by [section 71(1)(c)][191] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 19(4A): inserted, on 10 April 1990, by [section 71(2)][187] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 19(4A): inserted, on 10 April 1990, by [section 71(2)][191] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 19(5): amended, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 19(5): amended, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 19(5): amended, on 10 April 1990, by [section 71(1)(d)][187] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 19(5): amended, on 10 April 1990, by [section 71(1)(d)][191] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 19A Game bird habitat stamp
     
@@ -1573,7 +1583,7 @@ Game
     
     (2) In subsection (1), the term _occupier_ includes:
         
-    *   (a) in the case of any reserve within the meaning of the [Reserves Act 1977][156], the Director-General or, as the case may require, the administering body:
+    *   (a) in the case of any reserve within the meaning of the [Reserves Act 1977][157], the Director-General or, as the case may require, the administering body:
     
     *   (b) in the case of any land actually and exclusively used by any Fish and Game Council for the purposes of this Act, that Fish and Game Council:
     
@@ -1583,13 +1593,13 @@ Game
     
     Section 21: replaced, on 6 December 1983, by section 6 of the Wildlife Amendment Act 1983 (1983 No 48).
     
-    Section 21(2)(a): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 21(2)(a): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 21(2)(b): amended, on 10 April 1990, by [section 72(a)][188] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 21(2)(b): amended, on 10 April 1990, by [section 72(a)][192] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 21(2)(c): amended, on 10 April 1990, by [section 72(b)][188] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 21(2)(c): amended, on 10 April 1990, by [section 72(b)][192] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 21(2)(c): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 21(2)(c): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
 
 ##### 22 Shooting of game not in flight prohibited
     
@@ -1609,9 +1619,9 @@ Game
     
     *   (b) subject to paragraph (a), a bird shall be deemed to be _in flight_ at all times when it is airborne, including times when it is soaring or banking or swooping, and whether its wings are in motion or not.
     
-    Section 22(1): replaced, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 22(1): replaced, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 22(1A): inserted, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 22(1A): inserted, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
 
 ##### 23 Sale of game and sale of shooting rights prohibited
     
@@ -1639,13 +1649,13 @@ Game
     
     Compare: 1921--22 No 57 s 16
     
-    Section 23(1): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 23(1): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 23(1) proviso: amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 23(1) proviso: amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 23(2A): inserted, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 23(2A): inserted, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 23(4): inserted, on 13 March 1996, by [section 7][189] of the Wildlife Amendment Act 1996 (1996 No 2).
+    Section 23(4): inserted, on 13 March 1996, by [section 7][193] of the Wildlife Amendment Act 1996 (1996 No 2).
 
 ## Part 3  
 Administration
@@ -1654,85 +1664,85 @@ Administration
 
 \[Repealed\]
     
-*   Heading: repealed, on 10 April 1990, by [section 73(2)][190] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Heading: repealed, on 10 April 1990, by [section 73(2)][194] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 24 Acclimatisation districts
     
 *   \[Repealed\]
     
-    Section 24: repealed, on 10 April 1990, by [section 73(2)][190] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 24: repealed, on 10 April 1990, by [section 73(2)][194] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 25 Acclimatisation societies
     
 *   \[Repealed\]
     
-    Section 25: repealed, on 31 May 1990, by [section 74(2)][191] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 25: repealed, on 31 May 1990, by [section 74(2)][195] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 26 Societies to be bodies corporate
     
 *   \[Repealed\]
     
-    Section 26: repealed, on 31 May 1990, by [section 74(2)][191] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 26: repealed, on 31 May 1990, by [section 74(2)][195] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 27 Appointment to councils of societies of representatives of farming interests, etc
     
 *   \[Repealed\]
     
-    Section 27: repealed, on 31 May 1990, by [section 74(2)][191] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 27: repealed, on 31 May 1990, by [section 74(2)][195] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 28 Disqualification of officers of societies
     
 *   \[Repealed\]
     
-    Section 28: repealed, on 31 May 1990, by [section 74(2)][191] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 28: repealed, on 31 May 1990, by [section 74(2)][195] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 29 Rules of acclimatisation societies
     
 *   \[Repealed\]
     
-    Section 29: repealed, on 31 May 1990, by [section 74(2)][191] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 29: repealed, on 31 May 1990, by [section 74(2)][195] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 30 Functions of societies
     
 *   \[Repealed\]
     
-    Section 30: repealed, on 31 May 1990, by [section 74(2)][191] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 30: repealed, on 31 May 1990, by [section 74(2)][195] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 31 Appointment of officers and servants
     
 *   \[Repealed\]
     
-    Section 31: repealed, on 31 May 1990, by [section 74(2)][191] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 31: repealed, on 31 May 1990, by [section 74(2)][195] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 32 Societies may undertake research
     
 *   \[Repealed\]
     
-    Section 32: repealed, on 31 May 1990, by [section 74(2)][191] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 32: repealed, on 31 May 1990, by [section 74(2)][195] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 33 Expenditure by societies
     
 *   \[Repealed\]
     
-    Section 33: repealed, on 31 May 1990, by [section 74(2)][191] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 33: repealed, on 31 May 1990, by [section 74(2)][195] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 34 Annual reports and balance sheets of societies to be forwarded to Minister
     
 *   \[Repealed\]
     
-    Section 34: repealed, on 31 May 1990, by [section 74(2)][191] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 34: repealed, on 31 May 1990, by [section 74(2)][195] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 35 Failure of society to act
     
 *   \[Repealed\]
     
-    Section 35: repealed, on 31 May 1990, by [section 74(2)][191] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 35: repealed, on 31 May 1990, by [section 74(2)][195] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 36 Dissolution of societies
     
 *   \[Repealed\]
     
-    Section 36: repealed, on 31 May 1990, by [section 74(2)][191] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 36: repealed, on 31 May 1990, by [section 74(2)][195] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 #### Wildlife districts
 
@@ -1752,13 +1762,13 @@ Administration
     
     (3) Where the control of game in any part of a wildlife district is vested in the Department under this section, the provisions of this Act relating to game shall apply with respect to game in that part of the district as if that part were an area under the jurisdiction of a Fish and Game Council; and for that purpose the Director-General shall in that part have all the powers of a Fish and Game Council under this Act.
     
-    Section 37: replaced, on 10 April 1990, by [section 75][192] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 37: replaced, on 10 April 1990, by [section 75][196] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 #### Rangers
 
 ##### 38 Rangers
     
-*   (1) There may from time to time be appointed under the provisions of the [State Sector Act 1988][193] suitable persons to be rangers for the purposes of this Act.
+*   (1) There may from time to time be appointed under the provisions of the [State Sector Act 1988][197] suitable persons to be rangers for the purposes of this Act.
     
     (2) The Director-General may from time to time appoint---
         
@@ -1770,7 +1780,7 @@ Administration
     
     (3) A ranger may be appointed for a particular district or area or to exercise his duties generally throughout New Zealand.
     
-    (4) Every constable, and every warranted officer appointed under subsection (1) or deemed to have been appointed by subsection (9) of [section 59][194] of the Conservation Act 1987, shall by virtue of his office be deemed to be a ranger appointed by the Director-General to exercise his duties generally throughout New Zealand.
+    (4) Every constable, and every warranted officer appointed under subsection (1) or deemed to have been appointed by subsection (9) of [section 59][198] of the Conservation Act 1987, shall by virtue of his office be deemed to be a ranger appointed by the Director-General to exercise his duties generally throughout New Zealand.
     
     (5) Every ranger appointed under subsection (2) shall be appointed for such term, not exceeding 3 years, as the Director-General thinks fit, and may be reappointed.
     
@@ -1778,33 +1788,33 @@ Administration
     
     (7) Any ranger appointed under subsection (2) shall, on the expiration of the term of his appointment, or on the sooner expiry of his appointment by removal from office or resignation, surrender to the Director-General his warrant of appointment.
     
-    (8) No person appointed by the Director-General under this section to be a ranger shall by virtue of that appointment be deemed to be employed in the service of Her Majesty for the purposes of the [State Sector Act 1988][193] or of the [Government Superannuation Fund Act 1956][195].
+    (8) No person appointed by the Director-General under this section to be a ranger shall by virtue of that appointment be deemed to be employed in the service of Her Majesty for the purposes of the [State Sector Act 1988][197] or of the [Government Superannuation Fund Act 1956][199].
     
     (9) Every person (not being a constable) who at the commencement of this Act holds an appointment as a ranger under section 35 of the Animals Protection and Game Act 1921--22 shall be deemed to have ceased to hold that appointment as from the commencement of this Act.
     
-    Compare: 1921--22 No 57 s 35; 1946 No 40 [s 5][196]
+    Compare: 1921--22 No 57 s 35; 1946 No 40 [s 5][200]
     
-    Section 38(1): amended, on 1 April 1988, pursuant to [section 88(1)][197] of the State Sector Act 1988 (1988 No 20).
+    Section 38(1): amended, on 1 April 1988, pursuant to [section 88(1)][201] of the State Sector Act 1988 (1988 No 20).
     
-    Section 38(2): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 38(2): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 38(2)(c): amended, on 10 April 1990, by [section 76(1)][198] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 38(2)(c): amended, on 10 April 1990, by [section 76(1)][202] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 38(4): amended, on 10 April 1990, by [section 76(2)][198] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 38(4): amended, on 10 April 1990, by [section 76(2)][202] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 38(4): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 38(4): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 38(5): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 38(5): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 38(6): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 38(6): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 38(7): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 38(7): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 38(8): amended, on 1 April 1988, pursuant to [section 88(1)][197] of the State Sector Act 1988 (1988 No 20).
+    Section 38(8): amended, on 1 April 1988, pursuant to [section 88(1)][201] of the State Sector Act 1988 (1988 No 20).
     
-    Section 38(8): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 38(8): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 38(8): amended, on 1 November 1976, by [section 3(3)][199] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
+    Section 38(8): amended, on 1 November 1976, by [section 3(3)][203] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
 
 ##### 38A Fish and game rangers to be rangers under this Act
     
@@ -1836,19 +1846,19 @@ Administration
         
         
     
-    provided that any issuing officer (within the meaning of [section 3][200] of the Search and Surveillance Act 2012) who is satisfied on reasonable grounds that any breach of this Act or of any regulations under this Act has been or is being committed, or that preparation has been made to commit such a breach, within any of the hereinbefore excepted premises, may, by warrant under his hand, empower a ranger to enter those premises for the purpose of detecting that offence.
+    provided that any issuing officer (within the meaning of [section 3][204] of the Search and Surveillance Act 2012) who is satisfied on reasonable grounds that any breach of this Act or of any regulations under this Act has been or is being committed, or that preparation has been made to commit such a breach, within any of the hereinbefore excepted premises, may, by warrant under his hand, empower a ranger to enter those premises for the purpose of detecting that offence.
     
     (2) The production by a ranger of his warrant of appointment shall be sufficient evidence of that appointment.
     
-    (3) The provisions of [Part 4][201] of the Search and Surveillance Act 2012 (except [sections 118][202] and [119][203]) apply.
+    (3) The provisions of [Part 4][205] of the Search and Surveillance Act 2012 (except [sections 118][206] and [119][207]) apply.
     
     Compare: 1921--22 No 57 s 36(1), (2)
     
-    Section 39(1)(f) proviso: amended, on 1 October 2012, by [section 309(2)(a)][204] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 39(1)(f) proviso: amended, on 1 October 2012, by [section 309(2)(a)][208] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 39(1)(f) proviso: amended, on 1 October 2012, by [section 309(2)(b)][204] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 39(1)(f) proviso: amended, on 1 October 2012, by [section 309(2)(b)][208] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 39(3): inserted, on 1 October 2012, by [section 309(3)][204] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 39(3): inserted, on 1 October 2012, by [section 309(3)][208] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 40 Obstructing rangers
     
@@ -1860,11 +1870,11 @@ Administration
     
     Section 40 heading: amended, on 6 December 1983, by section 9 of the Wildlife Amendment Act 1983 (1983 No 48).
     
-    Section 40(1): amended, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 40(1): amended, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
     Section 40(1): amended, on 6 December 1983, by section 9 of the Wildlife Amendment Act 1983 (1983 No 48).
     
-    Section 40(2): repealed, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 40(2): repealed, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
 
 #### Powers of Minister
 
@@ -1906,7 +1916,7 @@ Administration
     
     *   (g) with the written consent of the occupier, and subject to the provisions of any other Act, construct and maintain on any land any roads, roadways, tracks, paths, bridges, culverts, ferries, and other means of access necessary for the purposes of this Act:
     
-    *   (h) subject to any regulations made under this Act, regulate, control, or prohibit the keeping, breeding, disposing, or farming of any wildlife specified in [Schedule 8][146].
+    *   (h) subject to any regulations made under this Act, regulate, control, or prohibit the keeping, breeding, disposing, or farming of any wildlife specified in [Schedule 8][147].
     
     (3) All documents that require to be executed for the purposes of this Act by or on behalf of Her Majesty may, unless otherwise provided by this Act, be executed by the Minister, and, if so executed, shall be as valid and effectual as if executed by or on behalf of Her Majesty.
     
@@ -1914,9 +1924,9 @@ Administration
     
     Section 41(1)(b): amended, on 19 September 1980, by section 7(2) of the Wildlife Amendment Act 1980 (1980 No 17).
     
-    Section 41(1)(c): amended, on 10 April 1990, by [section 77(1)][205] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 41(1)(c): amended, on 10 April 1990, by [section 77(1)][209] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 41(1)(fa): inserted, on 10 April 1990, by [section 77(2)][205] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 41(1)(fa): inserted, on 10 April 1990, by [section 77(2)][209] of the Conservation Law Reform Act 1990 (1990 No 31).
     
     Section 41(2)(h): inserted, on 6 December 1983, by section 10 of the Wildlife Amendment Act 1983 (1983 No 48).
 
@@ -1924,13 +1934,13 @@ Administration
     
 *   (1) The Minister may from time to time take such steps as he thinks fit for the fencing of any land held by the Crown for the purposes of this Act.
     
-    (2) The Minister may enter into any agreement upon such terms and conditions as he considers reasonable with the occupier within the meaning of the [Fencing Act 1978][206] of land adjoining any land held by the Crown for the purposes of this Act for the fencing of the common boundary.
+    (2) The Minister may enter into any agreement upon such terms and conditions as he considers reasonable with the occupier within the meaning of the [Fencing Act 1978][210] of land adjoining any land held by the Crown for the purposes of this Act for the fencing of the common boundary.
     
-    (3) Where any fence within the meaning of the [Fencing Act 1978][206] is erected pursuant to an agreement with any such occupier, the occupier shall be liable, notwithstanding anything to the contrary in that Act, to pay such amount as may have been agreed upon by the Minister and the occupier, and that amount may be recovered from the occupier as a debt due to the Crown.
+    (3) Where any fence within the meaning of the [Fencing Act 1978][210] is erected pursuant to an agreement with any such occupier, the occupier shall be liable, notwithstanding anything to the contrary in that Act, to pay such amount as may have been agreed upon by the Minister and the occupier, and that amount may be recovered from the occupier as a debt due to the Crown.
     
-    Section 42(2): amended, on 1 April 1979, pursuant to [section 28(1)][207] of the Fencing Act 1978 (1978 No 50).
+    Section 42(2): amended, on 1 April 1979, pursuant to [section 28(1)][211] of the Fencing Act 1978 (1978 No 50).
     
-    Section 42(3): amended, on 1 April 1979, pursuant to [section 28(1)][207] of the Fencing Act 1978 (1978 No 50).
+    Section 42(3): amended, on 1 April 1979, pursuant to [section 28(1)][211] of the Fencing Act 1978 (1978 No 50).
 
 ##### 43 Tenancies
     
@@ -1938,7 +1948,7 @@ Administration
     
     Compare: 1921--1922 No 57 s 7(2)
     
-    Section 43: amended, on 10 April 1990, by [section 78][208] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 43: amended, on 10 April 1990, by [section 78][212] of the Conservation Law Reform Act 1990 (1990 No 31).
     
     Section 43: amended, on 1 January 1963, pursuant to section 3(10) of the State Services Act 1962 (1962 No 132).
     
@@ -1960,16 +1970,16 @@ Administration
     
     (6) Every delegation made under this section by the Minister or by any other person holding any office shall, until it is revoked, continue in force according to its tenor, notwithstanding the fact that the Minister or other officer by whom it was made may have ceased to hold office, and shall continue to have effect as if made by his successor in office.
     
-    Section 44(1): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 44(1): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
     Section 44(1A): inserted, on 19 September 1980, by section 8 of the Wildlife Amendment Act 1980 (1980 No 17).
     
-    Section 44(1A): amended, on 10 April 1990, by [section 79][209] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 44(1A): amended, on 10 April 1990, by [section 79][213] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 #### Powers of Director-General
     
 *   Heading: inserted, on 13 December 1968, by section 2 of the Wildlife Amendment Act 1968 (1968 No 120).
-*   Heading: amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+*   Heading: amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
 
 ##### 44A Delegation of powers by Director-General
     
@@ -1987,15 +1997,15 @@ Administration
     
     Section 44A: inserted, on 13 December 1968, by section 2 of the Wildlife Amendment Act 1968 (1968 No 120).
     
-    Section 44A heading: amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 44A heading: amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 44A(1): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 44A(1): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 44A(2): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 44A(2): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 44A(5): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 44A(5): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 44A(6): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 44A(6): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
 
 #### New Zealand Game Bird Habitat Trust Board
     
@@ -2061,7 +2071,7 @@ Administration
     
     (2) Without limiting the generality of subsection (1), the Board may---
         
-    *   (a) establish committees of members and other suitable persons, and delegate to them such functions as may be specified in regulations made under [section 72][136]:
+    *   (a) establish committees of members and other suitable persons, and delegate to them such functions as may be specified in regulations made under [section 72][137]:
     
     *   (b) advocate the interests of the Board at any public forum or in any statutory planning process:
     
@@ -2105,7 +2115,7 @@ Administration
     
     Section 44G: inserted, on 17 May 1993, by section 4 of the Wildlife Amendment Act 1993 (1993 No 39).
     
-    Section 44G(2): amended, on 1 January 2002, by [section 70(1)][210] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 44G(2): amended, on 1 January 2002, by [section 70(1)][214] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 44H Servicing
     
@@ -2121,7 +2131,7 @@ Administration
     
 *   (1) All money held by the Board shall be held on trust and may be expended in accordance with the provisions of this Act.
     
-    (2) The Board shall pay administration expenses only where the payment of such expenses is provided for or contemplated by this Act or regulations made under [section 72][136].
+    (2) The Board shall pay administration expenses only where the payment of such expenses is provided for or contemplated by this Act or regulations made under [section 72][137].
     
     (3) For the purposes of the application to the Board of the provisions of any other enactment or rule of law, all the purposes for which the Board holds and expends money shall be deemed to be charitable purposes.
     
@@ -2129,25 +2139,25 @@ Administration
 
 ##### 44J Crown entity
     
-*   (1) The Board is, for the purposes of [subpart 2][211] of Part 5 of the Public Finance Act 1989, an organisation named or described in [Schedule 4][212] of that Act.
+*   (1) The Board is, for the purposes of [subpart 2][215] of Part 5 of the Public Finance Act 1989, an organisation named or described in [Schedule 4][216] of that Act.
     
-    (2) The Board is a public entity as defined in [section 4][213] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+    (2) The Board is a public entity as defined in [section 4][217] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
     
     Section 44J: inserted, on 17 May 1993, by section 4 of the Wildlife Amendment Act 1993 (1993 No 39).
     
-    Section 44J(1): amended, on 25 January 2005, by [section 37(1)][214] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 44J(1): amended, on 25 January 2005, by [section 37(1)][218] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 44J(2): replaced, on 1 July 2001, by [section 53][215] of the Public Audit Act 2001 (2001 No 10).
+    Section 44J(2): replaced, on 1 July 2001, by [section 53][219] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 44K Annual report
     
 *   (1) The Board shall, as soon as practicable after the end of each financial year, furnish to the Minister a report on its operations for that financial year.
     
-    (2) The Minister must present a copy of the report to the House of Representatives in accordance with [section 150(3)][216] of the Crown Entities Act 2004\.
+    (2) The Minister must present a copy of the report to the House of Representatives in accordance with [section 150(3)][220] of the Crown Entities Act 2004\.
     
     Section 44K: inserted, on 17 May 1993, by section 4 of the Wildlife Amendment Act 1993 (1993 No 39).
     
-    Section 44K(2): replaced, on 25 January 2005, by [section 37(1)][214] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 44K(2): replaced, on 25 January 2005, by [section 37(1)][218] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 44L Members not personally liable
     
@@ -2160,55 +2170,55 @@ Injurious birds
 
 \[Repealed\]
     
-*   Part 4: repealed, on 18 September 2012, by [section 91(2)][217] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+*   Part 4: repealed, on 18 September 2012, by [section 91(2)][221] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 45 Interpretation
     
 *   \[Repealed\]
     
-    Section 45: repealed, on 18 September 2012, by [section 91(2)][217] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 45: repealed, on 18 September 2012, by [section 91(2)][221] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 46 Local authority may apply or raise funds for destruction of injurious birds
     
 *   \[Repealed\]
     
-    Section 46: repealed, on 18 September 2012, by [section 91(2)][217] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 46: repealed, on 18 September 2012, by [section 91(2)][221] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 47 Local authorities to submit plans for destruction for approval of Director-General
     
 *   \[Repealed\]
     
-    Section 47: repealed, on 18 September 2012, by [section 91(2)][217] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 47: repealed, on 18 September 2012, by [section 91(2)][221] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 48 Appointment of Inspectors, and bylaws
     
 *   \[Repealed\]
     
-    Section 48: repealed, on 18 September 2012, by [section 91(2)][217] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 48: repealed, on 18 September 2012, by [section 91(2)][221] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 49 Provisions to secure concerted action
     
 *   \[Repealed\]
     
-    Section 49: repealed, on 18 September 2012, by [section 91(2)][217] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 49: repealed, on 18 September 2012, by [section 91(2)][221] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 50 Minister may appoint Inspectors to carry out this Part if local authority fails to do so
     
 *   \[Repealed\]
     
-    Section 50: repealed, on 18 September 2012, by [section 91(2)][217] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 50: repealed, on 18 September 2012, by [section 91(2)][221] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 51 Obstructing Inspector
     
 *   \[Repealed\]
     
-    Section 51: repealed, on 18 September 2012, by [section 91(2)][217] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 51: repealed, on 18 September 2012, by [section 91(2)][221] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 52 Expenses of carrying out this Part
     
 *   \[Repealed\]
     
-    Section 52: repealed, on 18 September 2012, by [section 91(2)][217] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 52: repealed, on 18 September 2012, by [section 91(2)][221] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ## Part 5  
 General provisions
@@ -2259,11 +2269,13 @@ General provisions
     
     (6) Notwithstanding anything in any other provision of this Act, any authority issued under this section may contain conditions authorising the holder to use, for the purpose of catching alive or killing any wildlife or game, any live decoys or any net or noose or trap or any firearm or any other method the use of which is otherwise expressly prohibited by this Act or by any regulations made under this Act.
     
-    (7) Every person to whom any authority is granted under or pursuant to this section or, where the authority is given to a Fish and Game Council, the Council and every officer or employee of the Council or other person exercising the powers of the Council pursuant to that authority who commits a breach of or fails to comply with any condition on which the authority was granted commits an offence against this Act and is liable on conviction to the penalty set out in [section 67F(1)][124].
+    (7) Every person to whom any authority is granted under or pursuant to this section or, where the authority is given to a Fish and Game Council, the Council and every officer or employee of the Council or other person exercising the powers of the Council pursuant to that authority who commits a breach of or fails to comply with any condition on which the authority was granted commits an offence against this Act and is liable on conviction to the penalty set out in [section 67F(5)][124].
     
-    Section 53: replaced, on 10 April 1990, by [section 80][218] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 53: replaced, on 10 April 1990, by [section 80][222] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 53(7): amended, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 53(7): amended, on 25 October 2013, by [section 22][223] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 53(7): amended, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
 
 ##### 54 Director-General may authorise hunting or killing of wildlife causing damage
     
@@ -2277,11 +2289,11 @@ General provisions
     
     Compare: 1921--22 No 57 s 32
     
-    Section 54 heading: amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 54 heading: amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 54(1): amended, on 10 April 1990, by [section 81(1)][219] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 54(1): amended, on 10 April 1990, by [section 81(1)][224] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 54(1): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 54(1): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
     Section 54(1): amended, on 17 November 1964, by section 8(2)(a) of the Wildlife Amendment Act 1964 (1964 No 63).
     
@@ -2291,9 +2303,9 @@ General provisions
     
     Section 54(1A): inserted, on 17 November 1964, by section 8(1) of the Wildlife Amendment Act 1964 (1964 No 63).
     
-    Section 54(2): replaced, on 10 April 1990, by [section 81(2)][219] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 54(2): replaced, on 10 April 1990, by [section 81(2)][224] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 54(3): inserted, on 10 April 1990, by [section 81(2)][219] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 54(3): inserted, on 10 April 1990, by [section 81(2)][224] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 55 Keeping of specimens in museums
     
@@ -2311,11 +2323,11 @@ General provisions
     
     (3) The officer in charge of a public museum the controlling authority of which holds a general authority given under this section may from time to time authorise ornithologists to have in possession, subject to such conditions as the Director-General prescribes, the bodies of absolutely or partially protected sea birds that have died from natural causes or been accidentally killed.
     
-    Section 55(1): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 55(1): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 55(2): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 55(2): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 55(3): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 55(3): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
 
 ##### 56 Restrictions on liberation or export of animals, birds, etc
     
@@ -2325,7 +2337,7 @@ General provisions
     
     *   (ab) liberate or turn at large, or allow to go at large any wildlife; or
     
-    *   (b) export from New Zealand any bat or any bird (not being a domestic bird) or any reptile or any amphibian or any terrestrial or freshwater invertebrate specified in [Schedule 7][144] or any skin, feathers, egg, flesh, or other part of any such species.
+    *   (b) export from New Zealand any bat or any bird (not being a domestic bird) or any reptile or any amphibian or any terrestrial or freshwater invertebrate specified in [Schedule 7][145] or any skin, feathers, egg, flesh, or other part of any such species.
     
     *   (c) \[Repealed\]
     
@@ -2347,41 +2359,41 @@ General provisions
     
     Compare: 1921--22 No 57 s 30
     
-    Section 56(1): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 56(1): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
     Section 56(1): amended, on 21 October 1959, by section 9 of the Wildlife Amendment Act 1959 (1959 No 49).
     
     Section 56(1): amended, on 10 May 1956, by section 7(2) of the Wildlife Amendment Act 1956 (1956 No 5).
     
-    Section 56(1)(a): amended, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 56(1)(a): amended, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 56(1)(ab): inserted, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 56(1)(ab): inserted, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
     Section 56(1)(b): amended, on 6 December 1983, by section 11 of the Wildlife Amendment Act 1983 (1983 No 48).
     
-    Section 56(1)(c): repealed, on 1 April 1976, by [section 24(a)][220] of the Protected Objects Act 1975 (1975 No 41).
+    Section 56(1)(c): repealed, on 1 April 1976, by [section 24(a)][225] of the Protected Objects Act 1975 (1975 No 41).
     
     Section 56(1A): inserted, on 10 May 1956, by section 7(1) of the Wildlife Amendment Act 1956 (1956 No 5).
     
-    Section 56(1A): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 56(1A): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 56(2): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 56(2): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 56(3): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 56(3): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 56(4): replaced, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 56(4): replaced, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 56(5): inserted, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 56(5): inserted, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
 
 ##### 56A Application of Customs and Excise Act 1996
     
-*   [Sections 149A][221], [149B][222], [149C(1) to (3)][223], [160][224], and [161][225] of the Customs and Excise Act 1996 apply in relation to the exportation of any absolutely protected or partially protected wildlife or any item of absolutely protected or partially protected wildlife as if that wildlife or item of wildlife were a prohibited export within the meaning of that Act.
+*   [Sections 149A][226], [149B][227], [149C(1) to (3)][228], [160][229], and [161][230] of the Customs and Excise Act 1996 apply in relation to the exportation of any absolutely protected or partially protected wildlife or any item of absolutely protected or partially protected wildlife as if that wildlife or item of wildlife were a prohibited export within the meaning of that Act.
     
-    Section 56A: inserted, on 15 October 2000, by [section 4][226] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 56A: inserted, on 15 October 2000, by [section 4][231] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 56A: amended, on 1 October 2012, by [section 309(4)][204] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 56A: amended, on 1 October 2012, by [section 309(4)][208] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 56A: amended (with effect on 9 October 2002, being the relevant time), on 2 July 2004, by [section 47(4)(c)][227] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 56A: amended (with effect on 9 October 2002, being the relevant time), on 2 July 2004, by [section 47(4)(c)][232] of the Customs and Excise Amendment Act 2004 (2004 No 55).
 
 ##### 57 Ownership of animals
     
@@ -2389,7 +2401,7 @@ General provisions
     
     (2) For the purposes of this Act, the property in any game in the possession or under the control of any person by virtue of any authority issued under subsection (2) of [section 53][99] shall be deemed to be vested in the holder of the authority.
     
-    (3) All wildlife, other than wildlife that is for the time being specified in [Schedule 5][142], shall be deemed to be vested in the Crown:
+    (3) All wildlife, other than wildlife that is for the time being specified in [Schedule 5][143], shall be deemed to be vested in the Crown:
     
     provided that where any such wildlife (not being absolutely protected wildlife) has been lawfully taken or killed pursuant to this Act or to any regulations under this Act (the proof of which shall be on the person claiming the same) it shall cease to be the property of the Crown, and the property in that wildlife shall be deemed to be vested in the person by whom it was so taken or killed:
     
@@ -2397,9 +2409,9 @@ General provisions
     
     Compare: 1921--22 No 57 ss 28, 29(2)
     
-    Section 57(1): repealed, on 10 April 1990, by [section 82(a)][228] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 57(1): repealed, on 10 April 1990, by [section 82(a)][233] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 57(3): amended, on 10 April 1990, by [section 82(b)][228] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 57(3): amended, on 10 April 1990, by [section 82(b)][233] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 58 Homing pigeons
     
@@ -2417,7 +2429,7 @@ General provisions
     
     Section 58(1): replaced, on 21 October 1959, by section 10(1) of the Wildlife Amendment Act 1959 (1959 No 49).
     
-    Section 58(1): amended, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 58(1): amended, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
     Section 58(3): amended, on 21 October 1959, by section 10(2) of the Wildlife Amendment Act 1959 (1959 No 49).
 
@@ -2449,21 +2461,23 @@ General provisions
     
     (5A) Every person who, not being duly authorised, wilfully removes, injures, or damages in any way any vehicle, animal, equipment, or supplies brought onto any land pursuant to subsection (1) commits an offence against this Act and is liable on conviction to the penalty set out in [section 67F(1)][124].
     
-    (6) Every person commits an offence against this Act and is liable on conviction to the penalty set out in [section 67F(1)][124] who wilfully obstructs or hinders or resists the Director-General or any authorised officer or servant of the Department in the exercise of any of the powers conferred by this section.
+    (6) Every person commits an offence against this Act and is liable on conviction to the penalty set out in [section 67F(7)][124] who wilfully obstructs or hinders or resists the Director-General or any authorised officer or servant of the Department in the exercise of any of the powers conferred by this section.
     
-    Compare: 1945 No 40 [s 81][229]
+    Compare: 1945 No 40 [s 81][234]
     
-    Section 59(1): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 59(1): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 59(4): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 59(4): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 59(5): replaced, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 59(5): replaced, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 59(5A): inserted, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 59(5A): inserted, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 59(6): amended, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 59(6): amended, on 25 October 2013, by [section 23][235] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
     
-    Section 59(6): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 59(6): amended, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    
+    Section 59(6): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
 
 ##### 60 Protection of rangers and others
     
@@ -2497,17 +2511,19 @@ General provisions
     
     (5) Any authorised person referred to in subsection (4) may exercise in respect of anything produced to him pursuant to that subsection the powers of search and seizure conferred on rangers by [section 39][68].
     
-    (6) Every person commits an offence against this Act and is liable on conviction to the penalty set out in [section 67F(1)][124] who fails to produce on demand under subsection (4) anything referred to in that subsection.
+    (6) Every person commits an offence against this Act and is liable on conviction to the penalty set out in [section 67F(5)][124] who fails to produce on demand under subsection (4) anything referred to in that subsection.
     
     Compare: 1921--22 No 57 s 34
     
-    Section 61(2): amended, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 61(2): amended, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 61(3)(c): repealed, on 10 April 1990, by [section 83][230] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 61(3)(c): repealed, on 10 April 1990, by [section 83][236] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 61(3)(g): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 61(3)(g): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
-    Section 61(6): amended, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 61(6): amended, on 25 October 2013, by [section 24][237] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 61(6): amended, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
 
 #### Offences and penalties
 
@@ -2517,7 +2533,7 @@ General provisions
     
     (2) Every person who contravenes subsection (1) commits an offence against this Act and is liable on conviction to the penalty set out in [section 67F(1)][124].
     
-    Section 62(2): inserted, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 62(2): inserted, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
 
 ##### 63 Taking protected wildlife or game, etc
     
@@ -2541,11 +2557,11 @@ General provisions
     
     Compare: 1921--22 No 57 ss 4(2), 40
     
-    Section 63(1): replaced, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 63(1): replaced, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 63(1A): inserted, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 63(1A): inserted, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 63(2): inserted, on 1 October 1996, by [section 316(1)][157] of the Fisheries Act 1996 (1996 No 88).
+    Section 63(2): inserted, on 1 October 1996, by [section 316(1)][158] of the Fisheries Act 1996 (1996 No 88).
 
 ##### 63A Taking of absolutely or partially protected marine wildlife
     
@@ -2557,19 +2573,19 @@ General provisions
     
     *   (c) robs, disturbs, or destroys, or has in his or her possession the nest of any absolutely or partially protected marine wildlife.
     
-    Section 63A: inserted, on 1 October 1996, by [section 316(1)][157] of the Fisheries Act 1996 (1996 No 88).
+    Section 63A: inserted, on 1 October 1996, by [section 316(1)][158] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 63A: amended, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 63A: amended, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
 
 ##### 63B Reporting of accidental or incidental death or injury
     
-*   (1) If any person, in the course of fishing pursuant to a permit, licence, authority, or approval issued, granted, or given under the [Fisheries Act 1996][182], accidentally or incidentally kills or injures any marine wildlife, he or she shall,---
+*   (1) If any person, in the course of fishing pursuant to a permit, licence, authority, or approval issued, granted, or given under the [Fisheries Act 1996][186], accidentally or incidentally kills or injures any marine wildlife, he or she shall,---
         
     *   (a) if fishing from a vessel, record the event in the vessel's log and report the event in writing to a ranger, or to such other person as the Director-General may from time to time specify by notice in the _Gazette_, and in such manner as may be so specified, not later than 48 hours after the arrival of the vessel in port; and
     
     *   (b) in any other case, report the event in writing to a ranger, or to such other person as the Director-General may from time to time specify by notice in the _Gazette_, and in such manner as may be so specified, as soon as practicable.
     
-    (2) Any person (other than a person to whom subsection (1) applies) who, by any means whatever, accidentally or incidentally kills or injures any marine wildlife, shall, as soon as practicable, report the event to a ranger or a fishery officer (as defined in [section 2(1)][231] of the Fisheries Act 1996).
+    (2) Any person (other than a person to whom subsection (1) applies) who, by any means whatever, accidentally or incidentally kills or injures any marine wildlife, shall, as soon as practicable, report the event to a ranger or a fishery officer (as defined in [section 2(1)][238] of the Fisheries Act 1996).
     
     (3) Every report under subsection (1) or subsection (2) shall include---
         
@@ -2583,21 +2599,23 @@ General provisions
     
     (5) Every person who contravenes subsection (1) or subsection (2) commits an offence and is liable on conviction to the penalty set out in [section 67(fb)][118].
     
-    Section 63B: inserted, on 1 October 1996, by [section 316(1)][157] of the Fisheries Act 1996 (1996 No 88).
+    Section 63B: inserted, on 1 October 1996, by [section 316(1)][158] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 63B(5): replaced, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 63B(5): replaced, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
 
 ##### 64 Offences in relation to wildlife sanctuaries
     
-*   Every person who, without lawful authority, breaches or fails to comply with any of the provisions of this Act relating to wildlife sanctuaries or of any Order in Council under [section 9][18] commits an offence against this Act and is liable on conviction to the penalty set out in [section 67F(3)][124].
+*   Every person who, without lawful authority, breaches or fails to comply with any of the provisions of this Act relating to wildlife sanctuaries or of any Order in Council under [section 9][18] commits an offence against this Act and is liable on conviction to the penalty set out in [section 67F(7)][124].
     
-    Section 64: replaced, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 64: replaced, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 64: amended, on 24 May 2013, by [section 6][232] of the Wildlife Amendment Act 2013 (2013 No 18).
+    Section 64: amended, on 25 October 2013, by [section 25][239] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 64: amended, on 24 May 2013, by [section 6][240] of the Wildlife Amendment Act 2013 (2013 No 18).
 
 ##### 65 Other offences
     
-*   (1) Every person commits an offence against this Act and is liable on conviction to the penalty set out in [section 67F(1)][124] who---
+*   (1) Every person commits an offence against this Act and is liable on conviction to the penalty set out in [section 67F(5)][124] who---
         
     *   (a) gives or agrees to give or offers to any ranger or to any officer or servant of the Department or the New Zealand Fish and Game Council or any Fish and Game Council or to any person under the control of any ranger or of any officer or servant of the Department or the New Zealand Fish and Game Council or any Fish and Game Council any gift or consideration as an inducement or reward for any act done or to be done, or any forbearance observed or to be observed, or any favour shown or to be shown, by that ranger, officer, servant, or person in or in relation to the exercise of any powers or the discharge of any duties vested in or imposed on that ranger, officer, servant, or person under this Act, or, who being a ranger or an officer or servant of the Department or the New Zealand Fish and Game Council or any Fish and Game Council or a person under the control of any ranger or of any officer or servant of the Department or the New Zealand Fish and Game Council or any Fish and Game Council, accepts or agrees to accept or solicits any such gift or consideration as aforesaid:
     
@@ -2637,7 +2655,9 @@ General provisions
     
     *   (d) in any other case, is liable on conviction to the penalty set out in [section 67F(3)][124].
     
-    Section 65(1): amended, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 65(1): amended, on 25 October 2013, by [section 26][241] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 65(1): amended, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
     Section 65(1)(a): amended, on 25 November 1994, by section 5(a) of the Wildlife Amendment Act 1994 (1994 No 109).
     
@@ -2647,17 +2667,17 @@ General provisions
     
     Section 65(1)(d): amended, on 25 November 1994, by section 5(a) of the Wildlife Amendment Act 1994 (1994 No 109).
     
-    Section 65(1)(f): amended, on 1 July 1996, by [section 8][233] of the Wildlife Amendment Act 1996 (1996 No 2).
+    Section 65(1)(f): amended, on 1 July 1996, by [section 8][242] of the Wildlife Amendment Act 1996 (1996 No 2).
     
-    Section 65(1)(g): repealed, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 65(1)(g): repealed, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 65(1)(i): repealed, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 65(1)(i): repealed, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
     Section 65(1)(j): amended, on 25 November 1994, by section 5(b) of the Wildlife Amendment Act 1994 (1994 No 109).
     
-    Section 65(2): inserted, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 65(2): inserted, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 65(3): inserted, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 65(3): inserted, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
 
 ##### 65A Liability of directors and managers
     
@@ -2669,23 +2689,27 @@ General provisions
     
     (2) Where any director or person concerned in the management of a body corporate is convicted of an offence against this Act by virtue of subsection (1), the director or person is liable to the penalty applicable to an individual who commits the offence.
     
-    Section 65A: inserted, on 15 October 2000, by [section 5][234] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 65A: inserted, on 15 October 2000, by [section 5][243] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
 
 ##### 66 Offenders to give name and address to rangers, etc
     
 *   (1) Where any person is found offending against this Act or against any regulations or notification under or pursuant to this Act, it shall be lawful for any authorised person as defined in subsection (3) of [section 61][108] to require the offender forthwith to desist from the offence and also to tell his real Christian name, surname, and place of abode.
     
-    (2) Every person who, after being required to desist from offending under subsection (1), wilfully continues the offence commits a further offence against this Act and is liable on conviction to the penalty set out in [section 67F(1)][124].
+    (2) Every person who, after being required to desist from offending under subsection (1), wilfully continues the offence commits a further offence against this Act and is liable on conviction to the penalty set out in [section 67F(5)][124].
     
-    (3) Every person commits an offence against this Act and is liable on conviction to the penalty set out in [section 67F(1)][124] who, after being required to give his or her Christian name, surname, and place of abode under subsection (1),---
+    (3) Every person commits an offence against this Act and is liable on conviction to the penalty set out in [section 67F(5)][124] who, after being required to give his or her Christian name, surname, and place of abode under subsection (1),---
         
     *   (a) fails to give his or her real Christian name, or surname, or place of abode:
     
     *   (b) gives a false name or place of abode.
     
-    Section 66(2): replaced, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 66(2): replaced, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 66(3): inserted, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 66(2): amended, on 25 October 2013, by [section 27][244] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 66(3): inserted, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    
+    Section 66(3): amended, on 25 October 2013, by [section 27][244] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
 
 ##### 67 Penalties for offences in respect of marine wildlife
     
@@ -2703,7 +2727,7 @@ General provisions
     
     *   (f) \[Repealed\]
     
-    *   (fa) commits an offence against [section 63A][112] (which relates to the taking of absolutely or partially protected marine wildlife) shall be liable to imprisonment for a term not exceeding 6 months or to a fine not exceeding $250,000 and to a further fine not exceeding $10,000 for every item of marine wildlife (other than coral) in respect of which the offence was committed:
+    *   (fa) commits an offence against [section 63A][112] (which relates to the taking of absolutely or partially protected marine wildlife) is liable to imprisonment for a term not exceeding 2 years, or to a fine not exceeding $250,000, or both:
     
     *   (fb) commits an offence against [section 63B][113] (which relates to the reporting of accidental or incidental death of absolutely or partially protected wildlife) shall be liable to a fine not exceeding $10,000\.
     
@@ -2713,41 +2737,35 @@ General provisions
     
     Compare: 1921--22 No 57 ss 9(3), 41
     
-    Section 67 heading: amended, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 67 heading: amended, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 67(1)(a): repealed, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 67(1)(a): repealed, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 67(1)(b): repealed, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 67(1)(b): repealed, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 67(1)(c): repealed, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 67(1)(c): repealed, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 67(1)(d): repealed, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 67(1)(d): repealed, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 67(1)(e): repealed, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 67(1)(e): repealed, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 67(1)(f): repealed, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 67(1)(f): repealed, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 67(1)(fa): inserted, on 1 October 1996, by [section 316(1)][157] of the Fisheries Act 1996 (1996 No 88).
+    Section 67(1)(fa): replaced, on 25 October 2013, by [section 28][245] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
     
-    Section 67(1)(fb): inserted, on 1 October 1996, by [section 316(1)][157] of the Fisheries Act 1996 (1996 No 88).
+    Section 67(1)(fb): inserted, on 1 October 1996, by [section 316(1)][158] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 67(1)(g): repealed, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 67(1)(g): repealed, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
     
-    Section 67(2): repealed, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 67(2): repealed, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
 
 ##### 67A Penalties for offences in respect of absolutely protected wildlife
     
-*   (1) A person convicted of an offence under any of the provisions listed in subsection (2) is liable,---
+*   (1) Every person who commits an offence against any of the provisions listed in subsection (2) is liable on conviction to,---
         
-    *   (a) in the case of an individual,---
-            
-        *   (i) to imprisonment for a term not exceeding 6 months; or
-        
-        *   (ii) to a fine not exceeding $100,000 plus a further fine not exceeding $5,000 for each head of wildlife and egg of wildlife in respect of which the offence is committed:
-        
-        
+    *   (a) in the case of an individual, imprisonment for a term not exceeding 2 years or a fine not exceeding $100,000, or both:
     
-    *   (b) in the case of a body corporate, to a fine not exceeding $200,000 plus a further fine not exceeding $10,000 for each head of wildlife and egg of wildlife in respect of which the offence is committed.
+    *   (b) in the case of a body corporate, a fine not exceeding $200,000\.
     
     (2) The provisions are---
         
@@ -2759,23 +2777,19 @@ General provisions
     
     *   (d) [section 65(3)(a)][115] (which relates to being a party to an offence committed in respect of absolutely protected wildlife).
     
-    Section 67A: inserted, on 15 October 2000, by [section 6][235] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 67A: inserted, on 15 October 2000, by [section 6][246] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    
+    Section 67A(1): replaced, on 25 October 2013, by [section 29][247] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
 
 ##### 67B Penalty for offence of liberating wildlife
     
-*   A person convicted of an offence under [section 56(4)][102] (which relates to liberating wildlife) is liable,---
+*   Every person who commits an offence against [section 56(1)(ab)][102] is liable on conviction to,---
         
-    *   (a) in the case of an individual,---
-            
-        *   (i) to imprisonment for a term not exceeding 6 months; or
-        
-        *   (ii) to a fine not exceeding $100,000 plus a further fine not exceeding $5,000 for each head of wildlife in respect of which the offence is committed:
-        
-        
+    *   (a) in the case of an individual, imprisonment for a term not exceeding 2 years or a fine not exceeding $100,000, or both:
     
-    *   (b) in the case of a body corporate, to a fine not exceeding $200,000 plus a further fine not exceeding $10,000 for each head of wildlife in respect of which the offence is committed.
+    *   (b) in the case of a body corporate, a fine not exceeding $200,000\.
     
-    Section 67B: inserted, on 15 October 2000, by [section 6][235] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 67B: replaced, on 25 October 2013, by [section 30][248] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
 
 ##### 67C Penalties for offences in respect of partially protected wildlife
     
@@ -2795,17 +2809,23 @@ General provisions
     
     *   (d) [section 65(3)(b)][115] (which relates to being a party to an offence committed in respect of partially protected wildlife).
     
-    Section 67C: inserted, on 15 October 2000, by [section 6][235] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 67C: inserted, on 15 October 2000, by [section 6][246] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
 
 ##### 67D Penalty for offence of obstructing ranger
     
 *   A person convicted of an offence under [section 40(1)][69] (which relates to obstructing a ranger or other authorised person) is liable,---
         
-    *   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000:
+    *   (a) in the case of an individual, to imprisonment for a term not exceeding 2 years or to a fine not exceeding $100,000, or both:
     
-    *   (b) in the case of a body corporate, to a fine not exceeding $10,000\.
+    *   (b) in the case of a body corporate, to a fine not exceeding $200,000\.
     
-    Section 67D: inserted, on 15 October 2000, by [section 6][235] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 67D: inserted, on 15 October 2000, by [section 6][246] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    
+    Section 67D(a): amended, on 25 October 2013, by [section 31(1)(a)][249] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 67D(a): amended, on 25 October 2013, by [section 31(1)(b)][249] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 67D(b): amended, on 25 October 2013, by [section 31(2)][249] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
 
 ##### 67E Penalties for offences in respect of game
     
@@ -2821,7 +2841,7 @@ General provisions
     
     *   (b) [section 19(5)][42] (which relates to failing to produce an appointment endorsed on a game licence):
     
-    *   (c) [section 22A][236] (which relates to acting as a game hunting guide without a licence):
+    *   (c) [section 22A][250] (which relates to acting as a game hunting guide without a licence):
     
     *   (d) [section 23(2A)][47] (which relates to the sale of game and game shooting rights).
     
@@ -2855,7 +2875,7 @@ General provisions
     
     *   (k) [section 65(3)(c)][115] (which relates to being a party to an offence committed in respect of game).
     
-    Section 67E: inserted, on 15 October 2000, by [section 6][235] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 67E: inserted, on 15 October 2000, by [section 6][246] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
 
 ##### 67F Penalties for other offences
     
@@ -2867,13 +2887,13 @@ General provisions
     
     (2) The provisions are---
         
-    *   (a) [section 14(3A)][24] (which relates to prohibited acts committed in wildlife refuges):
+    *   (a) \[Repealed\]
     
     *   (b) [section 17(7)][40] (which relates to destroying, defacing, or tampering with a notice):
     
-    *   (c) [section 51][96] (which relates to obstructing an inspector):
+    *   (c) \[Repealed\]
     
-    *   (d) [section 53(7)][99] (which relates to the failure of a person or officer to comply with an authorisation):
+    *   (d) \[Repealed\]
     
     *   (e) [section 58(1)][105] (which relates to certain acts committed in relation to homing pigeons):
     
@@ -2881,21 +2901,21 @@ General provisions
     
     *   (g) [section 59(5A)][106] (which relates to interfering with vehicles, animals, equipment, or supplies brought onto land):
     
-    *   (h) [section 59(6)][106] (which relates to obstructing the Director-General or an officer in the exercise of powers):
+    *   (h) \[Repealed\]
     
     *   (i) [section 61(2)][108] (which relates to failing to produce a licence):
     
-    *   (j) [section 61(6)][108] (which relates to failing to produce various items):
+    *   (j) \[Repealed\]
     
     *   (k) [section 62(2)][110] (which relates to transporting wildlife without proper information on the container):
     
-    *   (l) [section 65(1)][115] (which provides for various miscellaneous offences):
+    *   (l) \[Repealed\]
     
-    *   (m) [section 65(3)(d)][115] (which relates to being a party to an offence, other than an offence committed in respect of absolutely protected or partially protected wildlife or game):
+    *   (m) [section 65(3)(d)][115] (which relates to being a party to an offence, other than an offence committed in respect of absolutely protected or partially protected wildlife or game).
     
-    *   (n) [section 66(2)][117] (which relates to wilfully continuing an offence):
+    *   (n) \[Repealed\]
     
-    *   (o) [section 66(3)][117] (which relates to failing to give a name, or giving a false name or address).
+    *   (o) \[Repealed\]
     
     (3) A person convicted of an offence under any of the provisions listed in subsection (4) is liable,---
         
@@ -2911,25 +2931,93 @@ General provisions
     
     *   (c) [section 7C(2)][15] (which relates to farming certain unprotected animals without authorisation):
     
-    *   (d) [section 9(4)][18] (which relates to breaching an Order in Council in respect of a wildlife sanctuary):
+    *   (d) \[Repealed\]
     
-    *   (e) [section 14(1C)][24] (which relates to breaching a Proclamation or notice in respect of a wildlife refuge):
+    *   (e) \[Repealed\]
     
-    *   (f) [section 14A(4)][26] (which relates to breaching a Proclamation in respect of a wildlife management reserve):
+    *   (f) \[Repealed\]
     
-    *   (g) [section 56(5)(c)][102] (which relates to capturing, having in possession for the purpose of liberating, or exporting wildlife that is not absolutely protected or partially protected):
+    *   (g) [section 56(5)(c)][102] (which relates to capturing, having in possession for the purpose of liberating, or exporting wildlife that is not absolutely protected or partially protected).
     
-    *   (h) [section 64][114] (which relates to acts committed in wildlife sanctuaries).
+    *   (h) \[Repealed\]
     
-    Section 67F: inserted, on 15 October 2000, by [section 6][235] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    (5) Every person who commits an offence against any of the provisions listed in subsection (6) is liable on conviction to,---
+        
+    *   (a) in the case of an individual, imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both:
     
-    Section 67F(4)(d): amended, on 24 May 2013, by [section 7][237] of the Wildlife Amendment Act 2013 (2013 No 18).
+    *   (b) in the case of a body corporate, a fine not exceeding $200,000\.
+    
+    (6) The provisions are---
+        
+    *   (a) [section 14(1C)][24] (which relates to breaching a Proclamation or notice in respect of a wildlife refuge):
+    
+    *   (b) [section 14(3A)][24] (which relates to prohibited acts committed in wildlife refuges):
+    
+    *   (c) [section 14A(4)][26] (which relates to breaching a Proclamation in respect of a wildlife management reserve):
+    
+    *   (d) [section 53(7)][99] (which relates to the failure of a person or officer to comply with an authorisation):
+    
+    *   (e) [section 61(6)][108] (which relates to failing to produce various items):
+    
+    *   (f) [section 65(1)][115] (which provides for various miscellaneous offences):
+    
+    *   (g) [section 66(2)][117] (which relates to wilfully continuing an offence):
+    
+    *   (h) [section 66(3)][117] (which relates to failing to give a name, or giving a false name or address).
+    
+    (7) Every person who commits an offence against any of the provisions listed in subsection (8) is liable on conviction to,---
+        
+    *   (a) in the case of an individual, imprisonment for a term not exceeding 2 years or a fine not exceeding $100,000, or both:
+    
+    *   (b) in the case of a body corporate, a fine not exceeding $200,000\.
+    
+    (8) The provisions are---
+        
+    *   (a) [section 9(4)][18] (which relates to breaching an Order in Council in respect of a wildlife sanctuary):
+    
+    *   (b) [section 59(6)][106] (which relates to obstructing the Director-General or an officer in the exercise of powers):
+    
+    *   (c) [section 64][114] (which relates to acts committed in wildlife sanctuaries).
+    
+    Section 67F: inserted, on 15 October 2000, by [section 6][246] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    
+    Section 67F(2)(a): repealed, on 25 October 2013, by [section 32(1)][251] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 67F(2)(c): repealed, on 25 October 2013, by [section 32(1)][251] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 67F(2)(d): repealed, on 25 October 2013, by [section 32(1)][251] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 67F(2)(h): repealed, on 25 October 2013, by [section 32(1)][251] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 67F(2)(j): repealed, on 25 October 2013, by [section 32(1)][251] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 67F(2)(l): repealed, on 25 October 2013, by [section 32(1)][251] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 67F(2)(n): repealed, on 25 October 2013, by [section 32(1)][251] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 67F(2)(o): repealed, on 25 October 2013, by [section 32(1)][251] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 67F(4)(d): repealed, on 25 October 2013, by [section 32(2)][251] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 67F(4)(e): repealed, on 25 October 2013, by [section 32(2)][251] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 67F(4)(f): repealed, on 25 October 2013, by [section 32(2)][251] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 67F(4)(h): repealed, on 25 October 2013, by [section 32(2)][251] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 67F(5): inserted, on 25 October 2013, by [section 32(3)][251] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 67F(6): inserted, on 25 October 2013, by [section 32(3)][251] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 67F(7): inserted, on 25 October 2013, by [section 32(3)][251] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    
+    Section 67F(8): inserted, on 25 October 2013, by [section 32(3)][251] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
 
 ##### 67G Sentence of community work
     
-*   A court may sentence any person who commits an offence against this Act to a sentence of community work and the provisions of [Part 2][238] of the Sentencing Act 2002 apply with all necessary modifications.
+*   A court may sentence any person who commits an offence against this Act to a sentence of community work and the provisions of [Part 2][252] of the Sentencing Act 2002 apply with all necessary modifications.
     
-    Section 67G: replaced, on 30 June 2002, by [section 186][239] of the Sentencing Act 2002 (2002 No 9).
+    Section 67G: replaced, on 30 June 2002, by [section 186][253] of the Sentencing Act 2002 (2002 No 9).
 
 ##### 67H Offenders also liable for loss or damage
     
@@ -2943,7 +3031,19 @@ General provisions
     
     *   (b) must take into account all other relevant factors.
     
-    Section 67H: inserted, on 15 October 2000, by [section 6][235] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 67H: inserted, on 15 October 2000, by [section 6][246] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+
+##### 67I Penalties for offences committed for commercial gain or reward
+    
+*   (1) If a person is convicted of an offence against this Act and, on sentencing for that offence, the court is satisfied beyond reasonable doubt that the offence was committed for the purpose of commercial gain or reward (whether or not any gain or reward is realised), the person is liable instead of any penalty otherwise prescribed to,---
+        
+    *   (a) in the case of an individual, imprisonment for a term not exceeding 5 years or a fine not exceeding $300,000, or both:
+    
+    *   (b) in the case of a body corporate, a fine not exceeding $300,000\.
+    
+    (2) Subsection (1) overrides every other provision of this Act to the contrary.
+    
+    Section 67I: inserted, on 25 October 2013, by [section 33][254] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
 
 ##### 68 Conduct of proceedings and recovery of fines
     
@@ -2957,21 +3057,21 @@ General provisions
     
     Compare: 1921--22 No 57 s 42
     
-    Section 68 heading: replaced, on 1 July 2013, by [section 413][240] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 68 heading: replaced, on 1 July 2013, by [section 413][255] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 68(1): repealed, on 1 July 2013, by [section 413][240] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 68(1): repealed, on 1 July 2013, by [section 413][255] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 68(2): amended, on 1 July 2013, by [section 413][240] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 68(2): amended, on 1 July 2013, by [section 413][255] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 68(2): amended, on 25 November 1994, by section 6 of the Wildlife Amendment Act 1994 (1994 No 109).
 
 ##### 68A Proceedings in respect of offences
     
-*   Notwithstanding anything to the contrary in [section 25][241] of the Criminal Procedure Act 2011, proceedings may be taken under this Act against any person for an offence committed at sea or beyond the outer limits of New Zealand fisheries waters at any time within 12 months from the date on which that person first lands in New Zealand after the commission of the offence or, for an offence committed in New Zealand, within 12 months after the date of the commission of the offence.
+*   Notwithstanding anything to the contrary in [section 25][256] of the Criminal Procedure Act 2011, proceedings may be taken under this Act against any person for an offence committed at sea or beyond the outer limits of New Zealand fisheries waters at any time within 12 months from the date on which that person first lands in New Zealand after the commission of the offence or, for an offence committed in New Zealand, within 12 months after the date of the commission of the offence.
     
-    Section 68A: inserted, on 1 October 1996, by [section 316(1)][157] of the Fisheries Act 1996 (1996 No 88).
+    Section 68A: inserted, on 1 October 1996, by [section 316(1)][158] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 68A: amended, on 1 July 2013, by [section 413][240] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 68A: amended, on 1 July 2013, by [section 413][255] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 68AB Mens rea and strict liability offences
     
@@ -3011,13 +3111,13 @@ General provisions
     
     (6) [Sections 63A][112] and [63B][113] continue to apply as if this section had not been enacted.
     
-    Section 68AB: inserted, on 15 October 2000, by [section 7][242] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 68AB: inserted, on 15 October 2000, by [section 7][257] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
 
 ##### 68B Defences to offences in respect of marine wildlife
     
 *   (1) Where any person (not being a New Zealand citizen) is charged with any offence under this Act, it shall be a defence to the charge if the defendant proves that the act or omission constituting the offence took place beyond the outer limits of New Zealand fisheries waters.
     
-    (2) Where any New Zealand citizen is charged with any offence under this Act, it shall be a defence to the charge if the defendant proves that the act or omission constituting the offence took place beyond the outer limits of New Zealand fisheries waters and did not contravene any international agreement to which effect had been given by regulations made under [section 72][136] or by any other enactment.
+    (2) Where any New Zealand citizen is charged with any offence under this Act, it shall be a defence to the charge if the defendant proves that the act or omission constituting the offence took place beyond the outer limits of New Zealand fisheries waters and did not contravene any international agreement to which effect had been given by regulations made under [section 72][137] or by any other enactment.
     
     (3) Where any person is charged with an offence against [section 63A][112], it is a defence to the charge if the defendant proves that the act or omission constituting the offence took place in circumstances of stress or emergency and was necessary for the preservation, protection, or maintenance of human life.
     
@@ -3027,9 +3127,9 @@ General provisions
     
     *   (b) it is a defence to the charge if the defendant proves that the death or injury to, or possession of, such wildlife took place as part of a fishing operation and the requirements of [section 63B][113] were complied with.
     
-    Section 68B: inserted, on 1 October 1996, by [section 316(1)][157] of the Fisheries Act 1996 (1996 No 88).
+    Section 68B: inserted, on 1 October 1996, by [section 316(1)][158] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 68B heading: amended, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 68B heading: amended, on 15 October 2000, by [section 8][162] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
 
 ##### 69 Evidence of boundaries, etc
     
@@ -3041,9 +3141,9 @@ General provisions
     
     Section 69(1): amended, on 25 November 1994, by section 7(b) of the Wildlife Amendment Act 1994 (1994 No 109).
     
-    Section 69(1): amended, on 10 April 1990, by [section 84][243] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 69(1): amended, on 10 April 1990, by [section 84][258] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 69(1): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 69(1): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
     Section 69(1): amended, on 19 September 1980, by section 10 of the Wildlife Amendment Act 1980 (1980 No 17).
 
@@ -3061,27 +3161,27 @@ General provisions
     
     Section 70(2): amended, on 25 November 1994, by section 8(a) of the Wildlife Amendment Act 1994 (1994 No 109).
     
-    Section 70(2): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 70(2): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
     Section 70(2): amended, on 21 October 1959, by section 12 of the Wildlife Amendment Act 1959 (1959 No 49).
     
     Section 70(3): amended, on 25 November 1994, by section 8(b) of the Wildlife Amendment Act 1994 (1994 No 109).
     
-    Section 70(3): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 70(3): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
     Section 70(3): amended, on 21 October 1959, by section 12 of the Wildlife Amendment Act 1959 (1959 No 49).
     
     Section 70(4): inserted, on 8 December 1971, by section 3 of the Wildlife Amendment Act 1971 (1971 No 140).
     
-    Section 70(4): amended, on 1 July 2013, by [section 413][240] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 70(4): amended, on 1 July 2013, by [section 413][255] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 70(4): amended, on 25 November 1994, by section 8(c) of the Wildlife Amendment Act 1994 (1994 No 109).
     
-    Section 70(4): amended, on 10 April 1990, by [section 85(a)][244] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 70(4): amended, on 10 April 1990, by [section 85(a)][259] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 70(4): amended, on 10 April 1990, by [section 85(b)][244] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 70(4): amended, on 10 April 1990, by [section 85(b)][259] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 70(4): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 70(4): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
     Section 70(4): amended, on 1 April 1978, pursuant to section 163(1) of the Public Finance Act 1977 (1977 No 65).
 
@@ -3089,7 +3189,7 @@ General provisions
 
 ##### 71 Saving of other Acts
     
-*   Except where this Act otherwise provides, nothing in this Act shall derogate from any provision of any of the Acts specified in [Schedule 9][147]:
+*   Except where this Act otherwise provides, nothing in this Act shall derogate from any provision of any of the Acts specified in [Schedule 9][148]:
     
     provided that, except with the prior consent of the Minister of Conservation and the Minister charged with the administration of the Act under which the act or authority is performed or exercised, and subject to such conditions as those Ministers may jointly impose, no person shall be entitled to do any act or exercise any authority under any such Act in respect of any wildlife (other than unprotected wildlife) or in respect of any land forming part of a wildlife sanctuary:
     
@@ -3097,13 +3197,13 @@ General provisions
     
     Section 71: amended, on 6 December 1983, by section 2(2)(c) of the Wildlife Amendment Act 1983 (1983 No 48).
     
-    Section 71 first proviso: amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 71 first proviso: amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
 
 ##### 71A Control of dogs
     
-*   (1) Nothing in this Act derogates from the provisions of [Part 5C][245] of the Conservation Act 1987, which provides for the control of dogs and which, subject to [section 26ZT(e)][246] of that Act, authorises the declaration as either a controlled dog area or an open dog area of any part or parts of any land managed and administered under this Act by the Minister of Conservation or the Department of Conservation.
+*   (1) Nothing in this Act derogates from the provisions of [Part 5C][260] of the Conservation Act 1987, which provides for the control of dogs and which, subject to [section 26ZT(e)][261] of that Act, authorises the declaration as either a controlled dog area or an open dog area of any part or parts of any land managed and administered under this Act by the Minister of Conservation or the Department of Conservation.
     
-    (2) [Section 26ZT(e)][246] of the Conservation Act 1987 provides that an open dog area may not include any part of any area declared under [section 9][18] to be a wildlife sanctuary or declared under [section 14][24] to be a wildlife refuge or declared under [section 14A][26] to be a wildlife management reserve.
+    (2) [Section 26ZT(e)][261] of the Conservation Act 1987 provides that an open dog area may not include any part of any area declared under [section 9][18] to be a wildlife sanctuary or declared under [section 14][24] to be a wildlife refuge or declared under [section 14A][26] to be a wildlife management reserve.
     
     Section 71A: inserted, on 2 May 1996, by section 8 of the Conservation Amendment Act (No 2) 1996 (1996 No 14).
 
@@ -3169,7 +3269,7 @@ General provisions
     
     *   (we) prescribing a fee or a scale of fees payable in respect of game bird habitat stamps and the basis on which such fees are payable; and prescribing the persons or bodies to whom such fees are payable:
     
-    *   (x) prescribing fines not exceeding $2,000 for a breach of any such regulation.
+    *   (x) prescribing fines not exceeding $5,000 for a breach of any such regulation.
     
     (2A) Without limiting the power to make regulations under subsections (1) and (2), the Governor-General may from time to time, by Order in Council, make regulations for the following purposes:
         
@@ -3177,17 +3277,17 @@ General provisions
     
     *   (b) prescribing offences for breaches of any such regulations, and prescribing---
             
-        *   (i) a fine not exceeding $5,000 in respect of any such offence; and
+        *   (i) a fine not exceeding $10,000 in respect of any such offence; and
         
-        *   (ii) in the case of a continuing offence, a further fine not exceeding $100 for every day on which the offence has continued.
+        *   (ii) in the case of a continuing offence, a further fine not exceeding $1,000 for every day on which the offence has continued.
         
         
     
-    (2B) Without limiting the power to make regulations under subsections (1), (2), and (2A), the Governor-General may from time to time, by Order in Council, make regulations prescribing the scope and effect of licences to farm, breed, or sell, or capture or dispose of or convey or keep in captivity for the purposes of farming, breeding, or selling, any wildlife specified in [Schedule 8][146], and any fees to be paid therefor, and providing for the issue of those licences and for the disposal of any fees for those licences.
+    (2B) Without limiting the power to make regulations under subsections (1), (2), and (2A), the Governor-General may from time to time, by Order in Council, make regulations prescribing the scope and effect of licences to farm, breed, or sell, or capture or dispose of or convey or keep in captivity for the purposes of farming, breeding, or selling, any wildlife specified in [Schedule 8][147], and any fees to be paid therefor, and providing for the issue of those licences and for the disposal of any fees for those licences.
     
     (3) Regulations made under this section may apply generally throughout New Zealand or within any specified district or in any specified part or parts thereof.
     
-    (3A) Notwithstanding anything in [section 72(1) or (2)][136], the Minister may by notice in the _Gazette_,---
+    (3A) Notwithstanding anything in [section 72(1) or (2)][137], the Minister may by notice in the _Gazette_,---
         
     *   (a) fix the forms and classes of licences to hunt or kill game:
     
@@ -3199,19 +3299,19 @@ General provisions
     
     *   (e) fix the fees payable in respect of game bird habitat stamps, the basis on which such fees are payable, and the persons or bodies to whom such fees are payable.
     
-    (3B) A notice in the _Gazette_ made under subsection (3A) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][247] and must be presented to the House of Representatives under [section 41][248] of that Act.
+    (3B) A notice in the _Gazette_ made under subsection (3A) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][262] and must be presented to the House of Representatives under [section 41][263] of that Act.
     
     (4) \[Repealed\]
     
     (5) \[Repealed\]
     
-    Compare: 1908 No 87 s 13; 1921--22 No 57 s 43; 1936 No 58 [s 6][249]; 1946 No 40 [s 4][250]
+    Compare: 1908 No 87 s 13; 1921--22 No 57 s 43; 1936 No 58 [s 6][264]; 1946 No 40 [s 4][265]
     
-    Section 72(2)(a): amended, on 13 March 1996, by [section 9][251] of the Wildlife Amendment Act 1996 (1996 No 2).
+    Section 72(2)(a): amended, on 13 March 1996, by [section 9][266] of the Wildlife Amendment Act 1996 (1996 No 2).
     
-    Section 72(2)(b): amended, on 13 March 1996, by [section 9][251] of the Wildlife Amendment Act 1996 (1996 No 2).
+    Section 72(2)(b): amended, on 13 March 1996, by [section 9][266] of the Wildlife Amendment Act 1996 (1996 No 2).
     
-    Section 72(2)(c): amended, on 13 March 1996, by [section 9][251] of the Wildlife Amendment Act 1996 (1996 No 2).
+    Section 72(2)(c): amended, on 13 March 1996, by [section 9][266] of the Wildlife Amendment Act 1996 (1996 No 2).
     
     Section 72(2)(h): amended, on 6 December 1983, by section 14(1) of the Wildlife Amendment Act 1983 (1983 No 48).
     
@@ -3219,17 +3319,17 @@ General provisions
     
     Section 72(2)(n): repealed, on 17 October 1960, by section 21(1) of the Animals Protection Act 1960 (1960 No 30).
     
-    Section 72(2)(o): repealed, on 18 September 2012, by [section 91(3)][217] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 72(2)(o): repealed, on 18 September 2012, by [section 91(3)][221] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 72(2)(p): repealed, on 10 April 1990, by [section 86(a)][252] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 72(2)(p): repealed, on 10 April 1990, by [section 86(a)][267] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 72(2)(q): repealed, on 10 April 1990, by [section 86(a)][252] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 72(2)(q): repealed, on 10 April 1990, by [section 86(a)][267] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 72(2)(r): repealed, on 10 April 1990, by [section 86(a)][252] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 72(2)(r): repealed, on 10 April 1990, by [section 86(a)][267] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 72(2)(s): repealed, on 10 April 1990, by [section 86(a)][252] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 72(2)(s): repealed, on 10 April 1990, by [section 86(a)][267] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 72(2)(u): amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+    Section 72(2)(u): amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
     
     Section 72(2)(v): repealed (with effect on 1 April 1956), on 10 May 1956, by section 2(5) of the Wildlife Amendment Act 1956 (1956 No 5).
     
@@ -3243,29 +3343,29 @@ General provisions
     
     Section 72(2)(we): inserted, on 17 May 1993, by section 5 of the Wildlife Amendment Act 1993 (1993 No 39).
     
-    Section 72(2)(x): amended, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 72(2)(x): amended, on 25 October 2013, by [section 34(1)][268] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
     
     Section 72(2A): inserted, on 20 October 1972, by section 3(1) of the Wildlife Amendment Act 1972 (1972 No 116).
     
-    Section 72(2A)(b)(i): amended, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 72(2A)(b)(i): amended, on 25 October 2013, by [section 34(2)][268] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
     
-    Section 72(2A)(b)(ii): amended, on 15 October 2000, by [section 8][161] of the Wildlife (Penalties and Related Matters) Amendment Act 2000 (2000 No 43).
+    Section 72(2A)(b)(ii): amended, on 25 October 2013, by [section 34(3)][268] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
     
     Section 72(2B): inserted, on 6 December 1983, by section 14(2) of the Wildlife Amendment Act 1983 (1983 No 48).
     
-    Section 72(3A): inserted, on 2 September 1996, by [section 2][253] of the Wildlife Amendment Act (No 2) 1996 (1996 No 151).
+    Section 72(3A): inserted, on 2 September 1996, by [section 2][269] of the Wildlife Amendment Act (No 2) 1996 (1996 No 151).
     
-    Section 72(3B): replaced, on 5 August 2013, by [section 77(3)][254] of the Legislation Act 2012 (2012 No 119).
+    Section 72(3B): replaced, on 5 August 2013, by [section 77(3)][270] of the Legislation Act 2012 (2012 No 119).
     
-    Section 72(4): repealed, on 10 April 1990, by [section 86(b)][252] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 72(4): repealed, on 10 April 1990, by [section 86(b)][267] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 72(5): repealed, on 19 December 1989, by [section 11][255] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 72(5): repealed, on 19 December 1989, by [section 11][271] of the Regulations (Disallowance) Act 1989 (1989 No 143).
 
 ##### 73 Repeals, savings, and consequential amendments
     
-*   (1) The enactments specified in [Schedule 10][148] are hereby repealed.
+*   (1) The enactments specified in [Schedule 10][149] are hereby repealed.
     
-    (2) Without limiting the provisions of the [Interpretation Act 1999][256], it is hereby declared that the repeal of any provision by this Act shall not affect any document made or any thing whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done:
+    (2) Without limiting the provisions of the [Interpretation Act 1999][272], it is hereby declared that the repeal of any provision by this Act shall not affect any document made or any thing whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done:
     
     provided that all warrants under section 3 or section 4 of the Animals Protection and Game Act 1921--22 shall be deemed to be revoked as from the commencement of this Act.
     
@@ -3279,9 +3379,9 @@ General provisions
     
     Section 73(1): amended, on 6 December 1983, by section 2(2)(d) of the Wildlife Amendment Act 1983 (1983 No 48).
     
-    Section 73(2): amended, on 1 November 1999, pursuant to [section 38(1)][257] of the Interpretation Act 1999 (1999 No 85).
+    Section 73(2): amended, on 1 November 1999, pursuant to [section 38(1)][273] of the Interpretation Act 1999 (1999 No 85).
     
-    Section 73(3): repealed, on 10 April 1990, by [section 87][258] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 73(3): repealed, on 10 April 1990, by [section 87][274] of the Conservation Law Reform Act 1990 (1990 No 31).
     
     Section 73(5): repealed, on 1 April 1954, by section 107(1) of the Reserves and Domains Act 1953 (1953 No 69).
     
@@ -3328,9 +3428,9 @@ Brown quail (_Coturnix ypsilophora_): except on Chatham Islands
 
 California quail (_Callipepla californica_): except on Chatham Islands
 
-*   Schedule 1: amended, on 9 June 2011, by [clause 3][259] of the Wildlife (Canada Goose) Order 2011 (SR 2011/128).
-*   Schedule 1: amended, on 8 July 2010, by [clause 3][260] of the Wildlife Order 2010 (SR 2010/159).
-*   Schedule 1: amended, on 5 November 1970, by [clause 3][261] of the Wildlife Order (No 2) 1970 (SR 1970/208).
+*   Schedule 1: amended, on 9 June 2011, by [clause 3][275] of the Wildlife (Canada Goose) Order 2011 (SR 2011/128).
+*   Schedule 1: amended, on 8 July 2010, by [clause 3][276] of the Wildlife Order 2010 (SR 2010/159).
+*   Schedule 1: amended, on 5 November 1970, by [clause 3][277] of the Wildlife Order (No 2) 1970 (SR 1970/208).
 
 ---
 
@@ -3345,11 +3445,11 @@ Little owl (_Athene noctua_)
 
 Silvereye (_Zosterops lateralis_)
     
-*   Schedule 2: amended, on 8 July 2010, by [clause 3][260] of the Wildlife Order 2010 (SR 2010/159).
-*   Schedule 2: amended, on 27 November 1986, by [clause 3][262] of the Wildlife Order (No 2) 1986 (SR 1986/330).
-*   Schedule 2: amended, on 25 June 1970, by [clause 3][263] of the Wildlife Order 1970 (SR 1970/124).
-*   Schedule 2: amended, on 25 June 1970, by [clause 4][264] of the Wildlife Order 1970 (SR 1970/124).
-*   Schedule 2: amended, on 25 June 1970, by [clause 5][265] of the Wildlife Order 1970 (SR 1970/124).
+*   Schedule 2: amended, on 8 July 2010, by [clause 3][276] of the Wildlife Order 2010 (SR 2010/159).
+*   Schedule 2: amended, on 27 November 1986, by [clause 3][278] of the Wildlife Order (No 2) 1986 (SR 1986/330).
+*   Schedule 2: amended, on 25 June 1970, by [clause 3][279] of the Wildlife Order 1970 (SR 1970/124).
+*   Schedule 2: amended, on 25 June 1970, by [clause 4][280] of the Wildlife Order 1970 (SR 1970/124).
+*   Schedule 2: amended, on 25 June 1970, by [clause 5][281] of the Wildlife Order 1970 (SR 1970/124).
 
 ---
 
@@ -3412,8 +3512,8 @@ South Island weka (_Gallirallus_): on Chatham Islands only
 
 Stewart Island weka (_Gallirallus_): on islets off Stewart Island and in Foveaux Strait only
 
-*   Schedule 3: amended, on 8 July 2010, by [clause 3][260] of the Wildlife Order 2010 (SR 2010/159).
-*   Schedule 3: amended, on 5 May 1973, by [clause 2][266] of the Wildlife (Canada Goose) Order 1973 (SR 1973/2).
+*   Schedule 3: amended, on 8 July 2010, by [clause 3][276] of the Wildlife Order 2010 (SR 2010/159).
+*   Schedule 3: amended, on 5 May 1973, by [clause 2][282] of the Wildlife (Canada Goose) Order 1973 (SR 1973/2).
 
 ---
 
@@ -3423,7 +3523,7 @@ Wildlife not protected, except in areas and during periods specified in Minister
 [s 7(1)][11]
 
 *   Schedule 4: replaced (with effect on 1 April 1956), on 10 May 1956, by section 2(2)(a) of the Wildlife Amendment Act 1956 (1956 No 5).
-*   Schedule 4: amended, on 10 May 1996, by [clause 2(1)][267] of the Wildlife Order 1996 (SR 1996/95).
+*   Schedule 4: amended, on 10 May 1996, by [clause 2(1)][283] of the Wildlife Order 1996 (SR 1996/95).
 *   Schedule 4: amended, on 24 March 1959, by clause 2 of the Wildlife (Canada Goose) Order 1959 (SR 1959/43).
 
 ---
@@ -3579,16 +3679,16 @@ Rainbow skink (_Lampropholis delicata_)
 
 Red-eared slider turtle (_Trachemys scripta elegans_)
 
-*   Schedule 5: amended, on 18 September 2012, by [section 91(4)(a)][217] of the Biosecurity Law Reform Act 2012 (2012 No 73).
-*   Schedule 5: amended, on 18 September 2012, by [section 91(4)(b)][217] of the Biosecurity Law Reform Act 2012 (2012 No 73).
-*   Schedule 5: amended, on 9 June 2011, by [clause 4][268] of the Wildlife (Canada Goose) Order 2011 (SR 2011/128).
-*   Schedule 5: amended, on 8 July 2010, by [clause 3][260] of the Wildlife Order 2010 (SR 2010/159).
-*   Schedule 5: amended, on 17 October 1996, by [clause 2(1)][269] of the Wildlife Order (No 2) 1996 (SR 1996/258).
-*   Schedule 5: amended, on 10 May 1996, by [clause 2(2)][267] of the Wildlife Order 1996 (SR 1996/95).
-*   Schedule 5: amended, on 13 February 1986, by [clause 4][270] of the Wildlife Order 1986 (SR 1986/7).
-*   Schedule 5: amended, on 24 August 1973, by [clause 3][271] of the Wildlife (Cape Barren Goose) Order 1973 (SR 1973/210).
-*   Schedule 5: amended, on 25 June 1970, by [clause 4][264] of the Wildlife Order 1970 (SR 1970/124).
-*   Schedule 5: amended, on 25 June 1970, by [clause 5][265] of the Wildlife Order 1970 (SR 1970/124).
+*   Schedule 5: amended, on 18 September 2012, by [section 91(4)(a)][221] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+*   Schedule 5: amended, on 18 September 2012, by [section 91(4)(b)][221] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+*   Schedule 5: amended, on 9 June 2011, by [clause 4][284] of the Wildlife (Canada Goose) Order 2011 (SR 2011/128).
+*   Schedule 5: amended, on 8 July 2010, by [clause 3][276] of the Wildlife Order 2010 (SR 2010/159).
+*   Schedule 5: amended, on 17 October 1996, by [clause 2(1)][285] of the Wildlife Order (No 2) 1996 (SR 1996/258).
+*   Schedule 5: amended, on 10 May 1996, by [clause 2(2)][283] of the Wildlife Order 1996 (SR 1996/95).
+*   Schedule 5: amended, on 13 February 1986, by [clause 4][286] of the Wildlife Order 1986 (SR 1986/7).
+*   Schedule 5: amended, on 24 August 1973, by [clause 3][287] of the Wildlife (Cape Barren Goose) Order 1973 (SR 1973/210).
+*   Schedule 5: amended, on 25 June 1970, by [clause 4][280] of the Wildlife Order 1970 (SR 1970/124).
+*   Schedule 5: amended, on 25 June 1970, by [clause 5][281] of the Wildlife Order 1970 (SR 1970/124).
 *   Schedule 5: amended, on 24 March 1955, by _Gazette_ 1955, p 431\.
 
 ---
@@ -3632,8 +3732,8 @@ Himalayan tahr (_Hemitragus jemlahicus_)
 
 Pig (_Sus_)
 
-*   Schedule 6: amended, on 18 September 2012, by [section 91(5)][217] of the Biosecurity Law Reform Act 2012 (2012 No 73).
-*   Schedule 6: amended, on 8 July 2010, by [clause 3][260] of the Wildlife Order 2010 (SR 2010/159).
+*   Schedule 6: amended, on 18 September 2012, by [section 91(5)][221] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+*   Schedule 6: amended, on 8 July 2010, by [clause 3][276] of the Wildlife Order 2010 (SR 2010/159).
 
 ---
 
@@ -3758,14 +3858,14 @@ all species
 
 _Rhytidarex buddlei_ (Powell 1948)
 
-*   Schedule 7: amended, on 8 July 2010, by [clause 3][260] of the Wildlife Order 2010 (SR 2010/159).
+*   Schedule 7: amended, on 8 July 2010, by [clause 3][276] of the Wildlife Order 2010 (SR 2010/159).
 
 ---
 
 ## Schedule 7A  
 Marine species declared to be animals
     
-*   Schedule 7A: replaced, on 8 July 2010, by [clause 3][260] of the Wildlife Order 2010 (SR 2010/159).
+*   Schedule 7A: replaced, on 8 July 2010, by [clause 3][276] of the Wildlife Order 2010 (SR 2010/159).
 
 ## CNIDARIA
 
@@ -3823,15 +3923,15 @@ Giant grouper (Queensland grouper) (_Epinephelus lanceolatus_)
 
 Spotted black grouper (_Epinephelus daemelii_)
 
-*   Schedule 7A: amended, on 3 January 2013, by [clause 3][272] of the Wildlife (Oceanic Whitetip Shark) Order 2012 (SR 2012/356).
-*   Schedule 7A: amended, on 16 December 2010, by [clause 3][273] of the Wildlife (Basking Shark) Order 2010 (SR 2010/411).
+*   Schedule 7A: amended, on 3 January 2013, by [clause 3][288] of the Wildlife (Oceanic Whitetip Shark) Order 2012 (SR 2012/356).
+*   Schedule 7A: amended, on 16 December 2010, by [clause 3][289] of the Wildlife (Basking Shark) Order 2010 (SR 2010/411).
 
 ---
 
 ## Schedule 8  
 Wildlife not protected but may be kept, bred, or farmed in captivity pursuant to regulations made under principal Act or by Minister's direction
 
-[ss 7C][15], [41(2)][71], [72(2B)][136]
+[ss 7C][15], [41(2)][71], [72(2B)][137]
 
 *   Schedule 8: inserted, on 6 December 1983, by section 2(3) of the Wildlife Amendment Act 1983 (1983 No 48).
 
@@ -3848,7 +3948,7 @@ Weasel (family Mustelidae)
 ## Schedule 9  
 Acts not affected by this Act
 
-[s 71][134]
+[s 71][135]
 
 *   Schedule 9 schedule number: replaced, on 6 December 1983, by section 2(2)(a) of the Wildlife Amendment Act 1983 (1983 No 48).
 
@@ -3884,17 +3984,17 @@ Acts not affected by this Act
 
 ##### Waitangi National Trust Board Act 1932 (1932 No 28)
 
-Schedule 9: amended, on 1 August 2008, by [section 50(1)][274] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+Schedule 9: amended, on 1 August 2008, by [section 50(1)][290] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
-Schedule 9: amended, on 1 April 1987, by [section 65(1)][159] of the Conservation Act 1987 (1987 No 65).
+Schedule 9: amended, on 1 April 1987, by [section 65(1)][160] of the Conservation Act 1987 (1987 No 65).
 
-Schedule 9: amended, on 1 April 1981, pursuant to [section 80(2)][275] of the National Parks Act 1980 (1980 No 66).
+Schedule 9: amended, on 1 April 1981, pursuant to [section 80(2)][291] of the National Parks Act 1980 (1980 No 66).
 
 Schedule 9: amended, on 1 April 1980, pursuant to section 268(2) of the Coal Mines Act 1979 (1979 No 21).
 
-Schedule 9: amended, on 1 April 1978, pursuant to [section 125(1)][276] of the Reserves Act 1977 (1977 No 66).
+Schedule 9: amended, on 1 April 1978, pursuant to [section 125(1)][292] of the Reserves Act 1977 (1977 No 66).
 
-Schedule 9: amended, on 1 April 1979, pursuant to [section 70(a)][277] of the Forest and Rural Fires Act 1977 (1977 No 52).
+Schedule 9: amended, on 1 April 1979, pursuant to [section 70(a)][293] of the Forest and Rural Fires Act 1977 (1977 No 52).
 
 Schedule 9: amended, on 1 April 1973, pursuant to section 247(1) of the Mining Act 1971 (1971 No 25).
 
@@ -3907,7 +4007,7 @@ Schedule 9: amended, on 1 April 1954, by section 107(1) of the Reserves and Doma
 ## Schedule 10  
 Enactments repealed
 
-[s 73][137]
+[s 73][138]
 
 *   Schedule 10 schedule number: replaced, on 6 December 1983, by section 2(2)(b) of the Wildlife Amendment Act 1983 (1983 No 48).
 
@@ -3917,23 +4017,23 @@ Enactments repealed
 
 ##### Local Legislation Act 1951 (1951 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][278]_.
+_Amendment(s) incorporated in the [Act(s)][294]_.
 
 ##### Reserves and oher Lands Disposal and Public Bodies Empowering Act 1923 (1923 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][279]_.
+_Amendment(s) incorporated in the [Act(s)][295]_.
 
 ##### Statutes Amendment Act 1936 (1936 No 58)
 
-_Amendment(s) incorporated in the [Act(s)][249]_.
+_Amendment(s) incorporated in the [Act(s)][264]_.
 
 ##### Statutes Amendment Act 1945 (1945 No 40)
 
-_Amendment(s) incorporated in the [Act(s)][229]_.
+_Amendment(s) incorporated in the [Act(s)][234]_.
 
 ##### Statutes Amendment Act 1946 (1946 No 40)
 
-_Amendment(s) incorporated in the [Act(s)][280]_.
+_Amendment(s) incorporated in the [Act(s)][296]_.
 
 ---
 
@@ -3965,17 +4065,17 @@ Commencementsee section 1
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Conservation Law Reform Act 1990][281].
+*   (1) This Act may be cited as the [Conservation Law Reform Act 1990][297].
     
     (2) Except as provided in subsection (3), this Act shall come into force on the day on which it receives the Royal assent.
     
     (3) Sections 6A and 6L of the Conservation Act 1987 (as inserted by section 5 of this Act), sections 26B and 26P of that Act (as inserted by section 17 of this Act ), and sections 36, 38, 41, 42, 74, 112, and 114 of this Act shall come into force on a date to be appointed by the Governor-General by Order in Council.
     
-    Section 1(3): section 112 brought into force, on 25 May 1990, by the [Conservation Law Reform Act Commencement Order 1990][282] (SR 1990/116).
+    Section 1(3): section 112 brought into force, on 25 May 1990, by the [Conservation Law Reform Act Commencement Order 1990][298] (SR 1990/116).
     
-    Section 1(3): section 74 brought into force, on 31 May 1990, by the [Conservation Law Reform Act Commencement Order (No 2) 1990][283] (SR 1990/125).
+    Section 1(3): section 74 brought into force, on 31 May 1990, by the [Conservation Law Reform Act Commencement Order (No 2) 1990][299] (SR 1990/125).
     
-    Section 1(3): sections 36, 38, 41, 42, and 114 brought into force, on 19 July 1990, by the [Conservation Law Reform Act Commencement Order (No 3) 1990][284] (SR 1990/170).
+    Section 1(3): sections 36, 38, 41, 42, and 114 brought into force, on 19 July 1990, by the [Conservation Law Reform Act Commencement Order (No 3) 1990][300] (SR 1990/170).
 
 ## Part 3  
 Amendments to Wildlife Act 1953
@@ -4036,7 +4136,7 @@ Amendments to Wildlife Act 1953
     
     *   (h) District Land Registrars are hereby directed and empowered to do all such things as are reasonably necessary to give effect to the transfer of any land under this subsection.
     
-    Section 89(6): inserted, on 13 March 1996, by [section 10][285] of the Wildlife Amendment Act 1996 (1996 No 2).
+    Section 89(6): inserted, on 13 March 1996, by [section 10][301] of the Wildlife Amendment Act 1996 (1996 No 2).
 
 ---
 
@@ -4048,7 +4148,7 @@ Commencementsee section 1
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Wildlife Amendment Act 1996][286], and shall be read together with and deemed part of the Wildlife Act 1953 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Wildlife Amendment Act 1996][302], and shall be read together with and deemed part of the Wildlife Act 1953 (hereinafter referred to as ""the principal Act"").
     
     (2) Sections 2(1), 3, and 8 shall come into force on 1 July 1996\.
     
@@ -4076,7 +4176,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Biosecurity Law Reform Act 2012][287].
+*   This Act is the [Biosecurity Law Reform Act 2012][303].
 
 ##### 2 Commencement
     
@@ -4131,111 +4231,113 @@ Related amendments to other enactments
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][288] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][289] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][304] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][305] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][290] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][291] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][306] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][307] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Wildlife Amendment Act 2013][292] (2013 No 18)
+*   Conservation (Natural Heritage Protection) Act 2013 (2013 No 89): [Part 4][308]
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][254]
+    [Wildlife Amendment Act 2013][309] (2013 No 18)
     
-    [Wildlife (Oceanic Whitetip Shark) Order 2012][293] (SR 2012/356)
+    Legislation Act 2012 (2012 No 119): [section 77(3)][270]
     
-    Biosecurity Law Reform Act 2012 (2012 No 73): [section 91][217]
+    [Wildlife (Oceanic Whitetip Shark) Order 2012][310] (SR 2012/356)
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 309][204]
+    Biosecurity Law Reform Act 2012 (2012 No 73): [section 91][221]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][240]
+    Search and Surveillance Act 2012 (2012 No 24): [section 309][208]
     
-    [Wildlife (Canada Goose) Order 2011][294] (SR 2011/128)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][255]
     
-    [Wildlife (Basking Shark) Order 2010][295] (SR 2010/411)
+    [Wildlife (Canada Goose) Order 2011][311] (SR 2011/128)
     
-    Wildlife Order 2010 (SR 2010/159): [clause 3][260]
+    [Wildlife (Basking Shark) Order 2010][312] (SR 2010/411)
     
-    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][274]
+    Wildlife Order 2010 (SR 2010/159): [clause 3][276]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][186]
+    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][290]
     
-    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][214]
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][190]
     
-    Customs and Excise Amendment Act 2004 (2004 No 55): [section 47(4)(c)][227]
+    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][218]
     
-    [Wildlife Amendment Act 2003][296] (2003 No 103)
+    Customs and Excise Amendment Act 2004 (2004 No 55): [section 47(4)(c)][232]
     
-    Sentencing Act 2002 (2002 No 9): [section 186][239]
+    [Wildlife Amendment Act 2003][313] (2003 No 103)
     
-    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][210]
+    Sentencing Act 2002 (2002 No 9): [section 186][253]
     
-    Public Audit Act 2001 (2001 No 10): [section 53][215]
+    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][214]
     
-    [Wildlife (Penalties and Related Matters) Amendment Act 2000][297] (2000 No 43)
+    Public Audit Act 2001 (2001 No 10): [section 53][219]
     
-    Interpretation Act 1999 (1999 No 85): [section 38(1)][257]
+    [Wildlife (Penalties and Related Matters) Amendment Act 2000][314] (2000 No 43)
     
-    [Wildlife Order (No 2) 1996][298] (SR 1996/258)
+    Interpretation Act 1999 (1999 No 85): [section 38(1)][273]
     
-    [Wildlife Amendment Act (No 2) 1996][299] (1996 No 151)
+    [Wildlife Order (No 2) 1996][315] (SR 1996/258)
     
-    Fisheries Act 1996 (1996 No 88): [section 316(1)][157]
+    [Wildlife Amendment Act (No 2) 1996][316] (1996 No 151)
     
-    [Wildlife Order 1996][300] (SR 1996/95)
+    Fisheries Act 1996 (1996 No 88): [section 316(1)][158]
+    
+    [Wildlife Order 1996][317] (SR 1996/95)
     
     Conservation Amendment Act (No 2) 1996 (1996 No 14): section 8
     
-    [Wildlife Amendment Act 1996][286] (1996 No 2)
+    [Wildlife Amendment Act 1996][302] (1996 No 2)
     
     Wildlife Amendment Act 1994 (1994 No 109)
     
-    Biosecurity Act 1993 (1993 No 95): [section 168(1)][160]
+    Biosecurity Act 1993 (1993 No 95): [section 168(1)][161]
     
     Wildlife Amendment Act 1993 (1993 No 39)
     
-    Conservation Law Reform Act 1990 (1990 No 31): [Part 3][301]
+    Conservation Law Reform Act 1990 (1990 No 31): [Part 3][318]
     
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][255]
+    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][271]
     
-    Public Finance Act 1989 (1989 No 44): [section 83(7)][162]
+    Public Finance Act 1989 (1989 No 44): [section 83(7)][163]
     
-    State Sector Act 1988 (1988 No 20): [section 88(1)][197]
+    State Sector Act 1988 (1988 No 20): [section 88(1)][201]
     
-    Conservation Act 1987 (1987 No 65): [section 65(1)][159]
+    Conservation Act 1987 (1987 No 65): [section 65(1)][160]
     
-    [Wildlife Order (No 2) 1986][302] (SR 1986/330)
+    [Wildlife Order (No 2) 1986][319] (SR 1986/330)
     
-    [Wildlife Order 1986][303] (SR 1986/7)
+    [Wildlife Order 1986][320] (SR 1986/7)
     
     Wildlife Amendment Act 1983 (1983 No 48)
     
-    Public Works Act 1981 (1981 No 35): [section 248(1)][170]
+    Public Works Act 1981 (1981 No 35): [section 248(1)][173]
     
-    National Parks Act 1980 (1980 No 66): [section 80(2)][275]
+    National Parks Act 1980 (1980 No 66): [section 80(2)][291]
     
     Wildlife Amendment Act 1980 (1980 No 17)
     
     Coal Mines Act 1979 (1979 No 21): section 268(2)
     
-    Fencing Act 1978 (1978 No 50): [section 28(1)][207]
+    Fencing Act 1978 (1978 No 50): [section 28(1)][211]
     
-    Reserves Act 1977 (1977 No 66): [section 125(1)][276]
+    Reserves Act 1977 (1977 No 66): [section 125(1)][292]
     
     Public Finance Act 1977 (1977 No 65): section 163(1)
     
-    Forest and Rural Fires Act 1977 (1977 No 52): [section 70(a)][277]
+    Forest and Rural Fires Act 1977 (1977 No 52): [section 70(a)][293]
     
-    Government Superannuation Fund Amendment Act 1976 (1976 No 30): [section 3(3)][199]
+    Government Superannuation Fund Amendment Act 1976 (1976 No 30): [section 3(3)][203]
     
-    Protected Objects Act 1975 (1975 No 41): [section 24(a)][220]
+    Protected Objects Act 1975 (1975 No 41): [section 24(a)][225]
     
     Wildlife Amendment Act 1973 (1973 No 99)
     
-    [Wildlife (Cape Barren Goose) Order 1973][303] (SR 1973/210)
+    [Wildlife (Cape Barren Goose) Order 1973][320] (SR 1973/210)
     
-    Wildlife (Canada Goose) Order 1973 (SR 1973/2): [clause 2][266]
+    Wildlife (Canada Goose) Order 1973 (SR 1973/2): [clause 2][282]
     
     Wildlife Amendment Act 1972 (1972 No 116)
     
@@ -4245,9 +4347,9 @@ Related amendments to other enactments
     
     Mining Act 1971 (1971 No 25): section 247(1)
     
-    [Wildlife Order (No 2) 1970][304] (SR 1970/208)
+    [Wildlife Order (No 2) 1970][321] (SR 1970/208)
     
-    [Wildlife Order 1970][305] (SR 1970/124)
+    [Wildlife Order 1970][322] (SR 1970/124)
     
     Wildlife Amendment Act 1968 (1968 No 120)
     
@@ -4400,182 +4502,199 @@ Related amendments to other enactments
 [124]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278189
 [125]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278191
 [126]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278194
-[127]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278196
-[128]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278500
-[129]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278502
-[130]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278504
-[131]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278507
-[132]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278512
-[133]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278520
-[134]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278521
-[135]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278525
-[136]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278527
-[137]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278542
-[138]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278547
-[139]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278553
-[140]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278564
-[141]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278567
-[142]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278571
-[143]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278592
-[144]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278595
-[145]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278598
-[146]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278701
-[147]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278704
-[148]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278718
-[149]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM103609
-[150]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM105723
-[151]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM104989
-[152]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM373345
-[153]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM104970
-[154]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM394199
-[155]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM16622
-[156]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM444304
-[157]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM399975
-[158]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209100
-[159]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM106995
-[160]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM316769
-[161]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM73804
-[162]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM163167
-[163]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209107
-[164]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM104682
-[165]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM5138207
-[166]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM5138208
-[167]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM48120
-[168]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM218876
-[169]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209108
-[170]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM48604
-[171]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM104633
-[172]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM373362
-[173]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209109
-[174]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM104294
-[175]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM104629
-[176]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM444680
-[177]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM104603
-[178]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM104611
-[179]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM104613
-[180]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM104615
-[181]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM104608
-[182]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM394191
-[183]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM373364
-[184]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM373365
-[185]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209116
-[186]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM333795
-[187]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209117
-[188]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209119
-[189]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM373368
-[190]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209120
-[191]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209121
-[192]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209122
-[193]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM129109
-[194]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM106939
-[195]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM446000
-[196]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM242162
-[197]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM130375
-[198]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209124
-[199]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM439001
-[200]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM2136542
-[201]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM2136770
-[202]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM2136813
-[203]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM2136815
-[204]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM2137090
-[205]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209125
-[206]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM21806
-[207]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM21887
-[208]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209126
-[209]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209127
-[210]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM122579
-[211]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM162719
-[212]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM163544
-[213]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM88548
-[214]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM328867
-[215]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM88957
-[216]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM330552
-[217]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM3388549
-[218]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209128
-[219]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209130
-[220]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM432534
-[221]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM379201
-[222]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM379205
-[223]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM379211
-[224]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM379234
-[225]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM379235
-[226]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM73189
-[227]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM300382
-[228]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209131
-[229]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM239198
-[230]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209132
-[231]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM394938
-[232]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM5138209
-[233]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM373369
-[234]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM73191
-[235]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM73193
-[236]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM277358
-[237]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM5138210
-[238]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM135593
-[239]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM137267
-[240]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM3360714
-[241]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM3360067
-[242]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM73802
-[243]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209133
-[244]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209134
-[245]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM106041
-[246]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM106047
-[247]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM2997643
-[248]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM2998573
-[249]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM221351
-[250]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM242161
-[251]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM373370
-[252]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209135
-[253]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM407228
-[254]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM2998633
-[255]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM195558
-[256]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM31462
-[257]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM31885
-[258]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209136
-[259]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM3697506
-[260]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM3012913
-[261]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM32933
-[262]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM118235
-[263]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM32576
-[264]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM32577
-[265]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM32578
-[266]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM38902
-[267]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM211055
-[268]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM3697507
-[269]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM224072
-[270]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM103974
-[271]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM39880
-[272]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM4894504
-[273]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM3347011
-[274]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM1313622
-[275]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM38526
-[276]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM445092
-[277]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM443632
-[278]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM264185
-[279]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM197562
-[280]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM242153
-[281]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM207911
-[282]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM138153
-[283]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM138161
-[284]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM139400
-[285]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM373371
-[286]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM373339
-[287]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM3388102
-[288]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM2998516
-[289]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM2998515
-[290]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM2998532
-[291]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[292]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM5138203
-[293]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM4894509
-[294]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM3697500
-[295]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM3347005
-[296]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM218870
-[297]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM73182
-[298]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM224067
-[299]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM407222
-[300]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM211050
-[301]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM208798
-[302]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM118229
-[303]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM103967
-[304]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM32927
-[305]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM32570
+[127]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM5697680
+[128]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278196
+[129]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278500
+[130]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278502
+[131]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278504
+[132]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278507
+[133]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278512
+[134]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278520
+[135]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278521
+[136]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278525
+[137]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278527
+[138]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278542
+[139]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278547
+[140]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278553
+[141]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278564
+[142]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278567
+[143]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278571
+[144]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278592
+[145]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278595
+[146]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278598
+[147]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278701
+[148]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278704
+[149]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM278718
+[150]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM103609
+[151]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM105723
+[152]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM104989
+[153]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM373345
+[154]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM104970
+[155]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM394199
+[156]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM16622
+[157]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM444304
+[158]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM399975
+[159]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209100
+[160]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM106995
+[161]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM316769
+[162]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM73804
+[163]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM163167
+[164]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209107
+[165]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM104682
+[166]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM5138207
+[167]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM5469517
+[168]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM5138208
+[169]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM48120
+[170]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM218876
+[171]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM5469518
+[172]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209108
+[173]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM48604
+[174]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM5469519
+[175]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM104633
+[176]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM373362
+[177]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209109
+[178]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM104294
+[179]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM104629
+[180]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM444680
+[181]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM104603
+[182]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM104611
+[183]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM104613
+[184]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM104615
+[185]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM104608
+[186]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM394191
+[187]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM373364
+[188]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM373365
+[189]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209116
+[190]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM333795
+[191]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209117
+[192]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209119
+[193]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM373368
+[194]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209120
+[195]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209121
+[196]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209122
+[197]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM129109
+[198]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM106939
+[199]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM446000
+[200]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM242162
+[201]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM130375
+[202]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209124
+[203]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM439001
+[204]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM2136542
+[205]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM2136770
+[206]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM2136813
+[207]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM2136815
+[208]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM2137090
+[209]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209125
+[210]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM21806
+[211]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM21887
+[212]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209126
+[213]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209127
+[214]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM122579
+[215]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM162719
+[216]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM163544
+[217]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM88548
+[218]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM328867
+[219]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM88957
+[220]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM330552
+[221]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM3388549
+[222]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209128
+[223]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM5469520
+[224]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209130
+[225]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM432534
+[226]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM379201
+[227]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM379205
+[228]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM379211
+[229]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM379234
+[230]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM379235
+[231]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM73189
+[232]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM300382
+[233]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209131
+[234]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM239198
+[235]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM5469521
+[236]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209132
+[237]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM5469522
+[238]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM394938
+[239]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM5469523
+[240]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM5138209
+[241]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM5469524
+[242]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM373369
+[243]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM73191
+[244]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM5469525
+[245]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM4425533
+[246]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM73193
+[247]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM4425534
+[248]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM4425535
+[249]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM5469527
+[250]: http://www.legislation.govt.nz/act/public/1953/0031/latest/whole.html#DLM277358
+[251]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM5469528
+[252]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM135593
+[253]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM137267
+[254]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM5469529
+[255]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM3360714
+[256]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM3360067
+[257]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM73802
+[258]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209133
+[259]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209134
+[260]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM106041
+[261]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM106047
+[262]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM2997643
+[263]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM2998573
+[264]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM221351
+[265]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM242161
+[266]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM373370
+[267]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209135
+[268]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM5469531
+[269]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM407228
+[270]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM2998633
+[271]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM195558
+[272]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM31462
+[273]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM31885
+[274]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM209136
+[275]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM3697506
+[276]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM3012913
+[277]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM32933
+[278]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM118235
+[279]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM32576
+[280]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM32577
+[281]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM32578
+[282]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM38902
+[283]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM211055
+[284]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM3697507
+[285]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM224072
+[286]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM103974
+[287]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM39880
+[288]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM4894504
+[289]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM3347011
+[290]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM1313622
+[291]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM38526
+[292]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM445092
+[293]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM443632
+[294]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM264185
+[295]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM197562
+[296]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM242153
+[297]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM207911
+[298]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM138153
+[299]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM138161
+[300]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM139400
+[301]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM373371
+[302]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM373339
+[303]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM3388102
+[304]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM2998516
+[305]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM2998515
+[306]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM2998532
+[307]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[308]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM4425531
+[309]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM5138203
+[310]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM4894509
+[311]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM3697500
+[312]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM3347005
+[313]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM218870
+[314]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM73182
+[315]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM224067
+[316]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM407222
+[317]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM211050
+[318]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM208798
+[319]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM118229
+[320]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM103967
+[321]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM32927
+[322]: http://www.legislation.govt.nz/act/public/1953/0031/latest/link.aspx?id=DLM32570
