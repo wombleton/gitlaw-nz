@@ -1,5 +1,5 @@
 Reprint  
-as at 3 October 2013
+as at 1 November 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -5287,7 +5287,9 @@ Department of Corrections
 
 Legal Services Commissioner, for the purpose of determining an application for a grant of legal aid in relation to a criminal matter
 
-Non-performance of bail conditions Records relating to failure to comply with bail conditions entered under [section 39(3)][661] of the [Bail Act 2000][662] 
+Driver licence stop orders Particulars of each order served, cancelled, or terminated, the full name, full address, telephone number, driver licence number, and date of birth of the person on whom the order was served; the date and time when the order was served on the person, the date of the cancellation or termination of the order, and any amendments required, as at the date of service, cancellation, or termination, to the person's full address and telephone number New Zealand Transport Agency (access is limited to recording, on the Driver Licence Register, the service, cancellation, or termination of an order and any amendments required to the person's full address and telephone number, and to replacing a driver licence following the cancellation or termination of the order)
+
+Non-performance of bail conditions Records relating to failure to comply with bail conditions entered under [section 39(3)][661] of the Bail Act 2000 
 
 Police
 
@@ -5327,7 +5329,7 @@ Ministry of Justice (access is limited to---
         
     *   (i) entering information relating to prosecutions initiated otherwise than by the Police; or
     
-    *   (ii) providing assistance to victims in accordance with the [Criminal Justice Act 1985][663], the [Sentencing Act 2002][664], the [Parole Act 2002][665], the [Victims' Rights Act 2002][666], and the [Prisoners' and Victims' Claims Act 2005][667]; or
+    *   (ii) providing assistance to victims in accordance with the [Criminal Justice Act 1985][662], the [Sentencing Act 2002][663], the [Parole Act 2002][664], the [Victims' Rights Act 2002][665], and the [Prisoners' and Victims' Claims Act 2005][666]; or
     
     *   (iii) updating an existing database of court proceedings; or
     
@@ -5337,15 +5339,15 @@ Ministry of Justice (access is limited to---
 
 Victim identity The name, sex, date of birth, address, and telephone number of persons who are the victims of a criminal offence in respect of which another person has been charged 
 
-Ministry of Justice (access is limited to identity details for the purpose of providing assistance to victims in accordance with the Criminal Justice Act 1985, the [Sentencing Act 2002][664], the [Parole Act 2002][665], the [Victims' Rights Act 2002][666], and the [Prisoners' and Victims' Claims Act 2005][667])
+Ministry of Justice (access is limited to identity details for the purpose of providing assistance to victims in accordance with the Criminal Justice Act 1985, the [Sentencing Act 2002][663], the [Parole Act 2002][664], the [Victims' Rights Act 2002][665], and the [Prisoners' and Victims' Claims Act 2005][666])
 
-Medical details An indicator to identify persons who are or have been special patients under the [Mental Health (Compulsory Assessment and Treatment) Act 1992][668] or any former Act and the hospitals at which those persons are or have been detained as special patients, or as committed patients, or as patients (within the meaning of that Act) 
+Medical details An indicator to identify persons who are or have been special patients under the [Mental Health (Compulsory Assessment and Treatment) Act 1992][667] or any former Act and the hospitals at which those persons are or have been detained as special patients, or as committed patients, or as patients (within the meaning of that Act) 
 
 New Zealand Transport Agency (access is limited to obtaining information for the purposes of---
     
-*   (a) [subpart 2][669] of Part 4A of the Land Transport Act 1998; or
+*   (a) [subpart 2][668] of Part 4A of the Land Transport Act 1998; or
 
-*   (b) [section 19][670] of the Land Transport Act 1998
+*   (b) [section 19][669] of the Land Transport Act 1998
 
 Department of Corrections
 
@@ -5361,15 +5363,15 @@ Legal Services Commissioner (access is limited to obtaining information for the 
 
 Vehicles of interest Particulars of motor vehicles stolen, unlawfully taken, missing, abandoned, or found, or where location is for other reasons required to be known by the Police Ministry of Transport (access is limited so as to exclude such particulars as the Police may determine in any case)
 
-Vehicles impounded under [Land Transport Act 1998][671] Particulars of an impounded vehicle, including make, model, type, registration plate number, vehicle identification number; the section of the [Land Transport Act 1998][671] under which it is impounded, the date on which it was impounded, and the place where it is impounded; whether any appeals are yet to be determined; particulars of the person who was driving the vehicle immediately before its impoundment, including the full name, full address, telephone number, occupation, driver licence number, and date of birth of that person and the same particulars also for every person, other than that driver, who is registered in respect of the vehicle Ministry of Justice (access is limited to giving effect to action taken, under [Part 3][672] of the Summary Proceedings Act 1957, to enforce the payment of fines, reparation, and related payments)
+Vehicles impounded under [Land Transport Act 1998][670] Particulars of an impounded vehicle, including make, model, type, registration plate number, vehicle identification number; the section of the [Land Transport Act 1998][670] under which it is impounded, the date on which it was impounded, and the place where it is impounded; whether any appeals are yet to be determined; particulars of the person who was driving the vehicle immediately before its impoundment, including the full name, full address, telephone number, occupation, driver licence number, and date of birth of that person and the same particulars also for every person, other than that driver, who is registered in respect of the vehicle Ministry of Justice (access is limited to giving effect to action taken, under [Part 3][671] of the Summary Proceedings Act 1957, to enforce the payment of fines, reparation, and related payments)
 
 Wanted persons Particulars concerning persons wanted for arrest 
 
 New Zealand Transport Agency (access is limited to obtaining information for the purposes of---
     
-*   (a) [subpart 2][669] of Part 4A of the Land Transport Act 1998:
+*   (a) [subpart 2][668] of Part 4A of the Land Transport Act 1998:
 
-*   (b) carrying out the functions conferred on the Agency by [section 95(1)][673] of the Land Transport Management Act 2003:
+*   (b) carrying out the functions conferred on the Agency by [section 95(1)][672] of the Land Transport Management Act 2003:
 
 *   (c) carrying out the functions conferred on the Agency by the notice dated 22 August 1993 and published in the _Gazette_ on 2 September 1993 at page 2626)
 
@@ -5381,15 +5383,15 @@ New Zealand Transport Agency (access is limited so as to exclude such particular
 
 Ministry of Justice (access is limited to persons required to be located in connection with fines enforcement)
 
-Firearms licences Particulars of persons authorised to possess firearms in accordance with the [Arms Act 1983][674] 
+Firearms licences Particulars of persons authorised to possess firearms in accordance with the [Arms Act 1983][673] 
 
-Ministry of Justice (access is limited to identity details of persons who possess firearms, where that information is required for the purpose of serving orders made under the [Domestic Violence Act 1995][675])
+Ministry of Justice (access is limited to identity details of persons who possess firearms, where that information is required for the purpose of serving orders made under the [Domestic Violence Act 1995][674])
 
 Protection orders Details of protection orders made under the Domestic Violence Act 1995 
 
 Department of Corrections (access is limited to obtaining information about any offender who is subject to a protection order while also subject to---
     
-*   (a) a full-time custodial sentence (including while released on parole or subject to conditions imposed under [section 93][676] of the Sentencing Act 2002); or
+*   (a) a full-time custodial sentence (including while released on parole or subject to conditions imposed under [section 93][675] of the Sentencing Act 2002); or
 
 *   (b) a sentence of periodic detention, supervision, intensive supervision, community service, community programme, community work, or community detention; or
 
@@ -5399,11 +5401,11 @@ Department of Corrections (access is limited to obtaining information about any 
 
 Access is for the purpose of managing the offender's sentence and any post-sentence conditions in a manner consistent with any protection order.)
 
-Restraining orders Details of restraining orders made under the [Harassment Act 1997][677] 
+Restraining orders Details of restraining orders made under the [Harassment Act 1997][676] 
 
 Department of Corrections (access is limited to obtaining information about any offender who is subject to a restraining order while also subject to---
     
-*   (a) a full-time custodial sentence (including while released on parole or subject to conditions imposed under [section 93][676] of the Sentencing Act 2002); or
+*   (a) a full-time custodial sentence (including while released on parole or subject to conditions imposed under [section 93][675] of the Sentencing Act 2002); or
 
 *   (b) a sentence of periodic detention, supervision, intensive supervision, community service, community programme, community work, or community detention; or
 
@@ -5433,7 +5435,7 @@ Ministry of Transport (access is limited to obtaining information for the purpos
     
 *   (a) \[Repealed\]
 
-*   (b) holders of licences issued under the [Road User Charges Act 2012][678]
+*   (b) holders of licences issued under the [Road User Charges Act 2012][677]
 
 Registrar of Motor Vehicles (access is limited to obtaining information for the purposes of---
     
@@ -5449,7 +5451,7 @@ Demerit points The recording of demerit points in relation to traffic offences
 
 Police
 
-Rail licensing register A national register of all licences under the [Railways Act 2005][679] 
+Rail licensing register A national register of all licences under the [Railways Act 2005][678] 
 
 Police
 
@@ -5477,25 +5479,25 @@ New Zealand Customs Service (access is limited to obtaining information for the 
 
 New Zealand Transport Agency (access is limited to obtaining information for the purposes of carrying out the functions conferred on the Agency by---
     
-*   (a) [section 95(1)][673] of the Land Transport Management Act 2003:
+*   (a) [section 95(1)][672] of the Land Transport Management Act 2003:
 
 *   (b) the notice dated 22 August 1993 and published in the _Gazette_ on 2 September 1993 at page 2626)
 
 Legal Services Commissioner (access is limited to obtaining information for the purpose of determining financial eligibility of an applicant for a grant of legal aid in relation to a criminal matter)
 
-An enforcement authority under the [Land Transport Management Act 2003][680].
+An enforcement authority under the [Land Transport Management Act 2003][679].
 
 _Ministry of Transport records_
 
 **Subject** **Description** **Access available to**
 
-Road user charges Details of licences issued under the [Road User Charges Act 1977][681] and details of the corresponding licence holders 
+Road user charges Details of licences issued under the [Road User Charges Act 1977][680] and details of the corresponding licence holders 
 
-Police (access is limited to obtaining information for the purpose of enforcing the [Road User Charges Act 1977][681])
+Police (access is limited to obtaining information for the purpose of enforcing the [Road User Charges Act 1977][680])
 
 New Zealand Transport Agency (access is limited to obtaining information for the purposes of carrying out the functions conferred on the Agency by---
     
-*   (a) [section 95(1)][673] of the Land Transport Management Act 2003:
+*   (a) [section 95(1)][672] of the Land Transport Management Act 2003:
 
 *   (b) the notice dated 22 August 1993 and published in the _Gazette_ on 2 September 1993 at page 2626)
 
@@ -5507,9 +5509,9 @@ Community-based sentences, sentences of home detention, and conditions of releas
 
 Particulars of persons---
     
-*   (a) released on probation or parole, or released on conditions under [Part 6][682] of the [Criminal Justice Act 1985][663], or sentenced to community service, periodic detention, supervision, or a community programme; or 
+*   (a) released on probation or parole, or released on conditions under [Part 6][681] of the Criminal Justice Act 1985, or sentenced to community service, periodic detention, supervision, or a community programme; or 
 
-*   (b) released on parole, home detention, or compassionate release under [subpart 2][683] of Part 1 of the Parole Act 2002 or sentenced to supervision, intensive supervision, community work, community detention, or home detention.
+*   (b) released on parole, home detention, or compassionate release under [subpart 2][682] of Part 1 of the Parole Act 2002 or sentenced to supervision, intensive supervision, community work, community detention, or home detention.
 
 Police (access is limited to---
     
@@ -5525,6 +5527,7 @@ Police (access is limited to the location and the date of release of the prisone
 
 Ministry of Justice
 
+*   Schedule 5: amended, on 1 November 2013, by [section 5][683] of the Privacy Amendment Act 2011 (2011 No 44).
 *   Schedule 5: amended, on 1 July 2013, by [section 413][330] of the Criminal Procedure Act 2011 (2011 No 81).
 *   Schedule 5: amended, on 13 June 2013, by [section 72][684] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 *   Schedule 5: amended, on 1 August 2012, by [section 94][685] of the Road User Charges Act 2012 (2012 No 1).
@@ -5676,7 +5679,7 @@ _Amendment(s) incorporated in the [Act(s)][708]._
 
 ##### Criminal Justice Act 1985 (1985 No 120)
 
-_Amendment(s) incorporated in the [Act(s)][663]._
+_Amendment(s) incorporated in the [Act(s)][662]._
 
 ##### Defamation Act 1992 (1992 No 105)
 
@@ -6673,28 +6676,28 @@ Orders revoked
 [659]: http://www.legislation.govt.nz/act/public/1993/0028/latest/whole.html#DLM298793
 [660]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM231835
 [661]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM68964
-[662]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM68379
-[663]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM76615
-[664]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM135341
-[665]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM137631
-[666]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM157812
-[667]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM350820
-[668]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM262175
-[669]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM434591
-[670]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM434536
-[671]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM433612
-[672]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM311863
-[673]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM228046
-[674]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM72621
-[675]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM371925
-[676]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM136469
-[677]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM417077
-[678]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM3394800
-[679]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM341567
-[680]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM226229
-[681]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM18599
-[682]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM78252
-[683]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM138435
+[662]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM76615
+[663]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM135341
+[664]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM137631
+[665]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM157812
+[666]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM350820
+[667]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM262175
+[668]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM434591
+[669]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM434536
+[670]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM433612
+[671]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM311863
+[672]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM228046
+[673]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM72621
+[674]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM371925
+[675]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM136469
+[676]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM417077
+[677]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM3394800
+[678]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM341567
+[679]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM226229
+[680]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM18599
+[681]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM78252
+[682]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM138435
+[683]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM3558213
 [684]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM4663359
 [685]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM3395080
 [686]: http://www.legislation.govt.nz/act/public/1993/0028/latest/link.aspx?id=DLM3143015
