@@ -151,7 +151,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
 *   In this Act, unless the context otherwise requires,---
     
-    _Commonwealth_ means the British Commonwealth of Nations; and includes every territory for whose international relations the government of any Commonwealth country is responsible; and also includes the Republic of Ireland as if that country were a member of the British Commonwealth of Nations
+    _Commonwealth_ means the British Commonwealth of Nations; and includes every territory for whose international relations the Government of any Commonwealth country is responsible; and also includes the Republic of Ireland as if that country were a member of the British Commonwealth of Nations
     
     _Commonwealth representative_ means any Ambassador, High Commissioner, Commissioner, Minister, Counsellor, Chargé d'Affaires, Head of Mission, Consular Officer, Pro-consul, Trade Commissioner, or Tourist Commissioner of a Commonwealth country (including New Zealand); and includes any person lawfully acting for any such officer; and also includes any diplomatic secretary on the staff of any such Ambassador, High Commissioner, Commissioner, Minister, Counsellor, Chargé d'Affaires, or Head of Mission
     
@@ -586,7 +586,7 @@ Form of declaration
 
 [s 9][14]
 
-I, AB, of \[_insert place of abode and occupation_\], solemnly and sincerely declare that \[_insert facts_\].
+I, AB, of \[_place of abode and occupation_\], solemnly and sincerely declare that \[_insert facts_\].
 
 And I make this solemn declaration conscientiously believing the same to be true and by virtue of the Oaths and Declarations Act 1957\.
 
@@ -876,7 +876,7 @@ _Amendment(s) incorporated in the Act(s)._
     
     Acts Interpretation Amendment Act 1983 (1983 No 22): section 5(b)
     
-    Maori Purposes Act 1982 (1982 No 124): [section 5][83]
+    Maori Purposes Act 1982 (1982 No 124): [section 5(6)][83]
     
     District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][84]
     
@@ -985,7 +985,7 @@ _Amendment(s) incorporated in the Act(s)._
 [86]: http://www.legislation.govt.nz/act/public/1957/0088/latest/link.aspx?id=DLM169216
 [87]: http://www.legislation.govt.nz/act/public/1957/0088/latest/link.aspx?id=DLM133281
 [88]: http://www.legislation.govt.nz/act/public/1957/0088/latest/link.aspx?id=DLM1001866
-[89]: http://www.legislation.govt.nz/act/public/1957/0088/latest/link.aspx?id=DLM245651
+[89]: http://www.legislation.govt.nz/act/public/1957/0088/latest/link.aspx?id=DLM294331
 [90]: http://www.legislation.govt.nz/act/public/1957/0088/latest/link.aspx?id=DLM24757
 [91]: http://www.legislation.govt.nz/act/public/1957/0088/latest/link.aspx?id=DLM428143
 [92]: http://www.legislation.govt.nz/act/public/1957/0088/latest/link.aspx?id=DLM134169
