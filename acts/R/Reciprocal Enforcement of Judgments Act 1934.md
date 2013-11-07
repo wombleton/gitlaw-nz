@@ -88,7 +88,7 @@ This Act is administered by the Ministry of Justice.
 
 ---
 
-An Act to make better provision for the enforcement in New Zealand of judgments given in the United Kingdom or in other countries (whether within His Majesty's dominions or not) which afford reciprocal treatment to judgments given in New Zealand, for facilitating the enforcement in other countries of judgments given in New Zealand, and for other purposes in connection with the matters aforesaid
+An Act to make better provision for the enforcement in New Zealand of judgments given in the United Kingdom or in other countries (whether within the Sovereign's dominions or not) which afford reciprocal treatment to judgments given in New Zealand, for facilitating the enforcement in other countries of judgments given in New Zealand, and for other purposes in connection with the matters aforesaid
 
 ##### 1 Short Title
     
@@ -122,9 +122,9 @@ An Act to make better provision for the enforcement in New Zealand of judgments 
     
     _registration_ means registration under [Part 1][4], and the expressions _register_ and _registered_ shall be construed accordingly.
     
-    (2) For the purposes of this Act the expression ""action _in personam_"" shall not be deemed to include any matrimonial cause or any proceedings in connection with any of the following matters---that is to say, matrimonial matters, administration of the estates of deceased persons, bankruptcy, winding up of companies, lunacy, or guardianship of infants.
+    (2) For the purposes of this Act the expression _action _in personam__ shall not be deemed to include any matrimonial cause or any proceedings in connection with any of the following matters---that is to say, matrimonial matters, administration of the estates of deceased persons, bankruptcy, winding-up of companies, lunacy, or guardianship of infants.
     
-    (3) In this Act, references to _Her Majesty's dominions outside the United Kingdom_ shall be construed as including references to any territories which are under Her Majesty's protection and to any territories in respect of which a mandate under the League of Nations has been accepted by His Majesty.
+    (3) In this Act, references to the Sovereign's dominions outside the United Kingdom shall be construed as including references to any territories which are under the Sovereign's protection and to any territories in respect of which a mandate under the League of Nations has been accepted by the Sovereign.
     
     Compare: Foreign Judgments (Reciprocal Enforcement) Act 1933 s 11 (UK)
     
@@ -161,11 +161,11 @@ Reciprocal enforcement of judgments
     
     (1C) Subsection (1A), and the amendments to, and revocations of orders under, this Part effected by [Schedule 2][35] of the Trans-Tasman Proceedings Act 2010, do not, however, affect the application of this Part to a judgment given in or by a superior court or an inferior court of Australia before the commencement of [subpart 5][34] of Part 2 of that Act.
     
-    (2) If the Governor-General is satisfied that, in the event of the benefits conferred by this Part being extended to money judgments given in the superior courts of any part of Her Majesty's dominions outside the United Kingdom, or given in the superior courts of any foreign country, substantial reciprocity of treatment will be assured as respects the enforcement within that part of Her Majesty's dominions or in that foreign country, as the case may be, of money judgments given in the superior courts of New Zealand, he may by Order in Council direct---
+    (2) If the Governor-General is satisfied that, in the event of the benefits conferred by this Part being extended to money judgments given in the superior courts of any part of the Sovereign's dominions outside the United Kingdom, or given in the superior courts of any foreign country, substantial reciprocity of treatment will be assured as respects the enforcement within that part of the Sovereign's dominions or in that foreign country, as the case may be, of money judgments given in the superior courts of New Zealand, he may by Order in Council direct---
         
-    *   (a) that this Part shall extend to that part of Her Majesty's dominions or to that foreign country; and
+    *   (a) that this Part shall extend to that part of the Sovereign's dominions or to that foreign country; and
     
-    *   (b) that such courts as are specified in the Order in Council shall, for the purposes of this Part, be deemed superior courts of that part of Her Majesty's dominions or of that foreign country.
+    *   (b) that such courts as are specified in the Order in Council shall, for the purposes of this Part, be deemed superior courts of that part of the Sovereign's dominions or of that foreign country.
     
     (2A) The fact that a particular court is not specified in an Order in Council is not taken to imply that the court is not a superior court for the purposes of this Act.
     
@@ -177,7 +177,7 @@ Reciprocal enforcement of judgments
     
     *   (c) it is given after the coming into operation of the Order in Council directing that this Part shall extend to that country:
         
-        provided that nothing in this paragraph shall apply with respect to judgments given in the United Kingdom or in any other part of Her Majesty's dominions to which Part 1 of the Administration of Justice Act 1922 applied immediately before the passing of this Act.
+        provided that nothing in this paragraph shall apply with respect to judgments given in the United Kingdom or in any other part of the Sovereign's dominions to which Part 1 of the Administration of Justice Act 1922 applied immediately before the passing of this Act.
     
     (3A) \[Repealed\]
     
