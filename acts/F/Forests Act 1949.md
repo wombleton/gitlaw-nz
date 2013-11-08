@@ -91,7 +91,7 @@ This Act is administered by the Ministry for Primary Industries.
 
 [25][33][][33][Maps of State forest land to be prepared and recorded][33] \[Repealed\]
 
-[26][34][][34][Working plans][34] \[Repealed\]
+[26][34][][34][Management plans][34] \[Repealed\]
 
 [27][35][][35][Forest produce presumed to be the property of the Crown][35] \[Repealed\]
 
@@ -659,9 +659,9 @@ Administration
     
     (3) All references to the Commissioner of State Forests in any Act, regulation, rule, bylaw, order, or other enactment, or in any contract, agreement, deed, instrument, application, licence, notice, or other document whatsoever shall, unless inconsistent with the context, be read hereafter as references to the Minister of Forestry.
     
-    (4) Any contract, agreement, licence, lease, permit, or other right or authority which the Minister is authorised to enter into or grant under this or any other enactment shall be entered into or granted by him in the name and on behalf of Her Majesty the Queen. All such contracts, agreements, licences, leases, permits, and other authorities that have been entered into or granted by the Commissioner of State Forests before this Act comes into force shall be deemed to have been entered into or granted by him on behalf of Her Majesty, and all rights, powers, and liabilities vested in or imposed upon the Commissioner of State Forests or the Minister by any such contracts, agreements, licences, leases, permits, and other rights and authorities shall be deemed to vest in Her Majesty when this Act comes into force.
+    (4) Any contract, agreement, licence, lease, permit, or other right or authority which the Minister is authorised to enter into or grant under this or any other enactment shall be entered into or granted by him in the name and on behalf of the Sovereign. All such contracts, agreements, licences, leases, permits, and other authorities that have been entered into or granted by the Commissioner of State Forests before this Act comes into force shall be deemed to have been entered into or granted by him on behalf of the Sovereign, and all rights, powers, and liabilities vested in or imposed upon the Commissioner of State Forests or the Minister by any such contracts, agreements, licences, leases, permits, and other rights and authorities shall be deemed to vest in the Sovereign when this Act comes into force.
     
-    (5) The Minister may from time to time exercise on behalf of Her Majesty all Her Majesty's rights and powers under any such contract, agreement, licence, lease, permit, right, or authority.
+    (5) The Minister may from time to time exercise on behalf of the Sovereign all the Sovereign's rights and powers under any such contract, agreement, licence, lease, permit, right, or authority.
     
     Compare: 1921--22 No 43 s 4
     
@@ -751,7 +751,7 @@ Administration
     
 *   \[Repealed\]
     
-    Section 14: repealed, on 1 April 1987, by [section 32(1)][172] of the State-Owned Enterprises Act 1986 (1986 No 124) .
+    Section 14: repealed, on 1 April 1987, by [section 32(1)][172] of the State-Owned Enterprises Act 1986 (1986 No 124).
 
 ##### 15 Powers of Minister
     
@@ -771,7 +771,7 @@ Administration
     
 *   \[Repealed\]
     
-    Section 15A: repealed, on 1 April 1987, by [section 32(1)][172] of the State-Owned Enterprises Act 1986 (1986 No 124) .
+    Section 15A: repealed, on 1 April 1987, by [section 32(1)][172] of the State-Owned Enterprises Act 1986 (1986 No 124).
 
 ##### 15B Collection and disclosure of statistical information
     
@@ -884,7 +884,7 @@ State forest land
     
     Section 25: repealed, on 1 April 1987, by [section 32(1)][172] of the State-Owned Enterprises Act 1986 (1986 No 124).
 
-##### 26 Working plans
+##### 26 Management plans
     
 *   \[Repealed\]
     
@@ -2527,7 +2527,7 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 71A: deemed to have been repealed on 1 April 1988, by section 15(2)(a) of the Forests Amendment Act 1987 (1987 No 118) .
+    Section 71A: deemed to have been repealed on 1 April 1988, by section 15(2)(a) of the Forests Amendment Act 1987 (1987 No 118).
 
 ##### 71B Restrictions on exercise of power of entry
     
