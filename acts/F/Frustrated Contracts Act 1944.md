@@ -51,13 +51,13 @@ An Act to amend the law relating to the frustration of contracts
     
 *   (1) Where a contract governed by the law of New Zealand has become impossible of performance or been otherwise frustrated, and the parties thereto have for that reason been discharged from the further performance of the contract, the following provisions of this section shall, subject to the provisions of [section 4][5], have effect in relation thereto.
     
-    (2) All sums paid or payable to any party in pursuance of the contract before the time when the parties were so discharged (in this Act referred to as the **time of discharge**) shall, in the case of sums so paid, be recoverable from him as money received by him for the use of the party by whom the sums were paid, and, in the case of sums so payable, cease to be so payable:
+    (2) All sums paid or payable to any party in pursuance of the contract before the time when the parties were so discharged (in this Act referred to as the time of discharge) shall, in the case of sums so paid, be recoverable from him or her as money received by him or her for the use of the party by whom the sums were paid, and, in the case of sums so payable, cease to be so payable:
     
-    provided that, if the party to whom the sums were so paid or payable incurred expenses before the time of discharge in, or for the purpose of, the performance of the contract, the court may, if it considers it just to do so having regard to all the circumstances of the case, allow him to retain or, as the case may be, recover the whole or any part of the sums so paid or payable, not being an amount in excess of the expenses so incurred.
+    provided that, if the party to whom the sums were so paid or payable incurred expenses before the time of discharge in, or for the purpose of, the performance of the contract, the court may, if it considers it just to do so having regard to all the circumstances of the case, allow him or her to retain or, as the case may be, recover the whole or any part of the sums so paid or payable, not being an amount in excess of the expenses so incurred.
     
-    (3) Where any party to the contract has, by reason of anything done by any other party thereto in, or for the purpose of, the performance of the contract, obtained a valuable benefit (other than a payment of money to which the last preceding subsection applies) before the time of discharge, there shall be recoverable from him by the said other party such sum (if any), not exceeding the value of the said benefit to the party obtaining it, as the court considers just, having regard to all the circumstances of the case and, in particular,---
+    (3) Where any party to the contract has, by reason of anything done by any other party thereto in, or for the purpose of, the performance of the contract, obtained a valuable benefit (other than a payment of money to which the last preceding subsection applies) before the time of discharge, there shall be recoverable from him or her by the said other party such sum (if any), not exceeding the value of the said benefit to the party obtaining it, as the court considers just, having regard to all the circumstances of the case and, in particular,---
         
-    *   (a) the amount of any expenses incurred before the time of discharge by the benefited party in, or for the purpose of, the performance of the contract, including any sums paid or payable by him to any other party in pursuance of the contract and retained or recoverable by that party under the last preceding subsection; and
+    *   (a) the amount of any expenses incurred before the time of discharge by the benefited party in, or for the purpose of, the performance of the contract, including any sums paid or payable by him or her to any other party in pursuance of the contract and retained or recoverable by that party under the last preceding subsection; and
     
     *   (b) the effect, in relation to the said benefit, of the circumstances giving rise to the frustration of the contract.
     
@@ -67,7 +67,7 @@ An Act to amend the law relating to the frustration of contracts
     
     (6) Where any person has assumed obligations under the contract in consideration of the conferring of a benefit by any other party to the contract upon any other person, whether a party to the contract or not, the court may, if in all the circumstances of the case it considers it just to do so, treat for the purposes of subsection (3) any benefit so conferred as a benefit obtained by the person who has assumed the obligations as aforesaid.
     
-    Compare: Law Reform (Frustrated Contracts) Act 1943, 6 and 7, Geo VI, c 40, s 1 (UK)
+    Compare: Law Reform (Frustrated Contracts) Act 1943 s 1 (Imp)
 
 ##### 4 Provision as to application of this Act
     
@@ -87,7 +87,7 @@ An Act to amend the law relating to the frustration of contracts
     
     *   (c) to any contract to which [section 9][7] of the Sale of Goods Act 1908 (which avoids contracts for the sale of specific goods which perish before the risk has passed to the buyer) applies, or to any other contract for the sale, or for the sale and delivery, of specific goods, where the contract is frustrated by reason of the fact that the goods have perished.
     
-    Compare: Law Reform (Frustrated Contracts) Act 1943, 6 and 7, Geo VI, c 40, s 2 (UK)
+    Compare: Law Reform (Frustrated Contracts) Act 1943 s 2 (Imp)
 
 ---
 
