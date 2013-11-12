@@ -23,258 +23,258 @@ This Act is administered by the New Zealand Defence Force.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Part 1][3]  
 [Preliminary provisions relating to Court Martial][3]
 
-[Subpart 1][4]---[Preliminary][4]
+[Subpart 1][4][---][4][Preliminary][4]
 
-[3][5] [Purpose of this Act][5]
+[3][5][][5][Purpose of this Act][5]
 
-[4][6] [Overview of this Act][6]
+[4][6][][6][Overview of this Act][6]
 
-[5][7] [Interpretation][7]
+[5][7][][7][Interpretation][7]
 
-[6][8] [This Act to be read with 1971 Act][8]
+[6][8][][8][This Act to be read with 1971 Act][8]
 
-[7][9] [This Act binds the Crown][9]
+[7][9][][9][This Act binds the Crown][9]
 
-[Subpart 2][10]---[Establishment of Court Martial][10]
+[Subpart 2][10][---][10][Establishment of Court Martial][10]
 
 [Court Martial established][11]
 
-[8][12] [Court Martial of New Zealand established][12]
+[8][12][][12][Court Martial of New Zealand established][12]
 
-[9][13] [Court Martial must sit in divisions][13]
+[9][13][][13][Court Martial must sit in divisions][13]
 
 [Judges of Court Martial][14]
 
-[10][15] [Judges of Court Martial][15]
+[10][15][][15][Judges of Court Martial][15]
 
-[11][16] [Eligibility for appointment as Judge][16]
+[11][16][][16][Eligibility for appointment as Judge][16]
 
-[12][17] [Appointment of Chief Judge][17]
+[12][17][][17][Appointment of Chief Judge][17]
 
-[13][18] [Appointment of Deputy Chief Judges][18]
+[13][18][][18][Appointment of Deputy Chief Judges][18]
 
-[14][19] [Appointment of other Judges][19]
+[14][19][][19][Appointment of other Judges][19]
 
-[15][20] [Notice requirement for appointment of Chief Judge, Deputy Chief Judges, or other Judges][20]
+[15][20][][20][Notice requirement for appointment of Chief Judge, Deputy Chief Judges, or other Judges][20]
 
-[16][21] [Protection of Judges against removal from office][21]
+[16][21][][21][Protection of Judges against removal from office][21]
 
-[17][22] [Judges must not hold other offices][22]
+[17][22][][22][Judges must not hold other offices][22]
 
-[18][23] [Judges to have immunities of High Court Judges][23]
+[18][23][][23][Judges to have immunities of High Court Judges][23]
 
-[19][24] [Age of retirement][24]
+[19][24][][24][Age of retirement][24]
 
-[20][25] [Salaries and allowances of Judges][25]
+[20][25][][25][Salaries and allowances of Judges][25]
 
-[Subpart 3][26]---[Constitution of Court Martial for proceedings][26]
+[Subpart 3][26][---][26][Constitution of Court Martial for proceedings][26]
 
 [Composition of Court Martial][27]
 
-[21][28] [Composition of Court Martial][28]
+[21][28][][28][Composition of Court Martial][28]
 
 [Assignment of military members of Court Martial][29]
 
-[22][30] [Qualifications for membership][30]
+[22][30][][30][Qualifications for membership][30]
 
-[23][31] [Disqualifications for membership][31]
+[23][31][][31][Disqualifications for membership][31]
 
-[24][32] [Registrar must consider other factors in assigning military members][32]
+[24][32][][32][Registrar must consider other factors in assigning military members][32]
 
-[25][33] [Officers of other forces may be assigned as military members in certain circumstances][33]
+[25][33][][33][Officers of other forces may be assigned as military members in certain circumstances][33]
 
-[26][34] [Procedure for assigning military members][34]
+[26][34][][34][Procedure for assigning military members][34]
 
-[27][35] [Accused may object against assignment of person as military member][35]
+[27][35][][35][Accused may object against assignment of person as military member][35]
 
-[28][36] [Substitute military members][36]
+[28][36][][36][Substitute military members][36]
 
-[Subpart 4][37]---[Duties of members of Court Martial][37]
+[Subpart 4][37][---][37][Duties of members of Court Martial][37]
 
 [Duties of Judge][38]
 
-[29][39] [Duties of Judge: general][39]
+[29][39][][39][Duties of Judge: general][39]
 
-[30][40] [Duties of Judge at trial][40]
+[30][40][][40][Duties of Judge at trial][40]
 
 [Duties of military members][41]
 
-[31][42] [Duties of military members][42]
+[31][42][][42][Duties of military members][42]
 
-[32][43] [Failure to attend Court Martial is contempt of court][43]
+[32][43][][43][Failure to attend Court Martial is contempt of court][43]
 
 [Other provisions relating to role of military members][44]
 
-[33][45] [Seniority of military members][45]
+[33][45][][45][Seniority of military members][45]
 
-[34][46] [Senior military member must submit report on command issues][46]
+[34][46][][46][Senior military member must submit report on command issues][46]
 
-[35][47] [Prohibition on taking into account information about conduct of military members][47]
+[35][47][][47][Prohibition on taking into account information about conduct of military members][47]
 
 [Part 2][48]  
 [Jurisdiction, procedures, and powers][48]
 
-[Subpart 1][49]---[Jurisdiction and sittings of Court Martial][49]
+[Subpart 1][49][---][49][Jurisdiction and sittings of Court Martial][49]
 
 [General jurisdiction][50]
 
-[36][51] [Jurisdiction of Court Martial][51]
+[36][51][][51][Jurisdiction of Court Martial][51]
 
 [Sittings of Court Martial][52]
 
-[37][53] [Requirements for sittings of Court Martial][53]
+[37][53][][53][Requirements for sittings of Court Martial][53]
 
-[38][54] [When Court Martial must hold proceedings in closed court][54]
+[38][54][][54][When Court Martial must hold proceedings in closed court][54]
 
-[39][55] [Judge may limit scope of open court][55]
+[39][55][][55][Judge may limit scope of open court][55]
 
-[40][56] [Duration of order limiting scope of open court][56]
+[40][56][][56][Duration of order limiting scope of open court][56]
 
-[41][57] [Application of section 42][57]
+[41][57][][57][Application of section 42][57]
 
-[42][58] [Special provisions in cases involving sexual violation][58]
+[42][58][][58][Special provisions in cases involving sexual violation][58]
 
-[Subpart 2][59]---[Procedures][59]
+[Subpart 2][59][---][59][Procedures][59]
 
-[43][60] [Preliminary procedure][60]
+[43][60][][60][Preliminary procedure][60]
 
-[44][61] [Judge may sit alone to rule on question of law or procedure][61]
+[44][61][][61][Judge may sit alone to rule on question of law or procedure][61]
 
-[45][62] [Power to summon witnesses][62]
+[45][62][][62][Power to summon witnesses][62]
 
-[46][63] [Service of summons][63]
+[46][63][][63][Service of summons][63]
 
-[47][64] [Administration of oaths][64]
+[47][64][][64][Administration of oaths][64]
 
 [Discharge of military members][65]
 
-[48][66] [Discharge of military members][66]
+[48][66][][66][Discharge of military members][66]
 
-[Subpart 3][67]---[Bail][67]
+[Subpart 3][67][---][67][Bail][67]
 
 [General][68]
 
-[49][69] [Judge may grant bail pending trial][69]
+[49][69][][69][Judge may grant bail pending trial][69]
 
-[50][70] [Judge may grant bail pending appeal][70]
+[50][70][][70][Judge may grant bail pending appeal][70]
 
-[51][71] [Time on bail pending appeal does not count as time served][71]
+[51][71][][71][Time on bail pending appeal does not count as time served][71]
 
 [Other provisions relating to bail][72]
 
-[52][73] [Procedure for bail generally][73]
+[52][73][][73][Procedure for bail generally][73]
 
-[53][74] [Issue of warrant to arrest person absconding or breaching bail condition][74]
+[53][74][][74][Issue of warrant to arrest person absconding or breaching bail condition][74]
 
-[54][75] [Person arrested under warrant for absconding or breaching bail condition must be brought before Judge][75]
+[54][75][][75][Person arrested under warrant for absconding or breaching bail condition must be brought before Judge][75]
 
-[Subpart 4][76]---[Findings of Court Martial][76]
+[Subpart 4][76][---][76][Findings of Court Martial][76]
 
 [Finding on charge][77]
 
-[55][78] [Finding of Court Martial][78]
+[55][78][][78][Finding of Court Martial][78]
 
-[56][79] [Power to convict of offence other than that charged][79]
+[56][79][][79][Power to convict of offence other than that charged][79]
 
-[57][80] [Accused may be convicted of attempting to commit offence][80]
+[57][80][][80][Accused may be convicted of attempting to commit offence][80]
 
-[58][81] [Accused may be convicted of corresponding offence][81]
+[58][81][][81][Accused may be convicted of corresponding offence][81]
 
-[59][82] [Accused may be convicted of offence even though facts proved in evidence differ from those alleged in particulars of charge][82]
+[59][82][][82][Accused may be convicted of offence even though facts proved in evidence differ from those alleged in particulars of charge][82]
 
-[60][83] [Recording of finding on alternative charges][83]
+[60][83][][83][Recording of finding on alternative charges][83]
 
 [Sentence of Court Martial][84]
 
-[61][85] [Sentence of Court Martial][85]
+[61][85][][85][Sentence of Court Martial][85]
 
-[62][86] [Order to come up for sentence if called on][86]
+[62][86][][86][Order to come up for sentence if called on][86]
 
-[63][87] [Offender to come up for sentence][87]
+[63][87][][87][Offender to come up for sentence][87]
 
-[64][88] [Other offences may be taken into account in passing sentence][88]
+[64][88][][88][Other offences may be taken into account in passing sentence][88]
 
-[65][89] [Court Martial must adhere to sentencing guidelines][89]
+[65][89][][89][Court Martial must adhere to sentencing guidelines][89]
 
 [Announcement of finding and sentence][90]
 
-[66][91] [Announcement of finding and sentence][91]
+[66][91][][91][Announcement of finding and sentence][91]
 
 [Part 3][92]  
 [Miscellaneous and administrative provisions][92]
 
-[Subpart 1][93]---[Miscellaneous provisions][93]
+[Subpart 1][93][---][93][Miscellaneous provisions][93]
 
 [Miscellaneous][94]
 
-[67][95] [Court must take judicial notice of certain matters][95]
+[67][95][][95][Court must take judicial notice of certain matters][95]
 
-[68][96] [Defence of accused][96]
+[68][96][][96][Defence of accused][96]
 
-[69][97] [Proceedings not invalid for want of form, etc][97]
+[69][97][][97][Proceedings not invalid for want of form, etc][97]
 
-[70][98] [Application of provisions of Evidence Act 2006 relating to jury trials to proceedings under this Act or 1971 Act][98]
+[70][98][][98][Application of provisions of Evidence Act 2006 relating to jury trials to proceedings under this Act or 1971 Act][98]
 
-[71][99] [Evidence in proceedings under this Act or 1971 Act][99]
+[71][99][][99][Evidence in proceedings under this Act or 1971 Act][99]
 
-[72][100] [Limits on application of section 71: evidence of general matters][100]
+[72][100][][100][Limits on application of section 71: evidence of general matters][100]
 
-[73][101] [Limits on application of section 71: evidence of custody at police station][101]
+[73][101][][101][Limits on application of section 71: evidence of custody at police station][101]
 
-[74][102] [Limits on application of section 71: evidence of surrender, arrest, or delivery to service custody in relation to charge of desertion or absence without leave][102]
+[74][102][][102][Limits on application of section 71: evidence of surrender, arrest, or delivery to service custody in relation to charge of desertion or absence without leave][102]
 
-[75][103] [Records of Court Martial proceedings][103]
+[75][103][][103][Records of Court Martial proceedings][103]
 
-[76][104] [Evidence of proceedings of Court Martial][104]
+[76][104][][104][Evidence of proceedings of Court Martial][104]
 
-[Subpart 2][105]---[Administrative provisions][105]
+[Subpart 2][105][---][105][Administrative provisions][105]
 
 [Seal][106]
 
-[77][107] [Seal of Court Martial][107]
+[77][107][][107][Seal of Court Martial][107]
 
 [Delegation by Chief Judge][108]
 
-[78][109] [Chief Judge may delegate functions, duties, or powers to Deputy Chief Judge or Registrar][109]
+[78][109][][109][Chief Judge may delegate functions, duties, or powers to Deputy Chief Judge or Registrar][109]
 
 [Appointment of Registrar, clerks, and other officers of Court Martial][110]
 
-[79][111] [Appointment of Registrar, clerks, and other officers of Court Martial][111]
+[79][111][][111][Appointment of Registrar, clerks, and other officers of Court Martial][111]
 
-[80][112] [Registrar to be Inspector of Service Penal Establishments][112]
+[80][112][][112][Registrar to be Inspector of Service Penal Establishments][112]
 
 [Attendance of clerk, etc, at sittings of Court Martial][113]
 
-[81][114] [Attendance of clerk, etc, at sitting of Court Martial][114]
+[81][114][][114][Attendance of clerk, etc, at sitting of Court Martial][114]
 
 [Delegation by Registrar][115]
 
-[82][116] [Registrar may delegate functions, duties, or powers to clerk or other officer of Court Martial][116]
+[82][116][][116][Registrar may delegate functions, duties, or powers to clerk or other officer of Court Martial][116]
 
-[Subpart 3][117]---[Transitional provisions, repeal, and consequential amendments][117]
+[Subpart 3][117][---][117][Transitional provisions, repeal, and consequential amendments][117]
 
 [Transitional provisions][118]
 
-[83][119] [Transitional provision relating to Chief Judge][119]
+[83][119][][119][Transitional provision relating to Chief Judge][119]
 
-[84][120] [What happens if court-martial has not yet been convened on commencement of this Act][120]
+[84][120][][120][What happens if court-martial has not yet been convened on commencement of this Act][120]
 
-[85][121] [What happens if court-martial has been convened on commencement of this Act][121]
+[85][121][][121][What happens if court-martial has been convened on commencement of this Act][121]
 
 [Repeal][122]
 
-[86][123] [Part 6 of 1971 Act repealed][123]
+[86][123][][123][Part 6 of 1971 Act repealed][123]
 
 [Consequential amendments][124]
 
-[87][125] [Consequential amendments to other enactments][125]
+[87][125][][125][Consequential amendments to other enactments][125]
 
 [Schedule 1][126]  
 [Alternative offences under 1971 Act of which accused may be convicted by Court Martial][126]
@@ -1128,7 +1128,7 @@ Jurisdiction, procedures, and powers
     
     *   (l) the fitness of the accused to stand trial.
     
-    Section 44(4)(j): amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was committed before that date in accordance with the provisions of sections 397 and 399--401 of the Criminal Procedure Act 2011), by [section 393][144] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 44(4)(j): amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was commenced before that date), by [section 393][144] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 45 Power to summon witnesses
     
