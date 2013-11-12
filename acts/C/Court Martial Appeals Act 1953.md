@@ -25,105 +25,105 @@ This Act is administered by the New Zealand Defence Force.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
 [The Court Martial Appeal Court][4]
 
-[3][5] [Constitution of Court Martial Appeal Court][5]
+[3][5][][5][Constitution of Court Martial Appeal Court][5]
 
-[4][6] [Supplementary provisions as to court][6]
+[4][6][][6][Supplementary provisions as to court][6]
 
-[5][7] [Registrar and officers of court][7]
+[5][7][][7][Registrar and officers of court][7]
 
 [Appeals to the court][8]
 
-[6][9] [Appeal against decision of Court Martial relating to bail][9]
+[6][9][][9][Appeal against decision of Court Martial relating to bail][9]
 
-[7][10] [Appeal against ruling][10]
+[7][10][][10][Appeal against ruling][10]
 
-[8][11] [Procedure for obtaining leave of court to appeal against ruling][11]
+[8][11][][11][Procedure for obtaining leave of court to appeal against ruling][11]
 
-[9][12] [Right of appeal against conviction or sentence][12]
+[9][12][][12][Right of appeal against conviction or sentence][12]
 
-[9A][13] [Determination of appeals against conviction][13]
+[9A][13][][13][Determination of appeals against conviction][13]
 
-[9AB][14] [Determination of appeals against sentence][14]
+[9AB][14][][14][Determination of appeals against sentence][14]
 
-[9AC][15] [Substitution of conviction on different charge][15]
+[9AC][15][][15][Substitution of conviction on different charge][15]
 
-[9B][16] [Variation of conviction so as to attract different sentence][16]
+[9B][16][][16][Variation of conviction so as to attract different sentence][16]
 
-[9C][17] [Court may vary sentence in certain cases][17] \[Repealed\]
+[9C][17][][17][Court may vary sentence in certain cases][17] \[Repealed\]
 
-[9D][18] [Term of sentence passed under sections 9AB, 9AC, and 9B][18]
+[9D][18][][18][Term of sentence passed under sections 9AB, 9AC, and 9B][18]
 
-[9E][19] [Appeal against acquittal on account of insanity][19]
+[9E][19][][19][Appeal against acquittal on account of insanity][19]
 
-[9EA][20] [Appeal by accused against finding relating to fitness to stand trial][20]
+[9EA][20][][20][Appeal by accused against finding relating to fitness to stand trial][20]
 
-[9F][21] [Powers of court to acquit on account of insanity on appeal against conviction][21]
+[9F][21][][21][Powers of court to acquit on account of insanity on appeal against conviction][21]
 
-[10][22] [Appeals to Court of Appeal or Supreme Court][22]
+[10][22][][22][Appeals to Court of Appeal or Supreme Court][22]
 
-[10A][23] [Appeals to Supreme Court from Court of Appeal][23]
+[10A][23][][23][Appeals to Supreme Court from Court of Appeal][23]
 
-[10B][24] [Effect of appeal][24]
+[10B][24][][24][Effect of appeal][24]
 
-[10C][25] [Powers and procedure of Court of Appeal and Supreme Court][25]
+[10C][25][][25][Powers and procedure of Court of Appeal and Supreme Court][25]
 
-[11][26] [Supplementary powers of the court][26]
+[11][26][][26][Supplementary powers of the court][26]
 
-[12][27] [Right of appellant to present case in writing][27]
+[12][27][][27][Right of appellant to present case in writing][27]
 
-[13][28] [Legal aid to appellants][28] \[Repealed\]
+[13][28][][28][Legal aid to appellants][28] \[Repealed\]
 
-[14][29] [Right of appellant to be present][29]
+[14][29][][29][Right of appellant to be present][29]
 
-[15][30] [Defence of appeals][30]
+[15][30][][30][Defence of appeals][30]
 
-[16][31] [Costs of appeal][31]
+[16][31][][31][Costs of appeal][31]
 
-[17][32] [Proceedings to be in open court, unless it is necessary to clear the court][32]
+[17][32][][32][Proceedings to be in open court, unless it is necessary to clear the court][32]
 
 [Supplementary provisions as to appeals][33]
 
-[18][34] [Suspension of death sentence][34] \[Repealed\]
+[18][34][][34][Suspension of death sentence][34] \[Repealed\]
 
-[19][35] [Court may make an order for the payment of compensation or restitution of property][35]
+[19][35][][35][Court may make an order for the payment of compensation or restitution of property][35]
 
-[19A][36] [Suspension of compensation and restitution orders, etc][36]
+[19A][36][][36][Suspension of compensation and restitution orders, etc][36]
 
-[20][37] [Person not to be tried again if conviction quashed][37]
+[20][37][][37][Person not to be tried again if conviction quashed][37]
 
-[20A][38] [Judge may grant bail pending appeal][38]
+[20A][38][][38][Judge may grant bail pending appeal][38]
 
-[20B][39] [Issue of warrant to arrest appellant absconding or breaching bail condition][39]
+[20B][39][][39][Issue of warrant to arrest appellant absconding or breaching bail condition][39]
 
-[20C][40] [Appellant arrested under warrant for absconding or breaching bail condition must be brought before Judge][40]
+[20C][40][][40][Appellant arrested under warrant for absconding or breaching bail condition must be brought before Judge][40]
 
-[21][41] [Removal of prisoners for purposes of proceedings under this Act][41]
+[21][41][][41][Removal of prisoners for purposes of proceedings under this Act][41]
 
-[22][42] [Furnishing, on appeal, documents relating to trial][42]
+[22][42][][42][Furnishing, on appeal, documents relating to trial][42]
 
-[23][43] [Duties of Registrar with respect to appeals, etc][43]
+[23][43][][43][Duties of Registrar with respect to appeals, etc][43]
 
 [Special references to the court][44]
 
-[24][45] [Special references to court][45]
+[24][45][][45][Special references to court][45]
 
-[24A][46] [Person concerned must be informed of reference and may comment][46]
+[24A][46][][46][Person concerned must be informed of reference and may comment][46]
 
 [Miscellaneous][47]
 
-[25][48] [Exercise of certain court powers by 1 Judge][48]
+[25][48][][48][Exercise of certain court powers by 1 Judge][48]
 
-[26][49] [Rules of court][49]
+[26][49][][49][Rules of court][49]
 
-[26A][50] [Regulations][50]
+[26A][50][][50][Regulations][50]
 
-[27][51] [Saving for prerogative of mercy][51]
+[27][51][][51][Saving for prerogative of mercy][51]
 
 ---
 
@@ -417,7 +417,7 @@ An Act to establish a Court Martial Appeal Court and to provide for appeals ther
     
     Section 7: substituted, on 1 July 2009, by [section 10][73] of the Court Martial Appeals Amendment Act 2007 (2007 No 99).
     
-    Section 7(5)(j): amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was committed before that date in accordance with the provisions of sections 397 and 399--401 of the Criminal Procedure Act 2011), by [section 393][79] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 7(5)(j): amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was commenced before that date), by [section 393][79] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 8 Procedure for obtaining leave of court to appeal against ruling
     
