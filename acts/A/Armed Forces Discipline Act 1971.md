@@ -5716,9 +5716,9 @@ Other provisions relating to proceedings generally
     
     Section 145: substituted, on 1 July 2009, by [section 40][503] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 145 heading: amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was committed before that date in accordance with the provisions of sections 397 and 399--401 of the Criminal Procedure Act 2011), by [section 393][504] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 145 heading: amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was commenced before that date), by [section 393][504] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 145: amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was committed before that date in accordance with the provisions of sections 397 and 399--401 of the Criminal Procedure Act 2011), by [section 393][504] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 145: amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was commenced before that date), by [section 393][504] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 146 Witnesses may be compelled to attend courts-martial, etc
     
