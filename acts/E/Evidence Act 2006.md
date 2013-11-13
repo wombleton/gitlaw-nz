@@ -3079,7 +3079,7 @@ Trial process
     
     Section 116(3)(a): amended, on 1 July 2013, by [section 5][315] of the Evidence Amendment Act 2011 (2011 No 89).
     
-    Section 116(3)(b): amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was committed before that date in accordance with the provisions of sections 397 and 399--401 of the Criminal Procedure Act 2011), by [section 393][341] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 116(3)(b): amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was commenced before that date), by [section 393][341] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 117 Variation or discharge of witness anonymity order during trial
     
