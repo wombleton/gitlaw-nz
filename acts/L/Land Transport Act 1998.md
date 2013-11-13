@@ -5799,7 +5799,7 @@ Driving offences involving drink or drugs, and penalties and procedures
     
 *   \[Repealed\]
     
-    Section 66: repealed, on 5 March 2012 (applying in relation to a proceeding for an offence that was committed before that date in accordance with the provisions of sections 397 and 399--401 of the Criminal Procedure Act 2011), by [section 393][775] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 66: repealed, on 5 March 2012 (applying in relation to a proceeding for an offence that was commenced before that date), by [section 393][775] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Blood test fee
 
