@@ -3469,7 +3469,7 @@ Extended supervision orders
     
     Section 107G(8): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 107G(10): amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was committed before that date in accordance with the provisions of sections 397 and 399--401 of the Criminal Procedure Act 2011), by [section 393][469] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 107G(10): amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was commenced before that date), by [section 393][469] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 107GA Application of section 107G during epidemic
     
