@@ -5661,7 +5661,7 @@ Sentences, orders, and related matters
     
     Compare: 1985 No 120 [s 28A(1)--(3), (6)][658]
     
-    Section 112(6): amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was committed before that date in accordance with the provisions of sections 397 and 399--401 of the Criminal Procedure Act 2011), by [section 393][659] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 112(6): amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was commenced before that date), by [section 393][659] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 113 Effect of non-association order
     
