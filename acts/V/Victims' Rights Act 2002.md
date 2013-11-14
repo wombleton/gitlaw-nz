@@ -728,7 +728,7 @@ Provisions relating to treatment and rights of victims generally
     
     *   (b) must inform the court of any views ascertained under paragraph (a).
     
-    Section 28(1): amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was committed before that date in accordance with the provisions of sections 397 and 399--401 of the Criminal Procedure Act 2011), by [section 393][112] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 28(1): amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was commenced before that date), by [section 393][112] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 3  
 Provisions relating to rights of victims of certain offences
