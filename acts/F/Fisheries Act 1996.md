@@ -12514,7 +12514,7 @@ Cost recovery
     
     *   (b) have regard to the extent to which conservation services or fisheries services are wholly or partly purchased or provided by persons other than the Crown.
     
-    (5) Without limiting the , no order made under this section is invalid because it leaves any matter to the discretion of any person.
+    (5) Without limiting the Interpretation Act 1999, no order made under this section is invalid because it leaves any matter to the discretion of any person.
     
     Section 263: substituted, on 1 February 2001, by [section 63][1295] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
