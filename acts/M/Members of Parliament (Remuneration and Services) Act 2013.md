@@ -1175,7 +1175,7 @@ Entitlements of former members and others and miscellaneous matters
 
 ##### 48 Interpretation
     
-*   Section 3 is amended by inserting the following definitions in their appropriate alphabetical order:
+*   [Section 3][99] is amended by inserting the following definitions in their appropriate alphabetical order:
     
     > "_qualifying electoral candidate_ has the same meaning as in section 5 of the Members of Parliament (Remuneration and Services) Act 2013
     > 
@@ -1185,7 +1185,7 @@ Entitlements of former members and others and miscellaneous matters
 
 ##### 49 Meaning of funding entitlements for parliamentary purposes
     
-*   (1) Section 3B(1) is amended by repealing paragraphs (c) to (f) and substituting the following paragraphs:
+*   (1) [Section 3B(1)][133] is amended by repealing paragraphs (c) to (f) and substituting the following paragraphs:
     
     > *   "(c) the provision of accommodation services for members of Parliament and qualifying electoral candidates and travel services for family members of those persons in accordance with a determination made by the Remuneration Authority under section 17(1) of the Members of Parliament (Remuneration and Services) Act 2013:
     > 
@@ -1199,7 +1199,7 @@ Entitlements of former members and others and miscellaneous matters
     > 
     > 
     
-    (2) Section 3B(2)(d) is amended by---
+    (2) [Section 3B(2)(d)][133] is amended by---
         
     *   (a) omitting ""section 20A of the Civil List Act 1979"" and substituting ""section 34 of the Members of Parliament (Remuneration and Services) Act 2013""; and
     
@@ -1209,7 +1209,7 @@ Entitlements of former members and others and miscellaneous matters
 
 ##### 50 New section 3E substituted
     
-*   Section 3E is repealed and the following section substituted:
+*   [Section 3E][119] is repealed and the following section substituted:
     
     > ##### "3E Interpretation of determinations and directions under Members of Parliament (Remuneration and Services) Act 2013
     >     
@@ -1221,7 +1221,7 @@ Entitlements of former members and others and miscellaneous matters
 
 ##### 51 Purposes of this Act
     
-*   Section 4 is amended by repealing paragraph (d) and substituting the following paragraph:
+*   [Section 4][134] is amended by repealing paragraph (d) and substituting the following paragraph:
     
     > *   "(d) to provide for regular and independent reviews of the amounts appropriated in Appropriation Acts for services and funding to support the parliamentary operations of members of Parliament, parties, and qualifying electoral candidates:".
     > 
@@ -1231,7 +1231,7 @@ Entitlements of former members and others and miscellaneous matters
 
 ##### 52 Principal duties of Parliamentary Service
     
-*   Section 7 is amended by repealing paragraph (b) and substituting the following paragraphs: 
+*   [Section 7][135] is amended by repealing paragraph (b) and substituting the following paragraphs: 
     
     > *   "(b) to administer the payment of funding entitlements for parliamentary purposes, except those funding entitlements for parliamentary purposes that the Speaker and the Minister who is, with the authority of the Prime Minister, for the time being responsible for Ministerial Services agree should not be administered by the Parliamentary Service; and
     > 
@@ -1245,7 +1245,7 @@ Entitlements of former members and others and miscellaneous matters
 
 ##### 53 New section 8 substituted
     
-*   Section 8 is repealed and the following section substituted:
+*   [Section 8][136] is repealed and the following section substituted:
     
     > ##### "8 Services and administration of funding in accordance with Members of Parliament (Remuneration and Services) Act 2013, determinations and directions, etc
     >     
@@ -1267,11 +1267,11 @@ Entitlements of former members and others and miscellaneous matters
 
 ##### 54 Sections 9A to 9D repealed
     
-*   Sections 9A to 9D are repealed.
+*   [Sections 9A to 9D][137] are repealed.
 
 ##### 55 Principal responsibilities of General Manager
     
-*   Section 11 is amended by adding the following subsections as subsections (2) and (3):
+*   [Section 11][138] is amended by adding the following subsections as subsections (2) and (3):
     
     > *   "(2) In addition to the responsibilities in subsection (1), the General Manager must---
     >         
@@ -1289,7 +1289,7 @@ Entitlements of former members and others and miscellaneous matters
 
 ##### 56 Functions of Parliamentary Service Commission
     
-*   (1) Section 14 is amended by repealing subsection (1) and substituting the following subsection:
+*   (1) [Section 14][120] is amended by repealing subsection (1) and substituting the following subsection:
     
     > *   "(1) The Parliamentary Service Commission has the following functions:
     >         
@@ -1303,7 +1303,7 @@ Entitlements of former members and others and miscellaneous matters
     > 
     > 
     
-    (2) Section 14(4) is amended by adding ""; or"" and also by adding the following paragraph:
+    (2) [Section 14(4)][120] is amended by adding ""; or"" and also by adding the following paragraph:
     
     > *   "(c) any matter for which the Clerk of the House of Representatives has responsibility."
     > 
@@ -1313,9 +1313,9 @@ Entitlements of former members and others and miscellaneous matters
 
 ##### 57 Establishment of committee to review appropriations
     
-*   (1) The heading to section 20 is amended by inserting ""**annual**"" after ""**review**"".
+*   (1) The heading to [section 20][139] is amended by inserting ""**annual**"" after ""**review**"".
     
-    (2) Section 20 is amended by repealing subsection (1) and substituting the following subsection:
+    (2) [Section 20][139] is amended by repealing subsection (1) and substituting the following subsection:
     
     > *   "(1) The Speaker may from time to time, and must at least once during every term of Parliament, establish a review committee of up to 3 persons to review the amounts of money appropriated in Appropriation Acts for the following purposes:
     >         
@@ -1333,7 +1333,7 @@ Entitlements of former members and others and miscellaneous matters
 
 ##### 58 Work of review committee
     
-*   Section 21 is amended by repealing subsection (1) and substituting the following subsection:
+*   [Section 21][140] is amended by repealing subsection (1) and substituting the following subsection:
     
     > *   "(1) In carrying out its work, the review committee must consider---
     >         
@@ -1353,13 +1353,13 @@ Entitlements of former members and others and miscellaneous matters
 
 ##### 59 Remuneration Authority Act 1977 amended
     
-*   Sections 60 to 63 amend the Remuneration Authority Act 1977\. 
+*   [Sections 60 to 63][78] amend the [Remuneration Authority Act 1977][141]. 
 
 ##### 60 Functions of Authority
     
-*   (1) Section 12(1)(a)(i) is amended by omitting ""Civil List Act 1979"" and substituting ""Members of Parliament (Remuneration and Services) Act 2013"".
+*   (1) [Section 12(1)(a)(i)][108] is amended by omitting ""Civil List Act 1979"" and substituting ""Members of Parliament (Remuneration and Services) Act 2013"".
     
-    (2) Section 12 is amended by inserting the following subsection after subsection (2A):
+    (2) [Section 12][108] is amended by inserting the following subsection after subsection (2A):
     
     > *   "(2AB) For the avoidance of doubt, the superannuation subsidy may only be paid in accordance with subsection (2A)(a) if a member makes a contribution in the actual year to which the subsidy relates, and a member may not, in any year, make a lump sum payment of contributions in respect of past years and claim an entitlement to a subsidy in respect of the contributions paid in that year that relates to past years."
     > 
@@ -1369,9 +1369,9 @@ Entitlements of former members and others and miscellaneous matters
 
 ##### 61 Publication of determinations fixing Parliamentary salary and allowances
     
-*   (1) Section 16(1)(a)(iii) is amended by omitting ""; and"" and substituting "":"".
+*   (1) [Section 16(1)(a)(iii)][109] is amended by omitting ""; and"" and substituting "":"".
     
-    (2) Section 16(1)(a) is amended by adding the following subparagraph:
+    (2) [Section 16(1)(a)][109] is amended by adding the following subparagraph:
     
     > *   "(iv) the General Manager of the Parliamentary Service; and".
     > 
@@ -1381,7 +1381,7 @@ Entitlements of former members and others and miscellaneous matters
 
 ##### 62 Obligation to consult before making determinations about Parliamentary salaries and allowances
     
-*   Section 17A is amended by repealing paragraphs (a) and (b) and substituting the following paragraphs:
+*   [Section 17A][110] is amended by repealing paragraphs (a) and (b) and substituting the following paragraphs:
     
     > *   "(a) consult the Speaker of the House of Representatives and the Minister who is, with the authority of the Prime Minister, for the time being responsible for Ministerial Services about the services for which they have jurisdiction, including, for the purposes of section 16(2) of the Members of Parliament (Remuneration and Services) Act 2013, about---
     >         
@@ -1405,31 +1405,31 @@ Entitlements of former members and others and miscellaneous matters
 
 ##### 63 Remuneration of existing holder not to be reduced
     
-*   Section 24(2) is amended by adding ""or section 16 or 17 of the Members of Parliament (Remuneration and Services) Act 2013\.""
+*   [Section 24(2)][142] is amended by adding ""or section 16 or 17 of the Members of Parliament (Remuneration and Services) Act 2013\.""
 
 ### Subpart 4---Repeal, revocations, consequential amendments, and review
 
 ##### 64 Civil List Act 1979 repealed
     
-*   The Civil List Act 1979 (1979 No 33) is repealed.
+*   The [Civil List Act 1979][97] (1979 No 33) is repealed.
 
 ##### 65 Determinations and order revoked
     
 *   (1) The following determinations are revoked:
         
-    *   (a) Parliamentary (Official Inter-Parliamentary Travel Programme) Travel and Accommodation Determination 2007 (SR 2007/117):
+    *   (a) [Parliamentary (Official Inter-Parliamentary Travel Programme) Travel and Accommodation Determination 2007][143] (SR 2007/117):
     
-    *   (b) Parliamentary Travel, Accommodation, Attendance, and Communications Services Determination 2012 (SR 2012/155):
+    *   (b) [Parliamentary Travel, Accommodation, Attendance, and Communications Services Determination 2012][144] (SR 2012/155):
     
-    *   (c) Executive Travel, Accommodation, Attendance, and Communications Services Determination (No 2) 2009 (SR 2009/323):
+    *   (c) [Executive Travel, Accommodation, Attendance, and Communications Services Determination (No 2) 2009][145] (SR 2009/323):
     
-    *   (d) Executive Travel, Accommodation, Attendance, and Communications Services Determination (No 2) 2009 Amendment Determination 2010 (SR 2010/187).
+    *   (d) [Executive Travel, Accommodation, Attendance, and Communications Services Determination (No 2) 2009 Amendment Determination 2010][146] (SR 2010/187).
     
-    (2) The Civil List (Pay Periods) Order 1982 (SR 1982/240) is revoked.
+    (2) The [Civil List (Pay Periods) Order 1982][147] (SR 1982/240) is revoked.
 
 ##### 66 Consequential amendments to other enactments
     
-*   The Acts specified in Schedule 3 are amended in the manner set out in that schedule.
+*   The Acts specified in [Schedule 3][96] are amended in the manner set out in that schedule.
 
 ##### 67 Review of Act
     
@@ -1439,7 +1439,7 @@ Entitlements of former members and others and miscellaneous matters
             
         *   (i) services for members of Parliament, Ministers, qualifying electoral candidates, and family members of those persons; and
         
-        *   (ii) in relation to the determination of salaries and allowances of members of Parliament, the operation of section 16(2) and Part 3; and
+        *   (ii) in relation to the determination of salaries and allowances of members of Parliament, the operation of [section 16(2)][18] and [Part 3][17]; and
         
         
     
@@ -1449,7 +1449,7 @@ Entitlements of former members and others and miscellaneous matters
     
     (3) The review must be completed--- 
         
-    *   (a) as soon as practicable after the Remuneration Authority, the Speaker, and the Minister Responsible for Ministerial Services complete the determination and directions in accordance with section 32(1) and (5) for the second complete term of Parliament after this section comes into force; and
+    *   (a) as soon as practicable after the Remuneration Authority, the Speaker, and the Minister Responsible for Ministerial Services complete the determination and directions in accordance with [section 32(1) and (5)][38] for the second complete term of Parliament after this section comes into force; and
     
     *   (b) not later than the end of the second complete term of Parliament after this section comes into force.
     
@@ -1459,23 +1459,23 @@ Entitlements of former members and others and miscellaneous matters
 
 ##### 68 Validation of salary payments to list members declared elected under section 137 of Electoral Act 1993 
     
-*   (1) This section applies to every payment that, before the commencement of this Act, has been made to a person declared to be elected as a member of Parliament in accordance with section 137 of the Electoral Act 1993 by way of salary or allowance for the period or any part of the period beginning on the day that the person was declared to be elected as a member of Parliament and ending on polling day for the next general election of members of Parliament (or, if applicable, on the earlier day on which the member's seat became vacant).
+*   (1) This section applies to every payment that, before the commencement of this Act, has been made to a person declared to be elected as a member of Parliament in accordance with [section 137][148] of the Electoral Act 1993 by way of salary or allowance for the period or any part of the period beginning on the day that the person was declared to be elected as a member of Parliament and ending on polling day for the next general election of members of Parliament (or, if applicable, on the earlier day on which the member's seat became vacant).
     
-    (2) Every payment to which this section applies must be taken to be, and to always have been, as lawful as if section 10(3) of this Act were in force, and applied in respect of the payment, when it was made.
+    (2) Every payment to which this section applies must be taken to be, and to always have been, as lawful as if [section 10(3)][11] of this Act were in force, and applied in respect of the payment, when it was made.
 
 ##### 69 Validations and savings concerning salaries and allowances of members of Parliament and annuities and travel services for former Prime Ministers
     
 *   (1) Nothing in this Act affects the validity of---
         
-    *   (a) a determination made by the Remuneration Authority under section 16 or 22 of the Civil List Act 1979; or
+    *   (a) a determination made by the Remuneration Authority under [section 16][107] or [22][127] of the Civil List Act 1979; or
     
     *   (b) an agreement made before the commencement of this Act for a former Prime Minister and his or her spouse or partner or surviving spouse or partner to be provided with specified travel services.
     
     (2) Despite anything in this Act,---
         
-    *   (a) every salary and allowance in respect of which a determination by the Remuneration Authority has been made under section 16 of the Civil List Act 1979 must continue to be paid at the rate applicable at the commencement of this Act until the determination relating to that salary or allowance has been superseded by a determination of the Remuneration Authority under section 8 of this Act; and
+    *   (a) every salary and allowance in respect of which a determination by the Remuneration Authority has been made under [section 16][107] of the Civil List Act 1979 must continue to be paid at the rate applicable at the commencement of this Act until the determination relating to that salary or allowance has been superseded by a determination of the Remuneration Authority under [section 8][9] of this Act; and
     
-    *   (b) every annuity in respect of which a determination by the Remuneration Authority has been made under section 22 of the Civil List Act 1979 must continue to be paid at the rate applicable at the commencement of this Act until the determination relating to that annuity has been superseded by a determination of the Remuneration Authority under section 43 of this Act.
+    *   (b) every annuity in respect of which a determination by the Remuneration Authority has been made under [section 22][127] of the Civil List Act 1979 must continue to be paid at the rate applicable at the commencement of this Act until the determination relating to that annuity has been superseded by a determination of the Remuneration Authority under [section 43][55] of this Act.
     
     
 
@@ -1483,29 +1483,29 @@ Entitlements of former members and others and miscellaneous matters
     
 *   (1) Subsections (2) to (5) apply for the transitional period starting on the day on which this Act comes into force and ending on the date of the next general election (the _transitional period_).
     
-    (2) The entitlements of members of Parliament, Ministers, and qualifying electoral candidates to accommodation services, and the entitlements of family members of those persons to travel services set out in the following documents are deemed to have been determined by the Remuneration Authority, in accordance with section 17, to be the entitlements of those persons:
+    (2) The entitlements of members of Parliament, Ministers, and qualifying electoral candidates to accommodation services, and the entitlements of family members of those persons to travel services set out in the following documents are deemed to have been determined by the Remuneration Authority, in accordance with [section 17][20], to be the entitlements of those persons:
         
     *   (a) the document entitled ""Directions by the Speaker of the House of Representatives 2011"" (the _2011 directions document_) incorporated by reference in the Parliamentary Travel, Accommodation, Attendance, and Communications Services Determination 2012:
     
     *   (b) the document entitled ""Travel, Accommodation, and Communications Services Available to Members of the Executive"" (the _Executive Services document_) incorporated by reference in the Executive Travel, Accommodation, Attendance, and Communications Services Determination (No 2) 2009\.
     
-    (3) The directions of the Speaker set out in the 2011 directions document relating to travel services, administrative and support services, communications services, and funding referred to in section 23 are deemed to be directions of the Speaker issued in accordance with that section.
+    (3) The directions of the Speaker set out in the 2011 directions document relating to travel services, administrative and support services, communications services, and funding referred to in [section 23][27] are deemed to be directions of the Speaker issued in accordance with that section.
     
-    (4) The entitlements of members of Parliament participating in the official inter-parliamentary relations programme set out in the document entitled ""Specification for Travel, Accommodation, and Related Services Available to Members of Parliament Participating in the Official Inter-Parliamentary Travel Programme"" incorporated by reference in the Parliamentary (Official Inter-Parliamentary Travel Programme) Travel and Accommodation Determination 2007 are deemed to have been determined by the Speaker, in accordance with section 34, to be the entitlements of those persons.
+    (4) The entitlements of members of Parliament participating in the official inter-parliamentary relations programme set out in the document entitled ""Specification for Travel, Accommodation, and Related Services Available to Members of Parliament Participating in the Official Inter-Parliamentary Travel Programme"" incorporated by reference in the Parliamentary (Official Inter-Parliamentary Travel Programme) Travel and Accommodation Determination 2007 are deemed to have been determined by the Speaker, in accordance with [section 34][41], to be the entitlements of those persons.
     
-    (5) The entitlements of members of the Executive to travel services set out in the Executive Services document are deemed to have been determined by the Minister Responsible for Ministerial Services in accordance with section 27\.
+    (5) The entitlements of members of the Executive to travel services set out in the Executive Services document are deemed to have been determined by the Minister Responsible for Ministerial Services in accordance with [section 27][32].
     
-    (6) Despite section 32,---
+    (6) Despite [section 32][38],---
         
-    *   (a) the Remuneration Authority must, before 1 September 2014 or the end of the transitional period, whichever is the earlier, make a determination under section 17 that comes into force at the end of the transitional period; and
+    *   (a) the Remuneration Authority must, before 1 September 2014 or the end of the transitional period, whichever is the earlier, make a determination under [section 17][20] that comes into force at the end of the transitional period; and
     
     *   (b) the Authority may make a determination amending any entitlement referred to in subsection (2) at any time before it makes a determination in accordance with paragraph (a); and
     
-    *   (c) the Speaker must, before 1 September 2014 or before the end of the transitional period, whichever is the earlier, issue directions under section 23 and make a determination under section 34 that come into force at the end of the transitional period; and
+    *   (c) the Speaker must, before 1 September 2014 or before the end of the transitional period, whichever is the earlier, issue directions under [section 23][27] and make a determination under [section 34][41] that come into force at the end of the transitional period; and
     
     *   (d) the Speaker may issue directions amending any directions referred to in subsection (3), or make a determination amending any entitlement referred to in subsection (4), at any time before the Speaker issues directions or, as the case may be, makes a determination in accordance with paragraph (c); and
     
-    *   (e) the Minister Responsible for Ministerial Services must, before 1 September 2014 or before the end of the transitional period, whichever is the earlier, make a determination under section 27 that comes into force at the end of the transitional period; and
+    *   (e) the Minister Responsible for Ministerial Services must, before 1 September 2014 or before the end of the transitional period, whichever is the earlier, make a determination under [section 27][32] that comes into force at the end of the transitional period; and
     
     *   (f) the Minister Responsible for Ministerial Services may make a determination amending any entitlement referred to in subsection (5) at any time before the Minister makes a determination in accordance with paragraph (e).
     
@@ -1513,11 +1513,11 @@ Entitlements of former members and others and miscellaneous matters
 
 ##### 71 Transitional provision concerning section 22
     
-*   During the transitional period referred to in section 70(1), section 22 does not apply, regardless of whether the Remuneration Authority makes a determination under section 70(6)(b).
+*   During the transitional period referred to in [section 70(1)][90], [section 22][25] does not apply, regardless of whether the Remuneration Authority makes a determination under [section 70(6)(b)][90].
 
 ##### 72 Transitional provision concerning ongoing travel entitlements of former members
     
-*   Despite the repeal by this Act of the Civil List Act 1979 and the revocation of the Parliamentary Travel, Accommodation, Attendance, and Communications Services Determination 2012, during the period beginning on 16 December 2013 and ending on the close of 30 June 2014,---
+*   Despite the repeal by this Act of the [Civil List Act 1979][97] and the revocation of the [Parliamentary Travel, Accommodation, Attendance, and Communications Services Determination 2012][144], during the period beginning on 16 December 2013 and ending on the close of 30 June 2014,---
         
     *   (a) subpart 3 of Part 6 of the document entitled ""Directions by the Speaker of the House of Representatives 2011"" (which provides for ongoing travel entitlements of certain former members of Parliament) (the _Speaker's directions_), as in force on 15 December 2013, continues to apply; and
     
@@ -1527,9 +1527,9 @@ Entitlements of former members and others and miscellaneous matters
 
 ##### 73 Transitional provision concerning tax-treatment of ongoing travel entitlements of former members
     
-*   Despite the repeal and substitution, by this Act, of sections CW 31 and CX 12 of the Income Tax Act 2007, during the period beginning on 16 December 2013 and ending on the close of 30 June 2014,---
+*   Despite the repeal and substitution, by this Act, of [sections CW 31][149] and [CX 12][150] of the Income Tax Act 2007, during the period beginning on 16 December 2013 and ending on the close of 30 June 2014,---
         
-    *   (a) those sections, as in force on 16 December 2013, do not apply to the travel entitlements of former members paid under section 72 of this Act; and
+    *   (a) those sections, as in force on 16 December 2013, do not apply to the travel entitlements of former members paid under [section 72][92] of this Act; and
     
     *   (b) those sections, as in force on 15 December 2013, continue to apply to those entitlements.
     
@@ -1540,31 +1540,31 @@ Entitlements of former members and others and miscellaneous matters
 ## Schedule 1  
 Qualifying electoral candidates
 
-s 5
+[s 5][5]
 
 The persons in the first column, at the times specified in the second column, are qualifying electoral candidates.
 
 **Person** **Time**
 
-1 A person who vacates the office of member of Parliament under section 54(1)(b) or (2)(b) of the Electoral Act 1993 at the close of a polling day and is a candidate in the general election concerned. 
+1 A person who vacates the office of member of Parliament under [section 54(1)(b)][151] or (2)(b) of the Electoral Act 1993 at the close of a polling day and is a candidate in the general election concerned. 
 
 Between the close of the polling day and,---
     
-*   (a) if the person is a candidate for a seat in the House of Representatives representing an electoral district, the day on which a person (whether that person or some other person) is, under section 179 of the Electoral Act 1993, declared elected to represent the district; or
+*   (a) if the person is a candidate for a seat in the House of Representatives representing an electoral district, the day on which a person (whether that person or some other person) is, under [section 179][122] of the Electoral Act 1993, declared elected to represent the district; or
 
-*   (b) if the person's name is specified in a party list, the day on which, under section 193(5) of the Electoral Act 1993, the Electoral Commission declares candidates to be elected in the election.
+*   (b) if the person's name is specified in a party list, the day on which, under [section 193(5)][123] of the Electoral Act 1993, the Electoral Commission declares candidates to be elected in the election.
 
-2 A candidate at a by-election who is the former member of Parliament and whose vacation of the seat concerned caused the by-election to be required. Between the close of the polling day and the day on which a person (whether that person or some other person) is, under section 179 of the Electoral Act 1993, declared elected to represent the district concerned.
+2 A candidate at a by-election who is the former member of Parliament and whose vacation of the seat concerned caused the by-election to be required. Between the close of the polling day and the day on which a person (whether that person or some other person) is, under [section 179][122] of the Electoral Act 1993, declared elected to represent the district concerned.
 
-3 A candidate at a general election for a seat in the House of Representatives representing an electoral district who did not vacate the office of member of Parliament under section 54(1)(b) or (2)(b) of the Electoral Act 1993 at the close of the polling day for the election, if the preliminary results made available by the Electoral Commission on polling day or the day after indicate that--- Between the close of polling day and the day on which a person (whether that person or some other person) is, under section 179 of the Electoral Act 1993, declared elected to represent the district.
+3 A candidate at a general election for a seat in the House of Representatives representing an electoral district who did not vacate the office of member of Parliament under [section 54(1)(b)][151] or (2)(b) of the Electoral Act 1993 at the close of the polling day for the election, if the preliminary results made available by the Electoral Commission on polling day or the day after indicate that--- Between the close of polling day and the day on which a person (whether that person or some other person) is, under [section 179][122] of the Electoral Act 1993, declared elected to represent the district.
 
 *   (a) he or she received more votes than any other candidate for the seat; or
 
 *   (b) he or she is one of 2 or more candidates who received a number of votes that is equal, and greater than the number of votes received by any other candidate for the seat.
 
-4 A candidate at a general election whose name is specified in a party list and who did not vacate the office of member of Parliament under section 54(1)(b) or (2)(b) of the Electoral Act 1993 at the close of the polling day for the election, if the preliminary results made available by the Electoral Commission on polling day or the day after indicate that the Electoral Commission would, under section 193(5) of the Electoral Act 1993, declare him or her to be elected in the election if the results of the official count were the same as those preliminary results. Between the close of polling day and the day on which, under section 193(5) of the Electoral Act 1993, the Electoral Commission declares candidates to be elected in the election.
+4 A candidate at a general election whose name is specified in a party list and who did not vacate the office of member of Parliament under [section 54(1)(b)][151] or (2)(b) of the Electoral Act 1993 at the close of the polling day for the election, if the preliminary results made available by the Electoral Commission on polling day or the day after indicate that the Electoral Commission would, under [section 193(5)][123] of the Electoral Act 1993, declare him or her to be elected in the election if the results of the official count were the same as those preliminary results. Between the close of polling day and the day on which, under [section 193(5)][123] of the Electoral Act 1993, the Electoral Commission declares candidates to be elected in the election.
 
-5 A candidate at a by-election who is neither a member of Parliament nor the former member of Parliament whose vacation of the seat concerned caused the by-election to be required, if the preliminary results made available by the Electoral Commission on polling day or the day after indicate that--- Between the close of polling day and the day on which a person (whether that person or some other person) is, under section 179 of the Electoral Act 1993, declared elected to represent the district.
+5 A candidate at a by-election who is neither a member of Parliament nor the former member of Parliament whose vacation of the seat concerned caused the by-election to be required, if the preliminary results made available by the Electoral Commission on polling day or the day after indicate that--- Between the close of polling day and the day on which a person (whether that person or some other person) is, under [section 179][122] of the Electoral Act 1993, declared elected to represent the district.
 
 *   (a) he or she received more votes than any other candidate for the seat; or
 
@@ -1631,7 +1631,7 @@ ss 39--42
     
     5 or more 90
     
-    (2) Subclause (1) is subject to clauses 2 and 3\.
+    (2) Subclause (1) is subject to [clauses 2][152] and [3][153].
 
 ##### 2 Limitations on rebates for former members' domestic air travel
     
@@ -1655,7 +1655,7 @@ ss 39--42
 
 ##### 4 Rebates for travel on rail, road, and ferry services in New Zealand
     
-*   (1) A former member is entitled to a rebate on the following scheduled travel services within New Zealand in accordance with the same rules and limitations as set out in clauses 1 and 2 in respect of scheduled air services:
+*   (1) A former member is entitled to a rebate on the following scheduled travel services within New Zealand in accordance with the same rules and limitations as set out in [clauses 1][154] and [2][152] in respect of scheduled air services:
         
     *   (a) rail travel; and
     
@@ -1677,15 +1677,15 @@ ss 39--42
 
 ##### 5 Application of clauses 6 and 7
     
-*   (1) Clauses 6 and 7 apply to a spouse or partner of a former member who---
+*   (1) [Clauses 6][155] and [7][156] apply to a spouse or partner of a former member who---
         
     *   (a) was the spouse or partner of the former member at the time the former member ceased to be a member of Parliament; and
     
-    *   (b) is the spouse or partner of the former member at the time of claiming an entitlement under clause 6 or 7\.
+    *   (b) is the spouse or partner of the former member at the time of claiming an entitlement under [clause 6][155] or [7][156].
     
-    (2) The entitlements of a spouse or partner of a former member under clauses 6 and 7 continue after the death of the former member, whether or not the surviving spouse or partner remarries or re-partners, provided that the spouse or partner was still the spouse or partner of the former member at the date of his or her death.
+    (2) The entitlements of a spouse or partner of a former member under [clauses 6][155] and [7][156] continue after the death of the former member, whether or not the surviving spouse or partner remarries or re-partners, provided that the spouse or partner was still the spouse or partner of the former member at the date of his or her death.
     
-    (3) For the purposes of clauses 6 and 7, _former member_ includes a member of Parliament who dies in office, and who becomes a former member on the date of his or her death.
+    (3) For the purposes of [clauses 6][155] and [7][156], _former member_ includes a member of Parliament who dies in office, and who becomes a former member on the date of his or her death.
 
 ##### 6 Domestic and international air travel: spouse or partner entitlement
     
@@ -1706,31 +1706,31 @@ ss 39--42
 ## Schedule 3  
 Consequential amendments to other enactments
 
-s 66
+[s 66][85]
 
 ##### Electoral Act 1993 (1993 No 87)
 
-Paragraph (d)(i) of the definition of _public servant_ in section 3(1): omit ""Civil List Act 1979"" and substitute ""Members of Parliament (Remuneration and Services) Act 2013"".
+Paragraph (d)(i) of the definition of _public servant_ in [section 3(1)][157]: omit ""Civil List Act 1979"" and substitute ""Members of Parliament (Remuneration and Services) Act 2013"".
 
 ##### Finance Act 1988 (1988 No 107)
 
-Section 6: repeal.
+[Section 6][158]: repeal.
 
 ##### Goods and Services Tax Act 1985 (1985 No 141)
 
-Section 6(3)(c)(i): omit ""Civil List Act 1979"" and substitute ""Members of Parliament (Remuneration and Services) Act 2013"".
+[Section 6(3)(c)(i)][159]: omit ""Civil List Act 1979"" and substitute ""Members of Parliament (Remuneration and Services) Act 2013"".
 
 ##### Government Superannuation Fund Act 1956 (1956 No 47)
 
-Definition of _member_ in section 82(1): omit ""section 16 of the Civil List Act 1979"" and substitute ""section 8 of the Members of Parliament (Remuneration and Services) Act 2013"".
+Definition of _member_ in [section 82(1)][160]: omit ""section 16 of the Civil List Act 1979"" and substitute ""section 8 of the Members of Parliament (Remuneration and Services) Act 2013"".
 
-Definition of _ordinary member_ in section 82(1): omit ""Civil List Act 1979"" and substitute ""Members of Parliament (Remuneration and Services) Act 2013"".
+Definition of _ordinary member_ in [section 82(1)][160]: omit ""Civil List Act 1979"" and substitute ""Members of Parliament (Remuneration and Services) Act 2013"".
 
-Definition of _salary_ in section 82(1): omit ""Civil List Act 1979"" and substitute ""Members of Parliament (Remuneration and Services) Act 2013"".
+Definition of _salary_ in [section 82(1)][160]: omit ""Civil List Act 1979"" and substitute ""Members of Parliament (Remuneration and Services) Act 2013"".
 
 ##### Income Tax Act 2007 (2007 No 97)
 
-Section CW 31: repeal and substitute:
+[Section CW 31][149]: repeal and substitute:
 
 > ##### "CW 31 Services for members and former members of Parliament
 >     
@@ -1754,7 +1754,7 @@ Section CW 31: repeal and substitute:
 > 
 > 
 
-Section CX 12: repeal and substitute:
+[Section CX 12][150]: repeal and substitute:
 
 > ##### "CX 12 Services for members and former members of Parliament
 >     
@@ -1770,7 +1770,7 @@ Section CX 12: repeal and substitute:
 > 
 > 
 
-Section CX 33B: omit ""Civil List Act 1979"" and substitute ""Members of Parliament (Remuneration and Services) Act 2013"".
+[Section CX 33B][161]: omit ""Civil List Act 1979"" and substitute ""Members of Parliament (Remuneration and Services) Act 2013"".
 
 Section YA 1: insert in their appropriate alphabetical order:
 
@@ -1780,19 +1780,19 @@ Section YA 1: insert in their appropriate alphabetical order:
 
 ##### Parliamentary Superannuation Determination 2003 (SR 2003/306)
 
-Definition of _member_ in clause 3: omit ""section 16 of the Civil List Act 1979"" and substitute ""section 8 of the Members of Parliament (Remuneration and Services) Act 2013"".
+Definition of _member_ in [clause 3][162]: omit ""section 16 of the Civil List Act 1979"" and substitute ""section 8 of the Members of Parliament (Remuneration and Services) Act 2013"".
 
-Definition of _ordinary member_ in clause 3: omit ""Civil List Act 1979"" and substitute ""Members of Parliament (Remuneration and Services) Act 2013"".
+Definition of _ordinary member_ in [clause 3][162]: omit ""Civil List Act 1979"" and substitute ""Members of Parliament (Remuneration and Services) Act 2013"".
 
-Definition of _salary_ in clause 3: omit ""Civil List Act 1979"" and substitute ""Members of Parliament (Remuneration and Services) Act 2013"".
+Definition of _salary_ in [clause 3][162]: omit ""Civil List Act 1979"" and substitute ""Members of Parliament (Remuneration and Services) Act 2013"".
 
 ##### Petroleum Demand Restraint Act 1981 (1981 No 12)
 
-Section 14(6): omit ""and to sections 14 and 15 of the Civil List Act 1979"".
+[Section 14(6)][163]: omit ""and to sections 14 and 15 of the Civil List Act 1979"".
 
 ##### Stamp and Cheque Duties Act 1971 (1971 No 51)
 
-Item relating to Civil List Act 1950 in Schedule 1: omit.
+Item relating to Civil List Act 1950 in [Schedule 1][164]: omit.
 
 ---
 
@@ -1949,3 +1949,35 @@ This Act is administered by the Parliamentary Service and Department of Internal
 [130]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM243795
 [131]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM144692
 [132]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM55839
+[133]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM3519017
+[134]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM55879
+[135]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM55884
+[136]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM55885
+[137]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM1509601
+[138]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM55889
+[139]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM56302
+[140]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM56303
+[141]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM15636
+[142]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM16194
+[143]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM436339
+[144]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM4536400
+[145]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM2468600
+[146]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM3058520
+[147]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM82963
+[148]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM309474
+[149]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM1513236
+[150]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM1513356
+[151]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM308529
+[152]: http://www.legislation.govt.nz/act/public/2013/0093/latest/whole.html#DLM3169704
+[153]: http://www.legislation.govt.nz/act/public/2013/0093/latest/whole.html#DLM3169705
+[154]: http://www.legislation.govt.nz/act/public/2013/0093/latest/whole.html#DLM3169701
+[155]: http://www.legislation.govt.nz/act/public/2013/0093/latest/whole.html#DLM3169711
+[156]: http://www.legislation.govt.nz/act/public/2013/0093/latest/whole.html#DLM3169712
+[157]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM307525
+[158]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM133234
+[159]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM82290
+[160]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM447562
+[161]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM5493720
+[162]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM222339
+[163]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM44050
+[164]: http://www.legislation.govt.nz/act/public/2013/0093/latest/link.aspx?id=DLM401042
