@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 19 November 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry for Culture and Heritage and Ministry of Justice.
 
@@ -773,50 +773,53 @@ New Zealand Export-Import Corporation Act 1974: section 30New Zealand Export-Imp
 
 New Zealand Film Commission Act 1978: [section 34][100]New Zealand Film Commission
 
+New Zealand International Convention Centre Act 2013: [section 15][101]New Zealand International Convention Centre, NZICC
+
 Prohibited Marks Order 1957 (SR 1957/179)Green Cross for Safety symbol
 
-[Prohibited Marks Order 1961][101] (SR 1961/120)Symbol of the International Olympic Committee
+[Prohibited Marks Order 1961][102] (SR 1961/120)Symbol of the International Olympic Committee
 
-[Prohibited Marks Order 1982][102] (SR 1982/127)TELARC
+[Prohibited Marks Order 1982][103] (SR 1982/127)TELARC
 
-Racing Act 2003: [section 24][103]New Zealand Racing Board, Totalisator Agency Board, TAB, Racing Conference, New Zealand Thoroughbred Racing, Trotting Conference, Harness Racing New Zealand, and New Zealand Greyhound Racing Association
+Racing Act 2003: [section 24][104]New Zealand Racing Board, Totalisator Agency Board, TAB, Racing Conference, New Zealand Thoroughbred Racing, Trotting Conference, Harness Racing New Zealand, and New Zealand Greyhound Racing Association
 
 Returned Services Associations Badge Order 1950 (_Gazette_ 1950, p 1870)Badge of the Returned Services Associations
 
 Scout Association of New Zealand Amendment Act 1967: section 5Scout Association
 
-Sport and Recreation New Zealand Act 2002: [section 12][104]Sport and Recreation New Zealand
+Sport and Recreation New Zealand Act 2002: [section 12][105]Sport and Recreation New Zealand
 
-Testing Laboratory Registration Act 1972: [section 29][105]Testing Laboratory Registration
+Testing Laboratory Registration Act 1972: [section 29][106]Testing Laboratory Registration
 
 Tourist Hotel Corporation Act 1974: section 3Tourist Hotel Corporation of New Zealand
 
-*   Schedule 3 Building Performance Guarantee Corporation Act 1977: section 37: repealed, on 1 January 1988, by [section 2(1)(c)][106] of the Finance Act 1987 (1987 No 200).
-*   Schedule 3 Children's Health Camps Act 1972: section 39: repealed, on 1 April 2000, by [section 8][107] of the Children's Health Camps Board Dissolution Act 1999 (1999 No 141).
-*   Schedule 3 Children's Health Camps Board Dissolution Act 1999: section 14: inserted, on 1 April 2000, by [section 8][107] of the Children's Health Camps Board Dissolution Act 1999 (1999 No 141).
-*   Schedule 3 Consumer Council Act 1966: section 35: repealed, on 1 January 1989, by [section 9][108] of the Consumer Council Act Repeal Act 1988 (1988 No 144).
-*   Schedule 3 Cultural Property (Protection in Armed Conflict) Act 2012: inserted, on 1 July 2013, by [section 46][109] of the Cultural Property (Protection in Armed Conflict) Act 2012 (2012 No 118).
-*   Schedule 3 Development Finance Corporation of New Zealand Act 1986: section 13: repealed, on 23 September 1988, by [section 14(1)][110] of the Development Finance Corporation of New Zealand Amendment Act 1988 (1988 No 141).
-*   Schedule 3 Gambling Act 2003: section 267: inserted, on 1 July 2004, by [section 374][111] of the Gambling Act 2003 (2003 No 51).
-*   Schedule 3 Gambling Act 2003: section 268: inserted, on 1 July 2004, by [section 374][111] of the Gambling Act 2003 (2003 No 51).
-*   Schedule 3 Gaming and Lotteries Act 1977: section 116: repealed, on 1 July 2004, by [section 374][111] of the Gambling Act 2003 (2003 No 51).
-*   Schedule 3 Gaming and Lotteries Act 1977: section 139: repealed, on 1 July 2004, by [section 374][111] of the Gambling Act 2003 (2003 No 51).
-*   Schedule 3 Housing Corporation Act 1974: section 43: amended, on 1 July 2001, by [section 24(1)][112] of the Housing Corporation Amendment Act 2001 (2001 No 37).
-*   Schedule 3 Industrial Design Act 1966: section 30: repealed, on 10 December 1988, by [section 14][113] of the Testing Laboratory Registration Amendment Act 1988 (1988 No 167).
-*   Schedule 3 Museum of New Zealand Te Papa Tongarewa Act 1992: section 23: inserted, on 1 July 1992, by [section 33(1)][114] of the Museum of New Zealand Te Papa Tongarewa Act 1992 (1992 No 19).
-*   Schedule 3 National War Memorial Act 1992: section 15: inserted, on 1 July 1992, by [section 16][115] of the National War Memorial Act 1992 (1992 No 20).
-*   Schedule 3 New Zealand Antarctic Institute Act 1996: section 11: inserted, on 1 July 1996, by [section 18][116] of the New Zealand Antarctic Institute Act 1996 (1996 No 38).
-*   Schedule 3 Police Regulations 1949 (Reprinted with amendments Nos 1--24: SR 1985/259): regulation 93B: repealed, on 1 October 2008, by [section 130(1)][117] of the Policing Act 2008 (2008 No 72).
-*   Schedule 3 Post Office Act 1959: section 65: repealed, on 1 January 1988, by [section 2(2)][118] of the Post Office Act Repeal Act 1987 (1987 No 115).
-*   Schedule 3 Post Office Act 1959: section 235: repealed, on 1 January 1988, by [section 2(2)][118] of the Post Office Act Repeal Act 1987 (1987 No 115).
+*   Schedule 3 Building Performance Guarantee Corporation Act 1977: section 37: repealed, on 1 January 1988, by [section 2(1)(c)][107] of the Finance Act 1987 (1987 No 200).
+*   Schedule 3 Children's Health Camps Act 1972: section 39: repealed, on 1 April 2000, by [section 8][108] of the Children's Health Camps Board Dissolution Act 1999 (1999 No 141).
+*   Schedule 3 Children's Health Camps Board Dissolution Act 1999: section 14: inserted, on 1 April 2000, by [section 8][108] of the Children's Health Camps Board Dissolution Act 1999 (1999 No 141).
+*   Schedule 3 Consumer Council Act 1966: section 35: repealed, on 1 January 1989, by [section 9][109] of the Consumer Council Act Repeal Act 1988 (1988 No 144).
+*   Schedule 3 Cultural Property (Protection in Armed Conflict) Act 2012: inserted, on 1 July 2013, by [section 46][110] of the Cultural Property (Protection in Armed Conflict) Act 2012 (2012 No 118).
+*   Schedule 3 Development Finance Corporation of New Zealand Act 1986: section 13: repealed, on 23 September 1988, by [section 14(1)][111] of the Development Finance Corporation of New Zealand Amendment Act 1988 (1988 No 141).
+*   Schedule 3 Gambling Act 2003: section 267: inserted, on 1 July 2004, by [section 374][112] of the Gambling Act 2003 (2003 No 51).
+*   Schedule 3 Gambling Act 2003: section 268: inserted, on 1 July 2004, by [section 374][112] of the Gambling Act 2003 (2003 No 51).
+*   Schedule 3 Gaming and Lotteries Act 1977: section 116: repealed, on 1 July 2004, by [section 374][112] of the Gambling Act 2003 (2003 No 51).
+*   Schedule 3 Gaming and Lotteries Act 1977: section 139: repealed, on 1 July 2004, by [section 374][112] of the Gambling Act 2003 (2003 No 51).
+*   Schedule 3 Housing Corporation Act 1974: section 43: amended, on 1 July 2001, by [section 24(1)][113] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+*   Schedule 3 Industrial Design Act 1966: section 30: repealed, on 10 December 1988, by [section 14][114] of the Testing Laboratory Registration Amendment Act 1988 (1988 No 167).
+*   Schedule 3 Museum of New Zealand Te Papa Tongarewa Act 1992: section 23: inserted, on 1 July 1992, by [section 33(1)][115] of the Museum of New Zealand Te Papa Tongarewa Act 1992 (1992 No 19).
+*   Schedule 3 National War Memorial Act 1992: section 15: inserted, on 1 July 1992, by [section 16][116] of the National War Memorial Act 1992 (1992 No 20).
+*   Schedule 3 New Zealand Antarctic Institute Act 1996: section 11: inserted, on 1 July 1996, by [section 18][117] of the New Zealand Antarctic Institute Act 1996 (1996 No 38).
+*   Schedule 3 New Zealand International Convention Centre Act 2013: section 15: inserted, on 19 November 2013, by [section 19][118] of the New Zealand International Convention Centre Act 2013 (2013 No 92).
+*   Schedule 3 Police Regulations 1949 (Reprinted with amendments Nos 1--24: SR 1985/259): regulation 93B: repealed, on 1 October 2008, by [section 130(1)][119] of the Policing Act 2008 (2008 No 72).
+*   Schedule 3 Post Office Act 1959: section 65: repealed, on 1 January 1988, by [section 2(2)][120] of the Post Office Act Repeal Act 1987 (1987 No 115).
+*   Schedule 3 Post Office Act 1959: section 235: repealed, on 1 January 1988, by [section 2(2)][120] of the Post Office Act Repeal Act 1987 (1987 No 115).
 *   Schedule 3 Prohibited Marks Order 1982 (SR 1982/127): inserted, on 17 December 1985, by section 2 of the Flags, Emblems, and Names Protection Amendment Act 1985 (1985 No 176).
-*   Schedule 3 Racing Act 1971: section 29: repealed, on 1 August 2003, by [section 69(1)][119] of the Racing Act 2003 (2003 No 3).
-*   Schedule 3 Racing Act 2003: section 24: inserted, on 1 August 2003, by [section 69(1)][119] of the Racing Act 2003 (2003 No 3).
-*   Schedule 3 Rural Banking and Finance Corporation Act 1974: section 44: repealed, on 31 October 1989, by [section 21(1)][120] of the Rural Banking and Finance Corporation of New Zealand Act 1989 (1989 No 81).
+*   Schedule 3 Racing Act 1971: section 29: repealed, on 1 August 2003, by [section 69(1)][121] of the Racing Act 2003 (2003 No 3).
+*   Schedule 3 Racing Act 2003: section 24: inserted, on 1 August 2003, by [section 69(1)][121] of the Racing Act 2003 (2003 No 3).
+*   Schedule 3 Rural Banking and Finance Corporation Act 1974: section 44: repealed, on 31 October 1989, by [section 21(1)][122] of the Rural Banking and Finance Corporation of New Zealand Act 1989 (1989 No 81).
 *   Schedule 3 Scientific and Industrial Research Act 1974: section 13A: repealed, on 1 July 1992, by [section 46(1)][78] of the Crown Research Institutes Act 1992 (1992 No 47).
-*   Schedule 3 Sport and Recreation New Zealand Act 2002: section 12: inserted, on 1 January 2003, by [section 62][121] of the Sport and Recreation New Zealand Act 2002 (2002 No 38).
-*   Schedule 3 Sport, Fitness, and Leisure Act 1987: section 34: repealed, on 1 January 2003, by [section 62][121] of the Sport and Recreation New Zealand Act 2002 (2002 No 38).
-*   Schedule 3 Standards Act 1965: section 29: repealed, on 1 July 1988, by [section 28][122] of the Standards Act 1988 (1988 No 5).
+*   Schedule 3 Sport and Recreation New Zealand Act 2002: section 12: inserted, on 1 January 2003, by [section 62][123] of the Sport and Recreation New Zealand Act 2002 (2002 No 38).
+*   Schedule 3 Sport, Fitness, and Leisure Act 1987: section 34: repealed, on 1 January 2003, by [section 62][123] of the Sport and Recreation New Zealand Act 2002 (2002 No 38).
+*   Schedule 3 Standards Act 1965: section 29: repealed, on 1 July 1988, by [section 28][124] of the Standards Act 1988 (1988 No 5).
 *   Schedule 3 Testing Laboratory Registration Act 1972: section 29: inserted, on 17 December 1985, by section 2 of the Flags, Emblems, and Names Protection Amendment Act 1985 (1985 No 176).
 
 ---
@@ -861,104 +864,63 @@ Enactments repealed
 
 ##### Statutes Amendment Act 1939 (1939 No 39) (1973 Reprint, Vol 2, p 1635)
 
-_Amendment(s) incorporated in the [Act(s)][123]_.
+_Amendment(s) incorporated in the [Act(s)][125]_.
 
 ##### Statutes Amendment Act 1948 (1948 No 77) (1973 Reprint, Vol 2, p 1636)
 
 _Amendment(s) incorporated in the [Act(s)][73]_.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Flags, Emblems, and Names Protection Act 1981\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][124] ![](/images/external_link.gif).
+*   This is a reprint of the Flags, Emblems, and Names Protection Act 1981 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][125] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][126] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][127] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][126] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][128] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][129] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][127] and [17E][128] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   New Zealand International Convention Centre Act 2013 (2013 No 92): [section 19][118]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Cultural Property (Protection in Armed Conflict) Act 2012 (2012 No 118): [section 46][109]
+    Cultural Property (Protection in Armed Conflict) Act 2012 (2012 No 118): [section 46][110]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][82]
     
-    [Flags, Emblems, and Names Protection Amendment Act 2010][129] (2010 No 66)
+    [Flags, Emblems, and Names Protection Amendment Act 2010][130] (2010 No 66)
     
-    Policing Act 2008 (2008 No 72): [section 130(1)][117]
+    Policing Act 2008 (2008 No 72): [section 130(1)][119]
     
     Major Events Management Act 2007 (2007 No 35): [section 83][80]
     
-    [Flags, Emblems, and Names Protection Amendment Act 2005][130] (2005 No 102)
+    [Flags, Emblems, and Names Protection Amendment Act 2005][131] (2005 No 102)
     
-    [Flags, Emblems, and Names Protection Amendment Act 2003][131] (2003 No 73)
+    [Flags, Emblems, and Names Protection Amendment Act 2003][132] (2003 No 73)
     
-    Gambling Act 2003 (2003 No 51): [section 374][111]
+    Gambling Act 2003 (2003 No 51): [section 374][112]
     
-    Racing Act 2003 (2003 No 3): [section 69(1)][119]
+    Racing Act 2003 (2003 No 3): [section 69(1)][121]
     
     Trade Marks Act 2002 (2002 No 49): [section 201][56]
     
-    Sport and Recreation New Zealand Act 2002 (2002 No 38): [section 62][121]
+    Sport and Recreation New Zealand Act 2002 (2002 No 38): [section 62][123]
     
-    Housing Corporation Amendment Act 2001 (2001 No 37): [section 24(1)][112]
+    Housing Corporation Amendment Act 2001 (2001 No 37): [section 24(1)][113]
     
-    Children's Health Camps Board Dissolution Act 1999 (1999 No 141): [section 8][107]
+    Children's Health Camps Board Dissolution Act 1999 (1999 No 141): [section 8][108]
     
-    [Flags, Emblems, and Names Protection Amendment Act 1998][132] (1998 No 121)
+    [Flags, Emblems, and Names Protection Amendment Act 1998][133] (1998 No 121)
     
-    New Zealand Antarctic Institute Act 1996 (1996 No 38): [section 18][116]
+    New Zealand Antarctic Institute Act 1996 (1996 No 38): [section 18][117]
     
     Customs and Excise Act 1996 (1996 No 27): [section 289(1)][64]
     
@@ -968,31 +930,31 @@ _Amendment(s) incorporated in the [Act(s)][73]_.
     
     Crown Research Institutes Act 1992 (1992 No 47): [section 46(1)][78]
     
-    National War Memorial Act 1992 (1992 No 20): [section 16][115]
+    National War Memorial Act 1992 (1992 No 20): [section 16][116]
     
-    Museum of New Zealand Te Papa Tongarewa Act 1992 (1992 No 19): [section 33(1)][114]
+    Museum of New Zealand Te Papa Tongarewa Act 1992 (1992 No 19): [section 33(1)][115]
     
-    Rural Banking and Finance Corporation of New Zealand Act 1989 (1989 No 81): [section 21(1)][120]
+    Rural Banking and Finance Corporation of New Zealand Act 1989 (1989 No 81): [section 21(1)][122]
     
-    Testing Laboratory Registration Amendment Act 1988 (1988 No 167): [section 14][113]
+    Testing Laboratory Registration Amendment Act 1988 (1988 No 167): [section 14][114]
     
-    Consumer Council Act Repeal Act 1988 (1988 No 144): [section 9][108]
+    Consumer Council Act Repeal Act 1988 (1988 No 144): [section 9][109]
     
-    Development Finance Corporation of New Zealand Amendment Act 1988 (1988 No 141): [section 14(1)][110]
+    Development Finance Corporation of New Zealand Amendment Act 1988 (1988 No 141): [section 14(1)][111]
     
-    Standards Act 1988 (1988 No 5): [section 28][122]
+    Standards Act 1988 (1988 No 5): [section 28][124]
     
-    Finance Act 1987 (1987 No 200): [section 2(1)(c)][106]
+    Finance Act 1987 (1987 No 200): [section 2(1)(c)][107]
     
-    Post Office Act Repeal Act 1987 (1987 No 115): [section 2(2)][118]
+    Post Office Act Repeal Act 1987 (1987 No 115): [section 2(2)][120]
     
-    Development Finance Corporation of New Zealand Act 1986 (1986 No 129): [section 19(1)][133]
+    Development Finance Corporation of New Zealand Act 1986 (1986 No 129): [section 19(1)][134]
     
     Flags, Emblems, and Names Protection Amendment Act 1985 (1985 No 176)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1981/0047/latest/whole.html#DLM51360
 [2]: http://www.legislation.govt.nz/act/public/1981/0047/latest/whole.html#DLM51362
 [3]: http://www.legislation.govt.nz/act/public/1981/0047/latest/whole.html#DLM51363
@@ -1093,36 +1055,37 @@ _Amendment(s) incorporated in the [Act(s)][73]_.
 [98]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM260656
 [99]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM390299
 [100]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM23059
-[101]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM15734
-[102]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM82309
-[103]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM184478
-[104]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM68911
-[105]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM407721
-[106]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM125656
-[107]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM49651
-[108]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM136750
-[109]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM1559930
-[110]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM136727
-[111]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM210735
-[112]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM96736
-[113]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM138781
-[114]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM260279
-[115]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM260658
-[116]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM391307
-[117]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM1102383
-[118]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM118792
-[119]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM185072
-[120]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM191709
-[121]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM157684
-[122]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM128752
-[123]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM228684
-[124]: http://www.pco.parliament.govt.nz/reprints/
-[125]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM195439
-[126]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[127]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM195468
-[128]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM195470
-[129]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM3042200
-[130]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM361726
-[131]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM217030
-[132]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM19316
-[133]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM99986
+[101]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM5362248
+[102]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM15734
+[103]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM82309
+[104]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM184478
+[105]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM68911
+[106]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM407721
+[107]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM125656
+[108]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM49651
+[109]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM136750
+[110]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM1559930
+[111]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM136727
+[112]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM210735
+[113]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM96736
+[114]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM138781
+[115]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM260279
+[116]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM260658
+[117]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM391307
+[118]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM5362252
+[119]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM1102383
+[120]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM118792
+[121]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM185072
+[122]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM191709
+[123]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM157684
+[124]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM128752
+[125]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM228684
+[126]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM2998516
+[127]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM2998515
+[128]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM2998532
+[129]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[130]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM3042200
+[131]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM361726
+[132]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM217030
+[133]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM19316
+[134]: http://www.legislation.govt.nz/act/public/1981/0047/latest/link.aspx?id=DLM99986
