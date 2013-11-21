@@ -1,5 +1,5 @@
 Reprint  
-as at 30 August 2013
+as at 21 November 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1129,7 +1129,7 @@ Financial Markets Authority
 
 Gambling Commission
 
-Genesis Power Limited
+Genesis Energy Limited
 
 Government Superannuation Appeals Board
 
@@ -1411,7 +1411,8 @@ Vice-Chancellors Committee
 *   Schedule 1 Part 2 Foundation for Research, Science, and Technology: repealed, on 1 February 2011, by [section 18][157] of the Research, Science, and Technology Act 2010 (2010 No 131).
 *   Schedule 1 Part 2 Gambling Commission: inserted, on 1 July 2004, by [section 374][200] of the Gambling Act 2003 (2003 No 51).
 *   Schedule 1 Part 2 GCS Limited: repealed, on 29 December 1994, by [section 6(1)][225] of the Finance Act 1994 (1994 No 73).
-*   Schedule 1 Part 2 Genesis Power Limited: inserted, on 22 December 1998, by [clause 3][226] of the State-Owned Enterprises (Genesis Power Limited, Hydro Energy Limited, and Waikato SOE Limited) Order 1998 (SR 1998/455).
+*   Schedule 1 Part 2 Genesis Energy Limited: inserted, on 21 November 2013, by [clause 4][226] of the State-Owned Enterprises (Genesis Energy Limited) Order 2013 (SR 2013/435).
+*   Schedule 1 Part 2 Genesis Power Limited: repealed, on 21 November 2013, by [clause 4][226] of the State-Owned Enterprises (Genesis Energy Limited) Order 2013 (SR 2013/435).
 *   Schedule 1 Part 2 Government Life Insurance Corporation: repealed, on 20 August 1990, by [section 31(3)][137] of the Tower Corporation Act 1990 (1990 No 2 (P)).
 *   Schedule 1 Part 2 Government Property Services Limited: repealed, on 1 January 2003, by [section 16][227] of the Finance Act (No 2) 1988 (1988 No 128).
 *   Schedule 1 Part 2 Government Stores Board: repealed, on 1 January 1989, by [section 19(2)][228] of the Finance Act (No 2) 1988 (1988 No 128).
@@ -1871,7 +1872,9 @@ _Amendment(s) incorporated in the Act(s)._
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Ombudsmen Act (Schedule 1---Crown Irrigation Investments Limited) Order 2013][328] (SR 2013/291)
+*   State-Owned Enterprises (Genesis Energy Limited) Order 2013 (SR 2013/435): [clause 4][226]
+    
+    [Ombudsmen Act (Schedule 1---Crown Irrigation Investments Limited) Order 2013][328] (SR 2013/291)
     
     Psychoactive Substances Act 2013 (2013 No 53): [section 110(1)][280]
     
@@ -2084,8 +2087,6 @@ _Amendment(s) incorporated in the Act(s)._
     State-Owned Enterprises (Meridian Energy Limited) Order 1999 (SR 1999/101): [clause 3][237]
     
     Accident Insurance Act 1998 (1998 No 114): section 415(1)
-    
-    State-Owned Enterprises (Genesis Power Limited, Hydro Energy Limited, and Waikato SOE Limited) Order 1998 (SR 1998/455): [clause 3][226]
     
     State-Owned Enterprises (Contact Energy Limited) Amendment Act 1998 (1998 No 99): [section 3(7)][207]
     
@@ -2577,7 +2578,7 @@ _Amendment(s) incorporated in the Act(s)._
 [223]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM3231793
 [224]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM248290
 [225]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM332898
-[226]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM270785
+[226]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM5651205
 [227]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM136164
 [228]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM136170
 [229]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM366271
