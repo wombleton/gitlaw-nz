@@ -1,5 +1,5 @@
 Reprint  
-as at 30 August 2013
+as at 21 November 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1017,7 +1017,7 @@ AsureQuality Limited
 
 Electricity Corporation of New Zealand Limited
 
-Genesis Power Limited
+Genesis Energy Limited
 
 KiwiRail Holdings Limited
 
@@ -1053,7 +1053,7 @@ Transpower New Zealand Limited
 *   Schedule 1 Crown Forestry Management Limited: repealed, on 28 May 2001, by [section 20(1)][139] of the Finance Act (No 2) 1988 (1988 No 128).
 *   Schedule 1 Forestry Corporation of New Zealand Limited: repealed, on 21 August 1996, by [section 4(1)][140] of the Finance Act 1991 (1991 No 93).
 *   Schedule 1 GCS Limited: repealed, on 18 November 1994, by [section 5(1)][141] of the Finance Act 1994 (1994 No 73).
-*   Schedule 1 Genesis Power Limited: inserted, on 22 December 1998, by [clause 2][142] of the State-Owned Enterprises (Genesis Power Limited, Hydro Energy Limited, and Waikato SOE Limited) Order 1998 (SR 1998/455).
+*   Schedule 1 Genesis Energy Limited: amended, on 21 November 2013, by [clause 3][142] of the State-Owned Enterprises (Genesis Energy Limited) Order 2013 (SR 2013/435).
 *   Schedule 1 Government Computing Services Limited: repealed, on 8 August 1991, by [section 8][143] of the Finance Act 1991 (1991 No 93).
 *   Schedule 1 Government Property Services Limited: repealed, on 15 May 1998, by [section 13(1)][144] of the Finance Act (No 2) 1988 (1988 No 128).
 *   Schedule 1 Government Supply Brokerage Corporation (N.Z.) Limited: repealed, on 17 March 1992, by [section 10(1)][145] of the Finance Act 1991 (1991 No 93).
@@ -1105,7 +1105,7 @@ AsureQuality Limited
 
 Electricity Corporation of New Zealand Limited
 
-Genesis Power Limited
+Genesis Energy Limited
 
 KiwiRail Holdings Limited
 
@@ -1138,7 +1138,7 @@ Transpower New Zealand Limited
 *   Schedule 2 Crown Forestry Management Limited: repealed, on 28 May 2001, by [section 20(1)][139] of the Finance Act (No 2) 1988 (1988 No 128).
 *   Schedule 2 Forestry Corporation of New Zealand Limited: repealed, on 21 August 1996, by [section 4(3)][140] of the Finance Act 1991 (1991 No 93).
 *   Schedule 2 GCS Limited: repealed, on 18 November 1994, by [section 5(3)][141] of the Finance Act 1994 (1994 No 73).
-*   Schedule 2 Genesis Power Limited: inserted, on 22 December 1998, by [clause 2][142] of the State-Owned Enterprises (Genesis Power Limited, Hydro Energy Limited, and Waikato SOE Limited) Order 1998 (SR 1998/455).
+*   Schedule 1 Genesis Energy Limited: amended, on 21 November 2013, by [clause 3][142] of the State-Owned Enterprises (Genesis Energy Limited) Order 2013 (SR 2013/435).
 *   Schedule 2 Government Computing Services Limited: repealed, on 8 August 1991, by [section 8][143] of the Finance Act 1991 (1991 No 93).
 *   Schedule 2 Government Property Services Limited: repealed, on 15 May 1998, by [sections 13(1)][144] of the Finance Act (No 2) 1988 (1988 No 128).
 *   Schedule 2 Government Supply Brokerage Corporation (N.Z.) Limited: repealed, on 22 January 1992, by [section 10(3)][145] of the Finance Act 1991 (1991 No 93).
@@ -2352,7 +2352,9 @@ Miscellaneous
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][131]
+*   State-Owned Enterprises (Genesis Energy Limited) Order 2013 (SR 2013/435): [clause 3][142]
+    
+    Legislation Act 2012 (2012 No 119): [section 77(3)][131]
     
     State-Owned Enterprises (KiwiRail Holdings Limited) Order 2012 (SR 2012/346): [clause 3][147]
     
@@ -2389,8 +2391,6 @@ Miscellaneous
     State-Owned Enterprises (Mighty River Power Limited) Order 1999 (SR 1999/102): [clause 2][167]
     
     State-Owned Enterprises (Meridian Energy Limited) Order 1999 (SR 1999/101): [clause 2][146]
-    
-    State-Owned Enterprises (Genesis Power Limited, Hydro Energy Limited, and Waikato SOE) Limited Order 1998 (SR 1998/455): [clause 2][142]
     
     [State-Owned Enterprises (Contact Energy Limited) Amendment Act 1998][272] (1998 No 99)
     
@@ -2614,7 +2614,7 @@ Miscellaneous
 [139]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM136174
 [140]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM248288
 [141]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM332897
-[142]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM270784
+[142]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM5651234
 [143]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM248299
 [144]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM136161
 [145]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM248703
