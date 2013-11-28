@@ -1,5 +1,5 @@
 Reprint  
-as at 4 September 2013
+as at 28 November 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1232,6 +1232,8 @@ Miscellaneous provisions relating to access to official information
     
     *   (d) information concerning any consent, certificate, notice, order, or requisition affecting the land or any building on the land previously issued by the territorial authority (whether under the Building Act 1991, the [Building Act 2004][178], or any other Act):
     
+    *   (da) the information required to be provided to a territorial authority under section 362T(2) of the Building Act 2004:
+    
     *   (e) information concerning any certificate issued by a building certifier pursuant to the Building Act 1991 or the [Building Act 2004][178]:
     
     *   (ea) information notified to the territorial authority under [section 124][179] of the Weathertight Homes Resolution Services Act 2006:
@@ -1258,9 +1260,11 @@ Miscellaneous provisions relating to access to official information
     
     Section 44A(2)(d): amended, on 31 March 2005, by [section 414][181] of the Building Act 2004 (2004 No 72). 
     
+    Section 44A(2)(da): inserted, on 28 November 2013, by [section 77][182] of the Building Amendment Act 2013 (2013 No 100).
+    
     Section 44A(2)(e): amended, on 31 March 2005, by [section 414][181] of the Building Act 2004 (2004 No 72).
     
-    Section 44A(2)(ea): inserted, on 1 April 2007, by [section 127(5)][182] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
+    Section 44A(2)(ea): inserted, on 1 April 2007, by [section 127(5)][183] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
     
     Section 44A(2)(h): amended, on 31 March 2005, by [section 414][181] of the Building Act 2004 (2004 No 72).
 
@@ -1291,7 +1295,7 @@ Local authority meetings
     
     _minutes_, in relation to any meeting of any local authority, means any minutes or other record of the proceedings of any such meeting.
     
-    (1A) Despite subsection (1), _meeting_, in relation to a local authority that is a board of inquiry or special tribunal given authority to conduct hearings under [section 149J][183] or [202][184] of the Resource Management Act 1991, is limited to any hearing that the board or tribunal holds under [section 149L][185] or [206][186] of that Act.
+    (1A) Despite subsection (1), _meeting_, in relation to a local authority that is a board of inquiry or special tribunal given authority to conduct hearings under [section 149J][184] or [202][185] of the Resource Management Act 1991, is limited to any hearing that the board or tribunal holds under [section 149L][186] or [206][187] of that Act.
     
     (2) For the avoidance of doubt, it is hereby declared that any meeting of a local authority or of any committee or subcommittee of a local authority, at which no resolutions or decisions are made is not a meeting for the purposes of this Part.
     
@@ -1299,7 +1303,7 @@ Local authority meetings
     
     Section 45(1) **meeting** paragraph (a): substituted, on 1 July 2003, by [section 262][96] of the Local Government Act 2002 (2002 No 84).
     
-    Section 45(1A): inserted, on 4 September 2013, by [section 4][187] of the Local Government Official Information and Meetings Amendment Act 2013 (2013 No 65).
+    Section 45(1A): inserted, on 4 September 2013, by [section 4][188] of the Local Government Official Information and Meetings Amendment Act 2013 (2013 No 65).
     
     Section 45(2): added, on 1 October 1991, by section 3(2) of the Local Government Official Information and Meetings Amendment Act 1991 (1991 No 54).
 
@@ -1307,11 +1311,11 @@ Local authority meetings
     
 *   The only provisions of this Part that apply to the following local authorities are [sections 48][66] and [53][72]:
         
-    *   (a) a board of inquiry given authority to conduct hearings under [section 149J][183] of the Resource Management Act 1991; and
+    *   (a) a board of inquiry given authority to conduct hearings under [section 149J][184] of the Resource Management Act 1991; and
     
-    *   (b) a special tribunal given authority to conduct hearings under [section 202][184] of the Resource Management Act 1991\.
+    *   (b) a special tribunal given authority to conduct hearings under [section 202][185] of the Resource Management Act 1991\.
     
-    Section 45A: inserted, on 4 September 2013, by [section 5][188] of the Local Government Official Information and Meetings Amendment Act 2013 (2013 No 65).
+    Section 45A: inserted, on 4 September 2013, by [section 5][189] of the Local Government Official Information and Meetings Amendment Act 2013 (2013 No 65).
 
 ##### 46 Meetings of local authorities to be publicly notified
     
@@ -1331,19 +1335,19 @@ Local authority meetings
     
     *   (b) give the reasons why that meeting was not so notified.
     
-    (7) Nothing in subsections (1) to (6) applies to a Board of Trustees constituted under [Part 9][189] of the Education Act 1989; but every such Board shall take all reasonable steps to ensure that parents (within the meaning of that Part) of students enrolled at schools that the Board administers can readily find out, within a reasonable time before those meetings, where and when meetings of the Board are to be held.
+    (7) Nothing in subsections (1) to (6) applies to a Board of Trustees constituted under [Part 9][190] of the Education Act 1989; but every such Board shall take all reasonable steps to ensure that parents (within the meaning of that Part) of students enrolled at schools that the Board administers can readily find out, within a reasonable time before those meetings, where and when meetings of the Board are to be held.
     
     (8) Nothing in this section applies to---
         
-    *   (a) the New Zealand Conservation Authority established under [section 6A][190] of the Conservation Act 1987:
+    *   (a) the New Zealand Conservation Authority established under [section 6A][191] of the Conservation Act 1987:
     
     *   (b) \[Repealed\]
     
     *   (c) Provincial Patriotic Councils:
     
-    *   (d) the National Animal Ethics Advisory Committee established by [section 62][191] of the Animal Welfare Act 1999:
+    *   (d) the National Animal Ethics Advisory Committee established by [section 62][192] of the Animal Welfare Act 1999:
     
-    *   (e) the National Animal Welfare Advisory Committee established by [section 56][192] of the Animal Welfare Act 1999\.
+    *   (e) the National Animal Welfare Advisory Committee established by [section 56][193] of the Animal Welfare Act 1999\.
     
     Section 46: substituted, on 1 October 1991, by section 4(1) of the Local Government Official Information and Meetings Amendment Act 1991 (1991 No 54).
     
@@ -1351,13 +1355,13 @@ Local authority meetings
     
     Section 46(4): substituted, on 1 July 2003, by [section 262][96] of the Local Government Act 2002 (2002 No 84).
     
-    Section 46(8)(a): substituted, on 13 March 1996, by [section 11][193] of the National Parks Amendment Act 1996 (1996 No 4).
+    Section 46(8)(a): substituted, on 13 March 1996, by [section 11][194] of the National Parks Amendment Act 1996 (1996 No 4).
     
-    Section 46(8)(b): repealed, on 1 April 2000, by [section 7][194] of the Children's Health Camps Board Dissolution Act 1999 (1999 No 141).
+    Section 46(8)(b): repealed, on 1 April 2000, by [section 7][195] of the Children's Health Camps Board Dissolution Act 1999 (1999 No 141).
     
-    Section 46(8)(d): added, on 1 January 2000, by [section 196(1)][195] of the Animal Welfare Act 1999 (1999 No 142).
+    Section 46(8)(d): added, on 1 January 2000, by [section 196(1)][196] of the Animal Welfare Act 1999 (1999 No 142).
     
-    Section 46(8)(e): added, on 1 January 2000, by [section 196(1)][195] of the Animal Welfare Act 1999 (1999 No 142).
+    Section 46(8)(e): added, on 1 January 2000, by [section 196(1)][196] of the Animal Welfare Act 1999 (1999 No 142).
 
 ##### 46A Availability of agendas and reports
     
@@ -1417,7 +1421,7 @@ Local authority meetings
     
     Section 46A(6): substituted, on 1 July 2003, by [section 262][96] of the Local Government Act 2002 (2002 No 84). 
     
-    Section 46A(7): amended, on 7 July 2004, by [section 3][196] of the Local Government Official Information and Meetings Amendment Act 2004 (2004 No 65).
+    Section 46A(7): amended, on 7 July 2004, by [section 3][197] of the Local Government Official Information and Meetings Amendment Act 2004 (2004 No 65).
     
     Section 46A(7A): inserted, on 2 September 1996, by section 2(2) of the Local Government Official Information and Meetings Amendment Act 1996 (1996 No 132).
     
@@ -1439,7 +1443,7 @@ Local authority meetings
             
         *   (i) where the local authority is named or specified in [Schedule 1][80], under [section 6][8] or [section 7][9] (except section 7(2)(f)(i)):
         
-        *   (ii) where the local authority is named or specified in [Schedule 2][81] of this Act, under [section 6][99] or [section 7][197] or [section 9][102] (except section 9(2)(g)(i)) of the Official Information Act 1982:
+        *   (ii) where the local authority is named or specified in [Schedule 2][81] of this Act, under [section 6][99] or [section 7][198] or [section 9][102] (except section 9(2)(g)(i)) of the Official Information Act 1982:
         
         
     
@@ -1473,7 +1477,7 @@ Local authority meetings
         
     *   (a) the general subject of each matter to be considered while the public is excluded; and
     
-    *   (b) the reason for the passing of that resolution in relation to that matter, including, where that resolution is passed in reliance on subsection (1)(a), the particular interest or interests protected by [section 6][8] or [section 7][9] of this Act, or [section 6][99] or [section 7][197] or [section 9][102] of the Official Information Act 1982, as the case may require, which would be prejudiced by the holding of the whole or the relevant part of the proceedings in public; and
+    *   (b) the reason for the passing of that resolution in relation to that matter, including, where that resolution is passed in reliance on subsection (1)(a), the particular interest or interests protected by [section 6][8] or [section 7][9] of this Act, or [section 6][99] or [section 7][198] or [section 9][102] of the Official Information Act 1982, as the case may require, which would be prejudiced by the holding of the whole or the relevant part of the proceedings in public; and
     
     *   (c) the grounds on which that resolution is based (being 1 or more of the grounds set out in subsection (1)).
     
@@ -1529,7 +1533,7 @@ Local authority meetings
         
     *   (a) where the local authority concerned is named or specified in [Schedule 1][80], be deemed to be a request for access to official information made under this Act; and
     
-    *   (b) where the local authority concerned is named or specified in [Schedule 2][81], be deemed to be a request for access to official information made under the [Official Information Act 1982][198],---
+    *   (b) where the local authority concerned is named or specified in [Schedule 2][81], be deemed to be a request for access to official information made under the [Official Information Act 1982][199],---
     
     and shall be dealt with by that local authority accordingly.
     
@@ -1545,7 +1549,7 @@ Local authority meetings
     
     (2) For the purposes of this section, _resolution_ means the resolution on the matter or matters for which the extraordinary meeting was held.
     
-    Section 51A: substituted, on 7 July 2004, by [section 4][199] of the Local Government Official Information and Meetings Amendment Act 2004 (2004 No 65).
+    Section 51A: substituted, on 7 July 2004, by [section 4][200] of the Local Government Official Information and Meetings Amendment Act 2004 (2004 No 65).
 
 ##### 52 Defamatory matter in copy of agenda or additional particulars supplied to public or in minutes of meeting
     
@@ -1559,7 +1563,7 @@ Local authority meetings
     
     Compare: 1962 No 113 s 8; 1975 No 125 s 7
     
-    Section 52: amended, on 1 February 1993, by [section 56(1)][200] of the Defamation Act 1992 (1992 No 105).
+    Section 52: amended, on 1 February 1993, by [section 56(1)][201] of the Defamation Act 1992 (1992 No 105).
 
 ##### 53 Oral statements at local authority meetings privileged
     
@@ -1567,7 +1571,7 @@ Local authority meetings
     
     (2) The privilege conferred by subsection (1) is in addition to and not in substitution for or derogation of any other privilege, whether absolute or qualified, that applies, by virtue of any other enactment or rule of law, to the proceedings of any local authority.
     
-    Section 53(1): amended, on 1 February 1993, by [section 56(1)][200] of the Defamation Act 1992 (1992 No 105).
+    Section 53(1): amended, on 1 February 1993, by [section 56(1)][201] of the Defamation Act 1992 (1992 No 105).
 
 ##### 54 This Part to prevail over other enactments
     
@@ -1588,15 +1592,15 @@ Miscellaneous provisions
     
     *   (c) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
     
-    Compare: 1982 No 156 [s 47][201]
+    Compare: 1982 No 156 [s 47][202]
 
 ##### 56 Power to amend Schedules 1 and 2 by Order in Council
     
 *   (1) Where any class of local authority named in [Schedule 1][80] or [Schedule 2][81] is abolished, or its name is altered, or any specified local authority named in Schedule 1 or Schedule 2 is abolished, or its name is altered, the Governor-General may, by Order in Council, make such amendments to those schedules as may be necessary to give effect to the abolition or alteration.
     
-    (2) An Order in Council made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][88] and must be presented to the House of Representatives under [section 41][202] of that Act.
+    (2) An Order in Council made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][88] and must be presented to the House of Representatives under [section 41][203] of that Act.
     
-    Compare: 1962 No 113 s 2(2); 1975 No 125 s 2(5); 1982 No 156 [s 49][203]
+    Compare: 1962 No 113 s 2(2); 1975 No 125 s 2(5); 1982 No 156 [s 49][204]
     
     Section 56(2): replaced, on 5 August 2013, by [section 77(3)][93] of the Legislation Act 2012 (2012 No 119).
 
@@ -1616,9 +1620,9 @@ Miscellaneous provisions
     
 *   (1) The transitional provisions set out in [Schedule 6][86] have effect for the purposes of this Act.
     
-    (2) The provisions relate to amendments made to this Act on or after the commencement of the [Local Government Official Information and Meetings Amendment Act 2013][204].
+    (2) The provisions relate to amendments made to this Act on or after the commencement of the [Local Government Official Information and Meetings Amendment Act 2013][205].
     
-    Section 59: inserted, on 4 September 2013, by [section 6][205] of the Local Government Official Information and Meetings Amendment Act 2013 (2013 No 65).
+    Section 59: inserted, on 4 September 2013, by [section 6][206] of the Local Government Official Information and Meetings Amendment Act 2013 (2013 No 65).
 
 ---
 
@@ -1632,13 +1636,13 @@ Local authorities to which Parts 1 to 7 apply
 ## Part 1  
 Classes of local authorities
 
-Administering bodies of reserves as defined in [section 2(1)][206] of the Reserves Act 1977 (other than a Minister of the Crown or a department)
+Administering bodies of reserves as defined in [section 2(1)][207] of the Reserves Act 1977 (other than a Minister of the Crown or a department)
 
-Airport authorities (other than airport companies (as defined in [section 2][207] of the Airport Authorities Act 1966))
+Airport authorities (other than airport companies (as defined in [section 2][208] of the Airport Authorities Act 1966))
 
 Community boards
 
-Community boards, boards of inquiry, public bodies, special tribunals, or any person given authority to conduct hearings under [sections 33][208], [34][209], [34A][210], [117][211], [149J][183], or [202][184] of the Resource Management Act 1991
+Community boards, boards of inquiry, public bodies, special tribunals, or any person given authority to conduct hearings under [sections 33][209], [34][210], [34A][211], [117][212], [149J][184], or [202][185] of the Resource Management Act 1991
 
 Irrigation boards
 
@@ -1648,12 +1652,12 @@ Public reserves special boards, trusts, or trust boards
 
 Regional councils
 
-Territorial authorities within the meaning of the [Local Government Act 2002][212]
+Territorial authorities within the meaning of the [Local Government Act 2002][213]
     
-*   Schedule 1 Part 1: amended, on 1 October 2009, by [section 165][213] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
-*   Schedule 1 Part 1: amended, on 1 August 2003, by [section 100][214] of the Resource Management Amendment Act 2003 (2003 No 23).
+*   Schedule 1 Part 1: amended, on 1 October 2009, by [section 165][214] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+*   Schedule 1 Part 1: amended, on 1 August 2003, by [section 100][215] of the Resource Management Amendment Act 2003 (2003 No 23).
 *   Schedule 1 Part 1: amended, on 1 July 2003, by [section 262][96] of the Local Government Act 2002 (2002 No 84). 
-*   Schedule 1 Part 1: amended, on 7 October 1994, by [section 96(1)][215] of the Energy Companies Act 1992 (1992 No 56)
+*   Schedule 1 Part 1: amended, on 7 October 1994, by [section 96(1)][216] of the Energy Companies Act 1992 (1992 No 56)
 *   Schedule 1 Part 1: amended, on 1 October 1991, by [section 362][95] of the Resource Management Act 1991 (1991 No 69).
 
 ## Part 2  
@@ -1661,7 +1665,7 @@ Particular local authorities
 
 The Aotea Centre Board of Management
 
-The board established under [Part 7][216] of the Local Government (Auckland Council) Act 2009
+The board established under [Part 7][217] of the Local Government (Auckland Council) Act 2009
 
 The Canterbury Museum Trust Board
 
@@ -1683,19 +1687,19 @@ The Otago Museum Trust Board
 
 The Riccarton Bush Trustees
 
-The selection body established under [Schedule 2][217] of the Local Government (Auckland Council) Act 2009
+The selection body established under [Schedule 2][218] of the Local Government (Auckland Council) Act 2009
 
 The Wairarapa Cadet Training Farm Trust Board
     
-*   Schedule 1 Part 2: amended, on 1 November 2010, by [section 113(1)][218] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
-*   Schedule 1 Part 2: amended, on 1 April 2000, by [section 28(3)][219] of the Museum of Transport and Technology Act 2000 (2000 No 1 (P)).
-*   Schedule 1 Part 2: amended, on 27 February 2000, by [section 49][220] of the Hauraki Gulf Marine Park Act 2000 (2000 No 1).
-*   Schedule 1 Part 2: amended, on 8 October 1998, by [section 20(2)][221] of the Selwyn Plantation Board Empowering Act 1992 (1992 No 4 (L)).
+*   Schedule 1 Part 2: amended, on 1 November 2010, by [section 113(1)][219] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+*   Schedule 1 Part 2: amended, on 1 April 2000, by [section 28(3)][220] of the Museum of Transport and Technology Act 2000 (2000 No 1 (P)).
+*   Schedule 1 Part 2: amended, on 27 February 2000, by [section 49][221] of the Hauraki Gulf Marine Park Act 2000 (2000 No 1).
+*   Schedule 1 Part 2: amended, on 8 October 1998, by [section 20(2)][222] of the Selwyn Plantation Board Empowering Act 1992 (1992 No 4 (L)).
 *   Schedule 1 Part 2: amended, on 1 July 1996, by section 11(2) of the Marlborough Forestry Corporation Act Repeal Act 1996 (1996 No 2 (L)).
-*   Schedule 1 Part 2: amended, on 1 November 1995, by [section 33][222] of the Chatham Islands Council Act 1995 (1995 No 41).
-*   Schedule 1 Part 2: amended, on 7 October 1994, by [section 96(1)][215] of the Energy Companies Act (1992 No 56).
-*   Schedule 1 Part 2: amended, on 26 October 1993, by [section 79(2)][223] of the Energy Companies Act 1992 (1992 No 56).
-*   Schedule 1 Part 2: amended, on 1 October 1993, by [section 95(2)][224] of the Energy Companies Act 1992 (1992 No 56).
+*   Schedule 1 Part 2: amended, on 1 November 1995, by [section 33][223] of the Chatham Islands Council Act 1995 (1995 No 41).
+*   Schedule 1 Part 2: amended, on 7 October 1994, by [section 96(1)][216] of the Energy Companies Act (1992 No 56).
+*   Schedule 1 Part 2: amended, on 26 October 1993, by [section 79(2)][224] of the Energy Companies Act 1992 (1992 No 56).
+*   Schedule 1 Part 2: amended, on 1 October 1993, by [section 95(2)][225] of the Energy Companies Act 1992 (1992 No 56).
 
 ---
 
@@ -1709,11 +1713,11 @@ Local authorities (additional to those named in Schedule 1) to which Part 7 appl
 ## Part 1  
 Classes of local authorities
 
-Boards of Trustees constituted under [Part 9][189] of the Education Act 1989
+Boards of Trustees constituted under [Part 9][190] of the Education Act 1989
 
 Conservation boards
 
-Councils of institutions established under [Part 14][225] of the Education Act 1989
+Councils of institutions established under [Part 14][226] of the Education Act 1989
 
 Fish and game councils
 
@@ -1721,12 +1725,14 @@ Provincial Patriotic Councils
 
 Regional Co-ordinating Committees established under section 22 of the Noxious Plants Act 1978
     
-*   Schedule 2 Part 1: amended, on 1 April 2000, by [section 7][194] of the Children's Health Camps Board Dissolution Act 1999 (1999 No 141).
-*   Schedule 2 Part 1: amended, on 1 July 1993, by [section 32][226] of the Health Sector (Transfers) Act 1993 (1993 No 23).
-*   Schedule 2 Part 1: amended, on 1 October 1991, by [section 34(a)][227] of the Education Amendment Act (No 4) 1991 (1991 No 136).
+*   Schedule 2 Part 1: amended, on 1 April 2000, by [section 7][195] of the Children's Health Camps Board Dissolution Act 1999 (1999 No 141).
+*   Schedule 2 Part 1: amended, on 1 July 1993, by [section 32][227] of the Health Sector (Transfers) Act 1993 (1993 No 23).
+*   Schedule 2 Part 1: amended, on 1 October 1991, by [section 34(a)][228] of the Education Amendment Act (No 4) 1991 (1991 No 136).
 
 ## Part 2  
 Particular local authorities
+
+Game Animal Council
 
 National Animal Ethics Advisory Committee
 
@@ -1736,7 +1742,8 @@ The New Zealand Conservation Authority
 
 The New Zealand Fish and Game Council
     
-*   Schedule 2 Part 2: amended, on 1 January 2000, by [section 196(2)][195] of the Animal Welfare Act 1999 (1999 No 142).
+*   Schedule 2 Part 2: amended, on 28 November 2013, by [section 41(2)][229] of the Game Animal Council Act 2013 (2013 No 98).
+*   Schedule 2 Part 2: amended, on 1 January 2000, by [section 196(2)][196] of the Animal Welfare Act 1999 (1999 No 142).
 
 ---
 
@@ -1769,7 +1776,7 @@ The general subject of each matter to be considered while the public is excluded
 
 ---------
 
-\*This resolution is made in reliance on [section 48(1)(a)][66] of the Local Government Official Information and Meetings Act 1987 and the particular interest or interests protected by [section 6][8] or [section 7][9] of that Act or [section 6][99] or [section 7][197] or [section 9][102] of the Official Information Act 1982, as the case may require, which would be prejudiced by the holding of the whole or the relevant part of the proceedings of the meeting in public are as follows:
+\*This resolution is made in reliance on [section 48(1)(a)][66] of the Local Government Official Information and Meetings Act 1987 and the particular interest or interests protected by [section 6][8] or [section 7][9] of that Act or [section 6][99] or [section 7][198] or [section 9][102] of the Official Information Act 1982, as the case may require, which would be prejudiced by the holding of the whole or the relevant part of the proceedings of the meeting in public are as follows:
 
 \[_give particulars_\]
 
@@ -1806,7 +1813,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Official Information Act 1982 (1982 No 156) (RS Vol 21)
 
-_Amendment(s) incorporated in the [Act(s)][198]._
+_Amendment(s) incorporated in the [Act(s)][199]._
 
 ##### Ombudsmen Act 1975 (1975 No 9)
 
@@ -1814,7 +1821,7 @@ _Amendment(s) incorporated in the [Act(s)][89]._
 
 ##### Soil Conservation and Rivers Control Act 1941 (1941 No 12) (RS Vol 17, p 607)
 
-_Amendment(s) incorporated in the [Act(s)][228]._
+_Amendment(s) incorporated in the [Act(s)][230]._
 
 ---
 
@@ -1845,11 +1852,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Auckland Harbour Bridge Authority Dissolution Act 1983 (1983 No 153)
 
-_Amendment(s) incorporated in the [Act(s)][229]._
+_Amendment(s) incorporated in the [Act(s)][231]._
 
 ##### Auckland Regional Authority Act 1963 (1963 No 18 (L)) (Reprinted 1970, Vol 3, p 1779)
 
-_Amendment(s) incorporated in the [Act(s)][230]._
+_Amendment(s) incorporated in the [Act(s)][232]._
 
 ##### Christchurch Town Hall Board of Management Act 1976 (1976 No 2 (L))
 
@@ -1861,7 +1868,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Education Amendment Act (No 2) 1974 (1974 No 136) (Reprinted 1975, Vol 3, p 1888)
 
-_Amendment(s) incorporated in the [Act(s)][231]._
+_Amendment(s) incorporated in the [Act(s)][233]._
 
 ##### Lakes District Waterways Authority (Shotover River) Empowering Act 1985 (1985 No 2 (L))
 
@@ -1869,15 +1876,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Local Government Act 1974 (1974 No 66) (RS Vol 5, p 77)
 
-_Amendment(s) incorporated in the [Act(s)][232]._
+_Amendment(s) incorporated in the [Act(s)][234]._
 
 ##### Local Legislation Act 1963 (1963 No 138)
 
-_Amendment(s) incorporated in the [Act(s)][233]._
+_Amendment(s) incorporated in the [Act(s)][235]._
 
 ##### Local Legislation Act 1965 (1965 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][234]._
+_Amendment(s) incorporated in the [Act(s)][236]._
 
 ##### Marlborough Forestry Corporation Act 1970 (1970 No 17 (L))
 
@@ -1885,7 +1892,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Massey University Amendment Act 1966 (1966 No 10) (RS Vol 14, p 476)
 
-_Amendment(s) incorporated in the [Act(s)][235]._
+_Amendment(s) incorporated in the [Act(s)][237]._
 
 ##### Milk Act 1967 (1967 No 53)
 
@@ -1893,7 +1900,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### National Parks Act 1980 (1980 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][236]._
+_Amendment(s) incorporated in the [Act(s)][238]._
 
 ##### Noxious Plants Act 1978 (1978 No 15)
 
@@ -1917,7 +1924,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### University of Waikato Act 1963 (1963 No 8) (RS Vol 14, p 849)
 
-_Amendment(s) incorporated in the [Act(s)][237]._
+_Amendment(s) incorporated in the [Act(s)][239]._
 
 ##### Water and Soil Conservation Amendment Act 1971 (1971 No 24) (RS Vol 17, p 783)
 
@@ -1929,7 +1936,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Wellington Regional Water Board Act 1972 (1972 No 3 (L))
 
-_Amendment(s) incorporated in the [Act(s)][238]._
+_Amendment(s) incorporated in the [Act(s)][240]._
 
 ---
 
@@ -1951,15 +1958,15 @@ Transitional provisions for amendments made on or after commencement of Local Go
 
 [s 59][79]
 
-*   Schedule 6: inserted, on 4 September 2013, by [section 7][239] of the Local Government Official Information and Meetings Amendment Act 2013 (2013 No 65).
+*   Schedule 6: inserted, on 4 September 2013, by [section 7][241] of the Local Government Official Information and Meetings Amendment Act 2013 (2013 No 65).
 
 ##### 1 Interpretation
     
-*   In this schedule, _amendment Act_ means the [Local Government Official Information and Meetings Amendment Act 2013][204], which amends this Act.
+*   In this schedule, _amendment Act_ means the [Local Government Official Information and Meetings Amendment Act 2013][205], which amends this Act.
 
 ##### 2 Application of amendments to boards of inquiry and special tribunals
     
-*   The amendments made by the amendment Act apply to a board of inquiry appointed under [section 149J][183] of the Resource Management Act 1991, or to a special tribunal appointed under [section 202][184] of that Act, whether appointed before or after the commencement of the amendments.
+*   The amendments made by the amendment Act apply to a board of inquiry appointed under [section 149J][184] of the Resource Management Act 1991, or to a special tribunal appointed under [section 202][185] of that Act, whether appointed before or after the commencement of the amendments.
 
 #### 
 
@@ -1973,69 +1980,73 @@ Transitional provisions for amendments made on or after commencement of Local Go
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][240] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][241] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][242] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][243] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][242] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][243] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][244] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][245] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Local Government Official Information and Meetings Amendment Act 2013][204] (2013 No 65)
+*   Building Amendment Act 2013 (2013 No 100): [section 77][182]
+    
+    Game Animal Council Act 2013 (2013 No 98): [section 41(2)][229]
+    
+    [Local Government Official Information and Meetings Amendment Act 2013][205] (2013 No 65)
     
     Legislation Act 2012 (2012 No 119): [section 77(3)][93]
     
-    Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): [section 113(1)][218]
+    Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): [section 113(1)][219]
     
-    Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31): [section 165][213]
+    Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31): [section 165][214]
     
     Criminal Disclosure Act 2008 (2008 No 38): [section 37][125]
     
     Health (Drinking Water) Amendment Act 2007 (2007 No 92): [section 18][180]
     
-    Weathertight Homes Resolution Services Act 2006 (2006 No 84): [section 127(5)][182]
+    Weathertight Homes Resolution Services Act 2006 (2006 No 84): [section 127(5)][183]
     
     Building Act 2004 (2004 No 72): [section 414][181]
     
-    [Local Government Official Information and Meetings Amendment Act 2004][244] (2004 No 65)
+    [Local Government Official Information and Meetings Amendment Act 2004][246] (2004 No 65)
     
-    [Local Government Official Information and Meetings Amendment Act 2003][245] (2003 No 82)
+    [Local Government Official Information and Meetings Amendment Act 2003][247] (2003 No 82)
     
     Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][134]
     
-    Resource Management Amendment Act 2003 (2003 No 23): [section 100][214]
+    Resource Management Amendment Act 2003 (2003 No 23): [section 100][215]
     
     Local Government Act 2002 (2002 No 84): [sections 262][96], [266][129]
     
-    Museum of Transport and Technology Act 2000 (2000 No 1 (P)): [section 28(3)][219]
+    Museum of Transport and Technology Act 2000 (2000 No 1 (P)): [section 28(3)][220]
     
-    Hauraki Gulf Marine Park Act 2000 (2000 No 1): [section 49][220]
+    Hauraki Gulf Marine Park Act 2000 (2000 No 1): [section 49][221]
     
-    Animal Welfare Act 1999 (1999 No 142): [section 196][195]
+    Animal Welfare Act 1999 (1999 No 142): [section 196][196]
     
-    Children's Health Camps Board Dissolution Act 1999 (1999 No 141): [section 7][194]
+    Children's Health Camps Board Dissolution Act 1999 (1999 No 141): [section 7][195]
     
     Local Government Official Information and Meetings Amendment Act 1996 (1996 No 132)
     
     Marlborough Forestry Corporation Act Repeal Act 1996 (1996 No 2 (L)): section 11(2)
     
-    National Parks Amendment Act 1996 (1996 No 4): [section 11][193]
+    National Parks Amendment Act 1996 (1996 No 4): [section 11][194]
     
-    Chatham Islands Council Act 1995 (1995 No 41): [section 33][222]
+    Chatham Islands Council Act 1995 (1995 No 41): [section 33][223]
     
-    [Local Government Official Information and Meetings Amendment Act 1993][246] (1993 No 37)
+    [Local Government Official Information and Meetings Amendment Act 1993][248] (1993 No 37)
     
-    Health Sector (Transfers) Act 1993 (1993 No 23): [section 32][226]
+    Health Sector (Transfers) Act 1993 (1993 No 23): [section 32][227]
     
-    Defamation Act 1992 (1992 No 105): [section 56(1)][200]
+    Defamation Act 1992 (1992 No 105): [section 56(1)][201]
     
-    Energy Companies Act 1992 (1992 No 56): [sections 79(2)][223], [95(2)][224], [96(1)][215]
+    Energy Companies Act 1992 (1992 No 56): [sections 79(2)][224], [95(2)][225], [96(1)][216]
     
-    Selwyn Plantation Board Empowering Act 1992 (1992 No 4 (L)): [section 20(2)][221]
+    Selwyn Plantation Board Empowering Act 1992 (1992 No 4 (L)): [section 20(2)][222]
     
     Local Government Official Information and Meetings Amendment Act (No 2) 1991 (1991 No 151)
     
-    Education Amendment Act (No 4) 1991 (1991 No 136): [section 34(a)][227]
+    Education Amendment Act (No 4) 1991 (1991 No 136): [section 34(a)][228]
     
     Resource Management Act 1991 (1991 No 69): [section 362][95]
     
@@ -2227,68 +2238,70 @@ Transitional provisions for amendments made on or after commencement of Local Go
 [179]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM404178
 [180]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM970056
 [181]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM309090
-[182]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM404184
-[183]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM2417778
-[184]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM236756
-[185]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM2417780
-[186]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM236760
-[187]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM5464208
-[188]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM5464210
-[189]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM180448
-[190]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM104086
-[191]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM50476
-[192]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM50469
-[193]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM373634
-[194]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM49649
-[195]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM51967
-[196]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM304022
-[197]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM65368
-[198]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM64784
-[199]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM304023
-[200]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM281277
-[201]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM65910
-[202]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM2998573
-[203]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM65914
-[204]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM5464202
-[205]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM5464212
-[206]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM444310
-[207]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM379829
-[208]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM232593
-[209]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM233000
-[210]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM233006
-[211]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM234875
-[212]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM170872
-[213]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM2349369
-[214]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM197004
-[215]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM268395
-[216]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM3338662
-[217]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM3338699
-[218]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM3016880
-[219]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM119840
-[220]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM53193
-[221]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM80697
-[222]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM368048
-[223]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM268363
-[224]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM268394
-[225]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM183661
-[226]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM295182
-[227]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM253148
-[228]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM230364
-[229]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM75143
-[230]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM62077
-[231]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM425953
-[232]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM415531
-[233]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM350906
-[234]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM374087
-[235]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM374501
-[236]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM37954
-[237]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM348199
-[238]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM70940
-[239]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM5464214
-[240]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM2998516
-[241]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM2998515
-[242]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM2998532
-[243]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[244]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM304016
-[245]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM217647
-[246]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM299197
+[182]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM3957686
+[183]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM404184
+[184]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM2417778
+[185]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM236756
+[186]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM2417780
+[187]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM236760
+[188]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM5464208
+[189]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM5464210
+[190]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM180448
+[191]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM104086
+[192]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM50476
+[193]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM50469
+[194]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM373634
+[195]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM49649
+[196]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM51967
+[197]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM304022
+[198]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM65368
+[199]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM64784
+[200]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM304023
+[201]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM281277
+[202]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM65910
+[203]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM2998573
+[204]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM65914
+[205]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM5464202
+[206]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM5464212
+[207]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM444310
+[208]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM379829
+[209]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM232593
+[210]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM233000
+[211]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM233006
+[212]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM234875
+[213]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM170872
+[214]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM2349369
+[215]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM197004
+[216]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM268395
+[217]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM3338662
+[218]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM3338699
+[219]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM3016880
+[220]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM119840
+[221]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM53193
+[222]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM80697
+[223]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM368048
+[224]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM268363
+[225]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM268394
+[226]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM183661
+[227]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM295182
+[228]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM253148
+[229]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM4105502
+[230]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM230364
+[231]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM75143
+[232]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM62077
+[233]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM425953
+[234]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM415531
+[235]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM350906
+[236]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM374087
+[237]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM374501
+[238]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM37954
+[239]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM348199
+[240]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM70940
+[241]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM5464214
+[242]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM2998516
+[243]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM2998515
+[244]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM2998532
+[245]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[246]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM304016
+[247]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM217647
+[248]: http://www.legislation.govt.nz/act/public/1987/0174/latest/link.aspx?id=DLM299197
