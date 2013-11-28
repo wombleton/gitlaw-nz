@@ -1,5 +1,5 @@
 Reprint  
-as at 25 October 2013
+as at 28 November 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -6878,62 +6878,65 @@ Other enactments administered by Department
 
 [Canterbury Provincial Buildings Vesting Act 1928][634]
 
-[Harbour Boards Dry Land Endowment Revesting Act 1991][635]
+[Game Animal Council Act 2013][635]
 
-[Kapiti Island Public Reserve Act 1897][636]
+[Harbour Boards Dry Land Endowment Revesting Act 1991][636]
 
-[Lake Wanaka Preservation Act 1973][637]
+[Kapiti Island Public Reserve Act 1897][637]
+
+[Lake Wanaka Preservation Act 1973][638]
 
 [Marine Mammals Protection Act 1978][295]
 
 [Marine Reserves Act 1971][317]
 
-[Mount Egmont Vesting Act 1978][638]
+[Mount Egmont Vesting Act 1978][639]
 
 [National Parks Act 1980][290]
 
-[Native Plants Protection Act 1934][639]
+[Native Plants Protection Act 1934][640]
 
-[Ngāi Tahu (Tūtaepatu Lagoon Vesting) Act 1998][640]
+[Ngāi Tahu (Tūtaepatu Lagoon Vesting) Act 1998][641]
 
-[Queen Elizabeth the Second National Trust Act 1977][641]
+[Queen Elizabeth the Second National Trust Act 1977][642]
 
-[Queenstown Reserves Vesting and Empowering Act 1971][642]
+[Queenstown Reserves Vesting and Empowering Act 1971][643]
 
 [Reserves Act 1977][318]
 
-[Stewart Island Reserves Empowering Act 1976][643]
+[Stewart Island Reserves Empowering Act 1976][644]
 
 [Sugar Loaf Islands Marine Protected Area Act 1991][506]
 
 [Trade in Endangered Species Act 1989][520]
 
-[Tutae-Ka-Wetoweto Forest Act 2001][644]
+[Tutae-Ka-Wetoweto Forest Act 2001][645]
 
 [Waitangi Endowment Act 1932--33][507]
 
-[Waitangi National Trust Board Act 1932][645]
+[Waitangi National Trust Board Act 1932][646]
 
-[Waitutu Block Settlement Act 1997][646]
+[Waitutu Block Settlement Act 1997][647]
 
 [Wild Animal Control Act 1977][319]
 
 [Wildlife Act 1953][282]
     
-*   Schedule 1: amended, on 7 July 2010, by [section 7][647] of the Conservation Amendment Act (No 2) 2010 (2010 No 54).
+*   Schedule 1: amended, on 28 November 2013, by [section 41(2)][648] of the Game Animal Council Act 2013 (2013 No 98).
+*   Schedule 1: amended, on 7 July 2010, by [section 7][649] of the Conservation Amendment Act (No 2) 2010 (2010 No 54).
 *   Schedule 1: amended, on 30 September 2008, by [section 82][312] of the Walking Access Act 2008 (2008 No 101).
 *   Schedule 1: amended, on 25 November 2004, by [section 103(1)][436] of the Foreshore and Seabed Act 2004 (2004 No 93).
-*   Schedule 1: amended, on 22 October 2003, by [section 4][648] of the Conservation Amendment Act 2003 (2003 No 65).
-*   Schedule 1: amended, on 9 October 2001, by [section 14][649] of the Tutae-Ka-Wetoweto Forest Act 2001 (2001 No 48).
-*   Schedule 1: amended, on 1 October 2000, by [section 12][650] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
-*   Schedule 1: amended, on 1 June 1998, by [section 15][651] of the Ngāi Tahu (Tūtaepatu Lagoon Vesting) Act 1998 (1998 No 16).
-*   Schedule 1: amended, on 21 December 1997, by [section 18][652] of the Waitutu Block Settlement Act 1997 (1997 No 84).
+*   Schedule 1: amended, on 22 October 2003, by [section 4][650] of the Conservation Amendment Act 2003 (2003 No 65).
+*   Schedule 1: amended, on 9 October 2001, by [section 14][651] of the Tutae-Ka-Wetoweto Forest Act 2001 (2001 No 48).
+*   Schedule 1: amended, on 1 October 2000, by [section 12][652] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
+*   Schedule 1: amended, on 1 June 1998, by [section 15][653] of the Ngāi Tahu (Tūtaepatu Lagoon Vesting) Act 1998 (1998 No 16).
+*   Schedule 1: amended, on 21 December 1997, by [section 18][654] of the Waitutu Block Settlement Act 1997 (1997 No 84).
 *   Schedule 1: amended, on 1 July 1993, by [section 118(2)][306] of the Historic Places Act 1993 (1993 No 38).
-*   Schedule 1: amended, on 3 October 1991, by [section 14][653] of the Harbour Boards Dry Land Endowment Revesting Act 1991 (1991 No 104).
-*   Schedule 1: amended, on 21 March 1991, by [section 12][654] of the Sugar Loaf Islands Marine Protected Area Act 1991 (1991 No 8).
-*   Schedule 1: amended, on 19 July 1990, by [section 38][655] of the Conservation Law Reform Act 1990 (1990 No 31).
-*   Schedule 1: amended, on 10 April 1990, by [section 31(1)][656] of the New Zealand Walkways Act 1990 (1990 No 32).
-*   Schedule 1: amended, on 1 June 1989, by [section 55][657] of the Trade in Endangered Species Act 1989 (1989 No 18).
+*   Schedule 1: amended, on 3 October 1991, by [section 14][655] of the Harbour Boards Dry Land Endowment Revesting Act 1991 (1991 No 104).
+*   Schedule 1: amended, on 21 March 1991, by [section 12][656] of the Sugar Loaf Islands Marine Protected Area Act 1991 (1991 No 8).
+*   Schedule 1: amended, on 19 July 1990, by [section 38][657] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Schedule 1: amended, on 10 April 1990, by [section 31(1)][658] of the New Zealand Walkways Act 1990 (1990 No 32).
+*   Schedule 1: amended, on 1 June 1989, by [section 55][659] of the Trade in Endangered Species Act 1989 (1989 No 18).
 
 ---
 
@@ -6952,7 +6955,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Canterbury Provincial Buildings Vesting Act 1928 (1928 No 38)
 
-_Amendment(s) incorporated in the [Act(s)][658]._
+_Amendment(s) incorporated in the [Act(s)][660]._
 
 ##### Coal Mines Act 1979 (1979 No 21)
 
@@ -6960,19 +6963,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Fencing Act 1978 (1978 No 50)
 
-_Amendment(s) incorporated in the [Act(s)][659]._
+_Amendment(s) incorporated in the [Act(s)][661]._
 
 ##### Fire Service Act 1975 (1975 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][660]._
+_Amendment(s) incorporated in the [Act(s)][662]._
 
 ##### Fisheries Act 1983 (1983 No 14)
 
-_Amendment(s) incorporated in the [Act(s)][661]._
+_Amendment(s) incorporated in the [Act(s)][663]._
 
 ##### Forest and Rural Fires Act 1977 (1977 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][662]._
+_Amendment(s) incorporated in the [Act(s)][664]._
 
 ##### Harbours Act 1950 (1950 No 334)
 
@@ -6988,19 +6991,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Hunter Gift for the Settlement of Discharged Soldiers Act 1921 (1921 No 12)
 
-_Amendment(s) incorporated in the [Act(s)][663]._
+_Amendment(s) incorporated in the [Act(s)][665]._
 
 ##### Kapiti Island Public Reserve Act 1897 (1897 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][664]._
+_Amendment(s) incorporated in the [Act(s)][666]._
 
 ##### Lake Wanaka Preservation Act 1973 (1973 No 107)
 
-_Amendment(s) incorporated in the [Act(s)][665]._
+_Amendment(s) incorporated in the [Act(s)][667]._
 
 ##### Land Act 1948 (1948 No 64)
 
-_Amendment(s) incorporated in the [Act(s)][666]._
+_Amendment(s) incorporated in the [Act(s)][668]._
 
 ##### Land Settlement Promotion and Land Acquisition Act 1952 (1952 No 34)
 
@@ -7008,15 +7011,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Land Transfer Act 1952 (1952 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][667]._
+_Amendment(s) incorporated in the [Act(s)][669]._
 
 ##### Litter Act 1979 (1979 No 41)
 
-_Amendment(s) incorporated in the [Act(s)][668]._
+_Amendment(s) incorporated in the [Act(s)][670]._
 
 ##### Local Government Act 1974 (1974 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][669]._
+_Amendment(s) incorporated in the [Act(s)][671]._
 
 ##### Manapouri-Te Anau Development Act 1963 (1963 No 23)
 
@@ -7028,7 +7031,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Maori Housing Amendment Act 1938 (1938 No 17)
 
-_Amendment(s) incorporated in the [Act(s)][670]._
+_Amendment(s) incorporated in the [Act(s)][672]._
 
 ##### Maori Land Amendment and Maori Land Claims Adjustment Act 1926 (1926 No 64)
 
@@ -7036,11 +7039,11 @@ _Amendment(s) incorporated in the [Act(s)][297]._
 
 ##### Maori Purposes Act 1960 (1960 No 120)
 
-_Amendment(s) incorporated in the [Act(s)][671]._
+_Amendment(s) incorporated in the [Act(s)][673]._
 
 ##### Maori Reserved Land Act 1955 (1955 No 38)
 
-_Amendment(s) incorporated in the [Act(s)][672]._
+_Amendment(s) incorporated in the [Act(s)][674]._
 
 ##### Marine Farming Act 1971 (1971 No 29)
 
@@ -7048,11 +7051,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Marine Mammals Protection Act 1978 (1978 No 80)
 
-_Amendment(s) incorporated in the [Act(s)][673]._
+_Amendment(s) incorporated in the [Act(s)][675]._
 
 ##### Marine Reserves Act 1971 (1971 No 15)
 
-_Amendment(s) incorporated in the [Act(s)][674]._
+_Amendment(s) incorporated in the [Act(s)][676]._
 
 ##### Mining Act 1971 (1971 No 25)
 
@@ -7060,7 +7063,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Mining Tenures Registration Act 1962 (1962 No 48)
 
-_Amendment(s) incorporated in the [Act(s)][675]._
+_Amendment(s) incorporated in the [Act(s)][677]._
 
 ##### Ministry of Agriculture and Fisheries Act 1953 (1953 No 7)
 
@@ -7076,11 +7079,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Mount Egmont Vesting Act 1978 (1978 No 38)
 
-_Amendment(s) incorporated in the [Act(s)][676]._
+_Amendment(s) incorporated in the [Act(s)][678]._
 
 ##### National Parks Act 1980 (1980 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][677]._
+_Amendment(s) incorporated in the [Act(s)][679]._
 
 ##### Nature Conservation Council Act 1962 (1962 No 24)
 
@@ -7100,19 +7103,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Public Works Act 1981 (1981 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][678]._
+_Amendment(s) incorporated in the [Act(s)][680]._
 
 ##### Queen Elizabeth the Second National Trust Act 1977 (1977 No 102)
 
-_Amendment(s) incorporated in the [Act(s)][679]._
+_Amendment(s) incorporated in the [Act(s)][681]._
 
 ##### Queenstown Reserves Vesting and Empowering Act 1971 (1971 No 14 (L))
 
-_Amendment(s) incorporated in the [Act(s)][680]._
+_Amendment(s) incorporated in the [Act(s)][682]._
 
 ##### Reserves Act 1977 (1977 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][681]._
+_Amendment(s) incorporated in the [Act(s)][683]._
 
 ##### Reserves and Other Lands Disposal Act 1954 (1954 No 58)
 
@@ -7120,15 +7123,15 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Reserves and Other Lands Disposal Act 1956 (1956 No 53)
 
-_Amendment(s) incorporated in the [Act(s)][682]._
+_Amendment(s) incorporated in the [Act(s)][684]._
 
 ##### Reserves and Other Lands Disposal Act 1971 (1971 No 141)
 
-_Amendment(s) incorporated in the [Act(s)][683]._
+_Amendment(s) incorporated in the [Act(s)][685]._
 
 ##### Rotorua Town Lands Act 1920 (1920 No 57)
 
-_Amendment(s) incorporated in the [Act(s)][684]._
+_Amendment(s) incorporated in the [Act(s)][686]._
 
 ##### Sand Drift Act 1908 (1908 No 169)
 
@@ -7136,7 +7139,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### State-Owned Enterprises Act 1986 (1986 No 124)
 
-_Amendment(s) incorporated in the [Act(s)][685]._
+_Amendment(s) incorporated in the [Act(s)][687]._
 
 ##### Town and Country Planning Act 1977 (1977 No 121)
 
@@ -7144,7 +7147,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Waitangi Endowment Act 1932--33 (1932--33 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][686]._
+_Amendment(s) incorporated in the [Act(s)][688]._
 
 ##### Water and Soil Conservation Act 1967 (1967 No 135)
 
@@ -7152,7 +7155,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Wild Animal Control Act 1977 (1977 No 111)
 
-_Amendment(s) incorporated in the [Act(s)][687]._
+_Amendment(s) incorporated in the [Act(s)][689]._
 
 ##### Wildlife Act 1953 (1953 No 31)
 
@@ -7167,7 +7170,7 @@ Consequential amendments to regulations
 
 ##### Buller River Mouth Wildlife Refuge Order 1973 (SR 1973/272)
 
-_Amendment(s) incorporated in the [order(s)][688]_.
+_Amendment(s) incorporated in the [order(s)][690]_.
 
 ##### Central North Island Wildlife Conservancy Council Regulations 1980 (SR 1980/48)
 
@@ -7175,7 +7178,7 @@ _Amendment(s) incorporated in the regulations_.
 
 ##### Chatham Islands (Wildlife) Notice 1977 (SR 1977/106)
 
-_Amendment(s) incorporated in the [notice(s)][689]_.
+_Amendment(s) incorporated in the [notice(s)][691]_.
 
 ##### Council of North Island Acclimatisation Societies Regulations 1959 (SR 1959/73)
 
@@ -7187,27 +7190,27 @@ _Amendment(s) incorporated in the regulations_.
 
 ##### Freshwater Fish Farming Regulations 1983 (SR 1983/278)
 
-_Amendment(s) incorporated in the [regulations][690]_.
+_Amendment(s) incorporated in the [regulations][692]_.
 
 ##### Freshwater Fisheries Regulations 1983 (SR 1983/277)
 
-_Amendment(s) incorporated in the [regulations][691]_.
+_Amendment(s) incorporated in the [regulations][693]_.
 
 ##### Hart's Creek Wildlife Refuge Order 1973 (SR 1973/273)
 
-_Amendment(s) incorporated in the [order(s)][692]_.
+_Amendment(s) incorporated in the [order(s)][694]_.
 
 ##### Hawksbury Lagoon Wildlife Refuge Order 1974 (SR 1974/28)
 
-_Amendment(s) incorporated in the [order(s)][693]_.
+_Amendment(s) incorporated in the [order(s)][695]_.
 
 ##### Lake Grasmere Wildlife Refuge Order 1968 (SR 1968/145)
 
-_Amendment(s) incorporated in the [order(s)][694]_.
+_Amendment(s) incorporated in the [order(s)][696]_.
 
 ##### Lake Rotomahana Wildlife Refuge Order 1967 (SR 1967/198)
 
-_Amendment(s) incorporated in the [order(s)][695]_.
+_Amendment(s) incorporated in the [order(s)][697]_.
 
 ##### Lake Rotorua (Motutara) Wildlife Refuge Order 1967 (SR 1967/53)
 
@@ -7215,15 +7218,15 @@ _Amendment(s) incorporated in the order(s)_.
 
 ##### Lakes Orakai, Tutira, and Waikopiro Wildlife Refuge Order 1973 (SR 1973/274)
 
-_Amendment(s) incorporated in the [order(s)][696]_.
+_Amendment(s) incorporated in the [order(s)][698]_.
 
 ##### Land Act Regulations 1949 (SR 1949/37)
 
-_Amendment(s) incorporated in the [regulations][697]_.
+_Amendment(s) incorporated in the [regulations][699]_.
 
 ##### Little Shag Notice 1955 (SR 1955/181)
 
-_Amendment(s) incorporated in the [notice(s)][698]_.
+_Amendment(s) incorporated in the [notice(s)][700]_.
 
 ##### Taupo Fishing Regulations 1984 (SR 1984/347)
 
@@ -7235,35 +7238,35 @@ _Amendment(s) incorporated in the [regulations][631]_.
 
 ##### Wildlife Regulations 1955 (SR 1962/199)
 
-_Amendment(s) incorporated in the [regulations][699]_.
+_Amendment(s) incorporated in the [regulations][701]_.
 
 ##### Wildlife Sanctuary (Aldermen Islands) Order 1965 (SR 1965/81)
 
-_Amendment(s) incorporated in the [order(s)][700]_.
+_Amendment(s) incorporated in the [order(s)][702]_.
 
 ##### Wildlife Sanctuary (the Brothers Islands) Order 1970 (SR 1970/87)
 
-_Amendment(s) incorporated in the [order(s)][701]_.
+_Amendment(s) incorporated in the [order(s)][703]_.
 
 ##### Wildlife Sanctuary (Gannet Island) Order 1980 (SR 1980/90)
 
-_Amendment(s) incorporated in the [order(s)][702]_.
+_Amendment(s) incorporated in the [order(s)][704]_.
 
 ##### Wildlife Sanctuary (Karewa Island) Order 1965 (SR 1965/182)
 
-_Amendment(s) incorporated in the [order(s)][703]_.
+_Amendment(s) incorporated in the [order(s)][705]_.
 
 ##### Wildlife Sanctuary (Mokohinau Islands) Order 1965 (SR 1965/183)
 
-_Amendment(s) incorporated in the [order(s)][704]_.
+_Amendment(s) incorporated in the [order(s)][706]_.
 
 ##### Wildlife Sanctuary (Motunau Island) Order 1969 (SR 1969/165)
 
-_Amendment(s) incorporated in the [order(s)][705]_.
+_Amendment(s) incorporated in the [order(s)][707]_.
 
 ##### Wildlife Sanctuary (Otamatou Rocks) Order 1965 (SR 1965/184)
 
-_Amendment(s) incorporated in the [order(s)][706]_.
+_Amendment(s) incorporated in the [order(s)][708]_.
 
 ##### Wildlife Sanctuary (Stephens Island) Order 1966 (SR 1966/63)
 
@@ -7271,23 +7274,23 @@ _Amendment(s) incorporated in the order(s)_.
 
 ##### Wildlife Sanctuary/Sulphur Point, Lake Rotorua Order 1964 (SR 1964/201)
 
-_Amendment(s) incorporated in the [order(s)][707]_.
+_Amendment(s) incorporated in the [order(s)][709]_.
 
 ##### Wildlife Sanctuary (Taiaroa Head Foreshore) Order 1979 (SR 1979/146)
 
-_Amendment(s) incorporated in the [order(s)][708]_.
+_Amendment(s) incorporated in the [order(s)][710]_.
 
 ##### Wildlife Sanctuary (Trio Islands) Order 1965 (SR 1965/1985)
 
-_Amendment(s) incorporated in the [order(s)][709]_.
+_Amendment(s) incorporated in the [order(s)][711]_.
 
 ##### Wildlife Sanctuary (Whangamata Islands) Order 1976 (SR 1976/301)
 
-_Amendment(s) incorporated in the [order(s)][710]_.
+_Amendment(s) incorporated in the [order(s)][712]_.
 
 ##### Wildlife Sanctuary (White Rocks, Duffers Reef, and Sentinel Rock) Order 1966 (SR 1966/131)
 
-_Amendment(s) incorporated in the [order(s)][711]_.
+_Amendment(s) incorporated in the [order(s)][713]_.
 
 ---
 
@@ -7296,7 +7299,7 @@ Land that may be protected area
 
 [s 46][234]
 
-*   Schedule 4: added, on 13 March 1996, by [section 46][712] of the Conservation Amendment Act 1996 (1996 No 1).
+*   Schedule 4: added, on 13 March 1996, by [section 46][714] of the Conservation Amendment Act 1996 (1996 No 1).
 *   Schedule 4 heading: substituted, on 21 October 2000, by [section 22][389] of the Forests (West Coast Accord) Act 2000 (2000 No 45).
 
 **Land** **Category A or B** **Proposed purpose** **Boundary documents**
@@ -7444,7 +7447,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Conservation Amendment Act 2010][713].
+*   This Act is the [Conservation Amendment Act 2010][715].
 
 ##### 2 Commencement
     
@@ -7488,21 +7491,23 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][714] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][715] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][716] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][717] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][716] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][717] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][718] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][719] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Conservation (Natural Heritage Protection) Act 2013 (2013 No 89): [Part 1][718]
+*   Game Animal Council Act 2013 (2013 No 98): [section 41(2)][648]
     
-    [Conservation Amendment Act 2013][719] (2013 No 15)
+    Conservation (Natural Heritage Protection) Act 2013 (2013 No 89): [Part 1][720]
+    
+    [Conservation Amendment Act 2013][721] (2013 No 15)
     
     Legislation Act 2012 (2012 No 119): [section 77(3)][570]
     
-    [Conservation Amendment Act 2012][720] (2012 No 61)
+    [Conservation Amendment Act 2012][722] (2012 No 61)
     
     Search and Surveillance Act 2012 (2012 No 24): [section 212][545]
     
@@ -7510,9 +7515,9 @@ Commencementsee section 2
     
     Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3): [sections 127(2)][359], [128][302]
     
-    [Conservation Amendment Act (No 2) 2010][721] (2010 No 54)
+    [Conservation Amendment Act (No 2) 2010][723] (2010 No 54)
     
-    [Conservation Amendment Act 2010][713] (2010 No 14)
+    [Conservation Amendment Act 2010][715] (2010 No 14)
     
     Walking Access Act 2008 (2008 No 101): [section 82][312]
     
@@ -7522,15 +7527,15 @@ Commencementsee section 2
     
     Protected Objects Amendment Act 2006 (2006 No 37): [section 35][558]
     
-    [Conservation Amendment Act 2005][722] (2005 No 47)
+    [Conservation Amendment Act 2005][724] (2005 No 47)
     
     Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][455]
     
-    [Conservation Amendment Act 2004][723] (2004 No 105)
+    [Conservation Amendment Act 2004][725] (2004 No 105)
     
     Foreshore and Seabed Act 2004 (2004 No 93): [section 103(1)][436]
     
-    [Conservation Amendment Act 2003][724] (2003 No 65)
+    [Conservation Amendment Act 2003][726] (2003 No 65)
     
     Gambling Act 2003 (2003 No 51): [section 374][310]
     
@@ -7542,25 +7547,25 @@ Commencementsee section 2
     
     Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][327]
     
-    [Conservation Amendment Act 2001][725] (2001 No 59)
+    [Conservation Amendment Act 2001][727] (2001 No 59)
     
-    Tutae-Ka-Wetoweto Forest Act 2001 (2001 No 48): [section 14][649]
+    Tutae-Ka-Wetoweto Forest Act 2001 (2001 No 48): [section 14][651]
     
     Public Audit Act 2001 (2001 No 10): [section 53][464]
     
     State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23): [clause 4][434]
     
-    [Conservation Amendment Act 2000][726] (2000 No 56)
+    [Conservation Amendment Act 2000][728] (2000 No 56)
     
     Forests (West Coast Accord) Act 2000 (2000 No 45): [section 22][389]
     
-    Archives, Culture, and Heritage Reform Act 2000 (2000 No 32): [section 12][650]
+    Archives, Culture, and Heritage Reform Act 2000 (2000 No 32): [section 12][652]
     
     Hauraki Gulf Marine Park Act 2000 (2000 No 1): [section 49][377]
     
     Animal Welfare Act 1999 (1999 No 142): [section 194][308]
     
-    [Conservation Amendment Act 1999][727] (1999 No 30)
+    [Conservation Amendment Act 1999][729] (1999 No 30)
     
     Land Transport Act 1998 (1998 No 110): [section 215(1)][311]
     
@@ -7568,11 +7573,11 @@ Commencementsee section 2
     
     Electricity Industry Reform Act 1998 (1998 No 88): [section 100][432]
     
-    [Conservation Amendment Act 1998][728] (1998 No 33)
+    [Conservation Amendment Act 1998][730] (1998 No 33)
     
-    Ngāi Tahu (Tūtaepatu Lagoon Vesting) Act 1998 (1998 No 16): [section 15][651]
+    Ngāi Tahu (Tūtaepatu Lagoon Vesting) Act 1998 (1998 No 16): [section 15][653]
     
-    Waitutu Block Settlement Act 1997 (1997 No 84): [section 18][652]
+    Waitutu Block Settlement Act 1997 (1997 No 84): [section 18][654]
     
     Conservation Amendment Act (No 3) 1996 (1996 No 116)
     
@@ -7584,7 +7589,7 @@ Commencementsee section 2
     
     Conservation Amendment Act (No 2) 1996 (1996 No 14)
     
-    [Conservation Amendment Act 1996][729] (1996 No 1)
+    [Conservation Amendment Act 1996][731] (1996 No 1)
     
     Waikato Raupatu Claims Settlement Act 1995 (1995 No 58): [section 25][343]
     
@@ -7604,11 +7609,11 @@ Commencementsee section 2
     
     Crown Research Institutes Act 1992 (1992 No 47): [section 46(1)][435]
     
-    Harbour Boards Dry Land Endowment Revesting Act 1991 (1991 No 104): [section 14][653]
+    Harbour Boards Dry Land Endowment Revesting Act 1991 (1991 No 104): [section 14][655]
     
     Resource Management Act 1991 (1991 No 69): [section 362][418]
     
-    Sugar Loaf Islands Marine Protected Area Act 1991 (1991 No 8): [section 12][654]
+    Sugar Loaf Islands Marine Protected Area Act 1991 (1991 No 8): [section 12][656]
     
     Conservation Amendment Act 1990 (1990 No 106)
     
@@ -7618,15 +7623,15 @@ Commencementsee section 2
     
     [Conservation Act Commencement Order 1990][316] (SR 1990/115)
     
-    New Zealand Walkways Act 1990 (1990 No 32): [section 31(1)][656]
+    New Zealand Walkways Act 1990 (1990 No 32): [section 31(1)][658]
     
-    Conservation Law Reform Act 1990 (1990 No 31): [Part 1][730]
+    Conservation Law Reform Act 1990 (1990 No 31): [Part 1][732]
     
     Crown Forest Assets Act 1989 (1989 No 99): [section 44][360]
     
     Public Finance Act 1989 (1989 No 44): [sections 65R(3)][535], [86(1)][536]
     
-    Trade in Endangered Species Act 1989 (1989 No 18): [section 55][657]
+    Trade in Endangered Species Act 1989 (1989 No 18): [section 55][659]
     
     Conservation Amendment Act (No 2) 1988 (1988 No 237)
     
@@ -8273,99 +8278,101 @@ Commencementsee section 2
 [632]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM38246
 [633]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208747
 [634]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM205653
-[635]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM248777
-[636]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM134246
-[637]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM411130
-[638]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM21218
-[639]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM216730
-[640]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM425352
-[641]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM8800
-[642]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69344
-[643]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM439124
-[644]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM99419
-[645]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM213209
-[646]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM413913
-[647]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3040709
-[648]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM216552
-[649]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM99452
-[650]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM67196
-[651]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM425391
-[652]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM413966
-[653]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM249317
-[654]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM228919
-[655]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208751
-[656]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM209954
-[657]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM147046
-[658]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM205662
-[659]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM21842
-[660]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM433577
-[661]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM66587
-[662]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM442952
-[663]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM193466
-[664]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM134255
-[665]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM411147
-[666]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM251178
-[667]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM270447
-[668]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM33087
-[669]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM420156
-[670]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM224959
-[671]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM325980
-[672]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM290459
-[673]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM25116
-[674]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM397843
-[675]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM339694
-[676]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM21226
-[677]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM36968
-[678]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM46307
-[679]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM8806
-[680]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69350
-[681]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444310
-[682]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM304382
-[683]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM405348
-[684]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM192065
-[685]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM98927
-[686]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM213800
-[687]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM16628
-[688]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM41187
-[689]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM56874
-[690]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM93755
-[691]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM92491
-[692]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM41501
-[693]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM42013
-[694]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM29205
-[695]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM26912
-[696]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM41514
-[697]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM4007
-[698]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM9793
-[699]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM8734
-[700]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM22334
-[701]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM32152
-[702]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69238
-[703]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM22361
-[704]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM22387
-[705]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM31319
-[706]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM22814
-[707]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM20712
-[708]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM66659
-[709]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM22844
-[710]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM53806
-[711]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM24415
-[712]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373336
-[713]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM2853102
-[714]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM2998516
-[715]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM2998515
-[716]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM2998532
-[717]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[718]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM4425513
-[719]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM5137305
-[720]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM4444000
-[721]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3040700
-[722]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM347630
-[723]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM324329
-[724]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM216545
-[725]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM110997
-[726]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM75772
-[727]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM23934
-[728]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM426299
-[729]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM372884
-[730]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM207917
+[635]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM4105012
+[636]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM248777
+[637]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM134246
+[638]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM411130
+[639]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM21218
+[640]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM216730
+[641]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM425352
+[642]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM8800
+[643]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69344
+[644]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM439124
+[645]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM99419
+[646]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM213209
+[647]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM413913
+[648]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM4105502
+[649]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3040709
+[650]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM216552
+[651]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM99452
+[652]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM67196
+[653]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM425391
+[654]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM413966
+[655]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM249317
+[656]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM228919
+[657]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM208751
+[658]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM209954
+[659]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM147046
+[660]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM205662
+[661]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM21842
+[662]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM433577
+[663]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM66587
+[664]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM442952
+[665]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM193466
+[666]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM134255
+[667]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM411147
+[668]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM251178
+[669]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM270447
+[670]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM33087
+[671]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM420156
+[672]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM224959
+[673]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM325980
+[674]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM290459
+[675]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM25116
+[676]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM397843
+[677]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM339694
+[678]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM21226
+[679]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM36968
+[680]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM46307
+[681]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM8806
+[682]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69350
+[683]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM444310
+[684]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM304382
+[685]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM405348
+[686]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM192065
+[687]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM98927
+[688]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM213800
+[689]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM16628
+[690]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM41187
+[691]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM56874
+[692]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM93755
+[693]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM92491
+[694]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM41501
+[695]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM42013
+[696]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM29205
+[697]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM26912
+[698]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM41514
+[699]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM4007
+[700]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM9793
+[701]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM8734
+[702]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM22334
+[703]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM32152
+[704]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM69238
+[705]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM22361
+[706]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM22387
+[707]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM31319
+[708]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM22814
+[709]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM20712
+[710]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM66659
+[711]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM22844
+[712]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM53806
+[713]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM24415
+[714]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM373336
+[715]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM2853102
+[716]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM2998516
+[717]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM2998515
+[718]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM2998532
+[719]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[720]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM4425513
+[721]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM5137305
+[722]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM4444000
+[723]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM3040700
+[724]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM347630
+[725]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM324329
+[726]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM216545
+[727]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM110997
+[728]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM75772
+[729]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM23934
+[730]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM426299
+[731]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM372884
+[732]: http://www.legislation.govt.nz/act/public/1987/0065/latest/link.aspx?id=DLM207917
