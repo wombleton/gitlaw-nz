@@ -1,5 +1,5 @@
 Reprint  
-as at 25 October 2013
+as at 28 November 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -287,7 +287,9 @@ An Act to make better provision for the control of harmful species of introduced
     
     *   (b) includes the whole or any part of the carcass of any such animal:
     
-    *   (c) except for deer lawfully kept in captivity for the purposes of farming, does not include any animal kept in captivity pursuant to a permit or licence that is effective for the purposes of [section 12][16] during the currency of the permit or licence and the observance of all conditions under which the permit or licence has been issued
+    *   (c) except for deer lawfully kept in captivity for the purposes of farming, does not include any animal kept in captivity pursuant to a permit or licence that is effective for the purposes of [section 12][16] during the currency of the permit or licence and the observance of all conditions under which the permit or licence has been issued:
+    
+    *   (d) does not include an animal that is part of a herd designated to be a herd of special interest under [section 16][66] of the Game Animal Council Act 2013
     
     _wild animal recovery operation_ means the use of an aircraft (whether or not for hire or reward) to carry out 1 or more of the following activities:
         
@@ -301,69 +303,71 @@ An Act to make better provision for the control of harmful species of introduced
     
     Compare: 1956 No 6 s 2; 1967 No 143 s 2
     
-    Section 2(1) **activity**: inserted, on 1 October 1999, by [section 2(1)][66] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 2(1) **activity**: inserted, on 1 October 1999, by [section 2(1)][67] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
     
-    Section 2(1) **aerodrome**: amended, on 1 September 1990, pursuant to [section 101(1)][67] of the Civil Aviation Act 1990 (1990 No 98).
+    Section 2(1) **aerodrome**: amended, on 1 September 1990, pursuant to [section 101(1)][68] of the Civil Aviation Act 1990 (1990 No 98).
     
-    Section 2(1) **aircraft**: amended, on 1 September 1990, pursuant to [section 101(1)][67] of the Civil Aviation Act 1990 (1990 No 98).
+    Section 2(1) **aircraft**: amended, on 1 September 1990, pursuant to [section 101(1)][68] of the Civil Aviation Act 1990 (1990 No 98).
     
-    Section 2(1) **catchment authority**: repealed, on 1 October 1997, by [section 2(2)][66] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 2(1) **catchment authority**: repealed, on 1 October 1997, by [section 2(2)][67] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
     
-    Section 2(1) **concession**: inserted, on 1 October 1999, by [section 2(3)][66] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 2(1) **concession**: inserted, on 1 October 1999, by [section 2(3)][67] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
     
-    Section 2(1) **Conservancy**: repealed, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 2(1) **Conservancy**: repealed, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 2(1) **conservation management strategy**: inserted, on 10 April 1990, by [section 37][69] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 2(1) **conservation management strategy**: inserted, on 10 April 1990, by [section 37][70] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 2(1) **Conservator**: repealed, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 2(1) **Conservator**: repealed, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 2(1) **Department**: inserted, 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 2(1) **Department**: inserted, 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 2(1) **Director-General**: substituted, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 2(1) **Director-General**: substituted, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
     Section 2(1) **firearm**: amended, on 12 October 1982, by section 2(1) of the Wild Animal Control Amendment Act 1982 (1982 No 26).
     
-    Section 2(1) **Forest Officer**: repealed, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 2(1) **Forest Officer**: repealed, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 2(1) **Forest Service**: repealed, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 2(1) **Forest Service**: repealed, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 2(1) **hunt or kill** paragraph (e): added, on 1 October 1999, by [section 2(4)][66] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 2(1) **hunt or kill** paragraph (e): added, on 1 October 1999, by [section 2(4)][67] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
     
-    Section 2(1) **licence** or **permit**: amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 2(1) **licence** or **permit**: amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 2(1) **local authority**: substituted, on 1 July 2003, by [section 262][70] of the Local Government Act 2002 (2002 No 84).
+    Section 2(1) **local authority**: substituted, on 1 July 2003, by [section 262][71] of the Local Government Act 2002 (2002 No 84).
     
     Section 2(1) **Minister**: substituted, on 1 April 1987, by section 11(1) of the State-Owned Enterprises Amendment Act 1987 (1987 No 117).
     
-    Section 2(1) **regional council**: substituted, on 1 July 2003, by [section 262][70] of the Local Government Act 2002 (2002 No 84).
+    Section 2(1) **regional council**: substituted, on 1 July 2003, by [section 262][71] of the Local Government Act 2002 (2002 No 84).
     
-    Section 2(1) **regulated deer farm**: inserted, on 25 November 1994, by [section 2(1)][71] of the Wild Animal Control Amendment Act 1994 (1994 No 114).
+    Section 2(1) **regulated deer farm**: inserted, on 25 November 1994, by [section 2(1)][72] of the Wild Animal Control Amendment Act 1994 (1994 No 114).
     
-    Section 2(1) **safari park**: inserted, on 25 November 1994, by [section 2(1)][71] of the Wild Animal Control Amendment Act 1994 (1994 No 114).
+    Section 2(1) **safari park**: inserted, on 25 November 1994, by [section 2(1)][72] of the Wild Animal Control Amendment Act 1994 (1994 No 114).
     
-    Section 2(1) **warranted officer**: inserted, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 2(1) **warranted officer**: inserted, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
     Section 2(1) **wild animal** paragraph (a)(i): substituted, on 14 December 1979, by section 2(2) of the Wild Animal Control Amendment Act 1979 (1979 No 146).
     
     Section 2(1) **wild animal** paragraph (a)(ii): substituted, on 14 December 1979, by section 2(2) of the Wild Animal Control Amendment Act 1979 (1979 No 146).
     
-    Section 2(1) **wild animal** paragraph (a)(ii): amended, on 18 September 2012, by [section 90(2)][72] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 2(1) **wild animal** paragraph (a)(ii): amended, on 18 September 2012, by [section 90(2)][73] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 2(1) **wild animal** paragraph (a)(iii): substituted, on 25 November 1994, by [section 2(2)][71] of the Wild Animal Control Amendment Act 1994 (1994 No 114).
+    Section 2(1) **wild animal** paragraph (a)(iii): substituted, on 25 November 1994, by [section 2(2)][72] of the Wild Animal Control Amendment Act 1994 (1994 No 114).
     
-    Section 2(1) **wild animal** paragraph (a)(iii)(B): amended, on 21 February 2012, by [section 75][73] of the National Animal Identification and Tracing Act 2012 (2012 No 2).
+    Section 2(1) **wild animal** paragraph (a)(iii)(B): amended, on 21 February 2012, by [section 75][74] of the National Animal Identification and Tracing Act 2012 (2012 No 2).
     
-    Section 2(1) **wild animal** paragraph (a)(iii)(B): amended, on 7 May 1999, by [section 2][74] of the Wild Animal Control Amendment Act 1999 (1999 No 52).
+    Section 2(1) **wild animal** paragraph (a)(iii)(B): amended, on 7 May 1999, by [section 2][75] of the Wild Animal Control Amendment Act 1999 (1999 No 52).
     
     Section 2(1) **wild animal** paragraph (c): amended, on 12 October 1982, by section 3(1) of the Wild Animal Control Amendment Act 1982 (1982 No 26).
     
-    Section 2(1) **wild animal recovery operation**: added, on 1 October 1999, by [section 2(7)][66] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 2(1) **wild animal** paragraph (d): inserted, on 28 November 2013, by [section 41(2)][76] of the Game Animal Council Act 2013 (2013 No 98).
     
-    Section 2(1) **wild animal recovery service**: repealed, on 1 October 1999, by [section 2(7)][66] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 2(1) **wild animal recovery operation**: added, on 1 October 1999, by [section 2(7)][67] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
     
-    Section 2(1) **wild animal recovery service licence**: repealed, on 1 October 1999, by [section 2(7)][66] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 2(1) **wild animal recovery service**: repealed, on 1 October 1999, by [section 2(7)][67] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
     
-    Section 2(2): added, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 2(1) **wild animal recovery service licence**: repealed, on 1 October 1999, by [section 2(7)][67] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    
+    Section 2(2): added, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
 
 ##### 3 Act to bind Crown
     
@@ -384,7 +388,7 @@ Wild animal control
     
     *   (c) provide for the regulation of recreational hunting, commercial hunting, wild animal recovery operations, and the training and employment of staff.
     
-    Section 4(2)(c): amended, on 1 October 1999, by [section 3][75] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 4(2)(c): amended, on 1 October 1999, by [section 3][77] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
 
 ##### 5 Minister's general powers
     
@@ -450,11 +454,11 @@ Wild animal control
     
     Compare: 1956 No 6 s 4
     
-    Section 5(1): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 5(1): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 5(1)(ca): inserted, on 10 April 1990, by [section 37][69] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 5(1)(ca): inserted, on 10 April 1990, by [section 37][70] of the Conservation Law Reform Act 1990 (1990 No 31).
     
-    Section 5(2)(a): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 5(2)(a): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
 
 ##### 5A General provisions relating to general policies and wild animal control plans
     
@@ -464,9 +468,9 @@ Wild animal control
     
     *   (b) any provision in any conservation management strategy.
     
-    (2) For the purposes of [section 5(1)(ca)][7], [sections 17B][76] (except subsections (1) and (2)) and [17N][77] of the Conservation Act 1987 shall, with any necessary modifications, apply with respect to such general policies.
+    (2) For the purposes of [section 5(1)(ca)][7], [sections 17B][78] (except subsections (1) and (2)) and [17N][79] of the Conservation Act 1987 shall, with any necessary modifications, apply with respect to such general policies.
     
-    Section 5A: inserted, on 10 April 1990, by [section 37][69] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 5A: inserted, on 10 April 1990, by [section 37][70] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 5B Management of wild animals
     
@@ -478,7 +482,7 @@ Wild animal control
     
     *   (c) conservation management strategies.
     
-    Section 5B: inserted, on 10 April 1990, by [section 37][69] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 5B: inserted, on 10 April 1990, by [section 37][70] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 6 Delegation of Minister's powers
     
@@ -498,11 +502,11 @@ Wild animal control
     
     Compare: 1956 No 6 s 7
     
-    Section 6(1): amended, on 1 October 1999, by [section 4(1)][78] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 6(1): amended, on 1 October 1999, by [section 4(1)][80] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
     
-    Section 6(1): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 6(1): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 6(1A): inserted, on 1 October 1999, by [section 4(2)][78] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 6(1A): inserted, on 1 October 1999, by [section 4(2)][80] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
 
 ##### 7 Director-General may delegate certain powers
     
@@ -520,7 +524,7 @@ Wild animal control
     
     (6) Any such delegation shall, until revoked, continue in force according to its tenor, notwithstanding the fact that the Director-General by whom it was made may have ceased to hold office, and shall continue to have effect as if made by the successor in office of that Director-General; and in the event of the holder of a specified office to whom any such delegation has been made ceasing to hold office it shall continue to have effect as if made to the person for the time being holding that office.
     
-    Section 7(1): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 7(1): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
     Section 7(1): amended, on 12 October 1982, by section 3(2) of the Wild Animal Control Amendment Act 1982 (1982 No 26).
 
@@ -558,15 +562,15 @@ Wild animal control
     
     Section 8(2): amended, on 14 December 1979, by section 3(b) of the Wild Animal Control Amendment Act 1979 (1979 No 146).
     
-    Section 8(3): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 8(3): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 8(4): amended, on 1 October 1999, by [section 5][79] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 8(4): amended, on 1 October 1999, by [section 5][81] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
     
-    Section 8(4) proviso: amended, on 7 July 2010, by [section 4][80] of the Wild Animal Control Amendment Act 2010 (2010 No 92).
+    Section 8(4) proviso: amended, on 7 July 2010, by [section 4][82] of the Wild Animal Control Amendment Act 2010 (2010 No 92).
     
     Section 8(4) proviso: amended, on 1 April 1987, by section 11(1) of the State-Owned Enterprises Amendment Act 1987 (1987 No 117).
     
-    Section 8(4)(b): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 8(4)(b): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
 
 ##### 9 Ownership of wild animals
     
@@ -598,7 +602,7 @@ Wild animal control
     
     *   (b) by any unlawful means while he is lawfully on any land; or
     
-    *   (c) in the course of any hunting if, during that hunting, he commits or has committed any offence against this Act, or against the [Trespass Act 1980][81], the [Civil Aviation Act 1990][82], or any other enactment directly related to the purposes of this Act or to the protection or administration of the land or of the flora or fauna of the land whereon the offence took place; or
+    *   (c) in the course of any hunting if, during that hunting, he commits or has committed any offence against this Act, or against the [Trespass Act 1980][83], the [Civil Aviation Act 1990][84], or any other enactment directly related to the purposes of this Act or to the protection or administration of the land or of the flora or fauna of the land whereon the offence took place; or
     
     *   (d) by discharging a firearm into or over or across any land without the authority of the owner or occupier or authority in control of the land.
     
@@ -606,13 +610,13 @@ Wild animal control
     
     Compare: 1956 No 6 s 9
     
-    Section 9(2): substituted, on 7 May 1999, by [section 3][83] of the Wild Animal Control Amendment Act 1999 (1999 No 52).
+    Section 9(2): substituted, on 7 May 1999, by [section 3][85] of the Wild Animal Control Amendment Act 1999 (1999 No 52).
     
-    Section 9(2)(d)(i): replaced, on 21 February 2012, by [section 75][73] of the National Animal Identification and Tracing Act 2012 (2012 No 2).
+    Section 9(2)(d)(i): replaced, on 21 February 2012, by [section 75][74] of the National Animal Identification and Tracing Act 2012 (2012 No 2).
     
-    Section 9(3)(c): amended, on 1 September 1990, pursuant to [section 101(1)][67] of the Civil Aviation Act 1990 (1990 No 98).
+    Section 9(3)(c): amended, on 1 September 1990, pursuant to [section 101(1)][68] of the Civil Aviation Act 1990 (1990 No 98).
     
-    Section 9(3)(c): amended, on 1 January 1981, pursuant to [section 14][84] of the Trespass Act 1980 (1980 No 65).
+    Section 9(3)(c): amended, on 1 January 1981, pursuant to [section 14][86] of the Trespass Act 1980 (1980 No 65).
     
     Section 9(4): substituted, on 19 October 1978, by section 2 of the Wild Animal Control Amendment Act 1978 (1978 No 135).
     
@@ -640,7 +644,7 @@ Wild animal control
     
     Compare: 1956 No 6 s 16
     
-    Section 10(2): repealed, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 10(2): repealed, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
 
 ##### 11 Restrictions on liberation of wild animals
     
@@ -716,75 +720,75 @@ Wild animal control
     
     (10) Any warranted officer shall have power to enter at all reasonable times on the land or premises of the holder of any permit or licence to which any of the foregoing provisions of this section applies, or any other land or premises where he has reasonable cause to suspect that any animal is being kept in breach of this section, and inspect any part of the land or premises for the purpose of ascertaining whether the conditions of the permit or licence are being complied with or, as the case may be, whether any animal is being kept in contravention of this section:
     
-    provided that a warranted officer shall not enter any dwellinghouse or the enclosed garden or curtilage of any dwellinghouse, unless he is authorised by a warrant in the manner provided in [subpart 3][85] of Part 4 of the Search and Surveillance Act 2012 by an issuing officer (within the meaning of [section 3][86] of that Act), who shall not grant such a warrant unless he is satisfied that the warranted officer has reasonable grounds for requiring entry into the dwellinghouse, garden, or curtilage.
+    provided that a warranted officer shall not enter any dwellinghouse or the enclosed garden or curtilage of any dwellinghouse, unless he is authorised by a warrant in the manner provided in [subpart 3][87] of Part 4 of the Search and Surveillance Act 2012 by an issuing officer (within the meaning of [section 3][88] of that Act), who shall not grant such a warrant unless he is satisfied that the warranted officer has reasonable grounds for requiring entry into the dwellinghouse, garden, or curtilage.
     
-    (11) Any issuing officer (within the meaning of [section 3][86] of the Search and Surveillance Act 2012) who is satisfied that there are reasonable grounds to believe that any breach of this section has been or is being committed may, by warrant under his hand, empower a warranted officer to enter any dwellinghouse, garden, or curtilage for the purpose of detecting that offence.
+    (11) Any issuing officer (within the meaning of [section 3][88] of the Search and Surveillance Act 2012) who is satisfied that there are reasonable grounds to believe that any breach of this section has been or is being committed may, by warrant under his hand, empower a warranted officer to enter any dwellinghouse, garden, or curtilage for the purpose of detecting that offence.
     
     (11A) \[Repealed\]
     
     (12) Where any wild animal lawfully held under a permit issued under this Act escapes from its enclosure and strays from the property of the lawful owner, it shall be deemed to be a wild animal and may be hunted or killed as provided for in [section 8][12].
     
-    (13) The provisions of [Part 4][87] of the Search and Surveillance Act 2012 (except [sections 118][88] and [119][89]) apply.
+    (13) The provisions of [Part 4][89] of the Search and Surveillance Act 2012 (except [sections 118][90] and [119][91]) apply.
     
     Compare: 1956 No 6 s 8A; 1967 No 143 s 3
     
     Section 12(1): amended, on 14 December 1979, by section 4(1) of the Wild Animal Control Amendment Act 1979 (1979 No 146).
     
-    Section 12(1)(b): substituted, on 1 October 1997, by [section 6(1)][90] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 12(1)(b): substituted, on 1 October 1997, by [section 6(1)][92] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
     
-    Section 12(1)(c): added, on 1 October 1997, by [section 6(1)][90] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 12(1)(c): added, on 1 October 1997, by [section 6(1)][92] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
     
-    Section 12(2): amended, on 21 February 2012, by [section 75][73] of the National Animal Identification and Tracing Act 2012 (2012 No 2).
+    Section 12(2): amended, on 21 February 2012, by [section 75][74] of the National Animal Identification and Tracing Act 2012 (2012 No 2).
     
-    Section 12(3)(a): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 12(3)(a): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 12(3)(b): amended, on 1 July 1995, pursuant to [section 6(1)(a)][91] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
+    Section 12(3)(b): amended, on 1 July 1995, pursuant to [section 6(1)(a)][93] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
     
-    Section 12(3)(b): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 12(3)(b): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 12(3)(c): amended, on 1 July 1995, pursuant to [section 6(1)(a)][91] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
+    Section 12(3)(c): amended, on 1 July 1995, pursuant to [section 6(1)(a)][93] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
     
-    Section 12(3)(c): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 12(3)(c): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 12(4): substituted, on 1 October 1997, by [section 6(2)][90] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 12(4): substituted, on 1 October 1997, by [section 6(2)][92] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
     
-    Section 12(4A): inserted, on 1 October 1997, by [section 6(2)][90] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 12(4A): inserted, on 1 October 1997, by [section 6(2)][92] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
     
-    Section 12(5): substituted, on 1 January 2000, by [section 194][92] of the Animal Welfare Act 1999 (1999 No 142).
+    Section 12(5): substituted, on 1 January 2000, by [section 194][94] of the Animal Welfare Act 1999 (1999 No 142).
     
-    Section 12(5)(a): amended, on 18 September 2012, by [section 90(3)][72] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 12(5)(a): amended, on 18 September 2012, by [section 90(3)][73] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 12(5)(a): amended, on 25 February 2012, by [section 5][93] of the Wild Animal Control Amendment Act 2012 (2012 No 21).
+    Section 12(5)(a): amended, on 25 February 2012, by [section 5][95] of the Wild Animal Control Amendment Act 2012 (2012 No 21).
     
-    Section 12(5A): inserted, on 1 January 2000, by [section 194][92] of the Animal Welfare Act 1999 (1999 No 142).
+    Section 12(5A): inserted, on 1 January 2000, by [section 194][94] of the Animal Welfare Act 1999 (1999 No 142).
     
-    Section 12(6): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 12(6): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
     Section 12(6): amended, on 14 December 1979, by section 4(5) of the Wild Animal Control Amendment Act 1979 (1979 No 146).
     
-    Section 12(7): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 12(7): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 12(9): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 12(9): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 12(10): amended, on 1 October 2012, by [section 308(2)(a)][94] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 12(10): amended, on 1 October 2012, by [section 308(2)(a)][96] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 12(10): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 12(10): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 12(10) proviso: amended, on 1 October 2012, by [section 308(2)(b)][94] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 12(10) proviso: amended, on 1 October 2012, by [section 308(2)(b)][96] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 12(10) proviso: amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 12(10) proviso: amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 12(11): amended, on 1 October 2012, by [section 308(3)(a)][94] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 12(11): amended, on 1 October 2012, by [section 308(3)(a)][96] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 12(11): amended, on 1 October 2012, by [section 308(3)(b)][94] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 12(11): amended, on 1 October 2012, by [section 308(3)(b)][96] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 12(11): amended, on 25 November 1994, by [section 4(2)(a)][95] of the Wild Animal Control Amendment Act 1994 (1994 No 114).
+    Section 12(11): amended, on 25 November 1994, by [section 4(2)(a)][97] of the Wild Animal Control Amendment Act 1994 (1994 No 114).
     
-    Section 12(11): amended, on 25 November 1994, by [section 4(2)(b)][95] of the Wild Animal Control Amendment Act 1994 (1994 No 114).
+    Section 12(11): amended, on 25 November 1994, by [section 4(2)(b)][97] of the Wild Animal Control Amendment Act 1994 (1994 No 114).
     
-    Section 12(11A): repealed, on 25 November 1994, by [section 4(3)][95] of the Wild Animal Control Amendment Act 1994 (1994 No 114).
+    Section 12(11A): repealed, on 25 November 1994, by [section 4(3)][97] of the Wild Animal Control Amendment Act 1994 (1994 No 114).
     
-    Section 12(13): inserted, on 1 October 2012, by [section 308(4)][94] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 12(13): inserted, on 1 October 2012, by [section 308(4)][96] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 12A Deer farms
     
@@ -812,7 +816,7 @@ Wild animal control
     
     (3) Before giving a notice under subsection (2), the Minister shall,---
         
-    *   (a) in any case where the notice does anything specified in any of paragraphs (a) to (d) of that subsection, publicly notify the intention to give the notice; and, in that case, [section 49][96] of the Conservation Act 1987 shall apply with any necessary modifications:
+    *   (a) in any case where the notice does anything specified in any of paragraphs (a) to (d) of that subsection, publicly notify the intention to give the notice; and, in that case, [section 49][98] of the Conservation Act 1987 shall apply with any necessary modifications:
     
     *   (b) in every case, have regard to---
             
@@ -864,15 +868,15 @@ Wild animal control
     
     (11) In this section, the term _farming_, in relation to deer, includes the keeping of deer in a safari park, whether or not other wild animals are also kept in the safari park.
     
-    Section 12A: substituted, on 25 November 1994, by [section 5(1)][97] of the Wild Animal Control Amendment Act 1994 (1994 No 114).
+    Section 12A: substituted, on 25 November 1994, by [section 5(1)][99] of the Wild Animal Control Amendment Act 1994 (1994 No 114).
     
-    Section 12A(2A): inserted, on 1 October 1997, by [section 7(1)][98] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 12A(2A): inserted, on 1 October 1997, by [section 7(1)][100] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
     
-    Section 12A(8): amended, on 21 February 2012, by [section 75][73] of the National Animal Identification and Tracing Act 2012 (2012 No 2).
+    Section 12A(8): amended, on 21 February 2012, by [section 75][74] of the National Animal Identification and Tracing Act 2012 (2012 No 2).
     
-    Section 12A(8): amended, on 7 May 1999, by [section 4][99] of the Wild Animal Control Amendment Act 1999 (1999 No 52).
+    Section 12A(8): amended, on 7 May 1999, by [section 4][101] of the Wild Animal Control Amendment Act 1999 (1999 No 52).
     
-    Section 12A(11): added, on 1 October 1997, by [section 7(2)][98] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 12A(11): added, on 1 October 1997, by [section 7(2)][100] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
 
 ##### 12B Safari parks
     
@@ -900,15 +904,15 @@ Wild animal control
     
     (6) Every person commits an offence against this Act who, while keeping any animal in captivity in a safari park, fails to maintain the enclosures on the land so as to prevent the escape of the animal or so that the enclosures no longer comply with any prescribed specifications.
     
-    Section 12B: inserted, on 25 November 1994, by [section 5(1)][97] of the Wild Animal Control Amendment Act 1994 (1994 No 114).
+    Section 12B: inserted, on 25 November 1994, by [section 5(1)][99] of the Wild Animal Control Amendment Act 1994 (1994 No 114).
     
-    Section 12B(1A): inserted, on 1 October 1997, by [section 8][100] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 12B(1A): inserted, on 1 October 1997, by [section 8][102] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
     
-    Section 12B(1B): inserted, on 1 October 1997, by [section 8][100] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 12B(1B): inserted, on 1 October 1997, by [section 8][102] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
     
-    Section 12B(4): amended, on 21 February 2012, by [section 75][73] of the National Animal Identification and Tracing Act 2012 (2012 No 2).
+    Section 12B(4): amended, on 21 February 2012, by [section 75][74] of the National Animal Identification and Tracing Act 2012 (2012 No 2).
     
-    Section 12B(4): amended, on 7 May 1999, by [section 5][101] of the Wild Animal Control Amendment Act 1999 (1999 No 52).
+    Section 12B(4): amended, on 7 May 1999, by [section 5][103] of the Wild Animal Control Amendment Act 1999 (1999 No 52).
 
 ##### 12C Powers of Director-General in relation to deer farms and safari parks
     
@@ -922,9 +926,9 @@ Wild animal control
     
     (3) Where the Director-General is notified of an escape within 48 hours of its occurrence, he or she may waive, in whole or in part, any costs recoverable in that case under subsection (2)(b).
     
-    Section 12C: inserted, on 25 November 1994, by [section 5(1)][97] of the Wild Animal Control Amendment Act 1994 (1994 No 114).
+    Section 12C: inserted, on 25 November 1994, by [section 5(1)][99] of the Wild Animal Control Amendment Act 1994 (1994 No 114).
     
-    Section 12C(1): amended, on 1 July 1995, pursuant to [section 6(1)(b)][91] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
+    Section 12C(1): amended, on 1 July 1995, pursuant to [section 6(1)(b)][93] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
 
 ##### 13 Powers of warranted officers
     
@@ -970,33 +974,33 @@ Wild animal control
     
     (5) Notwithstanding the foregoing provisions of this section, the Director-General may, if he thinks fit, at any time restore any animal or thing removed or seized by a warranted officer under this section to the person who owned or was in possession of the animal or thing at the time when it was removed or seized, either unconditionally or upon compliance with such conditions (including payment to the Crown) as the Director-General thinks fit.
     
-    (5A) The provisions of [Part 4][87] of the Search and Surveillance Act 2012 (except [subparts 2][102] and [3][85], and [sections 118][88] and [119][89]) apply in respect of the powers in subsection (1).
+    (5A) The provisions of [Part 4][89] of the Search and Surveillance Act 2012 (except [subparts 2][104] and [3][87], and [sections 118][90] and [119][91]) apply in respect of the powers in subsection (1).
     
     (6) Any warranted officer shall have power to enter at all reasonable times on the land or premises of the holder of any permit or licence or other authority to which any of the provisions of this Act apply, or any other land or premises where he has good reason to believe that an offence against this Act is about to be or is being or has been committed, and inspect any part of the land or premises for the purpose of ascertaining whether the conditions of the permit or licence or other authority are being complied with or, as the case may be, whether any offence against this Act has been committed; and where he has good reason to believe that any offence has been committed against this Act, search any land, or any hut, tent, caravan, bach, or other erection, or any barn, storehouse, or other premises of any description, or any trailer, vehicle, vessel, or aircraft to which paragraph (e) of subsection (1) applies, or any riding or pack animal, or any other device for transportation or carriage found on any premises or on any water:
     
-    provided that a warranted officer shall not enter any dwellinghouse or the enclosed garden or curtilage of any dwellinghouse, unless he is authorised by a warrant issued by an issuing officer (within the meaning of [section 3][86] of the Search and Surveillance Act 2012), who shall not grant such a warrant unless he is satisfied that the warranted officer has reasonable grounds for requiring entry into the dwellinghouse, garden, or curtilage.
+    provided that a warranted officer shall not enter any dwellinghouse or the enclosed garden or curtilage of any dwellinghouse, unless he is authorised by a warrant issued by an issuing officer (within the meaning of [section 3][88] of the Search and Surveillance Act 2012), who shall not grant such a warrant unless he is satisfied that the warranted officer has reasonable grounds for requiring entry into the dwellinghouse, garden, or curtilage.
     
-    (7) Any issuing officer (within the meaning of [section 3][86] of the Search and Surveillance Act 2012) who is satisfied that there are reasonable grounds to believe that any offence against this Act has been or is being committed within any dwellinghouse, garden, or curtilage may, by warrant under his hand, empower a warranted officer to enter therein for the purpose of detecting that offence.
+    (7) Any issuing officer (within the meaning of [section 3][88] of the Search and Surveillance Act 2012) who is satisfied that there are reasonable grounds to believe that any offence against this Act has been or is being committed within any dwellinghouse, garden, or curtilage may, by warrant under his hand, empower a warranted officer to enter therein for the purpose of detecting that offence.
     
     (8) The Director-General shall supply to every person to be appointed as a warranted officer (except a constable) a written warrant signed by himself or on his behalf evidencing the warranted officer's appointment, and the production of that warrant shall be sufficient proof of the appointment.
     
     (9) The production by any person of evidence that that person is a constable shall, until the contrary is proved, be sufficient authority for that person to have and exercise all the powers of a warranted officer otherwise appointed under this Act.
     
-    (10) The provisions of [Part 4][87] of the Search and Surveillance Act 2012 (except [sections 118][88] and [119][89]) apply.
+    (10) The provisions of [Part 4][89] of the Search and Surveillance Act 2012 (except [sections 118][90] and [119][91]) apply.
     
-    Section 13 heading: amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 13 heading: amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 13(1): amended, on 1 October 2012, by [section 308(5)][94] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 13(1): amended, on 1 October 2012, by [section 308(5)][96] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 13(1): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 13(1): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
     Section 13(1)(c): amended, on 12 October 1982, by section 5(1)(a) of the Wild Animal Control Amendment Act 1982 (1982 No 26).
     
-    Section 13(1)(g): amended, on 25 January 2005, pursuant to [section 83(7)][103] of the Public Finance Act 1989 (1989 No 44).
+    Section 13(1)(g): amended, on 25 January 2005, pursuant to [section 83(7)][105] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 13(1)(g): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 13(1)(g): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 13(2): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 13(2): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
     Section 13(2): amended, on 12 October 1982, by section 5(1)(b) of the Wild Animal Control Amendment Act 1982 (1982 No 26).
     
@@ -1004,31 +1008,31 @@ Wild animal control
     
     Section 13(3A): inserted, on 19 October 1978, by section 3(1) of the Wild Animal Control Amendment Act 1978 (1978 No 135).
     
-    Section 13(3A): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 13(3A): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
     Section 13(3A): amended, on 12 October 1982, by section 5(1)(c) of the Wild Animal Control Amendment Act 1982 (1982 No 26).
     
-    Section 13(5): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 13(5): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 13(5A): inserted, on 1 October 2012, by [section 308(6)][94] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 13(5A): inserted, on 1 October 2012, by [section 308(6)][96] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 13(6): amended, on 1 October 2012, by [section 308(7)(a)][94] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 13(6): amended, on 1 October 2012, by [section 308(7)(a)][96] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 13(6): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 13(6): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 13(6) proviso: amended, on 1 October 2012, by [section 308(7)(b)][94] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 13(6) proviso: amended, on 1 October 2012, by [section 308(7)(b)][96] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 13(6) proviso: amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 13(6) proviso: amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 13(7): amended, on 1 October 2012, by [section 308(8)(a)][94] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 13(7): amended, on 1 October 2012, by [section 308(8)(a)][96] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 13(7): amended, on 1 October 2012, by [section 308(8)(b)][94] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 13(7): amended, on 1 October 2012, by [section 308(8)(b)][96] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 13(7): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 13(7): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
     Section 13(7): amended, on 19 October 1978, by section 3(2) of the Wild Animal Control Amendment Act 1978 (1978 No 135).
     
-    Section 13(8): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 13(8): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
     Section 13(8): amended, on 12 October 1982, by section 5(1)(d) of the Wild Animal Control Amendment Act 1982 (1982 No 26).
     
@@ -1036,9 +1040,9 @@ Wild animal control
     
     Section 13(9): added, on 14 December 1979, by section 7(3) of the Wild Animal Control Amendment Act 1979 (1979 No 146).
     
-    Section 13(9): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 13(9): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 13(10): inserted, on 1 October 2012, by [section 308(9)][94] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 13(10): inserted, on 1 October 2012, by [section 308(9)][96] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 14 Warranted officers' powers of inspection of occupied Crown-owned land
     
@@ -1050,21 +1054,21 @@ Wild animal control
     
     (2) Nothing in subsection (1) shall prevent a warranted officer, on production of his warrant of appointment if so required, from entering onto any Crown-owned land at any time where he has good reason to believe that an offence against this Act or any regulations made under this Act is about to be, or is being, or has been, committed:
     
-    provided that a warranted officer shall not enter any dwellinghouse or the enclosed garden or curtilage of any dwellinghouse, unless he is authorised by a warrant issued by an issuing officer (within the meaning of [section 3][86] of the Search and Surveillance Act 2012), who shall not grant such a warrant unless he is satisfied that the warranted officer has reasonable grounds for requiring entry into the dwellinghouse, garden, or curtilage.
+    provided that a warranted officer shall not enter any dwellinghouse or the enclosed garden or curtilage of any dwellinghouse, unless he is authorised by a warrant issued by an issuing officer (within the meaning of [section 3][88] of the Search and Surveillance Act 2012), who shall not grant such a warrant unless he is satisfied that the warranted officer has reasonable grounds for requiring entry into the dwellinghouse, garden, or curtilage.
     
-    (3) The provisions of [Part 4][87] of the Search and Surveillance Act 2012 (except [sections 118][88] and [119][89]) apply.
+    (3) The provisions of [Part 4][89] of the Search and Surveillance Act 2012 (except [sections 118][90] and [119][91]) apply.
     
-    Section 14 heading: amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 14 heading: amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 14(1): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 14(1): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 14(2): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 14(2): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 14(2) proviso: amended, on 1 October 2012, by [section 308(10)][94] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 14(2) proviso: amended, on 1 October 2012, by [section 308(10)][96] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 14(2) proviso: amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 14(2) proviso: amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 14(3): inserted, on 1 October 2012, by [section 308(11)][94] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 14(3): inserted, on 1 October 2012, by [section 308(11)][96] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 15 Obligations of lessees of Crown-owned land
     
@@ -1084,7 +1088,7 @@ Wild animal control
     
     *   (c) there were other factors that the Minister accepts as sufficient cause for non-compliance with the direction.
     
-    Section 15(2): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 15(2): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
 
 ##### 16 Entry on land for purposes of Act
     
@@ -1094,7 +1098,7 @@ Wild animal control
     
     *   (b) wild animals are causing or are likely to cause injury or damage to any trees, shrubs, plants, or grasses that may tend to---
             
-        *   (i) protect the habitat of any absolutely protected wildlife or game as defined for the time being in the [Wildlife Act 1953][104]; or
+        *   (i) protect the habitat of any absolutely protected wildlife or game as defined for the time being in the [Wildlife Act 1953][106]; or
         
         *   (ii) mitigate soil erosion, or promote soil and water conservation or the control of floods; or
         
@@ -1132,39 +1136,39 @@ Wild animal control
     
     Compare: 1956 No 6 s 10
     
-    Section 16(2): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 16(2): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
     Section 16(2)(b): amended, on 1 March 1983, pursuant to regulation 29(a) of the Pesticides (Vertebrate Pest Control) Regulations 1983 (SR 1983/16).
     
-    Section 16(3): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 16(3): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 16(4): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 16(4): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 16(5): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 16(5): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
 
 ##### 17 Wild animals on land administered by the Department of Conservation under the Conservation Act 1987 or any other enactment
     
-*   (1) The Minister may authorise any officer or employee of the Department or any other person to hunt or kill any wild animal by day or night on land administered by the Department of Conservation under the [Conservation Act 1987][61] or any other enactment, or any land leased to or managed by the Minister; and nothing in [section 48][105] of the Arms Act 1983, or any other enactment except [section 47][106] of the said Act, shall prevent any officer, employee, or person so authorised from hunting or killing any wild animal on any forest road not effectively open at the time for use by the public.
+*   (1) The Minister may authorise any officer or employee of the Department or any other person to hunt or kill any wild animal by day or night on land administered by the Department of Conservation under the [Conservation Act 1987][61] or any other enactment, or any land leased to or managed by the Minister; and nothing in [section 48][107] of the Arms Act 1983, or any other enactment except [section 47][108] of the said Act, shall prevent any officer, employee, or person so authorised from hunting or killing any wild animal on any forest road not effectively open at the time for use by the public.
     
     (2) Every person commits an offence against this Act who wilfully obstructs or hinders or resists the Director-General or any authorised officer or employee of the Department in the exercise of any of the powers conferred by this section.
     
     Compare: 1956 No 6 s 10A; 1967 No 143 s 4
     
-    Section 17 heading: amended, on 7 July 2010, pursuant to [section 5][107] of the Wild Animal Control Amendment Act 2010 (2010 No 92).
+    Section 17 heading: amended, on 7 July 2010, pursuant to [section 5][109] of the Wild Animal Control Amendment Act 2010 (2010 No 92).
     
     Section 17 heading: amended, on 1 April 1987, pursuant to section 11(1) of the State-Owned Enterprises Amendment Act 1987 (1987 No 117).
     
-    Section 17(1): amended, on 7 July 2010, by [section 5][107] of the Wild Animal Control Amendment Act 2010 (2010 No 92).
+    Section 17(1): amended, on 7 July 2010, by [section 5][109] of the Wild Animal Control Amendment Act 2010 (2010 No 92).
     
     Section 17(1): amended, on 1 April 1987, by section 11(1) of the State-Owned Enterprises Amendment Act 1987 (1987 No 117).
     
-    Section 17(1 ): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 17(1 ): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 17(1): amended, on 1 June 1984, pursuant to [section 77][108] of the Arms Act 1983 (1983 No 44).
+    Section 17(1): amended, on 1 June 1984, pursuant to [section 77][110] of the Arms Act 1983 (1983 No 44).
     
     Section 17(1): amended, on 12 October 1982, by section 6 of the Wild Animal Control Amendment Act 1982 (1982 No 26).
     
-    Section 17(2): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 17(2): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
 
 ##### 18 Fencing of land
     
@@ -1184,22 +1188,22 @@ Wild animal control
 
 ##### 19 Tenancies
     
-*   Subject to the [Residential Tenancies Act 1986][109], the Minister may grant tenancies or occupancies of dwellings on Crown-owned land for the purposes of this Act to officers or employees of the Department at such rent and upon such terms and conditions as may be approved by the State Services Commission, or to any other person under such circumstances, at such rent, and upon such terms and conditions, as the Minister determines.
+*   Subject to the [Residential Tenancies Act 1986][111], the Minister may grant tenancies or occupancies of dwellings on Crown-owned land for the purposes of this Act to officers or employees of the Department at such rent and upon such terms and conditions as may be approved by the State Services Commission, or to any other person under such circumstances, at such rent, and upon such terms and conditions, as the Minister determines.
     
-    Section 19: amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 19: amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
-    Section 19: amended, on 1 February 1987, pursuant to [section 144(1)][110] of the Residential Tenancies Act 1986 (1986 No 120).
+    Section 19: amended, on 1 February 1987, pursuant to [section 144(1)][112] of the Residential Tenancies Act 1986 (1986 No 120).
 
 ##### 20 Special provisions relating to goats
     
 *   \[Repealed\]
     
-    Section 20: repealed, on 25 November 1994, by [section 6][111] of the Wild Animal Control Amendment Act 1994 (1994 No 114).
+    Section 20: repealed, on 25 November 1994, by [section 6][113] of the Wild Animal Control Amendment Act 1994 (1994 No 114).
 
 ## Part 2  
 Concessions for wild animal recovery operations on certain Crown-owned and other land
     
-*   Part 2: substituted, on 1 October 1999, by [section 9][112] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+*   Part 2: substituted, on 1 October 1999, by [section 9][114] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
 
 ##### 21 Purpose of this Part
     
@@ -1207,9 +1211,9 @@ Concessions for wild animal recovery operations on certain Crown-owned and other
         
     *   (a) provide for the granting of concessions to authorise wild animal recovery operations on certain land; and
     
-    *   (b) apply the provisions of [Part 3B][113] of the Conservation Act 1987 for the purpose of granting those concessions; and
+    *   (b) apply the provisions of [Part 3B][115] of the Conservation Act 1987 for the purpose of granting those concessions; and
     
-    *   (c) in applying [Part 3B][113] of the Conservation Act 1987, require the Minister to have regard to---
+    *   (c) in applying [Part 3B][115] of the Conservation Act 1987, require the Minister to have regard to---
             
         *   (i) the provisions of the Act under which the land concerned is held; and
         
@@ -1219,11 +1223,11 @@ Concessions for wild animal recovery operations on certain Crown-owned and other
         
         
     
-    Section 21: substituted, on 1 October 1999, by [section 9][112] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 21: substituted, on 1 October 1999, by [section 9][114] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
 
 ##### 22 Power to grant concessions for wild animal recovery operations on certain Crown-owned and other land
     
-*   (1) Despite any other Act, the Minister has exclusive authority to grant, in accordance with [Part 3B][113] of the Conservation Act 1987, concessions authorising the holder of the concession to enter any land described in subsection (2) and engage in wild animal recovery operations.
+*   (1) Despite any other Act, the Minister has exclusive authority to grant, in accordance with [Part 3B][115] of the Conservation Act 1987, concessions authorising the holder of the concession to enter any land described in subsection (2) and engage in wild animal recovery operations.
     
     (2) The land is---
         
@@ -1231,23 +1235,23 @@ Concessions for wild animal recovery operations on certain Crown-owned and other
             
         *   (i) a conservation area, or deemed to be a conservation area, under the [Conservation Act 1987][61]:
         
-        *   (ii) a national park under the [National Parks Act 1980][114]:
+        *   (ii) a national park under the [National Parks Act 1980][116]:
         
-        *   (iii) a reserve under the [Reserves Act 1977][115],---
+        *   (iii) a reserve under the [Reserves Act 1977][117],---
                 
-            *   (A) including a reserve that is controlled or managed by an administering body under any of [sections 28][116], [29][117], [30][118], [35][119], and [36][120] of that Act; but
+            *   (A) including a reserve that is controlled or managed by an administering body under any of [sections 28][118], [29][119], [30][120], [35][121], and [36][122] of that Act; but
             
             *   (B) excluding a reserve vested in an administering body under that Act or another Act:
             
             
         
-        *   (iv) a wildlife sanctuary or wildlife refuge or wildlife management reserve under the [Wildlife Act 1953][104]:
+        *   (iv) a wildlife sanctuary or wildlife refuge or wildlife management reserve under the [Wildlife Act 1953][106]:
         
         
     
-    *   (b) other land to which the [National Parks Act 1980][114] is applied as if the land were a national park.
+    *   (b) other land to which the [National Parks Act 1980][116] is applied as if the land were a national park.
     
-    (3) For the purposes of subsection (1), [Part 3B][113] of the Conservation Act 1987 (except for [sections 17O(4)][121] and [17U(3)][122]) applies as if references in that Part to a conservation area were references to---
+    (3) For the purposes of subsection (1), [Part 3B][115] of the Conservation Act 1987 (except for [sections 17O(4)][123] and [17U(3)][124]) applies as if references in that Part to a conservation area were references to---
         
     *   (a) a national park in the case of land described in subsection (2)(a)(ii):
     
@@ -1261,11 +1265,11 @@ Concessions for wild animal recovery operations on certain Crown-owned and other
     
     (4) Nothing in this section limits or affects the powers of the Director-General under [section 27][36].
     
-    Section 22: substituted, on 1 October 1999, by [section 9][112] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 22: substituted, on 1 October 1999, by [section 9][114] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
 
 ##### 23 Matters to which Minister to have regard in considering application for concession
     
-*   In considering an application for a concession under [section 22][30], the Minister must have regard not only to the matters specified in [section 17U][122] (other than subsection (3)) of the [Conservation Act 1987][61] (as applied by [section 22][123]), but also to---
+*   In considering an application for a concession under [section 22][30], the Minister must have regard not only to the matters specified in [section 17U][124] (other than subsection (3)) of the [Conservation Act 1987][61] (as applied by [section 22][125]), but also to---
         
     *   (a) the provisions of the Act under which the land concerned is held and the purposes for which that land is held; and
     
@@ -1273,25 +1277,25 @@ Concessions for wild animal recovery operations on certain Crown-owned and other
     
     *   (c) the role of persons engaged in hunting for recreation in achieving the purposes of this Act.
     
-    Section 23: substituted, on 1 October 1999, by [section 9][112] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 23: substituted, on 1 October 1999, by [section 9][114] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
 
 ##### 24 Licensing of operators for wild animal recovery services
     
 *   \[Repealed\]
     
-    Section 24: repealed, on 1 October 1999, by [section 9][112] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 24: repealed, on 1 October 1999, by [section 9][114] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
 
 ##### 25 Obligations of holders of permits
     
 *   \[Repealed\]
     
-    Section 25: repealed, on 1 October 1999, by [section 9][112] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 25: repealed, on 1 October 1999, by [section 9][114] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
 
 ##### 26 Allocation, cancellation, and variation of permits
     
 *   \[Repealed\]
     
-    Section 26: repealed, on 1 October 1999, by [section 9][112] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 26: repealed, on 1 October 1999, by [section 9][114] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
 
 ## Part 3  
 Recreational hunting
@@ -1312,11 +1316,11 @@ Recreational hunting
     
     (4) The Director-General may at any time carry out control operations against any species of wild animals not sought after by recreational hunters in a recreational hunting area, or such species of wild animals as are not listed in a wild animal control plan for an area as animals to be controlled by recreational hunting.
     
-    Section 27(3)(a): amended, on 1 October 1999, by [section 10][124] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 27(3)(a): amended, on 1 October 1999, by [section 10][126] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
     
-    Section 27(3)(a): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65). 
+    Section 27(3)(a): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65). 
     
-    Section 27(3)(b): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65). 
+    Section 27(3)(b): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65). 
 
 ##### 28 Management of recreational hunting areas
     
@@ -1368,7 +1372,7 @@ General provisions
     
     (2) Nothing in this section shall affect section 71 of the Maori Affairs Amendment Act 1974\.
     
-    Section 33(1)(c): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 33(1)(c): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
 
 ##### 34 Offenders to give name and address to officers, etc
     
@@ -1380,13 +1384,13 @@ General provisions
     
     Compare: 1956 No 6 s 22
     
-    Section 34(1): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65). 
+    Section 34(1): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65). 
     
     Section 34(1): amended, on 14 December 1979, by section 10(1) of the Wild Animal Control Amendment Act 1979 (1979 No 146).
     
     Section 34(1A): inserted, on 14 December 1979, by section 10(2) of the Wild Animal Control Amendment Act 1979 (1979 No 146).
     
-    Section 34(1A): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65). 
+    Section 34(1A): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65). 
 
 ##### 34A Owner or hirer of aircraft to give information as to identity of pilot, etc
     
@@ -1396,7 +1400,7 @@ General provisions
     
     Section 34A: inserted, on 12 October 1982, by section 8 of the Wild Animal Control Amendment Act 1982 (1982 No 26).
     
-    Section 34A(1): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65).
+    Section 34A(1): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65).
     
     Section 34A(1): amended, on 11 June 1985, by section 2(a) of the Wild Animal Control Amendment Act 1985 (1985 No 100).
     
@@ -1432,23 +1436,23 @@ General provisions
     
     Compare: 1956 No 6 s 21
     
-    Section 36(1)(a): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65). 
+    Section 36(1)(a): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65). 
     
-    Section 36(1)(b): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65). 
+    Section 36(1)(b): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65). 
     
-    Section 36(1)(c): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65). 
+    Section 36(1)(c): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65). 
     
     Section 36(1)(d): substituted, on 14 December 1979, by section 11(1) of the Wild Animal Control Amendment Act 1979 (1979 No 146).
     
-    Section 36(1)(d): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65). 
+    Section 36(1)(d): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65). 
     
-    Section 36(1)(e): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65). 
+    Section 36(1)(e): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65). 
     
-    Section 36(2): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65). 
+    Section 36(2): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65). 
     
     Section 36(2): amended, on 14 December 1979, by section 11(2) of the Wild Animal Control Amendment Act 1979 (1979 No 146).
     
-    Section 36(3): added, on 1 October 1999, by [section 11][125] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 36(3): added, on 1 October 1999, by [section 11][127] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
 
 ##### 37 Proceedings for offences
     
@@ -1458,23 +1462,23 @@ General provisions
     
     (3) The court by which any person is convicted of an offence against this Act may direct that any part, not exceeding half, of any fine recovered under this Act shall be paid to any person or national park board instrumental in securing the conviction in respect of which the fine is imposed (not being a person in the employment of the Crown acting in the course of his official duties), and, where such a direction is made, that part of the fine shall be paid to that person or board by the Registrar of the court in which the conviction is recorded.
     
-    (4) Despite anything to the contrary in [section 25][126] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 12 months after the date on which the offence was committed.
+    (4) Despite anything to the contrary in [section 25][128] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 12 months after the date on which the offence was committed.
     
     (5) Subsection (4) does not apply to an offence against [section 11][15].
     
     Compare: 1956 No 6 s 24
     
-    Section 37 heading: replaced, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 37 heading: replaced, on 1 July 2013, by [section 413][129] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 37(1): repealed, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 37(1): repealed, on 1 July 2013, by [section 413][129] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 37(2): repealed, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 37(2): repealed, on 1 July 2013, by [section 413][129] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 37(3): amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 37(3): amended, on 1 July 2013, by [section 413][129] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 37(4): replaced, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 37(4): replaced, on 1 July 2013, by [section 413][129] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 37(5): inserted, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 37(5): inserted, on 1 July 2013, by [section 413][129] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 38 Presumptions and obligations in connection with hunting and killing
     
@@ -1490,21 +1494,21 @@ General provisions
     
     *   (b) if no concession was held in respect of that aircraft, that the person stipulated as the pilot of the aircraft in any flight record required to be kept by the operator of the aircraft under regulation 28A of the Civil Aviation Regulations 1953 was the pilot of the aircraft.
     
-    (5) In any prosecution for an offence against this Act, a certificate confirming the status of any State forest land (as defined in the [Forests Act 1949][128]), national park, maritime park, or any Crown-owned land given by the Chief Surveyor for the relevant land district constituted under the [Land Act 1948][129] in which the land in question is situated shall, unless the defendant proves to the contrary, be conclusive proof of that status; and all plans, maps, certificates, and copies certified as true or correct by that Chief Surveyor shall be sufficient evidence of their contents without the production of original records and without the personal attendance of that officer or proof of the officer's signature.
+    (5) In any prosecution for an offence against this Act, a certificate confirming the status of any State forest land (as defined in the [Forests Act 1949][130]), national park, maritime park, or any Crown-owned land given by the Chief Surveyor for the relevant land district constituted under the [Land Act 1948][131] in which the land in question is situated shall, unless the defendant proves to the contrary, be conclusive proof of that status; and all plans, maps, certificates, and copies certified as true or correct by that Chief Surveyor shall be sufficient evidence of their contents without the production of original records and without the personal attendance of that officer or proof of the officer's signature.
     
     Section 38(1): amended, on 12 October 1982, by section 10(1) of the Wild Animal Control Amendment Act 1982 (1982 No 26).
     
-    Section 38(2): amended, on 1 October 1999, by [section 12(1)][130] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 38(2): amended, on 1 October 1999, by [section 12(1)][132] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
     
-    Section 38(3): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65). 
+    Section 38(3): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65). 
     
     Section 38(4): added, on 12 October 1982, by section 10(2) of the Wild Animal Control Amendment Act 1982 (1982 No 26).
     
-    Section 38(4): amended, on 1 October 1999, by [section 12(2)(a)][130] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 38(4): amended, on 1 October 1999, by [section 12(2)(a)][132] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
     
-    Section 38(4)(a): amended, on 1 October 1999, by [section 12(2)(b)][130] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 38(4)(a): amended, on 1 October 1999, by [section 12(2)(b)][132] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
     
-    Section 38(4)(b): amended, on 1 October 1999, by [section 12(2)(b)][130] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 38(4)(b): amended, on 1 October 1999, by [section 12(2)(b)][132] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
     
     Section 38(4)(b): amended, on 11 June 1985, by section 3(1) of the Wild Animal Control Amendment Act 1985 (1985 No 100).
     
@@ -1564,33 +1568,33 @@ General provisions
     
     *   (c) in any case, where the offence is a continuing one, a further fine not exceeding $10,000 for every day on which the offence continues.
     
-    (4) Any wild animal taken or killed during the commission of any offence against this Act, the [Trespass Act 1980][81], the [Civil Aviation Act 1990][82], or any other Act or bylaw relating to the land or the natural waters of the land or the flora or fauna of the land whereon the offence was committed, and any part of the carcass of any wild animal so taken or killed during the commission of any offence against any of the said Acts, shall be deemed to be unlawfully taken or killed, and shall remain the property of the Crown, and any money paid in respect of the animal or its carcass shall be paid to the Department for credit to a Crown Bank Account, or shall be recoverable from the person who sold the animal or carcass as a debt due to the Crown, and every person who fails to comply with this subsection commits an offence against this Act.
+    (4) Any wild animal taken or killed during the commission of any offence against this Act, the [Trespass Act 1980][83], the [Civil Aviation Act 1990][84], or any other Act or bylaw relating to the land or the natural waters of the land or the flora or fauna of the land whereon the offence was committed, and any part of the carcass of any wild animal so taken or killed during the commission of any offence against any of the said Acts, shall be deemed to be unlawfully taken or killed, and shall remain the property of the Crown, and any money paid in respect of the animal or its carcass shall be paid to the Department for credit to a Crown Bank Account, or shall be recoverable from the person who sold the animal or carcass as a debt due to the Crown, and every person who fails to comply with this subsection commits an offence against this Act.
     
     Compare: 1956 No 6 s 23
     
-    Section 39(1): replaced, on 25 October 2013, by [section 36][131] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    Section 39(1): replaced, on 25 October 2013, by [section 36][133] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
     
-    Section 39(2): replaced, on 25 October 2013, by [section 36][131] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    Section 39(2): replaced, on 25 October 2013, by [section 36][133] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
     
-    Section 39(2A): repealed, on 25 October 2013, by [section 36][131] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    Section 39(2A): repealed, on 25 October 2013, by [section 36][133] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
     
-    Section 39(3): replaced, on 25 October 2013, by [section 36][131] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    Section 39(3): replaced, on 25 October 2013, by [section 36][133] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
     
-    Section 39(3A): inserted, on 25 October 2013, by [section 36][131] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    Section 39(3A): inserted, on 25 October 2013, by [section 36][133] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
     
-    Section 39(4): amended, on 25 January 2005, pursuant to [section 83(7)][103] of the Public Finance Act 1989 (1989 No 44).
+    Section 39(4): amended, on 25 January 2005, pursuant to [section 83(7)][105] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 39(4): amended, on 1 September 1990, pursuant to [section 101(1)][67] of the Civil Aviation Act 1990 (1990 No 98).
+    Section 39(4): amended, on 1 September 1990, pursuant to [section 101(1)][68] of the Civil Aviation Act 1990 (1990 No 98).
     
-    Section 39(4): amended, on 1 April 1987, by [section 65(1)][68] of the Conservation Act 1987 (1987 No 65). 
+    Section 39(4): amended, on 1 April 1987, by [section 65(1)][69] of the Conservation Act 1987 (1987 No 65). 
     
-    Section 39(4): amended, on 1 January 1981, pursuant to [section 14][84] of the Trespass Act 1980 (1980 No 65).
+    Section 39(4): amended, on 1 January 1981, pursuant to [section 14][86] of the Trespass Act 1980 (1980 No 65).
 
 ##### 39A Sentence of community work
     
-*   A court may sentence any individual who commits an offence against this Act to a sentence of community work, and the provisions of [Part 2][132] of the Sentencing Act 2002 apply with all necessary modifications.
+*   A court may sentence any individual who commits an offence against this Act to a sentence of community work, and the provisions of [Part 2][134] of the Sentencing Act 2002 apply with all necessary modifications.
     
-    Section 39A: inserted, on 25 October 2013, by [section 37][133] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    Section 39A: inserted, on 25 October 2013, by [section 37][135] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
 
 ##### 39B Penalties for offences committed for commercial gain or reward
     
@@ -1604,7 +1608,7 @@ General provisions
     
     (2) Subsection (1) overrides every other provision of this Act to the contrary.
     
-    Section 39B: inserted, on 25 October 2013, by [section 37][133] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    Section 39B: inserted, on 25 October 2013, by [section 37][135] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
 
 ##### 40 Regulations
     
@@ -1634,17 +1638,17 @@ General provisions
     
     Compare: 1956 No 6 s 25
     
-    Section 40(1)(a): repealed, on 1 October 1999, by [section 14][134] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 40(1)(a): repealed, on 1 October 1999, by [section 14][136] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
     
-    Section 40(1)(b): repealed, on 1 October 1999, by [section 14][134] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
+    Section 40(1)(b): repealed, on 1 October 1999, by [section 14][136] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
     
-    Section 40(1)(e): amended, on 1 January 2000, by [section 194][92] of the Animal Welfare Act 1999 (1999 No 142).
+    Section 40(1)(e): amended, on 1 January 2000, by [section 194][94] of the Animal Welfare Act 1999 (1999 No 142).
     
-    Section 40(1)(e): amended, on 25 November 1994, by [section 8][135] of the Wild Animal Control Amendment Act 1994 (1994 No 114).
+    Section 40(1)(e): amended, on 25 November 1994, by [section 8][137] of the Wild Animal Control Amendment Act 1994 (1994 No 114).
 
 ##### 41 Remuneration and travelling allowances for members of committees
     
-*   There may be paid to the members of any National Recreational Hunting Advisory Committee or other committee set up under this Act remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][136], and the provisions of that Act shall apply accordingly as if the committee were a statutory board within the meaning of that Act.
+*   There may be paid to the members of any National Recreational Hunting Advisory Committee or other committee set up under this Act remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][138], and the provisions of that Act shall apply accordingly as if the committee were a statutory board within the meaning of that Act.
 
 ##### 42 Financial provisions
     
@@ -1654,7 +1658,7 @@ General provisions
     
     Compare: 1956 No 6 s 11
     
-    Section 42(1): amended, on 25 January 2005, pursuant to [section 83(7)][103] of the Public Finance Act 1989 (1989 No 44).
+    Section 42(1): amended, on 25 January 2005, pursuant to [section 83(7)][105] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 43 Annual report
     
@@ -1691,7 +1695,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Biosecurity Law Reform Act 2012][137].
+*   This Act is the [Biosecurity Law Reform Act 2012][139].
 
 ##### 2 Commencement
     
@@ -1746,63 +1750,65 @@ Related amendments to other enactments
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][138] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][139] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][140] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][141] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][140] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][141] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][142] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][143] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Conservation (Natural Heritage Protection) Act 2013 (2013 No 89): [Part 5][142]
+*   Game Animal Council Act 2013 (2013 No 98): [section 41(2)][76]
     
-    Biosecurity Law Reform Act 2012 (2012 No 73): [section 90][72]
+    Conservation (Natural Heritage Protection) Act 2013 (2013 No 89): [Part 5][144]
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 308][94]
+    Biosecurity Law Reform Act 2012 (2012 No 73): [section 90][73]
     
-    [Wild Animal Control Amendment Act 2012][143] (2012 No 21)
+    Search and Surveillance Act 2012 (2012 No 24): [section 308][96]
     
-    National Animal Identification and Tracing Act 2012 (2012 No 2): [section 75][73]
+    [Wild Animal Control Amendment Act 2012][145] (2012 No 21)
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][127]
+    National Animal Identification and Tracing Act 2012 (2012 No 2): [section 75][74]
     
-    [Wild Animal Control Amendment Act 2010][144] (2010 No 92)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][129]
     
-    Local Government Act 2002 (2002 No 84): [section 262][70]
+    [Wild Animal Control Amendment Act 2010][146] (2010 No 92)
     
-    Animal Welfare Act 1999 (1999 No 142):[section 194][92]
+    Local Government Act 2002 (2002 No 84): [section 262][71]
     
-    [Wild Animal Control Amendment Act 1999][145] (1999 No 52)
+    Animal Welfare Act 1999 (1999 No 142):[section 194][94]
     
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][146]
+    [Wild Animal Control Amendment Act 1999][147] (1999 No 52)
     
-    [Wild Animal Control Amendment Act 1997][147] (1997 No 80)
+    District Courts Amendment Act 1998 (1998 No 76): [section 7][148]
     
-    Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31): [section 6(1)(a), (b)][91]
+    [Wild Animal Control Amendment Act 1997][149] (1997 No 80)
     
-    [Wild Animal Control Amendment Act 1994][148] (1994 No 114)
+    Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31): [section 6(1)(a), (b)][93]
     
-    Civil Aviation Act 1990 (1990 No 98): [section 101(1)][67]
+    [Wild Animal Control Amendment Act 1994][150] (1994 No 114)
     
-    Conservation Law Reform Act 1990 (1990 No 31):[section 37][69]
+    Civil Aviation Act 1990 (1990 No 98): [section 101(1)][68]
     
-    Public Finance Act 1989 (1989 No 44): [section 83(7)][103]
+    Conservation Law Reform Act 1990 (1990 No 31):[section 37][70]
+    
+    Public Finance Act 1989 (1989 No 44): [section 83(7)][105]
     
     State-Owned Enterprises Amendment Act 1987 (1987 No 117): section 11(1)
     
-    Conservation Act 1987 (1987 No 65): [section 65(1)][68]
+    Conservation Act 1987 (1987 No 65): [section 65(1)][69]
     
-    Residential Tenancies Act 1986 (1986 No 120): [section 144(1)][110]
+    Residential Tenancies Act 1986 (1986 No 120): [section 144(1)][112]
     
     Wild Animal Control Amendment Act 1985 (1985 No 100)
     
-    Arms Act 1983 (1983 No 44): [section 77][108]
+    Arms Act 1983 (1983 No 44): [section 77][110]
     
     Pesticides (Vertebrate Pest Control) Regulations 1983 (SR 1983/16): regulation 29(a)
     
     Wild Animal Control Amendment Act 1982 (1982 No 26)
     
-    Trespass Act 1980 (1980 No 65):[section 14][84]
+    Trespass Act 1980 (1980 No 65):[section 14][86]
     
     Wild Animal Control Amendment Act 1979 (1979 No 146)
     
@@ -1876,86 +1882,88 @@ Related amendments to other enactments
 [63]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM170872
 [64]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM3430202
 [65]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM315356
-[66]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413161
-[67]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM218728
-[68]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM106995
-[69]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM208750
-[70]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM174088
-[71]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM341465
-[72]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM3388547
-[73]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM3430572
-[74]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM25228
-[75]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413168
-[76]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM104294
-[77]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM104629
-[78]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413169
-[79]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413170
-[80]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM3045005
-[81]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM36926
-[82]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM214686
-[83]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM25229
-[84]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM36961
-[85]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM2136781
-[86]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM2136542
-[87]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM2136770
-[88]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM2136813
-[89]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM2136815
-[90]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413171
-[91]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM366838
-[92]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM51965
-[93]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM4015309
-[94]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM2137088
-[95]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM341467
-[96]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM106907
-[97]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM341468
-[98]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413172
-[99]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM25230
-[100]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413173
-[101]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM25231
-[102]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM4355336
-[103]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM163167
-[104]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM276813
-[105]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM72991
-[106]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM72989
-[107]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM3045006
-[108]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM73375
-[109]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM94277
-[110]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM96427
-[111]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM341469
-[112]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413174
-[113]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM104633
-[114]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM36962
-[115]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM444304
-[116]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM444655
-[117]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM444656
-[118]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM444657
-[119]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM444663
-[120]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM444664
-[121]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM104635
-[122]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM104648
-[123]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM104689
-[124]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413179
-[125]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413180
-[126]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM3360067
-[127]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM3360714
-[128]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM255625
-[129]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM250585
-[130]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413181
-[131]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM4425538
-[132]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM135593
-[133]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM4425539
-[134]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413183
-[135]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM341471
-[136]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM264952
-[137]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM3388102
-[138]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM2998516
-[139]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM2998515
-[140]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM2998532
-[141]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[142]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM4425536
-[143]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM4015302
-[144]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM3045000
-[145]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM25222
-[146]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM427920
-[147]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413155
-[148]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM341459
+[66]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM4105078
+[67]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413161
+[68]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM218728
+[69]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM106995
+[70]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM208750
+[71]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM174088
+[72]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM341465
+[73]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM3388547
+[74]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM3430572
+[75]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM25228
+[76]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM4105502
+[77]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413168
+[78]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM104294
+[79]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM104629
+[80]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413169
+[81]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413170
+[82]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM3045005
+[83]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM36926
+[84]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM214686
+[85]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM25229
+[86]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM36961
+[87]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM2136781
+[88]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM2136542
+[89]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM2136770
+[90]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM2136813
+[91]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM2136815
+[92]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413171
+[93]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM366838
+[94]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM51965
+[95]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM4015309
+[96]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM2137088
+[97]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM341467
+[98]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM106907
+[99]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM341468
+[100]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413172
+[101]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM25230
+[102]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413173
+[103]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM25231
+[104]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM4355336
+[105]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM163167
+[106]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM276813
+[107]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM72991
+[108]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM72989
+[109]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM3045006
+[110]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM73375
+[111]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM94277
+[112]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM96427
+[113]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM341469
+[114]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413174
+[115]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM104633
+[116]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM36962
+[117]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM444304
+[118]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM444655
+[119]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM444656
+[120]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM444657
+[121]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM444663
+[122]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM444664
+[123]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM104635
+[124]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM104648
+[125]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM104689
+[126]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413179
+[127]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413180
+[128]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM3360067
+[129]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM3360714
+[130]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM255625
+[131]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM250585
+[132]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413181
+[133]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM4425538
+[134]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM135593
+[135]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM4425539
+[136]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413183
+[137]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM341471
+[138]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM264952
+[139]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM3388102
+[140]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM2998516
+[141]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM2998515
+[142]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM2998532
+[143]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[144]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM4425536
+[145]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM4015302
+[146]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM3045000
+[147]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM25222
+[148]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM427920
+[149]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413155
+[150]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM341459
