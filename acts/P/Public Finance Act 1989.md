@@ -1,5 +1,5 @@
 Reprint  
-as at 4 September 2013
+as at 28 November 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1411,7 +1411,7 @@ Appropriations
         
         
     
-    *   (b) if the Minister approves, more than 1 class of outputs (a **multi-class output expense appropriation**) to be supplied---
+    *   (b) if the Minister approves, more than 1 class of outputs (a _multi-class output expense appropriation_) to be supplied---
             
         *   (i) by a department; or
         
@@ -1904,7 +1904,7 @@ Fiscal responsibility
 
 ##### 26G Principles of responsible fiscal management
     
-*   (1) The Government must pursue its policy objectives in accordance with the following principles (the **principles of responsible fiscal management**):
+*   (1) The Government must pursue its policy objectives in accordance with the following principles (the _principles of responsible fiscal management_):
         
     *   (a) reducing total debt to prudent levels so as to provide a buffer against factors that may impact adversely on the level of total debt in the future by ensuring that, until those levels have been achieved, total operating expenses in each financial year are less than total operating revenues in the same financial year; and
     
@@ -5397,23 +5397,25 @@ Organisations for the purposes of subpart 2 of Part 5
 
 **Note**: A tick alongside the name of an organisation means that the section of the [Crown Entities Act 2004][314] that appears above the tick applies to that organisation.
 
-Name or description of organisationSOIAnnual reportSSPSecuritiesBorrowingGuaranteesDerivativesSurplus
+**Name or description of organisation** **SOI** **Annual report** **SSP** **Securities** **Borrowing** **Guarantees** **Derivatives** **Surplus**
 
-139150153161162163164165
+**139** **150** **153** **161** **162** **163** **164** **165**
 
 Agricultural and Marketing Research and Development Trust 
 
 Asia New Zealand Foundation ![. ](images/Publicsch4tick.jpg) 
 
+Game Animal Council ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg)
+
 Leadership Development Centre Trust ![. ](images/Publicsch4tick.jpg) 
 
-the Māori Trustee ![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg) 
+the Māori Trustee ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) 
 
-National Pacific Radio Trust![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg) 
+National Pacific Radio Trust ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) 
 
-New Zealand Fish and Game Council and Fish and Game Councils ![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg) 
+New Zealand Fish and Game Council and Fish and Game Councils ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) 
 
-New Zealand Game Bird Habitat Trust Board ![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg) 
+New Zealand Game Bird Habitat Trust Board ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) 
 
 New Zealand Government Property Corporation ![. ](images/Publicsch4tick.jpg)
 
@@ -5425,30 +5427,31 @@ Pacific Co-operation Foundation ![. ](images/Publicsch4tick.jpg)
 
 Pacific Island Business Development Trust ![. ](images/Publicsch4tick.jpg) 
 
-Reserves Boards as defined in section 2 of the Reserves Act 1977 ![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg) 
+Reserves Boards as defined in [section 2][391] of the Reserves Act 1977 ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) 
 
 Road Safety Trust 
 
-Sentencing Council ![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)
+Sentencing Council ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg)
 
 Te Ariki trust 
 
-*   Schedule 4: amended, on 18 July 2013, by [section 55][509] of the Public Finance Amendment Act 2013 (2013 No 50).
-*   Schedule 4: amended, on 27 September 2012, by [clause 3][510] of the Public Finance (The Network for Learning Limited) Order 2012 (SR 2012/222).
-*   Schedule 4: amended, on 31 August 2012, by [clause 3][511] of the Public Finance (Tāmaki Redevelopment Company Limited) Order 2012 (SR 2012/250).
-*   Schedule 4: amended, on 18 April 2012, by [clause 3][512] of the Public Finance (Southern Response Earthquake Services Limited) Order 2012 (SR 2012/70).
-*   Schedule 4: amended, on 29 February 2012, by [clause 3][513] of the Public Finance (Crown Asset Management Limited) Order 2012 (SR 2012/15).
-*   Schedule 4: amended, on 1 July 2011, by [clause 3][514] of the Public Finance (Dispute Resolution Services Limited) Order 2011 (SR 2011/230).
-*   Schedule 4: amended, on 1 November 2010, by [section 28][515] of the Local Government (Tamaki Makaurau Reorganisation) Act 2009 (2009 No 13).
-*   Schedule 4: amended, on 30 July 2010, by [clause 3][516] of the Public Finance (Health Benefits Limited) Order 2010 (SR 2010/212).
-*   Schedule 4: amended, on 1 July 2010, by [clause 3][517] of the Public Finance (Learning State Limited) Order 2010 (SR 2010/133).
-*   Schedule 4: amended, on 14 January 2010, by [clause 3][518] of the Public Finance (Crown Fibre Holdings Limited) Order 2009 (SR 2009/400).
-*   Schedule 4: amended, on 24 December 2009, by [clause 3][519] of the Public Finance (New Zealand Fast Forward Limited) Order 2009 (SR 2009/355).
-*   Schedule 4: amended, on 1 July 2009, by [section 30(1)][520] of the Māori Trustee Amendment Act 2009 (2009 No 12).
-*   Schedule 4: amended, on 4 June 2009, by [section 93(3)][521] of the Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008 (2008 No 98).
-*   Schedule 4: amended, on 1 July 2008, by [clause 3][520] of the Public Finance (National Pacific Radio Trust) Order 2008 (SR 2008/167).
-*   Schedule 4: amended, on 1 November 2007, by [section 12][522] of the Sentencing Council Act 2007 (2007 No 25).
-*   Schedule 4: amended, on 11 May 2006, by [clause 3][523] of the Public Finance (Research and Education Advanced Network New Zealand Limited) Order 2006 (SR 2006/96).
+*   Schedule 4: amended, on 28 November 2013, by [section 41(1)][509] of the Game Animal Council Act 2013 (2013 No 98).
+*   Schedule 4: amended, on 18 July 2013, by [section 55][510] of the Public Finance Amendment Act 2013 (2013 No 50).
+*   Schedule 4: amended, on 27 September 2012, by [clause 3][511] of the Public Finance (The Network for Learning Limited) Order 2012 (SR 2012/222).
+*   Schedule 4: amended, on 31 August 2012, by [clause 3][512] of the Public Finance (Tāmaki Redevelopment Company Limited) Order 2012 (SR 2012/250).
+*   Schedule 4: amended, on 18 April 2012, by [clause 3][513] of the Public Finance (Southern Response Earthquake Services Limited) Order 2012 (SR 2012/70).
+*   Schedule 4: amended, on 29 February 2012, by [clause 3][514] of the Public Finance (Crown Asset Management Limited) Order 2012 (SR 2012/15).
+*   Schedule 4: amended, on 1 July 2011, by [clause 3][515] of the Public Finance (Dispute Resolution Services Limited) Order 2011 (SR 2011/230).
+*   Schedule 4: amended, on 1 November 2010, by [section 28][516] of the Local Government (Tamaki Makaurau Reorganisation) Act 2009 (2009 No 13).
+*   Schedule 4: amended, on 30 July 2010, by [clause 3][517] of the Public Finance (Health Benefits Limited) Order 2010 (SR 2010/212).
+*   Schedule 4: amended, on 1 July 2010, by [clause 3][518] of the Public Finance (Learning State Limited) Order 2010 (SR 2010/133).
+*   Schedule 4: amended, on 14 January 2010, by [clause 3][519] of the Public Finance (Crown Fibre Holdings Limited) Order 2009 (SR 2009/400).
+*   Schedule 4: amended, on 24 December 2009, by [clause 3][520] of the Public Finance (New Zealand Fast Forward Limited) Order 2009 (SR 2009/355).
+*   Schedule 4: amended, on 1 July 2009, by [section 30(1)][521] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+*   Schedule 4: amended, on 4 June 2009, by [section 93(3)][522] of the Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008 (2008 No 98).
+*   Schedule 4: amended, on 1 July 2008, by [clause 3][521] of the Public Finance (National Pacific Radio Trust) Order 2008 (SR 2008/167).
+*   Schedule 4: amended, on 1 November 2007, by [section 12][523] of the Sentencing Council Act 2007 (2007 No 25).
+*   Schedule 4: amended, on 11 May 2006, by [clause 3][524] of the Public Finance (Research and Education Advanced Network New Zealand Limited) Order 2006 (SR 2006/96).
 
 ---
 
@@ -5457,29 +5460,29 @@ Non-listed companies in which Crown is majority or sole shareholder
 
 [ss 3AB][9], [45OA][143]
 
-*   Schedule 4A: inserted, on 18 July 2013, by [section 56][524] of the Public Finance Amendment Act 2013 (2013 No 50).
+*   Schedule 4A: inserted, on 18 July 2013, by [section 56][525] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 **Note**: A tick alongside the name of a company means that the section of the Crown Entities Act 2004 that appears above the tick applies to that company.
 
-CompanySections of Crown Entities Act 2004 (relating to financial powers)
+**Company** **Sections of Crown Entities Act 2004 (relating to financial powers)**
 
-161162163164165
+**161****162****163****164****165**
 
 Crown Asset Management Limited ✓✓✓ 
 
 Crown Fibre Holdings Limited 
 
-Dispute Resolution Services Limited✓✓✓✓ 
+Dispute Resolution Services Limited ✓✓✓✓ 
 
-Health Benefits Limited✓✓✓✓ 
+Health Benefits Limited ✓✓✓✓ 
 
 The Network for Learning Limited 
 
-Research and Education Advanced Network New Zealand Limited✓✓✓✓ 
+Research and Education Advanced Network New Zealand Limited ✓✓✓✓ 
 
-Southern Response Earthquake Services Limited✓✓ ✓ 
+Southern Response Earthquake Services Limited ✓✓ ✓ 
 
-Tāmaki Redevelopment Company Limited✓✓✓✓ 
+Tāmaki Redevelopment Company Limited ✓✓✓✓ 
 
 ---
 
@@ -5488,14 +5491,14 @@ Mixed ownership model companies
 
 [s 45P][146]
 
-*   Schedule 5: replaced, on 30 June 2012, by [section 10][525] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+*   Schedule 5: replaced, on 30 June 2012, by [section 10][526] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
 
 Meridian Energy Limited
 
 Mighty River Power Limited
     
-*   Schedule 5: amended, on 30 August 2013, by [section 8(3)][526] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
-*   Schedule 5: amended, on 8 March 2013, by [section 8(4)][526] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
+*   Schedule 5: amended, on 30 August 2013, by [section 8(3)][527] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
+*   Schedule 5: amended, on 8 March 2013, by [section 8(4)][527] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
 
 ---
 
@@ -5529,7 +5532,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Public Finance Amendment Act 2004][527].
+*   (1) This Act is the [Public Finance Amendment Act 2004][528].
     
     (2) In this Act, the Public Finance Act 1989 is called ""the principal Act"".
 
@@ -5615,69 +5618,71 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][528] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][529] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][529] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][530] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][530] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][531] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][531] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][532] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Public Finance (Fiscal Responsibility) Amendment Act 2013][505] (2013 No 67)
+*   Game Animal Council Act 2013 (2013 No 98): [section 41(1)][509]
     
-    Public Finance Amendment Act 2013 (2013 No 50): [Part 1][532]
+    [Public Finance (Fiscal Responsibility) Amendment Act 2013][505] (2013 No 67)
+    
+    Public Finance Amendment Act 2013 (2013 No 50): [Part 1][533]
     
     Legislation Act 2012 (2012 No 119): [section 77(3)][476]
     
-    [Public Finance (Tāmaki Redevelopment Company Limited) Order 2012][533] (SR 2012/250)
+    [Public Finance (Tāmaki Redevelopment Company Limited) Order 2012][534] (SR 2012/250)
     
-    [Public Finance (The Network for Learning Limited) Order 2012][534] (SR 2012/222)
+    [Public Finance (The Network for Learning Limited) Order 2012][535] (SR 2012/222)
     
-    [Public Finance (Mixed Ownership Model) Amendment Act 2012][535] (2012 No 45)
+    [Public Finance (Mixed Ownership Model) Amendment Act 2012][536] (2012 No 45)
     
-    State-Owned Enterprises Amendment Act 2012 (2012 No 44): [section 8(1), (3), (4)][526]
+    State-Owned Enterprises Amendment Act 2012 (2012 No 44): [section 8(1), (3), (4)][527]
     
-    [Public Finance (Southern Response Earthquake Services Limited) Order 2012][536] (SR 2012/70)
+    [Public Finance (Southern Response Earthquake Services Limited) Order 2012][537] (SR 2012/70)
     
-    [Public Finance (Crown Asset Management Limited) Order 2012][537] (SR 2012/15)
+    [Public Finance (Crown Asset Management Limited) Order 2012][538] (SR 2012/15)
     
-    [Public Finance Amendment Act 2012][538] (2012 No 17)
+    [Public Finance Amendment Act 2012][539] (2012 No 17)
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][468]
     
     Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50): [section 8][440]
     
-    [Public Finance (Dispute Resolution Services Limited) Order 2011][539] (SR 2011/230)
+    [Public Finance (Dispute Resolution Services Limited) Order 2011][540] (SR 2011/230)
     
     Financial Reporting Amendment Act 2011 (2011 No 22): [section 12][308]
     
-    [Public Finance (Health Benefits Limited) Order 2010][540] (SR 2010/212)
+    [Public Finance (Health Benefits Limited) Order 2010][541] (SR 2010/212)
     
-    [Public Finance Amendment Act 2010][541] (2010 No 78)
+    [Public Finance Amendment Act 2010][542] (2010 No 78)
     
-    [Public Finance (Learning State Limited) Order 2010][542] (SR 2010/133)
+    [Public Finance (Learning State Limited) Order 2010][543] (SR 2010/133)
     
-    [Public Finance (Crown Fibre Holdings Limited) Order 2009][543] (SR 2009/400)
+    [Public Finance (Crown Fibre Holdings Limited) Order 2009][544] (SR 2009/400)
     
-    [Public Finance (New Zealand Fast Forward Limited) Order 2009][544] (SR 2009/355)
+    [Public Finance (New Zealand Fast Forward Limited) Order 2009][545] (SR 2009/355)
     
     Crown Retail Deposit Guarantee Scheme Act 2009 (2009 No 30): [section 10][436]
     
-    Local Government (Tamaki Makaurau Reorganisation) Act 2009 (2009 No 13): [section 28][515]
+    Local Government (Tamaki Makaurau Reorganisation) Act 2009 (2009 No 13): [section 28][516]
     
-    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(1)][545]
+    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(1)][546]
     
-    Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008 (2008 No 98): [section 93(3)][521]
+    Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008 (2008 No 98): [section 93(3)][522]
     
-    [Public Finance (National Pacific Radio Trust) Order 2008][546] (SR 2008/167)
+    [Public Finance (National Pacific Radio Trust) Order 2008][547] (SR 2008/167)
     
-    Sentencing Council Act 2007 (2007 No 25): [section 12][522]
+    Sentencing Council Act 2007 (2007 No 25): [section 12][523]
     
-    [Public Finance (Research and Education Advanced Network New Zealand Limited) Order 2006][547] (SR 2006/96)
+    [Public Finance (Research and Education Advanced Network New Zealand Limited) Order 2006][548] (SR 2006/96)
     
-    [Public Finance Amendment Act 2004][527] (2004 No 113)
+    [Public Finance Amendment Act 2004][528] (2004 No 113)
     
-    Maritime Transport Amendment Act 2004 (2004 No 98): [section 11(3)][548]
+    Maritime Transport Amendment Act 2004 (2004 No 98): [section 11(3)][549]
     
     Local Government Act 2002 (2002 No 84): [section 262][309]
     
@@ -5685,7 +5690,7 @@ Commencementsee section 2
     
     Public Audit Act 2001 (2001 No 10): [section 53][312]
     
-    [Public Finance Amendment Act 2000][549] (2000 No 78)
+    [Public Finance Amendment Act 2000][550] (2000 No 78)
     
     Treasurer (Statutory References) Act 1997 (1997 No 20): [section 2][310]
     
@@ -5693,7 +5698,7 @@ Commencementsee section 2
     
     Public Finance Amendment Act 1994 (1994 No 18)
     
-    [Public Finance Amendment Act 1992][550] (1992 No 142)
+    [Public Finance Amendment Act 1992][551] (1992 No 142)
     
     Housing Corporation Amendment Act 1992 (1992 No 78): section 16(1)
     
@@ -5701,7 +5706,7 @@ Commencementsee section 2
     
     Public Finance Amendment Act 1991 (1991 No 6)
     
-    Acts and Regulations Publication Act 1989 (1989 No 142): [section 31(1)][551]
+    Acts and Regulations Publication Act 1989 (1989 No 142): [section 31(1)][552]
 
 
 
@@ -6214,46 +6219,47 @@ Commencementsee section 2
 [506]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326330
 [507]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328859
 [508]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328858
-[509]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326331
-[510]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4674103
-[511]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4679005
-[512]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4414006
-[513]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4294104
-[514]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3823404
-[515]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2044571
-[516]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3109702
-[517]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2967302
-[518]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2615817
-[519]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2539550
-[520]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM1374406
-[521]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM1375859
-[522]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM410063
-[523]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM378033
-[524]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326332
-[525]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4538250
-[526]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4326325
-[527]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM327268
-[528]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2998516
-[529]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2998515
-[530]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2998532
-[531]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[532]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5328666
-[533]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4679012
-[534]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4674110
-[535]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4538207
-[536]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4414000
-[537]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4294111
-[538]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4014902
-[539]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3823411
-[540]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3109710
-[541]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3043500
-[542]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2967309
-[543]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2615811
-[544]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2539544
-[545]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM1583888
-[546]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM1374400
-[547]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM378025
-[548]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM322600
-[549]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM78325
-[550]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM288888
-[551]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM195519
+[509]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4105502
+[510]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326331
+[511]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4674103
+[512]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4679005
+[513]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4414006
+[514]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4294104
+[515]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3823404
+[516]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2044571
+[517]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3109702
+[518]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2967302
+[519]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2615817
+[520]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2539550
+[521]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM1374406
+[522]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM1375859
+[523]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM410063
+[524]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM378033
+[525]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326332
+[526]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4538250
+[527]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4326325
+[528]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM327268
+[529]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2998516
+[530]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2998515
+[531]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2998532
+[532]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[533]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5328666
+[534]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4679012
+[535]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4674110
+[536]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4538207
+[537]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4414000
+[538]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4294111
+[539]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4014902
+[540]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3823411
+[541]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3109710
+[542]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3043500
+[543]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2967309
+[544]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2615811
+[545]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2539544
+[546]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM1583888
+[547]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM1374400
+[548]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM378025
+[549]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM322600
+[550]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM78325
+[551]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM288888
+[552]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM195519
