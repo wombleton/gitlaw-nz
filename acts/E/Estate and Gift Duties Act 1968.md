@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Inland Revenue Department.
 
@@ -236,7 +236,7 @@ This Act is administered by the Inland Revenue Department.
 [70][101][][101][No deduction to be made in respect of benefit to donor][101]
 
 [Part 5][102]  
-[Exemptions and relief from gift duty][102]
+[Exemptions and reliefs from gift duty][102]
 
 [Exemptions][103]
 
@@ -314,6 +314,8 @@ This Act is administered by the Inland Revenue Department.
 [Part 7][139]  
 [Objections][139]
 
+\[Repealed\]
+
 [90][140][][140][Objections to assessments][140] \[Repealed\]
 
 [90A][141][][141][Application of Parts 4A and 8A of Tax Administration Act 1994][141]
@@ -379,9 +381,9 @@ An Act to consolidate and amend the law relating to estate duty and gift duty
     
 *   (1) In this Act, unless the context otherwise requires,---
     
-    _administration_ means any probate, letters of administration, rule or order of any court, or any other document whereby any person becomes entitled at law to administer the estate of a deceased person or any part of his estate; and includes all probates or letters of administration granted out of New Zealand and all exemplifications thereof, if those probates, letters of administration, or exemplifications have been resealed in New Zealand under the [Administration Act 1969][161]. For the purposes of this Act, any probate or letters of administration granted out of New Zealand shall be deemed to have been granted when the probate or letters of administration or an exemplification thereof are resealed in New Zealand
+    _administration_ means any probate, letters of administration, rule or order of any court, or any other document whereby any person becomes entitled at law to administer the estate of a deceased person or any part of his or her estate; and includes all probates or letters of administration granted out of New Zealand and all exemplifications thereof, if those probates, letters of administration, or exemplifications have been resealed in New Zealand under the [Administration Act 1969][161]. For the purposes of this Act, any probate or letters of administration granted out of New Zealand shall be deemed to have been granted when the probate or letters of administration or an exemplification thereof are resealed in New Zealand
     
-    _administrator_ means any person to whom administration has been granted, or who is entitled in consequence of any other administration to administer the estate of a deceased person or any part of his estate
+    _administrator_ means any person to whom administration has been granted, or who is entitled in consequence of any other administration to administer the estate of a deceased person or any part of his or her estate
     
     _Commissioner_ means the Commissioner of Inland Revenue as defined in the [Tax Administration Act 1994][160]
     
@@ -427,7 +429,7 @@ An Act to consolidate and amend the law relating to estate duty and gift duty
     
     *   (e) the exercise of a general power of appointment in favour of any person other than the holder of the power:
     
-    *   (f) any transaction or series of related or connected transactions entered into by any person with intent thereby to diminish, directly or indirectly, the value of his own estate and to increase the value of the estate of any other person; and for this purpose the passing by a company of a resolution which, by the extinguishment or alteration of the rights attaching to any shares or debentures of the company, results, directly or indirectly, in the estate of any shareholder or debenture holder of the company being increased in value at the expense of the estate of any other shareholder or debenture holder shall be deemed to be a transaction entered into by that other shareholder or debenture holder if he could have prevented the passing of the resolution by voting against it or otherwise;---
+    *   (f) any transaction or series of related or connected transactions entered into by any person with intent thereby to diminish, directly or indirectly, the value of his or her own estate and to increase the value of the estate of any other person; and for this purpose the passing by a company of a resolution which, by the extinguishment or alteration of the rights attaching to any shares or debentures of the company, results, directly or indirectly, in the estate of any shareholder or debenture holder of the company being increased in value at the expense of the estate of any other shareholder or debenture holder shall be deemed to be a transaction entered into by that other shareholder or debenture holder if he or she could have prevented the passing of the resolution by voting against it or otherwise;---
     
     but does not include a disclaimer of an interest under a disposition made _inter vivos_ or by will or of an interest under an intestacy
     
@@ -521,7 +523,7 @@ An Act to consolidate and amend the law relating to estate duty and gift duty
     
     Section 2(1) **Minister**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64). 
     
-    Section 2(1) **orphan infant child**: repealed (with effect on 21 June 1979, and applying to the estates of all persons dying on or after that date), on 19 October 1979, by [section 2(1)][172] of the Estate and Gift Duties Amendment Act 1979 (1979 No 24).
+    Section 2(1) **orphan infant child**: repealed (with effect on 21 June 1979 and applying to the estates of all persons dying on or after that date), on 19 October 1979, by [section 2(1)][172] of the Estate and Gift Duties Amendment Act 1979 (1979 No 24).
     
     Section 2(1) **penalty on gift duty**: inserted, on 26 July 1996, by [section 2(2)][171] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
     
@@ -853,37 +855,37 @@ Exemptions and reliefs from estate duty
     
 *   \[Repealed\]
     
-    Section 36: repealed (with effect on 21 June 1979, and applying to the estates of all persons dying on or after that date), on 19 October 1979, by [section 5(1)(a)][179] of the Estate and Gift Duties Amendment Act 1979 (1979 No 24).
+    Section 36: repealed (with effect on 21 June 1979 and applying to the estates of all persons dying on or after that date), on 19 October 1979, by [section 5(1)(a)][179] of the Estate and Gift Duties Amendment Act 1979 (1979 No 24).
 
 ##### 37 Relief for succession of husband
     
 *   \[Repealed\]
     
-    Section 37: repealed (with effect on 21 June 1979, and applying to the estates of all persons dying on or after that date), on 19 October 1979, by [section 5(1)(b)][179] of the Estate and Gift Duties Amendment Act 1979 (1979 No 24).
+    Section 37: repealed (with effect on 21 June 1979 and applying to the estates of all persons dying on or after that date), on 19 October 1979, by [section 5(1)(b)][179] of the Estate and Gift Duties Amendment Act 1979 (1979 No 24).
 
 ##### 38 Relief for succession of infant children
     
 *   \[Repealed\]
     
-    Section 38: repealed (with effect on 21 June 1979, and applying to the estates of all persons dying on or after that date), on 19 October 1979, by [section 5(1)(c)][179] of the Estate and Gift Duties Amendment Act 1979 (1979 No 24).
+    Section 38: repealed (with effect on 21 June 1979 and applying to the estates of all persons dying on or after that date), on 19 October 1979, by [section 5(1)(c)][179] of the Estate and Gift Duties Amendment Act 1979 (1979 No 24).
 
 ##### 38A Relief for succession of orphan infant child
     
 *   \[Repealed\]
     
-    Section 38A: repealed (with effect on 21 June 1979, and applying to the estates of all persons dying on or after that date), on 19 October 1979, by [section 2(2)][172] of the Estate and Gift Duties Amendment Act 1979 (1979 No 24).
+    Section 38A: repealed (with effect on 21 June 1979 and applying to the estates of all persons dying on or after that date), on 19 October 1979, by [section 2(2)][172] of the Estate and Gift Duties Amendment Act 1979 (1979 No 24).
 
 ##### 39 Relief for successions in estates of servicemen
     
 *   \[Repealed\]
     
-    Section 39: repealed (with effect on 21 June 1979, and applying to the estates of all persons dying on or after that date), on 19 October 1979, by [section 5(1)(d)][179] of the Estate and Gift Duties Amendment Act 1979 (1979 No 24).
+    Section 39: repealed (with effect on 21 June 1979 and applying to the estates of all persons dying on or after that date), on 19 October 1979, by [section 5(1)(d)][179] of the Estate and Gift Duties Amendment Act 1979 (1979 No 24).
 
 ##### 39A Relief for succession of charitable successor
     
 *   \[Repealed\]
     
-    Section 39A: repealed (with effect on 21 June 1979, and applying to the estates of all persons dying on or after that date), on 19 October 1979, by [section 3(4)][180] of the Estate and Gift Duties Amendment Act 1979 (1979 No 24).
+    Section 39A: repealed (with effect on 21 June 1979 and applying to the estates of all persons dying on or after that date), on 19 October 1979, by [section 3(4)][180] of the Estate and Gift Duties Amendment Act 1979 (1979 No 24).
 
 ##### 40 Relief for estate duty paid outside New Zealand
     
@@ -1031,7 +1033,7 @@ Gift duty
 
 ##### 61 Gift duty imposed
     
-*   Subject to this Act, a duty (in this Act referred to as _gift duty_) shall be payable to the Crown in respect of every dutiable gift which is made after the commencement of this Act and before 1 October 2011\.
+*   Subject to this Act, a duty (in this Act referred to as gift duty) shall be payable to the Crown in respect of every dutiable gift which is made after the commencement of this Act and before 1 October 2011\.
     
     Compare: 1955 No 105 s 40
     
@@ -1107,7 +1109,7 @@ Gift duty
 
 ##### 65 Disposition of property by controlled company
     
-*   (1) For the purposes of this section, the term _controlled company_ means any company that, at the time when the disposition of property is made, is controlled by or on behalf of any one person (in this section referred to as the **controlling person**), whether directly or indirectly, and whether through holding a majority of the shares in the company or in any other company, or in any other manner whatever.
+*   (1) For the purposes of this section, the term _controlled company_ means any company that, at the time when the disposition of property is made, is controlled by or on behalf of any one person (in this section referred to as the controlling person), whether directly or indirectly, and whether through holding a majority of the shares in the company or in any other company, or in any other manner whatever.
     
     (2) Where a disposition of property is made by a controlled company to or for the benefit of---
         
@@ -1133,7 +1135,7 @@ Gift duty
 
 ##### 67 Valuation of property
     
-*   For gift duty purposes, and subject to [sections 68 to 70][92], the value of any property shall be ascertained by the Commissioner in such manner as he thinks fit.
+*   For gift duty purposes, and subject to [sections 68 to 70][92], the value of any property shall be ascertained by the Commissioner in such manner as he or she thinks fit.
     
     Compare: 1955 No 105 s 76; 1960 No 43 s 17(2)
 
@@ -1333,12 +1335,12 @@ Gift duty
     
     (2) Where any disposition of property is, in whole or in part, a dutiable gift, and is made in consideration of, or with the reservation of, any benefit or advantage to or in favour of the person making the disposition, no deduction or allowance shall be made in respect of that benefit or advantage in calculating the value of the dutiable gift.
     
-    (3) Notwithstanding anything in [section 78][125], the Commissioner may permit the cancellation or alteration of any instrument creating or evidencing a disposition of property to which this section applies, if application in writing is made by the parties to the instrument within 6 months after the date of the instrument, or within such extended time as the Commissioner thinks fit to allow in the special circumstances of the case. On evidence to his satisfaction being produced of any such cancellation or alteration, the disposition shall not constitute a dutiable gift except to the extent to which the transaction as altered constitutes a dutiable gift.
+    (3) Notwithstanding anything in [section 78][125], the Commissioner may permit the cancellation or alteration of any instrument creating or evidencing a disposition of property to which this section applies, if application in writing is made by the parties to the instrument within 6 months after the date of the instrument, or within such extended time as the Commissioner thinks fit to allow in the special circumstances of the case. On evidence to his or her satisfaction being produced of any such cancellation or alteration, the disposition shall not constitute a dutiable gift except to the extent to which the transaction as altered constitutes a dutiable gift.
     
     Compare: 1955 No 105 s 54
 
 ## Part 5  
-Exemptions and relief from gift duty
+Exemptions and reliefs from gift duty
 
 #### Exemptions
 
@@ -1538,7 +1540,7 @@ Exemptions and relief from gift duty
 
 ##### 74B Exemption for dividends
     
-*   No payment, distribution, or transaction (whether in money or money's worth) made by a donor being a company, unit trust, or group investment fund (as each of those terms are defined in the [Income Tax Act 2007][229]) to or with a donee being a company, unit trust, or group investment fund (as so defined) shall constitute a dutiable gift by the donor to the donee to the extent that the payment, distribution, or transaction constitutes a dividend derived by the donee for the purposes of the that Act, or would constitute such a dividend but for the application of [section CD 27][234] of that Act.
+*   No payment, distribution, or transaction (whether in money or money's worth) made by a donor being a company, unit trust, or group investment fund (as each of those terms are defined in the [Income Tax Act 2007][229]) to or with a donee being a company, unit trust, or group investment fund (as so defined) shall constitute a dutiable gift by the donor to the donee to the extent that the payment, distribution, or transaction constitutes a dividend derived by the donee for the purposes of that Act, or would constitute such a dividend but for the application of [section CD 27][234] of that Act.
     
     Section 74B: inserted, on 14 December 1992, by section 2 of the Estate and Gift Duties Amendment Act (No 2) 1992 (1992 No 117).
     
@@ -1566,7 +1568,7 @@ Exemptions and relief from gift duty
     
 *   (1) The following classes of payments, to the extent that they are gifts, shall not constitute dutiable gifts:
         
-    *   (a) contributions to a group superannuation scheme by an employer in respect of his employees or any class or classes of his employees:
+    *   (a) contributions to a group superannuation scheme by an employer in respect of his or her employees or any class or classes of his or her employees:
     
     *   (b) payments made by an employer to an employee in consequence of the retirement of that employee from the service of the employer, and any gratuity or bonus paid by an employer to an employee during the continuance of the employment in recognition of special or faithful services rendered, if---
             
@@ -1706,7 +1708,7 @@ Exemptions and relief from gift duty
     
     *   (b) _dividend_ means a dividend derived by a person from the release of an obligation to repay an amount lent:
     
-    *   (c) _financial arrangement_ is defined in [section EW 3(3)(a) or (b)][246] of the that Act.
+    *   (c) _financial arrangement_ is defined in [section EW 3(3)(a) or (b)][246] of that Act.
     
     (2) The forgiveness or remission of a liability, in whole or in part, under a financial arrangement is not a gift under this Act if and to the extent that the forgiveness or remission must be taken into account under the financial arrangements rules when a person calculates their income because it---
         
@@ -1776,13 +1778,13 @@ Exemptions and relief from gift duty
     
     (4) When the Cold Storage Nelson Limited shares owned by the Nelson Raspberry Marketing Committee vest in Rubus Investments Nelson Limited, the vesting does not constitute a dutiable gift to Rubus Investments Nelson Limited.
     
-    Section 75D: inserted, on 8 September 1999 (applying on and after the date that the Raspberry Marketing Authorities (Dissolution) Regulations 1999 were made), by [section 82(1)][252] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
+    Section 75D: inserted, on 8 September 1999 (applying on and after 12 July 1999), by [section 82(1)][252] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
 
 #### Reliefs
 
 ##### 76 Relief for subsequent gift of reserved benefit
     
-*   When the donor of a dutiable gift to which [section 70][101] applies (in this section referred to as the **original gift**) subsequently makes a dutiable gift of the whole or any part of the benefit or advantage (as defined in that section) created or reserved on the making of the original gift, there shall be deducted from the gift duty otherwise payable in respect of that subsequent gift (so far as that gift duty extends) an amount calculated in accordance with the following formula:
+*   When the donor of a dutiable gift to which [section 70][101] applies (in this section referred to as the original gift) subsequently makes a dutiable gift of the whole or any part of the benefit or advantage (as defined in that section) created or reserved on the making of the original gift, there shall be deducted from the gift duty otherwise payable in respect of that subsequent gift (so far as that gift duty extends) an amount calculated in accordance with the following formula:
     
     a× c
     
@@ -1817,7 +1819,7 @@ Assessment and collection of gift duty
 
 ##### 78 Instrument presented for stamping may be impounded
     
-*   If an instrument is presented to the Commissioner, and he is of the opinion that the instrument creates or evidences or may create or evidence a dutiable gift, the Commissioner may impound the instrument until the liability for gift duty has been determined and any gift duty due has been paid.
+*   If an instrument is presented to the Commissioner, and he or she is of the opinion that the instrument creates or evidences or may create or evidence a dutiable gift, the Commissioner may impound the instrument until the liability for gift duty has been determined and any gift duty due has been paid.
     
     Compare: 1955 No 105 s 60
     
@@ -1825,7 +1827,7 @@ Assessment and collection of gift duty
 
 ##### 79 Gift statement to be delivered to Commissioner by donor
     
-*   (1) Every donor shall deliver to the Commissioner, within 3 months after the making of any gift the value of which exceeds $12,000, or the value of which when aggregated with the value of all gifts made by the donor within 12 months previously exceeds $12,000, a statement in the prescribed form (in this Act referred to as the _gift statement_).
+*   (1) Every donor shall deliver to the Commissioner, within 3 months after the making of any gift the value of which exceeds $12,000, or the value of which when aggregated with the value of all gifts made by the donor within 12 months previously exceeds $12,000, a statement in the prescribed form (in this Act referred to as the gift statement).
     
     (2) If the gift has been created or is evidenced by any written instrument, the donor shall deliver to the Commissioner, together with the gift statement, the said instrument or a copy thereof verified to the satisfaction of the Commissioner as a true copy.
     
@@ -1837,7 +1839,7 @@ Assessment and collection of gift duty
     
 *   (1) If the donor of any gift the value of which exceeds $12,000 fails to deliver the gift statement to the Commissioner within the time limited by subsection (1) of [section 79][126], every donee and the trustees (if any) of any donee shall, without excluding the liability of the donor under section 79, deliver to the Commissioner within 1 month after the time so limited the gift statement, together with the instrument of gift (if any) or a copy thereof verified to the satisfaction of the Commissioner as a true copy.
     
-    (2) Where any donee, or any trustee of any donee, delivers the gift statement and the donor does not avail himself of his rights of objection under [Part 7][139], those rights may be exercised by the donee or the trustee of the donee.
+    (2) Where any donee, or any trustee of any donee, delivers the gift statement and the donor does not avail himself or herself of his or her rights of objection under [Part 7][139], those rights may be exercised by the donee or the trustee of the donee.
     
     Compare: 1955 No 105 s 61; 1964 No 74 s 7(2)
     
@@ -1859,9 +1861,9 @@ Assessment and collection of gift duty
     
     (3) Notwithstanding any assessment or payment of gift duty, or any notice by the Commissioner that no gift duty is payable, the Commissioner may at any time and from time to time thereafter, if for any reason whatever the gift duty has not been correctly assessed, make an assessment or amend the assessment of gift duty.
     
-    (4) As soon as conveniently may be after an assessment or amended assessment has been made, the Commissioner shall give notice of his assessment or amended assessment to the person who delivered the gift statement, or, in the case of an assessment under subsection (2) or any amendment to such an assessment, to the appropriate person.
+    (4) As soon as conveniently may be after an assessment or amended assessment has been made, the Commissioner shall give notice of his or her assessment or amended assessment to the person who delivered the gift statement, or, in the case of an assessment under subsection (2) or any amendment to such an assessment, to the appropriate person.
     
-    (5) If the Commissioner is of the opinion that no gift duty is payable, he shall give notice accordingly to the person to whom an assessment would be required to be given under subsection (4).
+    (5) If the Commissioner is of the opinion that no gift duty is payable, he or she shall give notice accordingly to the person to whom an assessment would be required to be given under subsection (4).
     
     (6) The Commissioner may assess by way of composition the gift duty the Commissioner considers is proper in the circumstances if it is difficult, impracticable or would cause undue delay or expense to determine the exact amount of gift duty payable because of complex or uncertain facts, or any other cause.
     
@@ -1923,11 +1925,11 @@ Assessment and collection of gift duty
     
 *   (1) Gift duty shall constitute a debt due and payable to the Crown by the donor.
     
-    (2) Without excluding the liability of the donor, gift duty shall also constitute a debt due and payable to the Crown by the donee, or, where there is more than 1 donee under the same dutiable gift, by each of the donees in proportion to the value of his interest in the dutiable gift:
+    (2) Without excluding the liability of the donor, gift duty shall also constitute a debt due and payable to the Crown by the donee, or, where there is more than 1 donee under the same dutiable gift, by each of the donees in proportion to the value of his or her interest in the dutiable gift:
     
-    provided that where the interest of a donee is a future interest he shall not become personally liable until it becomes an interest in possession.
+    provided that where the interest of a donee is a future interest he or she shall not become personally liable until it becomes an interest in possession.
     
-    (3) Where a gift has been made by way of trust for any donee, the gift duty shall, without excluding the liability of the donor or the donee, also constitute a debt due and payable to the Crown by the trustee in his capacity as trustee.
+    (3) Where a gift has been made by way of trust for any donee, the gift duty shall, without excluding the liability of the donor or the donee, also constitute a debt due and payable to the Crown by the trustee in his or her capacity as trustee.
     
     (4) Unless it is otherwise provided by the terms of the gift, the donee and trustee shall each be entitled to be indemnified by the donor against all liability under this section.
     
@@ -1991,7 +1993,7 @@ Assessment and collection of gift duty
 
 ##### 89 Refund of gift duty, penalty, and interest paid in excess
     
-*   (1) Subject to subsection (2), where, at any time within 8 years after the date of payment, or if application for the refund is made in writing within that period, the Commissioner is satisfied that gift duty, penalty on gift duty, or interest on gift duty has been paid in excess, whether as a result of any remission under [Part 11][266] of the Tax Administration Act 1994 or otherwise howsoever, he may refund the excess to the person entitled.
+*   (1) Subject to subsection (2), where, at any time within 8 years after the date of payment, or if application for the refund is made in writing within that period, the Commissioner is satisfied that gift duty, penalty on gift duty, or interest on gift duty has been paid in excess, whether as a result of any remission under [Part 11][266] of the Tax Administration Act 1994 or otherwise howsoever, he or she may refund the excess to the person entitled.
     
     (2) Where gift duty has been reassessed under [section 68G][99], the Commissioner shall refund to the person entitled thereto any gift duty, penalty on gift duty, or interest on gift duty paid in excess, together with interest computed and payable in accordance with [Part 7][164] of the Tax Administration Act 1994\.
     
@@ -2013,6 +2015,8 @@ Assessment and collection of gift duty
 
 ## Part 7  
 Objections
+
+\[Repealed\]
     
 *   Part 7: repealed, on 1 October 1996, by [section 8(1)][272] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62). 
 
@@ -2089,7 +2093,7 @@ Miscellaneous provisions
 
 ##### 98 Commissioner may destroy records after 15 years
     
-*   At any time after the expiration of 15 years from the date of death of any person or from the date of the making of any gift, the Commissioner may, at his discretion, destroy any statement or other document or record delivered to him or kept by him under this Act or any former Act in connection with that death or that gift.
+*   At any time after the expiration of 15 years from the date of death of any person or from the date of the making of any gift, the Commissioner may, at his or her discretion, destroy any statement or other document or record delivered to him or her or kept by him or her under this Act or any former Act in connection with that death or that gift.
     
     Compare: 1955 No 105 s 85
     
@@ -2885,7 +2889,7 @@ Scale of rates of gift duty
 
 *   Schedule 3: replaced, on 1 April 1984 (rates of gift duty applying to all dutiable gifts made on or after that day), by [section 5(1)][281] of the Estate and Gift Duties Amendment Act 1983 (1983 No 3).
 
-Value of item b in section 62Rate 
+**Value of item b in section 62**Rate 
 
 Note: _Excess_ means excess of the value in complete dollars
 
@@ -2969,7 +2973,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Estate and Gift Duties Amendment Act 1968 (1968 No 5)
 
-##### Family Protection Act 1955 (1955 No 88)
+##### Family Protection Act 1955 (1955 No 88) (1957 Reprint, Vol 4, p 848)
 
 _Amendment(s) incorporated in the [Act(s)][189]._
 
@@ -2991,7 +2995,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 _Amendment(s) incorporated in the Act(s)._
 
-##### Law Reform (Testamentary Promises) Act 1949 (1949 No 33)
+##### Law Reform (Testamentary Promises) Act 1949 (1949 No 33) (1957 Reprint, Vol 7, p 825)
 
 _Amendment(s) incorporated in the [Act(s)][188]._
 
@@ -2999,7 +3003,7 @@ _Amendment(s) incorporated in the [Act(s)][188]._
 
 _Amendment(s) incorporated in the Act(s)._
 
-##### Maori Purposes Act 1955 (1955 No 106) 
+##### Maori Purposes Act 1955 (1955 No 106) (Reprinted 1964, Vol 3, p 2185)
 
 _Amendment(s) incorporated in the [Act(s)][284]._
 
@@ -3007,7 +3011,7 @@ _Amendment(s) incorporated in the [Act(s)][284]._
 
 _Amendment(s) incorporated in the Act(s)._
 
-##### Patriotic and Canteen Funds Act 1947 (1947 No 63)
+##### Patriotic and Canteen Funds Act 1947 (1947 No 63) (1957 Reprint, Vol 11, p 637)
 
 _Amendment(s) incorporated in the [Act(s)][283]._
 
@@ -3015,186 +3019,25 @@ _Amendment(s) incorporated in the [Act(s)][283]._
 
 _Amendment(s) incorporated in the Act(s)._
 
----
-
-# Estate and Gift Duties Amendment Act 1996Public Act1996 No 62
-
-Date of assent26 July 1996
-
-Commencementsee section 1
-
-##### 1 Short Title, application, and commencement
-    
-*   (1) This Act may be cited as the [Estate and Gift Duties Amendment Act 1996][285], and shall be read together with and deemed part of the Estate and Gift Duties Act 1968 (in this Act referred to as ""the principal Act"").
-    
-    (2) Except as provided in subsections (3) and (4), and subject to section 6, the provisions of this Act shall apply with respect to tax obligations, liabilities, and rights that are to be performed under or arise with respect to all dutiable gifts made on or after 1 April 1997\.
-    
-    (3) Except as provided in subsection (4), sections 3, 8, and 9 come into force on 1 October 1996\.
-    
-    (4) Where---
-        
-    *   (a) a provision of this Act amends, inserts, or repeals a provision (the _relevant provision_) of the principal Act; and
-    
-    *   (b) the relevant provision is referred to in, or necessary for the purposes of, another provision (the _other provision_) of the principal Act; and
-    
-    *   (c) the other provision---
-            
-        *   (i) is amended, inserted, or repealed by this Act; and
-        
-        *   (ii) has an application date that is not the same as the general application date for the relevant provision,---
-        
-        
-    
-    the relevant provision shall, for all purposes in regard to the other provision, have the same application date as the other provision.
-
-##### 8 Repeal of Part 7---objections
-    
-*   (1) Part 7 is repealed.
-    
-    (2) Notwithstanding subsection (1), Part 7 of the principal Act continues to apply as if it had not been repealed to every notice of assessment or reassessment---
-        
-    *   (a) issued by the Commissioner under the principal Act before 1 April 1996; or
-    
-    *   (b) referred to in section 90A(2) of the principal Act (as inserted by section 9 of this Act).
-    
-    (3) The Commissioner may, with the written agreement of a person who has been assessed for a tax liability under this Act, specify that a notice of assessment or reassessment---
-        
-    *   (a) issued before 1 October 1996, is to be treated as if it had been issued after that date (in which case the provisions of Parts 4A and 8A of the Tax Administration Act 1994 apply to the notice); or
-    
-    *   (b) issued on or after 1 October 1996, is to be treated as if it had been issued before that date (in which case the provisions of Part 7 of the principal Act continue to apply to the notice).
-    
-    
+#### 
 
 ---
 
-# Taxation (Tax Administration and Remedial Matters) Act 2011Public Act2011 No 63
-
-Date of assent29 August 2011
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Taxation (Tax Administration and Remedial Matters) Act 2011][286].
-
-##### 2 Commencement
-    
-*   (1) This Act comes into force on the date on which it receives the Royal assent, except as provided in this section.
-    
-    (2) Sections 219 and 222 are treated as coming into force on 1 April 1995\.
-    
-    (3) Sections 220 and 221 are treated as coming into force on 1 April 1997\.
-    
-    (4) Sections 192, 193, 194, 195, 196, 197, 198, 201, 206, 207, and 208 are treated as coming into force on 1 April 2005\.
-    
-    (5) Sections 199, 200, and 202 are treated as coming into force on 1 April 2007\.
-    
-    (6) Sections 203, 204, and 205 are treated as coming into force on 1 October 2007\.
-    
-    (7) Sections 4, 7, 12, 13, 17, 18, 19, 20, 22, 31, 32, 33, 34, 35, 40, 41, 45(1), (3), (4), and (6), 46, 48, 49, 50, 91, 92(1) and (3), 93, 94(1), (3), (7), (8), and (10), 96(1), (3), (4), and (5), 97(1), (2), (3), (6), and (8), 98, 99, 100, 101, 102, 103, 104, 108, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 124, 130(3), (5), (10), (15), (16), and (19), 131, 133, 135, 140, 161, and 210 are treated as coming into force on 1 April 2008\.
-    
-    (8) Section 130(14) is treated as coming into force on 1 January 2009\.
-    
-    (9) Sections 21(1) and (3), 37(1), (3), and (5), 39, 42, 44(1) and (3), 94(4), (5), (6), (9), and (11), 95, 96(2) and (6), 97(5), (7), and (9), and 130(6), (8), and (17) come into force on 30 June 2009\.
-    
-    (10) Sections 109 and 110 come into force on 5 January 2010\.
-    
-    (11) Sections 53, 54(1) and (5), 59(1) and (2), 65, 80(1), (3), (4), and (5), 106(1) and (3), and 130(9) and (18) are treated as coming into force on 1 April 2010\.
-    
-    (12) Section 237 comes into force on 1 July 2010\.
-    
-    (13) Sections 5, 11, 23, 24, 25, 26, 27, 43, and 188 are treated as coming into force on 4 September 2010\.
-    
-    (14) Sections 47, 130(2), and 160 are treated as coming into force on 30 September 2010\.
-    
-    (15) Section 136(8) is treated as coming into force on 1 October 2010\.
-    
-    (16) Section 45(2) and (5) are treated as coming into force on the day of introduction for the Taxation (Tax Administration and Remedial Matters) Bill.
-    
-    (17) Sections 28, 29, 30, 88, 89, 107, 134, 136(1), (2), (3), (6), (7), and (9), 139, 209, 235(1)(b) and (c), (2), and (3), 236, 238, 239, 240, 241, 243, 244(2) and (3) are treated as coming into force on 1 April 2011\.
-    
-    (18) Section 132 is treated as coming into force on 1 May 2011\.
-    
-    (19) Sections 92(2), 94(2) and (12), and 97(4) and (10) come into force on 1 July 2011\.
-    
-    (20) Section 245 comes into force on 1 October 2011\.
-    
-    (21) Sections 9(3) and (5), 71, 81, 106(2) and (4), 123, 130(13) and (20), 136(4) and (5), and 138 come into force on 1 April 2012\.
-    
-    (22) Sections 21(2) and (4), 37(2), (4), and (6), and 44(2) and (4) come into force on 30 June 2013\.
-
-#### Abolition of gift duty
-
-##### 245 Estate and Gift Duties Act 1968
-    
-*   (1) No gift duty is payable under the Estate and Gift Duties Act 1968 in relation to a gift made on or after 1 October 2011\.
-    
-    (2) _Amendment(s) incorporated in the Act(s)._
-    
-    (3) _Amendment(s) incorporated in the Act(s)._
-
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Estate and Gift Duties Act 1968\. The reprint incorporates all the amendments to the Act as at 1 October 2011, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][287] ![](/images/external_link.gif).
+*   This is a reprint of the Estate and Gift Duties Act 1968 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][288] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][285] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][286] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][289] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][287] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][288] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
-    
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][290] and [17E][291] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
-    
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+###### 4 Amendments incorporated in this reprint
     
 *   Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63): [section 245][175]
     
@@ -3216,7 +3059,7 @@ Commencementsee section 2
     
     Charities Act 2005 (2005 No 39): [section 72][212]
     
-    [Estate and Gift Duties Amendment Act 2005][292] (2005 No 8)
+    [Estate and Gift Duties Amendment Act 2005][289] (2005 No 8)
     
     Income Tax Act 2004 (2004 No 35): [section YA 2][239]
     
@@ -3228,11 +3071,11 @@ Commencementsee section 2
     
     Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85): [sections 243--246][248]
     
-    Property (Relationships) Amendment Act 2001 (2001 No 5): [sections 64(2)][176], [65][293]
+    Property (Relationships) Amendment Act 2001 (2001 No 5): [sections 64(2)][176], [65][290]
     
     Taxation (Remedial Matters) Act 1999 (1999 No 98): [section 82][252]
     
-    Estate Duty Repeal Act 1999 (1999 No 64): [Part 1][294]
+    Estate Duty Repeal Act 1999 (1999 No 64): [Part 1][291]
     
     Stamp Duty Abolition Act 1999 (1999 No 61): [section 7][181]
     
@@ -3244,7 +3087,7 @@ Commencementsee section 2
     
     Taxation (Core Provisions) Act 1996 (1996 No 67): section 484
     
-    [Estate and Gift Duties Amendment Act 1996][285] (1996 No 62)
+    [Estate and Gift Duties Amendment Act 1996][292] (1996 No 62)
     
     New Zealand Antarctic Institute Act 1996 (1996 No 38): [section 18][227]
     
@@ -3256,7 +3099,7 @@ Commencementsee section 2
     
     Arts Council of New Zealand Toi Aotearoa Act 1994 (1994 No 19): [sections 33][218], [35][219]
     
-    [Estate and Gift Duties Amendment Act 1993][295] (1993 No 132)
+    [Estate and Gift Duties Amendment Act 1993][293] (1993 No 132)
     
     Historic Places Act 1993 (1993 No 38): [section 118(1)][214]
     
@@ -3276,19 +3119,19 @@ Commencementsee section 2
     
     Public Finance Act 1989 (1989 No 44): [section 65R(3)][270]
     
-    Superannuation Schemes Act 1989 (1989 No 10): [sections 31(1)][170], [32(3)][296]
+    Superannuation Schemes Act 1989 (1989 No 10): [sections 31(1)][170], [32(3)][294]
     
     Sport, Fitness, and Leisure Act 1987 (1987 No 13): [section 40(1)(c)][224]
     
     Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4): [section 3][196]
     
-    [Estate and Gift Duties Amendment Act 1983][297] (1983 No 3)
+    [Estate and Gift Duties Amendment Act 1983][295] (1983 No 3)
     
     Inland Revenue Department Amendment Act 1980 (1980 No 32): section 8(2)
     
     Judicature Amendment Act 1979 (1979 No 124): [section 12][254]
     
-    [Estate and Gift Duties Amendment Act 1979][298] (1979 No 24)
+    [Estate and Gift Duties Amendment Act 1979][296] (1979 No 24)
     
     Queen Elizabeth the Second National Trust Act 1977 (1977 No 102): [section 30(4)][225]
     
@@ -3316,7 +3159,7 @@ Commencementsee section 2
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1968/0035/latest/whole.html#DLM385594
 [2]: http://www.legislation.govt.nz/act/public/1968/0035/latest/whole.html#DLM385596
 [3]: http://www.legislation.govt.nz/act/public/1968/0035/latest/whole.html#DLM385598
@@ -3601,17 +3444,15 @@ Commencementsee section 2
 [282]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM352254
 [283]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM246644
 [284]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM293837
-[285]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM393706
-[286]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM3388802
-[287]: http://www.pco.parliament.govt.nz/reprints/
-[288]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM195439
-[289]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[290]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM195468
-[291]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM195470
-[292]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM335077
-[293]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM87571
-[294]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM30077
-[295]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM328332
-[296]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM144055
-[297]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM66541
-[298]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM32022
+[285]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM2998516
+[286]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM2998515
+[287]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM2998532
+[288]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[289]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM335077
+[290]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM87571
+[291]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM30077
+[292]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM393706
+[293]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM328332
+[294]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM144055
+[295]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM66541
+[296]: http://www.legislation.govt.nz/act/public/1968/0035/latest/link.aspx?id=DLM32022
