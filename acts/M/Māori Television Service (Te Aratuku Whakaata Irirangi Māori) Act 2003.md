@@ -1,5 +1,5 @@
 Reprint  
-as at 28 November 2013
+as at 1 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -93,17 +93,19 @@ This Act is administered by Te Puni Kōkiri.
 
 [Subpart 2][34][---][34][Provisions relating to UHF right][34]
 
-[20A][35][][35][Expiry of subpart 2][35]
+\[Repealed\]
+
+[20A][35][][35][Expiry of subpart 2][35] \[Repealed\]
 
 [Transfer of UHF right to Service][36]
 
-[21][37][][37][Transfer of UHF right from Crown to Service][37]
+[21][37][][37][Transfer of UHF right from Crown to Service][37] \[Repealed\]
 
-[22][38][][38][Use of UHF right by Service][38]
+[22][38][][38][Use of UHF right by Service][38] \[Repealed\]
 
-[23][39][][39][Transfer of UHF right and spectrum licences by Service][39]
+[23][39][][39][Transfer of UHF right and spectrum licences by Service][39] \[Repealed\]
 
-[24][40][][40][Role of Te Pūtahi Paoho in relation to UHF right][40]
+[24][40][][40][Role of Te Pūtahi Paoho in relation to UHF right][40] \[Repealed\]
 
 [Subpart 2A][41][---][41][Provisions relating to spectrum management rights][41]
 
@@ -710,65 +712,43 @@ Key provisions relating to appointment and duties of directors, transfer of UHF 
 
 ### Subpart 2---Provisions relating to UHF right
 
+\[Repealed\]
+    
+*   Subpart 2: repealed, on 1 December 2013, by [section 20A][132].
+
 ##### 20A Expiry of subpart 2
     
-*   This subpart expires and is repealed at the close of 30 November 2013\.
+*   \[Repealed\]
     
-    Section 20A: inserted, on 28 November 2013, by [section 9][132] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Amendment Act 2013 (2013 No 99).
+    Section 20A: repealed, on 1 December 2013, by [section 20A][132].
 
 #### Transfer of UHF right to Service
+    
+*   Heading: repealed, on 1 December 2013, by [section 20A][132].
 
 ##### 21 Transfer of UHF right from Crown to Service
     
-*   (1) The chairperson of the board must,---
-        
-    *   (a) in consultation with the chairperson of Te Pūtahi Paoho, determine the date of transfer of the UHF right to the Service from the Crown, acting by and through the chief executive of the Ministry of Economic Development; and
+*   \[Repealed\]
     
-    *   (b) give written notice not less than 20 working days prior to that date to---
-            
-        *   (i) the chief executive of the Ministry of Economic Development; and
-        
-        *   (ii) the chairperson of Te Pūtahi Paoho; and
-        
-        *   (iii) the responsible Ministers.
-        
-        
-    
-    (2) The chief executive of the Ministry of Economic Development must transfer the UHF right to the Service on or before the date notified under subsection (1)(b).
+    Section 21: repealed, on 1 December 2013, by [section 20A][132].
 
 ##### 22 Use of UHF right by Service
     
-*   As soon as reasonably practicable after the transfer of the UHF right from the Crown to the Service under [section 21][37], the Service must, in performing its functions set out in [section 8][14], decide whether to create for its use spectrum licences under the UHF right.
+*   \[Repealed\]
+    
+    Section 22: repealed, on 1 December 2013, by [section 20A][132].
 
 ##### 23 Transfer of UHF right and spectrum licences by Service
     
-*   (1) If the Service does not require the UHF right transferred by the Crown under [section 21][37], it must transfer the UHF right to Te Pūtahi Paoho.
+*   \[Repealed\]
     
-    (2) If the Service ceases to use the spectrum licences created for its use under the UHF right in accordance with [section 22][38], it must cancel the spectrum licences.
-    
-    (3) If the Service proposes to transfer the UHF right to a third party, or to create spectrum licences for, or to transfer spectrum licences to, a third party (other than Te Pūtahi Paoho), it must---
-        
-    *   (a) prepare and present to Te Pūtahi Paoho a business plan on the proposal; and
-    
-    *   (b) obtain the agreement of Te Pūtahi Paoho to the proposed transfer.
-    
-    (4) In subsection (3), _business plan_ means a plan stating how a proposal referred to in that subsection would fulfil the Service's functions set out in [section 8][14], and the terms and conditions of that transfer.
+    Section 23: repealed, on 1 December 2013, by [section 20A][132].
 
 ##### 24 Role of Te Pūtahi Paoho in relation to UHF right
     
-*   (1) If the Service transfers the UHF right to Te Pūtahi Paoho under [section 23(1)][39], Te Pūtahi Paoho must, in consultation with the responsible Ministers, transfer the UHF right---
-        
-    *   (a) to an appropriate television broadcaster, to be used for the purpose of promoting and protecting te reo Māori me ngā tikanga Māori; or
+*   \[Repealed\]
     
-    *   (b) to the Crown, to be used in fulfilling the functions set out in [section 8][14].
-    
-    (2) If the Service proposes to transfer the UHF right to a third party, or to create spectrum licences for, or to transfer spectrum licences to, a third party under [section 23(3)][39], Te Pūtahi Paoho must, before agreeing to the proposal,---
-        
-    *   (a) consult with the responsible Ministers; and
-    
-    *   (b) have regard to the fact that the UHF right was provided to the Service to use for the purpose of protecting and promoting te reo Māori me ngā tikanga Māori.
-    
-    
+    Section 24: repealed, on 1 December 2013, by [section 20A][132].
 
 ### Subpart 2A---Provisions relating to spectrum management rights
     
@@ -2622,6 +2602,8 @@ Employment provisions
     Criminal Procedure Act 2011 (2011 No 81): [section 413][117]
     
     Securities Amendment Act 2006 (2006 No 46): [section 25][165]
+    
+    Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003 (2003 No 21): [section 20A][35]
 
 
 
@@ -2757,7 +2739,7 @@ Employment provisions
 [129]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194587
 [130]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194594
 [131]: http://www.legislation.govt.nz/act/public/2003/0021/latest/whole.html#DLM194907
-[132]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662129
+[132]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM5770802
 [133]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM4662131
 [134]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM196937
 [135]: http://www.legislation.govt.nz/act/public/2003/0021/latest/link.aspx?id=DLM195581
