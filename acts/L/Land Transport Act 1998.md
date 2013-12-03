@@ -7137,7 +7137,7 @@ Disqualification, demerit points, licence suspension, and vehicle impoundment
     
     (2) If a court makes an order to which this section applies, the Registrar of the court must notify the Agency and the offender in writing of the particulars of the order.
     
-    (2) A failure to comply with the notification requirements in subsection (1) does not affect the validity of the order concerned.
+    (3) A failure to comply with the notification requirements in subsection (1) does not affect the validity of the order concerned.
     
     Section 87 heading: amended, on 10 September 2012, by [section 50(1)][833] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
@@ -7145,7 +7145,7 @@ Disqualification, demerit points, licence suspension, and vehicle impoundment
     
     Section 87(1): replaced, on 10 September 2012, by [section 50(2)][833] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 87 first subsection (2): inserted, on 10 September 2012, by [section 50(2)][833] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 87(2): inserted, on 10 September 2012, by [section 50(2)][833] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
 #### Disqualification of transport service driver and other persons
     
