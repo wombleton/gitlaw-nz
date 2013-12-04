@@ -661,17 +661,17 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 4 Principal Act
     
-*   [Sections 5 to 15][5] amend the Building Societies Act 1965 (the _principal Act_).
+*   [Sections 5 to 15][5] amend the [Building Societies Act 1965][313] (the _principal Act_).
 
 ##### 5 Section 2 amended (Interpretation)
     
-*   (1) In [section 2(1)][313], replace the definition of _financial year_ with:
+*   (1) In [section 2(1)][314], replace the definition of _financial year_ with:
     
     > "_financial year_, in relation to a society, means a year ending on a balance date of the society (within the meaning of section 41 of the Financial Reporting Act 2013), and if, as a result of the date of the incorporation of the society or a change of the balance date of the society, the period ending on that date is longer or shorter than a year, that longer or shorter period is a financial year".
     
-    (2) In [section 2(1)][313], repeal the definitions of **licensed auditor** and _registered audit firm_.
+    (2) In [section 2(1)][314], repeal the definitions of **licensed auditor** and _registered audit firm_.
     
-    (3) In [section 2(1)][313], insert in their appropriate alphabetical order:
+    (3) In [section 2(1)][314], insert in their appropriate alphabetical order:
     
     > "_applicable auditing and assurance standard_ has the same meaning as in section 5 of the Financial Reporting Act 2013
     > 
@@ -683,7 +683,7 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 6 Sections 90 to 94 and cross-heading above section 90 replaced
     
-*   Replace [sections 90 to 94][314] and the cross-heading above section 90 with:
+*   Replace [sections 90 to 94][315] and the cross-heading above section 90 with:
     
     > #### "Accounting records and financial reporting
     > 
@@ -719,7 +719,7 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 7 Sections 95 to 97B replaced
     
-*   Replace [sections 95 to 97B][315] with:
+*   Replace [sections 95 to 97B][316] with:
     
     > ##### "95 Directors' report
     >     
@@ -781,11 +781,11 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 8 Section 98 amended (Appointment of auditors)
     
-*   Repeal [section 98(2) and (2A)][316].
+*   Repeal [section 98(2) and (2A)][317].
 
 ##### 9 Section 100 replaced (Disqualifications for appointment as auditor)
     
-*   Replace [section 100][317] with:
+*   Replace [section 100][318] with:
     
     > ##### "100 Qualifications of auditors and access to information
     >     
@@ -799,11 +799,11 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 10 Section 101 amended (Auditors' report, right of access to books, and right to attend meetings)
     
-*   (1) In the heading to [section 101][318], delete ""**, right of access to books,**"".
+*   (1) In the heading to [section 101][319], delete ""**, right of access to books,**"".
     
-    (2) In [section 101(1)][318], delete ""on the accounts examined by them, and"".
+    (2) In [section 101(1)][319], delete ""on the accounts examined by them, and"".
     
-    (3) Replace [section 101(2) to (6)][318] with:
+    (3) Replace [section 101(2) to (6)][319] with:
     
     > *   "(2) An auditor must, in carrying out an audit for the purposes of subsection (1) or section 92, comply with all applicable auditing and assurance standards.
     > 
@@ -815,25 +815,25 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 11 Section 102 repealed (Accounts of groups in terminating society)
     
-*   Repeal [section 102][319].
+*   Repeal [section 102][320].
 
 ##### 12 Section 106 amended (Auditors' report on annual return)
     
-*   In [section 106(3)(c)][320], replace ""books of account and records"" with ""accounting and other records"".
+*   In [section 106(3)(c)][321], replace ""books of account and records"" with ""accounting and other records"".
 
 ##### 13 Section 121B amended (Registration of documents)
     
-*   In [section 121B(1)(b)][321], replace ""section 97A(1)"" with ""section 96(1)"".
+*   In [section 121B(1)(b)][322], replace ""section 97A(1)"" with ""section 96(1)"".
 
 ##### 14 Section 130 amended (Form in which records may be kept)
     
-*   In [section 130(1) and (2)][322], replace ""book of account"" with ""accounting record"".
+*   In [section 130(1) and (2)][323], replace ""book of account"" with ""accounting record"".
 
 ##### 15 Section 137 amended (Regulations)
     
-*   (1) Repeal [section 137(1)(aa)][323].
+*   (1) Repeal [section 137(1)(aa)][324].
     
-    (2) Replace [section 137(1)(ac)][323] with:
+    (2) Replace [section 137(1)(ac)][324] with:
     
     > *   "(ac) requiring financial statements required under section 92 to be audited by a qualified auditor:".
     > 
@@ -843,19 +843,19 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 16 Consequential amendments to Building Societies Regulations 1989
     
-*   (1) This section amends the Building Societies Regulations 1989\.
+*   (1) This section amends the [Building Societies Regulations 1989][325].
     
-    (2) In the [Part 2][324] heading, replace ""**Financial statements and annual**"" with ""**Annual**"".
+    (2) In the [Part 2][326] heading, replace ""**Financial statements and annual**"" with ""**Annual**"".
     
-    (3) Revoke [regulations 17 to 38][325] and the cross-headings above [regulations 17][325], [23][326], [25][327], and [38][328].
+    (3) Revoke [regulations 17 to 38][327] and the cross-headings above [regulations 17][327], [23][328], [25][329], and [38][330].
     
-    (4) Revoke [Schedule 4][329].
+    (4) Revoke [Schedule 4][331].
 
 ##### 17 Transitional provision
     
 *   (1) The Building Societies Act 1965, as amended by [sections 5 to 15][5], applies to a society in relation to financial years that commence on or after the commencement of this section.
     
-    (2) The [Building Societies Act 1965][330] and the [Building Societies Regulations 1989][331], as in force before the commencement of this section, continue to apply to a society in relation to financial years that commenced before the commencement of this section as if this Act and the [Financial Reporting Act 2013][312] had not been enacted.
+    (2) The [Building Societies Act 1965][313] and the [Building Societies Regulations 1989][325], as in force before the commencement of this section, continue to apply to a society in relation to financial years that commenced before the commencement of this section as if this Act and the [Financial Reporting Act 2013][312] had not been enacted.
     
     (3) This section is subject to [sections 55 and 56][332] of the Financial Reporting Act 2013 (which require issuers, on a transitional basis, to continue complying with the [Financial Reporting Act 1993][333] and provide transitional rules for FMC reporting entities).
 
@@ -863,11 +863,11 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 18 Principal Act
     
-*   [Sections 19 to 21][29] amend the Charities Act 2005 (the _principal Act_).
+*   [Sections 19 to 21][29] amend the [Charities Act 2005][334] (the _principal Act_).
 
 ##### 19 Section 41 amended (Duty to prepare annual return)
     
-*   Replace [section 41(2)][334] with:
+*   Replace [section 41(2)][335] with:
     
     > *   "(2) The annual return of a charitable entity must---
     >         
@@ -883,7 +883,7 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 20 New sections 42A and 42B inserted
     
-*   After [section 42][335], insert:
+*   After [section 42][336], insert:
     
     > ##### "42A Content of financial statements
     >     
@@ -917,7 +917,7 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 21 Section 46 amended (Board or chief executive may treat parent entity and 1 or more other entities as forming part of single entity on certain terms and conditions)
     
-*   (1) After [section 46(1)][336], insert:
+*   (1) After [section 46(1)][337], insert:
     
     > *   "(1A) If the duty under section 41 (duty to prepare annual return) is to be complied with by the parent entity in relation to the single entity, the terms and conditions under subsection (1) may provide that the financial statements that must accompany an annual return that is sent or delivered by the parent entity are prepared---
     >         
@@ -937,13 +937,13 @@ The Parliament of New Zealand enacts as follows:
     > 
     > 
     
-    (2) In [section 46(4)(b)][336], after ""that section"", insert ""(but _see_ subsection (1A))"".
+    (2) In [section 46(4)(b)][337], after ""that section"", insert ""(but _see_ subsection (1A))"".
 
 ##### 22 Transitional provision
     
 *   (1) The Charities Act 2005, as amended by [sections 19 to 21][29], applies to a charitable entity in relation to accounting periods that commence on or after the commencement of this section.
     
-    (2) The [Charities Act 2005][337], as in force before the commencement of this section, continues to apply to a charitable entity in relation to accounting periods that commenced before the commencement of this section as if this Act and the [Financial Reporting Act 2013][337] had not been enacted.
+    (2) The [Charities Act 2005][334], as in force before the commencement of this section, continues to apply to a charitable entity in relation to accounting periods that commenced before the commencement of this section as if this Act and the [Financial Reporting Act 2013][334] had not been enacted.
 
 #### Amendments to Companies Act 1993
 
@@ -4970,15 +4970,15 @@ Replace [section 17][501] with:
 > 
 > 
 
-##### War Pensions Act 1954 (1954 No 54)
+##### [War Pensions Act 1954][502] (1954 No 54)
 
-In [section 2(1)][502], insert in their appropriate alphabetical order:
+In [section 2(1)][503], insert in their appropriate alphabetical order:
 
 > "_financial statements_ has the same meaning as in section 6 of the Financial Reporting Act 2013
 > 
 > "_generally accepted accounting practice_ has the same meaning as in section 8 of the Financial Reporting Act 2013".
 
-Replace [section 18O][503] with:
+Replace [section 18O][504] with:
 
 > ##### "18O Accounting records must be kept
 >     
@@ -5018,15 +5018,15 @@ Replace [section 18O][503] with:
 > 
 > 
 
-##### [Winston Churchill Memorial Trust Act 1965][504] (1965 No 39)
+##### [Winston Churchill Memorial Trust Act 1965][505] (1965 No 39)
 
-In [section 2][505], insert in their appropriate alphabetical order:
+In [section 2][506], insert in their appropriate alphabetical order:
 
 > "_financial statements_ has the same meaning as in section 6 of the Financial Reporting Act 2013
 > 
 > "_generally accepted accounting practice_ has the same meaning as in section 8 of the Financial Reporting Act 2013".
 
-Replace [section 21][506] with:
+Replace [section 21][507] with:
 
 > ##### "21 Accounting records must be kept
 >     
@@ -5066,7 +5066,7 @@ Replace [section 21][506] with:
 > 
 > 
 
-Replace [section 23][507] with:
+Replace [section 23][508] with:
 
 > ##### "23 Annual report
 >     
@@ -5091,19 +5091,19 @@ Consequential amendments
 
 ##### [Auditor Regulation Act 2011][433] (2011 No 21)
 
-In [section 6(1)][508], replace the definition of _auditing and assurance standard_ with:
+In [section 6(1)][509], replace the definition of _auditing and assurance standard_ with:
 
 > "_auditing and assurance standard_ has the same meaning as in section 5 of the Financial Reporting Act 2013".
 
-In [section 6(1)][508], replace the definition of _financial statements_ with:
+In [section 6(1)][509], replace the definition of _financial statements_ with:
 
 > "_financial statements_ has the same meaning as in section 6 of the Financial Reporting Act 2013".
 
-In [section 6(1)][508], replace the definition of _group financial statements_ with:
+In [section 6(1)][509], replace the definition of _group financial statements_ with:
 
 > "_group financial statements_ has the same meaning as in section 7 of the Financial Reporting Act 2013".
 
-In [section 6(1)][508], insert in their appropriate alphabetical order:
+In [section 6(1)][509], insert in their appropriate alphabetical order:
 
 > "_FMC audit_---
 >     
@@ -5135,45 +5135,45 @@ In [section 6(1)][508], insert in their appropriate alphabetical order:
 > 
 > 
 
-In [section 6(1)][508], repeal the definitions of _issuer_ and _issuer audit_.
+In [section 6(1)][509], repeal the definitions of _issuer_ and _issuer audit_.
 
-In [section 23(4)(a)][509], replace ""issuer in respect of the issuer audit"" with ""FMC reporting entity in respect of the FMC audit"".
+In [section 23(4)(a)][510], replace ""issuer in respect of the issuer audit"" with ""FMC reporting entity in respect of the FMC audit"".
 
-In [section 69(1)(c) and (2)(d)][510], replace ""every issuer"" with ""every FMC reporting entity"".
+In [section 69(1)(c) and (2)(d)][511], replace ""every issuer"" with ""every FMC reporting entity"".
 
-##### [Biosecurity Act 1993][511] (1993 No 95)
+##### [Biosecurity Act 1993][512] (1993 No 95)
 
-Replace [section 100P(6)][512] with:
-
-> *   "(6) No person is qualified for appointment as an auditor unless the person is a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013)."
-> 
-> 
-
-Replace [section 100ZF(6)][513] with:
+Replace [section 100P(6)][513] with:
 
 > *   "(6) No person is qualified for appointment as an auditor unless the person is a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013)."
 > 
 > 
 
-Replace [section 141B(3)][514] with:
+Replace [section 100ZF(6)][514] with:
+
+> *   "(6) No person is qualified for appointment as an auditor unless the person is a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013)."
+> 
+> 
+
+Replace [section 141B(3)][515] with:
 
 > *   "(3) No person is qualified for appointment as an auditor unless the person is a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013)."
 > 
 > 
 
-##### [Broadcasting Act 1989][515] (1989 No 25)
+##### [Broadcasting Act 1989][516] (1989 No 25)
 
-In [section 2(1)][516], replace the definition of _total revenue_ with:
+In [section 2(1)][517], replace the definition of _total revenue_ with:
 
 > "_total revenue_ means all income classified as revenue by the applicable financial reporting standard (within the meaning of section 5 of the Financial Reporting Act 2013)".
 
-##### [Chartered Professional Engineers of New Zealand Act 2002][517] (2002 No 17)
+##### [Chartered Professional Engineers of New Zealand Act 2002][518] (2002 No 17)
 
-In [section 54(2)(b)][518], delete ""annual"".
+In [section 54(2)(b)][519], delete ""annual"".
 
-In the heading to [section 55][519], replace ""**Annual financial**"" with ""**Financial**"".
+In the heading to [section 55][520], replace ""**Annual financial**"" with ""**Financial**"".
 
-Replace [section 55(1) and (2)][519] with:
+Replace [section 55(1) and (2)][520] with:
 
 > *   "(1) The Council must ensure that, within 3 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are---
 >         
@@ -5193,31 +5193,31 @@ Replace [section 55(1) and (2)][519] with:
 > 
 > 
 
-In [section 55(3)(a)][519], delete ""annual"".
+In [section 55(3)(a)][520], delete ""annual"".
 
-In [section 56(1)][520], replace ""90 days"" with ""3 months"".
+In [section 56(1)][521], replace ""90 days"" with ""3 months"".
 
-In [section 56(1)][520], delete ""annual"".
+In [section 56(1)][521], delete ""annual"".
 
-##### [Climate Change Response Act 2002][521] (2002 No 40)
+##### [Climate Change Response Act 2002][522] (2002 No 40)
 
-In [section 4(1)][522], replace the definition of _entity_ with:
+In [section 4(1)][523], replace the definition of _entity_ with:
 
 > "_entity_, in relation to a group, means a reporting entity or a reporting entity's subsidiary, within the meaning of section 5 of the Financial Reporting Act 2013".
 
-In [section 4(1)][522], replace the definition of _group_ with:
+In [section 4(1)][523], replace the definition of _group_ with:
 
 > "_group_ has the same meaning as in section 5 of the Financial Reporting Act 2013".
 
-##### [Commerce Act 1986][523] (1986 No 5)
+##### [Commerce Act 1986][524] (1986 No 5)
 
-In [section 2(1)][524], replace the definition of _accounting period_ with:
+In [section 2(1)][525], replace the definition of _accounting period_ with:
 
 > "_accounting period_ has the same meaning as in section 5 of the Financial Reporting Act 2013".
 
-##### [Commodity Levies Act 1990][525] (1990 No 127)
+##### [Commodity Levies Act 1990][526] (1990 No 127)
 
-Replace [section 15(3)][526] with:
+Replace [section 15(3)][527] with:
 
 > *   "(3) No person is qualified for appointment as an auditor unless the person is a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013)."
 > 
@@ -5225,49 +5225,49 @@ Replace [section 15(3)][526] with:
 
 ##### [Companies Act 1993][338] (1993 No 105)
 
-In [section 164(1)][527], delete ""or the Financial Reporting Act 1993"".
+In [section 164(1)][528], delete ""or the Financial Reporting Act 1993"".
 
-In [section 170][528], delete ""or the Financial Reporting Act 1993"".
+In [section 170][529], delete ""or the Financial Reporting Act 1993"".
 
-In [section 172][529], delete ""or the Financial Reporting Act 1993"".
+In [section 172][530], delete ""or the Financial Reporting Act 1993"".
 
-Repeal [section 239AI(1)(b)(iv)][530].
+Repeal [section 239AI(1)(b)(iv)][531].
 
-Repeal [section 258A(1)(d)][531].
+Repeal [section 258A(1)(d)][532].
 
-In [section 365(1)(a)][532], delete ""or the Financial Reporting Act 1993"" in each place.
+In [section 365(1)(a)][533], delete ""or the Financial Reporting Act 1993"" in each place.
 
-##### [Co-operative Companies Act 1996][533] (1996 No 24)
+##### [Co-operative Companies Act 1996][534] (1996 No 24)
 
-In [section 10(1)(a)][534], after ""Companies Act 1993"", insert ""(if any)"".
+In [section 10(1)(a)][535], after ""Companies Act 1993"", insert ""(if any)"".
 
-Replace [section 10(1)(b)][534] with:
+Replace [section 10(1)(b)][535] with:
 
 > *   "(b) the date that is 5 months after the balance date of the company,---".
 > 
 > 
 
-In [section 10(4)][534], after ""annual report"", insert ""(if any)"".
+In [section 10(4)][535], after ""annual report"", insert ""(if any)"".
 
-##### [Corporations (Investigation and Management) Act 1989][535] (1989 No 11)
+##### [Corporations (Investigation and Management) Act 1989][536] (1989 No 11)
 
-In [section 71(5)][536], replace ""196"" with ""207P"".
+In [section 71(5)][537], replace ""196"" with ""207P"".
 
-##### [Crown Entities Act 2004][537] (2004 No 115)
+##### [Crown Entities Act 2004][538] (2004 No 115)
 
-In [section 136(1)][538], replace the definition of _generally accepted accounting practice_ with:
+In [section 136(1)][539], replace the definition of _generally accepted accounting practice_ with:
 
 > "_generally accepted accounting practice_ has the same meaning as in section 8 of the Financial Reporting Act 2013".
 
-##### [Crown Minerals Act 1991][539] (1991 No 70)
+##### [Crown Minerals Act 1991][540] (1991 No 70)
 
-In [section 105C(1)(a)][540], replace ""made under the Financial Reporting Act 1993, as those standards are defined in section 2(1) of that Act"" with ""in effect under the Financial Reporting Act 2013, as those standards are defined in section 5(1) of that Act"".
+In [section 105C(1)(a)][541], replace ""made under the Financial Reporting Act 1993, as those standards are defined in section 2(1) of that Act"" with ""in effect under the Financial Reporting Act 2013, as those standards are defined in section 5(1) of that Act"".
 
-In [section 105C(4)][540], replace ""section 28 of the Financial Reporting Act 1993"" with ""sections 27 and 28 of the Financial Reporting Act 2013"".
+In [section 105C(4)][541], replace ""section 28 of the Financial Reporting Act 1993"" with ""sections 27 and 28 of the Financial Reporting Act 2013"".
 
-##### [Crown Research Institutes Act 1992][541] (1992 No 47)
+##### [Crown Research Institutes Act 1992][542] (1992 No 47)
 
-In [section 2][542], insert in their appropriate alphabetical order:
+In [section 2][543], insert in their appropriate alphabetical order:
 
 > "_financial statements_, in relation to a Crown Research Institute, means---
 >     
@@ -5277,33 +5277,33 @@ In [section 2][542], insert in their appropriate alphabetical order:
 > 
 > "_generally accepted accounting practice_ has the same meaning as in section 8 of the Financial Reporting Act 2013".
 
-In the heading to [section 17][543], replace ""**accounts**"" with ""**financial statements**"".
+In the heading to [section 17][544], replace ""**accounts**"" with ""**financial statements**"".
 
-Replace [section 17(1)(b)][543] with:
+Replace [section 17(1)(b)][544] with:
 
 > *   "(b) audited financial statements for that financial year prepared in accordance with generally accepted accounting practice; and".
 > 
 > 
 
-In [section 21(1)][544], replace ""sections 196 to 203"" with ""sections 207P to 207V"".
+In [section 21(1)][545], replace ""sections 196 to 203"" with ""sections 207P to 207V"".
 
-##### [Electoral Act 1993][545] (1993 No 87)
+##### [Electoral Act 1993][546] (1993 No 87)
 
-Replace [section 206K(f)][546] with:
+Replace [section 206K(f)][547] with:
 
 > *   "(f) a person who, by virtue of section 36(1) of the Financial Reporting Act 2013, may not be appointed or act as an auditor of an entity; or".
 > 
 > 
 
-##### [Electricity Industry Act 2010][547] (2010 No 116)
+##### [Electricity Industry Act 2010][548] (2010 No 116)
 
-Replace [section 99(a)][548] with:
+Replace [section 99(a)][549] with:
 
 > *   "(a) prepare financial statements in accordance with generally accepted accounting practice (within the meaning of section 8 of the Financial Reporting Act 2013) in relation to the trust for that financial year; and".
 > 
 > 
 
-Replace [section 101(4) to (6)][549] with:
+Replace [section 101(4) to (6)][550] with:
 
 > *   "(4) An auditor of a customer trust or community trust---
 >         
@@ -5321,9 +5321,9 @@ Replace [section 101(4) to (6)][549] with:
 > 
 > 
 
-##### [Energy Companies Act 1992][550] (1992 No 56)
+##### [Energy Companies Act 1992][551] (1992 No 56)
 
-In [section 2(1)][551], insert in their appropriate alphabetical order:
+In [section 2(1)][552], insert in their appropriate alphabetical order:
 
 > "_financial statements_, in relation to an energy company, means---
 >     
@@ -5333,85 +5333,85 @@ In [section 2(1)][551], insert in their appropriate alphabetical order:
 > 
 > "_generally accepted accounting practice_ has the same meaning as in section 8 of the Financial Reporting Act 2013".
 
-In the heading to [section 44][552], replace ""**accounts**"" with ""**financial statements**"".
+In the heading to [section 44][553], replace ""**accounts**"" with ""**financial statements**"".
 
-Replace [section 44(3)(b)][552] with:
+Replace [section 44(3)(b)][553] with:
 
 > *   "(b) audited financial statements for that financial year prepared in accordance with generally accepted accounting practice; and".
 > 
 > 
 
-Repeal [section 44(5)][552].
+Repeal [section 44(5)][553].
 
-In [section 45(1)][553], replace ""sections 196 to 203"" with ""sections 207P to 207V"".
+In [section 45(1)][554], replace ""sections 196 to 203"" with ""sections 207P to 207V"".
 
-In [section 45(3)(c)][553], replace ""section 196(4)"" with ""section 207R(3)"".
+In [section 45(3)(c)][554], replace ""section 196(4)"" with ""section 207R(3)"".
 
-In [section 45(4)][553], delete ""consolidated"".
+In [section 45(4)][554], delete ""consolidated"".
 
-Replace [section 46A(2)][554] with:
+Replace [section 46A(2)][555] with:
 
 > *   "(2) In this section, _auditor_ means a qualified auditor within the meaning of section 35 of the Financial Reporting Act 2013\."
 > 
 > 
 
-##### [Farmers' Mutual Group Act 2007][555] (2007 No 1 (P))
+##### [Farmers' Mutual Group Act 2007][556] (2007 No 1 (P))
 
-Replace [section 25(2)(c) and (d)][556] with:
+Replace [section 25(2)(c) and (d)][557] with:
 
 > *   "(c) this Act."
 > 
 > 
 
-Repeal [section 27][557].
+Repeal [section 27][558].
 
-Repeal [section 37][558] and the cross-heading above section 37\.
+Repeal [section 37][559] and the cross-heading above section 37\.
 
-##### [Finance Act (No 2) 1990][559] (1990 No 73)
+##### [Finance Act (No 2) 1990][560] (1990 No 73)
 
-In [section 8(2)(a)][560], delete ""registered under the Financial Reporting Act 1993"".
+In [section 8(2)(a)][561], delete ""registered under the Financial Reporting Act 1993"".
 
-##### [Financial Markets Authority Act 2011][561] (2011 No 5)
+##### [Financial Markets Authority Act 2011][562] (2011 No 5)
 
-In [section 4][562], definition of **financial markets participant**, replace paragraph (b)(iv) with:
+In [section 4][563], definition of **financial markets participant**, replace paragraph (b)(iv) with:
 
 > *   "(iv) an FMC reporting entity (within the meaning of section 451 of the Financial Markets Conduct Act 2013); and".
 > 
 > 
 
-In [Schedule 1][563], Part 2, replace the item relating to the Financial Reporting Act 1993 with ""Financial Reporting Act 2013"".
+In [Schedule 1][564], Part 2, replace the item relating to the Financial Reporting Act 1993 with ""Financial Reporting Act 2013"".
 
-##### [Gas Act 1992][564] (1992 No 124)
+##### [Gas Act 1992][565] (1992 No 124)
 
-Replace [section 43ZR(a)][565] with:
+Replace [section 43ZR(a)][566] with:
 
 > *   "(a) forecast financial statements for the industry body that have been prepared in accordance with generally accepted accounting practice (within the meaning of section 8 of the Financial Reporting Act 2013); and".
 > 
 > 
 
-Replace [section 43ZW(1)(c)][566] with:
+Replace [section 43ZW(1)(c)][567] with:
 
 > *   "(c) audited financial statements for the industry body for that financial year that have been prepared in accordance with generally accepted accounting practice (within the meaning of section 8 of the Financial Reporting Act 2013); and".
 > 
 > 
 
-##### [Government Superannuation Fund Act 1956][567] (1956 No 47)
+##### [Government Superannuation Fund Act 1956][568] (1956 No 47)
 
-In [section 15K(3)(b)][568], replace ""section 2(1) of the Financial Reporting Act 1993"" with ""section 5 of the Financial Reporting Act 2013"".
+In [section 15K(3)(b)][569], replace ""section 2(1) of the Financial Reporting Act 1993"" with ""section 5 of the Financial Reporting Act 2013"".
 
-In [section 93(2)][569], replace ""section 3 of the Financial Reporting Act 1993"" with ""section 8 of the Financial Reporting Act 2013"".
+In [section 93(2)][570], replace ""section 3 of the Financial Reporting Act 1993"" with ""section 8 of the Financial Reporting Act 2013"".
 
-##### [Housing Corporation Act 1974][570] (1974 No 19)
+##### [Housing Corporation Act 1974][571] (1974 No 19)
 
-Repeal [section 56(3)][571].
+Repeal [section 56(3)][572].
 
-In [section 56(4)][571], replace ""to (3)"" with ""and (2)"".
+In [section 56(4)][572], replace ""to (3)"" with ""and (2)"".
 
 ##### [Income Tax Act 2007][405] (2007 No 97)
 
-In [section DB 35(1)][572], definition of _new reporting standard_, replace ""approved or issued under the Financial Reporting Act 1993"" with ""in effect under the Financial Reporting Act 2013"".
+In [section DB 35(1)][573], definition of _new reporting standard_, replace ""approved or issued under the Financial Reporting Act 1993"" with ""in effect under the Financial Reporting Act 2013"".
 
-In [section EB 6(3)][573], replace ""approved or issued under the Financial Reporting Act 1993"" with ""in effect under the Financial Reporting Act 2013"".
+In [section EB 6(3)][574], replace ""approved or issued under the Financial Reporting Act 1993"" with ""in effect under the Financial Reporting Act 2013"".
 
 In [section YA 1][409], definition of _financial institution_, delete ""and to which section 15 of the Financial Reporting Act 1993 applies"".
 
@@ -5441,9 +5441,9 @@ In [section YA 1][409], definition of _NZIAS 32_, replace ""approved or issued u
 
 In [section YA 1][409], definition of _NZIAS 39_, replace ""approved or issued under the Financial Reporting Act 1993"" with ""in effect under the Financial Reporting Act 2013"".
 
-##### [Incorporated Societies Act 1908][574] (1908 No 212)
+##### [Incorporated Societies Act 1908][575] (1908 No 212)
 
-Replace [section 23(4)][575] with:
+Replace [section 23(4)][576] with:
 
 > *   "(4) Nothing in this section applies to a society that is---
 >         
@@ -5455,21 +5455,21 @@ Replace [section 23(4)][575] with:
 > 
 > 
 
-##### [Industry Training Act 1992][576] (1992 No 55)
+##### [Industry Training Act 1992][577] (1992 No 55)
 
-In [section 46(1)(a)][577], after ""generally accepted accounting practice"", insert ""(within the meaning of section 8 of the Financial Reporting Act 2013)"".
+In [section 46(1)(a)][578], after ""generally accepted accounting practice"", insert ""(within the meaning of section 8 of the Financial Reporting Act 2013)"".
 
-##### [Insurance (Prudential Supervision) Act 2010][578] (2010 No 111)
+##### [Insurance (Prudential Supervision) Act 2010][579] (2010 No 111)
 
-In [section 6(1)][579], replace the definition of _financial statements_ with:
+In [section 6(1)][580], replace the definition of _financial statements_ with:
 
 > "_financial statements_ has the same meaning as in section 6 of the Financial Reporting Act 2013".
 
-In [section 6(1)][579], replace the definition of _group financial statements_ with:
+In [section 6(1)][580], replace the definition of _group financial statements_ with:
 
 > "_group financial statements_ has the same meaning as in section 7 of the Financial Reporting Act 2013".
 
-In [section 6(1)][579], replace the definition of _subsidiary_ with:
+In [section 6(1)][580], replace the definition of _subsidiary_ with:
 
 > "_subsidiary_---
 >     
@@ -5479,11 +5479,11 @@ In [section 6(1)][579], replace the definition of _subsidiary_ with:
 > 
 > 
 
-In [section 6(1)][579], insert in its appropriate alphabetical order:
+In [section 6(1)][580], insert in its appropriate alphabetical order:
 
 > "_generally accepted accounting practice_ has the same meaning as in section 8 of the Financial Reporting Act 2013".
 
-Replace [section 77(1) and (2)][580] with:
+Replace [section 77(1) and (2)][581] with:
 
 > *   "(1) A licensed insurer must ensure that the actuarial information contained in, or used in the preparation of, the financial statements or group financial statements of the insurer referred to in section 81(1) is reviewed by the appointed actuary.
 > 
@@ -5491,7 +5491,7 @@ Replace [section 77(1) and (2)][580] with:
 > 
 > 
 
-Replace [section 79][581] with:
+Replace [section 79][582] with:
 
 > ##### "79 Provisions relating to auditor's report
 >     
@@ -5505,15 +5505,15 @@ Replace [section 79][581] with:
 > 
 > 
 
-In [section 81(1)][582], replace ""financial statements of the insurer and any group financial statements are required to be registered under the Financial Reporting Act 1993"" with ""financial statements or group financial statements of the insurer are required to be registered or lodged under any Act"".
+In [section 81(1)][583], replace ""financial statements of the insurer and any group financial statements are required to be registered under the Financial Reporting Act 1993"" with ""financial statements or group financial statements of the insurer are required to be registered or lodged under any Act"".
 
-In [section 81(2)(b)(ii)][582], replace ""Registrar"" with ""Registrar of Companies"".
+In [section 81(2)(b)(ii)][583], replace ""Registrar"" with ""Registrar of Companies"".
 
-Repeal [section 81(4A)][582].
+Repeal [section 81(4A)][583].
 
-In [section 192(1)][583], delete "", being a person or persons who are qualified for appointment as an auditor of a company under the Companies Act 1993 and who have been approved by the Bank"".
+In [section 192(1)][584], delete "", being a person or persons who are qualified for appointment as an auditor of a company under the Companies Act 1993 and who have been approved by the Bank"".
 
-After [section 192(1)][583], insert:
+After [section 192(1)][584], insert:
 
 > *   "(1A) The person or persons appointed to be the auditor under subsection (1) must be---
 >         
@@ -5525,7 +5525,7 @@ After [section 192(1)][583], insert:
 > 
 > 
 
-Replace [section 238(1)(b)][584] with:
+Replace [section 238(1)(b)][585] with:
 
 > *   "(b) exempting a class of specified persons that have an annual gross premium income (as determined in the manner specified in the regulations) that is less than a specified amount from being---
 >         
@@ -5537,53 +5537,53 @@ Replace [section 238(1)(b)][584] with:
 > 
 > 
 
-##### [Lawyers and Conveyancers Act 2006][585] (2006 No 1)
+##### [Lawyers and Conveyancers Act 2006][586] (2006 No 1)
 
-In [section 297][586], replace ""chartered accountant"" with ""qualified auditor"".
+In [section 297][587], replace ""chartered accountant"" with ""qualified auditor"".
 
-In [section 297][586], insert as subsection (2):
+In [section 297][587], insert as subsection (2):
 
 > *   "(2) No person is qualified for appointment as an auditor of the accounts unless the person is a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013)."
 > 
 > 
 
-##### [Local Government Act 2002][587] (2002 No 84)
+##### [Local Government Act 2002][588] (2002 No 84)
 
-In [section 5(1)][588], replace the definition of _generally accepted accounting practice_ with:
+In [section 5(1)][589], replace the definition of _generally accepted accounting practice_ with:
 
 > "_generally accepted accounting practice_ has the same meaning as in section 8 of the Financial Reporting Act 2013".
 
-In [section 70][589], replace ""sections 196 to 203"" with ""sections 207P to 207V"".
+In [section 70][590], replace ""sections 196 to 203"" with ""sections 207P to 207V"".
 
-In [section 259D(1)][590], replace ""made under the Financial Reporting Act 1993, as those standards are defined in section 2(1) of that Act"" with ""in effect under the Financial Reporting Act 2013, as those standards are defined in section 5(1) of that Act"".
+In [section 259D(1)][591], replace ""made under the Financial Reporting Act 1993, as those standards are defined in section 2(1) of that Act"" with ""in effect under the Financial Reporting Act 2013, as those standards are defined in section 5(1) of that Act"".
 
-In [section 259E(1)(a)][591], replace ""Financial Reporting Act 1993"" with ""Financial Reporting Act 2013"".
+In [section 259E(1)(a)][592], replace ""Financial Reporting Act 1993"" with ""Financial Reporting Act 2013"".
 
-In [section 259E(2)][591], replace ""section 28 of the Financial Reporting Act 1993"" with ""sections 27 and 28 of the Financial Reporting Act 2013"".
+In [section 259E(2)][592], replace ""section 28 of the Financial Reporting Act 1993"" with ""sections 27 and 28 of the Financial Reporting Act 2013"".
 
-##### [Maori Fisheries Act 2004][592] (2004 No 78)
+##### [Maori Fisheries Act 2004][593] (2004 No 78)
 
-In [section 60(2)(a)(i) and (b)(ii)][593], replace ""section 196"" with ""section 207P"".
+In [section 60(2)(a)(i) and (b)(ii)][594], replace ""section 196"" with ""section 207P"".
 
-##### [Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003][594] (2003 No 21)
+##### [Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003][595] (2003 No 21)
 
-In [section 6][595], replace the definition of _subsidiary_ with:
+In [section 6][596], replace the definition of _subsidiary_ with:
 
 > "_subsidiary_ means a subsidiary of the Service within the meaning of section 5 of the Financial Reporting Act 2013".
 
-In [section 25][596], replace the definition of _generally accepted accounting practice_ with:
+In [section 25][597], replace the definition of _generally accepted accounting practice_ with:
 
 > "_generally accepted accounting practice_ has the same meaning as in section 8 of the Financial Reporting Act 2013".
 
-##### [Maori Trust Boards Act 1955][597] (1955 No 37)
+##### [Maori Trust Boards Act 1955][598] (1955 No 37)
 
-Replace [section 31(3)(a)][598] with:
+Replace [section 31(3)(a)][599] with:
 
 > *   "(a) financial statements for the Board for the accounting period; and".
 > 
 > 
 
-Replace [section 31(6)][598] with:
+Replace [section 31(6)][599] with:
 
 > *   "(6) In this section,---
 >     
@@ -5593,7 +5593,7 @@ Replace [section 31(6)][598] with:
 > 
 > 
 
-Replace [section 31B(2)][599] with:
+Replace [section 31B(2)][600] with:
 
 > *   "(2) The auditor must be a qualified auditor within the meaning of section 35 of the Financial Reporting Act 2013\.
 > 
@@ -5601,55 +5601,55 @@ Replace [section 31B(2)][599] with:
 > 
 > 
 
-##### [Marine and Coastal Area (Takutai Moana) Act 2011][600] (2011 No 3)
+##### [Marine and Coastal Area (Takutai Moana) Act 2011][601] (2011 No 3)
 
-In [section 44(2)(a)(i)][601], replace ""section 2(1) of the Financial Reporting Act 1993"" with ""section 5 of the Financial Reporting Act 2013"".
+In [section 44(2)(a)(i)][602], replace ""section 2(1) of the Financial Reporting Act 1993"" with ""section 5 of the Financial Reporting Act 2013"".
 
-##### [Masterton District Council (Montfort Trimble Foundation) Act 2003][602] (2003 No 5 (L))
+##### [Masterton District Council (Montfort Trimble Foundation) Act 2003][603] (2003 No 5 (L))
 
-In Schedule 1, [clause 6(3)][603], replace ""Financial Reporting Act 1993"" with ""Financial Reporting Act 2013"".
+In Schedule 1, [clause 6(3)][604], replace ""Financial Reporting Act 1993"" with ""Financial Reporting Act 2013"".
 
-##### [Masterton Trust Lands Act 2003][604] (2003 No 1 (L))
+##### [Masterton Trust Lands Act 2003][605] (2003 No 1 (L))
 
-In Schedule 2, [clause 12(1)][605], replace ""section 3 of the Financial Reporting Act 1993"" with ""section 8 of the Financial Reporting Act 2013"".
+In Schedule 2, [clause 12(1)][606], replace ""section 3 of the Financial Reporting Act 1993"" with ""section 8 of the Financial Reporting Act 2013"".
 
-##### [Meat Board Act 2004][606] (2004 No 58)
+##### [Meat Board Act 2004][607] (2004 No 58)
 
-Replace [section 17(2) and (3)][607] with:
+Replace [section 17(2) and (3)][608] with:
 
 > *   "(2) The financial statements must be prepared in accordance with generally accepted accounting practice (within the meaning of section 8 of the Financial Reporting Act 2013)."
 > 
 > 
 
-After [section 18(2)][608], insert:
+After [section 18(2)][609], insert:
 
 > *   "(2A) The person appointed as the auditor must be the Auditor-General or a person who is a qualified auditor within the meaning of section 35 of the Financial Reporting Act 2013\."
 > 
 > 
 
-##### [New Zealand Superannuation and Retirement Income Act 2001][609] (2001 No 84)
+##### [New Zealand Superannuation and Retirement Income Act 2001][610] (2001 No 84)
 
-In [section 5(1)][610], definition of _subsidiary_, paragraph (b), replace ""section 2(1) of the Financial Reporting Act 1993"" with ""section 5 of the Financial Reporting Act 2013"".
+In [section 5(1)][611], definition of _subsidiary_, paragraph (b), replace ""section 2(1) of the Financial Reporting Act 1993"" with ""section 5 of the Financial Reporting Act 2013"".
 
-In [section 59(3)(b)][611], replace ""section 2(1) of the Financial Reporting Act 1993"" with ""section 5 of the Financial Reporting Act 2013"".
+In [section 59(3)(b)][612], replace ""section 2(1) of the Financial Reporting Act 1993"" with ""section 5 of the Financial Reporting Act 2013"".
 
-Replace [section 66(2)][612] with:
+Replace [section 66(2)][613] with:
 
 > *   "(2) The annual financial statements must be prepared in accordance with generally accepted accounting practice (as defined in section 8 of the Financial Reporting Act 2013)."
 > 
 > 
 
-##### [Nurse Maude Association Act 2000][613] (2000 No 2 (P))
+##### [Nurse Maude Association Act 2000][614] (2000 No 2 (P))
 
-Replace [section 24(2)][614] with:
+Replace [section 24(2)][615] with:
 
 > *   "(2) The auditor must be a person who is a qualified auditor within the meaning of section 35 of the Financial Reporting Act 2013\."
 > 
 > 
 
-##### [Plumbers, Gasfitters, and Drainlayers Act 2006][615] (2006 No 74)
+##### [Plumbers, Gasfitters, and Drainlayers Act 2006][616] (2006 No 74)
 
-Replace [section 158(1) and (2)][616] with:
+Replace [section 158(1) and (2)][617] with:
 
 > *   "(1) The Board must ensure that, within 3 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are---
 >         
@@ -5669,29 +5669,29 @@ Replace [section 158(1) and (2)][616] with:
 > 
 > 
 
-In [section 158(3)(a)][616], delete ""annual"".
+In [section 158(3)(a)][617], delete ""annual"".
 
-In [section 159(1)][617], replace ""90 days"" with ""3 months"".
+In [section 159(1)][618], replace ""90 days"" with ""3 months"".
 
-In [section 159(1)][617], replace ""annual financial"" with ""financial"".
+In [section 159(1)][618], replace ""annual financial"" with ""financial"".
 
-##### [Pork Industry Board Act 1997][618] (1997 No 106)
+##### [Pork Industry Board Act 1997][619] (1997 No 106)
 
-Replace [section 24(2)][619] with:
+Replace [section 24(2)][620] with:
 
 > *   "(2) The financial statements must be prepared in accordance with generally accepted accounting practice (within the meaning of section 8 of the Financial Reporting Act 2013)."
 > 
 > 
 
-After [section 25(2)][620], insert:
+After [section 25(2)][621], insert:
 
 > *   "(2A) The person appointed as the auditor must be the Auditor-General or a person who is a qualified auditor within the meaning of section 35 of the Financial Reporting Act 2013\."
 > 
 > 
 
-##### [Port Companies Act 1988][621] (1988 No 91)
+##### [Port Companies Act 1988][622] (1988 No 91)
 
-In [section 2(1)][622], insert in their appropriate alphabetical order:
+In [section 2(1)][623], insert in their appropriate alphabetical order:
 
 > "_financial statements_, in relation to a port company, means---
 >     
@@ -5701,49 +5701,49 @@ In [section 2(1)][622], insert in their appropriate alphabetical order:
 > 
 > "_generally accepted accounting practice_ has the same meaning as in section 8 of the Financial Reporting Act 2013".
 
-In the heading to [section 16][623], replace ""**accounts**"" with ""**financial statements**"".
+In the heading to [section 16][624], replace ""**accounts**"" with ""**financial statements**"".
 
-Replace [section 16(3)(b)][623] with:
+Replace [section 16(3)(b)][624] with:
 
 > *   "(b) audited financial statements for that financial year prepared in accordance with generally accepted accounting practice; and".
 > 
 > 
 
-In [section 19][624], replace ""sections 196 to 203"" with ""sections 207P to 207V"".
+In [section 19][625], replace ""sections 196 to 203"" with ""sections 207P to 207V"".
 
-##### [Property Law Act 2007][625] (2007 No 91)
+##### [Property Law Act 2007][626] (2007 No 91)
 
-Repeal [section 167(1)(b)(iv)][626].
+Repeal [section 167(1)(b)(iv)][627].
 
-##### [Public Audit Act 2001][627] (2001 No 10)
+##### [Public Audit Act 2001][628] (2001 No 10)
 
-In [section 4][628], replace the definition of _auditing and assurance standard_ with:
+In [section 4][629], replace the definition of _auditing and assurance standard_ with:
 
 > "_auditing and assurance standard_ has the same meaning as in section 5 of the Financial Reporting Act 2013".
 
-In [section 4][628], replace the definition of _financial reporting standard_ with:
+In [section 4][629], replace the definition of _financial reporting standard_ with:
 
 > "_financial reporting standard_ has the same meaning as in section 5 of the Financial Reporting Act 2013".
 
-In [section 4][628], repeal the definition of _issuer_.
+In [section 4][629], repeal the definition of _issuer_.
 
-In [section 4][628], insert in its appropriate alphabetical order:
+In [section 4][629], insert in its appropriate alphabetical order:
 
 > "_FMC reporting entity_ has the same meaning as in section 451 of the Financial Markets Conduct Act 2013".
 
-In [section 15(3)][629], replace ""issuer"" with ""FMC reporting entity"".
+In [section 15(3)][630], replace ""issuer"" with ""FMC reporting entity"".
 
-After [section 15(3)][629], insert:
+After [section 15(3)][630], insert:
 
 > *   "(4) If another enactment that would otherwise apply to a public entity (other than an FMC reporting entity) requires an audit of the public entity or the audit report (or both) to comply with auditing and assurance standards, that requirement does not apply in relation to the public entity."
 > 
 > 
 
-In the heading to [section 15A][630], replace ""**issuers**"" with ""**FMC reporting entities**"".
+In the heading to [section 15A][631], replace ""**issuers**"" with ""**FMC reporting entities**"".
 
-In [section 15A(1) and (2)(a)][630], replace ""issuers"" with ""FMC reporting entities"".
+In [section 15A(1) and (2)(a)][631], replace ""issuers"" with ""FMC reporting entities"".
 
-Replace [section 32(1)(b) and (c)][631] with:
+Replace [section 32(1)(b) and (c)][632] with:
 
 > *   "(b) a person qualified to be an auditor of an entity under section 36(1) and (4) of the Financial Reporting Act 2013:
 > 
@@ -5751,37 +5751,37 @@ Replace [section 32(1)(b) and (c)][631] with:
 > 
 > 
 
-In [section 32(1A) and (1B)][631], replace ""issuer"" with ""FMC reporting entity"".
+In [section 32(1A) and (1B)][632], replace ""issuer"" with ""FMC reporting entity"".
 
-Replace [section 32(2)(b)][631] with:
+Replace [section 32(2)(b)][632] with:
 
 > *   "(b) if the partnership includes persons who are not qualified to be appointed as auditors of an entity under section 36(1) and (4) of the Financial Reporting Act 2013, the persons who are not qualified to be appointed as auditors must not act as auditors."
 > 
 > 
 
-##### [Public Finance Act 1989][632] (1989 No 44)
+##### [Public Finance Act 1989][633] (1989 No 44)
 
-In [section 2(1)][633], replace the definition of _generally accepted accounting practice_ with:
+In [section 2(1)][634], replace the definition of _generally accepted accounting practice_ with:
 
 > "_generally accepted accounting practice_ has the same meaning as in section 8 of the Financial Reporting Act 2013".
 
-##### [Real Estate Agents Act 2008][634] (2008 No 66)
+##### [Real Estate Agents Act 2008][635] (2008 No 66)
 
-In [section 29][635], insert as subsection (2):
+In [section 29][636], insert as subsection (2):
 
 > *   "(2) No person is qualified for appointment as an auditor of the trust account unless the person is a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013)."
 > 
 > 
 
-##### [Receiverships Act 1993][636] (1993 No 122)
+##### [Receiverships Act 1993][637] (1993 No 122)
 
-Repeal [section 28(1)(d)][637].
+Repeal [section 28(1)(d)][638].
 
-##### [Registered Architects Act 2005][638] (2005 No 38)
+##### [Registered Architects Act 2005][639] (2005 No 38)
 
-In [section 59(1)(b)][639], delete ""annual"".
+In [section 59(1)(b)][640], delete ""annual"".
 
-Replace [section 60(1) and (2)][640] with:
+Replace [section 60(1) and (2)][641] with:
 
 > *   "(1) The Board must ensure that, within 3 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are---
 >         
@@ -5801,25 +5801,25 @@ Replace [section 60(1) and (2)][640] with:
 > 
 > 
 
-In [section 60(3)(a)][640], delete ""annual"".
+In [section 60(3)(a)][641], delete ""annual"".
 
-In [section 61(1)][641], replace ""90 days"" with ""3 months"".
+In [section 61(1)][642], replace ""90 days"" with ""3 months"".
 
-In [section 61(1)][641], delete ""annual"".
+In [section 61(1)][642], delete ""annual"".
 
-##### [Reserve Bank of New Zealand Act 1989][642] (1989 No 157)
+##### [Reserve Bank of New Zealand Act 1989][643] (1989 No 157)
 
-Replace [section 81AA(2)(a)][643] with:
+Replace [section 81AA(2)(a)][644] with:
 
 > *   "(a) prescribe information that is required to be contained in financial statements:".
 > 
 > 
 
-In [section 153(4)][644], replace ""196"" with ""207P"".
+In [section 153(4)][645], replace ""196"" with ""207P"".
 
-In [section 154(1)][645], delete ""who are qualified for appointment as auditors of a company under the Companies Act 1993 and who have been approved by the Bank"".
+In [section 154(1)][646], delete ""who are qualified for appointment as auditors of a company under the Companies Act 1993 and who have been approved by the Bank"".
 
-After [section 154(1)][645], insert:
+After [section 154(1)][646], insert:
 
 > *   "(1A) The person or persons appointed to be the auditor under subsection (1) must be---
 >         
@@ -5831,25 +5831,25 @@ After [section 154(1)][645], insert:
 > 
 > 
 
-##### [Riccarton Bush Act 1914][646] (1914 No 15 (L))
+##### [Riccarton Bush Act 1914][647] (1914 No 15 (L))
 
-In [section 22(2)(a)][647], replace ""section 3 of the Financial Reporting Act 1993"" with ""section 8 of the Financial Reporting Act 2013"".
+In [section 22(2)(a)][648], replace ""section 3 of the Financial Reporting Act 1993"" with ""section 8 of the Financial Reporting Act 2013"".
 
-##### [Royal Society of New Zealand Act 1997][648] (1997 No 2 (P))
+##### [Royal Society of New Zealand Act 1997][649] (1997 No 2 (P))
 
-In the Schedule, [clause 10(4)][649], replace ""an auditor in accordance with section 199 of the Companies Act 1993"" with ""a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013)"".
+In the Schedule, [clause 10(4)][650], replace ""an auditor in accordance with section 199 of the Companies Act 1993"" with ""a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013)"".
 
-##### [Sale and Supply of Alcohol Act 2012][650] (2012 No 120)
+##### [Sale and Supply of Alcohol Act 2012][651] (2012 No 120)
 
-In [section 5(1)][651], repeal the definitions of _approved financial reporting standard_ and _generally accepted accounting practice_.
+In [section 5(1)][652], repeal the definitions of _approved financial reporting standard_ and _generally accepted accounting practice_.
 
-In [section 5(1)][651], insert in its appropriate alphabetical order:
+In [section 5(1)][652], insert in its appropriate alphabetical order:
 
 > "_generally accepted accounting practice_ has the same meaning as in section 8 of the Financial Reporting Act 2013".
 
-Replace the heading to [section 333][652] with ""**Accounting records**"".
+Replace the heading to [section 333][653] with ""**Accounting records**"".
 
-Replace [section 333(1)][652] with:
+Replace [section 333(1)][653] with:
 
 > *   "(1) The members of a licensing trust must ensure that there are kept at all times accounting records that---
 >         
@@ -5873,15 +5873,15 @@ Replace [section 333(1)][652] with:
 > 
 > 
 
-In [section 333(2)][652], replace ""subsection (1)"" with ""this section"".
+In [section 333(2)][653], replace ""subsection (1)"" with ""this section"".
 
-In [section 334(1)][653], insert "", within 5 months after the end of each financial year,"" after ""ensure that"".
+In [section 334(1)][654], insert "", within 5 months after the end of each financial year,"" after ""ensure that"".
 
-In [section 334(1)][653], replace ""each financial year"" with ""the financial year"".
+In [section 334(1)][654], replace ""each financial year"" with ""the financial year"".
 
-Replace the heading to [section 382][654] with ""**Accounting records**"".
+Replace the heading to [section 382][655] with ""**Accounting records**"".
 
-Replace [section 382(1)][654] with:
+Replace [section 382(1)][655] with:
 
 > *   "(1) The trustees of a community trust must ensure that there are kept at all times accounting records that---
 >         
@@ -5905,19 +5905,19 @@ Replace [section 382(1)][654] with:
 > 
 > 
 
-In [section 382(2)][654], replace ""subsection (1)"" with ""this section"".
+In [section 382(2)][655], replace ""subsection (1)"" with ""this section"".
 
-In [section 383(1)][655], insert "", within 5 months after the end of each financial year,"" after ""ensure that"".
+In [section 383(1)][656], insert "", within 5 months after the end of each financial year,"" after ""ensure that"".
 
-In [section 383(1)][655], replace ""each financial year"" with ""the financial year"".
+In [section 383(1)][656], replace ""each financial year"" with ""the financial year"".
 
-##### [Selwyn Plantation Board Empowering Act 1992][656] (1992 No 4 (L))
+##### [Selwyn Plantation Board Empowering Act 1992][657] (1992 No 4 (L))
 
-In [section 18][657], replace ""sections 196 to 203"" with ""sections 207P to 207V"".
+In [section 18][658], replace ""sections 196 to 203"" with ""sections 207P to 207V"".
 
-##### [State-Owned Enterprises Act 1986][658] (1986 No 124)
+##### [State-Owned Enterprises Act 1986][659] (1986 No 124)
 
-In [section 2][659], insert in their appropriate alphabetical order:
+In [section 2][660], insert in their appropriate alphabetical order:
 
 > "_financial statements_, in relation to a State enterprise, means---
 >     
@@ -5927,27 +5927,27 @@ In [section 2][659], insert in their appropriate alphabetical order:
 > 
 > "_generally accepted accounting practice_ has the same meaning as in section 8 of the Financial Reporting Act 2013".
 
-In the heading to [section 15][660], replace ""**accounts**"" with ""**financial statements**"".
+In the heading to [section 15][661], replace ""**accounts**"" with ""**financial statements**"".
 
-Replace [section 15(1)(b)][660] with:
+Replace [section 15(1)(b)][661] with:
 
 > *   "(b) audited financial statements for that financial year prepared in accordance with generally accepted accounting practice; and".
 > 
 > 
 
-In [section 19(1)][661], replace ""sections 196 to 203"" with ""sections 207P to 207V"".
+In [section 19(1)][662], replace ""sections 196 to 203"" with ""sections 207P to 207V"".
 
-##### [Summary Proceedings Act 1957][662] (1957 No 87)
+##### [Summary Proceedings Act 1957][663] (1957 No 87)
 
-In [section 2(1)][663], definition of _infringement notice_, replace paragraph (ba) with:
+In [section 2(1)][664], definition of _infringement notice_, replace paragraph (ba) with:
 
 > *   "(ba) section 207Z of the Companies Act 1993; or".
 > 
 > 
 
-##### [Telecommunications Act 2001][664] (2001 No 103)
+##### [Telecommunications Act 2001][665] (2001 No 103)
 
-In [section 80][665], replace the definition of _financial statements_ with:
+In [section 80][666], replace the definition of _financial statements_ with:
 
 > "_financial statements_,---
 >     
@@ -5957,21 +5957,21 @@ In [section 80][665], replace the definition of _financial statements_ with:
 > 
 > 
 
-##### [Trustee Companies Management Act 1975][666] (1975 No 25)
+##### [Trustee Companies Management Act 1975][667] (1975 No 25)
 
-Repeal [section 24A][667].
+Repeal [section 24A][668].
 
-##### [Unit Titles Act 2010][668] (2010 No 22)
+##### [Unit Titles Act 2010][669] (2010 No 22)
 
-Replace [section 132(7)][669] with:
+Replace [section 132(7)][670] with:
 
 > *   "(7) Any person appointed to undertake any of the functions described in subsection (2) must be a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013)."
 > 
 > 
 
-##### [Wool Industry Restructuring Act 2003][670] (2003 No 40)
+##### [Wool Industry Restructuring Act 2003][671] (2003 No 40)
 
-Replace [section 52(2)][671] with:
+Replace [section 52(2)][672] with:
 
 > *   "(2) A person whom the Minister may appoint as an auditor under subsection (1) must be a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013)."
 > 
@@ -5982,100 +5982,100 @@ Replace [section 52(2)][671] with:
 ## Schedule 3  
 Amendments to Auditor Regulation Act 2011 consequential on changes to issuer audits
 
-[s 128][672]
+[s 128][673]
 
 ## Part 1  
 Replacing references to "issuers" with "FMC reporting entities"
 
-[Section 3][673]
+[Section 3][674]
 
-[Section 4(1)(a)(i)][674]
+[Section 4(1)(a)(i)][675]
 
-[Section 35(c)][675]
+[Section 35(c)][676]
 
 ## Part 2  
 Replacing references to "issuer audit" with "FMC audit"
 
-[Section 6(1)][508], definition of _engagement partner_
+[Section 6(1)][509], definition of _engagement partner_
 
-[Section 8(1) and (2)][676]
+[Section 8(1) and (2)][677]
 
-[Section 9(1) and (2)][677]
+[Section 9(1) and (2)][678]
 
-Heading to [section 10][678]
+Heading to [section 10][679]
 
-[Section 10(1) and (2)][678]
+[Section 10(1) and (2)][679]
 
 Section 10A
 
-[Section 20(1)(c)(i)][679]
+[Section 20(1)(c)(i)][680]
 
-[Section 21(1)(b)(i)][680]
+[Section 21(1)(b)(i)][681]
 
-Heading to [section 23][509]
+Heading to [section 23][510]
 
-[Section 23(1)(b), (2), (3), and (6)][509]
+[Section 23(1)(b), (2), (3), and (6)][510]
 
-[Section 40(a)(iii)][681]
+[Section 40(a)(iii)][682]
 
-[Section 46(2)(d)][682]
+[Section 46(2)(d)][683]
 
-[Section 61(4)][683]
+[Section 61(4)][684]
 
-[Section 68(3)][684]
+[Section 68(3)][685]
 
-[Section 69(1)(c) and (2)(d)][510]
+[Section 69(1)(c) and (2)(d)][511]
 
-[Section 70(3) and (4)][685]
+[Section 70(3) and (4)][686]
 
-[Section 75(2)][686]
+[Section 75(2)][687]
 
-[Section 78(2)(d)][687]
+[Section 78(2)(d)][688]
 
 ## Part 3  
 Replacing references to "issuer audits" with "FMC audits"
 
-[Section 3(a)][673]
+[Section 3(a)][674]
 
-[Section 6(2)(a)][508]
+[Section 6(2)(a)][509]
 
-Heading to [section 8][676]
+Heading to [section 8][677]
 
-Heading to [section 9][677]
+Heading to [section 9][678]
 
-[Section 12(1)(e)(i) and (iii)][688]
+[Section 12(1)(e)(i) and (iii)][689]
 
-[Section 15(1)(c) and (2)][689]
+[Section 15(1)(c) and (2)][690]
 
-[Section 20(1)(c)][679]
+[Section 20(1)(c)][680]
 
-[Section 21(1)(b)][680]
+[Section 21(1)(b)][681]
 
-[Section 26(1)(c)][690]
+[Section 26(1)(c)][691]
 
-[Section 34(1)(a)(i) and (b)][691]
+[Section 34(1)(a)(i) and (b)][692]
 
-[Section 35(a)(i)][675]
+[Section 35(a)(i)][676]
 
-[Section 36(1)(a)][692]
+[Section 36(1)(a)][693]
 
-[Section 41(1)(f)][693]
+[Section 41(1)(f)][694]
 
-[Section 65(2)(a)(i) and (b)][694]
+[Section 65(2)(a)(i) and (b)][695]
 
-[Section 68(1)(b) and (c)(i) and (3)(a)(i)][684]
+[Section 68(1)(b) and (c)(i) and (3)(a)(i)][685]
 
-[Section 70(1)(a)(i) and (b) and (3)(a)(i)][685]
+[Section 70(1)(a)(i) and (b) and (3)(a)(i)][686]
 
-[Section 75(3)][686]
+[Section 75(3)][687]
 
-[Section 78(1)][687]
+[Section 78(1)][688]
 
-[Section 85(2)(b)][695]
+[Section 85(2)(b)][696]
 
-[Section 86(2)(b)][696]
+[Section 86(2)(b)][697]
 
-[Section 89(1)][697]
+[Section 89(1)][698]
 
 ---
 
@@ -6402,31 +6402,31 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 [310]: http://www.legislation.govt.nz/act/public/2013/0102/latest/whole.html#DLM5740863
 [311]: http://www.legislation.govt.nz/act/public/2013/0102/latest/whole.html#DLM5741044
 [312]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM4632802
-[313]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM367774
-[314]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM372035
-[315]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM372050
-[316]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM372070
-[317]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM372072
-[318]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM372075
-[319]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM372078
-[320]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM372090
-[321]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM1001205
-[322]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM372397
-[323]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM372506
-[324]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM128339
-[325]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM128341
-[326]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM128390
-[327]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM128393
-[328]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM128808
-[329]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM128823
-[330]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM367767
-[331]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM128302
+[313]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM367767
+[314]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM367774
+[315]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM372035
+[316]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM372050
+[317]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM372070
+[318]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM372072
+[319]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM372075
+[320]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM372078
+[321]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM372090
+[322]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM1001205
+[323]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM372397
+[324]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM372506
+[325]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM128302
+[326]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM128339
+[327]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM128341
+[328]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM128390
+[329]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM128393
+[330]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM128808
+[331]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM128823
 [332]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM4632981
 [333]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM323597
-[334]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM345064
-[335]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM345065
-[336]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM345073
-[337]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM344367
+[334]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM344367
+[335]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM345064
+[336]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM345065
+[337]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM345073
 [338]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM319569
 [339]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM319576
 [340]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM319998
@@ -6591,199 +6591,200 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 [499]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM394068
 [500]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM394316
 [501]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM394321
-[502]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM284384
-[503]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM285012
-[504]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM373160
-[505]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM373166
-[506]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM373401
-[507]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM373404
-[508]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3230581
-[509]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231462
-[510]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231508
-[511]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM314622
-[512]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM4758118
-[513]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM4758152
-[514]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM316384
-[515]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM155364
-[516]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM155371
-[517]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM144380
-[518]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM144892
-[519]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM144893
-[520]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM144894
-[521]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM158583
-[522]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM158592
-[523]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM87622
-[524]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM87631
-[525]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM226673
-[526]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM227341
-[527]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM320823
-[528]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM320831
-[529]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM320833
-[530]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM321531
-[531]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM321916
-[532]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM323213
-[533]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM376809
-[534]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM376837
-[535]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM144263
-[536]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM145330
-[537]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM329630
-[538]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM330506
-[539]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM242535
-[540]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM5237835
-[541]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM264291
-[542]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM264297
-[543]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM265189
-[544]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM265607
-[545]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM307518
-[546]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM1867476
-[547]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM2634200
-[548]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM2634501
-[549]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM2634503
-[550]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM267121
-[551]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM267128
-[552]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM267769
-[553]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM267772
-[554]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM267781
-[555]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM123530
-[556]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM123597
-[557]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM123599
-[558]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM123910
-[559]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM214112
-[560]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM214139
-[561]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231004
-[562]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231030
-[563]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3232235
-[564]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM285411
-[565]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM286247
-[566]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM286258
-[567]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM446000
-[568]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM446325
-[569]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM447974
-[570]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM411832
-[571]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM412456
-[572]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM1513662
-[573]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM1514298
-[574]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM175774
-[575]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM176125
-[576]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM266245
-[577]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM266972
-[578]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM2478100
-[579]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM2478128
-[580]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM2478369
-[581]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM2478372
-[582]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM2478376
-[583]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM1859544
-[584]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3005141
-[585]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM364938
-[586]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM367360
-[587]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM170872
-[588]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM170881
-[589]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM172301
-[590]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM4926336
-[591]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM4926337
-[592]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM311463
-[593]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM312325
-[594]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM193695
-[595]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM194308
-[596]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM194372
-[597]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM289314
-[598]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM289555
-[599]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM4033259
-[600]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3213102
-[601]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3213343
-[602]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM88308
-[603]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM88371
-[604]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM86633
-[605]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM87731
-[606]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM301706
-[607]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM301789
-[608]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM301790
-[609]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM113923
-[610]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM113939
-[611]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM114834
-[612]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM114849
-[613]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM119848
-[614]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM119894
-[615]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM396777
-[616]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM397766
-[617]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM397767
-[618]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM421797
-[619]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM422408
-[620]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM422409
-[621]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM131682
-[622]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM131688
-[623]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM132162
-[624]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM132166
-[625]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM968961
-[626]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM969344
-[627]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM88540
-[628]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM88548
-[629]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM88596
-[630]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM4578009
-[631]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM88919
-[632]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM160808
-[633]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM160819
-[634]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM1151900
-[635]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM1358218
-[636]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM327640
-[637]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM327735
-[638]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM343165
-[639]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM344062
-[640]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM344063
-[641]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM344064
-[642]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM199363
-[643]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM200390
-[644]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM201545
-[645]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM201552
-[646]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM39529
-[647]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM4888408
-[648]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM117651
-[649]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM118058
-[650]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3339302
-[651]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3339341
-[652]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3339872
-[653]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3339873
-[654]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3339936
-[655]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3339937
-[656]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM80645
-[657]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM80694
-[658]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM97376
-[659]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM97382
-[660]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM98052
-[661]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM98060
-[662]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM310742
-[663]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM310749
-[664]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM124960
-[665]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM126879
-[666]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM431745
-[667]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM432111
-[668]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM1160400
-[669]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM1160716
-[670]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM200494
-[671]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM201314
-[672]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM5740668
-[673]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3230578
-[674]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3230579
-[675]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231468
-[676]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231435
-[677]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3616753
-[678]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3616754
-[679]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231458
-[680]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231460
-[681]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231474
-[682]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231481
-[683]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231498
-[684]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231507
-[685]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231509
-[686]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231514
-[687]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231518
-[688]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231442
-[689]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231449
-[690]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3616757
-[691]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3616763
-[692]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231469
-[693]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231475
-[694]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231504
-[695]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231530
-[696]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231531
-[697]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3616771
+[502]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM284374
+[503]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM284384
+[504]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM285012
+[505]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM373160
+[506]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM373166
+[507]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM373401
+[508]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM373404
+[509]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3230581
+[510]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231462
+[511]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231508
+[512]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM314622
+[513]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM4758118
+[514]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM4758152
+[515]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM316384
+[516]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM155364
+[517]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM155371
+[518]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM144380
+[519]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM144892
+[520]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM144893
+[521]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM144894
+[522]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM158583
+[523]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM158592
+[524]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM87622
+[525]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM87631
+[526]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM226673
+[527]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM227341
+[528]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM320823
+[529]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM320831
+[530]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM320833
+[531]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM321531
+[532]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM321916
+[533]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM323213
+[534]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM376809
+[535]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM376837
+[536]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM144263
+[537]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM145330
+[538]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM329630
+[539]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM330506
+[540]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM242535
+[541]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM5237835
+[542]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM264291
+[543]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM264297
+[544]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM265189
+[545]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM265607
+[546]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM307518
+[547]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM1867476
+[548]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM2634200
+[549]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM2634501
+[550]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM2634503
+[551]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM267121
+[552]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM267128
+[553]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM267769
+[554]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM267772
+[555]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM267781
+[556]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM123530
+[557]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM123597
+[558]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM123599
+[559]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM123910
+[560]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM214112
+[561]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM214139
+[562]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231004
+[563]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231030
+[564]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3232235
+[565]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM285411
+[566]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM286247
+[567]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM286258
+[568]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM446000
+[569]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM446325
+[570]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM447974
+[571]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM411832
+[572]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM412456
+[573]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM1513662
+[574]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM1514298
+[575]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM175774
+[576]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM176125
+[577]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM266245
+[578]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM266972
+[579]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM2478100
+[580]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM2478128
+[581]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM2478369
+[582]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM2478372
+[583]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM2478376
+[584]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM1859544
+[585]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3005141
+[586]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM364938
+[587]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM367360
+[588]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM170872
+[589]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM170881
+[590]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM172301
+[591]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM4926336
+[592]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM4926337
+[593]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM311463
+[594]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM312325
+[595]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM193695
+[596]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM194308
+[597]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM194372
+[598]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM289314
+[599]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM289555
+[600]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM4033259
+[601]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3213102
+[602]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3213343
+[603]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM88308
+[604]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM88371
+[605]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM86633
+[606]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM87731
+[607]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM301706
+[608]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM301789
+[609]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM301790
+[610]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM113923
+[611]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM113939
+[612]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM114834
+[613]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM114849
+[614]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM119848
+[615]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM119894
+[616]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM396777
+[617]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM397766
+[618]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM397767
+[619]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM421797
+[620]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM422408
+[621]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM422409
+[622]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM131682
+[623]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM131688
+[624]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM132162
+[625]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM132166
+[626]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM968961
+[627]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM969344
+[628]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM88540
+[629]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM88548
+[630]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM88596
+[631]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM4578009
+[632]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM88919
+[633]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM160808
+[634]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM160819
+[635]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM1151900
+[636]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM1358218
+[637]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM327640
+[638]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM327735
+[639]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM343165
+[640]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM344062
+[641]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM344063
+[642]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM344064
+[643]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM199363
+[644]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM200390
+[645]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM201545
+[646]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM201552
+[647]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM39529
+[648]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM4888408
+[649]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM117651
+[650]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM118058
+[651]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3339302
+[652]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3339341
+[653]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3339872
+[654]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3339873
+[655]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3339936
+[656]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3339937
+[657]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM80645
+[658]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM80694
+[659]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM97376
+[660]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM97382
+[661]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM98052
+[662]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM98060
+[663]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM310742
+[664]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM310749
+[665]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM124960
+[666]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM126879
+[667]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM431745
+[668]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM432111
+[669]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM1160400
+[670]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM1160716
+[671]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM200494
+[672]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM201314
+[673]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM5740668
+[674]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3230578
+[675]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3230579
+[676]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231468
+[677]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231435
+[678]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3616753
+[679]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3616754
+[680]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231458
+[681]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231460
+[682]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231474
+[683]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231481
+[684]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231498
+[685]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231507
+[686]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231509
+[687]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231514
+[688]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231518
+[689]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231442
+[690]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231449
+[691]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3616757
+[692]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3616763
+[693]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231469
+[694]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231475
+[695]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231504
+[696]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231530
+[697]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3231531
+[698]: http://www.legislation.govt.nz/act/public/2013/0102/latest/link.aspx?id=DLM3616771
