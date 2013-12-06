@@ -13,9 +13,9 @@ Commencementsee section 1
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -139,7 +139,7 @@ An Act to consolidate and amend the law relating to the civil liabilities and ri
     
     _agent_, in relation to the Crown, includes an independent contractor employed by the Crown
     
-    _Attorney-General_, in respect of any power, duty, authority, or function imposed upon or vested in him by virtue of his office as Attorney-General otherwise than under [section 14][17], includes the Solicitor-General
+    _Attorney-General_, in respect of any power, duty, authority, or function imposed upon or vested in him or her by virtue of his or her office as Attorney-General otherwise than under [section 14][17], includes the Solicitor-General
     
     _civil proceedings_ means any proceedings in any court other than criminal proceedings; but does not include proceedings in relation to habeas corpus, mandamus, prohibition, or certiorari or proceedings by way of an application for review under [Part 1][48] of the Judicature Amendment Act 1972 to the extent that any relief sought in the application is in the nature of mandamus, prohibition, or certiorari
     
@@ -153,23 +153,23 @@ An Act to consolidate and amend the law relating to the civil liabilities and ri
     
     *   (b) includes the Māori Trustee
     
-    _Her Majesty_ or _the Crown_ means Her Majesty in right of Her Government in New Zealand
-    
     _member of a visiting force_ includes a member of any other force who is attached to a visiting force
     
     _New Zealand armed forces_ means the New Zealand Naval Forces, the New Zealand Army, and the Royal New Zealand Air Force
     
-    _officer_, in relation to the Crown, includes any servant of Her Majesty, and accordingly (but without prejudice to the generality of the foregoing provision) includes a Minister of the Crown; and a member of the New Zealand armed forces; but does not include the Governor-General, or any Judge, District Court Judge, Justice of the Peace, Community Magistrate, or other judicial officer
+    _officer_, in relation to the Crown, includes any servant of the Sovereign, and accordingly (but without prejudice to the generality of the foregoing provision) includes a Minister of the Crown; and a member of the New Zealand armed forces; but does not include the Governor-General, or any Judge, District Court Judge, Justice of the Peace, Community Magistrate, or other judicial officer
     
     _order_ includes a judgment, decree, rule, award, or declaration
     
     _proceedings against the Crown_ includes a claim by way of set-off or counterclaim raised in proceedings by the Crown
     
-    _servant_, in relation to the Crown, means any servant of Her Majesty, and accordingly (but without prejudice to the generality of the foregoing provision) includes a Minister of the Crown, and a member of the New Zealand armed forces; but does not include the Governor-General, or any Judge, District Court Judge, Justice of the Peace, Community Magistrate, or other judicial officer
+    _servant_, in relation to the Crown, means any servant of the Sovereign, and accordingly (but without prejudice to the generality of the foregoing provision) includes a Minister of the Crown, and a member of the New Zealand armed forces; but does not include the Governor-General, or any Judge, District Court Judge, Justice of the Peace, Community Magistrate, or other judicial officer
     
     _service aircraft_ means any aircraft within the meaning of the [Civil Aviation Act 1990][52] which is being used exclusively for the purposes of the Armed Forces of New Zealand
     
     _ship_ includes every description of vessel used in navigation not propelled by oars
+    
+    _the Sovereign_ or _the Crown_ means the Sovereign in right of his or her Government in New Zealand
     
     _visiting force_ means any naval, military, or air force of any country other than New Zealand which has been granted a right of entry into or passage through or over New Zealand.
     
@@ -216,7 +216,7 @@ Substantive law
     
     provided that nothing in this subsection shall interfere with or restrict any special power or authority vested in the Crown, or in any person on its behalf, with respect to all or any of the matters mentioned in this subsection.
     
-    (2) Subject to the provisions of this Act and any other Act, any person (whether a subject of Her Majesty or not) may enforce as of right, by civil proceedings taken against the Crown for that purpose in accordance with the provisions of this Act, any claim or demand against the Crown in respect of any of the following causes of action:
+    (2) Subject to the provisions of this Act and any other Act, any person (whether a subject of the Sovereign or not) may enforce as of right, by civil proceedings taken against the Crown for that purpose in accordance with the provisions of this Act, any claim or demand against the Crown in respect of any of the following causes of action:
         
     *   (a) the breach of any contract or trust:
     
@@ -256,11 +256,11 @@ Substantive law
         
     *   (a) in respect of torts committed by its servants or agents;
     
-    *   (b) in respect of any breach of those duties which a person owes to his servants or agents at common law by reason of being their employer; and
+    *   (b) in respect of any breach of those duties which a person owes to his or her servants or agents at common law by reason of being their employer; and
     
     *   (c) in respect of any breach of the duties attaching at common law to the ownership, occupation, possession, or control of property:
     
-    provided that no proceedings shall lie against the Crown by virtue of paragraph (a) in respect of any act or omission of a servant or agent of the Crown unless the act or omission would apart from the provisions of this Act have given rise to a cause of action in tort against that servant or agent or his estate.
+    provided that no proceedings shall lie against the Crown by virtue of paragraph (a) in respect of any act or omission of a servant or agent of the Crown unless the act or omission would apart from the provisions of this Act have given rise to a cause of action in tort against that servant or agent or his or her estate.
     
     (2) Where the Crown is bound by a statutory duty which is binding also upon persons other than the Crown and its officers, then, subject to the provisions of this Act, the Crown shall, in respect of a failure to comply with that duty, be subject to all those liabilities in tort (if any) to which it would be so subject if it were a private person of full age and capacity.
     
@@ -274,7 +274,7 @@ Substantive law
     
     *   (b) for the purpose of determining whether the Crown is so liable, the court must disregard the immunity in [section 86][67].
     
-    (5) No proceedings shall lie against the Crown by virtue of this section in respect of anything done or omitted to be done by any person while discharging or purporting to discharge any responsibilities of a judicial nature vested in him, or any responsibilities which he has in connection with the execution of judicial process.
+    (5) No proceedings shall lie against the Crown by virtue of this section in respect of anything done or omitted to be done by any person while discharging or purporting to discharge any responsibilities of a judicial nature vested in him or her, or any responsibilities which he or she has in connection with the execution of judicial process.
     
     Compare: 1910 No 54 ss 3(c), 4; Crown Proceedings Act 1947 s 2 (UK)
     
@@ -318,13 +318,13 @@ Substantive law
         
     *   (a) any pension has at any time been paid or is being paid under the [War Pensions Act 1954][79] in respect of that death or disablement; or
     
-    *   (b) a War Pensions Board has determined that for the purposes of [section 19][80] of the War Pensions Act 1954 that death or disablement is attributable to, or is deemed to be attributable to, the service of the member with the forces, or that the condition that resulted in that death or disablement was aggravated by his service with the forces:
+    *   (b) a War Pensions Board has determined that for the purposes of [section 19][80] of the War Pensions Act 1954 that death or disablement is attributable to, or is deemed to be attributable to, the service of the member with the forces, or that the condition that resulted in that death or disablement was aggravated by his or her service with the forces:
     
-    provided that this subsection shall not exempt an officer of the Crown from liability for any act or omission in any case where the court is satisfied that the act or omission was not connected with the execution of his duties as an officer of the Crown.
+    provided that this subsection shall not exempt an officer of the Crown from liability for any act or omission in any case where the court is satisfied that the act or omission was not connected with the execution of his or her duties as an officer of the Crown.
     
     (2) Any determination of a War Pensions Board under subsection (1) may be made by the Board whether or not a claim for a pension has been made under the [War Pensions Act 1954][79].
     
-    (2A) A certificate by the Secretary for War Pensions to the effect that a War Pensions Board has determined that for the purposes of [section 19][80] of the War Pensions Act 1954 the death or disablement of a member is attributable to, or is deemed to be attributable to, his service with the forces, or that the condition that resulted in the death or disablement of the member was aggravated by his service with the forces, shall for the purposes of this section be conclusive as to the fact which it certifies.
+    (2A) A certificate by the Secretary for War Pensions to the effect that a War Pensions Board has determined that for the purposes of [section 19][80] of the War Pensions Act 1954 the death or disablement of a member is attributable to, or is deemed to be attributable to, his or her service with the forces, or that the condition that resulted in the death or disablement of the member was aggravated by his or her service with the forces, shall for the purposes of this section be conclusive as to the fact which it certifies.
     
     (3) Where any claim is made against the Crown in respect of any damage, loss, or injury sustained or alleged to have been sustained by or through or in connection with the use of any service aircraft, the provisions of [section 97][81] of the Civil Aviation Act 1990 shall, notwithstanding anything in [section 3][82] of that Act, apply with respect to the aircraft as if the applicable provisions of that Act and of any rules made under that Act (if any) have been complied with.
     
@@ -379,7 +379,7 @@ Jurisdiction, procedure, and judgments
         
     *   (a) the appropriate government department in its own name if the department has power to sue apart from this section; or
     
-    *   (b) the appropriate officer of the Crown in the name in which he may sue on behalf of the Crown or of any government department if the officer has power to sue on behalf of the Crown or of any government department apart from this section; or
+    *   (b) the appropriate officer of the Crown in the name in which he or she may sue on behalf of the Crown or of any government department if the officer has power to sue on behalf of the Crown or of any government department apart from this section; or
     
     *   (c) the Attorney-General if there is no such appropriate department or officer or if the Attorney-General has any reasonable doubt whether any and, if so, which department or officer is appropriate; or
     
@@ -389,7 +389,7 @@ Jurisdiction, procedure, and judgments
         
     *   (a) the appropriate government department in its own name if the department may be sued apart from this section; or
     
-    *   (b) the appropriate officer of the Crown in the name in which he may be sued on behalf of the Crown or of any government department if the officer may be sued on behalf of the Crown or of any government department apart from this section; or
+    *   (b) the appropriate officer of the Crown in the name in which he or she may be sued on behalf of the Crown or of any government department if the officer may be sued on behalf of the Crown or of any government department apart from this section; or
     
     *   (c) the Attorney-General if there is no such appropriate department or officer or if the person instituting the proceedings has any reasonable doubt whether any and, if so, which department or officer is appropriate; or
     
@@ -411,7 +411,7 @@ Jurisdiction, procedure, and judgments
     
     *   (c) any 2 or more of them jointly.
     
-    (5) Where any civil proceedings against the Crown under this Act are instituted against the Attorney-General or the Attorney-General is joined as a party or third party to any such proceedings, an application may at any stage of the proceedings be made to the court by or on behalf of the Attorney-General to have 1 or more of the government departments or officers of the Crown against which or against whom the proceedings could have been instituted under subsection (2) substituted for him as a party or third party to the proceedings; and where any such proceedings are brought against any such government department or officer, or where any such department or officer is joined as a party or third party to any such proceedings, an application may at any stage of the proceedings be made to the court on behalf of the department or officer to have the Attorney-General or any such department or officer substituted for the applicant as a party or third party to the proceedings. Upon any such application the court may if it thinks fit make an order granting the application on such terms as the court thinks just, and the proceedings shall continue accordingly.
+    (5) Where any civil proceedings against the Crown under this Act are instituted against the Attorney-General or the Attorney-General is joined as a party or third party to any such proceedings, an application may at any stage of the proceedings be made to the court by or on behalf of the Attorney-General to have 1 or more of the government departments or officers of the Crown against which or against whom the proceedings could have been instituted under subsection (2) substituted for him or her as a party or third party to the proceedings; and where any such proceedings are brought against any such government department or officer, or where any such department or officer is joined as a party or third party to any such proceedings, an application may at any stage of the proceedings be made to the court on behalf of the department or officer to have the Attorney-General or any such department or officer substituted for the applicant as a party or third party to the proceedings. Upon any such application the court may if it thinks fit make an order granting the application on such terms as the court thinks just, and the proceedings shall continue accordingly.
     
     (6) No proceedings instituted in accordance with this Act to which the Attorney-General or any government department or officer of the Crown is a party or third party shall abate or be affected by any change in the person holding the office of Attorney-General or any other office in the government service or in the person or body of persons constituting the department.
     
@@ -425,7 +425,7 @@ Jurisdiction, procedure, and judgments
     
     (1A) The Attorney-General or the Solicitor-General may from time to time delegate the power of appointment conferred by subsection (1) to a barrister or solicitor of the High Court holding an appointment as Crown Counsel in the office of the Solicitor-General, and judicial notice shall be taken of the signature of any such barrister or solicitor.
     
-    (1B) Where any Crown Counsel purports to act pursuant to any delegation under this section he shall be presumed to be acting in accordance with the delegation in the absence of proof to the contrary.
+    (1B) Where any Crown Counsel purports to act pursuant to any delegation under this section he or she shall be presumed to be acting in accordance with the delegation in the absence of proof to the contrary.
     
     (1C) Every such delegation shall be revocable at will, and no such delegation shall prevent the exercise of the power of appointment by the Attorney-General or the Solicitor-General.
     
@@ -433,11 +433,11 @@ Jurisdiction, procedure, and judgments
     
     (1E) Any warrant of appointment under the foregoing provisions of this section may relate to 1 or more debts or claims for damages, or to all debts and claims for damages, or to any class or classes of debts or claims for damages or both.
     
-    (1F) Where, pursuant to any warrant of appointment under the foregoing provisions of this section, any person sues on behalf of the Crown for any debt or damages, he shall evidence his authority in that behalf by filing in the proceedings either---
+    (1F) Where, pursuant to any warrant of appointment under the foregoing provisions of this section, any person sues on behalf of the Crown for any debt or damages, he or she shall evidence his or her authority in that behalf by filing in the proceedings either---
         
-    *   (a) the warrant relating to his appointment; or
+    *   (a) the warrant relating to his or her appointment; or
     
-    *   (b) a certificate by him as to his appointment and as to the non-revocation of his warrant of appointment.
+    *   (b) a certificate by him or her as to his or her appointment and as to the non-revocation of his or her warrant of appointment.
     
     (1G) In any proceedings for the recovery of a debt or damages, being proceedings in which a warrant of appointment is so filed, if the warrant purports to have been given within 1 year of the date on which it is filed and relates only to the debt or damages sought to be recovered, it shall be presumed, in the absence of proof to the contrary, that the warrant has not been revoked.
     
@@ -445,13 +445,13 @@ Jurisdiction, procedure, and judgments
     
     (1I) Every person commits an offence and is liable on conviction to a fine not exceeding $100 who wilfully or negligently signs any such certificate if the certificate is false in a material respect.
     
-    (2) Every person so appointed to sue on behalf of the Crown shall sue in his own name with the addition of the words ""suing on behalf of the Crown"", or words to the like effect.
+    (2) Every person so appointed to sue on behalf of the Crown shall sue in his or her own name with the addition of the words ""suing on behalf of the Crown"", or words to the like effect.
     
     (3) Nothing in this section shall be so construed as to prevent the recovery of moneys payable to the Crown in any manner in which those moneys are recoverable independently of this section.
     
     Compare: 1910 No 54 s 10
     
-    Section 15 heading: replaced, on 8 November 1974, by section 2 of the Crown Proceedings Amendment Act 1974 (1974 No 81).
+    Section 15 heading: amended, on 8 November 1974, by section 2 of the Crown Proceedings Amendment Act 1974 (1974 No 81).
     
     Section 15 heading: amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
     
@@ -483,7 +483,7 @@ Jurisdiction, procedure, and judgments
 
 ##### 16 Service of documents and time for filing defence by Crown
     
-*   (1) In any civil proceedings instituted against the Attorney-General, or to which the Attorney-General is joined as a party or third party, as aforesaid, the first document required to be served on him, and any other document required to be served before an address for service has been given by him, shall be served on the Attorney-General by delivering it to the Solicitor-General or by leaving it at the office of the Solicitor-General in Wellington.
+*   (1) In any civil proceedings instituted against the Attorney-General, or to which the Attorney-General is joined as a party or third party, as aforesaid, the first document required to be served on him or her , and any other document required to be served before an address for service has been given by him or her, shall be served on the Attorney-General by delivering it to the Solicitor-General or by leaving it at the office of the Solicitor-General in Wellington.
     
     (2) In any civil proceedings against the Crown under this Act the time to be allowed in any writ or summons for the filing of a statement of defence or notice of intention to defend shall be not less than 28 days, or such further time as the court may allow.
     
@@ -533,7 +533,7 @@ Jurisdiction, procedure, and judgments
 
 ##### 20 Recovery of fines imposed otherwise than by judgment or conviction
     
-*   (1) Notwithstanding the foregoing provisions of this Act, where a fine is imposed upon any person otherwise than by a judgment or conviction of some court, and no other procedure is provided by any Act or rule of court for the recovery of the fine, a Judge or District Court Judge of the court by which the fine was imposed shall, if the same is not immediately paid, by writing under his hand in [form 1][90] of Schedule 3 or to the like effect, certify the fact, together with the name and place of abode or business of the person on whom the fine was imposed, and the cause and amount of the fine, and shall deliver or send by post the writing to the Attorney-General, who, upon receipt thereof, shall cause a final judgment to be signed in the High Court for the amount of the fine, and a sum not exceeding $10 for costs.
+*   (1) Notwithstanding the foregoing provisions of this Act, where a fine is imposed upon any person otherwise than by a judgment or conviction of some court, and no other procedure is provided by any Act or rule of court for the recovery of the fine, a Judge or District Court Judge of the court by which the fine was imposed shall, if the same is not immediately paid, by writing under his or her hand in [form 1][90] of Schedule 3 or to the like effect, certify the fact, together with the name and place of abode or business of the person on whom the fine was imposed, and the cause and amount of the fine, and shall deliver or send by post the writing to the Attorney-General, who, upon receipt thereof, shall cause a final judgment to be signed in the High Court for the amount of the fine, and a sum not exceeding $10 for costs.
     
     (2) Every such judgment may be in [form 2][91] of Schedule 3, or to the like effect, and no appeal shall lie therefrom.
     
@@ -545,9 +545,9 @@ Jurisdiction, procedure, and judgments
 
 ##### 21 Recovery of debts due upon recognisance
     
-*   (1) Notwithstanding the foregoing provisions of this Act, where any person has entered into a recognisance to Her Majesty, and the recognisance is forfeited, and no other procedure is provided by any Act or rule of court for the estreat thereof, a Judge or District Court Judge of the court before which, or the Justice or Community Magistrate before whom, the same was forfeited may cause the recognisance to be estreated as hereinafter provided.
+*   (1) Notwithstanding the foregoing provisions of this Act, where any person has entered into a recognisance to the Sovereign, and the recognisance is forfeited, and no other procedure is provided by any Act or rule of court for the estreat thereof, a Judge or District Court Judge of the court before which, or the Justice or Community Magistrate before whom, the same was forfeited may cause the recognisance to be estreated as hereinafter provided.
     
-    (2) The Judge, District Court Judge, Justice, or Community Magistrate shall, by writing under his hand in [form 3][92] of Schedule 3, or to the like effect, certify that the forfeiture has taken place, and shall deliver or send by post the said recognisance and writing to the Attorney-General, who, upon receipt thereof, shall cause a final judgment to be signed in the High Court for the amount of the recognisance, and a sum not exceeding $10 for costs.
+    (2) The Judge, District Court Judge, Justice, or Community Magistrate shall, by writing under his or her hand in [form 3][92] of Schedule 3, or to the like effect, certify that the forfeiture has taken place, and shall deliver or send by post the said recognisance and writing to the Attorney-General, who, upon receipt thereof, shall cause a final judgment to be signed in the High Court for the amount of the recognisance, and a sum not exceeding $10 for costs.
     
     (3) Every such judgment may be in [form 4][93] of Schedule 3, or to the like effect, and no appeal shall lie therefrom.
     
@@ -569,9 +569,9 @@ Jurisdiction, procedure, and judgments
     
     (2) On any such appointment being made and published in the _Gazette_ and while the appointment remains in force---
         
-    *   (a) all certificates under [section 20][24] of fines imposed within the district for which the person is appointed shall be sent to him instead of to the Attorney-General, and he shall cause final judgment to be signed thereon in the form mentioned in that section:
+    *   (a) all certificates under [section 20][24] of fines imposed within the district for which the person is appointed shall be sent to him or her instead of to the Attorney-General, and he or she shall cause final judgment to be signed thereon in the form mentioned in that section:
     
-    *   (b) all recognisances forfeited within the district for which the person is appointed shall, together with the certificate mentioned in [section 21][25], be sent to him, and he shall cause final judgment to be signed thereon on behalf of the Attorney-General in the form mentioned in that section.
+    *   (b) all recognisances forfeited within the district for which the person is appointed shall, together with the certificate mentioned in [section 21][25], be sent to him or her, and he or she shall cause final judgment to be signed thereon on behalf of the Attorney-General in the form mentioned in that section.
     
     Compare: 1908 No 34 s 6
     
@@ -602,9 +602,9 @@ Execution
     
     provided that, if the order provides for the payment of money, the court by which the order is made or any court to which an appeal against the order lies may direct that, pending an appeal or otherwise, payment of the money so payable, or any part thereof, shall be suspended, and (if the certificate has not been issued) may order any such directions to be inserted therein.
     
-    (3) On receipt of any such certificate the Governor-General, without further appropriation than this section, may cause to be paid to the person therein named the amount payable by the Crown under the order, together with any costs allowed him by the court and the interest, if any, lawfully due thereon, and may also perform or give effect to the terms of the order so far as it is to be satisfied by the Crown.
+    (3) On receipt of any such certificate the Governor-General, without further appropriation than this section, may cause to be paid to the person therein named the amount payable by the Crown under the order, together with any costs allowed him or her by the court and the interest, if any, lawfully due thereon, and may also perform or give effect to the terms of the order so far as it is to be satisfied by the Crown.
     
-    (4) The Minister of Finance shall, forthwith after the end of each financial year, cause to be prepared, in such form as he approves or directs, a statement showing all amounts paid under this section without appropriation other than this section; and shall, as soon as practicable, cause the statement (duly audited by the Auditor-General) to be laid before Parliament.
+    (4) The Minister of Finance shall, forthwith after the end of each financial year, cause to be prepared, in such form as he or she approves or directs, a statement showing all amounts paid under this section without appropriation other than this section; and shall, as soon as practicable, cause the statement (duly audited by the Auditor-General) to be laid before Parliament.
     
     Compare: 1908 No 34 ss 31, 32; Crown Proceedings Act 1947 s 25 (UK)
     
@@ -620,7 +620,7 @@ Execution
 
 ##### 26 Attachment of money payable by the Crown
     
-*   Any person who has obtained an order for the payment of money may take proceedings, in accordance with rules of court, to obtain payment to him of the amount of any debt payable by or accruing due from the Crown to the person against whom the order was made, or so much thereof as may be sufficient to satisfy the order and the cost of the garnishee proceedings; and in any such case the court may make any order in respect of the amount payable by or accruing due from the Crown which it would be entitled to make if the whole proceedings were between subjects:
+*   Any person who has obtained an order for the payment of money may take proceedings, in accordance with rules of court, to obtain payment to him or her of the amount of any debt payable by or accruing due from the Crown to the person against whom the order was made, or so much thereof as may be sufficient to satisfy the order and the costs of the garnishee proceedings; and in any such case the court may make any order in respect of the amount payable by or accruing due from the Crown which it would be entitled to make if the whole proceedings were between subjects:
     
     provided that, except as provided in any other Act, no such order shall be made in respect of---
         
@@ -667,7 +667,7 @@ Miscellaneous and supplemental
 
 ##### 28 Exclusion of proceedings _in rem_ against the Crown
     
-*   (1) Nothing in this Act shall authorise proceedings _in rem_ in respect of any claim against the Crown, or the arrest, detention, or sale of any ships or aircraft, or any cargo or other property belonging to Her Majesty, whether in right of Her Government in New Zealand or otherwise, or give to any person any lien on any such ship, aircraft, cargo, or other property.
+*   (1) Nothing in this Act shall authorise proceedings _in rem_ in respect of any claim against the Crown, or the arrest, detention, or sale of any ships or aircraft, or any cargo or other property belonging to the Sovereign, whether in right of his or her Government in New Zealand or otherwise, or give to any person any lien on any such ship, aircraft, cargo, or other property.
     
     (2) Where proceedings _in rem_ have been instituted in the High Court against any such ship, aircraft, cargo, or other property, the court may, if satisfied, either on an application by the plaintiff for an order under this subsection or on application by the Crown to set aside the proceedings, that the proceedings were so instituted by the plaintiff in the reasonable belief that the ship, aircraft, cargo, or other property did not belong to the Crown, order that the proceedings shall be treated as if they were _in personam_ duly instituted against the Crown in accordance with the provisions of this Act, or duly instituted against any other person whom the court regards as the proper person to be sued in the circumstances, and that the proceedings shall continue accordingly. Any such order may be made upon such terms, if any, as the court thinks just; and, where the court makes any such order, it may make such consequential orders as the court thinks expedient.
     
@@ -705,9 +705,9 @@ Miscellaneous and supplemental
     
     *   (d) for excepting proceedings brought against the Crown from the operation of any rule of court providing for summary judgment without trial;
     
-    *   (e) for providing that a person shall not be entitled to avail himself of any set-off or counterclaim in any proceedings by the Crown for the recovery of taxes, duties, or penalties, or to avail himself in proceedings of any other nature by the Crown of any set-off or counterclaim arising out of a right or claim to repayment in respect of any taxes, duties, or penalties;
+    *   (e) for providing that a person shall not be entitled to avail himself or herself of any set-off or counterclaim in any proceedings by the Crown for the recovery of taxes, duties, or penalties, or to avail himself or herself in proceedings of any other nature by the Crown of any set-off or counterclaim arising out of a right or claim to repayment in respect of any taxes, duties, or penalties;
     
-    *   (f) for providing that a person shall not be entitled, without the leave of the court, to avail himself of any set-off or counterclaim in any proceedings by the Crown if either the subject matter of the set-off or counterclaim does not relate to the government department or officer of the Crown in whose name the proceedings are brought, or the proceedings are brought in the name of the Attorney-General;
+    *   (f) for providing that a person shall not be entitled, without the leave of the court, to avail himself or herself of any set-off or counterclaim in any proceedings by the Crown if either the subject matter of the set-off or counterclaim does not relate to the government department or officer of the Crown in whose name the proceedings are brought, or the proceedings are brought in the name of the Attorney-General;
     
     *   (g) for providing that the Crown, when sued in the name of a government department or of an officer of the Crown, shall not, without the leave of the court, be entitled to avail itself of any set-off or counterclaim if the subject matter thereof does not relate to that department or officer; and
     
@@ -741,15 +741,15 @@ Miscellaneous and supplemental
 
 ##### 35 Saving of certain rights, etc
     
-*   (1) Nothing in this Act shall apply to or authorise proceedings by or against Her Majesty in Her private capacity.
+*   (1) Nothing in this Act shall apply to or authorise proceedings by or against the Sovereign in his or her private capacity.
     
     (2) Except as therein otherwise expressly provided, nothing in this Act shall---
         
     *   (a) affect the law relating to prize salvage, or apply to proceedings in causes or matters within the jurisdiction of the High Court as a Prize Court, or to any criminal proceedings; or
     
-    *   (b) authorise proceedings to be taken against the Crown under or in accordance with this Act in respect of any alleged liability of the Crown arising otherwise than in respect of Her Majesty's Government in New Zealand, or affect proceedings against the Crown in respect of any such alleged liability as aforesaid; or
+    *   (b) authorise proceedings to be taken against the Crown under or in accordance with this Act in respect of any alleged liability of the Crown arising otherwise than in respect of the Sovereign's Government in New Zealand, or affect proceedings against the Crown in respect of any such alleged liability as aforesaid; or
     
-    *   (c) affect any proceedings by the Crown otherwise than in right of Her Majesty's Government in New Zealand; or
+    *   (c) affect any proceedings by the Crown otherwise than in right of the Sovereign's Government in New Zealand; or
     
     *   (d) subject the Crown to any greater liabilities in respect of the acts or omissions of any independent contractor employed by the Crown than those to which the Crown would be subject in respect of the acts or omissions if the Crown were a private person; or
     
@@ -773,9 +773,9 @@ Miscellaneous and supplemental
     
     (3) A certificate of the Attorney-General---
         
-    *   (a) to the effect that any alleged liability of the Crown arises otherwise than in respect of Her Majesty's Government in New Zealand; or
+    *   (a) to the effect that any alleged liability of the Crown arises otherwise than in respect of the Sovereign's Government in New Zealand; or
     
-    *   (b) to the effect that any proceedings by the Crown are proceedings otherwise than in right of Her Majesty's Government in New Zealand,---
+    *   (b) to the effect that any proceedings by the Crown are proceedings otherwise than in right of the Sovereign's Government in New Zealand,---
     
     shall, for the purposes of this Act, be conclusive as to the matter so certified.
     
@@ -864,7 +864,7 @@ Proceedings abolished by this Act
 
 [s 12][15]
 
-*   1 Proceedings by Her Majesty by way of---
+*   1 Proceedings by the Sovereign by way of---
         
     *   (a) writs of _capias ad respondendum_:
     
@@ -876,7 +876,7 @@ Proceedings abolished by this Act
     
     Schedule 2 clause 1(d): inserted, on 1 January 1989, by section 2 of the Crown Proceedings Amendment Act 1988 (1988 No 115).
 
-*   2 Proceedings against Her Majesty by way of petition of right, including proceedings by way of petition of right under section 52 of the Naval Prize Act 1864 of the United Kingdom Parliament.
+*   2 Proceedings against the Sovereign by way of petition of right, including proceedings by way of petition of right under section 52 of the Naval Prize Act 1864 of the United Kingdom Parliament.
 
 ---
 
@@ -892,13 +892,11 @@ This is to certify to the Attorney-General that, at the \[_specify_\] this day h
 
 #### Schedule
 
-**Full name** **Place of abode or business** **Cause of fine** **Amount**
+**Full name** **Place of abode or business** **Cause of fine** **Amount ($)**
 
-**$**
+_Behaving and conducting himself or herself in a disorderly manner in court_ 
 
-_Behaving and conducting himself in a disorderly manner in court_ 
-
-Total $
+Total$
 
 Given under my hand:  
 Date:  
@@ -916,7 +914,7 @@ No:
 
 In the High Court of New Zealand at \[_place_\].
 
-Be it remembered that the Attorney- (_or_ Solicitor-) General has informed the court that at the \[_specify_\] held at \[_place_\] on \[_date_\], before \[_specify_\] a fine of $\[_amount_\] was imposed and inflicted upon \[_name_\] because he, the said \[_name_\] (_behaved and conducted himself in a disorderly manner in the said court, or as the case may be_) as by the certificate of the said \[_name_\] now filed of record appears. Therefore, on \[_date_\], it is adjudged by the court here that the Crown do recover against the said \[_name_\] the sum of $\[_amount_\], and also the sum of $\[_amount_\] for costs, making together the sum of $\[_amount_\].
+Be it remembered that the Attorney- (_or_ Solicitor-) General has informed the court that at the \[_specify_\] held at \[_place_\] on \[_date_\], before \[_specify_\] a fine of $\[_amount_\] was imposed and inflicted upon \[_name_\] because he or she, the said \[_name_\] (_behaved and conducted himself or herself in a disorderly manner in the said court, or as the case may be_) as by the certificate of the said \[_name_\] now filed of record appears. Therefore, on \[_date_\], it is adjudged by the court here that the Crown do recover against the said \[_name_\] the sum of $\[_amount_\], and also the sum of $\[_amount_\] for costs, making together the sum of $\[_amount_\].
 
 Dated at: \[_place, date_\]  
 Signature:  
@@ -947,7 +945,7 @@ Judgment in respect of recognisance
 
 In the High Court of New Zealand at \[_place_\].
 
-Be it remembered that the Attorney- (_or_ Solicitor-) General has informed the court that at the \[_specify_\] held at \[_place_\] on \[_date_\], before \[_specify_\], the recognisance of one \[_specify_\], by which he acknowledged to owe to the Crown the sum of $\[_amount_\], was forfeited and estreated as by the said recognisance and the certificate of the said \[_specify_\] now filed of record appears. Therefore, on \[_date_\], it is adjudged by the court here that the Crown do recover against the said \[_name_\] the sum of $\[_amount_\], and also the sum of $\[_amount_\] for costs, making together the sum of $\[_amount_\].
+Be it remembered that the Attorney- (_or_ Solicitor-) General has informed the court that at the \[_specify_\] held at \[_place_\] on \[_date_\], before \[_specify_\], the recognisance of one \[_specify_\], by which he or she acknowledged to owe to the Crown the sum of $\[_amount_\], was forfeited and estreated as by the said recognisance and the certificate of the said \[_specify_\] now filed of record appears. Therefore, on \[_date_\], it is adjudged by the court here that the Crown do recover against the said \[_name_\] the said sum of $\[_amount_\], and also the sum of $\[_amount_\] for costs, making together the sum of $\[_amount_\].
 
 Dated at: \[_place, date_\]  
 Signature:  
@@ -969,7 +967,7 @@ Between \[_name_\], plaintiff,
 
 and \[_name_\], defendant.
 
-I hereby certify that \[_name_\], of \[_place_\], did on \[_date_\], in the High Court (_or_ the District Court) at \[_place_\], obtain a judgment (order, decree, _or_ declaration); and that by the judgment (order, decree, _or_ declaration) the Crown was ordered to pay to him the sum of $\[_amount_\] (_or as the case may be_).
+I hereby certify that \[_name_\], of \[_place_\], did on \[_date_\], in the High Court (_or_ the District Court) at \[_place_\], obtain a judgment (order, decree, _or_ declaration); and that by the judgment (order, decree, _or_ declaration) the Crown was ordered to pay to him or her the sum of $\[_amount_\] (_or as the case may be_).
 
 Dated at: \[_place, date_\]  
 Signature:  
@@ -998,68 +996,25 @@ _Amendment(s) incorporated in the [Act(s)][129]_.
 
 _Amendment(s) incorporated in the [Act(s)][130]_.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Crown Proceedings Act 1950\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][131] ![](/images/external_link.gif).
+*   This is a reprint of the Crown Proceedings Act 1950 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][132] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][131] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][132] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][133] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][133] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][134] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
-    
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][134] and [17E][135] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
-    
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+###### 4 Amendments incorporated in this reprint
     
 *   State Sector Amendment Act 2013 (2013 No 49): [section 62][68]
     
@@ -1141,7 +1096,7 @@ _Amendment(s) incorporated in the [Act(s)][130]_.
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1950/0054/latest/whole.html#DLM261469
 [2]: http://www.legislation.govt.nz/act/public/1950/0054/latest/whole.html#DLM261471
 [3]: http://www.legislation.govt.nz/act/public/1950/0054/latest/whole.html#DLM261472
@@ -1272,8 +1227,7 @@ _Amendment(s) incorporated in the [Act(s)][130]_.
 [128]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM408384
 [129]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM219814
 [130]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM239127
-[131]: http://www.pco.parliament.govt.nz/reprints/
-[132]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM195439
-[133]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[134]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM195468
-[135]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM195470
+[131]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM2998516
+[132]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM2998515
+[133]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM2998532
+[134]: http://www.pco.parliament.govt.nz/editorial-conventions/
