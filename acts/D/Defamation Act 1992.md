@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2011
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -880,25 +880,15 @@ Publications protected by qualified privilege
 ## Part 1  
 Publications not subject to restrictions in section 18
 
-##### 1
-    
-*   Any delayed broadcast, by any broadcaster, of proceedings in the House of Representatives.
+*   1 Any delayed broadcast, by any broadcaster, of proceedings in the House of Representatives.
 
-##### 2
-    
-*   The publication of a fair and accurate report of proceedings in the House of Representatives or in any Committee of the House of Representatives.
+*   2 The publication of a fair and accurate report of proceedings in the House of Representatives or in any Committee of the House of Representatives.
 
-##### 3
-    
-*   The publication of a fair and accurate extract from, or summary of, any document or record to which [section 13(3)(a) or (c)][19] applies.
+*   3 The publication of a fair and accurate extract from, or summary of, any document or record to which section 13(3)(a) or (c) applies.
 
-##### 4
-    
-*   Subject to any provision to the contrary in any other enactment, the publication, in any proceedings before a tribunal or authority established by or pursuant to any enactment (other than proceedings to which [section 14(1)][20] applies), of any matter by a member of the tribunal or authority, or by a party, representative, or witness in those proceedings.
+*   4 Subject to any provision to the contrary in any other enactment, the publication, in any proceedings before a tribunal or authority established by or pursuant to any enactment (other than proceedings to which section 14(1) applies), of any matter by a member of the tribunal or authority, or by a party, representative, or witness in those proceedings.
 
-##### 5
-    
-*   The publication of a fair and accurate report of the pleadings of the parties in any proceedings before any court in New Zealand, at any time after,---
+*   5 The publication of a fair and accurate report of the pleadings of the parties in any proceedings before any court in New Zealand, at any time after,---
         
     *   (a) in the case of proceedings before the High Court, a _praecipe_ has been filed in those proceedings:
     
@@ -906,13 +896,9 @@ Publications not subject to restrictions in section 18
     
     
 
-##### 6
-    
-*   The publication of a fair and accurate report of the proceedings of any court in New Zealand (whether those proceedings are preliminary, interlocutory, or final, and whether in open court or not), or of the result of those proceedings.
+*   6 The publication of a fair and accurate report of the proceedings of any court in New Zealand (whether those proceedings are preliminary, interlocutory, or final, and whether in open court or not), or of the result of those proceedings.
 
-##### 7
-    
-*   The publication of a fair and accurate translation of words from one language to another, where the publication---
+*   7 The publication of a fair and accurate translation of words from one language to another, where the publication---
         
     *   (a) is by the person who made the translation; and
     
@@ -923,17 +909,11 @@ Publications not subject to restrictions in section 18
 ## Part 2  
 Publications subject to restrictions in section 18
 
-##### 1
-    
-*   A fair and accurate report of the proceedings of a legislature of a territory outside New Zealand or of a committee of any such legislature.
+*   1 A fair and accurate report of the proceedings of a legislature of a territory outside New Zealand or of a committee of any such legislature.
 
-##### 2
-    
-*   A fair and accurate report of the proceedings of a court outside New Zealand (whether those proceedings are preliminary, interlocutory, or final, and whether in open court or not), or of the result of those proceedings.
+*   2 A fair and accurate report of the proceedings of a court outside New Zealand (whether those proceedings are preliminary, interlocutory, or final, and whether in open court or not), or of the result of those proceedings.
 
-##### 3
-    
-*   A fair and accurate report of the proceedings in an inquiry held under the authority of---
+*   3 A fair and accurate report of the proceedings in an inquiry held under the authority of---
         
     *   (a) the Government or Parliament of New Zealand; or
     
@@ -941,9 +921,7 @@ Publications subject to restrictions in section 18
     
     or a true copy of, or a fair and accurate extract from or summary of, any official report made by the person by whom the inquiry was held.
 
-##### 4
-    
-*   A fair and accurate report of the proceedings of---
+*   4 A fair and accurate report of the proceedings of---
         
     *   (a) an international organisation of---
             
@@ -959,9 +937,7 @@ Publications subject to restrictions in section 18
     
     
 
-##### 5
-    
-*   A fair and accurate report of the proceedings at a meeting or sitting in any part of New Zealand of---
+*   5 A fair and accurate report of the proceedings at a meeting or sitting in any part of New Zealand of---
         
     *   (a) a local authority or committee of a local authority or local authorities; or
     
@@ -969,9 +945,7 @@ Publications subject to restrictions in section 18
     
     not being proceedings from which the public or members of the news media or both were excluded.
 
-##### 6
-    
-*   A fair and accurate report of the proceedings, or of the result of the proceedings, in an inquiry held in accordance with the rules of an association formed for the purpose of---
+*   6 A fair and accurate report of the proceedings, or of the result of the proceedings, in an inquiry held in accordance with the rules of an association formed for the purpose of---
         
     *   (a) promoting or safeguarding the interests of any game, sport, or pastime to the playing or exercise of which members of the public are invited or admitted; or
     
@@ -981,13 +955,9 @@ Publications subject to restrictions in section 18
     
     being an inquiry relating to a person who is a member of the association, or is subject by virtue of a contract to the control of the association.
 
-##### 7
-    
-*   A fair and accurate report of the proceedings, or of the result of the proceedings, in an inquiry held in accordance with the rules of any association formed for the purpose of promoting and safeguarding the standards of the New Zealand press.
+*   7 A fair and accurate report of the proceedings, or of the result of the proceedings, in an inquiry held in accordance with the rules of any association formed for the purpose of promoting and safeguarding the standards of the New Zealand press.
 
-##### 8
-    
-*   A fair and accurate report of the proceedings at a meeting held in New Zealand that---
+*   8 A fair and accurate report of the proceedings at a meeting held in New Zealand that---
         
     *   (a) is bona fide and lawfully held for a lawful purpose and for the furtherance or discussion of any matter of public concern; and
     
@@ -995,9 +965,7 @@ Publications subject to restrictions in section 18
     
     
 
-##### 9(1)
-    
-*   A fair and accurate report of---
+*   9(1) A fair and accurate report of---
         
     *   (a) the proceedings at a general meeting of a body to which this clause applies (not being a meeting from which the public or members of the news media or both were excluded):
     
@@ -1011,48 +979,40 @@ Publications subject to restrictions in section 18
     
     *   (b) any society registered under the [Incorporated Societies Act 1908][81]:
     
-    *   (c) any other body corporate operating in New Zealand,---
+    *   (c) any other body corporate operating in New Zealand.
     
-    but does not apply to any private company within the meaning of the Companies Act 1955\.
+    
 
-##### 10
-    
-*   A fair and accurate report of the proceedings at a press conference given by or on behalf of any body or person (being a body or person in respect of whose proceedings the publication of any fair and accurate report is, by virtue of [section 16(2)][23], protected by qualified privilege).
+*   10 A fair and accurate report of the proceedings at a press conference given by or on behalf of any body or person (being a body or person in respect of whose proceedings the publication of any fair and accurate report is, by virtue of section 16(2), protected by qualified privilege).
 
-##### 11
-    
-*   A fair and accurate report of a publication issued under the authority of a government or legislature of a foreign state.
+*   11 A fair and accurate report of a publication issued under the authority of a government or legislature of a foreign state.
 
-##### 12
-    
-*   A fair and accurate copy of or extract from a register that is kept in pursuance of any Act and that is open to inspection by the public, or of any other document that is required by the law of New Zealand to be open to inspection by the public.
+*   12 A fair and accurate copy of or extract from a register that is kept in pursuance of any Act and that is open to inspection by the public, or of any other document that is required by the law of New Zealand to be open to inspection by the public.
 
-##### 13
-    
-*   A notice or advertisement published by or under the authority of a court, whether within or outside New Zealand, or a Judge or officer of any court.
+*   13 A notice or advertisement published by or under the authority of a court, whether within or outside New Zealand, or a Judge or officer of any court.
 
-##### 14
-    
-*   A notice or advertisement published for the purpose of complying with a New Zealand Act; but not including a notice of an application to a court or tribunal, or to any other statutory office or statutory body, unless the application has been filed before the publication of the notice.
+*   14 A notice or advertisement published for the purpose of complying with a New Zealand Act; but not including a notice of an application to a court or tribunal, or to any other statutory office or statutory body, unless the application has been filed before the publication of the notice.
 
-##### 15
+*   15 A copy or a fair and accurate report or summary of a statement, notice, or other matter issued for the information of the public by or on behalf of the Government or any department or departmental officer, or any local authority or officer of the authority.
     
-*   A copy or a fair and accurate report or summary of a statement, notice, or other matter issued for the information of the public by or on behalf of the Government or any department or departmental officer, or any local authority or officer of the authority.
+    Schedule 1 Part 2 clause 9(2): amended, on 5 December 2013, by [section 14][82] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Schedule 1 Part 2 clause 9(2)(c): amended, on 5 December 2013, by [section 14][82] of the Companies Amendment Act 2013 (2013 No 111).
 
 ## Part 3  
 Interpretation
 
 In this Schedule, unless the context otherwise requires,---
 
-_court_ includes the International Court of Justice and any other judicial or arbitral tribunal deciding matters in dispute between states; and also includes the Court Martial of New Zealand established under [section 8][82] of the Court Martial Act 2007
+_court_ includes the International Court of Justice and any other judicial or arbitral tribunal deciding matters in dispute between states; and also includes the Court Martial of New Zealand established under [section 8][83] of the Court Martial Act 2007
 
 _government_, in relation to a territory outside New Zealand that is subject to a central and a local government, means either of those governments
 
 _legislature_, in relation to a territory outside New Zealand that is subject to a central and a local legislature, means either of those legislatures
 
-_local authority_ means a local body or public body named or specified in [Schedule 1][83] or [Schedule 2][84] of the Local Government Official Information and Meetings Act 1987\.
+_local authority_ means a local body or public body named or specified in [Schedule 1][84] or [Schedule 2][85] of the Local Government Official Information and Meetings Act 1987\.
     
-*   Schedule 1 Part 3 **court**: amended, on 1 July 2009, by [section 87][85] of the Court Martial Act 2007 (2007 No 101).
+*   Schedule 1 Part 3 **court**: amended, on 1 July 2009, by [section 87][86] of the Court Martial Act 2007 (2007 No 101).
 
 ---
 
@@ -1063,19 +1023,19 @@ Enactments amended
 
 ##### Broadcasting Act 1989 (1989 No 25)
 
-_Amendment(s) incorporated in the [Act(s)][86]._
+_Amendment(s) incorporated in the [Act(s)][87]._
 
 ##### Children, Young Persons, and Their Families Act 1989 (1989 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][87]._
+_Amendment(s) incorporated in the [Act(s)][88]._
 
 ##### Commerce Act 1986 (1986 No 5)
 
-_Amendment(s) incorporated in the [Act(s)][88]._
+_Amendment(s) incorporated in the [Act(s)][89]._
 
 ##### Coroners Act 1988 (1988 No 111)
 
-_Amendment(s) incorporated in the [Act(s)][89]_.
+_Amendment(s) incorporated in the [Act(s)][90]_.
 
 ##### Human Rights Commission Act 1977 (1977 No 49) (RS Vol 18, p 227)
 
@@ -1083,19 +1043,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Law Commission Act 1985 (1985 No 151)
 
-_Amendment(s) incorporated in the [Act(s)][90]._
+_Amendment(s) incorporated in the [Act(s)][91]._
 
 ##### Local Government Official Information and Meetings Act 1987 (1987 No 174)
 
-_Amendment(s) incorporated in the [Act(s)][91]._
+_Amendment(s) incorporated in the [Act(s)][92]._
 
 ##### Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)
 
-_Amendment(s) incorporated in the [Act(s)][92]._
+_Amendment(s) incorporated in the [Act(s)][93]._
 
 ##### Police Complaints Authority Act 1988 (1988 No 2)
 
-_Amendment(s) incorporated in the [Act(s)][93]._
+_Amendment(s) incorporated in the [Act(s)][94]._
 
 ##### Privacy Commissioner Act 1991 (1991 No 126)
 
@@ -1107,7 +1067,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Securities Act 1978 (1978 No 103) (RS Vol 15, p 533)
 
-_Amendment(s) incorporated in the [Act(s)][94]._
+_Amendment(s) incorporated in the [Act(s)][95]._
 
 ##### Wanganui Computer Centre Act 1976 (1976 No 19) 
 
@@ -1122,7 +1082,7 @@ Enactments repealed
 
 ##### Crimes Act 1961 (1961 No 43) (RS Vol 1, p 635)
 
-_Amendment(s) incorporated in the [Act(s)][95]._
+_Amendment(s) incorporated in the [Act(s)][96]._
 
 ##### Defamation Act 1954 (1954 No 46) (RS Vol 2, p 307)
 
@@ -1146,76 +1106,35 @@ _Amendment(s) incorporated in the Act(s)._
 
 _Amendment(s) incorporated in the Act(s)._
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Defamation Act 1992\. The reprint incorporates all the amendments to the Act as at 1 January 2011, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][96] ![](/images/external_link.gif).
+*   This is a reprint of the Defamation Act 1992 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][97] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][97] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][98] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][98] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][99] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][100] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][99] and [17E][100] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][82]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Limitation Act 2010 (2010 No 110): [section 58][79]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Limitation Act 2010 (2010 No 110): [section 58][79]
-    
-    Court Martial Act 2007 (2007 No 101): [section 87][85]
+    Court Martial Act 2007 (2007 No 101): [section 87][86]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1992/0105/latest/whole.html#DLM280689
 [2]: http://www.legislation.govt.nz/act/public/1992/0105/latest/whole.html#DLM280691
 [3]: http://www.legislation.govt.nz/act/public/1992/0105/latest/whole.html#DLM280692
@@ -1297,22 +1216,22 @@ _Amendment(s) incorporated in the Act(s)._
 [79]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM2033287
 [80]: http://www.legislation.govt.nz/act/public/1992/0105/latest/whole.html#DLM281282
 [81]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM175774
-[82]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM1001934
-[83]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM123616
-[84]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM123633
-[85]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM1002056
-[86]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM155364
-[87]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM155018
-[88]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM89961
-[89]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM135009
-[90]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM87377
-[91]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM122241
-[92]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM430983
-[93]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM126510
-[94]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM28126
-[95]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM327381
-[96]: http://www.pco.parliament.govt.nz/reprints/
-[97]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM195439
-[98]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[99]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM195468
-[100]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM195470
+[82]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM5620822
+[83]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM1001934
+[84]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM123616
+[85]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM123633
+[86]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM1002056
+[87]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM155364
+[88]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM155018
+[89]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM89961
+[90]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM135009
+[91]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM87377
+[92]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM122241
+[93]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM430983
+[94]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM126510
+[95]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM28126
+[96]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM327381
+[97]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM2998516
+[98]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM2998515
+[99]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM2998532
+[100]: http://www.pco.parliament.govt.nz/editorial-conventions/
