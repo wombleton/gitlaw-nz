@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -2748,7 +2748,7 @@ Miscellaneous provisions
     
 *   (1) For the purposes of this Act and any Order in Council in force under [section 15][25] or [section 104][143], the following offences are deemed to be offences described in any extradition treaty concluded before the commencement of [section 6][272] of the Extradition Amendment Act 2002 and for the time being in force between New Zealand and any foreign country that is a party to a convention or protocol referred to in subsection (5):
         
-    *   (a) every offence against any of [sections 98A][273], [98C][274], [98D][275], [100][276], [101][277], [102][278], [103][279], [104][280], [105][281], [116][282], [117][283], and [257A][284] of the Crimes Act 1961:
+    *   (a) every offence against any of [sections 98A][273], [98C][274], [98D][275], [100][276], [101][277], [102][278], [103][279], [104][280], [105][281], [116][282], [117][283], and [243][284] of the Crimes Act 1961:
     
     *   (b) every offence against any of [sections 29A][285], [30][286], [30A][287], [31(1)][288], [31(2)][288], and [32][289] of the Passports Act 1992:
     
@@ -2787,6 +2787,8 @@ Miscellaneous provisions
     Section 101B: brought into force, so far as it implements the TOC convention, on 29 September 2003, by [clause 2][266] of the Extradition Amendment Act Commencement Order 2003 (SR 2003/238).
     
     Section 101B: brought into force, so far as it implements the migrants protocol and trafficking protocol, on 1 January 2004, by [clause 3][267] of the Extradition Amendment Act Commencement Order 2003 (SR 2003/238).
+    
+    Section 101B(1)(a): amended, on 5 December 2013, by [section 4][290] of the Extradition Amendment Act 2013 (2013 No 116).
 
 #### Regulations
 
@@ -2822,7 +2824,7 @@ Miscellaneous provisions
 
 ##### 103 Rules relating to appeals
     
-*   Rules regulating the practice and procedure in appeals to the High Court under this Act may be made in the manner in which rules of court are made under the [Judicature Act 1908][290].
+*   Rules regulating the practice and procedure in appeals to the High Court under this Act may be made in the manner in which rules of court are made under the [Judicature Act 1908][291].
 
 #### Transitional and savings provisions
 
@@ -2870,9 +2872,9 @@ Miscellaneous provisions
     
     (7) An order for the surrender of a person made before the commencement of this Act under the Extradition Act 1965 has effect as if it had been made under [Part 3][21].
     
-    (8) Nothing in this section limits the [Interpretation Act 1999][291].
+    (8) Nothing in this section limits the [Interpretation Act 1999][292].
     
-    Section 106(8): amended, on 1 November 1999, pursuant to [section 38(1)][292] of the Interpretation Act 1999 (1999 No 85).
+    Section 106(8): amended, on 1 November 1999, pursuant to [section 38(1)][293] of the Interpretation Act 1999 (1999 No 85).
 
 ##### 107 Immigration Act 2009 not affected
     
@@ -2884,13 +2886,13 @@ Miscellaneous provisions
 
 ##### 108 Citizenship Act 1977 not affected
     
-*   This Act does not limit or affect the [Citizenship Act 1977][293].
+*   This Act does not limit or affect the [Citizenship Act 1977][294].
 
 ##### 109 Arrest of deserters from other armed forces
     
-*   This Act does not limit or affect [section 89A][294] or [section 92A][295] or [section 93B][296] or [section 93C][297] of the Armed Forces Discipline Act 1971\.
+*   This Act does not limit or affect [section 89A][295] or [section 92A][296] or [section 93B][297] or [section 93C][298] of the Armed Forces Discipline Act 1971\.
     
-    Section 109: substituted, on 1 July 2004, by [section 26][298] of the Visiting Forces Act 2004 (2004 No 59).
+    Section 109: substituted, on 1 July 2004, by [section 26][299] of the Visiting Forces Act 2004 (2004 No 59).
 
 #### Amendments and repeals
 
@@ -2922,9 +2924,9 @@ Miscellaneous provisions
     
     *   (b) Fugitive Offenders (Protected States) Act 1915 (5 and 6 Geo 5, c 39).
     
-    (3) Subject to this Act, [sections 17 to 22][299] of the Interpretation Act 1999 apply with respect to the enactments referred to in subsection (2) as if those enactments were Acts of the Parliament of New Zealand.
+    (3) Subject to this Act, [sections 17 to 22][300] of the Interpretation Act 1999 apply with respect to the enactments referred to in subsection (2) as if those enactments were Acts of the Parliament of New Zealand.
     
-    Section 112(3): amended, on 1 November 1999, pursuant to [section 38(1)][292] of the Interpretation Act 1999 (1999 No 85).
+    Section 112(3): amended, on 1 November 1999, pursuant to [section 38(1)][293] of the Interpretation Act 1999 (1999 No 85).
 
 ---
 
@@ -3155,7 +3157,7 @@ Acts amended
 
 ##### Abolition of the Death Penalty Act 1989 (1989 No 119)
 
-_Amendment(s) incorporated in the [Act(s)][300]._
+_Amendment(s) incorporated in the [Act(s)][301]._
 
 ##### Aviation Crimes Act 1972 (1972 No 137) (RS Vol 23, p 213)
 
@@ -3171,19 +3173,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Crimes (Internationally Protected Persons and Hostages) Amendment Act 1998 (1998 No 36)
 
-_Amendment(s) incorporated in the [Act(s)][301]._
+_Amendment(s) incorporated in the [Act(s)][302]._
 
 ##### Crimes (Internationally Protected Persons, United Nations and Associated Personnel, and Hostages) Act 1980 (1980 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][302]._
+_Amendment(s) incorporated in the [Act(s)][303]._
 
 ##### Crimes of Torture Act 1989 (1989 No 106)
 
-_Amendment(s) incorporated in the [Act(s)][303]._
+_Amendment(s) incorporated in the [Act(s)][304]._
 
 ##### Criminal Justice Act 1985 (1985 No 120)
 
-_Amendment(s) incorporated in the [Act(s)][304]._
+_Amendment(s) incorporated in the [Act(s)][305]._
 
 ##### District Courts Amendment Act 1998 (1998 No 76)
 
@@ -3191,7 +3193,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Imperial Laws Application Act 1988 (1988 No 112) (RS Vol 30, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][305]._
+_Amendment(s) incorporated in the [Act(s)][306]._
 
 ##### Legal Services Act 1991 (1991 No 71)
 
@@ -3199,15 +3201,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Misuse of Drugs Act 1975 (1975 No 116) (RS Vol 26, p 567)
 
-_Amendment(s) incorporated in the [Act(s)][306]._
+_Amendment(s) incorporated in the [Act(s)][307]._
 
 ##### Misuse of Drugs Amendment Act 1998 (1998 No 14)
 
-_Amendment(s) incorporated in the [Act(s)][307]._
+_Amendment(s) incorporated in the [Act(s)][308]._
 
 ##### Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)
 
-_Amendment(s) incorporated in the [Act(s)][308]._
+_Amendment(s) incorporated in the [Act(s)][309]._
 
 #### 
 
@@ -3221,15 +3223,17 @@ _Amendment(s) incorporated in the [Act(s)][308]._
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][309] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][310] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][310] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][311] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][311] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][312] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][312] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][313] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][172]
+*   [Extradition Amendment Act 2013][314] (2013 No 116)
+    
+    Legislation Act 2012 (2012 No 119): [section 77(3)][172]
     
     Cultural Property (Protection in Armed Conflict) Act 2012 (2012 No 118): [section 45][271]
     
@@ -3239,7 +3243,7 @@ _Amendment(s) incorporated in the [Act(s)][308]._
     
     Immigration Act 2009 (2009 No 51): [section 406(1) ][245]
     
-    Policing Act 2008 (2008 No 72): [sections 116(a)(ii), (iv)][206], [130(1)][313]
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii), (iv)][206], [130(1)][315]
     
     Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41): [section 18][190]
     
@@ -3247,11 +3251,11 @@ _Amendment(s) incorporated in the [Act(s)][308]._
     
     Misuse of Drugs Amendment Act 2005 (2005 No 81): [section 23][264]
     
-    Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2): [section 34(2)][314]
+    Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2): [section 34(2)][316]
     
     Mercenary Activities (Prohibition) Act 2004 (2004 No 69): [section 22][269]
     
-    Visiting Forces Act 2004 (2004 No 59): [section 26][315]
+    Visiting Forces Act 2004 (2004 No 59): [section 26][317]
     
     Corrections Act 2004 (2004 No 50): [section 206][162]
     
@@ -3259,11 +3263,11 @@ _Amendment(s) incorporated in the [Act(s)][308]._
     
     Extradition Amendment Act Commencement Order 2003 (SR 2003/238).
     
-    [Extradition Amendment Act (No 2) 2002][316] (2002 No 64)
+    [Extradition Amendment Act (No 2) 2002][318] (2002 No 64)
     
-    Terrorism Suppression Act 2002 (2002 No 34): [section 76][317]
+    Terrorism Suppression Act 2002 (2002 No 34): [section 76][319]
     
-    [Extradition Amendment Act 2002][318] (2002 No 21)
+    [Extradition Amendment Act 2002][320] (2002 No 21)
     
     Parole Act 2002 (2002 No 10): [section 125][163]
     
@@ -3275,7 +3279,7 @@ _Amendment(s) incorporated in the [Act(s)][308]._
     
     International Crimes and International Criminal Court Act 2000 (2000 No 26): [section 184][249]
     
-    Interpretation Act 1999 (1999 No 85): [section 38(1)][292]
+    Interpretation Act 1999 (1999 No 85): [section 38(1)][293]
 
 
 
@@ -3563,38 +3567,40 @@ _Amendment(s) incorporated in the [Act(s)][308]._
 [281]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM328753
 [282]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM329005
 [283]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM329007
-[284]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM330448
+[284]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM330289
 [285]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM278086
 [286]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM278094
 [287]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM278097
 [288]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM278099
 [289]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM278310
-[290]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM144692
-[291]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM31458
-[292]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM31885
-[293]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM443683
-[294]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM403035
-[295]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM403046
-[296]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM403061
-[297]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM403063
-[298]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM302851
-[299]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM31486
-[300]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM193585
-[301]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM426433
-[302]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM426419
-[303]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM192817
-[304]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM76615
-[305]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM135073
-[306]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM436100
-[307]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM425311
-[308]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM311183
-[309]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2998516
-[310]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2998515
-[311]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2998532
-[312]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[313]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM1102383
-[314]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM333724
-[315]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM302847
-[316]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168751
-[317]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2456106
-[318]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM145461
+[290]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM5621907
+[291]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM144692
+[292]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM31458
+[293]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM31885
+[294]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM443683
+[295]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM403035
+[296]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM403046
+[297]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM403061
+[298]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM403063
+[299]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM302851
+[300]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM31486
+[301]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM193585
+[302]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM426433
+[303]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM426419
+[304]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM192817
+[305]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM76615
+[306]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM135073
+[307]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM436100
+[308]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM425311
+[309]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM311183
+[310]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2998516
+[311]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2998515
+[312]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2998532
+[313]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[314]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM5621900
+[315]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM1102383
+[316]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM333724
+[317]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM302847
+[318]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168751
+[319]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2456106
+[320]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM145461
