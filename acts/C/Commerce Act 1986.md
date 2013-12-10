@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1163,17 +1163,17 @@ Title \[Repealed\]
     
     (7) For the purposes of this Act, any 2 bodies corporate are to be treated as _interconnected_ if---
         
-    *   (a) one of them is a body corporate of which the other is a subsidiary (within the meaning of sections 158 and 158A of the Companies Act 1955 or [sections 5][427] and [6][428] of the Companies Act 1993, as the case may be); or
+    *   (a) one of them is a body corporate of which the other is a subsidiary (within the meaning of [section 5][427] of the Companies Act 1993); or
     
-    *   (b) both of them are subsidiaries (within the meaning of those sections) of the same body corporate; or
+    *   (b) both of them are subsidiaries (within the meaning of that section) of the same body corporate; or
     
-    *   (ba) both of them are entities referred to by any of the paragraphs (other than paragraph (e)) of the definition of transferor in [section 2(1)][429] of the Health Sector (Transfers) Act 1993; or
+    *   (ba) both of them are entities referred to by any of the paragraphs (other than paragraph (e)) of the definition of transferor in [section 2(1)][428] of the Health Sector (Transfers) Act 1993; or
     
     *   (c) both of them are interconnected with bodies corporate that, in accordance with paragraph (a) or paragraph (b), are interconnected---
     
     and _interconnected bodies corporate_ has a corresponding meaning.
     
-    (7A) For the purposes of subsection (7)(a) and (b), no body corporate shall be regarded as a subsidiary (within the meaning of sections 158 and 158A of the Companies Act 1955 or [sections 5][427] and [6][428] of the Companies Act 1993, as the case may be) of the Crown.
+    (7A) For the purposes of subsection (7)(a) and (b), no body corporate may be regarded as a subsidiary (within the meaning of [section 5][427] of the Companies Act 1993) of the Crown.
     
     (8) For the purposes of this Act---
         
@@ -1189,63 +1189,61 @@ Title \[Repealed\]
     
     Compare: 1975 No 113 ss 2(1), 67A(3); 1976 No 67 ss 22, 23(3); 1979 No 140 s 2; 1983 No 144 s 26; Trade Practices Act 1974 ss 4, 4C, 4F, 4H (Aust)
     
-    Section 2(1) **accounting period**: inserted, on 26 May 2001, by [section 5][430] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 2(1) **accounting period**: inserted, on 26 May 2001, by [section 5][429] of the Commerce Amendment Act 2001 (2001 No 32).
     
-    Section 2(1) **assets**: inserted, on 1 January 1991, by [section 2(1)][431] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 2(1) **assets**: inserted, on 1 January 1991, by [section 2(1)][430] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 2(1) **associate member**: inserted, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 2(1) **associate member**: inserted, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 2(1) **Authority**: inserted, on 1 November 2010, by [section 146(1)][433] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 2(1) **Authority**: inserted, on 1 November 2010, by [section 146(1)][432] of the Electricity Industry Act 2010 (2010 No 116).
     
-    Section 2(1) **chairman**: repealed, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 2(1) **chairman**: repealed, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 2(1) **chairperson**: inserted, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 2(1) **chairperson**: inserted, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 2(1) **Commission**: substituted, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 2(1) **Commission**: substituted, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 2(1) **Commissioner**: substituted, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 2(1) **Commissioner**: substituted, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 2(1) **deputy chairman**: repealed, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 2(1) **deputy chairman**: repealed, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 2(1) **deputy chairperson**: inserted, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 2(1) **deputy chairperson**: inserted, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 2(1) **Electricity Commission**: repealed, on 1 November 2010, by [section 146(2)][433] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 2(1) **Electricity Commission**: repealed, on 1 November 2010, by [section 146(2)][432] of the Electricity Industry Act 2010 (2010 No 116).
     
-    Section 2(1) **goods**: substituted, on 8 July 2003, by [section 3(1)][434] of the Commerce Amendment Act 2003 (2003 No 32).
+    Section 2(1) **goods**: substituted, on 8 July 2003, by [section 3(1)][433] of the Commerce Amendment Act 2003 (2003 No 32).
     
-    Section 2(1) **member of the Commission**: substituted, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 2(1) **member of the Commission**: substituted, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 2(1) **Minister**: substituted, on 26 May 2001, by [section 5][430] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 2(1) **Minister**: substituted, on 26 May 2001, by [section 5][429] of the Commerce Amendment Act 2001 (2001 No 32).
     
-    Section 2(1) **officer of the Commission**: repealed, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 2(1) **officer of the Commission**: repealed, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 2(1) **place**: inserted, on 1 July 1990, by [section 2(2)][431] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 2(1) **place**: inserted, on 1 July 1990, by [section 2(2)][430] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 2(1) **services** paragraph (a)(iv): added, on 8 July 2003, by [section 3(2)][434] of the Commerce Amendment Act 2003 (2003 No 32).
+    Section 2(1) **services** paragraph (a)(iv): added, on 8 July 2003, by [section 3(2)][433] of the Commerce Amendment Act 2003 (2003 No 32).
     
-    Section 2(1) **share**: inserted, on 1 January 1991, by [section 2(3)][431] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 2(1) **share**: inserted, on 1 January 1991, by [section 2(3)][430] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 2(1) **share** paragraph (b): amended, on 1 July 1994, by [section 2][435] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 2(1) **share** paragraph (b): amended, on 1 July 1994, by [section 2][434] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 2(1) **substantial**: repealed, on 1 January 1991, by [section 2(4)][431] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 2(1) **substantial**: repealed, on 1 January 1991, by [section 2(4)][430] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 2(1) **turnover**: inserted, on 26 May 2001, by [section 5][430] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 2(1) **turnover**: inserted, on 26 May 2001, by [section 5][429] of the Commerce Amendment Act 2001 (2001 No 32).
     
-    Section 2(1A): inserted, on 1 January 1991, by [section 2(5)][431] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 2(1A): inserted, on 1 January 1991, by [section 2(5)][430] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 2(1A): amended, on 26 May 2001, by [section 9(2)][436] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 2(1A): amended, on 26 May 2001, by [section 9(2)][435] of the Commerce Amendment Act 2001 (2001 No 32).
     
-    Section 2(7): substituted, on 1 January 1991, by [section 2(6)][431] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 2(7): substituted, on 1 January 1991, by [section 2(6)][430] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 2(7)(a): substituted, on 1 July 1994, by [section 2][435] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 2(7)(a): replaced, on 5 December 2013, by [section 14][436] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 2(7)(b): amended, on 1 July 1994, by [section 2][435] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 2(7)(b): replaced, on 5 December 2013, by [section 14][436] of the Companies Amendment Act 2013 (2013 No 111).
     
     Section 2(7)(ba): inserted, on 1 January 2001, by [section 107(1)][437] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
-    Section 2(7A): inserted, on 9 December 1994, by section 2(1) of the Commerce Amendment Act 1994 (1994 No 135).
-    
-    Section 2(7A): amended, on 1 January 2001, by [section 107(2)][437] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 2(7A): replaced, on 5 December 2013, by [section 14][436] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 3 Certain terms defined in relation to competition
     
@@ -1301,17 +1299,17 @@ Title \[Repealed\]
     
     Section 3(1A): inserted, on 1 July 1990, by [section 3(1)][438] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 3(1A): amended, on 26 May 2001, by [section 9(3)][436] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 3(1A): amended, on 26 May 2001, by [section 9(3)][435] of the Commerce Amendment Act 2001 (2001 No 32).
     
     Section 3(1B): inserted, on 1 July 1990, by [section 3(1)][438] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 3(1B): amended, on 26 May 2001, by [section 9(3)][436] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 3(1B): amended, on 26 May 2001, by [section 9(3)][435] of the Commerce Amendment Act 2001 (2001 No 32).
     
     Section 3(1C): inserted, on 1 July 1990, by [section 3(1)][438] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 3(1C): amended, on 26 May 2001, by [section 9(3)][436] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 3(1C): amended, on 26 May 2001, by [section 9(3)][435] of the Commerce Amendment Act 2001 (2001 No 32).
     
-    Section 3(8): repealed, on 26 May 2001, by [section 9(4)][436] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 3(8): repealed, on 26 May 2001, by [section 9(4)][435] of the Commerce Amendment Act 2001 (2001 No 32).
     
     Section 3(9): repealed, on 26 May 2001, by [section 11(3)][439] of the Commerce Amendment Act 2001 (2001 No 32).
 
@@ -1408,9 +1406,9 @@ The Commerce Commission
     
     (4) \[Repealed\]
     
-    Section 8(2): substituted, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 8(2): substituted, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 8(3): repealed, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 8(3): repealed, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
     Section 8(4): repealed, on 1 July 1990, by [section 7][444] of the Commerce Amendment Act 1990 (1990 No 41).
 
@@ -1422,7 +1420,7 @@ The Commerce Commission
     
     (3) Members of the Commission are the board for the purposes of the [Crown Entities Act 2004][443].
     
-    Section 8A: inserted, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 8A: inserted, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 9 Membership of Commission
     
@@ -1440,7 +1438,7 @@ The Commerce Commission
     
     (5) Subsections (2) and (4) do not limit [section 29][447] of the Crown Entities Act 2004\.
     
-    Section 9: substituted, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 9: substituted, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 10 Terms and conditions of appointment
     
@@ -1458,17 +1456,17 @@ The Commerce Commission
     
     Compare: 1975 No 113 ss 4(1), 10, 17B; 1979 No 140 s 9(1)
     
-    Section 10(1): repealed, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 10(1): repealed, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 10(2): repealed, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 10(2): repealed, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 10(3): repealed, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 10(3): repealed, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 10(4): repealed, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 10(4): repealed, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
     Section 10(5): substituted, on 1 April 1991, by [section 80][449] of the National Provident Fund Restructuring Act 1990 (1990 No 126).
     
-    Section 10(6): repealed, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 10(6): repealed, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 11 Associate members
     
@@ -1488,19 +1486,19 @@ The Commerce Commission
     
     Compare: 1975 No 113 s 3B; 1979 No 140 s 5; 1983 No 144 s 3
     
-    Section 11(1A): inserted, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 11(1A): inserted, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 11(2): amended, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 11(2): amended, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
     Section 11(3): amended, on 15 April 2004, by [section 3(1)(a)][451] of the Commerce Amendment Act 2004 (2004 No 23).
     
     Section 11(3): amended, on 15 April 2004, by [section 3(1)(b)][451] of the Commerce Amendment Act 2004 (2004 No 23).
     
-    Section 11(4): amended, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 11(4): amended, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 11(5): added, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 11(5): added, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 11(6): added, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 11(6): added, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 12 Chairperson and deputy chairperson
     
@@ -1510,7 +1508,7 @@ The Commerce Commission
     
     (3) In other respects, [clauses 1(2) and (3)][452] and [4(2) and (3)][453] of Schedule 5 of the Crown Entities Act 2004 apply to the appointment and removal of the chairperson and deputy chairperson of the Commission.
     
-    Section 12: substituted, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 12: substituted, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 13 Termination of appointment of members
     
@@ -1530,19 +1528,19 @@ The Commerce Commission
     
     Compare: 1975 No 113 s 4(2), (3); 1976 No 67 s 23(3); 1979 No 140 s 6
     
-    Section 13(1): substituted, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 13(1): substituted, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 13(2): substituted, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 13(2): substituted, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 13(3): substituted, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 13(3): substituted, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 13(5): added, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 13(5): added, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 14 Disclosure of financial interests
     
 *   \[Repealed\]
     
-    Section 14: repealed, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 14: repealed, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 15 Meetings of Commission
     
@@ -1564,21 +1562,21 @@ The Commerce Commission
     
     Compare: 1975 No 113 s 6; 1983 No 144 s 5(1), (2)
     
-    Section 15(1): repealed, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 15(1): repealed, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 15(2): repealed, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 15(2): repealed, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 15(2A): repealed, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 15(2A): repealed, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 15(3): repealed, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 15(3): repealed, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
     Section 15(4): amended, on 15 April 2004, by [section 4(3)][458] of the Commerce Amendment Act 2004 (2004 No 23).
     
-    Section 15(5): substituted, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 15(5): substituted, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 15(6): repealed, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 15(6): repealed, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 15(7): amended, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 15(7): amended, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 16 Chairperson may direct Commission to sit in Divisions
     
@@ -1600,23 +1598,23 @@ The Commerce Commission
     
     Compare: 1975 No 113 s 7; 1976 No 67 s 7
     
-    Section 16 heading: amended, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 16 heading: amended, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 16(1): amended, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 16(1): amended, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
     Section 16(1): amended, on 15 April 2004, by [section 5(1)][460] of the Commerce Amendment Act 2004 (2004 No 23).
     
-    Section 16(1A): inserted, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 16(1A): inserted, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 16(2): amended, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 16(2): amended, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 16(3): amended, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 16(3): amended, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 16(4): amended, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 16(4): amended, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
     Section 16(6): amended, on 15 April 2004, by [section 5(2)][460] of the Commerce Amendment Act 2004 (2004 No 23).
     
-    Section 16(7): amended, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 16(7): amended, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 17 Assent to determination
     
@@ -1626,27 +1624,27 @@ The Commerce Commission
     
     Compare: 1975 No 113 s 7A; 1983 No 144 s 6
     
-    Section 17(1): amended, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 17(1): amended, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 17(2): added, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 17(2): added, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 18 Officers and employees
     
 *   \[Repealed\]
     
-    Section 18: repealed, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 18: repealed, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 18A Personnel policy
     
 *   \[Repealed\]
     
-    Section 18A: repealed, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 18A: repealed, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 18B Equal employment opportunities
     
 *   \[Repealed\]
     
-    Section 18B: repealed, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 18B: repealed, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 18C Choice of procedure
     
@@ -1664,37 +1662,37 @@ The Commerce Commission
     
     Section 18D: inserted, on 1 July 1990, by [section 10][465] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 18D(1): repealed, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 18D(1): repealed, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 19 Money to be appropriated by Parliament for purposes of this Act
     
 *   \[Repealed\]
     
-    Section 19: repealed, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 19: repealed, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 20 Funds of Commission
     
 *   \[Repealed\]
     
-    Section 20: repealed, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 20: repealed, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 21 Bank accounts
     
 *   \[Repealed\]
     
-    Section 21: repealed, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 21: repealed, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 22 Crown entity
     
 *   \[Repealed\]
     
-    Section 22: repealed, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 22: repealed, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 23 Investment of money
     
 *   \[Repealed\]
     
-    Section 23: repealed, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 23: repealed, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 24 Exemption from income tax
     
@@ -1724,7 +1722,7 @@ The Commerce Commission
     
     Section 26(1): amended, on 1 July 1990, by [section 12][467] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 26(3): added, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 26(3): added, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ## Part 2  
 Restrictive trade practices
@@ -1897,7 +1895,7 @@ Restrictive trade practices
 
 #### Taking advantage of market power
     
-*   Heading: substituted, on 26 May 2001, by [section 9(1)][436] of the Commerce Amendment Act 2001 (2001 No 32).
+*   Heading: substituted, on 26 May 2001, by [section 9(1)][435] of the Commerce Amendment Act 2001 (2001 No 32).
 
 ##### 36 Taking advantage of market power
     
@@ -1915,7 +1913,7 @@ Restrictive trade practices
     
     (4) For the purposes of this section, a reference to a person includes 2 or more persons that are interconnected.
     
-    Section 36: substituted, on 26 May 2001, by [section 9(1)][436] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 36: substituted, on 26 May 2001, by [section 9(1)][435] of the Commerce Amendment Act 2001 (2001 No 32).
 
 ##### 36A Taking advantage of market power in trans-Tasman markets
     
@@ -1945,13 +1943,13 @@ Restrictive trade practices
     
     (5) For the purposes of this section, a reference to a _person_ includes 2 or more persons that are interconnected.
     
-    Section 36A: substituted, on 26 May 2001, by [section 9(1)][436] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 36A: substituted, on 26 May 2001, by [section 9(1)][435] of the Commerce Amendment Act 2001 (2001 No 32).
 
 ##### 36B Purposes may be inferred
     
 *   The existence of any of the purposes specified in [section 36][53] or [section 36A][54], as the case may be, may be inferred from the conduct of any relevant person or from any other relevant circumstances.
     
-    Section 36B: inserted, on 26 May 2001, by [section 9(1)][436] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 36B: inserted, on 26 May 2001, by [section 9(1)][435] of the Commerce Amendment Act 2001 (2001 No 32).
 
 #### Resale price maintenance
 
@@ -5095,9 +5093,9 @@ Authorisations and clearances
     
     Compare: Trade Practices Act 1974 s 90A(7), (8), (9), (11) (Aust)
     
-    Section 64(1)(a): amended, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 64(1)(a): amended, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 64(2): amended, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 64(2): amended, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 65 Commission may vary or revoke authorisations
     
@@ -5358,7 +5356,7 @@ Enforcement, remedies, and appeals
     
     (6) The Commission must include in its annual report under [section 150][548] of the Crown Entities Act 2004 the information in [section 152(1)(a) and (d) to (f)][549] of that Act, in respect of each Commissioner.
     
-    Section 74AA: inserted, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 74AA: inserted, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 74A Commissioner may make cease and desist orders
     
@@ -5416,7 +5414,7 @@ Enforcement, remedies, and appeals
     
     Section 74B: inserted, on 1 April 2002, by [section 15(1)][538] of the Commerce Amendment Act 2001 (2001 No 32).
     
-    Section 74B(b): amended, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 74B(b): amended, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 74C Procedure at cease and desist hearing
     
@@ -5432,7 +5430,7 @@ Enforcement, remedies, and appeals
     
     Section 74C: inserted, on 1 April 2002, by [section 15(1)][538] of the Commerce Amendment Act 2001 (2001 No 32).
     
-    Section 74C(2): added, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 74C(2): added, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 74D Pecuniary penalties for contravention of cease and desist order
     
@@ -6605,9 +6603,9 @@ Miscellaneous provisions
     
     Compare: 1975 No 113 s 13; 1976 No 67 s 8(8)(d)
     
-    Section 99(2): amended, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 99(2): amended, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 99(3): amended, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 99(3): amended, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
     Section 99(3): amended, on 1 July 1990, by [section 35][593] of the Commerce Amendment Act 1990 (1990 No 41).
 
@@ -6915,7 +6913,7 @@ Miscellaneous provisions
     
     Compare: 1975 No 113 s 120A; 1976 No 67 s 37(1)
     
-    Section 101(1): amended, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 101(1): amended, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 102 Service of notices
     
@@ -6971,9 +6969,9 @@ Miscellaneous provisions
     
     Compare: 1975 No 113 s 120A; 1976 No 67 s 37(1)
     
-    Section 104(1): amended, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 104(1): amended, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 104(2): amended, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 104(2): amended, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 105 Restriction on delegation
     
@@ -6983,7 +6981,7 @@ Miscellaneous provisions
     
     (3) \[Repealed\]
     
-    Section 105: substituted, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 105: substituted, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
     Section 105(1): amended, on 14 October 2008, by [section 24(1)][606] of the Commerce Amendment Act 2008 (2008 No 70).
     
@@ -7035,13 +7033,13 @@ Miscellaneous provisions
     
     Compare: 1975 No 113 ss 17(1), (3), (4), 130B; 1976 No 67 ss 9, 23(3); 1983 No 144 s 45
     
-    Section 106(2): substituted, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 106(2): substituted, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 106(3A): inserted, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 106(3A): inserted, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 106(3B): inserted, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 106(3B): inserted, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 106(3C): inserted, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 106(3C): inserted, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
     Section 106(4): substituted, on 1 July 1990, by [section 39][614] of the Commerce Amendment Act 1990 (1990 No 41).
     
@@ -7055,7 +7053,7 @@ Miscellaneous provisions
     
     Section 106(6)(b): amended, on 14 October 2008, by [section 25(4)][615] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 106(7): amended, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 106(7): amended, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
     Section 106(10): substituted, on 1 February 1993, by [section 56(1)][616] of the Defamation Act 1992 (1992 No 105).
 
@@ -7073,11 +7071,11 @@ Miscellaneous provisions
     
     Section 106A: inserted, on 1 July 1990, by [section 40][617] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 106A(b): amended, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 106A(b): amended, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
     Section 106A(c): amended, on 2 September 1996, by section 12 of the Commerce Amendment Act 1996 (1996 No 113).
     
-    Section 106A(d): amended, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 106A(d): amended, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
     
     Section 106A(d): amended, on 2 September 1996, by section 12 of the Commerce Amendment Act 1996 (1996 No 113).
 
@@ -7085,7 +7083,7 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 107: repealed, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
+    Section 107: repealed, on 25 January 2005, by [section 200][431] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 108 Regulations
     
@@ -7617,7 +7615,9 @@ Commencementsee section 2
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Commerce (Part 4 Regulation---Gas Pipeline Services) Order 2013][642] (SR 2013/145)
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][436]
+    
+    [Commerce (Part 4 Regulation---Gas Pipeline Services) Order 2013][642] (SR 2013/145)
     
     Legislation Act 2012 (2012 No 119): [section 77(3)][489]
     
@@ -7629,13 +7629,13 @@ Commencementsee section 2
     
     [Commerce (Part 4 Regulation---Gas Pipeline Services) Order 2011][644] (SR 2011/274)
     
-    Electricity Industry Act 2010 (2010 No 116): [sections 146--156][433]
+    Electricity Industry Act 2010 (2010 No 116): [sections 146--156][432]
     
     [Commerce Amendment Act 2008][645] (2008 No 70)
     
     [Commerce Amendment Act (No 2) 2005][646] (2005 No 95)
     
-    Crown Entities Act 2004 (2004 No 115): [section 200][432]
+    Crown Entities Act 2004 (2004 No 115): [section 200][431]
     
     Employment Relations Amendment Act (No 2) 2004 (2004 No 86): [section 72][462]
     
@@ -7659,11 +7659,9 @@ Commencementsee section 2
     
     Copyright Act 1994 (1994 No 143): [section 236(1)][484]
     
-    Commerce Amendment Act 1994 (1994 No 135)
-    
     Layout Designs Act 1994 (1994 No 116): [section 42(1)][482]
     
-    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][435]
+    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][434]
     
     Defamation Act 1992 (1992 No 105): [section 56(1)][616]
     
@@ -8111,15 +8109,15 @@ Commencementsee section 2
 [425]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634200
 [426]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM125747
 [427]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM319999
-[428]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM320101
-[429]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM294922
-[430]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92225
-[431]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210454
-[432]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM331111
-[433]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634577
-[434]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM198904
-[435]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM328986
-[436]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92240
+[428]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM294922
+[429]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92225
+[430]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210454
+[431]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM331111
+[432]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634577
+[433]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM198904
+[434]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM328986
+[435]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92240
+[436]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM5620822
 [437]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM81639
 [438]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210455
 [439]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92246
