@@ -1,5 +1,5 @@
 Reprint  
-as at 19 August 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -279,7 +279,7 @@ This Act is administered by the Department of Internal Affairs.
 
 [78I][123][][123][Index information must not be made available on Internet][123]
 
-[78J][124][][124][Review of operation of sections 74 to 75G, 78F, and 78H ][124]
+[78J][124][][124][Review of operation of sections 74 to 75G, 78F, and 78H][124]
 
 [78K][125][][125][Disclosure of certain information for purposes of Identity Information Confirmation Act 2012][125]
 
@@ -2126,7 +2126,7 @@ Certificates
     
     _employee_ and _officer_ have the same meaning as in [section 2][255] of the New Zealand Security Intelligence Service Act 1969
     
-    _undercover Police officer _ means a person who is a member of the Police or a corresponding overseas law enforcement agency and whose identity is concealed for the purpose of an undercover investigation approved by the Commissioner of Police.
+    _undercover Police officer_ means a person who is a member of the Police or a corresponding overseas law enforcement agency and whose identity is concealed for the purpose of an undercover investigation approved by the Commissioner of Police.
     
     Section 65: substituted, on 24 January 2009, by [section 23][256] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
@@ -2229,7 +2229,7 @@ Searches and disclosure of information
     
 *   In [sections 74 to 75G][102],---
     
-    _access register_ means the access register required to be kept under [section 75D(1) ][107]
+    _access register_ means the access register required to be kept under [section 75D(1)][107]
     
     _non-disclosure direction_ means a direction described in [section 75A(2)(b)][104]
     
@@ -3001,11 +3001,11 @@ Searches and disclosure of information
     
     Section 78I: inserted, on 24 January 2009, by [section 30][274] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
-##### 78J Review of operation of sections 74 to 75G, 78F, and 78H 
+##### 78J Review of operation of sections 74 to 75G, 78F, and 78H
     
 *   (1) As soon as practicable after the expiry of the period of 5 years beginning on the commencement of the [Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008][275] ![](/images/external_link.gif), the Minister must---
         
-    *   (a) review the operation of [sections 74 to 75G][102], [78F][120], and [78H ][122] since the date of that commencement; and
+    *   (a) review the operation of [sections 74 to 75G][102], [78F][120], and [78H][122] since the date of that commencement; and
     
     *   (b) prepare a report of the review that includes recommendations on whether any amendments to those sections are necessary or desirable; and
     
@@ -3344,9 +3344,21 @@ Miscellaneous provisions
     
     (2) If allowing a transaction to be conducted electronically, the Registrar-General may dispense with a requirement that a signature be provided.
     
+    (2A) A requirement for a court or its Registrar to give notice (in the case of [section 23][35]), or to send a certificate (in the case of [section 59][75], [60][76], [62E][84], or [62F][85]), to the Registrar-General is satisfied by the Ministry of Justice providing the Registrar-General with the required information by electronic means.
+    
+    (2B) To avoid doubt,---
+        
+    *   (a) the Ministry of Justice satisfies the requirements of subsection (2A) by providing the information required in the notice or certificate (as the case may be), and is not required to provide the actual notice or certificate (whether by electronic means or otherwise):
+    
+    *   (b) the obligation for a court or its Registrar to give the notice or certificate referred to in subsection (2A) ceases only when the Ministry of Justice has provided the information in accordance with that subsection.
+    
     (3) In this section, _transaction_ has the same meaning as in [section 5][298] of the Electronic Transactions Act 2002\.
     
     Section 89A: inserted, on 24 January 2009, by [section 40][299] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    
+    Section 89A(2A): inserted, on 5 December 2013, by [section 4][300] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act (No 2) 2013 (2013 No 109).
+    
+    Section 89A(2B): inserted, on 5 December 2013, by [section 4][300] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act (No 2) 2013 (2013 No 109).
 
 ##### 90 No prosecution without authority of Registrar-General
     
@@ -3374,19 +3386,19 @@ Miscellaneous provisions
     
     Compare: 1951 No 22 ss 36(5), 50
     
-    Section 91(3): substituted, on 24 January 2009, by [section 41][300] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 91(3): substituted, on 24 January 2009, by [section 41][301] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 91A No liability for costs incurred in supplying information
     
 *   To avoid doubt, the Crown is not liable for the costs incurred by a person in supplying information required by this Act.
     
-    Section 91A: inserted, on 24 January 2009, by [section 42][301] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 91A: inserted, on 24 January 2009, by [section 42][302] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 91B Protection for supply of information
     
 *   No civil or criminal proceedings may be brought against the Crown, a Registrar, or any other person for the disclosure or supply of information in the course of the exercise or performance or intended exercise or performance of any powers, functions, or duties under this Act, unless it is shown that the information was disclosed or supplied in bad faith.
     
-    Section 91B: inserted, on 24 January 2009, by [section 42][301] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 91B: inserted, on 24 January 2009, by [section 42][302] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 #### Amendments to Marriage Act 1955
 
@@ -3400,7 +3412,7 @@ Miscellaneous provisions
 
 ##### 94 Validity of service marriages
     
-*   _Amendment(s) incorporated in the [Act(s)][302]_.
+*   _Amendment(s) incorporated in the [Act(s)][303]_.
 
 #### Consequential amendments and repeals
 
@@ -3419,7 +3431,7 @@ Disclosure of information to specified agencies
 
 [s 78A][114]
 
-*   Schedule 1A: substituted, on 24 January 2009, by [section 45][303] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+*   Schedule 1A: substituted, on 24 January 2009, by [section 45][304] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 **Specified agency** **Type of information** **Purpose**
 
@@ -3438,6 +3450,8 @@ To verify whether a person is eligible---
 *   (a) to hold a New Zealand passport:
 
 *   (b) for New Zealand citizenship
+
+Death information To identify deceased holders of New Zealand travel documents
 
 Department of Labour Birth information and name change information 
 
@@ -3487,7 +3501,7 @@ Ministry of Social Development Birth information, marriage information, civil un
 
 To---
     
-*   (a) verify a person's eligibility or continuing eligibility for benefits, war pensions, grants, loans, or allowances: 
+*   (a) verify a person's eligibility or continuing eligibility for benefits, war pensions, grants, loans, or allowances:
 
 *   (b) verify a person's eligibility or continuing eligibility for a community services card or a card the availability of which is based principally on the age and residence of a person, or of his or her spouse or civil union partner, or former spouse or civil union partner:
 
@@ -3499,9 +3513,10 @@ Marriage information and civil union information To verify the name change of th
 
 Death information To identify deceased holders of driver licences
 
-*   Schedule 1A : amended, on 13 June 2013, by [section 43][304] of the Education Amendment Act 2013 (2013 No 34).
+*   Schedule 1A: amended, on 5 December 2013, by [section 5][305] of the Passports Amendment Act 2013 (2013 No 127).
+*   Schedule 1A : amended, on 13 June 2013, by [section 43][306] of the Education Amendment Act 2013 (2013 No 34).
 *   Schedule 1A: amended, at 2 am on 29 November 2010, by [section 406(1)][192] of the Immigration Act 2009 (2009 No 51).
-*   Schedule 1A: amended, on 24 January 2009, pursuant to [section 50(1)][305] of the Transport Management Amendment Act 2008 (2008 No 47).
+*   Schedule 1A: amended, on 24 January 2009, pursuant to [section 50(1)][307] of the Transport Management Amendment Act 2008 (2008 No 47).
 
 ---
 
@@ -3512,23 +3527,23 @@ Consequential amendments
 
 ##### Adoption Act 1955 (1955 No 93) (RS Vol 1, p 35)
 
-_Amendment(s) incorporated in the [Act(s)][306]_.
+_Amendment(s) incorporated in the [Act(s)][308]_.
 
 ##### Adult Adoption Information Act 1985 (1985 No 127)
 
-_Amendment(s) incorporated in the [Act(s)][307]_.
+_Amendment(s) incorporated in the [Act(s)][309]_.
 
 ##### Burial and Cremation Act 1964 (1964 No 75) (RS Vol 16, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][308]_.
+_Amendment(s) incorporated in the [Act(s)][310]_.
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][309]_.
+_Amendment(s) incorporated in the [Act(s)][311]_.
 
 ##### Status of Children Act 1969 (1969 No 18) (RS Vol 4, p 893)
 
-_Amendment(s) incorporated in the [Act(s)][310]_.
+_Amendment(s) incorporated in the [Act(s)][312]_.
 
 ---
 
@@ -3539,7 +3554,7 @@ Enactments repealed
 
 ##### Age of Majority Act 1970 (1970 No 137)
 
-_Amendment(s) incorporated in the [Act(s)][311]_.
+_Amendment(s) incorporated in the [Act(s)][313]_.
 
 ##### Births and Deaths Registration Act 1951 (1951 No 22) (RS Vol 1, p 333)
 
@@ -3571,15 +3586,15 @@ _Amendment(s) incorporated in the [Act(s)][311]_.
 
 ##### Citizenship Act 1977 (1977 No 61) (RS Vol 31, p 45)
 
-_Amendment(s) incorporated in the [Act(s)][312]_.
+_Amendment(s) incorporated in the [Act(s)][314]_.
 
 ##### Family Proceedings Act 1980 (1980 No 94)
 
-_Amendment(s) incorporated in the [Act(s)][313]_.
+_Amendment(s) incorporated in the [Act(s)][315]_.
 
 ##### Marriage Act 1955 (1955 No 92) (RS Vol 10, p 39)
 
-_Amendment(s) incorporated in the [Act(s)][314]_.
+_Amendment(s) incorporated in the [Act(s)][316]_.
 
 ##### Marriage Amendment Act 1959 (1959 No 11)
 
@@ -3589,11 +3604,11 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Marriage Amendment Act 1976 (1976 No 8)
 
-_Amendment(s) incorporated in the [Act(s)][315]_.
+_Amendment(s) incorporated in the [Act(s)][317]_.
 
 ##### Marriage Amendment Act 1982 (1982 No 81)
 
-_Amendment(s) incorporated in the [Act(s)][316]_.
+_Amendment(s) incorporated in the [Act(s)][318]_.
 
 ##### Marriage Amendment Act 1991 (1991 No 129)
 
@@ -3601,7 +3616,7 @@ _Amendment(s) incorporated in the [Act(s)][316]_.
 
 ##### Status of Children Act 1969 (1969 No 18)
 
-_Amendment(s) incorporated in the [Act(s)][317]_.
+_Amendment(s) incorporated in the [Act(s)][319]_.
 
 #### 
 
@@ -3615,33 +3630,37 @@ _Amendment(s) incorporated in the [Act(s)][317]_.
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][318] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][319] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][320] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][321] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][320] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][321] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][322] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][323] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Education Amendment Act 2013 (2013 No 34): [section 43][304]
+*   Passports Amendment Act 2013 (2013 No 127): [section 5][305]
+    
+    [Births, Deaths, Marriages, and Relationships Registration Amendment Act (No 2) 2013][324] (2013 No 109)
+    
+    Education Amendment Act 2013 (2013 No 34): [section 43][306]
     
     Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20): [section 9][220]
     
-    [Births, Deaths, Marriages, and Relationships Registration Amendment Act 2013][322] (2013 No 3)
+    [Births, Deaths, Marriages, and Relationships Registration Amendment Act 2013][325] (2013 No 3)
     
     Identity Information Confirmation Act 2012 (2012 No 124): [section 22][277]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][297]
     
-    [Births, Deaths, Marriages, and Relationships Registration Amendment Act 2010][323] (2010 No 49)
+    [Births, Deaths, Marriages, and Relationships Registration Amendment Act 2010][326] (2010 No 49)
     
     Immigration Act 2009 (2009 No 51): [section 406(1)][192]
     
-    Policing Act 2008 (2008 No 72): [section 130(1)][324]
+    Policing Act 2008 (2008 No 72): [section 130(1)][327]
     
     [Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008][275] ![](/images/external_link.gif) (2008 No 48)
     
-    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][305]
+    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][307]
     
     Human Tissue Act 2008 (2008 No 28): [section 92][226]
     
@@ -3665,11 +3684,11 @@ _Amendment(s) incorporated in the [Act(s)][317]_.
     
     Health and Disability Services (Safety) Act 2001 (2001 No 93): [section 58(1)][172]
     
-    [Births, Deaths, and Marriages Registration Amendment Act 2001][325] (2001 No 56)
+    [Births, Deaths, and Marriages Registration Amendment Act 2001][328] (2001 No 56)
     
     Adoption (Intercountry) Act 1997 (1997 No 109): [section 30][216]
     
-    [Births, Deaths, and Marriages Registration Amendment Act 1997][326] (1997 No 35)
+    [Births, Deaths, and Marriages Registration Amendment Act 1997][329] (1997 No 35)
     
     Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][279]
 
@@ -3975,30 +3994,33 @@ _Amendment(s) incorporated in the [Act(s)][317]_.
 [297]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM3360714
 [298]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM154193
 [299]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048933
-[300]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048936
-[301]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1250746
-[302]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292377
-[303]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048940
-[304]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM5138522
-[305]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1313622
-[306]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM293189
-[307]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM80518
-[308]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM355842
-[309]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM298477
-[310]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM391005
-[311]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM396810
-[312]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM444029
-[313]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM42220
-[314]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292059
-[315]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM437925
-[316]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM59717
-[317]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM390653
-[318]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM2998516
-[319]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM2998515
-[320]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM2998532
-[321]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[322]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM5020520
-[323]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM3040100
-[324]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1102349
-[325]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM110955
-[326]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM409945
+[300]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM5620007
+[301]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048936
+[302]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1250746
+[303]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292377
+[304]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048940
+[305]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM5623912
+[306]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM5138522
+[307]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1313622
+[308]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM293189
+[309]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM80518
+[310]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM355842
+[311]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM298477
+[312]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM391005
+[313]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM396810
+[314]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM444029
+[315]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM42220
+[316]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292059
+[317]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM437925
+[318]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM59717
+[319]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM390653
+[320]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM2998516
+[321]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM2998515
+[322]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM2998532
+[323]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[324]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM5620000
+[325]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM5020520
+[326]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM3040100
+[327]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1102349
+[328]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM110955
+[329]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM409945
