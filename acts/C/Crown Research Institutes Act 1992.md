@@ -1,5 +1,5 @@
 Reprint  
-as at 18 July 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Business, Innovation, and Employment.
 
@@ -1005,7 +1005,7 @@ Miscellaneous provisions
         
         
     
-    (2) Notwithstanding anything in this Act, the [Crown Entities Act 2004][70], or the Companies Act 1955, and notwithstanding any rule of law or the constitution of any Crown Research Institute, where this section applies, the Prime Minister may from time to time, after consultation with the shareholding Ministers, by notice in writing give to the board of a Crown Research Institute such directions with respect to the operations of the Crown Research Institute as the Prime Minister considers necessary in the circumstances.
+    (2) Notwithstanding anything in this Act, the [Crown Entities Act 2004][70], or the [Companies Act 1993][149], and notwithstanding any rule of law or the constitution of any Crown Research Institute, where this section applies, the Prime Minister may from time to time, after consultation with the shareholding Ministers, by notice in writing give to the board of a Crown Research Institute such directions with respect to the operations of the Crown Research Institute as the Prime Minister considers necessary in the circumstances.
     
     (3) Where, pursuant to subsection (2), the Prime Minister gives any directions to the board of a Crown Research Institute, that board shall ensure that those directions are complied with.
     
@@ -1017,7 +1017,9 @@ Miscellaneous provisions
     
     (5) [Section 115][87] of the Crown Entities Act 2004 does not apply to a direction given under this section.
     
-    Section 43(1)(a): substituted, on 1 December 2002, by [section 117][149] of the Civil Defence Emergency Management Act 2002 (2002 No 33).
+    Section 43(1)(a): substituted, on 1 December 2002, by [section 117][150] of the Civil Defence Emergency Management Act 2002 (2002 No 33).
+    
+    Section 43(2): amended, on 5 December 2013, by [section 14][151] of the Companies Amendment Act 2013 (2013 No 111).
     
     Section 43(2): amended, on 25 January 2005, by [section 200][64] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -1047,7 +1049,7 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 47: repealed, on 10 April 1998, by [section 48(4)][150].
+    Section 47: repealed, on 10 April 1998, by [section 48(4)][152].
 
 ##### 48 Repeal of Scientific and Industrial Research Act 1974
     
@@ -1057,7 +1059,7 @@ Miscellaneous provisions
     
     (5) This section shall come into force on a date to be appointed by the Governor-General by Order in Council.
     
-    Section 48: brought into force, on 10 April 1998, by the [Crown Research Institutes Act Commencement Order 1998][151] (SR 1998/40).
+    Section 48: brought into force, on 10 April 1998, by the [Crown Research Institutes Act Commencement Order 1998][153] (SR 1998/40).
 
 ##### 49 Amendments to Fertilisers Act 1982
     
@@ -1067,7 +1069,7 @@ Miscellaneous provisions
     
     (3) This section shall come into force on the date on which the Fertilisers Act 1982 comes into force.
     
-    Section 49(1): repealed (without coming into force), on 2 July 2001, by [section 86(1)][152] of the Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87).
+    Section 49(1): repealed (without coming into force), on 2 July 2001, by [section 86(1)][154] of the Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87).
 
 ---
 
@@ -1088,7 +1090,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Atomic Energy Act 1945 (1945 No 41) (RS Vol 1, p 189)
 
-_Amendment(s) incorporated in the [Act(s)][153]._
+_Amendment(s) incorporated in the [Act(s)][155]._
 
 ##### Coal Mines Act 1979 (1979 No 21)
 
@@ -1104,11 +1106,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Conservation Act 1987 (1987 No 65) 
 
-_Amendment(s) incorporated in the [Act(s)][154]._
+_Amendment(s) incorporated in the [Act(s)][156]._
 
 ##### Crown Minerals Act 1991 (1991 No 70)
 
-_Amendment(s) incorporated in the [Act(s)][155]._
+_Amendment(s) incorporated in the [Act(s)][157]._
 
 ##### Fertilisers Act 1960 (1960 No 33) (RS Vol 19, p 335)
 
@@ -1120,11 +1122,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Flags, Emblems, and Names Protection Act 1981 (1981 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][156]._
+_Amendment(s) incorporated in the [Act(s)][158]._
 
 ##### Government Superannuation Fund Act 1956 (1956 No 47) (RS Vol 21, p 209)
 
-_Amendment(s) incorporated in the [Act(s)][157]._
+_Amendment(s) incorporated in the [Act(s)][159]._
 
 ##### Meat Act 1981 (1981 No 56)
 
@@ -1136,7 +1138,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)
 
-_Amendment(s) incorporated in the [Act(s)][158]._
+_Amendment(s) incorporated in the [Act(s)][160]._
 
 ##### Pesticides Act 1979 (1979 No 26)
 
@@ -1144,15 +1146,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][159]._
+_Amendment(s) incorporated in the [Act(s)][161]._
 
 ##### Radiation Protection Act 1965 (1965 No 23) (RS Vol 18, p 673)
 
-_Amendment(s) incorporated in the [Act(s)][160]._
+_Amendment(s) incorporated in the [Act(s)][162]._
 
 ##### Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48)
 
-_Amendment(s) incorporated in the [Act(s)][161]._
+_Amendment(s) incorporated in the [Act(s)][163]._
 
 ##### Toxic Substances Act 1979 (1979 No 27)
 
@@ -1160,7 +1162,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Trade in Endangered Species Act 1989 (1989 No 18)
 
-_Amendment(s) incorporated in the [Act(s)][162]._
+_Amendment(s) incorporated in the [Act(s)][164]._
 
 ---
 
@@ -1169,27 +1171,27 @@ Enactments repealed
 
 [s 48(1)][55]
 
-_(Which repeals take effect on the commencement of [section 48][163])_
+_(Which repeals take effect on the commencement of [section 48][165])_
 
 ##### Finance Act 1988 (1988 No 107)
 
-_Amendment(s) incorporated in the [Act(s)][164]._
+_Amendment(s) incorporated in the [Act(s)][166]._
 
 ##### Foundation for Research, Science, and Technology Act 1990 (1990 No 72)
 
-_Amendment(s) incorporated in the [Act(s)][165]._
+_Amendment(s) incorporated in the [Act(s)][167]._
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][166]._
+_Amendment(s) incorporated in the [Act(s)][168]._
 
 ##### Reserves and Other Lands Disposal Act 1952 (1952 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][167]._
+_Amendment(s) incorporated in the [Act(s)][169]._
 
 ##### Reserves and Other Lands Disposal Act 1955 (1955 No 49)
 
-_Amendment(s) incorporated in the [Act(s)][168]._
+_Amendment(s) incorporated in the [Act(s)][170]._
 
 ##### Scientific and Industrial Research Act 1974 (1974 No 6) (RS Vol 24, p 773)
 
@@ -1201,72 +1203,31 @@ _Amendment(s) incorporated in the [Act(s)][168]._
 
 ##### Weights and Measures Act 1987 (1987 No 15)
 
-_Amendment(s) incorporated in the [Act(s)][169]._
+_Amendment(s) incorporated in the [Act(s)][171]._
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Crown Research Institutes Act 1992\. The reprint incorporates all the amendments to the Act as at 18 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][170] ![](/images/external_link.gif).
+*   This is a reprint of the Crown Research Institutes Act 1992 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][171] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][172] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][173] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][172] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][174] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][175] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][173] and [17E][174] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][151]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   typeface and type size (Times Roman, generally in 11.5 point)
-    *   layout of provisions, including:
-            
-        *   indentation
-        *   position of section headings (eg, the number and heading now appear above the section)
-        
-    *   format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   position of the date of assent (it now appears on the front page of each Act)
-    *   punctuation (eg, colons are not used after definitions)
-    *   Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   case and appearance of letters and words, including:
-            
-        *   format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   small capital letters in section and subsection references are now capital letters
-        
-    *   schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   running heads (the information that appears at the top of each page)
-    *   format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Crown Entities Amendment Act 2013 (2013 No 51): [section 42][65]
+    Crown Entities Amendment Act 2013 (2013 No 51): [section 42][65]
     
     Research, Science, and Technology Act 2010 (2010 No 131): [section 18][98]
     
@@ -1274,19 +1235,19 @@ _Amendment(s) incorporated in the [Act(s)][169]._
     
     Resource Management Amendment Act 2003 (2003 No 23): [section 101][133]
     
-    Civil Defence Emergency Management Act 2002 (2002 No 33): [section 117][149]
+    Civil Defence Emergency Management Act 2002 (2002 No 33): [section 117][150]
     
     Public Audit Act 2001 (2001 No 10): [section 53][101]
     
-    [Crown Research Institutes Act Commencement Order 1998][151] (SR 1998/40)
+    [Crown Research Institutes Act Commencement Order 1998][153] (SR 1998/40)
     
-    Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87): [section 86(1)][152]
+    Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87): [section 86(1)][154]
     
     Survey Amendment Act 1996 (1996 No 55): section 5
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1992/0047/latest/whole.html#DLM264294
 [2]: http://www.legislation.govt.nz/act/public/1992/0047/latest/whole.html#DLM264296
 [3]: http://www.legislation.govt.nz/act/public/1992/0047/latest/whole.html#DLM264297
@@ -1435,29 +1396,30 @@ _Amendment(s) incorporated in the [Act(s)][169]._
 [146]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM397230
 [147]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM257170
 [148]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM257180
-[149]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM151437
-[150]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM265669
-[151]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM245467
-[152]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM415184
-[153]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM239212
-[154]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM104699
-[155]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM246773
-[156]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM51357
-[157]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM446000
-[158]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM430983
-[159]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM160808
-[160]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM372538
-[161]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM131629
-[162]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM145965
-[163]: http://www.legislation.govt.nz/act/public/1992/0047/latest/whole.html#DLM264295
-[164]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM133273
-[165]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM213992
-[166]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM163182
-[167]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM274884
-[168]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM291023
-[169]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM102980
-[170]: http://www.pco.parliament.govt.nz/reprints/
-[171]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM195439
-[172]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[173]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM195468
-[174]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM195470
+[149]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM264291
+[150]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM151437
+[151]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM5620822
+[152]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM265669
+[153]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM245467
+[154]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM415184
+[155]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM239212
+[156]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM104699
+[157]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM246773
+[158]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM51357
+[159]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM446000
+[160]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM430983
+[161]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM160808
+[162]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM372538
+[163]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM131629
+[164]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM145965
+[165]: http://www.legislation.govt.nz/act/public/1992/0047/latest/whole.html#DLM264295
+[166]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM133273
+[167]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM213992
+[168]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM163182
+[169]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM274884
+[170]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM291023
+[171]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM102980
+[172]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM2998516
+[173]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM2998515
+[174]: http://www.legislation.govt.nz/act/public/1992/0047/latest/link.aspx?id=DLM2998532
+[175]: http://www.pco.parliament.govt.nz/editorial-conventions/
