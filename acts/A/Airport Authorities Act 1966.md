@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -41,9 +41,9 @@ This Act is administered by the Ministry of Transport.
 
 [3BA][9][][9][Airport companies to disclose aircraft related charges][9]
 
-[3C][10][][10][Powers of airport companies under Companies Acts not affected][10]
+[3C][10][][10][Powers of airport companies under Companies Act 1993 not affected][10]
 
-[3CA][11][][11][Application of Companies Act 1955 to airport companies][11]
+[3CA][11][][11][Application of Companies Act 1955 to airport companies][11] \[Repealed\]
 
 [3D][12][][12][Airports operated by airport authorities which are not local authorities to be public works, etc][12]
 
@@ -130,7 +130,7 @@ An Act to consolidate and amend the Local Authorities Empowering (Aviation Encou
     
     _airport authority_ means a local authority for the time being authorised under [section 3][5] to establish, maintain, operate, or manage an airport; and includes any person or association of persons authorised under subsection (3) of that section to exercise the powers of a local authority
     
-    _airport company_ means a company registered under the Companies Act 1955 or the [Companies Act 1993][28], as the case may be, that is for the time being authorised under [section 3(3)][5] to exercise the functions of a local authority under that section
+    _airport company_ means a company registered under the [Companies Act 1993][28] that is for the time being authorised under [section 3(3)][5] to exercise the functions of a local authority under that section
     
     _charge_ includes a fee or due and also includes rent payable under any lease
     
@@ -186,6 +186,8 @@ An Act to consolidate and amend the Local Authorities Empowering (Aviation Encou
     
     Section 2 **airport company**: replaced, on 1 July 1994, by [section 2][33] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
+    Section 2 **airport company**: amended, on 5 December 2013, by [section 14][34] of the Companies Amendment Act 2013 (2013 No 111).
+    
     Section 2 **charge**: inserted, on 26 November 1998, by [section 2][32] of the Airport Authorities Amendment Act 1997 (1997 No 90).
     
     Section 2 **debt security**: inserted, on 18 December 1986, by section 2 of the Airport Authorities Amendment Act 1986 (1986 No 128).
@@ -196,15 +198,15 @@ An Act to consolidate and amend the Local Authorities Empowering (Aviation Encou
     
     Section 2 **lease**: inserted, on 26 November 1998, by [section 2][32] of the Airport Authorities Amendment Act 1997 (1997 No 90).
     
-    Section 2 **local authority**: replaced, on 1 July 2003, by [section 262][34] of the Local Government Act 2002 (2002 No 84).
+    Section 2 **local authority**: replaced, on 1 July 2003, by [section 262][35] of the Local Government Act 2002 (2002 No 84).
     
     Section 2 **Minister**: replaced, on 20 July 1973, by section 6(1) of the Ministry of Transport Amendment Act 1973 (1973 No 6).
     
-    Section 2 **Minister**: amended, on 1 September 1990, pursuant to [section 102(1)][35] of the Civil Aviation Act 1990 (1990 No 98).
+    Section 2 **Minister**: amended, on 1 September 1990, pursuant to [section 102(1)][36] of the Civil Aviation Act 1990 (1990 No 98).
     
     Section 2 **security area**: inserted, on 26 November 1998, by [section 2][32] of the Airport Authorities Amendment Act 1997 (1997 No 90).
     
-    Section 2 **security area**: amended, on 10 August 1992, pursuant to [section 46(3)][36] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 2 **security area**: amended, on 10 August 1992, pursuant to [section 46(3)][37] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
     Section 2 **specified airport company**: inserted, on 26 November 1998, by [section 2][32] of the Airport Authorities Amendment Act 1997 (1997 No 90).
     
@@ -226,7 +228,7 @@ An Act to consolidate and amend the Local Authorities Empowering (Aviation Encou
     
     (3) A person who is deemed to be a substantial customer under subsection (2) may exercise all the powers of a substantial customer under this Act and any regulations made under this Act and must be treated in all respects as if that person were a substantial customer.
     
-    Section 2A: inserted, on 26 November 1998, by [section 3][37] of the Airport Authorities Amendment Act 1997 (1997 No 90).
+    Section 2A: inserted, on 26 November 1998, by [section 3][38] of the Airport Authorities Amendment Act 1997 (1997 No 90).
 
 ##### 3 Airport authorities may establish and carry on airports
     
@@ -240,9 +242,9 @@ An Act to consolidate and amend the Local Authorities Empowering (Aviation Encou
     
     (5) \[Repealed\]
     
-    Section 3(1): amended, on 1 July 2003, by [section 262][34] of the Local Government Act 2002 (2002 No 84).
+    Section 3(1): amended, on 1 July 2003, by [section 262][35] of the Local Government Act 2002 (2002 No 84).
     
-    Section 3(5): repealed, on 1 July 1998, by [section 16(1)][38] of the Local Government Amendment Act (No 3) 1996 (1996 No 83).
+    Section 3(5): repealed, on 1 July 1998, by [section 16(1)][39] of the Local Government Amendment Act (No 3) 1996 (1996 No 83).
 
 ##### 3A Powers of Crown and local authorities
     
@@ -268,15 +270,15 @@ An Act to consolidate and amend the Local Authorities Empowering (Aviation Encou
     
     (6) Notwithstanding any other enactment or rule of law, the Crown or any local authority may transfer to an airport company, on such terms and conditions as the Crown or local authority thinks fit, the business or undertaking of any airport authority, and any real or personal property owned by the Crown or local authority which at the time of transfer is being used for the purposes of an airport or is held for future use for the purposes of an airport.
     
-    (6A) Nothing in [sections 40 to 42][39] of the Public Works Act 1981 shall apply to the transfer of land to an airport company under this Act, but [sections 40][39] and [41][40] of that Act shall after that transfer apply to the land as if the airport company were the Crown and the land had not been transferred under this Act.
+    (6A) Nothing in [sections 40 to 42][40] of the Public Works Act 1981 shall apply to the transfer of land to an airport company under this Act, but [sections 40][40] and [41][41] of that Act shall after that transfer apply to the land as if the airport company were the Crown and the land had not been transferred under this Act.
     
-    (7) Subject to subsection (7A), if any land proposed to be transferred to an airport company pursuant to subsection (6) is subject to the [Reserves Act 1977][41]---
+    (7) Subject to subsection (7A), if any land proposed to be transferred to an airport company pursuant to subsection (6) is subject to the [Reserves Act 1977][42]---
         
     *   (a) it may be so transferred without complying with that Act; and
     
     *   (b) on that transfer occurring the land shall no longer be subject to that Act.
     
-    (7A) A local authority cannot transfer to an airport company land that was vested in the local authority under the [Reserves Act 1977][41] (or that is treated by that Act as having been vested in the local authority under that Act) unless---
+    (7A) A local authority cannot transfer to an airport company land that was vested in the local authority under the [Reserves Act 1977][42] (or that is treated by that Act as having been vested in the local authority under that Act) unless---
         
     *   (a) the Minister has given his or her written consent to the local authority transferring the land to the airport company and the local authority has given a copy of that consent to the Registrar-General of Land; or
     
@@ -284,31 +286,31 @@ An Act to consolidate and amend the Local Authorities Empowering (Aviation Encou
     
     (7B) In considering whether to give consent for the purposes of subsection (7A), the Minister may take into account any matters he or she considers appropriate.
     
-    (7C) Neither this Act, nor the [Reserves Act 1977][41], limits subsection (7B).
+    (7C) Neither this Act, nor the [Reserves Act 1977][42], limits subsection (7B).
     
     (8) A certificate, signed by the Chief Surveyor for the land district in which the land is situated, that any land described in the certificate, or described in any document on which the certificate appears, is land to which subsection (7) applies shall be sufficient evidence, in the absence of proof to the contrary, that that subsection applies to the land.
     
     Section 3A: inserted, on 18 December 1986, by section 4 of the Airport Authorities Amendment Act 1986 (1986 No 128).
     
-    Section 3A(1)(a): amended, on 1 February 1998, by [section 2(1)][42] of the Airport Authorities Amendment Act 1996 (1996 No 93).
+    Section 3A(1)(a): amended, on 1 February 1998, by [section 2(1)][43] of the Airport Authorities Amendment Act 1996 (1996 No 93).
     
-    Section 3A(2): replaced, on 12 September 1990, by [section 27][43] of the Finance Act (No 2) 1988 (1988 No 128).
+    Section 3A(2): replaced, on 12 September 1990, by [section 27][44] of the Finance Act (No 2) 1988 (1988 No 128).
     
-    Section 3A(3): repealed, on 12 September 1990, by [section 27][43] of the Finance Act (No 2) 1988 (1988 No 128).
+    Section 3A(3): repealed, on 12 September 1990, by [section 27][44] of the Finance Act (No 2) 1988 (1988 No 128).
     
-    Section 3A(4): amended, on 1 July 1989, pursuant to [section 83(7)][44] of the Public Finance Act 1989 (1989 No 44).
+    Section 3A(4): amended, on 1 July 1989, pursuant to [section 83(7)][45] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 3A(5): amended, on 1 February 1998, by [section 2(2)][42] of the Airport Authorities Amendment Act 1996 (1996 No 93).
+    Section 3A(5): amended, on 1 February 1998, by [section 2(2)][43] of the Airport Authorities Amendment Act 1996 (1996 No 93).
     
-    Section 3A(6A): inserted, on 10 August 1992, by [section 39][45] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 3A(6A): inserted, on 10 August 1992, by [section 39][46] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 3A(7): amended, on 26 September 2000, by [section 4(1)][46] of the Airport Authorities Amendment Act 2000 (2000 No 37).
+    Section 3A(7): amended, on 26 September 2000, by [section 4(1)][47] of the Airport Authorities Amendment Act 2000 (2000 No 37).
     
-    Section 3A(7A): inserted, on 26 September 2000, by [section 4(2)][46] of the Airport Authorities Amendment Act 2000 (2000 No 37).
+    Section 3A(7A): inserted, on 26 September 2000, by [section 4(2)][47] of the Airport Authorities Amendment Act 2000 (2000 No 37).
     
-    Section 3A(7B): inserted, on 26 September 2000, by [section 4(2)][46] of the Airport Authorities Amendment Act 2000 (2000 No 37).
+    Section 3A(7B): inserted, on 26 September 2000, by [section 4(2)][47] of the Airport Authorities Amendment Act 2000 (2000 No 37).
     
-    Section 3A(7C): inserted, on 26 September 2000, by [section 4(2)][46] of the Airport Authorities Amendment Act 2000 (2000 No 37).
+    Section 3A(7C): inserted, on 26 September 2000, by [section 4(2)][47] of the Airport Authorities Amendment Act 2000 (2000 No 37).
 
 ##### 3AA Provisions relating to holding of securities by Minister
     
@@ -318,61 +320,39 @@ An Act to consolidate and amend the Local Authorities Empowering (Aviation Encou
     
     (3) A Minister may at any time or times, by written notice to an airport company authorise, on such terms and conditions as are specified in the notice, such person as the Minister thinks fit to act as the Minister's representative at any or all of the meetings of shareholders of the airport company or of any class of such shareholders, and any person so authorised shall be entitled to exercise the same powers on behalf of the Minister as the Minister could exercise if present in person at the meeting or meetings.
     
-    Section 3AA: inserted, on 10 August 1992, by [section 39][45] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 3AA: inserted, on 10 August 1992, by [section 39][46] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 3AA(1): replaced, on 1 February 1998, by [section 3][47] of the Airport Authorities Amendment Act 1996 (1996 No 93).
+    Section 3AA(1): replaced, on 1 February 1998, by [section 3][48] of the Airport Authorities Amendment Act 1996 (1996 No 93).
 
 ##### 3B Accounts and annual report
     
 *   \[Repealed\]
     
-    Section 3B: repealed, on 1 July 2000, by [section 5][48] of the Airport Authorities Amendment Act 1996 (1996 No 93).
+    Section 3B: repealed, on 1 July 2000, by [section 5][49] of the Airport Authorities Amendment Act 1996 (1996 No 93).
 
 ##### 3BA Airport companies to disclose aircraft related charges
     
 *   Every airport company shall, whenever requested to do so by any person, disclose to that person the current aircraft related charges (including landing charges) fixed by the company.
     
-    Section 3BA: inserted, on 1 September 1990, by [section 101(3)][49] of the Civil Aviation Act 1990 (1990 No 98).
+    Section 3BA: inserted, on 1 September 1990, by [section 101(3)][50] of the Civil Aviation Act 1990 (1990 No 98).
 
-##### 3C Powers of airport companies under Companies Acts not affected
+##### 3C Powers of airport companies under Companies Act 1993 not affected
     
-*   Except as provided in [section 3BA][9], nothing in this Act shall be construed as limiting or affecting the powers, rights, authorities, duties, and obligations that an airport company has under the Companies Act 1955 or the [Companies Act 1993][28].
+*   Except as provided in [section 3BA][9], nothing in this Act shall be construed as limiting or affecting the powers, rights, authorities, duties, and obligations that an airport company has under the [Companies Act 1993][28].
     
     Section 3C: replaced, on 1 July 1994, by [section 2][33] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 3C: amended, on 1 July 2000, by [section 6][50] of the Airport Authorities Amendment Act 1996 (1996 No 93).
+    Section 3C heading: amended, on 5 December 2013, by [section 14][34] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 3C: amended, on 5 December 2013, by [section 14][34] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 3C: amended, on 1 July 2000, by [section 6][51] of the Airport Authorities Amendment Act 1996 (1996 No 93).
 
 ##### 3CA Application of Companies Act 1955 to airport companies
     
-*   (1) Notwithstanding the Companies Act 1955, but subject to subsection (3), an airport company may be reconstituted as if the reference to the figure ""7"" in section 13(1) of the Companies Act 1955 were a reference to the figure ""2"".
+*   \[Repealed\]
     
-    (2) In the application of the Companies Act 1955 to an airport company, the following provisions of the Companies Act 1955 shall, subject to subsection (3), be construed as if references therein to 7 members were references to 2 members:
-        
-    *   (a) section 41, as to carrying on business when the number of members is reduced below a legal minimum:
-    
-    *   (b) section 211(4)(c), as to the appointment of a liquidator by the court when, in the case of a company that is not a private company, the number of members is reduced below the legal minimum.
-    
-    *   (c) \[Repealed\]
-    
-    (3) Subsections (1) and (2) shall have effect only if all equity securities in the airport company are held by---
-        
-    *   (a) a Minister of the Crown or his or her nominee; or
-    
-    *   (b) a local authority or its nominee; or
-    
-    *   (c) any combination of persons referred to in paragraphs (a) and (b),---
-    
-    and shall cease to have effect upon the transfer of any equity securities in the airport company to any other person.
-    
-    Section 3CA: inserted, on 10 August 1992, by [section 39][45] of the Civil Aviation Amendment Act 1992 (1992 No 75).
-    
-    Section 3CA(1): amended, on 1 July 1994, by [section 2][33] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
-    
-    Section 3CA(2)(b): replaced, on 1 July 1994, by [section 2][33] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
-    
-    Section 3CA(2)(c): repealed, on 1 July 1994, by [section 2][33] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
-    
-    Section 3CA(3)(b): replaced, on 1 July 2003, by [section 262][34] of the Local Government Act 2002 (2002 No 84).
+    Section 3CA: repealed, on 5 December 2013, by [section 14][34] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 3D Airports operated by airport authorities which are not local authorities to be public works, etc
     
@@ -380,11 +360,11 @@ An Act to consolidate and amend the Local Authorities Empowering (Aviation Encou
         
     *   (a) \[Repealed\]
     
-    *   (b) for the purposes of the [Public Works Act 1981][51], be deemed to be a Government work.
+    *   (b) for the purposes of the [Public Works Act 1981][52], be deemed to be a Government work.
     
     Section 3D: inserted, on 18 December 1986, by section 4 of the Airport Authorities Amendment Act 1986 (1986 No 128).
     
-    Section 3D(a): repealed, on 1 October 1991, by [section 362][52] of the Resource Management Act 1991 (1991 No 69).
+    Section 3D(a): repealed, on 1 October 1991, by [section 362][53] of the Resource Management Act 1991 (1991 No 69).
 
 ##### 4 Additional powers of airport authorities
     
@@ -410,21 +390,21 @@ An Act to consolidate and amend the Local Authorities Empowering (Aviation Encou
     
     (3) Every airport operated or managed by an airport authority must be operated or managed as a commercial undertaking.
     
-    Section 4: replaced, on 26 November 1998, by [section 4(1)][53] of the Airport Authorities Amendment Act 1997 (1997 No 90).
+    Section 4: replaced, on 26 November 1998, by [section 4(1)][54] of the Airport Authorities Amendment Act 1997 (1997 No 90).
 
 ##### 4A Charges
     
-*   (1) Subject to [section 4B][15], every airport company may, notwithstanding the provision of any regulations in force under [section 38][54] or [section 100][55] of the Civil Aviation Act 1990, set such charges as it from time to time thinks fit for the use of the airport operated or managed by it, or the services or facilities associated therewith.
+*   (1) Subject to [section 4B][15], every airport company may, notwithstanding the provision of any regulations in force under [section 38][55] or [section 100][56] of the Civil Aviation Act 1990, set such charges as it from time to time thinks fit for the use of the airport operated or managed by it, or the services or facilities associated therewith.
     
     (2) Any charges set under this section may be charged to persons or classes of persons owning or operating aircraft, or to persons or classes of persons using or otherwise enjoying the benefit of the airport, services, or facilities, or to any other persons.
     
-    (3) Nothing in [section 43][56] of the Commerce Act 1986 applies in relation to the setting and charging of charges by an airport company.
+    (3) Nothing in [section 43][57] of the Commerce Act 1986 applies in relation to the setting and charging of charges by an airport company.
     
-    (4) This section does not limit the application of regulation under [Part 4][57] of the Commerce Act 1986\.
+    (4) This section does not limit the application of regulation under [Part 4][58] of the Commerce Act 1986\.
     
-    Section 4A: inserted, on 26 November 1998, by [section 4(1)][53] of the Airport Authorities Amendment Act 1997 (1997 No 90).
+    Section 4A: inserted, on 26 November 1998, by [section 4(1)][54] of the Airport Authorities Amendment Act 1997 (1997 No 90).
     
-    Section 4A(4): inserted, on 14 October 2008, by [section 32(2)][58] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 4A(4): inserted, on 14 October 2008, by [section 32(2)][59] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 4B Airport companies must consult concerning charges
     
@@ -442,7 +422,7 @@ An Act to consolidate and amend the Local Authorities Empowering (Aviation Encou
     
     (3) Notwithstanding subsections (1) and (2), an airport company to which subsection (1) or subsection (2) applies is not required to consult under this section in respect of any charge with a substantial customer who has consented in writing (and not withdrawn that consent) to not being consulted under this section in respect of that charge.
     
-    Section 4B: inserted, on 26 November 1998, by [section 4(1)][53] of the Airport Authorities Amendment Act 1997 (1997 No 90).
+    Section 4B: inserted, on 26 November 1998, by [section 4(1)][54] of the Airport Authorities Amendment Act 1997 (1997 No 90).
 
 ##### 4C Specified airport companies must consult concerning capital expenditure plans
     
@@ -458,7 +438,7 @@ An Act to consolidate and amend the Local Authorities Empowering (Aviation Encou
     
     (3) A specified airport company is not required to consult under subsection (2) in respect of identified capital expenditure (or any related capital expenditure) with a substantial customer who has consented in writing (and not withdrawn that consent) to not being consulted under this section in respect of that identified capital expenditure and any related capital expenditure.
     
-    Section 4C: inserted, on 26 November 1998, by [section 4(1)][53] of the Airport Authorities Amendment Act 1997 (1997 No 90).
+    Section 4C: inserted, on 26 November 1998, by [section 4(1)][54] of the Airport Authorities Amendment Act 1997 (1997 No 90).
 
 ##### 5 Airport authority may act in conjunction with Ministers of Crown and other authorities
     
@@ -488,7 +468,7 @@ An Act to consolidate and amend the Local Authorities Empowering (Aviation Encou
     
     *   (k) for such other terms and conditions as may be agreed upon for the purpose of giving effect to the carrying out and general management of the undertaking.
     
-    (3) Where in the opinion of the Minister of Finance and the Minister any work or scheme of development or reconstruction to be executed or carried out at or in connection with any airport in accordance with an agreement entered into under this section is of both national and local importance, that agreement shall be deemed to be an agreement entered into under [section 224][59] of the Public Works Act 1981, and the provisions of that section, as far as they are applicable and with the necessary modifications, shall apply accordingly.
+    (3) Where in the opinion of the Minister of Finance and the Minister any work or scheme of development or reconstruction to be executed or carried out at or in connection with any airport in accordance with an agreement entered into under this section is of both national and local importance, that agreement shall be deemed to be an agreement entered into under [section 224][60] of the Public Works Act 1981, and the provisions of that section, as far as they are applicable and with the necessary modifications, shall apply accordingly.
     
     (4) If default is made by an airport authority for more than 14 days in the payment of any amount due by it under an agreement entered into under this section, the amount in respect of which default has been made together with interest at such rate as may be prescribed in the agreement or, if no rate is prescribed, at such rate as the Minister of Finance approves shall be recoverable as a debt due by the airport authority to the party to whom the amount is payable under the agreement.
     
@@ -502,7 +482,7 @@ An Act to consolidate and amend the Local Authorities Empowering (Aviation Encou
     
     Section 5(3): amended, on 1 April 1988, by section 2(b) of the Airport Authorities Amendment Act 1988 (1988 No 49).
     
-    Section 5(3): amended, on 1 February 1982, pursuant to [section 248(1)][60] of the Public Works Act 1981 (1981 No 35).
+    Section 5(3): amended, on 1 February 1982, pursuant to [section 248(1)][61] of the Public Works Act 1981 (1981 No 35).
 
 ##### 6 Leasing powers of airport authorities
     
@@ -522,19 +502,19 @@ An Act to consolidate and amend the Local Authorities Empowering (Aviation Encou
     
     (7) In the exercise of any of the powers conferred by this section, any airport authority shall ensure that the granting of any lease, or the erection, alteration, or removal of any building, equipment, or appurtenances under any lease, or the construction of any road or access-way, or the subdivision of any land for the purposes of this section, shall not affect the safe operation of aircraft on or over the airport and, in this respect, shall consult with and have regard to the directions of the Civil Aviation Authority of New Zealand.
     
-    (8) The provisions of [Parts 8 to 12][61] of the Public Works Act 1981, [Part 21][62] of the Local Government Act 1974, and [section 11][63] and [Part 10][64] of the Resource Management Act 1991 shall not apply to the subdivision of any airport under the provisions of this section or to the laying out of any access roads to the land so subdivided.
+    (8) The provisions of [Parts 8 to 12][62] of the Public Works Act 1981, [Part 21][63] of the Local Government Act 1974, and [section 11][64] and [Part 10][65] of the Resource Management Act 1991 shall not apply to the subdivision of any airport under the provisions of this section or to the laying out of any access roads to the land so subdivided.
     
     (9) \[Repealed\]
     
-    Section 6(6): amended, on 1 July 1997, pursuant to [section 18][65] of the Arbitration Act 1996 (1996 No 99).
+    Section 6(6): amended, on 1 July 1997, pursuant to [section 18][66] of the Arbitration Act 1996 (1996 No 99).
     
-    Section 6(7): amended, on 1 February 1998, by [section 7][66] of the Airport Authorities Amendment Act 1996 (1996 No 93).
+    Section 6(7): amended, on 1 February 1998, by [section 7][67] of the Airport Authorities Amendment Act 1996 (1996 No 93).
     
     Section 6(8): replaced, on 23 July 1993, by section 2(1) of the Airport Authorities Amendment Act 1993 (1993 No 72).
     
-    Section 6(8): amended, on 1 July 2003, by [section 262][34] of the Local Government Act 2002 (2002 No 84).
+    Section 6(8): amended, on 1 July 2003, by [section 262][35] of the Local Government Act 2002 (2002 No 84).
     
-    Section 6(9): repealed, on 26 November 1998, by [section 5][67] of the Airport Authorities Amendment Act 1997 (1997 No 90).
+    Section 6(9): repealed, on 26 November 1998, by [section 5][68] of the Airport Authorities Amendment Act 1997 (1997 No 90).
 
 ##### 7 Local authorities may assist airport authorities
     
@@ -550,7 +530,7 @@ An Act to consolidate and amend the Local Authorities Empowering (Aviation Encou
     
 *   \[Repealed\]
     
-    Section 8: repealed, on 1 July 1998, by [section 16(1)][38] of the Local Government Amendment Act (No 3) 1996 (1996 No 83).
+    Section 8: repealed, on 1 July 1998, by [section 16(1)][39] of the Local Government Amendment Act (No 3) 1996 (1996 No 83).
 
 ##### 9 Bylaws
     
@@ -574,11 +554,11 @@ An Act to consolidate and amend the Local Authorities Empowering (Aviation Encou
     
     *   (g) prescribing charges for the use of parking spaces for vehicles or for the admission of members of the public to the airport or to any land adjacent to the airport owned or controlled by the airport authority:
     
-    *   (h) prescribing charges for the use of the airport or any part thereof for air pageants, sports meetings, and such other matters in respect of which no charge is prescribed by regulations under the [Civil Aviation Act 1990][68]:
+    *   (h) prescribing charges for the use of the airport or any part thereof for air pageants, sports meetings, and such other matters in respect of which no charge is prescribed by regulations under the [Civil Aviation Act 1990][69]:
     
-    *   (i) prescribing charges in respect of the commercial use of any part of the airport, including the delivery of goods to or from the airport and the provision of services at the airport, in respect of which no charge is prescribed under the [Civil Aviation Act 1990][68]:
+    *   (i) prescribing charges in respect of the commercial use of any part of the airport, including the delivery of goods to or from the airport and the provision of services at the airport, in respect of which no charge is prescribed under the [Civil Aviation Act 1990][69]:
     
-    *   (ia) prescribing charges in respect of aviation security services provided at the airport, in respect of which no charge is prescribed under the [Civil Aviation Act 1990][68]:
+    *   (ia) prescribing charges in respect of aviation security services provided at the airport, in respect of which no charge is prescribed under the [Civil Aviation Act 1990][69]:
     
     *   (j) generally for the administration of the airport, or for the control of trading activities thereon or for the management of any business ancillary thereto that may be carried on pursuant to this Act:
     
@@ -600,9 +580,9 @@ An Act to consolidate and amend the Local Authorities Empowering (Aviation Encou
         
     *   (a) set out the bylaw approved in a schedule to the order; and
     
-    *   (b) be a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][69] and be presented to the House of Representatives under [section 41][70] of that Act.
+    *   (b) be a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][70] and be presented to the House of Representatives under [section 41][71] of that Act.
     
-    (7) For the purposes of the [Land Transport Act 1998][71], any bylaw made under subsection (1)(e) or (g) is to be treated as being made by the authority under [section 22AB][72] of the Land Transport Act 1998\.
+    (7) For the purposes of the [Land Transport Act 1998][72], any bylaw made under subsection (1)(e) or (g) is to be treated as being made by the authority under [section 22AB][73] of the Land Transport Act 1998\.
     
     (8) Every person who commits a breach of any bylaw in force under this section is liable on conviction to a fine not exceeding $500 and, where the breach is a continuing one, to a further fine not exceeding $50 for every day or part of a day during which the breach has continued.
     
@@ -622,19 +602,19 @@ An Act to consolidate and amend the Local Authorities Empowering (Aviation Encou
     
     Section 9(1)(ff): inserted, on 13 December 1968, by section 2(1) of the Airport Authorities Amendment Act 1968 (1968 No 66).
     
-    Section 9(1)(h): amended, on 1 February 1998, by [section 8(1)][73] of the Airport Authorities Amendment Act 1996 (1996 No 93).
+    Section 9(1)(h): amended, on 1 February 1998, by [section 8(1)][74] of the Airport Authorities Amendment Act 1996 (1996 No 93).
     
-    Section 9(1)(i): amended, on 1 February 1998, by [section 8(1)][73] of the Airport Authorities Amendment Act 1996 (1996 No 93).
+    Section 9(1)(i): amended, on 1 February 1998, by [section 8(1)][74] of the Airport Authorities Amendment Act 1996 (1996 No 93).
     
-    Section 9(1)(ia): inserted, on 1 September 1990, by [section 101(3)][49] of the Civil Aviation Act 1990 (1990 No 98).
+    Section 9(1)(ia): inserted, on 1 September 1990, by [section 101(3)][50] of the Civil Aviation Act 1990 (1990 No 98).
     
     Section 9(1) proviso: inserted, on 18 December 1986, by section 7(1) of the Airport Authorities Amendment Act 1986 (1986 No 128).
     
     Section 9(1A): inserted, on 13 December 1968, by section 2(2) of the Airport Authorities Amendment Act 1968 (1968 No 66).
     
-    Section 9(1A): amended, on 1 July 2001, pursuant to [section 52][74] of the Public Audit Act 2001 (2001 No 10).
+    Section 9(1A): amended, on 1 July 2001, pursuant to [section 52][75] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 9(2): amended, on 1 April 1978, pursuant to [section 125(1)][75] of the Reserves Act 1977 (1977 No 66).
+    Section 9(2): amended, on 1 April 1978, pursuant to [section 125(1)][76] of the Reserves Act 1977 (1977 No 66).
     
     Section 9(4): replaced, on 18 December 1986, by section 7(2) of the Airport Authorities Amendment Act 1986 (1986 No 128).
     
@@ -644,13 +624,13 @@ An Act to consolidate and amend the Local Authorities Empowering (Aviation Encou
     
     Section 9(6): inserted, on 18 December 1986, by section 7(2) of the Airport Authorities Amendment Act 1986 (1986 No 128).
     
-    Section 9(6)(b): replaced, on 5 August 2013, by [section 77(3)][76] of the Legislation Act 2012 (2012 No 119).
+    Section 9(6)(b): replaced, on 5 August 2013, by [section 77(3)][77] of the Legislation Act 2012 (2012 No 119).
     
-    Section 9(7): replaced, on 10 May 2011, by [section 100(3)][77] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 9(7): replaced, on 10 May 2011, by [section 100(3)][78] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
     Section 9(8): inserted, on 18 December 1986, by section 7(2) of the Airport Authorities Amendment Act 1986 (1986 No 128).
     
-    Section 9(8): amended, on 1 July 2013, by [section 413][78] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 9(8): amended, on 1 July 2013, by [section 413][79] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 9(9): inserted, on 18 December 1986, by section 7(2) of the Airport Authorities Amendment Act 1986 (1986 No 128).
     
@@ -658,13 +638,13 @@ An Act to consolidate and amend the Local Authorities Empowering (Aviation Encou
 
 ##### 9A Regulations requiring disclosure of information by airport companies
     
-*   (1AAA) This section applies to each of the following airport companies until the end of the last day of the financial year that is referred to in [section 56F][79] of the Commerce Act 1986 in relation to that company:
+*   (1AAA) This section applies to each of the following airport companies until the end of the last day of the financial year that is referred to in [section 56F][80] of the Commerce Act 1986 in relation to that company:
         
-    *   (a) the company (as defined in [section 2][80] of the Auckland Airport Act 1987) that operates Auckland International Airport (including any subsidiary of, or successor to, that company that operates all or part of the airport):
+    *   (a) the company (as defined in [section 2][81] of the Auckland Airport Act 1987) that operates Auckland International Airport (including any subsidiary of, or successor to, that company that operates all or part of the airport):
     
-    *   (b) the company (as defined in [section 2][81] of the Wellington Airport Act 1990) that operates Wellington International Airport (including any subsidiary of, or successor to, that company that operates all or part of the airport):
+    *   (b) the company (as defined in [section 2][82] of the Wellington Airport Act 1990) that operates Wellington International Airport (including any subsidiary of, or successor to, that company that operates all or part of the airport):
     
-    *   (c) the airport company (as defined in [section 2][82] of the Airport Authorities Act 1966) that operates Christchurch International Airport (including any subsidiary of, or successor to, that company that operates all or part of the airport).
+    *   (c) the airport company (as defined in [section 2][83] of the Airport Authorities Act 1966) that operates Christchurch International Airport (including any subsidiary of, or successor to, that company that operates all or part of the airport).
     
     (1AAB) After the end of that day, this section does not apply to that company, and references in this section to every airport company are references to every company other than that company.
     
@@ -700,21 +680,21 @@ An Act to consolidate and amend the Local Authorities Empowering (Aviation Encou
     
     (3) No guidelines are permitted to be made pursuant to regulations made under subsection (1)(h) except after consultation with such persons, representative groups within the aviation industry or elsewhere, substantial customers of airport companies, government departments, and Crown agencies as the person or persons making the guidelines think appropriate.
     
-    (4) Any guidelines made under subsection (1)(h) are a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][69] and must be presented to the House of Representatives under [section 41][70] of that Act.
+    (4) Any guidelines made under subsection (1)(h) are a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][70] and must be presented to the House of Representatives under [section 41][71] of that Act.
     
-    Section 9A: inserted, on 26 November 1998, by [section 6][83] of the Airport Authorities Amendment Act 1997 (1997 No 90).
+    Section 9A: inserted, on 26 November 1998, by [section 6][84] of the Airport Authorities Amendment Act 1997 (1997 No 90).
     
-    Section 9A(1AAA): inserted, on 14 October 2008, by [section 32(3)][58] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 9A(1AAA): inserted, on 14 October 2008, by [section 32(3)][59] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 9A(1AAB): inserted, on 14 October 2008, by [section 32(3)][58] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 9A(1AAB): inserted, on 14 October 2008, by [section 32(3)][59] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 9A(4): replaced, on 5 August 2013, by [section 77(3)][76] of the Legislation Act 2012 (2012 No 119).
+    Section 9A(4): replaced, on 5 August 2013, by [section 77(3)][77] of the Legislation Act 2012 (2012 No 119).
 
 ##### 9B Validity of certain arrangements not affected by failure to consult on capital expenditure
     
 *   A failure by a specified airport company to comply with [section 4C][16] does not affect the validity or enforceability of any deed, agreement, right, or obligation entered into, obtained, or incurred by that specified airport company.
     
-    Section 9B: inserted, on 26 November 1998, by [section 6][83] of the Airport Authorities Amendment Act 1997 (1997 No 90).
+    Section 9B: inserted, on 26 November 1998, by [section 6][84] of the Airport Authorities Amendment Act 1997 (1997 No 90).
 
 ##### 9C Information to be supplied to Secretary for Transport
     
@@ -726,7 +706,7 @@ An Act to consolidate and amend the Local Authorities Empowering (Aviation Encou
     
     (2) All statements, forecasts, reports, agreements, particulars, and information supplied to the Secretary for Transport under paragraph (a) or paragraph (b) of subsection (1) must be verified by statutory declaration in the form prescribed, and by the person or persons prescribed, by regulations made under [section 9A(1)(j)][22].
     
-    Section 9C: inserted, on 26 November 1998, by [section 6][83] of the Airport Authorities Amendment Act 1997 (1997 No 90).
+    Section 9C: inserted, on 26 November 1998, by [section 6][84] of the Airport Authorities Amendment Act 1997 (1997 No 90).
 
 ##### 9D Offences
     
@@ -742,11 +722,11 @@ An Act to consolidate and amend the Local Authorities Empowering (Aviation Encou
     
     (4) Every person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $20,000\.
     
-    Section 9D: inserted, on 26 November 1998, by [section 6][83] of the Airport Authorities Amendment Act 1997 (1997 No 90).
+    Section 9D: inserted, on 26 November 1998, by [section 6][84] of the Airport Authorities Amendment Act 1997 (1997 No 90).
     
-    Section 9D(3): amended, on 1 July 2013, by [section 413][78] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 9D(3): amended, on 1 July 2013, by [section 413][79] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 9D(4): amended, on 1 July 2013, by [section 413][78] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 9D(4): amended, on 1 July 2013, by [section 413][79] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 10 Repeals and savings
     
@@ -769,7 +749,7 @@ Enactments repealed
 
 ##### Statutes Amendment Act 1936 (1936 No 58) (1957 Reprint, Vol 8, p 441)
 
-_Amendment(s) incorporated in the [Act(s)][84]._
+_Amendment(s) incorporated in the [Act(s)][85]._
 
 #### 
 
@@ -783,57 +763,59 @@ _Amendment(s) incorporated in the [Act(s)][84]._
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][85] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][86] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][86] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][87] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][87] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][88] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][88] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][89] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][76]
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][34]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][78]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][77]
     
-    Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(3)][77]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][79]
     
-    Commerce Amendment Act 2008 (2008 No 70): [section 32][58]
+    Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(3)][78]
     
-    Local Government Act 2002 (2002 No 84): [section 262][34]
+    Commerce Amendment Act 2008 (2008 No 70): [section 32][59]
     
-    Public Audit Act 2001 (2001 No 10): [section 52][74]
+    Local Government Act 2002 (2002 No 84): [section 262][35]
     
-    [Airport Authorities Amendment Act 2000][89] (2000 No 37)
+    Public Audit Act 2001 (2001 No 10): [section 52][75]
     
-    [Airport Authorities Amendment Act 1997][90] (1997 No 90)
+    [Airport Authorities Amendment Act 2000][90] (2000 No 37)
     
-    Arbitration Act 1996 (1996 No 99): [section 20][91]
+    [Airport Authorities Amendment Act 1997][91] (1997 No 90)
     
-    [Airport Authorities Amendment Act 1996][92] (1996 No 93)
+    Arbitration Act 1996 (1996 No 99): [section 20][92]
     
-    Local Government Amendment Act (No 3) 1996 (1996 No 83): [section 16(1)][38]
+    [Airport Authorities Amendment Act 1996][93] (1996 No 93)
+    
+    Local Government Amendment Act (No 3) 1996 (1996 No 83): [section 16(1)][39]
     
     Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][33]
     
     Airport Authorities Amendment Act 1993 (1993 No 72)
     
-    Civil Aviation Amendment Act 1992 (1992 No 75): [sections 39][45], [46(3)][36]
+    Civil Aviation Amendment Act 1992 (1992 No 75): [sections 39][46], [46(3)][37]
     
-    Resource Management Act 1991 (1991 No 69): [section 362][52]
+    Resource Management Act 1991 (1991 No 69): [section 362][53]
     
-    Civil Aviation Act 1990 (1990 No 98): [sections 101(3)][49], [102(1)][35]
+    Civil Aviation Act 1990 (1990 No 98): [sections 101(3)][50], [102(1)][36]
     
-    Public Finance Act 1989 (1989 No 44): [section 83(7)][44]
+    Public Finance Act 1989 (1989 No 44): [section 83(7)][45]
     
-    Finance Act (No 2) 1988 (1988 No 128): [section 27][43]
+    Finance Act (No 2) 1988 (1988 No 128): [section 27][44]
     
     Airport Authorities Amendment Act 1988 (1988 No 49)
     
     Airport Authorities Amendment Act 1986 (1986 No 128)
     
-    Public Works Act 1981 (1981 No 35): [section 248(1)][60]
+    Public Works Act 1981 (1981 No 35): [section 248(1)][61]
     
-    Reserves Act 1977 (1977 No 66): [section 125(1)][75]
+    Reserves Act 1977 (1977 No 66): [section 125(1)][76]
     
     Ministry of Transport Amendment Act 1973 (1973 No 6): section 6(1)
     
@@ -875,62 +857,63 @@ _Amendment(s) incorporated in the [Act(s)][84]._
 [31]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM217805
 [32]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM417060
 [33]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM328986
-[34]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM174088
-[35]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM218729
-[36]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM269420
-[37]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM417061
-[38]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM394152
-[39]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM46055
-[40]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM46068
-[41]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM444304
-[42]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM403218
-[43]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM136191
-[44]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM163167
-[45]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM269410
-[46]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM68376
-[47]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM403219
-[48]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM403221
-[49]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM218728
-[50]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM403222
-[51]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM45460
-[52]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM239393
-[53]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM417062
-[54]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM216377
-[55]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM218720
-[56]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM88405
-[57]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM88433
-[58]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM1194784
-[59]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM48325
-[60]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM48604
-[61]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM47308
-[62]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM420324
-[63]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM231942
-[64]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM236786
-[65]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM405708
-[66]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM403223
-[67]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM417063
-[68]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM214686
-[69]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2997643
-[70]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2998573
-[71]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM433612
-[72]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2609705
-[73]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM403224
-[74]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM88956
-[75]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM445092
-[76]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2998633
-[77]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM3231152
-[78]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM3360714
-[79]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM1685746
-[80]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM125376
-[81]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM211896
-[82]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM379829
-[83]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM417064
-[84]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM221336
-[85]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2998516
-[86]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2998515
-[87]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2998532
-[88]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[89]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM68369
-[90]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM417054
-[91]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM405710
-[92]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM403212
+[34]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM5620822
+[35]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM174088
+[36]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM218729
+[37]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM269420
+[38]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM417061
+[39]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM394152
+[40]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM46055
+[41]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM46068
+[42]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM444304
+[43]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM403218
+[44]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM136191
+[45]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM163167
+[46]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM269410
+[47]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM68376
+[48]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM403219
+[49]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM403221
+[50]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM218728
+[51]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM403222
+[52]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM45460
+[53]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM239393
+[54]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM417062
+[55]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM216377
+[56]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM218720
+[57]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM88405
+[58]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM88433
+[59]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM1194784
+[60]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM48325
+[61]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM48604
+[62]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM47308
+[63]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM420324
+[64]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM231942
+[65]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM236786
+[66]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM405708
+[67]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM403223
+[68]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM417063
+[69]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM214686
+[70]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2997643
+[71]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2998573
+[72]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM433612
+[73]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2609705
+[74]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM403224
+[75]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM88956
+[76]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM445092
+[77]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2998633
+[78]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM3231152
+[79]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM3360714
+[80]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM1685746
+[81]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM125376
+[82]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM211896
+[83]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM379829
+[84]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM417064
+[85]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM221336
+[86]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2998516
+[87]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2998515
+[88]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2998532
+[89]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[90]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM68369
+[91]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM417054
+[92]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM405710
+[93]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM403212
