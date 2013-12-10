@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -583,11 +583,13 @@ Incorporation of trust boards
     
     (5) A copy of or extract from any document kept by or lodged with the Registrar under this Part, certified to be a true copy or extract under the hand and seal of the Registrar (whose official position it shall not be necessary to prove), shall in all legal proceedings be admissible in evidence as of equal validity with the original document.
     
-    (6) At any time while there are no regulations prescribing the fees payable under this section, or so far as no such fees are prescribed by any regulations, the fees so payable shall be the same as those payable under the corresponding provisions in section 9 of the Companies Act 1955\. All fees paid to the Registrar under this Act shall be paid into a Crown Bank Account, and shall form part of a Crown Bank Account.
+    (6) At any time while there are no regulations prescribing the fees payable under this section, or so far as no such fees are prescribed by any regulations, the fees so payable shall be the same as those payable under the corresponding provisions in [section 363][96] of the Companies Act 1993\. All fees paid to the Registrar under this Act shall be paid into a Crown Bank Account, and shall form part of a Crown Bank Account.
     
     Compare: 1955 No 63 ss 8(3), 9
     
-    Section 29(6): amended, on 25 January 2005, pursuant to [section 83(7)][96] of the Public Finance Act 1989 (1989 No 44).
+    Section 29(6): amended, on 5 December 2013, by [section 14][97] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 29(6): amended, on 25 January 2005, pursuant to [section 83(7)][98] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 30 Exemption from fees
     
@@ -727,9 +729,9 @@ Schemes in respect of charitable funds raised by voluntary contribution
     
 *   (1) If in any case it is made to appear that the administration of any money, or income from money, to which this Part applies could be facilitated by extending or varying the powers of the trustees or by prescribing or varying the mode of administering the trust on which the money or income is held, the powers of the trustees may be extended or varied, and the mode of administering the trust may be prescribed or varied, in the manner and subject to the provisions hereafter contained in this Part.
     
-    (2) Nothing in this Part shall restrict the powers that are or may be conferred on the court or the trustees by or under the [Trustee Act 1956][87] or any other Act or by law or restrict the operation of [section 86][97] of the Public Trust Act 2001\.
+    (2) Nothing in this Part shall restrict the powers that are or may be conferred on the court or the trustees by or under the [Trustee Act 1956][87] or any other Act or by law or restrict the operation of [section 86][99] of the Public Trust Act 2001\.
     
-    Section 41(2): amended, on 1 March 2002, by [section 170(1)][98] of the Public Trust Act 2001 (2001 No 100).
+    Section 41(2): amended, on 1 March 2002, by [section 170(1)][100] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 42 Contributor or money holder may proceed under this Part
     
@@ -878,11 +880,11 @@ Miscellaneous provisions
     
     Compare: 1908 No 164 ss 28, 45, 49
     
-    Section 51(2)(b): amended, on 1 January 2001, by [section 111(1)][99] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 51(2)(b): amended, on 1 January 2001, by [section 111(1)][101] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
     Section 51(2)(b): amended, on 1 April 1958, pursuant to section 158(1) of the Hospitals Act 1957 (1957 No 40).
     
-    Section 51(2)(d): amended, on 1 March 2002, by [section 170(1)][98] of the Public Trust Act 2001 (2001 No 100).
+    Section 51(2)(d): amended, on 1 March 2002, by [section 170(1)][100] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 52 Expenses of scheme
     
@@ -938,7 +940,7 @@ Miscellaneous provisions
     
     (3) It shall be the duty of all trustees and persons acting or having any concern in the management or administration of any such charity into which any such examination or inquiry is being made, or of the property or income thereof, on request, to produce to the Attorney-General or to the officer or person making the examination or inquiry all books, papers, writings, and documents in relation to the charity or the property and income thereof, or to the administration, management, value, condition, and application of that property and income, and to answer all questions and give all assistance in connection with the examination or inquiry which they are reasonably able to answer or give. Every person who acts in contravention of or fails to comply in any respect with any provision of this subsection commits an offence and shall be liable on conviction to a fine not exceeding 20 pounds.
     
-    (4) Without restricting the generality of the foregoing provisions of this section, it is hereby declared that for the purposes of any such inquiry or examination the provisions of the [Commissions of Inquiry Act 1908][100] shall, so far as they are applicable and with the necessary modifications, apply as if the Attorney-General or the officer or person were a commission of inquiry appointed under that Act.
+    (4) Without restricting the generality of the foregoing provisions of this section, it is hereby declared that for the purposes of any such inquiry or examination the provisions of the [Commissions of Inquiry Act 1908][102] shall, so far as they are applicable and with the necessary modifications, apply as if the Attorney-General or the officer or person were a commission of inquiry appointed under that Act.
     
     Section 58(3): amended, on 1 July 2013, by [section 413][88] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -1014,7 +1016,7 @@ Miscellaneous provisions
     
     Section 61A: inserted, on 2 October 1963, by section 3 of the Charitable Trusts Amendment Act 1963 (1963 No 21).
     
-    Section 61A(7): repealed, on 1 January 1972, by [section 101(1)][101] of the Stamp and Cheque Duties Act 1971 (1971 No 51).
+    Section 61A(7): repealed, on 1 January 1972, by [section 101(1)][103] of the Stamp and Cheque Duties Act 1971 (1971 No 51).
 
 ##### 61B Inclusion of non-charitable and invalid purposes not to invalidate a trust
     
@@ -1044,7 +1046,7 @@ Miscellaneous provisions
     
     (2) \[Repealed\]
     
-    Section 62(2): repealed, on 19 December 1989, by [section 11][102] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 62(2): repealed, on 19 December 1989, by [section 11][104] of the Regulations (Disallowance) Act 1989 (1989 No 143).
 
 ##### 63 Repeals, amendment, and savings
     
@@ -1058,7 +1060,7 @@ Miscellaneous provisions
     
     (5) Every certificate in respect of a scheme given by the Attorney-General under Part 4 of the Religious, Charitable, and Educational Trusts Act 1908 shall be deemed to be an approval of the scheme by the Attorney-General under [Part 4][44] of this Act.
     
-    Section 63(2): repealed, on 12 October 1978, by [section 8][103] of the Finance Act 1978 (1978 No 56).
+    Section 63(2): repealed, on 12 October 1978, by [section 8][105] of the Finance Act 1978 (1978 No 56).
 
 ---
 
@@ -1165,92 +1167,51 @@ Enactments repealed
 
 ##### Religious, Charitable, and Educational Trusts Amendment Act 1951 (1951 No 29)
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Charitable Trusts Act 1957\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][104] ![](/images/external_link.gif).
+*   This is a reprint of the Charitable Trusts Act 1957 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][105] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][106] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][107] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][106] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][108] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][109] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][107] and [17E][108] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][97]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][88]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    [Charitable Trusts Amendment Act 2010][110] (2010 No 51)
     
+    [Charitable Trusts Amendment Act 2007][111] (2007 No 45)
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Public Trust Act 2001 (2001 No 100): [section 170(1)][100]
     
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][88]
+    New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][101]
     
-    [Charitable Trusts Amendment Act 2010][109] (2010 No 51)
+    [Charitable Trusts Amendment Act 1993][112] (1993 No 112)
     
-    [Charitable Trusts Amendment Act 2007][110] (2007 No 45)
+    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][104]
     
-    Public Trust Act 2001 (2001 No 100): [section 170(1)][98]
-    
-    New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][99]
-    
-    [Charitable Trusts Amendment Act 1993][111] (1993 No 112)
-    
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][102]
-    
-    Public Finance Act 1989 (1989 No 44): [section 83(7)][96]
+    Public Finance Act 1989 (1989 No 44): [section 83(7)][98]
     
     Constitution Act 1986 (1986 No 114): [section 29(2)][77]
     
     Judicature Amendment Act 1979 (1979 No 124): [section 12][78]
     
-    Finance Act 1978 (1978 No 56): [section 8][103]
+    Finance Act 1978 (1978 No 56): [section 8][105]
     
-    Stamp and Cheque Duties Act 1971 (1971 No 51): [section 101(1)][101]
+    Stamp and Cheque Duties Act 1971 (1971 No 51): [section 101(1)][103]
     
     Charitable Trusts Amendment Act 1963 (1963 No 21)
     
@@ -1258,7 +1219,7 @@ Enactments repealed
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1957/0018/latest/whole.html#DLM308798
 [2]: http://www.legislation.govt.nz/act/public/1957/0018/latest/whole.html#DLM309900
 [3]: http://www.legislation.govt.nz/act/public/1957/0018/latest/whole.html#DLM309902
@@ -1354,19 +1315,20 @@ Enactments repealed
 [93]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM3040205
 [94]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM327432
 [95]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM3040210
-[96]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM163167
-[97]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM124007
-[98]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM124529
-[99]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM81644
-[100]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM139130
-[101]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM401040
-[102]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM195558
-[103]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM22164
-[104]: http://www.pco.parliament.govt.nz/reprints/
-[105]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM195439
-[106]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[107]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM195468
-[108]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM195470
-[109]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM3040200
-[110]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM968110
-[111]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM327425
+[96]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM323211
+[97]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM5620822
+[98]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM163167
+[99]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM124007
+[100]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM124529
+[101]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM81644
+[102]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM139130
+[103]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM401040
+[104]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM195558
+[105]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM22164
+[106]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM2998516
+[107]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM2998515
+[108]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM2998532
+[109]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[110]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM3040200
+[111]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM968110
+[112]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM327425
