@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2011
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry for the Environment.
 
@@ -23,216 +23,216 @@ This Act is administered by the Ministry for the Environment.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
-[3][3] [Purpose][3]
+[3][3][][3][Purpose][3]
 
-[4][4] [Arrangement of this Act][4]
+[4][4][][4][Arrangement of this Act][4]
 
-[5][5] [Interpretation][5]
+[5][5][][5][Interpretation][5]
 
 [Repeal of Marine Farming Act 1971 and transitional provisions relating to repeal][6]
 
-[6][7] [Marine Farming Act 1971 called principal Act in sections 7 to 17][7]
+[6][7][][7][Marine Farming Act 1971 called principal Act in sections 7 to 17][7]
 
 [Repeal][8]
 
-[7][9] [Repeal][9]
+[7][9][][9][Repeal][9]
 
 [Transitional][10]
 
-[8][11] [Application][11]
+[8][11][][11][Application][11]
 
-[9][12] [Interpretation][12]
+[9][12][][12][Interpretation][12]
 
-[10][13] [Leases and licences deemed to be coastal permits][13]
+[10][13][][13][Leases and licences deemed to be coastal permits][13]
 
-[11][14] [Provision of records to regional councils][14]
+[11][14][][14][Provision of records to regional councils][14]
 
-[12][15] [Approvals under Harbours Act 1950][15]
+[12][15][][15][Approvals under Harbours Act 1950][15]
 
-[13][16] [Mortgages and charges][16]
+[13][16][][16][Mortgages and charges][16]
 
-[14][17] [Subleases and sublicences][17]
+[14][17][][17][Subleases and sublicences][17]
 
-[15][18] [Applications to extend term][18]
+[15][18][][18][Applications to extend term][18]
 
-[16][19] [Certain matters to be completed under principal Act][19]
+[16][19][][19][Certain matters to be completed under principal Act][19]
 
-[17][20] [Holder of deemed coastal permit to be treated as holder of fish farm registration pending registration by chief executive][20]
+[17][20][][20][Holder of deemed coastal permit to be treated as holder of fish farm registration pending registration by chief executive][20]
 
-[17A][21] [Term of certain leases extended][21]
+[17A][21][][21][Term of certain leases extended][21]
 
 [Repeal of certain provisions in Part 4A of Fisheries Act 1983 and transitional provisions relating to repeals][22]
 
-[18][23] [Fisheries Act 1983 called principal Act in sections 19 to 33][23]
+[18][23][][23][Fisheries Act 1983 called principal Act in sections 19 to 33][23]
 
 [Repeals and amendments][24]
 
-[19][25] [Repeals][25]
+[19][25][][25][Repeals][25]
 
 [Transitional][26]
 
-[20][27] [Marine farming permits deemed to be coastal permits][27]
+[20][27][][27][Marine farming permits deemed to be coastal permits][27]
 
-[20A][28] [Marine Farming Permit 364 for Waikato Communal Area][28]
+[20A][28][][28][Marine Farming Permit 364 for Waikato Communal Area][28]
 
-[21][29] [Certain spat catching permits deemed to be coastal permits][29]
+[21][29][][29][Certain spat catching permits deemed to be coastal permits][29]
 
-[22][30] [Provision of records to regional councils][30]
+[22][30][][30][Provision of records to regional councils][30]
 
-[23][31] [Regional councils may charge for review][31]
+[23][31][][31][Regional councils may charge for review][31]
 
-[24][32] [Objections to decisions made under sections 20(3) and 21(3)][32] \[Repealed\]
+[24][32][][32][Objections to decisions made under sections 20(3) and 21(3)][32] \[Repealed\]
 
-[25][33] [Completion of certain matters pending at commencement of Act][33]
+[25][33][][33][Completion of certain matters pending at commencement of Act][33]
 
-[25A][34] [Assessment of effect on fishing of applications pending at commencement of Act][34]
+[25A][34][][34][Assessment of effect on fishing of applications pending at commencement of Act][34]
 
-[25B][35] [Information and matters to be considered in relation to applications to which section 25A applies][35]
+[25B][35][][35][Information and matters to be considered in relation to applications to which section 25A applies][35]
 
-[26][36] [Applications after commencement of Act][36]
+[26][36][][36][Applications after commencement of Act][36]
 
-[26A][37] [Assessment of effect on fishing of applications after commencement of Act][37]
+[26A][37][][37][Assessment of effect on fishing of applications after commencement of Act][37]
 
-[26B][38] [Information and matters to be considered in relation to applications to which section 26A applies][38]
+[26B][38][][38][Information and matters to be considered in relation to applications to which section 26A applies][38]
 
-[27][39] [Order of processing applications and request for aquaculture decision in relation to interim aquaculture management area][39]
+[27][39][][39][Order of processing applications and request for aquaculture decision in relation to interim aquaculture management area][39]
 
-[28][40] [Lapsing of parts of coastal permit][40]
+[28][40][][40][Lapsing of parts of coastal permit][40]
 
-[29][41] [Holder of deemed coastal permit to be treated as holder of fish farmer registration pending registration by chief executive][41]
+[29][41][][41][Holder of deemed coastal permit to be treated as holder of fish farmer registration pending registration by chief executive][41]
 
-[30][42] [Application to register fish farmer deferred pending decision on permit][42]
+[30][42][][42][Application to register fish farmer deferred pending decision on permit][42]
 
-[31][43] [Application to register as fish farmer to be declined if marine farming permit or spat catching permit declined][43]
+[31][43][][43][Application to register as fish farmer to be declined if marine farming permit or spat catching permit declined][43]
 
-[32][44] [Levies][44]
+[32][44][][44][Levies][44]
 
 [Revocation][45]
 
-[33][46] [Revocation of Freshwater Fish Farming Regulations 1983][46]
+[33][46][][46][Revocation of Freshwater Fish Farming Regulations 1983][46]
 
 [Transitional provisions relating to end of moratorium under Resource Management Act 1991][47]
 
-[34][48] [Resource Management Act 1991 called principal Act in sections 35 to 54][48]
+[34][48][][48][Resource Management Act 1991 called principal Act in sections 35 to 54][48]
 
 [Interim aquaculture management areas][49]
 
-[35][50] [Interpretation][50]
+[35][50][][50][Interpretation][50]
 
-[36][51] [Interim aquaculture management areas declared by Order in Council][51]
+[36][51][][51][Interim aquaculture management areas declared by Order in Council][51]
 
-[37][52] [Application for aquaculture decision in relation to interim aquaculture management area][52]
+[37][52][][52][Application for aquaculture decision in relation to interim aquaculture management area][52]
 
-[38][53] [Chief executive to make aquaculture decision][53]
+[38][53][][53][Chief executive to make aquaculture decision][53]
 
-[39][54] [Aquaculture decisions must not be made in relation to certain areas][54]
+[39][54][][54][Aquaculture decisions must not be made in relation to certain areas][54]
 
-[40][55] [Matters to be considered by chief executive][55]
+[40][55][][55][Matters to be considered by chief executive][55]
 
-[41][56] [Requirements for aquaculture decision][56]
+[41][56][][56][Requirements for aquaculture decision][56]
 
-[42][57] [Aquaculture decisions made after commencement of Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][57]
+[42][57][][57][Aquaculture decisions made after commencement of Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][57]
 
-[43][58] [Judicial review of aquaculture decision][58]
+[43][58][][58][Judicial review of aquaculture decision][58]
 
-[43A][59] [Applications in interim aquaculture management area][59]
+[43A][59][][59][Applications in interim aquaculture management area][59]
 
-[44][60] [Effect of aquaculture decision in relation to interim aquaculture management area][60]
+[44][60][][60][Effect of aquaculture decision in relation to interim aquaculture management area][60]
 
 [Allocation of authorisations to trustee][61]
 
-[44A][62] [Overview of sections 44B to 44L][62]
+[44A][62][][62][Overview of sections 44B to 44L][62]
 
-[44B][63] [Notifications of period to negotiate and enter into agreement about 20% space][63]
+[44B][63][][63][Notifications of period to negotiate and enter into agreement about 20% space][63]
 
-[44C][64] [Trustee to notify iwi aquaculture organisations of notice received from regional council][64]
+[44C][64][][64][Trustee to notify iwi aquaculture organisations of notice received from regional council][64]
 
-[44D][65] [Position at conclusion of negotiations][65]
+[44D][65][][65][Position at conclusion of negotiations][65]
 
-[44E][66] [Allocation of authorisations to trustee][66]
+[44E][66][][66][Allocation of authorisations to trustee][66]
 
-[44F][67] [Space to be allocated must be of economic size][67]
+[44F][67][][67][Space to be allocated must be of economic size][67]
 
-[44G][68] [Allocation of authorisations to trustee in relation to staged developments and harbours][68]
+[44G][68][][68][Allocation of authorisations to trustee in relation to staged developments and harbours][68]
 
-[44H][69] [Appeal to Environment Court against regional council's decision][69]
+[44H][69][][69][Appeal to Environment Court against regional council's decision][69]
 
-[44I][70] [Application for coastal permits for occupation of space referred to in section 44A(1) subject to reservation relating to commercial fishing for stocks subject to quota management system][70]
+[44I][70][][70][Application for coastal permits for occupation of space referred to in section 44A(1) subject to reservation relating to commercial fishing for stocks subject to quota management system][70]
 
-[44J][71] [Time within which iwi aquaculture organisation may lodge aquaculture agreement or compensation declaration if trustee not authorised to enter into aquaculture agreement or provide compensation][71]
+[44J][71][][71][Time within which iwi aquaculture organisation may lodge aquaculture agreement or compensation declaration if trustee not authorised to enter into aquaculture agreement or provide compensation][71]
 
-[44K][72] [Time within which trustee may lodge aquaculture agreement or compensation declaration on behalf of all recognised iwi aquaculture organisations concerned][72]
+[44K][72][][72][Time within which trustee may lodge aquaculture agreement or compensation declaration on behalf of all recognised iwi aquaculture organisations concerned][72]
 
-[44L][73] [When authorisations allocated to trustee lapse][73]
+[44L][73][][73][When authorisations allocated to trustee lapse][73]
 
 [Gazetted aquaculture areas][74]
 
-[44M][75] [Areas that became aquaculture management areas before commencement of Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 become _Gazetted_ aquaculture areas ][75]
+[44M][75][][75][Areas that became aquaculture management areas before commencement of Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 become _Gazetted_ aquaculture areas ][75]
 
-[44N][76] [Further provisions relating to _Gazetted_ aquaculture areas][76]
+[44N][76][][76][Further provisions relating to _Gazetted_ aquaculture areas][76]
 
-[44O][77] [Special provisions in relation to regional coastal plan of Waikato Regional Council][77]
+[44O][77][][77][Special provisions in relation to regional coastal plan of Waikato Regional Council][77]
 
 [Deemed aquaculture management areas][78]
 
-[45][79] [Status of former deemed aquaculture management areas][79]
+[45][79][][79][Status of former deemed aquaculture management areas][79]
 
 [Existing applications and coastal permits][80]
 
-[46][81] [Pending applications where moratorium ends before 31 December 2004][81]
+[46][81][][81][Pending applications where moratorium ends before 31 December 2004][81]
 
-[47][82] [Pending applications where moratorium ends on close of 31 December 2004][82]
+[47][82][][82][Pending applications where moratorium ends on close of 31 December 2004][82]
 
-[47A][83] [Applications made from 1 January 2005 to 10 May 2006][83]
+[47A][83][][83][Applications made from 1 January 2005 to 10 May 2006][83]
 
-[47B][84] [Processing of applications that sections 47 and 47A apply to][84]
+[47B][84][][84][Processing of applications that sections 47 and 47A apply to][84]
 
-[47C][85] [Some applications for coastal permits must be cancelled][85]
+[47C][85][][85][Some applications for coastal permits must be cancelled][85]
 
-[47D][86] [Applications for coastal permits for aquaculture activities in deemed aquaculture management area made before but not finally disposed of at commencement of Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][86]
+[47D][86][][86][Applications for coastal permits for aquaculture activities in deemed aquaculture management area made before but not finally disposed of at commencement of Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][86]
 
-[47E][87] [Applications for coastal permits for aquaculture activities in aquaculture management area being processed at commencement of Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][87]
+[47E][87][][87][Applications for coastal permits for aquaculture activities in aquaculture management area being processed at commencement of Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][87]
 
-[47F][88] [Processing of certain applications deferred][88]
+[47F][88][][88][Processing of certain applications deferred][88]
 
-[48][89] [Certain coastal permits granted during moratorium not to be exercised until end of moratorium][89]
+[48][89][][89][Certain coastal permits granted during moratorium not to be exercised until end of moratorium][89]
 
-[49][90] [Preferential right for deemed permit holder to apply for coastal permit for occupation][90]
+[49][90][][90][Preferential right for deemed permit holder to apply for coastal permit for occupation][90]
 
 [Pre-moratorium and pre-commencement applications for coastal permits][91]
 
-[50][92] [Pre-moratorium and pre-commencement applications for coastal permits not subject to moratorium][92]
+[50][92][][92][Pre-moratorium and pre-commencement applications for coastal permits not subject to moratorium][92]
 
-[50A][93] [Assessment of effect on fishing of applications to which section 50(3) applies][93]
+[50A][93][][93][Assessment of effect on fishing of applications to which section 50(3) applies][93]
 
-[50B][94] [Information and matters to be considered in relation to applications to which section 50A applies][94]
+[50B][94][][94][Information and matters to be considered in relation to applications to which section 50A applies][94]
 
-[51][95] [Regional council must request aquaculture decision if application for coastal permit declined or withdrawn][95]
+[51][95][][95][Regional council must request aquaculture decision if application for coastal permit declined or withdrawn][95]
 
-[52][96] [Areas excluded from interim aquaculture management area][96] \[Repealed\]
+[52][96][][96][Areas excluded from interim aquaculture management area][96] \[Repealed\]
 
 [Review of off-site farms][97]
 
-[53][98] [Off-site farms][98]
+[53][98][][98][Off-site farms][98]
 
-[54][99] [Consent authority may initiate review of off-site farms][99]
+[54][99][][99][Consent authority may initiate review of off-site farms][99]
 
 [General][100]
 
-[55][101] [Transitional provision relating to requirements to keep records and returns][101]
+[55][101][][101][Transitional provision relating to requirements to keep records and returns][101]
 
-[56][102] [Restriction on erection of structures in coastal marine area][102]
+[56][102][][102][Restriction on erection of structures in coastal marine area][102]
 
-[57][103] [Regulations][103] \[Expired\]
+[57][103][][103][Regulations][103] \[Expired\]
 
-[58][104] [Expiry of section 57][104]
+[58][104][][104][Expiry of section 57][104]
 
 [Schedule 1][105]  
-[Marine Farming Permit 364 (Waikato Communal Area) ][105]
+[Marine Farming Permit 364 (Waikato Communal Area)][105]
 
 [Schedule 2][106]  
 [Aquaculture agreements and compensation declarations][106]
@@ -622,15 +622,17 @@ This Act is administered by the Ministry for the Environment.
     
     (7) Nothing in this section prevents the consent authority from reviewing the conditions of the coastal permit in terms of [section 128][123] (other than subsection (1)(c)) of the Resource Management Act 1991\.
     
-    (8) In this section, the _Waikato Communal Area_ means the rectangular 22.5 hectare (more or less) coastal marine area to the east of Esk Point in the Coromandel Harbour, more particularly described as commencing at a point bearing 325° 805 metres from Trig 238 Tuhana and bounded by the lines running 90° for 750 metres, 360° for 300 metres, 270° for 750 metres, and 180° for 300 metres to the point of commencement.
+    (8) In this section, the _Waikato Communal Area_ means the rectangular 22.5 hectare (more or less) coastal marine area to the east of Esk Point in the Coromandel Harbour, more particularly described as commencing at a point bearing 352° 805 metres from Trig 23B Tuhana and bounded by the lines running 90° for 750 metres, 360° for 300 metres, 270° for 750 metres, and 180° for 300 metres to the point of commencement.
     
     Section 20A: inserted, on 1 October 2011, by [section 10][138] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    
+    Section 20A(8): amended, on 5 December 2013, by [section 4][139] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2013 (2013 No 107).
 
 ##### 21 Certain spat catching permits deemed to be coastal permits
     
 *   (1) This section applies to every spat catching permit that---
         
-    *   (a) has been granted under [section 67Q(2)][139] of the principal Act; and
+    *   (a) has been granted under [section 67Q(2)][140] of the principal Act; and
     
     *   (b) is in force immediately before the commencement of this Act.
     
@@ -662,19 +664,19 @@ This Act is administered by the Ministry for the Environment.
     
     (7) A coastal permit referred to in subsection (2) does not, of itself, authorise the holder to occupy a coastal marine area.
     
-    Section 21(3): substituted, on 1 October 2011, by [section 11(1)][140] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 21(3): substituted, on 1 October 2011, by [section 11(1)][141] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 21(3A): inserted, on 1 October 2011, by [section 11(1)][140] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 21(3A): inserted, on 1 October 2011, by [section 11(1)][141] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 21(3B): inserted, on 1 October 2011, by [section 11(1)][140] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 21(3B): inserted, on 1 October 2011, by [section 11(1)][141] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 21(3C): inserted, on 1 October 2011, by [section 11(1)][140] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 21(3C): inserted, on 1 October 2011, by [section 11(1)][141] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 21(4): substituted, on 1 October 2011, by [section 11(2)][140] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 21(4): substituted, on 1 October 2011, by [section 11(2)][141] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 21(5): substituted, on 1 October 2011, by [section 11(2)][140] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 21(5): substituted, on 1 October 2011, by [section 11(2)][141] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 21(5A): inserted, on 1 October 2011, by [section 11(2)][140] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 21(5A): inserted, on 1 October 2011, by [section 11(2)][141] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 22 Provision of records to regional councils
     
@@ -682,13 +684,13 @@ This Act is administered by the Ministry for the Environment.
 
 ##### 23 Regional councils may charge for review
     
-*   [Section 36][141] of the Resource Management Act 1991 applies in relation to the functions of a consent authority under [sections 10][13], [20][27], and [21][29] as if a review under any of those sections were a review under [section 128][123] of the Resource Management Act 1991\.
+*   [Section 36][142] of the Resource Management Act 1991 applies in relation to the functions of a consent authority under [sections 10][13], [20][27], and [21][29] as if a review under any of those sections were a review under [section 128][123] of the Resource Management Act 1991\.
 
 ##### 24 Objections to decisions made under sections 20(3) and 21(3)
     
 *   \[Repealed\]
     
-    Section 24: repealed, on 1 October 2011, by [section 12][142] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 24: repealed, on 1 October 2011, by [section 12][143] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 25 Completion of certain matters pending at commencement of Act
     
@@ -706,29 +708,29 @@ This Act is administered by the Ministry for the Environment.
         
     *   (a) an application under [section 67J][135] of the principal Act for a marine fanning permit:
     
-    *   (b) an application under [section 67Q(2)][139] of the principal Act for a spat catching permit:
+    *   (b) an application under [section 67Q(2)][140] of the principal Act for a spat catching permit:
     
-    *   (c) an application under [section 67K][143] of the principal Act to change or cancel any of the conditions of a marine farming permit or a spat catching permit, or to add new conditions to the permit.
+    *   (c) an application under [section 67K][144] of the principal Act to change or cancel any of the conditions of a marine farming permit or a spat catching permit, or to add new conditions to the permit.
     
-    (4) A notice of surrender under [section 67O][144] of the principal Act forwarded before but not processed at the commencement of this Act must be processed as if this Act had not been passed.
+    (4) A notice of surrender under [section 67O][145] of the principal Act forwarded before but not processed at the commencement of this Act must be processed as if this Act had not been passed.
     
-    (5) A review under [section 67P][145] of the principal Act that has not been completed at the commencement of this Act must be completed as if this Act had not been passed.
+    (5) A review under [section 67P][146] of the principal Act that has not been completed at the commencement of this Act must be completed as if this Act had not been passed.
     
     (6) On and from the date on which a matter referred to in this section is completed under the principal Act,---
         
     *   (a) [section 20][27] applies to the permit if it is a marine farming permit granted under [section 67J][135] of the principal Act:
     
-    *   (b) [section 21][29] applies to the permit if it is a spat catching permit granted under [section 67Q(2)][139] of the principal Act.
+    *   (b) [section 21][29] applies to the permit if it is a spat catching permit granted under [section 67Q(2)][140] of the principal Act.
     
     (7) For the purposes of subsection (6), [sections 20][27] and [21][29] apply as if every reference in those sections to the commencement of this Act were a reference to the date on which the application was granted.
     
-    (8) A coastal permit granted to a person who has made an application referred to in subsection (3), and that is for the same space and activity as a coastal permit or certificate of compliance referred to in subsection (2), is not invalid because the application in respect of which the coastal permit was granted did not comply with [section 12A(1A)][146] of the Resource Management Act 1991 as in force at the time the permit was granted.
+    (8) A coastal permit granted to a person who has made an application referred to in subsection (3), and that is for the same space and activity as a coastal permit or certificate of compliance referred to in subsection (2), is not invalid because the application in respect of which the coastal permit was granted did not comply with [section 12A(1A)][147] of the Resource Management Act 1991 as in force at the time the permit was granted.
     
-    Section 25(1): substituted, on 1 October 2011, by [section 13(1)][147] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 25(1): substituted, on 1 October 2011, by [section 13(1)][148] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 25(1A): inserted, on 1 October 2011, by [section 13(1)][147] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 25(1A): inserted, on 1 October 2011, by [section 13(1)][148] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 25(8): added, on 1 October 2011, by [section 13(2)][147] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 25(8): added, on 1 October 2011, by [section 13(2)][148] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 25A Assessment of effect on fishing of applications pending at commencement of Act
     
@@ -752,11 +754,11 @@ This Act is administered by the Ministry for the Environment.
     
     (4) The chief executive must---
         
-    *   (a) grant the application under [section 67J][135], [67K][143], or [67Q][139] of the principal Act (as the case may require) if the chief executive is satisfied that the activities contemplated by the application would not have an undue adverse effect on fishing; but
+    *   (a) grant the application under [section 67J][135], [67K][144], or [67Q][140] of the principal Act (as the case may require) if the chief executive is satisfied that the activities contemplated by the application would not have an undue adverse effect on fishing; but
     
-    *   (b) decline the application under [section 67J][135], [67K][143], or [67Q][139] of the principal Act (as the case may require) if the chief executive is not satisfied that the activities contemplated by the application would not have an undue adverse effect on fishing.
+    *   (b) decline the application under [section 67J][135], [67K][144], or [67Q][140] of the principal Act (as the case may require) if the chief executive is not satisfied that the activities contemplated by the application would not have an undue adverse effect on fishing.
     
-    (5) However, the chief executive must defer making a decision whether to grant or decline the application under [section 67J][135], [67K][143], or [67Q][139] of the principal Act (as the case may require) if---
+    (5) However, the chief executive must defer making a decision whether to grant or decline the application under [section 67J][135], [67K][144], or [67Q][140] of the principal Act (as the case may require) if---
         
     *   (a) the chief executive is satisfied that the activities contemplated by the application would not have an undue adverse effect on fishing other than commercial fishing; but
     
@@ -786,33 +788,33 @@ This Act is administered by the Ministry for the Environment.
     
     (9) The chief executive must decline the application, if the applicant does not lodge---
         
-    *   (a) an aquaculture agreement with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under [section 186ZI(4)][148] of the Fisheries Act 1996; or
+    *   (a) an aquaculture agreement with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under [section 186ZI(4)][149] of the Fisheries Act 1996; or
     
-    *   (b) a compensation declaration with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under [section 186ZIA(4)][149] of the Fisheries Act 1996\.
+    *   (b) a compensation declaration with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under [section 186ZIA(4)][150] of the Fisheries Act 1996\.
     
     (10) The chief executive must grant the application and issue the permit if the applicant lodges---
         
-    *   (a) an aquaculture agreement with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under [section 186ZI(4)][148] of the Fisheries Act 1996; or
+    *   (a) an aquaculture agreement with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under [section 186ZI(4)][149] of the Fisheries Act 1996; or
     
-    *   (b) a compensation declaration with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under [section 186ZIA(4)][149] of the Fisheries Act 1996\.
+    *   (b) a compensation declaration with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under [section 186ZIA(4)][150] of the Fisheries Act 1996\.
     
     (11) For the purposes of this section, the reference in [section 67J(10)][135] of the principal Act to ""adverse effects on fishing or the sustainability of any fisheries resource"" must be read as if it were a reference to ""adverse effects on fishing"". 
     
-    (12) Any person wishing to seek, under [Part 1][150] of the Judicature Amendment Act 1972, judicial review of a decision under this section must do so within 30 working days after the public notification of the decision.
+    (12) Any person wishing to seek, under [Part 1][151] of the Judicature Amendment Act 1972, judicial review of a decision under this section must do so within 30 working days after the public notification of the decision.
     
-    (13) The provisions of [Part 1][151] of Schedule 2 have effect in relation to aquaculture agreements and compensation.
+    (13) The provisions of [Part 1][152] of Schedule 2 have effect in relation to aquaculture agreements and compensation.
     
     (14) In this section,---
     
-    _aquaculture agreement_ means an agreement that complies with [subpart 4][152] of Part 9A of the Fisheries Act 1996, subject to the modifications set out in [Part 1][151] of Schedule 2
+    _aquaculture agreement_ means an agreement that complies with [subpart 4][153] of Part 9A of the Fisheries Act 1996, subject to the modifications set out in [Part 1][152] of Schedule 2
     
-    _commercial fishing_ means the fishing, authorised by a permit issued under [section 91][153] of the Fisheries Act 1996, of stocks subject to the quota management system
+    _commercial fishing_ means the fishing, authorised by a permit issued under [section 91][154] of the Fisheries Act 1996, of stocks subject to the quota management system
     
-    _compensation declaration_ means a statutory declaration that complies with [subpart 4][152] of Part 9A of the Fisheries Act 1996, subject to the modifications set out in [Part 1][151] of Schedule 2
+    _compensation declaration_ means a statutory declaration that complies with [subpart 4][153] of Part 9A of the Fisheries Act 1996, subject to the modifications set out in [Part 1][152] of Schedule 2
     
     _public notification_ has the same meaning as in [section 2(1)][116] of the Fisheries Act 1996\.
     
-    Section 25A: inserted, on 1 October 2011, by [section 14][154] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 25A: inserted, on 1 October 2011, by [section 14][155] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 25B Information and matters to be considered in relation to applications to which section 25A applies
     
@@ -842,7 +844,7 @@ This Act is administered by the Ministry for the Environment.
     
     (3) This section applies subject to [section 25A(3)][34].
     
-    Section 25B: inserted, on 1 October 2011, by [section 14][154] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 25B: inserted, on 1 October 2011, by [section 14][155] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 26 Applications after commencement of Act
     
@@ -860,7 +862,7 @@ This Act is administered by the Ministry for the Environment.
             
         *   (i) under [section 67J][135] of the principal Act for a marine farming permit for the same area and the same species of fish, aquatic life, or seaweed that the coastal permit or certificate of compliance relates to; or
         
-        *   (ii) under [section 67Q(2)][139] of the principal Act for a spat catching permit for the same area and the same species of fish, aquatic life, or seaweed that the coastal permit or certificate of compliance relates to.
+        *   (ii) under [section 67Q(2)][140] of the principal Act for a spat catching permit for the same area and the same species of fish, aquatic life, or seaweed that the coastal permit or certificate of compliance relates to.
         
         
     
@@ -888,21 +890,21 @@ This Act is administered by the Ministry for the Environment.
     
     *   (b) a coastal permit to occupy the same space on the same terms that was granted by a consent authority before the expiry of the consent referred to in paragraph (a).
     
-    (9) A coastal permit referred to in subsection (8)(b) is not invalid because the application in respect of which it was granted did not comply with [section 12A(1A)][146] of the Resource Management Act 1991 as in force at the time the permit was granted.
+    (9) A coastal permit referred to in subsection (8)(b) is not invalid because the application in respect of which it was granted did not comply with [section 12A(1A)][147] of the Resource Management Act 1991 as in force at the time the permit was granted.
     
-    Section 26(2): substituted, on 1 October 2011, by [section 15(1)][155] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 26(2): substituted, on 1 October 2011, by [section 15(1)][156] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 26(2A): inserted, on 1 October 2011, by [section 15(1)][155] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 26(2A): inserted, on 1 October 2011, by [section 15(1)][156] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 26(5): added, on 1 October 2011, by [section 15(2)][155] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 26(5): added, on 1 October 2011, by [section 15(2)][156] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 26(6): added, on 1 October 2011, by [section 15(2)][155] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 26(6): added, on 1 October 2011, by [section 15(2)][156] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 26(7): added, on 1 October 2011, by [section 15(2)][155] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 26(7): added, on 1 October 2011, by [section 15(2)][156] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 26(8): added, on 1 October 2011, by [section 15(2)][155] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 26(8): added, on 1 October 2011, by [section 15(2)][156] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 26(9): added, on 1 October 2011, by [section 15(2)][155] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 26(9): added, on 1 October 2011, by [section 15(2)][156] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 26A Assessment of effect on fishing of applications after commencement of Act
     
@@ -926,11 +928,11 @@ This Act is administered by the Ministry for the Environment.
     
     (4) The chief executive must---
         
-    *   (a) grant the application under [section 67J][135] or [67Q][139] of the principal Act (as the case may require) if the chief executive is satisfied that the activities contemplated by the application would not have an undue adverse effect on fishing; but
+    *   (a) grant the application under [section 67J][135] or [67Q][140] of the principal Act (as the case may require) if the chief executive is satisfied that the activities contemplated by the application would not have an undue adverse effect on fishing; but
     
-    *   (b) decline the application under [section 67J][135] or [67Q][139] of the principal Act (as the case may require) if the chief executive is not satisfied that the activities contemplated by the application would not have an undue adverse effect on fishing.
+    *   (b) decline the application under [section 67J][135] or [67Q][140] of the principal Act (as the case may require) if the chief executive is not satisfied that the activities contemplated by the application would not have an undue adverse effect on fishing.
     
-    (5) However, the chief executive must defer making a decision whether to grant or decline the application under [section 67J][135] or [67Q][139] of the principal Act (as the case may require) if---
+    (5) However, the chief executive must defer making a decision whether to grant or decline the application under [section 67J][135] or [67Q][140] of the principal Act (as the case may require) if---
         
     *   (a) the chief executive is satisfied that the activities contemplated by the application would not have an undue adverse effect on fishing other than commercial fishing; but
     
@@ -960,33 +962,33 @@ This Act is administered by the Ministry for the Environment.
     
     (9) The chief executive must decline the application, if the applicant does not lodge---
         
-    *   (a) an aquaculture agreement with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under [section 186ZI(4)][148] of the Fisheries Act 1996; or
+    *   (a) an aquaculture agreement with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under [section 186ZI(4)][149] of the Fisheries Act 1996; or
     
-    *   (b) a compensation declaration with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under [section 186ZIA(4)][149] of the Fisheries Act 1996\.
+    *   (b) a compensation declaration with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under [section 186ZIA(4)][150] of the Fisheries Act 1996\.
     
     (10) The chief executive must grant the application and issue the permit if the applicant lodges---
         
-    *   (a) an aquaculture agreement with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under [section 186ZI(4)][148] of the Fisheries Act 1996; or
+    *   (a) an aquaculture agreement with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under [section 186ZI(4)][149] of the Fisheries Act 1996; or
     
-    *   (b) a compensation declaration with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under [section 186ZIA(4)][149] of the Fisheries Act 1996\.
+    *   (b) a compensation declaration with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under [section 186ZIA(4)][150] of the Fisheries Act 1996\.
     
     (11) For the purposes of this section, the reference in [section 67J(10)][135] of the principal Act to ""adverse effects on fishing or the sustainability of any fisheries resource"" must be read as if it were a reference to ""adverse effects on fishing"". 
     
-    (12) Any person wishing to seek, under [Part 1][150] of the Judicature Amendment Act 1972, judicial review of a decision under this section must do so within 30 working days after the public notification of the decision.
+    (12) Any person wishing to seek, under [Part 1][151] of the Judicature Amendment Act 1972, judicial review of a decision under this section must do so within 30 working days after the public notification of the decision.
     
-    (13) The provisions of [Part 1][151] of Schedule 2 have effect in relation to aquaculture agreements and compensation.
+    (13) The provisions of [Part 1][152] of Schedule 2 have effect in relation to aquaculture agreements and compensation.
     
     (14) In this section,---
     
-    _aquaculture agreement_ means an agreement that complies with [subpart 4][152] of Part 9A of the Fisheries Act 1996, subject to the modifications set out in [Part 1][151] of Schedule 2
+    _aquaculture agreement_ means an agreement that complies with [subpart 4][153] of Part 9A of the Fisheries Act 1996, subject to the modifications set out in [Part 1][152] of Schedule 2
     
-    _commercial fishing_ means the fishing, authorised by a permit issued under [section 91][153] of the Fisheries Act 1996, of stocks subject to the quota management system
+    _commercial fishing_ means the fishing, authorised by a permit issued under [section 91][154] of the Fisheries Act 1996, of stocks subject to the quota management system
     
-    _compensation declaration_ means a statutory declaration that complies with [subpart 4][152] of Part 9A of the Fisheries Act 1996, subject to the modifications set out in [Part 1][151] of Schedule 2
+    _compensation declaration_ means a statutory declaration that complies with [subpart 4][153] of Part 9A of the Fisheries Act 1996, subject to the modifications set out in [Part 1][152] of Schedule 2
     
     _public notification_ has the same meaning as in [section 2(1)][116] of the Fisheries Act 1996\.
     
-    Section 26A: inserted, on 1 October 2011, by [section 16][156] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 26A: inserted, on 1 October 2011, by [section 16][157] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 26B Information and matters to be considered in relation to applications to which section 26A applies
     
@@ -1016,15 +1018,15 @@ This Act is administered by the Ministry for the Environment.
     
     (3) This section applies subject to [section 26A(3)][37].
     
-    Section 26B: inserted, on 1 October 2011, by [section 16][156] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 26B: inserted, on 1 October 2011, by [section 16][157] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 27 Order of processing applications and request for aquaculture decision in relation to interim aquaculture management area
     
 *   (1) This section applies in relation to an interim aquaculture management area in respect of which there are---
         
-    *   (a) 1 or more applications for permits under [section 67J][135] or [section 67Q(2)][139] of the principal Act; and
+    *   (a) 1 or more applications for permits under [section 67J][135] or [section 67Q(2)][140] of the principal Act; and
     
-    *   (b) a request for an aquaculture decision under [section 186D][157] of the Fisheries Act 1996 or [section 37][52] of this Act.
+    *   (b) a request for an aquaculture decision under [section 186D][158] of the Fisheries Act 1996 or [section 37][52] of this Act.
     
     (2) The applications for permits and request for an aquaculture decision must be dealt with in the following order:
         
@@ -1034,11 +1036,11 @@ This Act is administered by the Ministry for the Environment.
     
     *   (c) third, any application for a permit received after the request for an aquaculture decision.
     
-    Section 27 heading: amended, on 1 October 2011, by [section 17(1)][158] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 27 heading: amended, on 1 October 2011, by [section 17(1)][159] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 27(1): amended, on 1 October 2011, by [section 17(2)][158] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 27(1): amended, on 1 October 2011, by [section 17(2)][159] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 27(1)(b): amended, on 1 October 2011, by [section 17(3)][158] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 27(1)(b): amended, on 1 October 2011, by [section 17(3)][159] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 28 Lapsing of parts of coastal permit
     
@@ -1076,7 +1078,7 @@ This Act is administered by the Ministry for the Environment.
 
 ##### 30 Application to register fish farmer deferred pending decision on permit
     
-*   (1) The chief executive must not grant or decline an application under [section 186S][159] of the Fisheries Act 1996 to register a fish farmer if---
+*   (1) The chief executive must not grant or decline an application under [section 186S][160] of the Fisheries Act 1996 to register a fish farmer if---
         
     *   (a) the applicant has a resource consent to use the space concerned as a fish farm that was granted---
             
@@ -1088,25 +1090,25 @@ This Act is administered by the Ministry for the Environment.
     
     *   (b) the applicant---
             
-        *   (i) has not made an application under [section 67J][135] or [section 67Q(2)][139] of the Fisheries Act 1983 for the area, or part of the area, to which the resource consent relates; or
+        *   (i) has not made an application under [section 67J][135] or [section 67Q(2)][140] of the Fisheries Act 1983 for the area, or part of the area, to which the resource consent relates; or
         
-        *   (ii) has made an application under [section 67J][135] or [section 67Q(2)][139] of the Fisheries Act 1983 for the area, or part of the area, to which the resource consent relates, but the chief executive has not granted or declined the application.
+        *   (ii) has made an application under [section 67J][135] or [section 67Q(2)][140] of the Fisheries Act 1983 for the area, or part of the area, to which the resource consent relates, but the chief executive has not granted or declined the application.
         
         
     
-    (2) If the applicant makes or has made an application under [section 67J][135] or [section 67Q(2)][139] of the Fisheries Act 1983 and the application is granted, the chief executive may proceed to grant or decline the application under [section 186S][159] of the Fisheries Act 1996 to register the applicant as a fish farmer.
+    (2) If the applicant makes or has made an application under [section 67J][135] or [section 67Q(2)][140] of the Fisheries Act 1983 and the application is granted, the chief executive may proceed to grant or decline the application under [section 186S][160] of the Fisheries Act 1996 to register the applicant as a fish farmer.
     
-    (3) This section does not prevent the chief executive from granting or declining an application under [section 186S][159] of the Fisheries Act 1996 if the applicant has had an application under [section 67J][135] or [section 67Q(2)][139] of the Fisheries Act 1983 granted in respect of other space and this section does not otherwise apply in relation to that space.
+    (3) This section does not prevent the chief executive from granting or declining an application under [section 186S][160] of the Fisheries Act 1996 if the applicant has had an application under [section 67J][135] or [section 67Q(2)][140] of the Fisheries Act 1983 granted in respect of other space and this section does not otherwise apply in relation to that space.
 
 ##### 31 Application to register as fish farmer to be declined if marine farming permit or spat catching permit declined
     
-*   (1) The chief executive must decline an application under [section 186S][159] of the Fisheries Act 1996 to register a fish farmer if the applicant---
+*   (1) The chief executive must decline an application under [section 186S][160] of the Fisheries Act 1996 to register a fish farmer if the applicant---
         
-    *   (a) has made an application under [section 67J][135] or [section 67Q(2)][139] of the Fisheries Act 1983 for the area or part of the area to which the resource consent relates; and
+    *   (a) has made an application under [section 67J][135] or [section 67Q(2)][140] of the Fisheries Act 1983 for the area or part of the area to which the resource consent relates; and
     
     *   (b) the chief executive has declined the application.
     
-    (2) This section does not prevent the chief executive from granting or declining an application under [section 186S][159] of the Fisheries Act 1996 if the applicant has had an application under [section 67J][135] or [section 67Q(2)][139] of the Fisheries Act 1983 granted in respect of other space.
+    (2) This section does not prevent the chief executive from granting or declining an application under [section 186S][160] of the Fisheries Act 1996 if the applicant has had an application under [section 67J][135] or [section 67Q(2)][140] of the Fisheries Act 1983 granted in respect of other space.
 
 ##### 32 Levies
     
@@ -1114,7 +1116,7 @@ This Act is administered by the Ministry for the Environment.
         
     *   (a) a marine farming permit under [section 67J][135] of the Fisheries Act 1983; or
     
-    *   (b) a spat catching permit under [section 67Q(2)][139] of the Fisheries Act 1983\.
+    *   (b) a spat catching permit under [section 67Q(2)][140] of the Fisheries Act 1983\.
     
     (2) A levy or fee that is, immediately before the commencement of this Act, payable but unpaid remains payable even though the permit is deemed to be a coastal permit under [section 20][27] or [section 21][29].
 
@@ -1122,19 +1124,19 @@ This Act is administered by the Ministry for the Environment.
 
 ##### 33 Revocation of Freshwater Fish Farming Regulations 1983
     
-*   (1) The [Freshwater Fish Farming Regulations 1983][160] (SR 1983/278) are revoked.
+*   (1) The [Freshwater Fish Farming Regulations 1983][161] (SR 1983/278) are revoked.
     
-    (2) All licences granted under the [Freshwater Fish Farming Regulations 1983][160] are revoked.
+    (2) All licences granted under the [Freshwater Fish Farming Regulations 1983][161] are revoked.
     
     (3) [Section 2(1)][116] of the Fisheries Act 1996 is amended by repealing paragraph (b) of the definitions of **fish farm** and **fish farmer**.
     
-    (4) [Sections 186ZA][161] and [301][162] of the Fisheries Act 1996 are repealed.
+    (4) [Sections 186ZA][162] and [301][163] of the Fisheries Act 1996 are repealed.
     
-    (5) On and from the commencement of this section the holder of a fish-farm licence immediately before the commencement of this section is to be treated as if the holder were registered as a fish farmer under [section 186S][159] of the Fisheries Act 1996\.
+    (5) On and from the commencement of this section the holder of a fish-farm licence immediately before the commencement of this section is to be treated as if the holder were registered as a fish farmer under [section 186S][160] of the Fisheries Act 1996\.
     
-    (6) The chief executive must, within 12 months after the commencement of this section, register without an application or payment of the prescribed fee the holder of a fish-farm licence under the [Freshwater Fish Farming Regulations 1983][160] immediately before the commencement of this section as a fish farmer in respect of the space that the licence relates to.
+    (6) The chief executive must, within 12 months after the commencement of this section, register without an application or payment of the prescribed fee the holder of a fish-farm licence under the [Freshwater Fish Farming Regulations 1983][161] immediately before the commencement of this section as a fish farmer in respect of the space that the licence relates to.
     
-    (7) An application for a fish-farm licence under [regulation 6][163] of the Freshwater Fish Farming Regulations 1983 made but not determined at the commencement of this section must be treated as if it were an application to register as a fish farmer under [section 186R][164] of the Fisheries Act 1996\.
+    (7) An application for a fish-farm licence under [regulation 6][164] of the Freshwater Fish Farming Regulations 1983 made but not determined at the commencement of this section must be treated as if it were an application to register as a fish farmer under [section 186R][165] of the Fisheries Act 1996\.
 
 #### Transitional provisions relating to end of moratorium under Resource Management Act 1991
 
@@ -1150,7 +1152,7 @@ This Act is administered by the Ministry for the Environment.
     
     _agreed space_ means space identified in an agreement under [sections 44B to 44D][63] for allocation to the trustee 
     
-    _aquaculture agreement_ means an aquaculture agreement that complies with [subpart 4][152] of Part 9A of the Fisheries Act 1996, subject to the modifications set out in [Part 2][165] or [3][166] of Schedule 2, as the case may require
+    _aquaculture agreement_ means an aquaculture agreement that complies with [subpart 4][153] of Part 9A of the Fisheries Act 1996, subject to the modifications set out in [Part 2][166] or [3][167] of Schedule 2, as the case may require
     
     _aquaculture decision_ means a determination or reservation
     
@@ -1158,7 +1160,7 @@ This Act is administered by the Ministry for the Environment.
     
     _commercial fishing_ has the same meaning as in [section 2(1)][116] of the Fisheries Act 1996
     
-    _compensation declaration_ means a statutory declaration that complies with [subpart 4][152] of Part 9A of the Fisheries Act 1996, subject to the modifications set out in [Part 2][165] or [3][166] of Schedule 2, as the case may require
+    _compensation declaration_ means a statutory declaration that complies with [subpart 4][153] of Part 9A of the Fisheries Act 1996, subject to the modifications set out in [Part 2][166] or [3][167] of Schedule 2, as the case may require
     
     _determination_, in relation to an interim aquaculture management area, means a decision by the chief executive that he or she is satisfied that the interim aquaculture management area will not have an undue adverse effect on fishing or on the sustainability of fisheries resources
     
@@ -1172,41 +1174,41 @@ This Act is administered by the Ministry for the Environment.
     
     _interim aquaculture management area_---
         
-    *   (a) means a coastal marine area described in an Order in Council made under [section 150C][167] of the principal Act or [section 36][51] of this Act; but
+    *   (a) means a coastal marine area described in an Order in Council made under [section 150C][168] of the principal Act or [section 36][51] of this Act; but
     
     *   (b) does not include a coastal marine area described in paragraph (a) that became an aquaculture management area under this Act before the commencement of the [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117]
     
-    _iwi aquaculture organisation_ means an iwi aquaculture organisation recognised under [section 33][168] of the Maori Commercial Aquaculture Claims Settlement Act 2004
+    _iwi aquaculture organisation_ means an iwi aquaculture organisation recognised under [section 33][169] of the Maori Commercial Aquaculture Claims Settlement Act 2004
     
-    _recognised iwi organisation_ has the same meaning as in [section 5][169] of the Maori Fisheries Act 2004
+    _recognised iwi organisation_ has the same meaning as in [section 5][170] of the Maori Fisheries Act 2004
     
     _reservation_, in relation to an interim aquaculture management area, means a decision by the chief executive that he or she is not satisfied that the interim aquaculture management area will not have an undue adverse effect on fishing or on the sustainability of fisheries resources.
     
-    _settlement assets_ has the same meaning as in [section 5][170] of the Maori Commercial Aquaculture Claims Settlement Act 2004 
+    _settlement assets_ has the same meaning as in [section 5][171] of the Maori Commercial Aquaculture Claims Settlement Act 2004 
     
-    _trustee_ means Te Ohu Kai Moana Trustee Limited, a company established in accordance with [section 33][171] of the Maori Fisheries Act 2004
+    _trustee_ means Te Ohu Kai Moana Trustee Limited, a company established in accordance with [section 33][172] of the Maori Fisheries Act 2004
     
-    Section 35 **agreed space**: inserted, on 1 October 2011, by [section 18(1)][172] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 35 **agreed space**: inserted, on 1 October 2011, by [section 18(1)][173] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 35 **aquaculture agreement**: inserted, on 1 October 2011, by [section 18(1)][172] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 35 **aquaculture agreement**: inserted, on 1 October 2011, by [section 18(1)][173] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 35 **commercial fishing**: inserted, on 1 October 2011, by [section 18(1)][172] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 35 **commercial fishing**: inserted, on 1 October 2011, by [section 18(1)][173] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 35 **compensation declaration**: inserted, on 1 October 2011, by [section 18(1)][172] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 35 **compensation declaration**: inserted, on 1 October 2011, by [section 18(1)][173] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 35 **_Gazetted_ aquaculture area**: inserted, on 1 October 2011, by [section 18(1)][172] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 35 **_Gazetted_ aquaculture area**: inserted, on 1 October 2011, by [section 18(1)][173] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 35 **identified space**: inserted, on 1 October 2011, by [section 18(1)][172] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 35 **identified space**: inserted, on 1 October 2011, by [section 18(1)][173] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 35 **interim aquaculture management area** paragraph (b): substituted, on 1 October 2011, by [section 18(2)][172] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 35 **interim aquaculture management area** paragraph (b): substituted, on 1 October 2011, by [section 18(2)][173] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 35 **iwi aquaculture organisation**: inserted, on 1 October 2011, by [section 18(1)][172] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 35 **iwi aquaculture organisation**: inserted, on 1 October 2011, by [section 18(1)][173] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 35 **recognised iwi organisation**: inserted, on 1 October 2011, by [section 18(1)][172] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 35 **recognised iwi organisation**: inserted, on 1 October 2011, by [section 18(1)][173] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 35 **settlement assets**: added, on 1 October 2011, by [section 18(1)][172] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 35 **settlement assets**: added, on 1 October 2011, by [section 18(1)][173] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 35 **trustee**: added, on 1 October 2011, by [section 18(1)][172] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 35 **trustee**: added, on 1 October 2011, by [section 18(1)][173] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 36 Interim aquaculture management areas declared by Order in Council
     
@@ -1218,7 +1220,7 @@ This Act is administered by the Ministry for the Environment.
     
     *   (b) a regional coastal plan or proposed regional coastal plan---
             
-        *   (i) has, before the commencement of this Act, been notified under [clause 5][173] of Schedule 1 of the principal Act; and
+        *   (i) has, before the commencement of this Act, been notified under [clause 5][174] of Schedule 1 of the principal Act; and
         
         *   (ii) applies to the coastal marine area to be described in the Order in Council; and
         
@@ -1236,7 +1238,7 @@ This Act is administered by the Ministry for the Environment.
     
     (3) The Minister must make a recommendation under subsection (1) within 3 months after receiving a request if the Minister is not prevented by subsection (2) from making the recommendation.
     
-    (4) For the purposes of subsection (3), [section 37][174] of the principal Act applies, with all necessary modifications, as if the Minister were acting as a consent authority.
+    (4) For the purposes of subsection (3), [section 37][175] of the principal Act applies, with all necessary modifications, as if the Minister were acting as a consent authority.
 
 ##### 37 Application for aquaculture decision in relation to interim aquaculture management area
     
@@ -1244,7 +1246,7 @@ This Act is administered by the Ministry for the Environment.
     
     (2) However, a regional council must not make a request in relation to an area to which [section 39(1)(a), (b), or (c)][54] applies.
     
-    Section 37(2): amended, on 1 October 2011, by [section 19][175] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 37(2): amended, on 1 October 2011, by [section 19][176] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 38 Chief executive to make aquaculture decision
     
@@ -1280,13 +1282,13 @@ This Act is administered by the Ministry for the Environment.
     
     (2) However, subsection (1)(c) does not apply to the following applications:
         
-    *   (a) applications to which [section 150B(2)][176] of the principal Act applies:
+    *   (a) applications to which [section 150B(2)][177] of the principal Act applies:
     
     *   (b) applications made in the period beginning on 1 January 2005 and ending with the close of 9 May 2006\.
     
-    Section 39(1)(c): amended, on 28 September 2008, by [section 4(1)][177] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2008 (2008 No 92).
+    Section 39(1)(c): amended, on 28 September 2008, by [section 4(1)][178] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2008 (2008 No 92).
     
-    Section 39(2): added, on 28 September 2008, by [section 4(2)][177] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2008 (2008 No 92).
+    Section 39(2): added, on 28 September 2008, by [section 4(2)][178] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2008 (2008 No 92).
 
 ##### 40 Matters to be considered by chief executive
     
@@ -1340,7 +1342,7 @@ This Act is administered by the Ministry for the Environment.
         
     *   (a) whether the reservation relates to customary, recreational, or commercial fishing or a combination of them; and
     
-    *   (b) if the reservation relates only to commercial fishing, the stocks and areas concerned, specifying any stocks subject to the quota management system, any stocks or species specified in [Schedules 4C][178] and [4D][179], and any stocks for species not subject to the quota management system; and
+    *   (b) if the reservation relates only to commercial fishing, the stocks and areas concerned, specifying any stocks subject to the quota management system, any stocks or species specified in [Schedules 4C][179] and [4D][180], and any stocks for species not subject to the quota management system; and
     
     *   (c) any other matters required by regulations to be included.
     
@@ -1368,13 +1370,13 @@ This Act is administered by the Ministry for the Environment.
     
     *   (b) whether the aquaculture decision is made as a result of proceedings in relation to an aquaculture decision made before the commencement of the [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117].
     
-    Section 42: substituted, on 1 October 2011, by [section 20][180] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 42: substituted, on 1 October 2011, by [section 20][181] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 43 Judicial review of aquaculture decision
     
-*   Any person wishing to seek, under [Part 1][150] of the Judicature Amendment Act 1972, judicial review of an aquaculture decision must do so within 30 working days after the public notification of the decision.
+*   Any person wishing to seek, under [Part 1][151] of the Judicature Amendment Act 1972, judicial review of an aquaculture decision must do so within 30 working days after the public notification of the decision.
     
-    Section 43: amended, on 1 October 2011, by [section 21][181] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 43: amended, on 1 October 2011, by [section 21][182] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 43A Applications in interim aquaculture management area
     
@@ -1396,7 +1398,7 @@ This Act is administered by the Ministry for the Environment.
     
     (2) This section does not affect applications made in the interim aquaculture management area before the commencement of the [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117].
     
-    Section 43A: inserted, on 1 October 2011, by [section 22][182] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 43A: inserted, on 1 October 2011, by [section 22][183] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 44 Effect of aquaculture decision in relation to interim aquaculture management area
     
@@ -1414,17 +1416,17 @@ This Act is administered by the Ministry for the Environment.
     
     *   (b) if the chief executive made a reservation in relation to commercial fishing for stocks subject to the quota management system in relation to the interim aquaculture management area (whether the whole area or part of it), give public notification that any application for a coastal permit to undertake aquaculture activities in the area that the reservation relates to will be cancelled (unless already cancelled under [section 44D(5)][65] or [44E(7)][66]) if an aquaculture agreement or compensation declaration is not lodged with the chief executive within 6 months after the date of the public notice.
     
-    (4) [Subpart 4][152] of Part 9A of the Fisheries Act 1996 applies to an aquaculture agreement or compensation declaration referred to in subsection (3)(b), subject to the modifications set out in [Part 2][165] of Schedule 2\.
+    (4) [Subpart 4][153] of Part 9A of the Fisheries Act 1996 applies to an aquaculture agreement or compensation declaration referred to in subsection (3)(b), subject to the modifications set out in [Part 2][166] of Schedule 2\.
     
     (5) Subsection (6) applies if, before the expiry of the period specified in subsection (3)(b) or [section 44J][71] or [44K][72], an applicant for a coastal permit to undertake aquaculture activities in the area, an iwi aquaculture organisation, or the trustee, as the case may be, lodges an aquaculture agreement or compensation declaration in respect of an area in relation to which the chief executive made a reservation in relation to commercial fishing for stocks subject to the quota management system.
     
     (6) If this subsection applies, the chief executive must, as soon as practicable after the aquaculture agreement or compensation declaration is lodged, publish a notice in the _Gazette_ that describes and defines the area that the aquaculture agreement or compensation declaration relates to as an aquaculture area.
     
-    Section 44: substituted, on 1 October 2011, by [section 23][183] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 44: substituted, on 1 October 2011, by [section 23][184] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 #### Allocation of authorisations to trustee
     
-*   Heading: inserted, on 1 October 2011, by [section 24][184] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+*   Heading: inserted, on 1 October 2011, by [section 24][185] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 44A Overview of sections 44B to 44L
     
@@ -1438,7 +1440,7 @@ This Act is administered by the Ministry for the Environment.
     
     (5) [Sections 44I to 44L][70] deal with the lodging of aquaculture agreements or compensation declarations and when authorisations allocated to the trustee lapse.
     
-    Section 44A: inserted, on 1 October 2011, by [section 24][184] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 44A: inserted, on 1 October 2011, by [section 24][185] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 44B Notifications of period to negotiate and enter into agreement about 20% space
     
@@ -1458,7 +1460,7 @@ This Act is administered by the Ministry for the Environment.
     
     *   (b) more time is required to reach an agreement.
     
-    Section 44B: inserted, on 1 October 2011, by [section 24][184] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 44B: inserted, on 1 October 2011, by [section 24][185] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 44C Trustee to notify iwi aquaculture organisations of notice received from regional council
     
@@ -1472,7 +1474,7 @@ This Act is administered by the Ministry for the Environment.
     
     *   (b) the iwi aquaculture organisations authorise the trustee to negotiate on their behalf.
     
-    Section 44C: inserted, on 1 October 2011, by [section 24][184] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 44C: inserted, on 1 October 2011, by [section 24][185] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 44D Position at conclusion of negotiations
     
@@ -1508,9 +1510,9 @@ This Act is administered by the Ministry for the Environment.
     
     (4) For the purposes of this section, any space referred to in [section 44A(1)][62] must be treated as available for allocation of authorisations under the agreement.
     
-    (5) An application to which [section 47A][83] of this Act or [section 150B(2)][176] of the principal Act applies is cancelled to the extent that the space to which it applies is agreed space, on and from the date of the agreement.
+    (5) An application to which [section 47A][83] of this Act or [section 150B(2)][177] of the principal Act applies is cancelled to the extent that the space to which it applies is agreed space, on and from the date of the agreement.
     
-    Section 44D: inserted, on 1 October 2011, by [section 24][184] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 44D: inserted, on 1 October 2011, by [section 24][185] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 44E Allocation of authorisations to trustee
     
@@ -1530,11 +1532,11 @@ This Act is administered by the Ministry for the Environment.
     
     *   (b) the provisions of any regional coastal plan or proposed regional coastal plan that relate to the space referred to in [section 44A(1)][62].
     
-    (7) An application to which [section 47A][83] of this Act or [section 150B(2)][176] of the principal Act applies is cancelled, to the extent that the space to which it applies is identified space, on and from the date the identified space was publicly notified under subsection (1). 
+    (7) An application to which [section 47A][83] of this Act or [section 150B(2)][177] of the principal Act applies is cancelled, to the extent that the space to which it applies is identified space, on and from the date the identified space was publicly notified under subsection (1). 
     
     (8) This section applies subject to [sections 44F][67] and [44G][68].
     
-    Section 44E: inserted, on 1 October 2011, by [section 24][184] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 44E: inserted, on 1 October 2011, by [section 24][185] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 44F Space to be allocated must be of economic size
     
@@ -1546,7 +1548,7 @@ This Act is administered by the Ministry for the Environment.
     
     (4) Space identified under subsection (2) or (3) must not have less than average productive capacity compared with the space referred to in [section 44A(1)][62] that it was originally intended to be representative of.
     
-    Section 44F: inserted, on 1 October 2011, by [section 24][184] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 44F: inserted, on 1 October 2011, by [section 24][185] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 44G Allocation of authorisations to trustee in relation to staged developments and harbours
     
@@ -1564,11 +1566,11 @@ This Act is administered by the Ministry for the Environment.
     
     (4) In this section,---
     
-    _harbour_ means a harbour listed in [Schedule 2][185] of the Maori Commercial Aquaculture Claims Settlement Act 2004
+    _harbour_ means a harbour listed in [Schedule 2][186] of the Maori Commercial Aquaculture Claims Settlement Act 2004
     
     _staged development_ means provision in a regional coastal plan or the principal Act for space to become available for application for coastal permits or allocation of authorisations on a date later than the operative date of the regional coastal plan.
     
-    Section 44G: inserted, on 1 October 2011, by [section 24][184] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 44G: inserted, on 1 October 2011, by [section 24][185] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 44H Appeal to Environment Court against regional council's decision
     
@@ -1584,7 +1586,7 @@ This Act is administered by the Ministry for the Environment.
     
     (3) The Environment Court may confirm, amend, or cancel the decision of the regional council appealed against.
     
-    Section 44H: inserted, on 1 October 2011, by [section 24][184] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 44H: inserted, on 1 October 2011, by [section 24][185] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 44I Application for coastal permits for occupation of space referred to in section 44A(1) subject to reservation relating to commercial fishing for stocks subject to quota management system
     
@@ -1600,13 +1602,13 @@ This Act is administered by the Ministry for the Environment.
     
     *   (b) either---
             
-        *   (i) an aquaculture agreement registered under [section 186ZH][186] of the Fisheries Act 1996; or
+        *   (i) an aquaculture agreement registered under [section 186ZH][187] of the Fisheries Act 1996; or
         
-        *   (ii) a compensation declaration registered under [section 186ZHA][187] of the Fisheries Act 1996\.
+        *   (ii) a compensation declaration registered under [section 186ZHA][188] of the Fisheries Act 1996\.
         
         
     
-    Section 44I: inserted, on 1 October 2011, by [section 24][184] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 44I: inserted, on 1 October 2011, by [section 24][185] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 44J Time within which iwi aquaculture organisation may lodge aquaculture agreement or compensation declaration if trustee not authorised to enter into aquaculture agreement or provide compensation
     
@@ -1628,9 +1630,9 @@ This Act is administered by the Ministry for the Environment.
     
     (4) An iwi aquaculture organisation must lodge an aquaculture agreement or a compensation declaration in respect of any agreed or identified space that is subject to a reservation in relation to commercial fishing for stocks subject to the quota management system within 6 months after the date of the notice given by the chief executive under subsection (3).
     
-    (5) [Subpart 4][152] of Part 9A of the Fisheries Act 1996 applies to an aquaculture agreement or compensation declaration referred to in subsection (4), subject to the modifications set out in [Part 3][166] of Schedule 2\.
+    (5) [Subpart 4][153] of Part 9A of the Fisheries Act 1996 applies to an aquaculture agreement or compensation declaration referred to in subsection (4), subject to the modifications set out in [Part 3][167] of Schedule 2\.
     
-    Section 44J: inserted, on 1 October 2011, by [section 24][184] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 44J: inserted, on 1 October 2011, by [section 24][185] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 44K Time within which trustee may lodge aquaculture agreement or compensation declaration on behalf of all recognised iwi aquaculture organisations concerned
     
@@ -1644,19 +1646,19 @@ This Act is administered by the Ministry for the Environment.
         
     *   (a) the trustee has recognised iwi aquaculture organisations for all the iwi in relation to the regional coastline or harbour to which the aquaculture space belongs; and
     
-    *   (b) all the iwi aquaculture organisations referred to in paragraph (a) have authorised the trustee to enter into an aquaculture agreement on behalf of all the iwi aquaculture organisations or to provide compensation in accordance with [sections 186ZN][188] and [186ZQ][189] of the Fisheries Act 1996 on behalf of all the iwi aquaculture organisations.
+    *   (b) all the iwi aquaculture organisations referred to in paragraph (a) have authorised the trustee to enter into an aquaculture agreement on behalf of all the iwi aquaculture organisations or to provide compensation in accordance with [sections 186ZN][189] and [186ZQ][190] of the Fisheries Act 1996 on behalf of all the iwi aquaculture organisations.
     
     (3) The chief executive must, as soon as practicable after receiving the notice, notify in writing the trustee and every iwi aquaculture organisation and the regional council concerned of the receipt of the notice.
     
     (4) An aquaculture agreement or compensation declaration in respect of any of the agreed or identified space that is subject to a reservation in relation to commercial fishing for stocks subject to the quota management system must be lodged within 6 months after the date of the notice given by the chief executive under subsection (3).
     
-    (5) [Subpart 4][152] of Part 9A of the Fisheries Act 1996 applies to an aquaculture agreement or compensation declaration referred to in subsection (4), subject to the modifications set out in [Part 3][166] of Schedule 2\.
+    (5) [Subpart 4][153] of Part 9A of the Fisheries Act 1996 applies to an aquaculture agreement or compensation declaration referred to in subsection (4), subject to the modifications set out in [Part 3][167] of Schedule 2\.
     
-    Section 44K: inserted, on 1 October 2011, by [section 24][184] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 44K: inserted, on 1 October 2011, by [section 24][185] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 44L When authorisations allocated to trustee lapse
     
-*   (1) [Section 165T][190] of the principal Act does not apply to authorisations allocated under this Act.
+*   (1) [Section 165T][191] of the principal Act does not apply to authorisations allocated under this Act.
     
     (2) However, an authorisation allocated under this Act does lapse if---
         
@@ -1664,13 +1666,13 @@ This Act is administered by the Ministry for the Environment.
     
     *   (b) the authorisation is for space that is subject to a reservation relating to commercial fishing for stocks subject to the quota management system and no aquaculture agreement or compensation declaration is lodged in respect of the space within the time required by [section 44J][71] or [44K][72], as the case may be.
     
-    (3) If an authorisation allocated under this Act is transferred and (as a result of the transfer) it ceases to be a settlement asset, the authorisation lapses 2 years after the date on which the holder gives a notice of transfer of the authorisation to the regional council under [section 165S][191] of the Resource Management Act 1991\.
+    (3) If an authorisation allocated under this Act is transferred and (as a result of the transfer) it ceases to be a settlement asset, the authorisation lapses 2 years after the date on which the holder gives a notice of transfer of the authorisation to the regional council under [section 165S][192] of the Resource Management Act 1991\.
     
-    Section 44L: inserted, on 1 October 2011, by [section 24][184] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 44L: inserted, on 1 October 2011, by [section 24][185] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 #### Gazetted aquaculture areas
     
-*   Heading: inserted, on 1 October 2011, by [section 24][184] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+*   Heading: inserted, on 1 October 2011, by [section 24][185] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 44M Areas that became aquaculture management areas before commencement of Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 become _Gazetted_ aquaculture areas 
     
@@ -1686,11 +1688,11 @@ This Act is administered by the Ministry for the Environment.
     
     *   (b) which became an aquaculture management area under [section 52(3)][96].
     
-    (5) To avoid doubt, subsection (4) does not affect the application of [section 186GA(a)][192] of the Fisheries Act 1996 or [section 107F(2)(a)][193] of the Resource Management Act 1991 to the area referred to in that subsection.
+    (5) To avoid doubt, subsection (4) does not affect the application of [section 186GA(a)][193] of the Fisheries Act 1996 or [section 107F(2)(a)][194] of the Resource Management Act 1991 to the area referred to in that subsection.
     
     (6) This section applies subject to [section 44O][77].
     
-    Section 44M: inserted, on 1 October 2011, by [section 24][184] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 44M: inserted, on 1 October 2011, by [section 24][185] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 44N Further provisions relating to _Gazetted_ aquaculture areas
     
@@ -1718,9 +1720,9 @@ This Act is administered by the Ministry for the Environment.
     
     *   (b) takes effect from the operative date of the plan.
     
-    (4) [Schedule 1][194] of the principal Act does not apply to an amendment made under subsection (1).
+    (4) [Schedule 1][195] of the principal Act does not apply to an amendment made under subsection (1).
     
-    Section 44N: inserted, on 1 October 2011, by [section 24][184] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 44N: inserted, on 1 October 2011, by [section 24][185] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 44O Special provisions in relation to regional coastal plan of Waikato Regional Council
     
@@ -1728,7 +1730,7 @@ This Act is administered by the Ministry for the Environment.
         
     *   (a) the space is in an area that is deemed to be a _Gazetted_ aquaculture area under [section 44M][75]; and
     
-    *   (b) the Waikato Regional Council has not, under [section 9(1)][195] of the Maori Commercial Aquaculture Claims Settlement Act 2004 as it was before the commencement of the [Maori Commercial Aquaculture Claims Settlement Amendment Act 2011][111], identified 20% of the space for allocation to the trustee.
+    *   (b) the Waikato Regional Council has not, under [section 9(1)][196] of the Maori Commercial Aquaculture Claims Settlement Act 2004 as it was before the commencement of the [Maori Commercial Aquaculture Claims Settlement Amendment Act 2011][111], identified 20% of the space for allocation to the trustee.
     
     (2) Before space becomes available for aquaculture activities, the Waikato Regional Council must comply with [sections 44B to 44D][63] and, if necessary, [section 44E][66] in respect of the space and, for that purpose, [sections 44B to 44L][63] apply---
         
@@ -1742,7 +1744,7 @@ This Act is administered by the Ministry for the Environment.
     
     *   (b) if, at the commencement of the [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117], the Waikato Regional Coastal Plan does not provide for aquaculture activities in the space, on the date that a rule that would allow for aquaculture activities to be carried out in the space in accordance with a coastal permit becomes operative.
     
-    Section 44O: inserted, on 1 October 2011, by [section 24][184] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 44O: inserted, on 1 October 2011, by [section 24][185] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 #### Deemed aquaculture management areas
 
@@ -1758,7 +1760,7 @@ This Act is administered by the Ministry for the Environment.
     
     *   (b) it relates to a species of fish or aquatic life, or contains conditions, that are different from those that applied to a deemed coastal permit under [section 10][13], [20][27], or [21][29] that related to the same area.
     
-    Section 45: substituted, on 1 October 2011, by [section 25][196] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 45: substituted, on 1 October 2011, by [section 25][197] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 #### Existing applications and coastal permits
 
@@ -1766,9 +1768,9 @@ This Act is administered by the Ministry for the Environment.
     
 *   (1) This section applies to an application---
         
-    *   (a) that [section 150B(2)][176] of the principal Act applies to; but
+    *   (a) that [section 150B(2)][177] of the principal Act applies to; but
     
-    *   (b) only to the extent that it relates to an area that an Order in Council made under [section 150C(1)][167] of the principal Act applies to.
+    *   (b) only to the extent that it relates to an area that an Order in Council made under [section 150C(1)][168] of the principal Act applies to.
     
     (2) At the end of the moratorium, a consent authority must---
         
@@ -1776,15 +1778,15 @@ This Act is administered by the Ministry for the Environment.
     
     *   (b) process and determine the application under rules in the regional coastal plan, and in any proposed regional coastal plan, as at the end of the moratorium.
     
-    (3) For the purposes of subsection (1), rules in a proposed regional coastal plan include any rule prohibiting an activity if the plan has been notified under [clause 5][173] of Schedule 1 of the principal Act.
+    (3) For the purposes of subsection (1), rules in a proposed regional coastal plan include any rule prohibiting an activity if the plan has been notified under [clause 5][174] of Schedule 1 of the principal Act.
     
-    (4) Subsection (3) applies subject to [section 20][197] of the principal Act.
+    (4) Subsection (3) applies subject to [section 20][198] of the principal Act.
 
 ##### 47 Pending applications where moratorium ends on close of 31 December 2004
     
 *   (1) This section applies to an application---
         
-    *   (a) that [section 150B(2)][176] of the principal Act applies to; but
+    *   (a) that [section 150B(2)][177] of the principal Act applies to; but
     
     *   (b) only to the extent that it relates to an area for which the moratorium expires on the close of 31 December 2004\.
     
@@ -1812,7 +1814,7 @@ This Act is administered by the Ministry for the Environment.
     
     *   (b) a regional coastal plan continues to provide that the aquaculture activity that the application relates to is a prohibited activity in the area that the application relates to; and
     
-    *   (c) no proposed regional coastal plan has been notified under [clause 5][173] of Schedule 1 of the principal Act in which the aquaculture activity the application relates to is not specified as a prohibited activity.
+    *   (c) no proposed regional coastal plan has been notified under [clause 5][174] of Schedule 1 of the principal Act in which the aquaculture activity the application relates to is not specified as a prohibited activity.
     
     (5) An application that is not cancelled under subsection (4) because a proposed regional coastal plan has been notified in which the aquaculture activity that the application relates to is not prohibited is cancelled,---
         
@@ -1834,7 +1836,7 @@ This Act is administered by the Ministry for the Environment.
         
         
     
-    Section 47: substituted, on 1 October 2011, by [section 26][198] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 47: substituted, on 1 October 2011, by [section 26][199] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 47A Applications made from 1 January 2005 to 10 May 2006
     
@@ -1864,7 +1866,7 @@ This Act is administered by the Ministry for the Environment.
     
     *   (b) a regional coastal plan continues to provide that the aquaculture activity that the application relates to is a prohibited activity in the area that the application relates to; and
     
-    *   (c) no proposed regional plan has been notified under [clause 5][173] of Schedule 1 of the principal Act in which the aquaculture activity that the application relates to is not specified as a prohibited activity.
+    *   (c) no proposed regional plan has been notified under [clause 5][174] of Schedule 1 of the principal Act in which the aquaculture activity that the application relates to is not specified as a prohibited activity.
     
     (5) An application that is not cancelled under subsection (4) because a proposed regional coastal plan has been notified in which the aquaculture activity that the application relates to is not prohibited is cancelled,---
         
@@ -1872,11 +1874,11 @@ This Act is administered by the Ministry for the Environment.
     
     *   (b) if the proposed plan is amended to provide that aquaculture is a prohibited activity, on the date on which the decision is made that results in the amendment.
     
-    Section 47A: inserted, on 1 October 2011, by [section 26][198] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 47A: inserted, on 1 October 2011, by [section 26][199] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 47B Processing of applications that sections 47 and 47A apply to
     
-*   (1) This section applies to applications that [sections 47][82] and [47A][83] apply to. 
+*   (1) This section applies to applications that [sections 47][82] and [47A][83] apply to.
     
     (2) Applications that can be processed under [section 47(2)][82] or [47A(2)][83] must be processed and determined---
         
@@ -1890,21 +1892,21 @@ This Act is administered by the Ministry for the Environment.
     
     *   (b) the period during which the application was unable to be processed is excluded from any period of time in a provision of the principal Act:
     
-    *   (c) [section 36AA][199] and any regulations made under [section 360(1)(hj)][200] do not apply in respect of the application:
+    *   (c) [section 36AA][200] and any regulations made under [section 360(1)(hj)][201] do not apply in respect of the application:
     
-    *   (d) the following periods are excluded from any applicable provision listed in [section 88B(2)][201]:
+    *   (d) the following periods are excluded from any applicable provision listed in [section 88B(2)][202]:
             
-        *   (i) if a request for further information under [section 92(1)][202] was made before the commencement of this section, the period starting on the day on which the request was made and ending on the earlier of the day on which the information is provided or the day that is 12 months after the commencement of the [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117]:
+        *   (i) if a request for further information under [section 92(1)][203] was made before the commencement of this section, the period starting on the day on which the request was made and ending on the earlier of the day on which the information is provided or the day that is 12 months after the commencement of the [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117]:
         
-        *   (ii) if a request for further information under [section 92(1)][202] is made within 12 months after the commencement of the [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117] and is the first request made after that commencement, the period starting on the day on which the request is made and ending on the earlier of the day on which the information is provided or the day that is 12 months after the commencement of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011:
+        *   (ii) if a request for further information under [section 92(1)][203] is made within 12 months after the commencement of the [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117] and is the first request made after that commencement, the period starting on the day on which the request is made and ending on the earlier of the day on which the information is provided or the day that is 12 months after the commencement of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011:
         
         
     
-    *   (e) if the consent authority requests or has requested further information under [section 92(1)][202] and the information is provided within the applicable period specified in paragraph (d)(i) or (ii), [section 95][203] does not prevent the consent authority from notifying the application within 10 working days after the date on which the application would have lapsed under paragraph (f) had the applicant not provided the information within the applicable period under paragraph (d):
+    *   (e) if the consent authority requests or has requested further information under [section 92(1)][203] and the information is provided within the applicable period specified in paragraph (d)(i) or (ii), [section 95][204] does not prevent the consent authority from notifying the application within 10 working days after the date on which the application would have lapsed under paragraph (f) had the applicant not provided the information within the applicable period under paragraph (d):
     
     *   (f) the application lapses if---
             
-        *   (i) the consent authority has requested further information under [section 92(1)][202] and the applicant does not comply with the request within 12 months after---
+        *   (i) the consent authority has requested further information under [section 92(1)][203] and the applicant does not comply with the request within 12 months after---
                 
             *   (A) the date of the commencement of the [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117], if the request was made before the commencement of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011; or
             
@@ -1912,21 +1914,21 @@ This Act is administered by the Ministry for the Environment.
             
             
         
-        *   (ii) the consent authority requests subsequent information under [section 92(1)][202] within 12 months after the commencement of the [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117] and the applicant does not comply with the request within 10 working days after the expiry of 12 months from the date of the first request made under section 92(1) after the commencement of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011\.
+        *   (ii) the consent authority requests subsequent information under [section 92(1)][203] within 12 months after the commencement of the [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117] and the applicant does not comply with the request within 10 working days after the expiry of 12 months from the date of the first request made under section 92(1) after the commencement of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011\.
         
         
     
-    (4) To avoid doubt, [section 159][204] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 does not apply to applications that [sections 47][82] and [47A][83] apply to.
+    (4) To avoid doubt, [section 159][205] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 does not apply to applications that [sections 47][82] and [47A][83] apply to.
     
-    Section 47B: inserted, on 1 October 2011, by [section 26][198] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 47B: inserted, on 1 October 2011, by [section 26][199] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 47C Some applications for coastal permits must be cancelled
     
-*   A consent authority must cancel an application for a coastal permit for the occupation of space in the coastal marine area for the purpose of aquaculture activities if the application is made after 9 May 2006, but before the commencement of the [Resource Management Amendment Act 2008][205].
+*   A consent authority must cancel an application for a coastal permit for the occupation of space in the coastal marine area for the purpose of aquaculture activities if the application is made after 9 May 2006, but before the commencement of the [Resource Management Amendment Act 2008][206].
     
-    Compare: 1991 No 69 [s 165BB][206]
+    Compare: 1991 No 69 [s 165BB][207]
     
-    Section 47C: inserted, on 1 October 2011, by [section 26][198] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 47C: inserted, on 1 October 2011, by [section 26][199] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 47D Applications for coastal permits for aquaculture activities in deemed aquaculture management area made before but not finally disposed of at commencement of Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011
     
@@ -1950,7 +1952,7 @@ This Act is administered by the Ministry for the Environment.
         
         
     
-    Section 47D: inserted, on 1 October 2011, by [section 26][198] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 47D: inserted, on 1 October 2011, by [section 26][199] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 47E Applications for coastal permits for aquaculture activities in aquaculture management area being processed at commencement of Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011
     
@@ -1960,9 +1962,9 @@ This Act is administered by the Ministry for the Environment.
     
     *   (b) the application is not an application referred to in [section 47(1)][82] or [47A(1)][83] and has been made before but not determined at the commencement of that Act.
     
-    (2) The application is to be determined as if the [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117] and the [Resource Management Amendment Act (No 2) 2011][207] had not been enacted.
+    (2) The application is to be determined as if the [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117] and the [Resource Management Amendment Act (No 2) 2011][208] had not been enacted.
     
-    Section 47E: inserted, on 1 October 2011, by [section 26][198] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 47E: inserted, on 1 October 2011, by [section 26][199] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 47F Processing of certain applications deferred
     
@@ -1970,7 +1972,7 @@ This Act is administered by the Ministry for the Environment.
     
     (2) A consent authority must not process or determine the application until the time that processing of all the applications referred to in [Schedule 3][107] has resumed, or the applications have been withdrawn.
     
-    Section 47F: inserted, on 1 October 2011, by [section 26][198] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 47F: inserted, on 1 October 2011, by [section 26][199] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 48 Certain coastal permits granted during moratorium not to be exercised until end of moratorium
     
@@ -1994,7 +1996,7 @@ This Act is administered by the Ministry for the Environment.
     
     *   (b) amend the conditions so that they comply with the rules in the regional coastal plan and any proposed regional coastal plan that apply at the end of the moratorium.
     
-    (5) If a coastal permit relates to a restricted coastal activity, [section 119A][208] of the principal Act applies in relation to the amendment of conditions under subsection (4)(b).
+    (5) If a coastal permit relates to a restricted coastal activity, [section 119A][209] of the principal Act applies in relation to the amendment of conditions under subsection (4)(b).
     
     (6) At the end of the moratorium,---
         
@@ -2002,15 +2004,15 @@ This Act is administered by the Ministry for the Environment.
     
     *   (b) the coastal permit ceases to have any effect and is deemed to be cancelled.
     
-    (7) For the purposes of [section 125][209] of the principal Act, the commencement date of a coastal permit is the later of---
+    (7) For the purposes of [section 125][210] of the principal Act, the commencement date of a coastal permit is the later of---
         
     *   (a) the day after the date on which the moratorium ceases to apply to the coastal permit; or
     
     *   (b) the day after the date on which the regional council notifies the holder of the permit of the result of a review under subsection (4).
     
-    (8) [Sections 357A][210], [357C][120], [357D][121], and [358][122] of the principal Act apply to a decision by a regional council to amend conditions under subsection (4).
+    (8) [Sections 357A][211], [357C][120], [357D][121], and [358][122] of the principal Act apply to a decision by a regional council to amend conditions under subsection (4).
     
-    Section 48(8): amended, on 1 October 2011, by [section 27][211] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 48(8): amended, on 1 October 2011, by [section 27][212] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 49 Preferential right for deemed permit holder to apply for coastal permit for occupation
     
@@ -2036,17 +2038,17 @@ This Act is administered by the Ministry for the Environment.
         
         
     
-    *   (c) the coastal permit has lapsed under [section 125][209] of the principal Act; or
+    *   (c) the coastal permit has lapsed under [section 125][210] of the principal Act; or
     
-    *   (d) the coastal permit has been cancelled under [section 126][212] of the principal Act; or
+    *   (d) the coastal permit has been cancelled under [section 126][213] of the principal Act; or
     
-    *   (e) the coastal permit has been surrendered under [section 138][213] of the principal Act.
+    *   (e) the coastal permit has been surrendered under [section 138][214] of the principal Act.
     
-    (4) This section does not limit or affect [section 165ZH][214] of the principal Act.
+    (4) This section does not limit or affect [section 165ZH][215] of the principal Act.
     
-    Section 49(1)(b): repealed, on 1 October 2011, by [section 28(1)][215] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 49(1)(b): repealed, on 1 October 2011, by [section 28(1)][216] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 49(4): amended, on 1 October 2011, by [section 28(2)][215] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 49(4): amended, on 1 October 2011, by [section 28(2)][216] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 #### Pre-moratorium and pre-commencement applications for coastal permits
 
@@ -2056,13 +2058,13 @@ This Act is administered by the Ministry for the Environment.
         
     *   (a) was made before the commencement of this Act; and
     
-    *   (b) is not subject to [section 150B(2)][176] of the principal Act; and
+    *   (b) is not subject to [section 150B(2)][177] of the principal Act; and
     
     *   (c) has not been determined or withdrawn before the commencement of this Act.
     
     (2) An application to which this subsection applies must be determined under the principal Act as it was before the commencement of this Act.
     
-    (3) A person who has made an application that subsection (2) applies to may apply, or continue with an application, for a marine farming permit under [section 67J][135] of the Fisheries Act 1983 or a spat catching permit under [section 67Q(2)][139] of that Act if the application under that Act relates to all or part of the area, and 1 or more of the species of fish, aquatic life, or seaweed, that the application that subsection (2) applies to relates to.
+    (3) A person who has made an application that subsection (2) applies to may apply, or continue with an application, for a marine farming permit under [section 67J][135] of the Fisheries Act 1983 or a spat catching permit under [section 67Q(2)][140] of that Act if the application under that Act relates to all or part of the area, and 1 or more of the species of fish, aquatic life, or seaweed, that the application that subsection (2) applies to relates to.
     
     (4) An application under subsection (3) lapses if the application to which subsection (2) applies is---
         
@@ -2090,25 +2092,25 @@ This Act is administered by the Ministry for the Environment.
     
     (10) However, if the person has made a subsequent application for a marine farming permit or spat catching permit in accordance with subsection (3) before the commencement of the [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117], but which has not been determined before the commencement of that Act, the person may not make a further application in accordance with subsection (3).
     
-    Section 50(2): amended, on 1 October 2011, by [section 29(1)][216] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 50(2): amended, on 1 October 2011, by [section 29(1)][217] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 50(4)(b): amended, on 1 October 2011, by [section 29(2)][216] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 50(4)(b): amended, on 1 October 2011, by [section 29(2)][217] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 50(4)(c): added, on 1 October 2011, by [section 29(2)][216] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 50(4)(c): added, on 1 October 2011, by [section 29(2)][217] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 50(5): substituted, on 1 October 2011, by [section 29(3)][216] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 50(5): substituted, on 1 October 2011, by [section 29(3)][217] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 50(5A): inserted, on 1 October 2011, by [section 29(3)][216] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 50(5A): inserted, on 1 October 2011, by [section 29(3)][217] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 50(8): added, on 1 October 2011, by [section 29(4)][216] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 50(8): added, on 1 October 2011, by [section 29(4)][217] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 50(9): added, on 1 October 2011, by [section 29(4)][216] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 50(9): added, on 1 October 2011, by [section 29(4)][217] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 50(10): added, on 1 October 2011, by [section 29(4)][216] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 50(10): added, on 1 October 2011, by [section 29(4)][217] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 50A Assessment of effect on fishing of applications to which section 50(3) applies
     
-*   (1) This section applies to an application under [section 67J][135] or [67Q(2)][139] of the Fisheries Act 1983 referred to in [section 50(3)][92]---
+*   (1) This section applies to an application under [section 67J][135] or [67Q(2)][140] of the Fisheries Act 1983 referred to in [section 50(3)][92]---
         
     *   (a) whether the application is made before, on, or after the commencement of the [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117]; and
     
@@ -2128,11 +2130,11 @@ This Act is administered by the Ministry for the Environment.
     
     (4) The chief executive must---
         
-    *   (a) grant the application under [section 67J][135] or [67Q][139] of the Fisheries Act 1983 (as the case may require) if the chief executive is satisfied that the activities contemplated by the application would not have an undue adverse effect on fishing; but
+    *   (a) grant the application under [section 67J][135] or [67Q][140] of the Fisheries Act 1983 (as the case may require) if the chief executive is satisfied that the activities contemplated by the application would not have an undue adverse effect on fishing; but
     
-    *   (b) decline the application under [section 67J][135] or [67Q][139] of the Fisheries Act 1983 (as the case may require) if the chief executive is not satisfied that the activities contemplated by the application would not have an undue adverse effect on fishing.
+    *   (b) decline the application under [section 67J][135] or [67Q][140] of the Fisheries Act 1983 (as the case may require) if the chief executive is not satisfied that the activities contemplated by the application would not have an undue adverse effect on fishing.
     
-    (5) However, the chief executive must defer making a decision whether to grant or decline the application under [section 67J][135] or [67Q][139] of the Fisheries Act 1983 (as the case may require) if---
+    (5) However, the chief executive must defer making a decision whether to grant or decline the application under [section 67J][135] or [67Q][140] of the Fisheries Act 1983 (as the case may require) if---
         
     *   (a) the chief executive is satisfied that the activities contemplated by the application would not have an undue adverse effect on fishing other than commercial fishing; but
     
@@ -2162,33 +2164,33 @@ This Act is administered by the Ministry for the Environment.
     
     (9) The chief executive must decline the application, if the applicant does not lodge---
         
-    *   (a) an aquaculture agreement with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under [section 186ZI(4)][148] of the Fisheries Act 1996; or
+    *   (a) an aquaculture agreement with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under [section 186ZI(4)][149] of the Fisheries Act 1996; or
     
-    *   (b) a compensation declaration with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under [section 186ZIA(4)][149] of the Fisheries Act 1996\.
+    *   (b) a compensation declaration with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under [section 186ZIA(4)][150] of the Fisheries Act 1996\.
     
     (10) The chief executive must grant the application and issue the permit if the applicant lodges---
         
-    *   (a) an aquaculture agreement with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under [section 186ZI(4)][148] of the Fisheries Act 1996; or
+    *   (a) an aquaculture agreement with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under [section 186ZI(4)][149] of the Fisheries Act 1996; or
     
-    *   (b) a compensation declaration with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under [section 186ZIA(4)][149] of the Fisheries Act 1996\.
+    *   (b) a compensation declaration with the chief executive within 6 months after the date of the public notice or before the expiry of any extension of time under [section 186ZIA(4)][150] of the Fisheries Act 1996\.
     
-    (11) For the purposes of this section, the references in [section 67J(10)][135] of the principal Act to adverse effects on fishing or the sustainability of any fisheries resource must be read as if it were a reference to adverse effects on fishing. 
+    (11) For the purposes of this section, the references in [section 67J(10)][135] of the principal Act to adverse effects on fishing or the sustainability of any fisheries resource must be read as if it were a reference to adverse effects on fishing.
     
-    (12) Any person wishing to seek, under [Part 1][150] of the Judicature Amendment Act 1972, judicial review of a decision under this section must do so within 30 working days after the public notification of the decision.
+    (12) Any person wishing to seek, under [Part 1][151] of the Judicature Amendment Act 1972, judicial review of a decision under this section must do so within 30 working days after the public notification of the decision.
     
-    (13) The provisions of [Part 1][151] of Schedule 2 have effect in relation to aquaculture agreements and compensation.
+    (13) The provisions of [Part 1][152] of Schedule 2 have effect in relation to aquaculture agreements and compensation.
     
     (14) In this section,---
     
-    _aquaculture agreement_ means an agreement that complies with [subpart 4][152] of Part 9A of the Fisheries Act 1996, subject to the modifications set out in [Part 1][151] of Schedule 2
+    _aquaculture agreement_ means an agreement that complies with [subpart 4][153] of Part 9A of the Fisheries Act 1996, subject to the modifications set out in [Part 1][152] of Schedule 2
     
-    _commercial fishing_ means the fishing, authorised by a permit issued under [section 91][153] of the Fisheries Act 1996, of stocks subject to the quota management system
+    _commercial fishing_ means the fishing, authorised by a permit issued under [section 91][154] of the Fisheries Act 1996, of stocks subject to the quota management system
     
-    _compensation declaration_ means a statutory declaration that complies with [subpart 4][152] of Part 9A of the Fisheries Act 1996, subject to the modifications set out in [Part 1][151] of Schedule 2
+    _compensation declaration_ means a statutory declaration that complies with [subpart 4][153] of Part 9A of the Fisheries Act 1996, subject to the modifications set out in [Part 1][152] of Schedule 2
     
     _public notification_ has the same meaning as in [section 2][116] of the Fisheries Act 1996\.
     
-    Section 50A: inserted, on 1 October 2011, by [section 30][217] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 50A: inserted, on 1 October 2011, by [section 30][218] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 50B Information and matters to be considered in relation to applications to which section 50A applies
     
@@ -2198,7 +2200,7 @@ This Act is administered by the Ministry for the Environment.
     
     *   (b) information supplied by the applicant; and
     
-    *   (c) information supplied to the chief executive by the persons referred to in [section 50A(2)][93], whether before or after the commencement of the [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117]; and 
+    *   (c) information supplied to the chief executive by the persons referred to in [section 50A(2)][93], whether before or after the commencement of the [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117]; and
     
     *   (d) other information that the chief executive has requested and obtained.
     
@@ -2218,7 +2220,7 @@ This Act is administered by the Ministry for the Environment.
     
     (3) This section applies subject to [section 50A(3)][93].
     
-    Section 50B: inserted, on 1 October 2011, by [section 30][217] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 50B: inserted, on 1 October 2011, by [section 30][218] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 51 Regional council must request aquaculture decision if application for coastal permit declined or withdrawn
     
@@ -2228,7 +2230,7 @@ This Act is administered by the Ministry for the Environment.
             
         *   (i) is made before the commencement of this Act; and
         
-        *   (ii) is not subject to [section 150B(2)][176] of the principal Act; and
+        *   (ii) is not subject to [section 150B(2)][177] of the principal Act; and
         
         *   (iii) relates to part of an interim aquaculture management area; and
         
@@ -2244,13 +2246,13 @@ This Act is administered by the Ministry for the Environment.
         
         *   (iii) the coastal permit---
                 
-            *   (A) lapses under [section 125][209] of the principal Act; or
+            *   (A) lapses under [section 125][210] of the principal Act; or
             
-            *   (B) expires and the holder of the permit is not entitled under [section 124][218] of the principal Act to continue to operate under the coastal permit; or
+            *   (B) expires and the holder of the permit is not entitled under [section 124][219] of the principal Act to continue to operate under the coastal permit; or
             
-            *   (C) is cancelled under [section 126][212] of the principal Act; or
+            *   (C) is cancelled under [section 126][213] of the principal Act; or
             
-            *   (D) is surrendered under [section 138][213] of the principal Act.
+            *   (D) is surrendered under [section 138][214] of the principal Act.
             
             
         
@@ -2260,19 +2262,19 @@ This Act is administered by the Ministry for the Environment.
     
     (3) [Sections 38 to 44][53] apply to the request.
     
-    Section 51(1)(a)(iii): amended, on 28 September 2008, by [section 5(1)][219] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2008 (2008 No 92).
+    Section 51(1)(a)(iii): amended, on 28 September 2008, by [section 5(1)][220] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2008 (2008 No 92).
     
-    Section 51(2): amended, on 28 September 2008, by [section 5(2)(a)][219] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2008 (2008 No 92).
+    Section 51(2): amended, on 28 September 2008, by [section 5(2)(a)][220] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2008 (2008 No 92).
     
-    Section 51(2): amended, on 28 September 2008, by [section 5(2)(b)][219] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2008 (2008 No 92).
+    Section 51(2): amended, on 28 September 2008, by [section 5(2)(b)][220] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2008 (2008 No 92).
     
-    Section 51(3): substituted, on 28 September 2008, by [section 5(3)][219] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2008 (2008 No 92).
+    Section 51(3): substituted, on 28 September 2008, by [section 5(3)][220] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2008 (2008 No 92).
 
 ##### 52 Areas excluded from interim aquaculture management area
     
 *   \[Repealed\]
     
-    Section 52: repealed, on 1 October 2011, by [section 31][220] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 52: repealed, on 1 October 2011, by [section 31][221] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 #### Review of off-site farms
 
@@ -2300,7 +2302,7 @@ This Act is administered by the Ministry for the Environment.
     
     *   (d) the reasons for and against amending the permit to reflect the actual space.
     
-    (4) [Section 92][202] of the principal Act applies, with all necessary modifications, to an application under this section as if it were an application for a resource consent.
+    (4) [Section 92][203] of the principal Act applies, with all necessary modifications, to an application under this section as if it were an application for a resource consent.
     
     (4A) Before deciding whether to amend a deemed coastal permit under this section, the consent authority must consider---
         
@@ -2324,7 +2326,7 @@ This Act is administered by the Ministry for the Environment.
     
     (5B) Subsection (5C) applies if a deemed coastal permit is amended to reflect the actual space in respect of which aquaculture is specified in a regional coastal plan or proposed regional coastal plan as a prohibited activity.
     
-    (5C) The actual space is subject to the provisions of the regional coastal plan or proposed regional coastal plan that applied to the authorised space, subject to any subsequent amendment or replacement of those provisions by any enactment or under [Schedule 1][194] of the principal Act.
+    (5C) The actual space is subject to the provisions of the regional coastal plan or proposed regional coastal plan that applied to the authorised space, subject to any subsequent amendment or replacement of those provisions by any enactment or under [Schedule 1][195] of the principal Act.
     
     (6) [Sections 120][118] and [121][119] of the principal Act applies to a decision of the consent authority under subsection (5) as if the decision were a decision on a review of consent conditions.
     
@@ -2336,7 +2338,7 @@ This Act is administered by the Ministry for the Environment.
     
     (10) The holder of the deemed coastal permit may object to the consent authority about any decision under subsection (5)(b), and [sections 357C][120], [357D][121], and [358][122] of the Resource Management Act 1991 apply to the objection as if it were an objection against a review of the conditions of a resource consent under [sections 128 to 132][123] of that Act.
     
-    (11) [Section 36][141] of the principal Act applies to the functions of the consent authority under this section as if an application to amend a deemed coastal permit were an application for resource consent.
+    (11) [Section 36][142] of the principal Act applies to the functions of the consent authority under this section as if an application to amend a deemed coastal permit were an application for resource consent.
     
     (11A) The amendments made to this section by the [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117] apply to applications made before the commencement of that Act if they have not been determined at the commencement of that Act.
     
@@ -2346,29 +2348,29 @@ This Act is administered by the Ministry for the Environment.
     
     _authorised space_ means the space specified in the deemed coastal permit.
     
-    Section 53(2): amended, on 1 October 2011, by [section 32(1)][221] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 53(2): amended, on 1 October 2011, by [section 32(1)][222] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 53(2A): inserted, on 1 October 2011, by [section 32(2)][221] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 53(2A): inserted, on 1 October 2011, by [section 32(2)][222] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 53(2B): inserted, on 1 October 2011, by [section 32(2)][221] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 53(2B): inserted, on 1 October 2011, by [section 32(2)][222] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 53(2C): inserted, on 1 October 2011, by [section 32(2)][221] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 53(2C): inserted, on 1 October 2011, by [section 32(2)][222] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 53(2D): inserted, on 1 October 2011, by [section 32(2)][221] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 53(2D): inserted, on 1 October 2011, by [section 32(2)][222] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 53(4A): inserted, on 1 October 2011, by [section 32(3)][221] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 53(4A): inserted, on 1 October 2011, by [section 32(3)][222] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 53(5A): inserted, on 1 October 2011, by [section 32(4)][221] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 53(5A): inserted, on 1 October 2011, by [section 32(4)][222] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 53(5B): inserted, on 1 October 2011, by [section 32(4)][221] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 53(5B): inserted, on 1 October 2011, by [section 32(4)][222] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 53(5C): inserted, on 1 October 2011, by [section 32(4)][221] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 53(5C): inserted, on 1 October 2011, by [section 32(4)][222] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 53(6): amended, on 1 October 2011, by [section 32(5)][221] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 53(6): amended, on 1 October 2011, by [section 32(5)][222] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 53(10): substituted, on 1 October 2011, by [section 32(6)][221] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 53(10): substituted, on 1 October 2011, by [section 32(6)][222] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
     
-    Section 53(11A): inserted, on 1 October 2011, by [section 32(7)][221] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 53(11A): inserted, on 1 October 2011, by [section 32(7)][222] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 54 Consent authority may initiate review of off-site farms
     
@@ -2378,7 +2380,7 @@ This Act is administered by the Ministry for the Environment.
     
     (3) For the purposes of subsection (2), [section 53(4A) to (12)][98] applies with all necessary modifications.
     
-    Section 54(3): amended, on 1 October 2011, by [section 33][222] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 54(3): amended, on 1 October 2011, by [section 33][223] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 #### General
 
@@ -2390,7 +2392,7 @@ This Act is administered by the Ministry for the Environment.
     
     (3) In subsection (1), _Minister of Fisheries_ has the same meaning as Minister in the [Fisheries Act 1996][110].
     
-    Section 55(3): added, on 1 October 2011, by [section 34][223] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 55(3): added, on 1 October 2011, by [section 34][224] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 56 Restriction on erection of structures in coastal marine area
     
@@ -2412,13 +2414,13 @@ This Act is administered by the Ministry for the Environment.
         
         
     
-    Section 56: substituted, on 1 October 2011, by [section 35][224] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+    Section 56: substituted, on 1 October 2011, by [section 35][225] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ##### 57 Regulations
     
 *   \[Expired\]
     
-    Section 57: expired, on 1 January 2007, by [section 58][225].
+    Section 57: expired, on 1 January 2007, by [section 58][226].
 
 ##### 58 Expiry of section 57
     
@@ -2433,25 +2435,21 @@ This Act is administered by the Ministry for the Environment.
 ---
 
 ## Schedule 1  
-Marine Farming Permit 364 (Waikato Communal Area) 
+Marine Farming Permit 364 (Waikato Communal Area)
 
 [s 20A][28]
 
-*   Schedule 1: added, on 1 October 2011, by [section 36][226] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+*   Schedule 1: added, on 1 October 2011, by [section 36][227] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 #### Coastal Permit Conditions
 
 ##### Term
 
-##### 1
-    
-*   This resource consent expires on 31 December 2033\.
+*   1 This resource consent expires on 31 December 2033\.
 
 ##### Activities authorised
 
-##### 2
-    
-*   This resource consent authorises:
+*   2 This resource consent authorises:
         
     *   (i) the marine farming of Green Mussels (_Perna canaliculus_) and Pacific Oysters (_Crassostrea gigas_);
     
@@ -2469,19 +2467,13 @@ Marine Farming Permit 364 (Waikato Communal Area)
 
 ##### Notification
 
-##### 3
-    
-*   Within 2 months after the commencement of the [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117], the consent holder shall provide Maritime New Zealand (hereinafter referred to as "MNZ") and Land Information New Zealand with written notice of the details of the marine farm authorised by this resource consent, including its geographic location and details of navigation lighting and marking.
+*   3 Within 2 months after the commencement of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011, the consent holder shall provide Maritime New Zealand (hereinafter referred to as "MNZ") and Land Information New Zealand with written notice of the details of the marine farm authorised by this resource consent, including its geographic location and details of navigation lighting and marking.
 
-##### 4
-    
-*   Within 2 months after the commencement of the [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117], the consent holder shall provide the Waikato Regional Council with a structures plan showing the details of the existing marine farming structures within the space authorised by this resource consent, and details of navigation lighting and marking.
+*   4 Within 2 months after the commencement of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011, the consent holder shall provide the Waikato Regional Council with a structures plan showing the details of the existing marine farming structures within the space authorised by this resource consent, and details of navigation lighting and marking.
 
 ##### Boundary definition
 
-##### 5
-    
-*   The consent holder shall, if requested by the Waikato Regional Council in writing, provide the following:
+*   5 The consent holder shall, if requested by the Waikato Regional Council in writing, provide the following:
         
     *   (a) a survey plan prepared in accordance with the Rules for Cadastral Survey 2010 promulgated by the Surveyor-General that defines the boundary of the marine farm and/or
     
@@ -2493,111 +2485,71 @@ Marine Farming Permit 364 (Waikato Communal Area)
 
 ##### Code of Practice
 
-##### 6
-    
-*   The marine farm shall be operated in general accordance with the mussel farming code of practice document titled Mussel Industry Environmental Code of Practice, New Zealand Mussel Industry Council Limited, dated 1999 (or any subsequent update to that document) to the satisfaction of the Waikato Regional Council.
+*   6 The marine farm shall be operated in general accordance with the mussel farming code of practice document titled Mussel Industry Environmental Code of Practice, New Zealand Mussel Industry Council Limited, dated 1999 (or any subsequent update to that document) to the satisfaction of the Waikato Regional Council.
 
 *   Where any conflict exists between the Code of Practice and the conditions of this resource consent, the conditions shall prevail.
 
 ##### Marking and lighting
 
-##### 7
-    
-*   Each corner of the marine farm and the middle of each of the seaward-most and landward-most longlines shall be marked with an orange marker buoy of a minimum diameter of 500 millimetres.
+*   7 Each corner of the marine farm and the middle of each of the seaward-most and landward-most longlines shall be marked with an orange marker buoy of a minimum diameter of 500 millimetres.
 
-##### 8
-    
-*   The marine farm shall be clearly marked with the consent holder's name and consent number or former marine farming permit number on at least one of the four orange corner marker buoys, unless otherwise agreed in writing by the Waikato Regional Council.
+*   8 The marine farm shall be clearly marked with the consent holder's name and consent number or former marine farming permit number on at least one of the four orange corner marker buoys, unless otherwise agreed in writing by the Waikato Regional Council.
 
-##### 9
-    
-*   The consent holder shall ensure that the marine farming structures authorised by this resource consent are marked and lit in accordance with the navigation safety requirements of MNZ and the Harbourmaster or their delegate. This condition will be satisfied by complying with the document titled Guideline for Aquaculture Management Areas and Marine Farms, Maritime New Zealand, dated December 2005 (or any subsequent update to that document).
+*   9 The consent holder shall ensure that the marine farming structures authorised by this resource consent are marked and lit in accordance with the navigation safety requirements of MNZ and the Harbourmaster or their delegate. This condition will be satisfied by complying with the document titled Guideline for Aquaculture Management Areas and Marine Farms, Maritime New Zealand, dated December 2005 (or any subsequent update to that document).
 
 ##### Navigation safety and structural integrity
 
-##### 10
-    
-*   The consent holder shall maintain all structures authorised by this resource consent to ensure that they are restrained, secure and in working order at all times so as to not create a navigational hazard, and take whatever steps are reasonably necessary to ensure structural integrity is maintained.
+*   10 The consent holder shall maintain all structures authorised by this resource consent to ensure that they are restrained, secure and in working order at all times so as to not create a navigational hazard, and take whatever steps are reasonably necessary to ensure structural integrity is maintained.
 
 *   Note: A separate resource consent may be required as a result of the need to undertake further works. Any such consent shall be obtained by the consent holder at their sole expense prior to any works being undertaken.
 
-##### 11
-    
-*   Should any part of the structures authorised by this resource consent be lost into the marine environment that is of a size that could constitute a navigation hazard, the consent holder shall inform the Waikato Regional Council as soon as practicable. The consent holder shall also undertake all necessary steps where practicable to find the lost part and once found shall undertake such actions as are necessary to ensure it does not constitute a navigation hazard.
+*   11 Should any part of the structures authorised by this resource consent be lost into the marine environment that is of a size that could constitute a navigation hazard, the consent holder shall inform the Waikato Regional Council as soon as practicable. The consent holder shall also undertake all necessary steps where practicable to find the lost part and once found shall undertake such actions as are necessary to ensure it does not constitute a navigation hazard.
 
 ##### Waste removal
 
-##### 12
-    
-*   The consent holder shall ensure that non-biodegradable material lost or removed from the structures authorised by this resource consent, including but necessarily limited to, anchors, lines, droppers, ties, buoys, cages and timber, shall be removed as soon as practicable from the seabed, water column or foreshore and disposed of on land to the satisfaction of the Waikato Regional Council.
+*   12 The consent holder shall ensure that non-biodegradable material lost or removed from the structures authorised by this resource consent, including but necessarily limited to, anchors, lines, droppers, ties, buoys, cages and timber, shall be removed as soon as practicable from the seabed, water column or foreshore and disposed of on land to the satisfaction of the Waikato Regional Council.
 
 ##### Removal of unused and/or abandoned structures
 
-##### 13
-    
-*   The consent holder shall inform the Waikato Regional Council as soon as practicable should the marine farming operation cease within all or part of the space authorised by this resource consent. Unless otherwise agreed in writing by the Waikato Regional Council, the structures authorised by this resource consent shall be removed and suitably disposed of on land to the satisfaction of the Waikato Regional Council at the consent holder's expense within six (6) months of the date of ceasing to farm this area, or at the expiry or lapse or cancellation or surrender of this resource consent.
+*   13 The consent holder shall inform the Waikato Regional Council as soon as practicable should the marine farming operation cease within all or part of the space authorised by this resource consent. Unless otherwise agreed in writing by the Waikato Regional Council, the structures authorised by this resource consent shall be removed and suitably disposed of on land to the satisfaction of the Waikato Regional Council at the consent holder's expense within six (6) months of the date of ceasing to farm this area, or at the expiry or lapse or cancellation or surrender of this resource consent.
 
-*   Note: Removal upon expiry shall not apply where the consent holder has applied to the Waikato Regional Council pursuant to [section 165ZH][214] of the Resource Management Act 1991 to replace this resource consent and a final decision on the application has not been determined.
+*   Note: Removal upon expiry shall not apply where the consent holder has applied to the Waikato Regional Council pursuant to [section 165ZH][215] of the Resource Management Act 1991 to replace this resource consent and a final decision on the application has not been determined.
 
 ##### Discharges
 
-##### 14
-    
-*   The consent holder shall ensure that there are no unauthorised discharges of contaminants such as oil, diesel, or petrol, to surface water or the coastal marine area as a result of the exercise of this resource consent.
+*   14 The consent holder shall ensure that there are no unauthorised discharges of contaminants such as oil, diesel, or petrol, to surface water or the coastal marine area as a result of the exercise of this resource consent.
 
-##### 15
-    
-*   The consent holder shall not introduce artificial feed or antibiotics to the water column unless authorised by a separate resource consent.
+*   15 The consent holder shall not introduce artificial feed or antibiotics to the water column unless authorised by a separate resource consent.
 
 ##### Monitoring
 
-##### 16
-    
-*   The consent holder shall, within two (2) months after the commencement of the [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117], submit an environmental monitoring plan for the approval of the Chief Executive of the Waikato Regional Council, to effectively monitor the environmental effects of the existing marine farm. The consent holder shall adhere to the monitoring requirements set out in the approved monitoring plan or any subsequent plan that is submitted by the consent holder and approved in writing by the Chief Executive of the Waikato Regional Council.
+*   16 The consent holder shall, within two (2) months after the commencement of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011, submit an environmental monitoring plan for the approval of the Chief Executive of the Waikato Regional Council, to effectively monitor the environmental effects of the existing marine farm. The consent holder shall adhere to the monitoring requirements set out in the approved monitoring plan or any subsequent plan that is submitted by the consent holder and approved in writing by the Chief Executive of the Waikato Regional Council.
 
 ##### Bond
 
-##### 17
-    
-*   Within 2 months after the commencement of the [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117], unless otherwise agreed in writing by the Waikato Regional Council, the consent holder shall provide a bond to secure compliance with condition \[13\] of this resource consent to the satisfaction of the Waikato Regional Council. 
+*   17 Within 2 months after the commencement of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011, unless otherwise agreed in writing by the Waikato Regional Council, the consent holder shall provide a bond to secure compliance with condition \[13\] of this resource consent to the satisfaction of the Waikato Regional Council.
 
-##### 18
-    
-*   Unless the Waikato Regional Council agrees to an earlier release, the consent holder shall maintain the bond in favour of the Waikato Regional Council until two (2) years after the expiry of this resource consent. Where the consent holder has applied to the Waikato Regional Council pursuant to [section 165ZH][214] of the Resource Management Act 1991 to replace this resource consent, the consent holder shall maintain the bond in favour of the Waikato Regional Council until one (1) year after the decision and any subsequent appeals on that decision.
+*   18 Unless the Waikato Regional Council agrees to an earlier release, the consent holder shall maintain the bond in favour of the Waikato Regional Council until two (2) years after the expiry of this resource consent. Where the consent holder has applied to the Waikato Regional Council pursuant to section 165ZH of the Resource Management Act 1991 to replace this resource consent, the consent holder shall maintain the bond in favour of the Waikato Regional Council until one (1) year after the decision and any subsequent appeals on that decision.
 
-##### 19
-    
-*   The bond shall be in a form approved by the Waikato Regional Council and shall be on the terms required by the Waikato Regional Council. Unless the bond is a cash deposit, the performance of the bond shall be guaranteed by a guarantor which is acceptable to the Waikato Regional Council. The guarantor shall bind itself to pay for, or undertake, the work necessary for the carrying out and completion of any works to ensure compliance with condition \[13\] in the event of any default of the consent holder. Alternatively, the bond requirement may be met by a legally enforceable industry pooled fund and/or security scheme which has been approved by the WRC.
+*   19 The bond shall be in a form approved by the Waikato Regional Council and shall be on the terms required by the Waikato Regional Council. Unless the bond is a cash deposit, the performance of the bond shall be guaranteed by a guarantor which is acceptable to the Waikato Regional Council. The guarantor shall bind itself to pay for, or undertake, the work necessary for the carrying out and completion of any works to ensure compliance with condition \[13\] in the event of any default of the consent holder. Alternatively, the bond requirement may be met by a legally enforceable industry pooled fund and/or security scheme which has been approved by the WRC.
 
-##### 20
-    
-*   Within 2 months after the commencement of the [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117], the consent holder shall propose a bond quantum for the Waikato Regional Council's consideration. The bond shall be fixed by the Waikato Regional Council after taking into account any calculations or other matters submitted by the consent holder which are relevant to the determination of the bond quantum. Failure to propose a bond quantum by this date will result in the bond quantum being fixed by the Waikato Regional Council without such consideration.
+*   20 Within 2 months after the commencement of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011, the consent holder shall propose a bond quantum for the Waikato Regional Council's consideration. The bond shall be fixed by the Waikato Regional Council after taking into account any calculations or other matters submitted by the consent holder which are relevant to the determination of the bond quantum. Failure to propose a bond quantum by this date will result in the bond quantum being fixed by the Waikato Regional Council without such consideration.
 
-##### 21
-    
-*   The bond shall make provision so that every third year, beginning 1 March 2014, the quantum of the bond shall be adjusted for inflation.
+*   21 The bond shall make provision so that every third year, beginning 1 March 2014, the quantum of the bond shall be adjusted for inflation.
 
-##### 22
-    
-*   The bond may be varied or cancelled at any time by agreement in writing between the consent holder and the Waikato Regional Council. 
+*   22 The bond may be varied or cancelled at any time by agreement in writing between the consent holder and the Waikato Regional Council.
 
 *   Note: The Waikato Regional Council may include in any written agreement cancelling the bond a stipulation that the requirement for the bond shall be reinstated at any time if it is deemed necessary by the Waikato Regional Council following consultation with the consent holder.
 
-##### 23
-    
-*   The transfer of this resource consent is subject to the transferee providing a bond on the same terms as the existing bond, unless this requirement is provided for by an industry security scheme approved by the Waikato Regional Council. In the case of any transfer in part or in whole to another person, the bond lodged by the transferor shall be retained until any outstanding work at the date of transfer is completed to ensure compliance with condition \[13\] of this resource consent.
+*   23 The transfer of this resource consent is subject to the transferee providing a bond on the same terms as the existing bond, unless this requirement is provided for by an industry security scheme approved by the Waikato Regional Council. In the case of any transfer in part or in whole to another person, the bond lodged by the transferor shall be retained until any outstanding work at the date of transfer is completed to ensure compliance with condition \[13\] of this resource consent.
 
-*   Note: The Waikato Regional Council will not unreasonably retain the bond if it is satisfied that adequate or alternative provisions have been made in this regard. 
+*   Note: The Waikato Regional Council will not unreasonably retain the bond if it is satisfied that adequate or alternative provisions have been made in this regard.
 
-##### 24
-    
-*   The consent holder shall pay all reasonable costs incurred by the Waikato Regional Council in relation to the preparation, administration and execution of the bond. 
+*   24 The consent holder shall pay all reasonable costs incurred by the Waikato Regional Council in relation to the preparation, administration and execution of the bond.
 
 ##### Review
 
-##### 25
-    
-*   The Waikato Regional Council may, within two (2) months either side of 1 March 2012, and at five yearly periods thereafter, serve notice on the consent holder under [section 128(1)][123] of the Resource Management Act 1991, of its intention to review the conditions of this resource consent. The review will be for the following purposes:
+*   25 The Waikato Regional Council may, within two (2) months either side of 1 March 2012, and at five yearly periods thereafter, serve notice on the consent holder under section 128(1) of the Resource Management Act 1991, of its intention to review the conditions of this resource consent. The review will be for the following purposes:
         
     *   (i) to review the effectiveness of the conditions of this resource consent in avoiding or mitigating any adverse effects on the environment from the exercise of this resource consent and if necessary to avoid, remedy or mitigate such effects by way of further or amended conditions; and/or
     
@@ -2607,13 +2559,11 @@ Marine Farming Permit 364 (Waikato Communal Area)
     
     
 
-*   Note: Costs associated with any review of the conditions of this resource consent will be recovered from the consent holder in accordance with the provisions of [section 36][141] of the Resource Management Act 1991\.
+*   Note: Costs associated with any review of the conditions of this resource consent will be recovered from the consent holder in accordance with the provisions of [section 36][142] of the Resource Management Act 1991\.
 
 ##### Administration
 
-##### 26
-    
-*   The consent holder shall pay to the Waikato Regional Council any administrative charge fixed in accordance with section 36 of the Resource Management Act 1991, or any charge prescribed in accordance with regulation made under [section 360][200] of the Resource Management Act 1991\.
+*   26 The consent holder shall pay to the Waikato Regional Council any administrative charge fixed in accordance with section 36 of the Resource Management Act 1991, or any charge prescribed in accordance with regulation made under section 360 of the Resource Management Act 1991\.
 
 #### Advice notes
 
@@ -2623,15 +2573,15 @@ Marine Farming Permit 364 (Waikato Communal Area)
 
 *   2\. The consent holder may apply to change the conditions of this resource consent under [section 127][137] of the Resource Management Act 1991\.
 
-*   3\. In accordance with [section 126][212] of the Resource Management Act 1991, if this resource consent has been exercised in the past, but has not been exercised during the preceding five (5) years, it may be cancelled by the Waikato Regional Council.
+*   3\. In accordance with [section 126][213] of the Resource Management Act 1991, if this resource consent has been exercised in the past, but has not been exercised during the preceding five (5) years, it may be cancelled by the Waikato Regional Council.
 
-*   4\. The consent holder is advised that they have a general duty under [section 17(1)][227] of the Resource Management Act 1991 to avoid, remedy or mitigate any adverse effect on the environment arising from the marine farming activity. 
+*   4\. The consent holder is advised that they have a general duty under [section 17(1)][228] of the Resource Management Act 1991 to avoid, remedy or mitigate any adverse effect on the environment arising from the marine farming activity.
 
-*   5\. The consent holder is required to comply with all relevant provisions of the [Building Act 2004][228].
+*   5\. The consent holder is required to comply with all relevant provisions of the [Building Act 2004][229].
 
 ##### Aquaculture reforms
     
-*   6\. This resource consent provides for activities previously authorised by a marine farming permit. This resource consent was created on 1 October 2011 by the [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117] and expires on 31 December 2033 ([section 20A][28] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004). The consent holder has a right to apply for a replacement resource consent pursuant to [section 165ZH][214] of the Resource Management Act 1991\.
+*   6\. This resource consent provides for activities previously authorised by a marine farming permit. This resource consent was created on 1 October 2011 by the [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117] and expires on 31 December 2033 ([section 20A][28] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004). The consent holder has a right to apply for a replacement resource consent pursuant to [section 165ZH][215] of the Resource Management Act 1991\.
 
 ##### Extent of occupation
     
@@ -2639,19 +2589,19 @@ Marine Farming Permit 364 (Waikato Communal Area)
 
 ##### Biosecurity
     
-*   8\. Under [section 44][229] of the Biosecurity Act 1993 every person has a duty to inform the Ministry of Agriculture and Forestry (MAF), as soon as practicable, of the presence of an organism not normally seen or otherwise detected in New Zealand.
+*   8\. Under [section 44][230] of the Biosecurity Act 1993 every person has a duty to inform the Ministry of Agriculture and Forestry (MAF), as soon as practicable, of the presence of an organism not normally seen or otherwise detected in New Zealand.
 
-*   Under [section 46][230] of the Biosecurity Act 1993 every person is required, without unreasonable delay, to notify the Chief Technical Officer of the presence or possible presence of notifiable organisms (under MAF policy all notifiable organisms are also unwanted organisms).
+*   Under [section 46][231] of the Biosecurity Act 1993 every person is required, without unreasonable delay, to notify the Chief Technical Officer of the presence or possible presence of notifiable organisms (under MAF policy all notifiable organisms are also unwanted organisms).
 
 ##### Marine mammals
     
-*   9\. In the event a marine mammal is entangled or stranded within the farm structures the consent holder should, as soon as practicable, contact the nearest office of the Department of Conservation. This is a legal requirement under the [Marine Mammals Protection Act 1978][231].
+*   9\. In the event a marine mammal is entangled or stranded within the farm structures the consent holder should, as soon as practicable, contact the nearest office of the Department of Conservation. This is a legal requirement under the [Marine Mammals Protection Act 1978][232].
 
-*   10\. In the event that a protected species other than a marine mammal is entangled, that is protected under the [Wildlife Act 1953][232] (for example, sea turtles) the consent holder should as soon as practicable, contact the nearest office of the Department of Conservation or the Ministry of Fisheries. This is a legal requirement under the Wildlife Act 1953, in respect of permits issued under the [Fisheries Act 1983][113].
+*   10\. In the event that a protected species other than a marine mammal is entangled, that is protected under the [Wildlife Act 1953][233] (for example, sea turtles) the consent holder should as soon as practicable, contact the nearest office of the Department of Conservation or the Ministry of Fisheries. This is a legal requirement under the Wildlife Act 1953, in respect of permits issued under the [Fisheries Act 1983][113].
 
 ##### Administration
 
-The reasonable costs incurred by the Waikato Regional Council arising from supervision and monitoring of this resource consent will be charged to the consent holder ([section 36][141] of the Resource Management Act 1991). This may include, but not be limited to, routine inspection by the Waikato Regional Council officers or agents, liaison with the consent holder, responding to complaints or enquiries relating to the marine farm, and review and assessment of compliance with the conditions of consent.
+The reasonable costs incurred by the Waikato Regional Council arising from supervision and monitoring of this resource consent will be charged to the consent holder ([section 36][142] of the Resource Management Act 1991). This may include, but not be limited to, routine inspection by the Waikato Regional Council officers or agents, liaison with the consent holder, responding to complaints or enquiries relating to the marine farm, and review and assessment of compliance with the conditions of consent.
 
 ---
 
@@ -2660,18 +2610,14 @@ Aquaculture agreements and compensation declarations
 
 [ss 25A][34], [26A][37], [44][60], [44J][71], [44K][72], [50A][93]
 
-*   Schedule 2: added, on 1 October 2011, by [section 36][226] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+*   Schedule 2: added, on 1 October 2011, by [section 36][227] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 ## Part 1  
 Sections 25A, 26A, and 50A
 
-##### 1
-    
-*   [Subpart 4][152] of Part 9A of the Fisheries Act 1996 applies in relation to aquaculture agreements and compensation declarations entered into for the purposes of [sections 25A][34], [26A][37], and [50A][93] of this Act subject to the exclusions and modifications in paragraphs 2 to 10\.
+*   1 Subpart 4 of Part 9A of the Fisheries Act 1996 applies in relation to aquaculture agreements and compensation declarations entered into for the purposes of sections 25A, 26A, and 50A of this Act subject to the exclusions and modifications in paragraphs 2 to 10\.
 
-##### 2
-    
-*   [Section 186ZF][233] applies as if subsection (2) were repealed and the following subsection substituted:
+*   2 Section 186ZF applies as if subsection (2) were repealed and the following subsection substituted:
     
     > *   "(2) The consents required are, for each stock specified in the chief executive's notice under section 25A(8), 26A(8), or 50A(8) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004, as the case may be,---
     >         
@@ -2685,13 +2631,9 @@ Sections 25A, 26A, and 50A
     
     
 
-##### 3
-    
-*   [Section 186ZF(3)][233] applies as if the words "the coastal permit to which they relate" were omitted and the words "any deemed coastal permit that relates to the marine farming permit or spat catching permit to which the consent and aquaculture agreement relate" substituted.
+*   3 Section 186ZF(3) applies as if the words "the coastal permit to which they relate" were omitted and the words "any deemed coastal permit that relates to the marine farming permit or spat catching permit to which the consent and aquaculture agreement relate" substituted.
 
-##### 4
-    
-*   [Section 186ZF][233] applies as if subsection (4) were repealed and the following subsection substituted:
+*   4 Section 186ZF applies as if subsection (4) were repealed and the following subsection substituted:
     
     > *   "(4) For the purposes of this section, subsection (2) applies to the persons specified in that subsection as at 5 pm on the date on which public notification is given under section 25A(8), 26A(8), or 50A(8) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004, as the case may be."
     > 
@@ -2699,9 +2641,7 @@ Sections 25A, 26A, and 50A
     
     
 
-##### 5
-    
-*   [Section 186ZI(1)][148] applies as if paragraph (b) of that subsection were repealed and the following paragraph substituted:
+*   5 Section 186ZI(1) applies as if paragraph (b) of that subsection were repealed and the following paragraph substituted:
     
     > *   "(b) within 6 months after the date of the public notification under section 25A(8), 26A(8), or 50A(8) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004\."
     > 
@@ -2709,9 +2649,7 @@ Sections 25A, 26A, and 50A
     
     
 
-##### 6
-    
-*   [Section 186ZIA(1)][149] applies as if paragraph (b) of that subsection were repealed and the following paragraph substituted:
+*   6 Section 186ZIA(1) applies as if paragraph (b) of that subsection were repealed and the following paragraph substituted:
     
     > *   "(b) within 6 months after the date of public notification under section 25A(8), 26A(8), or 50A(8) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004\."
     > 
@@ -2719,13 +2657,9 @@ Sections 25A, 26A, and 50A
     
     
 
-##### 7
-    
-*   [Sections 186ZK][234] and [186ZM][235] do not apply. 
+*   7 Sections 186ZK and 186ZM do not apply.
 
-##### 8
-    
-*   [Section 186ZL][236] applies as if subsections (1) and (2) were repealed and the following subsection substituted:
+*   8 Section 186ZL applies as if subsections (1) and (2) were repealed and the following subsection substituted:
     
     > *   "(1) If the chief executive gives notice under section 25A(8), 26A(8), or 50A(8) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004, the chief executive must, on the date of the public notification, ensure that a memorial is recorded in the appropriate register against all quota for the stocks specified in the notice."
     > 
@@ -2733,9 +2667,7 @@ Sections 25A, 26A, and 50A
     
     
 
-##### 9
-    
-*   [Section 186ZL(3)][236] applies as if paragraph (a) were repealed and the following paragraph substituted:
+*   9 Section 186ZL(3) applies as if paragraph (a) were repealed and the following paragraph substituted:
     
     > *   "(a) the chief executive has determined that section 25A(5), 26A(5), or 50A(5) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 applies; and".
     > 
@@ -2743,9 +2675,7 @@ Sections 25A, 26A, and 50A
     
     
 
-##### 10
-    
-*   In [sections 186ZN to 186ZR][188],---
+*   10 In sections 186ZN to 186ZR,---
     
     _affected quota owner_ or _quota owner_ is to be read as if it means a person who is the registered quota owner of the relevant quota management stock as at 5 pm on the date on which the chief executive gives public notification under [section 25A(8)][34], [26A(8)][37], or [50A(8)][93], as the case may require
     
@@ -2756,13 +2686,9 @@ Sections 25A, 26A, and 50A
 ## Part 2  
 Section 44
 
-##### 11
-    
-*   [Subpart 4][152] of Part 9A of the Fisheries Act 1996 applies in relation to aquaculture agreements and compensation declarations referred to in [section 44(3)(b)][60] subject to the exclusion and modifications in paragraphs 12 to 17\.
+*   11 Subpart 4 of Part 9A of the Fisheries Act 1996 applies in relation to aquaculture agreements and compensation declarations referred to in section 44(3)(b) subject to the exclusion and modifications in paragraphs 12 to 17\.
 
-##### 12
-    
-*   [Section 186ZF][233] applies as if subsection (2) were repealed and the following subsection substituted:
+*   12 Section 186ZF applies as if subsection (2) were repealed and the following subsection substituted:
     
     > *   "(2) The consents required are, for each stock specified in the chief executive's notice under section 41 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 in relation to the space to which the application relates,---
     >         
@@ -2776,9 +2702,7 @@ Section 44
     
     
 
-##### 13
-    
-*   [Section 186ZF][233] applies as if subsection (4) were repealed and the following subsection substituted:
+*   13 Section 186ZF applies as if subsection (4) were repealed and the following subsection substituted:
     
     > *   "(4) For the purposes of this section, subsection (2) applies to the persons specified in that subsection as at 5 pm on the date on which public notification is given under section 44(3)(b) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004\."
     > 
@@ -2786,9 +2710,7 @@ Section 44
     
     
 
-##### 14
-    
-*   [Section 186ZI(1)][148] applies as if paragraph (b) of that subsection were repealed and the following paragraph substituted:
+*   14 Section 186ZI(1) applies as if paragraph (b) of that subsection were repealed and the following paragraph substituted:
     
     > *   "(b) within 6 months after the date of the public notice under section 44(3)(b) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004\."
     > 
@@ -2796,9 +2718,7 @@ Section 44
     
     
 
-##### 15
-    
-*   [Section 186ZIA(1)][149] applies as if paragraph (b) of that subsection were repealed and the following paragraph substituted:
+*   15 Section 186ZIA(1) applies as if paragraph (b) of that subsection were repealed and the following paragraph substituted:
     
     > *   "(b) within 6 months after the date of the public notice under section 44(3)(b) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004\."
     > 
@@ -2806,13 +2726,9 @@ Section 44
     
     
 
-##### 16
-    
-*   [Section 186ZM][235] does not apply.
+*   16 Section 186ZM does not apply.
 
-##### 17
-    
-*   In [sections 186ZN to 186ZR][188],---
+*   17 In sections 186ZN to 186ZR,---
     
     _affected quota owner_ or _quota owner_ is to be read as if it means a person who is the registered quota owner of the relevant quota management stock as at 5 pm on the date of the public notice under [section 44(3)(b)][60] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004
     
@@ -2823,13 +2739,9 @@ Section 44
 ## Part 3  
 Sections 44J and 44K
 
-##### 18
-    
-*   [Subpart 4][152] of Part 9A of the Fisheries Act 1996 applies in relation to aquaculture agreements and compensation declarations referred to in [sections 44J][71] and [44K][72] subject to the exclusion and modifications in paragraphs 19 to 25\.
+*   18 Subpart 4 of Part 9A of the Fisheries Act 1996 applies in relation to aquaculture agreements and compensation declarations referred to in sections 44J and 44K subject to the exclusion and modifications in paragraphs 19 to 25\.
 
-##### 19
-    
-*   [Section 186ZF][233] applies as if subsection (2) were repealed and the following subsection substituted:
+*   19 Section 186ZF applies as if subsection (2) were repealed and the following subsection substituted:
     
     > *   "(2) The consents required are, for each stock specified in the chief executive's notice under section 41 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 in relation to the agreed or identified space,---
     >         
@@ -2843,13 +2755,9 @@ Sections 44J and 44K
     
     
 
-##### 20
-    
-*   [Section 186ZF(3)][233] applies as if the words "the coastal permit to which they relate" were omitted, and the words "any coastal permit that relates to the area to which the consent and aquaculture agreement relate" were substituted.
+*   20 Section 186ZF(3) applies as if the words "the coastal permit to which they relate" were omitted, and the words "any coastal permit that relates to the area to which the consent and aquaculture agreement relate" were substituted.
 
-##### 21
-    
-*   [Section 186ZF][233] applies as if subsection (4) were repealed and the following subsection substituted:
+*   21 Section 186ZF applies as if subsection (4) were repealed and the following subsection substituted:
     
     > *   "(4) For the purposes of this section, subsection (2) applies to the persons specified in that subsection as at 5 pm on the date on which notice is given by the chief executive under section 44J(3) or 44K(3) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004, as the case may be."
     > 
@@ -2857,9 +2765,7 @@ Sections 44J and 44K
     
     
 
-##### 22
-    
-*   [Section 186ZI(1)][148] applies as if paragraph (b) of that subsection were repealed and the following paragraph substituted:
+*   22 Section 186ZI(1) applies as if paragraph (b) of that subsection were repealed and the following paragraph substituted:
     
     > *   "(b) within 6 months after the date of the notice under section 44J(3) or 44K(3) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004, as the case may be."
     > 
@@ -2867,9 +2773,7 @@ Sections 44J and 44K
     
     
 
-##### 23
-    
-*   [Section 186ZIA(1)][149] applies as if paragraph (b) of that subsection were repealed and the following paragraph substituted:
+*   23 Section 186ZIA(1) applies as if paragraph (b) of that subsection were repealed and the following paragraph substituted:
     
     > *   "(b) within 6 months after the date of the notice under section 44J(3) or 44K(3) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004, as the case may be."
     > 
@@ -2877,13 +2781,9 @@ Sections 44J and 44K
     
     
 
-##### 24
-    
-*   [Section 186ZM][235] does not apply. 
+*   24 Section 186ZM does not apply.
 
-##### 25
-    
-*   In [sections 186ZN to 186ZR][188],---
+*   25 In sections 186ZN to 186ZR,---
     
     _affected quota owner_ or _quota owner_ is to be read as if it means a person who is the registered quota owner of the relevant quota management stock as at 5 pm on the date on which the chief executive gives notice under [section 44J(3)][71] or [44K(3)][72] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004, as the case may require
     
@@ -2900,7 +2800,7 @@ Deferred applications
 
 [s 47][82]
 
-*   Schedule 3: added, on 1 October 2011, by [section 36][226] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
+*   Schedule 3: added, on 1 October 2011, by [section 36][227] of the Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011 (2011 No 67).
 
 **Auckland Regional Council consent application number** **Waikato Regional Council consent application number (if applicable for transferred applications)** **Acceptance date**
 
@@ -2944,78 +2844,37 @@ Deferred applications
 
 25979 16/10/01
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004\. The reprint incorporates all the amendments to the Act as at 1 October 2011, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][237] ![](/images/external_link.gif).
+*   This is a reprint of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][238] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][234] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][235] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][239] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][236] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][237] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][240] and [17E][241] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2013][238] (2013 No 107)
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117] (2011 No 67)
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2008][239] (2008 No 92)
     
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2011][117] (2011 No 67)
-    
-    [Aquaculture Reform (Repeals and Transitional Provisions) Amendment Act 2008][242] (2008 No 92)
-    
-    Aquaculture Reform (Repeals and Transitional Provisions) Act 2004: [section 58][104]
+    Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 (2004 No 109): [section 58][104]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2004/0109/latest/whole.html#DLM324741
 [2]: http://www.legislation.govt.nz/act/public/2004/0109/latest/whole.html#DLM324742
 [3]: http://www.legislation.govt.nz/act/public/2004/0109/latest/whole.html#DLM324743
@@ -3154,107 +3013,104 @@ Deferred applications
 [136]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342123
 [137]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM235220
 [138]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3708901
-[139]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM69778
-[140]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342124
-[141]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM233023
-[142]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342125
-[143]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM69753
-[144]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM69765
-[145]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM69773
-[146]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM231965
-[147]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342126
-[148]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM398362
-[149]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM4077204
-[150]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM408335
-[151]: http://www.legislation.govt.nz/act/public/2004/0109/latest/whole.html#DLM4121240
-[152]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM398348
-[153]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM396924
-[154]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342127
-[155]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342136
-[156]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342137
-[157]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM397993
-[158]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342146
-[159]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM398324
-[160]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM93755
-[161]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM398340
-[162]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM399924
-[163]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM94109
-[164]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM398322
-[165]: http://www.legislation.govt.nz/act/public/2004/0109/latest/whole.html#DLM4121258
-[166]: http://www.legislation.govt.nz/act/public/2004/0109/latest/whole.html#DLM4121273
-[167]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM235438
-[168]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM324535
-[169]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM311475
-[170]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM324393
-[171]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM312084
-[172]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342148
-[173]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM241213
-[174]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM233046
-[175]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342167
-[176]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM235436
-[177]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM1441815
-[178]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM401704
-[179]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM401719
-[180]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3958620
-[181]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3958622
-[182]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3958623
-[183]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342168
-[184]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342170
-[185]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM324702
-[186]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM398360
-[187]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM4077203
-[188]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM4075833
-[189]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM4075837
-[190]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM236065
-[191]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM236063
-[192]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM4077201
-[193]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM4119037
-[194]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM240686
-[195]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM324399
-[196]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342192
-[197]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM232521
-[198]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342194
-[199]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM2411528
-[200]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM239372
-[201]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM233869
-[202]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM233884
-[203]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM234326
-[204]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM2218811
-[205]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM1629437
-[206]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM1649229
-[207]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3959714
-[208]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM234887
-[209]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM235211
-[210]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM239356
-[211]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342198
-[212]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM235217
-[213]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM235272
-[214]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM236097
-[215]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342199
-[216]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342200
-[217]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342201
-[218]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM235206
-[219]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM1441816
-[220]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3708908
-[221]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342210
-[222]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3958629
-[223]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3708909
-[224]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342211
-[225]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM325333
-[226]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342381
-[227]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM232500
-[228]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM306035
-[229]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM315343
-[230]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM315349
-[231]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM25110
-[232]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM276813
-[233]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM398355
-[234]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM398366
-[235]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM4075831
-[236]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM398368
-[237]: http://www.pco.parliament.govt.nz/reprints/
-[238]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM195439
-[239]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[240]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM195468
-[241]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM195470
-[242]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM1441800
+[139]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM5619707
+[140]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM69778
+[141]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342124
+[142]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM233023
+[143]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342125
+[144]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM69753
+[145]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM69765
+[146]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM69773
+[147]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM231965
+[148]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342126
+[149]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM398362
+[150]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM4077204
+[151]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM408335
+[152]: http://www.legislation.govt.nz/act/public/2004/0109/latest/whole.html#DLM4121240
+[153]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM398348
+[154]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM396924
+[155]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342127
+[156]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342136
+[157]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342137
+[158]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM397993
+[159]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342146
+[160]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM398324
+[161]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM93755
+[162]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM398340
+[163]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM399924
+[164]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM94109
+[165]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM398322
+[166]: http://www.legislation.govt.nz/act/public/2004/0109/latest/whole.html#DLM4121258
+[167]: http://www.legislation.govt.nz/act/public/2004/0109/latest/whole.html#DLM4121273
+[168]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM235438
+[169]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM324535
+[170]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM311475
+[171]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM324393
+[172]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM312084
+[173]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342148
+[174]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM241213
+[175]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM233046
+[176]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342167
+[177]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM235436
+[178]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM1441815
+[179]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM401704
+[180]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM401719
+[181]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3958620
+[182]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3958622
+[183]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3958623
+[184]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342168
+[185]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342170
+[186]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM324702
+[187]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM398360
+[188]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM4077203
+[189]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM4075833
+[190]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM4075837
+[191]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM236065
+[192]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM236063
+[193]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM4077201
+[194]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM4119037
+[195]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM240686
+[196]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM324399
+[197]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342192
+[198]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM232521
+[199]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342194
+[200]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM2411528
+[201]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM239372
+[202]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM233869
+[203]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM233884
+[204]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM234326
+[205]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM2218811
+[206]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM1629437
+[207]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM1649229
+[208]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3959714
+[209]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM234887
+[210]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM235211
+[211]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM239356
+[212]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342198
+[213]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM235217
+[214]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM235272
+[215]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM236097
+[216]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342199
+[217]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342200
+[218]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342201
+[219]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM235206
+[220]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM1441816
+[221]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3708908
+[222]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342210
+[223]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3958629
+[224]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3708909
+[225]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342211
+[226]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM325333
+[227]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM3342381
+[228]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM232500
+[229]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM306035
+[230]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM315343
+[231]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM315349
+[232]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM25110
+[233]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM276813
+[234]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM2998516
+[235]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM2998515
+[236]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM2998532
+[237]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[238]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM5619700
+[239]: http://www.legislation.govt.nz/act/public/2004/0109/latest/link.aspx?id=DLM1441800
