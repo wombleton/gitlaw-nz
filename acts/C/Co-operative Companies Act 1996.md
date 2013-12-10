@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,11 +13,11 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Economic Development.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -47,9 +47,9 @@ This Act is administered by the Ministry of Economic Development.
 
 [7][11][][11][Simultaneous registration under Companies Act 1993 and this Act][11]
 
-[8][12][][12][Simultaneous registration under this Act and reregistration under Companies Act 1993 of existing co-operative companies][12]
+[8][12][][12][Simultaneous registration under this Act and reregistration under Companies Act 1993 of existing co-operative companies][12] \[Repealed\]
 
-[9][13][][13][Simultaneous registration under this Act and reregistration under Companies Act 1993 of existing companies][13]
+[9][13][][13][Simultaneous registration under this Act and reregistration under Companies Act 1993 of existing companies][13] \[Repealed\]
 
 [10][14][][14][Annual resolution by directors of co-operative company][14]
 
@@ -116,9 +116,9 @@ This Act is administered by the Ministry of Economic Development.
 
 [36][45][][45][Simultaneous registration under Companies Act 1993 and this Part][45]
 
-[37][46][][46][Simultaneous registration of existing co-operative companies][46]
+[37][46][][46][Simultaneous registration of existing co-operative companies][46] \[Repealed\]
 
-[38][47][][47][Registration of existing companies][47]
+[38][47][][47][Registration of existing companies][47] \[Repealed\]
 
 [39][48][][48][Suppliers to be shareholders][48]
 
@@ -205,13 +205,9 @@ Interpretation
             
         *   (i) that is a subsidiary of a company referred to in paragraph (a); and
         
-        *   (ii) the principal activity of which is, and is stated in its constitution as being, a co-operative activity
+        *   (ii) the principal activity of which is, and is stated in its constitution as being, a co-operative activity.
         
         
-    
-    _existing company_ means a body corporate registered under Part 2 or Part 8 or Part 10 of the Companies Act 1955, or under the Companies Act 1933, the Companies Act 1908, the Companies Act 1903, the Companies Act 1882, or the Joint Stock Companies Act 1860
-    
-    _existing co-operative company_ means an existing company registered under the Co-operative Dairy Companies Act 1949, the Co-operative Companies Act 1956, the Co-operative Freezing Companies Act 1960, or the Co-operative Forestry Companies Act 1978\.
     
     (2) For the purposes of the definition of the term co-operative company in subsection (1),---
         
@@ -228,6 +224,10 @@ Interpretation
     (3) For the purposes of subsection (2), the provisions of [section 8][72] of the Companies Act 1993 shall apply in determining whether one company is the subsidiary of another company.
     
     (4) Any term or expression that is not defined in this Act, but that is defined in the [Companies Act 1993][69], has the meaning given to it by the Companies Act 1993\.
+    
+    Section 2(1) **existing company**: repealed, on 5 December 2013, by [section 14][73] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 2(1) **existing co-operative company**: repealed, on 5 December 2013, by [section 14][73] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 3 Meaning of co-operative activity
     
@@ -320,15 +320,15 @@ Co-operative companies
 
 ##### 7 Simultaneous registration under Companies Act 1993 and this Act
     
-*   (1) An application for registration of a company as a co-operative company under this Act may be sent or delivered to the Registrar together with an application for registration of a company under [section 12][73] of the Companies Act 1993\.
+*   (1) An application for registration of a company as a co-operative company under this Act may be sent or delivered to the Registrar together with an application for registration of a company under [section 12][74] of the Companies Act 1993\.
     
     (2) An application under subsection (1) must be---
         
     *   (a) in the prescribed form; and
     
-    *   (b) signed by a person acting with the express or implied authority of the persons named in the application under [section 12][73] of the Companies Act 1993 as directors of the company; and
+    *   (b) signed by a person acting with the express or implied authority of the persons named in the application under [section 12][74] of the Companies Act 1993 as directors of the company; and
     
-    *   (c) accompanied by a statutory declaration made by each person named in the application under [section 12][73] of the Companies Act 1993 as a director stating that, in the opinion of that person, the company will, upon registration, be a co-operative company within the meaning of this Act and the grounds for that opinion.
+    *   (c) accompanied by a statutory declaration made by each person named in the application under [section 12][74] of the Companies Act 1993 as a director stating that, in the opinion of that person, the company will, upon registration, be a co-operative company within the meaning of this Act and the grounds for that opinion.
     
     (3) Every application must be authorised by the proposed constitution of the company or by a resolution of such number of persons who consent to become shareholders of the company and who will hold, in aggregate, not less than 75% of the shares to be issued by the company and, where the application is authorised by that resolution, the application must be accompanied by a copy of the resolution.
     
@@ -350,65 +350,15 @@ Co-operative companies
 
 ##### 8 Simultaneous registration under this Act and reregistration under Companies Act 1993 of existing co-operative companies
     
-*   (1) Every existing co-operative company may apply for registration as a co-operative company under this Act at the same time as it applies, under the [Companies Reregistration Act 1993][74], for reregistration under the [Companies Act 1993][69].
+*   \[Repealed\]
     
-    (2) An application under subsection (1) must be---
-        
-    *   (a) in the prescribed form; and
-    
-    *   (b) signed by a person acting with the express or implied authority of the company; and
-    
-    *   (c) accompanied by a statutory declaration made by each director stating that, in the opinion of the director, the company is a co-operative company within the meaning of this Act and the grounds for that opinion.
-    
-    (3) Every application must be accompanied by a copy of a special resolution of the company authorising the making of the application.
-    
-    (4) As soon as the Registrar receives a properly completed application for registration of an existing co-operative company as a co-operative company under subsection (1), the Registrar must, upon reregistration of the company under the [Companies Act 1993][69] and if satisfied that the company will, upon that reregistration, be a co-operative company,---
-        
-    *   (a) register the company as a co-operative company under this Act; and
-    
-    *   (b) issue a certificate of registration.
-    
-    (5) If the Registrar declines to register an existing co-operative company as a co-operative company on the ground that the Registrar is not satisfied that the company will, upon reregistration under the [Companies Act 1993][69], be a co-operative company, the Registrar must give notice in writing to the applicant setting out the Registrar's reasons.
-    
-    (6) A certificate issued under this section is conclusive evidence that---
-        
-    *   (a) all the requirements of this Act as to registration have been complied with; and
-    
-    *   (b) on the date of registration stated in the certificate, the company ceased to be an existing co-operative company; and
-    
-    *   (c) on and from the date of registration stated in the certificate, the company is registered under this Act.
-    
-    
+    Section 8: repealed, on 5 December 2013, by [section 14][73] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 9 Simultaneous registration under this Act and reregistration under Companies Act 1993 of existing companies
     
-*   (1) An application for registration of an existing company as a co-operative company under this Act may be sent or delivered to the Registrar together with an application, under the [Companies Reregistration Act 1993][74] for reregistration of the company as a company under the [Companies Act 1993][69].
+*   \[Repealed\]
     
-    (2) An application under subsection (1) must be---
-        
-    *   (a) in the prescribed form; and
-    
-    *   (b) signed by a person acting with the express or implied authority of the company; and
-    
-    *   (c) accompanied by a statutory declaration made by each director stating that, in the opinion of the director, the company is a co-operative company within the meaning of this Act and the grounds for that opinion.
-    
-    (3) Every application must be accompanied by a copy of a special resolution of the company authorising the making of the application.
-    
-    (4) As soon as the Registrar receives a properly completed application for registration of an existing company as a co-operative company under subsection (1), the Registrar must, upon reregistration of the company under the [Companies Act 1993][69] and if satisfied that the company will, upon that reregistration, be a co-operative company,---
-        
-    *   (a) register the company as a co-operative company under this Act; and
-    
-    *   (b) issue a certificate of registration.
-    
-    (5) If the Registrar declines to register an existing company as a co-operative company on the ground that the Registrar is not satisfied that the company will, upon reregistration under the [Companies Act 1993][69], be a co-operative company, the Registrar must give notice in writing to the applicant setting out the Registrar's reasons.
-    
-    (6) A certificate issued under this section is conclusive evidence that---
-        
-    *   (a) all the requirements of this Act as to registration have been complied with; and
-    
-    *   (b) on and from the date of registration stated in the certificate, the company is registered under this Act.
-    
-    
+    Section 9: repealed, on 5 December 2013, by [section 14][73] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 10 Annual resolution by directors of co-operative company
     
@@ -897,15 +847,19 @@ Special provisions applying to co-operative dairy companies
 
 ##### 36 Simultaneous registration under Companies Act 1993 and this Part
     
-*   An application for registration of a company as a co-operative dairy company under this Part may be sent or delivered to the Registrar together with an application for registration of a company under [section 12][73] of the Companies Act 1993 and, in any such case, the provisions of [section 7][11] of this Act shall apply, with such modifications as may be necessary, in relation to the application.
+*   An application for registration of a company as a co-operative dairy company under this Part may be sent or delivered to the Registrar together with an application for registration of a company under [section 12][74] of the Companies Act 1993 and, in any such case, the provisions of [section 7][11] of this Act shall apply, with such modifications as may be necessary, in relation to the application.
 
 ##### 37 Simultaneous registration of existing co-operative companies
     
-*   An existing co-operative company may apply for registration as a co-operative dairy company under this Part at the same time as it applies, under the [Companies Reregistration Act 1993][74], for reregistration under the [Companies Act 1993][69] and, in any such case, the provisions of [section 8][12] of this Act shall apply, with such modifications as may be necessary, in relation to the application.
+*   \[Repealed\]
+    
+    Section 37: repealed, on 5 December 2013, by [section 14][73] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 38 Registration of existing companies
     
-*   An application for registration of an existing company as a co-operative dairy company under this Part may be sent or delivered to the Registrar together with an application under the [Companies Reregistration Act 1993][74] for reregistration of the company as a company under the [Companies Act 1993][69] and, in any such case, the provisions of [section 9][13] of this Act shall apply, with such modifications as may be necessary, in relation to the application.
+*   \[Repealed\]
+    
+    Section 38: repealed, on 5 December 2013, by [section 14][73] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 39 Suppliers to be shareholders
     
@@ -1044,9 +998,9 @@ Miscellaneous provisions
     
     (2) Every Co-operative Companies Act shall, notwithstanding its repeal by [section 49(1)][62], continue in force and apply in respect of---
         
-    *   (a) every co-operative company registered under that Act that has made an application for reregistration under the [Companies Reregistration Act 1993][74] before the commencement of this section, but has not been reregistered on the commencement of this section, and shall continue in force and apply until the company is so reregistered:
+    *   (a) every co-operative company registered under that Act that has made an application for reregistration under the [Companies Reregistration Act 1993][121] before the commencement of this section, but has not been reregistered on the commencement of this section, and shall continue in force and apply until the company is so reregistered:
     
-    *   (b) every co-operative company registered under that Act that, immediately after the commencement of this section, has not been reregistered or deemed to be reregistered under the [Companies Reregistration Act 1993][74] and shall continue in force and apply to the company until the company is reregistered or deemed to be reregistered under that Act.
+    *   (b) every co-operative company registered under that Act that, immediately after the commencement of this section, has not been reregistered or deemed to be reregistered under the [Companies Reregistration Act 1993][121] and shall continue in force and apply to the company until the company is reregistered or deemed to be reregistered under that Act.
     
     (3) Every Order in Council made under the Co-operative Companies Act 1956 shall, notwithstanding its revocation by [section 49(2)][62] of this Act, continue in force and apply in respect of every co-operative company to which the order applies that is registered under that Act to the same extent as that Act continues to apply to the company by virtue of subsection (2) of this section.
     
@@ -1171,7 +1125,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Friendly Societies and Credit Unions Act 1982 (1982 No 118)
 
-_Amendment(s) incorporated in the [Act(s)][121]._
+_Amendment(s) incorporated in the [Act(s)][122]._
 
 ##### Income Tax Act 1994 (1994 No 164)
 
@@ -1179,7 +1133,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Industrial and Provident Societies Act 1908 (1908 No 81) (RS Vol 7, p 407)
 
-_Amendment(s) incorporated in the [Act(s)][122]._
+_Amendment(s) incorporated in the [Act(s)][123]._
 
 ##### Securities Act 1978 (1978 No 103) (RS Vol 33, p 587)
 
@@ -1187,7 +1141,7 @@ _Amendment(s) incorporated in the [Act(s)][113]._
 
 ##### Taxation Review Authorities Act 1994 (1994 No 165)
 
-_Amendment(s) incorporated in the [Act(s)][123]._
+_Amendment(s) incorporated in the [Act(s)][124]._
 
 ---
 
@@ -1199,7 +1153,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Dairy Industry Restructuring Act 2001][124].
+*   This Act is the [Dairy Industry Restructuring Act 2001][125].
 
 ## Part 1  
 Preliminary provisions
@@ -1261,70 +1215,29 @@ Restructuring and regulation of dairy industry
     
     (3) This section is additional to the requirements in section 12 of the Co-operative Companies Act 1996\.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Co-operative Companies Act 1996\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][125] ![](/images/external_link.gif).
+*   This is a reprint of the Co-operative Companies Act 1996 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][126] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][126] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][127] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][127] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][128] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][129] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][128] and [17E][129] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][73]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][76]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][76]
     
     Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69): [section 12][110]
     
@@ -1344,7 +1257,7 @@ Restructuring and regulation of dairy industry
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1996/0024/latest/whole.html#DLM376812
 [2]: http://www.legislation.govt.nz/act/public/1996/0024/latest/whole.html#DLM376814
 [3]: http://www.legislation.govt.nz/act/public/1996/0024/latest/whole.html#DLM376815
@@ -1417,8 +1330,8 @@ Restructuring and regulation of dairy industry
 [70]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM216697
 [71]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM319576
 [72]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320104
-[73]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320111
-[74]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM327492
+[73]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM5620822
+[74]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320111
 [75]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM321105
 [76]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM3360714
 [77]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320125
@@ -1465,14 +1378,14 @@ Restructuring and regulation of dairy industry
 [118]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM18088
 [119]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM110102
 [120]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM323226
-[121]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM59731
-[122]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM144405
-[123]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM347443
-[124]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM106750
-[125]: http://www.pco.parliament.govt.nz/reprints/
-[126]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM195439
-[127]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[128]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM195468
-[129]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM195470
+[121]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM327492
+[122]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM59731
+[123]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM144405
+[124]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM347443
+[125]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM106750
+[126]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM2998516
+[127]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM2998515
+[128]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM2998532
+[129]: http://www.pco.parliament.govt.nz/editorial-conventions/
 [130]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM244155
 [131]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM18082
