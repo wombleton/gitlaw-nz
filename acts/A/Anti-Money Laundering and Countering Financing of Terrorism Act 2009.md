@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -742,7 +742,7 @@ Preliminary provisions
     
     *   (c) the Reserve Bank, the Parliamentary Counsel Office, the New Zealand Police, and the New Zealand Security Intelligence Service; or
     
-    *   (d) any international counterpart of the entities in paragraphs (a) to (c)
+    *   (d) any overseas country's counterpart of any of the entities in paragraphs (a) to (c)
     
     _identity information_ means information obtained under [sections 15][19], [19][24], [23][29], and [27(1) and (2)][33] and any other information relating to identity prescribed by [sections 29(2)(g)][35] and [30(b)][36]
     
@@ -762,7 +762,7 @@ Preliminary provisions
         
         *   (iii) any offence under [section 143B][223] of the Tax Administration Act 1994; or
         
-        *   (iv) any serious offence (within the meaning of [section 243(1)][224] of the Crimes Act 1961)
+        *   (iv) any serious offence (within the meaning of [section 243(1)][224] of the Crimes Act 1961):
         
         
     
@@ -950,6 +950,8 @@ Preliminary provisions
     
     Section 5 **financial institution** paragraph (a)(xii): substituted, on 1 February 2011, by [section 241(2)][238] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
     
+    Section 5 **government agency** paragraph (d): replaced, on 5 December 2013, by [section 4][239] of the Anti-Money Laundering and Countering Financing of Terrorism Amendment Act 2013 (2013 No 106).
+    
     Section 5 **life insurance policy**: inserted, on 1 February 2011, by [section 241(2)][238] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
 
 ##### 6 Application of this Act to reporting entities
@@ -978,7 +980,7 @@ Preliminary provisions
     
     (3) For the purposes of this section, a written certificate purporting to be signed by an officer of any bank in New Zealand that a specified rate of exchange prevailed between currencies on a specified day, and that at such rate a specified sum in a particular currency is equivalent to a specified sum in terms of the currency of New Zealand, is sufficient evidence of the rate of exchange so prevailing and of the equivalent sums in terms of the respective currencies.
     
-    Compare: 1996 No 9 [s 4][239]
+    Compare: 1996 No 9 [s 4][240]
 
 ##### 8 Act binds the Crown
     
@@ -1087,7 +1089,7 @@ AML/CFT requirements and compliance
     
 *   (1) A reporting entity must---
         
-    *   (a) take reasonable steps to satisfy itself that the information provided under [section 15][19] is correct; and
+    *   (a) take reasonable steps to satisfy itself that the information obtained under [section 15][19] is correct; and
     
     *   (b) according to the level of risk involved, take reasonable steps to verify any beneficial owner's identity so that the reporting entity is satisfied that it knows who the beneficial owner is; and
     
@@ -1105,7 +1107,7 @@ AML/CFT requirements and compliance
     
     *   (c) verification of identity is completed as soon as is practicable once the business relationship has been established.
     
-    
+    Section 16(1)(a): amended, on 5 December 2013, by [section 5][241] of the Anti-Money Laundering and Countering Financing of Terrorism Amendment Act 2013 (2013 No 106).
 
 ##### 17 Standard customer due diligence: other requirements
     
@@ -1127,15 +1129,15 @@ AML/CFT requirements and compliance
     
     *   (b) one of the customers specified in subsection (2) conducts an occasional transaction through the reporting entity; or
     
-    *   (c) a customer conducts a transaction or provides a product or service specified in regulations through the reporting entity.
+    *   (c) a customer conducts a transaction or obtains a product or service specified in regulations through the reporting entity.
     
     (2) The following are customers for the purposes of subsection (1):
         
-    *   (a) a company that is listed on an exchange registered under [Part 2B][240] of the Securities Markets Act 1988:
+    *   (a) a company that is listed on an exchange registered under [Part 2B][242] of the Securities Markets Act 1988:
     
     *   (b) a government department named in [Schedule 1][218] of the State Sector Act 1988:
     
-    *   (c) a local authority as defined in [section 5][241] of the Local Government Act 2002:
+    *   (c) a local authority as defined in [section 5][243] of the Local Government Act 2002:
     
     *   (d) the New Zealand Police:
     
@@ -1150,6 +1152,8 @@ AML/CFT requirements and compliance
     *   (b) the reporting entity has conducted one of the specified types of customer due diligence on the customer in accordance with this Act and regulations (if any).
     
     (4) For the avoidance of doubt, nothing in this subpart requires identification or verification of identity of a beneficial owner of a customer in respect of whom a reporting entity may conduct simplified customer due diligence.
+    
+    Section 18(1)(c): amended, on 5 December 2013, by [section 6][244] of the Anti-Money Laundering and Countering Financing of Terrorism Amendment Act 2013 (2013 No 106).
 
 ##### 19 Simplified customer due diligence: identity requirements
     
@@ -1309,19 +1313,23 @@ AML/CFT requirements and compliance
     
     *   (b) consider whether the wire transfers constitute a suspicious transaction.
     
-    (6) Any information obtained by a reporting entity that is an intermediary institution must be maintained by that reporting entity with the wire transfer accompanying the information.
+    (6) Any information about the originator obtained by a reporting entity that is an intermediary institution must be provided by that reporting entity to the beneficiary institution as soon as practicable.
     
     (7) For the purposes of this section, a _domestic wire transfer_ is a wire transfer where the ordering institution, the intermediary institution, and the beneficiary institution are all in New Zealand.
+    
+    Section 27(6): replaced, on 5 December 2013, by [section 7][245] of the Anti-Money Laundering and Countering Financing of Terrorism Amendment Act 2013 (2013 No 106).
 
 ##### 28 Wire transfers: verification of identity requirements
     
 *   (1) The ordering institution must, according to the level of risk involved,---
         
-    *   (a) verify the originator's identity so that the reporting entity is satisfied that the information provided under [section 27][33] is current and correct; and
+    *   (a) verify the originator's identity so that the reporting entity is satisfied that the information obtained under [section 27][33] is correct; and
     
     *   (b) verify any other information prescribed by regulations.
     
     (2) Verification of the originator's identity must be carried out before the wire transfer is ordered.
+    
+    Section 28(1)(a): replaced, on 5 December 2013, by [section 8][246] of the Anti-Money Laundering and Countering Financing of Terrorism Amendment Act 2013 (2013 No 106).
 
 ##### 29 Correspondent banking relationships
     
@@ -1475,9 +1483,9 @@ AML/CFT requirements and compliance
     
     *   (b) information received for the purposes of [section 32(1)(b)][40].
     
-    (2) Any information supplied by any member of a designated business group to another member of that group must be subject to privacy protections at least equivalent to those set out in privacy principles 5 to 11 in [section 6][242] of the Privacy Act 1993\.
+    (2) Any information supplied by any member of a designated business group to another member of that group must be subject to privacy protections at least equivalent to those set out in privacy principles 5 to 11 in [section 6][247] of the Privacy Act 1993\.
     
-    (3) Each member of the designated business group must agree, in writing, to comply with privacy principles 5 to 11 in [section 6][242] of the Privacy Act 1993 or their equivalent if the member is resident overseas.
+    (3) Each member of the designated business group must agree, in writing, to comply with privacy principles 5 to 11 in [section 6][247] of the Privacy Act 1993 or their equivalent if the member is resident overseas.
     
     (4) The entity that provides information to another member of its designated business group remains responsible for the use or disclosure of that information.
     
@@ -1521,7 +1529,7 @@ AML/CFT requirements and compliance
     
     *   (b) that has been set up for the Commissioner or for the New Zealand Security Intelligence Service for law enforcement purposes.
     
-    Section 38(2)(a): amended, on 12 December 2012, by [section 5][243] of the Anti-Money Laundering and Countering Financing of Terrorism Amendment Act 2012 (2012 No 98).
+    Section 38(2)(a): amended, on 12 December 2012, by [section 5][248] of the Anti-Money Laundering and Countering Financing of Terrorism Amendment Act 2012 (2012 No 98).
 
 ##### 39 Prohibition on establishing or continuing business relationship involving shell bank
     
@@ -1571,7 +1579,7 @@ AML/CFT requirements and compliance
 
 ##### 40 Reporting entities to report suspicious transactions
     
-*   (1) Despite any other enactment or any rule of law, but subject to [section 42][52] of this Act and to [section 44(4)][244] of the Terrorism Suppression Act 2002, this section applies if---
+*   (1) Despite any other enactment or any rule of law, but subject to [section 42][52] of this Act and to [section 44(4)][249] of the Terrorism Suppression Act 2002, this section applies if---
         
     *   (a) a person conducts or seeks to conduct a transaction through a reporting entity; and
     
@@ -1593,7 +1601,7 @@ AML/CFT requirements and compliance
     
     (3) Nothing in subsection (2) requires any lawyer to disclose any privileged communication (as defined in [section 42][52]).
     
-    Compare: 1996 No 9 [ss 15(1)][245], [19(1)][246]
+    Compare: 1996 No 9 [ss 15(1)][250], [19(1)][251]
 
 ##### 41 Nature of suspicious transaction report
     
@@ -1625,7 +1633,7 @@ AML/CFT requirements and compliance
     
     *   (c) any Police employee or Police employees for the time being holding any specified office or specified class of offices.
     
-    Compare: 1996 No 9 [s 15(2)--(4)][245]
+    Compare: 1996 No 9 [s 15(2)--(4)][250]
 
 ##### 42 Privileged communication defined
     
@@ -1645,11 +1653,11 @@ AML/CFT requirements and compliance
     
     *   (c) it is not made or brought into existence for the purpose of committing or furthering the commission of some illegal or wrongful act.
     
-    (2) However, where the information consists wholly or partly of, or relates wholly or partly to, the receipts, payments, income, expenditure, or financial transactions of a specified person (whether a lawyer, his or her client, or any other person), it is not a privileged communication if it is contained in, or comprises the whole or part of, any book, account, statement, or other record prepared or kept by the lawyer in connection with a trust account of the lawyer within the meaning of [section 6][247] of the Lawyers and Conveyancers Act 2006\.
+    (2) However, where the information consists wholly or partly of, or relates wholly or partly to, the receipts, payments, income, expenditure, or financial transactions of a specified person (whether a lawyer, his or her client, or any other person), it is not a privileged communication if it is contained in, or comprises the whole or part of, any book, account, statement, or other record prepared or kept by the lawyer in connection with a trust account of the lawyer within the meaning of [section 6][252] of the Lawyers and Conveyancers Act 2006\.
     
     (3) For the purposes of this section, references to a lawyer include a firm in which he or she is a partner or is held out to be a partner.
     
-    Compare: 1996 No 9 [s 19(2)--(4)][246]
+    Compare: 1996 No 9 [s 19(2)--(4)][251]
 
 ##### 43 Auditors may report suspicious transactions
     
@@ -1667,7 +1675,7 @@ AML/CFT requirements and compliance
     
     (2) A person may report a transaction referred to in subsection (1) to the Commissioner.
     
-    Compare: 1996 No 9 [s 16][248]
+    Compare: 1996 No 9 [s 16][253]
 
 ##### 44 Protection of persons reporting suspicious transactions
     
@@ -1693,7 +1701,7 @@ AML/CFT requirements and compliance
     
     (5) Nothing in this section applies in respect of proceedings for an offence under any of [sections 92 to 97][119].
     
-    Compare: 1996 No 9 [s 17][249]
+    Compare: 1996 No 9 [s 17][254]
 
 ##### 45 Immunity from liability for disclosure of information relating to money laundering transactions
     
@@ -1701,17 +1709,17 @@ AML/CFT requirements and compliance
         
     *   (a) a person does any act that would constitute, or the person believes would constitute, an offence against [section 243(2) or (3)][224] of the Crimes Act 1961; and
     
-    *   (b) in respect of the doing of that act, that person would have, by virtue of [section 244(a)][250] of the Crimes Act 1961, a defence to a charge under [section 243(2) or (3)][224] of that Act; and
+    *   (b) in respect of the doing of that act, that person would have, by virtue of [section 244(a)][255] of the Crimes Act 1961, a defence to a charge under [section 243(2) or (3)][224] of that Act; and
     
     *   (c) that person discloses, to any Police employee, any information relating to a money laundering transaction (within the meaning of [section 243(4)][224] of the Crimes Act 1961), being a money laundering transaction that constitutes (in whole or in part), or is connected with or related to, the act referred to in paragraph (a); and
     
-    *   (d) that information is so disclosed, in good faith, for the purpose of, or in connection with, the enforcement or intended enforcement of any enactment or provision referred to in [section 244(a)][250] of the Crimes Act 1961; and
+    *   (d) that information is so disclosed, in good faith, for the purpose of, or in connection with, the enforcement or intended enforcement of any enactment or provision referred to in [section 244(a)][255] of the Crimes Act 1961; and
     
     *   (e) that person is otherwise under any obligation (whether arising by virtue of any enactment or any rule of law or any other instrument) to maintain secrecy in relation to, or not to disclose, that information.
     
     (2) If this section applies, then, without limiting [section 44][54] and despite that the disclosure would otherwise constitute a breach of that obligation of secrecy or non-disclosure, the disclosure by that person, to that Police employee, of that information is not a breach of that obligation of secrecy or non-disclosure or (where applicable) of any enactment by which that obligation is imposed.
     
-    Compare: 1996 No 9 [s 18][251]
+    Compare: 1996 No 9 [s 18][256]
 
 ##### 46 Disclosure of information relating to suspicious transaction reports
     
@@ -1759,15 +1767,15 @@ AML/CFT requirements and compliance
     
     (8) Any other person who has information to which this section applies may only disclose that information to the Police for law enforcement purposes.
     
-    Compare: 1996 No 9 [s 20][252]
+    Compare: 1996 No 9 [s 20][257]
 
 ##### 47 Disclosure of information in proceedings
     
-*   (1) No person may disclose, in any judicial proceeding (within the meaning of [section 108][253] of the Crimes Act 1961), any information to which this section applies unless the Judge or, as the case requires, the person presiding at the proceeding is satisfied that the disclosure of the information is necessary in the interests of justice.
+*   (1) No person may disclose, in any judicial proceeding (within the meaning of [section 108][258] of the Crimes Act 1961), any information to which this section applies unless the Judge or, as the case requires, the person presiding at the proceeding is satisfied that the disclosure of the information is necessary in the interests of justice.
     
     (2) Nothing in this section prohibits the disclosure of any information for the purposes of the prosecution of any offence against [section 93][120] or [94][121].
     
-    Compare: 1996 No 9 [s 21][254]
+    Compare: 1996 No 9 [s 21][259]
 
 ##### 48 Disclosure of personal information relating to employees or senior managers
     
@@ -1777,19 +1785,19 @@ AML/CFT requirements and compliance
     
     *   (b) the detection, investigation, and prosecution of any offence under the following Acts:
             
-        *   (i) the [Companies Act 1993][255]:
+        *   (i) the [Companies Act 1993][260]:
         
-        *   (ii) the [Financial Advisers Act 2008][256]:
+        *   (ii) the [Financial Advisers Act 2008][261]:
         
-        *   (iii) the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][257]:
+        *   (iii) the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][262]:
         
         *   (iv) the [Gambling Act 2003][213]:
         
-        *   (v) the [Reserve Bank of New Zealand Act 1989][258]:
+        *   (v) the [Reserve Bank of New Zealand Act 1989][263]:
         
-        *   (vi) the [Securities Act 1978][259]:
+        *   (vi) the [Securities Act 1978][264]:
         
-        *   (vii) the [Securities Markets Act 1988][260].
+        *   (vii) the [Securities Markets Act 1988][265].
         
         
     
@@ -1829,7 +1837,7 @@ AML/CFT requirements and compliance
     
     *   (b) any longer period that the AML/CFT supervisor for the reporting entity, or the Commissioner, specifies.
     
-    Compare: 1996 No 9 [s 29][261]
+    Compare: 1996 No 9 [s 29][266]
 
 ##### 50 Obligation to keep identity and verification records
     
@@ -1855,7 +1863,7 @@ AML/CFT requirements and compliance
         
         
     
-    Compare: 1996 No 9 [s 30][262]
+    Compare: 1996 No 9 [s 30][267]
 
 ##### 51 Obligation to keep other records
     
@@ -1871,7 +1879,7 @@ AML/CFT requirements and compliance
     
     (3) A reporting entity must make records relating to risk assessments, AML/CFT programmes, and audits available to its AML/CFT supervisor on request.
     
-    Compare: 1996 No 9 [s 31][263]
+    Compare: 1996 No 9 [s 31][268]
 
 ##### 52 How records to be kept
     
@@ -1881,7 +1889,7 @@ AML/CFT requirements and compliance
     
     *   (b) be kept in the manner prescribed by regulations (if any).
     
-    Compare: 1996 No 9 [s 32][264]
+    Compare: 1996 No 9 [s 32][269]
 
 ##### 53 When records need not be kept
     
@@ -1889,7 +1897,7 @@ AML/CFT requirements and compliance
     
     (2) The High Court may, in relation to a reporting entity that is being or has been liquidated, make an order requiring that any or all of the records referred to in [sections 50][61] and [51][62] be kept for any period it thinks fit.
     
-    Compare: 1996 No 9 [s 33][265]
+    Compare: 1996 No 9 [s 33][270]
 
 ##### 54 Destruction of records
     
@@ -1905,13 +1913,13 @@ AML/CFT requirements and compliance
     
     *   (c) for the purposes of the detection, investigation, or prosecution of any offence.
     
-    Compare: 1996 No 9 [s 34][266]
+    Compare: 1996 No 9 [s 34][271]
 
 ##### 55 Other laws not affected
     
 *   Nothing in this subpart limits or affects any other enactment that requires any reporting entity to keep or retain a record.
     
-    Compare: 1996 No 9 [s 35][267]
+    Compare: 1996 No 9 [s 35][272]
 
 ### Subpart 4---Compliance with AML/CFT requirements
 
@@ -2031,7 +2039,7 @@ AML/CFT requirements and compliance
     
     (4) A person appointed to conduct an audit is not required to be---
         
-    *   (a) a chartered accountant within the meaning of [section 19][268] of the New Zealand Institute of Chartered Accountants Act 1996; or
+    *   (a) a chartered accountant within the meaning of [section 19][273] of the New Zealand Institute of Chartered Accountants Act 1996; or
     
     *   (b) qualified to undertake financial audits.
     
@@ -2045,7 +2053,7 @@ AML/CFT requirements and compliance
     
     (7) A reporting entity must provide a copy of any audit to its AML/CFT supervisor on request.
     
-    Section 59(4)(a): amended, on 7 July 2010, by [section 10][269] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    Section 59(4)(a): amended, on 7 July 2010, by [section 10][274] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
 
 ##### 60 Annual AML/CFT report
     
@@ -2143,9 +2151,9 @@ AML/CFT requirements and compliance
         
     *   (a) must either set out the code of practice or state where copies of the code of practice in hard copy or electronic format may be obtained or viewed:
     
-    *   (b) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][270] and must be presented to the House of Representatives under [section 41][271] of that Act.
+    *   (b) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][275] and must be presented to the House of Representatives under [section 41][276] of that Act.
     
-    Section 64(6)(b): replaced, on 5 August 2013, by [section 77(3)][272] of the Legislation Act 2012 (2012 No 119).
+    Section 64(6)(b): replaced, on 5 August 2013, by [section 77(3)][277] of the Legislation Act 2012 (2012 No 119).
 
 ##### 65 Amendment and revocation of codes of practice
     
@@ -2215,13 +2223,13 @@ AML/CFT requirements and compliance
     
     *   (d) be provided to a Customs officer,---
             
-        *   (i) in the case of accompanied cash, at the same time as a departure card is presented in accordance with [section 126(2)][273] of the Immigration Act 1987:
+        *   (i) in the case of accompanied cash, at the same time as a departure card is presented in accordance with [section 126(2)][278] of the Immigration Act 1987:
         
         *   (ii) in the case of unaccompanied cash, before the cash leaves New Zealand.
         
         
     
-    Compare: 1996 No 9 [s 37][274]; Anti-Money Laundering and Counter-Terrorism Financing Act 2006 s 55(5) (Aust)
+    Compare: 1996 No 9 [s 37][279]; Anti-Money Laundering and Counter-Terrorism Financing Act 2006 s 55(5) (Aust)
 
 ##### 71 Information to be forwarded to Commissioner
     
@@ -2245,7 +2253,7 @@ AML/CFT requirements and compliance
     
     *   (b) ensure that the record is retained for a period of not less than 1 year after the date on which the cash report is made.
     
-    Compare: 1996 No 9 [s 42][275]
+    Compare: 1996 No 9 [s 42][280]
 
 ## Part 3  
 Enforcement
@@ -2524,9 +2532,9 @@ Enforcement
     
     *   (c) the reporting entity fails to report the transaction or the proposed transaction to the Commissioner as soon as practicable, but no later than 3 working days, after forming that suspicion.
     
-    Compare: 1996 No 9 [s 22(1)][276]
+    Compare: 1996 No 9 [s 22(1)][281]
     
-    Section 92(b)(iv): amended, on 12 December 2012, by [section 6][277] of the Anti-Money Laundering and Countering Financing of Terrorism Amendment Act 2012 (2012 No 98).
+    Section 92(b)(iv): amended, on 12 December 2012, by [section 6][282] of the Anti-Money Laundering and Countering Financing of Terrorism Amendment Act 2012 (2012 No 98).
 
 ##### 93 Providing false or misleading information in connection with suspicious transaction report
     
@@ -2536,7 +2544,7 @@ Enforcement
     
     *   (b) omits from any statement any matter or thing without which the person knows that the statement is false or misleading in a material particular.
     
-    Compare: 1996 No 9 [s 22(3)][276]
+    Compare: 1996 No 9 [s 22(3)][281]
 
 ##### 94 Unlawful disclosure of suspicious transaction report
     
@@ -2574,7 +2582,7 @@ Enforcement
         
         
     
-    Compare: 1996 No 9 [s 22(4), (5)][276]
+    Compare: 1996 No 9 [s 22(4), (5)][281]
 
 ##### 95 Failure to keep or retain adequate records relating to suspicious transaction
     
@@ -2588,7 +2596,7 @@ Enforcement
     
 *   A person commits an offence if the person acts in contravention of [section 47(1)][57] without lawful justification or excuse.
     
-    Compare: 1996 No 9 [s 22(8)][276]
+    Compare: 1996 No 9 [s 22(8)][281]
 
 ##### 98 Defence
     
@@ -2612,13 +2620,13 @@ Enforcement
     
     (4) In any such prosecution, evidence that the defendant took a step not specified in the written notice required by subsection (3) is not, except with the leave of the court, admissible for the purpose of supporting a defence under subsection (1).
     
-    Compare: 1996 No 9 [s 23][278]
+    Compare: 1996 No 9 [s 23][283]
 
 ##### 99 Time limit for prosecution of offences relating to civil liability act and suspicious transaction reports
     
-*   Despite anything to the contrary in [section 25][279] of the Criminal Procedure Act 2011, the limitation period in respect of an offence under any of [sections 91 to 97][117] of this Act ends on the date that is 3 years after the date on which the offence was committed.
+*   Despite anything to the contrary in [section 25][284] of the Criminal Procedure Act 2011, the limitation period in respect of an offence under any of [sections 91 to 97][117] of this Act ends on the date that is 3 years after the date on which the offence was committed.
     
-    Section 99: replaced, on 1 July 2013, by [section 413][280] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 99: replaced, on 1 July 2013, by [section 413][285] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 100 Penalties
     
@@ -2652,9 +2660,9 @@ Enforcement
 
 ##### 104 Time limit for prosecution of offences relating to non-compliance with AML/CFT requirements
     
-*   Despite anything to the contrary in [section 25][279] of the Criminal Procedure Act 2011, the limitation period in respect of an offence under any of [sections 101 to 103][129] of this Act ends on the date that is 3 years after the date on which the offence was committed.
+*   Despite anything to the contrary in [section 25][284] of the Criminal Procedure Act 2011, the limitation period in respect of an offence under any of [sections 101 to 103][129] of this Act ends on the date that is 3 years after the date on which the offence was committed.
     
-    Section 104: replaced, on 1 July 2013, by [section 413][280] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 104: replaced, on 1 July 2013, by [section 413][285] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 105 Penalties
     
@@ -2706,13 +2714,13 @@ Enforcement
     
     *   (b) the defendant made or caused to be made a report in respect of that cash as soon as practicable after the obligation to make the report arose.
     
-    Compare: 1996 No 9 [s 40(3)][281]
+    Compare: 1996 No 9 [s 40(3)][286]
 
 ##### 110 Providing false or misleading information in connection with cash report
     
 *   A person commits an offence if, without reasonable excuse, the person makes or causes to be made a cash report knowing it is false or misleading in any material respect.
     
-    Compare: 1996 No 9 [s 40(1)(b)][281]
+    Compare: 1996 No 9 [s 40(1)(b)][286]
 
 ##### 111 Offence to obstruct or not to answer questions from Customs officer
     
@@ -2720,7 +2728,7 @@ Enforcement
     
     (2) A person commits an offence if, without reasonable excuse, the person fails to answer questions from a Customs officer.
     
-    Compare: 1996 No 9 [s 40(2)][281]
+    Compare: 1996 No 9 [s 40(2)][286]
 
 ##### 112 Penalties
     
@@ -2736,7 +2744,7 @@ Enforcement
     
     *   (b) in the case of a body corporate, a fine of up to $50,000\.
     
-    Section 112: amended, on 1 July 2013, by [section 413][280] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 112: amended, on 1 July 2013, by [section 413][285] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 113 Chief executive of New Zealand Customs Service may deal with cash reporting offences
     
@@ -2746,41 +2754,41 @@ Enforcement
     
     (3) If the chief executive of the New Zealand Customs Service accepts any sum under this section, the offender is not liable to be prosecuted for the offence in respect of which the payment was made.
     
-    Compare: 1996 No 9 [s 41][282]
+    Compare: 1996 No 9 [s 41][287]
     
-    Section 113(2): amended, on 1 July 2013, by [section 413][280] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 113(2): amended, on 1 July 2013, by [section 413][285] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Relationship with Customs and Excise Act 1996
 
 ##### 114 Relationship with Customs and Excise Act 1996
     
-*   (1) Nothing in this Act limits or affects the [Customs and Excise Act 1996][283].
+*   (1) Nothing in this Act limits or affects the [Customs and Excise Act 1996][288].
     
-    (2) The movement of cash in breach of any requirement of this Act or any regulations is, for the purposes of the [Customs and Excise Act 1996][283], the importation or exportation of a prohibited good.
+    (2) The movement of cash in breach of any requirement of this Act or any regulations is, for the purposes of the [Customs and Excise Act 1996][288], the importation or exportation of a prohibited good.
     
     (3) It is the duty of every Customs officer to prevent the movement of cash that is in breach of any requirement of this Act or any regulations.
     
-    (4) For the purpose of carrying out the duty in subsection (3), a Customs officer may exercise his or her powers under the following sections of the [Customs and Excise Act 1996][283] in relation to uncustomed or prohibited goods:
+    (4) For the purpose of carrying out the duty in subsection (3), a Customs officer may exercise his or her powers under the following sections of the [Customs and Excise Act 1996][288] in relation to uncustomed or prohibited goods:
         
-    *   (a) [section 145][284] (questioning persons about goods and debt):
+    *   (a) [section 145][289] (questioning persons about goods and debt):
     
-    *   (b) [section 148][285] (detention of persons questioned about goods or debt):
+    *   (b) [section 148][290] (detention of persons questioned about goods or debt):
     
-    *   (c) [sections 149][286], [149A][287], [149B][288], and [149C(1)][289] (which relate to search and seizure):
+    *   (c) [sections 149][291], [149A][292], [149B][293], and [149C(1)][294] (which relate to search and seizure):
     
-    *   (d) [sections 151][290] and [152][291] (which relate to examination of goods):
+    *   (d) [sections 151][295] and [152][296] (which relate to examination of goods):
     
-    *   (e) [section 161][292] (further powers in relation to documents):
+    *   (e) [section 161][297] (further powers in relation to documents):
     
-    *   (f) [section 165][293] (copying of documents obtained during search):
+    *   (f) [section 165][298] (copying of documents obtained during search):
     
-    *   (g) [section 166][294] (retention of documents and goods obtained during search):
+    *   (g) [section 166][299] (retention of documents and goods obtained during search):
     
-    *   (h) [sections 166A to 166F][295] (which relate to seizure and detention of goods suspected to be tainted property):
+    *   (h) [sections 166A to 166F][300] (which relate to seizure and detention of goods suspected to be tainted property):
     
-    *   (i) [sections 167 to 172][296] (which relate to search warrants and use of aids by Customs officers).
+    *   (i) [sections 167 to 172][301] (which relate to search warrants and use of aids by Customs officers).
     
-    Section 114(4)(c): amended, on 1 October 2012, by [section 201(2)][297] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 114(4)(c): amended, on 1 October 2012, by [section 201(2)][302] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Computer searches by Customs officer
 
@@ -2818,7 +2826,7 @@ Enforcement
     
     (5) Subsection (3) does not prevent a Customs officer exercising a search power from requiring a specified person to provide assistance that is reasonable and necessary to allow the Customs officer exercising the search power to access data held in, or accessible from, a computer or other storage device that contains, or may contain, information tending to incriminate the specified person.
     
-    (6) Subsections (1), (4), and (5) are subject to [section 162][298] of the Customs and Excise Act 1996 (which relates to privilege and confidentiality).
+    (6) Subsections (1), (4), and (5) are subject to [section 162][303] of the Customs and Excise Act 1996 (which relates to privilege and confidentiality).
 
 ### Subpart 4---Search and seizure
 
@@ -2880,25 +2888,25 @@ Enforcement
     
 *   (1) An enforcement officer may apply for a search warrant in respect of a place.
     
-    (2) The application must be made by an enforcement officer in the manner provided in [subpart 3][299] of Part 4 of the Search and Surveillance Act 2012\.
+    (2) The application must be made by an enforcement officer in the manner provided in [subpart 3][304] of Part 4 of the Search and Surveillance Act 2012\.
     
-    (3) An issuing officer (within the meaning of [section 3][300] of the Search and Surveillance Act 2012) may issue a search warrant in respect of a place if satisfied that there are reasonable grounds for believing that there is evidential material at that place.
+    (3) An issuing officer (within the meaning of [section 3][305] of the Search and Surveillance Act 2012) may issue a search warrant in respect of a place if satisfied that there are reasonable grounds for believing that there is evidential material at that place.
     
-    (4) The provisions of [subparts 1][301], [3][299], and [9][302] of Part 4 of the Search and Surveillance Act 2012 apply.
+    (4) The provisions of [subparts 1][306], [3][304], and [9][307] of Part 4 of the Search and Surveillance Act 2012 apply.
     
     (5) \[Repealed\]
     
     (6) \[Repealed\]
     
-    Section 117(2): replaced, on 30 June 2013, by [section 201(3)][297] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 117(2): replaced, on 30 June 2013, by [section 201(3)][302] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 117(3): amended, on 30 June 2013, by [section 201(4)][297] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 117(3): amended, on 30 June 2013, by [section 201(4)][302] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 117(4): replaced, on 30 June 2013, by [section 201(5)][297] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 117(4): replaced, on 30 June 2013, by [section 201(5)][302] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 117(5): repealed, on 30 June 2013, by [section 201(5)][297] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 117(5): repealed, on 30 June 2013, by [section 201(5)][302] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 117(6): repealed, on 30 June 2013, by [section 201(5)][297] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 117(6): repealed, on 30 June 2013, by [section 201(5)][302] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 118 Powers under search warrant
     
@@ -2932,17 +2940,17 @@ Enforcement
     
     *   (b) provide a copy of particular documents within a specified period (which must be a period that is reasonable in the circumstances).
     
-    (3) The provisions of [Part 4][303] of the Search and Surveillance Act 2012 (except [subpart 3][299] and [sections 118][304], [119][305], and [130][306]) apply.
+    (3) The provisions of [Part 4][308] of the Search and Surveillance Act 2012 (except [subpart 3][304] and [sections 118][309], [119][310], and [130][311]) apply.
     
-    Section 118(1)(a): repealed, on 30 June 2013, by [section 201(6)][297] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 118(1)(a): repealed, on 30 June 2013, by [section 201(6)][302] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 118(1)(b): repealed, on 30 June 2013, by [section 201(6)][297] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 118(1)(b): repealed, on 30 June 2013, by [section 201(6)][302] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 118(1)(c): amended, on 30 June 2013, by [section 201(7)][297] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 118(1)(c): amended, on 30 June 2013, by [section 201(7)][302] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 118(1)(e): repealed, on 30 June 2013, by [section 201(6)][297] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 118(1)(e): repealed, on 30 June 2013, by [section 201(6)][302] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 118(3): replaced, on 30 June 2013, by [section 201(8)][297] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 118(3): replaced, on 30 June 2013, by [section 201(8)][302] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Conduct of entry, search, and seizure
 
@@ -2950,23 +2958,23 @@ Enforcement
     
 *   \[Repealed\]
     
-    Section 119: repealed, on 30 June 2013, by [section 201(9)][297] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 119: repealed, on 30 June 2013, by [section 201(9)][302] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 120 Enforcement officers to show identity card on request
     
 *   \[Repealed\]
     
-    Section 120: repealed, on 30 June 2013, by [section 201(9)][297] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 120: repealed, on 30 June 2013, by [section 201(9)][302] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 121 Announcement before entry
     
 *   \[Repealed\]
     
-    Section 121: repealed, on 30 June 2013, by [section 201(9)][297] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 121: repealed, on 30 June 2013, by [section 201(9)][302] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 122 Details of warrant to be given to occupier
     
-*   Section 122: repealed, on 30 June 2013, by [section 201(9)][297] of the Search and Surveillance Act 2012 (2012 No 24).
+*   Section 122: repealed, on 30 June 2013, by [section 201(9)][302] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 123 Occupier entitled to be present during search
     
@@ -2986,37 +2994,37 @@ Enforcement
     
 *   \[Repealed\]
     
-    Section 125: repealed, on 30 June 2013, by [section 201(9)][297] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 125: repealed, on 30 June 2013, by [section 201(9)][302] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 126 Receipts for things seized
     
 *   \[Repealed\]
     
-    Section 126: repealed, on 30 June 2013, by [section 201(9)][297] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 126: repealed, on 30 June 2013, by [section 201(9)][302] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 127 Application of sections 198A and 198B of Summary Proceedings Act 1957
     
 *   \[Repealed\]
     
-    Section 127: repealed, on 30 June 2013, by [section 201(9)][297] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 127: repealed, on 30 June 2013, by [section 201(9)][302] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Return and retention of things seized
 
 \[Repealed\]
     
-*   Heading: repealed, on 30 June 2013, pursuant to [section 201(9)][297] of the Search and Surveillance Act 2012 (2012 No 24).
+*   Heading: repealed, on 30 June 2013, pursuant to [section 201(9)][302] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 128 Return and retention of things seized
     
 *   \[Repealed\]
     
-    Section 128: repealed, on 30 June 2013, by [section 201(9)][297] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 128: repealed, on 30 June 2013, by [section 201(9)][302] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 129 Order to retain things seized
     
 *   \[Repealed\]
     
-    Section 129: repealed, on 30 June 2013, by [section 201(9)][297] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 129: repealed, on 30 June 2013, by [section 201(9)][302] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ## Part 4  
 Institutional arrangements and miscellaneous provisions
@@ -3029,7 +3037,7 @@ Institutional arrangements and miscellaneous provisions
     
 *   (1) The AML/CFT supervisors are as follows:
         
-    *   (a) for banks, life insurers, and non-bank deposit takers, the Reserve Bank of New Zealand (_Reserve Bank_) is the relevant AML/CFT supervisor:
+    *   (a) for registered banks, life insurers, and non-bank deposit takers, the Reserve Bank of New Zealand (_Reserve Bank_) is the relevant AML/CFT supervisor:
     
     *   (b) for issuers of securities, trustee companies, futures dealers, collective investment schemes, brokers, and financial advisers, the Financial Markets Authority is the relevant AML/CFT supervisor:
     
@@ -3051,7 +3059,9 @@ Institutional arrangements and miscellaneous provisions
     
     (5) A reporting entity may have only 1 AML/CFT supervisor.
     
-    Section 130(1)(b): amended, on 1 May 2011, by [section 82][307] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 130(1)(a): amended, on 5 December 2013, by [section 9][312] of the Anti-Money Laundering and Countering Financing of Terrorism Amendment Act 2013 (2013 No 106).
+    
+    Section 130(1)(b): amended, on 1 May 2011, by [section 82][313] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 131 Functions
     
@@ -3117,7 +3127,7 @@ Institutional arrangements and miscellaneous provisions
         
     *   (a) its function under [section 131(d)][169] of investigating the reporting entities it supervises:
     
-    *   (b) its powers under [section 132(2)(a) and (b)][170], for the purpose only of performing the function of investigation under section 131(b).
+    *   (b) its powers under [section 132(2)(a) and (b)][170], for the purpose only of performing the function of investigation under [section 131(d)][169].
     
     (2) A delegation under subsection (1)---
         
@@ -3135,7 +3145,7 @@ Institutional arrangements and miscellaneous provisions
     
     *   (c) must not disclose any information obtained under subsection (1) other than to the AML/CFT supervisor.
     
-    
+    Section 134(1)(b): amended, on 5 December 2013, by [section 10][314] of the Anti-Money Laundering and Countering Financing of Terrorism Amendment Act 2013 (2013 No 106).
 
 ##### 135 Authority to act as delegate
     
@@ -3177,21 +3187,21 @@ Institutional arrangements and miscellaneous provisions
     
 *   (1) This section applies to information other than personal information.
     
-    (2) The Reserve Bank may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under the [Reserve Bank of New Zealand Act 1989][258] for the purpose of exercising its powers or performing its functions and duties under this Act as an AML/CFT supervisor.
+    (2) The Reserve Bank may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under the [Reserve Bank of New Zealand Act 1989][263] for the purpose of exercising its powers or performing its functions and duties under this Act as an AML/CFT supervisor.
     
-    (3) The Reserve Bank may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the [Reserve Bank of New Zealand Act 1989][258].
+    (3) The Reserve Bank may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the [Reserve Bank of New Zealand Act 1989][263].
     
-    (4) The Financial Markets Authority may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under the [Financial Markets Authority Act 2011][308], the [Securities Act 1978][259], the [Securities Markets Act 1988][260], and the [Financial Advisers Act 2008][256] for the purpose of exercising its powers or performing its functions and duties under this Act as an AML/CFT supervisor.
+    (4) The Financial Markets Authority may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under the [Financial Markets Authority Act 2011][315], the [Securities Act 1978][264], the [Securities Markets Act 1988][265], and the [Financial Advisers Act 2008][261] for the purpose of exercising its powers or performing its functions and duties under this Act as an AML/CFT supervisor.
     
-    (5) The Financial Markets Authority may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the [Financial Markets Authority Act 2011][308], the [Securities Act 1978][259], the [Securities Markets Act 1988][260], and the [Financial Advisers Act 2008][256].
+    (5) The Financial Markets Authority may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the [Financial Markets Authority Act 2011][315], the [Securities Act 1978][264], the [Securities Markets Act 1988][265], and the [Financial Advisers Act 2008][261].
     
     (6) The Department of Internal Affairs may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under the [Gambling Act 2003][213] for the purpose of exercising its powers or performing its functions and duties under this Act as an AML/CFT supervisor.
     
     (7) The Department of Internal Affairs may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the [Gambling Act 2003][213].
     
-    Section 137(4): substituted, on 1 May 2011, by [section 82][307] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137(4): substituted, on 1 May 2011, by [section 82][313] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 137(5): substituted, on 1 May 2011, by [section 82][307] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 137(5): substituted, on 1 May 2011, by [section 82][313] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 138 Restriction on power to use information under section 137
     
@@ -3207,19 +3217,19 @@ Institutional arrangements and miscellaneous provisions
     
     (2) The enactments referred to in subsection (1) are---
         
-    *   (a) the [Companies Act 1993][255]:
+    *   (a) the [Companies Act 1993][260]:
     
     *   (b) the [Criminal Proceeds (Recovery) Act 2009][226]:
     
-    *   (c) the [Customs and Excise Act 1996][283]:
+    *   (c) the [Customs and Excise Act 1996][288]:
     
-    *   (d) the [Financial Advisers Act 2008][256]:
+    *   (d) the [Financial Advisers Act 2008][261]:
     
-    *   (da) the [Financial Markets Authority Act 2011][308]:
+    *   (da) the [Financial Markets Authority Act 2011][315]:
     
-    *   (e) the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][257]:
+    *   (e) the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][262]:
     
-    *   (f) the [Financial Transactions Reporting Act 1996][309]:
+    *   (f) the [Financial Transactions Reporting Act 1996][316]:
     
     *   (g) the [Gambling Act 2003][213]:
     
@@ -3227,15 +3237,15 @@ Institutional arrangements and miscellaneous provisions
     
     *   (i) the [Proceeds of Crime Act 1991][225]:
     
-    *   (j) the [Reserve Bank of New Zealand Act 1989][258]:
+    *   (j) the [Reserve Bank of New Zealand Act 1989][263]:
     
-    *   (k) the [Securities Act 1978][259]:
+    *   (k) the [Securities Act 1978][264]:
     
-    *   (l) the [Securities Markets Act 1988][260]:
+    *   (l) the [Securities Markets Act 1988][265]:
     
     *   (m) the [Terrorism Suppression Act 2002][228].
     
-    Section 140(2)(da): inserted, on 1 May 2011, by [section 82][307] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 140(2)(da): inserted, on 1 May 2011, by [section 82][313] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 141 Enforcement officers
     
@@ -3339,13 +3349,13 @@ Institutional arrangements and miscellaneous provisions
     
     (4) Without limiting subsection (1), suspicious transaction guidelines issued under this section may relate to 1 or more kinds of reporting entities, and such guidelines may make different provision for different kinds of reporting entities and different kinds of transactions.
     
-    Compare: 1996 No 9 [s 24][310]
+    Compare: 1996 No 9 [s 24][317]
 
 ##### 146 Consultation on proposed guidelines
     
 *   (1) The Commissioner must, before issuing any suspicious transaction guidelines,---
         
-    *   (a) consult with, and invite representations from, the Privacy Commissioner under the [Privacy Act 1993][311], and must have regard to any such representations; and
+    *   (a) consult with, and invite representations from, the Privacy Commissioner under the [Privacy Act 1993][318], and must have regard to any such representations; and
     
     *   (b) give public notice of the Commissioner's intention to issue the guidelines, which notice must contain a statement---
             
@@ -3361,7 +3371,7 @@ Institutional arrangements and miscellaneous provisions
     
     (3) This section applies to any amendment or revocation of any suspicious transaction guidelines.
     
-    Compare: 1996 No 9 [s 25][312]
+    Compare: 1996 No 9 [s 25][319]
 
 ##### 147 Availability of guidelines
     
@@ -3371,7 +3381,7 @@ Institutional arrangements and miscellaneous provisions
     
     *   (b) provide copies of those guidelines, and all amendments to those guidelines, to that reporting entity or, as the case requires, that industry organisation.
     
-    Compare: 1996 No 9 [s 26][313]
+    Compare: 1996 No 9 [s 26][320]
 
 ##### 148 Review of guidelines
     
@@ -3379,7 +3389,7 @@ Institutional arrangements and miscellaneous provisions
     
     (2) [Sections 145][185] and [146][186] apply, with all necessary modifications, in relation to any such review as if the review were a proposal to issue suspicious transaction guidelines.
     
-    Compare: 1996 No 9 [s 27][314]
+    Compare: 1996 No 9 [s 27][321]
 
 #### Co-ordination
 
@@ -3481,7 +3491,7 @@ Institutional arrangements and miscellaneous provisions
     
     *   (j) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
     
-    Compare: 1996 No 9 [s 56][315]
+    Compare: 1996 No 9 [s 56][322]
 
 ##### 154 Regulations relating to application of Act
     
@@ -3513,7 +3523,7 @@ Institutional arrangements and miscellaneous provisions
     
     (2) The Minister must, before making any recommendation, have regard to---
         
-    *   (a) the purposes of this Act and the [Financial Transactions Reporting Act 1996][309]; and
+    *   (a) the purposes of this Act and the [Financial Transactions Reporting Act 1996][316]; and
     
     *   (b) the risk of money laundering and the financing of terrorism; and
     
@@ -3539,7 +3549,7 @@ Institutional arrangements and miscellaneous provisions
     
     (5) Any regulations made under this section expire on the day that is 5 years after the date on which regulations come into force.
     
-    Section 154(1)(k): amended, on 12 December 2012, by [section 8][316] of the Anti-Money Laundering and Countering Financing of Terrorism Amendment Act 2012 (2012 No 98).
+    Section 154(1)(k): amended, on 12 December 2012, by [section 8][323] of the Anti-Money Laundering and Countering Financing of Terrorism Amendment Act 2012 (2012 No 98).
 
 ##### 155 Regulations relating to countermeasures
     
@@ -3573,7 +3583,7 @@ Institutional arrangements and miscellaneous provisions
     
     *   (b) make minor amendments to regulations.
     
-    Compare: 1996 No 9 [s 56A][317]
+    Compare: 1996 No 9 [s 56A][324]
 
 #### Ministerial exemptions
 
@@ -3593,7 +3603,7 @@ Institutional arrangements and miscellaneous provisions
     
     (3) Before deciding to grant an exemption and whether to attach any conditions to the exemption, the Minister must have regard to the following:
         
-    *   (a) the intent and purposes of the [Financial Transactions Reporting Act 1996][309]:
+    *   (a) the intent and purposes of the [Financial Transactions Reporting Act 1996][316]:
     
     *   (b) the intent and purpose of this Act and any regulations:
     
@@ -3607,9 +3617,9 @@ Institutional arrangements and miscellaneous provisions
     
     *   (g) the overall impact that the exemption would have on the integrity of, and compliance with, the AML/CFT regulatory regime.
     
-    (4) An exemption under this section is a disallowable instrument for the purposes of the [Legislation Act 2012][270] and must be presented to the House of Representatives under [section 41][271] of that Act.
+    (4) An exemption under this section is a disallowable instrument for the purposes of the [Legislation Act 2012][275] and must be presented to the House of Representatives under [section 41][276] of that Act.
     
-    (5) A class exemption under this section must be published under [section 6][318] of the Legislation Act 2012 and, for this purpose, _class exemption_---
+    (5) A class exemption under this section must be published under [section 6][325] of the Legislation Act 2012 and, for this purpose, _class exemption_---
         
     *   (a) means an exemption of general application that applies to a class of reporting entities or transactions; but
     
@@ -3625,13 +3635,13 @@ Institutional arrangements and miscellaneous provisions
     
     (7) A notification in the _Gazette_ for the purpose of subsection (6)(b) does not have to incorporate the exemption.
     
-    Section 157(4): replaced, on 5 August 2013, by [section 77(3)][272] of the Legislation Act 2012 (2012 No 119).
+    Section 157(4): replaced, on 5 August 2013, by [section 77(3)][277] of the Legislation Act 2012 (2012 No 119).
     
-    Section 157(5): inserted, on 5 August 2013, by [section 77(3)][272] of the Legislation Act 2012 (2012 No 119).
+    Section 157(5): inserted, on 5 August 2013, by [section 77(3)][277] of the Legislation Act 2012 (2012 No 119).
     
-    Section 157(6): inserted, on 5 August 2013, by [section 77(3)][272] of the Legislation Act 2012 (2012 No 119).
+    Section 157(6): inserted, on 5 August 2013, by [section 77(3)][277] of the Legislation Act 2012 (2012 No 119).
     
-    Section 157(7): inserted, on 5 August 2013, by [section 77(3)][272] of the Legislation Act 2012 (2012 No 119).
+    Section 157(7): inserted, on 5 August 2013, by [section 77(3)][277] of the Legislation Act 2012 (2012 No 119).
 
 ##### 158 Minister must consult before granting exemption
     
@@ -3655,7 +3665,7 @@ Institutional arrangements and miscellaneous provisions
     
     (3) \[Repealed\]
     
-    Section 159(3): repealed, on 5 August 2013, by [section 77(3)][272] of the Legislation Act 2012 (2012 No 119).
+    Section 159(3): repealed, on 5 August 2013, by [section 77(3)][277] of the Legislation Act 2012 (2012 No 119).
 
 #### Transitional and savings provisions
 
@@ -3667,19 +3677,19 @@ Institutional arrangements and miscellaneous provisions
 
 ##### 161 Amendments to other enactments
     
-*   (1) The enactment specified in [Part 1][319] of Schedule 2 is amended in the manner indicated in that part of that schedule (being consequential amendments relating to the bringing into force of provisions relating to cross-border transportation of cash).
+*   (1) The enactment specified in [Part 1][326] of Schedule 2 is amended in the manner indicated in that part of that schedule (being consequential amendments relating to the bringing into force of provisions relating to cross-border transportation of cash).
     
-    (2) The enactments specified in [Part 2][320] of Schedule 2 are amended in the manner indicated in that schedule (being consequential amendments to other enactments).
+    (2) The enactments specified in [Part 2][327] of Schedule 2 are amended in the manner indicated in that schedule (being consequential amendments to other enactments).
     
-    (3) The regulations specified in [Part 3][321] of Schedule 2 are revoked.
+    (3) The regulations specified in [Part 3][328] of Schedule 2 are revoked.
 
 ##### 162 Amendment to Financial Transactions Reporting Act 1996 consequential on bringing into force of Part 2
     
-*   The [Financial Transactions Reporting Act 1996][309] is amended by repealing paragraphs (a) to (f), (h), (i), and (k) of the definition of _financial institution_ in [section 3(1)][322].
+*   The [Financial Transactions Reporting Act 1996][316] is amended by repealing paragraphs (a) to (f), (h), (i), and (k) of the definition of _financial institution_ in [section 3(1)][329].
 
 ##### 163 Amendment to Financial Transactions Reporting Act 1996 relating to cross-border transportation of cash
     
-*   The [Financial Transactions Reporting Act 1996][309] is amended by repealing [Part 5][323].
+*   The [Financial Transactions Reporting Act 1996][316] is amended by repealing [Part 5][330].
 
 ---
 
@@ -3690,9 +3700,9 @@ Transitional and savings provisions
 
 ##### 1 Offences and breaches of Financial Transactions Reporting Act 1996
     
-*   (1) This clause applies to an offence under, or a breach of, the [Financial Transactions Reporting Act 1996][309] that was committed before the commencement of this Act.
+*   (1) This clause applies to an offence under, or a breach of, the [Financial Transactions Reporting Act 1996][316] that was committed before the commencement of this Act.
     
-    (2) If this clause applies, then for the purpose of doing the things specified in subclause (3), the [Financial Transactions Reporting Act 1996][309] continues to have effect as if this Act had not been enacted.
+    (2) If this clause applies, then for the purpose of doing the things specified in subclause (3), the [Financial Transactions Reporting Act 1996][316] continues to have effect as if this Act had not been enacted.
     
     (3) The things referred to in subclause (2) are as follows:
         
@@ -3710,7 +3720,7 @@ Transitional and savings provisions
 
 ##### 3 Pending proceedings
     
-*   Any proceedings that have been commenced under the [Financial Transactions Reporting Act 1996][309] before the commencement of this Act may be continued and completed after that commencement as if this Act had not been enacted, and the Financial Transactions Reporting Act 1996 applies accordingly.
+*   Any proceedings that have been commenced under the [Financial Transactions Reporting Act 1996][316] before the commencement of this Act may be continued and completed after that commencement as if this Act had not been enacted, and the Financial Transactions Reporting Act 1996 applies accordingly.
 
 ---
 
@@ -3733,7 +3743,7 @@ Amendments to other enactments
 
 ##### Crimes Act 1961 (1961 No 43)
 
-[Section 244][250]: insert after paragraph (b):
+[Section 244][255]: insert after paragraph (b):
 
 > *   "(ba) the enforcement or intended enforcement of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009; or".
 > 
@@ -3741,19 +3751,19 @@ Amendments to other enactments
 
 ##### Criminal Proceeds (Recovery) Act 2009 (2009 No 8)
 
-Definition of _financial institution_ in [section 5(1)][324]: repeal and substitute:
+Definition of _financial institution_ in [section 5(1)][331]: repeal and substitute:
 
 > "_financial institution_ means either a person within the meaning of financial institution as defined in section 3 of the Financial Transactions Reporting Act 1996 or as defined in section 5 of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009".
 
 ##### Customs and Excise Act 1996 (1996 No 27)
 
-[Section 166A(b)(ii)][295]: repeal and substitute:
+[Section 166A(b)(ii)][300]: repeal and substitute:
 
 > *   "(ii) subpart 6 of Part 2 and sections 114 and 115 of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009; and".
 > 
 > 
 
-[Section 166C(4)][325]: insert after paragraph (b):
+[Section 166C(4)][332]: insert after paragraph (b):
 
 > *   "(ba) Anti-Money Laundering and Countering Financing of Terrorism Act 2009:".
 > 
@@ -3761,35 +3771,35 @@ Definition of _financial institution_ in [section 5(1)][324]: repeal and substit
 
 ##### Financial Transactions Reporting Act 1996 (1996 No 9)
 
-[Long Title][326]: insert ""**the Terrorism Suppression Act 2002 and**"" after ""**enforcement of**"".
+[Long Title][333]: insert ""**the Terrorism Suppression Act 2002 and**"" after ""**enforcement of**"".
 
 Paragraph (b) of the Long Title: repeal.
 
-[Section 15(1)(b)][245]: insert after subparagraph (i):
+[Section 15(1)(b)][250]: insert after subparagraph (i):
 
 > *   "(ia) that the transaction or proposed transaction is or may be relevant to the enforcement of the Terrorism Suppression Act 2002; or".
 > 
 > 
 
-[Section 16][248]: insert after paragraph (a):
+[Section 16][253]: insert after paragraph (a):
 
 > *   "(ab) that the transaction or proposed transaction is or may be relevant to the enforcement of the Terrorism Suppression Act 2002; or".
 > 
 > 
 
-[Section 21(2)][254]: insert after paragraph (a):
+[Section 21(2)][259]: insert after paragraph (a):
 
 > *   "(ab) the enforcement of the Terrorism Suppression Act 2002:".
 > 
 > 
 
-[Section 22(1)(b)][276]: insert after subparagraph (i):
+[Section 22(1)(b)][281]: insert after subparagraph (i):
 
 > *   "(ia) that the transaction or proposed transaction is or may be relevant to the enforcement of the Terrorism Suppression Act 2002; or".
 > 
 > 
 
-[Section 24(1)(a)][310]: insert after subparagraph (i):
+[Section 24(1)(a)][317]: insert after subparagraph (i):
 
 > *   "(ia) that the transaction or proposed transaction is or may be relevant to the enforcement of the Terrorism Suppression Act 2002; or".
 > 
@@ -3801,7 +3811,7 @@ Section 28: insert after paragraph (d):
 > 
 > 
 
-[Section 56(1)(b)][315]: omit ""Parts 2 and 5 of this Act"" and substitute ""Part 2"".
+[Section 56(1)(b)][322]: omit ""Parts 2 and 5 of this Act"" and substitute ""Part 2"".
 
 ##### Misuse of Drugs Act 1975 (1975 No 116)
 
@@ -3813,19 +3823,19 @@ Section 28: insert after paragraph (d):
 
 ##### Mutual Assistance in Criminal Matters Act 1992 (1992 No 86)
 
-Definition of _financial institution_ in [section 2(1)][327]: repeal and substitute:
+Definition of _financial institution_ in [section 2(1)][334]: repeal and substitute:
 
 > "_financial institution_ means either a person within the meaning of financial institution as defined in section 3 of the Financial Transactions Reporting Act 1996 or as defined in section 5 of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009".
 
 ##### Reserve Bank of New Zealand Act 1989 (1989 No 157)
 
-[Section 41(1)][328]: add ""and the Anti-Money Laundering and Countering Financing of Terrorism Act 2009"".
+[Section 41(1)][335]: add ""and the Anti-Money Laundering and Countering Financing of Terrorism Act 2009"".
 
-[Section 41(2)][328]: insert "", or the Anti-Money Laundering and Countering Financing of Terrorism Act 2009,"" after ""by this Act"".
+[Section 41(2)][335]: insert "", or the Anti-Money Laundering and Countering Financing of Terrorism Act 2009,"" after ""by this Act"".
 
-[Section 51(5)][329]: insert ""or under the Anti-Money Laundering and Countering Financing of Terrorism Act 2009,"" after ""by this Act"".
+[Section 51(5)][336]: insert ""or under the Anti-Money Laundering and Countering Financing of Terrorism Act 2009,"" after ""by this Act"".
 
-[Section 51][329]: add:
+[Section 51][336]: add:
 
 > *   "(9) To avoid doubt, the Governor's functions and powers include his or her functions and powers under the Anti-Money Laundering and Countering Financing of Terrorism Act 2009\."
 > 
@@ -3833,17 +3843,17 @@ Definition of _financial institution_ in [section 2(1)][327]: repeal and substit
 
 ##### Terrorism Suppression Act 2002 (2002 No 34)
 
-[Section 44(1)(b)][244]: insert ""or by a reporting entity"" after ""by a financial institution"".
+[Section 44(1)(b)][249]: insert ""or by a reporting entity"" after ""by a financial institution"".
 
-[Section 44(1)(b)][244]: insert ""or the reporting entity"" after ""the financial institution"".
+[Section 44(1)(b)][249]: insert ""or the reporting entity"" after ""the financial institution"".
 
-[Section 44(1)(d)(ii)][244]: insert ""or reporting entity, as the case may be,"" after ""that Commissioner and the financial institution"".
+[Section 44(1)(d)(ii)][249]: insert ""or reporting entity, as the case may be,"" after ""that Commissioner and the financial institution"".
 
-[Section 44(2)][244]: insert ""or the reporting entity"" after ""the financial institution"".
+[Section 44(2)][249]: insert ""or the reporting entity"" after ""the financial institution"".
 
-[Section 44(4)][244]: insert ""or reporting entity"" after ""financial institution"" in each place where it appears.
+[Section 44(4)][249]: insert ""or reporting entity"" after ""financial institution"" in each place where it appears.
 
-[Section 44(5)][244]: repeal and substitute:
+[Section 44(5)][249]: repeal and substitute:
 
 > *   "(5) In this section, section 47, and Schedule 5,---
 >         
@@ -3855,7 +3865,7 @@ Definition of _financial institution_ in [section 2(1)][327]: repeal and substit
 > 
 > 
 
-[Section 47(1)(b)(i)][330]: insert ""or reporting entity"" after ""financial institution"".
+[Section 47(1)(b)(i)][337]: insert ""or reporting entity"" after ""financial institution"".
 
 Section 47A(1)(a): insert after subparagraph (i):
 
@@ -3863,13 +3873,13 @@ Section 47A(1)(a): insert after subparagraph (i):
 > 
 > 
 
-[Section 47C(5)][331]: insert after paragraph (a):
+[Section 47C(5)][338]: insert after paragraph (a):
 
 > *   "(ab) Anti-Money Laundering and Countering Financing of Terrorism Act 2009:".
 > 
 > 
 
-[Schedule 5][332]: insert ""or reporting entity"" after ""financial institution"" in each place where it appears.
+[Schedule 5][339]: insert ""or reporting entity"" after ""financial institution"" in each place where it appears.
 
 ## Part 3  
 Regulations revoked
@@ -3888,29 +3898,31 @@ Regulations revoked
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][333] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][334] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][340] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][341] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][335] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][336] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][342] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][343] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][272]
+*   [Anti-Money Laundering and Countering Financing of Terrorism Amendment Act 2013][344] (2013 No 106)
     
-    [Anti-Money Laundering and Countering Financing of Terrorism Amendment Act 2012][337] (2012 No 98)
+    Legislation Act 2012 (2012 No 119): [section 77(3)][277]
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 201][297]
+    [Anti-Money Laundering and Countering Financing of Terrorism Amendment Act 2012][345] (2012 No 98)
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][280]
+    Search and Surveillance Act 2012 (2012 No 24): [section 201][302]
     
-    [Anti-Money Laundering and Countering Financing of Terrorism Act Commencement Order 2011][338] (SR 2011/221)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][285]
     
-    Financial Markets Authority Act 2011 (2011 No 5): [section 82][307]
+    [Anti-Money Laundering and Countering Financing of Terrorism Act Commencement Order 2011][346] (SR 2011/221)
+    
+    Financial Markets Authority Act 2011 (2011 No 5): [section 82][313]
     
     Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 241(2)][238]
     
-    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][269]
+    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][274]
 
 
 
@@ -4153,103 +4165,111 @@ Regulations revoked
 [236]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM304710
 [237]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM4989301
 [238]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2478612
-[239]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM373879
-[240]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM141325
-[241]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM170881
-[242]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM297038
-[243]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM4989303
-[244]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM152784
-[245]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM373899
-[246]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374112
-[247]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM364948
-[248]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374103
-[249]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374104
-[250]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM330403
-[251]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374108
-[252]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374113
-[253]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM328793
-[254]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374114
-[255]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM319569
-[256]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM1584200
-[257]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM1109400
-[258]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM199363
-[259]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM25999
-[260]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM139726
-[261]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374132
-[262]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374134
-[263]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374136
-[264]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374137
-[265]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374138
-[266]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374139
-[267]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374140
-[268]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM391363
-[269]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM3043113
-[270]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2997643
-[271]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2998573
-[272]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2998633
-[273]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM112851
-[274]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374143
-[275]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374162
-[276]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374118
-[277]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM4989304
-[278]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374121
-[279]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM3360067
-[280]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM3360714
-[281]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374157
-[282]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374160
-[283]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM377336
-[284]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM378960
-[285]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM378972
-[286]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM378996
-[287]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM379201
-[288]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM379205
-[289]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM379211
-[290]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM379218
-[291]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM379222
-[292]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM379235
-[293]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM379243
-[294]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM379244
-[295]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM379246
-[296]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM379259
-[297]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM4355905
-[298]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM379239
-[299]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2136781
-[300]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2136542
-[301]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2136771
-[302]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2136888
-[303]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2136770
-[304]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2136813
-[305]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2136815
-[306]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM4355803
-[307]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM3231793
-[308]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM3231004
-[309]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM373803
-[310]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374123
-[311]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM296638
-[312]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374124
-[313]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374125
-[314]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374126
-[315]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374191
-[316]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM4989306
-[317]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374192
-[318]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2997696
-[319]: http://www.legislation.govt.nz/act/public/2009/0035/latest/whole.html#DLM2141078
-[320]: http://www.legislation.govt.nz/act/public/2009/0035/latest/whole.html#DLM2141085
-[321]: http://www.legislation.govt.nz/act/public/2009/0035/latest/whole.html#DLM2141108
-[322]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM373873
-[323]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374142
-[324]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM1451012
-[325]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM379250
-[326]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM373806
-[327]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM273063
-[328]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM200032
-[329]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM200048
-[330]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM152787
-[331]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM153305
-[332]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM154177
-[333]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2998516
-[334]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2998515
-[335]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2998532
-[336]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[337]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM4109800
-[338]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM3831000
+[239]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM5621507
+[240]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM373879
+[241]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM5621509
+[242]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM141325
+[243]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM170881
+[244]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM5621510
+[245]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM5621511
+[246]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM5621512
+[247]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM297038
+[248]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM4989303
+[249]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM152784
+[250]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM373899
+[251]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374112
+[252]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM364948
+[253]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374103
+[254]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374104
+[255]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM330403
+[256]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374108
+[257]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374113
+[258]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM328793
+[259]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374114
+[260]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM319569
+[261]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM1584200
+[262]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM1109400
+[263]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM199363
+[264]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM25999
+[265]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM139726
+[266]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374132
+[267]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374134
+[268]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374136
+[269]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374137
+[270]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374138
+[271]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374139
+[272]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374140
+[273]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM391363
+[274]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM3043113
+[275]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2997643
+[276]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2998573
+[277]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2998633
+[278]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM112851
+[279]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374143
+[280]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374162
+[281]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374118
+[282]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM4989304
+[283]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374121
+[284]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM3360067
+[285]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM3360714
+[286]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374157
+[287]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374160
+[288]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM377336
+[289]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM378960
+[290]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM378972
+[291]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM378996
+[292]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM379201
+[293]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM379205
+[294]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM379211
+[295]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM379218
+[296]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM379222
+[297]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM379235
+[298]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM379243
+[299]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM379244
+[300]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM379246
+[301]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM379259
+[302]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM4355905
+[303]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM379239
+[304]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2136781
+[305]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2136542
+[306]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2136771
+[307]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2136888
+[308]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2136770
+[309]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2136813
+[310]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2136815
+[311]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM4355803
+[312]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM5621513
+[313]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM3231793
+[314]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM5621514
+[315]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM3231004
+[316]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM373803
+[317]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374123
+[318]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM296638
+[319]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374124
+[320]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374125
+[321]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374126
+[322]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374191
+[323]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM4989306
+[324]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374192
+[325]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2997696
+[326]: http://www.legislation.govt.nz/act/public/2009/0035/latest/whole.html#DLM2141078
+[327]: http://www.legislation.govt.nz/act/public/2009/0035/latest/whole.html#DLM2141085
+[328]: http://www.legislation.govt.nz/act/public/2009/0035/latest/whole.html#DLM2141108
+[329]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM373873
+[330]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM374142
+[331]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM1451012
+[332]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM379250
+[333]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM373806
+[334]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM273063
+[335]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM200032
+[336]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM200048
+[337]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM152787
+[338]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM153305
+[339]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM154177
+[340]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2998516
+[341]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2998515
+[342]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM2998532
+[343]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[344]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM5621500
+[345]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM4109800
+[346]: http://www.legislation.govt.nz/act/public/2009/0035/latest/link.aspx?id=DLM3831000
