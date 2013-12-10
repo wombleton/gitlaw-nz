@@ -1,5 +1,5 @@
 Reprint  
-as at 3 December 2007
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -391,9 +391,9 @@ An Act to restate and reform the law relating to the carriage of goods within Ne
     
     (4) This section applies notwithstanding anything in the [Companies Act 1993][45] or the [Insolvency Act 2006][46] or any other enactment.
     
-    Section 11(4): amended, on 3 December 2007, by [section 445][47] of the Insolvency Act 2006 (2006 No 55).
+    Section 11(4): amended, on 5 December 2013, by [section 14][47] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 11(4): amended, on 1 July 1997, pursuant to [section 2(1)][48] of the Companies Act Repeal Act 1993 (1993 No 126).
+    Section 11(4): amended, on 3 December 2007, by [section 445][48] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 12 Special rules relating to liability of carrier in respect of baggage
     
@@ -731,76 +731,33 @@ Enactments repealed
 
 _Amendment(s) incorporated in the Act(s)_.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Carriage of Goods Act 1979\. The reprint incorporates all the amendments to the Act as at 3 December 2007, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][51] ![](/images/external_link.gif).
+*   This is a reprint of the Carriage of Goods Act 1979 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][52] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][51] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][52] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][53] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][53] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][54] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][54] and [17E][55] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][47]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Insolvency Act 2006 (2006 No 55): [section 445][47]
+    Insolvency Act 2006 (2006 No 55): [section 445][48]
     
     Postal Services Act 1998 (1998 No 2): [section 62(1)][42]
     
     Maritime Transport Act 1994 (1994 No 104): [section 212(2)][44]
-    
-    Companies Act Repeal Act 1993 (1993 No 126): [section 2(1)][48]
     
     Defence Act 1990 (1990 No 28): [section 105(1)][41]
     
@@ -810,7 +767,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1979/0043/latest/whole.html#DLM33497
 [2]: http://www.legislation.govt.nz/act/public/1979/0043/latest/whole.html#DLM33499
 [3]: http://www.legislation.govt.nz/act/public/1979/0043/latest/whole.html#DLM34000
@@ -857,12 +814,11 @@ _Amendment(s) incorporated in the Act(s)_.
 [44]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM336933
 [45]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM319573
 [46]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM385298
-[47]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM387857
-[48]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM328327
+[47]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM5620822
+[48]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM387857
 [49]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM242491
 [50]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM372538
-[51]: http://www.pco.parliament.govt.nz/reprints/
-[52]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM195439
-[53]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[54]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM195468
-[55]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM195470
+[51]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM2998516
+[52]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM2998515
+[53]: http://www.legislation.govt.nz/act/public/1979/0043/latest/link.aspx?id=DLM2998532
+[54]: http://www.pco.parliament.govt.nz/editorial-conventions/
