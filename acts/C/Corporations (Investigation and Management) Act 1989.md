@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencement22 March 1989
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Business, Innovation, and Employment.
 
@@ -248,29 +248,17 @@ An Act to enable the Registrar of Companies and the Financial Markets Authority 
     
     _Registrar_ means the Registrar of Companies and includes a Deputy Registrar
     
-    _subsidiary_ means, in relation to a corporation that is a company registered under the Companies Act 1955, a subsidiary within the meaning of sections 158 and 158A of that Act, and in all other cases, a subsidiary within the meaning of [sections 5][93] and [6][94] of the Companies Act 1993\.
+    _subsidiary_ means a subsidiary within the meaning of [section 5][93] of the Companies Act 1993\.
     
     (2) For the purposes of this Act, a person is an _associated person_ of a corporation if---
         
     *   (a) that person directly or indirectly controls the management of the corporation; or
     
-    *   (b) that person owns directly or indirectly,---
-            
-        *   (i) in the case of a corporation that is a company registered under the Companies Act 1955, 20% or more in nominal value of the equity share capital (as defined in section 158 of that Act) of the corporation; or
-        
-        *   (ii) in all other cases, 20% of the issued shares of the corporation, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital:
-        
-        
+    *   (b) that person owns directly or indirectly 20% of the issued shares of the corporation, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital:
     
     *   (c) the corporation directly or indirectly controls that person; or
     
-    *   (d) the corporation owns directly or indirectly,---
-            
-        *   (i) in the case of a person that is a company registered under the Companies Act 1955, 20% or more of the equity share capital (as defined in section 158 of the Companies Act 1955) of that person; or
-        
-        *   (ii) in all other cases, 20% or more of the issued shares of that person, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital.
-        
-        
+    *   (d) the corporation owns directly or indirectly 20% or more of the issued shares of that person, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital.
     
     (3) For the purposes of [Part 1][10] an _associated person_ of a corporation also includes a person who is substantially indebted to the corporation.
     
@@ -280,11 +268,11 @@ An Act to enable the Registrar of Companies and the Financial Markets Authority 
     
     Section 2(1) **Minister**: substituted, on 1 October 1995, by section 10(3) of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 2(1) **subsidiary**: substituted, on 1 July 1994, by [section 2][95] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 2(1) **subsidiary**: replaced, on 5 December 2013, by [section 14][94] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 2(2)(b): substituted, on 1 July 1994, by [section 2][95] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 2(2)(b): replaced, on 5 December 2013, by [section 14][94] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 2(2)(d): substituted, on 1 July 1994, by [section 2][95] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 2(2)(d): replaced, on 5 December 2013, by [section 14][94] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 3 Act to bind the Crown
     
@@ -304,9 +292,11 @@ An Act to enable the Registrar of Companies and the Financial Markets Authority 
         
         *   (iii) for any other reason in the public interest,---
         
-        if those members or creditors or beneficiaries or the public interest cannot be adequately protected under the Companies Act 1955 or the [Companies Act 1993][96] or in any other lawful way.
+        if those members or creditors or beneficiaries or the public interest cannot be adequately protected under the [Companies Act 1993][95] or in any other lawful way.
     
-    Section 4(b)(iii): amended, on 1 July 1994, by [section 2][95] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 4(b): amended, on 5 December 2013, by [section 14][94] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 4(b)(iii): amended, on 1 July 1994, by [section 2][96] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
 
 ##### 5 General objects of Act
     
@@ -983,7 +973,7 @@ Statutory management
     
     Compare: 1964 No 134 s 38V; 1986 No 131 s 10
     
-    Section 42(1)(c): substituted, on 1 July 1994, by [section 2][95] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 42(1)(c): substituted, on 1 July 1994, by [section 2][96] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
     Section 42(1)(c): amended, on 1 November 2007, by [section 41][110] of the Companies Amendment Act 2006 (2006 No 56).
     
@@ -1073,7 +1063,7 @@ Statutory management
     
     Compare: 1964 No 134 s 38AB; 1986 No 131 s 10
     
-    Section 46(3): amended, on 1 July 1994, by [section 2][95] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 46(3): amended, on 1 July 1994, by [section 2][96] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
 
 ##### 47 Statutory manager empowered to carry on business of corporation
     
@@ -1107,7 +1097,7 @@ Statutory management
     
     (2) Without limiting any other powers of the statutory manager, for the purposes of subsection (1), the statutory manager shall have power to---
         
-    *   (a) form and register a body corporate under the [Companies Act 1993][96] or any other Act:
+    *   (a) form and register a body corporate under the [Companies Act 1993][95] or any other Act:
     
     *   (b) acquire all or any of the shares of that body corporate:
     
@@ -1121,11 +1111,11 @@ Statutory management
     
     Compare: 1964 No 134 s 38AE(1), (2), (4); 1986 No 131 s 10
     
-    Section 50(2)(a): amended, on 1 July 1994, by [section 2][95] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 50(2)(a): amended, on 1 July 1994, by [section 2][96] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 50(2)(b): amended, on 1 July 1994, by [section 2][95] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 50(2)(b): amended, on 1 July 1994, by [section 2][96] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 50(2)(d): amended, on 1 July 1994, by [section 2][95] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 50(2)(d): amended, on 1 July 1994, by [section 2][96] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
 
 ##### 51 Sale of property or assets subject to a security
     
@@ -1199,7 +1189,7 @@ Statutory management
     
 *   (1) Subject to this Part, a statutory manager of a corporation may,---
         
-    *   (a) in the case of a corporation that may be put into liquidation under the Companies Act 1955 or the [Companies Act 1993][96], apply under either of those Acts to put the corporation into liquidation:
+    *   (a) in the case of a corporation that may be put into liquidation under the [Companies Act 1993][95], apply under that Act to put the corporation into liquidation:
     
     *   (b) in the case of a corporation that may be wound up or put into liquidation or dissolved under any other Act, take such steps as are provided for in that Act for the winding up or liquidation or dissolution of that corporation.
     
@@ -1210,6 +1200,8 @@ Statutory management
     (4) Nothing in this section limits or affects any other enactment which provides for the winding up or liquidation or dissolution of any body corporate or any class of body corporate.
     
     Section 52: substituted, on 1 July 1994, by [section 3][128] of the Corporations (Investigation and Management) Amendment Act 1993 (1993 No 113).
+    
+    Section 52(1)(a): replaced, on 5 December 2013, by [section 14][94] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 53 Provisions applying where liabilities included in sale or other disposition of business undertaking of corporation
     
@@ -1241,11 +1233,13 @@ Statutory management
     
     (3) No order made pursuant to this section shall deprive any other person of any estate or interest in the property if the estate or interest was acquired in good faith and for valuable consideration.
     
-    (4) Nothing in this section shall restrict the operation of the Companies Act 1955 or the [Companies Act 1993][96].
+    (4) Nothing in this section shall restrict the operation of the [Companies Act 1993][95].
     
     Compare: 1958 No 23 s 23
     
     Section 54(4): substituted, on 1 July 1994, by [section 4][129] of the Corporations (Investigation and Management) Amendment Act 1993 (1993 No 113).
+    
+    Section 54(4): amended, on 5 December 2013, by [section 14][94] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 55 Application of certain provisions of Companies Act 1993
     
@@ -1530,11 +1524,11 @@ General
 
 ##### 71 Application of other Acts
     
-*   (1) Except as provided in this Act and in subsections (2) and (3), all the provisions of the Companies Act 1955 and all rules and regulations under that Act shall, so far as they are applicable, and with the necessary modifications, apply to a corporation that is a company within the meaning of section 2 of that Act and that is subject to statutory management.
+*   (1) \[Repealed\]
     
-    (2) Nothing in sections 41, 130 to 135, and 152 to 167 of the Companies Act 1955 shall apply to a company that is subject to statutory management.
+    (2) \[Repealed\]
     
-    (3) In the application of section 354(2) of the Companies Act 1955 to a company that is subject to statutory management, references to 2 members shall be construed as references to 1 member.
+    (3) \[Repealed\]
     
     (4) \[Repealed\]
     
@@ -1545,6 +1539,12 @@ General
     (7) Nothing in any enactment other than the [Income Tax Act 2007][151] or the [Statistics Act 1975][152] shall require a corporation that is subject to statutory management or a statutory manager to file any annual or other return.
     
     Section 71: substituted, on 1 July 1994, by [section 9][153] of the Corporations (Investigation and Management) Amendment Act 1993 (1993 No 113).
+    
+    Section 71(1): repealed, on 5 December 2013, by [section 14][94] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 71(2): repealed, on 5 December 2013, by [section 14][94] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 71(3): repealed, on 5 December 2013, by [section 14][94] of the Companies Amendment Act 2013 (2013 No 111).
     
     Section 71(4): repealed, on 1 July 1994, by section 4 of the Corporations (Investigation and Management) Amendment Act 1994 (1994 No 26).
     
@@ -1653,70 +1653,29 @@ Enactments repealed
 
 ##### Companies Special Investigations Amendment Act 1980 (1980 No 89)
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Corporations (Investigation and Management) Act 1989\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][160] ![](/images/external_link.gif).
+*   This is a reprint of the Corporations (Investigation and Management) Act 1989 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][161] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][160] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][161] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][162] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][162] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][163] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][163] and [17E][164] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][94]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][116]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][116]
     
     Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10): [sections 58][101], [59][102]
     
@@ -1730,11 +1689,11 @@ Enactments repealed
     
     Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53): [sections 13][115], [14][121]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][165]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][164]
     
     Property Law Act 2007 (2007 No 91): [section 364(1)][111]
     
-    [Corporations (Investigation and Management) Amendment Act 2007][166] (2007 No 50)
+    [Corporations (Investigation and Management) Amendment Act 2007][165] (2007 No 50)
     
     Companies Amendment Act (No 2) 2006 (2006 No 62): [section 17][154]
     
@@ -1750,21 +1709,21 @@ Enactments repealed
     
     Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][127]
     
-    [Corporations (Investigation and Management) Amendment Act 1999][167] (1999 No 20)
+    [Corporations (Investigation and Management) Amendment Act 1999][166] (1999 No 20)
     
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][168]
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][167]
     
     Corporations (Investigation and Management) Amendment Act 1994 (1994 No 26)
     
-    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][95]
+    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][96]
     
-    [Corporations (Investigation and Management) Amendment Act 1993][169] (1993 No 113)
+    [Corporations (Investigation and Management) Amendment Act 1993][168] (1993 No 113)
     
     Public Finance Act 1989 (1989 No 44): [section 65R(3)][146]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1989/0011/latest/whole.html#DLM144266
 [2]: http://www.legislation.govt.nz/act/public/1989/0011/latest/whole.html#DLM144268
 [3]: http://www.legislation.govt.nz/act/public/1989/0011/latest/whole.html#DLM144269
@@ -1858,9 +1817,9 @@ Enactments repealed
 [91]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM3231793
 [92]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM3231062
 [93]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM319999
-[94]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM320101
-[95]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM328986
-[96]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM319569
+[94]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM5620822
+[95]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM319569
+[96]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM328986
 [97]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM2478100
 [98]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM199370
 [99]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM2478612
@@ -1924,13 +1883,12 @@ Enactments repealed
 [157]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM3378654
 [158]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM3378200
 [159]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM3005756
-[160]: http://www.pco.parliament.govt.nz/reprints/
-[161]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM195439
-[162]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[163]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM195468
-[164]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM195470
-[165]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM1523174
-[166]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM968172
-[167]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM22788
-[168]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM367235
-[169]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM327434
+[160]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM2998516
+[161]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM2998515
+[162]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM2998532
+[163]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[164]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM1523174
+[165]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM968172
+[166]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM22788
+[167]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM367235
+[168]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM327434
