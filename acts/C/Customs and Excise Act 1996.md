@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -4832,7 +4832,7 @@ Assessment and recovery of duty
 
 ##### 96 Meaning of related
     
-*   For the purposes of [section 97][191], one person is _related_ to another person,---
+*   For the purposes of [section 97][191], one person is related to another person,---
         
     *   (a) where the person is connected to the other person by blood relationship, marriage, civil union, de facto relationship, or adoption, or where the person is a trustee for the other person; and for the purposes of this paragraph---
             
@@ -4856,17 +4856,21 @@ Assessment and recovery of duty
     
     *   (d) if the person and the other person are companies,---
             
-        *   (i) where the person is a holding company or a subsidiary of the other person within the meaning of section 158 of the Companies Act 1955 or [section 5][664] of the Companies Act 1993, as the case may be; or
+        *   (i) where the person is a holding company or a subsidiary of the other person within the meaning of [section 5][664] of the Companies Act 1993; or
         
         *   (ii) where the person owns or controls shares that in aggregate carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of the other person or the other person owns or controls shares that in aggregate carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of the person; or
         
-        *   (iii) where the person and the other person have the same holding company within the meaning of section 158 of the Companies Act 1955 or [section 5][664] of the Companies Act 1993, or a third person owns or controls shares in each of them that carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of each of them.
+        *   (iii) where the person and the other person have the same holding company within the meaning of [section 5][664] of the Companies Act 1993, or a third person owns or controls shares in each of them that carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of each of them.
         
         
     
     Section 96(a): amended, on 26 April 2005, by [section 7][665] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
     Section 96(a)(ii): substituted, on 26 April 2005, by [section 7][665] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    
+    Section 96(d)(i): amended, on 5 December 2013, by [section 14][666] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 96(d)(iii): amended, on 5 December 2013, by [section 14][666] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 97 Duty a charge on goods
     
@@ -4916,7 +4920,7 @@ Assessment and recovery of duty
     
     *   (b) a company that is in liquidation; or
     
-    *   (c) a company in respect of the property of which a receiver has been appointed in circumstances to which [section 30][666] of the Receiverships Act 1993 applies; or
+    *   (c) a company in respect of the property of which a receiver has been appointed in circumstances to which [section 30][667] of the Receiverships Act 1993 applies; or
     
     *   (d) an unincorporated body of persons (including a partnership or a joint venture or the trustees of a trust) that is put into liquidation; or
     
@@ -4924,9 +4928,11 @@ Assessment and recovery of duty
     
     where the unpaid duty is a charge on the goods.
     
-    (2) In any case to which [section 99][193] applies, the provisions of section 279 of the Companies Act 1955, [section 305][667] of the Companies Act 1993, and [sections 243][668], [244][669], and [246 to 250][670] of the Insolvency Act 2006 shall not apply.
+    (2) In any case to which [section 99][193] applies, the provisions of [section 305][668] of the Companies Act 1993 and [sections 243][669], [244][670], and [246 to 250][671] of the Insolvency Act 2006 shall not apply.
     
-    Section 98(2): amended, on 3 December 2007, by [section 445][671] of the Insolvency Act 2006 (2006 No 55).
+    Section 98(2): amended, on 5 December 2013, by [section 14][666] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 98(2): amended, on 3 December 2007, by [section 445][672] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 99 Rights and duties of chief executive in recovery of duty
     
@@ -5010,7 +5016,7 @@ Assessment and recovery of duty
     
     Compare: 1966 No 19 s 154A; 1995 No 7 s 2
     
-    Section 99(2)(b): amended, on 26 April 1999, by [section 19][672] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 99(2)(b): amended, on 26 April 1999, by [section 19][673] of the Companies Amendment Act 1999 (1999 No 19).
 
 ##### 100 Application of section 101
     
@@ -5022,7 +5028,7 @@ Assessment and recovery of duty
         
         *   (ii) a company that is in liquidation; or
         
-        *   (iii) a company in respect of the property of which a receiver has been appointed in circumstances to which [section 30][666] of the Receiverships Act 1993 applies; or
+        *   (iii) a company in respect of the property of which a receiver has been appointed in circumstances to which [section 30][667] of the Receiverships Act 1993 applies; or
         
         *   (iv) an unincorporated body of persons (including a partnership or a joint venture or the trustees of a trust) that is put into liquidation; or
         
@@ -5038,13 +5044,13 @@ Assessment and recovery of duty
     
 *   (1) Unpaid duty to which this section applies shall be paid in accordance with the following provisions of this section.
     
-    (2) In the case of an individual who is declared bankrupt, the amount of any duty to which this section applies shall be paid in accordance with the requirements of [section 274(5)][673] of the Insolvency Act 2006\.
+    (2) In the case of an individual who is declared bankrupt, the amount of any duty to which this section applies shall be paid in accordance with the requirements of [section 274(5)][674] of the Insolvency Act 2006\.
     
-    (3) In the case of a company that is in liquidation, the amount of any duty to which this section applies shall be paid in accordance with the requirements of section 286 of, and Schedule 8C of, the Companies Act 1955, or [section 312][674] of, and [Schedule 7][675] of, the Companies Act 1993, as the case may be.
+    (3) In the case of a company that is in liquidation, the amount of any duty to which this section applies shall be paid in accordance with the requirements of [section 312][675] of, and [Schedule 7][676] of, the Companies Act 1993\.
     
-    (4) In the case of a company in respect of the property of which a receiver is appointed in circumstances to which [section 30][666] of the Receiverships Act 1993 applies, the amount of duty to which this section applies shall be paid in accordance with the requirements of section 30(2) of the Receiverships Act 1993\.
+    (4) In the case of a company in respect of the property of which a receiver is appointed in circumstances to which [section 30][667] of the Receiverships Act 1993 applies, the amount of duty to which this section applies shall be paid in accordance with the requirements of section 30(2) of the Receiverships Act 1993\.
     
-    (5) In the case of an unincorporated body of persons (including a partnership or a joint venture or the trustees of a trust) that is put into liquidation, the amount of any duty to which this section applies shall be paid in accordance with [section 17B][676] of the Judicature Act 1908\.
+    (5) In the case of an unincorporated body of persons (including a partnership or a joint venture or the trustees of a trust) that is put into liquidation, the amount of any duty to which this section applies shall be paid in accordance with [section 17B][677] of the Judicature Act 1908\.
     
     (6) In the case of an unincorporated body of persons (including a partnership or a joint venture or the trustees of a trust) in respect of the property of which a receiver is appointed by the High Court, the amount of duty to which this section applies shall be paid in accordance with the directions of the court.
     
@@ -5054,7 +5060,9 @@ Assessment and recovery of duty
     
     Compare: 1966 No 19 s 154B; 1995 No 7 s 2
     
-    Section 101(2): amended, on 3 December 2007, by [section 445][671] of the Insolvency Act 2006 (2006 No 55).
+    Section 101(2): amended, on 3 December 2007, by [section 445][672] of the Insolvency Act 2006 (2006 No 55).
+    
+    Section 101(3): amended, on 5 December 2013, by [section 14][666] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 102 Release of goods subject to duty
     
@@ -5064,7 +5072,7 @@ Assessment and recovery of duty
     
     (3) In any case where the chief executive considers that undue hardship would result from the payment of duty as required by this section, the chief executive may, subject to such conditions as he or she may think fit to impose, direct the release of the goods from the control of the Customs and accept payment of duty by instalment over a specified period.
     
-    (4) Subsection (3) does not apply to duties imposed under the [Dumping and Countervailing Duties Act 1988][677].
+    (4) Subsection (3) does not apply to duties imposed under the [Dumping and Countervailing Duties Act 1988][678].
     
     Compare: 1966 No 19 s 155
 
@@ -5166,7 +5174,7 @@ Assessment and recovery of duty
     
     (3) A person liable for the payment of the duty who is dissatisfied with a decision of the chief executive under this section may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
     
-    (4) [Section 109][678] of the District Courts Act 1947 or [section 55][679] of the Judicature Act 1908, as the case may be, extends and applies in relation to a notice under this section as if it were a proceeding for the recovery of duty made in the ordinary course.
+    (4) [Section 109][679] of the District Courts Act 1947 or [section 55][680] of the Judicature Act 1908, as the case may be, extends and applies in relation to a notice under this section as if it were a proceeding for the recovery of duty made in the ordinary course.
     
     Compare: 1966 No 19 s 112; 1986 No 44 s 11
 
@@ -5190,7 +5198,7 @@ Assessment and recovery of duty
 
 ##### 112 Refunds of duty on goods under Part 2 of Tariff
     
-*   (1) Where duty has been paid on imported goods and the Minister of Commerce subsequently approves, pursuant to [section 8][680] of the Tariff Act 1988, a lower rate of duty or exempts the goods from duty, the chief executive shall refund in whole or in part the duty paid so that the total duty paid on the goods is in accordance with the terms (including the effective date) of the approval.
+*   (1) Where duty has been paid on imported goods and the Minister of Commerce subsequently approves, pursuant to [section 8][681] of the Tariff Act 1988, a lower rate of duty or exempts the goods from duty, the chief executive shall refund in whole or in part the duty paid so that the total duty paid on the goods is in accordance with the terms (including the effective date) of the approval.
     
     (2) A person who is dissatisfied with a decision of the chief executive under this section may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
     
@@ -5210,17 +5218,17 @@ Assessment and recovery of duty
     
     (3) The chief executive may refund or remit any excise-equivalent duty imposed under [section 75][153]---
         
-    *   (a) on goods of a class or kind that have been exempted from duty by the Minister of Commerce under [section 8][680] of the Tariff Act 1988; or
+    *   (a) on goods of a class or kind that have been exempted from duty by the Minister of Commerce under [section 8][681] of the Tariff Act 1988; or
     
     *   (b) on alcoholic beverages (except ethyl alcohol of Tariff items 2207.10.19, 2207.10.29, 2207.20.01, or 2207.20.39) for use by the persons, in the places, and in the quantities that the chief executive may approve, and subject to any conditions that the chief executive thinks fit in the manufacture of any products approved in writing by the chief executive.
     
     (4) A person who is dissatisfied with a decision of the chief executive under this section may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
     
-    (5) Except as the chief executive of the Ministry of Economic Development may permit, this section does not apply to duties imposed under the [Dumping and Countervailing Duties Act 1988][677].
+    (5) Except as the chief executive of the Ministry of Economic Development may permit, this section does not apply to duties imposed under the [Dumping and Countervailing Duties Act 1988][678].
     
     Compare: 1966 No 19 ss 168, 173; 1977 No 85 s 31; 1986 No 182 s 2
     
-    Section 113(3): substituted, on 27 September 2001, by [section 8][681] of the Customs and Excise Amendment Act 2001 (2001 No 61).
+    Section 113(3): substituted, on 27 September 2001, by [section 8][682] of the Customs and Excise Amendment Act 2001 (2001 No 61).
     
     Section 113(5): amended, on 7 September 2000, by [section 8(1)][560] of the Ministry of Economic Development Act 2000 (2000 No 28).
 
@@ -5254,9 +5262,9 @@ Assessment and recovery of duty
     
     (3A) For the purposes of subsection (3), the chief executive must determine the value for duty of goods that have been dealt with under any of subsection (2)(a) to (e) by using---
         
-    *   (a) the straight-line method of calculating an amount of depreciation loss described in [section EE 12(2)(b)][682] of the Income Tax Act 2007; and
+    *   (a) the straight-line method of calculating an amount of depreciation loss described in [section EE 12(2)(b)][683] of the Income Tax Act 2007; and
     
-    *   (b) the depreciation rate for that method determined by the Commissioner of Inland Revenue under [section 91AAF][683] or [91AAG][684] of the Tax Administration Act 1994 or the rate specified in the table appended to the General Depreciation Rates published by the Commissioner of Inland Revenue; and
+    *   (b) the depreciation rate for that method determined by the Commissioner of Inland Revenue under [section 91AAF][684] or [91AAG][685] of the Tax Administration Act 1994 or the rate specified in the table appended to the General Depreciation Rates published by the Commissioner of Inland Revenue; and
     
     *   (c) for duty calculation purposes, the depreciation rate applicable on the date the goods are imported.
     
@@ -5270,13 +5278,13 @@ Assessment and recovery of duty
     
     *   (b) any sum otherwise so secured must be paid to the Crown by the importer within 10 working days after the expiry of that period or such longer period as the chief executive may allow, and on such payment the security shall be released.
     
-    (7) Except as the chief executive of the Ministry of Economic Development may permit, this section does not apply to duties imposed under the [Dumping and Countervailing Duties Act 1988][677].
+    (7) Except as the chief executive of the Ministry of Economic Development may permit, this section does not apply to duties imposed under the [Dumping and Countervailing Duties Act 1988][678].
     
     (8) This section does not apply to any goods that are, by regulations made under the [Tariff Act 1988][529], declared to be goods to which this section does not apply.
     
     Compare: 1966 No 19 s 181; 1980 No 33 s 8
     
-    Section 116(3A): inserted, on 6 April 2012, by [section 13][685] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 116(3A): inserted, on 6 April 2012, by [section 13][686] of the Customs and Excise Amendment Act 2012 (2012 No 25).
     
     Section 116(7): amended, on 7 September 2000, by [section 8(1)][560] of the Ministry of Economic Development Act 2000 (2000 No 28).
 
@@ -5312,7 +5320,7 @@ Assessment and recovery of duty
     
     (7) Where under this section drawback is allowed to any person, the chief executive may, in his or her discretion, apply the whole or any part of the sum allowed towards the payment of any duty that is payable by that person.
     
-    (8) Except as the chief executive of the Ministry of Economic Development may permit, this section does not apply to duties imposed under the [Dumping and Countervailing Duties Act 1988][677].
+    (8) Except as the chief executive of the Ministry of Economic Development may permit, this section does not apply to duties imposed under the [Dumping and Countervailing Duties Act 1988][678].
     
     (9) This section does not apply to any goods that are, by regulations made under the [Tariff Act 1988][529], declared to be goods to which this section does not apply.
     
@@ -5389,11 +5397,11 @@ Customs rulings
     
     Compare: 1966 No 19 s 151B; 1994 No 129 s 7
     
-    Section 119(1)(a): substituted, on 1 January 2010, by [section 9(6)][686] of the Tariff Amendment Act 2009 (2009 No 62).
+    Section 119(1)(a): substituted, on 1 January 2010, by [section 9(6)][687] of the Tariff Amendment Act 2009 (2009 No 62).
     
     Section 119(1)(b): substituted, on 1 January 2010, by [section 11(3)][546] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 119(1)(d): substituted, on 1 January 2010, by [section 9(6)][686] of the Tariff Amendment Act 2009 (2009 No 62).
+    Section 119(1)(d): substituted, on 1 January 2010, by [section 9(6)][687] of the Tariff Amendment Act 2009 (2009 No 62).
 
 ##### 120 Making of Customs ruling
     
@@ -5451,11 +5459,11 @@ Customs rulings
     
     Compare: 1966 No 19 s 151E(1); 1994 No 129 s 7
     
-    Section 122(1)(a): substituted, on 1 January 2010, by [section 9(6)][686] of the Tariff Amendment Act 2009 (2009 No 62).
+    Section 122(1)(a): substituted, on 1 January 2010, by [section 9(6)][687] of the Tariff Amendment Act 2009 (2009 No 62).
     
     Section 122(1)(b): substituted, on 1 January 2010, by [section 11(3)][546] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 122(1)(d): substituted, on 1 January 2010, by [section 9(6)][686] of the Tariff Amendment Act 2009 (2009 No 62).
+    Section 122(1)(d): substituted, on 1 January 2010, by [section 9(6)][687] of the Tariff Amendment Act 2009 (2009 No 62).
 
 ##### 123 Confirmation of basis of Customs ruling
     
@@ -5533,9 +5541,9 @@ Customs rulings
     
     (2) Subsection (1) applies only in relation to a matter on which the Customs ruling was given and where the Customs ruling has not ceased under [section 125][221], and in accordance with any amendment to a Customs ruling that the applicant has received notice of under [section 124][220].
     
-    Section 127(1): amended, on 6 April 2012, by [section 14][687] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 127(1): amended, on 6 April 2012, by [section 14][688] of the Customs and Excise Amendment Act 2012 (2012 No 25).
     
-    Section 127(1)(b): amended, on 6 April 2012, by [section 14][687] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 127(1)(b): amended, on 6 April 2012, by [section 14][688] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ## Part 10  
 Administrative penalties
@@ -5598,7 +5606,7 @@ Administrative penalties
     
     *   (c) for an entry that is not an entry under [section 39][89] or [49][103], that the entry contains a material error or omission in relation to a matter that the entry is required by or under this Act to address.
     
-    Section 128: replaced, on 6 April 2012, by [section 15][688] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 128: replaced, on 6 April 2012, by [section 15][689] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 128A Imposition of penalty
     
@@ -5632,7 +5640,7 @@ Administrative penalties
     
     (8) This section is subject to [section 130][231].
     
-    Section 128A: inserted, on 6 April 2012, by [section 15][688] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 128A: inserted, on 6 April 2012, by [section 15][689] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 128B Calculation of amount of penalty
     
@@ -5668,7 +5676,7 @@ Administrative penalties
     
     (4) If the goods referred to in [section 128A(1)][226] and entered under [section 39][89] become free of duty or subject to a lower rate of duty under Part 1 or Part 2 of the Tariff after the entry is made, the amount of the penalty must be calculated under subsection (2)(b) as if the duty liability had not changed.
     
-    Section 128B: inserted, on 6 April 2012, by [section 15][688] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 128B: inserted, on 6 April 2012, by [section 15][689] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 128C Additional penalty may be imposed
     
@@ -5684,13 +5692,13 @@ Administrative penalties
     
     (3) However, the chief executive may, in his or her discretion, remit or refund the whole or any part of any additional penalty imposed under subsection (1).
     
-    Section 128C: inserted, on 6 April 2012, by [section 15][688] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 128C: inserted, on 6 April 2012, by [section 15][689] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 128D Right of appeal to Customs Appeal Authority
     
 *   A person who is dissatisfied with a decision of the chief executive under [section 128A][226], [128B][227], or [128C][228] may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
     
-    Section 128D: inserted, on 6 April 2012, by [section 15][688] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 128D: inserted, on 6 April 2012, by [section 15][689] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 129 Obligation to pay penalty not suspended by review or appeal 
     
@@ -5700,13 +5708,13 @@ Administrative penalties
     
     (3) The provisions of [section 92(3)][185] and [section 93][186] shall, with all necessary modifications, apply to an administrative penalty required to be refunded under this section as if such penalty were duty.
     
-    Section 129 heading: amended, on 6 April 2012, by [section 16(1)][689] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 129 heading: amended, on 6 April 2012, by [section 16(1)][690] of the Customs and Excise Amendment Act 2012 (2012 No 25).
     
-    Section 129(1): amended, on 6 April 2012, by [section 16(2)][689] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 129(1): amended, on 6 April 2012, by [section 16(2)][690] of the Customs and Excise Amendment Act 2012 (2012 No 25).
     
-    Section 129(2): amended, on 6 April 2012, by [section 16(3)(a)][689] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 129(2): amended, on 6 April 2012, by [section 16(3)(a)][690] of the Customs and Excise Amendment Act 2012 (2012 No 25).
     
-    Section 129(2): amended, on 6 April 2012, by [section 16(3)(b)][689] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 129(2): amended, on 6 April 2012, by [section 16(3)(b)][690] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 130 No penalty in certain cases
     
@@ -5734,13 +5742,13 @@ Administrative penalties
     
     *   (g) the provisions of [section 127][223] apply.
     
-    Section 130: amended, on 6 April 2012, by [section 17(1)][690] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 130: amended, on 6 April 2012, by [section 17(1)][691] of the Customs and Excise Amendment Act 2012 (2012 No 25).
     
-    Section 130(c): amended, on 8 December 2009, by [section 16(7)][691] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 130(c): amended, on 8 December 2009, by [section 16(7)][692] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 130(d): repealed, on 6 April 2012, by [section 17(2)][690] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 130(d): repealed, on 6 April 2012, by [section 17(2)][691] of the Customs and Excise Amendment Act 2012 (2012 No 25).
     
-    Section 130(e): amended, on 1 July 2013, by [section 413][692] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 130(e): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 11  
 Customs computerised entry processing systems
@@ -5769,9 +5777,9 @@ Customs computerised entry processing systems
     
     (5) An applicant who is dissatisfied with a decision of the chief executive under this section may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
     
-    Section 132 heading: substituted, on 2 July 2004, by [section 21(1)][693] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 132 heading: substituted, on 2 July 2004, by [section 21(1)][694] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 132(2): substituted, on 2 July 2004, by [section 21(2)][693] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 132(2): substituted, on 2 July 2004, by [section 21(2)][694] of the Customs and Excise Amendment Act 2004 (2004 No 55).
 
 ##### 133 Registered users to be allocated unique user identifier
     
@@ -5809,7 +5817,7 @@ Customs computerised entry processing systems
     
     *   (b) a later date specified by the Customs Appeal Authority.
     
-    Section 134A: inserted, on 2 July 2004, by [section 22][694] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 134A: inserted, on 2 July 2004, by [section 22][695] of the Customs and Excise Amendment Act 2004 (2004 No 55).
 
 ##### 135 Suspension or cancellation of registration of registered user
     
@@ -5823,7 +5831,7 @@ Customs computerised entry processing systems
             
         *   (i) an offence against this Act or the [Misuse of Drugs Act 1975][583]; or
         
-        *   (ii) a crime involving dishonesty (as defined in [section 2][695] of the Crimes Act 1961); or
+        *   (ii) a crime involving dishonesty (as defined in [section 2][696] of the Crimes Act 1961); or
         
         
     
@@ -5839,15 +5847,15 @@ Customs computerised entry processing systems
     
     (2) If the person whose registration is suspended or cancelled is dissatisfied with the decision of the chief executive under this section, that person may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
     
-    Section 135 heading: amended, on 8 December 2009, by [section 17(1)][696] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 135 heading: amended, on 8 December 2009, by [section 17(1)][697] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 135(1): substituted, on 2 July 2004, by [section 23][697] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 135(1): substituted, on 2 July 2004, by [section 23][698] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 135(1A): inserted, on 8 December 2009, by [section 17(2)][696] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 135(1A): inserted, on 8 December 2009, by [section 17(2)][697] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 135(1B): inserted, on 8 December 2009, by [section 17(2)][696] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 135(1B): inserted, on 8 December 2009, by [section 17(2)][697] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 135(2): amended, on 8 December 2009, by [section 17(3)][696] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 135(2): amended, on 8 December 2009, by [section 17(3)][697] of the Customs and Excise Amendment Act 2009 (2009 No 61).
 
 ##### 136 Customs to keep records of transmissions
     
@@ -5908,17 +5916,17 @@ Powers of Customs officers
     
     (4) No charge shall be levied against the Customs for the carriage of a Customs officer who is stationed on board a craft or for his or her accommodation and board.
     
-    (5) The provisions of [Part 4][698] of the Search and Surveillance Act 2012 (except [subpart 3][699]) apply in respect of the power conferred by subsection (1)(d).
+    (5) The provisions of [Part 4][699] of the Search and Surveillance Act 2012 (except [subpart 3][700]) apply in respect of the power conferred by subsection (1)(d).
     
-    (6) Despite subsection (5), [sections 125(4)][700], [131(5)(f)][701], and [133][702], and [subparts 6][703] and [8][704] of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under [section 225][369] of this Act.
+    (6) Despite subsection (5), [sections 125(4)][701], [131(5)(f)][702], and [133][703], and [subparts 6][704] and [8][705] of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under [section 225][369] of this Act.
     
     Compare: 1966 No 19 s 205(1), (2); 1983 No 41 s 12
     
     Section 139(1): amended, on 8 December 2009, by [section 5(2)][547] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 139(5): inserted, on 1 October 2012, by [section 221(1)][705] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 139(5): inserted, on 1 October 2012, by [section 221(1)][706] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 139(6): inserted, on 1 October 2012, by [section 221(1)][705] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 139(6): inserted, on 1 October 2012, by [section 221(1)][706] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 140 Searching of craft
     
@@ -5942,9 +5950,9 @@ Powers of Customs officers
     
     (2) In the exercise of the power conferred by subsection (1)(a) to (c), any Customs officer may, using such force as in the circumstances is reasonable, enter every part of the craft and open any package, locker, or other place, and may examine all goods found on the craft.
     
-    (3) The provisions of [Part 4][698] of the Search and Surveillance Act 2012 (except [subpart 3][699]) apply in respect of the power conferred by subsection (1)(d).
+    (3) The provisions of [Part 4][699] of the Search and Surveillance Act 2012 (except [subpart 3][700]) apply in respect of the power conferred by subsection (1)(d).
     
-    (4) Despite subsection (3), [sections 125(4)][700], [131(5)(f)][701], and [133][702], and [subparts 6][703] and [8][704] of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under [section 225][369] of this Act.
+    (4) Despite subsection (3), [sections 125(4)][701], [131(5)(f)][702], and [133][703], and [subparts 6][704] and [8][705] of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under [section 225][369] of this Act.
     
     Compare: 1966 No 19 s 206; 1983 No 41 s 13
     
@@ -5952,13 +5960,13 @@ Powers of Customs officers
     
     Section 140(1)(d): amended, on 1 October 1996, by section 4 of the Customs and Excise Amendment Act 1996 (1996 No 80).
     
-    Section 140(2): amended, on 1 October 2012, by [section 221(2)][705] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 140(2): amended, on 1 October 2012, by [section 221(2)][706] of the Search and Surveillance Act 2012 (2012 No 24).
     
     Section 140(2): amended, on 8 December 2009, by [section 5(2)][547] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 140(3): inserted, on 1 October 2012, by [section 221(3)][705] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 140(3): inserted, on 1 October 2012, by [section 221(3)][706] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 140(4): inserted, on 1 October 2012, by [section 221(3)][705] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 140(4): inserted, on 1 October 2012, by [section 221(3)][706] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 141 Securing goods on craft
     
@@ -5970,7 +5978,7 @@ Powers of Customs officers
     
     Compare: 1966 No 19 s 209(1)
     
-    Section 141: amended, on 1 October 2012, by [section 221(4)][705] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 141: amended, on 1 October 2012, by [section 221(4)][706] of the Search and Surveillance Act 2012 (2012 No 24).
     
     Section 141: amended, on 8 December 2009, by [section 5(2)][547] of the Customs and Excise Amendment Act 2009 (2009 No 61).
 
@@ -5996,7 +6004,7 @@ Powers of Customs officers
             
         *   (i) there is on the craft a person who was carried into New Zealand on it; and
         
-        *   (ii) the carriage of the person into New Zealand on the craft constituted an offence against [section 98C(1)][706] of the Crimes Act 1961\.
+        *   (ii) the carriage of the person into New Zealand on the craft constituted an offence against [section 98C(1)][707] of the Crimes Act 1961\.
         
         
     
@@ -6016,9 +6024,9 @@ Powers of Customs officers
     
     Compare: 1966 No 19 ss 72(3), 289
     
-    Section 143(1AA): inserted, on 18 June 2002, by [section 8(1)][707] of the Crimes Amendment Act 2002 (2002 No 20).
+    Section 143(1AA): inserted, on 18 June 2002, by [section 8(1)][708] of the Crimes Amendment Act 2002 (2002 No 20).
     
-    Section 143(1): substituted, on 18 June 2002, by [section 8(1)][707] of the Crimes Amendment Act 2002 (2002 No 20).
+    Section 143(1): substituted, on 18 June 2002, by [section 8(1)][708] of the Crimes Amendment Act 2002 (2002 No 20).
 
 ##### 144 Searching vehicles
     
@@ -6054,29 +6062,29 @@ Powers of Customs officers
     
     (5) Powers given by any other subsection of this section apply even if the vehicle need not be stopped because it is not moving, and whether or not it is attended, and include the power to use reasonable force, if necessary, to stop, detain, enter in or on, and search the vehicle (or for any of those purposes) as authorised by that other subsection.
     
-    (6) The provisions of [Part 4][698] of the Search and Surveillance Act 2012 (except [subparts 2][708] and [3][699]) apply in respect of a search undertaken under this section.
+    (6) The provisions of [Part 4][699] of the Search and Surveillance Act 2012 (except [subparts 2][709] and [3][700]) apply in respect of a search undertaken under this section.
     
-    (7) Despite subsection (5), [sections 125(4)][700], [131(5)(f)][701], and [133][702], and [subparts 6][703] and [8][704] of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under [section 225][369] of this Act.
+    (7) Despite subsection (5), [sections 125(4)][701], [131(5)(f)][702], and [133][703], and [subparts 6][704] and [8][705] of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under [section 225][369] of this Act.
     
     Compare: 1966 No 19 s 215
     
-    Section 144(1)(a): amended, on 2 July 2004, by [section 24(1)][709] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 144(1)(a): amended, on 2 July 2004, by [section 24(1)][710] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
     Section 144(2): amended, on 8 December 2009, by [section 24][562] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 144(2)(a): amended, on 2 July 2004, by [section 24(2)][709] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 144(2)(a): amended, on 2 July 2004, by [section 24(2)][710] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 144(3): added, on 2 July 2004, by [section 24(3)][709] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 144(3): added, on 2 July 2004, by [section 24(3)][710] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 144(4): added, on 2 July 2004, by [section 24(3)][709] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 144(4): added, on 2 July 2004, by [section 24(3)][710] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
     Section 144(4): amended, on 8 December 2009, by [section 4(3)][550] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 144(5): added, on 8 December 2009, by [section 18][710] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 144(5): added, on 8 December 2009, by [section 18][711] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 144(6): inserted, on 1 October 2012, by [section 222][711] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 144(6): inserted, on 1 October 2012, by [section 222][712] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 144(7): inserted, on 1 October 2012, by [section 222][711] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 144(7): inserted, on 1 October 2012, by [section 222][712] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 145 Questioning persons about goods and debt
     
@@ -6112,11 +6120,11 @@ Powers of Customs officers
     
     *   (d) the nature and extent of the debt (if any) of that kind.
     
-    Compare: 1966 No 19 s 212(1), (1A); 1994 No 100 [s 7][712]
+    Compare: 1966 No 19 s 212(1), (1A); 1994 No 100 [s 7][713]
     
-    Section 145 heading: amended, on 2 July 2004, by [section 25][713] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 145 heading: amended, on 2 July 2004, by [section 25][714] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 145(2): substituted, on 9 October 2002, by [section 10][714] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
+    Section 145(2): substituted, on 9 October 2002, by [section 10][715] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
 
 ##### 145A Questioning persons about identity, address, travel movements and entitlement, and other matters
     
@@ -6170,7 +6178,7 @@ Powers of Customs officers
     
     (5) [Section 185(3)][318] does not apply in respect of a question asked under this section (and so it is a reasonable excuse for the purposes of section 185(1)(a) if a person fails or refuses to answer the question on the basis that the person's answer would incriminate or tend to incriminate the person).
     
-    Section 145A: inserted, on 2 July 2004, by [section 26][715] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 145A: inserted, on 2 July 2004, by [section 26][716] of the Customs and Excise Amendment Act 2004 (2004 No 55).
 
 ##### 146 Questioning employees of airlines, shipping companies, owners or operators of certain vehicles, etc
     
@@ -6210,7 +6218,7 @@ Powers of Customs officers
     
     (6) Nothing in this section limits [sections 145][249] and [145A][250].
     
-    Section 146: substituted, on 2 July 2004, by [section 27][716] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 146: substituted, on 2 July 2004, by [section 27][717] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
     Section 146(2)(a): amended, on 8 December 2009, by [section 4(3)][550] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
@@ -6248,9 +6256,9 @@ Powers of Customs officers
     
     (5) This section is subject to [section 175B][301].
     
-    Compare: 1966 No 19 s 218B; 1994 No 100 [s 9][717]
+    Compare: 1966 No 19 s 218B; 1994 No 100 [s 9][718]
     
-    Section 147(5): added, on 6 March 2007, by [section 26][718] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 147(5): added, on 6 March 2007, by [section 26][719] of the Customs and Excise Amendment Act 2007 (2007 No 9).
 
 ##### 147A Evidence of answers to questions under section 145A
     
@@ -6274,9 +6282,9 @@ Powers of Customs officers
     
     (3) This section is subject to [section 175B][301].
     
-    Section 147A: inserted, on 2 July 2004, by [section 28][719] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 147A: inserted, on 2 July 2004, by [section 28][720] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 147A(3): added, on 6 March 2007, by [section 27][720] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 147A(3): added, on 6 March 2007, by [section 27][721] of the Customs and Excise Amendment Act 2007 (2007 No 9).
 
 ##### 148 Detention of persons questioned about goods or debt
     
@@ -6298,9 +6306,9 @@ Powers of Customs officers
     
     (3) A person must not be detained under this section for a period exceeding 4 hours.
     
-    Section 148 heading: amended, on 2 July 2004, by [section 29][721] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 148 heading: amended, on 2 July 2004, by [section 29][722] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 148(2): substituted, on 6 March 2007, by [section 28][722] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 148(2): substituted, on 6 March 2007, by [section 28][723] of the Customs and Excise Amendment Act 2007 (2007 No 9).
 
 ##### 148A Detention of person questioned under section 145A
     
@@ -6310,7 +6318,7 @@ Powers of Customs officers
     
     *   (b) to enable the officer to make the inquiries that are necessary to establish whether an answer to a question asked under [section 145A][250] is correct:
     
-    *   (c) to obtain the attendance of, or make inquiries of, another Customs officer or an officer entitled to exercise a power to question, detain, or arrest a person under this Act or the [Crimes Act 1961][723] following the questioning of a person under [section 145A][250].
+    *   (c) to obtain the attendance of, or make inquiries of, another Customs officer or an officer entitled to exercise a power to question, detain, or arrest a person under this Act or the [Crimes Act 1961][724] following the questioning of a person under [section 145A][250].
     
     (2) A Customs officer may detain a person under subsection (1) for up to 12 hours.
     
@@ -6324,7 +6332,7 @@ Powers of Customs officers
             
         *   (i) committed an offence under [section 180(1)][312] by not complying with [section 27][44] or [section 30][48]; or
         
-        *   (ii) committed an offence under [section 98C(1)][706] of the Crimes Act 1961\.
+        *   (ii) committed an offence under [section 98C(1)][707] of the Crimes Act 1961\.
         
         
     
@@ -6338,7 +6346,7 @@ Powers of Customs officers
             
         *   (i) committed an offence under [section 180(1)][312] by not complying with [section 27][44] or [section 30][48]; or
         
-        *   (ii) committed an offence under [section 98C(1)][706] of the Crimes Act 1961\.
+        *   (ii) committed an offence under [section 98C(1)][707] of the Crimes Act 1961\.
         
         
     
@@ -6352,7 +6360,7 @@ Powers of Customs officers
     
     _further reasonable period_ means a period no longer than is necessary in the circumstances for a Customs officer to do what is specified in subsection (1).
     
-    Section 148A: inserted, on 2 July 2004, by [section 30][724] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 148A: inserted, on 2 July 2004, by [section 30][725] of the Customs and Excise Amendment Act 2004 (2004 No 55).
 
 ##### 148B Detention of persons committing or about to commit certain offences
     
@@ -6388,25 +6396,25 @@ Powers of Customs officers
     
     (8) In this section, unless the context otherwise requires, _detention_ includes the delivery of a person to a Police station or the custody of a constable.
     
-    Section 148B: inserted, on 2 July 2004, by [section 30][724] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 148B: inserted, on 2 July 2004, by [section 30][725] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
     Section 148B(1): amended, on 8 December 2009, by [section 24][562] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 148B(1): amended, on 17 September 2008, by [section 10][725] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 148B(1): amended, on 17 September 2008, by [section 10][726] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
     
     Section 148B(1)(c): amended, on 8 December 2009, by [section 24][562] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 148B(1)(c): amended, on 1 October 2008, pursuant to [section 116(a)(i)][726] of the Policing Act 2008 (2008 No 72).
+    Section 148B(1)(c): amended, on 1 October 2008, pursuant to [section 116(a)(i)][727] of the Policing Act 2008 (2008 No 72).
     
-    Section 148B(1)(e): amended, on 6 March 2007, by [section 29(1)][727] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 148B(1)(e): amended, on 6 March 2007, by [section 29(1)][728] of the Customs and Excise Amendment Act 2007 (2007 No 9).
     
-    Section 148B(1)(f): added, on 6 March 2007, by [section 29(1)][727] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 148B(1)(f): added, on 6 March 2007, by [section 29(1)][728] of the Customs and Excise Amendment Act 2007 (2007 No 9).
     
     Section 148B(2): amended, on 8 December 2009, by [section 24][562] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 148B(3): repealed, on 6 March 2007, by [section 29(2)][727] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 148B(3): repealed, on 6 March 2007, by [section 29(2)][728] of the Customs and Excise Amendment Act 2007 (2007 No 9).
     
-    Section 148B(4): substituted, on 6 March 2007, by [section 29(3)][727] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 148B(4): substituted, on 6 March 2007, by [section 29(3)][728] of the Customs and Excise Amendment Act 2007 (2007 No 9).
     
     Section 148B(4): amended, on 8 December 2009, by [section 24][562] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
@@ -6460,7 +6468,7 @@ Powers of Customs officers
     
     _detention_ includes the delivery of a person to a Police station or into the custody of a constable.
     
-    Section 148C: inserted, on 6 March 2007, by [section 12][728] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 148C: inserted, on 6 March 2007, by [section 12][729] of the Customs and Excise Amendment Act 2007 (2007 No 9).
     
     Section 148C(7) **another officer** paragraph (a): amended, on 8 December 2009, by [section 24][562] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
@@ -6476,11 +6484,11 @@ Powers of Customs officers
     
     *   (c) a person who, having entered into New Zealand at a Customs place, remains in that Customs place.
     
-    Section 149: substituted, on 9 October 2002, by [section 11][729] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
+    Section 149: substituted, on 9 October 2002, by [section 11][730] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
     
-    Section 149 heading: amended, on 2 July 2004, by [section 31(1)][730] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 149 heading: amended, on 2 July 2004, by [section 31(1)][731] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 149: amended, on 2 July 2004, by [section 31(2)][730] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 149: amended, on 2 July 2004, by [section 31(2)][731] of the Customs and Excise Amendment Act 2004 (2004 No 55).
 
 ##### 149AA Powers in relation to unauthorised persons remaining in certain Customs controlled areas
     
@@ -6498,7 +6506,7 @@ Powers of Customs officers
     
     (4) A Customs officer may use reasonable force, if necessary, when exercising any of the powers conferred by subsections (2) and (3).
     
-    Section 149AA: inserted, on 6 April 2012, by [section 18][731] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 149AA: inserted, on 6 April 2012, by [section 18][732] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 149A Preliminary search of persons by use of aids
     
@@ -6512,15 +6520,15 @@ Powers of Customs officers
     
     (3) If, after a preliminary search under subsection (1), a Customs officer or constable has reasonable cause to suspect that a person has hidden on or about his or her person any thing described in [section 149B(1)(a), (b), or (c)][261], [sections 149B to 149C][261] apply.
     
-    Section 149A: inserted, on 9 October 2002, by [section 11][729] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
+    Section 149A: inserted, on 9 October 2002, by [section 11][730] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
     
     Section 149A(1): amended, on 8 December 2009, by [section 24][562] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 149A(2)(b): amended, on 6 April 2012, by [section 19][732] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 149A(2)(b): amended, on 6 April 2012, by [section 19][733] of the Customs and Excise Amendment Act 2012 (2012 No 25).
     
-    Section 149A(2)(b): amended, on 2 July 2004, by [section 34(2)][733] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 149A(2)(b): amended, on 2 July 2004, by [section 34(2)][734] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 149A(3): amended, on 1 October 2012, by [section 223(1)][734] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 149A(3): amended, on 1 October 2012, by [section 223(1)][735] of the Search and Surveillance Act 2012 (2012 No 24).
     
     Section 149A(3): amended, on 8 December 2009, by [section 24][562] of the Customs and Excise Amendment Act 2009 (2009 No 61).
 
@@ -6562,11 +6570,11 @@ Powers of Customs officers
     
     (7) A search of a person may be conducted under this section whether or not that person has earlier been the subject of a preliminary search under [section 149A][260].
     
-    (8) The provisions of [Part 4][698] of the Search and Surveillance Act 2012 (except [subpart 3][699]) apply in respect of the powers conferred by this section.
+    (8) The provisions of [Part 4][699] of the Search and Surveillance Act 2012 (except [subpart 3][700]) apply in respect of the powers conferred by this section.
     
-    (9) Despite subsection (8), [sections 125(4)][700], [131(5)(f)][701], and [133][702], and [subparts 6][703] and [8][704] of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under [section 225][370] of this Act.
+    (9) Despite subsection (8), [sections 125(4)][701], [131(5)(f)][702], and [133][703], and [subparts 6][704] and [8][705] of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under [section 225][370] of this Act.
     
-    Section 149B: inserted, on 9 October 2002, by [section 11][729] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
+    Section 149B: inserted, on 9 October 2002, by [section 11][730] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
     
     Section 149B(1): amended, on 8 December 2009, by [section 24][562] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
@@ -6574,15 +6582,15 @@ Powers of Customs officers
     
     Section 149B(3): amended, on 8 December 2009, by [section 24][562] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 149B(4): repealed, on 1 October 2012, by [section 223(2)][734] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 149B(4): repealed, on 1 October 2012, by [section 223(2)][735] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 149B(5): repealed, on 1 October 2012, by [section 223(2)][734] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 149B(5): repealed, on 1 October 2012, by [section 223(2)][735] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 149B(6): repealed, on 1 October 2012, by [section 223(2)][734] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 149B(6): repealed, on 1 October 2012, by [section 223(2)][735] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 149B(8): inserted, on 1 October 2012, by [section 223(3)][734] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 149B(8): inserted, on 1 October 2012, by [section 223(3)][735] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 149B(9): inserted, on 1 October 2012, by [section 223(3)][734] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 149B(9): inserted, on 1 October 2012, by [section 223(3)][735] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 149BA Searching of persons for dangerous items
     
@@ -6602,13 +6610,13 @@ Powers of Customs officers
     
     (4) To avoid doubt, a search may be conducted under this section whether or not the person has earlier been the subject of a search under [section 149A][260] or [section 149B(1)][261].
     
-    (5) The provisions of [Part 4][698] of the Search and Surveillance Act 2012 (except [subpart 3][699]) apply in respect of the powers conferred by this section.
+    (5) The provisions of [Part 4][699] of the Search and Surveillance Act 2012 (except [subpart 3][700]) apply in respect of the powers conferred by this section.
     
-    (6) Despite subsection (5), [sections 125(4)][700], [131(5)(f)][701], and [133][702], and [subparts 6][703] and [8][704] of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under [section 225][370] of this Act.
+    (6) Despite subsection (5), [sections 125(4)][701], [131(5)(f)][702], and [133][703], and [subparts 6][704] and [8][705] of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under [section 225][370] of this Act.
     
-    Section 149BA: inserted, on 2 July 2004, by [section 32][735] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 149BA: inserted, on 2 July 2004, by [section 32][736] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 149BA(1): amended, on 1 October 2012, by [section 223(4)][734] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 149BA(1): amended, on 1 October 2012, by [section 223(4)][735] of the Search and Surveillance Act 2012 (2012 No 24).
     
     Section 149BA(1): amended, on 8 December 2009, by [section 24][562] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
@@ -6616,13 +6624,13 @@ Powers of Customs officers
     
     Section 149BA(1)(d): amended, on 8 December 2009, by [section 24][562] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 149BA(2): repealed, on 6 March 2007, by [section 30(1)][736] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 149BA(2): repealed, on 6 March 2007, by [section 30(1)][737] of the Customs and Excise Amendment Act 2007 (2007 No 9).
     
-    Section 149BA(3): repealed, on 1 October 2012, by [section 223(5)][734] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 149BA(3): repealed, on 1 October 2012, by [section 223(5)][735] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 149BA(5): replaced, on 1 October 2012, by [section 223(6)][734] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 149BA(5): replaced, on 1 October 2012, by [section 223(6)][735] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 149BA(6): inserted, on 1 October 2012, by [section 223(6)][734] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 149BA(6): inserted, on 1 October 2012, by [section 223(6)][735] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 149C Seizure of items found
     
@@ -6638,29 +6646,29 @@ Powers of Customs officers
     
     *   (b) a thing described in [section 149B(1)(a), (b), or (c)][261].
     
-    (2) The provisions of [subparts 1][737], [5][738], [6][703], [7][739], [9][740], and [10][741] of Part 4 of the Search and Surveillance Act 2012 apply in respect of the powers conferred by this section.
+    (2) The provisions of [subparts 1][738], [5][739], [6][704], [7][740], [9][741], and [10][742] of Part 4 of the Search and Surveillance Act 2012 apply in respect of the powers conferred by this section.
     
-    (3) Despite subsection (2), [sections 125(4)][700], [131(5)(f)][701], and [133][702], and [subpart 6][703] of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under [section 225][370] of this Act.
+    (3) Despite subsection (2), [sections 125(4)][701], [131(5)(f)][702], and [133][703], and [subpart 6][704] of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under [section 225][370] of this Act.
     
-    Section 149C: inserted, on 9 October 2002, by [section 11][729] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
+    Section 149C: inserted, on 9 October 2002, by [section 11][730] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
     
-    Section 149C(1): substituted, on 2 July 2004, by [section 33][742] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 149C(1): substituted, on 2 July 2004, by [section 33][743] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
     Section 149C(1): amended, on 8 December 2009, by [section 24][562] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 149C(1A): inserted, on 2 July 2004, by [section 33][742] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 149C(1A): inserted, on 2 July 2004, by [section 33][743] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
     Section 149C(1A): amended, on 8 December 2009, by [section 24][562] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 149C(2): replaced, on 1 October 2012, by [section 223(7)][734] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 149C(2): replaced, on 1 October 2012, by [section 223(7)][735] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 149C(3): inserted, on 1 October 2012, by [section 223(7)][734] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 149C(3): inserted, on 1 October 2012, by [section 223(7)][735] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 149D Rights of persons detained under section 149B
     
 *   \[Repealed\]
     
-    Section 149D: repealed, on 1 October 2012, by [section 223(8)][734] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 149D: repealed, on 1 October 2012, by [section 223(8)][735] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 150 Access of Customs officers to Customs controlled area
     
@@ -6696,17 +6704,17 @@ Powers of Customs officers
     
     Compare: 1966 No 19 ss 203, 221, 222
     
-    Section 151(4): substituted, on 2 July 2004, by [section 34(1)][733] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 151(4): substituted, on 2 July 2004, by [section 34(1)][734] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 151(4)(b): amended, on 6 April 2012, by [section 20][743] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 151(4)(b): amended, on 6 April 2012, by [section 20][744] of the Customs and Excise Amendment Act 2012 (2012 No 25).
     
-    Section 151(6): added, on 27 September 2001, by [section 9][744] of the Customs and Excise Amendment Act 2001 (2001 No 61).
+    Section 151(6): added, on 27 September 2001, by [section 9][745] of the Customs and Excise Amendment Act 2001 (2001 No 61).
     
-    Section 151(7): added, on 2 July 2004, by [section 34(4)][733] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 151(7): added, on 2 July 2004, by [section 34(4)][734] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
     Section 151(7)(b): amended, on 8 December 2009, by [section 4(3)][550] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 151(8): added, on 2 July 2004, by [section 34(4)][733] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 151(8): added, on 2 July 2004, by [section 34(4)][734] of the Customs and Excise Amendment Act 2004 (2004 No 55).
 
 ##### 152 Examination of goods no longer subject to control of Customs
     
@@ -6720,9 +6728,9 @@ Powers of Customs officers
     
     (3) A Customs officer may exercise in respect of the goods all the powers given by [section 151][266].
     
-    (3A) The provisions of [Part 4][698] of the Search and Surveillance Act 2012 (except [subpart 3][699]) apply in respect of the powers conferred by this section.
+    (3A) The provisions of [Part 4][699] of the Search and Surveillance Act 2012 (except [subpart 3][700]) apply in respect of the powers conferred by this section.
     
-    (3B) Despite subsection (3A), [sections 125(4)][700], [131(5)(f)][701], and [133][702], and [subparts 6][703] and [8][704] of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under [section 225][370] of this Act.
+    (3B) Despite subsection (3A), [sections 125(4)][701], [131(5)(f)][702], and [133][703], and [subparts 6][704] and [8][705] of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under [section 225][370] of this Act.
     
     (4) A Customs officer may take and retain possession of goods produced under subsection (2) for the purposes of exercising the powers given by subsection (3), and may retain possession of the goods until the completion of the investigation into the grounds for suspecting that the goods---
         
@@ -6732,11 +6740,11 @@ Powers of Customs officers
     
     Compare: 1966 No 19 s 204(1), (2)
     
-    Section 152: substituted, on 9 October 2002, by [section 12][745] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
+    Section 152: substituted, on 9 October 2002, by [section 12][746] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
     
-    Section 152(3A): inserted, on 1 October 2012, by [section 224][746] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 152(3A): inserted, on 1 October 2012, by [section 224][747] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 152(3B): inserted, on 1 October 2012, by [section 224][746] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 152(3B): inserted, on 1 October 2012, by [section 224][747] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 153 Accounting for goods
     
@@ -6774,7 +6782,7 @@ Powers of Customs officers
     
     (5) Subsection (3) is subject to [section 111][206].
     
-    Section 155A: inserted, on 6 March 2007, by [section 13][747] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 155A: inserted, on 6 March 2007, by [section 13][748] of the Customs and Excise Amendment Act 2007 (2007 No 9).
 
 ##### 156 Securities for payment of duty
     
@@ -6794,9 +6802,9 @@ Powers of Customs officers
     
     Compare: 1966 No 19 s 229(1)--(3), (5); 1986 No 44 s 23
     
-    Section 156(4A): inserted, on 27 September 2001, by [section 10][748] of the Customs and Excise Amendment Act 2001 (2001 No 61).
+    Section 156(4A): inserted, on 27 September 2001, by [section 10][749] of the Customs and Excise Amendment Act 2001 (2001 No 61).
     
-    Section 156(4B): inserted, on 27 September 2001, by [section 10][748] of the Customs and Excise Amendment Act 2001 (2001 No 61).
+    Section 156(4B): inserted, on 27 September 2001, by [section 10][749] of the Customs and Excise Amendment Act 2001 (2001 No 61).
 
 ##### 157 New securities may be required
     
@@ -6872,13 +6880,13 @@ Powers of Customs officers
         
         
     
-    (2) In this section, _person_ includes an officer employed in, or in connection with, a government department, corporation, or local authority or, despite [section 75][749] of the Evidence Act 2006, an officer employed in, or in connection with, a bank.
+    (2) In this section, _person_ includes an officer employed in, or in connection with, a government department, corporation, or local authority or, despite [section 75][750] of the Evidence Act 2006, an officer employed in, or in connection with, a bank.
     
     Compare: 1966 No 19 s 218(2)
     
-    Section 161: substituted, on 9 October 2002, by [section 13][750] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
+    Section 161: substituted, on 9 October 2002, by [section 13][751] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
     
-    Section 161(2): amended, on 1 August 2007, by [section 216][751] of the Evidence Act 2006 (2006 No 69).
+    Section 161(2): amended, on 1 August 2007, by [section 216][752] of the Evidence Act 2006 (2006 No 69).
 
 ##### 162 Privilege in respect of confidential communications between legal practitioners and between legal practitioners and their clients
     
@@ -6896,19 +6904,19 @@ Powers of Customs officers
     
     *   (c) it is not made or brought into existence for the purpose of committing or furthering the commission of an illegal or wrongful act.
     
-    (2) Where the information or document consists wholly of payments, income, expenditure, or financial transactions of a specified person (whether a legal practitioner, his or her client, or any other person), it shall not be privileged from disclosure if it is contained in, or comprises the whole or part of, any book, account, statement, or other record prepared or kept by the legal practitioner in connection with a trust account of the legal practitioner within the meaning of [section 6][752] of the Lawyers and Conveyancers Act 2006\.
+    (2) Where the information or document consists wholly of payments, income, expenditure, or financial transactions of a specified person (whether a legal practitioner, his or her client, or any other person), it shall not be privileged from disclosure if it is contained in, or comprises the whole or part of, any book, account, statement, or other record prepared or kept by the legal practitioner in connection with a trust account of the legal practitioner within the meaning of [section 6][753] of the Lawyers and Conveyancers Act 2006\.
     
     (3) Except as provided in subsection (1), no information or document shall, for the purposes of [sections 160][276] and [161][277], be privileged from disclosure on the ground that it is a communication passing between one legal practitioner and another legal practitioner or between a legal practitioner and his or her client.
     
     (4) Where a person refuses to disclose any information or document on the ground that it is privileged under this section, a Customs officer or that person may apply to a District Court Judge for an order determining whether or not the claim of privilege is valid; and, for the purposes of determining any such application, the District Court Judge may request the information or document to be produced to him or her.
     
-    (5) For the purposes of this section, the term _legal practitioner_ means a barrister or solicitor of the High Court, and references to a legal practitioner include a firm or an incorporated law firm (within the meaning of the [Lawyers and Conveyancers Act 2006][753]) in which he or she is, or is held out to be, a partner, director, or shareholder.
+    (5) For the purposes of this section, the term _legal practitioner_ means a barrister or solicitor of the High Court, and references to a legal practitioner include a firm or an incorporated law firm (within the meaning of the [Lawyers and Conveyancers Act 2006][754]) in which he or she is, or is held out to be, a partner, director, or shareholder.
     
     Compare: 1966 No 19 s 218A; 1985 No 145 s 15
     
-    Section 162(2): amended, on 1 August 2008, by [section 348][754] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 162(2): amended, on 1 August 2008, by [section 348][755] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
     
-    Section 162(5): substituted, on 1 August 2008, by [section 348][754] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 162(5): substituted, on 1 August 2008, by [section 348][755] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
 
 ##### 163 Documents in foreign language
     
@@ -6936,9 +6944,9 @@ Powers of Customs officers
     
     Compare: 1966 No 19 s 220(2); 1983 No 41 s 17
     
-    Section 165 heading: amended, on 1 October 2012, by [section 225(1)][755] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 165 heading: amended, on 1 October 2012, by [section 225(1)][756] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 165(1): amended, on 1 October 2012, by [section 225(2)][755] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 165(1): amended, on 1 October 2012, by [section 225(2)][756] of the Search and Surveillance Act 2012 (2012 No 24).
     
     Section 165(1): amended, on 8 December 2009, by [section 5(2)][547] of the Customs and Excise Amendment Act 2009 (2009 No 61).
 
@@ -6960,7 +6968,7 @@ Powers of Customs officers
     
     (5) Where a person is convicted in proceedings for an offence relating to documents or goods to which this section applies, and an order is made under this section, the operation of the order shall be suspended,---
         
-    *   (a) in any case until the expiration of the time prescribed by [Part 6][756] of the Criminal Procedure Act 2011 for the filing of notice of appeal or of an application for leave to appeal; and
+    *   (a) in any case until the expiration of the time prescribed by [Part 6][757] of the Criminal Procedure Act 2011 for the filing of notice of appeal or of an application for leave to appeal; and
     
     *   (b) where notice of appeal is filed within the time so prescribed, until the determination of the appeal; and
     
@@ -6972,9 +6980,9 @@ Powers of Customs officers
     
     Compare: 1966 No 19 s 220; 1983 No 41 s 17
     
-    Section 166 heading: amended, on 1 October 2012, by [section 225(3)][755] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 166 heading: amended, on 1 October 2012, by [section 225(3)][756] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 166(1): amended, on 1 October 2012, by [section 225(4)][755] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 166(1): amended, on 1 October 2012, by [section 225(4)][756] of the Search and Surveillance Act 2012 (2012 No 24).
     
     Section 166(1): amended, on 8 December 2009, by [section 5(2)][547] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
@@ -6984,7 +6992,7 @@ Powers of Customs officers
     
     Section 166(4)(b): amended, on 8 December 2009, by [section 5(2)][547] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 166(5)(a): amended, on 1 July 2013, by [section 413][692] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 166(5)(a): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 166A Detention of goods suspected to be instrument of crime or tainted property
     
@@ -7002,21 +7010,21 @@ Powers of Customs officers
             
         *   (i) this Act; or
         
-        *   (ii) [subpart 6][757] of Part 2 and [sections 114][758] and [115][759] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009; and
+        *   (ii) [subpart 6][758] of Part 2 and [sections 114][759] and [115][760] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009; and
         
         
     
-    *   (c) he or she has good cause to suspect that the goods are an instrument of crime or tainted property (as those terms are defined in [section 5(1)][760] of the Criminal Proceeds (Recovery) Act 2009).
+    *   (c) he or she has good cause to suspect that the goods are an instrument of crime or tainted property (as those terms are defined in [section 5(1)][761] of the Criminal Proceeds (Recovery) Act 2009).
     
-    Section 166A: inserted, on 2 July 2004, by [section 35][761] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 166A: inserted, on 2 July 2004, by [section 35][762] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 166A heading: substituted, on 1 December 2009, by [section 180(1)][762] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 166A heading: substituted, on 1 December 2009, by [section 180(1)][763] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
     
     Section 166A: amended, on 8 December 2009, by [section 5(2)][547] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 166A(b)(ii): substituted, on 17 October 2009, by [section 161(2)][763] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Section 166A(b)(ii): substituted, on 17 October 2009, by [section 161(2)][764] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
     
-    Section 166A(c): substituted, on 1 December 2009, by [section 180(2)][762] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 166A(c): substituted, on 1 December 2009, by [section 180(2)][763] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
 
 ##### 166B Return of cash necessary to satisfy essential human needs
     
@@ -7030,7 +7038,7 @@ Powers of Customs officers
     
     (3) If the 7-day period referred to in [section 166D(1)(a)][286] is extended under [section 166E][287], subsection (1) of this section applies to the extension, and the reference in subsection (1)(b) of this section to 7 days must be read as a reference to the number of days (not exceeding 21) of that 7-day period as extended.
     
-    Section 166B: inserted, on 2 July 2004, by [section 35][761] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 166B: inserted, on 2 July 2004, by [section 35][762] of the Customs and Excise Amendment Act 2004 (2004 No 55).
 
 ##### 166C Further provisions about detention under section 166A
     
@@ -7048,23 +7056,23 @@ Powers of Customs officers
         
     *   (a) the rest of this Act (for example, [Part 14][368]):
     
-    *   (b) [Financial Transactions Reporting Act 1996][764]:
+    *   (b) [Financial Transactions Reporting Act 1996][765]:
     
-    *   (ba) [Anti-Money Laundering and Countering Financing of Terrorism Act 2009][765]:
+    *   (ba) [Anti-Money Laundering and Countering Financing of Terrorism Act 2009][766]:
     
-    *   (c) [Mutual Assistance in Criminal Matters Act 1992][766]:
+    *   (c) [Mutual Assistance in Criminal Matters Act 1992][767]:
     
-    *   (d) [Criminal Proceeds (Recovery) Act 2009][767]:
+    *   (d) [Criminal Proceeds (Recovery) Act 2009][768]:
     
     *   (e) [Terrorism Suppression Act 2002][585].
     
-    Section 166C: inserted, on 2 July 2004, by [section 35][761] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 166C: inserted, on 2 July 2004, by [section 35][762] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
     Section 166C(3): amended, on 8 December 2009, by [section 5(2)][547] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 166C(4)(ba): inserted, on 17 October 2009, by [section 161(2)][763] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Section 166C(4)(ba): inserted, on 17 October 2009, by [section 161(2)][764] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
     
-    Section 166C(4)(d): substituted, on 1 December 2009, by [section 181][768] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 166C(4)(d): substituted, on 1 December 2009, by [section 181][769] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
 
 ##### 166D Return of goods detained under section 166A
     
@@ -7082,23 +7090,23 @@ Powers of Customs officers
     
     (3) However, the Customs need not return the goods as provided in subsection (2), and may continue to detain them until the relevant proceedings or requests (including any resulting applications) are determined if, on or before the expiry of the investigation period,---
         
-    *   (a) a charging document is filed in respect of the relevant qualifying instrument forfeiture offence (as defined in [section 5(1)][760] of the Criminal Proceeds (Recovery) Act 2009); or
+    *   (a) a charging document is filed in respect of the relevant qualifying instrument forfeiture offence (as defined in [section 5(1)][761] of the Criminal Proceeds (Recovery) Act 2009); or
     
-    *   (b) a foreign country makes a request to the Attorney-General under any of the following sections of the [Mutual Assistance in Criminal Matters Act 1992][766]:
+    *   (b) a foreign country makes a request to the Attorney-General under any of the following sections of the [Mutual Assistance in Criminal Matters Act 1992][767]:
             
-        *   (i) [section 54][769] (relating to a request to enforce a foreign restraining order); and
+        *   (i) [section 54][770] (relating to a request to enforce a foreign restraining order); and
         
-        *   (ii) [section 60][770] (relating to an interim foreign restraining order).
+        *   (ii) [section 60][771] (relating to an interim foreign restraining order).
         
         
     
-    Section 166D: inserted, on 2 July 2004, by [section 35][761] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 166D: inserted, on 2 July 2004, by [section 35][762] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 166D(3)(a): substituted, on 1 December 2009, by [section 182][771] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 166D(3)(a): substituted, on 1 December 2009, by [section 182][772] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
     
-    Section 166D(3)(a): amended, on 1 July 2013, by [section 413][692] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 166D(3)(a): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 166D(3)(b): substituted, on 1 December 2009, by [section 14][772] of the Mutual Assistance in Criminal Matters Amendment Act 2009 (2009 No 9).
+    Section 166D(3)(b): substituted, on 1 December 2009, by [section 14][773] of the Mutual Assistance in Criminal Matters Amendment Act 2009 (2009 No 9).
 
 ##### 166E Extension of 7-day period in section 166D(1)(a)
     
@@ -7122,7 +7130,7 @@ Powers of Customs officers
     
     (4) The Customs must make all reasonable efforts to notify the person from whom the goods were seized, at least 24 hours before the hearing of the application, of the time and place of that hearing.
     
-    Section 166E: inserted, on 2 July 2004, by [section 35][761] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 166E: inserted, on 2 July 2004, by [section 35][762] of the Customs and Excise Amendment Act 2004 (2004 No 55).
 
 ##### 166F Custody of certain goods detained under section 166A
     
@@ -7142,11 +7150,11 @@ Powers of Customs officers
     
     *   (c) return the goods on demand to the custody of the Customs.
     
-    Section 166F: inserted, on 2 July 2004, by [section 35][761] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 166F: inserted, on 2 July 2004, by [section 35][762] of the Customs and Excise Amendment Act 2004 (2004 No 55).
 
 ##### 167 Search warrants
     
-*   (1) An issuing officer (within the meaning of [section 3][773] of the Search and Surveillance Act 2012) may issue a search warrant if he or she is satisfied, on an application by a Customs officer made in the manner provided in [subpart 3][699] of Part 4 of that Act, that there are reasonable grounds to believe that there is, in or on any place or thing,---
+*   (1) An issuing officer (within the meaning of [section 3][774] of the Search and Surveillance Act 2012) may issue a search warrant if he or she is satisfied, on an application by a Customs officer made in the manner provided in [subpart 3][700] of Part 4 of that Act, that there are reasonable grounds to believe that there is, in or on any place or thing,---
         
     *   (a) any thing that there are reasonable grounds to believe may be evidence of---
             
@@ -7166,107 +7174,107 @@ Powers of Customs officers
     
     *   (c) any thing that is liable to seizure under this Act.
     
-    (2) The provisions of [Part 4][698] of the Search and Surveillance Act 2012 apply.
+    (2) The provisions of [Part 4][699] of the Search and Surveillance Act 2012 apply.
     
-    (3) Despite subsection (2), [sections 125(4)][700], [131(5)(f)][701], and [133][702], and [subparts 6][703] and [8][704] of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under [section 225][370] of this Act.
+    (3) Despite subsection (2), [sections 125(4)][701], [131(5)(f)][702], and [133][703], and [subparts 6][704] and [8][705] of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under [section 225][370] of this Act.
     
     (4) \[Repealed\]
     
-    Section 167(1): substituted, on 8 January 2003, by [section 14][774] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
+    Section 167(1): substituted, on 8 January 2003, by [section 14][775] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
     
-    Section 167(1): amended, on 1 October 2012, by [section 225(5)][755] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 167(1): amended, on 1 October 2012, by [section 225(5)][756] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 167(2): replaced, on 1 October 2012, by [section 225(6)][755] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 167(2): replaced, on 1 October 2012, by [section 225(6)][756] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 167(3): replaced, on 1 October 2012, by [section 225(6)][755] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 167(3): replaced, on 1 October 2012, by [section 225(6)][756] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 167(4): repealed, on 1 October 2012, by [section 225(6)][755] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 167(4): repealed, on 1 October 2012, by [section 225(6)][756] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 168 Entry and search under warrant
     
 *   \[Repealed\]
     
-    Section 168: repealed, on 1 October 2012, by [section 226(1)][775] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 168: repealed, on 1 October 2012, by [section 226(1)][776] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 168A Searching of persons for dangerous items when executing search warrant
     
 *   \[Repealed\]
     
-    Section 168A: repealed, on 1 October 2012, by [section 226(1)][775] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 168A: repealed, on 1 October 2012, by [section 226(1)][776] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 168B Detention of dangerous items
     
 *   \[Repealed\]
     
-    Section 168B: repealed, on 1 October 2012, by [section 226(1)][775] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 168B: repealed, on 1 October 2012, by [section 226(1)][776] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 169 Search warrant to be produced
     
 *   \[Repealed\]
     
-    Section 169: repealed, on 1 October 2012, by [section 226(1)][775] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 169: repealed, on 1 October 2012, by [section 226(1)][776] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 170 Duty to inform owner where thing seized
     
 *   \[Repealed\]
     
-    Section 170: repealed, on 1 October 2012, by [section 226(1)][775] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 170: repealed, on 1 October 2012, by [section 226(1)][776] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 171 Emergency warrants
     
 *   \[Repealed\]
     
-    Section 171: repealed, on 1 October 2012, by [section 226(1)][775] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 171: repealed, on 1 October 2012, by [section 226(1)][776] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 172 Use of aids by Customs officer
     
-*   (1) In exercising any power of boarding, entry, or search conferred by this Act (other than a power of search to which [Part 4][698] of the Search and Surveillance Act 2012 applies), a Customs officer or any constable may have with him or her, and use for the purposes of searching, a Customs dog, a chemical substance, x-ray or imaging equipment, or some other mechanical, electrical, or electronic device.
+*   (1) In exercising any power of boarding, entry, or search conferred by this Act (other than a power of search to which [Part 4][699] of the Search and Surveillance Act 2012 applies), a Customs officer or any constable may have with him or her, and use for the purposes of searching, a Customs dog, a chemical substance, x-ray or imaging equipment, or some other mechanical, electrical, or electronic device.
     
     (2) Nothing in this section applies to a search carried out on residential premises except pursuant to a warrant issued under [section 167][289].
     
     Compare: 1966 No 19 s 217A; 1974 No 142 s 4
     
-    Section 172(1): amended, on 1 October 2012, by [section 226(2)][775] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 172(1): amended, on 1 October 2012, by [section 226(2)][776] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 172(1): amended, on 6 April 2012, by [section 21][776] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 172(1): amended, on 6 April 2012, by [section 21][777] of the Customs and Excise Amendment Act 2012 (2012 No 25).
     
     Section 172(1): amended, on 8 December 2009, by [section 24][562] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 172(1): amended, on 2 July 2004, by [section 34(3)][733] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 172(1): amended, on 2 July 2004, by [section 34(3)][734] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 172(2): amended, on 1 October 2012, by [section 226(3)][775] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 172(2): amended, on 1 October 2012, by [section 226(3)][776] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 173 Conditions applying to entry of buildings
     
 *   \[Repealed\]
     
-    Section 173: repealed, on 1 October 2012, by [section 226(1)][775] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 173: repealed, on 1 October 2012, by [section 226(1)][776] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 174 Arrest of suspected offenders
     
 *   (1) A Customs officer who has reasonable cause to suspect that a person has committed, is committing, or is attempting to commit, or is otherwise concerned in the commission of, an offence against this Act punishable by imprisonment, or an offence against [section 209][349], may, while that cause to suspect continues and before the end of the seventh day after the date on which it arose, arrest that person without warrant.
     
-    (1A) A Customs officer who has reasonable cause to suspect that a person has carried some other person into New Zealand on a craft, and that the carriage of the other person into New Zealand on the craft constituted an offence against [section 98C(1)][706] (which makes it an offence to smuggle unauthorised migrants) of the Crimes Act 1961 may, while that cause to suspect continues and before the end of the seventh day after the date on which it arose, and on the craft or elsewhere, arrest the person without warrant.
+    (1A) A Customs officer who has reasonable cause to suspect that a person has carried some other person into New Zealand on a craft, and that the carriage of the other person into New Zealand on the craft constituted an offence against [section 98C(1)][707] (which makes it an offence to smuggle unauthorised migrants) of the Crimes Act 1961 may, while that cause to suspect continues and before the end of the seventh day after the date on which it arose, and on the craft or elsewhere, arrest the person without warrant.
     
     (2) A constable who has reasonable cause to suspect that a person has committed, is committing, or is attempting to commit, or is otherwise concerned in the commission of, an offence against [section 176][306], [188A][322], [209][349], or [211][353] may, while that cause to suspect continues and before the end of the seventh day after the date on which it arose, arrest that person without warrant.
     
     (3) Where a Customs officer arrests a person under a power conferred by this section, the officer shall, unless the person is sooner released, as soon as practicable call a constable to his or her aid and deliver the arrested person into the custody of that constable.
     
-    (4) If the person so delivered into custody is issued with a summons pursuant to [sections 28][777] and [30][778] of the Criminal Procedure Act 2011, the duties under [section 31][779] of that Act relating to the filing of a charging document are the duties of a Customs officer and not of a constable.
+    (4) If the person so delivered into custody is issued with a summons pursuant to [sections 28][778] and [30][779] of the Criminal Procedure Act 2011, the duties under [section 31][780] of that Act relating to the filing of a charging document are the duties of a Customs officer and not of a constable.
     
     Compare: 1966 No 19 s 267
     
-    Section 174 heading: amended, on 8 December 2009, by [section 19(1)][780] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 174 heading: amended, on 8 December 2009, by [section 19(1)][781] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 174(1): substituted, on 8 December 2009, by [section 19(2)][780] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 174(1): substituted, on 8 December 2009, by [section 19(2)][781] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 174(1A): inserted, on 8 December 2009, by [section 19(2)][780] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 174(1A): inserted, on 8 December 2009, by [section 19(2)][781] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 174(2): substituted, on 8 December 2009, by [section 19(2)][780] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 174(2): substituted, on 8 December 2009, by [section 19(2)][781] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
     Section 174(3): amended, on 8 December 2009, by [section 24][562] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 174(4): replaced, on 1 July 2013, by [section 413][692] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 174(4): replaced, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 175 Protection of persons acting under authority of Act
     
@@ -7290,13 +7298,13 @@ Powers of Customs officers
     
     (4) In this section,---
     
-    _Aviation Security Service_ has the same meaning as in [section 2][781] of the Civil Aviation Act 1990
+    _Aviation Security Service_ has the same meaning as in [section 2][782] of the Civil Aviation Act 1990
     
-    _dangerous civil aviation goods_ has the same meaning as dangerous goods in [section 2][781] of the Civil Aviation Act 1990
+    _dangerous civil aviation goods_ has the same meaning as dangerous goods in [section 2][782] of the Civil Aviation Act 1990
     
-    _operator_ has the same meaning as in [section 2][781] of the Civil Aviation Act 1990\.
+    _operator_ has the same meaning as in [section 2][782] of the Civil Aviation Act 1990\.
     
-    Section 175A: substituted, on 6 March 2007, by [section 16][782] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 175A: substituted, on 6 March 2007, by [section 16][783] of the Customs and Excise Amendment Act 2007 (2007 No 9).
 
 ##### 175B Unlawful travel document
     
@@ -7342,7 +7350,7 @@ Powers of Customs officers
     
     (6) [Section 175C(2) to (5)][302] apply with all necessary modifications to any documents or goods retained or seized under this section.
     
-    Section 175B: inserted, on 6 March 2007, by [section 16][782] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 175B: inserted, on 6 March 2007, by [section 16][783] of the Customs and Excise Amendment Act 2007 (2007 No 9).
 
 ##### 175C Seizure and detention of goods or documents suspected to be certain risk goods or evidence of commission of certain offences
     
@@ -7352,17 +7360,17 @@ Powers of Customs officers
     
     *   (b) are evidence of the commission of 1 or more offences under 1 or more of the following enactments:
             
-        *   (i) [section 130][783] of the Animal Products Act 1999:
+        *   (i) [section 130][784] of the Animal Products Act 1999:
         
-        *   (ii) [section 98C][706] of the Crimes Act 1961:
+        *   (ii) [section 98C][707] of the Crimes Act 1961:
         
-        *   (iii) [section 232][784] or [233][785] of the Fisheries Act 1996:
+        *   (iii) [section 232][785] or [233][786] of the Fisheries Act 1996:
         
-        *   (iv) [section 342(1)(c)][786] or [345(1)][787] of the Immigration Act 2009:
+        *   (iv) [section 342(1)(c)][787] or [345(1)][788] of the Immigration Act 2009:
         
-        *   (v) [section 37][788] or [43][789] of the Medicines Act 1981:
+        *   (v) [section 37][789] or [43][790] of the Medicines Act 1981:
         
-        *   (vi) [section 29A][790], [30][791], or [31][792] of the Passports Act 1992\.
+        *   (vi) [section 29A][791], [30][792], or [31][793] of the Passports Act 1992\.
         
         
     
@@ -7376,35 +7384,35 @@ Powers of Customs officers
     
     *   (b) if the Customs officer believes that another provision of subsection (1) applies to the goods or documents, an appropriately authorised officer who holds office under the Act specified in that provision or is employed by the department of State that administers the Act.
     
-    (5) [Part 4][698] of the Search and Surveillance Act 2012 (except [subparts 2][708] and [3][699]) applies with any necessary modifications.
+    (5) [Part 4][699] of the Search and Surveillance Act 2012 (except [subparts 2][709] and [3][700]) applies with any necessary modifications.
     
-    Section 175C: inserted, on 6 March 2007, by [section 16][782] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 175C: inserted, on 6 March 2007, by [section 16][783] of the Customs and Excise Amendment Act 2007 (2007 No 9).
     
-    Section 175C heading: amended, on 1 October 2012, by [section 227(1)][793] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 175C heading: amended, on 1 October 2012, by [section 227(1)][794] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 175C(1): amended, on 1 October 2012, by [section 227(2)][793] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 175C(1): amended, on 1 October 2012, by [section 227(2)][794] of the Search and Surveillance Act 2012 (2012 No 24).
     
     Section 175C(1)(b)(iv): substituted, at 2 am on 29 November 2010, by [section 406(1)][581] of the Immigration Act 2009 (2009 No 51).
     
-    Section 175C(2): amended, on 1 October 2012, by [section 227(3)][793] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 175C(2): amended, on 1 October 2012, by [section 227(3)][794] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 175C(3): amended, on 1 October 2012, by [section 227(3)][793] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 175C(3): amended, on 1 October 2012, by [section 227(3)][794] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 175C(4)(a): amended, on 1 October 2012, by [section 227(3)][793] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 175C(4)(a): amended, on 1 October 2012, by [section 227(3)][794] of the Search and Surveillance Act 2012 (2012 No 24).
     
     Section 175C(4)(a): amended, on 8 December 2009, by [section 24][562] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 175C(4)(b): amended, on 1 October 2012, by [section 227(3)][793] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 175C(4)(b): amended, on 1 October 2012, by [section 227(3)][794] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 175C(5): replaced, on 1 October 2012, by [section 227(4)][793] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 175C(5): replaced, on 1 October 2012, by [section 227(4)][794] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 175D Seizure and detention of certain drugs and objectionable publications
     
 *   (1) A Customs officer may seize and detain goods or documents that are presented or located in the course of exercising any power of inspection, search, or examination under this Act, if he or she has cause to suspect on reasonable grounds that the goods or documents are evidence of the commission of 1 or more offences under 1 or more of the following enactments:
         
-    *   (a) [section 6][794], [7][795], [12A][796], [13][797], or [22][798] of the Misuse of Drugs Act 1975:
+    *   (a) [section 6][795], [7][796], [12A][797], [13][798], or [22][799] of the Misuse of Drugs Act 1975:
     
-    *   (b) [section 123][799], [124][800], [131][801], or [131A][802] of the Films, Videos, and Publications Classification Act 1993\.
+    *   (b) [section 123][800], [124][801], [131][802], or [131A][803] of the Films, Videos, and Publications Classification Act 1993\.
     
     (2) A Customs officer who detains goods or documents under subsection (1) may, if the appropriate person specified in subsection (3) agrees, do any of the following:
         
@@ -7418,15 +7426,15 @@ Powers of Customs officers
         
     *   (a) if the Customs officer believes that subsection (1)(a) applies, a constable; or
     
-    *   (b) if the Customs officer believes that subsection (1)(b) applies, an Inspector of Publications within the meaning of the [Films, Videos, and Publications Classification Act 1993][803].
+    *   (b) if the Customs officer believes that subsection (1)(b) applies, an Inspector of Publications within the meaning of the [Films, Videos, and Publications Classification Act 1993][804].
     
     (4) Once goods or documents have been delivered to a person under subsection (2)(a), responsibility for those goods or documents passes to that person.
     
-    (5) The provisions of [subparts 1][737], [5][738], [6][703], [7][739], [9][740], and [10][741] of Part 4 of the Search and Surveillance Act 2012 apply in respect of the powers conferred by this section.
+    (5) The provisions of [subparts 1][738], [5][739], [6][704], [7][740], [9][741], and [10][742] of Part 4 of the Search and Surveillance Act 2012 apply in respect of the powers conferred by this section.
     
-    (6) Despite subsection (5), [sections 125(4)][700], [131(5)(f)][701], and [133][702], and [subpart 6][703] of Part 4 of the Search and Surveillance Act 2012 do not apply to any forfeited goods (within the meaning of this Act).
+    (6) Despite subsection (5), [sections 125(4)][701], [131(5)(f)][702], and [133][703], and [subpart 6][704] of Part 4 of the Search and Surveillance Act 2012 do not apply to any forfeited goods (within the meaning of this Act).
     
-    Section 175D: inserted, on 1 October 2012, by [section 228][804] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 175D: inserted, on 1 October 2012, by [section 228][805] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ## Part 13  
 Offences and penalties
@@ -7463,9 +7471,9 @@ Offences and penalties
     
     Section 177(1)(a): amended, on 8 December 2009, by [section 5(2)][547] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 177(1)(b): replaced, on 6 April 2012, by [section 22][805] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 177(1)(b): replaced, on 6 April 2012, by [section 22][806] of the Customs and Excise Amendment Act 2012 (2012 No 25).
     
-    Section 177(1)(c): replaced, on 6 April 2012, by [section 22][805] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 177(1)(c): replaced, on 6 April 2012, by [section 22][806] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 177AA Killing or injuring Customs dog
     
@@ -7473,7 +7481,7 @@ Offences and penalties
     
     (2) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 24 months, to a fine not exceeding $15,000, or to both.
     
-    Section 177AA: inserted, on 6 April 2012, by [section 23][806] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 177AA: inserted, on 6 April 2012, by [section 23][807] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 177A False allegation or report to Customs officer
     
@@ -7491,9 +7499,9 @@ Offences and penalties
     
     (2) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000\.
     
-    Compare: 1981 No 113 [s 24][807]
+    Compare: 1981 No 113 [s 24][808]
     
-    Section 177A: inserted, on 8 December 2009, by [section 20][808] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 177A: inserted, on 8 December 2009, by [section 20][809] of the Customs and Excise Amendment Act 2009 (2009 No 61).
 
 ##### 178 Personation of Customs officer
     
@@ -7533,7 +7541,7 @@ Offences and penalties
     
     Compare: 1966 No 19 s 212(2); 1982 No 112 s 17
     
-    Section 180(1): amended, on 6 March 2007, by [section 31][809] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 180(1): amended, on 6 March 2007, by [section 31][810] of the Customs and Excise Amendment Act 2007 (2007 No 9).
 
 ##### 181 Unauthorised presence in certain Customs controlled areas
     
@@ -7567,7 +7575,7 @@ Offences and penalties
     
     *   (b) in the case of a body corporate, to a fine not exceeding $50,000\.
     
-    Section 182(2): amended, on 1 July 2013, by [section 413][692] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 182(2): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 183 Interference with Customs computerised entry processing system
     
@@ -7581,7 +7589,7 @@ Offences and penalties
     
     (2) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $25,000\.
     
-    Section 183(2): amended, on 1 July 2013, by [section 413][692] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 183(2): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 184 Offences in relation to security of, or unauthorised use of, unique user identifiers
     
@@ -7617,7 +7625,7 @@ Offences and penalties
     
     *   (b) in the case of a body corporate, to a fine not exceeding $5,000\.
     
-    Compare: 1966 No 19 ss 19, 212(2), 212A(2), 218(4), 255; 1985 No 145 s 14(2); 1990 No 89 s 4; 1994 No 100 [ss 7][712], [8][810]
+    Compare: 1966 No 19 ss 19, 212(2), 212A(2), 218(4), 255; 1985 No 145 s 14(2); 1990 No 89 s 4; 1994 No 100 [ss 7][713], [8][811]
 
 ##### 186 Failure to produce evidence of identity, entitlement to travel, or other matters
     
@@ -7625,11 +7633,11 @@ Offences and penalties
     
     (2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $1,000\.
     
-    Compare: 1966 No 19 s 218B; 1994 No 100 [s 9][717]
+    Compare: 1966 No 19 s 218B; 1994 No 100 [s 9][718]
     
-    Section 186 heading: amended, on 2 July 2004, by [section 36(1)][811] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 186 heading: amended, on 2 July 2004, by [section 36(1)][812] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 186(1): amended, on 2 July 2004, by [section 36(2)][811] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 186(1): amended, on 2 July 2004, by [section 36(2)][812] of the Customs and Excise Amendment Act 2004 (2004 No 55).
 
 ##### 187 Failure to produce or account for goods
     
@@ -7641,9 +7649,9 @@ Offences and penalties
     
     Compare: 1966 No 19 s 204(3); 1982 No 112 s 17
     
-    Section 187(1): amended, on 9 October 2002, by [section 18(a)][812] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
+    Section 187(1): amended, on 9 October 2002, by [section 18(a)][813] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
     
-    Section 187(1): amended, on 9 October 2002, by [section 18(b)][812] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
+    Section 187(1): amended, on 9 October 2002, by [section 18(b)][813] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
 
 ##### 188 Failure to comply with requisition
     
@@ -7671,7 +7679,7 @@ Offences and penalties
     
     Compare: 1998 No 110 s 59(1)(a)
     
-    Section 188A: inserted, on 8 January 2003, by [section 19][813] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
+    Section 188A: inserted, on 8 January 2003, by [section 19][814] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
 
 #### Offences in relation to Customs controlled areas
 
@@ -7701,7 +7709,7 @@ Offences and penalties
 
 #### Offences in relation to arrival and departure of craft and persons
     
-*   Heading: amended, on 6 March 2007, by [section 32][814] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+*   Heading: amended, on 6 March 2007, by [section 32][815] of the Customs and Excise Amendment Act 2007 (2007 No 9).
 
 ##### 191 Offences in relation to arrival of craft
     
@@ -7761,11 +7769,11 @@ Offences and penalties
     
     (4) Every person who commits an offence against paragraph (e), (f), (g), or (h) of subsection (1) is liable on conviction to a fine not exceeding $5,000\.
     
-    Section 191(1)(a): substituted, on 6 March 2007, by [section 17][815] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 191(1)(a): substituted, on 6 March 2007, by [section 17][816] of the Customs and Excise Amendment Act 2007 (2007 No 9).
     
     Section 191(1)(e): amended, on 8 December 2009, by [section 5(2)][547] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 191(1)(e): amended, on 2 July 2004, by [section 37][816] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 191(1)(e): amended, on 2 July 2004, by [section 37][817] of the Customs and Excise Amendment Act 2004 (2004 No 55).
 
 ##### 192 Offences in relation to inward report
     
@@ -7811,7 +7819,7 @@ Offences and penalties
     
     (3) Every person who commits an offence against paragraphs (b) or (d) of subsection (1) is liable on conviction to a fine not exceeding $5,000\.
     
-    Section 193(1)(b): substituted, on 6 March 2007, by [section 18][817] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 193(1)(b): substituted, on 6 March 2007, by [section 18][818] of the Customs and Excise Amendment Act 2007 (2007 No 9).
 
 ##### 194 Offences in relation to outward report
     
@@ -7837,7 +7845,7 @@ Offences and penalties
     
     (2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $1,000\.
     
-    Section 194A: inserted, on 6 March 2007, by [section 19][818] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 194A: inserted, on 6 March 2007, by [section 19][819] of the Customs and Excise Amendment Act 2007 (2007 No 9).
 
 ##### 195 Defences
     
@@ -7847,7 +7855,7 @@ Offences and penalties
     
     *   (b) that, in any case where it is alleged that anything unlawful was done, the defendant took all reasonable steps to ensure that it was not done.
     
-    Section 195: amended, on 6 March 2007, by [section 33][819] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 195: amended, on 6 March 2007, by [section 33][820] of the Customs and Excise Amendment Act 2007 (2007 No 9).
 
 #### Other offences
 
@@ -7953,19 +7961,19 @@ Offences and penalties
     
     (5) To avoid doubt, in this section, _tobacco_ means all tobacco (as defined in [section 2(1)][3]), whether manufactured or not manufactured.
     
-    Section 200(1)(a): substituted, on 2 July 2004, by [section 38][820] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 200(1)(a): substituted, on 2 July 2004, by [section 38][821] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 200(1)(ab): inserted, on 2 July 2004, by [section 38][820] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 200(1)(ab): inserted, on 2 July 2004, by [section 38][821] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 200(2): amended, on 24 September 2009, by [section 11(1)][821] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 200(2): amended, on 24 September 2009, by [section 11(1)][822] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
     
-    Section 200(2A): inserted, on 24 September 2009, by [section 11(2)][821] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 200(2A): inserted, on 24 September 2009, by [section 11(2)][822] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
     
-    Section 200(3): amended, on 24 September 2009, by [section 11(3)][821] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 200(3): amended, on 24 September 2009, by [section 11(3)][822] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
     
-    Section 200(4): added, on 24 September 2009, by [section 11(4)][821] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 200(4): added, on 24 September 2009, by [section 11(4)][822] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
     
-    Section 200(5): added, on 24 September 2009, by [section 11(4)][821] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 200(5): added, on 24 September 2009, by [section 11(4)][822] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
 
 ##### 201 Interference with goods
     
@@ -8109,7 +8117,7 @@ Offences and penalties
     
     (7) If, in any prosecution for an offence alleged to have been committed against subsection (5), it is proved that the person charged with the offence has destroyed, altered, or concealed any book, document, or record, or has sent, or attempted to send, out of New Zealand, any such book, document, or record, it shall be presumed in the absence of evidence to the contrary that in so doing that person intended to defeat the purposes of this Act.
     
-    Section 205(6): amended, on 1 July 2013, by [section 413][692] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 205(6): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 205A Offences relating to failure to give Customs access to information
     
@@ -8129,7 +8137,7 @@ Offences and penalties
     
     *   (b) in the case of a body corporate, to a fine not exceeding $15,000\.
     
-    Section 205A: inserted, on 1 October 2004, by [section 39][822] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 205A: inserted, on 1 October 2004, by [section 39][823] of the Customs and Excise Amendment Act 2004 (2004 No 55).
 
 ##### 205B Offence relating to disclosing whether required to give Customs access to information
     
@@ -8147,7 +8155,7 @@ Offences and penalties
     
     *   (b) in the case of a body corporate, $25,000\.
     
-    Section 205B: inserted, on 1 October 2004, by [section 39][822] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 205B: inserted, on 1 October 2004, by [section 39][823] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
     Section 205B(2): amended, on 8 December 2009, by [section 5(2)][547] of the Customs and Excise Amendment Act 2009 (2009 No 61).
 
@@ -8173,7 +8181,7 @@ Offences and penalties
     
     Compare: 1966 No 19 s 252
     
-    Section 207(2): substituted, on 15 November 2000, by [section 6][823] of the Customs and Excise Amendment Act (No 2) 2000 (2000 No 58).
+    Section 207(2): substituted, on 15 November 2000, by [section 6][824] of the Customs and Excise Amendment Act (No 2) 2000 (2000 No 58).
 
 ##### 208 Provisions relating to offences against sections 203 to 207
     
@@ -8241,37 +8249,37 @@ Offences and penalties
     
     *   (b) in the case of a body corporate, to a fine not exceeding $100,000\.
     
-    (6) [Section 132A][824] of the Films, Videos, and Publications Classification Act 1993 (which specifies an aggravating factor to be taken into account in sentencing, etc, for certain publications offences) applies to an offence against subsection (1A) of this section, and an offence of that kind is also a _relevant offence_ as defined in [section 145A(1)][825] of that Act (which relates to extraterritorial jurisdiction).
+    (6) [Section 132A][825] of the Films, Videos, and Publications Classification Act 1993 (which specifies an aggravating factor to be taken into account in sentencing, etc, for certain publications offences) applies to an offence against subsection (1A) of this section, and an offence of that kind is also a _relevant offence_ as defined in [section 145A(1)][826] of that Act (which relates to extraterritorial jurisdiction).
     
     Compare: 1966 No 19 ss 48(7), (8), 70(6)
     
-    Section 209(1)(a): amended, on 22 February 2005, by [section 42(1)][826] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 209(1)(a): amended, on 22 February 2005, by [section 42(1)][827] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
     
-    Section 209(1)(b): amended, on 22 February 2005, by [section 42(2)][826] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 209(1)(b): amended, on 22 February 2005, by [section 42(2)][827] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
     
-    Section 209(1)(c): amended, on 22 February 2005, by [section 42(4)][826] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 209(1)(c): amended, on 22 February 2005, by [section 42(4)][827] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
     
-    Section 209(1)(ca): inserted, on 6 March 2007, by [section 20(1)][827] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 209(1)(ca): inserted, on 6 March 2007, by [section 20(1)][828] of the Customs and Excise Amendment Act 2007 (2007 No 9).
     
-    Section 209(1)(d): amended, on 22 February 2005, by [section 42(1)][826] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 209(1)(d): amended, on 22 February 2005, by [section 42(1)][827] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
     
-    Section 209(1)(e): amended, on 22 February 2005, by [section 42(1)][826] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 209(1)(e): amended, on 22 February 2005, by [section 42(1)][827] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
     
-    Section 209(1)(e): amended, on 22 February 2005, by [section 42(4)][826] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 209(1)(e): amended, on 22 February 2005, by [section 42(4)][827] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
     
-    Section 209(1A): substituted, on 17 September 2008, by [section 12][828] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 209(1A): substituted, on 17 September 2008, by [section 12][829] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
     
-    Section 209(1B): inserted, on 22 February 2005, by [section 42(3)][826] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 209(1B): inserted, on 22 February 2005, by [section 42(3)][827] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
     
-    Section 209(3): amended, on 6 March 2007, by [section 20(2)][827] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 209(3): amended, on 6 March 2007, by [section 20(2)][828] of the Customs and Excise Amendment Act 2007 (2007 No 9).
     
-    Section 209(4A): inserted, on 6 March 2007, by [section 20(3)][827] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 209(4A): inserted, on 6 March 2007, by [section 20(3)][828] of the Customs and Excise Amendment Act 2007 (2007 No 9).
     
-    Section 209(5): added, on 22 February 2005, by [section 42(5)][826] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 209(5): added, on 22 February 2005, by [section 42(5)][827] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
     
-    Section 209(5): amended, on 1 July 2013, by [section 413][692] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 209(5): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 209(6): added, on 22 February 2005, by [section 42(5)][826] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 209(6): added, on 22 February 2005, by [section 42(5)][827] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
 
 ##### 209A Publications imported or exported in course of official duties
     
@@ -8283,17 +8291,17 @@ Offences and penalties
     
     (2) In this section,---
     
-    _New Zealand official_ means a person referred to in any of paragraphs (a) to (l) of [section 131(4)][801] of the Films, Videos, and Publications Classification Act 1993
+    _New Zealand official_ means a person referred to in any of paragraphs (a) to (l) of [section 131(4)][802] of the Films, Videos, and Publications Classification Act 1993
     
-    _overseas official_ means a person in a country other than New Zealand who holds an office in that country that corresponds to an office referred to in [section 131(4)][801] of the Films, Videos, and Publications Classification Act 1993, and who is exercising or performing the duties, functions, or powers of that office
+    _overseas official_ means a person in a country other than New Zealand who holds an office in that country that corresponds to an office referred to in [section 131(4)][802] of the Films, Videos, and Publications Classification Act 1993, and who is exercising or performing the duties, functions, or powers of that office
     
-    _publication_ has the same meaning as in [section 2][829] of the Films, Videos, and Publications Classification Act 1993\.
+    _publication_ has the same meaning as in [section 2][830] of the Films, Videos, and Publications Classification Act 1993\.
     
-    Section 209A: inserted, on 9 October 2002, by [section 20][830] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
+    Section 209A: inserted, on 9 October 2002, by [section 20][831] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
     
-    Section 209A heading: amended, on 22 February 2005, by [section 43(1)][831] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 209A heading: amended, on 22 February 2005, by [section 43(1)][832] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
     
-    Section 209A(1): substituted, on 22 February 2005, by [section 43(2)][831] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 209A(1): substituted, on 22 February 2005, by [section 43(2)][832] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
 
 ##### 210 Offences in relation to exportation of goods
     
@@ -8345,7 +8353,7 @@ Offences and penalties
     
     *   (b) in the case of a body corporate, $25,000\.
     
-    Section 210A: inserted, on 2 July 2004, by [section 40][832] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 210A: inserted, on 2 July 2004, by [section 40][833] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
     Section 210A(1)(a): amended, on 8 December 2009, by [section 4(3)][550] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
@@ -8387,11 +8395,11 @@ Offences and penalties
     
     Compare: 1966 No 19 s 243; 1983 No 41 s 24(1)
     
-    Section 211(2): amended, on 24 September 2009, by [section 13(1)][833] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 211(2): amended, on 24 September 2009, by [section 13(1)][834] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
     
-    Section 211(3): added, on 24 September 2009, by [section 13(2)][833] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 211(3): added, on 24 September 2009, by [section 13(2)][834] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
     
-    Section 211(4): added, on 24 September 2009, by [section 13(2)][833] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 211(4): added, on 24 September 2009, by [section 13(2)][834] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
 
 ##### 212 Possession or custody of uncustomed goods or prohibited imports
     
@@ -8413,9 +8421,9 @@ Offences and penalties
     
     Compare: 1966 No 19 s 253
     
-    Section 212(2): amended, on 24 September 2009, by [section 14(1)][834] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 212(2): amended, on 24 September 2009, by [section 14(1)][835] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
     
-    Section 212(3): added, on 24 September 2009, by [section 14(2)][834] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 212(3): added, on 24 September 2009, by [section 14(2)][835] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
 
 ##### 213 Purchase, sale, exchange, etc, of uncustomed goods or prohibited imports
     
@@ -8435,9 +8443,9 @@ Offences and penalties
     
     *   (b) in the case of a body corporate, to a fine not exceeding $100,000\.
     
-    Section 213(2): amended, on 24 September 2009, by [section 15(1)][835] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 213(2): amended, on 24 September 2009, by [section 15(1)][836] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
     
-    Section 213(3): added, on 24 September 2009, by [section 15(2)][835] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 213(3): added, on 24 September 2009, by [section 15(2)][836] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
 
 ##### 214 Possession or control of concealed goods
     
@@ -8475,7 +8483,7 @@ Offences and penalties
     
     (4) Every person who commits an offence against subsection (3) is liable on conviction to imprisonment for a term not exceeding 12 months, or to a fine not exceeding an amount equal to 3 times the value of the goods to which the offence relates.
     
-    Section 215A: inserted, on 2 July 2004, by [section 41][836] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 215A: inserted, on 2 July 2004, by [section 41][837] of the Customs and Excise Amendment Act 2004 (2004 No 55).
 
 ##### 216 Offences in relation to Customs Appeal Authorities
     
@@ -8551,7 +8559,7 @@ Offences and penalties
     
 *   \[Repealed\]
     
-    Section 220: repealed, on 1 July 2013, by [section 413][692] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 220: repealed, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 221 Filing of charging document
     
@@ -8567,19 +8575,19 @@ Offences and penalties
     
     (3) Proceedings for an offence against [section 216][359] of this Act must be commenced by the Registrar of a Customs Appeal Authority.
     
-    (4) Despite anything to the contrary in [section 25][837] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 5 years after the date on which the offence was committed.
+    (4) Despite anything to the contrary in [section 25][838] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 5 years after the date on which the offence was committed.
     
     Compare: 1966 No 19 ss 259, 260
     
-    Section 221: substituted, on 8 December 2009, by [section 21][838] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 221: substituted, on 8 December 2009, by [section 21][839] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 221 heading: replaced, on 1 July 2013, by [section 413][692] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 221 heading: replaced, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 221(1): amended, on 1 July 2013, by [section 413][692] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 221(1): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 221(3): amended, on 1 July 2013, by [section 413][692] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 221(3): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 221(4): replaced, on 1 July 2013, by [section 413][692] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 221(4): replaced, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 222 Court may order payment of money in respect of duty
     
@@ -8623,19 +8631,19 @@ Offences and penalties
     
     Compare: 1966 No 19 s 266
     
-    Section 223: substituted, on 9 October 2002, by [section 21][839] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
+    Section 223: substituted, on 9 October 2002, by [section 21][840] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
     
-    Section 223(1): replaced, on 6 April 2012, by [section 24(1)][840] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 223(1): replaced, on 6 April 2012, by [section 24(1)][841] of the Customs and Excise Amendment Act 2012 (2012 No 25).
     
-    Section 223(2): replaced, on 6 April 2012, by [section 24(1)][840] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 223(2): replaced, on 6 April 2012, by [section 24(1)][841] of the Customs and Excise Amendment Act 2012 (2012 No 25).
     
-    Section 223(2): amended, on 1 July 2013, by [section 413][692] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 223(2): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 223(2A): inserted, on 6 April 2012, by [section 24(1)][840] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 223(2A): inserted, on 6 April 2012, by [section 24(1)][841] of the Customs and Excise Amendment Act 2012 (2012 No 25).
     
-    Section 223(2B): inserted, on 6 April 2012, by [section 24(1)][840] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 223(2B): inserted, on 6 April 2012, by [section 24(1)][841] of the Customs and Excise Amendment Act 2012 (2012 No 25).
     
-    Section 223(3): amended, on 6 April 2012, by [section 24(2)][840] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 223(3): amended, on 6 April 2012, by [section 24(2)][841] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ## Part 14  
 Forfeiture and seizure
@@ -8696,9 +8704,9 @@ Forfeiture and seizure
     
     *   (k) uncustomed goods that are found in any place:
     
-    *   (l) goods imported into New Zealand that have been acquired in a country outside New Zealand, whether by the importer or some other person, by an act which, if done in New Zealand would have amounted to a crime involving dishonesty within the meaning of [section 2(1)][695] of the Crimes Act 1961:
+    *   (l) goods imported into New Zealand that have been acquired in a country outside New Zealand, whether by the importer or some other person, by an act which, if done in New Zealand would have amounted to a crime involving dishonesty within the meaning of [section 2(1)][696] of the Crimes Act 1961:
     
-    *   (la) goods exported, or in respect of which an attempt to export has been made, that have been acquired in New Zealand, whether by the exporter or some other person, by an act that amounts to a crime involving dishonesty within the meaning of [section 2(1)][695] of the Crimes Act 1961:
+    *   (la) goods exported, or in respect of which an attempt to export has been made, that have been acquired in New Zealand, whether by the exporter or some other person, by an act that amounts to a crime involving dishonesty within the meaning of [section 2(1)][696] of the Crimes Act 1961:
     
     *   (m) all goods unlawfully exported or in respect of which an attempt to so export has been made:
     
@@ -8724,17 +8732,17 @@ Forfeiture and seizure
     
     Section 225(1)(d): substituted (with effect on 9 October 2002), on 2 July 2004, by [section 47(2)][559] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 225(1)(d): amended, on 6 March 2007, by [section 21(1)][841] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 225(1)(d): amended, on 6 March 2007, by [section 21(1)][842] of the Customs and Excise Amendment Act 2007 (2007 No 9).
     
     Section 225(1)(da): inserted (with effect on 9 October 2002), on 2 July 2004, by [section 47(3)][559] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 225(1)(da): amended, on 6 March 2007, by [section 21(2)][841] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 225(1)(da): amended, on 6 March 2007, by [section 21(2)][842] of the Customs and Excise Amendment Act 2007 (2007 No 9).
     
-    Section 225(1)(l): amended, on 9 October 2002, by [section 22(1)][842] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
+    Section 225(1)(l): amended, on 9 October 2002, by [section 22(1)][843] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
     
-    Section 225(1)(la): inserted, on 9 October 2002, by [section 22(2)][842] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
+    Section 225(1)(la): inserted, on 9 October 2002, by [section 22(2)][843] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
     
-    Section 225(6): added, on 2 July 2004, by [section 42][843] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 225(6): added, on 2 July 2004, by [section 42][844] of the Customs and Excise Amendment Act 2004 (2004 No 55).
 
 ##### 226 Procedure for seizure
     
@@ -8818,7 +8826,7 @@ Forfeiture and seizure
 
 #### Applications to review seizure of goods
     
-*   Heading: substituted, on 24 September 2009, by [section 16][844] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+*   Heading: substituted, on 24 September 2009, by [section 16][845] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
 
 ##### 231 Application for review of seizure
     
@@ -8844,7 +8852,7 @@ Forfeiture and seizure
     
     *   (c) be sent to the chief executive.
     
-    Section 231: substituted, on 24 September 2009, by [section 16][844] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 231: substituted, on 24 September 2009, by [section 16][845] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
 
 ##### 232 Conduct of review
     
@@ -8860,7 +8868,7 @@ Forfeiture and seizure
     
     (4) The applicant must establish, on the balance of probabilities, that the applicant has an interest in the seized goods and acquired that interest in good faith.
     
-    Section 232: substituted, on 24 September 2009, by [section 16][844] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 232: substituted, on 24 September 2009, by [section 16][845] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
 
 ##### 233 Decision on review
     
@@ -8894,7 +8902,7 @@ Forfeiture and seizure
     
     (6) The written notice must state that a person who is dissatisfied with the decision of the chief executive has a right to appeal to a Customs Appeal Authority against the decision.
     
-    Section 233: substituted, on 24 September 2009, by [section 16][844] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 233: substituted, on 24 September 2009, by [section 16][845] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
 
 ##### 234 Matters concerning grant of relief
     
@@ -8914,13 +8922,13 @@ Forfeiture and seizure
     
     *   (g) the effect of any other action that has been taken or is proposed to be taken in respect of any offending related to the seizure.
     
-    Section 234: substituted, on 24 September 2009, by [section 16][844] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 234: substituted, on 24 September 2009, by [section 16][845] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
 
 ##### 234A Condemnation if application discontinued
     
 *   \[Repealed\]
     
-    Section 234A: repealed, on 24 September 2009, by [section 16][844] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 234A: repealed, on 24 September 2009, by [section 16][845] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
 
 ##### 235 Determinations where relief granted
     
@@ -8960,7 +8968,7 @@ Forfeiture and seizure
     
     (4) The chief executive must not make a determination described in this section if he or she is of the opinion that all or any of the goods may be required to be produced in evidence in any criminal proceedings.
     
-    Section 235: substituted, on 24 September 2009, by [section 16][844] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 235: substituted, on 24 September 2009, by [section 16][845] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
 
 ##### 235A Condemnation of seized goods
     
@@ -8970,11 +8978,11 @@ Forfeiture and seizure
     
     (3) If no application for review is made within the time specified by [section 231(2)][377], or if such an application is discontinued, the seized goods are condemned to the Crown.
     
-    Section 235A: inserted, on 24 September 2009, by [section 16][844] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 235A: inserted, on 24 September 2009, by [section 16][845] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
 
 #### Appeal from review
     
-*   Heading: inserted, on 24 September 2009, by [section 16][844] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+*   Heading: inserted, on 24 September 2009, by [section 16][845] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
 
 ##### 235B Right of appeal to Customs Appeal Authority from decision on review
     
@@ -8982,7 +8990,7 @@ Forfeiture and seizure
     
     (2) The appeal must be brought within 20 working days after the date on which notice of the decision under [section 233][379] is given.
     
-    Section 235B: inserted, on 24 September 2009, by [section 16][844] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 235B: inserted, on 24 September 2009, by [section 16][845] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
 
 ##### 235C Condemnation of goods subject to appeal
     
@@ -8998,7 +9006,7 @@ Forfeiture and seizure
         
         
     
-    Section 235C: inserted, on 24 September 2009, by [section 16][844] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 235C: inserted, on 24 September 2009, by [section 16][845] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
 
 #### General provisions as to forfeiture
 
@@ -9059,7 +9067,7 @@ Evidence
     
     Compare: 1966 No 19 s 299
     
-    Section 239(1): amended, on 1 July 2013, by [section 413][692] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 239(1): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 240 Documents made overseas
     
@@ -9067,7 +9075,7 @@ Evidence
     
     Compare: 1966 No 19 s 302
     
-    Section 240: amended, on 1 July 2013, by [section 413][692] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 240: amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 241 Proof of rules made under section 288
     
@@ -9106,11 +9114,11 @@ Customs Appeal Authorities
     
     (4) Every Authority shall be appointed by the Governor-General on the joint recommendation of the Minister of Customs and the Minister of Justice.
     
-    (5) No person shall be deemed to be employed in the service of Her Majesty for the purpose of the [State Sector Act 1988][525] or the [Government Superannuation Fund Act 1956][845] by reason only of that person being an Authority.
+    (5) No person shall be deemed to be employed in the service of Her Majesty for the purpose of the [State Sector Act 1988][525] or the [Government Superannuation Fund Act 1956][846] by reason only of that person being an Authority.
     
     (6) Customs Appeal Authorities shall be administered by the Ministry of Justice.
     
-    Section 244(6): amended, on 1 October 2003, pursuant to [section 14(1)][846] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 244(6): amended, on 1 October 2003, pursuant to [section 14(1)][847] of the State Sector Amendment Act 2003 (2003 No 41).
 
 ##### 245 Term of office of Authority
     
@@ -9122,7 +9130,7 @@ Customs Appeal Authorities
     
     (4) Notwithstanding that the term of office of a person appointed as an Authority has expired or that the person has resigned his or her office, he or she shall be deemed to continue to be an Authority for the purpose of deciding any appeal that was wholly heard before the expiration of his or her term of office or before his or her resignation took effect, as the case may be.
     
-    Section 245(2): amended, on 1 January 2002, by [section 70(1)][847] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 245(2): amended, on 1 January 2002, by [section 70(1)][848] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 246 Oath to be taken by Authority
     
@@ -9130,7 +9138,7 @@ Customs Appeal Authorities
 
 ##### 247 Remuneration and travelling expenses
     
-*   There shall be paid out of money appropriated by Parliament for the purpose to any person appointed as an Authority remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][848], and the provisions of that Act shall apply accordingly as if that person were a statutory Board within the meaning of that Act.
+*   There shall be paid out of money appropriated by Parliament for the purpose to any person appointed as an Authority remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][849], and the provisions of that Act shall apply accordingly as if that person were a statutory Board within the meaning of that Act.
 
 ##### 248 Sickness or incapacity
     
@@ -9258,7 +9266,7 @@ Customs Appeal Authorities
 
 ##### 265 Witnesses' allowances
     
-*   (1) Every witness attending the hearing to give evidence pursuant to a summons shall be entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the [Criminal Procedure Act 2011][849], and those regulations shall apply accordingly.
+*   (1) Every witness attending the hearing to give evidence pursuant to a summons shall be entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the [Criminal Procedure Act 2011][850], and those regulations shall apply accordingly.
     
     (2) On each occasion on which the Authority issues a summons under [section 262][418], the Authority shall fix an amount which, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, shall be paid or tendered to the witness.
     
@@ -9266,7 +9274,7 @@ Customs Appeal Authorities
     
     (4) The whole or part of any amount fixed under subsection (2) may, with the consent of the witness, be paid or tendered in the form of vouchers or tickets.
     
-    Section 265(1): amended, on 1 July 2013, by [section 413][692] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 265(1): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 266 Payment of witnesses' allowances
     
@@ -9383,7 +9391,7 @@ Miscellaneous provisions
     
     Compare: 1987 No 74 s 125AB(5); Australian Citizenship Act 2007 (Aust) s 48; Migration Act 1958 (Aust) s 495A
     
-    Section 274A: inserted, on 8 December 2009, by [section 22][850] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 274A: inserted, on 8 December 2009, by [section 22][851] of the Customs and Excise Amendment Act 2009 (2009 No 61).
 
 ##### 274B Publication of details of arrangements for use of automated electronic systems
     
@@ -9397,7 +9405,7 @@ Miscellaneous provisions
     
     (3) No arrangement, variation, revocation, or revocation and replacement is made invalid by reason only of a failure to publish details of it promptly in accordance with subsection (1).
     
-    Section 274B: inserted, on 8 December 2009, by [section 22][850] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 274B: inserted, on 8 December 2009, by [section 22][851] of the Customs and Excise Amendment Act 2009 (2009 No 61).
 
 ##### 274C Variation and substitution of decisions made by automated electronic systems
     
@@ -9417,27 +9425,27 @@ Miscellaneous provisions
     
     Compare: Migration Act 1958 (Aust) s 495B
     
-    Section 274C: inserted, on 8 December 2009, by [section 22][850] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 274C: inserted, on 8 December 2009, by [section 22][851] of the Customs and Excise Amendment Act 2009 (2009 No 61).
 
 ##### 274D Appeals and reviews unaffected
     
-*   [Sections 274A to 274C][851] do not limit or affect any rights to appeal against, or to apply, in accordance with law, for administrative or judicial review of, any arrangement, decision (initial or substituted), power, obligation, or other action under or specified in those sections.
+*   [Sections 274A to 274C][852] do not limit or affect any rights to appeal against, or to apply, in accordance with law, for administrative or judicial review of, any arrangement, decision (initial or substituted), power, obligation, or other action under or specified in those sections.
     
-    Compare: 2002 No 34 [s 33][852]; 2004 No 115 [s 21(d)][853]; 2005 No 39 [s 61(6)][854]
+    Compare: 2002 No 34 [s 33][853]; 2004 No 115 [s 21(d)][854]; 2005 No 39 [s 61(6)][855]
     
-    Section 274D: inserted, on 8 December 2009, by [section 22][850] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 274D: inserted, on 8 December 2009, by [section 22][851] of the Customs and Excise Amendment Act 2009 (2009 No 61).
 
 ##### 274E No limitation of claims by Crown to recover duties or interest on duties, or on forfeiture proceedings, under this Act
     
 *   No relief in respect of a claim by the Crown to recover any tax or duty, or interest on any tax or duty, or in respect of any forfeiture proceedings, under this Act, is barred or otherwise affected by the following:
         
-    *   (a) the [Limitation Act 2010][855]:
+    *   (a) the [Limitation Act 2010][856]:
     
     *   (b) any other enactment that prescribes a limitation period or other limitation defence.
     
-    Compare: 1950 No 65 proviso to [s 32][856]
+    Compare: 1950 No 65 proviso to [s 32][857]
     
-    Section 274E: inserted, on 1 January 2011, by [section 58][857] of the Limitation Act 2010 (2010 No 110).
+    Section 274E: inserted, on 1 January 2011, by [section 58][858] of the Limitation Act 2010 (2010 No 110).
 
 ##### 275 Payments by chief executive out of public money
     
@@ -9451,7 +9459,7 @@ Miscellaneous provisions
     
     *   (d) all lawful payments of interest pursuant to [section 93(1)][186].
     
-    Compare: 1966 No 19 s 226; 1989 No 44 [s 86(1)][858]
+    Compare: 1966 No 19 s 226; 1989 No 44 [s 86(1)][859]
 
 ##### 276 Application of Act to postal articles
     
@@ -9461,7 +9469,7 @@ Miscellaneous provisions
         
     *   (a) the term _postal article_ means any letter, parcel, packet, or other article whatever received or transmitted by or through a postal operator; and includes any such articles imported by air courier companies:
     
-    *   (b) the term _postal operator_ means a postal operator within the meaning of the [Postal Services Act 1998][859].
+    *   (b) the term _postal operator_ means a postal operator within the meaning of the [Postal Services Act 1998][860].
     
     (3) Without limiting the power to make regulations conferred by [section 286][475], the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
         
@@ -9473,15 +9481,15 @@ Miscellaneous provisions
     
     Compare: 1966 No 19 s 305(1), (2)(e), (f), (3)
     
-    Section 276(2): substituted, on 1 April 1998, by [section 62(1)][860] of the Postal Services Act 1998 (1998 No 2).
+    Section 276(2): substituted, on 1 April 1998, by [section 62(1)][861] of the Postal Services Act 1998 (1998 No 2).
     
-    Section 276(4): inserted, on 6 April 2012, by [section 25][861] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 276(4): inserted, on 6 April 2012, by [section 25][862] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 277 Declarations under this Act
     
 *   (1) Every declaration, including a declaration that is made and transmitted electronically, that is required or authorised by this Act must be made in the prescribed form.
     
-    (2) Where any form requires that a declaration must be made before any person, the declaration may be made before a Customs officer, or before a person authorised under the [Oaths and Declarations Act 1957][862] to take declarations, or before such other person as may be prescribed.
+    (2) Where any form requires that a declaration must be made before any person, the declaration may be made before a Customs officer, or before a person authorised under the [Oaths and Declarations Act 1957][863] to take declarations, or before such other person as may be prescribed.
     
     Compare: 1966 No 19 s 303
 
@@ -9505,15 +9513,15 @@ Miscellaneous provisions
 
 ##### 280 Supply of arrival and departure information for benefit and benefit debt recovery purposes
     
-*   (1) In this section, unless the context otherwise requires, the term _benefit_ has the same meaning as in [section 3(1)][863] of the Social Security Act 1964; and includes---
+*   (1) In this section, unless the context otherwise requires, the term _benefit_ has the same meaning as in [section 3(1)][864] of the Social Security Act 1964; and includes---
         
-    *   (a) a lump sum payable under [section 61DA][864] or [section 61DC][865] or [section 61DD][866] of that Act:
+    *   (a) a lump sum payable under [section 61DA][865] or [section 61DC][866] or [section 61DD][867] of that Act:
     
-    *   (b) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under [section 124(1)(d) or (da)][867] of that Act:
+    *   (b) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under [section 124(1)(d) or (da)][868] of that Act:
     
-    *   (c) an allowance established by regulations made under [section 303][868] of the Education Act 1989\.
+    *   (c) an allowance established by regulations made under [section 303][869] of the Education Act 1989\.
     
-    (2) The purpose of this section is to facilitate the exchange of information between the Customs and the department for the time being responsible for the administration of the [Social Security Act 1964][869] for all or any of the following purposes:
+    (2) The purpose of this section is to facilitate the exchange of information between the Customs and the department for the time being responsible for the administration of the [Social Security Act 1964][870] for all or any of the following purposes:
         
     *   (a) to verify the entitlement or eligibility of any person to or for any benefit:
     
@@ -9521,13 +9529,13 @@ Miscellaneous provisions
     
     *   (c) to enable the recovery of any debt due to the Crown in respect of any benefit.
     
-    (3) For the purposes of this section, the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][869] may from time to time, in accordance with arrangements made from time to time between that chief executive and the chief executive of the Customs, request the supply, in respect of persons who depart from New Zealand or persons who arrive in New Zealand from another country, or both, of the information specified in subsection (5).
+    (3) For the purposes of this section, the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][870] may from time to time, in accordance with arrangements made from time to time between that chief executive and the chief executive of the Customs, request the supply, in respect of persons who depart from New Zealand or persons who arrive in New Zealand from another country, or both, of the information specified in subsection (5).
     
     (4) Nothing in subsection (3) applies in respect of persons who are exempted by regulations or a special direction made under the [Immigration Act 2009][579] from, as the case may require, the requirement to---
         
-    *   (a) apply for a visa or entry permission in the prescribed manner under [section 103(1)(b), (c), and (d)][870] of that Act; or
+    *   (a) apply for a visa or entry permission in the prescribed manner under [section 103(1)(b), (c), and (d)][871] of that Act; or
     
-    *   (b) complete documentation on departure from New Zealand under [section 119(1)(c)][871] of that Act.
+    *   (b) complete documentation on departure from New Zealand under [section 119(1)(c)][872] of that Act.
     
     (5) The information referred to in subsection (3) is as follows:
         
@@ -9551,15 +9559,15 @@ Miscellaneous provisions
     
     (7) Information supplied under a request made under subsection (3) may be supplied in such a form as is determined by agreement between those chief executives.
     
-    Section 280: substituted, on 1 October 1998, by [section 11][872] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
+    Section 280: substituted, on 1 October 1998, by [section 11][873] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
     
-    Section 280 heading: amended, on 9 April 2008, by [section 5(1)][873] of the Customs and Excise (Social Assistance) Amendment Act 2008 (2008 No 25).
+    Section 280 heading: amended, on 9 April 2008, by [section 5(1)][874] of the Customs and Excise (Social Assistance) Amendment Act 2008 (2008 No 25).
     
-    Section 280(1)(b): amended, on 25 January 2005, pursuant to [section 65R(3)][874] of the Public Finance Act 1989 (1989 No 44).
+    Section 280(1)(b): amended, on 25 January 2005, pursuant to [section 65R(3)][875] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 280(1)(c): added, on 6 March 2007, by [section 22][875] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 280(1)(c): added, on 6 March 2007, by [section 22][876] of the Customs and Excise Amendment Act 2007 (2007 No 9).
     
-    Section 280(2): substituted, on 9 April 2008, by [section 5(2)][873] of the Customs and Excise (Social Assistance) Amendment Act 2008 (2008 No 25).
+    Section 280(2): substituted, on 9 April 2008, by [section 5(2)][874] of the Customs and Excise (Social Assistance) Amendment Act 2008 (2008 No 25).
     
     Section 280(4): substituted, at 2 am on 29 November 2010, by [section 406(1)][581] of the Immigration Act 2009 (2009 No 51).
 
@@ -9569,19 +9577,19 @@ Miscellaneous provisions
     
     _authorised officer_ means any officer, employee, or agent of the department who, with the approval of the chief executive of the Customs, is authorised by the chief executive of the department to supply information or receive information from the chief executive of the Customs under [section 280B][444]
     
-    _department_ means the department for the time being responsible for the administration of the [Social Security Act 1964][869]
+    _department_ means the department for the time being responsible for the administration of the [Social Security Act 1964][870]
     
     _identifying information_ means personal information that identifies an individual, which may include the individual's passport number
     
-    _social security agreement_ means an agreement or convention, or alteration to an agreement or convention, in respect of which an Order in Council has been made under [section 19][876] of the Social Welfare (Transitional Provisions) Act 1990\.
+    _social security agreement_ means an agreement or convention, or alteration to an agreement or convention, in respect of which an Order in Council has been made under [section 19][877] of the Social Welfare (Transitional Provisions) Act 1990\.
     
-    Compare: 1994 No 166 [ss 85B][877], [85C][878]
+    Compare: 1994 No 166 [ss 85B][878], [85C][879]
     
-    Section 280A: inserted, on 27 April 2002, by [section 8][879] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
+    Section 280A: inserted, on 27 April 2002, by [section 8][880] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
 
 ##### 280B Disclosure of arrival and departure information for purposes of mutual assistance provision contained in social security agreement
     
-*   (1) The purpose of this section is to facilitate the exchange of information between the Customs and the department for the purpose of giving assistance to the Government of a country with which New Zealand has a social security agreement that contains a mutual assistance provision of the kind referred to in [section 19A(2)(b)][880] of the Social Welfare (Transitional Provisions) Act 1990, to enable compliance with that agreement.
+*   (1) The purpose of this section is to facilitate the exchange of information between the Customs and the department for the purpose of giving assistance to the Government of a country with which New Zealand has a social security agreement that contains a mutual assistance provision of the kind referred to in [section 19A(2)(b)][881] of the Social Welfare (Transitional Provisions) Act 1990, to enable compliance with that agreement.
     
     (2) For the purpose of this section, the chief executive of the department may supply to the chief executive of Customs---
         
@@ -9591,7 +9599,7 @@ Miscellaneous provisions
     
     (3) If, in relation to any person, identifying information is supplied in accordance with subsection (2), the chief executive of the Customs may compare that information with any arrival and departure information held by the Customs that relates to that person.
     
-    (4) If the Customs has arrival or departure information relating to a person, the chief executive of the Customs may, for the purpose of this section, supply to an authorised officer any of the following information held by the Customs if that information is of a type specified in an agreement made under [section 19C(1)(d)][881] of the Social Welfare (Transitional Provisions) Act 1990:
+    (4) If the Customs has arrival or departure information relating to a person, the chief executive of the Customs may, for the purpose of this section, supply to an authorised officer any of the following information held by the Customs if that information is of a type specified in an agreement made under [section 19C(1)(d)][882] of the Social Welfare (Transitional Provisions) Act 1990:
         
     *   (a) the person's full name:
     
@@ -9617,13 +9625,13 @@ Miscellaneous provisions
     
     *   (b) may not supply that information to any other country without the prior written consent of the chief executive of the department, and that supply or consent may be subject to any conditions that the chief executive of the department considers appropriate to impose.
     
-    Section 280B: inserted, on 27 April 2002, by [section 8][879] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
+    Section 280B: inserted, on 27 April 2002, by [section 8][880] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
 
 ##### 280C Interpretation
     
 *   In [sections 280D][446] and [280E][447], unless the context otherwise requires,---
     
-    _amount of reparation_ has the same meaning as in [section 79][882] of the Summary Proceedings Act 1957
+    _amount of reparation_ has the same meaning as in [section 79][883] of the Summary Proceedings Act 1957
     
     _authorised officer_---
         
@@ -9635,15 +9643,15 @@ Miscellaneous provisions
     
     _fine_ means---
         
-    *   (a) a fine within the meaning of [section 79][882] of the Summary Proceedings Act 1957:
+    *   (a) a fine within the meaning of [section 79][883] of the Summary Proceedings Act 1957:
     
-    *   (b) a fine to which [section 19][883] of the Crimes Act 1961 applies:
+    *   (b) a fine to which [section 19][884] of the Crimes Act 1961 applies:
     
-    *   (c) a fine to which [section 43][884] or [45][885] of the Misuse of Drugs Amendment Act 1978 applies:
+    *   (c) a fine to which [section 43][885] or [45][886] of the Misuse of Drugs Amendment Act 1978 applies:
     
     *   (d) \[Repealed\]
     
-    *   (e) any amount payable under [section 138A(1)][886] of the Sentencing Act 2002
+    *   (e) any amount payable under [section 138A(1)][887] of the Sentencing Act 2002
     
     _fines enforcement action_ includes the execution of a warrant to arrest a person in respect of the non-payment of the whole, or of any part, of any fine
     
@@ -9663,17 +9671,17 @@ Miscellaneous provisions
     
     *   (c) the warrant has not been withdrawn or executed.
     
-    Section 280C: inserted, on 10 April 2006, by [section 4][887] of the Customs and Excise Amendment Act 2006 (2006 No 7).
+    Section 280C: inserted, on 10 April 2006, by [section 4][888] of the Customs and Excise Amendment Act 2006 (2006 No 7).
     
-    Section 280C **amount of reparation**: inserted, on 13 February 2012, by [section 4(3)][888] of the Customs and Excise Amendment Act 2011 (2011 No 36).
+    Section 280C **amount of reparation**: inserted, on 13 February 2012, by [section 4(3)][889] of the Customs and Excise Amendment Act 2011 (2011 No 36).
     
     Section 280C **authorised officer** paragraph (b): amended, on 8 December 2009, by [section 24][562] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 280C **fine**: replaced, on 13 February 2012, by [section 4(1)][888] of the Customs and Excise Amendment Act 2011 (2011 No 36).
+    Section 280C **fine**: replaced, on 13 February 2012, by [section 4(1)][889] of the Customs and Excise Amendment Act 2011 (2011 No 36).
     
-    Section 280C **fine** paragraph (d): repealed, on 1 July 2013, by [section 413][692] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 280C **fine** paragraph (d): repealed, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 280C **reparation**: repealed, on 13 February 2012, by [section 4(2)][888] of the Customs and Excise Amendment Act 2011 (2011 No 36).
+    Section 280C **reparation**: repealed, on 13 February 2012, by [section 4(2)][889] of the Customs and Excise Amendment Act 2011 (2011 No 36).
 
 ##### 280D Disclosure of arrival and departure information for fines enforcement purposes
     
@@ -9713,7 +9721,7 @@ Miscellaneous provisions
     
     *   (c) the method by which information may be supplied.
     
-    Section 280D: inserted, on 10 April 2006, by [section 4][887] of the Customs and Excise Amendment Act 2006 (2006 No 7).
+    Section 280D: inserted, on 10 April 2006, by [section 4][888] of the Customs and Excise Amendment Act 2006 (2006 No 7).
 
 ##### 280E No Crown liability to third parties for fines enforcement action
     
@@ -9727,7 +9735,7 @@ Miscellaneous provisions
     
     (3) Nothing in subsection (2) applies to or affects any question of the liability of the Crown to the alleged defaulter.
     
-    Section 280E: inserted, on 10 April 2006, by [section 4][887] of the Customs and Excise Amendment Act 2006 (2006 No 7).
+    Section 280E: inserted, on 10 April 2006, by [section 4][888] of the Customs and Excise Amendment Act 2006 (2006 No 7).
 
 ##### 280F Customs may supply information concerning specified fines defaulters to chief executive of Department of Labour
     
@@ -9753,9 +9761,9 @@ Miscellaneous provisions
     
     _fine_ means a fine within the meaning of that term in [section 280C][445], other than---
         
-    *   (a) a fine imposed by, or resulting from the enforcement of, an order made or deemed to have been made under [section 21(5), (5A), or (9)][889] of the Summary Proceedings Act 1957; or
+    *   (a) a fine imposed by, or resulting from the enforcement of, an order made or deemed to have been made under [section 21(5), (5A), or (9)][890] of the Summary Proceedings Act 1957; or
     
-    *   (b) any amount payable under [section 138A(1)][886] of the Sentencing Act 2002
+    *   (b) any amount payable under [section 138A(1)][887] of the Sentencing Act 2002
     
     _specified fines defaulter_ means a person---
         
@@ -9769,43 +9777,43 @@ Miscellaneous provisions
     
     *   (b) for whom a warrant to arrest has been issued (and not withdrawn or executed) in respect of the non-payment of the whole or any part of any amount referred to in paragraph (a).
     
-    Section 280F: inserted, on 10 April 2006, by [section 4][887] of the Customs and Excise Amendment Act 2006 (2006 No 7).
+    Section 280F: inserted, on 10 April 2006, by [section 4][888] of the Customs and Excise Amendment Act 2006 (2006 No 7).
     
-    Section 280F(3) **fine**: replaced, on 13 February 2012, by [section 5][890] of the Customs and Excise Amendment Act 2011 (2011 No 36).
+    Section 280F(3) **fine**: replaced, on 13 February 2012, by [section 5][891] of the Customs and Excise Amendment Act 2011 (2011 No 36).
 
 ##### 280G Defined terms for sections 280H and 280I
     
 *   In [sections 280H][450] and [280I][451], unless the context otherwise requires,---
     
-    _borrower_ has the meaning given to it by [section 4(1)][891] of the Student Loan Scheme Act 2011
+    _borrower_ has the meaning given to it by [section 4(1)][892] of the Student Loan Scheme Act 2011
     
-    _Commissioner_ means the Commissioner of Inland Revenue as defined in [section 3(1)][892] of the Tax Administration Act 1994
+    _Commissioner_ means the Commissioner of Inland Revenue as defined in [section 3(1)][893] of the Tax Administration Act 1994
     
     _Department_ means the Inland Revenue Department
     
-    _identifying information_ means the information set out in [section 208(2)][893] of the Student Loan Scheme Act 2011 that identifies a borrower
+    _identifying information_ means the information set out in [section 208(2)][894] of the Student Loan Scheme Act 2011 that identifies a borrower
     
-    _officer of the Department_ has the meaning given to it by [section 3(1)][892] of the Tax Administration Act 1994
+    _officer of the Department_ has the meaning given to it by [section 3(1)][893] of the Tax Administration Act 1994
     
-    _serious default_ means the state of having an unpaid amount due and owing under the [Student Loan Scheme Act 2011][894] and satisfying criteria established in a manner to be determined by the Commissioner
+    _serious default_ means the state of having an unpaid amount due and owing under the [Student Loan Scheme Act 2011][895] and satisfying criteria established in a manner to be determined by the Commissioner
     
-    _unpaid amount_ has the meaning given to it by [section 5][895] of the Student Loan Scheme Act 2011\.
+    _unpaid amount_ has the meaning given to it by [section 5][896] of the Student Loan Scheme Act 2011\.
     
-    Section 280G: inserted, on 28 March 2007, by [section 41][896] of the Student Loan Scheme Amendment Act 2007 (2007 No 13).
+    Section 280G: inserted, on 28 March 2007, by [section 41][897] of the Student Loan Scheme Amendment Act 2007 (2007 No 13).
     
-    Section 280G **borrower**: amended, on 1 April 2012, by [section 223][897] of the Student Loan Scheme Act 2011 (2011 No 62).
+    Section 280G **borrower**: amended, on 1 April 2012, by [section 223][898] of the Student Loan Scheme Act 2011 (2011 No 62).
     
-    Section 280G **identifying information**: amended, on 1 April 2012, by [section 223][897] of the Student Loan Scheme Act 2011 (2011 No 62).
+    Section 280G **identifying information**: amended, on 1 April 2012, by [section 223][898] of the Student Loan Scheme Act 2011 (2011 No 62).
     
-    Section 280G **serious default**: inserted, on 30 March 2013, by [section 47][898] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 280G **serious default**: inserted, on 30 March 2013, by [section 47][899] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 280G **unpaid amount**: inserted, on 30 March 2013, by [section 47][898] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 280G **unpaid amount**: inserted, on 30 March 2013, by [section 47][899] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 280H Disclosure of arrival and departure information for purposes of Student Loan Scheme Act 2011
     
 *   (1) The purpose of this section is to facilitate the exchange of information between the Customs and the Department for the purposes of assisting the Commissioner to---
         
-    *   (a) verify whether borrowers are New Zealand-based or overseas-based for the purposes of the [Student Loan Scheme Act 2011][894]:
+    *   (a) verify whether borrowers are New Zealand-based or overseas-based for the purposes of the [Student Loan Scheme Act 2011][895]:
     
     *   (b) verify whether borrowers are New Zealand residents for the purposes of that Act:
     
@@ -9835,19 +9843,19 @@ Miscellaneous provisions
     
     *   (c) the method by which information may be supplied.
     
-    Section 280H: inserted, on 28 March 2007, by [section 41][896] of the Student Loan Scheme Amendment Act 2007 (2007 No 13).
+    Section 280H: inserted, on 28 March 2007, by [section 41][897] of the Student Loan Scheme Amendment Act 2007 (2007 No 13).
     
-    Section 280H heading: amended, on 1 April 2012, by [section 223][897] of the Student Loan Scheme Act 2011 (2011 No 62).
+    Section 280H heading: amended, on 1 April 2012, by [section 223][898] of the Student Loan Scheme Act 2011 (2011 No 62).
     
-    Section 280H(1): replaced, on 30 March 2013, by [section 48(1)][899] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 280H(1): replaced, on 30 March 2013, by [section 48(1)][900] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 280H(4)(e): inserted, on 30 March 2013, by [section 48(2)][899] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 280H(4)(e): inserted, on 30 March 2013, by [section 48(2)][900] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 280I Direct access to arrival and departure information for purposes of Student Loan Scheme Act 2011
     
 *   (1) The purpose of this section is to facilitate the Department's access to information stored in a database for the purpose of assisting the Commissioner to---
         
-    *   (a) verify whether borrowers are New Zealand-based or overseas-based for the purposes of the [Student Loan Scheme Act 2011][894]:
+    *   (a) verify whether borrowers are New Zealand-based or overseas-based for the purposes of the [Student Loan Scheme Act 2011][895]:
     
     *   (b) verify whether borrowers are New Zealand residents for the purposes of that Act:
     
@@ -9897,33 +9905,33 @@ Miscellaneous provisions
     
     _database_ means any information recording system used by the Customs to store arrival or departure information.
     
-    Section 280I: inserted, on 28 March 2007, by [section 41][896] of the Student Loan Scheme Amendment Act 2007 (2007 No 13).
+    Section 280I: inserted, on 28 March 2007, by [section 41][897] of the Student Loan Scheme Amendment Act 2007 (2007 No 13).
     
-    Section 280I heading: amended, on 1 April 2012, by [section 223][897] of the Student Loan Scheme Act 2011 (2011 No 62).
+    Section 280I heading: amended, on 1 April 2012, by [section 223][898] of the Student Loan Scheme Act 2011 (2011 No 62).
     
-    Section 280I(1): replaced, on 30 March 2013, by [section 49][900] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 280I(1): replaced, on 30 March 2013, by [section 49][901] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 280J Defined terms for sections 280K and 280L
     
 *   In [sections 280K][453] and [280L][454], unless the context otherwise requires,---
     
-    _Commissioner_ means the Commissioner of Inland Revenue as defined in [section 3(1)][892] of the Tax Administration Act 1994
+    _Commissioner_ means the Commissioner of Inland Revenue as defined in [section 3(1)][893] of the Tax Administration Act 1994
     
     _Department_ means the Inland Revenue Department
     
     _financial support debt_ means an amount owing to the Commissioner of---
         
-    *   (a) financial support as defined in [section 2][901] of the Child Support Act 1991:
+    *   (a) financial support as defined in [section 2][902] of the Child Support Act 1991:
     
-    *   (b) a penalty or interest under the [Child Support Act 1991][902]
+    *   (b) a penalty or interest under the [Child Support Act 1991][903]
     
     _identifying information_ means personal information that identifies an individual
     
-    _officer of the Department_ has the meaning given to it by [section 3(1)][892] of the Tax Administration Act 1994
+    _officer of the Department_ has the meaning given to it by [section 3(1)][893] of the Tax Administration Act 1994
     
     _serious default_ means the state of having an amount of financial support debt due and owing to the Commissioner of Inland Revenue and satisfying criteria agreed by the Commissioner and the Privacy Commissioner in consultation with the chief executive.
     
-    Section 280J: inserted, on 8 August 2008, by [section 293][903] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 280J: inserted, on 8 August 2008, by [section 293][904] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
 
 ##### 280K Disclosure of arrival and departure information for purposes of Child Support Act 1991
     
@@ -9957,7 +9965,7 @@ Miscellaneous provisions
     
     *   (c) the method by which information may be supplied.
     
-    Section 280K: inserted, on 8 August 2008, by [section 293][903] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 280K: inserted, on 8 August 2008, by [section 293][904] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
 
 ##### 280L Direct access to arrival and departure information for purposes of Child Support Act 1991
     
@@ -10009,7 +10017,7 @@ Miscellaneous provisions
     
     _database_ means any information recording system used by the Customs to store arrival or departure information.
     
-    Section 280L: inserted, on 8 August 2008, by [section 293][903] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 280L: inserted, on 8 August 2008, by [section 293][904] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
 
 ##### 281 Disclosure of information overseas
     
@@ -10121,7 +10129,7 @@ Miscellaneous provisions
     
     *   (b) in any other case, to a suspected violation of the law of the State concerned.
     
-    Section 281: substituted, on 2 July 2004, by [section 43][904] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 281: substituted, on 2 July 2004, by [section 43][905] of the Customs and Excise Amendment Act 2004 (2004 No 55).
 
 ##### 282 Information that may be disclosed
     
@@ -10153,13 +10161,13 @@ Miscellaneous provisions
     
     (2) [Section 281][455] does not prevent or limit any disclosure of information otherwise than under that section that may be required or authorised by or under law, or any treaty, agreement, or arrangement concluded by the Government of New Zealand.
     
-    Section 282: substituted, on 2 July 2004, by [section 43][904] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 282: substituted, on 2 July 2004, by [section 43][905] of the Customs and Excise Amendment Act 2004 (2004 No 55).
 
 ##### 282A Customs may for certain purposes collect, use, or disclose certain information
     
 *   (1) This section applies to information viewed by the Customs under any of [sections 38G to 38K][74], and to information to which the Customs is given access under [section 95A][189].
     
-    (2) The Customs may collect, use, or disclose the information for any of the following purposes (and, in the case of personal information, despite anything in information privacy principles 2, 3, 10, or 11 of the [Privacy Act 1993][905]):
+    (2) The Customs may collect, use, or disclose the information for any of the following purposes (and, in the case of personal information, despite anything in information privacy principles 2, 3, 10, or 11 of the [Privacy Act 1993][906]):
         
     *   (a) exercising or performing a power, function, or duty under this Act:
     
@@ -10181,7 +10189,7 @@ Miscellaneous provisions
         
     *   (a) is authorised by this section to obtain and collect that information for that purpose; but
     
-    *   (b) may keep, use, or disclose that information only in accordance with the [Privacy Act 1993][905].
+    *   (b) may keep, use, or disclose that information only in accordance with the [Privacy Act 1993][906].
     
     (4) [Section 281][455] applies, with all necessary modifications, to the disclosure of the information to an overseas agency, body, or person whose functions include---
         
@@ -10201,7 +10209,7 @@ Miscellaneous provisions
     
     (5) Nothing in this section limits [section 38L(3)(a)][80] or [section 38O][84].
     
-    Section 282A: inserted, on 2 July 2004, by [section 43][904] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 282A: inserted, on 2 July 2004, by [section 43][905] of the Customs and Excise Amendment Act 2004 (2004 No 55).
 
 ##### 282B Access by accessing agency to border information
     
@@ -10235,7 +10243,7 @@ Miscellaneous provisions
     
     _holder agency_ means any agency or any class of agencies for the time being specified in regulations made under this Act as an agency or a class of agencies whose border information is available to an accessing agency.
     
-    Section 282B: inserted, on 6 April 2012, by [section 26][906] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 282B: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 282C Chief executive must review operation of section 282B
     
@@ -10251,11 +10259,11 @@ Miscellaneous provisions
     
     (2) The Minister must present a copy of a report provided under this section to the House of Representatives as soon as practicable after receiving it.
     
-    Section 282C: inserted, on 6 April 2012, by [section 26][906] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 282C: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 #### Definitions for information-sharing provisions
     
-*   Heading: inserted, on 6 April 2012, by [section 26][906] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+*   Heading: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 282D Definitions
     
@@ -10265,29 +10273,29 @@ Miscellaneous provisions
     
     _biosecurity-related border management function_ means---
         
-    *   (a) any function, duty, or power imposed or conferred on the Ministry by or under [Part 3][907] of the Biosecurity Act 1993:
+    *   (a) any function, duty, or power imposed or conferred on the Ministry by or under [Part 3][908] of the Biosecurity Act 1993:
     
     *   (b) any other function, duty, or power imposed or conferred on the Ministry by or under the [Biosecurity Act 1993][580] that is necessary---
             
-        *   (i) to achieve the purpose of [Part 3][907] of that Act; or 
+        *   (i) to achieve the purpose of [Part 3][908] of that Act; or 
         
-        *   (ii) for the administration of [Part 3][907] of that Act:
+        *   (ii) for the administration of [Part 3][908] of that Act:
         
         
     
     *   (c) any function, duty, or power imposed or conferred on the Ministry by or under any of the following Acts in relation to the effective management of risks associated with the movement of goods, persons, or craft into or out of New Zealand:
             
-        *   (i) the [Food Act 1981][908]:
+        *   (i) the [Food Act 1981][909]:
         
-        *   (ii) the [Hazardous Substances and New Organisms Act 1996][909]:
+        *   (ii) the [Hazardous Substances and New Organisms Act 1996][910]:
         
-        *   (iii) the [Agricultural Compounds and Veterinary Medicines Act 1997][910]:
+        *   (iii) the [Agricultural Compounds and Veterinary Medicines Act 1997][911]:
         
-        *   (iv) the [Animal Products Act 1999][911]:
+        *   (iv) the [Animal Products Act 1999][912]:
         
-        *   (v) the [Wine Act 2003][912]:
+        *   (v) the [Wine Act 2003][913]:
         
-        *   (vi) any other Act specified by Order in Council made under section 165A of the [Biosecurity Act 1993][913]
+        *   (vi) any other Act specified by Order in Council made under section 165A of the [Biosecurity Act 1993][914]
         
         
     
@@ -10295,7 +10303,7 @@ Miscellaneous provisions
         
     *   (a) means information---
             
-        *   (i) that is required to be supplied to the Ministry or the Customs by or under this Act or [Part 3][907] of the Biosecurity Act 1993, or both, for a border protection purpose; or
+        *   (i) that is required to be supplied to the Ministry or the Customs by or under this Act or [Part 3][908] of the Biosecurity Act 1993, or both, for a border protection purpose; or
         
         *   (ii) that is otherwise lawfully supplied or collected for a border protection purpose; and
         
@@ -10359,15 +10367,15 @@ Miscellaneous provisions
             
         *   (i) the Director-General; and
         
-        *   (ii) any inspector appointed under [section 103][914] of the Biosecurity Act 1993\.
+        *   (ii) any inspector appointed under [section 103][915] of the Biosecurity Act 1993\.
         
         
     
-    Section 282D: inserted, on 6 April 2012, by [section 26][906] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 282D: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 #### Interim arrangements for information sharing
     
-*   Heading: inserted, on 6 April 2012, by [section 26][906] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+*   Heading: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 282E Purpose of sections 282F to 282H
     
@@ -10377,7 +10385,7 @@ Miscellaneous provisions
     
     *   (b) the Ministry to access that border information for a biosecurity-related border management function.
     
-    Section 282E: inserted, on 6 April 2012, by [section 26][906] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 282E: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 282F Interim collection of border information
     
@@ -10387,9 +10395,9 @@ Miscellaneous provisions
     
     *   (b) store any border information.
     
-    (2) If the border information is personal information, subsection (1) applies despite anything in information privacy [principle 2][915] or [3][915] of the Privacy Act 1993\.
+    (2) If the border information is personal information, subsection (1) applies despite anything in information privacy [principle 2][916] or [3][916] of the Privacy Act 1993\.
     
-    Section 282F: inserted, on 6 April 2012, by [section 26][906] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 282F: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 282G Requirement by or under this Act to supply border information is complied with if information is supplied to Ministry or other agency
     
@@ -10397,17 +10405,17 @@ Miscellaneous provisions
         
     *   (a) the Ministry, for the purposes of, and in accordance with, section 41C(1) of the Biosecurity Act 1993:
     
-    *   (b) an agency appointed under [section 41C(3)][916] of the Biosecurity Act 1993, for the purposes of, and in accordance with, section 41C(1) of that Act.
+    *   (b) an agency appointed under [section 41C(3)][917] of the Biosecurity Act 1993, for the purposes of, and in accordance with, section 41C(1) of that Act.
     
-    (2) However, subsection (1) does not apply if the chief executive has given the person a written notice requiring the border information to be supplied to the Customs instead of to the Ministry or an agency appointed under [section 41C(3)][916] of the Biosecurity Act 1993\.
+    (2) However, subsection (1) does not apply if the chief executive has given the person a written notice requiring the border information to be supplied to the Customs instead of to the Ministry or an agency appointed under [section 41C(3)][917] of the Biosecurity Act 1993\.
     
-    Section 282G: inserted, on 6 April 2012, by [section 26][906] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 282G: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 282H Interim access to border information
     
 *   (1) The chief executive may, in accordance with a written agreement entered into by the chief executive and the Director-General, allow the Ministry to access any border information that was or is collected or stored by the Customs before, on, or after the commencement of this section.
     
-    (2) If the border information is personal information, subsection (1) applies despite anything in information privacy [principle 10][915] or [11][915] of the Privacy Act 1993\.
+    (2) If the border information is personal information, subsection (1) applies despite anything in information privacy [principle 10][916] or [11][916] of the Privacy Act 1993\.
     
     (3) An agreement must state---
         
@@ -10433,7 +10441,7 @@ Miscellaneous provisions
     
     *   (c) importers or exporters.
     
-    Section 282H: inserted, on 6 April 2012, by [section 26][906] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 282H: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 282I Expiry of sections 282E to 282H and agreements made under section 282H
     
@@ -10445,11 +10453,11 @@ Miscellaneous provisions
     
     (2) The Minister may recommend the making of an Order in Council under subsection (1) only if he or she is satisfied, after consulting the Minister for Biosecurity, that a later date is necessary because of a delay in the implementation of the JBMS.
     
-    Section 282I: inserted, on 6 April 2012, by [section 26][906] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 282I: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 #### Information sharing for joint border management
     
-*   Heading: inserted, on 6 April 2012, by [section 26][906] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+*   Heading: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 282J Collection of border information
     
@@ -10459,25 +10467,25 @@ Miscellaneous provisions
     
     *   (b) store any border information in the JBMS.
     
-    (2) If the border information is personal information, subsection (1) applies despite anything in information privacy [principle 2][915] or [3][915] of the Privacy Act 1993\.
+    (2) If the border information is personal information, subsection (1) applies despite anything in information privacy [principle 2][916] or [3][916] of the Privacy Act 1993\.
     
-    Section 282J: inserted, on 6 April 2012, by [section 26][906] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 282J: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 282K Requirement by or under this Act to supply border information is complied with if information is supplied to Ministry or other agency
     
 *   A person must be taken to have complied with a requirement by or under this Act to supply any border information to the Customs if, instead of to the Customs, the person supplies the border information to---
         
-    *   (a) the Ministry, for the purposes of, and in accordance with, [section 41G(1)][917] of the Biosecurity Act 1993:
+    *   (a) the Ministry, for the purposes of, and in accordance with, [section 41G(1)][918] of the Biosecurity Act 1993:
     
-    *   (b) an agency appointed under [section 41G(3)][917] of the Biosecurity Act 1993, for the purposes of, and in accordance with, section 41G(1) of that Act.
+    *   (b) an agency appointed under [section 41G(3)][918] of the Biosecurity Act 1993, for the purposes of, and in accordance with, section 41G(1) of that Act.
     
-    Section 282K: inserted, on 6 April 2012, by [section 26][906] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 282K: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 282L Customs may access border information
     
 *   (1) The Customs may access any border information stored in the JBMS that is needed for, or relevant to, a customs-related border management function.
     
-    (2) If the border information is personal information, subsection (1) applies despite anything in information privacy [principle 10][915] of the Privacy Act 1993\.
+    (2) If the border information is personal information, subsection (1) applies despite anything in information privacy [principle 10][916] of the Privacy Act 1993\.
     
     (3) Subsections (1) and (2) apply to any border information stored in the JBMS, whether the border information was or is collected before, on, or after the commencement of this section.
     
@@ -10489,21 +10497,21 @@ Miscellaneous provisions
     
     *   (c) importers or exporters.
     
-    Section 282L: inserted, on 6 April 2012, by [section 26][906] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 282L: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 283 Chief executive to give written reasons for decisions open to appeal to Customs Appeal Authority
     
 *   Without limiting any other obligation imposed on the chief executive to give notice in writing or to give reasons, in any case where a decision of the chief executive is open to an appeal to a Customs Appeal Authority, the notice of the decision of the chief executive must be given without undue delay and shall include or be accompanied by a written statement of the reasons for that decision.
     
-    Section 283: amended, on 27 September 2001, by [section 11][918] of the Customs and Excise Amendment Act 2001 (2001 No 61).
+    Section 283: amended, on 27 September 2001, by [section 11][919] of the Customs and Excise Amendment Act 2001 (2001 No 61).
 
 ##### 284 Giving of notice
     
 *   (1) A notice by the chief executive or an officer of Customs to a company may be given,---
         
-    *   (a) in the case of a company within the meaning of section 2 of the Companies Act 1955, by delivery to a person named as a director in the most recent particulars sent to the Registrar under section 200 of that Act; or
+    *   (a) \[Repealed\]
     
-    *   (b) in the case of a company within the meaning of [section 2][919] of the Companies Act 1993, by delivery to a person named as a director of the company on the New Zealand register; or
+    *   (b) in the case of a company within the meaning of [section 2][920] of the Companies Act 1993, by delivery to a person named as a director of the company on the New Zealand register; or
     
     *   (c) by delivery to an employee of the company at the company's head office or principal place of business; or
     
@@ -10551,11 +10559,13 @@ Miscellaneous provisions
     
     *   (d) where the individual is a registered user of a Customs computerised entry processing system, by transmitting it by electronic means to that individual in accordance with the normal procedure of operation of the relevant Customs computerised entry processing system in relation to that individual.
     
-    Section 284(1)(g): substituted, on 3 June 1998, by [section 8(1)][920] of the Customs and Excise Amendment Act (No 2) 1998 (1998 No 38).
+    Section 284(1)(a): repealed, on 5 December 2013, by [section 14][666] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 284(2)(f): substituted, on 3 June 1998, by [section 8(2)][920] of the Customs and Excise Amendment Act (No 2) 1998 (1998 No 38).
+    Section 284(1)(g): substituted, on 3 June 1998, by [section 8(1)][921] of the Customs and Excise Amendment Act (No 2) 1998 (1998 No 38).
     
-    Section 284(3)(e): substituted, on 3 June 1998, by [section 8(3)][920] of the Customs and Excise Amendment Act (No 2) 1998 (1998 No 38).
+    Section 284(2)(f): substituted, on 3 June 1998, by [section 8(2)][921] of the Customs and Excise Amendment Act (No 2) 1998 (1998 No 38).
+    
+    Section 284(3)(e): substituted, on 3 June 1998, by [section 8(3)][921] of the Customs and Excise Amendment Act (No 2) 1998 (1998 No 38).
 
 ##### 285 Additional provision relating to notices under this Act
     
@@ -10585,11 +10595,11 @@ Miscellaneous provisions
     
     (3) A notice is not to be deemed to have been given to a person if the person proves that, through no fault on the person's part, the notice was not received within the time specified or was not received at all.
     
-    Section 285(2)(b): amended, on 6 March 2007, by [section 23(1)][921] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 285(2)(b): amended, on 6 March 2007, by [section 23(1)][922] of the Customs and Excise Amendment Act 2007 (2007 No 9).
     
-    Section 285(2)(c): amended, on 6 March 2007, by [section 23(2)][921] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 285(2)(c): amended, on 6 March 2007, by [section 23(2)][922] of the Customs and Excise Amendment Act 2007 (2007 No 9).
     
-    Section 285(3): amended, on 6 March 2007, by [section 23(3)][921] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 285(3): amended, on 6 March 2007, by [section 23(3)][922] of the Customs and Excise Amendment Act 2007 (2007 No 9).
 
 ##### 286 Regulations
     
@@ -10699,25 +10709,25 @@ Miscellaneous provisions
     
     Compare: 1966 No 19 s 306; 1990 No 89 s 9
     
-    Section 286(1)(a): substituted, on 1 October 2008, by [section 6][922] of the Customs and Excise Amendment Act (No 2) 2008 (2008 No 61).
+    Section 286(1)(a): substituted, on 1 October 2008, by [section 6][923] of the Customs and Excise Amendment Act (No 2) 2008 (2008 No 61).
     
-    Section 286(1)(ba): inserted, on 2 July 2004, by [section 44(1)][923] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 286(1)(ba): inserted, on 2 July 2004, by [section 44(1)][924] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 286(1)(ga): substituted, on 24 September 2009, by [section 17(1)][924] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 286(1)(ga): substituted, on 24 September 2009, by [section 17(1)][925] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
     
-    Section 286(1)(gb): inserted, on 1 October 2004, by [section 44(3)][923] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 286(1)(gb): inserted, on 1 October 2004, by [section 44(3)][924] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 286(1)(gc): inserted, on 1 October 2004, by [section 44(3)][923] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 286(1)(gc): inserted, on 1 October 2004, by [section 44(3)][924] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 286(1)(o): amended, on 9 October 2002, by [section 26][925] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
+    Section 286(1)(o): amended, on 9 October 2002, by [section 26][926] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
     
-    Section 286(1)(pa): inserted, on 1 October 2004, by [section 44(4)][923] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 286(1)(pa): inserted, on 1 October 2004, by [section 44(4)][924] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 286(1)(xa): inserted, on 2 July 2004, by [section 44(5)][923] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 286(1)(xa): inserted, on 2 July 2004, by [section 44(5)][924] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 286(1)(aa): repealed, on 1 October 2012, by [section 229(1)][926] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 286(1)(aa): repealed, on 1 October 2012, by [section 229(1)][927] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 286(1A): inserted, on 24 September 2009, by [section 17(2)][924] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 286(1A): inserted, on 24 September 2009, by [section 17(2)][925] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
 
 ##### 286A Regulations relating to information sharing
     
@@ -10749,7 +10759,7 @@ Miscellaneous provisions
         
         *   (iv) the level of accuracy of that personal information:
         
-        *   (v) whether the proposed regulations will be consistent with, or will detract from, the information privacy principles of the [Privacy Act 1993][905]:
+        *   (v) whether the proposed regulations will be consistent with, or will detract from, the information privacy principles of the [Privacy Act 1993][906]:
         
         *   (vi) whether there are alternative ways to achieve the purpose of [section 282B][458] besides making personal information available under the proposed regulations.
         
@@ -10773,7 +10783,7 @@ Miscellaneous provisions
     
     *   (c) take the results of the consultation into account.
     
-    Section 286A: inserted, on 6 April 2012, by [section 27][927] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 286A: inserted, on 6 April 2012, by [section 27][928] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 286B Regulations made under section 286A to be confirmed
     
@@ -10781,7 +10791,7 @@ Miscellaneous provisions
     
     (2) The validity of any regulations made under [section 286A][476] is not affected merely because of the repeal of an Act of Parliament validating and confirming them.
     
-    Section 286B: inserted, on 6 April 2012, by [section 27][927] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 286B: inserted, on 6 April 2012, by [section 27][928] of the Customs and Excise Amendment Act 2012 (2012 No 25).
     
     Section 286B(1): amended, on 5 August 2013, by [section 77(3)][636] of the Legislation Act 2012 (2012 No 119).
 
@@ -10829,13 +10839,13 @@ Miscellaneous provisions
     
     *   (b) form part of the regulations for all purposes and have legal effect accordingly.
     
-    Section 287A: inserted, on 8 December 2009, by [section 23][928] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 287A: inserted, on 8 December 2009, by [section 23][929] of the Customs and Excise Amendment Act 2009 (2009 No 61).
 
 ##### 287B Effect of amendments to, or replacement of, provisions incorporated by reference
     
 *   An amendment to, or replacement of, provisions incorporated under [section 287A][479] has legal effect as part of the regulations only if regulations are made that state that the particular amendment or replacement has that effect.
     
-    Section 287B: inserted, on 8 December 2009, by [section 23][928] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 287B: inserted, on 8 December 2009, by [section 23][929] of the Customs and Excise Amendment Act 2009 (2009 No 61).
 
 ##### 287C Proof of provisions incorporated by reference
     
@@ -10847,7 +10857,7 @@ Miscellaneous provisions
     
     (2) The production in proceedings of a certified copy of the provisions is, in the absence of proof to the contrary, sufficient evidence of the incorporation in the regulations of the provisions.
     
-    Section 287C: inserted, on 8 December 2009, by [section 23][928] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 287C: inserted, on 8 December 2009, by [section 23][929] of the Customs and Excise Amendment Act 2009 (2009 No 61).
 
 ##### 287D Access to provisions incorporated by reference
     
@@ -10873,17 +10883,17 @@ Miscellaneous provisions
     
     (2) A failure to comply with this section does not invalidate regulations that incorporate provisions under [section 287A][479].
     
-    Section 287D: inserted, on 8 December 2009, by [section 23][928] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 287D: inserted, on 8 December 2009, by [section 23][929] of the Customs and Excise Amendment Act 2009 (2009 No 61).
 
 ##### 287E Application of Legislation Act 2012 to provisions incorporated by reference
     
 *   (1) [Part 2][644] of the Legislation Act 2012 does not apply to provisions incorporated under [section 287A][479] or to an amendment to, or replacement of, those provisions.
     
-    (2) [Subpart 1][929] of Part 3 of the Legislation Act 2012 applies to regulations that incorporate provisions under [section 287A][479].
+    (2) [Subpart 1][930] of Part 3 of the Legislation Act 2012 applies to regulations that incorporate provisions under [section 287A][479].
     
-    (3) However, nothing in [section 41][930] of the Legislation Act 2012 requires provisions incorporated under [section 287A][479] to be presented to the House of Representatives.
+    (3) However, nothing in [section 41][931] of the Legislation Act 2012 requires provisions incorporated under [section 287A][479] to be presented to the House of Representatives.
     
-    Section 287E: replaced, on 5 August 2013, by [section 77(3)][930] of the Legislation Act 2012 (2012 No 119).
+    Section 287E: replaced, on 5 August 2013, by [section 77(3)][931] of the Legislation Act 2012 (2012 No 119).
 
 ##### 287F Application of Regulations (Disallowance) Act 1989 to provisions incorporated by reference
     
@@ -10945,21 +10955,21 @@ Miscellaneous provisions
     
     (10) Every rule made under this section shall come into force on the 28th day after the date of its publication or notification, as the case may be, in the _Gazette_ in accordance with the provisions of this section, or on such later date as may be specified in the rule.
     
-    (11) Every rule made under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][638] and must be presented to the House of Representatives under [section 41][930] of that Act.
+    (11) Every rule made under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][638] and must be presented to the House of Representatives under [section 41][931] of that Act.
     
     (12) The chief executive may, from time to time, amend or revoke any rules made under subsection (1), and the provisions of this section, with all necessary modifications, shall apply in respect of any such amendment or revocation.
     
-    Section 288(1)(a): amended, on 24 September 2009, by [section 18][931] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 288(1)(a): amended, on 24 September 2009, by [section 18][932] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
     
-    Section 288(1)(a): amended, on 2 July 2004, by [section 45(a)][932] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 288(1)(a): amended, on 2 July 2004, by [section 45(a)][933] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 288(1)(b): repealed, on 6 March 2007, by [section 24(1)][933] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 288(1)(b): repealed, on 6 March 2007, by [section 24(1)][934] of the Customs and Excise Amendment Act 2007 (2007 No 9).
     
-    Section 288(1)(i): added, on 9 October 2002, by [section 27][934] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
+    Section 288(1)(i): added, on 9 October 2002, by [section 27][935] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
     
-    Section 288(1)(i): amended, on 2 July 2004, by [section 45(c)][932] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 288(1)(i): amended, on 2 July 2004, by [section 45(c)][933] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 288(5): amended, on 6 March 2007, by [section 24(2)][933] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 288(5): amended, on 6 March 2007, by [section 24(2)][934] of the Customs and Excise Amendment Act 2007 (2007 No 9).
     
     Section 288(11): replaced, on 5 August 2013, by [section 77(3)][636] of the Legislation Act 2012 (2012 No 119).
 
@@ -10971,7 +10981,7 @@ Miscellaneous provisions
     
     *   (b) the circumstances in which it was used.
     
-    Section 288A: inserted, on 2 July 2004, by [section 46][935] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 288A: inserted, on 2 July 2004, by [section 46][936] of the Customs and Excise Amendment Act 2004 (2004 No 55).
 
 ##### 289 Acts and regulations amended
     
@@ -11151,13 +11161,13 @@ Miscellaneous provisions
     
     (3) After exercising, by virtue of subsection (1), any power under this Act in relation to a suspected offence against the Customs Act 1966, the chief executive or a Customs officer, as the case may be, must not exercise any corresponding power under the Customs Act 1966 in relation to that suspected offence.
     
-    (4) Nothing in this section limits or affects the application of [section 19][936] of the Interpretation Act 1999 in relation to the prosecution of offences against the Customs Act 1966\.
+    (4) Nothing in this section limits or affects the application of [section 19][937] of the Interpretation Act 1999 in relation to the prosecution of offences against the Customs Act 1966\.
     
-    Section 305A: inserted, on 3 June 1998, by [section 9][937] of the Customs and Excise Amendment Act (No 2) 1998 (1998 No 38).
+    Section 305A: inserted, on 3 June 1998, by [section 9][938] of the Customs and Excise Amendment Act (No 2) 1998 (1998 No 38).
     
-    Section 305A(1): amended, on 1 October 2012, by [section 229(2)][926] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 305A(1): amended, on 1 October 2012, by [section 229(2)][927] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 305A(4): amended, on 1 November 1999, pursuant to [section 38(1)][938] of the Interpretation Act 1999 (1999 No 85).
+    Section 305A(4): amended, on 1 November 1999, pursuant to [section 38(1)][939] of the Interpretation Act 1999 (1999 No 85).
 
 ##### 306 Power to amend Schedule 3 before this Act comes into force
     
@@ -11169,7 +11179,7 @@ Miscellaneous provisions
 
 ##### 307 Zero-rating---duty-free goods
     
-*   (1) _Amendment(s) incorporated in the [Act(s)][939]._
+*   (1) _Amendment(s) incorporated in the [Act(s)][940]._
     
     (2) This section shall apply to supplies made on or after 1 October 1986\.
 
@@ -11177,19 +11187,19 @@ Miscellaneous provisions
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 January 2010, by [section 9(6)][686] of the Tariff Amendment Act 2009 (2009 No 62).
+*   Heading: repealed, on 1 January 2010, by [section 9(6)][687] of the Tariff Amendment Act 2009 (2009 No 62).
 
 ##### 308 Tariff items substituted
     
 *   \[Repealed\]
     
-    Section 308: repealed, on 1 January 2010, by [section 9(6)][686] of the Tariff Amendment Act 2009 (2009 No 62).
+    Section 308: repealed, on 1 January 2010, by [section 9(6)][687] of the Tariff Amendment Act 2009 (2009 No 62).
 
 ##### 309 New concession reference inserted
     
 *   \[Repealed\]
     
-    Section 309: repealed, on 1 January 2010, by [section 9(6)][686] of the Tariff Amendment Act 2009 (2009 No 62).
+    Section 309: repealed, on 1 January 2010, by [section 9(6)][687] of the Tariff Amendment Act 2009 (2009 No 62).
 
 ---
 
@@ -11202,23 +11212,23 @@ False or counterfeit coin or banknotes; and any coin that is not of the establis
 
 Goods manufactured or produced wholly or in part by prison labour, or within or in connection with any prison, jail, or penitentiary, excluding a bona fide gift made by a prisoner for the personal use of a private individual, also goods similar in character to those manufactured or produced in such institutions when sold or offered for sale by any person, firm, or corporation having a contract for the manufacture or production of such articles in such institutions, or by an agent of such person, firm, or corporation, or when originally purchased from or transferred by any such contractor.
 
-Every article whose sale in New Zealand would be an offence against the [Food Act 1981][908] or the [Food (Safety) Regulations 2002][940].
+Every article whose sale in New Zealand would be an offence against the [Food Act 1981][909] or the [Food (Safety) Regulations 2002][941].
 
-Every pipe, other utensil, or identifiable component of a pipe or other utensil whose importation into New Zealand is absolutely prohibited by a notice issued under [section 22(1A)][798] of the Misuse of Drugs Act 1975\.
+Every pipe, other utensil, or identifiable component of a pipe or other utensil whose importation into New Zealand is absolutely prohibited by a notice issued under [section 22(1A)][799] of the Misuse of Drugs Act 1975\.
 
-Goods that are designed, manufactured, or adapted with intent to facilitate the commission of a crime involving dishonesty (as defined in [section 2(1)][695] of the Crimes Act 1961).
+Goods that are designed, manufactured, or adapted with intent to facilitate the commission of a crime involving dishonesty (as defined in [section 2(1)][696] of the Crimes Act 1961).
 
 Goods that, having regard to all relevant circumstances, it would be reasonable to believe---
     
-*   (a) are part of, or involved in, an attempt, to which [section 72][941] of the Crimes Act 1961 applies, to commit a crime involving dishonesty (as defined in [section 2(1)][695] of that Act); or
+*   (a) are part of, or involved in, an attempt, to which [section 72][942] of the Crimes Act 1961 applies, to commit a crime involving dishonesty (as defined in [section 2(1)][696] of that Act); or
 
-*   (b) relate to a conspiracy, to which [section 310][942] of the Crimes Act 1961 applies, to commit a crime involving dishonesty (as defined in [section 2(1)][695] of that Act).
+*   (b) relate to a conspiracy, to which [section 310][943] of the Crimes Act 1961 applies, to commit a crime involving dishonesty (as defined in [section 2(1)][696] of that Act).
 
-*   Schedule 1: amended, on 6 April 2012, by [section 28][943] of the Customs and Excise Amendment Act 2012 (2012 No 25).
-*   Schedule 1: amended, on 9 August 2011, by [section 13(2)][944] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
-*   Schedule 1: amended, on 6 March 2007, by [section 35][945] of the Customs and Excise Amendment Act 2007 (2007 No 9).
-*   Schedule 1: amended, on 22 February 2005, by [section 44][946] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
-*   Schedule 1: amended, on 21 August 1997, by [section 3][947] of the Misuse of Drugs Amendment Act 1997 (1997 No 57).
+*   Schedule 1: amended, on 6 April 2012, by [section 28][944] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+*   Schedule 1: amended, on 9 August 2011, by [section 13(2)][945] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
+*   Schedule 1: amended, on 6 March 2007, by [section 35][946] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+*   Schedule 1: amended, on 22 February 2005, by [section 44][947] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+*   Schedule 1: amended, on 21 August 1997, by [section 3][948] of the Misuse of Drugs Amendment Act 1997 (1997 No 57).
 
 ---
 
@@ -11231,11 +11241,11 @@ Valuation of goods for the purposes of the Tariff
     
 *   (1) In this schedule---
     
-    _computed value_ means the value determined in accordance with [clause 7][948]
+    _computed value_ means the value determined in accordance with [clause 7][949]
     
     _country of export_, or _the country from which any goods are exported_, means the country from which the goods are shipped directly to New Zealand, or, as the case may be, the country from which the goods are deemed to be shipped pursuant to this Act
     
-    _deductive value_ means the value determined in accordance with [clause 6][949]
+    _deductive value_ means the value determined in accordance with [clause 6][950]
     
     _goods of the same class or kind_, means imported goods that---
         
@@ -11243,9 +11253,9 @@ Valuation of goods for the purposes of the Tariff
     
     *   (b) for the purposes of---
             
-        *   (i) [clause 6][949], were exported from any country; and
+        *   (i) [clause 6][950], were exported from any country; and
         
-        *   (ii) [clause 7][948], were produced in and exported from the country in and from which the goods being valued were produced and exported
+        *   (ii) [clause 7][949], were produced in and exported from the country in and from which the goods being valued were produced and exported
         
         
     
@@ -11275,7 +11285,7 @@ Valuation of goods for the purposes of the Tariff
     
     _sufficient information_, in respect of the determination of any amount, difference, or adjustment, means objective and quantifiable information that clearly establishes the accuracy of the amount, difference, or adjustment
     
-    _transaction value_ means the value determined in accordance with [clauses 2][950] and [3][951].
+    _transaction value_ means the value determined in accordance with [clauses 2][951] and [3][952].
     
     (2) For the purposes of this schedule, persons shall be deemed to be related only if---
         
@@ -11323,7 +11333,7 @@ Valuation of goods for the purposes of the Tariff
 
 ##### 2 Transaction value as primary basis of valuation
     
-*   (1) The Customs value of imported goods shall be their transaction value, that is, the price paid or payable for the goods when sold for export to New Zealand, adjusted in accordance with [clause 3][951], if---
+*   (1) The Customs value of imported goods shall be their transaction value, that is, the price paid or payable for the goods when sold for export to New Zealand, adjusted in accordance with [clause 3][952], if---
         
     *   (a) there are no restrictions respecting the disposition or use of the goods by the buyer, other than restrictions that---
             
@@ -11351,9 +11361,9 @@ Valuation of goods for the purposes of the Tariff
         
     *   (a) the transaction value of identical goods or similar goods in respect of a sale of those goods for export to New Zealand between a seller and buyer who are not related at the time of the sale; or
     
-    *   (b) the deductive value of identical or similar goods determined in accordance with [clause 6][949]; or
+    *   (b) the deductive value of identical or similar goods determined in accordance with [clause 6][950]; or
     
-    *   (c) the computed value of identical or similar goods determined in accordance with [clause 7][948].
+    *   (c) the computed value of identical or similar goods determined in accordance with [clause 7][949].
     
     (3) In any case where the chief executive is of the opinion that the relationship between the buyer and seller of any goods influenced the price paid or payable for the goods, the chief executive shall inform the importer, in writing if so requested, of the grounds on which the chief executive formed that opinion, and shall give the importer a reasonable opportunity to satisfy the chief executive that the relationship did not influence the price.
     
@@ -11371,7 +11381,7 @@ Valuation of goods for the purposes of the Tariff
     
     *   (f) the quantity levels of the sales:
     
-    *   (g) any of the amounts referred to in [clause 3][951]:
+    *   (g) any of the amounts referred to in [clause 3][952]:
     
     *   (h) the costs, charges, or expenses incurred by a seller when the seller sells to a buyer to whom the seller is not related that are not incurred when the seller sells to a buyer to whom the seller is related.
     
@@ -11381,13 +11391,13 @@ Valuation of goods for the purposes of the Tariff
     
     *   (b) the chief executive has reason to doubt the truth or accuracy of the declared Customs value and, after having sought further explanation or other evidence that the declared Customs value represents the total amount actually paid or payable for the imported goods, the chief executive is still not satisfied that the Customs value can be determined under this clause---
     
-    the chief executive may determine the Customs value of the goods by proceeding sequentially through [clauses 4 to 8][952] to the first such clause of this schedule under which the Customs value can, in the opinion of the chief executive, be determined.
+    the chief executive may determine the Customs value of the goods by proceeding sequentially through [clauses 4 to 8][953] to the first such clause of this schedule under which the Customs value can, in the opinion of the chief executive, be determined.
     
-    (6) Notwithstanding subclause (5), on the written request of the importer to the chief executive, the order of consideration of the valuation basis provided for in [clauses 6][949] and [7][948] shall be reversed.
+    (6) Notwithstanding subclause (5), on the written request of the importer to the chief executive, the order of consideration of the valuation basis provided for in [clauses 6][950] and [7][949] shall be reversed.
 
 ##### 3 Adjustment of price paid or payable
     
-*   (1) In determining the transaction value of goods under [clause 2][950], the price paid or payable for the goods shall be adjusted---
+*   (1) In determining the transaction value of goods under [clause 2][951], the price paid or payable for the goods shall be adjusted---
         
     *   (a) by adding thereto amounts, to the extent that each such amount is not otherwise included in the price paid or payable for the goods and is determined on the basis of sufficient information, equal to---
             
@@ -11503,11 +11513,11 @@ Valuation of goods for the purposes of the Tariff
     
     (3) For the purposes of paragraph (c) of subclause (1), the expression _carrier media_ does not include integrated circuits, semi-conductors and similar devices, or articles incorporating such circuits or devices; and the expression _data or instructions_ does not include sound, cinematic, or video recordings.
     
-    (4) Where any adjustment in terms of the foregoing subclause cannot, in the opinion of the chief executive, be made because of the lack of sufficient information, the transaction value of the goods being valued cannot be determined under [clause 2][950].
+    (4) Where any adjustment in terms of the foregoing subclause cannot, in the opinion of the chief executive, be made because of the lack of sufficient information, the transaction value of the goods being valued cannot be determined under [clause 2][951].
 
 ##### 4 Transaction value of identical goods as Customs value
     
-*   (1) Subject to subclauses (2) to (4), where the Customs value of imported goods cannot, in the opinion of the chief executive, be determined under [clause 2][950], the Customs value of the goods shall be the transaction value of identical goods in respect of a sale of those goods for export to New Zealand if that transaction value is the Customs value of the identical goods and the identical goods were exported at the same or substantially the same time as the goods being valued and were sold under the following conditions:
+*   (1) Subject to subclauses (2) to (4), where the Customs value of imported goods cannot, in the opinion of the chief executive, be determined under [clause 2][951], the Customs value of the goods shall be the transaction value of identical goods in respect of a sale of those goods for export to New Zealand if that transaction value is the Customs value of the identical goods and the identical goods were exported at the same or substantially the same time as the goods being valued and were sold under the following conditions:
         
     *   (a) to a buyer at the same or substantially the same trade level as the buyer of the goods being valued; and
     
@@ -11523,7 +11533,7 @@ Valuation of goods for the purposes of the Tariff
     
     (3) For the purposes of determining the Customs value of imported goods under subclause (1), the transaction value of identical goods shall be adjusted by adding thereto or deducting therefrom, as the case may be, amounts to account for---
         
-    *   (a) commercially significant differences between the costs, charges, and expenses referred to in [clause 3(1)(a)(vii)][951] in respect of the identical goods and those costs, charges, and expenses in respect of the goods being valued that are attributable to differences in distances and modes of transport:
+    *   (a) commercially significant differences between the costs, charges, and expenses referred to in [clause 3(1)(a)(vii)][952] in respect of the identical goods and those costs, charges, and expenses in respect of the goods being valued that are attributable to differences in distances and modes of transport:
     
     *   (b) where the transaction value is in respect of identical goods sold under the conditions described in any of paragraphs (a) to (c) of subclause (2), differences in the trade levels of the buyers of the identical goods and the goods being valued or the quantities in which the identical goods and the goods being valued were sold or both, as the case may be,---
     
@@ -11533,17 +11543,17 @@ Valuation of goods for the purposes of the Tariff
 
 ##### 5 Transaction value of similar goods as Customs value
     
-*   (1) Subject to subclause (2) of this clause and subclauses (2) to (4) of [clause 4][952], where the Customs value of imported goods cannot, in the opinion of the chief executive, be determined under clause 4, the Customs value of the goods shall be the transaction value of similar goods in respect of a sale of those goods for export to New Zealand if that transaction value is the Customs value of the similar goods and the similar goods were exported at the same or substantially the same time as the goods being valued and were sold under the following conditions:
+*   (1) Subject to subclause (2) of this clause and subclauses (2) to (4) of [clause 4][953], where the Customs value of imported goods cannot, in the opinion of the chief executive, be determined under clause 4, the Customs value of the goods shall be the transaction value of similar goods in respect of a sale of those goods for export to New Zealand if that transaction value is the Customs value of the similar goods and the similar goods were exported at the same or substantially the same time as the goods being valued and were sold under the following conditions:
         
     *   (a) to a buyer at the same or substantially the same trade level as the buyer of the goods being valued; and
     
     *   (b) in the same or substantially the same quantities as the goods being valued.
     
-    (2) Subclauses (2) to (4) of [clause 4][952] shall apply to this clause in respect of similar goods as if every reference in those subclauses to ""identical goods"" were a reference to ""similar goods"".
+    (2) Subclauses (2) to (4) of [clause 4][953] shall apply to this clause in respect of similar goods as if every reference in those subclauses to ""identical goods"" were a reference to ""similar goods"".
 
 ##### 6 Deductive value as Customs value
     
-*   (1) Subject to subclauses (5) and (6) of [clause 2][950], where the Customs value cannot, in the opinion of the chief executive, be determined under [clause 5][953], the Customs value of the goods shall be the deductive value in respect of the goods.
+*   (1) Subject to subclauses (5) and (6) of [clause 2][951], where the Customs value cannot, in the opinion of the chief executive, be determined under [clause 5][954], the Customs value of the goods shall be the deductive value in respect of the goods.
     
     (2) Where the goods being valued or identical goods or similar goods are sold in New Zealand in the condition in which they were imported at the same or substantially the same time as the time of importation of the goods being valued, the deductive value of the goods being valued shall be the price per unit in respect of sales described in subclause (5), determined in accordance with that subclause and adjusted in accordance with subclause (6), at which the greatest number of units of the goods being valued or identical goods or similar goods are so sold.
     
@@ -11555,7 +11565,7 @@ Valuation of goods for the purposes of the Tariff
         
     *   (a) are not related to the persons from whom they buy the goods at the time the goods are sold to them; and
     
-    *   (b) have not supplied, directly or indirectly, free of charge or at a reduced cost for use in connection with the production and sale for export of the goods, any of the goods or services referred to in [clause 3(1)(a)(iii)][951],---
+    *   (b) have not supplied, directly or indirectly, free of charge or at a reduced cost for use in connection with the production and sale for export of the goods, any of the goods or services referred to in [clause 3(1)(a)(iii)][952],---
     
     at which the greatest number of units of the goods is sold where, in the opinion of the chief executive, a sufficient number of such sales have been made to permit a determination of the price per unit of the goods.
     
@@ -11571,7 +11581,7 @@ Valuation of goods for the purposes of the Tariff
     
     *   (b) reasonable costs, charges, and expenses that are incurred in respect of the transportation and insurance of the goods within New Zealand and reasonable costs, charges, and expenses associated therewith to the extent that an amount for such costs, charges, and expenses is not deducted in respect of general expenses under paragraph (a):
     
-    *   (c) the costs, charges, and expenses referred to in [clause 3(1)(b)(i)][951] incurred in respect of the goods, to the extent that an amount for such costs, charges, and expenses is not deducted in respect of general expenses under paragraph (a) of this subclause:
+    *   (c) the costs, charges, and expenses referred to in [clause 3(1)(b)(i)][952] incurred in respect of the goods, to the extent that an amount for such costs, charges, and expenses is not deducted in respect of general expenses under paragraph (a) of this subclause:
     
     *   (d) any Customs duties or other taxes payable in New Zealand by reason of the importation or sale of the goods, to the extent that an amount for such duties and taxes is not deducted in respect of general expenses under paragraph (a):
     
@@ -11587,7 +11597,7 @@ Valuation of goods for the purposes of the Tariff
 
 ##### 7 Computed value as Customs value
     
-*   (1) Subject to subclauses (3) and (5) of [clause 2][950], where the Customs value of imported goods cannot, in the opinion of the chief executive be determined under [clause 6][949], the Customs value of the goods shall be the computed value in respect of those goods.
+*   (1) Subject to subclauses (3) and (5) of [clause 2][951], where the Customs value of imported goods cannot, in the opinion of the chief executive be determined under [clause 6][950], the Customs value of the goods shall be the computed value in respect of those goods.
     
     (2) The computed value of the goods being valued is the aggregate of amounts equal to---
         
@@ -11605,11 +11615,11 @@ Valuation of goods for the purposes of the Tariff
         
         that are supplied by or on behalf of the producer of the goods and prepared in a manner consistent with the generally accepted accounting principles of the country of production of the goods being valued, including, without limiting the generality of the foregoing,---
             
-        *   (iii) the costs, charges, and expenses referred to in [clause 3(1)(a)(ii)][951]:
+        *   (iii) the costs, charges, and expenses referred to in [clause 3(1)(a)(ii)][952]:
         
-        *   (iv) the value of any of the goods and services referred to in [clause 3(1)(a)(iii) and (vi)][951], determined and apportioned to the goods being valued as referred to in that clause, whether or not such goods and services have been supplied free of charge or at a reduced cost:
+        *   (iv) the value of any of the goods and services referred to in [clause 3(1)(a)(iii) and (vi)][952], determined and apportioned to the goods being valued as referred to in that clause, whether or not such goods and services have been supplied free of charge or at a reduced cost:
         
-        *   (v) the costs, charges, and expenses incurred by the producer in respect of engineering, development work, artwork, designwork, plans, or sketches undertaken in New Zealand that were supplied, directly or indirectly, by the buyer of the goods being valued for use in connection with the production and sale for export of those goods to the extent that such elements are charged to the producer of the goods, apportioned to the goods being valued as referred to in [clause 3(1)(a)(iii)][951]:
+        *   (v) the costs, charges, and expenses incurred by the producer in respect of engineering, development work, artwork, designwork, plans, or sketches undertaken in New Zealand that were supplied, directly or indirectly, by the buyer of the goods being valued for use in connection with the production and sale for export of those goods to the extent that such elements are charged to the producer of the goods, apportioned to the goods being valued as referred to in [clause 3(1)(a)(iii)][952]:
         
         
     
@@ -11627,7 +11637,7 @@ Valuation of goods for the purposes of the Tariff
 
 ##### 8 Residual basis of valuation
     
-*   (1) Where the Customs value of imported goods cannot, in the opinion of the chief executive, be determined under [clause 7][948], it shall be determined on information available in New Zealand on the basis of a value derived from the methods of valuation set out in [clauses 2 to 7][950] interpreted in a flexible manner and reasonably adjusted to the extent necessary to arrive at a Customs value of the goods.
+*   (1) Where the Customs value of imported goods cannot, in the opinion of the chief executive, be determined under [clause 7][949], it shall be determined on information available in New Zealand on the basis of a value derived from the methods of valuation set out in [clauses 2 to 7][951] interpreted in a flexible manner and reasonably adjusted to the extent necessary to arrive at a Customs value of the goods.
     
     (2) A Customs value shall not be determined on the basis of---
         
@@ -11637,7 +11647,7 @@ Valuation of goods for the purposes of the Tariff
     
     *   (c) the price of goods on the domestic market of the country of exportation; or
     
-    *   (d) the cost of production, other than computed values that have been determined for identical or similar goods in accordance with [clause 7][948]; or
+    *   (d) the cost of production, other than computed values that have been determined for identical or similar goods in accordance with [clause 7][949]; or
     
     *   (e) the price of goods for export to a country other than New Zealand, unless the goods were imported into New Zealand; or
     
@@ -11669,7 +11679,7 @@ Valuation of goods for the purposes of excise
     
 *   The value of any goods for the purposes of [section 73(3)][151] shall be the price at which the goods are sold exclusive of excise duty and goods and services tax by a person licensed under [section 12][17] if---
         
-    *   (a) the sale is a sale in the open market as defined in [clause 4(1)(c)][954]; and
+    *   (a) the sale is a sale in the open market as defined in [clause 4(1)(c)][955]; and
     
     *   (b) the sale is made on or prior to the date on which the goods are removed from the manufacturing area.
     
@@ -11677,11 +11687,11 @@ Valuation of goods for the purposes of excise
 
 ##### 2 Value of goods manufactured by contractor
     
-*   The value of any goods for the purposes of [section 69][147] that are deemed to have been manufactured by a contractor shall be their fair market value as determined under [clause 4][954].
+*   The value of any goods for the purposes of [section 69][147] that are deemed to have been manufactured by a contractor shall be their fair market value as determined under [clause 4][955].
 
 ##### 3 Value of goods not sold in open market
     
-*   Where the value of the goods cannot be determined under [clause 1][955] for the reason that the goods were not sold under the conditions specified in paragraphs (a) and (b) of that clause, the value shall be the fair market value of those goods as determined under [clause 4][954].
+*   Where the value of the goods cannot be determined under [clause 1][956] for the reason that the goods were not sold under the conditions specified in paragraphs (a) and (b) of that clause, the value shall be the fair market value of those goods as determined under [clause 4][955].
 
 ##### 4 Fair market value
     
@@ -11738,11 +11748,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Air Facilitation Act 1993 (1993 No 6)
 
-_Amendment(s) incorporated in the [Act(s)][956]._
+_Amendment(s) incorporated in the [Act(s)][957]._
 
 ##### Air Facilitation (Domestic Passengers and Cargo) Act 1994 (1994 No 100)
 
-_Amendment(s) incorporated in the [Act(s)][957]._
+_Amendment(s) incorporated in the [Act(s)][958]._
 
 ##### Alcoholic Liquor Advisory Council Act 1976 (1976 No 143)
 
@@ -11754,7 +11764,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Alcoholic Liquor Advisory Council Amendment Act 1989 (1989 No 96)
 
-_Amendment(s) incorporated in the [Act(s)][958]._
+_Amendment(s) incorporated in the [Act(s)][959]._
 
 ##### Animal Remedies Act 1967 (1967 No 51) (RS Vol 21, p 11)
 
@@ -11770,7 +11780,7 @@ _Amendment(s) incorporated in the [Act(s)][580]._
 
 ##### Civil Aviation Act 1990 (1990 No 98)
 
-_Amendment(s) incorporated in the [Act(s)][959]._
+_Amendment(s) incorporated in the [Act(s)][960]._
 
 ##### Companies Act 1955 (1955 No 63) (RS Vol 15, p 89)
 
@@ -11778,23 +11788,23 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Companies Act 1993 (1993 No 105)
 
-_Amendment(s) incorporated in the [Act(s)][960]._
+_Amendment(s) incorporated in the [Act(s)][961]._
 
 ##### Cook Islands Act 1915 (1915 No 40) (Reprinted 1976, Vol 4, p 3119)
 
-_Amendment(s) incorporated in the [Act(s)][961]._
+_Amendment(s) incorporated in the [Act(s)][962]._
 
 ##### Cook Islands Amendment Act 1961 (1961 No 15) (Reprinted 1976, Vol 4, p 3313)
 
-_Amendment(s) incorporated in the [Act(s)][962]._
+_Amendment(s) incorporated in the [Act(s)][963]._
 
 ##### Copyright Act 1994 (1994 No 143)
 
-_Amendment(s) incorporated in the [Act(s)][963]._
+_Amendment(s) incorporated in the [Act(s)][964]._
 
 ##### Customs Law Act 1908 (1908 No 36) (RS Vol 2, p 273)
 
-_Amendment(s) incorporated in the [Act(s)][964]._
+_Amendment(s) incorporated in the [Act(s)][965]._
 
 ##### Dangerous Goods Act 1974 (1974 No 26) (RS Vol 24, p 241)
 
@@ -11802,7 +11812,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Dumping and Countervailing Duties Act 1988 (1988 No 158)
 
-_Amendment(s) incorporated in the [Act(s)][677]._
+_Amendment(s) incorporated in the [Act(s)][678]._
 
 ##### Explosives Act 1957 (1957 No 19) (RS Vol 6, p 361)
 
@@ -11810,35 +11820,35 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Fair Trading Act 1986 (1986 No 121)
 
-_Amendment(s) incorporated in the [Act(s)][965]._
+_Amendment(s) incorporated in the [Act(s)][966]._
 
 ##### Films, Videos, and Publications Classification Act 1993 (1993 No 94)
 
-_Amendment(s) incorporated in the [Act(s)][803]._
+_Amendment(s) incorporated in the [Act(s)][804]._
 
 ##### Finance Act 1989 (1989 No 13)
 
-_Amendment(s) incorporated in the [Act(s)][966]._
+_Amendment(s) incorporated in the [Act(s)][967]._
 
 ##### Finance Act (No 2) 1993 (1993 No 83)
 
-_Amendment(s) incorporated in the [Act(s)][967]._
+_Amendment(s) incorporated in the [Act(s)][968]._
 
 ##### Financial Transactions Reporting Act 1996 (1996 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][764]._
+_Amendment(s) incorporated in the [Act(s)][765]._
 
 ##### Flags, Emblems, and Names Protection Act 1981 (1981 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][968]._
+_Amendment(s) incorporated in the [Act(s)][969]._
 
 ##### Food Act 1981 (1981 No 45)
 
-_Amendment(s) incorporated in the [Act(s)][908]._
+_Amendment(s) incorporated in the [Act(s)][909]._
 
 ##### Forests Act 1949 (1949 No 19) (RS Vol 23, p 473)
 
-_Amendment(s) incorporated in the [Act(s)][969]._
+_Amendment(s) incorporated in the [Act(s)][970]._
 
 ##### Goods and Services Tax Act 1985 (1985 No 141) (RS Vol 27, p 425)
 
@@ -11862,7 +11872,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Goods and Services Tax Amendment Act 1990 (1990 No 64) (RS Vol 27, p 601)
 
-_Amendment(s) incorporated in the [Act(s)][970]._
+_Amendment(s) incorporated in the [Act(s)][971]._
 
 ##### Goods and Services Tax Amendment Act 1992 (1992 No 2)
 
@@ -11878,11 +11888,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Heavy Engineering Research Levy Act 1978 (1978 No 81)
 
-_Amendment(s) incorporated in the [Act(s)][971]._
+_Amendment(s) incorporated in the [Act(s)][972]._
 
 ##### Immigration Act 1987 (1987 No 74)
 
-_Amendment(s) incorporated in the [Act(s)][972]._
+_Amendment(s) incorporated in the [Act(s)][973]._
 
 ##### Import Control Act 1988 (1988 No 157)
 
@@ -11894,15 +11904,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Insolvency Act 1967 (1967 No 54) (RS Vol 18, p 289)
 
-_Amendment(s) incorporated in the [Act(s)][973]._
+_Amendment(s) incorporated in the [Act(s)][974]._
 
 ##### Marine Mammals Protection Act 1978 (1978 No 80)
 
-_Amendment(s) incorporated in the [Act(s)][974]._
+_Amendment(s) incorporated in the [Act(s)][975]._
 
 ##### Maritime Transport Act 1994 (1994 No 104)
 
-_Amendment(s) incorporated in the [Act(s)][975]._
+_Amendment(s) incorporated in the [Act(s)][976]._
 
 ##### Meat Export Control Act 1921--22 (1921--22 No 73) (RS Vol 26, p 537)
 
@@ -11910,23 +11920,23 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Medicines Act 1981 (1981 No 118)
 
-_Amendment(s) incorporated in the [Act(s)][976]._
+_Amendment(s) incorporated in the [Act(s)][977]._
 
 ##### Misuse of Drugs Act 1975 (1975 No 116) (RS Vol 26, p 567)
 
-_Amendment(s) incorporated in the [Act(s)][977]._
+_Amendment(s) incorporated in the [Act(s)][978]._
 
 ##### Misuse of Drugs Amendment Act 1978 (1978 No 65) (RS Vol 26, p 618)
 
-_Amendment(s) incorporated in the [Act(s)][978]._
+_Amendment(s) incorporated in the [Act(s)][979]._
 
 ##### Niue Act 1966 (1966 No 38) (Reprinted 1976, Vol 5, p 4005)
 
-_Amendment(s) incorporated in the [Act(s)][979]._
+_Amendment(s) incorporated in the [Act(s)][980]._
 
 ##### Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)
 
-_Amendment(s) incorporated in the [Act(s)][980]._
+_Amendment(s) incorporated in the [Act(s)][981]._
 
 ##### Ozone Layer Protection Act 1990 (1990 No 50)
 
@@ -11938,7 +11948,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Passports Act 1992 (1992 No 92)
 
-_Amendment(s) incorporated in the [Act(s)][981]._
+_Amendment(s) incorporated in the [Act(s)][982]._
 
 ##### Postal Services Act 1987 (1987 No 113)
 
@@ -11946,19 +11956,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][982]._
+_Amendment(s) incorporated in the [Act(s)][983]._
 
 ##### Ship Registration Act 1992 (1992 No 89)
 
-_Amendment(s) incorporated in the [Act(s)][983]._
+_Amendment(s) incorporated in the [Act(s)][984]._
 
 ##### State Sector Act 1988 (1988 No 20)
 
-_Amendment(s) incorporated in the [Act(s)][984]._
+_Amendment(s) incorporated in the [Act(s)][985]._
 
 ##### Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)
 
-_Amendment(s) incorporated in the [Act(s)][985]._
+_Amendment(s) incorporated in the [Act(s)][986]._
 
 ##### Tariff Act 1988 (1988 No 155)
 
@@ -11970,7 +11980,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Temporary Safeguard Authorities Act 1987 (1987 No 88)
 
-_Amendment(s) incorporated in the [Act(s)][986]._
+_Amendment(s) incorporated in the [Act(s)][987]._
 
 ##### Toxic Substances Act 1979 (1979 No 27)
 
@@ -11978,7 +11988,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Trade in Endangered Species Act 1989 (1989 No 18)
 
-_Amendment(s) incorporated in the [Act(s)][987]._
+_Amendment(s) incorporated in the [Act(s)][988]._
 
 ##### Trade in Endangered Species Amendment Act 1991 (1991 No 100)
 
@@ -11990,11 +12000,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Transit New Zealand Act 1989 (1989 No 75)
 
-_Amendment(s) incorporated in the [Act(s)][988]._
+_Amendment(s) incorporated in the [Act(s)][989]._
 
 ##### Wheat Industry Research Levies Act 1989 (1989 No 64)
 
-_Amendment(s) incorporated in the [Act(s)][989]._
+_Amendment(s) incorporated in the [Act(s)][990]._
 
 ##### Wine Makers Act 1981 (1981 No 125)
 
@@ -12004,7 +12014,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 _Amendment(s) incorporated in the Act(s)._
 
-Schedule 5: amended, on 1 January 2011, by [section 58][857] of the Limitation Act 2010 (2010 No 110).
+Schedule 5: amended, on 1 January 2011, by [section 58][858] of the Limitation Act 2010 (2010 No 110).
 
 ---
 
@@ -12015,11 +12025,11 @@ Regulations amended
 
 ##### Anthrax Prevention Regulations 1987 (SR 1987/345)
 
-_Amendment(s) incorporated in the [regulations][990]._
+_Amendment(s) incorporated in the [regulations][991]._
 
 ##### Copyright (Border Protection) Regulations 1994 (SR 1994/309)
 
-_Amendment(s) incorporated in the [regulations][991]._
+_Amendment(s) incorporated in the [regulations][992]._
 
 ##### Forest Produce Import and Export Regulations 1989 (SR 1989/235)
 
@@ -12047,7 +12057,7 @@ _Amendment(s) incorporated in the regulations._
 
 ##### United Nations Sanctions (Iraq) Regulations 1991 (SR 1991/92)
 
-_Amendment(s) incorporated in the [regulations][992]._
+_Amendment(s) incorporated in the [regulations][993]._
 
 ##### United Nations Sanctions (Liberia) Regulations 1992 (SR 1992/371)
 
@@ -12067,7 +12077,7 @@ _Amendment(s) incorporated in the regulations._
 
 ##### United Nations Sanctions (Somalia) Regulations 1992 (SR 1992/42)
 
-_Amendment(s) incorporated into the [regulations][993]._
+_Amendment(s) incorporated into the [regulations][994]._
 
 ##### United Nations Sanctions (Yugoslavia) Regulations 1991 (SR 1991/237)
 
@@ -12086,11 +12096,11 @@ Enactments repealed
 
 ##### Age of Majority Act 1970 (1970 No 137) (RS Vol 21, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][994]._
+_Amendment(s) incorporated in the [Act(s)][995]._
 
 ##### Constitution Act 1986 (1986 No 114)
 
-_Amendment(s) incorporated in the [Act(s)][995]._
+_Amendment(s) incorporated in the [Act(s)][996]._
 
 ##### Customs Act 1966 (1966 No 19) (RS Vol 2, p 57)
 
@@ -12188,11 +12198,11 @@ _Amendment(s) incorporated in the [Act(s)][995]._
 
 ##### Dumping and Countervailing Duties Act 1988 (1988 No 158)
 
-_Amendment(s) incorporated in the [Act(s)][996]._
+_Amendment(s) incorporated in the [Act(s)][997]._
 
 ##### Finance Act 1989 (1989 No 13)
 
-_Amendment(s) incorporated in the [Act(s)][997]._
+_Amendment(s) incorporated in the [Act(s)][998]._
 
 ##### Goods and Services Tax Amendment Act 1986 (1986 No 43) (RS Vol 19, p 485)
 
@@ -12208,11 +12218,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Official Information Amendment Act 1987 (1987 No 8) (RS Vol 21, p 634)
 
-_Amendment(s) incorporated in the [Act(s)][998]._
+_Amendment(s) incorporated in the [Act(s)][999]._
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][999]._
+_Amendment(s) incorporated in the [Act(s)][1000]._
 
 ##### State-Owned Enterprises Amendment Act 1987 (1987 No 117)
 
@@ -12220,11 +12230,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### State Sector Act 1988 (1988 No 20)
 
-_Amendment(s) incorporated in the [Act(s)][1000]._
+_Amendment(s) incorporated in the [Act(s)][1001]._
 
 ##### Tariff Act 1988 (1988 No 155)
 
-_Amendment(s) incorporated in the [Act(s)][1001]._
+_Amendment(s) incorporated in the [Act(s)][1002]._
 
 ##### Tariff Amendment Act 1989 (1989 No 48)
 
@@ -12396,7 +12406,7 @@ Tariff items removed from Tariff
 
 \[Repealed\]
     
-*   Schedule 9: repealed, on 1 January 2010, by [section 9(6)][686] of the Tariff Amendment Act 2009 (2009 No 62).
+*   Schedule 9: repealed, on 1 January 2010, by [section 9(6)][687] of the Tariff Amendment Act 2009 (2009 No 62).
 
 ---
 
@@ -12407,7 +12417,7 @@ Substituted Tariff items
 
 \[Repealed\]
     
-*   Schedule 10: repealed, on 1 January 2010, by [section 9(6)][686] of the Tariff Amendment Act 2009 (2009 No 62).
+*   Schedule 10: repealed, on 1 January 2010, by [section 9(6)][687] of the Tariff Amendment Act 2009 (2009 No 62).
 
 ---
 
@@ -12419,7 +12429,7 @@ Commencement3 December 1985
 
 ##### 1 Short Title, etc
     
-*   (1) This Act may be cited as the [Goods and Services Tax Act 1985][1002].
+*   (1) This Act may be cited as the [Goods and Services Tax Act 1985][1003].
     
     (2) This Act, other than section 12, is hereby declared to be one of the Inland Revenue Acts within the meaning of the Tax Administration Act 1994\.
     
@@ -12441,7 +12451,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Customs and Excise Amendment Act (No 3) 2008][1003].
+*   This Act is the [Customs and Excise Amendment Act (No 3) 2008][1004].
 
 ##### 2 Commencement
     
@@ -12478,129 +12488,131 @@ Consequential amendments and transitional provisions
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1004] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][1005] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1005] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][1006] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1006] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1007] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1007] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1008] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Customs and Excise (Budget Measures---Motor Spirits) Amendment Act 2013][1008] (2013 No 24)
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][666]
     
-    Student Loan Scheme Amendment Act 2013 (2013 No 10): [sections 47--49][898]
+    [Customs and Excise (Budget Measures---Motor Spirits) Amendment Act 2013][1009] (2013 No 24)
+    
+    Student Loan Scheme Amendment Act 2013 (2013 No 10): [sections 47--49][899]
     
     Legislation Act 2012 (2012 No 119): [section 77(3)][636]
     
-    [Customs and Excise (Tobacco Products---Budget Measures) Amendment Act 2012][1009] (2012 No 77)
+    [Customs and Excise (Tobacco Products---Budget Measures) Amendment Act 2012][1010] (2012 No 77)
     
-    [Customs and Excise Amendment Act 2012][1010] (2012 No 25)
+    [Customs and Excise Amendment Act 2012][1011] (2012 No 25)
     
-    Search and Surveillance Act 2012 (2012 No 24): [sections 221--229][705]
+    Search and Surveillance Act 2012 (2012 No 24): [sections 221--229][706]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][692]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][693]
     
-    Student Loan Scheme Act 2011 (2011 No 62): [section 223][897]
+    Student Loan Scheme Act 2011 (2011 No 62): [section 223][898]
     
-    Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54): [section 13(2)][944]
+    Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54): [section 13(2)][945]
     
-    [Customs and Excise Amendment Act 2011][1011] (2011 No 36)
+    [Customs and Excise Amendment Act 2011][1012] (2011 No 36)
     
-    Limitation Act 2010 (2010 No 110): [section 58][857]
+    Limitation Act 2010 (2010 No 110): [section 58][858]
     
     Excise and Excise-equivalent Duties Table (Tobacco Products) Amendment Act 2010 (2010 No 23): [sections 8][637], [9][655], [10(1)][649]
     
     Accident Compensation Amendment Act 2010 (2010 No 1): [section 5(1)(b)][554]
     
-    Tariff Amendment Act 2009 (2009 No 62): [section 9(6)][686]
+    Tariff Amendment Act 2009 (2009 No 62): [section 9(6)][687]
     
     [Customs and Excise Amendment Act 2009][645] (2009 No 61)
     
     Immigration Act 2009 (2009 No 51): [section 406(1)][581]
     
-    Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42): [section 10][1012]
+    Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42): [section 10][1013]
     
-    Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35): [section 161(2)][763]
+    Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35): [section 161(2)][764]
     
-    [Customs and Excise (AANZFTA) Amendment Act 2009][1013] (2009 No 21)
+    [Customs and Excise (AANZFTA) Amendment Act 2009][1014] (2009 No 21)
     
-    Mutual Assistance in Criminal Matters Amendment Act 2009 (2009 No 9): [section 14][772]
+    Mutual Assistance in Criminal Matters Amendment Act 2009 (2009 No 9): [section 14][773]
     
-    Criminal Proceeds (Recovery) Act 2009 (2009 No 8): [sections 180--182][762]
+    Criminal Proceeds (Recovery) Act 2009 (2009 No 8): [sections 180--182][763]
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(i)][726]
+    Policing Act 2008 (2008 No 72): [section 116(a)(i)][727]
     
-    [Customs and Excise Amendment Act (No 3) 2008][1003] (2008 No 68)
+    [Customs and Excise Amendment Act (No 3) 2008][1004] (2008 No 68)
     
-    [Customs and Excise Amendment Act (No 2) 2008][1014] (2008 No 61)
+    [Customs and Excise Amendment Act (No 2) 2008][1015] (2008 No 61)
     
-    [Customs and Excise Amendment Act 2008][1015] (2008 No 50)
+    [Customs and Excise Amendment Act 2008][1016] (2008 No 50)
     
     Land Transport Management Amendment Act 2008 (2008 No 47): [section 49][652]
     
-    [Customs and Excise (Social Assistance) Amendment Act 2008][1016] (2008 No 25)
+    [Customs and Excise (Social Assistance) Amendment Act 2008][1017] (2008 No 25)
     
-    Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109): [section 293][903]
+    Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109): [section 293][904]
     
-    Student Loan Scheme Amendment Act 2007 (2007 No 13): [section 41][896]
+    Student Loan Scheme Amendment Act 2007 (2007 No 13): [section 41][897]
     
-    [Customs and Excise Amendment Act 2007][1017] (2007 No 9)
+    [Customs and Excise Amendment Act 2007][1018] (2007 No 9)
     
-    Evidence Act 2006 (2006 No 69): [section 216][751]
+    Evidence Act 2006 (2006 No 69): [section 216][752]
     
-    Dumping and Countervailing Duties Amendment Act 2006 (2006 No 63): [section 6(2)][751]
+    Dumping and Countervailing Duties Amendment Act 2006 (2006 No 63): [section 6(2)][752]
     
-    Insolvency Act 2006 (2006 No 55): [section 445][671]
+    Insolvency Act 2006 (2006 No 55): [section 445][672]
     
-    [Customs and Excise Amendment Act 2006][1018] (2006 No 7)
+    [Customs and Excise Amendment Act 2006][1019] (2006 No 7)
     
-    Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][754]
+    Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][755]
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][665]
     
     Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2): [sections 39--44][556]
     
-    [Customs and Excise Amendment Act 2004][1019] (2004 No 55)
+    [Customs and Excise Amendment Act 2004][1020] (2004 No 55)
     
-    State Sector Amendment Act 2003 (2003 No 41): [section 14(1)][846]
+    State Sector Amendment Act 2003 (2003 No 41): [section 14(1)][847]
     
     Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003 (2003 No 29): [section 13][553]
     
     Civil Defence Emergency Management Act 2002 (2002 No 33): [section 117][561]
     
-    [Customs and Excise Amendment Act (No 2) 2002][1020] (2002 No 31)
+    [Customs and Excise Amendment Act (No 2) 2002][1021] (2002 No 31)
     
-    Crimes Amendment Act 2002 (2002 No 20): [section 8][707]
+    Crimes Amendment Act 2002 (2002 No 20): [section 8][708]
     
-    Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8): [section 8][879]
+    Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8): [section 8][880]
     
-    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][847]
+    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][848]
     
-    [Customs and Excise Amendment Act 2001][1021] (2001 No 61)
+    [Customs and Excise Amendment Act 2001][1022] (2001 No 61)
     
-    [Customs and Excise Amendment Act (No 2) 2000][1022] (2000 No 58)
+    [Customs and Excise Amendment Act (No 2) 2000][1023] (2000 No 58)
     
     Ministry of Economic Development Act 2000 (2000 No 28): [section 8(1)][560]
     
-    Interpretation Act 1999 (1999 No 85): [section 38(1)][938]
+    Interpretation Act 1999 (1999 No 85): [section 38(1)][939]
     
-    Companies Amendment Act 1999 (1999 No 19): [section 19][672]
+    Companies Amendment Act 1999 (1999 No 19): [section 19][673]
     
-    Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96): [section 11][872]
+    Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96): [section 11][873]
     
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][1023]
+    District Courts Amendment Act 1998 (1998 No 76): [section 7][1024]
     
-    [Customs and Excise Amendment Act (No 2) 1998][1024] (1998 No 38)
+    [Customs and Excise Amendment Act (No 2) 1998][1025] (1998 No 38)
     
-    Postal Services Act 1998 (1998 No 2): [section 62(1)][860]
+    Postal Services Act 1998 (1998 No 2): [section 62(1)][861]
     
-    Misuse of Drugs Amendment Act 1997 (1997 No 57): [section 3][947]
+    Misuse of Drugs Amendment Act 1997 (1997 No 57): [section 3][948]
     
-    [Customs and Excise Act Commencement Order 1996][1025] (SR 1996/229)
+    [Customs and Excise Act Commencement Order 1996][1026] (SR 1996/229)
     
     Customs and Excise Amendment Act 1996 (1996 No 80)
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][874]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][875]
 
 
 
@@ -13270,363 +13282,364 @@ Consequential amendments and transitional provisions
 [663]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300327
 [664]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM319999
 [665]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM333795
-[666]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM327741
-[667]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM322329
-[668]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM387226
-[669]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM387230
-[670]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM387232
-[671]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM387857
-[672]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM22787
-[673]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM387286
-[674]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM322807
-[675]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM323545
-[676]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM145739
-[677]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM137947
-[678]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM244413
-[679]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM146653
-[680]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM137086
-[681]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM112126
-[682]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1514526
-[683]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM353642
-[684]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM353648
-[685]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203625
-[686]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2584133
-[687]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203626
-[688]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203627
-[689]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203638
-[690]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203639
-[691]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2376756
-[692]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3360714
-[693]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300329
-[694]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300330
-[695]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM327394
-[696]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2376761
-[697]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300332
-[698]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136770
-[699]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136781
-[700]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136824
-[701]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136838
-[702]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136839
-[703]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136860
-[704]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136883
-[705]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136947
-[706]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM328720
-[707]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM145458
-[708]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4355336
-[709]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300333
-[710]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2376763
-[711]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136948
-[712]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM334644
-[713]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300334
-[714]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM148477
-[715]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300335
-[716]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300337
-[717]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM334648
-[718]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405931
-[719]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300339
-[720]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405932
-[721]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300341
-[722]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405933
-[723]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM327381
-[724]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300342
-[725]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139640
-[726]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1102349
-[727]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405934
-[728]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405688
-[729]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM148478
-[730]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300350
-[731]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM378170
-[732]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203642
-[733]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300355
-[734]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136949
-[735]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300351
-[736]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405935
-[737]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136771
-[738]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136842
-[739]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136877
-[740]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136888
-[741]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136896
-[742]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300354
-[743]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203643
-[744]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM112127
-[745]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM148486
-[746]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136950
-[747]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405694
-[748]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM112128
-[749]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM393901
-[750]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM148488
-[751]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM394552
-[752]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM364948
-[753]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM364938
-[754]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM367849
-[755]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136951
-[756]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3360366
-[757]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2140932
-[758]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2140998
-[759]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2353130
-[760]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1451012
-[761]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300356
-[762]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1451415
-[763]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2141072
-[764]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM373803
-[765]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2140700
-[766]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM273056
-[767]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=BILL-SCDRAFT-7242
-[768]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1451416
-[769]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM274473
-[770]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM274483
-[771]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1451417
-[772]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1935999
-[773]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136542
-[774]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM148491
-[775]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136952
-[776]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203644
-[777]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3360071
-[778]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3360073
-[779]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3360074
-[780]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2376765
-[781]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM214692
-[782]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405900
-[783]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM35740
-[784]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM398680
-[785]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM398681
-[786]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1441146
-[787]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2391042
-[788]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM55445
-[789]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM55462
-[790]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM278086
-[791]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM278094
-[792]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM278099
-[793]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136953
-[794]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM436222
-[795]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM436239
-[796]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM436279
-[797]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM436407
-[798]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM436453
-[799]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM314143
-[800]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM314148
-[801]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM314163
-[802]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM314171
-[803]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM312894
-[804]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136954
-[805]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203645
-[806]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203646
-[807]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM53580
-[808]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2376767
-[809]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405936
-[810]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM334646
-[811]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300363
-[812]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM149002
-[813]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM149003
-[814]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405937
-[815]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405920
-[816]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300364
-[817]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405921
-[818]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405922
-[819]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405938
-[820]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300365
-[821]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139641
-[822]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300366
-[823]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM76206
-[824]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM314174
-[825]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM314196
-[826]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM333751
-[827]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405924
-[828]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139643
-[829]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM313369
-[830]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM149005
-[831]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM333753
-[832]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300369
-[833]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139644
-[834]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139646
-[835]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139647
-[836]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300371
-[837]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3360067
-[838]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2376770
-[839]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM149013
-[840]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203648
-[841]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405925
-[842]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM149015
-[843]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300373
-[844]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139648
-[845]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM446000
-[846]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM201378
-[847]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM122579
-[848]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM264952
-[849]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3359902
-[850]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2376773
-[851]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2643207
-[852]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM152770
-[853]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM329936
-[854]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM345093
-[855]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2033100
-[856]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM262641
-[857]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2033287
-[858]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM163175
-[859]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM423257
-[860]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM423785
-[861]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203649
-[862]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM314552
-[863]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM359146
-[864]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM362702
-[865]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM362736
-[866]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM362759
-[867]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM365476
-[868]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM186860
-[869]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM359106
-[870]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1440738
-[871]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1440767
-[872]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM429013
-[873]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1210402
-[874]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM162942
-[875]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405926
-[876]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM204446
-[877]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM352812
-[878]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM352822
-[879]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM135324
-[880]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM204451
-[881]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM204473
-[882]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM311866
-[883]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM328088
-[884]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM24025
-[885]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM24040
-[886]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2602799
-[887]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM371835
-[888]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3556102
-[889]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM311346
-[890]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3556114
-[891]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3179936
-[892]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM348353
-[893]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3180423
-[894]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3179903
-[895]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3885511
-[896]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM406777
-[897]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3180446
-[898]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4683020
-[899]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4683025
-[900]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4683026
-[901]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM253157
-[902]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM253150
-[903]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1172310
-[904]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300374
-[905]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM296638
-[906]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203650
-[907]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM315267
-[908]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM48686
-[909]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM381221
-[910]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM414576
-[911]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM33501
-[912]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM222446
-[913]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4417036
-[914]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM316059
-[915]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM297038
-[916]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4417028
-[917]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4417033
-[918]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM112129
-[919]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM319576
-[920]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM426451
-[921]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405927
-[922]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1583413
-[923]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300378
-[924]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139659
-[925]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM149020
-[926]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136956
-[927]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203692
-[928]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2376782
-[929]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2998558
-[930]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2998573
-[931]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139660
-[932]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300379
-[933]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405928
-[934]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM149021
-[935]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300380
-[936]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM31488
-[937]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM426452
-[938]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM31885
-[939]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM82734
-[940]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM173192
-[941]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM328517
-[942]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM330794
-[943]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203694
-[944]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2827725
-[945]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405940
-[946]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM333754
-[947]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM410757
-[948]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380248
-[949]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380247
-[950]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380241
-[951]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380242
-[952]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380245
-[953]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380246
-[954]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380401
-[955]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380298
-[956]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM293032
-[957]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM334626
-[958]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM191737
-[959]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM214686
-[960]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM319569
-[961]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM181593
-[962]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM327314
-[963]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM345633
-[964]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM139815
-[965]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM96438
-[966]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM145345
-[967]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM305941
-[968]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM51357
-[969]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM255625
-[970]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM213004
-[971]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM25985
-[972]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM108024
-[973]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM383234
-[974]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM25319
-[975]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM335660
-[976]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM53795
-[977]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM436557
-[978]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM23089
-[979]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM377454
-[980]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM431204
-[981]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM278324
-[982]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM297916
-[983]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM275032
-[984]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM130706
-[985]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM314307
-[986]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM117360
-[987]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM146563
-[988]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM173374
-[989]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM167922
-[990]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM122430
-[991]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM198506
-[992]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM146843
-[993]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM152650
-[994]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM396810
-[995]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM94264
-[996]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM138395
-[997]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM145378
-[998]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM101358
-[999]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM163182
-[1000]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM130770
-[1001]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM137539
-[1002]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM81034
-[1003]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139624
-[1004]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2998516
-[1005]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2998515
-[1006]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2998532
-[1007]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[1008]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM5195801
-[1009]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4489300
-[1010]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203600
-[1011]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3556108
-[1012]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2251002
-[1013]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2175502
-[1014]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1583400
-[1015]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1447702
-[1016]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1210403
-[1017]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405644
-[1018]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM371828
-[1019]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM299832
-[1020]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM148454
-[1021]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM112115
-[1022]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM75796
-[1023]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM427920
-[1024]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM426450
-[1025]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM220006
+[666]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM5620822
+[667]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM327741
+[668]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM322329
+[669]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM387226
+[670]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM387230
+[671]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM387232
+[672]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM387857
+[673]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM22787
+[674]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM387286
+[675]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM322807
+[676]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM323545
+[677]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM145739
+[678]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM137947
+[679]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM244413
+[680]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM146653
+[681]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM137086
+[682]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM112126
+[683]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1514526
+[684]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM353642
+[685]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM353648
+[686]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203625
+[687]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2584133
+[688]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203626
+[689]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203627
+[690]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203638
+[691]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203639
+[692]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2376756
+[693]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3360714
+[694]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300329
+[695]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300330
+[696]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM327394
+[697]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2376761
+[698]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300332
+[699]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136770
+[700]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136781
+[701]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136824
+[702]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136838
+[703]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136839
+[704]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136860
+[705]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136883
+[706]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136947
+[707]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM328720
+[708]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM145458
+[709]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4355336
+[710]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300333
+[711]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2376763
+[712]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136948
+[713]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM334644
+[714]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300334
+[715]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM148477
+[716]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300335
+[717]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300337
+[718]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM334648
+[719]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405931
+[720]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300339
+[721]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405932
+[722]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300341
+[723]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405933
+[724]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM327381
+[725]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300342
+[726]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139640
+[727]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1102349
+[728]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405934
+[729]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405688
+[730]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM148478
+[731]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300350
+[732]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM378170
+[733]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203642
+[734]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300355
+[735]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136949
+[736]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300351
+[737]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405935
+[738]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136771
+[739]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136842
+[740]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136877
+[741]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136888
+[742]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136896
+[743]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300354
+[744]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203643
+[745]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM112127
+[746]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM148486
+[747]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136950
+[748]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405694
+[749]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM112128
+[750]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM393901
+[751]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM148488
+[752]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM394552
+[753]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM364948
+[754]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM364938
+[755]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM367849
+[756]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136951
+[757]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3360366
+[758]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2140932
+[759]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2140998
+[760]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2353130
+[761]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1451012
+[762]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300356
+[763]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1451415
+[764]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2141072
+[765]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM373803
+[766]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2140700
+[767]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM273056
+[768]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=BILL-SCDRAFT-7242
+[769]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1451416
+[770]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM274473
+[771]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM274483
+[772]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1451417
+[773]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1935999
+[774]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136542
+[775]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM148491
+[776]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136952
+[777]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203644
+[778]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3360071
+[779]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3360073
+[780]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3360074
+[781]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2376765
+[782]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM214692
+[783]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405900
+[784]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM35740
+[785]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM398680
+[786]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM398681
+[787]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1441146
+[788]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2391042
+[789]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM55445
+[790]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM55462
+[791]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM278086
+[792]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM278094
+[793]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM278099
+[794]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136953
+[795]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM436222
+[796]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM436239
+[797]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM436279
+[798]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM436407
+[799]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM436453
+[800]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM314143
+[801]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM314148
+[802]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM314163
+[803]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM314171
+[804]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM312894
+[805]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136954
+[806]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203645
+[807]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203646
+[808]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM53580
+[809]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2376767
+[810]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405936
+[811]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM334646
+[812]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300363
+[813]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM149002
+[814]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM149003
+[815]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405937
+[816]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405920
+[817]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300364
+[818]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405921
+[819]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405922
+[820]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405938
+[821]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300365
+[822]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139641
+[823]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300366
+[824]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM76206
+[825]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM314174
+[826]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM314196
+[827]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM333751
+[828]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405924
+[829]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139643
+[830]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM313369
+[831]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM149005
+[832]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM333753
+[833]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300369
+[834]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139644
+[835]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139646
+[836]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139647
+[837]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300371
+[838]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3360067
+[839]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2376770
+[840]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM149013
+[841]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203648
+[842]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405925
+[843]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM149015
+[844]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300373
+[845]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139648
+[846]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM446000
+[847]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM201378
+[848]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM122579
+[849]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM264952
+[850]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3359902
+[851]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2376773
+[852]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2643207
+[853]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM152770
+[854]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM329936
+[855]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM345093
+[856]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2033100
+[857]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM262641
+[858]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2033287
+[859]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM163175
+[860]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM423257
+[861]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM423785
+[862]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203649
+[863]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM314552
+[864]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM359146
+[865]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM362702
+[866]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM362736
+[867]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM362759
+[868]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM365476
+[869]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM186860
+[870]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM359106
+[871]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1440738
+[872]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1440767
+[873]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM429013
+[874]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1210402
+[875]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM162942
+[876]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405926
+[877]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM204446
+[878]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM352812
+[879]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM352822
+[880]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM135324
+[881]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM204451
+[882]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM204473
+[883]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM311866
+[884]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM328088
+[885]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM24025
+[886]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM24040
+[887]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2602799
+[888]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM371835
+[889]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3556102
+[890]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM311346
+[891]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3556114
+[892]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3179936
+[893]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM348353
+[894]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3180423
+[895]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3179903
+[896]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3885511
+[897]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM406777
+[898]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3180446
+[899]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4683020
+[900]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4683025
+[901]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4683026
+[902]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM253157
+[903]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM253150
+[904]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1172310
+[905]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300374
+[906]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM296638
+[907]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203650
+[908]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM315267
+[909]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM48686
+[910]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM381221
+[911]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM414576
+[912]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM33501
+[913]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM222446
+[914]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4417036
+[915]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM316059
+[916]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM297038
+[917]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4417028
+[918]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4417033
+[919]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM112129
+[920]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM319576
+[921]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM426451
+[922]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405927
+[923]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1583413
+[924]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300378
+[925]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139659
+[926]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM149020
+[927]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136956
+[928]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203692
+[929]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2376782
+[930]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2998558
+[931]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2998573
+[932]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139660
+[933]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300379
+[934]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405928
+[935]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM149021
+[936]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300380
+[937]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM31488
+[938]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM426452
+[939]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM31885
+[940]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM82734
+[941]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM173192
+[942]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM328517
+[943]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM330794
+[944]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203694
+[945]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2827725
+[946]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405940
+[947]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM333754
+[948]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM410757
+[949]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380248
+[950]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380247
+[951]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380241
+[952]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380242
+[953]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380245
+[954]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380246
+[955]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380401
+[956]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380298
+[957]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM293032
+[958]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM334626
+[959]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM191737
+[960]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM214686
+[961]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM319569
+[962]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM181593
+[963]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM327314
+[964]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM345633
+[965]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM139815
+[966]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM96438
+[967]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM145345
+[968]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM305941
+[969]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM51357
+[970]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM255625
+[971]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM213004
+[972]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM25985
+[973]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM108024
+[974]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM383234
+[975]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM25319
+[976]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM335660
+[977]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM53795
+[978]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM436557
+[979]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM23089
+[980]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM377454
+[981]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM431204
+[982]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM278324
+[983]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM297916
+[984]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM275032
+[985]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM130706
+[986]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM314307
+[987]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM117360
+[988]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM146563
+[989]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM173374
+[990]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM167922
+[991]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM122430
+[992]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM198506
+[993]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM146843
+[994]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM152650
+[995]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM396810
+[996]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM94264
+[997]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM138395
+[998]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM145378
+[999]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM101358
+[1000]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM163182
+[1001]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM130770
+[1002]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM137539
+[1003]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM81034
+[1004]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139624
+[1005]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2998516
+[1006]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2998515
+[1007]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2998532
+[1008]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[1009]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM5195801
+[1010]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4489300
+[1011]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203600
+[1012]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3556108
+[1013]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2251002
+[1014]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2175502
+[1015]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1583400
+[1016]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1447702
+[1017]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1210403
+[1018]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405644
+[1019]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM371828
+[1020]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM299832
+[1021]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM148454
+[1022]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM112115
+[1023]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM75796
+[1024]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM427920
+[1025]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM426450
+[1026]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM220006
