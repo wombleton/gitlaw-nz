@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Consumer Affairs.
 
@@ -577,13 +577,15 @@ Misleading and deceptive conduct, false representations, and unfair practices
     
     *   (ba) _publisher_, in relation to a newspaper, means its proprietor:
     
-    *   (c) any 2 or more bodies corporate are to be treated as interconnected if one of them is a body corporate of which the other is a subsidiary (within the meaning of sections 158 and 158A of the Companies Act 1955 or [sections 5][111] and [6][112] of the Companies Act 1993, as the case may be), or if both of them are subsidiaries (within the meaning of those sections) of one and the same body corporate; and _interconnected body corporate_ shall be construed accordingly.
+    *   (c) any 2 or more bodies corporate are to be treated as interconnected if one of them is a body corporate of which the other is a subsidiary (within the meaning of [section 5][111] of the Companies Act 1993), or if both of them are subsidiaries (within the meaning of that section) of one and the same body corporate; and _interconnected body corporate_ shall be construed accordingly.
     
-    Section 15(3)(b): substituted, on 27 April 1995, by [section 4(3)][113] of the Newspapers and Printers Act Repeal Act 1995 (1995 No 13).
+    Section 15(3)(b): substituted, on 27 April 1995, by [section 4(3)][112] of the Newspapers and Printers Act Repeal Act 1995 (1995 No 13).
     
-    Section 15(3)(ba): inserted, on 27 April 1995, by [section 4(3)][113] of the Newspapers and Printers Act Repeal Act 1995 (1995 No 13).
+    Section 15(3)(ba): inserted, on 27 April 1995, by [section 4(3)][112] of the Newspapers and Printers Act Repeal Act 1995 (1995 No 13).
     
-    Section 15(3)(c): substituted, on 1 July 1994, by [section 2][114] of the Company Law Reform (Transitional Provisions) 1994 (1994 No 16).
+    Section 15(3)(c): substituted, on 1 July 1994, by [section 2][113] of the Company Law Reform (Transitional Provisions) 1994 (1994 No 16).
+    
+    Section 15(3)(c): amended, on 5 December 2013, by [section 14][114] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 16 Certain conduct in relation to trade marks prohibited
     
@@ -1979,72 +1981,31 @@ Orders and notices revoked
 
 ##### Footwear Marking Order 1955 (SR 1955/208)
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Fair Trading Act 1986\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][190] ![](/images/external_link.gif).
+*   This is a reprint of the Fair Trading Act 1986 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][191] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][190] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][191] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][192] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][192] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][193] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][193] and [17E][194] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][114]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    [Fair Trading (International Co-operation) Amendment Act 2012][194] (2012 No 86)
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Fair Trading (International Co-operation) Amendment Act 2012][195] (2012 No 86)
-    
-    [Fair Trading (Soliciting on Behalf of Charities) Amendment Act 2012][196] (2012 No 48)
+    [Fair Trading (Soliciting on Behalf of Charities) Amendment Act 2012][195] (2012 No 48)
     
     Search and Surveillance Act 2012 (2012 No 24): [section 316][155]
     
@@ -2056,35 +2017,35 @@ Orders and notices revoked
     
     Disputes Tribunals Amendment Act 2009 (2009 No 22): [section 8][143]
     
-    [Fair Trading Amendment Act 2008][197] (2008 No 52)
+    [Fair Trading Amendment Act 2008][196] (2008 No 52)
     
-    [Fair Trading Amendment Act 2006][198] (2006 No 49)
+    [Fair Trading Amendment Act 2006][197] (2006 No 49)
     
     Crown Entities Act 2004 (2004 No 115): [section 200][99]
     
-    [Fair Trading Amendment Act (No 2) 2003][199] (2003 No 34)
+    [Fair Trading Amendment Act (No 2) 2003][198] (2003 No 34)
     
-    [Fair Trading Amendment Act 2003][200] (2003 No 31)
+    [Fair Trading Amendment Act 2003][199] (2003 No 31)
     
     Trade Marks Act 2002 (2002 No 49): [section 201][117]
     
     Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49): [section 337(1)][146]
     
-    [Fair Trading Amendment Act 2001][201] (2001 No 20)
+    [Fair Trading Amendment Act 2001][200] (2001 No 20)
     
-    [Fair Trading Amendment Act 2000][202] (2000 No 64)
+    [Fair Trading Amendment Act 2000][201] (2000 No 64)
     
     Trade Marks Amendment Act 1999 (1999 No 121): section 8(1)
     
-    [Fair Trading Amendment Act 1997][203] (1997 No 43)
+    [Fair Trading Amendment Act 1997][202] (1997 No 43)
     
     Customs and Excise Act 1996 (1996 No 27): [section 289(1)][122]
     
-    Newspapers and Printers Act Repeal Act 1995 (1995 No 13): [section 4(3)][113]
+    Newspapers and Printers Act Repeal Act 1995 (1995 No 13): [section 4(3)][112]
     
-    [Fair Trading Amendment Act 1994][204] (1994 No 124)
+    [Fair Trading Amendment Act 1994][203] (1994 No 124)
     
-    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][114]
+    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][113]
     
     Health and Safety in Employment Act 1992 (1992 No 96): [section 62(1)][186]
     
@@ -2098,7 +2059,7 @@ Orders and notices revoked
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM96441
 [2]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM96443
 [3]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM96444
@@ -2210,9 +2171,9 @@ Orders and notices revoked
 [109]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198377
 [110]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM313301
 [111]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM319999
-[112]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM320101
-[113]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM359363
-[114]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM328986
+[112]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM359363
+[113]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM328986
+[114]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM5620822
 [115]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM164239
 [116]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM344675
 [117]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM165256
@@ -2288,18 +2249,17 @@ Orders and notices revoked
 [187]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM89991
 [188]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM56592
 [189]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM434460
-[190]: http://www.pco.parliament.govt.nz/reprints/
-[191]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM195439
-[192]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[193]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM195468
-[194]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM195470
-[195]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4484400
-[196]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2571100
-[197]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM1448000
-[198]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM384850
-[199]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198928
-[200]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198369
-[201]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM90703
-[202]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM76803
-[203]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM410335
-[204]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM344669
+[190]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2998516
+[191]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2998515
+[192]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2998532
+[193]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[194]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4484400
+[195]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2571100
+[196]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM1448000
+[197]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM384850
+[198]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198928
+[199]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198369
+[200]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM90703
+[201]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM76803
+[202]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM410335
+[203]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM344669
