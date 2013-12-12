@@ -1,5 +1,5 @@
 Reprint  
-as at 28 November 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -401,9 +401,7 @@ An Act to---
     
     _State housing liabilities_ means all liabilities of the Crown relating to State housing land within the meaning of [section 2(1)][142] of the Housing Act 1955
     
-    _statement of corporate intent_ means the current statement of corporate intent for the company prepared pursuant to [section 15][21]
-    
-    _subsidiary_ has the same meaning as in section 158 of the Companies Act 1955\.
+    _statement of corporate intent_ means the current statement of corporate intent for the company prepared pursuant to [section 15][21].
     
     (2) In this Act, a reference to _transfer_, _authorise_, or _grant_ includes entering into an agreement to transfer, authorise, or grant, as the case may be.
     
@@ -425,6 +423,8 @@ An Act to---
     
     Section 2(1) **shareholding Ministers**: repealed, on 1 July 2001, by [section 24(1)][143] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
+    Section 2(1) **subsidiary**: repealed, on 5 December 2013, by [section 14][145] of the Companies Amendment Act 2013 (2013 No 111).
+    
     Section 2(4): inserted, on 28 November 2013, by [section 4(3)][144] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 3 Act to bind the Crown
@@ -435,7 +435,7 @@ An Act to---
     
 *   This Act is subject to [Schedule 4][134], which provides for transitional and savings provisions.
     
-    Section 3A: inserted, on 28 November 2013, by [section 20][145] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 3A: inserted, on 28 November 2013, by [section 20][146] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ## Part 1  
 Principles
@@ -444,19 +444,19 @@ Principles
     
 *   \[Repealed\]
     
-    Section 4: repealed, on 1 July 2001, by [section 25(1)(c)][146] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 4: repealed, on 1 July 2001, by [section 25(1)(c)][147] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 5 Responsibility of Ministers
     
 *   \[Repealed\]
     
-    Section 5: repealed, on 1 July 2001, by [section 25(1)(c)][146] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 5: repealed, on 1 July 2001, by [section 25(1)(c)][147] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 6 Directors and their role
     
 *   \[Repealed\]
     
-    Section 6: repealed, on 1 July 2001, by [section 25(1)(c)][146] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 6: repealed, on 1 July 2001, by [section 25(1)(c)][147] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 7 Contracts for provision of services
     
@@ -466,99 +466,99 @@ Principles
     
 *   \[Repealed\]
     
-    Section 8: repealed, on 1 July 2001, by [section 25(1)(c)][146] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 8: repealed, on 1 July 2001, by [section 25(1)(c)][147] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ## Part 2  
 Acquisition by the Crown of shares in company
 
 \[Repealed\]
     
-*   Part 2: repealed, on 1 July 2001, pursuant to [section 25(1)(c)][146] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+*   Part 2: repealed, on 1 July 2001, pursuant to [section 25(1)(c)][147] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 9 Acquisition by the Crown of shares in company
     
 *   \[Repealed\]
     
-    Section 9: repealed, on 1 July 2001, by [section 25(1)(c)][146] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 9: repealed, on 1 July 2001, by [section 25(1)(c)][147] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 10 Application of Companies Act 1955
     
 *   \[Repealed\]
     
-    Section 10: repealed, on 1 July 2001, by [section 25(1)(c)][146] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 10: repealed, on 1 July 2001, by [section 25(1)(c)][147] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 11 Shareholding Ministers may subscribe for additional shares and equity bonds in company
     
 *   \[Repealed\]
     
-    Section 11: repealed, on 1 July 2001, by [section 25(1)(c)][146] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 11: repealed, on 1 July 2001, by [section 25(1)(c)][147] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 12 Equity bonds
     
 *   \[Repealed\]
     
-    Section 12: repealed, on 1 July 2001, by [section 25(1)(c)][146] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 12: repealed, on 1 July 2001, by [section 25(1)(c)][147] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 13 Provisions relating to Ministers' shareholding
     
 *   \[Repealed\]
     
-    Section 13: repealed, on 1 July 2001, by [section 25(1)(c)][146] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 13: repealed, on 1 July 2001, by [section 25(1)(c)][147] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 14 Powers of shareholding Ministers in respect of company
     
 *   \[Repealed\]
     
-    Section 14: repealed, on 1 July 2001, by [section 25(1)(c)][146] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 14: repealed, on 1 July 2001, by [section 25(1)(c)][147] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ## Part 3  
 Accountability
 
 \[Repealed\]
     
-*   Part 3: repealed, on 1 July 2001, pursuant to [section 25(1)(c)][146] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+*   Part 3: repealed, on 1 July 2001, pursuant to [section 25(1)(c)][147] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 15 Statement of corporate intent
     
 *   \[Repealed\]
     
-    Section 15: repealed, on 1 July 2001, by [section 25(1)(c)][146] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 15: repealed, on 1 July 2001, by [section 25(1)(c)][147] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 16 Annual report, accounts, and dividend
     
 *   \[Repealed\]
     
-    Section 16: repealed, on 1 July 2001, by [section 25(1)(c)][146] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 16: repealed, on 1 July 2001, by [section 25(1)(c)][147] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 17 Half-yearly reports
     
 *   \[Repealed\]
     
-    Section 17: repealed, on 1 July 2001, by [section 25(1)(c)][146] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 17: repealed, on 1 July 2001, by [section 25(1)(c)][147] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 18 Information to be laid before House of Representatives
     
 *   \[Repealed\]
     
-    Section 18: repealed, on 1 July 2001, by [section 25(1)(c)][146] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 18: repealed, on 1 July 2001, by [section 25(1)(c)][147] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 19 Other information
     
 *   \[Repealed\]
     
-    Section 19: repealed, on 1 July 2001, by [section 25(1)(c)][146] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 19: repealed, on 1 July 2001, by [section 25(1)(c)][147] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 20 Auditor-General to be auditor of company and subsidiaries
     
 *   \[Repealed\]
     
-    Section 20: repealed, on 1 July 2001, by [section 25(1)(c)][146] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 20: repealed, on 1 July 2001, by [section 25(1)(c)][147] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ##### 21 Protection from disclosure of sensitive information
     
 *   \[Repealed\]
     
-    Section 21: repealed, on 1 July 2001, by [section 25(1)(c)][146] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 21: repealed, on 1 July 2001, by [section 25(1)(c)][147] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ## Part 4  
 Vesting of State housing assets and liabilities and Corporation assets and liabilities in company
@@ -589,11 +589,11 @@ Vesting of State housing assets and liabilities and Corporation assets and liabi
     
 *   (1) The Governor-General may from time to time, by Order in Council, appoint a date on which, by virtue of this Act, State housing assets or liabilities and Corporation assets or liabilities referred to in any agreement entered into between the shareholding Ministers and the company, being an agreement specified in the order, shall vest in the company.
     
-    (2) The vesting of State housing assets and liabilities and Corporation assets and liabilities pursuant to this Part shall take effect notwithstanding any enactment or rule of law or agreement and, in particular, but without limitation, the vesting shall take effect notwithstanding any provision contained in the [Land Act 1948][147], the [Reserves Act 1977][148], the [Public Works Act 1981][149], the [Resource Management Act 1991][150], or any other enactment relating to land.
+    (2) The vesting of State housing assets and liabilities and Corporation assets and liabilities pursuant to this Part shall take effect notwithstanding any enactment or rule of law or agreement and, in particular, but without limitation, the vesting shall take effect notwithstanding any provision contained in the [Land Act 1948][148], the [Reserves Act 1977][149], the [Public Works Act 1981][150], the [Resource Management Act 1991][151], or any other enactment relating to land.
     
-    (3) An Order in Council under this section is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][151] and must be presented to the House of Representatives under [section 41][152] of that Act.
+    (3) An Order in Council under this section is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][152] and must be presented to the House of Representatives under [section 41][153] of that Act.
     
-    Section 24(3): replaced, on 5 August 2013, by [section 77(3)][153] of the Legislation Act 2012 (2012 No 119).
+    Section 24(3): replaced, on 5 August 2013, by [section 77(3)][154] of the Legislation Act 2012 (2012 No 119).
 
 ##### 25 Additional provisions relating to vesting
     
@@ -615,7 +615,7 @@ Vesting of State housing assets and liabilities and Corporation assets and liabi
     
     (4) Where State housing assets or liabilities or Corporation assets or liabilities vest in the company pursuant to this Part,---
         
-    *   (a) the publication under the [Acts and Regulations Publication Act 1989][154] or the [Legislation Act 2012][151] of any Order in Council made under [section 24][31] of this Act relating to those State housing assets or liabilities or Corporation assets or liabilities shall be deemed to be notice of the vesting and any third party shall, after the date of such publication, deal with the company in place of the Crown or the Corporation, as the case may be:
+    *   (a) the publication under the [Acts and Regulations Publication Act 1989][155] or the [Legislation Act 2012][152] of any Order in Council made under [section 24][31] of this Act relating to those State housing assets or liabilities or Corporation assets or liabilities shall be deemed to be notice of the vesting and any third party shall, after the date of such publication, deal with the company in place of the Crown or the Corporation, as the case may be:
     
     *   (b) the Crown or the Corporation, as the case may be, shall remain liable to any third party as if the asset or liability had not been vested but shall be indemnified by the company in respect of any liability to any third party:
     
@@ -623,7 +623,7 @@ Vesting of State housing assets and liabilities and Corporation assets and liabi
     
     *   (d) any satisfaction or performance in respect of the asset or liability by any third party to the benefit of the company shall be deemed to be also to the benefit of the Crown or the Corporation, as the case may be.
     
-    Section 25(4)(a): amended, on 5 August 2013, by [section 77(3)][153] of the Legislation Act 2012 (2012 No 119).
+    Section 25(4)(a): amended, on 5 August 2013, by [section 77(3)][154] of the Legislation Act 2012 (2012 No 119).
 
 ##### 26 Vesting of assets where certain terms and conditions prescribed by statute
     
@@ -649,21 +649,21 @@ Vesting of State housing assets and liabilities and Corporation assets and liabi
     
     made between the owner for the time being of the land and the holder for the time being of the lease, licence, permit, or right.
     
-    Compare: 1986 No 124 [s 23(7), (8), (8A)][155]; 1992 No 27 [s 4][156]
+    Compare: 1986 No 124 [s 23(7), (8), (8A)][156]; 1992 No 27 [s 4][157]
 
 ##### 27 Provisions relating to vesting of land
     
-*   (1) Notwithstanding any other provision of this Act, no land that is subject to a lease or licence pursuant to [section 66][157] or [section 66AA][158] of the Land Act 1948 shall be vested in the company pursuant to this Part.
+*   (1) Notwithstanding any other provision of this Act, no land that is subject to a lease or licence pursuant to [section 66][158] or [section 66AA][159] of the Land Act 1948 shall be vested in the company pursuant to this Part.
     
-    (2) Notwithstanding any other provision of this Act, no land for the time being administered by the Department of Conservation under the [Conservation Act 1987][159] or under any enactment specified in [Schedule 1][160] to that Act shall be vested in the company pursuant to this Part.
+    (2) Notwithstanding any other provision of this Act, no land for the time being administered by the Department of Conservation under the [Conservation Act 1987][160] or under any enactment specified in [Schedule 1][161] to that Act shall be vested in the company pursuant to this Part.
     
-    (3) All land that is subject to the [Housing Act 1955][161] and that is vested in the company pursuant to this Part shall cease to be subject to that Act from the date of that vesting unless otherwise expressly provided by this Act or any other Act.
+    (3) All land that is subject to the [Housing Act 1955][162] and that is vested in the company pursuant to this Part shall cease to be subject to that Act from the date of that vesting unless otherwise expressly provided by this Act or any other Act.
     
-    (4) Nothing in [sections 40 to 42][162] of the Public Works Act 1981 shall apply to the vesting of land in the company pursuant to this Part.
+    (4) Nothing in [sections 40 to 42][163] of the Public Works Act 1981 shall apply to the vesting of land in the company pursuant to this Part.
     
-    (5) Nothing in this Part or in any vesting of land in the company pursuant to this Part shall derogate from the provisions of [section 10][163] or [section 11][164] of the Crown Minerals Act 1991\.
+    (5) Nothing in this Part or in any vesting of land in the company pursuant to this Part shall derogate from the provisions of [section 10][164] or [section 11][165] of the Crown Minerals Act 1991\.
     
-    Compare: 1986 No 124 [s 24(2)--(5)][165]; 1987 No 117 s 7(1), (2); 1990 No 31 [s 37][166]; 1991 No 70 [s 121][167]
+    Compare: 1986 No 124 [s 24(2)--(5)][166]; 1987 No 117 s 7(1), (2); 1990 No 31 [s 37][167]; 1991 No 70 [s 121][168]
 
 ##### 28 Title to land vested in company
     
@@ -677,9 +677,9 @@ Vesting of State housing assets and liabilities and Corporation assets and liabi
     
     (2) The powers conferred by subsection (1) may be exercised in respect of any estate or interest that is incorporated in the register by virtue of a lease or licence that has expired or been determined.
     
-    (3) A District Land Registrar shall, on written application by any person authorised by either of the shareholding Ministers, and on payment of the prescribed fee, issue a certificate of title for land, other than land that is registered under the [Land Transfer Act 1952][141], that is vested in the company pursuant to this Part in [form 1][168] of Schedule 1 of the Land Transfer Act 1952, amended as appropriate.
+    (3) A District Land Registrar shall, on written application by any person authorised by either of the shareholding Ministers, and on payment of the prescribed fee, issue a certificate of title for land, other than land that is registered under the [Land Transfer Act 1952][141], that is vested in the company pursuant to this Part in [form 1][169] of Schedule 1 of the Land Transfer Act 1952, amended as appropriate.
     
-    (4) A District Land Registrar shall, on written application by a person authorised by either of the shareholding Ministers and on payment of the prescribed fee, issue a certificate of title for land that is subject to the [Land Transfer Act 1952][141] but for which no certificate of title has been issued and that is vested in the company pursuant to this Part in [form 2][169] of Schedule 1 of the Land Transfer Act 1952, amended as appropriate.
+    (4) A District Land Registrar shall, on written application by a person authorised by either of the shareholding Ministers and on payment of the prescribed fee, issue a certificate of title for land that is subject to the [Land Transfer Act 1952][141] but for which no certificate of title has been issued and that is vested in the company pursuant to this Part in [form 2][170] of Schedule 1 of the Land Transfer Act 1952, amended as appropriate.
     
     (5) Every application under subsection (1) or subsection (3) or subsection (4) shall---
         
@@ -689,9 +689,9 @@ Vesting of State housing assets and liabilities and Corporation assets and liabi
     
     *   (c) in the case of an application under subsection (3), be accompanied by a certificate by the Chief Surveyor for the district concerned as to the correctness of the description.
     
-    (6) Where land is vested in the company pursuant to this Part and at any time before 1 October 1991 (being the date of the coming into force of [Part 10][170] of the Resource Management Act 1991), in relation to a proposed subdivision of the land, either the Crown or the Corporation held an approval under the [Local Government Act 1974][171] (being an approval that expired before that date) or no approval under that Act or any other Act was required, as the case may be,---
+    (6) Where land is vested in the company pursuant to this Part and at any time before 1 October 1991 (being the date of the coming into force of [Part 10][171] of the Resource Management Act 1991), in relation to a proposed subdivision of the land, either the Crown or the Corporation held an approval under the [Local Government Act 1974][172] (being an approval that expired before that date) or no approval under that Act or any other Act was required, as the case may be,---
         
-    *   (a) any person authorised by either of the shareholding Ministers may, notwithstanding the [Resource Management Act 1991][150], lodge for deposit by a District Land Registrar a survey plan in respect of the land and, in any such case, the District Land Registrar shall, notwithstanding that Act but subject to the provisions of any other applicable enactment,---
+    *   (a) any person authorised by either of the shareholding Ministers may, notwithstanding the [Resource Management Act 1991][151], lodge for deposit by a District Land Registrar a survey plan in respect of the land and, in any such case, the District Land Registrar shall, notwithstanding that Act but subject to the provisions of any other applicable enactment,---
             
         *   (i) deposit any such plan; and
         
@@ -699,19 +699,19 @@ Vesting of State housing assets and liabilities and Corporation assets and liabi
         
         
     
-    *   (b) a District Land Registrar shall, notwithstanding the [Resource Management Act 1991][150], on written application by a person authorised by either of the shareholding Ministers, issue a certificate of title for any land that is shown as a separate allotment on any survey plan in respect of the land that was deposited before 1 October 1991\.
+    *   (b) a District Land Registrar shall, notwithstanding the [Resource Management Act 1991][151], on written application by a person authorised by either of the shareholding Ministers, issue a certificate of title for any land that is shown as a separate allotment on any survey plan in respect of the land that was deposited before 1 October 1991\.
     
-    (7) For the purposes of subsection (6), the expressions _allotment_, _subdivision_, and _survey plan_ shall have the same meanings as in the [Resource Management Act 1991][150].
+    (7) For the purposes of subsection (6), the expressions _allotment_, _subdivision_, and _survey plan_ shall have the same meanings as in the [Resource Management Act 1991][151].
     
-    Compare: 1990 No 105 [s 9][172]
+    Compare: 1990 No 105 [s 9][173]
 
 ##### 29 Land certification
     
-*   (1) Before a District Land Registrar issues a certificate of title in respect of any land, other than land that is registered under the [Land Transfer Act 1952][141], that is vested in the company pursuant to this Part, the District Land Registrar shall either receive under the hand of, or request from, the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor a certificate in a form substantially similar to the form set out in [Schedule 2][173] of the Land Act 1948 as to the legal description of the land, any trusts, reservations, or restrictions affecting the land, and any other matters that the District Land Registrar considers appropriate.
+*   (1) Before a District Land Registrar issues a certificate of title in respect of any land, other than land that is registered under the [Land Transfer Act 1952][141], that is vested in the company pursuant to this Part, the District Land Registrar shall either receive under the hand of, or request from, the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor a certificate in a form substantially similar to the form set out in [Schedule 2][174] of the Land Act 1948 as to the legal description of the land, any trusts, reservations, or restrictions affecting the land, and any other matters that the District Land Registrar considers appropriate.
     
     (2) A certificate in accordance with subsection (1) shall be filed by the District Land Registrar in the land registry office and shall be conclusive evidence to the District Land Registrar of the matters required to be stated in it.
     
-    Compare: 1990 No 105 [s 10][174]
+    Compare: 1990 No 105 [s 10][175]
     
     Section 29(1): amended, on 1 July 1996, by section 5 of the Survey Amendment Act 1996 (1996 No 55).
 
@@ -723,7 +723,7 @@ Vesting of State housing assets and liabilities and Corporation assets and liabi
     
     (3) Where a memorial of an easement is entered upon the relevant certificate of title under subsection (2), the easement shall be treated for all purposes including all subsequent dealings as if it had been created under the [Land Transfer Act 1952][141].
     
-    Compare: 1986 No 124 [s 26A][175]; 1992 No 27 [s 6][176]
+    Compare: 1986 No 124 [s 26A][176]; 1992 No 27 [s 6][177]
     
     Section 30(1): amended, on 1 July 1996, by section 5 of the Survey Amendment Act 1996 (1996 No 55).
 
@@ -741,33 +741,33 @@ Vesting of State housing assets and liabilities and Corporation assets and liabi
     
     *   (e) direct any authority or other person to register or record any such vesting or declaration.
     
-    Compare: 1986 No 124 [s 28][177]; 1991 No 69 [s 362][178]
+    Compare: 1986 No 124 [s 28][178]; 1991 No 69 [s 362][179]
 
 ##### 32 Books and documents to remain evidence
     
 *   (1) Any document, matter, or thing, which if this Act had not been passed would have been admissible in evidence in respect of any matter relating to State housing assets or liabilities or Corporation assets or liabilities vested in the company pursuant to this Part for or against the Crown or the Corporation, as the case may be, shall, on and after the date on which those assets or liabilities vest in the company, be admissible in evidence in respect of the same matter for or against the company.
     
-    (2) In this section _document_ has the same meaning as in [section 2(1)][179] of the Evidence Amendment Act (No 2) 1980\.
+    (2) In this section _document_ has the same meaning as in [section 2(1)][180] of the Evidence Amendment Act (No 2) 1980\.
 
 ##### 33 Application of Housing Act 1955 to company
     
-*   (1) The [Housing Act 1955][161] shall have effect in respect of State housing land within the meaning of [section 2(1)][142] of the Housing Act 1955 vested in the company pursuant to this Part where at the date of vesting there is a lease, licence, permit, agreement, or tenancy in respect of that land to which all or any of the following provisions of the Housing Act 1955 (or any corresponding provisions of any former Housing Act, as the case may be) apply, and those provisions shall continue to apply to that lease, licence, permit, agreement, or tenancy (and any renewal thereof pursuant to a right expressly conferred thereby or by any Act) as if the land were still State housing land subject to the Housing Act 1955 and every reference in those provisions to the Minister of Housing or the Corporation included a reference to the company:
+*   (1) The [Housing Act 1955][162] shall have effect in respect of State housing land within the meaning of [section 2(1)][142] of the Housing Act 1955 vested in the company pursuant to this Part where at the date of vesting there is a lease, licence, permit, agreement, or tenancy in respect of that land to which all or any of the following provisions of the Housing Act 1955 (or any corresponding provisions of any former Housing Act, as the case may be) apply, and those provisions shall continue to apply to that lease, licence, permit, agreement, or tenancy (and any renewal thereof pursuant to a right expressly conferred thereby or by any Act) as if the land were still State housing land subject to the Housing Act 1955 and every reference in those provisions to the Minister of Housing or the Corporation included a reference to the company:
         
-    *   (a) [section 17][180] (which relates to the issue of licences to occupy):
+    *   (a) [section 17][181] (which relates to the issue of licences to occupy):
     
-    *   (b) [section 18][181] (which relates to the registration of agreements for sale and licences to occupy):
+    *   (b) [section 18][182] (which relates to the registration of agreements for sale and licences to occupy):
     
-    *   (c) [section 22][182] (which relates to the acceptance of money after the rescission of an agreement for sale):
+    *   (c) [section 22][183] (which relates to the acceptance of money after the rescission of an agreement for sale):
     
-    *   (d) [section 23][183] (which relates to the recovery of possession of land):
+    *   (d) [section 23][184] (which relates to the recovery of possession of land):
     
-    *   (e) [section 37][184] (which relates to the registration of dealings with agreements registered under [section 18][181] of the Housing Act 1955).
+    *   (e) [section 37][185] (which relates to the registration of dealings with agreements registered under [section 18][182] of the Housing Act 1955).
     
-    (2) Without limiting subsection (1), [section 18][181] of the Housing Act 1955 shall apply in relation to every licence to occupy land that is issued by the company under [section 17][180] of that Act as applied by subsection (1) of this section.
+    (2) Without limiting subsection (1), [section 18][182] of the Housing Act 1955 shall apply in relation to every licence to occupy land that is issued by the company under [section 17][181] of that Act as applied by subsection (1) of this section.
     
-    (3) Without limiting the powers of the company, the provisions of [sections 25 to 30][185] of the Housing Act 1955 shall continue to apply in relation to State housing land within the meaning of [section 2(1)][142] of the Housing Act 1955 that has been vested in the company pursuant to this Part, whether or not the land remains vested in the company, as if the land continued to be State housing land subject to that Act and as if the references to the Crown and to the Corporation included a reference to the company.
+    (3) Without limiting the powers of the company, the provisions of [sections 25 to 30][186] of the Housing Act 1955 shall continue to apply in relation to State housing land within the meaning of [section 2(1)][142] of the Housing Act 1955 that has been vested in the company pursuant to this Part, whether or not the land remains vested in the company, as if the land continued to be State housing land subject to that Act and as if the references to the Crown and to the Corporation included a reference to the company.
     
-    (4) [Section 36(5)][186] of the Housing Act 1955 shall continue to apply in relation to State housing land within the meaning of [section 2(1)][142] of the Housing Act 1955 vested in the company pursuant to this Part as if the land continued to be State housing land and as if the references to the Minister of Housing and the Corporation included a reference to the company.
+    (4) [Section 36(5)][187] of the Housing Act 1955 shall continue to apply in relation to State housing land within the meaning of [section 2(1)][142] of the Housing Act 1955 vested in the company pursuant to this Part as if the land continued to be State housing land and as if the references to the Minister of Housing and the Corporation included a reference to the company.
     
     (5) Section 3 of the Housing Amendment Act 1956 shall have effect as if---
         
@@ -779,7 +779,7 @@ Vesting of State housing assets and liabilities and Corporation assets and liabi
 
 ##### 34 Acquisition of land under Public Works Act 1981
     
-*   Where, before the vesting of any land in the company pursuant to this Part, any negotiations or action had been commenced by the Crown or the Corporation in respect of the taking or acquisition or setting apart of the land under the [Public Works Act 1981][149], the taking or acquisition or setting apart may be continued and concluded as if the land were required for a public work.
+*   Where, before the vesting of any land in the company pursuant to this Part, any negotiations or action had been commenced by the Crown or the Corporation in respect of the taking or acquisition or setting apart of the land under the [Public Works Act 1981][150], the taking or acquisition or setting apart may be continued and concluded as if the land were required for a public work.
 
 ##### 35 Return of assets or liabilities by company to the Crown
     
@@ -795,7 +795,7 @@ Vesting of State housing assets and liabilities and Corporation assets and liabi
     
     *   (d) any satisfaction or performance in respect of the assets or liabilities by any third party to the benefit of the Crown shall be deemed to be also to the benefit of the company.
     
-    (3) Where land taken or acquired by the Crown under the [Public Works Act 1981][149] before it was vested in the company pursuant to this Part is vested in the Crown pursuant to an Order in Council under this section, the provisions of that Act shall apply to the land as if the land continued to be land taken or acquired under that Act.
+    (3) Where land taken or acquired by the Crown under the [Public Works Act 1981][150] before it was vested in the company pursuant to this Part is vested in the Crown pursuant to an Order in Council under this section, the provisions of that Act shall apply to the land as if the land continued to be land taken or acquired under that Act.
 
 ##### 36 Title to land vested in the Crown
     
@@ -815,23 +815,23 @@ Vesting of State housing assets and liabilities and Corporation assets and liabi
 
 ##### 37 Application of Housing Act 1955
     
-*   Where land is vested in the Crown pursuant to an Order in Council made under [section 35][42], the [Housing Act 1955][161] shall apply in relation to the land in the same way as it applied before it was vested in the company.
+*   Where land is vested in the Crown pursuant to an Order in Council made under [section 35][42], the [Housing Act 1955][162] shall apply in relation to the land in the same way as it applied before it was vested in the company.
 
 ##### 38 Amendment to section 34 of Housing Act 1955
     
-*   _Amendment(s) incorporated in the [Act(s)][187]_.
+*   _Amendment(s) incorporated in the [Act(s)][188]_.
 
 ##### 39 Amendment to Maori Housing Act 1935
     
-*   _Amendment(s) incorporated in the [Act(s)][188]_.
+*   _Amendment(s) incorporated in the [Act(s)][189]_.
 
 ##### 40 Application of Government Superannuation Fund Act 1956
     
-*   (1) For the purposes of the [Government Superannuation Fund Act 1956][189], a person who, at any time within 9 months after the prescribed date, became or becomes an employee of a specified company and who, immediately before becoming such an employee, was an officer or employee of the Corporation and was a contributor to the Government Superannuation Fund under that Act shall, so long as that person was or continues to be employed by that company, be deemed to have been or to be employed in the government service and that Act shall be deemed to have applied or to apply, as the case may be, to that person as if service with the company were government service.
+*   (1) For the purposes of the [Government Superannuation Fund Act 1956][190], a person who, at any time within 9 months after the prescribed date, became or becomes an employee of a specified company and who, immediately before becoming such an employee, was an officer or employee of the Corporation and was a contributor to the Government Superannuation Fund under that Act shall, so long as that person was or continues to be employed by that company, be deemed to have been or to be employed in the government service and that Act shall be deemed to have applied or to apply, as the case may be, to that person as if service with the company were government service.
     
-    (2) Subject to the [Government Superannuation Fund Act 1956][189], nothing in subsection (1) shall entitle any such person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
+    (2) Subject to the [Government Superannuation Fund Act 1956][190], nothing in subsection (1) shall entitle any such person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
     
-    (3) For the purposes of applying the [Government Superannuation Fund Act 1956][189], in accordance with subsection (1), to a person who is in the service of the company and is a contributor to the Government Superannuation Fund the term _controlling authority_, in relation to that person, means the chief executive of the company.
+    (3) For the purposes of applying the [Government Superannuation Fund Act 1956][190], in accordance with subsection (1), to a person who is in the service of the company and is a contributor to the Government Superannuation Fund the term _controlling authority_, in relation to that person, means the chief executive of the company.
     
     (4) In this section---
         
@@ -845,13 +845,13 @@ Vesting of State housing assets and liabilities and Corporation assets and liabi
     
 *   The enactments specified in the [Schedule][131] are hereby amended in the manner indicated in that schedule.
     
-    Section 41: amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][190] of the Income Tax Act 2004 (2004 No 35).
+    Section 41: amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][191] of the Income Tax Act 2004 (2004 No 35).
 
 ## Part 5  
 Income-related rents, housing eligibility, and other matters
     
-*   Part 5: added, on 9 August 2000, by [section 5][191] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
-*   Part 5 heading: replaced, on 28 November 2013, by [section 5][192] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+*   Part 5: added, on 9 August 2000, by [section 5][192] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
+*   Part 5 heading: replaced, on 28 November 2013, by [section 5][193] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 42 Interpretation
     
@@ -861,7 +861,7 @@ Income-related rents, housing eligibility, and other matters
         
     *   (a) is aged 16 years or over; and
     
-    *   (b) is financially independent (within the meaning of [section 3(1)][193] of the Social Security Act 1964); and
+    *   (b) is financially independent (within the meaning of [section 3(1)][194] of the Social Security Act 1964); and
     
     *   (c) resides or is to reside in the housing; but
     
@@ -905,11 +905,11 @@ Income-related rents, housing eligibility, and other matters
     
     *   (b) does not include income-related rent
     
-    _income-related purpose_ has the same meaning as in [section 3(1)][194] of the Social Security Act 1964
+    _income-related purpose_ has the same meaning as in [section 3(1)][195] of the Social Security Act 1964
     
     _income-related rent_, in relation to a tenant, means a rent calculated for the tenant under the calculation mechanism, or under [Schedule 3][133]
     
-    _market rent_, in relation to any HNZ housing, means the rent for the time being determined by the company (or the Tenancy Tribunal under the [Residential Tenancies Act 1986][195]) as the market rent for that housing
+    _market rent_, in relation to any HNZ housing, means the rent for the time being determined by the company (or the Tenancy Tribunal under the [Residential Tenancies Act 1986][196]) as the market rent for that housing
     
     _partner_, in the phrase ""spouse or partner"" and in related contexts, means, in relation to any person (**A**), a person who is A's civil union partner or de facto partner
     
@@ -945,9 +945,9 @@ Income-related rents, housing eligibility, and other matters
     
     _rent period_, in relation to any HNZ housing, means a period in respect of which the tenant is required by the tenancy agreement to pay rent for it
     
-    _standard tax_ means the amount of tax reckoned on a weekly basis that would be deductible in accordance with tax code ""M"" specified in [section 24B][196] of the Tax Administration Act 1994
+    _standard tax_ means the amount of tax reckoned on a weekly basis that would be deductible in accordance with tax code ""M"" specified in [section 24B][197] of the Tax Administration Act 1994
     
-    _study grant_ means a basic grant or independent circumstances grant under regulations under [section 303][197] of the Education Act 1989 (or an allowance, award, bursary, grant, or scholarship that the company considers to have been established under that section in place of a basic grant or independent circumstances grant)
+    _study grant_ means a basic grant or independent circumstances grant under regulations under [section 303][198] of the Education Act 1989 (or an allowance, award, bursary, grant, or scholarship that the company considers to have been established under that section in place of a basic grant or independent circumstances grant)
     
     _tenant_,---
         
@@ -963,25 +963,25 @@ Income-related rents, housing eligibility, and other matters
     
     (2) [Schedule 2][132] expires on the commencement of the regulations first made under [section 53][64].
     
-    Section 42: added, on 9 August 2000, by [section 5][191] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
+    Section 42: added, on 9 August 2000, by [section 5][192] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
     
-    Section 42(1) **applicable person** paragraph (b): amended, on 26 April 2005, by [section 7][198] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 42(1) **applicable person** paragraph (b): amended, on 26 April 2005, by [section 7][199] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 42(1) **appointed day**: replaced, on 28 November 2013, by [section 6(1)][199] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 42(1) **appointed day**: replaced, on 28 November 2013, by [section 6(1)][200] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
     
-    Section 42(1) **code of conduct**: inserted, on 28 November 2013, by [section 6(2)][199] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 42(1) **code of conduct**: inserted, on 28 November 2013, by [section 6(2)][200] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
     
-    Section 42(1) **financial product**: inserted, on 28 November 2013, by [section 6(2)][199] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 42(1) **financial product**: inserted, on 28 November 2013, by [section 6(2)][200] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
     
-    Section 42(1) **HNZ housing**: repealed, on 28 November 2013, by [section 6(3)][199] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 42(1) **HNZ housing**: repealed, on 28 November 2013, by [section 6(3)][200] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
     
-    Section 42(1) **partner**: replaced, on 28 November 2013, by [section 6(4)][199] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 42(1) **partner**: replaced, on 28 November 2013, by [section 6(4)][200] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
     
-    Section 42(1) **prospective tenant**: replaced, on 28 November 2013, by [section 6(5)][199] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 42(1) **prospective tenant**: replaced, on 28 November 2013, by [section 6(5)][200] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
     
-    Section 42(1) **standard tax**: substituted, on 15 April 2003, by [section 12(1)][200] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 42(1) **standard tax**: substituted, on 15 April 2003, by [section 12(1)][201] of the War Pensions Amendment Act 2003 (2003 No 18).
     
-    Section 42(1) **standard tax**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][201] of the Income Tax Act 2007 (2007 No 97).
+    Section 42(1) **standard tax**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][202] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 43 Income-related rent
     
@@ -1007,9 +1007,9 @@ Income-related rents, housing eligibility, and other matters
     
     (6) Subsections (2) to (4) are subject to [section 45][53].
     
-    Section 43: added, on 9 August 2000, by [section 5][191] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
+    Section 43: added, on 9 August 2000, by [section 5][192] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
     
-    Section 43(5): amended, on 28 November 2013, by [section 7][202] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 43(5): amended, on 28 November 2013, by [section 7][203] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 44 Backdating
     
@@ -1041,7 +1041,7 @@ Income-related rents, housing eligibility, and other matters
     
     (3) The company may treat an application to which subsection (2) applies as if the company had had all information reasonably needed to calculate an income-related rent for the housing concerned at any time it determines between the time the application was made and the later time concerned.
     
-    Section 44: added, on 9 August 2000, by [section 5][191] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
+    Section 44: added, on 9 August 2000, by [section 5][192] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
 
 ##### 45 Changes in rent
     
@@ -1051,23 +1051,23 @@ Income-related rents, housing eligibility, and other matters
     
     *   (b) is empowered by [section 43][51] or [section 57(2)][70] or [section 58A(2)][78] to increase the rent for the housing, and decides to do so.
     
-    (2) The company must, in accordance with [section 136][203] of the Residential Tenancies Act 1986, give a tenant to whom subsection (1) applies written notice of the reduction or increase in rent concerned, stating---
+    (2) The company must, in accordance with [section 136][204] of the Residential Tenancies Act 1986, give a tenant to whom subsection (1) applies written notice of the reduction or increase in rent concerned, stating---
         
     *   (a) the day on which it takes effect (being a day no earlier than the commencement of the first rent period commencing after the appointed day); and
     
-    *   (b) the matters referred to in paragraphs (j) and (k) of [section 13A][204] of that Act.
+    *   (b) the matters referred to in paragraphs (j) and (k) of [section 13A][205] of that Act.
     
-    (3) In the case of an increase in rent, the notice must comply with [section 24][205] of the Residential Tenancies Act 1986\.
+    (3) In the case of an increase in rent, the notice must comply with [section 24][206] of the Residential Tenancies Act 1986\.
     
     (4) In the case of a reduction in rent, the notice has effect as a variation of the tenancy agreement for the housing, whether or not the tenant signs it.
     
-    Section 45: added, on 9 August 2000, by [section 5][191] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
+    Section 45: added, on 9 August 2000, by [section 5][192] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
     
-    Section 45(1)(b): amended, on 28 November 2013, by [section 8][206] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 45(1)(b): amended, on 28 November 2013, by [section 8][207] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 #### Calculating income-related rents
     
-*   Heading: added, on 9 August 2000, by [section 5][191] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
+*   Heading: added, on 9 August 2000, by [section 5][192] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
 
 ##### 46 Calculating income-related rents
     
@@ -1083,7 +1083,7 @@ Income-related rents, housing eligibility, and other matters
     
     *   (b) the prescribed proportion of any amount by which that sum is greater than that threshold; and
     
-    *   (c) if any of the applicable persons is eligible to receive family tax credits under [subparts MA to MF][207] and [MZ][208] of the Income Tax Act 2007, the prescribed proportion of the lesser of---
+    *   (c) if any of the applicable persons is eligible to receive family tax credits under [subparts MA to MF][208] and [MZ][209] of the Income Tax Act 2007, the prescribed proportion of the lesser of---
             
         *   (i) the total of the amounts that the applicable persons are eligible to receive as family tax credits under that subpart; and
         
@@ -1093,9 +1093,9 @@ Income-related rents, housing eligibility, and other matters
     
     (3) A rent calculated by reference to benefit levels is the sum of---
         
-    *   (a) the prescribed proportion of the rate (before abatement) stated in paragraphs (a) to (j) of clause 1 of [Schedule 9][209] of the Social Security Act 1964 that would be appropriate if the tenant were a beneficiary; and
+    *   (a) the prescribed proportion of the rate (before abatement) stated in paragraphs (a) to (j) of clause 1 of [Schedule 9][210] of the Social Security Act 1964 that would be appropriate if the tenant were a beneficiary; and
     
-    *   (b) if any of the applicable persons is eligible to receive family tax credits under [subparts MA to MF][207] and [MZ][208] of the Income Tax Act 2007, the prescribed proportion of the lesser of---
+    *   (b) if any of the applicable persons is eligible to receive family tax credits under [subparts MA to MF][208] and [MZ][209] of the Income Tax Act 2007, the prescribed proportion of the lesser of---
             
         *   (i) the total of the amounts that the applicable persons are eligible to receive as family tax credits under that subpart; and
         
@@ -1109,21 +1109,21 @@ Income-related rents, housing eligibility, and other matters
     
     (6) \[Repealed\]
     
-    Section 46: added, on 9 August 2000, by [section 5][191] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
+    Section 46: added, on 9 August 2000, by [section 5][192] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
     
-    Section 46(2)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][201] of the Income Tax Act 2007 (2007 No 97).
+    Section 46(2)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][202] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 46(2)(c): amended (with effect on 1 April 2007), on 19 December 2007, by [section 295][210] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 46(2)(c): amended (with effect on 1 April 2007), on 19 December 2007, by [section 295][211] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 46(2)(c)(i): amended (with effect on 1 April 2007), on 19 December 2007, by [section 295][210] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 46(2)(c)(i): amended (with effect on 1 April 2007), on 19 December 2007, by [section 295][211] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 46(3)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][201] of the Income Tax Act 2007 (2007 No 97).
+    Section 46(3)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][202] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 46(3)(b): amended (with effect on 1 April 2007), on 19 December 2007, by [section 295][210] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 46(3)(b): amended (with effect on 1 April 2007), on 19 December 2007, by [section 295][211] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 46(3)(b)(i): amended (with effect on 1 April 2007), on 19 December 2007, by [section 295][210] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 46(3)(b)(i): amended (with effect on 1 April 2007), on 19 December 2007, by [section 295][211] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 46(6): repealed, on 1 April 2007, by [section 3(1)][211] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 46(6): repealed, on 1 April 2007, by [section 3(1)][212] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 47 Assessable income
     
@@ -1137,7 +1137,7 @@ Income-related rents, housing eligibility, and other matters
         
         
     
-    *   (b) if the company considers that any premium is payable in respect of any part of it under [section 219(1)][212] of the Accident Compensation Act 2001, after the deduction of whichever of the following the company thinks fit in the particular case:
+    *   (b) if the company considers that any premium is payable in respect of any part of it under [section 219(1)][213] of the Accident Compensation Act 2001, after the deduction of whichever of the following the company thinks fit in the particular case:
             
         *   (i) any premium actually paid in respect of that part; or
         
@@ -1145,7 +1145,7 @@ Income-related rents, housing eligibility, and other matters
         
         
     
-    *   (c) if the company considers that any levy is payable in respect of any part of it under [section 219(2)][212] of the Accident Compensation Act 2001, after the deduction of whichever of the following the company thinks fit in the particular case:
+    *   (c) if the company considers that any levy is payable in respect of any part of it under [section 219(2)][213] of the Accident Compensation Act 2001, after the deduction of whichever of the following the company thinks fit in the particular case:
             
         *   (i) any levy actually paid in respect of that part; or
         
@@ -1153,15 +1153,15 @@ Income-related rents, housing eligibility, and other matters
         
         
     
-    Section 47: added, on 9 August 2000, by [section 5][191] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
+    Section 47: added, on 9 August 2000, by [section 5][192] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
     
-    Section 47(b): amended, on 3 March 2010, pursuant to [section 5(1)(b)][213] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 47(b): amended, on 3 March 2010, pursuant to [section 5(1)(b)][214] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 47(b): amended, on 1 April 2002, by [section 337(1)][214] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
+    Section 47(b): amended, on 1 April 2002, by [section 337(1)][215] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
     
-    Section 47(c): amended, on 3 March 2010, pursuant to [section 5(1)(b)][213] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 47(c): amended, on 3 March 2010, pursuant to [section 5(1)(b)][214] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 47(c): amended, on 1 April 2002, pursuant to [section 339(1)][215] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
+    Section 47(c): amended, on 1 April 2002, pursuant to [section 339(1)][216] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
 
 ##### 48 Certain amounts included in weekly income
     
@@ -1177,7 +1177,7 @@ Income-related rents, housing eligibility, and other matters
     
     (4) Subsection (2) overrides subsection (1) and [section 47][56].
     
-    Section 48: added, on 9 August 2000, by [section 5][191] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
+    Section 48: added, on 9 August 2000, by [section 5][192] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
 
 ##### 49 Calculation mechanism may include amounts in or exclude amounts from weekly income
     
@@ -1191,11 +1191,11 @@ Income-related rents, housing eligibility, and other matters
     
     (3) Subsection (1)(b) overrides [sections 47][56] and [48(1)][57].
     
-    Section 49: added, on 9 August 2000, by [section 5][191] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
+    Section 49: added, on 9 August 2000, by [section 5][192] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
 
 #### Assessable assets, and deprivation of income or property
     
-*   Heading: added, on 9 August 2000, by [section 5][191] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
+*   Heading: added, on 9 August 2000, by [section 5][192] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
 
 ##### 50 Assessable assets
     
@@ -1207,7 +1207,7 @@ Income-related rents, housing eligibility, and other matters
     
     (2) In subsection (1), _assessable assets_ has the meaning prescribed.
     
-    Section 50: added, on 9 August 2000, by [section 5][191] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
+    Section 50: added, on 9 August 2000, by [section 5][192] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
 
 ##### 51 Assessable income may be adjusted in certain cases
     
@@ -1223,19 +1223,19 @@ Income-related rents, housing eligibility, and other matters
     
     (3) In this section,---
     
-    _income_ does not include any amount that an applicable person might be considered to derive from any impairment lump sum under [Schedule 1][216] of the Accident Compensation Act 2001 or lump sum payment of an independence allowance under Part 13 or Part 4 of Schedule 1 of the Accident Insurance Act 1998 received by the person on or after the date on which this subsection comes into force for the period of 12 months following the receipt of that payment
+    _income_ does not include any amount that an applicable person might be considered to derive from any impairment lump sum under [Schedule 1][217] of the Accident Compensation Act 2001 or lump sum payment of an independence allowance under Part 13 or Part 4 of Schedule 1 of the Accident Insurance Act 1998 received by the person on or after the date on which this subsection comes into force for the period of 12 months following the receipt of that payment
     
     _property_ does not include any such impairment lump sum or a lump sum payment of an independence allowance received by an applicable person for the period of 12 months following the receipt of that payment.
     
-    Section 51: added, on 9 August 2000, by [section 5][191] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
+    Section 51: added, on 9 August 2000, by [section 5][192] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
     
-    Section 51(3): added, on 1 April 2002, by [section 337(1)][214] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
+    Section 51(3): added, on 1 April 2002, by [section 337(1)][215] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
     
-    Section 51(3) **income**: amended, on 3 March 2010, pursuant to [section 5(1)(b)][213] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 51(3) **income**: amended, on 3 March 2010, pursuant to [section 5(1)(b)][214] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 #### Estimating weekly income, and regulations for purposes of calculation mechanism
     
-*   Heading: added, on 9 August 2000, by [section 5][191] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
+*   Heading: added, on 9 August 2000, by [section 5][192] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
 
 ##### 52 Estimating weekly income
     
@@ -1251,9 +1251,9 @@ Income-related rents, housing eligibility, and other matters
     
     *   (b) there may be deducted from that amount any items by which the company is satisfied the income is likely to be reduced, and there may be added to that amount any items by which the company is satisfied the income is likely to be increased.
     
-    Section 52: added, on 9 August 2000, by [section 5][191] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
+    Section 52: added, on 9 August 2000, by [section 5][192] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
     
-    Section 52: amended, on 28 November 2013, by [section 9][217] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 52: amended, on 28 November 2013, by [section 9][218] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 53 Regulations for purposes of calculation mechanism
     
@@ -1283,29 +1283,29 @@ Income-related rents, housing eligibility, and other matters
         
         
     
-    *   (c) prescribe a threshold (or a means for calculating a threshold) for the purposes of any provision by reference to the rate of a benefit within the meaning of [section 3(1)][194] of the Social Security Act 1964, or the rates of 2 or more such benefits.
+    *   (c) prescribe a threshold (or a means for calculating a threshold) for the purposes of any provision by reference to the rate of a benefit within the meaning of [section 3(1)][195] of the Social Security Act 1964, or the rates of 2 or more such benefits.
     
     (3) A means for calculating may comprise any number of mechanisms and parameters.
     
     (4) Subsection (2) does not limit the generality of subsection (1).
     
-    (5) Nothing in this section affects the application of the [New Zealand Bill of Rights Act 1990][218].
+    (5) Nothing in this section affects the application of the [New Zealand Bill of Rights Act 1990][219].
     
     (6) \[Repealed\]
     
-    Section 53: added, on 9 August 2000, by [section 5][191] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
+    Section 53: added, on 9 August 2000, by [section 5][192] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
     
-    Section 53(2)(b)(i): amended, on 26 April 2005, by [section 7][198] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 53(2)(b)(i): amended, on 26 April 2005, by [section 7][199] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 53(2)(b)(ii): amended, on 26 April 2005, by [section 7][198] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 53(2)(b)(ii): amended, on 26 April 2005, by [section 7][199] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 53(5): replaced, on 28 November 2013, by [section 10][219] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 53(5): replaced, on 28 November 2013, by [section 10][220] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
     
-    Section 53(6): repealed, on 28 November 2013, by [section 10][219] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 53(6): repealed, on 28 November 2013, by [section 10][220] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 #### Transitional matters
     
-*   Heading: added, on 9 August 2000, by [section 5][191] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
+*   Heading: added, on 9 August 2000, by [section 5][192] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
 
 ##### 54 Transitional arrangements for certain tenants
     
@@ -1315,17 +1315,17 @@ Income-related rents, housing eligibility, and other matters
     
     would be greater than---
         
-    *   (b) the rent, after the deduction of any accommodation assistance (within the meaning of [clause 1][220] of Schedule 3) to which the tenant was entitled, that the tenant was required to pay for the last rent period commencing before the appointed day.
+    *   (b) the rent, after the deduction of any accommodation assistance (within the meaning of [clause 1][221] of Schedule 3) to which the tenant was entitled, that the tenant was required to pay for the last rent period commencing before the appointed day.
     
     (2) [Schedule 3][133] overrides [section 43][51].
     
-    Section 54: added, on 9 August 2000, by [section 5][191] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
+    Section 54: added, on 9 August 2000, by [section 5][192] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
 
 ##### 55 Responsible department may verify entitlement
     
 *   For the purposes of [section 54][66] and [Schedule 3][133],---
         
-    *   (a) the company may, with the consent of the applicable persons concerned, give the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the [Social Security Act 1964][221] details of---
+    *   (a) the company may, with the consent of the applicable persons concerned, give the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the [Social Security Act 1964][222] details of---
             
         *   (i) those persons' assessable incomes and the components of those incomes, and their cash assets, as supplied to the company under [section 43(1)][51]; and
         
@@ -1337,7 +1337,7 @@ Income-related rents, housing eligibility, and other matters
     
     *   (b) an officer or employee of the department may, on the basis of the details given,---
             
-        *   (i) certify in writing to the applicable persons the kinds of accommodation assistance (within the meaning of [clause 1][220] of Schedule 3) they were receiving and, in respect of assistance of each kind, whether they were receiving more than their entitlement, their entitlement, or less than their entitlement immediately before the appointed day; and
+        *   (i) certify in writing to the applicable persons the kinds of accommodation assistance (within the meaning of [clause 1][221] of Schedule 3) they were receiving and, in respect of assistance of each kind, whether they were receiving more than their entitlement, their entitlement, or less than their entitlement immediately before the appointed day; and
         
         *   (ii) give the company a copy of the certificate; and
         
@@ -1345,17 +1345,17 @@ Income-related rents, housing eligibility, and other matters
     
     *   (c) the company may rely on the certificate.
     
-    Section 55: added, on 9 August 2000, by [section 5][191] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
+    Section 55: added, on 9 August 2000, by [section 5][192] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
     
-    Section 55 heading: amended (with effect on 1 October 2001), on 2 August 2003, by [section 12(1)][222] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 55 heading: amended (with effect on 1 October 2001), on 2 August 2003, by [section 12(1)][223] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 55(a): amended (with effect on 1 October 2001), on 2 August 2003, by [section 12(1)][222] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 55(a): amended (with effect on 1 October 2001), on 2 August 2003, by [section 12(1)][223] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 55(b): amended (with effect on 1 October 2001), on 2 August 2003, by [section 12(1)][222] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 55(b): amended (with effect on 1 October 2001), on 2 August 2003, by [section 12(1)][223] of the State Sector Amendment Act 2003 (2003 No 41).
 
 #### Administrative matters and review
     
-*   Heading: replaced, on 28 November 2013, by [section 11][223] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+*   Heading: replaced, on 28 November 2013, by [section 11][224] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 56 Tenant's duty to advise change of circumstances
     
@@ -1379,7 +1379,7 @@ Income-related rents, housing eligibility, and other matters
     
     (3) Every person who is a prospective tenant must promptly advise HNZ of any change in the circumstances of the person or the person's spouse or partner likely to result in the person not or no longer being eligible to be allocated HNZ housing or allocated, assigned, or let any particular HNZ housing.
     
-    Section 56: replaced, on 28 November 2013 (except as it relates to subsection (2) of section 56), by [section 12][224] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 56: replaced, on 28 November 2013 (except as it relates to subsection (2) of section 56), by [section 12][225] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
     
     Section 56(2): not yet in force.
 
@@ -1407,7 +1407,7 @@ Income-related rents, housing eligibility, and other matters
     
     *   (b) does not have to act under subsection (2)(b) unless, in the company's opinion, there has been a material underpayment of rent for the housing concerned.
     
-    Section 57: added, on 9 August 2000, by [section 5][191] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
+    Section 57: added, on 9 August 2000, by [section 5][192] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
 
 ##### 57A HNZ may review housing eligibility
     
@@ -1421,11 +1421,11 @@ Income-related rents, housing eligibility, and other matters
     
     (2) Nothing in this section limits or affects any power of HNZ to conduct a review under any other enactment.
     
-    Section 57A: inserted, on 28 November 2013, by [section 13][225] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 57A: inserted, on 28 November 2013, by [section 13][226] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 #### Investigations and information-gathering powers
     
-*   Heading: inserted, on 28 November 2013, by [section 13][225] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+*   Heading: inserted, on 28 November 2013, by [section 13][226] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 57B HNZ may investigate circumstances relevant to income-related rent
     
@@ -1447,7 +1447,7 @@ Income-related rents, housing eligibility, and other matters
         
         
     
-    Section 57B: inserted, on 28 November 2013, by [section 13][225] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 57B: inserted, on 28 November 2013, by [section 13][226] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 57C HNZ may investigate circumstances of prospective tenant
     
@@ -1457,7 +1457,7 @@ Income-related rents, housing eligibility, and other matters
     
     *   (b) the housing needs of the prospective tenant.
     
-    Section 57C: inserted, on 28 November 2013, by [section 13][225] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 57C: inserted, on 28 November 2013, by [section 13][226] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 57D HNZ may investigate circumstances relevant to continued eligibility
     
@@ -1469,7 +1469,7 @@ Income-related rents, housing eligibility, and other matters
     
     *   (c) the eligibility of the tenant to continue to be allocated, assigned, or let particular HNZ housing or to be allocated, assigned, or let some other HNZ housing.
     
-    Section 57D: inserted, on 28 November 2013, by [section 13][225] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 57D: inserted, on 28 November 2013, by [section 13][226] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 57E HNZ may investigate circumstances of applicant for financial product
     
@@ -1479,7 +1479,7 @@ Income-related rents, housing eligibility, and other matters
     
     *   (b) any person who, at the time of application, is the spouse or partner of the applicant.
     
-    Section 57E: inserted, on 28 November 2013, by [section 13][225] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 57E: inserted, on 28 November 2013, by [section 13][226] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 58 HNZ may ask questions, etc
     
@@ -1507,7 +1507,7 @@ Income-related rents, housing eligibility, and other matters
         
         
     
-    Section 58: replaced, on 28 November 2013, by [section 14][226] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 58: replaced, on 28 November 2013, by [section 14][227] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 58A Actions that may be taken by HNZ
     
@@ -1565,7 +1565,7 @@ Income-related rents, housing eligibility, and other matters
         
         
     
-    Section 58A: inserted, on 28 November 2013, by [section 14][226] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 58A: inserted, on 28 November 2013, by [section 14][227] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 59 HNZ may seek information
     
@@ -1583,9 +1583,9 @@ Income-related rents, housing eligibility, and other matters
         
         
     
-    (2) The person does not have to comply with the request, but (for the purposes of [section 7(1)][227] of the Privacy Act 1993) this subsection authorises the person to make personal information available in response to the request.
+    (2) The person does not have to comply with the request, but (for the purposes of [section 7(1)][228] of the Privacy Act 1993) this subsection authorises the person to make personal information available in response to the request.
     
-    Section 59: replaced, on 28 November 2013, by [section 15][228] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 59: replaced, on 28 November 2013, by [section 15][229] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 59A HNZ may require information for certain purposes
     
@@ -1617,7 +1617,7 @@ Income-related rents, housing eligibility, and other matters
     
     *   (b) in the manner specified in the notice, without charge to HNZ.
     
-    (5) This subsection authorises (for the purposes of [section 7(1)][227] of the Privacy Act 1993) any person who is required to provide information under subsection (1) or (3) to make personal information available in response to the requirement.
+    (5) This subsection authorises (for the purposes of [section 7(1)][228] of the Privacy Act 1993) any person who is required to provide information under subsection (1) or (3) to make personal information available in response to the requirement.
     
     (6) Subsection (1) does not---
         
@@ -1645,11 +1645,11 @@ Income-related rents, housing eligibility, and other matters
     
     (9) In this section,---
     
-    _lawyer_ means a barrister or solicitor of the High Court, and includes a firm or an incorporated law firm (within the meaning of the [Lawyers and Conveyancers Act 2006][229]) in which the lawyer is, or is held out to be, a partner, director, or shareholder
+    _lawyer_ means a barrister or solicitor of the High Court, and includes a firm or an incorporated law firm (within the meaning of the [Lawyers and Conveyancers Act 2006][230]) in which the lawyer is, or is held out to be, a partner, director, or shareholder
     
-    _trust account_, in relation to a lawyer, has the same meaning as in [section 6][230] of the Lawyers and Conveyancers Act 2006\.
+    _trust account_, in relation to a lawyer, has the same meaning as in [section 6][231] of the Lawyers and Conveyancers Act 2006\.
     
-    Section 59A: inserted, on 28 November 2013, by [section 15][228] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 59A: inserted, on 28 November 2013, by [section 15][229] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 60 Recovery where rate of rent too low
     
@@ -1671,15 +1671,15 @@ Income-related rents, housing eligibility, and other matters
     
     *   (b) the income-related rent the tenant was in fact required to pay for the housing in respect of the period.
     
-    (3) Amounts recoverable under subsection (2) are not rent in arrear for the purposes of the [Residential Tenancies Act 1986][195].
+    (3) Amounts recoverable under subsection (2) are not rent in arrear for the purposes of the [Residential Tenancies Act 1986][196].
     
-    Section 60: replaced, on 28 November 2013, by [section 15][228] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 60: replaced, on 28 November 2013, by [section 15][229] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 61 Allocation of HNZ housing
     
 *   (1) The matters to which HNZ may have regard in doing any of the things stated in subsection (2) may include criteria that have, or are capable of having, the effect that tenants, people who are or might be applicable persons in relation to those tenants, and other people who are or might be residing in the housing concerned, are treated differently on the basis of---
         
-    *   (a) their marital status, disability or absence of disability, age, or family status (as the terms marital status, disability, age, and family status are defined in [section 21(1)(b), (h), (i), and (l)][231] of the Human Rights Act 1993); or
+    *   (a) their marital status, disability or absence of disability, age, or family status (as the terms marital status, disability, age, and family status are defined in [section 21(1)(b), (h), (i), and (l)][232] of the Human Rights Act 1993); or
     
     *   (b) whether or not they are resident, or ordinarily resident, or permanently resident, or lawfully resident, in New Zealand; or
     
@@ -1707,13 +1707,13 @@ Income-related rents, housing eligibility, and other matters
     
     *   (h) retaining the current allocation, assignment, or letting of particular HNZ housing to a tenant.
     
-    (3) Nothing in this section affects the application of the [New Zealand Bill of Rights Act 1990][218].
+    (3) Nothing in this section affects the application of the [New Zealand Bill of Rights Act 1990][219].
     
-    Section 61: replaced, on 28 November 2013, by [section 15][228] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 61: replaced, on 28 November 2013, by [section 15][229] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 #### Offences
     
-*   Heading: inserted, on 28 November 2013, by [section 15][228] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+*   Heading: inserted, on 28 November 2013, by [section 15][229] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 61A Offence not to provide information or to provide false or misleading information
     
@@ -1731,7 +1731,7 @@ Income-related rents, housing eligibility, and other matters
     
     (3) A person who commits an offence against this section is liable on conviction to a fine not exceeding $2,000\.
     
-    Section 61A: inserted, on 28 November 2013, by [section 15][228] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 61A: inserted, on 28 November 2013, by [section 15][229] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 61B Offence to mislead HNZ for certain purposes or results
     
@@ -1767,11 +1767,11 @@ Income-related rents, housing eligibility, and other matters
     
     (4) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $5,000, or both.
     
-    Section 61B: inserted, on 28 November 2013, by [section 15][228] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 61B: inserted, on 28 November 2013, by [section 15][229] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 #### Appeals
     
-*   Heading: replaced, on 28 November 2013, by [section 15][228] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+*   Heading: replaced, on 28 November 2013, by [section 15][229] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 62 Rights of appeal
     
@@ -1787,9 +1787,9 @@ Income-related rents, housing eligibility, and other matters
         
         
     
-    (2) Nothing in this section and [sections 62A to 62C][88], or in any regulations under [section 63][91], limits or affects the rights of any tenant of HNZ housing or of HNZ under the [Residential Tenancies Act 1986][195].
+    (2) Nothing in this section and [sections 62A to 62C][88], or in any regulations under [section 63][91], limits or affects the rights of any tenant of HNZ housing or of HNZ under the [Residential Tenancies Act 1986][196].
     
-    Section 62: replaced, on 28 November 2013, by [section 15][228] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 62: replaced, on 28 November 2013, by [section 15][229] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 62A Tenant may appeal
     
@@ -1799,7 +1799,7 @@ Income-related rents, housing eligibility, and other matters
     
     *   (b) has no such process for the time being established.
     
-    Section 62A: inserted, on 28 November 2013, by [section 15][228] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 62A: inserted, on 28 November 2013, by [section 15][229] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 62B Powers of appeal body
     
@@ -1827,7 +1827,7 @@ Income-related rents, housing eligibility, and other matters
     
     *   (b) may award costs against the appellant in respect of any appeal that is refused, if the appeal body believes that the appeal was frivolous or vexatious, or should not have been brought.
     
-    Section 62B: inserted, on 28 November 2013, by [section 15][228] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 62B: inserted, on 28 November 2013, by [section 15][229] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 62C Where appeal body established by regulations
     
@@ -1845,7 +1845,7 @@ Income-related rents, housing eligibility, and other matters
     
     *   (c) except as provided by this section, the case must be dealt with in accordance with the rules of the District Court.
     
-    Section 62C: inserted, on 28 November 2013, by [section 15][228] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 62C: inserted, on 28 November 2013, by [section 15][229] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 63 Regulations for purposes other than calculation mechanism
     
@@ -1855,33 +1855,33 @@ Income-related rents, housing eligibility, and other matters
             
         *   (i) establishing a body to dispose of appeals under those sections, prescribing how its members are to be appointed, and prescribing how it is to hear and dispose of appeals; or
         
-        *   (ii) providing that such appeals are to be made to the Social Security Appeal Authority established by the [Social Security Act 1964][221] as if they were appeals against decisions or determinations under that Act, and providing that [sections 12J to 12N][232], and [12P to 12R][233] of that Act apply, with or without modification, to the hearing and disposal of appeals; or
+        *   (ii) providing that such appeals are to be made to the Social Security Appeal Authority established by the [Social Security Act 1964][222] as if they were appeals against decisions or determinations under that Act, and providing that [sections 12J to 12N][233], and [12P to 12R][234] of that Act apply, with or without modification, to the hearing and disposal of appeals; or
         
-        *   (iii) providing that such appeals are to be made to a District Court, and providing that the [District Courts Act 1947][234] and the [High Court Rules][235] apply, with or without modification, to the hearing and disposal of appeals; or
+        *   (iii) providing that such appeals are to be made to a District Court, and providing that the [District Courts Act 1947][235] and the [High Court Rules][236] apply, with or without modification, to the hearing and disposal of appeals; or
         
-        *   (iv) providing that such appeals are to be made to the Tenancy Tribunal established by the [Residential Tenancies Act 1986][195] as if they were applications under that Act, and providing that [sections 86 to 120][236] of that Act apply, with or without modification, to the hearing and disposal of appeals:
+        *   (iv) providing that such appeals are to be made to the Tenancy Tribunal established by the [Residential Tenancies Act 1986][196] as if they were applications under that Act, and providing that [sections 86 to 120][237] of that Act apply, with or without modification, to the hearing and disposal of appeals:
         
         
     
     *   (b) providing for any other matters contemplated by the provisions of this Part (other than [sections 46 to 52][55]), necessary for their administration, or necessary for giving them full effect.
     
-    (2) Any body established under subsection (1)(a)(i) is a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][237]; and every member of it is entitled to---
+    (2) Any body established under subsection (1)(a)(i) is a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][238]; and every member of it is entitled to---
         
     *   (a) remuneration by way of fees, salary, or allowances, for the member's services as a member of it:
     
     *   (b) payment of travelling allowances and expenses in respect of time spent travelling in its service.
     
-    Section 63: added, on 9 August 2000, by [section 5][191] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
+    Section 63: added, on 9 August 2000, by [section 5][192] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
     
-    Section 63(1)(a): amended, on 28 November 2013, by [section 16(1)][238] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 63(1)(a): amended, on 28 November 2013, by [section 16(1)][239] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
     
-    Section 63(1)(a)(i): amended, on 28 November 2013, by [section 16(2)][238] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 63(1)(a)(i): amended, on 28 November 2013, by [section 16(2)][239] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
     
-    Section 63(1)(a)(iii): amended, on 24 November 2003, by [section 4][239] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 63(1)(a)(iii): amended, on 24 November 2003, by [section 4][240] of the District Courts Amendment Act 2002 (2002 No 63).
 
 #### Delegation
     
-*   Heading: inserted, on 28 November 2013, by [section 17][240] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+*   Heading: inserted, on 28 November 2013, by [section 17][241] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 64 Delegation of powers under this Part
     
@@ -1907,9 +1907,9 @@ Income-related rents, housing eligibility, and other matters
     
     *   (b) an employee of the body corporate to whom it is subdelegated cannot subdelegate it further.
     
-    (5) Subsections (1) and (4) override [section 130(1)][241] of the Companies Act 1993\.
+    (5) Subsections (1) and (4) override [section 130(1)][242] of the Companies Act 1993\.
     
-    Section 64: replaced, on 28 November 2013, by [section 17][240] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 64: replaced, on 28 November 2013, by [section 17][241] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 65 Reimbursement of company
     
@@ -1919,11 +1919,11 @@ Income-related rents, housing eligibility, and other matters
     
     *   (b) that price were the difference between the amounts of market rents for the housing and the income-related rents charged.
     
-    Section 65: added, on 9 August 2000, by [section 5][191] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
+    Section 65: added, on 9 August 2000, by [section 5][192] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
 
 #### Code of conduct
     
-*   Heading: inserted, on 28 November 2013, by [section 18][242] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+*   Heading: inserted, on 28 November 2013, by [section 18][243] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 65A Code of conduct applying to obtaining information under section 59A
     
@@ -1945,11 +1945,11 @@ Income-related rents, housing eligibility, and other matters
     
     (3) HNZ may from time to time, in consultation with the Privacy Commissioner, amend the code of conduct, or revoke the code of conduct and issue a new code of conduct.
     
-    (4) Nothing in the code of conduct may derogate from any code of practice issued by the Privacy Commissioner under [Part 6][243] of the Privacy Act 1993 that applies to the information required under [section 59A][80], and HNZ, in consultation with the Privacy Commissioner, must amend the code of conduct to conform with any such code of practice. This subsection is affected by [section 65C][98].
+    (4) Nothing in the code of conduct may derogate from any code of practice issued by the Privacy Commissioner under [Part 6][244] of the Privacy Act 1993 that applies to the information required under [section 59A][80], and HNZ, in consultation with the Privacy Commissioner, must amend the code of conduct to conform with any such code of practice. This subsection is affected by [section 65C][98].
     
     (5) As soon as practicable after issuing any code of conduct and any amendment to it under this section, HNZ must arrange for it to be published on an Internet site that is publicly available at all reasonable times or published in a form that is otherwise accessible to the public.
     
-    Section 65A: inserted, on 28 November 2013, by [section 18][242] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 65A: inserted, on 28 November 2013, by [section 18][243] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 65B Who must comply with code of conduct
     
@@ -1965,7 +1965,7 @@ Income-related rents, housing eligibility, and other matters
     
     *   (e) every employee of a person or body corporate referred to in paragraph (d).
     
-    Section 65B: inserted, on 28 November 2013, by [section 18][242] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 65B: inserted, on 28 November 2013, by [section 18][243] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 65C Regulations authorising information to be obtained
     
@@ -1977,19 +1977,19 @@ Income-related rents, housing eligibility, and other matters
     
     *   (c) information in any specified manner.
     
-    (2) Subsection (1) applies despite the fact that the making of that requirement under [section 59A][80] would otherwise be in breach of any code of practice issued by the Privacy Commissioner under [Part 6][243] of the Privacy Act 1993\.
+    (2) Subsection (1) applies despite the fact that the making of that requirement under [section 59A][80] would otherwise be in breach of any code of practice issued by the Privacy Commissioner under [Part 6][244] of the Privacy Act 1993\.
     
-    Section 65C: inserted, on 28 November 2013, by [section 18][242] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 65C: inserted, on 28 November 2013, by [section 18][243] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 65D Complaints
     
 *   (1) Any person who is required to provide any information under [section 59A][80], or who is the subject of that information, may make a complaint to the Privacy Commissioner that the requirement breaches the code of conduct.
     
-    (2) [Part 8][244] of the Privacy Act 1993 applies to the complaint as if the code of conduct were a code of practice issued under [Part 6][243] of that Act.
+    (2) [Part 8][245] of the Privacy Act 1993 applies to the complaint as if the code of conduct were a code of practice issued under [Part 6][244] of that Act.
     
-    Compare: 1964 No 136 [s 11B][245]
+    Compare: 1964 No 136 [s 11B][246]
     
-    Section 65D: inserted, on 28 November 2013, by [section 18][242] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 65D: inserted, on 28 November 2013, by [section 18][243] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 65E Matters to be included in code of conduct
     
@@ -2029,13 +2029,13 @@ Income-related rents, housing eligibility, and other matters
     
     *   (b) the fact that the person has failed, within the time specified in the code, or has refused to provide information in accordance with a requirement made to that person under a provision referred to in subsection (1)(a).
     
-    Compare: 1964 No 136 [s 11C][246]
+    Compare: 1964 No 136 [s 11C][247]
     
-    Section 65E: inserted, on 28 November 2013, by [section 18][242] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 65E: inserted, on 28 November 2013, by [section 18][243] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 #### Deduction notices
     
-*   Heading: inserted, on 28 November 2013, by [section 18][242] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+*   Heading: inserted, on 28 November 2013, by [section 18][243] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 65F Interpretation of deduction notice sections of this Part
     
@@ -2053,7 +2053,7 @@ Income-related rents, housing eligibility, and other matters
     
     *   (c) a benefit:
     
-    *   (d) weekly compensation under the [Accident Compensation Act 2001][247]:
+    *   (d) weekly compensation under the [Accident Compensation Act 2001][248]:
     
     *   (e) a bonus or an incentive payment:
     
@@ -2069,9 +2069,9 @@ Income-related rents, housing eligibility, and other matters
     
     _third party_ means the person required to make 1 or more deductions under a deduction notice.
     
-    Compare: 1957 No 87 [ss 2(1)][248], [79][249]
+    Compare: 1957 No 87 [ss 2(1)][249], [79][250]
     
-    Section 65F: inserted, on 28 November 2013, by [section 18][242] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 65F: inserted, on 28 November 2013, by [section 18][243] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 65G Deduction of overdue Crown debt
     
@@ -2089,9 +2089,9 @@ Income-related rents, housing eligibility, and other matters
     
     (4) To avoid any doubt, HNZ may issue a deduction notice under this section in relation to an overdue amount regardless of whether that amount became recoverable as a debt due to the Crown under [section 60(2)][81] before the commencement of this section.
     
-    Compare: 1964 No 136 [s 86A][250]
+    Compare: 1964 No 136 [s 86A][251]
     
-    Section 65G: inserted, on 28 November 2013, by [section 18][242] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 65G: inserted, on 28 November 2013, by [section 18][243] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 65H Matters relating to deduction notice
     
@@ -2115,29 +2115,29 @@ Income-related rents, housing eligibility, and other matters
     
     (5) Every deduction notice is subject to [sections 65I to 65P][106].
     
-    Section 65H: inserted, on 28 November 2013, by [section 18][242] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 65H: inserted, on 28 November 2013, by [section 18][243] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 65I Issue of deduction notice to State sector employer
     
-*   In any case where a tenant is employed within a department (within the meaning of the [State Sector Act 1988][251]), a deduction notice may be issued under [section 65G][103] to the chief executive of that department in respect of any salary or wages payable to the tenant.
+*   In any case where a tenant is employed within a department (within the meaning of the [State Sector Act 1988][252]), a deduction notice may be issued under [section 65G][103] to the chief executive of that department in respect of any salary or wages payable to the tenant.
     
-    Compare: 1964 No 136 [s 86B][252]
+    Compare: 1964 No 136 [s 86B][253]
     
-    Section 65I: inserted, on 28 November 2013, by [section 18][242] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 65I: inserted, on 28 November 2013, by [section 18][243] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 65J Discharge of debt
     
 *   In any case where a third party deducts, under a deduction notice, any money payable to a tenant, the tenant is, to the extent of the amount deducted, discharged from his or her debt to the Crown.
     
-    Compare: 1964 No 136 [s 86C][253]
+    Compare: 1964 No 136 [s 86C][254]
     
-    Section 65J: inserted, on 28 November 2013, by [section 18][242] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 65J: inserted, on 28 November 2013, by [section 18][243] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 65K Deduction notices issued to banks
     
 *   (1) Where the third party is a bank, any money held by the bank to the credit of the tenant is subject to the provisions of [section 65G][103] and the amount required to be deducted under the deduction notice is, without prejudice to any other remedies against the tenant or any other person, deemed to be held in trust for the Crown and is a debt due to the Crown and may be recovered by HNZ in any court or tribunal of competent jurisdiction.
     
-    (2) For the purposes of this section, _bank_ means a person carrying on in New Zealand the business of banking, a credit union within the meaning of the [Friendly Societies and Credit Unions Act 1982][254], and a building society within the meaning of the [Building Societies Act 1965][255]; but does not include the Reserve Bank of New Zealand established under the [Reserve Bank of New Zealand Act 1989][256] (except in relation to an account maintained by that bank for an employee of the bank).
+    (2) For the purposes of this section, _bank_ means a person carrying on in New Zealand the business of banking, a credit union within the meaning of the [Friendly Societies and Credit Unions Act 1982][255], and a building society within the meaning of the [Building Societies Act 1965][256]; but does not include the Reserve Bank of New Zealand established under the [Reserve Bank of New Zealand Act 1989][257] (except in relation to an account maintained by that bank for an employee of the bank).
     
     (3) For the purposes of this section, _money held by the bank to the credit of the tenant_ includes money, and any interest on money, that is on deposit or deposited with a bank to the credit of the tenant, whether or not---
         
@@ -2153,9 +2153,9 @@ Income-related rents, housing eligibility, and other matters
     
     *   (b) can be withdrawn from the account by or on behalf of the tenant without a signature being required at the time of that withdrawal from, or on behalf of, the other person or persons.
     
-    Compare: 1964 No 136 [s 86D][257]
+    Compare: 1964 No 136 [s 86D][258]
     
-    Section 65K: inserted, on 28 November 2013, by [section 18][242] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 65K: inserted, on 28 November 2013, by [section 18][243] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 65L Making of deductions
     
@@ -2167,9 +2167,9 @@ Income-related rents, housing eligibility, and other matters
     
     (2) A third party must, on request, give the tenant a statement in writing of any amount deducted, and of the purpose for which the deduction was made.
     
-    Compare: 1964 No 136 [s 86E][258]
+    Compare: 1964 No 136 [s 86E][259]
     
-    Section 65L: inserted, on 28 November 2013, by [section 18][242] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 65L: inserted, on 28 November 2013, by [section 18][243] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 65M Offences in relation to deduction notices
     
@@ -2183,19 +2183,19 @@ Income-related rents, housing eligibility, and other matters
     
     (2) Every employer commits an offence and is liable on conviction to a fine not exceeding $1,000 who dismisses an employee or alters an employee's position in the employer's business or undertaking to the employee's prejudice by reason of a deduction notice having been issued to the employer.
     
-    Compare: 1957 No 87 [s 106A][259]; 1964 No 136 [s 86F][260]
+    Compare: 1957 No 87 [s 106A][260]; 1964 No 136 [s 86F][261]
     
-    Section 65M: inserted, on 28 November 2013, by [section 18][242] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 65M: inserted, on 28 November 2013, by [section 18][243] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 65N Protected earnings
     
 *   (1) Despite anything in [sections 65G to 65L][103], where a deduction notice is issued to an employer of a tenant, the employer must not, in making deductions under the deduction notice, reduce the amount paid to the tenant by way of salary or wages in respect of any week to an amount that is less than 60% of the amount calculated as being the tenant's net ordinary weekly pay for a week.
     
-    (2) For the purposes of this section, the tenant's net ordinary weekly pay for a week is the balance left after deducting from the tenant's ordinary weekly pay (as defined in [section 8][261] of the Holidays Act 2003) the amount of tax required to be withheld or deducted in accordance with the PAYE rules of the [Income Tax Act 2007][262] if that ordinary weekly pay were the only salary or wages paid to the tenant by the employer in respect of a week.
+    (2) For the purposes of this section, the tenant's net ordinary weekly pay for a week is the balance left after deducting from the tenant's ordinary weekly pay (as defined in [section 8][262] of the Holidays Act 2003) the amount of tax required to be withheld or deducted in accordance with the PAYE rules of the [Income Tax Act 2007][263] if that ordinary weekly pay were the only salary or wages paid to the tenant by the employer in respect of a week.
     
-    Compare: 1964 No 136 [s 86G][263]
+    Compare: 1964 No 136 [s 86G][264]
     
-    Section 65N: inserted, on 28 November 2013, by [section 18][242] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 65N: inserted, on 28 November 2013, by [section 18][243] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 65O Penalty for late deductions
     
@@ -2217,9 +2217,9 @@ Income-related rents, housing eligibility, and other matters
     
     (5) An amount payable to HNZ under subsection (1) is a debt due to the Crown and may be recovered by HNZ in any court or tribunal of competent jurisdiction.
     
-    Compare: 1964 No 136 [s 86I][264]
+    Compare: 1964 No 136 [s 86I][265]
     
-    Section 65O: inserted, on 28 November 2013, by [section 18][242] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 65O: inserted, on 28 November 2013, by [section 18][243] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 65P How notice may be given
     
@@ -2247,16 +2247,16 @@ Income-related rents, housing eligibility, and other matters
     
     (2) If any such notice is sent to any person by post, then, in the absence of evidence to the contrary, the notice is deemed to have been received by that person on the fourth day after the day on which it is posted, and, in proving the delivery, it is sufficient to prove the letter was properly addressed and posted.
     
-    (3) A notice to a person under any of [sections 65G to 65O][103] may be given by electronic means in accordance with [Part 2][265] of the Electronic Transactions Act 2002\.
+    (3) A notice to a person under any of [sections 65G to 65O][103] may be given by electronic means in accordance with [Part 2][266] of the Electronic Transactions Act 2002\.
     
-    Compare: 1964 No 136 [s 86J][266]
+    Compare: 1964 No 136 [s 86J][267]
     
-    Section 65P: inserted, on 28 November 2013, by [section 18][242] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 65P: inserted, on 28 November 2013, by [section 18][243] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ## Part 6  
 Information matching
     
-*   Part 6: added, on 1 July 2006, by [section 6][267] of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34).
+*   Part 6: added, on 1 July 2006, by [section 6][268] of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34).
 
 ##### 66 Interpretation
     
@@ -2264,19 +2264,19 @@ Information matching
     
     _benefit_ means---
         
-    *   (a) a benefit as defined in [section 3(1)][194] of the Social Security Act 1964; or
+    *   (a) a benefit as defined in [section 3(1)][195] of the Social Security Act 1964; or
     
-    *   (b) a lump sum payable under any of [sections 61DB][268], [61DC][269], and [61DD][270] of that Act; or
+    *   (b) a lump sum payable under any of [sections 61DB][269], [61DC][270], and [61DD][271] of that Act; or
     
-    *   (c) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under [section 124(1)(d)][271] of that Act; or
+    *   (c) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under [section 124(1)(d)][272] of that Act; or
     
-    *   (d) an allowance established by regulations made under [section 303][197] of the Education Act 1989
+    *   (d) an allowance established by regulations made under [section 303][198] of the Education Act 1989
     
     _Corporation_, despite [section 2(1)][4], includes the company
     
     _Corporation housing_ means premises (whether owned by the Crown, the Corporation, or any other person) let or to be let by or on behalf of the Corporation for occupation by any person as a place of residence
     
-    _department_ means the department for the time being responsible for the administration of the [Social Security Act 1964][221]
+    _department_ means the department for the time being responsible for the administration of the [Social Security Act 1964][222]
     
     _partner_, in the phrase ""spouse or partner"" and in related contexts, means, in relation to any person (**A**), a person---
         
@@ -2284,7 +2284,7 @@ Information matching
     
     *   (b) who is not, in the Corporation's opinion, living apart from A.
     
-    Section 66: added, on 1 July 2006, by [section 6][267] of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34).
+    Section 66: added, on 1 July 2006, by [section 6][268] of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34).
 
 ##### 67 Purpose of section 68
     
@@ -2296,11 +2296,11 @@ Information matching
     
     *   (c) recover debts due to the Crown (acting by and through the department) in respect of benefits.
     
-    Section 67: added, on 1 July 2006, by [section 6][267] of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34).
+    Section 67: added, on 1 July 2006, by [section 6][268] of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34).
 
 ##### 68 Disclosure of tenancy information for benefit purposes
     
-*   (1) For the purpose stated in [section 67][115], the chief executive of the department may from time to time request the Corporation to supply, in respect of persons who are tenants in relation to Corporation housing, or were tenants of that kind on or after the commencement of the [Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006][272],---
+*   (1) For the purpose stated in [section 67][115], the chief executive of the department may from time to time request the Corporation to supply, in respect of persons who are tenants in relation to Corporation housing, or were tenants of that kind on or after the commencement of the [Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006][273],---
         
     *   (a) the biographical information held by the Corporation that is sufficient to identify those persons, including their addresses; and
     
@@ -2316,7 +2316,7 @@ Information matching
     
     (4) Information supplied under a request under subsection (1) may be supplied in a form determined by agreement between the Corporation and the chief executive of the department.
     
-    Section 68: added, on 1 July 2006, by [section 6][267] of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34).
+    Section 68: added, on 1 July 2006, by [section 6][268] of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34).
 
 ##### 69 Information and details to be disclosed
     
@@ -2334,26 +2334,26 @@ Information matching
     
     *   (f) any address or other details supplied to the Corporation for the purposes of enabling it to contact him or her after the tenancy has ended.
     
-    Section 69: added, on 1 July 2006, by [section 6][267] of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34).
+    Section 69: added, on 1 July 2006, by [section 6][268] of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34).
 
 ## Part 9  
 Social housing agency
     
-*   Part 9: inserted, on 28 November 2013, by [section 21][273] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+*   Part 9: inserted, on 28 November 2013, by [section 21][274] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 #### Appointment, functions, and operation of social housing agency
     
-*   Heading: inserted, on 28 November 2013, by [section 21][273] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+*   Heading: inserted, on 28 November 2013, by [section 21][274] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 100 Social housing agency
     
 *   The Governor-General may, from time to time, by Order in Council made on the recommendation of the joint Ministers, appoint a department, departmental agency, or a Crown entity or any combination of 1 or more departments, departmental agencies, or Crown entities, to perform some or all of the functions and exercise some or all of the powers of the agency under this Act.
     
-    Section 100: inserted, on 28 November 2013, by [section 21][273] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 100: inserted, on 28 November 2013, by [section 21][274] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 #### Regulations
     
-*   Heading: inserted, on 28 November 2013, by [section 21][273] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+*   Heading: inserted, on 28 November 2013, by [section 21][274] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 136 Regulations relating to appeals and other matters
     
@@ -2363,15 +2363,15 @@ Social housing agency
             
         *   (i) establishing a body to dispose of appeals under that section, prescribing how its members are to be appointed, and prescribing how it is to hear and dispose of appeals; or
         
-        *   (ii) providing that such appeals are to be made to the Social Security Appeal Authority established by the [Social Security Act 1964][221] as if they were appeals against decisions or determinations under that Act, and providing that [sections 12J to 12N][232], [section 120A][274], and [sections 12P to 12S][233] of that Act apply, with or without modification, to the hearing and disposal of appeals; or
+        *   (ii) providing that such appeals are to be made to the Social Security Appeal Authority established by the [Social Security Act 1964][222] as if they were appeals against decisions or determinations under that Act, and providing that [sections 12J to 12N][233], [section 120A][275], and [sections 12P to 12S][234] of that Act apply, with or without modification, to the hearing and disposal of appeals; or
         
-        *   (iii) providing, if the agency is not the Ministry, that such appeals are to be made to a District Court, and providing that the [District Courts Act 1947][234] and the rules of the District Court apply, with or without modification, to the hearing and disposal of appeals; or
+        *   (iii) providing, if the agency is not the Ministry, that such appeals are to be made to a District Court, and providing that the [District Courts Act 1947][235] and the rules of the District Court apply, with or without modification, to the hearing and disposal of appeals; or
         
         
     
     *   (b) providing for any other matters contemplated by the provisions of this Part (other than sections 107 to 113), necessary for their administration, or necessary for giving them full effect.
     
-    (2) Any body established under subsection (1)(a)(i) is a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][237], and every member of it is entitled to---
+    (2) Any body established under subsection (1)(a)(i) is a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][238], and every member of it is entitled to---
         
     *   (a) remuneration by way of fees, salary, or allowances for the member's services as a member of it:
     
@@ -2383,28 +2383,28 @@ Social housing agency
     
     *   (b) require that an appeal to the Social Security Appeal Authority may not be heard until the matter has been confirmed or varied by the Benefits Review Committee.
     
-    Section 136: inserted, on 28 November 2013, by [section 21][273] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 136: inserted, on 28 November 2013, by [section 21][274] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ## Part 10  
 Regulatory authority
     
-*   Part 10: inserted, on 28 November 2013, by [section 21][273] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+*   Part 10: inserted, on 28 November 2013, by [section 21][274] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 #### Appointment, objectives, functions, and operation of authority
     
-*   Heading: inserted, on 28 November 2013, by [section 21][273] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+*   Heading: inserted, on 28 November 2013, by [section 21][274] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 159 Regulatory authority
     
 *   (1) The Governor-General may by Order in Council made on the recommendation of the joint Ministers appoint a department, any specified business unit within a department, departmental agency, or a Crown entity to perform the functions and exercise the powers of the regulatory authority under this Part.
     
-    (2) If the authority is a Crown entity, then the [Crown Entities Act 2004][275] applies to the authority except to the extent that this Act expressly provides otherwise.
+    (2) If the authority is a Crown entity, then the [Crown Entities Act 2004][276] applies to the authority except to the extent that this Act expressly provides otherwise.
     
-    Section 59: inserted, on 28 November 2013, by [section 21][273] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 59: inserted, on 28 November 2013, by [section 21][274] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 #### Appeals
     
-*   Heading: inserted, on 28 November 2013, by [section 21][273] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+*   Heading: inserted, on 28 November 2013, by [section 21][274] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 187 Regulations relating to appeals
     
@@ -2412,19 +2412,19 @@ Regulatory authority
         
     *   (a) establishing a body to dispose of appeals under section 184, prescribing how its members are to be appointed, and prescribing how it is to hear and dispose of appeals; or
     
-    *   (b) providing that such appeals are to be made to a District Court, and providing that the [District Courts Act 1947][234] and the rules of the District Court apply, with or without modification, to the hearing and disposal of appeals.
+    *   (b) providing that such appeals are to be made to a District Court, and providing that the [District Courts Act 1947][235] and the rules of the District Court apply, with or without modification, to the hearing and disposal of appeals.
     
-    (2) Any body established under subsection (1)(a) is a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][237], and every member of it is entitled to---
+    (2) Any body established under subsection (1)(a) is a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][238], and every member of it is entitled to---
         
     *   (a) remuneration by way of fees, salary, or allowances for the member's services as a member of it:
     
     *   (b) payment of travelling allowances and expenses in respect of time spent travelling in its service.
     
-    Section 187: inserted, on 28 November 2013, by [section 21][273] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 187: inserted, on 28 November 2013, by [section 21][274] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 #### Regulations under this Part
     
-*   Heading: inserted, on 28 November 2013, by [section 21][273] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+*   Heading: inserted, on 28 November 2013, by [section 21][274] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 190 Regulations relating to community housing providers
     
@@ -2504,7 +2504,7 @@ Regulatory authority
     
     (2) Any fee prescribed under subsection (1)(c) must be reasonable, having regard to the need to recover the costs incurred by the authority in performing its functions under this Part.
     
-    Section 190: inserted, on 28 November 2013, by [section 21][273] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 190: inserted, on 28 November 2013, by [section 21][274] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ##### 191 Consultation requirements for making regulations
     
@@ -2522,7 +2522,7 @@ Regulatory authority
     
     (4) A failure to comply with this section does not affect the validity of any Order in Council made.
     
-    Section 191: inserted, on 28 November 2013, by [section 21][273] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+    Section 191: inserted, on 28 November 2013, by [section 21][274] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ---
 
@@ -2533,19 +2533,19 @@ Enactments amended
 
 ##### Income Tax Act 1976 (1976 No 65) (RS Vol 12, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][276]_.
+_Amendment(s) incorporated in the [Act(s)][277]_.
 
 ##### Official Information Act 1982 (1982 No 156) (RS Vol 21, p 579)
 
-_Amendment(s) incorporated in the [Act(s)][277]_.
+_Amendment(s) incorporated in the [Act(s)][278]_.
 
 ##### Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)
 
-_Amendment(s) incorporated in the [Act(s)][278]_.
+_Amendment(s) incorporated in the [Act(s)][279]_.
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][279]_.
+_Amendment(s) incorporated in the [Act(s)][280]_.
 
 ---
 
@@ -2554,7 +2554,7 @@ Prescribed elements of calculation mechanism
 
 [s 42][50]
 
-*   Schedule 2: added, on 9 August 2000, by [section 6][280] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
+*   Schedule 2: added, on 9 August 2000, by [section 6][281] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
 
 #### Prescribed proportions, thresholds, and amounts
 
@@ -2566,19 +2566,19 @@ Prescribed elements of calculation mechanism
     
 *   The following thresholds are prescribed for the purposes of paragraphs (a) and (b) of [section 46(2)][55]:
         
-    *   (a) in the case of a sole tenant who has no spouse or partner and no dependent children (within the meaning of [section 3(1)][194] of the Social Security Act 1964), is the rate stated in [clause 1(a)][281] of Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001, after deduction of standard tax; and
+    *   (a) in the case of a sole tenant who has no spouse or partner and no dependent children (within the meaning of [section 3(1)][195] of the Social Security Act 1964), is the rate stated in [clause 1(a)][282] of Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001, after deduction of standard tax; and
     
-    *   (b) in every other case, is the rate stated in [clause 1(c)][281] of Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001, after deduction of standard tax, multiplied by 2\.
+    *   (b) in every other case, is the rate stated in [clause 1(c)][282] of Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001, after deduction of standard tax, multiplied by 2\.
     
-    Schedule 2 clause 2(a): amended, on 26 April 2005, by [section 7][198] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Schedule 2 clause 2(a): amended, on 26 April 2005, by [section 7][199] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Schedule 2 clause 2(a): amended, on 21 April 2005, by [section 9(1)][282] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
+    Schedule 2 clause 2(a): amended, on 21 April 2005, by [section 9(1)][283] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
     
-    Schedule 2 clause 2(a): amended, on 12 October 2001, by [section 77][283] of the New Zealand Superannuation Act 2001 (2001 No 84).
+    Schedule 2 clause 2(a): amended, on 12 October 2001, by [section 77][284] of the New Zealand Superannuation Act 2001 (2001 No 84).
     
-    Schedule 2 clause 2(b): amended, on 21 April 2005, by [section 9(1)][282] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
+    Schedule 2 clause 2(b): amended, on 21 April 2005, by [section 9(1)][283] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
     
-    Schedule 2 clause 2(b): amended, on 12 October 2001, by [section 77][283] of the New Zealand Superannuation Act 2001 (2001 No 84).
+    Schedule 2 clause 2(b): amended, on 12 October 2001, by [section 77][284] of the New Zealand Superannuation Act 2001 (2001 No 84).
 
 ##### 3 Proportion of income above threshold
     
@@ -2588,17 +2588,17 @@ Prescribed elements of calculation mechanism
     
 *   The proportion of 25% is prescribed for the purposes of [sections 46(2)(c) and 46(3)(b)][55].
     
-    Schedule 2 clause 4 heading: amended (with effect on 1 April 2007), on 19 December 2007, by [section 295][210] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Schedule 2 clause 4 heading: amended (with effect on 1 April 2007), on 19 December 2007, by [section 295][211] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
 
 ##### 5 Prescribed amount of family tax credit
     
-*   The maximum rate of family tax credit payable under [subparts MA to MF][207] and [MZ][208] of the Income Tax Act 2007 in respect of an eldest dependent child who is under 16 is prescribed for the purposes of [sections 46(2)(c)(ii) and 46(3)(b)(ii)][55].
+*   The maximum rate of family tax credit payable under [subparts MA to MF][208] and [MZ][209] of the Income Tax Act 2007 in respect of an eldest dependent child who is under 16 is prescribed for the purposes of [sections 46(2)(c)(ii) and 46(3)(b)(ii)][55].
     
-    Schedule 2 clause 5 heading: amended (with effect on 1 April 2007), on 19 December 2007, by [section 295][210] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Schedule 2 clause 5 heading: amended (with effect on 1 April 2007), on 19 December 2007, by [section 295][211] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Schedule 2 clause 5: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][201] of the Income Tax Act 2007 (2007 No 97).
+    Schedule 2 clause 5: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][202] of the Income Tax Act 2007 (2007 No 97).
     
-    Schedule 2 clause 5: amended (with effect on 1 April 2007), on 19 December 2007, by [section 295][210] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Schedule 2 clause 5: amended (with effect on 1 April 2007), on 19 December 2007, by [section 295][211] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
 
 ##### 6 Proportion of benefit
     
@@ -2614,11 +2614,11 @@ Prescribed elements of calculation mechanism
     
 *   For the purposes of [section 48(2)][57],---
         
-    *   (a) if [clause 7][284] applies to HNZ housing, the weekly income of the applicable persons includes all contributions from additional residents:
+    *   (a) if [clause 7][285] applies to HNZ housing, the weekly income of the applicable persons includes all contributions from additional residents:
     
-    *   (b) if [clause 7][284] does not apply to HNZ housing and the applicable persons receive contributions from fewer than 3 additional residents, their weekly income does not include any contributions from additional residents:
+    *   (b) if [clause 7][285] does not apply to HNZ housing and the applicable persons receive contributions from fewer than 3 additional residents, their weekly income does not include any contributions from additional residents:
     
-    *   (c) if [clause 7][284] does not apply to HNZ housing and the applicable persons receive contributions from 3 or more additional residents, their weekly income---
+    *   (c) if [clause 7][285] does not apply to HNZ housing and the applicable persons receive contributions from 3 or more additional residents, their weekly income---
             
         *   (i) does not include any contributions from the 2 additional residents making the greatest contributions; and
         
@@ -2636,29 +2636,29 @@ Prescribed elements of calculation mechanism
         
     *   (a) the appropriate weekly proportion of every amount or payment received as---
             
-        *   (i) an income-tested benefit (within the meaning of [section 3(1)][194] of the Social Security Act 1964) other than an orphan's benefit or an unsupported child's benefit; or
+        *   (i) an income-tested benefit (within the meaning of [section 3(1)][195] of the Social Security Act 1964) other than an orphan's benefit or an unsupported child's benefit; or
         
-        *   (ii) New Zealand superannuation under the [New Zealand Superannuation and Retirement Income Act 2001][285] or a veteran's pension under [Part 6][286] of the War Pensions Act 1954; or
+        *   (ii) New Zealand superannuation under the [New Zealand Superannuation and Retirement Income Act 2001][286] or a veteran's pension under [Part 6][287] of the War Pensions Act 1954; or
         
         *   (iii) a study grant; and
         
         
     
-    *   (b) amounts received from the Corporation or an insurer under the [Accident Compensation Act 2001][247] as weekly compensation for loss of earnings or potential earning capacity; and
+    *   (b) amounts received from the Corporation or an insurer under the [Accident Compensation Act 2001][248] as weekly compensation for loss of earnings or potential earning capacity; and
     
-    *   (c) any minimum family tax credit the person is eligible for under [subparts MA to MF][207] and [MZ][208] of the Income Tax Act 2007\.
+    *   (c) any minimum family tax credit the person is eligible for under [subparts MA to MF][208] and [MZ][209] of the Income Tax Act 2007\.
     
-    Schedule 2 clause 9(a)(ii): substituted, on 15 April 2003, by [section 12(1)][200] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Schedule 2 clause 9(a)(ii): substituted, on 15 April 2003, by [section 12(1)][201] of the War Pensions Amendment Act 2003 (2003 No 18).
     
-    Schedule 2 clause 9(a)(ii): amended, on 21 April 2005, by [section 9(1)][282] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
+    Schedule 2 clause 9(a)(ii): amended, on 21 April 2005, by [section 9(1)][283] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
     
-    Schedule 2 clause 9(b): amended, on 3 March 2010, pursuant to [section 5(1)(b)][213] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 2 clause 9(b): amended, on 3 March 2010, pursuant to [section 5(1)(b)][214] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Schedule 2 clause 9(b): amended, on 1 April 2002, by [section 337(1)][214] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
+    Schedule 2 clause 9(b): amended, on 1 April 2002, by [section 337(1)][215] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
     
-    Schedule 2 clause 9(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][201] of the Income Tax Act 2007 (2007 No 97).
+    Schedule 2 clause 9(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][202] of the Income Tax Act 2007 (2007 No 97).
     
-    Schedule 2 clause 9(c): amended (with effect on 1 April 2007), on 19 December 2007, by [section 295][210] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Schedule 2 clause 9(c): amended (with effect on 1 April 2007), on 19 December 2007, by [section 295][211] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
 
 ##### 10 Certain payments not to be income
     
@@ -2666,11 +2666,11 @@ Prescribed elements of calculation mechanism
         
     *   (a) an amount or payment---
             
-        *   (i) received as a benefit, allowance, or other payment under the [Social Security Act 1964][221] not referred to in [clause 9(a)][287]; or
+        *   (i) received as a benefit, allowance, or other payment under the [Social Security Act 1964][222] not referred to in [clause 9(a)][288]; or
         
-        *   (ii) received as a parental tax credit, child tax credit, or in-work tax credit under [subparts MA to MF][207] and [MZ][208] of the Income Tax Act 2007; or
+        *   (ii) received as a parental tax credit, child tax credit, or in-work tax credit under [subparts MA to MF][208] and [MZ][209] of the Income Tax Act 2007; or
         
-        *   (iii) of a kind stated in any of subparagraphs (ii) to (xv) of paragraph (f) of the definition of income in [section 3(1)][194] of the Social Security Act 1964; or
+        *   (iii) of a kind stated in any of subparagraphs (ii) to (xv) of paragraph (f) of the definition of income in [section 3(1)][195] of the Social Security Act 1964; or
         
         
     
@@ -2684,27 +2684,27 @@ Prescribed elements of calculation mechanism
         
         
     
-    Schedule 2 clause 10(a)(ii): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][201] of the Income Tax Act 2007 (2007 No 97).
+    Schedule 2 clause 10(a)(ii): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][202] of the Income Tax Act 2007 (2007 No 97).
     
-    Schedule 2 clause 10(a)(ii): amended (with effect on 1 April 2007), on 19 December 2007, by [section 295][210] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Schedule 2 clause 10(a)(ii): amended (with effect on 1 April 2007), on 19 December 2007, by [section 295][211] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Schedule 2 clause 10(a)(ii): amended, on 1 April 2006, by [section 23(1)][288] of the Taxation (Working for Families) Act 2004 (2004 No 52).
+    Schedule 2 clause 10(a)(ii): amended, on 1 April 2006, by [section 23(1)][289] of the Taxation (Working for Families) Act 2004 (2004 No 52).
 
 ##### 11 Assessable assets
     
 *   (1) For the purposes of [section 50(2)][60], _assessable assets_,---
         
-    *   (a) in the case of a person with a spouse or partner or a single person with a dependent child or children, means any cash assets (within the meaning of [section 61E][289] of the Social Security Act 1964) in excess of $5,400:
+    *   (a) in the case of a person with a spouse or partner or a single person with a dependent child or children, means any cash assets (within the meaning of [section 61E][290] of the Social Security Act 1964) in excess of $5,400:
     
-    *   (b) in any other case, means any cash assets (within the meaning of [section 61E][289] of the Social Security Act 1964) in excess of $2,700\.
+    *   (b) in any other case, means any cash assets (within the meaning of [section 61E][290] of the Social Security Act 1964) in excess of $2,700\.
     
-    (2) If, on or after the date this subclause comes into force, a person receives an impairment lump sum under [Schedule 1][216] of the Accident Compensation Act 2001 or a lump sum payment of an independence allowance under Part 13 or Part 4 of Schedule 1 of the Accident Insurance Act 1998, then for the period of 12 months following the receipt of that lump sum payment, the applicable amount in subclause (1)(a) or (b) is considered to be increased by the amount of that payment.
+    (2) If, on or after the date this subclause comes into force, a person receives an impairment lump sum under [Schedule 1][217] of the Accident Compensation Act 2001 or a lump sum payment of an independence allowance under Part 13 or Part 4 of Schedule 1 of the Accident Insurance Act 1998, then for the period of 12 months following the receipt of that lump sum payment, the applicable amount in subclause (1)(a) or (b) is considered to be increased by the amount of that payment.
     
-    Schedule 2 clause 11(1)(a): amended, on 26 April 2005, by [section 7][198] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Schedule 2 clause 11(1)(a): amended, on 26 April 2005, by [section 7][199] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Schedule 2 clause 11(2): added, on 1 April 2002, by [section 337(1)][214] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
+    Schedule 2 clause 11(2): added, on 1 April 2002, by [section 337(1)][215] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
     
-    Schedule 2 clause 11(2): amended, on 3 March 2010, pursuant to [section 5(1)(b)][213] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Schedule 2 clause 11(2): amended, on 3 March 2010, pursuant to [section 5(1)(b)][214] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 #### Period for estimating income
 
@@ -2719,7 +2719,7 @@ Transitional matters
 
 [s 54][66]
 
-*   Schedule 3: added, on 9 August 2000, by [section 6][280] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
+*   Schedule 3: added, on 9 August 2000, by [section 6][281] of the Housing Restructuring (Income-Related Rents) Amendment Act 2000 (2000 No 22).
 
 ##### 1 Interpretation
     
@@ -2735,17 +2735,17 @@ Transitional matters
     
     _accommodation assistance_, in relation to any HNZ housing, means accommodation benefit, accommodation supplement, tenure protection allowance, or special transfer allowance, payable in respect of that housing
     
-    _accommodation benefit_ means an accommodation benefit under [regulation 9][290] of the Student Allowances Regulations 1998
+    _accommodation benefit_ means an accommodation benefit under [regulation 9][291] of the Student Allowances Regulations 1998
     
-    _accommodation supplement_ means an accommodation supplement under [section 61EA][291] of the Social Security Act 1964
+    _accommodation supplement_ means an accommodation supplement under [section 61EA][292] of the Social Security Act 1964
     
     _affected tenant_ means a tenant of HNZ housing to whom this schedule (by virtue of [section 54(1)][66]) applies
     
-    _special transfer allowance_ means an amount payable by way of special assistance under the special transfer allowance programme approved under [section 124(1)(d)][271] of the Social Security Act 1964
+    _special transfer allowance_ means an amount payable by way of special assistance under the special transfer allowance programme approved under [section 124(1)(d)][272] of the Social Security Act 1964
     
-    _tenure protection allowance_ means the tenure protection allowance formerly payable under the [sections 61FC][292] and [61FD][293] of the Social Security Act 1964\.
+    _tenure protection allowance_ means the tenure protection allowance formerly payable under the [sections 61FC][293] and [61FD][294] of the Social Security Act 1964\.
     
-    Schedule 3 clause 1 **55+ rent protection programme** paragraph (c): amended, on 26 April 2005, by [section 7][198] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Schedule 3 clause 1 **55+ rent protection programme** paragraph (c): amended, on 26 April 2005, by [section 7][199] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 2 Saving in respect of tenure protection allowance and special transfer allowance
     
@@ -2797,7 +2797,7 @@ Transitional matters
 
 ##### 4 Saving in other circumstances
     
-*   (1) The following provisions apply to an affected tenant who is not and has never been entitled to a rebate under [clause 2][294] or [clause 3][295]:
+*   (1) The following provisions apply to an affected tenant who is not and has never been entitled to a rebate under [clause 2][295] or [clause 3][296]:
         
     *   (a) the income-related rent for the housing must be calculated by applying the calculation mechanism, if---
             
@@ -2825,7 +2825,7 @@ Transitional matters
     
     (3) The company must reduce the amount of the rebate by $5 a week if---
         
-    *   (a) it reviews the tenant's income-related rent under [section 57][296] at a time after 30 June 2001; and
+    *   (a) it reviews the tenant's income-related rent under [section 57][297] at a time after 30 June 2001; and
     
     *   (b) the rebate has not been reduced under this subclause during the 12 months before that time.
     
@@ -2833,7 +2833,7 @@ Transitional matters
 
 ##### 5 Ending of rebates
     
-*   (1) [Clauses 2 to 4][294] cease to apply to a tenant who---
+*   (1) [Clauses 2 to 4][295] cease to apply to a tenant who---
         
     *   (a) ceases to occupy the HNZ housing in respect of which the rebate applied (otherwise than by beginning to occupy replacement HNZ housing); or
     
@@ -2854,7 +2854,7 @@ Transitional and savings provisions relating to Social Housing Reform (Housing R
 
 [s 3A][6]
 
-*   Schedule 4: inserted, on 28 November 2013, by [section 26][297] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
+*   Schedule 4: inserted, on 28 November 2013, by [section 26][298] of the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013 (2013 No 97).
 
 ## Part 1  
 Transitional and savings provisions
@@ -2863,21 +2863,21 @@ Transitional and savings provisions
     
 *   In this Part, unless the context otherwise requires,---
     
-    _2013 Amendment Act_ means the [Social Housing Reform (Housing Restructuring and Tenancy Matters) Amendment Act 2013][298]
+    _2013 Amendment Act_ means the [Social Housing Reform (Housing Restructuring and Tenancy Matters) Amendment Act 2013][299]
     
     _delegation_ includes subdelegation
     
-    _new_, in relation to a Part or provision of this Act, means the Part or provision as amended or replaced by [Part 1][299] of the 2013 Amendment Act
+    _new_, in relation to a Part or provision of this Act, means the Part or provision as amended or replaced by [Part 1][300] of the 2013 Amendment Act
     
-    _old_, in relation to a Part or provision of this Act, means the Part or provision immediately before it was amended or replaced by [Part 1][299] of the 2013 Amendment Act
+    _old_, in relation to a Part or provision of this Act, means the Part or provision immediately before it was amended or replaced by [Part 1][300] of the 2013 Amendment Act
     
-    _Royal assent commencement date_ means the date on which [Part 1][299] of the 2013 Amendment Act (other than [section 12][224] so far as it relates to new [section 56(2)][69]) comes into force
+    _Royal assent commencement date_ means the date on which [Part 1][300] of the 2013 Amendment Act (other than [section 12][225] so far as it relates to new [section 56(2)][69]) comes into force
     
     _transfer date_ means the date on which Part 7 of this Act comes into force.
 
 ##### 2 Continuation of review process under section 62
     
-*   The process for reviews established by HNZ under [section 62][87], as in force immediately before the commencement of [section 15][228] of the 2013 Amendment Act, continues in force, until replaced or revoked, after that commencement as if it were established under new section 62\.
+*   The process for reviews established by HNZ under [section 62][87], as in force immediately before the commencement of [section 15][229] of the 2013 Amendment Act, continues in force, until replaced or revoked, after that commencement as if it were established under new section 62\.
 
 ##### 3 Continuation of delegations under section 64
     
@@ -2939,25 +2939,25 @@ Transitional and savings provisions
 
 ##### 8 Saving of definition of income under Social Security Act 1964
     
-*   The definition of income in [section 3(1)][194] of the Social Security Act 1964, as it was immediately before the transfer date, continues in force for the purpose of any recalculation of debt by HNZ after the transfer date in respect of debt calculated or recovered before the transfer date.
+*   The definition of income in [section 3(1)][195] of the Social Security Act 1964, as it was immediately before the transfer date, continues in force for the purpose of any recalculation of debt by HNZ after the transfer date in respect of debt calculated or recovered before the transfer date.
 
 ##### 9 HNZ may use new Part 5 powers for purpose of recovery of section 60 debt (which relates to where rate of rent too low) calculated before transfer date
     
 *   (1) For the purposes of the administration and recovery, after the transfer date, of [section 60][81] debt calculated by HNZ before the transfer date,---
         
-    *   (a) new [Part 5][49] continues in force despite its repeal by [section 22][300] of the 2013 Amendment Act; and
+    *   (a) new [Part 5][49] continues in force despite its repeal by [section 22][301] of the 2013 Amendment Act; and
     
     *   (b) [Schedules 2][132] and [3][133] (as they were before Part 7 came into force) continue in force for the purpose of any recalculation of that debt; and
     
-    *   (c) any delegations made under [section 64][93] (whether before or after its replacement by the [2013 Amendment Act][298]), and any delegations continued by [clause 3][301], continue in force until replaced or revoked.
+    *   (c) any delegations made under [section 64][93] (whether before or after its replacement by the [2013 Amendment Act][299]), and any delegations continued by [clause 3][302], continue in force until replaced or revoked.
     
-    (2) In this clause, _section 60 debt_ means debt calculated before the transfer date under [section 60][81] (whether before or after the commencement of [section 15][228] of the 2013 Amendment Act).
+    (2) In this clause, _section 60 debt_ means debt calculated before the transfer date under [section 60][81] (whether before or after the commencement of [section 15][229] of the 2013 Amendment Act).
 
 ##### 10 Agency may use Part 9 powers for purpose of recovery of pre-transfer debt not calculated before transfer date
     
 *   (1) The agency may exercise its powers or perform its functions conferred by or under [Part 9][118] to calculate pre-transfer debt and to recover that debt.
     
-    (2) In this clause and [clause 11][302], unless the context otherwise requires,---
+    (2) In this clause and [clause 11][303], unless the context otherwise requires,---
     
     _debt_ includes an amount by which the amount of income-related rent that has been paid by a tenant is less than the amount of income-related rent that would have been calculated for the tenant if the tenant had complied with all of the tenant's obligations under [Part 5][49] of the Act that applied at the relevant time
     
@@ -2975,7 +2975,7 @@ Transitional and savings provisions
     
 *   (1) This clause applies only if the agency is the Ministry.
     
-    (2) The agency must comply with section 128, and may exercise its powers under [section 85A][303] of the Social Security Act 1964, in respect of pre-transfer debt.
+    (2) The agency must comply with section 128, and may exercise its powers under [section 85A][304] of the Social Security Act 1964, in respect of pre-transfer debt.
 
 ##### 12 Agency may use Part 9 powers in respect of offending and other matters before transfer date
     
@@ -2985,13 +2985,13 @@ Transitional and savings provisions
     
     *   (b) to investigate and prosecute pre-transfer offending.
     
-    (2) In this clause and [clause 13][304], unless the context otherwise requires, _pre-transfer offending_ means any act or omission before the transfer date that constituted an offence at the time that it occurred.
+    (2) In this clause and [clause 13][305], unless the context otherwise requires, _pre-transfer offending_ means any act or omission before the transfer date that constituted an offence at the time that it occurred.
     
-    (3) This clause does not limit the [Limitation Act 2010][305] (or the [Limitation Act 1950][306], as the case may be).
+    (3) This clause does not limit the [Limitation Act 2010][306] (or the [Limitation Act 1950][307], as the case may be).
 
 ##### 13 Certain appeals after transfer date
     
-*   (1) Any appeal under old or new [Part 5][49] that is commenced before the transfer date may be continued and completed under new Part 5, and under any regulations and rules made under that Part, after the transfer date as if [Part 2][307] of the 2013 Amendment Act had not been enacted.
+*   (1) Any appeal under old or new [Part 5][49] that is commenced before the transfer date may be continued and completed under new Part 5, and under any regulations and rules made under that Part, after the transfer date as if [Part 2][308] of the 2013 Amendment Act had not been enacted.
     
     (2) Any appeal in respect of any debt that is calculated, or recovered, under---
         
@@ -2999,29 +2999,29 @@ Transitional and savings provisions
     
     *   (b) old or new [Part 5][49] on or after the transfer date as applied by this schedule---
     
-    may be commenced (after completion of the review process referred to in [clause 2][308]), continued, and completed under new [Part 5][49], and under any regulations and rules made under that Part, after the transfer date as if [Part 2][307] of the 2013 Amendment Act had not been enacted.
+    may be commenced (after completion of the review process referred to in [clause 2][309]), continued, and completed under new [Part 5][49], and under any regulations and rules made under that Part, after the transfer date as if [Part 2][308] of the 2013 Amendment Act had not been enacted.
     
     (3) In relation to any appeal referred to in subclause (1) or (2), if the matter that is the subject of the appeal is referred back to HNZ for further action, HNZ continues to have all the powers, functions, and duties in respect of the completion of the matter as HNZ had immediately before the transfer date.
     
-    (4) The State Housing Appeal Authority established under the [Housing Restructuring and Tenancy Matters (Appeals) Regulations 2000][309] continues in existence for the purpose of appeals until 1 April 2017 or an earlier date appointed by the Governor-General by Order in Council.
+    (4) The State Housing Appeal Authority established under the [Housing Restructuring and Tenancy Matters (Appeals) Regulations 2000][310] continues in existence for the purpose of appeals until 1 April 2017 or an earlier date appointed by the Governor-General by Order in Council.
     
-    (5) For the purposes of subclauses (1) and (2), the [Housing Restructuring and Tenancy Matters (Appeals) Regulations 2000][309] are deemed to be made under new [Part 5][49].
+    (5) For the purposes of subclauses (1) and (2), the [Housing Restructuring and Tenancy Matters (Appeals) Regulations 2000][310] are deemed to be made under new [Part 5][49].
 
 ##### 14 Housing Restructuring and Tenancy Matters (Appeals) Regulations 2000 modified and continued
     
-*   (1) Without limiting [clause 13][304] and subclause (2), the [Housing Restructuring and Tenancy Matters (Appeals) Regulations 2000][309] must be read with the following modifications:
+*   (1) Without limiting [clause 13][305] and subclause (2), the [Housing Restructuring and Tenancy Matters (Appeals) Regulations 2000][310] must be read with the following modifications:
         
-    *   (a) in the definition of decision in [regulation 3][310], the reference to [section 62(2)][87] must be read as a reference to [section 62A][88]; and
+    *   (a) in the definition of decision in [regulation 3][311], the reference to [section 62(2)][87] must be read as a reference to [section 62A][88]; and
     
-    *   (b) in the heading above [regulation 4][311], the reference to [section 62][87] must be read as a reference to [section 62A][88]; and
+    *   (b) in the heading above [regulation 4][312], the reference to [section 62][87] must be read as a reference to [section 62A][88]; and
     
-    *   (c) in [regulations 4(1)][311], [16(2)][312], and [17(1)(a)][313], the reference to [section 62(2)][87] must be read as a reference to [section 62A][88].
+    *   (c) in [regulations 4(1)][312], [16(2)][313], and [17(1)(a)][314], the reference to [section 62(2)][87] must be read as a reference to [section 62A][88].
     
-    (2) The [Housing Restructuring and Tenancy Matters (Appeals) Regulations 2000][309] may continue to be amended as if [section 63][91] had not been repealed by [section 22][300] of the 2013 Amendment Act.
+    (2) The [Housing Restructuring and Tenancy Matters (Appeals) Regulations 2000][310] may continue to be amended as if [section 63][91] had not been repealed by [section 22][301] of the 2013 Amendment Act.
 
 ##### 15 Continuation of prosecutions started before transfer date
     
-*   (1) HNZ may continue any prosecution started by HNZ before the transfer date as if the [2013 Amendment Act][298] had not been passed.
+*   (1) HNZ may continue any prosecution started by HNZ before the transfer date as if the [2013 Amendment Act][299] had not been passed.
     
     (2) For the purpose of any such prosecution, the functions, powers, and duties of HNZ immediately before the transfer date continue to apply.
 
@@ -3054,9 +3054,9 @@ Transitional provisions relating to transfer of employees of Corporation to agen
     
     *   (b) the employee is offered employment in an equivalent position in the agency (whether or not the employee accepts the offer).
     
-    (4) This clause overrides any provision to the contrary in [Part 6A][314] of the Employment Relations Act 2000\.
+    (4) This clause overrides any provision to the contrary in [Part 6A][315] of the Employment Relations Act 2000\.
     
-    (5) Nothing in [sections 60][315], [61][316], and [65][317] of the State Sector Act 1988 applies to the appointment of an employee to a position in the agency as a result of the transfer of functions of HNZ and the Corporation to the agency.
+    (5) Nothing in [sections 60][316], [61][317], and [65][318] of the State Sector Act 1988 applies to the appointment of an employee to a position in the agency as a result of the transfer of functions of HNZ and the Corporation to the agency.
 
 ##### 17 No compensation for technical redundancy of employees of Corporation
     
@@ -3092,7 +3092,7 @@ Transitional provisions relating to transfer of employees of Corporation to agen
     
     _relevant thing_ means any thing that relates to a function or power of HNZ or the Corporation that, on the commencement of Part 7, is a function or power of the agency.
     
-    (3) The transfer of information from HNZ or the Corporation to the agency under subclause (1)(a) does not constitute an action that is an interference with the privacy of an individual under [section 66][318] of the Privacy Act 1993\.
+    (3) The transfer of information from HNZ or the Corporation to the agency under subclause (1)(a) does not constitute an action that is an interference with the privacy of an individual under [section 66][319] of the Privacy Act 1993\.
 
 ##### 19 No claims for breach of contract
     
@@ -3105,7 +3105,7 @@ Transitional and savings regulations
     
 *   (1) The Governor-General may, by Order in Council made on the Minister's recommendation, make regulations prescribing transitional provisions, savings provisions, or both, for either or both of the following purposes:
         
-    *   (a) facilitating or ensuring the orderliness of the transition to the amendments made to this Act by the [Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013][298]:
+    *   (a) facilitating or ensuring the orderliness of the transition to the amendments made to this Act by the [Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013][299]:
     
     *   (b) ensuring that existing rights or obligations continue as part of, or despite, that transition.
     
@@ -3115,7 +3115,7 @@ Transitional and savings regulations
     
     *   (b) are consistent with the purposes of this Act.
     
-    (3) The transitional provisions or savings provisions prescribed by regulations under subclause (1) may be provisions in addition to or instead of those set out in [Parts 1][319] and [2][320] of this schedule, and may---
+    (3) The transitional provisions or savings provisions prescribed by regulations under subclause (1) may be provisions in addition to or instead of those set out in [Parts 1][320] and [2][321] of this schedule, and may---
         
     *   (a) provide that, for a transitional period, in any circumstances, or subject to any conditions, specified in the regulations, 1 or more provisions (including definitions) of those amendments to this Act do not apply, or apply with modifications or additions:
     
@@ -3146,7 +3146,7 @@ Pursuant to section 24 of the Housing Restructuring Act 1992, Her Excellency the
 
 ##### 1 Title
     
-*   This order may be cited as the [Housing New Zealand Limited Vesting Order 1993][321].
+*   This order may be cited as the [Housing New Zealand Limited Vesting Order 1993][322].
 
 ##### 3 Appointment of date for vesting of State housing assets and liabilities and Corporation assets and liabilities in Housing New Zealand Limited
     
@@ -3169,47 +3169,49 @@ Date of notification in _Gazette_: 24 June 1993\.
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][322] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][323] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][323] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][324] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][324] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][325] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][325] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][326] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013][298] (2013 No 97)
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][145]
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][153]
+    [Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013][299] (2013 No 97)
     
-    Accident Compensation Amendment Act 2010 (2010 No 1): [section 5(1)(b)][213]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][154]
     
-    Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109): [section 295][210]
+    Accident Compensation Amendment Act 2010 (2010 No 1): [section 5(1)(b)][214]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][201]
+    Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109): [section 295][211]
     
-    [Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006][272] (2006 No 34)
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][202]
     
-    New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42): [section 9(1)][282]
+    [Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006][273] (2006 No 34)
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [sections 3(1)][211], [7][198]
+    New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42): [section 9(1)][283]
     
-    Taxation (Working for Families) Act 2004 (2004 No 52): [section 23(1)][288]
+    Relationships (Statutory References) Act 2005 (2005 No 3): [sections 3(1)][212], [7][199]
     
-    Income Tax Act 2004 (2004 No 35): [section YA 2][190]
+    Taxation (Working for Families) Act 2004 (2004 No 52): [section 23(1)][289]
     
-    State Sector Amendment Act 2003 (2003 No 41): [section 12(1)][222]
+    Income Tax Act 2004 (2004 No 35): [section YA 2][191]
     
-    War Pensions Amendment Act 2003 (2003 No 18): [section 12(1)][200]
+    State Sector Amendment Act 2003 (2003 No 41): [section 12(1)][223]
     
-    District Courts Amendment Act 2002 (2002 No 63): [section 4][239]
+    War Pensions Amendment Act 2003 (2003 No 18): [section 12(1)][201]
+    
+    District Courts Amendment Act 2002 (2002 No 63): [section 4][240]
     
     New Zealand Superannuation Act 2001 (2001 No 84): section 77
     
-    Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49): [sections 337(1)][214], [339(1)][215]
+    Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49): [sections 337(1)][215], [339(1)][216]
     
-    Housing Corporation Amendment Act 2001 (2001 No 37): [sections 24(1)][326], [25(1)(c)][146]
+    Housing Corporation Amendment Act 2001 (2001 No 37): [sections 24(1)][327], [25(1)(c)][147]
     
-    [Housing Restructuring (Income-Related Rents) Amendment Act 2000][327] (2000 No 22)
+    [Housing Restructuring (Income-Related Rents) Amendment Act 2000][328] (2000 No 22)
     
     [Housing Restructuring Act Commencement Order 1999][136] (SR 1999/161)
     
@@ -3362,186 +3364,187 @@ Date of notification in _Gazette_: 24 June 1993\.
 [142]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM291045
 [143]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM96736
 [144]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200616
-[145]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200721
-[146]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM96740
-[147]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM250585
-[148]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM444304
-[149]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM45426
-[150]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM230264
-[151]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2997643
-[152]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2998573
-[153]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2998633
-[154]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM195097
-[155]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM98067
-[156]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM261068
-[157]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM251765
-[158]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM251767
-[159]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM103609
-[160]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM107200
-[161]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM291039
-[162]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM46055
-[163]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM246310
-[164]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM246311
-[165]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM98075
-[166]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM208750
-[167]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM247364
-[168]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM272486
-[169]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM272488
-[170]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM236786
-[171]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM415531
-[172]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM222678
-[173]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM253256
-[174]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM222679
-[175]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM98092
-[176]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM261070
-[177]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM98409
-[178]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM239393
-[179]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM35698
-[180]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM291301
-[181]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM291302
-[182]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM291314
-[183]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM291315
-[184]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM291349
-[185]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM291318
-[186]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM291344
-[187]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM291339
-[188]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM219026
-[189]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM446000
-[190]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM277147
-[191]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM57296
-[192]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200622
-[193]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM360254
-[194]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM359124
-[195]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM94277
-[196]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM1252632
-[197]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM186860
-[198]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM333795
-[199]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200623
-[200]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM191905
-[201]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM1523176
-[202]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5646405
-[203]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM96407
-[204]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM95024
-[205]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM95057
-[206]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200634
-[207]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM1518406
-[208]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM1518621
-[209]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM366597
-[210]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM1172333
-[211]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM333773
-[212]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM102835
-[213]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2773701
-[214]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM104117
-[215]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM104119
-[216]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM104541
-[217]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200638
-[218]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM224791
-[219]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200639
-[220]: http://www.legislation.govt.nz/act/public/1992/0076/latest/whole.html#DLM270337
-[221]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM359106
-[222]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM201376
-[223]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200640
-[224]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200642
-[225]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200644
-[226]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200651
-[227]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM297046
-[228]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200654
-[229]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM364938
-[230]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM364948
-[231]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM304475
-[232]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM360964
-[233]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM361027
-[234]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM242775
-[235]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM147653
-[236]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM95591
-[237]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM264952
-[238]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5646412
-[239]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM168713
-[240]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200668
-[241]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM320655
-[242]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200671
-[243]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM297406
-[244]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM297439
-[245]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM360917
-[246]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM360921
-[247]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM99493
-[248]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM310749
-[249]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM311866
-[250]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM364857
-[251]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM129109
-[252]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM364864
-[253]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM364866
-[254]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM59731
-[255]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM367767
-[256]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM199363
-[257]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM364868
-[258]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM364872
-[259]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM312620
-[260]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM364874
-[261]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM236852
-[262]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM1512300
-[263]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM364876
-[264]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM364884
-[265]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM154814
-[266]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM364887
-[267]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM374681
-[268]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM362709
-[269]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM362736
-[270]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM362759
-[271]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM365476
-[272]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM374671
-[273]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200723
-[274]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM4501460
-[275]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM329630
-[276]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2474800
-[277]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM64784
-[278]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM430983
-[279]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM160819
-[280]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM57866
-[281]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM115004
-[282]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM346494
-[283]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM114875
-[284]: http://www.legislation.govt.nz/act/public/1992/0076/latest/whole.html#DLM270318
-[285]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM113923
-[286]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM285274
-[287]: http://www.legislation.govt.nz/act/public/1992/0076/latest/whole.html#DLM270321
-[288]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM299807
-[289]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM362802
-[290]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM260316
-[291]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM362856
-[292]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM362912
-[293]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM362918
-[294]: http://www.legislation.govt.nz/act/public/1992/0076/latest/whole.html#DLM270353
-[295]: http://www.legislation.govt.nz/act/public/1992/0076/latest/whole.html#DLM270354
-[296]: http://www.legislation.govt.nz/act/public/1992/0076/latest/whole.html#DLM361949
-[297]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5646467
-[298]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200602
-[299]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200615
-[300]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200968
-[301]: http://www.legislation.govt.nz/act/public/1992/0076/latest/whole.html#DLM5772981
-[302]: http://www.legislation.govt.nz/act/public/1992/0076/latest/whole.html#DLM5772994
-[303]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM364804
-[304]: http://www.legislation.govt.nz/act/public/1992/0076/latest/whole.html#DLM5772997
-[305]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2033100
-[306]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM262436
-[307]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200703
-[308]: http://www.legislation.govt.nz/act/public/1992/0076/latest/whole.html#DLM5772980
-[309]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2026700
-[310]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2026708
-[311]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2026739
-[312]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2026753
-[313]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2026754
-[314]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM59172
-[315]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5478469
-[316]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5478470
-[317]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5478483
-[318]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM297441
-[319]: http://www.legislation.govt.nz/act/public/1992/0076/latest/whole.html#DLM5772966
-[320]: http://www.legislation.govt.nz/act/public/1992/0076/latest/whole.html#DLM5773101
-[321]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM177389
-[322]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2998516
-[323]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2998515
-[324]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2998532
-[325]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[326]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM96785
-[327]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM57286
+[145]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5620822
+[146]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200721
+[147]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM96740
+[148]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM250585
+[149]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM444304
+[150]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM45426
+[151]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM230264
+[152]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2997643
+[153]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2998573
+[154]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2998633
+[155]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM195097
+[156]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM98067
+[157]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM261068
+[158]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM251765
+[159]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM251767
+[160]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM103609
+[161]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM107200
+[162]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM291039
+[163]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM46055
+[164]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM246310
+[165]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM246311
+[166]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM98075
+[167]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM208750
+[168]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM247364
+[169]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM272486
+[170]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM272488
+[171]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM236786
+[172]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM415531
+[173]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM222678
+[174]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM253256
+[175]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM222679
+[176]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM98092
+[177]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM261070
+[178]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM98409
+[179]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM239393
+[180]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM35698
+[181]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM291301
+[182]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM291302
+[183]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM291314
+[184]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM291315
+[185]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM291349
+[186]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM291318
+[187]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM291344
+[188]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM291339
+[189]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM219026
+[190]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM446000
+[191]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM277147
+[192]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM57296
+[193]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200622
+[194]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM360254
+[195]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM359124
+[196]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM94277
+[197]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM1252632
+[198]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM186860
+[199]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM333795
+[200]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200623
+[201]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM191905
+[202]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM1523176
+[203]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5646405
+[204]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM96407
+[205]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM95024
+[206]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM95057
+[207]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200634
+[208]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM1518406
+[209]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM1518621
+[210]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM366597
+[211]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM1172333
+[212]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM333773
+[213]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM102835
+[214]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2773701
+[215]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM104117
+[216]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM104119
+[217]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM104541
+[218]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200638
+[219]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM224791
+[220]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200639
+[221]: http://www.legislation.govt.nz/act/public/1992/0076/latest/whole.html#DLM270337
+[222]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM359106
+[223]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM201376
+[224]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200640
+[225]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200642
+[226]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200644
+[227]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200651
+[228]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM297046
+[229]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200654
+[230]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM364938
+[231]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM364948
+[232]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM304475
+[233]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM360964
+[234]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM361027
+[235]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM242775
+[236]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM147653
+[237]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM95591
+[238]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM264952
+[239]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5646412
+[240]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM168713
+[241]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200668
+[242]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM320655
+[243]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200671
+[244]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM297406
+[245]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM297439
+[246]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM360917
+[247]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM360921
+[248]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM99493
+[249]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM310749
+[250]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM311866
+[251]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM364857
+[252]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM129109
+[253]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM364864
+[254]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM364866
+[255]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM59731
+[256]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM367767
+[257]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM199363
+[258]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM364868
+[259]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM364872
+[260]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM312620
+[261]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM364874
+[262]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM236852
+[263]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM1512300
+[264]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM364876
+[265]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM364884
+[266]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM154814
+[267]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM364887
+[268]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM374681
+[269]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM362709
+[270]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM362736
+[271]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM362759
+[272]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM365476
+[273]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM374671
+[274]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200723
+[275]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM4501460
+[276]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM329630
+[277]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2474800
+[278]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM64784
+[279]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM430983
+[280]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM160819
+[281]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM57866
+[282]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM115004
+[283]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM346494
+[284]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM114875
+[285]: http://www.legislation.govt.nz/act/public/1992/0076/latest/whole.html#DLM270318
+[286]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM113923
+[287]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM285274
+[288]: http://www.legislation.govt.nz/act/public/1992/0076/latest/whole.html#DLM270321
+[289]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM299807
+[290]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM362802
+[291]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM260316
+[292]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM362856
+[293]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM362912
+[294]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM362918
+[295]: http://www.legislation.govt.nz/act/public/1992/0076/latest/whole.html#DLM270353
+[296]: http://www.legislation.govt.nz/act/public/1992/0076/latest/whole.html#DLM270354
+[297]: http://www.legislation.govt.nz/act/public/1992/0076/latest/whole.html#DLM361949
+[298]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5646467
+[299]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200602
+[300]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200615
+[301]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200968
+[302]: http://www.legislation.govt.nz/act/public/1992/0076/latest/whole.html#DLM5772981
+[303]: http://www.legislation.govt.nz/act/public/1992/0076/latest/whole.html#DLM5772994
+[304]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM364804
+[305]: http://www.legislation.govt.nz/act/public/1992/0076/latest/whole.html#DLM5772997
+[306]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2033100
+[307]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM262436
+[308]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200703
+[309]: http://www.legislation.govt.nz/act/public/1992/0076/latest/whole.html#DLM5772980
+[310]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2026700
+[311]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2026708
+[312]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2026739
+[313]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2026753
+[314]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2026754
+[315]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM59172
+[316]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5478469
+[317]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5478470
+[318]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5478483
+[319]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM297441
+[320]: http://www.legislation.govt.nz/act/public/1992/0076/latest/whole.html#DLM5772966
+[321]: http://www.legislation.govt.nz/act/public/1992/0076/latest/whole.html#DLM5773101
+[322]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM177389
+[323]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2998516
+[324]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2998515
+[325]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2998532
+[326]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[327]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM96785
+[328]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM57286
