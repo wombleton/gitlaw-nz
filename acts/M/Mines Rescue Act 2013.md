@@ -614,7 +614,7 @@ Application, savings, and transitional provisions
     
 *   (1) Despite the repeal of the [Mines Rescue Trust Act 1992][45] by [section 26][29], [sections 7][47], [8][42], and [9][43] of that Act are to be treated as continuing in force until the appointed day. 
     
-    (2) Any amount of money that immediately before the appointed day was payable to the Trust Board under [section 7][47] of the Mines Rescue Trust Act 1992 is, on and after the appointed day, payable to the board as if it were a levy payable under regulations made under [section 8][42].
+    (2) Any amount of money that immediately before the appointed day was payable to the Trust Board under [section 7][47] of the Mines Rescue Trust Act 1992 is, on and after the appointed day, payable to the board as if it were a levy payable under regulations made under [section 10][48].
     
     (3) Despite the repeal of the [Mines Rescue Trust Act 1992][45], the Trust Board must, within three months of the appointed day, give the chief executive independently audited accounts of the Trust Board's income and expenditure under [section 7][47] of the Mines Rescue Trust Act 1992 for the period beginning on the occurrence of 1 April immediately preceding the repeal of that Act and ending at the close of the day before the appointed day.
 
@@ -680,3 +680,4 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 [45]: http://www.legislation.govt.nz/act/public/2013/0096/latest/link.aspx?id=DLM279971
 [46]: http://www.legislation.govt.nz/act/public/2013/0096/latest/link.aspx?id=DLM280604
 [47]: http://www.legislation.govt.nz/act/public/2013/0096/latest/link.aspx?id=DLM280608
+[48]: http://www.legislation.govt.nz/act/public/2013/0096/latest/whole.html#DLM5709396
