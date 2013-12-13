@@ -1,5 +1,5 @@
 Reprint  
-as at 18 July 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry for Culture and Heritage.
 
@@ -108,7 +108,7 @@ An Act to facilitate the restructuring of Radio New Zealand Limited
     
     _Charter_ means the Charter of the public radio company as expressed in [section 7][10]
     
-    _constitution_ means the articles of association and the memorandum of association of the public radio company while the public radio company is registered under the Companies Act 1955, and the constitution of the public radio company when the public radio company is registered under the [Companies Act 1993][33]
+    _constitution_ means the constitution (within the meaning of the [Companies Act 1993][33]) of the public radio company
     
     _Crown entity subsidiary_ has the same meaning as in the second column of [section 7(1)(c)][34] of the Crown Entities Act 2004
     
@@ -124,13 +124,15 @@ An Act to facilitate the restructuring of Radio New Zealand Limited
     
     _shareholding Ministers_ has the same meaning as in [section 10][36] of the Crown Entities Act 2004\.
     
-    Section 2 **Crown entity subsidiary**: inserted, on 25 January 2005, by [section 200][37] of the Crown Entities Act 2004 (2004 No 115).
+    Section 2 **constitution**: replaced, on 5 December 2013, by [section 14][37] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 2 **Crown entity subsidiary**: amended, on 18 July 2013, by [section 42][38] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    Section 2 **Crown entity subsidiary**: inserted, on 25 January 2005, by [section 200][38] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 2 **shareholding Ministers**: substituted, on 25 January 2005, by [section 200][37] of the Crown Entities Act 2004 (2004 No 115).
+    Section 2 **Crown entity subsidiary**: amended, on 18 July 2013, by [section 42][39] of the Crown Entities Amendment Act 2013 (2013 No 51).
     
-    Section 2 **subsidiary**: repealed, on 25 January 2005, by [section 200][37] of the Crown Entities Act 2004 (2004 No 115).
+    Section 2 **shareholding Ministers**: substituted, on 25 January 2005, by [section 200][38] of the Crown Entities Act 2004 (2004 No 115).
+    
+    Section 2 **subsidiary**: repealed, on 25 January 2005, by [section 200][38] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 3 Act to bind the Crown
     
@@ -140,25 +142,25 @@ An Act to facilitate the restructuring of Radio New Zealand Limited
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][37] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][38] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 4 Authorising Crown shareholding in public radio company
     
 *   \[Repealed\]
     
-    Section 4: repealed, on 25 January 2005, by [section 200][37] of the Crown Entities Act 2004 (2004 No 115).
+    Section 4: repealed, on 25 January 2005, by [section 200][38] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 5 Further provisions relating to Ministers' shareholding
     
 *   \[Repealed\]
     
-    Section 5: repealed, on 25 January 2005, by [section 200][37] of the Crown Entities Act 2004 (2004 No 115).
+    Section 5: repealed, on 25 January 2005, by [section 200][38] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 6 Ministers to hold all shares
     
 *   \[Repealed\]
     
-    Section 6: repealed, on 25 January 2005, by [section 200][37] of the Crown Entities Act 2004 (2004 No 115).
+    Section 6: repealed, on 25 January 2005, by [section 200][38] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Charter and principles of public radio company
 
@@ -208,17 +210,17 @@ An Act to facilitate the restructuring of Radio New Zealand Limited
     
     (4) The Charter shall be reviewed by the House of Representatives at 5-yearly intervals.
     
-    Section 7(1)(a): amended, on 1 July 2004, by [section 3(1)][39] of the Radio New Zealand Amendment Act 2004 (2004 No 18).
+    Section 7(1)(a): amended, on 1 July 2004, by [section 3(1)][40] of the Radio New Zealand Amendment Act 2004 (2004 No 18).
     
-    Section 7(1)(c): amended, on 1 July 2004, by [section 3(2)][39] of the Radio New Zealand Amendment Act 2004 (2004 No 18).
+    Section 7(1)(c): amended, on 1 July 2004, by [section 3(2)][40] of the Radio New Zealand Amendment Act 2004 (2004 No 18).
     
-    Section 7(1)(ga): inserted, on 1 July 2004, by [section 3(3)][39] of the Radio New Zealand Amendment Act 2004 (2004 No 18).
+    Section 7(1)(ga): inserted, on 1 July 2004, by [section 3(3)][40] of the Radio New Zealand Amendment Act 2004 (2004 No 18).
     
-    Section 7(2)(d): substituted, on 1 July 2004, by [section 3(4)][39] of the Radio New Zealand Amendment Act 2004 (2004 No 18).
+    Section 7(2)(d): substituted, on 1 July 2004, by [section 3(4)][40] of the Radio New Zealand Amendment Act 2004 (2004 No 18).
     
-    Section 7(2)(e): added, on 1 July 2004, by [section 3(4)][39] of the Radio New Zealand Amendment Act 2004 (2004 No 18).
+    Section 7(2)(e): added, on 1 July 2004, by [section 3(4)][40] of the Radio New Zealand Amendment Act 2004 (2004 No 18).
     
-    Section 7(2A): inserted, on 1 July 2004, by [section 3(5)][39] of the Radio New Zealand Amendment Act 2004 (2004 No 18).
+    Section 7(2A): inserted, on 1 July 2004, by [section 3(5)][40] of the Radio New Zealand Amendment Act 2004 (2004 No 18).
 
 ##### 8 Principles of operation
     
@@ -232,19 +234,19 @@ An Act to facilitate the restructuring of Radio New Zealand Limited
     
     *   (b) the company is operating as a successful going concern.
     
-    Compare: 1992 No 47 [s 5][40]
+    Compare: 1992 No 47 [s 5][41]
 
 ##### 9 Personnel policy
     
 *   \[Repealed\]
     
-    Section 9: repealed, on 25 January 2005, by [section 200][37] of the Crown Entities Act 2004 (2004 No 115).
+    Section 9: repealed, on 25 January 2005, by [section 200][38] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 10 Equal employment opportunities
     
 *   \[Repealed\]
     
-    Section 10: repealed, on 25 January 2005, by [section 200][37] of the Crown Entities Act 2004 (2004 No 115).
+    Section 10: repealed, on 25 January 2005, by [section 200][38] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Ministers and editorial independence of public radio company
 
@@ -260,21 +262,21 @@ An Act to facilitate the restructuring of Radio New Zealand Limited
         
     *   (a) have regard to the functions and principles of operation of the public radio company; and
     
-    *   (b) comply with [section 115][41] of the Crown Entities Act 2004\.
+    *   (b) comply with [section 115][42] of the Crown Entities Act 2004\.
     
-    Compare: 1992 No 47 [s 6][42]
+    Compare: 1992 No 47 [s 6][43]
     
-    Section 11(1): repealed, on 25 January 2005, by [section 200][37] of the Crown Entities Act 2004 (2004 No 115).
+    Section 11(1): repealed, on 25 January 2005, by [section 200][38] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 11(3): added, on 25 January 2005, by [section 200][37] of the Crown Entities Act 2004 (2004 No 115).
+    Section 11(3): added, on 25 January 2005, by [section 200][38] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 11(4): added, on 25 January 2005, by [section 200][37] of the Crown Entities Act 2004 (2004 No 115).
+    Section 11(4): added, on 25 January 2005, by [section 200][38] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 12 Information to be laid before House of Representatives
     
 *   \[Repealed\]
     
-    Section 12: repealed, on 25 January 2005, by [section 200][37] of the Crown Entities Act 2004 (2004 No 115).
+    Section 12: repealed, on 25 January 2005, by [section 200][38] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 13 Ministers of the Crown not to give certain directions
     
@@ -294,15 +296,15 @@ An Act to facilitate the restructuring of Radio New Zealand Limited
     
     *   (c) the responsibility of the company for programme standards.
     
-    (3) [Section 97(g)][43] of the Crown Entities Act 2004 does not apply to the public radio company.
+    (3) [Section 97(g)][44] of the Crown Entities Act 2004 does not apply to the public radio company.
     
-    Compare: 1988 No 162 s 7; 1989 No 25 [s 87][44]
+    Compare: 1988 No 162 s 7; 1989 No 25 [s 87][45]
     
-    Section 13(1): amended, on 25 January 2005, by [section 200][37] of the Crown Entities Act 2004 (2004 No 115).
+    Section 13(1): amended, on 25 January 2005, by [section 200][38] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 13(2): amended, on 25 January 2005, by [section 200][37] of the Crown Entities Act 2004 (2004 No 115).
+    Section 13(2): amended, on 25 January 2005, by [section 200][38] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 13(3): added, on 25 January 2005, by [section 200][37] of the Crown Entities Act 2004 (2004 No 115).
+    Section 13(3): added, on 25 January 2005, by [section 200][38] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Governors of public radio company
 
@@ -322,15 +324,15 @@ An Act to facilitate the restructuring of Radio New Zealand Limited
     
     (4) No governor of the public radio company shall be appointed to represent, or promote the views of, a particular interest group.
     
-    (5) This section does not limit [section 89][45] of the Crown Entities Act 2004\.
+    (5) This section does not limit [section 89][46] of the Crown Entities Act 2004\.
     
-    Section 14(2): repealed, on 25 January 2005, by [section 200][37] of the Crown Entities Act 2004 (2004 No 115).
+    Section 14(2): repealed, on 25 January 2005, by [section 200][38] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 14(3): amended, on 25 January 2005, by [section 200][37] of the Crown Entities Act 2004 (2004 No 115).
+    Section 14(3): amended, on 25 January 2005, by [section 200][38] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 14(3)(a): repealed, on 25 January 2005, by [section 200][37] of the Crown Entities Act 2004 (2004 No 115).
+    Section 14(3)(a): repealed, on 25 January 2005, by [section 200][38] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 14(5): added, on 25 January 2005, by [section 200][37] of the Crown Entities Act 2004 (2004 No 115).
+    Section 14(5): added, on 25 January 2005, by [section 200][38] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 15 Role of governors
     
@@ -338,9 +340,9 @@ An Act to facilitate the restructuring of Radio New Zealand Limited
     
     (2) The governors of the public radio company shall exercise or perform the powers, duties, and functions conferred or imposed on them with respect to the company in a manner that is consistent with the Charter of the company and the principles of operation of the company (as expressed in [section 8][11]).
     
-    Compare: 1992 No 47 [s 7][46]
+    Compare: 1992 No 47 [s 7][47]
     
-    Section 15(1): repealed, on 25 January 2005, by [section 200][37] of the Crown Entities Act 2004 (2004 No 115).
+    Section 15(1): repealed, on 25 January 2005, by [section 200][38] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Crown entity
 
@@ -348,21 +350,21 @@ An Act to facilitate the restructuring of Radio New Zealand Limited
     
 *   (1) The public radio company is a Crown entity for the purposes of [section 7][34] of the Crown Entities Act 2004\.
     
-    (2) The [Crown Entities Act 2004][47] applies to the public radio company except to the extent that this Act expressly provides otherwise.
+    (2) The [Crown Entities Act 2004][48] applies to the public radio company except to the extent that this Act expressly provides otherwise.
     
-    Section 16: substituted, on 25 January 2005, by [section 200][37] of the Crown Entities Act 2004 (2004 No 115).
+    Section 16: substituted, on 25 January 2005, by [section 200][38] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Audit of public radio company
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][37] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][38] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 17 Audit
     
 *   \[Repealed\]
     
-    Section 17: repealed, on 25 January 2005, by [section 200][37] of the Crown Entities Act 2004 (2004 No 115).
+    Section 17: repealed, on 25 January 2005, by [section 200][38] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Protection of name ""Radio New Zealand News""
 
@@ -378,7 +380,7 @@ An Act to facilitate the restructuring of Radio New Zealand Limited
     
     (3) Every person who contravenes subsection (2) commits an offence, and is liable on conviction to a fine not exceeding $2,500\.
     
-    Section 18(3): amended, on 1 July 2013, by [section 413][48] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 18(3): amended, on 1 July 2013, by [section 413][49] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Provisions relating to separation
 
@@ -398,7 +400,9 @@ An Act to facilitate the restructuring of Radio New Zealand Limited
     
     *   (b) subject to [sections 20][29] and [21][30], does not affect rights or obligations of either of the companies or legal proceedings by or against either of the companies, and legal proceedings that have or might have been commenced against either company under its former name may be continued or commenced against it under its new name.
     
-    (3) Nothing in this section prevents the name of either company being changed in accordance with the provisions of the Companies Act 1955 or the [Companies Act 1993][33].
+    (3) Nothing in this section prevents the name of either company being changed in accordance with the provisions of the [Companies Act 1993][33].
+    
+    Section 19(3): amended, on 5 December 2013, by [section 14][37] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 20 Amendments to other enactments
     
@@ -417,7 +421,7 @@ Enactments amended
 
 ##### Broadcasting Act 1989 (1989 No 25)
 
-_Amendment(s) incorporated in the [Act(s)][49]_.
+_Amendment(s) incorporated in the [Act(s)][50]_.
 
 ##### Income Tax Act 1994 (1994 No 164)
 
@@ -433,92 +437,51 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][50]_.
+_Amendment(s) incorporated in the [Act(s)][51]_.
 
 ##### Public Finance Act 1989 (1989 No 44) (RS Vol 33, p 419)
 
-_Amendment(s) incorporated in the [Act(s)][51]_.
+_Amendment(s) incorporated in the [Act(s)][52]_.
 
 ##### Radio Communications Act 1989 (1989 No 148)
 
-_Amendment(s) incorporated in the [Act(s)][52]_.
+_Amendment(s) incorporated in the [Act(s)][53]_.
 
 ##### State-Owned Enterprises Act 1986 (1986 No 124) (RS Vol 33, p 813)
 
-_Amendment(s) incorporated in the [Act(s)][53]_.
+_Amendment(s) incorporated in the [Act(s)][54]_.
 
 ##### State-Owned Enterprises Amendment Act (No 4) 1988 (1988 No 162) (RS Vol 33, p 877)
 
 _Amendment(s) incorporated in the Act(s)_.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Radio New Zealand Act 1995\. The reprint incorporates all the amendments to the Act as at 18 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][54] ![](/images/external_link.gif).
+*   This is a reprint of the Radio New Zealand Act 1995 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][55] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][55] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][56] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][56] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][57] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][58] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][57] and [17E][58] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][37]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Crown Entities Amendment Act 2013 (2013 No 51): [section 42][39]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][49]
     
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Crown Entities Amendment Act 2013 (2013 No 51): [section 42][38]
-    
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][48]
-    
-    Crown Entities Act 2004 (2004 No 115): [section 200][37]
+    Crown Entities Act 2004 (2004 No 115): [section 200][38]
     
     [Radio New Zealand Amendment Act 2004][59] (2004 No 18)
     
@@ -526,7 +489,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1995/0052/latest/whole.html#DLM368577
 [2]: http://www.legislation.govt.nz/act/public/1995/0052/latest/whole.html#DLM368579
 [3]: http://www.legislation.govt.nz/act/public/1995/0052/latest/whole.html#DLM368580
@@ -563,26 +526,26 @@ _Amendment(s) incorporated in the Act(s)_.
 [34]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM329641
 [35]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM323200
 [36]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM329649
-[37]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM331111
-[38]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM5326977
-[39]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM242331
-[40]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM265144
-[41]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM330364
-[42]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM265147
-[43]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM330342
-[44]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM158928
-[45]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM330330
-[46]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM265150
-[47]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM329630
-[48]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM3360714
-[49]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM155364
-[50]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM296638
-[51]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM160808
-[52]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM195575
-[53]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM97376
-[54]: http://www.pco.parliament.govt.nz/reprints/
-[55]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM195439
-[56]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[57]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM195468
-[58]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM195470
+[37]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM5620822
+[38]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM331111
+[39]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM5326977
+[40]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM242331
+[41]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM265144
+[42]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM330364
+[43]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM265147
+[44]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM330342
+[45]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM158928
+[46]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM330330
+[47]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM265150
+[48]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM329630
+[49]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM3360714
+[50]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM155364
+[51]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM296638
+[52]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM160808
+[53]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM195575
+[54]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM97376
+[55]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM2998516
+[56]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM2998515
+[57]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM2998532
+[58]: http://www.pco.parliament.govt.nz/editorial-conventions/
 [59]: http://www.legislation.govt.nz/act/public/1995/0052/latest/link.aspx?id=DLM242325
