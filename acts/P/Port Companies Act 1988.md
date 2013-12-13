@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -232,33 +232,33 @@ An Act to promote and improve efficiency, economy, and performance in the manage
     
     _rights_ means all rights, powers, privileges, and immunities, whether actual, contingent, or prospective
     
-    _subsidiary_ has the same meaning as in sections 158 and 158A of the Companies Act 1955 or [sections 5][60] and [6][61] of the Companies Act 1993, as the case may be
+    _subsidiary_ has the same meaning as in [section 5][60] of the Companies Act 1993
     
     _territorial authority_ means a territorial authority within the meaning of the [Local Government Act 2002][57].
     
-    (2) Every reference in this Act to the expression Harbour Board shall be construed as including a reference to a regional council or a territorial authority to which any property, rights, liabilities, functions, duties, or powers of a Harbour Board have been transferred pursuant to any Order in Council made under [section 36][62] of the Local Government Act 1974\.
+    (2) Every reference in this Act to the expression Harbour Board shall be construed as including a reference to a regional council or a territorial authority to which any property, rights, liabilities, functions, duties, or powers of a Harbour Board have been transferred pursuant to any Order in Council made under [section 36][61] of the Local Government Act 1974\.
     
-    Section 2(1) **council-controlled organisation**: inserted, on 1 July 2003, by [section 262][63] of the Local Government Act 2002 (2002 No 84).
+    Section 2(1) **council-controlled organisation**: inserted, on 1 July 2003, by [section 262][62] of the Local Government Act 2002 (2002 No 84).
     
-    Section 2(1) **local authority trading enterprise**: repealed, on 1 July 2003, by [section 262][63] of the Local Government Act 2002 (2002 No 84).
+    Section 2(1) **local authority trading enterprise**: repealed, on 1 July 2003, by [section 262][62] of the Local Government Act 2002 (2002 No 84).
     
-    Section 2(1) **port company**: substituted, on 1 July 1994, by [section 2][64] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 2(1) **port company**: substituted, on 1 July 1994, by [section 2][63] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 2(1) **regional council**: substituted, on 1 July 2003, by [section 262][63] of the Local Government Act 2002 (2002 No 84).
+    Section 2(1) **regional council**: substituted, on 1 July 2003, by [section 262][62] of the Local Government Act 2002 (2002 No 84).
     
-    Section 2(1) **subsidiary**: substituted, on 1 July 1994, by [section 2][64] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 2(1) **subsidiary**: replaced, on 5 December 2013, by [section 14][64] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 2(1) **territorial authority**: substituted, on 1 July 2003, by [section 262][63] of the Local Government Act 2002 (2002 No 84).
+    Section 2(1) **territorial authority**: substituted, on 1 July 2003, by [section 262][62] of the Local Government Act 2002 (2002 No 84).
     
     Section 2(2): added, on 31 August 1990, by section 2(4) of the Port Companies Amendment Act 1990 (1990 No 120).
 
 ##### 2A Special provisions where more than 1 regional council or territorial authority succeeds Harbour Board
     
-*   (1) Where any functions and powers of a Harbour Board have been transferred to more than 1 regional council or territorial authority pursuant to an Order in Council made under [section 36][62] of the Local Government Act 1974, the regional councils and territorial authorities shall determine by agreement between them which of them is to have the functions and powers of the Harbour Board under this Act.
+*   (1) Where any functions and powers of a Harbour Board have been transferred to more than 1 regional council or territorial authority pursuant to an Order in Council made under [section 36][61] of the Local Government Act 1974, the regional councils and territorial authorities shall determine by agreement between them which of them is to have the functions and powers of the Harbour Board under this Act.
     
-    (2) Where any duties of a Harbour Board have been transferred to more than 1 regional council or territorial authority pursuant to an Order in Council made under [section 36][62] of the Local Government Act 1974, then, except as provided in subsection (3), every duty of a Harbour Board under this Act shall be the duty of each of the regional councils and territorial authorities; but the regional councils and territorial authorities may determine by agreement between them which of them is to perform the duty.
+    (2) Where any duties of a Harbour Board have been transferred to more than 1 regional council or territorial authority pursuant to an Order in Council made under [section 36][61] of the Local Government Act 1974, then, except as provided in subsection (3), every duty of a Harbour Board under this Act shall be the duty of each of the regional councils and territorial authorities; but the regional councils and territorial authorities may determine by agreement between them which of them is to perform the duty.
     
-    (3) Where any property, rights, or liabilities of a Harbour Board are vested in a regional council or territorial authority (or any combination of them) pursuant to any Order in Council made under [section 36][62] of the Local Government Act 1974, every duty of the Harbour Board under this Act in respect of that property, right, or liability shall be the duty of the regional council or territorial authority (or combination of them) concerned.
+    (3) Where any property, rights, or liabilities of a Harbour Board are vested in a regional council or territorial authority (or any combination of them) pursuant to any Order in Council made under [section 36][61] of the Local Government Act 1974, every duty of the Harbour Board under this Act in respect of that property, right, or liability shall be the duty of the regional council or territorial authority (or combination of them) concerned.
     
     (4) Where regional councils and territorial authorities are unable to reach any agreement pursuant to subsection (1) or subsection (2), any of them may refer the matter to the Local Government Commission for determination.
     
@@ -273,15 +273,17 @@ Port companies
 
 ##### 4 Amendment of documents constituting port companies
     
-*   No amendment shall be made to the memorandum or articles or the constitution of a port company at any time without the prior written approval of the Minister.
+*   No amendment shall be made to the constitution of a port company at any time without the prior written approval of the Minister.
     
-    Section 4: substituted, on 1 July 1994, by [section 2][64] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 4: substituted, on 1 July 1994, by [section 2][63] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    
+    Section 4: amended, on 5 December 2013, by [section 14][64] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 4A Harbour Board may hold securities in port company
     
 *   In addition to the equity securities issued to the Harbour Board on the incorporation of a port company, a Harbour Board may subscribe for or have issued to it other equity securities or debt securities issued by the port company.
     
-    Section 4A: inserted, on 1 July 1994, by [section 2][64] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 4A: inserted, on 1 July 1994, by [section 2][63] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
 
 ##### 5 Principal objective to be successful business
     
@@ -289,7 +291,7 @@ Port companies
 
 ##### 6 Directors of port companies
     
-*   (1) The articles of association or constitution of every port company shall provide---
+*   (1) The constitution of every port company shall provide---
         
     *   (a) that there shall be no fewer than 6 directors of the port company; and
     
@@ -303,9 +305,11 @@ Port companies
     
     Compare: 1986 No 124 [s 5][66]
     
-    Section 6(1): amended, on 1 July 1994, by [section 2][64] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 6(1): amended, on 5 December 2013, by [section 14][64] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 6(1)(b): amended, on 1 July 1994, by [section 2][64] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 6(1): amended, on 1 July 1994, by [section 2][63] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    
+    Section 6(1)(b): amended, on 1 July 1994, by [section 2][63] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
 
 ##### 7 Shareholding of port companies
     
@@ -317,7 +321,7 @@ Port companies
 
 ##### 7A Restrictions on holding equity securities
     
-*   (1) No port company shall have in its memorandum or articles of association or in its constitution, as the case may be, any provision providing for the class of shares referred to in [section 7(1)][11] (as repealed by section 4 of the Port Companies Amendment Act 1990), or any provisions permitted by subsection (2) of that section (as so repealed).
+*   (1) No port company shall have in its constitution any provision providing for the class of shares referred to in [section 7(1)][11] (as repealed by section 4 of the Port Companies Amendment Act 1990), or any provisions permitted by subsection (2) of that section (as so repealed).
     
     (2) Where a port company does not comply with subsection (1), the Minister may, in accordance with this section, make such alterations to the memorandum of association and articles of association or the constitution of the port company as the Minister considers appropriate in order to achieve the purpose of subsection (1).
     
@@ -325,15 +329,13 @@ Port companies
     
     (4) The Minister shall specify a date, which shall be not earlier than 14 days after the sending of the last of the notices referred to in subsection (3), on which those alterations shall take effect.
     
-    (5) Every alteration shall have effect as if it was an alteration to---
-        
-    *   (a) the memorandum of association or articles of association of the company made in accordance with the Companies Act 1995; or
+    (5) Every alteration has effect as if it were an alteration to the constitution of the company made in accordance with the [Companies Act 1993][67], and, for the purposes of that Act, the notice of the alteration given to the port company by the Minister under subsection (3) is deemed to be a special resolution of the port company concerned made on the date on which the last of the notices was sent under that subsection.
     
-    *   (b) the constitution of the company made in accordance with the [Companies Act 1993][67],---
+    Section 7A: substituted, on 1 July 1994, by [section 2][63] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    as the case may be, and, for the purposes of those Acts, the notice of the alteration given to the port company by the Minister under subsection (3) shall be deemed to be a special resolution of the port company concerned made on the date on which the last of the notices was sent under the subsection.
+    Section 7A(1): amended, on 5 December 2013, by [section 14][64] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 7A: substituted, on 1 July 1994, by [section 2][64] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 7A(5): replaced, on 5 December 2013, by [section 14][64] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 8 Statement of corporate intent
     
@@ -445,9 +447,9 @@ Port companies
     
     Section 14: substituted, on 31 August 1990, by section 6 of the Port Companies Amendment Act 1990 (1990 No 120).
     
-    Section 14(1): amended, on 1 July 2003, by [section 262][63] of the Local Government Act 2002 (2002 No 84).
+    Section 14(1): amended, on 1 July 2003, by [section 262][62] of the Local Government Act 2002 (2002 No 84).
     
-    Section 14(2): amended, on 1 July 2003, by [section 262][63] of the Local Government Act 2002 (2002 No 84).
+    Section 14(2): amended, on 1 July 2003, by [section 262][62] of the Local Government Act 2002 (2002 No 84).
     
     Section 14(4): inserted, on 5 August 2013, by [section 77(3)][74] of the Legislation Act 2012 (2012 No 119).
 
@@ -515,7 +517,7 @@ Port companies
     
     the matter shall be referred to arbitration under the Arbitration Act 1908 with 1 arbitrator to be appointed by each party and an umpire to be appointed by those arbitrators before entering upon their reference.
     
-    (3) This section applies to a Harbour Board that is a regional council or a territorial authority only in relation to statutory functions, duties, or powers transferred from a Harbour Board specified in [Schedule 1][53] to that regional council or territorial authority pursuant to an Order in Council made under [section 36][62] of the Local Government Act 1974\.
+    (3) This section applies to a Harbour Board that is a regional council or a territorial authority only in relation to statutory functions, duties, or powers transferred from a Harbour Board specified in [Schedule 1][53] to that regional council or territorial authority pursuant to an Order in Council made under [section 36][61] of the Local Government Act 1974\.
     
     Compare: 1986 No 124 [s 7][79]
     
@@ -531,7 +533,7 @@ Port companies
     
 *   (1) Subject to subsection (2), [sections 4][7] (except subsections (1), (3), (6), and (7)), [5][9], [6][10], [7][11], [15][20], and [18][23] shall apply to every company that is---
         
-    *   (a) a related company (as defined in section 2(5) of the Companies Act 1955 or [section 2(3)][83] of the Companies Act 1993, as the case may be,) to a port company; or
+    *   (a) a related company (as defined in [section 2(3)][83] of the Companies Act 1993) to a port company; or
     
     *   (b) a company that consists substantially of the same shareholders as the port company, or is under the control of the same persons---
     
@@ -543,7 +545,7 @@ Port companies
     
     Section 20: substituted, on 31 August 1990, by section 8 of the Port Companies Amendment Act 1990 (1990 No 120).
     
-    Section 20(1)(a): amended, on 1 July 1994, by [section 2][64] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 20(1)(a): replaced, on 5 December 2013, by [section 14][64] of the Companies Amendment Act 2013 (2013 No 111).
 
 ## Part 2  
 Establishment procedures
@@ -774,7 +776,7 @@ Establishment procedures
     
     (4) The Minister shall, upon being satisfied that all the undertakings of the Harbour Board that are to be transferred to the port company have been so transferred, advise the Board in writing that the consent of the Minister to any action referred to in subsection (2) is no longer required.
     
-    Section 33(2)(b): substituted, on 1 July 2003, by [section 262][63] of the Local Government Act 2002 (2002 No 84).
+    Section 33(2)(b): substituted, on 1 July 2003, by [section 262][62] of the Local Government Act 2002 (2002 No 84).
 
 ##### 34 Supply of information
     
@@ -1095,19 +1097,21 @@ _Amendment(s) incorporated in the [Act(s)][107]_.
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][74]
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][64]
+    
+    Legislation Act 2012 (2012 No 119): [section 77(3)][74]
     
     Securities Markets Amendment Act 2009 (2009 No 54): [section 23(1)][70]
     
     Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][96]
     
-    Local Government Act 2002 (2002 No 84): [section 262][63]
+    Local Government Act 2002 (2002 No 84): [section 262][62]
     
     Securities Markets Amendment Act 2002 (2002 No 44): [section 30][71]
     
     Public Audit Act 2001 (2001 No 10): [section 53][82]
     
-    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][64]
+    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][63]
     
     Port Companies Amendment Act 1993 (1993 No 64)
     
@@ -1184,10 +1188,10 @@ _Amendment(s) incorporated in the [Act(s)][107]_.
 [58]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM25999
 [59]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM328980
 [60]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM319999
-[61]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM320101
-[62]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM416405
-[63]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM174088
-[64]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM328986
+[61]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM416405
+[62]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM174088
+[63]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM328986
+[64]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM5620822
 [65]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM122241
 [66]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM98019
 [67]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM319569
