@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry for Primary Industries.
 
@@ -763,17 +763,17 @@ Administration
         
     *   (a) financial statements for the Board for that year; and
     
-    *   (b) financial statements for the Board and every subsidiary (within the meaning of sections 158 and 158A of the Companies Act 1955 or [sections 5][78] and [6][82] of the Companies Act 1993, as the case may be) of the Board for that year.
+    *   (b) financial statements for the Board and every subsidiary (within the meaning of [section 5][78] of the Companies Act 1993) of the Board for that year.
     
-    (2) The [Financial Reporting Act 1993][83] applies to the Board and all the financial statements referred to in subsection (1) as if---
+    (2) The [Financial Reporting Act 1993][82] applies to the Board and all the financial statements referred to in subsection (1) as if---
         
     *   (a) the Board's subsidiaries were companies within the meaning of that Act; and
     
     *   (b) the Board and the Board's subsidiaries were a group within the meaning of that Act; and
     
-    *   (c) the Board were both a company and an issuer within the meaning of that Act (and a company within the meaning of the [Companies Act 1993][84]).
+    *   (c) the Board were both a company and an issuer within the meaning of that Act (and a company within the meaning of the [Companies Act 1993][83]).
     
-    
+    Section 24(1)(b): amended, on 5 December 2013, by [section 14][84] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 25 Audit of financial statements
     
@@ -785,7 +785,7 @@ Administration
     
     (2) Where, at the end of the period to which any statements referred to in [section 24][31] relate, there is no person appointed auditor under subsection (1), the statements must be audited by an auditor appointed by the Minister.
     
-    (3) For the purposes of the audit of any statement referred to in [section 24][31], an auditor appointed under this section has, and may exercise and perform, all the functions, duties, and powers of an auditor under the [Companies Act 1993][84].
+    (3) For the purposes of the audit of any statement referred to in [section 24][31], an auditor appointed under this section has, and may exercise and perform, all the functions, duties, and powers of an auditor under the [Companies Act 1993][83].
     
     (4) Where the Board or the Minister appoints the Auditor-General to audit any statements, the Auditor-General may audit them.
     
@@ -1907,70 +1907,29 @@ _Amendment(s) incorporated in the [Act(s)][109]._
 
 _Amendment(s) incorporated in the [Act(s)][110]._
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Pork Industry Board Act 1997\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][111] ![](/images/external_link.gif).
+*   This is a reprint of the Pork Industry Board Act 1997 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][112] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][111] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][112] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][113] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][113] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][114] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][114] and [17E][115] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][84]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Search and Surveillance Act 2012 (2012 No 24): [section 292][95]
+    Search and Surveillance Act 2012 (2012 No 24): [section 292][95]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][100]
     
@@ -1978,7 +1937,7 @@ _Amendment(s) incorporated in the [Act(s)][110]._
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][101]
     
-    [Pork Industry Board Amendment Act 2001][116] (2001 No 76)
+    [Pork Industry Board Amendment Act 2001][115] (2001 No 76)
     
     Public Audit Act 2001 (2001 No 10): [section 52][85]
     
@@ -1986,7 +1945,7 @@ _Amendment(s) incorporated in the [Act(s)][110]._
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1997/0106/latest/whole.html#DLM422200
 [2]: http://www.legislation.govt.nz/act/public/1997/0106/latest/whole.html#DLM422202
 [3]: http://www.legislation.govt.nz/act/public/1997/0106/latest/whole.html#DLM422203
@@ -2068,9 +2027,9 @@ _Amendment(s) incorporated in the [Act(s)][110]._
 [79]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM320806
 [80]: http://www.legislation.govt.nz/act/public/1997/0106/latest/whole.html#DLM422444
 [81]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM320657
-[82]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM320101
-[83]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM323597
-[84]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM319569
+[82]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM323597
+[83]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM319569
+[84]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM5620822
 [85]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM88956
 [86]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM321118
 [87]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM418634
@@ -2097,9 +2056,8 @@ _Amendment(s) incorporated in the [Act(s)][110]._
 [108]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM143212
 [109]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM163182
 [110]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM135633
-[111]: http://www.pco.parliament.govt.nz/reprints/
-[112]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM195439
-[113]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[114]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM195468
-[115]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM195470
-[116]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM113333
+[111]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2998516
+[112]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2998515
+[113]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM2998532
+[114]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[115]: http://www.legislation.govt.nz/act/public/1997/0106/latest/link.aspx?id=DLM113333
