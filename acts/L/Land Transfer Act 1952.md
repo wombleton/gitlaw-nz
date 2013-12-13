@@ -1,5 +1,5 @@
 Reprint  
-as at 19 August 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -2761,15 +2761,9 @@ Flat and office owning companies
     
 *   (1) In this Part, unless the context otherwise requires,---
     
-    _company_ has the same meaning as in---
-        
-    *   (a) section 2 of the Companies Act 1955; or
+    _company_ has the same meaning as in [section 2(1)][438] of the Companies Act 1993, and, in relation to a licence, means the company by which the licence was issued
     
-    *   (b) [section 2][438] of the Companies Act 1993,---
-    
-    as the case may be, and, in relation to a licence, means the company by which the licence was issued
-    
-    _constitution_, in relation to a company within the meaning of [section 2][438] of the Companies Act 1993, has the same meaning as in that section; and, in relation to a company within the meaning of section 2 of the Companies Act 1955, means the articles of association of the company
+    _constitution_ has the same meaning as in [section 2(1)][438] of the Companies Act 1993
     
     _flat or office owning company_ means a company the constitution of which provides that the registered holder of specified shares in the company is entitled, by virtue of being the holder of those shares, to occupy or use a specified residential flat or office forming part of a building owned by the company
     
@@ -2783,23 +2777,27 @@ Flat and office owning companies
     
     _share certificate_ means the certificate issued in respect of the shares to which a licence relates
     
-    _share register_, in relation to a company within the meaning of [section 2][438] of the Companies Act 1993, has the same meaning as in that section and, in relation to a company within the meaning of section 2 of the Companies Act 1955, means the register of members.
+    _share register_ has the same meaning as in [section 2(1)][438] of the Companies Act 1993\.
     
-    (2) A reference in this Part to a **shareholder of a company** is, in the case of a company within the meaning of section 2 of the Companies Act 1955, a reference to a member of the company.
+    (2) \[Repealed\]
     
     (3) A reference in this section to a **right to occupy or use a specified office or residential flat** includes a reference to any rights conferred by the constitution of the company or the licence to use any garage, outbuilding or other structure, or any passages, stairways, or other appurtenances, services or conveniences of the building of which the flat or office forms part, or the land appurtenant to that building.
     
     Compare: 1964 No 42 s 2
     
     Section 121A: inserted, on 1 July 1994, by [section 2][437] of the Land Transfer Amendment Act 1993 (1993 No 124).
+    
+    Section 121A(1) **company**: replaced, on 5 December 2013, by [section 14][439] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 121A(1) **constitution**: replaced, on 5 December 2013, by [section 14][439] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 121A(1) **share register**: replaced, on 5 December 2013, by [section 14][439] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 121A(2): repealed, on 5 December 2013, by [section 14][439] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 121B Issue of share certificates
     
-*   (1) Every flat or office owning company must issue to every shareholder in the company a share certificate that complies,---
-        
-    *   (a) in the case of a company within the meaning of section 2 of the Companies Act 1955, with the requirements of paragraphs (a), (b), and (c) of subsection (1) of section 90 of that Act:
-    
-    *   (b) in the case of a company within the meaning of [section 2][438] of the Companies Act 1993, with the requirements of paragraphs (a), (b), and (c) of subsection (1) of [section 95][439] of that Act.
+*   (1) Every flat or office owning company must issue to every shareholder in the company a share certificate that complies with the requirements of [section 95(1)(a), (b), and (c)][440] of the Companies Act 1993\.
     
     (2) Where a company acts in contravention of or fails to comply with subsection (1),---
         
@@ -2817,9 +2815,11 @@ Flat and office owning companies
     
     Section 121B: inserted, on 1 July 1994, by [section 2][437] of the Land Transfer Amendment Act 1993 (1993 No 124).
     
-    Section 121B(2)(a): amended, on 1 July 2013, by [section 413][440] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 121B(1): replaced, on 5 December 2013, by [section 14][439] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 121B(2)(b): amended, on 1 July 2013, by [section 413][440] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 121B(2)(a): amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 121B(2)(b): amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 121C Registration of licence to occupy
     
@@ -2903,9 +2903,9 @@ Flat and office owning companies
     
     Section 121G: inserted, on 1 July 1994, by [section 2][437] of the Land Transfer Amendment Act 1993 (1993 No 124).
     
-    Section 121G(7)(a): amended, on 1 July 2013, by [section 413][440] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 121G(7)(a): amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 121G(7)(b): amended, on 1 July 2013, by [section 413][440] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 121G(7)(b): amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 121H Mortgagee to have custody of licence and share certificate
     
@@ -2995,9 +2995,9 @@ Flat and office owning companies
     
     Section 121K: inserted, on 1 July 1994, by [section 2][437] of the Land Transfer Amendment Act 1993 (1993 No 124).
     
-    Section 121K(5)(a): amended, on 1 July 2013, by [section 413][440] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 121K(5)(a): amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 121K(5)(b): amended, on 1 July 2013, by [section 413][440] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 121K(5)(b): amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 121L Bringing down of mortgage on new licence
     
@@ -3015,7 +3015,7 @@ Flat and office owning companies
         
     *   (a) the new licence shall be deemed to be subject to the mortgage or mortgages; and
     
-    *   (b) [subpart 8][441] of Part 3 of the Property Law Act 2007 applies as if the licensee had acquired the licence by conveyance or transfer subject to the mortgage or mortgages recorded against it.
+    *   (b) [subpart 8][442] of Part 3 of the Property Law Act 2007 applies as if the licensee had acquired the licence by conveyance or transfer subject to the mortgage or mortgages recorded against it.
     
     (3) References in any mortgage or mortgages recorded against a new licence pursuant to this section to the licence or to the estate or interest of the licensee under it shall be deemed to be references to the new licence or, as the case may be, to the estate or interest of the licensee under it.
     
@@ -3089,7 +3089,7 @@ Flat and office owning companies
     
     *   (b) the document was sent by telex, facsimile machine, or other means of communication.
     
-    (5) The provisions of [sections 388][442] and [392][443] of the Companies Act 1993 apply in relation to a notice that is required by this Part to be given to a company.
+    (5) The provisions of [sections 388][443] and [392][444] of the Companies Act 1993 apply in relation to a notice that is required by this Part to be given to a company.
     
     Compare: 1964 No 42 s 16
     
@@ -3142,7 +3142,7 @@ Transmissions, trusts, caveats, and powers of attorney
     
 *   \[Repealed\]
     
-    Section 127: repealed, on 1 January 2002, by [section 57][444] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 127: repealed, on 1 January 2002, by [section 57][445] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 #### Trusts
 
@@ -3244,9 +3244,9 @@ Transmissions, trusts, caveats, and powers of attorney
     
     (3) Caveats under this section must be executed by the caveator or the caveator's attorney or agent.
     
-    Section 136: replaced, on 26 August 2002, by [section 49][445] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 136: replaced, on 26 August 2002, by [section 49][446] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
-    Section 136(1): amended, on 17 May 2005, by [section 10][446] of the Land Transfer Amendment Act 2005 (2005 No 58).
+    Section 136(1): amended, on 17 May 2005, by [section 10][447] of the Land Transfer Amendment Act 2005 (2005 No 58).
 
 ##### 137 Caveat against dealings with land under Act
     
@@ -3274,21 +3274,21 @@ Transmissions, trusts, caveats, and powers of attorney
     
     (4) Caveats under this section must be entered on the register as of the day and hour of their receipt by the Registrar.
     
-    Section 137: replaced, on 26 August 2002, by [section 49][445] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 137: replaced, on 26 August 2002, by [section 49][446] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
-    Section 137(1): amended, on 17 May 2005, by [section 11][447] of the Land Transfer Amendment Act 2005 (2005 No 58).
+    Section 137(1): amended, on 17 May 2005, by [section 11][448] of the Land Transfer Amendment Act 2005 (2005 No 58).
 
 ##### 138 Particulars to be stated in caveat
     
 *   \[Repealed\]
     
-    Section 138: repealed, on 26 August 2002, by [section 49][445] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 138: repealed, on 26 August 2002, by [section 49][446] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 139 Service of notices as to caveats
     
 *   \[Repealed\]
     
-    Section 139: repealed, on 26 August 2002, by [section 49][445] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 139: repealed, on 26 August 2002, by [section 49][446] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 140 Effect of caveat against bringing land under Act
     
@@ -3296,7 +3296,7 @@ Transmissions, trusts, caveats, and powers of attorney
     
     Compare: 1915 No 35 s 149
     
-    Section 140: amended, on 17 May 2005, by [section 12][448] of the Land Transfer Amendment Act 2005 (2005 No 58).
+    Section 140: amended, on 17 May 2005, by [section 12][449] of the Land Transfer Amendment Act 2005 (2005 No 58).
     
     Section 140: amended, on 1 April 1980, pursuant to [section 12][376] of the Judicature Amendment Act 1979 (1979 No 124).
 
@@ -3312,7 +3312,7 @@ Transmissions, trusts, caveats, and powers of attorney
             
         *   (i) a power of sale conferred on the transferor by virtue of a registered mortgage of that estate or interest; or
         
-        *   (ii) the power conferred on the Registrar of the High Court by [section 196][449] of the Property Law Act 2007 in respect of a registered mortgage of that estate or interest---
+        *   (ii) the power conferred on the Registrar of the High Court by [section 196][450] of the Property Law Act 2007 in respect of a registered mortgage of that estate or interest---
         
         (in either case hereafter in this subsection referred to as the **empowering mortgage**); and
     
@@ -3334,7 +3334,7 @@ Transmissions, trusts, caveats, and powers of attorney
     
     *   (d) a change in, or a correction to, the name of a proprietor where the ownership remains the same; or
     
-    *   (e) a transfer consequent on a rating sale under the [Local Government (Rating) Act 2002][450]; or
+    *   (e) a transfer consequent on a rating sale under the [Local Government (Rating) Act 2002][451]; or
     
     *   (f) dealings with secondary interests if the caveat affects the fee simple (such as the transfer of a mortgage); or
     
@@ -3348,19 +3348,19 @@ Transmissions, trusts, caveats, and powers of attorney
     
     Section 141: replaced, on 4 November 1982, by section 2 of the Land Transfer Amendment Act 1982 (1982 No 22).
     
-    Section 141(1): amended, on 17 May 2005, by [section 13][451] of the Land Transfer Amendment Act 2005 (2005 No 58).
+    Section 141(1): amended, on 17 May 2005, by [section 13][452] of the Land Transfer Amendment Act 2005 (2005 No 58).
     
     Section 141(3)(a): replaced, on 11 June 1985, by section 2 of the Land Transfer Amendment Act 1985 (1985 No 90).
     
     Section 141(3)(a)(ii): amended, on 1 January 2008, by [section 364(1)][422] of the Property Law Act 2007 (2007 No 91).
     
-    Section 141(3)(d): repealed, on 26 August 2002, by [section 50(1)][452] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 141(3)(d): repealed, on 26 August 2002, by [section 50(1)][453] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
     Section 141(4): amended, on 1 February 1999, by section 43(1) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
     
-    Section 141(5): inserted, on 26 August 2002, by [section 50(2)][452] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 141(5): inserted, on 26 August 2002, by [section 50(2)][453] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
-    Section 141(5)(e): amended, on 1 July 2003 (but continuing in force to extent necessary for the levying and collection of rates made or levied for the financial year ending on 30 June 2003 or a previous financial year), pursuant to [section 138(1)][453] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 141(5)(e): amended, on 1 July 2003 (but continuing in force to extent necessary for the levying and collection of rates made or levied for the financial year ending on 30 June 2003 or a previous financial year), pursuant to [section 138(1)][454] of the Local Government (Rating) Act 2002 (2002 No 6).
 
 ##### 142 Notices to be given to persons affected
     
@@ -3370,7 +3370,7 @@ Transmissions, trusts, caveats, and powers of attorney
     
     *   (b) in the case of a caveat under [section 137][198], to the registered proprietor against whose title to deal with land under this Act the caveat has been lodged.
     
-    Section 142: replaced, on 26 August 2002, by [section 51][454] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 142: replaced, on 26 August 2002, by [section 51][455] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 143 Procedure for removal of caveat
     
@@ -3388,7 +3388,7 @@ Transmissions, trusts, caveats, and powers of attorney
     
     Compare: 1915 No 35 s 153
     
-    Section 144: amended, on 17 May 2005, by [section 14][455] of the Land Transfer Amendment Act 2005 (2005 No 58).
+    Section 144: amended, on 17 May 2005, by [section 14][456] of the Land Transfer Amendment Act 2005 (2005 No 58).
     
     Section 144: amended, on 1 April 1980, pursuant to[section 12][376] of the Judicature Amendment Act 1979 (1979 No 124).
 
@@ -3404,7 +3404,7 @@ Transmissions, trusts, caveats, and powers of attorney
     
     (3) In this section, **first prescribed period** and **second prescribed period** are periods prescribed for the purposes of this section by regulations made under this Act.
     
-    Section 145: replaced, on 17 May 2005, by [section 15][456] of the Land Transfer Amendment Act 2005 (2005 No 58).
+    Section 145: replaced, on 17 May 2005, by [section 15][457] of the Land Transfer Amendment Act 2005 (2005 No 58).
 
 ##### 145A Early lapse of caveat against dealings
     
@@ -3418,7 +3418,7 @@ Transmissions, trusts, caveats, and powers of attorney
     
     *   (b) an order to that effect has been made and served on the Registrar within the prescribed period after the date on which the notice under paragraph (a) is given to the Registrar.
     
-    Section 145A: inserted, on 12 June 2003, by [section 52][457] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 145A: inserted, on 12 June 2003, by [section 52][458] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 146 Person entering caveat without due cause liable for damages
     
@@ -3442,7 +3442,7 @@ Transmissions, trusts, caveats, and powers of attorney
     
 *   If an electronic instrument is registered with the consent of the caveator, the dealing must be regarded as having been made subject to the rights of the caveator for the purposes of [section 147][209].
     
-    Section 147A: inserted, on 1 June 2002, by [section 53][458] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 147A: inserted, on 1 June 2002, by [section 53][459] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 148 No second caveat may be entered
     
@@ -3450,19 +3450,19 @@ Transmissions, trusts, caveats, and powers of attorney
     
     (2) For the purposes of verifying that a caveat does not contravene the prohibition in subsection (1), the Registrar is not obliged to inquire further than the current folium of the register or computer register for the land.
     
-    Section 148: replaced, on 26 August 2002, by [section 54][459] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 148: replaced, on 26 August 2002, by [section 54][460] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 148A Registrar not required to verify caveator's entitlement to estate or interest claimed
     
 *   Except to the extent of ensuring that a caveat lodged under any provision of this Act complies on its face with the requirements of this Act and with the requirements of any regulations made for the purposes of this Act, the Registrar is not required to be satisfied that the caveator is in fact or at law entitled to the estate or interest claimed in the caveat.
     
-    Section 148A: inserted, on 26 August 2002, by [section 54][459] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 148A: inserted, on 26 August 2002, by [section 54][460] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 148B Registrar's powers if caveat does not comply with this Act
     
 *   If a caveat does not comply with the requirements of this Act, the Registrar may deal with it under [section 43][51] as if it were an instrument not in order for registration.
     
-    Section 148B: inserted, on 26 August 2002, by [section 54][459] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 148B: inserted, on 26 August 2002, by [section 54][460] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 #### Powers of attorney
 
@@ -3527,7 +3527,7 @@ General provisions as to instruments
     
     (3) The covenant relating to insurance contained in [Schedule 4][346] does not apply to a mortgage under this Act except as otherwise expressed in the mortgage.
     
-    Section 155: replaced, on 1 June 2002, by [section 55][460] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 155: replaced, on 1 June 2002, by [section 55][461] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 155A Incorporation of provisions contained in registered or prescribed memorandum
     
@@ -3569,39 +3569,39 @@ General provisions as to instruments
     
     (3) Every instrument executed in accordance with this section has the same effect as a deed executed by the parties signing it.
     
-    (4) This section is subject to the provisions of [section 3][461] of the Official Appointments and Documents Act 1919\.
+    (4) This section is subject to the provisions of [section 3][462] of the Official Appointments and Documents Act 1919\.
     
-    Section 157: replaced, on 26 August 2002, by [section 56][462] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 157: replaced, on 26 August 2002, by [section 56][463] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 158 When instruments deemed to be attested
     
 *   \[Repealed\]
     
-    Section 158: repealed, on 26 August 2002, by [section 56][462] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 158: repealed, on 26 August 2002, by [section 56][463] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 159 Questions to attesting witness, and certificate thereon
     
 *   \[Repealed\]
     
-    Section 159: repealed, on 26 August 2002, by [section 56][462] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 159: repealed, on 26 August 2002, by [section 56][463] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 160 Acknowledgment by party to instrument, and certificate thereon
     
 *   \[Repealed\]
     
-    Section 160: repealed, on 26 August 2002, by [section 56][462] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 160: repealed, on 26 August 2002, by [section 56][463] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 161 Execution of documents by corporation
     
 *   \[Repealed\]
     
-    Section 161: repealed, on 26 August 2002, by [section 56][462] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 161: repealed, on 26 August 2002, by [section 56][463] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 162 Unincorporated building societies
     
 *   \[Repealed\]
     
-    Section 162: repealed, on 26 August 2002, by [section 56][462] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 162: repealed, on 26 August 2002, by [section 56][463] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 163 Instruments as evidence
     
@@ -3621,13 +3621,13 @@ General provisions as to instruments
     
     Compare: 1915 No 35 s 175
     
-    Section 164(1): amended, on 1 August 2008, by [section 343][463] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 164(1): amended, on 1 August 2008, by [section 343][464] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
     
     Section 164(1) proviso: amended, on 1 April 1980, pursuant to [section 12][376] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 164(3): amended, on 1 July 2013, by [section 413][440] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 164(3): amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 164(3): amended, on 1 April 1980, pursuant to [section 18(2)][464] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 164(3): amended, on 1 April 1980, pursuant to [section 18(2)][465] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 164A Certification
     
@@ -3651,7 +3651,7 @@ General provisions as to instruments
     
     (4) Regulations made under this Act may prescribe the form of certifications under this section.
     
-    Section 164A: inserted, on 1 June 2002, by [section 57][465] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 164A: inserted, on 1 June 2002, by [section 57][466] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 164B Who may give certification
     
@@ -3673,9 +3673,9 @@ General provisions as to instruments
     
     *   (b) comply with requirements under [section 164C][237].
     
-    Section 164B: inserted, on 1 June 2002, by [section 57][465] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 164B: inserted, on 1 June 2002, by [section 57][466] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
-    Section 164B(1): amended, on 1 August 2008, by [section 344][466] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 164B(1): amended, on 1 August 2008, by [section 344][467] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
 
 ##### 164C Retention of evidence and audit of certifications
     
@@ -3697,7 +3697,7 @@ General provisions as to instruments
     
     (4) Any requirement by the Registrar under subsection (3) must be complied with within 10 working days of its receipt.
     
-    Section 164C: inserted, on 1 June 2002, by [section 57][465] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 164C: inserted, on 1 June 2002, by [section 57][466] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 164D Requirements about execution do not apply if certification given
     
@@ -3709,13 +3709,13 @@ General provisions as to instruments
     
     *   (c) any provision in any enactment or rule of law relating to the execution, signing, witnessing, or attestation of instruments.
     
-    Section 164D: inserted, on 1 June 2002, by [section 57][465] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 164D: inserted, on 1 June 2002, by [section 57][466] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 164E Effect of certification
     
 *   (1) When an instrument certified under [section 164A][235] (other than a discharge of mortgage under [section 111][147]) is registered, the instrument has the same effect as a deed executed by the parties specified in regulations made under this Act.
     
-    (2) This section is subject to the provisions of [section 3][461] of the Official Appointments and Documents Act 1919\.
+    (2) This section is subject to the provisions of [section 3][462] of the Official Appointments and Documents Act 1919\.
     
     (3) When an instrument certified under [section 164A][235] is registered, the instrument must be regarded for the purposes of every enactment and rule of law as if---
         
@@ -3723,11 +3723,11 @@ General provisions as to instruments
     
     *   (b) the instrument had been duly executed by every party specified for the purpose in regulations made under this Act.
     
-    (4) When an instrument certified under [section 164A][235] is registered, the provisions of [section 25][467] of the Property Law Act 2007 must be regarded as having been fully satisfied.
+    (4) When an instrument certified under [section 164A][235] is registered, the provisions of [section 25][468] of the Property Law Act 2007 must be regarded as having been fully satisfied.
     
     (5) Subsection (4) is for the avoidance of doubt.
     
-    Section 164E: inserted, on 1 June 2002, by [section 57][465] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 164E: inserted, on 1 June 2002, by [section 57][466] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
     Section 164E(4): amended, on 1 January 2008, by [section 364(1)][422] of the Property Law Act 2007 (2007 No 91).
 
@@ -3767,7 +3767,7 @@ General provisions as to instruments
         
         *   (ii) by or before a Notary Public exercising his office in that country; or
         
-        *   (iii) in any case where the provisions of [section 9][468] of the Evidence Amendment Act 1945 apply, in the manner provided in that section:
+        *   (iii) in any case where the provisions of [section 9][469] of the Evidence Amendment Act 1945 apply, in the manner provided in that section:
         
         
     
@@ -3789,7 +3789,7 @@ General provisions as to instruments
     
     Compare: 1915 No 35 s 176
     
-    Section 166(3) **Commonwealth representative**: replaced, on 23 October 1963, by [section 27][469] of the Land Transfer Amendment Act 1963 (1963 No 61).
+    Section 166(3) **Commonwealth representative**: replaced, on 23 October 1963, by [section 27][470] of the Land Transfer Amendment Act 1963 (1963 No 61).
 
 ## Part 10  
 Plans and surveys
@@ -3812,11 +3812,11 @@ Plans and surveys
     
     Section 167(1): amended, on 20 October 1972, by section 3(a) of the Land Transfer Amendment Act 1972 (1972 No 76).
     
-    Section 167(1) proviso: inserted, on 7 October 1966, by [section 12][470] of the Land Transfer Amendment Act 1966 (1966 No 37).
+    Section 167(1) proviso: inserted, on 7 October 1966, by [section 12][471] of the Land Transfer Amendment Act 1966 (1966 No 37).
     
     Section 167(1) proviso: amended, on 1 June 2002, pursuant to [section 68(2)][357] of the Cadastral Survey Act 2002 (2002 No 12).
     
-    Section 167(1) proviso: amended, on 1 June 2002, pursuant to [section 69(1)][471] of the Cadastral Survey Act 2002 (2002 No 12).
+    Section 167(1) proviso: amended, on 1 June 2002, pursuant to [section 69(1)][472] of the Cadastral Survey Act 2002 (2002 No 12).
     
     Section 167(1) proviso: amended, on 20 October 1972, by section 3(b) of the Land Transfer Amendment Act 1972 (1972 No 76).
     
@@ -3854,13 +3854,13 @@ Plans and surveys
     
     *   (c) indicates that person's approval or consent to the deposit of the plan.
     
-    (7) For the purposes of regulations made under [section 236(1)(d)][329], and for the purposes of [sections 20 to 25][472] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002, a form specified under subsection (1)---
+    (7) For the purposes of regulations made under [section 236(1)(d)][329], and for the purposes of [sections 20 to 25][473] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002, a form specified under subsection (1)---
         
     *   (a) may take the form of an electronic instrument; but
     
     *   (b) must not be registered.
     
-    Section 167A: inserted, on 5 December 2002, by [section 58][473] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 167A: inserted, on 5 December 2002, by [section 58][474] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 168 Deposit not to operate as dedication of roads
     
@@ -3870,7 +3870,7 @@ Plans and surveys
     
     Compare: 1915 No 35 s 179
     
-    Section 168(1): amended, on 7 October 1966, by [section 13][474] of the Land Transfer Amendment Act 1966 (1966 No 37).
+    Section 168(1): amended, on 7 October 1966, by [section 13][475] of the Land Transfer Amendment Act 1966 (1966 No 37).
 
 ##### 169 Land taken for roads to be defined on register
     
@@ -3892,7 +3892,7 @@ Plans and surveys
     
     Compare: 1915 No 35 s 181; 1930 No 6 s 53(4); 1931 No 5 [s 25(2)][395]
     
-    Section 170: amended, on 25 January 2005, pursuant to [section 83(7)][475] of the Public Finance Act 1989 (1989 No 44).
+    Section 170: amended, on 25 January 2005, pursuant to [section 83(7)][476] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 171 Surveyor-General or person authorised by him may enter land
     
@@ -3945,7 +3945,7 @@ Guarantee of title
     
     (4) For the purposes of an action under this section, the court may, on application made to it in that behalf by the purchaser (whether before or after the expiry of the second operative period), extend the second operative period for such length of time as it thinks just where it is satisfied that the registration of all instruments and other documents giving effect to the transaction have not been registered within that period and that the delay in such registration is attributable otherwise than to the fault of the purchaser, his solicitor, or agents.
     
-    Section 172A: inserted, on 1 January 1984, by [section 3][476] of the Land Transfer Amendment Act (No 2) 1982 (1982 No 115).
+    Section 172A: inserted, on 1 January 1984, by [section 3][477] of the Land Transfer Amendment Act (No 2) 1982 (1982 No 115).
 
 ##### 173 Notice of action to be served on Attorney-General and Registrar-General
     
@@ -3957,7 +3957,7 @@ Guarantee of title
     
     Compare: 1915 No 35 s 188; 1925 No 20 s 6
     
-    Section 173(2): amended, on 25 January 2005, pursuant to [section 83(7)][475] of the Public Finance Act 1989 (1989 No 44).
+    Section 173(2): amended, on 25 January 2005, pursuant to [section 83(7)][476] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 174 Liability of plaintiff for costs
     
@@ -3985,23 +3985,23 @@ Guarantee of title
     
     Compare: 1915 No 35 s 190; 1930 No 6 s 53(3), (4); 1931 No 5 [s 25(2)][395]
     
-    Section 175(1): amended, on 25 January 2005, pursuant to [section 83(7)][475] of the Public Finance Act 1989 (1989 No 44).
+    Section 175(1): amended, on 25 January 2005, pursuant to [section 83(7)][476] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 175(1A): inserted, on 1 January 1984, by [section 4][477] of the Land Transfer Amendment Act (No 2) 1982 (1982 No 115).
+    Section 175(1A): inserted, on 1 January 1984, by [section 4][478] of the Land Transfer Amendment Act (No 2) 1982 (1982 No 115).
     
-    Section 175(1A): amended, on 1 August 2008, by [section 345(1)(a)][478] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 175(1A): amended, on 1 August 2008, by [section 345(1)(a)][479] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
     
-    Section 175(1A): amended, on 1 August 2008, by [section 345(1)(b)][478] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 175(1A): amended, on 1 August 2008, by [section 345(1)(b)][479] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
     
-    Section 175(1A): amended, on 25 January 2005, pursuant to [section 83(7)][475] of the Public Finance Act 1989 (1989 No 44).
+    Section 175(1A): amended, on 25 January 2005, pursuant to [section 83(7)][476] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 175(1B): inserted, on 1 January 1984, by [section 4][477] of the Land Transfer Amendment Act (No 2) 1982 (1982 No 115).
+    Section 175(1B): inserted, on 1 January 1984, by [section 4][478] of the Land Transfer Amendment Act (No 2) 1982 (1982 No 115).
     
-    Section 175(1B): amended, on 1 August 2008, by [section 345(1)(a)][478] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 175(1B): amended, on 1 August 2008, by [section 345(1)(a)][479] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
     
-    Section 175(2): amended, on 25 January 2005, pursuant to [section 83(7)][475] of the Public Finance Act 1989 (1989 No 44).
+    Section 175(2): amended, on 25 January 2005, pursuant to [section 83(7)][476] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 175(3): amended, on 25 January 2005, pursuant to [section 83(7)][475] of the Public Finance Act 1989 (1989 No 44).
+    Section 175(3): amended, on 25 January 2005, pursuant to [section 83(7)][476] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 176 Judgment against absconders, etc
     
@@ -4011,7 +4011,7 @@ Guarantee of title
     
     Compare: 1915 No 35 s 191
     
-    Section 176(1): amended, on 25 January 2005, pursuant to [section 83(7)][475] of the Public Finance Act 1989 (1989 No 44).
+    Section 176(1): amended, on 25 January 2005, pursuant to [section 83(7)][476] of the Public Finance Act 1989 (1989 No 44).
     
     Section 176(1): amended, on 1 April 1980, pursuant to [section 12][376] of the Judicature Amendment Act 1979 (1979 No 124).
 
@@ -4051,7 +4051,7 @@ Guarantee of title
     
     (2) For the purposes of this section, the date when the right to bring an action accrued shall be deemed to be the date on which the plaintiff becomes aware, or but for his own default might have become aware, of the existence of his right to make a claim.
     
-    Compare: 1915 No 35 s 195; 1950 No 65 [s 35(2)][479]
+    Compare: 1915 No 35 s 195; 1950 No 65 [s 35(2)][480]
     
     Section 180 heading: amended, on 30 September 1959, by section 5 of the Land Transfer Amendment Act 1959 (1959 No 29).
     
@@ -4108,9 +4108,9 @@ Compulsory registration of titles
     
     (2) This section shall not apply to land over which the Maori title has not been extinguished.
     
-    Compare: 1924 No 32 s 3; 1947 No 59 [s 2][480]
+    Compare: 1924 No 32 s 3; 1947 No 59 [s 2][481]
     
-    Section 185 heading: amended, on 10 October 1975, pursuant to [section 16(2)][481] of the Maori Purposes Act 1975 (1975 No 135).
+    Section 185 heading: amended, on 10 October 1975, pursuant to [section 16(2)][482] of the Maori Purposes Act 1975 (1975 No 135).
 
 ##### 186 Application to bring land under this Act deemed to be made
     
@@ -4156,7 +4156,7 @@ Compulsory registration of titles
     
     Compare: 1924 No 32 s 7
     
-    Section 189(2): amended, on 1 July 2013, by [section 413][440] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 189(2): amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 190 Registrar may issue ordinary or limited certificate of title
     
@@ -4340,9 +4340,9 @@ Compulsory registration of titles
     
     (7) Subject to the provisions of this Part, the provisions of this Act relating to caveats under subsection (1), with any necessary modifications, apply to caveats referred to in subsection (4).
     
-    Section 205: replaced, on 26 August 2002, by [section 59][482] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 205: replaced, on 26 August 2002, by [section 59][483] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
-    Section 205(5): amended, on 17 May 2005, by [section 16][483] of the Land Transfer Amendment Act 2005 (2005 No 58).
+    Section 205(5): amended, on 17 May 2005, by [section 16][484] of the Land Transfer Amendment Act 2005 (2005 No 58).
 
 ##### 206 Trustees without power to sell
     
@@ -4403,7 +4403,7 @@ General provisions
     
     *   (e) he may administer oaths, or may take a statutory declaration in lieu of administering an oath.
     
-    Compare: 1915 No 35 s 183; 1936 No 31 [s 13][484]; 1950 No 65
+    Compare: 1915 No 35 s 183; 1936 No 31 [s 13][485]; 1950 No 65
     
     Section 211: amended, on 1 June 2002, by [section 65(1)][355] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
@@ -4411,7 +4411,7 @@ General provisions
     
     Section 211(c) proviso: repealed, on 10 December 1991, by [section 2(2)(e)][385] of the Land Transfer Amendment Act 1991 (1991 No 118).
     
-    Section 211(ca): inserted, on 30 November 1982, by [section 5][485] of the Land Transfer Amendment Act (No 2) 1982 (1982 No 115).
+    Section 211(ca): inserted, on 30 November 1982, by [section 5][486] of the Land Transfer Amendment Act (No 2) 1982 (1982 No 115).
 
 ##### 212 Not producing instruments when required by Registrar
     
@@ -4425,11 +4425,11 @@ General provisions
     
     Compare: 1915 No 35 s 184
     
-    Section 212: amended, on 1 July 2013, by [section 413][440] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 212: amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 212: amended, on 1 June 2002, by [section 65(1)][355] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
-    Section 212: amended, on 1 April 1980, pursuant to [section 18(2)][464] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 212: amended, on 1 April 1980, pursuant to [section 18(2)][465] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 213 Authority to destroy instruments of title after 20 years
     
@@ -4457,7 +4457,7 @@ General provisions
     
     *   (b) where any record is copied and certified as aforesaid, a copy of that certified copy, if certified by the Registrar to be a true copy for the purposes of this section, shall, for the purposes of [sections 45][53], [48][57], [63][77], [75][90], and [241][338], be deemed to be a duly certified copy of the record.
     
-    Section 215A: inserted, on 7 October 1966, by [section 14(1)][486] of the Land Transfer Amendment Act 1966 (1966 No 37).
+    Section 215A: inserted, on 7 October 1966, by [section 14(1)][487] of the Land Transfer Amendment Act 1966 (1966 No 37).
     
     Section 215A: amended, on 1 June 2002, by [section 65(1)][355] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
@@ -4465,7 +4465,7 @@ General provisions
     
 *   Where any duplicate grant or certificate of title constituting a separate folium of the register, or any other instrument of any kind forming part of the register or his records or any computer register, is lost, misplaced, or destroyed, the Registrar may, after making all such inquiries as he considers necessary and reasonably practicable and as best he can in the light of those inquiries, prepare another copy of the original grant or certificate of title or other instrument, and record thereon the particulars of all instruments, dealings, and other matters affecting the land as those particulars were recorded on the duplicate grant or certificate of title at the time of its loss, misplacement, or destruction; and paragraphs (a) and (b) of [section 215A][302], so far as they are applicable and with any necessary modifications, shall apply in respect of every copy prepared under this section.
     
-    Section 215B: inserted, on 30 November 1982, by [section 6(1)][487] of the Land Transfer Amendment Act (No 2) 1982 (1982 No 115).
+    Section 215B: inserted, on 30 November 1982, by [section 6(1)][488] of the Land Transfer Amendment Act (No 2) 1982 (1982 No 115).
     
     Section 215B: amended, on 1 June 2002, by [section 65(1)][355] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
@@ -4515,7 +4515,7 @@ General provisions
     
     Compare: 1915 No 35 s 202
     
-    Section 219: amended, on 25 January 2005, pursuant to [section 83(7)][475] of the Public Finance Act 1989 (1989 No 44).
+    Section 219: amended, on 25 January 2005, pursuant to [section 83(7)][476] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 220 Registrar-General to decide between Registrar and Examiner of Titles
     
@@ -4577,7 +4577,7 @@ General provisions
     
     Compare: 1915 No 35 s 208
     
-    Section 225(1): amended, on 1 July 2013, by [section 413][440] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 225(1): amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 225(1)(ab): inserted, on 1 February 1999, by section 37(1) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
     
@@ -4627,17 +4627,17 @@ General provisions
     
     Compare: 1915 No 35 s 209
     
-    Section 226: amended, on 1 July 2013, by [section 413][440] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 226: amended, on 1 July 2013, by [section 413][441] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 226(a): amended, on 1 June 2002, by [section 65(1)][355] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
-    Section 226(b): amended, on 7 October 1966, by [section 15(1)][488] of the Land Transfer Amendment Act 1966 (1966 No 37).
+    Section 226(b): amended, on 7 October 1966, by [section 15(1)][489] of the Land Transfer Amendment Act 1966 (1966 No 37).
     
     Section 226(c): amended, on 1 June 2002, by [section 65(1)][355] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
     Section 226(f): amended, on 1 June 2002, by [section 65(1)][355] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
-    Section 226(f): amended, on 7 October 1966, by [section 15(2)][488] of the Land Transfer Amendment Act 1966 (1966 No 37).
+    Section 226(f): amended, on 7 October 1966, by [section 15(2)][489] of the Land Transfer Amendment Act 1966 (1966 No 37).
     
     Section 226(fa): inserted, on 1 February 1999, by section 38 of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
     
@@ -4651,7 +4651,7 @@ General provisions
     
     Section 226(fc)(i): amended, on 1 June 2002, by [section 65(1)][355] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
-    Section 226(g): inserted, on 7 October 1966, by [section 15(2)][488] of the Land Transfer Amendment Act 1966 (1966 No 37).
+    Section 226(g): inserted, on 7 October 1966, by [section 15(2)][489] of the Land Transfer Amendment Act 1966 (1966 No 37).
     
     Section 226(g): amended, on 1 June 2002, by [section 65(1)][355] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
@@ -4661,7 +4661,7 @@ General provisions
     
 *   \[Repealed\]
     
-    Section 227: repealed, on 1 April 1958, by [section 214(1)][489] of the Summary Proceedings Act 1957 (1957 No 87).
+    Section 227: repealed, on 1 April 1958, by [section 214(1)][490] of the Summary Proceedings Act 1957 (1957 No 87).
 
 ##### 228 Prosecution of offences
     
@@ -4677,9 +4677,9 @@ General provisions
     
     *   (b) destroys, conceals, cancels, obliterates, or damages any such property,---
     
-    he shall be deemed for the purposes of the [Crimes Act 1961][490] to have stolen that property, and shall be liable to the penalty prescribed by paragraph (b) of [section 227][491] of that Act as if the property were an object to which that paragraph applies.
+    he shall be deemed for the purposes of the [Crimes Act 1961][491] to have stolen that property, and shall be liable to the penalty prescribed by paragraph (b) of [section 227][492] of that Act as if the property were an object to which that paragraph applies.
     
-    Section 228A: inserted, on 7 October 1966, by [section 16][492] of the Land Transfer Amendment Act 1966 (1966 No 37).
+    Section 228A: inserted, on 7 October 1966, by [section 16][493] of the Land Transfer Amendment Act 1966 (1966 No 37).
 
 #### Landbrokers
 
@@ -4757,7 +4757,7 @@ General provisions
     
     (3) Regulations made under this Act may prescribe---
         
-    *   (a) that interest is payable on any unpaid fee at the rate prescribed for the time being under [section 87][493] of the Judicature Act 1908; and
+    *   (a) that interest is payable on any unpaid fee at the rate prescribed for the time being under [section 87][494] of the Judicature Act 1908; and
     
     *   (b) the circumstances and manner in which that interest is to be paid.
     
@@ -4779,9 +4779,9 @@ General provisions
     
     Section 235: replaced, on 10 December 1991, by [section 2(1)][385] of the Land Transfer Amendment Act 1991 (1991 No 118).
     
-    Section 235 heading: amended, on 17 May 2002, by [section 60(1)][494] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 235 heading: amended, on 17 May 2002, by [section 60(1)][495] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
-    Section 235(1): replaced, on 17 May 2002, by [section 60(2)][494] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 235(1): replaced, on 17 May 2002, by [section 60(2)][495] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
     Section 235(2): amended, on 1 February 1999, by section 39(1) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
     
@@ -4789,11 +4789,11 @@ General provisions
     
     Section 235(4): amended, on 1 February 1999, by section 43(1) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
     
-    Section 235(5): replaced, on 17 May 2002, by [section 60(3)][494] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 235(5): replaced, on 17 May 2002, by [section 60(3)][495] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
-    Section 235(6): repealed, on 17 May 2002, by [section 60(3)][494] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 235(6): repealed, on 17 May 2002, by [section 60(3)][495] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
-    Section 235(7): repealed, on 17 May 2002, by [section 60(3)][494] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 235(7): repealed, on 17 May 2002, by [section 60(3)][495] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 236 Regulations
     
@@ -4861,7 +4861,7 @@ General provisions
     
     (3) In subsection (2)(b), _interest_ includes land, estates, rights, covenants, and conditions.
     
-    Section 236: replaced, on 17 May 2002, by [section 61][495] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 236: replaced, on 17 May 2002, by [section 61][496] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 237 When paper instrument is in acceptable form
     
@@ -4885,7 +4885,7 @@ General provisions
     
     (3) However, a paper instrument must be regarded as being in an acceptable form if it does not comply with subsections (1) and (2), but the non-compliance relates to a minor matter that, in the opinion of the Registrar, will not affect the operation or effect of the instrument once it is registered.
     
-    Section 237: replaced, on 26 August 2002, by [section 62][496] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 237: replaced, on 26 August 2002, by [section 62][497] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 238 Content of paper forms
     
@@ -4897,13 +4897,13 @@ General provisions
     
     (4) However, a notice or consent is not invalid because it fails to comply with the prescribed or specified form if the non-compliance relates to a minor matter that, in the opinion of the Registrar, will not affect the operation or effect of the notice or consent.
     
-    Section 238: replaced, on 26 August 2002, by [section 62][496] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 238: replaced, on 26 August 2002, by [section 62][497] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 239 Description of person to include personal representative
     
 *   In any form under this Act, the description of any person as proprietor, transferor, transferee, mortgagor, mortgagee, lessor, or lessee, or as trustee, or as seised of, having, or taking any estate or interest in any land, includes the heirs, executors, successors, and assigns of that person.
     
-    Section 239: replaced, on 1 June 2002, by [section 63][497] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 239: replaced, on 1 June 2002, by [section 63][498] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 240 How Registrar gives public notice
     
@@ -4913,7 +4913,7 @@ General provisions
     
     *   (b) the notice gives sufficient information about the matter to enable persons who might respond to it to understand its effect.
     
-    Section 240: replaced, on 1 June 2002, by [section 63][497] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 240: replaced, on 1 June 2002, by [section 63][498] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 240A Specifications by Registrar
     
@@ -4925,7 +4925,7 @@ General provisions
     
     (2) When the Registrar makes any specification under subsection (1), he or she must make copies of it available at every land titles office.
     
-    Section 240A: inserted, on 1 June 2002, by [section 63][497] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 240A: inserted, on 1 June 2002, by [section 63][498] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 240B Notice by Registrar to particular persons
     
@@ -4947,7 +4947,7 @@ General provisions
     
     (3) A person is taken to have nominated an address if the person has expressly nominated it as an address to which notices for the relevant purpose may be sent.
     
-    Section 240B: inserted, on 1 June 2002, by [section 63][497] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 240B: inserted, on 1 June 2002, by [section 63][498] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 240C Notices to Registrar
     
@@ -4963,7 +4963,7 @@ General provisions
     
     *   (e) directing it to the Registrar from an electronic workspace facility if the Registrar has specified that means as a way of giving that class of notice.
     
-    Section 240C: inserted, on 1 June 2002, by [section 63][497] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 240C: inserted, on 1 June 2002, by [section 63][498] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 240D When notices taken to be delivered
     
@@ -4995,7 +4995,7 @@ General provisions
     
     (3) Despite subsection (1), a notice delivered to the Registrar at a land titles office is taken to be delivered at 9 am on the next day on which the office is open for business if the time at which it would be taken to be delivered under subsection (1) is outside the business hours of the office.
     
-    Section 240D: inserted, on 1 June 2002, by [section 63][497] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 240D: inserted, on 1 June 2002, by [section 63][498] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
 ##### 241 Registrar not obliged to produce registers or attend court
     
@@ -5037,9 +5037,9 @@ General provisions
     
 *   (1) The enactments specified in [Schedule 8][350] are hereby repealed to the extent therein indicated.
     
-    (2) Without limiting the provisions of the [Interpretation Act 1999][498], it is hereby declared that the repeal of any provision by this Act shall not affect any document made or any thing whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done.
+    (2) Without limiting the provisions of the [Interpretation Act 1999][499], it is hereby declared that the repeal of any provision by this Act shall not affect any document made or any thing whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done.
     
-    (3) Any provision of the [Land Transfer (Hawke's Bay) Act 1931][499], the Maori Land Act 1931, the [Land Act 1948][386], or any other enactment that prevailed over the provisions of any enactment hereby repealed shall in like manner prevail over the corresponding provisions of this Act.
+    (3) Any provision of the [Land Transfer (Hawke's Bay) Act 1931][500], the Maori Land Act 1931, the [Land Act 1948][386], or any other enactment that prevailed over the provisions of any enactment hereby repealed shall in like manner prevail over the corresponding provisions of this Act.
     
     (4) In the case of any mortgage executed prior to 1 January 1903 (being the date of commencement of the Land Transfer Amendment Act 1902), the provisions of the Acts in force on the commencement of the Land Transfer Act 1908 in respect to that mortgage shall continue to apply to that mortgage in so far as those provisions conflict with the provisions of this Act.
     
@@ -5049,7 +5049,7 @@ General provisions
     
     Section 245(1): amended, on 29 September 1961, by section 4(1)(a) of the Land Transfer Amendment Act 1961 (1961 No 9).
     
-    Section 245(2): amended, on 1 November 1999, pursuant to [section 38(1)][500] of the Interpretation Act 1999 (1999 No 85).
+    Section 245(2): amended, on 1 November 1999, pursuant to [section 38(1)][501] of the Interpretation Act 1999 (1999 No 85).
 
 ---
 
@@ -5327,7 +5327,7 @@ Covenants, conditions, and powers implied, pursuant to memorandum of priority, i
 
 *   (1) That the mortgagor will duly and punctually pay all principal, interest, and other moneys secured by and will perform and observe all the covenants and conditions contained or implied in any mortgage having priority to the postponed mortgage.
 
-*   (2) That if the mortgagor makes default in the payment of any moneys secured by or in the performance or observance of any of the covenants and conditions contained or implied in any mortgage having priority to the postponed mortgage, it shall be lawful for but not obligatory upon the mortgagee to pay those moneys and perform or observe those covenants or conditions, and [clause 10][501] of Part 1 of Schedule 2 of the Property Law Act 2007 applies (with all necessary modifications) to all moneys so paid and all expenses incurred in performing or observing the covenants or conditions of the prior mortgage.
+*   (2) That if the mortgagor makes default in the payment of any moneys secured by or in the performance or observance of any of the covenants and conditions contained or implied in any mortgage having priority to the postponed mortgage, it shall be lawful for but not obligatory upon the mortgagee to pay those moneys and perform or observe those covenants or conditions, and [clause 10][502] of Part 1 of Schedule 2 of the Property Law Act 2007 applies (with all necessary modifications) to all moneys so paid and all expenses incurred in performing or observing the covenants or conditions of the prior mortgage.
 
 *   (3) That compliance with the provisions of any mortgage having priority to the postponed mortgage which relate to insurance against loss or damage by fire or earthquake shall be deemed, so far as it extends, to be compliance with any provisions as to such insurance contained or implied in the postponed mortgage.
 
@@ -5360,7 +5360,7 @@ The words ""that the lessee will not use the said premises as a shop"" imply tha
 
 The words ""will not carry on offensive trades"" imply that no noxious, noisome, or offensive art, trade, business, or occupation or calling shall at any time during the said term be used, exercised, carried on, permitted, or suffered by the covenantor in or upon the hereditaments and premises mentioned in the instrument, and that no act, matter, or thing whatsoever shall at any time during the said term be done in or upon the said hereditaments and premises, or any part thereof, which shall or may be or grow to the annoyance, nuisance, grievance, damage, or disturbance of the occupiers or owners of the adjoining lands and hereditaments.
 
-The words ""will not without leave assign or sublet"" imply, subject always to [Part 4][502] of the Property Law Act 2007, that the covenantor will not, during the continuance of the term mentioned in the instrument, assign, transfer, demise, sublet, or set over, or otherwise by any act or deed procure the lands or premises therein mentioned, or any of them, or any part thereof, to be assigned, transferred, demised, sublet, or set over unto any person whomsoever without the consent in writing of the covenantee first had and obtained.
+The words ""will not without leave assign or sublet"" imply, subject always to [Part 4][503] of the Property Law Act 2007, that the covenantor will not, during the continuance of the term mentioned in the instrument, assign, transfer, demise, sublet, or set over, or otherwise by any act or deed procure the lands or premises therein mentioned, or any of them, or any part thereof, to be assigned, transferred, demised, sublet, or set over unto any person whomsoever without the consent in writing of the covenantee first had and obtained.
 
 The words ""will not cut timber"" imply that the covenantor will not cut down, fell, injure, or destroy any growing or living timber or timberlike trees standing and being upon the hereditaments and premises mentioned in the instrument, without the consent in writing of the covenantee.
 
@@ -5480,15 +5480,15 @@ _Amendment(s) incorporated in the [Act(s)][430]._
 
 ##### Statutes Amendment Act 1947 (1947 No 60)
 
-_Amendment(s) incorporated in the [Act(s)][503]._
+_Amendment(s) incorporated in the [Act(s)][504]._
 
 ##### Statutes Amendment Act 1949 (1949 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][504]._
+_Amendment(s) incorporated in the [Act(s)][505]._
 
 Schedule 8: amended, on 1 January 2011, by [section 58][431] of the Limitation Act 2010 (2010 No 110).
 
-Schedule 8: amended (with effect on 1 January 1953), on 1 October 1954, by [section 36][505] of the Finance Act 1954 (1954 No 90).
+Schedule 8: amended (with effect on 1 January 1953), on 1 October 1954, by [section 36][506] of the Finance Act 1954 (1954 No 90).
 
 ---
 
@@ -5502,7 +5502,7 @@ An Act to authorise the making of a new land transfer register for the Land Regi
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Land Transfer (Hawke's Bay) Act 1931][499], and is part of the Land Transfer Act 1952 (""the principal Act"").
+*   (1) This Act may be cited as the [Land Transfer (Hawke's Bay) Act 1931][500], and is part of the Land Transfer Act 1952 (""the principal Act"").
     
     (2) This Act shall be deemed to have come into force on 4 February 1931\.
     
@@ -5538,13 +5538,13 @@ An Act to authorise the making of a new land transfer register for the Land Regi
 
 \[Repealed\]
     
-*   Heading: repealed, on 22 December 1933, pursuant to [section 3(2)][506] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
+*   Heading: repealed, on 22 December 1933, pursuant to [section 3(2)][507] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
 
 ##### 3 Registrar directed to make new register
     
 *   \[Repealed\]
     
-    Section 3: repealed, on 22 December 1933, by [section 3(2)][506] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
+    Section 3: repealed, on 22 December 1933, by [section 3(2)][507] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
 
 #### Provisions applicable where outstanding duplicates of instruments extant
 
@@ -5560,9 +5560,9 @@ An Act to authorise the making of a new land transfer register for the Land Regi
     
     (5) On the adoption of any triplicate of any registered instrument it shall be lawful for the Registrar to receive with the adopted triplicate 2 copies thereof, and to certify one of such copies free of cost, and to issue the same in substitution for the outstanding duplicate of the instrument upon which memorials are to be endorsed under section 40 of the principal Act, and thereafter such copy shall have the same force and effect as if it were the original duplicate upon which memorials may be endorsed by the Registrar.
     
-    Section 4(4): amended, on 22 December 1933, by [section 8(a)][507] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
+    Section 4(4): amended, on 22 December 1933, by [section 8(a)][508] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
     
-    Section 4(5): inserted, on 22 December 1933, by [section 8(b)][507] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
+    Section 4(5): inserted, on 22 December 1933, by [section 8(b)][508] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
     
     Section 4(5): amended, on 1 February 1999, by section 43(3) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
 
@@ -5586,9 +5586,9 @@ An Act to authorise the making of a new land transfer register for the Land Regi
     
     (3) If the Registrar is satisfied, upon such evidence as may seem to him to be sufficient, that the land comprised in any certificate of title or dealt with by any other instrument referred to in the last preceding section was not on the said date subject to any such charge, lien, estate or interest, encumbrance, or other dealing as is mentioned in subsection (1), the Registrar may endorse upon the copy prepared and authenticated, or upon the new certificate of title issued, as respectively provided for in the last preceding section, a memorandum to the effect that it is conclusive as to such matters, or as to any 1 or more of them, and it shall thereupon be conclusive accordingly.
     
-    Section 5(1)(c): replaced, on 22 December 1933, by [section 9][508] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
+    Section 5(1)(c): replaced, on 22 December 1933, by [section 9][509] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
     
-    Section 5(2): amended, on 22 December 1933, by [section 10][509] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
+    Section 5(2): amended, on 22 December 1933, by [section 10][510] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
 
 #### Provisions applicable where registered instruments and outstanding duplicates destroyed
 
@@ -5640,7 +5640,7 @@ An Act to authorise the making of a new land transfer register for the Land Regi
     
     (6) The Registrar may at any time thereafter, if he is reasonably satisfied that the interim certificate correctly sets forth the description and delineation of the land comprised therein, endorse a further memorandum to the effect that such certificate of title is conclusive as to the description and delineation of the land, and the certificate shall thereupon be conclusive according to the tenor of such memorandum.
     
-    Section 11(4): amended, on 17 May 2005, by [section 18][510] of the Land Transfer Amendment Act 2005 (2005 No 58).
+    Section 11(4): amended, on 17 May 2005, by [section 18][511] of the Land Transfer Amendment Act 2005 (2005 No 58).
     
     Section 11(4): amended, on 1 June 2002, by [section 65(4)][355] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
 
@@ -5672,11 +5672,11 @@ An Act to authorise the making of a new land transfer register for the Land Regi
     
     (3) No such caveat shall prevent the registration of any instrument in which, or by endorsement on which, the rights of the caveator are admitted. The consent of the caveator to the registration of any such instrument shall not be necessary.
     
-    Section 14(1): amended, on 17 May 2005, by [section 18][510] of the Land Transfer Amendment Act 2005 (2005 No 58).
+    Section 14(1): amended, on 17 May 2005, by [section 18][511] of the Land Transfer Amendment Act 2005 (2005 No 58).
     
-    Section 14(1) first proviso: amended, on 22 December 1933, by [section 11(a)][511] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
+    Section 14(1) first proviso: amended, on 22 December 1933, by [section 11(a)][512] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
     
-    Section 14(1) second proviso: inserted, on 22 December 1933, by [section 11(b)][511] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
+    Section 14(1) second proviso: inserted, on 22 December 1933, by [section 11(b)][512] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
 
 ##### 15 Registered proprietor bound to execute new instruments where originals destroyed
     
@@ -5688,7 +5688,7 @@ An Act to authorise the making of a new land transfer register for the Land Regi
 
 #### Maori freehold land
     
-*   Heading: amended, on 27 November 1947, pursuant to [section 2][480] of the Maori Purposes Act 1947 (1947 No 59).
+*   Heading: amended, on 27 November 1947, pursuant to [section 2][481] of the Maori Purposes Act 1947 (1947 No 59).
 
 ##### 16 Partition orders of Maori freehold land
     
@@ -5700,11 +5700,11 @@ An Act to authorise the making of a new land transfer register for the Land Regi
     
     (2) For the purposes of this section the expression _Maori freehold land_ has the same meaning as in the Native Land Act 1909\.
     
-    Section 16 heading: amended, on 27 November 1947, pursuant to [section 2][480] of the Maori Purposes Act 1947 (1947 No 59).
+    Section 16 heading: amended, on 27 November 1947, pursuant to [section 2][481] of the Maori Purposes Act 1947 (1947 No 59).
     
-    Section 16(1): amended, on 27 November 1947, pursuant to [section 2][480] of the Maori Purposes Act 1947 (1947 No 59).
+    Section 16(1): amended, on 27 November 1947, pursuant to [section 2][481] of the Maori Purposes Act 1947 (1947 No 59).
     
-    Section 16(2) : amended, on 27 November 1947, pursuant to [section 2][480] of the Maori Purposes Act 1947 (1947 No 59).
+    Section 16(2) : amended, on 27 November 1947, pursuant to [section 2][481] of the Maori Purposes Act 1947 (1947 No 59).
 
 #### Miscellaneous
 
@@ -5728,11 +5728,11 @@ An Act to authorise the making of a new land transfer register for the Land Regi
     
     (5) If the proprietor of any easement, or _profit à prendre_, or other encumbrance which had been registered, neglects to furnish such particulars of his easement, or _profit à prendre_, or other encumbrance, as the Registrar may require by notice in writing, directed to the usual or last known address of such proprietor, the Registrar may, at his discretion, at any time after the expiration of the prescribed period, remove any entry of such easement, _profit à prendre_, or other encumbrance from the register, or from any certificate of title, or other outstanding duplicate of the register, by marking the memorial thereof in the register with the words ""Removed.---See K No . . . (\[_date_\]) . . . Registrar"", and a like entry shall be made or noted on every servient title or tenement against which the easement or _profit à prendre_, or encumbrance has been registered. From the date of such removal being noted by the Registrar such easement, or _profit à prendre_, or encumbrance shall cease and determine.
     
-    Section 17(2): amended, on 17 May 2005, by [section 18][510] of the Land Transfer Amendment Act 2005 (2005 No 58).
+    Section 17(2): amended, on 17 May 2005, by [section 18][511] of the Land Transfer Amendment Act 2005 (2005 No 58).
     
-    Section 17(4): amended, on 17 May 2005, by [section 18][510] of the Land Transfer Amendment Act 2005 (2005 No 58).
+    Section 17(4): amended, on 17 May 2005, by [section 18][511] of the Land Transfer Amendment Act 2005 (2005 No 58).
     
-    Section 17(5): inserted, on 22 December 1933, by [section 12][512] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
+    Section 17(5): inserted, on 22 December 1933, by [section 12][513] of the Land Transfer (Hawke's Bay) Amendment Act 1933 (1933 No 39).
     
     Section 17(5): amended, on 1 June 2002, by [section 65(4)][355] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
@@ -5792,7 +5792,7 @@ An Act to authorise the making of a new land transfer register for the Land Regi
     
 *   \[Repealed\]
     
-    Section 24: repealed, on 17 May 2005, by [section 18][510] of the Land Transfer Amendment Act 2005 (2005 No 58).
+    Section 24: repealed, on 17 May 2005, by [section 18][511] of the Land Transfer Amendment Act 2005 (2005 No 58).
 
 ---
 
@@ -5806,7 +5806,7 @@ An Act to amend the Land Transfer (Hawke's Bay) Act 1931
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Land Transfer (Hawke's Bay) Amendment Act 1933][513], and is part of the Land Transfer Act 1952 (""the principal Act"").
+*   This Act may be cited as the [Land Transfer (Hawke's Bay) Amendment Act 1933][514], and is part of the Land Transfer Act 1952 (""the principal Act"").
     
     Section 1: amended, on 1 February 1999, by section 43(3) of the Land Transfer (Automation) Amendment Act 1998 (1998 No 123).
 
@@ -5868,7 +5868,7 @@ An Act to amend the Land Transfer Act 1952
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Land Transfer Amendment Act 1963][514], and shall be read together with and deemed part of the Land Transfer Act 1952 (hereinafter referred to as ""the principal Act"").
+*   This Act may be cited as the [Land Transfer Amendment Act 1963][515], and shall be read together with and deemed part of the Land Transfer Act 1952 (hereinafter referred to as ""the principal Act"").
 
 ## Part 1  
 Prescriptive title to land
@@ -5891,9 +5891,9 @@ Prescriptive title to land
     
     *   (b) shall be (or be deemed to have been) capable of being adverse possession as against the other tenant or tenants.
     
-    Section 3(1): amended, on 17 May 2005, by [section 18][510] of the Land Transfer Amendment Act 2005 (2005 No 58).
+    Section 3(1): amended, on 17 May 2005, by [section 18][511] of the Land Transfer Amendment Act 2005 (2005 No 58).
     
-    Section 3(3): inserted, on 30 March 1995 (but not imposing on any person any liability for any action, or failure or refusal to act, occurring before 30 March 1995), by [section 2(1)][515] of the Land Transfer Amendment Act 1995 (1995 No 11).
+    Section 3(3): inserted, on 30 March 1995 (but not imposing on any person any liability for any action, or failure or refusal to act, occurring before 30 March 1995), by [section 2(1)][516] of the Land Transfer Amendment Act 1995 (1995 No 11).
 
 ##### 4 Person with registered interest under disability
     
@@ -5963,9 +5963,9 @@ Prescriptive title to land
     
     (3) Any caveat under this section may be withdrawn by the caveator or by his attorney or agent under a written authority, and either as to the whole or any part of the land to which it relates.
     
-    Section 8(1): amended, on 17 May 2005, by [section 18][510] of the Land Transfer Amendment Act 2005 (2005 No 58).
+    Section 8(1): amended, on 17 May 2005, by [section 18][511] of the Land Transfer Amendment Act 2005 (2005 No 58).
     
-    Section 8(2): amended, on 17 May 2005, by [section 18][510] of the Land Transfer Amendment Act 2005 (2005 No 58).
+    Section 8(2): amended, on 17 May 2005, by [section 18][511] of the Land Transfer Amendment Act 2005 (2005 No 58).
 
 ##### 9 Caveat by registered proprietor of fee simple or estate for life, etc
     
@@ -6089,7 +6089,7 @@ Prescriptive title to land
     
     (4) For the purpose of approving any plan required to be deposited pursuant to this section, the applicant shall be deemed to be the owner of the land.
     
-    Section 14(1) **title boundary**: amended, on 1 June 2002, pursuant to [section 69(1)][471] of the Cadastral Survey Act 2002 (2002 No 12).
+    Section 14(1) **title boundary**: amended, on 1 June 2002, pursuant to [section 69(1)][472] of the Cadastral Survey Act 2002 (2002 No 12).
     
     Section 14(2)(d): amended, on 1 June 2002, by [section 68(1)][357] of the Cadastral Survey Act 2002 (2002 No 12).
 
@@ -6139,7 +6139,7 @@ Prescriptive title to land
     
     Section 16(2)(a): amended, on 1 June 2002, by [section 68(1)][357] of the Cadastral Survey Act 2002 (2002 No 12).
     
-    Section 16(4): amended, on 1 July 2003, by [section 262][516] of the Local Government Act 2002 (2002 No 84).
+    Section 16(4): amended, on 1 July 2003, by [section 262][517] of the Local Government Act 2002 (2002 No 84).
 
 ##### 17 Application in respect of land of dissolved company or other corporate body
     
@@ -6181,7 +6181,7 @@ Prescriptive title to land
     
 *   The provisions of sections 239 to 240D of the principal Act apply in relation to notices under this Act.
     
-    Section 20: replaced, on 17 May 2005, by [section 18][510] of the Land Transfer Amendment Act 2005 (2005 No 58).
+    Section 20: replaced, on 17 May 2005, by [section 18][511] of the Land Transfer Amendment Act 2005 (2005 No 58).
 
 ##### 21 This Part not to apply in certain cases
     
@@ -6199,7 +6199,7 @@ Prescriptive title to land
     
     *   (f) with respect to any land occupied together with any adjoining land by the owner of that adjoining land or by any other person by virtue of a change of course of any river, creek, or stream, or by virtue of the isolation of that land from any other land in the same ownership by any river, creek, or stream or by any other natural feature of the land or of adjoining land or by any road.
     
-    Section 21(b): amended, on 1 July 1993, pursuant to [section 362(2)][517] of Te Ture Whenua Maori Act 1993 (1993 No 4).
+    Section 21(b): amended, on 1 July 1993, pursuant to [section 362(2)][518] of Te Ture Whenua Maori Act 1993 (1993 No 4).
 
 ## Part 2  
 Miscellaneous amendments of principal Act
@@ -6222,7 +6222,7 @@ An Act to amend the Land Transfer Act 1952
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Land Transfer Amendment Act 1966][518], and shall be read together with and deemed part of the Land Transfer Act 1952 (hereinafter referred to as ""the principal Act"").
+*   This Act may be cited as the [Land Transfer Amendment Act 1966][519], and shall be read together with and deemed part of the Land Transfer Act 1952 (hereinafter referred to as ""the principal Act"").
 
 ## Part 2  
 Miscellaneous amendments to principal Act
@@ -6245,7 +6245,7 @@ An Act to amend the Land Transfer Act 1952 to provide compensation for persons s
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Land Transfer Amendment Act (No 2) 1982][519], and shall be read together with and deemed part of the Land Transfer Act 1952 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Land Transfer Amendment Act (No 2) 1982][520], and shall be read together with and deemed part of the Land Transfer Act 1952 (hereinafter referred to as ""the principal Act"").
     
     (2) Sections 3 and 4 shall come into force on a date to be appointed by the Governor-General by Order in Council.
     
@@ -6269,7 +6269,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Land Transfer Amendment Act 1991][520], and shall be read together with and deemed part of the Land Transfer Act 1952 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Land Transfer Amendment Act 1991][521], and shall be read together with and deemed part of the Land Transfer Act 1952 (hereinafter referred to as ""the principal Act"").
     
     (2) This Act shall come into force on the day after the day on which it receives the Royal assent.
 
@@ -6278,32 +6278,6 @@ Commencementsee section 1(2)
 *   (1)--(4) _Amendment(s) incorporated in the Act(s)._
     
     (5) For the avoidance of doubt, it is hereby declared that the prescription, demanding, payment, or receipt, before the commencement of this Act, of any fee was as valid and effectual as if subsections (1) and (2) had come into force on the commencement of the principal Act.
-
----
-
-# Land Transfer Amendment Act 1993Public Act1993 No 124
-
-Date of assent28 September 1993
-
-Commencementsee section 1(2)
-
-##### 1 Short Title and commencement
-    
-*   (1) This Act may be cited as the [Land Transfer Amendment Act 1993][521], and shall be read together with and deemed part of the Land Transfer Act 1952 (hereinafter referred to as ""the principal Act"").
-    
-    (2) This Act shall come into force on 1 July 1994\.
-
-##### 5 Special provisions applying to implied term of grant of right to use land or buildings by company to shareholder
-    
-*   (1) The term implied by section 80A(2) of the Companies Act 1955 in a grant by a company to a shareholder of the right to occupy any specified land owned by the company or any specified building or part of a building owned by the company ceases to have effect on the close of 30 June 1997\.
-    
-    (2) Notwithstanding subsection (1) or the repeal of the Companies Act 1955 by the Companies Act Repeal Act 1993, any such grant may be forfeited if---
-        
-    *   (a) leave has been granted to a liquidator or creditor of the company under section 80A(2) of the Companies Act 1955 before the repeal of that Act to forfeit the grant; or
-    
-    *   (b) an application has been made to the court by a liquidator or creditor of the company under section 80A(2) of the Companies Act 1955 for leave to forfeit the grant before the repeal of that Act and the court grants leave to do so.
-    
-    
 
 ---
 
@@ -7016,9 +6990,11 @@ Amendments to Land Transfer Act 1952
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20): [section 9][405]
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][439]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][440]
+    Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20): [section 9][405]
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][441]
     
     Limitation Act 2010 (2010 No 110): [section 58][431]
     
@@ -7028,7 +7004,7 @@ Amendments to Land Transfer Act 1952
     
     [Land Transfer Amendment Act 2005][528] (2005 No 58)
     
-    Cadastral Survey Act 2002 (2002 No 12): [sections 68(2)][357], [69(1)][471]
+    Cadastral Survey Act 2002 (2002 No 12): [sections 68(2)][357], [69(1)][472]
     
     [Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002][352] (2002 No 11)
     
@@ -7036,9 +7012,9 @@ Amendments to Land Transfer Act 1952
     
     Public Trust Act 2001 (2001 No 100): [section 170(1)][371]
     
-    Human Rights Amendment Act 2001 (2001 No 96): [section 57][444]
+    Human Rights Amendment Act 2001 (2001 No 96): [section 57][445]
     
-    Interpretation Act 1999 (1999 No 85): [section 38(1)][500]
+    Interpretation Act 1999 (1999 No 85): [section 38(1)][501]
     
     Land Transfer (Automation) Amendment Act 1998 (1998 No 123)
     
@@ -7046,13 +7022,13 @@ Amendments to Land Transfer Act 1952
     
     Land Transfer Amendment Act 1994 (1994 No 12)
     
-    [Land Transfer Amendment Act 1993][521] (1993 No 124)
+    [Land Transfer Amendment Act 1993][529] (1993 No 124)
     
     Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46): [section 137(1)][372]
     
-    [Land Transfer Amendment Act 1991][520] (1991 No 118)
+    [Land Transfer Amendment Act 1991][521] (1991 No 118)
     
-    Public Finance Act 1989 (1989 No 44): [section 83(7)][475]
+    Public Finance Act 1989 (1989 No 44): [section 83(7)][476]
     
     Protection of Personal and Property Rights Act 1988 (1988 No 4): [section 113][373]
     
@@ -7066,23 +7042,23 @@ Amendments to Land Transfer Act 1952
     
     Land Transfer Amendment Act 1985 (1985 No 90)
     
-    [Land Transfer Amendment Act (No 2) 1982][519] (1982 No 115)
+    [Land Transfer Amendment Act (No 2) 1982][520] (1982 No 115)
     
     Land Transfer Amendment Act 1982 (1982 No 22)
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][464]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][465]
     
     Judicature Amendment Act 1979 (1979 No 124): [section 12][376]
     
-    Maori Purposes Act 1975 (1975 No 135): [section 16(2)][481]
+    Maori Purposes Act 1975 (1975 No 135): [section 16(2)][482]
     
     Land Transfer Amendment Act 1972 (1972 No 76)
     
     Mental Health Act 1969 (1969 No 16): section 129(4), (7)
     
-    [Land Transfer Amendment Act 1966][518] (1966 No 37)
+    [Land Transfer Amendment Act 1966][519] (1966 No 37)
     
-    [Land Transfer Amendment Act 1963][514] (1963 No 61)
+    [Land Transfer Amendment Act 1963][515] (1963 No 61)
     
     Land Transfer Amendment Act 1961 (1961 No 9)
     
@@ -7090,19 +7066,19 @@ Amendments to Land Transfer Act 1952
     
     Land Transfer Amendment Act 1959 (1959 No 29)
     
-    [Land Transfer Amendment Act 1958][529] (1958 No 75)
+    [Land Transfer Amendment Act 1958][530] (1958 No 75)
     
-    Summary Proceedings Act 1957 (1957 No 87): [section 214(1)][489]
+    Summary Proceedings Act 1957 (1957 No 87): [section 214(1)][490]
     
     Archives Act 1957 (1957 No 13): section 26(1)(b)
     
-    Finance Act 1954 (1954 No 90): [section 36][505]
+    Finance Act 1954 (1954 No 90): [section 36][506]
     
     Stamp Duties Amendment Act 1953 (1953 No 54): section 7(2)
     
-    Maori Purposes Act 1947 (1947 No 59): [section 2][480]
+    Maori Purposes Act 1947 (1947 No 59): [section 2][481]
     
-    [Land Transfer (Hawke's Bay) Amendment Act 1933][513] (1933 No 39)
+    [Land Transfer (Hawke's Bay) Amendment Act 1933][514] (1933 No 39)
 
 
 
@@ -7545,89 +7521,89 @@ Amendments to Land Transfer Act 1952
 [436]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141450
 [437]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM328316
 [438]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM319576
-[439]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM320457
-[440]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM3360714
-[441]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM969389
-[442]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM323273
-[443]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM323277
-[444]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM122546
-[445]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141452
-[446]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM348400
-[447]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM348401
-[448]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM348402
-[449]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM969382
-[450]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM131393
-[451]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM348403
-[452]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141455
-[453]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM133501
-[454]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141456
-[455]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM348404
-[456]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM348405
-[457]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141458
-[458]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141460
-[459]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141462
-[460]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141466
-[461]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM190789
-[462]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141468
-[463]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM367840
-[464]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM35085
-[465]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141470
-[466]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM367841
-[467]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM969144
-[468]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM238325
-[469]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM349916
-[470]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM374774
-[471]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM142639
-[472]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM140193
-[473]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141476
-[474]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM374775
-[475]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM163167
-[476]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM59727
-[477]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM59728
-[478]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM367842
-[479]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM262646
-[480]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM245843
-[481]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM437772
-[482]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141478
-[483]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM348407
-[484]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM219594
-[485]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM59729
-[486]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM374776
-[487]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM59730
-[488]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM374777
-[489]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM314306
-[490]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM327381
-[491]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM330218
-[492]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM374778
-[493]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM147379
-[494]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141480
-[495]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141481
-[496]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141484
-[497]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141487
-[498]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM31458
-[499]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM209575
-[500]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM31885
-[501]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM969666
-[502]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM969393
-[503]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM246298
-[504]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM260504
-[505]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM288705
-[506]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM214773
-[507]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM214780
-[508]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM214781
-[509]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM214782
-[510]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM348409
-[511]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM214783
-[512]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM214784
-[513]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM214755
-[514]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM349453
-[515]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM359352
-[516]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM174088
-[517]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM293026
-[518]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM374756
-[519]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM59720
-[520]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM250188
-[521]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM328310
+[439]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM5620822
+[440]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM320457
+[441]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM3360714
+[442]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM969389
+[443]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM323273
+[444]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM323277
+[445]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM122546
+[446]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141452
+[447]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM348400
+[448]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM348401
+[449]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM348402
+[450]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM969382
+[451]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM131393
+[452]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM348403
+[453]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141455
+[454]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM133501
+[455]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141456
+[456]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM348404
+[457]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM348405
+[458]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141458
+[459]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141460
+[460]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141462
+[461]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141466
+[462]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM190789
+[463]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141468
+[464]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM367840
+[465]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM35085
+[466]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141470
+[467]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM367841
+[468]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM969144
+[469]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM238325
+[470]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM349916
+[471]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM374774
+[472]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM142639
+[473]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM140193
+[474]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141476
+[475]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM374775
+[476]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM163167
+[477]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM59727
+[478]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM59728
+[479]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM367842
+[480]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM262646
+[481]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM245843
+[482]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM437772
+[483]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141478
+[484]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM348407
+[485]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM219594
+[486]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM59729
+[487]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM374776
+[488]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM59730
+[489]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM374777
+[490]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM314306
+[491]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM327381
+[492]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM330218
+[493]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM374778
+[494]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM147379
+[495]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141480
+[496]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141481
+[497]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141484
+[498]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM141487
+[499]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM31458
+[500]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM209575
+[501]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM31885
+[502]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM969666
+[503]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM969393
+[504]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM246298
+[505]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM260504
+[506]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM288705
+[507]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM214773
+[508]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM214780
+[509]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM214781
+[510]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM214782
+[511]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM348409
+[512]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM214783
+[513]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM214784
+[514]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM214755
+[515]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM349453
+[516]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM359352
+[517]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM174088
+[518]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM293026
+[519]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM374756
+[520]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM59720
+[521]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM250188
 [522]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM1160866
 [523]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM367847
 [524]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM2998516
@@ -7635,4 +7611,5 @@ Amendments to Land Transfer Act 1952
 [526]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM2998532
 [527]: http://www.pco.parliament.govt.nz/editorial-conventions/
 [528]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM348087
-[529]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM321012
+[529]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM328310
+[530]: http://www.legislation.govt.nz/act/public/1952/0052/latest/link.aspx?id=DLM321012
