@@ -1,5 +1,5 @@
 Reprint  
-as at 26 September 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -711,7 +711,7 @@ An Act to provide for the management of the radio frequency spectrum
     
     _radio licence_ means a licence granted or deemed to have been granted under [Part 13][161]
     
-    _Radio New Zealand_ means the public radio company within the meaning of [section 2][277] of the Radio New Zealand Act 1995 to be known as Radio New Zealand Limited in accordance with [section 19][278] of that Act; and includes any subsidiary of that company within the meaning of sections 158 and 158A of the Companies Act 1955 or [sections 5][279] and [6][280] of the Companies Act 1993, as the case may be
+    _Radio New Zealand_ means the public radio company within the meaning of [section 2][277] of the Radio New Zealand Act 1995 to be known as Radio New Zealand Limited in accordance with [section 19][278] of that Act; and includes any subsidiary of that company within the meaning of [section 5 ][279]of the Companies Act 1993
     
     _radio receiver_ means apparatus designed to receive radio waves for the purpose of radiocommunications
     
@@ -767,25 +767,27 @@ An Act to provide for the management of the radio frequency spectrum
     
     (2) For the purposes of this Act, information is deemed to be recorded in the register when it has been entered and recorded in the computer (including ancillary devices used for the purpose of recording information in electronic form) for the time being used for the purpose of keeping the register.
     
-    Section 2(1): substituted, on 12 October 2001, by [section 3][281] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 2(1): substituted, on 12 October 2001, by [section 3][280] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 2(1) **co-channel emissions**: amended, on 15 December 2005, by [section 3][282] of the Radiocommunications Amendment Act (No 2) 2005 (2005 No 111).
+    Section 2(1) **co-channel emissions**: amended, on 15 December 2005, by [section 3][281] of the Radiocommunications Amendment Act (No 2) 2005 (2005 No 111).
     
-    Section 2(1) **current management rights**: inserted, on 31 October 2006, by [section 5(1)][283] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 2(1) **current management rights**: inserted, on 31 October 2006, by [section 5(1)][282] of the Radiocommunications Amendment Act 2006 (2006 No 54).
     
-    Section 2(1) **inappropriate receiver**: inserted, on 31 October 2006, by [section 5(2)][283] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 2(1) **inappropriate receiver**: inserted, on 31 October 2006, by [section 5(2)][282] of the Radiocommunications Amendment Act 2006 (2006 No 54).
     
-    Section 2(1) **infringement offence**: substituted, on 31 October 2006, by [section 5(3)][283] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 2(1) **infringement offence**: substituted, on 31 October 2006, by [section 5(3)][282] of the Radiocommunications Amendment Act 2006 (2006 No 54).
     
-    Section 2(1) **interference**: substituted, on 31 October 2006, by [section 5(4)][283] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 2(1) **interference**: substituted, on 31 October 2006, by [section 5(4)][282] of the Radiocommunications Amendment Act 2006 (2006 No 54).
     
-    Section 2(1) **record of management rights**: substituted, on 31 October 2006, by [section 5(5)][283] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 2(1) **Radio New Zealand**: amended, on 5 December 2013, by [section 14][283] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 2(1) **record of management rights**: substituted, on 31 October 2006, by [section 5(5)][282] of the Radiocommunications Amendment Act 2006 (2006 No 54).
     
     Section 2(1) **Registrar**: amended, on 20 September 2007, by [section 4][284] of the Radiocommunications Amendment Act 2007 (2007 No 75).
     
-    Section 2(1) **Secretary**: substituted, on 31 October 2006, by [section 5(6)][283] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 2(1) **Secretary**: substituted, on 31 October 2006, by [section 5(6)][282] of the Radiocommunications Amendment Act 2006 (2006 No 54).
     
-    Section 2(1) **successive management rights**: inserted, on 31 October 2006, by [section 5(7)][283] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 2(1) **successive management rights**: inserted, on 31 October 2006, by [section 5(7)][282] of the Radiocommunications Amendment Act 2006 (2006 No 54).
 
 ##### 3 Act to bind the Crown
     
@@ -4686,7 +4688,9 @@ Commencementsee section 2
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Government Communications Security Bureau Amendment Act 2013 (2013 No 57): [section 29][402]
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][283]
+    
+    Government Communications Security Bureau Amendment Act 2013 (2013 No 57): [section 29][402]
     
     Legislation Act 2012 (2012 No 119): [section 77(3)][448]
     
@@ -5034,10 +5038,10 @@ Commencementsee section 2
 [277]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM368592
 [278]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM368654
 [279]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM319999
-[280]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM320101
-[281]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM53937
-[282]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM362268
-[283]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385242
+[280]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM53937
+[281]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM362268
+[282]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385242
+[283]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM5620822
 [284]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM968489
 [285]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM129109
 [286]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM968490
