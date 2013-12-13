@@ -1,5 +1,5 @@
 Reprint  
-as at 23 October 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -8207,7 +8207,7 @@ Protection of marine environment from dumping, incineration, and storing of wast
     
     *   (b) a person who is ordinarily resident in New Zealand; or
     
-    *   (c) a company registered under the Companies Act 1955 or the [Companies Act 1993][992]
+    *   (c) a company registered under the [Companies Act 1993][992]
     
     _radioactive waste or other radioactive matter_ means any waste or other matter containing any radioactive material within the meaning of the [Radiation Protection Act 1965][993]
     
@@ -8220,6 +8220,8 @@ Protection of marine environment from dumping, incineration, and storing of wast
     Section 257 **incinerated at sea**: inserted, on 9 June 1999, by [section 27][994] of the Maritime Transport Amendment Act 1999 (1999 No 68).
     
     Section 257 **incineration**: repealed, on 9 June 1999, by [section 27][994] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+    
+    Section 257 **New Zealand marine incineration facility** paragraph (c): amended, on 5 December 2013, by [section 14][995] of the Companies Amendment Act 2013 (2013 No 111).
 
 #### Obligations in respect of dumping, storing, and incineration of wastes
 
@@ -8283,19 +8285,19 @@ Protection of marine environment from dumping, incineration, and storing of wast
     
     Compare: 1974 No 14 s 22; 1980 No 53 s 4
     
-    Section 261(1): substituted, on 9 June 1999, by [section 28(1)][995] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+    Section 261(1): substituted, on 9 June 1999, by [section 28(1)][996] of the Maritime Transport Amendment Act 1999 (1999 No 68).
     
-    Section 261(2): substituted, on 9 June 1999, by [section 28(1)][995] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+    Section 261(2): substituted, on 9 June 1999, by [section 28(1)][996] of the Maritime Transport Amendment Act 1999 (1999 No 68).
     
-    Section 261(3): substituted, on 9 June 1999, by [section 28(1)][995] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+    Section 261(3): substituted, on 9 June 1999, by [section 28(1)][996] of the Maritime Transport Amendment Act 1999 (1999 No 68).
     
-    Section 261(6A): inserted, on 9 June 1999, by [section 28(2)][995] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+    Section 261(6A): inserted, on 9 June 1999, by [section 28(2)][996] of the Maritime Transport Amendment Act 1999 (1999 No 68).
 
 ##### 262 Power of Director to issue permits for dumping of waste or other matter
     
 *   The Director may, in accordance with [section 270][427] and the marine protection rules, issue permits authorising the dumping of any waste or other matter, ship, aircraft, or offshore installation.
     
-    Section 262: substituted, on 9 June 1999, by [section 29][996] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+    Section 262: substituted, on 9 June 1999, by [section 29][997] of the Maritime Transport Amendment Act 1999 (1999 No 68).
 
 #### Offences
 
@@ -8367,7 +8369,7 @@ Protection of marine environment from dumping, incineration, and storing of wast
     
     (7) A person commits an offence if the person exports waste or other matter in breach of [section 261(6A)(b)][413].
     
-    Section 264: substituted, on 9 June 1999, by [section 30][997] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+    Section 264: substituted, on 9 June 1999, by [section 30][998] of the Maritime Transport Amendment Act 1999 (1999 No 68).
 
 ##### 265 Special defences
     
@@ -8544,9 +8546,9 @@ Obligations and powers in relation to marine protection documents
         
         *   (ii) any regulations or marine protection rules made under this Act; or
         
-        *   (iii) [section 15A][998] or [section 15B][975] or [section 15C][999] of the Resource Management Act 1991; or
+        *   (iii) [section 15A][999] or [section 15B][975] or [section 15C][1000] of the Resource Management Act 1991; or
         
-        *   (iv) any regulations made under any of paragraphs (ha) to (he) of [section 360(1)][1000] of the Resource Management Act 1991; or
+        *   (iv) any regulations made under any of paragraphs (ha) to (he) of [section 360(1)][1001] of the Resource Management Act 1991; or
         
         
     
@@ -8682,7 +8684,7 @@ Obligations and powers in relation to marine protection documents
     
     Compare: 1990 No 98 [s 19][865]
     
-    Section 276(7): substituted, on 15 December 2005, by [section 10][1001] of the Maritime Transport Amendment Act (No 2) 2005 (2005 No 108).
+    Section 276(7): substituted, on 15 December 2005, by [section 10][1002] of the Maritime Transport Amendment Act (No 2) 2005 (2005 No 108).
 
 #### General offences
 
@@ -8710,7 +8712,7 @@ Obligations and powers in relation to marine protection documents
     
     *   (b) a marine protection document is not a current marine protection document in relation to an act if the endorsement that is required to authorise that act is for the time being suspended under this Act.
     
-    Section 277(3): added, on 9 June 1999, by [section 31][1002] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+    Section 277(3): added, on 9 June 1999, by [section 31][1003] of the Maritime Transport Amendment Act 1999 (1999 No 68).
 
 ##### 278 Acting in breach of marine protection document
     
@@ -8722,9 +8724,9 @@ Obligations and powers in relation to marine protection documents
     
     a ship or marine protection product if the provisions and conditions of the appropriate marine protection document are not complied with.
     
-    Section 278 heading: amended, on 9 June 1999, by [section 32][1003] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+    Section 278 heading: amended, on 9 June 1999, by [section 32][1004] of the Maritime Transport Amendment Act 1999 (1999 No 68).
     
-    Section 278: amended, on 9 June 1999, by [section 32][1003] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+    Section 278: amended, on 9 June 1999, by [section 32][1004] of the Maritime Transport Amendment Act 1999 (1999 No 68).
 
 #### Penalties
 
@@ -8849,7 +8851,7 @@ Plans and responses to protect marine environment from marine oil spills
     
 *   The Director shall prepare, by a date specified by the Minister by notice in the _Gazette_, the New Zealand marine oil spill response strategy and shall review that response strategy at least once every 5 years.
     
-    Section 283: amended, on 15 December 2005, by [section 11][1004] of the Maritime Transport Amendment Act (No 2) 2005 (2005 No 108).
+    Section 283: amended, on 15 December 2005, by [section 11][1005] of the Maritime Transport Amendment Act (No 2) 2005 (2005 No 108).
 
 ##### 284 Purpose and contents of response strategy
     
@@ -8925,7 +8927,7 @@ Plans and responses to protect marine environment from marine oil spills
     
     *   (c) any regional coastal plan applying to that region and prepared under the [Resource Management Act 1991][742]:
     
-    *   (d) any conservation management strategies and conservation management plans approved under [section 17F][1005] or [section 17G][1006] of the Conservation Act 1987 in respect of the coastal resources in its region:
+    *   (d) any conservation management strategies and conservation management plans approved under [section 17F][1006] or [section 17G][1007] of the Conservation Act 1987 in respect of the coastal resources in its region:
     
     *   (e) the harmful effects that marine oil spills may have on the marine environment and measures that can be taken to limit these effects:
     
@@ -9101,7 +9103,7 @@ Plans and responses to protect marine environment from marine oil spills
     
     Compare: 1983 No 46 s 65
     
-    Section 307(3): amended, on 23 October 2013, by [section 52][1007] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 307(3): amended, on 23 October 2013, by [section 52][1008] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 308 Compensation for loss or damage to personal property
     
@@ -9121,7 +9123,7 @@ Plans and responses to protect marine environment from marine oil spills
     
     Compare: 1983 No 46 s 75(1), (4), (5)
     
-    Section 308(3): amended, on 23 October 2013, by [section 53][1008] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 308(3): amended, on 23 October 2013, by [section 53][1009] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 309 Absence from duty not to affect employment rights
     
@@ -9139,7 +9141,7 @@ Plans and responses to protect marine environment from marine oil spills
     
     (3) The Minister is not required to comply with [section 115][989] of the Crown Entities Act 2004 in relation to a direction to the Authority under this section.
     
-    Compare: 1990 No 98 [s 72C][1009]; 1992 No 75 [s 31][860]
+    Compare: 1990 No 98 [s 72C][1010]; 1992 No 75 [s 31][860]
     
     Section 310(3): added, on 25 January 2005, by [section 200][922] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -9289,7 +9291,7 @@ Plans and responses to protect marine environment from marine oil spills
 
 ##### 328 Contracts
     
-*   (1) Notwithstanding anything in the [Public Bodies Contracts Act 1959][1010], the [Local Government Act 2002][972], or any other enactment, the chairperson, deputy chairperson, chief executive, treasurer, engineer, or any other employee of a regional council specified in the regional marine oil spill contingency plan, or any regional on-scene commander, may from time to time, when a marine oil spill response is determined to be needed, enter into any contract on behalf of the regional council for any of the purposes of this Part.
+*   (1) Notwithstanding anything in the [Public Bodies Contracts Act 1959][1011], the [Local Government Act 2002][972], or any other enactment, the chairperson, deputy chairperson, chief executive, treasurer, engineer, or any other employee of a regional council specified in the regional marine oil spill contingency plan, or any regional on-scene commander, may from time to time, when a marine oil spill response is determined to be needed, enter into any contract on behalf of the regional council for any of the purposes of this Part.
     
     (2) Any person who exercises the power conferred by this section shall report the full circumstances of its exercise to the regional council at its next ordinary meeting, or where that is not practicable, at its next succeeding ordinary meeting.
     
@@ -9330,9 +9332,9 @@ Financing plans and responses to protect the marine environment from marine oil 
     
     (2) The oil pollution levies payable under [section 333][505], and any other money that is lawfully payable to the Fund, shall be paid into the Fund.
     
-    (3) All money payable to the Fund shall be paid to the credit of a bank account established under [section 158(1)][1011] of the Crown Entities Act 2004 for the purpose.
+    (3) All money payable to the Fund shall be paid to the credit of a bank account established under [section 158(1)][1012] of the Crown Entities Act 2004 for the purpose.
     
-    (4) The Authority shall invest the Fund in accordance with its investment powers, but subject to the restrictions in [section 161][1012] of the Crown Entities Act 2004\.
+    (4) The Authority shall invest the Fund in accordance with its investment powers, but subject to the restrictions in [section 161][1013] of the Crown Entities Act 2004\.
     
     (5) All income of the Fund shall be added to and form part of the Fund.
     
@@ -9342,7 +9344,7 @@ Financing plans and responses to protect the marine environment from marine oil 
     
     Section 330(3): amended, on 25 January 2005, by [section 200][922] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 330(4): amended, on 25 January 2005, by [section 37(1)][1013] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 330(4): amended, on 25 January 2005, by [section 37(1)][1014] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 331 Application of money in New Zealand Oil Pollution Fund
     
@@ -9388,13 +9390,13 @@ Financing plans and responses to protect the marine environment from marine oil 
     
     *   (c) payments may be made on an interim or periodic basis; and each time it recovers money from the person who caused the oil spill, the recipient must pay the Fund a proportionate amount.
     
-    Section 331(1)(c): substituted, on 9 June 1999, by [section 33(1)][1014] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+    Section 331(1)(c): substituted, on 9 June 1999, by [section 33(1)][1015] of the Maritime Transport Amendment Act 1999 (1999 No 68).
     
-    Section 331(1)(ca): inserted, on 9 June 1999, by [section 33(1)][1014] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+    Section 331(1)(ca): inserted, on 9 June 1999, by [section 33(1)][1015] of the Maritime Transport Amendment Act 1999 (1999 No 68).
     
-    Section 331(1)(e): substituted, on 9 June 1999, by [section 33(2)][1014] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+    Section 331(1)(e): substituted, on 9 June 1999, by [section 33(2)][1015] of the Maritime Transport Amendment Act 1999 (1999 No 68).
     
-    Section 331(2): added, on 9 June 1999, by [section 33(3)][1014] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+    Section 331(2): added, on 9 June 1999, by [section 33(3)][1015] of the Maritime Transport Amendment Act 1999 (1999 No 68).
 
 ##### 332 Expenditure budgets required before certain money paid from Fund
     
@@ -9404,7 +9406,7 @@ Financing plans and responses to protect the marine environment from marine oil 
     
     (3) The Authority shall, before submitting a budget under subsection (1) to the Minister for approval, consult the Oil Pollution Advisory Committee about that budget and shall consider the budgets received by the Authority from regional councils under subsection (2).
     
-    (4) The obligations of the Authority under this Act in respect of its expenditure budget shall be in addition to its obligations under the [Crown Entities Act 2004][1015].
+    (4) The obligations of the Authority under this Act in respect of its expenditure budget shall be in addition to its obligations under the [Crown Entities Act 2004][1016].
     
     (5) Expenditure budgets are not required under this section in respect of the application of the Fund for the purposes provided in paragraph (c) or paragraph (e) or paragraph (g) of [section 331][502] or for any purposes specified by regulations under [section 394(a)][594].
     
@@ -9442,7 +9444,7 @@ Financing plans and responses to protect the marine environment from marine oil 
     
     *   (b) prescribe requirements and conditions relating to the making of such returns.
     
-    Compare: 1974 No 14 s 29B; 1977 No 130 s 3; 1990 No 98 [ss 42A][1016], [42D(2)][1017]; 1992 No 75 [s 22][856]
+    Compare: 1974 No 14 s 29B; 1977 No 130 s 3; 1990 No 98 [ss 42A][1017], [42D(2)][1018]; 1992 No 75 [s 22][856]
 
 ##### 334 Consultation on oil pollution levies
     
@@ -9488,7 +9490,7 @@ Financing plans and responses to protect the marine environment from marine oil 
     
     *   (b) solely because of weather conditions or any other circumstances that neither the owner nor the master of the ship could have prevented or forestalled.
     
-    Compare: 1974 No 14 s 29B(2), (5); 1977 No 130 s 3; 1990 No 98 [s 42B][1018]; 1992 No 75 [s 22][856]
+    Compare: 1974 No 14 s 29B(2), (5); 1977 No 130 s 3; 1990 No 98 [s 42B][1019]; 1992 No 75 [s 22][856]
 
 ##### 336 Incurring of levies
     
@@ -9518,7 +9520,7 @@ Financing plans and responses to protect the marine environment from marine oil 
     
 *   (1) A receipt shall, if requested, be given to any person paying any oil pollution levy.
     
-    (2) Where any levy is payable in respect of a contributing ship, the ship is not entitled to a certificate of clearance under [section 34][1019] of the Customs and Excise Act 1996 until payment is made or evidence of earlier payment of the levy is produced to the chief executive of the New Zealand Customs Service.
+    (2) Where any levy is payable in respect of a contributing ship, the ship is not entitled to a certificate of clearance under [section 34][1020] of the Customs and Excise Act 1996 until payment is made or evidence of earlier payment of the levy is produced to the chief executive of the New Zealand Customs Service.
     
     (3) If the chief executive of the New Zealand Customs Service refuses to issue a certificate of clearance where evidence of payment of any levy payable in respect of the ship concerned is not produced, he or she must, upon request, provide reasons in writing for the decision.
     
@@ -9526,9 +9528,9 @@ Financing plans and responses to protect the marine environment from marine oil 
     
     Compare: 1974 No 14 s 29E; 1977 No 130 s 3
     
-    Section 338(2): substituted, on 15 November 2000, by [section 3][1020] of the Maritime Transport Amendment Act 2000 (2000 No 71).
+    Section 338(2): substituted, on 15 November 2000, by [section 3][1021] of the Maritime Transport Amendment Act 2000 (2000 No 71).
     
-    Section 338(3): substituted, on 15 November 2000, by [section 3][1020] of the Maritime Transport Amendment Act 2000 (2000 No 71).
+    Section 338(3): substituted, on 15 November 2000, by [section 3][1021] of the Maritime Transport Amendment Act 2000 (2000 No 71).
 
 ##### 339 Evidence of nature and change of use
     
@@ -9629,23 +9631,23 @@ Civil liability for pollution of marine environment
     
     *   (b) where the tonnage cannot be ascertained under paragraph (a), means the gross tonnage calculated in accordance with the tonnage measurement regulations contained in Annex I of the International Convention on Tonnage Measurement of Ships, 1969\.
     
-    Section 342 **Civil Liability Convention**: amended, on 23 October 2013, by [section 54(1)][1021] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 342 **Civil Liability Convention**: amended, on 23 October 2013, by [section 54(1)][1022] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 342 **CLC ship**: substituted, on 25 June 1999, by [section 3(1)][1022] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 342 **CLC ship**: substituted, on 25 June 1999, by [section 3(1)][1023] of the Maritime Transport Amendment Act 1998 (1998 No 53).
     
-    Section 342 **harmful substance**: inserted, on 25 June 1999, by [section 3(2)][1022] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 342 **harmful substance**: inserted, on 25 June 1999, by [section 3(2)][1023] of the Maritime Transport Amendment Act 1998 (1998 No 53).
     
-    Section 342 **oil**: substituted, on 25 June 1999, by [section 3(3)][1022] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 342 **oil**: substituted, on 25 June 1999, by [section 3(3)][1023] of the Maritime Transport Amendment Act 1998 (1998 No 53).
     
-    Section 342 **pollution damage**: substituted, on 25 June 1999, by [section 3(4)][1022] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 342 **pollution damage**: substituted, on 25 June 1999, by [section 3(4)][1023] of the Maritime Transport Amendment Act 1998 (1998 No 53).
     
-    Section 342 **pollution damage**: amended, on 23 October 2013, by [section 54(2)][1021] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 342 **pollution damage**: amended, on 23 October 2013, by [section 54(2)][1022] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 342 **regulated offshore installation**: repealed, on 23 October 2013, by [section 54(3)][1021] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 342 **regulated offshore installation**: repealed, on 23 October 2013, by [section 54(3)][1022] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 342 **regulated ship**: replaced, on 23 October 2013, by [section 54(4)][1021] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 342 **regulated ship**: replaced, on 23 October 2013, by [section 54(4)][1022] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 342 **tonnage** paragraph (b): substituted, on 25 June 1999, by [section 3(5)][1022] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 342 **tonnage** paragraph (b): substituted, on 25 June 1999, by [section 3(5)][1023] of the Maritime Transport Amendment Act 1998 (1998 No 53).
 
 ##### 343 Ownership of CLC Ship
     
@@ -9677,9 +9679,9 @@ Civil liability for pollution of marine environment
     
     Compare: 1974 No 14 s 30
     
-    Section 344(1): substituted, on 17 May 2005, by [section 4(1)][1023] of the Maritime Transport Amendment Act 2005 (2005 No 59).
+    Section 344(1): substituted, on 17 May 2005, by [section 4(1)][1024] of the Maritime Transport Amendment Act 2005 (2005 No 59).
     
-    Section 344(4): substituted, on 17 May 2005, by [section 4(2)][1023] of the Maritime Transport Amendment Act 2005 (2005 No 59).
+    Section 344(4): substituted, on 17 May 2005, by [section 4(2)][1024] of the Maritime Transport Amendment Act 2005 (2005 No 59).
 
 ##### 345 Liability of shipowners for pollution damage
     
@@ -9697,7 +9699,7 @@ Civil liability for pollution of marine environment
     
     (2) The recovery of costs by the Crown (or marine agency) under [section 344(1)][518] does not preclude a claim for costs under subsection (1) if that claim relates to matters that are different from the matters for which costs were recovered under section 344(1).
     
-    Section 345: substituted, on 17 May 2005, by [section 5][1024] of the Maritime Transport Amendment Act 2005 (2005 No 59).
+    Section 345: substituted, on 17 May 2005, by [section 5][1025] of the Maritime Transport Amendment Act 2005 (2005 No 59).
 
 ##### 346 Liability for unattributable pollution damage from ships
     
@@ -9733,23 +9735,23 @@ Civil liability for pollution of marine environment
     
     Compare: 1974 No 14 ss 31(3), (4), 32(3), (4)
     
-    Section 347 heading: replaced, on 23 October 2013, by [section 55(1)][1025] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 347 heading: replaced, on 23 October 2013, by [section 55(1)][1026] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 347(1): substituted, on 25 June 1999, by [section 4(1)][1026] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 347(1): substituted, on 25 June 1999, by [section 4(1)][1027] of the Maritime Transport Amendment Act 1998 (1998 No 53).
     
-    Section 347(1)(a): replaced, on 23 October 2013, by [section 55(2)][1025] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 347(1)(a): replaced, on 23 October 2013, by [section 55(2)][1026] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 347(1)(b): amended, on 23 October 2013, by [section 55(3)][1025] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 347(1)(b): amended, on 23 October 2013, by [section 55(3)][1026] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 347(1)(b): amended, on 17 May 2005, by [section 6(2)][1027] of the Maritime Transport Amendment Act 2005 (2005 No 59).
+    Section 347(1)(b): amended, on 17 May 2005, by [section 6(2)][1028] of the Maritime Transport Amendment Act 2005 (2005 No 59).
     
-    Section 347(2): substituted, on 25 June 1999, by [section 4(1)][1026] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 347(2): substituted, on 25 June 1999, by [section 4(1)][1027] of the Maritime Transport Amendment Act 1998 (1998 No 53).
     
-    Section 347(5): substituted, on 25 June 1999, by [section 4(2)][1026] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 347(5): substituted, on 25 June 1999, by [section 4(2)][1027] of the Maritime Transport Amendment Act 1998 (1998 No 53).
     
-    Section 347(5): amended, on 23 October 2013, by [section 55(4)][1025] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 347(5): amended, on 23 October 2013, by [section 55(4)][1026] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 347(6): replaced, on 23 October 2013, by [section 55(5)][1025] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 347(6): replaced, on 23 October 2013, by [section 55(5)][1026] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 348 Defences to shipowner's liability for pollution damage
     
@@ -9793,9 +9795,9 @@ Civil liability for pollution of marine environment
     
     Compare: 1974 No 14 s 40(1), (3)
     
-    Section 350(1): amended, on 17 May 2005, by [section 8(a)][1028] of the Maritime Transport Amendment Act 2005 (2005 No 59).
+    Section 350(1): amended, on 17 May 2005, by [section 8(a)][1029] of the Maritime Transport Amendment Act 2005 (2005 No 59).
     
-    Section 350(1): amended, on 17 May 2005, by [section 8(b)][1028] of the Maritime Transport Amendment Act 2005 (2005 No 59).
+    Section 350(1): amended, on 17 May 2005, by [section 8(b)][1029] of the Maritime Transport Amendment Act 2005 (2005 No 59).
 
 ##### 351 Distribution of amounts paid in satisfaction of liability
     
@@ -9857,7 +9859,7 @@ Civil liability for pollution of marine environment
         
         in respect of pollution damage caused by that discharge or dumping unless the pollution damage resulted from that person's personal act or omission, committed with intent to cause pollution damage or recklessly as to whether pollution damage would probably occur.
     
-    Section 352: substituted, on 25 June 1999, by [section 5][1029] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 352: substituted, on 25 June 1999, by [section 5][1030] of the Maritime Transport Amendment Act 1998 (1998 No 53).
 
 ##### 353 Restrictions on enforcement of claims against shipowners
     
@@ -9877,49 +9879,49 @@ Civil liability for pollution of marine environment
     
     Compare: 1974 No 14 s 42
     
-    Section 354: amended, on 25 June 1999, by [section 6][1030] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 354: amended, on 25 June 1999, by [section 6][1031] of the Maritime Transport Amendment Act 1998 (1998 No 53).
 
 #### Liability for pollution from marine structures and operations
 
 \[Repealed\]
     
-*   Heading: repealed, on 23 October 2013, by [section 56][1031] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+*   Heading: repealed, on 23 October 2013, by [section 56][1032] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 355 Liability to the Crown and marine agencies for costs of cleaning up pollution
     
 *   \[Repealed\]
     
-    Section 355: repealed, on 23 October 2013, by [section 56][1031] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 355: repealed, on 23 October 2013, by [section 56][1032] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 356 Liability for pollution damage from marine operations and structures
     
 *   \[Repealed\]
     
-    Section 356: repealed, on 23 October 2013, by [section 56][1031] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 356: repealed, on 23 October 2013, by [section 56][1032] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 357 Liability for unattributable pollution damage from marine structures and operations
     
 *   \[Repealed\]
     
-    Section 357: repealed, on 23 October 2013, by [section 56][1031] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 357: repealed, on 23 October 2013, by [section 56][1032] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 358 Defences in respect of liability for pollution damage from marine structures and operations
     
 *   \[Repealed\]
     
-    Section 358: repealed, on 23 October 2013, by [section 56][1031] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 358: repealed, on 23 October 2013, by [section 56][1032] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 359 Reduction of liability of owner of marine structure or person in charge of marine operations where contributory negligence
     
 *   \[Repealed\]
     
-    Section 359: repealed, on 23 October 2013, by [section 56][1031] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 359: repealed, on 23 October 2013, by [section 56][1032] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 360 Proceedings against third parties in respect of pollution from marine structures or operations
     
 *   \[Repealed\]
     
-    Section 360: repealed, on 23 October 2013, by [section 56][1031] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 360: repealed, on 23 October 2013, by [section 56][1032] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 #### General provisions in respect of liability for pollution damage
 
@@ -9933,7 +9935,7 @@ Civil liability for pollution of marine environment
     
 *   \[Repealed\]
     
-    Section 362: repealed, on 23 October 2013, by [section 57][1032] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 362: repealed, on 23 October 2013, by [section 57][1033] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 #### Mandatory insurance for certain ships and offshore installations
 
@@ -9947,19 +9949,19 @@ Civil liability for pollution of marine environment
     
     Compare: 1974 No 14 s 37(2)
     
-    Section 363(1): amended, on 9 June 1999, by [section 34(a)][1033] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+    Section 363(1): amended, on 9 June 1999, by [section 34(a)][1034] of the Maritime Transport Amendment Act 1999 (1999 No 68).
     
-    Section 363(1): amended, on 9 June 1999, by [section 34(b)][1033] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+    Section 363(1): amended, on 9 June 1999, by [section 34(b)][1034] of the Maritime Transport Amendment Act 1999 (1999 No 68).
     
-    Section 363(2): amended, on 9 June 1999, by [section 34(a)][1033] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+    Section 363(2): amended, on 9 June 1999, by [section 34(a)][1034] of the Maritime Transport Amendment Act 1999 (1999 No 68).
     
-    Section 363(2): amended, on 9 June 1999, by [section 34(b)][1033] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+    Section 363(2): amended, on 9 June 1999, by [section 34(b)][1034] of the Maritime Transport Amendment Act 1999 (1999 No 68).
 
 ##### 364 Regulated offshore installations to have certificates of insurance
     
 *   \[Repealed\]
     
-    Section 364: repealed, on 23 October 2013, by [section 58][1034] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 364: repealed, on 23 October 2013, by [section 58][1035] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 365 Production of certificate of insurance
     
@@ -9967,7 +9969,7 @@ Civil liability for pollution of marine environment
     
     Compare: 1974 No 14 s 37(6)
     
-    Section 365: amended, on 23 October 2013, by [section 59][1035] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 365: amended, on 23 October 2013, by [section 59][1036] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 366 Rights of third parties against insurers of regulated oil tankers and regulated ships
     
@@ -9983,15 +9985,15 @@ Civil liability for pollution of marine environment
     
     Compare: 1974 No 14 s 39
     
-    Section 366 heading: amended, on 23 October 2013, by [section 60(1)][1036] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 366 heading: amended, on 23 October 2013, by [section 60(1)][1037] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 366(1): replaced, on 23 October 2013, by [section 60(2)][1036] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 366(1): replaced, on 23 October 2013, by [section 60(2)][1037] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 366(2): amended, on 23 October 2013, by [section 60(3)][1036] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 366(2): amended, on 23 October 2013, by [section 60(3)][1037] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 366(4): amended, on 23 October 2013, by [section 60(3)][1036] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 366(4): amended, on 23 October 2013, by [section 60(3)][1037] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 366(5): inserted, on 23 October 2013, by [section 60(4)][1036] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 366(5): inserted, on 23 October 2013, by [section 60(4)][1037] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 367 Offences
     
@@ -10001,7 +10003,7 @@ Civil liability for pollution of marine environment
     
     (3) The owner and the master of a New Zealand ship is liable to imprisonment for a term not exceeding 2 years or to a fine not exceeding $200,000 if, without reasonable excuse, the ship enters or leaves a port outside New Zealand in breach of [section 363][540].
     
-    Section 367: replaced, on 23 October 2013, by [section 61][1037] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 367: replaced, on 23 October 2013, by [section 61][1038] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 #### Miscellaneous
 
@@ -10013,17 +10015,17 @@ Civil liability for pollution of marine environment
     
     Compare: 1974 No 14 s 43; 1977 No 12 s 5
     
-    Section 368(2): amended, on 25 June 1999, by [section 7][1038] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 368(2): amended, on 25 June 1999, by [section 7][1039] of the Maritime Transport Amendment Act 1998 (1998 No 53).
 
 ##### 369 Reciprocal enforcement of judgments
     
-*   (1) [Part 1][1039] (except for [section 6(3) and (4)][1040]) of the Reciprocal Enforcement of Judgments Act 1934 applies to a judgment given by a court in a country (other than Australia) in respect of which the CLC Convention is in force and to enforce a claim in respect of liability incurred under any provision corresponding to [section 345][519] of this Act.
+*   (1) [Part 1][1040] (except for [section 6(3) and (4)][1041]) of the Reciprocal Enforcement of Judgments Act 1934 applies to a judgment given by a court in a country (other than Australia) in respect of which the CLC Convention is in force and to enforce a claim in respect of liability incurred under any provision corresponding to [section 345][519] of this Act.
     
-    (2) A judgment given by a court in Australia to enforce a claim in respect of liability incurred under Part II of the Protection of the Sea (Civil Liability) Act 1981 (Aust) (or any later Australian enactments corresponding to [section 345][519] of this Act) must be treated as a registrable Australian judgment for the purposes of [subpart 5][1041] of Part 2 of the Trans-Tasman Proceedings Act 2010\.
+    (2) A judgment given by a court in Australia to enforce a claim in respect of liability incurred under Part II of the Protection of the Sea (Civil Liability) Act 1981 (Aust) (or any later Australian enactments corresponding to [section 345][519] of this Act) must be treated as a registrable Australian judgment for the purposes of [subpart 5][1042] of Part 2 of the Trans-Tasman Proceedings Act 2010\.
     
     Compare: 1974 No 14 s 44
     
-    Section 369: replaced, on 11 October 2013, by [section 10(1)][1042] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
+    Section 369: replaced, on 11 October 2013, by [section 10(1)][1043] of the Trans-Tasman Proceedings Act 2010 (2010 No 108).
 
 ## Part 26  
 Compensation from International Oil Pollution Compensation Fund for pollution damage
@@ -10062,11 +10064,11 @@ Compensation from International Oil Pollution Compensation Fund for pollution da
     
     Compare: 1974 No 14 s 47
     
-    Section 370 **oil**: substituted, on 25 June 1999, by [section 8(1)][1043] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 370 **oil**: substituted, on 25 June 1999, by [section 8(1)][1044] of the Maritime Transport Amendment Act 1998 (1998 No 53).
     
-    Section 370 **owner** (in relation to a CLC ship): inserted, on 25 June 1999, by [section 8(2)][1043] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 370 **owner** (in relation to a CLC ship): inserted, on 25 June 1999, by [section 8(2)][1044] of the Maritime Transport Amendment Act 1998 (1998 No 53).
     
-    Section 370 **pollution damage**: inserted, on 25 June 1999, by [section 8(3)][1043] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 370 **pollution damage**: inserted, on 25 June 1999, by [section 8(3)][1044] of the Maritime Transport Amendment Act 1998 (1998 No 53).
 
 #### Compensation and indemnity from International Oil Pollution Fund
 
@@ -10090,7 +10092,7 @@ Compensation from International Oil Pollution Compensation Fund for pollution da
     
     Compare: 1974 No 14 s 49(3)
     
-    Section 372: amended, on 25 June 1999, by [section 9][1044] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 372: amended, on 25 June 1999, by [section 9][1045] of the Maritime Transport Amendment Act 1998 (1998 No 53).
 
 ##### 373 Maximum amount of liability of International Oil Pollution Fund
     
@@ -10106,11 +10108,11 @@ Compensation from International Oil Pollution Compensation Fund for pollution da
     
     Compare: 1974 No 14 s 49(6)--(8)
     
-    Section 373(1)(a): amended, on 25 June 1999, by [section 10(1)][1045] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 373(1)(a): amended, on 25 June 1999, by [section 10(1)][1046] of the Maritime Transport Amendment Act 1998 (1998 No 53).
     
-    Section 373(1)(b): amended, on 25 June 1999, by [section 10(1)][1045] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 373(1)(b): amended, on 25 June 1999, by [section 10(1)][1046] of the Maritime Transport Amendment Act 1998 (1998 No 53).
     
-    Section 373(1)(c): substituted, on 25 June 1999, by [section 10(2)][1045] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 373(1)(c): substituted, on 25 June 1999, by [section 10(2)][1046] of the Maritime Transport Amendment Act 1998 (1998 No 53).
 
 ##### 374 International Oil Pollution Fund's liability for compensation avoided or limited in certain cases
     
@@ -10150,13 +10152,13 @@ Compensation from International Oil Pollution Compensation Fund for pollution da
     
 *   \[Repealed\]
     
-    Section 376: repealed, on 25 June 1999, by [section 11][1046] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 376: repealed, on 25 June 1999, by [section 11][1047] of the Maritime Transport Amendment Act 1998 (1998 No 53).
 
 ##### 377 International Oil Pollution Fund's liability to indemnify limited or avoided in certain cases
     
 *   \[Repealed\]
     
-    Section 377: repealed, on 25 June 1999, by [section 11][1046] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 377: repealed, on 25 June 1999, by [section 11][1047] of the Maritime Transport Amendment Act 1998 (1998 No 53).
 
 #### Provisions in respect of proceedings against International Oil Pollution Fund
 
@@ -10168,9 +10170,9 @@ Compensation from International Oil Pollution Compensation Fund for pollution da
     
     Compare: 1974 No 14 s 53
     
-    Section 378(1): amended, on 25 June 1999, by [section 12(1)][1047] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 378(1): amended, on 25 June 1999, by [section 12(1)][1048] of the Maritime Transport Amendment Act 1998 (1998 No 53).
     
-    Section 378(2): repealed, on 25 June 1999, by [section 12(2)][1047] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 378(2): repealed, on 25 June 1999, by [section 12(2)][1048] of the Maritime Transport Amendment Act 1998 (1998 No 53).
 
 ##### 379 Jurisdiction of court in respect of claims against International Oil Pollution Fund
     
@@ -10180,17 +10182,17 @@ Compensation from International Oil Pollution Compensation Fund for pollution da
     
     Compare: 1974 No 14 s 54(1), (2)
     
-    Section 379(1): substituted, on 25 June 1999, by [section 13(1)][1048] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 379(1): substituted, on 25 June 1999, by [section 13(1)][1049] of the Maritime Transport Amendment Act 1998 (1998 No 53).
     
-    Section 379(2): amended, on 25 June 1999, by [section 13(2)][1048] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 379(2): amended, on 25 June 1999, by [section 13(2)][1049] of the Maritime Transport Amendment Act 1998 (1998 No 53).
 
 ##### 380 Notice of proceedings against International Oil Pollution Fund
     
 *   Where proceedings are brought against the International Oil Pollution Fund under [section 372][552], copies of the documents commencing the proceedings shall be sent to the Director by the Registrar of the court in which the documents are filed.
     
-    Compare: 1974 No 14 s 54(3); 1993 No 48 [s 6][1049]
+    Compare: 1974 No 14 s 54(3); 1993 No 48 [s 6][1050]
     
-    Section 380: amended, on 25 June 1999, by [section 14][1050] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 380: amended, on 25 June 1999, by [section 14][1051] of the Maritime Transport Amendment Act 1998 (1998 No 53).
 
 ##### 381 Notice to and joining of International Oil Pollution Fund in certain proceedings
     
@@ -10214,13 +10216,13 @@ Compensation from International Oil Pollution Compensation Fund for pollution da
     
     Compare: 1974 No 14 s 54(4)--(7)
     
-    Section 381(1): amended, on 25 June 1999, by [section 15][1051] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 381(1): amended, on 25 June 1999, by [section 15][1052] of the Maritime Transport Amendment Act 1998 (1998 No 53).
 
 ##### 382 Reciprocal enforcement of judgments against International Oil Pollution Fund
     
-*   (1) [Part 1][1039] of the Reciprocal Enforcement of Judgments Act 1934 shall apply to any judgment given by a court against the International Oil Pollution Fund in a country in respect of which the Fund Convention is in force.
+*   (1) [Part 1][1040] of the Reciprocal Enforcement of Judgments Act 1934 shall apply to any judgment given by a court against the International Oil Pollution Fund in a country in respect of which the Fund Convention is in force.
     
-    (2) Subsections (3) and (4) of [section 6][1040] of the Reciprocal Enforcement of Judgments Act 1934 shall have no effect in the case of any such judgment.
+    (2) Subsections (3) and (4) of [section 6][1041] of the Reciprocal Enforcement of Judgments Act 1934 shall have no effect in the case of any such judgment.
     
     (3) Where a court in a country in respect of which the Fund Convention is in force has directed the distribution of the amounts available for distribution in accordance with the provisions of paragraph 5 of Article 4 of that Convention, then, for the purpose of enforcing the judgment of that court in New Zealand, the judgment to be enforced shall be the judgment of that court as modified by that direction as to distribution.
     
@@ -10236,19 +10238,19 @@ Compensation from International Oil Pollution Compensation Fund for pollution da
     
     Compare: 1974 No 14 s 56
     
-    Section 383(a): amended, on 25 June 1999, by [section 16][1052] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 383(a): amended, on 25 June 1999, by [section 16][1053] of the Maritime Transport Amendment Act 1998 (1998 No 53).
 
 #### Miscellaneous provisions relating to International Oil Pollution Fund
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 June 1999, pursuant to [section 17][1053] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+*   Heading: repealed, on 25 June 1999, pursuant to [section 17][1054] of the Maritime Transport Amendment Act 1998 (1998 No 53).
 
 ##### 384 International Oil Pollution Fund as insurer
     
 *   \[Repealed\]
     
-    Section 384: repealed, on 25 June 1999, by [section 17][1053] of the Maritime Transport Amendment Act 1998 (1998 No 53).
+    Section 384: repealed, on 25 June 1999, by [section 17][1054] of the Maritime Transport Amendment Act 1998 (1998 No 53).
 
 #### Levies on oil imports
 
@@ -10279,7 +10281,7 @@ Compensation from International Oil Pollution Compensation Fund for pollution da
 ## Part 26A  
 Civil liability for pollution of marine environment from marine structures
     
-*   Part 26A: inserted, on 23 October 2013, by [section 62][1054] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+*   Part 26A: inserted, on 23 October 2013, by [section 62][1055] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 385A Interpretation
     
@@ -10321,9 +10323,9 @@ Civil liability for pollution of marine environment from marine structures
     
     *   (b) includes any pipeline connected to that installation.
     
-    Compare: 1994 No 104 [s 342][1055]
+    Compare: 1994 No 104 [s 342][1056]
     
-    Section 385A: inserted, on 23 October 2013, by [section 62][1054] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 385A: inserted, on 23 October 2013, by [section 62][1055] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 385B Liability to the Crown and marine agencies for costs of cleaning up pollution
     
@@ -10345,13 +10347,13 @@ Civil liability for pollution of marine environment from marine structures
     
     *   (b) any reasonable measures taken to prevent or minimise the discharge or escape of a harmful substance.
     
-    Compare: 1974 No 14 s 30; 1994 No 104 [s 355][1056]
+    Compare: 1974 No 14 s 30; 1994 No 104 [s 355][1057]
     
-    Section 385B: inserted, on 23 October 2013, by [section 62][1054] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 385B: inserted, on 23 October 2013, by [section 62][1055] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 #### Liability for pollution from marine structures and operations
     
-*   Heading: inserted, on 23 October 2013, by [section 62][1054] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+*   Heading: inserted, on 23 October 2013, by [section 62][1055] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 385C Liability for pollution damage from marine structures and operations
     
@@ -10369,9 +10371,9 @@ Civil liability for pollution of marine environment from marine structures
     
     (2) The recovery of costs by the Crown (or marine agency) under [section 385B(1)][571] does not preclude a claim for costs under subsection (1) if that claim relates to matters that are different from the matters for which costs were recovered under section 385B(1).
     
-    Compare: 1994 No 104 [s 356][1057]
+    Compare: 1994 No 104 [s 356][1058]
     
-    Section 385C: inserted, on 23 October 2013, by [section 62][1054] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 385C: inserted, on 23 October 2013, by [section 62][1055] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 385D Liability for unattributable pollution damage from marine structures and operations
     
@@ -10379,9 +10381,9 @@ Civil liability for pollution of marine environment from marine structures
     
     (2) Any liability under subsection (1) is subject to the provisions of [section 385E][575].
     
-    Compare: 1994 No 104 [s 357][1058]
+    Compare: 1994 No 104 [s 357][1059]
     
-    Section 385D: inserted, on 23 October 2013, by [section 62][1054] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 385D: inserted, on 23 October 2013, by [section 62][1055] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 385E Defences in respect of liability for pollution damage from marine structures and operations
     
@@ -10395,9 +10397,9 @@ Civil liability for pollution of marine environment from marine structures
     
     (2) The owner of a marine structure and the person in charge of marine operations is not liable to a claimant under [section 385B][571], [385C][573], or [385D][574] if it is proved that the discharge or escape, or the grave and imminent threat of the discharge or escape, was wholly caused by the act or omission of that claimant, or the employee or agent of that claimant, with intent to cause damage, or was wholly caused by the negligence of that claimant or the employee or agent of that claimant.
     
-    Compare: 1974 No 14 s 33(2), (3); 1994 No 104 [s 358][1059]
+    Compare: 1974 No 14 s 33(2), (3); 1994 No 104 [s 358][1060]
     
-    Section 385E: inserted, on 23 October 2013, by [section 62][1054] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 385E: inserted, on 23 October 2013, by [section 62][1055] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 385F Reduction of liability of owner of marine structure or person in charge of marine operations where contributory negligence
     
@@ -10405,17 +10407,17 @@ Civil liability for pollution of marine environment from marine structures
     
     (2) For the purposes of subsection (1), _claimant_ includes any employee or agent of the claimant.
     
-    Compare: 1974 No 14 s 33(4); 1994 No 104 [s 359][1060]
+    Compare: 1974 No 14 s 33(4); 1994 No 104 [s 359][1061]
     
-    Section 385F: inserted, on 23 October 2013, by [section 62][1054] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 385F: inserted, on 23 October 2013, by [section 62][1055] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 385G Proceedings against third parties in respect of pollution damage from marine structures or operations
     
 *   Where the owner of a marine structure or the person in charge of any marine operations avoids liability in damages for pollution damage under [section 385C][573] or [385D][574] by proving any of the matters specified in [section 385E(1)(b) or (c)][575], proceedings for pollution damage may be brought under this section against the person specified in section 385E(1)(b) or (c) who has caused the discharge, escape, or dumping of a harmful substance or waste or other matter, as the case may be.
     
-    Compare: 1974 No 14 s 40(2); 1994 No 104 [s 360][1061]
+    Compare: 1974 No 14 s 40(2); 1994 No 104 [s 360][1062]
     
-    Section 385G: inserted, on 23 October 2013, by [section 62][1054] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 385G: inserted, on 23 October 2013, by [section 62][1055] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 385H Regulated offshore installations to have certificates of insurance
     
@@ -10423,17 +10425,17 @@ Civil liability for pollution of marine environment from marine structures
     
     (2) The Director may, in accordance with [section 270][427] or [271][428], as the case may require, issue, recognise, or accept certificates of insurance in respect of a regulated offshore installation.
     
-    Compare: 1994 No 104 [ss 363][1062], [364][1063]
+    Compare: 1994 No 104 [ss 363][1063], [364][1064]
     
-    Section 385H: inserted, on 23 October 2013, by [section 62][1054] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 385H: inserted, on 23 October 2013, by [section 62][1055] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 385I Production of certificate of insurance
     
 *   The person in charge of a regulated offshore installation must produce any certificate of insurance required by [section 385H][578] on demand if requested by a harbourmaster, any officer of Customs, or the Director.
     
-    Compare: 1974 No 14 s 37(6); 1994 No 104 [s 365][1064]
+    Compare: 1974 No 14 s 37(6); 1994 No 104 [s 365][1065]
     
-    Section 385I: inserted, on 23 October 2013, by [section 62][1054] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 385I: inserted, on 23 October 2013, by [section 62][1055] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 385J Rights of third parties against insurers of regulated offshore installations
     
@@ -10443,17 +10445,17 @@ Civil liability for pollution of marine environment from marine structures
     
     (3) Nothing in this section prejudices any claim, or the enforcement of any claim, by any person against the owner of a regulated offshore installation in respect of pollution damage.
     
-    Compare: 1974 No 14 s 39; 1994 No 104 [s 366][1065]
+    Compare: 1974 No 14 s 39; 1994 No 104 [s 366][1066]
     
-    Section 385J: inserted, on 23 October 2013, by [section 62][1054] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 385J: inserted, on 23 October 2013, by [section 62][1055] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 385K Offence
     
 *   The owner and person in charge of a regulated offshore installation each commits an offence and is liable to imprisonment for a term not exceeding 2 years or to a fine of $200,000 if, without reasonable excuse, a current certificate of insurance issued under the marine protection rules is not for the time being in force in respect of the regulated offshore installation.
     
-    Compare: 1994 No 104 [s 367(3)][1066]
+    Compare: 1994 No 104 [s 367(3)][1067]
     
-    Section 385K: inserted, on 23 October 2013, by [section 62][1054] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 385K: inserted, on 23 October 2013, by [section 62][1055] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ## Part 27  
 Making of marine protection rules and regulations and taking of other measures to protect marine environment
@@ -10472,7 +10474,7 @@ Making of marine protection rules and regulations and taking of other measures t
     
     (2) Nothing in subsection (1) limits any other provision of this Act that empowers the making of marine protection rules.
     
-    Compare: 1990 No 98 [s 28][805]; 1992 No 75 [s 18][1067]
+    Compare: 1990 No 98 [s 28][805]; 1992 No 75 [s 18][1068]
 
 ##### 387 Marine protection rules relating to marine protection documents
     
@@ -10520,7 +10522,7 @@ Making of marine protection rules and regulations and taking of other measures t
     
     Compare: 1990 No 98 [s 7][800]
     
-    Section 387(4): amended, on 23 October 2013, by [section 63][1068] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 387(4): amended, on 23 October 2013, by [section 63][1069] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 388 Marine protection rules in relation to harmful and other substances
     
@@ -10576,7 +10578,7 @@ Making of marine protection rules and regulations and taking of other measures t
     
     *   (m) prescribing the requirements and procedures for the transfer of oil or noxious liquid substances to or from transfer facilities or ships.
     
-    Section 388(ca): inserted, on 23 October 2013, by [section 64][1069] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 388(ca): inserted, on 23 October 2013, by [section 64][1070] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 389 Marine protection rules in relation to waste or other matter
     
@@ -10628,9 +10630,9 @@ Making of marine protection rules and regulations and taking of other measures t
     
     (2) The Minister may from time to time make marine protection rules to provide for such other matters as are contemplated by or necessary for giving full effect to the provisions of [Parts 18 to 26A][360] and for the due administration thereof.
     
-    Section 390(1)(c): amended, on 23 October 2013, by [section 65(1)][1070] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 390(1)(c): amended, on 23 October 2013, by [section 65(1)][1071] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 390(2): amended, on 23 October 2013, by [section 65(2)][1070] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 390(2): amended, on 23 October 2013, by [section 65(2)][1071] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 390A Power of Governor-General to make marine protection rules
     
@@ -10648,7 +10650,7 @@ Making of marine protection rules and regulations and taking of other measures t
     
     *   (b) the Minister may amend or revoke any marine protection rule made by the Governor-General (as if the Minister had made the rule).
     
-    Section 390A: inserted, on 23 October 2013, by [section 66][1071] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 390A: inserted, on 23 October 2013, by [section 66][1072] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 391 Power of Director to make emergency marine protection rules
     
@@ -10696,11 +10698,11 @@ Making of marine protection rules and regulations and taking of other measures t
     
     Compare: 1990 No 98 [s 33][814]
     
-    Section 392(a): substituted, on 1 December 2004, by [section 7(1)][1072] of the Maritime Transport Amendment Act 2004 (2004 No 98).
+    Section 392(a): substituted, on 1 December 2004, by [section 7(1)][1073] of the Maritime Transport Amendment Act 2004 (2004 No 98).
     
-    Section 392(ab): inserted, on 1 December 2004, by [section 7(1)][1072] of the Maritime Transport Amendment Act 2004 (2004 No 98).
+    Section 392(ab): inserted, on 1 December 2004, by [section 7(1)][1073] of the Maritime Transport Amendment Act 2004 (2004 No 98).
     
-    Section 392(c): substituted, on 1 December 2004, by [section 7(2)][1072] of the Maritime Transport Amendment Act 2004 (2004 No 98).
+    Section 392(c): substituted, on 1 December 2004, by [section 7(2)][1073] of the Maritime Transport Amendment Act 2004 (2004 No 98).
 
 ##### 393 Further provisions relating to marine protection rules
     
@@ -10784,9 +10786,9 @@ Making of marine protection rules and regulations and taking of other measures t
     
     Compare: 1990 No 98 [s 37][857]
     
-    Section 395(2)(a): amended, on 23 October 2013, by [section 67(1)][1073] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 395(2)(a): amended, on 23 October 2013, by [section 67(1)][1074] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 395(2)(ba): inserted, on 23 October 2013, by [section 67(2)][1073] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 395(2)(ba): inserted, on 23 October 2013, by [section 67(2)][1074] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 396 Inspections and audits
     
@@ -10866,7 +10868,7 @@ Making of marine protection rules and regulations and taking of other measures t
     
     (11) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under [section 424][632].
     
-    Compare: 1990 No 98 [s 21][879]; 1992 No 75 [s 14][1074]
+    Compare: 1990 No 98 [s 21][879]; 1992 No 75 [s 14][1075]
 
 ##### 398 Costs of detention under section 397
     
@@ -10943,7 +10945,7 @@ General offences and provisions in relation to offences and appeals under this A
     
     (2) Subsection (1) shall apply only where the person obstructed or impeded produces evidence of his or her authority.
     
-    Compare: 1990 No 98 [s 50][1075]
+    Compare: 1990 No 98 [s 50][1076]
 
 ##### 405 Failure to maintain accurate records
     
@@ -10955,7 +10957,7 @@ General offences and provisions in relation to offences and appeals under this A
     
     *   (c) to produce to the Authority or the Director an accurate record.
     
-    Compare: 1990 No 98 [s 52][1076]; 1992 No 75 [s 40][1077]
+    Compare: 1990 No 98 [s 52][1077]; 1992 No 75 [s 40][1078]
 
 ##### 406 Communicating fraudulent, misleading, or false information
     
@@ -10967,11 +10969,11 @@ General offences and provisions in relation to offences and appeals under this A
     
     *   (c) being the holder of a maritime document, or the holder of a document recognised as a maritime document, fails, without reasonable excuse, to provide to the Authority or the Director information known to that person which is relevant to the condition specified in [section 41(5)][119].
     
-    Compare: 1990 No 98 [s 49][1078]; 1992 No 75 [s 26][1079]
+    Compare: 1990 No 98 [s 49][1079]; 1992 No 75 [s 26][1080]
     
-    Section 406 heading: amended, on 23 October 2013, by [section 68(1)][1080] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 406 heading: amended, on 23 October 2013, by [section 68(1)][1081] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 406(a): amended, on 23 October 2013, by [section 68(2)][1080] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 406(a): amended, on 23 October 2013, by [section 68(2)][1081] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 407 Penalties
     
@@ -10999,9 +11001,9 @@ General offences and provisions in relation to offences and appeals under this A
     
     Section 407(3): amended, on 1 July 2013, by [section 413][749] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 407(3)(a): amended, on 23 October 2013, by [section 69(1)][1081] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 407(3)(a): amended, on 23 October 2013, by [section 69(1)][1082] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 407(3)(b): amended, on 23 October 2013, by [section 69(2)][1081] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 407(3)(b): amended, on 23 October 2013, by [section 69(2)][1082] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 #### General provisions in respect of offences
 
@@ -11017,9 +11019,9 @@ General offences and provisions in relation to offences and appeals under this A
     
     (2) For the purpose of subsection (1), the value of any gain shall be assessed by the court, and any amount ordered to be paid shall be recoverable in the same manner as a fine.
     
-    Compare: 1990 No 98 [s 47][1082]
+    Compare: 1990 No 98 [s 47][1083]
     
-    Section 409(1): amended, on 23 October 2013, by [section 70][1083] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 409(1): amended, on 23 October 2013, by [section 70][1084] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 410 Liability of principal for acts of agents
     
@@ -11051,7 +11053,7 @@ General offences and provisions in relation to offences and appeals under this A
     
     *   (b) that he or she knew or could reasonably be expected to have known that the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
     
-    Compare: 1991 No 69 [s 340][1084]
+    Compare: 1991 No 69 [s 340][1085]
 
 ##### 411 Limitation of proceedings
     
@@ -11063,9 +11065,9 @@ General offences and provisions in relation to offences and appeals under this A
     
     Section 411: replaced, on 1 July 2013, by [section 413][749] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 411(1): amended, on 23 October 2013, by [section 71][1085] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 411(1): amended, on 23 October 2013, by [section 71][1086] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 411(2): amended, on 23 October 2013, by [section 71][1085] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 411(2): amended, on 23 October 2013, by [section 71][1086] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 412 Proof of exemption, etc
     
@@ -11087,7 +11089,7 @@ General offences and provisions in relation to offences and appeals under this A
     
     (2) The presumption in subsection (1) shall apply whether or not separate or further evidence is adduced by or on behalf of the prosecutor in support of the relevant allegation or presumption.
     
-    Compare: 1983 No 14 [ss 106B][1086], [106C][1087]; 1990 No 29 [s 51][1088]
+    Compare: 1983 No 14 [ss 106B][1087], [106C][1088]; 1990 No 29 [s 51][1089]
     
     Section 414(1): amended, on 1 July 2013, by [section 413][749] of the Criminal Procedure Act 2011 (2011 No 81).
     
@@ -11131,17 +11133,17 @@ General offences and provisions in relation to offences and appeals under this A
     
     shall, in the absence of proof to the contrary, be sufficient evidence of the rule and the fact that it has been made in accordance with the relevant provisions of this Act.
     
-    Compare: 1990 No 98 [s 71][1089]; 1992 No 75 [s 30][1090]; 1993 No 90 [s 6][1091]
+    Compare: 1990 No 98 [s 71][1090]; 1992 No 75 [s 30][1091]; 1993 No 90 [s 6][1092]
 
 ##### 418 Mode of service of summons on master or owner
     
-*   (1) Where the master or owner of a ship is a defendant in any prosecution for an offence against any provision of this Act, then, notwithstanding any enactment, service on the defendant of any summons or other document shall be deemed to be effected for the purposes of the [Criminal Procedure Act 2011][1092]---
+*   (1) Where the master or owner of a ship is a defendant in any prosecution for an offence against any provision of this Act, then, notwithstanding any enactment, service on the defendant of any summons or other document shall be deemed to be effected for the purposes of the [Criminal Procedure Act 2011][1093]---
         
     *   (a) by being delivered personally to the agent of the ship on behalf of the defendant or being brought to the notice of that agent if that agent refuses to accept it on behalf of the defendant; or
     
     *   (b) by being sent to the agent of the ship, by registered letter addressed to that agent on behalf of the defendant at that agent's last known or usual place of residence or that agent's place of business.
     
-    (2) A District Court Judge or Justice or Community Magistrate or the Registrar may direct that the summons or other document shall be served on the defendant in accordance with rules made under the [Criminal Procedure Act 2011][1092], where he or she is satisfied that it would not be impracticable to do so in the particular circumstances.
+    (2) A District Court Judge or Justice or Community Magistrate or the Registrar may direct that the summons or other document shall be served on the defendant in accordance with rules made under the [Criminal Procedure Act 2011][1093], where he or she is satisfied that it would not be impracticable to do so in the particular circumstances.
     
     (3) Unless the contrary is shown, the time at which service shall be deemed to have been effected on the defendant shall be,---
         
@@ -11157,7 +11159,7 @@ General offences and provisions in relation to offences and appeals under this A
     
     Section 418(2): amended, on 1 July 2013, by [section 413][749] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 418(2): amended, on 30 June 1998, by [section 7][1093] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 418(2): amended, on 30 June 1998, by [section 7][1094] of the District Courts Amendment Act 1998 (1998 No 76).
     
     Section 418(4): repealed, on 1 July 2013, by [section 413][749] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -11171,7 +11173,7 @@ General offences and provisions in relation to offences and appeals under this A
     
     Compare: 1974 No 14 s 60(1), (2), (6)
     
-    Section 419(2): repealed, on 19 December 1998, by [section 4][1094] of the Maritime Transport Amendment Act (No 2) 1998 (1998 No 116).
+    Section 419(2): repealed, on 19 December 1998, by [section 4][1095] of the Maritime Transport Amendment Act (No 2) 1998 (1998 No 116).
 
 ##### 420 Offence under more than 1 enactment
     
@@ -11179,7 +11181,7 @@ General offences and provisions in relation to offences and appeals under this A
     
     (2) Where an act or omission constitutes an offence under 2 or more provisions of this Act, the offender may be prosecuted and punished under any of those provisions.
     
-    Compare: 1961 No 43 [s 10][1095]
+    Compare: 1961 No 43 [s 10][1096]
 
 ##### 421 Application of fines
     
@@ -11191,7 +11193,7 @@ General offences and provisions in relation to offences and appeals under this A
     
     *   (c) both.
     
-    Compare: 1974 No 14 s 63; 1989 No 44 [s 86][1096]
+    Compare: 1974 No 14 s 63; 1989 No 44 [s 86][1097]
 
 #### Infringement offences
 
@@ -11201,13 +11203,13 @@ General offences and provisions in relation to offences and appeals under this A
     
     (2) Where any person is alleged to have committed an infringement offence, that person may either---
         
-    *   (a) be proceeded against by filing a charging document under [section 14][1097] of the Criminal Procedure Act 2011; or
+    *   (a) be proceeded against by filing a charging document under [section 14][1098] of the Criminal Procedure Act 2011; or
     
     *   (b) be served with an infringement notice as provided in [section 423][630].
     
-    Compare: 1990 No 98 [s 57][1098]
+    Compare: 1990 No 98 [s 57][1099]
     
-    Section 422(1): amended, on 19 December 1998, by [section 5][1099] of the Maritime Transport Amendment Act (No 2) 1998 (1998 No 116).
+    Section 422(1): amended, on 19 December 1998, by [section 5][1100] of the Maritime Transport Amendment Act (No 2) 1998 (1998 No 116).
     
     Section 422(2)(a): replaced, on 1 July 2013, by [section 413][749] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -11253,13 +11255,13 @@ General offences and provisions in relation to offences and appeals under this A
     
     (6) Where an infringement notice has been issued under this section, proceedings in respect of the offence to which the notice relates may be commenced in accordance with [section 21][787] of the Summary Proceedings Act 1957, and in that case the provisions of that section shall, with the necessary modifications, apply.
     
-    Compare: 1990 No 98 [s 58][1100]
+    Compare: 1990 No 98 [s 58][1101]
     
-    Section 423(1): replaced, on 23 October 2013, by [section 72(1)][1101] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 423(1): replaced, on 23 October 2013, by [section 72(1)][1102] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 423(1A): inserted, on 19 December 1998, by [section 6][1102] of the Maritime Transport Amendment Act (No 2) 1998 (1998 No 116).
+    Section 423(1A): inserted, on 19 December 1998, by [section 6][1103] of the Maritime Transport Amendment Act (No 2) 1998 (1998 No 116).
     
-    Section 423(1A): amended, on 23 October 2013, by [section 72(2)][1101] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 423(1A): amended, on 23 October 2013, by [section 72(2)][1102] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
     Section 423(1A): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][932] of the Policing Act 2008 (2008 No 72).
     
@@ -11275,7 +11277,7 @@ General offences and provisions in relation to offences and appeals under this A
     
     (3) The owner of a ship, offshore installation, pipeline, maritime product, marine protection product, or other real or personal property shall, for the purposes of exercising a right of appeal under this section, be the person who is the owner of the ship, offshore installation, pipeline, maritime product, marine protection product, or other real or personal property for the purposes of that Part which contains the section giving rise to the right of appeal.
     
-    Compare: 1990 No 98 [s 66][1103]; 1991 No 116 [s 5(1)][1104]; 1992 No 75 [s 29][1105]
+    Compare: 1990 No 98 [s 66][1104]; 1991 No 116 [s 5(1)][1105]; 1992 No 75 [s 29][1106]
 
 ##### 425 Procedure
     
@@ -11299,11 +11301,11 @@ General offences and provisions in relation to offences and appeals under this A
     
     (5) Subject to [section 427][635], the decision of the District Court shall be final.
     
-    Compare: 1990 No 98 [s 67][1106]
+    Compare: 1990 No 98 [s 67][1107]
     
-    Section 425(2)(b)(i): amended, on 23 October 2013, by [section 73][1107] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 425(2)(b)(i): amended, on 23 October 2013, by [section 73][1108] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 425(2)(b)(ii): amended, on 23 October 2013, by [section 73][1107] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 425(2)(b)(ii): amended, on 23 October 2013, by [section 73][1108] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 426 Decision of Director or harbourmaster to continue in force pending appeal
     
@@ -11311,11 +11313,11 @@ General offences and provisions in relation to offences and appeals under this A
     
     (2) Notwithstanding that any appeal under [section 52][130] or [section 424][632] may have been determined in favour of the appellant, the Director may, subject to the same right of appeal, refuse to grant, revoke, suspend, disqualify, or otherwise deal with in accordance with the provisions of this Act any maritime document or marine protection document or any permit, any person to which or to whom the appeal related, or any maritime document or marine protection document or any permit or approval granted or restored in compliance with the decision of the District Court on the appeal, on any sufficient grounds supported by facts or evidence discovered since the hearing of the appeal.
     
-    Compare: 1990 No 98 [s 68][1108]
+    Compare: 1990 No 98 [s 68][1109]
     
-    Section 426 heading: amended, on 23 October 2013, by [section 74(1)][1109] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 426 heading: amended, on 23 October 2013, by [section 74(1)][1110] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 426(1): amended, on 23 October 2013, by [section 74(2)][1109] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 426(1): amended, on 23 October 2013, by [section 74(2)][1110] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 427 Appeal to High Court on question of law
     
@@ -11323,7 +11325,7 @@ General offences and provisions in relation to offences and appeals under this A
     
     (2) Every appeal under this section shall be heard and determined in accordance with the rules of court.
     
-    Compare: 1990 No 98 [s 69][1110]
+    Compare: 1990 No 98 [s 69][1111]
 
 ##### 428 Further appeal to Court of Appeal
     
@@ -11335,7 +11337,7 @@ General offences and provisions in relation to offences and appeals under this A
     
     (4) Subject to this section, the procedure in respect of any appeal under this section shall be in accordance with the rules of court.
     
-    Compare: 1990 No 98 [s 70][1111]
+    Compare: 1990 No 98 [s 70][1112]
 
 ## Part 29  
 Maritime New Zealand
@@ -11350,7 +11352,7 @@ Maritime New Zealand
     
     (2) The Authority is a Crown entity for the purposes of [section 7][921] of the Crown Entities Act 2004\.
     
-    (3) The [Crown Entities Act 2004][1015] applies to the Authority except to the extent that this Act expressly provides otherwise.
+    (3) The [Crown Entities Act 2004][1016] applies to the Authority except to the extent that this Act expressly provides otherwise.
     
     (4) The Authority is owned by the Crown.
     
@@ -11372,7 +11374,7 @@ Maritime New Zealand
     
     Section 429 heading: amended, on 1 July 2005, by [section 11(2)][738] of the Maritime Transport Amendment Act 2004 (2004 No 98).
     
-    Section 429(1): amended, on 23 October 2013, by [section 75][1112] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 429(1): amended, on 23 October 2013, by [section 75][1113] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
     Section 429(1): amended, on 1 July 2005, by [section 11(2)][738] of the Maritime Transport Amendment Act 2004 (2004 No 98).
     
@@ -11396,9 +11398,9 @@ Maritime New Zealand
 
 ##### 429A Membership of Authority
     
-*   (1) The Authority must have 5 members appointed under [section 28(1)(a)][1113] of the Crown Entities Act 2004\.
+*   (1) The Authority must have 5 members appointed under [section 28(1)(a)][1114] of the Crown Entities Act 2004\.
     
-    (2) Members of the Authority are the board for the purposes of the [Crown Entities Act 2004][1015].
+    (2) Members of the Authority are the board for the purposes of the [Crown Entities Act 2004][1016].
     
     (3) The Minister may only appoint as members persons who---
         
@@ -11412,7 +11414,7 @@ Maritime New Zealand
     
     (6) Neither the Director nor any other employee of the Authority may be a member of the Authority.
     
-    (7) This section does not limit [sections 29][1114] and [30][1115] of the Crown Entities Act 2004\.
+    (7) This section does not limit [sections 29][1115] and [30][1116] of the Crown Entities Act 2004\.
     
     Section 429A: inserted, on 25 January 2005, by [section 200][922] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -11420,7 +11422,7 @@ Maritime New Zealand
     
 *   The objective of the Authority is to undertake its safety, security, marine protection, and other functions in a way that contributes to the aim of achieving an integrated, safe, responsive, and sustainable transport system.
     
-    Section 430: substituted, on 1 December 2004, by [section 8][1116] of the Maritime Transport Amendment Act 2004 (2004 No 98).
+    Section 430: substituted, on 1 December 2004, by [section 8][1117] of the Maritime Transport Amendment Act 2004 (2004 No 98).
 
 ##### 431 Functions of Authority
     
@@ -11456,41 +11458,41 @@ Maritime New Zealand
     
     *   (n) to perform such other functions as are conferred on it by this Act or any other Act.
     
-    (2) The Authority shall carry out such other maritime functions, and such maritime duties, as the Minister may from time to time direct in accordance with [section 112][1117] of the Crown Entities Act 2004\.
+    (2) The Authority shall carry out such other maritime functions, and such maritime duties, as the Minister may from time to time direct in accordance with [section 112][1118] of the Crown Entities Act 2004\.
     
-    (3) The Authority must, if directed by the Minister under [section 14C][1118] of the Civil Aviation Act 1990, do any or all of the following:
+    (3) The Authority must, if directed by the Minister under [section 14C][1119] of the Civil Aviation Act 1990, do any or all of the following:
         
-    *   (a) maintain and operate the search and rescue co-ordination centre established under [section 14B(1)(a)][1119] of the Civil Aviation Act 1990:
+    *   (a) maintain and operate the search and rescue co-ordination centre established under [section 14B(1)(a)][1120] of the Civil Aviation Act 1990:
     
-    *   (b) co-ordinate, or participate in the co-ordination of, any search and rescue operation specified in [section 14B(1)(a)][1119] of the Civil Aviation Act 1990:
+    *   (b) co-ordinate, or participate in the co-ordination of, any search and rescue operation specified in [section 14B(1)(a)][1120] of the Civil Aviation Act 1990:
     
-    *   (c) perform, or participate in the performance of, any search and rescue operation specified in [section 14B(1)(a)][1119] of the Civil Aviation Act 1990:
+    *   (c) perform, or participate in the performance of, any search and rescue operation specified in [section 14B(1)(a)][1120] of the Civil Aviation Act 1990:
     
-    *   (d) exercise any or all of the powers of the Minister under [section 14B(1)(b) and (c)][1119] and section 14B(2) of the Civil Aviation Act 1990\.
+    *   (d) exercise any or all of the powers of the Minister under [section 14B(1)(b) and (c)][1120] and section 14B(2) of the Civil Aviation Act 1990\.
     
     Compare: 1993 No 89 s 5
     
-    Section 431(1): amended, on 1 December 2004, by [section 9(1)][1120] of the Maritime Transport Amendment Act 2004 (2004 No 98).
+    Section 431(1): amended, on 1 December 2004, by [section 9(1)][1121] of the Maritime Transport Amendment Act 2004 (2004 No 98).
     
-    Section 431(1)(a): substituted, on 1 December 2004, by [section 9(2)][1120] of the Maritime Transport Amendment Act 2004 (2004 No 98).
+    Section 431(1)(a): substituted, on 1 December 2004, by [section 9(2)][1121] of the Maritime Transport Amendment Act 2004 (2004 No 98).
     
-    Section 431(1)(b): substituted, on 1 December 2004, by [section 9(2)][1120] of the Maritime Transport Amendment Act 2004 (2004 No 98).
+    Section 431(1)(b): substituted, on 1 December 2004, by [section 9(2)][1121] of the Maritime Transport Amendment Act 2004 (2004 No 98).
     
-    Section 431(1)(c): repealed, on 1 December 2004, by [section 9(2)][1120] of the Maritime Transport Amendment Act 2004 (2004 No 98).
+    Section 431(1)(c): repealed, on 1 December 2004, by [section 9(2)][1121] of the Maritime Transport Amendment Act 2004 (2004 No 98).
     
-    Section 431(1)(d): repealed, on 1 December 2004, by [section 9(2)][1120] of the Maritime Transport Amendment Act 2004 (2004 No 98).
+    Section 431(1)(d): repealed, on 1 December 2004, by [section 9(2)][1121] of the Maritime Transport Amendment Act 2004 (2004 No 98).
     
     Section 431(1)(h): repealed, on 5 May 2003, by [section 35(3)][721] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 431(1)(i): substituted, on 1 December 2004, by [section 9(3)][1120] of the Maritime Transport Amendment Act 2004 (2004 No 98).
+    Section 431(1)(i): substituted, on 1 December 2004, by [section 9(3)][1121] of the Maritime Transport Amendment Act 2004 (2004 No 98).
     
-    Section 431(1)(ia): inserted, on 1 December 2004, by [section 9(3)][1120] of the Maritime Transport Amendment Act 2004 (2004 No 98).
+    Section 431(1)(ia): inserted, on 1 December 2004, by [section 9(3)][1121] of the Maritime Transport Amendment Act 2004 (2004 No 98).
     
-    Section 431(1)(j): amended, on 6 April 2004, by [section 81(8)][1121] of the Maritime Security Act 2004 (2004 No 16).
+    Section 431(1)(j): amended, on 6 April 2004, by [section 81(8)][1122] of the Maritime Security Act 2004 (2004 No 16).
     
     Section 431(2): amended, on 25 January 2005, by [section 200][922] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 431(3): added, on 1 December 2004, by [section 9(4)][1120] of the Maritime Transport Amendment Act 2004 (2004 No 98).
+    Section 431(3): added, on 1 December 2004, by [section 9(4)][1121] of the Maritime Transport Amendment Act 2004 (2004 No 98).
 
 ##### 432 Authority to comply with policy directions
     
@@ -11518,7 +11520,7 @@ Maritime New Zealand
         
     *   (a) entry to the land shall be made only by an officer, employee, or agent of the Authority authorised by it in writing, or by persons under the immediate control of such an officer, employee, or agent:
     
-    *   (b) reasonable notice of the intention to enter the land shall be given, and the provisions of [Part 10][1122] of Te Ture Whenua Maori Act 1993 shall apply in respect of notices served in the circumstances set out in that Part:
+    *   (b) reasonable notice of the intention to enter the land shall be given, and the provisions of [Part 10][1123] of Te Ture Whenua Maori Act 1993 shall apply in respect of notices served in the circumstances set out in that Part:
     
     *   (c) entry shall be made at reasonable times:
     
@@ -11538,7 +11540,7 @@ Maritime New Zealand
 
 ##### 436 Extra information to be included in statement of intent
     
-*   (1) The Authority must include the following information in its statement of intent prepared under [section 139][1123] of the Crown Entities Act 2004:
+*   (1) The Authority must include the following information in its statement of intent prepared under [section 139][1124] of the Crown Entities Act 2004:
         
     *   (a) a statement of any new borrowings or financial leases, or similar liabilities the Authority intends to incur during that year; and
     
@@ -11552,7 +11554,7 @@ Maritime New Zealand
     
     *   (c) a statement of the Authority's assessment of the impact and consequences that the outputs will have for New Zealand's preparedness to respond to marine oil pollution.
     
-    (2) The Minister may direct the Authority to amend any provision that is included in the statement of intent under this section, and [section 147][1124] of the Crown Entities Act 2004 applies accordingly.
+    (2) The Minister may direct the Authority to amend any provision that is included in the statement of intent under this section, and [section 147][1125] of the Crown Entities Act 2004 applies accordingly.
     
     (3) No provision specifying any liabilities the Authority intends to incur may be included in a statement of intent without the concurrence of the Minister of Finance.
     
@@ -11586,7 +11588,7 @@ Maritime New Zealand
 
 ##### 438 Use of words ""Maritime Safety Authority"" and ""Maritime New Zealand""
     
-*   (1) No company or other body shall be incorporated or registered under a name that contains the words ""Maritime Safety Authority"" or ""Maritime New Zealand"" or under any name that, in the opinion of the Registrar of Companies, or the appropriate registering authority within the meaning of [section 2][1125] of the Flags, Emblems, and Names Protection Act 1981, so resembles such a name as to be likely to deceive.
+*   (1) No company or other body shall be incorporated or registered under a name that contains the words ""Maritime Safety Authority"" or ""Maritime New Zealand"" or under any name that, in the opinion of the Registrar of Companies, or the appropriate registering authority within the meaning of [section 2][1126] of the Flags, Emblems, and Names Protection Act 1981, so resembles such a name as to be likely to deceive.
     
     (2) Nothing in subsection (1) shall apply to the Authority or to any person who is appropriately authorised by the Authority.
     
@@ -11600,7 +11602,7 @@ Maritime New Zealand
     
 *   (1) The Authority shall from time to time appoint a chief executive of the Authority, who shall be known as the Director of Maritime New Zealand.
     
-    (2) The Director shall have and may exercise such functions and powers as may be conferred or imposed on the Director by this Act or any other Act, or regulations or rules made under this Act or any other Act, and such functions and powers as may be delegated to the Director by the Authority under [section 73][1126] of the Crown Entities Act 2004 or any other Act.
+    (2) The Director shall have and may exercise such functions and powers as may be conferred or imposed on the Director by this Act or any other Act, or regulations or rules made under this Act or any other Act, and such functions and powers as may be delegated to the Director by the Authority under [section 73][1127] of the Crown Entities Act 2004 or any other Act.
     
     (3) Without limiting subsection (2), the Director shall---
         
@@ -11648,13 +11650,13 @@ Maritime New Zealand
     
     Section 439(2): amended, on 25 January 2005, by [section 200][922] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 439(3)(b): amended, on 1 December 2004, by [section 10][1127] of the Maritime Transport Amendment Act 2004 (2004 No 98).
+    Section 439(3)(b): amended, on 1 December 2004, by [section 10][1128] of the Maritime Transport Amendment Act 2004 (2004 No 98).
     
-    Section 439(3)(c): added, on 1 December 2004, by [section 10][1127] of the Maritime Transport Amendment Act 2004 (2004 No 98).
+    Section 439(3)(c): added, on 1 December 2004, by [section 10][1128] of the Maritime Transport Amendment Act 2004 (2004 No 98).
     
-    Section 439(3)(d): added, on 1 December 2004, by [section 10][1127] of the Maritime Transport Amendment Act 2004 (2004 No 98).
+    Section 439(3)(d): added, on 1 December 2004, by [section 10][1128] of the Maritime Transport Amendment Act 2004 (2004 No 98).
     
-    Section 439(3)(e): added, on 1 December 2004, by [section 10][1127] of the Maritime Transport Amendment Act 2004 (2004 No 98).
+    Section 439(3)(e): added, on 1 December 2004, by [section 10][1128] of the Maritime Transport Amendment Act 2004 (2004 No 98).
 
 ##### 440 Acting Director of Maritime New Zealand
     
@@ -11700,7 +11702,7 @@ Maritime New Zealand
     
 *   (1) The Authority must not delegate any powers or functions delegated to the Authority by the Minister without the written consent of the Minister.
     
-    (2) [Sections 73 to 76][1126] of the Crown Entities Act 2004 otherwise apply.
+    (2) [Sections 73 to 76][1127] of the Crown Entities Act 2004 otherwise apply.
     
     Section 442: substituted, on 25 January 2005, by [section 200][922] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -11718,7 +11720,7 @@ Maritime New Zealand
     
     *   (b) the power under [section 44][122] or [section 273][430] to revoke a maritime document or a marine protection document.
     
-    (5) The provisions of [sections 73(4)][1126] and [74 to 76][1128] of the Crown Entities Act 2004 apply as if references to the board were references to the Director, with all necessary modifications.
+    (5) The provisions of [sections 73(4)][1127] and [74 to 76][1129] of the Crown Entities Act 2004 apply as if references to the board were references to the Director, with all necessary modifications.
     
     (6) Any delegation under this section may be made to a specified employee of the Authority or to employees of a specified class, or to the holder or holders for the time being of a specified office or specified class of offices of the Authority.
     
@@ -11758,7 +11760,7 @@ Maritime New Zealand
     
     (5) In any case where the Director has delegated any functions or powers to any person under this section, that person may, with the prior approval in writing of the Minister, delegate to any other person such of those functions or powers as are so approved.
     
-    (6) The provisions of [sections 73(4)][1126] and [74 to 76][1128] of the Crown Entities Act 2004 apply as if references to the board were references to the Director, and with all necessary modifications.
+    (6) The provisions of [sections 73(4)][1127] and [74 to 76][1129] of the Crown Entities Act 2004 apply as if references to the board were references to the Director, and with all necessary modifications.
     
     (7) Any delegation under this section may be made to a specified person or persons of a specified class or to the holder or holders for the time being of a specified office or specified class of office.
     
@@ -11770,7 +11772,7 @@ Maritime New Zealand
     
     (11) Every person purporting to act under any delegation under this section shall, when reasonably requested to do so, produce evidence of his or her authority to so act.
     
-    (12) Any person who exercises any function or power under a delegation made under this section or under [section 73][1126] of the Crown Entities Act 2004 may charge the person in respect of whom the function or power is exercised a reasonable fee in respect of the exercise of that function or power.
+    (12) Any person who exercises any function or power under a delegation made under this section or under [section 73][1127] of the Crown Entities Act 2004 may charge the person in respect of whom the function or power is exercised a reasonable fee in respect of the exercise of that function or power.
     
     Compare: 1993 No 89 s 18
     
@@ -11821,17 +11823,17 @@ Miscellaneous provisions applying to this Act generally
     
     *   (g) prescribe any returns, and the conditions relating to such returns, to be made by persons by whom any fees or charges are payable.
     
-    Compare: 1990 No 98 [s 38][1129]; 1992 No 75 [s 20][1130]
+    Compare: 1990 No 98 [s 38][1130]; 1992 No 75 [s 20][1131]
     
-    Section 445(3)(d): amended, on 23 October 2013, by [section 76(1)(a)][1131] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 445(3)(d): amended, on 23 October 2013, by [section 76(1)(a)][1132] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 445(3)(d): amended, on 23 October 2013, by [section 76(1)(b)][1131] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 445(3)(d): amended, on 23 October 2013, by [section 76(1)(b)][1132] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 445(3)(e): amended, on 23 October 2013, by [section 76(2)][1131] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 445(3)(e): amended, on 23 October 2013, by [section 76(2)][1132] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 445(3)(f): amended, on 23 October 2013, by [section 76(3)][1131] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 445(3)(f): amended, on 23 October 2013, by [section 76(3)][1132] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 445(3)(g): amended, on 23 October 2013, by [section 76(4)][1131] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 445(3)(g): amended, on 23 October 2013, by [section 76(4)][1132] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 445A Text of certain marine protection conventions
     
@@ -11851,7 +11853,7 @@ Miscellaneous provisions applying to this Act generally
     
     *   (b) keep the texts of those agreements up to date.
     
-    Section 445A: inserted, on 23 October 2013, by [section 77][1132] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 445A: inserted, on 23 October 2013, by [section 77][1133] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 #### Provisions in respect of rules under this Act
 
@@ -11865,23 +11867,23 @@ Miscellaneous provisions applying to this Act generally
     
     *   (c) consult with such persons, representative groups within the maritime industry or elsewhere, government departments, Crown entities, and in the case of rules made under [Part 4][82] (to the extent that the rules relate to pilotage or harbourmasters) or [Part 27][582] with such regional councils or other local authorities, as the Minister in each case considers appropriate.
     
-    Compare: 1990 No 98 [s 34(1)][1133]
+    Compare: 1990 No 98 [s 34(1)][1134]
     
-    Section 446(a): replaced, on 23 October 2013, by [section 78][1134] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 446(a): replaced, on 23 October 2013, by [section 78][1135] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 446(c): amended, on 9 June 1999, by [section 35][1135] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+    Section 446(c): amended, on 9 June 1999, by [section 35][1136] of the Maritime Transport Amendment Act 1999 (1999 No 68).
 
 ##### 446A Procedure for making of rules by Governor-General
     
 *   Before recommending the making of any rule under this Act by the Governor-General, the Minister must have regard to the matters set out in [section 39(2)][91].
     
-    Section 446A: inserted, on 23 October 2013, by [section 79][1136] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 446A: inserted, on 23 October 2013, by [section 79][1137] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 447 Procedure for making of emergency rules by Director
     
 *   Before making any emergency rule under [section 37][88] or [section 391][590], the Director shall consult with such persons, representative groups within the maritime industry or elsewhere, government departments, Crown entities, and, in the case of rules made under [Part 27][582], with such regional councils, as the Director in each case considers appropriate.
     
-    Compare: 1990 No 98 [s 35(1)][1137]
+    Compare: 1990 No 98 [s 35(1)][1138]
 
 ##### 448 Provisions in respect of rules generally
     
@@ -11899,11 +11901,11 @@ Miscellaneous provisions applying to this Act generally
     
     (4) Subject to [section 449][666], every rule made under [section 37][88] or [section 391][590] by the Director shall come into force on the date of its notification in the _Gazette_.
     
-    Compare: 1990 No 98 [s 32][1138]
+    Compare: 1990 No 98 [s 32][1139]
     
-    Section 448(1)(a): replaced, on 23 October 2013, by [section 80(1)][1139] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 448(1)(a): replaced, on 23 October 2013, by [section 80(1)][1140] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 448(3): repealed, on 23 October 2013, by [section 80(2)][1139] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 448(3): repealed, on 23 October 2013, by [section 80(2)][1140] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 449 Notification of emergency rules in certain circumstances
     
@@ -11911,7 +11913,7 @@ Miscellaneous provisions applying to this Act generally
     
     (2) Notification may be given by the Director under subsection (1) by telephone, facsimile, or such other manner as the Director considers appropriate.
     
-    Compare: 1990 No 98 [s 35(3), (4)][1137]
+    Compare: 1990 No 98 [s 35(3), (4)][1138]
 
 ##### 450 Other provisions in respect of emergency rules
     
@@ -11919,7 +11921,7 @@ Miscellaneous provisions applying to this Act generally
     
     (2) If any rule made under [section 37][88] or [section 391][590] by the Director is inconsistent with or repugnant to any rule made by the Minister under this Act, the rule made by the Director shall prevail.
     
-    Compare: 1990 No 98 [s 35(5)][1137], [(6)][1137]
+    Compare: 1990 No 98 [s 35(5)][1138], [(6)][1138]
 
 ##### 451 Further general provisions in respect of rules
     
@@ -11945,31 +11947,31 @@ Miscellaneous provisions applying to this Act generally
     
     (5) No breach of any rule made under this Act shall constitute an offence against this Act unless that offence is prescribed in regulations made under this Act or is expressly specified by this Act to be an offence against this Act.
     
-    (5A) A rule made by the Governor-General under this Act is a legislative instrument for the purposes of the [Legislation Act 2012][1140].
+    (5A) A rule made by the Governor-General under this Act is a legislative instrument for the purposes of the [Legislation Act 2012][1141].
     
-    (6) Any other rule made under this Act is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][1140] and must be presented to the House of Representatives under [section 41][1141] of that Act.
+    (6) Any other rule made under this Act is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][1141] and must be presented to the House of Representatives under [section 41][1142] of that Act.
     
     (7) So far as the bylaws of any local authority are inconsistent with or repugnant to any rule in force in the same locality, the bylaws shall be construed subject to the rule.
     
-    (8) Notwithstanding [section 28][1142] of the State Sector Act 1988, the Minister shall not delegate his or her power to make rules under this Act.
+    (8) Notwithstanding [section 28][1143] of the State Sector Act 1988, the Minister shall not delegate his or her power to make rules under this Act.
     
     Compare: 1990 No 98 [s 28(2)--(9)][805]
     
-    Section 451(1): amended, on 23 October 2013, by [section 81(1)][1143] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 451(1): amended, on 23 October 2013, by [section 81(1)][1144] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 451(2): replaced, on 23 October 2013, by [section 81(2)][1143] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 451(2): replaced, on 23 October 2013, by [section 81(2)][1144] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 451(2A): inserted, on 23 October 2013, by [section 81(2)][1143] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 451(2A): inserted, on 23 October 2013, by [section 81(2)][1144] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 451(4): replaced, on 23 October 2013, by [section 81(3)][1143] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 451(4): replaced, on 23 October 2013, by [section 81(3)][1144] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 451(5): amended, on 9 June 1999, by [section 36(2)][1144] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+    Section 451(5): amended, on 9 June 1999, by [section 36(2)][1145] of the Maritime Transport Amendment Act 1999 (1999 No 68).
     
-    Section 451(5A): inserted, on 23 October 2013, by [section 81(4)][1143] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 451(5A): inserted, on 23 October 2013, by [section 81(4)][1144] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 451(6): replaced, on 5 August 2013, by [section 77(3)][1145] of the Legislation Act 2012 (2012 No 119).
+    Section 451(6): replaced, on 5 August 2013, by [section 77(3)][1146] of the Legislation Act 2012 (2012 No 119).
     
-    Section 451(6): amended, on 23 October 2013, by [section 81(5)][1143] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 451(6): amended, on 23 October 2013, by [section 81(5)][1144] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 452 Incorporation by reference
     
@@ -12023,15 +12025,15 @@ Miscellaneous provisions applying to this Act generally
     
     *   (f) if copies of the material are available in other ways, the details of where or how the material can be accessed or obtained.
     
-    (7) [Part 2][1146] of the Legislation Act 2012 does not apply to material incorporated by reference in a rule or to an amendment to, or a replacement of, that material.
+    (7) [Part 2][1147] of the Legislation Act 2012 does not apply to material incorporated by reference in a rule or to an amendment to, or a replacement of, that material.
     
-    (8) Nothing in [section 41][1141] of the Legislation Act 2012 requires material that is incorporated by reference in a rule to be presented to the House of Representatives.
+    (8) Nothing in [section 41][1142] of the Legislation Act 2012 requires material that is incorporated by reference in a rule to be presented to the House of Representatives.
     
-    (9) Subsections (1) to (8) do not affect the application of [sections 22 to 24][1147] of the Standards Act 1988\.
+    (9) Subsections (1) to (8) do not affect the application of [sections 22 to 24][1148] of the Standards Act 1988\.
     
-    Compare: 1990 No 98 [s 36][1148]
+    Compare: 1990 No 98 [s 36][1149]
     
-    Section 452: replaced, on 23 October 2013, by [section 82][1149] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 452: replaced, on 23 October 2013, by [section 82][1150] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 #### Powers of entry
 
@@ -12063,25 +12065,25 @@ Miscellaneous provisions applying to this Act generally
     
     (5) Subject to subsection (4), a duly authorised person exercising the powers of inspection conferred by subsection (1) may use such force in going on, into, or under, the place concerned (whether by breaking down a door or otherwise), or in breaking open anything in the place, as is reasonable in the circumstances.
     
-    Compare: 1957 No 87 [s 198(3)][1150]; 1990 No 98 [s 24][1151]
+    Compare: 1957 No 87 [s 198(3)][1151]; 1990 No 98 [s 24][1152]
     
-    Section 453(5): amended, on 1 October 2012, by [section 279(1)][1152] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 453(5): amended, on 1 October 2012, by [section 279(1)][1153] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 454 Warrant to inspect dwellinghouse, marae, etc
     
-*   (1) An issuing officer (within the meaning of [section 3][1153] of the Search and Surveillance Act 2012) who, on an application made by an authorised person in the manner provided for an application for a search warrant in [subpart 3][1154] of Part 4 of that Act, is satisfied that entry is essential to enable the inspection of a place referred to in [section 453(3)][671] to be carried out, may issue a warrant to the authorised person that authorises that person to enter the place.
+*   (1) An issuing officer (within the meaning of [section 3][1154] of the Search and Surveillance Act 2012) who, on an application made by an authorised person in the manner provided for an application for a search warrant in [subpart 3][1155] of Part 4 of that Act, is satisfied that entry is essential to enable the inspection of a place referred to in [section 453(3)][671] to be carried out, may issue a warrant to the authorised person that authorises that person to enter the place.
     
-    (2) The provisions of [Part 4][1155] of the Search and Surveillance Act 2012 (except [subpart 2][1156]) apply.
+    (2) The provisions of [Part 4][1156] of the Search and Surveillance Act 2012 (except [subpart 2][1157]) apply.
     
-    (3) Despite subsection (2), [sections 118][1157] and [119][1158] of the Search and Surveillance Act 2012 apply only in respect of a constable.
+    (3) Despite subsection (2), [sections 118][1158] and [119][1159] of the Search and Surveillance Act 2012 apply only in respect of a constable.
     
     (4) In this section and [section 455][673], _authorised person_ means a person authorised by the Director.
     
-    Section 454: replaced, on 1 October 2012, by [section 280][1159] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 454: replaced, on 1 October 2012, by [section 280][1160] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 455 Entry in respect of offences
     
-*   (1) Subject to subsection (2), an issuing officer (within the meaning of [section 3][1153] of the Search and Surveillance Act 2012) may issue a warrant to enter and search a place if, on an application made by an authorised person in the manner provided in [subpart 3][1154] of Part 4 of that Act, the issuing officer is satisfied that there are reasonable grounds for believing that there is on or in the place (being a place specified in the application) any thing---
+*   (1) Subject to subsection (2), an issuing officer (within the meaning of [section 3][1154] of the Search and Surveillance Act 2012) may issue a warrant to enter and search a place if, on an application made by an authorised person in the manner provided in [subpart 3][1155] of Part 4 of that Act, the issuing officer is satisfied that there are reasonable grounds for believing that there is on or in the place (being a place specified in the application) any thing---
         
     *   (a) in respect of which an offence against this Act has been or may have been committed; or
     
@@ -12089,17 +12091,17 @@ Miscellaneous provisions applying to this Act generally
     
     *   (c) that is intended to be used for the commission of an offence against this Act.
     
-    (2) The provisions of [Part 4][1155] of the Search and Surveillance Act 2012 apply.
+    (2) The provisions of [Part 4][1156] of the Search and Surveillance Act 2012 apply.
     
-    (3) Despite subsection (2), [sections 118][1157] and [119][1158] of the Search and Surveillance Act 2012 apply only in respect of a constable.
+    (3) Despite subsection (2), [sections 118][1158] and [119][1159] of the Search and Surveillance Act 2012 apply only in respect of a constable.
     
-    Section 455: replaced, on 1 October 2012, by [section 280][1159] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 455: replaced, on 1 October 2012, by [section 280][1160] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 456 Duties on exercising power of entry
     
 *   \[Repealed\]
     
-    Section 456: repealed, on 1 October 2012, by [section 279(2)][1152] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 456: repealed, on 1 October 2012, by [section 279(2)][1153] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 457 Additional powers
     
@@ -12107,9 +12109,9 @@ Miscellaneous provisions applying to this Act generally
     
     (2) \[Repealed\]
     
-    Section 457(1): amended, on 1 October 2012, by [section 279(3)][1152] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 457(1): amended, on 1 October 2012, by [section 279(3)][1153] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 457(2): repealed, on 1 October 2012, by [section 279(4)][1152] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 457(2): repealed, on 1 October 2012, by [section 279(4)][1153] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Service of documents
 
@@ -12257,7 +12259,7 @@ Miscellaneous provisions applying to this Act generally
 
 ##### 467 Provisions of Resource Management Act 1991 not to apply
     
-*   The provisions of [sections 9][1160], [12][1161], [13][1162], [14][1163], [15][1164], [15A][998], [15B][975], and [15C][999] of the Resource Management Act 1991 shall not apply to---
+*   The provisions of [sections 9][1161], [12][1162], [13][1163], [14][1164], [15][1165], [15A][999], [15B][975], and [15C][1000] of the Resource Management Act 1991 shall not apply to---
         
     *   (a) anything done by or on behalf of the Director under [section 248][398] or [section 249][399] or by or on behalf of any person in accordance with any instructions under either of those sections; or
     
@@ -12354,11 +12356,11 @@ Consequential amendments, transitional provisions, and repeals
     
     (10) Notwithstanding the repeal of the Shipping and Seamen Act 1952 by [section 202(1)][338], the Minister may exercise all the powers of the Minister under that Act in relation to money received under Part 2 of that Act prior to the commencement of this Act.
     
-    Section 468(9)(b): substituted, on 9 June 1999, by [section 37][1165] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+    Section 468(9)(b): substituted, on 9 June 1999, by [section 37][1166] of the Maritime Transport Amendment Act 1999 (1999 No 68).
     
-    Section 468(9A): inserted, on 23 October 2013, by [section 83][1166] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 468(9A): inserted, on 23 October 2013, by [section 83][1167] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 468(9B): inserted, on 23 October 2013, by [section 83][1166] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 468(9B): inserted, on 23 October 2013, by [section 83][1167] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 469 Permits and other documents issued under Marine Pollution Act 1974
     
@@ -12366,7 +12368,7 @@ Consequential amendments, transitional provisions, and repeals
     
     (2) Every permit issued in accordance with section 22B of the Marine Pollution Act 1974 and any regulations made under section 22A of that Act that, being a permit---
         
-    *   (a) issued to authorise, in relation to the coastal marine area (as defined in [section 2(1)][1167] of the Resource Management Act 1991),---
+    *   (a) issued to authorise, in relation to the coastal marine area (as defined in [section 2(1)][1168] of the Resource Management Act 1991),---
             
         *   (i) the dumping or incineration of waste or other matter; or
         
@@ -12378,7 +12380,7 @@ Consequential amendments, transitional provisions, and repeals
     
     shall be deemed to be a coastal permit granted under the [Resource Management Act 1991][742] on the same terms and conditions by the appropriate regional council; and the provisions of the Resource Management Act 1991 shall apply accordingly.
     
-    (3) Notwithstanding [section 12(6)][1161] or [section 15(3)][1164] of the Resource Management Act 1991, a coastal permit deemed by subsection (2) to have been granted does not authorise any person to do anything that would otherwise contravene section 12 or section 15 of that Act.
+    (3) Notwithstanding [section 12(6)][1162] or [section 15(3)][1165] of the Resource Management Act 1991, a coastal permit deemed by subsection (2) to have been granted does not authorise any person to do anything that would otherwise contravene section 12 or section 15 of that Act.
     
     (4) Every document issued under the Marine Pollution Act 1974 or regulations made under that Act, other than a document referred to in subsection (1) or subsection (2), that is in force immediately before the repeal of that Act by [section 481][706], shall, on the commencement of that section, be deemed to be a marine protection document issued under this Act on the same terms and conditions applying in respect of that document under the Marine Pollution Act 1974\.
 
@@ -12446,11 +12448,11 @@ Consequential amendments, transitional provisions, and repeals
         
     *   (a) have regard to the provisions of the [Resource Management Act 1991][742]; and
     
-    *   (b) in addition to any other conditions, impose conditions of the kind described in [section 108][1168] of that Act.
+    *   (b) in addition to any other conditions, impose conditions of the kind described in [section 108][1169] of that Act.
     
     (4) Where any permit is issued under this section, in relation to the coastal marine area, that permit shall be deemed for all purposes (including appeals) to be a coastal permit issued by the appropriate regional council under the [Resource Management Act 1991][742] and the provisions of that Act shall apply accordingly.
     
-    (5) Notwithstanding [section 12(6)][1161] or [section 15(3)][1164] of the Resource Management Act 1991, a coastal permit deemed by subsection (2) to have been granted does not authorise any person to do anything that would otherwise contravene section 12 or section 15 of that Act.
+    (5) Notwithstanding [section 12(6)][1162] or [section 15(3)][1165] of the Resource Management Act 1991, a coastal permit deemed by subsection (2) to have been granted does not authorise any person to do anything that would otherwise contravene section 12 or section 15 of that Act.
 
 #### Amendments to Harbours Act 1950
 
@@ -12466,19 +12468,19 @@ Consequential amendments, transitional provisions, and repeals
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 July 2003, by [section 266][1169] of the Local Government Act 2002 (2002 No 84).
+*   Heading: repealed, on 1 July 2003, by [section 266][1170] of the Local Government Act 2002 (2002 No 84).
 
 ##### 479 Functions of regional councils
     
 *   \[Repealed\]
     
-    Section 479: repealed, on 1 July 2003, by [section 266][1169] of the Local Government Act 2002 (2002 No 84).
+    Section 479: repealed, on 1 July 2003, by [section 266][1170] of the Local Government Act 2002 (2002 No 84).
 
 #### Amendment to Environment Act 1986
 
 ##### 480 Acts under which consents may be granted
     
-*   _Amendment(s) incorporated in the [Act(s)][1170]_.
+*   _Amendment(s) incorporated in the [Act(s)][1171]_.
 
 #### Repeals, savings, and transitional provisions
 
@@ -12874,13 +12876,13 @@ Provisions applying in respect of Maritime Appeal Authority
     
     and, if by reason of disability that person becomes incapable of performing the functions of the office, that person may be removed from office by the Minister.
     
-    Schedule 2 clause 4(b): amended, on 10 September 2008, by [section 9(2)][1171] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Schedule 2 clause 4(b): amended, on 10 September 2008, by [section 9(2)][1172] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
     
-    Schedule 2 clause 4(c): repealed, on 10 September 2008, by [section 9(3)][1171] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Schedule 2 clause 4(c): repealed, on 10 September 2008, by [section 9(3)][1172] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
 
 *   4A For the purposes of clause 4, disability has the meaning given by section 21(1)(h) of the Human Rights Act 1993\.
     
-    Schedule 2 clause 4A: inserted, on 10 September 2008, by [section 9(4)][1171] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Schedule 2 clause 4A: inserted, on 10 September 2008, by [section 9(4)][1172] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
 
 *   5 The person appointed as the Maritime Appeal Authority may at any time resign by notice in writing to the Minister.
 
@@ -12892,7 +12894,7 @@ Provisions applying in respect of Maritime Appeal Authority
 
 *   9 Subject to clause 8, the Evidence Act 2006 shall apply to the Maritime Appeal Authority, and to all applications before the Authority, in the same manner as if the Maritime Appeal Authority were a court within the meaning of that Act.
     
-    Schedule 2 clause 9: amended, on 1 August 2007, by [section 216][1172] of the Evidence Act 2006 (2006 No 69).
+    Schedule 2 clause 9: amended, on 1 August 2007, by [section 216][1173] of the Evidence Act 2006 (2006 No 69).
 
 *   10 The Maritime Appeal Authority shall, within the scope of the Authority's jurisdiction, be deemed to be a commission of inquiry under the Commissions of Inquiry Act 1908; and, subject to the provisions of this Act, all the provisions of that Act, except sections 2 and 4A, shall apply accordingly.
 
@@ -12926,27 +12928,27 @@ Repeals
 
 ##### Flags, Emblems, and Names Protection Act 1981 (1981 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][1173]_.
+_Amendment(s) incorporated in the [Act(s)][1174]_.
 
 ##### Hovercraft Act 1971 (1971 No 17) (RS Vol 23, p 549)
 
 ##### Immigration Act 1987 (1987 No 74)
 
-_Amendment(s) incorporated in the [Act(s)][1174]_.
+_Amendment(s) incorporated in the [Act(s)][1175]_.
 
 ##### Maritime Transport Act 1993 (1993 No 89)
 
 ##### Ministry of Transport Act Repeal Act 1990 (1990 No 101)
 
-_Amendment(s) incorporated in the [Act(s)][1175]_.
+_Amendment(s) incorporated in the [Act(s)][1176]_.
 
 ##### Ship Registration Act 1992 (1992 No 89)
 
-_Amendment(s) incorporated in the [Act(s)][1176]_.
+_Amendment(s) incorporated in the [Act(s)][1177]_.
 
 ##### Shipping Act 1987 (1987 No 183)
 
-_Amendment(s) incorporated in the [Act(s)][1177]_.
+_Amendment(s) incorporated in the [Act(s)][1178]_.
 
 ##### Shipping and Seamen Act 1952 (1952 No 49) (RS Vol 4, p 275)
 
@@ -13056,11 +13058,11 @@ Enactments amended
 
 ##### Admiralty Act 1973 (1973 No 119) (RS Vol 18, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][1178]_.
+_Amendment(s) incorporated in the [Act(s)][1179]_.
 
 ##### Antarctic Marine Living Resources Act 1981 (1981 No 53)
 
-_Amendment(s) incorporated in the [Act(s)][1179]_.
+_Amendment(s) incorporated in the [Act(s)][1180]_.
 
 ##### Births and Deaths Registration Act 1951 (1951 No 22) (RS Vol 1, p 333)
 
@@ -13072,11 +13074,11 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Conservation Act 1987 (1987 No 65)
 
-_Amendment(s) incorporated in the [Act(s)][1180]_.
+_Amendment(s) incorporated in the [Act(s)][1181]_.
 
 ##### Contributory Negligence Act 1947 (1947 No 3) (RS Vol 1, p 539)
 
-_Amendment(s) incorporated in the [Act(s)][1181]_.
+_Amendment(s) incorporated in the [Act(s)][1182]_.
 
 ##### Customs Act 1966 (1966 No 19) (RS Vol 2, p 57)
 
@@ -13084,7 +13086,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Defence Act 1990 (1990 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][1182]_.
+_Amendment(s) incorporated in the [Act(s)][1183]_.
 
 ##### Explosives Act 1957 (1957 No 19) (RS Vol 6, p 361)
 
@@ -13108,7 +13110,7 @@ _Amendment(s) incorporated in the [Act(s)][735]_.
 
 ##### Immigration Act 1987 (1987 No 74)
 
-_Amendment(s) incorporated in the [Act(s)][1183]_.
+_Amendment(s) incorporated in the [Act(s)][1184]_.
 
 ##### Land Transport Act 1993 (1993 No 88)
 
@@ -13116,11 +13118,11 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Marine Mammals Protection Act 1978 (1978 No 80)
 
-_Amendment(s) incorporated in the [Act(s)][1184]_.
+_Amendment(s) incorporated in the [Act(s)][1185]_.
 
 ##### Radiocommunications Act 1989 (1989 No 148)
 
-_Amendment(s) incorporated in the [Act(s)][1185]_.
+_Amendment(s) incorporated in the [Act(s)][1186]_.
 
 ##### Ship Registration Act 1992 (1992 No 89)
 
@@ -13128,7 +13130,7 @@ _Amendment(s) incorporated in the [Act(s)][732]_.
 
 ##### Territorial Sea and Exclusive Economic Zone Act 1977 (1977 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][1186]_.
+_Amendment(s) incorporated in the [Act(s)][1187]_.
 
 ##### Transport Accident Investigation Commission Act 1990 (1990 No 99)
 
@@ -13585,7 +13587,7 @@ Claims and actions
 
 *   3 An action for indemnity by a person liable may be instituted even after the expiration of the limitation period provided for in the preceding paragraphs, if brought within the time allowed by the law of the State where proceedings are instituted.
 
-*   Schedule 6 Article 23 paragraph 2: amended, on 9 June 1999, by [section 38(1)][1187] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+*   Schedule 6 Article 23 paragraph 2: amended, on 9 June 1999, by [section 38(1)][1188] of the Maritime Transport Amendment Act 1999 (1999 No 68).
 
 ### Article 24---Interest
 
@@ -13703,14 +13705,14 @@ DONE at LONDON this twenty-eighth day of April one thousand nine hundred and eig
 ## Attachment 1  
 Common Understanding Concerning Articles 13 and 14 of the International Convention on Salvage, 1989
     
-*   Schedule 6 Attachment 1: added, on 9 June 1999, by [section 38(2)][1187] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+*   Schedule 6 Attachment 1: added, on 9 June 1999, by [section 38(2)][1188] of the Maritime Transport Amendment Act 1999 (1999 No 68).
 
 It is the common understanding of the Conference that, in fixing a reward under article 13 and assessing special compensation under article 14 of the International Convention on Salvage, 1989 the tribunal is under no duty to fix a reward under article 13 up to the maximum salved value of the vessel and other property before assessing the special compensation to be paid under article 14\.
 
 ## Attachment 2  
 Resolution requesting the amendment of the York-Antwerp Rules, 1974
     
-*   Schedule 6 Attachment 2: added, on 9 June 1999, by [section 38(2)][1187] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+*   Schedule 6 Attachment 2: added, on 9 June 1999, by [section 38(2)][1188] of the Maritime Transport Amendment Act 1999 (1999 No 68).
 
 THE INTERNATIONAL CONFERENCE ON SALVAGE, 1989,
 
@@ -13723,7 +13725,7 @@ REQUESTS the Secretary-General of the International Maritime Organization to tak
 ## Attachment 3  
 Resolution on international co-operation for the implementation of the International Convention on Salvage, 1989
     
-*   Schedule 6 Attachment 3: added, on 9 June 1999, by [section 38(2)][1187] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+*   Schedule 6 Attachment 3: added, on 9 June 1999, by [section 38(2)][1188] of the Maritime Transport Amendment Act 1999 (1999 No 68).
 
 The International Conference on Salvage, 1989,
 
@@ -13762,11 +13764,11 @@ Enactments repealed
 
 ##### Foreign Affairs Amendment Act 1993 (1993 No 48)
 
-_Amendment(s) incorporated in the [Act(s)][1188]_.
+_Amendment(s) incorporated in the [Act(s)][1189]_.
 
 ##### Health and Safety in Employment Act 1992 (1992 No 96)
 
-_Amendment(s) incorporated in the [Act(s)][1189]_.
+_Amendment(s) incorporated in the [Act(s)][1190]_.
 
 ##### Marine Pollution Act 1974 (1974 No 14) (RS Vol 24, p 499)
 
@@ -13786,19 +13788,19 @@ _Amendment(s) incorporated in the [Act(s)][1189]_.
 
 ##### New Zealand Nuclear Free Zone, Disarmament, and Arms Control Act 1987 (1987 No 86)
 
-_Amendment(s) incorporated in the [Act(s)][1190]_.
+_Amendment(s) incorporated in the [Act(s)][1191]_.
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][1191]_.
+_Amendment(s) incorporated in the [Act(s)][1192]_.
 
 ##### Resource Management Act 1991 (1991 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][1192]_.
+_Amendment(s) incorporated in the [Act(s)][1193]_.
 
 ##### Shipping and Seamen Amendment Act 1987 (1987 No 184)
 
-Schedule 7 **Shipping and Seamen Amendment Act 1987**: repealed, on 1 February 1995, by [section 202(1)][1193].
+Schedule 7 **Shipping and Seamen Amendment Act 1987**: repealed, on 1 February 1995, by [section 202(1)][1194].
 
 ---
 
@@ -13807,7 +13809,7 @@ Convention on the Limitation of Liability for Maritime Claims (1976)
 
 [s 84][183]
 
-*   Schedule 8: inserted, on 23 October 2013, by [section 84][1194] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+*   Schedule 8: inserted, on 23 October 2013, by [section 84][1195] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 THE STATES PARTIES TO THIS CONVENTION,
 
@@ -14191,7 +14193,7 @@ Protocol of 1996 to Amend the Convention on the Limitation of Liability for Mari
 
 [s 84][183]
 
-*   Schedule 9: inserted, on 23 October 2013, by [section 84][1194] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+*   Schedule 9: inserted, on 23 October 2013, by [section 84][1195] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 THE PARTIES TO THE PRESENT PROTOCOL,
 
@@ -14460,11 +14462,11 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Maritime Transport Amendment Act 1998][1195], and is part of the Maritime Transport Act 1994 (""the principal Act"").
+*   (1) This Act may be cited as the [Maritime Transport Amendment Act 1998][1196], and is part of the Maritime Transport Act 1994 (""the principal Act"").
     
     (2) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
     
-    Section 1(2): this Act brought into force, on 25 June 1999, by the [Maritime Transport Amendment Act 1998 Commencement Order 1999][1196] (SR 1999/137).
+    Section 1(2): this Act brought into force, on 25 June 1999, by the [Maritime Transport Amendment Act 1998 Commencement Order 1999][1197] (SR 1999/137).
 
 ##### 2 Transitional provision relating to application of this Act
     
@@ -14486,7 +14488,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Maritime Transport Amendment Act 2004][1197].
+*   (1) This Act is the [Maritime Transport Amendment Act 2004][1198].
     
     (2) In this Act, the Maritime Transport Act 1994 is called ""the principal Act"".
 
@@ -14536,7 +14538,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Maritime Transport Amendment Act 2013][1198].
+*   This Act is the [Maritime Transport Amendment Act 2013][1199].
 
 ##### 2 Commencement
     
@@ -14616,67 +14618,69 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1199] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][1200] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1200] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][1201] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1201] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1202] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1202] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1203] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Maritime Transport Amendment Act 2013][1198] (2013 No 84)
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][995]
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][1145]
+    [Maritime Transport Amendment Act 2013][1199] (2013 No 84)
     
-    Search and Surveillance Act 2012 (2012 No 24): [sections 279][1152], [280][1159]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][1146]
+    
+    Search and Surveillance Act 2012 (2012 No 24): [sections 279][1153], [280][1160]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][749]
     
-    Trans-Tasman Proceedings Act 2010 (2010 No 108): [section 10(1)][1042]
+    Trans-Tasman Proceedings Act 2010 (2010 No 108): [section 10(1)][1043]
     
     Policing Act 2008 (2008 No 72): [section 116(a)(ii), (vii), (d)][932]
     
-    Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64): [section 9][1171]
+    Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64): [section 9][1172]
     
-    Evidence Act 2006 (2006 No 69): [section 216][1172]
+    Evidence Act 2006 (2006 No 69): [section 216][1173]
     
-    [Maritime Transport Amendment Act (No 2) 2005][1203] (2005 No 108)
+    [Maritime Transport Amendment Act (No 2) 2005][1204] (2005 No 108)
     
-    [Maritime Transport Amendment Act 2005][1204] (2005 No 59)
+    [Maritime Transport Amendment Act 2005][1205] (2005 No 59)
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][754]
     
     Crown Entities Act 2004 (2004 No 115): [section 200][922]
     
-    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][1013]
+    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][1014]
     
-    [Maritime Transport Amendment Act 2004][1197] (2004 No 98)
+    [Maritime Transport Amendment Act 2004][1198] (2004 No 98)
     
     Civil Aviation Amendment Act (No 2) 2004 (2004 No 95): [section 12(3)][951]
     
-    Maritime Security Act 2004 (2004 No 16): [section 81(8)][1121]
+    Maritime Security Act 2004 (2004 No 16): [section 81(8)][1122]
     
     [Maritime Transport Act Commencement Order 2003][726] (SR 2003/259)
     
     Health and Safety in Employment Amendment Act 2002 (2002 No 86): [section 35][721]
     
-    Local Government Act 2002 (2002 No 84): [sections 262][974], [266][1169]
+    Local Government Act 2002 (2002 No 84): [sections 262][974], [266][1170]
     
     Civil Defence Emergency Management Act 2002 (2002 No 33): [section 117][931]
     
     Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49): [section 337(1)][919]
     
-    [Maritime Transport Amendment Act 2000][1205] (2000 No 71)
+    [Maritime Transport Amendment Act 2000][1206] (2000 No 71)
     
-    [Maritime Transport Amendment Act 1999][1206] (1999 No 68)
+    [Maritime Transport Amendment Act 1999][1207] (1999 No 68)
     
-    [Maritime Transport Amendment Act (No 2) 1998][1207] (1998 No 116)
+    [Maritime Transport Amendment Act (No 2) 1998][1208] (1998 No 116)
     
     [Maritime Transport Act Commencement Order 1998][725] (SR 1998/206)
     
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][1093]
+    District Courts Amendment Act 1998 (1998 No 76): [section 7][1094]
     
-    [Maritime Transport Amendment Act 1998][1195] (1998 No 53)
+    [Maritime Transport Amendment Act 1998][1196] (1998 No 53)
     
     [Maritime Transport Act Commencement Order 1997][724] (SR 1997/300)
     
@@ -15691,216 +15695,217 @@ Commencementsee section 2
 [992]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM319569
 [993]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM372538
 [994]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM30580
-[995]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM30581
-[996]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM30582
-[997]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM30583
-[998]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM231983
-[999]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM231988
-[1000]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM239372
-[1001]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM362235
-[1002]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM30584
-[1003]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM30585
-[1004]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM362236
-[1005]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM104608
-[1006]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM104611
-[1007]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698880
-[1008]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698881
-[1009]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM217413
-[1010]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM324218
-[1011]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM330562
-[1012]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM330566
-[1013]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM328867
-[1014]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM30586
-[1015]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM329630
-[1016]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216393
-[1017]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216399
-[1018]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216395
-[1019]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM378241
-[1020]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM77719
-[1021]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698882
-[1022]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426681
-[1023]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM348423
-[1024]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM348425
-[1025]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698897
-[1026]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426682
-[1027]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM348427
-[1028]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM348429
-[1029]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426683
-[1030]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426684
-[1031]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698900
-[1032]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698902
-[1033]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM30587
-[1034]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM5644505
-[1035]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698905
-[1036]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698906
-[1037]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698908
-[1038]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426685
-[1039]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216464
-[1040]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216486
-[1041]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2576383
-[1042]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2576329
-[1043]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426686
-[1044]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426687
-[1045]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426688
-[1046]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426689
-[1047]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426690
-[1048]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426691
-[1049]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM302525
-[1050]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426692
-[1051]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426693
-[1052]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426694
-[1053]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426695
-[1054]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698910
-[1055]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM337864
-[1056]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM338139
-[1057]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM338143
-[1058]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM338145
-[1059]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM338146
-[1060]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM338153
-[1061]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM338155
-[1062]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM338160
-[1063]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM338163
-[1064]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM338164
-[1065]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM338165
-[1066]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM338166
-[1067]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM268589
-[1068]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698939
-[1069]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698940
-[1070]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698941
-[1071]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698942
-[1072]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM322195
-[1073]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698944
-[1074]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM268585
-[1075]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216947
-[1076]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216954
-[1077]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM269411
-[1078]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216933
-[1079]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM268597
-[1080]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698945
-[1081]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698946
-[1082]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216928
-[1083]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698947
-[1084]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM239053
-[1085]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698948
-[1086]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM70236
-[1087]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM70239
-[1088]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM207515
-[1089]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM217169
-[1090]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM269401
-[1091]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM311033
-[1092]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM3359902
-[1093]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM427920
-[1094]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM18079
-[1095]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM328049
-[1096]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM163175
-[1097]: http://www.legislation.govt.nz/act/public/1994/0104/latest/whole.html#DLM3360057
-[1098]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216978
-[1099]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM18080
-[1100]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216982
-[1101]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698949
-[1102]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM18081
-[1103]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM217153
-[1104]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM250165
-[1105]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM269400
-[1106]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM217160
-[1107]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM5039331
-[1108]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM217163
-[1109]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM5039332
-[1110]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM217166
-[1111]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM217168
-[1112]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM5039333
-[1113]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM329954
-[1114]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM329955
-[1115]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM329956
-[1116]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM322196
-[1117]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM330360
-[1118]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM215775
-[1119]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM215773
-[1120]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM322198
-[1121]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM241890
-[1122]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM291803
-[1123]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM330540
-[1124]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM330548
-[1125]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM51363
-[1126]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM330308
-[1127]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM322199
-[1128]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM330309
-[1129]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216377
-[1130]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM268591
-[1131]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698950
-[1132]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698951
-[1133]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216362
-[1134]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698957
-[1135]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM30588
-[1136]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698958
-[1137]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216368
-[1138]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216355
-[1139]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698960
-[1140]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2997643
-[1141]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2998573
-[1142]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM129507
-[1143]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698961
-[1144]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM30589
-[1145]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2998633
-[1146]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2997693
-[1147]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM128740
-[1148]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216372
-[1149]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698962
-[1150]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM314010
-[1151]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216149
-[1152]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2137031
-[1153]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2136542
-[1154]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2136781
-[1155]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2136770
-[1156]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4355336
-[1157]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2136813
-[1158]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2136815
-[1159]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2137032
-[1160]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM231918
-[1161]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM231949
-[1162]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM231970
-[1163]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM231974
-[1164]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM231978
-[1165]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM30590
-[1166]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698963
-[1167]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM230272
-[1168]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM234810
-[1169]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM174092
-[1170]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM99782
-[1171]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM1404042
-[1172]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM394552
-[1173]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM52803
-[1174]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM114923
-[1175]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM222606
-[1176]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM276686
-[1177]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM125338
-[1178]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM411612
-[1179]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM52828
-[1180]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM103609
-[1181]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM242491
-[1182]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM204972
-[1183]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM108017
-[1184]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM25110
-[1185]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM195575
-[1186]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM442578
-[1187]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM30591
-[1188]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM302529
-[1189]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM279964
-[1190]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM115165
-[1191]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM163182
-[1192]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM242024
-[1193]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM336918
-[1194]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM335790
-[1195]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426674
-[1196]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM284972
-[1197]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM322177
-[1198]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698442
-[1199]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2998516
-[1200]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2998515
-[1201]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2998532
-[1202]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[1203]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM362215
-[1204]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM348416
-[1205]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM77713
-[1206]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM30539
-[1207]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM18071
+[995]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM5620822
+[996]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM30581
+[997]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM30582
+[998]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM30583
+[999]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM231983
+[1000]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM231988
+[1001]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM239372
+[1002]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM362235
+[1003]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM30584
+[1004]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM30585
+[1005]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM362236
+[1006]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM104608
+[1007]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM104611
+[1008]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698880
+[1009]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698881
+[1010]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM217413
+[1011]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM324218
+[1012]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM330562
+[1013]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM330566
+[1014]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM328867
+[1015]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM30586
+[1016]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM329630
+[1017]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216393
+[1018]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216399
+[1019]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216395
+[1020]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM378241
+[1021]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM77719
+[1022]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698882
+[1023]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426681
+[1024]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM348423
+[1025]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM348425
+[1026]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698897
+[1027]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426682
+[1028]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM348427
+[1029]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM348429
+[1030]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426683
+[1031]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426684
+[1032]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698900
+[1033]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698902
+[1034]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM30587
+[1035]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM5644505
+[1036]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698905
+[1037]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698906
+[1038]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698908
+[1039]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426685
+[1040]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216464
+[1041]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216486
+[1042]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2576383
+[1043]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2576329
+[1044]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426686
+[1045]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426687
+[1046]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426688
+[1047]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426689
+[1048]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426690
+[1049]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426691
+[1050]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM302525
+[1051]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426692
+[1052]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426693
+[1053]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426694
+[1054]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426695
+[1055]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698910
+[1056]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM337864
+[1057]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM338139
+[1058]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM338143
+[1059]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM338145
+[1060]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM338146
+[1061]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM338153
+[1062]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM338155
+[1063]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM338160
+[1064]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM338163
+[1065]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM338164
+[1066]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM338165
+[1067]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM338166
+[1068]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM268589
+[1069]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698939
+[1070]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698940
+[1071]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698941
+[1072]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698942
+[1073]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM322195
+[1074]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698944
+[1075]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM268585
+[1076]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216947
+[1077]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216954
+[1078]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM269411
+[1079]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216933
+[1080]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM268597
+[1081]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698945
+[1082]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698946
+[1083]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216928
+[1084]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698947
+[1085]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM239053
+[1086]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698948
+[1087]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM70236
+[1088]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM70239
+[1089]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM207515
+[1090]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM217169
+[1091]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM269401
+[1092]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM311033
+[1093]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM3359902
+[1094]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM427920
+[1095]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM18079
+[1096]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM328049
+[1097]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM163175
+[1098]: http://www.legislation.govt.nz/act/public/1994/0104/latest/whole.html#DLM3360057
+[1099]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216978
+[1100]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM18080
+[1101]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216982
+[1102]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698949
+[1103]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM18081
+[1104]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM217153
+[1105]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM250165
+[1106]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM269400
+[1107]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM217160
+[1108]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM5039331
+[1109]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM217163
+[1110]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM5039332
+[1111]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM217166
+[1112]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM217168
+[1113]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM5039333
+[1114]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM329954
+[1115]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM329955
+[1116]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM329956
+[1117]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM322196
+[1118]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM330360
+[1119]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM215775
+[1120]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM215773
+[1121]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM322198
+[1122]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM241890
+[1123]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM291803
+[1124]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM330540
+[1125]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM330548
+[1126]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM51363
+[1127]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM330308
+[1128]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM322199
+[1129]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM330309
+[1130]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216377
+[1131]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM268591
+[1132]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698950
+[1133]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698951
+[1134]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216362
+[1135]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698957
+[1136]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM30588
+[1137]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698958
+[1138]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216368
+[1139]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216355
+[1140]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698960
+[1141]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2997643
+[1142]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2998573
+[1143]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM129507
+[1144]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698961
+[1145]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM30589
+[1146]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2998633
+[1147]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2997693
+[1148]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM128740
+[1149]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216372
+[1150]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698962
+[1151]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM314010
+[1152]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM216149
+[1153]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2137031
+[1154]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2136542
+[1155]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2136781
+[1156]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2136770
+[1157]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4355336
+[1158]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2136813
+[1159]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2136815
+[1160]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2137032
+[1161]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM231918
+[1162]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM231949
+[1163]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM231970
+[1164]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM231974
+[1165]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM231978
+[1166]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM30590
+[1167]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698963
+[1168]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM230272
+[1169]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM234810
+[1170]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM174092
+[1171]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM99782
+[1172]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM1404042
+[1173]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM394552
+[1174]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM52803
+[1175]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM114923
+[1176]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM222606
+[1177]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM276686
+[1178]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM125338
+[1179]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM411612
+[1180]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM52828
+[1181]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM103609
+[1182]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM242491
+[1183]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM204972
+[1184]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM108017
+[1185]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM25110
+[1186]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM195575
+[1187]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM442578
+[1188]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM30591
+[1189]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM302529
+[1190]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM279964
+[1191]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM115165
+[1192]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM163182
+[1193]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM242024
+[1194]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM336918
+[1195]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM335790
+[1196]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM426674
+[1197]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM284972
+[1198]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM322177
+[1199]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM4698442
+[1200]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2998516
+[1201]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2998515
+[1202]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM2998532
+[1203]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[1204]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM362215
+[1205]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM348416
+[1206]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM77713
+[1207]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM30539
+[1208]: http://www.legislation.govt.nz/act/public/1994/0104/latest/link.aspx?id=DLM18071
