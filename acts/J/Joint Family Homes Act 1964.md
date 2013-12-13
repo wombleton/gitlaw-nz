@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2013
+as at 19 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -102,7 +102,7 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     _applicant_, in relation to any application to settle any land as a joint family home, includes the executor or administrator of a deceased applicant
     
-    _constitution_, in relation to a company within the meaning of [section 2][32] of the Companies Act 1993, has the same meaning as in that section
+    _constitution_, in relation to a company within the meaning of [section 2][32] of the Companies Act 1993, has the same meaning as in that section; and, in relation to a company within the meaning of section 2 of the Companies Act 1955, means the articles of association of the company
     
     _flat_ means a part of a building that is used as a separate dwelling; but does not include any right, easement, or appurtenance which is held and enjoyed with the flat
     
@@ -134,17 +134,19 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     _share certificate_, in relation to any relative shares, means a share certificate in respect of those shares
     
-    _share register_, in relation to a company within the meaning of [section 2(1)][37] of the Companies Act 1993, means the company's share register.
+    _share register_, in relation to---
+        
+    *   (a) a company within the meaning of section 2 of the Companies Act 1955, means the company's register of members:
+    
+    *   (b) a company within the meaning of [section 2][37] of the Companies Act 1993, means the company's share register.
     
     Compare: 1950 No 43 s 2; 1955 No 84 s 2
     
     Section 2 **constitution**: inserted, on 1 July 1994, by [section 4][38] of the Land Transfer Amendment Act 1993 (1993 No 124).
     
-    Section 2 **constitution**: amended, on 5 December 2013, by [section 14][39] of the Companies Amendment Act 2013 (2013 No 111).
-    
     Section 2 **flat-owning company**: replaced, on 1 July 1994, by [section 4][38] of the Land Transfer Amendment Act 1993 (1993 No 124).
     
-    Section 2 **husband and wife**: amended, on 19 August 2013, by [section 9][40] of the Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20).
+    Section 2 **husband and wife**: amended, on 19 August 2013, by [section 9][39] of the Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20).
     
     Section 2 **land**: amended, on 1 July 1994, by [section 4][38] of the Land Transfer Amendment Act 1993 (1993 No 124).
     
@@ -154,7 +156,7 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     Section 2 **share certificate**: amended, on 1 July 1994, by [section 4][38] of the Land Transfer Amendment Act 1993 (1993 No 124).
     
-    Section 2 **share register**: replaced, on 5 December 2013, by [section 14][39] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 2 **share register**: inserted, on 1 July 1994, by [section 4][38] of the Land Transfer Amendment Act 1993 (1993 No 124).
 
 ##### 3 Provision for joint family homes
     
@@ -178,13 +180,13 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     (2A) For the purposes of paragraph (b) of subsection (2), in the case of an application to settle any land comprising or including a leasehold interest in a flat, if the applicant is also the registered proprietor of an undivided share in the land which is the site of or appurtenant to the flat, and if neither the applicant nor the husband or wife of the applicant is deriving any pecuniary gain from or in respect of that undivided share in the land, then that undivided share in the land shall be deemed to be used principally in connection with the use of the flat as a home.
     
-    (3) The provisions of [Part 10][41] of the Resource Management Act 1991 apply to any settlement of land under this Act as if the settlement were a sale of the land.
+    (3) The provisions of [Part 10][40] of the Resource Management Act 1991 apply to any settlement of land under this Act as if the settlement were a sale of the land.
     
     Compare: 1950 No 43 s 3; 1951 No 28 s 3; 1959 No 68 s 3
     
     Section 3(2A): inserted, on 6 October 1965, by section 2 of the Joint Family Homes Amendment Act 1965 (1965 No 42).
     
-    Section 3(3): replaced, on 1 July 2003, by [section 262][42] of the Local Government Act 2002 (2002 No 84).
+    Section 3(3): replaced, on 1 July 2003, by [section 262][41] of the Local Government Act 2002 (2002 No 84).
 
 ##### 4 Settlement of additional land
     
@@ -204,17 +206,17 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     Compare: 1950 No 43 s 3A; 1959 No 68 s 2
     
-    Section 4(1): replaced, on 8 November 1974, by [section 2(1)][43] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 4(1): replaced, on 8 November 1974, by [section 2(1)][42] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
     
-    Section 4(1A): inserted, on 8 November 1974, by [section 2(1)][43] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 4(1A): inserted, on 8 November 1974, by [section 2(1)][42] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
     
     Section 4(3): inserted, on 6 October 1965, by section 3 of the Joint Family Homes Amendment Act 1965 (1965 No 42).
     
-    Section 4(3): amended, on 8 November 1974, by [section 2(2)(a)][43] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 4(3): amended, on 8 November 1974, by [section 2(2)(a)][42] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
     
-    Section 4(3): amended, on 8 November 1974, by [section 2(2)(b)][43] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 4(3): amended, on 8 November 1974, by [section 2(2)(b)][42] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
     
-    Section 4(4): inserted, on 8 November 1974, by [section 2(3)][43] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 4(4): inserted, on 8 November 1974, by [section 2(3)][42] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
 
 ##### 5 Application to register a joint family home
     
@@ -226,13 +228,13 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     *   (b) a leasehold interest; or
     
-    *   (c) held under agreement for sale or licence to occupy under [Part 1][44] of the Housing Act 1955; or
+    *   (c) held under agreement for sale or licence to occupy under [Part 1][43] of the Housing Act 1955; or
     
     *   (d) held under a licence within the meaning of [Part 7A][33] of the Land Transfer Act 1952; or
     
-    *   (e) held under an agreement for sale under [section 554][45] of the Local Government Act 1974; or
+    *   (e) held under an agreement for sale under [section 554][44] of the Local Government Act 1974; or
     
-    *   (f) held under an agreement for sale under the [Local Government Act 2002][46].
+    *   (f) held under an agreement for sale under the [Local Government Act 2002][45].
     
     (2) The person or persons who make any such application shall produce or cause to be produced to the Registrar:
         
@@ -258,17 +260,17 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     Section 5(1) proviso paragraph (d): amended, on 1 July 1994, by [section 4][38] of the Land Transfer Amendment Act 1993 (1993 No 124).
     
-    Section 5(1) proviso paragraph (e): replaced, on 1 July 2003, by [section 262][42] of the Local Government Act 2002 (2002 No 84).
+    Section 5(1) proviso paragraph (e): replaced, on 1 July 2003, by [section 262][41] of the Local Government Act 2002 (2002 No 84).
     
-    Section 5(1) proviso paragraph (f): inserted, on 1 July 2003, by [section 262][42] of the Local Government Act 2002 (2002 No 84).
+    Section 5(1) proviso paragraph (f): inserted, on 1 July 2003, by [section 262][41] of the Local Government Act 2002 (2002 No 84).
     
-    Section 5(4): amended, on 8 November 1974, by [section 3(1)(a)][47] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 5(4): amended, on 8 November 1974, by [section 3(1)(a)][46] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
     
-    Section 5(4): amended, on 8 November 1974, by [section 3(1)(b)][47] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 5(4): amended, on 8 November 1974, by [section 3(1)(b)][46] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
     
-    Section 5(4A): inserted, on 8 November 1974, by [section 3(2)][47] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 5(4A): inserted, on 8 November 1974, by [section 3(2)][46] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
     
-    Section 5(4A): amended, on 1 April 1980, pursuant to [section 12][48] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 5(4A): amended, on 1 April 1980, pursuant to [section 12][47] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 6 Creditors may oppose registration
     
@@ -290,7 +292,7 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     Compare: 1950 No 43 s 5; 1951 No 28 s 5(2)
     
-    Section 6(4): amended, on 1 April 1980, pursuant to [section 12][48] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 6(4): amended, on 1 April 1980, pursuant to [section 12][47] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 7 Registration
     
@@ -318,7 +320,7 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     Compare: 1950 No 43 s 6; 1951 No 28 ss 5(3), 6, 7(1)
     
-    Section 7(1): amended, on 8 November 1974, by [section 4(a)][49] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 7(1): amended, on 8 November 1974, by [section 4(a)][48] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
     
     Section 7(1)(c): amended, on 15 November 1968, by section 2(1)(a) of the Joint Family Homes Amendment Act 1968 (1968 No 22).
     
@@ -326,11 +328,11 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     Section 7(2): inserted (with effect on 1 April 1965), on 6 October 1965, by section 4 of the Joint Family Homes Amendment Act 1965 (1965 No 42).
     
-    Section 7(2): amended, on 8 November 1974, by [section 4(b)][49] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 7(2): amended, on 8 November 1974, by [section 4(b)][48] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
     
-    Section 7(2): amended, on 8 November 1974, by [section 4(c)][49] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 7(2): amended, on 8 November 1974, by [section 4(c)][48] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
     
-    Section 7(2)(b): amended, on 8 November 1974, by [section 4(d)][49] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 7(2)(b): amended, on 8 November 1974, by [section 4(d)][48] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
     
     Section 7(3): inserted (with effect on 1 April 1965), on 6 October 1965, by section 4 of the Joint Family Homes Amendment Act 1965 (1965 No 42).
 
@@ -342,7 +344,7 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     *   (b) on receipt of any such written advice the company shall amend its share register to show that the husband and wife are the joint holders of the relative shares subject to the provisions of this Act; and an appropriate endorsement to evidence the settlement shall also be made by the company on any office copy of the relative share certificate, and of the lease or licence:
     
-    *   (c) notwithstanding the constitution of the company, except as provided in this section, no fresh certificate shall be issued for any relative shares included in the settlement, and the share certificates for all such shares with the memorandum signed by the Registrar endorsed on them shall continue in effect until the settlement is cancelled or a fresh certificate is issued:
+    *   (c) notwithstanding, in the case of a company within the meaning of section 2 of the Companies Act 1955, section 90 of that Act or the articles of association of the company, or in the case of a company within the meaning of [section 2][37] of the Companies Act 1993, the constitution of the company, except as provided in this section, no fresh certificate shall be issued for any relative shares included in the settlement, and the share certificates for all such shares with the memorandum signed by the Registrar endorsed on them shall continue in effect until the settlement is cancelled or a fresh certificate is issued:
     
     *   (d) where a share certificate with the memorandum signed by the Registrar endorsed thereon is lost, defaced, or destroyed, a fresh certificate may be issued in place thereof, and shall be issued in the name of the settlor; and, before any such fresh certificate is presented to the persons entitled, it shall be delivered duly signed, together with a notice of the circumstances, to the Registrar, who shall endorse and sign a memorandum to the same effect as the one signed by him on the lost, defaced, or destroyed share certificate; and an entry by the company shall be made on any office duplicate of the fresh share certificate similar to the one that was made on the lost, defaced, or destroyed certificate:
     
@@ -350,9 +352,9 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     (2) Notwithstanding anything to the contrary in the constitution of the company or elsewhere, the persons named in the memorandum endorsed and signed by the Registrar on a share certificate pursuant to paragraph (c) of subsection (1) of [section 7][8] or paragraph (d) of subsection (1) of this section shall be the holders of the shares enumerated therein, notwithstanding that they may not have been entered as such in the share register of the company concerned.
     
-    (3) \[Repealed\]
+    (3) For the purposes of section 91 of the Companies Act 1955, the persons named in a memorandum which, pursuant to paragraph (c) of subsection (1) of [section 7][8] or paragraph (d) of subsection (1) of this section, is endorsed on a share certificate and signed by the Registrar shall be deemed to be the members in whose names the certificate was issued.
     
-    (3A) For the purposes of [section 89][50] of the Companies Act 1993, the persons named in a memorandum which, pursuant to paragraph (c) of subsection (1) of [section 7][8] or paragraph (d) of subsection (1) of this section, is endorsed on a share certificate and signed by the Registrar shall be deemed to be the registered holders of the shares.
+    (3A) For the purposes of [section 89][49] of the Companies Act 1993, the persons named in a memorandum which, pursuant to paragraph (c) of subsection (1) of [section 7][8] or paragraph (d) of subsection (1) of this section, is endorsed on a share certificate and signed by the Registrar shall be deemed to be the registered holders of the shares.
     
     (4) Where a company contravenes or fails to comply with any of the provisions of paragraphs (b), (d), and (e) of subsection (1),---
         
@@ -376,19 +378,17 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     Section 8(1)(c): replaced, on 1 July 1994, by [section 4][38] of the Land Transfer Amendment Act 1993 (1993 No 124).
     
-    Section 8(1)(c): amended, on 5 December 2013, by [section 14][39] of the Companies Amendment Act 2013 (2013 No 111).
-    
     Section 8(2): replaced, on 1 July 1994, by [section 4][38] of the Land Transfer Amendment Act 1993 (1993 No 124).
     
-    Section 8(3): repealed, on 5 December 2013, by [section 14][39] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 8(3): amended, on 1 July 1994, by [section 4][38] of the Land Transfer Amendment Act 1993 (1993 No 124).
     
     Section 8(3A): inserted, on 1 July 1994, by [section 4][38] of the Land Transfer Amendment Act 1993 (1993 No 124).
     
     Section 8(4): replaced, on 1 July 1994, by [section 4][38] of the Land Transfer Amendment Act 1993 (1993 No 124).
     
-    Section 8(4)(a): amended, on 1 July 2013, by [section 413][51] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 8(4)(a): amended, on 1 July 2013, by [section 413][50] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 8(4)(b): amended, on 1 July 2013, by [section 413][51] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 8(4)(b): amended, on 1 July 2013, by [section 413][50] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 9 Effect of registration
     
@@ -428,7 +428,7 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
         
         *   (ii) any mortgage, charge, encumbrance, estate, or interest to which subsection (4) applies; or
         
-        *   (iii) any mortgage, lease, sale, or disposition by the direction of any court under [section 16][18] or under the [Family Proceedings Act 1980][52] or by order of any Judge or District Court Judge under the [Property (Relationships) Act 1976][53]:
+        *   (iii) any mortgage, lease, sale, or disposition by the direction of any court under [section 16][18] or under the [Family Proceedings Act 1980][51] or by order of any Judge or District Court Judge under the [Property (Relationships) Act 1976][52]:
         
         provided also that any interest a husband and wife, or either of them, may have in the joint family home or in the proceeds (if any) from its sale, transfer, or other disposition shall, for the purposes of the Insolvency Act 2006, be deemed not to be property within the meaning of that Act:
         
@@ -452,13 +452,13 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     Section 9(1)(a): amended, on 15 November 1968, by section 2(3) of the Joint Family Homes Amendment Act 1968 (1968 No 22).
     
-    Section 9(2)(d) first proviso subparagraph (iii): replaced, on 1 February 2002, by [section 64(2)][54] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 9(2)(d) first proviso subparagraph (iii): replaced, on 1 February 2002, by [section 64(2)][53] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
-    Section 9(2)(d) second proviso: inserted, on 8 November 1974 (applying with respect to any interest that a husband and wife or either of them may have in a joint family home, whether the home is settled before or after that date), by [section 5(1)][55] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 9(2)(d) second proviso: inserted, on 8 November 1974 (applying with respect to any interest that a husband and wife or either of them may have in a joint family home, whether the home is settled before or after that date), by [section 5(1)][54] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
     
-    Section 9(2)(d) second proviso: amended, on 3 December 2007, by [section 445][56] of the Insolvency Act 2006 (2006 No 55).
+    Section 9(2)(d) second proviso: amended, on 3 December 2007, by [section 445][55] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 9(2)(d) third proviso: amended, on 3 December 2007, by [section 445][56] of the Insolvency Act 2006 (2006 No 55).
+    Section 9(2)(d) third proviso: amended, on 3 December 2007, by [section 445][55] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 10 Cancellation of registration
     
@@ -478,7 +478,7 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     (2) The Registrar shall cancel the settlement of any property as to the whole or any part thereof on the application of the assignee in bankruptcy in any case where the settlement is void as against the assignee under paragraph (d) of subsection (2) of [section 9][10].
     
-    (2A) The Registrar shall, on the application of any person who is entitled to an estate or interest in any settled property pursuant to an order of a court made under section 5 of the Matrimonial Property Act 1963 or the [Property (Relationships) Act 1976][53] or Part 8 of the Matrimonial Proceedings Act 1963, cancel the settlement of that property in any case where cancellation is necessary to give full effect to the order.
+    (2A) The Registrar shall, on the application of any person who is entitled to an estate or interest in any settled property pursuant to an order of a court made under section 5 of the Matrimonial Property Act 1963 or the [Property (Relationships) Act 1976][52] or Part 8 of the Matrimonial Proceedings Act 1963, cancel the settlement of that property in any case where cancellation is necessary to give full effect to the order.
     
     (2B) Notwithstanding [section 11][12], the property in any settlement which is cancelled under subsection (2A) shall vest in the person or persons entitled to any estate or interest in it pursuant to the order made by the court to the extent of the estate or interest specified in that order. A vesting under this subsection shall not affect any mortgage, charge, or encumbrance over the property at the time of cancellation.
     
@@ -516,13 +516,13 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     Compare: 1950 No 43 s 8; 1951 No 28 ss 7(2), 10
     
-    Section 10(1)(c): amended, on 8 November 1974, by [section 6(1)(a)][57] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 10(1)(c): amended, on 8 November 1974, by [section 6(1)(a)][56] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
     
-    Section 10(1)(c): amended, on 8 November 1974, by [section 6(1)(b)][57] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 10(1)(c): amended, on 8 November 1974, by [section 6(1)(b)][56] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
     
     Section 10(2A): inserted, on 20 October 1972 (applying to any court order referred to in this subsection whether made before or after that date), by section 2(1) of the Joint Family Homes Amendment Act 1972 (1972 No 126).
     
-    Section 10(2A): amended, on 1 February 2002, by [section 64(2)][54] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 10(2A): amended, on 1 February 2002, by [section 64(2)][53] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 10(2A): amended, on 1 January 1984, by section 12 of the Property (Relationships) Amendment Act (No 2) 1983 (1983 No 145).
     
@@ -530,15 +530,15 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     Section 10(2C): inserted, on 20 October 1972, by section 2(1) of the Joint Family Homes Amendment Act 1972 (1972 No 126).
     
-    Section 10(3)(b): amended, on 1 April 1980, pursuant to [section 18(2)][58] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 10(3)(b): amended, on 1 April 1980, pursuant to [section 18(2)][57] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 10(3)(c): amended, on 1 April 1980, pursuant to [section 18(2)][58] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 10(3)(c): amended, on 1 April 1980, pursuant to [section 18(2)][57] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 10(5): amended, on 1 April 1980, pursuant to [section 18(2)][58] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 10(5): amended, on 1 April 1980, pursuant to [section 18(2)][57] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 10(8): inserted, on 8 November 1974, by [section 6(2)][57] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 10(8): inserted, on 8 November 1974, by [section 6(2)][56] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
     
-    Section 10(9): inserted, on 8 November 1974, by [section 6(2)][57] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 10(9): inserted, on 8 November 1974, by [section 6(2)][56] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
 
 ##### 11 Vesting of property and proceeds
     
@@ -572,7 +572,7 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     (5) For the purposes of section 6(2) of the Matrimonial Property Act 1963, a notice of consent under either subsection (3) or subsection (4) of this section shall not of itself constitute an expression of common intention between the husband and the wife who have signed it.
     
-    Section 11: replaced, on 8 November 1974, by [section 7(1)][59] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 11: replaced, on 8 November 1974, by [section 7(1)][58] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
 
 ##### 12 Cancellation of settlement as to shares
     
@@ -604,9 +604,9 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     Section 12(2): replaced, on 1 July 1994, by [section 4][38] of the Land Transfer Amendment Act 1993 (1993 No 124).
     
-    Section 12(2)(a): amended, on 1 July 2013, by [section 413][51] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 12(2)(a): amended, on 1 July 2013, by [section 413][50] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 12(2)(b): amended, on 1 July 2013, by [section 413][51] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 12(2)(b): amended, on 1 July 2013, by [section 413][50] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 12A Portability of registration in certain cases
     
@@ -652,21 +652,21 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
         
         
     
-    (6) Notwithstanding anything to the contrary in the [Insolvency Act 2006][60], no part of any net proceeds of disposition given to the Official Assignee of an undischarged bankrupt pursuant to subsection (5)(c)(i) shall, at the time when it was so given, form part of the estate of the bankrupt as administered by the Assignee, but shall be invested by the Assignee in some savings bank or banks and, at the request of the undischarged bankrupt, shall, together with any interest thereon, be applied, or a sufficient part of such net proceeds of disposition and interest shall be applied, in or towards the acquisition of the land for which the application to settle is being made.
+    (6) Notwithstanding anything to the contrary in the [Insolvency Act 2006][59], no part of any net proceeds of disposition given to the Official Assignee of an undischarged bankrupt pursuant to subsection (5)(c)(i) shall, at the time when it was so given, form part of the estate of the bankrupt as administered by the Assignee, but shall be invested by the Assignee in some savings bank or banks and, at the request of the undischarged bankrupt, shall, together with any interest thereon, be applied, or a sufficient part of such net proceeds of disposition and interest shall be applied, in or towards the acquisition of the land for which the application to settle is being made.
     
     (7) For the purposes of subsection (6), an Official Assignee shall not apply a greater amount of any net proceeds of disposition and interest towards the acquisition of any land than the amount so applied by the spouse (if any) of the undischarged bankrupt pursuant to subsection (5)(b).
     
     (8) Any net proceeds of disposition, and any interest thereon, remaining in the hands of an Official Assignee at the expiry of the period of 6 months after the date of disposition of the land to which those net proceeds relate shall form part of the estate of the undischarged bankrupt to whom those net proceeds would otherwise belong.
     
-    Section 12A: inserted, on 8 November 1974, by [section 8][61] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 12A: inserted, on 8 November 1974, by [section 8][60] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
     
-    Section 12A(6): amended, on 3 December 2007, by [section 445][56] of the Insolvency Act 2006 (2006 No 55).
+    Section 12A(6): amended, on 3 December 2007, by [section 445][55] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 13 Power of court to rectify share register
     
-*   [Section 91][62] of the Companies Act 1993 applies to any action of, or omission by, the company in complying with the requirements of [section 12][13].
+*   The provisions of section 124 of the Companies Act 1955, or [section 91][61] of the Companies Act 1993, as the case may be, shall apply to any action of, or omission by, the company in complying with the requirements of [section 12][13].
     
-    Section 13: replaced, on 5 December 2013, by [section 14][39] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 13: replaced, on 1 July 1994, by [section 4][38] of the Land Transfer Amendment Act 1993 (1993 No 124).
 
 ##### 14 Home not relieved from being taken compulsorily
     
@@ -746,35 +746,35 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     Compare: 1950 No 43 s 14; 1951 No 28 s 12
     
-    Section 16(1): amended, on 1 April 1980, pursuant to [section 12][48] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 16(1): amended, on 1 April 1980, pursuant to [section 12][47] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 16(1)(a) proviso: amended, on 8 November 1974, by [section 9(1)(a)][63] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 16(1)(a) proviso: amended, on 8 November 1974, by [section 9(1)(a)][62] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
     
-    Section 16(1)(b) proviso: amended, on 8 November 1974, by [section 9(1)(b)][63] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 16(1)(b) proviso: amended, on 8 November 1974, by [section 9(1)(b)][62] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
     
-    Section 16(2): amended, on 1 April 1980, pursuant to [section 12][48] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 16(2): amended, on 1 April 1980, pursuant to [section 12][47] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 16(2)(a): amended, on 8 November 1974, by [section 9(1)(c)][63] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 16(2)(a): amended, on 8 November 1974, by [section 9(1)(c)][62] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
     
-    Section 16(2)(b): replaced, on 8 November 1974, by [section 9(3)][63] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 16(2)(b): replaced, on 8 November 1974, by [section 9(3)][62] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
     
-    Section 16(2)(c): inserted, on 8 November 1974, by [section 9(3)][63] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 16(2)(c): inserted, on 8 November 1974, by [section 9(3)][62] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
     
-    Section 16(2)(c) proviso: amended, on 1 April 1980, pursuant to [section 12][48] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 16(2)(c) proviso: amended, on 1 April 1980, pursuant to [section 12][47] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 16(3)(a): replaced, on 8 November 1974, by [section 9(4)][63] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 16(3)(a): replaced, on 8 November 1974, by [section 9(4)][62] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
     
-    Section 16(3)(a): amended, on 1 April 1980, pursuant to [section 12][48] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 16(3)(a): amended, on 1 April 1980, pursuant to [section 12][47] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 16(3)(b): replaced, on 8 November 1974, by [section 9(4)][63] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 16(3)(b): replaced, on 8 November 1974, by [section 9(4)][62] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
     
-    Section 16(3)(b)(i) proviso: amended, on 1 April 1980, pursuant to [section 12][48] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 16(3)(b)(i) proviso: amended, on 1 April 1980, pursuant to [section 12][47] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 16(5): inserted, on 8 November 1974, by [section 9(2)][63] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 16(5): inserted, on 8 November 1974, by [section 9(2)][62] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
     
-    Section 16(5): amended, on 12 December 2002, pursuant to [clause 3][64] of the Joint Family Homes (Specified Sum) Order 2002 (SR 2002/364).
+    Section 16(5): amended, on 12 December 2002, pursuant to [clause 3][63] of the Joint Family Homes (Specified Sum) Order 2002 (SR 2002/364).
     
-    Section 16(6): inserted, on 8 November 1974, by [section 9(2)][63] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 16(6): inserted, on 8 November 1974, by [section 9(2)][62] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
 
 ##### 17 Disposition of proceeds of sale or mortgage
     
@@ -802,9 +802,9 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     Compare: 1950 No 43 s 14; 1951 No 28 s 12
     
-    Section 17(1): amended, on 1 April 1980, pursuant to [section 12][48] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 17(1): amended, on 1 April 1980, pursuant to [section 12][47] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 17(1)(c): amended, on 8 November 1974, by [section 10][65] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 17(1)(c): amended, on 8 November 1974, by [section 10][64] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
 
 ##### 18 Trusts relating to protected money derived from sale or mortgage
     
@@ -826,7 +826,7 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     Compare: 1950 No 43 s 14(3), (4)
     
-    Section 18(1)(a): amended, on 8 November 1974, by [section 7(2)(a)][59] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 18(1)(a): amended, on 8 November 1974, by [section 7(2)(a)][58] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
 
 ##### 19 Trusts relating to unprotected money derived from sale or mortgage
     
@@ -840,17 +840,17 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     Compare: 1950 No 43 s 14(5)
     
-    Section 19(a): amended, on 8 November 1974, by [section 7(2)(b)][59] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 19(a): amended, on 8 November 1974, by [section 7(2)(b)][58] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
 
 ##### 20 Valuation of settled property
     
-*   (1) For the purposes of [section 16][18] the net value of any settled property shall be the amount of the capital value within the meaning of the [Rating Valuations Act 1998][66] of the land included in the settlement, plus the amount of the value which any relative shares may have independent of the land with which they are settled, less the amount by which the High Court considers that value is reduced by reason of mortgages, charges, liens, and encumbrances over the settled property or any part thereof. For the purposes of this subsection the said value of any such shares shall be assessed by a competent valuer acceptable to all the persons concerned, or (failing their agreement) appointed by the court; and mortgages, charges, liens, and encumbrances in respect of the shares shall not be taken into account in fixing the value thereof for the purposes of this subsection:
+*   (1) For the purposes of [section 16][18] the net value of any settled property shall be the amount of the capital value within the meaning of the [Rating Valuations Act 1998][65] of the land included in the settlement, plus the amount of the value which any relative shares may have independent of the land with which they are settled, less the amount by which the High Court considers that value is reduced by reason of mortgages, charges, liens, and encumbrances over the settled property or any part thereof. For the purposes of this subsection the said value of any such shares shall be assessed by a competent valuer acceptable to all the persons concerned, or (failing their agreement) appointed by the court; and mortgages, charges, liens, and encumbrances in respect of the shares shall not be taken into account in fixing the value thereof for the purposes of this subsection:
     
     provided that, instead of requiring the court to appoint a valuer, the persons concerned may agree to the said value being assessed under the provisions of the Arbitration Act 1908\.
     
-    (2) On the application of the owner or owners of any settled property or of any person entitled to make an application to the court under [section 16][18] in respect of any such property, and on payment of such fee as may be required by the registered valuer concerned, it is the duty of the President of the New Zealand Institute of Valuers to nominate a registered valuer to make a valuation of the settled land or any part of it at such date as the applicant or applicants may specify, and to give to the applicant or applicants a certificate setting forth the date at which the valuation is made, the area and description of the land to which the certificate relates, and the capital value of the land within the meaning of the [Rating Valuations Act 1998][66]. Where the applicant for the certificate is not an owner of the land, the registered valuer, when giving the certificate to the applicant, is to give a like certificate to the owner or owners of the land.
+    (2) On the application of the owner or owners of any settled property or of any person entitled to make an application to the court under [section 16][18] in respect of any such property, and on payment of such fee as may be required by the registered valuer concerned, it is the duty of the President of the New Zealand Institute of Valuers to nominate a registered valuer to make a valuation of the settled land or any part of it at such date as the applicant or applicants may specify, and to give to the applicant or applicants a certificate setting forth the date at which the valuation is made, the area and description of the land to which the certificate relates, and the capital value of the land within the meaning of the [Rating Valuations Act 1998][65]. Where the applicant for the certificate is not an owner of the land, the registered valuer, when giving the certificate to the applicant, is to give a like certificate to the owner or owners of the land.
     
-    (3) In any case where it is necessary for a valuation of any land to be made by a valuer in connection with a valuation of shares that is being made in accordance with subsection (1), the valuation of the land is to be made by a registered valuer nominated by the President of the New Zealand Institute of Valuers for the purpose. Where application for the valuation of any such land is made to the New Zealand Institute of Valuers by the valuer of any such shares, and payment is made to the registered valuer of an appropriate fee, and the registered valuer is supplied with such information as he or she may require, it is the duty of the registered valuer to make a valuation of the land at such date as the applicant may specify, and to give a certificate setting forth the date as at which the valuation is made, the area and description of the land to which the certificate relates, and the capital value of the land within the meaning of the [Rating Valuations Act 1998][66], to---
+    (3) In any case where it is necessary for a valuation of any land to be made by a valuer in connection with a valuation of shares that is being made in accordance with subsection (1), the valuation of the land is to be made by a registered valuer nominated by the President of the New Zealand Institute of Valuers for the purpose. Where application for the valuation of any such land is made to the New Zealand Institute of Valuers by the valuer of any such shares, and payment is made to the registered valuer of an appropriate fee, and the registered valuer is supplied with such information as he or she may require, it is the duty of the registered valuer to make a valuation of the land at such date as the applicant may specify, and to give a certificate setting forth the date as at which the valuation is made, the area and description of the land to which the certificate relates, and the capital value of the land within the meaning of the [Rating Valuations Act 1998][65], to---
         
     *   (a) the applicant for the certificate; and
     
@@ -862,13 +862,13 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     (5) Any person to whom any such certificate is given pursuant to the provisions of this section may object to the valuation, by notice in writing delivered to the registered valuer within 1 month after that person receives or is deemed to receive that certificate.
     
-    (5A) Any such objection is to be heard and determined as if it were an objection under [Part 4][67] of the Rating Valuations Act 1998, and [sections 34][68], [35][69], [36][70], and [38][71] of that Act (and any regulations made under that Act relating to reviews and objections), as far as they are applicable and with all necessary modifications, are to apply to the objection as if---
+    (5A) Any such objection is to be heard and determined as if it were an objection under [Part 4][66] of the Rating Valuations Act 1998, and [sections 34][67], [35][68], [36][69], and [38][70] of that Act (and any regulations made under that Act relating to reviews and objections), as far as they are applicable and with all necessary modifications, are to apply to the objection as if---
         
     *   (a) the registered valuer had been appointed by a territorial authority to review the objection; and
     
-    *   (b) the review had been made under [section 34][68] of that Act; and
+    *   (b) the review had been made under [section 34][67] of that Act; and
     
-    *   (c) the references to a territorial authority in [sections 34(4)][68], [35][69], and [36][70] of that Act were references to the registered valuer.
+    *   (c) the references to a territorial authority in [sections 34(4)][67], [35][68], and [36][69] of that Act were references to the registered valuer.
     
     (5B) Where a valuation is varied as a result of any such objection the registered valuer must give an amended certificate to each person to whom he or she gave the original certificate.
     
@@ -876,25 +876,25 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     Compare: 1950 No 43 s 14
     
-    Section 20(1): amended, on 1 July 1998, by [section 54(1)][72] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 20(1): amended, on 1 July 1998, by [section 54(1)][71] of the Rating Valuations Act 1998 (1998 No 69).
     
-    Section 20(1): amended, on 1 April 1980, pursuant to [section 12][48] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 20(1): amended, on 1 April 1980, pursuant to [section 12][47] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 20(2): replaced, on 1 July 1998, by [section 54(1)][72] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 20(2): replaced, on 1 July 1998, by [section 54(1)][71] of the Rating Valuations Act 1998 (1998 No 69).
     
-    Section 20(3): replaced, on 1 July 1998, by [section 54(1)][72] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 20(3): replaced, on 1 July 1998, by [section 54(1)][71] of the Rating Valuations Act 1998 (1998 No 69).
     
-    Section 20(4): amended, on 1 July 1998, by [section 54(1)][72] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 20(4): amended, on 1 July 1998, by [section 54(1)][71] of the Rating Valuations Act 1998 (1998 No 69).
     
-    Section 20(5): replaced, on 1 July 1998, by [section 54(1)][72] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 20(5): replaced, on 1 July 1998, by [section 54(1)][71] of the Rating Valuations Act 1998 (1998 No 69).
     
-    Section 20(5A): inserted, on 1 July 1998, by [section 54(1)][72] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 20(5A): inserted, on 1 July 1998, by [section 54(1)][71] of the Rating Valuations Act 1998 (1998 No 69).
     
-    Section 20(5B): inserted, on 1 July 1998, by [section 54(1)][72] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 20(5B): inserted, on 1 July 1998, by [section 54(1)][71] of the Rating Valuations Act 1998 (1998 No 69).
 
 ##### 21 Exemptions from gift duty
     
-*   (1) The following dispositions of property shall not constitute dutiable gifts for the purposes of the [Estate and Gift Duties Act 1968][73]:
+*   (1) The following dispositions of property shall not constitute dutiable gifts for the purposes of the [Estate and Gift Duties Act 1968][72]:
         
     *   (a) subject to subsection (2), any settlement:
     
@@ -924,13 +924,13 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
         
         
     
-    Section 21: replaced, on 8 November 1974 (with subsection (2) applying with respect to any settlement under this Act where the settlement of any immediately preceding settlement is cancelled on or after that date), by [section 11(1)][74] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
+    Section 21: replaced, on 8 November 1974 (with subsection (2) applying with respect to any settlement under this Act where the settlement of any immediately preceding settlement is cancelled on or after that date), by [section 11(1)][73] of the Joint Family Homes Amendment Act 1974 (1974 No 148).
 
 ##### 22 Exemptions from estate duty
     
 *   \[Repealed\]
     
-    Section 22: repealed, on 24 May 1999, by [section 15(1)][75] of the Estate Duty Repeal Act 1999 (1999 No 64).
+    Section 22: repealed, on 24 May 1999, by [section 15(1)][74] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 23 Exemptions from stamp duty
     
@@ -948,7 +948,7 @@ An Act to provide for joint family homes, and for an exemption from gift duty in
     
     Section 24(1): repealed, on 8 December 1971, by section 2(1) of the Joint Family Homes Amendment Act 1971 (1971 No 104).
     
-    Section 24(2): amended, on 25 January 2005, pursuant to [section 83(7)][76] of the Public Finance Act 1989 (1989 No 44).
+    Section 24(2): amended, on 25 January 2005, pursuant to [section 83(7)][75] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 25 Settlements of Maori land
     
@@ -1015,43 +1015,41 @@ Enactments repealed
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][77] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][78] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][76] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][77] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][79] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][80] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][78] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][79] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Companies Amendment Act 2013 (2013 No 111): [section 14][39]
+*   Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20): [section 9][39]
     
-    Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20): [section 9][40]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][50]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][51]
+    Insolvency Act 2006 (2006 No 55): [section 445][55]
     
-    Insolvency Act 2006 (2006 No 55): [section 445][56]
+    Local Government Act 2002 (2002 No 84): [section 262][41]
     
-    Local Government Act 2002 (2002 No 84): [section 262][42]
+    Joint Family Homes (Specified Sum) Order 2002 (SR 2002/364): [clause 3][63]
     
-    Joint Family Homes (Specified Sum) Order 2002 (SR 2002/364): [clause 3][64]
+    Property (Relationships) Amendment Act 2001 (2001 No 5): [section 64(2)][53]
     
-    Property (Relationships) Amendment Act 2001 (2001 No 5): [section 64(2)][54]
-    
-    Estate Duty Repeal Act 1999 (1999 No 64): [section 15(1)][75]
+    Estate Duty Repeal Act 1999 (1999 No 64): [section 15(1)][74]
     
     Stamp Duty Abolition Act 1999 (1999 No 61): [section 7][31]
     
-    Rating Valuations Act 1998 (1998 No 69): [section 54(1)][72]
+    Rating Valuations Act 1998 (1998 No 69): [section 54(1)][71]
     
     Land Transfer Amendment Act 1993 (1993 No 124): [section 4][38]
     
-    Public Finance Act 1989 (1989 No 44): [section 83(7)][76]
+    Public Finance Act 1989 (1989 No 44): [section 83(7)][75]
     
     Property (Relationships) Amendment Act (No 2) 1983 (1983 No 145): section 12
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][58]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][57]
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][48]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][47]
     
     Joint Family Homes Amendment Act 1974 (1974 No 148)
     
@@ -1106,45 +1104,44 @@ Enactments repealed
 [36]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM141134
 [37]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM319576
 [38]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM328318
-[39]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM5620822
-[40]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM5045103
-[41]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM236786
-[42]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM174088
-[43]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM430492
-[44]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM291075
-[45]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM422110
-[46]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM170872
-[47]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM430493
-[48]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM35049
-[49]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM430494
-[50]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM320450
-[51]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM3360714
-[52]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM39722
-[53]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM440944
-[54]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM87570
-[55]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM430495
-[56]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM387857
-[57]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM430496
-[58]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM35085
-[59]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM430497
-[60]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM385801
-[61]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM430498
-[62]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM320452
-[63]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM430499
-[64]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM169415
-[65]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM430700
-[66]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM427296
-[67]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM427669
-[68]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM427676
-[69]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM427678
-[70]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM427681
-[71]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM427686
-[72]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM427717
-[73]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM385591
-[74]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM430701
-[75]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM30504
-[76]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM163167
-[77]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM2998516
-[78]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM2998515
-[79]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM2998532
-[80]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[39]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM5045103
+[40]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM236786
+[41]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM174088
+[42]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM430492
+[43]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM291075
+[44]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM422110
+[45]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM170872
+[46]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM430493
+[47]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM35049
+[48]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM430494
+[49]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM320450
+[50]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM3360714
+[51]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM39722
+[52]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM440944
+[53]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM87570
+[54]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM430495
+[55]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM387857
+[56]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM430496
+[57]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM35085
+[58]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM430497
+[59]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM385801
+[60]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM430498
+[61]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM320452
+[62]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM430499
+[63]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM169415
+[64]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM430700
+[65]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM427296
+[66]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM427669
+[67]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM427676
+[68]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM427678
+[69]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM427681
+[70]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM427686
+[71]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM427717
+[72]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM385591
+[73]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM430701
+[74]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM30504
+[75]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM163167
+[76]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM2998516
+[77]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM2998515
+[78]: http://www.legislation.govt.nz/act/public/1964/0045/latest/link.aspx?id=DLM2998532
+[79]: http://www.pco.parliament.govt.nz/editorial-conventions/
