@@ -1,5 +1,5 @@
 Reprint  
-as at 28 November 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -766,7 +766,7 @@ Title \[Repealed\]
     
     _commitment_ means future expenses and liabilities to be incurred on contracts that have been entered into at balance date
     
-    _company_ means a company within the meaning of the Companies Act 1955, or the [Companies Act 1993][293], as the case may be
+    _company_ means a company within the meaning of the [Companies Act 1993][293]
     
     _Crown_ or _the Sovereign_---
         
@@ -1008,7 +1008,7 @@ Title \[Repealed\]
     
     *   (b) on the dissolution or expiration of Parliament until the first meeting of the new Parliament, the person holding the office of Speaker of the House of Representatives at the time of the dissolution or expiration, or, if there was at that time a vacancy in the office of Speaker of the House of Representatives or if the person holding that office at that time dies, the person holding the office of Deputy Speaker at the time of the dissolution or expiration
     
-    _subsidiary_ has the same meaning as in sections 158 and 158A of the Companies Act 1955 or [sections 5][303] and [6][304] of the Companies Act 1993, as the case may require
+    _subsidiary_ has the same meaning as in [section 5][303] of the Companies Act 1993
     
     _Supplementary Estimates_ means a statement in any form that---
         
@@ -1058,91 +1058,93 @@ Title \[Repealed\]
     
     Section 2: substituted, on 1 July 1994, by section 3(1) of the Public Finance Amendment Act 1994 (1994 No 18).
     
-    Section 2(1) **annual financial statements of the Crown**: repealed, on 25 January 2005, by [section 5(1)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **annual financial statements of the Crown**: repealed, on 25 January 2005, by [section 5(1)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **annual financial statements of the Government**: inserted, on 25 January 2005, by [section 5(1)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **annual financial statements of the Government**: inserted, on 25 January 2005, by [section 5(1)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **appropriation administrator**: inserted, on 18 July 2013, by [section 5(1)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
+    Section 2(1) **appropriation administrator**: inserted, on 18 July 2013, by [section 5(1)][305] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **appropriation Minister**: inserted, on 18 July 2013, by [section 5(1)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
+    Section 2(1) **appropriation Minister**: inserted, on 18 July 2013, by [section 5(1)][305] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **asset**: inserted, on 25 January 2005, by [section 5(1)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **asset**: inserted, on 25 January 2005, by [section 5(1)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **Audit Office**: repealed, on 25 January 2005, by [section 5(1)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Audit Office**: repealed, on 25 January 2005, by [section 5(1)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **Auditor-General**: inserted, on 25 January 2005, by [section 5(1)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Auditor-General**: inserted, on 25 January 2005, by [section 5(1)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **borrow money**: inserted, on 25 January 2005, by [section 5(2)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **borrow money**: inserted, on 25 January 2005, by [section 5(2)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **borrowing expenses**: amended, on 12 December 2000, by [section 3][307] of the Public Finance Amendment Act 2000 (2000 No 78).
+    Section 2(1) **borrowing expenses**: amended, on 12 December 2000, by [section 3][306] of the Public Finance Amendment Act 2000 (2000 No 78).
     
-    Section 2(1) **Budget**: inserted, on 25 January 2005, by [section 5(3)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Budget**: inserted, on 25 January 2005, by [section 5(3)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **capital contribution**: repealed, on 25 January 2005, by [section 5(4)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **capital contribution**: repealed, on 25 January 2005, by [section 5(4)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **capital expenditure**: inserted, on 25 January 2005, by [section 5(4)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **capital expenditure**: inserted, on 25 January 2005, by [section 5(4)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **carrying amount**: inserted, on 25 January 2005, by [section 5(4)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **carrying amount**: inserted, on 25 January 2005, by [section 5(4)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **category**: inserted, on 18 July 2013, by [section 5(1)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
+    Section 2(1) **category**: inserted, on 18 July 2013, by [section 5(1)][305] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **chief executive** paragraph (aa): inserted, on 18 July 2013, by [section 5(2)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
+    Section 2(1) **chief executive** paragraph (aa): inserted, on 18 July 2013, by [section 5(2)][305] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **contingent liability**: repealed, on 25 January 2005, by [section 5(5)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **company**: replaced, on 5 December 2013, by [section 14][307] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 2(1) **cost**: repealed, on 25 January 2005, by [section 5(5)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **contingent liability**: repealed, on 25 January 2005, by [section 5(5)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **Crown** or **Her Majesty**: repealed, on 25 January 2005, by [section 5(6)(a)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **cost**: repealed, on 25 January 2005, by [section 5(5)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **Crown** or **the Sovereign**: inserted, on 25 January 2005, by [section 5(6)(a)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Crown** or **Her Majesty**: repealed, on 25 January 2005, by [section 5(6)(a)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **Crown** or **the Sovereign** paragraph (a): amended, on 25 January 2005, by [section 5(6)(b)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Crown** or **the Sovereign**: inserted, on 25 January 2005, by [section 5(6)(a)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **Crown** or **the Sovereign** paragraph (c)(iii): amended, on 18 July 2013, by [section 5(3)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
+    Section 2(1) **Crown** or **the Sovereign** paragraph (a): amended, on 25 January 2005, by [section 5(6)(b)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **Crown** or **the Sovereign** paragraph (c)(iv): inserted, on 18 July 2013, by [section 5(4)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
+    Section 2(1) **Crown** or **the Sovereign** paragraph (c)(iii): amended, on 18 July 2013, by [section 5(3)][305] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **Crown** or **the Sovereign** paragraph (c)(v): inserted, on 18 July 2013, by [section 5(4)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
+    Section 2(1) **Crown** or **the Sovereign** paragraph (c)(iv): inserted, on 18 July 2013, by [section 5(4)][305] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **Crown** or **the Sovereign** paragraph (c)(vi): inserted, on 18 July 2013, by [section 5(4)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
+    Section 2(1) **Crown** or **the Sovereign** paragraph (c)(v): inserted, on 18 July 2013, by [section 5(4)][305] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **Crown Bank Account**: substituted, on 25 January 2005, by [section 5(7)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Crown** or **the Sovereign** paragraph (c)(vi): inserted, on 18 July 2013, by [section 5(4)][305] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **Crown entity**: substituted, on 25 January 2005, by [section 5(8)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Crown Bank Account**: substituted, on 25 January 2005, by [section 5(7)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **Crown entity group**: repealed, on 25 January 2005, by [section 5(8)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Crown entity**: substituted, on 25 January 2005, by [section 5(8)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **department**: substituted, on 25 January 2005, by [section 5(9)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Crown entity group**: repealed, on 25 January 2005, by [section 5(8)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **department** paragraph (a): replaced, on 18 July 2013, by [section 5(5)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
+    Section 2(1) **department**: substituted, on 25 January 2005, by [section 5(9)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **departmental**: inserted, on 18 July 2013, by [section 5(6)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
+    Section 2(1) **department** paragraph (a): replaced, on 18 July 2013, by [section 5(5)][305] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **departmental agency**: inserted, on 18 July 2013, by [section 5(6)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
+    Section 2(1) **departmental**: inserted, on 18 July 2013, by [section 5(6)][305] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **Departmental Bank Account**: substituted, on 25 January 2005, by [section 5(10)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **departmental agency**: inserted, on 18 July 2013, by [section 5(6)][305] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **derivative transaction**: inserted, on 25 January 2005, by [section 5(11)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Departmental Bank Account**: substituted, on 25 January 2005, by [section 5(10)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **Estimates**: substituted, on 25 January 2005, by [section 5(12)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **derivative transaction**: inserted, on 25 January 2005, by [section 5(11)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **forecast financial statements**: inserted, on 25 January 2005, by [section 5(13)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Estimates**: substituted, on 25 January 2005, by [section 5(12)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 2(1) **forecast financial statements**: inserted, on 25 January 2005, by [section 5(13)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
     Section 2(1) **generally accepted accounting practice** paragraph (a): amended, on 1 July 2011, by [section 12][308] of the Financial Reporting Amendment Act 2011 (2011 No 22).
     
     Section 2(1) **generally accepted accounting practice** paragraph (b): amended, on 1 July 2011, by [section 12][308] of the Financial Reporting Amendment Act 2011 (2011 No 22).
     
-    Section 2(1) **Government reporting entity**: inserted, on 25 January 2005, by [section 5(14)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Government reporting entity**: inserted, on 25 January 2005, by [section 5(14)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **host department**: inserted, on 18 July 2013, by [section 5(6)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
+    Section 2(1) **host department**: inserted, on 18 July 2013, by [section 5(6)][305] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **impact**: inserted, on 25 January 2005, by [section 5(14)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **impact**: inserted, on 25 January 2005, by [section 5(14)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **intelligence and security department**: inserted, on 25 January 2005, by [section 5(14)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **intelligence and security department**: inserted, on 25 January 2005, by [section 5(14)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **lend money**: inserted, on 18 July 2013, by [section 5(6)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
+    Section 2(1) **lend money**: inserted, on 18 July 2013, by [section 5(6)][305] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **liability**: substituted, on 25 January 2005, by [section 5(15)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **liability**: substituted, on 25 January 2005, by [section 5(15)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
     Section 2(1) **local authority**: substituted, on 1 July 2003, by [section 262][309] of the Local Government Act 2002 (2002 No 84).
     
@@ -1150,63 +1152,65 @@ Title \[Repealed\]
     
     Section 2(1) **mixed ownership model company**: inserted, on 30 June 2012, by [section 5][311] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
     
-    Section 2(1) **Mode B**: repealed, on 25 January 2005, by [section 5(16)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Mode B**: repealed, on 25 January 2005, by [section 5(16)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **Mode C**: repealed, on 25 January 2005, by [section 5(16)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Mode C**: repealed, on 25 January 2005, by [section 5(16)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **multi-class output expense appropriation**: inserted, on 25 January 2005, by [section 5(17)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **multi-class output expense appropriation**: inserted, on 25 January 2005, by [section 5(17)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **non-departmental**: inserted, on 18 July 2013, by [section 5(6)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
+    Section 2(1) **non-departmental**: inserted, on 18 July 2013, by [section 5(6)][305] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **Office of Parliament**: amended, on 25 January 2005, by [section 5(18)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Office of Parliament**: amended, on 25 January 2005, by [section 5(18)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
     Section 2(1) **Office of Parliament**: amended, on 1 July 2001, by [section 53][312] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 2(1) **other expenses**: substituted, on 25 January 2005, by [section 5(19)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **other expenses**: substituted, on 25 January 2005, by [section 5(19)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **outcome**: substituted, on 25 January 2005, by [section 5(20)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **outcome**: substituted, on 25 January 2005, by [section 5(20)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **output expenses**: inserted, on 25 January 2005, by [section 5(20)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **output expenses**: inserted, on 25 January 2005, by [section 5(20)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **outputs**: substituted, on 25 January 2005, by [section 5(20)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **outputs**: substituted, on 25 January 2005, by [section 5(20)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **permanent legislative authority**: inserted, on 18 July 2013, by [section 5(6)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
+    Section 2(1) **permanent legislative authority**: inserted, on 18 July 2013, by [section 5(6)][305] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **principles of responsible fiscal management**: inserted, on 25 January 2005, by [section 5(20)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **principles of responsible fiscal management**: inserted, on 25 January 2005, by [section 5(20)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **public money**: amended, on 18 July 2013, by [section 5(7)(a)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
+    Section 2(1) **public money**: amended, on 18 July 2013, by [section 5(7)(a)][305] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **public money**: amended, on 18 July 2013, by [section 5(7)(b)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
+    Section 2(1) **public money**: amended, on 18 July 2013, by [section 5(7)(b)][305] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **public security**: amended, on 25 January 2005, by [section 5(21)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **public security**: amended, on 25 January 2005, by [section 5(21)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **purchased**: repealed, on 25 January 2005, by [section 5(22)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **purchased**: repealed, on 25 January 2005, by [section 5(22)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **raising a loan**: repealed, on 25 January 2005, by [section 5(22)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **raising a loan**: repealed, on 25 January 2005, by [section 5(22)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **remeasurements**: inserted, on 25 January 2005, by [section 5(23)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **remeasurements**: inserted, on 25 January 2005, by [section 5(23)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **responsible Minister**: replaced, on 18 July 2013, by [section 5(8)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
+    Section 2(1) **responsible Minister**: replaced, on 18 July 2013, by [section 5(8)][305] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **Schedule 4 organisation**: inserted, on 18 July 2013, by [section 5(9)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
+    Section 2(1) **Schedule 4 organisation**: inserted, on 18 July 2013, by [section 5(9)][305] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **Schedule 4A company**: inserted, on 18 July 2013, by [section 5(9)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
+    Section 2(1) **Schedule 4A company**: inserted, on 18 July 2013, by [section 5(9)][305] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **Supplementary Estimates**: substituted, on 25 January 2005, by [section 5(25)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **subsidiary**: replaced, on 5 December 2013, by [section 14][307] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 2(1) **trading revenue**: repealed, on 25 January 2005, by [section 5(26)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Supplementary Estimates**: substituted, on 25 January 2005, by [section 5(25)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **type**: inserted, on 25 January 2005, by [section 5(27)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **trading revenue**: repealed, on 25 January 2005, by [section 5(26)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **Vote**: substituted, on 25 January 2005, by [section 5(28)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **type**: inserted, on 25 January 2005, by [section 5(27)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **working day**: added, on 25 January 2005, by [section 5(29)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Vote**: substituted, on 25 January 2005, by [section 5(28)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(2): repealed, on 25 January 2005, by [section 5(30)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **working day**: added, on 25 January 2005, by [section 5(29)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(3): repealed, on 25 January 2005, by [section 5(30)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(2): repealed, on 25 January 2005, by [section 5(30)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(4): repealed, on 25 January 2005, by [section 5(30)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(3): repealed, on 25 January 2005, by [section 5(30)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 2(4): repealed, on 25 January 2005, by [section 5(30)][304] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 2A Provisions affecting application of amendments to this Act
     
@@ -5626,7 +5630,9 @@ Commencementsee section 2
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Game Animal Council Act 2013 (2013 No 98): [section 41(1)][509]
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][307]
+    
+    Game Animal Council Act 2013 (2013 No 98): [section 41(1)][509]
     
     [Public Finance (Fiscal Responsibility) Amendment Act 2013][505] (2013 No 67)
     
@@ -6014,10 +6020,10 @@ Commencementsee section 2
 [301]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM162916
 [302]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM431112
 [303]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM319999
-[304]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM320101
-[305]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM327278
-[306]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326013
-[307]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM78331
+[304]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM327278
+[305]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326013
+[306]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM78331
+[307]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5620822
 [308]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3701759
 [309]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM174088
 [310]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM408967
