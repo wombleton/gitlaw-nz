@@ -1,5 +1,5 @@
 Reprint  
-as at 28 November 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -369,13 +369,7 @@ An Act to make official information more freely available, to provide for proper
     
     *   (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
     
-    (1A) For the purposes of [Schedule 1][74], a company is a related company of a State enterprise if the State enterprise, whether alone or together with any other State enterprise, directly or indirectly owns, or controls the exercise of all the voting rights attaching to,---
-        
-    *   (a) in the case of a company registered under the Companies Act 1955, the equity share capital (as defined in section 158 of that Act) of the company; or
-    
-    *   (b) in the case of a company registered under the [Companies Act 1993][96], the issued shares of the company, (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital),---
-    
-    as the case may be.
+    (1A) For the purposes of [Schedule 1][74], a company registered under the [Companies Act 1993][96] is a related company of a State enterprise if the State enterprise, whether alone or together with any other State enterprise, directly or indirectly owns, or controls the exercise of all the voting rights attaching to, the issued shares of the company (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital).
     
     (2) Where information is held by an unincorporated body (being a board, council, committee, subcommittee, or other body, but not being a mortality review committee)---
         
@@ -433,7 +427,7 @@ An Act to make official information more freely available, to provide for proper
     
     Section 2(1) **official information** paragraph (d): replaced, on 1 April 1987, by [section 2(2)][101] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 2(2) **official information** paragraph (d): amended, on 1 January 1990, pursuant to [section 49(6)][104] of the Education Amendment Act 1989 (1989 No 156).
+    Section 2(1) **official information** paragraph (d): amended, on 1 January 1990, pursuant to [section 49(6)][104] of the Education Amendment Act 1989 (1989 No 156).
     
     Section 2(1) **official information** paragraph (e)(ii): amended, on 1 February 2011, by [section 18][105] of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Amendment Act 2010 (2010 No 132).
     
@@ -475,7 +469,7 @@ An Act to make official information more freely available, to provide for proper
     
     Section 2(1) **working day**: inserted, on 1 April 1987, by [section 2(5)][101] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 2(1A): replaced, on 1 July 1994, by [section 2][118] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 2(1A): replaced, on 5 December 2013, by [section 14][118] of the Companies Amendment Act 2013 (2013 No 111).
     
     Section 2(2): amended, on 1 January 2001, by [section 111(1)][119] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
@@ -2118,7 +2112,9 @@ _Amendment(s) incorporated in the Act(s)._
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Game Animal Council Act 2013 (2013 No 98): [section 41(2)][198]
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][118]
+    
+    Game Animal Council Act 2013 (2013 No 98): [section 41(2)][198]
     
     Inquiries Act 2013 (2013 No 60): [section 39][109]
     
@@ -2241,8 +2237,6 @@ _Amendment(s) incorporated in the Act(s)._
     Veterinarians Act 1994 (1994 No 107): section 75(5)
     
     Finance Act 1994 (1994 No 73): [section 7(1)][199]
-    
-    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][118]
     
     Southland Electricity Act 1993 (1993 No 147): [section 34][242]
     
@@ -2486,7 +2480,7 @@ _Amendment(s) incorporated in the Act(s)._
 [115]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM56326
 [116]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM1441347
 [117]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM114322
-[118]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM328986
+[118]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM5620822
 [119]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM81644
 [120]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM331111
 [121]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101327
