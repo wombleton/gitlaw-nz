@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Business, Innovation, and Employment.
 
@@ -148,13 +148,7 @@ An Act to reform the law relating to receivers
     
     _account receivable_ has the same meaning as in [section 16(1)][55] of the Personal Property Securities Act 1999
     
-    _company_ has the same meaning as in---
-        
-    *   (a) section 2 of the Companies Act 1955; or
-    
-    *   (b) [section 2][56] of the Companies Act 1993,---
-    
-    as the case may be; and includes an overseas company
+    _company_ has the same meaning as in [section 2(1)][56] of the Companies Act 1993; and includes an overseas company
     
     _court_ means the High Court
     
@@ -162,7 +156,7 @@ An Act to reform the law relating to receivers
     
     _director_, in relation to---
         
-    *   (a) a company within the meaning of section 2 of the Companies Act 1955 or a company within the meaning of [section 2][56] of the Companies Act 1993, as the case may be, includes---
+    *   (a) a company within the meaning of [section 2(1)][56] of the Companies Act 1993, includes---
             
         *   (i) any person occupying the position of director of the company by whatever name called; and
         
@@ -192,7 +186,7 @@ An Act to reform the law relating to receivers
     
     _inventory_ has the same meaning as in [section 16(1)][57] of the Personal Property Securities Act 1999
     
-    _liquidator_ means a liquidator appointed under Part 6 of the Companies Act 1955 or under [Part 16][58] of the Companies Act 1993, as the case may be; and _liquidation_ has a corresponding meaning
+    _liquidator_ means a liquidator appointed under [Part 16][58] of the Companies Act 1993; and _liquidation_ has a corresponding meaning
     
     _local authority_ means a local authority within the meaning of the [Local Government Act 2002][59]
     
@@ -246,7 +240,7 @@ An Act to reform the law relating to receivers
     
     _Registrar_, in relation to---
         
-    *   (a) a company, has the same meaning as in section 2 of the Companies Act 1955 or [section 2][56] of the Companies Act 1993, as the case may be:
+    *   (a) a company, has the same meaning as in [section 2(1)][56] of the Companies Act 1993:
     
     *   (b) a society registered under the [Industrial and Provident Societies Act 1908][66], means the Registrar of Industrial and Provident Societies:
     
@@ -264,21 +258,29 @@ An Act to reform the law relating to receivers
     
     Section 2(1) **account receivable**: inserted, on 1 May 2002, by [section 3][71] of the Receiverships Amendment Act 2001 (2001 No 24).
     
+    Section 2(1) **company**: replaced, on 5 December 2013, by [section 14][72] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 2(1) **director** paragraph (a): amended, on 5 December 2013, by [section 14][72] of the Companies Amendment Act 2013 (2013 No 111).
+    
     Section 2(1) **inventory**: inserted, on 1 May 2002, by [section 3][71] of the Receiverships Amendment Act 2001 (2001 No 24).
     
-    Section 2(1) **local authority**: inserted, on 1 July 2003, by [section 262][72] of the Local Government Act 2002 (2002 No 84).
+    Section 2(1) **liquidator**: amended, on 5 December 2013, by [section 14][72] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 2(1) **local authority**: inserted, on 1 July 2003, by [section 262][73] of the Local Government Act 2002 (2002 No 84).
     
     Section 2(1) **new value**: inserted, on 1 May 2002, by [section 3][71] of the Receiverships Amendment Act 2001 (2001 No 24).
     
-    Section 2(1) **Official Assignee**: amended, on 3 December 2007, by [section 445][73] of the Insolvency Act 2006 (2006 No 55).
+    Section 2(1) **Official Assignee**: amended, on 3 December 2007, by [section 445][74] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 2(1) **preferential claims**: amended, on 1 November 2007, by [section 41][74] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 2(1) **preferential claims**: amended, on 1 November 2007, by [section 41][75] of the Companies Amendment Act 2006 (2006 No 56).
     
     Section 2(1) **proceeds**: inserted, on 1 May 2002, by [section 3][71] of the Receiverships Amendment Act 2001 (2001 No 24).
     
     Section 2(1) **purchase money security interest**: inserted, on 1 May 2002, by [section 3][71] of the Receiverships Amendment Act 2001 (2001 No 24).
     
-    Section 2(1) **receiver** paragraph (c): substituted, on 1 January 2008, by [section 364(1)][75] of the Property Law Act 2007 (2007 No 91).
+    Section 2(1) **receiver** paragraph (c): substituted, on 1 January 2008, by [section 364(1)][76] of the Property Law Act 2007 (2007 No 91).
+    
+    Section 2(1) **Registrar** paragraph (a): amended, on 5 December 2013, by [section 14][72] of the Companies Amendment Act 2013 (2013 No 111).
     
     Section 2(1) **security agreement**: added, on 1 May 2002, by [section 3][71] of the Receiverships Amendment Act 2001 (2001 No 24).
     
@@ -364,21 +366,21 @@ An Act to reform the law relating to receivers
     
     *   (e) an undischarged bankrupt:
     
-    *   (f) a person who is, or is deemed to be, subject to a compulsory treatment order made under [Part 2][76] of the Mental Health (Compulsory Assessment and Treatment) Act 1992:
+    *   (f) a person who is, or is deemed to be, subject to a compulsory treatment order made under [Part 2][77] of the Mental Health (Compulsory Assessment and Treatment) Act 1992:
     
-    *   (g) a person in respect of whom an order has been made under [section 30][77] or [section 31][78] of the Protection of Personal and Property Rights Act 1988:
+    *   (g) a person in respect of whom an order has been made under [section 30][78] or [section 31][79] of the Protection of Personal and Property Rights Act 1988:
     
-    *   (h) a person in respect of whom an order has been made under [section 286(5)][79] of the Companies Act 1993:
+    *   (h) a person in respect of whom an order has been made under [section 286(5)][80] of the Companies Act 1993:
     
     *   (i) a person in respect of whom an order has been made under [section 37(6)][42]:
     
-    *   (ia) a person who would, but for the repeal of section 188A or section 189 or section 189A of the Companies Act 1955, be prohibited from being a director or promoter of, or being concerned in the management of, a company within the meaning of that Act:
+    *   (ia) \[Repealed\]
     
     *   (j) \[Repealed\]
     
-    *   (k) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Companies Act 1993][80], or the [Securities Act 1978][81], or the [Securities Markets Act 1988][82], or the [Takeovers Act 1993][83]:
+    *   (k) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Companies Act 1993][81], or the [Securities Act 1978][82], or the [Securities Markets Act 1988][83], or the [Takeovers Act 1993][84]:
     
-    *   (l) a person who is prohibited under [section 299(1)(b)][84] of the Insolvency Act 2006 from acting as a director or taking part directly or indirectly in the management of any company or class of company:
+    *   (l) a person who is prohibited under [section 299(1)(b)][85] of the Insolvency Act 2006 from acting as a director or taking part directly or indirectly in the management of any company or class of company:
     
     *   (m) a person who is disqualified from acting as a receiver by the instrument that confers the power to appoint a receiver.
     
@@ -386,15 +388,15 @@ An Act to reform the law relating to receivers
     
     (3) A person who contravenes subsection (1) or subsection (2) commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Section 5(1)(ia): inserted, on 1 July 1994, by section 3(1) of the Receiverships Amendment Act 1994 (1994 No 14).
+    Section 5(1)(ia): repealed, on 5 December 2013, by [section 14][72] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 5(1)(j): repealed, on 25 October 2006, by [section 25][85] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 5(1)(j): repealed, on 25 October 2006, by [section 25][86] of the Securities Amendment Act 2006 (2006 No 46).
     
-    Section 5(1)(k): substituted, on 25 October 2006, by [section 25][85] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 5(1)(k): substituted, on 25 October 2006, by [section 25][86] of the Securities Amendment Act 2006 (2006 No 46).
     
-    Section 5(1)(l): amended, on 3 December 2007, by [section 445][73] of the Insolvency Act 2006 (2006 No 55).
+    Section 5(1)(l): amended, on 3 December 2007, by [section 445][74] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 5(3): amended, on 1 July 2013, by [section 413][86] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 5(3): amended, on 1 July 2013, by [section 413][87] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 6 Appointment of receivers under deeds and agreements
     
@@ -442,13 +444,13 @@ An Act to reform the law relating to receivers
     
     (4) Every receiver who contravenes this section commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Section 8(4): amended, on 1 July 2013, by [section 413][86] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 8(4): amended, on 1 July 2013, by [section 413][87] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 9 Application of section 92 of Property Law Act 1952 to receivers
     
 *   \[Repealed\]
     
-    Section 9: repealed, on 1 January 2008, by [section 364(1)][75] of the Property Law Act 2007 (2007 No 91).
+    Section 9: repealed, on 1 January 2008, by [section 364(1)][76] of the Property Law Act 2007 (2007 No 91).
 
 ##### 10 Notice of receivership
     
@@ -468,7 +470,7 @@ An Act to reform the law relating to receivers
     
     Compare: 1955 No 63 s 346(2); 1980 No 43 s 40(1)
     
-    Section 10(4): amended, on 1 July 2013, by [section 413][86] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 10(4): amended, on 1 July 2013, by [section 413][87] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 11 Vacancy in office of receiver
     
@@ -492,7 +494,7 @@ An Act to reform the law relating to receivers
     
     (8) Every person who fails to comply with subsection (3) or subsection (4) commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
-    Section 11(8): amended, on 1 July 2013, by [section 413][86] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 11(8): amended, on 1 July 2013, by [section 413][87] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 12 Obligations of grantor
     
@@ -512,13 +514,19 @@ An Act to reform the law relating to receivers
     
 *   (1) A receiver may execute in the name and on behalf of the grantor all documents necessary or incidental to the exercise of the receiver's powers.
     
-    (2) A document signed on behalf of a grantor that is a company within the meaning of section 2 of the Companies Act 1955 by a receiver shall be deemed to have been properly executed for the purposes of section 42 of that Act.
+    (2) \[Repealed\]
     
-    (3) A document signed on behalf of a grantor that is a company within the meaning of [section 2][56] of the Companies Act 1993 by a receiver shall be deemed to have been properly executed for the purposes of [section 180][87] of that Act.
+    (3) A document signed on behalf of a grantor that is a company within the meaning of [section 2(1)][56] of the Companies Act 1993 by a receiver is deemed to have been properly executed for the purposes of [section 180][88] of the Companies Act 1993\.
     
-    (4) Notwithstanding any other enactment or rule of law, or any memorandum or articles of association or other document defining the constitution of a grantor that is a body corporate, where the instrument under which a receiver is appointed empowers the receiver to execute documents and to use the grantor's common seal for that purpose, the receiver may execute the documents in the name and on behalf of the grantor by affixing the grantor's common seal to the documents and attesting the affixing of the common seal.
+    (4) Despite any other enactment or rule of law, or any document defining the constitution of a grantor that is a body corporate, if the instrument under which a receiver is appointed empowers the receiver to execute documents (and, if the grantor has a common seal, to use the grantor's common seal for that purpose), the receiver may execute the documents in the name and on behalf of the grantor (and, if the grantor has a common seal, the receiver may affix the common seal to the documents and attest to the affixing of the common seal).
     
     (5) A document executed in the manner prescribed by subsection (4) is deemed to have been properly executed by the grantor.
+    
+    Section 13(2): repealed, on 5 December 2013, by [section 14][72] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 13(3): replaced, on 5 December 2013, by [section 14][72] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 13(4): replaced, on 5 December 2013, by [section 14][72] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 14 Powers of receivers
     
@@ -666,7 +674,7 @@ An Act to reform the law relating to receivers
     
     (4) A receiver who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Section 23(4): amended, on 1 July 2013, by [section 413][86] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 23(4): amended, on 1 July 2013, by [section 413][87] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 24 Further reports by receiver
     
@@ -692,7 +700,7 @@ An Act to reform the law relating to receivers
     
     (4) Every person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Section 24(4): amended, on 1 July 2013, by [section 413][86] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 24(4): amended, on 1 July 2013, by [section 413][87] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 25 Extension of time for preparing reports
     
@@ -728,7 +736,7 @@ An Act to reform the law relating to receivers
     
     (5) Every person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Section 26(5): amended, on 1 July 2013, by [section 413][86] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 26(5): amended, on 1 July 2013, by [section 413][87] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 27 Persons entitled to inspect reports
     
@@ -738,17 +746,17 @@ An Act to reform the law relating to receivers
     
 *   (1) A receiver of a grantor that is a company and who considers that the grantor or any director of the grantor has committed an offence that is material to the receivership against---
         
-    *   (a) the Companies Act 1955; or
+    *   (a) \[Repealed\]
     
-    *   (aa) the [Crimes Act 1961][88]; or
+    *   (aa) the [Crimes Act 1961][89]; or
     
-    *   (b) the [Securities Act 1978][81]; or
+    *   (b) the [Securities Act 1978][82]; or
     
-    *   (c) the [Companies Act 1993][80]; or
+    *   (c) the [Companies Act 1993][81]; or
     
-    *   (d) the [Financial Reporting Act 1993][89]; or
+    *   (d) the [Financial Reporting Act 1993][90]; or
     
-    *   (e) the [Takeovers Act 1993][83]---
+    *   (e) the [Takeovers Act 1993][84]---
     
     must report that fact to the Registrar.
     
@@ -758,13 +766,15 @@ An Act to reform the law relating to receivers
     
     Section 28: substituted, on 1 July 1994, by section 4 of the Receiverships Amendment Act 1994 (1994 No 14).
     
-    Section 28(1): amended, on 1 May 2002, by [section 4(1)][90] of the Receiverships Amendment Act 2001 (2001 No 24).
+    Section 28(1): amended, on 1 May 2002, by [section 4(1)][91] of the Receiverships Amendment Act 2001 (2001 No 24).
     
-    Section 28(1)(aa): inserted, on 1 May 2002, by [section 4(2)][90] of the Receiverships Amendment Act 2001 (2001 No 24).
+    Section 28(1)(a): repealed, on 5 December 2013, by [section 14][72] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 28(1A): inserted, on 1 May 2002, by [section 4(3)][90] of the Receiverships Amendment Act 2001 (2001 No 24).
+    Section 28(1)(aa): inserted, on 1 May 2002, by [section 4(2)][91] of the Receiverships Amendment Act 2001 (2001 No 24).
     
-    Section 28(2): amended, on 1 July 2013, by [section 413][86] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 28(1A): inserted, on 1 May 2002, by [section 4(3)][91] of the Receiverships Amendment Act 2001 (2001 No 24).
+    
+    Section 28(2): amended, on 1 July 2013, by [section 413][87] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 29 Notice of end of receivership
     
@@ -772,7 +782,7 @@ An Act to reform the law relating to receivers
     
     (2) Every person who fails to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Section 29(2): amended, on 1 July 2013, by [section 413][86] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 29(2): amended, on 1 July 2013, by [section 413][87] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 30 Preferential claims
     
@@ -780,9 +790,9 @@ An Act to reform the law relating to receivers
         
     *   (a) is over all or any part of the company's accounts receivable and inventory or all or any part of either of them; and
     
-    *   (b) is not a purchase money security interest that has been perfected at the time specified in [section 74][91] of the Personal Property Securities Act 1999; and
+    *   (b) is not a purchase money security interest that has been perfected at the time specified in [section 74][92] of the Personal Property Securities Act 1999; and
     
-    *   (c) is not a security interest that has been perfected under the [Personal Property Securities Act 1999][92] at the time of the receiver's appointment and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation).
+    *   (c) is not a security interest that has been perfected under the [Personal Property Securities Act 1999][93] at the time of the receiver's appointment and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation).
     
     (2) A receiver to whom this section applies must apply accounts receivable and inventory that are subject to the security interest or their proceeds---
         
@@ -790,13 +800,13 @@ An Act to reform the law relating to receivers
     
     *   (b) secondly, to pay the claims of any person who has---
             
-        *   (i) a purchase money security interest over all or any of those assets, that has been perfected at the time specified in [section 74][91] of the Personal Property Securities Act 1999:
+        *   (i) a purchase money security interest over all or any of those assets, that has been perfected at the time specified in [section 74][92] of the Personal Property Securities Act 1999:
         
-        *   (ii) a security interest over all or any of those assets, that has been perfected under the [Personal Property Securities Act 1999][92] at the time of the receiver's appointment and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); and
+        *   (ii) a security interest over all or any of those assets, that has been perfected under the [Personal Property Securities Act 1999][93] at the time of the receiver's appointment and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); and
         
         
     
-    *   (c) thirdly, to pay preferential claims to the extent and in the order of priority specified in [Schedule 7][61] (except [clauses 1(1)][62] and [2(1)(b)][93]) of the Companies Act 1993\.
+    *   (c) thirdly, to pay preferential claims to the extent and in the order of priority specified in [Schedule 7][61] (except [clauses 1(1)][62] and [2(1)(b)][94]) of the Companies Act 1993\.
     
     (2A) The receiver must apply the accounts receivable and inventory as set out in subsection (2) before paying the claims of any person under a security interest, other than a security interest referred to in subsection (2)(b).
     
@@ -834,27 +844,29 @@ An Act to reform the law relating to receivers
     
     *   (e) the reference to before, or because of, the commencement of the liquidation in [clause 1(2)(b) and (c)][62] is to be read as a reference to before the expiry of 14 days after the date of appointment of the receiver, or because notice of the termination of that employee's employment is lawfully given to the employee within 14 days after the date of appointment of the receiver or by any later date to which the period for giving notice is extended under [section 32(3)][37] of the Receiverships Act 1993\.
     
-    (4) Nothing in this section applies in relation to a grantor in respect of whose property a receiver was appointed before the commencement of this Act and the provisions of section 101 of the Companies Act 1955 shall continue to apply in relation to that grantor notwithstanding the repeal of that section by this Act.
+    (4) \[Repealed\]
     
-    (5) The provisions of this section, as in force immediately before the commencement of the [Personal Property Securities Act 1999][92], continue to apply in respect of a company whose property was subject to a floating charge that, before the commencement of that Act, became a fixed or specific charge.
+    (5) The provisions of this section, as in force immediately before the commencement of the [Personal Property Securities Act 1999][93], continue to apply in respect of a company whose property was subject to a floating charge that, before the commencement of that Act, became a fixed or specific charge.
     
-    Section 30(1): substituted, on 1 May 2002, by [section 5(1)][94] of the Receiverships Amendment Act 2001 (2001 No 24).
+    Section 30(1): substituted, on 1 May 2002, by [section 5(1)][95] of the Receiverships Amendment Act 2001 (2001 No 24).
     
-    Section 30(1)(b): amended, on 1 November 2007, by [section 41][74] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 30(1)(b): amended, on 1 November 2007, by [section 41][75] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 30(1)(c): amended, on 1 November 2007, by [section 41][74] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 30(1)(c): amended, on 1 November 2007, by [section 41][75] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 30(2): substituted, on 1 November 2007, by [section 41][74] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 30(2): substituted, on 1 November 2007, by [section 41][75] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 30(2A): inserted, on 1 November 2007, by [section 41][74] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 30(2A): inserted, on 1 November 2007, by [section 41][75] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 30(2B): inserted, on 1 January 2008, by [section 364(1)][75] of the Property Law Act 2007 (2007 No 91).
+    Section 30(2B): inserted, on 1 January 2008, by [section 364(1)][76] of the Property Law Act 2007 (2007 No 91).
     
-    Section 30(3)(d): added, on 1 November 2007, by [section 41][74] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 30(3)(d): added, on 1 November 2007, by [section 41][75] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 30(3)(e): added, on 1 November 2007, by [section 41][74] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 30(3)(e): added, on 1 November 2007, by [section 41][75] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 30(5): added, on 1 May 2002, by [section 5(3)][94] of the Receiverships Amendment Act 2001 (2001 No 24).
+    Section 30(4): repealed, on 5 December 2013, by [section 14][72] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 30(5): added, on 1 May 2002, by [section 5(3)][95] of the Receiverships Amendment Act 2001 (2001 No 24).
 
 ##### 30A Extinguishment of subordinate security interests
     
@@ -862,17 +874,17 @@ An Act to reform the law relating to receivers
     
     (2) If there is a surplus left after the receiver has disposed of personal property, that surplus must be distributed according to the priorities set out in [section 30B(1) and (2)][33] unless otherwise required by any other law.
     
-    Compare: 1999 No 126 [s 115][95]
+    Compare: 1999 No 126 [s 115][96]
     
-    Section 30A: inserted, on 1 May 2002, by [section 6][96] of the Receiverships Amendment Act 2001 (2001 No 24).
+    Section 30A: inserted, on 1 May 2002, by [section 6][97] of the Receiverships Amendment Act 2001 (2001 No 24).
     
-    Section 30A(2): added, on 15 December 2005 (applying to any surplus referred to in this provision that has not been distributed on that date), by [section 3][97] of the Receiverships Amendment Act 2005 (2005 No 112).
+    Section 30A(2): added, on 15 December 2005 (applying to any surplus referred to in this provision that has not been distributed on that date), by [section 3][98] of the Receiverships Amendment Act 2005 (2005 No 112).
 
 ##### 30B Priorities on distribution by receiver of surplus representing proceeds of personal property
     
 *   (1) A surplus representing the proceeds of personal property must be distributed in the following order:
         
-    *   (a) to any person who has registered a financing statement under the [Personal Property Securities Act 1999][92], or a security interest under any other Act, in the name of the grantor over the property, if---
+    *   (a) to any person who has registered a financing statement under the [Personal Property Securities Act 1999][93], or a security interest under any other Act, in the name of the grantor over the property, if---
             
         *   (i) the registration was effective immediately before the receiver disposed of the property; and
         
@@ -884,13 +896,13 @@ An Act to reform the law relating to receivers
     
     *   (c) to the grantor.
     
-    (2) Priority as between persons referred to in subsection (1)(a), and as between persons referred to in subsection (1)(b), must be determined according to the applicable law (including [Part 7][98] or [Part 8][99] of the Personal Property Securities Act 1999) as if, in the case of persons referred to in subsection (1)(a), their security interests had not been extinguished.
+    (2) Priority as between persons referred to in subsection (1)(a), and as between persons referred to in subsection (1)(b), must be determined according to the applicable law (including [Part 7][99] or [Part 8][100] of the Personal Property Securities Act 1999) as if, in the case of persons referred to in subsection (1)(a), their security interests had not been extinguished.
     
-    (3) If, in the case of a distribution of the surplus to a grantor, the grantor cannot be found after reasonable inquiry by the receiver, the provisions of [section 186(2) to (5)][100] of the Property Law Act 2007 apply with all necessary modifications as if references in that section to ""the mortgagee"" and ""the mortgagor"" were references to ""the receiver"" and ""the grantor"" respectively.
+    (3) If, in the case of a distribution of the surplus to a grantor, the grantor cannot be found after reasonable inquiry by the receiver, the provisions of [section 186(2) to (5)][101] of the Property Law Act 2007 apply with all necessary modifications as if references in that section to ""the mortgagee"" and ""the mortgagor"" were references to ""the receiver"" and ""the grantor"" respectively.
     
-    Section 30B: inserted, on 15 December 2005 (applying to any surplus referred to in this provision that has not been distributed on that date), by [section 4][101] of the Receiverships Amendment Act 2005 (2005 No 112).
+    Section 30B: inserted, on 15 December 2005 (applying to any surplus referred to in this provision that has not been distributed on that date), by [section 4][102] of the Receiverships Amendment Act 2005 (2005 No 112).
     
-    Section 30B(3): amended, on 1 January 2008, by [section 364(1)][75] of the Property Law Act 2007 (2007 No 91).
+    Section 30B(3): amended, on 1 January 2008, by [section 364(1)][76] of the Property Law Act 2007 (2007 No 91).
 
 ##### 30C Surplus may be paid into court
     
@@ -898,7 +910,7 @@ An Act to reform the law relating to receivers
     
     (2) The surplus may only be paid out on an application by the receiver or by a person claiming an entitlement to the surplus.
     
-    Section 30C: inserted, on 15 December 2005 (applying to any surplus referred to in this provision that has not been distributed on that date), by [section 4][101] of the Receiverships Amendment Act 2005 (2005 No 112).
+    Section 30C: inserted, on 15 December 2005 (applying to any surplus referred to in this provision that has not been distributed on that date), by [section 4][102] of the Receiverships Amendment Act 2005 (2005 No 112).
 
 ##### 30D Meaning of surplus and net proceeds
     
@@ -916,7 +928,7 @@ An Act to reform the law relating to receivers
     
     *   (c) any other preferential claims or priority claims according to law.
     
-    Section 30D: inserted, on 15 December 2005 (applying to any surplus referred to in this provision that has not been distributed on that date), by [section 4][101] of the Receiverships Amendment Act 2005 (2005 No 112).
+    Section 30D: inserted, on 15 December 2005 (applying to any surplus referred to in this provision that has not been distributed on that date), by [section 4][102] of the Receiverships Amendment Act 2005 (2005 No 112).
 
 ##### 31 Powers of receiver on liquidation or bankruptcy
     
@@ -924,7 +936,7 @@ An Act to reform the law relating to receivers
         
     *   (a) a company that is being wound up or that has been put into liquidation; or
     
-    *   (b) a debtor who has been adjudged bankrupt under the [Insolvency Act 2006][102]---
+    *   (b) a debtor who has been adjudged bankrupt under the [Insolvency Act 2006][103]---
     
     unless the court orders otherwise.
     
@@ -938,7 +950,7 @@ An Act to reform the law relating to receivers
     
     (4) A debt or liability incurred by a grantor through the acts of a receiver who is acting as the agent of the grantor in accordance with subsection (2) is not a cost, charge or expense of the liquidation or the administration of the bankrupt's estate.
     
-    Section 31(1)(b): amended, on 3 December 2007, by [section 445][73] of the Insolvency Act 2006 (2006 No 55).
+    Section 31(1)(b): amended, on 3 December 2007, by [section 445][74] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 32 Liabilities of receiver
     
@@ -1168,7 +1180,7 @@ An Act to reform the law relating to receivers
     
     (9) A copy of every order made under subsection (6) must, within 14 days of the order being made, be delivered by the applicant to the Official Assignee for New Zealand who must keep it on a public file indexed by reference to the name of the receiver concerned.
     
-    Section 37(1)(i): amended, on 7 July 2010, by [section 10][103] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    Section 37(1)(i): amended, on 7 July 2010, by [section 10][104] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
 
 ##### 38 Special provisions relating to evidence
     
@@ -1176,9 +1188,9 @@ An Act to reform the law relating to receivers
         
     *   (a) the court has, in relation to that person, on 2 or more occasions made an order to comply under [section 37][42]; or
     
-    *   (b) the court has, in relation to that person, on 2 or more occasions made an order to comply under [section 286][79] of the Companies Act 1993; or
+    *   (b) the court has, in relation to that person, on 2 or more occasions made an order to comply under [section 286][80] of the Companies Act 1993; or
     
-    *   (c) the court has, in relation to that person, made 1 or more orders to comply under [section 37][42] and has also made 1 or more orders to comply under [section 286][79] of the Companies Act 1993,---
+    *   (c) the court has, in relation to that person, made 1 or more orders to comply under [section 37][42] and has also made 1 or more orders to comply under [section 286][80] of the Companies Act 1993,---
     
     is, in the absence of special reasons to the contrary, evidence of persistent failures to comply for the purposes of [section 37(6)(a)][42].
     
@@ -1186,9 +1198,9 @@ An Act to reform the law relating to receivers
         
     *   (a) 2 or more applications for an order to comply under [section 37][42] were made in relation to that person; or
     
-    *   (b) 2 or more applications for an order to comply under [section 286][79] of the Companies Act 1993 were made in relation to that person; or
+    *   (b) 2 or more applications for an order to comply under [section 286][80] of the Companies Act 1993 were made in relation to that person; or
     
-    *   (c) 1 or more applications for an order to comply under [section 37][42] and 1 or more applications for an order to comply under [section 286][79] of the Companies Act 1993 were made in relation to that person---
+    *   (c) 1 or more applications for an order to comply under [section 37][42] and 1 or more applications for an order to comply under [section 286][80] of the Companies Act 1993 were made in relation to that person---
     
     and, in each case, the person has complied after the making of the application and before the hearing is, in the absence of special reasons to the contrary, evidence of persistent failures to comply for the purposes of [section 37(6)(a)][42].
 
@@ -1228,19 +1240,19 @@ An Act to reform the law relating to receivers
 
 #### Local authorities
     
-*   Heading: inserted, on 1 July 2003, by [section 262][72] of the Local Government Act 2002 (2002 No 84).
+*   Heading: inserted, on 1 July 2003, by [section 262][73] of the Local Government Act 2002 (2002 No 84).
 
 ##### 40A Instrument may provide for appointment of receiver
     
-*   Subject to the [Personal Property Securities Act 1999][92], and without limiting any other rights or remedies of the holder of a charge over any asset of a local authority, an instrument creating or evidencing the terms and conditions of the charge may provide for the appointment of a receiver of such assets in such terms as the parties may agree and the holder of that charge may exercise any such other rights or use any such other remedies.
+*   Subject to the [Personal Property Securities Act 1999][93], and without limiting any other rights or remedies of the holder of a charge over any asset of a local authority, an instrument creating or evidencing the terms and conditions of the charge may provide for the appointment of a receiver of such assets in such terms as the parties may agree and the holder of that charge may exercise any such other rights or use any such other remedies.
     
-    Compare: 1974 No 123 [s 122ZL(1)][104]
+    Compare: 1974 No 123 [s 122ZL(1)][105]
     
-    Section 40A: inserted, on 1 July 2003, by [section 262][72] of the Local Government Act 2002 (2002 No 84).
+    Section 40A: inserted, on 1 July 2003, by [section 262][73] of the Local Government Act 2002 (2002 No 84).
 
 ##### 40B Power of court to appoint receiver
     
-*   (1) Subject to [sections 40D][50] and [40E][51] and to subsections (2) and (3), the High Court may, on the application of any creditor of the local authority, appoint a receiver of any asset of a local authority or appoint a receiver for the purposes of [section 115][105] of the Local Government Act 2002\.
+*   (1) Subject to [sections 40D][50] and [40E][51] and to subsections (2) and (3), the High Court may, on the application of any creditor of the local authority, appoint a receiver of any asset of a local authority or appoint a receiver for the purposes of [section 115][106] of the Local Government Act 2002\.
     
     (2) An appointment under subsection (1) must be for such period, with such rights, powers, and duties, and on such terms and conditions, including as to security and remuneration, as the court considers appropriate in all the circumstances.
     
@@ -1260,9 +1272,9 @@ An Act to reform the law relating to receivers
     
     *   (b) take account of the interests of secured creditors as against the interests of non-secured creditors of the local authority.
     
-    Compare: 1974 No 123 [s 122ZL(2), (3)][104]
+    Compare: 1974 No 123 [s 122ZL(2), (3)][105]
     
-    Section 40B: inserted, on 1 July 2003, by [section 262][72] of the Local Government Act 2002 (2002 No 84).
+    Section 40B: inserted, on 1 July 2003, by [section 262][73] of the Local Government Act 2002 (2002 No 84).
 
 ##### 40C Powers and duties of receivers
     
@@ -1274,11 +1286,11 @@ An Act to reform the law relating to receivers
         
     *   (a) the rates or other revenues so charged vest in the receiver; and
     
-    *   (b) all powers necessary for the recovery of rates levied under [section 115][105] of the Local Government Act 2002 or other revenues are conferred on, and may be exercised by, the receiver.
+    *   (b) all powers necessary for the recovery of rates levied under [section 115][106] of the Local Government Act 2002 or other revenues are conferred on, and may be exercised by, the receiver.
     
-    Compare: 1974 No 66 [s 122ZM][106]
+    Compare: 1974 No 66 [s 122ZM][107]
     
-    Section 40C: inserted, on 1 July 2003, by [section 262][72] of the Local Government Act 2002 (2002 No 84).
+    Section 40C: inserted, on 1 July 2003, by [section 262][73] of the Local Government Act 2002 (2002 No 84).
 
 ##### 40D Constraints on receiver
     
@@ -1314,7 +1326,7 @@ An Act to reform the law relating to receivers
     
     (5) Subject to subsection (6), if any land vested in a local authority is---
         
-    *   (a) a reserve under the [Reserves Act 1977][107]; or
+    *   (a) a reserve under the [Reserves Act 1977][108]; or
     
     *   (b) land over which the local authority has no power of disposition; or
     
@@ -1324,9 +1336,9 @@ An Act to reform the law relating to receivers
     
     (6) The powers of disposition that a receiver has in respect of any land of the kind described in subsection (5)(c) comprise, in addition to the power specified in subsection (5), the same conditional power of disposition as the local authority.
     
-    Compare: 1974 No 123 [s 122ZN][108]
+    Compare: 1974 No 123 [s 122ZN][109]
     
-    Section 40D: inserted, on 1 July 2003, by [section 262][72] of the Local Government Act 2002 (2002 No 84).
+    Section 40D: inserted, on 1 July 2003, by [section 262][73] of the Local Government Act 2002 (2002 No 84).
 
 ##### 40E Protection for receiver
     
@@ -1348,9 +1360,9 @@ An Act to reform the law relating to receivers
     
     (5) Nothing in this section limits or affects the provisions of [sections 19][20] and [20][21].
     
-    Compare: 1974 No 123 [s 122ZO][109]
+    Compare: 1974 No 123 [s 122ZO][110]
     
-    Section 40E: inserted, on 1 July 2003, by [section 262][72] of the Local Government Act 2002 (2002 No 84).
+    Section 40E: inserted, on 1 July 2003, by [section 262][73] of the Local Government Act 2002 (2002 No 84).
 
 ##### 41 Repeals
     
@@ -1362,15 +1374,15 @@ An Act to reform the law relating to receivers
 
 ##### 42 Act subject to application of Cape Town Convention and Aircraft Protocol
     
-*   (1) [Sections 17][18] and [30][31] and all other provisions of this Act are subject to [section 106][110] of the Civil Aviation Act 1990 (which provides for the primacy of the provisions of the Cape Town Convention and the Aircraft Protocol) and the rest of [Part 12][111] of the Civil Aviation Act 1990 (which implements the Cape Town Convention and the Aircraft Protocol).
+*   (1) [Sections 17][18] and [30][31] and all other provisions of this Act are subject to [section 106][111] of the Civil Aviation Act 1990 (which provides for the primacy of the provisions of the Cape Town Convention and the Aircraft Protocol) and the rest of [Part 12][112] of the Civil Aviation Act 1990 (which implements the Cape Town Convention and the Aircraft Protocol).
     
     (2) In this section,---
     
-    _Aircraft Protocol_ has the same meaning as in [section 104(1)][112] of the Civil Aviation Act 1990
+    _Aircraft Protocol_ has the same meaning as in [section 104(1)][113] of the Civil Aviation Act 1990
     
-    _Cape Town Convention_ has the same meaning as in [section 104(1)][112] of the Civil Aviation Act 1990\.
+    _Cape Town Convention_ has the same meaning as in [section 104(1)][113] of the Civil Aviation Act 1990\.
     
-    Section 42: added, on 1 November 2010, by [section 14(1)][113] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 42: added, on 1 November 2010, by [section 14(1)][114] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
 
 ---
 
@@ -1379,7 +1391,7 @@ Modifications and exceptions that apply in relation to receivers of assets of lo
 
 [s 40C(2)][49]
 
-*   Schedule: added, on 1 July 2003, by [section 265][114] of the Local Government Act 2002 (2002 No 84).
+*   Schedule: added, on 1 July 2003, by [section 265][115] of the Local Government Act 2002 (2002 No 84).
 
 ##### 1 Application of modifications and exceptions
     
@@ -1389,29 +1401,29 @@ Modifications and exceptions that apply in relation to receivers of assets of lo
     
 *   Every reference to a director or the directors must be read as if it were a reference to a member or the members of the local authority.
     
-    Compare: 1974 No 123 [s 122ZM(2)(a)][106]
+    Compare: 1974 No 123 [s 122ZM(2)(a)][107]
 
 ##### 3 References to liquidator
     
 *   Every reference to a liquidator, except the reference in [section 30(3)][31], must be read as if it were a reference to a Commission appointed under section 258F of the Local Government Act 2002\.
     
-    Compare: 1974 No 123 [s 122ZM(2)(b)][106]
+    Compare: 1974 No 123 [s 122ZM(2)(b)][107]
     
-    Schedule clause 3: amended, on 5 December 2012, by [section 43][115] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Schedule clause 3: amended, on 5 December 2012, by [section 43][116] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 4 References to liquidation
     
 *   Every reference to a liquidation, except the references in [section 30(3)][31], must be read as if it were a reference to a Commission appointed under section 258F of the Local Government Act 2002\.
     
-    Compare: 1974 No 123 [s 122ZM(2)(c)][106]
+    Compare: 1974 No 123 [s 122ZM(2)(c)][107]
     
-    Schedule clause 4: amended, on 5 December 2012, by [section 43][115] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Schedule clause 4: amended, on 5 December 2012, by [section 43][116] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 5 References to Registrar
     
 *   Every reference to the Registrar must be read as if it were a reference to the Registrar of Companies.
     
-    Compare: 1974 No 123 [s 122ZM(2)(d)][106]
+    Compare: 1974 No 123 [s 122ZM(2)(d)][107]
 
 ##### 6 Persons disqualified for appointment
     
@@ -1419,49 +1431,49 @@ Modifications and exceptions that apply in relation to receivers of assets of lo
         
     *   (a) any person specified in [section 5(1)][6]:
     
-    *   (b) any person disqualified by [section 3][116] of the Local Authorities (Members' Interests) Act 1968 or [clause 1][117] of Schedule 7 of the Local Government Act 2002 from holding office as a member of the local authority.
+    *   (b) any person disqualified by [section 3][117] of the Local Authorities (Members' Interests) Act 1968 or [clause 1][118] of Schedule 7 of the Local Government Act 2002 from holding office as a member of the local authority.
     
-    Compare: 1974 No 123 [s 122ZM(2)(e)][106]
+    Compare: 1974 No 123 [s 122ZM(2)(e)][107]
 
 ##### 7 Exception in relation to obligations of grantor
     
 *   The obligation of a local authority to comply with [section 12][13] is subject to [section 40D(4)][50], in that a local authority may only be required to comply with [section 12][13] to the extent that any such compliance will not, in the reasonable opinion of the local authority, interfere with the local authority's ability to exercise or perform its rights, powers, and duties in relation to those assets not charged in favour of the appointor of the receiver or not the subject of the receivership.
     
-    Compare: 1974 No 123 [s 122ZM(2)(f)][106]
+    Compare: 1974 No 123 [s 122ZM(2)(f)][107]
 
 ##### 8 Exception in relation to execution of documents
     
 *   [Section 13][14] is subject to [section 40D(4)][50], in that the power of the receiver to execute documents in the name of and on behalf of a local authority, and to use any common seal of a local authority, may be exercised only in relation to assets charged in favour of the appointor of the receiver.
     
-    Compare: 1974 No 123 [s 122ZM(2)(g)][106]
+    Compare: 1974 No 123 [s 122ZM(2)(g)][107]
 
 ##### 9 Section 15 (which relates to power to make calls on shares) not to apply
     
 *   [Section 15][16] does not apply.
     
-    Compare: 1974 No 123 [s 122ZM(2)(h)][106]
+    Compare: 1974 No 123 [s 122ZM(2)(h)][107]
 
 ##### 10 Modification of general duties imposed by section 18
     
 *   The general duties imposed on receivers by [section 18][19] are subject to the constraints imposed on receivers by [section 40D(1)][50].
     
-    Compare: 1974 No 123 [s 122ZM(2)(i)][106]
+    Compare: 1974 No 123 [s 122ZM(2)(i)][107]
 
 ##### 11 Modifications in relation to reports by receiver
     
-*   (1) Nothing in [sections 23][24] and [24][25] requires a receiver to include in any report any information that could be properly withheld if the [Local Government Official Information and Meetings Act 1987][118] applied to that report.
+*   (1) Nothing in [sections 23][24] and [24][25] requires a receiver to include in any report any information that could be properly withheld if the [Local Government Official Information and Meetings Act 1987][119] applied to that report.
     
     (2) If the receiver prepares a report under [section 23][24] or [section 24][25], the receiver must make that report available for public inspection at the offices and libraries of the relevant local authority and must make copies of any such report available to the public free of charge or at a reasonable charge.
     
     (3) [Section 26(1)][27] applies as if it required the receiver to send a copy of every report prepared under [section 23][24] or [section 24][25] to the Secretary for Local Government, the Controller and Auditor-General, and the Parliamentary Library.
     
-    Compare: 1974 No 123 [s 122ZM(2)(j)--(l)][106]
+    Compare: 1974 No 123 [s 122ZM(2)(j)--(l)][107]
 
 ##### 12 Reporting of offences
     
-*   The obligation imposed on a receiver by [section 28][29] to report any offence that the receiver considers has been committed against any of the Acts specified in that section includes, in addition, an obligation to report any offence that the receiver considers has been committed against the [Local Government Act 2002][59] or the [Local Authorities (Members' Interests) Act 1968][119].
+*   The obligation imposed on a receiver by [section 28][29] to report any offence that the receiver considers has been committed against any of the Acts specified in that section includes, in addition, an obligation to report any offence that the receiver considers has been committed against the [Local Government Act 2002][59] or the [Local Authorities (Members' Interests) Act 1968][120].
     
-    Compare: 1974 No 123 [s 122ZM(2)(m)][106]
+    Compare: 1974 No 123 [s 122ZM(2)(m)][107]
 
 ##### 13 Exceptions in relation to preferential claims
     
@@ -1469,120 +1481,79 @@ Modifications and exceptions that apply in relation to receivers of assets of lo
     
     (2) [Section 30(4)][31] does not apply.
     
-    Compare: 1974 No 123 [s 122ZM(2)(n), (o)][106]
+    Compare: 1974 No 123 [s 122ZM(2)(n), (o)][107]
 
 ##### 14 Section 31 (which relates to liquidation or bankruptcy) does not apply
     
 *   [Section 31][36] does not apply.
     
-    Compare: 1974 No 123 [s 122ZM(2)(p)][106]
+    Compare: 1974 No 123 [s 122ZM(2)(p)][107]
 
 ##### 15 Exception in relation to Commissioners and commission
     
-*   If a Commissioner of a local authority is or has been appointed under [section 255][120] or [section 258][121] of the Local Government Act 2002 or if a commission has been appointed under [clause 14][122] of Schedule 15 of that Act (either before or after the appointment of a receiver in respect of some or all of the assets or rates of that local authority under [section 40A][47] or [section 40B(1)][48]), the High Court may order that any receiver so appointed may not, until the High Court so orders, exercise any of the rights, powers, and duties of a receiver.
+*   If a Commissioner of a local authority is or has been appointed under [section 255][121] or [section 258][122] of the Local Government Act 2002 or if a commission has been appointed under [clause 14][123] of Schedule 15 of that Act (either before or after the appointment of a receiver in respect of some or all of the assets or rates of that local authority under [section 40A][47] or [section 40B(1)][48]), the High Court may order that any receiver so appointed may not, until the High Court so orders, exercise any of the rights, powers, and duties of a receiver.
     
-    Compare: 1974 No 123 [s 122ZM(2)(q)][106]
+    Compare: 1974 No 123 [s 122ZM(2)(q)][107]
 
 ##### 16 Power of Secretary for Local Government and Controller and Auditor-General to make certain applications
     
 *   [Sections 34(3)][39], [35(2)][40], and [37(1)][42] apply as if the Secretary for Local Government and the Controller and Auditor-General were specified in those sections as persons entitled to make applications under those sections.
     
-    Compare: 1974 No 123 [s 122ZM(2)(r)][106]
+    Compare: 1974 No 123 [s 122ZM(2)(r)][107]
 
 ##### 17 Section 41 (which relates to repeals) not to apply
     
 *   [Section 41][52] does not apply.
     
-    Compare: 1974 No 123 [s 122ZM(2)(s)][106]
+    Compare: 1974 No 123 [s 122ZM(2)(s)][107]
 
 ##### 18 Copies of documents
     
 *   Copies of the documents required by [sections 8(3)][9], [11(4)][12], [28(1)][29], and [29(1)][30] to be sent to the Registrar must be sent to the Secretary for Local Government and to the Controller and Auditor-General.
     
-    Compare: 1974 No 123 [s 122ZM(2)(t)][106]
+    Compare: 1974 No 123 [s 122ZM(2)(t)][107]
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Receiverships Act 1993\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][123] ![](/images/external_link.gif).
+*   This is a reprint of the Receiverships Act 1993 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][124] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][124] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][125] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][125] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][126] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][127] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][126] and [17E][127] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][72]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Local Government Act 2002 Amendment Act 2012 (2012 No 93): [section 43][116]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][87]
     
+    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][104]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42): [section 14(1)][114]
     
-*   Local Government Act 2002 Amendment Act 2012 (2012 No 93): [section 43][115]
+    Property Law Act 2007 (2007 No 91): [section 364(1)][76]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][86]
+    Companies Amendment Act 2006 (2006 No 56): [section 41][75]
     
-    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][103]
+    Insolvency Act 2006 (2006 No 55): [section 445][74]
     
-    Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42): [section 14(1)][113]
-    
-    Property Law Act 2007 (2007 No 91): [section 364(1)][75]
-    
-    Companies Amendment Act 2006 (2006 No 56): [section 41][74]
-    
-    Insolvency Act 2006 (2006 No 55): [section 445][73]
-    
-    Securities Amendment Act 2006 (2006 No 46): [section 25][85]
+    Securities Amendment Act 2006 (2006 No 46): [section 25][86]
     
     [Receiverships Amendment Act 2005][128] (2005 No 112)
     
-    Local Government Act 2002 (2002 No 84): [sections 262][72], [265][114]
+    Local Government Act 2002 (2002 No 84): [sections 262][73], [265][115]
     
     [Receiverships Amendment Act 2001][129] (2001 No 24)
     
@@ -1590,7 +1561,7 @@ Modifications and exceptions that apply in relation to receivers of assets of lo
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1993/0122/latest/whole.html#DLM327643
 [2]: http://www.legislation.govt.nz/act/public/1993/0122/latest/whole.html#DLM327645
 [3]: http://www.legislation.govt.nz/act/public/1993/0122/latest/whole.html#DLM327646
@@ -1662,61 +1633,61 @@ Modifications and exceptions that apply in relation to receivers of assets of lo
 [69]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM46165
 [70]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM46187
 [71]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM91082
-[72]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM174088
-[73]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM387857
-[74]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM389298
-[75]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM969644
-[76]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM263029
-[77]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM127009
-[78]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM127010
-[79]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM321964
-[80]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM319569
-[81]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM25999
-[82]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM139726
-[83]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM325508
-[84]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM387531
-[85]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM383050
-[86]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM3360714
-[87]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM320845
-[88]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM327381
-[89]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM323597
-[90]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM91097
-[91]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM46737
-[92]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM45599
-[93]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM323547
-[94]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM91098
-[95]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM47110
-[96]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM91099
-[97]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM362283
-[98]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM46724
-[99]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM46763
-[100]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM969369
-[101]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM362284
-[102]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM385298
-[103]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM3043113
-[104]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM418722
-[105]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM172396
-[106]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM418725
-[107]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM444304
-[108]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM418728
-[109]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM418732
-[110]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM3378214
-[111]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM3378654
-[112]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM3378200
-[113]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM3005756
-[114]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM174091
-[115]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM4499305
-[116]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM390021
-[117]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM175646
-[118]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM122241
-[119]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM390002
-[120]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM174077
-[121]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM174081
-[122]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM176421
-[123]: http://www.pco.parliament.govt.nz/reprints/
-[124]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM195439
-[125]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[126]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM195468
-[127]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM195470
+[72]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM5620822
+[73]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM174088
+[74]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM387857
+[75]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM389298
+[76]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM969644
+[77]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM263029
+[78]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM127009
+[79]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM127010
+[80]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM321964
+[81]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM319569
+[82]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM25999
+[83]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM139726
+[84]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM325508
+[85]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM387531
+[86]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM383050
+[87]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM3360714
+[88]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM320845
+[89]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM327381
+[90]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM323597
+[91]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM91097
+[92]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM46737
+[93]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM45599
+[94]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM323547
+[95]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM91098
+[96]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM47110
+[97]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM91099
+[98]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM362283
+[99]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM46724
+[100]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM46763
+[101]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM969369
+[102]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM362284
+[103]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM385298
+[104]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM3043113
+[105]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM418722
+[106]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM172396
+[107]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM418725
+[108]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM444304
+[109]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM418728
+[110]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM418732
+[111]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM3378214
+[112]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM3378654
+[113]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM3378200
+[114]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM3005756
+[115]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM174091
+[116]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM4499305
+[117]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM390021
+[118]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM175646
+[119]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM122241
+[120]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM390002
+[121]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM174077
+[122]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM174081
+[123]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM176421
+[124]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM2998516
+[125]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM2998515
+[126]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM2998532
+[127]: http://www.pco.parliament.govt.nz/editorial-conventions/
 [128]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM362277
 [129]: http://www.legislation.govt.nz/act/public/1993/0122/latest/link.aspx?id=DLM91076
