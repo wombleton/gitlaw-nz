@@ -1185,7 +1185,7 @@ Subordinate legislation: Disallowable instruments and incorporation of material 
         
     *   (a) means any instrument (whether called regulations, rules, an Order in Council, a notice, bylaws, a code, a framework, or by any other name) that has legislative effect and that is authorised by an enactment; but
     
-    *   (b) [does not include a bylaw that is subject to the Bylaws Act 1910][141]
+    *   (b) does not include a bylaw that is subject to the [Bylaws Act 1910][141]
     
     _material_ means---
         
