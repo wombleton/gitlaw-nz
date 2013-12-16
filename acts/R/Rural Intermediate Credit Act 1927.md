@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 5 December 2013
 
 # Rural Intermediate Credit Act 1927Public Act1927 No 45
 
@@ -9,9 +9,7 @@ Date of assent23 November 1927
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this eprint.
-
-A general outline of these changes is set out in the notes at the end of this eprint, together with other explanatory material about this eprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this eprint. See the notes at the end of this eprint for further details.
 
 ---
 
@@ -506,7 +504,7 @@ Co-operative rural intermediate credit associations
     
     (4) No fees shall be charged by the Registrar in respect of any matter or thing arising out of the requirements of this section.
     
-    (5) The Registrar shall keep as part of the Register of Companies under the Companies Act 1955 or the [Companies Act 1993][97], as the case may be, but in a separate list, a register of all associations registered under this Part of the Act.
+    (5) The Registrar shall keep as part of the Register of Companies under the [Companies Act 1993][97], but in a separate list, a register of all associations registered under this Part of the Act.
     
     Section 42(1): amended, on 1 July 1994, by [section 2][98] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
@@ -516,7 +514,7 @@ Co-operative rural intermediate credit associations
     
     Section 42(4): amended, on 1 January 1972, by [section 100][99] of the Stamp and Cheque Duties Act 1971 (1971 No 51).
     
-    Section 42(5): amended, on 1 July 1994, by [section 2][98] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 42(5): amended, on 5 December 2013, by [section 14][100] of the Companies Amendment Act 2013 (2013 No 111).
 
 #### Proceedings subsequent to incorporation
 
@@ -554,13 +552,11 @@ Co-operative rural intermediate credit associations
     
     (2) Every such association, when required by the Corporation so to do, shall by resolution adopt such regulations or bylaws, with such variations (if any) as may be approved by the Corporation, having regard in any particular case to the special circumstances of the association.
     
-    (3) Notwithstanding anything to the contrary in the Companies Act 1955 or the [Companies Act 1993][97], as the case may be, the regulations of an association incorporated under this Act shall not come into force or be amended except with the approval of the Corporation.
+    (3) Despite anything to the contrary in the [Companies Act 1993][97], the regulations of an association incorporated under this Act may not come into force or be amended except with the approval of the Corporation.
     
     Section 47: amended, on 1 October 1946, by [section 11][96] of the Rural Intermediate Credit Amendment Act 1946 (1946 No 5).
     
-    Section 47(3): amended, on 1 July 1994, by [section 2][98] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
-    
-    Section 47(3): amended, on 1 January 1957, pursuant to section 474(1) of the Companies Act 1955 (1955 No 63).
+    Section 47(3): replaced, on 5 December 2013, by [section 14][100] of the Companies Amendment Act 2013 (2013 No 111).
 
 #### Objects of associations
 
@@ -592,31 +588,25 @@ Co-operative rural intermediate credit associations
         
     *   (a) fixed from time to time by the Minister by notice in the _Gazette_; or
     
-    *   (b) 10 times the amount,---
-            
-        *   (i) in the case of a company registered under the Companies Act 1955, of the nominal value of the person's shares in the association; or
-        
-        *   (ii) in the case of a company registered under the [Companies Act 1993][97], owing under the constitution of the association or the terms of issue for that person's shares in the association,---
-        
-        
+    *   (b) 10 times the amount owing under the constitution of the association or the terms of issue for that person's shares in the association,---
     
     whichever is the lesser.
     
     Section 50: replaced, on 1 July 1994, by [section 2][98] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    
+    Section 50(b): replaced, on 5 December 2013, by [section 14][100] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 51 Applications for loans by persons other than shareholders
     
-*   (1) If application for a loan is made to an association by any person who is not a member or shareholder of the association, such application shall be deemed to include an application for shares in the association,---
-        
-    *   (a) in the case of a company registered under the Companies Act 1955, of a nominal value equal to 10 percent of the amount of the loan; or
+*   (1) If application for a loan is made to an association by any person who is not a member or shareholder of the association, the application is deemed to include an application for shares in the association on which the amount payable under the constitution or by the terms of issue equals 10% of the amount of the loan, but in no case less than 25 shares.
     
-    *   (b) in the case of a company registered under the [Companies Act 1993][97], on which the amount payable under the constitution or by the terms of issue equals 10 percent of the amount of the loan,---
-    
-    but in no case less than 25 shares.
-    
-    (2) Before any such application is approved the applicant shall be required to pay to the association in respect of his or her shares an amount not less than 5 percent of the nominal value of the shares or the amount payable under the constitution or by the terms of issue, as the case may be.
+    (2) Before any such application is approved the applicant shall be required to pay to the association in respect of his or her shares an amount not less than 5 percent of the amount payable under the constitution or by the terms of issue, as the case may be.
     
     Section 51: replaced, on 1 July 1994, by [section 2][98] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    
+    Section 51(1): replaced, on 5 December 2013, by [section 14][100] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 51(2): amended, on 5 December 2013, by [section 14][100] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 52 Procedure on application for loans under this Part
     
@@ -646,13 +636,13 @@ Co-operative rural intermediate credit associations
     
     Section 52(7): amended, on 1 October 1946, by [section 11][96] of the Rural Intermediate Credit Amendment Act 1946 (1946 No 5).
     
-    Section 52(9): amended, on 10 August 1978, by [section 2(1)][100] of the Rural Intermediate Credit Amendment Act 1978 (1978 No 14).
+    Section 52(9): amended, on 10 August 1978, by [section 2(1)][101] of the Rural Intermediate Credit Amendment Act 1978 (1978 No 14).
 
 ##### 52A Terms and conditions of loans
     
 *   Every loan granted under this Act by the Corporation or an association may be made repayable upon demand or by such instalments at such times and generally upon such conditions as the Corporation or the association, with the consent of the Corporation, thinks fit.
     
-    Section 52A: inserted, on 10 August 1978, by [section 3(1)][101] of the Rural Intermediate Credit Amendment Act 1978 (1978 No 14).
+    Section 52A: inserted, on 10 August 1978, by [section 3(1)][102] of the Rural Intermediate Credit Amendment Act 1978 (1978 No 14).
 
 ##### 53 Application of money repaid
     
@@ -672,7 +662,7 @@ Co-operative rural intermediate credit associations
     
     Section 54(1): amended, on 1 October 1946, by [section 11][96] of the Rural Intermediate Credit Amendment Act 1946 (1946 No 5).
     
-    Section 54(1) proviso: inserted, on 1 October 1946, by [section 8][102] of the Rural Intermediate Credit Amendment Act 1946 (1946 No 5).
+    Section 54(1) proviso: inserted, on 1 October 1946, by [section 8][103] of the Rural Intermediate Credit Amendment Act 1946 (1946 No 5).
 
 ##### 55 Application of profits
     
@@ -702,7 +692,7 @@ Co-operative rural intermediate credit associations
     
     Section 56(1): amended, on 1 October 1946, by [section 11][96] of the Rural Intermediate Credit Amendment Act 1946 (1946 No 5).
     
-    Section 56(1) second proviso: inserted, on 1 October 1946, by [section 9][103] of the Rural Intermediate Credit Amendment Act 1946 (1946 No 5).
+    Section 56(1) second proviso: inserted, on 1 October 1946, by [section 9][104] of the Rural Intermediate Credit Amendment Act 1946 (1946 No 5).
 
 ##### 57 Transfer of shares
     
@@ -716,9 +706,11 @@ Co-operative rural intermediate credit associations
 
 ##### 59 Exemption from company fees
     
-*   Every association under this Part of this Act is exempt from all fees payable by companies under the Companies Act 1955 or the [Companies Act 1993][97], as the case may be.
+*   Every association under this Part of this Act is exempt from all fees payable by companies under [the Companies Act 1993][97].
     
     Section 59: replaced, on 1 July 1994, by [section 2][98] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    
+    Section 59: amended, on 5 December 2013, by [section 14][100] of the Companies Amendment Act 2013 (2013 No 111).
 
 ## Part 3  
 Advances to farmers without intervention of associations
@@ -805,13 +797,13 @@ Miscellaneous
     
 *   \[Repealed\]
     
-    Section 72: repealed, on 1 January 1972, by [section 101(1)][104] of the Stamp and Cheque Duties Act 1971 (1971 No 51).
+    Section 72: repealed, on 1 January 1972, by [section 101(1)][105] of the Stamp and Cheque Duties Act 1971 (1971 No 51).
 
 ##### 73 When securities over chattels may take priority over existing securities
     
-*   Despite anything to the contrary in the [Personal Property Securities Act 1999][105], any security interest within the meaning of that Act given for the purpose of securing a loan granted by the Corporation, or by any association under this Act, has priority over any security interest that has previously been perfected by registration (as defined in that Act), comprising in whole or in part any of the same chattels, as regards the title to or right to the possession of those chattels, if the secured party under the previously perfected security interest agrees that the security interest given for the purposes of this Act has priority over the previously perfected security interest.
+*   Despite anything to the contrary in the [Personal Property Securities Act 1999][106], any security interest within the meaning of that Act given for the purpose of securing a loan granted by the Corporation, or by any association under this Act, has priority over any security interest that has previously been perfected by registration (as defined in that Act), comprising in whole or in part any of the same chattels, as regards the title to or right to the possession of those chattels, if the secured party under the previously perfected security interest agrees that the security interest given for the purposes of this Act has priority over the previously perfected security interest.
     
-    Section 73: replaced, on 1 May 2002, by [section 191(1)][106] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 73: replaced, on 1 May 2002, by [section 191(1)][107] of the Personal Property Securities Act 1999 (1999 No 126).
 
 ##### 74 Books of associations, etc, to be open for inspection by officers of Corporation
     
@@ -821,7 +813,7 @@ Miscellaneous
     
     Section 74(1): amended, on 1 October 1946, by [section 11][96] of the Rural Intermediate Credit Amendment Act 1946 (1946 No 5).
     
-    Section 74(2): amended, on 1 July 2013, by [section 413][107] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 74(2): amended, on 1 July 2013, by [section 413][108] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 75 Annual report by District Intermediate Credit Supervisor
     
@@ -839,7 +831,7 @@ Miscellaneous
     
 *   \[Repealed\]
     
-    Section 77: repealed, on 1 October 1946, by [section 10(4)][108] of the Rural Intermediate Credit Amendment Act 1946 (1946 No 5).
+    Section 77: repealed, on 1 October 1946, by [section 10(4)][109] of the Rural Intermediate Credit Amendment Act 1946 (1946 No 5).
 
 ##### 78 Repeal
     
@@ -853,35 +845,29 @@ Miscellaneous
     
 *   Schedule: repealed, on 1 July 1994, by [section 2][98] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
 
----
-
-#### Contents
-    
-*   1General
-*   2About this eprint
-*   3List of amendments incorporated in this eprint (most recent first) 
+#### 
 
 ---
 
-##### Notes
+##### Eprint notes
 
 ###### 1 General
     
-*   This is an eprint of the Rural Intermediate Credit Act 1927\. The eprint incorporates all the amendments to the Act as at 1 July 2013\. The list of amendments at the end of these notes specifies all the amendments incorporated into this eprint since 3 September 2007\.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the eprint are also included, after the principal enactment, in chronological order.
+*   This is an eprint of the Rural Intermediate Credit Act 1927 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
 ###### 2 About this eprint
     
-*   This eprint has not been officialised. For more information about eprints and officialisation, please _see_ [http://www.pco.parliament.govt.nz/eprints/][109] ![](/images/external_link.gif).
+*   This eprint is not an official version of the legislation under [section 18][110] of the Legislation Act 2012\.
 
-###### 3 List of amendments incorporated in this eprint (most recent first)
+###### 3 Amendments incorporated in this eprint
     
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][107]
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][100]
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][108]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1927/0045/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1927/0045/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1927/0045/latest/whole.html#DLM203217
 [2]: http://www.legislation.govt.nz/act/public/1927/0045/latest/whole.html#DLM203219
 [3]: http://www.legislation.govt.nz/act/public/1927/0045/latest/whole.html#DLM203220
@@ -981,13 +967,14 @@ Miscellaneous
 [97]: http://www.legislation.govt.nz/act/public/1927/0045/latest/link.aspx?id=DLM319569
 [98]: http://www.legislation.govt.nz/act/public/1927/0045/latest/link.aspx?id=DLM328986
 [99]: http://www.legislation.govt.nz/act/public/1927/0045/latest/link.aspx?id=DLM401039
-[100]: http://www.legislation.govt.nz/act/public/1927/0045/latest/link.aspx?id=DLM21202
-[101]: http://www.legislation.govt.nz/act/public/1927/0045/latest/link.aspx?id=DLM21203
-[102]: http://www.legislation.govt.nz/act/public/1927/0045/latest/link.aspx?id=DLM240194
-[103]: http://www.legislation.govt.nz/act/public/1927/0045/latest/link.aspx?id=DLM240195
-[104]: http://www.legislation.govt.nz/act/public/1927/0045/latest/link.aspx?id=DLM401040
-[105]: http://www.legislation.govt.nz/act/public/1927/0045/latest/link.aspx?id=DLM45599
-[106]: http://www.legislation.govt.nz/act/public/1927/0045/latest/link.aspx?id=DLM47639
-[107]: http://www.legislation.govt.nz/act/public/1927/0045/latest/link.aspx?id=DLM3360714
-[108]: http://www.legislation.govt.nz/act/public/1927/0045/latest/link.aspx?id=DLM240196
-[109]: http://www.pco.parliament.govt.nz/eprints/
+[100]: http://www.legislation.govt.nz/act/public/1927/0045/latest/link.aspx?id=DLM5620822
+[101]: http://www.legislation.govt.nz/act/public/1927/0045/latest/link.aspx?id=DLM21202
+[102]: http://www.legislation.govt.nz/act/public/1927/0045/latest/link.aspx?id=DLM21203
+[103]: http://www.legislation.govt.nz/act/public/1927/0045/latest/link.aspx?id=DLM240194
+[104]: http://www.legislation.govt.nz/act/public/1927/0045/latest/link.aspx?id=DLM240195
+[105]: http://www.legislation.govt.nz/act/public/1927/0045/latest/link.aspx?id=DLM401040
+[106]: http://www.legislation.govt.nz/act/public/1927/0045/latest/link.aspx?id=DLM45599
+[107]: http://www.legislation.govt.nz/act/public/1927/0045/latest/link.aspx?id=DLM47639
+[108]: http://www.legislation.govt.nz/act/public/1927/0045/latest/link.aspx?id=DLM3360714
+[109]: http://www.legislation.govt.nz/act/public/1927/0045/latest/link.aspx?id=DLM240196
+[110]: http://www.legislation.govt.nz/act/public/1927/0045/latest/link.aspx?id=DLM2998516
