@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -532,7 +532,7 @@ This Act is administered by the Ministry of Justice.
 
 [206][249][][249][Books of account][249]
 
-[207][250][][250][Yearly statement of financial position and statements][250]
+[207][250][][250][Yearly balance sheet and statements][250]
 
 [207A][251][][251][Annual meeting of electors][251]
 
@@ -922,9 +922,9 @@ An Act to reform the law relating to the sale of liquor to the public
     
     Section 2 **guardian**: amended, on 1 July 2005, by [section 151][364] of the Care of Children Act 2004 (2004 No 90).
     
-    Section 2 **local authority**: substituted, on 1 July 2003, by [section 262][365] of the Local Government Act 2002 (2002 No 84).
+    Section 2 **local authority**: replaced, on 1 July 2003, by [section 262][365] of the Local Government Act 2002 (2002 No 84).
     
-    Section 2 **Minister**: substituted, on 1 October 1995, by [section 10(3)][366] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 2 **Minister**: replaced, on 1 October 1995, by [section 10(3)][366] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
     Section 2 **naval ship**: amended, on 1 April 1990, pursuant to [section 105(2)][361] of the Defence Act 1990 (1990 No 28).
     
@@ -936,11 +936,11 @@ An Act to reform the law relating to the sale of liquor to the public
     
     Section 2 **prohibited persons** paragraph (a): amended, on 1 December 1999, by [section 2(2)][362] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 2 **public notice**: substituted, on 1 October 2004, by [section 4][360] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
+    Section 2 **public notice**: replaced, on 1 October 2004, by [section 4][360] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
     Section 2 **restricted area**: amended, on 1 December 1999, by [section 2(3)][362] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 2 **supervised area**: substituted, on 1 December 1999, by [section 2(4)][362] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 2 **supervised area**: replaced, on 1 December 1999, by [section 2(4)][362] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 2A Meaning of term evidence of age document
     
@@ -1012,9 +1012,9 @@ An Act to reform the law relating to the sale of liquor to the public
     
     Compare: 1962 No 139 s 3; 1968 No 40 s 2(2); 1971 No 52 s 56; 1971 No 77 s 2; 1976 No 53 s 63; 1980 No 168 s 63
     
-    Section 5(3)(b): substituted, on 18 September 2004, by [section 175(1)][368] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 5(3)(b): replaced, on 18 September 2004, by [section 175(1)][368] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 5(3)(c): substituted, on 18 September 2004, by [section 175(1)][368] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 5(3)(c): replaced, on 18 September 2004, by [section 175(1)][368] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 5(3)(f): amended, on 1 June 2005, by [section 206][367] of the Corrections Act 2004 (2004 No 50).
     
@@ -1065,7 +1065,7 @@ On-licences
     
     *   (b) to allow the consumption of liquor on the premises or conveyance described in the licence.
     
-    Section 7: substituted, on 1 April 2000, by [section 6][375] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 7: replaced, on 1 April 2000, by [section 6][375] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 8 Who may hold on-licence
     
@@ -1093,7 +1093,7 @@ On-licences
     
     (2) An on-licence may not be held by a club.
     
-    Section 8(1)(b): substituted, on 1 April 2000, by [section 7(1)][379] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 8(1)(b): replaced, on 1 April 2000, by [section 7(1)][379] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
     Section 8(1)(ba): inserted, on 1 April 2000, by [section 7(1)][379] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
@@ -1127,9 +1127,9 @@ On-licences
     
     Section 9(1)(e): amended, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
     
-    Section 9(5): added, on 1 April 2000, by [section 8][381] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 9(5): inserted, on 1 April 2000, by [section 8][381] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 9(6): added, on 1 April 2000, by [section 8][381] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 9(6): inserted, on 1 April 2000, by [section 8][381] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 10 Objections
     
@@ -1165,11 +1165,11 @@ On-licences
     
     *   (e) the certificate referred to in [section 9(1)(e)][13].
     
-    Section 12: substituted, on 1 April 2000, by [section 11][382] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 12: replaced, on 1 April 2000, by [section 11][382] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
     Section 12(3)(d): amended, on 6 April 2004, by [section 10][383] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
-    Section 12(3)(e): added, on 6 April 2004, by [section 10][383] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
+    Section 12(3)(e): inserted, on 6 April 2004, by [section 10][383] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
 
 ##### 13 Criteria for on-licences
     
@@ -1215,17 +1215,17 @@ On-licences
     
     (8) Subsection (5)(h) applies subject to the [Human Rights Act 1993][384].
     
-    Section 14(2): substituted, on 1 December 1999, by [section 13(1)][385] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 14(2): replaced, on 1 December 1999, by [section 13(1)][385] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 14(4): substituted, on 1 April 2000, by [section 13(2)][385] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 14(4): replaced, on 1 April 2000, by [section 13(2)][385] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 14(5): substituted, on 1 April 2000, by [section 13(2)][385] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 14(5): replaced, on 1 April 2000, by [section 13(2)][385] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 14(6): substituted, on 1 April 2000, by [section 13(2)][385] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 14(6): replaced, on 1 April 2000, by [section 13(2)][385] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 14(7): substituted, on 1 April 2000, by [section 13(2)][385] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 14(7): replaced, on 1 April 2000, by [section 13(2)][385] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 14(8): added, on 1 April 2000, by [section 13(2)][385] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 14(8): inserted, on 1 April 2000, by [section 13(2)][385] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 15 No obligation to serve
     
@@ -1233,7 +1233,7 @@ On-licences
     
     (2) Subsection (1) applies subject to the [Human Rights Act 1993][384].
     
-    Section 15(2): substituted, on 1 February 1994, by [section 145][386] of the Human Rights Act 1993 (1993 No 82).
+    Section 15(2): replaced, on 1 February 1994, by [section 145][386] of the Human Rights Act 1993 (1993 No 82).
 
 ##### 16 Variation of conditions
     
@@ -1255,7 +1255,7 @@ On-licences
     
     (7) In considering the application, the Licensing Authority or District Licensing Agency, as the case may require, must have regard to such of the matters specified in [section 13(1)][17] as are relevant to the application.
     
-    Section 16(1): substituted, on 1 April 2000, by [section 14(1)][387] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 16(1): replaced, on 1 April 2000, by [section 14(1)][387] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
     Section 16(2A): inserted, on 1 April 2000, by [section 14(2)][387] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
@@ -1313,9 +1313,9 @@ On-licences
     
     Section 18(2)(da): inserted, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
     
-    Section 18(4): added, on 1 April 2000, by [section 15][389] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 18(4): inserted, on 1 April 2000, by [section 15][389] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 18(5): added, on 1 April 2000, by [section 15][389] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 18(5): inserted, on 1 April 2000, by [section 15][389] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 19 Objections to renewal
     
@@ -1359,9 +1359,9 @@ On-licences
     
     Section 21(1): amended, on 6 April 2004, by [section 11(1)][390] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
-    Section 21(1)(c): added, on 6 April 2004, by [section 11(2)][390] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
+    Section 21(1)(c): inserted, on 6 April 2004, by [section 11(2)][390] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
-    Section 21(1)(d): added, on 6 April 2004, by [section 11(2)][390] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
+    Section 21(1)(d): inserted, on 6 April 2004, by [section 11(2)][390] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
     Section 21(1A): inserted, on 6 April 2004, by [section 11(3)][390] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
@@ -1460,7 +1460,7 @@ Off-licences
     
     (3) An off-licence also authorises the complimentary supply of liquor by way of sample on the premises to which the licence relates.
     
-    Section 29(3): added, on 1 April 2000, by [section 22][395] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 29(3): inserted, on 1 April 2000, by [section 22][395] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 30 Who may hold off-licence
     
@@ -1492,7 +1492,7 @@ Off-licences
     
     (2) An off-licence may not be held by any other club.
     
-    Section 30(1)(b): substituted, on 1 April 2000, by [section 23(1)][396] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 30(1)(b): replaced, on 1 April 2000, by [section 23(1)][396] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
     Section 30(1)(ba): inserted, on 1 April 2000, by [section 23(1)][396] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
@@ -1524,9 +1524,9 @@ Off-licences
     
     Section 31(1)(e): amended, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
     
-    Section 31(4): added, on 1 April 2000, by [section 24][397] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 31(4): inserted, on 1 April 2000, by [section 24][397] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 31(5): added, on 1 April 2000, by [section 24][397] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 31(5): inserted, on 1 April 2000, by [section 24][397] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 32 Objections
     
@@ -1562,11 +1562,11 @@ Off-licences
     
     *   (e) the certificate referred to in [section 31(1)(e)][36].
     
-    Section 34: substituted, on 1 April 2000, by [section 27][398] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 34: replaced, on 1 April 2000, by [section 27][398] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
     Section 34(3)(d): amended, on 6 April 2004, by [section 12][399] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
-    Section 34(3)(e): added, on 6 April 2004, by [section 12][399] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
+    Section 34(3)(e): inserted, on 6 April 2004, by [section 12][399] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
 
 ##### 35 Criteria for off-licences
     
@@ -1614,7 +1614,7 @@ Off-licences
     
     Section 36(2): amended, on 1 April 2000, by [section 29(1)][401] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 36(5): substituted, on 6 April 2004, by [section 13(2)][400] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
+    Section 36(5): replaced, on 6 April 2004, by [section 13(2)][400] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
     Section 36(6): repealed, on 1 April 2000, by [section 29(2)][401] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
@@ -1670,23 +1670,23 @@ Off-licences
     
     (6) Subject to subsection (3), on granting an application for an off-licence in respect of any premises in which the principal business is other than the manufacture or sale of liquor, the Licensing Authority or District Licensing Agency, as the case may be, may impose a condition relating to the kind or kinds of liquor that may be sold or delivered pursuant to the licence.
     
-    Section 37(1): substituted, on 1 December 1999, by [section 30(1)][403] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 37(1): replaced, on 1 December 1999, by [section 30(1)][403] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 37(1A): substituted, on 6 April 2004, by [section 14(1)][404] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
+    Section 37(1A): replaced, on 6 April 2004, by [section 14(1)][404] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
-    Section 37(2): substituted, on 6 April 2004, by [section 14(2)][404] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
+    Section 37(2): replaced, on 6 April 2004, by [section 14(2)][404] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
-    Section 37(3): substituted, on 1 July 1996, by [section 30(1)][405] of the Food Amendment Act 1996 (1996 No 41).
+    Section 37(3): replaced, on 1 July 1996, by [section 30(1)][405] of the Food Amendment Act 1996 (1996 No 41).
     
     Section 37(3)(e): amended, on 1 December 1999, by [section 30(2)][403] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 37(3)(f): added, on 1 December 1999, by [section 30(2)][403] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 37(3)(f): inserted, on 1 December 1999, by [section 30(2)][403] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
     Section 37(3A): inserted, on 6 April 2004, by [section 14(3)][404] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
     Section 37(4): amended, on 1 April 2000, by [section 30(3)][403] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 37(4)(d): added, on 1 April 2000, by [section 30(4)][403] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 37(4)(d): inserted, on 1 April 2000, by [section 30(4)][403] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
     Section 37(5): amended, on 1 April 2000, by [section 30(6)][403] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
@@ -1700,7 +1700,7 @@ Off-licences
     
     (2) Subsection (1) applies subject to the [Human Rights Act 1993][384].
     
-    Section 38(2): substituted, on 1 February 1994, by [section 145][386] of the Human Rights Act 1993 (1993 No 82).
+    Section 38(2): replaced, on 1 February 1994, by [section 145][386] of the Human Rights Act 1993 (1993 No 82).
 
 ##### 39 Variation of conditions
     
@@ -1722,7 +1722,7 @@ Off-licences
     
     (7) In considering the application, the Licensing Authority or District Licensing Agency, as the case may be, must have regard to such of the matters specified in [section 35(1)][40] as are relevant to the application.
     
-    Section 39(1): substituted, on 1 April 2000, by [section 31(1)][406] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 39(1): replaced, on 1 April 2000, by [section 31(1)][406] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
     Section 39(2A): inserted, on 1 April 2000, by [section 31(2)][406] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
@@ -1780,9 +1780,9 @@ Off-licences
     
     Section 41(2)(da): inserted, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
     
-    Section 41(4): added, on 1 April 2000, by [section 32][407] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 41(4): inserted, on 1 April 2000, by [section 32][407] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 41(5): added, on 1 April 2000, by [section 32][407] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 41(5): inserted, on 1 April 2000, by [section 32][407] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 42 Objections to renewal
     
@@ -1826,11 +1826,11 @@ Off-licences
     
     Section 44(1): amended, on 6 April 2004, by [section 15(1)][408] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
-    Section 44(1)(b): substituted, on 1 April 2000, by [section 35(1)][409] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 44(1)(b): replaced, on 1 April 2000, by [section 35(1)][409] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 44(1)(c): added, on 6 April 2004, by [section 15(2)][408] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
+    Section 44(1)(c): inserted, on 6 April 2004, by [section 15(2)][408] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
-    Section 44(1)(d): added, on 6 April 2004, by [section 15(2)][408] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
+    Section 44(1)(d): inserted, on 6 April 2004, by [section 15(2)][408] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
     Section 44(1A): inserted, on 6 April 2004, by [section 15(3)][408] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
@@ -1918,7 +1918,7 @@ Off-licences
     
     (4) Nothing in [section 37(1)][42] or [section 48][53] shall apply to an off-licence endorsed under this section.
     
-    Section 51(1): substituted, on 6 April 2004, by [section 16(1)][412] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
+    Section 51(1): replaced, on 6 April 2004, by [section 16(1)][412] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
     Section 51(1A): inserted, on 6 April 2004, by [section 16(1)][412] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
@@ -1936,11 +1936,11 @@ Off-licences
     
     (4) Nothing in [sections 48 to 49][53] shall apply to an off-licence endorsed under this section.
     
-    Section 52(1): substituted, on 1 April 2000, by [section 39(1)][415] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 52(1): replaced, on 1 April 2000, by [section 39(1)][415] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
     Section 52(1A): inserted, as section 52(2), on 1 April 2000, by [section 39(1)][415] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 52(1A) subsection number: substituted, on 6 April 2004, by section 17 of the Sale of Liquor Amendment Act 2004 (2004 No 21).
+    Section 52(1A) subsection number: replaced, on 6 April 2004, by section 17 of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
     Section 52(4): amended, on 1 April 2000, by [section 39(2)][415] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
@@ -1987,9 +1987,9 @@ Club licences
     
     Section 55(1)(e): amended, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
     
-    Section 55(4): added, on 1 April 2000, by [section 40][416] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 55(4): inserted, on 1 April 2000, by [section 40][416] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 55(5): added, on 1 April 2000, by [section 40][416] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 55(5): inserted, on 1 April 2000, by [section 40][416] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 56 Objections
     
@@ -2025,7 +2025,7 @@ Club licences
     
     *   (e) the certificate referred to in [section 55(1)(e)][61].
     
-    Section 58: substituted, on 1 April 2000, by [section 43][417] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 58: replaced, on 1 April 2000, by [section 43][417] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
     Section 58(3)(e): amended, on 6 April 2004, by [section 18][418] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
 
@@ -2079,7 +2079,7 @@ Club licences
     
     Section 60(1)(b): amended, on 1 April 2000, by [section 45(1)][419] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 60(2): substituted, on 1 April 2000, by [section 45(2)][419] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 60(2): replaced, on 1 April 2000, by [section 45(2)][419] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
     Section 60(2A): inserted, on 1 April 2000, by [section 45(2)][419] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
@@ -2097,7 +2097,7 @@ Club licences
     
     (2) Subsection (1) applies subject to the [Human Rights Act 1993][384].
     
-    Section 61(2): substituted, on 1 February 1994, by [section 145][386] of the Human Rights Act 1993 (1993 No 82).
+    Section 61(2): replaced, on 1 February 1994, by [section 145][386] of the Human Rights Act 1993 (1993 No 82).
 
 ##### 62 Variation of conditions
     
@@ -2119,7 +2119,7 @@ Club licences
     
     (7) In considering the application, the Licensing Authority or District Licensing Agency, as the case may require, must have regard to such of the matters specified in [section 59(1)][65] as are relevant to the application.
     
-    Section 62(1): substituted, on 1 April 2000, by [section 46(1)][420] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 62(1): replaced, on 1 April 2000, by [section 46(1)][420] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
     Section 62(2A): inserted, on 1 April 2000, by [section 46(2)][420] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
@@ -2177,9 +2177,9 @@ Club licences
     
     Section 64(2)(da): inserted, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
     
-    Section 64(4): added, on 1 April 2000, by [section 47][421] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 64(4): inserted, on 1 April 2000, by [section 47][421] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 64(5): added, on 1 April 2000, by [section 47][421] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 64(5): inserted, on 1 April 2000, by [section 47][421] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 65 Objections to renewal
     
@@ -2223,9 +2223,9 @@ Club licences
     
     Section 67(1): amended, on 6 April 2004, by [section 19(1)][422] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
-    Section 67(1)(c): added, on 6 April 2004, by [section 19(2)][422] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
+    Section 67(1)(c): inserted, on 6 April 2004, by [section 19(2)][422] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
-    Section 67(1)(d): added, on 6 April 2004, by [section 19(2)][422] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
+    Section 67(1)(d): inserted, on 6 April 2004, by [section 19(2)][422] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
     Section 67(1A): inserted, on 6 April 2004, by [section 19(3)][422] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
@@ -2290,7 +2290,7 @@ Special licences
     
 *   A special licence authorises the holder of the licence to sell and supply liquor, on the premises or conveyance described in the licence, to any person attending any occasion or event or series of occasions or events described in the licence.
     
-    Section 73: substituted, on 1 April 2000, by [section 52][425] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 73: replaced, on 1 April 2000, by [section 52][425] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 74 Special licences for social gatherings
     
@@ -2324,7 +2324,7 @@ Special licences
     
     *   (i) any manager acting for any person pursuant to a property order made under the [Protection of Personal and Property Rights Act 1988][378], if the order authorises the manager to hold such a licence.
     
-    Section 75(b): substituted, on 1 April 2000, by [section 54(1)][427] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 75(b): replaced, on 1 April 2000, by [section 54(1)][427] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
     Section 75(ba): inserted, on 1 April 2000, by [section 54(1)][427] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
@@ -2350,7 +2350,7 @@ Special licences
     
     (4) Within 10 working days after filing the application, the applicant must, if required to do so by the Secretary, ensure that notice of the application in the prescribed form is attached in a conspicuous place on or adjacent to the site to which the application relates, unless the Secretary agrees that it is impracticable or unreasonable to do so.
     
-    Section 76(4): substituted, on 1 April 2000, by [section 55][428] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 76(4): replaced, on 1 April 2000, by [section 55][428] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 77 Objections
     
@@ -2414,9 +2414,9 @@ Special licences
     
     Section 80(2)(bc): inserted, on 1 April 2000, by [section 59(1)][429] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 80(2)(g): added, on 1 April 2000, by [section 59(2)][429] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 80(2)(g): inserted, on 1 April 2000, by [section 59(2)][429] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 80(3)(b): substituted, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
+    Section 80(3)(b): replaced, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
 
 ##### 81 No obligation to serve
     
@@ -2424,7 +2424,7 @@ Special licences
     
     (2) Subsection (1) applies subject to the [Human Rights Act 1993][384].
     
-    Section 81(2): substituted, on 1 February 1994, by [section 145][386] of the Human Rights Act 1993 (1993 No 82).
+    Section 81(2): replaced, on 1 February 1994, by [section 145][386] of the Human Rights Act 1993 (1993 No 82).
 
 ##### 82 Duration of special licences
     
@@ -2577,9 +2577,9 @@ Licensing Authority and District Licensing Agencies
     
     *   (g) such other functions as may be conferred on the District Licensing Agency by or under this Act or any other enactment.
     
-    Section 100(a): substituted, on 1 April 2000, by [section 64][431] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 100(a): replaced, on 1 April 2000, by [section 64][431] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 100(b): substituted, on 1 April 2000, by [section 64][431] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 100(b): replaced, on 1 April 2000, by [section 64][431] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 101 Powers of District Licensing Agency
     
@@ -2649,7 +2649,7 @@ Licensing Authority and District Licensing Agencies
     
     (4) Each of the persons referred to in subsection (3) shall be entitled to appear and be heard at the hearing, whether personally or by counsel, and to call, examine, and cross-examine witnesses.
     
-    Section 106(2): substituted, on 1 April 2000, by [section 65][433] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 106(2): replaced, on 1 April 2000, by [section 65][433] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
     Section 106(3)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][434] of the Policing Act 2008 (2008 No 72).
 
@@ -2774,7 +2774,7 @@ Management of licensed premises
     
     (4) At all times when liquor is being sold or supplied on licensed premises the licensee must take all reasonable steps to enable the manager to comply with this section.
     
-    Section 115: substituted, on 1 April 2006, by [section 120][445] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 115: replaced, on 1 April 2006, by [section 120][445] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 #### Managers' certificates
 
@@ -2782,7 +2782,7 @@ Management of licensed premises
     
 *   No person is to be appointed as a manager of any licensed premises for the purposes of this Act unless the person holds a manager's certificate granted under this Part.
     
-    Section 116: substituted, on 1 April 2006, by [section 121][446] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 116: replaced, on 1 April 2006, by [section 121][446] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 117 Kinds of managers' certificates
     
@@ -2792,7 +2792,7 @@ Management of licensed premises
     
     (3) A club manager's certificate authorises the holder to manage any licensed premises in respect of which only a club licence or a special licence is in force.
     
-    Section 117: substituted, on 1 April 2006, by [section 121][446] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 117: replaced, on 1 April 2006, by [section 121][446] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
     Section 117(3): amended, on 1 April 2006, by [section 20][447] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
 
@@ -2806,7 +2806,7 @@ Management of licensed premises
     
     *   (b) the successful completion of a course of training, the requirements or criteria of which have been prescribed by regulations made under this Act.
     
-    Section 117A: substituted, on 1 April 2006, by [section 21][448] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
+    Section 117A: replaced, on 1 April 2006, by [section 21][448] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
 
 ##### 118 Applications for managers' certificates
     
@@ -2854,13 +2854,13 @@ Management of licensed premises
     
     Section 119(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][434] of the Policing Act 2008 (2008 No 72).
     
-    Section 119(2): substituted, on 1 April 2000, by [section 68][449] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 119(2): replaced, on 1 April 2000, by [section 68][449] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 119(3): substituted, on 1 April 2000, by [section 68][449] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 119(3): replaced, on 1 April 2000, by [section 68][449] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 119(4): added, on 1 April 2000, by [section 68][449] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 119(4): inserted, on 1 April 2000, by [section 68][449] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 119(5): added, on 1 April 2000, by [section 68][449] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 119(5): inserted, on 1 April 2000, by [section 68][449] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 120 Unopposed applications may be granted by District Licensing Agency, opposed applications to be forwarded to Licensing Authority
     
@@ -2874,7 +2874,7 @@ Management of licensed premises
     
     *   (b) any reports made under [section 119][133].
     
-    Section 120: substituted, on 1 April 2000, by [section 69][450] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 120: replaced, on 1 April 2000, by [section 69][450] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 121 Criteria for managers' certificates
     
@@ -2904,9 +2904,9 @@ Management of licensed premises
     
     *   (f) where the applicant intends to be the manager of a particular club, the extent of the applicant's involvement in the management and activities of the club.
     
-    Section 121: substituted, on 1 April 2000, by [section 70][451] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 121: replaced, on 1 April 2000, by [section 70][451] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 121(1): substituted, on 1 April 2006, by [section 122][452] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 121(1): replaced, on 1 April 2006, by [section 122][452] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 122 Duration of managers' certificates
     
@@ -2974,13 +2974,13 @@ Management of licensed premises
     
     Section 124(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][434] of the Policing Act 2008 (2008 No 72).
     
-    Sections 124(2): substituted, on 1 April 2000, by [section 71][453] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Sections 124(2): replaced, on 1 April 2000, by [section 71][453] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Sections 124(3): substituted, on 1 April 2000, by [section 71][453] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Sections 124(3): replaced, on 1 April 2000, by [section 71][453] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Sections 124(4): added, on 1 April 2000, by [section 71][453] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Sections 124(4): inserted, on 1 April 2000, by [section 71][453] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Sections 124(5): added, on 1 April 2000, by [section 71][453] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Sections 124(5): inserted, on 1 April 2000, by [section 71][453] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 125 Unopposed applications to be granted, opposed applications to be forwarded to Licensing Authority
     
@@ -3036,9 +3036,9 @@ Management of licensed premises
     
     *   (b) ends on the close of the day before that commencement date.
     
-    Section 127(3): added, on 6 April 2004, by [section 23][459] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
+    Section 127(3): inserted, on 6 April 2004, by [section 23][459] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
-    Section 127(4): added, on 6 April 2004, by [section 23][459] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
+    Section 127(4): inserted, on 6 April 2004, by [section 23][459] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
 
 #### Miscellaneous provisions
 
@@ -3084,7 +3084,7 @@ Management of licensed premises
     
     (4) On receiving notice under subsection (3), the licensee shall terminate the appointment with effect from a date not later than 5 working days after the date of the notice.
     
-    Section 130(1): substituted, on 1 April 2000, by [section 74][460] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 130(1): replaced, on 1 April 2000, by [section 74][460] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
     Section 130(1A): inserted, on 1 April 2000, by [section 74][460] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
@@ -3136,7 +3136,7 @@ Management of licensed premises
     
     Section 131A: inserted, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
     
-    Section 131A heading: substituted, on 31 March 2005, by [section 414][359] of the Building Act 2004 (2004 No 72).
+    Section 131A heading: replaced, on 31 March 2005, by [section 414][359] of the Building Act 2004 (2004 No 72).
     
     Section 131A(1): amended, on 31 March 2005, by [section 414][359] of the Building Act 2004 (2004 No 72).
     
@@ -3495,7 +3495,7 @@ Appeals
     
     *   (d) the grounds of the appeal, which grounds shall be specified with such reasonable particularity as to give full advice to both the court and the other parties of the issues involved.
     
-    (5) The Secretary of the Licensing Authority shall, as soon as is practicable after receiving a copy of the notice of appeal, send a copy of the whole of the determination appealed from to the Registrar of the High Court .
+    (5) The Secretary of the Licensing Authority shall, as soon as is practicable after receiving a copy of the notice of appeal, send a copy of the whole of the determination appealed from to the Registrar of the High Court.
     
     Section 140(1)(a): amended, on 2 September 1996, by section 4 of the Sale of Liquor Amendment Act 1996 (1996 No 143).
     
@@ -3545,7 +3545,7 @@ Appeals
 
 ##### 144 Appeal in respect of additional points of law
     
-*   (1) Where any party to an appeal under [section 139][159] other than the appellant wishes to contend at the hearing of the appeal that the determination appealed from is erroneous in point of law other than those set out in the notice of appeal, that party shall, within 20 working days after the date of the service on that party of a copy of the notice of appeal, lodge a notice to that effect with the Registrar of the High Court .
+*   (1) Where any party to an appeal under [section 139][159] other than the appellant wishes to contend at the hearing of the appeal that the determination appealed from is erroneous in point of law other than those set out in the notice of appeal, that party shall, within 20 working days after the date of the service on that party of a copy of the notice of appeal, lodge a notice to that effect with the Registrar of the High Court.
     
     (2) The provisions of [section 139][159], subsections (2) to (4) of [section 140][160], and [sections 142][162], [143][163], [145][165], and [146][166] shall apply, with such modifications as may be necessary, to any notice lodged under this section as if it were a notice of appeal.
     
@@ -3557,7 +3557,7 @@ Appeals
 
 ##### 146 Date of hearing
     
-*   When any party to the appeal notifies the Registrar of the High Court ---
+*   When any party to the appeal notifies the Registrar of the High Court---
         
     *   (a) that the notice of appeal has been served on all parties to the proceedings; and
     
@@ -3583,7 +3583,7 @@ Appeals
     
     (2) Where an appeal is duly filed against a decision of the Licensing Authority to grant an application for a licence or a manager's certificate, and either paragraph (a) or paragraph (b) of subsection (1) applies, that decision shall continue to have no effect pending the final determination of the appeal.
     
-    Section 147: substituted, on 2 September 1996, by section 9(1) of the Sale of Liquor Amendment Act 1996 (1996 No 143).
+    Section 147: replaced, on 2 September 1996, by section 9(1) of the Sale of Liquor Amendment Act 1996 (1996 No 143).
 
 ##### 147A Effect of appeal against other decisions by Licensing Authority
     
@@ -3758,7 +3758,7 @@ Offences and enforcement
     
     *   (b) the liquor is supplied to the person by the person's parent or guardian.
     
-    Section 157: substituted, on 1 December 1999, by [section 85][476] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 157: replaced, on 1 December 1999, by [section 85][476] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 158 Further exemptions in respect of supervised areas
     
@@ -3820,7 +3820,7 @@ Offences and enforcement
         
         *   (iv) stocktaking; or
         
-        *   (v) checking or removing cash; or
+        *   (v) checking or removing cash.
         
         
     
@@ -3860,7 +3860,7 @@ Offences and enforcement
     
     Section 162(4): repealed, on 1 December 1999, by [section 90(3)][482] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 162(5): added, on 6 April 2004, by [section 25][483] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
+    Section 162(5): inserted, on 6 April 2004, by [section 25][483] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
     Section 162(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][434] of the Policing Act 2008 (2008 No 72).
 
@@ -3956,19 +3956,19 @@ Offences and enforcement
     
     (4) Subsections (1) and (2) do not apply to a person who is in a restricted area or supervised area on licensed premises at the request of a constable acting in the course of his or her duties.
     
-    Section 163(1): substituted, on 1 December 1999, by [section 92(1)][488] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 163(1): replaced, on 1 December 1999, by [section 92(1)][488] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
     Section 163(1): amended, on 1 July 2013, by [section 413][444] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 163(2): substituted, on 1 December 1999, by [section 92(1)][488] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 163(2): replaced, on 1 December 1999, by [section 92(1)][488] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
     Section 163(2): amended, on 1 July 2013, by [section 413][444] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 163(3)(c): repealed, on 1 December 1999, by [section 92(2)][488] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 163(3)(d): added, on 1 December 1999, by [section 92(3)][488] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 163(3)(d): inserted, on 1 December 1999, by [section 92(3)][488] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 163(4): added, on 6 April 2004, by [section 26][489] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
+    Section 163(4): inserted, on 6 April 2004, by [section 26][489] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
     Section 163(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][434] of the Policing Act 2008 (2008 No 72).
 
@@ -4016,7 +4016,7 @@ Offences and enforcement
     
     Section 165(1): amended, on 1 December 1999, by [section 94(1)][491] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 165(2): added, on 1 December 1999, by [section 94(2)][491] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 165(2): inserted, on 1 December 1999, by [section 94(2)][491] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 166 Sale or supply of liquor to intoxicated person
     
@@ -4050,7 +4050,7 @@ Offences and enforcement
     
     Section 166(2): amended, on 1 December 1999, by [section 95(2)][492] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 166(4): added, on 1 December 1999, by [section 95(3)][492] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 166(4): inserted, on 1 December 1999, by [section 95(3)][492] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 167 Allowing person to become intoxicated
     
@@ -4074,7 +4074,7 @@ Offences and enforcement
     
     Section 167(1): amended, on 1 December 1999, by [section 96(1)][493] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 167(2): added, on 1 December 1999, by [section 96(2)][493] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 167(2): inserted, on 1 December 1999, by [section 96(2)][493] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 168 Allowing drunkenness or disorderly conduct on licensed premises
     
@@ -4142,9 +4142,9 @@ Offences and enforcement
     
     Section 170(2)(a): amended, on 26 April 2005, by [section 7][480] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 170(2)(d)(iv): substituted, on 1 December 1999, by [section 99(2)][496] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 170(2)(d)(iv): replaced, on 1 December 1999, by [section 99(2)][496] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 170(2)(e): added, on 1 December 1999, by [section 99(2)][496] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 170(2)(e): inserted, on 1 December 1999, by [section 99(2)][496] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 171 Allowing person on licensed premises outside licensing hours
     
@@ -4236,7 +4236,7 @@ Offences and enforcement
     
     Section 174(3): amended, on 30 June 1998, by [section 7][500] of the District Courts Amendment Act 1998 (1998 No 76).
     
-    Section 174(4): substituted, on 30 June 1998, by [section 7][500] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 174(4): replaced, on 30 June 1998, by [section 7][500] of the District Courts Amendment Act 1998 (1998 No 76).
     
     Section 174(6): amended, on 1 July 2013, by [section 413][444] of the Criminal Procedure Act 2011 (2011 No 81).
     
@@ -4280,7 +4280,7 @@ Offences and enforcement
     
     Section 175(3)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][434] of the Policing Act 2008 (2008 No 72).
     
-    Section 175(4): substituted, on 2 September 1996, by section 10 of the Sale of Liquor Amendment Act 1996 (1996 No 143).
+    Section 175(4): replaced, on 2 September 1996, by section 10 of the Sale of Liquor Amendment Act 1996 (1996 No 143).
     
     Section 175(4): amended, on 1 July 2013, by [section 413][444] of the Criminal Procedure Act 2011 (2011 No 81).
     
@@ -4521,7 +4521,7 @@ Licensing trusts
     
     (3) Subsequent elections of the members of the trust must be held on the same days as subsequent triennial general elections of members of local authorities are held.
     
-    Section 192: substituted, on 1 July 2003, by [section 262][365] of the Local Government Act 2002 (2002 No 84).
+    Section 192: replaced, on 1 July 2003, by [section 262][365] of the Local Government Act 2002 (2002 No 84).
 
 ##### 193 Qualification of electors
     
@@ -4543,7 +4543,7 @@ Licensing trusts
     
     (4) It is the duty of the electoral officer of each territorial authority within which the trust district is situated, or the electoral officer of the territorial authority situated wholly or partially within the trust district, to indicate on the electoral roll in respect of the residential electors of that territorial authority by appropriate words, abbreviations, or marks, the names of the persons entitled to vote at elections of members of the licensing trust. If the trust is divided into wards the electoral rolls must also show the ward in respect of which every person is entitled to vote.
     
-    Section 194: substituted, on 1 July 2001, by [section 151][512] of the Local Electoral Act 2001 (2001 No 35).
+    Section 194: replaced, on 1 July 2001, by [section 151][512] of the Local Electoral Act 2001 (2001 No 35).
 
 ##### 195 In default of election Governor-General may appoint members
     
@@ -4633,7 +4633,7 @@ Licensing trusts
     
     *   (b) while on leave of absence pursuant to paragraph (g) or paragraph (h) of that subsection.
     
-    Section 200(1)(a): substituted, on 1 July 1991, by section 4 of the Sale of Liquor Amendment Act 1991 (1991 No 52).
+    Section 200(1)(a): replaced, on 1 July 1991, by section 4 of the Sale of Liquor Amendment Act 1991 (1991 No 52).
     
     Section 200(1)(b): repealed, on 1 July 2001, by [section 151][512] of the Local Electoral Act 2001 (2001 No 35).
     
@@ -4641,7 +4641,7 @@ Licensing trusts
     
     Section 200(1)(d): amended, on 1 January 2002, by [section 68][516] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 200(1)(e): substituted, on 10 September 2008, by [section 17(2)][517] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Section 200(1)(e): replaced, on 10 September 2008, by [section 17(2)][517] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
     
     Section 200(1A): inserted, on 1 July 1994, by [section 3(1)][518] of the Sale of Liquor Amendment Act 1994 (1994 No 61).
     
@@ -4667,7 +4667,7 @@ Licensing trusts
     
     *   (b) while the order remains in force, the member is deemed to have been granted leave of absence and is not capable of acting as a member of the licensing trust during that period.
     
-    Section 201(2): added, on 10 September 2008, by [section 17(3)][517] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Section 201(2): inserted, on 10 September 2008, by [section 17(3)][517] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
 
 ##### 202 Filling of extraordinary vacancies
     
@@ -4727,7 +4727,7 @@ Licensing trusts
     
 *   A licensing trust shall cause books to be provided and kept, and true and regular accounts to be entered in the books of all sums of money received and paid, and of the several purposes for which sums of money have been received and paid.
 
-##### 207 Yearly statement of financial position and statements
+##### 207 Yearly balance sheet and statements
     
 *   (1) On or before 30 June in each year, a licensing trust must prepare---
         
@@ -4753,21 +4753,15 @@ Licensing trusts
     
     (2) Every licensing trust is a public entity as defined in [section 4][522] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
     
-    (3) The yearly statement of financial position, statement of financial performance, and statements, when duly audited, shall be open for public inspection.
+    (3) The yearly balance sheet, profit and loss account, and statements, when duly audited, shall be open for public inspection.
     
     (4) A licensing trust shall, at least once in each year, publish in a newspaper or newspapers circulating in the trust district a summary of the audited accounts, together with a list of all the grants made during the financial year pursuant to [section 189][228].
     
-    Section 207 heading: amended, on 1 October 1997, pursuant to [section 6(1)][523] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 207(1): replaced, on 1 April 2005, by [section 5][523] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
-    Section 207(1): substituted, on 1 April 2005, by [section 5][524] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
+    Section 207(1A): inserted, on 1 April 2005, by [section 5][523] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
-    Section 207(1A): inserted, on 1 April 2005, by [section 5][524] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
-    
-    Section 207(2): substituted, on 1 July 2001, by [section 53][525] of the Public Audit Act 2001 (2001 No 10).
-    
-    Section 207(3): amended, on 1 October 1997, pursuant to [section 6(1)][523] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 207(3): amended, on 1 October 1997, pursuant to [section 6(2)][523] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 207(2): replaced, on 1 July 2001, by [section 53][524] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 207A Annual meeting of electors
     
@@ -4783,13 +4777,13 @@ Licensing trusts
     
     *   (b) provide a reasonable opportunity for electors at the meeting to ask questions about, and to discuss or comment on, those operations.
     
-    Section 207A: inserted, on 6 April 2004, by [section 6][526] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
+    Section 207A: inserted, on 6 April 2004, by [section 6][525] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
 
 ##### 208 Power to compromise with creditors
     
 *   A licensing trust has the power to enter into any compromise or arrangement with its creditors as if it were a company incorporated under the [Companies Act 1993][376], and the provisions of that Act shall apply, with any necessary modifications, to any such compromise or arrangement.
     
-    Section 208: substituted, on 1 July 1994, by [section 2][527] of the Sale of Liquor Amendment Act 1993 (1993 No 119).
+    Section 208: replaced, on 1 July 1994, by [section 2][526] of the Sale of Liquor Amendment Act 1993 (1993 No 119).
 
 #### Variation, amalgamation, and winding up
 
@@ -4863,15 +4857,15 @@ Licensing trusts
 
 ##### 212 Liquidation
     
-*   [Parts 16][528] and [17][529] of the Companies Act 1993 shall apply, with any necessary modifications, to a licensing trust as if it was a company incorporated under that Act.
+*   [Parts 16][527] and [17][528] of the Companies Act 1993 shall apply, with any necessary modifications, to a licensing trust as if it was a company incorporated under that Act.
     
-    Section 212: substituted, on 1 July 1994, by [section 4][530] of the Sale of Liquor Amendment Act 1993 (1993 No 119).
+    Section 212: replaced, on 1 July 1994, by [section 4][529] of the Sale of Liquor Amendment Act 1993 (1993 No 119).
 
 ##### 213 Distribution of assets where trust put into liquidation
     
 *   Where the High Court puts a licensing trust into liquidation, any net surplus, whether or not in money, shall be distributed to each local authority whose district is included wholly or partly within the trust district; and, where 2 or more such local authorities qualify, the court shall determine the shares in proportion to the number of residents of each local authority's district who are electors of the licensing trust.
     
-    Section 213: substituted, on 1 July 1994, by [section 4][530] of the Sale of Liquor Amendment Act 1993 (1993 No 119).
+    Section 213: replaced, on 1 July 1994, by [section 4][529] of the Sale of Liquor Amendment Act 1993 (1993 No 119).
 
 #### Special provisions relating to existing district and suburban trusts
 
@@ -4879,7 +4873,7 @@ Licensing trusts
     
 *   [Sections 215][261] and [216][262] apply to---
         
-    *   (a) each of the licensing trusts named in [Part 1][531] of Schedule 3; and
+    *   (a) each of the licensing trusts named in [Part 1][530] of Schedule 3; and
     
     *   (b) any licensing trust constituted following a poll held under any of [sections 249 to 253][340].
     
@@ -4923,7 +4917,7 @@ Licensing trusts
         
         *   (ii) any person on behalf of the licensing trust or in respect of any premises or conveyance in which the licensing trust has any estate or interest; or
         
-        *   (iii) any company registered under the Companies Act 1955 in which the licensing trust holds any of the equity share capital (within the meaning of section 158(5) of that Act); or
+        *   (iii) \[Repealed\]
         
         *   (iiia) any company registered under the [Companies Act 1993][376] in which the licensing trust holds any of the issued shares (other than shares that carry no right to participate beyond a specified amount in the distribution of either profits or capital); or
         
@@ -4937,7 +4931,7 @@ Licensing trusts
     
     *   (d) the licensing trust shall not expend or distribute any of its net profits under [section 189][228] outside the trust district.
     
-    Section 216(c)(iii): substituted, on 1 July 1994, by [section 2][532] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 216(c)(iii): repealed, on 5 December 2013, by [section 14][531] of the Companies Amendment Act 2013 (2013 No 111).
     
     Section 216(c)(iiia): inserted, on 1 July 1994, by [section 2][532] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
@@ -5280,15 +5274,19 @@ Community trusts
     
     *   (b) a person who has been convicted within the last 3 years of a criminal offence punishable by imprisonment:
     
-    *   (c) a person who would be subject to an order under section 189 of the Companies Act 1955 (as in force immediately before the commencement of the Companies Amendment Act 1993) but for the repeal of that section:
+    *   (c) \[Repealed\]
     
-    *   (d) a person to whom an order made under section 199L of the Companies Act 1955 applies (or would apply but for the repeal of that Act) or to whom an order made under [section 383][535] of the Companies Act 1993 applies:
+    *   (d) a person to whom an order made under [section 383][535] of the Companies Act 1993 applies:
     
     *   (e) \[Repealed\]
     
     *   (f) any person who is the subject of an order under the [Protection of Personal and Property Rights Act 1988][378].
     
     Section 219W: inserted, on 1 October 2004, by [section 8(1)][534] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
+    
+    Section 219W(c): repealed, on 5 December 2013, by [section 14][531] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 219W(d): amended, on 5 December 2013, by [section 14][531] of the Companies Amendment Act 2013 (2013 No 111).
     
     Section 219W(e): repealed, on 10 September 2008, by [section 17(5)][517] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
 
@@ -5400,7 +5398,7 @@ Community trusts
 
 ##### 219ZA Liquidation
     
-*   [Parts 16][528] and [17][529] of the Companies Act 1993 apply, with any necessary modifications, to a community trust as if it were a company incorporated under that Act.
+*   [Parts 16][527] and [17][528] of the Companies Act 1993 apply, with any necessary modifications, to a community trust as if it were a company incorporated under that Act.
     
     Section 219ZA: inserted, on 1 October 2004, by [section 8(1)][534] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
 
@@ -5507,7 +5505,7 @@ Miscellaneous provisions
     
     *   (c) in the circumstances he or she could not reasonably have been expected to take steps to ensure that the company complied with the subsection of this section to which the charge relates.
     
-    Section 225: substituted, on 2 September 1996, by section 11 of the Sale of Liquor Amendment Act 1996 (1996 No 143).
+    Section 225: replaced, on 2 September 1996, by section 11 of the Sale of Liquor Amendment Act 1996 (1996 No 143).
     
     Section 225(5): amended, on 1 December 1999, by [section 110][540] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
@@ -5551,7 +5549,7 @@ Miscellaneous provisions
     
 *   If the Secretary of the Licensing Authority or the District Licensing Agency is satisfied that any licence or manager's certificate issued by the Licensing Authority or District Licensing Agency has been lost or destroyed, the Secretary may issue a duplicate licence or certificate to the holder.
     
-    Section 226: substituted, on 1 April 2000, by [section 112][542] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 226: replaced, on 1 April 2000, by [section 112][542] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 227 Surrender of licence
     
@@ -5629,13 +5627,13 @@ Miscellaneous provisions
     
     *   (l) providing for such other matters as are contemplated by or necessary for giving full effect to this Act and for its proper administration.
     
-    Section 229(aa): substituted, on 6 April 2004, by [section 27(1)][544] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
+    Section 229(aa): replaced, on 6 April 2004, by [section 27(1)][544] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
     Section 229(ab): inserted, on 6 April 2004, by [section 27(1)][544] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
     Section 229(ea): inserted, on 1 September 1999, by [section 114][545] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 229(eb): substituted, on 6 April 2004, by [section 27(2)][544] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
+    Section 229(eb): replaced, on 6 April 2004, by [section 27(2)][544] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
     
     Section 229(ec): inserted, on 1 September 1999, by [section 114][545] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
@@ -5812,7 +5810,7 @@ Transitional provisions
     
     (8) All converted on-licences and converted off-licences in force immediately before 1 December 1999 expire at the close of the period of 3 years commencing with the date on which a licence was last renewed.
     
-    Section 242(8): added, on 1 April 2000, by [section 115][547] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 242(8): inserted, on 1 April 2000, by [section 115][547] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 243 New licences to be issued as soon as practicable
     
@@ -6519,70 +6517,29 @@ Constituted by clause 2 of the Wiri Licensing Trust Constitution Notice 1969 (_G
     
 *   Schedule 3 Part 2: amended, on 1 July 1994, by [section 4(2)][567] of the Sale of Liquor Amendment Act 1994 (1994 No 61).
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Sale of Liquor Act 1989\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][568] ![](/images/external_link.gif).
+*   This is a reprint of the Sale of Liquor Act 1989 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][569] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][568] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][569] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][570] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][570] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][571] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][571] and [17E][572] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][531]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 418(1), (2)][371]
+    Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 418(1), (2)][371]
     
     Search and Surveillance Act 2012 (2012 No 24): [section 301][508]
     
@@ -6598,9 +6555,7 @@ Constituted by clause 2 of the Wiri Licensing Trust Constitution Notice 1969 (_G
     
     Evidence Act 2006 (2006 No 69): section 216
     
-    [Sale of Liquor Amendment Act 2005][573] (2005 No 69)
-    
-    [Sale of Liquor Amendment Act 1999 Commencement Order 2005][574] (SR 2005/26)
+    [Sale of Liquor Amendment Act 1999 Commencement Order 2005][572] (SR 2005/26)
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][480]
     
@@ -6616,23 +6571,19 @@ Constituted by clause 2 of the Wiri Licensing Trust Constitution Notice 1969 (_G
     
     Local Government Act 2002 (2002 No 84): [section 262][365]
     
-    [Sale of Liquor Amendment Act 2002][575] (2002 No 75)
+    [Sale of Liquor Amendment Act 2002][573] (2002 No 75)
     
     Securities Markets Amendment Act 2002 (2002 No 44): [section 30][519]
     
-    Human Rights Amendment Act 2001 (2001 No 96): [sections 68][516], [70(1)][576]
-    
-    [Sale of Liquor Amendment Act 2001][577] (2001 No 79)
+    Human Rights Amendment Act 2001 (2001 No 96): [sections 68][516], [70(1)][574]
     
     Local Electoral Act 2001 (2001 No 35): [section 151][512]
     
-    Public Audit Act 2001 (2001 No 10): [section 53][525]
+    Public Audit Act 2001 (2001 No 10): [section 53][524]
     
-    [Sale of Liquor Amendment Act 1999][578] (1999 No 92)
+    [Sale of Liquor Amendment Act 1999][575] (1999 No 92)
     
     District Courts Amendment Act 1998 (1998 No 76): [section 7][500]
-    
-    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6][523]
     
     Sale of Liquor Amendment Act 1996 (1996 No 143)
     
@@ -6640,11 +6591,11 @@ Constituted by clause 2 of the Wiri Licensing Trust Constitution Notice 1969 (_G
     
     Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][366]
     
-    [Sale of Liquor Amendment Act 1994][579] (1994 No 61)
+    [Sale of Liquor Amendment Act 1994][576] (1994 No 61)
     
     Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][532]
     
-    [Sale of Liquor Amendment Act 1993][580] (1993 No 119)
+    [Sale of Liquor Amendment Act 1993][577] (1993 No 119)
     
     Human Rights Act 1993 (1993 No 82): [section 145][386]
     
@@ -6664,7 +6615,7 @@ Constituted by clause 2 of the Wiri Licensing Trust Constitution Notice 1969 (_G
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1989/0063/latest/whole.html#DLM165118
 [2]: http://www.legislation.govt.nz/act/public/1989/0063/latest/whole.html#DLM165120
 [3]: http://www.legislation.govt.nz/act/public/1989/0063/latest/whole.html#DLM165121
@@ -7187,15 +7138,15 @@ Constituted by clause 2 of the Wiri Licensing Trust Constitution Notice 1969 (_G
 [520]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM94773
 [521]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM122241
 [522]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM88548
-[523]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM408960
-[524]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM243518
-[525]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM88957
-[526]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM243519
-[527]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM327488
-[528]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM321666
-[529]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM322825
-[530]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM327490
-[531]: http://www.legislation.govt.nz/act/public/1989/0063/latest/whole.html#DLM167913
+[523]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM243518
+[524]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM88957
+[525]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM243519
+[526]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM327488
+[527]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM321666
+[528]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM322825
+[529]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM327490
+[530]: http://www.legislation.govt.nz/act/public/1989/0063/latest/whole.html#DLM167913
+[531]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM5620822
 [532]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM328986
 [533]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM243521
 [534]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM243522
@@ -7232,16 +7183,13 @@ Constituted by clause 2 of the Wiri Licensing Trust Constitution Notice 1969 (_G
 [565]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM16238
 [566]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM8590
 [567]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM332576
-[568]: http://www.pco.parliament.govt.nz/reprints/
-[569]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM195439
-[570]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[571]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM195468
-[572]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM195470
-[573]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM348967
-[574]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM313256
-[575]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM169255
-[576]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM122579
-[577]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM113353
-[578]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM32604
-[579]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM332567
-[580]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM327482
+[568]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM2998516
+[569]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM2998515
+[570]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM2998532
+[571]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[572]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM313256
+[573]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM169255
+[574]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM122579
+[575]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM32604
+[576]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM332567
+[577]: http://www.legislation.govt.nz/act/public/1989/0063/latest/link.aspx?id=DLM327482
