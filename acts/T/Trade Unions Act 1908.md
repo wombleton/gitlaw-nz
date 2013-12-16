@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 5 December 2013
 
 # Trade Unions Act 1908Public Act1908 No 196
 
@@ -9,9 +9,7 @@ Date of assent4 August 1908
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this eprint.
-
-A general outline of these changes is set out in the notes at the end of this eprint, together with other explanatory material about this eprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this eprint. See the notes at the end of this eprint for further details.
 
 This Act is administered by the Department of Labour.
 
@@ -181,7 +179,7 @@ An Act to consolidate certain enactments of the General Assembly relating to the
     
 *   (1) The following Acts, that is to say,---
         
-    *   (a) the Companies Act 1955;
+    *   (a) \[Repealed\]
     
     *   (ab) the [Companies Act 1993][42];
     
@@ -197,17 +195,19 @@ An Act to consolidate certain enactments of the General Assembly relating to the
     
     Section 6: replaced, on 13 December 1979, by section 2(1) of the Trade Unions Amendment Act 1979 (1979 No 113).
     
-    Section 6(1)(ab): inserted, on 1 July 1994, by [section 2][46] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 6(1)(a): repealed, on 5 December 2013, by [section 14][46] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 6(1)(c): replaced, on 1 April 1983, by [section 161(1)][47] of the Friendly Societies and Credit Unions Act 1982 (1982 No 118).
+    Section 6(1)(ab): inserted, on 1 July 1994, by [section 2][47] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    
+    Section 6(1)(c): replaced, on 1 April 1983, by [section 161(1)][48] of the Friendly Societies and Credit Unions Act 1982 (1982 No 118).
 
 ##### 7 Application of certain provisions of Friendly Societies Act
     
-*   Notwithstanding anything in the last preceding section a trade union, whether registered or unregistered, which insures or pays money on the death of a child under 10 years of age shall be deemed to be within the provisions of [section 46][48] of the Friendly Societies and Credit Unions Act 1982\.
+*   Notwithstanding anything in the last preceding section a trade union, whether registered or unregistered, which insures or pays money on the death of a child under 10 years of age shall be deemed to be within the provisions of [section 46][49] of the Friendly Societies and Credit Unions Act 1982\.
     
     Compare: 1878 No 8 s 7; Trade Union Act Amendment Act 1876 s 2 (UK)
     
-    Section 7: amended, on 1 April 1983, by [section 161(1)][47] of the Friendly Societies and Credit Unions Act 1982 (1982 No 118).
+    Section 7: amended, on 1 April 1983, by [section 161(1)][48] of the Friendly Societies and Credit Unions Act 1982 (1982 No 118).
 
 #### Registered trade unions
 
@@ -237,7 +237,7 @@ An Act to consolidate certain enactments of the General Assembly relating to the
     
     Compare: 1878 No 8 s 10; Trade Union Act 1871 s 8 (UK)
     
-    Section 10(3): amended, on 1 July 2013, by [section 413][49] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 10(3): amended, on 1 July 2013, by [section 413][50] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 11 Provision in case of absence, etc, of trustee
     
@@ -289,17 +289,17 @@ An Act to consolidate certain enactments of the General Assembly relating to the
     
     Compare: 1878 No 8 s 15; Trade Union Act 1871 s 12 (UK)
     
-    Section 15(1): amended, on 1 July 2013, by [section 413][49] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 15(1): amended, on 1 July 2013, by [section 413][50] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 15(1): amended, on 1 January 1955, pursuant to section 40(1) of the Criminal Justice Act 1954 (1954 No 50).
     
-    Section 15(2): inserted, on 1 July 2013, by [section 413][49] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 15(2): inserted, on 1 July 2013, by [section 413][50] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Registry of Trade Unions
 
 ##### 16 Registrar of trade unions. Annual report
     
-*   (1) The person for the time being holding office as the Registrar of Incorporated Societies under the [Incorporated Societies Act 1908][50] shall be the Registrar under this Act.
+*   (1) The person for the time being holding office as the Registrar of Incorporated Societies under the [Incorporated Societies Act 1908][51] shall be the Registrar under this Act.
     
     (2) The Registrar shall make an annual report to the Governor-General with respect to the matters transacted by him in pursuance of this Act, and the Governor-General shall cause copies of such report to be laid forthwith before Parliament if in session, or if not, then within one month from the commencement of the next ensuing session.
     
@@ -365,7 +365,7 @@ An Act to consolidate certain enactments of the General Assembly relating to the
     
     Compare: 1878 No 8 s 21; 1896 No 24 s 2; Trade Union Act Amendment Act 1876 s 9 (UK)
     
-    Section 21: amended, on 1 January 1971, by [section 6][51] of the Age of Majority Act 1970 (1970 No 137).
+    Section 21: amended, on 1 January 1971, by [section 6][52] of the Age of Majority Act 1970 (1970 No 137).
 
 ##### 22 Payments to nominees of deceased members
     
@@ -373,7 +373,7 @@ An Act to consolidate certain enactments of the General Assembly relating to the
     
     Compare: 1878 No 8 s 22; 1896 No 24 s 2; Trade Union Act Amendment Act 1876 s 10 (UK)
     
-    Section 22: amended, on 26 April 2005, by [section 7][52] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 22: amended, on 26 April 2005, by [section 7][53] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 23 Change of name
     
@@ -429,7 +429,7 @@ An Act to consolidate certain enactments of the General Assembly relating to the
     
     Compare: 1878 No 8 s 29; Trade Union Act 1871 s 18 (UK)
     
-    Section 29: amended, on 1 July 2013, by [section 413][49] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 29: amended, on 1 July 2013, by [section 413][50] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 29: amended, on 1 January 1955, pursuant to section 40(1) of the Criminal Justice Act 1954 (1954 No 50).
 
@@ -439,7 +439,7 @@ An Act to consolidate certain enactments of the General Assembly relating to the
     
 *   With respect to offences the following provisions shall have effect:
         
-    *   (a) proceedings for offences against this Act must be commenced by filing a charging document in accordance with the [Criminal Procedure Act 2011][53],---
+    *   (a) proceedings for offences against this Act must be commenced by filing a charging document in accordance with the [Criminal Procedure Act 2011][54],---
             
         *   (i) in the case of a prosecution against a trade union or branch, or its officers, in the place where the registered office of the trade union is, or where the offence was committed; or
         
@@ -451,11 +451,11 @@ An Act to consolidate certain enactments of the General Assembly relating to the
     
     Compare: 1878 No 8 s 30; Trade Union Act 1871 s 19 (UK)
     
-    Section 30 heading: amended, on 1 July 2013, by [section 413][49] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 30 heading: amended, on 1 July 2013, by [section 413][50] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 30(a): replaced, on 1 July 2013, by [section 413][49] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 30(a): replaced, on 1 July 2013, by [section 413][50] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 30(b): amended, on 1 July 2013, by [section 413][49] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 30(b): amended, on 1 July 2013, by [section 413][50] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 31 Governor-General may make regulations
     
@@ -481,7 +481,7 @@ An Act to consolidate certain enactments of the General Assembly relating to the
     
 *   \[Repealed\]
     
-    Section 33: repealed, on 1 April 1983, by [section 161(1)][47] of the Friendly Societies and Credit Unions Act 1982 (1982 No 118).
+    Section 33: repealed, on 1 April 1983, by [section 161(1)][48] of the Friendly Societies and Credit Unions Act 1982 (1982 No 118).
 
 ##### 34 Proof of instruments
     
@@ -530,35 +530,29 @@ Matters to be provided for by the rules of trade unions registered under this Ac
     
     The inspection of the books and names of members of the trade union by every person having an interest in the funds of the trade union.
 
----
-
-#### Contents
-    
-*   1General
-*   2About this eprint
-*   3List of amendments incorporated in this eprint (most recent first) 
+#### 
 
 ---
 
-##### Notes
+##### Eprint notes
 
 ###### 1 General
     
-*   This is an eprint of the Trade Unions Act 1908\. The eprint incorporates all the amendments to the Act as at 1 July 2013\. The list of amendments at the end of these notes specifies all the amendments incorporated into this eprint since 3 September 2007\.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the eprint are also included, after the principal enactment, in chronological order.
+*   This is an eprint of the Trade Unions Act 1908 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
 ###### 2 About this eprint
     
-*   This eprint has not been officialised. For more information about eprints and officialisation, please _see_ [http://www.pco.parliament.govt.nz/eprints/][54] ![](/images/external_link.gif).
+*   This eprint is not an official version of the legislation under [section 18][55] of the Legislation Act 2012\.
 
-###### 3 List of amendments incorporated in this eprint (most recent first)
+###### 3 Amendments incorporated in this eprint
     
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][49]
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][46]
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][50]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1908/0196/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1908/0196/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1908/0196/latest/whole.html#DLM175704
 [2]: http://www.legislation.govt.nz/act/public/1908/0196/latest/whole.html#DLM175706
 [3]: http://www.legislation.govt.nz/act/public/1908/0196/latest/whole.html#DLM175707
@@ -604,12 +598,13 @@ Matters to be provided for by the rules of trade unions registered under this Ac
 [43]: http://www.legislation.govt.nz/act/public/1908/0196/latest/link.aspx?id=DLM169542
 [44]: http://www.legislation.govt.nz/act/public/1908/0196/latest/link.aspx?id=DLM59731
 [45]: http://www.legislation.govt.nz/act/public/1908/0196/latest/link.aspx?id=DLM144405
-[46]: http://www.legislation.govt.nz/act/public/1908/0196/latest/link.aspx?id=DLM328986
-[47]: http://www.legislation.govt.nz/act/public/1908/0196/latest/link.aspx?id=DLM61310
-[48]: http://www.legislation.govt.nz/act/public/1908/0196/latest/link.aspx?id=DLM59879
-[49]: http://www.legislation.govt.nz/act/public/1908/0196/latest/link.aspx?id=DLM3360714
-[50]: http://www.legislation.govt.nz/act/public/1908/0196/latest/link.aspx?id=DLM175774
-[51]: http://www.legislation.govt.nz/act/public/1908/0196/latest/link.aspx?id=DLM396805
-[52]: http://www.legislation.govt.nz/act/public/1908/0196/latest/link.aspx?id=DLM333795
-[53]: http://www.legislation.govt.nz/act/public/1908/0196/latest/link.aspx?id=DLM3359902
-[54]: http://www.pco.parliament.govt.nz/eprints/
+[46]: http://www.legislation.govt.nz/act/public/1908/0196/latest/link.aspx?id=DLM5620822
+[47]: http://www.legislation.govt.nz/act/public/1908/0196/latest/link.aspx?id=DLM328986
+[48]: http://www.legislation.govt.nz/act/public/1908/0196/latest/link.aspx?id=DLM61310
+[49]: http://www.legislation.govt.nz/act/public/1908/0196/latest/link.aspx?id=DLM59879
+[50]: http://www.legislation.govt.nz/act/public/1908/0196/latest/link.aspx?id=DLM3360714
+[51]: http://www.legislation.govt.nz/act/public/1908/0196/latest/link.aspx?id=DLM175774
+[52]: http://www.legislation.govt.nz/act/public/1908/0196/latest/link.aspx?id=DLM396805
+[53]: http://www.legislation.govt.nz/act/public/1908/0196/latest/link.aspx?id=DLM333795
+[54]: http://www.legislation.govt.nz/act/public/1908/0196/latest/link.aspx?id=DLM3359902
+[55]: http://www.legislation.govt.nz/act/public/1908/0196/latest/link.aspx?id=DLM2998516
