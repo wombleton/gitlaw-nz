@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 5 December 2013
 
 # Industrial and Provident Societies Act 1908Public Act1908 No 81
 
@@ -9,9 +9,7 @@ Date of assent4 August 1908
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this eprint.
-
-A general outline of these changes is set out in the notes at the end of this eprint, together with other explanatory material about this eprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this eprint. See the notes at the end of this eprint for further details.
 
 This Act is administered in the Ministry of Commerce.
 
@@ -499,7 +497,7 @@ An Act to consolidate certain enactments of the General Assembly relating to ind
     
     *   (b) the rules may provide for the advancing of money by the society to members on the security of real or personal property:
     
-    *   (c) the society may, if its rules so allow, invest any part of its capital in the shares or on the security of any other society registered under this Act or under the [Building Societies Act 1965][73], or of any company registered under the Companies Act 1955 or the [Companies Act 1993][74] or incorporated by Act or by charter, provided that no such investments shall be made in the shares of any society or company other than one with limited liability; and a society so investing may make such investment in its registered name, and shall be deemed to be a person within the meaning of those Acts:
+    *   (c) the society may, if its rules so allow, invest any part of its capital in the shares or on the security of any other society registered under this Act or under the [Building Societies Act 1965][73], or of any company registered under the [Companies Act 1993][74] or incorporated by Act or by charter, provided that no such investments shall be made in the shares of any society or company other than one with limited liability; and a society so investing may make such investment in its registered name, and shall be deemed to be a person within the meaning of those Acts:
     
     *   (d) any other body corporate may, if its regulations permit, hold shares by its corporate name in a society:
     
@@ -518,6 +516,8 @@ An Act to consolidate certain enactments of the General Assembly relating to ind
     Paragraph (a)(ii) was substituted, as from 21 November 1973, by section 2 Industrial and Provident Societies Amendment Act 1973 (1973 No 68).
     
     Paragraph (c) was substituted, as from 1 July 1994, by [section 2][77] Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    
+    Section 10(c): amended, on 5 December 2013, by [section 14][78] of the Companies Amendment Act 2013 (2013 No 111).
     
     Paragraph (h) was amended, as from 1 January 1953, by substituting the Land Transfer Act 1952 (1952 No 52) for the repealed Land Transfer Act 1908\.
     
@@ -557,7 +557,7 @@ An Act to consolidate certain enactments of the General Assembly relating to ind
     
     (5) In this section and in [section 10B][19]---
     
-    _creditor_ includes every person who has a claim that in the liquidation of a registered society would be admitted as a claim in accordance with [Part 16][78] of the Companies Act 1993 (as applied by [section 14][79] of the Industrial and Provident Societies Amendment Act 1952)
+    _creditor_ includes every person who has a claim that in the liquidation of a registered society would be admitted as a claim in accordance with [Part 16][79] of the Companies Act 1993 (as applied by [section 14][80] of the Industrial and Provident Societies Amendment Act 1952)
     
     _officer of the registered society who is in default_ means any officer of the registered society who---
         
@@ -567,13 +567,13 @@ An Act to consolidate certain enactments of the General Assembly relating to ind
     
     Sections 10A and 10B were inserted, as from 14 October 1981, by section 4 Industrial and Provident Societies Amendment Act 1981 (1981 No 42).
     
-    Subsection (1) was amended, as from 1 July 1994, by [section 2(1)][80] Industrial and Provident Societies Amendment Act 1993 (1993 No 115) by substituting the words ""in liquidation"" for the words ""being wound up"".
+    Subsection (1) was amended, as from 1 July 1994, by [section 2(1)][81] Industrial and Provident Societies Amendment Act 1993 (1993 No 115) by substituting the words ""in liquidation"" for the words ""being wound up"".
     
-    Subsection (2) was amended, as from 1 July 1994, by [section 2(2)][80] Industrial and Provident Societies Amendment Act 1993 (1993 No 115) by substituting the word ""liquidation"" for the words ""the course of being wound up"".
+    Subsection (2) was amended, as from 1 July 1994, by [section 2(2)][81] Industrial and Provident Societies Amendment Act 1993 (1993 No 115) by substituting the word ""liquidation"" for the words ""the course of being wound up"".
     
     Section 10A(4): amended, on 1 July 2013, by [section 413][55] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    In subsection (5) the definition of Creditor was substituted, as from 1 July 1994, by [section 2(3)][80] Industrial and Provident Societies Amendment Act 1993 (1993 No 115). _See_ [section 5][81] Industrial and Provident Societies Amendment Act 1993 (1993 No 115) for the transitional provisions applying to liquidation of societies. It provides that [section 10A][18], as in force immediately before 1 July 1994, shall continue to apply as if the [Industrial and Provident Societies Amendment Act 1993][82] had not been passed.
+    In subsection (5) the definition of Creditor was substituted, as from 1 July 1994, by [section 2(3)][81] Industrial and Provident Societies Amendment Act 1993 (1993 No 115). _See_ [section 5][82] Industrial and Provident Societies Amendment Act 1993 (1993 No 115) for the transitional provisions applying to liquidation of societies. It provides that [section 10A][18], as in force immediately before 1 July 1994, shall continue to apply as if the [Industrial and Provident Societies Amendment Act 1993][83] had not been passed.
 
 ##### 10B Information as to compromises with creditors and members
     
@@ -603,7 +603,7 @@ An Act to consolidate certain enactments of the General Assembly relating to ind
     
 *   With respect to officers of registered societies having receipt or charge of money the following provisions shall have effect:
         
-    *   (a) every officer, if the rules of the society require, shall, before taking upon himself the execution of his office, become bound with one sufficient surety at the least in a bond in the [form numbered (1)][83] in Schedule 3, or give the security of a guarantee society, in such sum as the society directs, conditioned for his rendering a just and true account of all money received and paid by him on account of the society at such times as its rules appoint, or as the society or committee requires him to do so, and for the payment by him of all sums due from him to the society:
+    *   (a) every officer, if the rules of the society require, shall, before taking upon himself the execution of his office, become bound with one sufficient surety at the least in a bond in the [form numbered (1)][84] in Schedule 3, or give the security of a guarantee society, in such sum as the society directs, conditioned for his rendering a just and true account of all money received and paid by him on account of the society at such times as its rules appoint, or as the society or committee requires him to do so, and for the payment by him of all sums due from him to the society:
     
     *   (b) every officer, his executors or administrators, shall, at such times as by the rules of the society he should, render account, or, on demand made or notice in writing given or left at his last or usual place of residence, give in his account, as may be required by the society or committee, to be examined and allowed or disallowed by the society or committee; and shall, on the like demand or notice, pay over all money and deliver all property for the time being in his hands or custody to such person as the society or the committee appoints; and in case of any neglect or refusal to deliver such account, or to pay over such money, or to deliver such property in manner aforesaid, the society may sue upon the bond or security before-mentioned, or may apply to the District Court in or near to the locality in which the registered office of the society is situated, and the order of such Court shall be final and conclusive.
     
@@ -631,7 +631,7 @@ An Act to consolidate certain enactments of the General Assembly relating to ind
     
     The words ""District Court"" were substituted for the words ""Magistrate's Court"", as from 1 April 1980, pursuant to [section 18][67] District Courts Amendment Act 1979 (1979 No 125).
     
-    The words ""High Court"" were substituted for the words ""Supreme Court"", as from 1 April 1980, pursuant to [section 12][84] Judicature Amendment Act 1979 (1979 No 124).
+    The words ""High Court"" were substituted for the words ""Supreme Court"", as from 1 April 1980, pursuant to [section 12][85] Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 13 Inspection of affairs
     
@@ -665,7 +665,7 @@ An Act to consolidate certain enactments of the General Assembly relating to ind
     
     *   (d) for the purposes of making records thereof, take possession of and remove from the premises where they are kept, for such period of time as is reasonable in the circumstances, any such registers, records, accounts, books, or papers.
     
-    (2) Nothing in subsection (1) limits or affects the [Tax Administration Act 1994][85] or the [Statistics Act 1975][86].
+    (2) Nothing in subsection (1) limits or affects the [Tax Administration Act 1994][86] or the [Statistics Act 1975][87].
     
     (3) \[Repealed\]
     
@@ -705,17 +705,17 @@ An Act to consolidate certain enactments of the General Assembly relating to ind
     
     Subsection (2) was amended, as from 1 April 1995, by section YB 1 Income Tax Act 1994 (1994 No 164) by substituting the words ""Tax Administration Act 1994"" for the words ""Inland Revenue Department Act 1974"".
     
-    Subsections (3), (6) and (8) were repealed, as from 1 April 1987, by [section 25(1)][87] Official Information Amendment Act 1987 (1987 No 8).
+    Subsections (3), (6) and (8) were repealed, as from 1 April 1987, by [section 25(1)][88] Official Information Amendment Act 1987 (1987 No 8).
     
-    Subsections (5)(a), (5)(b), and (7) were substituted, as from 1 October 1995, by [section 10(3)][88] Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Subsections (5)(a), (5)(b), and (7) were substituted, as from 1 October 1995, by [section 10(3)][89] Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 ##### 13AA Registrar may refuse to disclose information relating to inspection
     
-*   (1) Notwithstanding anything in the [Official Information Act 1982][89], but subject to subsections (4) and (5) of [section 13A][23] of this Act, any person who makes an inspection under section 13A(1) of this Act, and any person to whom that person has, pursuant to subsection (4) or subsection (5) of section 13A of this Act or otherwise, given, divulged, or communicated any information that the first-mentioned person has acquired as a result of that inspection, may refuse to disclose any such information to any other person until the purpose for which that inspection is carried out has been satisfied.
+*   (1) Notwithstanding anything in the [Official Information Act 1982][90], but subject to subsections (4) and (5) of [section 13A][23] of this Act, any person who makes an inspection under section 13A(1) of this Act, and any person to whom that person has, pursuant to subsection (4) or subsection (5) of section 13A of this Act or otherwise, given, divulged, or communicated any information that the first-mentioned person has acquired as a result of that inspection, may refuse to disclose any such information to any other person until the purpose for which that inspection is carried out has been satisfied.
     
-    (2) Notwithstanding anything in the [Official Information Act 1982][89], where any person requests the Registrar or any person referred to in subsection (4)(a) or (b) or (c) or (d) or subsection (5)(a) or (b) of [section 13A][23] of this Act to disclose whether an inspection under section 13A(1) of this Act is being, or is proposed to be, or has been carried out, the Registrar or, as the case may require, that person shall not be required to disclose that information under the [Official Information Act 1982][89] unless the disclosure of that information would not be likely to prejudice the commercial position of any registered society or any other person, and there is no other good reason for withholding that information under that Act.
+    (2) Notwithstanding anything in the [Official Information Act 1982][90], where any person requests the Registrar or any person referred to in subsection (4)(a) or (b) or (c) or (d) or subsection (5)(a) or (b) of [section 13A][23] of this Act to disclose whether an inspection under section 13A(1) of this Act is being, or is proposed to be, or has been carried out, the Registrar or, as the case may require, that person shall not be required to disclose that information under the [Official Information Act 1982][90] unless the disclosure of that information would not be likely to prejudice the commercial position of any registered society or any other person, and there is no other good reason for withholding that information under that Act.
     
-    This section was inserted, as from 1 April 1987, by [section 25(1)][87] Official Information Amendment Act 1987 (1987 No 8).
+    This section was inserted, as from 1 April 1987, by [section 25(1)][88] Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 13B Appeals from decisions of Registrar
     
@@ -745,7 +745,7 @@ An Act to consolidate certain enactments of the General Assembly relating to ind
     
     (2) On hearing the appeal, the High Court may confirm the refusal, or give such directions or make such determination in the matter as the High Court thinks fit.
     
-    This section was inserted, as from 1 April 1987, by [section 25(1)][87] Official Information Amendment Act 1987 (1987 No 8).
+    This section was inserted, as from 1 April 1987, by [section 25(1)][88] Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 14 Special resolutions
     
@@ -763,7 +763,7 @@ An Act to consolidate certain enactments of the General Assembly relating to ind
     
     Paragraph (h) of the original section 14 was substituted, as from 6 December 1983, by section 3 Industrial and Provident Societies Amendment Act 1983 (1983 No 55).
     
-    Section 14 was substituted and sections 14A and 14B were inserted, as from 1 September 1996, by [section 51][90] Co-operative Companies Act 1996 (1996 No 24). _See_ [clause 2][91] Co-operative Companies Act Commencement Order 1996 (SR 1996/211).
+    Section 14 was substituted and sections 14A and 14B were inserted, as from 1 September 1996, by [section 51][91] Co-operative Companies Act 1996 (1996 No 24). _See_ [clause 2][92] Co-operative Companies Act Commencement Order 1996 (SR 1996/211).
 
 ##### 14A Action that may be taken by special resolution
     
@@ -777,13 +777,15 @@ An Act to consolidate certain enactments of the General Assembly relating to ind
     
     (5) A society may, by special resolution, determine to apply to be registered as a company under the [Companies Act 1993][74].
     
-    (6) A society may, by special resolution, determine to amalgamate with or transfer its engagements to a company registered under the Companies Act 1955 or the [Companies Act 1993][74], as the case may be.
+    (6) A society may, by special resolution, determine to amalgamate with or transfer its engagements to a company registered under the [Companies Act 1993][74].
     
     (7) A copy of every special resolution passed for any of the purposes referred to in subsections (1), (3), (4), or (6), signed by the chairperson of the meeting and countersigned by the secretary of the society, shall be sent to the Registrar, and be registered, and until it is registered, the special resolution shall not take effect.
     
-    (8) A copy of every special resolution passed for the purposes of subsection (5) shall be sent or delivered to the Registrar of Companies together with the application for registration under [section 12][92] of the Companies Act 1993\.
+    (8) A copy of every special resolution passed for the purposes of subsection (5) shall be sent or delivered to the Registrar of Companies together with the application for registration under [section 12][93] of the Companies Act 1993\.
     
-    Section 14 was substituted and sections 14A and 14B were inserted, as from 1 September 1996, by [section 51][90] Co-operative Companies Act 1996 (1996 No 24). _See_ [clause 2][91] Co-operative Companies Act Commencement Order 1996 (SR 1996/211).
+    Section 14 was substituted and sections 14A and 14B were inserted, as from 1 September 1996, by [section 51][91] Co-operative Companies Act 1996 (1996 No 24). _See_ [clause 2][92] Co-operative Companies Act Commencement Order 1996 (SR 1996/211).
+    
+    Section 14A(6): amended, on 5 December 2013, by [section 14][78] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 14B Consequential provisions
     
@@ -795,7 +797,7 @@ An Act to consolidate certain enactments of the General Assembly relating to ind
     
     *   (c) any action, arbitration, or proceeding pending or existing against the society may be prosecuted, continued, and enforced against the company.
     
-    Section 14 was substituted and sections 14A and 14B were inserted, as from 1 September 1996, by [section 51][90] Co-operative Companies Act 1996 (1996 No 24). _See_ [clause 2][91] Co-operative Companies Act Commencement Order 1996 (SR 1996/211).
+    Section 14 was substituted and sections 14A and 14B were inserted, as from 1 September 1996, by [section 51][91] Co-operative Companies Act 1996 (1996 No 24). _See_ [clause 2][92] Co-operative Companies Act Commencement Order 1996 (SR 1996/211).
 
 ##### 15 Dissolution of societies
     
@@ -805,9 +807,9 @@ An Act to consolidate certain enactments of the General Assembly relating to ind
             
         *   (i) by the appointment by the High Court as liquidator of a named person or of an Official Assignee for the named district; or
         
-        *   (ii) by the appointment of a named person as liquidator pursuant to a resolution of the members passed in the same manner as a resolution under [section 241(2)(a)][93] of the Companies Act 1993,---
+        *   (ii) by the appointment of a named person as liquidator pursuant to a resolution of the members passed in the same manner as a resolution under [section 241(2)(a)][94] of the Companies Act 1993,---
         
-        and the provisions of [Parts 16][78] and [17][94] of the Companies Act 1993 shall apply with such modifications as may be necessary in relation to any application to the Court to appoint a liquidator and in relation to the liquidation of the society:
+        and the provisions of [Parts 16][79] and [17][95] of the Companies Act 1993 shall apply with such modifications as may be necessary in relation to any application to the Court to appoint a liquidator and in relation to the liquidation of the society:
     
     *   (ab) a society may be dissolved by an instrument of dissolution signed by three-fourths of the members:
     
@@ -845,11 +847,11 @@ An Act to consolidate certain enactments of the General Assembly relating to ind
     
     Compare: 1877 No 11 s 16
     
-    The original paragraph (a) was amended, as from 5 July 1979, by [section 3(1)][95] Industrial and Provident Societies Amendment Act 1979 (1979 No 10) by omitting the words ""except that the Court having jurisdiction in the winding up shall be the Magistrate's Court"".
+    The original paragraph (a) was amended, as from 5 July 1979, by [section 3(1)][96] Industrial and Provident Societies Amendment Act 1979 (1979 No 10) by omitting the words ""except that the Court having jurisdiction in the winding up shall be the Magistrate's Court"".
     
-    Paragraph (a) was substituted, and paragraph (ab) was inserted, as from 1 July 1994, by [section 3(1)][96] Industrial and Provident Societies Amendment Act 1993 (1993 No 115). _See_ [section 5][81] of that Act as to the transitional provisions applying to liquidation of societies.
+    Paragraph (a) was substituted, and paragraph (ab) was inserted, as from 1 July 1994, by [section 3(1)][97] Industrial and Provident Societies Amendment Act 1993 (1993 No 115). _See_ [section 5][82] of that Act as to the transitional provisions applying to liquidation of societies.
     
-    Paragraph (b) was amended, as from 1 July 1994, by [section 3(2)(a)][96] Industrial and Provident Societies Amendment Act 1993 (1993 No 115) by substituting the words ""put into liquidation"" for the words ""wound up"". Section (3)(2)(b) of the same Act omitted both occurrences of the words ""winding up"" and substituted the words ""the liquidation"" for the first occurrence and ""liquidation"" for the second occurrence. _See_ [section 5][81] of that Act as to the transitional provisions applying to liquidation of societies.
+    Paragraph (b) was amended, as from 1 July 1994, by [section 3(2)(a)][97] Industrial and Provident Societies Amendment Act 1993 (1993 No 115) by substituting the words ""put into liquidation"" for the words ""wound up"". Section (3)(2)(b) of the same Act omitted both occurrences of the words ""winding up"" and substituted the words ""the liquidation"" for the first occurrence and ""liquidation"" for the second occurrence. _See_ [section 5][82] of that Act as to the transitional provisions applying to liquidation of societies.
     
     Section 15(1)(c)(iii): amended, on 1 July 2013, by [section 413][55] of the Criminal Procedure Act 2011 (2011 No 81).
     
@@ -873,11 +875,11 @@ An Act to consolidate certain enactments of the General Assembly relating to ind
     
     Compare: 1877 No 11 s 17
     
-    Section 16(a): amended, on 1 May 2011, by [section 82][97] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 16(a): amended, on 1 May 2011, by [section 82][98] of the Financial Markets Authority Act 2011 (2011 No 5).
     
     The words ""statement of financial position"" in paragraph (a) were substituted, as from 1 October 1997, for the words ""balance sheet"" pursuant to [section 6(1)][64] Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 16(c): amended, on 1 May 2011, by [section 82][97] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 16(c): amended, on 1 May 2011, by [section 82][98] of the Financial Markets Authority Act 2011 (2011 No 5).
     
     Section 16(d): repealed, on 1 July 2013, by [section 413][55] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -911,7 +913,7 @@ An Act to consolidate certain enactments of the General Assembly relating to ind
     
     (1A) Whenever any registered society has no auditor the Registrar may, on the application of any member of the society, appoint an auditor of the society. The remuneration of an auditor appointed by the Registrar may be fixed by the Registrar.
     
-    (2) No person shall be qualified for appointment under this section as auditor of a registered society unless he is a chartered accountant (within the meaning of [section 19][98] of the New Zealand Institute of Chartered Accountants Act 1996).
+    (2) No person shall be qualified for appointment under this section as auditor of a registered society unless he is a chartered accountant (within the meaning of [section 19][99] of the New Zealand Institute of Chartered Accountants Act 1996).
     
     (2A) However, if the registered society is an issuer, the registered society must appoint---
         
@@ -919,23 +921,23 @@ An Act to consolidate certain enactments of the General Assembly relating to ind
     
     *   (b) a registered audit firm by its firm name to be the auditors of the society (in which case, all the partners in the firm, from time to time, who are licensed auditors are deemed to be appointed as the auditors).
     
-    (2B) In subsection (2A), _issuer_, _registered audit firm_, and _licensed auditor_ have the same meanings as in [section 6][99] of the Auditor Regulation Act 2011\.
+    (2B) In subsection (2A), _issuer_, _registered audit firm_, and _licensed auditor_ have the same meanings as in [section 6][100] of the Auditor Regulation Act 2011\.
     
     (3) Nothing in this section (except subsection (2A)) shall be construed to limit or affect in any way any provision in the rules of a registered society for the appointment, in accordance with those rules, of 2 or more persons as auditors of the society, and nothing in subsection (2) shall apply to any person so appointed.
     
     This section was substituted, as from 3 December 1948, by [section 20(1)][61] Statutes Amendment Act 1948 (1948 No 77).
     
-    Subsection (1A) was inserted, as from 22 October 1952, by [section 6][100] Industrial and Provident Societies Amendment Act 1952 (1952 No 45).
+    Subsection (1A) was inserted, as from 22 October 1952, by [section 6][101] Industrial and Provident Societies Amendment Act 1952 (1952 No 45).
     
-    Section 19(2): amended, on 7 July 2010, by [section 10][101] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    Section 19(2): amended, on 7 July 2010, by [section 10][102] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
     
-    Subsection (2) was amended, as from 1 October 1996, by [section 23][102] Institute of Chartered Accountants of New Zealand Amendment Act 1996 (1996 No 39) by substituting the words ""chartered accountant (within the meaning of section 19 of the Institute of Chartered Accountants of New Zealand Act 1996)"" for the words ""member of the New Zealand Society of Accountants"".
+    Subsection (2) was amended, as from 1 October 1996, by [section 23][103] Institute of Chartered Accountants of New Zealand Amendment Act 1996 (1996 No 39) by substituting the words ""chartered accountant (within the meaning of section 19 of the Institute of Chartered Accountants of New Zealand Act 1996)"" for the words ""member of the New Zealand Society of Accountants"".
     
-    Section 19(2A): inserted, on 1 July 2012, by [section 82][103] of the Auditor Regulation Act 2011 (2011 No 21).
+    Section 19(2A): inserted, on 1 July 2012, by [section 82][104] of the Auditor Regulation Act 2011 (2011 No 21).
     
-    Section 19(2B): inserted, on 1 July 2012, by [section 82][103] of the Auditor Regulation Act 2011 (2011 No 21).
+    Section 19(2B): inserted, on 1 July 2012, by [section 82][104] of the Auditor Regulation Act 2011 (2011 No 21).
     
-    Section 19(3): amended, on 1 July 2012, by [section 82][103] of the Auditor Regulation Act 2011 (2011 No 21).
+    Section 19(3): amended, on 1 July 2012, by [section 82][104] of the Auditor Regulation Act 2011 (2011 No 21).
 
 ##### 20 Fees
     
@@ -945,7 +947,7 @@ An Act to consolidate certain enactments of the General Assembly relating to ind
     
     Compare: 1877 No 11 s 21
     
-    The words ""Consolidated Revenue Account"" were substituted for the words ""Consolidated Fund"", as from 1 April 1964, pursuant to section 4(4) Public Revenues Amendment Act 1963 (1963 No 46). These words were in turn substituted by the words ""Consolidated Account"", as from 1 April 1978, pursuant to section 114(6) Public Finance Act 1977 (1977 No 65). The words ""Public Account"" and ""Consolidated Account"" were in turn substituted by the words ""Crown Bank Account"", as from 1 July 1989, pursuant to [section 83(7)][104] Public Finance Act 1989 (1989 No 44).
+    The words ""Consolidated Revenue Account"" were substituted for the words ""Consolidated Fund"", as from 1 April 1964, pursuant to section 4(4) Public Revenues Amendment Act 1963 (1963 No 46). These words were in turn substituted by the words ""Consolidated Account"", as from 1 April 1978, pursuant to section 114(6) Public Finance Act 1977 (1977 No 65). The words ""Public Account"" and ""Consolidated Account"" were in turn substituted by the words ""Crown Bank Account"", as from 1 July 1989, pursuant to [section 83(7)][105] Public Finance Act 1989 (1989 No 44).
 
 ##### 21 Payment of salaries and expenses
     
@@ -961,7 +963,7 @@ An Act to consolidate certain enactments of the General Assembly relating to ind
     
     Compare: 1877 No 11 s 23
     
-    Subsection (2) was repealed, as from 19 December 1989, by [section 11][105] Regulations (Disallowance) Act 1989 (1989 No 143).
+    Subsection (2) was repealed, as from 19 December 1989, by [section 11][106] Regulations (Disallowance) Act 1989 (1989 No 143).
 
 ##### 23 Evidence of documents
     
@@ -989,7 +991,7 @@ An Act to consolidate certain enactments of the General Assembly relating to ind
     
 *   \[Repealed\]
     
-    This section was repealed, as from 1 July 1994, by [section 3(1)][106] Industrial and Provident Societies Amendment Act 1994 (1994 No 39).
+    This section was repealed, as from 1 July 1994, by [section 3(1)][107] Industrial and Provident Societies Amendment Act 1994 (1994 No 39).
 
 ---
 
@@ -1089,43 +1091,37 @@ E F, Registrar.
 
 \[_Seal or stamp of Registrar._\]
 
----
-
-#### Contents
-    
-*   1General
-*   2About this eprint
-*   3List of amendments incorporated in this eprint (most recent first) 
+#### 
 
 ---
 
-##### Notes
+##### Eprint notes
 
 ###### 1 General
     
-*   This is an eprint of the Industrial and Provident Societies Act 1908\. The eprint incorporates all the amendments to the Act as at 1 July 2013\. The list of amendments at the end of these notes specifies all the amendments incorporated into this eprint since 3 September 2007\.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the eprint are also included, after the principal enactment, in chronological order.
+*   This is an eprint of the Industrial and Provident Societies Act 1908 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
 ###### 2 About this eprint
     
-*   This eprint has not been officialised. For more information about eprints and officialisation, please _see_ [http://www.pco.parliament.govt.nz/eprints/][107] ![](/images/external_link.gif).
+*   This eprint is not an official version of the legislation under [section 18][108] of the Legislation Act 2012\.
 
-###### 3 List of amendments incorporated in this eprint (most recent first)
+###### 3 Amendments incorporated in this eprint
     
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][55]
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][78]
     
-    Auditor Regulation Act 2011 (2011 No 21): [section 82][103]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][55]
     
-    Financial Markets Authority Act 2011 (2011 No 5): [section 82][97]
+    Auditor Regulation Act 2011 (2011 No 21): [section 82][104]
     
-    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][101]
+    Financial Markets Authority Act 2011 (2011 No 5): [section 82][98]
     
-    [Industrial and Provident Societies Amendment Act 2007][108] (2007 No 65)
+    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][102]
+    
+    [Industrial and Provident Societies Amendment Act 2007][109] (2007 No 65)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1908/0081/latest/whole.html#DLM144408
 [2]: http://www.legislation.govt.nz/act/public/1908/0081/latest/whole.html#DLM144410
 [3]: http://www.legislation.govt.nz/act/public/1908/0081/latest/whole.html#DLM144411
@@ -1203,34 +1199,35 @@ E F, Registrar.
 [75]: http://www.legislation.govt.nz/act/public/1908/0081/latest/whole.html#DLM144685
 [76]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM269031
 [77]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM328986
-[78]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM321666
-[79]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM266552
-[80]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM327464
-[81]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM327467
-[82]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM327458
-[83]: http://www.legislation.govt.nz/act/public/1908/0081/latest/whole.html#DLM144683
-[84]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM35049
-[85]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM348342
-[86]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM430704
-[87]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM101353
-[88]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM367235
-[89]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM64784
-[90]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM377310
-[91]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM217302
-[92]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM320111
-[93]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM321678
-[94]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM322825
-[95]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM31564
-[96]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM327465
-[97]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM3231793
-[98]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM391422
-[99]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM3230581
-[100]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM266530
-[101]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM3043113
-[102]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM391427
-[103]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM3231525
-[104]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM163167
-[105]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM195558
-[106]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM331818
-[107]: http://www.pco.parliament.govt.nz/eprints/
-[108]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM968357
+[78]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM5620822
+[79]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM321666
+[80]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM266552
+[81]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM327464
+[82]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM327467
+[83]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM327458
+[84]: http://www.legislation.govt.nz/act/public/1908/0081/latest/whole.html#DLM144683
+[85]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM35049
+[86]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM348342
+[87]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM430704
+[88]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM101353
+[89]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM367235
+[90]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM64784
+[91]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM377310
+[92]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM217302
+[93]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM320111
+[94]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM321678
+[95]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM322825
+[96]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM31564
+[97]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM327465
+[98]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM3231793
+[99]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM391422
+[100]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM3230581
+[101]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM266530
+[102]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM3043113
+[103]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM391427
+[104]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM3231525
+[105]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM163167
+[106]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM195558
+[107]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM331818
+[108]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM2998516
+[109]: http://www.legislation.govt.nz/act/public/1908/0081/latest/link.aspx?id=DLM968357
