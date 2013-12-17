@@ -1,3 +1,6 @@
+Reprint  
+as at 5 December 2013
+
 # Bills of Exchange Act 1908Public Act1908 No 15
 
 Date of assent4 August 1908
@@ -6,251 +9,249 @@ Date of assent4 August 1908
 
 ###### Note
 
-This Act is administered in the Department of Justice
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this eprint. See the notes at the end of this eprint for further details.
+
+This Act is administered in the Reserve Bank.
 
 ---
 
 ## Contents
 
-[Title][0]
+[Title][1]
 
-[1][1] [Short Title, etc][1]
+[1][2][][2][Short Title, etc][2]
 
-[2][2] [Interpretation][2]
+[2][3][][3][Interpretation][3]
 
-[Part 1][3]  
-[Bills of exchange][3]
+[Part 1][4]  
+[Bills of exchange][4]
 
-[Forms and interpretation][4]
+[Forms and interpretation][5]
 
-[3][5] [_Bill of exchange_ defined][5]
+[3][6][][6][Bill of exchange defined][6]
 
-[4][6] [Inland and foreign bills][6]
+[4][7][][7][Inland and foreign bills][7]
 
-[5][7] [How bills may be drawn][7]
+[5][8][][8][How bills may be drawn][8]
 
-[6][8] [Address to drawee][8]
+[6][9][][9][Address to drawee][9]
 
-[7][9] [Certainty required as to payee][9]
+[7][10][][10][Certainty required as to payee][10]
 
-[8][10] [What bills are negotiable][10]
+[8][11][][11][What bills are negotiable][11]
 
-[9][11] [Sum payable][11]
+[9][12][][12][Sum payable][12]
 
-[10][12] [Bill payable on demand][12]
+[10][13][][13][Bill payable on demand][13]
 
-[11][13] [Bill payable at a future time][13]
+[11][14][][14][Bill payable at a future time][14]
 
-[12][14] [Omission of date in bill payable after date][14]
+[12][15][][15][Omission of date in bill payable after date][15]
 
-[13][15] [Antedating and postdating][15]
+[13][16][][16][Antedating and postdating][16]
 
-[14][16] [Computation of time of payment][16]
+[14][17][][17][Computation of time of payment][17]
 
-[15][17] [Referee in case of need][17]
+[15][18][][18][Referee in case of need][18]
 
-[16][18] [Optional stipulations by drawer or indorser][18]
+[16][19][][19][Optional stipulations by drawer or indorser][19]
 
-[17][19] [Definition and requisites of acceptance][19]
+[17][20][][20][Definition and requisites of acceptance][20]
 
-[18][20] [Time for acceptance][20]
+[18][21][][21][Time for acceptance][21]
 
-[19][21] [General and qualified acceptances][21]
+[19][22][][22][General and qualified acceptances][22]
 
-[20][22] [Inchoate instruments][22]
+[20][23][][23][Inchoate instruments][23]
 
-[21][23] [Delivery][23]
+[21][24][][24][Delivery][24]
 
-[Capacity and authority of parties][24]
+[Capacity and authority of parties][25]
 
-[22][25] [Capacity of parties][25]
+[22][26][][26][Capacity of parties][26]
 
-[23][26] [Signature essential to liability][26]
+[23][27][][27][Signature essential to liability][27]
 
-[24][27] [Forged or unauthorised signature][27]
+[24][28][][28][Forged or unauthorised signature][28]
 
-[25][28] [Signature by procuration][28]
+[25][29][][29][Signature by procuration][29]
 
-[26][29] [Person signing as agent or representative][29]
+[26][30][][30][Person signing as agent or representative][30]
 
-[The consideration for a bill][30]
+[The consideration for a bill][31]
 
-[27][31] [Value, and holder for value][31]
+[27][32][][32][Value, and holder for value][32]
 
-[28][32] [Accommodation party][32]
+[28][33][][33][Accommodation party][33]
 
-[29][33] [Holder in due course][33]
+[29][34][][34][Holder in due course][34]
 
-[30][34] [Presumption of value and good faith][34]
+[30][35][][35][Presumption of value and good faith][35]
 
-[Negotiation of bills][35]
+[Negotiation of bills][36]
 
-[31][36] [Negotiation of bill][36]
+[31][37][][37][Negotiation of bill][37]
 
-[32][37] [Requisition of a valid indorsement][37]
+[32][38][][38][Requisition of a valid indorsement][38]
 
-[33][38] [Conditional indorsement][38]
+[33][39][][39][Conditional indorsement][39]
 
-[34][39] [Indorsement in blank, and special indorsement][39]
+[34][40][][40][Indorsement in blank, and special indorsement][40]
 
-[35][40] [Restrictive indorsement][40]
+[35][41][][41][Restrictive indorsement][41]
 
-[36][41] [Negotiation of overdue or dishonoured bill][41]
+[36][42][][42][Negotiation of overdue or dishonoured bill][42]
 
-[37][42] [Negotiation of bill to party already liable thereon][42]
+[37][43][][43][Negotiation of bill to party already liable thereon][43]
 
-[38][43] [Rights of the holder][43]
+[38][44][][44][Rights of the holder][44]
 
-[General duties of the holder][44]
+[General duties of the holder][45]
 
-[39][45] [When presentment for acceptance is necessary][45]
+[39][46][][46][When presentment for acceptance is necessary][46]
 
-[40][46] [Time for presenting bill payable after sight][46]
+[40][47][][47][Time for presenting bill payable after sight][47]
 
-[41][47] [Rules as to presentment for acceptance, and excuses for non-presentment][47]
+[41][48][][48][Rules as to presentment for acceptance, and excuses for non-presentment][48]
 
-[42][48] [Non-acceptance][48]
+[42][49][][49][Non-acceptance][49]
 
-[43][49] [Dishonour by non-acceptance, and its consequences][49]
+[43][50][][50][Dishonour by non-acceptance, and its consequences][50]
 
-[44][50] [Qualified acceptance][50]
+[44][51][][51][Qualified acceptance][51]
 
-[45][51] [Rules as to presentment for payment][51]
+[45][52][][52][Rules as to presentment for payment][52]
 
-[46][52] [Excuses for delay or non-presentment for payment][52]
+[46][53][][53][Excuses for delay or non-presentment for payment][53]
 
-[47][53] [Dishonour by non-payment][53]
+[47][54][][54][Dishonour by non-payment][54]
 
-[48][54] [Notice of dishonour][54]
+[48][55][][55][Notice of dishonour][55]
 
-[49][55] [Rules as to notice of dishonour][55]
+[49][56][][56][Rules as to notice of dishonour][56]
 
-[50][56] [Excuses for want of notice and delay][56]
+[50][57][][57][Excuses for want of notice and delay][57]
 
-[51][57] [Noting or protest of bill][57]
+[51][58][][58][Noting or protest of bill][58]
 
-[52][58] [Duties of holder as regards drawee or acceptor][58]
+[52][59][][59][Duties of holder as regards drawee or acceptor][59]
 
-[Liabilities of parties][59]
+[Liabilities of parties][60]
 
-[53][60] [Funds in hands of drawee][60]
+[53][61][][61][Funds in hands of drawee][61]
 
-[54][61] [Liability of acceptor][61]
+[54][62][][62][Liability of acceptor][62]
 
-[55][62] [Liability of drawer or indorser][62]
+[55][63][][63][Liability of drawer or indorser][63]
 
-[56][63] [Stranger signing bill liable as indorser][63]
+[56][64][][64][Stranger signing bill liable as indorser][64]
 
-[57][64] [Measure of damages against parties to dishonoured bill][64]
+[57][65][][65][Measure of damages against parties to dishonoured bill][65]
 
-[58][65] [Transferor and transferee by delivery][65]
+[58][66][][66][Transferor and transferee by delivery][66]
 
-[Discharge of bill][66]
+[Discharge of bill][67]
 
-[59][67] [Payment in due course][67]
+[59][68][][68][Payment in due course][68]
 
-[60][68] [Banker paying on demand draft bearing forged indorsement][68]
+[60][69][][69][Banker paying on demand draft bearing forged indorsement][69]
 
-[61][69] [Where acceptor the holder at maturity][69]
+[61][70][][70][Where acceptor the holder at maturity][70]
 
-[62][70] [Holder may waive his rights][70]
+[62][71][][71][Holder may waive his rights][71]
 
-[63][71] [Cancellation][71]
+[63][72][][72][Cancellation][72]
 
-[64][72] [Alteration of bill][72]
+[64][73][][73][Alteration of bill][73]
 
-[Acceptance and payment for honour][73]
+[Acceptance and payment for honour][74]
 
-[65][74] [Acceptance for honour _supra_ protest][74]
+[65][75][][75][Acceptance for honour _supra_ protest][75]
 
-[66][75] [Liability of acceptor for honour][75]
+[66][76][][76][Liability of acceptor for honour][76]
 
-[67][76] [Presentation to acceptor for honour][76]
+[67][77][][77][Presentation to acceptor for honour][77]
 
-[68][77] [Payment for honour _supra_ protest][77]
+[68][78][][78][Payment for honour _supra_ protest][78]
 
-[Lost bills][78]
+[Lost bills][79]
 
-[69][79] [Holder's right to duplicate of lost bill][79]
+[69][80][][80][Holder's right to duplicate of lost bill][80]
 
-[70][80] [Action on lost bill][80]
+[70][81][][81][Action on lost bill][81]
 
-[Bill in a set][81]
+[Bill in a set][82]
 
-[71][82] [Rules as to sets][82]
+[71][83][][83][Rules as to sets][83]
 
-[Conflict of laws][83]
+[Conflict of laws][84]
 
-[72][84] [Law governing contracts contained in a bill][84]
+[72][85][][85][Law governing contracts contained in a bill][85]
 
-[Part 2][85]  
-[Cheques on a bank][85]
+[Part 2][86]  
+[Cheques on a bank][86]
 
-[73][86] [_Cheque_ defined][86]
+[73][87][][87][Cheque defined][87]
 
-[74][87] [Presentment of cheques for payment][87]
+[74][88][][88][Presentment of cheques for payment][88]
 
-[75][88] [Revocation of banker's authority][88]
+[75][89][][89][Revocation of banker's authority][89]
 
-[Crossed cheques][89]
+[Crossed cheques][90]
 
-[76][90] [General and special crossings defined][90]
+[76][91][][91][General and special crossings defined][91]
 
-[77][91] [Crossing by drawer or after issue][91]
+[77][92][][92][Crossing by drawer or after issue][92]
 
-[78][92] [Crossing to be deemed a material part of cheque][92]
+[78][93][][93][Crossing to be deemed a material part of cheque][93]
 
-[79][93] [Duties of banker as to crossed cheques][93]
+[79][94][][94][Duties of banker as to crossed cheques][94]
 
-[80][94] [Protection to banker and drawer where cheque is crossed][94]
+[80][95][][95][Protection to banker and drawer where cheque is crossed][95]
 
-[81][95] [Effect of the words ""Not negotiable""][95]
+[81][96][][96][Effect of the words ""Not negotiable""][96]
 
-[82][96] [][96] \[Repealed\]
-
-[83][97] [Branch banks deemed independent banks for certain purposes][97]
+[83][97][][97][Branch banks deemed independent banks for certain purposes][97]
 
 [Part 3][98]  
 [Promissory notes][98]
 
-[84][99] [_Promissory note_ defined][99]
+[84][99][][99][Promissory note defined][99]
 
-[85][100] [Delivery necessary][100]
+[85][100][][100][Delivery necessary][100]
 
-[86][101] [Joint and several notes][101]
+[86][101][][101][Joint and several notes][101]
 
-[87][102] [Note payable on demand][102]
+[87][102][][102][Note payable on demand][102]
 
-[88][103] [Presentment of note for payment][103]
+[88][103][][103][Presentment of note for payment][103]
 
-[89][104] [Liability of maker][104]
+[89][104][][104][Liability of maker][104]
 
-[90][105] [Application of Part 1 to notes][105]
+[90][105][][105][Application of Part 1 to notes][105]
 
 [Part 4][106]  
 [Miscellaneous][106]
 
-[91][107] [Good faith][107]
+[91][107][][107][Good faith][107]
 
-[92][108] [Signature][108]
+[92][108][][108][Signature][108]
 
-[93][109] [Computation of time][109]
+[93][109][][109][Computation of time][109]
 
-[94][110] [When noting equivalent to protest][110]
+[94][110][][110][When noting equivalent to protest][110]
 
-[95][111] [Protest when notary not accessible][111]
+[95][111][][111][Protest when notary not accessible][111]
 
-[96][112] [Bill drawn at sight to be deemed a bill payable on demand][112]
+[96][112][][112][Bill drawn at sight to be deemed a bill payable on demand][112]
 
-[97][113] [][113] \[Repealed\]
+[98][113][][113][Saving][113]
 
-[98][114] [Saving][114]
+[Schedule 1][114]  
+[Enactments consolidated][114]
 
-[Schedule 1][115]  
-[Enactments consolidated][115]
-
-[Schedule 2][116]  
-[Protest where the services of a notary cannot be obtained][116]
+[Schedule 2][115]  
+[Protest where the services of a notary cannot be obtained][115]
 
 ---
 
@@ -260,14 +261,14 @@ An Act to consolidate certain enactments of the General Assembly relating to bil
     
 *   (1) The Short Title of this Act is the Bills of Exchange Act 1908\.
     
-    (2) This Act is a consolidation of the enactments mentioned in Schedule [1][115] hereto.
+    (2) This Act is a consolidation of the enactments mentioned in [Schedule 1][114].
     
     (3) This Act is divided into Parts, as follows:
         
-    *   PART [1][3]---Bills of Exchange. (Sections [3 to 72][5].)
-    *   PART [2][85]---Cheques on a Bank. (Sections [73 to 83][86].)
-    *   PART [3][98]---Promissory Notes. (Sections [84 to 90][99].)
-    *   PART [4][106]---Miscellaneous. (Sections [91 to 98][107].)
+    *   Part 1---Bills of Exchange. ([Sections 3 to 72][6].)
+    *   Part 2---Cheques on a Bank. ([Sections 73 to 83][87].)
+    *   Part 3---Promissory Notes. ([Sections 84 to 90][99].)
+    *   Part 4---Miscellaneous. ([Sections 91 to 98][107].)
     
     
 
@@ -275,48 +276,48 @@ An Act to consolidate certain enactments of the General Assembly relating to bil
     
 *   In this Act, if not inconsistent with the context,---
     
-    _Acceptance_ means an acceptance completed by delivery or notice
+    _acceptance_ means an acceptance completed by delivery or notice
     
-    _Action_ includes counterclaim and set-off
+    _action_ includes counterclaim and set-off
     
     _Banker_ includes a body of persons, whether incorporated or not, who carry on the business of banking
     
-    _Bankrupt_ includes any person whose estate is vested in a trustee or assignee under the law for the time being in force relating to bankruptcy
+    _bankrupt_ includes any person whose estate is vested in a trustee or assignee under the law for the time being in force relating to bankruptcy
     
-    _Bearer_ means the person in possession of a bill or note payable to bearer
+    _bearer_ means the person in possession of a bill or note payable to bearer
     
-    _Bill_ means bill of exchange, and _note_ means promissory note
+    _bill_ means bill of exchange, and _note_ means promissory note
     
-    _Business day_ means any day that is not a non-business day
+    _business day_ means any day that is not a non-business day
     
-    ""Business day"": this definition was inserted, as from 1 January 1980, by section [2][117] Bills of Exchange Amendment Act 1979 (1979 No 3).
+    _delivery_ means transfer of possession, actual or constructive, from one person to another
     
-    _Delivery_ means transfer of possession, actual or constructive, from one person to another
+    _holder_ means the payee or indorsee of a bill or note who is in possession of it, or the bearer thereof
     
-    _Holder_ means the payee or indorsee of a bill or note who is in possession of it, or the bearer thereof
+    _indorsement_ means an indorsement completed by delivery
     
-    _Indorsement_ means an indorsement completed by delivery
+    _issue_ means the first delivery of a bill or note, complete in form, to a person who takes it as a holder
     
-    _Issue_ means the first delivery of a bill or note, complete in form, to a person who takes it as a holder
+    _non-business day_ means any Saturday or Sunday or any bank holiday (not being a part holiday) within the meaning of the Banking Act 1982; and includes, in respect of any bank premises, every day on which those premises are not open for business
     
-    _Non-business day_ means any Saturday or Sunday or any bank holiday (not being a part holiday) within the meaning of the Banking Act 1982; and includes, in respect of any bank premises, every day on which those premises are not open for business
-    
-    ""Non-business day"": this definition was inserted, as from 1 January 1980, by section [2][117] Bills of Exchange Amendment Act 1979 (1979 No 3).
-    
-    Non-business day: the reference to the Banking Act 1982 was substituted, as from 16 December 1982, for a reference to the Banking Act 1908 pursuant to section 15 Banking Act 1982 (1982 No 144).
-    
-    _Value_ means valuable consideration.
+    _value_ means valuable consideration.
     
     Compare: 1883 No 8 s 2
+    
+    Section 2 **business day**: inserted, on 1 January 1980, by [section 2][116] of the Bills of Exchange Amendment Act 1979 (1979 No 3).
+    
+    Section 2 **non-business day**: inserted, on 1 January 1980, by [section 2][116] of the Bills of Exchange Amendment Act 1979 (1979 No 3).
+    
+    Section 2 **non-business day**: amended, on 16 December 1982, pursuant to section 15 of the Banking Act 1982 (1982 No 144).
 
 ## Part 1  
 Bills of exchange
 
 #### Forms and interpretation
 
-##### 3 _Bill of exchange_ defined
+##### 3 Bill of exchange defined
     
-*   (1) A bill of exchange is an unconditional order in writing, addressed by one person to another, signed by the person giving it, requiring the person to whom it is addressed to pay on demand, or at a fixed or determinable future time, a sum certain in money to or to the order of a specified person, or to bearer.
+*   (1) A _bill of exchange_ is an unconditional order in writing, addressed by one person to another, signed by the person giving it, requiring the person to whom it is addressed to pay on demand, or at a fixed or determinable future time, a sum certain in money to or to the order of a specified person, or to bearer.
     
     (2) An instrument that does not comply with these conditions, or that orders any act to be done in addition to the payment of money, is not a bill of exchange.
     
@@ -324,11 +325,11 @@ Bills of exchange
     
     (4) A bill is not invalid by reason that---
         
-    *   (a) It is not dated:
+    *   (a) it is not dated:
     
-    *   (b) It does not specify the value given, or that any value has been given, therefor:
+    *   (b) it does not specify the value given, or that any value has been given, therefor:
     
-    *   (c) It does not specify the place where it is drawn or the place where it is payable.
+    *   (c) it does not specify the place where it is drawn or the place where it is payable.
     
     Compare: 1883 No 8 s 3
 
@@ -346,9 +347,9 @@ Bills of exchange
     
     Compare: 1883 No 8 s 4; 1884 No 28 s 2
     
-    Subsection (1) was substituted, as from 19 December 2002, by section [3][118] Bills of Exchange Amendment Act 2002 (2002 No 58).
+    Section 4(1): replaced, on 19 December 2002, by [section 3][117] of the Bills of Exchange Amendment Act 2002 (2002 No 58).
     
-    Subsection (1A) was inserted, as from 19 December 2002, by section [3][118] Bills of Exchange Amendment Act 2002 (2002 No 58).
+    Section 4(1A): inserted, on 19 December 2002, by [section 3][117] of the Bills of Exchange Amendment Act 2002 (2002 No 58).
 
 ##### 5 How bills may be drawn
     
@@ -372,11 +373,11 @@ Bills of exchange
     
     (2) A bill may be made payable---
         
-    *   (a) To 2 or more payees jointly; or
+    *   (a) to 2 or more payees jointly; or
     
-    *   (b) In the alternative to 1 of 2, or 1 or some of several payees; or
+    *   (b) in the alternative to 1 of 2, or 1 or some of several payees; or
     
-    *   (c) To the holder of an office for the time being.
+    *   (c) to the holder of an office for the time being.
     
     (3) Where the payee is a fictitious or non-existing person the bill may be treated as payable to bearer.
     
@@ -400,13 +401,13 @@ Bills of exchange
     
 *   (1) The sum payable by a bill is a sum certain within the meaning of this Act, although it is required to be paid---
         
-    *   (a) With interest:
+    *   (a) with interest:
     
-    *   (b) By stated instalments:
+    *   (b) by stated instalments:
     
-    *   (c) By stated instalments, with a provision that upon default in payment of any instalment the whole shall become due:
+    *   (c) by stated instalments, with a provision that upon default in payment of any instalment the whole shall become due:
     
-    *   (d) According to an indicated rate of exchange, or according to a rate of exchange to be ascertained as directed by the bill.
+    *   (d) according to an indicated rate of exchange, or according to a rate of exchange to be ascertained as directed by the bill.
     
     (2) Where the sum payable is expressed in words and also in figures, and there is a discrepancy between the 2, the sum denoted by the words is the amount payable.
     
@@ -418,9 +419,9 @@ Bills of exchange
     
 *   (1) A bill is payable on demand---
         
-    *   (a) If it is expressed to be payable on demand, or at sight, or on presentation; or
+    *   (a) if it is expressed to be payable on demand, or at sight, or on presentation; or
     
-    *   (b) If no time for payment is expressed therein.
+    *   (b) if no time for payment is expressed therein.
     
     (2) Where a bill is accepted or indorsed when it is overdue, it shall, as regards the acceptor who so accepts, or any indorser who so indorses it, be deemed a bill payable on demand.
     
@@ -430,9 +431,9 @@ Bills of exchange
     
 *   (1) A bill is payable at a determinable future time within the meaning of this Act if it is expressed to be payable---
         
-    *   (a) At a fixed period after date or sight:
+    *   (a) at a fixed period after date or sight:
     
-    *   (b) On or at a fixed period after the occurrence of a specified event that is certain to happen, though the time of happening may be uncertain.
+    *   (b) on or at a fixed period after the occurrence of a specified event that is certain to happen, though the time of happening may be uncertain.
     
     (2) An instrument expressed to be payable on a contingency is not a bill, and the happening of the event does not cure the defect.
     
@@ -442,7 +443,7 @@ Bills of exchange
     
 *   Where a bill expressed to be payable at a fixed period after date is issued undated, or where the acceptance of a bill payable at a fixed period after sight is undated, any holder may insert therein the true date of issue or acceptance, and the bill shall be payable accordingly:
     
-    Provided that (a) where the holder in good faith and by mistake inserts a wrong date, and (b) in every case where a wrong date is inserted, if the bill subsequently comes into the hands of a holder in due course, it shall not be avoided by the insertion of a wrong date, but shall operate and be payable as if the date so inserted had been the true date.
+    provided that (a) where the holder in good faith and by mistake inserts a wrong date, and (b) in every case where a wrong date is inserted, if the bill subsequently comes into the hands of a holder in due course, it shall not be avoided by the insertion of a wrong date, but shall operate and be payable as if the date so inserted had been the true date.
     
     Compare: 1883 No 8 s 12
 
@@ -458,17 +459,17 @@ Bills of exchange
     
 *   Where a bill is not payable on demand, the day on which it falls due is determined as follows:
         
-    *   (a) The bill is due and payable in all cases on the last day of the time of payment as fixed by the bill or, if that day is a non-business day, on the next following business day:
+    *   (a) the bill is due and payable in all cases on the last day of the time of payment as fixed by the bill or, if that day is a non-business day, on the next following business day:
     
-    *   (b) Where a bill is payable at a fixed period after date, after sight, or after the happening of a specified event, the time of payment is determined by excluding the day from which the time is to begin to run and by including the day of payment.
+    *   (b) where a bill is payable at a fixed period after date, after sight, or after the happening of a specified event, the time of payment is determined by excluding the day from which the time is to begin to run and by including the day of payment.
     
-    *   (c) Where a bill is payable at a fixed period after sight, the time begins to run from the date of the acceptance if the bill is accepted, and from the date of noting or protest if the bill is noted or protested for non-acceptance or for non-delivery.
+    *   (c) where a bill is payable at a fixed period after sight, the time begins to run from the date of the acceptance if the bill is accepted, and from the date of noting or protest if the bill is noted or protested for non-acceptance or for non-delivery.
     
-    *   (d) The term _month_ in a bill means calendar month.
+    *   (d) the term _month_ in a bill means calendar month.
     
     Compare: 1883 No 8 s 14
     
-    Paragraph (a) was substituted, as from 1 January 1980, by section [3(1)][119] Bills of Exchange Amendment Act 1979 (1979 No 3). Under section 3(3) of that Act, the new paragraph (a) applies only to bills drawn on 1 January 1980 and later.
+    Section 14(a): replaced, on 1 January 1980, by [section 3(1)][118] of the Bills of Exchange Amendment Act 1979 (1979 No 3).
 
 ##### 15 Referee in case of need
     
@@ -480,9 +481,9 @@ Bills of exchange
     
 *   The drawer of a bill, and any indorser, may insert therein an express stipulation---
         
-    *   (a) Negativing or limiting his own liability to the holder:
+    *   (a) negativing or limiting his own liability to the holder:
     
-    *   (b) Waiving as regards himself some or all of the holder's duties.
+    *   (b) waiving as regards himself some or all of the holder's duties.
     
     Compare: 1883 No 8 s 16
 
@@ -492,9 +493,9 @@ Bills of exchange
     
     (2) An acceptance is invalid unless it complies with the following conditions, namely:
         
-    *   (a) It must be written on the bill and be signed by the drawee; the mere signature of the drawee without additional words is sufficient:
+    *   (a) it must be written on the bill and be signed by the drawee; the mere signature of the drawee without additional words is sufficient:
     
-    *   (b) It must not state that the drawee will perform his promise by any other means than the payment of money.
+    *   (b) it must not state that the drawee will perform his promise by any other means than the payment of money.
     
     Compare: 1883 No 8 s 17
 
@@ -502,9 +503,9 @@ Bills of exchange
     
 *   (1) A bill may be accepted---
         
-    *   (a) Before it has been signed by the drawer or while otherwise incomplete:
+    *   (a) before it has been signed by the drawer or while otherwise incomplete:
     
-    *   (b) When it is overdue, or after it has been dishonoured by a previous refusal to accept, or by non-payment.
+    *   (b) when it is overdue, or after it has been dishonoured by a previous refusal to accept, or by non-payment.
     
     (2) Where a bill payable after sight is dishonoured by non-acceptance, and the drawee subsequently accepts it, the holder, in the absence of any different agreement, is entitled to have the bill accepted as on the date of its first presentment to the drawee for acceptance.
     
@@ -524,9 +525,9 @@ Bills of exchange
     
     *   (c) Local---that is to say, an acceptance to pay only at a particular specified place. An acceptance to pay at a particular place is a general acceptance, unless it expressly states that the bill is to be paid there only and not elsewhere:
     
-    *   (d) Qualified as to time:
+    *   (d) qualified as to time:
     
-    *   (e) The acceptance of some one or more of the drawees, but not of all.
+    *   (e) the acceptance of some one or more of the drawees, but not of all.
     
     Compare: 1883 No 8 s 19
 
@@ -536,7 +537,7 @@ Bills of exchange
     
     (2) In order that any such instrument when completed may be enforceable against any person who became a party thereto prior to its completion, it must be filled up within a reasonable time, and strictly in accordance with the authority given. Reasonable time for this purpose is a question of fact:
     
-    Provided that if any such instrument after completion is negotiated to a holder in due course, it shall be valid and effectual for all purposes in his hands, and he may enforce it as if it had been filled up within a reasonable time and strictly in accordance with the authority given.
+    provided that if any such instrument after completion is negotiated to a holder in due course, it shall be valid and effectual for all purposes in his hands, and he may enforce it as if it had been filled up within a reasonable time and strictly in accordance with the authority given.
     
     Compare: 1883 No 8 s 20
 
@@ -544,13 +545,13 @@ Bills of exchange
     
 *   (1) Every contract on a bill, whether it is the drawer's, the acceptor's, or an indorser's, is incomplete and revocable until delivery of the instrument in order to give effect thereto:
     
-    Provided that where an acceptance is written on a bill, and the drawee gives notice to or according to the directions of the person entitled to the bill that he has accepted it, the acceptance then becomes complete and irrevocable.
+    provided that where an acceptance is written on a bill, and the drawee gives notice to or according to the directions of the person entitled to the bill that he has accepted it, the acceptance then becomes complete and irrevocable.
     
     (2) As between immediate parties, and as regards a remote party other than the holder in due course, the delivery---
         
-    *   (a) In order to be effectual must be made either by or under the authority of the party drawing, accepting, or indorsing, as the case may be:
+    *   (a) in order to be effectual must be made either by or under the authority of the party drawing, accepting, or indorsing, as the case may be:
     
-    *   (b) May be shown to have been conditional, or for a special purpose only, and not for the purpose of transferring the property in the bill.
+    *   (b) may be shown to have been conditional, or for a special purpose only, and not for the purpose of transferring the property in the bill.
     
     (3) If the bill is in the hands of a holder in due course, a valid delivery of the bill by all parties prior to him so as to make them liable to him is conclusively presumed.
     
@@ -564,7 +565,7 @@ Bills of exchange
     
 *   (1) Capacity to incur liability as a party to a bill is co-extensive with capacity to contract:
     
-    Provided that nothing in this section shall enable a corporation to make itself liable as a drawer, acceptor, or indorser of a bill unless it is competent to it so to do under the law for the time being in force relating to corporations.
+    provided that nothing in this section shall enable a corporation to make itself liable as a drawer, acceptor, or indorser of a bill unless it is competent to it so to do under the law for the time being in force relating to corporations.
     
     (2) Where a bill is drawn or indorsed by a minor or corporation, having no capacity or power to incur liability on a bill, the drawing or indorsement entitles the holder to receive payment of the bill and to enforce it against any other party thereto.
     
@@ -574,11 +575,11 @@ Bills of exchange
     
 *   No person is liable as drawer, indorser, or acceptor of a bill unless he has signed it as such:
     
-    Provided that---
+    provided that---
         
-    *   (a) Where a person signs a bill in a trade or assumed name, he is liable thereon as if he had signed it in his own name:
+    *   (a) where a person signs a bill in a trade or assumed name, he is liable thereon as if he had signed it in his own name:
     
-    *   (b) The signature of the name of a firm is equivalent to the signature by the person so signing of the names of all persons liable as partners in that firm.
+    *   (b) the signature of the name of a firm is equivalent to the signature by the person so signing of the names of all persons liable as partners in that firm.
     
     Compare: 1883 No 8 s 23
 
@@ -610,9 +611,9 @@ Bills of exchange
     
 *   (1) Valuable consideration for a bill may be constituted by---
         
-    *   (a) Any consideration sufficient to support a simple contract:
+    *   (a) any consideration sufficient to support a simple contract:
     
-    *   (b) An antecedent debt or liability. Such a debt or liability is deemed valuable consideration whether the bill is payable on demand or at future time.
+    *   (b) an antecedent debt or liability. Such a debt or liability is deemed valuable consideration whether the bill is payable on demand or at future time.
     
     (2) Where value has at any time been given for a bill, the holder is deemed to be a holder for value as regards the acceptor and all parties to the bill who became parties prior to that time.
     
@@ -632,9 +633,9 @@ Bills of exchange
     
 *   (1) A holder in due course is a holder who has taken a bill, complete and regular on the face of it, under the following conditions, namely:
         
-    *   (a) That he became the holder of it before it was overdue, and without notice that it had been previously dishonoured, if such was the fact:
+    *   (a) that he became the holder of it before it was overdue, and without notice that it had been previously dishonoured, if such was the fact:
     
-    *   (b) That he took the bill in good faith and for value, and that at the time the bill was negotiated to him he had no notice of any defect in the title of the person who negotiated it.
+    *   (b) that he took the bill in good faith and for value, and that at the time the bill was negotiated to him he had no notice of any defect in the title of the person who negotiated it.
     
     (2) In particular, the title of a person who negotiates a bill is defective within the meaning of this Act when he obtained the bill, or the acceptance thereof, by fraud, duress, or force and fear, or other unlawful means, or for an illegal consideration, or when he negotiates it in breach of faith, or under such circumstances as amount to a fraud.
     
@@ -648,21 +649,21 @@ Bills of exchange
     
     (2) Every holder of a bill is prima facie deemed to be a holder in due course; but if in an action on a bill it is admitted or proved---
         
-    *   (a) That the acceptance, issue, or subsequent negotiation of the bill is affected with fraud, duress, or force and fear, or illegality; or
+    *   (a) that the acceptance, issue, or subsequent negotiation of the bill is affected with fraud, duress, or force and fear, or illegality; or
     
-    *   (b) That the bill was drawn as part of, or pursuant to, a credit contract and that one or more of the provisions of the [Credit Contracts and Consumer Finance Act 2003][120] have not been complied with, or that section [120(a)][121], [(b)][121], or [(c)][121] of that Act applies, in respect of the contract---
+    *   (b) that the bill was drawn as part of, or pursuant to, a credit contract and that 1 or more of the provisions of the [Credit Contracts and Consumer Finance Act 2003][119] have not been complied with, or that [section 120(a), (b), or (c)][120] of that Act applies, in respect of the contract---
     
     the burden of proof is shifted, unless and until the holder proves that,---
         
-    *   (c) In any case to which paragraph [(a)][34] of this subsection applies, subsequent to the alleged fraud or illegality, value has in good faith been given for the bill; and
+    *   (c) in any case to which paragraph (a) of this subsection applies, subsequent to the alleged fraud or illegality, value has in good faith been given for the bill; and
     
-    *   (d) In any case to which paragraph [(b)][34] of this subsection applies, value has been given for the bill in good faith and without knowledge of the non-compliance or any oppressiveness.
+    *   (d) in any case to which paragraph (b) of this subsection applies, value has been given for the bill in good faith and without knowledge of the non-compliance or any oppressiveness.
     
     Compare: 1883 No 8 s 30
     
-    Subsection (2) was substituted, as from 1 June 1982, by section 50 Credit Contracts Act 1981 (1981 No 27).
+    Section 30(2): replaced, on 1 June 1982, by section 50 of the Credit Contracts Act 1981 (1981 No 27).
     
-    Subsection (2)(b) was amended, as from 1 April 2005, by section [139][122] Credit Contracts and Consumer Finance Act 2003 (2003 No 52) by substituting the words ""Credit Contracts and Consumer Finance Act 2003 have not been complied with, or that section 120(a), (b), or (c) of that Act applies"" for the words ""Credit Contracts Act 1981 have not been complied with, or that any of paragraphs (a) to (c) of section 10(1) of that Act apply"". _See_ sections [141 to 143][123] of that Act as to the transitional provisions.
+    Section 30(2)(b): amended, on 1 April 2005, by [section 139][121] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
 
 #### Negotiation of bills
 
@@ -684,19 +685,19 @@ Bills of exchange
     
 *   An indorsement in order to operate as a negotiation must comply with the following conditions, namely:
         
-    *   (a) It must be written on the bill itself and be signed by the indorser; the simple signature of the indorser on the bill, without additional words, is sufficient:
+    *   (a) it must be written on the bill itself and be signed by the indorser; the simple signature of the indorser on the bill, without additional words, is sufficient:
         
-        Provided that an indorsement written on an allonge, or on a **copy** of a bill issued or negotiated in a country where **copies** are recognised, shall be deemed to be written on the bill itself.
+        provided that an indorsement written on an allonge, or on a **copy** of a bill issued or negotiated in a country where **copies** are recognised, shall be deemed to be written on the bill itself.
     
-    *   (b) It must be an indorsement of the entire bill. A partial indorsement---that is to say, an indorsement that purports to transfer to the indorsee a part only of the amount payable, or to transfer the bill to 2 or more indorsees severally---does not operate as a negotiation of the bill.
+    *   (b) it must be an indorsement of the entire bill. A partial indorsement---that is to say, an indorsement that purports to transfer to the indorsee a part only of the amount payable, or to transfer the bill to 2 or more indorsees severally---does not operate as a negotiation of the bill.
     
-    *   (c) Where a bill is payable to the order of 2 or more payees or indorsees who are not partners, all must indorse, unless the one indorsing has authority to indorse for the others.
+    *   (c) where a bill is payable to the order of 2 or more payees or indorsees who are not partners, all must indorse, unless the one indorsing has authority to indorse for the others.
     
-    *   (d) Where in a bill payable to order the payee or indorsee is wrongly designated, or his name is misspelt, he may indorse the bill as therein described, adding, if he thinks fit, his proper signature.
+    *   (d) where in a bill payable to order the payee or indorsee is wrongly designated, or his name is misspelt, he may indorse the bill as therein described, adding, if he thinks fit, his proper signature.
     
-    *   (e) Where there are 2 or more indorsements on a bill, each indorsement is deemed to have been made in the order in which it appears on the bill, until the contrary is proved.
+    *   (e) where there are 2 or more indorsements on a bill, each indorsement is deemed to have been made in the order in which it appears on the bill, until the contrary is proved.
     
-    *   (f) An indorsement may be either special or in blank; it may also contain terms making it restrictive.
+    *   (f) an indorsement may be either special or in blank; it may also contain terms making it restrictive.
     
     Compare: 1883 No 8 s 32
 
@@ -752,15 +753,15 @@ Bills of exchange
     
 *   The rights and powers of the holder of a bill are as follow:
         
-    *   (a) He may sue on the bill in his own name:
+    *   (a) he may sue on the bill in his own name:
     
-    *   (b) Where he is a holder in due course, he holds the bill free from any defect of title of prior parties, as well as from mere personal defences available to prior parties among themselves, and may enforce payment against all parties liable on the bill:
+    *   (b) where he is a holder in due course, he holds the bill free from any defect of title of prior parties, as well as from mere personal defences available to prior parties among themselves, and may enforce payment against all parties liable on the bill:
     
-    *   (c) Where his title is defective,---
+    *   (c) where his title is defective,---
             
-        *   (i) If he negotiates the bill to a holder in due course, that holder obtains a good and complete title to the bill; and
+        *   (i) if he negotiates the bill to a holder in due course, that holder obtains a good and complete title to the bill; and
         
-        *   (ii) If he obtains payment of the bill, the person who pays him in due course gets a valid discharge for the bill.
+        *   (ii) if he obtains payment of the bill, the person who pays him in due course gets a valid discharge for the bill.
         
         
     
@@ -790,41 +791,41 @@ Bills of exchange
     
     Compare: 1883 No 8 s 40
     
-    Subsection (2) was substituted, as from 1 January 1980, by section [4(1)][124] Bills of Exchange Amendment Act 1979 (1979 No 3).
+    Section 40(2): replaced, on 1 January 1980, by [section 4(1)][122] of the Bills of Exchange Amendment Act 1979 (1979 No 3).
 
 ##### 41 Rules as to presentment for acceptance, and excuses for non-presentment
     
 *   (1) A bill is duly presented for acceptance if it is presented in accordance with the following rules:
         
-    *   (a) The presentment must be made by or on behalf of the holder to the drawee, or to some person authorised to accept or to refuse acceptance on his behalf, at a reasonable hour on a business day and before the bill is overdue:
+    *   (a) the presentment must be made by or on behalf of the holder to the drawee, or to some person authorised to accept or to refuse acceptance on his behalf, at a reasonable hour on a business day and before the bill is overdue:
     
-    *   (b) Where a bill is addressed to 2 or more drawees, who are not partners, presentment must be made to them all, unless one has authority to accept for all, in which case presentment may be made to him only:
+    *   (b) where a bill is addressed to 2 or more drawees, who are not partners, presentment must be made to them all, unless one has authority to accept for all, in which case presentment may be made to him only:
     
-    *   (c) Where the drawee is dead, presentment may be made to his executor or administrator:
+    *   (c) where the drawee is dead, presentment may be made to his executor or administrator:
     
-    *   (d) Where the drawee is bankrupt, presentment may be made to him or to his assignee:
+    *   (d) where the drawee is bankrupt, presentment may be made to him or to his assignee:
     
-    *   (da) Where the drawee is a body corporate that is being wound up, presentment may be made to the body corporate itself or to the liquidator:
+    *   (da) where the drawee is a body corporate that is being wound up, presentment may be made to the body corporate itself or to the liquidator:
     
-    *   (e) Where authorised by agreement or usage, a presentment through the post office is sufficient:
+    *   (e) where authorised by agreement or usage, a presentment through the post office is sufficient:
     
     (2) Presentment in accordance with these rules is excused, and a bill may be treated as dishonoured by non-acceptance,---
         
-    *   (f) Where the drawee is dead or bankrupt, or is a fictitious person, or a person not having capacity to contract by bill:
+    *   (f) where the drawee is dead or bankrupt, or is a fictitious person, or a person not having capacity to contract by bill:
     
-    *   (fa) Where the drawee is a body corporate that is being wound up:
+    *   (fa) where the drawee is a body corporate that is being wound up:
     
-    *   (g) Where, after the exercise of reasonable diligence, such presentment cannot be affected:
+    *   (g) where, after the exercise of reasonable diligence, such presentment cannot be affected:
     
-    *   (h) Where, although the presentment has been irregular, acceptance has been refused on some other ground.
+    *   (h) where, although the presentment has been irregular, acceptance has been refused on some other ground.
     
     (3) The fact that the holder has reason to believe that the bill, on presentment, will be dishonoured does not excuse presentment.
     
     Compare: 1883 No 8 s 41
     
-    Subsection (1)(da) was inserted, as from 1 January 1980, by section [5(1)][125] Bills of Exchange Amendment Act 1979 (1979 No 3).
+    Section 41(1)(da): inserted, on 1 January 1980, by [section 5(1)][123] of the Bills of Exchange Amendment Act 1979 (1979 No 3).
     
-    Subsection (2)(fa) was inserted, as from 1 January 1980, by section [5(2)][125] Bills of Exchange Amendment Act 1979 (1979 No 3).
+    Section 41(2)(fa): inserted, on 1 January 1980, by [section 5(2)][123] of the Bills of Exchange Amendment Act 1979 (1979 No 3).
 
 ##### 42 Non-acceptance
     
@@ -832,15 +833,15 @@ Bills of exchange
     
     Compare: 1883 No 8 s 42
     
-    Section 42 was amended, as from 1 January 1980, by section [4(2)][124] Bills of Exchange Amendment Act 1979 (1979 No 3), by inserting the words ""to the extent that they are prejudiced by the omission"".
+    Section 42: amended, on 1 January 1980, by [section 4(2)][122] of the Bills of Exchange Amendment Act 1979 (1979 No 3).
 
 ##### 43 Dishonour by non-acceptance, and its consequences
     
 *   (1) A bill is dishonoured by non-acceptance---
         
-    *   (a) Where it is duly presented for acceptance, and such an acceptance as is prescribed by this Act is refused, or cannot be obtained; or
+    *   (a) where it is duly presented for acceptance, and such an acceptance as is prescribed by this Act is refused, or cannot be obtained; or
     
-    *   (b) Where presentment for acceptance is excused and the bill is not accepted.
+    *   (b) where presentment for acceptance is excused and the bill is not accepted.
     
     (2) Subject to the provisions of this Act, when a bill is dishonoured by non-acceptance an immediate right of recourse against the drawer and indorsers accrues to the holder, and no presentment for payment is necessary.
     
@@ -862,43 +863,45 @@ Bills of exchange
     
     (2) A bill is duly presented for payment if it is presented in accordance with the following rules:
         
-    *   (a) Where the bill is not payable on demand, presentment must be made on the day it falls due.
+    *   (a) where the bill is not payable on demand, presentment must be made on the day it falls due.
     
-    *   (b) Where the bill is payable on demand, then, subject to the provisions of this Act, presentment must be made within a reasonable time after its issue in order to render the drawer liable, and within a reasonable time after its indorsement in order to render the indorser liable.
+    *   (b) where the bill is payable on demand, then, subject to the provisions of this Act, presentment must be made within a reasonable time after its issue in order to render the drawer liable, and within a reasonable time after its indorsement in order to render the indorser liable.
         
-        In determining what is a reasonable time regard shall be had to the nature of the bill, the usage of trade with regard to similar bills, and the facts of the particular case.
+        in determining what is a reasonable time regard shall be had to the nature of the bill, the usage of trade with regard to similar bills, and the facts of the particular case.
     
-    *   (c) Presentment must be made by the holder, or by some person authorised to receive payment on his behalf, at a reasonable hour on a business day, at the proper place as hereinafter defined, either to the person designated by the bill as payer, or to some person authorised to pay or refuse payment on his behalf, if by the exercise of reasonable diligence such person can there be found.
+    *   (c) presentment must be made by the holder, or by some person authorised to receive payment on his behalf, at a reasonable hour on a business day, at the proper place as hereinafter defined, either to the person designated by the bill as payer, or to some person authorised to pay or refuse payment on his behalf, if by the exercise of reasonable diligence such person can there be found.
     
-    *   (d) A bill is presented at the proper place---
+    *   (d) a bill is presented at the proper place---
             
-        *   (i) Where a place of payment is specified in the bill, and the bill is there presented:
+        *   (i) where a place of payment is specified in the bill, and the bill is there presented:
         
-        *   (ii) Where no place of payment is specified, but the address of the drawee or acceptor is given in the bill, and the bill is there presented:
+        *   (ii) where no place of payment is specified, but the address of the drawee or acceptor is given in the bill, and the bill is there presented:
         
-        *   (iii) Where no place of payment is specified and no address given, and the bill is presented at the drawee's or acceptor's place of business, if known, and if not, at his ordinary residence, if known:
+        *   (iii) where no place of payment is specified and no address given, and the bill is presented at the drawee's or acceptor's place of business, if known, and if not, at his ordinary residence, if known:
         
-        *   (iv) In any other case, if presented to the drawee or acceptor at his last known place of business or residence, or wherever he can be found.
+        *   (iv) in any other case, if presented to the drawee or acceptor at his last known place of business or residence, or wherever he can be found.
         
         
     
-    *   (e) Where a bill is presented at the proper place, and after the exercise of reasonable diligence no person authorised to pay or refuse payment can be found there, no further presentment to the drawee or acceptor is required.
+    *   (e) where a bill is presented at the proper place, and after the exercise of reasonable diligence no person authorised to pay or refuse payment can be found there, no further presentment to the drawee or acceptor is required.
     
-    *   (f) Where a bill is drawn upon or accepted by 2 or more persons who are not partners, and no place of payment is specified, presentment must be made to them all.
+    *   (f) where a bill is drawn upon or accepted by 2 or more persons who are not partners, and no place of payment is specified, presentment must be made to them all.
     
-    *   (g) Where the drawee or acceptor of the bill is dead, and no place of payment is specified, presentment must be made to the executor or administrator of the deceased, if any, and if by the exercise of reasonable diligence he can be found.
+    *   (g) where the drawee or acceptor of the bill is dead, and no place of payment is specified, presentment must be made to the executor or administrator of the deceased, if any, and if by the exercise of reasonable diligence he can be found.
     
-    *   (ga) Where the drawee or acceptor of the bill is bankrupt, presentment may be made to the bankrupt himself or to his assignee.
+    *   (ga) where the drawee or acceptor of the bill is bankrupt, presentment may be made to the bankrupt himself or to his assignee.
     
-    *   (gb) Where the drawee or acceptor of the bill is a body corporate that is being wound up, presentment may be made to the body corporate itself or to the liquidator.
+    *   (gb) where the drawee or acceptor of the bill is a body corporate that is being wound up, presentment may be made to the body corporate itself or to the liquidator.
     
-    *   (h) Where authorised by agreement or usage, presentment through the post office is sufficient.
+    *   (h) where authorised by agreement or usage, presentment through the post office is sufficient.
     
     Compare: 1883 No 8 s 45
     
-    Subsection (1) was amended, as from 1 January 1980, by section [4(3)][124] Bills of Exchange Amendment Act 1979 (1979 No 3) by inserting the words ""to the extent that they are prejudiced by the omission"".
+    Section 45(1): amended, on 1 January 1980, by [section 4(3)][122] of the Bills of Exchange Amendment Act 1979 (1979 No 3).
     
-    Subsection (2)(ga) and (gb) were inserted, as from 1 January 1980, by section [6][126] Bills of Exchange Amendment Act 1979 (1979 No 3)
+    Section 45(2)(ga): inserted, on 1 January 1980, by [section 6][124] of the Bills of Exchange Amendment Act 1979 (1979 No 3).
+    
+    Section 45(2)(gb): inserted, on 1 January 1980, by [section 6][124] of the Bills of Exchange Amendment Act 1979 (1979 No 3).
 
 ##### 46 Excuses for delay or non-presentment for payment
     
@@ -906,49 +909,55 @@ Bills of exchange
     
     (2) Presentment for payment is dispensed with---
         
-    *   (a) Where, after the exercise of reasonable diligence, presentment as required by this Act cannot be effected:
+    *   (a) where, after the exercise of reasonable diligence, presentment as required by this Act cannot be effected:
         
-        The fact that the holder has reason to believe that the bill will, on presentment, be dishonoured, does not dispense with the necessity for presentment:
+        the fact that the holder has reason to believe that the bill will, on presentment, be dishonoured, does not dispense with the necessity for presentment:
     
-    *   (b) Where the drawee is a fictitious person:
+    *   (b) where the drawee is a fictitious person:
     
-    *   (ba) Where the drawee or acceptor is bankrupt:
+    *   (ba) where the drawee or acceptor is bankrupt:
     
-    *   (bb) Where the drawee or acceptor is a body corporate that is being wound up:
+    *   (bb) where the drawee or acceptor is a body corporate that is being wound up:
     
-    *   (c) As regards the drawer,---
+    *   (c) as regards the drawer,---
             
-        *   (i) Where the drawee or acceptor is not bound, as between himself and the drawer, to accept or pay the bill, and the drawer has no reason to believe that the bill would be paid if presented; or
+        *   (i) where the drawee or acceptor is not bound, as between himself and the drawer, to accept or pay the bill, and the drawer has no reason to believe that the bill would be paid if presented; or
         
-        *   (ii) Where the drawer is bankrupt; or
+        *   (ii) where the drawer is bankrupt; or
         
-        *   (iii) Where the drawer is a body corporate that is being wound up:
+        *   (iii) where the drawer is a body corporate that is being wound up:
         
         
     
-    *   (d) As regards an indorser,---
+    *   (d) as regards an indorser,---
             
-        *   (i) Where the bill was accepted or made for the accommodation of that indorser, and he has no reason to believe that the bill would be paid if presented; or
+        *   (i) where the bill was accepted or made for the accommodation of that indorser, and he has no reason to believe that the bill would be paid if presented; or
         
-        *   (ii) Where that indorser is bankrupt; or
+        *   (ii) where that indorser is bankrupt; or
         
-        *   (iii) Where that indorser is a body corporate that is being wound up:
+        *   (iii) where that indorser is a body corporate that is being wound up:
         
         
     
-    *   (e) By waiver of presentment, express or implied.
+    *   (e) by waiver of presentment, express or implied.
     
     Compare: 1883 No 8 s 46
     
-    Subsection (2)(ba) and (bb) were inserted, and (2)(c) and (d) were substituted, as from 1 January 1980, by section [7][127] Bills of Exchange Amendment Act 1979 (1979 No 3).
+    Section 46(2)(ba): inserted, on 1 January 1980, by [section 7][125] of the Bills of Exchange Amendment Act 1979 (1979 No 3).
+    
+    Section 46(2)(bb): inserted, on 1 January 1980, by [section 7][125] of the Bills of Exchange Amendment Act 1979 (1979 No 3).
+    
+    Section 46(2)(c): replaced, on 1 January 1980, by [section 7][125] of the Bills of Exchange Amendment Act 1979 (1979 No 3).
+    
+    Section 46(2)(d): replaced, on 1 January 1980, by [section 7][125] of the Bills of Exchange Amendment Act 1979 (1979 No 3).
 
 ##### 47 Dishonour by non-payment
     
 *   (1) A bill is dishonoured by non-payment---
         
-    *   (a) Where it is duly presented for payment and payment is refused, or cannot be obtained; or
+    *   (a) where it is duly presented for payment and payment is refused, or cannot be obtained; or
     
-    *   (b) Where presentment is excused and the bill is overdue and unpaid.
+    *   (b) where presentment is excused and the bill is overdue and unpaid.
     
     (2) Subject to the provisions of this Act, where a bill is dishonoured by non-payment an immediate right of recourse against the drawers or indorsers accrues to the holder.
     
@@ -958,65 +967,65 @@ Bills of exchange
     
 *   Subject to the provisions of this Act, where a bill has been dishonoured by non-acceptance or by non-payment, notice of dishonour must be given to the drawer and each indorser, and any drawer or indorser to whom such notice is not given is discharged to the extent that he is prejudiced by the omission:
     
-    Provided that---
+    provided that---
         
-    *   (a) Where a bill is dishonoured by non-acceptance, and notice of dishonour is not given, the rights of a holder in due course subsequent to the omission shall not be prejudiced by the omission:
+    *   (a) where a bill is dishonoured by non-acceptance, and notice of dishonour is not given, the rights of a holder in due course subsequent to the omission shall not be prejudiced by the omission:
     
-    *   (b) Where a bill is dishonoured by non-acceptance, and due notice of dishonour is given, it shall not be necessary to give notice of a subsequent dishonour by non-payment unless the bill has in the meantime been accepted.
+    *   (b) where a bill is dishonoured by non-acceptance, and due notice of dishonour is given, it shall not be necessary to give notice of a subsequent dishonour by non-payment unless the bill has in the meantime been accepted.
     
     Compare: 1883 No 8 s 48
     
-    This section was amended, as from 1 January 1980, by section [4(4)][124] Bills of Exchange Amendment Act 1979 (1979 No 3) by inserting the words ""to the extent that he is prejudiced by the omission"".
+    Section 48: replaced, on 1 January 1980, by [section 4(4)][122] of the Bills of Exchange Amendment Act 1979 (1979 No 3).
 
 ##### 49 Rules as to notice of dishonour
     
 *   Notice of dishonour in order to be valid and effectual must be given in accordance with the following rules:
         
-    *   (a) The notice must be given by or on behalf of the holder, or by or on behalf of an indorser who, at the time of giving it, is himself liable on the bill.
+    *   (a) the notice must be given by or on behalf of the holder, or by or on behalf of an indorser who, at the time of giving it, is himself liable on the bill.
     
-    *   (b) Notice of dishonour may be given by an agent either in his own name or in the name of any party entitled to give notice, whether that party is his principal or not.
+    *   (b) notice of dishonour may be given by an agent either in his own name or in the name of any party entitled to give notice, whether that party is his principal or not.
     
-    *   (c) Where the notice is given by or on behalf of the holder, it enures for the benefit of all subsequent holders and all prior indorsers having a right of recourse against the party to whom it is given.
+    *   (c) where the notice is given by or on behalf of the holder, it enures for the benefit of all subsequent holders and all prior indorsers having a right of recourse against the party to whom it is given.
     
-    *   (d) Where notice is given by or on behalf of an indorser entitled to give notice as hereinbefore provided, it enures for the benefit of the holder and all indorsers subsequent to the party to whom notice is given.
+    *   (d) where notice is given by or on behalf of an indorser entitled to give notice as hereinbefore provided, it enures for the benefit of the holder and all indorsers subsequent to the party to whom notice is given.
     
-    *   (e) The notice may be given either in writing or by personal communication, and may be given in any terms sufficient to identify the bill, and intimating that the bill has been dishonoured by non-acceptance or non-payment.
+    *   (e) the notice may be given either in writing or by personal communication, and may be given in any terms sufficient to identify the bill, and intimating that the bill has been dishonoured by non-acceptance or non-payment.
     
-    *   (f) The return of a dishonoured bill to the drawer or an indorser is in point of form deemed a sufficient notice of dishonour.
+    *   (f) the return of a dishonoured bill to the drawer or an indorser is in point of form deemed a sufficient notice of dishonour.
     
-    *   (g) A written notice need not be signed, and an insufficient written notice may be supplemented and made valid by verbal communication.
+    *   (g) a written notice need not be signed, and an insufficient written notice may be supplemented and made valid by verbal communication.
     
-    *   (h) A misdescription of the bill shall not vitiate the notice unless the party to whom the notice is given is in fact misled thereby.
+    *   (h) a misdescription of the bill shall not vitiate the notice unless the party to whom the notice is given is in fact misled thereby.
     
-    *   (i) Where notice of dishonour is required to be given to any person, it may be given either to the party himself or to his agent in that behalf.
+    *   (i) where notice of dishonour is required to be given to any person, it may be given either to the party himself or to his agent in that behalf.
     
-    *   (j) Where the drawer or indorser is dead, and the party giving notice is aware of the fact, the notice must be given to an executor or administrator of the deceased, if any, and if by the exercise of reasonable diligence he can be found.
+    *   (j) where the drawer or indorser is dead, and the party giving notice is aware of the fact, the notice must be given to an executor or administrator of the deceased, if any, and if by the exercise of reasonable diligence he can be found.
     
-    *   (k) Where the drawer or indorser is bankrupt, notice may be given either to the party himself or to his assignee.
+    *   (k) where the drawer or indorser is bankrupt, notice may be given either to the party himself or to his assignee.
     
-    *   (ka) Where the drawer or indorser is a body corporate that is being wound up, notice may be given either to the body corporate itself or to the liquidator:
+    *   (ka) where the drawer or indorser is a body corporate that is being wound up, notice may be given either to the body corporate itself or to the liquidator:
     
-    *   (l) Where there are more than 2 drawers or indorsers, who are not partners, notice must be given to each of them, unless one of them has authority to receive such notice on behalf of the others.
+    *   (l) where there are more than 2 drawers or indorsers, who are not partners, notice must be given to each of them, unless one of them has authority to receive such notice on behalf of the others.
     
-    *   (m) The notice may be given as soon as the bill is dishonoured, and must be given within a reasonable time thereafter.
+    *   (m) the notice may be given as soon as the bill is dishonoured, and must be given within a reasonable time thereafter.
     
-    *   (n) In the absence of special circumstances notice is not deemed to have been given within a reasonable time unless---
+    *   (n) in the absence of special circumstances notice is not deemed to have been given within a reasonable time unless---
             
-        *   (i) Where the person giving and the person to receive notice reside in the same place, the notice is given or sent off in time to reach the latter on the day after the dishonour of the bill:
+        *   (i) where the person giving and the person to receive notice reside in the same place, the notice is given or sent off in time to reach the latter on the day after the dishonour of the bill:
         
-        *   (ii) Where the person giving and the person to receive notice reside in different places, the notice is sent off on the day after the dishonour of the bill, if there is a post at a convenient hour on that day, and, if there is no such post on that day, then by the next post thereafter.
+        *   (ii) where the person giving and the person to receive notice reside in different places, the notice is sent off on the day after the dishonour of the bill, if there is a post at a convenient hour on that day, and, if there is no such post on that day, then by the next post thereafter.
         
         
     
-    *   (o) Where a bill when dishonoured is in the hands of an agent, he may either himself give notice to the parties liable on the bill, or he may give notice to his principal. If he gives notice to his principal, he must do so within the same time as if he were the holder; and the principal, upon receipt of such notice, has himself the same time for giving notice as if the agent had been an independent holder.
+    *   (o) where a bill when dishonoured is in the hands of an agent, he may either himself give notice to the parties liable on the bill, or he may give notice to his principal. If he gives notice to his principal, he must do so within the same time as if he were the holder; and the principal, upon receipt of such notice, has himself the same time for giving notice as if the agent had been an independent holder.
     
-    *   (p) Where a party to a bill receives due notice of dishonour, he has after the receipt of such notice the same period of time for giving notice to antecedent parties that the holder has after the dishonour.
+    *   (p) where a party to a bill receives due notice of dishonour, he has after the receipt of such notice the same period of time for giving notice to antecedent parties that the holder has after the dishonour.
     
-    *   (q) Where a notice of dishonour is duly addressed and posted, the sender is deemed to have given due notice of dishonour notwithstanding any miscarriage by the post office.
+    *   (q) where a notice of dishonour is duly addressed and posted, the sender is deemed to have given due notice of dishonour notwithstanding any miscarriage by the post office.
     
     Compare: 1883 No 8 s 49
     
-    Paragraph (ka) was inserted, as from 1 January 1980, by section 8 Bills of Exchange Amendment Act 1979 (1979 No 3).
+    Section 49(ka): inserted, on 1 January 1980, by section 8 of the Bills of Exchange Amendment Act 1979 (1979 No 3).
 
 ##### 50 Excuses for want of notice and delay
     
@@ -1024,31 +1033,31 @@ Bills of exchange
     
     (2) Notice of dishonour is dispensed with---
         
-    *   (a) When, after the exercise of reasonable diligence, notice as required by this Act cannot be given to or does not reach the drawer or indorser sought to be charged:
+    *   (a) when, after the exercise of reasonable diligence, notice as required by this Act cannot be given to or does not reach the drawer or indorser sought to be charged:
     
-    *   (b) By waiver, express or implied, either before the time of giving notice of dishonour has arrived, or after the omission to give due notice:
+    *   (b) by waiver, express or implied, either before the time of giving notice of dishonour has arrived, or after the omission to give due notice:
     
-    *   (c) As regards the drawer, in the following cases, namely:
+    *   (c) as regards the drawer, in the following cases, namely:
             
-        *   (i) Where the drawer and drawee are the same person;
+        *   (i) where the drawer and drawee are the same person;
         
-        *   (ii) Where the drawee is a fictitious person or a person not having capacity to contract;
+        *   (ii) where the drawee is a fictitious person or a person not having capacity to contract;
         
-        *   (iii) Where the drawer is the person to whom the bill is presented for payment;
+        *   (iii) where the drawer is the person to whom the bill is presented for payment;
         
-        *   (iv) Where the drawee or acceptor is as between himself and the drawer under no obligation to accept or pay the bill;
+        *   (iv) where the drawee or acceptor is as between himself and the drawer under no obligation to accept or pay the bill;
         
-        *   (v) Where the drawer has countermanded payment:
+        *   (v) where the drawer has countermanded payment:
         
         
     
-    *   (d) As regards the indorser, in the following cases, namely:
+    *   (d) as regards the indorser, in the following cases, namely:
             
-        *   (i) Where the drawee is a fictitious person, or a person not having capacity to contract, and the indorser was aware of the fact at the time he indorsed the bill;
+        *   (i) where the drawee is a fictitious person, or a person not having capacity to contract, and the indorser was aware of the fact at the time he indorsed the bill;
         
-        *   (ii) Where the indorser is the person to whom the bill is presented for payment;
+        *   (ii) where the indorser is the person to whom the bill is presented for payment;
         
-        *   (iii) Where the bill was accepted and made for his accommodation.
+        *   (iii) where the bill was accepted and made for his accommodation.
         
         
     
@@ -1072,17 +1081,17 @@ Bills of exchange
     
     (8) A bill must be protested at the place where it is dishonoured:
     
-    Provided that---
+    provided that---
         
-    *   (a) Where a bill is presented through the post office, and returned by post dishonoured, it may be protested at the place to which it is returned and on the day of its return if received during business hours, and if not received during business hours, then not later than the next business day; and
+    *   (a) where a bill is presented through the post office, and returned by post dishonoured, it may be protested at the place to which it is returned and on the day of its return if received during business hours, and if not received during business hours, then not later than the next business day; and
     
-    *   (b) When a bill drawn payable at the place of business or residence of some person other than the drawee has been dishonoured by non-acceptance, it must be protested for non-payment at the place where it is expressed to be payable, and no further presentment for payment to or demand on the drawee is necessary.
+    *   (b) when a bill drawn payable at the place of business or residence of some person other than the drawee has been dishonoured by non-acceptance, it must be protested for non-payment at the place where it is expressed to be payable, and no further presentment for payment to or demand on the drawee is necessary.
     
     (9) A protest must contain a copy of the bill, and must be signed by the notary making it, and must specify---
         
-    *   (a) The person at whose request the bill is protested:
+    *   (a) the person at whose request the bill is protested:
     
-    *   (b) The place and date of protest, the cause or reason for protesting the bill, the demand made, and the answer given, if any, or the fact that the drawee or acceptor could not be found.
+    *   (b) the place and date of protest, the cause or reason for protesting the bill, the demand made, and the answer given, if any, or the fact that the drawee or acceptor could not be found.
     
     (10) Where a bill is lost or destroyed, or is wrongly detained from the person entitled to hold it, protest may be made on a copy or on written particulars thereof.
     
@@ -1092,7 +1101,7 @@ Bills of exchange
     
     Compare: 1883 No 8 s 51
     
-    Subsection (2) was amended, as from 1 January 1980, by section [4(5)][124] Bills of Exchange Amendment Act 1979 (1979 No 3) by inserting the words ""to the extent that they are prejudiced by the omission"".
+    Section 51(2): amended, on 1 January 1980, by [section 4(5)][122] of the Bills of Exchange Amendment Act 1979 (1979 No 3).
 
 ##### 52 Duties of holder as regards drawee or acceptor
     
@@ -1118,15 +1127,15 @@ Bills of exchange
     
 *   The acceptor of a bill, by accepting it,---
         
-    *   (a) Engages that he will pay it according to the tenor of his acceptance:
+    *   (a) engages that he will pay it according to the tenor of his acceptance:
     
-    *   (b) Is precluded from denying to a holder in due course---
+    *   (b) is precluded from denying to a holder in due course---
             
-        *   (i) The existence of the drawer, the genuineness of his signature, and his capacity and authority to draw the bill;
+        *   (i) the existence of the drawer, the genuineness of his signature, and his capacity and authority to draw the bill;
         
-        *   (ii) In the case of a bill payable to drawer's order, the then capacity of the drawer to indorse, but not the genuineness or validity of his indorsement;
+        *   (ii) in the case of a bill payable to drawer's order, the then capacity of the drawer to indorse, but not the genuineness or validity of his indorsement;
         
-        *   (iii) In the case of a bill payable to the order of a third person, the existence of the payee and his then capacity to indorse, but not the genuineness or validity of his indorsement.
+        *   (iii) in the case of a bill payable to the order of a third person, the existence of the payee and his then capacity to indorse, but not the genuineness or validity of his indorsement.
         
         
     
@@ -1136,17 +1145,17 @@ Bills of exchange
     
 *   (1) The drawer of a bill, by drawing it,---
         
-    *   (a) Engages that on due presentation it shall be accepted and paid according to its tenor, and that if it is dishonoured he will compensate the holder or any indorser who is compelled to pay it, provided that the requisite proceedings on dishonour are duly taken:
+    *   (a) engages that on due presentation it shall be accepted and paid according to its tenor, and that if it is dishonoured he will compensate the holder or any indorser who is compelled to pay it, provided that the requisite proceedings on dishonour are duly taken:
     
-    *   (b) Is precluded from denying to a holder in due course the existence of the payee and his then capacity to indorse.
+    *   (b) is precluded from denying to a holder in due course the existence of the payee and his then capacity to indorse.
     
     (2) The indorser of a bill, by indorsing it,---
         
-    *   (c) Engages that on due presentment it shall be accepted and paid according to its tenor, and that if it is dishonoured he will compensate the holder or a subsequent indorser who is compelled to pay it, provided that the requisite proceedings on dishonour are duly taken:
+    *   (c) engages that on due presentment it shall be accepted and paid according to its tenor, and that if it is dishonoured he will compensate the holder or a subsequent indorser who is compelled to pay it, provided that the requisite proceedings on dishonour are duly taken:
     
-    *   (d) Is precluded from denying to a holder in due course the genuineness and regularity in all respects of the drawer's signature and all previous indorsements:
+    *   (d) is precluded from denying to a holder in due course the genuineness and regularity in all respects of the drawer's signature and all previous indorsements:
     
-    *   (e) Is precluded from denying to his immediate or a subsequent indorsee that the bill was at the time of his indorsement a valid and subsisting bill, and that he had then a good title thereto.
+    *   (e) is precluded from denying to his immediate or a subsequent indorsee that the bill was at the time of his indorsement a valid and subsisting bill, and that he had then a good title thereto.
     
     Compare: 1883 No 8 s 55
 
@@ -1160,19 +1169,19 @@ Bills of exchange
     
 *   Where a bill is dishonoured, the measure of damages, which shall be deemed to be liquidated damages, shall be as follows:
         
-    *   (a) The holder may recover from any party liable on the bill, and the drawer who has been compelled to pay the bill may recover from the acceptor, and an indorser who has been compelled to pay the bill may recover from the acceptor or from the drawer, or from a prior indorser,---
+    *   (a) the holder may recover from any party liable on the bill, and the drawer who has been compelled to pay the bill may recover from the acceptor, and an indorser who has been compelled to pay the bill may recover from the acceptor or from the drawer, or from a prior indorser,---
             
-        *   (i) The amount of the bill:
+        *   (i) the amount of the bill:
         
-        *   (ii) Interest thereon from the time of presentment for payment if the bill is payable on demand, and from the maturity of the bill in any other case:
+        *   (ii) interest thereon from the time of presentment for payment if the bill is payable on demand, and from the maturity of the bill in any other case:
         
-        *   (iii) The expenses of noting, or, when protest is necessary and the protest has been extended, the expenses of protest.
+        *   (iii) the expenses of noting, or, when protest is necessary and the protest has been extended, the expenses of protest.
         
         
     
-    *   (b) In the case of a bill that has been dishonoured abroad, in lieu of the above damages the holder may recover from the drawer or an indorser, and the drawer or an indorser who has been compelled to pay the bill may recover from any party liable to him, the amount of the re-exchange, with interest thereon until the time of payment.
+    *   (b) in the case of a bill that has been dishonoured abroad, in lieu of the above damages the holder may recover from the drawer or an indorser, and the drawer or an indorser who has been compelled to pay the bill may recover from any party liable to him, the amount of the re-exchange, with interest thereon until the time of payment.
     
-    *   (c) Where by this Act interest may be recovered as damages, such interest may, if justice requires it, be withheld wholly or in part, and, where a bill is expressed to be payable with interest at a given rate, interest as damages may or may not be given at the same rate as interest proper.
+    *   (c) where by this Act interest may be recovered as damages, such interest may, if justice requires it, be withheld wholly or in part, and, where a bill is expressed to be payable with interest at a given rate, interest as damages may or may not be given at the same rate as interest proper.
     
     Compare: 1883 No 8 s 57
 
@@ -1196,9 +1205,9 @@ Bills of exchange
     
     (3) Subject to the provisions hereinafter contained, when a bill is paid by the drawer or an indorser it is not discharged: but
         
-    *   (a) Where a bill payable to or to the order of a third party is paid by the drawer, the drawer may enforce payment thereof against the acceptor, but may not reissue the bill;
+    *   (a) where a bill payable to or to the order of a third party is paid by the drawer, the drawer may enforce payment thereof against the acceptor, but may not reissue the bill;
     
-    *   (b) Where a bill is paid by an indorser, or where a bill payable to drawer's order is paid by the drawer, the party paying it is remitted to his former rights as regards the acceptor or antecedent parties, and may, if he thinks fit, strike out his own and subsequent indorsements, and again negotiate the bill.
+    *   (b) where a bill is paid by an indorser, or where a bill payable to drawer's order is paid by the drawer, the party paying it is remitted to his former rights as regards the acceptor or antecedent parties, and may, if he thinks fit, strike out his own and subsequent indorsements, and again negotiate the bill.
     
     (4) Where an accommodation bill is paid in due course by the party accommodated the bill is discharged.
     
@@ -1208,7 +1217,7 @@ Bills of exchange
     
 *   (1) Where a bill payable to order on demand is drawn on a banker, and the banker on whom it is drawn pays the bill in good faith and in the ordinary course of business, it is not incumbent on the banker to show that the indorsement of the payee or any subsequent indorsement was made by or under the authority of the person whose indorsement it purports to be, and the banker is deemed to have paid the bill in due course, although such indorsement has been forged or made without authority.
     
-    (2) Where a banker carries on the business of banking at more branches than one he shall, for the purposes of this section, be deemed to be an independent banker in respect of each of such branches, and a draft issued by one of such branches and payable at another shall be deemed to be a bill.
+    (2) Where a banker carries on the business of banking at more branches than 1 he shall, for the purposes of this section, be deemed to be an independent banker in respect of each of such branches, and a draft issued by one of such branches and payable at another shall be deemed to be a bill.
     
     Compare: 1883 No 8 s 60; 1905 No 40 s 2
 
@@ -1242,7 +1251,7 @@ Bills of exchange
     
 *   (1) Where a bill or acceptance is materially altered without the assent of all parties liable on the bill, the bill is avoided except as against a party who has himself made, authorised, or assented to the alteration, and subsequent indorsers:
     
-    Provided that, where a bill has been materially altered, but the alteration is not apparent, and the bill is in the hands of a holder in due course, such holder may avail himself of the bill as if it had not been altered, and may enforce payment of it according to its original tenor.
+    provided that, where a bill has been materially altered, but the alteration is not apparent, and the bill is in the hands of a holder in due course, such holder may avail himself of the bill as if it had not been altered, and may enforce payment of it according to its original tenor.
     
     (2) In particular the following alterations are material, namely, any alteration of the date, the sum payable, the time of payment, the place of payment, and, where a bill has been accepted generally, the addition of a place of payment without the acceptor's assent.
     
@@ -1258,9 +1267,9 @@ Bills of exchange
     
     (3) An acceptance for honour _supra_ protest in order to be valid must---
         
-    *   (a) Be written on the bill, and indicate that it is an acceptance for honour; and
+    *   (a) be written on the bill, and indicate that it is an acceptance for honour; and
     
-    *   (b) Be signed by the acceptor for honour.
+    *   (b) be signed by the acceptor for honour.
     
     (4) Where an acceptance for honour does not expressly state for whose honour it is made, it is deemed to be an acceptance for the honour of the drawer.
     
@@ -1326,15 +1335,15 @@ Bills of exchange
 
 ##### 71 Rules as to sets
     
-*   (1) Where a bill is drawn in a set, each part of the set being numbered, and containing a reference to the other parts, the whole of the parts constitute one bill.
+*   (1) Where a bill is drawn in a set, each part of the set being numbered, and containing a reference to the other parts, the whole of the parts constitute 1 bill.
     
     (2) Where the holder of a set indorses 2 or more parts to different persons, he is liable on every such part, and every indorser subsequent to him is liable on the part he has himself indorsed as if the said parts were separate bills.
     
     (3) Where 2 or more parts of a set are negotiated to different holders in due course, the holder whose title first accrues is, as between such holders, deemed the true owner of the bill; but nothing in this subsection shall affect the rights of a person who in due course accepts or pays the part first presented to him.
     
-    (4) The acceptance may be written on any part, and it must be written on one part only.
+    (4) The acceptance may be written on any part, and it must be written on 1 part only.
     
-    (5) If the drawee accepts more than one part, and such accepted parts get into the hands of different holders in due course, he is liable on every part as if it were a separate bill.
+    (5) If the drawee accepts more than 1 part, and such accepted parts get into the hands of different holders in due course, he is liable on every part as if it were a separate bill.
     
     (6) Where the acceptor of a bill drawn in a set pays it without requiring the part bearing his acceptance to be delivered up to him, and that part at maturity is outstanding in the hands of a holder in due course, he is liable to the holder thereof.
     
@@ -1346,36 +1355,36 @@ Bills of exchange
 
 ##### 72 Law governing contracts contained in a bill
     
-*   Where a bill drawn in one country is negotiated, accepted, or payable in another, the rights, duties, and liabilities of the parties thereto are determined as follows:
+*   Where a bill drawn in 1 country is negotiated, accepted, or payable in another, the rights, duties, and liabilities of the parties thereto are determined as follows:
         
-    *   (a) The validity of a bill as regards requisites in form is determined by the law of the place of issue, and the validity as regards requisites in form of the supervening contracts, such as acceptance, or indorsement, or acceptance supra protest, is in each case determined by the law of the place where the contract was made:
+    *   (a) the validity of a bill as regards requisites in form is determined by the law of the place of issue, and the validity as regards requisites in form of the supervening contracts, such as acceptance, or indorsement, or acceptance supra protest, is in each case determined by the law of the place where the contract was made:
         
-        Provided that---
+        provided that---
             
-        *   (i) Where a bill is issued out of New Zealand it is not invalid by reason only that it is not stamped in accordance with the law of the place of issue:
+        *   (i) where a bill is issued out of New Zealand it is not invalid by reason only that it is not stamped in accordance with the law of the place of issue:
         
-        *   (ii) Where a bill issued out of New Zealand conforms, as regards requisites in form, to the law of New Zealand, it may, for the purpose of enforcing payment thereof, be treated as valid as between all persons who negotiate, hold, or become parties to it in New Zealand:
+        *   (ii) where a bill issued out of New Zealand conforms, as regards requisites in form, to the law of New Zealand, it may, for the purpose of enforcing payment thereof, be treated as valid as between all persons who negotiate, hold, or become parties to it in New Zealand:
         
         
     
-    *   (b) Subject to the provisions of this Act, the interpretation of the drawing, indorsement, acceptance, or acceptance _supra_ protest of a bill is determined by the law of the place where such contract was made:
+    *   (b) subject to the provisions of this Act, the interpretation of the drawing, indorsement, acceptance, or acceptance _supra_ protest of a bill is determined by the law of the place where such contract was made:
         
-        Provided that where an inland bill is indorsed in a foreign country the indorsement shall, as regards the payer, be interpreted according to the law of New Zealand:
+        provided that where an inland bill is indorsed in a foreign country the indorsement shall, as regards the payer, be interpreted according to the law of New Zealand:
     
-    *   (c) The duties of the holder with respect to presentment for acceptance or payment and the necessity for or sufficiency of a protest or notice of dishonour, or otherwise, are determined by the law of the place where the act is done or the bill is dishonoured:
+    *   (c) the duties of the holder with respect to presentment for acceptance or payment and the necessity for or sufficiency of a protest or notice of dishonour, or otherwise, are determined by the law of the place where the act is done or the bill is dishonoured:
     
-    *   (d) Where a bill is drawn out of but is payable in New Zealand and the sum payable is not expressed in the currency of New Zealand, the amount shall, in the absence of some express stipulation, be calculated according to the rate of exchange for sight drafts at the place of payment on the day the bill is payable:
+    *   (d) where a bill is drawn out of but is payable in New Zealand and the sum payable is not expressed in the currency of New Zealand, the amount shall, in the absence of some express stipulation, be calculated according to the rate of exchange for sight drafts at the place of payment on the day the bill is payable:
     
-    *   (e) Where a bill is drawn in one country and is payable in another, the due date thereof is determined according to the law of the place where it is payable.
+    *   (e) where a bill is drawn in 1 country and is payable in another, the due date thereof is determined according to the law of the place where it is payable.
     
     Compare: 1883 No 8 s 72
 
 ## Part 2  
 Cheques on a bank
 
-##### 73 _Cheque_ defined
+##### 73 Cheque defined
     
-*   (1) A cheque is a bill of exchange drawn on a banker payable on demand.
+*   (1) A _cheque_ is a bill of exchange drawn on a banker payable on demand.
     
     (2) Except as otherwise provided in this Part of this Act, the provisions of this Act applicable to a bill of exchange payable on demand apply to a cheque.
     
@@ -1385,11 +1394,11 @@ Cheques on a bank
     
 *   Subject to the provisions of this Act,---
         
-    *   (a) Where a cheque is not presented for payment within a reasonable time after its issue, and the drawer or the person on whose account it is drawn had the right at the time of such presentment as between himself and the banker to have the cheque paid, and suffers actual damage through the delay, he is discharged to the extent of such damage---that is to say, to the extent to which such drawer or person is a creditor of such banker to a larger amount than he would have been had such cheque been paid:
+    *   (a) where a cheque is not presented for payment within a reasonable time after its issue, and the drawer or the person on whose account it is drawn had the right at the time of such presentment as between himself and the banker to have the cheque paid, and suffers actual damage through the delay, he is discharged to the extent of such damage---that is to say, to the extent to which such drawer or person is a creditor of such banker to a larger amount than he would have been had such cheque been paid:
     
-    *   (b) In determining what is a reasonable time regard shall be had to the nature of the instrument, the usage of trade and of bankers, and the facts of the particular case:
+    *   (b) in determining what is a reasonable time regard shall be had to the nature of the instrument, the usage of trade and of bankers, and the facts of the particular case:
     
-    *   (c) The holder of such cheque as to which such drawer or person is discharged shall be a creditor, in lieu of such drawer or person, of such banker to the extent of such discharge, and shall be entitled to recover the amount from him.
+    *   (c) the holder of such cheque as to which such drawer or person is discharged shall be a creditor, in lieu of such drawer or person, of such banker to the extent of such discharge, and shall be entitled to recover the amount from him.
     
     Compare: 1883 No 8 s 74
 
@@ -1397,17 +1406,17 @@ Cheques on a bank
     
 *   (1) The duty and authority of a banker to pay a cheque drawn on him by his customer are determined by---
         
-    *   (a) Countermand of payment:
+    *   (a) countermand of payment:
     
-    *   (b) Notice of the customer's death.
+    *   (b) notice of the customer's death.
     
-    (2) Notwithstanding the provisions of paragraph [(b)][88] of subsection (1) of this section, a banker may pay a cheque drawn on him, notwithstanding that he has notice of the death of the customer who drew it, if the cheque is presented not more than 10 days after the date of the customer's death, unless---
+    (2) Notwithstanding the provisions of paragraph (b) of subsection (1), a banker may pay a cheque drawn on him, notwithstanding that he has notice of the death of the customer who drew it, if the cheque is presented not more than 10 days after the date of the customer's death, unless---
         
-    *   (a) The cheque is dated after that date; or
+    *   (a) the cheque is dated after that date; or
     
-    *   (b) The banker receives a countermand of payment by a person who claims to be entitled to a grant of administration in respect of or to be a beneficiary of the customer's estate.
+    *   (b) the banker receives a countermand of payment by a person who claims to be entitled to a grant of administration in respect of or to be a beneficiary of the customer's estate.
     
-    Section 75 was substituted, as from 20 September 1971, by section 2 Bills of Exchange Amendment Act 1971 (1971 No 21).
+    Section 75: replaced, on 20 September 1971, by section 2 of the Bills of Exchange Amendment Act 1971 (1971 No 21).
 
 #### Crossed cheques
 
@@ -1415,9 +1424,9 @@ Cheques on a bank
     
 *   (1) Where a cheque bears across its face an addition of---
         
-    *   (a) The words ""and company"", or ""bank"", or any abbreviation thereof, between 2 parallel transverse lines, either with or without the words ""Not negotiable""; or
+    *   (a) the words ""and company"", or ""bank"", or any abbreviation thereof, between 2 parallel transverse lines, either with or without the words ""Not negotiable""; or
     
-    *   (b) Two parallel transverse lines simply, either with or without the words ""Not negotiable"",---
+    *   (b) 2 parallel transverse lines simply, either with or without the words ""Not negotiable"",---
     
     that addition constitutes a crossing, and the cheque is crossed generally.
     
@@ -1449,7 +1458,7 @@ Cheques on a bank
 
 ##### 79 Duties of banker as to crossed cheques
     
-*   (1) Where a cheque is crossed specially to more than one banker, except when crossed to an agent for collection being a banker, the banker on whom it is drawn shall refuse payment thereof.
+*   (1) Where a cheque is crossed specially to more than 1 banker, except when crossed to an agent for collection being a banker, the banker on whom it is drawn shall refuse payment thereof.
     
     (2) Where the banker on whom a cheque so crossed is drawn nevertheless pays the same, or pays a cheque crossed generally otherwise than to a banker, or if crossed specially otherwise than to the banker to whom it is crossed, or his agent for collection being a banker, he is liable to the true owner of the cheque for any loss he may sustain owing to the cheque having been so paid.
     
@@ -1469,26 +1478,24 @@ Cheques on a bank
     
     Compare: 1883 No 8 s 81
 
-##### 82
+*   82 \[Repealed\]
     
-*   \[Repealed\]
-    
-    Section 82 was repealed, as from 1 January 1961, by section [8(1)][128] Cheques Act 1960 (1960 No 17).
+    Section 82: repealed, on 1 January 1961, by [section 8(1)][126] of the Cheques Act 1960 (1960 No 17).
 
 ##### 83 Branch banks deemed independent banks for certain purposes
     
-*   Where a banker carries on the business of banking at more branches than one he shall, for the purposes of sections 76 to 81 hereof and for the purposes of the [Cheques Act 1960][129], be deemed to be an independent banker in respect of each of such branches.
+*   Where a banker carries on the business of banking at more branches than 1 he shall, for the purposes of [sections 76 to 81][91] and for the purposes of the [Cheques Act 1960][127], be deemed to be an independent banker in respect of each of such branches.
     
     Compare: 1905 No 40 s 2
     
-    Section 83 was amended, as from 1 January 1961, by inserting the words ""and for the purposes of the Cheques Act 1960,"" by section [8(2)][128] Cheques Act 1960 (1960 No 17).
+    Section 83: amended, on 1 January 1961, by [section 8(2)][126] of the Cheques Act 1960 (1960 No 17).
 
 ## Part 3  
 Promissory notes
 
-##### 84 _Promissory note_ defined
+##### 84 Promissory note defined
     
-*   (1) A promissory note is an unconditional promise in writing made by one person to another, signed by the maker, engaging to pay on demand, or at a fixed or determinable future time, a sum certain in money to or to the order of a specified person or to bearer.
+*   (1) A _promissory note_ is an unconditional promise in writing made by one person to another, signed by the maker, engaging to pay on demand, or at a fixed or determinable future time, a sum certain in money to or to the order of a specified person or to bearer.
     
     (2) An instrument in the form of a note payable to maker's order is not a note within the meaning of this section unless and until it is indorsed by the maker.
     
@@ -1508,7 +1515,7 @@ Promissory notes
     
 *   (1) A promissory note may be made by 2 or more makers, and they may be liable thereon jointly, or jointly and severally, according to its tenor.
     
-    (2) Where a note runs **I promise to pay** and is signed by 2 or more persons, it is deemed to be their joint and several note.
+    (2) Where a note runs ""I promise to pay"" and is signed by 2 or more persons, it is deemed to be their joint and several note.
     
     Compare: 1883 No 8 s 85
 
@@ -1536,27 +1543,27 @@ Promissory notes
     
 *   The maker of a promissory note, by making it,---
         
-    *   (a) Engages that he will pay it according to its tenor:
+    *   (a) engages that he will pay it according to its tenor:
     
-    *   (b) Is precluded from denying to a holder in due course the existence of the payee and his then capacity to indorse.
+    *   (b) is precluded from denying to a holder in due course the existence of the payee and his then capacity to indorse.
     
     Compare: 1883 No 8 s 88
 
-##### 90 Application of Part [1][3] to notes
+##### 90 Application of Part 1 to notes
     
-*   (1) Subject to the provisions in this Part of this Act, and except as provided by this section, the provisions of this Act relating to bills of exchange apply, with the necessary modifications, to promissory notes.
+*   (1) Subject to the provisions in this Part, and except as provided by this section, the provisions of this Act relating to bills of exchange apply, with the necessary modifications, to promissory notes.
     
     (2) In applying those provisions the maker of a note shall be deemed to correspond with the acceptor of a bill, and the first indorser of a note shall be deemed to correspond with the drawer of an accepted bill payable to drawer's order.
     
     (3) The following provisions as to bills do not apply to notes, namely, provisions relating to---
         
-    *   (a) Presentment for acceptance:
+    *   (a) presentment for acceptance:
     
-    *   (b) Acceptance:
+    *   (b) acceptance:
     
-    *   (c) Acceptance _supra_ protest:
+    *   (c) acceptance _supra_ protest:
     
-    *   (d) Bills in a set.
+    *   (d) bills in a set.
     
     (4) Where a foreign note is dishonoured, protest thereof is unnecessary.
     
@@ -1587,7 +1594,7 @@ Miscellaneous
     
     Compare: 1883 No 8 s 92
     
-    Words defining non-business days and business days were omitted from this section by section [12(2)][130] Statutes Amendment Act 1946\.
+    Section 93: amended, on 12 October 1946, by [section 12(2)][128] of the Statutes Amendment Act 1946 (1946 No 40).
 
 ##### 94 When noting equivalent to protest
     
@@ -1599,7 +1606,7 @@ Miscellaneous
     
 *   (1) Where a dishonoured bill or note is authorised or required to be protested, and the services of a notary cannot be obtained at the place where the bill is dishonoured, any householder or substantial resident of the place may, in the presence of 2 witnesses, give a certificate, signed by them, attesting the dishonour of the bill, and the certificate shall in all respects operate as if it were a formal protest of the bill.
     
-    (2) The form given in Schedule [2][116] hereto may be used with necessary modifications, and if used shall be sufficient.
+    (2) The form given in [Schedule 2][115] may be used with necessary modifications, and if used shall be sufficient.
     
     Compare: 1883 No 8 s 94
 
@@ -1609,11 +1616,9 @@ Miscellaneous
     
     Compare: 1883 No 8 s 95
 
-##### 97
+*   97 \[Repealed\]
     
-*   \[Repealed\]
-    
-    Section 97 was repealed, as from 23 October 1963, by section 2 Bills of Exchange Amendment Act 1963 (1963 No 75).
+    Section 97: repealed, on 23 October 1963, by section 2 of the Bills of Exchange Amendment Act 1963 (1963 No 75).
 
 ##### 98 Saving
     
@@ -1621,131 +1626,167 @@ Miscellaneous
     
     (2) Nothing in this Act shall affect---
         
-    *   (a) The provisions of the [Stamp and Cheque Duties Act 1971][131], or any law or enactment for the time being in force relating to the revenue:
+    *   (a) the provisions of the [Stamp and Cheque Duties Act 1971][129], or any law or enactment for the time being in force relating to the revenue:
     
-    *   (b) The provisions of the Companies Act 1955\.
+    *   (b) \[Repealed\]
     
     Compare: 1883 No 8 s 98
     
-    A reference in subsection (2)(a) to the Stamp Duties Act 1908 was substituted, as from 1 January 1924, by a reference to the Stamp Duties Act 1923 pursuant to section 199(1) Stamp Duties Act 1923 (1923 No 26). This reference was in turn substituted, as from 1 January 1955, by a reference to the Stamp Duties Act 1954 pursuant to section 175(1) Stamp Duties Act 1954 (1954 No 52). This reference was substituted, as from 1 January 1972, by a reference to the Stamp and Cheque Duties Act 1971 pursuant to section [101(1)][132] Stamp and Cheque Duties Act 1971 (1971 No 51).
+    Section 98(2)(a): amended, on 1 January 1972, pursuant to [section 101(1)][130] of the Stamp and Cheque Duties Act 1971 (1971 No 51).
     
-    A reference in subsection (2)(b) to the Companies Act 1908 was substituted, as from 1 April 1934, by a reference to the Companies Act 1933, pursuant to section 384(1) Companies Act 1933 (1933 No 29). That Act was in turn substituted, as from 1 January 1957, by a reference to the Companies Act 1955 pursuant to section 474(1) Companies Act 1955 (1955 No 63)
+    Section 98(2)(b): repealed, on 5 December 2013, by [section 14][131] of the Companies Amendment Act 2013 (2013 No 111).
 
 ---
 
 ## Schedule 1  
 Enactments consolidated
 
-Section [1(2)][1]
+[s 1(2)][2]
 
-*   1883, No 8---The Bills of Exchange Act 1883\.
-*   1884, No 28---The Bills of Exchange Act 1883 Amendment Act 1884\.
-*   1905, No 40---The Bills of Exchange Act Amendment Act 1905\.
+##### Bills of Exchange Act 1883 (1883 No 8)
+
+##### Bills of Exchange Act 1883 Amendment Act 1884 (1884 No 28)
+
+##### Bills of Exchange Act Amendment Act 1905 (1905 No 40)
+
+---
 
 ## Schedule 2  
 Protest where the services of a notary cannot be obtained
 
-Section [95(2)][111]
+[s 95(2)][111]
 
-![. ](images/ACT_NZL_PUB.1908_015_END_SCH.Second_GPH.134_V2.jpg)
+Know all men that I, A. B. \[householder\], of , in New Zealand, at the request of C D, there being no notary public available, did on the day of 19 , at , demand payment \[_or_ acceptance\] of the bill of exchange hereunder written, from E F, to which demand he made answer \[_state answer, if any_\]: Wherefore I now, in the presence of G H and J K, do protest the said bill of exchange.
 
-[0]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137813
-[1]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137815
-[2]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137816
-[3]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137847
-[4]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137848
-[5]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137849
-[6]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137851
-[7]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137856
-[8]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137857
-[9]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137858
-[10]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137859
-[11]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137860
-[12]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137861
-[13]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137862
-[14]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137863
-[15]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137864
-[16]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137865
-[17]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137868
-[18]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137869
-[19]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137870
-[20]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137871
-[21]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137872
-[22]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137873
-[23]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137874
-[24]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137875
-[25]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137876
-[26]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137877
-[27]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137878
-[28]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137879
-[29]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137880
-[30]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137881
-[31]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137882
-[32]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137883
-[33]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137884
-[34]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137885
-[35]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137888
-[36]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137889
-[37]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137890
-[38]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137891
-[39]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137892
-[40]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137893
-[41]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137894
-[42]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137895
-[43]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137896
-[44]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137897
-[45]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137898
-[46]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137899
-[47]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138201
-[48]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138204
-[49]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138206
-[50]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138207
-[51]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138208
-[52]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138211
-[53]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138213
-[54]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138214
-[55]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138216
-[56]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138218
-[57]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138219
-[58]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138221
-[59]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138222
-[60]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138223
-[61]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138224
-[62]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138225
-[63]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138226
-[64]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138227
-[65]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138228
-[66]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138230
-[67]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138231
-[68]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138233
-[69]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138234
-[70]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138235
-[71]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138236
-[72]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138237
-[73]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138238
-[74]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138239
-[75]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138240
-[76]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138241
-[77]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138242
-[78]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138243
-[79]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138244
-[80]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138245
-[81]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138246
-[82]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138247
-[83]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138248
-[84]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138249
-[85]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138250
-[86]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138251
-[87]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138253
-[88]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138254
-[89]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138256
-[90]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138257
-[91]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138258
-[92]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138259
-[93]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138260
-[94]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138261
-[95]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138262
-[96]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138263
+(Signed)
+
+A B
+
+Witnesses
+
+G H
+
+J K
+
+\[_NB---The bill itself should be annexed, or a copy of the bill and all that is written thereon should be underwritten._\]
+
+#### 
+
+---
+
+##### Eprint notes
+
+###### 1 General
+    
+*   This is an eprint of the Bills of Exchange Act 1908 that incorporates all the amendments to that Act as at the date of the last amendment to it.
+
+###### 2 About this eprint
+    
+*   This eprint is not an official version of the legislation under [section 18][132] of the Legislation Act 2012\.
+
+###### 3 Amendments incorporated in this eprint
+    
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][131]
+
+
+
+[0]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM2998524
+[1]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137813
+[2]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137815
+[3]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137816
+[4]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137847
+[5]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137848
+[6]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137849
+[7]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137851
+[8]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137856
+[9]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137857
+[10]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137858
+[11]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137859
+[12]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137860
+[13]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137861
+[14]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137862
+[15]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137863
+[16]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137864
+[17]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137865
+[18]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137868
+[19]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137869
+[20]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137870
+[21]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137871
+[22]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137872
+[23]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137873
+[24]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137874
+[25]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137875
+[26]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137876
+[27]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137877
+[28]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137878
+[29]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137879
+[30]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137880
+[31]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137881
+[32]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137882
+[33]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137883
+[34]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137884
+[35]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137885
+[36]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137888
+[37]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137889
+[38]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137890
+[39]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137891
+[40]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137892
+[41]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137893
+[42]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137894
+[43]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137895
+[44]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137896
+[45]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137897
+[46]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137898
+[47]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM137899
+[48]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138201
+[49]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138204
+[50]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138206
+[51]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138207
+[52]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138208
+[53]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138211
+[54]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138213
+[55]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138214
+[56]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138216
+[57]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138218
+[58]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138219
+[59]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138221
+[60]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138222
+[61]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138223
+[62]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138224
+[63]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138225
+[64]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138226
+[65]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138227
+[66]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138228
+[67]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138230
+[68]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138231
+[69]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138233
+[70]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138234
+[71]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138235
+[72]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138236
+[73]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138237
+[74]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138238
+[75]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138239
+[76]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138240
+[77]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138241
+[78]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138242
+[79]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138243
+[80]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138244
+[81]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138245
+[82]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138246
+[83]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138247
+[84]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138248
+[85]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138249
+[86]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138250
+[87]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138251
+[88]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138253
+[89]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138254
+[90]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138256
+[91]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138257
+[92]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138258
+[93]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138259
+[94]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138260
+[95]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138261
+[96]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138262
 [97]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138265
 [98]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138267
 [99]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138268
@@ -1762,23 +1803,23 @@ Section [95(2)][111]
 [110]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138281
 [111]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138282
 [112]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138283
-[113]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138284
-[114]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138286
-[115]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138289
-[116]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138290
-[117]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM30481
-[118]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM167850
-[119]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM30482
-[120]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM211511
-[121]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM213510
-[122]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM213532
-[123]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM213535
-[124]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM30483
-[125]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM30484
-[126]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM30485
-[127]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM30486
-[128]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM324686
-[129]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM324662
-[130]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM242170
-[131]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM399728
-[132]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM401040
+[113]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138286
+[114]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138289
+[115]: http://www.legislation.govt.nz/act/public/1908/0015/latest/whole.html#DLM138290
+[116]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM30481
+[117]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM167850
+[118]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM30482
+[119]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM211511
+[120]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM213510
+[121]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM213532
+[122]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM30483
+[123]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM30484
+[124]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM30485
+[125]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM30486
+[126]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM324686
+[127]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM324662
+[128]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM242170
+[129]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM399728
+[130]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM401040
+[131]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM5620822
+[132]: http://www.legislation.govt.nz/act/public/1908/0015/latest/link.aspx?id=DLM2998516
