@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Inland Revenue Department.
 
@@ -155,15 +155,17 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     *   (b) which would have so become unclaimed money if it were not money of any of the kinds referred to in subsection (2),---
     
-    the holder or that personal representative may, if he thinks fit, pay the money to the Commissioner and furnish to the Commissioner particulars of the payment and of the person on whose behalf the money was held or to whom it was owed; and thereupon that money shall be deemed to be unclaimed money, and the provisions of this Act, as far as they are applicable, shall apply accordingly:
-    
-    provided that this subsection shall not apply to any money of the kind referred to in section 330 of the Companies Act 1955\.
+    the holder or that personal representative may, if he thinks fit, pay the money to the Commissioner and furnish to the Commissioner particulars of the payment and of the person on whose behalf the money was held or to whom it was owed; and thereupon that money shall be deemed to be unclaimed money, and the provisions of this Act, as far as they are applicable, shall apply accordingly.
     
     (4) In subsection (2) the expression _mutual association_ means any body or association of persons, whether incorporated or not, which enters into transactions of a mutual character with its members, whether or not it also enters into transactions with other persons.
     
     Compare: 1908 No 201 s 2; 1932 No 11 [s 26][25]
     
     Section 4(1) proviso paragraph (i): amended, on 24 March 1988, by section 2 of the Unclaimed Money Amendment Act 1988 (1988 No 9).
+    
+    Section 4(3): amended, on 5 December 2013, by [section 14][26] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 4(3) proviso: repealed, on 5 December 2013, by [section 14][26] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 5 Holder
     
@@ -181,17 +183,17 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     *   (f) any insurance office or company carrying on business in New Zealand, including the Government Life Insurance Corporation:
     
-    *   (g) any auctioneer within the meaning of the [Auctioneers Act 1928][26], whether or not a company, in respect of any balance of proceeds of any auction sale:
+    *   (g) any auctioneer within the meaning of the [Auctioneers Act 1928][27], whether or not a company, in respect of any balance of proceeds of any auction sale:
     
-    *   (h) any agent within the meaning of the [Real Estate Agents Act 2008][27], whether or not a company, in respect of money held in a trust account:
+    *   (h) any agent within the meaning of the [Real Estate Agents Act 2008][28], whether or not a company, in respect of money held in a trust account:
     
-    *   (ha) any conveyancing practitioner within the meaning of the [Lawyers and Conveyancers Act 2006][28], in respect of money held in a trust account:
+    *   (ha) any conveyancing practitioner within the meaning of the [Lawyers and Conveyancers Act 2006][29], in respect of money held in a trust account:
     
-    *   (i) any sharebroker within the meaning of the [Sharebrokers Act 1908][29], whether or not a company, in respect of money held on behalf of clients:
+    *   (i) any sharebroker within the meaning of the [Sharebrokers Act 1908][30], whether or not a company, in respect of money held on behalf of clients:
     
-    *   (j) any chartered accountant (within the meaning of [section 19][30] of the New Zealand Institute of Chartered Accountants Act 1996) in respect of money held on behalf of clients:
+    *   (j) any chartered accountant (within the meaning of [section 19][31] of the New Zealand Institute of Chartered Accountants Act 1996) in respect of money held on behalf of clients:
     
-    *   (k) any motor vehicle trader within the meaning of the [Motor Vehicle Sales Act 2003][31], whether or not a company, for money held on behalf of any person for whom the trader has acted as agent in the course of carrying on the business of motor vehicle trading:
+    *   (k) any motor vehicle trader within the meaning of the [Motor Vehicle Sales Act 2003][32], whether or not a company, for money held on behalf of any person for whom the trader has acted as agent in the course of carrying on the business of motor vehicle trading:
     
     provided that where any holder referred to in paragraph (e) or paragraph (g) or paragraph (h) or paragraph (i) or paragraph (k) is a company, nothing in those paragraphs shall derogate from the provisions of paragraphs (a) and (b) in relation to that holder.
     
@@ -203,19 +205,19 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     and in that case he or it shall be deemed to be the holder in respect of that money.
     
-    Compare: 1908 No 201 s 2; 1932 No 11 [s 25][32]; 1932--33 No 45 s 17
+    Compare: 1908 No 201 s 2; 1932 No 11 [s 25][33]; 1932--33 No 45 s 17
     
     Section 5(1)(f): amended, on 1 April 1987, pursuant to section 34(3) of the Government Life Insurance Corporation Act 1987 (1987 No 70).
     
-    Section 5(1)(h): amended, on 16 November 2009, by [section 173][33] of the Real Estate Agents Act 2008 (2008 No 66).
+    Section 5(1)(h): amended, on 16 November 2009, by [section 173][34] of the Real Estate Agents Act 2008 (2008 No 66).
     
-    Section 5(1)(ha): inserted, on 1 August 2008, by [section 348][34] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 5(1)(ha): inserted, on 1 August 2008, by [section 348][35] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
     
-    Section 5(1)(j): replaced, on 1 October 1996, by [section 23][35] of the New Zealand Institute of Chartered Accountants Act 1996 (1996 No 39).
+    Section 5(1)(j): replaced, on 1 October 1996, by [section 23][36] of the New Zealand Institute of Chartered Accountants Act 1996 (1996 No 39).
     
-    Section 5(1)(j): amended, on 7 July 2010, by [section 10][36] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    Section 5(1)(j): amended, on 7 July 2010, by [section 10][37] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
     
-    Section 5(1)(k): replaced, on 15 December 2003, by [section 145][37] of the Motor Vehicle Sales Act 2003 (2003 No 12).
+    Section 5(1)(k): replaced, on 15 December 2003, by [section 145][38] of the Motor Vehicle Sales Act 2003 (2003 No 12).
 
 ##### 6 Register to be kept
     
@@ -229,9 +231,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (2) Nothing in this section shall apply to any unclaimed money in respect of which special provisions are made by or under any other Act, or to any unclaimed money which, pursuant to the proviso to subsection (1) of [section 4][5], ceases to be unclaimed money.
     
-    Compare: 1908 No 201 s 3; 1932 No 11 [s 27][38]
+    Compare: 1908 No 201 s 3; 1932 No 11 [s 27][39]
     
-    Section 6(1) proviso paragraph (a): amended, on 1 April 1980, pursuant to [section 18(2)][39] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 6(1) proviso paragraph (a): amended, on 1 April 1980, pursuant to [section 18(2)][40] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 7 Holder to notify Commissioner and owners of entries in register of unclaimed money
     
@@ -241,7 +243,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (3) Nothing in this section shall apply to any unclaimed money in respect of which special provisions are made by or under any other Act.
     
-    Compare: 1932 No 11 [s 28][40]
+    Compare: 1932 No 11 [s 28][41]
 
 ##### 8 Payment of unclaimed money to Commissioner
     
@@ -255,9 +257,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (4) Where unclaimed money is paid by a holder to the Commissioner in accordance with this Act, the holder shall thereafter be relieved of all further liability to any claimant in respect of the money so paid.
     
-    Compare: 1932 No 11 [s 30][41]
+    Compare: 1932 No 11 [s 30][42]
     
-    Section 8(3): amended, on 25 January 2005, pursuant to [section 83(7)][42] of the Public Finance Act 1989 (1989 No 44).
+    Section 8(3): amended, on 25 January 2005, pursuant to [section 83(7)][43] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 9 Special arrangements may be made by Commissioner
     
@@ -271,7 +273,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (3) Every person shall, without fee, from time to time as required by the Commissioner or any officer of the Department authorised by him in that behalf furnish in writing any information or produce any books or documents which may be in his knowledge, or his possession or control, as the case may be, and which relate to money which is or may be unclaimed money.
     
-    Compare: 1932 No 11 [s 31(1)--(4)][43]
+    Compare: 1932 No 11 [s 31(1)--(4)][44]
 
 ##### 11 Commissioner may make payment to claimant
     
@@ -293,9 +295,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     Compare: 1908 No 201 ss 8, 9
     
-    Section 11(1)(b): amended, on 25 January 2005, pursuant to [section 83(7)][42] of the Public Finance Act 1989 (1989 No 44).
+    Section 11(1)(b): amended, on 25 January 2005, pursuant to [section 83(7)][43] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 11(2): amended, on 25 January 2005, pursuant to [section 83(7)][42] of the Public Finance Act 1989 (1989 No 44).
+    Section 11(2): amended, on 25 January 2005, pursuant to [section 83(7)][43] of the Public Finance Act 1989 (1989 No 44).
     
     Section 11(2): amended, on 1 April 1987, by section 16(4) of the State Services Conditions of Employment Amendment Act 1987 (1987 No 17).
     
@@ -315,11 +317,11 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (2) Every person who wilfully acts in contravention of the provisions of this section is liable on conviction before a District Court Judge to imprisonment for a term not exceeding 6 months or to a fine not exceeding $200\.
     
-    Compare: 1932 No 11 [s 31(4), (5)][43]
+    Compare: 1932 No 11 [s 31(4), (5)][44]
     
-    Section 12(2): amended, on 1 July 2013, by [section 413][44] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 12(2): amended, on 1 July 2013, by [section 413][45] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 12(2): amended, on 1 April 1980, pursuant to [section 18(2)][39] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 12(2): amended, on 1 April 1980, pursuant to [section 18(2)][40] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 13 Offences
     
@@ -329,9 +331,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     *   (b) being a director, manager, secretary, or other officer of the holder, authorises or permits that failure to comply.
     
-    Compare: 1932 No 11 [ss 29(1)][45], [31(5)][43]
+    Compare: 1932 No 11 [ss 29(1)][46], [31(5)][44]
     
-    Section 13: amended, on 1 July 2013, by [section 413][44] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 13: amended, on 1 July 2013, by [section 413][45] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 14 Consequential amendments
     
@@ -345,9 +347,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (6) Subject to [section 11][12], the enactments amended by this section shall continue to apply, as if this Act had not been passed, to all money which before the commencement of this Act has become unclaimed money under any provision of any such enactment.
     
-    Section 14(3): repealed, on 1 April 1983, by [section 193(1)][46] of the Law Practitioners Act 1982 (1982 No 123).
+    Section 14(3): repealed, on 1 April 1983, by [section 193(1)][47] of the Law Practitioners Act 1982 (1982 No 123).
     
-    Section 14(4): repealed, on 1 April 1983, by [section 193(1)][46] of the Law Practitioners Act 1982 (1982 No 123).
+    Section 14(4): repealed, on 1 April 1983, by [section 193(1)][47] of the Law Practitioners Act 1982 (1982 No 123).
     
     Section 14(5): repealed, on 1 July 1994, by section 63 of the Companies Amendment Act 1993 (1993 No 108).
 
@@ -381,80 +383,39 @@ Date of posting notice to owner:
 
 Unclaimed money paid to owner: \[_date _\] \[_amount_\]
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Unclaimed Money Act 1971\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][47] ![](/images/external_link.gif).
+*   This is a reprint of the Unclaimed Money Act 1971 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][48] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][48] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][49] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][49] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][50] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][51] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][50] and [17E][51] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][26]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][45]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][37]
     
+    Real Estate Agents Act 2008 (2008 No 66): [section 173][34]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][35]
     
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][44]
+    Motor Vehicle Sales Act 2003 (2003 No 12): [section 145][38]
     
-    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][36]
-    
-    Real Estate Agents Act 2008 (2008 No 66): [section 173][33]
-    
-    Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][34]
-    
-    Motor Vehicle Sales Act 2003 (2003 No 12): [section 145][37]
-    
-    New Zealand Institute of Chartered Accountants Act 1996 (1996 No 39): [section 23][35]
+    New Zealand Institute of Chartered Accountants Act 1996 (1996 No 39): [section 23][36]
     
     Income Tax Act 1994 (1994 No 164): section YB 1
     
@@ -464,7 +425,7 @@ Unclaimed money paid to owner: \[_date _\] \[_amount_\]
     
     Unclaimed Money Amendment Act 1990 (1990 No 65)
     
-    Public Finance Act 1989 (1989 No 44): [section 83(7)][42]
+    Public Finance Act 1989 (1989 No 44): [section 83(7)][43]
     
     Unclaimed Money Amendment Act 1988 (1988 No 9)
     
@@ -474,13 +435,13 @@ Unclaimed money paid to owner: \[_date _\] \[_amount_\]
     
     Constitution Act 1986 (1986 No 114): [section 29(2)][18]
     
-    Law Practitioners Act 1982 (1982 No 123): [section 193(1)][46]
+    Law Practitioners Act 1982 (1982 No 123): [section 193(1)][47]
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][39]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][40]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1971/0028/latest/whole.html#DLM398425
 [2]: http://www.legislation.govt.nz/act/public/1971/0028/latest/whole.html#DLM398427
 [3]: http://www.legislation.govt.nz/act/public/1971/0028/latest/whole.html#DLM398428
@@ -506,29 +467,29 @@ Unclaimed money paid to owner: \[_date _\] \[_amount_\]
 [23]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM123660
 [24]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM261023
 [25]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212499
-[26]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM205305
-[27]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM1151900
-[28]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM364938
-[29]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM175007
-[30]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM391422
-[31]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM188103
-[32]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212498
-[33]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM1152186
-[34]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM367849
-[35]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM391427
-[36]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM3043113
-[37]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM188945
-[38]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212800
-[39]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM35085
-[40]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212801
-[41]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212803
-[42]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM163167
-[43]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212804
-[44]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM3360714
-[45]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212802
-[46]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM63909
-[47]: http://www.pco.parliament.govt.nz/reprints/
-[48]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM195439
-[49]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[50]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM195468
-[51]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM195470
+[26]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM5620822
+[27]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM205305
+[28]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM1151900
+[29]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM364938
+[30]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM175007
+[31]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM391422
+[32]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM188103
+[33]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212498
+[34]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM1152186
+[35]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM367849
+[36]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM391427
+[37]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM3043113
+[38]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM188945
+[39]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212800
+[40]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM35085
+[41]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212801
+[42]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212803
+[43]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM163167
+[44]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212804
+[45]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM3360714
+[46]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212802
+[47]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM63909
+[48]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM2998516
+[49]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM2998515
+[50]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM2998532
+[51]: http://www.pco.parliament.govt.nz/editorial-conventions/
