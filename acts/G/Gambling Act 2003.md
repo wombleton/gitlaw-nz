@@ -1,5 +1,5 @@
 Reprint  
-as at 14 September 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -3820,7 +3820,7 @@ Gambling
     
     (2) When this section applies,---
         
-    *   (a) the Secretary must cancel the class 4 venue licence that relates to the old venue, in which case--- 
+    *   (a) the Secretary must cancel the class 4 venue licence that relates to the old venue, in which case---
             
         *   (i) the cancellation takes effect on the date on which the new class 4 venue licence takes effect; and
         
@@ -3830,7 +3830,7 @@ Gambling
     
     *   (b) despite [section 100(1)(b)(i)][130], the maximum number of gaming machines permitted to operate at the new venue at the time when the new class 4 venue licence takes effect is the same as the maximum number of gaming machines permitted to operate at the old venue immediately before the licence relating to the old venue is cancelled; and
     
-    *   (c) for the purposes of this Act,--- 
+    *   (c) for the purposes of this Act,---
             
         *   (i) if the old venue was a venue to which [section 92][120] applied, the new venue must be treated as a venue to which section 92 applies; and
         
@@ -7249,11 +7249,17 @@ Institutions
 
 ##### 286 Bank accounts
     
-*   (1) For the purposes of this subpart and subpart 2, the Secretary may open at any bank 1 or more accounts under the names that the Secretary thinks fit.
+*   (1) For the purposes of this subpart and [subpart 2][287], the Secretary may open at any bank 1 or more accounts under the names that the Secretary thinks fit.
     
-    (2) The accounts may be operated only by cheque signed by any 2 officers of the Department who are authorised by the Secretary for the purpose.
+    (2) The accounts may be operated by any 2 officers of the Department who are authorised by the Secretary for the purpose.
+    
+    (3) Cash may not be withdrawn from an account referred to in subsections (1) and (2).
     
     Compare: 1977 No 84 s 116U
+    
+    Section 286(2): amended, on 5 December 2013, by [section 4(1)][552] of the Gambling Amendment Act 2013 (2013 No 118).
+    
+    Section 286(3): inserted, on 5 December 2013, by [section 4(2)][552] of the Gambling Amendment Act 2013 (2013 No 118).
 
 ##### 287 Investment of money
     
@@ -7309,7 +7315,7 @@ Institutions
 
 ##### 291 Crown entity
     
-*   The Board is is, for the purposes of [subpart 2][552] of Part 5 of the Public Finance Act 1989, an organisation named or described in [Schedule 4][553] of that Act.
+*   The Board is is, for the purposes of [subpart 2][553] of Part 5 of the Public Finance Act 1989, an organisation named or described in [Schedule 4][554] of that Act.
     
     Compare: 1977 No 84 s 116YA
     
@@ -7329,7 +7335,7 @@ Institutions
     
 *   (1) If the Minister so directs, there may be paid out of the undistributed profits of New Zealand lotteries to any appointed member of the Board, and to any member of a distribution committee or subcommittee, any remuneration by way of fees or allowances that may be approved by the Minister.
     
-    (2) The Board and each distribution committee and subcommittee are statutory Boards within the meaning of the [Fees and Travelling Allowances Act 1951][554], and travelling allowances or expenses in accordance with the provisions of that Act are to be paid out of the undistributed profits of New Zealand lotteries to members of the Board and members of the committees and subcommittees accordingly.
+    (2) The Board and each distribution committee and subcommittee are statutory Boards within the meaning of the [Fees and Travelling Allowances Act 1951][555], and travelling allowances or expenses in accordance with the provisions of that Act are to be paid out of the undistributed profits of New Zealand lotteries to members of the Board and members of the committees and subcommittees accordingly.
     
     Compare: 1977 No 84 s 116ZB
 
@@ -7367,7 +7373,7 @@ Institutions
     
 *   (1) As soon as practicable after the end of each financial year, the Board must deliver to the Minister a report on its operations and the operations of each distribution committee during that financial year.
     
-    (2) The Minister must present a copy of the report to the House of Representatives in accordance with [section 150(3)][555] of the Crown Entities Act 2004\.
+    (2) The Minister must present a copy of the report to the House of Representatives in accordance with [section 150(3)][556] of the Crown Entities Act 2004\.
     
     Compare: 1977 No 84 s 116Z
     
@@ -7389,7 +7395,7 @@ Institutions
     
     (3) The Authority must deliver to the Minister, before the date of dissolution, a report on its operations for the previous financial year and for the period until dissolution.
     
-    (4) The Minister must present a copy of that report to the House of Representatives in accordance with [section 44A][556] of the Public Finance Act 1989\.
+    (4) The Minister must present a copy of that report to the House of Representatives in accordance with [section 44A][557] of the Public Finance Act 1989\.
 
 ##### 298 Consequences of dissolution
     
@@ -7630,7 +7636,7 @@ Harm prevention and minimisation, enforcement, and other matters
     
     (3) The holder of a class 4 venue licence or casino operator's licence, or any person acting on behalf of the licence holder, need not give any reason for denying entry to a person or requiring a person to leave a venue.
     
-    (4) This section applies in addition to the [Trespass Act 1980][557] and any other relevant enactment.
+    (4) This section applies in addition to the [Trespass Act 1980][558] and any other relevant enactment.
     
     Compare: 1990 No 62 s 67
 
@@ -7798,7 +7804,7 @@ Harm prevention and minimisation, enforcement, and other matters
     
     *   (c) to specified gaming machines or classes of gaming machine.
     
-    Section 314(1)(ga): inserted, on 14 September 2013, by [section 13][558] of the Gambling (Gambling Harm Reduction) Amendment Act 2013 (2013 No 71).
+    Section 314(1)(ga): inserted, on 14 September 2013, by [section 13][559] of the Gambling (Gambling Harm Reduction) Amendment Act 2013 (2013 No 71).
 
 ##### 315 Regulations relating to admission to and exclusion from gambling area of class 4 venue and casino venue
     
@@ -7806,7 +7812,7 @@ Harm prevention and minimisation, enforcement, and other matters
     
     (2) The regulations may exclude from the gambling area of a class 4 venue or casino venue any specified class or classes of person, either absolutely or subject to any special conditions that may be specified in the regulations.
     
-    (3) Every person who enters, or remains in, the gambling area of a class 4 venue or casino venue in breach of any regulations made under this section must be treated as having committed an offence against [section 4][559] of the Trespass Act 1980 and is liable accordingly.
+    (3) Every person who enters, or remains in, the gambling area of a class 4 venue or casino venue in breach of any regulations made under this section must be treated as having committed an offence against [section 4][560] of the Trespass Act 1980 and is liable accordingly.
     
     Compare: 1990 No 62 s 68
 
@@ -7976,11 +7982,11 @@ Harm prevention and minimisation, enforcement, and other matters
         
     *   (a) _player expenditure_, in amount A,---
             
-        *   (i) for the New Zealand Racing Board, has the same meaning as betting profits in [section 4(2) and (3)][560] of the Gaming Duties Act 1971; and
+        *   (i) for the New Zealand Racing Board, has the same meaning as betting profits in [section 4(2) and (3)][561] of the Gaming Duties Act 1971; and
         
-        *   (ii) for a gaming machine operator (including the New Zealand Racing Board), has the same meaning as gaming machine profits in [section 12B][561] of the Gaming Duties Act 1971; and
+        *   (ii) for a gaming machine operator (including the New Zealand Racing Board), has the same meaning as gaming machine profits in [section 12B][562] of the Gaming Duties Act 1971; and
         
-        *   (iii) for a casino operator, has the same meaning as casino win in [section 12M][562] of the Gaming Duties Act 1971; and
+        *   (iii) for a casino operator, has the same meaning as casino win in [section 12M][563] of the Gaming Duties Act 1971; and
         
         *   (iv) for the Lotteries Commission, means turnover less prizes paid and payable:
         
@@ -8030,9 +8036,9 @@ Harm prevention and minimisation, enforcement, and other matters
         
     *   (a) the New Zealand Racing Board:
     
-    *   (b) a gaming machine operator, which (for this purpose) has the same meaning as in [section 12B][561] of the Gaming Duties Act 1971:
+    *   (b) a gaming machine operator, which (for this purpose) has the same meaning as in [section 12B][562] of the Gaming Duties Act 1971:
     
-    *   (c) a casino operator which (for this purpose) has the same meaning as in [section 12M][562] of the Gaming Duties Act 1971:
+    *   (c) a casino operator which (for this purpose) has the same meaning as in [section 12M][563] of the Gaming Duties Act 1971:
     
     *   (d) the Lotteries Commission.
     
@@ -8060,7 +8066,7 @@ Harm prevention and minimisation, enforcement, and other matters
     
 *   (1) The problem gambling levy is neither a tax nor a duty.
     
-    (2) The powers of collection, recovery, and enforcement in the [Gaming Duties Act 1971][563] and the [Tax Administration Act 1994][564] apply to the levy as if it were a duty.
+    (2) The powers of collection, recovery, and enforcement in the [Gaming Duties Act 1971][564] and the [Tax Administration Act 1994][565] apply to the levy as if it were a duty.
     
     (3) An amount of unpaid levy is recoverable in a court of competent jurisdiction as a debt due to the Crown.
 
@@ -8246,7 +8252,7 @@ Harm prevention and minimisation, enforcement, and other matters
     
     (2) A gambling inspector may exercise the power set out in subsection (1) only after he or she has given the person from whom the gambling equipment, device, or thing is proposed to be seized the opportunity to surrender the item to the inspector.
     
-    (3) The provisions of [Part 4][565] of the Search and Surveillance Act 2012 (except [subpart 3][566]) apply.
+    (3) The provisions of [Part 4][566] of the Search and Surveillance Act 2012 (except [subpart 3][567]) apply.
     
     (4) To avoid doubt, subsection (1) does not authorise a gambling inspector to search any person.
     
@@ -8254,9 +8260,9 @@ Harm prevention and minimisation, enforcement, and other matters
     
     Compare: 1990 No 62 s 87
     
-    Section 335(3): replaced, on 1 October 2012, by [section 254(2)][567] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 335(3): replaced, on 1 October 2012, by [section 254(2)][568] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 335(5): repealed, on 1 October 2012, by [section 254(3)][567] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 335(5): repealed, on 1 October 2012, by [section 254(3)][568] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 336 Power of gambling inspector to seize equipment in public place
     
@@ -8264,7 +8270,7 @@ Harm prevention and minimisation, enforcement, and other matters
     
     (2) A gambling inspector may exercise the power set out in subsection (1) only after he or she has given the person from whom the gambling equipment, device, or thing is proposed to be seized the opportunity to surrender the item to the inspector.
     
-    (3) The provisions of [Part 4][565] of the Search and Surveillance Act 2012 (except [subpart 3][566]) apply.
+    (3) The provisions of [Part 4][566] of the Search and Surveillance Act 2012 (except [subpart 3][567]) apply.
     
     (4) To avoid doubt, subsection (1) does not authorise a gambling inspector to search any person.
     
@@ -8276,15 +8282,15 @@ Harm prevention and minimisation, enforcement, and other matters
     
     *   (b) a crime involving dishonesty that involves or relates to gambling.
     
-    Section 336(3): replaced, on 1 October 2012, by [section 254(4)][567] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 336(3): replaced, on 1 October 2012, by [section 254(4)][568] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 336(5): repealed, on 1 October 2012, by [section 254(5)][567] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 336(5): repealed, on 1 October 2012, by [section 254(5)][568] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 337 Return of equipment seized under section 335 or section 336
     
 *   \[Repealed\]
     
-    Section 337: repealed, on 1 October 2012, by [section 254(6)][567] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 337: repealed, on 1 October 2012, by [section 254(6)][568] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 338 Other powers of gambling inspectors
     
@@ -8314,7 +8320,7 @@ Harm prevention and minimisation, enforcement, and other matters
     
 *   (1) A gambling inspector or constable may apply for a search warrant to search a place or thing.
     
-    (2) An application must be made in the manner provided in [subpart 3][566] of Part 4 of the Search and Surveillance Act 2012 to an issuing officer (within the meaning of [section 3][568] of that Act).
+    (2) An application must be made in the manner provided in [subpart 3][567] of Part 4 of the Search and Surveillance Act 2012 to an issuing officer (within the meaning of [section 3][569] of that Act).
     
     (3) The issuing officer may issue a search warrant to a gambling inspector or a constable if there are reasonable grounds for believing that---
         
@@ -8322,9 +8328,9 @@ Harm prevention and minimisation, enforcement, and other matters
     
     *   (b) there is in, on, over, or under the place or thing, any thing that is evidence of an offence.
     
-    (3A) Subject to subsection (3B), the provisions of [Part 4][565] of the Search and Surveillance Act 2012 apply.
+    (3A) Subject to subsection (3B), the provisions of [Part 4][566] of the Search and Surveillance Act 2012 apply.
     
-    (3B) Despite subsection (3A), [sections 118][569] and [119][570] of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or every constable.
+    (3B) Despite subsection (3A), [sections 118][570] and [119][571] of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or every constable.
     
     (4) In this section and [section 344][418], _offence_ means---
         
@@ -8336,35 +8342,35 @@ Harm prevention and minimisation, enforcement, and other matters
     
     Section 340(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][521] of the Policing Act 2008 (2008 No 72).
     
-    Section 340(2): replaced, on 1 October 2012, by [section 254(7)][567] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 340(2): replaced, on 1 October 2012, by [section 254(7)][568] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 340(3): amended, on 1 October 2012, by [section 254(8)][567] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 340(3): amended, on 1 October 2012, by [section 254(8)][568] of the Search and Surveillance Act 2012 (2012 No 24).
     
     Section 340(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][521] of the Policing Act 2008 (2008 No 72).
     
-    Section 340(3A): inserted, on 1 October 2012, by [section 254(9)][567] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 340(3A): inserted, on 1 October 2012, by [section 254(9)][568] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 340(3B): inserted, on 1 October 2012, by [section 254(9)][567] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 340(3B): inserted, on 1 October 2012, by [section 254(9)][568] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 340(4): amended, on 1 October 2012, by [section 254(10)][567] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 340(4): amended, on 1 October 2012, by [section 254(10)][568] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 341 Form and content of search warrant
     
 *   \[Repealed\]
     
-    Section 341: repealed, on 1 October 2012, by [section 254(11)][567] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 341: repealed, on 1 October 2012, by [section 254(11)][568] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 342 Powers conferred by search warrant
     
 *   \[Repealed\]
     
-    Section 342: repealed, on 1 October 2012, by [section 254(11)][567] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 342: repealed, on 1 October 2012, by [section 254(11)][568] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 343 Requirements when executing search warrant
     
 *   \[Repealed\]
     
-    Section 343: repealed, on 1 October 2012, by [section 254(11)][567] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 343: repealed, on 1 October 2012, by [section 254(11)][568] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 344 Police may arrest persons found at place
     
@@ -8378,7 +8384,7 @@ Harm prevention and minimisation, enforcement, and other matters
     
 *   \[Repealed\]
     
-    Section 345: repealed, on 1 October 2012, by [section 254(11)][567] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 345: repealed, on 1 October 2012, by [section 254(11)][568] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Other matters
 
@@ -8426,7 +8432,7 @@ Harm prevention and minimisation, enforcement, and other matters
         
     *   (a) in the case of a person specified in subsection (2)(a) or (b), commits an offence and is liable on conviction to a fine not exceeding $5,000; and
     
-    *   (b) in the case of a person specified in subsection (2)(c) or (d), must be treated as having breached the code of conduct (if any) issued under [section 57][571] of the State Sector Act 1988\.
+    *   (b) in the case of a person specified in subsection (2)(c) or (d), must be treated as having breached the code of conduct (if any) issued under [section 57][572] of the State Sector Act 1988\.
     
     Section 347(3)(a): amended, on 1 July 2013, by [section 413][493] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -8528,7 +8534,7 @@ Harm prevention and minimisation, enforcement, and other matters
 
 ##### 355 Proceedings for offences
     
-*   (1) Despite anything to the contrary in [section 25][572] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 2 years after the date on which the offence was committed.
+*   (1) Despite anything to the contrary in [section 25][573] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 2 years after the date on which the offence was committed.
     
     (2) Only a gambling inspector or a constable may file a charging document for an offence against this Act.
     
@@ -8540,11 +8546,11 @@ Harm prevention and minimisation, enforcement, and other matters
     
 *   (1) If a person is alleged to have committed an infringement offence, the person may either---
         
-    *   (a) be proceeded against by filing a charging document under [section 14][573] of the Criminal Procedure Act 2011; or
+    *   (a) be proceeded against by filing a charging document under [section 14][574] of the Criminal Procedure Act 2011; or
     
     *   (b) be served with an infringement notice as provided in [section 357][436].
     
-    (2) Despite [section 21][574] of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if proceedings for an infringement offence are commenced by filing a charging document under the [Criminal Procedure Act 2011][575].
+    (2) Despite [section 21][575] of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if proceedings for an infringement offence are commenced by filing a charging document under the [Criminal Procedure Act 2011][576].
     
     Section 356: replaced, on 1 July 2013, by [section 413][493] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -8570,7 +8576,7 @@ Harm prevention and minimisation, enforcement, and other matters
     
     *   (d) the time by which the infringement fee must be paid; and
     
-    *   (e) a summary of the provisions of [section 21(10)][574] of the Summary Proceedings Act 1957; and
+    *   (e) a summary of the provisions of [section 21(10)][575] of the Summary Proceedings Act 1957; and
     
     *   (f) a statement of the right of the person served with the notice to request a court hearing; and
     
@@ -8592,15 +8598,15 @@ Harm prevention and minimisation, enforcement, and other matters
     
     (3) If a form of reminder notice is prescribed under this Act, it must contain the information set out in [section 357(4)][436].
     
-    Section 358: substituted, on 9 October 2006, by [section 34][576] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 358: substituted, on 9 October 2006, by [section 34][577] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
 
 ##### 359 Infringement fees
     
 *   (1) The infringement fee payable for an infringement offence is the fee prescribed for the offence by [Schedule 6][464] or by regulations made under [section 360][439].
     
-    (2) All infringement fees received by the Secretary under this Act or recovered under the [Summary Proceedings Act 1957][577] must be paid into a Crown Bank Account.
+    (2) All infringement fees received by the Secretary under this Act or recovered under the [Summary Proceedings Act 1957][578] must be paid into a Crown Bank Account.
     
-    Section 359(2): amended, on 25 January 2005, pursuant to [section 65R(3)][578] of the Public Finance Act 1989 (1989 No 44).
+    Section 359(2): amended, on 25 January 2005, pursuant to [section 65R(3)][579] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 360 Regulations relating to infringement offences
     
@@ -8618,7 +8624,7 @@ Harm prevention and minimisation, enforcement, and other matters
     
     *   (c) prescribing the forms that must be used for issuing an infringement notice.
     
-    Section 360(b): amended, on 15 December 2005, by [section 10][579] of the Gambling Amendment Act (No 2) 2005 (2005 No 104).
+    Section 360(b): amended, on 15 December 2005, by [section 10][580] of the Gambling Amendment Act (No 2) 2005 (2005 No 104).
 
 #### Evidence
 
@@ -8660,7 +8666,7 @@ Harm prevention and minimisation, enforcement, and other matters
     
 *   (1) If a person is convicted of an offence against this Act, the court may, in addition to any other penalty that may be imposed, order that any equipment, thing, document, or money used in the commission of the offence be forfeited to the Crown.
     
-    (2) [Section 199(4) to (6)][580] of the Summary Proceedings Act 1957 applies with any necessary modifications to an order made under subsection (1).
+    (2) [Section 199(4) to (6)][581] of the Summary Proceedings Act 1957 applies with any necessary modifications to an order made under subsection (1).
     
     (3) Subject to subsection (2),---
         
@@ -8670,7 +8676,7 @@ Harm prevention and minimisation, enforcement, and other matters
     
     Compare: 1977 No 84 s 123; 1990 No 62 s 114
     
-    Section 363(3)(b): amended, on 25 January 2005, pursuant to [section 65R(3)][578] of the Public Finance Act 1989 (1989 No 44).
+    Section 363(3)(b): amended, on 25 January 2005, pursuant to [section 65R(3)][579] of the Public Finance Act 1989 (1989 No 44).
 
 ### Subpart 9---Other matters
 
@@ -8702,7 +8708,7 @@ Harm prevention and minimisation, enforcement, and other matters
     
     *   (d) the issuing of an infringement notice under [section 357][436]; or
     
-    *   (e) notification of a public meeting under [clause 2(4)][581] of Schedule 3\.
+    *   (e) notification of a public meeting under [clause 2(4)][582] of Schedule 3\.
     
     
 
@@ -8752,9 +8758,9 @@ Harm prevention and minimisation, enforcement, and other matters
     
     (7) A rule, amendment, or revocation made under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][494] and must be presented to the House of Representatives under [section 41][495] of that Act.
     
-    Section 367(1)(a): amended, on 15 December 2005, by [section 11][582] of the Gambling Amendment Act (No 2) 2005 (2005 No 104).
+    Section 367(1)(a): amended, on 15 December 2005, by [section 11][583] of the Gambling Amendment Act (No 2) 2005 (2005 No 104).
     
-    Section 367(1)(b): amended, on 15 December 2005, by [section 11][582] of the Gambling Amendment Act (No 2) 2005 (2005 No 104).
+    Section 367(1)(b): amended, on 15 December 2005, by [section 11][583] of the Gambling Amendment Act (No 2) 2005 (2005 No 104).
     
     Section 367(7): replaced, on 5 August 2013, by [section 77(3)][496] of the Legislation Act 2012 (2012 No 119).
 
@@ -8784,7 +8790,7 @@ Harm prevention and minimisation, enforcement, and other matters
     
     *   (d) prescribing the form of a warrant of appointment of a gambling inspector under [section 331][404].
     
-    Section 369(d): amended, on 1 October 2012, by [section 254(12)][567] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 369(d): amended, on 1 October 2012, by [section 254(12)][568] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 370 Regulations relating to fees
     
@@ -9221,11 +9227,11 @@ Key provisions about governance and operation of Lotteries Commission
     
 *   (1) The Lotteries Commission must not delegate---
         
-    *   (a) any power to borrow money that it may have under [section 160][583] or [section 162][584] of the Crown Entities Act 2004; or
+    *   (a) any power to borrow money that it may have under [section 160][584] or [section 162][585] of the Crown Entities Act 2004; or
     
     *   (b) the power to make, alter, or rescind rules conferred by [section 243][297].
     
-    (2) This clause applies despite [section 73][585] of the Crown Entities Act 2004\.
+    (2) This clause applies despite [section 73][586] of the Crown Entities Act 2004\.
     
     Schedule 4 clause 21: substituted, on 25 January 2005, by [section 200][537] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -9418,7 +9424,7 @@ Board members, committees, and employees
     
 *   (1) \[Repealed\]
     
-    (2) Despite anything in this Act, a person who, immediately before becoming an employee of the Lotteries Commission, is a contributor to the Government Superannuation Fund under [Part 2][586] or [Part 2A][587] of the Government Superannuation Fund Act 1956 is to be treated for the purposes of that Act as being employed in the Government service so long as he or she continues to be an employee of the Commission, and---
+    (2) Despite anything in this Act, a person who, immediately before becoming an employee of the Lotteries Commission, is a contributor to the Government Superannuation Fund under [Part 2][587] or [Part 2A][588] of the Government Superannuation Fund Act 1956 is to be treated for the purposes of that Act as being employed in the Government service so long as he or she continues to be an employee of the Commission, and---
         
     *   (a) that Act applies to the person in all respects as if service as that employee were Government service; and
     
@@ -9445,7 +9451,7 @@ Administration
     
 *   (1) The validity or enforceability of any deed, agreement, right, or obligation entered into, conferred on, or incurred by the Lotteries Commission is not affected by a failure of the Crown or the Minister to comply with any provision of this Act.
     
-    (2) This clause does not limit [sections 19][588] and [20][589] of the Crown Entities Act 2004\.
+    (2) This clause does not limit [sections 19][589] and [20][590] of the Crown Entities Act 2004\.
     
     Schedule 4 clause 49(1): amended, on 25 January 2005, by [section 200][537] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -9526,7 +9532,7 @@ New Zealand Lottery Grants Board
     
 *   (1) A member of the Board appointed under [section 272(2)(d)][331] is to be appointed for a term not exceeding 3 years, as specified by the Governor-General in the member's instrument of appointment, and may be reappointed.
     
-    (2) Unless sooner vacating office under [clause 2][590], a member continues in office until his or her successor is appointed, despite the expiry of the term of the member's appointment.
+    (2) Unless sooner vacating office under [clause 2][591], a member continues in office until his or her successor is appointed, despite the expiry of the term of the member's appointment.
     
     Compare: 1977 No 84 s 116B
 
@@ -9589,7 +9595,7 @@ Distribution committees
     
 *   (1) A member of a distribution committee is to be appointed for a term not exceeding 3 years, as specified by the Minister in the member's instrument of appointment, and may be reappointed.
     
-    (2) Unless sooner vacating office under [clause 7][591], a member continues in office until his or her successor is appointed, despite the expiry of the term of the member's appointment.
+    (2) Unless sooner vacating office under [clause 7][592], a member continues in office until his or her successor is appointed, despite the expiry of the term of the member's appointment.
     
     Compare: 1977 No 84 s 116L
 
@@ -9744,23 +9750,23 @@ Amendments to other Acts
 
 ##### Arts Council of New Zealand Toi Aotearoa Act 1994 (1994 No 19)
 
-_Amendment(s) incorporated in the [Act(s)][592]_.
+_Amendment(s) incorporated in the [Act(s)][593]_.
 
 ##### Boxing and Wrestling Act 1981 (1981 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][593]_.
+_Amendment(s) incorporated in the [Act(s)][594]_.
 
 ##### Building Societies Act 1965 (1965 No 22)
 
-_Amendment(s) incorporated in the [Act(s)][594]_.
+_Amendment(s) incorporated in the [Act(s)][595]_.
 
 ##### Conservation Act 1987 (1987 No 65)
 
-_Amendment(s) incorporated in the [Act(s)][595]_.
+_Amendment(s) incorporated in the [Act(s)][596]_.
 
 ##### Countrywide Banking Corporation Limited Act 1994 (1994 No 1 (P))
 
-_Amendment(s) incorporated in the [Act(s)][596]_.
+_Amendment(s) incorporated in the [Act(s)][597]_.
 
 ##### Finance Act (No 2) 1990 (1990 No 73)
 
@@ -9768,23 +9774,23 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Financial Transactions Reporting Act 1996 (1996 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][597]_.
+_Amendment(s) incorporated in the [Act(s)][598]_.
 
 ##### Fisheries Act 1996 (1996 No 88)
 
-_Amendment(s) incorporated in the [Act(s)][598]_.
+_Amendment(s) incorporated in the [Act(s)][599]_.
 
 ##### Flags, Emblems, and Names Protection Act 1981 (1981 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][599]_.
+_Amendment(s) incorporated in the [Act(s)][600]_.
 
 ##### Gaming Duties Act 1971 (1971 No 34)
 
-_Amendment(s) incorporated in the [Act(s)][600]_.
+_Amendment(s) incorporated in the [Act(s)][601]_.
 
 ##### Goods and Services Tax Act 1985 (1985 No 141)
 
-_Amendment(s) incorporated in the [Act(s)][601]_.
+_Amendment(s) incorporated in the [Act(s)][602]_.
 
 ##### Income Tax Act 1994 (1994 No 164)
 
@@ -9792,47 +9798,47 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Insurance Law Reform Act 1985 (1985 No 117)
 
-_Amendment(s) incorporated in the [Act(s)][602]_.
+_Amendment(s) incorporated in the [Act(s)][603]_.
 
 ##### New Zealand Film Commission Act 1978 (1978 No 61)
 
-_Amendment(s) incorporated in the [Act(s)][603]_.
+_Amendment(s) incorporated in the [Act(s)][604]_.
 
 ##### Ombudsmen Act 1975 (1975 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][604]_.
+_Amendment(s) incorporated in the [Act(s)][605]_.
 
 ##### Post Office Bank Act 1987 (1987 No 114)
 
-_Amendment(s) incorporated in the [Act(s)][605]_.
+_Amendment(s) incorporated in the [Act(s)][606]_.
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][606]_.
+_Amendment(s) incorporated in the [Act(s)][607]_.
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][553]_.
+_Amendment(s) incorporated in the [Act(s)][554]_.
 
 ##### Securities Markets Act 1988 (1988 No 234)
 
-_Amendment(s) incorporated in the [Act(s)][607]_.
+_Amendment(s) incorporated in the [Act(s)][608]_.
 
 ##### Smoke-free Environments Act 1990 (1990 No 108)
 
-_Amendment(s) incorporated in the [Act(s)][608]_.
+_Amendment(s) incorporated in the [Act(s)][609]_.
 
 ##### Sport and Recreation New Zealand Act 2002 (2002 No 38)
 
-_Amendment(s) incorporated in the [Act(s)][609]_.
+_Amendment(s) incorporated in the [Act(s)][610]_.
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][610]_.
+_Amendment(s) incorporated in the [Act(s)][611]_.
 
 ##### Tax Administration Act 1994 (1994 No 166)
 
-Insert, after [section 81(4)(e)][611]:
+Insert, after [section 81(4)(e)][612]:
 
 > *   "(ea) communicating to any officer, being an employee of the Department of Internal Affairs, any information, being information---
 >         
@@ -9844,11 +9850,11 @@ Insert, after [section 81(4)(e)][611]:
 > 
 > 
 
-Insert in [section 87(5)(a)(i)][612], after the expression ""(e),"", the expression ""(ea),"".
+Insert in [section 87(5)(a)(i)][613], after the expression ""(e),"", the expression ""(ea),"".
 
 ##### Trans-Tasman Mutual Recognition Act 1997 (1997 No 60)
 
-_Amendment(s) incorporated in the [Act(s)][613]_.
+_Amendment(s) incorporated in the [Act(s)][614]_.
 
 #### 
 
@@ -9862,21 +9868,23 @@ _Amendment(s) incorporated in the [Act(s)][613]_.
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][614] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][615] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][615] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][616] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][616] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][617] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][617] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][618] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Gambling (Gambling Harm Reduction) Amendment Act 2013][508] (2013 No 71)
+*   [Gambling Amendment Act 2013][619] (2013 No 118)
+    
+    [Gambling (Gambling Harm Reduction) Amendment Act 2013][508] (2013 No 71)
     
     Crown Entities Amendment Act 2013 (2013 No 51): [section 42][541]
     
     Legislation Act 2012 (2012 No 119): [section 77(3)][496]
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 254][567]
+    Search and Surveillance Act 2012 (2012 No 24): [section 254][568]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][493]
     
@@ -9886,17 +9894,17 @@ _Amendment(s) incorporated in the [Act(s)][613]_.
     
     Policing Act 2008 (2008 No 72): [section 116(a)(ii)][521]
     
-    Summary Proceedings Amendment Act 2006 (2006 No 13): [section 34][576]
+    Summary Proceedings Amendment Act 2006 (2006 No 13): [section 34][577]
     
     Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][529]
     
     Gambling (Class 4 Banking) Regulations 2006 (SR 2006/40): [regulation 4][511]
     
-    [Gambling Amendment Act (No 2) 2005][618] (2005 No 104)
+    [Gambling Amendment Act (No 2) 2005][620] (2005 No 104)
     
     Public Records Act 2005 (2005 No 40): [section 67(1)][536]
     
-    [Gambling Amendment Act 2005][619] (2005 No 35)
+    [Gambling Amendment Act 2005][621] (2005 No 35)
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][489]
     
@@ -9904,9 +9912,9 @@ _Amendment(s) incorporated in the [Act(s)][613]_.
     
     Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][547]
     
-    [Gambling Act Commencement Order 2003][620] (SR 2003/384)
+    [Gambling Act Commencement Order 2003][622] (SR 2003/384)
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][578]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][579]
 
 
 
@@ -10462,72 +10470,74 @@ _Amendment(s) incorporated in the [Act(s)][613]_.
 [549]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM22639
 [550]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM157116
 [551]: http://www.legislation.govt.nz/act/public/2003/0051/latest/whole.html#DLM211287
-[552]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM162719
-[553]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM163544
-[554]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM264952
-[555]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM330552
-[556]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM162472
-[557]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM36926
-[558]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM5282214
-[559]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM36944
-[560]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM398784
-[561]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM399031
-[562]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM399201
-[563]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM398477
-[564]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM348342
-[565]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM2136770
-[566]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM2136781
-[567]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM2136991
-[568]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM2136542
-[569]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM2136813
-[570]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM2136815
-[571]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM129724
-[572]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM3360067
-[573]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM3360057
-[574]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM311346
-[575]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM3359902
-[576]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM372297
-[577]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM310742
-[578]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM162942
-[579]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM361759
-[580]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM314018
-[581]: http://www.legislation.govt.nz/act/public/2003/0051/latest/whole.html#DLM210743
-[582]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM361760
-[583]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM330565
-[584]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM330567
-[585]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM330308
-[586]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM446395
-[587]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM446842
-[588]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM329934
-[589]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM329935
-[590]: http://www.legislation.govt.nz/act/public/2003/0051/latest/whole.html#DLM211283
-[591]: http://www.legislation.govt.nz/act/public/2003/0051/latest/whole.html#DLM211289
-[592]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM330697
-[593]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM44857
-[594]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM371639
-[595]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM103616
-[596]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM116470
-[597]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM373810
-[598]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM394199
-[599]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM52294
-[600]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM398486
-[601]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM81877
-[602]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM75990
-[603]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM23024
-[604]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM431296
-[605]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM118781
-[606]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM298477
-[607]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM141799
-[608]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM223196
-[609]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM157647
-[610]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM310749
-[611]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM352409
-[612]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM353116
-[613]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM411389
-[614]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM2998516
-[615]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM2998515
-[616]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM2998532
-[617]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[618]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM361745
-[619]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM341216
-[620]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM235757
+[552]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM5622307
+[553]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM162719
+[554]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM163544
+[555]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM264952
+[556]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM330552
+[557]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM162472
+[558]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM36926
+[559]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM5282214
+[560]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM36944
+[561]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM398784
+[562]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM399031
+[563]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM399201
+[564]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM398477
+[565]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM348342
+[566]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM2136770
+[567]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM2136781
+[568]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM2136991
+[569]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM2136542
+[570]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM2136813
+[571]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM2136815
+[572]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM129724
+[573]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM3360067
+[574]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM3360057
+[575]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM311346
+[576]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM3359902
+[577]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM372297
+[578]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM310742
+[579]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM162942
+[580]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM361759
+[581]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM314018
+[582]: http://www.legislation.govt.nz/act/public/2003/0051/latest/whole.html#DLM210743
+[583]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM361760
+[584]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM330565
+[585]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM330567
+[586]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM330308
+[587]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM446395
+[588]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM446842
+[589]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM329934
+[590]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM329935
+[591]: http://www.legislation.govt.nz/act/public/2003/0051/latest/whole.html#DLM211283
+[592]: http://www.legislation.govt.nz/act/public/2003/0051/latest/whole.html#DLM211289
+[593]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM330697
+[594]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM44857
+[595]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM371639
+[596]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM103616
+[597]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM116470
+[598]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM373810
+[599]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM394199
+[600]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM52294
+[601]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM398486
+[602]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM81877
+[603]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM75990
+[604]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM23024
+[605]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM431296
+[606]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM118781
+[607]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM298477
+[608]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM141799
+[609]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM223196
+[610]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM157647
+[611]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM310749
+[612]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM352409
+[613]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM353116
+[614]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM411389
+[615]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM2998516
+[616]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM2998515
+[617]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM2998532
+[618]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[619]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM5622300
+[620]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM361745
+[621]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM341216
+[622]: http://www.legislation.govt.nz/act/public/2003/0051/latest/link.aspx?id=DLM235757
