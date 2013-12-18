@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Department of Internal Affairs.
 
@@ -5147,7 +5147,9 @@ Offences
             
         *   (i) [Part 5][188]; or
         
-        *   (ii) this Part; or
+        *   (ii) [Part 5A][220]; or
+        
+        *   (iii) this Part; or
         
         
     
@@ -5164,6 +5166,10 @@ Offences
     (4) Despite subsection (2), an electoral officer is not required to report the failure by a candidate to file a return under [section 112A][214] if the candidate files the return promptly after being required to do so by the electoral officer.
     
     Section 138: replaced, on 29 June 2013, by [section 41][448] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    
+    Section 138(1)(a)(ii): replaced, on 5 December 2013, by [section 4][449] of the Local Electoral Amendment Act (No 2) 2013 (2013 No 123).
+    
+    Section 138(1)(a)(iii): inserted, on 5 December 2013, by [section 4][449] of the Local Electoral Amendment Act (No 2) 2013 (2013 No 123).
 
 ##### 138AA Time limit for prosecutions
     
@@ -5194,7 +5200,7 @@ Miscellaneous provisions
     
     Compare: 1976 No 144 s 50(1)
     
-    Section 138A: inserted, on 25 December 2002, by [section 44][449] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 138A: inserted, on 25 December 2002, by [section 44][450] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 139 Regulations
     
@@ -5238,7 +5244,7 @@ Miscellaneous provisions
     
     Section 139(1)(ha): inserted, on 1 November 2010, by [section 113(1)][423] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 139(1)(la): inserted, on 25 December 2002, by [section 45][450] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 139(1)(la): inserted, on 25 December 2002, by [section 45][451] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 140 Powers and duties of electoral officers
     
@@ -5268,9 +5274,9 @@ Miscellaneous provisions
     
     *   (e) imposing conditions or restrictions in relation to the use of any such counting program or other computer program for the purposes of an election or poll under this Act.
     
-    Section 140A: inserted, on 25 December 2002, by [section 46][451] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 140A: inserted, on 25 December 2002, by [section 46][452] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 140A(ab): inserted, on 7 July 2004, by [section 16][452] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    Section 140A(ab): inserted, on 7 July 2004, by [section 16][453] of the Local Electoral Amendment Act 2004 (2004 No 62).
 
 ##### 141 Voting methods
     
@@ -5360,13 +5366,13 @@ Miscellaneous provisions
     
     *   (e) different classes of elections and polls.
     
-    Section 143(1)(b)(x): amended, on 7 July 2004, by [section 17][453] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    Section 143(1)(b)(x): amended, on 7 July 2004, by [section 17][454] of the Local Electoral Amendment Act 2004 (2004 No 62).
 
 ##### 144 Transitional regulations
     
 *   \[Repealed\]
     
-    Section 144: repealed, on 1 July 2002, by [section 145][454].
+    Section 144: repealed, on 1 July 2002, by [section 145][455].
 
 ##### 145 Expiry of section 144
     
@@ -5416,17 +5422,17 @@ Miscellaneous provisions
     
     *   (d) to make such other provision for the case as he or she thinks fit.
     
-    Compare: 1976 No 144 s 122; 1997 No 53 [s 63][455]
+    Compare: 1976 No 144 s 122; 1997 No 53 [s 63][456]
 
 ##### 149 Amendments to section 101ZQ of Local Government Act 1974
     
 *   \[Repealed\]
     
-    Section 149: repealed, on 25 December 2002, by [section 53(c)][456] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 149: repealed, on 25 December 2002, by [section 53(c)][457] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 150 Amendment to Schedule 2 of New Zealand Public Health and Disability Act 2000
     
-*   _Amendment(s) incorporated in the [Act(s)][457]._
+*   _Amendment(s) incorporated in the [Act(s)][458]._
 
 ##### 151 Amendments to other enactments
     
@@ -5434,15 +5440,15 @@ Miscellaneous provisions
 
 ##### 152 Repeals and revocations
     
-*   (1) The enactments set out in [Part 1][458] of Schedule 4 are repealed.
+*   (1) The enactments set out in [Part 1][459] of Schedule 4 are repealed.
     
-    (2) The regulations set out in [Part 2][459] of Schedule 4 are revoked.
+    (2) The regulations set out in [Part 2][460] of Schedule 4 are revoked.
 
 ##### 153 Transitional provisions relating to electoral systems
     
 *   [Sections 27 to 35][84] (which relate to electoral systems for elections and polls) do not apply to the triennial general election to be held on 13 October 2001 or to any poll taken in conjunction with that election, and that election (and any poll taken in conjunction with that election), and any election to fill an extraordinary vacancy held before the triennial general election in October 2004, must be conducted using the First Past the Post electoral system.
     
-    Section 153: amended, on 25 December 2002, by [section 47][460] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 153: amended, on 25 December 2002, by [section 47][461] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 154 Transitional provisions relating to returning officers
     
@@ -5517,7 +5523,7 @@ New Zealand method of counting single transferable votes
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 7 July 2004, by [section 18][461] of the Local Electoral Amendment Act 2004 (2004 No 62).
+*   Schedule 1: repealed, on 7 July 2004, by [section 18][462] of the Local Electoral Amendment Act 2004 (2004 No 62).
 
 ---
 
@@ -5526,7 +5532,7 @@ Provisions relating to Māori wards and Māori constituencies
 
 [s 19ZH][65]
 
-*   Schedule 1A: inserted, on 25 December 2002, by [section 49][462] of the Local Electoral Amendment Act 2002 (2002 No 85).
+*   Schedule 1A: inserted, on 25 December 2002, by [section 49][463] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 1 Review of representation arrangements for election of territorial authority
     
@@ -5556,9 +5562,9 @@ Provisions relating to Māori wards and Māori constituencies
     
     (3) This clause does not limit [section 19B(1)][30].
     
-    Compare: 2001 No 1 (L) [s 5][463]
+    Compare: 2001 No 1 (L) [s 5][464]
     
-    Schedule 1A clause 1(2)(b)(ii): amended, on 29 June 2013, by [section 42][464] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Schedule 1A clause 1(2)(b)(ii): amended, on 29 June 2013, by [section 42][465] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 2 Calculation of number of Māori and general ward members
     
@@ -5576,7 +5582,7 @@ Provisions relating to Māori wards and Māori constituencies
     
     *   nm is the proposed number of members of the territorial authority (other than the mayor).
     
-    (2) If a determination is made under [clause 1(2)(b)(ii)][465], the definition of nm in the formula must be applied as if for the words ""proposed number of members of the territorial authority (other than the mayor)"" there were substituted the words ""proposed number of members of the territorial authority (other than the mayor and the members to be elected by electors of the district as a whole)"".
+    (2) If a determination is made under [clause 1(2)(b)(ii)][466], the definition of nm in the formula must be applied as if for the words ""proposed number of members of the territorial authority (other than the mayor)"" there were substituted the words ""proposed number of members of the territorial authority (other than the mayor and the members to be elected by electors of the district as a whole)"".
     
     (3) If the number of the Māori ward members (other than the mayor) calculated under subclause (1) includes a fraction, the fraction must be disregarded unless it exceeds a half. If the fraction exceeds a half, the number of Māori ward members must be the next whole number above the number that includes the fraction.
     
@@ -5586,11 +5592,11 @@ Provisions relating to Māori wards and Māori constituencies
         
     *   (a) the district must not be divided into 1 or more Māori wards and 1 or more general wards:
     
-    *   (b) the provisions of [clauses 1][465], [5][466], and [6][467] of this schedule must not be applied for the purposes of any determination under [section 19H][36] or [section 19R][48].
+    *   (b) the provisions of [clauses 1][466], [5][467], and [6][468] of this schedule must not be applied for the purposes of any determination under [section 19H][36] or [section 19R][48].
     
-    Compare: 2001 No 1 (L) [s 6][468]
+    Compare: 2001 No 1 (L) [s 6][469]
     
-    Schedule 1A clause 2(5): amended, on 28 June 2006, by [section 5(1)][469] of the Local Electoral Amendment Act 2006 (2006 No 25).
+    Schedule 1A clause 2(5): amended, on 28 June 2006, by [section 5(1)][470] of the Local Electoral Amendment Act 2006 (2006 No 25).
 
 ##### 3 Review of representation arrangements for election of regional council
     
@@ -5610,7 +5616,7 @@ Provisions relating to Māori wards and Māori constituencies
     
     *   (f) the number of members proposed to be elected by the electors of each general constituency.
     
-    Compare: 2001 No 1 (L) [s 5][463]
+    Compare: 2001 No 1 (L) [s 5][464]
 
 ##### 4 Calculation of number of Māori and general constituency members
     
@@ -5636,11 +5642,11 @@ Provisions relating to Māori wards and Māori constituencies
         
     *   (a) the region must not be divided into 1 or more Māori constituencies and 1 or more general constituencies:
     
-    *   (b) the provisions of [clauses 3][470], [5][466], and [6][467] of this schedule must not be applied for the purposes of any determination under [section 19I][37] or [section 19R][48].
+    *   (b) the provisions of [clauses 3][471], [5][467], and [6][468] of this schedule must not be applied for the purposes of any determination under [section 19I][37] or [section 19R][48].
     
-    Compare: 2001 No 1 (L) [s 6][468]
+    Compare: 2001 No 1 (L) [s 6][469]
     
-    Schedule 1A clause 4(4): amended, on 28 June 2006, by [section 5(2)][469] of the Local Electoral Amendment Act 2006 (2006 No 25).
+    Schedule 1A clause 4(4): amended, on 28 June 2006, by [section 5(2)][470] of the Local Electoral Amendment Act 2006 (2006 No 25).
 
 ##### 5 Relationship with other provisions
     
@@ -5650,11 +5656,11 @@ Provisions relating to Māori wards and Māori constituencies
     
     *   (b) in the case of a regional council, consistent with the result of the calculations required by [clause 4][336].
     
-    (2) If it is proposed to alter the proposed number of members of a territorial authority or regional council at any time after that number is first determined in accordance with [clause 1][465] or [clause 3][470], the territorial authority or regional council or, as the case may require, the Commission must again make, in accordance with the method of calculation specified in [clause 2][335] or the method of calculation specified in [clause 4][336], as the case may require, the determinations required by clause 1 or clause 3\.
+    (2) If it is proposed to alter the proposed number of members of a territorial authority or regional council at any time after that number is first determined in accordance with [clause 1][466] or [clause 3][471], the territorial authority or regional council or, as the case may require, the Commission must again make, in accordance with the method of calculation specified in [clause 2][335] or the method of calculation specified in [clause 4][336], as the case may require, the determinations required by clause 1 or clause 3\.
     
     (3) Subclause (2) does not limit subclause (1).
     
-    Compare: 2001 No 1 (L) [s 7][471]
+    Compare: 2001 No 1 (L) [s 7][472]
 
 ##### 6 Supplementary provisions regarding wards, constituencies, and boundaries
     
@@ -5686,11 +5692,11 @@ Provisions relating to Māori wards and Māori constituencies
     
     *   (b) the general electoral population of the district or region.
     
-    (2) The numbers included in the certificate must be derived from information contained in the most recent report of the Government Statistician to the Surveyor-General and to the other members of the Representation Commission made under [section 35(6)][472] of the Electoral Act 1993\.
+    (2) The numbers included in the certificate must be derived from information contained in the most recent report of the Government Statistician to the Surveyor-General and to the other members of the Representation Commission made under [section 35(6)][473] of the Electoral Act 1993\.
     
     (3) A certificate issued under subclause (1) is conclusive evidence of the information contained in that certificate.
     
-    Compare: 2001 No 1 (L) [s 9][473]
+    Compare: 2001 No 1 (L) [s 9][474]
 
 ##### 8 This schedule to be read with Local Government Act 1974 or Local Government Act 2002 and other provisions of this Act
     
@@ -5698,7 +5704,7 @@ Provisions relating to Māori wards and Māori constituencies
     
     (2) However, if there is any inconsistency between the provisions of this schedule and any provisions of the [Local Government Act 1974][328] or the [Local Government Act 2002][329] or of this Act or of any regulations made under the Local Government Act 1974 or the Local Government Act 2002 or this Act, this schedule prevails.
     
-    Compare: 2001 No 1 (L) [s 4][474]
+    Compare: 2001 No 1 (L) [s 4][475]
 
 ---
 
@@ -5707,7 +5713,7 @@ Return of electoral donations and expenses
 
 [s 112A][214]
 
-*   Schedule 2: replaced, on 29 June 2013, by [section 43][475] of the Local Electoral Amendment Act 2013 (2013 No 40).
+*   Schedule 2: replaced, on 29 June 2013, by [section 43][476] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 #### 
 
@@ -5780,7 +5786,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Human Rights Act 1993 (1993 No 82)
 
-_Amendment(s) incorporated in the [Act(s)][476]_.
+_Amendment(s) incorporated in the [Act(s)][477]_.
 
 ##### Income Tax Act 1994 (1994 No 164)
 
@@ -5788,27 +5794,27 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Legal Services Act 2000 (2000 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][477]_.
+_Amendment(s) incorporated in the [Act(s)][478]_.
 
 ##### Local Government Act 1974 (1974 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][478]_.
+_Amendment(s) incorporated in the [Act(s)][479]_.
 
 ##### New Zealand Public Health and Disability Act 2000 (2000 No 91)
 
-_Amendment(s) incorporated in the [Act(s)][479]_.
+_Amendment(s) incorporated in the [Act(s)][480]_.
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][480]_.
+_Amendment(s) incorporated in the [Act(s)][481]_.
 
 ##### Public Works Act 1981 (1981 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][481]_.
+_Amendment(s) incorporated in the [Act(s)][482]_.
 
 ##### Sale of Liquor Act 1989 (1989 No 63)
 
-_Amendment(s) incorporated in the [Act(s)][482]_.
+_Amendment(s) incorporated in the [Act(s)][483]_.
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
@@ -5819,11 +5825,11 @@ Regulations amended
 
 ##### Electoral Regulations 1996 (SR 1996/93)
 
-_Amendment(s) incorporated in the [regulations][483]._
+_Amendment(s) incorporated in the [regulations][484]._
 
 ##### Sale of Liquor Regulations 1990 (SR 1990/61)
 
-_Amendment(s) incorporated in the [regulations][484]._
+_Amendment(s) incorporated in the [regulations][485]._
 
 ---
 
@@ -5837,25 +5843,25 @@ Enactments repealed
 
 ##### Health Reforms (Transitional Provisions) Act 1993 (1993 No 23)
 
-_Amendment(s) incorporated in the [Act(s)][485]._
+_Amendment(s) incorporated in the [Act(s)][486]._
 
 ##### Local Elections and Polls Act 1976 (1976 No 144)
 
 ##### Local Government Amendment Act 1991 (1991 No 49)
 
-_Amendment(s) incorporated in the [Act(s)][486]._
+_Amendment(s) incorporated in the [Act(s)][487]._
 
 ##### Local Government Amendment Act 1992 (1992 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][487]._
+_Amendment(s) incorporated in the [Act(s)][488]._
 
 ##### Local Government Amendment Act (No 3) 1996 (1996 No 83)
 
-_Amendment(s) incorporated in the [Act(s)][488]._
+_Amendment(s) incorporated in the [Act(s)][489]._
 
 ##### Postal Services Act 1998 (1998 No 2)
 
-_Amendment(s) incorporated in the [Act(s)][489]._
+_Amendment(s) incorporated in the [Act(s)][490]._
 
 ##### Sale of Liquor Amendment Act 1991 (1991 No 52)
 
@@ -5886,7 +5892,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Local Electoral Amendment Act 2002][490].
+*   (1) This Act is the [Local Electoral Amendment Act 2002][491].
     
     (2) In this Act, the Local Electoral Act 2001 is called ""the principal Act"".
 
@@ -5936,7 +5942,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Local Electoral Amendment Act 2013][491].
+*   This Act is the [Local Electoral Amendment Act 2013][492].
 
 ##### 2 Commencement
     
@@ -5991,70 +5997,29 @@ Amendments to principal Act
     
     
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Local Electoral Act 2001\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][492] ![](/images/external_link.gif).
+*   This is a reprint of the Local Electoral Act 2001 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][493] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][493] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][494] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][494] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][495] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][496] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][495] and [17E][496] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Local Electoral Amendment Act (No 2) 2013][497] (2013 No 123)
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Local Electoral Amendment Act 2013][491] (2013 No 40)
+    [Local Electoral Amendment Act 2013][492] (2013 No 40)
     
     Local Government Act 2002 Amendment Act 2012 (2012 No 93): [section 43][332]
     
@@ -6066,21 +6031,21 @@ Amendments to principal Act
     
     Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][366]
     
-    [Local Electoral Amendment Act 2006][497] (2006 No 25)
+    [Local Electoral Amendment Act 2006][498] (2006 No 25)
     
-    [Local Electoral Amendment Act 2004][498] (2004 No 62)
+    [Local Electoral Amendment Act 2004][499] (2004 No 62)
     
-    [Local Electoral Amendment Act 2002][490] (2002 No 85)
+    [Local Electoral Amendment Act 2002][491] (2002 No 85)
     
     Local Government Act 2002 (2002 No 84): [section 262][296]
     
     [Local Electoral Act Commencement Order 2001][282] (SR 2001/144)
     
-    Local Electoral Act 2001 (2001 No 35): [section 145][454]
+    Local Electoral Act 2001 (2001 No 35): [section 145][455]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93304
 [2]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93305
 [3]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93306
@@ -6529,53 +6494,54 @@ Amendments to principal Act
 [446]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803593
 [447]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803594
 [448]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803595
-[449]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181923
-[450]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181925
-[451]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181926
-[452]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303182
-[453]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303183
-[454]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM95322
-[455]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM408922
-[456]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181940
-[457]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM81686
-[458]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95801
-[459]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95809
-[460]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181928
-[461]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303184
-[462]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181935
-[463]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85390
-[464]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803597
-[465]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95360
-[466]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95372
-[467]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95373
-[468]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85392
-[469]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM373906
-[470]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95366
-[471]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85396
-[472]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM308195
-[473]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85701
-[474]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85385
-[475]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803598
-[476]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM304497
-[477]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM71928
-[478]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM415539
-[479]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM80802
-[480]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM298477
-[481]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM48175
-[482]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM166671
-[483]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM210031
-[484]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM136304
-[485]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM295712
-[486]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM229852
-[487]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM261649
-[488]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM394164
-[489]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM423790
-[490]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM179983
-[491]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803501
-[492]: http://www.pco.parliament.govt.nz/reprints/
-[493]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM195439
-[494]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[495]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM195468
-[496]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM195470
-[497]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM373598
-[498]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303154
+[449]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM5623402
+[450]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181923
+[451]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181925
+[452]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181926
+[453]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303182
+[454]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303183
+[455]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM95322
+[456]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM408922
+[457]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181940
+[458]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM81686
+[459]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95801
+[460]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95809
+[461]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181928
+[462]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303184
+[463]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181935
+[464]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85390
+[465]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803597
+[466]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95360
+[467]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95372
+[468]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95373
+[469]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85392
+[470]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM373906
+[471]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95366
+[472]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85396
+[473]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM308195
+[474]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85701
+[475]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85385
+[476]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803598
+[477]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM304497
+[478]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM71928
+[479]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM415539
+[480]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM80802
+[481]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM298477
+[482]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM48175
+[483]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM166671
+[484]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM210031
+[485]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM136304
+[486]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM295712
+[487]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM229852
+[488]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM261649
+[489]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM394164
+[490]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM423790
+[491]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM179983
+[492]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803501
+[493]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM2998516
+[494]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM2998515
+[495]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM2998532
+[496]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[497]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM5623403
+[498]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM373598
+[499]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303154
