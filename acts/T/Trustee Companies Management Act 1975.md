@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Business, Innovation, and Employment.
 
@@ -73,7 +73,7 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 [23][25][][25][Special advances to companies][25]
 
-[24][26][][26][Application of Companies Act 1955][26]
+[24][26][][26][Application of Companies Act 1993][26]
 
 [24A][27][][27][Application of Financial Reporting Act 1993][27]
 
@@ -81,6 +81,8 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 [Schedule][29]  
 [Provisions of Companies Act 1955 which do not apply to companies to which this Act applies][29]
+
+\[Repealed\]
 
 ---
 
@@ -136,9 +138,11 @@ An Act to make special provision for the protection of persons who have benefici
     
     (2) This Act may be applied to any trustee company or company that is associated with a trustee company notwithstanding that it has been dissolved or struck off the register; and no trustee company to which this Act applies shall be struck off the register after the commencement of this Act unless the prior consent in writing of the board of directors for the time being of the trustee company is given to the Registrar of Companies.
     
-    (3) Where it is desirable for the protection of any beneficiary under any trust administered by any trustee company or by any company that is associated with a trustee company to which this Act applies or is being applied, or for the protection of any depositors, or creditors (whether secured or unsecured) of any such trustee company or associated company, or it is otherwise in the public interest, that the provisions of this Act should apply to the trustee company or associated company and the said beneficiaries, depositors, or creditors, or the public interest cannot be adequately protected under the Companies Act 1955 or under any other enactment or law, the Governor-General, on the advice of the Minister, may by Order in Council declare that from the date specified therein the provisions of this Act shall apply to that trustee company or associated company, whether it is incorporated in New Zealand or elsewhere; and in this subsection the terms _trustee company_ and _company_ include, as the case requires, any trustee company or company that has been dissolved or struck off the register.
+    (3) Where it is desirable for the protection of any beneficiary under any trust administered by any trustee company or by any company that is associated with a trustee company to which this Act applies or is being applied, or for the protection of any depositors, or creditors (whether secured or unsecured) of any such trustee company or associated company, or it is otherwise in the public interest, that the provisions of this Act should apply to the trustee company or associated company and the said beneficiaries, depositors, or creditors, or the public interest cannot be adequately protected under the [Companies Act 1993][36] or under any other enactment or law, the Governor-General, on the advice of the Minister, may by Order in Council declare that from the date specified therein the provisions of this Act shall apply to that trustee company or associated company, whether it is incorporated in New Zealand or elsewhere; and in this subsection the terms _trustee company_ and _company_ include, as the case requires, any trustee company or company that has been dissolved or struck off the register.
     
-    Section 3(1): amended, on 1 April 1988, pursuant to [section 4(1)][36] of the AMP Perpetual Trustee Company Act 1988 (1988 No 1 (P)).
+    Section 3(1): amended, on 1 April 1988, pursuant to [section 4(1)][37] of the AMP Perpetual Trustee Company Act 1988 (1988 No 1 (P)).
+    
+    Section 3(3): amended, on 5 December 2013, by [section 14][38] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 4 Moratorium
     
@@ -166,7 +170,7 @@ An Act to make special provision for the protection of persons who have benefici
     
     Section 4(1): amended, on 9 December 1976, by section 2 of the Trustee Companies Management Amendment Act 1976 (1976 No 127).
     
-    Section 4(2)(d): amended, on 1 January 2008, by [section 364(1)][37] of the Property Law Act 2007 (2007 No 91).
+    Section 4(2)(d): amended, on 1 January 2008, by [section 364(1)][39] of the Property Law Act 2007 (2007 No 91).
 
 ##### 5 Directors of company to which Act applies
     
@@ -200,9 +204,9 @@ An Act to make special provision for the protection of persons who have benefici
     
     (8) Any vacancy in the board may be filled in the same manner as the appointment of the member vacating office.
     
-    Section 5(3)(a): amended, on 1 April 1988, pursuant to [section 4(1)][36] of the AMP Perpetual Trustee Company Act 1988 (1988 No 1 (P)).
+    Section 5(3)(a): amended, on 1 April 1988, pursuant to [section 4(1)][37] of the AMP Perpetual Trustee Company Act 1988 (1988 No 1 (P)).
     
-    Section 5(3)(a)(iii): repealed, on 1 March 2002, by [section 170(1)][38] of the Public Trust Act 2001 (2001 No 100).
+    Section 5(3)(a)(iii): repealed, on 1 March 2002, by [section 170(1)][40] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 6 Meetings of board
     
@@ -248,13 +252,13 @@ An Act to make special provision for the protection of persons who have benefici
 
 ##### 11 Local boards of directors
     
-*   The board of directors appointed under [section 5][6] in respect of any trustee company to which this Act applies may appoint local boards of directors of that trustee company in accordance with the provisions of [section 20][39] of the Trustee Companies Act 1967:
+*   The board of directors appointed under [section 5][6] in respect of any trustee company to which this Act applies may appoint local boards of directors of that trustee company in accordance with the provisions of [section 20][41] of the Trustee Companies Act 1967:
     
     provided that any such appointment may make provision for withholding a seal from the local board to which the appointment relates, or may specify the circumstances in which the seal of the local board may be used, or may impose conditions or restrictions on its use including a requirement that prior confirmation or supervision be obtained.
 
 ##### 12 Delegations
     
-*   Without restricting the generality of the powers, whether derived under this Act or any other enactment or instrument or in any other way, of the board appointed under [section 5][6] of any trustee company to which this Act applies, any such board may revoke any delegation previously made under [section 21][40] of the Trustee Companies Act 1967, and make such delegation as it thinks fit under that section.
+*   Without restricting the generality of the powers, whether derived under this Act or any other enactment or instrument or in any other way, of the board appointed under [section 5][6] of any trustee company to which this Act applies, any such board may revoke any delegation previously made under [section 21][42] of the Trustee Companies Act 1967, and make such delegation as it thinks fit under that section.
 
 ##### 13 Duty to deliver books and property to board
     
@@ -272,11 +276,15 @@ An Act to make special provision for the protection of persons who have benefici
     
     (3) If any person fails to comply with the requirements of subsection (1), the board concerned may at any time certify the failure to the court (whether or not an offence has been committed under subsection (2)), and the court may thereupon inquire into the matter of the failure and, after hearing any witnesses who may be produced against or by or on behalf of the alleged offender, and after hearing any statement which may be offered in defence, may punish the offender in like manner as if he had been guilty of contempt of court.
     
-    (4) It shall be no defence to any proceedings under this section that the person in possession or control of any property as aforesaid is or was a trustee of the property for any trustee company or associated company incorporated in New Zealand to which this Act applies or entitled to a lien or other charge over the property, or was a receiver or manager of the property appointed under Part 7 of the Companies Act 1955\.
+    (4) It shall be no defence to any proceedings under this section that the person in possession or control of any property as aforesaid is or was a trustee of the property for any trustee company or associated company incorporated in New Zealand to which this Act applies or entitled to a lien or other charge over the property, or was a receiver appointed in accordance with the [Receiverships Act 1993][43].
     
-    (5) The rights of any person who, in accordance with this section, delivers any property to the board in respect of any trustee company or associated company incorporated in New Zealand to which this Act applies or its authorised agent shall continue while this Act continues to apply to the trustee company or associated company as if the person had not so delivered the property; and when this Act ceases to apply to the trustee company or associated company, subject to the provisions of this Act and unless the court otherwise orders, the property shall be returned to the person who delivered it or to someone who derives a right to possession of the property from that person. The provisions of this subsection shall apply whether the person who delivers the property is a receiver or manager appointed under Part 7 of the Companies Act 1955, or a person entitled to a lien or charge in respect of the property, or any other person having any rights whatsoever in respect thereof.
+    (5) The rights of any person who, in accordance with this section, delivers any property to the board in respect of any trustee company or associated company incorporated in New Zealand to which this Act applies or its authorised agent shall continue while this Act continues to apply to the trustee company or associated company as if the person had not so delivered the property; and when this Act ceases to apply to the trustee company or associated company, subject to the provisions of this Act and unless the court otherwise orders, the property shall be returned to the person who delivered it or to someone who derives a right to possession of the property from that person. The provisions of this subsection shall apply whether the person who delivers the property is a receiver appointed in accordance with the [Receiverships Act 1993][43], or a person entitled to a lien or charge in respect of the property, or any other person having any rights whatsoever in respect thereof.
     
-    Section 13(2): amended, on 1 July 2013, by [section 413][41] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 13(2): amended, on 1 July 2013, by [section 413][44] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 13(4): amended, on 5 December 2013, by [section 14][38] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 13(5): amended, on 5 December 2013, by [section 14][38] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 14 Protection of board, etc
     
@@ -406,13 +414,13 @@ An Act to make special provision for the protection of persons who have benefici
     
     (2) If in any prosecution for an offence alleged to have been committed against this section it is proved that the person charged with the offence has destroyed or altered any book, document, or record as aforesaid, or has sent or attempted to send or conspired to send out of New Zealand any such book, document, or record, or any other thing, the onus of proving that in so doing he had not acted in contravention of this section shall lie on him.
     
-    (3) _Amendment(s) incorporated in the [Act(s)][42]_.
+    (3) _Amendment(s) incorporated in the [Act(s)][45]_.
     
-    (4) Despite anything to the contrary in [section 25][43] of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against this section.
+    (4) Despite anything to the contrary in [section 25][46] of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against this section.
     
-    Section 20(1): amended, on 1 July 2013, by [section 413][41] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 20(1): amended, on 1 July 2013, by [section 413][44] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 20(4): inserted, on 1 July 2013, by [section 413][41] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 20(4): inserted, on 1 July 2013, by [section 413][44] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 21 Duty to report offences, etc
     
@@ -424,51 +432,59 @@ An Act to make special provision for the protection of persons who have benefici
     
     (2) All money so advanced to any such person shall be refunded to the Crown out of money payable to that board in respect of the trustee company or associated company, and the Crown shall have all the rights of the board to which the advance was made to receive and recover such money.
     
-    (3) The Minister of Finance may, on behalf of the Crown, guarantee pursuant to the [Public Finance Act 1989][44] the repayment of any money borrowed by the board for the payment of any general expenses (including salaries) payable in the exercise of its functions by the board while it has insufficient revenue for the payment thereof and the payment of interest on any money so borrowed.
+    (3) The Minister of Finance may, on behalf of the Crown, guarantee pursuant to the [Public Finance Act 1989][47] the repayment of any money borrowed by the board for the payment of any general expenses (including salaries) payable in the exercise of its functions by the board while it has insufficient revenue for the payment thereof and the payment of interest on any money so borrowed.
     
-    Section 22(1): amended, on 1 July 1989, by [section 86(1)][45] of the Public Finance Act 1989 (1989 No 44).
+    Section 22(1): amended, on 1 July 1989, by [section 86(1)][48] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 22(2): amended, on 1 July 1989, by [section 86(1)][45] of the Public Finance Act 1989 (1989 No 44).
+    Section 22(2): amended, on 1 July 1989, by [section 86(1)][48] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 22(3): amended, on 1 July 1989, by [section 86(1)][45] of the Public Finance Act 1989 (1989 No 44).
+    Section 22(3): amended, on 1 July 1989, by [section 86(1)][48] of the Public Finance Act 1989 (1989 No 44).
     
     Section 22(3): amended, on 1 April 1978, by section 160(1) of the Public Finance Act 1977 (1977 No 65).
 
 ##### 23 Special advances to companies
     
-*   (1) The Minister of Finance may advance money, or guarantee pursuant to the [Public Finance Act 1989][44] the advance of money with or without securities, to the board of any trustee company or associated company to which this Act applies.
+*   (1) The Minister of Finance may advance money, or guarantee pursuant to the [Public Finance Act 1989][47] the advance of money with or without securities, to the board of any trustee company or associated company to which this Act applies.
     
-    (2) The Minister of Finance may advance money, or guarantee pursuant to the [Public Finance Act 1989][44] the advance of money with or without securities, to the board for the repayment of the money borrowed by way of overdraft from the National Bank of New Zealand Limited by the AMP Perpetual Trustee Company N.Z. Limited in respect of its group investment funds.
+    (2) The Minister of Finance may advance money, or guarantee pursuant to the [Public Finance Act 1989][47] the advance of money with or without securities, to the board for the repayment of the money borrowed by way of overdraft from the National Bank of New Zealand Limited by the AMP Perpetual Trustee Company N.Z. Limited in respect of its group investment funds.
     
     (3) On the repayment of the last mentioned money the National Bank of New Zealand Limited shall surrender to the board the securities deposited with the bank by the company as part of the transaction between them.
     
     (4) The National Bank of New Zealand Limited shall be indemnified by the Crown for any loss suffered or occasioned by the said bank by reason of the repayment of money under subsection (1).
     
-    Section 23(1): amended, on 1 July 1989, by [section 86(1)][45] of the Public Finance Act 1989 (1989 No 44).
+    Section 23(1): amended, on 1 July 1989, by [section 86(1)][48] of the Public Finance Act 1989 (1989 No 44).
     
     Section 23(1): amended, on 1 April 1978, by section 160(1) of the Public Finance Act 1977 (1977 No 65).
     
-    Section 23(2): amended, on 1 July 1989, by [section 86(1)][45] of the Public Finance Act 1989 (1989 No 44).
+    Section 23(2): amended, on 1 July 1989, by [section 86(1)][48] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 23(2): amended, on 1 April 1988, pursuant to [section 4(1)][36] of the AMP Perpetual Trustee Company Act 1988 (1988 No 1 (P)).
+    Section 23(2): amended, on 1 April 1988, pursuant to [section 4(1)][37] of the AMP Perpetual Trustee Company Act 1988 (1988 No 1 (P)).
     
     Section 23(2): amended, on 1 April 1978, by section 160(1) of the Public Finance Act 1977 (1977 No 65).
 
-##### 24 Application of Companies Act 1955
+##### 24 Application of Companies Act 1993
     
 *   (1) The board in respect of any trustee company or associated company to which this Act applies shall notify the Registrar of Companies of the commencement and termination of the application of this Act to the trustee company or associated company.
     
-    (2) Notwithstanding anything to the contrary in the Companies Act 1955, it shall not be obligatory on the board of any trustee company or associated company to which this Act applies to furnish in respect of that trustee company or associated company any annual or other return required by that Act.
+    (2) Nothing in [sections 120][49], [196 to 209B][50], and [214][51] of the Companies Act 1993 applies to a trustee company or an associated company to which this Act applies.
     
-    (3) Subject to the provisions of this Act, all the provisions of the Companies Act 1955 and all rules and regulations under that Act, shall, so far as they are applicable, and with the necessary modifications, apply to any trustee company or associated company to which this Act applies:
+    (3) Nothing in the [Receiverships Act 1993][43] applies to a trustee company or an associated company to which this Act applies.
     
-    provided that, except as otherwise provided in this Act, the provisions of the Companies Act 1955 specified in the Schedule shall not apply.
+    (4) Nothing in the [Companies Act 1993][36] requires the board of a trustee company or an associated company to which this Act applies to file any annual or other return under that Act in respect of that company.
+    
+    Section 24 heading: amended, on 5 December 2013, by [section 14][38] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 24(2): replaced, on 5 December 2013, by [section 14][38] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 24(3): replaced, on 5 December 2013, by [section 14][38] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 24(4): inserted, on 5 December 2013, by [section 14][38] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 24A Application of Financial Reporting Act 1993
     
-*   The [Financial Reporting Act 1993][46] shall not apply to any trustee company or associated company to which this Act applies.
+*   The [Financial Reporting Act 1993][52] shall not apply to any trustee company or associated company to which this Act applies.
     
-    Section 24A: inserted, on 1 July 1994, by [section 2][47] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 24A: inserted, on 1 July 1994, by [section 2][53] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
 
 ##### 25 Regulations
     
@@ -485,86 +501,47 @@ An Act to make special provision for the protection of persons who have benefici
 ## Schedule  
 Provisions of Companies Act 1955 which do not apply to companies to which this Act applies
 
-Sections 130 to 135 (both inclusive) and 152 to 162 (both inclusive), and Part 7\.
-
----
-
-#### Contents
+\[Repealed\]
     
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+*   Schedule: repealed, on 5 December 2013, by [section 14][38] of the Companies Amendment Act 2013 (2013 No 111).
+
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Trustee Companies Management Act 1975\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][48] ![](/images/external_link.gif).
+*   This is a reprint of the Trustee Companies Management Act 1975 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][49] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][54] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][55] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][50] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][56] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][57] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][51] and [17E][52] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][38]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][41]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][44]
     
     Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [section 861][35]
     
-    Property Law Act 2007 (2007 No 91): [section 364(1)][37]
+    Property Law Act 2007 (2007 No 91): [section 364(1)][39]
     
-    Public Trust Act 2001 (2001 No 100): [section 170(1)][38]
+    Public Trust Act 2001 (2001 No 100): [section 170(1)][40]
     
     Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][34]
     
-    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][47]
+    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][53]
     
-    Public Finance Act 1989 (1989 No 44): [section 86(1)][45]
+    Public Finance Act 1989 (1989 No 44): [section 86(1)][48]
     
-    AMP Perpetual Trustee Company Act 1988 (1988 No 1 (P)): [section 4(1)][36]
+    AMP Perpetual Trustee Company Act 1988 (1988 No 1 (P)): [section 4(1)][37]
     
     Trustee Companies Management Amendment Act 1987 (1987 No 157)
     
@@ -578,7 +555,7 @@ Sections 130 to 135 (both inclusive) and 152 to 162 (both inclusive), and Part 7
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1975/0025/latest/whole.html#DLM431748
 [2]: http://www.legislation.govt.nz/act/public/1975/0025/latest/whole.html#DLM431750
 [3]: http://www.legislation.govt.nz/act/public/1975/0025/latest/whole.html#DLM431751
@@ -614,20 +591,25 @@ Sections 130 to 135 (both inclusive) and 152 to 162 (both inclusive), and Part 7
 [33]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM35049
 [34]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM367235
 [35]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM1401902
-[36]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM113252
-[37]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM969644
-[38]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM124529
-[39]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM381478
-[40]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM381480
-[41]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM3360714
-[42]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM314307
-[43]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM3360062
-[44]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM160808
-[45]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM163175
-[46]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM323597
-[47]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM328986
-[48]: http://www.pco.parliament.govt.nz/reprints/
-[49]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM195439
-[50]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[51]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM195468
-[52]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM195470
+[36]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM319569
+[37]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM113252
+[38]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM5620822
+[39]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM969644
+[40]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM124529
+[41]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM381478
+[42]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM381480
+[43]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM327640
+[44]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM3360714
+[45]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM314307
+[46]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM3360062
+[47]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM160808
+[48]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM163175
+[49]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM320614
+[50]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM320877
+[51]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM321131
+[52]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM323597
+[53]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM328986
+[54]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM2998516
+[55]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM2998515
+[56]: http://www.legislation.govt.nz/act/public/1975/0025/latest/link.aspx?id=DLM2998532
+[57]: http://www.pco.parliament.govt.nz/editorial-conventions/
