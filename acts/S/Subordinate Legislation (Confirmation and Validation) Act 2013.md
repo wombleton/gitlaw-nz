@@ -162,7 +162,7 @@ Confirmations and validations
 
 ##### 14 Road User Charges Act 2012
     
-*   [The Road User Charges (Rates) Regulations 2013][38] (SR 2013/135) are confirmed.
+*   The [Road User Charges (Rates) Regulations 2013][38] (SR 2013/135) are confirmed.
 
 ##### 15 War Pensions Act 1954
     
