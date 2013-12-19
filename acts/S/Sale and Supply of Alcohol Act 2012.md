@@ -1,5 +1,5 @@
 Reprint  
-as at 4 October 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -2048,6 +2048,14 @@ Sale and supply of alcohol generally
 *   (1) The holder of a licence must ensure that no alcohol is sold or supplied on the premises outside the permitted trading hours.
     
     (2) Subsection (1) is subject to [section 173][554] of the Gambling Act 2003\.
+    
+    (3) Subsection (1) does not apply where any alcohol previously placed in an area or unit (commonly known as a mini-bar) of a hotel room is, in that room, sold or supplied to--- 
+        
+    *   (a) a person (a **guest**) who is, under an agreement, entitled to occupy that room; or
+    
+    *   (b) a person whom that guest permits, consistently with that agreement, to be in that room.
+    
+    Section 46(3): inserted, on 5 December 2013, by [section 4][555] of the Sale and Supply of Alcohol Amendment Act 2013 (2013 No 131).
 
 ##### 47 Sale and supply on Anzac Day morning, Good Friday, Easter Sunday, and Christmas Day restricted: on-licences
     
@@ -2091,7 +2099,7 @@ Sale and supply of alcohol generally
         
         
     
-    Compare: 1989 No 63 [s 37(1)][555]
+    Compare: 1989 No 63 [s 37(1)][556]
 
 ##### 49 Remote sales exempted from trading hours restrictions
     
@@ -2177,7 +2185,7 @@ Sale and supply of alcohol generally
     
 *   The holder of an on-licence issued for premises or an off-licence (other than an off-licence issued for premises for which a club licence is held) must ensure that for each principal entrance to the premises there is displayed at all times a sign attached to the inside or outside of the premises, so as to be easily read by people immediately outside the entrance, stating the ordinary hours of business during which the premises are open for the sale of alcohol (or, in the case of an on-licence endorsed under [section 37][45], open for the consumption of alcohol).
     
-    Compare: 1989 No 63 [ss 25(1)][556], [48(2)][557]
+    Compare: 1989 No 63 [ss 25(1)][557], [48(2)][558]
 
 ##### 57 Display of licence: all licences
     
@@ -2197,7 +2205,7 @@ Sale and supply of alcohol generally
     
     (4) The holder of a special licence must ensure that all directions under subsection (3) given when it was issued are complied with.
     
-    Compare: 1989 No 63 [ss 25(2)][556], [48(2), (3)][557], [83][558]
+    Compare: 1989 No 63 [ss 25(2)][557], [48(2), (3)][558], [83][559]
 
 ##### 58 Restriction on kinds of alcohol sold in supermarkets and grocery shops, and premises directly accessible from supermarket or grocery shop
     
@@ -2221,7 +2229,7 @@ Sale and supply of alcohol generally
     
     (3) In subsection (1),---
     
-    _appropriate New Zealand food standard_, in relation to any kind of alcohol, means the standard for alcohol of that kind that is for the time being in force under [section 11C][559] of the Food Act 1981
+    _appropriate New Zealand food standard_, in relation to any kind of alcohol, means the standard for alcohol of that kind that is for the time being in force under [section 11C][560] of the Food Act 1981
     
     _beer_ means the product, characterised by the presence of hops or preparations of hops, prepared by the yeast fermentation of an aqueous extract of malted or unmalted cereals, or both
     
@@ -2241,7 +2249,7 @@ Sale and supply of alcohol generally
     
     _mead_ means the product prepared from the complete or partial fermentation of honey.
     
-    Compare: 1989 No 63 [s 37(3)][555]
+    Compare: 1989 No 63 [s 37(3)][556]
 
 ##### 59 Requirements relating to remote sales by holders of off-licences
     
@@ -2299,7 +2307,7 @@ Sale and supply of alcohol generally
     
     *   (c) all proceeds from the sale of alcohol belong to the club.
     
-    Compare: 1989 No 63 [s 60(1)][560]
+    Compare: 1989 No 63 [s 60(1)][561]
 
 ##### 62 No bring-your-own alcohol in clubs
     
@@ -2319,7 +2327,7 @@ Sale and supply of alcohol generally
     
     (2) Even if the licensing authority or a licensing committee has directed that a licence should be issued for any premises, the premises are not licensed premises until the licence has been issued.
     
-    Compare: 1989 No 63 [s 114][561]
+    Compare: 1989 No 63 [s 114][562]
 
 ##### 65 Secretary of authority to set up and maintain registers
     
@@ -2327,7 +2335,7 @@ Sale and supply of alcohol generally
     
     (2) Any member of the public may, on payment of the prescribed fee, obtain from the secretary of the licensing authority an extract from a register.
     
-    Compare: 1989 No 63 [s 220][562]
+    Compare: 1989 No 63 [s 220][563]
 
 ##### 66 Record of applications
     
@@ -2341,13 +2349,13 @@ Sale and supply of alcohol generally
     
     (3) The secretary of each licensing committee must send to the secretary of the licensing authority a copy of every application made to the committee, and a copy of every decision made by it.
     
-    Compare: 1989 No 63 [s 221][563]
+    Compare: 1989 No 63 [s 221][564]
 
 ##### 67 Certified extracts to be evidence
     
 *   An extract of any register or record kept by the secretary of the licensing authority or by the secretary of a licensing committee, and certified as such by the secretary, is evidence of the matters stated in the extract.
     
-    Compare: 1989 No 63 [s 222][564]
+    Compare: 1989 No 63 [s 222][565]
 
 ##### 68 Licensees and managers to have address for service
     
@@ -2369,7 +2377,7 @@ Sale and supply of alcohol generally
     
     *   (b) is to be treated as having been served when it was left at the recipient's address for service, if it is proved that it was addressed to the recipient at the recipient's address for service and left at that address.
     
-    Compare: 1989 No 63 [s 223][565]
+    Compare: 1989 No 63 [s 223][566]
 
 ##### 69 Notification of licensing authority by company of changes in company shareholding or name
     
@@ -2399,7 +2407,7 @@ Sale and supply of alcohol generally
     
     *   (c) in the circumstances he or she could not reasonably have been expected to take steps to ensure that the company complied with the provision.
     
-    Compare: 1989 No 63 [s 225][566]
+    Compare: 1989 No 63 [s 225][567]
 
 ##### 70 Notification of licensing authority by beneficial owner of shares of changes in shareholding
     
@@ -2409,7 +2417,7 @@ Sale and supply of alcohol generally
     
     (3) If a person required to give a notice under subsection (1) fails to comply with subsection (1) or (2), he or she commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Compare: 1989 No 63 [s 225A][567]
+    Compare: 1989 No 63 [s 225A][568]
 
 ##### 71 Notification of Police
     
@@ -2429,13 +2437,13 @@ Sale and supply of alcohol generally
     
     (3) The provisions of [section 280][334], with any necessary modifications, apply to any application under subsection (2).
     
-    Compare: 1989 No 63 [s 225B][568]
+    Compare: 1989 No 63 [s 225B][569]
 
 ##### 72 Duplicate licence or certificate
     
 *   If the secretary of the licensing authority or a licensing committee is satisfied that any licence or manager's certificate issued by the licensing authority or licensing committee has been lost or destroyed, the secretary may issue a duplicate licence or certificate to the holder.
     
-    Compare: 1989 No 63 [s 226][569]
+    Compare: 1989 No 63 [s 226][570]
 
 ##### 73 Surrender of licence or manager's certificate
     
@@ -2469,7 +2477,7 @@ Sale and supply of alcohol generally
     
     *   (b) for any act done or default made before that date.
     
-    Compare: 1989 No 63 [s 227][570]
+    Compare: 1989 No 63 [s 227][571]
 
 ##### 74 Temporary licence during repairs, etc
     
@@ -2611,7 +2619,7 @@ Sale and supply of alcohol generally
     
     (4) The appellant has no right of appeal against the decision of the licensing authority.
     
-    (5) Subsection (4) does not limit or affect the [Judicature Amendment Act 1972][571].
+    (5) Subsection (4) does not limit or affect the [Judicature Amendment Act 1972][572].
 
 ##### 84 Actions territorial authority may take if asked to reconsider element of provisional policy
     
@@ -2673,11 +2681,11 @@ Sale and supply of alcohol generally
     
 *   (1) Once a provisional local alcohol policy has been adopted and ceased to be provisional,---
         
-    *   (a) any elements of it relating to maximum trading hours or a one-way-door policy must be treated as regulations within the meaning of [section 2][572] of the Regulations (Disallowance) Act 1989; and [sections 5 to 10][573] of that Act apply accordingly; but
+    *   (a) any elements of it relating to maximum trading hours or a one-way-door policy must be treated as regulations within the meaning of [section 2][573] of the Regulations (Disallowance) Act 1989; and [sections 5 to 10][574] of that Act apply accordingly; but
     
     *   (b) the rest of it must be treated as not being regulations within the meaning of that Act.
     
-    (2) The disallowance under the [Regulations (Disallowance) Act 1989][574] of an element of a local alcohol policy (or of a local alcohol policy that has been brought into force) does not affect the rest of the policy.
+    (2) The disallowance under the [Regulations (Disallowance) Act 1989][575] of an element of a local alcohol policy (or of a local alcohol policy that has been brought into force) does not affect the rest of the policy.
     
     (3) Subsections (1) and (2) apply to any element of an amendment of a local alcohol policy relating to maximum trading hours or a one-way-door policy (whether an amendment of an existing element relating to one of those matters or the insertion of a new or substituted element relating to one of those matters) as if the adoption of the amendment were the adoption of a new policy.
 
@@ -2799,7 +2807,7 @@ Sale and supply of alcohol generally
     
     *   (d) if it relates to any premises, must be accompanied by a statement by the applicant that---
             
-        *   (i) the owner of the building in which the premises are situated provides and maintains an evacuation scheme as required by [section 21B][575] of the Fire Service Act 1975; or
+        *   (i) the owner of the building in which the premises are situated provides and maintains an evacuation scheme as required by [section 21B][576] of the Fire Service Act 1975; or
         
         *   (ii) because of the building's current use, its owner is not required to provide and maintain such a scheme; or
         
@@ -2809,7 +2817,7 @@ Sale and supply of alcohol generally
     
     *   (e) must be accompanied by the prescribed fee; and
     
-    *   (f) except in the case of an application relating to a conveyance, must be accompanied by a certificate by the territorial authority that the proposed use of the premises meets requirements of the [Resource Management Act 1991][576] and of the building code.
+    *   (f) except in the case of an application relating to a conveyance, must be accompanied by a certificate by the territorial authority that the proposed use of the premises meets requirements of the [Resource Management Act 1991][577] and of the building code.
     
     
 
@@ -3317,7 +3325,7 @@ Sale and supply of alcohol generally
     
     *   (e) if it relates to any premises, must be accompanied by a statement by the applicant that---
             
-        *   (i) the owner of the building in which the premises are situated provides and maintains an evacuation scheme as required by [section 21B][575] of the Fire Service Act 1975; or
+        *   (i) the owner of the building in which the premises are situated provides and maintains an evacuation scheme as required by [section 21B][576] of the Fire Service Act 1975; or
         
         *   (ii) because of the building's current use, its owner is not required to provide and maintain such a scheme; or
         
@@ -3445,7 +3453,7 @@ Sale and supply of alcohol generally
     
     (5) The person authorised by the order has for the purposes of this Act the same duties, obligations, and liabilities as the holder of the on-licence or off-licence concerned.
     
-    Compare: 1989 No 63 [ss 24][577], [47][578]
+    Compare: 1989 No 63 [ss 24][578], [47][579]
 
 ### Subpart 4---Licensing process: special licences
 
@@ -3469,7 +3477,7 @@ Sale and supply of alcohol generally
     
     (4) If the licensing committee fixes under subsection (3) a period of less than 15 working days, the references in [section 141][167] to 15 working days must (in relation to any report on the application concerned) be read as a reference to the period fixed.
     
-    Compare: 1989 No 63 [s 76(2)][579]
+    Compare: 1989 No 63 [s 76(2)][580]
 
 ##### 138 Form of application
     
@@ -3485,7 +3493,7 @@ Sale and supply of alcohol generally
     
     *   (e) must be accompanied by the prescribed fee.
     
-    Compare: 1989 No 63 [s 76(1)][579]
+    Compare: 1989 No 63 [s 76(1)][580]
 
 ##### 139 Notification requirements
     
@@ -3495,7 +3503,7 @@ Sale and supply of alcohol generally
     
     *   (b) if required to do so by the secretary of the licensing committee concerned, must, within 10 working days after filing the application, ensure that notice of the application in the prescribed form is attached in a conspicuous place on or adjacent to the site to which the application relates.
     
-    Compare: 1989 No 63 [s 76(4)][579]
+    Compare: 1989 No 63 [s 76(4)][580]
 
 ##### 140 Objections to applications
     
@@ -3511,7 +3519,7 @@ Sale and supply of alcohol generally
     
     (4) The secretary must give a copy of every objection to the applicant.
     
-    Compare: 1989 No 63 [s 77][580]
+    Compare: 1989 No 63 [s 77][581]
 
 ##### 141 Inquiry into applications by Police, inspector, and Medical Officer of Health
     
@@ -3555,7 +3563,7 @@ Sale and supply of alcohol generally
     
     (7) This section is subject to [section 137(4)][163].
     
-    Compare: 1989 No 63 [s 78][581]
+    Compare: 1989 No 63 [s 78][582]
 
 ##### 142 Criteria for issue of special licences
     
@@ -3601,7 +3609,7 @@ Sale and supply of alcohol generally
     
     (2) The licensing committee must not take into account any prejudicial effect that the issue of the special licence may have on the business conducted pursuant to any other licence.
     
-    Compare: 1989 No 63 [s 79][582]
+    Compare: 1989 No 63 [s 79][583]
 
 ##### 143 Additional requirements for large-scale events
     
@@ -3609,7 +3617,7 @@ Sale and supply of alcohol generally
         
     *   (a) require the applicant to provide the committee with a management plan describing how the applicant proposes to deal with matters such as security, monitoring, interaction with local residents, and public health concerns:
     
-    *   (b) require the applicant to provide the committee with a certificate by the territorial authority that the proposed use of the premises meets the requirements of the [Resource Management Act 1991][576] and of the building code:
+    *   (b) require the applicant to provide the committee with a certificate by the territorial authority that the proposed use of the premises meets the requirements of the [Resource Management Act 1991][577] and of the building code:
     
     *   (c) require the applicant to liaise with the Police and the territorial authority on planning for the event.
     
@@ -3691,7 +3699,7 @@ Sale and supply of alcohol generally
     
     (5) Subsection (1)(b) is subject to the [Human Rights Act 1993][539].
     
-    Compare: 1989 No 63 [s 80][583]
+    Compare: 1989 No 63 [s 80][584]
 
 ##### 148 Different conditions may apply in certain cases
     
@@ -3723,7 +3731,7 @@ Sale and supply of alcohol generally
     
     (2) If a single event, or any part of a single event, for which a special licence is issued is postponed to some other day, the licence is in force on the day on which the event or part takes place.
     
-    Compare: 1989 No 63 [s 82][584]
+    Compare: 1989 No 63 [s 82][585]
 
 ##### 150 Display of special licences
     
@@ -3731,7 +3739,7 @@ Sale and supply of alcohol generally
     
     (2) The holder of a special licence must ensure that all directions under subsection (1) are complied with.
     
-    Compare: 1989 No 63 [s 83][558]
+    Compare: 1989 No 63 [s 83][559]
 
 #### Other matters
 
@@ -3773,7 +3781,7 @@ Sale and supply of alcohol generally
     
     (6) In this section and in [section 153][182], **appellate tribunal** means the licensing authority or the court that hears and determines an appeal under this Act.
     
-    Compare: 1989 No 63 [s 147][585]
+    Compare: 1989 No 63 [s 147][586]
 
 ##### 153 Effect of appeal against other decisions
     
@@ -3787,7 +3795,7 @@ Sale and supply of alcohol generally
     
     (5) Where an appellate tribunal makes an order under subsection (3) in relation to a decision to refuse to renew, to suspend, or to cancel any licence or manager's certificate, the licence or manager's certificate must, if the appeal is not finally determined on or before the expiry of the licence or certificate, be deemed to be extended until the final determination of the appeal.
     
-    Compare: 1989 No 63 [s 147A][586]
+    Compare: 1989 No 63 [s 147A][587]
 
 #### Appeals to licensing authority
 
@@ -3795,7 +3803,7 @@ Sale and supply of alcohol generally
     
 *   Any party to any proceedings before a licensing committee who is dissatisfied with the decision or any part of the decision may appeal to the licensing authority against the decision or any part of the decision.
     
-    Compare: 1989 No 63 [s 137(1)][587]
+    Compare: 1989 No 63 [s 137(1)][588]
 
 ##### 155 Procedure for commencing appeal
     
@@ -3827,7 +3835,7 @@ Sale and supply of alcohol generally
     
     *   (d) a copy of the decision appealed against.
     
-    Compare: 1989 No 63 [s 137(1)--(5)][587]
+    Compare: 1989 No 63 [s 137(1)--(5)][588]
 
 ##### 156 Adjournment if notice of appeal not given
     
@@ -3865,7 +3873,7 @@ Sale and supply of alcohol generally
     
     *   (b) a licensing committee referred the proceedings concerned to the licensing authority for decision.
     
-    Compare: 1989 No 63 [s 137(6)--(9)][587]
+    Compare: 1989 No 63 [s 137(6)--(9)][588]
 
 ##### 160 Procedure for commencing appeal
     
@@ -3885,7 +3893,7 @@ Sale and supply of alcohol generally
     
     *   (d) a copy of the decision appealed against.
     
-    Compare: 1989 No 63 [s 138(1)--(6)][588]
+    Compare: 1989 No 63 [s 138(1)--(6)][589]
 
 ##### 161 Appeals
     
@@ -3911,7 +3919,7 @@ Sale and supply of alcohol generally
     
     (9) The Registrar must also return to the secretary of the licensing authority any application, papers, and exhibits forwarded by the secretary pursuant to [section 160(4)][191].
     
-    Compare: 1989 No 63 [s 138(7)--(13)][588]
+    Compare: 1989 No 63 [s 138(7)--(13)][589]
 
 ##### 162 Appeal against decision of licensing authority on question of law
     
@@ -3921,7 +3929,7 @@ Sale and supply of alcohol generally
     
     (3) This section does not apply to a decision by the licensing authority to cancel a licence under [section 289][344] or to cancel a manager's certificate under [section 290][345].
     
-    Compare: 1989 No 63 [s 139][589]
+    Compare: 1989 No 63 [s 139][590]
 
 ##### 163 Right to appear and be heard on appeals
     
@@ -3933,7 +3941,7 @@ Sale and supply of alcohol generally
     
     *   (b) to receive a notice of the date set down for the hearing of the appeal.
     
-    Compare: 1989 No 63 [s 141][590]
+    Compare: 1989 No 63 [s 141][591]
 
 ##### 164 Orders relating to determination of appeals
     
@@ -3953,7 +3961,7 @@ Sale and supply of alcohol generally
     
     (3) The High Court may make an order under subsection (1) only if it is satisfied that a proper determination of the point of law in issue so requires; and the order may be made subject to such conditions as the High Court thinks fit.
     
-    Compare: 1989 No 63 [s 142][591]
+    Compare: 1989 No 63 [s 142][592]
 
 ##### 165 Appeal on additional question of law
     
@@ -3961,23 +3969,23 @@ Sale and supply of alcohol generally
     
     (2) With any necessary modifications, [sections 162][193], [164][195], and [166][197] apply to a notice lodged under subsection (1) as if it were a notice of appeal.
     
-    Compare: 1989 No 63 [s 144][592]
+    Compare: 1989 No 63 [s 144][593]
 
 ##### 166 Extension of time
     
 *   The High Court or a Judge of the High Court may, on the application of the appellant, or intending appellant, or any other party, extend any time prescribed or allowed under any of the provisions of [sections 159 to 165][190] for the lodging of any notice, application, or other document.
     
-    Compare: 1989 No 63 [s 145][593]
+    Compare: 1989 No 63 [s 145][594]
 
 ##### 167 No review until right of appeal exercised
     
 *   No person who has a right of appeal against any decision of the licensing authority or of a licensing committee is entitled to do any of the following unless and until that party exercises that right of appeal and the appeal is finally determined:
         
-    *   (a) to make an application for review of that decision under [Part 1][594] of the Judicature Amendment Act 1972; or
+    *   (a) to make an application for review of that decision under [Part 1][595] of the Judicature Amendment Act 1972; or
     
     *   (b) to institute proceedings seeking any writ or order of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction, in respect of that decision.
     
-    Compare: 1989 No 63 [s 148][595]
+    Compare: 1989 No 63 [s 148][596]
 
 #### Appeals to Court of Appeal
 
@@ -3997,7 +4005,7 @@ Sale and supply of alcohol generally
     
     (5) The decision of the Court of Appeal on any application to that court for leave to appeal is final.
     
-    Compare: 1989 No 63 [s 150][596]
+    Compare: 1989 No 63 [s 150][597]
 
 ### Subpart 6---Licensing bodies
 
@@ -4007,7 +4015,7 @@ Sale and supply of alcohol generally
     
 *   (1) This section continues in existence an authority to be called the Alcohol Regulatory and Licensing Authority.
     
-    (2) The licensing authority is the body established by [section 85(1)][597] of the former licensing Act (and immediately before the commencement of this section called the Liquor Licensing Authority).
+    (2) The licensing authority is the body established by [section 85(1)][598] of the former licensing Act (and immediately before the commencement of this section called the Liquor Licensing Authority).
 
 ##### 170 Functions of licensing authority
     
@@ -4039,7 +4047,7 @@ Sale and supply of alcohol generally
     
 *   The licensing authority has all powers conferred on it by or under this Act or any other enactment, and all other powers reasonably necessary to enable it to perform its functions satisfactorily.
     
-    Compare: 1989 No 63 [s 92][598]
+    Compare: 1989 No 63 [s 92][599]
 
 ##### 172 Licensing authority may issue practice directions
     
@@ -4053,7 +4061,7 @@ Sale and supply of alcohol generally
     
     *   (b) override the requirements of this Act as to which licensing committee to apply to.
     
-    Compare: 1989 No 63 [s 93][599]
+    Compare: 1989 No 63 [s 93][600]
 
 ##### 174 Licensing authority may refer matters for investigation
     
@@ -4067,7 +4075,7 @@ Sale and supply of alcohol generally
     
     (3) A person who commits an offence against subsection (2) is liable on conviction to a fine of not more than $2,000\.
     
-    Compare: 1989 No 63 [s 94][600]
+    Compare: 1989 No 63 [s 94][601]
 
 ##### 175 Licensing authority may refer matters to licensing committees
     
@@ -4085,7 +4093,7 @@ Sale and supply of alcohol generally
     
     *   (b) may hear further submissions or evidence on the matter before making any decision or order.
     
-    Compare: 1989 No 63 [s 95][601]
+    Compare: 1989 No 63 [s 95][602]
 
 ##### 176 Licensing authority may give statements to licensing committees
     
@@ -4101,7 +4109,7 @@ Sale and supply of alcohol generally
     
     (3) In performing its functions under this Act, a licensing committee must observe every statement issued under this section.
     
-    Compare: 1989 No 63 [s 96][602]
+    Compare: 1989 No 63 [s 96][603]
 
 ##### 177 Meetings of licensing authority
     
@@ -4115,7 +4123,7 @@ Sale and supply of alcohol generally
     
     (5) The decision of the licensing authority on any matter is determined by a majority of the valid votes recorded on it.
     
-    Compare: 1989 No 63 [s 97][603]
+    Compare: 1989 No 63 [s 97][604]
 
 ##### 178 Annual report
     
@@ -4127,7 +4135,7 @@ Sale and supply of alcohol generally
     
     (2) The Minister must lay a copy of the report before the House of Representatives within 20 sitting days after the day on which he or she receives it.
     
-    Compare: 1989 No 63 [s 98][604]
+    Compare: 1989 No 63 [s 98][605]
 
 ##### 179 Membership of licensing authority
     
@@ -4137,7 +4145,7 @@ Sale and supply of alcohol generally
     
     *   (b) any number of other members.
     
-    (2) No person is employed in the service of Her Majesty for the purposes of the [State Sector Act 1988][605] by virtue only of appointment to the licensing authority.
+    (2) No person is employed in the service of Her Majesty for the purposes of the [State Sector Act 1988][606] by virtue only of appointment to the licensing authority.
 
 ##### 180 Chairperson and deputy chairperson
     
@@ -4179,7 +4187,7 @@ Sale and supply of alcohol generally
 
 ##### 184 Officers of licensing authority
     
-*   There must be appointed under the [State Sector Act 1988][605] a secretary of the licensing authority, and all other employees necessary for it to carry out its functions efficiently.
+*   There must be appointed under the [State Sector Act 1988][606] a secretary of the licensing authority, and all other employees necessary for it to carry out its functions efficiently.
 
 ##### 185 Professional assistance
     
@@ -4231,7 +4239,7 @@ Sale and supply of alcohol generally
     
     (6) The other 2 members of each licensing committee must be appointed from the territorial authority's list maintained under section 192\.
     
-    (7) For the purposes of subsection (2), a member of a territorial authority means an elected member of a territorial authority and, in relation to the Auckland Council, includes a member of the governing body (as defined in [section 4][606] of the Local Government (Auckland Council) Act 2009) or a member of a local board established under [section 10][607] of that Act.
+    (7) For the purposes of subsection (2), a member of a territorial authority means an elected member of a territorial authority and, in relation to the Auckland Council, includes a member of the governing body (as defined in [section 4][607] of the Local Government (Auckland Council) Act 2009) or a member of a local board established under [section 10][608] of that Act.
 
 ##### 190 Meetings of licensing committees
     
@@ -4359,7 +4367,7 @@ Sale and supply of alcohol generally
     
     (8) A person who appears to act under a delegation is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
     
-    Compare: 1989 No 63 [s 104][608]
+    Compare: 1989 No 63 [s 104][609]
 
 ##### 199 Annual report
     
@@ -4373,13 +4381,13 @@ Sale and supply of alcohol generally
     
     (5) A copy of every annual report must be made available by the territorial authority for inspection free of charge and be made available on an Internet site maintained by or on behalf of the territorial authority for a period of not less than 5 years.
     
-    Compare: 1989 No 63 [s 105][609]
+    Compare: 1989 No 63 [s 105][610]
 
 ##### 200 Application of Local Government Official Information and Meetings Act 1987
     
 *   (1) Every licensing committee is a committee of its territorial authority.
     
-    (2) The provisions of the [Local Government Official Information and Meetings Act 1987][610], other than [Part 7][611], apply to every licensing committee.
+    (2) The provisions of the [Local Government Official Information and Meetings Act 1987][611], other than [Part 7][612], apply to every licensing committee.
     
     (3) Subsection (2) overrides subsection (1).
 
@@ -4387,15 +4395,15 @@ Sale and supply of alcohol generally
 
 ##### 201 Licensing authority and licensing committees have powers of commissions of inquiry
     
-*   (1) Within the scope of its jurisdiction, the licensing authority and every licensing committee must be treated as being a Commission of Inquiry under the [Commissions of Inquiry Act 1908][612]; and that Act, with any necessary modifications, applies accordingly.
+*   (1) Within the scope of its jurisdiction, the licensing authority and every licensing committee must be treated as being a Commission of Inquiry under the [Commissions of Inquiry Act 1908][613]; and that Act, with any necessary modifications, applies accordingly.
     
     (2) Subsection (1) is subject to this Act.
     
-    (3) The power of the licensing authority or a licensing committee under the [Commissions of Inquiry Act 1908][612] to issue summonses requiring the attendance of witnesses before it or the production of documents, or to do any other act preliminary or incidental to the hearing of any matter by the authority or committee, may be exercised by the chairperson, or by the secretary purporting to act by direction or with the authority of the chairperson.
+    (3) The power of the licensing authority or a licensing committee under the [Commissions of Inquiry Act 1908][613] to issue summonses requiring the attendance of witnesses before it or the production of documents, or to do any other act preliminary or incidental to the hearing of any matter by the authority or committee, may be exercised by the chairperson, or by the secretary purporting to act by direction or with the authority of the chairperson.
     
-    (4) In addition to its powers under the [Commissions of Inquiry Act 1908][612], the licensing authority or a licensing committee has power at any time if it thinks fit to rehear any matter that it has determined.
+    (4) In addition to its powers under the [Commissions of Inquiry Act 1908][613], the licensing authority or a licensing committee has power at any time if it thinks fit to rehear any matter that it has determined.
     
-    Compare: 1989 No 63 [s 110][613]
+    Compare: 1989 No 63 [s 110][614]
 
 ##### 202 Procedure
     
@@ -4419,7 +4427,7 @@ Sale and supply of alcohol generally
     
     *   (c) the constable, the inspector, and the Medical Officer of Health, to whom a copy of the application has been sent in accordance with this Act.
     
-    Compare: 1989 No 63 [s 106][614]
+    Compare: 1989 No 63 [s 106][615]
 
 ##### 203 Proceedings of licensing authority and licensing committees
     
@@ -4441,7 +4449,7 @@ Sale and supply of alcohol generally
     
     (9) Subject to the provisions of this Act and of any regulations made under this Act, the authority or committee may regulate its procedure in such manner as it thinks fit.
     
-    Compare: 1989 No 63 [s 107][615]
+    Compare: 1989 No 63 [s 107][616]
 
 ##### 204 Right of certain persons to appear in proceedings
     
@@ -4537,15 +4545,15 @@ Sale and supply of alcohol generally
     
 *   (1) The licensing authority or licensing committee concerned may receive as evidence any statement, document, information, or matter that in its opinion may assist it to deal effectually with any matter before it, whether or not the statement, document, or matter would be admissible in a court of law.
     
-    (2) Subject to the foregoing provisions of this section, the [Evidence Act 2006][616] applies to the authority or the committee and to the members of the authority or committee, and to all proceedings before the authority or committee, in the same manner as if the authority or committee were a court within the meaning of that Act.
+    (2) Subject to the foregoing provisions of this section, the [Evidence Act 2006][617] applies to the authority or the committee and to the members of the authority or committee, and to all proceedings before the authority or committee, in the same manner as if the authority or committee were a court within the meaning of that Act.
     
-    Compare: 1989 No 63 [s 109][617]
+    Compare: 1989 No 63 [s 109][618]
 
 ##### 208 Licensing authority or licensing committee may waive certain omissions
     
 *   Where any person has neglected or omitted to do any act or thing in the precise manner or within the precise time prescribed by this Act, the licensing authority or (as the case may require) the licensing committee or the chairperson, if satisfied that the neglect or omission was not wilful, may waive the same on such terms as they think equitable.
     
-    Compare: 1989 No 63 [s 111][618]
+    Compare: 1989 No 63 [s 111][619]
 
 ##### 209 Licensing committee may state case for opinion of licensing authority
     
@@ -4553,19 +4561,19 @@ Sale and supply of alcohol generally
     
     (2) The licensing authority may order the removal into the High Court of any case stated under this section; and on removal the High Court has the same power to adjudicate on the proceedings as the licensing authority had.
     
-    (3) The provisions of [subpart 8][619] of Part 6 of the Criminal Procedure Act 2011, so far as they are applicable and with the necessary modifications, apply to any case stated under this section.
+    (3) The provisions of [subpart 8][620] of Part 6 of the Criminal Procedure Act 2011, so far as they are applicable and with the necessary modifications, apply to any case stated under this section.
     
-    Section 209(3): amended, on 4 October 2013, by [regulation 3(1)][620] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    Section 209(3): amended, on 4 October 2013, by [regulation 3(1)][621] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 210 Licensing authority may state case for opinion of High Court
     
 *   (1) The licensing authority may state a case for the opinion of the High Court on any question of law arising in any proceedings before it.
     
-    (2) The provisions of [subpart 8][619] of Part 6 of the Criminal Procedure Act 2011, so far as they are applicable and with the necessary modifications, apply to any case stated under this section.
+    (2) The provisions of [subpart 8][620] of Part 6 of the Criminal Procedure Act 2011, so far as they are applicable and with the necessary modifications, apply to any case stated under this section.
     
-    Compare: 1989 No 63 [s 112][621]
+    Compare: 1989 No 63 [s 112][622]
     
-    Section 210(2): amended, on 4 October 2013, by [regulation 3(1)][620] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    Section 210(2): amended, on 4 October 2013, by [regulation 3(1)][621] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 211 Decisions to be given in writing
     
@@ -4595,7 +4603,7 @@ Sale and supply of alcohol generally
     
     (6) A decision takes effect on the date stated in the decision (or, if no date is stated, on the date the decision is given).
     
-    Compare: 1989 No 63 [s 113][622]
+    Compare: 1989 No 63 [s 113][623]
 
 ### 
 
@@ -4605,7 +4613,7 @@ Sale and supply of alcohol generally
     
 *   Every holder of an on-licence (other than an on-licence endorsed under [section 37][45]), an off-licence, or a club licence must appoint a manager or managers in accordance with this Part.
     
-    Compare: 1989 No 63 [ss 26][623], [49][624], [71][625]
+    Compare: 1989 No 63 [ss 26][624], [49][625], [71][626]
 
 ##### 213 Appointment of manager: special licences
     
@@ -4613,7 +4621,7 @@ Sale and supply of alcohol generally
     
     (2) The licensing committee may exempt the holder of any special licence from the requirements of subsection (1) if it is satisfied that the licensee, or some other person nominated by the licensee, will manage the conduct of the sale of alcohol pursuant to the licence.
     
-    Compare: 1989 No 63 [s 84][626]
+    Compare: 1989 No 63 [s 84][627]
 
 ##### 214 Manager to be on duty at all times and responsible for compliance
     
@@ -4635,7 +4643,7 @@ Sale and supply of alcohol generally
     
     (4) At all times when alcohol is being sold or supplied on licensed premises the licensee must take all reasonable steps to enable the manager to comply with this section.
     
-    Compare: 1989 No 63 [s 115][627]
+    Compare: 1989 No 63 [s 115][628]
 
 ##### 215 Circumstances where section 214 does not apply
     
@@ -4675,13 +4683,13 @@ Sale and supply of alcohol generally
     
     (2) Subsection (1) does not affect any manager's certificate granted before the commencement of this section to a person under the age of 20\.
     
-    Compare: 1989 No 63 [s 116][628]
+    Compare: 1989 No 63 [s 116][629]
 
 ##### 217 Manager's certificate
     
 *   A manager's certificate authorises the holder to manage any licensed premises.
     
-    Compare: 1989 No 63 [s 117][629]
+    Compare: 1989 No 63 [s 117][630]
 
 ##### 218 Manager must hold prescribed qualification
     
@@ -4693,7 +4701,7 @@ Sale and supply of alcohol generally
     
     *   (b) the successful completion of a course of training, the requirements or criteria of which have been prescribed by regulations made under this Act.
     
-    Compare: 1989 No 63 [s 117A][630]
+    Compare: 1989 No 63 [s 117A][631]
 
 ##### 219 Applications for manager's certificates
     
@@ -4713,7 +4721,7 @@ Sale and supply of alcohol generally
     
     *   (b) in any other case, the licensing committee for the district in which the applicant is residing.
     
-    Compare: 1989 No 63 [s 118][631]
+    Compare: 1989 No 63 [s 118][632]
 
 ##### 220 Reports
     
@@ -4739,7 +4747,7 @@ Sale and supply of alcohol generally
     
     (5) The secretary must send to the applicant a copy of any reports filed with the licensing committee under this section.
     
-    Compare: 1989 No 63 [s 119][632]
+    Compare: 1989 No 63 [s 119][633]
 
 ##### 221 Who decides application for manager's certificate
     
@@ -4771,7 +4779,7 @@ Sale and supply of alcohol generally
     
     *   (e) any matters dealt with in any report made under [section 220][258].
     
-    Compare: 1989 No 63 [s 121][633]
+    Compare: 1989 No 63 [s 121][634]
 
 ##### 223 Duration of manager's certificates
     
@@ -4827,7 +4835,7 @@ Sale and supply of alcohol generally
     
     *   (e) be accompanied by the prescribed fee.
     
-    Compare: 1989 No 63 [s 123][634]
+    Compare: 1989 No 63 [s 123][635]
 
 ##### 225 Reports and applications for renewals
     
@@ -4853,7 +4861,7 @@ Sale and supply of alcohol generally
     
     (5) The secretary must send to the applicant a copy of any reports filed with the licensing committee under this section.
     
-    Compare: 1989 No 63 [s 124][635]
+    Compare: 1989 No 63 [s 124][636]
 
 ##### 226 Who decides application for renewal of manager's certificates
     
@@ -4869,7 +4877,7 @@ Sale and supply of alcohol generally
     
     *   (b) any reports made under [section 225][263].
     
-    Compare: 1989 No 63 [s 125][636]
+    Compare: 1989 No 63 [s 125][637]
 
 ##### 227 Criteria for renewal
     
@@ -4883,7 +4891,7 @@ Sale and supply of alcohol generally
     
     *   (d) any matters dealt with in any report made under [section 225][263].
     
-    Compare: 1989 No 63 [s 126][637]
+    Compare: 1989 No 63 [s 126][638]
 
 ##### 228 Decision on application for renewal
     
@@ -4893,7 +4901,7 @@ Sale and supply of alcohol generally
     
     (3) If the committee refuses to renew the certificate, it must state the day on which the certificate expires, and that day must be no later than 3 months after the date of its decision.
     
-    Compare: 1989 No 63 [s 127][638]
+    Compare: 1989 No 63 [s 127][639]
 
 #### Miscellaneous provisions
 
@@ -4905,7 +4913,7 @@ Sale and supply of alcohol generally
     
     (3) If the appointee does not apply for a manager's certificate within that period of 2 working days, or if the application is refused, the licensee must cease to employ the appointee as a manager.
     
-    Compare: 1989 No 63 [s 128][639]
+    Compare: 1989 No 63 [s 128][640]
 
 ##### 230 Acting manager
     
@@ -4917,7 +4925,7 @@ Sale and supply of alcohol generally
     
     (2) Every person appointed as an acting manager in accordance with this section must, while the appointment continues, be deemed for the purposes of this Act to be the holder of a manager's certificate, and it is not necessary for that person to apply for or hold a manager's certificate.
     
-    Compare: 1989 No 63 [s 129][640]
+    Compare: 1989 No 63 [s 129][641]
 
 ##### 231 Notice of appointment, etc, of manager, temporary manager, or acting manager
     
@@ -4941,7 +4949,7 @@ Sale and supply of alcohol generally
     
     (5) On receiving notice under subsection (4), the licensee must terminate the appointment with effect from a date not later than 5 working days after the date of the notice.
     
-    Compare: 1989 No 63 [s 130][641]
+    Compare: 1989 No 63 [s 130][642]
 
 ##### 232 Licensees to keep record of temporary and acting managers
     
@@ -4963,7 +4971,7 @@ Sale and supply of alcohol generally
     
     *   (b) a fine of not more than $40,000\.
     
-    Compare: 1989 No 63 [s 151][642]
+    Compare: 1989 No 63 [s 151][643]
 
 ##### 234 Allowing unlicensed premises to be used for sale of alcohol
     
@@ -4975,7 +4983,7 @@ Sale and supply of alcohol generally
     
     *   (b) a fine of not more than $40,000\.
     
-    Compare: 1989 No 63 [s 152][643]
+    Compare: 1989 No 63 [s 152][644]
 
 ##### 235 Use of unlicensed premises as place of resort for consumption of alcohol
     
@@ -4993,7 +5001,7 @@ Sale and supply of alcohol generally
     
     (5) Premises may be treated as being kept or used as a place of resort for the consumption of alcohol even though they are open only for the use of particular people or particular classes of person, and not to all people who wish to use them.
     
-    Compare: 1989 No 63 [s 153][644]
+    Compare: 1989 No 63 [s 153][645]
 
 ##### 236 People found on unlicensed premises kept as place of resort for consumption of alcohol
     
@@ -5007,7 +5015,7 @@ Sale and supply of alcohol generally
     
     *   (b) neither took part nor intended to take part in any unlawful sale, supply, or consumption of alcohol.
     
-    Compare: 1989 No 63 [s 154][645]
+    Compare: 1989 No 63 [s 154][646]
 
 #### Irresponsible promotion of alcohol
 
@@ -5059,7 +5067,7 @@ Sale and supply of alcohol generally
     
     *   (b) in the case of any other person, to a fine of not more than $10,000\.
     
-    Compare: 1989 No 63 [s 154A][646]
+    Compare: 1989 No 63 [s 154A][647]
 
 #### Banned and restricted alcohol products
 
@@ -5119,7 +5127,7 @@ Sale and supply of alcohol generally
     
     (8) A person does not commit an offence against subsection (1) or (2) by selling or supplying alcohol to a person who then supplies it to a third person who is under the purchase age, unless it is proved that the person knew or had reasonable grounds to believe that the alcohol was intended for a person under the purchase age.
     
-    Compare: 1989 No 63 [s 155][647]
+    Compare: 1989 No 63 [s 155][648]
 
 ##### 240 Exemptions in respect of licensed premises
     
@@ -5129,7 +5137,7 @@ Sale and supply of alcohol generally
     
     *   (b) the alcohol is supplied by his or her parent or guardian.
     
-    Compare: 1989 No 63 [s 157][648]
+    Compare: 1989 No 63 [s 157][649]
 
 ##### 241 Supplying alcohol to minors
     
@@ -5171,9 +5179,9 @@ Sale and supply of alcohol generally
     
     (6) A person does not commit an offence against subsection (1) by supplying alcohol to a person who then supplies it to a third person who is a minor, unless it is proved that the person knew or had reasonable grounds to believe that the alcohol was intended for a minor.
     
-    (7) This subsection applies to the minor at any time if he or she is then no longer subject to guardianship by operation of [section 28][649] of the Care of Children Act 2004\.
+    (7) This subsection applies to the minor at any time if he or she is then no longer subject to guardianship by operation of [section 28][650] of the Care of Children Act 2004\.
     
-    Compare: 1989 No 63 [s 160][650]
+    Compare: 1989 No 63 [s 160][651]
 
 ##### 242 Employment of minors
     
@@ -5193,7 +5201,7 @@ Sale and supply of alcohol generally
     
     *   (e) checking or removing cash.
     
-    Compare: 1989 No 63 [s 161][651]
+    Compare: 1989 No 63 [s 161][652]
 
 ##### 243 Buying of alcohol by people under purchase age
     
@@ -5201,7 +5209,7 @@ Sale and supply of alcohol generally
     
     (2) Subsection (1) does not apply to a person who buys alcohol on or from any licensed premises at the request of a constable acting in the course of his or her duties.
     
-    Compare: 1989 No 63 [s 162][652]
+    Compare: 1989 No 63 [s 162][653]
 
 ##### 244 Minors in restricted areas or supervised areas
     
@@ -5231,7 +5239,7 @@ Sale and supply of alcohol generally
     
     *   (d) who is in the supervised area for the purpose of selling or supplying alcohol.
     
-    Compare: 1989 No 63 [s 163][653]
+    Compare: 1989 No 63 [s 163][654]
 
 ##### 245 Permitting minors to be in restricted areas or supervised areas
     
@@ -5259,11 +5267,11 @@ Sale and supply of alcohol generally
     
     (4) In any proceedings for an offence against subsection (1) in respect of allowing a person (the _customer_) to enter or remain in a restricted area or supervised area, it is a defence if the defendant proves that the defendant, or an agent or employee of the defendant, verified the customer's age using an approved evidence of age system in the approved manner.
     
-    Compare: 1989 No 63 [s 164][654]
+    Compare: 1989 No 63 [s 164][655]
 
 ##### 246 Who is guardian
     
-*   For the purposes of this Act, a person is a minor's guardian only if he or she is guardian by virtue of the [Care of Children Act 2004][655].
+*   For the purposes of this Act, a person is a minor's guardian only if he or she is guardian by virtue of the [Care of Children Act 2004][656].
 
 #### Other offences on licensed premises
 
@@ -5289,7 +5297,7 @@ Sale and supply of alcohol generally
     
     *   (b) in the case of a manager, a fine of not more than $20,000\.
     
-    Compare: 1989 No 63 [s 165][656]
+    Compare: 1989 No 63 [s 165][657]
 
 ##### 248 Sale or supply of alcohol to intoxicated people
     
@@ -5313,7 +5321,7 @@ Sale and supply of alcohol generally
     
     (5) Subsection (3) applies irrespective of any liability that may attach to the licensee or any manager in respect of the same offence.
     
-    Compare: 1989 No 63 [s 166][657]
+    Compare: 1989 No 63 [s 166][658]
 
 ##### 249 Allowing people to become intoxicated
     
@@ -5331,7 +5339,7 @@ Sale and supply of alcohol generally
     
     *   (b) in the case of a manager, a fine of not more than $10,000\.
     
-    Compare: 1989 No 63 [s 167][658]
+    Compare: 1989 No 63 [s 167][659]
 
 ##### 250 Manager intoxicated on duty
     
@@ -5357,7 +5365,7 @@ Sale and supply of alcohol generally
     
     *   (b) to remove the person from the licensed premises.
     
-    Compare: 1989 No 63 [s 168][659]
+    Compare: 1989 No 63 [s 168][660]
 
 ##### 253 Allowing disorderly conduct on licensed premises
     
@@ -5371,7 +5379,7 @@ Sale and supply of alcohol generally
     
     *   (b) to remove the person from the licensed premises.
     
-    Compare: 1989 No 63 [s 168][659]
+    Compare: 1989 No 63 [s 168][660]
 
 ##### 254 Sales of spirit in vessel exceeding 500 ml
     
@@ -5381,7 +5389,7 @@ Sale and supply of alcohol generally
     
     (3) Subsection (1) does not apply to the sale or supply of any spirit to a person who is a lodger on the licensed premises for consumption in the part of the licensed premises in which that person lodges.
     
-    Compare: 1989 No 63 [s 169][660]
+    Compare: 1989 No 63 [s 169][661]
 
 ##### 255 Being on licensed premises outside licensing hours
     
@@ -5437,7 +5445,7 @@ Sale and supply of alcohol generally
     
     *   (b) that person's presence on the premises at that time is justified in terms of the special licence.
     
-    Compare: 1989 No 63 [s 170][661]
+    Compare: 1989 No 63 [s 170][662]
 
 ##### 256 Allowing people on licensed premises outside licensing hours
     
@@ -5445,7 +5453,7 @@ Sale and supply of alcohol generally
     
     (2) A person who commits an offence against subsection (1) is liable on conviction to a fine of not more than $10,000\.
     
-    Compare: 1989 No 63 [s 171][662]
+    Compare: 1989 No 63 [s 171][663]
 
 ##### 257 Offences relating to evidence of age documents
     
@@ -5471,7 +5479,7 @@ Sale and supply of alcohol generally
     
     (4) A person who commits an offence against this section is liable on conviction to a fine of not more than $2,000\.
     
-    Compare: 1989 No 63 [s 172][663]
+    Compare: 1989 No 63 [s 172][664]
 
 ##### 258 Licensee's offences in respect of manager
     
@@ -5485,7 +5493,7 @@ Sale and supply of alcohol generally
     
     (2) A person who commits an offence against subsection (1) is liable on conviction to a fine of not more than $5,000\.
     
-    Compare: 1989 No 63 [s 172A][664]
+    Compare: 1989 No 63 [s 172A][665]
 
 #### Failure to comply with requirement or restriction
 
@@ -5519,21 +5527,21 @@ Sale and supply of alcohol generally
     
     *   (b) an offence against [section 258(1)(b)][303] relating to a breach of [section 214(3)][251].
     
-    Compare: 1989 No 63 [s 162A][665]
+    Compare: 1989 No 63 [s 162A][666]
 
 ##### 261 Commission of infringement offences
     
 *   (1) A person who is alleged to have committed an infringement offence (other than an offence against [section 259][305]) may either---
         
-    *   (a) be proceeded against for the alleged offence by the filing of a charging document under the [Criminal Procedure Act 2011][666]; or
+    *   (a) be proceeded against for the alleged offence by the filing of a charging document under the [Criminal Procedure Act 2011][667]; or
     
     *   (b) be served with an infringement notice as provided for in [section 262][309].
     
     (2) A person who is alleged to have committed an offence against [section 259][305] may be served with an infringement notice as provided for in [section 262][309].
     
-    Compare: 1989 No 63 [s 162B][667]
+    Compare: 1989 No 63 [s 162B][668]
     
-    Section 261(1)(a): amended, on 4 October 2013, by [regulation 3(1)][620] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    Section 261(1)(a): amended, on 4 October 2013, by [regulation 3(1)][621] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 262 Infringement notices
     
@@ -5541,7 +5549,7 @@ Sale and supply of alcohol generally
     
     (2) Any constable or inspector (not necessarily the person who issued the notice) may deliver the infringement notice (or a copy of it) to the person alleged to have committed an infringement offence personally or by post addressed to that person's last known place of residence.
     
-    (3) For the purposes of the [Summary Proceedings Act 1957][668], an infringement notice (or a copy of it) sent to a person under subsection (2) is to be treated as having been served on that person when it was posted.
+    (3) For the purposes of the [Summary Proceedings Act 1957][669], an infringement notice (or a copy of it) sent to a person under subsection (2) is to be treated as having been served on that person when it was posted.
     
     (4) Every infringement notice must be in the prescribed form and must contain the following particulars:
         
@@ -5553,7 +5561,7 @@ Sale and supply of alcohol generally
     
     *   (d) the time within which the infringement fee must be paid; and
     
-    *   (e) a summary of the provisions of [section 21(10)][669] of the Summary Proceedings Act 1957; and
+    *   (e) a summary of the provisions of [section 21(10)][670] of the Summary Proceedings Act 1957; and
     
     *   (f) a statement that the person served with the notice has a right to request a hearing; and
     
@@ -5561,15 +5569,15 @@ Sale and supply of alcohol generally
     
     *   (h) any other particulars that may be prescribed.
     
-    (5) If an infringement notice has been issued under this section, the procedure under [section 21][669] of the Summary Proceedings Act 1957 may be used in respect of the offence to which the infringement notice relates and, in that case, the provisions of that section apply with all necessary modifications.
+    (5) If an infringement notice has been issued under this section, the procedure under [section 21][670] of the Summary Proceedings Act 1957 may be used in respect of the offence to which the infringement notice relates and, in that case, the provisions of that section apply with all necessary modifications.
     
-    Compare: 1989 No 63 [s 162C][670]
+    Compare: 1989 No 63 [s 162C][671]
 
 ##### 263 Payment of infringement fees
     
 *   All infringement fees paid in respect of infringement offences must be paid into a Crown Bank Account.
     
-    Compare: 1989 No 63 [s 162D][671]
+    Compare: 1989 No 63 [s 162D][672]
 
 ##### 264 Regulations
     
@@ -5607,7 +5615,7 @@ Sale and supply of alcohol generally
     
     (6) A person who commits an offence against subsection (5) is liable on conviction to a fine of not more than $3,000\.
     
-    Compare: 1989 No 63 [s 173][672]
+    Compare: 1989 No 63 [s 173][673]
 
 ##### 266 Closure of licensed premises by Police
     
@@ -5653,7 +5661,7 @@ Sale and supply of alcohol generally
     
     (9) A person who commits an offence against subsection (8) is liable on conviction to a fine of not more than $3,000\.
     
-    Compare: 1989 No 63 [s 174][673]
+    Compare: 1989 No 63 [s 174][674]
 
 #### Powers of entry on licensed premises
 
@@ -5681,7 +5689,7 @@ Sale and supply of alcohol generally
     
     *   (b) to provide any assistance or information when required to do so under subsection (3)(b).
     
-    Compare: 1989 No 63 [s 175][674]
+    Compare: 1989 No 63 [s 175][675]
 
 ##### 268 Power to seize samples of alcohol
     
@@ -5689,7 +5697,7 @@ Sale and supply of alcohol generally
     
     (2) If a constable or an inspector has reasonable cause to suspect that any person on the premises has committed, is committing, or is attempting to commit any offence against this Act, he or she may seize, without warrant, for the purpose of analysis, any liquid (including the container holding the liquid) in the possession of that person that is suspected of being alcohol.
     
-    Compare: 1989 No 63 [s 177A][675]
+    Compare: 1989 No 63 [s 177A][676]
 
 ##### 269 Power of Police to demand information
     
@@ -5705,7 +5713,7 @@ Sale and supply of alcohol generally
     
     *   (b) provides any particulars or evidence knowing that the particulars or evidence are false in a material respect.
     
-    Compare: 1989 No 63 [s 176][676]
+    Compare: 1989 No 63 [s 176][677]
 
 #### Further powers of Police
 
@@ -5713,7 +5721,7 @@ Sale and supply of alcohol generally
     
 *   (1) A constable may apply for a search warrant to search any premises.
     
-    (2) An issuing officer (within the meaning of [section 3][677] of the Search and Surveillance Act 2012) may, on an application by a constable in the manner provided in [subpart 3][678] of Part 4 of that Act, issue a search warrant to search any premises if satisfied that there are reasonable grounds for believing that---
+    (2) An issuing officer (within the meaning of [section 3][678] of the Search and Surveillance Act 2012) may, on an application by a constable in the manner provided in [subpart 3][679] of Part 4 of that Act, issue a search warrant to search any premises if satisfied that there are reasonable grounds for believing that---
         
     *   (a) any alcohol is being sold, or displayed or kept for sale, on any premises in which it may not lawfully be sold, or displayed or kept for sale; or
     
@@ -5721,11 +5729,11 @@ Sale and supply of alcohol generally
     
     (3) The issuing officer may impose reasonable conditions on the execution of the warrant.
     
-    Compare: 1989 No 63 [s 177(1), (4)][679]
+    Compare: 1989 No 63 [s 177(1), (4)][680]
 
 ##### 271 Search and Surveillance Act 2012 to apply
     
-*   [Part 4][680] of the Search and Surveillance Act 2012 applies to warrants issued under [section 270][320] and applications for them.
+*   [Part 4][681] of the Search and Surveillance Act 2012 applies to warrants issued under [section 270][320] and applications for them.
 
 #### Matters of evidence
 
@@ -5735,13 +5743,13 @@ Sale and supply of alcohol generally
     
     (2) In any proceedings for an offence against any of the provisions of this Act in relation to the sale of any alcohol, or the keeping or displaying of any alcohol for sale, on any unlicensed premises, it is not necessary for the prosecution to prove that the premises are, or were at any material time, unlicensed, unless at least 3 working days before the hearing the defendant puts the question in issue by written notice to that effect served on the prosecution.
     
-    Compare: 1989 No 63 [s 178][681]
+    Compare: 1989 No 63 [s 178][682]
 
 ##### 273 Matters of proof relating to content of alcohol
     
 *   In any proceedings for an offence against any of the provisions of this Act in relation to any alcohol, it is not necessary for the prosecution to prove that the substance concerned contains 1.15% or more ethanol by volume unless at least 20 working days before the hearing the defendant puts the question in issue by written notice to that effect served on the prosecution.
     
-    Compare: 1989 No 63 [s 179][682]
+    Compare: 1989 No 63 [s 179][683]
 
 ##### 274 Evidence of sale or consumption of alcohol
     
@@ -5757,7 +5765,7 @@ Sale and supply of alcohol generally
     
     *   (b) the age of any person may be proved by the production of---
             
-        *   (i) a birth certificate (within the meaning of [section 2][683] of the Births, Deaths, Marriages, and Relationships Registration Act 1995) relating to the person; or
+        *   (i) a birth certificate (within the meaning of [section 2][684] of the Births, Deaths, Marriages, and Relationships Registration Act 1995) relating to the person; or
         
         *   (ii) an approved evidence of age document; or
         
@@ -5765,7 +5773,7 @@ Sale and supply of alcohol generally
         
         
     
-    Compare: 1989 No 63 [s 180][684]
+    Compare: 1989 No 63 [s 180][685]
 
 #### Miscellaneous provisions
 
@@ -5773,7 +5781,7 @@ Sale and supply of alcohol generally
     
 *   The licensee of any licensed premises is not responsible for any offence against this Act committed by any manager of those premises except where the licensee is a party to the offence.
     
-    Compare: 1989 No 63 [s 181][685]
+    Compare: 1989 No 63 [s 181][686]
 
 ##### 276 Community Magistrates have jurisdiction in some cases
     
@@ -5811,9 +5819,9 @@ Sale and supply of alcohol generally
     
     (3) On the conviction of a licensee or a manager for an offence against this Act, the Registrar of the court by which the conviction was entered must send a notice of the conviction, together with any recommendation made by the court in respect of the licence, to the secretary of the licensing authority, the Police, the inspector, and the Medical Officer of Health.
     
-    Compare: 1989 No 63 [s 184][686]
+    Compare: 1989 No 63 [s 184][687]
     
-    Section 278(1): amended, on 4 October 2013, by [regulation 3(1)][620] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    Section 278(1): amended, on 4 October 2013, by [regulation 3(1)][621] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ### Subpart 9---Other enforcement provisions
 
@@ -5821,11 +5829,11 @@ Sale and supply of alcohol generally
 
 ##### 279 Building Act 2004
     
-*   (1) If an inspector believes that any building or sitework does not comply with the [Building Act 2004][687], the inspector must by notice in writing give to the appropriate territorial authority details of the respects in which the building or sitework is believed not to comply. 
+*   (1) If an inspector believes that any building or sitework does not comply with the [Building Act 2004][688], the inspector must by notice in writing give to the appropriate territorial authority details of the respects in which the building or sitework is believed not to comply. 
     
     (2) For the purposes of this section, **building**, **sitework**, and **territorial authority** have the meanings given to them by [section 7][507] of the Building Act 2004\.
     
-    Compare: 1989 No 63 [s 131A][688]
+    Compare: 1989 No 63 [s 131A][689]
 
 ##### 280 Variation, suspension, or cancellation of licences other than special licences
     
@@ -5873,7 +5881,7 @@ Sale and supply of alcohol generally
     
     (6) Instead of making an order under subsection (5), the licensing authority may adjourn the application for any period it thinks fit to give the licensee an opportunity to remedy any matters that the licensing authority may require to be remedied within that period.
     
-    Compare: 1989 No 63 [s 132][689]
+    Compare: 1989 No 63 [s 132][690]
 
 ##### 281 Suspension or cancellation of licences by licensing authority in respect of certain offences
     
@@ -5911,7 +5919,7 @@ Sale and supply of alcohol generally
     
     *   (d) give at least 10 working days' notice of the date, time, and place of the hearing to the Police and the licensee.
     
-    Compare: 1989 No 63 [s 132A(1)--(5)][690]
+    Compare: 1989 No 63 [s 132A(1)--(5)][691]
 
 ##### 282 Hearing for suspension or cancellation under section 281
     
@@ -5937,7 +5945,7 @@ Sale and supply of alcohol generally
     
     (4) Instead of making an order under subsection (3), the licensing authority may adjourn the hearing for any period it thinks fit to give the licensee an opportunity to remedy any matters that the licensing authority may require to be remedied within the period.
     
-    Compare: 1989 No 63 [s 132A(5)--(10)][690]
+    Compare: 1989 No 63 [s 132A(5)--(10)][691]
 
 ##### 283 Variation, suspension, or cancellation of special licences
     
@@ -5973,7 +5981,7 @@ Sale and supply of alcohol generally
     
     *   (c) give at least 10 working days' notice of the date, time, and place of the hearing to the applicant and the licensee.
     
-    Compare: 1989 No 63 [s 133(1), (2), (3), and (4)][691]
+    Compare: 1989 No 63 [s 133(1), (2), (3), and (4)][692]
 
 ##### 284 Hearing for variation, suspension, or cancellation of special licences under section 283
     
@@ -5991,7 +5999,7 @@ Sale and supply of alcohol generally
     
     (3) If the licensing committee makes an order under this section, the secretary must send a copy to the secretary of the licensing authority.
     
-    Compare: 1989 No 63 [s 133(5)--(8)][691]
+    Compare: 1989 No 63 [s 133(5)--(8)][692]
 
 ##### 285 Suspension or cancellation of manager's certificates
     
@@ -6031,13 +6039,13 @@ Sale and supply of alcohol generally
     
     (6) Instead of making an order under subsection (5), the licensing authority may adjourn the application for any period it thinks fit to give the manager an opportunity to remedy any matters that the licensing authority may require to be remedied within that period.
     
-    Compare: 1989 No 63 [s 135][692]
+    Compare: 1989 No 63 [s 135][693]
 
 ##### 286 Suspension of licence for non-compliance with public health or fire precaution requirements
     
-*   (1) A Medical Officer of Health or any member of the fire service authorised to enter buildings under [section 21F][693] or [29][694] of the Fire Service Act 1975 may apply to the licensing committee for the suspension of the licence if he or she has reason to believe that, because of the failure of the holder of any on-licence or club licence to comply with any requirements described in subsection (2), the health of persons using the premises is likely to be injured or their safety is likely to be endangered.
+*   (1) A Medical Officer of Health or any member of the fire service authorised to enter buildings under [section 21F][694] or [29][695] of the Fire Service Act 1975 may apply to the licensing committee for the suspension of the licence if he or she has reason to believe that, because of the failure of the holder of any on-licence or club licence to comply with any requirements described in subsection (2), the health of persons using the premises is likely to be injured or their safety is likely to be endangered.
     
-    (2) The requirements are those relating to public health or to the escape of people in the event of fire (whether in accordance with an evacuation scheme for public safety which meets the requirements of [section 21B][575] of the Fire Service Act 1975 or by other means) other than requirements under the [Building Act 2004][687].
+    (2) The requirements are those relating to public health or to the escape of people in the event of fire (whether in accordance with an evacuation scheme for public safety which meets the requirements of [section 21B][576] of the Fire Service Act 1975 or by other means) other than requirements under the [Building Act 2004][688].
     
     (3) The licensing committee must give notice in writing to the licensee calling upon the licensee to appear before the committee at a time and place to be specified in the notice, being not earlier than 7 working days after the giving of the notice, to show cause why the licence should not be suspended.
     
@@ -6055,7 +6063,7 @@ Sale and supply of alcohol generally
     
     (8) While any licence is suspended the premises must be treated as not being licensed premises.
     
-    Compare: 1989 No 63 [s 134][695]
+    Compare: 1989 No 63 [s 134][696]
 
 ##### 287 Automatic suspension of licence for non-payment of annual fee
     
@@ -6270,13 +6278,13 @@ Licensing trusts, community trusts, and other matters
     
     (4) The boundaries of the licensing trust district and any wards must coincide with the boundaries of the current statistical meshblock areas determined by Statistics New Zealand and used for parliamentary electoral purposes.
     
-    Compare: 1989 No 63 [s 185(1), (3)][696]
+    Compare: 1989 No 63 [s 185(1), (3)][697]
 
 ##### 301 When Minister must recommend establishment of licensing trust
     
 *   The Minister must recommend the making of an order establishing a licensing trust for an area on the request in writing of at least 15% of the residential electors of the area.
     
-    Compare: 1989 No 63 [s 185(2)][696]
+    Compare: 1989 No 63 [s 185(2)][697]
 
 ##### 302 Licensing trust is body corporate
     
@@ -6284,17 +6292,17 @@ Licensing trusts, community trusts, and other matters
     
     (2) A licensing trust must have a seal.
     
-    Compare: 1989 No 63 [s 186][697]
+    Compare: 1989 No 63 [s 186][698]
 
 ##### 303 Existing licensing trusts continue in existence
     
 *   (1) This section applies to a licensing trust constituted under the [Sale of Liquor Act 1989][517] and in existence immediately before the commencement of this Act (in this section called an _existing licensing trust_).
     
-    (2) The existing licensing trusts are the trusts listed in [Parts 1][698] and [2][699] of Schedule 1\.
+    (2) The existing licensing trusts are the trusts listed in [Parts 1][699] and [2][700] of Schedule 1\.
     
-    (3) An existing licensing trust continues in existence as if it were a trust established under this Act except that the next election of its members must be held on the day on which the next succeeding triennial general election of members of territorial authorities is held under the [Local Electoral Act 2001][700].
+    (3) An existing licensing trust continues in existence as if it were a trust established under this Act except that the next election of its members must be held on the day on which the next succeeding triennial general election of members of territorial authorities is held under the [Local Electoral Act 2001][701].
     
-    Compare: 1989 No 63 [s 241(1)][701]
+    Compare: 1989 No 63 [s 241(1)][702]
 
 ##### 304 Alteration of trust boundaries
     
@@ -6332,13 +6340,13 @@ Licensing trusts, community trusts, and other matters
     
     *   (b) issue debt securities.
     
-    Compare: 1989 No 63 [s 187][702]; 2004 No 115 [ss 17][703], [18][704]
+    Compare: 1989 No 63 [s 187][703]; 2004 No 115 [ss 17][704], [18][705]
 
 ##### 306 Licensing trust liable to taxes
     
 *   A licensing trust is liable to income tax, rates, and all other taxes and duties, as if it were a body corporate formed for private pecuniary gain.
     
-    Compare: 1989 No 63 [s 188][705]
+    Compare: 1989 No 63 [s 188][706]
 
 ##### 307 How licensing trust may spend profits
     
@@ -6350,7 +6358,7 @@ Licensing trusts, community trusts, and other matters
     
     *   (c) any other philanthropic purposes.
     
-    Compare: 1989 No 63 [s 189][706]
+    Compare: 1989 No 63 [s 189][707]
 
 #### Elections
 
@@ -6358,7 +6366,7 @@ Licensing trusts, community trusts, and other matters
     
 *   The members of a licensing trust are elected in accordance with [sections 309 to 314][370].
     
-    Compare: 1989 No 63 [s 190][707]
+    Compare: 1989 No 63 [s 190][708]
 
 ##### 309 Qualification to be elected or appointed member
     
@@ -6368,7 +6376,7 @@ Licensing trusts, community trusts, and other matters
     
     *   (b) in the case of a trust district divided into wards, is qualified under [section 312(2)][373] to vote in the ward to which the election or appointment relates.
     
-    Compare: 1989 No 63 [s 200(1)(a)][708]
+    Compare: 1989 No 63 [s 200(1)(a)][709]
 
 ##### 310 First election of members
     
@@ -6376,7 +6384,7 @@ Licensing trusts, community trusts, and other matters
     
     (2) The electoral officer for the election is the electoral officer of the territorial authority in whose district the licensing trust is situated.
     
-    Compare: 1989 No 63 [s 191][709]
+    Compare: 1989 No 63 [s 191][710]
 
 ##### 311 Second and later elections
     
@@ -6390,7 +6398,7 @@ Licensing trusts, community trusts, and other matters
     
     (3) The electoral officer for the second and later elections is the electoral officer of the territorial authority in whose district the licensing trust is situated.
     
-    Compare: 1989 No 63 [s 192][710]
+    Compare: 1989 No 63 [s 192][711]
 
 ##### 312 Who is qualified to vote in election of members of licensing trust
     
@@ -6402,13 +6410,13 @@ Licensing trusts, community trusts, and other matters
     
     *   (b) is not qualified to vote in the election of any other member.
     
-    Compare: 1989 No 63 [s 193][711]
+    Compare: 1989 No 63 [s 193][712]
 
 ##### 313 Conduct of election
     
-*   Subject to this Part and any regulations made under this Act, the election of the members of a licensing trust must be conducted under the [Local Electoral Act 2001][700] as an election under that Act.
+*   Subject to this Part and any regulations made under this Act, the election of the members of a licensing trust must be conducted under the [Local Electoral Act 2001][701] as an election under that Act.
     
-    Compare: 1989 No 63 [s 194(1)][712]
+    Compare: 1989 No 63 [s 194(1)][713]
 
 ##### 314 Electoral roll
     
@@ -6426,7 +6434,7 @@ Licensing trusts, community trusts, and other matters
     
     (3) The electoral officer may indicate the names of persons qualified to vote by appropriate words, abbreviations, or marks.
     
-    Compare: 1989 No 63 [s 194][712]
+    Compare: 1989 No 63 [s 194][713]
 
 ##### 315 Governor-General may appoint members to make up required number
     
@@ -6438,7 +6446,7 @@ Licensing trusts, community trusts, and other matters
     
     (2) A person appointed under this section holds office as if that person had been duly elected at the election.
     
-    Compare: 1989 No 63 [s 195][713]
+    Compare: 1989 No 63 [s 195][714]
 
 ##### 316 Term of office
     
@@ -6464,7 +6472,7 @@ Licensing trusts, community trusts, and other matters
     
     (4) The president comes into office on election and holds office until the election of a successor, and may stand for re-election as president.
     
-    Compare: 1989 No 63 [s 196(1)--(5)][714]
+    Compare: 1989 No 63 [s 196(1)--(5)][715]
 
 ##### 318 Vacancy in office of president
     
@@ -6476,7 +6484,7 @@ Licensing trusts, community trusts, and other matters
     
     (2) Where a vacancy occurs, the secretary must convene a meeting of the trust for the election of a successor as president. 
     
-    Compare: 1989 No 63 [s 196(5), (6)][714]
+    Compare: 1989 No 63 [s 196(5), (6)][715]
 
 ##### 319 Deputy president
     
@@ -6486,7 +6494,7 @@ Licensing trusts, community trusts, and other matters
     
     (3) The exercise or performance by the deputy president of any power, duty, or function of the president is conclusive evidence of his or her authority to exercise or perform that power, duty, or function.
     
-    Compare: 1989 No 63 [s 197][715]
+    Compare: 1989 No 63 [s 197][716]
 
 ##### 320 Minister may appoint deputy of member
     
@@ -6504,13 +6512,13 @@ Licensing trusts, community trusts, and other matters
     
     *   (b) the ground for making the appointment had come to an end.
     
-    Compare: 1989 No 63 [s 198][716]
+    Compare: 1989 No 63 [s 198][717]
 
 ##### 321 Remuneration
     
 *   A licensing trust may pay the president and each member of the trust fees, travelling allowances, and expenses in accordance with the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies.
     
-    Compare: 1989 No 63 [s 199][717]
+    Compare: 1989 No 63 [s 199][718]
 
 #### Disqualification and vacancies
 
@@ -6524,25 +6532,25 @@ Licensing trusts, community trusts, and other matters
     
     (2) If the effect of the alteration of the boundaries of a trust district or ward on the recommendation of the Local Government Commission under [section 304][364] or [337][403] is to disqualify a person under subsection (1)(a), he or she is to be treated as if he or she were not disqualified under that subsection for the purposes of the 2 next following triennial general elections of members, unless he or she changes his or her residential address during that period.
     
-    Compare: 1989 No 63 [s 200(1), (1A)][708]
+    Compare: 1989 No 63 [s 200(1), (1A)][709]
 
 ##### 323 Disqualification from continuing to be member of licensing trust
     
 *   (1) A member of a licensing trust is disqualified from continuing to be a member of the trust if he or she would be disqualified under [section 322][385] from election or appointment as a member.
     
-    (2) However, where an order is made under [section 30][718] of the Protection of Personal and Property Rights Act 1988 in respect of a member of a licensing trust,---
+    (2) However, where an order is made under [section 30][719] of the Protection of Personal and Property Rights Act 1988 in respect of a member of a licensing trust,---
         
     *   (a) the member is not disqualified from continuing as a member of the trust by reason only of the order; but
     
     *   (b) while the order remains in force, the member is deemed to have been granted leave of absence and is not capable of acting as a member of the trust.
     
-    Compare: 1989 No 63 [s 201(2)][719]
+    Compare: 1989 No 63 [s 201(2)][720]
 
 ##### 324 Offence of acting as member of licensing trust while disqualified
     
 *   A person who, while disqualified under [section 322][385] or [323][386], does any act as a member of a licensing trust commits an offence and is liable on conviction to a fine of not more than $1,000\.
     
-    Compare: 1989 No 63 [s 200(4)][708]
+    Compare: 1989 No 63 [s 200(4)][709]
 
 ##### 325 Vacation of office by members
     
@@ -6558,13 +6566,13 @@ Licensing trusts, community trusts, and other matters
     
     *   (e) is absent without the leave of the trust from 4 consecutive meetings of the trust.
     
-    Compare: 1989 No 63 [s 201(1)][719]
+    Compare: 1989 No 63 [s 201(1)][720]
 
 ##### 326 Extraordinary vacancies
     
 *   (1) An extraordinary vacancy in the office of a member of a licensing trust occurs when a member vacates office under [section 325][388].
     
-    (2) An extraordinary vacancy must be filled by an election under the applicable provisions of the [Local Electoral Act 2001][700].
+    (2) An extraordinary vacancy must be filled by an election under the applicable provisions of the [Local Electoral Act 2001][701].
     
     (3) However, if the extraordinary vacancy is a vacancy in the office of an elected member that occurs 12 months or less than 12 months before the date fixed for the next triennial general election of members, either---
         
@@ -6574,7 +6582,7 @@ Licensing trusts, community trusts, and other matters
     
     (4) A person elected or appointed to fill an extraordinary vacancy holds office only for the remainder of the previous member's term.
     
-    Compare: 1989 No 63 [s 202][720]
+    Compare: 1989 No 63 [s 202][721]
 
 #### Removal from office
 
@@ -6584,7 +6592,7 @@ Licensing trusts, community trusts, and other matters
     
     (2) For the purpose of this section, a _removal summons_ is a summons in the prescribed form requiring the member in question to appear before the District Court and give reasons why he or she should not be removed from office on the ground of disqualification or other incapacity referred to in subsection (1).
     
-    Compare: 1989 No 63 [s 203(1)][721]
+    Compare: 1989 No 63 [s 203(1)][722]
 
 ##### 328 District Court may remove member from office
     
@@ -6602,7 +6610,7 @@ Licensing trusts, community trusts, and other matters
     
     (3) The District Court must not under this section hear any matter in relation to a disputed election of a member of a licensing trust.
     
-    Compare: 1989 No 63 [s 203(2)--(5)][721]
+    Compare: 1989 No 63 [s 203(2)--(5)][722]
 
 #### Conduct of business
 
@@ -6610,7 +6618,7 @@ Licensing trusts, community trusts, and other matters
     
 *   The first meeting of a licensing trust established under [section 300][360] must be held at the time and place appointed by the person nominated by the Order in Council establishing the trust to chair the first meeting.
     
-    Compare: 1989 No 63 [s 204(1)][722]
+    Compare: 1989 No 63 [s 204(1)][723]
 
 ##### 330 Procedure at meetings 
     
@@ -6622,7 +6630,7 @@ Licensing trusts, community trusts, and other matters
     
     (4) The person chairing the meeting may vote in his or her own right as a member, and as chair has a casting vote if the voting is tied. 
     
-    Compare: 1989 No 63 [s 204(2)--(5)][722]
+    Compare: 1989 No 63 [s 204(2)--(5)][723]
 
 ##### 331 Trusts may determine own procedure
     
@@ -6638,9 +6646,9 @@ Licensing trusts, community trusts, and other matters
     
     *   (b) any regulations made under this Act; and
     
-    *   (c) the [Local Government Official Information and Meetings Act 1987][610].
+    *   (c) the [Local Government Official Information and Meetings Act 1987][611].
     
-    Compare: 1989 No 63 [s 205][723]
+    Compare: 1989 No 63 [s 205][724]
 
 ##### 332 Financial year
     
@@ -6650,7 +6658,7 @@ Licensing trusts, community trusts, and other matters
     
 *   (1) The members of a licensing trust must ensure that full and correct accounts of all the financial transactions of the licensing trust and its assets, liabilities, and funds are kept.
     
-    (2) If the members fail to comply with subsection (1), each member commits an offence and is liable on conviction to the penalty set out in [section 374(2)][724] of the Companies Act 1993 but subject to [section 376][725] of that Act, which applies as if the members were the board of a company.
+    (2) If the members fail to comply with subsection (1), each member commits an offence and is liable on conviction to the penalty set out in [section 374(2)][725] of the Companies Act 1993 but subject to [section 376][726] of that Act, which applies as if the members were the board of a company.
 
 ##### 334 Financial statements
     
@@ -6662,7 +6670,7 @@ Licensing trusts, community trusts, and other matters
     
     (4) The audited financial statements must, as soon as practicable after the completion of their audit, be publicly notified in accordance with regulations made under this Act.
     
-    (5) If the members fail to comply with the requirements of this section, each member commits an offence and is liable on conviction to the penalty set out in [section 374(2)][724] of the Companies Act 1993 but subject to [section 376][725] of that Act, which applies as if the members were the board of a company.
+    (5) If the members fail to comply with the requirements of this section, each member commits an offence and is liable on conviction to the penalty set out in [section 374(2)][725] of the Companies Act 1993 but subject to [section 376][726] of that Act, which applies as if the members were the board of a company.
 
 ##### 335 Annual meeting of electors
     
@@ -6690,13 +6698,13 @@ Licensing trusts, community trusts, and other matters
         
         
     
-    Compare: 1989 No 63 [s 207A][726]
+    Compare: 1989 No 63 [s 207A][727]
 
 ##### 336 Power to compromise with creditors
     
-*   A licensing trust has the power to enter into a compromise or arrangement with its creditors as if it were a company incorporated under the [Companies Act 1993][727], and that Act applies, with any necessary modifications, to that compromise or arrangement.
+*   A licensing trust has the power to enter into a compromise or arrangement with its creditors as if it were a company incorporated under the [Companies Act 1993][728], and that Act applies, with any necessary modifications, to that compromise or arrangement.
     
-    Compare: 1989 No 63 [s 208][728]
+    Compare: 1989 No 63 [s 208][729]
 
 #### Variation of licensing trust
 
@@ -6738,7 +6746,7 @@ Licensing trusts, community trusts, and other matters
     
     *   (b) in the case of proposed wards, new boundaries to coincide with meshblocks.
     
-    Compare: 1989 No 63 [s 209][729]
+    Compare: 1989 No 63 [s 209][730]
 
 ##### 338 Creation, alteration, or abolition of wards takes effect at next triennial general election of members
     
@@ -6752,13 +6760,13 @@ Licensing trusts, community trusts, and other matters
     
     (2) The creation, alteration, or abolition of a ward referred to in subsection (1) takes effect only at the next triennial general election of members, except to the extent that is necessary for holding that election.
     
-    Compare: 1989 No 63 [s 210(1)][730]
+    Compare: 1989 No 63 [s 210(1)][731]
 
 ##### 339 Alteration of number of members for ward takes effect at next triennial general election of members
     
 *   Where the number of members for a ward of a divided trust district is altered, the alteration takes effect only at the next triennial general election of members, except to the extent that is necessary for holding that election.
     
-    Compare: 1989 No 63 [s 210(2)][730]
+    Compare: 1989 No 63 [s 210(2)][731]
 
 #### Amalgamation of licensing trusts
 
@@ -6766,7 +6774,7 @@ Licensing trusts, community trusts, and other matters
     
 *   Two or more licensing trusts may be amalgamated into 1 new trust in accordance with [sections 341 to 345][408].
     
-    Compare: 1989 No 63 [s 211(1)][731]
+    Compare: 1989 No 63 [s 211(1)][732]
 
 ##### 341 Notice of amalgamation proposal
     
@@ -6786,7 +6794,7 @@ Licensing trusts, community trusts, and other matters
     
     *   (b) may include any other information the licensing trusts concerned think necessary or desirable to inform electors properly of the proposal.
     
-    Compare: 1989 No 63 [s 211(2)][731]
+    Compare: 1989 No 63 [s 211(2)][732]
 
 ##### 342 Meeting to discuss amalgamation proposal
     
@@ -6794,7 +6802,7 @@ Licensing trusts, community trusts, and other matters
     
     (2) If 50 or more electors request a meeting, the trust must hold a public meeting within 20 working days after it receives the required number of requests.
     
-    Compare: 1989 No 63 [s 211(3)][731]
+    Compare: 1989 No 63 [s 211(3)][732]
 
 ##### 343 Poll on amalgamation proposal
     
@@ -6806,7 +6814,7 @@ Licensing trusts, community trusts, and other matters
     
     (4) The amalgamation proposal is approved if a majority of the number of valid votes recorded is in favour of the proposal.
     
-    Compare: 1989 No 63 [s 211(4), (5)][731]
+    Compare: 1989 No 63 [s 211(4), (5)][732]
 
 ##### 344 Amalgamation by Order in Council
     
@@ -6822,7 +6830,7 @@ Licensing trusts, community trusts, and other matters
     
     *   (b) define the district of the new trust in conformity with the appropriate meshblocks.
     
-    Compare: 1989 No 63 [s 211(6), (7)][731]
+    Compare: 1989 No 63 [s 211(6), (7)][732]
 
 ##### 345 Effect of Order in Council
     
@@ -6862,17 +6870,17 @@ Licensing trusts, community trusts, and other matters
     
     *   (f) entitles any employee to receive any payment or other benefit by reason that he or she ceased, as a result of this Act, to be an employee of an amalgamating trust.
     
-    Compare: 1989 No 63 [s 211(8)][731]
+    Compare: 1989 No 63 [s 211(8)][732]
 
 #### Voluntary administration and liquidation
 
 ##### 346 Voluntary administration and liquidation under Companies Act 1993
     
-*   (1) [Parts 15A][732], [16][733], and [17][734] of the Companies Act 1993 apply, with any necessary modifications, to a licensing trust as if it were a company incorporated under that Act.
+*   (1) [Parts 15A][733], [16][734], and [17][735] of the Companies Act 1993 apply, with any necessary modifications, to a licensing trust as if it were a company incorporated under that Act.
     
-    (2) However, [section 241(2)(a) and (b)][735] of the Companies Act 1993 does not apply to the liquidation of a licensing trust, and instead a liquidator may be appointed by a resolution of the members.
+    (2) However, [section 241(2)(a) and (b)][736] of the Companies Act 1993 does not apply to the liquidation of a licensing trust, and instead a liquidator may be appointed by a resolution of the members.
     
-    Compare: 1989 No 63 [s 212][736]
+    Compare: 1989 No 63 [s 212][737]
 
 ##### 347 Distribution of assets
     
@@ -6882,15 +6890,15 @@ Licensing trusts, community trusts, and other matters
     
     (3) For the purposes of subsection (2), the number of residents who are electors is to be counted as at the date of the last triennial general election of members.
     
-    Compare: 1989 No 63 [s 213][737]
+    Compare: 1989 No 63 [s 213][738]
 
 #### Special provisions relating to existing district and suburban trusts
 
 ##### 348 Application of sections 349 and 350
     
-*   [Sections 349][418] and [350][419] apply to each of the district and suburban licensing trusts named in [Part 1][698] of Schedule 1\.
+*   [Sections 349][418] and [350][419] apply to each of the district and suburban licensing trusts named in [Part 1][699] of Schedule 1\.
     
-    Compare: 1989 No 63 [s 214][738]
+    Compare: 1989 No 63 [s 214][739]
 
 ##### 349 Poll may be held on competition proposal
     
@@ -6912,17 +6920,19 @@ Licensing trusts, community trusts, and other matters
     
     (5) If the competition proposal is not carried, no further poll must be held under this section in respect of that licensing trust until a period of 3 years has expired.
     
-    Compare: 1989 No 63 [s 215][739]
+    Compare: 1989 No 63 [s 215][740]
 
 ##### 350 Monopoly provisions continue to apply
     
-*   Unless and until a competition proposal is carried in respect of a licensing trust to which this section applies, then, despite any of the other provisions of this Act,---
+*   (1) Unless and until a competition proposal is carried in respect of a licensing trust to which this section applies, then, despite any of the other provisions of this Act,---
         
     *   (a) an on-licence must not be issued to any person other than the licensing trust for any hotel or tavern in the trust district:
     
     *   (b) an off-licence must not be issued for any premises in the trust district, except---
             
         *   (i) to the licensing trust; or
+        
+        *   (ia) for premises for which a licence to which subsection (4) applies is held; or
         
         *   (ii) for any premises on which any kind of alcohol is made:
         
@@ -6946,7 +6956,27 @@ Licensing trusts, community trusts, and other matters
     
     *   (d) the licensing trust must not spend or distribute any of its net profits under [section 307][367] outside the trust district.
     
+    (2) Every off-licence issued under subsection (1)(b)(ia) must be issued subject to a condition that alcohol must not be sold or delivered on or from the premises for which the licence is held unless it is alcohol of a kind that, immediately before the commencement of the [Sale of Liquor Act 1989][517], could have been sold or delivered under a wine reseller's licence granted under the Sale of Liquor Act 1962\.
     
+    (3) A licence must, if renewed, be renewed subject to a condition that alcohol must not be sold or delivered on or from the premises for which the licence is held unless it is alcohol of a kind that, immediately before the commencement of the [Sale of Liquor Act 1989][517], could have been sold or delivered under a wine reseller's licence granted under the Sale of Liquor Act 1962, if it is---
+        
+    *   (a) an off-licence issued under subsection (1)(b)(ia) of this section or [section 216(b)(iii)][741] of the Sale of Liquor Act 1989; or
+    
+    *   (b) a licence to which subsection (4) applies.
+    
+    (4) This subsection applies to a licence if---
+        
+    *   (a) it was granted as a wine reseller's licence under the Sale of Liquor Act 1962; or
+    
+    *   (b) it is an off-licence granted in substitution for a wine reseller's licence granted under the Sale of Liquor Act 1962\.
+    
+    Section 350(1)(b)(ia): inserted, on 5 December 2013, by [section 5(1)][742] of the Sale and Supply of Alcohol Amendment Act 2013 (2013 No 131).
+    
+    Section 350(2): inserted, on 5 December 2013, by [section 5(2)][742] of the Sale and Supply of Alcohol Amendment Act 2013 (2013 No 131).
+    
+    Section 350(3): inserted, on 5 December 2013, by [section 5(2)][742] of the Sale and Supply of Alcohol Amendment Act 2013 (2013 No 131).
+    
+    Section 350(4): inserted, on 5 December 2013, by [section 5(2)][742] of the Sale and Supply of Alcohol Amendment Act 2013 (2013 No 131).
 
 ### Subpart 2---Community trusts
 
@@ -6958,7 +6988,7 @@ Licensing trusts, community trusts, and other matters
     
     (2) The members must not, within 12 months after any poll held under [section 356][427], pass a resolution for conversion of the licensing trust to a community trust.
     
-    Compare: 1989 No 63 [s 219A][740]
+    Compare: 1989 No 63 [s 219A][743]
 
 ##### 352 Public notice of resolution
     
@@ -6966,7 +6996,7 @@ Licensing trusts, community trusts, and other matters
     
     (2) The notice must refer to the right of electors of the licensing trust to request a meeting to be called under [section 353][424] and to require a poll to be held under [section 355][426].
     
-    Compare: 1989 No 63 [s 219B][741]
+    Compare: 1989 No 63 [s 219B][744]
 
 ##### 353 Electors may request meeting
     
@@ -6974,7 +7004,7 @@ Licensing trusts, community trusts, and other matters
     
     (2) If 50 or more electors request a meeting, the trust must hold a public meeting within 20 working days after it receives the required number of requests.
     
-    Compare: 1989 No 63 [s 219C][742]
+    Compare: 1989 No 63 [s 219C][745]
 
 ##### 354 Meeting to discuss resolution
     
@@ -6986,7 +7016,7 @@ Licensing trusts, community trusts, and other matters
     
     (4) If the meeting revokes the resolution, the trust must not pass another resolution under [section 351][422] before 1 year or more elapses after the date of the resolution.
     
-    Compare: 1989 No 63 [s 219D][743]
+    Compare: 1989 No 63 [s 219D][746]
 
 ##### 355 Poll on resolution
     
@@ -7010,7 +7040,7 @@ Licensing trusts, community trusts, and other matters
     
     (5) If on the poll the majority of electors who vote are not in favour of the resolution, the trust must not pass another resolution under [section 351][422] within 12 months after the date of the poll.
     
-    Compare: 1989 No 63 [s 219E][744]
+    Compare: 1989 No 63 [s 219E][747]
 
 ##### 356 Electors may request poll on conversion at any time
     
@@ -7026,7 +7056,7 @@ Licensing trusts, community trusts, and other matters
     
     (4) If on the poll the majority of electors who vote are against conversion, the trust must not hold another poll under this section within 3 years after the date of the poll.
     
-    Compare: 1989 No 63 [s 219F][745]
+    Compare: 1989 No 63 [s 219F][748]
 
 ##### 357 Establishment of community trust
     
@@ -7080,7 +7110,7 @@ Licensing trusts, community trusts, and other matters
     
     *   (f) entitles any employee to receive any payment or other benefit by reason that he or she ceased, as a result of this Act, to be an employee of the licensing trust.
     
-    Compare: 1989 No 63 [s 219H][746]
+    Compare: 1989 No 63 [s 219H][749]
 
 #### Status, name, region, and functions of community trust
 
@@ -7092,11 +7122,11 @@ Licensing trusts, community trusts, and other matters
     
     (3) The common seal of a community trust must be judicially noticed in all courts and for all purposes.
     
-    Compare: 1989 No 63 [s 219I(1), (3)][747]
+    Compare: 1989 No 63 [s 219I(1), (3)][750]
 
 ##### 360 Existing community trust continues in existence
     
-*   The trust listed in [Part 3][748] of Schedule 1 continues in existence as if it were established under this Act except that the next election of its trustees must be held on the day on which the next succeeding triennial general election of members of territorial authorities is held under the [Local Electoral Act 2001][700].
+*   The trust listed in [Part 3][751] of Schedule 1 continues in existence as if it were established under this Act except that the next election of its trustees must be held on the day on which the next succeeding triennial general election of members of territorial authorities is held under the [Local Electoral Act 2001][701].
 
 ##### 361 Name of community trust
     
@@ -7104,13 +7134,13 @@ Licensing trusts, community trusts, and other matters
     
     (2) A community trust may change its name, subject to subsection (1) and its trust deed.
     
-    Compare: 1989 No 63 [s 219J][749]
+    Compare: 1989 No 63 [s 219J][752]
 
 ##### 362 Region of community trust
     
 *   The region of a community trust is the same as the district of the licensing trust immediately before it was converted to a community trust.
     
-    Compare: 1989 No 63 [s 219K][750]
+    Compare: 1989 No 63 [s 219K][753]
 
 ##### 363 Alteration of community trust boundaries
     
@@ -7130,7 +7160,7 @@ Licensing trusts, community trusts, and other matters
     
     (2) A community trust is authorised, but not required, to hold 1 or more licences under this Act and to carry on the business of selling or supplying (or selling and supplying) alcohol.
     
-    Compare: 1989 No 63 [s 219I(2)][747]
+    Compare: 1989 No 63 [s 219I(2)][750]
 
 ##### 365 How community trust may spend profits
     
@@ -7138,7 +7168,7 @@ Licensing trusts, community trusts, and other matters
     
     (2) However, a community trust may, instead of applying all of its net profit as required by subsection (1), retain so much of its net profit as it thinks prudent for the purposes of its activities (including any proposed activities).
     
-    Compare: 1989 No 63 [s 219M][751]
+    Compare: 1989 No 63 [s 219M][754]
 
 #### Trust deed
 
@@ -7174,7 +7204,7 @@ Licensing trusts, community trusts, and other matters
     
     *   (n) any other matter that the licensing trust or community trust concerned considers appropriate.
     
-    Compare: 1989 No 63 [s 219N(1)][752]
+    Compare: 1989 No 63 [s 219N(1)][755]
 
 ##### 367 Variation of trust deed
     
@@ -7182,7 +7212,7 @@ Licensing trusts, community trusts, and other matters
     
     (2) A variation of the trust deed must be notified in the _Gazette_ as soon as practicable after the variation is made.
     
-    Compare: 1989 No 63 [s 219O][753]
+    Compare: 1989 No 63 [s 219O][756]
 
 ##### 368 Trust deed must be consistent with Act
     
@@ -7192,7 +7222,7 @@ Licensing trusts, community trusts, and other matters
     
     (3) In this section, _trust deed_ includes a variation of a trust deed.
     
-    Compare: 1989 No 63 [s 219P][754]
+    Compare: 1989 No 63 [s 219P][757]
 
 #### Trustees
 
@@ -7200,15 +7230,15 @@ Licensing trusts, community trusts, and other matters
     
 *   The first trustees of a community trust are the members of the licensing trust immediately before it is converted to the community trust.
     
-    Compare: 1989 No 63 [s 219Q][755]
+    Compare: 1989 No 63 [s 219Q][758]
 
 ##### 370 Election of trustees
     
 *   (1) Except for the first trustees, the trustees of a community trust are elected in accordance with [sections 371 to 373][445].
     
-    (2) Elections of trustees must be held on the same days as triennial general elections of members of territorial authorities are held under the [Local Electoral Act 2001][700].
+    (2) Elections of trustees must be held on the same days as triennial general elections of members of territorial authorities are held under the [Local Electoral Act 2001][701].
     
-    Compare: 1989 No 63 [s 219R][756]
+    Compare: 1989 No 63 [s 219R][759]
 
 ##### 371 Who is qualified to vote in election of trustees of community trust
     
@@ -7220,13 +7250,13 @@ Licensing trusts, community trusts, and other matters
     
     *   (b) is not qualified to vote in the election of any other trustee.
     
-    Compare: 1989 No 63 [s 219S][757]
+    Compare: 1989 No 63 [s 219S][760]
 
 ##### 372 Conduct of election of trustees
     
-*   Subject to this Part and any regulations made under this Act, the election of the trustees of a community trust must be conducted under the [Local Electoral Act 2001][700] as an election under that Act; and the electoral officer for the election is the electoral officer of the territorial authority in whose district the trust is situated.
+*   Subject to this Part and any regulations made under this Act, the election of the trustees of a community trust must be conducted under the [Local Electoral Act 2001][701] as an election under that Act; and the electoral officer for the election is the electoral officer of the territorial authority in whose district the trust is situated.
     
-    Compare: 1989 No 63 [s 219T(1)][758]
+    Compare: 1989 No 63 [s 219T(1)][761]
 
 ##### 373 Electoral roll for election of trustees
     
@@ -7244,7 +7274,7 @@ Licensing trusts, community trusts, and other matters
     
     (3) The electoral officer may indicate the names of persons qualified to vote by appropriate words, abbreviations, or marks.
     
-    Compare: 1989 No 63 [s 219T(2)--(4)][758]
+    Compare: 1989 No 63 [s 219T(2)--(4)][761]
 
 ##### 374 Governor-General may appoint trustees to make up required number
     
@@ -7256,7 +7286,7 @@ Licensing trusts, community trusts, and other matters
     
     (2) A person appointed under this section holds office as if that person had been duly elected at the election.
     
-    Compare: 1989 No 63 [s 219U][759]
+    Compare: 1989 No 63 [s 219U][762]
 
 ##### 375 Trustees' term of office
     
@@ -7266,7 +7296,7 @@ Licensing trusts, community trusts, and other matters
     
     (3) A trustee is eligible for re-election.
     
-    Compare: 1989 No 63 [s 219V(1), (2)][760]
+    Compare: 1989 No 63 [s 219V(1), (2)][763]
 
 ##### 376 Disqualification from election or appointment as trustee
     
@@ -7282,23 +7312,23 @@ Licensing trusts, community trusts, and other matters
         
         
     
-    *   (c) is subject to an order under [section 383][761] of the Companies Act 1993; or
+    *   (c) is subject to an order under [section 383][764] of the Companies Act 1993; or
     
-    *   (d) is the subject of an order under [section 30][718] or [31][762] of the Protection of Personal and Property Rights Act 1988\.
+    *   (d) is the subject of an order under [section 30][719] or [31][765] of the Protection of Personal and Property Rights Act 1988\.
     
-    Compare: 1989 No 63 [s 219W][763]
+    Compare: 1989 No 63 [s 219W][766]
 
 ##### 377 Disqualification from continuing to hold office as trustee
     
 *   (1) A trustee of a community trust is disqualified from continuing to hold office as a trustee if he or she would be disqualified under [section 376][450] from election or appointment as a trustee.
     
-    (2) However, where an order under [section 30][718] of the Protection of Personal and Property Rights Act 1988 is made in respect of a trustee of a community trust,---
+    (2) However, where an order under [section 30][719] of the Protection of Personal and Property Rights Act 1988 is made in respect of a trustee of a community trust,---
         
     *   (a) the trustee is not disqualified from continuing to hold office as a trustee by reason only of the order; but
     
     *   (b) while the order remains in force, the trustee is deemed to have been granted leave of absence and is not capable of acting as a trustee of the community trust.
     
-    Compare: 1989 No 63 [s 219V(4A)][760]
+    Compare: 1989 No 63 [s 219V(4A)][763]
 
 ##### 378 Vacation of office by trustees
     
@@ -7314,13 +7344,13 @@ Licensing trusts, community trusts, and other matters
     
     *   (e) is absent without the leave of the trust from 4 consecutive meetings of the trust.
     
-    Compare: 1989 No 63 [s 219V(3), (6)][760]
+    Compare: 1989 No 63 [s 219V(3), (6)][763]
 
 ##### 379 Extraordinary vacancies
     
 *   (1) An extraordinary vacancy in the office of a trustee of a community trust occurs when a trustee vacates office under [section 378][452].
     
-    (2) An extraordinary vacancy must be filled by an election under the applicable provisions of the [Local Electoral Act 2001][700].
+    (2) An extraordinary vacancy must be filled by an election under the applicable provisions of the [Local Electoral Act 2001][701].
     
     (3) However, if the extraordinary vacancy is a vacancy in the office of an elected trustee that occurs 12 months or less than 12 months before the date fixed for the next triennial general election of trustees, either---
         
@@ -7330,7 +7360,7 @@ Licensing trusts, community trusts, and other matters
     
     (4) A person who fills an extraordinary vacancy holds office only for the remainder of the previous trustee's term.
     
-    Compare: 1989 No 63 [s 219V(6)][760]
+    Compare: 1989 No 63 [s 219V(6)][763]
 
 ##### 380 Removal of trustee from office
     
@@ -7344,7 +7374,7 @@ Licensing trusts, community trusts, and other matters
     
     *   (d) has acted or is acting in a manner prejudicial, or likely to be prejudicial, to the interests of the community trust.
     
-    Compare: 1989 No 63 [s 219V(5)][760]
+    Compare: 1989 No 63 [s 219V(5)][763]
 
 #### Conduct of business
 
@@ -7358,7 +7388,7 @@ Licensing trusts, community trusts, and other matters
     
 *   (1) The trustees of a community trust must ensure that full and correct accounts of all the financial transactions of the community trust and its assets, liabilities, and funds are kept.
     
-    (2) If the trustees fail to comply with subsection (1), each trustee commits an offence and is liable on conviction to the penalty set out in [section 374(2)][724] of the Companies Act 1993 but subject to [section 376][725] of that Act, which applies as if the trustees were the board of a company.
+    (2) If the trustees fail to comply with subsection (1), each trustee commits an offence and is liable on conviction to the penalty set out in [section 374(2)][725] of the Companies Act 1993 but subject to [section 376][726] of that Act, which applies as if the trustees were the board of a company.
 
 ##### 383 Financial statements
     
@@ -7370,7 +7400,7 @@ Licensing trusts, community trusts, and other matters
     
     (4) The audited financial statements must, as soon as practicable after the completion of their audit, be publicly notified in accordance with regulations made under this Act.
     
-    (5) If the trustees fail to comply with the requirements of this section, each trustee commits an offence and is liable on conviction to the penalty set out in [section 374(2)][724] of the Companies Act 1993 but subject to [section 376][725] of that Act, which applies as if the trustees were the board of a company.
+    (5) If the trustees fail to comply with the requirements of this section, each trustee commits an offence and is liable on conviction to the penalty set out in [section 374(2)][725] of the Companies Act 1993 but subject to [section 376][726] of that Act, which applies as if the trustees were the board of a company.
 
 ##### 384 Annual meeting of electors
     
@@ -7400,7 +7430,7 @@ Licensing trusts, community trusts, and other matters
     
     (5) A community trust is not required to comply with this section in the year in which it is converted to a community trust if, in that year before conversion to a community trust, the licensing trust concerned complied with [section 335][400]. 
     
-    Compare: 1989 No 63 [s 219Y][764]
+    Compare: 1989 No 63 [s 219Y][767]
 
 #### Amalgamation of community trusts
 
@@ -7508,11 +7538,11 @@ Licensing trusts, community trusts, and other matters
 
 ##### 391 Voluntary administration and liquidation under Companies Act 1993
     
-*   (1) [Parts 15A][732], [16][733], and [17][734] of the Companies Act 1993 apply, with any necessary modifications, to a community trust as if it were a company incorporated under that Act.
+*   (1) [Parts 15A][733], [16][734], and [17][735] of the Companies Act 1993 apply, with any necessary modifications, to a community trust as if it were a company incorporated under that Act.
     
-    (2) However, [section 241(2)(a) and (b)][735] of the Companies Act 1993 do not apply to the liquidation of a community trust, and instead a liquidator may be appointed by a resolution of the trustees.
+    (2) However, [section 241(2)(a) and (b)][736] of the Companies Act 1993 do not apply to the liquidation of a community trust, and instead a liquidator may be appointed by a resolution of the trustees.
     
-    Compare: 1989 No 63 [s 219ZA][765]
+    Compare: 1989 No 63 [s 219ZA][768]
 
 ##### 392 Distribution of assets
     
@@ -7520,7 +7550,7 @@ Licensing trusts, community trusts, and other matters
     
     (2) If the trust region overlaps 2 or more territorial authority districts, the surplus must be distributed in shares to be determined by the High Court in proportion to the number of residents in each territorial authority district who are electors of the community trust.
     
-    Compare: 1989 No 63 [s 219ZB][766]
+    Compare: 1989 No 63 [s 219ZB][769]
 
 #### Miscellaneous
 
@@ -7528,31 +7558,31 @@ Licensing trusts, community trusts, and other matters
     
 *   (1) A community trust is liable to income tax, rates, and all other taxes and duties as if it were a body corporate formed for private pecuniary gain.
     
-    (2) For the purposes of the Inland Revenue Acts (as defined in [section 3][767] of the Tax Administration Act 1994),---
+    (2) For the purposes of the Inland Revenue Acts (as defined in [section 3][770] of the Tax Administration Act 1994),---
         
     *   (a) a community trust and the licensing trust that was converted into the community trust are, in relation to all assets and liabilities that, by this Act, become the assets and liabilities of the community trust, treated as the same person:
     
     *   (b) all transactions entered into by, and all acts of, a licensing trust before conversion to a community trust, in relation to all assets and liabilities that, by this Act, become assets and liabilities of the community trust, are treated as having been entered into or performed by the community trust on the date on which they were entered into or performed by the licensing trust.
     
-    Compare: 1989 No 63 [s 219ZC][768]
+    Compare: 1989 No 63 [s 219ZC][771]
 
 ##### 394 Application of Trustee Act 1956
     
 *   The [Trustee Act 1956][546] applies to a community trust.
     
-    Compare: 1989 No 63 [s 219ZD][769]
+    Compare: 1989 No 63 [s 219ZD][772]
 
 ##### 395 Application of Local Authorities (Members' Interests) Act 1968
     
-*   For the purposes of the [Local Authorities (Members' Interests) Act 1968][770], a community trust is treated as if it were a territorial authority and that Act applies accordingly.
+*   For the purposes of the [Local Authorities (Members' Interests) Act 1968][773], a community trust is treated as if it were a territorial authority and that Act applies accordingly.
     
-    Compare: 1989 No 63 [s 219ZE][771]
+    Compare: 1989 No 63 [s 219ZE][774]
 
 ##### 396 Application of Local Government Official Information and Meetings Act 1987
     
-*   For the purposes of [Parts 1 to 4][772] of the Local Government Official Information and Meetings Act 1987, a community trust is treated as if it were a territorial authority and that Act applies accordingly.
+*   For the purposes of [Parts 1 to 4][775] of the Local Government Official Information and Meetings Act 1987, a community trust is treated as if it were a territorial authority and that Act applies accordingly.
     
-    Compare: 1989 No 63 [s 219ZF][773]
+    Compare: 1989 No 63 [s 219ZF][776]
 
 ### 
 
@@ -7890,7 +7920,19 @@ Licensing trusts, community trusts, and other matters
     
     *   (b) in every other case, are the shorter trading hours permitted under that licence.
     
+    (2A) The trading hours permitted for premises to which an off-licence endorsed to indicate that [section 51][533] of the Sale of Liquor Act 1989 applies to it---
+        
+    *   (a) are the default maximum national trading hours stated by [section 43][53] for an on-licence, in any case where, immediately before the commencement of this section, the same or longer trading hours were permitted for those premises; and
+    
+    *   (b) are the shorter trading hours permitted under the licence, in every other case.
+    
+    (2B) Subsection (2A) overrides subsection (2).
+    
     (3) Subsection (1) is subject to [section 406][488].
+    
+    Section 409(2A): inserted, on 5 December 2013, by [section 6][777] of the Sale and Supply of Alcohol Amendment Act 2013 (2013 No 131).
+    
+    Section 409(2B): inserted, on 5 December 2013, by [section 6][777] of the Sale and Supply of Alcohol Amendment Act 2013 (2013 No 131).
 
 ##### 410 Transitional provision relating to BYO restaurants and managers
     
@@ -7936,7 +7978,7 @@ Licensing trusts, community trusts, and other matters
 
 ##### 414 Permanent club charters unaffected
     
-*   (1) A permanent club charter that (by virtue of [section 238][774] of the Sale of Liquor Act 1989) was in force immediately before the commencement of this section continues in force despite the enactment of this Act; and its holder may continue to sell and supply alcohol in accordance with it without needing a licence.
+*   (1) A permanent club charter that (by virtue of [section 238][778] of the Sale of Liquor Act 1989) was in force immediately before the commencement of this section continues in force despite the enactment of this Act; and its holder may continue to sell and supply alcohol in accordance with it without needing a licence.
     
     (2) The provisions of this Act relating to the following matters apply to the holder of a permanent club charter and to the club premises as if the club were the holder of a club licence:
         
@@ -7966,15 +8008,15 @@ Licensing trusts, community trusts, and other matters
 
 ##### 416 Jurisdiction of Youth Court
     
-*   (1) This section amends the [Children, Young Persons, and Their Families Act 1989][775].
+*   (1) This section amends the [Children, Young Persons, and Their Families Act 1989][779].
     
-    (2) [Section 272(3)][776] is amended by omitting ""imprisonment---"" from paragraph (c) and substituting ""imprisonment; or"" and by adding the following paragraph:
+    (2) [Section 272(3)][780] is amended by omitting ""imprisonment---"" from paragraph (c) and substituting ""imprisonment; or"" and by adding the following paragraph:
     
     > *   "(d) an infringement offence against the Sale and Supply of Alcohol Act 2012 or the Summary Offences Act 1981, or section 239A of the Local Government Act 2002\."
     > 
     > 
     
-    (3) [Section 272(5)][776] is amended by---
+    (3) [Section 272(5)][780] is amended by---
         
     *   (a) inserting ""or (d)"" after ""(3)(c)""; and
     
@@ -7992,9 +8034,9 @@ Licensing trusts, community trusts, and other matters
 
 ##### 418 Repeals
     
-*   (1) [Sections 85 to 98][597] of the Sale of Liquor Act 1989 are repealed.
+*   (1) [Sections 85 to 98][598] of the Sale of Liquor Act 1989 are repealed.
     
-    (2) [Sections 4][777], [10][778], [11][779], [13][780], [19][781], [20][782], [22(a), (c), and (d)][783], [32][784], [33][785], [35][786], [42][787], [43][788], [45(a), (c), and (d)][789], [56][790], [57][791], [59][792], [65][793], [66][794], [68(a), (c), and (d)][795], and [77 to 79][580] of the Sale of Liquor Act 1989 are repealed.
+    (2) [Sections 4][781], [10][782], [11][783], [13][784], [19][785], [20][786], [22(a), (c), and (d)][787], [32][788], [33][789], [35][790], [42][791], [43][792], [45(a), (c), and (d)][793], [56][794], [57][795], [59][796], [65][797], [66][798], [68(a), (c), and (d)][799], and [77 to 79][581] of the Sale of Liquor Act 1989 are repealed.
     
     (3) The [Sale of Liquor Act 1989][517] is repealed.
 
@@ -8061,59 +8103,59 @@ Consequential amendments to other enactments
 
 ##### Alcohol Advisory Council Act 1976 (1976 No 143)
 
-[Section 2(1)][796]: insert in its appropriate alphabetical order:
+[Section 2(1)][800]: insert in its appropriate alphabetical order:
 
 > "_liquor_ means alcohol within the meaning of section 5(1) of the Sale and Supply of Alcohol Act 2012".
 
-[Section 8(1)(g)][797]: omit ""Sale of Liquor Act 1989"" and substitute ""Sale and Supply of Alcohol Act 2012"".
+[Section 8(1)(g)][801]: omit ""Sale of Liquor Act 1989"" and substitute ""Sale and Supply of Alcohol Act 2012"".
 
 ##### Alcoholism and Drug Addiction Act 1966 (1966 No 97)
 
-[Section 2][798]: insert in its appropriate alphabetical order:
+[Section 2][802]: insert in its appropriate alphabetical order:
 
 > "_alcohol_ has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012:".
 
-Definition of _alcoholic_ in [section 2][798]: omit ""alcoholic liquor"" and substitute ""alcohol"".
+Definition of _alcoholic_ in [section 2][802]: omit ""alcoholic liquor"" and substitute ""alcohol"".
 
-[Section 20(2)][799]: omit ""alcoholic liquor"" and substitute ""alcohol"".
+[Section 20(2)][803]: omit ""alcoholic liquor"" and substitute ""alcohol"".
 
-[Section 27][800] and the heading to that section: omit ""liquor"" in each place where it appears and substitute in each case ""alcohol"".
+[Section 27][804] and the heading to that section: omit ""liquor"" in each place where it appears and substitute in each case ""alcohol"".
 
-[Section 27][800]: omit ""intoxicating liquor"" and substitute ""alcohol"".
+[Section 27][804]: omit ""intoxicating liquor"" and substitute ""alcohol"".
 
 ##### Armed Forces Discipline Act 1971 (1971 No 53)
 
-[Section 2(1)][801]: insert in its appropriate alphabetical order:
+[Section 2(1)][805]: insert in its appropriate alphabetical order:
 
 > "_alcohol_ has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012".
 
-Heading above [section 51][802]: omit ""_alcoholic liquor_"" and substitute ""_alcohol_"".
+Heading above [section 51][806]: omit ""_alcoholic liquor_"" and substitute ""_alcohol_"".
 
-[Section 52(1)][803] and the heading to that section: omit ""alcoholic liquor"" and substitute ""alcohol"".
+[Section 52(1)][807] and the heading to that section: omit ""alcoholic liquor"" and substitute ""alcohol"".
 
-[Section 52(2)][803]: omit ""liquor"" and substitute ""alcohol"".
+[Section 52(2)][807]: omit ""liquor"" and substitute ""alcohol"".
 
 ##### Auckland Domain Act 1987 (1987 No 7)
 
-[Section 11(1)(d)][804]: omit ""intoxicating liquor"" and substitute ""alcohol (within the meaning of section 5 of the Sale and Supply of Alcohol Act 2012)"".
+[Section 11(1)(d)][808]: omit ""intoxicating liquor"" and substitute ""alcohol (within the meaning of section 5 of the Sale and Supply of Alcohol Act 2012)"".
 
 ##### Auctioneers Act 1928 (1928 No 29)
 
-[Section 4(a)][805]: omit ""Sale of Liquor Act 1989"" and substitute ""Sale and Supply of Alcohol Act 2012"".
+[Section 4(a)][809]: omit ""Sale of Liquor Act 1989"" and substitute ""Sale and Supply of Alcohol Act 2012"".
 
 ##### Broadcasting Act 1989 (1989 No 25)
 
-Definition of **liquor** in [section 2(1)][806]: repeal.
+Definition of **liquor** in [section 2(1)][810]: repeal.
 
-[Section 2(1)][806]: insert in its appropriate alphabetical order:
+[Section 2(1)][810]: insert in its appropriate alphabetical order:
 
 > "_alcohol_ has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012".
 
-[Section 21(1)(e)(v)][807]: omit ""liquor"" and substitute ""alcohol"".
+[Section 21(1)(e)(v)][811]: omit ""liquor"" and substitute ""alcohol"".
 
 ##### Civil Aviation Act 1990 (1990 No 98)
 
-[Section 65I(3)][808]: omit ""an intoxicating liquor, or"" and substitute ""alcohol (within the meaning of section 5(1) of the Sale and Supply of Alcohol Act 2012) or an intoxicating"".
+[Section 65I(3)][812]: omit ""an intoxicating liquor, or"" and substitute ""alcohol (within the meaning of section 5(1) of the Sale and Supply of Alcohol Act 2012) or an intoxicating"".
 
 [Section 96][529]: repeal and substitute:
 
@@ -8147,7 +8189,7 @@ Definition of **liquor** in [section 2(1)][806]: repeal.
 
 ##### Corrections Act 2004 (2004 No 50)
 
-[Section 45(1)(d)][809]: repeal and substitute:
+[Section 45(1)(d)][813]: repeal and substitute:
 
 > *   "(d) alcohol; or".
 > 
@@ -8159,17 +8201,17 @@ Paragraph (c)(ii) of the definition of **manufacture** in section 2(1): omit ""S
 
 ##### Defence Act 1990 (1990 No 28)
 
-Heading to [section 89][810]: omit ""**liquor**"" and substitute ""**alcohol**"".
+Heading to [section 89][814]: omit ""**liquor**"" and substitute ""**alcohol**"".
 
-[Section 89(1)][810]: omit ""alcoholic liquor"" in each place where it appears and substitute in each case ""alcohol"".
+[Section 89(1)][814]: omit ""alcoholic liquor"" in each place where it appears and substitute in each case ""alcohol"".
 
-[Section 89(1)(c)][810]: omit ""liquor"" and substitute ""alcohol"".
+[Section 89(1)(c)][814]: omit ""liquor"" and substitute ""alcohol"".
 
-[Section 89(2)(c)][810]: omit ""liquor"" in each place where it appears and substitute in each case ""alcohol"".
+[Section 89(2)(c)][814]: omit ""liquor"" in each place where it appears and substitute in each case ""alcohol"".
 
-[Section 89(5)][810]: omit ""liquor"" in each place where it appears and substitute in each case ""alcohol"".
+[Section 89(5)][814]: omit ""liquor"" in each place where it appears and substitute in each case ""alcohol"".
 
-[Section 89][810]: insert after subsection (5):
+[Section 89][814]: insert after subsection (5):
 
 > *   "(5A) In this section, _alcohol_ has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012\."
 > 
@@ -8177,23 +8219,23 @@ Heading to [section 89][810]: omit ""**liquor**"" and substitute ""**alcohol**""
 
 ##### Electoral Act 1993 (1993 No 87)
 
-[Section 155(3)][811]: omit ""Sale of Liquor Act 1989"" and substitute ""Sale and Supply of Alcohol Act 2012"".
+[Section 155(3)][815]: omit ""Sale of Liquor Act 1989"" and substitute ""Sale and Supply of Alcohol Act 2012"".
 
-[Section 155(3)][811]: omit ""liquor"" in the second place where it appears and substitute ""alcohol (within the meaning of section 5(1) of the Sale and Supply of Alcohol Act 2012)"".
+[Section 155(3)][815]: omit ""liquor"" in the second place where it appears and substitute ""alcohol (within the meaning of section 5(1) of the Sale and Supply of Alcohol Act 2012)"".
 
-[Section 217(3)][812]: omit ""intoxicating liquor"" and substitute ""alcohol (within the meaning of section 5(1) of the Sale and Supply of Alcohol Act 2012)"".
+[Section 217(3)][816]: omit ""intoxicating liquor"" and substitute ""alcohol (within the meaning of section 5(1) of the Sale and Supply of Alcohol Act 2012)"".
 
 ##### Electricity Industry Reform Act 1998 (1998 No 88)
 
-[Section 90(g)][813]: omit ""Sale of Liquor Act 1989"" and substitute ""Sale and Supply of Alcohol Act 2012"".
+[Section 90(g)][817]: omit ""Sale of Liquor Act 1989"" and substitute ""Sale and Supply of Alcohol Act 2012"".
 
 ##### Gambling Act 2003 (2003 No 51)
 
-[Section 4(1)][814]: insert in its appropriate alphabetical order:
+[Section 4(1)][818]: insert in its appropriate alphabetical order:
 
 > "_approved evidence of age document_ has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012".
 
-Paragraph (b)(iva) of the definition of _key person_ in [section 4(1)][814]: repeal and substitute:
+Paragraph (b)(iva) of the definition of _key person_ in [section 4(1)][818]: repeal and substitute:
 
 > *   "(iva) any other person whom the Secretary reasonably believes to have a significant interest in the management, ownership, or operation of a venue operator, except for the following persons holding office, elected, or appointed under the Sale and Supply of Alcohol Act 2012:
 >         
@@ -8205,7 +8247,7 @@ Paragraph (b)(iva) of the definition of _key person_ in [section 4(1)][814]: rep
 > 
 > 
 
-[Section 4(2)][814]: repeal.
+[Section 4(2)][818]: repeal.
 
 [Section 173][554]: repeal and substitute:
 
@@ -8217,81 +8259,81 @@ Paragraph (b)(iva) of the definition of _key person_ in [section 4(1)][814]: rep
 
 ##### Health Act 1956 (1956 No 65)
 
-[Section 80(4)][815]: omit ""Sale of Liquor Act 1989"" and substitute ""Sale and Supply of Alcohol Act 2012"".
+[Section 80(4)][819]: omit ""Sale of Liquor Act 1989"" and substitute ""Sale and Supply of Alcohol Act 2012"".
 
 ##### Hotel Association of New Zealand Act 1969 (1969 No 139)
 
-[Section 2][816]: insert in its appropriate alphabetical order:
+[Section 2][820]: insert in its appropriate alphabetical order:
 
 > "_alcohol_ has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012:".
 
-[Section 2][816]: omit ""liquor"" in each place where it appears and substitute in each case ""alcohol"".
+[Section 2][820]: omit ""liquor"" in each place where it appears and substitute in each case ""alcohol"".
 
-[Section 3(2)(c)][817]: omit ""general"".
+[Section 3(2)(c)][821]: omit ""general"".
 
-[Section 3(2)][817]: omit ""Sale of Liquor Act 1989"" and substitute ""Sale and Supply of Alcohol Act 2012"".
+[Section 3(2)][821]: omit ""Sale of Liquor Act 1989"" and substitute ""Sale and Supply of Alcohol Act 2012"".
 
-[Section 3(3)][817]: omit ""general"".
+[Section 3(3)][821]: omit ""general"".
 
-[Section 10(1)][818]: omit ""Sale of Liquor Act 1989"" and substitute ""Sale and Supply of Alcohol Act 2012"".
+[Section 10(1)][822]: omit ""Sale of Liquor Act 1989"" and substitute ""Sale and Supply of Alcohol Act 2012"".
 
-[Section 20][819]: omit ""District Licensing Agency"" and substitute ""licensing committee"".
+[Section 20][823]: omit ""District Licensing Agency"" and substitute ""licensing committee"".
 
 ##### Innkeepers Act 1962 (1962 No 140)
 
-[Section 2][820]: omit ""Sale of Liquor Act 1989"" in each place where it appears and substitute in each case ""Sale and Supply of Alcohol Act 2012"".
+[Section 2][824]: omit ""Sale of Liquor Act 1989"" in each place where it appears and substitute in each case ""Sale and Supply of Alcohol Act 2012"".
 
 ##### Local Electoral Act 2001 (2001 No 35)
 
-[Section 126(2)][821]: omit ""Sale of Liquor Act 1989"" and substitute ""Sale and Supply of Alcohol Act 2012"".
+[Section 126(2)][825]: omit ""Sale of Liquor Act 1989"" and substitute ""Sale and Supply of Alcohol Act 2012"".
 
 ##### Local Government (Rating) Act 2002 (2002 No 6)
 
-Notes to Part 2 of [Schedule 1][822]: omit ""Sale of Liquor Act 1989"" and substitute ""Sale and Supply of Alcohol Act 2012"".
+Notes to Part 2 of [Schedule 1][826]: omit ""Sale of Liquor Act 1989"" and substitute ""Sale and Supply of Alcohol Act 2012"".
 
 ##### Maori Community Development Act 1962 (1962 No 133)
 
-[Section 2][823]: insert in its appropriate alphabetical order:
+[Section 2][827]: insert in its appropriate alphabetical order:
 
 > "_liquor_ means alcohol within the meaning of section 5(1) of the Sale and Supply of Alcohol Act 2012".
 
 ##### Misuse of Drugs Amendment Act 2005 (2005 No 81)
 
-[Section 31][824]: insert in its appropriate alphabetical order:
+[Section 31][828]: insert in its appropriate alphabetical order:
 
 > "_alcohol_ has the meaning given to it by section 5(1) of the Sale and Supply of Alcohol Act 2012".
 
-Paragraph (b)(vii) of the definition of **substance** in [section 31][824]: repeal and substitute:
+Paragraph (b)(vii) of the definition of **substance** in [section 31][828]: repeal and substitute:
 
 > *   "(vii) alcohol:".
 > 
 > 
 
-[Section 37(2)(a)][825]: omit ""(within the meaning of section 2A of the Sale of Liquor Act 1989)"".
+[Section 37(2)(a)][829]: omit ""(within the meaning of section 2A of the Sale of Liquor Act 1989)"".
 
-[Section 37][825]: insert after subsection (4): 
-
-> *   "(5) In this section, _approved evidence of age document_ has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012\."
-> 
-> 
-
-[Section 40(2)(a)][826]: omit ""(within the meaning of section 2A of the Sale of Liquor Act 1989)"".
-
-[Section 40][826]: insert after subsection (4):
+[Section 37][829]: insert after subsection (4): 
 
 > *   "(5) In this section, _approved evidence of age document_ has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012\."
 > 
 > 
 
-[Section 62(1)(b)(ii)][827]: omit ""liquor"" and substitute ""alcohol"".
+[Section 40(2)(a)][830]: omit ""(within the meaning of section 2A of the Sale of Liquor Act 1989)"".
 
-[Section 62(1)(l)(i)][827]: omit ""liquor"" and substitute ""alcohol"".
+[Section 40][830]: insert after subsection (4):
+
+> *   "(5) In this section, _approved evidence of age document_ has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012\."
+> 
+> 
+
+[Section 62(1)(b)(ii)][831]: omit ""liquor"" and substitute ""alcohol"".
+
+[Section 62(1)(l)(i)][831]: omit ""liquor"" and substitute ""alcohol"".
 
 ##### New Zealand Railways Corporation Act 1981 (1981 No 119)
 
-[Section 115(1)(e)][828]: omit ""intoxicating liquor"" in each place where it appears and substitute in each case ""alcohol"".
+[Section 115(1)(e)][832]: omit ""intoxicating liquor"" in each place where it appears and substitute in each case ""alcohol"".
 
-[Section 115][828]: insert after subsection (2):
+[Section 115][832]: insert after subsection (2):
 
 > *   "(3) In this section, _alcohol_ has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012\."
 > 
@@ -8299,17 +8341,17 @@ Paragraph (b)(vii) of the definition of **substance** in [section 31][824]: repe
 
 ##### Policing Act 2008 (2008 No 72)
 
-[Section 45(b)][829]: omit ""Liquor Licensing Authority, a District Licensing Agency"" and substitute ""Alcohol Regulatory and Licensing Authority, a licensing committee"".
+[Section 45(b)][833]: omit ""Liquor Licensing Authority, a District Licensing Agency"" and substitute ""Alcohol Regulatory and Licensing Authority, a licensing committee"".
 
 ##### Private Security Personnel and Private Investigators Act 2010 (2010 No 115)
 
-In [section 10(b)][830] replace ""Sale of Liquor Act 1989"" with ""Sale and Supply of Alcohol Act 2012"".
+In [section 10(b)][834] replace ""Sale of Liquor Act 1989"" with ""Sale and Supply of Alcohol Act 2012"".
 
-In [section 18(b)][831] replace ""Sale of Liquor Act 1989"" with ""Sale and Supply of Alcohol Act 2012"".
+In [section 18(b)][835] replace ""Sale of Liquor Act 1989"" with ""Sale and Supply of Alcohol Act 2012"".
 
 ##### Public Audit Act 2001 (2001 No 10)
 
-[Schedule 1][832]: omit ""Part 9A of the Sale of Liquor Act 1989"" and substitute ""Part 3 of the Sale and Supply of Alcohol Act 2012"".
+[Schedule 1][836]: omit ""Part 9A of the Sale of Liquor Act 1989"" and substitute ""Part 3 of the Sale and Supply of Alcohol Act 2012"".
 
 Item relating to licensing trusts in Schedule 1: omit and substitute: 
 
@@ -8317,27 +8359,27 @@ Item relating to licensing trusts in Schedule 1: omit and substitute:
 
 ##### Racing Act 2003 (2003 No 3)
 
-Definition of **evidence of age document** in [section 63(6)][833]: repeal and substitute:
+Definition of **evidence of age document** in [section 63(6)][837]: repeal and substitute:
 
 > "_approved evidence of age document_ has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012\."
 
 ##### Referenda (Postal Voting) Act 2000 (2000 No 48)
 
-[Section 72(3)][834]: omit ""liquor"" in the first place where it appears and substitute ""alcohol"".
+[Section 72(3)][838]: omit ""liquor"" in the first place where it appears and substitute ""alcohol"".
 
-[Section 72(3)][834]: omit ""Sale of Liquor Act 1989"" and substitute ""Sale and Supply of Alcohol Act 2012"".
+[Section 72(3)][838]: omit ""Sale of Liquor Act 1989"" and substitute ""Sale and Supply of Alcohol Act 2012"".
 
 ##### Reserves Act 1977 (1977 No 66)
 
-[Section 106(1)(f)][835]: omit ""intoxicating liquor"" and substitute ""alcohol (within the meaning of section 5(1) of the Sale and Supply of Alcohol Act 2012)"".
+[Section 106(1)(f)][839]: omit ""intoxicating liquor"" and substitute ""alcohol (within the meaning of section 5(1) of the Sale and Supply of Alcohol Act 2012)"".
 
 ##### Residential Tenancies Act 1986 (1986 No 120)
 
-[Section 5(j)][836]: omit ""Sale of Liquor Act 1989"" and substitute ""Sale and Supply of Alcohol Act 2012"".
+[Section 5(j)][840]: omit ""Sale of Liquor Act 1989"" and substitute ""Sale and Supply of Alcohol Act 2012"".
 
 ##### Search and Surveillance Act 2012 (2012 No 24)
 
-Replace the item in the [Schedule][837] relating to the [Sale of Liquor Act 1989][517] with:
+Replace the item in the [Schedule][841] relating to the [Sale of Liquor Act 1989][517] with:
 
 Sale and Supply of Alcohol Act 2012 270 
 
@@ -8351,21 +8393,21 @@ Definition of **goods** in section 2: omit and substitute:
 
 ##### Smoke-free Environments Act 1990 (1990 No 108)
 
-Definition of **licensed premises** in [section 2(1][838]): omit and substitute:
+Definition of **licensed premises** in [section 2(1][842]): omit and substitute:
 
 > "_licensed premises_ means any premises, or any part of any premises, on which alcohol is sold pursuant to a licence under the Sale and Supply of Alcohol Act 2012".
 
-[Section 2(1)][838]: insert in its appropriate alphabetical order:
+[Section 2(1)][842]: insert in its appropriate alphabetical order:
 
 > "_approved evidence of age document_ has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012".
 
-[Section 30(2A)][839]: omit ""(within the meaning of section 2A of the Sale of Liquor Act 1989)"".
+[Section 30(2A)][843]: omit ""(within the meaning of section 2A of the Sale of Liquor Act 1989)"".
 
-[Section 30AA(3)][840]: omit ""(within the meaning of section 2A of the Sale of Liquor Act 1989)"".
+[Section 30AA(3)][844]: omit ""(within the meaning of section 2A of the Sale of Liquor Act 1989)"".
 
-[Section 36A(4)][841]: omit ""(within the meaning of section 2A of the Sale of Liquor Act 1989)"".
+[Section 36A(4)][845]: omit ""(within the meaning of section 2A of the Sale of Liquor Act 1989)"".
 
-Schedule 2: amended, on 4 October 2013, by [regulation 3(1)][620] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+Schedule 2: amended, on 4 October 2013, by [regulation 3(1)][621] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ---
 
@@ -8376,7 +8418,7 @@ Consequential amendments to regulations
 
 ##### Amusement Devices Regulations 1978 (SR 1978/294)
 
-[Regulation 21][842]: omit paragraph (c) and substitute the following:
+[Regulation 21][846]: omit paragraph (c) and substitute the following:
 
 > *   "(c) while he is intoxicated (within the meaning of section 5 of the Sale and Supply of Alcohol Act 2012): or".
 > 
@@ -8384,21 +8426,21 @@ Consequential amendments to regulations
 
 ##### Food Hygiene Regulations 1974 (SR 1974/169)
 
-[Regulation 2(1)][843]: omit the definition of **liquor** and substitute:
+[Regulation 2(1)][847]: omit the definition of **liquor** and substitute:
 
 > "_liquor_ means alcohol (within the meaning of section 5 of the Sale and Supply of Alcohol Act 2012".
 
-Definition of **wine** in [regulation 2(1)][843]: omit ""section 2 of the Sale of Liquor Act 1989"" and substitute ""section 5 of the Sale and Supply of Alcohol Act 2012"".
+Definition of **wine** in [regulation 2(1)][847]: omit ""section 2 of the Sale of Liquor Act 1989"" and substitute ""section 5 of the Sale and Supply of Alcohol Act 2012"".
 
-[Regulation 4(4)(g)][844]: omit ""section 2 of the Sale of Liquor Act 1962"" and substitute ""section 5 of the Sale and Supply of Alcohol Act 2012"".
+[Regulation 4(4)(g)][848]: omit ""section 2 of the Sale of Liquor Act 1962"" and substitute ""section 5 of the Sale and Supply of Alcohol Act 2012"".
 
-Definition of **licensed premises** in [regulation 28][845]: omit ""section 2 of the Sale of Liquor Act 1962"" and substitute ""section 5 of the Sale and Supply of Alcohol Act 2012"".
+Definition of **licensed premises** in [regulation 28][849]: omit ""section 2 of the Sale of Liquor Act 1962"" and substitute ""section 5 of the Sale and Supply of Alcohol Act 2012"".
 
-Definition of **occupier** in [regulation 28][845]: omit ""Sale of Liquor Act 1962"" and substitute ""Sale and Supply of Alcohol Act 2012"".
+Definition of **occupier** in [regulation 28][849]: omit ""Sale of Liquor Act 1962"" and substitute ""Sale and Supply of Alcohol Act 2012"".
 
 ##### Gambling (Prohibited Property) Regulations 2005 (SR 2005/299)
 
-[Regulation 4(b)][846]: revoke and substitute:
+[Regulation 4(b)][850]: revoke and substitute:
 
 > *   "(b) alcohol (within the meaning of section 5 of the Sale and Supply of Alcohol Act 2012):".
 > 
@@ -8406,17 +8448,17 @@ Definition of **occupier** in [regulation 28][845]: omit ""Sale of Liquor Act 19
 
 ##### New Zealand Railways Corporation (Staff) Regulations 1982 (SR 1982/46)
 
-[Regulation 2(1)][847]: insert in its appropriate alphabetical order:
+[Regulation 2(1)][851]: insert in its appropriate alphabetical order:
 
 > "_alcohol_ has the meaning given by section 5 of the Sale and Supply of Alcohol Act 2012 ".
 
-[Regulation 93][848]: omit ""alcoholic liquor"" in every place where it appears and substitute in each place ""alcohol"".
+[Regulation 93][852]: omit ""alcoholic liquor"" in every place where it appears and substitute in each place ""alcohol"".
 
-[Regulation 95(2)][849]: omit ""alcoholic liquor"" in both places where it appears and substitute in each place ""alcohol"".
+[Regulation 95(2)][853]: omit ""alcoholic liquor"" in both places where it appears and substitute in each place ""alcohol"".
 
 ##### Ticketing (Public Bar) Notice 1982 (SR 1982/180)
 
-[Clause 3][850]: omit ""Sale of Liquor Act 1962"" and substitute ""Sale and Supply of Alcohol Act 2012"".
+[Clause 3][854]: omit ""Sale of Liquor Act 1962"" and substitute ""Sale and Supply of Alcohol Act 2012"".
 
 #### 
 
@@ -8430,15 +8472,17 @@ Definition of **occupier** in [regulation 28][845]: omit ""Sale of Liquor Act 19
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][851] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][852] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][855] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][856] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][853] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][854] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][857] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][858] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][620]
+*   [Sale and Supply of Alcohol Amendment Act 2013][859] (2013 No 131)
+    
+    Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][621]
 
 
 
@@ -8997,303 +9041,308 @@ Definition of **occupier** in [regulation 28][845]: omit ""Sale of Liquor Act 19
 [552]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165640
 [553]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM205305
 [554]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM209352
-[555]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165646
-[556]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165611
-[557]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165691
-[558]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165789
-[559]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM50188
-[560]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165725
-[561]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166137
-[562]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167505
-[563]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167506
-[564]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167507
-[565]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167508
-[566]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167511
-[567]: http://www.legislation.govt.nz/act/public/2012/0120/latest/whole.html#DLM167514
-[568]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167517
-[569]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167519
-[570]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167521
-[571]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM408329
-[572]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM195540
-[573]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM195551
-[574]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM195534
-[575]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM433225
-[576]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM230264
-[577]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165609
-[578]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165689
-[579]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165770
-[580]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165772
-[581]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165775
-[582]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165777
-[583]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165780
-[584]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165786
-[585]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166321
-[586]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166323
-[587]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166304
-[588]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166305
-[589]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166307
-[590]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166311
-[591]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166313
-[592]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166316
-[593]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166318
-[594]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM408335
-[595]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166325
-[596]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166328
-[597]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165793
-[598]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166103
-[599]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166104
-[600]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166105
-[601]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166107
-[602]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166108
-[603]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166110
-[604]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166111
-[605]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM129109
-[606]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM2044916
-[607]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM2044938
-[608]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166121
-[609]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166123
-[610]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM122241
-[611]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM123071
-[612]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM139130
-[613]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166132
-[614]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166125
-[615]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166127
-[616]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM393462
-[617]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166130
-[618]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166133
-[619]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM3360482
-[620]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM5642106
-[621]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166134
-[622]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166136
-[623]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165612
-[624]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165692
-[625]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165758
-[626]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165790
-[627]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166139
-[628]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166144
-[629]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166146
-[630]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166149
-[631]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166153
-[632]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166154
-[633]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166159
-[634]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166163
-[635]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166164
-[636]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166166
-[637]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166170
-[638]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166172
-[639]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166175
-[640]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166176
-[641]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166177
-[642]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166331
-[643]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166333
-[644]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166335
-[645]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166337
-[646]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166340
-[647]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166343
-[648]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166351
-[649]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM317446
-[650]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166357
-[651]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166362
-[652]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166369
-[653]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166386
-[654]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166391
-[655]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM317232
-[656]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166397
-[657]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166600
-[658]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166604
-[659]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166607
-[660]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166609
-[661]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166611
-[662]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166616
-[663]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166618
-[664]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166621
-[665]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166374
-[666]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM3359902
-[667]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166380
-[668]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM310742
-[669]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM311346
-[670]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166382
-[671]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166384
-[672]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166624
-[673]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166628
-[674]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166634
-[675]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166643
-[676]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166638
-[677]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM2136542
-[678]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM2136781
-[679]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166640
-[680]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM2136770
-[681]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166646
-[682]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166647
-[683]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM359378
-[684]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166648
-[685]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166650
-[686]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166654
-[687]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM306035
-[688]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166185
-[689]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166189
-[690]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166192
-[691]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166194
-[692]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166300
-[693]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM433239
-[694]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM433289
-[695]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166195
-[696]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166657
-[697]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166659
-[698]: http://www.legislation.govt.nz/act/public/2012/0120/latest/whole.html#DLM3340038
-[699]: http://www.legislation.govt.nz/act/public/2012/0120/latest/whole.html#DLM3340039
-[700]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM93300
-[701]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167543
-[702]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166660
-[703]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM329931
-[704]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM329932
-[705]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166661
-[706]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166662
-[707]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166664
-[708]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166682
-[709]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166665
-[710]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166666
-[711]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166668
-[712]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166671
-[713]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166674
-[714]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166676
-[715]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166677
-[716]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166678
-[717]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166679
-[718]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM127009
-[719]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166689
-[720]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166690
-[721]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166693
-[722]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166695
-[723]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166696
-[724]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM323235
-[725]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM323243
-[726]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167204
-[727]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM319569
-[728]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167206
-[729]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167209
-[730]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167211
-[731]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167212
-[732]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM321191
-[733]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM320117
-[734]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM320119
-[735]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM321678
-[736]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167214
-[737]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167216
-[738]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167219
-[739]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167220
-[740]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167234
-[741]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167236
-[742]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167238
-[743]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167240
-[744]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167242
-[745]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167244
-[746]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167248
-[747]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167251
-[748]: http://www.legislation.govt.nz/act/public/2012/0120/latest/whole.html#DLM3340040
-[749]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167253
-[750]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167255
-[751]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167259
-[752]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167262
-[753]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167264
-[754]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167266
-[755]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167269
-[756]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167271
-[757]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167273
-[758]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167275
-[759]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167277
-[760]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167279
-[761]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM323252
-[762]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM127010
-[763]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167281
-[764]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167286
-[765]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167291
-[766]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167293
-[767]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM348353
-[768]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167296
-[769]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167298
-[770]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM390002
-[771]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167500
-[772]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM122284
-[773]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167502
-[774]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167540
-[775]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM147087
-[776]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM153418
-[777]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165341
-[778]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165362
-[779]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165365
-[780]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165374
-[781]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165394
-[782]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165397
-[783]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165607
-[784]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165627
-[785]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165630
-[786]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165637
-[787]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165675
-[788]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165678
-[789]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165687
-[790]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165710
-[791]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165713
-[792]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165722
-[793]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165742
-[794]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165745
-[795]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165755
-[796]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM439978
-[797]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM440212
-[798]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM380090
-[799]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM380353
-[800]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM380376
-[801]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM401069
-[802]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM402734
-[803]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM402735
-[804]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM78184
-[805]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM205334
-[806]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM155371
-[807]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM157457
-[808]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM217123
-[809]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM295454
-[810]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM206904
-[811]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM309686
-[812]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM310402
-[813]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM428639
-[814]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM207804
-[815]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM307251
-[816]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM394333
-[817]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM394351
-[818]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM394372
-[819]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM394391
-[820]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM345313
-[821]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM94790
-[822]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM133512
-[823]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM341051
-[824]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM356285
-[825]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM356812
-[826]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM356815
-[827]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM356853
-[828]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM58265
-[829]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM1102247
-[830]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM1594507
-[831]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM2840723
-[832]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM88974
-[833]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM185033
-[834]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM74666
-[835]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM445028
-[836]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM95000
-[837]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM4356950
-[838]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM223196
-[839]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM224315
-[840]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM224318
-[841]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM224391
-[842]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM64263
-[843]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM42662
-[844]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM42925
-[845]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM42993
-[846]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM359440
-[847]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM79463
-[848]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM80225
-[849]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM80228
-[850]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM82343
-[851]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM2998516
-[852]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM2998515
-[853]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM2998532
-[854]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[555]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM5627308
+[556]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165646
+[557]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165611
+[558]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165691
+[559]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165789
+[560]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM50188
+[561]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165725
+[562]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166137
+[563]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167505
+[564]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167506
+[565]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167507
+[566]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167508
+[567]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167511
+[568]: http://www.legislation.govt.nz/act/public/2012/0120/latest/whole.html#DLM167514
+[569]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167517
+[570]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167519
+[571]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167521
+[572]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM408329
+[573]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM195540
+[574]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM195551
+[575]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM195534
+[576]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM433225
+[577]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM230264
+[578]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165609
+[579]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165689
+[580]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165770
+[581]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165772
+[582]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165775
+[583]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165777
+[584]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165780
+[585]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165786
+[586]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166321
+[587]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166323
+[588]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166304
+[589]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166305
+[590]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166307
+[591]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166311
+[592]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166313
+[593]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166316
+[594]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166318
+[595]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM408335
+[596]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166325
+[597]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166328
+[598]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165793
+[599]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166103
+[600]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166104
+[601]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166105
+[602]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166107
+[603]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166108
+[604]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166110
+[605]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166111
+[606]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM129109
+[607]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM2044916
+[608]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM2044938
+[609]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166121
+[610]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166123
+[611]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM122241
+[612]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM123071
+[613]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM139130
+[614]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166132
+[615]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166125
+[616]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166127
+[617]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM393462
+[618]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166130
+[619]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166133
+[620]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM3360482
+[621]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM5642106
+[622]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166134
+[623]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166136
+[624]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165612
+[625]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165692
+[626]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165758
+[627]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165790
+[628]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166139
+[629]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166144
+[630]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166146
+[631]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166149
+[632]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166153
+[633]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166154
+[634]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166159
+[635]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166163
+[636]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166164
+[637]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166166
+[638]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166170
+[639]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166172
+[640]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166175
+[641]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166176
+[642]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166177
+[643]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166331
+[644]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166333
+[645]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166335
+[646]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166337
+[647]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166340
+[648]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166343
+[649]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166351
+[650]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM317446
+[651]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166357
+[652]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166362
+[653]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166369
+[654]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166386
+[655]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166391
+[656]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM317232
+[657]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166397
+[658]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166600
+[659]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166604
+[660]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166607
+[661]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166609
+[662]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166611
+[663]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166616
+[664]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166618
+[665]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166621
+[666]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166374
+[667]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM3359902
+[668]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166380
+[669]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM310742
+[670]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM311346
+[671]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166382
+[672]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166384
+[673]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166624
+[674]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166628
+[675]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166634
+[676]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166643
+[677]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166638
+[678]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM2136542
+[679]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM2136781
+[680]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166640
+[681]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM2136770
+[682]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166646
+[683]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166647
+[684]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM359378
+[685]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166648
+[686]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166650
+[687]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166654
+[688]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM306035
+[689]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166185
+[690]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166189
+[691]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166192
+[692]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166194
+[693]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166300
+[694]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM433239
+[695]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM433289
+[696]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166195
+[697]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166657
+[698]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166659
+[699]: http://www.legislation.govt.nz/act/public/2012/0120/latest/whole.html#DLM3340038
+[700]: http://www.legislation.govt.nz/act/public/2012/0120/latest/whole.html#DLM3340039
+[701]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM93300
+[702]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167543
+[703]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166660
+[704]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM329931
+[705]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM329932
+[706]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166661
+[707]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166662
+[708]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166664
+[709]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166682
+[710]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166665
+[711]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166666
+[712]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166668
+[713]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166671
+[714]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166674
+[715]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166676
+[716]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166677
+[717]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166678
+[718]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166679
+[719]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM127009
+[720]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166689
+[721]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166690
+[722]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166693
+[723]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166695
+[724]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM166696
+[725]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM323235
+[726]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM323243
+[727]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167204
+[728]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM319569
+[729]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167206
+[730]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167209
+[731]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167211
+[732]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167212
+[733]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM321191
+[734]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM320117
+[735]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM320119
+[736]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM321678
+[737]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167214
+[738]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167216
+[739]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167219
+[740]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167220
+[741]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167221
+[742]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM5673800
+[743]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167234
+[744]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167236
+[745]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167238
+[746]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167240
+[747]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167242
+[748]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167244
+[749]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167248
+[750]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167251
+[751]: http://www.legislation.govt.nz/act/public/2012/0120/latest/whole.html#DLM3340040
+[752]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167253
+[753]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167255
+[754]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167259
+[755]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167262
+[756]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167264
+[757]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167266
+[758]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167269
+[759]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167271
+[760]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167273
+[761]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167275
+[762]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167277
+[763]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167279
+[764]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM323252
+[765]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM127010
+[766]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167281
+[767]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167286
+[768]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167291
+[769]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167293
+[770]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM348353
+[771]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167296
+[772]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167298
+[773]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM390002
+[774]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167500
+[775]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM122284
+[776]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167502
+[777]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM5673801
+[778]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM167540
+[779]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM147087
+[780]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM153418
+[781]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165341
+[782]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165362
+[783]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165365
+[784]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165374
+[785]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165394
+[786]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165397
+[787]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165607
+[788]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165627
+[789]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165630
+[790]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165637
+[791]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165675
+[792]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165678
+[793]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165687
+[794]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165710
+[795]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165713
+[796]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165722
+[797]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165742
+[798]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165745
+[799]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM165755
+[800]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM439978
+[801]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM440212
+[802]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM380090
+[803]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM380353
+[804]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM380376
+[805]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM401069
+[806]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM402734
+[807]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM402735
+[808]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM78184
+[809]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM205334
+[810]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM155371
+[811]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM157457
+[812]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM217123
+[813]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM295454
+[814]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM206904
+[815]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM309686
+[816]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM310402
+[817]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM428639
+[818]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM207804
+[819]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM307251
+[820]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM394333
+[821]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM394351
+[822]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM394372
+[823]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM394391
+[824]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM345313
+[825]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM94790
+[826]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM133512
+[827]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM341051
+[828]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM356285
+[829]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM356812
+[830]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM356815
+[831]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM356853
+[832]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM58265
+[833]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM1102247
+[834]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM1594507
+[835]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM2840723
+[836]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM88974
+[837]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM185033
+[838]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM74666
+[839]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM445028
+[840]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM95000
+[841]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM4356950
+[842]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM223196
+[843]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM224315
+[844]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM224318
+[845]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM224391
+[846]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM64263
+[847]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM42662
+[848]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM42925
+[849]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM42993
+[850]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM359440
+[851]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM79463
+[852]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM80225
+[853]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM80228
+[854]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM82343
+[855]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM2998516
+[856]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM2998515
+[857]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM2998532
+[858]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[859]: http://www.legislation.govt.nz/act/public/2012/0120/latest/link.aspx?id=DLM5627301
