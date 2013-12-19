@@ -1,5 +1,5 @@
 Reprint  
-as at 4 October 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -105,72 +105,74 @@ This Act is administered by Statistics New Zealand.
 
 [33][39][][39][Questions asked by Statistician to be answered][39]
 
-[34][40][][40][Completion of schedules by New Zealand agents of overseas traders carrying on business in New Zealand][40]
+[33A][40][][40][Waiver of obligation to answer questions][40]
 
-[35][41][][41][Right of entry][41]
+[34][41][][41][Completion of schedules by New Zealand agents of overseas traders carrying on business in New Zealand][41]
 
-[36][42][][42][Test purchases][42]
+[35][42][][42][Right of entry][42]
 
-[37][43][][43][Security of information][43]
+[36][43][][43][Test purchases][43]
 
-[37A][44][][44][Statistician authorised to disclose certain information][44]
+[37][44][][44][Security of information][44]
 
-[37B][45][][45][Disclosure of information collected jointly][45]
+[37A][45][][45][Statistician authorised to disclose certain information][45]
 
-[37C][46][][46][Disclosure of individual schedules for bona fide research or statistical purposes][46]
+[37B][46][][46][Disclosure of information collected jointly][46]
 
-[37D][47][][47][Disclosure of historical documents][47]
+[37C][47][][47][Disclosure of individual schedules for bona fide research or statistical purposes][47]
 
-[37DA][48][][48][Disclosure of individual schedules for statistical purposes][48]
+[37D][48][][48][Disclosure of historical documents][48]
 
-[37E][49][][49][Security of recorded information][49]
+[37DA][49][][49][Disclosure of individual schedules for statistical purposes][49]
 
-[37F][50][][50][Power of Statistician to release information to New Zealand Meat Producers Board][50]
+[37E][50][][50][Security of recorded information][50]
 
-[38][51][][51][Information is privileged][51]
+[37F][51][][51][Power of Statistician to release information to New Zealand Meat Producers Board][51]
 
-[Part 5][52]  
-[Offences and penalties][52]
+[38][52][][52][Information is privileged][52]
 
-[39][53][][53][Failure by enumerator, sub-enumerator, or agent to carry out duties][53] \[Repealed\]
+[Part 5][53]  
+[Offences and penalties][53]
 
-[40][54][][54][Omission to carry out duty, false declaration, unlawful information, and improper divulging of information][54]
+[39][54][][54][Failure by enumerator, sub-enumerator, or agent to carry out duties][54] \[Repealed\]
 
-[41][55][][55][Obstruction of employees of department][55]
+[40][55][][55][Omission to carry out duty, false declaration, unlawful information, and improper divulging of information][55]
 
-[42][56][][56][Impersonation of employees of the department][56]
+[41][56][][56][Obstruction of employees of department][56]
 
-[43][57][][57][Neglect or refusal to supply particulars][57]
+[42][57][][57][Impersonation of employees of the department][57]
 
-[44][58][][58][False statement][58]
+[43][58][][58][Neglect or refusal to supply particulars][58]
 
-[45][59][][59][Mutilation or defacement of schedules][59]
+[44][59][][59][False statement][59]
 
-[45A][60][][60][Offence to use information for unauthorised purpose or fail to comply with directions][60]
+[45][60][][60][Mutilation or defacement of schedules][60]
 
-[46][61][][61][Other offences][61]
+[45A][61][][61][Offence to use information for unauthorised purpose or fail to comply with directions][61]
 
-[46A][62][][62][Evidence in proceedings for offences][62]
+[46][62][][62][Other offences][62]
 
-[47][63][][63][General penalty][63]
+[46A][63][][63][Evidence in proceedings for offences][63]
 
-[Part 6][64]  
-[Miscellaneous provisions][64]
+[47][64][][64][General penalty][64]
 
-[48][65][][65][Time for filing charging document][65]
+[Part 6][65]  
+[Miscellaneous provisions][65]
 
-[49][66][][66][Regulations and Orders in Council][66]
+[48][66][][66][Time for filing charging document][66]
 
-[50][67][][67][Repeal and revocations][67]
+[49][67][][67][Regulations and Orders in Council][67]
 
-[Schedule][68]  
-[Regulations revoked][68]
+[50][68][][68][Repeal and revocations][68]
+
+[Schedule][69]  
+[Regulations revoked][69]
 
 ---
 
 An Act to consolidate and amend the Statistics Act 1955; and to make provision for official statistics; for a department having the name Statistics New Zealand and the office of Government Statistician; and for the independence of the Statistician in the execution of his duties
     
-*   Title: amended, on 15 December 1994, by [section 2(1)][69] of the Statistics Amendment Act 1994 (1994 No 159).
+*   Title: amended, on 15 December 1994, by [section 2(1)][70] of the Statistics Amendment Act 1994 (1994 No 159).
 
 ##### 1 Short Title
     
@@ -210,7 +212,7 @@ An Act to consolidate and amend the Statistics Act 1955; and to make provision f
     
     _government department_ means any department, or instrument of the Executive Government of New Zealand; and includes a government agency
     
-    _local authority_ means a local authority within the meaning of the [Local Government Act 2002][70]
+    _local authority_ means a local authority within the meaning of the [Local Government Act 2002][71]
     
     _means to access an electronic schedule_ means a personal identification number, a password, an access code, an encryption key, or any other information or device that the department requires a person to use in order to access an electronic schedule
     
@@ -234,7 +236,7 @@ An Act to consolidate and amend the Statistics Act 1955; and to make provision f
     
     *   (b) administrative and registration records and other forms and papers the statistical analyses of which are published regularly, or are planned to be published regularly, or could reasonably be published regularly
     
-    _public record_ has the meaning given to it in [section 4][71] of the Public Records Act 2005
+    _public record_ has the meaning given to it in [section 4][72] of the Public Records Act 2005
     
     _respondent_ means any person who supplies or is required to supply statistical information
     
@@ -250,19 +252,19 @@ An Act to consolidate and amend the Statistics Act 1955; and to make provision f
     
     Compare: 1955 No 45 s 2
     
-    Section 2 **appropriate officer**: replaced, on 1 July 2003, by [section 262][72] of the Local Government Act 2002 (2002 No 84). 
+    Section 2 **appropriate officer**: replaced, on 1 July 2003, by [section 262][73] of the Local Government Act 2002 (2002 No 84). 
     
-    Section 2 **department**: replaced, on 15 December 1994, by [section 2(2)][69] of the Statistics Amendment Act 1994 (1994 No 159).
+    Section 2 **department**: replaced, on 15 December 1994, by [section 2(2)][70] of the Statistics Amendment Act 1994 (1994 No 159).
     
     Section 2 **employee of the department**: replaced, on 14 August 1985, by section 2 of the Statistics Amendment Act 1985 (1985 No 119).
     
-    Section 2 **local authority**: replaced, on 1 July 2003, by [section 262][72] of the Local Government Act 2002 (2002 No 84).
+    Section 2 **local authority**: replaced, on 1 July 2003, by [section 262][73] of the Local Government Act 2002 (2002 No 84).
     
-    Section 2 **means to access an electronic schedule**: inserted, on 7 July 2010, by [section 4][73] of the Statistics Amendment Act 2010 (2010 No 86).
+    Section 2 **means to access an electronic schedule**: inserted, on 7 July 2010, by [section 4][74] of the Statistics Amendment Act 2010 (2010 No 86).
     
-    Section 2 **occupier** or **person in charge** paragraph (a): amended, on 1 June 2005, by [section 206][74] of the Corrections Act 2004 (2004 No 50).
+    Section 2 **occupier** or **person in charge** paragraph (a): amended, on 1 June 2005, by [section 206][75] of the Corrections Act 2004 (2004 No 50).
     
-    Section 2 **public record**: inserted, on 21 April 2005, by [section 67(1)][75] of the Public Records Act 2005 (2005 No 40).
+    Section 2 **public record**: inserted, on 21 April 2005, by [section 67(1)][76] of the Public Records Act 2005 (2005 No 40).
     
     Section 2 **schedule**: replaced, on 5 November 1982, by section 2 of the Statistics Amendment Act 1982 (1982 No 38).
 
@@ -321,7 +323,7 @@ Official statistics
     
     (3) In the case of a disagreement between the parties in any discussion pursuant to subsection (2), the Minister shall decide the matter.
     
-    Section 5(1): amended, on 1 July 2003, by [section 262][72] of the Local Government Act 2002 (2002 No 84).
+    Section 5(1): amended, on 1 July 2003, by [section 262][73] of the Local Government Act 2002 (2002 No 84).
 
 ##### 6 Minister to approve all statistical surveys
     
@@ -365,9 +367,9 @@ Official statistics
     
     Section 9: replaced, on 5 November 1982, by section 4 of the Statistics Amendment Act 1982 (1982 No 38).
     
-    Section 9(1): amended, on 15 December 1994, by [section 2(4)(a)][69] of the Statistics Amendment Act 1994 (1994 No 159).
+    Section 9(1): amended, on 15 December 1994, by [section 2(4)(a)][70] of the Statistics Amendment Act 1994 (1994 No 159).
     
-    Section 9(1) proviso paragraph (a): amended, on 15 December 1994, by [section 2(4)(a)][69] of the Statistics Amendment Act 1994 (1994 No 159).
+    Section 9(1) proviso paragraph (a): amended, on 15 December 1994, by [section 2(4)(a)][70] of the Statistics Amendment Act 1994 (1994 No 159).
 
 ##### 10 Meetings of statisticians and users of statistics
     
@@ -382,25 +384,25 @@ Official statistics
 ## Part 2  
 Department and Government Statistician
     
-*   Part 2 heading: replaced, on 15 December 1994, by [section 2(3)][69] of the Statistics Amendment Act 1994 (1994 No 159).
+*   Part 2 heading: replaced, on 15 December 1994, by [section 2(3)][70] of the Statistics Amendment Act 1994 (1994 No 159).
 
 ##### 12 Department
     
 *   (1) There shall be a department of State to be called Statistics New Zealand.
     
-    (2) The department is the same department as that existing immediately before the coming into force of the [Statistics Amendment Act 1994][76] and known as the Department of Statistics.
+    (2) The department is the same department as that existing immediately before the coming into force of the [Statistics Amendment Act 1994][77] and known as the Department of Statistics.
     
-    Section 12: replaced, on 15 December 1994, by [section 2(3)][69] of the Statistics Amendment Act 1994 (1994 No 159).
+    Section 12: replaced, on 15 December 1994, by [section 2(3)][70] of the Statistics Amendment Act 1994 (1994 No 159).
 
 ##### 13 Office of Government Statistician
     
-*   There shall from time to time be appointed under the [State Sector Act 1988][77] an officer to be called the Government Statistician, who shall be the administrative head of, and control, the department and have such functions, duties, and powers as are conferred or imposed on him by this Act or any other Act.
+*   There shall from time to time be appointed under the [State Sector Act 1988][78] an officer to be called the Government Statistician, who shall be the administrative head of, and control, the department and have such functions, duties, and powers as are conferred or imposed on him by this Act or any other Act.
     
     Compare: 1955 No 45 s 4
     
-    Section 13: amended, on 15 December 1994, by [section 2(4)(a)][69] of the Statistics Amendment Act 1994 (1994 No 159).
+    Section 13: amended, on 15 December 1994, by [section 2(4)(a)][70] of the Statistics Amendment Act 1994 (1994 No 159).
     
-    Section 13: amended, on 1 April 1988, pursuant to [section 90(a)][78] of the State Sector Act 1988 (1988 No 20).
+    Section 13: amended, on 1 April 1988, pursuant to [section 90(a)][79] of the State Sector Act 1988 (1988 No 20).
 
 ##### 14 Duties of Government Statistician
     
@@ -432,7 +434,7 @@ Department and Government Statistician
     
     *   (m) to carry out such investigations, do all such things, and provide such certificates, as may be required of him by any other Act:
     
-    *   (n) to supply, where the Statistician considers appropriate, specifications of the methods, procedures, and definitions used in the collection and preparation of the official statistics he produces, subject to [section 37][43].
+    *   (n) to supply, where the Statistician considers appropriate, specifications of the methods, procedures, and definitions used in the collection and preparation of the official statistics he produces, subject to [section 37][44].
     
     Compare: 1955 No 45 ss 3, 4(2)
     
@@ -454,7 +456,7 @@ Department and Government Statistician
 
 ##### 17 Deputy Government Statisticians
     
-*   (1) There shall from time to time be appointed under the [State Sector Act 1988][77] as many Deputy Government Statisticians as may be necessary for the effective and efficient carrying out of the functions and duties of the department.
+*   (1) There shall from time to time be appointed under the [State Sector Act 1988][78] as many Deputy Government Statisticians as may be necessary for the effective and efficient carrying out of the functions and duties of the department.
     
     (2) Subject to the control of the Statistician, each Deputy Government Statistician shall perform such general official duties (including the exercise of functions, duties, and powers of the Statistician) as are for the time being assigned to him by the Statistician.
     
@@ -464,15 +466,15 @@ Department and Government Statistician
     
     Section 17: replaced, on 19 October 1978, by section 2 of the Statistics Amendment Act 1978 (1978 No 126).
     
-    Section 17(1): amended, on 1 April 1988, pursuant to [section 90(a)][78] of the State Sector Act 1988 (1988 No 20).
+    Section 17(1): amended, on 1 April 1988, pursuant to [section 90(a)][79] of the State Sector Act 1988 (1988 No 20).
 
 ##### 18 Appointment of other employees
     
-*   There shall from time to time be appointed under the [State Sector Act 1988][77] such other employees of the department as may be required for the purpose of carrying out the provisions of this Act.
+*   There shall from time to time be appointed under the [State Sector Act 1988][78] such other employees of the department as may be required for the purpose of carrying out the provisions of this Act.
     
     Compare: 1955 No 45 s 6
     
-    Section 18: amended, on 1 April 1988, pursuant to [section 90(a)][78] of the State Sector Act 1988 (1988 No 20).
+    Section 18: amended, on 1 April 1988, pursuant to [section 90(a)][79] of the State Sector Act 1988 (1988 No 20).
 
 ##### 19 Employment of persons for collection of statistics
     
@@ -484,11 +486,11 @@ Department and Government Statistician
     
     (2) The duties of the persons appointed under subsection (1) shall be such as the Statistician determines.
     
-    (3) No person shall be deemed by reason only of his employment under this section to be employed in the service of Her Majesty for the purposes of the [State Sector Act 1988][77] or the [Government Superannuation Fund Act 1956][79].
+    (3) No person shall be deemed by reason only of his employment under this section to be employed in the service of Her Majesty for the purposes of the [State Sector Act 1988][78] or the [Government Superannuation Fund Act 1956][80].
     
     Section 19: replaced, on 14 August 1985, by section 3 of the Statistics Amendment Act 1985 (1985 No 119).
     
-    Section 19(1)(b): amended, on 7 July 2010, by [section 5][80] of the Statistics Amendment Act 2010 (2010 No 86).
+    Section 19(1)(b): amended, on 7 July 2010, by [section 5][81] of the Statistics Amendment Act 2010 (2010 No 86).
     
     Section 19(3): amended, on 1 April 1988, pursuant to section 90(a) of the State Sector Act 1988 (1988 No 20).
     
@@ -524,15 +526,15 @@ Department and Government Statistician
     
     (2) Any employee of any government department, if engaged in the collection and processing of official statistics, and if the information so collected is primarily for statistical purposes and the respondent has been so informed shall, subject to agreement with an appropriate officer of the department concerned, if required to do so by the Statistician, make a similar statutory declaration of secrecy, regardless of whether he has made a declaration of secrecy under any other Act.
     
-    (2A) An employee in the department responsible for the administration of the Public Records Act 2005 who has access to public records that are subject to the restriction of [section 37(2)][43] must, if required to do so by the Statistician, make a similar declaration of secrecy, whether or not that person has made a declaration of secrecy under any other Act.
+    (2A) An employee in the department responsible for the administration of the Public Records Act 2005 who has access to public records that are subject to the restriction of [section 37(2)][44] must, if required to do so by the Statistician, make a similar declaration of secrecy, whether or not that person has made a declaration of secrecy under any other Act.
     
-    (3) An employee who has made a statutory declaration of secrecy under subsection (2) of this section or subsection (2)(b) of [section 37C][46] shall be deemed to be an employee of the department for the purposes of---
+    (3) An employee who has made a statutory declaration of secrecy under subsection (2) of this section or subsection (2)(b) of [section 37C][47] shall be deemed to be an employee of the department for the purposes of---
         
     *   (a) subsection (1) of this section; and
     
-    *   (b) subsections (2) and (3) of [section 37][43].
+    *   (b) subsections (2) and (3) of [section 37][44].
     
-    (3A) In respect of subsections (2) and (3) of [section 37][43], subsection (3) of this section shall relate only to the statistical collections with which the employee is associated.
+    (3A) In respect of subsections (2) and (3) of [section 37][44], subsection (3) of this section shall relate only to the statistical collections with which the employee is associated.
     
     (3B) Every independent contractor engaged by the department under any contract (other than a contract of employment), and every employee of any such independent contractor, who is likely, in the course of carrying out the terms of that contract, to have access to information collected under the authority of this Act shall, if required to do so by the Statistician, make a statutory declaration of secrecy similar to the declaration of secrecy prescribed by subsection (1), regardless of whether that independent contractor or employee has made a declaration of secrecy under any other Act.
     
@@ -540,19 +542,19 @@ Department and Government Statistician
         
     *   (a) subsection (1) of this section; and
     
-    *   (b) subsections (2) and (3) of [section 37][43].
+    *   (b) subsections (2) and (3) of [section 37][44].
     
-    (4) A statutory declaration for the purposes of this section may be made before any person authorised for that purpose by or under the [Oaths and Declarations Act 1957][81] or before any other person authorised for that purpose by the Statistician; and the provisions of that Act shall apply in relation to any such declaration as if any person so authorised by the Statistician were so authorised by that Act.
+    (4) A statutory declaration for the purposes of this section may be made before any person authorised for that purpose by or under the [Oaths and Declarations Act 1957][82] or before any other person authorised for that purpose by the Statistician; and the provisions of that Act shall apply in relation to any such declaration as if any person so authorised by the Statistician were so authorised by that Act.
     
     (5) Every statutory declaration that is made for the purposes of this section shall be returned and recorded in such manner as the Statistician determines.
     
     Section 21(1): replaced, on 1 July 1983, by section 2 of the Statistics Amendment Act (No 2) 1982 (1982 No 163).
     
-    Section 21(1): amended, on 15 December 1994, by [section 2(4)(b)][69] of the Statistics Amendment Act 1994 (1994 No 159).
+    Section 21(1): amended, on 15 December 1994, by [section 2(4)(b)][70] of the Statistics Amendment Act 1994 (1994 No 159).
     
-    Section 21(2A): inserted, on 21 April 2005, by [section 67(1)][75] of the Public Records Act 2005 (2005 No 40).
+    Section 21(2A): inserted, on 21 April 2005, by [section 67(1)][76] of the Public Records Act 2005 (2005 No 40).
     
-    Section 21(2A): amended, on 1 February 2011, by [section 19][82] of the Public Records Amendment Act (No 2) 2010 (2010 No 133).
+    Section 21(2A): amended, on 1 February 2011, by [section 19][83] of the Public Records Amendment Act (No 2) 2010 (2010 No 133).
     
     Section 21(3): replaced, on 6 November 1986, by section 2 of the Statistics Amendment Act 1986 (1986 No 110).
     
@@ -591,13 +593,13 @@ Census of population and dwellings
     
     Compare: 1955 No 45 s 21
     
-    Section 23(1): amended, on 30 August 2011, by [section 4(1)][83] of the Duties of Statutory Officers (Census and Other Remedial Provisions) Act 2011 (2011 No 64).
+    Section 23(1): amended, on 30 August 2011, by [section 4(1)][84] of the Duties of Statutory Officers (Census and Other Remedial Provisions) Act 2011 (2011 No 64).
     
-    Section 23(3): replaced, on 7 July 2010, by [section 6][84] of the Statistics Amendment Act 2010 (2010 No 86).
+    Section 23(3): replaced, on 7 July 2010, by [section 6][85] of the Statistics Amendment Act 2010 (2010 No 86).
     
-    Section 23(4): inserted, on 30 August 2011, by [section 4(2)][83] of the Duties of Statutory Officers (Census and Other Remedial Provisions) Act 2011 (2011 No 64).
+    Section 23(4): inserted, on 30 August 2011, by [section 4(2)][84] of the Duties of Statutory Officers (Census and Other Remedial Provisions) Act 2011 (2011 No 64).
     
-    Section 23(5): inserted, on 30 August 2011, by [section 4(2)][83] of the Duties of Statutory Officers (Census and Other Remedial Provisions) Act 2011 (2011 No 64).
+    Section 23(5): inserted, on 30 August 2011, by [section 4(2)][84] of the Duties of Statutory Officers (Census and Other Remedial Provisions) Act 2011 (2011 No 64).
 
 ##### 24 Particulars to be collected at census
     
@@ -629,7 +631,7 @@ Census of population and dwellings
     
     (3) The fact that neither a schedule, nor a means to access an electronic schedule, was delivered to a person is not a defence to a prosecution under this Act for failure to fill in a schedule.
     
-    Section 25: replaced, on 7 July 2010, by [section 7][85] of the Statistics Amendment Act 2010 (2010 No 86).
+    Section 25: replaced, on 7 July 2010, by [section 7][86] of the Statistics Amendment Act 2010 (2010 No 86).
 
 ##### 26 Duty of occupier and other persons abiding in dwelling
     
@@ -703,27 +705,27 @@ Census of population and dwellings
     
     Compare: 1955 No 45 s 24
     
-    Section 26(2): replaced, on 7 July 2010, by [section 8(1)][86] of the Statistics Amendment Act 2010 (2010 No 86).
+    Section 26(2): replaced, on 7 July 2010, by [section 8(1)][87] of the Statistics Amendment Act 2010 (2010 No 86).
     
-    Section 26(2A): inserted, on 7 July 2010, by [section 8(1)][86] of the Statistics Amendment Act 2010 (2010 No 86).
+    Section 26(2A): inserted, on 7 July 2010, by [section 8(1)][87] of the Statistics Amendment Act 2010 (2010 No 86).
     
-    Section 26(2B): inserted, on 7 July 2010, by [section 8(1)][86] of the Statistics Amendment Act 2010 (2010 No 86).
+    Section 26(2B): inserted, on 7 July 2010, by [section 8(1)][87] of the Statistics Amendment Act 2010 (2010 No 86).
     
-    Section 26(2C): inserted, on 7 July 2010, by [section 8(1)][86] of the Statistics Amendment Act 2010 (2010 No 86).
+    Section 26(2C): inserted, on 7 July 2010, by [section 8(1)][87] of the Statistics Amendment Act 2010 (2010 No 86).
     
-    Section 26(2D): inserted, on 7 July 2010, by [section 8(1)][86] of the Statistics Amendment Act 2010 (2010 No 86).
+    Section 26(2D): inserted, on 7 July 2010, by [section 8(1)][87] of the Statistics Amendment Act 2010 (2010 No 86).
     
-    Section 26(2E): inserted, on 7 July 2010, by [section 8(1)][86] of the Statistics Amendment Act 2010 (2010 No 86).
+    Section 26(2E): inserted, on 7 July 2010, by [section 8(1)][87] of the Statistics Amendment Act 2010 (2010 No 86).
     
-    Section 26(2F): inserted, on 7 July 2010, by [section 8(1)][86] of the Statistics Amendment Act 2010 (2010 No 86).
+    Section 26(2F): inserted, on 7 July 2010, by [section 8(1)][87] of the Statistics Amendment Act 2010 (2010 No 86).
     
     Section 26(3): amended, on 14 August 1985, by section 6 of the Statistics Amendment Act 1985 (1985 No 119).
     
-    Section 26(3): amended, on 7 July 2010, by [section 8(2)][86] of the Statistics Amendment Act 2010 (2010 No 86).
+    Section 26(3): amended, on 7 July 2010, by [section 8(2)][87] of the Statistics Amendment Act 2010 (2010 No 86).
     
     Section 26(3) proviso: amended, on 14 August 1985, by section 6 of the Statistics Amendment Act 1985 (1985 No 119).
     
-    Section 26(3) proviso: amended, on 7 July 2010, by [section 8(2)][86] of the Statistics Amendment Act 2010 (2010 No 86).
+    Section 26(3) proviso: amended, on 7 July 2010, by [section 8(2)][87] of the Statistics Amendment Act 2010 (2010 No 86).
 
 ##### 27 Particulars of persons not abiding in any dwelling
     
@@ -780,7 +782,7 @@ Collection of statistics by the department
     
     *   (b) if delivery is effected by electronic means, the time when the electronic communication enters the associated information system.
     
-    Section 30: replaced, on 7 July 2010, by [section 9][87] of the Statistics Amendment Act 2010 (2010 No 86).
+    Section 30: replaced, on 7 July 2010, by [section 9][88] of the Statistics Amendment Act 2010 (2010 No 86).
 
 ##### 31 Onus to complete schedules
     
@@ -824,23 +826,23 @@ Collection of statistics by the department
     
     Compare: 1955 No 45 s 16
     
-    Section 31(1): replaced, on 7 July 2010, by [section 10(1)][88] of the Statistics Amendment Act 2010 (2010 No 86).
+    Section 31(1): replaced, on 7 July 2010, by [section 10(1)][89] of the Statistics Amendment Act 2010 (2010 No 86).
     
-    Section 31(2): replaced, on 7 July 2010, by [section 10(1)][88] of the Statistics Amendment Act 2010 (2010 No 86).
+    Section 31(2): replaced, on 7 July 2010, by [section 10(1)][89] of the Statistics Amendment Act 2010 (2010 No 86).
     
-    Section 31(2A): inserted, on 7 July 2010, by [section 10(1)][88] of the Statistics Amendment Act 2010 (2010 No 86).
+    Section 31(2A): inserted, on 7 July 2010, by [section 10(1)][89] of the Statistics Amendment Act 2010 (2010 No 86).
     
-    Section 31(3): replaced, on 7 July 2010, by [section 10(1)][88] of the Statistics Amendment Act 2010 (2010 No 86).
+    Section 31(3): replaced, on 7 July 2010, by [section 10(1)][89] of the Statistics Amendment Act 2010 (2010 No 86).
     
-    Section 31(3A): inserted, on 7 July 2010, by [section 10(1)][88] of the Statistics Amendment Act 2010 (2010 No 86).
+    Section 31(3A): inserted, on 7 July 2010, by [section 10(1)][89] of the Statistics Amendment Act 2010 (2010 No 86).
     
-    Section 31(4): amended, on 7 July 2010, by [section 10(2)][88] of the Statistics Amendment Act 2010 (2010 No 86).
+    Section 31(4): amended, on 7 July 2010, by [section 10(2)][89] of the Statistics Amendment Act 2010 (2010 No 86).
     
     Section 31(4A): inserted, on 5 November 1982, by section 8 of the Statistics Amendment Act 1982 (1982 No 38).
     
     Section 31(4B): inserted, on 5 November 1982, by section 8 of the Statistics Amendment Act 1982 (1982 No 38).
     
-    Section 31(5): amended, on 7 July 2010, by [section 10(3)][88] of the Statistics Amendment Act 2010 (2010 No 86).
+    Section 31(5): amended, on 7 July 2010, by [section 10(3)][89] of the Statistics Amendment Act 2010 (2010 No 86).
 
 ##### 32 Furnishing of information required in schedules
     
@@ -853,6 +855,22 @@ Collection of statistics by the department
 *   Every person who can be lawfully required to provide information pursuant to this Act shall, for the purpose of providing that information, to the best of his knowledge and belief, answer all questions asked him by the Statistician, or by any employee of the department authorised in writing by or on behalf of the Statistician.
     
     Compare: 1955 No 45 s 13
+
+##### 33A Waiver of obligation to answer questions
+    
+*   (1) This section applies to the collection of statistics by the statistician under this Part or under an agreement made by the statistician under [section 9][11].
+    
+    (2) The statistician may waive the application of all or any of [sections 31][37], [32][38], and [33][39] to the collection of particular statistics if satisfied that---
+        
+    *   (a) special circumstances of sensitivity apply to some of the questions asked and it is inappropriate to compel answers to those particular questions; and
+    
+    *   (b) the information is being collected to enable the production of official statistics of any or all of the kinds described in [section 4(a), (b), (d), and (i)][6]; and
+    
+    *   (c) the statistical validity of the information being collected will not be unduly compromised.
+    
+    (3) To avoid doubt, if the statistician has granted a waiver under subsection (2) in relation to any question, any person who would otherwise be required to answer the question does not commit an offence against [section 43][58] if the person declines to answer the question.
+    
+    Section 33A: inserted, on 5 December 2013, by [section 4][90] of the Statistics Amendment Act 2013 (2013 No 134).
 
 ##### 34 Completion of schedules by New Zealand agents of overseas traders carrying on business in New Zealand
     
@@ -910,7 +928,7 @@ Collection of statistics by the department
     
     Section 35: replaced, on 5 November 1982, by section 9 of the Statistics Amendment Act 1982 (1982 No 38).
     
-    Section 35(3): amended, on 30 June 1998, by [section 7][89] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 35(3): amended, on 30 June 1998, by [section 7][91] of the District Courts Amendment Act 1998 (1998 No 76).
 
 ##### 36 Test purchases
     
@@ -932,17 +950,17 @@ Collection of statistics by the department
     
     (5) For the purposes of subsection (4) the Statistician shall make such office rules as he considers necessary.
     
-    (6) Subsections (2) and (3) apply notwithstanding any provision contained in the [Customs and Excise Act 1996][90], the [Tax Administration Act 1994][91] or any other Act.
+    (6) Subsections (2) and (3) apply notwithstanding any provision contained in the [Customs and Excise Act 1996][92], the [Tax Administration Act 1994][93] or any other Act.
     
     Section 37: replaced, on 14 August 1985, by section 7(1) of the Statistics Amendment Act 1985 (1985 No 119).
     
-    Section 37(6): amended, on 1 October 1996, pursuant to [section 290(1)][92] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 37(6): amended, on 1 October 1996, pursuant to [section 290(1)][94] of the Customs and Excise Act 1996 (1996 No 27).
     
     Section 37(6): amended, on 1 April 1995, by section YB 1 of the Income Tax Act 1994 (1994 No 164).
 
 ##### 37A Statistician authorised to disclose certain information
     
-*   Notwithstanding [section 37][43], the Statistician may disclose the following information---
+*   Notwithstanding [section 37][44], the Statistician may disclose the following information---
         
     *   (a) information supplied by a person or undertaking in respect of which disclosure is consented to in writing by the person, or a competent officer of the undertaking, who or which supplied it:
     
@@ -960,13 +978,13 @@ Collection of statistics by the department
 
 ##### 37B Disclosure of information collected jointly
     
-*   Notwithstanding [section 37][43], particulars of any information collected jointly with a government department, local authority, or statutory body (whether corporate or unincorporated), pursuant to an agreement under [section 9][11] and information collected under any enactment other than this Act and processed by the department may be disclosed to that government department, local authority, or statutory body, and a completed or partly completed schedule obtained or an answer to any question put in the course of a joint collection, may be disclosed to any employee of that government department, local authority, or statutory body who has made a statutory declaration similar to the declaration of secrecy prescribed by [section 21][25].
+*   Notwithstanding [section 37][44], particulars of any information collected jointly with a government department, local authority, or statutory body (whether corporate or unincorporated), pursuant to an agreement under [section 9][11] and information collected under any enactment other than this Act and processed by the department may be disclosed to that government department, local authority, or statutory body, and a completed or partly completed schedule obtained or an answer to any question put in the course of a joint collection, may be disclosed to any employee of that government department, local authority, or statutory body who has made a statutory declaration similar to the declaration of secrecy prescribed by [section 21][25].
     
     Section 37B: replaced, on 14 August 1985, by section 7(1) of the Statistics Amendment Act 1985 (1985 No 119).
 
 ##### 37C Disclosure of individual schedules for bona fide research or statistical purposes
     
-*   (1) Despite [section 37][43], the Statistician may disclose individual schedules to any person if---
+*   (1) Despite [section 37][44], the Statistician may disclose individual schedules to any person if---
         
     *   (a) the information contained in the schedules is to be used by that person solely for bona fide research or statistical purposes in relation to a matter of public interest; and
     
@@ -992,23 +1010,23 @@ Collection of statistics by the department
     
     Section 37C: replaced, on 14 August 1985, by section 7(1) of the Statistics Amendment Act 1985 (1985 No 119).
     
-    Section 37C heading: amended, on 31 August 2012, by [section 4(1)][93] of the Statistics Amendment Act 2012 (2012 No 67).
+    Section 37C heading: amended, on 31 August 2012, by [section 4(1)][95] of the Statistics Amendment Act 2012 (2012 No 67).
     
-    Section 37C(1): replaced, on 31 August 2012, by [section 4(2)][93] of the Statistics Amendment Act 2012 (2012 No 67).
+    Section 37C(1): replaced, on 31 August 2012, by [section 4(2)][95] of the Statistics Amendment Act 2012 (2012 No 67).
     
-    Section 37C(2): replaced, on 31 August 2012, by [section 4(2)][93] of the Statistics Amendment Act 2012 (2012 No 67).
+    Section 37C(2): replaced, on 31 August 2012, by [section 4(2)][95] of the Statistics Amendment Act 2012 (2012 No 67).
     
-    Section 37C(4): replaced, on 31 August 2012, by [section 4(3)][93] of the Statistics Amendment Act 2012 (2012 No 67).
+    Section 37C(4): replaced, on 31 August 2012, by [section 4(3)][95] of the Statistics Amendment Act 2012 (2012 No 67).
 
 ##### 37D Disclosure of historical documents
     
-*   Despite [section 37][43], the Statistician may authorise the disclosure, after 100 years, of individual schedules (whether provided under [Part 3][26] or otherwise) that the Statistician has classified as historical documents, after having regard to the advice of the Chief Archivist.
+*   Despite [section 37][44], the Statistician may authorise the disclosure, after 100 years, of individual schedules (whether provided under [Part 3][26] or otherwise) that the Statistician has classified as historical documents, after having regard to the advice of the Chief Archivist.
     
-    Section 37D: replaced, on 21 April 2005, by [section 67(1)][75] of the Public Records Act 2005 (2005 No 40).
+    Section 37D: replaced, on 21 April 2005, by [section 67(1)][76] of the Public Records Act 2005 (2005 No 40).
 
 ##### 37DA Disclosure of individual schedules for statistical purposes
     
-*   (1) Despite [sections 37][43] and [37C][46], on and from the date of the transfer under [section 22(3)(a)][94] of the Public Records Act 2005 of individual schedules provided to the Statistician under [Part 3][26], the Statistician must authorise, solely for statistical purposes, the disclosure of those individual schedules.
+*   (1) Despite [sections 37][44] and [37C][47], on and from the date of the transfer under [section 22(3)(a)][96] of the Public Records Act 2005 of individual schedules provided to the Statistician under [Part 3][26], the Statistician must authorise, solely for statistical purposes, the disclosure of those individual schedules.
     
     (2) An individual schedule must not be disclosed under this section unless---
         
@@ -1018,7 +1036,7 @@ Collection of statistics by the department
     
     (3) The published results of a statistical project referred to in subsection (2) must not divulge more information than the Statistician could publish under this Part.
     
-    Section 37DA: inserted, on 21 April 2005, by [section 67(1)][75] of the Public Records Act 2005 (2005 No 40).
+    Section 37DA: inserted, on 21 April 2005, by [section 67(1)][76] of the Public Records Act 2005 (2005 No 40).
 
 ##### 37E Security of recorded information
     
@@ -1036,7 +1054,7 @@ Collection of statistics by the department
     
     _wool grower_, at any time, means a grower (within the meaning of section 2 of the Wool Board Act 1997) who or that then owns (in New Zealand) 250 or more sheep.
     
-    (2) Notwithstanding [section 37][43], but subject to subsection (3), the Statistician is authorised---
+    (2) Notwithstanding [section 37][44], but subject to subsection (3), the Statistician is authorised---
         
     *   (a) to supply, from time to time, to the Meat Board an index or list of the names and addresses of farmers.
     
@@ -1066,25 +1084,25 @@ Collection of statistics by the department
     
     Section 37F: replaced, on 14 August 1985, by section 7(1) of the Statistics Amendment Act 1985 (1985 No 119).
     
-    Section 37F heading: amended, on 15 September 2003, by [section 62(3)][95] of the Wool Industry Restructuring Act 2003 (2003 No 40).
+    Section 37F heading: amended, on 15 September 2003, by [section 62(3)][97] of the Wool Industry Restructuring Act 2003 (2003 No 40).
     
     Section 37F(1) **farmer**: replaced, on 17 December 1997, by section 82(1) of the Meat Board Act 1997 (1997 No 105).
     
-    Section 37F(1) **farmer**: amended, on 1 July 2004, pursuant to [section 90(1)][96] of the Meat Board Act 2004 (2004 No 58).
+    Section 37F(1) **farmer**: amended, on 1 July 2004, pursuant to [section 90(1)][98] of the Meat Board Act 2004 (2004 No 58).
     
     Section 37F(1) **Meat Board**: replaced, on 17 December 1997, by section 82(1) of the Meat Board Act 1997 (1997 No 105).
     
-    Section 3F(1) **Wool Board**: repealed, on 15 September 2003, by [section 62(3)][95] of the Wool Industry Restructuring Act 2003 (2003 No 40).
+    Section 3F(1) **Wool Board**: repealed, on 15 September 2003, by [section 62(3)][97] of the Wool Industry Restructuring Act 2003 (2003 No 40).
     
     Section 37F(1) **wool grower**: replaced, on 17 December 1997, by section 61(1) of the Wool Board Act 1997 (1997 No 107).
     
-    Section 37F(2)(b): repealed, on 15 September 2003, by [section 62(3)][95] of the Wool Industry Restructuring Act 2003 (2003 No 40).
+    Section 37F(2)(b): repealed, on 15 September 2003, by [section 62(3)][97] of the Wool Industry Restructuring Act 2003 (2003 No 40).
     
     Section 37F(4)(a): replaced, on 17 December 1997, by section 82(1) of the Meat Board Act 1997 (1997 No 105).
     
-    Section 37F(5): repealed, on 15 September 2003, by [section 62(3)][95] of the Wool Industry Restructuring Act 2003 (2003 No 40).
+    Section 37F(5): repealed, on 15 September 2003, by [section 62(3)][97] of the Wool Industry Restructuring Act 2003 (2003 No 40).
     
-    Section 37F(6): amended, on 15 September 2003, by [section 62(3)][95] of the Wool Industry Restructuring Act 2003 (2003 No 40).
+    Section 37F(6): amended, on 15 September 2003, by [section 62(3)][97] of the Wool Industry Restructuring Act 2003 (2003 No 40).
 
 ##### 38 Information is privileged
     
@@ -1137,13 +1155,13 @@ Offences and penalties
     
     Compare: 1955 No 45 s 30
     
-    Section 43(1): amended, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 43(1): amended, on 1 July 2013, by [section 413][99] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 43(1): amended, on 5 November 1982, by section 11(1)(a) of the Statistics Amendment Act 1982 (1982 No 38).
     
     Section 43(1): amended, on 5 November 1982, by section 11(1)(b) of the Statistics Amendment Act 1982 (1982 No 38).
     
-    Section 43(2): amended, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 43(2): amended, on 1 July 2013, by [section 413][99] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 43(2): amended, on 5 November 1982, by section 11(2)(a) of the Statistics Amendment Act 1982 (1982 No 38).
     
@@ -1165,17 +1183,17 @@ Offences and penalties
 
 ##### 45A Offence to use information for unauthorised purpose or fail to comply with directions
     
-*   (1) Every person to whom individual schedules are disclosed under [section 37C][46] commits an offence who knowingly contravenes---
+*   (1) Every person to whom individual schedules are disclosed under [section 37C][47] commits an offence who knowingly contravenes---
         
-    *   (a) [section 37C(4)(a)][46]; or
+    *   (a) [section 37C(4)(a)][47]; or
     
-    *   (b) [section 37C(4)(b)][46].
+    *   (b) [section 37C(4)(b)][47].
     
     (2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $500 or, in the case of a body corporate, not exceeding $2,000\.
     
-    Section 45A: inserted, on 31 August 2012, by [section 5][98] of the Statistics Amendment Act 2012 (2012 No 67).
+    Section 45A: inserted, on 31 August 2012, by [section 5][100] of the Statistics Amendment Act 2012 (2012 No 67).
     
-    Section 45A(2): amended, on 4 October 2013, by [regulation 3(1)][99] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    Section 45A(2): amended, on 4 October 2013, by [regulation 3(1)][101] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 46 Other offences
     
@@ -1203,7 +1221,7 @@ Offences and penalties
     
 *   Every person who commits an offence against this Act for which no penalty is prescribed elsewhere than in this section is liable on conviction to a fine not exceeding $500 or, in the case of a body corporate, not exceeding $2,000\.
     
-    Section 47: amended, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 47: amended, on 1 July 2013, by [section 413][99] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 47: amended, on 5 November 1982, by section 13(a) of the Statistics Amendment Act 1982 (1982 No 38).
     
@@ -1214,9 +1232,9 @@ Miscellaneous provisions
 
 ##### 48 Time for filing charging document
     
-*   Despite anything to the contrary in [section 25][100] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was committed.
+*   Despite anything to the contrary in [section 25][102] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was committed.
     
-    Section 48: replaced, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 48: replaced, on 1 July 2013, by [section 413][99] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 49 Regulations and Orders in Council
     
@@ -1238,14 +1256,14 @@ Miscellaneous provisions
     
 *   (1) The Statistics Act 1955 is hereby repealed.
     
-    (2) The regulations specified in the [Schedule][68] are hereby revoked.
+    (2) The regulations specified in the [Schedule][69] are hereby revoked.
 
 ---
 
 ## Schedule  
 Regulations revoked
 
-[s 50(2)][67]
+[s 50(2)][68]
 
 ##### Census Regulations 1951 (SR 1951/61)
 
@@ -1263,51 +1281,53 @@ Regulations revoked
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][101] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][102] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][103] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][104] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][103] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][104] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][105] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][106] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][99]
+*   [Statistics Amendment Act 2013][107] (2013 No 134)
     
-    [Statistics Amendment Act 2012][105] (2012 No 67)
+    Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][101]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][97]
+    [Statistics Amendment Act 2012][108] (2012 No 67)
     
-    Duties of Statutory Officers (Census and Other Remedial Provisions) Act 2011 (2011 No 64): [section 4][83]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][99]
     
-    Public Records Amendment Act (No 2) 2010 (2010 No 133): [section 19][82]
+    Duties of Statutory Officers (Census and Other Remedial Provisions) Act 2011 (2011 No 64): [section 4][84]
     
-    [Statistics Amendment Act 2010][106] (2010 No 86)
+    Public Records Amendment Act (No 2) 2010 (2010 No 133): [section 19][83]
     
-    Public Records Act 2005 (2005 No 40): [section 67(1)][75]
+    [Statistics Amendment Act 2010][109] (2010 No 86)
     
-    Meat Board Act 2004 (2004 No 58): [section 90(1)][96]
+    Public Records Act 2005 (2005 No 40): [section 67(1)][76]
     
-    Corrections Act 2004 (2004 No 50): [section 206][74]
+    Meat Board Act 2004 (2004 No 58): [section 90(1)][98]
     
-    Wool Industry Restructuring Act 2003 (2003 No 40): [section 62(3)][95]
+    Corrections Act 2004 (2004 No 50): [section 206][75]
     
-    Local Government Act 2002 (2002 No 84): [section 262][72]
+    Wool Industry Restructuring Act 2003 (2003 No 40): [section 62(3)][97]
     
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][89]
+    Local Government Act 2002 (2002 No 84): [section 262][73]
+    
+    District Courts Amendment Act 1998 (1998 No 76): [section 7][91]
     
     Wool Board Act 1997 (1997 No 107): section 61(1)
     
     Meat Board Act 1997 (1997 No 105): section 82(1)
     
-    Customs and Excise Act 1996 (1996 No 27): [section 290(1)][92]
+    Customs and Excise Act 1996 (1996 No 27): [section 290(1)][94]
     
-    [Income Tax Act 1994][107] (1994 No 164): section YB 1
+    [Income Tax Act 1994][110] (1994 No 164): section YB 1
     
-    [Statistics Amendment Act 1994][76] (1994 No 159)
+    [Statistics Amendment Act 1994][77] (1994 No 159)
     
     Statistics Amendment Act 1988 (1988 No 213)
     
-    State Sector Act 1988 (1988 No 20): [section 90(a)][78]
+    State Sector Act 1988 (1988 No 20): [section 90(a)][79]
     
     Statistics Amendment Act 1986 (1986 No 110)
     
@@ -1319,7 +1339,7 @@ Regulations revoked
     
     Statistics Amendment Act 1978 (1978 No 126)
     
-    Government Superannuation Fund Amendment Act 1976 (1976 No 30): [section 3(3)][108]
+    Government Superannuation Fund Amendment Act 1976 (1976 No 30): [section 3(3)][111]
 
 
 
@@ -1363,72 +1383,75 @@ Regulations revoked
 [37]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430910
 [38]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430912
 [39]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430913
-[40]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430914
-[41]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430915
-[42]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430918
-[43]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430919
-[44]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430924
-[45]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430926
-[46]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430928
-[47]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430930
-[48]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430933
-[49]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430935
-[50]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430937
-[51]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430959
-[52]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430960
-[53]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430961
-[54]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430963
-[55]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430964
-[56]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430965
-[57]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430966
-[58]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430970
-[59]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430971
-[60]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM4719407
-[61]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430972
-[62]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430973
-[63]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430975
-[64]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430977
-[65]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430978
-[66]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430979
-[67]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430980
-[68]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430981
-[69]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM347442
-[70]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM170872
-[71]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM345537
-[72]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM174088
-[73]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3044405
-[74]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM297136
-[75]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM346105
-[76]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM347436
-[77]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM129109
-[78]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM130377
-[79]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM446000
-[80]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3044408
-[81]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM314552
-[82]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3431136
-[83]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3921576
-[84]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3044409
-[85]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3044410
-[86]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3044412
-[87]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3044413
-[88]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3044415
-[89]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM427920
-[90]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM377340
-[91]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM348342
-[92]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM380186
-[93]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM4444707
-[94]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM345739
-[95]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM201327
-[96]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM302411
-[97]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3360714
-[98]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM4444708
-[99]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM5642106
-[100]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3360067
-[101]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM2998516
-[102]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM2998515
-[103]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM2998532
-[104]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[105]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM4444702
-[106]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3044400
-[107]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM1184504
-[108]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM439001
+[40]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM5823400
+[41]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430914
+[42]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430915
+[43]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430918
+[44]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430919
+[45]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430924
+[46]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430926
+[47]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430928
+[48]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430930
+[49]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430933
+[50]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430935
+[51]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430937
+[52]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430959
+[53]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430960
+[54]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430961
+[55]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430963
+[56]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430964
+[57]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430965
+[58]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430966
+[59]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430970
+[60]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430971
+[61]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM4719407
+[62]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430972
+[63]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430973
+[64]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430975
+[65]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430977
+[66]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430978
+[67]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430979
+[68]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430980
+[69]: http://www.legislation.govt.nz/act/public/1975/0001/latest/whole.html#DLM430981
+[70]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM347442
+[71]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM170872
+[72]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM345537
+[73]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM174088
+[74]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3044405
+[75]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM297136
+[76]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM346105
+[77]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM347436
+[78]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM129109
+[79]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM130377
+[80]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM446000
+[81]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3044408
+[82]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM314552
+[83]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3431136
+[84]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3921576
+[85]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3044409
+[86]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3044410
+[87]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3044412
+[88]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3044413
+[89]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3044415
+[90]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM5627707
+[91]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM427920
+[92]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM377340
+[93]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM348342
+[94]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM380186
+[95]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM4444707
+[96]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM345739
+[97]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM201327
+[98]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM302411
+[99]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3360714
+[100]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM4444708
+[101]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM5642106
+[102]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3360067
+[103]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM2998516
+[104]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM2998515
+[105]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM2998532
+[106]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[107]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM5627700
+[108]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM4444702
+[109]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM3044400
+[110]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM1184504
+[111]: http://www.legislation.govt.nz/act/public/1975/0001/latest/link.aspx?id=DLM439001
