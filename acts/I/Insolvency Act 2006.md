@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Business, Innovation, and Employment.
 
@@ -6235,13 +6235,13 @@ Compositions, proposals, summary instalment orders, and no asset procedure
         
     *   (a) the debtor has concealed assets with the intention of defrauding his or her creditors, for example, by transferring property to a trust; or
     
-    *   (b) the debtor has engaged in conduct that would, if the bankrupt were adjudicated bankrupt, constitute an offence under this Act; or
+    *   (b) the debtor has engaged in conduct that would, if he or she were adjudicated bankrupt, constitute an offence under this Act; or
     
     *   (c) the debtor has incurred a debt or debts knowing that the debtor does not have the means to repay them; or
     
     *   (d) a creditor intends applying for the debtor's adjudication as a bankrupt and it is likely that the outcome for the creditor if the debtor is adjudicated bankrupt will be materially better than if the debtor is admitted to the no asset procedure.
     
-    
+    Section 364(b): amended, on 5 December 2013, by [section 4][798] of the Insolvency Amendment Act 2013 (2013 No 121).
 
 ##### 365 Assignee must notify creditors
     
@@ -6263,7 +6263,7 @@ Compositions, proposals, summary instalment orders, and no asset procedure
     
     (2) The register must be maintained in accordance with [subpart 5][560] of Part 7\.
     
-    Section 368(1): amended, on 17 November 2009, by [section 13(6)][798] of the Insolvency Amendment Act 2009 (2009 No 52).
+    Section 368(1): amended, on 17 November 2009, by [section 13(6)][799] of the Insolvency Amendment Act 2009 (2009 No 52).
 
 #### Effect of entry to no asset procedure
 
@@ -6357,7 +6357,7 @@ Compositions, proposals, summary instalment orders, and no asset procedure
     
 *   Except in the case of termination by discharge under [section 377][473], the debtor's debts that became unenforceable on the debtor's entry to the no asset procedure become again enforceable on termination of the debtor's participation in the no asset procedure, and the debtor is liable to pay any penalties and interest that may have accrued.
     
-    Section 375: amended, on 17 November 2009, by [section 8][799] of the Insolvency Amendment Act 2009 (2009 No 52).
+    Section 375: amended, on 17 November 2009, by [section 8][800] of the Insolvency Amendment Act 2009 (2009 No 52).
 
 ##### 376 Creditor may apply to Assignee for termination
     
@@ -6395,19 +6395,19 @@ Compositions, proposals, summary instalment orders, and no asset procedure
     
     *   (b) in other cases, the date of revocation.
     
-    Section 377 heading: substituted, on 17 November 2009, by [section 9(1)][800] of the Insolvency Amendment Act 2009 (2009 No 52).
+    Section 377 heading: substituted, on 17 November 2009, by [section 9(1)][801] of the Insolvency Amendment Act 2009 (2009 No 52).
     
-    Section 377(2): substituted, on 17 November 2009, by [section 9(2)][800] of the Insolvency Amendment Act 2009 (2009 No 52).
+    Section 377(2): substituted, on 17 November 2009, by [section 9(2)][801] of the Insolvency Amendment Act 2009 (2009 No 52).
     
-    Section 377(3): added, on 17 November 2009, by [section 9(2)][800] of the Insolvency Amendment Act 2009 (2009 No 52).
+    Section 377(3): added, on 17 November 2009, by [section 9(2)][801] of the Insolvency Amendment Act 2009 (2009 No 52).
     
-    Section 377(4): added, on 17 November 2009, by [section 9(2)][800] of the Insolvency Amendment Act 2009 (2009 No 52).
+    Section 377(4): added, on 17 November 2009, by [section 9(2)][801] of the Insolvency Amendment Act 2009 (2009 No 52).
     
-    Section 377(5): added, on 17 November 2009, by [section 9(2)][800] of the Insolvency Amendment Act 2009 (2009 No 52).
+    Section 377(5): added, on 17 November 2009, by [section 9(2)][801] of the Insolvency Amendment Act 2009 (2009 No 52).
     
-    Section 377(6): added, on 17 November 2009, by [section 9(2)][800] of the Insolvency Amendment Act 2009 (2009 No 52).
+    Section 377(6): added, on 17 November 2009, by [section 9(2)][801] of the Insolvency Amendment Act 2009 (2009 No 52).
     
-    Section 377(7): added, on 17 November 2009, by [section 9(2)][800] of the Insolvency Amendment Act 2009 (2009 No 52).
+    Section 377(7): added, on 17 November 2009, by [section 9(2)][801] of the Insolvency Amendment Act 2009 (2009 No 52).
 
 ##### 377A Effect of discharge
     
@@ -6421,7 +6421,7 @@ Compositions, proposals, summary instalment orders, and no asset procedure
     
     (3) The debts and liabilities referred to in subsection (2) become again enforceable on discharge under [section 377][473], and the debtor is liable to pay any penalties and interest that may have accrued.
     
-    Section 377A: inserted (with effect on 10 March 2009), on 17 November 2009, by [section 10(2)][801] of the Insolvency Amendment Act 2009 (2009 No 52).
+    Section 377A: inserted (with effect on 10 March 2009), on 17 November 2009, by [section 10(2)][802] of the Insolvency Amendment Act 2009 (2009 No 52).
 
 ##### 377B Discharge does not release partners and others
     
@@ -6435,7 +6435,7 @@ Compositions, proposals, summary instalment orders, and no asset procedure
     
     *   (d) a guarantor or in the nature of a guarantor of the discharged debtor.
     
-    Section 377B: inserted, on 17 November 2009, by [section 11][802] of the Insolvency Amendment Act 2009 (2009 No 52).
+    Section 377B: inserted, on 17 November 2009, by [section 11][803] of the Insolvency Amendment Act 2009 (2009 No 52).
 
 ## Part 6  
 Insolvent deceased estates
@@ -6444,9 +6444,9 @@ Insolvent deceased estates
     
 *   (1) In this Part, unless the context otherwise requires,---
     
-    _administration_, in relation to the will or estate of a deceased person, has the same meaning as in the [Administration Act 1969][803]
+    _administration_, in relation to the will or estate of a deceased person, has the same meaning as in the [Administration Act 1969][804]
     
-    _administrator_ means an administrator within the meaning of the [Administration Act 1969][803]
+    _administrator_ means an administrator within the meaning of the [Administration Act 1969][804]
     
     _appointee_ means an appointee under [section 387(2)][488]
     
@@ -6462,11 +6462,11 @@ Insolvent deceased estates
     
     (3) The administrator of the property of a deceased person (_D_) that does not form part of D's estate as defined in subsection (1) is, and (whether or not there is an administrator) the appointee is not,---
         
-    *   (a) D's executor or administrator for the purposes of [section 6][804] of the Deaths by Accidents Compensation Act 1952:
+    *   (a) D's executor or administrator for the purposes of [section 6][805] of the Deaths by Accidents Compensation Act 1952:
     
-    *   (b) D's personal representative for the purposes of [section 48][805] of the Trustee Act 1956\.
+    *   (b) D's personal representative for the purposes of [section 48][806] of the Trustee Act 1956\.
     
-    Compare: 1967 No 54 [s 153][806]
+    Compare: 1967 No 54 [s 153][807]
 
 #### Application and order that estate be administered under this Part
 
@@ -6520,7 +6520,7 @@ Insolvent deceased estates
         
         
     
-    Compare: 1967 No 54 [s 154][807]
+    Compare: 1967 No 54 [s 154][808]
 
 ##### 381 Application by creditor or beneficiary for order under this Part
     
@@ -6556,7 +6556,7 @@ Insolvent deceased estates
     
     *   (b) the estate that should have been available for the deceased's creditors is reducing.
     
-    Compare: 1967 No 54 [s 155][808]
+    Compare: 1967 No 54 [s 155][809]
 
 ##### 382 Notice of application by creditor or beneficiary
     
@@ -6566,7 +6566,7 @@ Insolvent deceased estates
     
     *   (b) if there is no administrator, to the person specified by the court.
     
-    Compare: 1967 No 54 [s 156][809]
+    Compare: 1967 No 54 [s 156][810]
 
 ##### 383 When Registrar may hear application
     
@@ -6578,7 +6578,7 @@ Insolvent deceased estates
     
     (2) A Registrar may hear the application even if a Judge is available to hear it.
     
-    Compare: 1967 No 54 [s 157(2)][810]
+    Compare: 1967 No 54 [s 157(2)][811]
 
 ##### 384 Costs of application
     
@@ -6588,7 +6588,7 @@ Insolvent deceased estates
     
     *   (b) in either case, order costs to be paid by one party to another, or out of the estate.
     
-    Compare: 1967 No 54 [s 157(1)][810]
+    Compare: 1967 No 54 [s 157(1)][811]
 
 ##### 385 Court may order administration by Assignee or Public Trust
     
@@ -6600,7 +6600,7 @@ Insolvent deceased estates
     
     *   (b) the Assignee, Public Trust, or some other person, as the court thinks appropriate, must administer the estate.
     
-    Compare: 1967 No 54 [s 158][811]
+    Compare: 1967 No 54 [s 158][812]
 
 ##### 386 Certificate filed by Public Trust or Māori Trustee has effect as application and order
     
@@ -6614,31 +6614,31 @@ Insolvent deceased estates
     
     *   (b) the court in which Public Trust or the Māori Trustee has filed an election to administer under---
             
-        *   (i) Part 4 of the Public Trust Office Act 1957 or [Part 6][812] of the Public Trust Act 2001, in the case of Public Trust; or
+        *   (i) Part 4 of the Public Trust Office Act 1957 or [Part 6][813] of the Public Trust Act 2001, in the case of Public Trust; or
         
-        *   (ii) [section 12A][813] or [section 12B][814] of the Maori Trustee Act 1953, in the case of the Māori Trustee; or
+        *   (ii) [section 12A][814] or [section 12B][815] of the Maori Trustee Act 1953, in the case of the Māori Trustee; or
         
         
     
     *   (c) if no grant of administration has been issued or no election to administer has been filed, the court that Public Trust or the Māori Trustee thinks appropriate.
     
-    (4) An election to administer an estate under this Part may be combined with an election to administer the estate under [Part 6][812] of the Public Trust Act 2001 or [section 12A][813] or [section 12B][814] of the Maori Trustee Act 1953\.
+    (4) An election to administer an estate under this Part may be combined with an election to administer the estate under [Part 6][813] of the Public Trust Act 2001 or [section 12A][814] or [section 12B][815] of the Maori Trustee Act 1953\.
     
     (5) Powers conferred on Public Trust or the Māori Trustee under this Part are in addition to the powers conferred on either of them by any other enactment or law.
     
-    Compare: 1967 No 54 [s 160][815]
+    Compare: 1967 No 54 [s 160][816]
     
-    Section 386 heading: amended, on 1 July 2009, by [section 30(1)][816] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 386 heading: amended, on 1 July 2009, by [section 30(1)][817] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 386(1): amended, on 1 July 2009, by [section 30(1)][816] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 386(1): amended, on 1 July 2009, by [section 30(1)][817] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 386(3)(b): amended, on 1 July 2009, by [section 30(1)][816] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 386(3)(b): amended, on 1 July 2009, by [section 30(1)][817] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 386(3)(b)(ii): amended, on 1 July 2009, by [section 30(1)][816] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 386(3)(b)(ii): amended, on 1 July 2009, by [section 30(1)][817] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 386(3)(c): amended, on 1 July 2009, by [section 30(1)][816] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 386(3)(c): amended, on 1 July 2009, by [section 30(1)][817] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 386(5): amended, on 1 July 2009, by [section 30(1)][816] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 386(5): amended, on 1 July 2009, by [section 30(1)][817] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 #### Effect of order that estate be administered under this Part
 
@@ -6656,13 +6656,13 @@ Insolvent deceased estates
     
     *   (d) any other person.
     
-    Compare: 1967 No 54 [s 159(1)][817]
+    Compare: 1967 No 54 [s 159(1)][818]
 
 ##### 388 Appointee must realise, administer, and distribute estate
     
 *   The appointee must, as soon as practicable after the estate vests in the appointee, realise, administer, and distribute the assets in accordance with the law and practice of bankruptcy, subject to any modifications in this Part.
     
-    Compare: 1967 No 54 [s 159(1)][817]
+    Compare: 1967 No 54 [s 159(1)][818]
 
 ##### 389 Entitlement of surviving spouse to household furniture and effects
     
@@ -6676,7 +6676,7 @@ Insolvent deceased estates
     
     (5) The fact that the goods available for selection are subject to a charge or hire purchase agreement does not give S any rights to any other part of the deceased's property.
     
-    Compare: 1967 No 54 [s 159(2)][817]
+    Compare: 1967 No 54 [s 159(2)][818]
 
 ##### 390 Appointee may make allowance to surviving spouse
     
@@ -6684,7 +6684,7 @@ Insolvent deceased estates
     
     (2) However, the appointee must first obtain the consent of the creditors, which must be expressed in the form of an ordinary resolution.
     
-    Compare: 1967 No 54 [s 159(4)][817]
+    Compare: 1967 No 54 [s 159(4)][818]
 
 #### Administration of estate under this Part
 
@@ -6692,13 +6692,13 @@ Insolvent deceased estates
     
 *   [Sections 392 to 398][494] apply when an order has been made that the estate be administered under this Part.
     
-    Compare: 1967 No 54 [s 162(1)][818]
+    Compare: 1967 No 54 [s 162(1)][819]
 
 ##### 392 Appointee's authority, powers, and functions
     
 *   The appointee has, in relation to the estate, the same authority, powers, and functions as the Assignee has in relation to the property of a bankrupt.
     
-    Compare: 1967 No 54 [s 162(1)][818]
+    Compare: 1967 No 54 [s 162(1)][819]
 
 ##### 393 Distribution of estate
     
@@ -6712,7 +6712,7 @@ Insolvent deceased estates
             
         *   (i) medical expenses:
         
-        *   (ii) reasonable expenses for hospital care (as defined in [section 4(1)][819] of the Health and Disability Services (Safety) Act 2001) provided for the deceased, so far as those expenses are lawfully recoverable:
+        *   (ii) reasonable expenses for hospital care (as defined in [section 4(1)][820] of the Health and Disability Services (Safety) Act 2001) provided for the deceased, so far as those expenses are lawfully recoverable:
         
         
     
@@ -6722,7 +6722,7 @@ Insolvent deceased estates
     
     (2) For the purposes of subsection (1)(d), a reference in [section 274][354] to the date of adjudication must be read as a reference to the date of the deceased's death.
     
-    Compare: 1967 No 54 [s 162(1)(b), (2)][818]
+    Compare: 1967 No 54 [s 162(1)(b), (2)][819]
 
 ##### 394 Payment of surplus
     
@@ -6742,7 +6742,7 @@ Insolvent deceased estates
     
     (3) The court may make an order approving the distribution of the surplus as part of the order that the estate be administered under this Part, or at any time after, and the order may be varied in respect of the surplus that remains in the appointee's hands at the date of each variation.
     
-    Compare: 1967 No 54 [s 162(1)(c), (3)][818]
+    Compare: 1967 No 54 [s 162(1)(c), (3)][819]
 
 ##### 395 Creditor's notice to administrator
     
@@ -6750,7 +6750,7 @@ Insolvent deceased estates
     
     (2) After receipt of the notice, the administrator does not obtain a discharge for any payment of money or disposition of property by the administrator, unless it is done pursuant to the order.
     
-    Compare: 1967 No 54 [s 162(1)(d)][818]
+    Compare: 1967 No 54 [s 162(1)(d)][819]
 
 ##### 396 Appointee may act in relation to deceased's irregular transactions
     
@@ -6762,19 +6762,19 @@ Insolvent deceased estates
     
     *   (b) the court must not make an order under [section 213][275] unless it is satisfied that recovery of the deceased's contribution to the property of another is necessary to pay the debts of the estate in full (including interest).
     
-    Compare: 1967 No 54 [s 162(1)(e), (f)][818]
+    Compare: 1967 No 54 [s 162(1)(e), (f)][819]
 
 ##### 397 Appointee may cancel execution
     
 *   The appointee may cancel an execution against the deceased debtor's estate unless it was completed more than 3 months before the date of the order that the estate be administered under this Part.
     
-    Compare: 1967 No 54 [s 162(1)(g)][818]
+    Compare: 1967 No 54 [s 162(1)(g)][819]
 
 ##### 398 Administrator's acts valid before notice
     
 *   Nothing in this Act invalidates any payment made, or any act or thing done, in good faith by the administrator before the administrator had notice of an intention to apply for an order that the estate be administered under this Part.
     
-    Compare: 1967 No 54 [s 163][820]
+    Compare: 1967 No 54 [s 163][821]
 
 ## Part 7  
 Offences and miscellaneous provisions
@@ -6783,7 +6783,7 @@ Offences and miscellaneous provisions
 
 ##### 399 Appointment of Official Assignee for New Zealand and others
     
-*   (1) Suitable persons must be appointed under the [State Sector Act 1988][821] to the following positions under this Act:
+*   (1) Suitable persons must be appointed under the [State Sector Act 1988][822] to the following positions under this Act:
         
     *   (a) the Official Assignee for New Zealand:
     
@@ -6801,13 +6801,13 @@ Offences and miscellaneous provisions
     
     (5) Nothing in this section affects [section 59][74] or [section 404(3)][508].
     
-    Compare: 1967 No 54 [s 15][822]
+    Compare: 1967 No 54 [s 15][823]
 
 ##### 400 Assignee may act on behalf of another Assignee
     
 *   An Assignee or Deputy Assignee may act for, or in the place of, another Assignee or Deputy Assignee, and in that capacity has all the authority and powers of the Assignee or Deputy Assignee for whom, or in whose place, he or she acts.
     
-    Compare: 1967 No 54 [s 16][823]
+    Compare: 1967 No 54 [s 16][824]
 
 ##### 401 Assignee's use of name, seal, etc
     
@@ -6823,7 +6823,7 @@ Offences and miscellaneous provisions
     
     (4) An Assignee may execute all documents by signing the Assignee's own name over the official name, and need not affix a seal to any document, although he or she may do so.
     
-    Compare: 1967 No 54 [s 17][824]
+    Compare: 1967 No 54 [s 17][825]
 
 ##### 402 Assignee's additional rights and remedies
     
@@ -6841,23 +6841,23 @@ Offences and miscellaneous provisions
     
     *   (c) an appointee under [Part 6][476].
     
-    Compare: 1967 No 54 [s 18(1)][825]
+    Compare: 1967 No 54 [s 18(1)][826]
 
 ##### 404 Vacation of office by Assignee
     
 *   (1) An Assignee must vacate his or her office if he or she is adjudicated bankrupt.
     
-    (2) An Assignee is eligible, subject to the provisions of the [State Sector Act 1988][821], to be reappointed an Assignee when discharged from bankruptcy.
+    (2) An Assignee is eligible, subject to the provisions of the [State Sector Act 1988][822], to be reappointed an Assignee when discharged from bankruptcy.
     
     (3) This section does not affect the question of the employment of an Assignee who is adjudicated bankrupt whilst in any other position in the Public Service.
     
-    Compare: 1967 No 54 [s 18(3)][825]
+    Compare: 1967 No 54 [s 18(3)][826]
 
 ##### 405 Protection of Assignee
     
 *   An Assignee is not liable in any action or proceeding for any thing the Assignee may have done or omitted to do by reason only that the bankrupt is discharged or the bankruptcy is annulled.
     
-    Compare: 1967 No 54 [s 138][826]
+    Compare: 1967 No 54 [s 138][827]
 
 ##### 406 Assignee's remuneration
     
@@ -6865,7 +6865,7 @@ Offences and miscellaneous provisions
     
     (2) Remuneration that has been charged under subsection (1) and paid to the Assignee must be paid into a Crown Bank Account.
     
-    Compare: 1967 No 54 [s 166][827]
+    Compare: 1967 No 54 [s 166][828]
 
 ##### 407 Rates of Assignee's remuneration
     
@@ -6883,7 +6883,7 @@ Offences and miscellaneous provisions
     
     *   (e) rates by reference to any other criteria that may be specified.
     
-    Compare: 1967 No 54 [s 166A][828]
+    Compare: 1967 No 54 [s 166A][829]
 
 ##### 408 Assignee must apply for order of release
     
@@ -6899,7 +6899,7 @@ Offences and miscellaneous provisions
     
     *   (b) if the court refuses the order, may, on the application of any creditor or other person interested in the bankruptcy, make any order it thinks fit to remedy any breach of duty by the Assignee.
     
-    Compare: 1967 No 54 [s 133][829]
+    Compare: 1967 No 54 [s 133][830]
 
 ##### 409 Effect of order
     
@@ -6911,7 +6911,7 @@ Offences and miscellaneous provisions
     
     (2) The order must not be revoked except if it was obtained by fraud.
     
-    Compare: 1967 No 54 [s 133(5), (6)][829]
+    Compare: 1967 No 54 [s 133(5), (6)][830]
 
 ##### 410 Subsequent order of release
     
@@ -6921,7 +6921,7 @@ Offences and miscellaneous provisions
     
     (3) [Sections 408][512] and [409][513] apply to an application for a subsequent order of release.
     
-    Compare: 1967 No 54 [s 133(7)][829]
+    Compare: 1967 No 54 [s 133(7)][830]
 
 ### Subpart 2---The court
 
@@ -6935,13 +6935,13 @@ Offences and miscellaneous provisions
     
     *   (b) an application for annulment of a bankruptcy or the discharge of a bankrupt.
     
-    Compare: 1967 No 54 [s 5(1)][830]
+    Compare: 1967 No 54 [s 5(1)][831]
 
 ##### 412 Court may look at real nature of transaction
     
 *   In considering a transaction, the court may look at its real nature, and it does not matter that the transaction appears to be, or is described by the parties to it as being, something different.
     
-    Compare: 1967 No 54 [s 5(2)][830]
+    Compare: 1967 No 54 [s 5(2)][831]
 
 ##### 413 When Registrar or District Court Judge may exercise powers and jurisdiction of court
     
@@ -6971,7 +6971,7 @@ Offences and miscellaneous provisions
     
     (6) Nothing in this section affects the specific powers of a District Court Judge under this Act, for example, in [section 165][212].
     
-    Compare: 1967 No 54 [s 6][831]
+    Compare: 1967 No 54 [s 6][832]
 
 ##### 414 Rehearings and appeals
     
@@ -6979,13 +6979,13 @@ Offences and miscellaneous provisions
     
     (2) An aggrieved person may appeal to the Court of Appeal from a decision of the court or a Judge under this Act.
     
-    Compare: 1967 No 54 [s 8][832]
+    Compare: 1967 No 54 [s 8][833]
 
 ##### 415 Proceedings not halted pending appeal
     
 *   A notice of appeal does not halt proceedings under the decision under appeal unless the court or the Court of Appeal makes an order halting the proceedings.
     
-    Compare: 1967 No 54 [s 9(1)][833]
+    Compare: 1967 No 54 [s 9(1)][834]
 
 ##### 416 Suspension of adjudication pending appeal
     
@@ -6999,7 +6999,7 @@ Offences and miscellaneous provisions
     
     *   (b) the adjudication has not been suspended and the appeal succeeds.
     
-    Compare: 1967 No 54 [s 9(2)--(4)][833]
+    Compare: 1967 No 54 [s 9(2)--(4)][834]
 
 ##### 417 Court may extend time
     
@@ -7011,7 +7011,7 @@ Offences and miscellaneous provisions
     
     *   (b) on the conditions it thinks appropriate.
     
-    Compare: 1967 No 54 [s 10][834]
+    Compare: 1967 No 54 [s 10][835]
 
 ##### 418 Defects in proceedings
     
@@ -7019,7 +7019,7 @@ Offences and miscellaneous provisions
     
     (2) The court may order the defect to be corrected, and may order the proceeding to continue, on the conditions that the court thinks appropriate in the interests of everyone who has an interest in the proceeding.
     
-    Compare: 1967 No 54 [s 11][835]
+    Compare: 1967 No 54 [s 11][836]
 
 ### Subpart 3---Offences by bankrupt
 
@@ -7031,7 +7031,7 @@ Offences and miscellaneous provisions
     
     (3) For the purposes of subsection (1), B is rebuttably presumed to have committed the offence if B, when contracting the debt, had no reasonable ground for expecting that B would be able to pay the debt when it fell due for payment as well as pay all B's other debts (including future and contingent debts).
     
-    Compare: 1967 No 54 [s 126(1)(a), (c)][836]
+    Compare: 1967 No 54 [s 126(1)(a), (c)][837]
 
 ##### 420 Offences in relation to property
     
@@ -7055,7 +7055,7 @@ Offences and miscellaneous provisions
     
     *   (c) fraudulently removes any part of B's property to the value of $500 or more.
     
-    Compare: 1967 No 54 [s 126(1)(b), (g)][836]
+    Compare: 1967 No 54 [s 126(1)(b), (g)][837]
 
 ##### 421 Offence in relation to written statement to creditor, etc
     
@@ -7071,7 +7071,7 @@ Offences and miscellaneous provisions
     
     *   (b) the statement is not a true and fair statement of B's affairs.
     
-    Compare: 1967 No 54 [s 126(1)(e)][836]
+    Compare: 1967 No 54 [s 126(1)(e)][837]
 
 ##### 422 Offence in relation to documents, etc
     
@@ -7085,13 +7085,13 @@ Offences and miscellaneous provisions
     
     *   (d) prevents the production of any document affecting, or relating to, B's property, conduct, or dealings to any person to whom B has an obligation under this Act to produce it.
     
-    Compare: 1967 No 54 [s 126(1)(f)(i)--(iv)][836]
+    Compare: 1967 No 54 [s 126(1)(f)(i)--(iv)][837]
 
 ##### 423 Offence in relation to fictitious losses or expenses
     
 *   A bankrupt (_B_) commits an offence if, after an application for B's adjudication has been filed, or within 12 months immediately before the application is filed, B attempts to account for any part of B's property by fictitious losses or expenses.
     
-    Compare: 1967 No 54 [s 126(1)(h)][836]
+    Compare: 1967 No 54 [s 126(1)(h)][837]
 
 ##### 424 Offences in relation to credit, etc
     
@@ -7111,13 +7111,13 @@ Offences and miscellaneous provisions
     
     (2) A bankrupt (_B_) commits an offence if, within 3 years before an application for B's adjudication has been filed or at any time after the application is filed, B pawns, mortgages, pledges, or disposes of, otherwise than in the ordinary course of trade, any property that B has obtained and has not paid for.
     
-    Compare: 1967 No 54 [s 126(1)(i)][836]
+    Compare: 1967 No 54 [s 126(1)(i)][837]
 
 ##### 425 Offences in relation to obtaining consent of creditors
     
 *   A bankrupt (_B_) commits an offence if B makes a false representation for, or is guilty of any other fraud for, the purpose of obtaining the consent of any 1 or more of B's creditors to any agreement with reference to B's affairs or B's bankruptcy.
     
-    Compare: 1967 No 54 [s 126(1)(j)][836]
+    Compare: 1967 No 54 [s 126(1)(j)][837]
 
 ##### 426 Offence in relation to leaving New Zealand
     
@@ -7129,7 +7129,7 @@ Offences and miscellaneous provisions
     
     *   (c) prepares to leave New Zealand (either temporarily or permanently), taking with him or her any part of that property.
     
-    Compare: 1967 No 54 [s 126(1)(k)][836]
+    Compare: 1967 No 54 [s 126(1)(k)][837]
 
 ##### 427 Defence of absence of intent
     
@@ -7153,7 +7153,7 @@ Offences and miscellaneous provisions
     
 *   (1) A bankrupt who commits an offence under any of [sections 419 to 426][525] is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $10,000 or both.
     
-    (2) Despite anything to the contrary in [section 25][837] of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against any of [sections 419 to 426][525].
+    (2) Despite anything to the contrary in [section 25][838] of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against any of [sections 419 to 426][525].
     
     Section 428 heading: amended, on 1 July 2013, by [section 413][658] of the Criminal Procedure Act 2011 (2011 No 81).
     
@@ -7171,9 +7171,9 @@ Offences and miscellaneous provisions
     
     *   (b) B failed to keep and preserve a proper record of the transactions.
     
-    (2) Despite anything to the contrary in [section 25][837] of the Criminal Procedure Act 2011, the limitation period for filing a charging document against a bankrupt in respect of an offence under this section ends on the date that is 2 years after the date of his or her adjudication.
+    (2) Despite anything to the contrary in [section 25][838] of the Criminal Procedure Act 2011, the limitation period for filing a charging document against a bankrupt in respect of an offence under this section ends on the date that is 2 years after the date of his or her adjudication.
     
-    Compare: 1967 No 54 [s 127(1)][838]
+    Compare: 1967 No 54 [s 127(1)][839]
     
     Section 429(2): replaced, on 1 July 2013, by [section 413][658] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -7181,9 +7181,9 @@ Offences and miscellaneous provisions
     
 *   (1) A bankrupt (_B_) commits an offence if, with intent to conceal the true state of his or her affairs, B has failed to keep and preserve a proper record of B's transactions.
     
-    (2) Despite anything to the contrary in [section 25][837] of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against this section.
+    (2) Despite anything to the contrary in [section 25][838] of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against this section.
     
-    Compare: 1967 No 54 [s 127(2)][838]
+    Compare: 1967 No 54 [s 127(2)][839]
     
     Section 430(2): inserted, on 1 July 2013, by [section 413][658] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -7223,7 +7223,7 @@ Offences and miscellaneous provisions
     
     *   (c) a daily record of all goods sold on credit.
     
-    Compare: 1967 No 54 [s 127(3), (4)][838]
+    Compare: 1967 No 54 [s 127(3), (4)][839]
 
 #### Offences in relation to Assignee
     
@@ -7255,7 +7255,7 @@ Offences and miscellaneous provisions
     
     (2) \[Repealed\]
     
-    Compare: 1967 No 54 [s 128(1), (2)][839]
+    Compare: 1967 No 54 [s 128(1), (2)][840]
     
     Section 433 heading: replaced, on 1 July 2013, by [section 413][658] of the Criminal Procedure Act 2011 (2011 No 81).
     
@@ -7281,7 +7281,7 @@ Offences and miscellaneous provisions
     
     (2) A bankrupt (_B_) does not commit an offence under [section 433A(b)][542] if B proves that, before incurring the liability of $1,000 or more, the person giving the credit was informed that the person incurring the liability was an undischarged bankrupt.
     
-    Compare: 1967 No 54 [s 128(1)(g)][839]
+    Compare: 1967 No 54 [s 128(1)(g)][840]
     
     Section 434 heading: amended, on 1 July 2013, by [section 413][658] of the Criminal Procedure Act 2011 (2011 No 81).
     
@@ -7291,7 +7291,7 @@ Offences and miscellaneous provisions
 
 ##### 434A Limitation period for offences against section 433 or 433A
     
-*   Despite anything to the contrary in [section 25][837] of the Criminal Procedure Act 2011, the limitation period for filing a charging document against a bankrupt in respect of an offence against [section 433][541] or [433A][542] ends on the date that is 2 years after the date on which the offence was committed.
+*   Despite anything to the contrary in [section 25][838] of the Criminal Procedure Act 2011, the limitation period for filing a charging document against a bankrupt in respect of an offence against [section 433][541] or [433A][542] ends on the date that is 2 years after the date on which the offence was committed.
     
     Section 434A: inserted, on 1 July 2013, by [section 413][658] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -7311,9 +7311,9 @@ Offences and miscellaneous provisions
     
     *   (b) fails without reasonable excuse to comply with [section 149][190].
     
-    (2) Despite anything to the contrary in [section 25][837] of the Criminal Procedure Act 2011, the limitation period in respect of an offence under subsection (1) ends on the date that is 2 years after the date on which the offence was committed.
+    (2) Despite anything to the contrary in [section 25][838] of the Criminal Procedure Act 2011, the limitation period in respect of an offence under subsection (1) ends on the date that is 2 years after the date on which the offence was committed.
     
-    Compare: 1967 No 54 [s 128A][840]
+    Compare: 1967 No 54 [s 128A][841]
     
     Section 436(2): replaced, on 1 July 2013, by [section 413][658] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -7331,7 +7331,7 @@ Offences and miscellaneous provisions
     
     (2) The Assignee may file a charging document against X if the Crown Solicitor certifies that there are reasonable grounds for prosecuting X.
     
-    Compare: 1967 No 54 [s 129][841]
+    Compare: 1967 No 54 [s 129][842]
     
     Section 438(2): amended, on 1 July 2013, by [section 413][658] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -7339,7 +7339,7 @@ Offences and miscellaneous provisions
     
 *   No action may be taken against the Assignee for malicious prosecution in relation to a prosecution under this Act if the Crown Solicitor certified that there were reasonable grounds for bringing the prosecution.
     
-    Compare: 1967 No 54 [s 129(2)][841]
+    Compare: 1967 No 54 [s 129(2)][842]
 
 ### Subpart 4---Miscellaneous provisions
 
@@ -7355,7 +7355,7 @@ Offences and miscellaneous provisions
     
     (2) A person who commits an offence under this section is liable on conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding $5,000 or both.
     
-    Compare: 1967 No 54 [s 164][842]
+    Compare: 1967 No 54 [s 164][843]
     
     Section 440(2): amended, on 1 July 2013, by [section 413][658] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -7423,11 +7423,11 @@ Offences and miscellaneous provisions
     
     (2) In subsection (1)(n), _prescribing the form_ includes specifying the content, means of communication, or any other requirement of a statement of affairs, application, or notice without necessarily specifying the use of a particular form.
     
-    Compare: 1967 No 54 [s 14][843]
+    Compare: 1967 No 54 [s 14][844]
 
 ##### 442 Rules
     
-*   (1) Rules may be made from time to time under the [Judicature Act 1908][844]---
+*   (1) Rules may be made from time to time under the [Judicature Act 1908][845]---
         
     *   (a) relating to the procedure of the court under this Act:
     
@@ -7477,19 +7477,19 @@ Offences and miscellaneous provisions
     
     *   (t) matters necessary for the administration of this Act or necessary for giving it full effect.
     
-    Compare: 1967 No 54 [s 13][845]
+    Compare: 1967 No 54 [s 13][846]
 
 ##### 443 Repeal and revocation
     
-*   (1) The [Insolvency Act 1967][846] is repealed.
+*   (1) The [Insolvency Act 1967][847] is repealed.
     
-    (2) The [Insolvency Regulations 1970][847], the [Insolvency (Priorities) Order 1988][848], and the [Summary Instalment Orders (District Court) Rules 1970][849] are revoked.
+    (2) The [Insolvency Regulations 1970][848], the [Insolvency (Priorities) Order 1988][849], and the [Summary Instalment Orders (District Court) Rules 1970][850] are revoked.
 
 ##### 444 Transitional provisions
     
 *   (1) In this section,---
     
-    _1967 Act_ means the [Insolvency Act 1967][846] as if it had not been repealed by this Act, and any rules or regulations made under that Act
+    _1967 Act_ means the [Insolvency Act 1967][847] as if it had not been repealed by this Act, and any rules or regulations made under that Act
     
     _commencement_ means the commencement of [Parts 1 to 7][3] of this Act
     
@@ -7513,19 +7513,19 @@ Offences and miscellaneous provisions
 
 ##### 445 Consequential amendments to other enactments
     
-*   The enactments specified in [Schedule 2][850] are amended in the manner indicated in that schedule.
+*   The enactments specified in [Schedule 2][851] are amended in the manner indicated in that schedule.
 
 ##### 445A Act subject to application of Cape Town Convention and Aircraft Protocol
     
-*   (1) [Part 3][127] and all other provisions of this Act are subject to [section 106][851] of the Civil Aviation Act 1990 (which provides for the primacy of the provisions of the Cape Town Convention and the Aircraft Protocol) and the rest of [Part 12][852] of the Civil Aviation Act 1990 (which implements the Cape Town Convention and the Aircraft Protocol).
+*   (1) [Part 3][127] and all other provisions of this Act are subject to [section 106][852] of the Civil Aviation Act 1990 (which provides for the primacy of the provisions of the Cape Town Convention and the Aircraft Protocol) and the rest of [Part 12][853] of the Civil Aviation Act 1990 (which implements the Cape Town Convention and the Aircraft Protocol).
     
     (2) In this section,---
     
-    _Aircraft Protocol_ has the same meaning as in [section 104(1)][853] of the Civil Aviation Act 1990
+    _Aircraft Protocol_ has the same meaning as in [section 104(1)][854] of the Civil Aviation Act 1990
     
-    _Cape Town Convention_ has the same meaning as in [section 104(1)][853] of the Civil Aviation Act 1990\.
+    _Cape Town Convention_ has the same meaning as in [section 104(1)][854] of the Civil Aviation Act 1990\.
     
-    Section 445A: inserted, on 1 November 2010, by [section 14(1)][854] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 445A: inserted, on 1 November 2010, by [section 14(1)][855] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
 
 ### Subpart 5---Public registers
 
@@ -7573,7 +7573,7 @@ Offences and miscellaneous provisions
     
     *   (c) provide statistical information and information for research purposes in relation to bankruptcy, summary instalment orders, and the no asset procedure.
     
-    Section 448(3)(a): amended, on 17 November 2009, by [section 12][855] of the Insolvency Amendment Act 2009 (2009 No 52).
+    Section 448(3)(a): amended, on 17 November 2009, by [section 12][856] of the Insolvency Amendment Act 2009 (2009 No 52).
 
 ##### 449 General information that must be held in public registers
     
@@ -7629,15 +7629,15 @@ Offences and miscellaneous provisions
     
     (5) All information relating to a person who has been adjudicated bankrupt but whose bankruptcy has been annulled under [section 309(1)(b) or (c)][397] or [section 310(2)(b) or (c)][398] must be removed 7 years after the date of adjudication from the public register maintained under [section 62][77].
     
-    Section 449(1): amended, on 17 November 2009, by [section 13(1)][798] of the Insolvency Amendment Act 2009 (2009 No 52).
+    Section 449(1): amended, on 17 November 2009, by [section 13(1)][799] of the Insolvency Amendment Act 2009 (2009 No 52).
     
-    Section 449(1)(b): amended, on 17 November 2009, by [section 13(2)][798] of the Insolvency Amendment Act 2009 (2009 No 52).
+    Section 449(1)(b): amended, on 17 November 2009, by [section 13(2)][799] of the Insolvency Amendment Act 2009 (2009 No 52).
     
-    Section 449(1)(ha): inserted, on 17 November 2009, by [section 13(3)][798] of the Insolvency Amendment Act 2009 (2009 No 52).
+    Section 449(1)(ha): inserted, on 17 November 2009, by [section 13(3)][799] of the Insolvency Amendment Act 2009 (2009 No 52).
     
-    Section 449(3): amended, on 17 November 2009, by [section 13(4)][798] of the Insolvency Amendment Act 2009 (2009 No 52).
+    Section 449(3): amended, on 17 November 2009, by [section 13(4)][799] of the Insolvency Amendment Act 2009 (2009 No 52).
     
-    Section 449(4A): inserted, on 17 November 2009, by [section 13(5)][798] of the Insolvency Amendment Act 2009 (2009 No 52).
+    Section 449(4A): inserted, on 17 November 2009, by [section 13(5)][799] of the Insolvency Amendment Act 2009 (2009 No 52).
 
 ##### 449A Information kept indefinitely on public register after multiple insolvency events
     
@@ -7651,9 +7651,9 @@ Offences and miscellaneous provisions
     
     (3) The Assignee must ensure that the public register contains all of the information required by this Act about the person and each insolvency event.
     
-    (4) Bankruptcies under the [Insolvency Act 1967][846] count for the purposes of subsections (1) and (3), but bankruptcies under the Bankruptcy Act 1908 do not count for either purpose.
+    (4) Bankruptcies under the [Insolvency Act 1967][847] count for the purposes of subsections (1) and (3), but bankruptcies under the Bankruptcy Act 1908 do not count for either purpose.
     
-    Section 449A: inserted, on 17 November 2009, by [section 14][856] of the Insolvency Amendment Act 2009 (2009 No 52).
+    Section 449A: inserted, on 17 November 2009, by [section 14][857] of the Insolvency Amendment Act 2009 (2009 No 52).
 
 ##### 450 Restricted information that may be held in public register maintained under section 62
     
@@ -7711,11 +7711,11 @@ Offences and miscellaneous provisions
     
     *   (h) is subject to [section 449A][565] (which relates to permanent retention of information on the register after multiple insolvency events).
     
-    Section 453(2)(da): inserted, on 17 November 2009, by [section 15(1)][857] of the Insolvency Amendment Act 2009 (2009 No 52).
+    Section 453(2)(da): inserted, on 17 November 2009, by [section 15(1)][858] of the Insolvency Amendment Act 2009 (2009 No 52).
     
-    Section 453(2)(g): amended, on 17 November 2009, by [section 15(2)][857] of the Insolvency Amendment Act 2009 (2009 No 52).
+    Section 453(2)(g): amended, on 17 November 2009, by [section 15(2)][858] of the Insolvency Amendment Act 2009 (2009 No 52).
     
-    Section 453(2)(h): added, on 17 November 2009, by [section 15(2)][857] of the Insolvency Amendment Act 2009 (2009 No 52).
+    Section 453(2)(h): added, on 17 November 2009, by [section 15(2)][858] of the Insolvency Amendment Act 2009 (2009 No 52).
 
 ##### 454 Search purposes
     
@@ -7731,9 +7731,9 @@ Offences and miscellaneous provisions
     
     *   (e) by any person for the purpose of ascertaining whether [section 449A][565] applies to another person.
     
-    Section 454(b): amended, on 17 November 2009, by [section 16(1)][858] of the Insolvency Amendment Act 2009 (2009 No 52).
+    Section 454(b): amended, on 17 November 2009, by [section 16(1)][859] of the Insolvency Amendment Act 2009 (2009 No 52).
     
-    Section 454(e): added, on 17 November 2009, by [section 16(2)][858] of the Insolvency Amendment Act 2009 (2009 No 52).
+    Section 454(e): added, on 17 November 2009, by [section 16(2)][859] of the Insolvency Amendment Act 2009 (2009 No 52).
 
 ##### 455 Information contained in public registers may be used for statistical or research purposes
     
@@ -7747,7 +7747,7 @@ Offences and miscellaneous provisions
 
 ##### 456 When search breaches information privacy principle
     
-*   A person who searches a public register for a purpose that is not a purpose set out in [section 454][570] must be treated, for the purposes of [Part 8][859] of the Privacy Act 1993, as if that person has breached an information privacy principle under [section 66(1)(a)(i)][860] of that Act.
+*   A person who searches a public register for a purpose that is not a purpose set out in [section 454][570] must be treated, for the purposes of [Part 8][860] of the Privacy Act 1993, as if that person has breached an information privacy principle under [section 66(1)(a)(i)][861] of that Act.
 
 ##### 457 Crown and Assignee not liable for act or omission
     
@@ -7796,7 +7796,7 @@ The Assignee has the power to---
 
 *   (q) execute a power of attorney, deed, or any other document for the purpose of carrying into effect the provisions of this Act:
 
-*   (r) exercise, in relation to the bankrupt's property, any power conferred on a trustee under the [Trustee Act 1956][861] or by the court under that Act; and for the purposes of those powers the Assignee is a trustee of the bankrupt's property:
+*   (r) exercise, in relation to the bankrupt's property, any power conferred on a trustee under the [Trustee Act 1956][862] or by the court under that Act; and for the purposes of those powers the Assignee is a trustee of the bankrupt's property:
 
 *   (s) exercise any authority or power or do any act in relation to the bankrupt's property that the bankrupt could have exercised or done if he or she was not bankrupt:
 
@@ -7834,7 +7834,7 @@ The Assignee has the power to---
     
     *   (iv) property authorised by a resolution of creditors to be sold by private contract, but in that case the Assignee must sell the property in accordance with the authority given by the creditors:
     
-    *   (v) company securities, New Zealand Government securities, and local authority securities, if sold on a securities market operated by a registered exchange registered under the [Securities Markets Act 1988][862].
+    *   (v) company securities, New Zealand Government securities, and local authority securities, if sold on a securities market operated by a registered exchange registered under the [Securities Markets Act 1988][863].
     
     
 
@@ -7852,37 +7852,37 @@ Amendments to Acts
 
 ##### Administration Act 1969 (1969 No 52)
 
-[Section 31][863]: omit ""Part 17 of the Insolvency Act 1967"" and substitute ""Part 6 of the Insolvency Act 2006"".
+[Section 31][864]: omit ""Part 17 of the Insolvency Act 1967"" and substitute ""Part 6 of the Insolvency Act 2006"".
 
-[Section 32(1)][864]: omit ""Part 17 of the Insolvency Act 1967"" and substitute ""Part 6 of the Insolvency Act 2006"".
+[Section 32(1)][865]: omit ""Part 17 of the Insolvency Act 1967"" and substitute ""Part 6 of the Insolvency Act 2006"".
 
-[Section 82(1)][865]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 82(1)][866]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 ##### Carriage of Goods Act 1979 (1979 No 43)
 
-[Section 11(4)][866]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 11(4)][867]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 ##### Companies Act 1993 (1993 No 105)
 
 [Section 103(2)][723]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
-Definition of **Official Assignee** in [section 240(1)][867]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+Definition of **Official Assignee** in [section 240(1)][868]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
-[Section 280(1)(l)][868]: omit ""section 111(1)(c) of the Insolvency Act 1967"" and substitute ""section 299(1)(c) of the Insolvency Act 2006"".
+[Section 280(1)(l)][869]: omit ""section 111(1)(c) of the Insolvency Act 1967"" and substitute ""section 299(1)(c) of the Insolvency Act 2006"".
 
-[Section 300(5)][869]: omit ""section 19(d) of the Insolvency Act 1967"" and substitute ""section 17(1)(a) of the Insolvency Act 2006"".
+[Section 300(5)][870]: omit ""section 19(d) of the Insolvency Act 1967"" and substitute ""section 17(1)(a) of the Insolvency Act 2006"".
 
-[Section 301(3)][870]: omit ""section 19(d) of the Insolvency Act 1967"" and substitute ""section 17(1)(a) of the Insolvency Act 2006"".
+[Section 301(3)][871]: omit ""section 19(d) of the Insolvency Act 1967"" and substitute ""section 17(1)(a) of the Insolvency Act 2006"".
 
-[Section 302(2)][871]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 302(2)][872]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 ##### Construction Contracts Act 2002 (2002 No 46)
 
-[Section 71(2)(a)][872]: omit ""section 32 of the Insolvency Act 1967"" and substitute ""section 76 of the Insolvency Act 2006"".
+[Section 71(2)(a)][873]: omit ""section 32 of the Insolvency Act 1967"" and substitute ""section 76 of the Insolvency Act 2006"".
 
 ##### Contractual Mistakes Act 1977 (1977 No 54)
 
-Definition of **disposition** in [section 8(3)][873]: omit and substitute:
+Definition of **disposition** in [section 8(3)][874]: omit and substitute:
 
 > "_disposition_ means---
 >     
@@ -7902,15 +7902,15 @@ Definition of **disposition** in [section 8(3)][873]: omit and substitute:
 
 ##### Copyright Act 1994 (1994 No 143)
 
-[Section 208(2)][874]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 208(2)][875]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 ##### Corporations (Investigation and Management) Act 1989 (1989 No 11)
 
-[Section 42(7)][875]: omit ""sections 93A to 93I of the Insolvency Act 1967"" and substitute ""sections 255 to 263 of the Insolvency Act 2006"".
+[Section 42(7)][876]: omit ""sections 93A to 93I of the Insolvency Act 1967"" and substitute ""sections 255 to 263 of the Insolvency Act 2006"".
 
-[Section 44(4)][876]: omit ""section 93C of the Insolvency Act 1967"" and substitute ""section 257 of the Insolvency Act 2006"".
+[Section 44(4)][877]: omit ""section 93C of the Insolvency Act 1967"" and substitute ""section 257 of the Insolvency Act 2006"".
 
-[Section 51(2)(b)(i) and (ii)][877]: repeal and substitute:
+[Section 51(2)(b)(i) and (ii)][878]: repeal and substitute:
 
 > *   "(i) proceeds of an account receivable that is subject to a security interest that---
 >         
@@ -7924,75 +7924,75 @@ Definition of **disposition** in [section 8(3)][873]: omit and substitute:
 > 
 > 
 
-[Section 51(6)][877]: omit ""section"" and substitute ""subsection.""
+[Section 51(6)][878]: omit ""section"" and substitute ""subsection.""
 
-[Section 51(6)(b)][877]: insert ""that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999"" after ""interest"".
+[Section 51(6)(b)][878]: insert ""that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999"" after ""interest"".
 
-[Section 51(6)(c)][877]: omit ""does not arise"" and substitute ""is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time the corporation was declared to be subject to statutory management and that arises"".
+[Section 51(6)(c)][878]: omit ""does not arise"" and substitute ""is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time the corporation was declared to be subject to statutory management and that arises"".
 
 ##### Corrections Act 2004 (2004 No 50)
 
-[Section 19(7)(c)][878]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 19(7)(c)][879]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 ##### Customs and Excise Act 1996 (1996 No 27)
 
-[Section 98(2)][879]: omit ""section 90 of the Insolvency Act 1967"" and substitute ""sections 243, 244, and 246 to 250 of the Insolvency Act 2006"".
+[Section 98(2)][880]: omit ""section 90 of the Insolvency Act 1967"" and substitute ""sections 243, 244, and 246 to 250 of the Insolvency Act 2006"".
 
-[Section 101(2)][880]: omit ""section 104 of the Insolvency Act 1967"" and substitute ""section 274(5) of the Insolvency Act 2006"".
+[Section 101(2)][881]: omit ""section 104 of the Insolvency Act 1967"" and substitute ""section 274(5) of the Insolvency Act 2006"".
 
 ##### District Courts Act 1947 (1947 No 16)
 
-[Section 90(3)][881]: omit ""section 50 of the Insolvency Act 1967"" and substitute ""sections 108 to 112 of the Insolvency Act 2006"".
+[Section 90(3)][882]: omit ""section 50 of the Insolvency Act 1967"" and substitute ""sections 108 to 112 of the Insolvency Act 2006"".
 
 ##### Employment Relations Act 2000 (2000 No 24)
 
-[Section 170(2)][882]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 170(2)][883]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 ##### Energy Companies Act 1992 (1992 No 52)
 
-[Section 6(1)(c)][883]: omit ""section 111 of the Insolvency Act 1967"" and substitute ""section 299 of the Insolvency Act 2006"".
+[Section 6(1)(c)][884]: omit ""section 111 of the Insolvency Act 1967"" and substitute ""section 299 of the Insolvency Act 2006"".
 
 ##### Fisheries Act 1996 (1996 No 88)
 
-[Section 270][884]: repeal.
+[Section 270][885]: repeal.
 
 ##### Forest and Rural Fires Act 1977 (1977 No 52)
 
-[Section 64(4)(a)][885]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 64(4)(a)][886]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 ##### Goods and Services Tax Act 1985 (1985 No 141)
 
-[Section 42(2)(c)(ii)(B)][886]: insert ""that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999"" after ""interest"".
+[Section 42(2)(c)(ii)(B)][887]: insert ""that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999"" after ""interest"".
 
-[Section 42(2)(c)(ii)(C)][886]: omit ""does not arise"" and substitute ""is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time of the receiver's appointment and that arises"".
+[Section 42(2)(c)(ii)(C)][887]: omit ""does not arise"" and substitute ""is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time of the receiver's appointment and that arises"".
 
 ##### Health and Disability Services (Safety) Act 2001 (2001 No 93)
 
-[Section 48(1)(b)(iii)][887]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 48(1)(b)(iii)][888]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
-[Section 49(1)(c)(iii)][888]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 49(1)(c)(iii)][889]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 ##### Health Practitioners Competence Assurance Act 2003 (2003 No 48)
 
-[Section 55(3)(c)][889]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 55(3)(c)][890]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
-[Section 87(4)(b)][890]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 87(4)(b)][891]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
-[Section 122(2)(b)][891]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 122(2)(b)][892]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
-[Clause 3(2)(b)][892] of Schedule 1: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Clause 3(2)(b)][893] of Schedule 1: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 ##### Human Rights Act 1993 (1993 No 82)
 
-[Section 20G(c)][893]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 20G(c)][894]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
-[Section 101(3)(a)][894]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 101(3)(a)][895]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
-[Section 103(2)][895]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 103(2)][896]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 ##### Illegal Contracts Act 1970 (1970 No 129)
 
-[Section 6(2)][896]: omit and substitute:
+[Section 6(2)][897]: omit and substitute:
 
 > *   "(2) In this section, _disposition_ means---
 >         
@@ -8014,41 +8014,41 @@ Definition of **disposition** in [section 8(3)][873]: omit and substitute:
 
 ##### Income Tax Act 2004 (2004 No 35)
 
-[Section CG 2(4)(b)][897]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section CG 2(4)(b)][898]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
-[Section EW 29(10)][898]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section EW 29(10)][899]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
-[Section EW 47(1)(b)(i)][899]: omit ""114 of the Insolvency Act 1967"" and substitute ""304 of the Insolvency Act 2006"".
+[Section EW 47(1)(b)(i)][900]: omit ""114 of the Insolvency Act 1967"" and substitute ""304 of the Insolvency Act 2006"".
 
-[Section EZ 35(6)(a)(i)][900]: omit ""114 of the Insolvency Act 1967"" and substitute ""304 of the Insolvency Act 2006"".
+[Section EZ 35(6)(a)(i)][901]: omit ""114 of the Insolvency Act 1967"" and substitute ""304 of the Insolvency Act 2006"".
 
-[Section EZ 35(8)(d)(ii)][900]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section EZ 35(8)(d)(ii)][901]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 ##### Industry Training Act 1992 (1992 No 55)
 
-[Section 16][901]: omit "", 23,"" and "", and section 23,"".
+[Section 16][902]: omit "", 23,"" and "", and section 23,"".
 
 ##### Insurance Intermediaries Act 1994 (1994 No 41)
 
-[Section 17(1)(c)][902]: omit ""Part 17 of the Insolvency Act 1967"" and substitute ""Part 6 of the Insolvency Act 2006"".
+[Section 17(1)(c)][903]: omit ""Part 17 of the Insolvency Act 1967"" and substitute ""Part 6 of the Insolvency Act 2006"".
 
-[Section 17(2)][902]: insert ""or the Insolvency Act 2006"" after ""Insolvency Act 1967"".
+[Section 17(2)][903]: insert ""or the Insolvency Act 2006"" after ""Insolvency Act 1967"".
 
 ##### Joint Family Homes Act 1964 (1964 No 45)
 
-[Section 9(2)(d)][903]: omit ""Insolvency Act 1967"" wherever it appears and in each case substitute ""Insolvency Act 2006"".
+[Section 9(2)(d)][904]: omit ""Insolvency Act 1967"" wherever it appears and in each case substitute ""Insolvency Act 2006"".
 
-[Section 12A(6)][904]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 12A(6)][905]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 ##### Judicature Act 1908 (1908 No 89)
 
-[Section 26I(2)(e)][905]: repeal and substitute:
+[Section 26I(2)(e)][906]: repeal and substitute:
 
 > *   "(e) Sections 123, 154, 165 to 168, 173, 179, 232 to 234, 236 to 238, Part 15A, and Part 16 of the Companies Act 1993:".
 > 
 > 
 
-[Section 26I(2)][905]: insert after paragraph (h):
+[Section 26I(2)][906]: insert after paragraph (h):
 
 > *   "(ha) the Insolvency Act 2006 (except sections 150, 166(3), 180, and 236(2)):
 > 
@@ -8056,31 +8056,31 @@ Definition of **disposition** in [section 8(3)][873]: omit and substitute:
 > 
 > 
 
-[Section 448(1)(g)][906]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 448(1)(g)][907]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
-[Section 651(1)(b)][907]: omit ""section 154(3) of the Insolvency Act 1967"" and substitute ""section 380(4)(c)(iii) of the Insolvency Act 2006"".
+[Section 651(1)(b)][908]: omit ""section 154(3) of the Insolvency Act 1967"" and substitute ""section 380(4)(c)(iii) of the Insolvency Act 2006"".
 
-[Section 819(1)][908]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 819(1)][909]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
-[Section 824(b)][909]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 824(b)][910]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
-[Rule 458D(1)(a)(vi)][910] of Schedule 2: omit ""294(2)"" and substitute ""296(5)"".
+[Rule 458D(1)(a)(vi)][911] of Schedule 2: omit ""294(2)"" and substitute ""296(5)"".
 
-[Rule 458EA(1)(b)][911] of Schedule 2: omit ""294(2)"" and substitute ""296(5)"".
+[Rule 458EA(1)(b)][912] of Schedule 2: omit ""294(2)"" and substitute ""296(5)"".
 
-[Rule 458EA(2)(b)][911] of Schedule 2: omit ""294(2)"" and substitute ""296(5)"".
+[Rule 458EA(2)(b)][912] of Schedule 2: omit ""294(2)"" and substitute ""296(5)"".
 
-[Rule 458H(3)(b)][912] of Schedule 2: omit ""294(2)"" and substitute ""296(5)"".
+[Rule 458H(3)(b)][913] of Schedule 2: omit ""294(2)"" and substitute ""296(5)"".
 
-[Rule 458I(1)(a)(ii)(B)][913] of Schedule 2: omit ""294(2)"" and substitute ""296(5)"".
+[Rule 458I(1)(a)(ii)(B)][914] of Schedule 2: omit ""294(2)"" and substitute ""296(5)"".
 
 ##### Lawyers and Conveyancers Act 2006 (2006 No 1)
 
-[Section 284(2)][914]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 284(2)][915]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
-[Clause 2(2)][915] of Schedule 3: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Clause 2(2)][916] of Schedule 3: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
-[Clause 3(3)][916] of Schedule 4: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Clause 3(3)][917] of Schedule 4: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 ##### Layby Sales Act 1971 (1971 No 80)
 
@@ -8096,27 +8096,27 @@ Definition of **disposition** in [section 8(3)][873]: omit and substitute:
 
 ##### Medicines Act 1981 (1981 No 118)
 
-[Section 55D(4)][917]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 55D(4)][918]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
-Paragraph (b) of the definition of **pharmacist** in [section 55E(3)][918]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+Paragraph (b) of the definition of **pharmacist** in [section 55E(3)][919]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 ##### Motor Vehicle Sales Act 2003 (2003 No 12)
 
-[Section 85(1)][919]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 85(1)][920]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
-[Section 88(4)(a)][920]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 88(4)(a)][921]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 ##### Personal Property Securities Act 1999 (1999 No 126)
 
-[Section 17A(a)][921]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 17A(a)][922]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 ##### Plumbers, Gasfitters, and Drainlayers Act 1976 (1976 No 69)
 
-[Section 6B(2)(b)][922]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 6B(2)(b)][923]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 ##### Privacy Act 1993 (1993 No 28)
 
-Item relating to the [Insolvency Act 1967][846] in [Part 1][923] of Schedule 2: omit and substitute:
+Item relating to the [Insolvency Act 1967][847] in [Part 1][924] of Schedule 2: omit and substitute:
 
 > Insolvency Act 2006Sections 62, 368
 > 
@@ -8124,13 +8124,13 @@ Item relating to the [Insolvency Act 1967][846] in [Part 1][923] of Schedule 2: 
 
 ##### Proceeds of Crime Act 1991 (1991 No 120)
 
-[Section 27(4)][924]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 27(4)][925]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
-[Section 60(1)][925]: omit ""section 23 of the Insolvency Act 1967"" and substitute ""section 13 of the Insolvency Act 2006"".
+[Section 60(1)][926]: omit ""section 23 of the Insolvency Act 1967"" and substitute ""section 13 of the Insolvency Act 2006"".
 
-[Section 60(2)][925]: omit ""section 42 of the Insolvency Act 1967"" and substitute ""section 101 of the Insolvency Act 2006"".
+[Section 60(2)][926]: omit ""section 42 of the Insolvency Act 1967"" and substitute ""section 101 of the Insolvency Act 2006"".
 
-[Section 60(3)][925]: omit ""section 87(2) of the Insolvency Act 1967"" and substitute ""section 232(2) of the Insolvency Act 2006"".
+[Section 60(3)][926]: omit ""section 87(2) of the Insolvency Act 1967"" and substitute ""section 232(2) of the Insolvency Act 2006"".
 
 ##### Property Law Act 1952 (1952 No 51)
 
@@ -8138,19 +8138,19 @@ _Items repealed._
 
 ##### Property (Relationships) Act 1976 (1976 No 166)
 
-[Section 58(1)][926]: repeal and substitute:
+[Section 58(1)][927]: repeal and substitute:
 
 > *   "(1) If, had this Act not been passed, any property would have become vested in an appointee (within the meaning of section 378(1) of the Insolvency Act 2006) on an order being made under section 379 of that Act to administer the estate of a deceased spouse or partner under Part 6 of that Act, then that property (and no other property) becomes vested in an appointee as if this Act had not been passed."
 > 
 > 
 
-[Section 59(1)(a)][927]: repeal and substitute:
+[Section 59(1)(a)][928]: repeal and substitute:
 
 > *   "(a) if, after the death of a spouse or partner, the family home (including a homestead) or, if section 11A applies, the proceeds of the sale of the family home vest in an appointee (within the meaning of section 378(1) of the Insolvency Act 2006) on an order being made under section 379 of that Act to administer the estate of a deceased spouse or partner under Part 6 of that Act:".
 > 
 > 
 
-[Section 88(3)(c)][928]: repeal and substitute:
+[Section 88(3)(c)][929]: repeal and substitute:
 
 > *   "(c) an appointee (within the meaning of section 378(1) of the Insolvency Act 2006) in whom the estate of a deceased spouse or partner vests on an order being made under section 379 of that Act."
 > 
@@ -8158,65 +8158,65 @@ _Items repealed._
 
 ##### Protection of Personal and Property Rights Act 1988 (1988 No 4)
 
-[Clause 1(a)(ii)][929] of Schedule 1: omit ""Part 16 of the Insolvency Act 1967"" and substitute ""subpart 3 of Part 5 of the Insolvency Act 2006"".
+[Clause 1(a)(ii)][930] of Schedule 1: omit ""Part 16 of the Insolvency Act 1967"" and substitute ""subpart 3 of Part 5 of the Insolvency Act 2006"".
 
 ##### Radiocommunications Act 1989 (1989 No 148)
 
-[Section 183(3)][930]: omit ""Subject to subsection (4) of this section, the"" and substitute ""The"".
+[Section 183(3)][931]: omit ""Subject to subsection (4) of this section, the"" and substitute ""The"".
 
-[Section 183(4) to (6)][930]: repeal.
+[Section 183(4) to (6)][931]: repeal.
 
 ##### Receiverships Act 1993 (1993 No 122)
 
-Definition of **Official Assignee** in [section 2(1)][931]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+Definition of **Official Assignee** in [section 2(1)][932]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
-[Section 5(1)(l)][932]: omit ""section 111(1)(c) of the Insolvency Act 1967"" and substitute ""section 299(1)(b) of the Insolvency Act 2006"".
+[Section 5(1)(l)][933]: omit ""section 111(1)(c) of the Insolvency Act 1967"" and substitute ""section 299(1)(b) of the Insolvency Act 2006"".
 
-[Section 31(1)(b)][933]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 31(1)(b)][934]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 ##### Reserve Bank of New Zealand Act 1989 (1989 No 157)
 
-[Section 122(7)][934]: omit ""sections 93A to 93I of the Insolvency Act 1967"" and substitute ""sections 255 to 263 of the Insolvency Act 2006"".
+[Section 122(7)][935]: omit ""sections 93A to 93I of the Insolvency Act 1967"" and substitute ""sections 255 to 263 of the Insolvency Act 2006"".
 
-[Section 127(4)][935]: omit ""section 93C of the Insolvency Act 1967"" and substitute ""section 257 of the Insolvency Act 2006"".
+[Section 127(4)][936]: omit ""section 93C of the Insolvency Act 1967"" and substitute ""section 257 of the Insolvency Act 2006"".
 
-[Section 134(6)(b)][936]: insert ""that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999"" after ""interest"".
+[Section 134(6)(b)][937]: insert ""that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999"" after ""interest"".
 
-[Section 134(6)(c)][936]: omit ""does not arise"" and substitute ""is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time the registered bank was declared to be subject to statutory management and that arises"".
+[Section 134(6)(c)][937]: omit ""does not arise"" and substitute ""is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time the registered bank was declared to be subject to statutory management and that arises"".
 
-[Section 136(1)(b)][937]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 136(1)(b)][938]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
-Paragraph (b) of the definition of **insolvency** in [section 156L][938]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"" _._
+Paragraph (b) of the definition of **insolvency** in [section 156L][939]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"" _._
 
-Heading to [section 156S][939]: omit ""**Insolvency Act 1967**"" and substitute ""**Insolvency Act 2006**"".
+Heading to [section 156S][940]: omit ""**Insolvency Act 1967**"" and substitute ""**Insolvency Act 2006**"".
 
-[Section 156S(b)][939]: repeal and substitute:
+[Section 156S(b)][940]: repeal and substitute:
 
 > *   "(b) sections 255 to 262 of the Insolvency Act 2006\."
 > 
 > 
 
-[Section 156T(1)(a)][940]: omit ""section 56 of the Insolvency Act 1967"" and substitute ""section 194 of the Insolvency Act 2006"".
+[Section 156T(1)(a)][941]: omit ""section 56 of the Insolvency Act 1967"" and substitute ""section 194 of the Insolvency Act 2006"".
 
-[Section 156T(2)][940]: omit ""section 56 of the Insolvency Act 1967"" and substitute ""section 194 of the Insolvency Act 2006"".
+[Section 156T(2)][941]: omit ""section 56 of the Insolvency Act 1967"" and substitute ""section 194 of the Insolvency Act 2006"".
 
 ##### Retirement Villages Act 2003 (2003 No 112)
 
-[Section 22(1)(b)][941]: omit ""section 75 of the Insolvency Act 1967"" and substitute ""section 117 of the Insolvency Act 2006"".
+[Section 22(1)(b)][942]: omit ""section 75 of the Insolvency Act 1967"" and substitute ""section 117 of the Insolvency Act 2006"".
 
 ##### Ship Registration Act 1992 (1992 No 89)
 
-[Section 51(6)(c)][942]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 51(6)(c)][943]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 ##### Social Workers Registration Act 2003 (2003 No 17)
 
-[Section 118(1)(a)][943]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 118(1)(a)][944]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
-[Clause 3(2)(a)][944] of Schedule 2: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Clause 3(2)(a)][945] of Schedule 2: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-[Part 2][945] of Schedule 1: omit the item relating to the [Insolvency Act 1967][846] and substitute:
+[Part 2][946] of Schedule 1: omit the item relating to the [Insolvency Act 1967][847] and substitute:
 
 > Insolvency Act 2006419 to 428, 430Offences by bankrupt
 > 
@@ -8224,76 +8224,76 @@ Heading to [section 156S][939]: omit ""**Insolvency Act 1967**"" and substitute 
 
 ##### Te Ture Whenua Maori Act 1993 (1993 No 4)
 
-[Section 343(4)][946]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 343(4)][947]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
-[Section 343(5)][946]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 343(5)][947]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 ##### Trans-Tasman Mutual Recognition Act 1997 (1997 No 60)
 
-[Section 48(4)(a)][947]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 48(4)(a)][948]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
-[Section 50(2)][948]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Section 50(2)][949]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 ##### Treaty of Waitangi Act 1975 (1975 No 114)
 
-[Clause 2(2)][949] of Schedule 2: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Clause 2(2)][950] of Schedule 2: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 ##### Trustee Companies Act 1967 (1967 No 35)
 
-[Section 7(2)(t)][950]: omit ""Part 15 of the Insolvency Act 1967"" and substitute ""subpart 2 of Part 5 of the Insolvency Act 2006"".
+[Section 7(2)(t)][951]: omit ""Part 15 of the Insolvency Act 1967"" and substitute ""subpart 2 of Part 5 of the Insolvency Act 2006"".
 
 ##### Unit Trusts Act 1960 (1960 No 99)
 
-[Section 27(3)][951]: omit ""paragraph (d) of subsection (1) of section 19 of the Insolvency Act 1967"" and substitute ""section 17(1)(a) of the Insolvency Act 2006"".
+[Section 27(3)][952]: omit ""paragraph (d) of subsection (1) of section 19 of the Insolvency Act 1967"" and substitute ""section 17(1)(a) of the Insolvency Act 2006"".
 
 ##### Volunteers Employment Protection Act 1973 (1973 No 25)
 
-[Section 15][952]: repeal.
+[Section 15][953]: repeal.
 
 ##### Weathertight Homes Resolution Services Act 2006 (2006 No 84)
 
-[Section 63(a)][953]: omit ""section 32 of the Insolvency Act 1967"" and substitute ""section 76 of the Insolvency Act 2006"".
+[Section 63(a)][954]: omit ""section 32 of the Insolvency Act 1967"" and substitute ""section 76 of the Insolvency Act 2006"".
 
-[Clause 5(2)][954] of Schedule 3: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Clause 5(2)][955] of Schedule 3: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 Schedule 2 Part 1 **Property Law Act 1952**: items repealed, on 1 January 2008, by [section 364(1)][671] of the Property Law Act 2007 (2007 No 91).
 
-Schedule 2 Part 1 **Weathertight Homes Resolution Services Act 2006** heading: amended, on 1 April 2007, by [section 127(3)(a)][955] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
+Schedule 2 Part 1 **Weathertight Homes Resolution Services Act 2006** heading: amended, on 1 April 2007, by [section 127(3)(a)][956] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
 
-Schedule 2 Part 1 **Weathertight Homes Resolution Services Act 2006**: amended, on 1 April 2007, by [section 127(3)(b)][955] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
+Schedule 2 Part 1 **Weathertight Homes Resolution Services Act 2006**: amended, on 1 April 2007, by [section 127(3)(b)][956] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
 
-Schedule 2 Part 1 **Weathertight Homes Resolution Services Act 2006**: amended, on 1 April 2007, by [section 127(3)(c)][955] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
+Schedule 2 Part 1 **Weathertight Homes Resolution Services Act 2006**: amended, on 1 April 2007, by [section 127(3)(c)][956] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
 
-Schedule 2 Part 1 **Weathertight Homes Resolution Services Act 2006**: amended, on 1 April 2007, by [section 127(3)(d)][955] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
+Schedule 2 Part 1 **Weathertight Homes Resolution Services Act 2006**: amended, on 1 April 2007, by [section 127(3)(d)][956] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
 
-Schedule 2 Part 1 **Weathertight Homes Resolution Services Act 2006**: amended, on 1 April 2007, by [section 127(3)(e)][955] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
+Schedule 2 Part 1 **Weathertight Homes Resolution Services Act 2006**: amended, on 1 April 2007, by [section 127(3)(e)][956] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
 
 ## Part 2  
 Amendments to Regulations
 
 ##### Domestic Violence (Public Registers) Regulations 1998 (SR 1998/342)
 
-[Schedule 1][956]: omit the item relating to the Insolvency Act 1967 and substitute:
+[Schedule 1][957]: omit the item relating to the Insolvency Act 1967 and substitute:
 
 Insolvency Act 2006Section 62
 
 ##### Education (Early Childhood Centres) Regulations 1998 (SR 1998/85)
 
-[Regulation 3(4)(c)][957]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Regulation 3(4)(c)][958]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 ##### Education (Hostels) Regulations 2005 (SR 2005/332)
 
-[Regulation 13(d)][958]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Regulation 13(d)][959]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
-[Regulation 38(d)][959]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
+[Regulation 38(d)][960]: omit ""Insolvency Act 1967"" and substitute ""Insolvency Act 2006"".
 
 ##### Futures Industry (Client Funds) Regulations 1990 (SR 1990/227)
 
-[Regulation 21(1)(c)][960]: omit ""Part 17 of the Insolvency Act 1967"" and substitute ""Part 6 of the Insolvency Act 2006"".
+[Regulation 21(1)(c)][961]: omit ""Part 17 of the Insolvency Act 1967"" and substitute ""Part 6 of the Insolvency Act 2006"".
 
 ##### Weights and Measures Regulations 1999 (SR 1999/373)
 
-[Regulation 17(1)(b)(ii)][961]: omit ""section 111 of the Insolvency Act 1967"" and substitute ""section 299 of the Insolvency Act 2006"".
+[Regulation 17(1)(b)(ii)][962]: omit ""section 111 of the Insolvency Act 1967"" and substitute ""section 299 of the Insolvency Act 2006"".
 
 ---
 
@@ -8305,7 +8305,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Insolvency Amendment Act 2009][962].
+*   This Act is the [Insolvency Amendment Act 2009][963].
 
 ##### 2 Commencement
     
@@ -8348,86 +8348,45 @@ Transitional provisions and amendment to Privacy Act 1993
     
     (3) To avoid doubt, the requirement in subsection (2) includes a requirement to ensure that the public register contains information about bankruptcies under the Insolvency Act 1967 in respect of any person to whom section 449A applies.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Insolvency Act 2006\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][963] ![](/images/external_link.gif).
+*   This is a reprint of the Insolvency Act 2006 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][964] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][964] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][965] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][965] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][966] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][967] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][966] and [17E][967] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Insolvency Amendment Act 2013][968] (2013 No 121)
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Insolvency (Maximum Priority Amount) Order 2012][968] (SR 2012/253)
+    [Insolvency (Maximum Priority Amount) Order 2012][969] (SR 2012/253)
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][658]
     
     Student Loan Scheme Act 2011 (2011 No 62): [section 223][585]
     
-    [Insolvency Amendment Act 2010][969] (2010 No 69)
+    [Insolvency Amendment Act 2010][970] (2010 No 69)
     
-    Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42): [section 14(1)][854]
+    Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42): [section 14(1)][855]
     
-    [Insolvency Amendment Act 2009][962] (2009 No 52)
+    [Insolvency Amendment Act 2009][963] (2009 No 52)
     
     Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [sections 861][663], [863][744]
     
     Insolvency (Maximum Priority Amount) Order 2009 (SR 2009/228): [clause 3][756]
     
-    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(1)][816]
+    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(1)][817]
     
     Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][745]
     
@@ -8435,13 +8394,13 @@ Transitional provisions and amendment to Privacy Act 1993
     
     [Insolvency Act 2006 Commencement Order 2007][576] (SR 2007/332)
     
-    Weathertight Homes Resolution Services Act 2006 (2006 No 84): [section 127(3)][955]
+    Weathertight Homes Resolution Services Act 2006 (2006 No 84): [section 127(3)][956]
     
     District Courts Rules 1992 (SR 1992/109): [rule 676][599]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2006/0055/latest/whole.html#DLM385802
 [2]: http://www.legislation.govt.nz/act/public/2006/0055/latest/whole.html#DLM385803
 [3]: http://www.legislation.govt.nz/act/public/2006/0055/latest/whole.html#DLM385804
@@ -9239,175 +9198,176 @@ Transitional provisions and amendment to Privacy Act 1993
 [795]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383772
 [796]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383774
 [797]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM2098101
-[798]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM1832109
-[799]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM2098102
-[800]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM1832132
-[801]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM1832100
-[802]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM2098103
-[803]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM392629
-[804]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM265863
-[805]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM305511
-[806]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383780
-[807]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383790
-[808]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383791
-[809]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383792
-[810]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383793
-[811]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383794
-[812]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM124015
-[813]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM282065
-[814]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM282072
-[815]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383799
-[816]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM1583888
-[817]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383797
-[818]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM384107
-[819]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM119982
-[820]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM384109
-[821]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM129109
-[822]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382517
-[823]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382522
-[824]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382523
-[825]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382524
-[826]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383744
-[827]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM384114
-[828]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM384117
-[829]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383726
-[830]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382399
-[831]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382500
-[832]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382503
-[833]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382505
-[834]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382507
-[835]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382508
-[836]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383298
-[837]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM3360067
-[838]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383701
-[839]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383702
-[840]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383710
-[841]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383714
-[842]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM384111
-[843]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382512
-[844]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM144692
-[845]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382510
-[846]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382333
-[847]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM33736
-[848]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM126151
-[849]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM75239
-[850]: http://www.legislation.govt.nz/act/public/2006/0055/latest/whole.html#DLM387877
-[851]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM3378214
-[852]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM3378654
-[853]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM3378200
-[854]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM3005756
-[855]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM1832107
-[856]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM1832115
-[857]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM1832111
-[858]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM1832113
-[859]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM297439
-[860]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM297441
-[861]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM304703
-[862]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM139726
-[863]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM392842
-[864]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM392843
-[865]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM393341
-[866]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM34053
-[867]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM321668
-[868]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM321952
-[869]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM322322
-[870]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM322323
-[871]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM322325
-[872]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM163468
-[873]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM443654
-[874]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM346877
-[875]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM144948
-[876]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM144954
-[877]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM144969
-[878]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM295417
-[879]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM378683
-[880]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM378687
-[881]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM244349
-[882]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM60953
-[883]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM267715
-[884]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM399358
-[885]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM443608
-[886]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM84526
-[887]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM120588
-[888]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM120589
-[889]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM203853
-[890]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM203895
-[891]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM204340
-[892]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM205214
-[893]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM304452
-[894]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM305402
-[895]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM305405
-[896]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM396457
-[897]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM247621
-[898]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM258105
-[899]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM258164
-[900]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM260783
-[901]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM266687
-[902]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM331879
-[903]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM353036
-[904]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM353055
-[905]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM146070
-[906]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM153570
-[907]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM155651
-[908]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM158348
-[909]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM158360
-[910]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM153938
-[911]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM153966
-[912]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM153973
-[913]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM153976
-[914]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM367346
-[915]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM368153
-[916]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM368166
-[917]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM56019
-[918]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM56022
-[919]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM188860
-[920]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM188864
-[921]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM46189
-[922]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM439377
-[923]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM298477
-[924]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM251087
-[925]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM251646
-[926]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM441959
-[927]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM441962
-[928]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM442085
-[929]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM128111
-[930]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM198264
-[931]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM327646
-[932]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM327707
-[933]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM327757
-[934]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM201245
-[935]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM201265
-[936]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM201280
-[937]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM201289
-[938]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM202004
-[939]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM202036
-[940]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM202038
-[941]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM220854
-[942]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM276615
-[943]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM190613
-[944]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM191200
-[945]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM314314
-[946]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM292899
-[947]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM411334
-[948]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM411336
-[949]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM435855
-[950]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM381446
-[951]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM325491
-[952]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM410473
-[953]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM404105
-[954]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM404437
-[955]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM404184
-[956]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM264449
-[957]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM247746
-[958]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM362080
-[959]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM362411
-[960]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM141604
-[961]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM301830
-[962]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM1832117
-[963]: http://www.pco.parliament.govt.nz/reprints/
-[964]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM195439
-[965]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[966]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM195468
-[967]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM195470
-[968]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM4655400
-[969]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM3042600
+[798]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM5623308
+[799]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM1832109
+[800]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM2098102
+[801]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM1832132
+[802]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM1832100
+[803]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM2098103
+[804]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM392629
+[805]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM265863
+[806]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM305511
+[807]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383780
+[808]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383790
+[809]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383791
+[810]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383792
+[811]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383793
+[812]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383794
+[813]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM124015
+[814]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM282065
+[815]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM282072
+[816]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383799
+[817]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM1583888
+[818]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383797
+[819]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM384107
+[820]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM119982
+[821]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM384109
+[822]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM129109
+[823]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382517
+[824]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382522
+[825]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382523
+[826]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382524
+[827]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383744
+[828]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM384114
+[829]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM384117
+[830]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383726
+[831]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382399
+[832]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382500
+[833]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382503
+[834]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382505
+[835]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382507
+[836]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382508
+[837]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383298
+[838]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM3360067
+[839]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383701
+[840]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383702
+[841]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383710
+[842]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM383714
+[843]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM384111
+[844]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382512
+[845]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM144692
+[846]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382510
+[847]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM382333
+[848]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM33736
+[849]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM126151
+[850]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM75239
+[851]: http://www.legislation.govt.nz/act/public/2006/0055/latest/whole.html#DLM387877
+[852]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM3378214
+[853]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM3378654
+[854]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM3378200
+[855]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM3005756
+[856]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM1832107
+[857]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM1832115
+[858]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM1832111
+[859]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM1832113
+[860]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM297439
+[861]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM297441
+[862]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM304703
+[863]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM139726
+[864]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM392842
+[865]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM392843
+[866]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM393341
+[867]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM34053
+[868]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM321668
+[869]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM321952
+[870]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM322322
+[871]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM322323
+[872]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM322325
+[873]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM163468
+[874]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM443654
+[875]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM346877
+[876]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM144948
+[877]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM144954
+[878]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM144969
+[879]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM295417
+[880]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM378683
+[881]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM378687
+[882]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM244349
+[883]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM60953
+[884]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM267715
+[885]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM399358
+[886]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM443608
+[887]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM84526
+[888]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM120588
+[889]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM120589
+[890]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM203853
+[891]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM203895
+[892]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM204340
+[893]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM205214
+[894]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM304452
+[895]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM305402
+[896]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM305405
+[897]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM396457
+[898]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM247621
+[899]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM258105
+[900]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM258164
+[901]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM260783
+[902]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM266687
+[903]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM331879
+[904]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM353036
+[905]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM353055
+[906]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM146070
+[907]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM153570
+[908]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM155651
+[909]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM158348
+[910]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM158360
+[911]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM153938
+[912]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM153966
+[913]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM153973
+[914]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM153976
+[915]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM367346
+[916]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM368153
+[917]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM368166
+[918]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM56019
+[919]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM56022
+[920]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM188860
+[921]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM188864
+[922]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM46189
+[923]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM439377
+[924]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM298477
+[925]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM251087
+[926]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM251646
+[927]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM441959
+[928]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM441962
+[929]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM442085
+[930]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM128111
+[931]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM198264
+[932]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM327646
+[933]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM327707
+[934]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM327757
+[935]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM201245
+[936]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM201265
+[937]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM201280
+[938]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM201289
+[939]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM202004
+[940]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM202036
+[941]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM202038
+[942]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM220854
+[943]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM276615
+[944]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM190613
+[945]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM191200
+[946]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM314314
+[947]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM292899
+[948]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM411334
+[949]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM411336
+[950]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM435855
+[951]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM381446
+[952]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM325491
+[953]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM410473
+[954]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM404105
+[955]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM404437
+[956]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM404184
+[957]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM264449
+[958]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM247746
+[959]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM362080
+[960]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM362411
+[961]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM141604
+[962]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM301830
+[963]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM1832117
+[964]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM2998516
+[965]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM2998515
+[966]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM2998532
+[967]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[968]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM5623300
+[969]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM4655400
+[970]: http://www.legislation.govt.nz/act/public/2006/0055/latest/link.aspx?id=DLM3042600
