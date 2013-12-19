@@ -9581,15 +9581,17 @@ Miscellaneous provisions
     
     _identifying information_ means personal information that identifies an individual, which may include the individual's passport number
     
-    _social security agreement_ means an agreement or convention, or alteration to an agreement or convention, in respect of which an Order in Council has been made under [section 19][877] of the Social Welfare (Transitional Provisions) Act 1990\.
+    _social security agreement_ means an agreement or convention, or alteration to an agreement or convention, in respect of which an Order in Council has been made under [section 19][877] of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990\.
     
     Compare: 1994 No 166 [ss 85B][878], [85C][879]
     
     Section 280A: inserted, on 27 April 2002, by [section 8][880] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
+    
+    Section 280A **social security agreement**: amended, on 5 December 2013, by [section 11(2)(a)][881] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
 
 ##### 280B Disclosure of arrival and departure information for purposes of mutual assistance provision contained in social security agreement
     
-*   (1) The purpose of this section is to facilitate the exchange of information between the Customs and the department for the purpose of giving assistance to the Government of a country with which New Zealand has a social security agreement that contains a mutual assistance provision of the kind referred to in [section 19A(2)(b)][881] of the Social Welfare (Transitional Provisions) Act 1990, to enable compliance with that agreement.
+*   (1) The purpose of this section is to facilitate the exchange of information between the Customs and the department for the purpose of giving assistance to the Government of a country with which New Zealand has a social security agreement that contains a mutual assistance provision of the kind referred to in [section 19A(2)(b)][882] of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990, to enable compliance with that agreement.
     
     (2) For the purpose of this section, the chief executive of the department may supply to the chief executive of Customs---
         
@@ -9599,7 +9601,7 @@ Miscellaneous provisions
     
     (3) If, in relation to any person, identifying information is supplied in accordance with subsection (2), the chief executive of the Customs may compare that information with any arrival and departure information held by the Customs that relates to that person.
     
-    (4) If the Customs has arrival or departure information relating to a person, the chief executive of the Customs may, for the purpose of this section, supply to an authorised officer any of the following information held by the Customs if that information is of a type specified in an agreement made under [section 19C(1)(d)][882] of the Social Welfare (Transitional Provisions) Act 1990:
+    (4) If the Customs has arrival or departure information relating to a person, the chief executive of the Customs may, for the purpose of this section, supply to an authorised officer any of the following information held by the Customs if that information is of a type specified in an agreement made under [section 19C(1)(d)][883] of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990:
         
     *   (a) the person's full name:
     
@@ -9626,12 +9628,16 @@ Miscellaneous provisions
     *   (b) may not supply that information to any other country without the prior written consent of the chief executive of the department, and that supply or consent may be subject to any conditions that the chief executive of the department considers appropriate to impose.
     
     Section 280B: inserted, on 27 April 2002, by [section 8][880] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
+    
+    Section 280B(1): amended, on 5 December 2013, by [section 11(2)(b)][881] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    
+    Section 280B(4): amended, on 5 December 2013, by [section 11(2)(b)][881] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
 
 ##### 280C Interpretation
     
 *   In [sections 280D][446] and [280E][447], unless the context otherwise requires,---
     
-    _amount of reparation_ has the same meaning as in [section 79][883] of the Summary Proceedings Act 1957
+    _amount of reparation_ has the same meaning as in [section 79][884] of the Summary Proceedings Act 1957
     
     _authorised officer_---
         
@@ -9643,15 +9649,15 @@ Miscellaneous provisions
     
     _fine_ means---
         
-    *   (a) a fine within the meaning of [section 79][883] of the Summary Proceedings Act 1957:
+    *   (a) a fine within the meaning of [section 79][884] of the Summary Proceedings Act 1957:
     
-    *   (b) a fine to which [section 19][884] of the Crimes Act 1961 applies:
+    *   (b) a fine to which [section 19][885] of the Crimes Act 1961 applies:
     
-    *   (c) a fine to which [section 43][885] or [45][886] of the Misuse of Drugs Amendment Act 1978 applies:
+    *   (c) a fine to which [section 43][886] or [45][887] of the Misuse of Drugs Amendment Act 1978 applies:
     
     *   (d) \[Repealed\]
     
-    *   (e) any amount payable under [section 138A(1)][887] of the Sentencing Act 2002
+    *   (e) any amount payable under [section 138A(1)][888] of the Sentencing Act 2002
     
     _fines enforcement action_ includes the execution of a warrant to arrest a person in respect of the non-payment of the whole, or of any part, of any fine
     
@@ -9671,17 +9677,17 @@ Miscellaneous provisions
     
     *   (c) the warrant has not been withdrawn or executed.
     
-    Section 280C: inserted, on 10 April 2006, by [section 4][888] of the Customs and Excise Amendment Act 2006 (2006 No 7).
+    Section 280C: inserted, on 10 April 2006, by [section 4][889] of the Customs and Excise Amendment Act 2006 (2006 No 7).
     
-    Section 280C **amount of reparation**: inserted, on 13 February 2012, by [section 4(3)][889] of the Customs and Excise Amendment Act 2011 (2011 No 36).
+    Section 280C **amount of reparation**: inserted, on 13 February 2012, by [section 4(3)][890] of the Customs and Excise Amendment Act 2011 (2011 No 36).
     
     Section 280C **authorised officer** paragraph (b): amended, on 8 December 2009, by [section 24][562] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 280C **fine**: replaced, on 13 February 2012, by [section 4(1)][889] of the Customs and Excise Amendment Act 2011 (2011 No 36).
+    Section 280C **fine**: replaced, on 13 February 2012, by [section 4(1)][890] of the Customs and Excise Amendment Act 2011 (2011 No 36).
     
     Section 280C **fine** paragraph (d): repealed, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 280C **reparation**: repealed, on 13 February 2012, by [section 4(2)][889] of the Customs and Excise Amendment Act 2011 (2011 No 36).
+    Section 280C **reparation**: repealed, on 13 February 2012, by [section 4(2)][890] of the Customs and Excise Amendment Act 2011 (2011 No 36).
 
 ##### 280D Disclosure of arrival and departure information for fines enforcement purposes
     
@@ -9721,7 +9727,7 @@ Miscellaneous provisions
     
     *   (c) the method by which information may be supplied.
     
-    Section 280D: inserted, on 10 April 2006, by [section 4][888] of the Customs and Excise Amendment Act 2006 (2006 No 7).
+    Section 280D: inserted, on 10 April 2006, by [section 4][889] of the Customs and Excise Amendment Act 2006 (2006 No 7).
 
 ##### 280E No Crown liability to third parties for fines enforcement action
     
@@ -9735,7 +9741,7 @@ Miscellaneous provisions
     
     (3) Nothing in subsection (2) applies to or affects any question of the liability of the Crown to the alleged defaulter.
     
-    Section 280E: inserted, on 10 April 2006, by [section 4][888] of the Customs and Excise Amendment Act 2006 (2006 No 7).
+    Section 280E: inserted, on 10 April 2006, by [section 4][889] of the Customs and Excise Amendment Act 2006 (2006 No 7).
 
 ##### 280F Customs may supply information concerning specified fines defaulters to chief executive of Department of Labour
     
@@ -9761,9 +9767,9 @@ Miscellaneous provisions
     
     _fine_ means a fine within the meaning of that term in [section 280C][445], other than---
         
-    *   (a) a fine imposed by, or resulting from the enforcement of, an order made or deemed to have been made under [section 21(5), (5A), or (9)][890] of the Summary Proceedings Act 1957; or
+    *   (a) a fine imposed by, or resulting from the enforcement of, an order made or deemed to have been made under [section 21(5), (5A), or (9)][891] of the Summary Proceedings Act 1957; or
     
-    *   (b) any amount payable under [section 138A(1)][887] of the Sentencing Act 2002
+    *   (b) any amount payable under [section 138A(1)][888] of the Sentencing Act 2002
     
     _specified fines defaulter_ means a person---
         
@@ -9777,43 +9783,43 @@ Miscellaneous provisions
     
     *   (b) for whom a warrant to arrest has been issued (and not withdrawn or executed) in respect of the non-payment of the whole or any part of any amount referred to in paragraph (a).
     
-    Section 280F: inserted, on 10 April 2006, by [section 4][888] of the Customs and Excise Amendment Act 2006 (2006 No 7).
+    Section 280F: inserted, on 10 April 2006, by [section 4][889] of the Customs and Excise Amendment Act 2006 (2006 No 7).
     
-    Section 280F(3) **fine**: replaced, on 13 February 2012, by [section 5][891] of the Customs and Excise Amendment Act 2011 (2011 No 36).
+    Section 280F(3) **fine**: replaced, on 13 February 2012, by [section 5][892] of the Customs and Excise Amendment Act 2011 (2011 No 36).
 
 ##### 280G Defined terms for sections 280H and 280I
     
 *   In [sections 280H][450] and [280I][451], unless the context otherwise requires,---
     
-    _borrower_ has the meaning given to it by [section 4(1)][892] of the Student Loan Scheme Act 2011
+    _borrower_ has the meaning given to it by [section 4(1)][893] of the Student Loan Scheme Act 2011
     
-    _Commissioner_ means the Commissioner of Inland Revenue as defined in [section 3(1)][893] of the Tax Administration Act 1994
+    _Commissioner_ means the Commissioner of Inland Revenue as defined in [section 3(1)][894] of the Tax Administration Act 1994
     
     _Department_ means the Inland Revenue Department
     
-    _identifying information_ means the information set out in [section 208(2)][894] of the Student Loan Scheme Act 2011 that identifies a borrower
+    _identifying information_ means the information set out in [section 208(2)][895] of the Student Loan Scheme Act 2011 that identifies a borrower
     
-    _officer of the Department_ has the meaning given to it by [section 3(1)][893] of the Tax Administration Act 1994
+    _officer of the Department_ has the meaning given to it by [section 3(1)][894] of the Tax Administration Act 1994
     
-    _serious default_ means the state of having an unpaid amount due and owing under the [Student Loan Scheme Act 2011][895] and satisfying criteria established in a manner to be determined by the Commissioner
+    _serious default_ means the state of having an unpaid amount due and owing under the [Student Loan Scheme Act 2011][896] and satisfying criteria established in a manner to be determined by the Commissioner
     
-    _unpaid amount_ has the meaning given to it by [section 5][896] of the Student Loan Scheme Act 2011\.
+    _unpaid amount_ has the meaning given to it by [section 5][897] of the Student Loan Scheme Act 2011\.
     
-    Section 280G: inserted, on 28 March 2007, by [section 41][897] of the Student Loan Scheme Amendment Act 2007 (2007 No 13).
+    Section 280G: inserted, on 28 March 2007, by [section 41][898] of the Student Loan Scheme Amendment Act 2007 (2007 No 13).
     
-    Section 280G **borrower**: amended, on 1 April 2012, by [section 223][898] of the Student Loan Scheme Act 2011 (2011 No 62).
+    Section 280G **borrower**: amended, on 1 April 2012, by [section 223][899] of the Student Loan Scheme Act 2011 (2011 No 62).
     
-    Section 280G **identifying information**: amended, on 1 April 2012, by [section 223][898] of the Student Loan Scheme Act 2011 (2011 No 62).
+    Section 280G **identifying information**: amended, on 1 April 2012, by [section 223][899] of the Student Loan Scheme Act 2011 (2011 No 62).
     
-    Section 280G **serious default**: inserted, on 30 March 2013, by [section 47][899] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 280G **serious default**: inserted, on 30 March 2013, by [section 47][900] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 280G **unpaid amount**: inserted, on 30 March 2013, by [section 47][899] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 280G **unpaid amount**: inserted, on 30 March 2013, by [section 47][900] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 280H Disclosure of arrival and departure information for purposes of Student Loan Scheme Act 2011
     
 *   (1) The purpose of this section is to facilitate the exchange of information between the Customs and the Department for the purposes of assisting the Commissioner to---
         
-    *   (a) verify whether borrowers are New Zealand-based or overseas-based for the purposes of the [Student Loan Scheme Act 2011][895]:
+    *   (a) verify whether borrowers are New Zealand-based or overseas-based for the purposes of the [Student Loan Scheme Act 2011][896]:
     
     *   (b) verify whether borrowers are New Zealand residents for the purposes of that Act:
     
@@ -9843,19 +9849,19 @@ Miscellaneous provisions
     
     *   (c) the method by which information may be supplied.
     
-    Section 280H: inserted, on 28 March 2007, by [section 41][897] of the Student Loan Scheme Amendment Act 2007 (2007 No 13).
+    Section 280H: inserted, on 28 March 2007, by [section 41][898] of the Student Loan Scheme Amendment Act 2007 (2007 No 13).
     
-    Section 280H heading: amended, on 1 April 2012, by [section 223][898] of the Student Loan Scheme Act 2011 (2011 No 62).
+    Section 280H heading: amended, on 1 April 2012, by [section 223][899] of the Student Loan Scheme Act 2011 (2011 No 62).
     
-    Section 280H(1): replaced, on 30 March 2013, by [section 48(1)][900] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 280H(1): replaced, on 30 March 2013, by [section 48(1)][901] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 280H(4)(e): inserted, on 30 March 2013, by [section 48(2)][900] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 280H(4)(e): inserted, on 30 March 2013, by [section 48(2)][901] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 280I Direct access to arrival and departure information for purposes of Student Loan Scheme Act 2011
     
 *   (1) The purpose of this section is to facilitate the Department's access to information stored in a database for the purpose of assisting the Commissioner to---
         
-    *   (a) verify whether borrowers are New Zealand-based or overseas-based for the purposes of the [Student Loan Scheme Act 2011][895]:
+    *   (a) verify whether borrowers are New Zealand-based or overseas-based for the purposes of the [Student Loan Scheme Act 2011][896]:
     
     *   (b) verify whether borrowers are New Zealand residents for the purposes of that Act:
     
@@ -9905,33 +9911,33 @@ Miscellaneous provisions
     
     _database_ means any information recording system used by the Customs to store arrival or departure information.
     
-    Section 280I: inserted, on 28 March 2007, by [section 41][897] of the Student Loan Scheme Amendment Act 2007 (2007 No 13).
+    Section 280I: inserted, on 28 March 2007, by [section 41][898] of the Student Loan Scheme Amendment Act 2007 (2007 No 13).
     
-    Section 280I heading: amended, on 1 April 2012, by [section 223][898] of the Student Loan Scheme Act 2011 (2011 No 62).
+    Section 280I heading: amended, on 1 April 2012, by [section 223][899] of the Student Loan Scheme Act 2011 (2011 No 62).
     
-    Section 280I(1): replaced, on 30 March 2013, by [section 49][901] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 280I(1): replaced, on 30 March 2013, by [section 49][902] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 280J Defined terms for sections 280K and 280L
     
 *   In [sections 280K][453] and [280L][454], unless the context otherwise requires,---
     
-    _Commissioner_ means the Commissioner of Inland Revenue as defined in [section 3(1)][893] of the Tax Administration Act 1994
+    _Commissioner_ means the Commissioner of Inland Revenue as defined in [section 3(1)][894] of the Tax Administration Act 1994
     
     _Department_ means the Inland Revenue Department
     
     _financial support debt_ means an amount owing to the Commissioner of---
         
-    *   (a) financial support as defined in [section 2][902] of the Child Support Act 1991:
+    *   (a) financial support as defined in [section 2][903] of the Child Support Act 1991:
     
-    *   (b) a penalty or interest under the [Child Support Act 1991][903]
+    *   (b) a penalty or interest under the [Child Support Act 1991][904]
     
     _identifying information_ means personal information that identifies an individual
     
-    _officer of the Department_ has the meaning given to it by [section 3(1)][893] of the Tax Administration Act 1994
+    _officer of the Department_ has the meaning given to it by [section 3(1)][894] of the Tax Administration Act 1994
     
     _serious default_ means the state of having an amount of financial support debt due and owing to the Commissioner of Inland Revenue and satisfying criteria agreed by the Commissioner and the Privacy Commissioner in consultation with the chief executive.
     
-    Section 280J: inserted, on 8 August 2008, by [section 293][904] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 280J: inserted, on 8 August 2008, by [section 293][905] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
 
 ##### 280K Disclosure of arrival and departure information for purposes of Child Support Act 1991
     
@@ -9965,7 +9971,7 @@ Miscellaneous provisions
     
     *   (c) the method by which information may be supplied.
     
-    Section 280K: inserted, on 8 August 2008, by [section 293][904] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 280K: inserted, on 8 August 2008, by [section 293][905] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
 
 ##### 280L Direct access to arrival and departure information for purposes of Child Support Act 1991
     
@@ -10017,7 +10023,7 @@ Miscellaneous provisions
     
     _database_ means any information recording system used by the Customs to store arrival or departure information.
     
-    Section 280L: inserted, on 8 August 2008, by [section 293][904] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 280L: inserted, on 8 August 2008, by [section 293][905] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
 
 ##### 281 Disclosure of information overseas
     
@@ -10129,7 +10135,7 @@ Miscellaneous provisions
     
     *   (b) in any other case, to a suspected violation of the law of the State concerned.
     
-    Section 281: substituted, on 2 July 2004, by [section 43][905] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 281: substituted, on 2 July 2004, by [section 43][906] of the Customs and Excise Amendment Act 2004 (2004 No 55).
 
 ##### 282 Information that may be disclosed
     
@@ -10161,13 +10167,13 @@ Miscellaneous provisions
     
     (2) [Section 281][455] does not prevent or limit any disclosure of information otherwise than under that section that may be required or authorised by or under law, or any treaty, agreement, or arrangement concluded by the Government of New Zealand.
     
-    Section 282: substituted, on 2 July 2004, by [section 43][905] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 282: substituted, on 2 July 2004, by [section 43][906] of the Customs and Excise Amendment Act 2004 (2004 No 55).
 
 ##### 282A Customs may for certain purposes collect, use, or disclose certain information
     
 *   (1) This section applies to information viewed by the Customs under any of [sections 38G to 38K][74], and to information to which the Customs is given access under [section 95A][189].
     
-    (2) The Customs may collect, use, or disclose the information for any of the following purposes (and, in the case of personal information, despite anything in information privacy principles 2, 3, 10, or 11 of the [Privacy Act 1993][906]):
+    (2) The Customs may collect, use, or disclose the information for any of the following purposes (and, in the case of personal information, despite anything in information privacy principles 2, 3, 10, or 11 of the [Privacy Act 1993][907]):
         
     *   (a) exercising or performing a power, function, or duty under this Act:
     
@@ -10189,7 +10195,7 @@ Miscellaneous provisions
         
     *   (a) is authorised by this section to obtain and collect that information for that purpose; but
     
-    *   (b) may keep, use, or disclose that information only in accordance with the [Privacy Act 1993][906].
+    *   (b) may keep, use, or disclose that information only in accordance with the [Privacy Act 1993][907].
     
     (4) [Section 281][455] applies, with all necessary modifications, to the disclosure of the information to an overseas agency, body, or person whose functions include---
         
@@ -10209,7 +10215,7 @@ Miscellaneous provisions
     
     (5) Nothing in this section limits [section 38L(3)(a)][80] or [section 38O][84].
     
-    Section 282A: inserted, on 2 July 2004, by [section 43][905] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 282A: inserted, on 2 July 2004, by [section 43][906] of the Customs and Excise Amendment Act 2004 (2004 No 55).
 
 ##### 282B Access by accessing agency to border information
     
@@ -10243,7 +10249,7 @@ Miscellaneous provisions
     
     _holder agency_ means any agency or any class of agencies for the time being specified in regulations made under this Act as an agency or a class of agencies whose border information is available to an accessing agency.
     
-    Section 282B: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 282B: inserted, on 6 April 2012, by [section 26][908] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 282C Chief executive must review operation of section 282B
     
@@ -10259,11 +10265,11 @@ Miscellaneous provisions
     
     (2) The Minister must present a copy of a report provided under this section to the House of Representatives as soon as practicable after receiving it.
     
-    Section 282C: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 282C: inserted, on 6 April 2012, by [section 26][908] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 #### Definitions for information-sharing provisions
     
-*   Heading: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+*   Heading: inserted, on 6 April 2012, by [section 26][908] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 282D Definitions
     
@@ -10273,29 +10279,29 @@ Miscellaneous provisions
     
     _biosecurity-related border management function_ means---
         
-    *   (a) any function, duty, or power imposed or conferred on the Ministry by or under [Part 3][908] of the Biosecurity Act 1993:
+    *   (a) any function, duty, or power imposed or conferred on the Ministry by or under [Part 3][909] of the Biosecurity Act 1993:
     
     *   (b) any other function, duty, or power imposed or conferred on the Ministry by or under the [Biosecurity Act 1993][580] that is necessary---
             
-        *   (i) to achieve the purpose of [Part 3][908] of that Act; or 
+        *   (i) to achieve the purpose of [Part 3][909] of that Act; or 
         
-        *   (ii) for the administration of [Part 3][908] of that Act:
+        *   (ii) for the administration of [Part 3][909] of that Act:
         
         
     
     *   (c) any function, duty, or power imposed or conferred on the Ministry by or under any of the following Acts in relation to the effective management of risks associated with the movement of goods, persons, or craft into or out of New Zealand:
             
-        *   (i) the [Food Act 1981][909]:
+        *   (i) the [Food Act 1981][910]:
         
-        *   (ii) the [Hazardous Substances and New Organisms Act 1996][910]:
+        *   (ii) the [Hazardous Substances and New Organisms Act 1996][911]:
         
-        *   (iii) the [Agricultural Compounds and Veterinary Medicines Act 1997][911]:
+        *   (iii) the [Agricultural Compounds and Veterinary Medicines Act 1997][912]:
         
-        *   (iv) the [Animal Products Act 1999][912]:
+        *   (iv) the [Animal Products Act 1999][913]:
         
-        *   (v) the [Wine Act 2003][913]:
+        *   (v) the [Wine Act 2003][914]:
         
-        *   (vi) any other Act specified by Order in Council made under section 165A of the [Biosecurity Act 1993][914]
+        *   (vi) any other Act specified by Order in Council made under section 165A of the [Biosecurity Act 1993][915]
         
         
     
@@ -10303,7 +10309,7 @@ Miscellaneous provisions
         
     *   (a) means information---
             
-        *   (i) that is required to be supplied to the Ministry or the Customs by or under this Act or [Part 3][908] of the Biosecurity Act 1993, or both, for a border protection purpose; or
+        *   (i) that is required to be supplied to the Ministry or the Customs by or under this Act or [Part 3][909] of the Biosecurity Act 1993, or both, for a border protection purpose; or
         
         *   (ii) that is otherwise lawfully supplied or collected for a border protection purpose; and
         
@@ -10367,15 +10373,15 @@ Miscellaneous provisions
             
         *   (i) the Director-General; and
         
-        *   (ii) any inspector appointed under [section 103][915] of the Biosecurity Act 1993\.
+        *   (ii) any inspector appointed under [section 103][916] of the Biosecurity Act 1993\.
         
         
     
-    Section 282D: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 282D: inserted, on 6 April 2012, by [section 26][908] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 #### Interim arrangements for information sharing
     
-*   Heading: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+*   Heading: inserted, on 6 April 2012, by [section 26][908] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 282E Purpose of sections 282F to 282H
     
@@ -10385,7 +10391,7 @@ Miscellaneous provisions
     
     *   (b) the Ministry to access that border information for a biosecurity-related border management function.
     
-    Section 282E: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 282E: inserted, on 6 April 2012, by [section 26][908] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 282F Interim collection of border information
     
@@ -10395,9 +10401,9 @@ Miscellaneous provisions
     
     *   (b) store any border information.
     
-    (2) If the border information is personal information, subsection (1) applies despite anything in information privacy [principle 2][916] or [3][916] of the Privacy Act 1993\.
+    (2) If the border information is personal information, subsection (1) applies despite anything in information privacy [principle 2][917] or [3][917] of the Privacy Act 1993\.
     
-    Section 282F: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 282F: inserted, on 6 April 2012, by [section 26][908] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 282G Requirement by or under this Act to supply border information is complied with if information is supplied to Ministry or other agency
     
@@ -10405,17 +10411,17 @@ Miscellaneous provisions
         
     *   (a) the Ministry, for the purposes of, and in accordance with, section 41C(1) of the Biosecurity Act 1993:
     
-    *   (b) an agency appointed under [section 41C(3)][917] of the Biosecurity Act 1993, for the purposes of, and in accordance with, section 41C(1) of that Act.
+    *   (b) an agency appointed under [section 41C(3)][918] of the Biosecurity Act 1993, for the purposes of, and in accordance with, section 41C(1) of that Act.
     
-    (2) However, subsection (1) does not apply if the chief executive has given the person a written notice requiring the border information to be supplied to the Customs instead of to the Ministry or an agency appointed under [section 41C(3)][917] of the Biosecurity Act 1993\.
+    (2) However, subsection (1) does not apply if the chief executive has given the person a written notice requiring the border information to be supplied to the Customs instead of to the Ministry or an agency appointed under [section 41C(3)][918] of the Biosecurity Act 1993\.
     
-    Section 282G: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 282G: inserted, on 6 April 2012, by [section 26][908] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 282H Interim access to border information
     
 *   (1) The chief executive may, in accordance with a written agreement entered into by the chief executive and the Director-General, allow the Ministry to access any border information that was or is collected or stored by the Customs before, on, or after the commencement of this section.
     
-    (2) If the border information is personal information, subsection (1) applies despite anything in information privacy [principle 10][916] or [11][916] of the Privacy Act 1993\.
+    (2) If the border information is personal information, subsection (1) applies despite anything in information privacy [principle 10][917] or [11][917] of the Privacy Act 1993\.
     
     (3) An agreement must state---
         
@@ -10441,7 +10447,7 @@ Miscellaneous provisions
     
     *   (c) importers or exporters.
     
-    Section 282H: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 282H: inserted, on 6 April 2012, by [section 26][908] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 282I Expiry of sections 282E to 282H and agreements made under section 282H
     
@@ -10453,11 +10459,11 @@ Miscellaneous provisions
     
     (2) The Minister may recommend the making of an Order in Council under subsection (1) only if he or she is satisfied, after consulting the Minister for Biosecurity, that a later date is necessary because of a delay in the implementation of the JBMS.
     
-    Section 282I: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 282I: inserted, on 6 April 2012, by [section 26][908] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 #### Information sharing for joint border management
     
-*   Heading: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+*   Heading: inserted, on 6 April 2012, by [section 26][908] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 282J Collection of border information
     
@@ -10467,25 +10473,25 @@ Miscellaneous provisions
     
     *   (b) store any border information in the JBMS.
     
-    (2) If the border information is personal information, subsection (1) applies despite anything in information privacy [principle 2][916] or [3][916] of the Privacy Act 1993\.
+    (2) If the border information is personal information, subsection (1) applies despite anything in information privacy [principle 2][917] or [3][917] of the Privacy Act 1993\.
     
-    Section 282J: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 282J: inserted, on 6 April 2012, by [section 26][908] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 282K Requirement by or under this Act to supply border information is complied with if information is supplied to Ministry or other agency
     
 *   A person must be taken to have complied with a requirement by or under this Act to supply any border information to the Customs if, instead of to the Customs, the person supplies the border information to---
         
-    *   (a) the Ministry, for the purposes of, and in accordance with, [section 41G(1)][918] of the Biosecurity Act 1993:
+    *   (a) the Ministry, for the purposes of, and in accordance with, [section 41G(1)][919] of the Biosecurity Act 1993:
     
-    *   (b) an agency appointed under [section 41G(3)][918] of the Biosecurity Act 1993, for the purposes of, and in accordance with, section 41G(1) of that Act.
+    *   (b) an agency appointed under [section 41G(3)][919] of the Biosecurity Act 1993, for the purposes of, and in accordance with, section 41G(1) of that Act.
     
-    Section 282K: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 282K: inserted, on 6 April 2012, by [section 26][908] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 282L Customs may access border information
     
 *   (1) The Customs may access any border information stored in the JBMS that is needed for, or relevant to, a customs-related border management function.
     
-    (2) If the border information is personal information, subsection (1) applies despite anything in information privacy [principle 10][916] of the Privacy Act 1993\.
+    (2) If the border information is personal information, subsection (1) applies despite anything in information privacy [principle 10][917] of the Privacy Act 1993\.
     
     (3) Subsections (1) and (2) apply to any border information stored in the JBMS, whether the border information was or is collected before, on, or after the commencement of this section.
     
@@ -10497,13 +10503,13 @@ Miscellaneous provisions
     
     *   (c) importers or exporters.
     
-    Section 282L: inserted, on 6 April 2012, by [section 26][907] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 282L: inserted, on 6 April 2012, by [section 26][908] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 283 Chief executive to give written reasons for decisions open to appeal to Customs Appeal Authority
     
 *   Without limiting any other obligation imposed on the chief executive to give notice in writing or to give reasons, in any case where a decision of the chief executive is open to an appeal to a Customs Appeal Authority, the notice of the decision of the chief executive must be given without undue delay and shall include or be accompanied by a written statement of the reasons for that decision.
     
-    Section 283: amended, on 27 September 2001, by [section 11][919] of the Customs and Excise Amendment Act 2001 (2001 No 61).
+    Section 283: amended, on 27 September 2001, by [section 11][920] of the Customs and Excise Amendment Act 2001 (2001 No 61).
 
 ##### 284 Giving of notice
     
@@ -10511,7 +10517,7 @@ Miscellaneous provisions
         
     *   (a) \[Repealed\]
     
-    *   (b) in the case of a company within the meaning of [section 2][920] of the Companies Act 1993, by delivery to a person named as a director of the company on the New Zealand register; or
+    *   (b) in the case of a company within the meaning of [section 2][921] of the Companies Act 1993, by delivery to a person named as a director of the company on the New Zealand register; or
     
     *   (c) by delivery to an employee of the company at the company's head office or principal place of business; or
     
@@ -10561,11 +10567,11 @@ Miscellaneous provisions
     
     Section 284(1)(a): repealed, on 5 December 2013, by [section 14][666] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 284(1)(g): substituted, on 3 June 1998, by [section 8(1)][921] of the Customs and Excise Amendment Act (No 2) 1998 (1998 No 38).
+    Section 284(1)(g): substituted, on 3 June 1998, by [section 8(1)][922] of the Customs and Excise Amendment Act (No 2) 1998 (1998 No 38).
     
-    Section 284(2)(f): substituted, on 3 June 1998, by [section 8(2)][921] of the Customs and Excise Amendment Act (No 2) 1998 (1998 No 38).
+    Section 284(2)(f): substituted, on 3 June 1998, by [section 8(2)][922] of the Customs and Excise Amendment Act (No 2) 1998 (1998 No 38).
     
-    Section 284(3)(e): substituted, on 3 June 1998, by [section 8(3)][921] of the Customs and Excise Amendment Act (No 2) 1998 (1998 No 38).
+    Section 284(3)(e): substituted, on 3 June 1998, by [section 8(3)][922] of the Customs and Excise Amendment Act (No 2) 1998 (1998 No 38).
 
 ##### 285 Additional provision relating to notices under this Act
     
@@ -10595,11 +10601,11 @@ Miscellaneous provisions
     
     (3) A notice is not to be deemed to have been given to a person if the person proves that, through no fault on the person's part, the notice was not received within the time specified or was not received at all.
     
-    Section 285(2)(b): amended, on 6 March 2007, by [section 23(1)][922] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 285(2)(b): amended, on 6 March 2007, by [section 23(1)][923] of the Customs and Excise Amendment Act 2007 (2007 No 9).
     
-    Section 285(2)(c): amended, on 6 March 2007, by [section 23(2)][922] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 285(2)(c): amended, on 6 March 2007, by [section 23(2)][923] of the Customs and Excise Amendment Act 2007 (2007 No 9).
     
-    Section 285(3): amended, on 6 March 2007, by [section 23(3)][922] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 285(3): amended, on 6 March 2007, by [section 23(3)][923] of the Customs and Excise Amendment Act 2007 (2007 No 9).
 
 ##### 286 Regulations
     
@@ -10709,25 +10715,25 @@ Miscellaneous provisions
     
     Compare: 1966 No 19 s 306; 1990 No 89 s 9
     
-    Section 286(1)(a): substituted, on 1 October 2008, by [section 6][923] of the Customs and Excise Amendment Act (No 2) 2008 (2008 No 61).
+    Section 286(1)(a): substituted, on 1 October 2008, by [section 6][924] of the Customs and Excise Amendment Act (No 2) 2008 (2008 No 61).
     
-    Section 286(1)(ba): inserted, on 2 July 2004, by [section 44(1)][924] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 286(1)(ba): inserted, on 2 July 2004, by [section 44(1)][925] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 286(1)(ga): substituted, on 24 September 2009, by [section 17(1)][925] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 286(1)(ga): substituted, on 24 September 2009, by [section 17(1)][926] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
     
-    Section 286(1)(gb): inserted, on 1 October 2004, by [section 44(3)][924] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 286(1)(gb): inserted, on 1 October 2004, by [section 44(3)][925] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 286(1)(gc): inserted, on 1 October 2004, by [section 44(3)][924] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 286(1)(gc): inserted, on 1 October 2004, by [section 44(3)][925] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 286(1)(o): amended, on 9 October 2002, by [section 26][926] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
+    Section 286(1)(o): amended, on 9 October 2002, by [section 26][927] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
     
-    Section 286(1)(pa): inserted, on 1 October 2004, by [section 44(4)][924] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 286(1)(pa): inserted, on 1 October 2004, by [section 44(4)][925] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 286(1)(xa): inserted, on 2 July 2004, by [section 44(5)][924] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 286(1)(xa): inserted, on 2 July 2004, by [section 44(5)][925] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 286(1)(aa): repealed, on 1 October 2012, by [section 229(1)][927] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 286(1)(aa): repealed, on 1 October 2012, by [section 229(1)][928] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 286(1A): inserted, on 24 September 2009, by [section 17(2)][925] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 286(1A): inserted, on 24 September 2009, by [section 17(2)][926] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
 
 ##### 286A Regulations relating to information sharing
     
@@ -10759,7 +10765,7 @@ Miscellaneous provisions
         
         *   (iv) the level of accuracy of that personal information:
         
-        *   (v) whether the proposed regulations will be consistent with, or will detract from, the information privacy principles of the [Privacy Act 1993][906]:
+        *   (v) whether the proposed regulations will be consistent with, or will detract from, the information privacy principles of the [Privacy Act 1993][907]:
         
         *   (vi) whether there are alternative ways to achieve the purpose of [section 282B][458] besides making personal information available under the proposed regulations.
         
@@ -10783,7 +10789,7 @@ Miscellaneous provisions
     
     *   (c) take the results of the consultation into account.
     
-    Section 286A: inserted, on 6 April 2012, by [section 27][928] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 286A: inserted, on 6 April 2012, by [section 27][929] of the Customs and Excise Amendment Act 2012 (2012 No 25).
 
 ##### 286B Regulations made under section 286A to be confirmed
     
@@ -10791,7 +10797,7 @@ Miscellaneous provisions
     
     (2) The validity of any regulations made under [section 286A][476] is not affected merely because of the repeal of an Act of Parliament validating and confirming them.
     
-    Section 286B: inserted, on 6 April 2012, by [section 27][928] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+    Section 286B: inserted, on 6 April 2012, by [section 27][929] of the Customs and Excise Amendment Act 2012 (2012 No 25).
     
     Section 286B(1): amended, on 5 August 2013, by [section 77(3)][636] of the Legislation Act 2012 (2012 No 119).
 
@@ -10839,13 +10845,13 @@ Miscellaneous provisions
     
     *   (b) form part of the regulations for all purposes and have legal effect accordingly.
     
-    Section 287A: inserted, on 8 December 2009, by [section 23][929] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 287A: inserted, on 8 December 2009, by [section 23][930] of the Customs and Excise Amendment Act 2009 (2009 No 61).
 
 ##### 287B Effect of amendments to, or replacement of, provisions incorporated by reference
     
 *   An amendment to, or replacement of, provisions incorporated under [section 287A][479] has legal effect as part of the regulations only if regulations are made that state that the particular amendment or replacement has that effect.
     
-    Section 287B: inserted, on 8 December 2009, by [section 23][929] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 287B: inserted, on 8 December 2009, by [section 23][930] of the Customs and Excise Amendment Act 2009 (2009 No 61).
 
 ##### 287C Proof of provisions incorporated by reference
     
@@ -10857,7 +10863,7 @@ Miscellaneous provisions
     
     (2) The production in proceedings of a certified copy of the provisions is, in the absence of proof to the contrary, sufficient evidence of the incorporation in the regulations of the provisions.
     
-    Section 287C: inserted, on 8 December 2009, by [section 23][929] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 287C: inserted, on 8 December 2009, by [section 23][930] of the Customs and Excise Amendment Act 2009 (2009 No 61).
 
 ##### 287D Access to provisions incorporated by reference
     
@@ -10883,17 +10889,17 @@ Miscellaneous provisions
     
     (2) A failure to comply with this section does not invalidate regulations that incorporate provisions under [section 287A][479].
     
-    Section 287D: inserted, on 8 December 2009, by [section 23][929] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 287D: inserted, on 8 December 2009, by [section 23][930] of the Customs and Excise Amendment Act 2009 (2009 No 61).
 
 ##### 287E Application of Legislation Act 2012 to provisions incorporated by reference
     
 *   (1) [Part 2][644] of the Legislation Act 2012 does not apply to provisions incorporated under [section 287A][479] or to an amendment to, or replacement of, those provisions.
     
-    (2) [Subpart 1][930] of Part 3 of the Legislation Act 2012 applies to regulations that incorporate provisions under [section 287A][479].
+    (2) [Subpart 1][931] of Part 3 of the Legislation Act 2012 applies to regulations that incorporate provisions under [section 287A][479].
     
-    (3) However, nothing in [section 41][931] of the Legislation Act 2012 requires provisions incorporated under [section 287A][479] to be presented to the House of Representatives.
+    (3) However, nothing in [section 41][932] of the Legislation Act 2012 requires provisions incorporated under [section 287A][479] to be presented to the House of Representatives.
     
-    Section 287E: replaced, on 5 August 2013, by [section 77(3)][931] of the Legislation Act 2012 (2012 No 119).
+    Section 287E: replaced, on 5 August 2013, by [section 77(3)][932] of the Legislation Act 2012 (2012 No 119).
 
 ##### 287F Application of Regulations (Disallowance) Act 1989 to provisions incorporated by reference
     
@@ -10955,21 +10961,21 @@ Miscellaneous provisions
     
     (10) Every rule made under this section shall come into force on the 28th day after the date of its publication or notification, as the case may be, in the _Gazette_ in accordance with the provisions of this section, or on such later date as may be specified in the rule.
     
-    (11) Every rule made under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][638] and must be presented to the House of Representatives under [section 41][931] of that Act.
+    (11) Every rule made under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][638] and must be presented to the House of Representatives under [section 41][932] of that Act.
     
     (12) The chief executive may, from time to time, amend or revoke any rules made under subsection (1), and the provisions of this section, with all necessary modifications, shall apply in respect of any such amendment or revocation.
     
-    Section 288(1)(a): amended, on 24 September 2009, by [section 18][932] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
+    Section 288(1)(a): amended, on 24 September 2009, by [section 18][933] of the Customs and Excise Amendment Act (No 3) 2008 (2008 No 68).
     
-    Section 288(1)(a): amended, on 2 July 2004, by [section 45(a)][933] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 288(1)(a): amended, on 2 July 2004, by [section 45(a)][934] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 288(1)(b): repealed, on 6 March 2007, by [section 24(1)][934] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 288(1)(b): repealed, on 6 March 2007, by [section 24(1)][935] of the Customs and Excise Amendment Act 2007 (2007 No 9).
     
-    Section 288(1)(i): added, on 9 October 2002, by [section 27][935] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
+    Section 288(1)(i): added, on 9 October 2002, by [section 27][936] of the Customs and Excise Amendment Act (No 2) 2002 (2002 No 31).
     
-    Section 288(1)(i): amended, on 2 July 2004, by [section 45(c)][933] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 288(1)(i): amended, on 2 July 2004, by [section 45(c)][934] of the Customs and Excise Amendment Act 2004 (2004 No 55).
     
-    Section 288(5): amended, on 6 March 2007, by [section 24(2)][934] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+    Section 288(5): amended, on 6 March 2007, by [section 24(2)][935] of the Customs and Excise Amendment Act 2007 (2007 No 9).
     
     Section 288(11): replaced, on 5 August 2013, by [section 77(3)][636] of the Legislation Act 2012 (2012 No 119).
 
@@ -10981,7 +10987,7 @@ Miscellaneous provisions
     
     *   (b) the circumstances in which it was used.
     
-    Section 288A: inserted, on 2 July 2004, by [section 46][936] of the Customs and Excise Amendment Act 2004 (2004 No 55).
+    Section 288A: inserted, on 2 July 2004, by [section 46][937] of the Customs and Excise Amendment Act 2004 (2004 No 55).
 
 ##### 289 Acts and regulations amended
     
@@ -11161,13 +11167,13 @@ Miscellaneous provisions
     
     (3) After exercising, by virtue of subsection (1), any power under this Act in relation to a suspected offence against the Customs Act 1966, the chief executive or a Customs officer, as the case may be, must not exercise any corresponding power under the Customs Act 1966 in relation to that suspected offence.
     
-    (4) Nothing in this section limits or affects the application of [section 19][937] of the Interpretation Act 1999 in relation to the prosecution of offences against the Customs Act 1966\.
+    (4) Nothing in this section limits or affects the application of [section 19][938] of the Interpretation Act 1999 in relation to the prosecution of offences against the Customs Act 1966\.
     
-    Section 305A: inserted, on 3 June 1998, by [section 9][938] of the Customs and Excise Amendment Act (No 2) 1998 (1998 No 38).
+    Section 305A: inserted, on 3 June 1998, by [section 9][939] of the Customs and Excise Amendment Act (No 2) 1998 (1998 No 38).
     
-    Section 305A(1): amended, on 1 October 2012, by [section 229(2)][927] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 305A(1): amended, on 1 October 2012, by [section 229(2)][928] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 305A(4): amended, on 1 November 1999, pursuant to [section 38(1)][939] of the Interpretation Act 1999 (1999 No 85).
+    Section 305A(4): amended, on 1 November 1999, pursuant to [section 38(1)][940] of the Interpretation Act 1999 (1999 No 85).
 
 ##### 306 Power to amend Schedule 3 before this Act comes into force
     
@@ -11179,7 +11185,7 @@ Miscellaneous provisions
 
 ##### 307 Zero-rating---duty-free goods
     
-*   (1) _Amendment(s) incorporated in the [Act(s)][940]._
+*   (1) _Amendment(s) incorporated in the [Act(s)][941]._
     
     (2) This section shall apply to supplies made on or after 1 October 1986\.
 
@@ -11212,7 +11218,7 @@ False or counterfeit coin or banknotes; and any coin that is not of the establis
 
 Goods manufactured or produced wholly or in part by prison labour, or within or in connection with any prison, jail, or penitentiary, excluding a bona fide gift made by a prisoner for the personal use of a private individual, also goods similar in character to those manufactured or produced in such institutions when sold or offered for sale by any person, firm, or corporation having a contract for the manufacture or production of such articles in such institutions, or by an agent of such person, firm, or corporation, or when originally purchased from or transferred by any such contractor.
 
-Every article whose sale in New Zealand would be an offence against the [Food Act 1981][909] or the [Food (Safety) Regulations 2002][941].
+Every article whose sale in New Zealand would be an offence against the [Food Act 1981][910] or the [Food (Safety) Regulations 2002][942].
 
 Every pipe, other utensil, or identifiable component of a pipe or other utensil whose importation into New Zealand is absolutely prohibited by a notice issued under [section 22(1A)][799] of the Misuse of Drugs Act 1975\.
 
@@ -11220,15 +11226,15 @@ Goods that are designed, manufactured, or adapted with intent to facilitate the 
 
 Goods that, having regard to all relevant circumstances, it would be reasonable to believe---
     
-*   (a) are part of, or involved in, an attempt, to which [section 72][942] of the Crimes Act 1961 applies, to commit a crime involving dishonesty (as defined in [section 2(1)][696] of that Act); or
+*   (a) are part of, or involved in, an attempt, to which [section 72][943] of the Crimes Act 1961 applies, to commit a crime involving dishonesty (as defined in [section 2(1)][696] of that Act); or
 
-*   (b) relate to a conspiracy, to which [section 310][943] of the Crimes Act 1961 applies, to commit a crime involving dishonesty (as defined in [section 2(1)][696] of that Act).
+*   (b) relate to a conspiracy, to which [section 310][944] of the Crimes Act 1961 applies, to commit a crime involving dishonesty (as defined in [section 2(1)][696] of that Act).
 
-*   Schedule 1: amended, on 6 April 2012, by [section 28][944] of the Customs and Excise Amendment Act 2012 (2012 No 25).
-*   Schedule 1: amended, on 9 August 2011, by [section 13(2)][945] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
-*   Schedule 1: amended, on 6 March 2007, by [section 35][946] of the Customs and Excise Amendment Act 2007 (2007 No 9).
-*   Schedule 1: amended, on 22 February 2005, by [section 44][947] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
-*   Schedule 1: amended, on 21 August 1997, by [section 3][948] of the Misuse of Drugs Amendment Act 1997 (1997 No 57).
+*   Schedule 1: amended, on 6 April 2012, by [section 28][945] of the Customs and Excise Amendment Act 2012 (2012 No 25).
+*   Schedule 1: amended, on 9 August 2011, by [section 13(2)][946] of the Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54).
+*   Schedule 1: amended, on 6 March 2007, by [section 35][947] of the Customs and Excise Amendment Act 2007 (2007 No 9).
+*   Schedule 1: amended, on 22 February 2005, by [section 44][948] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+*   Schedule 1: amended, on 21 August 1997, by [section 3][949] of the Misuse of Drugs Amendment Act 1997 (1997 No 57).
 
 ---
 
@@ -11241,11 +11247,11 @@ Valuation of goods for the purposes of the Tariff
     
 *   (1) In this schedule---
     
-    _computed value_ means the value determined in accordance with [clause 7][949]
+    _computed value_ means the value determined in accordance with [clause 7][950]
     
     _country of export_, or _the country from which any goods are exported_, means the country from which the goods are shipped directly to New Zealand, or, as the case may be, the country from which the goods are deemed to be shipped pursuant to this Act
     
-    _deductive value_ means the value determined in accordance with [clause 6][950]
+    _deductive value_ means the value determined in accordance with [clause 6][951]
     
     _goods of the same class or kind_, means imported goods that---
         
@@ -11253,9 +11259,9 @@ Valuation of goods for the purposes of the Tariff
     
     *   (b) for the purposes of---
             
-        *   (i) [clause 6][950], were exported from any country; and
+        *   (i) [clause 6][951], were exported from any country; and
         
-        *   (ii) [clause 7][949], were produced in and exported from the country in and from which the goods being valued were produced and exported
+        *   (ii) [clause 7][950], were produced in and exported from the country in and from which the goods being valued were produced and exported
         
         
     
@@ -11285,7 +11291,7 @@ Valuation of goods for the purposes of the Tariff
     
     _sufficient information_, in respect of the determination of any amount, difference, or adjustment, means objective and quantifiable information that clearly establishes the accuracy of the amount, difference, or adjustment
     
-    _transaction value_ means the value determined in accordance with [clauses 2][951] and [3][952].
+    _transaction value_ means the value determined in accordance with [clauses 2][952] and [3][953].
     
     (2) For the purposes of this schedule, persons shall be deemed to be related only if---
         
@@ -11333,7 +11339,7 @@ Valuation of goods for the purposes of the Tariff
 
 ##### 2 Transaction value as primary basis of valuation
     
-*   (1) The Customs value of imported goods shall be their transaction value, that is, the price paid or payable for the goods when sold for export to New Zealand, adjusted in accordance with [clause 3][952], if---
+*   (1) The Customs value of imported goods shall be their transaction value, that is, the price paid or payable for the goods when sold for export to New Zealand, adjusted in accordance with [clause 3][953], if---
         
     *   (a) there are no restrictions respecting the disposition or use of the goods by the buyer, other than restrictions that---
             
@@ -11361,9 +11367,9 @@ Valuation of goods for the purposes of the Tariff
         
     *   (a) the transaction value of identical goods or similar goods in respect of a sale of those goods for export to New Zealand between a seller and buyer who are not related at the time of the sale; or
     
-    *   (b) the deductive value of identical or similar goods determined in accordance with [clause 6][950]; or
+    *   (b) the deductive value of identical or similar goods determined in accordance with [clause 6][951]; or
     
-    *   (c) the computed value of identical or similar goods determined in accordance with [clause 7][949].
+    *   (c) the computed value of identical or similar goods determined in accordance with [clause 7][950].
     
     (3) In any case where the chief executive is of the opinion that the relationship between the buyer and seller of any goods influenced the price paid or payable for the goods, the chief executive shall inform the importer, in writing if so requested, of the grounds on which the chief executive formed that opinion, and shall give the importer a reasonable opportunity to satisfy the chief executive that the relationship did not influence the price.
     
@@ -11381,7 +11387,7 @@ Valuation of goods for the purposes of the Tariff
     
     *   (f) the quantity levels of the sales:
     
-    *   (g) any of the amounts referred to in [clause 3][952]:
+    *   (g) any of the amounts referred to in [clause 3][953]:
     
     *   (h) the costs, charges, or expenses incurred by a seller when the seller sells to a buyer to whom the seller is not related that are not incurred when the seller sells to a buyer to whom the seller is related.
     
@@ -11391,13 +11397,13 @@ Valuation of goods for the purposes of the Tariff
     
     *   (b) the chief executive has reason to doubt the truth or accuracy of the declared Customs value and, after having sought further explanation or other evidence that the declared Customs value represents the total amount actually paid or payable for the imported goods, the chief executive is still not satisfied that the Customs value can be determined under this clause---
     
-    the chief executive may determine the Customs value of the goods by proceeding sequentially through [clauses 4 to 8][953] to the first such clause of this schedule under which the Customs value can, in the opinion of the chief executive, be determined.
+    the chief executive may determine the Customs value of the goods by proceeding sequentially through [clauses 4 to 8][954] to the first such clause of this schedule under which the Customs value can, in the opinion of the chief executive, be determined.
     
-    (6) Notwithstanding subclause (5), on the written request of the importer to the chief executive, the order of consideration of the valuation basis provided for in [clauses 6][950] and [7][949] shall be reversed.
+    (6) Notwithstanding subclause (5), on the written request of the importer to the chief executive, the order of consideration of the valuation basis provided for in [clauses 6][951] and [7][950] shall be reversed.
 
 ##### 3 Adjustment of price paid or payable
     
-*   (1) In determining the transaction value of goods under [clause 2][951], the price paid or payable for the goods shall be adjusted---
+*   (1) In determining the transaction value of goods under [clause 2][952], the price paid or payable for the goods shall be adjusted---
         
     *   (a) by adding thereto amounts, to the extent that each such amount is not otherwise included in the price paid or payable for the goods and is determined on the basis of sufficient information, equal to---
             
@@ -11513,11 +11519,11 @@ Valuation of goods for the purposes of the Tariff
     
     (3) For the purposes of paragraph (c) of subclause (1), the expression _carrier media_ does not include integrated circuits, semi-conductors and similar devices, or articles incorporating such circuits or devices; and the expression _data or instructions_ does not include sound, cinematic, or video recordings.
     
-    (4) Where any adjustment in terms of the foregoing subclause cannot, in the opinion of the chief executive, be made because of the lack of sufficient information, the transaction value of the goods being valued cannot be determined under [clause 2][951].
+    (4) Where any adjustment in terms of the foregoing subclause cannot, in the opinion of the chief executive, be made because of the lack of sufficient information, the transaction value of the goods being valued cannot be determined under [clause 2][952].
 
 ##### 4 Transaction value of identical goods as Customs value
     
-*   (1) Subject to subclauses (2) to (4), where the Customs value of imported goods cannot, in the opinion of the chief executive, be determined under [clause 2][951], the Customs value of the goods shall be the transaction value of identical goods in respect of a sale of those goods for export to New Zealand if that transaction value is the Customs value of the identical goods and the identical goods were exported at the same or substantially the same time as the goods being valued and were sold under the following conditions:
+*   (1) Subject to subclauses (2) to (4), where the Customs value of imported goods cannot, in the opinion of the chief executive, be determined under [clause 2][952], the Customs value of the goods shall be the transaction value of identical goods in respect of a sale of those goods for export to New Zealand if that transaction value is the Customs value of the identical goods and the identical goods were exported at the same or substantially the same time as the goods being valued and were sold under the following conditions:
         
     *   (a) to a buyer at the same or substantially the same trade level as the buyer of the goods being valued; and
     
@@ -11533,7 +11539,7 @@ Valuation of goods for the purposes of the Tariff
     
     (3) For the purposes of determining the Customs value of imported goods under subclause (1), the transaction value of identical goods shall be adjusted by adding thereto or deducting therefrom, as the case may be, amounts to account for---
         
-    *   (a) commercially significant differences between the costs, charges, and expenses referred to in [clause 3(1)(a)(vii)][952] in respect of the identical goods and those costs, charges, and expenses in respect of the goods being valued that are attributable to differences in distances and modes of transport:
+    *   (a) commercially significant differences between the costs, charges, and expenses referred to in [clause 3(1)(a)(vii)][953] in respect of the identical goods and those costs, charges, and expenses in respect of the goods being valued that are attributable to differences in distances and modes of transport:
     
     *   (b) where the transaction value is in respect of identical goods sold under the conditions described in any of paragraphs (a) to (c) of subclause (2), differences in the trade levels of the buyers of the identical goods and the goods being valued or the quantities in which the identical goods and the goods being valued were sold or both, as the case may be,---
     
@@ -11543,17 +11549,17 @@ Valuation of goods for the purposes of the Tariff
 
 ##### 5 Transaction value of similar goods as Customs value
     
-*   (1) Subject to subclause (2) of this clause and subclauses (2) to (4) of [clause 4][953], where the Customs value of imported goods cannot, in the opinion of the chief executive, be determined under clause 4, the Customs value of the goods shall be the transaction value of similar goods in respect of a sale of those goods for export to New Zealand if that transaction value is the Customs value of the similar goods and the similar goods were exported at the same or substantially the same time as the goods being valued and were sold under the following conditions:
+*   (1) Subject to subclause (2) of this clause and subclauses (2) to (4) of [clause 4][954], where the Customs value of imported goods cannot, in the opinion of the chief executive, be determined under clause 4, the Customs value of the goods shall be the transaction value of similar goods in respect of a sale of those goods for export to New Zealand if that transaction value is the Customs value of the similar goods and the similar goods were exported at the same or substantially the same time as the goods being valued and were sold under the following conditions:
         
     *   (a) to a buyer at the same or substantially the same trade level as the buyer of the goods being valued; and
     
     *   (b) in the same or substantially the same quantities as the goods being valued.
     
-    (2) Subclauses (2) to (4) of [clause 4][953] shall apply to this clause in respect of similar goods as if every reference in those subclauses to ""identical goods"" were a reference to ""similar goods"".
+    (2) Subclauses (2) to (4) of [clause 4][954] shall apply to this clause in respect of similar goods as if every reference in those subclauses to ""identical goods"" were a reference to ""similar goods"".
 
 ##### 6 Deductive value as Customs value
     
-*   (1) Subject to subclauses (5) and (6) of [clause 2][951], where the Customs value cannot, in the opinion of the chief executive, be determined under [clause 5][954], the Customs value of the goods shall be the deductive value in respect of the goods.
+*   (1) Subject to subclauses (5) and (6) of [clause 2][952], where the Customs value cannot, in the opinion of the chief executive, be determined under [clause 5][955], the Customs value of the goods shall be the deductive value in respect of the goods.
     
     (2) Where the goods being valued or identical goods or similar goods are sold in New Zealand in the condition in which they were imported at the same or substantially the same time as the time of importation of the goods being valued, the deductive value of the goods being valued shall be the price per unit in respect of sales described in subclause (5), determined in accordance with that subclause and adjusted in accordance with subclause (6), at which the greatest number of units of the goods being valued or identical goods or similar goods are so sold.
     
@@ -11565,7 +11571,7 @@ Valuation of goods for the purposes of the Tariff
         
     *   (a) are not related to the persons from whom they buy the goods at the time the goods are sold to them; and
     
-    *   (b) have not supplied, directly or indirectly, free of charge or at a reduced cost for use in connection with the production and sale for export of the goods, any of the goods or services referred to in [clause 3(1)(a)(iii)][952],---
+    *   (b) have not supplied, directly or indirectly, free of charge or at a reduced cost for use in connection with the production and sale for export of the goods, any of the goods or services referred to in [clause 3(1)(a)(iii)][953],---
     
     at which the greatest number of units of the goods is sold where, in the opinion of the chief executive, a sufficient number of such sales have been made to permit a determination of the price per unit of the goods.
     
@@ -11581,7 +11587,7 @@ Valuation of goods for the purposes of the Tariff
     
     *   (b) reasonable costs, charges, and expenses that are incurred in respect of the transportation and insurance of the goods within New Zealand and reasonable costs, charges, and expenses associated therewith to the extent that an amount for such costs, charges, and expenses is not deducted in respect of general expenses under paragraph (a):
     
-    *   (c) the costs, charges, and expenses referred to in [clause 3(1)(b)(i)][952] incurred in respect of the goods, to the extent that an amount for such costs, charges, and expenses is not deducted in respect of general expenses under paragraph (a) of this subclause:
+    *   (c) the costs, charges, and expenses referred to in [clause 3(1)(b)(i)][953] incurred in respect of the goods, to the extent that an amount for such costs, charges, and expenses is not deducted in respect of general expenses under paragraph (a) of this subclause:
     
     *   (d) any Customs duties or other taxes payable in New Zealand by reason of the importation or sale of the goods, to the extent that an amount for such duties and taxes is not deducted in respect of general expenses under paragraph (a):
     
@@ -11597,7 +11603,7 @@ Valuation of goods for the purposes of the Tariff
 
 ##### 7 Computed value as Customs value
     
-*   (1) Subject to subclauses (3) and (5) of [clause 2][951], where the Customs value of imported goods cannot, in the opinion of the chief executive be determined under [clause 6][950], the Customs value of the goods shall be the computed value in respect of those goods.
+*   (1) Subject to subclauses (3) and (5) of [clause 2][952], where the Customs value of imported goods cannot, in the opinion of the chief executive be determined under [clause 6][951], the Customs value of the goods shall be the computed value in respect of those goods.
     
     (2) The computed value of the goods being valued is the aggregate of amounts equal to---
         
@@ -11615,11 +11621,11 @@ Valuation of goods for the purposes of the Tariff
         
         that are supplied by or on behalf of the producer of the goods and prepared in a manner consistent with the generally accepted accounting principles of the country of production of the goods being valued, including, without limiting the generality of the foregoing,---
             
-        *   (iii) the costs, charges, and expenses referred to in [clause 3(1)(a)(ii)][952]:
+        *   (iii) the costs, charges, and expenses referred to in [clause 3(1)(a)(ii)][953]:
         
-        *   (iv) the value of any of the goods and services referred to in [clause 3(1)(a)(iii) and (vi)][952], determined and apportioned to the goods being valued as referred to in that clause, whether or not such goods and services have been supplied free of charge or at a reduced cost:
+        *   (iv) the value of any of the goods and services referred to in [clause 3(1)(a)(iii) and (vi)][953], determined and apportioned to the goods being valued as referred to in that clause, whether or not such goods and services have been supplied free of charge or at a reduced cost:
         
-        *   (v) the costs, charges, and expenses incurred by the producer in respect of engineering, development work, artwork, designwork, plans, or sketches undertaken in New Zealand that were supplied, directly or indirectly, by the buyer of the goods being valued for use in connection with the production and sale for export of those goods to the extent that such elements are charged to the producer of the goods, apportioned to the goods being valued as referred to in [clause 3(1)(a)(iii)][952]:
+        *   (v) the costs, charges, and expenses incurred by the producer in respect of engineering, development work, artwork, designwork, plans, or sketches undertaken in New Zealand that were supplied, directly or indirectly, by the buyer of the goods being valued for use in connection with the production and sale for export of those goods to the extent that such elements are charged to the producer of the goods, apportioned to the goods being valued as referred to in [clause 3(1)(a)(iii)][953]:
         
         
     
@@ -11637,7 +11643,7 @@ Valuation of goods for the purposes of the Tariff
 
 ##### 8 Residual basis of valuation
     
-*   (1) Where the Customs value of imported goods cannot, in the opinion of the chief executive, be determined under [clause 7][949], it shall be determined on information available in New Zealand on the basis of a value derived from the methods of valuation set out in [clauses 2 to 7][951] interpreted in a flexible manner and reasonably adjusted to the extent necessary to arrive at a Customs value of the goods.
+*   (1) Where the Customs value of imported goods cannot, in the opinion of the chief executive, be determined under [clause 7][950], it shall be determined on information available in New Zealand on the basis of a value derived from the methods of valuation set out in [clauses 2 to 7][952] interpreted in a flexible manner and reasonably adjusted to the extent necessary to arrive at a Customs value of the goods.
     
     (2) A Customs value shall not be determined on the basis of---
         
@@ -11647,7 +11653,7 @@ Valuation of goods for the purposes of the Tariff
     
     *   (c) the price of goods on the domestic market of the country of exportation; or
     
-    *   (d) the cost of production, other than computed values that have been determined for identical or similar goods in accordance with [clause 7][949]; or
+    *   (d) the cost of production, other than computed values that have been determined for identical or similar goods in accordance with [clause 7][950]; or
     
     *   (e) the price of goods for export to a country other than New Zealand, unless the goods were imported into New Zealand; or
     
@@ -11679,7 +11685,7 @@ Valuation of goods for the purposes of excise
     
 *   The value of any goods for the purposes of [section 73(3)][151] shall be the price at which the goods are sold exclusive of excise duty and goods and services tax by a person licensed under [section 12][17] if---
         
-    *   (a) the sale is a sale in the open market as defined in [clause 4(1)(c)][955]; and
+    *   (a) the sale is a sale in the open market as defined in [clause 4(1)(c)][956]; and
     
     *   (b) the sale is made on or prior to the date on which the goods are removed from the manufacturing area.
     
@@ -11687,11 +11693,11 @@ Valuation of goods for the purposes of excise
 
 ##### 2 Value of goods manufactured by contractor
     
-*   The value of any goods for the purposes of [section 69][147] that are deemed to have been manufactured by a contractor shall be their fair market value as determined under [clause 4][955].
+*   The value of any goods for the purposes of [section 69][147] that are deemed to have been manufactured by a contractor shall be their fair market value as determined under [clause 4][956].
 
 ##### 3 Value of goods not sold in open market
     
-*   Where the value of the goods cannot be determined under [clause 1][956] for the reason that the goods were not sold under the conditions specified in paragraphs (a) and (b) of that clause, the value shall be the fair market value of those goods as determined under [clause 4][955].
+*   Where the value of the goods cannot be determined under [clause 1][957] for the reason that the goods were not sold under the conditions specified in paragraphs (a) and (b) of that clause, the value shall be the fair market value of those goods as determined under [clause 4][956].
 
 ##### 4 Fair market value
     
@@ -11748,11 +11754,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Air Facilitation Act 1993 (1993 No 6)
 
-_Amendment(s) incorporated in the [Act(s)][957]._
+_Amendment(s) incorporated in the [Act(s)][958]._
 
 ##### Air Facilitation (Domestic Passengers and Cargo) Act 1994 (1994 No 100)
 
-_Amendment(s) incorporated in the [Act(s)][958]._
+_Amendment(s) incorporated in the [Act(s)][959]._
 
 ##### Alcoholic Liquor Advisory Council Act 1976 (1976 No 143)
 
@@ -11764,7 +11770,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Alcoholic Liquor Advisory Council Amendment Act 1989 (1989 No 96)
 
-_Amendment(s) incorporated in the [Act(s)][959]._
+_Amendment(s) incorporated in the [Act(s)][960]._
 
 ##### Animal Remedies Act 1967 (1967 No 51) (RS Vol 21, p 11)
 
@@ -11780,7 +11786,7 @@ _Amendment(s) incorporated in the [Act(s)][580]._
 
 ##### Civil Aviation Act 1990 (1990 No 98)
 
-_Amendment(s) incorporated in the [Act(s)][960]._
+_Amendment(s) incorporated in the [Act(s)][961]._
 
 ##### Companies Act 1955 (1955 No 63) (RS Vol 15, p 89)
 
@@ -11788,23 +11794,23 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Companies Act 1993 (1993 No 105)
 
-_Amendment(s) incorporated in the [Act(s)][961]._
+_Amendment(s) incorporated in the [Act(s)][962]._
 
 ##### Cook Islands Act 1915 (1915 No 40) (Reprinted 1976, Vol 4, p 3119)
 
-_Amendment(s) incorporated in the [Act(s)][962]._
+_Amendment(s) incorporated in the [Act(s)][963]._
 
 ##### Cook Islands Amendment Act 1961 (1961 No 15) (Reprinted 1976, Vol 4, p 3313)
 
-_Amendment(s) incorporated in the [Act(s)][963]._
+_Amendment(s) incorporated in the [Act(s)][964]._
 
 ##### Copyright Act 1994 (1994 No 143)
 
-_Amendment(s) incorporated in the [Act(s)][964]._
+_Amendment(s) incorporated in the [Act(s)][965]._
 
 ##### Customs Law Act 1908 (1908 No 36) (RS Vol 2, p 273)
 
-_Amendment(s) incorporated in the [Act(s)][965]._
+_Amendment(s) incorporated in the [Act(s)][966]._
 
 ##### Dangerous Goods Act 1974 (1974 No 26) (RS Vol 24, p 241)
 
@@ -11820,7 +11826,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Fair Trading Act 1986 (1986 No 121)
 
-_Amendment(s) incorporated in the [Act(s)][966]._
+_Amendment(s) incorporated in the [Act(s)][967]._
 
 ##### Films, Videos, and Publications Classification Act 1993 (1993 No 94)
 
@@ -11828,11 +11834,11 @@ _Amendment(s) incorporated in the [Act(s)][804]._
 
 ##### Finance Act 1989 (1989 No 13)
 
-_Amendment(s) incorporated in the [Act(s)][967]._
+_Amendment(s) incorporated in the [Act(s)][968]._
 
 ##### Finance Act (No 2) 1993 (1993 No 83)
 
-_Amendment(s) incorporated in the [Act(s)][968]._
+_Amendment(s) incorporated in the [Act(s)][969]._
 
 ##### Financial Transactions Reporting Act 1996 (1996 No 9)
 
@@ -11840,15 +11846,15 @@ _Amendment(s) incorporated in the [Act(s)][765]._
 
 ##### Flags, Emblems, and Names Protection Act 1981 (1981 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][969]._
+_Amendment(s) incorporated in the [Act(s)][970]._
 
 ##### Food Act 1981 (1981 No 45)
 
-_Amendment(s) incorporated in the [Act(s)][909]._
+_Amendment(s) incorporated in the [Act(s)][910]._
 
 ##### Forests Act 1949 (1949 No 19) (RS Vol 23, p 473)
 
-_Amendment(s) incorporated in the [Act(s)][970]._
+_Amendment(s) incorporated in the [Act(s)][971]._
 
 ##### Goods and Services Tax Act 1985 (1985 No 141) (RS Vol 27, p 425)
 
@@ -11872,7 +11878,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Goods and Services Tax Amendment Act 1990 (1990 No 64) (RS Vol 27, p 601)
 
-_Amendment(s) incorporated in the [Act(s)][971]._
+_Amendment(s) incorporated in the [Act(s)][972]._
 
 ##### Goods and Services Tax Amendment Act 1992 (1992 No 2)
 
@@ -11888,11 +11894,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Heavy Engineering Research Levy Act 1978 (1978 No 81)
 
-_Amendment(s) incorporated in the [Act(s)][972]._
+_Amendment(s) incorporated in the [Act(s)][973]._
 
 ##### Immigration Act 1987 (1987 No 74)
 
-_Amendment(s) incorporated in the [Act(s)][973]._
+_Amendment(s) incorporated in the [Act(s)][974]._
 
 ##### Import Control Act 1988 (1988 No 157)
 
@@ -11904,15 +11910,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Insolvency Act 1967 (1967 No 54) (RS Vol 18, p 289)
 
-_Amendment(s) incorporated in the [Act(s)][974]._
+_Amendment(s) incorporated in the [Act(s)][975]._
 
 ##### Marine Mammals Protection Act 1978 (1978 No 80)
 
-_Amendment(s) incorporated in the [Act(s)][975]._
+_Amendment(s) incorporated in the [Act(s)][976]._
 
 ##### Maritime Transport Act 1994 (1994 No 104)
 
-_Amendment(s) incorporated in the [Act(s)][976]._
+_Amendment(s) incorporated in the [Act(s)][977]._
 
 ##### Meat Export Control Act 1921--22 (1921--22 No 73) (RS Vol 26, p 537)
 
@@ -11920,23 +11926,23 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Medicines Act 1981 (1981 No 118)
 
-_Amendment(s) incorporated in the [Act(s)][977]._
+_Amendment(s) incorporated in the [Act(s)][978]._
 
 ##### Misuse of Drugs Act 1975 (1975 No 116) (RS Vol 26, p 567)
 
-_Amendment(s) incorporated in the [Act(s)][978]._
+_Amendment(s) incorporated in the [Act(s)][979]._
 
 ##### Misuse of Drugs Amendment Act 1978 (1978 No 65) (RS Vol 26, p 618)
 
-_Amendment(s) incorporated in the [Act(s)][979]._
+_Amendment(s) incorporated in the [Act(s)][980]._
 
 ##### Niue Act 1966 (1966 No 38) (Reprinted 1976, Vol 5, p 4005)
 
-_Amendment(s) incorporated in the [Act(s)][980]._
+_Amendment(s) incorporated in the [Act(s)][981]._
 
 ##### Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)
 
-_Amendment(s) incorporated in the [Act(s)][981]._
+_Amendment(s) incorporated in the [Act(s)][982]._
 
 ##### Ozone Layer Protection Act 1990 (1990 No 50)
 
@@ -11948,7 +11954,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Passports Act 1992 (1992 No 92)
 
-_Amendment(s) incorporated in the [Act(s)][982]._
+_Amendment(s) incorporated in the [Act(s)][983]._
 
 ##### Postal Services Act 1987 (1987 No 113)
 
@@ -11956,19 +11962,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][983]._
+_Amendment(s) incorporated in the [Act(s)][984]._
 
 ##### Ship Registration Act 1992 (1992 No 89)
 
-_Amendment(s) incorporated in the [Act(s)][984]._
+_Amendment(s) incorporated in the [Act(s)][985]._
 
 ##### State Sector Act 1988 (1988 No 20)
 
-_Amendment(s) incorporated in the [Act(s)][985]._
+_Amendment(s) incorporated in the [Act(s)][986]._
 
 ##### Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)
 
-_Amendment(s) incorporated in the [Act(s)][986]._
+_Amendment(s) incorporated in the [Act(s)][987]._
 
 ##### Tariff Act 1988 (1988 No 155)
 
@@ -11980,7 +11986,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Temporary Safeguard Authorities Act 1987 (1987 No 88)
 
-_Amendment(s) incorporated in the [Act(s)][987]._
+_Amendment(s) incorporated in the [Act(s)][988]._
 
 ##### Toxic Substances Act 1979 (1979 No 27)
 
@@ -11988,7 +11994,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Trade in Endangered Species Act 1989 (1989 No 18)
 
-_Amendment(s) incorporated in the [Act(s)][988]._
+_Amendment(s) incorporated in the [Act(s)][989]._
 
 ##### Trade in Endangered Species Amendment Act 1991 (1991 No 100)
 
@@ -12000,11 +12006,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Transit New Zealand Act 1989 (1989 No 75)
 
-_Amendment(s) incorporated in the [Act(s)][989]._
+_Amendment(s) incorporated in the [Act(s)][990]._
 
 ##### Wheat Industry Research Levies Act 1989 (1989 No 64)
 
-_Amendment(s) incorporated in the [Act(s)][990]._
+_Amendment(s) incorporated in the [Act(s)][991]._
 
 ##### Wine Makers Act 1981 (1981 No 125)
 
@@ -12025,11 +12031,11 @@ Regulations amended
 
 ##### Anthrax Prevention Regulations 1987 (SR 1987/345)
 
-_Amendment(s) incorporated in the [regulations][991]._
+_Amendment(s) incorporated in the [regulations][992]._
 
 ##### Copyright (Border Protection) Regulations 1994 (SR 1994/309)
 
-_Amendment(s) incorporated in the [regulations][992]._
+_Amendment(s) incorporated in the [regulations][993]._
 
 ##### Forest Produce Import and Export Regulations 1989 (SR 1989/235)
 
@@ -12057,7 +12063,7 @@ _Amendment(s) incorporated in the regulations._
 
 ##### United Nations Sanctions (Iraq) Regulations 1991 (SR 1991/92)
 
-_Amendment(s) incorporated in the [regulations][993]._
+_Amendment(s) incorporated in the [regulations][994]._
 
 ##### United Nations Sanctions (Liberia) Regulations 1992 (SR 1992/371)
 
@@ -12077,7 +12083,7 @@ _Amendment(s) incorporated in the regulations._
 
 ##### United Nations Sanctions (Somalia) Regulations 1992 (SR 1992/42)
 
-_Amendment(s) incorporated into the [regulations][994]._
+_Amendment(s) incorporated into the [regulations][995]._
 
 ##### United Nations Sanctions (Yugoslavia) Regulations 1991 (SR 1991/237)
 
@@ -12096,11 +12102,11 @@ Enactments repealed
 
 ##### Age of Majority Act 1970 (1970 No 137) (RS Vol 21, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][995]._
+_Amendment(s) incorporated in the [Act(s)][996]._
 
 ##### Constitution Act 1986 (1986 No 114)
 
-_Amendment(s) incorporated in the [Act(s)][996]._
+_Amendment(s) incorporated in the [Act(s)][997]._
 
 ##### Customs Act 1966 (1966 No 19) (RS Vol 2, p 57)
 
@@ -12198,11 +12204,11 @@ _Amendment(s) incorporated in the [Act(s)][996]._
 
 ##### Dumping and Countervailing Duties Act 1988 (1988 No 158)
 
-_Amendment(s) incorporated in the [Act(s)][997]._
+_Amendment(s) incorporated in the [Act(s)][998]._
 
 ##### Finance Act 1989 (1989 No 13)
 
-_Amendment(s) incorporated in the [Act(s)][998]._
+_Amendment(s) incorporated in the [Act(s)][999]._
 
 ##### Goods and Services Tax Amendment Act 1986 (1986 No 43) (RS Vol 19, p 485)
 
@@ -12218,11 +12224,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Official Information Amendment Act 1987 (1987 No 8) (RS Vol 21, p 634)
 
-_Amendment(s) incorporated in the [Act(s)][999]._
+_Amendment(s) incorporated in the [Act(s)][1000]._
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][1000]._
+_Amendment(s) incorporated in the [Act(s)][1001]._
 
 ##### State-Owned Enterprises Amendment Act 1987 (1987 No 117)
 
@@ -12230,11 +12236,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### State Sector Act 1988 (1988 No 20)
 
-_Amendment(s) incorporated in the [Act(s)][1001]._
+_Amendment(s) incorporated in the [Act(s)][1002]._
 
 ##### Tariff Act 1988 (1988 No 155)
 
-_Amendment(s) incorporated in the [Act(s)][1002]._
+_Amendment(s) incorporated in the [Act(s)][1003]._
 
 ##### Tariff Amendment Act 1989 (1989 No 48)
 
@@ -12429,7 +12435,7 @@ Commencement3 December 1985
 
 ##### 1 Short Title, etc
     
-*   (1) This Act may be cited as the [Goods and Services Tax Act 1985][1003].
+*   (1) This Act may be cited as the [Goods and Services Tax Act 1985][1004].
     
     (2) This Act, other than section 12, is hereby declared to be one of the Inland Revenue Acts within the meaning of the Tax Administration Act 1994\.
     
@@ -12451,7 +12457,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Customs and Excise Amendment Act (No 3) 2008][1004].
+*   This Act is the [Customs and Excise Amendment Act (No 3) 2008][1005].
 
 ##### 2 Commencement
     
@@ -12488,35 +12494,37 @@ Consequential amendments and transitional provisions
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1005] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][1006] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1006] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][1007] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1007] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1008] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1008] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1009] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Companies Amendment Act 2013 (2013 No 111): [section 14][666]
+*   Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132): [section 11][881]
     
-    [Customs and Excise (Budget Measures---Motor Spirits) Amendment Act 2013][1009] (2013 No 24)
+    Companies Amendment Act 2013 (2013 No 111): [section 14][666]
     
-    Student Loan Scheme Amendment Act 2013 (2013 No 10): [sections 47--49][899]
+    [Customs and Excise (Budget Measures---Motor Spirits) Amendment Act 2013][1010] (2013 No 24)
+    
+    Student Loan Scheme Amendment Act 2013 (2013 No 10): [sections 47--49][900]
     
     Legislation Act 2012 (2012 No 119): [section 77(3)][636]
     
-    [Customs and Excise (Tobacco Products---Budget Measures) Amendment Act 2012][1010] (2012 No 77)
+    [Customs and Excise (Tobacco Products---Budget Measures) Amendment Act 2012][1011] (2012 No 77)
     
-    [Customs and Excise Amendment Act 2012][1011] (2012 No 25)
+    [Customs and Excise Amendment Act 2012][1012] (2012 No 25)
     
     Search and Surveillance Act 2012 (2012 No 24): [sections 221--229][706]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][693]
     
-    Student Loan Scheme Act 2011 (2011 No 62): [section 223][898]
+    Student Loan Scheme Act 2011 (2011 No 62): [section 223][899]
     
-    Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54): [section 13(2)][945]
+    Misuse of Drugs Amendment Act (No 2) 2011 (2011 No 54): [section 13(2)][946]
     
-    [Customs and Excise Amendment Act 2011][1012] (2011 No 36)
+    [Customs and Excise Amendment Act 2011][1013] (2011 No 36)
     
     Limitation Act 2010 (2010 No 110): [section 58][858]
     
@@ -12530,11 +12538,11 @@ Consequential amendments and transitional provisions
     
     Immigration Act 2009 (2009 No 51): [section 406(1)][581]
     
-    Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42): [section 10][1013]
+    Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42): [section 10][1014]
     
     Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35): [section 161(2)][764]
     
-    [Customs and Excise (AANZFTA) Amendment Act 2009][1014] (2009 No 21)
+    [Customs and Excise (AANZFTA) Amendment Act 2009][1015] (2009 No 21)
     
     Mutual Assistance in Criminal Matters Amendment Act 2009 (2009 No 9): [section 14][773]
     
@@ -12542,21 +12550,21 @@ Consequential amendments and transitional provisions
     
     Policing Act 2008 (2008 No 72): [section 116(a)(i)][727]
     
-    [Customs and Excise Amendment Act (No 3) 2008][1004] (2008 No 68)
+    [Customs and Excise Amendment Act (No 3) 2008][1005] (2008 No 68)
     
-    [Customs and Excise Amendment Act (No 2) 2008][1015] (2008 No 61)
+    [Customs and Excise Amendment Act (No 2) 2008][1016] (2008 No 61)
     
-    [Customs and Excise Amendment Act 2008][1016] (2008 No 50)
+    [Customs and Excise Amendment Act 2008][1017] (2008 No 50)
     
     Land Transport Management Amendment Act 2008 (2008 No 47): [section 49][652]
     
-    [Customs and Excise (Social Assistance) Amendment Act 2008][1017] (2008 No 25)
+    [Customs and Excise (Social Assistance) Amendment Act 2008][1018] (2008 No 25)
     
-    Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109): [section 293][904]
+    Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109): [section 293][905]
     
-    Student Loan Scheme Amendment Act 2007 (2007 No 13): [section 41][897]
+    Student Loan Scheme Amendment Act 2007 (2007 No 13): [section 41][898]
     
-    [Customs and Excise Amendment Act 2007][1018] (2007 No 9)
+    [Customs and Excise Amendment Act 2007][1019] (2007 No 9)
     
     Evidence Act 2006 (2006 No 69): [section 216][752]
     
@@ -12564,7 +12572,7 @@ Consequential amendments and transitional provisions
     
     Insolvency Act 2006 (2006 No 55): [section 445][672]
     
-    [Customs and Excise Amendment Act 2006][1019] (2006 No 7)
+    [Customs and Excise Amendment Act 2006][1020] (2006 No 7)
     
     Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][755]
     
@@ -12572,7 +12580,7 @@ Consequential amendments and transitional provisions
     
     Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2): [sections 39--44][556]
     
-    [Customs and Excise Amendment Act 2004][1020] (2004 No 55)
+    [Customs and Excise Amendment Act 2004][1021] (2004 No 55)
     
     State Sector Amendment Act 2003 (2003 No 41): [section 14(1)][847]
     
@@ -12580,7 +12588,7 @@ Consequential amendments and transitional provisions
     
     Civil Defence Emergency Management Act 2002 (2002 No 33): [section 117][561]
     
-    [Customs and Excise Amendment Act (No 2) 2002][1021] (2002 No 31)
+    [Customs and Excise Amendment Act (No 2) 2002][1022] (2002 No 31)
     
     Crimes Amendment Act 2002 (2002 No 20): [section 8][708]
     
@@ -12588,27 +12596,27 @@ Consequential amendments and transitional provisions
     
     Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][848]
     
-    [Customs and Excise Amendment Act 2001][1022] (2001 No 61)
+    [Customs and Excise Amendment Act 2001][1023] (2001 No 61)
     
-    [Customs and Excise Amendment Act (No 2) 2000][1023] (2000 No 58)
+    [Customs and Excise Amendment Act (No 2) 2000][1024] (2000 No 58)
     
     Ministry of Economic Development Act 2000 (2000 No 28): [section 8(1)][560]
     
-    Interpretation Act 1999 (1999 No 85): [section 38(1)][939]
+    Interpretation Act 1999 (1999 No 85): [section 38(1)][940]
     
     Companies Amendment Act 1999 (1999 No 19): [section 19][673]
     
     Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96): [section 11][873]
     
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][1024]
+    District Courts Amendment Act 1998 (1998 No 76): [section 7][1025]
     
-    [Customs and Excise Amendment Act (No 2) 1998][1025] (1998 No 38)
+    [Customs and Excise Amendment Act (No 2) 1998][1026] (1998 No 38)
     
     Postal Services Act 1998 (1998 No 2): [section 62(1)][861]
     
-    Misuse of Drugs Amendment Act 1997 (1997 No 57): [section 3][948]
+    Misuse of Drugs Amendment Act 1997 (1997 No 57): [section 3][949]
     
-    [Customs and Excise Act Commencement Order 1996][1026] (SR 1996/229)
+    [Customs and Excise Act Commencement Order 1996][1027] (SR 1996/229)
     
     Customs and Excise Amendment Act 1996 (1996 No 80)
     
@@ -13497,149 +13505,150 @@ Consequential amendments and transitional provisions
 [878]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM352812
 [879]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM352822
 [880]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM135324
-[881]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM204451
-[882]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM204473
-[883]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM311866
-[884]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM328088
-[885]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM24025
-[886]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM24040
-[887]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2602799
-[888]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM371835
-[889]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3556102
-[890]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM311346
-[891]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3556114
-[892]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3179936
-[893]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM348353
-[894]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3180423
-[895]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3179903
-[896]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3885511
-[897]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM406777
-[898]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3180446
-[899]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4683020
-[900]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4683025
-[901]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4683026
-[902]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM253157
-[903]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM253150
-[904]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1172310
-[905]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300374
-[906]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM296638
-[907]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203650
-[908]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM315267
-[909]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM48686
-[910]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM381221
-[911]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM414576
-[912]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM33501
-[913]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM222446
-[914]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4417036
-[915]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM316059
-[916]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM297038
-[917]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4417028
-[918]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4417033
-[919]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM112129
-[920]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM319576
-[921]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM426451
-[922]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405927
-[923]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1583413
-[924]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300378
-[925]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139659
-[926]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM149020
-[927]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136956
-[928]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203692
-[929]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2376782
-[930]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2998558
-[931]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2998573
-[932]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139660
-[933]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300379
-[934]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405928
-[935]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM149021
-[936]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300380
-[937]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM31488
-[938]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM426452
-[939]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM31885
-[940]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM82734
-[941]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM173192
-[942]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM328517
-[943]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM330794
-[944]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203694
-[945]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2827725
-[946]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405940
-[947]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM333754
-[948]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM410757
-[949]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380248
-[950]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380247
-[951]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380241
-[952]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380242
-[953]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380245
-[954]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380246
-[955]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380401
-[956]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380298
-[957]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM293032
-[958]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM334626
-[959]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM191737
-[960]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM214686
-[961]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM319569
-[962]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM181593
-[963]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM327314
-[964]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM345633
-[965]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM139815
-[966]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM96438
-[967]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM145345
-[968]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM305941
-[969]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM51357
-[970]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM255625
-[971]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM213004
-[972]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM25985
-[973]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM108024
-[974]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM383234
-[975]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM25319
-[976]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM335660
-[977]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM53795
-[978]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM436557
-[979]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM23089
-[980]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM377454
-[981]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM431204
-[982]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM278324
-[983]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM297916
-[984]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM275032
-[985]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM130706
-[986]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM314307
-[987]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM117360
-[988]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM146563
-[989]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM173374
-[990]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM167922
-[991]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM122430
-[992]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM198506
-[993]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM146843
-[994]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM152650
-[995]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM396810
-[996]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM94264
-[997]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM138395
-[998]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM145378
-[999]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM101358
-[1000]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM163182
-[1001]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM130770
-[1002]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM137539
-[1003]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM81034
-[1004]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139624
-[1005]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2998516
-[1006]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2998515
-[1007]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2998532
-[1008]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[1009]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM5195801
-[1010]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4489300
-[1011]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203600
-[1012]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3556108
-[1013]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2251002
-[1014]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2175502
-[1015]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1583400
-[1016]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1447702
-[1017]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1210403
-[1018]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405644
-[1019]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM371828
-[1020]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM299832
-[1021]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM148454
-[1022]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM112115
-[1023]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM75796
-[1024]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM427920
-[1025]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM426450
-[1026]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM220006
+[881]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM5627417
+[882]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM204451
+[883]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM204473
+[884]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM311866
+[885]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM328088
+[886]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM24025
+[887]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM24040
+[888]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2602799
+[889]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM371835
+[890]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3556102
+[891]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM311346
+[892]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3556114
+[893]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3179936
+[894]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM348353
+[895]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3180423
+[896]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3179903
+[897]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3885511
+[898]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM406777
+[899]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3180446
+[900]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4683020
+[901]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4683025
+[902]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4683026
+[903]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM253157
+[904]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM253150
+[905]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1172310
+[906]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300374
+[907]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM296638
+[908]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203650
+[909]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM315267
+[910]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM48686
+[911]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM381221
+[912]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM414576
+[913]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM33501
+[914]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM222446
+[915]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4417036
+[916]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM316059
+[917]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM297038
+[918]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4417028
+[919]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4417033
+[920]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM112129
+[921]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM319576
+[922]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM426451
+[923]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405927
+[924]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1583413
+[925]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300378
+[926]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139659
+[927]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM149020
+[928]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2136956
+[929]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203692
+[930]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2376782
+[931]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2998558
+[932]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2998573
+[933]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139660
+[934]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300379
+[935]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405928
+[936]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM149021
+[937]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM300380
+[938]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM31488
+[939]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM426452
+[940]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM31885
+[941]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM82734
+[942]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM173192
+[943]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM328517
+[944]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM330794
+[945]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203694
+[946]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2827725
+[947]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405940
+[948]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM333754
+[949]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM410757
+[950]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380248
+[951]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380247
+[952]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380241
+[953]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380242
+[954]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380245
+[955]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380246
+[956]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380401
+[957]: http://www.legislation.govt.nz/act/public/1996/0027/latest/whole.html#DLM380298
+[958]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM293032
+[959]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM334626
+[960]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM191737
+[961]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM214686
+[962]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM319569
+[963]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM181593
+[964]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM327314
+[965]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM345633
+[966]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM139815
+[967]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM96438
+[968]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM145345
+[969]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM305941
+[970]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM51357
+[971]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM255625
+[972]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM213004
+[973]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM25985
+[974]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM108024
+[975]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM383234
+[976]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM25319
+[977]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM335660
+[978]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM53795
+[979]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM436557
+[980]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM23089
+[981]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM377454
+[982]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM431204
+[983]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM278324
+[984]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM297916
+[985]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM275032
+[986]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM130706
+[987]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM314307
+[988]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM117360
+[989]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM146563
+[990]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM173374
+[991]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM167922
+[992]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM122430
+[993]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM198506
+[994]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM146843
+[995]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM152650
+[996]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM396810
+[997]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM94264
+[998]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM138395
+[999]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM145378
+[1000]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM101358
+[1001]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM163182
+[1002]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM130770
+[1003]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM137539
+[1004]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM81034
+[1005]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1139624
+[1006]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2998516
+[1007]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2998515
+[1008]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2998532
+[1009]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[1010]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM5195801
+[1011]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM4489300
+[1012]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3203600
+[1013]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM3556108
+[1014]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2251002
+[1015]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM2175502
+[1016]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1583400
+[1017]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1447702
+[1018]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM1210403
+[1019]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM405644
+[1020]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM371828
+[1021]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM299832
+[1022]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM148454
+[1023]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM112115
+[1024]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM75796
+[1025]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM427920
+[1026]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM426450
+[1027]: http://www.legislation.govt.nz/act/public/1996/0027/latest/link.aspx?id=DLM220006
