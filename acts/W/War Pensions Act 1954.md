@@ -1,5 +1,5 @@
 Reprint  
-as at 2 September 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -2408,7 +2408,7 @@ Veterans' pensions
     
     (2) Nothing in the other Parts of this Act or the [War Pensions Regulations 1956][305] applies to this Part or affect the administration of veterans' pensions, except as otherwise expressly provided in this Part.
     
-    (3) In the application of any of the provisions of the [Social Welfare (Transitional Provisions) Act 1990][306] or of the [Social Security Act 1964][307] relating to veterans' pensions or the payment of veterans' pensions, references to the chief executive and department must be read, respectively, as references to the Secretary and to the Department.
+    (3) In the application of any of the provisions of the [Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990][306] or of the [Social Security Act 1964][307] relating to veterans' pensions or the payment of veterans' pensions, references to the chief executive and department must be read, respectively, as references to the Secretary and to the Department.
     
     (4) Nothing in subsection (3) requires the Secretary to issue a separate code of conduct under [section 11B][308] of the Social Security Act 1964 for the purposes of the administration of this Part.
     
@@ -2421,20 +2421,24 @@ Veterans' pensions
     Compare: 1990 No 26 [s 2A][310]
     
     Section 68: substituted, on 15 April 2003, by [section 8][286] of the War Pensions Amendment Act 2003 (2003 No 18).
+    
+    Section 68(3): amended, on 5 December 2013, by [section 17(2)(a)][311] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
 
 ##### 69 Delegation of Secretary's powers
     
 *   (1) The Secretary may, either generally or particularly, delegate to the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][307] any of the Secretary's powers, functions, and discretions under---
         
-    *   (a) [sections 70 to 74B][311]; and
+    *   (a) [sections 70 to 74B][312]; and
     
-    *   (b) any other provision in this Part or the [Social Security Act 1964][307] or the [Social Welfare (Transitional Provisions) Act 1990][306] that relates to the payment of veterans' pensions.
+    *   (b) any other provision in this Part or the [Social Security Act 1964][307] or the [Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990][306] that relates to the payment of veterans' pensions.
     
-    (2) The provisions of [sections 41][312] and [42][313] of the State Sector Act 1988 apply to every delegation made under subsection (1) as if that delegation were made under section 41 of that Act.
+    (2) The provisions of [sections 41][313] and [42][314] of the State Sector Act 1988 apply to every delegation made under subsection (1) as if that delegation were made under section 41 of that Act.
     
-    Compare: 1990 No 26 [s 2B][314]
+    Compare: 1990 No 26 [s 2B][315]
     
     Section 69: substituted, on 15 April 2003, by [section 8][286] of the War Pensions Amendment Act 2003 (2003 No 18).
+    
+    Section 69(1)(b): amended, on 5 December 2013, by [section 17(2)(b)][311] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
 
 #### Entitlement
     
@@ -2484,7 +2488,7 @@ Veterans' pensions
     
     *   (d) national superannuation paid or payable, before 1 April 1990, under the [Social Security Act 1964][307].
     
-    Compare: 1990 No 26 [s 8][315]
+    Compare: 1990 No 26 [s 8][316]
     
     Section 70: substituted, on 15 April 2003, by [section 8][286] of the War Pensions Amendment Act 2003 (2003 No 18).
     
@@ -2512,7 +2516,7 @@ Veterans' pensions
             
         *   (i) [section 70(1)(b)(ii)][151]; or
         
-        *   (ii) [section 8(1)(b)(ii)][315] of the Social Welfare (Transitional Provisions) Act 1990 (as in force immediately before the commencement of this Part); and
+        *   (ii) [section 8(1)(b)(ii)][316] of the Social Welfare (Transitional Provisions) Act 1990 (as in force immediately before the commencement of this Part); and
         
         
     
@@ -2536,7 +2540,7 @@ Veterans' pensions
     
     (3) The medical practitioner must state the grounds upon which his or her opinion is founded.
     
-    Compare: 1990 No 26 [s 9][316]
+    Compare: 1990 No 26 [s 9][317]
     
     Section 72: substituted, on 15 April 2003, by [section 8][286] of the War Pensions Amendment Act 2003 (2003 No 18).
 
@@ -2556,13 +2560,13 @@ Veterans' pensions
     
     (3) Nothing in subsection (2) limits [section 70(3)][151].
     
-    (4) This section is subject to [section 80AA][317] of the Social Security Act 1964\.
+    (4) This section is subject to [section 80AA][318] of the Social Security Act 1964\.
     
-    Compare: 1990 No 26 [s 10][318]
+    Compare: 1990 No 26 [s 10][319]
     
     Section 73: substituted, on 15 April 2003, by [section 8][286] of the War Pensions Amendment Act 2003 (2003 No 18).
     
-    Section 73(4): added, on 2 July 2007, by [section 12(2)][319] of the Social Security Amendment Act 2007 (2007 No 20).
+    Section 73(4): added, on 2 July 2007, by [section 12(2)][320] of the Social Security Amendment Act 2007 (2007 No 20).
 
 ##### 74 Rates of veterans' pensions
     
@@ -2578,7 +2582,7 @@ Veterans' pensions
     
     (4) A person who has made an election under subsection (2) may change that election.
     
-    Compare: 1990 No 26 [s 11][320]
+    Compare: 1990 No 26 [s 11][321]
     
     Section 74: substituted, on 15 April 2003, by [section 8][286] of the War Pensions Amendment Act 2003 (2003 No 18).
     
@@ -2598,7 +2602,7 @@ Veterans' pensions
     
 *   On the death of any person who is ordinarily resident in New Zealand on the date of death and who is in receipt of a veteran's pension on that date, or on the death of the spouse or civil union partner or de facto partner of that person, the appropriate amount specified in [Schedule 12][231] is payable to the surviving spouse, surviving civil union partner or surviving de facto partner, or dependent child of the person who died.
     
-    Compare: 1990 No 26 [s 12][321]
+    Compare: 1990 No 26 [s 12][322]
     
     Section 74A: inserted, on 15 April 2003, by [section 8][286] of the War Pensions Amendment Act 2003 (2003 No 18).
     
@@ -2612,7 +2616,7 @@ Veterans' pensions
     
     (2) Subclause (1) is subject to [section 70(3)][151].
     
-    Compare: 1990 No 26 [s 13][322]
+    Compare: 1990 No 26 [s 13][323]
     
     Section 74B: inserted, on 15 April 2003, by [section 8][286] of the War Pensions Amendment Act 2003 (2003 No 18).
 
@@ -2620,7 +2624,7 @@ Veterans' pensions
     
 *   (1) This section applies to any person---
         
-    *   (a) who is not in long-term residential care and whose spouse or partner is in long-term residential care in a hospital or rest home, whether or not the spouse or partner is a resident assessed as requiring care (within the meaning of [section 136][323] of the Social Security Act 1964); and
+    *   (a) who is not in long-term residential care and whose spouse or partner is in long-term residential care in a hospital or rest home, whether or not the spouse or partner is a resident assessed as requiring care (within the meaning of [section 136][324] of the Social Security Act 1964); and
     
     *   (b) who is in receipt of a veteran's pension, or whose spouse or partner is in receipt of a veteran's pension.
     
@@ -2630,13 +2634,13 @@ Veterans' pensions
     
     *   (b) stated in clause 1(b) of [Schedule 11][230], if the person is not living alone.
     
-    (3) Any benefit payable to a person to whom this section applies is not subject to abatement in respect of any income of the person that has been included in a means assessment of the person's spouse or partner under [Part 4][324] of the Social Security Act 1964\.
+    (3) Any benefit payable to a person to whom this section applies is not subject to abatement in respect of any income of the person that has been included in a means assessment of the person's spouse or partner under [Part 4][325] of the Social Security Act 1964\.
     
-    Section 74BA: inserted, on 1 July 2006, by [section 5][325] of the War Pensions Amendment Act 2006 (2006 No 32).
+    Section 74BA: inserted, on 1 July 2006, by [section 5][326] of the War Pensions Amendment Act 2006 (2006 No 32).
     
-    Section 74BA(2)(a): amended, on 2 September 2013, by [section 20(1)][326] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
+    Section 74BA(2)(a): amended, on 2 September 2013, by [section 20(1)][327] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
     
-    Section 74BA(2)(b): amended, on 2 September 2013, by [section 20(2)][326] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
+    Section 74BA(2)(b): amended, on 2 September 2013, by [section 20(2)][327] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
 
 ##### 74C Annual adjustment of rates of veterans' pensions
     
@@ -2644,9 +2648,9 @@ Veterans' pensions
     
     _CPI_ means the consumers price index-all groups published by Statistics New Zealand
     
-    _earner levy_ means the levy payable under [section 219(1) and (2)][327] of the Injury Prevention, Rehabilitation, and Compensation Act 2001
+    _earner levy_ means the levy payable under [section 219(1) and (2)][328] of the Injury Prevention, Rehabilitation, and Compensation Act 2001
     
-    _standard tax_ means the amount of tax reckoned on a weekly basis that would be deductible in accordance with tax code ""M"" specified in [section 24B][328] of the Tax Administration Act 1994\.
+    _standard tax_ means the amount of tax reckoned on a weekly basis that would be deductible in accordance with tax code ""M"" specified in [section 24B][329] of the Tax Administration Act 1994\.
     
     (2) Subject to subsection (3), the rates of veterans' pensions specified in clauses 1 and 2(b) of [Schedule 11][230] must be adjusted, by Order in Council, as at 1 April each year so that in each case the new rate (after the deduction of standard tax) is the rate at that date (after the deduction of standard tax and before the adjustment under this section is made) adjusted by any percentage movement upwards in the CPI between the CPI for the quarter that ended with 31 December one year before the immediately preceding 31 December and the CPI for the quarter that ended with the immediately preceding 31 December.
     
@@ -2668,31 +2672,31 @@ Veterans' pensions
     
     (5) An adjustment under this section must not reduce the weekly amounts payable under this section.
     
-    (6) [Section 61H(3) to (6)][329] of the Social Security Act 1964 applies to every Order in Council made under subsection (2) as if that Order in Council were made under that section.
+    (6) [Section 61H(3) to (6)][330] of the Social Security Act 1964 applies to every Order in Council made under subsection (2) as if that Order in Council were made under that section.
     
     (7) Every Order in Council made under subsection (2) comes into force, or is to be deemed to come into force, on 1 April of the calendar year in which it is made, and applies to veterans' pensions payable on and after that date.
     
-    Compare: 1990 No 26 [s 13A][330]
+    Compare: 1990 No 26 [s 13A][331]
     
     Section 74C: inserted, on 15 April 2003, by [section 8][286] of the War Pensions Amendment Act 2003 (2003 No 18).
     
     Section 74C(1) **standard tax**: amended, on 1 April 2008, by [section ZA 2(1)][294] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 74C(2A): inserted (with effect on 20 May 2010), on 28 May 2010, by [section 3][331] of the War Pensions Amendment Act 2010 (2010 No 31).
+    Section 74C(2A): inserted (with effect on 20 May 2010), on 28 May 2010, by [section 3][332] of the War Pensions Amendment Act 2010 (2010 No 31).
     
-    Section 74C(2A): amended, on 24 October 2012, by [section 3][332] of the War Pensions (Indexation---Budget Measures) Amendment Act 2012 (2012 No 83).
+    Section 74C(2A): amended, on 24 October 2012, by [section 3][333] of the War Pensions (Indexation---Budget Measures) Amendment Act 2012 (2012 No 83).
     
     Section 74C(3)(a): amended, on 1 April 2007, by [section 5][297] of the War Pensions Amendment Act 2005 (2005 No 24).
     
     Section 74C(3)(a): amended, on 26 April 2005, by [section 3][241] of the War Pensions Amendment Act 2005 (2005 No 24).
     
-    Section 74C(3)(b): amended, on 2 September 2013, by [section 21(1)][333] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
+    Section 74C(3)(b): amended, on 2 September 2013, by [section 21(1)][334] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
     
     Section 74C(3)(b): amended, on 1 April 2007, by [section 5][297] of the War Pensions Amendment Act 2005 (2005 No 24).
     
     Section 74C(3)(b): amended, on 26 April 2005, by [section 3][241] of the War Pensions Amendment Act 2005 (2005 No 24).
     
-    Section 74C(3)(c): amended, on 2 September 2013, by [section 21(2)][333] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
+    Section 74C(3)(c): amended, on 2 September 2013, by [section 21(2)][334] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
     
     Section 74C(3)(c): amended, on 1 April 2007, by [section 5][297] of the War Pensions Amendment Act 2005 (2005 No 24).
     
@@ -2718,21 +2722,21 @@ Veterans' pensions
     
     Section 74D: inserted, on 15 April 2003, by [section 8][286] of the War Pensions Amendment Act 2003 (2003 No 18).
     
-    Section 74D(3)(a): amended, on 27 September 2010, by [section 5(1)][334] of the War Pensions Amendment Act (No 2) 2010 (2010 No 106).
+    Section 74D(3)(a): amended, on 27 September 2010, by [section 5(1)][335] of the War Pensions Amendment Act (No 2) 2010 (2010 No 106).
     
-    Section 74D(3)(a): amended, on 27 September 2010, by [section 5(2)][334] of the War Pensions Amendment Act (No 2) 2010 (2010 No 106).
+    Section 74D(3)(a): amended, on 27 September 2010, by [section 5(2)][335] of the War Pensions Amendment Act (No 2) 2010 (2010 No 106).
     
-    Section 74D(3)(b): amended, on 27 September 2010, by [section 5(2)][334] of the War Pensions Amendment Act (No 2) 2010 (2010 No 106).
+    Section 74D(3)(b): amended, on 27 September 2010, by [section 5(2)][335] of the War Pensions Amendment Act (No 2) 2010 (2010 No 106).
     
-    Section 74D(4)(a): amended, on 27 September 2010, by [section 5(1)][334] of the War Pensions Amendment Act (No 2) 2010 (2010 No 106).
+    Section 74D(4)(a): amended, on 27 September 2010, by [section 5(1)][335] of the War Pensions Amendment Act (No 2) 2010 (2010 No 106).
     
-    Section 74D(4)(a): amended, on 27 September 2010, by [section 5(2)][334] of the War Pensions Amendment Act (No 2) 2010 (2010 No 106).
+    Section 74D(4)(a): amended, on 27 September 2010, by [section 5(2)][335] of the War Pensions Amendment Act (No 2) 2010 (2010 No 106).
     
     Section 74D(4)(a): amended, on 1 April 2007, by [section 5][297] of the War Pensions Amendment Act 2005 (2005 No 24).
     
     Section 74D(4)(a): amended, on 26 April 2005, by [section 3][241] of the War Pensions Amendment Act 2005 (2005 No 24).
     
-    Section 74D(4)(b): amended, on 27 September 2010, by [section 5(2)][334] of the War Pensions Amendment Act (No 2) 2010 (2010 No 106).
+    Section 74D(4)(b): amended, on 27 September 2010, by [section 5(2)][335] of the War Pensions Amendment Act (No 2) 2010 (2010 No 106).
     
     Section 74D(4)(b): amended, on 1 April 2007, by [section 5][297] of the War Pensions Amendment Act 2005 (2005 No 24).
     
@@ -2744,13 +2748,15 @@ Veterans' pensions
 
 ##### 74E Effect of absence from New Zealand on veteran's pension
     
-*   A person is not entitled to a veteran's pension while that person is absent from New Zealand, except as provided in [sections 74F to 74T][164] or in any agreement or convention adopted under [section 19][335] of the Social Welfare (Transitional Provisions) Act 1990\.
+*   A person is not entitled to a veteran's pension while that person is absent from New Zealand, except as provided in [sections 74F to 74T][164] or in any agreement or convention adopted under [section 19][336] of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990\.
     
-    Compare: 1990 No 26 [s 17A(1)][336]
+    Compare: 1990 No 26 [s 17A(1)][337]
     
     Section 74E: inserted, on 15 April 2003, by [section 8][286] of the War Pensions Amendment Act 2003 (2003 No 18).
     
-    Section 74E: amended, on 5 January 2010, by [section 4][337] of the War Pensions Amendment Act 2009 (2009 No 41).
+    Section 74E: amended, on 5 December 2013, by [section 17(2)(c)][311] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    
+    Section 74E: amended, on 5 January 2010, by [section 4][338] of the War Pensions Amendment Act 2009 (2009 No 41).
 
 ##### 74F First 26 weeks of certain temporary absences
     
@@ -2760,17 +2766,17 @@ Veterans' pensions
     
     *   (b) the person's absence exceeds 30 weeks and the Secretary is satisfied that the absence beyond 30 weeks is due to circumstances beyond that person's control that he or she could not reasonably have foreseen before departure.
     
-    Compare: 1990 No 26 [s 17A(2)][336]
+    Compare: 1990 No 26 [s 17A(2)][337]
     
     Section 74F: inserted, on 15 April 2003, by [section 8][286] of the War Pensions Amendment Act 2003 (2003 No 18).
     
-    Section 74F: amended, on 5 January 2010, by [section 5][338] of the War Pensions Amendment Act 2009 (2009 No 41).
+    Section 74F: amended, on 5 January 2010, by [section 5][339] of the War Pensions Amendment Act 2009 (2009 No 41).
 
 ##### 74G Absences up to 2 years for medical treatment
     
 *   The Secretary may, in the Secretary's discretion, pay a veteran's pension to any person who would otherwise be entitled to receive it, but who is absent from New Zealand for any period or periods not exceeding 2 years in total because that person or his or her spouse, civil union partner or de facto partner, dependent child, or sibling is receiving medical treatment overseas for which the Ministry of Health is granting assistance.
     
-    Compare: 1990 No 26 [s 17A(3)][336]
+    Compare: 1990 No 26 [s 17A(3)][337]
     
     Section 74G: inserted, on 15 April 2003, by [section 8][286] of the War Pensions Amendment Act 2003 (2003 No 18).
     
@@ -2796,19 +2802,19 @@ Veterans' pensions
     
     (2) The chief executive of the Ministry of Foreign Affairs and Trade must determine any question that arises as to whether an aid agency fulfils the qualifications set out in subsection (1).
     
-    Compare: 1990 No 26 [s 17A(3A), (3B)][336]
+    Compare: 1990 No 26 [s 17A(3A), (3B)][337]
     
     Section 74H: inserted, on 15 April 2003, by [section 8][286] of the War Pensions Amendment Act 2003 (2003 No 18).
     
-    Section 74H heading: amended, on 1 July 2006, by [section 6(1)][339] of the War Pensions Amendment Act 2006 (2006 No 32).
+    Section 74H heading: amended, on 1 July 2006, by [section 6(1)][340] of the War Pensions Amendment Act 2006 (2006 No 32).
     
-    Section 74H(1)(b): amended, on 1 July 2006, by [section 6(2)][339] of the War Pensions Amendment Act 2006 (2006 No 32).
+    Section 74H(1)(b): amended, on 1 July 2006, by [section 6(2)][340] of the War Pensions Amendment Act 2006 (2006 No 32).
 
 ##### 74I Date absence commences
     
 *   If a person who is absent from New Zealand would have become entitled to a veteran's pension during his or her absence but for [section 74E][163], the person's absence must be regarded as having commenced on the day that he or she would have become entitled to a veteran's pension.
     
-    Compare: 1990 No 26 [s 17A(4)][336]
+    Compare: 1990 No 26 [s 17A(4)][337]
     
     Section 74I: inserted, on 15 April 2003, by [section 8][286] of the War Pensions Amendment Act 2003 (2003 No 18).
 
@@ -2816,7 +2822,7 @@ Veterans' pensions
     
 *   (1) This subsection---
         
-    *   (a) applies to a country if it is not a country with whose government New Zealand has a reciprocal agreement or convention, in force under [section 19][335] of the Social Welfare (Transitional Provisions) Act 1990, that relates to the veteran's pension; and
+    *   (a) applies to a country if it is not a country with whose government New Zealand has a reciprocal agreement or convention, in force under [section 19][336] of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990, that relates to the veteran's pension; and
     
     *   (b) applies to a person if he or she has left New Zealand at a time when he or she was---
             
@@ -2880,7 +2886,9 @@ Veterans' pensions
     
     (8) This section is subject to [section 74JB][170].
     
-    Section 74J: substituted, on 5 January 2010, by [section 6][340] of the War Pensions Amendment Act 2009 (2009 No 41).
+    Section 74J: substituted, on 5 January 2010, by [section 6][341] of the War Pensions Amendment Act 2009 (2009 No 41).
+    
+    Section 74J(1)(a): amended, on 5 December 2013, by [section 17(2)(d)][311] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
 
 ##### 74JA Calculation of amount of veteran's pension payable overseas
     
@@ -2896,19 +2904,19 @@ Veterans' pensions
     
     (2) In the determination for the purposes of subsection (1) of the periods during which a person has resided in New Zealand, no account is to be taken of---
         
-    *   (a) any period of absence from New Zealand of a kind described in [section 9(1)][341] of the New Zealand Superannuation and Retirement Income Act 2001; or
+    *   (a) any period of absence from New Zealand of a kind described in [section 9(1)][342] of the New Zealand Superannuation and Retirement Income Act 2001; or
     
     *   (b) any period of absence from New Zealand---
             
-        *   (i) while the person was engaged in missionary work (within the meaning of [section 10(4)][342] of the New Zealand Superannuation and Retirement Income Act 2001) as a member of, or on behalf of, any religious body; or
+        *   (i) while the person was engaged in missionary work (within the meaning of [section 10(4)][343] of the New Zealand Superannuation and Retirement Income Act 2001) as a member of, or on behalf of, any religious body; or
         
-        *   (ii) while the person's spouse or partner was engaged in missionary work (within the meaning of [section 10(4)][342] of the New Zealand Superannuation and Retirement Income Act 2001) as a member of, or on behalf of, any religious body, and the person was with his or her spouse or partner; or
+        *   (ii) while the person's spouse or partner was engaged in missionary work (within the meaning of [section 10(4)][343] of the New Zealand Superannuation and Retirement Income Act 2001) as a member of, or on behalf of, any religious body, and the person was with his or her spouse or partner; or
         
         
     
-    *   (c) any period of absence from New Zealand while the person was (by virtue of [section 79(1)(a)][343] of the Social Security Act 1964) deemed to have been resident in New Zealand; or
+    *   (c) any period of absence from New Zealand while the person was (by virtue of [section 79(1)(a)][344] of the Social Security Act 1964) deemed to have been resident in New Zealand; or
     
-    *   (d) any period of absence from New Zealand while, as the spouse or partner of a person deemed by [section 79(1)(a)][343] of the Social Security Act 1964 to have been resident in New Zealand, the person was also (by virtue of section 79(1)(b) of the Social Security Act 1964) deemed to have been resident in New Zealand.
+    *   (d) any period of absence from New Zealand while, as the spouse or partner of a person deemed by [section 79(1)(a)][344] of the Social Security Act 1964 to have been resident in New Zealand, the person was also (by virtue of section 79(1)(b) of the Social Security Act 1964) deemed to have been resident in New Zealand.
     
     (3) Subsection (2) applies to a period of absence only if the Secretary is satisfied that during it the person concerned remained ordinarily resident in New Zealand.
     
@@ -2918,7 +2926,7 @@ Veterans' pensions
     
     *   (b) in the case of a person to whom subsection (2)(b)(ii) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to accompany or join his or her spouse or partner.
     
-    Section 74JA: inserted, on 5 January 2010, by [section 6][340] of the War Pensions Amendment Act 2009 (2009 No 41).
+    Section 74JA: inserted, on 5 January 2010, by [section 6][341] of the War Pensions Amendment Act 2009 (2009 No 41).
 
 ##### 74JB Entitlement
     
@@ -2940,7 +2948,7 @@ Veterans' pensions
         
         
     
-    Section 74JB: inserted, on 5 January 2010, by [section 6][340] of the War Pensions Amendment Act 2009 (2009 No 41).
+    Section 74JB: inserted, on 5 January 2010, by [section 6][341] of the War Pensions Amendment Act 2009 (2009 No 41).
 
 ##### 74K Applications after leaving New Zealand
     
@@ -2950,7 +2958,7 @@ Veterans' pensions
     
     (3) If the Secretary has accepted an application under subsection (2) and, after the applicant left New Zealand, the applicant has been paid any instalment of a veteran's pension in accordance with [sections 74F to 74I][164], no liability to repay any of those instalments arises merely because the applicant fails to return to New Zealand within the period allowed for by those sections.
     
-    Compare: 1990 No 26 [s 17(3), (5)][344]
+    Compare: 1990 No 26 [s 17(3), (5)][345]
     
     Section 74K: inserted, on 15 April 2003, by [section 8][286] of the War Pensions Amendment Act 2003 (2003 No 18).
 
@@ -2960,13 +2968,13 @@ Veterans' pensions
     
     (2) However, in the case of an application under [section 74K][171], the date of commencement is the first pay day after the date on which the application was received by the Department.
     
-    (3) Subsection (2) is subject to [section 80AA][317] of the Social Security Act 1964\.
+    (3) Subsection (2) is subject to [section 80AA][318] of the Social Security Act 1964\.
     
-    Compare: 1990 No 26 [s 17(4)][344]
+    Compare: 1990 No 26 [s 17(4)][345]
     
     Section 74L: inserted, on 15 April 2003, by [section 8][286] of the War Pensions Amendment Act 2003 (2003 No 18).
     
-    Section 74L(3): added, on 2 July 2007, by [section 12(2)][319] of the Social Security Amendment Act 2007 (2007 No 20).
+    Section 74L(3): added, on 2 July 2007, by [section 12(2)][320] of the Social Security Amendment Act 2007 (2007 No 20).
 
 ##### 74M Relationship with other benefit provisions
     
@@ -2974,27 +2982,27 @@ Veterans' pensions
     
     (2) \[Repealed\]
     
-    (3) A person who is receiving a veteran's pension overseas under [section 74J][168] is not entitled to receive any supplementary or special benefit, temporary additional support, lump sum payment, or any other assistance under the Social Security Act 1964 or under any welfare programme approved under [section 124(1)(d)][345] of that Act.
+    (3) A person who is receiving a veteran's pension overseas under [section 74J][168] is not entitled to receive any supplementary or special benefit, temporary additional support, lump sum payment, or any other assistance under the Social Security Act 1964 or under any welfare programme approved under [section 124(1)(d)][346] of that Act.
     
-    (4) Despite the provisions of [section 80BD][346] of the Social Security Act 1964, on the death of a person who receives a veteran's pension overseas under [section 74J][168], the benefit terminates on a date to be determined by the Secretary, being a date not more than 4 weeks after the date of death.
+    (4) Despite the provisions of [section 80BD][347] of the Social Security Act 1964, on the death of a person who receives a veteran's pension overseas under [section 74J][168], the benefit terminates on a date to be determined by the Secretary, being a date not more than 4 weeks after the date of death.
     
-    (5) Except as otherwise provided in this section, the provisions of the Social Security Act 1964 (other than [sections 69G to 69I][347], [70][311], [74(1)(a)][348], [75][349], [76][350], [77][351], and [82(7)][352], [75A][353], and [76][350]) apply to veterans' pensions being paid overseas under [section 74J][168].
+    (5) Except as otherwise provided in this section, the provisions of the Social Security Act 1964 (other than [sections 69G to 69I][348], [70][312], [74(1)(a)][349], [75][350], [76][351], [77][352], and [82(7)][353], [75A][354], and [76][351]) apply to veterans' pensions being paid overseas under [section 74J][168].
     
-    Compare: 1990 No 26 [s 17(6)--(9)][344]
+    Compare: 1990 No 26 [s 17(6)--(9)][345]
     
     Section 74M: inserted, on 15 April 2003, by [section 8][286] of the War Pensions Amendment Act 2003 (2003 No 18).
     
-    Section 74M(1): repealed, on 5 January 2010, by [section 7(1)][354] of the War Pensions Amendment Act 2009 (2009 No 41).
+    Section 74M(1): repealed, on 5 January 2010, by [section 7(1)][355] of the War Pensions Amendment Act 2009 (2009 No 41).
     
-    Section 74M(2): repealed, on 5 January 2010, by [section 7(1)][354] of the War Pensions Amendment Act 2009 (2009 No 41).
+    Section 74M(2): repealed, on 5 January 2010, by [section 7(1)][355] of the War Pensions Amendment Act 2009 (2009 No 41).
     
-    Section 74M(3): amended, on 2 September 2013, by [section 22][355] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
+    Section 74M(3): amended, on 2 September 2013, by [section 22][356] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
     
-    Section 74M(3): amended, on 1 April 2006, by [section 21][356] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+    Section 74M(3): amended, on 1 April 2006, by [section 21][357] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
     
-    Section 74M(4): amended, on 5 January 2010, by [section 7(3)][354] of the War Pensions Amendment Act 2009 (2009 No 41).
+    Section 74M(4): amended, on 5 January 2010, by [section 7(3)][355] of the War Pensions Amendment Act 2009 (2009 No 41).
     
-    Section 74M(5): amended, on 5 January 2010, by [section 7(4)][354] of the War Pensions Amendment Act 2009 (2009 No 41).
+    Section 74M(5): amended, on 5 January 2010, by [section 7(4)][355] of the War Pensions Amendment Act 2009 (2009 No 41).
 
 ##### 74N Specified Pacific country
     
@@ -3002,7 +3010,7 @@ Veterans' pensions
         
     *   (a) that is listed in [Schedule 13][232]; and
     
-    *   (b) that is not a country with which New Zealand has a reciprocal agreement in force under [section 19][335] of the Social Welfare (Transitional Provisions) Act 1990 relating to the portability of the veteran's pension.
+    *   (b) that is not a country with which New Zealand has a reciprocal agreement in force under [section 19][336] of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 relating to the portability of the veteran's pension.
     
     (2) The Governor-General may, by Order in Council, amend [Schedule 13][232] by---
         
@@ -3014,11 +3022,13 @@ Veterans' pensions
     
     (4) The Order in Council applies to payments of the veteran's pension under [section 74O][175] payable on or after the date on which the order takes effect.
     
-    (5) [Section 61H(3) to (6)][329] of the Social Security Act 1964 applies to every Order in Council made under subsection (2)(a) as if it had been made under that section.
+    (5) [Section 61H(3) to (6)][330] of the Social Security Act 1964 applies to every Order in Council made under subsection (2)(a) as if it had been made under that section.
     
-    Compare: 1990 No 26 [s 17B][357]
+    Compare: 1990 No 26 [s 17B][358]
     
     Section 74N: inserted, on 15 April 2003, by [section 8][286] of the War Pensions Amendment Act 2003 (2003 No 18).
+    
+    Section 74N(1)(b): amended, on 5 December 2013, by [section 17(2)(e)][311] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
 
 ##### 74O Entitlement to be paid veteran's pension in specified Pacific country
     
@@ -3042,11 +3052,11 @@ Veterans' pensions
     
     (3) This subsection applies to a person---
         
-    *   (a) who was, immediately before this section came into force, being paid a veteran's pension while resident in a specified Pacific country under [section 17BA][358] of the Social Welfare (Transitional Provisions) Act 1990 as it was immediately before that date; and
+    *   (a) who was, immediately before this section came into force, being paid a veteran's pension while resident in a specified Pacific country under [section 17BA][359] of the Social Welfare (Transitional Provisions) Act 1990 as it was immediately before that date; and
     
     *   (b) who is resident in a specified Pacific country when each payment of the veteran's pension is due to be made to him or her.
     
-    Compare: 1990 No 26 [s 17BA][358]
+    Compare: 1990 No 26 [s 17BA][359]
     
     Section 74O: inserted, on 15 April 2003, by [section 8][286] of the War Pensions Amendment Act 2003 (2003 No 18).
 
@@ -3070,7 +3080,7 @@ Veterans' pensions
         
         
     
-    *   (c) in the case of a person who is resident in a specified Pacific country and was, immediately before this section came into force, being paid a veteran's pension under [section 17BA][358] of the Social Welfare (Transitional Provisions) Act 1990 as it was immediately before that date, the higher of---
+    *   (c) in the case of a person who is resident in a specified Pacific country and was, immediately before this section came into force, being paid a veteran's pension under [section 17BA][359] of the Social Welfare (Transitional Provisions) Act 1990 as it was immediately before that date, the higher of---
             
         *   (i) the amount he or she was being paid immediately before that date (subject to abatement under [section 74D][161] if that section applies to the person); and
         
@@ -3084,9 +3094,9 @@ Veterans' pensions
     
     *   (b) in the case of a person who is married or in a civil union or in a de facto relationship, the amount stated in clause 1(c) of that schedule (subject to abatement under [section 74D][161] if that section applies to the person).
     
-    (3) However, if [section 70][311] of the Social Security Act 1964 applies, that amount must be reduced by the amount deducted in accordance with that section.
+    (3) However, if [section 70][312] of the Social Security Act 1964 applies, that amount must be reduced by the amount deducted in accordance with that section.
     
-    Compare: 1990 No 26 [s 17C][359]
+    Compare: 1990 No 26 [s 17C][360]
     
     Section 74P: inserted, on 15 April 2003, by [section 8][286] of the War Pensions Amendment Act 2003 (2003 No 18).
     
@@ -3104,7 +3114,7 @@ Veterans' pensions
     
     (2) When a person being paid a benefit under [section 74O][175] dies, the benefit terminates on a date to be determined by the Secretary, being a date not more than 4 weeks after the date of death.
     
-    Compare: 1990 No 26 [s 17D][360]
+    Compare: 1990 No 26 [s 17D][361]
     
     Section 74Q: inserted, on 15 April 2003, by [section 8][286] of the War Pensions Amendment Act 2003 (2003 No 18).
 
@@ -3112,35 +3122,35 @@ Veterans' pensions
     
 *   A person being paid a benefit under [section 74O][175] is not entitled to receive---
         
-    *   (a) any supplementary or special benefit, temporary additional support, lump sum payment, payment under a welfare programme approved under [section 124(1)(d)][345] of the Social Security Act 1964, or any other assistance under that Act.
+    *   (a) any supplementary or special benefit, temporary additional support, lump sum payment, payment under a welfare programme approved under [section 124(1)(d)][346] of the Social Security Act 1964, or any other assistance under that Act.
     
     *   (b) \[Repealed\]
     
-    Compare: 1990 No 26 [s 17E][361]
+    Compare: 1990 No 26 [s 17E][362]
     
     Section 74R: inserted, on 15 April 2003, by [section 8][286] of the War Pensions Amendment Act 2003 (2003 No 18).
     
-    Section 74R(a): amended, on 2 September 2013, by [section 23(1)][362] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
+    Section 74R(a): amended, on 2 September 2013, by [section 23(1)][363] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
     
-    Section 74R(a): amended, on 1 April 2006, by [section 21][356] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+    Section 74R(a): amended, on 1 April 2006, by [section 21][357] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
     
-    Section 74R(b): repealed, on 2 September 2013, by [section 23(2)][362] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
+    Section 74R(b): repealed, on 2 September 2013, by [section 23(2)][363] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
 
 ##### 74S Application of this Act and Social Security Act 1964
     
 *   (1) [Sections 74E to 74M][163] do not apply in respect of a veteran's pension being paid in a specified Pacific country under [section 74O][175].
     
-    (2) The Social Security Act 1964, except [sections 74(a)][348], [75][349], [75A][353], [76][350], [77][351], and [80][363], applies to a veteran's pension being paid in a specified Pacific country under [section 74O][175].
+    (2) The Social Security Act 1964, except [sections 74(a)][349], [75][350], [75A][354], [76][351], [77][352], and [80][364], applies to a veteran's pension being paid in a specified Pacific country under [section 74O][175].
     
-    Compare: 1990 No 26 [s 17F][364]
+    Compare: 1990 No 26 [s 17F][365]
     
     Section 74S: inserted, on 15 April 2003, by [section 8][286] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 ##### 74T Certain former economic pensioners may be paid up to the full rate of veteran's pension overseas
     
-*   Despite [sections 74(a)][348] and [77][351] of the Social Security Act 1964 and [sections 74J to 74M][168] of this Act, if, immediately before 1 April 1990, a person residing outside New Zealand was being paid an economic pension under this Act, the Secretary may pay the full rate, or any lesser percentage of the full rate (being not less than 50%), of a veteran's pension to that person while he or she remains a resident outside New Zealand.
+*   Despite [sections 74(a)][349] and [77][352] of the Social Security Act 1964 and [sections 74J to 74M][168] of this Act, if, immediately before 1 April 1990, a person residing outside New Zealand was being paid an economic pension under this Act, the Secretary may pay the full rate, or any lesser percentage of the full rate (being not less than 50%), of a veteran's pension to that person while he or she remains a resident outside New Zealand.
     
-    Compare: 1990 No 26 [s 18][365]
+    Compare: 1990 No 26 [s 18][366]
     
     Section 74T: inserted, on 15 April 2003, by [section 8][286] of the War Pensions Amendment Act 2003 (2003 No 18).
 
@@ -3148,13 +3158,13 @@ Veterans' pensions
     
 *   \[Repealed\]
     
-    Section 74U: repealed, on 2 September 2013, by [section 24][366] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
+    Section 74U: repealed, on 2 September 2013, by [section 24][367] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
 
 ##### 74V Commencement of living alone payments
     
 *   \[Repealed\]
     
-    Section 74V: repealed, on 2 September 2013, by [section 24][366] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
+    Section 74V: repealed, on 2 September 2013, by [section 24][367] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
 
 ##### 74W Transitional provision for existing veteran's pension entitlements
     
@@ -3197,9 +3207,9 @@ General provisions
     
     (2A) The Order in Council must, for lump sum payments on death, state that it applies in respect of persons who die on or after the date that is specified in the Order in Council.
     
-    (3) Every Order in Council made under this section and presented to the House of Representatives under [section 41][367] of the Legislation Act 2012 expires on the close of the period of 12 months commencing with the date on which it was presented to the House, except so far as it is expressly validated and confirmed by an Act passed before that date.
+    (3) Every Order in Council made under this section and presented to the House of Representatives under [section 41][368] of the Legislation Act 2012 expires on the close of the period of 12 months commencing with the date on which it was presented to the House, except so far as it is expressly validated and confirmed by an Act passed before that date.
     
-    (4) Every Order in Council made under this section and presented to the House of Representatives under [section 41][367] of the Legislation Act 2012, and revoked by a subsequent Order in Council before the close of 31 December in the calendar year following the calendar year during which it was presented to the House, must be treated as being invalid in respect of the period for which it purported to have effect except so far as it is expressly validated and confirmed in respect of that period by an Act passed before that date.
+    (4) Every Order in Council made under this section and presented to the House of Representatives under [section 41][368] of the Legislation Act 2012, and revoked by a subsequent Order in Council before the close of 31 December in the calendar year following the calendar year during which it was presented to the House, must be treated as being invalid in respect of the period for which it purported to have effect except so far as it is expressly validated and confirmed in respect of that period by an Act passed before that date.
     
     (5) Every Order in Council made under this section shall have the force of law as if it was enacted by this Act.
     
@@ -3207,27 +3217,27 @@ General provisions
     
     Section 75C: substituted, on 19 March 1990, by section 2(1) of the War Pensions Amendment Act 1990 (1990 No 6).
     
-    Section 75C heading: amended, on 15 April 2003, by [section 9(1)][368] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 75C heading: amended, on 15 April 2003, by [section 9(1)][369] of the War Pensions Amendment Act 2003 (2003 No 18).
     
     Section 75C(1): substituted, on 2 October 1996, by section 2(1) of the War Pensions Amendment Act 1996 (1996 No 156).
     
-    Section 75C(1)(ab): inserted, on 15 April 2003, by [section 9(2)][368] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 75C(1)(ab): inserted, on 15 April 2003, by [section 9(2)][369] of the War Pensions Amendment Act 2003 (2003 No 18).
     
-    Section 75C(1)(ab): amended, on 1 July 2006, by [section 8][369] of the War Pensions Amendment Act 2006 (2006 No 32).
+    Section 75C(1)(ab): amended, on 1 July 2006, by [section 8][370] of the War Pensions Amendment Act 2006 (2006 No 32).
     
-    Section 75C(2): amended, on 15 April 2003, by [section 9(3)][368] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 75C(2): amended, on 15 April 2003, by [section 9(3)][369] of the War Pensions Amendment Act 2003 (2003 No 18).
     
-    Section 75C(2A): inserted, on 15 April 2003, by [section 9(4)][368] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 75C(2A): inserted, on 15 April 2003, by [section 9(4)][369] of the War Pensions Amendment Act 2003 (2003 No 18).
     
-    Section 75C(3): replaced, on 5 August 2013, by [section 77(3)][370] of the Legislation Act 2012 (2012 No 119).
+    Section 75C(3): replaced, on 5 August 2013, by [section 77(3)][371] of the Legislation Act 2012 (2012 No 119).
     
-    Section 75C(4): replaced, on 5 August 2013, by [section 77(3)][370] of the Legislation Act 2012 (2012 No 119).
+    Section 75C(4): replaced, on 5 August 2013, by [section 77(3)][371] of the Legislation Act 2012 (2012 No 119).
 
 ##### 76 Wives and children of Maoris
     
 *   \[Repealed\]
     
-    Section 76: repealed, on 15 December 2001, by [section 25][371] of the War Pensions Amendment Act 2001 (2001 No 97).
+    Section 76: repealed, on 15 December 2001, by [section 25][372] of the War Pensions Amendment Act 2001 (2001 No 97).
 
 ##### 77 Conjugal status for purposes of pension or allowance
     
@@ -3247,9 +3257,9 @@ General provisions
     
     Section 77: amended, on 1 April 1989, by section 5(5)(c) of the War Pensions Amendment Act 1988 (1988 No 148).
     
-    Section 77(a): repealed, on 15 December 2001, by [section 26][372] of the War Pensions Amendment Act 2001 (2001 No 97).
+    Section 77(a): repealed, on 15 December 2001, by [section 26][373] of the War Pensions Amendment Act 2001 (2001 No 97).
     
-    Section 77(b): repealed, on 15 December 2001, by [section 26][372] of the War Pensions Amendment Act 2001 (2001 No 97).
+    Section 77(b): repealed, on 15 December 2001, by [section 26][373] of the War Pensions Amendment Act 2001 (2001 No 97).
     
     Section 77(c): substituted, on 26 April 2005, by [section 3][241] of the War Pensions Amendment Act 2005 (2005 No 24).
 
@@ -3269,7 +3279,7 @@ General provisions
     
     Section 78A: inserted, on 13 September 1961, by section 3 of the War Pensions Amendment Act 1961 (1961 No 7).
     
-    Section 78A(1): amended, on 15 December 2001, by [section 27][373] of the War Pensions Amendment Act 2001 (2001 No 97).
+    Section 78A(1): amended, on 15 December 2001, by [section 27][374] of the War Pensions Amendment Act 2001 (2001 No 97).
     
     Section 78A(1): amended, on 1 April 1989, by section 5(2)(k) of the War Pensions Amendment Act 1988 (1988 No 148).
     
@@ -3347,7 +3357,7 @@ General provisions
     
     Section 81(1) **analogous New Zealand pension**: amended, on 1 April 1965, pursuant to section 135(1) of the Social Security Act 1964 (1964 No 136).
     
-    Section 81(2): amended, on 15 December 2001, by [section 28][374] of the War Pensions Amendment Act 2001 (2001 No 97).
+    Section 81(2): amended, on 15 December 2001, by [section 28][375] of the War Pensions Amendment Act 2001 (2001 No 97).
     
     Section 81(2): amended, on 1 April 1989, by section 5(2)(g) of the War Pensions Amendment Act 1988 (1988 No 148).
     
@@ -3355,7 +3365,7 @@ General provisions
     
     Section 81(2): amended, on 1 April 1989, by section 5(2)(o) of the War Pensions Amendment Act 1988 (1988 No 148).
     
-    Section 81(2): amended, on 14 October 1966, by [section 4][375] of the War Pensions Amendment Act 1966 (1966 No 41).
+    Section 81(2): amended, on 14 October 1966, by [section 4][376] of the War Pensions Amendment Act 1966 (1966 No 41).
 
 ##### 82 Persons receiving superannuation benefit under Social Security Act not to receive certain war pensions and allowances
     
@@ -3367,7 +3377,7 @@ General provisions
     
 *   Where any claimant for a pension or allowance under this Act dies before the completion by the Secretary of the investigation of the claim, the Secretary shall continue the investigation and may grant a pension or allowance as if the claimant had not died, and in any such case the provisions of [section 85][205] shall apply as if the claimant had been in receipt of the pension or allowance at the time of his death.
     
-    Section 83: amended, on 15 April 2003, by [section 10][376] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 83: amended, on 15 April 2003, by [section 10][377] of the War Pensions Amendment Act 2003 (2003 No 18).
     
     Section 83: amended, on 1 April 1989, by section 5(6) of the War Pensions Amendment Act 1988 (1988 No 148).
 
@@ -3417,15 +3427,15 @@ General provisions
     
     (3) If an appeal has been made under [section 85A][206], the unpaid amount shall be held by the Secretary until the appeal has been determined, and shall then be paid in accordance with the decision of the court.
     
-    Section 85: substituted, on 1 November 1976, by [section 5][377] of the War Pensions Amendment Act 1976 (1976 No 41).
+    Section 85: substituted, on 1 November 1976, by [section 5][378] of the War Pensions Amendment Act 1976 (1976 No 41).
     
     Section 85(2): amended, on 1 April 1989, by section 5(2)(g) of the War Pensions Amendment Act 1988 (1988 No 148).
     
     Section 85(2): amended, on 1 April 1989, by section 5(2)(k) of the War Pensions Amendment Act 1988 (1988 No 148).
     
-    Section 85(2)(a): amended, on 15 December 2001, by [section 29(a)][378] of the War Pensions Amendment Act 2001 (2001 No 97).
+    Section 85(2)(a): amended, on 15 December 2001, by [section 29(a)][379] of the War Pensions Amendment Act 2001 (2001 No 97).
     
-    Section 85(2)(a) proviso: amended, on 15 December 2001, by [section 29(b)][378] of the War Pensions Amendment Act 2001 (2001 No 97).
+    Section 85(2)(a) proviso: amended, on 15 December 2001, by [section 29(b)][379] of the War Pensions Amendment Act 2001 (2001 No 97).
     
     Section 85(2)(b): amended, on 1 April 1989, by section 5(2)(n) of the War Pensions Amendment Act 1988 (1988 No 148).
     
@@ -3463,21 +3473,21 @@ General provisions
     
     Section 85A(1): amended, on 1 April 1989, by section 5(2)(n) of the War Pensions Amendment Act 1988 (1988 No 148).
     
-    Section 85A(1): amended, on 1 November 1976, by [section 6(a)][379] of the War Pensions Amendment Act 1976 (1976 No 41).
+    Section 85A(1): amended, on 1 November 1976, by [section 6(a)][380] of the War Pensions Amendment Act 1976 (1976 No 41).
     
-    Section 85A(1): amended, on 1 November 1976, by [section 6(b)][379] of the War Pensions Amendment Act 1976 (1976 No 41).
+    Section 85A(1): amended, on 1 November 1976, by [section 6(b)][380] of the War Pensions Amendment Act 1976 (1976 No 41).
     
-    Section 85A(1)(a): amended, on 1 April 1980, pursuant to [section 12][380] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 85A(1)(a): amended, on 1 April 1980, pursuant to [section 12][381] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 85A(1)(b): amended, on 1 April 1980, pursuant to [section 18(2)][381] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 85A(1)(b): amended, on 1 April 1980, pursuant to [section 18(2)][382] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 85A(2): repealed, on 15 August 1991, by [section 3(4)][382] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 85A(2): repealed, on 15 August 1991, by [section 3(4)][383] of the Judicature Amendment Act 1991 (1991 No 60).
     
-    Section 85A(4): amended, on 1 April 1980, pursuant to [section 12][380] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 85A(4): amended, on 1 April 1980, pursuant to [section 12][381] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 85A(9): amended, on 15 August 1991, by [section 3(4)][382] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 85A(9): amended, on 15 August 1991, by [section 3(4)][383] of the Judicature Amendment Act 1991 (1991 No 60).
     
-    Section 85A(9): amended, on 1 April 1980, pursuant to [section 18(2)][381] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 85A(9): amended, on 1 April 1980, pursuant to [section 18(2)][382] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 86 Payment of pensions out of New Zealand
     
@@ -3497,13 +3507,13 @@ General provisions
     
     (4) For the purposes of this section, persons in respect of whose disablement or death pensions are granted under [section 55][114] shall be deemed to be members of the forces.
     
-    Compare: 1943 No 22 s 74; 1948 No 78 [s 27][383]
+    Compare: 1943 No 22 s 74; 1948 No 78 [s 27][384]
     
     Section 86(2): amended, on 26 April 2005, by [section 3][241] of the War Pensions Amendment Act 2005 (2005 No 24).
     
     Section 86(2): amended, on 1 April 1989, by section 5(2)(g) of the War Pensions Amendment Act 1988 (1988 No 148).
     
-    Section 86(2): amended, on 14 October 1966, by [section 5(1)][384] of the War Pensions Amendment Act 1966 (1966 No 41).
+    Section 86(2): amended, on 14 October 1966, by [section 5(1)][385] of the War Pensions Amendment Act 1966 (1966 No 41).
     
     Section 86(2A): repealed, on 1 April 1990, by [section 15(4)][234] of the Social Welfare (Transitional Provisions) Act 1990 (1990 No 26).
     
@@ -3513,7 +3523,7 @@ General provisions
     
     Section 86(3): amended, on 1 April 1989, by section 5(2)(g) of the War Pensions Amendment Act 1988 (1988 No 148).
     
-    Section 86(3A): repealed, on 14 October 1966, by [section 5(2)][384] of the War Pensions Amendment Act 1966 (1966 No 41).
+    Section 86(3A): repealed, on 14 October 1966, by [section 5(2)][385] of the War Pensions Amendment Act 1966 (1966 No 41).
 
 ##### 87 Refusal or forfeiture of pension in respect of imprisonment
     
@@ -3525,7 +3535,7 @@ General provisions
     
     Section 87 heading: amended, on 10 October 1975, by section 7 of the War Pensions Amendment Act 1975 (1975 No 124).
     
-    Section 87(1): amended, on 1 June 2005, by [section 206][385] of the Corrections Act 2004 (2004 No 50).
+    Section 87(1): amended, on 1 June 2005, by [section 206][386] of the Corrections Act 2004 (2004 No 50).
     
     Section 87(1): amended, on 1 April 1989, by section 5(2)(l) of the War Pensions Amendment Act 1988 (1988 No 148).
     
@@ -3541,7 +3551,7 @@ General provisions
     
     Section 87A: inserted, on 1 October 1958, by section 4 of the War Pensions Amendment Act 1958 (1958 No 45).
     
-    Section 87A: amended, on 15 December 2001, by [section 30][386] of the War Pensions Amendment Act 2001 (2001 No 97).
+    Section 87A: amended, on 15 December 2001, by [section 30][387] of the War Pensions Amendment Act 2001 (2001 No 97).
     
     Section 87A: amended, on 1 April 1989, by section 5(7)(a) of the War Pensions Amendment Act 1988 (1988 No 148).
     
@@ -3565,11 +3575,11 @@ General provisions
     
     Compare: 1943 No 22 s 71
     
-    Section 89(1) proviso: amended, on 15 December 2001, by [section 31][387] of the War Pensions Amendment Act 2001 (2001 No 97).
+    Section 89(1) proviso: amended, on 15 December 2001, by [section 31][388] of the War Pensions Amendment Act 2001 (2001 No 97).
     
     Section 89(1) proviso: amended, on 1 April 1989, by section 5(2)(g) of the War Pensions Amendment Act 1988 (1988 No 148).
     
-    Section 89(2): amended, on 1 July 2013, by [section 413][388] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 89(2): amended, on 1 July 2013, by [section 413][389] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 90 Recovery of payments made in error
     
@@ -3601,15 +3611,15 @@ General provisions
     
     Compare: 1943 No 22 s 78
     
-    Section 92: amended, on 1 July 2013, by [section 413][388] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 92: amended, on 1 July 2013, by [section 413][389] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 92(a): amended, on 1 April 1989, by section 5(8) of the War Pensions Amendment Act 1988 (1988 No 148).
 
 ##### 93 Time for filing charge
     
-*   Despite anything to the contrary in [section 25][389] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the facts alleged in the charging document are brought to the knowledge of the person by whom the proceedings are instituted.
+*   Despite anything to the contrary in [section 25][390] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the facts alleged in the charging document are brought to the knowledge of the person by whom the proceedings are instituted.
     
-    Section 93: replaced, on 1 July 2013, by [section 413][388] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 93: replaced, on 1 July 2013, by [section 413][389] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 94 Money payable out of Crown Bank Account
     
@@ -3639,7 +3649,7 @@ General provisions
     
     Section 94(2)(a): amended, on 25 January 2005, pursuant to [section 83(7)][247] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 94(2)(b): amended, on 15 December 2001, by [section 32][390] of the War Pensions Amendment Act 2001 (2001 No 97).
+    Section 94(2)(b): amended, on 15 December 2001, by [section 32][391] of the War Pensions Amendment Act 2001 (2001 No 97).
     
     Section 94(2)(b): amended, on 1 April 1989, by section 5(2)(g) of the War Pensions Amendment Act 1988 (1988 No 148).
 
@@ -3685,23 +3695,23 @@ General provisions
     
     Section 96(2)(a): amended, on 1 April 1989, by section 5(2)(g) of the War Pensions Amendment Act 1988 (1988 No 148).
     
-    Section 96(2A): inserted, on 29 September 1981, by [section 2(1)][391] of the War Pensions Amendment Act 1981 (1981 No 32).
+    Section 96(2A): inserted, on 29 September 1981, by [section 2(1)][392] of the War Pensions Amendment Act 1981 (1981 No 32).
     
-    Section 96(3): repealed, on 19 December 1989, by [section 11][392] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 96(3): repealed, on 19 December 1989, by [section 11][393] of the Regulations (Disallowance) Act 1989 (1989 No 143).
 
 ##### 97 Repeals and savings
     
 *   (1) The enactments specified in [Schedule 10][229] are hereby repealed.
     
-    (2) Without limiting the provisions of the [Acts Interpretation Act 1924][393], it is hereby declared that the repeal of any provision by this Act shall not affect any document made or any thing whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done.
+    (2) Without limiting the provisions of the [Acts Interpretation Act 1924][394], it is hereby declared that the repeal of any provision by this Act shall not affect any document made or any thing whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done.
     
     (3) Notwithstanding anything to the contrary in this Act, where, at the date of the passing of this Act, any person is, by virtue of the provisions of subsections (2) and (3) of section 19 of the War Pensions Amendment Act 1951, in receipt of a pension or allowance to which he would not otherwise be entitled or at a greater rate than that to which he would otherwise be entitled, the Secretary may continue that pension or allowance as if the said section 19 had not been repealed by this section.
     
     (4) Notwithstanding anything to the contrary in this Act, where, at the date of the passing of this Act, any pension in respect of any child is, by virtue of the provisions of section 5 of the War Pensions Amendment Act 1946, payable at a rate in excess of that provided for in this Act, the Secretary may continue that pension as if the said section 5 had not been repealed by this section.
     
-    (5) The amendments made to the principal Act by the [War Pensions Amendment Act 2001][394] do not confer any entitlement on any person in respect of any period before the commencement of the War Pensions Amendment Act 2001\.
+    (5) The amendments made to the principal Act by the [War Pensions Amendment Act 2001][395] do not confer any entitlement on any person in respect of any period before the commencement of the War Pensions Amendment Act 2001\.
     
-    (6) The amendments made to the principal Act by the [War Pensions Amendment Act 2001][394] do not prevent any department from continuing to describe the pension known, before the commencement of the War Pensions Amendment Act 2001, as ""the surviving spouse's pension"" by that name after the commencement of that Act---
+    (6) The amendments made to the principal Act by the [War Pensions Amendment Act 2001][395] do not prevent any department from continuing to describe the pension known, before the commencement of the War Pensions Amendment Act 2001, as ""the surviving spouse's pension"" by that name after the commencement of that Act---
         
     *   (a) in official forms, computer programs, and other documents; or
     
@@ -3715,9 +3725,9 @@ General provisions
     
     Section 97(4): amended, on 1 April 1989, by section 5(2)(g) of the War Pensions Amendment Act 1988 (1988 No 148).
     
-    Section 97(5): added, on 15 December 2001, by [section 33][395] of the War Pensions Amendment Act 2001 (2001 No 97).
+    Section 97(5): added, on 15 December 2001, by [section 33][396] of the War Pensions Amendment Act 2001 (2001 No 97).
     
-    Section 97(6): added, on 15 December 2001, by [section 33][395] of the War Pensions Amendment Act 2001 (2001 No 97).
+    Section 97(6): added, on 15 December 2001, by [section 33][396] of the War Pensions Amendment Act 2001 (2001 No 97).
 
 ---
 
@@ -3726,7 +3736,7 @@ Maximum rates of pensions for disabled members
 
 [ss 20][68], [23][71], [28][76], [62][125], [65][129]
 
-*   Schedule 1: substituted (with effect from 20 July 1983), on 7 December 1983, by [section 7(1)][396] of the War Pensions Amendment Act 1983 (1983 No 58).
+*   Schedule 1: substituted (with effect from 20 July 1983), on 7 December 1983, by [section 7(1)][397] of the War Pensions Amendment Act 1983 (1983 No 58).
 
 _Part 1---Members of forces_
 
@@ -3774,13 +3784,13 @@ _Part 3---Members of Emergency Reserve Corps_
 
 the same rates as those specified in Part 1\.
 
-*   Schedule 1 item 1: amended, on 1 April 2013, by [clause 4(1)][397] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
-*   Schedule 1 item 2: amended, on 1 April 2013, by [clause 4(1)][397] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
-*   Schedule 1 item 3(a): amended, on 1 April 2013, by [clause 4(1)][397] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
-*   Schedule 1 item 3(b): amended, on 1 April 2013, by [clause 4(1)][397] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
-*   Schedule 1 item 3(c): amended, on 1 April 2013, by [clause 4(1)][397] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
-*   Schedule 1 item 3(d): amended, on 1 April 2013, by [clause 4(1)][397] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
-*   Schedule 1 item 3(e): amended, on 1 April 2013, by [clause 4(1)][397] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 1 item 1: amended, on 1 April 2013, by [clause 4(1)][398] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 1 item 2: amended, on 1 April 2013, by [clause 4(1)][398] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 1 item 3(a): amended, on 1 April 2013, by [clause 4(1)][398] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 1 item 3(b): amended, on 1 April 2013, by [clause 4(1)][398] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 1 item 3(c): amended, on 1 April 2013, by [clause 4(1)][398] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 1 item 3(d): amended, on 1 April 2013, by [clause 4(1)][398] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 1 item 3(e): amended, on 1 April 2013, by [clause 4(1)][398] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
 
 ---
 
@@ -3789,7 +3799,7 @@ Maximum rates of allowances for services of attendants for disabled members
 
 [ss 29][77], [62][125], [65][129]
 
-*   Schedule 2: substituted (with effect from 20 July 1983), on 7 December 1983, by [section 7(1)][396] of the War Pensions Amendment Act 1983 (1983 No 58).
+*   Schedule 2: substituted (with effect from 20 July 1983), on 7 December 1983, by [section 7(1)][397] of the War Pensions Amendment Act 1983 (1983 No 58).
 
 _Part 1---Members of forces_
 
@@ -3809,7 +3819,7 @@ _Part 3---Members of Emergency Reserve Corps_
 
 the same rate as that specified in Part 1\.
 
-*   Schedule 2 item 1: amended, on 1 April 2013, by [clause 4(1)][397] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 2 item 1: amended, on 1 April 2013, by [clause 4(1)][398] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
 
 ---
 
@@ -3830,7 +3840,7 @@ Maximum rates of pensions for surviving spouses or surviving partners of decease
 [ss 32][84], [62][125], [65][129]
 
 *   Schedule 4: substituted, on 1 October 1986, by section 4(1) of the War Pensions Amendment Act (No 3) 1986 (1986 No 70).
-*   Schedule 4 heading: amended, on 15 December 2001, by [section 34(a)][398] of the War Pensions Amendment Act 2001 (2001 No 97).
+*   Schedule 4 heading: amended, on 15 December 2001, by [section 34(a)][399] of the War Pensions Amendment Act 2001 (2001 No 97).
 *   Schedule 4 heading: amended, on 1 April 1989, pursuant to section 14(1)(a) of the War Pensions Amendment Act 1988 (1988 No 148).
 
 _Part 1---Members of forces_
@@ -3871,18 +3881,18 @@ the same rate as that specified in clause 1 of Part 1\.
 
 additional parent's allowance to a surviving spouse or surviving partner with 1 or more dependent child or childrenThe same rates as those specified in clause 2 of Part 1 of this schedule.
 
-*   Schedule 4 item 1: amended, on 1 April 2013, by [clause 4(1)][397] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
-*   Schedule 4 item 1: amended, on 15 December 2001, by [section 34(b)][398] of the War Pensions Amendment Act 2001 (2001 No 97).
+*   Schedule 4 item 1: amended, on 1 April 2013, by [clause 4(1)][398] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 4 item 1: amended, on 15 December 2001, by [section 34(b)][399] of the War Pensions Amendment Act 2001 (2001 No 97).
 *   Schedule 4 item 1: amended, on 1 April 1989, by section 14(1)(a) of the War Pensions Amendment Act 1988 (1988 No 148).
-*   Schedule 4 item 2: amended, on 15 December 2001, by [section 34(b)][398] of the War Pensions Amendment Act 2001 (2001 No 97).
+*   Schedule 4 item 2: amended, on 15 December 2001, by [section 34(b)][399] of the War Pensions Amendment Act 2001 (2001 No 97).
 *   Schedule 4 item 2: amended, on 1 April 1989, by section 14(1)(a) of the War Pensions Amendment Act 1988 (1988 No 148).
 *   Schedule 4 item 2: amended, on 1 April 1989, by section 14(1)(b) of the War Pensions Amendment Act 1988 (1988 No 148).
-*   Schedule 4 item 2(a): amended, on 1 April 2013, by [clause 4(1)][397] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
-*   Schedule 4 item 2(b): amended, on 1 April 2013, by [clause 4(1)][397] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
-*   Schedule 4 item 4: amended, on 15 December 2001, by [section 34(b)][398] of the War Pensions Amendment Act 2001 (2001 No 97).
+*   Schedule 4 item 2(a): amended, on 1 April 2013, by [clause 4(1)][398] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 4 item 2(b): amended, on 1 April 2013, by [clause 4(1)][398] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 4 item 4: amended, on 15 December 2001, by [section 34(b)][399] of the War Pensions Amendment Act 2001 (2001 No 97).
 *   Schedule 4 item 4: amended, on 1 April 1989, by section 14(1)(a) of the War Pensions Amendment Act 1988 (1988 No 148).
 *   Schedule 4 item 4: amended, on 1 April 1989, by section 14(1)(b) of the War Pensions Amendment Act 1988 (1988 No 148).
-*   Schedule 4 item 6: amended, on 15 December 2001, by [section 34(b)][398] of the War Pensions Amendment Act 2001 (2001 No 97).
+*   Schedule 4 item 6: amended, on 15 December 2001, by [section 34(b)][399] of the War Pensions Amendment Act 2001 (2001 No 97).
 *   Schedule 4 item 6: amended, on 1 April 1989, by section 14(1)(a) of the War Pensions Amendment Act 1988 (1988 No 148).
 *   Schedule 4 item 6: amended, on 1 April 1989, by section 14(1)(b) of the War Pensions Amendment Act 1988 (1988 No 148).
 
@@ -3893,7 +3903,7 @@ Maximum rates of pensions for children of disabled and deceased members
 
 [ss 36][90], [40][94], [62][125], [65][129]
 
-*   Schedule 5: substituted (with effect from 20 July 1983), on 7 December 1983, by [section 7(1)][396] of the War Pensions Amendment Act 1983 (1983 No 58).
+*   Schedule 5: substituted (with effect from 20 July 1983), on 7 December 1983, by [section 7(1)][397] of the War Pensions Amendment Act 1983 (1983 No 58).
 
 _Part 1---Members of forces_
 
@@ -3917,8 +3927,8 @@ _Part 3---Members of Emergency Reserve Corps_
 
 the same rates as those specified in Part 1\.
 
-*   Schedule 5 item 1: amended, on 1 April 2013, by [clause 4(1)][397] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
-*   Schedule 5 item 2: amended, on 1 April 2013, by [clause 4(1)][397] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 5 item 1: amended, on 1 April 2013, by [clause 4(1)][398] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 5 item 2: amended, on 1 April 2013, by [clause 4(1)][398] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
 
 ---
 
@@ -3960,7 +3970,7 @@ Pensions payable for specific disabilities
 
 [s 21][69]
 
-*   Schedule 9: substituted (with effect from 20 July 1983), on 7 December 1983, by [section 7(1)][396] of the War Pensions Amendment Act 1983 (1983 No 58).
+*   Schedule 9: substituted (with effect from 20 July 1983), on 7 December 1983, by [section 7(1)][397] of the War Pensions Amendment Act 1983 (1983 No 58).
 
 **Nature of disability****Percentage of full pension payable in cases of total disablement**
 
@@ -4006,7 +4016,7 @@ Loss of index finger of either hand20
 
 For the purposes of this schedule, _loss of_ and _amputation of_ include **permanent loss of the use of**.
 
-*   Schedule 9 Total deafness: amended, on 9 April 1997, by [clause 2][399] of the War Pensions (Total Deafness) Order 1997 (SR 1997/49).
+*   Schedule 9 Total deafness: amended, on 9 April 1997, by [clause 2][400] of the War Pensions (Total Deafness) Order 1997 (SR 1997/49).
 
 ---
 
@@ -4017,19 +4027,19 @@ Enactments repealed
 
 ##### Fees and Travelling Allowances Act 1951 (1951 No 79)
 
-_Amendment(s) incorporated in the [Act(s)][400]_.
+_Amendment(s) incorporated in the [Act(s)][401]_.
 
 ##### Finance Act (No 2) 1948 (1948 No 78)
 
-_Amendment(s) incorporated in the [Act(s)][401]_.
+_Amendment(s) incorporated in the [Act(s)][402]_.
 
 ##### Finance Act (No 2) 1952 (1952 No 81)
 
-_Amendment(s) incorporated in the [Act(s)][402]_.
+_Amendment(s) incorporated in the [Act(s)][403]_.
 
 ##### Statutes Amendment Act 1947 (1947 No 60)
 
-_Amendment(s) incorporated in the [Act(s)][403]_.
+_Amendment(s) incorporated in the [Act(s)][404]_.
 
 ##### War Pensions Act 1943 (1943 No 22)
 
@@ -4062,8 +4072,8 @@ Rates of veterans' pensions
 
 [s 74][156]
 
-*   Schedule 11: substituted, on 15 April 2003, by [section 11][404] of the War Pensions Amendment Act 2003 (2003 No 18).
-*   Schedule 11 heading: amended, on 2 September 2013, by [section 25(1)][405] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
+*   Schedule 11: substituted, on 15 April 2003, by [section 11][405] of the War Pensions Amendment Act 2003 (2003 No 18).
+*   Schedule 11 heading: amended, on 2 September 2013, by [section 25(1)][406] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
 
 The following rates are before deduction of tax:
 
@@ -4093,26 +4103,26 @@ $620.68 per week, subject to Income Test 3, or the rate specified in paragraph (
 
 $587.46 per week, subject to Income Test 3$587.46 per week, subject to [section 74D][161]
 
-*   Schedule 11 item 1(a): amended, on 2 September 2013, by [section 25(2)][405] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
-*   Schedule 11 item 1(a): amended, on 1 April 2013 (immediately after the commencement of the rest of the order), by [clause 5(2)][406] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
-*   Schedule 11 item 1(a): amended, on 1 April 2013, by [clause 4(1)][397] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 11 item 1(a): amended, on 2 September 2013, by [section 25(2)][406] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
+*   Schedule 11 item 1(a): amended, on 1 April 2013 (immediately after the commencement of the rest of the order), by [clause 5(2)][407] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 11 item 1(a): amended, on 1 April 2013, by [clause 4(1)][398] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
 *   Schedule 11 item 1(a): amended, on 26 April 2005, by [section 3][241] of the War Pensions Amendment Act 2005 (2005 No 24).
-*   Schedule 11 item 1(b): amended, on 2 September 2013, by [section 25(3)][405] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
-*   Schedule 11 item 1(b): amended, on 1 April 2013 (immediately after the commencement of the rest of the order), by [clause 5(2)][406] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
-*   Schedule 11 item 1(b): amended, on 1 April 2013, by [clause 4(1)][397] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 11 item 1(b): amended, on 2 September 2013, by [section 25(3)][406] of the Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11).
+*   Schedule 11 item 1(b): amended, on 1 April 2013 (immediately after the commencement of the rest of the order), by [clause 5(2)][407] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 11 item 1(b): amended, on 1 April 2013, by [clause 4(1)][398] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
 *   Schedule 11 item 1(b): amended, on 26 April 2005, by [section 3][241] of the War Pensions Amendment Act 2005 (2005 No 24).
-*   Schedule 11 item 1(c): amended, on 1 April 2013 (immediately after the commencement of the rest of the order), by [clause 5(2)][406] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
-*   Schedule 11 item 1(c): amended, on 1 April 2013, by [clause 4(1)][397] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 11 item 1(c): amended, on 1 April 2013 (immediately after the commencement of the rest of the order), by [clause 5(2)][407] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 11 item 1(c): amended, on 1 April 2013, by [clause 4(1)][398] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
 *   Schedule 11 item 1(c): amended, on 1 April 2007, by [section 5][297] of the War Pensions Amendment Act 2005 (2005 No 24).
 *   Schedule 11 item 1(c): amended, on 26 April 2005, by [section 3][241] of the War Pensions Amendment Act 2005 (2005 No 24).
 *   Schedule 11 item 2: amended, on 1 April 2007, by [section 5][297] of the War Pensions Amendment Act 2005 (2005 No 24).
 *   Schedule 11 item 2: amended, on 26 April 2005, by [section 3][241] of the War Pensions Amendment Act 2005 (2005 No 24).
-*   Schedule 11 item 2(a): amended, on 1 April 2013 (immediately after the commencement of the rest of the order), by [clause 5(2)][406] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
-*   Schedule 11 item 2(a): amended, on 1 April 2013, by [clause 4(1)][397] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 11 item 2(a): amended, on 1 April 2013 (immediately after the commencement of the rest of the order), by [clause 5(2)][407] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 11 item 2(a): amended, on 1 April 2013, by [clause 4(1)][398] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
 *   Schedule 11 item 2(a): amended, on 1 April 2007, by [section 5][297] of the War Pensions Amendment Act 2005 (2005 No 24).
 *   Schedule 11 item 2(a): amended, on 26 April 2005, by [section 3][241] of the War Pensions Amendment Act 2005 (2005 No 24).
-*   Schedule 11 item 2(b): amended, on 1 April 2013 (immediately after the commencement of the rest of the order), by [clause 5(2)][406] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
-*   Schedule 11 item 2(b): amended, on 1 April 2013, by [clause 4(1)][397] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 11 item 2(b): amended, on 1 April 2013 (immediately after the commencement of the rest of the order), by [clause 5(2)][407] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 11 item 2(b): amended, on 1 April 2013, by [clause 4(1)][398] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
 *   Schedule 11 item 2(b): amended, on 1 April 2007, by [section 5][297] of the War Pensions Amendment Act 2005 (2005 No 24).
 *   Schedule 11 item 2(b): amended, on 26 April 2005, by [section 3][241] of the War Pensions Amendment Act 2005 (2005 No 24).
 
@@ -4123,7 +4133,7 @@ Payments on death of veteran or veteran's spouse or civil union partner
 
 [s 74A][157]
 
-*   Schedule 12: substituted, on 15 April 2003, by [section 11][404] of the War Pensions Amendment Act 2003 (2003 No 18).
+*   Schedule 12: substituted, on 15 April 2003, by [section 11][405] of the War Pensions Amendment Act 2003 (2003 No 18).
 *   Schedule 12 heading: amended, on 26 April 2005, by [section 3][241] of the War Pensions Amendment Act 2005 (2005 No 24).
 
 1
@@ -4148,13 +4158,13 @@ $4,356.05 to that person
 
 2There is deductable from any amount payable under clause 1 the amount of any veteran's pension paid or payable in respect of the person who has died following their death. 
 
-*   Schedule 12 item 1(a): amended, on 1 April 2013 (applying only in respect of people who die on or after 1 April 2013), by [clause 4(1)][397] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 12 item 1(a): amended, on 1 April 2013 (applying only in respect of people who die on or after 1 April 2013), by [clause 4(1)][398] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
 *   Schedule 12 item 1(a): amended, on 1 April 2007, by [section 5][297] of the War Pensions Amendment Act 2005 (2005 No 24).
 *   Schedule 12 item 1(a): amended, on 26 April 2005, by [section 3][241] of the War Pensions Amendment Act 2005 (2005 No 24).
-*   Schedule 12 item 1(b): amended, on 1 April 2013 (applying only in respect of people who die on or after 1 April 2013), by [clause 4(1)][397] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 12 item 1(b): amended, on 1 April 2013 (applying only in respect of people who die on or after 1 April 2013), by [clause 4(1)][398] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
 *   Schedule 12 item 1(b): amended, on 1 April 2007, by [section 5][297] of the War Pensions Amendment Act 2005 (2005 No 24).
 *   Schedule 12 item 1(b): amended, on 26 April 2005, by [section 3][241] of the War Pensions Amendment Act 2005 (2005 No 24).
-*   Schedule 12 item 1(c): amended, on 1 April 2013 (applying only in respect of people who die on or after 1 April 2013), by [clause 4(1)][397] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
+*   Schedule 12 item 1(c): amended, on 1 April 2013 (applying only in respect of people who die on or after 1 April 2013), by [clause 4(1)][398] of the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013 (SR 2013/30).
 *   Schedule 12 item 1(c): amended, on 1 April 2007, by [section 5][297] of the War Pensions Amendment Act 2005 (2005 No 24).
 *   Schedule 12 item 1(c): amended, on 26 April 2005, by [section 3][241] of the War Pensions Amendment Act 2005 (2005 No 24).
 
@@ -4165,7 +4175,7 @@ Specified Pacific countries
 
 [s 74N][174]
 
-*   Schedule 13: added, on 15 April 2003, by [section 11][404] of the War Pensions Amendment Act 2003 (2003 No 18).
+*   Schedule 13: added, on 15 April 2003, by [section 11][405] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 American Samoa
 
@@ -4221,7 +4231,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [War Pensions Amendment Act 2005][407].
+*   (1) This Act is the [War Pensions Amendment Act 2005][408].
     
     (2) In this Act, the War Pensions Act 1954 is called "the principal Act".
 
@@ -4245,7 +4255,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [War Pensions Amendment Act 2006][408].
+*   This Act is the [War Pensions Amendment Act 2006][409].
 
 ##### 2 Commencement
     
@@ -4275,13 +4285,13 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [War Pensions Amendment Act 2009][409].
+*   This Act is the [War Pensions Amendment Act 2009][410].
 
 ##### 2 Commencement
     
 *   This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
     
-    Section 2: this Act brought into force, on 5 January 2010, by the [War Pensions Amendment Act 2009 Commencement Order 2009][410] (SR 2009/357).
+    Section 2: this Act brought into force, on 5 January 2010, by the [War Pensions Amendment Act 2009 Commencement Order 2009][411] (SR 2009/357).
 
 ##### 9 Saving
     
@@ -4309,7 +4319,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Social Assistance (Living Alone Payments) Amendment Act 2013][411].
+*   This Act is the [Social Assistance (Living Alone Payments) Amendment Act 2013][412].
 
 ##### 2 Commencement
     
@@ -4392,51 +4402,53 @@ Amendments to War Pensions Act 1954
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][412] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][413] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][413] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][414] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][414] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][415] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][415] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][416] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11): [Part 2][416]
+*   Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132): [section 17][311]
     
-    [War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013][417] (SR 2013/30)
+    Social Assistance (Living Alone Payments) Amendment Act 2013 (2013 No 11): [Part 2][417]
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][370]
+    [War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2013][418] (SR 2013/30)
     
-    [War Pensions (Indexation---Budget Measures) Amendment Act 2012][418] (2012 No 83)
+    Legislation Act 2012 (2012 No 119): [section 77(3)][371]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][388]
+    [War Pensions (Indexation---Budget Measures) Amendment Act 2012][419] (2012 No 83)
     
-    [War Pensions Amendment Act (No 2) 2010][419] (2010 No 106)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][389]
     
-    [War Pensions Amendment Act 2010][420] (2010 No 31)
+    [War Pensions Amendment Act (No 2) 2010][420] (2010 No 106)
     
-    [War Pensions Amendment Act 2009][409] (2009 No 41)
+    [War Pensions Amendment Act 2010][421] (2010 No 31)
+    
+    [War Pensions Amendment Act 2009][410] (2009 No 41)
     
     Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][294]
     
-    Social Security Amendment Act 2007 (2007 No 20): [section 12(2)][319]
+    Social Security Amendment Act 2007 (2007 No 20): [section 12(2)][320]
     
-    [War Pensions Amendment Act 2006][421] (2006 No 32)
+    [War Pensions Amendment Act 2006][422] (2006 No 32)
     
     New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42): [section 9(1)][299]
     
-    [War Pensions Amendment Act 2005][422] (2005 No 24)
+    [War Pensions Amendment Act 2005][423] (2005 No 24)
     
-    Social Security (Working for Families) Amendment Act 2004 (2004 No 51): [section 21][356]
+    Social Security (Working for Families) Amendment Act 2004 (2004 No 51): [section 21][357]
     
-    Corrections Act 2004 (2004 No 50): [section 206][385]
+    Corrections Act 2004 (2004 No 50): [section 206][386]
     
     Income Tax Act 2004 (2004 No 35): [section YA 2][295]
     
     Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][240]
     
-    [War Pensions Amendment Act 2003][423] (2003 No 18)
+    [War Pensions Amendment Act 2003][424] (2003 No 18)
     
-    [War Pensions Amendment Act 2001][424] (2001 No 97)
+    [War Pensions Amendment Act 2001][425] (2001 No 97)
     
     Public Audit Act 2001 (2001 No 10): [sections 52][259], [53][258]
     
@@ -4450,7 +4462,7 @@ Amendments to War Pensions Act 1954
     
     War Pensions Amendment Act 1996 (1996 No 156)
     
-    Judicature Amendment Act 1991 (1991 No 60): [section 3(4)][382]
+    Judicature Amendment Act 1991 (1991 No 60): [section 3(4)][383]
     
     War Pensions Amendment Act 1991 (1991 No 2)
     
@@ -4458,7 +4470,7 @@ Amendments to War Pensions Act 1954
     
     War Pensions Amendment Act 1990 (1990 No 6)
     
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][392]
+    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][393]
     
     Public Finance Act 1989 (1989 No 44): [section 83(7)][247]
     
@@ -4468,17 +4480,17 @@ Amendments to War Pensions Act 1954
     
     War Pensions Amendment Act 1986 (1986 No 20)
     
-    [War Pensions Amendment Act 1983][425] (1983 No 58)
+    [War Pensions Amendment Act 1983][426] (1983 No 58)
     
-    [War Pensions Amendment Act 1981][426] (1981 No 32)
+    [War Pensions Amendment Act 1981][427] (1981 No 32)
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][381]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][382]
     
     Judicature Amendment Act 1979 (1979 No 124): section 12
     
     War Pensions Amendment Act 1978 (1978 No 59)
     
-    [War Pensions Amendment Act 1976][427] (1976 No 41)
+    [War Pensions Amendment Act 1976][428] (1976 No 41)
     
     War Pensions Amendment Act 1975 (1975 No 124)
     
@@ -4492,11 +4504,11 @@ Amendments to War Pensions Act 1954
     
     War Pensions Amendment Act 1968 (1968 No 56)
     
-    [War Pensions Amendment Act 1966][428] (1966 No 41)
+    [War Pensions Amendment Act 1966][429] (1966 No 41)
     
     War Pensions Amendment Act 1965 (1965 No 27)
     
-    Social Security Act 1964 (1964 No 136): [section 135(1)][429]
+    Social Security Act 1964 (1964 No 136): [section 135(1)][430]
     
     War Pensions Amendment Act 1964 (1964 No 49)
     
@@ -4821,122 +4833,123 @@ Amendments to War Pensions Act 1954
 [308]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM360917
 [309]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM360781
 [310]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM203593
-[311]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM363550
-[312]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM129566
-[313]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM129571
-[314]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM203596
-[315]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204129
-[316]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204136
-[317]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM364347
-[318]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204139
-[319]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM408566
-[320]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204143
-[321]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204146
-[322]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204148
-[323]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM366050
-[324]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM366044
-[325]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM374616
-[326]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM3365270
-[327]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM102835
-[328]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM1252632
-[329]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM362960
-[330]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204150
-[331]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2988506
-[332]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM4767707
-[333]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM3365271
-[334]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM3170509
-[335]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204446
-[336]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204190
-[337]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2475301
-[338]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2475302
-[339]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM374618
-[340]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2475303
-[341]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM113990
-[342]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM113991
-[343]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM364305
-[344]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204182
-[345]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM365476
-[346]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM364402
-[347]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM363520
-[348]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM363772
-[349]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM363920
-[350]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM363957
-[351]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM363974
-[352]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM364441
-[353]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM363951
-[354]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2475307
-[355]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM3365272
-[356]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM298068
-[357]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204199
-[358]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204407
-[359]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204411
-[360]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204417
-[361]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204420
-[362]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM3365273
-[363]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM364308
-[364]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204423
-[365]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204430
-[366]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM3365274
-[367]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2998573
-[368]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM191901
-[369]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM374620
-[370]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2998633
-[371]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM122981
-[372]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM122982
-[373]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM122983
-[374]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM122984
-[375]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM377799
-[376]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM191902
-[377]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM439094
-[378]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM122985
-[379]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM439095
-[380]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM35049
-[381]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM35085
-[382]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM230219
-[383]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM255456
-[384]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM379800
-[385]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM297136
-[386]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM122986
-[387]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM122987
-[388]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM3360714
-[389]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM3360067
-[390]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM122988
-[391]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM45413
-[392]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM195558
-[393]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM1325503
-[394]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM122936
-[395]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM122989
-[396]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM74067
-[397]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM5031815
-[398]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM122990
-[399]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM228438
-[400]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM265254
-[401]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM255099
-[402]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM275670
-[403]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM246640
-[404]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM191903
-[405]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM3365275
-[406]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM5031802
-[407]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM337760
-[408]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM374606
-[409]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2475312
-[410]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2571228
-[411]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM3365202
-[412]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2998516
-[413]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2998515
-[414]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2998532
-[415]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[416]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM3365251
-[417]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM5031831
-[418]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM4767700
-[419]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM3170502
-[420]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2988500
-[421]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM374609
-[422]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM337763
-[423]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM191230
-[424]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM122939
-[425]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM74060
-[426]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM45411
-[427]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM439089
-[428]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM377795
-[429]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM366042
+[311]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM5627431
+[312]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM363550
+[313]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM129566
+[314]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM129571
+[315]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM203596
+[316]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204129
+[317]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204136
+[318]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM364347
+[319]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204139
+[320]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM408566
+[321]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204143
+[322]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204146
+[323]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204148
+[324]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM366050
+[325]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM366044
+[326]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM374616
+[327]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM3365270
+[328]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM102835
+[329]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM1252632
+[330]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM362960
+[331]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204150
+[332]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2988506
+[333]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM4767707
+[334]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM3365271
+[335]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM3170509
+[336]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204446
+[337]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204190
+[338]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2475301
+[339]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2475302
+[340]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM374618
+[341]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2475303
+[342]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM113990
+[343]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM113991
+[344]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM364305
+[345]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204182
+[346]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM365476
+[347]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM364402
+[348]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM363520
+[349]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM363772
+[350]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM363920
+[351]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM363957
+[352]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM363974
+[353]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM364441
+[354]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM363951
+[355]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2475307
+[356]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM3365272
+[357]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM298068
+[358]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204199
+[359]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204407
+[360]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204411
+[361]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204417
+[362]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204420
+[363]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM3365273
+[364]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM364308
+[365]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204423
+[366]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM204430
+[367]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM3365274
+[368]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2998573
+[369]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM191901
+[370]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM374620
+[371]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2998633
+[372]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM122981
+[373]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM122982
+[374]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM122983
+[375]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM122984
+[376]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM377799
+[377]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM191902
+[378]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM439094
+[379]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM122985
+[380]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM439095
+[381]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM35049
+[382]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM35085
+[383]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM230219
+[384]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM255456
+[385]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM379800
+[386]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM297136
+[387]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM122986
+[388]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM122987
+[389]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM3360714
+[390]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM3360067
+[391]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM122988
+[392]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM45413
+[393]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM195558
+[394]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM1325503
+[395]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM122936
+[396]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM122989
+[397]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM74067
+[398]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM5031815
+[399]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM122990
+[400]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM228438
+[401]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM265254
+[402]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM255099
+[403]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM275670
+[404]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM246640
+[405]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM191903
+[406]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM3365275
+[407]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM5031802
+[408]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM337760
+[409]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM374606
+[410]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2475312
+[411]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2571228
+[412]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM3365202
+[413]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2998516
+[414]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2998515
+[415]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2998532
+[416]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[417]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM3365251
+[418]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM5031831
+[419]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM4767700
+[420]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM3170502
+[421]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM2988500
+[422]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM374609
+[423]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM337763
+[424]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM191230
+[425]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM122939
+[426]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM74060
+[427]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM45411
+[428]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM439089
+[429]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM377795
+[430]: http://www.legislation.govt.nz/act/public/1954/0054/latest/link.aspx?id=DLM366042
