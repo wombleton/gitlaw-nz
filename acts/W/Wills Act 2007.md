@@ -1,5 +1,5 @@
 Reprint  
-as at 25 February 2012
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -23,110 +23,110 @@ This Act is administered by the Ministry of Justice.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Part 1][3]  
 [Preliminary provisions][3]
 
-[3][4] [Purposes][4]
+[3][4][][4][Purposes][4]
 
-[4][5] [Wills to which this Act applies][5]
+[4][5][][5][Wills to which this Act applies][5]
 
-[5][6] [Act binds the Crown][6]
+[5][6][][6][Act binds the Crown][6]
 
-[6][7] [Interpretation][7]
+[6][7][][7][Interpretation][7]
 
-[7][8] [Meaning of valid][8]
+[7][8][][8][Meaning of valid][8]
 
-[8][9] [Meaning of will][9]
+[8][9][][9][Meaning of will][9]
 
 [Part 2][10]  
 [Wills][10]
 
-[Subpart 1][11]---[Making, changing, revoking, and reviving wills][11]
+[Subpart 1][11][---][11][Making, changing, revoking, and reviving wills][11]
 
-[9][12] [Persons who may make, change, revoke, and revive wills][12]
+[9][12][][12][Persons who may make, change, revoke, and revive wills][12]
 
-[10][13] [Persons under 18 who agree to marry or enter civil union][13]
+[10][13][][13][Persons under 18 who agree to marry or enter civil union][13]
 
 [Validity][14]
 
-[11][15] [Requirements for validity of wills][15]
+[11][15][][15][Requirements for validity of wills][15]
 
-[12][16] [Witnesses][16]
+[12][16][][16][Witnesses][16]
 
-[13][17] [Witnesses affected by dispositions made to them][17]
+[13][17][][17][Witnesses affected by dispositions made to them][17]
 
-[14][18] [High Court may declare will valid][18]
+[14][18][][18][High Court may declare will valid][18]
 
 [Changing, revoking, and reviving][19]
 
-[15][20] [Changes][20]
+[15][20][][20][Changes][20]
 
-[16][21] [Revocation][21]
+[16][21][][21][Revocation][21]
 
-[17][22] [Revival][22]
+[17][22][][22][Revival][22]
 
 [Effect on wills of marriages and civil unions starting and ending and will-makers dying][23]
 
-[18][24] [Effect on will of will-maker marrying or entering civil union][24]
+[18][24][][24][Effect on will of will-maker marrying or entering civil union][24]
 
-[19][25] [Effect on will of will-maker's marriage or civil union ending][25]
+[19][25][][25][Effect on will of will-maker's marriage or civil union ending][25]
 
-[20][26] [Effect on will of will-maker dying][26]
+[20][26][][26][Effect on will of will-maker dying][26]
 
-[Subpart 2][27]---[Administering wills][27]
+[Subpart 2][27][---][27][Administering wills][27]
 
-[21][28] [Disposition of land][28]
+[21][28][][28][Disposition of land][28]
 
-[22][29] [Disposition of movable property][29]
+[22][29][][29][Disposition of movable property][29]
 
-[23][30] [Disposition to child][30]
+[23][30][][30][Disposition to child][30]
 
-[24][31] [Disposition to issue][31]
+[24][31][][31][Disposition to issue][31]
 
-[25][32] [Disposition to unincorporated association of persons][32]
+[25][32][][32][Disposition to unincorporated association of persons][32]
 
-[26][33] [Disposition may encompass power of appointment][33]
+[26][33][][33][Disposition may encompass power of appointment][33]
 
-[27][34] [Disposition of property already partly disposed of][34]
+[27][34][][34][Disposition of property already partly disposed of][34]
 
-[28][35] [Disposition in fractional parts][35]
+[28][35][][35][Disposition in fractional parts][35]
 
-[29][36] [Residuary estate][36]
+[29][36][][36][Residuary estate][36]
 
-[30][37] [Mutual wills][37]
+[30][37][][37][Mutual wills][37]
 
-[31][38] [Correction][38]
+[31][38][][38][Correction][38]
 
-[32][39] [External evidence][39]
+[32][39][][39][External evidence][39]
 
-[Subpart 3][40]---[Military or seagoing persons][40]
+[Subpart 3][40][---][40][Military or seagoing persons][40]
 
-[33][41] [Definitions for this subpart][41]
+[33][41][][41][Definitions for this subpart][41]
 
-[34][42] [Military or seagoing persons may do informal testamentary actions][42]
+[34][42][][42][Military or seagoing persons may do informal testamentary actions][42]
 
-[35][43] [Oral informal testamentary actions][43]
+[35][43][][43][Oral informal testamentary actions][43]
 
-[36][44] [Proof of informal testamentary actions][44]
+[36][44][][44][Proof of informal testamentary actions][44]
 
-[37][45] [Certificate as to application of this subpart][45]
+[37][45][][45][Certificate as to application of this subpart][45]
 
-[38][46] [Modification of provisions in application to wills of military or seagoing persons][46]
+[38][46][][46][Modification of provisions in application to wills of military or seagoing persons][46]
 
-[Subpart 4][47]---[Transitional and   
+[Subpart 4][47][---][47][Transitional and   
 amendment provisions][47]
 
-[39][48] [Wills of persons who die before 1 November 2007][48]
+[39][48][][48][Wills of persons who die before 1 November 2007][48]
 
-[40][49] [Wills made before 1 November 2007][49]
+[40][49][][49][Wills made before 1 November 2007][49]
 
-[40A][50] [Application of Wills (Validity) Amendment Act 2012][50]
+[40A][50][][50][Application of Wills Amendment Act 2012][50]
 
-[41][51] [Consequential amendments][51]
+[41][51][][51][Consequential amendments][51]
 
 [Schedule][52]  
 [Consequential amendments][52]
@@ -1176,7 +1176,7 @@ amendment provisions
     
     Section 40(2)(n): replaced (with effect on 1 November 2007), on 25 February 2012, by [section 5][108] of the Wills Amendment Act 2012 (2012 No 22).
 
-##### 40A Application of Wills (Validity) Amendment Act 2012
+##### 40A Application of Wills Amendment Act 2012
     
 *   (1) [Sections 11][15] and [40][49] as amended by the [Wills Amendment Act 2012][109] apply (instead of those sections as in force before they were amended by that Act) in making after the commencement of that Act (in this section called the _commencement_) a determination whether a document is, or can and is to be declared by order of the High Court to be, a valid will.
     
@@ -1195,10 +1195,12 @@ amendment provisions
     *   (b) a payment made or other action taken before the commencement and that an enactment authorised without a grant of administration (as so defined).
     
     Section 40A: inserted, on 25 February 2012, by [section 6][111] of the Wills Amendment Act 2012 (2012 No 22).
+    
+    Section 40A heading: amended, on 5 December 2013, by [section 4][112] of the Wills Amendment Act 2013 (2013 No 138).
 
 ##### 41 Consequential amendments
     
-*   The enactments specified in the [Schedule][112] are consequentially amended in the manner indicated in the Schedule.
+*   The enactments specified in the [Schedule][113] are consequentially amended in the manner indicated in the Schedule.
 
 ---
 
@@ -1327,74 +1329,33 @@ Section 36(8): omit and substitute:
 > 
 > 
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Wills Act 2007\. The reprint incorporates all the amendments to the Act as at 25 February 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][113] ![](/images/external_link.gif).
+*   This is a reprint of the Wills Act 2007 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][114] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][114] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][115] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][115] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][116] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][117] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][116] and [17E][117] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Wills Amendment Act 2013][118] (2013 No 138)
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Wills Amendment Act 2012][109] (2012 No 22)
+    [Wills Amendment Act 2012][109] (2012 No 22)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2007/0036/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2007/0036/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2007/0036/latest/whole.html#DLM413276
 [2]: http://www.legislation.govt.nz/act/public/2007/0036/latest/whole.html#DLM413277
 [3]: http://www.legislation.govt.nz/act/public/2007/0036/latest/whole.html#DLM413278
@@ -1506,9 +1467,10 @@ Section 36(8): omit and substitute:
 [109]: http://www.legislation.govt.nz/act/public/2007/0036/latest/link.aspx?id=DLM4015402
 [110]: http://www.legislation.govt.nz/act/public/2007/0036/latest/link.aspx?id=DLM392635
 [111]: http://www.legislation.govt.nz/act/public/2007/0036/latest/link.aspx?id=DLM4015409
-[112]: http://www.legislation.govt.nz/act/public/2007/0036/latest/link.aspx?id=DLM1283911
-[113]: http://www.pco.parliament.govt.nz/reprints/
-[114]: http://www.legislation.govt.nz/act/public/2007/0036/latest/link.aspx?id=DLM195439
-[115]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[116]: http://www.legislation.govt.nz/act/public/2007/0036/latest/link.aspx?id=DLM195468
-[117]: http://www.legislation.govt.nz/act/public/2007/0036/latest/link.aspx?id=DLM195470
+[112]: http://www.legislation.govt.nz/act/public/2007/0036/latest/link.aspx?id=DLM5628507
+[113]: http://www.legislation.govt.nz/act/public/2007/0036/latest/link.aspx?id=DLM1283911
+[114]: http://www.legislation.govt.nz/act/public/2007/0036/latest/link.aspx?id=DLM2998516
+[115]: http://www.legislation.govt.nz/act/public/2007/0036/latest/link.aspx?id=DLM2998515
+[116]: http://www.legislation.govt.nz/act/public/2007/0036/latest/link.aspx?id=DLM2998532
+[117]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[118]: http://www.legislation.govt.nz/act/public/2007/0036/latest/link.aspx?id=DLM5628500
