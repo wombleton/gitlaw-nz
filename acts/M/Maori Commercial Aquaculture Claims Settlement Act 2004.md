@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2011
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Fisheries.
 
@@ -23,147 +23,147 @@ This Act is administered by the Ministry of Fisheries.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Preliminary provisions][3]
 
-[3][4] [Purpose of Act][4]
+[3][4][][4][Purpose of Act][4]
 
-[4][5] [Interpretation][5]
+[4][5][][5][Interpretation][5]
 
-[5][6] [Meaning of settlement assets][6]
+[5][6][][6][Meaning of settlement assets][6]
 
-[6][7] [Settlement of claims][7]
+[6][7][][7][Settlement of claims][7]
 
-[6A][8] [Relationship of Act to Marine and Coastal Area (Takutai Moana) Act 2011][8]
+[6A][8][][8][Relationship of Act to Marine and Coastal Area (Takutai Moana) Act 2011][8]
 
 [Provision and transfer of settlement assets to trustee that are representative of 20% of new space][9]
 
-[7][10] [Purpose of sections 8 to 18][10]
+[7][10][][10][Purpose of sections 8 to 18][10]
 
-[8][11] [Crown's obligations apply on regional basis][11]
+[8][11][][11][Crown's obligations apply on regional basis][11]
 
-[9][12] [Crown's obligations in respect of new space][12]
+[9][12][][12][Crown's obligations in respect of new space][12]
 
-[10][13] [Regional agreements relating to new space][13]
+[10][13][][13][Regional agreements relating to new space][13]
 
-[11][14] [Settlement in negotiation period][14]
+[11][14][][14][Settlement in negotiation period][14]
 
-[12][15] [_Gazetting_ space for settlement purposes][15]
+[12][15][][15][_Gazetting_ space for settlement purposes][15]
 
-[13][16] [Allocation of authorisations in aquaculture settlement area][16]
+[13][16][][16][Allocation of authorisations in aquaculture settlement area][16]
 
-[14][17] [Preparation of plan][17]
+[14][17][][17][Preparation of plan][17]
 
-[15][18] [Review of plan][18]
+[15][18][][18][Review of plan][18]
 
-[16][19] [Response to review of plan ][19]
+[16][19][][19][Response to review of plan ][19]
 
-[16A][20] [When authorisations allocated to trustee lapse][20]
+[16A][20][][20][When authorisations allocated to trustee lapse][20]
 
-[17][21] [Expiry, lapsing, or cancellation of coastal permit to occupy space for aquaculture activities][21]
+[17][21][][21][Expiry, lapsing, or cancellation of coastal permit to occupy space for aquaculture activities][21]
 
-[18][22] [Limitations on disposal of settlement assets][22]
+[18][22][][22][Limitations on disposal of settlement assets][22]
 
 [Allocation of aquaculture space, or financial equivalent, to trustee equivalent to 20% of pre-commencement space in coastal marine area][23]
 
-[19][24] [Purpose of sections 20 to 31][24]
+[19][24][][24][Purpose of sections 20 to 31][24]
 
-[20][25] [Interpretation][25]
+[20][25][][25][Interpretation][25]
 
-[21][26] [Crown's obligations apply on regional basis][26]
+[21][26][][26][Crown's obligations apply on regional basis][26]
 
-[22][27] [Crown's obligations][27]
+[22][27][][27][Crown's obligations][27]
 
-[23][28] [Preparation of plan][28]
+[23][28][][28][Preparation of plan][28]
 
-[24][29] [Review of plan][29]
+[24][29][][29][Review of plan][29]
 
-[25][30] [Additional allocation of space to iwi][30] \[Repealed\]
+[25][30][][30][Additional allocation of space to iwi][30] \[Repealed\]
 
-[26][31] [Regional Council may retain proportion of tender remuneration][31] \[Repealed\]
+[26][31][][31][Regional Council may retain proportion of tender remuneration][31] \[Repealed\]
 
-[27][32] [Purchase of coastal permits by the Crown][32]
+[27][32][][32][Purchase of coastal permits by the Crown][32]
 
-[28][33] [Payment of financial equivalent][33]
+[28][33][][33][Payment of financial equivalent][33]
 
-[29][34] [Purchase of coastal permits to occupy space for aquaculture activities, including purchase of improvements][34]
+[29][34][][34][Purchase of coastal permits to occupy space for aquaculture activities, including purchase of improvements][34]
 
-[29A][35] [Regional agreements][35]
+[29A][35][][35][Regional agreements][35]
 
-[30][36] [Entry on iwi aquaculture register][36]
+[30][36][][36][Entry on iwi aquaculture register][36]
 
-[31][37] [Registered entitlements to settlement assets][37]
+[31][37][][37][Registered entitlements to settlement assets][37]
 
 [Iwi aquaculture organisations][38]
 
-[32][39] [Functions and powers of iwi aquaculture organisations][39]
+[32][39][][39][Functions and powers of iwi aquaculture organisations][39]
 
-[33][40] [Recognition of iwi aquaculture organisations][40]
+[33][40][][40][Recognition of iwi aquaculture organisations][40]
 
 [Maori Commercial Aquaculture Settlement Trust][41]
 
-[34][42] [Maori Commercial Aquaculture Settlement Trust established][42]
+[34][42][][42][Maori Commercial Aquaculture Settlement Trust established][42]
 
-[35][43] [Purpose of trust][43]
+[35][43][][43][Purpose of trust][43]
 
-[36][44] [Annual plan][44]
+[36][44][][44][Annual plan][44]
 
-[37][45] [Trustee of trust][45]
+[37][45][][45][Trustee of trust][45]
 
-[38][46] [Duties of trustee][46]
+[38][46][][46][Duties of trustee][46]
 
-[39][47] [Reporting requirements of trustee][47]
+[39][47][][47][Reporting requirements of trustee][47]
 
-[40][48] [Reporting obligation][48]
+[40][48][][48][Reporting obligation][48]
 
-[41][49] [Obligation to establish and maintain iwi aquaculture register][49]
+[41][49][][49][Obligation to establish and maintain iwi aquaculture register][49]
 
-[42][50] [Documentation relating to iwi aquaculture register][50]
+[42][50][][50][Documentation relating to iwi aquaculture register][50]
 
-[43][51] [Access to iwi aquaculture register][51]
+[43][51][][51][Access to iwi aquaculture register][51]
 
 [Allocation of settlement assets][52]
 
-[44][53] [Determinations and allocations generally][53]
+[44][53][][53][Determinations and allocations generally][53]
 
-[45][54] [Allocation of assets to iwi of region][54]
+[45][54][][54][Allocation of assets to iwi of region][54]
 
-[46][55] [Criteria for agreement][55]
+[46][55][][55][Criteria for agreement][55]
 
-[47][56] [Basis of allocation of settlement assets][56]
+[47][56][][56][Basis of allocation of settlement assets][56]
 
-[48][57] [Allocation of settlement assets][57]
+[48][57][][57][Allocation of settlement assets][57]
 
-[49][58] [Partial allocation of settlement assets][58]
+[49][58][][58][Partial allocation of settlement assets][58]
 
-[50][59] [Transfer of authorisations or coastal permits][59]
+[50][59][][59][Transfer of authorisations or coastal permits][59]
 
-[51][60] [Transfer of settlement assets to be entered on iwi aquaculture register][60]
+[51][60][][60][Transfer of settlement assets to be entered on iwi aquaculture register][60]
 
 [Dispute resolution][61]
 
-[52][62] [Application][62]
+[52][62][][62][Application][62]
 
-[53][63] [Resolution of disputes][63]
+[53][63][][63][Resolution of disputes][63]
 
-[54][64] [Reference to Maori Land Court][64]
+[54][64][][64][Reference to Maori Land Court][64]
 
-[55][65] [Effect of right to make reference to Maori Land Court][65]
+[55][65][][65][Effect of right to make reference to Maori Land Court][65]
 
 [Miscellaneous provisions][66]
 
-[56][67] [Further redress if disproportionate reduction in space in relation to settlement assets][67]
+[56][67][][67][Further redress if disproportionate reduction in space in relation to settlement assets][67]
 
-[57][68] [Aquaculture settlement register][68]
+[57][68][][68][Aquaculture settlement register][68]
 
-[58][69] [Regulations][69]
+[58][69][][69][Regulations][69]
 
-[59][70] [Certain harbours to be added to Schedule 2][70]
+[59][70][][70][Certain harbours to be added to Schedule 2][70]
 
-[60][71] [Amendments to Foreshore and Seabed Act 2004][71]
+[60][71][][71][Amendments to Foreshore and Seabed Act 2004][71]
 
 [Schedule 1][72]  
 [Methodology for determination of settlement assets allocation entitlements][72]
@@ -459,11 +459,13 @@ This Act is administered by the Ministry of Fisheries.
     
     (5) If, at the conclusion of the relevant period specified in subsection (2) (or any extension), there is no regional agreement under [section 10][13] that relates to settlement in a region, the Crown must---
         
-    *   (a) arrange, in accordance with [section 14][17], for authorisations in any relevant aquaculture settlement areas in the region to be provided to the trustee in accordance with [section 9(1)(a)][12]; but
+    *   (a) arrange, in accordance with [section 13][16], for authorisations in any relevant aquaculture settlement areas in the region to be provided to the trustee in accordance with [section 9(1)(a)][12]; but
     
     *   (b) if insufficient authorisations are available to be provided to the trustee to meet the Crown's obligations as set out in [section 9][12], pay the difference to the trustee in accordance with section 9(1)(b).
     
     Section 11: substituted, on 1 October 2011, by [section 7(1)][100] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
+    
+    Section 11(5)(a): amended, on 5 December 2013, by [section 4][102] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2013 (2013 No 125).
 
 ##### 12 _Gazetting_ space for settlement purposes
     
@@ -475,7 +477,7 @@ This Act is administered by the Ministry of Fisheries.
     
     *   (b) must, if the Crown's obligations are settled in respect of a region, remove, by notice in the _Gazette_, the space from an aquaculture settlement area that is not required to meet the obligations.
     
-    (3) [Section 165E][102] of the Resource Management Act 1991 applies in respect of applications for coastal permits made in an aquaculture settlement area.
+    (3) [Section 165E][103] of the Resource Management Act 1991 applies in respect of applications for coastal permits made in an aquaculture settlement area.
     
     (4) In determining whether an aquaculture settlement area will be representative for the purposes of meeting the Crown's obligations under [section 9][12], the Minister must take into account---
         
@@ -501,9 +503,9 @@ This Act is administered by the Ministry of Fisheries.
     
     *   (b) if the Minister decides that such a payment should be made, make the payment to the trustee.
     
-    (5) [Clause 3(1)(b)][103] of Schedule 1 does not apply to the provision of authorisations under this section.
+    (5) [Clause 3(1)(b)][104] of Schedule 1 does not apply to the provision of authorisations under this section.
     
-    (6) To avoid doubt, [section 165R][104] of the Resource Management Act 1991 applies in relation to the provision of authorisations under this section.
+    (6) To avoid doubt, [section 165R][105] of the Resource Management Act 1991 applies in relation to the provision of authorisations under this section.
     
     Section 13: substituted, on 1 October 2011, by [section 7(1)][100] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
 
@@ -549,7 +551,7 @@ This Act is administered by the Ministry of Fisheries.
         
         *   (iv) the difference in value between---
                 
-            *   (A) the costs of obtaining, pursuant to an authorisation granted under this Act, a resource consent under the [Resource Management Act 1991][105] that could commence under section 116A of that Act; and
+            *   (A) the costs of obtaining, pursuant to an authorisation granted under this Act, a resource consent under the [Resource Management Act 1991][106] that could commence under section 116A of that Act; and
             
             *   (B) the costs of obtaining the resource consent pursuant to an authorisation had the authorisation been granted in relation to an aquaculture management area as at 1 January 2005\.
             
@@ -585,7 +587,7 @@ This Act is administered by the Ministry of Fisheries.
 
 ##### 16A When authorisations allocated to trustee lapse
     
-*   (1) [Section 165T][106] of the Resource Management Act 1991 does not apply to settlement assets.
+*   (1) [Section 165T][107] of the Resource Management Act 1991 does not apply to settlement assets.
     
     (2) However, a settlement asset that is an authorisation does lapse if---
         
@@ -593,7 +595,7 @@ This Act is administered by the Ministry of Fisheries.
     
     *   (b) a resource consent has been cancelled under section 116A(3) or (7) of the Resource Management Act 1991\.
     
-    (3) If an authorisation that is a settlement asset is transferred and (as a result of the transfer) it ceases to be a settlement asset, the authorisation lapses 2 years after the date on which the holder gives a notice of transfer of the authorisation to the regional council under [section 165S][107] of the Resource Management Act 1991\.
+    (3) If an authorisation that is a settlement asset is transferred and (as a result of the transfer) it ceases to be a settlement asset, the authorisation lapses 2 years after the date on which the holder gives a notice of transfer of the authorisation to the regional council under [section 165S][108] of the Resource Management Act 1991\.
     
     Section 16A: inserted, on 1 October 2011, by [section 7(1)][100] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
 
@@ -605,9 +607,9 @@ This Act is administered by the Ministry of Fisheries.
     
     *   (b) the coastal permit expires, lapses, or is cancelled.
     
-    (2) The holder of the coastal permit is to be treated as if the holder holds an authorisation allocated under [section 44][108] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 in relation to the space that was subject to the coastal permit.
+    (2) The holder of the coastal permit is to be treated as if the holder holds an authorisation allocated under [section 44][109] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 in relation to the space that was subject to the coastal permit.
     
-    Section 17(2): amended, on 1 October 2011, by [section 8][109] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
+    Section 17(2): amended, on 1 October 2011, by [section 8][110] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
 
 ##### 18 Limitations on disposal of settlement assets
     
@@ -639,31 +641,31 @@ This Act is administered by the Ministry of Fisheries.
     
     *   (b) space---
             
-        *   (i) that is the subject of an application under [section 46][110] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 that is granted; and
+        *   (i) that is the subject of an application under [section 46][111] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 that is granted; and
         
-        *   (ii) in relation to which a permit under [section 67J][111] or [section 67P][112] of the Fisheries Act 1983 is subsequently granted; and
+        *   (ii) in relation to which a permit under [section 67J][112] or [section 67P][113] of the Fisheries Act 1983 is subsequently granted; and
         
         
     
-    *   (c) space that, at the close of 31 December 2004, is subject to an application for a permit under [section 67J][111] or section [67Q(2)(a)][113] of the Fisheries Act 1983 which is subsequently granted; and
+    *   (c) space that, at the close of 31 December 2004, is subject to an application for a permit under [section 67J][112] or section [67Q(2)(a)][114] of the Fisheries Act 1983 which is subsequently granted; and
     
     *   (d) space that---
             
-        *   (i) became the subject of a permit granted under [section 67J][111] or [section 67Q(2)(a)][113] of the Fisheries Act 1983 during the period beginning on 21 September 1992 and ending on the close of 31 December 2004, and the permit that was granted is for aquaculture activities; and
+        *   (i) became the subject of a permit granted under [section 67J][112] or [section 67Q(2)(a)][114] of the Fisheries Act 1983 during the period beginning on 21 September 1992 and ending on the close of 31 December 2004, and the permit that was granted is for aquaculture activities; and
         
-        *   (ii) at the close of 31 December 2004 is still subject to a permit granted under [sections 67J][111] or [67Q(2)(a)][113] of the Fisheries Act 1983; and
+        *   (ii) at the close of 31 December 2004 is still subject to a permit granted under [sections 67J][112] or [67Q(2)(a)][114] of the Fisheries Act 1983; and
         
         
     
     *   (e) space in relation to which [section 8(b)][11] applies.
     
-    Section 20(c): amended, on 13 December 2006, by [section 4(1)][114] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2006 (2006 No 79).
+    Section 20(c): amended, on 13 December 2006, by [section 4(1)][115] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2006 (2006 No 79).
     
-    Section 20(d)(i): amended, on 13 December 2006, by [section 4(1)][114] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2006 (2006 No 79).
+    Section 20(d)(i): amended, on 13 December 2006, by [section 4(1)][115] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2006 (2006 No 79).
     
-    Section 20(d)(i): amended, on 13 December 2006, by [section 4(2)][114] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2006 (2006 No 79).
+    Section 20(d)(i): amended, on 13 December 2006, by [section 4(2)][115] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2006 (2006 No 79).
     
-    Section 20(d)(ii): amended, on 13 December 2006, by [section 4(1)][114] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2006 (2006 No 79).
+    Section 20(d)(ii): amended, on 13 December 2006, by [section 4(1)][115] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2006 (2006 No 79).
 
 ##### 21 Crown's obligations apply on regional basis
     
@@ -689,11 +691,11 @@ This Act is administered by the Ministry of Fisheries.
     
     (4) To avoid doubt, subsection (3) does not require the Crown at any particular time to comply with subsection (1) in any particular way or combination of ways specified in subsection (3).
     
-    Section 22(3)(a): repealed, on 1 October 2011, by [section 9][115] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
+    Section 22(3)(a): repealed, on 1 October 2011, by [section 9][116] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
     
-    Section 22(3)(ba): inserted, on 30 March 2010, by [section 7(1)][116] of the Maori Commercial Aquaculture Claims Settlement (Regional Agreements) Amendment Act 2010 (2010 No 8).
+    Section 22(3)(ba): inserted, on 30 March 2010, by [section 7(1)][117] of the Maori Commercial Aquaculture Claims Settlement (Regional Agreements) Amendment Act 2010 (2010 No 8).
     
-    Section 22(3A): inserted, on 30 March 2010, by [section 7(2)][116] of the Maori Commercial Aquaculture Claims Settlement (Regional Agreements) Amendment Act 2010 (2010 No 8).
+    Section 22(3A): inserted, on 30 March 2010, by [section 7(2)][117] of the Maori Commercial Aquaculture Claims Settlement (Regional Agreements) Amendment Act 2010 (2010 No 8).
 
 ##### 23 Preparation of plan
     
@@ -725,13 +727,13 @@ This Act is administered by the Ministry of Fisheries.
     
 *   \[Repealed\]
     
-    Section 25: repealed, on 1 October 2011, by [section 10(1)][117] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
+    Section 25: repealed, on 1 October 2011, by [section 10(1)][118] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
 
 ##### 26 Regional Council may retain proportion of tender remuneration
     
 *   \[Repealed\]
     
-    Section 26: repealed, on 1 October 2011, by [section 11][118] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
+    Section 26: repealed, on 1 October 2011, by [section 11][119] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
 
 ##### 27 Purchase of coastal permits by the Crown
     
@@ -803,7 +805,7 @@ This Act is administered by the Ministry of Fisheries.
     
     (7) However, subsection (6) does not exclude the jurisdiction of a court or tribunal in respect of the interpretation or enforcement of a regional agreement.
     
-    Section 29A: inserted, on 30 March 2010, by [section 8][119] of the Maori Commercial Aquaculture Claims Settlement (Regional Agreements) Amendment Act 2010 (2010 No 8).
+    Section 29A: inserted, on 30 March 2010, by [section 8][120] of the Maori Commercial Aquaculture Claims Settlement (Regional Agreements) Amendment Act 2010 (2010 No 8).
 
 ##### 30 Entry on iwi aquaculture register
     
@@ -837,7 +839,7 @@ This Act is administered by the Ministry of Fisheries.
     
     *   (c) affect any customary rights, aboriginal title rights, or any rights arising under the [Treaty of Waitangi][96] in relation to any other matter.
     
-    Section 31(4): substituted, on 30 March 2010, by [section 9][120] of the Maori Commercial Aquaculture Claims Settlement (Regional Agreements) Amendment Act 2010 (2010 No 8).
+    Section 31(4): substituted, on 30 March 2010, by [section 9][121] of the Maori Commercial Aquaculture Claims Settlement (Regional Agreements) Amendment Act 2010 (2010 No 8).
 
 #### Iwi aquaculture organisations
 
@@ -863,7 +865,7 @@ This Act is administered by the Ministry of Fisheries.
     
     (3) An iwi aquaculture organisation must not undertake commercial aquaculture activities except through a separate enterprise that is responsible to the organisation.
     
-    Section 32(2)(ba): inserted, on 30 March 2010, by [section 10][121] of the Maori Commercial Aquaculture Claims Settlement (Regional Agreements) Amendment Act 2010 (2010 No 8).
+    Section 32(2)(ba): inserted, on 30 March 2010, by [section 10][122] of the Maori Commercial Aquaculture Claims Settlement (Regional Agreements) Amendment Act 2010 (2010 No 8).
 
 ##### 33 Recognition of iwi aquaculture organisations
     
@@ -873,7 +875,7 @@ This Act is administered by the Ministry of Fisheries.
     
     *   (b) the trustee is satisfied that the constitution of the organisation authorises the organisation to act on behalf of its iwi in relation to aquaculture claims and settlement assets under this Act; and
     
-    *   (c) in the case of a joint mandated iwi organisation (as defined in [section 5][81] of the Maori Fisheries Act 2004), the trustee is satisfied that the constitution of the organisation includes a process for determining the division of settlement assets between the organisation and a withdrawing group (as defined in [section 19][122] of that Act).
+    *   (c) in the case of a joint mandated iwi organisation (as defined in [section 5][81] of the Maori Fisheries Act 2004), the trustee is satisfied that the constitution of the organisation includes a process for determining the division of settlement assets between the organisation and a withdrawing group (as defined in [section 19][123] of that Act).
     
     (2) The trustee must recognise a new iwi aquaculture organisation and record its recognition in the iwi aquaculture register in place of another iwi aquaculture organisation (an **existing iwi aquaculture organisation**) if---
         
@@ -895,13 +897,13 @@ This Act is administered by the Ministry of Fisheries.
     
     (5) To avoid doubt, [section 50][59] does not apply to settlement assets that become the settlement assets of the new iwi aquaculture organisation by subsections (3) and (4).
     
-    Section 33(2): added, on 1 October 2011, by [section 12][123] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
+    Section 33(2): added, on 1 October 2011, by [section 12][124] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
     
-    Section 33(3): added, on 1 October 2011, by [section 12][123] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
+    Section 33(3): added, on 1 October 2011, by [section 12][124] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
     
-    Section 33(4): added, on 1 October 2011, by [section 12][123] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
+    Section 33(4): added, on 1 October 2011, by [section 12][124] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
     
-    Section 33(5): added, on 1 October 2011, by [section 12][123] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
+    Section 33(5): added, on 1 October 2011, by [section 12][124] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
 
 #### Maori Commercial Aquaculture Settlement Trust
 
@@ -923,9 +925,9 @@ This Act is administered by the Ministry of Fisheries.
     
     *   (e) perform any functions that are necessary or desirable to facilitate consultation between the Crown and iwi aquaculture organisations, mandated iwi organisations, and recognised iwi organisations for the purposes of [sections 8 to 18][11].
     
-    Section 35(d): amended, on 1 October 2011, by [section 13(1)][124] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
+    Section 35(d): amended, on 1 October 2011, by [section 13(1)][125] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
     
-    Section 35(e): added, on 1 October 2011, by [section 13(2)][124] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
+    Section 35(e): added, on 1 October 2011, by [section 13(2)][125] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
 
 ##### 36 Annual plan
     
@@ -969,13 +971,13 @@ This Act is administered by the Ministry of Fisheries.
     
     (3) The reasonable costs and expenses of the trustee in performing its duties under subsection (1) or its obligations referred to in subsections (2A) and (2B) are to be paid out of money appropriated by Parliament for that purpose.
     
-    Section 38(2A): inserted, on 30 March 2010, by [section 11(1)][125] of the Maori Commercial Aquaculture Claims Settlement (Regional Agreements) Amendment Act 2010 (2010 No 8).
+    Section 38(2A): inserted, on 30 March 2010, by [section 11(1)][126] of the Maori Commercial Aquaculture Claims Settlement (Regional Agreements) Amendment Act 2010 (2010 No 8).
     
-    Section 38(2B): inserted, on 1 October 2011, by [section 14(1)][126] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
+    Section 38(2B): inserted, on 1 October 2011, by [section 14(1)][127] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
     
-    Section 38(3): amended, on 1 October 2011, by [section 14(2)][126] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
+    Section 38(3): amended, on 1 October 2011, by [section 14(2)][127] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
     
-    Section 38(3): amended, on 30 March 2010, by [section 11(2)][125] of the Maori Commercial Aquaculture Claims Settlement (Regional Agreements) Amendment Act 2010 (2010 No 8).
+    Section 38(3): amended, on 30 March 2010, by [section 11(2)][126] of the Maori Commercial Aquaculture Claims Settlement (Regional Agreements) Amendment Act 2010 (2010 No 8).
 
 ##### 39 Reporting requirements of trustee
     
@@ -1077,7 +1079,7 @@ This Act is administered by the Ministry of Fisheries.
     
     (4) The trustee may amend a determination to give effect to a written agreement referred to in [section 45(4)][54] to the extent that the agreement relates to settlement assets under a regional agreement that was entered into after the written agreement and, if it does so, the amendment becomes a determination of settlement assets allocation entitlements.
     
-    Section 44: substituted, on 30 March 2010, by [section 12][127] of the Maori Commercial Aquaculture Claims Settlement (Regional Agreements) Amendment Act 2010 (2010 No 8).
+    Section 44: substituted, on 30 March 2010, by [section 12][128] of the Maori Commercial Aquaculture Claims Settlement (Regional Agreements) Amendment Act 2010 (2010 No 8).
 
 ##### 45 Allocation of assets to iwi of region
     
@@ -1105,11 +1107,11 @@ This Act is administered by the Ministry of Fisheries.
     
     (5) Before determining the settlement assets allocation entitlements on the basis of a written agreement referred to in subsection (4), the trustee must be satisfied that all iwi aquaculture organisations for the region are parties to the agreement.
     
-    Section 45(1): substituted, on 1 October 2011, by [section 15(1)][128] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
+    Section 45(1): substituted, on 1 October 2011, by [section 15(1)][129] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
     
-    Section 45(4): amended, on 1 October 2011, by [section 15(2)][128] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
+    Section 45(4): amended, on 1 October 2011, by [section 15(2)][129] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
     
-    Section 45(4A): inserted, on 1 October 2011, by [section 15(3)][128] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
+    Section 45(4A): inserted, on 1 October 2011, by [section 15(3)][129] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
 
 ##### 46 Criteria for agreement
     
@@ -1141,7 +1143,7 @@ This Act is administered by the Ministry of Fisheries.
     
     (5) If, after negotiating in good faith, the iwi aquaculture organisations cannot reach agreement under subsection (4), they may enter into the dispute resolution process provided for in [sections 52 to 55][62].
     
-    Section 47(1): substituted, on 1 October 2011, by [section 16][129] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
+    Section 47(1): substituted, on 1 October 2011, by [section 16][130] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
 
 ##### 48 Allocation of settlement assets
     
@@ -1215,7 +1217,7 @@ This Act is administered by the Ministry of Fisheries.
     
     *   (b) expires 12 months after that date.
     
-    (6) This section applies subject to [sections 135][130] and [165M][131] of the Resource Management Act 1991\.
+    (6) This section applies subject to [sections 135][131] and [165M][132] of the Resource Management Act 1991\.
     
     (7) In this section,---
     
@@ -1229,7 +1231,7 @@ This Act is administered by the Ministry of Fisheries.
     
     _member of an iwi_ has the same meaning as in [section 5][81] of the Maori Fisheries Act 2004\.
     
-    Section 50(2): substituted, on 1 October 2011, by [section 17][132] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
+    Section 50(2): substituted, on 1 October 2011, by [section 17][133] of the Maori Commercial Aquaculture Claims Settlement Amendment Act 2011 (2011 No 69).
 
 ##### 51 Transfer of settlement assets to be entered on iwi aquaculture register
     
@@ -1279,21 +1281,21 @@ This Act is administered by the Ministry of Fisheries.
     
 *   (1) This section applies if resolution is unable to be reached under [section 53][63].
     
-    (2) A party to a dispute may refer the dispute to the Maori Land Court under [section 26P][133] of Te Ture Whenua Maori Act 1993 to obtain---
+    (2) A party to a dispute may refer the dispute to the Maori Land Court under [section 26P][134] of Te Ture Whenua Maori Act 1993 to obtain---
         
     *   (a) advice on an appropriate dispute resolution process for the purposes of [section 53][63]:
     
     *   (b) a non-binding ruling on a question of fact or law to assist in the conduct of the dispute resolution process.
     
-    (3) The Maori Land Court may make a determination under [section 26Q][134] of Te Ture Whenua Maori Act 1993 if, on a reference to it under subsection (2), it is of the view that the parties have taken reasonable steps to resolve a dispute resolution process provided for under [section 53][63].
+    (3) The Maori Land Court may make a determination under [section 26Q][135] of Te Ture Whenua Maori Act 1993 if, on a reference to it under subsection (2), it is of the view that the parties have taken reasonable steps to resolve a dispute resolution process provided for under [section 53][63].
 
 ##### 55 Effect of right to make reference to Maori Land Court
     
 *   (1) This section applies to a dispute that may be referred to the Maori Land Court under [section 54][64].
     
-    (2) Until the dispute has been determined under [section 26Q][134] of Te Ture Whenua Maori Act 1993 and all rights of appeal for that matter have been exercised in full, a person who is a party to the matter or order must not---
+    (2) Until the dispute has been determined under [section 26Q][135] of Te Ture Whenua Maori Act 1993 and all rights of appeal for that matter have been exercised in full, a person who is a party to the matter or order must not---
         
-    *   (a) apply for review under [Part 1][135] of the Judicature Amendment Act 1972; or
+    *   (a) apply for review under [Part 1][136] of the Judicature Amendment Act 1972; or
     
     *   (b) commence proceedings for a writ of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction in relation to that decision.
     
@@ -1365,9 +1367,9 @@ This Act is administered by the Ministry of Fisheries.
 
 ##### 60 Amendments to Foreshore and Seabed Act 2004
     
-*   (1)--(4) _Amendment(s) incorporated in the [Act(s)][136]._
+*   (1)--(4) _Amendment(s) incorporated in the [Act(s)][137]._
     
-    (5) Subsection (1) is deemed to have come into force on the commencement of [section 18][136] of the Foreshore and Seabed Act 2004\.
+    (5) Subsection (1) is deemed to have come into force on the commencement of [section 18][137] of the Foreshore and Seabed Act 2004\.
 
 ---
 
@@ -1380,9 +1382,9 @@ Methodology for determination of settlement assets allocation entitlements
     
 *   The methodology by which the allocation entitlement of iwi must be determined in respect of settlement assets comprises---
         
-    *   (a) the process set out in [clauses 2 to 10][137] which must be followed in making determinations under [section 45][54]; and
+    *   (a) the process set out in [clauses 2 to 10][138] which must be followed in making determinations under [section 45][54]; and
     
-    *   (b) a geographic information system computation model, described in [clauses 11 to 13][138], that is based on---
+    *   (b) a geographic information system computation model, described in [clauses 11 to 13][139], that is based on---
             
         *   (i) a specified map database of the coastline of New Zealand; and
         
@@ -1453,7 +1455,7 @@ Determination of allocation entitlements
 
 ##### 4 Endorsements required in support of claim
     
-*   (1) Any claim submitted under [clause 3][103] must be accompanied by endorsements from the iwi aquaculture organisation of each iwi that is an affected iwi in respect of the claim.
+*   (1) Any claim submitted under [clause 3][104] must be accompanied by endorsements from the iwi aquaculture organisation of each iwi that is an affected iwi in respect of the claim.
     
     (2) Endorsements may be presented in the form of either or both of the following:
         
@@ -1471,17 +1473,17 @@ Determination of allocation entitlements
     
     (4) The co-ordinates of all specified points, except harbour entrance points, coastal endpoints, or coastal boundary points, must be supported in a report from a registered cadastral surveyor.
     
-    (5) If any part of a claim has been the subject of dispute resolution under [clause 7][139], the documentation of that process may be used to support a claim instead of the endorsements referred to in subclause (1), but the documentation must clearly set out the information required under subclause (3).
+    (5) If any part of a claim has been the subject of dispute resolution under [clause 7][140], the documentation of that process may be used to support a claim instead of the endorsements referred to in subclause (1), but the documentation must clearly set out the information required under subclause (3).
 
 ##### 5 Agreements
     
-*   Before an iwi aquaculture organisation submits a claim under [clause 3][103] to the trustee, it must take reasonable steps to reach agreements, in relation to the data required by clause 3(2), with every affected iwi as to the matters set out under [clause 4(3)][140].
+*   Before an iwi aquaculture organisation submits a claim under [clause 3][104] to the trustee, it must take reasonable steps to reach agreements, in relation to the data required by clause 3(2), with every affected iwi as to the matters set out under [clause 4(3)][141].
 
 ##### 6 Registration of agreements
     
 *   (1) An iwi aquaculture organisation may, at any time, request the trustee to verify and subsequently place on the iwi aquaculture register any agreement made by iwi aquaculture organisations relating to aquaculture claims to which it is a party.
     
-    (2) If a request is made under subclause (1), the trustee must attempt to verify the agreement by the application of the procedures set out in [clause 8][141].
+    (2) If a request is made under subclause (1), the trustee must attempt to verify the agreement by the application of the procedures set out in [clause 8][142].
     
     (3) If the trustee is able to verify an agreement under subclause (2), it must record the details of the agreement on the iwi aquaculture register.
     
@@ -1489,13 +1491,13 @@ Determination of allocation entitlements
 
 ##### 7 Dispute resolution
     
-*   (1) If an iwi aquaculture organisation is unable to reach an agreement required by [clause 5][142], the dispute must be resolved in accordance with [sections 52 to 55][62].
+*   (1) If an iwi aquaculture organisation is unable to reach an agreement required by [clause 5][143], the dispute must be resolved in accordance with [sections 52 to 55][62].
     
     (2) Once resolutions are reached under the dispute resolution process,---
         
-    *   (a) the points and percentages settled in that process must be included in any relevant claim submitted under [clause 3(1)][103]; and
+    *   (a) the points and percentages settled in that process must be included in any relevant claim submitted under [clause 3(1)][104]; and
     
-    *   (b) the signed documentation of the resolution of the dispute must be included with the endorsements of the claim required by [clause 4(1)][140].
+    *   (b) the signed documentation of the resolution of the dispute must be included with the endorsements of the claim required by [clause 4(1)][141].
     
     
 
@@ -1503,9 +1505,9 @@ Determination of allocation entitlements
 
 ##### 8 Verification of claim for entitlement
     
-*   (1) After receiving a claim under [clause 3][103], the trustee must---
+*   (1) After receiving a claim under [clause 3][104], the trustee must---
         
-    *   (a) attempt to verify that all the data required by [clause 3][103] has been supplied for each regional coastline or harbour for which a claim is made; and
+    *   (a) attempt to verify that all the data required by [clause 3][104] has been supplied for each regional coastline or harbour for which a claim is made; and
     
     *   (b) attempt to verify that each specified point is---
             
@@ -1521,11 +1523,11 @@ Determination of allocation entitlements
     
     *   (c) satisfy itself that,---
             
-        *   (i) for each claim, there are endorsements as required by [clause 4(1)][140]; and
+        *   (i) for each claim, there are endorsements as required by [clause 4(1)][141]; and
         
         *   (ii) if a claim is for less than 100% of the coastline between specified points, the total of the percentages assigned to the iwi in the agreement supporting that claim is 100%; and
         
-        *   (iii) if any part of a claim has been the subject of a dispute resolution process in accordance with [clause 7][139], there is appropriately authorised documentation of the outcome of the process to support the claim.
+        *   (iii) if any part of a claim has been the subject of a dispute resolution process in accordance with [clause 7][140], there is appropriately authorised documentation of the outcome of the process to support the claim.
         
         
     
@@ -1535,21 +1537,21 @@ Determination of allocation entitlements
 
 ##### 9 Determination of coastal entitlements
     
-*   (1) Before the determination of a coastal settlement assets allocation entitlement under this clause, the trustee must determine the length of the relevant regional coastline by applying the relevant 2 coastal endpoints, as notified in the _Gazette_, as input to the computation model described in [Part 2][143] of this schedule.
+*   (1) Before the determination of a coastal settlement assets allocation entitlement under this clause, the trustee must determine the length of the relevant regional coastline by applying the relevant 2 coastal endpoints, as notified in the _Gazette_, as input to the computation model described in [Part 2][144] of this schedule.
     
-    (2) When the trustee has verified the matters set out in [clause 8(1)(a) and (b)][141] and is satisfied of the matters set out in clause 8(1)(c), it must determine coastal settlement assets allocation entitlements as follows:
+    (2) When the trustee has verified the matters set out in [clause 8(1)(a) and (b)][142] and is satisfied of the matters set out in clause 8(1)(c), it must determine coastal settlement assets allocation entitlements as follows:
         
     *   (a) for each claim, the data representing the 2 specified points must be applied as input to the computation model to produce output that represents the coastline length between the 2 points; and
     
     *   (b) using the length of the relevant regional coastline determined under subclause (1), the percentage of the regional coastline represented by the result obtained from the calculation under paragraph (a) must be determined; and
     
-    *   (c) the result obtained from the determination under paragraph (b) must be multiplied by the percentage set out in the claim, as required by [clause 3(2)(c)][103].
+    *   (c) the result obtained from the determination under paragraph (b) must be multiplied by the percentage set out in the claim, as required by [clause 3(2)(c)][104].
     
     (3) For each claim, the results obtained from calculations made under subclause (2)(c) describe the settlement asset allocation entitlement for the claimant iwi for the regional coastline that is the subject of the claim.
 
 ##### 10 Determination of harbour entitlements
     
-*   If, in relation to a harbour claim, the trustee has verified the matters set out in [clause 8(1)(a) and (b)][141] and is satisfied about the matters set out in clause 8(1)(c), the trustee must determine the harbour settlement assets allocation entitlement of the claimant to be the percentage set out in the claim as required by [clause 3(2)(c)][103].
+*   If, in relation to a harbour claim, the trustee has verified the matters set out in [clause 8(1)(a) and (b)][142] and is satisfied about the matters set out in clause 8(1)(c), the trustee must determine the harbour settlement assets allocation entitlement of the claimant to be the percentage set out in the claim as required by [clause 3(2)(c)][104].
 
 ## Part 2  
 Computation model
@@ -1558,7 +1560,7 @@ Computation model
     
 *   (1) Before making the first calculation of coastline lengths to be used to determine allocation entitlements for the purposes of [section 45][54], the trustee must ensure that an appropriate computation model is created for the purpose of calculating coastline lengths between 2 specified co-ordinates on the mean high-water mark.
     
-    (2) The trustee must ensure that, after the first application under [clause 9][144] of the computation model to produce results to be used to determine a coastline entitlement, there are no alterations to---
+    (2) The trustee must ensure that, after the first application under [clause 9][145] of the computation model to produce results to be used to determine a coastline entitlement, there are no alterations to---
         
     *   (a) the software, algorithms, or computer code of the model; or
     
@@ -1568,7 +1570,7 @@ Computation model
     
     *   (d) the hardware platform for the model.
     
-    (3) Subclause (2) does not exclude alterations to the model unless the alteration would mean that a recalculation of a coastline length, using the input data used for a completed determination under [clause 9][144], would produce an output differing from the original result by more than 1%.
+    (3) Subclause (2) does not exclude alterations to the model unless the alteration would mean that a recalculation of a coastline length, using the input data used for a completed determination under [clause 9][145], would produce an output differing from the original result by more than 1%.
     
     (4) The trustee must ensure that the records of all input data applied to, and output data derived from, the computation model for determining coastline entitlements are preserved for not less than 10 years.
 
@@ -1797,9 +1799,9 @@ Queen Charlotte South (East and West Head entrance) North (East Head) 174°19.35
 
 South (West Head) 174°18.913′ 41°12.918′
 
-*   Schedule 2 _Marlborough Sounds_ Admiralty Bay: inserted, on 4 May 2006, by [clause 4][145] of the Maori Commercial Aquaculture Claims Settlement (Schedule 2) Order 2006 (SR 2006/88).
-*   Schedule 2 _Marlborough Sounds_ Port Gore: inserted, on 4 May 2006, by [clause 4][145] of the Maori Commercial Aquaculture Claims Settlement (Schedule 2) Order 2006 (SR 2006/88).
-*   Schedule 2 _Marlborough Sounds_ Port Underwood: inserted, on 4 May 2006, by [clause 4][145] of the Maori Commercial Aquaculture Claims Settlement (Schedule 2) Order 2006 (SR 2006/88).
+*   Schedule 2 _Marlborough Sounds_ Admiralty Bay: inserted, on 4 May 2006, by [clause 4][146] of the Maori Commercial Aquaculture Claims Settlement (Schedule 2) Order 2006 (SR 2006/88).
+*   Schedule 2 _Marlborough Sounds_ Port Gore: inserted, on 4 May 2006, by [clause 4][146] of the Maori Commercial Aquaculture Claims Settlement (Schedule 2) Order 2006 (SR 2006/88).
+*   Schedule 2 _Marlborough Sounds_ Port Underwood: inserted, on 4 May 2006, by [clause 4][146] of the Maori Commercial Aquaculture Claims Settlement (Schedule 2) Order 2006 (SR 2006/88).
 
 ---
 
@@ -1833,82 +1835,41 @@ Commencementsee section 2
     
     
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Maori Commercial Aquaculture Claims Settlement Act 2004\. The reprint incorporates all the amendments to the Act as at 1 October 2011, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][146] ![](/images/external_link.gif).
+*   This is a reprint of the Maori Commercial Aquaculture Claims Settlement Act 2004 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][147] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][147] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][148] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][148] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][149] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][150] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][149] and [17E][150] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Maori Commercial Aquaculture Claims Settlement Amendment Act 2013][151] (2013 No 125)
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Maori Commercial Aquaculture Claims Settlement Amendment Act 2011][74] (2011 No 69)
+    [Maori Commercial Aquaculture Claims Settlement Amendment Act 2011][74] (2011 No 69)
     
     [Maori Commercial Aquaculture Claims Settlement (Regional Agreements) Amendment Act 2010][83] (2010 No 8)
     
-    [Maori Commercial Aquaculture Claims Settlement Amendment Act 2008][151] (2008 No 94)
+    [Maori Commercial Aquaculture Claims Settlement Amendment Act 2008][152] (2008 No 94)
     
-    [Maori Commercial Aquaculture Claims Settlement Amendment Act 2006][152] (2006 No 79)
+    [Maori Commercial Aquaculture Claims Settlement Amendment Act 2006][153] (2006 No 79)
     
-    [Maori Commercial Aquaculture Claims Settlement (Schedule 2) Order 2006][153] (SR 2006/88)
+    [Maori Commercial Aquaculture Claims Settlement (Schedule 2) Order 2006][154] (SR 2006/88)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2004/0107/latest/whole.html#DLM324352
 [2]: http://www.legislation.govt.nz/act/public/2004/0107/latest/whole.html#DLM324353
 [3]: http://www.legislation.govt.nz/act/public/2004/0107/latest/whole.html#DLM1909700
@@ -2010,55 +1971,56 @@ Commencementsee section 2
 [99]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM3960616
 [100]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM3960618
 [101]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM236097
-[102]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM236030
-[103]: http://www.legislation.govt.nz/act/public/2004/0107/latest/whole.html#DLM324589
-[104]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM236058
-[105]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM230264
-[106]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM236065
-[107]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM236063
-[108]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM325310
-[109]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM3960657
-[110]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM325314
-[111]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM69750
-[112]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM69773
-[113]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM69778
-[114]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM398945
-[115]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM3960658
-[116]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM2015617
-[117]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM3960659
-[118]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM3960660
-[119]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM2015618
-[120]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM2015620
-[121]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM2015621
-[122]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM312060
-[123]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM3960631
-[124]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM3960632
-[125]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM2015622
-[126]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM3960633
-[127]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM2015623
-[128]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM3960661
-[129]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM3960662
-[130]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM235263
-[131]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM236047
-[132]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM3960634
-[133]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM290724
-[134]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM290726
-[135]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM408335
-[136]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM320236
-[137]: http://www.legislation.govt.nz/act/public/2004/0107/latest/whole.html#DLM324576
-[138]: http://www.legislation.govt.nz/act/public/2004/0107/latest/whole.html#DLM324599
-[139]: http://www.legislation.govt.nz/act/public/2004/0107/latest/whole.html#DLM324593
-[140]: http://www.legislation.govt.nz/act/public/2004/0107/latest/whole.html#DLM324590
-[141]: http://www.legislation.govt.nz/act/public/2004/0107/latest/whole.html#DLM324595
-[142]: http://www.legislation.govt.nz/act/public/2004/0107/latest/whole.html#DLM324591
-[143]: http://www.legislation.govt.nz/act/public/2004/0107/latest/whole.html#DLM324598
-[144]: http://www.legislation.govt.nz/act/public/2004/0107/latest/whole.html#DLM324596
-[145]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM377146
-[146]: http://www.pco.parliament.govt.nz/reprints/
-[147]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM195439
-[148]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[149]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM195468
-[150]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM195470
-[151]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM1629407
-[152]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM398938
-[153]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM377136
+[102]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM5623707
+[103]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM236030
+[104]: http://www.legislation.govt.nz/act/public/2004/0107/latest/whole.html#DLM324589
+[105]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM236058
+[106]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM230264
+[107]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM236065
+[108]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM236063
+[109]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM325310
+[110]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM3960657
+[111]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM325314
+[112]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM69750
+[113]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM69773
+[114]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM69778
+[115]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM398945
+[116]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM3960658
+[117]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM2015617
+[118]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM3960659
+[119]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM3960660
+[120]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM2015618
+[121]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM2015620
+[122]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM2015621
+[123]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM312060
+[124]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM3960631
+[125]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM3960632
+[126]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM2015622
+[127]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM3960633
+[128]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM2015623
+[129]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM3960661
+[130]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM3960662
+[131]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM235263
+[132]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM236047
+[133]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM3960634
+[134]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM290724
+[135]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM290726
+[136]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM408335
+[137]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM320236
+[138]: http://www.legislation.govt.nz/act/public/2004/0107/latest/whole.html#DLM324576
+[139]: http://www.legislation.govt.nz/act/public/2004/0107/latest/whole.html#DLM324599
+[140]: http://www.legislation.govt.nz/act/public/2004/0107/latest/whole.html#DLM324593
+[141]: http://www.legislation.govt.nz/act/public/2004/0107/latest/whole.html#DLM324590
+[142]: http://www.legislation.govt.nz/act/public/2004/0107/latest/whole.html#DLM324595
+[143]: http://www.legislation.govt.nz/act/public/2004/0107/latest/whole.html#DLM324591
+[144]: http://www.legislation.govt.nz/act/public/2004/0107/latest/whole.html#DLM324598
+[145]: http://www.legislation.govt.nz/act/public/2004/0107/latest/whole.html#DLM324596
+[146]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM377146
+[147]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM2998516
+[148]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM2998515
+[149]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM2998532
+[150]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[151]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM5623700
+[152]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM1629407
+[153]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM398938
+[154]: http://www.legislation.govt.nz/act/public/2004/0107/latest/link.aspx?id=DLM377136
