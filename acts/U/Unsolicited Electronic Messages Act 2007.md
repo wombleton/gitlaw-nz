@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Business, Innovation, and Employment.
 
@@ -1270,13 +1270,15 @@ Miscellaneous provisions
     
     *   (j) \[Repealed\]
     
-    *   (k) authorising the enforcement department to enter into agreements or arrangements with overseas enforcement agencies concerning international enforcement of anti-spam legislation, sharing of information between national enforcement agencies, and the pursuit of cross-border complaints concerning spam:
+    *   (k) \[Repealed\]
     
     *   (l) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
     
     Compare: Spam Act 2003 ss 45, 47 (Aust)
     
     Section 58(j): repealed, on 1 October 2012, by [section 304(7)][97] of the Search and Surveillance Act 2012 (2012 No 24).
+    
+    Section 58(k): repealed, on 5 December 2013, by [section 4][98] of the Unsolicited Electronic Messages Amendment Act 2013 (2013 No 137).
 
 ---
 
@@ -1299,7 +1301,7 @@ Messages that are not electronic messages
     
     *   (b) \[Repealed\]
     
-    Schedule clause 1(b): repealed, on 21 October 2011, by [clause 3][98] of the Unsolicited Electronic Messages Order 2011 (SR 2011/326).
+    Schedule clause 1(b): repealed, on 21 October 2011, by [clause 3][99] of the Unsolicited Electronic Messages Order 2011 (SR 2011/326).
 
 ##### 2 Definition
     
@@ -1313,78 +1315,37 @@ Messages that are not electronic messages
     
     
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Unsolicited Electronic Messages Act 2007\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][99] ![](/images/external_link.gif).
+*   This is a reprint of the Unsolicited Electronic Messages Act 2007 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][100] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][100] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][101] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][101] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][102] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][103] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][102] and [17E][103] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Unsolicited Electronic Messages Amendment Act 2013][104] (2013 No 137)
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Search and Surveillance Act 2012 (2012 No 24): [section 304][97]
+    Search and Surveillance Act 2012 (2012 No 24): [section 304][97]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][85]
     
-    [Unsolicited Electronic Messages Order 2011][104] (SR 2011/326)
+    [Unsolicited Electronic Messages Order 2011][105] (SR 2011/326)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2007/0007/latest/whole.html#DLM405137
 [2]: http://www.legislation.govt.nz/act/public/2007/0007/latest/whole.html#DLM405138
 [3]: http://www.legislation.govt.nz/act/public/2007/0007/latest/whole.html#DLM405139
@@ -1482,10 +1443,11 @@ Messages that are not electronic messages
 [95]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM2136813
 [96]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM2136815
 [97]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM2137086
-[98]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM3996506
-[99]: http://www.pco.parliament.govt.nz/reprints/
-[100]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM195439
-[101]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[102]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM195468
-[103]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM195470
-[104]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM3996500
+[98]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM5628408
+[99]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM3996506
+[100]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM2998516
+[101]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM2998515
+[102]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM2998532
+[103]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[104]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM5628400
+[105]: http://www.legislation.govt.nz/act/public/2007/0007/latest/link.aspx?id=DLM3996500
