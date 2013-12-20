@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1878,13 +1878,13 @@ Chief executives
     
     *   (b) shall not limit any power of delegation conferred on the chief executive by any other Act.
     
-    (4A) Where a chief executive or a delegate of the chief executive uses a written document to inform any other person of an action taken by a delegate of the chief executive, the document must---
+    (4A) Where a written document is used to inform a person of an action taken by a delegate described in subsection (2A), the document must---
         
-    *   (a) state that the action was taken by a delegate of the chief executive; and
+    *   (a) state that the action was taken by a delegate outside the Public Service; and
     
     *   (b) give the delegate's name and office; and
     
-    *   (c) inform the other person that a copy of the instrument of delegation may be inspected at the chief executive's office.
+    *   (c) state that a copy of the instrument of delegation may be inspected at the chief executive's office.
     
     (5) Every person purporting to act pursuant to any delegation under this section shall, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegation.
     
@@ -1912,7 +1912,7 @@ Chief executives
     
     Section 41(3): amended, on 18 July 2013, by [section 37(5)][283] of the State Sector Amendment Act 2013 (2013 No 49).
     
-    Section 41(4A): inserted, on 18 July 2013, by [section 37(6)][283] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 41(4A): replaced, on 5 December 2013, by [section 4][284] of the State Sector Amendment Act (No 2) 2013 (2013 No 133).
 
 ##### 42 Revocation of delegations
     
@@ -1930,7 +1930,7 @@ Chief executives
     
     Section 43(1): amended, on 19 December 1989, pursuant to [section 33(1)][269] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
     
-    Section 43(1A): inserted, on 18 July 2013, by [section 38][284] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 43(1A): inserted, on 18 July 2013, by [section 38][285] of the State Sector Amendment Act 2013 (2013 No 49).
     
     Section 43(2): amended, on 19 December 1989, pursuant to [section 33(1)][269] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
 
@@ -1966,31 +1966,31 @@ Chief executives
     
     *   (e) the Director of the Government Communications Security Bureau is the chief executive of the Government Communications Security Bureau.
     
-    Section 44(1): amended, on 18 July 2013, by [section 39(1)(a)][285] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 44(1): amended, on 18 July 2013, by [section 39(1)(a)][286] of the State Sector Amendment Act 2013 (2013 No 49).
     
-    Section 44(1): amended, on 18 July 2013, by [section 39(1)(b)][285] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 44(1): amended, on 18 July 2013, by [section 39(1)(b)][286] of the State Sector Amendment Act 2013 (2013 No 49).
     
-    Section 44(1)(a): repealed, on 18 July 2013, by [section 39(2)][285] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 44(1)(a): repealed, on 18 July 2013, by [section 39(2)][286] of the State Sector Amendment Act 2013 (2013 No 49).
     
-    Section 44(1)(b): repealed, on 18 July 2013, by [section 39(2)][285] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 44(1)(b): repealed, on 18 July 2013, by [section 39(2)][286] of the State Sector Amendment Act 2013 (2013 No 49).
     
-    Section 44(1)(c): repealed, on 18 July 2013, by [section 39(2)][285] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 44(1)(c): repealed, on 18 July 2013, by [section 39(2)][286] of the State Sector Amendment Act 2013 (2013 No 49).
     
-    Section 44(1)(d): substituted, on 2 April 2003, by [section 33(1)][286] of the Government Communications Security Bureau Act 2003 (2003 No 9).
+    Section 44(1)(d): substituted, on 2 April 2003, by [section 33(1)][287] of the Government Communications Security Bureau Act 2003 (2003 No 9).
     
-    Section 44(1)(e): added, on 2 April 2003, by [section 33(1)][286] of the Government Communications Security Bureau Act 2003 (2003 No 9).
+    Section 44(1)(e): added, on 2 April 2003, by [section 33(1)][287] of the Government Communications Security Bureau Act 2003 (2003 No 9).
     
-    Section 44(1A): inserted, on 18 July 2013, by [section 39(3)][285] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 44(1A): inserted, on 18 July 2013, by [section 39(3)][286] of the State Sector Amendment Act 2013 (2013 No 49).
     
-    Section 44(2)(b): repealed, on 1 July 2001, by [section 53][287] of the Public Audit Act 2001 (2001 No 10).
+    Section 44(2)(b): repealed, on 1 July 2001, by [section 53][288] of the Public Audit Act 2001 (2001 No 10).
     
     Section 44(2)(c): amended, on 19 December 1989, pursuant to [section 33(2)][269] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
     
     Section 44(2)(c): amended, on 19 December 1989, pursuant to [section 33(3)][269] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
     
-    Section 44(2)(d): repealed, on 18 July 2013, by [section 39(4)][285] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 44(2)(d): repealed, on 18 July 2013, by [section 39(4)][286] of the State Sector Amendment Act 2013 (2013 No 49).
     
-    Section 44(2)(e): added, on 2 April 2003, by [section 33(2)][286] of the Government Communications Security Bureau Act 2003 (2003 No 9).
+    Section 44(2)(e): added, on 2 April 2003, by [section 33(2)][287] of the Government Communications Security Bureau Act 2003 (2003 No 9).
 
 ##### 45 Application of Labour Relations Act 1987 in respect of chief executives
     
@@ -2001,13 +2001,13 @@ Chief executives
 ## Part 4  
 Senior leadership and management capability in Public Service
     
-*   Part 4: substituted, on 25 January 2005, by [section 9][288] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+*   Part 4: substituted, on 25 January 2005, by [section 9][289] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
 
 ##### 46 Object
     
 *   The object of this Part is to specify the Commissioner's responsibilities for developing senior leadership and management capability in the Public Service.
     
-    Section 46: replaced, on 18 July 2013, by [section 40][289] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 46: replaced, on 18 July 2013, by [section 40][290] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ##### 47 Responsibilities of Commissioner
     
@@ -2015,7 +2015,7 @@ Senior leadership and management capability in Public Service
     
     (2) The Commissioner may promote the strategy to other agencies in the State services, and may invite employees in the State services to participate in initiatives under the strategy (with the agreement of the relevant chief executives).
     
-    Section 47: replaced, on 18 July 2013, by [section 40][289] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 47: replaced, on 18 July 2013, by [section 40][290] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ##### 48 Responsibilities of chief executives
     
@@ -2025,17 +2025,17 @@ Senior leadership and management capability in Public Service
     
     *   (b) assisting the Commissioner to fulfil the Commissioner's responsibilities under [section 47][71].
     
-    Section 48: replaced, on 18 July 2013, by [section 40][289] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 48: replaced, on 18 July 2013, by [section 40][290] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ##### 49 Secondments
     
 *   (1) The Commissioner may arrange for a State services employee to be seconded elsewhere in the State services (with the agreement of the employee and the relevant chief executives) for the purpose of developing senior leadership and management capability in the State services.
     
-    (2) [Sections 60][290], [61][291], and [65][292] do not apply to the secondment.
+    (2) [Sections 60][291], [61][292], and [65][293] do not apply to the secondment.
     
-    Section 49: substituted, on 25 January 2005, by [section 9][288] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 49: substituted, on 25 January 2005, by [section 9][289] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
     
-    Section 49(1): replaced, on 18 July 2013, by [section 41][293] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 49(1): replaced, on 18 July 2013, by [section 41][294] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ##### 50 Key positions in Public Service
     
@@ -2051,46 +2051,46 @@ Senior leadership and management capability in Public Service
     
     (4) A chief executive may only appoint an employee to a key position with the Commissioner's agreement.
     
-    Section 50: replaced, on 18 July 2013, by [section 42][294] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 50: replaced, on 18 July 2013, by [section 42][295] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ##### 51 Appointments to positions in the senior executive service
     
 *   \[Repealed\]
     
-    Section 51: repealed, on 25 January 2005, by [section 9][288] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 51: repealed, on 25 January 2005, by [section 9][289] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
 
 ##### 52 Conditions of employment for senior executive service
     
 *   \[Repealed\]
     
-    Section 52: repealed, on 25 January 2005, by [section 9][288] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 52: repealed, on 25 January 2005, by [section 9][289] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
 
 ##### 53 Removal from office
     
 *   \[Repealed\]
     
-    Section 53: repealed, on 25 January 2005, by [section 9][288] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 53: repealed, on 25 January 2005, by [section 9][289] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
 
 ##### 54 Conditions where person not reappointed
     
 *   \[Repealed\]
     
-    Section 54: repealed, on 25 January 2005, by [section 9][288] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 54: repealed, on 25 January 2005, by [section 9][289] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
 
 ##### 55 Training for senior executive service
     
 *   \[Repealed\]
     
-    Section 55: repealed, on 25 January 2005, by [section 9][288] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 55: repealed, on 25 January 2005, by [section 9][289] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
 
 ## Part 5  
 Government workforce policy and personnel provisions
     
-*   Part 5 heading: replaced, on 18 July 2013, by [section 43][295] of the State Sector Amendment Act 2013 (2013 No 49).
+*   Part 5 heading: replaced, on 18 July 2013, by [section 43][296] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ### Subpart 1---Government workforce policy
     
-*   Subpart 1: inserted, on 18 July 2013, by [section 44][296] of the State Sector Amendment Act 2013 (2013 No 49).
+*   Subpart 1: inserted, on 18 July 2013, by [section 44][297] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ##### 55A Commissioner's functions in relation to this subpart
     
@@ -2104,7 +2104,7 @@ Government workforce policy and personnel provisions
     
     *   (d) to facilitate the operation of any Government Workforce Policy Statement in conjunction with affected agencies.
     
-    Section 55A: inserted, on 18 July 2013, by [section 44][296] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 55A: inserted, on 18 July 2013, by [section 44][297] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ##### 55B Government workforce policy
     
@@ -2128,11 +2128,11 @@ Government workforce policy and personnel provisions
     
     (5) The Minister may approve government workforce policy as a Government Workforce Policy Statement.
     
-    (6) A Government Workforce Policy Statement is neither a legislative instrument nor a disallowable instrument for the purposes of the [Legislation Act 2012][297] and does not have to be presented to the House of Representatives under [section 41][298] of that Act.
+    (6) A Government Workforce Policy Statement is neither a legislative instrument nor a disallowable instrument for the purposes of the [Legislation Act 2012][298] and does not have to be presented to the House of Representatives under [section 41][299] of that Act.
     
-    Section 55B: inserted, on 18 July 2013, by [section 44][296] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 55B: inserted, on 18 July 2013, by [section 44][297] of the State Sector Amendment Act 2013 (2013 No 49).
     
-    Section 55B(6): replaced, on 5 August 2013, by [section 65][299] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 55B(6): replaced, on 5 August 2013, by [section 65][300] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ##### 55C Government Workforce Policy Statement: process
     
@@ -2144,7 +2144,7 @@ Government workforce policy and personnel provisions
     
     (2) A Government Workforce Policy Statement may be amended, revoked, or replaced in the same way as it may be made.
     
-    Section 55C: inserted, on 18 July 2013, by [section 44][296] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 55C: inserted, on 18 July 2013, by [section 44][297] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ##### 55D Government Workforce Policy Statement: implementation
     
@@ -2160,11 +2160,11 @@ Government workforce policy and personnel provisions
     
     *   (b) determine or alter the content of the law applying to employees or chief executives or the Commissioner.
     
-    Section 55D: inserted, on 18 July 2013, by [section 44][296] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 55D: inserted, on 18 July 2013, by [section 44][297] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ### Subpart 2---Personnel provisions
     
-*   Subpart 2 heading: inserted, on 18 July 2013, by [section 44][296] of the State Sector Amendment Act 2013 (2013 No 49).
+*   Subpart 2 heading: inserted, on 18 July 2013, by [section 44][297] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ##### 56 General principles
     
@@ -2206,11 +2206,11 @@ Government workforce policy and personnel provisions
     
     (4) \[Repealed\]
     
-    Section 56(1): substituted, on 25 January 2005, by [section 10(1)][300] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 56(1): substituted, on 25 January 2005, by [section 10(1)][301] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
     
-    Section 56(2)(c): amended, on 18 July 2013, by [section 45][301] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 56(2)(c): amended, on 18 July 2013, by [section 45][302] of the State Sector Amendment Act 2013 (2013 No 49).
     
-    Section 56(2)(f): substituted, on 25 January 2005, by [section 10(2)][300] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 56(2)(f): substituted, on 25 January 2005, by [section 10(2)][301] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
     
     Section 56(4): repealed, on 25 January 2005, by [section 19(2)][226] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
 
@@ -2222,7 +2222,7 @@ Government workforce policy and personnel provisions
     
     *   (b) all or any Crown entities (except for tertiary education institutions and Crown Research Institutes and any of their subsidiaries):
     
-    *   (ba) companies named in [Schedule 4A][302] of the Public Finance Act 1989:
+    *   (ba) companies named in [Schedule 4A][303] of the Public Finance Act 1989:
     
     *   (c) the Parliamentary Counsel Office:
     
@@ -2234,25 +2234,25 @@ Government workforce policy and personnel provisions
     
     (4) The Commissioner's functions include providing advice and guidance to the State services (except Crown Research Institutes and their subsidiaries) on matters, or at times, that affect the integrity and conduct of those within the State services (including, for example, on the interpretation of relevant standards and on the application of a code of conduct in specific cases).
     
-    Compare: 1988 No 20 [ss 6(ha)][303], [57C(2)][304]
+    Compare: 1988 No 20 [ss 6(ha)][304], [57C(2)][305]
     
-    Section 57: substituted, on 25 January 2005, by [section 11][305] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 57: substituted, on 25 January 2005, by [section 11][306] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
     
-    Section 57(1)(b): amended, on 18 July 2013, by [section 46(1)][306] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 57(1)(b): amended, on 18 July 2013, by [section 46(1)][307] of the State Sector Amendment Act 2013 (2013 No 49).
     
-    Section 57(1)(ba): inserted, on 18 July 2013, by [section 46(2)][306] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 57(1)(ba): inserted, on 18 July 2013, by [section 46(2)][307] of the State Sector Amendment Act 2013 (2013 No 49).
     
-    Section 57(3): replaced, on 18 July 2013, by [section 46(3)][306] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 57(3): replaced, on 18 July 2013, by [section 46(3)][307] of the State Sector Amendment Act 2013 (2013 No 49).
     
-    Section 57(4): inserted, on 18 July 2013, by [section 46(3)][306] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 57(4): inserted, on 18 July 2013, by [section 46(3)][307] of the State Sector Amendment Act 2013 (2013 No 49).
     
-    Section 57 compare note: inserted, on 18 July 2013, by [section 46(4)][306] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 57 compare note: inserted, on 18 July 2013, by [section 46(4)][307] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ##### 57A Agencies must comply with minimum standards except in particular circumstances
     
-*   (1) An agency (including its employees and individuals working as contractors or secondees in relation to a function, duty, or power of the agency) must comply with any standards that apply to it under [section 57][307].
+*   (1) An agency (including its employees and individuals working as contractors or secondees in relation to a function, duty, or power of the agency) must comply with any standards that apply to it under [section 57][308].
     
-    (2) However, an agency referred to in [section 57(1)(b) to (d)][307] may derogate from a particular standard if the agency has---
+    (2) However, an agency referred to in [section 57(1)(b) to (d)][308] may derogate from a particular standard if the agency has---
         
     *   (a) obtained the prior written approval of its responsible Minister to the derogation; and
     
@@ -2260,25 +2260,25 @@ Government workforce policy and personnel provisions
     
     (3) This section does not prevent an agency from applying additional or detailed standards that are consistent with the standards applied to the agency.
     
-    Section 57A: inserted, on 25 January 2005, by [section 11][305] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 57A: inserted, on 25 January 2005, by [section 11][306] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
     
-    Section 57A(1): amended, on 18 July 2013, by [section 47][308] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 57A(1): amended, on 18 July 2013, by [section 47][309] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ##### 57B Breaches of minimum standards
     
-*   The Commissioner may advise the responsible Minister if, in the opinion of the Commissioner, a serious breach of any minimum standard applied to an agency under [section 57][307] has occurred, or is likely to occur.
+*   The Commissioner may advise the responsible Minister if, in the opinion of the Commissioner, a serious breach of any minimum standard applied to an agency under [section 57][308] has occurred, or is likely to occur.
     
-    Section 57B: inserted, on 25 January 2005, by [section 11][305] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 57B: inserted, on 25 January 2005, by [section 11][306] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
 
 ##### 57C Commissioner's powers when setting and enforcing minimum standards
     
-*   (1) The Commissioner may, when acting under [sections 57 to 57B][307] in respect of any agency referred to in [section 57(1)(b) to (d)][307], exercise the powers in [sections 7 to 9][13] that the Commissioner may exercise in respect of departments, including the powers in [section 25][31].
+*   (1) The Commissioner may, when acting under [sections 57 to 57B][308] in respect of any agency referred to in [section 57(1)(b) to (d)][308], exercise the powers in [sections 7 to 9][13] that the Commissioner may exercise in respect of departments, including the powers in [section 25][31].
     
     (2) \[Repealed\]
     
-    Section 57C: inserted, on 25 January 2005, by [section 11][305] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 57C: inserted, on 25 January 2005, by [section 11][306] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
     
-    Section 57C(2): repealed, on 18 July 2013, by [section 48][309] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 57C(2): repealed, on 18 July 2013, by [section 48][310] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ##### 58 Equal employment opportunities
     
@@ -2286,19 +2286,19 @@ Government workforce policy and personnel provisions
     
     (2) \[Repealed\]
     
-    (3) For the purposes of this section and [section 56][310], an _equal employment opportunities programme_ means a programme that is aimed at the identification and elimination of all aspects of policies, procedures, and other institutional barriers that cause or perpetuate, or tend to cause or perpetuate, inequality in respect to the employment of any persons or group of persons.
+    (3) For the purposes of this section and [section 56][311], an _equal employment opportunities programme_ means a programme that is aimed at the identification and elimination of all aspects of policies, procedures, and other institutional barriers that cause or perpetuate, or tend to cause or perpetuate, inequality in respect to the employment of any persons or group of persons.
     
-    Compare: 1988 No 20 [s 6(g)][303]
+    Compare: 1988 No 20 [s 6(g)][304]
     
-    Section 58(1): replaced, on 18 July 2013, by [section 49(1)][311] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 58(1): replaced, on 18 July 2013, by [section 49(1)][312] of the State Sector Amendment Act 2013 (2013 No 49).
     
-    Section 58(2): repealed, on 25 January 2005, by [section 12(1)][312] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 58(2): repealed, on 25 January 2005, by [section 12(1)][313] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
     
-    Section 58(3): amended, on 18 July 2013, by [section 49(2)][311] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 58(3): amended, on 18 July 2013, by [section 49(2)][312] of the State Sector Amendment Act 2013 (2013 No 49).
     
-    Section 58(3): amended, on 25 January 2005, by [section 12(2)][312] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 58(3): amended, on 25 January 2005, by [section 12(2)][313] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
     
-    Section 58 compare note: inserted, on 18 July 2013, by [section 49(3)][311] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 58 compare note: inserted, on 18 July 2013, by [section 49(3)][312] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ##### 59 Employees of departments
     
@@ -2330,7 +2330,7 @@ Government workforce policy and personnel provisions
     
     (5) The chief executive of the department that is responsible for the employment of ministerial staff across all Ministers' offices must have regard to the wishes of the relevant Minister in relation to ministerial staff.
     
-    Section 59: replaced, on 18 July 2013, by [section 50][313] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 59: replaced, on 18 July 2013, by [section 50][314] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ##### 60 Appointments on merit
     
@@ -2370,11 +2370,11 @@ Government workforce policy and personnel provisions
     
     (2) [Sections 60][94], [61][95], and [65][104] do not apply in relation to the offer of an alternative position.
     
-    (3) This section overrides [Part 6A][314] of the Employment Relations Act 2000\.
+    (3) This section overrides [Part 6A][315] of the Employment Relations Act 2000\.
     
-    Compare: 1988 No 20 [ss 30E][315], [30F][316], [61A][317], [61B(1)][318]
+    Compare: 1988 No 20 [ss 30E][316], [30F][317], [61A][318], [61B(1)][319]
     
-    Section 61A: replaced, on 18 July 2013, by [section 51][319] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 61A: replaced, on 18 July 2013, by [section 51][320] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ##### 61AB Transitional provision relating to restriction of redundancy payments
     
@@ -2384,11 +2384,11 @@ Government workforce policy and personnel provisions
     
     (3) For the purposes of this section,---
     
-    _new redundancy-related sections_ means [sections 61A][96] and [61B][98] after their amendment by the [State Sector Amendment Act 2013][320]
+    _new redundancy-related sections_ means [sections 61A][96] and [61B][98] after their amendment by the [State Sector Amendment Act 2013][321]
     
-    _old redundancy-related sections_ means [sections 30C][42], [30D][43], [30E][44], [30F][45], [61A][96], and [61B][98] as they were in force immediately before their repeal by the [State Sector Amendment Act 2013][320].
+    _old redundancy-related sections_ means [sections 30C][42], [30D][43], [30E][44], [30F][45], [61A][96], and [61B][98] as they were in force immediately before their repeal by the [State Sector Amendment Act 2013][321].
     
-    Section 61AB: inserted, on 18 July 2013, by [section 51][320] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 61AB: inserted, on 18 July 2013, by [section 51][321] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ##### 61B Application of employee provisions to transfers of functions between Crown entities and departments
     
@@ -2410,9 +2410,9 @@ Government workforce policy and personnel provisions
     
     *   (b) with all other necessary modifications.
     
-    Compare: 1988 No 20 [s 30D][321]
+    Compare: 1988 No 20 [s 30D][322]
     
-    Section 61B: replaced, on 18 July 2013, by [section 51][319] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 61B: replaced, on 18 July 2013, by [section 51][320] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ##### 61C Union coverage where department ceases to be part of Public Service
     
@@ -2422,9 +2422,9 @@ Government workforce policy and personnel provisions
     
     *   (b) the Minister of State Services.
     
-    Section 61C: inserted, on 19 December 1989, by [section 14][322] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
+    Section 61C: inserted, on 19 December 1989, by [section 14][323] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
     
-    Section 61C: amended, on 18 July 2013, by [section 52][323] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 61C: amended, on 18 July 2013, by [section 52][324] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ##### 61D Application of collective agreements to employees following reorganisations
     
@@ -2442,13 +2442,13 @@ Government workforce policy and personnel provisions
     
     (3) Subsection (2) does not bind an employee to a collective agreement, or entitle an employee to be bound by or enforce a collective agreement, if the employee would not otherwise be bound by, or be entitled to be bound by or enforce, that agreement.
     
-    (4) This section limits which employees may be bound by collective agreements (including collective employment contracts), and the coverage of those agreements, under [Part 6][106] of this Act and [sections 56(1)][324], [57][325], [62(3)][326], [63(3)][327], and [243][328] of the Employment Relations Act 2000\.
+    (4) This section limits which employees may be bound by collective agreements (including collective employment contracts), and the coverage of those agreements, under [Part 6][106] of this Act and [sections 56(1)][325], [57][326], [62(3)][327], [63(3)][328], and [243][329] of the Employment Relations Act 2000\.
     
     (5) This section does not apply to a collective agreement to the extent that the parties agree otherwise.
     
-    Compare: 1988 No 20 [s 30G][329]
+    Compare: 1988 No 20 [s 30G][330]
     
-    Section 61D: inserted, on 18 July 2013, by [section 53][330] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 61D: inserted, on 18 July 2013, by [section 53][331] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ##### 62 Acting appointments
     
@@ -2486,7 +2486,7 @@ Government workforce policy and personnel provisions
     
 *   [Sections 60][94], [61][95], [64][103], and [65][104] do not apply in relation to ministerial staff.
     
-    Section 66: replaced, on 18 July 2013, by [section 54][331] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 66: replaced, on 18 July 2013, by [section 54][332] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ## Part 6  
 Application of Employment Relations Act 2000
@@ -2496,17 +2496,17 @@ Application of Employment Relations Act 2000
 
 ##### 67 Application to Public Service of Employment Relations Act 2000
     
-*   Except as otherwise provided in this Act, the [Employment Relations Act 2000][332] applies in relation to the Public Service.
+*   Except as otherwise provided in this Act, the [Employment Relations Act 2000][333] applies in relation to the Public Service.
     
     Section 67: substituted, on 2 October 2000, by [section 240][222] of the Employment Relations Act 2000 (2000 No 24).
 
 ##### 68 Negotiation of conditions of employment
     
-*   (1) The Commissioner is responsible for negotiating under the [Employment Relations Act 2000][332] every collective agreement applicable to employees of any department of the Public Service as if the Commissioner were the employer.
+*   (1) The Commissioner is responsible for negotiating under the [Employment Relations Act 2000][333] every collective agreement applicable to employees of any department of the Public Service as if the Commissioner were the employer.
     
     (2) Without limiting subsection (1), it is declared that, for the purposes of initiating bargaining for a collective agreement, good faith bargaining for a collective agreement, and entering into collective agreements,---
         
-    *   (a) the Commissioner has the same rights, duties, and obligations under the [Employment Relations Act 2000][332] as the Commissioner would have if the Commissioner were the employer; and
+    *   (a) the Commissioner has the same rights, duties, and obligations under the [Employment Relations Act 2000][333] as the Commissioner would have if the Commissioner were the employer; and
     
     *   (b) employees of each department affected are to be treated as if they were all employees of the Commissioner.
     
@@ -2528,7 +2528,7 @@ Application of Employment Relations Act 2000
     
     *   (b) the employees of that department who are or become members of the union and whose work comes within the coverage clause in the collective agreement.
     
-    (6) Except as provided in this section, an employer who is bound by a collective agreement under subsection (5) has the rights, obligations, and duties that that employer would have, in respect of that collective agreement, under the [Employment Relations Act 2000][332] as if that employer were a party to that agreement.
+    (6) Except as provided in this section, an employer who is bound by a collective agreement under subsection (5) has the rights, obligations, and duties that that employer would have, in respect of that collective agreement, under the [Employment Relations Act 2000][333] as if that employer were a party to that agreement.
     
     Section 68: substituted, on 2 October 2000, by [section 240][222] of the Employment Relations Act 2000 (2000 No 24).
 
@@ -2540,7 +2540,7 @@ Application of Employment Relations Act 2000
     
     *   (b) in relation to a dispute about the interpretation, application, or operation of any collective agreement, the employer is the chief executive of the department acting, if the Commissioner so requires, together with or in consultation with the Commissioner; and
     
-    *   (c) in relation to any other employment relationship problem (within the meaning of the [Employment Relations Act 2000][332]), the employer is the chief executive of the department.
+    *   (c) in relation to any other employment relationship problem (within the meaning of the [Employment Relations Act 2000][333]), the employer is the chief executive of the department.
     
     Section 69: substituted, on 2 October 2000, by [section 240][222] of the Employment Relations Act 2000 (2000 No 24).
 
@@ -2575,17 +2575,17 @@ Education service
 
 ##### 73 Application of Employment Relations Act 2000
     
-*   Except as otherwise provided in this Act, the [Employment Relations Act 2000][332] applies in relation to the education service.
+*   Except as otherwise provided in this Act, the [Employment Relations Act 2000][333] applies in relation to the education service.
     
     Section 73: substituted, on 2 October 2000, by [section 240][222] of the Employment Relations Act 2000 (2000 No 24).
 
 ##### 74 Negotiation of conditions of employment
     
-*   (1) Except as provided in [section 74C][122], the Commissioner is responsible for negotiating under the [Employment Relations Act 2000][332] every collective agreement applicable to employees of the education service as if the Commissioner were the employer.
+*   (1) Except as provided in [section 74C][122], the Commissioner is responsible for negotiating under the [Employment Relations Act 2000][333] every collective agreement applicable to employees of the education service as if the Commissioner were the employer.
     
     (2) Without limiting subsection (1), it is declared that, for the purposes of initiating bargaining for a collective agreement, good faith bargaining for a collective agreement, and entering into collective agreements,---
         
-    *   (a) the Commissioner has the same rights, duties, and obligations under the [Employment Relations Act 2000][332] as the Commissioner would have if the Commissioner were the employer; and
+    *   (a) the Commissioner has the same rights, duties, and obligations under the [Employment Relations Act 2000][333] as the Commissioner would have if the Commissioner were the employer; and
     
     *   (b) employees of the education service are to be treated as if they were all employees of the Commissioner.
     
@@ -2615,13 +2615,13 @@ Education service
     
     *   (b) the employees in the education service who are, or who become, members of the union.
     
-    (7) Except as provided in this section, an employer who is bound by a collective agreement under subsection (6) has the rights, obligations, and duties that that employer would have, in respect of that collective agreement, under the [Employment Relations Act 2000][332] as if that employer were a party to that agreement.
+    (7) Except as provided in this section, an employer who is bound by a collective agreement under subsection (6) has the rights, obligations, and duties that that employer would have, in respect of that collective agreement, under the [Employment Relations Act 2000][333] as if that employer were a party to that agreement.
     
     Section 74: substituted, on 2 October 2000, by [section 240][222] of the Employment Relations Act 2000 (2000 No 24).
 
 ##### 74AA Commissioner's powers when collective agreements are negotiated
     
-*   (1) During the negotiations for a collective agreement that is to bind any employees of a Board of Trustees, the Commissioner has, for the purpose of those negotiations, all the rights, duties, and powers of an employer under the [Employment Relations Act 2000][332] in respect of those employees.
+*   (1) During the negotiations for a collective agreement that is to bind any employees of a Board of Trustees, the Commissioner has, for the purpose of those negotiations, all the rights, duties, and powers of an employer under the [Employment Relations Act 2000][333] in respect of those employees.
     
     (2) To avoid doubt and without limiting the generality of subsection (1), it is declared that the powers referred to in that subsection include the power to lock out or suspend employees.
     
@@ -2629,7 +2629,7 @@ Education service
         
     *   (a) separately advise any employee who is included in any such class; or
     
-    *   (b) comply with [section 89][333] of the Employment Relations Act 2000\.
+    *   (b) comply with [section 89][334] of the Employment Relations Act 2000\.
     
     (4) In any case where the Commissioner has suspended or locked out an employee by virtue of this section, the Commissioner may, at his or her discretion, give either or both of the following directions:
         
@@ -2643,7 +2643,7 @@ Education service
     
     *   (b) must be followed by the person.
     
-    (6) The Commissioner may give any notice that, as a result of a direction under subsection (4)(b), is required to be given to an employee under [section 6(3)(b)][334] of the Wages Protection Act 1983\.
+    (6) The Commissioner may give any notice that, as a result of a direction under subsection (4)(b), is required to be given to an employee under [section 6(3)(b)][335] of the Wages Protection Act 1983\.
     
     (7) Subsection (1)---
         
@@ -2653,7 +2653,7 @@ Education service
     
     (8) In this section and in [sections 74AB to 74AD][117], _Board of Trustees_ means a Board of Trustees constituted under [Part 9][210] of the Education Act 1989, and includes any Commissioner appointed under that Act to act in place of the Board of Trustees.
     
-    Section 74AA: inserted, on 6 April 2004, by [section 4][335] of the State Sector Amendment Act 2004 (2004 No 15).
+    Section 74AA: inserted, on 6 April 2004, by [section 4][336] of the State Sector Amendment Act 2004 (2004 No 15).
 
 ##### 74AB Boards of Trustees indemnified by Commissioner
     
@@ -2665,11 +2665,11 @@ Education service
     
     *   (b) is engaged in without reasonable care.
     
-    Section 74AB: inserted, on 6 April 2004, by [section 4][335] of the State Sector Amendment Act 2004 (2004 No 15).
+    Section 74AB: inserted, on 6 April 2004, by [section 4][336] of the State Sector Amendment Act 2004 (2004 No 15).
 
 ##### 74AC Strikes in schools to be notified
     
-*   (1) A strike by employees of any Board of Trustees is not lawful for the purposes of the [Employment Relations Act 2000][332] unless the Commissioner and each Board of Trustees is given notice in written or electronic form of the proposed strike 3 days before the commencement of the proposed strike.
+*   (1) A strike by employees of any Board of Trustees is not lawful for the purposes of the [Employment Relations Act 2000][333] unless the Commissioner and each Board of Trustees is given notice in written or electronic form of the proposed strike 3 days before the commencement of the proposed strike.
     
     (2) The notice required by subsection (1) must state---
         
@@ -2689,9 +2689,9 @@ Education service
     
     *   (c) the employee's name has not been notified to the Commissioner in a current notice given under [section 74AD][119].
     
-    (5) The provisions of this section are in addition to, and not in derogation of, the provisions of the [Employment Relations Act 2000][332].
+    (5) The provisions of this section are in addition to, and not in derogation of, the provisions of the [Employment Relations Act 2000][333].
     
-    Section 74AC: inserted, on 6 April 2004, by [section 4][335] of the State Sector Amendment Act 2004 (2004 No 15).
+    Section 74AC: inserted, on 6 April 2004, by [section 4][336] of the State Sector Amendment Act 2004 (2004 No 15).
 
 ##### 74AD Employers to notify Commissioner about participation in strikes
     
@@ -2707,9 +2707,9 @@ Education service
     
     (4) The Commissioner may, at the Commissioner's discretion, require a Board of Trustees to inform the Commissioner, by a specified date, as to the Board of Trustees' compliance with the provisions of, or any directions given under, this section.
     
-    (5) If the Commissioner has reasonable grounds for believing that a Board of Trustees has failed to comply with the provisions of, or any directions given under, this section, the Commissioner may report those grounds to the Minister of the Crown who is for the time being responsible for the administration of [Part 8A][336] of the Education Act 1989\.
+    (5) If the Commissioner has reasonable grounds for believing that a Board of Trustees has failed to comply with the provisions of, or any directions given under, this section, the Commissioner may report those grounds to the Minister of the Crown who is for the time being responsible for the administration of [Part 8A][337] of the Education Act 1989\.
     
-    Section 74AD: inserted, on 6 April 2004, by [section 4][335] of the State Sector Amendment Act 2004 (2004 No 15).
+    Section 74AD: inserted, on 6 April 2004, by [section 4][336] of the State Sector Amendment Act 2004 (2004 No 15).
 
 ##### 74A Personal grievances and disputes
     
@@ -2719,7 +2719,7 @@ Education service
     
     *   (b) in relation to a dispute about the interpretation, application, or operation of any collective agreement, the employer is the employer as defined in [section 2][4], acting, if the Commissioner so requires, together or in consultation with the Commissioner; and
     
-    *   (c) in relation to any other employment relationship problem (within the meaning of the [Employment Relations Act 2000][332]), the employer is the employer as defined in [section 2][4].
+    *   (c) in relation to any other employment relationship problem (within the meaning of the [Employment Relations Act 2000][333]), the employer is the employer as defined in [section 2][4].
     
     Section 74A: substituted, on 2 October 2000, by [section 240][222] of the Employment Relations Act 2000 (2000 No 24).
 
@@ -2755,9 +2755,9 @@ Education service
     
     *   (b) jointly through any organisation of employers of persons employed in any tertiary education institution---
     
-    for negotiating under the [Employment Relations Act 2000][332] collective agreements that are applicable to any group of employees in any tertiary education institution.
+    for negotiating under the [Employment Relations Act 2000][333] collective agreements that are applicable to any group of employees in any tertiary education institution.
     
-    (3) Before entering into any collective agreement under the [Employment Relations Act 2000][332], the chief executive of each tertiary education institution or any organisation of employers representing jointly such chief executives, must consult with the State Services Commissioner over the conditions of employment to be included in the collective agreement.
+    (3) Before entering into any collective agreement under the [Employment Relations Act 2000][333], the chief executive of each tertiary education institution or any organisation of employers representing jointly such chief executives, must consult with the State Services Commissioner over the conditions of employment to be included in the collective agreement.
     
     Section 74C: inserted, on 15 May 1991, by section 9 of the State Sector Amendment Act 1991 (1991 No 31).
     
@@ -2821,7 +2821,7 @@ Education service
     
     Section 76: substituted, on 15 May 1991, by section 9 of the State Sector Amendment Act 1991 (1991 No 31).
     
-    Section 76(2): amended, on 1 July 2013, by [section 413][337] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 76(2): amended, on 1 July 2013, by [section 413][338] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 76(4): substituted, on 2 October 2000, by [section 240][222] of the Employment Relations Act 2000 (2000 No 24).
 
@@ -2829,7 +2829,7 @@ Education service
     
 *   Education service chief executives and employees are immune from liability in civil proceedings for good-faith actions or omissions in pursuance or intended pursuance of their duties, functions, or powers.
     
-    Section 77: replaced, on 18 July 2013, by [section 55][338] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 77: replaced, on 18 July 2013, by [section 55][339] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ##### 77AA Offence to attempt to influence employer
     
@@ -2846,7 +2846,7 @@ Education service
 ## Part 7A  
 Personnel provisions in relation to education service
     
-*   Part 7A: inserted, on 1 October 1989, by [section 3][339] of the State Sector Amendment Act 1989 (1989 No 67).
+*   Part 7A: inserted, on 1 October 1989, by [section 3][340] of the State Sector Amendment Act 1989 (1989 No 67).
 
 ##### 77A General principles
     
@@ -2890,11 +2890,11 @@ Personnel provisions in relation to education service
     
     *   (b) the well-being of students attending the institution.
     
-    Section 77A: inserted, on 1 October 1989, by [section 3][339] of the State Sector Amendment Act 1989 (1989 No 67).
+    Section 77A: inserted, on 1 October 1989, by [section 3][340] of the State Sector Amendment Act 1989 (1989 No 67).
     
-    Section 77A(1): substituted, on 25 January 2005, by [section 13(1)][340] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 77A(1): substituted, on 25 January 2005, by [section 13(1)][341] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
     
-    Section 77A(2)(f): substituted, on 25 January 2005, by [section 13(2)][340] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 77A(2)(f): substituted, on 25 January 2005, by [section 13(2)][341] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
 
 ##### 77B Code of conduct
     
@@ -2908,17 +2908,17 @@ Personnel provisions in relation to education service
     
     *   (b) the organisations of employees employed in the education service that represent the employees who will be bound by the code of conduct; and
     
-    *   (c) the Commissioner, and must have regard to any code of conduct issued by the Commissioner under [section 57][307].
+    *   (c) the Commissioner, and must have regard to any code of conduct issued by the Commissioner under [section 57][308].
     
     (4) Nothing in this section prevents the prescribing by an employer of standards of integrity or conduct that are to apply to that employer's employees (being standards which are not inconsistent with any code of conduct issued by the chief executive of the Ministry under this section and which apply in relation to employees of that employer).
     
     (5) Nothing in this section shall apply to any tertiary education institution.
     
-    Section 77B: inserted, on 1 October 1989, by [section 3][339] of the State Sector Amendment Act 1989 (1989 No 67).
+    Section 77B: inserted, on 1 October 1989, by [section 3][340] of the State Sector Amendment Act 1989 (1989 No 67).
     
-    Section 77B(3)(c): substituted, on 25 January 2005, by [section 14][341] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 77B(3)(c): substituted, on 25 January 2005, by [section 14][342] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
     
-    Section 77B(5): added, on 19 December 1989, by [section 19][342] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
+    Section 77B(5): added, on 19 December 1989, by [section 19][343] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
     
     Section 77B(5): amended, on 25 January 2005, pursuant to [section 17(b)][224] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
 
@@ -2940,15 +2940,15 @@ Personnel provisions in relation to education service
     
     (4) Nothing in this section shall apply to any teachers employed in any tertiary education institution, or early childhood institution that is not a free kindergarten.
     
-    Section 77C: inserted, on 1 October 1989, by [section 3][339] of the State Sector Amendment Act 1989 (1989 No 67).
+    Section 77C: inserted, on 1 October 1989, by [section 3][340] of the State Sector Amendment Act 1989 (1989 No 67).
     
-    Section 77C(1): amended, on 18 July 2013, by [section 56][343] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 77C(1): amended, on 18 July 2013, by [section 56][344] of the State Sector Amendment Act 2013 (2013 No 49).
     
     Section 77C(2)(a): amended, on 1 February 2002, by [section 83][225] of the Education Standards Act 2001 (2001 No 88).
     
-    Section 77C(4): added, on 19 December 1989, by [section 20][344] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
+    Section 77C(4): added, on 19 December 1989, by [section 20][345] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
     
-    Section 77C(4): amended, on 17 May 2006, by [section 58][345] of the Education Amendment Act 2006 (2006 No 19).
+    Section 77C(4): amended, on 17 May 2006, by [section 58][346] of the Education Amendment Act 2006 (2006 No 19).
     
     Section 77C(4): amended, on 25 January 2005, by [section 17(c)][224] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
 
@@ -2964,13 +2964,13 @@ Personnel provisions in relation to education service
     
     (5) For the purposes of this section and [section 77A][130], an _equal employment opportunities programme_ means a programme that is aimed at the identification and elimination of all aspects of policies, procedures, and other institutional barriers that cause or perpetuate, or tend to cause or perpetuate, inequality in respect to the employment of any persons or group of persons.
     
-    Section 77D: inserted, on 1 October 1989, by [section 3][339] of the State Sector Amendment Act 1989 (1989 No 67).
+    Section 77D: inserted, on 1 October 1989, by [section 3][340] of the State Sector Amendment Act 1989 (1989 No 67).
     
-    Section 77D(2): repealed, on 25 January 2005, by [section 15][346] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 77D(2): repealed, on 25 January 2005, by [section 15][347] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
     
-    Section 77D(3): repealed, on 25 January 2005, by [section 15][346] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 77D(3): repealed, on 25 January 2005, by [section 15][347] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
     
-    Section 77D(4): repealed, on 25 January 2005, by [section 15][346] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 77D(4): repealed, on 25 January 2005, by [section 15][347] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
 
 ##### 77E Employees of institutions
     
@@ -2982,7 +2982,7 @@ Personnel provisions in relation to education service
     
     (2) Unless expressly provided to the contrary in this Act, the employer shall have all the rights, duties, and powers of an ordinary employer in respect of the persons employed in that institution.
     
-    Section 77E: inserted, on 1 October 1989, by [section 3][339] of the State Sector Amendment Act 1989 (1989 No 67).
+    Section 77E: inserted, on 1 October 1989, by [section 3][340] of the State Sector Amendment Act 1989 (1989 No 67).
     
     Section 77E(1)(b): substituted, on 2 October 2000, by [section 240][222] of the Employment Relations Act 2000 (2000 No 24).
 
@@ -2990,25 +2990,25 @@ Personnel provisions in relation to education service
     
 *   In matters relating to decisions on individual employees (whether matters relating to the appointment, promotion, demotion, transfer, disciplining, or the cessation of the employment of any employee, or other matters), the employer shall act independently.
     
-    Section 77F: inserted, on 1 October 1989, by [section 3][339] of the State Sector Amendment Act 1989 (1989 No 67).
+    Section 77F: inserted, on 1 October 1989, by [section 3][340] of the State Sector Amendment Act 1989 (1989 No 67).
 
 ##### 77G Appointments on merit
     
 *   An employer in making an appointment under this Act shall give preference to the person who is best suited to the position.
     
-    Section 77G: inserted, on 1 October 1989, by [section 3][339] of the State Sector Amendment Act 1989 (1989 No 67).
+    Section 77G: inserted, on 1 October 1989, by [section 3][340] of the State Sector Amendment Act 1989 (1989 No 67).
 
 ##### 77H Obligation to notify vacancies
     
 *   Where an employer intends to fill a position that is vacant or is to become vacant in the institution (other than with an acting or temporary or casual or relieving employee), the employer shall, wherever practicable, notify the vacancy or prospective vacancy in a manner sufficient to enable suitably qualified persons to apply for the position.
     
-    Section 77H: inserted, on 1 October 1989, by [section 3][339] of the State Sector Amendment Act 1989 (1989 No 67).
+    Section 77H: inserted, on 1 October 1989, by [section 3][340] of the State Sector Amendment Act 1989 (1989 No 67).
     
-    Section 77H: amended, on 19 December 1989, by [section 21][347] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
+    Section 77H: amended, on 19 December 1989, by [section 21][348] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
 
 ##### 77HA Restriction of compensation for technical redundancy arising from closure or merger of schools
     
-*   (1) An employee in a school is not entitled to receive any payment or other benefit on the ground that his or her position in the school (the _previous position_) has ceased to exist because the school is affected by a merger under [section 156A][348] of the Education Act 1989 or is closed under [section 154][349] of that Act and, before the date on which the merger or the closure takes effect,---
+*   (1) An employee in a school is not entitled to receive any payment or other benefit on the ground that his or her position in the school (the _previous position_) has ceased to exist because the school is affected by a merger under [section 156A][349] of the Education Act 1989 or is closed under [section 154][350] of that Act and, before the date on which the merger or the closure takes effect,---
         
     *   (a) the employee is offered in writing employment in an equivalent position (whether or not the employee accepts the offer) in the continuing school or in the replacement school or in another school directly affected by the merger or the closure; or
     
@@ -3032,19 +3032,19 @@ Personnel provisions in relation to education service
     
     (5) A collective employment agreement that binds employees in schools may provide, consistently with subsections (1) and (2), for the manner in which those subsections are to apply to those employees.
     
-    Section 77HA: inserted, on 6 April 2004, by [section 5][350] of the State Sector Amendment Act 2004 (2004 No 15).
+    Section 77HA: inserted, on 6 April 2004, by [section 5][351] of the State Sector Amendment Act 2004 (2004 No 15).
 
 ##### 77HB Appointment of employees following closure or merger of schools
     
 *   (1) [Sections 77G][136] and [77H][137] do not apply to an appointment to a position in a school if---
         
-    *   (a) the appointment is made in connection with the closure of a school under [section 154][349] of the Education Act 1989 or the merger of schools under [section 156A][348] of that Act; and
+    *   (a) the appointment is made in connection with the closure of a school under [section 154][350] of the Education Act 1989 or the merger of schools under [section 156A][349] of that Act; and
     
     *   (b) the position that the person previously held has ceased to exist as a result of the closure or merger.
     
     (2) Subsection (1) does not apply to the appointment of an employee to the position of principal.
     
-    Section 77HB: inserted, on 6 April 2004, by [section 5][350] of the State Sector Amendment Act 2004 (2004 No 15).
+    Section 77HB: inserted, on 6 April 2004, by [section 5][351] of the State Sector Amendment Act 2004 (2004 No 15).
 
 ##### 77I Acting appointments
     
@@ -3052,18 +3052,18 @@ Personnel provisions in relation to education service
     
     (2) No such direction and no acts done by any employee acting pursuant to any such direction shall in any proceedings be questioned on the ground that the occasion for the direction had not arisen or had ceased, or on the ground that the employee has not been appointed to any position to which the direction relates.
     
-    Section 77I: inserted, on 1 October 1989, by [section 3][339] of the State Sector Amendment Act 1989 (1989 No 67).
+    Section 77I: inserted, on 1 October 1989, by [section 3][340] of the State Sector Amendment Act 1989 (1989 No 67).
 
 ## Part 7B  
 Senior appointments in education service
     
-*   Part 7B: inserted, on 1 October 1989, by [section 3][339] of the State Sector Amendment Act 1989 (1989 No 67).
+*   Part 7B: inserted, on 1 October 1989, by [section 3][340] of the State Sector Amendment Act 1989 (1989 No 67).
 
 ##### 77IA Chief executives of institutions
     
 *   Notwithstanding anything to the contrary in any other enactment, the appointment and conditions of employment of every chief executive of a tertiary education institution shall be determined under this Act and not otherwise.
     
-    Section 77IA: inserted, on 19 December 1989, by [section 22][351] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
+    Section 77IA: inserted, on 19 December 1989, by [section 22][352] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
     
     Section 77IA: amended, on 25 January 2005, pursuant to [section 17(b)][224] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
 
@@ -3097,7 +3097,7 @@ Senior appointments in education service
     
     *   (g) will promote equal employment opportunities.
     
-    Section 77IB: inserted, on 19 December 1989, by [section 22][351] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
+    Section 77IB: inserted, on 19 December 1989, by [section 22][352] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
     
     Section 77IB(1): amended, on 25 January 2005, pursuant to [section 17(b)][224] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
     
@@ -3107,7 +3107,7 @@ Senior appointments in education service
     
 *   A Council may reappoint its existing chief executive for a further term without first notifying the impending vacancy or examining other applicants.
     
-    Section 77IC: inserted, on 19 December 1989, by [section 22][351] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
+    Section 77IC: inserted, on 19 December 1989, by [section 22][352] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
 
 ##### 77ID Conditions of employment of chief executive
     
@@ -3117,7 +3117,7 @@ Senior appointments in education service
     
     (3) Except where specific conditions of employment for a chief executive are provided in this Act, the conditions of employment of a chief executive shall be determined in each case by agreement between the Council of the institution and the chief executive, but the Council shall obtain the written concurrence of the State Services Commissioner to the conditions of employment before finalising the conditions of employment with the chief executive.
     
-    Section 77ID: inserted, on 19 December 1989, by [section 22][351] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
+    Section 77ID: inserted, on 19 December 1989, by [section 22][352] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
     
     Section 77ID(3): amended, on 19 December 1989, pursuant to [section 33(1)][269] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
 
@@ -3125,7 +3125,7 @@ Senior appointments in education service
     
 *   The Council, for just cause or excuse, may remove the chief executive from office.
     
-    Section 77IE: inserted, on 19 December 1989, by [section 22][351] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
+    Section 77IE: inserted, on 19 December 1989, by [section 22][352] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
 
 ##### 77IF Acting chief executive
     
@@ -3141,7 +3141,7 @@ Senior appointments in education service
     
     (3) The Council of the tertiary education institution shall determine the conditions of employment that are to apply to any person directed under subsection (1) to exercise and perform any of the functions, powers, and duties of a chief executive.
     
-    Section 77IF: inserted, on 19 December 1989, by [section 22][351] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
+    Section 77IF: inserted, on 19 December 1989, by [section 22][352] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
     
     Section 77IF(1): amended, on 25 January 2005, pursuant to [section 17(b)][224] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
     
@@ -3185,25 +3185,25 @@ Senior appointments in education service
     
 *   \[Repealed\]
     
-    Section 78: repealed, on 1 October 1989, by [section 3][339] of the State Sector Amendment Act 1989 (1989 No 67).
+    Section 78: repealed, on 1 October 1989, by [section 3][340] of the State Sector Amendment Act 1989 (1989 No 67).
 
 ##### 79 General principles
     
 *   \[Repealed\]
     
-    Section 79: repealed, on 1 October 1989, by [section 3][339] of the State Sector Amendment Act 1989 (1989 No 67).
+    Section 79: repealed, on 1 October 1989, by [section 3][340] of the State Sector Amendment Act 1989 (1989 No 67).
 
 ##### 80 Equal employment opportunities
     
 *   \[Repealed\]
     
-    Section 80: repealed, on 1 October 1989, by [section 3][339] of the State Sector Amendment Act 1989 (1989 No 67).
+    Section 80: repealed, on 1 October 1989, by [section 3][340] of the State Sector Amendment Act 1989 (1989 No 67).
 
 ##### 81 Amendments to Education Act 1964
     
 *   \[Repealed\]
     
-    Section 81: repealed, on 1 October 1989, by [section 3][339] of the State Sector Amendment Act 1989 (1989 No 67).
+    Section 81: repealed, on 1 October 1989, by [section 3][340] of the State Sector Amendment Act 1989 (1989 No 67).
 
 ## Part 8  
 Miscellaneous provisions
@@ -3224,7 +3224,7 @@ Miscellaneous provisions
 
 #### Superannuation
     
-*   Heading: inserted, on 1 August 1990, by [section 2][352] of the State Sector Amendment Act 1990 (1990 No 78).
+*   Heading: inserted, on 1 August 1990, by [section 2][353] of the State Sector Amendment Act 1990 (1990 No 78).
 
 ##### 84 Interpretation
     
@@ -3238,7 +3238,7 @@ Miscellaneous provisions
         
     *   (a) means a person who pays, or is liable to pay, to any person (being an employee) any earnings as an employer; but
     
-    *   (b) means the chief executive of the Ministry within the meaning of [section 91A(1)][353] of the Education Act 1989, for the duration of the application period in that section, in relation to---
+    *   (b) means the chief executive of the Ministry within the meaning of [section 91A(1)][354] of the Education Act 1989, for the duration of the application period in that section, in relation to---
             
         *   (i) an institution that is subject to [Part 9][210] of that Act; or
         
@@ -3254,9 +3254,9 @@ Miscellaneous provisions
     
     *   (b) any employer within the meaning of this section
     
-    _superannuation scheme_ or _scheme_ has the same meaning as in the [Superannuation Schemes Act 1989][354].
+    _superannuation scheme_ or _scheme_ has the same meaning as in the [Superannuation Schemes Act 1989][355].
     
-    Section 84: substituted, on 25 January 2005, by [section 16(1)][355] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 84: substituted, on 25 January 2005, by [section 16(1)][356] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
 
 ##### 84A Power to establish superannuation schemes for officers and employees
     
@@ -3270,13 +3270,13 @@ Miscellaneous provisions
     
     *   (d) provide arrangements in respect of the superannuation of any individual officer or employee.
     
-    Section 84A: substituted, on 25 January 2005, by [section 16(1)][355] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 84A: substituted, on 25 January 2005, by [section 16(1)][356] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
 
 ##### 84B Contributions to superannuation schemes
     
 *   An employer in the State services may contribute to a superannuation scheme for the purpose of providing retirement benefits to its officers or employees (or both) only if---
         
-    *   (a) the scheme is registered under the [Superannuation Schemes Act 1989][354]; and
+    *   (a) the scheme is registered under the [Superannuation Schemes Act 1989][355]; and
     
     *   (b) the scheme provides that the sum of all benefits (including any lump sum payments, annuities, and other benefits) payable from the scheme in respect of any member of the scheme will not exceed the sum of---
             
@@ -3300,19 +3300,19 @@ Miscellaneous provisions
     
     *   (h) the trust deed of the scheme does not permit amendments to be made to the scheme that would result in any provision of paragraphs (a) to (g) ceasing to apply to the scheme.
     
-    Section 84B: substituted, on 25 January 2005, by [section 16(1)][355] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 84B: substituted, on 25 January 2005, by [section 16(1)][356] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
 
 ##### 84C Obligation to obtain confirmation from Government Actuary that scheme meets requirements
     
 *   \[Repealed\]
     
-    Section 84C: repealed, on 25 January 2005, by [section 16(1)][355] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 84C: repealed, on 25 January 2005, by [section 16(1)][356] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
 
 ##### 84D Contributions to superannuation schemes
     
 *   \[Repealed\]
     
-    Section 84D: repealed, on 25 January 2005, by [section 16(1)][355] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 84D: repealed, on 25 January 2005, by [section 16(1)][356] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
 
 ##### 85 Offence to attempt to influence Commissioner or chief executive
     
@@ -3330,9 +3330,9 @@ Miscellaneous provisions
     
     Section 85 heading: amended, on 19 December 1989, pursuant to [section 33(1)][269] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
     
-    Section 85(1): amended, on 18 July 2013, by [section 57][356] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 85(1): amended, on 18 July 2013, by [section 57][357] of the State Sector Amendment Act 2013 (2013 No 49).
     
-    Section 85(2): amended, on 1 July 2013, by [section 413][337] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 85(2): amended, on 1 July 2013, by [section 413][338] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 85(3): amended, on 19 December 1989, pursuant to [section 33(1)][269] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
     
@@ -3344,9 +3344,9 @@ Miscellaneous provisions
     
 *   (1) Public Service chief executives and employees are immune from liability in civil proceedings for good-faith actions or omissions in pursuance or intended pursuance of their duties, functions, or powers.
     
-    (2) _See also_ [section 6][357] of the Crown Proceedings Act 1950\.
+    (2) _See also_ [section 6][358] of the Crown Proceedings Act 1950\.
     
-    Section 86: replaced, on 18 July 2013, by [section 58][358] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 86: replaced, on 18 July 2013, by [section 58][359] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ##### 87 Amendments to other enactments
     
@@ -3384,7 +3384,7 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 91: repealed, on 18 July 2013, by [section 59][359] of the State Sector Amendment Act 2013 (2013 No 49).
+    Section 91: repealed, on 18 July 2013, by [section 59][360] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ##### 92 Transitional provisions for senior executive service
     
@@ -3434,7 +3434,7 @@ Miscellaneous provisions
     
     (8) The Commission may make an adjustment, with effect from the commencement of 1 April 1988, to the salaries of any person or group of persons who, at the commencement of this Act,---
         
-    *   (a) held positions to which [section 12(1)(a)][360] of the Higher Salaries Commission Act 1977 applied; or
+    *   (a) held positions to which [section 12(1)(a)][361] of the Higher Salaries Commission Act 1977 applied; or
     
     *   (b) belonged to a group or class of employees whose salary scale had been the subject of an adjustment that took effect on 10 November 1987 but who have not received an adjustment of at least 7% to their salaries as a result of that adjustment.
     
@@ -3579,9 +3579,9 @@ Miscellaneous provisions
 ## Schedule 1  
 Departments of the Public Service
 
-[ss 2(1)][361], [27][34]
+[ss 2(1)][362], [27][34]
 
-*   Schedule 1: substituted, on 19 December 1989, by [section 28(1)][362] of the State Sector Amendment Act 1989 (1989 No 136).
+*   Schedule 1: substituted, on 19 December 1989, by [section 28(1)][363] of the State Sector Amendment Act 1989 (1989 No 136).
 
 Canterbury Earthquake Recovery Authority
 
@@ -3641,65 +3641,65 @@ Statistics New Zealand
 
 The Treasury
     
-*   Schedule 1 Archives New Zealand: repealed, on 21 April 2005, by [section 67(1)][363] of the Public Records Act 2005 (2005 No 40).
-*   Schedule 1 Archives New Zealand (Te Rua Mahara o te Kāwanatanga): repealed, on 1 February 2011, by [section 19][364] of the Public Records Amendment Act (No 2) 2010 (2010 No 133).
-*   Schedule 1 Audit Department: repealed, on 1 July 2001, by [section 53][287] of the Public Audit Act 2001 (2001 No 10).
-*   Schedule 1 Canterbury Earthquake Recovery Authority: inserted, on 29 March 2011, by [clause 3][365] of the State Sector (Canterbury Earthquake Recovery Authority) Order 2011 (SR 2011/65).
-*   Schedule 1 Customs Department: repealed, on 1 October 1996, by [section 289(1)][366] of the Customs and Excise Act 1996 (1996 No 27).
-*   Schedule 1 Department for Courts: repealed, on 1 October 2003, by [section 7(1)(a)][367] of the State Sector Amendment Act 2003 (2003 No 41).
-*   Schedule 1 Department of Building and Housing: repealed, on 1 July 2012, by [clause 4(1)][368] of the State Sector (Ministry of Business, Innovation, and Employment) Order 2012 (SR 2012/91).
-*   Schedule 1 Department of Child, Youth and Family Services: repealed, on 1 July 2006, by [clause 3][369] of the State Sector (Department of Child, Youth and Family Services) Order 2006 (SR 2006/128).
-*   Schedule 1 Department of Corrections: inserted, on 1 October 1995, by [clause 2][370] of the State Sector Order 1995 (SR 1995/28).
-*   Schedule 1 Department of Health: repealed, on 1 July 1993, by [section 32][371] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
-*   Schedule 1 Department of Justice: repealed, on 1 December 2004, by [section 6(2)][372] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
-*   Schedule 1 Department of Labour: repealed, on 1 July 2012, by [clause 4(1)][368] of the State Sector (Ministry of Business, Innovation, and Employment) Order 2012 (SR 2012/91).
-*   Schedule 1 Department of Scientific and Industrial Research: repealed, on 10 April 1998, by [section 48(3)][373] of the Crown Research Institutes Act 1992 (1992 No 47).
-*   Schedule 1 Department of Social Welfare: repealed (with effect on 1 October 2001), on 2 August 2003, by [section 7(1)(c)][367] of the State Sector Amendment Act 2003 (2003 No 41).
-*   Schedule 1 Department of Statistics: repealed, on 15 December 1994, by [section 2(6)][374] of the Statistics Amendment Act 1994 (1994 No 159).
+*   Schedule 1 Archives New Zealand: repealed, on 21 April 2005, by [section 67(1)][364] of the Public Records Act 2005 (2005 No 40).
+*   Schedule 1 Archives New Zealand (Te Rua Mahara o te Kāwanatanga): repealed, on 1 February 2011, by [section 19][365] of the Public Records Amendment Act (No 2) 2010 (2010 No 133).
+*   Schedule 1 Audit Department: repealed, on 1 July 2001, by [section 53][288] of the Public Audit Act 2001 (2001 No 10).
+*   Schedule 1 Canterbury Earthquake Recovery Authority: inserted, on 29 March 2011, by [clause 3][366] of the State Sector (Canterbury Earthquake Recovery Authority) Order 2011 (SR 2011/65).
+*   Schedule 1 Customs Department: repealed, on 1 October 1996, by [section 289(1)][367] of the Customs and Excise Act 1996 (1996 No 27).
+*   Schedule 1 Department for Courts: repealed, on 1 October 2003, by [section 7(1)(a)][368] of the State Sector Amendment Act 2003 (2003 No 41).
+*   Schedule 1 Department of Building and Housing: repealed, on 1 July 2012, by [clause 4(1)][369] of the State Sector (Ministry of Business, Innovation, and Employment) Order 2012 (SR 2012/91).
+*   Schedule 1 Department of Child, Youth and Family Services: repealed, on 1 July 2006, by [clause 3][370] of the State Sector (Department of Child, Youth and Family Services) Order 2006 (SR 2006/128).
+*   Schedule 1 Department of Corrections: inserted, on 1 October 1995, by [clause 2][371] of the State Sector Order 1995 (SR 1995/28).
+*   Schedule 1 Department of Health: repealed, on 1 July 1993, by [section 32][372] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
+*   Schedule 1 Department of Justice: repealed, on 1 December 2004, by [section 6(2)][373] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+*   Schedule 1 Department of Labour: repealed, on 1 July 2012, by [clause 4(1)][369] of the State Sector (Ministry of Business, Innovation, and Employment) Order 2012 (SR 2012/91).
+*   Schedule 1 Department of Scientific and Industrial Research: repealed, on 10 April 1998, by [section 48(3)][374] of the Crown Research Institutes Act 1992 (1992 No 47).
+*   Schedule 1 Department of Social Welfare: repealed (with effect on 1 October 2001), on 2 August 2003, by [section 7(1)(c)][368] of the State Sector Amendment Act 2003 (2003 No 41).
+*   Schedule 1 Department of Statistics: repealed, on 15 December 1994, by [section 2(6)][375] of the Statistics Amendment Act 1994 (1994 No 159).
 *   Schedule 1 Department of Survey and Land Information: repealed, on 1 July 1996, by section 5 of the Survey Amendment Act 1996 (1996 No 55).
-*   Schedule 1 Department of Work and Income: repealed (with effect on 1 October 2001), on 2 August 2003, by [section 7(1)(d)][367] of the State Sector Amendment Act 2003 (2003 No 41).
-*   Schedule 1 Government Communications Security Bureau: inserted, on 2 April 2003, by [section 33(3)][286] of the Government Communications Security Bureau Act 2003 (2003 No 9).
-*   Schedule 1 Government Printing Office: repealed, on 31 December 1990, by [section 32(1)][375] of the Acts and Regulations Publication Act 1989 (1989 No 142).
-*   Schedule 1 Government Superannuation Fund Department: repealed, on 7 May 1999, by [section 2(a)][376] of the State Sector Amendment Act 1999 (1999 No 47).
+*   Schedule 1 Department of Work and Income: repealed (with effect on 1 October 2001), on 2 August 2003, by [section 7(1)(d)][368] of the State Sector Amendment Act 2003 (2003 No 41).
+*   Schedule 1 Government Communications Security Bureau: inserted, on 2 April 2003, by [section 33(3)][287] of the Government Communications Security Bureau Act 2003 (2003 No 9).
+*   Schedule 1 Government Printing Office: repealed, on 31 December 1990, by [section 32(1)][376] of the Acts and Regulations Publication Act 1989 (1989 No 142).
+*   Schedule 1 Government Superannuation Fund Department: repealed, on 7 May 1999, by [section 2(a)][377] of the State Sector Amendment Act 1999 (1999 No 47).
 *   Schedule 1 Housing Corporation of New Zealand: repealed, on 1 May 1993, by section 17 of the Housing Corporation Amendment Act 1992 (1992 No 78).
-*   Schedule 1 Iwi Transition Agency: repealed, on 1 January 1992, by [section 9(1)][377] of the Ministry of Maori Development Act 1991 (1991 No 145).
+*   Schedule 1 Iwi Transition Agency: repealed, on 1 January 1992, by [section 9(1)][378] of the Ministry of Maori Development Act 1991 (1991 No 145).
 *   Schedule 1 Land Information New Zealand: inserted, on 1 July 1996, by section 5 of the Survey Amendment Act 1996 (1996 No 55).
-*   Schedule 1 Ministry for Culture and Heritage: inserted, on 1 October 2000, by [section 12][378] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
-*   Schedule 1 Ministry for Primary Industries: inserted, on 30 April 2012, by [clause 3(2)][379] of the State Sector (Ministry for Primary Industries) Order 2012 (SR 2012/54).
-*   Schedule 1 Ministry of Agriculture: repealed, on 1 March 1998, by [section 4][380] of the Ministry of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100).
-*   Schedule 1 Ministry of Agriculture and Fisheries: repealed, on 1 July 1995, by [section 5][381] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
-*   Schedule 1 Ministry of Agriculture and Forestry: repealed, on 30 April 2012, by [clause 3(1)][379] of the State Sector (Ministry for Primary Industries) Order 2012 (SR 2012/54).
-*   Schedule 1 Ministry of Business, Innovation, and Employment: inserted, on 1 July 2012, by [clause 4(2)][368] of the State Sector (Ministry of Business, Innovation, and Employment) Order 2012 (SR 2012/91).
-*   Schedule 1 Ministry of Commerce: repealed, on 7 September 2000, by [section 8(1)][382] of the Ministry of Economic Development Act 2000 (2000 No 28).
-*   Schedule 1 Ministry of Cultural Affairs: repealed, on 1 October 2000, by [section 12][378] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
-*   Schedule 1 Ministry of Defence: amended, on 1 April 1990, by [section 103][383] of the Defence Act 1990 (1990 No 28).
-*   Schedule 1 Ministry of Economic Development: repealed, on 1 July 2012, by [clause 4(1)][368] of the State Sector (Ministry of Business, Innovation, and Employment) Order 2012 (SR 2012/91).
-*   Schedule 1 Ministry of Energy: repealed, on 31 December 1990, by [section 3(2)][384] of the Ministry of Energy (Abolition) Act 1989 (1989 No 140).
-*   Schedule 1 Ministry of External Relations and Trade: repealed, on 1 July 1993, by [section 6(1)][385] of the Foreign Affairs Amendment Act 1993 (1993 No 48).
-*   Schedule 1 Ministry of Fisheries: repealed, on 1 July 2011, by [clause 3][386] of the State Sector (Application of Certain Provisions to Transfer of Functions from Ministry of Fisheries to Ministry of Agriculture and Forestry) Order 2011 (SR 2011/136).
-*   Schedule 1 Ministry of Foreign Affairs and Trade: inserted, on 1 July 1993, by [section 6(1)][385] of the Foreign Affairs Amendment Act 1993 (1993 No 48).
-*   Schedule 1 Ministry of Forestry: repealed, on 1 March 1998, by [section 4][380] of the Ministry of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100).
-*   Schedule 1 Ministry of Health: inserted, on 1 July 1993, by [section 32][371] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
-*   Schedule 1 Ministry of Housing: repealed, on 1 November 2004, by [clause 3][387] of the State Sector (Department of Building and Housing) Order 2004 (SR 2004/324).
-*   Schedule 1 Ministry of Justice: inserted, on 1 October 1995, by [section 5(1)][388] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
-*   Schedule 1 Ministry of Maori Affairs: repealed, on 1 January 1992, by [section 9(1)][377] of the Ministry of Maori Development Act 1991 (1991 No 145).
-*   Schedule 1 Ministry of Maori Development: inserted, on 1 January 1992, by [clause 2][389] of the State Sector Order 1991 (SR 1991/95).
-*   Schedule 1 Ministry of Pacific Island Affairs: inserted, on 1 July 1990, by [clause 2][390] of the State Sector Order 1990 (SR 1990/97).
-*   Schedule 1 Ministry of Research, Science, and Technology: repealed, on 1 February 2011, by [section 18][391] of the Research, Science, and Technology Act 2010 (2010 No 131).
-*   Schedule 1 Ministry of Science and Innovation: repealed, on 1 July 2012, by [clause 4(1)][368] of the State Sector (Ministry of Business, Innovation, and Employment) Order 2012 (SR 2012/91).
-*   Schedule 1 Ministry of Social Development: inserted (with effect on 1 October 2001), on 2 August 2003, by [section 7(1)(b)][367] of the State Sector Amendment Act 2003 (2003 No 41).
-*   Schedule 1 Ministry of Youth Affairs: repealed, on 1 October 2003, by [clause 3][392] of the State Sector (Ministry of Youth Affairs) Order 2003 (SR 2003/240).
-*   Schedule 1 National Library Department: repealed, on 6 May 2003, by [section 47][393] of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003 (2003 No 19).
-*   Schedule 1 National Library of New Zealand Te Puna Mātauranga o Aotearoa: repealed, on 1 February 2011, by [section 18][394] of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Amendment Act 2010 (2010 No 132).
-*   Schedule 1 National Provident Fund Department: repealed, on 17 April 1992, by [section 16][395] of the Finance Act 1991 (1991 No 93).
-*   Schedule 1 New Zealand Customs Service: inserted, on 1 October 1996, by [section 289(1)][366] of the Customs and Excise Act 1996 (1996 No 27).
-*   Schedule 1 New Zealand Food Safety Authority: repealed, on 1 July 2010, by [clause 3][396] of the State Sector (New Zealand Food Safety Authority) Order 2010 (SR 2010/93).
-*   Schedule 1 New Zealand Tourism Department: repealed, on 1 November 1991, by [section 18(2)][397] of the New Zealand Tourism Board Act 1991 (1991 No 110).
-*   Schedule 1 Office of Youth Affairs: repealed, on 7 May 1999, by [section 2(b)][376] of the State Sector Amendment Act 1999 (1999 No 47).
-*   Schedule 1 Public Trust Office: repealed, on 1 March 2002, by [section 170(1)][398] of the Public Trust Act 2001 (2001 No 100).
-*   Schedule 1 State Insurance Office: repealed, on 28 June 1990, by [section 23(1)][399] of the State Insurance Act 1990 (1990 No 36).
-*   Schedule 1 Statistics New Zealand: inserted, on 15 December 1994, by [section 2(6)][374] of the Statistics Amendment Act 1994 (1994 No 159).
-*   Schedule 1 Valuation Department: repealed, on 1 July 1998, by [section 14(2)][400] of the Valuation Department (Restructuring) Act 1998 (1998 No 70).
+*   Schedule 1 Ministry for Culture and Heritage: inserted, on 1 October 2000, by [section 12][379] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
+*   Schedule 1 Ministry for Primary Industries: inserted, on 30 April 2012, by [clause 3(2)][380] of the State Sector (Ministry for Primary Industries) Order 2012 (SR 2012/54).
+*   Schedule 1 Ministry of Agriculture: repealed, on 1 March 1998, by [section 4][381] of the Ministry of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100).
+*   Schedule 1 Ministry of Agriculture and Fisheries: repealed, on 1 July 1995, by [section 5][382] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
+*   Schedule 1 Ministry of Agriculture and Forestry: repealed, on 30 April 2012, by [clause 3(1)][380] of the State Sector (Ministry for Primary Industries) Order 2012 (SR 2012/54).
+*   Schedule 1 Ministry of Business, Innovation, and Employment: inserted, on 1 July 2012, by [clause 4(2)][369] of the State Sector (Ministry of Business, Innovation, and Employment) Order 2012 (SR 2012/91).
+*   Schedule 1 Ministry of Commerce: repealed, on 7 September 2000, by [section 8(1)][383] of the Ministry of Economic Development Act 2000 (2000 No 28).
+*   Schedule 1 Ministry of Cultural Affairs: repealed, on 1 October 2000, by [section 12][379] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
+*   Schedule 1 Ministry of Defence: amended, on 1 April 1990, by [section 103][384] of the Defence Act 1990 (1990 No 28).
+*   Schedule 1 Ministry of Economic Development: repealed, on 1 July 2012, by [clause 4(1)][369] of the State Sector (Ministry of Business, Innovation, and Employment) Order 2012 (SR 2012/91).
+*   Schedule 1 Ministry of Energy: repealed, on 31 December 1990, by [section 3(2)][385] of the Ministry of Energy (Abolition) Act 1989 (1989 No 140).
+*   Schedule 1 Ministry of External Relations and Trade: repealed, on 1 July 1993, by [section 6(1)][386] of the Foreign Affairs Amendment Act 1993 (1993 No 48).
+*   Schedule 1 Ministry of Fisheries: repealed, on 1 July 2011, by [clause 3][387] of the State Sector (Application of Certain Provisions to Transfer of Functions from Ministry of Fisheries to Ministry of Agriculture and Forestry) Order 2011 (SR 2011/136).
+*   Schedule 1 Ministry of Foreign Affairs and Trade: inserted, on 1 July 1993, by [section 6(1)][386] of the Foreign Affairs Amendment Act 1993 (1993 No 48).
+*   Schedule 1 Ministry of Forestry: repealed, on 1 March 1998, by [section 4][381] of the Ministry of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100).
+*   Schedule 1 Ministry of Health: inserted, on 1 July 1993, by [section 32][372] of the Health Reforms (Transitional Provisions) Act 1993 (1993 No 23).
+*   Schedule 1 Ministry of Housing: repealed, on 1 November 2004, by [clause 3][388] of the State Sector (Department of Building and Housing) Order 2004 (SR 2004/324).
+*   Schedule 1 Ministry of Justice: inserted, on 1 October 1995, by [section 5(1)][389] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+*   Schedule 1 Ministry of Maori Affairs: repealed, on 1 January 1992, by [section 9(1)][378] of the Ministry of Maori Development Act 1991 (1991 No 145).
+*   Schedule 1 Ministry of Maori Development: inserted, on 1 January 1992, by [clause 2][390] of the State Sector Order 1991 (SR 1991/95).
+*   Schedule 1 Ministry of Pacific Island Affairs: inserted, on 1 July 1990, by [clause 2][391] of the State Sector Order 1990 (SR 1990/97).
+*   Schedule 1 Ministry of Research, Science, and Technology: repealed, on 1 February 2011, by [section 18][392] of the Research, Science, and Technology Act 2010 (2010 No 131).
+*   Schedule 1 Ministry of Science and Innovation: repealed, on 1 July 2012, by [clause 4(1)][369] of the State Sector (Ministry of Business, Innovation, and Employment) Order 2012 (SR 2012/91).
+*   Schedule 1 Ministry of Social Development: inserted (with effect on 1 October 2001), on 2 August 2003, by [section 7(1)(b)][368] of the State Sector Amendment Act 2003 (2003 No 41).
+*   Schedule 1 Ministry of Youth Affairs: repealed, on 1 October 2003, by [clause 3][393] of the State Sector (Ministry of Youth Affairs) Order 2003 (SR 2003/240).
+*   Schedule 1 National Library Department: repealed, on 6 May 2003, by [section 47][394] of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003 (2003 No 19).
+*   Schedule 1 National Library of New Zealand Te Puna Mātauranga o Aotearoa: repealed, on 1 February 2011, by [section 18][395] of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Amendment Act 2010 (2010 No 132).
+*   Schedule 1 National Provident Fund Department: repealed, on 17 April 1992, by [section 16][396] of the Finance Act 1991 (1991 No 93).
+*   Schedule 1 New Zealand Customs Service: inserted, on 1 October 1996, by [section 289(1)][367] of the Customs and Excise Act 1996 (1996 No 27).
+*   Schedule 1 New Zealand Food Safety Authority: repealed, on 1 July 2010, by [clause 3][397] of the State Sector (New Zealand Food Safety Authority) Order 2010 (SR 2010/93).
+*   Schedule 1 New Zealand Tourism Department: repealed, on 1 November 1991, by [section 18(2)][398] of the New Zealand Tourism Board Act 1991 (1991 No 110).
+*   Schedule 1 Office of Youth Affairs: repealed, on 7 May 1999, by [section 2(b)][377] of the State Sector Amendment Act 1999 (1999 No 47).
+*   Schedule 1 Public Trust Office: repealed, on 1 March 2002, by [section 170(1)][399] of the Public Trust Act 2001 (2001 No 100).
+*   Schedule 1 State Insurance Office: repealed, on 28 June 1990, by [section 23(1)][400] of the State Insurance Act 1990 (1990 No 36).
+*   Schedule 1 Statistics New Zealand: inserted, on 15 December 1994, by [section 2(6)][375] of the Statistics Amendment Act 1994 (1994 No 159).
+*   Schedule 1 Valuation Department: repealed, on 1 July 1998, by [section 14(2)][401] of the Valuation Department (Restructuring) Act 1998 (1998 No 70).
 
 ---
 
@@ -3710,7 +3710,7 @@ State enterprises
 
 \[Repealed\]
     
-*   Schedule 2: repealed, on 19 December 1989, by [section 29(1)][401] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
+*   Schedule 2: repealed, on 19 December 1989, by [section 29(1)][402] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
 
 ---
 
@@ -3751,7 +3751,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Armed Forces Canteens Act 1948 (1948 No 51) (RS Vol 1, p 143)
 
-_Amendment(s) incorporated in the [Act(s)][402]_.
+_Amendment(s) incorporated in the [Act(s)][403]_.
 
 ##### Carter Observatory Act 1938 (1938 No 9) (RS Vol 1, p 429)
 
@@ -3771,7 +3771,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Education Act 1964 (1964 No 135) (Reprinted 1975, Vol 3, p 1699)
 
-_Amendment(s) incorporated in the [Act(s)][403]_.
+_Amendment(s) incorporated in the [Act(s)][404]_.
 
 ##### Environment Act 1986 (1986 No 127)
 
@@ -3779,11 +3779,11 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Equal Pay Act 1972 (1972 No 118) (RS Vol 18, p 85)
 
-_Amendment(s) incorporated in the [Act(s)][404]_.
+_Amendment(s) incorporated in the [Act(s)][405]_.
 
 ##### Government Superannuation Fund Act 1956 (1956 No 47) (RS Vol 21, p 209)
 
-_Amendment(s) incorporated in the [Act(s)][405]_.
+_Amendment(s) incorporated in the [Act(s)][406]_.
 
 ##### Housing Corporation Act 1974 (1974 No 19)
 
@@ -3807,15 +3807,15 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### New Zealand Council for Educational Research Act 1972 (1972 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][406]_.
+_Amendment(s) incorporated in the [Act(s)][407]_.
 
 ##### New Zealand Security Intelligence Service Act 1969 (1969 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][407]_.
+_Amendment(s) incorporated in the [Act(s)][408]_.
 
 ##### Official Information Act 1982 (1982 No 156) (RS Vol 21, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][408]_.
+_Amendment(s) incorporated in the [Act(s)][409]_.
 
 ##### Parental Leave and Employment Protection Act 1987 (1987 No 129)
 
@@ -3851,11 +3851,11 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Standards Act 1988 (1988 No 5)
 
-_Amendment(s) incorporated in the [Act(s)][409]_.
+_Amendment(s) incorporated in the [Act(s)][410]_.
 
 ##### Testing Laboratory Registration Act 1972 (1972 No 36)
 
-_Amendment(s) incorporated in the [Act(s)][410]_.
+_Amendment(s) incorporated in the [Act(s)][411]_.
 
 ##### Tokelau Amendment Act 1967 (1967 No 38) (Reprinted 1976, Vol 5, p 4498)
 
@@ -3894,7 +3894,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Local Government Amendment Act (No 3) 1986 (1986 No 50)
 
-_Amendment(s) incorporated in the [Act(s)][411]_.
+_Amendment(s) incorporated in the [Act(s)][412]_.
 
 ##### State Services Act 1962 (1962 No 132) (RS Vol 14, p 601)
 
@@ -4005,7 +4005,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [State Sector Amendment Act (No 2) 2004][412].
+*   (1) This Act is the [State Sector Amendment Act (No 2) 2004][413].
     
     (2) In this Act, the State Sector Act 1988 is called ""the principal Act"".
 
@@ -4046,7 +4046,7 @@ Pursuant to sections 30A and 30K of the State Sector Act 1988, His Excellency th
 
 ##### 1 Title
     
-*   This order is the [State Sector (Ministry for Primary Industries) Order 2012][413].
+*   This order is the [State Sector (Ministry for Primary Industries) Order 2012][414].
 
 ##### 2 Commencement
     
@@ -4082,7 +4082,7 @@ Pursuant to sections 30A, 30C, and 30K of the State Sector Act 1988, His Excelle
 
 ##### 1 Title
     
-*   This order is the [State Sector (Ministry of Business, Innovation, and Employment) Order 2012][414].
+*   This order is the [State Sector (Ministry of Business, Innovation, and Employment) Order 2012][415].
 
 ##### 2 Commencement
     
@@ -4147,127 +4147,129 @@ Date of notification in _Gazette_: 17 May 2012\.
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][415] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][416] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][416] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][417] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][417] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][418] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][418] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][419] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [State Sector Amendment Act 2013][320] (2013 No 49)
+*   [State Sector Amendment Act (No 2) 2013][420] (2013 No 133)
     
-    [State Sector (Ministry of Business, Innovation, and Employment) Order 2012][414] (SR 2012/91) 
+    [State Sector Amendment Act 2013][321] (2013 No 49)
     
-    [State Sector (Ministry for Primary Industries) Order 2012][413] (SR 2012/54)
+    [State Sector (Ministry of Business, Innovation, and Employment) Order 2012][415] (SR 2012/91) 
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][337]
+    [State Sector (Ministry for Primary Industries) Order 2012][414] (SR 2012/54)
     
-    [State Sector (Application of Certain Provisions to Transfer of Functions from Ministry of Fisheries to Ministry of Agriculture and Forestry) Order 2011][419] (SR 2011/136)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][338]
     
-    [State Sector (Canterbury Earthquake Recovery Authority) Order 2011][420] (SR 2011/65)
+    [State Sector (Application of Certain Provisions to Transfer of Functions from Ministry of Fisheries to Ministry of Agriculture and Forestry) Order 2011][421] (SR 2011/136)
     
-    Public Records Amendment Act (No 2) 2010 (2010 No 133): [section 19][364]
+    [State Sector (Canterbury Earthquake Recovery Authority) Order 2011][422] (SR 2011/65)
     
-    National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Amendment Act 2010 (2010 No 132): [section 18][394]
+    Public Records Amendment Act (No 2) 2010 (2010 No 133): [section 19][365]
     
-    Research, Science, and Technology Act 2010 (2010 No 131): [section 18][391]
+    National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Amendment Act 2010 (2010 No 132): [section 18][395]
     
-    [State Sector (New Zealand Food Safety Authority) Order 2010][421] (SR 2010/93)
+    Research, Science, and Technology Act 2010 (2010 No 131): [section 18][392]
     
-    [State Sector (Department of Child, Youth and Family Services) Order 2006][422] (SR 2006/128)
+    [State Sector (New Zealand Food Safety Authority) Order 2010][423] (SR 2010/93)
     
-    Education Amendment Act 2006 (2006 No 19): [section 58][345]
+    [State Sector (Department of Child, Youth and Family Services) Order 2006][424] (SR 2006/128)
     
-    Public Records Act 2005 (2005 No 40): [section 67(1)][363]
+    Education Amendment Act 2006 (2006 No 19): [section 58][346]
     
-    [State Sector Amendment Act (No 2) 2004][412] (2004 No 114)
+    Public Records Act 2005 (2005 No 40): [section 67(1)][364]
+    
+    [State Sector Amendment Act (No 2) 2004][413] (2004 No 114)
     
     Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][249]
     
-    [State Sector (Department of Building and Housing) Order 2004][423] (SR 2004/324)
+    [State Sector (Department of Building and Housing) Order 2004][425] (SR 2004/324)
     
-    [State Sector Amendment Act 2004][424] (2004 No 15)
+    [State Sector Amendment Act 2004][426] (2004 No 15)
     
-    [State Sector (Ministry of Youth Affairs) Order 2003][425] (SR 2003/240)
+    [State Sector (Ministry of Youth Affairs) Order 2003][427] (SR 2003/240)
     
-    [State Sector Amendment Act (No 2) 2003][426] (2003 No 98)
+    [State Sector Amendment Act (No 2) 2003][428] (2003 No 98)
     
     Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][229]
     
-    [State Sector Amendment Act 2003][427] (2003 No 41)
+    [State Sector Amendment Act 2003][429] (2003 No 41)
     
-    National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003 (2003 No 19): [section 47][393]
+    National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003 (2003 No 19): [section 47][394]
     
-    Government Communications Security Bureau Act 2003 (2003 No 9): [section 33][286]
+    Government Communications Security Bureau Act 2003 (2003 No 9): [section 33][287]
     
     Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [section 4(1)][244]
     
-    Public Trust Act 2001 (2001 No 100): [section 170(1)][398]
+    Public Trust Act 2001 (2001 No 100): [section 170(1)][399]
     
     Education Standards Act 2001 (2001 No 88): [section 83][225]
     
-    Public Audit Act 2001 (2001 No 10): [section 53][287]
+    Public Audit Act 2001 (2001 No 10): [section 53][288]
     
     New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 108][228]
     
-    Archives, Culture, and Heritage Reform Act 2000 (2000 No 32): [section 12][378]
+    Archives, Culture, and Heritage Reform Act 2000 (2000 No 32): [section 12][379]
     
-    Ministry of Economic Development Act 2000 (2000 No 28): [section 8(1)][382]
+    Ministry of Economic Development Act 2000 (2000 No 28): [section 8(1)][383]
     
     Employment Relations Act 2000 (2000 No 24): [section 240][222]
     
-    [State Sector Amendment Act 1999][428] (1999 No 47)
+    [State Sector Amendment Act 1999][430] (1999 No 47)
     
-    Valuation Department (Restructuring) Act 1998 (1998 No 70): [section 14(2)][400]
+    Valuation Department (Restructuring) Act 1998 (1998 No 70): [section 14(2)][401]
     
-    Ministry of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100): [section 4][380]
+    Ministry of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100): [section 4][381]
     
     Survey Amendment Act 1996 (1996 No 55): section 5
     
-    Customs and Excise Act 1996 (1996 No 27): [section 289(1)][366]
+    Customs and Excise Act 1996 (1996 No 27): [section 289(1)][367]
     
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [sections 5(1)][388], [6(2)][372]
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [sections 5(1)][389], [6(2)][373]
     
-    Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31): [section 5][381]
+    Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31): [section 5][382]
     
-    [State Sector Order 1995][429] (SR 1995/28)
+    [State Sector Order 1995][431] (SR 1995/28)
     
-    Statistics Amendment Act 1994 (1994 No 159): [section 2(6)][374]
+    Statistics Amendment Act 1994 (1994 No 159): [section 2(6)][375]
     
-    Foreign Affairs Amendment Act 1993 (1993 No 48): [section 6(1)][385]
+    Foreign Affairs Amendment Act 1993 (1993 No 48): [section 6(1)][386]
     
-    Health Reforms (Transitional Provisions) Act 1993 (1993 No 23): [section 32][371]
+    Health Reforms (Transitional Provisions) Act 1993 (1993 No 23): [section 32][372]
     
     Housing Corporation Amendment Act 1992 (1992 No 78): section 17
     
-    Crown Research Institutes Act 1992 (1992 No 47): [section 48(3)][373]
+    Crown Research Institutes Act 1992 (1992 No 47): [section 48(3)][374]
     
-    Ministry of Maori Development Act 1991 (1991 No 145): [section 9(1)][377]
+    Ministry of Maori Development Act 1991 (1991 No 145): [section 9(1)][378]
     
-    New Zealand Tourism Board Act 1991 (1991 No 110): [section 18(2)][397]
+    New Zealand Tourism Board Act 1991 (1991 No 110): [section 18(2)][398]
     
-    Finance Act 1991 (1991 No 93): [section 16][395]
+    Finance Act 1991 (1991 No 93): [section 16][396]
     
-    [State Sector Order 1991][430] (SR 1991/95)
+    [State Sector Order 1991][432] (SR 1991/95)
     
     State Sector Amendment Act 1991 (1991 No 31)
     
-    [State Sector Amendment Act 1990][431] (1990 No 78)
+    [State Sector Amendment Act 1990][433] (1990 No 78)
     
-    State Insurance Act 1990 (1990 No 36): [section 23(1)][399]
+    State Insurance Act 1990 (1990 No 36): [section 23(1)][400]
     
-    [State Sector Order 1990][432] (SR 1990/97)
+    [State Sector Order 1990][434] (SR 1990/97)
     
-    Defence Act 1990 (1990 No 28): [section 103][383]
+    Defence Act 1990 (1990 No 28): [section 103][384]
     
-    Acts and Regulations Publication Act 1989 (1989 No 142): [section 32(1)][375]
+    Acts and Regulations Publication Act 1989 (1989 No 142): [section 32(1)][376]
     
-    Ministry of Energy (Abolition) Act 1989 (1989 No 140): [section 3(2)][384]
+    Ministry of Energy (Abolition) Act 1989 (1989 No 140): [section 3(2)][385]
     
-    [State Sector Amendment Act (No 2) 1989][433] (1989 No 136)
+    [State Sector Amendment Act (No 2) 1989][435] (1989 No 136)
     
-    [State Sector Amendment Act 1989][434] (1989 No 67)
+    [State Sector Amendment Act 1989][436] (1989 No 67)
 
 
 
@@ -4555,154 +4557,156 @@ Date of notification in _Gazette_: 17 May 2012\.
 [281]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM430983
 [282]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM431204
 [283]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598862
-[284]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598864
-[285]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598865
-[286]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM187866
-[287]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM88957
-[288]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM329166
-[289]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598866
-[290]: http://www.legislation.govt.nz/act/public/1988/0020/latest/whole.html#DLM129739
-[291]: http://www.legislation.govt.nz/act/public/1988/0020/latest/whole.html#DLM129740
-[292]: http://www.legislation.govt.nz/act/public/1988/0020/latest/whole.html#DLM129755
-[293]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598870
-[294]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598871
-[295]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598874
-[296]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598876
-[297]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM2997643
-[298]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM2998573
-[299]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM5047700
-[300]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM329173
-[301]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598881
-[302]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM5467798
-[303]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM129446
-[304]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM5478460
-[305]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM329174
-[306]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598882
-[307]: http://www.legislation.govt.nz/act/public/1988/0020/latest/whole.html#DLM129724
-[308]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598883
-[309]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598885
-[310]: http://www.legislation.govt.nz/act/public/1988/0020/latest/whole.html#DLM129719
-[311]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598886
-[312]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM329179
-[313]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598887
-[314]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM59172
-[315]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM129523
-[316]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM129527
-[317]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM5478471
-[318]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM5478474
-[319]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598890
-[320]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598800
-[321]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM129521
-[322]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM194715
-[323]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM5307502
-[324]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM59118
-[325]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM59124
-[326]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM59143
-[327]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM59147
-[328]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM61491
-[329]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM129529
-[330]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598895
-[331]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598897
-[332]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM58316
-[333]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM59983
-[334]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM74834
-[335]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM241084
-[336]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM180186
-[337]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM3360714
-[338]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM5205912
-[339]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM169957
-[340]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM329180
-[341]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM329181
-[342]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM194723
-[343]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598900
-[344]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM194724
-[345]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM373077
-[346]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM329182
-[347]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM194725
-[348]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM182470
-[349]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM182435
-[350]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM241090
-[351]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM194726
-[352]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM214634
-[353]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM180188
-[354]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM143291
-[355]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM329183
-[356]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598902
-[357]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM261924
-[358]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598903
-[359]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598906
-[360]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM15697
-[361]: http://www.legislation.govt.nz/act/public/1988/0020/latest/whole.html#DLM129153
-[362]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM194735
-[363]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM346105
-[364]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM3431136
-[365]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM3590706
-[366]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM380185
-[367]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM201368
-[368]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4442808
-[369]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM382460
-[370]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM198869
-[371]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM295182
-[372]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM367231
-[373]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM265669
-[374]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM347442
-[375]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM195524
-[376]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM24785
-[377]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM257786
-[378]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM67196
-[379]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4362115
-[380]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM418617
-[381]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM366836
-[382]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM67109
-[383]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM206944
-[384]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM194765
-[385]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM302525
-[386]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM3698406
-[387]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM290026
-[388]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM367230
-[389]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM147257
-[390]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM138142
-[391]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM3431046
-[392]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM211123
-[393]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM192277
-[394]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM3430033
-[395]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM248715
-[396]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM2894855
-[397]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM249395
-[398]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM124529
-[399]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM210427
-[400]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM427790
-[401]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM194736
-[402]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM249699
-[403]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM358807
-[404]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM407775
-[405]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM446007
-[406]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM407049
-[407]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM391898
-[408]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM66502
-[409]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM128711
-[410]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM407578
-[411]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM93847
-[412]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM329144
-[413]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4362109
-[414]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4442800
-[415]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM2998516
-[416]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM2998515
-[417]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM2998532
-[418]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[419]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM3698400
-[420]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM3590700
-[421]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM2894849
-[422]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM382452
-[423]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM290020
-[424]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM241074
-[425]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM211117
-[426]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM218824
-[427]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM201330
-[428]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM24779
-[429]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM198864
-[430]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM147252
-[431]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM214628
-[432]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM138137
-[433]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM194297
-[434]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM169946
+[284]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM5627607
+[285]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598864
+[286]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598865
+[287]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM187866
+[288]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM88957
+[289]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM329166
+[290]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598866
+[291]: http://www.legislation.govt.nz/act/public/1988/0020/latest/whole.html#DLM129739
+[292]: http://www.legislation.govt.nz/act/public/1988/0020/latest/whole.html#DLM129740
+[293]: http://www.legislation.govt.nz/act/public/1988/0020/latest/whole.html#DLM129755
+[294]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598870
+[295]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598871
+[296]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598874
+[297]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598876
+[298]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM2997643
+[299]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM2998573
+[300]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM5047700
+[301]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM329173
+[302]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598881
+[303]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM5467798
+[304]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM129446
+[305]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM5478460
+[306]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM329174
+[307]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598882
+[308]: http://www.legislation.govt.nz/act/public/1988/0020/latest/whole.html#DLM129724
+[309]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598883
+[310]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598885
+[311]: http://www.legislation.govt.nz/act/public/1988/0020/latest/whole.html#DLM129719
+[312]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598886
+[313]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM329179
+[314]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598887
+[315]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM59172
+[316]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM129523
+[317]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM129527
+[318]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM5478471
+[319]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM5478474
+[320]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598890
+[321]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598800
+[322]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM129521
+[323]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM194715
+[324]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM5307502
+[325]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM59118
+[326]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM59124
+[327]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM59143
+[328]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM59147
+[329]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM61491
+[330]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM129529
+[331]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598895
+[332]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598897
+[333]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM58316
+[334]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM59983
+[335]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM74834
+[336]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM241084
+[337]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM180186
+[338]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM3360714
+[339]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM5205912
+[340]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM169957
+[341]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM329180
+[342]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM329181
+[343]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM194723
+[344]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598900
+[345]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM194724
+[346]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM373077
+[347]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM329182
+[348]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM194725
+[349]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM182470
+[350]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM182435
+[351]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM241090
+[352]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM194726
+[353]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM214634
+[354]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM180188
+[355]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM143291
+[356]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM329183
+[357]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598902
+[358]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM261924
+[359]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598903
+[360]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4598906
+[361]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM15697
+[362]: http://www.legislation.govt.nz/act/public/1988/0020/latest/whole.html#DLM129153
+[363]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM194735
+[364]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM346105
+[365]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM3431136
+[366]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM3590706
+[367]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM380185
+[368]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM201368
+[369]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4442808
+[370]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM382460
+[371]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM198869
+[372]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM295182
+[373]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM367231
+[374]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM265669
+[375]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM347442
+[376]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM195524
+[377]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM24785
+[378]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM257786
+[379]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM67196
+[380]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4362115
+[381]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM418617
+[382]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM366836
+[383]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM67109
+[384]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM206944
+[385]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM194765
+[386]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM302525
+[387]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM3698406
+[388]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM290026
+[389]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM367230
+[390]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM147257
+[391]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM138142
+[392]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM3431046
+[393]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM211123
+[394]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM192277
+[395]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM3430033
+[396]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM248715
+[397]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM2894855
+[398]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM249395
+[399]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM124529
+[400]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM210427
+[401]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM427790
+[402]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM194736
+[403]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM249699
+[404]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM358807
+[405]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM407775
+[406]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM446007
+[407]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM407049
+[408]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM391898
+[409]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM66502
+[410]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM128711
+[411]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM407578
+[412]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM93847
+[413]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM329144
+[414]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4362109
+[415]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM4442800
+[416]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM2998516
+[417]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM2998515
+[418]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM2998532
+[419]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[420]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM5627600
+[421]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM3698400
+[422]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM3590700
+[423]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM2894849
+[424]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM382452
+[425]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM290020
+[426]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM241074
+[427]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM211117
+[428]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM218824
+[429]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM201330
+[430]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM24779
+[431]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM198864
+[432]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM147252
+[433]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM214628
+[434]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM138137
+[435]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM194297
+[436]: http://www.legislation.govt.nz/act/public/1988/0020/latest/link.aspx?id=DLM169946
