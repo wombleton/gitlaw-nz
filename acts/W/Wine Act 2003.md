@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -893,6 +893,8 @@ Winemaking and export of wine
     
     *   (g) document all processes involved in the making of wine.
     
+    (2A) However, in relation to wine made for export, a wine standards management plan need not comply with a New Zealand food standard to the extent that the standard's labelling requirements conflict with the labelling requirements of the country that imports the wine.
+    
     (3) In relation to hazards, a plan must demonstrate that the following matters have also been taken into account in its development:
         
     *   (a) systematic identification of any hazards, and determination of the significance of those hazards, involved in the production of commodities and the making of wine:
@@ -910,6 +912,8 @@ Winemaking and export of wine
     *   (g) appropriate and auditable documentation and record keeping.
     
     (4) A proposed plan must also make appropriate provision for verification activities and the rights of recognised management plan verifiers, as specified by the Director-General.
+    
+    Section 14(2A): inserted, on 5 December 2013, by [section 4][202] of the Wine Amendment Act 2013 (2013 No 139).
 
 ##### 15 Multi-business wine standards management plans
     
@@ -1025,7 +1029,7 @@ Winemaking and export of wine
     
     (3) If the information or material is not supplied within 6 months of the date of the request, or within such further time as the Director-General allows, the application for registration lapses.
     
-    Section 18(1A): inserted, on 15 December 2005, by [section 3][202] of the Wine Amendment Act 2005 (2005 No 119).
+    Section 18(1A): inserted, on 15 December 2005, by [section 3][203] of the Wine Amendment Act 2005 (2005 No 119).
 
 ##### 19 Registration of wine standards management plans
     
@@ -1251,7 +1255,7 @@ Winemaking and export of wine
     
 *   A reference in this subpart to a recognised verifying agency, in relation to a wine standards management plan, must be treated as if it were a reference to a recognised management plan verifier if a recognised person carries out the verification functions and activities for that plan without being employed or engaged by a recognised agency.
     
-    Section 28: replaced, on 31 August 2012, by [section 6][203] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 28: replaced, on 31 August 2012, by [section 6][204] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 29 Wine standards management plan in conflict with regulations or notices
     
@@ -1710,7 +1714,7 @@ Officers, cost recovery, etc
     
 *   (1) The Director-General may from time to time appoint persons as wine officers for the purposes of this Act.
     
-    (2) Persons appointed under subsection (1) must be employed under the [State Sector Act 1988][204].
+    (2) Persons appointed under subsection (1) must be employed under the [State Sector Act 1988][205].
     
     (3) A wine officer may be authorised, on his or her appointment, to exercise and perform all of the powers and functions conferred on wine officers under this Act, or only those powers and functions specified in the officer's instrument of appointment or subsequent written notice from the Director-General to the officer.
 
@@ -1738,9 +1742,9 @@ Officers, cost recovery, etc
     
     (3) A direction must be given to a recognised class by notifying the class in accordance with [section 82W][129].
     
-    Section 57(1): amended, on 31 August 2012, by [section 7(1)][205] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 57(1): amended, on 31 August 2012, by [section 7(1)][206] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 57(3): inserted, on 31 August 2012, by [section 7(2)][205] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 57(3): inserted, on 31 August 2012, by [section 7(2)][206] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 58 Recall of wine
     
@@ -1798,7 +1802,7 @@ Officers, cost recovery, etc
 
 ##### 61 Delegations by Director-General
     
-*   The Director-General may delegate under [section 41][206] of the State Sector Act 1988 all or any of his or her functions, powers, or duties under this Act, except the power to issue statements under [section 60][74].
+*   The Director-General may delegate under [section 41][207] of the State Sector Act 1988 all or any of his or her functions, powers, or duties under this Act, except the power to issue statements under [section 60][74].
 
 #### Powers of wine officers
 
@@ -1816,17 +1820,17 @@ Officers, cost recovery, etc
     
     (2) A wine officer may, pursuant to and in accordance with the conditions of a search warrant issued under [section 65][80], enter any place (including a dwelling house or a marae) specified in the warrant.
     
-    (3) The provisions of [subparts 1][207], [4][208], [7][209], [9][210], and [10][211] of Part 4 of the Search and Surveillance Act 2012 (except [sections 118][212] and [119][213]) apply in respect of the exercise of any powers under this section.
+    (3) The provisions of [subparts 1][208], [4][209], [7][210], [9][211], and [10][212] of Part 4 of the Search and Surveillance Act 2012 (except [sections 118][213] and [119][214]) apply in respect of the exercise of any powers under this section.
     
     (4) \[Repealed\]
     
-    Section 62(1): amended, on 1 October 2012, by [section 310(2)][214] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 62(1): amended, on 1 October 2012, by [section 310(2)][215] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 62(2): amended, on 1 October 2012, by [section 310(3)][214] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 62(2): amended, on 1 October 2012, by [section 310(3)][215] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 62(3): replaced, on 1 October 2012, by [section 310(4)][214] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 62(3): replaced, on 1 October 2012, by [section 310(4)][215] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 62(4): repealed, on 1 October 2012, by [section 310(4)][214] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 62(4): repealed, on 1 October 2012, by [section 310(4)][215] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 63 Power to examine, etc
     
@@ -1858,13 +1862,13 @@ Officers, cost recovery, etc
     
     (2) A wine officer must return any documents or records removed under subsection (1)(b)(i) within such time as is reasonable to allow for their copying.
     
-    (2A) The provisions of [Part 4][215] of the Search and Surveillance Act 2012 (except [subparts 2][216], [3][217], and [8][218], and [sections 118][212] and [119][213]) apply.
+    (2A) The provisions of [Part 4][216] of the Search and Surveillance Act 2012 (except [subparts 2][217], [3][218], and [8][219], and [sections 118][213] and [119][214]) apply.
     
     (3) A wine officer may call on any person to assist him or her in the exercise of his or her powers under any of paragraphs (c) to (f) of subsection (1). Any such person may act only under the supervision and in accordance with the instructions of the wine officer.
     
-    Section 63(2A): inserted, on 1 October 2012, by [section 310(5)][214] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 63(2A): inserted, on 1 October 2012, by [section 310(5)][215] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 63(3): amended, on 1 October 2012, by [section 310(6)][214] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 63(3): amended, on 1 October 2012, by [section 310(6)][215] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 64 Power to interrupt operations, etc
     
@@ -1880,7 +1884,7 @@ Officers, cost recovery, etc
 
 ##### 65 Issue of search warrant
     
-*   (1) An issuing officer (within the meaning of [section 3][219] of the Search and Surveillance Act 2012) may issue a search warrant, in respect of any place (including any dwelling house or marae), if satisfied, on an application by a constable or a wine officer made in the manner provided in [subpart 3][217] of Part 4 of the Search and Surveillance Act 2012, that there are reasonable grounds for believing that there is at that place any thing---
+*   (1) An issuing officer (within the meaning of [section 3][220] of the Search and Surveillance Act 2012) may issue a search warrant, in respect of any place (including any dwelling house or marae), if satisfied, on an application by a constable or a wine officer made in the manner provided in [subpart 3][218] of Part 4 of the Search and Surveillance Act 2012, that there are reasonable grounds for believing that there is at that place any thing---
         
     *   (a) in respect of which an offence under this Act has been or is being committed; or
     
@@ -1888,17 +1892,17 @@ Officers, cost recovery, etc
     
     *   (c) that is or may be evidence of the commission of an offence under this Act by any person.
     
-    (2) Subject to [section 66][81], the provisions of [Part 4][215] of the Search and Surveillance Act 2012 (except [sections 118][212] and [119][213]) apply.
+    (2) Subject to [section 66][81], the provisions of [Part 4][216] of the Search and Surveillance Act 2012 (except [sections 118][213] and [119][214]) apply.
     
     (3) A search warrant must be directed to a constable by name, or to every constable, or to a wine officer by name, but, in any of these cases, the warrant may be executed by any constable.
     
-    Section 65(1): amended, on 1 October 2012, by [section 310(7)(a)][214] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 65(1): amended, on 1 October 2012, by [section 310(7)(a)][215] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 65(1): amended, on 1 October 2012, by [section 310(7)(b)][214] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 65(1): amended, on 1 October 2012, by [section 310(7)(b)][215] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 65(2): replaced, on 1 October 2012, by [section 310(8)][214] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 65(2): replaced, on 1 October 2012, by [section 310(8)][215] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 65(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][220] of the Policing Act 2008 (2008 No 72).
+    Section 65(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][221] of the Policing Act 2008 (2008 No 72).
 
 ##### 66 Powers of Police and wine officers under warrant
     
@@ -1914,13 +1918,13 @@ Officers, cost recovery, etc
     
     (4) \[Repealed\]
     
-    Section 66(1): replaced, on 1 October 2012, by [section 310(9)][214] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 66(1): replaced, on 1 October 2012, by [section 310(9)][215] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 66(2): repealed, on 1 October 2012, by [section 310(10)][214] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 66(2): repealed, on 1 October 2012, by [section 310(10)][215] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 66(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][220] of the Policing Act 2008 (2008 No 72).
+    Section 66(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][221] of the Policing Act 2008 (2008 No 72).
     
-    Section 66(4): repealed, on 1 October 2012, by [section 310(10)][214] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 66(4): repealed, on 1 October 2012, by [section 310(10)][215] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 67 Requirements when executing warrant
     
@@ -1932,17 +1936,17 @@ Officers, cost recovery, etc
     
     (4) A constable or wine officer who is exercising a power of entry in relation to a marae or a building associated with a marae must have regard to the kawa of the marae so far as is practicable in the circumstances.
     
-    Section 67(1): repealed, on 1 October 2012, by [section 310(11)][214] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 67(1): repealed, on 1 October 2012, by [section 310(11)][215] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 67(2): repealed, on 1 October 2012, by [section 310(11)][214] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 67(2): repealed, on 1 October 2012, by [section 310(11)][215] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 67(3): repealed, on 1 October 2012, by [section 310(11)][214] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 67(3): repealed, on 1 October 2012, by [section 310(11)][215] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 67(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][220] of the Policing Act 2008 (2008 No 72).
+    Section 67(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][221] of the Policing Act 2008 (2008 No 72).
 
 ##### 68 Disposal of property seized under search warrant
     
-*   [Subparts 1][207], [5][221], [6][222], [7][209], [9][210], and [10][211] of Part 4 of the Search and Surveillance Act 2012 apply in respect of any property seized by a constable under a search warrant and, with any necessary modifications, in respect of property seized under a search warrant by a wine officer, subject to the following provisions:
+*   [Subparts 1][208], [5][222], [6][223], [7][210], [9][211], and [10][212] of Part 4 of the Search and Surveillance Act 2012 apply in respect of any property seized by a constable under a search warrant and, with any necessary modifications, in respect of property seized under a search warrant by a wine officer, subject to the following provisions:
         
     *   (a) \[Repealed\]
     
@@ -1952,17 +1956,17 @@ Officers, cost recovery, etc
     
     *   (d) if any person is convicted of an offence to which the item relates, the court may, if it thinks fit, order that the item be forfeited to the Crown or disposed of as the court directs at the expense of the convicted person, and may order that the person pay any reasonable costs incurred by the Commissioner of Police or the Director-General in retaining the item.
     
-    Section 68: amended, on 1 October 2012, by [section 310(12)(a)][214] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 68: amended, on 1 October 2012, by [section 310(12)(a)][215] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 68(a): repealed, on 1 October 2012, by [section 310(12)(b)][214] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 68(a): repealed, on 1 October 2012, by [section 310(12)(b)][215] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 68(b): repealed, on 1 October 2012, by [section 310(12)(b)][214] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 68(b): repealed, on 1 October 2012, by [section 310(12)(b)][215] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 68(c): repealed, on 1 October 2012, by [section 310(12)(b)][214] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 68(c): repealed, on 1 October 2012, by [section 310(12)(b)][215] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Recognised agencies, persons, and classes of persons
     
-*   Heading: replaced, on 31 August 2012, by [section 8][223] of the Wine Amendment Act 2012 (2012 No 70).
+*   Heading: replaced, on 31 August 2012, by [section 8][224] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 69 Outline of sections 70 to 82Z
     
@@ -1976,7 +1980,7 @@ Officers, cost recovery, etc
     
     *   (d) provide for the establishment and maintenance of a public register of recognised agencies, recognised persons, and recognised classes, and for the public to access the register.
     
-    Section 69: replaced, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 69: replaced, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 70 Interpretation
     
@@ -2004,11 +2008,11 @@ Officers, cost recovery, etc
         
         
     
-    Section 70: replaced, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 70: replaced, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 #### Recognition of agencies, persons, and classes of persons
     
-*   Heading: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+*   Heading: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 71 Recognition of agencies
     
@@ -2038,7 +2042,7 @@ Officers, cost recovery, etc
     
     *   (b) may take into account any other matters that the Director-General considers relevant.
     
-    Section 71: replaced, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 71: replaced, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 72 Recognition of certain agencies without application
     
@@ -2052,7 +2056,7 @@ Officers, cost recovery, etc
     
     (3) [Section 71(2) and (3)][88] apply to subsection (1) accordingly, with all necessary modifications.
     
-    Section 72: replaced, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 72: replaced, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 73 Recognition of persons
     
@@ -2082,7 +2086,7 @@ Officers, cost recovery, etc
     
     *   (b) may take into account any other matters that the Director-General considers relevant.
     
-    Section 73: replaced, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 73: replaced, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 74 Recognition of certain persons without application
     
@@ -2090,11 +2094,11 @@ Officers, cost recovery, etc
         
     *   (a) any officer or employee of the Ministry:
     
-    *   (b) any officer or employee of any department of the Public Service listed in [Schedule 1][225] of the State Sector Act 1988\.
+    *   (b) any officer or employee of any department of the Public Service listed in [Schedule 1][226] of the State Sector Act 1988\.
     
     (2) [Section 73(2) and (3)][90] apply to subsection (1) accordingly, with all necessary modifications.
     
-    Section 74: replaced, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 74: replaced, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 75 Recognition of classes of persons
     
@@ -2140,17 +2144,17 @@ Officers, cost recovery, etc
     
     (5) If the Director-General recognises a class of persons under this section, the Director-General may, if he or she considers on reasonable grounds that it is appropriate to do so, exclude 1 or more members of the class, or categories of members of the class, from the recognised class (_see_ [section 80][98]).
     
-    Section 75: replaced, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 75: replaced, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 76 Interrelationship between sections 71 to 75
     
 *   To avoid doubt, a natural person may be recognised under any 1 or more of [sections 71 to 75][88] despite already being recognised in another capacity under any 1 or more of those sections.
     
-    Section 76: replaced, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 76: replaced, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 #### Recognition process
     
-*   Heading: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+*   Heading: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 77 Application for recognition
     
@@ -2160,7 +2164,7 @@ Officers, cost recovery, etc
     
     *   (b) be accompanied by the prescribed application fee (if any).
     
-    Section 77: replaced, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 77: replaced, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 78 Director-General may require further information
     
@@ -2172,7 +2176,7 @@ Officers, cost recovery, etc
     
     *   (b) within any further time that the Director-General allows by notice in writing.
     
-    Section 78: replaced, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 78: replaced, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 79 Proposal to refuse application to recognise agency, person, or class of persons
     
@@ -2190,7 +2194,7 @@ Officers, cost recovery, etc
     
     *   (b) if applicable, the applicant's right to seek a review of that decision under [section 114][171].
     
-    Section 79: replaced, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 79: replaced, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 80 Proposal to exclude members, or categories of members, from recognition of class
     
@@ -2208,7 +2212,7 @@ Officers, cost recovery, etc
     
     *   (b) if applicable, the members' and the applicant's right to seek a review of that decision under [section 114][171].
     
-    Section 80: replaced, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 80: replaced, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 81 Director-General may impose or vary conditions of recognition
     
@@ -2232,7 +2236,7 @@ Officers, cost recovery, etc
     
     *   (b) to revoke or amend any conditions.
     
-    Section 81: replaced, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 81: replaced, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82 Grant of recognition
     
@@ -2260,7 +2264,7 @@ Officers, cost recovery, etc
     
     *   (d) the duration of the recognition under [section 82B][102].
     
-    Section 82: replaced, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82: replaced, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82A Scope, effect, and transfer of recognition
     
@@ -2316,7 +2320,7 @@ Officers, cost recovery, etc
     
     (4) Recognition may not be transferred to a different agency, person, or class of persons, and may not vest by operation of law in any person other than the agency, person, or class of persons specified in the notice of recognition.
     
-    Section 82A: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82A: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82B Duration of recognition
     
@@ -2332,7 +2336,7 @@ Officers, cost recovery, etc
     
     *   (b) recognition has no effect while it is suspended under [section 82J or 82K][112].
     
-    Section 82B: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82B: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82C Renewal of recognition before expiry
     
@@ -2372,7 +2376,7 @@ Officers, cost recovery, etc
     
     *   (b) is an appropriate person to make an application on behalf of the class.
     
-    Section 82C: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82C: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82D Application for renewal of recognition
     
@@ -2382,7 +2386,7 @@ Officers, cost recovery, etc
     
     *   (b) be accompanied by the prescribed application fee (if any).
     
-    Section 82D: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82D: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82E Substituted notice of recognition
     
@@ -2400,17 +2404,17 @@ Officers, cost recovery, etc
     
     *   (b) the application is accompanied by the prescribed application fee (if any).
     
-    Section 82E: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82E: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82F Ongoing recognition fees, charges, or levies
     
 *   Recognised agencies and recognised persons must pay the prescribed fee, charge, or levy (if any) for ongoing recognition for the prescribed period on or before the date provided or approved by the Director-General for that purpose.
     
-    Section 82F: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82F: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 #### Performance of specified functions and activities
     
-*   Heading: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+*   Heading: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82G Duties of recognised agencies
     
@@ -2438,7 +2442,7 @@ Officers, cost recovery, etc
     
     (3) The duties in [section 82H][109] apply to a recognised agency (in addition to the duties in subsection (1)), but only to the extent that the agency is recognised to carry out its specified functions and activities itself (instead of being recognised to manage or supply a recognised person to carry out its specified functions and activities).
     
-    Section 82G: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82G: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82H Duties of recognised persons
     
@@ -2466,7 +2470,7 @@ Officers, cost recovery, etc
     
     *   (h) complies with all applicable requirements of this Act.
     
-    Section 82H: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82H: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82I Recognised agency or person may act in other capacities
     
@@ -2476,11 +2480,11 @@ Officers, cost recovery, etc
     
     *   (b) while purporting to act as a recognised agency or a recognised person.
     
-    Section 82I: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82I: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 #### Suspension of recognition
     
-*   Heading: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+*   Heading: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82J Suspension of recognition of recognised agency, recognised person, or recognised class
     
@@ -2502,7 +2506,7 @@ Officers, cost recovery, etc
     
     *   (b) require a suspended agency, person, or class to take appropriate corrective action to remedy the deficiency or failure that resulted in the suspension.
     
-    Section 82J: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82J: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82K Director-General may extend suspension of recognition
     
@@ -2524,7 +2528,7 @@ Officers, cost recovery, etc
     
     *   (b) require a suspended agency, person, or class to take appropriate corrective action to remedy the deficiency or failure that resulted in the suspension.
     
-    Section 82K: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82K: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82L Method of suspension of recognition
     
@@ -2564,17 +2568,17 @@ Officers, cost recovery, etc
     
     (4) In subsections (1) to (3), _suspension_ includes an extension of a suspension.
     
-    Section 82L: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82L: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82M Suspension does not limit other actions
     
 *   A suspension under [section 82J][112] or an extension of a suspension under [section 82K][113] does not affect any other actions that the Director-General may take under this Act.
     
-    Section 82M: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82M: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 #### Withdrawal of recognition
     
-*   Heading: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+*   Heading: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82N Withdrawal of recognition of recognised agency or recognised person
     
@@ -2592,7 +2596,7 @@ Officers, cost recovery, etc
     
     *   (f) the agency or person has failed to comply with or maintain any criteria or competencies that led to the recognition of the agency or person; or
     
-    *   (g) the agency is no longer the appropriate agency to hold the recognition, but only if the agency is, or is within, the Ministry or a department of the public service listed in [Schedule 1][225] of the State Sector Act 1988\.
+    *   (g) the agency is no longer the appropriate agency to hold the recognition, but only if the agency is, or is within, the Ministry or a department of the public service listed in [Schedule 1][226] of the State Sector Act 1988\.
     
     (2) However, before withdrawing recognition, the Director-General must consult the agency or person in accordance with [section 82X][130] about the proposed withdrawal of recognition, unless the agency is, or is within, the Ministry or the person is within the Ministry.
     
@@ -2602,7 +2606,7 @@ Officers, cost recovery, etc
     
     *   (b) include a copy (or an adequate summary) of all material information the Director-General relies on in proposing to withdraw the recognition.
     
-    Section 82N: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82N: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82O Withdrawal of recognition of recognised class
     
@@ -2620,7 +2624,7 @@ Officers, cost recovery, etc
     
     *   (b) include a copy (or an adequate summary) of all material information the Director-General relies on in proposing to withdraw the recognition.
     
-    Section 82O: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82O: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82P Method of withdrawal of recognition
     
@@ -2658,11 +2662,11 @@ Officers, cost recovery, etc
     
     (5) An agency or a person whose recognition is withdrawn must, as soon as practicable after the withdrawal of recognition takes effect, take reasonable steps to notify each person who was a client of the agency or person immediately before the withdrawal that the agency's or person's recognition has been withdrawn.
     
-    Section 82P: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82P: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 #### Surrender of recognition
     
-*   Heading: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+*   Heading: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82Q Surrender of recognition
     
@@ -2680,7 +2684,7 @@ Officers, cost recovery, etc
     
     *   (c) take reasonable steps to notify each person who will be a client of the agency or person immediately before the surrender that the agency's or person's recognition is surrendered.
     
-    Section 82Q: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82Q: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82R Effective date of surrender of recognition
     
@@ -2690,11 +2694,11 @@ Officers, cost recovery, etc
     
     *   (b) the date on which the Director-General records the surrender in the public register in accordance with [section 82T(1)(b)(v)][125] or removes the agency or person from the public register in accordance with [section 82V(3)][127].
     
-    Section 82R: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82R: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 #### Public register of recognised agencies, recognised persons, and recognised classes
     
-*   Heading: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+*   Heading: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82S Public register of recognised agencies, recognised persons, and recognised classes to be kept
     
@@ -2720,7 +2724,7 @@ Officers, cost recovery, etc
     
     *   (b) facilitate the compliance, audit, and other supporting and administrative functions of the Ministry under this Act.
     
-    Section 82S: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82S: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82T Contents of public register
     
@@ -2776,7 +2780,7 @@ Officers, cost recovery, etc
     
     *   (b) be recorded in one of those areas of the register and cross-referenced in the other area of the register.
     
-    Section 82T: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82T: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82U Inspection of public register
     
@@ -2786,7 +2790,7 @@ Officers, cost recovery, etc
     
     *   (b) supply to any person, on request and on payment of a reasonable charge (if any), a copy of any entries on the public register.
     
-    Section 82U: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82U: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82V Removal from public register
     
@@ -2804,11 +2808,11 @@ Officers, cost recovery, etc
     
     *   (b) remove that agency, person, or class from the public register.
     
-    Section 82V: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82V: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 #### Miscellaneous matters relating to recognition
     
-*   Heading: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+*   Heading: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82W Notification to category or class of persons
     
@@ -2834,7 +2838,7 @@ Officers, cost recovery, etc
     
     *   (b) the size and type of the category or class of persons and its characteristics, geographical spread, and degree of representation and organisation.
     
-    Section 82W: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82W: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82X Means of consultation
     
@@ -2854,7 +2858,7 @@ Officers, cost recovery, etc
     
     *   (d) consider any submissions that he or she receives on the matter from any person who was notified of the matter.
     
-    Section 82X: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82X: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82Y Director-General may require notification of termination of contracts
     
@@ -2864,7 +2868,7 @@ Officers, cost recovery, etc
     
     (3) The recognised management plan verifier or recognised verifying agency must notify the Director-General in writing of the termination as soon as practicable, and in no case later than 7 days after it occurs.
     
-    Section 82Y: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82Y: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 82Z Director-General must consider exemption, waiver, or refund of fees
     
@@ -2878,7 +2882,7 @@ Officers, cost recovery, etc
     
     (2) However, subsection (1) only applies if regulations prescribing the relevant fee, charge, or levy authorise the Director-General to grant an exemption, waiver, or refund in these circumstances (_see_ [section 92][144]).
     
-    Section 82Z: inserted, on 31 August 2012, by [section 9][224] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 82Z: inserted, on 31 August 2012, by [section 9][225] of the Wine Amendment Act 2012 (2012 No 70).
 
 #### Protection of persons acting under Act
 
@@ -3072,13 +3076,13 @@ Officers, cost recovery, etc
     
 *   (1) If a person has failed to pay to the Director-General by the due date any fee, levy, or charge payable under this subpart,---
         
-    *   (a) [section 14][226] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 applies to increase the amount payable; and
+    *   (a) [section 14][227] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 applies to increase the amount payable; and
     
-    *   (b) [section 15][227] of that Act applies to allow the Director-General, in appropriate cases, to waive the payment of all or any of the amount of any such increase; and
+    *   (b) [section 15][228] of that Act applies to allow the Director-General, in appropriate cases, to waive the payment of all or any of the amount of any such increase; and
     
-    *   (c) [section 16][228] of that Act applies to allow the Director-General to withdraw, or refuse to provide the person in default with, any service of the kind to which the debt relates.
+    *   (c) [section 16][229] of that Act applies to allow the Director-General to withdraw, or refuse to provide the person in default with, any service of the kind to which the debt relates.
     
-    (2) For the purposes of subsection (1)(c) of this section and [section 16][228] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997, and without limiting the generality of that section 16, the references in those provisions to the withdrawal or refusal to provide any service are to be treated as also authorising the Director-General, in an appropriate case, to---
+    (2) For the purposes of subsection (1)(c) of this section and [section 16][229] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997, and without limiting the generality of that section 16, the references in those provisions to the withdrawal or refusal to provide any service are to be treated as also authorising the Director-General, in an appropriate case, to---
         
     *   (a) withhold or suspend any approval under this Act, or refuse to perform any function under this Act in relation to the person in default:
     
@@ -3100,7 +3104,7 @@ Officers, cost recovery, etc
         
     *   (a) have not been revoked with effect on or before 1 July in the next year; and
     
-    *   (b) have not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of [Part 3][229] of the Legislation Act 2012,---
+    *   (b) have not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of [Part 3][230] of the Legislation Act 2012,---
     
     they are to be treated as having been revoked with the close of 30 June in that next year unless confirmed by an Act of Parliament passed on or before that day.
     
@@ -3108,13 +3112,13 @@ Officers, cost recovery, etc
         
     *   (a) have not been revoked with effect on or before 1 January in the year after the next year; and
     
-    *   (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of [Part 3][229] of the Legislation Act 2012,---
+    *   (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of [Part 3][230] of the Legislation Act 2012,---
     
     they are to be treated as having been revoked with the close of 31 December in the year after the year in which they were made, unless confirmed by an Act of Parliament passed on or before that day.
     
-    Section 96(1)(b): amended, on 5 August 2013, by [section 77(3)][230] of the Legislation Act 2012 (2012 No 119).
+    Section 96(1)(b): amended, on 5 August 2013, by [section 77(3)][231] of the Legislation Act 2012 (2012 No 119).
     
-    Section 96(2)(b): amended, on 5 August 2013, by [section 77(3)][230] of the Legislation Act 2012 (2012 No 119).
+    Section 96(2)(b): amended, on 5 August 2013, by [section 77(3)][231] of the Legislation Act 2012 (2012 No 119).
 
 ## Part 4  
 Offences, penalties, and miscellaneous provisions
@@ -3147,9 +3151,9 @@ Offences, penalties, and miscellaneous provisions
     
     *   (b) in the case of an individual, to imprisonment for a term not exceeding 5 years and a fine not exceeding $100,000\.
     
-    Section 97(2): repealed, on 1 July 2013, by [section 413][231] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 97(2): repealed, on 1 July 2013, by [section 413][232] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 97(3): amended, on 1 July 2013, by [section 413][231] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 97(3): amended, on 1 July 2013, by [section 413][232] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 98 Offences involving endangerment of human health
     
@@ -3175,9 +3179,9 @@ Offences, penalties, and miscellaneous provisions
     
     *   (b) in the case of an individual, to imprisonment for a term not exceeding 2 years and a fine not exceeding $75,000\.
     
-    Section 98(3): repealed, on 1 July 2013, by [section 413][231] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 98(3): repealed, on 1 July 2013, by [section 413][232] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 98(4): amended, on 1 July 2013, by [section 413][231] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 98(4): amended, on 1 July 2013, by [section 413][232] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 99 Sale of non-complying wine
     
@@ -3193,9 +3197,9 @@ Offences, penalties, and miscellaneous provisions
     
     *   (b) in the case of an individual, to a fine not exceeding $50,000\.
     
-    Section 99(3): repealed, on 1 July 2013, by [section 413][231] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 99(3): repealed, on 1 July 2013, by [section 413][232] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 99(4): amended, on 1 July 2013, by [section 413][231] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 99(4): amended, on 1 July 2013, by [section 413][232] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 100 Offence to export unless registered or in compliance with export eligibility requirements
     
@@ -3211,9 +3215,9 @@ Offences, penalties, and miscellaneous provisions
     
     *   (b) $50,000, in the case of an individual.
     
-    Section 100(3): repealed, on 1 July 2013, by [section 413][231] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 100(3): repealed, on 1 July 2013, by [section 413][232] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 100(4): amended, on 1 July 2013, by [section 413][231] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 100(4): amended, on 1 July 2013, by [section 413][232] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 101 Obstruction of officers, etc
     
@@ -3235,7 +3239,7 @@ Offences, penalties, and miscellaneous provisions
     
     *   (b) $50,000, in the case of an individual.
     
-    Section 101(3): amended, on 1 July 2013, by [section 413][231] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 101(3): amended, on 1 July 2013, by [section 413][232] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 102 Offence of breach of duty
     
@@ -3255,11 +3259,11 @@ Offences, penalties, and miscellaneous provisions
     
     *   (b) $20,000, in the case of an individual.
     
-    Section 102(1)(c): amended, on 31 August 2012, by [section 10(1)][232] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 102(1)(c): amended, on 31 August 2012, by [section 10(1)][233] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 102(1)(d): amended, on 31 August 2012, by [section 10(2)][232] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 102(1)(d): amended, on 31 August 2012, by [section 10(2)][233] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 102(2): amended, on 1 July 2013, by [section 413][231] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 102(2): amended, on 1 July 2013, by [section 413][232] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 103 Failure to comply with Act, etc
     
@@ -3277,7 +3281,7 @@ Offences, penalties, and miscellaneous provisions
     
     *   (b) $20,000, in the case of an individual.
     
-    Section 103(2): amended, on 1 July 2013, by [section 413][231] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 103(2): amended, on 1 July 2013, by [section 413][232] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 104 Defence for persons charged with breach of duty or failure to comply
     
@@ -3323,7 +3327,7 @@ Offences, penalties, and miscellaneous provisions
         
         
     
-    *   (b) a certificate purporting to be signed by any person authorised by this Act or the [State Sector Act 1988][204] to delegate to any person, or to persons of any kind or description, the exercise or performance of any power or function under this Act, stating that---
+    *   (b) a certificate purporting to be signed by any person authorised by this Act or the [State Sector Act 1988][205] to delegate to any person, or to persons of any kind or description, the exercise or performance of any power or function under this Act, stating that---
             
         *   (i) the person has delegated the exercise or performance of the power or function specified in the certificate to the person specified in the certificate; or
         
@@ -3353,9 +3357,9 @@ Offences, penalties, and miscellaneous provisions
     
     (5) The court may not make an order under subsection (4)(b) unless it is satisfied that there is a reasonable doubt as to the accuracy or validity or identity of a certificate or document.
     
-    Section 105(1)(c): amended, on 31 August 2012, by [section 11(1)][233] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 105(1)(c): amended, on 31 August 2012, by [section 11(1)][234] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 105(3): amended, on 31 August 2012, by [section 11(2)][233] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 105(3): amended, on 31 August 2012, by [section 11(2)][234] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 106 Presumption as to authority
     
@@ -3391,9 +3395,9 @@ Offences, penalties, and miscellaneous provisions
 
 ##### 110 Time for filing charge for offence against section 102 or 103
     
-*   Despite anything to the contrary in [section 25][234] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against [section 102][156] or [103][157] of this Act ends on the date that is 2 years after the date on which the offence was committed.
+*   Despite anything to the contrary in [section 25][235] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against [section 102][156] or [103][157] of this Act ends on the date that is 2 years after the date on which the offence was committed.
     
-    Section 110: replaced, on 1 July 2013, by [section 413][231] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 110: replaced, on 1 July 2013, by [section 413][232] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Industry levies
 
@@ -3401,19 +3405,19 @@ Offences, penalties, and miscellaneous provisions
     
 *   (1) The purpose of this section is to allow the wine industry to determine to introduce and impose 1 or more levies on wine that are payable to a body representing the views and interests of winemakers.
     
-    (2) Subject to this section, the provisions of the [Commodity Levies Act 1990][235] apply to wine as if it were a commodity within the meaning of that Act.
+    (2) Subject to this section, the provisions of the [Commodity Levies Act 1990][236] apply to wine as if it were a commodity within the meaning of that Act.
     
     (3) Despite subsection (2),---
         
-    *   (a) paragraphs (ag) to (ak) of [section 5(2)][236] of the Commodity Levies Act 1990 apply as if the references in those paragraphs to ""more than half"" of the various kinds of support or totals were references to ""more than 60%"" of the relevant support or total:
+    *   (a) paragraphs (ag) to (ak) of [section 5(2)][237] of the Commodity Levies Act 1990 apply as if the references in those paragraphs to ""more than half"" of the various kinds of support or totals were references to ""more than 60%"" of the relevant support or total:
     
     *   (b) a referendum to demonstrate support for the levy proposal may include sub-referenda within industry-agreed groups within the wine industry; if this is the case, the more than 60% support requirement applies to each industry-agreed group.
     
-    (4) Despite subsection (2), any wine levy order made in accordance with this section and the provisions of the [Commodity Levies Act 1990][235]---
+    (4) Despite subsection (2), any wine levy order made in accordance with this section and the provisions of the [Commodity Levies Act 1990][236]---
         
     *   (a) may be made under this Act, rather than under that Act, as if authorised by [section 119][178] of this Act; but
     
-    *   (b) must be made on the recommendation of the Minister responsible for the [Commodity Levies Act 1990][235], and are to be administered under that Act.
+    *   (b) must be made on the recommendation of the Minister responsible for the [Commodity Levies Act 1990][236], and are to be administered under that Act.
     
     
 
@@ -3517,21 +3521,21 @@ Offences, penalties, and miscellaneous provisions
     
     (8) A decision by the Director-General under this section is final, unless determined otherwise by a court of law of competent jurisdiction.
     
-    Section 114(1): amended, on 31 August 2012, by [section 12(1)][237] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 114(1): amended, on 31 August 2012, by [section 12(1)][238] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 114(1)(g): replaced, on 31 August 2012, by [section 12(2)][237] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 114(1)(g): replaced, on 31 August 2012, by [section 12(2)][238] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 114(1)(h): replaced, on 31 August 2012, by [section 12(2)][237] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 114(1)(h): replaced, on 31 August 2012, by [section 12(2)][238] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 114(1)(ha): inserted, on 31 August 2012, by [section 12(2)][237] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 114(1)(ha): inserted, on 31 August 2012, by [section 12(2)][238] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 114(1)(hb): inserted, on 31 August 2012, by [section 12(2)][237] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 114(1)(hb): inserted, on 31 August 2012, by [section 12(2)][238] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 114(1)(hc): inserted, on 31 August 2012, by [section 12(2)][237] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 114(1)(hc): inserted, on 31 August 2012, by [section 12(2)][238] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 114(1)(hd): inserted, on 31 August 2012, by [section 12(2)][237] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 114(1)(hd): inserted, on 31 August 2012, by [section 12(2)][238] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 114(1)(he): inserted, on 31 August 2012, by [section 12(2)][237] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 114(1)(he): inserted, on 31 August 2012, by [section 12(2)][238] of the Wine Amendment Act 2012 (2012 No 70).
 
 #### Consultation, notification, etc
 
@@ -3645,7 +3649,7 @@ Offences, penalties, and miscellaneous provisions
     
     *   (b) a company or other body to whom the relevant person is contracted in relation to the person's functions for the purposes of this Act.
     
-    Section 118(1A): inserted, on 31 August 2012, by [section 13][238] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 118(1A): inserted, on 31 August 2012, by [section 13][239] of the Wine Amendment Act 2012 (2012 No 70).
 
 #### Regulations, notices, etc
 
@@ -3713,15 +3717,15 @@ Offences, penalties, and miscellaneous provisions
     
     *   (c) exempt from compliance with or from the application of any provisions of the regulations any wine, process, operation, person, place, premises, or area, or authorise the Minister or the Director-General to grant such exemptions as the regulations may specify.
     
-    Section 119(1)(h): replaced, on 31 August 2012, by [section 14(1)][239] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 119(1)(h): replaced, on 31 August 2012, by [section 14(1)][240] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 119(1)(ha): inserted, on 31 August 2012, by [section 14(1)][239] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 119(1)(ha): inserted, on 31 August 2012, by [section 14(1)][240] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 119(1)(hb): inserted, on 31 August 2012, by [section 14(1)][239] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 119(1)(hb): inserted, on 31 August 2012, by [section 14(1)][240] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 119(1)(hc): inserted, on 31 August 2012, by [section 14(1)][239] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 119(1)(hc): inserted, on 31 August 2012, by [section 14(1)][240] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 119(1)(j): replaced, on 31 August 2012, by [section 14(2)][239] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 119(1)(j): replaced, on 31 August 2012, by [section 14(2)][240] of the Wine Amendment Act 2012 (2012 No 70).
 
 ##### 120 Notices
     
@@ -3773,17 +3777,17 @@ Offences, penalties, and miscellaneous provisions
     
     (2) Any notice under subsection (1) must be notified in accordance with [section 116][174].
     
-    (3) A notice under subsection (1)(o) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][240] and must be presented to the House of Representatives under [section 41][241] of that Act.
+    (3) A notice under subsection (1)(o) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][241] and must be presented to the House of Representatives under [section 41][242] of that Act.
     
-    Section 120(1)(f): replaced, on 31 August 2012, by [section 15(1)][242] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 120(1)(f): replaced, on 31 August 2012, by [section 15(1)][243] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 120(1)(n): replaced, on 31 August 2012, by [section 15(2)][242] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 120(1)(n): replaced, on 31 August 2012, by [section 15(2)][243] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 120(1)(na): inserted, on 31 August 2012, by [section 15(2)][242] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 120(1)(na): inserted, on 31 August 2012, by [section 15(2)][243] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 120(1)(nb): inserted, on 31 August 2012, by [section 15(2)][242] of the Wine Amendment Act 2012 (2012 No 70).
+    Section 120(1)(nb): inserted, on 31 August 2012, by [section 15(2)][243] of the Wine Amendment Act 2012 (2012 No 70).
     
-    Section 120(3): replaced, on 5 August 2013, by [section 77(3)][230] of the Legislation Act 2012 (2012 No 119).
+    Section 120(3): replaced, on 5 August 2013, by [section 77(3)][231] of the Legislation Act 2012 (2012 No 119).
 
 ##### 121 Incorporation of material by reference into regulations, notices, and orders
     
@@ -3835,21 +3839,21 @@ Offences, penalties, and miscellaneous provisions
 
 ##### 124 Alcohol Advisory Council Act 1976 amended
     
-*   (1) The [Alcohol Advisory Council Act 1976][243] is amended in the manner indicated in [Part 1][244] of Schedule 2 with effect on 1 January 2004\.
+*   (1) The [Alcohol Advisory Council Act 1976][244] is amended in the manner indicated in [Part 1][245] of Schedule 2 with effect on 1 January 2004\.
     
-    (2) The [Alcohol Advisory Council Act 1976][243] is amended in the manner indicated in [Part 2][245] of Schedule 2 with effect on the close of 30 June 2004\.
+    (2) The [Alcohol Advisory Council Act 1976][244] is amended in the manner indicated in [Part 2][246] of Schedule 2 with effect on the close of 30 June 2004\.
 
 ##### 125 Food Act 1981 amended
     
-*   _Amendment(s) incorporated in the [Act(s)][246]_.
+*   _Amendment(s) incorporated in the [Act(s)][247]_.
 
 ##### 126 Privacy Act 1993 amended
     
-*   _Amendment(s) incorporated in the [Act(s)][247]_.
+*   _Amendment(s) incorporated in the [Act(s)][248]_.
 
 ##### 127 Customs and Excise Regulations 1996 amended
     
-*   _Amendment(s) incorporated in the [regulations][248]_.
+*   _Amendment(s) incorporated in the [regulations][249]_.
 
 ##### 128 Wine Makers Regulations 1990 revoked
     
@@ -3898,7 +3902,7 @@ Form of search warrant
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 1 October 2012, by [section 310(13)][214] of the Search and Surveillance Act 2012 (2012 No 24).
+*   Schedule 1: repealed, on 1 October 2012, by [section 310(13)][215] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ---
 
@@ -3912,14 +3916,14 @@ Amendments in force on 1 January 2004
 
 ##### Alcohol Advisory Council Act 1976 (1976 No 143)
 
-_Amendment(s) incorporated in the [Act(s)][249]_.
+_Amendment(s) incorporated in the [Act(s)][250]_.
 
 ## Part 2  
 Amendments in force on 30 June 2004
 
 ##### Alcohol Advisory Council Act 1976 (1976 No 143)
 
-_Amendment(s) incorporated in the [Act(s)][249]_.
+_Amendment(s) incorporated in the [Act(s)][250]_.
 
 ---
 
@@ -3931,7 +3935,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Wine Amendment Act 2012][250].
+*   This Act is the [Wine Amendment Act 2012][251].
 
 ##### 2 Commencement
     
@@ -3957,25 +3961,27 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][251] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][252] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][252] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][253] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][253] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][254] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][254] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][255] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][230]
+*   [Wine Amendment Act 2013][256] (2013 No 139)
     
-    [Wine Amendment Act 2012][250] (2012 No 70)
+    Legislation Act 2012 (2012 No 119): [section 77(3)][231]
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 310][214]
+    [Wine Amendment Act 2012][251] (2012 No 70)
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][231]
+    Search and Surveillance Act 2012 (2012 No 24): [section 310][215]
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][220]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][232]
     
-    [Wine Amendment Act 2005][255] (2005 No 119)
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][221]
+    
+    [Wine Amendment Act 2005][257] (2005 No 119)
     
     [Wine Act Commencement Order 2005][195] (SR 2005/28)
 
@@ -4183,57 +4189,59 @@ Commencementsee section 2
 [199]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM50182
 [200]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444907
 [201]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444930
-[202]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM362689
-[203]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444931
-[204]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM129109
-[205]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444933
-[206]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM129566
-[207]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136771
-[208]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136801
-[209]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136877
-[210]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136888
-[211]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136896
-[212]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136813
-[213]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136815
-[214]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2137092
-[215]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136770
-[216]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4355336
-[217]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136781
-[218]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136883
-[219]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136542
-[220]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM1102349
-[221]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136842
-[222]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136860
-[223]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444934
-[224]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444936
-[225]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM130706
-[226]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM418630
-[227]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM418632
-[228]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM418633
-[229]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2998557
-[230]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2998633
-[231]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM3360714
-[232]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444993
-[233]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444994
-[234]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM3360067
-[235]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM226673
-[236]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM227327
-[237]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444995
-[238]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444996
-[239]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444997
-[240]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2997643
-[241]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2998573
-[242]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444998
-[243]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM439968
-[244]: http://www.legislation.govt.nz/act/public/2003/0114/latest/whole.html#DLM223807
-[245]: http://www.legislation.govt.nz/act/public/2003/0114/latest/whole.html#DLM223809
-[246]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM49931
-[247]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM298477
-[248]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM220030
-[249]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM439978
-[250]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444900
-[251]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2998516
-[252]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2998515
-[253]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2998532
-[254]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[255]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM362683
+[202]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM5628807
+[203]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM362689
+[204]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444931
+[205]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM129109
+[206]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444933
+[207]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM129566
+[208]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136771
+[209]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136801
+[210]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136877
+[211]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136888
+[212]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136896
+[213]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136813
+[214]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136815
+[215]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2137092
+[216]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136770
+[217]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4355336
+[218]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136781
+[219]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136883
+[220]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136542
+[221]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM1102349
+[222]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136842
+[223]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2136860
+[224]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444934
+[225]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444936
+[226]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM130706
+[227]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM418630
+[228]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM418632
+[229]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM418633
+[230]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2998557
+[231]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2998633
+[232]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM3360714
+[233]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444993
+[234]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444994
+[235]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM3360067
+[236]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM226673
+[237]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM227327
+[238]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444995
+[239]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444996
+[240]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444997
+[241]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2997643
+[242]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2998573
+[243]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444998
+[244]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM439968
+[245]: http://www.legislation.govt.nz/act/public/2003/0114/latest/whole.html#DLM223807
+[246]: http://www.legislation.govt.nz/act/public/2003/0114/latest/whole.html#DLM223809
+[247]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM49931
+[248]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM298477
+[249]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM220030
+[250]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM439978
+[251]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM4444900
+[252]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2998516
+[253]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2998515
+[254]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM2998532
+[255]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[256]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM5628800
+[257]: http://www.legislation.govt.nz/act/public/2003/0114/latest/link.aspx?id=DLM362683
