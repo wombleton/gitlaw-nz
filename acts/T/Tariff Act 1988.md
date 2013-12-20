@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -572,15 +572,17 @@ An Act to consolidate and amend the law relating to the imposition of tariff dut
 
 ##### 9C Application of Legislation Act 2012
     
-*   Orders in Council amending or modifying the Tariff made under [section 9][21] or [10][29] on or after 1 July 2011 are disallowable instruments, but not legislative instruments, for the purposes of the [Legislation Act 2012][79] and must be presented to the House of Representatives under [section 41][80] of that Act.
+*   Orders in Council amending or modifying the Tariff made under [section 9][21] or [10][29] on or after the date on which [section 77(3)][81] of the Legislation Act 2012 comes into force are disallowable instruments, but not legislative instruments, for the purposes of the [Legislation Act 2012][79] and must be presented to the House of Representatives under [section 41][80] of that Act.
     
     Section 9C: replaced, on 5 August 2013, by [section 77(3)][81] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 9C: amended, on 5 December 2013, by [section 4][87] of the Tariff Amendment Act 2013 (2013 No 135).
 
 ##### 9D Judicial notice of Tariff
     
 *   Judicial notice must be taken by all courts and persons acting judicially of the Tariff.
     
-    Compare: 1989 No 142 [ss 16A][87], [16B(1)][88]
+    Compare: 1989 No 142 [ss 16A][88], [16B(1)][89]
     
     Section 9D: inserted, on 1 January 2010, by [section 8][86] of the Tariff Amendment Act 2009 (2009 No 62).
 
@@ -592,7 +594,7 @@ An Act to consolidate and amend the law relating to the imposition of tariff dut
     
     *   (b) to have been so published or made available.
     
-    Compare: 1989 No 142 [s 16C][89]
+    Compare: 1989 No 142 [s 16C][90]
     
     Section 9E: inserted, on 1 January 2010, by [section 8][86] of the Tariff Amendment Act 2009 (2009 No 62).
 
@@ -602,13 +604,13 @@ An Act to consolidate and amend the law relating to the imposition of tariff dut
     
     (2) The Tariff may be altered or amended by an Order in Council made under [section 9][21] or [10][29] as if it were a regulation.
     
-    (3) The [Interpretation Act 1999][90] applies to the Tariff as if it were an enactment.
+    (3) The [Interpretation Act 1999][91] applies to the Tariff as if it were an enactment.
     
     (4) Nothing in this Act limits or affects the application of---
         
-    *   (a) [Part 2][91] of the Legislation Act 2012 and the [Interpretation Act 1999][90] to an Act amending, revoking, or revoking and replacing the Tariff, this Act (either alone or with other enactments), or both; or
+    *   (a) [Part 2][92] of the Legislation Act 2012 and the [Interpretation Act 1999][91] to an Act amending, revoking, or revoking and replacing the Tariff, this Act (either alone or with other enactments), or both; or
     
-    *   (b) the [Interpretation Act 1999][90] to an Order in Council made under [section 9][21] or [10][29].
+    *   (b) the [Interpretation Act 1999][91] to an Order in Council made under [section 9][21] or [10][29].
     
     Section 9F: inserted, on 1 January 2010, by [section 8][86] of the Tariff Amendment Act 2009 (2009 No 62).
     
@@ -618,7 +620,7 @@ An Act to consolidate and amend the law relating to the imposition of tariff dut
     
 *   Every reference in the following to the Tariff or to [Schedule 1][48] of the Tariff Act 1988 must be read as if it were a reference to the Tariff (as defined by [section 2][3] of the Tariff Act 1988 as amended by [section 6(1)][54] of the Tariff Amendment Act 2009):
         
-    *   (a) an enactment not added, amended, inserted, or substituted by the [Tariff Amendment Act 2009][92] and in force at the commencement of this section:
+    *   (a) an enactment not added, amended, inserted, or substituted by the [Tariff Amendment Act 2009][93] and in force at the commencement of this section:
     
     *   (b) a document in operation at that commencement.
     
@@ -670,11 +672,11 @@ An Act to consolidate and amend the law relating to the imposition of tariff dut
     
     Compare: 1966 No 19 s 133
     
-    Section 12(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][93] of the Policing Act 2008 (2008 No 72).
+    Section 12(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][94] of the Policing Act 2008 (2008 No 72).
     
-    Section 12(2): amended, on 1 January 2011, by [section 58][94] of the Limitation Act 2010 (2010 No 110).
+    Section 12(2): amended, on 1 January 2011, by [section 58][95] of the Limitation Act 2010 (2010 No 110).
     
-    Section 12(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][93] of the Policing Act 2008 (2008 No 72).
+    Section 12(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][94] of the Policing Act 2008 (2008 No 72).
 
 ##### 13 Certain Orders in Council relating to duties may be retrospective
     
@@ -748,23 +750,23 @@ An Act to consolidate and amend the law relating to the imposition of tariff dut
     
     _transitional safeguard measure_ means a transitional safeguard measure applied under [section 15F][40].
     
-    Section 15A: inserted, on 1 July 2005, by [section 7][95] of the Tariff (New Zealand--Thailand Closer Economic Partnership) Act 2005 (2005 No 78).
+    Section 15A: inserted, on 1 July 2005, by [section 7][96] of the Tariff (New Zealand--Thailand Closer Economic Partnership) Act 2005 (2005 No 78).
     
-    Section 15A **China FTA**: inserted, on 1 October 2008, by [section 7(2)][96] of the Tariff Amendment Act 2008 (2008 No 49).
+    Section 15A **China FTA**: inserted, on 1 October 2008, by [section 7(2)][97] of the Tariff Amendment Act 2008 (2008 No 49).
     
-    Section 15A **free trade agreement**: substituted, on 1 October 2008, by [section 7(1)][96] of the Tariff Amendment Act 2008 (2008 No 49).
+    Section 15A **free trade agreement**: substituted, on 1 October 2008, by [section 7(1)][97] of the Tariff Amendment Act 2008 (2008 No 49).
     
-    Section 15A **free trade agreement** paragraph (b): amended, on 1 January 2010, by [section 8][97] of the Tariff (AANZFTA) Amendment Act 2009 (2009 No 20).
+    Section 15A **free trade agreement** paragraph (b): amended, on 1 January 2010, by [section 8][98] of the Tariff (AANZFTA) Amendment Act 2009 (2009 No 20).
     
-    Section 15A **free trade agreement** paragraph (c): added, on 1 January 2010, by [section 8][97] of the Tariff (AANZFTA) Amendment Act 2009 (2009 No 20).
+    Section 15A **free trade agreement** paragraph (c): added, on 1 January 2010, by [section 8][98] of the Tariff (AANZFTA) Amendment Act 2009 (2009 No 20).
     
-    Section 15A **free trade agreement** paragraph (c): amended, on 1 August 2010, by [section 4(1)][98] of the Tariff (Malaysia Free Trade Agreement) Amendment Act 2010 (2010 No 45).
+    Section 15A **free trade agreement** paragraph (c): amended, on 1 August 2010, by [section 4(1)][99] of the Tariff (Malaysia Free Trade Agreement) Amendment Act 2010 (2010 No 45).
     
-    Section 15A **free trade agreement** paragraph (d): added, on 1 August 2010, by [section 4(1)][98] of the Tariff (Malaysia Free Trade Agreement) Amendment Act 2010 (2010 No 45).
+    Section 15A **free trade agreement** paragraph (d): added, on 1 August 2010, by [section 4(1)][99] of the Tariff (Malaysia Free Trade Agreement) Amendment Act 2010 (2010 No 45).
     
-    Section 15A **Malaysia FTA**: inserted, on 1 August 2010, by [section 4(2)][98] of the Tariff (Malaysia Free Trade Agreement) Amendment Act 2010 (2010 No 45).
+    Section 15A **Malaysia FTA**: inserted, on 1 August 2010, by [section 4(2)][99] of the Tariff (Malaysia Free Trade Agreement) Amendment Act 2010 (2010 No 45).
     
-    Section 15A **Thai FTA**: inserted, on 1 October 2008, by [section 7(2)][96] of the Tariff Amendment Act 2008 (2008 No 49).
+    Section 15A **Thai FTA**: inserted, on 1 October 2008, by [section 7(2)][97] of the Tariff Amendment Act 2008 (2008 No 49).
 
 ##### 15B Chief executive may undertake transitional safeguard investigation
     
@@ -786,11 +788,11 @@ An Act to consolidate and amend the law relating to the imposition of tariff dut
     
     *   (b) only if the relevant free trade agreement provides for the application of a transitional safeguard measure.
     
-    Section 15B: inserted, on 1 July 2005, by [section 7][95] of the Tariff (New Zealand--Thailand Closer Economic Partnership) Act 2005 (2005 No 78).
+    Section 15B: inserted, on 1 July 2005, by [section 7][96] of the Tariff (New Zealand--Thailand Closer Economic Partnership) Act 2005 (2005 No 78).
     
-    Section 15B(1): amended, on 1 October 2008, by [section 8(1)][99] of the Tariff Amendment Act 2008 (2008 No 49).
+    Section 15B(1): amended, on 1 October 2008, by [section 8(1)][100] of the Tariff Amendment Act 2008 (2008 No 49).
     
-    Section 15B(2)(b): amended, on 1 October 2008, by [section 8(2)][99] of the Tariff Amendment Act 2008 (2008 No 49).
+    Section 15B(2)(b): amended, on 1 October 2008, by [section 8(2)][100] of the Tariff Amendment Act 2008 (2008 No 49).
 
 ##### 15C Investigative procedures
     
@@ -814,7 +816,7 @@ An Act to consolidate and amend the law relating to the imposition of tariff dut
     
     (4) The chief executive must publish the procedures, and any amendments to the procedures, in the _Gazette_.
     
-    Section 15C: inserted, on 1 July 2005, by [section 7][95] of the Tariff (New Zealand--Thailand Closer Economic Partnership) Act 2005 (2005 No 78).
+    Section 15C: inserted, on 1 July 2005, by [section 7][96] of the Tariff (New Zealand--Thailand Closer Economic Partnership) Act 2005 (2005 No 78).
 
 ##### 15D Matters to be taken into account by chief executive
     
@@ -828,7 +830,7 @@ An Act to consolidate and amend the law relating to the imposition of tariff dut
     
     *   (d) any other factors considered relevant to New Zealand's international obligations.
     
-    Section 15D: inserted, on 1 July 2005, by [section 7][95] of the Tariff (New Zealand--Thailand Closer Economic Partnership) Act 2005 (2005 No 78).
+    Section 15D: inserted, on 1 July 2005, by [section 7][96] of the Tariff (New Zealand--Thailand Closer Economic Partnership) Act 2005 (2005 No 78).
 
 ##### 15E Publication of investigation results
     
@@ -840,7 +842,7 @@ An Act to consolidate and amend the law relating to the imposition of tariff dut
     
     *   (b) give notice in the _Gazette_ stating that the report is available on the Internet, free of charge, and the website address.
     
-    Section 15E: inserted, on 1 July 2005, by [section 7][95] of the Tariff (New Zealand--Thailand Closer Economic Partnership) Act 2005 (2005 No 78).
+    Section 15E: inserted, on 1 July 2005, by [section 7][96] of the Tariff (New Zealand--Thailand Closer Economic Partnership) Act 2005 (2005 No 78).
 
 ##### 15F Application of transitional safeguard measure
     
@@ -876,11 +878,11 @@ An Act to consolidate and amend the law relating to the imposition of tariff dut
     
     (6) A transitional safeguard measure, in the form of a duty, applied under subsection (5) is due and payable on the demand of the Customs on and from the date on which the measure applies under subsection (2).
     
-    Section 15F: inserted, on 1 July 2005, by [section 7][95] of the Tariff (New Zealand--Thailand Closer Economic Partnership) Act 2005 (2005 No 78).
+    Section 15F: inserted, on 1 July 2005, by [section 7][96] of the Tariff (New Zealand--Thailand Closer Economic Partnership) Act 2005 (2005 No 78).
     
-    Section 15F(4)(b): amended, on 1 October 2008, by [section 9(1)][100] of the Tariff Amendment Act 2008 (2008 No 49).
+    Section 15F(4)(b): amended, on 1 October 2008, by [section 9(1)][101] of the Tariff Amendment Act 2008 (2008 No 49).
     
-    Section 15F(4)(c): amended, on 1 October 2008, by [section 9(2)][100] of the Tariff Amendment Act 2008 (2008 No 49).
+    Section 15F(4)(c): amended, on 1 October 2008, by [section 9(2)][101] of the Tariff Amendment Act 2008 (2008 No 49).
 
 ##### 15G Extension of transitional safeguard measure
     
@@ -890,7 +892,7 @@ An Act to consolidate and amend the law relating to the imposition of tariff dut
     
     *   (b) not inconsistent with New Zealand's other international obligations.
     
-    Section 15G: substituted, on 1 October 2008, by [section 10][101] of the Tariff Amendment Act 2008 (2008 No 49).
+    Section 15G: substituted, on 1 October 2008, by [section 10][102] of the Tariff Amendment Act 2008 (2008 No 49).
 
 ##### 15H Provisional transitional safeguard measure
     
@@ -946,17 +948,17 @@ An Act to consolidate and amend the law relating to the imposition of tariff dut
     
     *   (b) in any other case, to the extent (if any) that the Minister requires the duty to be refunded.
     
-    Section 15H: inserted, on 1 July 2005, by [section 7][95] of the Tariff (New Zealand--Thailand Closer Economic Partnership) Act 2005 (2005 No 78).
+    Section 15H: inserted, on 1 July 2005, by [section 7][96] of the Tariff (New Zealand--Thailand Closer Economic Partnership) Act 2005 (2005 No 78).
     
-    Section 15H(1)(a): amended, on 1 October 2008, by [section 11(1)][102] of the Tariff Amendment Act 2008 (2008 No 49).
+    Section 15H(1)(a): amended, on 1 October 2008, by [section 11(1)][103] of the Tariff Amendment Act 2008 (2008 No 49).
     
-    Section 15H(1)(b): substituted, on 1 October 2008, by [section 11(2)][102] of the Tariff Amendment Act 2008 (2008 No 49).
+    Section 15H(1)(b): substituted, on 1 October 2008, by [section 11(2)][103] of the Tariff Amendment Act 2008 (2008 No 49).
     
-    Section 15H(1)(b)(ii): amended, on 1 August 2010, by [section 5][103] of the Tariff (Malaysia Free Trade Agreement) Amendment Act 2010 (2010 No 45).
+    Section 15H(1)(b)(ii): amended, on 1 August 2010, by [section 5][104] of the Tariff (Malaysia Free Trade Agreement) Amendment Act 2010 (2010 No 45).
     
-    Section 15H(4)(b): amended, on 1 October 2008, by [section 11(3)][102] of the Tariff Amendment Act 2008 (2008 No 49).
+    Section 15H(4)(b): amended, on 1 October 2008, by [section 11(3)][103] of the Tariff Amendment Act 2008 (2008 No 49).
     
-    Section 15H(4)(c): amended, on 1 October 2008, by [section 11(4)][102] of the Tariff Amendment Act 2008 (2008 No 49).
+    Section 15H(4)(c): amended, on 1 October 2008, by [section 11(4)][103] of the Tariff Amendment Act 2008 (2008 No 49).
 
 ##### 16 General provisions as to Orders in Council
     
@@ -976,15 +978,15 @@ An Act to consolidate and amend the law relating to the imposition of tariff dut
     
     *   (b) applications for any withdrawal or modification, under [section 8(2)][20], of any approval granted under section 8(1).
     
-    Section 16A: inserted, on 8 August 1990, by [section 2][104] of the Tariff Amendment Act 1990 (1990 No 88).
+    Section 16A: inserted, on 8 August 1990, by [section 2][105] of the Tariff Amendment Act 1990 (1990 No 88).
 
 ##### 16B Regulations relating to goods temporarily imported and drawbacks of duty
     
 *   The Governor-General may from time to time, by Order in Council, make regulations---
         
-    *   (a) declaring specified goods or classes of goods subject to duty under this Act to be goods in respect of which the provisions of [section 116][105] of the Customs and Excise Act 1996 shall not be applied:
+    *   (a) declaring specified goods or classes of goods subject to duty under this Act to be goods in respect of which the provisions of [section 116][106] of the Customs and Excise Act 1996 shall not be applied:
     
-    *   (b) declaring specified goods or classes of goods subject to duty under this Act to be goods in respect of which the provisions of [section 117][106] of the Customs and Excise Act 1996 shall not be applied.
+    *   (b) declaring specified goods or classes of goods subject to duty under this Act to be goods in respect of which the provisions of [section 117][107] of the Customs and Excise Act 1996 shall not be applied.
     
     Section 16B: inserted, on 1 October 1996, by [section 289(1)][57] of the Customs and Excise Act 1996 (1996 No 27).
 
@@ -1008,9 +1010,9 @@ An Act to consolidate and amend the law relating to the imposition of tariff dut
     
     (5) _Amendment(s) incorporated in the regulations_.
     
-    Section 18(3): repealed, on 1 January 1995, by [section 2(2)][107] of the General Agreement on Tariffs and Trade Act Repeal Act 1994 (1994 No 132).
+    Section 18(3): repealed, on 1 January 1995, by [section 2(2)][108] of the General Agreement on Tariffs and Trade Act Repeal Act 1994 (1994 No 132).
     
-    Section 18(4): repealed, on 1 January 1995, by [section 2(2)][107] of the General Agreement on Tariffs and Trade Act Repeal Act 1994 (1994 No 132).
+    Section 18(4): repealed, on 1 January 1995, by [section 2(2)][108] of the General Agreement on Tariffs and Trade Act Repeal Act 1994 (1994 No 132).
 
 ---
 
@@ -1047,7 +1049,7 @@ Enactments repealed
 
 ##### Constitution Act 1986 (1986 No 114)
 
-_Amendment(s) incorporated in the [Act(s)][108]._
+_Amendment(s) incorporated in the [Act(s)][109]._
 
 ##### Customs Acts Amendment Act (No 2) 1982 (1982 No 112)
 
@@ -1087,43 +1089,45 @@ _Amendment(s) incorporated in the Act(s)._
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][109] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][110] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][110] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][111] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][111] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][112] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][112] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][113] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][81]
+*   [Tariff Amendment Act 2013][114] (2013 No 135)
     
-    Limitation Act 2010 (2010 No 110): [section 58][94]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][81]
     
-    [Tariff (Malaysia Free Trade Agreement) Amendment Act 2010][113] (2010 No 45)
+    Limitation Act 2010 (2010 No 110): [section 58][95]
     
-    [Tariff Amendment Act 2009][92] (2009 No 62)
+    [Tariff (Malaysia Free Trade Agreement) Amendment Act 2010][115] (2010 No 45)
     
-    [Tariff (AANZFTA) Amendment Act 2009][114] (2009 No 20)
+    [Tariff Amendment Act 2009][93] (2009 No 62)
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][93]
+    [Tariff (AANZFTA) Amendment Act 2009][116] (2009 No 20)
     
-    [Tariff Amendment Act 2008][115] (2008 No 49)
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][94]
     
-    [Tariff (Trans-Pacific Strategic Economic Partnership) Amendment Act 2006][116] (2006 No 4)
+    [Tariff Amendment Act 2008][117] (2008 No 49)
     
-    [Tariff (New Zealand--Thailand Closer Economic Partnership) Act 2005][117] (2005 No 78)
+    [Tariff (Trans-Pacific Strategic Economic Partnership) Amendment Act 2006][118] (2006 No 4)
+    
+    [Tariff (New Zealand--Thailand Closer Economic Partnership) Act 2005][119] (2005 No 78)
     
     Ministry of Economic Development Act 2000 (2000 No 28): [section 8(1)][56]
     
-    [Tariff (Zero Duty Removal) Amendment Act 2000][118] (2000 No 15)
+    [Tariff (Zero Duty Removal) Amendment Act 2000][120] (2000 No 15)
     
     Customs and Excise Act 1996 (1996 No 27): [section 289(1)][57]
     
     Tariff Amendment Act 1994 (1994 No 163)
     
-    General Agreement on Tariffs and Trade Act Repeal Act 1994 (1994 No 132): [section 2(2)][107]
+    General Agreement on Tariffs and Trade Act Repeal Act 1994 (1994 No 132): [section 2(2)][108]
     
-    [Tariff Amendment Act 1990][119] (1990 No 88)
+    [Tariff Amendment Act 1990][121] (1990 No 88)
 
 
 
@@ -1214,36 +1218,38 @@ _Amendment(s) incorporated in the Act(s)._
 [84]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2584124
 [85]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2997698
 [86]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2584126
-[87]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM195432
-[88]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM195434
-[89]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM195437
-[90]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM31458
-[91]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2997693
-[92]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2584102
-[93]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM1102349
-[94]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2033287
-[95]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM353729
-[96]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM1314226
-[97]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2176075
-[98]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2728920
-[99]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM1314234
-[100]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM1314235
-[101]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM1314236
-[102]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM1314238
-[103]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2728923
-[104]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM214666
-[105]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM378907
-[106]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM378909
-[107]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM345265
-[108]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM94203
-[109]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2998516
-[110]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2998515
-[111]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2998532
-[112]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[113]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2728912
-[114]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM1956108
-[115]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM1314200
-[116]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM370777
-[117]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM353717
-[118]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM55828
-[119]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM214660
+[87]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM5627908
+[88]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM195432
+[89]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM195434
+[90]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM195437
+[91]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM31458
+[92]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2997693
+[93]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2584102
+[94]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM1102349
+[95]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2033287
+[96]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM353729
+[97]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM1314226
+[98]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2176075
+[99]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2728920
+[100]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM1314234
+[101]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM1314235
+[102]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM1314236
+[103]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM1314238
+[104]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2728923
+[105]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM214666
+[106]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM378907
+[107]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM378909
+[108]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM345265
+[109]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM94203
+[110]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2998516
+[111]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2998515
+[112]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2998532
+[113]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[114]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM5627900
+[115]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2728912
+[116]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM1956108
+[117]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM1314200
+[118]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM370777
+[119]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM353717
+[120]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM55828
+[121]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM214660
