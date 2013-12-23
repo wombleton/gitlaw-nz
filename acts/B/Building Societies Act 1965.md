@@ -987,7 +987,7 @@ Constitution of building societies
 
 ##### 16 Appeal against refusal to register
     
-*   If the Registrar refuses to register the rules, the society may submit the rules to a Judge of the High Court, together with a statement in writing of the reasons assigned by the Registrar for his refusal, whereupon the Judge may, if he thinks fit, direct the Registrar to register the rules.
+*   If the Registrar refuses to register the rules, the society may submit the rules to a Judge of the High Court, together with a statement in writing of the reasons assigned by the Registrar for his or her refusal, whereupon the Judge may, if he or she thinks fit, direct the Registrar to register the rules.
     
     Compare: 1908 No 18 s 15
     
@@ -1215,7 +1215,7 @@ Constitution of building societies
     
 *   (1) A society shall not use any name or title other than its registered name:
     
-    provided that the Registrar may from time to time, by writing, authorise any society to use for any specified purpose or purposes any abbreviation of that name approved by him in that behalf.
+    provided that the Registrar may from time to time, by writing, authorise any society to use for any specified purpose or purposes any abbreviation of that name approved by him or her in that behalf.
     
     (2) If any society contravenes the provisions of subsection (1), the society, and every director of the society who is a party to the contravention, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20 and, if the offence is a continuing one, to a further fine not exceeding $20 for every day during which the offence has continued.
     
@@ -1227,11 +1227,11 @@ Constitution of building societies
     
 *   (1) Subject to the provisions of this Act, a society may change its name by special resolution.
     
-    (2) If, through inadvertence or otherwise, a society at its first registration under this Act or on its registration in a new name is registered in a name which is in contravention of [section 21][34], or of any enactment, other than this Act, relating to restrictions on the use of any name, the society shall, within a period of 6 weeks from the date of its being required by the Registrar to do so, or within such further period as he may allow, change its name by resolution to a name that is not in contravention as aforesaid.
+    (2) If, through inadvertence or otherwise, a society at its first registration under this Act or on its registration in a new name is registered in a name which is in contravention of [section 21][34], or of any enactment, other than this Act, relating to restrictions on the use of any name, the society shall, within a period of 6 weeks from the date of its being required by the Registrar to do so, or within such further period as he or she may allow, change its name by resolution to a name that is not in contravention as aforesaid.
     
     (3) The society shall give notice in writing of any such change to the Registrar for registration within 14 days after the passing of the special resolution or resolution, as the case may be.
     
-    (4) On receipt of the notice the Registrar shall, unless in his opinion the new name is undesirable, register the new name.
+    (4) On receipt of the notice the Registrar shall, unless in his or her opinion the new name is undesirable, register the new name.
     
     (5) \[Repealed\]
     
@@ -1257,11 +1257,11 @@ Constitution of building societies
     
     Compare: Building Societies Act 1962 s 8 (UK)
     
-    Section 24: amended, on 1 September 1987, by [section 38][270] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 24(2): amended, on 1 September 1987, by [section 38][270] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 25 Members under age of 20
     
-*   Any person under the age of 20 years may, if the rules do not otherwise provide, be admitted as a member of a building society, and can give all necessary receipts; but while he is under the age of 18 years he cannot vote or hold any office in the society.
+*   Any person under the age of 20 years may, if the rules do not otherwise provide, be admitted as a member of a building society, and can give all necessary receipts; but while he or she is under the age of 18 years he or she cannot vote or hold any office in the society.
     
     Compare: 1908 No 18 s 42; Building Societies Act 1962 s 9 (UK)
     
@@ -1285,7 +1285,7 @@ Constitution of building societies
     
     (2) The liability of a member in respect of any share on which a loan or other investment has been made shall be limited to the amount payable thereon under any mortgage or other security or under the rules of the society.
     
-    (3) The liability of a member to whom a loan or other investment is made under rules made in accordance with [section 24][38] shall not be greater than it would be if the rules treated him as being, by reason of the making of the loan or other investment, the holder of a share in the society.
+    (3) The liability of a member to whom a loan or other investment is made under rules made in accordance with [section 24][38] shall not be greater than it would be if the rules treated him or her as being, by reason of the making of the loan or other investment, the holder of a share in the society.
     
     Compare: 1908 No 18 s 9; Building Societies Act 1962 s 11 (UK)
     
@@ -1355,7 +1355,7 @@ Constitution of building societies
 
 ##### 29 Minimum subscription by founding members
     
-*   (1) A society incorporated after the commencement of this Act shall not commence any business or borrow any money unless there has been produced to the Registrar evidence satisfying him that all those members who signed a copy of the rules for sending to the Registrar under [section 13][24]---
+*   (1) A society incorporated after the commencement of this Act shall not commence any business or borrow any money unless there has been produced to the Registrar evidence satisfying him or her that all those members who signed a copy of the rules for sending to the Registrar under [section 13][24]---
         
     *   (a) have each been issued with shares in the society to the value of $1,000 or more on terms that conform to the requirements of [Schedule 2][236]; and
     
@@ -1363,13 +1363,13 @@ Constitution of building societies
     
     *   (c) have fully paid to the society in cash the value of the shares issued to them---
     
-    and that the Registrar has issued to the society his certificate that the requisite evidence has been so produced.
+    and that the Registrar has issued to the society his or her certificate that the requisite evidence has been so produced.
     
-    (2) If at the end of the period of 2 months beginning with the date on which the society became a body corporate the requisite evidence has not been produced to the Registrar under subsection (1), the Registrar may if he thinks fit cancel the registration of the society, and the society shall cease to enjoy the privileges of a society under this Act.
+    (2) If at the end of the period of 2 months beginning with the date on which the society became a body corporate the requisite evidence has not been produced to the Registrar under subsection (1), the Registrar may if he or she thinks fit cancel the registration of the society, and the society shall cease to enjoy the privileges of a society under this Act.
     
-    (3) Notice of the cancellation of registration of a society under subsection (2) shall be published by the Registrar in the _Gazette_, and in such other ways as appear to him to be expedient for informing the public, and the Registrar must register the cancellation.
+    (3) Notice of the cancellation of registration of a society under subsection (2) shall be published by the Registrar in the _Gazette_, and in such other ways as appear to him or her to be expedient for informing the public, and the Registrar must register the cancellation.
     
-    (4) The provisions of [Schedule 2][236] shall have effect in respect of shares issued in conformity with subsection (1), for the purpose of ensuring that the conditions attaching to the shares are observed until the end of the period of 5 years beginning with the date on which the Registrar issued his certificate to the society under that subsection.
+    (4) The provisions of [Schedule 2][236] shall have effect in respect of shares issued in conformity with subsection (1), for the purpose of ensuring that the conditions attaching to the shares are observed until the end of the period of 5 years beginning with the date on which the Registrar issued his or her certificate to the society under that subsection.
     
     (5) If any society commences business or borrows any money in contravention of this section, the society shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000; and every officer of the society who is in default shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $1,000, or to both.
     
@@ -1981,7 +1981,7 @@ Management and administration
 
 ##### 79 Proxies
     
-*   (1) Any member of a society entitled to attend and vote at a meeting of the society shall be entitled to appoint another person, whether a member or not, as his proxy to attend and, subject to subsection (2), to vote instead of him.
+*   (1) Any member of a society entitled to attend and vote at a meeting of the society shall be entitled to appoint another person, whether a member or not, as his or her proxy to attend and, subject to subsection (2), to vote instead of him.
     
     (2) Unless the society's rules otherwise provide, a proxy shall not be entitled to vote except on a poll.
     
@@ -1993,7 +1993,7 @@ Management and administration
     
     (6) If for the purpose of any meeting of a society invitations to appoint as proxy a person or one of a number of persons specified in the invitations are issued at the society's expense to some only of the members entitled to be sent a notice of the meeting and to vote thereat by proxy, every officer of the company who knowingly and wilfully authorises or permits their issue as aforesaid shall be guilty of an offence against this Act:
     
-    provided that an officer shall not be liable under this subsection by reason only of the issue to a member at his request in writing of a form of appointment naming the proxy or of a list of persons willing to act as proxy if the form is available on request in writing to every member entitled to vote at the meeting by proxy.
+    provided that an officer shall not be liable under this subsection by reason only of the issue to a member at his or her request in writing of a form of appointment naming the proxy or of a list of persons willing to act as proxy if the form is available on request in writing to every member entitled to vote at the meeting by proxy.
     
     (7) This section shall apply to meetings of any class of members of a society as it applies to general meetings of the society.
     
@@ -2035,9 +2035,9 @@ Management and administration
 
 ##### 82 Notices of special resolutions
     
-*   (1) If a member of a society gives notice in writing to the society of his intention to move a special resolution at a meeting of the society, the society shall include in the notice of the meeting a notice specifying the intention to move that resolution as a special resolution.
+*   (1) If a member of a society gives notice in writing to the society of his or her intention to move a special resolution at a meeting of the society, the society shall include in the notice of the meeting a notice specifying the intention to move that resolution as a special resolution.
     
-    (2) If the member does not specify the meeting at which he intends to move the resolution, or if he specifies a meeting that will be held 56 days or less after the date of the receipt by the society of the member's notice, the society shall act on the footing that he intends to move the resolution at the first meeting held more than 56 days after that date.
+    (2) If the member does not specify the meeting at which he or she intends to move the resolution, or if he or she specifies a meeting that will be held 56 days or less after the date of the receipt by the society of the member's notice, the society shall act on the footing that he or she intends to move the resolution at the first meeting held more than 56 days after that date.
     
     (3) If a society fails to comply with subsection (1), the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
     
@@ -2065,13 +2065,13 @@ Management and administration
 
 ##### 86 Disclosure of interest by directors
     
-*   (1) Subject to the provisions of this section, every director of a society who is in any way, directly or indirectly, interested in a contract or proposed contract with the society shall declare the nature of his interest to the board of directors in accordance with this section.
+*   (1) Subject to the provisions of this section, every director of a society who is in any way, directly or indirectly, interested in a contract or proposed contract with the society shall declare the nature of his or her interest to the board of directors in accordance with this section.
     
-    (2) In the case of a proposed contract, the declaration required by this section shall be made at the meeting of the directors at which the question of entering into the contract is taken into consideration or, if the director was not at the date of that meeting interested in the proposed contract, at the next meeting of the directors held after he becomes interested in the proposed contract.
+    (2) In the case of a proposed contract, the declaration required by this section shall be made at the meeting of the directors at which the question of entering into the contract is taken into consideration or, if the director was not at the date of that meeting interested in the proposed contract, at the next meeting of the directors held after he or she becomes interested in the proposed contract.
     
-    (3) Where the director becomes interested in a contract with the society after it is made, such declaration shall be made at the first meeting of the directors held after he becomes interested in the contract.
+    (3) Where the director becomes interested in a contract with the society after it is made, such declaration shall be made at the first meeting of the directors held after he or she becomes interested in the contract.
     
-    (4) For the purposes of this section, a general notice given by a director, at a meeting of the directors, to the effect that he is a member of a specified company or firm, and is to be regarded as interested in any contract that may thereafter be made with that company or firm, shall be a sufficient declaration of interest in relation to any such contract.
+    (4) For the purposes of this section, a general notice given by a director, at a meeting of the directors, to the effect that he or she is a member of a specified company or firm, and is to be regarded as interested in any contract that may thereafter be made with that company or firm, shall be a sufficient declaration of interest in relation to any such contract.
     
     (5) A declaration or notice under this section need not be made or given by the director in person at the meeting, if the director takes reasonable steps to ensure that it is brought up and read at the meeting.
     
@@ -2137,7 +2137,7 @@ Management and administration
         
     *   (a) fails to take all reasonable steps to ensure compliance by the society with this section; or
     
-    *   (b) has by his own wilful act been the cause of any default by the society thereunder---
+    *   (b) has by his or her own wilful act been the cause of any default by the society thereunder---
     
     he commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $400, or to both.
     
@@ -2371,9 +2371,9 @@ Management and administration
         
     *   (a) he is not qualified for reappointment; or
     
-    *   (b) a resolution has been passed at that meeting appointing somebody instead of him or providing expressly that he shall not be reappointed; or
+    *   (b) a resolution has been passed at that meeting appointing somebody instead of him or her or providing expressly that he or she shall not be reappointed; or
     
-    *   (c) he has given to the society notice in writing of his unwillingness to be reappointed:
+    *   (c) he has given to the society notice in writing of his or her unwillingness to be reappointed:
     
     provided that where notice is given of an intended resolution to appoint some person or persons in place of a retiring auditor, and by reason of the death, incapacity, or disqualification of that person or of those persons, as the case may be, the resolution cannot be proceeded with, the retiring auditor shall not be automatically reappointed by virtue of this subsection.
     
@@ -2415,9 +2415,9 @@ Management and administration
     
     *   (b) send a copy of the representations to every member to whom notice of the meeting is sent (whether before or after receipt of the representations by the society)---
     
-    and if a copy of the representations is not so sent either because they were received too late or because of the society's default, the auditor (without prejudice to his right to be heard orally) may require that they be read out at the meeting.
+    and if a copy of the representations is not so sent either because they were received too late or because of the society's default, the auditor (without prejudice to his or her right to be heard orally) may require that they be read out at the meeting.
     
-    (5) Copies of any such representations need not be sent out, and they need not be read out at the meeting, if, on the application either of the society or of any other person who claims to be aggrieved, the High Court or a Judge thereof is satisfied that the rights conferred by this section are being abused to secure needless publicity for defamatory matter; and the court or Judge may order the society's costs on any such application to be paid in whole or in part by the auditor, notwithstanding that he is not a party to the application.
+    (5) Copies of any such representations need not be sent out, and they need not be read out at the meeting, if, on the application either of the society or of any other person who claims to be aggrieved, the High Court or a Judge thereof is satisfied that the rights conferred by this section are being abused to secure needless publicity for defamatory matter; and the court or Judge may order the society's costs on any such application to be paid in whole or in part by the auditor, notwithstanding that he or she is not a party to the application.
     
     (6) Subsections (4) and (5) shall apply in relation to a resolution to remove the first auditors of a society, by virtue of subsection (4) of [section 98][155], as they apply in relation to a resolution that a retiring auditor shall not be reappointed.
     
@@ -2489,7 +2489,7 @@ Management and administration
         
     *   (a) shall have a right of access at all times to the books, accounts, and vouchers of the society, and to all other documents relating to its affairs, including the instruments relating to property mortgaged to the society; and
     
-    *   (b) shall be entitled to require from the society's officers such information and explanations as he thinks necessary for the performance of the auditors' duties.
+    *   (b) shall be entitled to require from the society's officers such information and explanations as he or she thinks necessary for the performance of the auditors' duties.
     
     (6) If the auditors fail to obtain all the information and explanations which, to the best of their knowledge and belief, are necessary for the purposes of their audit, they shall state that fact in their report.
     
@@ -2581,9 +2581,9 @@ Management and administration
     
     (2) \[Repealed\]
     
-    (3) It shall be the duty of every director and of the manager and the secretary of a society to give notice in writing to the society of such matters relating to his employment by or other interest in any company or other body corporate as may be necessary for the purposes of subsection (1); and, subject to subsection (4), a person who fails to comply with this subsection commits an offence against this Act.
+    (3) It shall be the duty of every director and of the manager and the secretary of a society to give notice in writing to the society of such matters relating to his or her employment by or other interest in any company or other body corporate as may be necessary for the purposes of subsection (1); and, subject to subsection (4), a person who fails to comply with this subsection commits an offence against this Act.
     
-    (4) In any proceedings against a person in respect of an offence against subsection (3), it shall be a defence to prove that at the time of the alleged offence he did not know that the society had made a loan or other investment to the body corporate in question, and that at that time reasonable arrangements were in operation to bring to his notice any loan or other investment made by the society to any body corporate.
+    (4) In any proceedings against a person in respect of an offence against subsection (3), it shall be a defence to prove that at the time of the alleged offence he or she did not know that the society had made a loan or other investment to the body corporate in question, and that at that time reasonable arrangements were in operation to bring to his or her notice any loan or other investment made by the society to any body corporate.
     
     (5) If the requirements of subsection (1) are not complied with, it shall be the duty of the society's auditors to include in their report, so far as they are reasonably able to do so, a statement giving the required particulars.
     
@@ -2639,7 +2639,7 @@ Management and administration
     
 *   (1) This section applies to any provision for---
         
-    *   (a) exempting any director or other officer of a society from any liability which, by virtue of any rule of law, would otherwise attach to him in respect of any negligence, default, breach of duty, or breach of trust of which he may be guilty in relation to the society; or
+    *   (a) exempting any director or other officer of a society from any liability which, by virtue of any rule of law, would otherwise attach to him or her in respect of any negligence, default, breach of duty, or breach of trust of which he or she may be guilty in relation to the society; or
     
     *   (b) indemnifying any such director or officer against any such liability.
     
@@ -2647,7 +2647,7 @@ Management and administration
     
     (3) In respect of anything done at any time before the expiry of a period of 6 months from the commencement of this Act, nothing in subsection (2) shall deprive any person of any exemption or right to be indemnified by virtue of any such provision, if that provision was in force at the commencement of this Act.
     
-    (4) This section shall not prevent a society from indemnifying a person against any liability incurred by him in defending any proceedings, whether civil or criminal, in which judgment is given in his favour or in which he is acquitted.
+    (4) This section shall not prevent a society from indemnifying a person against any liability incurred by him or her in defending any proceedings, whether civil or criminal, in which judgment is given in his or her favour or in which he or she is acquitted.
     
     (5) Section 468 of the Companies Act 1955 (which empowers the court to grant relief in certain cases of negligence, default, breach of duty, or breach of trust) shall apply (as if that section were still in force) in relation to directors and other officers of a society as it applied in relation to officers of a company.
     
@@ -2659,7 +2659,7 @@ Management and administration
 
 ##### 108 General provisions as to disputes
     
-*   (1) This section applies to any dispute between a society and a member thereof, or a representative of a member, in his capacity as a member, in respect of any matter except the construction or effect of---
+*   (1) This section applies to any dispute between a society and a member thereof, or a representative of a member, in his or her capacity as a member, in respect of any matter except the construction or effect of---
         
     *   (a) a mortgage instrument; or
     
@@ -2669,7 +2669,7 @@ Management and administration
     
     (3) Where the provisions of those sections have effect, and in accordance therewith a dispute is to be determined by arbitration, no court shall have jurisdiction to determine it except so far as those provisions confer jurisdiction in that behalf.
     
-    (4) Nothing in those sections shall prevent a society or any member thereof, or any person claiming through or under a member, from obtaining in the ordinary course of law any remedy in respect of any mortgage or in respect of any other contract, other than the society's rules, to which he or the society would otherwise be entitled by law.
+    (4) Nothing in those sections shall prevent a society or any member thereof, or any person claiming through or under a member, from obtaining in the ordinary course of law any remedy in respect of any mortgage or in respect of any other contract, other than the society's rules, to which he or she or the society would otherwise be entitled by law.
     
     (5) Any reference in a society's rules to disputes shall, except so far as the rules otherwise expressly provide, be construed as referring, and as referring only, to disputes to which this section applies.
     
@@ -3589,7 +3589,7 @@ Miscellaneous provisions
     
     (6A) Nothing in this section limits any power that the FMA has under the [Financial Markets Authority Act 2011][341] or any other enactment.
     
-    (7) If a society fails to allow an inspector appointed under this section to do anything that he is authorised to do thereunder, the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
+    (7) If a society fails to allow an inspector appointed under this section to do anything that he or she is authorised to do thereunder, the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
     
     Compare: Building Societies Act 1962 s 110 (UK)
     
@@ -3611,7 +3611,7 @@ Miscellaneous provisions
 
 ##### 124 Compulsory cancellation or suspension of registration
     
-*   (1) Subject to the provisions of this section, the Registrar, with the approval of the Minister, may cancel or suspend the registration of a society if he is satisfied---
+*   (1) Subject to the provisions of this section, the Registrar, with the approval of the Minister, may cancel or suspend the registration of a society if he or she is satisfied---
         
     *   (a) that a certificate of incorporation has been obtained for the society by fraud or mistake; or
     
@@ -3627,11 +3627,11 @@ Miscellaneous provisions
     
     (4) Before cancelling or suspending the registration of a society under this section, the Registrar shall give to the society not less than 2 months' notice in writing, specifying briefly the grounds of the proposed cancellation or suspension.
     
-    (5) The Registrar shall consider any representations with respect to the proposed cancellation or suspension that may be made to him by the society within the said period of 2 months or such further period as he may allow, and, if the society so requests, shall afford to it an opportunity of being heard by him within such period or further period as aforesaid.
+    (5) The Registrar shall consider any representations with respect to the proposed cancellation or suspension that may be made to him or her by the society within the said period of 2 months or such further period as he or she may allow, and, if the society so requests, shall afford to it an opportunity of being heard by him or her within such period or further period as aforesaid.
     
     (6) The Registrar shall give public notice of any cancellation or suspension, or any extension of a suspension, under this section and must register the cancellation, suspension, or extension of a suspension.
     
-    (7) Where under this section the registration of a society is cancelled, or is suspended for a period exceeding 6 months, the society may appeal to the High Court or a Judge thereof; and on any such appeal the court or Judge, if it or he thinks fit just to do so, may set aside the cancellation or suspension.
+    (7) Where under this section the registration of a society is cancelled, or is suspended for a period exceeding 6 months, the society may appeal to the High Court or a Judge thereof; and on any such appeal the court or Judge, if it or he or she thinks fit just to do so, may set aside the cancellation or suspension.
     
     Compare: Building Societies Act 1962 s 113 (UK)
     
@@ -3641,7 +3641,7 @@ Miscellaneous provisions
 
 ##### 125 Cancellation of registration at request of society
     
-*   Without prejudice to [section 124][219], the Registrar may, if he thinks fit, cancel the registration of a society at the society's request, evidenced in such manner as the Registrar may direct.
+*   Without prejudice to [section 124][219], the Registrar may, if he or she thinks fit, cancel the registration of a society at the society's request, evidenced in such manner as the Registrar may direct.
     
     Compare: Building Societies Act 1962 s 114 (UK)
 
@@ -3719,13 +3719,13 @@ Miscellaneous provisions
         
     *   (a) by false representation or imposition obtains possession of any money, securities, books, papers, or other effects of a society; or
     
-    *   (b) having any of the same in his possession, withholds or misapplies them, or wilfully applies any part of them to purposes other than those authorised by the society's rules or by this Act.
+    *   (b) having any of the same in his or her possession, withholds or misapplies them, or wilfully applies any part of them to purposes other than those authorised by the society's rules or by this Act.
     
     (2) Every person who commits an offence against this section shall be liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $1,000, or to both.
     
-    (3) The court by which any person is convicted of an offence against this section may order him to deliver up or repay to the society any money, securities, books, papers, or other effects in respect of which he is so convicted.
+    (3) The court by which any person is convicted of an offence against this section may order him or her to deliver up or repay to the society any money, securities, books, papers, or other effects in respect of which he or she is so convicted.
     
-    (4) Proceedings in respect of an offence against this section may not be commenced by a member of the society, unless he is authorised to do so by the society or the board of directors or the Registrar.
+    (4) Proceedings in respect of an offence against this section may not be commenced by a member of the society, unless he or she is authorised to do so by the society or the board of directors or the Registrar.
     
     Compare: 1908 No 18 s 32; Building Societies Act 1962 s 111 (UK)
     
@@ -3735,7 +3735,7 @@ Miscellaneous provisions
 
 ##### 133 False statements in documents
     
-*   (1) If any person wilfully makes, or orders or allows to be made, any false statement in any document to which this section applies, or by erasure, omission, or otherwise wilfully falsifies any such document, he commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $1,000 or to both.
+*   (1) If any person wilfully makes, or orders or allows to be made, any false statement in any document to which this section applies, or by erasure, omission, or otherwise wilfully falsifies any such document, he or she commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $1,000 or to both.
     
     (2) This section applies---
         
@@ -3787,7 +3787,7 @@ Miscellaneous provisions
     
     *   (b) prescribing the procedure to be followed in respect of applications to and proceedings before the Registrar:
     
-    *   (c) prescribing fees to be paid to the Registrar in respect of the registration of rules, alterations in rules, and other documents and matters under this Act, the issue of certificates and other documents, search or inspection of the register, and the exercise by the Registrar of any of his functions under this Act:
+    *   (c) prescribing fees to be paid to the Registrar in respect of the registration of rules, alterations in rules, and other documents and matters under this Act, the issue of certificates and other documents, search or inspection of the register, and the exercise by the Registrar of any of his or her functions under this Act:
     
     *   (ca) regulating bonus ballots and bonus balloting shares:
     
@@ -3825,7 +3825,7 @@ Miscellaneous provisions
     
 *   (1) It shall be the duty of the Registrar, as soon as practicable after the date of the commencement of this Act, to send a copy of the rules of every society existing at that date to the District Registrar of Companies whose office is nearest to the registered office of the society, or to such other District Registrar of Companies as may be approved for the purpose after consultation with the society.
     
-    (2) For the purposes of this section the Registrar may require any such society to send to him not more than 2 copies of its rules.
+    (2) For the purposes of this section the Registrar may require any such society to send to him or her not more than 2 copies of its rules.
     
     (3) If any such society fails to comply with any such requirement the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
 
@@ -3909,13 +3909,13 @@ Requirements relating to founders' and directors' shares
 
 *   6(1) Until the end of the relevant period of 5 years, the society shall not, without the consent of the Registrar, unite with another society under section 32, or transfer its engagements to another society under section 33, unless the other society (or, in the case of a union with 2 or more societies, one of those societies) has been incorporated for more than 5 years and has assets which exceed $200,000 in value.
     
-    (2) In giving his consent under this clause---
+    (2) In giving his or her consent under this clause---
         
     *   (a) to a union, where any of the holders of the relevant shares will become holders of shares in the society formed on the union; or
     
     *   (b) to a transfer of engagements, where any of the holders of the relevant shares will become holders of shares in the society to which the engagements are transferred---
     
-    the Registrar may attach to his consent conditions that are in his opinion equivalent to the conditions that under the foregoing provisions of this schedule attach to the relevant shares.
+    the Registrar may attach to his or her consent conditions that are in his or her opinion equivalent to the conditions that under the foregoing provisions of this schedule attach to the relevant shares.
     
     (3) If at any time during the remainder of the relevant period of 5 years any conditions attached by virtue of subclause (2) are broken, the Registrar may apply to the court for the appointment of a liquidator under the [Companies Act 1993][250] of the society formed on the union, or of the society to which the engagements are transferred, as the case may be.
     
@@ -4038,10 +4038,6 @@ An Act to amend the Building Societies Act 1965
 *   (1) This Act may be cited as the [Building Societies Amendment Act 1987][360], and shall be read together with and deemed part of the Building Societies Act 1965 (hereinafter referred to as ""the principal Act"").
     
     (2) This Act shall come into force on 1 September 1987\.
-
-##### 38 References to advances
-    
-*   Any reference in the principal Act to the term ""advance"" shall be read and construed as a reference to a loan or other investment.
 
 ##### 39 Approval of societies for acceptance of deposits from members in home ownership accounts or farm ownership accounts before coming into force of this Act deemed to be approval under new section 56D
     
