@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 11 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -61,17 +61,17 @@ This Act is administered by the New Zealand Police.
 
 [Importation of firearms][19]
 
-[16][20][][20][Offence to import firearms or parts of firearms without permit][20]
+[16][20][][20][Offence to import firearms, starting pistols, restricted airguns, or restricted weapons, or parts of firearms, starting pistols, or restricted weapons without permit][20]
 
 [17][21][][21][Burden of proof][21]
 
-[18][22][][22][Issue of permits to import firearms or parts of firearms][22]
+[18][22][][22][Issue of permits to import firearms, parts of firearms, or restricted airguns][22]
 
-[18A][23][][23][Expiration of permits to import firearms or parts of firearms][23]
+[18A][23][][23][Expiration of permits to import firearms, starting pistols, restricted airguns, or restricted weapons, or parts of firearms, starting pistols, or restricted weapons][23]
 
 [18B][24][][24][Samples][24]
 
-[19][25][][25][Seizure of illegally imported firearms or parts of firearms][25]
+[19][25][][25][Seizure of illegally imported items][25]
 
 [General restrictions on possession of firearms and airguns][26]
 
@@ -249,16 +249,20 @@ This Act is administered by the New Zealand Police.
 
 [74][111][][111][Regulations][111]
 
-[75][112][][112][Consequential amendment to Summary Proceedings Act 1957][112]
+[74A][112][][112][Orders relating to military style semi-automatic firearms][112]
 
-[76][113][][113][Consequential amendments to Trespass Act 1980][113]
+[74B][113][][113][Certain orders relating to military style semi-automatic firearms to expire unless confirmed][113]
 
-[77][114][][114][Repeals][114]
+[75][114][][114][Consequential amendment to Summary Proceedings Act 1957][114]
 
-[78][115][][115][Transitional provisions][115]
+[76][115][][115][Consequential amendments to Trespass Act 1980][115]
 
-[Schedule][116]  
-[Enactments repealed][116]
+[77][116][][116][Repeals][116]
+
+[78][117][][117][Transitional provisions][117]
+
+[Schedule][118]  
+[Enactments repealed][118]
 
 ---
 
@@ -272,7 +276,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
 
 ##### 2 Interpretation
     
-*   In this Act, unless the context otherwise requires,---
+*   (1) In this Act, unless the context otherwise requires,---
     
     _airgun_ includes---
         
@@ -282,7 +286,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     *   (c) any weapon from which, by the use of gas or compressed air (and not by force of explosive), any shot, bullet, missile, or other projectile can be discharged
     
-    _anti-personnel mine_ has the meaning given to it by [section 3][117] of the Anti-Personnel Mines Prohibition Act 1998
+    _anti-personnel mine_ has the meaning given to it by [section 3][119] of the Anti-Personnel Mines Prohibition Act 1998
     
     _antique firearm_ means---
         
@@ -298,7 +302,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     _arms office_ means any Police station or Police office appointed as such by the Commissioner
     
-    _cluster munition_ has the meaning given to it by [section 6][118] of the Cluster Munitions Prohibition Act 2009
+    _cluster munition_ has the meaning given to it by [section 6][120] of the Cluster Munitions Prohibition Act 2009
     
     _Commissioner_ means the Commissioner of Police
     
@@ -310,7 +314,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     *   (c) without limiting paragraph (a) or paragraph (b), includes any device, contrivance, or article, which uses any substance or mixture or combination of substances to which paragraph (a) or paragraph (b) applies as an integral part of it for the purposes of producing an explosion or a ballistic or pyrotechnic effect; but does not include a firearm; and
     
-    *   (d) does not include any firework as defined in [section 2][119] of the Hazardous Substances and New Organisms Act 1996
+    *   (d) does not include any firework as defined in [section 2][121] of the Hazardous Substances and New Organisms Act 1996
     
     _firearm_---
         
@@ -336,19 +340,43 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     _licensed dealer_ means a holder of a dealer's licence issued under this Act
     
-    _member of the Police_ means a Police employee within the meaning of [section 4][120] of the Policing Act 2008
+    _member of the Police_ means a Police employee within the meaning of [section 4][122] of the Policing Act 2008
     
-    _military style semi-automatic firearm_ means---
+    _military style semi-automatic firearm_ means a firearm (other than a pistol) that is---
         
-    *   (a) a firearm which, after being loaded, fires, ejects, and chambers a cartridge with each pull of the trigger; but
-    
-    *   (b) does not include---
+    *   (a) a semi-automatic firearm having 1 or more of the following features:
             
-        *   (i) a pistol; or
+        *   (i) a folding or telescopic butt:
         
-        *   (ii) a semi-automatic firearm that, with its magazine (if any), is maintained at all times in a sporting configuration
+        *   (ii) a magazine designed to hold 0.22-inch rimfire cartridges that---
+                
+            *   (A) is capable of holding more than 15 cartridges; or
+            
+            *   (B) is detachable, and by its appearance indicates that it is capable of holding more than 15 cartridges:
+            
+            
+        
+        *   (iii) a magazine (other than one designed to hold 0.22-inch rimfire cartridges) that---
+                
+            *   (A) is capable of holding more than 7 cartridges; or
+            
+            *   (B) is detachable, and by its appearance indicates that it is capable of holding more than 10 cartridges:
+            
+            
+        
+        *   (iv) bayonet lugs:
+        
+        *   (v) a flash suppressor:
+        
+        *   (vi) a component of a kind defined or described by an order under [section 74A][112] as a pistol grip for the purposes of this definition; or
         
         
+    
+    *   (b) a semi-automatic firearm of a make and model declared by an order under [section 74A][112] to be a military style semi-automatic firearm for the purposes of this Act; or
+    
+    *   (c) a semi-automatic firearm of a description declared by an order under [section 74A][112] to be a military style semi-automatic firearm for the purposes of this Act; or
+    
+    *   (d) a semi-automatic firearm that has a feature of a kind defined or described in an order under [section 74A][112] as a feature of military style semi-automatic firearms for the purposes of this Act
     
     _part_---
         
@@ -358,7 +386,21 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     _pistol_ means any firearm that is designed or adapted to be held and fired with 1 hand; and includes any firearm that is less than 762 millimetres in length
     
-    _public place_ has the meaning given to it by [section 2][121] of the Summary Offences Act 1981
+    _public place_ has the meaning given to it by [section 2][123] of the Summary Offences Act 1981
+    
+    _restricted airgun_ means an airgun that,---
+        
+    *   (a) without any of the attachments with which it is customarily used, has the appearance of being a pistol, a restricted weapon, or a military style semi-automatic firearm; or
+    
+    *   (b) with some or all of the attachments with which it is customarily used, has the appearance of being a pistol, a restricted weapon, or a military style semi-automatic firearm; or
+    
+    *   (c) is designed for use in airsoft or paintball sports and,---
+            
+        *   (i) without any of the attachments with which it is customarily used, has the appearance of being a firearm capable of full automatic fire; or
+        
+        *   (ii) with some or all of the attachments with which it is customarily used, has the appearance of being a firearm capable of full automatic fire
+        
+        
     
     _restricted weapon_ means any weapon, whether a firearm or not, declared by the Governor-General, by Order in Council made under [section 4][5], to be a restricted weapon
     
@@ -368,25 +410,13 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     *   (b) offering or attempting to sell, or having in possession for sale, or exposing for sale, or sending or delivering for sale, or causing or allowing to be sold, offered, or exposed for sale; and _to sell_ has a corresponding meaning
     
+    _semi-automatic firearm_ means a firearm that (if it is loaded), with each pull of the trigger,---
+        
+    *   (a) fires a cartridge and ejects its case; and
+    
+    *   (b) (unless all cartridges loaded have been fired) chambers another cartridge
+    
     _specially dangerous airgun_ means any airgun declared by the Governor-General, by Order in Council made under [section 4][5], to be a specially dangerous airgun
-    
-    _sporting configuration_, in relation to a semi-automatic firearm, means being without any of the following features:
-        
-    *   (a) a folding or telescopic butt:
-    
-    *   (b) a magazine that is capable of holding, or that, by its appearance, indicates that it is capable of holding,---
-            
-        *   (i) in the case of a magazine designed to hold .22 inch rimfire cartridges, more than 15 cartridges; or
-        
-        *   (ii) in any other case, more than 7 cartridges:
-        
-        
-    
-    *   (c) bayonet lugs:
-    
-    *   (d) a military pattern free-standing pistol grip:
-    
-    *   (e) a flash suppressor
     
     _working day_ means any day of the week other than---
         
@@ -394,25 +424,33 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     *   (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
     
+    (2) For the purposes of the definition of _restricted airgun_ in subsection (1), an airgun can have the appearance of a pistol, restricted weapon, military style semi-automatic firearm, or firearm capable of full automatic fire without having the appearance of any particular model of pistol, restricted weapon, military style semi-automatic firearm, or firearm capable of full automatic fire.
+    
     Compare: 1958 No 21 s 2; 1966 No 18 s 2; 1968 No 21 s 2(1); 1971 No 46 s 2; 1974 No 68 s 2; 1976 No 151 s 2; SR 1959/5 r 2; SR 1964/32 r 2; SR 1976/143 r 9(2)
     
-    Section 2 **anti-personnel mine**: inserted, on 9 December 1998, by [section 28][122] of the Anti-Personnel Mines Prohibition Act 1998 (1998 No 111).
+    Section 2(1) **anti-personnel mine**: inserted, on 9 December 1998, by [section 28][124] of the Anti-Personnel Mines Prohibition Act 1998 (1998 No 111).
     
-    Section 2 **antique firearm**: substituted, on 1 November 1992, by [section 2(1)][123] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 2(1) **antique firearm**: substituted, on 1 November 1992, by [section 2(1)][125] of the Arms Amendment Act 1992 (1992 No 95).
     
-    Section 2 **cluster munition**: inserted, on 1 August 2010, by [section 20(2)][124] of the Cluster Munitions Prohibition Act 2009 (2009 No 68).
+    Section 2(1) **cluster munition**: inserted, on 1 August 2010, by [section 20(2)][126] of the Cluster Munitions Prohibition Act 2009 (2009 No 68).
     
-    Section 2 **explosive** paragraph (d): substituted, on 2 July 2001, by [section 149][125] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+    Section 2(1) **explosive** paragraph (d): substituted, on 2 July 2001, by [section 149][127] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
     
-    Section 2 **member of the Police**: substituted, on 1 October 2008, by [section 130(1)][126] of the Policing Act 2008 (2008 No 72).
+    Section 2(1) **member of the Police**: substituted, on 1 October 2008, by [section 130(1)][128] of the Policing Act 2008 (2008 No 72).
     
-    Section 2 **military style semi-automatic firearm**: inserted, on 1 November 1992, by [section 2(2)][123] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 2(1) **military style semi-automatic firearm**: replaced, on 11 December 2013, by [section 4(1)][129] of the Arms (Military Style Semi-automatic Firearms and Import Controls) Amendment Act 2012 (2012 No 117).
     
-    Section 2 **part**: inserted, on 1 November 1992, by [section 2(2)][123] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 2(1) **part**: inserted, on 1 November 1992, by [section 2(2)][125] of the Arms Amendment Act 1992 (1992 No 95).
     
-    Section 2 **sporting configuration**: added, on 1 November 1992, by [section 2(3)][123] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 2(1) **restricted airgun**: inserted, on 11 December 2013, by [section 4(1)][129] of the Arms (Military Style Semi-automatic Firearms and Import Controls) Amendment Act 2012 (2012 No 117).
     
-    Section 2 **working day**: added, on 1 November 1992, by [section 2(3)][123] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 2(1) **semi-automatic firearm**: inserted, on 11 December 2013, by [section 4(1)][129] of the Arms (Military Style Semi-automatic Firearms and Import Controls) Amendment Act 2012 (2012 No 117).
+    
+    Section 2(1) **sporting configuration**: repealed, on 11 December 2013, by [section 4(1)][129] of the Arms (Military Style Semi-automatic Firearms and Import Controls) Amendment Act 2012 (2012 No 117).
+    
+    Section 2(1) **working day**: added, on 1 November 1992, by [section 2(3)][125] of the Arms Amendment Act 1992 (1992 No 95).
+    
+    Section 2(2): inserted, on 11 December 2013, by [section 4(2)][129] of the Arms (Military Style Semi-automatic Firearms and Import Controls) Amendment Act 2012 (2012 No 117).
 
 ##### 3 Act to bind the Crown
     
@@ -424,19 +462,19 @@ An Act to consolidate and amend the law relating to firearms and to promote both
             
         *   (i) a member of the New Zealand Defence Force or a member of the Cadet Forces; or
         
-        *   (ia) a member of a visiting force under the [Visiting Forces Act 2004][127]; or
+        *   (ia) a member of a visiting force under the [Visiting Forces Act 2004][130]; or
         
         *   (ii) a member of the Police or an armourer employed by the Police; or
         
         *   (iii) a person employed by the Police to provide firearms training to members of the Police; or
         
-        *   (iv) an officer as defined by [section 4][128] of the Anti-Personnel Mines Prohibition Act 1998; or
+        *   (iv) an officer as defined by [section 4][131] of the Anti-Personnel Mines Prohibition Act 1998; or
         
-        *   (iva) an officer as defined by [section 7][129] of the Cluster Munitions Prohibition Act 2009; or
+        *   (iva) an officer as defined by [section 7][132] of the Cluster Munitions Prohibition Act 2009; or
         
         *   (v) a person authorised by the Commissioner to provide training to members of the Police in the use of a restricted weapon that is a gas or some other disabling substance, or a device designed to discharge such a substance; or
         
-        *   (vi) an employee of the body that, immediately before the commencement of the [Arms Amendment Act 2000][130] was known as the Institute of Environmental Science and Research Ltd; or
+        *   (vi) an employee of the body that, immediately before the commencement of the [Arms Amendment Act 2000][133] was known as the Institute of Environmental Science and Research Ltd; or
         
         *   (vii) a person working in any forensic laboratory or facility that provides forensic services to the Police:
         
@@ -452,11 +490,11 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 s 26; 1974 No 68 s 9
     
-    Section 3(2)(a): substituted, on 15 November 2000, by [section 3][131] of the Arms Amendment Act 2000 (2000 No 53).
+    Section 3(2)(a): substituted, on 15 November 2000, by [section 3][134] of the Arms Amendment Act 2000 (2000 No 53).
     
-    Section 3(2)(a)(ia): inserted, on 1 July 2004, by [section 26][132] of the Visiting Forces Act 2004 (2004 No 59).
+    Section 3(2)(a)(ia): inserted, on 1 July 2004, by [section 26][135] of the Visiting Forces Act 2004 (2004 No 59).
     
-    Section 3(2)(a)(iva): inserted, on 1 August 2010, by [section 20(3)][124] of the Cluster Munitions Prohibition Act 2009 (2009 No 68).
+    Section 3(2)(a)(iva): inserted, on 1 August 2010, by [section 20(3)][126] of the Cluster Munitions Prohibition Act 2009 (2009 No 68).
 
 ##### 4 Power to declare weapons to be restricted weapons or specially dangerous airguns
     
@@ -468,9 +506,9 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     (2) Any Order in Council made under this section may relate to any weapon or airgun specified by its name or trade name, or to any class of weapons or airguns identified by a description of that class.
     
-    (3) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][133] and must be presented to the House of Representatives under [section 41][134] of that Act.
+    (3) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][136] and must be presented to the House of Representatives under [section 41][137] of that Act.
     
-    Section 4(3): replaced, on 5 August 2013, by [section 77(3)][135] of the Legislation Act 2012 (2012 No 119).
+    Section 4(3): replaced, on 5 August 2013, by [section 77(3)][138] of the Legislation Act 2012 (2012 No 119).
 
 #### Licensed dealers
 
@@ -494,11 +532,11 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 s 3(1), (4)
     
-    Section 5(3A): inserted, on 9 December 1998, by [section 30(1)][136] of the Anti-Personnel Mines Prohibition Act 1998 (1998 No 111).
+    Section 5(3A): inserted, on 9 December 1998, by [section 30(1)][139] of the Anti-Personnel Mines Prohibition Act 1998 (1998 No 111).
     
-    Section 5(3A): amended, on 1 August 2010, by [section 20(4)][124] of the Cluster Munitions Prohibition Act 2009 (2009 No 68).
+    Section 5(3A): amended, on 1 August 2010, by [section 20(4)][126] of the Cluster Munitions Prohibition Act 2009 (2009 No 68).
     
-    Section 5(4): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 5(4): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 6 Dealer's licence to be personal to holder
     
@@ -524,7 +562,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     (4) It shall be a condition of any consent given under subsection (1) that the licensed dealer close, for the duration of the period in respect of which the consent is given, the place of business in respect of which the dealer's licence was issued.
     
-    Section 7A: inserted, on 1 November 1992, by [section 4][138] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 7A: inserted, on 1 November 1992, by [section 4][141] of the Arms Amendment Act 1992 (1992 No 95).
 
 ##### 8 Duration of dealer's licence
     
@@ -556,7 +594,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     (3) Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $2,000 who contravenes subsection (1).
     
-    Section 10(3): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 10(3): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 11 Dealers and their employees and agents to hold firearms licences
     
@@ -570,7 +608,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     (2) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who contravenes subsection (1).
     
-    Section 11(2): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 11(2): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 12 Record of dealings by licensed dealers
     
@@ -594,7 +632,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 s 4; 1968 No 21 s 3
     
-    Section 12(3): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 12(3): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 13 Seizure of firearms, ammunition, airguns, pistols, and restricted weapons held by licensed dealers
     
@@ -616,7 +654,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 s 5
     
-    Section 13(5): amended, on 25 January 2005, pursuant to [section 65R(3)][139] of the Public Finance Act 1989 (1989 No 44).
+    Section 13(5): amended, on 25 January 2005, pursuant to [section 65R(3)][142] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 14 Disposal of firearms, ammunition, airguns, pistols, and restricted weapons of dealer whose licence is revoked
     
@@ -638,19 +676,17 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     *   (b) any person who, after the revocation or the last revocation, as the case may be, of his dealer's licence, has again been issued with a dealer's licence.
     
-    Section 15(1): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 15(1): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Importation of firearms
 
-##### 16 Offence to import firearms or parts of firearms without permit
+##### 16 Offence to import firearms, starting pistols, restricted airguns, or restricted weapons, or parts of firearms, starting pistols, or restricted weapons without permit
     
-*   (1) No person shall bring or cause to be brought or sent into New Zealand---
+*   (1) A person must not, otherwise than pursuant to a permit issued to the person by a member of the Police, bring or cause to be brought or sent into New Zealand---
         
-    *   (a) any firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon; or
+    *   (a) a firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon; or
     
-    *   (b) any parts of a firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon,---
-    
-    otherwise than pursuant to a permit issued to that person by a member of the Police.
+    *   (b) any part of a firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon.
     
     (2) In this section _New Zealand_ does not include the harbours and other territorial waters of New Zealand.
     
@@ -658,29 +694,33 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 s 6(1), (5), (6); 1974 No 68 s 3(a); 1976 No 151 s 3(1); SR 1959/5 r 11A; SR 1970/13 r 2
     
-    Section 16 heading: substituted, on 1 November 1992, by [section 5][140] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 16 heading: substituted, on 1 November 1992, by [section 5][143] of the Arms Amendment Act 1992 (1992 No 95).
     
-    Section 16(1): substituted, on 1 November 1992, by [section 5][140] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 16 heading: amended, on 11 December 2013, by [section 5(1)][144] of the Arms (Military Style Semi-automatic Firearms and Import Controls) Amendment Act 2012 (2012 No 117).
     
-    Section 16(3): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 16(1): replaced, on 11 December 2013, by [section 5(2)][144] of the Arms (Military Style Semi-automatic Firearms and Import Controls) Amendment Act 2012 (2012 No 117).
+    
+    Section 16(3): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 17 Burden of proof
     
-*   In any proceedings against any person in respect of any offence against [section 16][20] of this Act in which it is proved that he did any act in relation to a firearm, pistol, starting pistol, or restricted weapon which would have amounted to an offence if that act were not done pursuant to a permit issued to him by a member of the Police, the burden of proving that he did that act pursuant to any such permit shall lie on him.
+*   In any proceedings against any person in respect of any offence against [section 16][20] of this Act in which it is proved that he did any act in relation to a firearm, pistol, starting pistol, restricted airgun, or restricted weapon (or a part of a firearm, pistol, starting pistol, or restricted weapon) which would have amounted to an offence if that act were not done pursuant to a permit issued to him by a member of the Police, the burden of proving that he did that act pursuant to any such permit shall lie on him.
     
     Compare: 1958 No 21 s 6(6)
     
-    Section 17: amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 17: amended, on 11 December 2013, by [section 6][145] of the Arms (Military Style Semi-automatic Firearms and Import Controls) Amendment Act 2012 (2012 No 117).
+    
+    Section 17: amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
-##### 18 Issue of permits to import firearms or parts of firearms
+##### 18 Issue of permits to import firearms, parts of firearms, or restricted airguns
     
 *   (1) Any member of the Police to whom application is made for the issue of a permit for the purposes of [section 16(1)][20]---
         
-    *   (a) may require the applicant to produce for examination and testing such samples of any firearms, pistols, military style semi-automatic firearms, starting pistols, or restricted weapons of any kind referred to in the application as the member of the Police may consider necessary; and
+    *   (a) may require the applicant to produce for examination and testing such samples of any firearms, pistols, military style semi-automatic firearms, starting pistols, restricted airguns, or restricted weapons of any kind referred to in the application as the member of the Police may consider necessary; and
     
     *   (b) may, in the discretion of that member of the Police, refuse to grant the permit with respect to---
             
-        *   (i) any firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon of any kind; or
+        *   (i) any firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon of any kind; or
         
         *   (ii) any parts of a firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon of any kind.
         
@@ -688,11 +728,11 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     (2) Without limiting the discretion conferred by subsection (1)(b), no application for a permit for the purposes of [section 16(1)][19] in respect of---
         
-    *   (a) a pistol, military style semi-automatic firearm, or restricted weapon; or
+    *   (a) a pistol, military style semi-automatic firearm, restricted airgun, or restricted weapon; or
     
     *   (b) parts of a pistol, military style semi-automatic firearm, or restricted weapon,---
     
-    shall be granted otherwise than by the Commissioner who shall first be satisfied that there are special reasons why the pistol, military style semi-automatic firearm, or restricted weapon or parts to which the application relates should be allowed into New Zealand.
+    shall be granted otherwise than by the Commissioner who shall first be satisfied that there are special reasons why the pistol, military style semi-automatic firearm, restricted airgun, or restricted weapon or parts to which the application relates should be allowed into New Zealand.
     
     (3) Any permit issued for the purposes of [section 16(1)][20] is personal to the person to whom it is issued and may not be transferred to any other person.
     
@@ -700,37 +740,55 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     (5) A permit for the purposes of [section 16(1)][20] is in no case to be granted in respect of an anti-personnel mine or a cluster munition.
     
-    Section 18: substituted, on 1 November 1992, by [section 6][141] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 18: substituted, on 1 November 1992, by [section 6][146] of the Arms Amendment Act 1992 (1992 No 95).
     
-    Section 18(5): added, on 9 December 1998, by [section 30(2)][136] of the Anti-Personnel Mines Prohibition Act 1998 (1998 No 111).
+    Section 18 heading: amended, on 11 December 2013, by [section 7(1)][147] of the Arms (Military Style Semi-automatic Firearms and Import Controls) Amendment Act 2012 (2012 No 117).
     
-    Section 18(5): amended, on 1 August 2010, by [section 20(5)][124] of the Cluster Munitions Prohibition Act 2009 (2009 No 68).
+    Section 18(1)(a): amended, on 11 December 2013, by [section 7(2)][147] of the Arms (Military Style Semi-automatic Firearms and Import Controls) Amendment Act 2012 (2012 No 117).
+    
+    Section 18(1)(b)(i): amended, on 11 December 2013, by [section 7(3)][147] of the Arms (Military Style Semi-automatic Firearms and Import Controls) Amendment Act 2012 (2012 No 117).
+    
+    Section 18(2): amended, on 11 December 2013, by [section 7(4)][147] of the Arms (Military Style Semi-automatic Firearms and Import Controls) Amendment Act 2012 (2012 No 117).
+    
+    Section 18(2)(a): amended, on 11 December 2013, by [section 7(4)][147] of the Arms (Military Style Semi-automatic Firearms and Import Controls) Amendment Act 2012 (2012 No 117).
+    
+    Section 18(5): added, on 9 December 1998, by [section 30(2)][139] of the Anti-Personnel Mines Prohibition Act 1998 (1998 No 111).
+    
+    Section 18(5): amended, on 1 August 2010, by [section 20(5)][126] of the Cluster Munitions Prohibition Act 2009 (2009 No 68).
 
-##### 18A Expiration of permits to import firearms or parts of firearms
+##### 18A Expiration of permits to import firearms, starting pistols, restricted airguns, or restricted weapons, or parts of firearms, starting pistols, or restricted weapons
     
 *   Unless sooner revoked under [section 18(4)][22], a permit issued for the purposes of [section 16(1)][20] shall expire 12 months after the date on which that permit was issued.
     
-    Section 18A: inserted, on 1 November 1992, by [section 6][141] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 18A: inserted, on 1 November 1992, by [section 6][146] of the Arms Amendment Act 1992 (1992 No 95).
+    
+    Section 18A heading: amended, on 11 December 2013, by [section 8][148] of the Arms (Military Style Semi-automatic Firearms and Import Controls) Amendment Act 2012 (2012 No 117).
 
 ##### 18B Samples
     
-*   (1) Where an applicant is, pursuant to a requirement made under [section 18(1)(a)][22] by a member of the Police, required to produce for examination and testing a sample of any firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon, the applicant shall, as soon as practicable, produce that sample in accordance with that requirement and shall ensure that the sample has not been modified in any way before it is so produced.
+*   (1) Where an applicant is, pursuant to a requirement made under [section 18(1)(a)][22] by a member of the Police, required to produce for examination and testing a sample of any firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon, the applicant shall, as soon as practicable, produce that sample in accordance with that requirement and shall ensure that the sample has not been modified in any way before it is so produced.
     
-    (2) Where any firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon which is brought into New Zealand pursuant to a permit issued for the purposes of [section 16(1)][20] and which is required by its description in that permit to correspond with a sample produced to a member of the Police does not so correspond and is not otherwise approved for importation into New Zealand, the person who brought the firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon into New Zealand or caused it to be brought or sent into New Zealand shall, within 12 months after being informed in writing by a member of the Police that it does not so correspond and that it is not otherwise approved for importation into New Zealand, export it, or cause it to be exported, from New Zealand.
+    (2) Where any firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon which is brought into New Zealand pursuant to a permit issued for the purposes of [section 16(1)][20] and which is required by its description in that permit to correspond with a sample produced to a member of the Police does not so correspond and is not otherwise approved for importation into New Zealand, the person who brought the firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon into New Zealand or caused it to be brought or sent into New Zealand shall, within 12 months after being informed in writing by a member of the Police that it does not so correspond and that it is not otherwise approved for importation into New Zealand, export it, or cause it to be exported, from New Zealand.
     
-    (3) If any firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon to which subsection (2) relates is not exported from New Zealand within the period of 12 months specified in that subsection, that firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon may be disposed of in such manner as the Commissioner may direct.
+    (3) If any firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon to which subsection (2) relates is not exported from New Zealand within the period of 12 months specified in that subsection, that firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon may be disposed of in such manner as the Commissioner may direct.
     
-    Section 18B: inserted, on 1 November 1992, by [section 6][141] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 18B: inserted, on 1 November 1992, by [section 6][146] of the Arms Amendment Act 1992 (1992 No 95).
+    
+    Section 18B(1): amended, on 11 December 2013, by [section 9][149] of the Arms (Military Style Semi-automatic Firearms and Import Controls) Amendment Act 2012 (2012 No 117).
+    
+    Section 18B(2): amended, on 11 December 2013, by [section 9][149] of the Arms (Military Style Semi-automatic Firearms and Import Controls) Amendment Act 2012 (2012 No 117).
+    
+    Section 18B(3): amended, on 11 December 2013, by [section 9][149] of the Arms (Military Style Semi-automatic Firearms and Import Controls) Amendment Act 2012 (2012 No 117).
 
-##### 19 Seizure of illegally imported firearms or parts of firearms
+##### 19 Seizure of illegally imported items
     
-*   If any member of the Police or officer of the Customs has reasonable grounds to suspect that any firearm or restricted weapon or part of a firearm or restricted weapon has been brought into New Zealand in breach of [section 16(1)][20] or has been brought into the harbours or other territorial waters of New Zealand and is intended to be brought into New Zealand in breach of section 16(1), that member or officer---
+*   A member of the Police or officer of the Customs who suspects on reasonable grounds that a firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon (or a part of a firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon) has been brought into New Zealand in breach of [section 16(1)][20], or has been brought into the harbours or other territorial waters of New Zealand and is intended to be brought into New Zealand in breach of section 16(1),---
         
-    *   (a) may seize that firearm or restricted weapon or part of a firearm or restricted weapon and detain the same; and
+    *   (a) may seize and detain it; and
     
-    *   (b) in effecting the seizure of that firearm or restricted weapon or part of a firearm or restricted weapon, may use such force as is reasonably necessary.
+    *   (b) in effecting its seizure, may use any reasonably necessary force.
     
-    Section 19: substituted, on 1 November 1992, by [section 6][141] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 19: replaced, on 11 December 2013, by [section 10][150] of the Arms (Military Style Semi-automatic Firearms and Import Controls) Amendment Act 2012 (2012 No 117).
 
 #### General restrictions on possession of firearms and airguns
 
@@ -742,9 +800,9 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     (3) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who contravenes subsection (1).
     
-    Section 20(2): substituted, on 1 May 1993, by [section 7][142] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 20(2): substituted, on 1 May 1993, by [section 7][151] of the Arms Amendment Act 1992 (1992 No 95).
     
-    Section 20(3): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 20(3): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 21 Restrictions on possession of airguns
     
@@ -758,7 +816,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     (3) Nothing in this section applies in relation to the possession of specially dangerous airguns.
     
-    Section 21(2): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 21(2): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 22 Exemptions
     
@@ -820,7 +878,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     (3) A person who is the holder of a firearms licence may, before the expiration of that firearms licence, apply for a new firearms licence.
     
-    Section 23(3): added, on 1 November 1992, by [section 8][143] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 23(3): added, on 1 November 1992, by [section 8][152] of the Arms Amendment Act 1992 (1992 No 95).
 
 ##### 24 Issue of firearms licence
     
@@ -850,11 +908,11 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     (3) If a licence has been granted subject to a condition referred to in subsection (2), the licence expires on the date of expiry referred to or specified in the licence, or on the date the person to whom the licence is granted leaves New Zealand, whichever occurs first.
     
-    Section 25(1): substituted, on 1 November 1992, by [section 9][144] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 25(1): substituted, on 1 November 1992, by [section 9][153] of the Arms Amendment Act 1992 (1992 No 95).
     
-    Section 25(2): added, on 15 November 2000, by [section 4][145] of the Arms Amendment Act 2000 (2000 No 53).
+    Section 25(2): added, on 15 November 2000, by [section 4][154] of the Arms Amendment Act 2000 (2000 No 53).
     
-    Section 25(3): added, on 15 November 2000, by [section 4][145] of the Arms Amendment Act 2000 (2000 No 53).
+    Section 25(3): added, on 15 November 2000, by [section 4][154] of the Arms Amendment Act 2000 (2000 No 53).
 
 ##### 26 Production of firearms licence
     
@@ -868,7 +926,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     (3) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who, being the holder of a firearms licence, fails to comply with subsection (1).
     
-    Section 26(3): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 26(3): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 27 Revocation and surrender of firearms licence
     
@@ -900,11 +958,11 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
 *   Without limiting the generality of [sections 24][32] and [27][35], it is hereby declared that a commissioned officer of Police may, under either or both of those sections, decide that a person is not a fit and proper person to be in possession of a firearm or airgun if that commissioned officer of Police is satisfied---
         
-    *   (a) that there are grounds under the [Domestic Violence Act 1995][146] for the making against that person of an application for a protection order; or
+    *   (a) that there are grounds under the [Domestic Violence Act 1995][155] for the making against that person of an application for a protection order; or
     
     *   (b) that such an order is in force under that Act in respect of that person.
     
-    Section 27A: substituted, on 1 July 1996, by [section 130(1)][147] of the Domestic Violence Act 1995 (1995 No 86).
+    Section 27A: substituted, on 1 July 1996, by [section 130(1)][156] of the Domestic Violence Act 1995 (1995 No 86).
 
 ##### 28 Effect of revocation or surrender of firearms licence
     
@@ -920,9 +978,9 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 s 11; 1974 No 68 s 5(3)
     
-    Section 28(4): amended, on 25 January 2005, pursuant to [section 65R(3)][139] of the Public Finance Act 1989 (1989 No 44).
+    Section 28(4): amended, on 25 January 2005, pursuant to [section 65R(3)][142] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 28(5): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 28(5): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 29 Application for endorsements in respect of pistol or restricted weapon
     
@@ -946,7 +1004,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     *   (e) an approved employee or approved member of any body, being---
             
-        *   (i) a broadcaster within the meaning of the [Broadcasting Act 1989][148]; or
+        *   (i) a broadcaster within the meaning of the [Broadcasting Act 1989][157]; or
         
         *   (ii) a bona fide theatre company or society or cinematic or television film production company or video recording production company; or
         
@@ -960,11 +1018,11 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     (4) Every application under subsection (1) or subsection (2) shall be made on a form provided by a member of the Police.
     
-    Section 29(2): amended, on 1 August 2010, by [section 20(6)][124] of the Cluster Munitions Prohibition Act 2009 (2009 No 68).
+    Section 29(2): amended, on 1 August 2010, by [section 20(6)][126] of the Cluster Munitions Prohibition Act 2009 (2009 No 68).
     
-    Section 29(2): amended, on 9 December 1998, by [section 30(3)][136] of the Anti-Personnel Mines Prohibition Act 1998 (1998 No 111).
+    Section 29(2): amended, on 9 December 1998, by [section 30(3)][139] of the Anti-Personnel Mines Prohibition Act 1998 (1998 No 111).
     
-    Section 29(2)(e): substituted, on 1 November 1992, by [section 11][149] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 29(2)(e): substituted, on 1 November 1992, by [section 11][158] of the Arms Amendment Act 1992 (1992 No 95).
 
 ##### 30 Power to make endorsement in respect of pistols or restricted weapons
     
@@ -984,7 +1042,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
         
         
     
-    Section 30(c)(iii): amended, on 1 November 1992, by [section 12][150] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 30(c)(iii): amended, on 1 November 1992, by [section 12][159] of the Arms Amendment Act 1992 (1992 No 95).
 
 ##### 30A Application for endorsement in respect of military style semi-automatic firearm
     
@@ -994,13 +1052,13 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     (3) Every applicant shall permit a member of the Police to take, or to cause to be taken, for the purposes of the application, a photograph or photographs of the applicant.
     
-    Section 30A: inserted, on 1 November 1992, by [section 13][151] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 30A: inserted, on 1 November 1992, by [section 13][160] of the Arms Amendment Act 1992 (1992 No 95).
 
 ##### 30B Power to make endorsement in respect of military style semi-automatic firearm
     
 *   On receiving an application under [section 30A][40], a member of the Police may, subject to any direction from the Commissioner, make the endorsement applied for if that member is satisfied that the applicant is a fit and proper person to be in possession of the military style semi-automatic firearm to which that application relates.
     
-    Section 30B: inserted, on 1 November 1992, by [section 13][151] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 30B: inserted, on 1 November 1992, by [section 13][160] of the Arms Amendment Act 1992 (1992 No 95).
 
 ##### 31 Possession of firearm, pistol, military style semi-automatic firearm, or restricted weapon for stage, film, or television purposes
     
@@ -1012,7 +1070,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     *   (c) that person is not in possession of any ammunition (other than blank ammunition) for the firearm or pistol, or military style semi-automatic firearm or restricted weapon.
     
-    Section 31: substituted, on 1 November 1992, by [section 14][152] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 31: substituted, on 1 November 1992, by [section 14][161] of the Arms Amendment Act 1992 (1992 No 95).
 
 ##### 32 Conditions of endorsements
     
@@ -1050,7 +1108,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     (2) Any member of the Police may, on the direction of the Commissioner, impose, as conditions of an endorsement made by that member of the Police under [section 30B][41], such conditions with regard to the use or custody of a military style semi-automatic firearm (being conditions additional to that specified in subsection (1)) as that member of the Police thinks fit.
     
-    Section 33A: inserted, on 1 November 1992, by [section 15][153] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 33A: inserted, on 1 November 1992, by [section 15][162] of the Arms Amendment Act 1992 (1992 No 95).
 
 ##### 33B Revocation of endorsement in respect of military style semi-automatic firearms
     
@@ -1066,7 +1124,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     (3) The provisions of this section are in addition to the provisions of [sections 27 to 28][35].
     
-    Section 33B: inserted, on 1 November 1992, by [section 15][153] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 33B: inserted, on 1 November 1992, by [section 15][162] of the Arms Amendment Act 1992 (1992 No 95).
 
 ##### 34 Notification of change of address
     
@@ -1078,13 +1136,13 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: SR 1959/5 rr 19, 20; SR 1976/143 r 5
     
-    Section 34(2): amended, on 1 November 1992, by [section 16][154] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 34(2): amended, on 1 November 1992, by [section 16][163] of the Arms Amendment Act 1992 (1992 No 95).
     
-    Section 34(3): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 34(3): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Photographs
     
-*   Heading: inserted, on 1 November 1992, by [section 17][155] of the Arms Amendment Act 1992 (1992 No 95).
+*   Heading: inserted, on 1 November 1992, by [section 17][164] of the Arms Amendment Act 1992 (1992 No 95).
 
 ##### 34A Power to require or take photographs of applicants
     
@@ -1096,7 +1154,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     *   (c) to comply with both paragraph (a) and paragraph (b).
     
-    Section 34A: inserted, on 1 November 1992, by [section 17][155] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 34A: inserted, on 1 November 1992, by [section 17][164] of the Arms Amendment Act 1992 (1992 No 95).
 
 ##### 34B Effect of non-compliance with requirements in relation to photographs or to calling-in of licences
     
@@ -1104,9 +1162,9 @@ An Act to consolidate and amend the law relating to firearms and to promote both
         
     *   (a) has wilfully failed to comply with any requirements imposed by or under this Act in relation to the affixing to dealers' licences or firearms licences of photographs of licence holders or to the imaging into such licences of such photographs; or
     
-    *   (b) has, on having his or her firearms licence called in by the Commissioner under [section 33][156] of the Arms Amendment Act 1992, wilfully failed to deliver his or her firearms licence to an Arms Office in accordance with a notice given to that licence holder under that section.
+    *   (b) has, on having his or her firearms licence called in by the Commissioner under [section 33][165] of the Arms Amendment Act 1992, wilfully failed to deliver his or her firearms licence to an Arms Office in accordance with a notice given to that licence holder under that section.
     
-    Section 34B: inserted, on 1 November 1992, by [section 17][155] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 34B: inserted, on 1 November 1992, by [section 17][164] of the Arms Amendment Act 1992 (1992 No 95).
 
 #### Permits to procure pistols and restricted weapons
 
@@ -1126,11 +1184,11 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     (5) No permit is to be issued under this section in respect of an anti-personnel mine or a cluster munition.
     
-    Section 35: substituted, on 1 November 1992, by [section 18][157] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 35: substituted, on 1 November 1992, by [section 18][166] of the Arms Amendment Act 1992 (1992 No 95).
     
-    Section 35(5): added, on 9 December 1998, by [section 30(4)][136] of the Anti-Personnel Mines Prohibition Act 1998 (1998 No 111).
+    Section 35(5): added, on 9 December 1998, by [section 30(4)][139] of the Anti-Personnel Mines Prohibition Act 1998 (1998 No 111).
     
-    Section 35(5): amended, on 1 August 2010, by [section 20(7)][124] of the Cluster Munitions Prohibition Act 2009 (2009 No 68).
+    Section 35(5): amended, on 1 August 2010, by [section 20(7)][126] of the Cluster Munitions Prohibition Act 2009 (2009 No 68).
 
 ##### 36 Offence to carry pistol or restricted weapon without authority
     
@@ -1154,7 +1212,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 ss 13, 23A; 1974 No 68 s 8
     
-    Section 36(3): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 36(3): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 37 Surrender of restricted weapon
     
@@ -1180,7 +1238,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 s 12(1)--(2); 1962 No 59 s 3
     
-    Section 37(3): amended, on 25 January 2005, pursuant to [section 65R(3)][139] of the Public Finance Act 1989 (1989 No 44).
+    Section 37(3): amended, on 25 January 2005, pursuant to [section 65R(3)][142] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 38 Removal of pistol, military style semi-automatic firearm, or restricted weapon out of New Zealand
     
@@ -1190,11 +1248,11 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: SR 1959/5 r 20; SR 1976/143 r 5(a)--(c)
     
-    Section 38 heading: substituted, on 1 November 1992, by [section 19][158] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 38 heading: substituted, on 1 November 1992, by [section 19][167] of the Arms Amendment Act 1992 (1992 No 95).
     
-    Section 38(1): amended, on 1 November 1992, by [section 19][158] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 38(1): amended, on 1 November 1992, by [section 19][167] of the Arms Amendment Act 1992 (1992 No 95).
     
-    Section 38(2): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 38(2): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Miscellaneous obligations in respect of firearms, airguns, pistols, and restricted weapons
 
@@ -1210,7 +1268,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: SR 1959/5 r 21
     
-    Section 39(2): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 39(2): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 40 On demand by Police person in possession of firearm, airgun, pistol, or restricted weapon to give name, address, and date of birth
     
@@ -1226,7 +1284,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     (3) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who, in response to a demand under subsection (1), refuses to give his name, address, or date of birth or gives false particulars thereof to any member of the Police.
     
-    Section 40(3): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 40(3): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 41 Powers of Police to require surrender of airguns or antique firearms
     
@@ -1240,7 +1298,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 s 11A; 1968 No 21 s 4; 1976 No 151 s 7
     
-    Section 41(4): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 41(4): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Offences
 
@@ -1272,7 +1330,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     (3) It is not an offence against paragraph (c) of subsection (1) to use or retain a licence if the only addition, alteration, or erasure to it was made by a member of the Police acting under this Act or by any other person acting under regulations made under this Act.
     
-    Section 42(1): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 42(1): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 43 Selling or supplying firearm or airgun to unlicensed person
     
@@ -1310,11 +1368,11 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 ss 7(2), (4), 7B; 1976 No 151 s 5
     
-    Section 43(1): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 43(1): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 43(1)(a): amended, on 1 November 1992, by [section 20(a)][159] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 43(1)(a): amended, on 1 November 1992, by [section 20(a)][168] of the Arms Amendment Act 1992 (1992 No 95).
     
-    Section 43(3)(a): amended, on 1 November 1992, by [section 20(b)][159] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 43(3)(a): amended, on 1 November 1992, by [section 20(b)][168] of the Arms Amendment Act 1992 (1992 No 95).
 
 ##### 43A Mail order sale of firearm or ammunition
     
@@ -1336,9 +1394,9 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     *   (b) any ammunition for a firearm to which paragraph (a) or paragraph (b) or paragraph (c) of [section 22(1)][29] applies.
     
-    Section 43A: inserted, on 1 November 1992, by [section 21][160] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 43A: inserted, on 1 November 1992, by [section 21][169] of the Arms Amendment Act 1992 (1992 No 95).
     
-    Section 43A(1): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 43A(1): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 43B Restriction on sales of ammunition
     
@@ -1370,9 +1428,9 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     (5) Nothing in this section applies in relation to any ammunition for a firearm to which paragraph (a) or paragraph (b) or paragraph (c) of [section 22(1)][29] applies.
     
-    Section 43B: inserted, on 1 November 1992, by [section 21][160] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 43B: inserted, on 1 November 1992, by [section 21][169] of the Arms Amendment Act 1992 (1992 No 95).
     
-    Section 43B(1): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 43B(1): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 44 Selling or supplying pistol, military style semi-automatic firearm, or restricted weapon to person who does not hold permit to import or to procure
     
@@ -1406,15 +1464,15 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 s 7B; 1976 No 151 s 5
     
-    Section 44 heading: substituted, on 1 November 1992, by [section 22][161] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 44 heading: substituted, on 1 November 1992, by [section 22][170] of the Arms Amendment Act 1992 (1992 No 95).
     
-    Section 44(1): substituted, on 1 November 1992, by [section 22(1)][161] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 44(1): substituted, on 1 November 1992, by [section 22(1)][170] of the Arms Amendment Act 1992 (1992 No 95).
     
-    Section 44(1): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 44(1): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 44(2): substituted, on 1 November 1992, by [section 22(1)][161] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 44(2): substituted, on 1 November 1992, by [section 22(1)][170] of the Arms Amendment Act 1992 (1992 No 95).
     
-    Regulation 44(4): amended, on 1 November 1992, by [section 22(2)][161] of the Arms Amendment Act 1992 (1992 No 95).
+    Regulation 44(4): amended, on 1 November 1992, by [section 22(2)][170] of the Arms Amendment Act 1992 (1992 No 95).
 
 ##### 45 Carrying or possession of firearms, airguns, pistols, restricted weapons, or explosives, except for lawful, proper, and sufficient purpose
     
@@ -1430,9 +1488,9 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 s 16(1), (3)
     
-    Section 45(1): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 45(1): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 45(1): amended, on 1 November 1992, by [section 23(1)][162] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 45(1): amended, on 1 November 1992, by [section 23(1)][171] of the Arms Amendment Act 1992 (1992 No 95).
     
     Section 45(2): amended, on 8 March 1985, by section 2 of the Arms Amendment Act 1985 (1985 No 5).
 
@@ -1444,7 +1502,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 s 16(1A), (3); 1976 No 151 s 9
     
-    Section 46(1): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 46(1): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 46(1): amended, on 1 August 1987, by section 2(2) of the Arms Amendment Act 1987 (1987 No 166).
     
@@ -1456,9 +1514,9 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 s 16(2), (3)
     
-    Section 47: amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 47: amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 47: amended, on 1 November 1992, by [section 24][163] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 47: amended, on 1 November 1992, by [section 24][172] of the Arms Amendment Act 1992 (1992 No 95).
 
 ##### 48 Discharging firearm, airgun, pistol, or restricted weapon in or near dwellinghouse or public place
     
@@ -1472,9 +1530,9 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 s 16(2B), (3); 1964 No 36 s 6(1)
     
-    Section 48: amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 48: amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 48: amended, on 1 November 1992, by [section 25][164] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 48: amended, on 1 November 1992, by [section 25][173] of the Arms Amendment Act 1992 (1992 No 95).
 
 ##### 49 Using, discharging, or carrying certain firearms except for some lawful, proper, or sufficient purpose
     
@@ -1500,15 +1558,15 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     (2) In any prosecution for an offence against subsection (1) in which it is proved that the defendant used, discharged, or carried a firearm of a kind described in that subsection, the burden of proving the existence of some lawful, proper, and sufficient purpose shall lie on the defendant.
     
-    Section 49(1): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 49(1): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 49A Unlawful possession of firearm or airgun after revocation of firearms licence
     
 *   Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $4,000 or to both who, being a person whose firearms licence has been revoked, is in possession of a firearm or airgun at a time when that person is not the holder of a firearms licence, and is not a person authorised, expressly or by implication, by or pursuant to this Act, to be in possession of that firearm or airgun.
     
-    Section 49A: inserted, on 1 November 1992, by [section 26][165] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 49A: inserted, on 1 November 1992, by [section 26][174] of the Arms Amendment Act 1992 (1992 No 95).
     
-    Section 49A: amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 49A: amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 50 Unlawful possession of pistol, military style semi-automatic firearm, or restricted weapon
     
@@ -1548,13 +1606,13 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 ss 7A, 7B(2), 12(1), (4), 23A; 1962 No 59 s 3; 1971 No 46 s 3; 1974 No 68 ss 4, 8; 1976 No 151 s 5; SR 1959/5 rr 12(4), 22A; SR 1964/32 rr 5, 7
     
-    Section 50 heading: substituted, on 1 November 1992, by [section 27][166] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 50 heading: substituted, on 1 November 1992, by [section 27][175] of the Arms Amendment Act 1992 (1992 No 95).
     
-    Section 50(1): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 50(1): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 50(1)(c): added, on 1 November 1992, by [section 27(1)][166] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 50(1)(c): added, on 1 November 1992, by [section 27(1)][175] of the Arms Amendment Act 1992 (1992 No 95).
     
-    Section 50(3): substituted, on 1 November 1992, by [section 27(2)][166] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 50(3): substituted, on 1 November 1992, by [section 27(2)][175] of the Arms Amendment Act 1992 (1992 No 95).
 
 ##### 51 Unlawful carriage or possession in public place of firearm, airgun, pistol, ammunition, explosive, or restricted weapon
     
@@ -1570,7 +1628,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 s 16B; 1974 No 68 s 7
     
-    Section 51(1): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 51(1): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 52 Presenting firearm, airgun, pistol, or restricted weapon at other person
     
@@ -1580,9 +1638,9 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 s 18; 1964 No 36 s 7
     
-    Section 52(1): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 52(1): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 52(2): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 52(2): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 53 Careless use of firearm, airgun, pistol, or restricted weapon
     
@@ -1596,15 +1654,15 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 ss 16(2A), 16A; 1964 No 36 s 6(1); 1966 No 18 s 4; 1971 No 46 s 4
     
-    Section 53(1): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 53(1): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 53(2): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 53(2): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 53(2): amended, on 8 March 1985, by section 3 of the Arms Amendment Act 1985 (1985 No 5).
     
-    Section 53(3): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 53(3): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 53(4): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 53(4): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 54 Use or attempted use of firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive to resist or prevent arrest or commit offence
     
@@ -1616,11 +1674,11 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 s 18A; 1976 No 151 s 10(1)
     
-    Section 54(1): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54(1): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 54(1): amended, on 28 October 1986, by section 7 of the Crimes Amendment Act (No 2) 1986 (1986 No 71).
     
-    Section 54(2): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54(2): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 55 Carrying firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive with criminal intent
     
@@ -1630,7 +1688,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 s 18B; 1976 No 151 s 10(1)
     
-    Section 55(1): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 55(1): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 56 Obstruction of member of Police
     
@@ -1638,7 +1696,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 s 19
     
-    Section 56: amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 56: amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 57 Offences committed by corporations
     
@@ -1646,7 +1704,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 s 22
     
-    Section 57: amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 57: amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 58 Reporting of injuries caused by firearms, airguns, pistols, or restricted weapons
     
@@ -1658,9 +1716,9 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     (2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who contravenes subsection (1).
     
-    Compare: 1962 No 135 [s 65(3), (6)][167]
+    Compare: 1962 No 135 [s 65(3), (6)][176]
     
-    Section 58(2): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 58(2): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 59 Unsafe firearms or pistols
     
@@ -1682,73 +1740,75 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 s 11A; 1968 No 21 s 4; 1976 No 151 s 7
     
-    Section 59(4): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 59(4): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Search and seizure of firearms
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 October 2012, by [section 323(2)][168] of the Search and Surveillance Act 2012 (2012 No 24).
+*   Heading: repealed, on 1 October 2012, by [section 323(2)][177] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 60 Search of suspected persons and seizure of firearms, airguns, pistols, imitation firearms, restricted weapons, ammunition, or explosives
     
 *   \[Repealed\]
     
-    Section 60: repealed, on 1 October 2012, by [section 323(2)][168] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 60: repealed, on 1 October 2012, by [section 323(2)][177] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 60A Search of suspected persons and seizure of firearms in cases of domestic violence
     
 *   \[Repealed\]
     
-    Section 60A: repealed, on 1 October 2012, by [section 323(2)][168] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 60A: repealed, on 1 October 2012, by [section 323(2)][177] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 61 Search of land or buildings for firearms, airguns, pistols, imitation firearms, restricted weapons, ammunition, or explosives
     
 *   \[Repealed\]
     
-    Section 61: repealed, on 1 October 2012, by [section 323(2)][168] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 61: repealed, on 1 October 2012, by [section 323(2)][177] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Appeals
 
 ##### 62 Right of appeal from official decisions
     
-*   (1) Any person---
+*   (1) This subsection applies to---
         
-    *   (a) whose application for---
+    *   (a) a person who is affected by a determination by the Commissioner that a firearm is a military style semi-automatic firearm; and
+    
+    *   (b) a person whose application for 1 of the following has been refused:
             
-        *   (i) a dealer's licence; or
+        *   (i) a dealer's licence:
         
-        *   (ia) consent under [section 7A][10]; or
+        *   (ii) consent under [section 7A][10]:
         
-        *   (ii) a permit for the purposes of [section 16(1)][20]; or
+        *   (iii) a permit for the purposes of [section 16(1)][20]:
         
-        *   (iii) a firearms licence; or
+        *   (iv) a firearms licence:
         
-        *   (iv) an endorsement under [section 30][39] or [section 30B][41] or [section 36][53]; or
+        *   (v) an endorsement under [section 30][39], [30B][41], or [36][53]:
         
-        *   (v) a permit under [section 35][52], to procure a pistol, military style semi-automatic firearm, or restricted weapon,---
+        *   (vi) a permit under [section 35][52] to procure a pistol, military style semi-automatic firearm, or restricted weapon; and
         
-        has been refused; or
+        
     
-    *   (b) whose---
+    *   (c) a person who has had 1 of the following issued subject to conditions imposed by a member of the Police or revoked:
             
-        *   (i) dealer's licence; or
+        *   (i) a dealer's licence:
         
-        *   (ii) permit for the purposes of [section 16(1)][20]; or
+        *   (ii) a permit for the purposes of [section 16(1)][20]:
         
-        *   (iii) firearms licence; or
+        *   (iii) a firearms licence:
         
-        *   (iv) endorsement under [section 30][39] or [section 30B][41] or [section 36][53]; or
+        *   (iv) an endorsement under [section 30][39], [30B][41], or [36][53]:
         
-        *   (v) permit, under [section 35][52], to procure a pistol, military style semi-automatic firearm, or restricted weapon,---
+        *   (v) a permit under [section 35][52] to procure a pistol, military style semi-automatic firearm, or restricted weapon; and
         
-        has been revoked or has been issued subject to conditions imposed by a member of the Police; or
+        
     
-    *   (c) who has been served with a notice under [section 41][59] or [section 59][81],---
+    *   (d) a person who has been served with a notice under [section 41][59] or [59][81].
     
-    may, by way of originating application, appeal to a District Court Judge from the refusal to grant any such licence or permit or from the revocation of any such licence or permit or against the imposition of the conditions or against the giving of the notice, as the case may be.
+    (1A) A person to whom subsection (1) applies may, by way of originating application, appeal to a District Court Judge from the determination, refusal, imposition of conditions, revocation, or service.
     
-    (2) On the hearing of an appeal under subsection (1), the District Court Judge may, subject to subsection (3), confirm, vary, or reverse the decision appealed against.
+    (2) On the hearing of an appeal under subsection (1A), the District Court Judge may, subject to subsection (3), confirm, vary, or reverse the decision appealed against.
     
     (3) Where---
         
@@ -1766,15 +1826,11 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 s 14; 1974 No 68 s 6; 1976 No 151 s 8
     
-    Section 62(1)(a)(ia): inserted, on 1 November 1992, by [section 28(1)][169] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 62(1): replaced, on 11 December 2013, by [section 11(1)][178] of the Arms (Military Style Semi-automatic Firearms and Import Controls) Amendment Act 2012 (2012 No 117).
     
-    Section 62(1)(a)(iv): substituted, on 1 November 1992, by [section 28(2)][169] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 62(1A): inserted, on 11 December 2013, by [section 11(1)][178] of the Arms (Military Style Semi-automatic Firearms and Import Controls) Amendment Act 2012 (2012 No 117).
     
-    Section 62(1)(a)(v): substituted, on 1 November 1992, by [section 28(2)][169] of the Arms Amendment Act 1992 (1992 No 95).
-    
-    Section 62(1)(b)(iv): substituted, on 1 November 1992, by [section 28(3)][169] of the Arms Amendment Act 1992 (1992 No 95).
-    
-    Section 62(1)(b)(v): substituted, on 1 November 1992, by [section 28(3)][169] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 62(2): amended, on 11 December 2013, by [section 11(2)][178] of the Arms (Military Style Semi-automatic Firearms and Import Controls) Amendment Act 2012 (2012 No 117).
 
 ##### 63 Appeal to District Court Judge in respect of compensation
     
@@ -1786,11 +1842,11 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
 *   (1) Where any party to any appeal under [section 62][87] or to any application under [section 63][88] is dissatisfied with the decision of the District Court Judge as being erroneous in point of law, he may appeal to the High Court on the question of law only.
     
-    (2) [Subpart 8][170] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
+    (2) [Subpart 8][179] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
     
-    Section 64(1): amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 64(1): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 64(2): replaced, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 64(2): replaced, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Restoration of articles seized
 
@@ -1862,7 +1918,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     *   (b) as soon as practicable after they have been so delivered, arrange for their removal from New Zealand.
     
-    Section 65H: inserted, on 29 April 1999, by [section 2][171] of the Arms Amendment Act 1999 (1999 No 23).
+    Section 65H: inserted, on 29 April 1999, by [section 2][180] of the Arms Amendment Act 1999 (1999 No 23).
 
 #### Miscellaneous provisions
 
@@ -1876,15 +1932,15 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
 *   Where an offence is committed against this Act or against any regulation made under this Act by any person acting as the agent or servant of another person, or being otherwise subject to the supervision or instructions of another person for the purposes of any employment in the course of which the offence was committed, that other person shall, without prejudice to the liability of the first-mentioned person, be liable under this Act in the same manner and to the same extent as if he had personally committed the offence if it is proved that the act which constituted the offence was committed with his consent or connivance or that it was attributable to any neglect on his part.
     
-    Compare: 1975 No 116 [s 17(1)][172]
+    Compare: 1975 No 116 [s 17(1)][181]
 
 ##### 68 Time for prosecutions not limited
     
-*   [Section 25][173] of the Criminal Procedure Act 2011 shall have no application to prosecutions for offences against this Act.
+*   [Section 25][182] of the Criminal Procedure Act 2011 shall have no application to prosecutions for offences against this Act.
     
     Compare: 1958 No 21 s 21
     
-    Section 68: amended, on 1 July 2013, by [section 413][137] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 68: amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 69 Forfeitures
     
@@ -1928,9 +1984,9 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 s 30A; 1976 No 151 s 16
     
-    Section 72(1): amended, on 1 October 2008, by [section 130(1)][126] of the Policing Act 2008 (2008 No 72).
+    Section 72(1): amended, on 1 October 2008, by [section 130(1)][128] of the Policing Act 2008 (2008 No 72).
     
-    Section 72(3): amended, on 1 October 2008, by [section 130(1)][126] of the Policing Act 2008 (2008 No 72).
+    Section 72(3): amended, on 1 October 2008, by [section 130(1)][128] of the Policing Act 2008 (2008 No 72).
 
 ##### 72A Service of documents
     
@@ -1964,7 +2020,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     (7) This section does not apply to notices or other documents served or given in any proceedings in any court.
     
-    Section 72A: inserted, on 1 November 1992, by [section 30][174] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 72A: inserted, on 1 November 1992, by [section 30][183] of the Arms Amendment Act 1992 (1992 No 95).
 
 ##### 73 Savings in respect of carriers and persons authorised to exercise powers of seizure
     
@@ -1974,9 +2030,9 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     *   (b) any person who seizes any article, being a firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive, in the exercise of a power conferred on him by any Act may have possession of that article so long as he is acting in the exercise of that power and in connection with his official duties.
     
-    (2) In subsection (1)(a), _carrier_ includes any postal operator within the meaning of the [Postal Services Act 1998][175].
+    (2) In subsection (1)(a), _carrier_ includes any postal operator within the meaning of the [Postal Services Act 1998][184].
     
-    Section 73(2): substituted, on 1 April 1998, by [section 62(1)][176] of the Postal Services Act 1998 (1998 No 2).
+    Section 73(2): substituted, on 1 April 1998, by [section 62(1)][185] of the Postal Services Act 1998 (1998 No 2).
 
 ##### 74 Regulations
     
@@ -2028,25 +2084,63 @@ An Act to consolidate and amend the law relating to firearms and to promote both
     
     Compare: 1958 No 21 s 32; 1966 No 18 s 3(3); 1968 No 21 s 5; 1971 No 46 s 5; 1974 No 68 s 5(4); 1976 No 151 s 17
     
-    Section 74(1)(ba): inserted, on 1 November 1992, by [section 31(1)][177] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 74(1)(ba): inserted, on 1 November 1992, by [section 31(1)][186] of the Arms Amendment Act 1992 (1992 No 95).
     
-    Section 74(1)(j): substituted, on 15 November 2000, by [section 5][178] of the Arms Amendment Act 2000 (2000 No 53).
+    Section 74(1)(j): substituted, on 15 November 2000, by [section 5][187] of the Arms Amendment Act 2000 (2000 No 53).
     
-    Section 74(1)(la): inserted, on 1 November 1992, by [section 31(2)][177] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 74(1)(la): inserted, on 1 November 1992, by [section 31(2)][186] of the Arms Amendment Act 1992 (1992 No 95).
     
-    Section 74(1)(o): amended, on 1 November 1992, by [section 31(3)][177] of the Arms Amendment Act 1992 (1992 No 95).
+    Section 74(1)(o): amended, on 1 November 1992, by [section 31(3)][186] of the Arms Amendment Act 1992 (1992 No 95).
+
+##### 74A Orders relating to military style semi-automatic firearms
+    
+*   The Governor-General may by Order in Council do any or all of the following things:
+        
+    *   (a) describe a kind of component as a pistol grip for the purposes of the definition in [section 2][3] of military style semi-automatic firearm:
+    
+    *   (b) declare semi-automatic firearms (other than pistols) of a stated make and model to be military style semi-automatic firearms for the purposes of this Act:
+    
+    *   (c) declare semi-automatic firearms (other than pistols) of a stated description to be military style semi-automatic firearms for the purposes of this Act:
+    
+    *   (d) define or describe features of a semi-automatic firearm (other than a pistol) as features of a military style semi-automatic firearm for the purposes of this Act.
+    
+    Section 74A: inserted, on 11 December 2013, by [section 12][188] of the Arms (Military Style Semi-automatic Firearms and Import Controls) Amendment Act 2012 (2012 No 117).
+
+##### 74B Certain orders relating to military style semi-automatic firearms to expire unless confirmed
+    
+*   (1) Where an order under [section 74A(b), (c), or (d)][112]---
+        
+    *   (a) has in any year been made on or after 1 January and before 1 July; and
+    
+    *   (b) has not been revoked with effect on or before 1 July in the next year; and
+    
+    *   (c) has not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of the [Regulations (Disallowance) Act 1989][189],---
+    
+    it must be treated as having been revoked with the close of the 30th day of June in that next year unless it has been confirmed by an Act of Parliament passed on or before that day.
+    
+    (2) Where an order under [section 74A(b), (c), or (d)][112]---
+        
+    *   (a) has in any year been made after 30 June and on or before 31 December; and
+    
+    *   (b) has not been revoked with effect on or before 1 January in the year after the next year; and
+    
+    *   (c) has not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of the [Regulations (Disallowance) Act 1989][189],---
+    
+    it must be treated as having been revoked with the close of 31 December in that next year unless it has been confirmed by an Act of Parliament passed on or before that day.
+    
+    Section 74B: inserted, on 11 December 2013, by [section 12][188] of the Arms (Military Style Semi-automatic Firearms and Import Controls) Amendment Act 2012 (2012 No 117).
 
 ##### 75 Consequential amendment to Summary Proceedings Act 1957
     
-*   _Amendment(s) incorporated in the [Act(s)][179]._
+*   _Amendment(s) incorporated in the [Act(s)][190]._
 
 ##### 76 Consequential amendments to Trespass Act 1980
     
-*   _Amendment(s) incorporated in the [Act(s)][180]._
+*   _Amendment(s) incorporated in the [Act(s)][191]._
 
 ##### 77 Repeals
     
-*   The enactments specified in the [Schedule][116] are hereby repealed.
+*   The enactments specified in the [Schedule][118] are hereby repealed.
 
 ##### 78 Transitional provisions
     
@@ -2085,7 +2179,7 @@ An Act to consolidate and amend the law relating to firearms and to promote both
 ## Schedule  
 Enactments repealed
 
-[s 77][114]
+[s 77][116]
 
 ##### Arms Act 1958 (1958 No 21) (RS Vol 1, p 155)
 
@@ -2113,7 +2207,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Arms Amendment Act 1992][181], and shall be read together with and deemed part of the Arms Act 1983 (hereinafter referred to as "the principal Act").
+*   (1) This Act may be cited as the [Arms Amendment Act 1992][192], and shall be read together with and deemed part of the Arms Act 1983 (hereinafter referred to as "the principal Act").
     
     (2) Except as provided in section 7(2), this Act shall come into force on 1 November 1992\.
 
@@ -2205,41 +2299,43 @@ Commencementsee section 1(2)
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][182] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][183] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][193] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][194] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][184] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][185] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][195] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][196] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][135]
+*   [Arms (Military Style Semi-automatic Firearms and Import Controls) Amendment Act 2012][197] (2012 No 117)
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 323][168]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][138]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][137]
+    Search and Surveillance Act 2012 (2012 No 24): [section 323][177]
     
-    Cluster Munitions Prohibition Act 2009 (2009 No 68): [section 20][124]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][140]
     
-    Policing Act 2008 (2008 No 72): [section 130(1)][126]
+    Cluster Munitions Prohibition Act 2009 (2009 No 68): [section 20][126]
     
-    Visiting Forces Act 2004 (2004 No 59): [section 26][132]
+    Policing Act 2008 (2008 No 72): [section 130(1)][128]
     
-    [Arms Amendment Act 2000][130] (2000 No 53)
+    Visiting Forces Act 2004 (2004 No 59): [section 26][135]
     
-    [Arms Amendment Act 1999][186] (1999 No 23)
+    [Arms Amendment Act 2000][133] (2000 No 53)
     
-    Anti-Personnel Mines Prohibition Act 1998 (1998 No 111): [sections 28][122], [30][136]
+    [Arms Amendment Act 1999][198] (1999 No 23)
     
-    Postal Services Act 1998 (1998 No 2): [section 62(1)][176]
+    Anti-Personnel Mines Prohibition Act 1998 (1998 No 111): [sections 28][124], [30][139]
     
-    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 149][125]
+    Postal Services Act 1998 (1998 No 2): [section 62(1)][185]
     
-    Domestic Violence Act 1995 (1995 No 86): [section 130(1)][147]
+    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 149][127]
     
-    [Arms Amendment Act 1992][181] (1992 No 95)
+    Domestic Violence Act 1995 (1995 No 86): [section 130(1)][156]
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][139]
+    [Arms Amendment Act 1992][192] (1992 No 95)
+    
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][142]
     
     Arms Amendment Act 1987 (1987 No 166)
     
@@ -2363,78 +2459,90 @@ Commencementsee section 1(2)
 [109]: http://www.legislation.govt.nz/act/public/1983/0044/latest/whole.html#DLM73361
 [110]: http://www.legislation.govt.nz/act/public/1983/0044/latest/whole.html#DLM73363
 [111]: http://www.legislation.govt.nz/act/public/1983/0044/latest/whole.html#DLM73366
-[112]: http://www.legislation.govt.nz/act/public/1983/0044/latest/whole.html#DLM73371
-[113]: http://www.legislation.govt.nz/act/public/1983/0044/latest/whole.html#DLM73373
-[114]: http://www.legislation.govt.nz/act/public/1983/0044/latest/whole.html#DLM73375
-[115]: http://www.legislation.govt.nz/act/public/1983/0044/latest/whole.html#DLM73376
-[116]: http://www.legislation.govt.nz/act/public/1983/0044/latest/whole.html#DLM73377
-[117]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM17835
-[118]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM2453500
-[119]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM382717
-[120]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM1102132
-[121]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM53353
-[122]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM17879
-[123]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278356
-[124]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM2171682
-[125]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM385160
-[126]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM1102383
-[127]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM302479
-[128]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM17837
-[129]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM2171664
-[130]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM75735
-[131]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM75741
-[132]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM302851
-[133]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM2997643
-[134]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM2998573
-[135]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM2998633
-[136]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM17883
-[137]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM3360714
-[138]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278370
-[139]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM162942
-[140]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278372
-[141]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278373
-[142]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278378
-[143]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278379
-[144]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278380
-[145]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM75742
-[146]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM371925
-[147]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM372849
-[148]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM155364
-[149]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278384
-[150]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278385
-[151]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278386
-[152]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278389
-[153]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278391
-[154]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278394
-[155]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278395
-[156]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278821
-[157]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278399
-[158]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278801
-[159]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278802
-[160]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278803
-[161]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278806
-[162]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278807
-[163]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278808
-[164]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278809
-[165]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278810
-[166]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278812
-[167]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM343505
-[168]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM2137116
-[169]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278813
-[170]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM3360482
-[171]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM23527
-[172]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM436425
-[173]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM3360067
-[174]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278816
-[175]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM423257
-[176]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM423785
-[177]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278818
-[178]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM75743
-[179]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM314307
-[180]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM36926
-[181]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278350
-[182]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM2998516
-[183]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM2998515
-[184]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM2998532
-[185]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[186]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM23521
+[112]: http://www.legislation.govt.nz/act/public/1983/0044/latest/whole.html#DLM5829962
+[113]: http://www.legislation.govt.nz/act/public/1983/0044/latest/whole.html#DLM5829963
+[114]: http://www.legislation.govt.nz/act/public/1983/0044/latest/whole.html#DLM73371
+[115]: http://www.legislation.govt.nz/act/public/1983/0044/latest/whole.html#DLM73373
+[116]: http://www.legislation.govt.nz/act/public/1983/0044/latest/whole.html#DLM73375
+[117]: http://www.legislation.govt.nz/act/public/1983/0044/latest/whole.html#DLM73376
+[118]: http://www.legislation.govt.nz/act/public/1983/0044/latest/whole.html#DLM73377
+[119]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM17835
+[120]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM2453500
+[121]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM382717
+[122]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM1102132
+[123]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM53353
+[124]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM17879
+[125]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278356
+[126]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM2171682
+[127]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM385160
+[128]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM1102383
+[129]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM3653113
+[130]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM302479
+[131]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM17837
+[132]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM2171664
+[133]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM75735
+[134]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM75741
+[135]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM302851
+[136]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM2997643
+[137]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM2998573
+[138]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM2998633
+[139]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM17883
+[140]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM3360714
+[141]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278370
+[142]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM162942
+[143]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278372
+[144]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM3880101
+[145]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM3880100
+[146]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278373
+[147]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM3653120
+[148]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM3926906
+[149]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM3880102
+[150]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM3926907
+[151]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278378
+[152]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278379
+[153]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278380
+[154]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM75742
+[155]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM371925
+[156]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM372849
+[157]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM155364
+[158]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278384
+[159]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278385
+[160]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278386
+[161]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278389
+[162]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278391
+[163]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278394
+[164]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278395
+[165]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278821
+[166]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278399
+[167]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278801
+[168]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278802
+[169]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278803
+[170]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278806
+[171]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278807
+[172]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278808
+[173]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278809
+[174]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278810
+[175]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278812
+[176]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM343505
+[177]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM2137116
+[178]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM3653123
+[179]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM3360482
+[180]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM23527
+[181]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM436425
+[182]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM3360067
+[183]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278816
+[184]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM423257
+[185]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM423785
+[186]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278818
+[187]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM75743
+[188]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM3926909
+[189]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM195534
+[190]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM314307
+[191]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM36926
+[192]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM278350
+[193]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM2998516
+[194]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM2998515
+[195]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM2998532
+[196]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[197]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM3653100
+[198]: http://www.legislation.govt.nz/act/public/1983/0044/latest/link.aspx?id=DLM23521
