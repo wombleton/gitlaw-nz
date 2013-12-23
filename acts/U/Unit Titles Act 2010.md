@@ -1,5 +1,5 @@
 Reprint  
-as at 20 June 2011
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,596 +13,596 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Justice, Department of Building and Housing, and Land Information New Zealand.
+This Act is administered by the Ministry of Justice, Ministry of Business, Innovation, and Employment, and Land Information New Zealand.
 
 ---
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Part 1][3]  
 [Preliminary provisions][3]
 
-[3][4] [Purpose][4]
+[3][4][][4][Purpose][4]
 
-[4][5] [Overview][5]
+[4][5][][5][Overview][5]
 
-[5][6] [Interpretation][6]
+[5][6][][6][Interpretation][6]
 
-[6][7] [Meaning of control period][7]
+[6][7][][7][Meaning of control period][7]
 
-[7][8] [Meaning of principal unit][8]
+[7][8][][8][Meaning of principal unit][8]
 
-[8][9] [Meaning of redevelopment][9]
+[8][9][][9][Meaning of redevelopment][9]
 
-[9][10] [Meaning of certain expressions in relation to layered unit title developments][10]
+[9][10][][10][Meaning of certain expressions in relation to layered unit title developments][10]
 
-[10][11] [Act binds the Crown][11]
+[10][11][][11][Act binds the Crown][11]
 
-[11][12] [Application of Act to retirement villages][12]
+[11][12][][12][Application of Act to retirement villages][12]
 
-[12][13] [Application of Act to timeshare resorts][13]
+[12][13][][13][Application of Act to timeshare resorts][13]
 
-[13][14] [General relationship to Resource Management Act 1991][14]
+[13][14][][14][General relationship to Resource Management Act 1991][14]
 
-[14][15] [Certain Acts not restricted][15]
+[14][15][][15][Certain Acts not restricted][15]
 
-[15][16] [Relationship with Public Works Act 1981][16]
+[15][16][][16][Relationship with Public Works Act 1981][16]
 
 [Part 2][17]  
 [Unit title developments][17]
 
-[Subpart 1][18]---[Subdivision of land to create unit title development][18]
+[Subpart 1][18][---][18][Subdivision of land to create unit title development][18]
 
-[16][19] [Subdivision of land to create unit title development][19]
+[16][19][][19][Subdivision of land to create unit title development][19]
 
-[17][20] [Deposit of plan effects subdivision of land][20]
+[17][20][][20][Deposit of plan effects subdivision of land][20]
 
 [Stratum estate created when unit plan deposited][21]
 
-[18][22] [Stratum estate created in unit][22]
+[18][22][][22][Stratum estate created in unit][22]
 
-[Subpart 2][23]---[Subdivision of principal unit to create unit title development: layered developments][23]
+[Subpart 2][23][---][23][Subdivision of principal unit to create unit title development: layered developments][23]
 
-[19][24] [Meaning of layered unit title development][24]
+[19][24][][24][Meaning of layered unit title development][24]
 
-[20][25] [Subdivision of principal unit into subsidiary unit title development][25]
+[20][25][][25][Subdivision of principal unit into subsidiary unit title development][25]
 
-[21][26] [Deposit of plan effects subdivision of principal unit][26]
+[21][26][][26][Deposit of plan effects subdivision of principal unit][26]
 
 [Stratum estate created when unit plan deposited][27]
 
-[22][28] [Deposit of plan effects subdivision of subsidiary unit title development][28]
+[22][28][][28][Deposit of plan effects subdivision of subsidiary unit title development][28]
 
-[Subpart 3][29]---[Creation of unit title development in stages][29]
+[Subpart 3][29][---][29][Creation of unit title development in stages][29]
 
-[23][30] [Subdivision may be done in stages][30]
+[23][30][][30][Subdivision may be done in stages][30]
 
-[24][31] [Deposit of plans in stages to create unit title development][31]
+[24][31][][31][Deposit of plans in stages to create unit title development][31]
 
-[25][32] [Requirements for plans deposited in stages][32]
+[25][32][][32][Requirements for plans deposited in stages][32]
 
-[26][33] [Grounds for principal administrative officer's refusal to give certificate in staged development][33]
+[26][33][][33][Grounds for principal administrative officer's refusal to give certificate in staged development][33]
 
-[27][34] [Future development units][34]
+[27][34][][34][Future development units][34]
 
-[28][35] [Application of Resource Management Act 1991 to staged development][35]
+[28][35][][35][Application of Resource Management Act 1991 to staged development][35]
 
-[29][36] [Stage unit plan or complete unit plan and certificate under section 224(c) of Resource Management Act 1991][36]
+[29][36][][36][Stage unit plan or complete unit plan and certificate under section 224(c) of Resource Management Act 1991][36]
 
-[30][37] [Alteration of proposed unit development plan][37]
+[30][37][][37][Alteration of proposed unit development plan][37]
 
-[Subpart 4][38]---[Requirements relating to unit plans][38]
+[Subpart 4][38][---][38][Requirements relating to unit plans][38]
 
-[31][39] [Application of this subpart][39]
+[31][39][][39][Application of this subpart][39]
 
-[32][40] [Restrictions on deposit of unit plans][40]
+[32][40][][40][Restrictions on deposit of unit plans][40]
 
-[33][41] [Further provisions relating to restrictions on deposit of unit plans][41]
+[33][41][][41][Further provisions relating to restrictions on deposit of unit plans][41]
 
-[34][42] [Unit plan must comply with survey requirements][42]
+[34][42][][42][Unit plan must comply with survey requirements][42]
 
-[35][43] [Grounds for authorised officer's refusal to give certificate][43]
+[35][43][][43][Grounds for authorised officer's refusal to give certificate][43]
 
-[36][44] [Territorial authority cannot require alterations once certificate given][44]
+[36][44][][44][Territorial authority cannot require alterations once certificate given][44]
 
-[37][45] [Protection of territorial authority, etc, from liability for issuing of certificate][45]
+[37][45][][45][Protection of territorial authority, etc, from liability for issuing of certificate][45]
 
-[Subpart 5][46]---[Ownership interest and utility interest][46]
+[Subpart 5][46][---][46][Ownership interest and utility interest][46]
 
-[38][47] [Ownership interest][47]
+[38][47][][47][Ownership interest][47]
 
-[39][48] [Utility interest (other than for future development units)][48]
+[39][48][][48][Utility interest (other than for future development units)][48]
 
-[40][49] [Utility interest for future development unit][49]
+[40][49][][49][Utility interest for future development unit][49]
 
-[41][50] [Reassessment of ownership interest and utility interest][50]
+[41][50][][50][Reassessment of ownership interest and utility interest][50]
 
-[42][51] [Registrar to be notified of reassessment][51]
+[42][51][][51][Registrar to be notified of reassessment][51]
 
-[Subpart 6][52]---[Computer registers, etc][52]
+[Subpart 6][52][---][52][Computer registers, etc][52]
 
-[43][53] [Creation of computer registers where land subdivided to create unit title development][53]
+[43][53][][53][Creation of computer registers where land subdivided to create unit title development][53]
 
-[44][54] [Creation of computer register where principal unit subdivided to create subsidiary unit title development][54]
+[44][54][][54][Creation of computer register where principal unit subdivided to create subsidiary unit title development][54]
 
-[45][55] [No computer registers for base land, subdivided principal unit, or component parts of stratum estate][55]
+[45][55][][55][No computer registers for base land, subdivided principal unit, or component parts of stratum estate][55]
 
-[46][56] [No computer register to be created for common property][56]
+[46][56][][56][No computer register to be created for common property][56]
 
-[47][57] [Supplementary record sheets][57]
+[47][57][][57][Supplementary record sheets][57]
 
-[48][58] [Noting of subsidiary unit title development][58]
+[48][58][][58][Noting of subsidiary unit title development][58]
 
-[49][59] [New unit plans][59]
+[49][59][][59][New unit plans][59]
 
-[Subpart 7][60]---[General provisions relating to dealings with unit title developments][60]
+[Subpart 7][60][---][60][General provisions relating to dealings with unit title developments][60]
 
-[50][61] [Ways in which stratum estate and base land may be dealt with][61]
+[50][61][][61][Ways in which stratum estate and base land may be dealt with][61]
 
-[51][62] [Dealings with subsidiary unit title development][62]
+[51][62][][62][Dealings with subsidiary unit title development][62]
 
-[52][63] [Effect of transfer, lease, etc, of stratum estate][63]
+[52][63][][63][Effect of transfer, lease, etc, of stratum estate][63]
 
-[53][64] [Independent dealings with accessory units restricted][64]
+[53][64][][64][Independent dealings with accessory units restricted][64]
 
-[Subpart 8][65]---[Ownership of, and dealings with, common property][65]
+[Subpart 8][65][---][65][Ownership of, and dealings with, common property][65]
 
-[54][66] [Ownership of common property][66]
+[54][66][][66][Ownership of common property][66]
 
-[55][67] [Access lots][67]
+[55][67][][67][Access lots][67]
 
-[56][68] [Sale, lease, or licence of common property][68]
+[56][68][][68][Sale, lease, or licence of common property][68]
 
-[57][69] [Registration of transfers of common property][69]
+[57][69][][69][Registration of transfers of common property][69]
 
-[58][70] [Additions to common property][70]
+[58][70][][70][Additions to common property][70]
 
-[59][71] [Registration of additions to common property][71]
+[59][71][][71][Registration of additions to common property][71]
 
-[Subpart 9][72]---[Easements and covenants][72]
+[Subpart 9][72][---][72][Easements and covenants][72]
 
 [Existing easements and covenants affecting base land][73]
 
-[60][74] [Existing easements and covenants affecting base land][74]
+[60][74][][74][Existing easements and covenants affecting base land][74]
 
-[61][75] [Dealings with easements and covenants existing before deposit of unit plan][75]
+[61][75][][75][Dealings with easements and covenants existing before deposit of unit plan][75]
 
 [Creation of new easements and covenants][76]
 
-[62][77] [Powers of body corporate in respect of easements and covenants over or for benefit of common property][77]
+[62][77][][77][Powers of body corporate in respect of easements and covenants over or for benefit of common property][77]
 
-[63][78] [Ability of owner of unit in respect of easements and covenants][78]
+[63][78][][78][Ability of owner of unit in respect of easements and covenants][78]
 
-[Subpart 10][79]---[Redevelopments][79]
+[Subpart 10][79][---][79][Redevelopments][79]
 
 [References to unit plan in relation to redevelopments][80]
 
-[64][81] [References to unit plan in relation to redevelopments][81]
+[64][81][][81][References to unit plan in relation to redevelopments][81]
 
 [Redevelopment requiring amendment to unit plan][82]
 
-[65][83] [Redevelopment requiring amendment to unit plan][83]
+[65][83][][83][Redevelopment requiring amendment to unit plan][83]
 
-[66][84] [Requirements for amendment to unit plan under section 65][84]
+[66][84][][84][Requirements for amendment to unit plan under section 65][84]
 
-[67][85] [Deposit of amendment to unit plan][85]
+[67][85][][85][Deposit of amendment to unit plan][85]
 
 [Redevelopment requiring new unit plan][86]
 
-[68][87] [Redevelopment requiring new unit plan][87]
+[68][87][][87][Redevelopment requiring new unit plan][87]
 
-[69][88] [Requirements for new unit plan under section 68][88]
+[69][88][][88][Requirements for new unit plan under section 68][88]
 
-[70][89] [Reassessment of utility interests][89]
+[70][89][][89][Reassessment of utility interests][89]
 
-[71][90] [Deposit of new plan for redevelopment][90]
+[71][90][][90][Deposit of new plan for redevelopment][90]
 
-[Subpart 11][91]---[Miscellaneous provisions relating to creation of, and dealings with, unit title developments][91]
+[Subpart 11][91][---][91][Miscellaneous provisions relating to creation of, and dealings with, unit title developments][91]
 
-[72][92] [Application of Land Transfer Act 1952 to stratum estates][92]
+[72][92][][92][Application of Land Transfer Act 1952 to stratum estates][92]
 
-[73][93] [Incidental rights][93]
+[73][93][][93][Incidental rights][93]
 
 [Scheme following destruction or damage][94]
 
-[74][95] [Scheme following destruction or damage][95]
+[74][95][][95][Scheme following destruction or damage][95]
 
-[Subpart 12][96]---[Management structures and arrangements][96]
+[Subpart 12][96][---][96][Management structures and arrangements][96]
 
 [Establishment and constitution of body corporate][97]
 
-[75][98] [Creation of body corporate][98]
+[75][98][][98][Creation of body corporate][98]
 
-[76][99] [Members of body corporate][99]
+[76][99][][99][Members of body corporate][99]
 
-[77][100] [Core things body corporate may do][100]
+[77][100][][100][Core things body corporate may do][100]
 
-[78][101] [Act must be for purpose of performing duties or exercising powers][101]
+[78][101][][101][Act must be for purpose of performing duties or exercising powers][101]
 
 [Rights and responsibilities][102]
 
-[79][103] [Rights of owners of principal units][103]
+[79][103][][103][Rights of owners of principal units][103]
 
-[80][104] [Responsibilities of owners of principal units][104]
+[80][104][][104][Responsibilities of owners of principal units][104]
 
-[81][105] [Responsibilities of absent owner of unit who leases or licenses unit][105]
+[81][105][][105][Responsibilities of absent owner of unit who leases or licenses unit][105]
 
-[82][106] [Requirements relating to consent by subsidiary body corporate to additions or structural alterations][106]
+[82][106][][106][Requirements relating to consent by subsidiary body corporate to additions or structural alterations][106]
 
-[83][107] [Rights and responsibilities of owners of principal units in subsidiary unit title developments][107]
+[83][107][][107][Rights and responsibilities of owners of principal units in subsidiary unit title developments][107]
 
 [Powers and duties of body corporate][108]
 
-[84][109] [Powers and duties of body corporate][109]
+[84][109][][109][Powers and duties of body corporate][109]
 
-[85][110] [Register of unit owners][110]
+[85][110][][110][Register of unit owners][110]
 
-[86][111] [Power of body corporate to sign document][111]
+[86][111][][111][Power of body corporate to sign document][111]
 
-[87][112] [Payment of ground rental by body corporate][112]
+[87][112][][112][Payment of ground rental by body corporate][112]
 
 [Meetings and voting][113]
 
-[88][114] [Meetings][114]
+[88][114][][114][Meetings][114]
 
-[89][115] [Requirement for annual general meeting][115]
+[89][115][][115][Requirement for annual general meeting][115]
 
-[90][116] [Who may call general meetings][116]
+[90][116][][116][Who may call general meetings][116]
 
-[91][117] [General meetings of parent body corporate or parent body corporate committee][117]
+[91][117][][117][General meetings of parent body corporate or parent body corporate committee][117]
 
-[92][118] [Representation of body corporate][118]
+[92][118][][118][Representation of body corporate][118]
 
-[93][119] [Subsidiary body corporate representative][119]
+[93][119][][119][Subsidiary body corporate representative][119]
 
-[94][120] [Duties of subsidiary body corporate representative][120]
+[94][120][][120][Duties of subsidiary body corporate representative][120]
 
-[95][121] [Quorum][121]
+[95][121][][121][Quorum][121]
 
-[96][122] [Voting: eligibility][122]
+[96][122][][122][Voting: eligibility][122]
 
-[97][123] [Counting of votes for ordinary resolution subject to request for poll][123]
+[97][123][][123][Counting of votes for ordinary resolution subject to request for poll][123]
 
-[98][124] [Counting of votes for special resolution subject to request for poll][124]
+[98][124][][124][Counting of votes for special resolution subject to request for poll][124]
 
-[99][125] [Request for poll][125]
+[99][125][][125][Request for poll][125]
 
-[100][126] [Counting of votes if poll requested][126]
+[100][126][][126][Counting of votes if poll requested][126]
 
-[101][127] [How matters at general meeting of body corporate decided][127]
+[101][127][][127][How matters at general meeting of body corporate decided][127]
 
-[102][128] [Voting: proxies][128]
+[102][128][][128][Voting: proxies][128]
 
-[103][129] [Voting: postal][129]
+[103][129][][129][Voting: postal][129]
 
-[104][130] [Passing of resolution without general meeting][130]
+[104][130][][130][Passing of resolution without general meeting][130]
 
 [Body corporate operational rules][131]
 
-[105][132] [Body corporate operational rules][132]
+[105][132][][132][Body corporate operational rules][132]
 
-[106][133] [Amendments, revocations, and additions to body corporate operational rules][133]
+[106][133][][133][Amendments, revocations, and additions to body corporate operational rules][133]
 
-[107][134] [Conflict between body corporate operational rules][134]
+[107][134][][134][Conflict between body corporate operational rules][134]
 
 [Delegation][135]
 
-[108][136] [Delegation of duties and powers][136]
+[108][136][][136][Delegation of duties and powers][136]
 
-[109][137] [Delegated duties and powers of body corporate committee][137]
+[109][137][][137][Delegated duties and powers of body corporate committee][137]
 
-[110][138] [Effect of delegation on body corporate][138]
+[110][138][][138][Effect of delegation on body corporate][138]
 
-[111][139] [Revocation of delegation][139]
+[111][139][][139][Revocation of delegation][139]
 
 [Body corporate committees][140]
 
-[112][141] [Establishment of body corporate committee][141]
+[112][141][][141][Establishment of body corporate committee][141]
 
-[113][142] [Decision-making of body corporate committee][142]
+[113][142][][142][Decision-making of body corporate committee][142]
 
-[114][143] [Body corporate committee to report to body corporate][143]
+[114][143][][143][Body corporate committee to report to body corporate][143]
 
-[Subpart 13][144]---[Financial and property management][144]
+[Subpart 13][144][---][144][Financial and property management][144]
 
 [Long-term maintenance plans, funds, and ancillary matters][145]
 
-[115][146] [Operating account][146]
+[115][146][][146][Operating account][146]
 
-[116][147] [Long-term maintenance plan][147]
+[116][147][][147][Long-term maintenance plan][147]
 
-[117][148] [Long-term maintenance fund][148]
+[117][148][][148][Long-term maintenance fund][148]
 
-[118][149] [Optional contingency fund][149]
+[118][149][][149][Optional contingency fund][149]
 
-[119][150] [Optional capital improvement fund][150]
+[119][150][][150][Optional capital improvement fund][150]
 
-[120][151] [Separate bank accounts for each fund][151]
+[120][151][][151][Separate bank accounts for each fund][151]
 
 [Contributions][152]
 
-[121][153] [Contributions to be levied on unit owners][153]
+[121][153][][153][Contributions to be levied on unit owners][153]
 
-[122][154] [Notice to body corporate of occupation of future development unit][154]
+[122][154][][154][Notice to body corporate of occupation of future development unit][154]
 
-[123][155] [Body corporate may enter into agreement with owner of future development unit for expenditure of money for mutual benefit][155]
+[123][155][][155][Body corporate may enter into agreement with owner of future development unit for expenditure of money for mutual benefit][155]
 
-[124][156] [Recovery of levy][156]
+[124][156][][156][Recovery of levy][156]
 
-[125][157] [Recovery of metered charges][157]
+[125][157][][157][Recovery of metered charges][157]
 
-[126][158] [Recovery of money expended for repairs and other work][158]
+[126][158][][158][Recovery of money expended for repairs and other work][158]
 
-[127][159] [Recovery of money expended where person at fault][159]
+[127][159][][159][Recovery of money expended where person at fault][159]
 
-[128][160] [Interest on money owing to body corporate][160]
+[128][160][][160][Interest on money owing to body corporate][160]
 
-[129][161] [Subsidiary body corporate owner of principal unit for purpose of contributions][161]
+[129][161][][161][Subsidiary body corporate owner of principal unit for purpose of contributions][161]
 
 [Spending, borrowing, investing, and distributing money or property][162]
 
-[130][163] [Spending, borrowing, and investing money][163]
+[130][163][][163][Spending, borrowing, and investing money][163]
 
-[131][164] [Distribution of surplus money or property][164]
+[131][164][][164][Distribution of surplus money or property][164]
 
 [Auditing and monitoring][165]
 
-[132][166] [Financial statements][166]
+[132][166][][166][Financial statements][166]
 
-[133][167] [Special powers of chief executive for monitoring and reporting on long-term financial and maintenance planning regime][167]
+[133][167][][167][Special powers of chief executive for monitoring and reporting on long-term financial and maintenance planning regime][167]
 
 [Insurance][168]
 
-[134][169] [Insurance][169]
+[134][169][][169][Insurance][169]
 
-[135][170] [Body corporate to insure all buildings, etc][170]
+[135][170][][170][Body corporate to insure all buildings, etc][170]
 
-[136][171] [Insurance: principal insurance policy][171]
+[136][171][][171][Insurance: principal insurance policy][171]
 
-[137][172] [Further provisions relating to insurance][172]
+[137][172][][172][Further provisions relating to insurance][172]
 
 [Repair and maintenance][173]
 
-[138][174] [Body corporate duties of repair and maintenance][174]
+[138][174][][174][Body corporate duties of repair and maintenance][174]
 
 [Review of service contracts][175]
 
-[139][176] [Original owner's obligation in relation to service contracts][176]
+[139][176][][176][Original owner's obligation in relation to service contracts][176]
 
-[140][177] [Compensation for, or termination of, service contracts][177]
+[140][177][][177][Compensation for, or termination of, service contracts][177]
 
 [Appointment of administrator][178]
 
-[141][179] [Appointment of administrator][179]
+[141][179][][179][Appointment of administrator][179]
 
 [Liability][180]
 
-[142][181] [General liability in tort][181]
+[142][181][][181][General liability in tort][181]
 
-[143][182] [Body corporate as defendant in tort][182]
+[143][182][][182][Body corporate as defendant in tort][182]
 
-[Subpart 14][183]---[Disclosure of information][183]
+[Subpart 14][183][---][183][Disclosure of information][183]
 
 [Disclosure of information by seller of unit][184]
 
-[144][185] [Interpretation][185]
+[144][185][][185][Interpretation][185]
 
-[145][186] [Prohibition on contracting out][186]
+[145][186][][186][Prohibition on contracting out][186]
 
-[146][187] [Pre-contract disclosure to prospective buyer][187]
+[146][187][][187][Pre-contract disclosure to prospective buyer][187]
 
-[147][188] [Pre-settlement disclosure to buyer][188]
+[147][188][][188][Pre-settlement disclosure to buyer][188]
 
-[148][189] [Buyer may request additional disclosure][189]
+[148][189][][189][Buyer may request additional disclosure][189]
 
-[149][190] [Buyer may delay settlement if disclosure late or not made][190]
+[149][190][][190][Buyer may delay settlement if disclosure late or not made][190]
 
-[150][191] [Seller must rectify inaccuracies in disclosure statement][191]
+[150][191][][191][Seller must rectify inaccuracies in disclosure statement][191]
 
-[151][192] [Cancellation by buyer][192]
+[151][192][][192][Cancellation by buyer][192]
 
-[152][193] [Further requirements concerning disclosure statements][193]
+[152][193][][193][Further requirements concerning disclosure statements][193]
 
-[153][194] [Buyer may rely on information][194]
+[153][194][][194][Buyer may rely on information][194]
 
 [Disclosure by original owner of unit title development to body corporate][195]
 
-[154][196] [Original owner to give notice when time for turn-over disclosure reached][196]
+[154][196][][196][Original owner to give notice when time for turn-over disclosure reached][196]
 
-[155][197] [Body corporate must convene meeting when time for turn-over disclosure reached][197]
+[155][197][][197][Body corporate must convene meeting when time for turn-over disclosure reached][197]
 
-[156][198] [Turn-over disclosure by original owner to body corporate][198]
+[156][198][][198][Turn-over disclosure by original owner to body corporate][198]
 
-[157][199] [Original owner must rectify inaccuracies in information provided under section 156][199]
+[157][199][][199][Original owner must rectify inaccuracies in information provided under section 156][199]
 
 [Part 3][200]  
 [Special provisions relating to leasehold land][200]
 
-[158][201] [Application of this Part][201]
+[158][201][][201][Application of this Part][201]
 
-[159][202] [Preservation of lessor's interest][202]
+[159][202][][202][Preservation of lessor's interest][202]
 
-[160][203] [Powers of body corporate in respect of lease][203]
+[160][203][][203][Powers of body corporate in respect of lease][203]
 
-[161][204] [Dealing with stratum estate in leasehold][204]
+[161][204][][204][Dealing with stratum estate in leasehold][204]
 
-[162][205] [Restrictions on surrenders and releases][205]
+[162][205][][205][Restrictions on surrenders and releases][205]
 
-[163][206] [Implied guarantee by unit owners][206]
+[163][206][][206][Implied guarantee by unit owners][206]
 
-[164][207] [Exclusion of powers of forfeiture, re-entry, and distress][207]
+[164][207][][207][Exclusion of powers of forfeiture, re-entry, and distress][207]
 
-[165][208] [Lessor may apply for appointment of administrator or cancellation of unit plan][208]
+[165][208][][208][Lessor may apply for appointment of administrator or cancellation of unit plan][208]
 
-[166][209] [Expiry of lease][209]
+[166][209][][209][Expiry of lease][209]
 
-[167][210] [Renewal or expiry of lease and purchase of reversionary interest][210]
+[167][210][][210][Renewal or expiry of lease and purchase of reversionary interest][210]
 
-[168][211] [Entitlement of lessee to buildings, fixtures, etc][211]
+[168][211][][211][Entitlement of lessee to buildings, fixtures, etc][211]
 
-[169][212] [Merger][212]
+[169][212][][212][Merger][212]
 
-[170][213] [Owner of future development unit member of body corporate for purpose of this Part][213]
+[170][213][][213][Owner of future development unit member of body corporate for purpose of this Part][213]
 
 [Part 4][214]  
 [Disputes, cancellation, and conversion][214]
 
-[Subpart 1][215]---[Disputes][215]
+[Subpart 1][215][---][215][Disputes][215]
 
-[171][216] [Jurisdiction of Tenancy Tribunals][216]
+[171][216][][216][Jurisdiction of Tenancy Tribunals][216]
 
-[172][217] [Jurisdiction of District Courts][217]
+[172][217][][217][Jurisdiction of District Courts][217]
 
-[173][218] [Jurisdiction of High Court][218]
+[173][218][][218][Jurisdiction of High Court][218]
 
-[174][219] [Exclusion of Tribunal's jurisdiction prohibited][219]
+[174][219][][219][Exclusion of Tribunal's jurisdiction prohibited][219]
 
-[175][220] [Transfer of proceedings to District Court or High Court][220]
+[175][220][][220][Transfer of proceedings to District Court or High Court][220]
 
-[176][221] [Certain provisions of Residential Tenancies Act 1986 to apply][221]
+[176][221][][221][Certain provisions of Residential Tenancies Act 1986 to apply][221]
 
-[Subpart 2][222]---[Cancellation of unit plans][222]
+[Subpart 2][222][---][222][Cancellation of unit plans][222]
 
 [Cancellation of unit plans by Registrar][223]
 
-[177][224] [Application by body corporate for cancellation of unit plan][224]
+[177][224][][224][Application by body corporate for cancellation of unit plan][224]
 
-[178][225] [Restriction on cancellation of unit plan if subsidiary unit title development exists][225]
+[178][225][][225][Restriction on cancellation of unit plan if subsidiary unit title development exists][225]
 
-[179][226] [Cancellation of unit plan by Registrar][226]
+[179][226][][226][Cancellation of unit plan by Registrar][226]
 
-[180][227] [Effect of cancellation of unit plan---standard unit title development or head unit title development][227]
+[180][227][][227][Effect of cancellation of unit plan---standard unit title development or head unit title development][227]
 
-[181][228] [Effect of cancellation of unit plan for subsidiary unit title development][228]
+[181][228][][228][Effect of cancellation of unit plan for subsidiary unit title development][228]
 
-[182][229] [Effect of cancellation of stage unit plan][229]
+[182][229][][229][Effect of cancellation of stage unit plan][229]
 
-[183][230] [Extinguishment of registered interests, etc][230]
+[183][230][][230][Extinguishment of registered interests, etc][230]
 
-[184][231] [Vesting of share where 2 or more owners of unit][231]
+[184][231][][231][Vesting of share where 2 or more owners of unit][231]
 
-[185][232] [Body corporate dissolved when unit plan cancelled][232]
+[185][232][][232][Body corporate dissolved when unit plan cancelled][232]
 
-[186][233] [Recording of cancellation of unit plan][233]
+[186][233][][233][Recording of cancellation of unit plan][233]
 
 [Cancellation of unit plans by High Court][234]
 
-[187][235] [Application to High Court for order of cancellation of unit plan][235]
+[187][235][][235][Application to High Court for order of cancellation of unit plan][235]
 
-[188][236] [Cancellation of unit plan by High Court][236]
+[188][236][][236][Cancellation of unit plan by High Court][236]
 
-[189][237] [Cancellation of plan following decision of High Court][237]
+[189][237][][237][Cancellation of plan following decision of High Court][237]
 
-[190][238] [Owner of future development unit member of body corporate for purposes of sections 177 to 189][238]
+[190][238][][238][Owner of future development unit member of body corporate for purposes of sections 177 to 189][238]
 
-[Subpart 3][239]---[Conversion of existing schemes][239]
+[Subpart 3][239][---][239][Conversion of existing schemes][239]
 
-[191][240] [Application and interpretation of this subpart][240]
+[191][240][][240][Application and interpretation of this subpart][240]
 
-[192][241] [Conversion to be preceded by resolution or High Court order][241]
+[192][241][][241][Conversion to be preceded by resolution or High Court order][241]
 
-[193][242] [Application to High Court if special resolution not obtained][242]
+[193][242][][242][Application to High Court if special resolution not obtained][242]
 
-[194][243] [Resolution or order to constitute sufficient authority for action by company or owners][243]
+[194][243][][243][Resolution or order to constitute sufficient authority for action by company or owners][243]
 
-[195][244] [Notice of resolution or order][244]
+[195][244][][244][Notice of resolution or order][244]
 
-[196][245] [Procedure where caveat lodged][245]
+[196][245][][245][Procedure where caveat lodged][245]
 
-[197][246] [Consents to deposit of plan][246]
+[197][246][][246][Consents to deposit of plan][246]
 
-[198][247] [Mortgages and charges to be discharged before deposit of unit plan][247]
+[198][247][][247][Mortgages and charges to be discharged before deposit of unit plan][247]
 
-[199][248] [Effect of deposit of unit plan][248]
+[199][248][][248][Effect of deposit of unit plan][248]
 
-[200][249] [Creation of computer register in respect of units][249]
+[200][249][][249][Creation of computer register in respect of units][249]
 
 [Part 5][250]  
 [General provisions][250]
 
-[Subpart 1][251]---[Administration][251]
+[Subpart 1][251][---][251][Administration][251]
 
-[201][252] [Chief executive responsible for administration of Act][252]
+[201][252][][252][Chief executive responsible for administration of Act][252]
 
-[202][253] [General functions and powers of chief executive][253]
+[202][253][][253][General functions and powers of chief executive][253]
 
-[203][254] [Immunities][254]
+[203][254][][254][Immunities][254]
 
-[Subpart 2][255]---[Miscellaneous][255]
+[Subpart 2][255][---][255][Miscellaneous][255]
 
-[204][256] [Joinder of actions][256]
+[204][256][][256][Joinder of actions][256]
 
-[205][257] [Service of documents][257]
+[205][257][][257][Service of documents][257]
 
-[206][258] [Provision of records and documents][258]
+[206][258][][258][Provision of records and documents][258]
 
-[207][259] [Powers of entry by local authority or public body][259]
+[207][259][][259][Powers of entry by local authority or public body][259]
 
-[208][260] [Requirement if consent requested][260]
+[208][260][][260][Requirement if consent requested][260]
 
-[209][261] [Distribution of proceeds in layered unit title development][261]
+[209][261][][261][Distribution of proceeds in layered unit title development][261]
 
-[Subpart 3][262]---[Minority and majority relief][262]
+[Subpart 3][262][---][262][Minority and majority relief][262]
 
-[210][263] [General relief for minority where resolution required][263]
+[210][263][][263][General relief for minority where resolution required][263]
 
-[211][264] [Relief in cases where special resolution required][264]
+[211][264][][264][Relief in cases where special resolution required][264]
 
-[212][265] [Designated resolutions][265]
+[212][265][][265][Designated resolutions][265]
 
-[213][266] [Notices of designated resolutions][266]
+[213][266][][266][Notices of designated resolutions][266]
 
-[214][267] [Requirements in relation to objections][267]
+[214][267][][267][Requirements in relation to objections][267]
 
-[215][268] [Hearing if objection made][268]
+[215][268][][268][Hearing if objection made][268]
 
-[216][269] [Certificate required][269]
+[216][269][][269][Certificate required][269]
 
-[Subpart 4][270]---[Regulations][270]
+[Subpart 4][270][---][270][Regulations][270]
 
-[217][271] [Regulations][271]
+[217][271][][271][Regulations][271]
 
-[Subpart 5][272]---[Repeals, transitional provisions, and consequential amendments][272]
+[Subpart 5][272][---][272][Repeals, transitional provisions, and consequential amendments][272]
 
-[218][273] [Unit Titles Act 1972 repealed][273]
+[218][273][][273][Unit Titles Act 1972 repealed][273]
 
-[219][274] [Existing unit title developments][274]
+[219][274][][274][Existing unit title developments][274]
 
-[220][275] [Continuation of certain provisions of Unit Titles Act 1972][275]
+[220][275][][275][Continuation of certain provisions of Unit Titles Act 1972][275]
 
-[221][276] [Application of sections 105, 106, 116, 117, and 138 to existing unit title developments][276]
+[221][276][][276][Application of sections 105, 106, 116, 117, and 138 to existing unit title developments][276]
 
-[222][277] [Ownership interest][277]
+[222][277][][277][Ownership interest][277]
 
-[223][278] [Ownership of common property][278]
+[223][278][][278][Ownership of common property][278]
 
-[224][279] [Transitional provision for supplementary record sheets][279]
+[224][279][][279][Transitional provision for supplementary record sheets][279]
 
-[225][280] [Transitional provision for annual general meetings of bodies corporate for existing unit title developments][280]
+[225][280][][280][Transitional provision for annual general meetings of bodies corporate for existing unit title developments][280]
 
-[226][281] [Transitional provision for body corporate resolutions][281]
+[226][281][][281][Transitional provision for body corporate resolutions][281]
 
-[227][282] [Transitional provision for proceedings under former Act][282]
+[227][282][][282][Transitional provision for proceedings under former Act][282]
 
-[228][283] [Disclosure of information by seller of unit][283]
+[228][283][][283][Disclosure of information by seller of unit][283]
 
-[229][284] [Review of service contracts][284]
+[229][284][][284][Review of service contracts][284]
 
-[230][285] [Principal units consisting of open spaces: deposit of unit plans][285]
+[230][285][][285][Principal units consisting of open spaces: deposit of unit plans][285]
 
-[231][286] [Principal units consisting of open spaces: amendment to unit plan][286]
+[231][286][][286][Principal units consisting of open spaces: amendment to unit plan][286]
 
-[232][287] [Application of Interpretation Act 1999][287]
+[232][287][][287][Application of Interpretation Act 1999][287]
 
-[233][288] [Consequential amendments to other enactments][288]
+[233][288][][288][Consequential amendments to other enactments][288]
 
 [Schedule  1 ][289]  
 [Illustrative examples of unit title developments][289]
@@ -770,7 +770,11 @@ Preliminary provisions
     
 *   (1) In this Act, unless the context otherwise requires,---
     
-    _access lot_ means a separate allotment that was created or currently exists to provide access to or from a unit title development (whether alone or together with other allotments outside the unit title development) and an existing road
+    _access lot_ means a separate allotment that was created or currently exists to provide access between an existing road and---
+        
+    *   (a) a unit title development; or
+    
+    *   (b) a unit in a unit title development
     
     _accessory unit_ means a unit that is designed for use with any principal unit (including, without limitation, a garden, garage, car parking space, storage space, swimming pool, laundry, stairway, or passage) and that is shown on a unit plan as an accessory unit
     
@@ -944,7 +948,7 @@ Preliminary provisions
     
     *   (b) a reference to a subdivision of a principal unit means a subdivision of a principal unit and the whole accessory unit (if any) to create a subsidiary unit title development under [subpart 2][23] of Part 2 and (if it is done in stages) in accordance with [subpart 3][29] of Part 2\.
     
-    
+    Section 5(1) **access lot**: replaced, on 5 December 2013, by [section 4][299] of the Unit Titles Amendment Act 2013 (2013 No 140).
 
 ##### 6 Meaning of control period
     
@@ -1068,7 +1072,7 @@ Preliminary provisions
 
 ##### 11 Application of Act to retirement villages
     
-*   The following sections of this Act do not apply to a unit title development that is a retirement village registered under the [Retirement Villages Act 2003][299]:
+*   The following sections of this Act do not apply to a unit title development that is a retirement village registered under the [Retirement Villages Act 2003][300]:
         
     *   (a) [section 74][95] (which relates to a scheme following destruction or damage):
     
@@ -1102,21 +1106,21 @@ Preliminary provisions
 
 ##### 13 General relationship to Resource Management Act 1991
     
-*   (1) Except as provided in this section and [sections 28 and 29][35], nothing in this Act derogates from the provisions of the [Resource Management Act 1991][300].
+*   (1) Except as provided in this section and [sections 28 and 29][35], nothing in this Act derogates from the provisions of the [Resource Management Act 1991][301].
     
-    (2) Nothing in [section 11][301] or [Part 10][302] of the Resource Management Act 1991 applies to [section 74][95], [subparts 2][222] and [3][239] of Part 4, or [section 204][256].
+    (2) Nothing in [section 11][302] or [Part 10][303] of the Resource Management Act 1991 applies to [section 74][95], [subparts 2][222] and [3][239] of Part 4, or [section 204][256].
     
-    Compare: 1972 No 15 [s 2A(1), (2)][303]
+    Compare: 1972 No 15 [s 2A(1), (2)][304]
 
 ##### 14 Certain Acts not restricted
     
-*   Nothing in this Act restricts the [Land Act 1948][304] or Te Ture Whenua Maori Act 1993\.
+*   Nothing in this Act restricts the [Land Act 1948][305] or Te Ture Whenua Maori Act 1993\.
     
-    Compare: 1972 No 15 [s 3(3)][305]
+    Compare: 1972 No 15 [s 3(3)][306]
 
 ##### 15 Relationship with Public Works Act 1981
     
-*   (1) Nothing in this Act restricts the [Public Works Act 1981][306].
+*   (1) Nothing in this Act restricts the [Public Works Act 1981][307].
     
     (2) Nothing in this Act requiring the consent of a body corporate or the making of any other resolution by the body corporate as a prerequisite to the doing of any thing applies in relation to the transfer of an estate or interest in land in a unit title development if the estate or interest in land is acquired by proclamation under the Public Works Act 1981\.
     
@@ -1124,7 +1128,7 @@ Preliminary provisions
     
     (4) If the body corporate requests in writing, the authority undertaking the public work must, at its own expense, prepare the new unit plan or amendment to a unit plan, as the case may be.
     
-    (5) The Registrar may do anything necessary to give effect to a proclamation under the [Public Works Act 1981][306] that relates to a unit title development.
+    (5) The Registrar may do anything necessary to give effect to a proclamation under the [Public Works Act 1981][307] that relates to a unit title development.
     
     (6) In this section, a reference to the _land in a unit title development_ includes any estate or interest in the base land.
 
@@ -1153,7 +1157,7 @@ Unit title developments
     
     (3) Nothing in this section permits the subdivision in accordance with this Act of a parcel of land that is subleasehold land.
     
-    Compare: 1972 No 15 [s 3(1)][305]
+    Compare: 1972 No 15 [s 3(1)][306]
 
 ##### 17 Deposit of plan effects subdivision of land
     
@@ -1161,7 +1165,7 @@ Unit title developments
     
     (2) An application to deposit the plan must be made in the prescribed form (if any) by the registered proprietor described in [section 16(1)][19].
     
-    Compare: 1972 No 15 [s 4(1)][307]
+    Compare: 1972 No 15 [s 4(1)][308]
 
 #### Stratum estate created when unit plan deposited
 
@@ -1175,7 +1179,7 @@ Unit title developments
     
     *   (c) the undivided share in the fee simple estate or, as the case may be, the estate as lessee or licensee in all the units to which the owner of the unit is contingently entitled under [subpart 2][222] of Part 4\.
     
-    Compare: 1972 No 15 [s 4(2)][307]
+    Compare: 1972 No 15 [s 4(2)][308]
 
 ### Subpart 2---Subdivision of principal unit to create unit title development: layered developments
 
@@ -1251,7 +1255,7 @@ Unit title developments
     
     (2) Except as provided in this subpart or in any other provision of this Act, all of the provisions of this Act apply to a unit title development created in stages.
     
-    Compare: 1979 No 37 [s 3][308]
+    Compare: 1979 No 37 [s 3][309]
 
 ##### 24 Deposit of plans in stages to create unit title development
     
@@ -1287,9 +1291,9 @@ Unit title developments
 
 ##### 26 Grounds for principal administrative officer's refusal to give certificate in staged development
     
-*   For the purposes of [section 35(b) and (c)][43], it is sufficient if every building and every other part of the whole development shown on a stage unit plan complies with the territorial authority's district plan requirements applied at the date on which approval of the proposed unit development plan under [section 223][309] of the Resource Management Act 1991 was given, even if, because of subsequent changes to the requirements, any building or other part of the development no longer complies with all the requirements.
+*   For the purposes of [section 35(b) and (c)][43], it is sufficient if every building and every other part of the whole development shown on a stage unit plan complies with the territorial authority's district plan requirements applied at the date on which approval of the proposed unit development plan under [section 223][310] of the Resource Management Act 1991 was given, even if, because of subsequent changes to the requirements, any building or other part of the development no longer complies with all the requirements.
     
-    Compare: 1979 No 37 [s 6(3)][310]
+    Compare: 1979 No 37 [s 6(3)][311]
 
 ##### 27 Future development units
     
@@ -1307,31 +1311,31 @@ Unit title developments
     
     *   (b) the undivided share in the fee simple estate or the estate as lessee or licensee (as the case may be) in all the units to which the owner of the unit is contingently entitled by virtue of [subpart 2][222] of Part 4\.
     
-    Compare: 1979 No 37 [s 8(1)][311]
+    Compare: 1979 No 37 [s 8(1)][312]
 
 ##### 28 Application of Resource Management Act 1991 to staged development
     
-*   (1) Nothing in [section 11][301] or [Part 10][302] of the Resource Management Act 1991 applies to the deposit of a stage unit plan or a complete unit plan except for---
+*   (1) Nothing in [section 11][302] or [Part 10][303] of the Resource Management Act 1991 applies to the deposit of a stage unit plan or a complete unit plan except for---
         
-    *   (a) the requirement to obtain a certificate under [section 224(c)][312] of that Act (as modified by [section 29][36] of this Act) unless a certificate under section 224(c) has already been obtained for the proposed unit development plan; and
+    *   (a) the requirement to obtain a certificate under [section 224(c)][313] of that Act (as modified by [section 29][36] of this Act) unless a certificate under section 224(c) has already been obtained for the proposed unit development plan; and
     
-    *   (b) the requirement to comply with [section 224(e)][312] of that Act.
+    *   (b) the requirement to comply with [section 224(e)][313] of that Act.
     
-    (2) [Section 11][301] and [Part 10][302] of the Resource Management Act 1991 apply to the deposit of a proposed unit development plan except for the requirement to obtain a certificate under [section 224(c)][312] of that Act if a certificate will be obtained for each stage unit plan and the complete unit plan in accordance with subsection (1).
+    (2) [Section 11][302] and [Part 10][303] of the Resource Management Act 1991 apply to the deposit of a proposed unit development plan except for the requirement to obtain a certificate under [section 224(c)][313] of that Act if a certificate will be obtained for each stage unit plan and the complete unit plan in accordance with subsection (1).
     
-    (3) For the avoidance of doubt, the certificate required to be obtained under [section 224(c)][312] of the Resource Management Act 1991 may be provided for either---
+    (3) For the avoidance of doubt, the certificate required to be obtained under [section 224(c)][313] of the Resource Management Act 1991 may be provided for either---
         
     *   (a) the proposed unit development plan; or
     
     *   (b) each stage unit plan and the complete unit plan.
     
-    (4) The reference in [section 224(c)][312] of the Resource Management Act 1991 to a survey plan is, in respect of a staged unit plan or a complete unit plan, a reference to the proposed unit development plan to which the staged unit plan or complete unit plan relates.
+    (4) The reference in [section 224(c)][313] of the Resource Management Act 1991 to a survey plan is, in respect of a staged unit plan or a complete unit plan, a reference to the proposed unit development plan to which the staged unit plan or complete unit plan relates.
     
-    Compare: 1972 No 15 [s 2A][303]
+    Compare: 1972 No 15 [s 2A][304]
 
 ##### 29 Stage unit plan or complete unit plan and certificate under section 224(c) of Resource Management Act 1991
     
-*   (1) Unless a condition of the subdivision consent for a stage unit plan or a complete unit plan requires otherwise, a certificate issued by a territorial authority under [section 224(c)][312] of the Resource Management Act 1991 for a stage unit plan or a complete unit plan may certify that---
+*   (1) Unless a condition of the subdivision consent for a stage unit plan or a complete unit plan requires otherwise, a certificate issued by a territorial authority under [section 224(c)][313] of the Resource Management Act 1991 for a stage unit plan or a complete unit plan may certify that---
         
     *   (a) the conditions specified in the subdivision consent that are relevant to that stage of the subdivision consent have been complied with to the satisfaction of the territorial authority; or
     
@@ -1339,11 +1343,11 @@ Unit title developments
             
         *   (i) the conditions specified in the subdivision consent are not relevant to that stage and therefore do not need to be complied with; or
         
-        *   (ii) if the conditions specified in the subdivision consent that are relevant to that stage of the subdivision consent have not been complied with, the provisions of [section 224(c)(i), (ii), and (iii)][312] of the Resource Management Act 1991 continue to apply.
+        *   (ii) if the conditions specified in the subdivision consent that are relevant to that stage of the subdivision consent have not been complied with, the provisions of [section 224(c)(i), (ii), and (iii)][313] of the Resource Management Act 1991 continue to apply.
         
         
     
-    (2) If subsection (1)(b)(ii) applies, a territorial authority may issue a certificate under [section 224(c)][312] of the Resource Management Act 1991\.
+    (2) If subsection (1)(b)(ii) applies, a territorial authority may issue a certificate under [section 224(c)][313] of the Resource Management Act 1991\.
 
 ##### 30 Alteration of proposed unit development plan
     
@@ -1351,7 +1355,7 @@ Unit title developments
         
     *   (a) required under [section 57][69] or [59][71]; or
     
-    *   (b) required in relation to a redevelopment under any of [sections 65 to 71][83].
+    *   (b) required in relation to a redevelopment under [subpart 10][79] of this Part.
     
     (2) The body corporate may, by special resolution, agree to make an application to deposit a substituted proposed unit development plan.
     
@@ -1380,6 +1384,8 @@ Unit title developments
     (7) In addition to the provisions referred to in [section 31(2)(a)][39], [sections 32(2)(a) and (b)][40], and [35 to 37][43] apply in respect of a substituted proposed unit development plan.
     
     (8) In addition to the matters required to be included in the certificate referred to in [section 216][269], the body corporate must also certify that any consent under subsection (5)(b) has been given.
+    
+    Section 30(1)(b): amended, on 5 December 2013, by [section 5][314] of the Unit Titles Amendment Act 2013 (2013 No 140).
 
 ### Subpart 4---Requirements relating to unit plans
 
@@ -1399,7 +1405,7 @@ Unit title developments
     
 *   (1) A unit plan for the subdivision of land must not be deposited---
         
-    *   (a) while the computer register to any land to which it relates is limited in any manner referred to in [Part 12][313] of the Land Transfer Act 1952:
+    *   (a) while the computer register to any land to which it relates is limited in any manner referred to in [Part 12][315] of the Land Transfer Act 1952:
     
     *   (b) while the land to which it relates is held in more than 1 computer register created under the [Land Transfer Act 1952][295]:
     
@@ -1419,7 +1425,7 @@ Unit title developments
     
     *   (b) unless a certificate in the prescribed form has been given in writing by a registered valuer showing the ownership interest or proposed ownership interest fixed under [section 38][47] for each of the units on the plan:
     
-    *   (c) until it has been approved in accordance with [section 9][314] of the Cadastral Survey Act 2002\.
+    *   (c) until it has been approved in accordance with [section 9][316] of the Cadastral Survey Act 2002\.
     
     (3) In addition to the restrictions in subsection (2), a unit plan for the subdivision of a principal unit must not be deposited---
         
@@ -1427,7 +1433,7 @@ Unit title developments
     
     *   (b) unless a certificate in the prescribed form has been given in writing by a registered valuer assessing the ownership interest of the principal unit being subdivided to create the subsidiary unit title development.
     
-    Compare: 1972 No 15 [s 5][315]
+    Compare: 1972 No 15 [s 5][317]
 
 ##### 33 Further provisions relating to restrictions on deposit of unit plans
     
@@ -1439,9 +1445,9 @@ Unit title developments
 
 ##### 34 Unit plan must comply with survey requirements
     
-*   A unit plan must comply with the provisions of rules made under [section 49][314] of the Cadastral Survey Act 2002\.
+*   A unit plan must comply with the provisions of rules made under [section 49][316] of the Cadastral Survey Act 2002\.
     
-    Compare: 1972 No 15 [s 4(1)][307]
+    Compare: 1972 No 15 [s 4(1)][308]
 
 ##### 35 Grounds for authorised officer's refusal to give certificate
     
@@ -1453,7 +1459,7 @@ Unit title developments
     
     *   (c) that any building or any other part of the whole development contravenes the requirements of the territorial authority's district plan in any other manner to such an extent that alterations are required that may affect the location or the boundaries of any unit or of any part of the common property shown on the plan unless the contravention is authorised by the territorial authority.
     
-    Compare: 1972 No 15 [s 5A(1)][316]; 1979 No 37 [s 6(3)][310]
+    Compare: 1972 No 15 [s 5A(1)][318]; 1979 No 37 [s 6(3)][311]
 
 ##### 36 Territorial authority cannot require alterations once certificate given
     
@@ -1465,17 +1471,17 @@ Unit title developments
     
     (2) The territorial authority has no power to require any alteration to any building or any other part of the whole development that may affect the location or the boundaries of any unit or of any part of the common property shown on the plan.
     
-    (3) The territorial authority may otherwise pursue any remedies it may have (including the prosecution of any person) in respect of any non-compliance with the provision of its district plan or the requirements of the [Resource Management Act 1991][300].
+    (3) The territorial authority may otherwise pursue any remedies it may have (including the prosecution of any person) in respect of any non-compliance with the provision of its district plan or the requirements of the [Resource Management Act 1991][301].
     
     (4) Subsection (2) applies despite any enactment or rule of law to the contrary.
     
-    Compare: 1972 No 15 [s 5A(2)][316]
+    Compare: 1972 No 15 [s 5A(2)][318]
 
 ##### 37 Protection of territorial authority, etc, from liability for issuing of certificate
     
 *   No territorial authority, authorised officer of a territorial authority, member of a territorial authority, or employee or agent of a territorial authority, is subject to civil or criminal liability in respect of the giving of a certificate under [section 32(2)(a)][40], unless the territorial authority or person has acted in bad faith.
     
-    Compare: 1972 No 15 [s 5A(3)][316]
+    Compare: 1972 No 15 [s 5A(3)][318]
 
 ### Subpart 5---Ownership interest and utility interest
 
@@ -1521,7 +1527,11 @@ Unit title developments
     
 *   (1) Before a unit plan is deposited under [section 17(1)][20], [21(1)][26], or [24(2)(a)][31], every principal unit and every accessory unit must be assigned a utility interest.
     
-    (2) The utility interest is the same as the ownership interest fixed under [section 38(2)][47] unless otherwise shown on any documentation required to be lodged with the unit plan deposited under [section 17(1)][20], [21(1)][26], or [24(2)(a)][31] or reassessed under [section 41][50].
+    (2) The utility interest for a principal unit or accessory unit is the same as the ownership interest fixed under [section 38(2)][47], unless the utility interest---
+        
+    *   (a) is fair and equitable, having regard to the relevant benefits and the costs to units, and is shown on documentation required to be lodged with the unit plan deposited under [section 17(1)][20], [21(1)][26], or [24(2)(a)][31]; or
+    
+    *   (b) has been reassessed under [section 41][50].
     
     (3) The utility interest is used to determine a range of matters including, but not limited to,---
         
@@ -1529,7 +1539,7 @@ Unit title developments
     
     *   (b) the rights of the owner of the principal unit in relation to a distribution of any surplus money in the long-term maintenance fund, the optional contingency fund, or the operating account, or personal property of the body corporate under [section 131][164].
     
-    
+    Section 39(2): replaced, on 5 December 2013, by [section 6][319] of the Unit Titles Amendment Act 2013 (2013 No 140).
 
 ##### 40 Utility interest for future development unit
     
@@ -1599,7 +1609,7 @@ Unit title developments
     
     (3) A computer register created under subsection (2) may also include 1 or more accessory units.
     
-    Compare: 1972 No 15 [s 8][317]
+    Compare: 1972 No 15 [s 8][320]
 
 ##### 44 Creation of computer register where principal unit subdivided to create subsidiary unit title development
     
@@ -1615,7 +1625,7 @@ Unit title developments
 
 ##### 45 No computer registers for base land, subdivided principal unit, or component parts of stratum estate
     
-*   Despite [section 95][318] of the Land Transfer Act 1952, no separate computer register may be created under that Act for---
+*   Despite [section 95][321] of the Land Transfer Act 1952, no separate computer register may be created under that Act for---
         
     *   (a) the fee simple estate or, as the case may be, the interest as lessee or licensee in the base land or any part of the base land; or
     
@@ -1623,13 +1633,13 @@ Unit title developments
     
     *   (c) any component part of a stratum estate as described in [sections 18][22] and [22(2)][28].
     
-    Compare: 1972 No 15 [s 4(4)][307]
+    Compare: 1972 No 15 [s 4(4)][308]
 
 ##### 46 No computer register to be created for common property
     
 *   No computer register may be created in respect of common property.
     
-    Compare: 1972 No 15 [s 4(4)][307]
+    Compare: 1972 No 15 [s 4(4)][308]
 
 ##### 47 Supplementary record sheets
     
@@ -1647,7 +1657,7 @@ Unit title developments
         
         
     
-    Compare: 1972 No 15 [s 20(1), (2)][319]
+    Compare: 1972 No 15 [s 20(1), (2)][322]
 
 ##### 48 Noting of subsidiary unit title development
     
@@ -1667,7 +1677,7 @@ Unit title developments
     
     *   (b) where any unit is described in any computer register or in any other instrument in respect of any land, the reference must be read as a reference to the plan for the time being deposited in respect of that land.
     
-    Compare: 1972 No 15 [s 20(3), (4)(a)][319]
+    Compare: 1972 No 15 [s 20(3), (4)(a)][322]
 
 ### Subpart 7---General provisions relating to dealings with unit title developments
 
@@ -1681,7 +1691,7 @@ Unit title developments
     
     *   (c) the fee simple estate or, as the case may be, the interest as lessee or licensee in the base land, or any part of the base land, is not capable of devolving or being dealt with except as provided in this or any other Act.
     
-    Compare: 1972 No 15 [s 4(3)][307]
+    Compare: 1972 No 15 [s 4(3)][308]
 
 ##### 51 Dealings with subsidiary unit title development
     
@@ -1691,7 +1701,7 @@ Unit title developments
     
 *   A transfer, lease, mortgage, or settlement of a stratum estate in a unit has the same effect as if the stratum estate were an estate in fee simple in land or an interest in land under a lease or licence, as the case may be.
     
-    Compare: 1972 No 15 [s 4(3)][307]
+    Compare: 1972 No 15 [s 4(3)][308]
 
 ##### 53 Independent dealings with accessory units restricted
     
@@ -1715,7 +1725,7 @@ Unit title developments
     
     (8) Nothing in subsection (7) affects the devolution of any unit on the death of the owner of the unit to the administrator of that owner.
     
-    Compare: 1972 No 15 [s 10][320]
+    Compare: 1972 No 15 [s 10][323]
 
 ### Subpart 8---Ownership of, and dealings with, common property
 
@@ -1731,17 +1741,19 @@ Unit title developments
     
 *   (1) This section applies if---
         
-    *   (a) the base land to which a unit plan relates has an access lot to or from it; and
+    *   (a) the base land to which a unit plan relates has an access lot associated with it; and
     
     *   (b) a share of the access lot is owned by the person who is, immediately before the unit plan is deposited, the registered proprietor of the base land.
     
     (2) On the deposit of the unit plan, the access lot, or share of the access lot, owned by the registered proprietor of the base land becomes part of the common property.
+    
+    Section 55(1)(a): replaced, on 5 December 2013, by [section 7][324] of the Unit Titles Amendment Act 2013 (2013 No 140).
 
 ##### 56 Sale, lease, or licence of common property
     
-*   (1) The body corporate may, after a special resolution to do so, grant a lease or licence over part of the common property.
+*   (1) The body corporate may, after a special resolution to do so, grant a lease or licence over the whole or any part of the common property.
     
-    (2) Before granting a lease or licence over part of the common property, a subsidiary body corporate must obtain the consent to the dealing by special resolution from---
+    (2) Before granting a lease or licence over the whole or any part of the common property, a subsidiary body corporate must obtain the consent to the dealing by special resolution from---
         
     *   (a) the body corporate for its parent unit title development; and
     
@@ -1749,7 +1761,7 @@ Unit title developments
     
     *   (c) the body corporate for its head unit title development.
     
-    (3) A body corporate, other than a subsidiary body corporate, may, after a special resolution to do so, sell part of the common property.
+    (3) A body corporate, other than a subsidiary body corporate, may, after a special resolution to do so, sell the whole or any part of the common property.
     
     (4) [Sections 212 to 216][265] (which provide for an objection process) apply to a resolution under this section.
     
@@ -1762,12 +1774,18 @@ Unit title developments
     (8) Without limiting subsection (6), the body corporate may, with the consent of the owner of a principal unit, offset the payment to that owner against current or future levies payable in respect of that owner's principal unit.
     
     (9) For the purposes of any sale of common property, the owner of a future development unit that is in use as a place of residence or business or otherwise, in whole or in part, is to be treated as a member of the body corporate.
+    
+    Section 56(1): amended, on 5 December 2013, by [section 8(1)][325] of the Unit Titles Amendment Act 2013 (2013 No 140).
+    
+    Section 56(2): amended, on 5 December 2013, by [section 8(1)][325] of the Unit Titles Amendment Act 2013 (2013 No 140).
+    
+    Section 56(3): amended, on 5 December 2013, by [section 8(2)][325] of the Unit Titles Amendment Act 2013 (2013 No 140).
 
 ##### 57 Registration of transfers of common property
     
 *   (1) The instrument of transfer of the whole or any part or parts of the common property must, when lodged for registration, be accompanied by a new unit plan in substitution for the existing unit plan.
     
-    (2) The requirements of subsection (1) are in addition to any plan that the Registrar may require to be deposited under [section 167][321] of the Land Transfer Act 1952\.
+    (2) The requirements of subsection (1) are in addition to any plan that the Registrar may require to be deposited under [section 167][326] of the Land Transfer Act 1952\.
     
     (3) If a unit plan referred to in this section includes a stage unit plan,---
         
@@ -1785,7 +1803,7 @@ Unit title developments
     
     (6) Nothing in this section restricts [section 47][57].
     
-    Compare: 1972 No 15 [s 18][322]
+    Compare: 1972 No 15 [s 18][327]
 
 ##### 58 Additions to common property
     
@@ -1845,17 +1863,19 @@ Unit title developments
     
 *   (1) The deposit of a unit plan has no effect on any easement or covenant to which the base land is subject or on any easement or covenant that is appurtenant to the base land.
     
-    (2) Despite [section 67][323] of the Land Transfer Act 1952, the Registrar must require any easements and covenants referred to in subsection (1) to be recorded (by diagram, words, or otherwise) on the supplementary record sheet, and must not note them on any computer register created under [section 43][53].
+    (2) Despite [section 67][328] of the Land Transfer Act 1952, the Registrar must require any easements and covenants referred to in subsection (1) to be recorded (by diagram, words, or otherwise) on the supplementary record sheet, and must not note them on any computer register created under [section 43][53].
     
-    (3) If there is a layered unit title development on the base land, the supplementary record sheet referred to in subsection (2) is that for the head unit title development and any subsidiary unit title development affected by the easement.
+    (3) If there is a layered unit title development on the base land, the supplementary record sheet referred to in subsection (2) is that for the head unit title development and any subsidiary unit title development affected by the easement or covenant.
     
-    Compare: 1972 No 15 [s 7][324]
+    Compare: 1972 No 15 [s 7][329]
+    
+    Section 60(3): amended, on 5 December 2013, by [section 9][330] of the Unit Titles Amendment Act 2013 (2013 No 140).
 
 ##### 61 Dealings with easements and covenants existing before deposit of unit plan
     
 *   (1) The body corporate of a standard unit title development or the body corporate of a head unit title development may, after a special resolution to do so, vary, surrender, or assign any easement or vary or revoke any covenant to which [section 60][74] applies.
     
-    (2) For the purpose of [sections 90 to 90F][325] of the Land Transfer Act 1952, if the body corporate enters into an instrument described in subsection (1), the body corporate must be treated as the registered proprietor of the base land.
+    (2) For the purpose of [sections 90 to 90F][331] of the Land Transfer Act 1952, if the body corporate enters into an instrument described in subsection (1), the body corporate must be treated as the registered proprietor of the base land.
 
 #### Creation of new easements and covenants
 
@@ -1971,7 +1991,7 @@ Unit title developments
     
     *   (c) specify which of the enlarged units and reduced units are principal units and which are accessory units; and
     
-    *   (d) comply with the provisions of rules made under [section 49][326] of the Cadastral Survey Act 2002\.
+    *   (d) comply with the provisions of rules made under [section 49][332] of the Cadastral Survey Act 2002\.
     
     
 
@@ -2021,7 +2041,7 @@ Unit title developments
     
     (5) [Sections 212 to 216][265] (which provide for an objection process) apply to a resolution under this section.
     
-    Compare: 1972 No 15 [s 44(1)][327]
+    Compare: 1972 No 15 [s 44(1)][333]
 
 ##### 69 Requirements for new unit plan under section 68
     
@@ -2047,7 +2067,7 @@ Unit title developments
     
     (6) In addition to the matters required to be included in the certificate referred to in [section 216][269], the body corporate must also certify that the consents required under [section 68(3)(a) and (b)][87] have been given.
     
-    Compare: 1972 No 15 [s 44(2), (3)][327]
+    Compare: 1972 No 15 [s 44(2), (3)][333]
 
 ##### 70 Reassessment of utility interests
     
@@ -2069,7 +2089,7 @@ Unit title developments
     
     *   (b) create separate computer registers in accordance with the new unit plan for the units affected by the redevelopment.
     
-    Compare: 1972 No 15 [s 44(5)][327]
+    Compare: 1972 No 15 [s 44(5)][333]
 
 ### Subpart 11---Miscellaneous provisions relating to creation of, and dealings with, unit title developments
 
@@ -2077,7 +2097,7 @@ Unit title developments
     
 *   Except as otherwise provided in this Act and subject to any necessary modifications, the provisions of the [Land Transfer Act 1952][295] apply to every stratum estate in freehold and stratum estate in leasehold or licence and to every dealing with any instrument affecting any such estate.
     
-    Compare: 1972 No 15 [s 4(6)][307]
+    Compare: 1972 No 15 [s 4(6)][308]
 
 ##### 73 Incidental rights
     
@@ -2097,7 +2117,7 @@ Unit title developments
     
     (4) Nothing in this section affects any land other than the base land.
     
-    Compare: 1972 No 15 [s 11][328]
+    Compare: 1972 No 15 [s 11][334]
 
 #### Scheme following destruction or damage
 
@@ -2147,7 +2167,7 @@ Unit title developments
     
     (9) The High Court may make any order for payment of costs that it thinks fit.
     
-    Compare: 1972 No 15 [s 48][329]
+    Compare: 1972 No 15 [s 48][335]
 
 ### Subpart 12---Management structures and arrangements
 
@@ -2253,11 +2273,11 @@ Unit title developments
     
     (2) An owner of a unit to whom this section applies must---
         
-    *   (a) appoint a person in New Zealand to act as his or her agent unless the lease is in respect of a residential tenancy under the [Residential Tenancies Act 1986][330] and an agent has already been appointed under that Act; and
+    *   (a) appoint a person in New Zealand to act as his or her agent unless the lease is in respect of a residential tenancy under the [Residential Tenancies Act 1986][336] and an agent has already been appointed under that Act; and
     
     *   (b) advise the body corporate of the agent's name, address for service, and contact details.
     
-    (3) A person appointed as an agent under subsection (2) or the [Residential Tenancies Act 1986][330] has the power to enforce the body corporate operational rules.
+    (3) A person appointed as an agent under subsection (2) or the [Residential Tenancies Act 1986][336] has the power to enforce the body corporate operational rules.
     
     (4) If an owner of a unit does not appoint an agent or the agent fails or refuses to enforce the body corporate operational rules, the body corporate may enforce those rules.
 
@@ -2351,7 +2371,7 @@ Unit title developments
     
     (4) Nothing in subsection (3)(a) restricts the right of the owner of the principal unit to recover any amounts from a transferee that the owner has paid in respect of contributions levied by the body corporate.
     
-    Compare: 1972 No 15 [s 54][331]
+    Compare: 1972 No 15 [s 54][337]
 
 ##### 86 Power of body corporate to sign document
     
@@ -2367,9 +2387,11 @@ Unit title developments
     
     *   (b) refuses to sign the document.
     
-    (5) If the body corporate signs any document pursuant to subsection (3), the body corporate must certify in writing that it has complied with subsections (1) to (4) and give a copy of the certificate to the Registrar when lodging the document for registration.
+    (5) If the body corporate signs any document pursuant to subsection (4), the body corporate must certify in writing that it has complied with subsections (1) to (4) and give a copy of the certificate to the Registrar when lodging the document for registration.
     
     (6) The Registrar may rely on the certificate.
+    
+    Section 86(5): amended, on 5 December 2013, by [section 10][338] of the Unit Titles Amendment Act 2013 (2013 No 140).
 
 ##### 87 Payment of ground rental by body corporate
     
@@ -2387,17 +2409,23 @@ Unit title developments
     
     (2) A general meeting is either an annual general meeting or extraordinary general meeting.
     
-    Compare: 1972 No 15 [Schedule 2 cl 15][332]
+    Compare: 1972 No 15 [Schedule 2 cl 15][339]
 
 ##### 89 Requirement for annual general meeting
     
-*   (1) The first annual general meeting of a body corporate must be held as soon as practicable and in any event within 6 months after the date of the deposit of a unit plan or after the settlement date of the first sale of a unit, whichever is the later.
+*   (1) The first annual general meeting of a body corporate must be held as soon as practicable, and in any event within 6 months after the earlier of the following dates:
+        
+    *   (a) the date of the deposit of the unit plan:
+    
+    *   (b) the date of the settlement of the first sale of a unit.
     
     (2) At the first annual general meeting the body corporate must nominate and elect a chairperson in accordance with the regulations.
     
     (3) Subsequent annual general meetings must be held once every calendar year and not later than 15 months after the previous annual general meeting.
     
-    Compare: 1972 No 15 [Schedule 2 cl 14][332]
+    Compare: 1972 No 15 [Schedule 2 cl 14][339]
+    
+    Section 89(1): replaced, on 5 December 2013, by [section 11][340] of the Unit Titles Amendment Act 2013 (2013 No 140).
 
 ##### 90 Who may call general meetings
     
@@ -2513,11 +2541,11 @@ Unit title developments
         
     *   (a) directing the owner to vote in a particular manner; or
     
-    *   (b) exercising a vote on behalf of the owner in accordance with the [Property Law Act 2007][333] or in accordance with any provision to that effect in the mortgage.
+    *   (b) exercising a vote on behalf of the owner in accordance with the [Property Law Act 2007][341] or in accordance with any provision to that effect in the mortgage.
     
     (8) A mortgagee must give written notice to the body corporate if it intends to exercise a vote on behalf of the owner under subsection (7)(b).
     
-    Compare: 1972 No 15 [s 41][334]
+    Compare: 1972 No 15 [s 41][342]
 
 ##### 97 Counting of votes for ordinary resolution subject to request for poll
     
@@ -2563,11 +2591,13 @@ Unit title developments
     
     (2) One vote only may be exercised for each principal unit and only those who voted on the motion under [section 97][123] or [98][124] are entitled to vote.
     
-    (3) For the motion to pass by ordinary resolution where a poll is requested, 50% of the ownership interest represented by those voting must vote in favour of the motion.
+    (3) For the motion to pass by ordinary resolution where a poll is requested, a majority of the ownership interest represented by those voting must vote in favour of the motion.
     
     (4) For the motion to pass by special resolution where a poll is requested, 75% of the ownership interest represented by those voting must vote in favour of the motion.
     
     (5) The result of any poll is the resolution of the general meeting.
+    
+    Section 100(3): amended, on 5 December 2013, by [section 12][343] of the Unit Titles Amendment Act 2013 (2013 No 140).
 
 ##### 101 How matters at general meeting of body corporate decided
     
@@ -2589,7 +2619,7 @@ Unit title developments
     
     (4) If there are 2 or more eligible voters who own 1 principal unit and they are jointly entitled to exercise 1 vote and wish to do so by proxy, that proxy must be jointly appointed by them and may be 1 of them.
     
-    Compare: 1972 No 15 [Schedule 2 cl 26][332]
+    Compare: 1972 No 15 [Schedule 2 cl 26][339]
 
 ##### 103 Voting: postal
     
@@ -2605,7 +2635,9 @@ Unit title developments
     
     (2) Notice of the resolution must be given to eligible voters in accordance with the regulations.
     
-    (3) A resolution in writing signed by not less than 50% of eligible voters in respect of an ordinary resolution or 75% of eligible voters in respect of a special resolution is as valid as if it had been passed at a meeting of those voters.
+    (3) A resolution in writing signed by a majority of eligible voters in respect of an ordinary resolution, and not less than 75% of eligible voters in respect of a special resolution, is as valid as if it had been passed at a meeting of those voters.
+    
+    Section 104(3): amended, on 5 December 2013, by [section 13][344] of the Unit Titles Amendment Act 2013 (2013 No 140).
 
 #### Body corporate operational rules
 
@@ -2829,7 +2861,7 @@ Unit title developments
     
 *   The body corporate may enter into an agreement with the owner of a future development unit for the undertaking of any work or the expenditure of any money for the mutual benefit of the body corporate and that owner.
     
-    Compare: 1979 No 37 [s 9(3)][335]
+    Compare: 1979 No 37 [s 9(3)][345]
 
 ##### 124 Recovery of levy
     
@@ -2837,7 +2869,7 @@ Unit title developments
     
     (2) The amount of any unpaid levy, together with any reasonable costs incurred in collecting the levy, is recoverable as a debt due to the body corporate by the person who was the unit owner at the time the levy became payable or by the person who is the unit owner at the time the proceedings are instituted.
     
-    Compare: 1972 No 15 [s 32][336]
+    Compare: 1972 No 15 [s 32][346]
 
 ##### 125 Recovery of metered charges
     
@@ -2865,15 +2897,17 @@ Unit title developments
     
     (3) Despite subsection (2)(b), if the court considers that it would be inequitable to apportion the amount of the debt in proportion to the utility interest of the unit owners referred to in that paragraph, it may apportion that amount in relation to those units in the shares as it thinks fit, having regard to the relative benefits to those units.
     
-    Compare: 1972 No 15 [s 33][337]
+    Compare: 1972 No 15 [s 33][347]
 
 ##### 127 Recovery of money expended where person at fault
     
-*   (1) This section applies if the body corporate does any repair, work, or act that it is required or authorised to do, by or under this Act, or by or under any other Act, and the repair, work, or act was rendered necessary by reason of any wilful or negligent act or omission on the part of, or any breach of the Act, the body corporate rules, or any regulations by, any unit owner or his or her tenant, lessee, licensee, or invitee.
+*   (1) This section applies if the body corporate does any repair, work, or act that it is required or authorised to do, by or under this Act, or by or under any other Act, and the repair, work, or act was rendered necessary by reason of any wilful or negligent act or omission on the part of, or any breach of the Act, the body corporate operational rules, or any regulations by, any unit owner or his or her tenant, lessee, licensee, or invitee.
     
     (2) Any expense incurred by the body corporate in doing the repair, work, or act, together with any reasonable costs incurred in collecting the expense, is recoverable as a debt due to the body corporate (less any amount already paid) by the person who was the unit owner at the time the expense became payable or by the person who is the unit owner at the time proceedings are instituted.
     
-    Compare: 1972 No 15 [s 34][338]
+    Compare: 1972 No 15 [s 34][348]
+    
+    Section 127(1): amended, on 5 December 2013, by [section 14][349] of the Unit Titles Amendment Act 2013 (2013 No 140).
 
 ##### 128 Interest on money owing to body corporate
     
@@ -2881,7 +2915,7 @@ Unit title developments
     
     (2) The amount of interest charged by a body corporate in relation to any unpaid debt must not exceed 10% per annum.
     
-    Compare: 1972 No 15 [s 34A][339]
+    Compare: 1972 No 15 [s 34A][350]
 
 ##### 129 Subsidiary body corporate owner of principal unit for purpose of contributions
     
@@ -2903,13 +2937,13 @@ Unit title developments
     
     (2) The body corporate may not grant a mortgage or a charge or any encumbrance over the common property.
     
-    Compare: 1972 No 15[Schedule 2 cl 3(a), (b)][332]
+    Compare: 1972 No 15[Schedule 2 cl 3(a), (b)][339]
 
 ##### 131 Distribution of surplus money or property
     
 *   The body corporate may distribute money or personal property in its possession and surplus to its requirements among the unit owners in the same proportions in which the money was raised or the money which was used to pay for the property was raised.
     
-    Compare: 1972 No 15 [s 15(3)][340]
+    Compare: 1972 No 15 [s 15(3)][351]
 
 #### Auditing and monitoring
 
@@ -2939,7 +2973,7 @@ Unit title developments
     
     (6) The body corporate must comply with any reasonable request by a person appointed to undertake any of the functions described in subsection (2), that the body corporate answer questions or provide information within 20 working days after receiving the request.
     
-    (7) Any person appointed to undertake any of the functions described in subsection (2) must be a person who is qualified to act as an auditor for a company in accordance with [section 199][341] of the Companies Act 1993\.
+    (7) Any person appointed to undertake any of the functions described in subsection (2) must be a person who is qualified to act as an auditor for a company in accordance with [section 199][352] of the Companies Act 1993\.
     
     (8) The body corporate may, at the annual general meeting, decide by special resolution that subsection (2) does not apply for a particular year.
 
@@ -2985,7 +3019,7 @@ Unit title developments
     
     (6) Nothing in subsection (5) prevents a unit owner or mortgagee from giving notice to an insurer.
     
-    Compare: 1972 No 15 [s 38(1)--(4)][342]
+    Compare: 1972 No 15 [s 38(1)--(4)][353]
 
 ##### 135 Body corporate to insure all buildings, etc
     
@@ -2997,7 +3031,7 @@ Unit title developments
     
     (4) For the purposes of this section, in a layered unit title development the body corporate referred to in this section is the head body corporate. 
     
-    Compare: 1972 No 15 [s 15(1)(b), (c)][340]
+    Compare: 1972 No 15 [s 15(1)(b), (c)][351]
 
 ##### 136 Insurance: principal insurance policy
     
@@ -3019,7 +3053,7 @@ Unit title developments
     
     (7) Nothing in this section limits or affects the rights of any person in or to the proceeds of the principal insurance policy under any of [sections 74][95] and [177 to 189][224].
     
-    Compare: 1972 No 15 [s 38(5)--(9)][342]
+    Compare: 1972 No 15 [s 38(5)--(9)][353]
 
 ##### 137 Further provisions relating to insurance
     
@@ -3041,27 +3075,45 @@ Unit title developments
     
     (5) This section applies despite any rule of law to the contrary.
     
-    Compare: 1972 No 15 [s 39][343]
+    Compare: 1972 No 15 [s 39][354]
 
 #### Repair and maintenance
 
 ##### 138 Body corporate duties of repair and maintenance
     
-*   (1) The body corporate must manage, maintain, and keep in a good state of repair the common property and any assets owned by the body corporate or designed for use in connection with the common property.
+*   (1) The body corporate must repair and maintain---
+        
+    *   (a) the common property; and
     
-    (2) The body corporate must maintain, repair, or renew all building elements and all infrastructure that relate to or serve more than 1 unit.
+    *   (b) any assets designed for use in connection with the common property; and
+    
+    *   (c) any other assets owned by the body corporate; and
+    
+    *   (d) any building elements and infrastructure that relate to or serve more than 1 unit.
+    
+    (2) \[Repealed\]
     
     (3) The body corporate may access at all reasonable hours any unit to enable it to carry out repairs and maintenance under this section.
     
-    (4) Any costs incurred by the body corporate that relate to repairs to building elements and infrastructure contained in a principal unit are recoverable by the body corporate from the owner of that unit as a debt due to the body corporate (less any amount already paid) by the person who was the unit owner at the time the expense was incurred or by the person who is the unit owner at the time the proceedings are instituted.
+    (4) Any costs incurred by the body corporate that relate to repairs to or maintenance of building elements and infrastructure contained in a principal unit are recoverable by the body corporate from the owner of that unit as a debt due to the body corporate (less any amount already paid) by the person who was the unit owner at the time the expense was incurred or by the person who is the unit owner at the time the proceedings are instituted.
     
     (5) For the purposes of this section,---
         
     *   (a) a subsidiary body corporate is to be treated as the unit owner of the principal unit that was subdivided to create the subsidiary unit title development; and
     
-    *   (b) a reference in subsection (4) to a _principal unit_ includes the common property and units of that subsidiary unit title development.
+    *   (b) a reference in subsection (4) to a _principal unit_ includes the common property and units of that subsidiary unit title development; and
     
+    *   (c) the duty to repair and maintain includes (without limitation) a duty to manage (for the purpose of repair and maintenance), to keep in a good state of repair, and to renew where necessary.
     
+    Section 138(1): replaced, on 5 December 2013, by [section 15(1)][355] of the Unit Titles Amendment Act 2013 (2013 No 140).
+    
+    Section 138(2): repealed, on 5 December 2013, by [section 15(1)][355] of the Unit Titles Amendment Act 2013 (2013 No 140).
+    
+    Section 138(4): amended, on 5 December 2013, by [section 15(2)][355] of the Unit Titles Amendment Act 2013 (2013 No 140).
+    
+    Section 138(5)(b): amended, on 5 December 2013, by [section 15(3)][355] of the Unit Titles Amendment Act 2013 (2013 No 140).
+    
+    Section 138(5)(c): inserted, on 5 December 2013, by [section 15(4)][355] of the Unit Titles Amendment Act 2013 (2013 No 140).
 
 #### Review of service contracts
 
@@ -3131,7 +3183,7 @@ Unit title developments
     
     (9) As soon as an administrator is appointed, the administrator must lodge with the Registrar a sealed copy of the order of the High Court making the appointment.
     
-    Compare: 1972 No 15 [s 40][344]
+    Compare: 1972 No 15 [s 40][356]
 
 #### Liability
 
@@ -3139,7 +3191,7 @@ Unit title developments
     
 *   (1) Despite any enactment or rule of law, this section and [section 143][182] apply to the following proceedings if the proceedings are required to be taken against an owner of a principal unit or occupier of land or premises:
         
-    *   (a) proceedings under the [Occupiers' Liability Act 1962][345]; and
+    *   (a) proceedings under the [Occupiers' Liability Act 1962][357]; and
     
     *   (b) proceedings in tort; and
     
@@ -3161,7 +3213,7 @@ Unit title developments
     
     (7) For the purpose of this section, _principal unit_ includes a future development unit.
     
-    Compare: 1972 No 15 [s 14(1), (2), (3)][346]
+    Compare: 1972 No 15 [s 14(1), (2), (3)][358]
 
 ##### 143 Body corporate as defendant in tort
     
@@ -3181,7 +3233,7 @@ Unit title developments
     
     (6) For the purposes of this section, _principal unit_ includes a future unit development unit.
     
-    Compare: 1972 No 15 [s 14(4), (5)][346]
+    Compare: 1972 No 15 [s 14(4), (5)][358]
 
 ### Subpart 14---Disclosure of information
 
@@ -3195,6 +3247,8 @@ Unit title developments
     
     _buyer_ includes a prospective buyer
     
+    _contain_, in relation to information or any certificate to be contained in any disclosure statement, includes attaching the information or certificate to, or in any other way incorporating it so it forms part of, the disclosure statement
+    
     _seller_ means the seller of a unit
     
     _settlement date_ means---
@@ -3203,7 +3257,7 @@ Unit title developments
     
     *   (b) any other settlement date that may be specified in the agreement for sale and purchase.
     
-    
+    Section 144 **contain**: inserted, on 5 December 2013, by [section 16][359] of the Unit Titles Amendment Act 2013 (2013 No 140).
 
 ##### 145 Prohibition on contracting out
     
@@ -3225,13 +3279,15 @@ Unit title developments
         
     *   (a) must contain the prescribed information; and
     
-    *   (b) must contain or be accompanied by a certificate given by the body corporate certifying that the information in the statement is correct.
+    *   (b) must contain a certificate given by the body corporate certifying that the information in the statement is correct.
     
     (4) A body corporate may withhold a certificate referred to in subsection (3)(b) if any debt that is due to the body corporate by the unit owner is unpaid.
+    
+    Section 147(3)(b): amended, on 5 December 2013, by [section 17][360] of the Unit Titles Amendment Act 2013 (2013 No 140).
 
 ##### 148 Buyer may request additional disclosure
     
-*   (1) A buyer may request an _additional disclosure statement_.
+*   (1) A buyer may request an _additional disclosure statement_ or may request some, but not all, of the information required to be in an additional disclosure statement (**specific prescribed information**).
     
     (2) The request may be made at any time before whichever of the following dates occurs first:
         
@@ -3241,9 +3297,15 @@ Unit title developments
     
     (3) If a buyer makes a request in accordance with subsections (1) and (2), the seller must provide the additional disclosure statement to the buyer no later than the fifth working day after the date on which the request was made.
     
-    (4) The additional disclosure statement must contain the prescribed information.
+    (4) The additional disclosure statement must contain the prescribed information or, if the buyer has requested only specific prescribed information, the specific prescribed information requested.
     
-    (5) The buyer must pay to the seller all reasonable costs incurred by the seller in providing the additional disclosure statement, but the non-payment of these costs does not justify the seller withholding disclosure.
+    (5) The buyer must pay to the seller all reasonable costs incurred by the seller in providing the additional disclosure statement or specific prescribed information, but the non-payment of these costs does not justify the seller withholding disclosure.
+    
+    Section 148(1): amended, on 5 December 2013, by [section 18(1)][361] of the Unit Titles Amendment Act 2013 (2013 No 140).
+    
+    Section 148(4): amended, on 5 December 2013, by [section 18(2)][361] of the Unit Titles Amendment Act 2013 (2013 No 140).
+    
+    Section 148(5): amended, on 5 December 2013, by [section 18(3)][361] of the Unit Titles Amendment Act 2013 (2013 No 140).
 
 ##### 149 Buyer may delay settlement if disclosure late or not made
     
@@ -3330,7 +3392,7 @@ Special provisions relating to leasehold land
     
     (3) In this Part, _lease_ includes a licence, and _lessor_ and _lessee_ have corresponding meanings.
     
-    Compare: 1972 No 15 [s 21][347]
+    Compare: 1972 No 15 [s 21][362]
 
 ##### 159 Preservation of lessor's interest
     
@@ -3338,7 +3400,7 @@ Special provisions relating to leasehold land
     
     (2) Subject to this Part, the lessor may deal with the reversionary estate in the base land in all respects as if the unit plan had not been deposited.
     
-    Compare: 1972 No 15 [s 22][348]
+    Compare: 1972 No 15 [s 22][363]
 
 ##### 160 Powers of body corporate in respect of lease
     
@@ -3354,13 +3416,13 @@ Special provisions relating to leasehold land
     
     (4) Subject to [section 164][207], no cause of action in respect of any breach by the owner of any unit or the registered owner of any estate or interest in any unit of any covenant, agreement, or stipulation expressed or implied in the lease and on the lessee's part to be performed or observed lies at the suit of the lessor.
     
-    Compare: 1972 No 15 [s 23][349]
+    Compare: 1972 No 15 [s 23][364]
 
 ##### 161 Dealing with stratum estate in leasehold
     
 *   Except as provided in [sections 30(5)(b)][37] and [68(3)][87], the lessor's consent is not required to any dealing with a stratum estate in leasehold.
     
-    Compare: 1972 No 15 [s 24][350]
+    Compare: 1972 No 15 [s 24][365]
 
 ##### 162 Restrictions on surrenders and releases
     
@@ -3384,7 +3446,7 @@ Special provisions relating to leasehold land
     
     *   (c) the lessor from releasing or agreeing to release all the units together with the whole of the common property from the lease.
     
-    Compare: 1972 No 15 [s 25][351]
+    Compare: 1972 No 15 [s 25][366]
 
 ##### 163 Implied guarantee by unit owners
     
@@ -3418,7 +3480,7 @@ Special provisions relating to leasehold land
     
     (6) Nothing in subsection (5) prevents the body corporate from claiming any sum due to it from that owner under the provisions of this Act by way of set-off.
     
-    Compare: 1972 No 15 [s 26][352]
+    Compare: 1972 No 15 [s 26][367]
 
 ##### 164 Exclusion of powers of forfeiture, re-entry, and distress
     
@@ -3428,7 +3490,7 @@ Special provisions relating to leasehold land
     
     (3) Nothing in subsection (2) entitles, empowers, or authorises the lessor to forfeit or determine that owner's interest under the lease.
     
-    Compare: 1972 No 15 [s 27][353]
+    Compare: 1972 No 15 [s 27][368]
 
 ##### 165 Lessor may apply for appointment of administrator or cancellation of unit plan
     
@@ -3468,15 +3530,15 @@ Special provisions relating to leasehold land
     
     (7) If the High Court grants relief it may grant it on such terms (if any) as to costs, expenses, damages, compensation, penalty, or otherwise, including the granting of an injunction to restrain any like breach in the future, as the High Court in the circumstances of each case thinks fit.
     
-    Compare: 1972 No 15 [s 28][354]
+    Compare: 1972 No 15 [s 28][369]
 
 ##### 166 Expiry of lease
     
-*   (1) Despite [section 50(c)][61], the term of the lease or any renewed or extended term is deemed not to have expired until the unit plan has been cancelled or a certificate of expiry has been registered in accordance with subsection (3).
+*   (1) The term of the lease or any renewed or extended term is deemed not to have expired until the unit plan has been cancelled or a certificate of expiry has been registered in accordance with subsection (3).
     
     (2) On the cancellation of the unit plan the term of the lease is deemed to expire unless the lessor, in writing, has consented to the cancellation of the plan and agreed that the lease is to continue in force according to its tenor.
     
-    (3) Despite [section 50(c)][61], at any time after the date on which the lease or any extended or renewed term is by the relevant instrument expressed to expire, the following persons may lodge with the Registrar a certificate of expiry in the prescribed form:
+    (3) At any time after the date on which the lease or any extended or renewed term is by the relevant instrument expressed to expire, the following persons may lodge with the Registrar a certificate of expiry in the prescribed form:
         
     *   (a) the lessor; or
     
@@ -3484,7 +3546,7 @@ Special provisions relating to leasehold land
     
     (4) The person or persons intending to lodge a certificate under subsection (3) must give 14 days' notice in writing to the body corporate before lodging the certificate.
     
-    (5) The Registrar, on receiving the certificate, if the Registrar is satisfied that the term of the lease or any extended or renewed term has expired, and subject to the provisions of subsection (6), must---
+    (5) On receiving a certificate of expiry, if the Registrar is satisfied that the term of the lease or any extended or renewed term has expired, he or she must---
         
     *   (a) cancel the unit plan; and
     
@@ -3492,15 +3554,19 @@ Special provisions relating to leasehold land
     
     *   (c) enter a memorial to the effect that the lease has expired.
     
-    (6) If the body corporate has applied to the court for any relief under [section 264][355] of the Property Law Act 2007, it may serve a copy of the application on the Registrar.
+    (6) If the body corporate has applied to the court for any relief under [section 264][370] of the Property Law Act 2007, it may serve a copy of the application on the Registrar.
     
-    (7) If a copy of an application has been served on the Registrar under subsection (6), the Registrar must not register a certificate of expiry unless---
-        
-    *   (a) the High Court orders that it can be registered; or
+    (7) If the Registrar is served with a copy of an application under subsection (6), the Registrar may not take any action referred to in subsection (5) unless or until the Registrar is satisfied that the application for relief has been withdrawn or refused.
     
-    *   (b) the owners who are together entitled to exercise more than 25% of the votes on an ordinary resolution of the body corporate request the Registrar in writing to do so.
+    Compare: 1972 No 15 [s 29][371]
     
-    Compare: 1972 No 15 [s 29][356]
+    Section 166(1): amended, on 5 December 2013, by [section 19(1)][372] of the Unit Titles Amendment Act 2013 (2013 No 140).
+    
+    Section 166(3): amended, on 5 December 2013, by [section 19(2)][372] of the Unit Titles Amendment Act 2013 (2013 No 140).
+    
+    Section 166(5): amended, on 5 December 2013, by [section 19(3)][372] of the Unit Titles Amendment Act 2013 (2013 No 140).
+    
+    Section 166(7): replaced, on 5 December 2013, by [section 19(4)][372] of the Unit Titles Amendment Act 2013 (2013 No 140).
 
 ##### 167 Renewal or expiry of lease and purchase of reversionary interest
     
@@ -3514,7 +3580,7 @@ Special provisions relating to leasehold land
     
     (3) In the case of an option to purchase the reversionary estate in the base land, the body corporate must agree, by special resolution, to the terms of the purchase.
     
-    Compare: 1972 No 15 [s 30(1)][357]
+    Compare: 1972 No 15 [s 30(1)][373]
 
 ##### 168 Entitlement of lessee to buildings, fixtures, etc
     
@@ -3524,7 +3590,7 @@ Special provisions relating to leasehold land
     
     (3) Despite subsection (2), if the High Court considers that it is inequitable to apportion the amount referred to in that subsection among the persons referred to in that subsection in those shares it may apportion that amount among them in shares proportionate to the relative values of the units.
     
-    Compare: 1972 No 15 [s 30(2)][357]
+    Compare: 1972 No 15 [s 30(2)][373]
 
 ##### 169 Merger
     
@@ -3556,7 +3622,7 @@ Special provisions relating to leasehold land
     
     *   (c) note the effect of this section on the lease and any computer register created for it.
     
-    Compare: 1972 No 15 [s 31][358]
+    Compare: 1972 No 15 [s 31][374]
 
 ##### 170 Owner of future development unit member of body corporate for purpose of this Part
     
@@ -3566,7 +3632,7 @@ Special provisions relating to leasehold land
     
     *   (b) the ownership interest of the unit were equivalent to the aggregate ownership interest of all the units into which it is proposed eventually to subdivide the future development unit, as shown on the proposed development plan.
     
-    Compare: 1979 No 37 [s 9(5)][335]
+    Compare: 1979 No 37 [s 9(5)][345]
 
 ## Part 4  
 Disputes, cancellation, and conversion
@@ -3575,7 +3641,9 @@ Disputes, cancellation, and conversion
 
 ##### 171 Jurisdiction of Tenancy Tribunals
     
-*   (1) Except as provided in this section, a Tenancy Tribunal (a _Tribunal_) constituted under [section 67][359] of the Residential Tenancies Act 1986 has jurisdiction to hear and determine all disputes arising between any persons of the kind listed in subsection (2) in relation to a unit title development (a _unit title dispute_).
+*   (1) Except as provided in this section, a Tenancy Tribunal (a _Tribunal_) constituted under [section 67][375] of the Residential Tenancies Act 1986 has jurisdiction to hear and determine all disputes arising between any persons of the kind listed in subsection (2) in relation to a unit title development (a _unit title dispute_).
+    
+    (1A) To avoid doubt, and without limiting subsection (1), a unit title dispute may relate to a claim for unpaid levies.
     
     (2) The persons mentioned in subsection (1) are---
         
@@ -3605,6 +3673,14 @@ Disputes, cancellation, and conversion
     
     (3) Any person listed in subsection (2) may, by notice in writing to the Tribunal, appoint an agent to act on his or her or its behalf in relation to a dispute.
     
+    (3A) Without limiting the provisions of the [Residential Tenancies Act 1986][336] that apply to a Tenancy Tribunal by virtue of [section 176][221] of this Act, a Tenancy Tribunal may, in relation to a unit title dispute within its jurisdiction under this section, do any of the following:
+        
+    *   (a) order any party to do anything necessary to remedy a breach by that party of an obligation arising under this Act, the body corporate operational rules, or any agreement that is binding on the party and relevant to the unit title dispute:
+    
+    *   (b) order any party to refrain from doing anything that would constitute a breach of an obligation arising under this Act, the body corporate operational rules, or any agreement that is binding on the party and relevant to the unit title dispute:
+    
+    *   (c) make any supplementary orders of a consequential or ancillary nature necessary to exercise or perfect the exercise of any of its jurisdiction.
+    
     (4) The Tribunal does not have jurisdiction---
         
     *   (a) to make an order requiring any person or body to pay any sum, or to do any work to a value, or otherwise incur expenditure, in excess of $50,000; or
@@ -3628,6 +3704,10 @@ Disputes, cancellation, and conversion
     (8) The Tribunal has jurisdiction to hear and determine any claim arising under any unit title dispute that is a claim for the balance, not exceeding $50,000, after a set-off or any counterclaim made by the other party to the dispute against the claimant arising out of the same dispute, being a counterclaim admitted by the claimant.
     
     (9) A cause of action must not be divided into 2 or more claims for the purpose of bringing it within the jurisdiction of the Tribunal.
+    
+    Section 171(1A): inserted, on 5 December 2013, by [section 20(1)][376] of the Unit Titles Amendment Act 2013 (2013 No 140).
+    
+    Section 171(3A): inserted, on 5 December 2013, by [section 20(2)][376] of the Unit Titles Amendment Act 2013 (2013 No 140).
 
 ##### 172 Jurisdiction of District Courts
     
@@ -3647,7 +3727,11 @@ Disputes, cancellation, and conversion
     
     *   (b) the dispute relates to the title of land.
     
+    (1A) In addition to the jurisdiction conferred under subsection (1), the High Court also has jurisdiction to hear and determine a unit title dispute relating to the application of insurance money under [section 136(4)][377] for amounts in excess of $50,000\.
+    
     (2) Any provision of any agreement that purports to exclude or limit the jurisdiction of the High Court is of no effect.
+    
+    Section 173(1A): inserted, on 5 December 2013, by [section 21][378] of the Unit Titles Amendment Act 2013 (2013 No 140).
 
 ##### 174 Exclusion of Tribunal's jurisdiction prohibited
     
@@ -3667,19 +3751,19 @@ Disputes, cancellation, and conversion
     
     (2) Any proceedings transferred under subsection (1) are to be treated as having been commenced in the court to which the proceedings have been transferred and are to be dealt with by that court accordingly.
     
-    Compare: 1986 No 120 [s 83][360]
+    Compare: 1986 No 120 [s 83][379]
 
 ##### 176 Certain provisions of Residential Tenancies Act 1986 to apply
     
-*   (1) [Part 3][361] of the Residential Tenancies Act 1986 applies with all necessary modifications in respect of the hearing and determination of a unit title dispute by a Tenancy Tribunal except the following sections:
+*   (1) [Part 3][380] of the Residential Tenancies Act 1986 applies with all necessary modifications in respect of the hearing and determination of a unit title dispute by a Tenancy Tribunal except the following sections:
         
-    *   (a) [section 77][362] (which relates to the Tribunal's jurisdiction):
+    *   (a) [section 77][381] (which relates to the Tribunal's jurisdiction):
     
-    *   (b) [section 106][363] (which relates to the enforcement of possession orders):
+    *   (b) [section 106][382] (which relates to the enforcement of possession orders):
     
-    *   (c) [section 109][364] (which relates to unlawful acts and claims for exemplary damages).
+    *   (c) [section 109][383] (which relates to unlawful acts and claims for exemplary damages).
     
-    (2) Without limiting subsection (1), every reference in [Part 3][361] of the Residential Tenancies Act 1986 to ""this Act"" is to be read as a reference to ""the Unit Titles Act 2010"".
+    (2) Without limiting subsection (1), every reference in [Part 3][380] of the Residential Tenancies Act 1986 to ""this Act"" is to be read as a reference to ""the Unit Titles Act 2010"".
 
 ### Subpart 2---Cancellation of unit plans
 
@@ -3835,13 +3919,13 @@ Disputes, cancellation, and conversion
 
 ##### 186 Recording of cancellation of unit plan
     
-*   (1) The Registrar must, on cancelling a unit plan, give notice to the territorial authority (as defined in the [Local Government Act 2002][365]) in whose district the base land is situated that the plan has been cancelled and the body corporate dissolved.
+*   (1) The Registrar must, on cancelling a unit plan, give notice to the territorial authority (as defined in the [Local Government Act 2002][384]) in whose district the base land is situated that the plan has been cancelled and the body corporate dissolved.
     
     (2) The Registrar must also cancel the relevant supplementary record sheet.
     
     (3) If a subsidiary unit title development is cancelled, the Registrar must note the cancellation on the supplementary record sheet for the parent unit title development.
     
-    Compare: 1972 No 15 [s 45][366]
+    Compare: 1972 No 15 [s 45][385]
 
 #### Cancellation of unit plans by High Court
 
@@ -3909,7 +3993,7 @@ Disputes, cancellation, and conversion
     
     (5) The High Court may make any order for payment of costs as it thinks fit.
     
-    Compare: 1972 No 15 [s 46][367]
+    Compare: 1972 No 15 [s 46][386]
 
 ##### 189 Cancellation of plan following decision of High Court
     
@@ -3933,13 +4017,13 @@ Disputes, cancellation, and conversion
     
     *   (c) [sections 185][232] and [186][233].
     
-    Compare: 1972 No 15 [s 47(4)][368]
+    Compare: 1972 No 15 [s 47(4)][387]
 
 ##### 190 Owner of future development unit member of body corporate for purposes of sections 177 to 189
     
 *   For the purposes of [sections 177 to 189][224], an owner of a future development unit is to be treated as a member of the body corporate.
     
-    Compare: 1979 No 37 [s 9][335]
+    Compare: 1979 No 37 [s 9][345]
 
 ### Subpart 3---Conversion of existing schemes
 
@@ -3949,7 +4033,7 @@ Disputes, cancellation, and conversion
         
     *   (a) that estate is held by---
             
-        *   (i) a registered proprietor that is a flat or office owning company within the meaning of [Part 7A][369] of the Land Transfer Act 1952; or
+        *   (i) a registered proprietor that is a flat or office owning company within the meaning of [Part 7A][388] of the Land Transfer Act 1952; or
         
         *   (ii) registered proprietors each of whom holds that estate with the other registered proprietors as tenant in common and also as the proprietor of a leasehold interest in part of the land under a lease made between all the registered proprietors at the date of the lease as lessors and the registered proprietor (or a person through whom the registered proprietor claims) as lessee; and
         
@@ -3967,11 +4051,11 @@ Disputes, cancellation, and conversion
     
     _company_ means a company to which subsection (1)(a)(i) applies
     
-    _member_, in relation to a company incorporated under [Part 2][370] of the Companies Act 1993, means a shareholder as defined in [section 96][371] of that Act and, in relation to any other company, means a member of, or shareholder in, the company
+    _member_, in relation to a company incorporated under [Part 2][389] of the Companies Act 1993, means a shareholder as defined in [section 96][390] of that Act and, in relation to any other company, means a member of, or shareholder in, the company
     
     _owners_ means a group of registered proprietors to whom subsection (1)(a)(ii) applies.
     
-    Compare: 1972 No 15 [s 56][372]
+    Compare: 1972 No 15 [s 56][391]
 
 ##### 192 Conversion to be preceded by resolution or High Court order
     
@@ -3981,7 +4065,7 @@ Disputes, cancellation, and conversion
     
     *   (b) notice of the intention to subdivide the land must have been given in accordance with [section 195][244].
     
-    Compare: 1972 No 15 [s 57][373]
+    Compare: 1972 No 15 [s 57][392]
 
 ##### 193 Application to High Court if special resolution not obtained
     
@@ -3993,13 +4077,13 @@ Disputes, cancellation, and conversion
     
     (4) The High Court may grant the application subject to any conditions that it thinks fit, or may decline the application.
     
-    Compare: 1972 No 15 [s 58][374]
+    Compare: 1972 No 15 [s 58][393]
 
 ##### 194 Resolution or order to constitute sufficient authority for action by company or owners
     
 *   A resolution by 75% of the members of an existing company or the owners to subdivide its or their land in accordance with this Act, or an order of the High Court made under [section 193][242] that the land be subdivided, is sufficient authority for the company or the owners to do whatever may be required by this Act to accomplish that purpose without any further resolution of the company or the owners.
     
-    Compare: 1972 No 15 [s 59][375]
+    Compare: 1972 No 15 [s 59][394]
 
 ##### 195 Notice of resolution or order
     
@@ -4023,7 +4107,7 @@ Disputes, cancellation, and conversion
     
     (4) On receipt by the Registrar of notice of the resolution or order under this section, the Registrar must make an entry on each computer register in respect of the land concerned to the effect that the company or the owners have advertised an intention to subdivide the land in accordance with this Act.
     
-    Compare: 1972 No 15 [s 60(1)--(3), (7)][376]
+    Compare: 1972 No 15 [s 60(1)--(3), (7)][395]
 
 ##### 196 Procedure where caveat lodged
     
@@ -4039,7 +4123,7 @@ Disputes, cancellation, and conversion
     
     (4) If the circumstances in which the order was made subsequently change before the caveat is removed, the company or any owner or the caveator may apply to the High Court for a variation of the order.
     
-    Compare: 1972 No 15 [s 60(4)--(6)][376]
+    Compare: 1972 No 15 [s 60(4)--(6)][395]
 
 ##### 197 Consents to deposit of plan
     
@@ -4055,7 +4139,7 @@ Disputes, cancellation, and conversion
     
     (4) If any person whose consent is required to the deposit of the new unit plan is dead or cannot be found or refuses to consent or does not consent within a reasonable time or if for any reason it is impracticable to obtain the consent of that person, the High Court, on the application of any applicant under this subpart, may if it thinks fit consent on behalf of that person to the deposit of the plan.
     
-    Compare: 1972 No 15 [s 62][377]
+    Compare: 1972 No 15 [s 62][396]
 
 ##### 198 Mortgages and charges to be discharged before deposit of unit plan
     
@@ -4063,13 +4147,13 @@ Disputes, cancellation, and conversion
     
     (2) If a unit plan is deposited in accordance with subsection (1) while there is a mortgage or charge over the unit or units for which (under [section 43(2)][53]) the Registrar is requested to create a separate computer register, the deposit of the plan and the creation of the computer register does not affect the mortgage or charge; and if, on the creation of the separate computer register, the stratum estate in the unit or units is subject to the mortgage or charge, then the mortgage or charge must be notified on the computer register in a manner so as to preserve its priority.
     
-    Compare: 1972 No 15 [s 63][378]
+    Compare: 1972 No 15 [s 63][397]
 
 ##### 199 Effect of deposit of unit plan
     
 *   (1) On the deposit of a unit plan under this subpart, the stratum estate in each unit vests in the person who, immediately before the plan was deposited, was the holder of shares in the company entitling him or her to the exclusive occupation of that unit, or the lessee under a lease of that unit from the owners to himself or herself. The stratum estate may then devolve or be transferred, leased, mortgaged, settled, or otherwise dealt with as provided in this Act.
     
-    (2) On the deposit by a company of a unit plan, the company, if it is a company within the meaning of [section 2][379] of the Companies Act 1993, is deemed to have been removed from the New Zealand register and that Act ceases to apply to it.
+    (2) On the deposit by a company of a unit plan, the company, if it is a company within the meaning of [section 2][398] of the Companies Act 1993, is deemed to have been removed from the New Zealand register and that Act ceases to apply to it.
     
     (3) On the deposit, whether by a company or by the owners, of a unit plan in accordance with this subpart,---
         
@@ -4087,7 +4171,7 @@ Disputes, cancellation, and conversion
     
     (4) Nothing in subsection (3)(c) affects a mortgage or charge to which [section 198(2)][247] relates.
     
-    Compare: 1972 No 15 [s 64][380]
+    Compare: 1972 No 15 [s 64][399]
 
 ##### 200 Creation of computer register in respect of units
     
@@ -4099,11 +4183,11 @@ Disputes, cancellation, and conversion
     
     (2) Every computer register created under subsection (1) is deemed to be a computer register created under the [Land Transfer Act 1952][295] and, subject to the provisions of this Act, the provisions of that Act apply accordingly.
     
-    (3) If the computer register created under subsection (1) relates to a unit in respect of which there was, before the plan was deposited, a registered lease or licence, the provisions of [section 117(2) to (4)][381] of the Land Transfer Act 1952 apply to the computer register for that unit as if it were a lease in substitution for a previously registered lease.
+    (3) If the computer register created under subsection (1) relates to a unit in respect of which there was, before the plan was deposited, a registered lease or licence, the provisions of [section 117(2) to (4)][400] of the Land Transfer Act 1952 apply to the computer register for that unit as if it were a lease in substitution for a previously registered lease.
     
-    (4) The provisions of [section 7(2) and (3)][382] of the Joint Family Homes Act 1964 apply in every case where a computer register is created under subsection (1) in respect of a unit that was settled as a joint family home immediately before the deposit of the new unit plan relating to that unit.
+    (4) The provisions of [section 7(2) and (3)][401] of the Joint Family Homes Act 1964 apply in every case where a computer register is created under subsection (1) in respect of a unit that was settled as a joint family home immediately before the deposit of the new unit plan relating to that unit.
     
-    Compare: 1972 No 15 [s 65][383]
+    Compare: 1972 No 15 [s 65][402]
 
 ## Part 5  
 General provisions
@@ -4114,7 +4198,7 @@ General provisions
     
 *   The chief executive is responsible for the administration of this Act.
     
-    Compare: 1986 No 120 [s 121][384]
+    Compare: 1986 No 120 [s 121][403]
 
 ##### 202 General functions and powers of chief executive
     
@@ -4132,13 +4216,13 @@ General provisions
     
     (2) Except as required by the Minister under subsection (1)(e), whether or not to perform or exercise any of the functions and powers specified in that subsection in any particular case is a matter for the chief executive's discretion, and in no circumstance is the chief executive obliged to perform or exercise any such function or power.
     
-    Compare: 1986 No 120 [s 123][385]
+    Compare: 1986 No 120 [s 123][404]
 
 ##### 203 Immunities
     
 *   No personal liability attaches to the chief executive or to any delegate of the chief executive for any act or omission by the chief executive or the delegate made in good faith and in the performance or exercise, or purported performance or exercise, of all or any of the functions or powers of the chief executive under this Act, or in the discharge, or purported discharge, of all or any of the chief executive's duties under this Act, but without prejudice to any liability that the Crown may incur for the acts or omissions of any employee or agent of the Crown.
     
-    Compare: 1986 No 120 [s 125][386]
+    Compare: 1986 No 120 [s 125][405]
 
 ### Subpart 2---Miscellaneous
 
@@ -4146,7 +4230,7 @@ General provisions
     
 *   Where an application under [section 74][95] or [187][235] is pending and an application under the other of those sections is made in respect of the same unit plan, the High Court may hear and determine the 2 applications together.
     
-    Compare: 1972 No 15 [s 49][387]
+    Compare: 1972 No 15 [s 49][406]
 
 ##### 205 Service of documents
     
@@ -4198,7 +4282,7 @@ General provisions
     
 *   If a local authority, public body, or person authorised by it has a right under any Act to enter on any part of the base land, the authority, body, or person is entitled to enter on any other part of the base land to the extent necessary or expedient to enable the authority, body, or person to exercise its or his or her powers under that Act.
     
-    Compare: 1972 No 15 [s 52][388]
+    Compare: 1972 No 15 [s 52][407]
 
 ##### 208 Requirement if consent requested
     
@@ -4230,17 +4314,25 @@ General provisions
     
 *   (1) In any case where this Act requires a resolution and the resolution is passed, any person who voted against the resolution may apply to the appropriate decision-maker for relief on the grounds that the effect of the resolution would be unjust or inequitable for the minority.
     
+    (1A) Subsection (1) does not apply if the resolution is a designated resolution.
+    
     (2) An application for relief under subsection (1) must be made within 28 days of the passing of the resolution.
     
-    Compare: 1972 No 15 [s 43][389]
+    Compare: 1972 No 15 [s 43][408]
+    
+    Section 210(1A): inserted, on 5 December 2013, by [section 22][409] of the Unit Titles Amendment Act 2013 (2013 No 140).
 
 ##### 211 Relief in cases where special resolution required
     
 *   (1) In any case where this Act requires a special resolution and the resolution is not passed but 65% of the eligible voters have voted in favour of the resolution, any eligible voter who voted in favour of the resolution may apply to the appropriate decision-maker to have the resolution confirmed on the grounds that the effect of the failure of the resolution to be passed would be unjust or inequitable on the majority.
     
+    (1A) An application for relief under subsection (1) must be made within 28 days of the close of voting on the resolution. (However, this subclause does not apply if the close of voting was before this subsection comes into force.)
+    
     (2) The appropriate decision-maker may make an order confirming the resolution, subject to any terms and conditions it sees fit, if it is satisfied that it is just and equitable to do so. 
     
     (3) If the appropriate decision-maker confirms the resolution, the body corporate may proceed to carry out the resolution subject to any terms and conditions imposed by the appropriate decision-maker under subsection (2).
+    
+    Section 211(1A): inserted, on 5 December 2013, by [section 23][410] of the Unit Titles Amendment Act 2013 (2013 No 140).
 
 ##### 212 Designated resolutions
     
@@ -4292,9 +4384,11 @@ General provisions
     
     (4) Despite subsection (3), no person may object under that subsection in respect of an easement or covenant of a kind that will, under [section 180(2)(b) or (c)][227] or [181(2)(b)][228], continue after the cancellation of the unit plan.
     
-    (5) If a person served with a notice under subsection (1) has made an application for relief under [section 210][263] or has filed an application to have a matter relating to the resolution heard and determined under [subpart 1][215] of Part 4, he or she must, by written notice to the appropriate decision-maker, withdraw that application before giving a notice of objection under this section.
+    (5) If a person served with a notice under subsection (1) has filed an application to have a matter relating to the resolution heard and determined under [subpart 1][215] of Part 4, he or she must, by written notice to the appropriate decision-maker, withdraw that application before giving a notice of objection under this section.
     
     (6) A mortgagee or other person with a registered interest in, or caveat or notice of claim entered on the register over, all or part of a secured property is to be treated as having consented to a resolution if that mortgagee or other person does not object to the resolution or does not file an objection in time or made an objection but the appropriate decision-maker confirmed the resolution.
+    
+    Section 213(5): amended, on 5 December 2013, by [section 24][411] of the Unit Titles Amendment Act 2013 (2013 No 140).
 
 ##### 214 Requirements in relation to objections
     
@@ -4402,17 +4496,17 @@ General provisions
     
     *   (r) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
     
-    Compare: 1972 No 15 [s 55][390]
+    Compare: 1972 No 15 [s 55][412]
 
 ### Subpart 5---Repeals, transitional provisions, and consequential amendments
 
 ##### 218 Unit Titles Act 1972 repealed
     
-*   The [Unit Titles Act 1972][391] (1972 No 15) is repealed.
+*   The [Unit Titles Act 1972][413] (1972 No 15) is repealed.
 
 ##### 219 Existing unit title developments
     
-*   (1) In this subpart, an _existing unit title development_ means the stratum estates to which a particular unit plan within the meaning of the [Unit Titles Act 1972][391] relates where the unit plan---
+*   (1) In this subpart, an _existing unit title development_ means the stratum estates to which a particular unit plan within the meaning of the [Unit Titles Act 1972][413] relates where the unit plan---
         
     *   (a) was deposited before the commencement of this Act; and
     
@@ -4422,7 +4516,7 @@ General provisions
 
 ##### 220 Continuation of certain provisions of Unit Titles Act 1972
     
-*   Despite the repeal of the [Unit Titles Act 1972][391] by [section 218][273] of this Act, [section 37][392] and [Schedules 2][332] and [3][393] of that Act continue to be in force until 15 months from the first day of the month following the date of commencement of this Act in respect of an existing unit title development, unless a body corporate agrees under [section 221][276] that [sections 105][132] and [138][174] of this Act apply.
+*   Despite the repeal of the [Unit Titles Act 1972][413] by [section 218][273] of this Act, [section 37][414] and [Schedules 2][339] and [3][415] of that Act continue to be in force until 15 months from the first day of the month following the date of commencement of this Act in respect of an existing unit title development, unless a body corporate agrees under [section 221][276] that [sections 105][132] and [138][174] of this Act apply.
 
 ##### 221 Application of sections 105, 106, 116, 117, and 138 to existing unit title developments
     
@@ -4430,7 +4524,7 @@ General provisions
 
 ##### 222 Ownership interest
     
-*   Every unit entitlement assigned under [section 6][394] of the Unit Titles Act 1972 is deemed to be an ownership interest assigned under [section 38][47] of this Act.
+*   Every unit entitlement assigned under [section 6][416] of the Unit Titles Act 1972 is deemed to be an ownership interest assigned under [section 38][47] of this Act.
 
 ##### 223 Ownership of common property
     
@@ -4438,7 +4532,7 @@ General provisions
 
 ##### 224 Transitional provision for supplementary record sheets
     
-*   (1) This section applies to any supplementary record sheet set up in relation to a unit plan before the commencement of this Act in accordance with [section 20][319] of the Unit Titles Act 1972\. 
+*   (1) This section applies to any supplementary record sheet set up in relation to a unit plan before the commencement of this Act in accordance with [section 20][322] of the Unit Titles Act 1972\. 
     
     (2) The matters required to be noted on a supplementary record sheet under [section 47(a) and (b)][57] of this Act are deemed to be noted on the supplementary record sheet.
 
@@ -4448,11 +4542,11 @@ General provisions
 
 ##### 226 Transitional provision for body corporate resolutions
     
-*   A body corporate may do anything necessary to give effect to any resolution validly made under the [Unit Titles Act 1972][391].
+*   A body corporate may do anything necessary to give effect to any resolution validly made under the [Unit Titles Act 1972][413].
 
 ##### 227 Transitional provision for proceedings under former Act
     
-*   (1) Except as provided in subsection (2), any proceedings that were commenced, but not completed, before the date of commencement of this section must be continued and completed in all respects under the [Unit Titles Act 1972][391] as if this Act had not been passed.
+*   (1) Except as provided in subsection (2), any proceedings that were commenced, but not completed, before the date of commencement of this section must be continued and completed in all respects under the [Unit Titles Act 1972][413] as if this Act had not been passed.
     
     (2) If both parties agree, the proceedings may be transferred to the appropriate decision-maker.
     
@@ -4480,7 +4574,7 @@ General provisions
         
     *   (a) prevents the seller agreeing to provide any disclosure of information to a buyer; or
     
-    *   (b) limits the obligations the seller may have incurred under [section 36][395] of the Unit Titles Act 1972\.
+    *   (b) limits the obligations the seller may have incurred under [section 36][417] of the Unit Titles Act 1972\.
     
     (5) In this section, expressions defined in [section 144][185] have the meanings given to them by that section.
 
@@ -4500,7 +4594,7 @@ General provisions
         
     *   (a) an application is made to deposit a unit plan under this Act where the subdivision consent in relation to the proposed subdivision---
             
-        *   (i) was given under the [Resource Management Act 1991][300] before the date on which this Act came into force; and
+        *   (i) was given under the [Resource Management Act 1991][301] before the date on which this Act came into force; and
         
         *   (ii) as at the date on which the application is made, has not lapsed; or
         
@@ -4510,9 +4604,9 @@ General provisions
     
     (2) Despite [sections 7][8] and [32(2)(a)(ii)][40],---
         
-    *   (a) if, before the date on which this Act came into force, the chief executive of a territorial authority gave a certificate under [section 5(1)(g)][315] of the Unit Titles Act 1972 in respect of the unit plan, that certificate may be accepted by the Registrar and a certificate under [section 32(2)(a)][40] of this Act is not required; and
+    *   (a) if, before the date on which this Act came into force, the chief executive of a territorial authority gave a certificate under [section 5(1)(g)][317] of the Unit Titles Act 1972 in respect of the unit plan, that certificate may be accepted by the Registrar and a certificate under [section 32(2)(a)][40] of this Act is not required; and
     
-    *   (b) if, before the date on which this Act came into force, the chief executive of a territorial authority would have given a certificate under [section 5(1)(g)][315] of the Unit Titles Act 1972 in respect of the unit plan, an authorised officer of the territorial authority may give a certificate under [section 32(2)(a)][40] of this Act and that certificate may be accepted by the Registrar.
+    *   (b) if, before the date on which this Act came into force, the chief executive of a territorial authority would have given a certificate under [section 5(1)(g)][317] of the Unit Titles Act 1972 in respect of the unit plan, an authorised officer of the territorial authority may give a certificate under [section 32(2)(a)][40] of this Act and that certificate may be accepted by the Registrar.
     
     
 
@@ -4528,13 +4622,13 @@ General provisions
 
 ##### 232 Application of Interpretation Act 1999
     
-*   Except as provided in this subpart, nothing limits the application of the [Interpretation Act 1999][396].
+*   Except as provided in this subpart, nothing limits the application of the [Interpretation Act 1999][418].
 
 ##### 233 Consequential amendments to other enactments
     
 *   (1) The enactments specified in [Schedule 3][291] are consequentially amended in the manner indicated in that schedule.
     
-    (2) The consequential amendments to [sections 7][397], [22][398], [23][399], [24][400], and [25][401] of the Weathertight Homes Resolution Services Act 2006 set out in [Part 1][402] of Schedule 3 do not apply until [section 37][392] and [Schedules 2][332] and [3][393] of the Unit Titles Act 1972 cease to be in force in relation to a body corporate by operation of [sections 220][275] and [221][276].
+    (2) The consequential amendments to [sections 7][419], [22][420], [23][421], [24][422], and [25][423] of the Weathertight Homes Resolution Services Act 2006 set out in [Part 1][424] of Schedule 3 do not apply until [section 37][414] and [Schedules 2][339] and [3][415] of the Unit Titles Act 1972 cease to be in force in relation to a body corporate by operation of [sections 220][275] and [221][276].
 
 ---
 
@@ -4774,35 +4868,35 @@ Public Acts
 
 ##### Electricity Act 1992 (1992 No 122)
 
-Paragraph (c) of the definition of _property_ in [section 2(3)][403]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
+Paragraph (c) of the definition of _property_ in [section 2(3)][425]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
 
-Paragraph (a)(iii) of the definition of _specific agreement_ in [section 2(3)][403]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
+Paragraph (a)(iii) of the definition of _specific agreement_ in [section 2(3)][425]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
 
 ##### Fire Service Act 1975 (1975 No 42)
 
-The definition of _owner_ in [section 21B(4)][404]: omit ""section 2 of the Unit Titles Act 1972"" and substitute ""section 5(1) of the Unit Titles Act 2010"".
+The definition of _owner_ in [section 21B(4)][426]: omit ""section 2 of the Unit Titles Act 1972"" and substitute ""section 5(1) of the Unit Titles Act 2010"".
 
 ##### Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11)
 
-[Section 11(1)][405]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"". 
+[Section 11(1)][427]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"". 
 
-[Section 11(2)][405]: omit ""Unit Titles Act 1972"" in each place where it appears and substitute in each case ""Unit Titles Act 2010"".
+[Section 11(2)][427]: omit ""Unit Titles Act 1972"" in each place where it appears and substitute in each case ""Unit Titles Act 2010"".
 
-[Section 11(4)][405]: omit ""section 20 of the Unit Titles Act 1972"" in each place where it appears and substitute in each case ""section 47 of the Unit Titles Act 2010"".
+[Section 11(4)][427]: omit ""section 20 of the Unit Titles Act 1972"" in each place where it appears and substitute in each case ""section 47 of the Unit Titles Act 2010"".
 
-[Section 12(d)][406]: omit ""section 20 of the Unit Titles Act 1972"" and substitute ""section 47 of the Unit Titles Act 2010"".
+[Section 12(d)][428]: omit ""section 20 of the Unit Titles Act 1972"" and substitute ""section 47 of the Unit Titles Act 2010"".
 
-[Section 17(2)][407]: omit "", or the Unit Titles Act 1972,"".
+[Section 17(2)][429]: omit "", or the Unit Titles Act 1972,"".
 
-[Section 17(3)][407]: omit "", or the Unit Titles Act 1972,"".
+[Section 17(3)][429]: omit "", or the Unit Titles Act 1972,"".
 
-[Section 17(5)][407]: repeal.
+[Section 17(5)][429]: repeal.
 
-[Section 20(4)][408]: repeal.
+[Section 20(4)][430]: repeal.
 
 ##### Local Government Act 1974 (1974 No 66)
 
-[Section 346D(3)(b)][409]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
+[Section 346D(3)(b)][431]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
 
 ##### Ngai Tahu Claims Settlement Act 1998 (1998 No 97)
 
@@ -4814,81 +4908,81 @@ Attachment 6.4 Terms of Transfer (Clause 6.8.2) clause 7.1: omit ""Unit Titles A
 
 ##### Property Law Act 1952 (1952 No 51)
 
-Paragraph (d) of the definition of _lease_ in [section 104A(1)][410]: omit ""Part 2 of the Unit Titles Act 1972"" and substitute ""Part 3 of the Unit Titles Act 2010"".
+Paragraph (d) of the definition of _lease_ in [section 104A(1)][432]: omit ""Part 2 of the Unit Titles Act 1972"" and substitute ""Part 3 of the Unit Titles Act 2010"".
 
 ##### Property Law Act 2007 (2007 No 91)
 
-Clause 15(1) of [Part 1][411] of Schedule 2: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
+Clause 15(1) of [Part 1][433] of Schedule 2: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
 
-Clause 15(1)(a) of [Part 1][411] of Schedule 2: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
+Clause 15(1)(a) of [Part 1][433] of Schedule 2: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
 
-Clause 15(1)(b) of [Part 1][411] of Schedule 2: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
+Clause 15(1)(b) of [Part 1][433] of Schedule 2: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
 
-Clause 15(1)(c) of [Part 1][411] of Schedule 2: omit ""section 39(1)(b) of the Unit Titles Act 1972"" and substitute ""section 137(1)(b) of the Unit Titles Act 2010"".
+Clause 15(1)(c) of [Part 1][433] of Schedule 2: omit ""section 39(1)(b) of the Unit Titles Act 1972"" and substitute ""section 137(1)(b) of the Unit Titles Act 2010"".
 
-Clause 15(1)(d) of [Part 1][411] of Schedule 2: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
+Clause 15(1)(d) of [Part 1][433] of Schedule 2: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
 
-Clause 15(2)(b) of [Part 1][411] of Schedule 2: omit ""section 40 of the Unit Titles Act 1972"" and substitute ""section 141 of the Unit Titles Act 2010"".
+Clause 15(2)(b) of [Part 1][433] of Schedule 2: omit ""section 40 of the Unit Titles Act 1972"" and substitute ""section 141 of the Unit Titles Act 2010"".
 
-Clause 15(3) of [Part 1][411] of Schedule 2: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
+Clause 15(3) of [Part 1][433] of Schedule 2: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
 
-Clause 15(3) of [Part 1][411] of Schedule 2: omit ""unanimous vote"" and substitute ""special resolution"".
+Clause 15(3) of [Part 1][433] of Schedule 2: omit ""unanimous vote"" and substitute ""special resolution"".
 
 ##### Rating Valuations Act 1998 (1998 No 69)
 
-Paragraph (b) of the definition of _certificate of title_ in [section 5A][412]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
+Paragraph (b) of the definition of _certificate of title_ in [section 5A][434]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
 
 ##### Residential Tenancies Act 1986 (1986 No 120)
 
-[Section 5(q)][413]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
+[Section 5(q)][435]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
 
 ##### Resource Management Act 1991 (1991 No 69)
 
-Definition of _unit_ in [section 2(1)][414]: omit ""section 2 of the Unit Titles Act 1972; and includes a future development unit as defined in section 2 of the Unit Titles Amendment Act 1979"" and substitute ""section 5(1) of the Unit Titles Act 2010; and includes a future development unit (also defined in section 5(1) of the Unit Titles Act 2010)"".
+Definition of _unit_ in [section 2(1)][436]: omit ""section 2 of the Unit Titles Act 1972; and includes a future development unit as defined in section 2 of the Unit Titles Amendment Act 1979"" and substitute ""section 5(1) of the Unit Titles Act 2010; and includes a future development unit (also defined in section 5(1) of the Unit Titles Act 2010)"".
 
-Definition of _unit plan_ in [section 2(1)][414]: omit and substitute:
+Definition of _unit plan_ in [section 2(1)][436]: omit and substitute:
 
 > "_unit plan_ has the same meaning as in section 5(1) of the Unit Titles Act 2010".
 
-[Section 224(e)][312]: omit ""Unit Titles Act 1972 and the Unit Titles Amendment Act 1979"" and substitute ""Unit Titles Act 2010"".
+[Section 224(e)][313]: omit ""Unit Titles Act 1972 and the Unit Titles Amendment Act 1979"" and substitute ""Unit Titles Act 2010"".
 
-[Section 226(1)(c)][415]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
+[Section 226(1)(c)][437]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
 
-[Section 408(1)(a)][416]: omit ""section 5(1)(g) of the Unit Titles Act 1972 or section 5(3)(c) of the Unit Titles Amendment Act 1979"" and substitute ""section 32(2)(a) of the Unit Titles Act 2010"".
+[Section 408(1)(a)][438]: omit ""section 5(1)(g) of the Unit Titles Act 1972 or section 5(3)(c) of the Unit Titles Amendment Act 1979"" and substitute ""section 32(2)(a) of the Unit Titles Act 2010"".
 
 ##### Retirement Villages Act 2003 (2003 No 112)
 
-[Section 6(4)(a)][417]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
+[Section 6(4)(a)][439]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
 
 ##### Securities Act 1978 (1978 No 103)
 
-[Section 5(1)(b)][418]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
+[Section 5(1)(b)][440]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
 
 ##### Weathertight Homes Resolution Services Act 2006 (2006 No 84)
 
-Paragraph (c) of the definition of _representative_ in [section 8][419]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
+Paragraph (c) of the definition of _representative_ in [section 8][441]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
 
-Definition of _unit title complex_ in [section 8][419]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
+Definition of _unit title complex_ in [section 8][441]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
 
-[Section 7(7)][397]: omit ""the rules or constitution of a body corporate"" and substitute ""the Unit Titles Act 2010 or any body corporate operational rules made under that Act"".
+[Section 7(7)][419]: omit ""the rules or constitution of a body corporate"" and substitute ""the Unit Titles Act 2010 or any body corporate operational rules made under that Act"".
 
-[Section 7(8)][397]: omit.
+[Section 7(8)][419]: omit.
 
-[Section 22(3)][398]: repeal and substitute:
+[Section 22(3)][420]: repeal and substitute:
 
 > *   "(3) In the case of a unit title complex, a claim cannot be brought under section 19 or 20 unless a resolution has been passed in accordance with the Unit Titles Act 2010 authorising the body corporate to take the actions stated in subsection (4)."
 > 
 > 
 
-[Section 22(6)(c)][398]: repeal.
+[Section 22(6)(c)][420]: repeal.
 
-[Section 23(2), (3), and (4)][399]: repeal and substitute:
+[Section 23(2), (3), and (4)][421]: repeal and substitute:
 
 > *   "(2) If the representative bringing a claim under section 19 or 20 is a body corporate, every administrative decision relating to the claim must be made in accordance with the Unit Titles Act 2010 or any body corporate operational rules made under that Act."
 > 
 > 
 
-[Section 23(7)][399]: repeal and substitute:
+[Section 23(7)][421]: repeal and substitute:
 
 > *   "(7) Subsection (6) overrides anything to the contrary in---
 >         
@@ -4900,104 +4994,63 @@ Definition of _unit title complex_ in [section 8][419]: omit ""Unit Titles Act 1
 > 
 > 
 
-[Section 24(a) and (b)][400]: repeal and substitute:
+[Section 24(a) and (b)][422]: repeal and substitute:
 
 > *   "(a) any obligation of the body corporate or body corporate committee, procedural or otherwise, under any enactment other than this Act, or under any body corporate operational rules made under the Unit Titles Act 2010; or"
 > 
 > 
 
-[Section 25][401]: repeal.
+[Section 25][423]: repeal.
 
 ## Part 2  
 Local Act
 
 ##### Auckland City Council (Newmarket Land Vesting) Act 1998 (1998 No 1 (L))
 
-[Section 3(4)][420]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
+[Section 3(4)][442]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
 
-[Section 3(5)][420]: omit ""section 44 of the Unit Titles Act 1972"" and substitute ""section 68 of the Unit Titles Act 2010"".
+[Section 3(5)][442]: omit ""section 44 of the Unit Titles Act 1972"" and substitute ""section 68 of the Unit Titles Act 2010"".
 
 ## Part 3  
 Private Acts
 
 ##### Anglican Church Trusts Act 1981 (1981 No 5 (P))
 
-Clause 3 of [Schedule 2][421]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
+Clause 3 of [Schedule 2][443]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
 
-Clause 2 of [Schedule 3][422]: omit ""Unit Titles Act 1972"" in each place where it appears and substitute in each case ""Unit Titles Act 2010"".
+Clause 2 of [Schedule 3][444]: omit ""Unit Titles Act 1972"" in each place where it appears and substitute in each case ""Unit Titles Act 2010"".
 
 ##### Anglican (Diocese of Christchurch) Church Property Trust Act 2003 (2003 No 1 (P))
 
-Clause 3 of [Schedule 1][423]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
+Clause 3 of [Schedule 1][445]: omit ""Unit Titles Act 1972"" and substitute ""Unit Titles Act 2010"".
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Unit Titles Act 2010\. The reprint incorporates all the amendments to the Act as at 20 June 2011, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][424] ![](/images/external_link.gif).
+*   This is a reprint of the Unit Titles Act 2010 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][425] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][446] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][447] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][426] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][448] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][449] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][427] and [17E][428] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Unit Titles Amendment Act 2013][450] (2013 No 140)
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Unit Titles Act 2010 Commencement Order 2011][292] (SR 2011/121)
+    [Unit Titles Act 2010 Commencement Order 2011][292] (SR 2011/121)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2010/0022/latest/whole.html#DLM1160443
 [2]: http://www.legislation.govt.nz/act/public/2010/0022/latest/whole.html#DLM1160444
 [3]: http://www.legislation.govt.nz/act/public/2010/0022/latest/whole.html#DLM1160445
@@ -5296,133 +5349,155 @@ Clause 3 of [Schedule 1][423]: omit ""Unit Titles Act 1972"" and substitute ""Un
 [296]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM249941
 [297]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM1160677
 [298]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM2319245
-[299]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM220364
-[300]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM230264
-[301]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM231942
-[302]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM236786
-[303]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406037
-[304]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM250585
-[305]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406040
-[306]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM45426
-[307]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406043
-[308]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM32472
-[309]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM237213
-[310]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM32476
-[311]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM32481
-[312]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM237221
-[313]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM271699
-[314]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM142453
-[315]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406048
-[316]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406058
-[317]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406067
-[318]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM270679
-[319]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406088
-[320]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406072
-[321]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM271641
-[322]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406083
-[323]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM270477
-[324]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406066
-[325]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM270632
-[326]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM142600
-[327]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406230
-[328]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406073
-[329]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406246
-[330]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM94277
-[331]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406254
-[332]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406501
-[333]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM968961
-[334]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406225
-[335]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM32483
-[336]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406205
-[337]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406206
-[338]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406207
-[339]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406208
-[340]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406077
-[341]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM320887
-[342]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406214
-[343]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406222
-[344]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406224
-[345]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM339662
-[346]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406076
-[347]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406090
-[348]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406094
-[349]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406095
-[350]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406096
-[351]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406097
-[352]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406098
-[353]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406099
-[354]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406200
-[355]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM969472
-[356]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406201
-[357]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406202
-[358]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406203
-[359]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM95547
-[360]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM95586
-[361]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM95545
-[362]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM95578
-[363]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM95929
-[364]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM95936
-[365]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM170872
-[366]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406237
-[367]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406244
-[368]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406245
-[369]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM271047
-[370]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM320106
-[371]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM320461
-[372]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406257
-[373]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406267
-[374]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406268
-[375]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406269
-[376]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406270
-[377]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406276
-[378]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406277
-[379]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM319576
-[380]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406279
-[381]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM271033
-[382]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM353020
-[383]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406281
-[384]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM95961
-[385]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM95965
-[386]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM95978
-[387]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406247
-[388]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406251
-[389]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406229
-[390]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406255
-[391]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM405590
-[392]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406213
-[393]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406545
-[394]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406064
-[395]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406211
-[396]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM31458
-[397]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM403541
-[398]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM403950
-[399]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM403951
-[400]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM403952
-[401]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM403953
-[402]: http://www.legislation.govt.nz/act/public/2010/0022/latest/whole.html#DLM1160875
-[403]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM281866
-[404]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM433225
-[405]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM140182
-[406]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM140183
-[407]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM140189
-[408]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM140193
-[409]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM420650
-[410]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM268202
-[411]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM1409100
-[412]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM427497
-[413]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM95000
-[414]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM230272
-[415]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM237238
-[416]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM240372
-[417]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM220831
-[418]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM27289
-[419]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM403542
-[420]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM84227
-[421]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM110656
-[422]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM110675
-[423]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM121973
-[424]: http://www.pco.parliament.govt.nz/reprints/
-[425]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM195439
-[426]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[427]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM195468
-[428]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM195470
+[299]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM5265533
+[300]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM220364
+[301]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM230264
+[302]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM231942
+[303]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM236786
+[304]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406037
+[305]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM250585
+[306]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406040
+[307]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM45426
+[308]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406043
+[309]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM32472
+[310]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM237213
+[311]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM32476
+[312]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM32481
+[313]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM237221
+[314]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM5265537
+[315]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM271699
+[316]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM142453
+[317]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406048
+[318]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406058
+[319]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM5265538
+[320]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406067
+[321]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM270679
+[322]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406088
+[323]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406072
+[324]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM5265539
+[325]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM5265541
+[326]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM271641
+[327]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406083
+[328]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM270477
+[329]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406066
+[330]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM5265542
+[331]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM270632
+[332]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM142600
+[333]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406230
+[334]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406073
+[335]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406246
+[336]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM94277
+[337]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406254
+[338]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM5265543
+[339]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406501
+[340]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM5265544
+[341]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM968961
+[342]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406225
+[343]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM5265545
+[344]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM5265546
+[345]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM32483
+[346]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406205
+[347]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406206
+[348]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406207
+[349]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM5265547
+[350]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406208
+[351]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406077
+[352]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM320887
+[353]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406214
+[354]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406222
+[355]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM5265548
+[356]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406224
+[357]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM339662
+[358]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406076
+[359]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM5265549
+[360]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM5265552
+[361]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM5265553
+[362]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406090
+[363]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406094
+[364]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406095
+[365]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406096
+[366]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406097
+[367]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406098
+[368]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406099
+[369]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406200
+[370]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM969472
+[371]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406201
+[372]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM5265554
+[373]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406202
+[374]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406203
+[375]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM95547
+[376]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM5265555
+[377]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM1160729
+[378]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM5265556
+[379]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM95586
+[380]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM95545
+[381]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM95578
+[382]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM95929
+[383]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM95936
+[384]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM170872
+[385]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406237
+[386]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406244
+[387]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406245
+[388]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM271047
+[389]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM320106
+[390]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM320461
+[391]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406257
+[392]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406267
+[393]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406268
+[394]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406269
+[395]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406270
+[396]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406276
+[397]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406277
+[398]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM319576
+[399]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406279
+[400]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM271033
+[401]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM353020
+[402]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406281
+[403]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM95961
+[404]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM95965
+[405]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM95978
+[406]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406247
+[407]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406251
+[408]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406229
+[409]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM5265557
+[410]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM5265558
+[411]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM5265559
+[412]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406255
+[413]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM405590
+[414]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406213
+[415]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406545
+[416]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406064
+[417]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM406211
+[418]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM31458
+[419]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM403541
+[420]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM403950
+[421]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM403951
+[422]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM403952
+[423]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM403953
+[424]: http://www.legislation.govt.nz/act/public/2010/0022/latest/whole.html#DLM1160875
+[425]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM281866
+[426]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM433225
+[427]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM140182
+[428]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM140183
+[429]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM140189
+[430]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM140193
+[431]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM420650
+[432]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM268202
+[433]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM1409100
+[434]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM427497
+[435]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM95000
+[436]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM230272
+[437]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM237238
+[438]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM240372
+[439]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM220831
+[440]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM27289
+[441]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM403542
+[442]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM84227
+[443]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM110656
+[444]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM110675
+[445]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM121973
+[446]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM2998516
+[447]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM2998515
+[448]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM2998532
+[449]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[450]: http://www.legislation.govt.nz/act/public/2010/0022/latest/link.aspx?id=DLM5265560
