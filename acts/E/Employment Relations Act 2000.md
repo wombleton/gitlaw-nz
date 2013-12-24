@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 16 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Business, Innovation, and Employment.
 
@@ -5539,13 +5539,13 @@ Personal grievances, disputes, and enforcement
     
     *   (g) was a delegate of other employees in dealing with the employer on matters relating to the employment of those employees.
     
-    (2) An employee who is representing employees under the [Health and Safety in Employment Act 1992][569], whether as a health and safety representative (as the term is defined in that Act) or otherwise, is to be treated as if he or she were a delegate of other employees for the purposes of subsection (1)(g).
+    (2) An employee who is representing employees under the [Health and Safety in Employment Act 1992][569], whether as a health and safety representative or a site health and safety representative (as those terms are defined in that Act) or otherwise, is to be treated as if he or she were a delegate of other employees for the purposes of subsection (1)(g).
     
     Compare: 1991 No 22 s 28(2)
     
     Section 107(1)(ba): inserted, on 1 December 2004, by [section 40][570] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
     
-    Section 107(2): added, on 5 May 2003, by [section 33(2)][548] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 107(2): replaced, on 16 December 2013, by [section 26][571] of the Health and Safety in Employment Amendment Act 2013 (2013 No 96).
 
 ##### 108 Sexual harassment
     
@@ -5621,7 +5621,7 @@ Personal grievances, disputes, and enforcement
     
 *   \[Repealed\]
     
-    Section 110A: repealed, on 16 December 2008, by [section 9][571] of the Employment Relations Amendment Act 2008 (2008 No 106).
+    Section 110A: repealed, on 16 December 2008, by [section 9][572] of the Employment Relations Amendment Act 2008 (2008 No 106).
 
 ##### 111 Definitions relating to personal grievances
     
@@ -5645,11 +5645,11 @@ Personal grievances, disputes, and enforcement
     
     Compare: 1991 No 22 s 39
     
-    Section 112(2): substituted, on 1 January 2002, by [section 71(1)][572] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 112(2): substituted, on 1 January 2002, by [section 71(1)][573] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 112(3): added, on 1 December 2004, by [section 41][573] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 112(3): added, on 1 December 2004, by [section 41][574] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
     
-    Section 112(4): added, on 1 December 2004, by [section 41][573] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 112(4): added, on 1 December 2004, by [section 41][574] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 113 Personal grievance provisions only way to challenge dismissal
     
@@ -5803,9 +5803,9 @@ Personal grievances, disputes, and enforcement
     
     Compare: 1991 No 22 s 40
     
-    Section 123(1)(ca): inserted, on 1 December 2004, by [section 42(1)][574] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 123(1)(ca): inserted, on 1 December 2004, by [section 42(1)][575] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
     
-    Section 123(2): added, on 1 December 2004, by [section 42(2)][574] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 123(2): added, on 1 December 2004, by [section 42(2)][575] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 124 Remedy reduced if contributing behaviour by employee
     
@@ -5827,7 +5827,7 @@ Personal grievances, disputes, and enforcement
     
     (2) The Authority may, whether or not it provides for any of the other remedies specified in [section 123][267], provide for reinstatement if it is practicable and reasonable to do so.
     
-    Section 125: substituted, on 1 April 2011, by [section 16][575] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 125: substituted, on 1 April 2011, by [section 16][576] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 126 Provisions applying if reinstatement ordered
     
@@ -5931,7 +5931,7 @@ Personal grievances, disputes, and enforcement
     
     Compare: 1991 No 22 s 48(1)
     
-    Section 131(1A): inserted, on 1 December 2004, by [section 43][576] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 131(1A): inserted, on 1 December 2004, by [section 43][577] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 132 Failure to keep or produce records
     
@@ -5989,7 +5989,7 @@ Personal grievances, disputes, and enforcement
     
     *   (b) on the application of any party to the investigation.
     
-    Section 134A: inserted, on 1 April 2011, by [section 17][577] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 134A: inserted, on 1 April 2011, by [section 17][578] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 135 Recovery of penalties
     
@@ -6023,15 +6023,15 @@ Personal grievances, disputes, and enforcement
     
     Compare: 1991 No 22 s 53
     
-    Section 135(2)(a): amended, on 1 April 2011, by [section 18(1)][578] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 135(2)(a): amended, on 1 April 2011, by [section 18(1)][579] of the Employment Relations Amendment Act 2010 (2010 No 125).
     
-    Section 135(2)(b): amended, on 1 April 2011, by [section 18(2)][578] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 135(2)(b): amended, on 1 April 2011, by [section 18(2)][579] of the Employment Relations Amendment Act 2010 (2010 No 125).
     
-    Section 135(4A): inserted, on 1 December 2004, by [section 44(1)][579] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 135(4A): inserted, on 1 December 2004, by [section 44(1)][580] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
     
-    Section 135(4B): inserted, on 1 April 2011, by [section 18(3)][578] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 135(4B): inserted, on 1 April 2011, by [section 18(3)][579] of the Employment Relations Amendment Act 2010 (2010 No 125).
     
-    Section 135(5): substituted, on 1 December 2004, by [section 44(2)][579] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 135(5): substituted, on 1 December 2004, by [section 44(2)][580] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 136 Application of penalties recovered
     
@@ -6041,7 +6041,7 @@ Personal grievances, disputes, and enforcement
     
     Compare: 1991 No 22 s 54
     
-    Section 136(1): amended, on 25 January 2005, pursuant to [section 65R(3)][580] of the Public Finance Act 1989 (1989 No 44).
+    Section 136(1): amended, on 25 January 2005, pursuant to [section 65R(3)][581] of the Public Finance Act 1989 (1989 No 44).
 
 #### Compliance orders
 
@@ -6063,19 +6063,19 @@ Personal grievances, disputes, and enforcement
         
         *   (iv) a demand notice that [section 225(4)][412] provides may be enforced by compliance order; or
         
-        *   (v) [sections 56][581], [58][582], [77A][583], and [77D][584] of the State Sector Act 1988; or
+        *   (v) [sections 56][582], [58][583], [77A][584], and [77D][585] of the State Sector Act 1988; or
         
-        *   (vi) [Parts 6][585] and [7][586] of the State Sector Act 1988; or
+        *   (vi) [Parts 6][586] and [7][587] of the State Sector Act 1988; or
         
         *   (vii) section 11(3)(c) of the Health and Disability Services Act 1993; or
         
-        *   (viii) [clauses 5][587] and [6][588] of Schedule 1 of the Broadcasting Act 1989; or
+        *   (viii) [clauses 5][588] and [6][589] of Schedule 1 of the Broadcasting Act 1989; or
         
-        *   (ix) [sections 83][589], [83A][590], and [83B][591] of the Fire Service Act 1975; or
+        *   (ix) [sections 83][590], [83A][591], and [83B][592] of the Fire Service Act 1975; or
         
-        *   (x) [clauses 18][592], [19][593], and [21][594] of Schedule 5 of the Accident Compensation Act 2001; or
+        *   (x) [clauses 18][593], [19][594], and [21][595] of Schedule 5 of the Accident Compensation Act 2001; or
         
-        *   (xi) [Part 2A][595] (other than [section 19G][596]) and [Schedule 1A][597] of the Health and Safety in Employment Act 1992; or
+        *   (xi) [Part 2A][596] (other than [section 19G][597]) and [Schedule 1A][598] of the Health and Safety in Employment Act 1992; or
         
         
     
@@ -6089,17 +6089,17 @@ Personal grievances, disputes, and enforcement
         
     *   (a) any person (being an employee, employer, union, or employer organisation) who alleges that that person has been affected by non-observance or non-compliance of the kind described in subsection (1):
     
-    *   (b) a health and safety inspector appointed under [section 29][598] of the Health and Safety in Employment Act 1992 who alleges that there has been non-observance or non-compliance of the kind described in subsection (1)(a)(xi).
+    *   (b) a health and safety inspector appointed under [section 29][599] of the Health and Safety in Employment Act 1992 who alleges that there has been non-observance or non-compliance of the kind described in subsection (1)(a)(xi).
     
     Compare: 1991 No 22 s 55(1), (2)
     
-    Section 137(1)(a)(ii): substituted, on 13 December 2006, by [section 8][599] of the Employment Relations Amendment Act 2006 (2006 No 41).
+    Section 137(1)(a)(ii): substituted, on 13 December 2006, by [section 8][600] of the Employment Relations Amendment Act 2006 (2006 No 41).
     
-    Section 137(1)(a)(ii): amended, on 1 April 2009, by [section 9][600] of the Employment Relations (Breaks, Infant Feeding, and Other Matters) Amendment Act 2008 (2008 No 58).
+    Section 137(1)(a)(ii): amended, on 1 April 2009, by [section 9][601] of the Employment Relations (Breaks, Infant Feeding, and Other Matters) Amendment Act 2008 (2008 No 58).
     
-    Section 137(1)(a)(iiia): inserted, on 1 April 2011, by [section 19][601] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 137(1)(a)(iiia): inserted, on 1 April 2011, by [section 19][602] of the Employment Relations Amendment Act 2010 (2010 No 125).
     
-    Section 137(1)(a)(iiib): inserted, on 1 April 2011, by [section 19][601] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 137(1)(a)(iiib): inserted, on 1 April 2011, by [section 19][602] of the Employment Relations Amendment Act 2010 (2010 No 125).
     
     Section 137(1)(a)(x): substituted, on 1 April 2002, by [section 337(1)][528] of the Accident Compensation Act 2001 (2001 No 49).
     
@@ -6107,7 +6107,7 @@ Personal grievances, disputes, and enforcement
     
     Section 137(1)(a)(xi): added, on 5 May 2003, by [section 33(3)][548] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 137(1)(a)(xi): amended, on 1 December 2004, by [section 45][602] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 137(1)(a)(xi): amended, on 1 December 2004, by [section 45][603] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
     
     Section 137(4): substituted, on 5 May 2003, by [section 33(4)][548] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
@@ -6147,11 +6147,11 @@ Personal grievances, disputes, and enforcement
     
     Section 138(1)(b): substituted, on 5 May 2003, by [section 33(5)][548] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 138(1)(b)(ii): amended, on 1 April 2011, by [section 20][603] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 138(1)(b)(ii): amended, on 1 April 2011, by [section 20][604] of the Employment Relations Amendment Act 2010 (2010 No 125).
     
-    Section 138(1)(b)(iii): added, on 1 April 2011, by [section 20][603] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 138(1)(b)(iii): added, on 1 April 2011, by [section 20][604] of the Employment Relations Amendment Act 2010 (2010 No 125).
     
-    Section 138(4A): inserted, on 1 December 2004, by [section 46][604] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 138(4A): inserted, on 1 December 2004, by [section 46][605] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 139 Power of court to order compliance
     
@@ -6241,7 +6241,7 @@ Personal grievances, disputes, and enforcement
     
     (8) For the purposes of [section 161(1)][321], any non-observance of or non-compliance with or proposed non-observance of or non-compliance with [section 69OC][150], [69OD][151], or [69OE][152] or failure to comply with a compliance order under subsection (2) is to be treated as if it were an employment relationship problem.
     
-    Section 140A: inserted, on 13 December 2006, by [section 9][605] of the Employment Relations Amendment Act 2006 (2006 No 41).
+    Section 140A: inserted, on 13 December 2006, by [section 9][606] of the Employment Relations Amendment Act 2006 (2006 No 41).
 
 #### Enforcement of order
 
@@ -6282,9 +6282,9 @@ Institutions
     
     *   (g) recognise that difficult issues of law will need to be determined by higher courts.
     
-    Section 143(da): inserted, on 1 December 2004, by [section 47(1)][606] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 143(da): inserted, on 1 December 2004, by [section 47(1)][607] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
     
-    Section 143(fa): inserted, on 1 December 2004, by [section 47(2)][606] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 143(fa): inserted, on 1 December 2004, by [section 47(2)][607] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 #### Mediation services
 
@@ -6312,7 +6312,7 @@ Institutions
     
     (2) Services provided in accordance with this section proceed on the basis specified in writing by the chief executive.
     
-    Section 144A: inserted, on 1 December 2004, by [section 48][607] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 144A: inserted, on 1 December 2004, by [section 48][608] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 145 Provision of mediation services
     
@@ -6346,7 +6346,7 @@ Institutions
     
     (4) Subsections (2) and (3) do not limit subsection (1).
     
-    Section 145(1): substituted, on 1 December 2004, by [section 49][608] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 145(1): substituted, on 1 December 2004, by [section 49][609] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 146 Access to mediation services
     
@@ -6392,11 +6392,11 @@ Institutions
         
         
     
-    Section 147(2)(ab): inserted, on 1 December 2004, by [section 50(1)][609] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 147(2)(ab): inserted, on 1 December 2004, by [section 50(1)][610] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
     
-    Section 147(2)(ac): inserted, on 1 April 2011, by [section 21][610] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 147(2)(ac): inserted, on 1 April 2011, by [section 21][611] of the Employment Relations Amendment Act 2010 (2010 No 125).
     
-    Section 147(3): added, on 1 December 2004, by [section 50(2)][609] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 147(3): added, on 1 December 2004, by [section 50(2)][610] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 148 Confidentiality
     
@@ -6446,7 +6446,7 @@ Institutions
     
     (2) Despite subsection (1), a person who is employed or engaged by the chief executive to provide mediation services and who holds a general authority to sign agreed terms of settlement under [section 149(1)][305] must not sign agreed terms of settlement in which a party agrees to forgo all, or part, of the party's minimum entitlements.
     
-    Section 148A: inserted, on 1 April 2011, by [section 22][611] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 148A: inserted, on 1 April 2011, by [section 22][612] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 149 Settlements
     
@@ -6468,7 +6468,7 @@ Institutions
         
     *   (a) those terms are final and binding on, and enforceable by, the parties; and
     
-    *   (ab) the terms may not be cancelled under [section 7][612] of the Contractual Remedies Act 1979; and
+    *   (ab) the terms may not be cancelled under [section 7][613] of the Contractual Remedies Act 1979; and
     
     *   (b) except for enforcement purposes, no party may seek to bring those terms before the Authority or the court, whether by action, appeal, application for review, or otherwise.
     
@@ -6476,11 +6476,11 @@ Institutions
     
     (4) A person who breaches an agreed term of settlement to which subsection (3) applies is liable to a penalty imposed by the Authority.
     
-    Section 149(3)(ab): inserted, on 1 December 2004, by [section 51(1)][613] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 149(3)(ab): inserted, on 1 December 2004, by [section 51(1)][614] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
     
-    Section 149(3A): inserted, on 1 April 2011, by [section 23][614] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 149(3A): inserted, on 1 April 2011, by [section 23][615] of the Employment Relations Amendment Act 2010 (2010 No 125).
     
-    Section 149(4): added, on 1 December 2004, by [section 51(2)][613] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 149(4): added, on 1 December 2004, by [section 51(2)][614] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 149A Recommendation to parties
     
@@ -6510,7 +6510,7 @@ Institutions
     
     *   (b) a party may not seek to bring that recommendation before the Authority or the court, whether by action, appeal, application for review, or otherwise, except for enforcement purposes.
     
-    Section 149A: inserted, on 1 April 2011, by [section 24][615] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 149A: inserted, on 1 April 2011, by [section 24][616] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 150 Decision by authority of parties
     
@@ -6530,7 +6530,7 @@ Institutions
     
     (4) A person who breaches a term of a decision to which subsection (3) applies is liable to a penalty imposed by the Authority.
     
-    Section 150(4): added, on 1 December 2004, by [section 52][616] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 150(4): added, on 1 December 2004, by [section 52][617] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 150A Payment on resolution of problem
     
@@ -6540,11 +6540,11 @@ Institutions
     
     (3) Subsection (1) does not---
         
-    *   (a) apply if the party to whom the payment is required to be made is receiving or has received legal aid under the [Legal Services Act 2000][617] for any matter related to the employment relationship problem giving rise to the mediation; or
+    *   (a) apply if the party to whom the payment is required to be made is receiving or has received legal aid under the [Legal Services Act 2000][618] for any matter related to the employment relationship problem giving rise to the mediation; or
     
     *   (b) prevent a payment being made to the other party's solicitor.
     
-    Section 150A: inserted, on 1 December 2004, by [section 53][618] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 150A: inserted, on 1 December 2004, by [section 53][619] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 151 Enforcement of terms of settlement agreed or authorised
     
@@ -6568,7 +6568,7 @@ Institutions
         
         
     
-    Section 151: substituted, on 1 April 2011, by [section 25][619] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 151: substituted, on 1 April 2011, by [section 25][620] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 152 Mediation services not to be questioned as being inappropriate
     
@@ -6628,7 +6628,7 @@ Institutions
     
     (2) If the parties to an employment agreement purport to submit an employment relationship problem to arbitration,---
         
-    *   (a) nothing in the [Arbitration Act 1996][620] applies in respect of that submission; and
+    *   (a) nothing in the [Arbitration Act 1996][621] applies in respect of that submission; and
     
     *   (b) the parties must determine the procedure for the arbitration.
     
@@ -6670,9 +6670,9 @@ Institutions
     
     *   (c) the relevant employment agreement.
     
-    Section 157(2A): repealed, on 1 April 2011, by [section 26][621] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 157(2A): repealed, on 1 April 2011, by [section 26][622] of the Employment Relations Amendment Act 2010 (2010 No 125).
     
-    Section 157(3): substituted, on 1 April 2011, by [section 26][621] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 157(3): substituted, on 1 April 2011, by [section 26][622] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 158 Lodging of applications
     
@@ -6702,11 +6702,11 @@ Institutions
     
     (2) Where the Authority gives a direction under subsection (1)(b) or subsection (1)(c), the parties must comply with the direction and attempt in good faith to reach an agreed settlement of their differences, and proceedings in relation to the request before the Authority are suspended until the parties have done so or the Authority otherwise directs (whichever first occurs).
     
-    Section 159(1)(b)(iii): amended, on 1 April 2011, by [section 27(1)][622] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 159(1)(b)(iii): amended, on 1 April 2011, by [section 27(1)][623] of the Employment Relations Amendment Act 2010 (2010 No 125).
     
-    Section 159(1)(b)(iv): added, on 1 April 2011, by [section 27(1)][622] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 159(1)(b)(iv): added, on 1 April 2011, by [section 27(1)][623] of the Employment Relations Amendment Act 2010 (2010 No 125).
     
-    Section 159(1A): inserted, on 1 April 2011, by [section 27(2)][622] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 159(1A): inserted, on 1 April 2011, by [section 27(2)][623] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 159A Duty of Authority to prioritise previously mediated matters
     
@@ -6714,7 +6714,7 @@ Institutions
     
     (2) The Authority must give priority to investigating and determining the matter referred to in subsection (1) over any other matters in which mediation has not been used unless the Authority considers that providing mediation services would be inappropriate having regard to [section 159(1)][318] or (1A).
     
-    Section 159A: inserted, on 1 April 2011, by [section 28][623] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 159A: inserted, on 1 April 2011, by [section 28][624] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 160 Powers of Authority
     
@@ -6740,11 +6740,11 @@ Institutions
     
     (4) The Authority may not make a freezing order or search order as provided for in the High Court Rules.
     
-    Section 160(1)(c): amended, on 1 December 2004, by [section 54][624] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 160(1)(c): amended, on 1 December 2004, by [section 54][625] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
     
-    Section 160(2A): inserted, on 1 April 2011, by [section 29(1)][625] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 160(2A): inserted, on 1 April 2011, by [section 29(1)][626] of the Employment Relations Amendment Act 2010 (2010 No 125).
     
-    Section 160(4): added, on 1 April 2011, by [section 29(2)][625] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 160(4): added, on 1 April 2011, by [section 29(2)][626] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 161 Jurisdiction
     
@@ -6788,11 +6788,11 @@ Institutions
         
         *   (ii) under this Act for a breach of any provision of this Act (being a provision that provides for the penalty to be recovered in the Authority):
         
-        *   (iii) under [section 76][626] of the Holidays Act 2003:
+        *   (iii) under [section 76][627] of the Holidays Act 2003:
         
-        *   (iv) under [section 10][627] of the Minimum Wage Act 1983:
+        *   (iv) under [section 10][628] of the Minimum Wage Act 1983:
         
-        *   (v) under [section 13][628] of the Wages Protection Act 1983:
+        *   (v) under [section 13][629] of the Wages Protection Act 1983:
         
         
     
@@ -6818,37 +6818,37 @@ Institutions
     
     Compare: 1991 No 22 s 79(1)(b)--(g), (j)
     
-    Section 161(1)(ca): inserted, on 1 December 2004, by [section 55(1)][629] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 161(1)(ca): inserted, on 1 December 2004, by [section 55(1)][630] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
     
-    Section 161(1)(cb): inserted, on 1 December 2004, by [section 55(1)][629] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 161(1)(cb): inserted, on 1 December 2004, by [section 55(1)][630] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
     
-    Section 161(1)(cc): inserted, on 1 July 2008, by [section 6][630] of the Employment Relations (Flexible Working Arrangements) Amendment Act 2007 (2007 No 105).
+    Section 161(1)(cc): inserted, on 1 July 2008, by [section 6][631] of the Employment Relations (Flexible Working Arrangements) Amendment Act 2007 (2007 No 105).
     
-    Section 161(1)(da): inserted, on 1 December 2004, by [section 55(2)][629] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 161(1)(da): inserted, on 1 December 2004, by [section 55(2)][630] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
     
-    Section 161(1)(da): amended, on 14 September 2006, by [section 10][631] of the Employment Relations Amendment Act 2006 (2006 No 41).
+    Section 161(1)(da): amended, on 14 September 2006, by [section 10][632] of the Employment Relations Amendment Act 2006 (2006 No 41).
     
     Section 161(1)(m)(iii): amended, on 1 April 2004, by [section 91(2)][501] of the Holidays Act 2003 (2003 No 129).
     
-    Section 161(2): amended, on 1 December 2004, by [section 55(3)][629] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 161(2): amended, on 1 December 2004, by [section 55(3)][630] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 162 Application of law relating to contracts
     
 *   Subject to [sections 163][323] and [164][324], the Authority may, in any matter related to an employment agreement, make any order that the High Court or a District Court may make under any enactment or rule of law relating to contracts, including---
         
-    *   (a) the [Contracts (Privity) Act 1982][632]:
+    *   (a) the [Contracts (Privity) Act 1982][633]:
     
-    *   (b) the [Contractual Mistakes Act 1977][633]:
+    *   (b) the [Contractual Mistakes Act 1977][634]:
     
-    *   (c) the [Contractual Remedies Act 1979][634]:
+    *   (c) the [Contractual Remedies Act 1979][635]:
     
-    *   (d) the [Fair Trading Act 1986][635]:
+    *   (d) the [Fair Trading Act 1986][636]:
     
-    *   (e) the [Frustrated Contracts Act 1944][636]:
+    *   (e) the [Frustrated Contracts Act 1944][637]:
     
     *   (f) the [Illegal Contracts Act 1970][519]:
     
-    *   (g) the [Minors' Contracts Act 1969][637].
+    *   (g) the [Minors' Contracts Act 1969][638].
     
     Compare: 1991 No 22 s 104(1)(h)
 
@@ -6896,7 +6896,7 @@ Institutions
     
     Compare: 1991 No 22 s 81(1), (2)
     
-    Section 166(3): repealed, on 1 April 2011, by [section 30][638] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 166(3): repealed, on 1 April 2011, by [section 30][639] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 166A Role of Chief of Authority
     
@@ -6920,7 +6920,7 @@ Institutions
     
     (3) For the purposes of [section 169(3)][330], the Chief of the Authority may provide a report to the Minister in respect of any member of the Authority in regard to the member's adherence to and compliance with any instructions issued under subsection (2)(a).
     
-    Section 166A: inserted, on 1 April 2011, by [section 31][639] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 166A: inserted, on 1 April 2011, by [section 31][640] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 167 Appointment of members
     
@@ -6944,19 +6944,19 @@ Institutions
     
     Compare: 1991 No 22 s 83
     
-    Section 169(3): added, on 1 April 2011, by [section 32][640] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 169(3): added, on 1 April 2011, by [section 32][641] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 170 Vacation of office
     
 *   (1) A member of the Authority may at any time be removed from office by the Governor-General for incapacity affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
     
-    (2) A member of the Authority is deemed to have vacated his or her office if he or she is, under the [Insolvency Act 2006][641], adjudged bankrupt.
+    (2) A member of the Authority is deemed to have vacated his or her office if he or she is, under the [Insolvency Act 2006][642], adjudged bankrupt.
     
     (3) A member of the Authority may at any time resign his or her office by giving notice in writing to that effect to the Minister.
     
     Compare: 1991 No 22 s 84
     
-    Section 170(2): amended, on 3 December 2007, by [section 445][642] of the Insolvency Act 2006 (2006 No 55).
+    Section 170(2): amended, on 3 December 2007, by [section 445][643] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 171 Salaries and allowances
     
@@ -6966,7 +6966,7 @@ Institutions
     
     *   (b) subject to subsection (2), such allowances as are from time to time determined by the Remuneration Authority.
     
-    (2) There is to be paid to each member of the Authority, in respect of time spent travelling in the exercise of the Authority's functions, travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][643]; and the provisions of that Act apply accordingly as if the member were a member of a statutory board and the travelling were in the service of a statutory board.
+    (2) There is to be paid to each member of the Authority, in respect of time spent travelling in the exercise of the Authority's functions, travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][644]; and the provisions of that Act apply accordingly as if the member were a member of a statutory board and the travelling were in the service of a statutory board.
     
     (3) In the case of the Chief of the Authority, the rate of salary and the allowances determined may be higher than those for the other members of the Authority.
     
@@ -6974,9 +6974,9 @@ Institutions
     
     Compare: 1991 No 22 s 86(1)--(3)
     
-    Section 171(1)(a): amended, on 1 April 2003, by [section 4(1)][644] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+    Section 171(1)(a): amended, on 1 April 2003, by [section 4(1)][645] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
-    Section 171(1)(b): amended, on 1 April 2003, by [section 4(1)][644] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+    Section 171(1)(b): amended, on 1 April 2003, by [section 4(1)][645] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
 
 ##### 172 Temporary appointments
     
@@ -7016,7 +7016,7 @@ Institutions
     
     (6) Meetings of the Authority may be adjourned from time to time and from place to place by a member of the Authority or an officer of the Authority designated for the purpose by the chief executive, whether at any meeting or at any time before the time fixed for the meeting.
     
-    Section 173: substituted, on 1 April 2011, by [section 33][645] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 173: substituted, on 1 April 2011, by [section 33][646] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 173A Recommendation to parties
     
@@ -7044,7 +7044,7 @@ Institutions
     
     (6) However, a recommendation under subsection (5) need not comply with [section 174(a)][336] (which relates to the content of a determination made by the Authority).
     
-    Section 173A: inserted, on 1 April 2011, by [section 33][645] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 173A: inserted, on 1 April 2011, by [section 33][646] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 174 Determinations
     
@@ -7084,13 +7084,13 @@ Institutions
 
 ##### 176 Protection of members of Authority, etc
     
-*   (1) A member of the Authority, in the performance of his or her duties under this Act, has and enjoys the same protection as a Justice of the Peace acting in his or her criminal jurisdiction has and enjoys under [sections 4B to 4F][646] of the Justices of the Peace Act 1957\.
+*   (1) A member of the Authority, in the performance of his or her duties under this Act, has and enjoys the same protection as a Justice of the Peace acting in his or her criminal jurisdiction has and enjoys under [sections 4B to 4F][647] of the Justices of the Peace Act 1957\.
     
     (2) For the avoidance of doubt as to the privileges and immunities of members of the Authority and of parties, representatives, and witnesses in the proceedings of the Authority, it is declared that such proceedings are judicial proceedings.
     
     Compare: 1991 No 22 s 92
     
-    Section 176(1): amended, on 1 July 2013, by [section 413][647] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 176(1): amended, on 1 July 2013, by [section 413][648] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 177 Referral of question of law
     
@@ -7112,7 +7112,7 @@ Institutions
     
     Compare: 1991 No 22 s 93
     
-    Section 177(4): added, on 1 December 2004, by [section 57][648] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 177(4): added, on 1 December 2004, by [section 57][649] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 178 Removal to court
     
@@ -7142,15 +7142,15 @@ Institutions
     
     Compare: 1991 No 22 s 94
     
-    Section 178(1): substituted, on 1 April 2011, by [section 34(1)][649] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 178(1): substituted, on 1 April 2011, by [section 34(1)][650] of the Employment Relations Amendment Act 2010 (2010 No 125).
     
-    Section 178(3): amended, on 1 April 2011, by [section 34(2)][649] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 178(3): amended, on 1 April 2011, by [section 34(2)][650] of the Employment Relations Amendment Act 2010 (2010 No 125).
     
-    Section 178(6): added, on 1 December 2004, by [section 58][650] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 178(6): added, on 1 December 2004, by [section 58][651] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 178A Challenge in respect of dismissal of frivolous or vexatious proceedings
     
-*   (1) A party to a matter before the Authority that was dismissed because the Authority determined it was frivolous or vexatious under [clause 12A][651] of Schedule 2 may challenge that determination in the court.
+*   (1) A party to a matter before the Authority that was dismissed because the Authority determined it was frivolous or vexatious under [clause 12A][652] of Schedule 2 may challenge that determination in the court.
     
     (2) A challenge under this section must be made in the prescribed manner within 28 days after the date that the matter is dismissed by the Authority.
     
@@ -7158,7 +7158,7 @@ Institutions
     
     (4) If the court does not determine that the matter is frivolous or vexatious, it must order the Authority to investigate and determine the matter.
     
-    Section 178A: inserted, on 1 April 2011, by [section 35][652] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 178A: inserted, on 1 April 2011, by [section 35][653] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 179 Challenges to determinations of Authority
     
@@ -7190,7 +7190,7 @@ Institutions
     
     Compare: 1991 No 22 s 95(1), (2)
     
-    Section 179(5): added, on 1 December 2004, by [section 59][653] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 179(5): added, on 1 December 2004, by [section 59][654] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 179A Limitation on challenges to certain determinations of Authority
     
@@ -7202,7 +7202,7 @@ Institutions
     
     (2) A party may not elect, under [section 179(1)][342], to have the matter heard by the court unless the matter is whether 1 or more of the grounds in [section 50C(1)][72] or [section 50J(3)][80] exist.
     
-    Section 179A: inserted, on 1 December 2004, by [section 60][654] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 179A: inserted, on 1 December 2004, by [section 60][655] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 179B Limitations on consideration by Employment Court of matters arising under Part 6AA
     
@@ -7214,7 +7214,7 @@ Institutions
     
     (4) No party who is dissatisfied with a determination, or any part of a determination, of the Authority under [Part 6AA][112] may elect, under [section 179][342], to have the matter heard by the court.
     
-    Section 179B: inserted, on 1 July 2008, by [section 7][655] of the Employment Relations (Flexible Working Arrangements) Amendment Act 2007 (2007 No 105).
+    Section 179B: inserted, on 1 July 2008, by [section 7][656] of the Employment Relations (Flexible Working Arrangements) Amendment Act 2007 (2007 No 105).
 
 ##### 180 Election not to operate as stay
     
@@ -7270,9 +7270,9 @@ Institutions
     
     Compare: 1991 No 22 s 95(4)--(7)
     
-    Section 183(2): added, on 1 December 2004, by [section 61][656] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 183(2): added, on 1 December 2004, by [section 61][657] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
     
-    Section 183(3): added, on 1 December 2004, by [section 61][656] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 183(3): added, on 1 December 2004, by [section 61][657] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 184 Restriction on review
     
@@ -7294,7 +7294,7 @@ Institutions
     
     *   (c) the Authority acts in bad faith.
     
-    Section 184(1A): inserted, on 1 December 2004, by [section 62][657] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 184(1A): inserted, on 1 December 2004, by [section 62][658] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 185 Staff of Authority
     
@@ -7394,7 +7394,7 @@ Institutions
         
         
     
-    Section 188(4): substituted, on 1 December 2004, by [section 63][658] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 188(4): substituted, on 1 December 2004, by [section 63][659] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 189 Equity and good conscience
     
@@ -7418,7 +7418,7 @@ Institutions
     
     (3) In addition to the powers described in subsection (1), the court has the same powers of the High Court to make a freezing order and a search order as provided for in the High Court Rules.
     
-    Section 190(3): added, on 1 April 2011, by [section 36][659] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 190(3): added, on 1 April 2011, by [section 36][660] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 191 Other provisions relating to proceedings of court
     
@@ -7462,7 +7462,7 @@ Institutions
 
 ##### 194 Application for review
     
-*   (1) If any person wishes to apply for review under [Part 1][660] of the Judicature Amendment Act 1972, or bring proceedings seeking a writ or order of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction, in relation to the exercise, refusal to exercise, or proposed or purported exercise by---
+*   (1) If any person wishes to apply for review under [Part 1][661] of the Judicature Amendment Act 1972, or bring proceedings seeking a writ or order of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction, in relation to the exercise, refusal to exercise, or proposed or purported exercise by---
         
     *   (a) the Authority; or
     
@@ -7480,17 +7480,17 @@ Institutions
     
     *   (h) any other person---
     
-    of a statutory power or statutory power of decision (as defined by [section 3][661] of the Judicature Amendment Act 1972) conferred by or under this Act or any of the provisions of [Parts 5][662], [6][585], [7][586], or [7A][663] of the State Sector Act 1988, the provisions of subsections (2) to (4) of this section apply.
+    of a statutory power or statutory power of decision (as defined by [section 3][662] of the Judicature Amendment Act 1972) conferred by or under this Act or any of the provisions of [Parts 5][663], [6][586], [7][587], or [7A][664] of the State Sector Act 1988, the provisions of subsections (2) to (4) of this section apply.
     
     (2) Despite any other Act or rule of law, but subject to [section 184(1A)][349], the court has full and exclusive jurisdiction to hear and determine any application or proceedings of the type referred to in subsection (1) and all such applications or proceedings must be made to or brought in the court.
     
-    (3) Where a right of appeal (which includes, for the purposes of this subsection, the right to make an election under [section 179][342]) is conferred on any person under this Act or the [State Sector Act 1988][664] in respect of any matter, that person may not make an application under subsection (1) in respect of that matter unless any appeal brought by that person in the exercise of that right of appeal has first been determined.
+    (3) Where a right of appeal (which includes, for the purposes of this subsection, the right to make an election under [section 179][342]) is conferred on any person under this Act or the [State Sector Act 1988][665] in respect of any matter, that person may not make an application under subsection (1) in respect of that matter unless any appeal brought by that person in the exercise of that right of appeal has first been determined.
     
     (4) A Judge may at any time and after hearing such persons, if any, as the Judge thinks fit, give such directions prescribing the procedure to be followed in any particular case under this section as the Judge deems expedient having regard to the exigencies of the case and the interests of justice.
     
     Compare: 1991 No 22 s 105
     
-    Section 194(2): amended, on 1 December 2004, by [section 64][665] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 194(2): amended, on 1 December 2004, by [section 64][666] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 194A Application for review by certain employees
     
@@ -7502,7 +7502,7 @@ Institutions
     
     *   (b) may not bring an application for review in relation to the problem in the court or the High Court.
     
-    Section 194A: inserted, on 1 December 2004, by [section 65][666] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 194A: inserted, on 1 December 2004, by [section 65][667] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 195 Non-attendance or refusal to co-operate
     
@@ -7512,7 +7512,7 @@ Institutions
     
     *   (b) refuses, without sufficient cause, to be sworn or to give evidence or, having been sworn, refuses to answer any question that the person is lawfully required by the Authority or the court to answer concerning the proceedings.
     
-    (2) No person summoned under this Act as a witness is liable to a fine under this Act unless there has been paid or tendered to that person in accordance with [clause 6][667] of Schedule 2 the amount fixed under subclause (3) of that clause or in accordance with [clause 7][668] of Schedule 3 the amount fixed under subclause (3) of that clause.
+    (2) No person summoned under this Act as a witness is liable to a fine under this Act unless there has been paid or tendered to that person in accordance with [clause 6][668] of Schedule 2 the amount fixed under subclause (3) of that clause or in accordance with [clause 7][669] of Schedule 3 the amount fixed under subclause (3) of that clause.
     
     Compare: 1991 No 22 s 127
 
@@ -7534,7 +7534,7 @@ Institutions
     
     Compare: 1991 No 22 s 107
     
-    Section 196(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][669] of the Policing Act 2008 (2008 No 72).
+    Section 196(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][670] of the Policing Act 2008 (2008 No 72).
 
 ##### 197 Constitution of court
     
@@ -7574,7 +7574,7 @@ Institutions
     
     Compare: 1991 No 22 s 113(1), (2), (8)
     
-    Section 200(4): added, on 20 May 2004, by [section 3][670] of the Employment Relations Amendment Act 2004 (2004 No 43).
+    Section 200(4): added, on 20 May 2004, by [section 3][671] of the Employment Relations Amendment Act 2004 (2004 No 43).
 
 ##### 200A Judges act on full-time basis but may be authorised to act part-time
     
@@ -7602,7 +7602,7 @@ Institutions
     
     *   (b) a Judge who is acting on a part-time basis counts as an appropriate fraction of 1\.
     
-    Section 200A: inserted, on 20 May 2004, by [section 4][671] of the Employment Relations Amendment Act 2004 (2004 No 43).
+    Section 200A: inserted, on 20 May 2004, by [section 4][672] of the Employment Relations Amendment Act 2004 (2004 No 43).
 
 ##### 201 Seniority
     
@@ -7636,7 +7636,7 @@ Institutions
     
     *   (b) the Judge's incapacity to discharge the functions of the Judge's office.
     
-    Compare: 1986 No 114 [s 23][672]; 1991 No 22 s 113(3), (4)
+    Compare: 1986 No 114 [s 23][673]; 1991 No 22 s 113(3), (4)
 
 ##### 205 Age of retirement
     
@@ -7644,7 +7644,7 @@ Institutions
     
     Compare: 1991 No 22 s 113(6)
     
-    Section 205: amended, on 6 March 2007, by [section 4][673] of the Employment Relations Amendment Act 2007 (2007 No 2).
+    Section 205: amended, on 6 March 2007, by [section 4][674] of the Employment Relations Amendment Act 2007 (2007 No 2).
 
 ##### 206 Salaries and allowances of Judges
     
@@ -7670,13 +7670,13 @@ Institutions
     
     Compare: 1991 No 22 s 115
     
-    Section 206(1)(a): amended, on 1 April 2003, by [section 4(1)][644] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+    Section 206(1)(a): amended, on 1 April 2003, by [section 4(1)][645] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
-    Section 206(1)(b): amended, on 1 April 2003, by [section 4(1)][644] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+    Section 206(1)(b): amended, on 1 April 2003, by [section 4(1)][645] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
-    Section 206(3A): inserted, on 20 May 2004, by [section 5][674] of the Employment Relations Amendment Act 2004 (2004 No 43).
+    Section 206(3A): inserted, on 20 May 2004, by [section 5][675] of the Employment Relations Amendment Act 2004 (2004 No 43).
     
-    Section 206(3B): inserted, on 20 May 2004, by [section 5][674] of the Employment Relations Amendment Act 2004 (2004 No 43).
+    Section 206(3B): inserted, on 20 May 2004, by [section 5][675] of the Employment Relations Amendment Act 2004 (2004 No 43).
 
 ##### 207 Appointment of temporary Judges
     
@@ -7696,15 +7696,15 @@ Institutions
     
     *   (b) the allowances to which the Judge would be entitled if the Judge were appointed under [section 200][368].
     
-    (7) Nothing in the [Remuneration Authority Act 1977][675] limits the provisions of subsection (6).
+    (7) Nothing in the [Remuneration Authority Act 1977][676] limits the provisions of subsection (6).
     
     Compare: 1991 No 22 s 116
     
-    Section 207(2): amended, on 6 March 2007, by [section 5(1)][676] of the Employment Relations Amendment Act 2007 (2007 No 2).
+    Section 207(2): amended, on 6 March 2007, by [section 5(1)][677] of the Employment Relations Amendment Act 2007 (2007 No 2).
     
-    Section 207(4): amended, on 6 March 2007, by [section 5(2)][676] of the Employment Relations Amendment Act 2007 (2007 No 2).
+    Section 207(4): amended, on 6 March 2007, by [section 5(2)][677] of the Employment Relations Amendment Act 2007 (2007 No 2).
     
-    Section 207(7): amended, on 1 April 2003, by [section 4(1)][644] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+    Section 207(7): amended, on 1 April 2003, by [section 4(1)][645] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
 
 ##### 208 Sittings
     
@@ -7768,7 +7768,7 @@ Institutions
 
 ##### 213 Review of proceedings before court
     
-*   (1) If, in relation to any proceedings before the court, any person wishes to apply for a review under [Part 1][660] of the Judicature Amendment Act 1972 or bring proceedings seeking a writ or order of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or an injunction, the provisions of subsections (2) to (4) apply.
+*   (1) If, in relation to any proceedings before the court, any person wishes to apply for a review under [Part 1][661] of the Judicature Amendment Act 1972 or bring proceedings seeking a writ or order of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or an injunction, the provisions of subsections (2) to (4) apply.
     
     (2) Despite anything in any other Act or rule of law, the application or proceedings referred to in subsection (1) must be made to or brought in the Court of Appeal.
     
@@ -7782,7 +7782,7 @@ Institutions
 
 ##### 214 Appeals on question of law
     
-*   (1) A party to a proceeding under this Act who is dissatisfied with a decision of the court (other than a decision on the construction of an individual employment agreement or a collective employment agreement) as being wrong in law may, with the leave of the Court of Appeal, appeal to the Court of Appeal against the decision; and [section 66][677] of the Judicature Act 1908 applies to any such appeal.
+*   (1) A party to a proceeding under this Act who is dissatisfied with a decision of the court (other than a decision on the construction of an individual employment agreement or a collective employment agreement) as being wrong in law may, with the leave of the Court of Appeal, appeal to the Court of Appeal against the decision; and [section 66][678] of the Judicature Act 1908 applies to any such appeal.
     
     (2) A party desiring to appeal to the Court of Appeal under this section against a decision of the Employment Court must, within 28 days after the date of the issue of the decision or within such further time as the Court of Appeal may allow, apply to the Court of Appeal, in such manner as may be directed by rules of court, for leave to appeal to that court.
     
@@ -7798,11 +7798,11 @@ Institutions
     
     Compare: 1991 No 22 s 135
     
-    Section 214 heading: amended, on 1 January 2004, by [section 48(1)][678] of the Supreme Court Act 2003 (2003 No 53).
+    Section 214 heading: amended, on 1 January 2004, by [section 48(1)][679] of the Supreme Court Act 2003 (2003 No 53).
     
-    Section 214(1): substituted, on 1 January 2004, by [section 48(1)][678] of the Supreme Court Act 2003 (2003 No 53).
+    Section 214(1): substituted, on 1 January 2004, by [section 48(1)][679] of the Supreme Court Act 2003 (2003 No 53).
     
-    Section 214(7): repealed, on 1 January 2004, by [section 48(1)][678] of the Supreme Court Act 2003 (2003 No 53).
+    Section 214(7): repealed, on 1 January 2004, by [section 48(1)][679] of the Supreme Court Act 2003 (2003 No 53).
 
 ##### 214A Appeals to Supreme Court on question of law in exceptional circumstances
     
@@ -7812,9 +7812,9 @@ Institutions
     
     (3) Neither an application for leave to appeal nor an appeal operates as a stay of proceedings on the decision to which the application or the appeal relates unless the court or the Supreme Court so orders.
     
-    (4) This section is subject to [section 14][679] of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
+    (4) This section is subject to [section 14][680] of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
     
-    Section 214A: inserted, on 1 January 2004, by [section 48(1)][678] of the Supreme Court Act 2003 (2003 No 53).
+    Section 214A: inserted, on 1 January 2004, by [section 48(1)][679] of the Supreme Court Act 2003 (2003 No 53).
 
 ##### 215 Court of Appeal may refer appeals back for reconsideration
     
@@ -7852,15 +7852,15 @@ Institutions
 
 ##### 217 Appeal to Court of Appeal against conviction or order or sentence in respect of contempt of court
     
-*   Any person who has been convicted of an offence against this Act, and any person against whom an order (other than an order to the effect only that a person be taken into custody until the rising of the court) has been made under [section 140(6)][289] or [section 196][363] of this Act or [section 11A(7)][680] of the Minimum Wage Act 1983, may appeal to the Court of Appeal against the order as if that person were a defendant who had been convicted on a charge and sentenced by the High Court.
+*   Any person who has been convicted of an offence against this Act, and any person against whom an order (other than an order to the effect only that a person be taken into custody until the rising of the court) has been made under [section 140(6)][289] or [section 196][363] of this Act or [section 11A(7)][681] of the Minimum Wage Act 1983, may appeal to the Court of Appeal against the order as if that person were a defendant who had been convicted on a charge and sentenced by the High Court.
     
     Compare: 1991 No 22 s 133
     
-    Section 217: amended, on 1 July 2013, by [section 413][647] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 217: amended, on 1 July 2013, by [section 413][648] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 218 Appeal to Court of Appeal in respect of order on application for review
     
-*   Any party to an application for review or other proceeding under [section 194][360] who is dissatisfied with any final or interlocutory order in respect of the application may appeal to the Court of Appeal; and [section 66][677] of the Judicature Act 1908 applies to any such appeal.
+*   Any party to an application for review or other proceeding under [section 194][360] who is dissatisfied with any final or interlocutory order in respect of the application may appeal to the Court of Appeal; and [section 66][678] of the Judicature Act 1908 applies to any such appeal.
     
     Compare: 1991 No 22 s 134
 
@@ -7913,7 +7913,7 @@ General provisions
         
     *   (a) this Act; and
     
-    *   (b) the [Equal Pay Act 1972][681]; and
+    *   (b) the [Equal Pay Act 1972][682]; and
     
     *   (c) the [Holidays Act 2003][460]; and
     
@@ -7921,7 +7921,7 @@ General provisions
     
     *   (da) the [Parental Leave and Employment Protection Act 1987][513]; and
     
-    *   (e) the [Volunteers Employment Protection Act 1973][682]; and
+    *   (e) the [Volunteers Employment Protection Act 1973][683]; and
     
     *   (f) the [Wages Protection Act 1983][517].
     
@@ -7931,7 +7931,7 @@ General provisions
     
     Section 223(1)(c): substituted, on 1 April 2004, by [section 91(2)][501] of the Holidays Act 2003 (2003 No 129).
     
-    Section 223(1)(da): inserted, on 1 July 2002, by [section 6][683] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 223(1)(da): inserted, on 1 July 2002, by [section 6][684] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
 
 ##### 223A Functions of Labour Inspector
     
@@ -7947,11 +7947,11 @@ General provisions
     
     *   (e) providing any other services that assist employers and employees to resolve, promptly and effectively, employment relationship problems arising under the relevant Acts.
     
-    Section 223A: inserted, on 1 April 2011, by [section 37][684] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 223A: inserted, on 1 April 2011, by [section 37][685] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 #### Enforceable undertakings
     
-*   Heading: inserted, on 1 April 2011, by [section 37][684] of the Employment Relations Amendment Act 2010 (2010 No 125).
+*   Heading: inserted, on 1 April 2011, by [section 37][685] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 223B Enforceable undertakings
     
@@ -7965,7 +7965,7 @@ General provisions
     
     (2) The employer may withdraw or vary an enforceable undertaking agreed under subsection (1) at any time, but only with the consent of the Labour Inspector.
     
-    Section 223B: inserted, on 1 April 2011, by [section 37][684] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 223B: inserted, on 1 April 2011, by [section 37][685] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 223C Enforcement of undertakings
     
@@ -7975,11 +7975,11 @@ General provisions
     
     (3) If the enforceable undertaking relates to a monetary settlement, the enforceable undertaking may be enforced by using, as if the undertaking were an order enforceable under [section 141][292], the procedure applicable under section 141\.
     
-    Section 223C: inserted, on 1 April 2011, by [section 37][684] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 223C: inserted, on 1 April 2011, by [section 37][685] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 #### Improvement notices
     
-*   Heading: inserted, on 1 April 2011, by [section 37][684] of the Employment Relations Amendment Act 2010 (2010 No 125).
+*   Heading: inserted, on 1 April 2011, by [section 37][685] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 223D Labour Inspector may issue improvement notice
     
@@ -8009,7 +8009,7 @@ General provisions
     
     (6) An improvement notice may be enforced by the making by the Authority of a compliance order under [section 137][286].
     
-    Section 223D: inserted, on 1 April 2011, by [section 37][684] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 223D: inserted, on 1 April 2011, by [section 37][685] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 223E Objection to improvement notice
     
@@ -8025,7 +8025,7 @@ General provisions
     
     (3) The Authority may confirm, vary, or rescind the improvement notice as the Authority thinks fit.
     
-    Section 223E: inserted, on 1 April 2011, by [section 37][684] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 223E: inserted, on 1 April 2011, by [section 37][685] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 223F Penalty
     
@@ -8033,13 +8033,13 @@ General provisions
     
     (2) If subsection (1) applies, a Labour Inspector may not also bring an action seeking a penalty in respect of the same matter under any of the relevant Acts.
     
-    Section 223F: inserted, on 1 April 2011, by [section 37][684] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 223F: inserted, on 1 April 2011, by [section 37][685] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 223G Withdrawal of improvement notice
     
 *   An improvement notice may be withdrawn at any time by a Labour Inspector, but the withdrawal of an improvement notice does not prevent another improvement notice being served in relation to the same matter.
     
-    Section 223G: inserted, on 1 April 2011, by [section 37][684] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 223G: inserted, on 1 April 2011, by [section 37][685] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 #### Demand notices
 
@@ -8113,7 +8113,7 @@ General provisions
     
     Section 228(1): amended, on 1 April 2004, by [section 91(2)][501] of the Holidays Act 2003 (2003 No 129).
     
-    Section 228(2): substituted, on 1 April 2011, by [section 38][685] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 228(2): substituted, on 1 April 2011, by [section 38][686] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 #### Powers
 
@@ -8147,19 +8147,19 @@ General provisions
     
     (5) No person is, on examination or inquiry under this section, required to give to any question any answer tending to incriminate that person.
     
-    (6) Despite subsection (1), the power of a Labour Inspector to enter any defence area within the meaning of the [Defence Act 1990][686] is subject to any regulations made under [section 93][687] of that Act.
+    (6) Despite subsection (1), the power of a Labour Inspector to enter any defence area within the meaning of the [Defence Act 1990][687] is subject to any regulations made under [section 93][688] of that Act.
     
     (7) A Labour Inspector may recover a penalty under this Act in the Authority for a breach of any provision that provides for the imposition of a penalty and is a provision of any of the Acts referred to in [section 223(1)][400].
     
     Compare: 1991 No 22 s 144
     
-    Section 229(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][669] of the Policing Act 2008 (2008 No 72).
+    Section 229(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][670] of the Policing Act 2008 (2008 No 72).
     
     Section 229(1)(c)(i): amended, on 1 April 2004, by [section 91(2)][501] of the Holidays Act 2003 (2003 No 129).
     
     Section 229(1)(d): amended, on 1 April 2004, by [section 91(2)][501] of the Holidays Act 2003 (2003 No 129).
     
-    Section 229(3): amended, on 1 December 2004, by [section 66][688] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 229(3): amended, on 1 December 2004, by [section 66][689] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 230 Entry of dwellinghouses
     
@@ -8169,7 +8169,7 @@ General provisions
     
     *   (b) is authorised to do so by a warrant issued under [section 231][420].
     
-    Compare: 1992 No 96 [s 31(2)][689]
+    Compare: 1992 No 96 [s 31(2)][690]
 
 ##### 231 Entry warrant
     
@@ -8181,7 +8181,7 @@ General provisions
     
     may issue a warrant authorising a Labour Inspector named in it to enter that dwellinghouse or any part of that dwellinghouse that is, or is the only practicable means through which the Inspector may enter, a place where any person is employed.
     
-    Compare: 1992 No 96 [s 31(3)][689]
+    Compare: 1992 No 96 [s 31(3)][690]
 
 ##### 232 Compilation of wages and time record
     
@@ -8201,9 +8201,9 @@ General provisions
     
     (4) Every employer who, without reasonable cause, fails to comply with a notice given to that employer under subsection (1) is liable, in an action brought by a Labour Inspector, to a penalty under this Act imposed by the Authority.
     
-    (5) In this section, a wages and time record, if applicable, includes a holiday and leave record kept under [section 81][690] of the Holidays Act 2003\.
+    (5) In this section, a wages and time record, if applicable, includes a holiday and leave record kept under [section 81][691] of the Holidays Act 2003\.
     
-    Section 232(4): amended, on 1 December 2004, by [section 67][691] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 232(4): amended, on 1 December 2004, by [section 67][692] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
     
     Section 232(5): added, on 1 April 2004, by [section 91(2)][501] of the Holidays Act 2003 (2003 No 129).
 
@@ -8245,7 +8245,7 @@ General provisions
     
     (4) In this section,---
     
-    _company_ has the meaning given to it by [section 2(1)][692] of the Receiverships Act 1993
+    _company_ has the meaning given to it by [section 2(1)][693] of the Receiverships Act 1993
     
     _holiday pay_ means any amount payable under the [Holidays Act 2003][460] to an employee as pay for an annual holiday or public holiday
     
@@ -8295,7 +8295,7 @@ General provisions
     
     *   (b) the Accident Compensation Act 2001:
     
-    *   (c) the [Equal Pay Act 1972][681]:
+    *   (c) the [Equal Pay Act 1972][682]:
     
     *   (d) the [Holidays Act 2003][460]:
     
@@ -8305,9 +8305,9 @@ General provisions
     
     *   (g) the [Parental Leave and Employment Protection Act 1987][513]:
     
-    *   (h) the [Policing Act 2008][693]:
+    *   (h) the [Policing Act 2008][694]:
     
-    *   (i) the [State Sector Act 1988][664]:
+    *   (i) the [State Sector Act 1988][665]:
     
     *   (j) the [Wages Protection Act 1983][517].
     
@@ -8317,7 +8317,7 @@ General provisions
     
     Section 236(4)(d): substituted, on 1 April 2004, by [section 91(2)][501] of the Holidays Act 2003 (2003 No 129).
     
-    Section 236(4)(h): amended, on 1 October 2008, pursuant to [section 130(4)][694] of the Policing Act 2008 (2008 No 72).
+    Section 236(4)(h): amended, on 1 October 2008, pursuant to [section 130(4)][695] of the Policing Act 2008 (2008 No 72).
 
 #### Miscellaneous provisions
 
@@ -8373,7 +8373,7 @@ General provisions
     
     (5) In this section, _restructuring_ has the same meaning as in [subpart 1][131] of Part 6A.
     
-    Section 237A: inserted, on 1 December 2004, by [section 68][695] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Section 237A: inserted, on 1 December 2004, by [section 68][696] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 238 No contracting out
     
@@ -8383,7 +8383,7 @@ General provisions
 
 ##### 239 New Schedule 3 substituted in Police Act 1958
     
-*   _Amendment(s) incorporated in the [Act(s)][696]._
+*   _Amendment(s) incorporated in the [Act(s)][697]._
 
 ##### 240 Consequential amendments
     
@@ -8558,11 +8558,11 @@ Essential services
 
 *   2A The production or supply of electricity.
     
-    Schedule 1 Part A clause 2A: inserted, on 30 June 2012, by [section 11][697] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+    Schedule 1 Part A clause 2A: inserted, on 30 June 2012, by [section 11][698] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
 
 *   3 The operational management of a State enterprise (within the meaning of section 2 of the State-Owned Enterprises Act 1986) or a mixed ownership model company (within the meaning of section 45P of the Public Finance Act 1989) that is a generator of electricity.
     
-    Schedule 1 Part A clause 3: replaced, on 30 June 2012, by [section 11][697] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+    Schedule 1 Part A clause 3: replaced, on 30 June 2012, by [section 11][698] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
 
 *   4 The supply of water to the inhabitants of a city, district, or other place.
 
@@ -8592,17 +8592,17 @@ Essential services
 
 *   11 The operation of---
         
-    *   (a) a hospital care institution within the meaning of [section 58(4)][698] of the Health and Disability Services (Safety) Act 2001; or
+    *   (a) a hospital care institution within the meaning of [section 58(4)][699] of the Health and Disability Services (Safety) Act 2001; or
     
     *   (b) a service necessary for the operation of such an institution.
     
-    Schedule 1 Part A clause 11: substituted, on 1 October 2002, by [section 58(1)][698] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
+    Schedule 1 Part A clause 11: substituted, on 1 October 2002, by [section 58(1)][699] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
 
 *   12 The manufacture or supply of surgical and dialysis solutions.
 
 *   13 The manufacture or supply of a pharmaceutical that is for the time being listed in the pharmaceutical schedule under the New Zealand Public Health and Disability Act 2000\.
     
-    Schedule 1 Part A clause 13: substituted, on 1 January 2001, by [section 111(1)][699] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Schedule 1 Part A clause 13: substituted, on 1 January 2001, by [section 111(1)][700] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
 
 *   14 The operation of a residential welfare institution or prison.
 
@@ -8610,7 +8610,7 @@ Essential services
 
 *   16 The provision of Police emergency response services as defined in clause 3 of Schedule 1C.
     
-    Schedule 1 Part A clause 16: added, on 1 October 2008, by [section 121][700] of the Policing Act 2008 (2008 No 72).
+    Schedule 1 Part A clause 16: added, on 1 October 2008, by [section 121][701] of the Policing Act 2008 (2008 No 72).
 
 ## Part B
 
@@ -8627,17 +8627,17 @@ Employees to whom subpart 1 of Part 6A applies
 
 [ss 69C][134], [237A][429]
 
-*   Schedule 1A: inserted, on 1 December 2004, by [section 69][701] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+*   Schedule 1A: inserted, on 1 December 2004, by [section 69][702] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 Employees who provide the following services in the specified sectors, facilities, or places of work:
     
 *   (a) cleaning services, food catering services, caretaking, or laundry services for the education sector (being the public and private pre-school, primary, secondary, and tertiary educational institutions):
 
-*   (b) cleaning services, food catering services, orderly services, or laundry services for the health sector (being any hospital, as defined by the Hospitals Act 1957 and any hospital within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][702]):
+*   (b) cleaning services, food catering services, orderly services, or laundry services for the health sector (being any hospital, as defined by the Hospitals Act 1957 and any hospital within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][703]):
 
 *   (c) cleaning services, food catering services, orderly services, or laundry services in the age-related residential care sector:
 
-*   (d) cleaning services or food catering services in the public service (as defined in [Schedule 1][703] of the State Sector Act 1988) or local government sector:
+*   (d) cleaning services or food catering services in the public service (as defined in [Schedule 1][704] of the State Sector Act 1988) or local government sector:
 
 *   (e) cleaning services or food catering services in relation to any airport facility or for the aviation sector:
 
@@ -8650,7 +8650,7 @@ Code of good faith for public health sector
 
 [s 100D][235]
 
-*   Schedule 1B: inserted, on 1 December 2004, by [section 69][701] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+*   Schedule 1B: inserted, on 1 December 2004, by [section 69][702] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 1 Application
     
@@ -8710,11 +8710,11 @@ Code of good faith for public health sector
     
 *   In this code, unless the context otherwise requires,---
     
-    _good employer_ has the same meaning as in [section 6(1)][704] of the New Zealand Public Health and Disability Act 2000
+    _good employer_ has the same meaning as in [section 6(1)][705] of the New Zealand Public Health and Disability Act 2000
     
     _health professional_ means---
         
-    *   (a) an employee who provides services to patients as a health practitioner (as defined in [section 5][705] of the Health Practitioners Competence Assurance Act 2003); and
+    *   (a) an employee who provides services to patients as a health practitioner (as defined in [section 5][706] of the Health Practitioners Competence Assurance Act 2003); and
     
     *   (b) any other employee who works in a recognised clinical discipline providing services for the purpose of assessing, improving, protecting, or managing the physical or mental health of individuals or groups of individuals
     
@@ -8736,7 +8736,7 @@ Code of good faith for public health sector
     
     _services_---
         
-    *   (a) has the same meaning as in [section 6(1)][704] of the New Zealand Public Health and Disability Act 2000; and
+    *   (a) has the same meaning as in [section 6(1)][705] of the New Zealand Public Health and Disability Act 2000; and
     
     *   (b) to avoid doubt,---
             
@@ -8746,11 +8746,11 @@ Code of good faith for public health sector
         
         
     
-    Schedule 1B clause 3 **life preserving services** paragraph (d): added, on 22 December 2006, by [clause 4][706] of the Employment Relations (Code of Good Faith for Public Health Sector) Order 2006 (SR 2006/395).
+    Schedule 1B clause 3 **life preserving services** paragraph (d): added, on 22 December 2006, by [clause 4][707] of the Employment Relations (Code of Good Faith for Public Health Sector) Order 2006 (SR 2006/395).
     
-    Schedule 1B clause 3 **life preserving services** paragraph (e): added, on 22 December 2006, by [clause 4][706] of the Employment Relations (Code of Good Faith for Public Health Sector) Order 2006 (SR 2006/395).
+    Schedule 1B clause 3 **life preserving services** paragraph (e): added, on 22 December 2006, by [clause 4][707] of the Employment Relations (Code of Good Faith for Public Health Sector) Order 2006 (SR 2006/395).
     
-    Schedule 1B clause 3 **life preserving services** paragraph (f): added, on 22 December 2006, by [clause 4][706] of the Employment Relations (Code of Good Faith for Public Health Sector) Order 2006 (SR 2006/395).
+    Schedule 1B clause 3 **life preserving services** paragraph (f): added, on 22 December 2006, by [clause 4][707] of the Employment Relations (Code of Good Faith for Public Health Sector) Order 2006 (SR 2006/395).
 
 #### General
 
@@ -8800,13 +8800,13 @@ Code of good faith for public health sector
 
 ##### 7 Principles of the Treaty of Waitangi
     
-*   The parties must recognise and support [Part 3][707] of the New Zealand Public Health and Disability Act 2000 which, in order to recognise the principles of the Treaty of Waitangi and with a view to improving health outcomes for Maori, provides mechanisms to enable Maori to contribute to decision-making on, and to participate in the delivery of, health and disability services.
+*   The parties must recognise and support [Part 3][708] of the New Zealand Public Health and Disability Act 2000 which, in order to recognise the principles of the Treaty of Waitangi and with a view to improving health outcomes for Maori, provides mechanisms to enable Maori to contribute to decision-making on, and to participate in the delivery of, health and disability services.
 
 #### Collective bargaining
 
 ##### 8 Agreement on clinical expert or other suitable person
     
-*   As part of the arrangement required under [section 32(1)(a)][48], the parties must make every endeavour to agree on a clinical expert or other suitable person for the purposes of [clause 13(1)][708].
+*   As part of the arrangement required under [section 32(1)(a)][48], the parties must make every endeavour to agree on a clinical expert or other suitable person for the purposes of [clause 13(1)][709].
 
 ##### 9 Specific things employers must not do during collective bargaining
     
@@ -8882,7 +8882,7 @@ Code of good faith for public health sector
 
 ##### 13 Adjudication
     
-*   (1) If the parties cannot reach agreement under [clause 12(5)][709] they must, within 5 days after the date of the notice of industrial action, refer the matter for adjudication by a clinical expert or other suitable person as agreed under [clause 8][710].
+*   (1) If the parties cannot reach agreement under [clause 12(5)][710] they must, within 5 days after the date of the notice of industrial action, refer the matter for adjudication by a clinical expert or other suitable person as agreed under [clause 8][711].
     
     (2) The adjudicator must conduct the adjudication in a manner he or she considers appropriate and must---
         
@@ -8904,11 +8904,11 @@ Code of good faith for public health sector
     
 *   (1) Employers must respect and recognise the right of their employees to comment publicly and engage in public debate on matters within their expertise and experience as employees.
     
-    (2) However, this clause applies subject to [clauses 15 to 17][711].
+    (2) However, this clause applies subject to [clauses 15 to 17][712].
 
 ##### 15 Employee must first raise matter with employer
     
-*   Before an employee exercises the right specified in [clause 14(1)][712] in relation to the operations of his or her employer, the employee must first---
+*   Before an employee exercises the right specified in [clause 14(1)][713] in relation to the operations of his or her employer, the employee must first---
         
     *   (a) raise the matter with his or her employer; and
     
@@ -8918,7 +8918,7 @@ Code of good faith for public health sector
 
 ##### 16 When employee may make public comments about employer's operations
     
-*   If the employee is dissatisfied with his or her employer's response or there is no response from his or her employer, the employee may exercise the right specified in [clause 14(1)][712] if the employee makes it clear that he or she is---
+*   If the employee is dissatisfied with his or her employer's response or there is no response from his or her employer, the employee may exercise the right specified in [clause 14(1)][713] if the employee makes it clear that he or she is---
         
     *   (a) speaking in a personal capacity; or
     
@@ -8928,11 +8928,11 @@ Code of good faith for public health sector
 
 ##### 17 Confidentiality
     
-*   When exercising the right specified in [clause 14(1)][712], an employee must not breach patient confidentiality or professional confidentiality.
+*   When exercising the right specified in [clause 14(1)][713], an employee must not breach patient confidentiality or professional confidentiality.
 
 ##### 18 Rights of union not affected
     
-*   To avoid doubt, [clauses 14 to 16][712] do not prevent a union from making public comments or engaging in public debate on any matter relating to the public health sector.
+*   To avoid doubt, [clauses 14 to 16][713] do not prevent a union from making public comments or engaging in public debate on any matter relating to the public health sector.
 
 #### Continuity of employment
 
@@ -8958,7 +8958,7 @@ Code of good faith for public health sector
     
 *   (1) This clause applies if---
         
-    *   (a) a district health board or the New Zealand Blood Service has outsourced (within the meaning of [clause 19(1)(c)(i)][713]) the provision of services to it by another employer; and
+    *   (a) a district health board or the New Zealand Blood Service has outsourced (within the meaning of [clause 19(1)(c)(i)][714]) the provision of services to it by another employer; and
     
     *   (b) the agreement or arrangement under which the other employer provides those services comes to an end; and
     
@@ -8968,11 +8968,11 @@ Code of good faith for public health sector
 
 ##### 21 Obligation to notify provisions of clauses 19 and 20
     
-*   (1) Before a district health board or the New Zealand Blood Service enters into an agreement or arrangement with a new employer to which [clause 19][713] or [clause 20][714] applies, it must notify the employer of the provisions of clause 19 or clause 20, whichever applies in the circumstances.
+*   (1) Before a district health board or the New Zealand Blood Service enters into an agreement or arrangement with a new employer to which [clause 19][714] or [clause 20][715] applies, it must notify the employer of the provisions of clause 19 or clause 20, whichever applies in the circumstances.
     
     (2) However, failure to comply with subclause (1) does not affect the validity of an agreement or arrangement referred to in that subclause.
     
-    (3) This clause is in addition to [clause 1(3)][715].
+    (3) This clause is in addition to [clause 1(3)][716].
 
 #### Remedying breaches of good faith
 
@@ -9004,7 +9004,7 @@ Code of good faith for public health sector
     
     *   (b) bargaining for a collective agreement that began before the commencement of the code.
     
-    (4) [Clause 20][714] applies even though the agreement or arrangement referred to in clause 20(1)(b) was entered into before the commencement of the code.
+    (4) [Clause 20][715] applies even though the agreement or arrangement referred to in clause 20(1)(b) was entered into before the commencement of the code.
 
 ---
 
@@ -9013,7 +9013,7 @@ Code of good faith for employment relationships in relation to provision of serv
 
 [ss 100F][237], [100G][238]
 
-*   Schedule 1C: inserted, on 1 October 2008, by [section 122][716] of the Policing Act 2008 (2008 No 72).
+*   Schedule 1C: inserted, on 1 October 2008, by [section 122][717] of the Policing Act 2008 (2008 No 72).
 
 ##### 1 Application
     
@@ -9119,7 +9119,7 @@ Code of good faith for employment relationships in relation to provision of serv
 
 ##### 5 Agreement on suitable person
     
-*   As part of the arrangement required under [section 32(1)(a)][48], the parties must make every endeavour to agree on a suitable person for the purposes of [clause 11(1)][717].
+*   As part of the arrangement required under [section 32(1)(a)][48], the parties must make every endeavour to agree on a suitable person for the purposes of [clause 11(1)][718].
 
 ##### 6 Collective bargaining and collective agreements
     
@@ -9197,7 +9197,7 @@ Code of good faith for employment relationships in relation to provision of serv
 
 ##### 11 Adjudication
     
-*   (1) If the parties cannot reach agreement under [clause 10(5)][718] they must, within 5 days after the date of the notice of industrial action, refer the matter for adjudication by a suitable person as agreed by the parties under [clause 5][719].
+*   (1) If the parties cannot reach agreement under [clause 10(5)][719] they must, within 5 days after the date of the notice of industrial action, refer the matter for adjudication by a suitable person as agreed by the parties under [clause 5][720].
     
     (2) The adjudicator must conduct the adjudication in a manner he or she considers appropriate and must---
         
@@ -9219,11 +9219,11 @@ Code of good faith for employment relationships in relation to provision of serv
     
 *   (1) The Police must respect and recognise the right of service organisation members to comment publicly and engage in public debate during collective bargaining on matters relevant to the collective bargaining.
     
-    (2) This clause applies subject to [clauses 13 to 15][720].
+    (2) This clause applies subject to [clauses 13 to 15][721].
 
 ##### 13 Employee must first raise matter with employer
     
-*   Before a service organisation member exercises the right specified in [clause 12(1)][721] in relation to the operations of the Police, the employee must first---
+*   Before a service organisation member exercises the right specified in [clause 12(1)][722] in relation to the operations of the Police, the employee must first---
         
     *   (a) raise the matter with the Police; and
     
@@ -9233,7 +9233,7 @@ Code of good faith for employment relationships in relation to provision of serv
 
 ##### 14 When service organisation member may make public comments
     
-*   If the service organisation member is dissatisfied with the Police's response or there is no response from the Police, the service organisation member may exercise the right specified in [clause 12(1)][721] if the service organisation member makes it clear that he or she is---
+*   If the service organisation member is dissatisfied with the Police's response or there is no response from the Police, the service organisation member may exercise the right specified in [clause 12(1)][722] if the service organisation member makes it clear that he or she is---
         
     *   (a) speaking in a personal capacity; or
     
@@ -9243,11 +9243,11 @@ Code of good faith for employment relationships in relation to provision of serv
 
 ##### 15 Confidentiality
     
-*   When exercising the right specified in [clause 12(1)][721], a service organisation member employee must not breach legal or operational requirements of confidentiality in respect of individual cases, operations, or investigations.
+*   When exercising the right specified in [clause 12(1)][722], a service organisation member employee must not breach legal or operational requirements of confidentiality in respect of individual cases, operations, or investigations.
 
 ##### 16 Rights of service organisation not affected
     
-*   To avoid doubt, [clauses 12 to 15][721] do not prevent a service organisation, or other union, or its representatives from making public comments or engaging in public debate on any matter relating to the Police.
+*   To avoid doubt, [clauses 12 to 15][722] do not prevent a service organisation, or other union, or its representatives from making public comments or engaging in public debate on any matter relating to the Police.
 
 ##### 17 Transitional provision
     
@@ -9300,7 +9300,7 @@ Provisions having effect in relation to Employment Relations Authority
         
     *   (a) appears or is represented before the Authority; or
     
-    *   (b) under [clause 2(2)][722] is ordered to appear or be represented before the Authority.
+    *   (b) under [clause 2(2)][723] is ordered to appear or be represented before the Authority.
     
     
 
@@ -9320,7 +9320,7 @@ Provisions having effect in relation to Employment Relations Authority
     
     *   (b) in accordance with regulations made under this Act.
     
-    Schedule 2 clause 4A: inserted, on 1 December 2004, by [section 70][723] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Schedule 2 clause 4A: inserted, on 1 December 2004, by [section 70][724] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 5 Witness summons
     
@@ -9334,15 +9334,15 @@ Provisions having effect in relation to Employment Relations Authority
 
 ##### 6 Witnesses' expenses
     
-*   (1) Every person attending the Authority on a summons, and every other person giving evidence before the Authority, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the [Criminal Procedure Act 2011][724], and those regulations apply accordingly.
+*   (1) Every person attending the Authority on a summons, and every other person giving evidence before the Authority, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the [Criminal Procedure Act 2011][725], and those regulations apply accordingly.
     
     (2) The Authority may disallow the whole or any part of any sum payable under subclause (1).
     
-    (3) On each occasion on which the Authority issues a summons under [clause 5][725], the Authority, or the person exercising the power of the Authority under subclause (3) of that clause, must fix an amount that, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, is to be paid or tendered to the witness.
+    (3) On each occasion on which the Authority issues a summons under [clause 5][726], the Authority, or the person exercising the power of the Authority under subclause (3) of that clause, must fix an amount that, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, is to be paid or tendered to the witness.
     
     (4) The amount fixed under subclause (3) of this clause is to be the estimated amount of the allowances and travelling expenses (but not fees) to which, in the opinion of the Authority or person, the witness will be entitled, according to the prescribed scales, if the witness attends at the time and place specified in the summons.
     
-    (5) Where the Authority, on its own volition, issues a summons to any person under [clause 5(1)][726],---
+    (5) Where the Authority, on its own volition, issues a summons to any person under [clause 5(1)][727],---
         
     *   (a) that person, if he or she attends the Authority on that summons, is entitled, subject to subclause (2), to be paid by the department the amount of the witnesses' fees, allowances, and travelling expenses specified in subclause (1); and
     
@@ -9350,13 +9350,13 @@ Provisions having effect in relation to Employment Relations Authority
     
     Compare: 1991 No 22 s 96
     
-    Schedule 2 clause 6(1): amended, on 1 July 2013, by [section 413][647] of the Criminal Procedure Act 2011 (2011 No 81).
+    Schedule 2 clause 6(1): amended, on 1 July 2013, by [section 413][648] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 7 Evidence at distance
     
-*   (1) For the purpose of obtaining the evidence of witnesses at a distance, the Authority or, while the Authority is not sitting, any member of the Authority, has all the powers and functions of a District Court Judge under the [District Courts Act 1947][727].
+*   (1) For the purpose of obtaining the evidence of witnesses at a distance, the Authority or, while the Authority is not sitting, any member of the Authority, has all the powers and functions of a District Court Judge under the [District Courts Act 1947][728].
     
-    (2) The provisions of the [District Courts Act 1947][727] relating to the taking of evidence at a distance apply, with the necessary modifications, as if the Authority were a District Court.
+    (2) The provisions of the [District Courts Act 1947][728] relating to the taking of evidence at a distance apply, with the necessary modifications, as if the Authority were a District Court.
     
     (3) Despite subclause (2) evidence may, for the purposes of this Act, be taken at a distance by a Registrar of a District Court.
     
@@ -9370,7 +9370,7 @@ Provisions having effect in relation to Employment Relations Authority
     
     Compare: 1991 No 22 s 96
     
-    Schedule 2 clause 8(2): amended, on 1 July 2013, by [section 413][647] of the Criminal Procedure Act 2011 (2011 No 81).
+    Schedule 2 clause 8(2): amended, on 1 July 2013, by [section 413][648] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 9 Party competent as witness
     
@@ -9388,13 +9388,13 @@ Provisions having effect in relation to Employment Relations Authority
 
 ##### 11 Power to award interest
     
-*   (1) In any matter involving the recovery of any money, the Authority may, if it thinks fit, order the inclusion, in the sum for which judgment is given, of interest, at the rate prescribed under [section 87(3)][728] of the Judicature Act 1908, on the whole or part of the money for the whole or part of the period between the date when the cause of action arose and the date of payment in accordance with the determination of the Authority.
+*   (1) In any matter involving the recovery of any money, the Authority may, if it thinks fit, order the inclusion, in the sum for which judgment is given, of interest, at the rate prescribed under [section 87(3)][729] of the Judicature Act 1908, on the whole or part of the money for the whole or part of the period between the date when the cause of action arose and the date of payment in accordance with the determination of the Authority.
     
     (2) Without limiting the Authority's discretion under subclause (1), in deciding whether to order the inclusion of interest, the Authority must consider whether there has been long-standing and repeated non-compliance with a demand notice.
     
     (3) Subclause (1) does not authorise the giving of interest upon interest.
     
-    Schedule 2 clause 11: substituted, on 1 April 2011, by [section 39(1)][729] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Schedule 2 clause 11: substituted, on 1 April 2011, by [section 39(1)][730] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 12 Power to proceed if any party fails to attend
     
@@ -9408,7 +9408,7 @@ Provisions having effect in relation to Employment Relations Authority
     
     (2) In any such case, the order of the Authority may include an order for payment of costs and expenses against the party bringing the matter or defence.
     
-    Schedule 2 clause 12A: inserted, on 1 April 2011, by [section 39(1)][729] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Schedule 2 clause 12A: inserted, on 1 April 2011, by [section 39(1)][730] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 13 No invalidity for want of form
     
@@ -9424,7 +9424,7 @@ Provisions having effect in relation to Employment Relations Authority
     
     Compare: 1991 No 22 s 88(8)
     
-    Schedule 2 clause 14(2): added, on 1 April 2011, by [section 39(1)][729] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Schedule 2 clause 14(2): added, on 1 April 2011, by [section 39(1)][730] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 15 Power to award costs
     
@@ -9497,7 +9497,7 @@ Provisions having effect in relation to Employment Court
     
 *   (1) Where any party to proceedings before the court is represented by a person other than a barrister or solicitor, any communications between that party and that person in relation to those proceedings and to the matter in issue (if it has been before the Authority) are as privileged as they would have been if that person had been a barrister or solicitor.
     
-    (2) In subclause (1), _party_, in relation to proceedings before the court, includes any person who, under [clause 2(2)][730],---
+    (2) In subclause (1), _party_, in relation to proceedings before the court, includes any person who, under [clause 2(2)][731],---
         
     *   (a) is allowed to appear or be represented in those proceedings; or
     
@@ -9539,7 +9539,7 @@ Provisions having effect in relation to Employment Court
     
     *   (b) in accordance with regulations made under this Act.
     
-    Schedule 3 clause 5A: inserted, on 1 December 2004, by [section 71][731] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Schedule 3 clause 5A: inserted, on 1 December 2004, by [section 71][732] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 6 Witness summons
     
@@ -9555,23 +9555,23 @@ Provisions having effect in relation to Employment Court
 
 ##### 7 Witnesses' expenses
     
-*   (1) Every person attending the court on a summons, and every other person giving evidence before the court, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the [Criminal Procedure Act 2011][724], and those regulations apply accordingly.
+*   (1) Every person attending the court on a summons, and every other person giving evidence before the court, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the [Criminal Procedure Act 2011][725], and those regulations apply accordingly.
     
     (2) The court may disallow the whole or any part of any sum payable under subclause (1).
     
-    (3) On each occasion on which the court issues a summons under [clause 6][732], the court, or the person exercising the power of the court under subclause (4) of that clause, must fix an amount that, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, is to be paid or tendered to the witness.
+    (3) On each occasion on which the court issues a summons under [clause 6][733], the court, or the person exercising the power of the court under subclause (4) of that clause, must fix an amount that, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, is to be paid or tendered to the witness.
     
     (4) The amount fixed under subclause (3) is to be the estimated amount of the allowances and travelling expenses (but not fees) to which, in the opinion of the court or person, the witness will be entitled, according to the prescribed scales, if the witness attends at the time and place specified in the summons.
     
     Compare: 1991 No 22 s 126(2)(d)
     
-    Schedule 3 clause 7(1): amended, on 1 July 2013, by [section 413][647] of the Criminal Procedure Act 2011 (2011 No 81).
+    Schedule 3 clause 7(1): amended, on 1 July 2013, by [section 413][648] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 8 Evidence at distance
     
-*   (1) For the purpose of obtaining the evidence of witnesses at a distance, the court, or, while the court is not sitting, any Judge, has all the powers and functions of a District Court Judge under the [District Courts Act 1947][727].
+*   (1) For the purpose of obtaining the evidence of witnesses at a distance, the court, or, while the court is not sitting, any Judge, has all the powers and functions of a District Court Judge under the [District Courts Act 1947][728].
     
-    (2) The provisions of the [District Courts Act 1947][727] relating to the taking of evidence at a distance apply, with the necessary modifications, as if the court were a District Court.
+    (2) The provisions of the [District Courts Act 1947][728] relating to the taking of evidence at a distance apply, with the necessary modifications, as if the court were a District Court.
     
     (3) Despite subclause (2) evidence may, for the purposes of this Act, be taken at a distance by a Registrar of a District Court.
     
@@ -9585,7 +9585,7 @@ Provisions having effect in relation to Employment Court
     
     Compare: 1991 No 22 s 126(2)(g), (h)
     
-    Schedule 3 clause 9(2): amended, on 1 July 2013, by [section 413][647] of the Criminal Procedure Act 2011 (2011 No 81).
+    Schedule 3 clause 9(2): amended, on 1 July 2013, by [section 413][648] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 10 Party competent as witness
     
@@ -9609,21 +9609,21 @@ Provisions having effect in relation to Employment Court
 
 ##### 13 Discovery
     
-*   (1) The court may, in relation to discovery that relates to proceedings brought or intended to be brought in the court, or intended to be brought in the Authority, make any order that a District Court may make under [section 56A][733] or [56B][734] of the District Courts Act 1947; and those sections apply accordingly with all necessary modifications.
+*   (1) The court may, in relation to discovery that relates to proceedings brought or intended to be brought in the court, or intended to be brought in the Authority, make any order that a District Court may make under [section 56A][734] or [56B][735] of the District Courts Act 1947; and those sections apply accordingly with all necessary modifications.
     
-    (2) Every application for an order under [section 56A][733] or [section 56B][734] of the District Courts Act 1947 (as applied by subclause (1)) is to be dealt with in accordance with regulations made under this Act.
+    (2) Every application for an order under [section 56A][734] or [section 56B][735] of the District Courts Act 1947 (as applied by subclause (1)) is to be dealt with in accordance with regulations made under this Act.
     
     (3) Nothing in subclauses (1) and (2) limits the making of rules under [section 212][381] or regulations under [section 237][428].
     
-    Schedule 3 clause 13(1): substituted, on 1 April 2011, by [section 39(2)][729] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Schedule 3 clause 13(1): substituted, on 1 April 2011, by [section 39(2)][730] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 14 Power to award interest
     
-*   (1) Subject to subclause (2), in any proceedings for the recovery of any money, the court may, if it thinks fit, order the inclusion, in the sum for which judgment is given, of interest, at the rate prescribed under [section 87(3)][728] of the Judicature Act 1908, on the whole or part of the money for the whole or part of the period between the date when the cause of action arose and the date of payment in accordance with the judgment.
+*   (1) Subject to subclause (2), in any proceedings for the recovery of any money, the court may, if it thinks fit, order the inclusion, in the sum for which judgment is given, of interest, at the rate prescribed under [section 87(3)][729] of the Judicature Act 1908, on the whole or part of the money for the whole or part of the period between the date when the cause of action arose and the date of payment in accordance with the judgment.
     
     (2) Subclause (1) does not authorise the giving of interest upon interest.
     
-    Schedule 3 clause 14(1): amended, on 1 April 2011, by [section 39(2)][729] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Schedule 3 clause 14(1): amended, on 1 April 2011, by [section 39(2)][730] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 15 Power to dismiss frivolous or vexatious proceedings
     
@@ -9631,7 +9631,7 @@ Provisions having effect in relation to Employment Court
     
     (2) In any such case, the order of the court may include an order for payment of costs and expenses against the party bringing the matter or defence before the Authority.
     
-    Schedule 3 clause 15: substituted, on 1 April 2011, by [section 39(2)][729] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Schedule 3 clause 15: substituted, on 1 April 2011, by [section 39(2)][730] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 16 Power to proceed if any party fails to attend
     
@@ -9653,7 +9653,7 @@ Provisions having effect in relation to Employment Court
     
     Compare: 1991 No 22 s 106
     
-    Schedule 3 clause 18(2): added, on 1 April 2011, by [section 39(2)][729] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Schedule 3 clause 18(2): added, on 1 April 2011, by [section 39(2)][730] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ##### 19 Power to award costs
     
@@ -9693,11 +9693,11 @@ New Schedule 3 of Police Act 1958
 > ## Schedule 3  
 > Procedure for conciliation and arbitration
 > 
-> [s 67(6)][735]
+> [s 67(6)][736]
 > 
 > 
 
-_Amendment(s) incorporated in the [Act(s)][696]._
+_Amendment(s) incorporated in the [Act(s)][697]._
 
 ---
 
@@ -9712,71 +9712,71 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Anzac Day Act 1966 (RS Vol 33, p 13)
 
-_Amendment(s) incorporated in the [Act(s)][736]._
+_Amendment(s) incorporated in the [Act(s)][737]._
 
 ##### Arts Council of New Zealand Toi Aotearoa Act 1994 (1994 No 19)
 
-_Amendment(s) incorporated in the [Act(s)][737]._
+_Amendment(s) incorporated in the [Act(s)][738]._
 
 ##### Civil Aviation Act 1990 (RS Vol 32, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][738]._
+_Amendment(s) incorporated in the [Act(s)][739]._
 
 ##### Clerk of the House of Representatives Act 1988 (1988 No 126)
 
-_Amendment(s) incorporated in the [Act(s)][739]._
+_Amendment(s) incorporated in the [Act(s)][740]._
 
 ##### Commerce Act 1986 (RS Vol 31, p 71)
 
-_Amendment(s) incorporated in the [Act(s)][740]._
+_Amendment(s) incorporated in the [Act(s)][741]._
 
 ##### Companies Act 1993 (1993 No 105)
 
-_Amendment(s) incorporated in the [Act(s)][741]._
+_Amendment(s) incorporated in the [Act(s)][742]._
 
 ##### Crown Research Institutes Act 1992 (1992 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][742]._
+_Amendment(s) incorporated in the [Act(s)][743]._
 
 ##### Defence Act 1990 (1990 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][686]._
+_Amendment(s) incorporated in the [Act(s)][687]._
 
 ##### Disabled Persons Community Welfare Act 1975 (RS Vol 26, p 143)
 
-_Amendment(s) incorporated in the [Act(s)][743]._
+_Amendment(s) incorporated in the [Act(s)][744]._
 
 ##### Education Act 1989 (RS Vol 34, p 17)
 
-_Amendment(s) incorporated in the [Act(s)][744]._
+_Amendment(s) incorporated in the [Act(s)][745]._
 
 ##### Environment Act 1986 (RS Vol 36, p 223)
 
-_Amendment(s) incorporated in the [Act(s)][745]._
+_Amendment(s) incorporated in the [Act(s)][746]._
 
 ##### Equal Pay Act 1972 (RS Vol 35, p 279)
 
-_Amendment(s) incorporated in the [Act(s)][681]._
+_Amendment(s) incorporated in the [Act(s)][682]._
 
 ##### Films, Videos, and Publications Classification Act 1993 (1993 No 94)
 
-_Amendment(s) incorporated in the [Act(s)][746]._
+_Amendment(s) incorporated in the [Act(s)][747]._
 
 ##### Fisheries Act 1996 (1996 No 88)
 
-_Amendment(s) incorporated in the [Act(s)][747]._
+_Amendment(s) incorporated in the [Act(s)][748]._
 
 ##### Government Superannuation Fund Act 1956 (RS Vol 21, p 209)
 
-_Amendment(s) incorporated in the [Act(s)][748]._
+_Amendment(s) incorporated in the [Act(s)][749]._
 
 ##### Hazardous Substances and New Organisms Act 1996 (1996 No 30)
 
-_Amendment(s) incorporated in the [Act(s)][749]._
+_Amendment(s) incorporated in the [Act(s)][750]._
 
 ##### Health and Disability Commissioner Act 1994 (1994 No 88)
 
-_Amendment(s) incorporated in the [Act(s)][750]._
+_Amendment(s) incorporated in the [Act(s)][751]._
 
 ##### Health and Disability Services Act 1993 (1993 No 22)
 
@@ -9792,7 +9792,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Historic Places Act 1993 (1993 No 38)
 
-_Amendment(s) incorporated in the [Act(s)][751]._
+_Amendment(s) incorporated in the [Act(s)][752]._
 
 ##### Holidays Act 1981 (RS Vol 27, p 611)
 
@@ -9800,7 +9800,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Housing Restructuring Act 1992 (1992 No 76)
 
-_Amendment(s) incorporated in the [Act(s)][752]._
+_Amendment(s) incorporated in the [Act(s)][753]._
 
 ##### Human Rights Act 1993 (1993 No 82)
 
@@ -9808,19 +9808,19 @@ _Amendment(s) incorporated in the [Act(s)][550]._
 
 ##### Immigration Act 1987 (RS Vol 33, p 163)
 
-_Amendment(s) incorporated in the [Act(s)][753]._
+_Amendment(s) incorporated in the [Act(s)][754]._
 
 ##### Industry Training Act 1992 (1992 No 55)
 
-_Amendment(s) incorporated in the [Act(s)][754]._
+_Amendment(s) incorporated in the [Act(s)][755]._
 
 ##### Judicature Amendment Act 1972 (RS Vol 22, p 489)
 
-_Amendment(s) incorporated in the [Act(s)][755]._
+_Amendment(s) incorporated in the [Act(s)][756]._
 
 ##### Land Transport Act 1998 (1998 No 110)
 
-_Amendment(s) incorporated in the [Act(s)][756]._
+_Amendment(s) incorporated in the [Act(s)][757]._
 
 ##### Legal Services Act 1991 (1991 No 71)
 
@@ -9828,11 +9828,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Maori Language Act 1987 (1987 No 176)
 
-_Amendment(s) incorporated in the [Act(s)][757]._
+_Amendment(s) incorporated in the [Act(s)][758]._
 
 ##### Maritime Transport Act 1994 (1994 No 104)
 
-_Amendment(s) incorporated in the [Act(s)][758]._
+_Amendment(s) incorporated in the [Act(s)][759]._
 
 ##### Minimum Wage Act 1983 (RS Vol 27, p 701)
 
@@ -9840,15 +9840,15 @@ _Amendment(s) incorporated in the [Act(s)][459]._
 
 ##### Museum of New Zealand Te Papa Tongarewa Act 1992 (1992 No 19)
 
-_Amendment(s) incorporated in the [Act(s)][759]._
+_Amendment(s) incorporated in the [Act(s)][760]._
 
 ##### New Zealand Antarctic Institute Act 1996 (1996 No 38)
 
-_Amendment(s) incorporated in the [Act(s)][760]._
+_Amendment(s) incorporated in the [Act(s)][761]._
 
 ##### Oaths and Declarations Act 1957 (RS Vol 28, p 821)
 
-_Amendment(s) incorporated in the [Act(s)][761]._
+_Amendment(s) incorporated in the [Act(s)][762]._
 
 ##### Parental Leave and Employment Protection Act 1987 (RS Vol 27, p 753)
 
@@ -9856,7 +9856,7 @@ _Amendment(s) incorporated in the [Act(s)][513]._
 
 ##### Police Act 1958 (RS Vol 26, p 669)
 
-_Amendment(s) incorporated in the [Act(s)][762]._
+_Amendment(s) incorporated in the [Act(s)][763]._
 
 ##### Privacy Act 1993 (1993 No 28)
 
@@ -9864,7 +9864,7 @@ _Amendment(s) incorporated in the [Act(s)][480]._
 
 ##### Protected Disclosures Act 2000 (2000 No 7)
 
-_Amendment(s) incorporated in the [Act(s)][763]._
+_Amendment(s) incorporated in the [Act(s)][764]._
 
 ##### Retirement Income Act 1993 (1993 No 148)
 
@@ -9876,35 +9876,35 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Social Security Act 1964 (RS Vol 32, p 625)
 
-_Amendment(s) incorporated in the [Act(s)][764]._
+_Amendment(s) incorporated in the [Act(s)][765]._
 
 ##### Social Welfare (Transitional Provisions) Act 1990 (RS Vol 32, p 883)
 
-_Amendment(s) incorporated in the [Act(s)][765]._
+_Amendment(s) incorporated in the [Act(s)][766]._
 
 ##### Southland Electricity Act 1993 (1993 No 147)
 
-_Amendment(s) incorporated in the [Act(s)][766]._
+_Amendment(s) incorporated in the [Act(s)][767]._
 
 ##### State Sector Act 1988 (RS Vol 33, p 715)
 
-_Amendment(s) incorporated in the [Act(s)][664]._
+_Amendment(s) incorporated in the [Act(s)][665]._
 
 ##### State-Owned Enterprises Act 1986 (RS Vol 33, p 813)
 
-_Amendment(s) incorporated in the [Act(s)][767]._
+_Amendment(s) incorporated in the [Act(s)][768]._
 
 ##### Transit New Zealand Act 1989 (1989 No 75)
 
-_Amendment(s) incorporated in the [Act(s)][768]._
+_Amendment(s) incorporated in the [Act(s)][769]._
 
 ##### Transport Accident Investigation Commission Act 1990 (1990 No 99)
 
-_Amendment(s) incorporated in the [Act(s)][769]._
+_Amendment(s) incorporated in the [Act(s)][770]._
 
 ##### Volunteers Employment Protection Act 1973 (RS Vol 21, p 897)
 
-_Amendment(s) incorporated in the [Act(s)][682]._
+_Amendment(s) incorporated in the [Act(s)][683]._
 
 ##### Wages Protection Act 1983 (RS Vol 27, p 905)
 
@@ -9912,7 +9912,7 @@ _Amendment(s) incorporated in the [Act(s)][517]._
 
 ##### Waitangi Day Act 1976 (RS Vol 27, p 913)
 
-_Amendment(s) incorporated in the [Act(s)][770]._
+_Amendment(s) incorporated in the [Act(s)][771]._
 
 ---
 
@@ -9923,15 +9923,15 @@ Enactments repealed
 
 ##### Defence Amendment Act 1997 (1997 No 41)
 
-_Amendment(s) incorporated in the [Act(s)][771]._
+_Amendment(s) incorporated in the [Act(s)][772]._
 
 ##### Education Act 1964 (RS Vol 34, p 355)
 
-_Amendment(s) incorporated in the [Act(s)][772]._
+_Amendment(s) incorporated in the [Act(s)][773]._
 
 ##### Electricity Industry Reform Act 1998 (1998 No 88)
 
-_Amendment(s) incorporated in the [Act(s)][773]._
+_Amendment(s) incorporated in the [Act(s)][774]._
 
 ##### Employment Contracts Act 1991 (1991 No 22)
 
@@ -9947,7 +9947,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Government Superannuation Fund Amendment Act (No 2) 1992 (1992 No 61)
 
-_Amendment(s) incorporated in the [Act(s)][774]._
+_Amendment(s) incorporated in the [Act(s)][775]._
 
 ##### Holidays Amendment Act 1991 (RS Vol 27, p 635)
 
@@ -9959,7 +9959,7 @@ _Amendment(s) incorporated in the [Act(s)][550]._
 
 ##### Immigration Amendment Act 1991 (RS Vol 33, p 340)
 
-_Amendment(s) incorporated in the [Act(s)][775]._
+_Amendment(s) incorporated in the [Act(s)][776]._
 
 ##### Minimum Wage Amendment Act 1987 (RS Vol 27, p 707)
 
@@ -9979,7 +9979,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Police Amendment Act (No 2) 1992 (1992 No 68)
 
-_Amendment(s) incorporated in the [Act(s)][776]._
+_Amendment(s) incorporated in the [Act(s)][777]._
 
 ##### State Sector Amendment Act 1991 (RS Vol 33, p 715)
 
@@ -9987,7 +9987,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### State Sector Amendment Act 1997 (1997 No 8)
 
-_Amendment(s) incorporated in the [Act(s)][777]._
+_Amendment(s) incorporated in the [Act(s)][778]._
 
 ##### Volunteers Employment Protection Amendment Act 1990 (1990 No 114)
 
@@ -10007,7 +10007,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Employment Relations (Validation of Union Registration and Other Matters) Amendment Act 2001][778].
+*   (1) This Act is the [Employment Relations (Validation of Union Registration and Other Matters) Amendment Act 2001][779].
     
     (2) In this Act, the Employment Relations Act 2000 is called ""the principal Act"".
 
@@ -10099,7 +10099,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Employment Relations Amendment Act (No 2) 2004][779].
+*   (1) This Act is the [Employment Relations Amendment Act (No 2) 2004][780].
     
     (2) In this Act, the Employment Relations Act 2000 is called ""the principal Act"".
 
@@ -10229,7 +10229,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Employment Relations (Breaks, Infant Feeding, and Other Matters) Amendment Act 2008][780].
+*   This Act is the [Employment Relations (Breaks, Infant Feeding, and Other Matters) Amendment Act 2008][781].
 
 ##### 2 Commencement
     
@@ -10284,7 +10284,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Employment Relations Amendment Act 2008][781].
+*   This Act is the [Employment Relations Amendment Act 2008][782].
 
 ##### 2 Commencement
     
@@ -10316,7 +10316,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Employment Relations (Film Production Work) Amendment Act 2010][782].
+*   This Act is the [Employment Relations (Film Production Work) Amendment Act 2010][783].
 
 ##### 2 Commencement
     
@@ -10338,7 +10338,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Employment Relations (Secret Ballot for Strikes) Amendment Act 2012][783].
+*   This Act is the [Employment Relations (Secret Ballot for Strikes) Amendment Act 2012][784].
 
 ##### 2 Commencement
     
@@ -10368,90 +10368,49 @@ Commencementsee section 2
     
     
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Employment Relations Act 2000\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][784] ![](/images/external_link.gif).
+*   This is a reprint of the Employment Relations Act 2000 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][785] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][785] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][786] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][786] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][787] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][788] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][787] and [17E][788] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Health and Safety in Employment Amendment Act 2013 (2013 No 95): [section 26][571]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45): [section 11][698]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    [Employment Relations (Secret Ballot for Strikes) Amendment Act 2012][784] (2012 No 37)
     
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45): [section 11][697]
-    
-    [Employment Relations (Secret Ballot for Strikes) Amendment Act 2012][783] (2012 No 37)
-    
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][647]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][648]
     
     Holidays Amendment Act 2010 (2010 No 126): [section 18][527]
     
     [Employment Relations Amendment Act 2010][789] (2010 No 125)
     
-    [Employment Relations (Film Production Work) Amendment Act 2010][782] (2010 No 120)
+    [Employment Relations (Film Production Work) Amendment Act 2010][783] (2010 No 120)
     
     Accident Compensation Amendment Act 2010 (2010 No 1): [section 5(1)(b)][529]
     
-    [Employment Relations Amendment Act 2008][781] (2008 No 106)
+    [Employment Relations Amendment Act 2008][782] (2008 No 106)
     
-    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][669], [120--122][539], [130(4)][694]
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][670], [120--122][539], [130(4)][695]
     
     Real Estate Agents Act 2008 (2008 No 66): [section 173][466]
     
-    [Employment Relations (Breaks, Infant Feeding, and Other Matters) Amendment Act 2008][780] (2008 No 58)
+    [Employment Relations (Breaks, Infant Feeding, and Other Matters) Amendment Act 2008][781] (2008 No 58)
     
     [Employment Relations (Flexible Working Arrangements) Amendment Act 2007][509] (2007 No 105)
     
@@ -10463,41 +10422,41 @@ Commencementsee section 2
     
     Employment Relations (Code of Good Faith for Public Health Sector) Order 2006 (SR 2006/395)
     
-    Insolvency Act 2006 (2006 No 55): [section 445][642]
+    Insolvency Act 2006 (2006 No 55): [section 445][643]
     
     [Employment Relations Amendment Act 2006][515] (2006 No 41)
     
     Land Transport Amendment Act 2005 (2005 No 77): [section 95(6)][537]
     
-    [Employment Relations Amendment Act (No 2) 2004][779] (2004 No 86)
+    [Employment Relations Amendment Act (No 2) 2004][780] (2004 No 86)
     
     [Employment Relations Amendment Act 2004][791] (2004 No 43)
     
     Holidays Act 2003 (2003 No 129): [section 91(2)][501]
     
-    Supreme Court Act 2003 (2003 No 53): [section 48(1)][678]
+    Supreme Court Act 2003 (2003 No 53): [section 48(1)][679]
     
     Health and Safety in Employment Amendment Act 2002 (2002 No 86): [section 33][548]
     
-    Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [section 4(1)][644]
+    Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [section 4(1)][645]
     
-    Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7): [section 6][683]
+    Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7): [section 6][684]
     
-    Human Rights Amendment Act 2001 (2001 No 96): [section 71(1)][572]
+    Human Rights Amendment Act 2001 (2001 No 96): [section 71(1)][573]
     
-    Health and Disability Services (Safety) Act 2001 (2001 No 93): [section 58(1)][698]
+    Health and Disability Services (Safety) Act 2001 (2001 No 93): [section 58(1)][699]
     
-    [Employment Relations (Validation of Union Registration and Other Matters) Amendment Act 2001][778] (2001 No 91)
+    [Employment Relations (Validation of Union Registration and Other Matters) Amendment Act 2001][779] (2001 No 91)
     
     Accident Compensation Act 2001 (2001 No 49): [section 337(1)][528]
     
-    New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][699]
+    New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][700]
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][580]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][581]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM58320
 [2]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM58321
 [3]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM58322
@@ -11068,224 +11027,224 @@ Commencementsee section 2
 [568]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316436
 [569]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM278828
 [570]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316437
-[571]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM1765624
-[572]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM122581
-[573]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316438
-[574]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316439
-[575]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172532
-[576]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316440
-[577]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172534
-[578]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172536
-[579]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316441
-[580]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM162942
-[581]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM129719
-[582]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM129733
-[583]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM130139
-[584]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM130158
-[585]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM129760
-[586]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM129780
-[587]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM158958
-[588]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM158960
-[589]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM434002
-[590]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM434007
-[591]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM434013
-[592]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM106182
-[593]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM106184
-[594]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM106188
-[595]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM279241
-[596]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM279260
-[597]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM279952
-[598]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM279613
-[599]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM380661
-[600]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM1229737
-[601]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172537
-[602]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316442
-[603]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172538
-[604]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316443
-[605]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM380662
-[606]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316444
-[607]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316445
-[608]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316447
-[609]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316448
-[610]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172539
-[611]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172540
-[612]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM31585
-[613]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316449
-[614]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172542
-[615]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172543
-[616]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316450
-[617]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM71806
-[618]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316451
-[619]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172545
-[620]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM403276
-[621]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172547
-[622]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172548
-[623]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172549
-[624]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316453
-[625]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3331908
-[626]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM237184
-[627]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM74447
-[628]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM74856
-[629]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316454
-[630]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM1034691
-[631]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM380664
-[632]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM63970
-[633]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM443633
-[634]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM31565
-[635]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM96438
-[636]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM236924
-[637]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM392349
-[638]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172552
-[639]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172553
-[640]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172555
-[641]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM385298
-[642]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM387857
-[643]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM264952
-[644]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM167443
-[645]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172556
-[646]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM5344703
-[647]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3360714
-[648]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316456
-[649]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172559
-[650]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316457
-[651]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM3641398
-[652]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172560
-[653]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316458
-[654]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316459
-[655]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM1034692
-[656]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316461
-[657]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316462
-[658]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316463
-[659]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172562
-[660]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM408335
-[661]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM408337
-[662]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM129718
-[663]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM130137
-[664]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM129109
-[665]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316464
-[666]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316465
-[667]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61781
-[668]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM62204
-[669]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM1102349
-[670]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM294304
-[671]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM294305
-[672]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM94255
-[673]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM404778
-[674]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM294307
-[675]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM15636
-[676]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM404779
-[677]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM147320
-[678]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM214522
-[679]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM214075
-[680]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM74455
-[681]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM407769
-[682]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM409765
-[683]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM134910
-[684]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172563
-[685]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172574
-[686]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM204972
-[687]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM206915
-[688]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316467
-[689]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM279616
-[690]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM237190
-[691]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316468
-[692]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM327646
-[693]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM1102100
-[694]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM1102383
-[695]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316469
-[696]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM323020
-[697]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM4538252
-[698]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM120905
-[699]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM81644
-[700]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM1102357
-[701]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316472
-[702]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM262175
-[703]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM130706
-[704]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM80064
-[705]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM203321
-[706]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM423943
-[707]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM80801
-[708]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61754
-[709]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61753
-[710]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61748
-[711]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61757
-[712]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61756
-[713]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61762
-[714]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61765
-[715]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61728
-[716]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM1102359
-[717]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM1671935
-[718]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM1671934
-[719]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM1671928
-[720]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM1671938
-[721]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM1671937
-[722]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61774
-[723]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316473
-[724]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3359902
-[725]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61708
-[726]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61780
-[727]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM242775
-[728]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM147379
-[729]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172575
-[730]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61796
-[731]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316475
-[732]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM62203
-[733]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM243727
-[734]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM243729
-[735]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM322554
-[736]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM379805
-[737]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM330161
-[738]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM214686
-[739]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM135653
-[740]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM87622
-[741]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM319569
-[742]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM264291
-[743]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM436789
-[744]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM175958
-[745]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM98974
-[746]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM312894
-[747]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM394191
-[748]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM446000
-[749]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM381221
-[750]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM333583
-[751]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM300510
-[752]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM269427
-[753]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM108017
-[754]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM266245
-[755]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM408329
-[756]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM433612
-[757]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM124115
-[758]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM334659
-[759]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM260203
-[760]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM390267
-[761]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM314552
-[762]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM321405
-[763]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM53465
-[764]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM359106
-[765]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM203578
-[766]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM328343
-[767]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM97376
-[768]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM173368
-[769]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM219710
-[770]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM439048
-[771]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM409995
-[772]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM356731
-[773]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM428202
-[774]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM268507
-[775]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM249758
-[776]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM268540
-[777]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM407968
-[778]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM119926
-[779]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM315908
-[780]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM1229700
-[781]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM1765600
-[782]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3329600
-[783]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM2768300
-[784]: http://www.pco.parliament.govt.nz/reprints/
-[785]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM195439
-[786]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[787]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM195468
-[788]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM195470
+[571]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM5709294
+[572]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM1765624
+[573]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM122581
+[574]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316438
+[575]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316439
+[576]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172532
+[577]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316440
+[578]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172534
+[579]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172536
+[580]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316441
+[581]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM162942
+[582]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM129719
+[583]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM129733
+[584]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM130139
+[585]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM130158
+[586]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM129760
+[587]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM129780
+[588]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM158958
+[589]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM158960
+[590]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM434002
+[591]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM434007
+[592]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM434013
+[593]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM106182
+[594]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM106184
+[595]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM106188
+[596]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM279241
+[597]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM279260
+[598]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM279952
+[599]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM279613
+[600]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM380661
+[601]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM1229737
+[602]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172537
+[603]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316442
+[604]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172538
+[605]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316443
+[606]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM380662
+[607]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316444
+[608]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316445
+[609]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316447
+[610]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316448
+[611]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172539
+[612]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172540
+[613]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM31585
+[614]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316449
+[615]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172542
+[616]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172543
+[617]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316450
+[618]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM71806
+[619]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316451
+[620]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172545
+[621]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM403276
+[622]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172547
+[623]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172548
+[624]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172549
+[625]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316453
+[626]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3331908
+[627]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM237184
+[628]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM74447
+[629]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM74856
+[630]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316454
+[631]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM1034691
+[632]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM380664
+[633]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM63970
+[634]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM443633
+[635]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM31565
+[636]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM96438
+[637]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM236924
+[638]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM392349
+[639]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172552
+[640]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172553
+[641]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172555
+[642]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM385298
+[643]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM387857
+[644]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM264952
+[645]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM167443
+[646]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172556
+[647]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM5344703
+[648]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3360714
+[649]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316456
+[650]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172559
+[651]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316457
+[652]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM3641398
+[653]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172560
+[654]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316458
+[655]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316459
+[656]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM1034692
+[657]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316461
+[658]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316462
+[659]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316463
+[660]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172562
+[661]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM408335
+[662]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM408337
+[663]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM129718
+[664]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM130137
+[665]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM129109
+[666]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316464
+[667]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316465
+[668]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61781
+[669]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM62204
+[670]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM1102349
+[671]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM294304
+[672]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM294305
+[673]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM94255
+[674]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM404778
+[675]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM294307
+[676]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM15636
+[677]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM404779
+[678]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM147320
+[679]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM214522
+[680]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM214075
+[681]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM74455
+[682]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM407769
+[683]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM409765
+[684]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM134910
+[685]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172563
+[686]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172574
+[687]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM204972
+[688]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM206915
+[689]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316467
+[690]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM279616
+[691]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM237190
+[692]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316468
+[693]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM327646
+[694]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM1102100
+[695]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM1102383
+[696]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316469
+[697]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM323020
+[698]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM4538252
+[699]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM120905
+[700]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM81644
+[701]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM1102357
+[702]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316472
+[703]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM262175
+[704]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM130706
+[705]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM80064
+[706]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM203321
+[707]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM423943
+[708]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM80801
+[709]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61754
+[710]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61753
+[711]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61748
+[712]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61757
+[713]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61756
+[714]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61762
+[715]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61765
+[716]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61728
+[717]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM1102359
+[718]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM1671935
+[719]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM1671934
+[720]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM1671928
+[721]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM1671938
+[722]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM1671937
+[723]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61774
+[724]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316473
+[725]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3359902
+[726]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61708
+[727]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61780
+[728]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM242775
+[729]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM147379
+[730]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172575
+[731]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM61796
+[732]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM316475
+[733]: http://www.legislation.govt.nz/act/public/2000/0024/latest/whole.html#DLM62203
+[734]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM243727
+[735]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM243729
+[736]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM322554
+[737]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM379805
+[738]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM330161
+[739]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM214686
+[740]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM135653
+[741]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM87622
+[742]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM319569
+[743]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM264291
+[744]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM436789
+[745]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM175958
+[746]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM98974
+[747]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM312894
+[748]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM394191
+[749]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM446000
+[750]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM381221
+[751]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM333583
+[752]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM300510
+[753]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM269427
+[754]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM108017
+[755]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM266245
+[756]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM408329
+[757]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM433612
+[758]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM124115
+[759]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM334659
+[760]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM260203
+[761]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM390267
+[762]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM314552
+[763]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM321405
+[764]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM53465
+[765]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM359106
+[766]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM203578
+[767]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM328343
+[768]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM97376
+[769]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM173368
+[770]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM219710
+[771]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM439048
+[772]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM409995
+[773]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM356731
+[774]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM428202
+[775]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM268507
+[776]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM249758
+[777]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM268540
+[778]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM407968
+[779]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM119926
+[780]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM315908
+[781]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM1229700
+[782]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM1765600
+[783]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3329600
+[784]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM2768300
+[785]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM2998516
+[786]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM2998515
+[787]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM2998532
+[788]: http://www.pco.parliament.govt.nz/editorial-conventions/
 [789]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM3172502
 [790]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM404771
 [791]: http://www.legislation.govt.nz/act/public/2000/0024/latest/link.aspx?id=DLM293798
