@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 16 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -15,9 +15,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][1] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Economic Development.
 
@@ -104,7 +104,7 @@ This Act is administered by the Ministry of Economic Development.
 
 [29][38][][38][Recovery of levies][38]
 
-[30][39][][39][Payment into Departmental Bank Account][39]
+[30][39][][39][Payment of levy into account][39]
 
 [31][40][][40][Power to inspect property, obtain information, and enter land][40]
 
@@ -279,11 +279,15 @@ Title \[Repealed\]
     
     _Ministry_ means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
     
-    _Secretary_ means the chief executive of the Ministry.
+    _Secretary_ means the chief executive of the Ministry
     
-    Section 1B: inserted, on 1 October 2008, by [section 4][105] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    _WorkSafe_ means WorkSafe New Zealand established by [section 5][105] of the WorkSafe New Zealand Act 2013\.
     
-    Section 1B **engine fuel**: substituted, on 1 January 2010, by [section 11(4)][106] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 1B: inserted, on 1 October 2008, by [section 4][106] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    
+    Section 1B **engine fuel**: substituted, on 1 January 2010, by [section 11(4)][107] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    
+    Section 1B **WorkSafe**: inserted, on 16 December 2013, by [section 22][108] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ## Part 1  
 Abolition of Ministry of Energy
@@ -304,7 +308,7 @@ Abolition of Ministry of Energy
     
     (4) This section shall come into force on a date to be appointed for the commencement thereof by the Governor-General by Order in Council.
     
-    Section 3(4): this section brought into force, on 31 December 1990, by the [Ministry of Energy (Abolition) Act Commencement Order 1990][107] (SR 1990/355).
+    Section 3(4): this section brought into force, on 31 December 1990, by the [Ministry of Energy (Abolition) Act Commencement Order 1990][109] (SR 1990/355).
 
 ##### 4 Consequential amendments to references to Minister of Energy, Secretary of Energy, and Ministry of Energy
     
@@ -342,7 +346,7 @@ Abolition of Ministry of Energy
 
 ##### 9 Delegation of powers by Minister or Secretary
     
-*   Every delegation under section 9 or section 10 of the Ministry of Energy Act 1977 that was in force immediately before the commencement of this section shall continue to have effect according to its tenor as if it had been made on that commencement under [section 28][108] or [section 41][109] of the State Sector Act 1988\.
+*   Every delegation under section 9 or section 10 of the Ministry of Energy Act 1977 that was in force immediately before the commencement of this section shall continue to have effect according to its tenor as if it had been made on that commencement under [section 28][110] or [section 41][111] of the State Sector Act 1988\.
 
 ##### 10 Existing proceedings
     
@@ -363,19 +367,19 @@ Function of Minister in relation to price control
 
 \[Repealed\]
     
-*   Part 2: repealed, on 1 November 2010, by [section 158][110] of the Electricity Industry Act 2010 (2010 No 116).
+*   Part 2: repealed, on 1 November 2010, by [section 158][112] of the Electricity Industry Act 2010 (2010 No 116).
 
 ##### 12 Interpretation
     
 *   \[Repealed\]
     
-    Section 12: repealed, on 1 October 2008, by [section 5][111] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 12: repealed, on 1 October 2008, by [section 5][113] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
 
 ##### 13 Control of goods or services
     
 *   \[Repealed\]
     
-    Section 13: repealed, on 1 November 2010, by [section 158][110] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 13: repealed, on 1 November 2010, by [section 158][112] of the Electricity Industry Act 2010 (2010 No 116).
 
 ## Part 3  
 Levies
@@ -388,15 +392,15 @@ Levies
             
         *   (i) services carried out by the Ministry under any Act or related arbitration services; or
         
-        *   (ii) services carried out by the Department of Building and Housing under any Act or related arbitration services; or
+        *   (ii) \[Repealed\]
         
-        *   (iii) services carried out by the Department of Labour under any Act or related arbitration services; and
+        *   (iii) services carried out by WorkSafe under any Act or related arbitration services; and
         
         
     
-    *   (b) the dissemination of information concerning safety in relation to the industries to which the levies relate by the Ministry or by the Department of Labour; and
+    *   (b) the dissemination of information concerning safety in relation to the industries to which the levies relate by the Ministry or by WorkSafe; and
     
-    *   (c) the dissemination by the Ministry of information to assist consumers to choose, and alternate, between competing electricity retailers (as defined in [section 2(1)][112] of the Electricity Act 1992) or gas retailers (as defined in [section 2(1)][113] of the Gas Act 1992); and
+    *   (c) the dissemination by the Ministry of information to assist consumers to choose, and alternate, between competing electricity retailers (as defined in [section 2(1)][114] of the Electricity Act 1992) or gas retailers (as defined in [section 2(1)][115] of the Gas Act 1992); and
     
     *   (d) the recovery of those levies.
     
@@ -408,55 +412,61 @@ Levies
     
     *   (c) the recovery of those levies.
     
-    Section 14: substituted, on 5 December 2006, by [section 4][114] of the Ministry of Energy (Abolition) Amendment Act 2006 (2006 No 73).
+    Section 14: substituted, on 5 December 2006, by [section 4][116] of the Ministry of Energy (Abolition) Amendment Act 2006 (2006 No 73).
     
-    Section 14(1)(c): amended, on 1 November 2010, by [section 159][115] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 14(1)(a)(ii): repealed, on 16 December 2013, by [section 22][108] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    
+    Section 14(1)(a)(iii): amended, on 16 December 2013, by [section 22][108] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    
+    Section 14(1)(b): amended, on 16 December 2013, by [section 22][108] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    
+    Section 14(1)(c): amended, on 1 November 2010, by [section 159][117] of the Electricity Industry Act 2010 (2010 No 116).
 
 ##### 15 Levies payable by owners of coal mines
     
 *   \[Repealed\]
     
-    Section 15: repealed, on 1 July 1998, by [section 3][116] of the Ministry of Energy (Abolition) Amendment Act 1998 (1998 No 68).
+    Section 15: repealed, on 1 July 1998, by [section 3][118] of the Ministry of Energy (Abolition) Amendment Act 1998 (1998 No 68).
 
 ##### 16 Levies payable by owners of mineral mines
     
 *   \[Repealed\]
     
-    Section 16: repealed, on 1 July 1998, by [section 3][116] of the Ministry of Energy (Abolition) Amendment Act 1998 (1998 No 68).
+    Section 16: repealed, on 1 July 1998, by [section 3][118] of the Ministry of Energy (Abolition) Amendment Act 1998 (1998 No 68).
 
 ##### 17 Levy payable by holders of prospecting licences
     
 *   \[Repealed\]
     
-    Section 17: repealed, on 1 July 1998, by [section 3][116] of the Ministry of Energy (Abolition) Amendment Act 1998 (1998 No 68).
+    Section 17: repealed, on 1 July 1998, by [section 3][118] of the Ministry of Energy (Abolition) Amendment Act 1998 (1998 No 68).
 
 ##### 18 Levies payable by occupiers of quarries
     
 *   \[Repealed\]
     
-    Section 18: repealed, on 1 July 1998, by [section 3][116] of the Ministry of Energy (Abolition) Amendment Act 1998 (1998 No 68).
+    Section 18: repealed, on 1 July 1998, by [section 3][118] of the Ministry of Energy (Abolition) Amendment Act 1998 (1998 No 68).
 
 ##### 19 Levies payable by occupiers of tunnels
     
 *   \[Repealed\]
     
-    Section 19: repealed, on 1 July 1998, by [section 3][116] of the Ministry of Energy (Abolition) Amendment Act 1998 (1998 No 68).
+    Section 19: repealed, on 1 July 1998, by [section 3][118] of the Ministry of Energy (Abolition) Amendment Act 1998 (1998 No 68).
 
 ##### 20 Levies payable by owners of geothermal energy
     
 *   \[Repealed\]
     
-    Section 20: repealed, on 1 July 1998, by [section 3][116] of the Ministry of Energy (Abolition) Amendment Act 1998 (1998 No 68).
+    Section 20: repealed, on 1 July 1998, by [section 3][118] of the Ministry of Energy (Abolition) Amendment Act 1998 (1998 No 68).
 
 ##### 21 Levies payable by holders of pipeline authorisations
     
 *   \[Repealed\]
     
-    Section 21: repealed, on 1 July 1998, by [section 3][116] of the Ministry of Energy (Abolition) Amendment Act 1998 (1998 No 68).
+    Section 21: repealed, on 1 July 1998, by [section 3][118] of the Ministry of Energy (Abolition) Amendment Act 1998 (1998 No 68).
 
 ##### 22 Electricity levies
     
-*   (1) In this section, unless the context otherwise requires, expressions defined in the [Electricity Act 1992][117] shall have the meanings so defined.
+*   (1) In this section, unless the context otherwise requires, expressions defined in the [Electricity Act 1992][119] shall have the meanings so defined.
     
     (2) Not later than 30 days after the last days of March, June, September, and December in each year, every person or body who or which generates electricity for sale (including the Electricity Corporation of New Zealand Limited) shall supply the Secretary with a true and accurate return of all electricity sold from such generation during the immediately preceding period of 3 months ended with the said last days of March, June, September, and December, respectively, together with the levy calculated in accordance with this section:
     
@@ -468,11 +478,11 @@ Levies
     
     Compare: 1977 No 33 s 15J; 1987 No 97 s 3(1); 1988 No 134 s 2
     
-    Section 22(1): amended, on 1 April 1993, by [section 173(2)][118] of the Electricity Act 1992 (1992 No 122).
+    Section 22(1): amended, on 1 April 1993, by [section 173(2)][120] of the Electricity Act 1992 (1992 No 122).
 
 ##### 23 Gas levies
     
-*   (1) In this section, unless the context otherwise requires, expressions defined in the [Gas Act 1992][119] shall have the meanings so defined.
+*   (1) In this section, unless the context otherwise requires, expressions defined in the [Gas Act 1992][121] shall have the meanings so defined.
     
     (2) Nothing in this section shall apply to gas sold for use as a feedstock or for the generation of electricity or to liquefied petroleum gas.
     
@@ -492,7 +502,7 @@ Levies
     
     Compare: 1977 No 33 s 15K; 1987 No 97 s 3(1); 1988 No 134 s 3
     
-    Section 23: substituted, on 1 April 1993, by [section 58(2)][120] of the Gas Act 1992 (1992 No 124).
+    Section 23: substituted, on 1 April 1993, by [section 58(2)][122] of the Gas Act 1992 (1992 No 124).
 
 ##### 24 Petroleum or engine fuel monitoring levy
     
@@ -514,7 +524,7 @@ Levies
     
     (2) The levy must be paid to the New Zealand Customs Service---
         
-    *   (a) by the person who would be liable to pay excise duty or excise-equivalent duty under the [Customs and Excise Act 1996][121] if any were payable; and
+    *   (a) by the person who would be liable to pay excise duty or excise-equivalent duty under the [Customs and Excise Act 1996][123] if any were payable; and
     
     *   (b) when any excise duty or excise-equivalent duty would be paid if any were payable.
     
@@ -526,27 +536,27 @@ Levies
     
     *   (b) [sections 27][36] and [28][37] do not apply.
     
-    Section 24: substituted, on 1 October 2008, by [section 7][122] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 24: substituted, on 1 October 2008, by [section 7][124] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 24(1)(a): substituted, on 1 January 2010, by [section 11(4)][106] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 24(1)(a): substituted, on 1 January 2010, by [section 11(4)][107] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 24(1)(b): substituted, on 1 January 2010, by [section 11(4)][106] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 24(1)(b): substituted, on 1 January 2010, by [section 11(4)][107] of the Customs and Excise Amendment Act 2009 (2009 No 61).
 
 ##### 25 Supplementary levies
     
 *   \[Repealed\]
     
-    Section 25: repealed, on 1 July 1998, by [section 3][116] of the Ministry of Energy (Abolition) Amendment Act 1998 (1998 No 68).
+    Section 25: repealed, on 1 July 1998, by [section 3][118] of the Ministry of Energy (Abolition) Amendment Act 1998 (1998 No 68).
 
 ##### 25A Administration charge
     
 *   \[Repealed\]
     
-    Section 25A: repealed, on 1 July 1998, by [section 3][116] of the Ministry of Energy (Abolition) Amendment Act 1998 (1998 No 68).
+    Section 25A: repealed, on 1 July 1998, by [section 3][118] of the Ministry of Energy (Abolition) Amendment Act 1998 (1998 No 68).
 
 ##### 26 Rebates
     
-*   (1) On the application of any person who has paid or is liable to pay any levy under this Part, the Secretary may grant a rebate in respect of the whole or any part of the levy to which the application relates.
+*   (1) On the application of any person who has paid or is liable to pay any levy under [section 24][32], the Secretary may grant a rebate in respect of the whole or any part of the levy to which the application relates.
     
     (2) Before deciding to grant or not to grant a rebate under this section, the Secretary shall have regard to---
         
@@ -555,6 +565,8 @@ Levies
     *   (b) the number of inspections of the operation concerned that were carried out during the period in respect of which the levy was paid or is payable.
     
     Compare: 1977 No 33 s 15KC; 1989 No 28 s 9
+    
+    Section 26(1): amended, on 16 December 2013, by [section 22][108] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 27 Due dates for payment
     
@@ -562,7 +574,7 @@ Levies
     
     Compare: 1977 No 33 s 15M; 1989 No 28 s 10(2)
     
-    Section 27: amended, on 1 July 1998, by [section 5][123] of the Ministry of Energy (Abolition) Amendment Act 1998 (1998 No 68).
+    Section 27: amended, on 1 July 1998, by [section 5][125] of the Ministry of Energy (Abolition) Amendment Act 1998 (1998 No 68).
 
 ##### 28 Penalty for late payment
     
@@ -576,11 +588,13 @@ Levies
     
     Compare: 1977 No 33 s 15O; 1987 No 97 s 3(1)
 
-##### 30 Payment into Departmental Bank Account
+##### 30 Payment of levy into account
     
-*   All money received by the Secretary under this Part shall be paid into the Departmental Bank Account of the responsible department of State.
+*   (1) All money received by the Secretary under [section 22][30] or [23][31] must be paid into a Crown Bank Account. 
     
-    Section 30: substituted, on 1 October 1991, by [section 362][124] of the Resource Management Act 1991 (1991 No 69).
+    (2) All money received by the Secretary under [section 24][32] must be paid into the Departmental Bank Account of the responsible department of State.
+    
+    Section 30: replaced, on 16 December 2013, by [section 22][108] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 31 Power to inspect property, obtain information, and enter land
     
@@ -640,7 +654,7 @@ Levies
     
     Compare: 1977 No 33 s 15R; 1987 No 97 s 3(1)
     
-    Section 32(1): substituted, on 1 October 2008, by [section 8][125] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 32(1): substituted, on 1 October 2008, by [section 8][126] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
 
 ##### 33 Rates of levies, etc, may be prescribed
     
@@ -652,7 +666,7 @@ Levies
 
 ##### 34 Amount of goods and services tax excluded
     
-*   It is hereby declared that the levies payable under this Part are exclusive of goods and services tax under the [Goods and Services Tax Act 1985][126].
+*   It is hereby declared that the levies payable under this Part are exclusive of goods and services tax under the [Goods and Services Tax Act 1985][127].
     
     Compare: 1977 No 33 s 15T; 1989 No 28 s 12
 
@@ -661,177 +675,177 @@ Biofuel obligation
 
 \[Repealed\]
     
-*   Part 3A: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+*   Part 3A: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34A Purpose of this Part
     
 *   \[Repealed\]
     
-    Section 34A: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34A: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34B Outline of this Part
     
 *   \[Repealed\]
     
-    Section 34B: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34B: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34C Status of examples
     
 *   \[Repealed\]
     
-    Section 34C: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34C: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34D Interpretation
     
 *   \[Repealed\]
     
-    Section 34D: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34D: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34E Definition of obliged person
     
 *   \[Repealed\]
     
-    Section 34E: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34E: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34F Definition of obligation engine fuel
     
 *   \[Repealed\]
     
-    Section 34F: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34F: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34G Definition of qualifying biofuel
     
 *   \[Repealed\]
     
-    Section 34G: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34G: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34H Minister must recommend Order in Council under section 34G(2) providing qualifying biofuels must be sustainable biofuels
     
 *   \[Repealed\]
     
-    Section 34H: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34H: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34I Definition of trigger point
     
 *   \[Repealed\]
     
-    Section 34I: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34I: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34J Governor-General may revise biofuel percentage
     
 *   \[Repealed\]
     
-    Section 34J: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34J: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34K Consultation and confirmation requirements for Orders in Council under section 34F, 34G, 34I, or 34J
     
 *   \[Repealed\]
     
-    Section 34K: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34K: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34L Obliged person's required amount of qualifying biofuel
     
 *   \[Repealed\]
     
-    Section 34L: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34L: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34M Calculating required amount of qualifying biofuel and actual amount of qualifying biofuel
     
 *   \[Repealed\]
     
-    Section 34M: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34M: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34N Required amount of qualifying biofuels may be divided into proportions or amounts by Order in Council
     
 *   \[Repealed\]
     
-    Section 34N: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34N: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34O Energy content values
     
 *   \[Repealed\]
     
-    Section 34O: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34O: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34P Exclusion for engine fuel exported from New Zealand
     
 *   \[Repealed\]
     
-    Section 34P: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34P: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34Q Deferring required amount of qualifying biofuel
     
 *   \[Repealed\]
     
-    Section 34Q: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34Q: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34R Surplus and shortfall
     
 *   \[Repealed\]
     
-    Section 34R: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34R: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34S Entitlement agreements: general rules
     
 *   \[Repealed\]
     
-    Section 34S: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34S: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34T Entitlement agreements with biofuel owner who is not obliged person
     
 *   \[Repealed\]
     
-    Section 34T: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34T: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34U Entitlement agreements with biofuel owner who is obliged person
     
 *   \[Repealed\]
     
-    Section 34U: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34U: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 #### Annual returns
     
-*   Heading: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+*   Heading: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34V Annual returns
     
 *   \[Repealed\]
     
-    Section 34V: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34V: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34W Auditing of annual returns
     
 *   \[Repealed\]
     
-    Section 34W: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34W: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 #### Civil penalty
     
-*   Heading: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+*   Heading: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34X Civil penalty for breaching section 34L
     
 *   \[Repealed\]
     
-    Section 34X: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34X: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34Y Civil penalty for breaching section 34N(2)
     
 *   \[Repealed\]
     
-    Section 34Y: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34Y: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34Z Definition of _force majeure_ event
     
 *   \[Repealed\]
     
-    Section 34Z: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34Z: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 34ZA Applicable rules, procedure, and standard of proof
     
 *   \[Repealed\]
     
-    Section 34ZA: repealed, on 23 December 2008, by [section 4][127] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 34ZA: repealed, on 23 December 2008, by [section 4][128] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ## Part 4  
 Miscellaneous provisions
@@ -898,47 +912,47 @@ Miscellaneous provisions
     
     Compare: 1977 No 33 s 28
     
-    Section 35(1)(b): amended, on 20 September 2007, by [section 8][128] of the Energy (Fuels, Levies, and References) Amendment Act 2007 (2007 No 54).
+    Section 35(1)(b): amended, on 20 September 2007, by [section 8][129] of the Energy (Fuels, Levies, and References) Amendment Act 2007 (2007 No 54).
     
-    Section 35(1)(c): amended, on 1 October 2008, by [section 10(1)][129] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 35(1)(c): amended, on 1 October 2008, by [section 10(1)][130] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 35(1)(c): amended, on 20 September 2007, by [section 8][128] of the Energy (Fuels, Levies, and References) Amendment Act 2007 (2007 No 54).
+    Section 35(1)(c): amended, on 20 September 2007, by [section 8][129] of the Energy (Fuels, Levies, and References) Amendment Act 2007 (2007 No 54).
     
-    Section 35(1)(d): substituted, on 1 October 2008, by [section 10(2)][129] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 35(1)(d): substituted, on 1 October 2008, by [section 10(2)][130] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 35(1)(da): inserted, on 1 October 2008, by [section 10(2)][129] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 35(1)(da): inserted, on 1 October 2008, by [section 10(2)][130] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 35(1)(ea): inserted, on 1 October 2008, by [section 10(3)][129] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 35(1)(ea): inserted, on 1 October 2008, by [section 10(3)][130] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 35(1)(ea): amended, on 23 December 2008, by [section 5(1)][130] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 35(1)(ea): amended, on 23 December 2008, by [section 5(1)][131] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
     
-    Section 35(1)(eb): repealed, on 23 December 2008, by [section 5(2)][130] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 35(1)(eb): repealed, on 23 December 2008, by [section 5(2)][131] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
     
-    Section 35(1)(ec): repealed, on 23 December 2008, by [section 5(2)][130] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 35(1)(ec): repealed, on 23 December 2008, by [section 5(2)][131] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
     
-    Section 35(1)(ed): repealed, on 23 December 2008, by [section 5(2)][130] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 35(1)(ed): repealed, on 23 December 2008, by [section 5(2)][131] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
     
-    Section 35(1)(ee): repealed, on 23 December 2008, by [section 5(2)][130] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 35(1)(ee): repealed, on 23 December 2008, by [section 5(2)][131] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
     
-    Section 35(1)(ef): repealed, on 23 December 2008, by [section 5(2)][130] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 35(1)(ef): repealed, on 23 December 2008, by [section 5(2)][131] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
     
-    Section 35(1)(eg): inserted, on 1 October 2008, by [section 10(3)][129] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 35(1)(eg): inserted, on 1 October 2008, by [section 10(3)][130] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 35(1)(eh): inserted, on 1 October 2008, by [section 10(3)][129] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 35(1)(eh): inserted, on 1 October 2008, by [section 10(3)][130] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 35 (1)(f): amended, on 28 July 1997, by [section 2][131] of the Ministry of Energy (Abolition) Amendment Act 1997 (1997 No 50).
+    Section 35 (1)(f): amended, on 28 July 1997, by [section 2][132] of the Ministry of Energy (Abolition) Amendment Act 1997 (1997 No 50).
     
-    Section 35(1A): repealed, on 23 December 2008, by [section 5(3)][130] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 35(1A): repealed, on 23 December 2008, by [section 5(3)][131] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
     
-    Section 35(2): added, on 7 May 1999, by [section 2][132] of the Ministry of Energy (Abolition) Amendment Act 1999 (1999 No 40).
+    Section 35(2): added, on 7 May 1999, by [section 2][133] of the Ministry of Energy (Abolition) Amendment Act 1999 (1999 No 40).
     
-    Section 35(2): amended, on 23 December 2008, by [section 5(4)][130] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 35(2): amended, on 23 December 2008, by [section 5(4)][131] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
     
-    Section 35(3): added, on 7 May 1999, by [section 2][132] of the Ministry of Energy (Abolition) Amendment Act 1999 (1999 No 40).
+    Section 35(3): added, on 7 May 1999, by [section 2][133] of the Ministry of Energy (Abolition) Amendment Act 1999 (1999 No 40).
     
-    Section 35(4): added, on 7 May 1999, by [section 2][132] of the Ministry of Energy (Abolition) Amendment Act 1999 (1999 No 40).
+    Section 35(4): added, on 7 May 1999, by [section 2][133] of the Ministry of Energy (Abolition) Amendment Act 1999 (1999 No 40).
     
-    Section 35(5): added, on 7 May 1999, by [section 2][132] of the Ministry of Energy (Abolition) Amendment Act 1999 (1999 No 40).
+    Section 35(5): added, on 7 May 1999, by [section 2][133] of the Ministry of Energy (Abolition) Amendment Act 1999 (1999 No 40).
 
 ##### 35A Power of Minister to require selling of engine fuel to cease
     
@@ -950,7 +964,7 @@ Miscellaneous provisions
     
     (2) A seller or distributor who fails to comply with a Minister's notice described in subsection (1) commits an offence.
     
-    Section 35A: inserted, on 1 October 2008, by [section 11][133] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 35A: inserted, on 1 October 2008, by [section 11][134] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
 
 ##### 35B Keeping of records
     
@@ -968,15 +982,15 @@ Miscellaneous provisions
     
     (3) A person who fails to keep the records that are required to be kept under subsection (1) commits an offence.
     
-    Compare: 1996 No 27 [s 95][134]
+    Compare: 1996 No 27 [s 95][135]
     
-    Section 35B: inserted, on 1 October 2008, by [section 11][133] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 35B: inserted, on 1 October 2008, by [section 11][134] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 35B(2)(a): repealed, on 23 December 2008, by [section 6][135] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 35B(2)(a): repealed, on 23 December 2008, by [section 6][136] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
     
-    Section 35B(2)(b): repealed, on 23 December 2008, by [section 6][135] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 35B(2)(b): repealed, on 23 December 2008, by [section 6][136] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
     
-    Section 35B(2)(c): repealed, on 23 December 2008, by [section 6][135] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 35B(2)(c): repealed, on 23 December 2008, by [section 6][136] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 35C Power to inspect property, obtain information, and enter land to conduct compliance check
     
@@ -1040,19 +1054,19 @@ Miscellaneous provisions
     
     *   (c) the answering of questions put by an authorised person.
     
-    Section 35C: inserted, on 1 October 2008, by [section 11][133] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 35C: inserted, on 1 October 2008, by [section 11][134] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 35C(1) **compliance check** paragraph (a): repealed, on 23 December 2008, by [section 7(1)(a)][136] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 35C(1) **compliance check** paragraph (a): repealed, on 23 December 2008, by [section 7(1)(a)][137] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
     
-    Section 35C(1) **compliance check** paragraph (b): repealed, on 23 December 2008, by [section 7(1)(a)][136] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 35C(1) **compliance check** paragraph (b): repealed, on 23 December 2008, by [section 7(1)(a)][137] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
     
-    Section 35C(1) **compliance check** paragraph (f): amended, on 23 December 2008, by [section 7(1)(b)][136] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 35C(1) **compliance check** paragraph (f): amended, on 23 December 2008, by [section 7(1)(b)][137] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
     
-    Section 35C(1) **person liable to be checked** paragraph (a): repealed, on 23 December 2008, by [section 7(2)][136] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 35C(1) **person liable to be checked** paragraph (a): repealed, on 23 December 2008, by [section 7(2)][137] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
     
-    Section 35C(1) **person liable to be checked** paragraph (b): repealed, on 23 December 2008, by [section 7(2)][136] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 35C(1) **person liable to be checked** paragraph (b): repealed, on 23 December 2008, by [section 7(2)][137] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
     
-    Section 35C(1) **person liable to be checked** paragraph (c): repealed, on 23 December 2008, by [section 7(2)][136] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 35C(1) **person liable to be checked** paragraph (c): repealed, on 23 December 2008, by [section 7(2)][137] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 35D Offence to make incorrect statement
     
@@ -1070,7 +1084,7 @@ Miscellaneous provisions
     
     *   (c) refuses or fails without reasonable excuse to comply with any requirement made under paragraph (c) or (d) of [section 35C(2)][78].
     
-    Section 35D: inserted, on 1 October 2008, by [section 11][133] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 35D: inserted, on 1 October 2008, by [section 11][134] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
 
 ##### 36 Power of Minister to require information
     
@@ -1114,31 +1128,31 @@ Miscellaneous provisions
     
     (2) All information and all particulars required by a notice under subsection (1) or (1A) shall be furnished in such form and manner as the Minister may require and, if the Minister so requires, shall be certified by the person supplying the same as being correct to the best of that person's knowledge and belief.
     
-    Section 36 heading: amended, on 20 September 2007, by [section 9(1)][137] of the Energy (Fuels, Levies, and References) Amendment Act 2007 (2007 No 54).
+    Section 36 heading: amended, on 20 September 2007, by [section 9(1)][138] of the Energy (Fuels, Levies, and References) Amendment Act 2007 (2007 No 54).
     
-    Section 36(1): substituted, on 1 October 2008, by [section 12(1)][138] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 36(1): substituted, on 1 October 2008, by [section 12(1)][139] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 36(1)(b): repealed, on 23 December 2008, by [section 8(1)][139] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 36(1)(b): repealed, on 23 December 2008, by [section 8(1)][140] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
     
-    Section 36(1)(d): repealed, on 23 December 2008, by [section 8(1)][139] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 36(1)(d): repealed, on 23 December 2008, by [section 8(1)][140] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
     
-    Section 36(1)(e): repealed, on 23 December 2008, by [section 8(1)][139] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 36(1)(e): repealed, on 23 December 2008, by [section 8(1)][140] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
     
-    Section 36(1A): inserted, on 1 October 2008, by [section 12(1)][138] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 36(1A): inserted, on 1 October 2008, by [section 12(1)][139] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 36(1A): amended, on 23 December 2008, by [section 8(2)][139] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 36(1A): amended, on 23 December 2008, by [section 8(2)][140] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
     
-    Section 36(1B): inserted, on 1 October 2008, by [section 12(1)][138] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 36(1B): inserted, on 1 October 2008, by [section 12(1)][139] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 36(1B)(a): repealed, on 23 December 2008, by [section 8(3)][139] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 36(1B)(a): repealed, on 23 December 2008, by [section 8(3)][140] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
     
-    Section 36(1B)(b): repealed, on 23 December 2008, by [section 8(3)][139] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 36(1B)(b): repealed, on 23 December 2008, by [section 8(3)][140] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
     
-    Section 36(1B)(c): repealed, on 23 December 2008, by [section 8(3)][139] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 36(1B)(c): repealed, on 23 December 2008, by [section 8(3)][140] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
     
-    Section 36(2): amended, on 1 October 2008, by [section 12(2)(a)][138] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 36(2): amended, on 1 October 2008, by [section 12(2)(a)][139] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 36(2): amended, on 1 October 2008, by [section 12(2)(b)][138] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 36(2): amended, on 1 October 2008, by [section 12(2)(b)][139] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
 
 ##### 37 Offences
     
@@ -1156,21 +1170,21 @@ Miscellaneous provisions
     
     *   (b) in the case of a body corporate, to a fine not exceeding $200,000\.
     
-    Section 37(1)(a): amended, on 1 October 2008, by [section 13(1)][140] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 37(1)(a): amended, on 1 October 2008, by [section 13(1)][141] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 37(1)(b): amended, on 1 October 2008, by [section 13(1)][140] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 37(1)(b): amended, on 1 October 2008, by [section 13(1)][141] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 37(1)(c): substituted, on 1 October 2008, by [section 13(2)][140] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 37(1)(c): substituted, on 1 October 2008, by [section 13(2)][141] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 37(2): substituted, on 1 October 2008, by [section 13(3)][140] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 37(2): substituted, on 1 October 2008, by [section 13(3)][141] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 37(2): amended, on 1 July 2013, by [section 413][141] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 37(2): amended, on 1 July 2013, by [section 413][142] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 37(2): amended, on 23 December 2008, by [section 9][142] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 37(2): amended, on 23 December 2008, by [section 9][143] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 #### Search warrants
     
-*   Heading: inserted, on 1 October 2008, by [section 14][143] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+*   Heading: inserted, on 1 October 2008, by [section 14][144] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
 
 ##### 37A Issue of search warrants
     
@@ -1184,9 +1198,9 @@ Miscellaneous provisions
     
     (3) The Judge may authorise the search warrant to be executed on more than 1 occasion if he or she is satisfied that this is required for the purposes for which the warrant is being issued.
     
-    Section 37A: inserted, on 1 October 2008, by [section 14][143] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 37A: inserted, on 1 October 2008, by [section 14][144] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 37A(1)(b): repealed, on 23 December 2008, by [section 10][144] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 37A(1)(b): repealed, on 23 December 2008, by [section 10][145] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 37B Powers conferred by warrant
     
@@ -1212,9 +1226,9 @@ Miscellaneous provisions
     
     (5) The warrant must be executed in accordance with any conditions specified under [section 37A(2)][83].
     
-    Section 37B: inserted, on 1 October 2008, by [section 14][143] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 37B: inserted, on 1 October 2008, by [section 14][144] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 37B(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][145] of the Policing Act 2008 (2008 No 72).
+    Section 37B(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][146] of the Policing Act 2008 (2008 No 72).
 
 ##### 37C Form and content of search warrant
     
@@ -1248,13 +1262,13 @@ Miscellaneous provisions
         
         
     
-    Section 37C: inserted, on 1 October 2008, by [section 14][143] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 37C: inserted, on 1 October 2008, by [section 14][144] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 37C(b)(i): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][145] of the Policing Act 2008 (2008 No 72).
+    Section 37C(b)(i): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][146] of the Policing Act 2008 (2008 No 72).
     
-    Section 37C(b)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][145] of the Policing Act 2008 (2008 No 72).
+    Section 37C(b)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][146] of the Policing Act 2008 (2008 No 72).
     
-    Section 37C(c)(ii): amended, on 23 December 2008, by [section 11][146] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 37C(c)(ii): amended, on 23 December 2008, by [section 11][147] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 ##### 37D Warrant must be produced
     
@@ -1268,9 +1282,9 @@ Miscellaneous provisions
     
     *   (d) produce evidence of his or her identity.
     
-    Compare: 2003 No 12 [s 133][147]
+    Compare: 2003 No 12 [s 133][148]
     
-    Section 37D: inserted, on 1 October 2008, by [section 14][143] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 37D: inserted, on 1 October 2008, by [section 14][144] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
 
 ##### 37E Other duties of person who executes warrant
     
@@ -1282,9 +1296,9 @@ Miscellaneous provisions
     
     *   (c) for any seized thing, a list in accordance with [section 37G][89].
     
-    Compare: 2003 No 12 [s 134][148]
+    Compare: 2003 No 12 [s 134][149]
     
-    Section 37E: inserted, on 1 October 2008, by [section 14][143] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 37E: inserted, on 1 October 2008, by [section 14][144] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
 
 ##### 37F When alternative to list of seized things may be provided
     
@@ -1302,9 +1316,9 @@ Miscellaneous provisions
         
         
     
-    Compare: 2003 No 12 [s 135][149]
+    Compare: 2003 No 12 [s 135][150]
     
-    Section 37F: inserted, on 1 October 2008, by [section 14][143] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 37F: inserted, on 1 October 2008, by [section 14][144] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
 
 ##### 37G Matters that must be stated in list of seized things
     
@@ -1322,23 +1336,23 @@ Miscellaneous provisions
     
     *   (f) information about the right to bring a claim that any privileged or confidential information has been seized.
     
-    Compare: 2003 No 12 [s 136][150]
+    Compare: 2003 No 12 [s 136][151]
     
-    Section 37G: inserted, on 1 October 2008, by [section 14][143] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 37G: inserted, on 1 October 2008, by [section 14][144] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
 
 ##### 37H Duty to assist
     
-*   [Section 198B][151] of the Summary Proceedings Act 1957 applies with any necessary modifications to warrants issued under [section 37A][83].
+*   [Section 198B][152] of the Summary Proceedings Act 1957 applies with any necessary modifications to warrants issued under [section 37A][83].
     
-    Section 37H: inserted, on 1 October 2008, by [section 14][143] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 37H: inserted, on 1 October 2008, by [section 14][144] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
 
 ##### 37I Power to inspect and take copies of documents, etc, obtained under warrant
     
 *   The Secretary, or any person authorised by the Secretary for the purpose, may inspect and take copies of any documents or extracts from them obtained under a warrant.
     
-    Compare: 2003 No 12 [s 138][152]
+    Compare: 2003 No 12 [s 138][153]
     
-    Section 37I: inserted, on 1 October 2008, by [section 14][143] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 37I: inserted, on 1 October 2008, by [section 14][144] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
 
 ##### 37J Disposal of things seized
     
@@ -1358,13 +1372,13 @@ Miscellaneous provisions
     
     *   (b) make any order that a court may make under subsection (1).
     
-    Compare: 2003 No 12 [s 139][153]
+    Compare: 2003 No 12 [s 139][154]
     
-    Section 37J: inserted, on 1 October 2008, by [section 14][143] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 37J: inserted, on 1 October 2008, by [section 14][144] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 37J(1): amended, on 23 December 2008, by [section 12][154] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 37J(1): amended, on 23 December 2008, by [section 12][155] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
     
-    Section 37J(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][145] of the Policing Act 2008 (2008 No 72).
+    Section 37J(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][146] of the Policing Act 2008 (2008 No 72).
 
 ##### 37K Court order to be suspended on conviction
     
@@ -1378,17 +1392,17 @@ Miscellaneous provisions
     
     (2) If the operation of an order under [section 37J][92] is suspended until the determination of the appeal, the court determining the appeal may, by order, cancel or vary the order.
     
-    Compare: 2003 No 12 [s 140][155]
+    Compare: 2003 No 12 [s 140][156]
     
-    Section 37K: inserted, on 1 October 2008, by [section 14][143] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 37K: inserted, on 1 October 2008, by [section 14][144] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 37K heading: amended, on 23 December 2008, by [section 13(1)][156] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 37K heading: amended, on 23 December 2008, by [section 13(1)][157] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
     
-    Section 37K(1): amended, on 23 December 2008, by [section 13(2)][156] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+    Section 37K(1): amended, on 23 December 2008, by [section 13(2)][157] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
 
 #### Savings and transitional provisions
     
-*   Heading: inserted, on 1 October 2008, by [section 15][157] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+*   Heading: inserted, on 1 October 2008, by [section 15][158] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
 
 ##### 38 Savings
     
@@ -1407,7 +1421,7 @@ Enactments amended
 
 ##### Atomic Energy Act 1945 (1945 No 41) (RS Vol 1, p 189)
 
-_Amendment(s) incorporated in the [Act(s)][158]._
+_Amendment(s) incorporated in the [Act(s)][159]._
 
 ##### Coal Mines Act 1979 (1979 No 21)
 
@@ -1439,7 +1453,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Energy Resources Levy Act 1976 (1976 No 71)
 
-_Amendment(s) incorporated in the [Act(s)][159]._
+_Amendment(s) incorporated in the [Act(s)][160]._
 
 ##### Finance Act 1950 (1950 No 93) (RS Vol 11, p 387)
 
@@ -1455,7 +1469,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### International Energy Agreement Act 1976 (1976 No 155)
 
-_Amendment(s) incorporated in the [Act(s)][160]._
+_Amendment(s) incorporated in the [Act(s)][161]._
 
 ##### Iron and Steel Industry Act 1959 (1959 No 100) (RS Vol 9, p 187)
 
@@ -1463,7 +1477,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Manapouri-Te Anau Development Act 1963 (1963 No 23) (RS Vol 16, p 389)
 
-_Amendment(s) incorporated in the [Act(s)][161]._
+_Amendment(s) incorporated in the [Act(s)][162]._
 
 ##### Mining Act 1971 (1971 No 25) (RS Vol 17, p 355)
 
@@ -1471,7 +1485,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Official Information Amendment Act 1987 (1987 No 88)
 
-_Amendment(s) incorporated in the [Act(s)][162]._
+_Amendment(s) incorporated in the [Act(s)][163]._
 
 ##### Petroleum Act 1937 (1937 No 27) (RS Vol 7, p 649)
 
@@ -1479,7 +1493,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Petroleum Demand Restraint Act 1981 (1981 No 12)
 
-_Amendment(s) incorporated in the [Act(s)][163]._
+_Amendment(s) incorporated in the [Act(s)][164]._
 
 ##### Plumbers, Gasfitters, and Drainlayers Act 1976 (1976 No 69)
 
@@ -1487,7 +1501,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][162]._
+_Amendment(s) incorporated in the [Act(s)][163]._
 
 ##### Quarries and Tunnels Act 1982 (1982 No 18)
 
@@ -1551,11 +1565,11 @@ _Amendment(s) incorporated in the regulations._
 
 ##### Geothermal Energy Regulations 1961 (SR 1961/124)
 
-_Amendment(s) incorporated in the [regulations][164]._
+_Amendment(s) incorporated in the [regulations][165]._
 
 ##### Mining Regulations 1981 (SR 1981/347)
 
-_Amendment(s) incorporated in the [regulations][165]._
+_Amendment(s) incorporated in the [regulations][166]._
 
 ##### Mining (Safety) Regulations 1973 (SR 1973/82)
 
@@ -1597,80 +1611,39 @@ Biofuel percentage
 
 \[Repealed\]
     
-*   Schedule 5: repealed, on 23 December 2008, by [section 14][166] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+*   Schedule 5: repealed, on 23 December 2008, by [section 14][167] of the Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008 (2008 No 110).
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Energy (Fuels, Levies, and References) Act 1989\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][167] ![](/images/external_link.gif).
+*   This is a reprint of the Energy (Fuels, Levies, and References) Act 1989 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][168] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][168] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][169] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][169] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][170] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][171] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][1] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][170] and [17E][171] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   WorkSafe New Zealand Act 2013 (2013 No 94): [section 22][108]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][1] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][142]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][1] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Electricity Industry Act 2010 (2010 No 116): [sections 158][112], [159][117]
     
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][141]
-    
-    Electricity Industry Act 2010 (2010 No 116): [sections 158][110], [159][115]
-    
-    Customs and Excise Amendment Act 2009 (2009 No 61): [section 11(4)][106]
+    Customs and Excise Amendment Act 2009 (2009 No 61): [section 11(4)][107]
     
     [Energy (Fuels, Levies, and References) Biofuel Obligation Repeal Act 2008][172] (2008 No 110)
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][145]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][146]
     
     [Energy (Fuels, Levies, and References) Amendment Act 2008][173] (2008 No 60)
     
@@ -1684,18 +1657,16 @@ Biofuel percentage
     
     [Ministry of Energy (Abolition) Amendment Act 1997][178] (1997 No 50)
     
-    Gas Act 1992 (1992 No 124): [section 58(2)][120]
+    Gas Act 1992 (1992 No 124): [section 58(2)][122]
     
-    Electricity Act 1992 (1992 No 122): [section 173(2)][118]
+    Electricity Act 1992 (1992 No 122): [section 173(2)][120]
     
-    Resource Management Act 1991 (1991 No 69): [section 362][124]
-    
-    [Ministry of Energy (Abolition) Act Commencement Order 1990][107] (SR 1990/355)
+    [Ministry of Energy (Abolition) Act Commencement Order 1990][109] (SR 1990/355)
 
 
 
 [0]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM968238
-[1]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM195466
+[1]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM2998524
 [2]: http://www.legislation.govt.nz/act/public/1989/0140/latest/whole.html#DLM194756
 [3]: http://www.legislation.govt.nz/act/public/1989/0140/latest/whole.html#DLM194758
 [4]: http://www.legislation.govt.nz/act/public/1989/0140/latest/whole.html#DLM1010703
@@ -1799,73 +1770,73 @@ Biofuel percentage
 [102]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM968237
 [103]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM968239
 [104]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM2642621
-[105]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1382710
-[106]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM2376744
-[107]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM143438
-[108]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM129507
-[109]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM129566
-[110]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM2634598
-[111]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1382726
-[112]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM281866
-[113]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM285420
-[114]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM396773
-[115]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM2634599
-[116]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM427284
-[117]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM281857
-[118]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM284137
-[119]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM285411
-[120]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM286566
-[121]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM377336
-[122]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1382728
-[123]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM427286
-[124]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM239393
-[125]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1382730
-[126]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM81034
-[127]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1763920
-[128]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM968246
-[129]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1382817
-[130]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1763922
-[131]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM410395
-[132]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM24725
-[133]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1382818
-[134]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM378675
-[135]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1763923
-[136]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1763924
-[137]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM968247
-[138]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1382827
-[139]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1763925
-[140]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1382828
-[141]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM3360714
-[142]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1763926
-[143]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1382829
-[144]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1763927
-[145]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1102349
-[146]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1763928
-[147]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM188927
-[148]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM188928
-[149]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM188929
-[150]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM188930
-[151]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM314016
-[152]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM188932
-[153]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM188933
-[154]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1763929
-[155]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM188934
-[156]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1763930
-[157]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1382843
-[158]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM239212
-[159]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM439694
-[160]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM440509
-[161]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM348211
-[162]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM101358
-[163]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM43598
-[164]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM15784
-[165]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM78955
-[166]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1763931
-[167]: http://www.pco.parliament.govt.nz/reprints/
-[168]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM195439
-[169]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[170]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM195468
-[171]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM195470
+[105]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM5302049
+[106]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1382710
+[107]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM2376744
+[108]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM5302071
+[109]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM143438
+[110]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM129507
+[111]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM129566
+[112]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM2634598
+[113]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1382726
+[114]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM281866
+[115]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM285420
+[116]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM396773
+[117]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM2634599
+[118]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM427284
+[119]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM281857
+[120]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM284137
+[121]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM285411
+[122]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM286566
+[123]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM377336
+[124]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1382728
+[125]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM427286
+[126]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1382730
+[127]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM81034
+[128]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1763920
+[129]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM968246
+[130]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1382817
+[131]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1763922
+[132]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM410395
+[133]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM24725
+[134]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1382818
+[135]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM378675
+[136]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1763923
+[137]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1763924
+[138]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM968247
+[139]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1382827
+[140]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1763925
+[141]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1382828
+[142]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM3360714
+[143]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1763926
+[144]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1382829
+[145]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1763927
+[146]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1102349
+[147]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1763928
+[148]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM188927
+[149]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM188928
+[150]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM188929
+[151]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM188930
+[152]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM314016
+[153]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM188932
+[154]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM188933
+[155]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1763929
+[156]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM188934
+[157]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1763930
+[158]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1382843
+[159]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM239212
+[160]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM439694
+[161]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM440509
+[162]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM348211
+[163]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM101358
+[164]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM43598
+[165]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM15784
+[166]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM78955
+[167]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1763931
+[168]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM2998516
+[169]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM2998515
+[170]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM2998532
+[171]: http://www.pco.parliament.govt.nz/editorial-conventions/
 [172]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1763911
 [173]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM1382700
 [174]: http://www.legislation.govt.nz/act/public/1989/0140/latest/link.aspx?id=DLM968230
