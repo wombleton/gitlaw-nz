@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2008
+as at 16 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 Part 2 of this Act is administered by the Reserve Bank of New Zealand; and the rest is administered by the Treasury.
 
@@ -25,54 +25,54 @@ Part 2 of this Act is administered by the Reserve Bank of New Zealand; and the r
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Act binds the Crown][3]
+[2][3][][3][Act binds the Crown][3]
 
 [Part 1][4]  
 [Substantive provisions][4]
 
-[3][5] [Authorising Crown shareholding in Fletcher Challenge Limited][5]
+[3][5][][5][Authorising Crown shareholding in Fletcher Challenge Limited][5]
 
-[4][6] [Authorising Crown shareholding in company performing functions of Government Stores Board][6] \[Repealed\]
+[4][6][][6][Authorising Crown shareholding in company performing functions of Government Stores Board][6] \[Repealed\]
 
-[5][7] [Amendment to Dairy Board Amendment Act 1988][7] \[Repealed\]
+[5][7][][7][Amendment to Dairy Board Amendment Act 1988][7] \[Repealed\]
 
-[6][8] [Pension to widow of late Norman Eric Kirk][8]
+[6][8][][8][Pension to widow of late Norman Eric Kirk][8] \[Repealed\]
 
-[7][9] [Payment of fringe benefit tax on payments made by Crown into certain superannuation funds][9]
+[7][9][][9][Payment of fringe benefit tax on payments made by Crown into certain superannuation funds][9]
 
 [Part 2][10]  
 [Merger of banking businesses of Trust Bank Wanganui and Trust Bank Eastern and Central][10]
 
-[8][11] [Interpretation of terms used in this Part][11]
+[8][11][][11][Interpretation of terms used in this Part][11]
 
-[9][12] [Transfer of undertaking of Trust Bank Wanganui to Trust Bank Eastern and Central][12]
+[9][12][][12][Transfer of undertaking of Trust Bank Wanganui to Trust Bank Eastern and Central][12]
 
-[10][13] [Consequential provisions on transfer of undertaking][13]
+[10][13][][13][Consequential provisions on transfer of undertaking][13]
 
-[11][14] [Employees][14]
+[11][14][][14][Employees][14]
 
-[12][15] [Superannuation rights][15]
+[12][15][][15][Superannuation rights][15]
 
-[13][16] [Books and documents to remain evidence][16]
+[13][16][][16][Books and documents to remain evidence][16]
 
-[14][17] [Registers][17]
+[14][17][][17][Registers][17]
 
-[15][18] [This Part not limited by Trustee Banks Act 1983][18]
+[15][18][][18][This Part not limited by Trustee Banks Act 1983][18]
 
-[16][19] [Application of Trustee Banks Restructuring Act 1988][19]
+[16][19][][19][Application of Trustee Banks Restructuring Act 1988][19]
 
 [Part 3][20]  
 [Validation, amendments, and repeals][20]
 
-[17][21] [Hornby Licensing Trust: validating borrowing][21]
+[17][21][][21][Hornby Licensing Trust: validating borrowing][21]
 
-[18][22] [Dissolving National Research Advisory Council][22]
+[18][22][][22][Dissolving National Research Advisory Council][22]
 
-[19][23] [Statutory amendments consequential on disposal of Petroleum Corporation of New Zealand Limited][23]
+[19][23][][23][Statutory amendments consequential on disposal of Petroleum Corporation of New Zealand Limited][23]
 
-[20][24] [Repeals][24]
+[20][24][][24][Repeals][24]
 
 ---
 
@@ -131,23 +131,17 @@ Substantive provisions
 
 ##### 6 Pension to widow of late Norman Eric Kirk
     
-*   (1) There shall from time to time be paid out of the Consolidated Account, without further appropriation than this section, to the widow of the late Norman Eric Kirk, until she dies or remarries, an annuity at the rate of the annuity from time to time payable under [section 22(1)(b)][28] of the Civil List Act 1979 to the widow of a person who has held the office of Prime Minister for a period of 2 years.
+*   \[Repealed\]
     
-    (2) Subsection (1) is subject to the qualification set out in [section 22(2)][28] of the Civil List Act 1979\.
-    
-    (3) The annuity payable under this section shall be paid by equal periodic instalments at the end of each fortnight, with a proportionate payment for any fraction of a fortnight.
-    
-    (4) _Amendment(s) incorporated in the [Act(s)][29]_.
-    
-    (5) This section shall be deemed to have come into force on 1 January 1988\.
+    Section 6: repealed, on 16 December 2013, by [section 66][28] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
 
 ##### 7 Payment of fringe benefit tax on payments made by Crown into certain superannuation funds
     
-*   There may be paid out of public money, without further appropriation than this section, any amount that the Crown is required by law to pay by way of FBT (within the meaning of the [Income Tax Act 2007][30]) on payments made by the Crown into the Government Superannuation Fund or the National Provident Fund under the [Government Superannuation Fund Act 1956][31] or the National Provident Fund Act 1950\.
+*   There may be paid out of public money, without further appropriation than this section, any amount that the Crown is required by law to pay by way of FBT (within the meaning of the [Income Tax Act 2007][29]) on payments made by the Crown into the Government Superannuation Fund or the National Provident Fund under the [Government Superannuation Fund Act 1956][30] or the National Provident Fund Act 1950\.
     
-    Section 7: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][32] of the Income Tax Act 2007 (2007 No 97).
+    Section 7: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][31] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 7: amended (with effect on 1 July 1989), on 26 July 1989, by [section 86(1)][33] of the Public Finance Act 1989 (1989 No 44).
+    Section 7: amended (with effect on 1 July 1989), on 26 July 1989, by [section 86(1)][32] of the Public Finance Act 1989 (1989 No 44).
 
 ## Part 2  
 Merger of banking businesses of Trust Bank Wanganui and Trust Bank Eastern and Central
@@ -156,7 +150,7 @@ Merger of banking businesses of Trust Bank Wanganui and Trust Bank Eastern and C
     
 *   (1) In this Part, unless the context otherwise requires,---
     
-    _appointed day_ means the date appointed by the Governor-General in an [Order in Council][34] made under [section 9][12] for the vesting of the undertaking of Trust Bank Wanganui in Trust Bank Eastern and Central
+    _appointed day_ means the date appointed by the Governor-General in an [Order in Council][33] made under [section 9][12] for the vesting of the undertaking of Trust Bank Wanganui in Trust Bank Eastern and Central
     
     _excluded assets_ means bank deposits held by Trust Bank Wanganui before the appointed day the value of which is equal to the value of the reserves of Trust Bank Wanganui as determined under subsection (2) and being bank deposits designated by the boards of trustees of Trust Bank Wanganui and Trust Bank Eastern and Central to be excluded assets for the purposes of this Part
     
@@ -168,7 +162,7 @@ Merger of banking businesses of Trust Bank Wanganui and Trust Bank Eastern and C
     
     _instrument by way of security_ has the meaning assigned to it in section 2 of the Chattels Transfer Act 1924
     
-    _land_ has the meaning assigned to it in [section 2][35] of the Land Transfer Act 1952
+    _land_ has the meaning assigned to it in [section 2][34] of the Land Transfer Act 1952
     
     _liabilities_ means liabilities, debts, charges, duties, and obligations of every description (whether present or future, actual or contingent, and whether payable or to be observed or performed in New Zealand or elsewhere)
     
@@ -200,7 +194,7 @@ Merger of banking businesses of Trust Bank Wanganui and Trust Bank Eastern and C
 
 ##### 9 Transfer of undertaking of Trust Bank Wanganui to Trust Bank Eastern and Central
     
-*   On a date to be appointed by the Governor-General by [Order in Council][34] the undertaking of Trust Bank Wanganui shall, by virtue of this Part, vest in Trust Bank Eastern and Central.
+*   On a date to be appointed by the Governor-General by [Order in Council][33] the undertaking of Trust Bank Wanganui shall, by virtue of this Part, vest in Trust Bank Eastern and Central.
 
 ##### 10 Consequential provisions on transfer of undertaking
     
@@ -274,7 +268,7 @@ Merger of banking businesses of Trust Bank Wanganui and Trust Bank Eastern and C
     
 *   (1) Any document, matter, or thing, which, if this Part had not been passed, would have been admissible in evidence in respect of any matter for or against Trust Bank Wanganui shall, on and after the appointed day, be admissible in evidence in respect of the same matter for or against Trust Bank Eastern and Central.
     
-    (2) In this section, _document_ has the same meaning as in [section 2(1)][36] of the Evidence Amendment Act (No 2) 1980\.
+    (2) In this section, _document_ has the same meaning as in [section 2(1)][35] of the Evidence Amendment Act (No 2) 1980\.
 
 ##### 14 Registers
     
@@ -347,11 +341,11 @@ Validation, amendments, and repeals
     
     (4) \[Repealed\]
     
-    Section 18(2)(d): repealed, on 10 April 1998, by [section 48(1)][37] of the Crown Research Institutes Act 1992 (1992 No 47).
+    Section 18(2)(d): repealed, on 10 April 1998, by [section 48(1)][36] of the Crown Research Institutes Act 1992 (1992 No 47).
     
-    Section 18(2)(e): repealed, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][38] of the Income Tax Act 2004 (2004 No 35).
+    Section 18(2)(e): repealed, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][37] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 18(4): repealed, on 2 August 1990, by [section 14(2)(b)][39] of the Foundation for Research, Science, and Technology Act 1990 (1990 No 72).
+    Section 18(4): repealed, on 2 August 1990, by [section 14(2)(b)][38] of the Foundation for Research, Science, and Technology Act 1990 (1990 No 72).
 
 ##### 19 Statutory amendments consequential on disposal of Petroleum Corporation of New Zealand Limited
     
@@ -361,100 +355,59 @@ Validation, amendments, and repeals
     
     (3) Notwithstanding subsection (2), the Petroleum Corporation of New Zealand Limited shall, as soon as is practicable after the commencement of this section, send to the Minister of Energy a report on its operations for the year ending with 31 March 1988 together with a copy of its financial statements for the year; and the Minister shall lay copies of the report and statements before the House of Representatives.
     
-    Section 19(1): repealed, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][38] of the Income Tax Act 2004 (2004 No 35).
+    Section 19(1): repealed, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][37] of the Income Tax Act 2004 (2004 No 35).
 
 ##### 20 Repeals
     
-*   (1) _Amendment(s) incorporated in the [Act(s)][40]_.
+*   (1) _Amendment(s) incorporated in the [Act(s)][39]_.
     
-    (2) The repeal by subsection (1) of [sections 13(4)][41] and [14(3)][42] of the Finance Act 1987 does not affect the rights, assets, liabilities or debts of the Minister of Energy or Housing New Zealand Corporation.
+    (2) The repeal by subsection (1) of [sections 13(4)][40] and [14(3)][41] of the Finance Act 1987 does not affect the rights, assets, liabilities or debts of the Minister of Energy or Housing New Zealand Corporation.
     
-    (3) The repeal by subsection (1) of [sections 15 to 18][43] of the Finance Act 1987 does not affect the validity of anything validated by any of those sections.
+    (3) The repeal by subsection (1) of [sections 15 to 18][42] of the Finance Act 1987 does not affect the validity of anything validated by any of those sections.
     
-    Section 20(2): amended, on 1 July 2001, by [section 24(1)][44] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 20(2): amended, on 1 July 2001, by [section 24(1)][43] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Finance Act 1988\. The reprint incorporates all the amendments to the Act as at 1 April 2008, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][45] ![](/images/external_link.gif).
+*   This is a reprint of the Finance Act 1988 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][46] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][44] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][45] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][47] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][46] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][47] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][48] and [17E][49] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93): [section 66][28]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][31]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][32]
-    
-    Income Tax Act 2004 (2004 No 35): [section YA 2][38]
+    Income Tax Act 2004 (2004 No 35): [section YA 2][37]
     
     Dairy Industry Restructuring Act 2001 (2001 No 51): [section 165(4)][27]
     
-    Housing Corporation Amendment Act 2001 (2001 No 37): [section 24(1)][44]
+    Housing Corporation Amendment Act 2001 (2001 No 37): [section 24(1)][43]
     
-    Crown Research Institutes Act 1992 (1992 No 47): [section 48(1)][37]
+    Crown Research Institutes Act 1992 (1992 No 47): [section 48(1)][36]
     
-    Foundation for Research, Science, and Technology Act 1990 (1990 No 72): [section 14(2)(b)][39]
+    Foundation for Research, Science, and Technology Act 1990 (1990 No 72): [section 14(2)(b)][38]
     
-    Public Finance Act 1989 (1989 No 44): [section 86(1)][33]
+    Public Finance Act 1989 (1989 No 44): [section 86(1)][32]
     
     Finance Act (No 2) 1988 (1988 No 128): [section 19(6)][26]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1988/0107/latest/whole.html#DLM133224
 [2]: http://www.legislation.govt.nz/act/public/1988/0107/latest/whole.html#DLM133226
 [3]: http://www.legislation.govt.nz/act/public/1988/0107/latest/whole.html#DLM133227
@@ -482,25 +435,23 @@ Validation, amendments, and repeals
 [25]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM125661
 [26]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM136170
 [27]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM110110
-[28]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM32435
-[29]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM437718
-[30]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM1512300
-[31]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM446000
-[32]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM1523176
-[33]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM163175
-[34]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM125445
-[35]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM269037
-[36]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM35698
-[37]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM265669
-[38]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM277147
-[39]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM213940
-[40]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM125688
-[41]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM125692
-[42]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM125694
-[43]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM125696
-[44]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM96736
-[45]: http://www.pco.parliament.govt.nz/reprints/
-[46]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM195439
+[28]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM4034653
+[29]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM1512300
+[30]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM446000
+[31]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM1523176
+[32]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM163175
+[33]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM125445
+[34]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM269037
+[35]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM35698
+[36]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM265669
+[37]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM277147
+[38]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM213940
+[39]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM125688
+[40]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM125692
+[41]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM125694
+[42]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM125696
+[43]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM96736
+[44]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM2998516
+[45]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM2998515
+[46]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM2998532
 [47]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[48]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM195468
-[49]: http://www.legislation.govt.nz/act/public/1988/0107/latest/link.aspx?id=DLM195470
