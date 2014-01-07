@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 16 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -9,7 +9,7 @@ Date of assent23 December 1977
 
 Commencementsee section 1(2)
 
-*   Act name: substituted, on 1 April 2003, by [section 3(1)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+*   Act name: replaced, on 1 April 2003, by [section 3(1)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
 
 ---
 
@@ -166,7 +166,7 @@ Title \[Repealed\]
     
     *   (b) benefits and other emoluments (whether in money or not) in return for services.
     
-    Section 2: substituted (with effect on 1 April 1985), on 29 October 1985, by [section 2(1)][51] of the Higher Salaries Commission Amendment Act (No 2) 1985 (1985 No 135).
+    Section 2: replaced (with effect on 1 April 1985), on 29 October 1985, by [section 2(1)][51] of the Higher Salaries Commission Amendment Act (No 2) 1985 (1985 No 135).
     
     Section 2 **allowance**: inserted, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
@@ -178,7 +178,7 @@ Title \[Repealed\]
     
     Section 2 **junior dental officer**: repealed, on 1 April 1988, by section 2(1) of the Higher Salaries Commission Amendment 1988 (1988 No 24).
     
-    Section 2 **remuneration**: substituted, on 1 April 1988, by section 2(2) of the Higher Salaries Commission Amendment 1988 (1988 No 24).
+    Section 2 **remuneration**: replaced, on 1 April 1988, by section 2(2) of the Higher Salaries Commission Amendment 1988 (1988 No 24).
     
     Section 2 **resident medical officer**: repealed, on 1 April 1988, by section 2(1) of the Higher Salaries Commission Amendment 1988 (1988 No 24).
 
@@ -326,7 +326,7 @@ Title \[Repealed\]
     
 *   There shall from time to time be appointed by the chief executive of the Department of Labour such employees of the department as may be necessary to enable the Authority to exercise its functions and powers.
     
-    Section 11: substituted, on 1 April 1988, by section 3 of the Higher Salaries Commission Amendment Act 1988 (1988 No 24).
+    Section 11: replaced, on 1 April 1988, by section 3 of the Higher Salaries Commission Amendment Act 1988 (1988 No 24).
     
     Section 11 heading: amended, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
@@ -338,7 +338,7 @@ Title \[Repealed\]
         
     *   (a) to consider and determine the following matters:
             
-        *   (i) the salaries and allowances of members of the House of Representatives, being the salaries and allowances required to be fixed by the Authority pursuant to the [Civil List Act 1979][58]:
+        *   (i) the salaries and allowances of members of the House of Representatives, being the salaries and allowances required to be fixed by the Authority pursuant to the [Members of Parliament (Remuneration and Services) Act 2013][58]:
         
         *   (ii) \[Repealed\]
         
@@ -370,33 +370,37 @@ Title \[Repealed\]
     
     *   (b) the contribution that the member must make to that registered superannuation scheme in order to be entitled to any of the subsidy referred to in paragraph (a), expressed as a ratio of the subsidy to the member's contribution.
     
+    (2AB) For the avoidance of doubt, the superannuation subsidy may only be paid in accordance with subsection (2A)(a) if a member makes a contribution in the actual year to which the subsidy relates, and a member may not, in any year, make a lump sum payment of contributions in respect of past years and claim an entitlement to a subsidy in respect of the contributions paid in that year that relates to past years.
+    
     (2B) For the avoidance of doubt, it is hereby declared that the Crown's liability to any registered superannuation scheme to which a member referred to in subsection (1)(ba) chooses to contribute shall be limited to payment of such subsidy as may be determined pursuant to subsection (2A).
     
     (2C) In this section _registered superannuation scheme_ means any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][61].
     
     (3) Except as provided in this Act, where the remuneration due to any person is fixed under this Act, no amount in excess of the remuneration so fixed for the time being shall be granted to any person on account of that remuneration.
     
-    Section 12: substituted, on 1 April 1988, by section 4 of the Higher Salaries Commission Amendment Act 1988 (1988 No 24).
+    Section 12: replaced, on 1 April 1988, by section 4 of the Higher Salaries Commission Amendment Act 1988 (1988 No 24).
     
     Section 12 heading: amended, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
     Section 12(1): amended, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
+    Section 12(1)(a)(i): amended, on 16 December 2013, by [section 60(1)][62] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
+    
     Section 12(1)(a)(i): amended, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
-    Section 12(1)(a)(ii): repealed, on 8 December 2009, by [section 6][62] of the Remuneration Authority Amendment Act 2009 (2009 No 65).
+    Section 12(1)(a)(ii): repealed, on 8 December 2009, by [section 6][63] of the Remuneration Authority Amendment Act 2009 (2009 No 65).
     
-    Section 12(1)(a)(iii): repealed, on 19 December 1989, by [section 32(1)][63] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
+    Section 12(1)(a)(iii): repealed, on 19 December 1989, by [section 32(1)][64] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
     
-    Section 12(1)(a)(iv): repealed, on 1 November 1989, by [section 2(1)][64] of the Higher Salaries Commission Amendment Act 1989 (1989 No 35).
+    Section 12(1)(a)(iv): repealed, on 1 November 1989, by [section 2(1)][65] of the Higher Salaries Commission Amendment Act 1989 (1989 No 35).
     
-    Section 12(1)(a)(va): inserted, on 25 January 2005, by [section 200][65] of the Crown Entities Act 2004 (2004 No 115).
+    Section 12(1)(a)(va): inserted, on 25 January 2005, by [section 200][66] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 12(1)(a)(vi): repealed, on 19 December 1989, by [section 32(1)][63] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
+    Section 12(1)(a)(vi): repealed, on 19 December 1989, by [section 32(1)][64] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
     
-    Section 12(1)(b): substituted, on 1 July 1992, by section 2(1) of the Higher Salaries Commission Amendment Act 1992 (1992 No 66).
+    Section 12(1)(b): replaced, on 1 July 1992, by section 2(1) of the Higher Salaries Commission Amendment Act 1992 (1992 No 66).
     
-    Section 12(1)(ba): substituted, on 1 October 1995, by [section 32(1)][66] of the Government Superannuation Fund Amendment Act 1995 (1995 No 28).
+    Section 12(1)(ba): replaced, on 1 October 1995, by [section 32(1)][67] of the Government Superannuation Fund Amendment Act 1995 (1995 No 28).
     
     Section 12(1)(bb): inserted, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
@@ -407,6 +411,8 @@ Title \[Repealed\]
     Section 12(2A): amended, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
     Section 12(2A)(a): amended, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+    
+    Section 12(2AB): inserted, on 16 December 2013, by [section 60(2)][62] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
     
     Section 12(2B): inserted, on 1 July 1992, by section 2(2) of the Higher Salaries Commission Amendment Act 1992 (1992 No 66).
     
@@ -480,13 +486,13 @@ Title \[Repealed\]
     
     *   (e) the Associate Judges of the High Court; and
     
-    *   (f) the chief coroner and the other coroners (other than a person who (under [section 8(d)][67] of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge).
+    *   (f) the chief coroner and the other coroners (other than a person who (under [section 8(d)][68] of the District Courts Act 1947) is a coroner by virtue of holding office as a District Court Judge).
     
     (2) The Authority shall have the function of considering and making determinations with respect to---
         
-    *   (a) the superannuation rights and obligations of the judicial officers specified in subsection (1) who are contributors under [Part 4][68] or [Part 5][69] or [Part 5A][70] of the Government Superannuation Fund Act 1956, being rights fixed at the commencement of this Act by any of those Parts and other provisions of that Act; and
+    *   (a) the superannuation rights and obligations of the judicial officers specified in subsection (1) who are contributors under [Part 4][69] or [Part 5][70] or [Part 5A][71] of the Government Superannuation Fund Act 1956, being rights fixed at the commencement of this Act by any of those Parts and other provisions of that Act; and
     
-    *   (b) the superannuation rights and obligations of those judicial officers specified in subsection (1) who are not contributors under [Part 4][68] or [Part 5][69] or [Part 5A][70] of the Government Superannuation Fund Act 1956\.
+    *   (b) the superannuation rights and obligations of those judicial officers specified in subsection (1) who are not contributors under [Part 4][69] or [Part 5][70] or [Part 5A][71] of the Government Superannuation Fund Act 1956\.
     
     (3) The Authority shall, in making a determination under subsection (2)(b), determine---
         
@@ -504,35 +510,35 @@ Title \[Repealed\]
     
     (8) In this section _registered superannuation scheme_ means any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][61].
     
-    (9) A determination to which subsection (1) or (2) applies is a legislative instrument for the purposes of the [Legislation Act 2012][71], but is not required to be presented to the House of Representatives under [section 41][72] of that Act and is not a disallowable instrument for the purposes of that Act.
+    (9) A determination to which subsection (1) or (2) applies is a legislative instrument for the purposes of the [Legislation Act 2012][72], but is not required to be presented to the House of Representatives under [section 41][73] of that Act and is not a disallowable instrument for the purposes of that Act.
     
-    Section 12B: substituted, on 1 July 1992, by section 3(1) of the Higher Salaries Commission Amendment Act 1992 (1992 No 66).
+    Section 12B: replaced, on 1 July 1992, by section 3(1) of the Higher Salaries Commission Amendment Act 1992 (1992 No 66).
     
     Section 12B heading: amended, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
     Section 12B(1): amended, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
-    Section 12B(1)(a): substituted, on 1 January 2004, by [section 48(1)][73] of the Supreme Court Act 2003 (2003 No 53).
+    Section 12B(1)(a): replaced, on 1 January 2004, by [section 48(1)][74] of the Supreme Court Act 2003 (2003 No 53).
     
-    Section 12B(1)(aa): inserted, on 1 July 2009, by [section 35][74] of the Court Martial Appeals Amendment Act 2007 (2007 No 99).
+    Section 12B(1)(aa): inserted, on 1 July 2009, by [section 35][75] of the Court Martial Appeals Amendment Act 2007 (2007 No 99).
     
-    Section 12B(1)(b): amended, on 2 September 1996, pursuant to [section 6(2)(b)][75] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 12B(1)(b): amended, on 2 September 1996, pursuant to [section 6(2)(b)][76] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 12B(1)(ba): inserted, on 1 July 2009, by [section 87][76] of the Court Martial Act 2007 (2007 No 101).
+    Section 12B(1)(ba): inserted, on 1 July 2009, by [section 87][77] of the Court Martial Act 2007 (2007 No 101).
     
-    Section 12B(1)(e): substituted, on 1 July 2007, by [section 146][77] of the Coroners Act 2006 (2006 No 38).
+    Section 12B(1)(e): replaced, on 1 July 2007, by [section 146][78] of the Coroners Act 2006 (2006 No 38).
     
-    Section 12B(1)(f): added, on 1 July 2007, by [section 146][77] of the Coroners Act 2006 (2006 No 38).
+    Section 12B(1)(f): inserted, on 1 July 2007, by [section 146][78] of the Coroners Act 2006 (2006 No 38).
     
     Section 12B(2): amended, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
-    Section 12B(2)(b): substituted, on 1 October 1995, by [section 32(2)][66] of the Government Superannuation Fund Amendment Act 1995 (1995 No 28).
+    Section 12B(2)(b): replaced, on 1 October 1995, by [section 32(2)][67] of the Government Superannuation Fund Amendment Act 1995 (1995 No 28).
     
     Section 12B(3): amended, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
     Section 12B(5): amended, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
-    Section 12B(9): replaced, on 5 August 2013, by [section 77(3)][78] of the Legislation Act 2012 (2012 No 119).
+    Section 12B(9): replaced, on 5 August 2013, by [section 77(3)][79] of the Legislation Act 2012 (2012 No 119).
 
 ##### 12C Allowances
     
@@ -566,15 +572,15 @@ Title \[Repealed\]
     
     Compare: SR 1974/143 r 23(5)
     
-    Section 13 heading: amended, on 8 December 2009, by [section 7(1)][79] of the Remuneration Authority Amendment Act 2009 (2009 No 65).
+    Section 13 heading: amended, on 8 December 2009, by [section 7(1)][80] of the Remuneration Authority Amendment Act 2009 (2009 No 65).
     
-    Section 13(1)(a): repealed, on 8 December 2009, by [section 7(2)][79] of the Remuneration Authority Amendment Act 2009 (2009 No 65).
+    Section 13(1)(a): repealed, on 8 December 2009, by [section 7(2)][80] of the Remuneration Authority Amendment Act 2009 (2009 No 65).
     
-    Section 13(1)(c): repealed, on 1 November 1989, by [section 2(2)][64] of the Higher Salaries Commission Amendment Act 1989 (1989 No 35).
+    Section 13(1)(c): repealed, on 1 November 1989, by [section 2(2)][65] of the Higher Salaries Commission Amendment Act 1989 (1989 No 35).
     
-    Section 13(1)(e): amended, on 8 December 2009, by [section 7(3)][79] of the Remuneration Authority Amendment Act 2009 (2009 No 65).
+    Section 13(1)(e): amended, on 8 December 2009, by [section 7(3)][80] of the Remuneration Authority Amendment Act 2009 (2009 No 65).
     
-    Section 13(1)(e): amended, on 1 November 1989, by [section 2(3)][64] of the Higher Salaries Commission Amendment Act 1989 (1989 No 35).
+    Section 13(1)(e): amended, on 1 November 1989, by [section 2(3)][65] of the Higher Salaries Commission Amendment Act 1989 (1989 No 35).
 
 ##### 14 Implementation of determinations
     
@@ -582,7 +588,7 @@ Title \[Repealed\]
     
     (2) It is unlawful for any person to act contrary to a determination under this Act or to fail to observe the criteria or limits specified in a determination.
     
-    Section 14: substituted, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+    Section 14: replaced, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
 
 ##### 15 Release of determinations
     
@@ -598,19 +604,19 @@ Title \[Repealed\]
     
     (4) \[Repealed\]
     
-    (5) The Authority shall release to the Government Statistician such of its determinations as the Government Statistician may require for the purpose of publishing statistics pursuant to the [Statistics Act 1975][80].
+    (5) The Authority shall release to the Government Statistician such of its determinations as the Government Statistician may require for the purpose of publishing statistics pursuant to the [Statistics Act 1975][81].
     
     (6) Except as expressly provided in this Act, determinations of the Authority shall not be published by the Authority.
     
     Section 15(1): amended, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
-    Section 15(2): substituted (with effect on 1 April 1985), on 29 October 1985, by [section 9(1)][81] of the Higher Salaries Commission Amendment Act (No 2) 1985 (1985 No 135).
+    Section 15(2): replaced (with effect on 1 April 1985), on 29 October 1985, by [section 9(1)][82] of the Higher Salaries Commission Amendment Act (No 2) 1985 (1985 No 135).
     
     Section 15(2): amended, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
-    Section 15(2)(a): amended, on 8 December 2009, by [section 8][82] of the Remuneration Authority Amendment Act 2009 (2009 No 65).
+    Section 15(2)(a): amended, on 8 December 2009, by [section 8][83] of the Remuneration Authority Amendment Act 2009 (2009 No 65).
     
-    Section 15(2)(a): amended, on 1 November 1989, by [section 2(4)][64] of the Higher Salaries Commission Amendment Act 1989 (1989 No 35).
+    Section 15(2)(a): amended, on 1 November 1989, by [section 2(4)][65] of the Higher Salaries Commission Amendment Act 1989 (1989 No 35).
     
     Section 15(3): repealed, on 1 April 1988, by section 6(b) of the Higher Salaries Commission Amendment Act 1988 (1988 No 24).
     
@@ -630,19 +636,25 @@ Title \[Repealed\]
         
         *   (ii) the Speaker of the House of Representatives:
         
-        *   (iii) the leader of the official Opposition; and
+        *   (iii) the leader of the official Opposition:
+        
+        *   (iv) the General Manager of the Parliamentary Service; and
         
         
     
     *   (b) by publishing it in the _Gazette_ not later than 14 days after the date on which a copy of it is given to the Prime Minister.
     
-    (2) A determination to which subsection (1) applies is a legislative instrument for the purposes of the [Legislation Act 2012][71] but is not required to be presented to the House of Representatives under [section 41][72] of that Act and is not a disallowable instrument for the purposes of that Act.
+    (2) A determination to which subsection (1) applies is a legislative instrument for the purposes of the [Legislation Act 2012][72] but is not required to be presented to the House of Representatives under [section 41][73] of that Act and is not a disallowable instrument for the purposes of that Act.
     
     Section 16 heading: amended, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
     Section 16(1): amended, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
-    Section 16(2): replaced, on 5 August 2013, by [section 77(3)][78] of the Legislation Act 2012 (2012 No 119).
+    Section 16(1)(a)(iii): amended, on 16 December 2013, by [section 61(1)][84] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
+    
+    Section 16(1)(a)(iv): inserted, on 16 December 2013, by [section 61(2)][84] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
+    
+    Section 16(2): replaced, on 5 August 2013, by [section 77(3)][79] of the Legislation Act 2012 (2012 No 119).
 
 ##### 17 Provisions relating to Parliamentary and judicial superannuation
     
@@ -662,23 +674,39 @@ Title \[Repealed\]
     
     (8) Except to the extent that a determination under [section 12(1)(b)][14] or [section 12B(2)(a)][17] modifies, or is expressed to be in substitution for, any provision of the [Government Superannuation Fund Act 1956][53], nothing in any such determination shall affect the provisions of that Act.
     
-    Section 17: substituted, on 1 July 1992, by section 5 of the Higher Salaries Commission Amendment Act 1992 (1992 No 66).
+    Section 17: replaced, on 1 July 1992, by section 5 of the Higher Salaries Commission Amendment Act 1992 (1992 No 66).
     
     Section 17(2): amended, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
-    Section 17(2): amended, on 2 October 2001, by [section 40][83] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
+    Section 17(2): amended, on 2 October 2001, by [section 40][85] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
     
-    Section 17(3): repealed, on 1 May 2011, by [section 82][84] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 17(3): repealed, on 1 May 2011, by [section 82][86] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 17A Obligation to consult before making determinations about Parliamentary salaries and allowances
     
 *   Before making a determination under [section 12(1)(a)(i)][14], the Authority must---
         
-    *   (a) consult with the Commissioner of Inland Revenue about the taxation consequences of the Authority's proposed determination; and
+    *   (a) consult the Speaker of the House of Representatives and the Minister who is, with the authority of the Prime Minister, for the time being responsible for Ministerial Services about the services for which they have jurisdiction, including, for the purposes of [section 16(2)][87] of the Members of Parliament (Remuneration and Services) Act 2013, about---
+            
+        *   (i) whether any element of personal benefit or potential personal benefit for members of Parliament, Ministers, or their family members arises under an entitlement to a service; and
+        
+        *   (ii) in the case of any such benefit arising under directions issued by the Speaker under [section 23][88] or [34][89] of that Act or a determination made by the Minister Responsible for Ministerial Services under [section 27][90] of that Act, the value of any such benefit assessed by the Speaker or the Minister; and
+        
+        
     
-    *   (b) consult with the Speaker of the House of Representatives and the Minister who has, with the authority of the Prime Minister, for the time being assumed responsibility for Ministerial services, about the services for which they have jurisdiction.
+    *   (b) consult the Commissioner of Inland Revenue---
+            
+        *   (i) about the taxation consequences of the Authority's proposed determination; and
+        
+        *   (ii) as required under [section 16(2)(a)][87] of the Members of Parliament (Remuneration and Services Act 2013).
+        
+        
     
     Section 17A: inserted, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+    
+    Section 17A(a): replaced, on 16 December 2013, by [section 62][91] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
+    
+    Section 17A(b): replaced, on 16 December 2013, by [section 62][91] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
 
 ##### 18 Criteria of Authority
     
@@ -702,7 +730,7 @@ Title \[Repealed\]
     
     *   (b) the conditions of service enjoyed by the persons whose remuneration is being determined and those enjoyed by the persons or members of the group of persons whose remuneration and conditions of employment are, in the opinion of the Authority, comparable with those of the persons or members of the group of persons whose remuneration is being determined.
     
-    Section 18: substituted, on 1 April 1988, by section 7 of the Higher Salaries Commission Amendment Act 1988 (1988 No 24).
+    Section 18: replaced, on 1 April 1988, by section 7 of the Higher Salaries Commission Amendment Act 1988 (1988 No 24).
     
     Section 18 heading: amended, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
@@ -726,7 +754,7 @@ Title \[Repealed\]
     
     (4) To avoid doubt, the provisions of any other enactment relating to the setting of remuneration by the Authority must be read together with, and subject to, this section.
     
-    Section 18A: inserted, on 8 December 2009, by [section 4][85] of the Remuneration Authority Amendment Act 2009 (2009 No 65).
+    Section 18A: inserted, on 8 December 2009, by [section 4][92] of the Remuneration Authority Amendment Act 2009 (2009 No 65).
 
 ##### 19 Frequency of adjustments
     
@@ -748,7 +776,7 @@ Title \[Repealed\]
     
     (5) Notwithstanding any term included in any determination, the Authority shall review and issue a determination for each position that is subject to its jurisdiction at intervals of not more than 3 years.
     
-    Section 19: substituted, on 1 April 1988, by section 8(1) of the Higher Salaries Commission Amendment Act 1988 (1988 No 24).
+    Section 19: replaced, on 1 April 1988, by section 8(1) of the Higher Salaries Commission Amendment Act 1988 (1988 No 24).
     
     Section 19(1A): inserted, on 1 July 1992, by section 6 of the Higher Salaries Commission Amendment Act 1992 (1992 No 66).
     
@@ -784,7 +812,7 @@ Title \[Repealed\]
     
     *   (c) each employer or employing authority, or an authorised representative of each employer or employing authority, of the persons whose remuneration or superannuation is being considered.
     
-    Section 21: substituted, on 1 April 1988, by section 10 of the Higher Salaries Commission Amendment Act 1988 (1988 No 24).
+    Section 21: replaced, on 1 April 1988, by section 10 of the Higher Salaries Commission Amendment Act 1988 (1988 No 24).
     
     Section 21 heading: amended, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
@@ -796,19 +824,19 @@ Title \[Repealed\]
     
 *   \[Repealed\]
     
-    Section 22: repealed, on 19 December 1989, by [section 32(1)][63] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
+    Section 22: repealed, on 19 December 1989, by [section 32(1)][64] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
 
 ##### 23 Application of cost-of-living increases
     
 *   \[Repealed\]
     
-    Section 23: repealed, on 1 July 1987, by [section 3(2)][86] of the Economic Stabilisation Act Repeal Act 1987 (1987 No 126).
+    Section 23: repealed, on 1 July 1987, by [section 3(2)][93] of the Economic Stabilisation Act Repeal Act 1987 (1987 No 126).
 
 ##### 24 Remuneration of existing holder not to be reduced
     
 *   (1) Where any position is subject to the determination of the Authority under [section 12(1)(a)][14] or [section 12B][17] and the remuneration for that position is determined by the Authority at a rate that is lower than that being lawfully received by the holder of that position, his remuneration shall not be reduced as a result of that determination.
     
-    (2) This principle does not apply to any change in remuneration arising from the [Remuneration Authority (Members of Parliament) Amendment Act 2002][87].
+    (2) This principle does not apply to any change in remuneration arising from the [Remuneration Authority (Members of Parliament) Amendment Act 2002][94] or [section 16][87] or [17][95] of the Members of Parliament (Remuneration and Services) Act 2013\.
     
     Compare: SR 1974/143 r 29
     
@@ -816,15 +844,17 @@ Title \[Repealed\]
     
     Section 24(1): amended, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
-    Section 24(1): amended (with effect on 1 April 1985), on 29 October 1985, by [section 9(1)][81] of the Higher Salaries Commission Amendment Act (No 2) 1985 (1985 No 135).
+    Section 24(1): amended (with effect on 1 April 1985), on 29 October 1985, by [section 9(1)][82] of the Higher Salaries Commission Amendment Act (No 2) 1985 (1985 No 135).
     
     Section 24(1): amended, on 11 November 1982, by section 4 of the Higher Salaries Commission Amendment Act 1982 (1982 No 40).
     
-    Section 24(2): added, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+    Section 24(2): inserted, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+    
+    Section 24(2): amended, on 16 December 2013, by [section 63][96] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
 
 ##### 25 Powers of Authority
     
-*   (1) For the purpose of carrying out its functions under this Act, the Authority shall be deemed to be a commission of inquiry under the [Commissions of Inquiry Act 1908][88], and the provisions of that Act, except [sections 2][89], [4A][90], [11][91], and [12][92], shall apply accordingly.
+*   (1) For the purpose of carrying out its functions under this Act, the Authority shall be deemed to be a commission of inquiry under the [Commissions of Inquiry Act 1908][97], and the provisions of that Act, except [sections 2][98], [4A][99], [11][100], and [12][101], shall apply accordingly.
     
     (2) To enable it to carry out its functions, the Authority may require any person to furnish information concerning salaries or other conditions of employment or both for any positions, whether or not those positions are subject to the jurisdiction of the Authority under this Act.
     
@@ -852,7 +882,7 @@ Title \[Repealed\]
     
     (2) A copy of the report shall be laid before Parliament.
     
-    Section 27(1): amended, on 8 December 2009, by [section 9][93] of the Remuneration Authority Amendment Act 2009 (2009 No 65).
+    Section 27(1): amended, on 8 December 2009, by [section 9][102] of the Remuneration Authority Amendment Act 2009 (2009 No 65).
     
     Section 27(1): amended, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
 
@@ -886,19 +916,19 @@ Title \[Repealed\]
     
 *   Where any university or the University Grants Committee considers that any remuneration which it proposes to agree to, or pay, will or may tend to lead to unreasonable disparities or inappropriate relativities with remuneration determined by the Authority under [section 12][14] or [section 12A][15], it shall, before agreeing to, or committing itself to the payment of, that remuneration, consult with the Authority and have due regard to any opinions expressed by the Authority and to any relevant remuneration determined by the Authority.
     
-    Section 32: substituted, on 11 November 1982, by section 5 of the Higher Salaries Commission Amendment Act 1982 (1982 No 40).
+    Section 32: replaced, on 11 November 1982, by section 5 of the Higher Salaries Commission Amendment Act 1982 (1982 No 40).
     
     Section 32 heading: amended, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
-    Section 32: amended, on 8 December 2009, by [section 10][94] of the Remuneration Authority Amendment Act 2009 (2009 No 65).
+    Section 32: amended, on 8 December 2009, by [section 10][103] of the Remuneration Authority Amendment Act 2009 (2009 No 65).
     
     Section 32: amended, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
-    Section 32: amended, on 1 November 1989, by [section 2(7)][64] of the Higher Salaries Commission Amendment Act 1989 (1989 No 35).
+    Section 32: amended, on 1 November 1989, by [section 2(7)][65] of the Higher Salaries Commission Amendment Act 1989 (1989 No 35).
 
 ##### 33 Consequential amendments
     
-*   (1) The enactments specified in [Schedule 5][95] are hereby amended in the manner indicated in that schedule.
+*   (1) The enactments specified in [Schedule 5][104] are hereby amended in the manner indicated in that schedule.
     
     (2) Unless in any case the context otherwise requires, in any other enactment or in any regulation, order, notice, award, agreement, instrument, or other document---
         
@@ -947,7 +977,7 @@ Corporations and bodies whose highest paid executive officers' remuneration is t
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 8 December 2009, by [section 11][96] of the Remuneration Authority Amendment Act 2009 (2009 No 65).
+*   Schedule 1: repealed, on 8 December 2009, by [section 11][105] of the Remuneration Authority Amendment Act 2009 (2009 No 65).
 
 ---
 
@@ -958,7 +988,7 @@ University positions the remuneration for which is to be determined by Higher Sa
 
 \[Repealed\]
     
-*   Schedule 2: repealed, on 19 December 1989, by [section 32(1)][63] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
+*   Schedule 2: repealed, on 19 December 1989, by [section 32(1)][64] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
 
 ---
 
@@ -969,7 +999,7 @@ Local authorities whose chief executive officers' remuneration is to be determin
 
 \[Repealed\]
     
-*   Schedule 3: repealed, on 1 November 1989, by [section 2(8)][64] of the Higher Salaries Commission Amendment Act 1989 (1989 No 35).
+*   Schedule 3: repealed, on 1 November 1989, by [section 2(8)][65] of the Higher Salaries Commission Amendment Act 1989 (1989 No 35).
 
 ---
 
@@ -978,12 +1008,12 @@ Officers whose remuneration is to be determined by Authority
 
 [s 12(1)(a)(v)][14]
 
-*   Schedule 4: substituted, on 1 April 1988, by section 14 of the Higher Salaries Commission Amendment Act 1988 (1988 No 24).
+*   Schedule 4: replaced, on 1 April 1988, by section 14 of the Higher Salaries Commission Amendment Act 1988 (1988 No 24).
 *   Schedule 4 heading: amended, on 1 April 2003, by [section 3(2)][0] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
 
-The adjudicator of the Motor Vehicle Disputes Tribunal appointed under [section 83][97] of the Motor Vehicle Sales Act 2003
+The adjudicator of the Motor Vehicle Disputes Tribunal appointed under [section 83][106] of the Motor Vehicle Sales Act 2003
 
-The chair of the tribunal under the [Weathertight Homes Resolution Services Act 2006][98]
+The chair of the tribunal under the [Weathertight Homes Resolution Services Act 2006][107]
 
 The Chief of Air Force
 
@@ -995,7 +1025,7 @@ The Chief Community Magistrate
 
 The Chief of Defence Force
 
-The Chief of the Employment Relations Authority and other members of the Employment Relations Authority (being the members who hold office under [section 166][99] of the Employment Relations Act 2000)
+The Chief of the Employment Relations Authority and other members of the Employment Relations Authority (being the members who hold office under [section 166][108] of the Employment Relations Act 2000)
 
 The Chief of Navy
 
@@ -1065,40 +1095,40 @@ The Solicitor-General
 
 The State Services Commissioner and other Commissioners of the State Services Commission
     
-*   Schedule 4: amended, on 1 July 2012, by [section 7(1)][100] of the Mental Health Commission Amendment Act 2012 (2012 No 42).
-*   Schedule 4: amended, on 1 July 2011, by [section 12][101] of the Financial Reporting Amendment Act 2011 (2011 No 22).
-*   Schedule 4: amended, on 1 May 2011, by [section 82][84] of the Financial Markets Authority Act 2011 (2011 No 5).
-*   Schedule 4: amended, on 8 December 2009, by [section 12(a)][102] of the Remuneration Authority Amendment Act 2009 (2009 No 65).
-*   Schedule 4: amended, on 8 December 2009, by [section 12(b)][102] of the Remuneration Authority Amendment Act 2009 (2009 No 65).
-*   Schedule 4: amended, on 1 July 2009, by [section 30(1)][103] of the Māori Trustee Amendment Act 2009 (2009 No 12).
-*   Schedule 4: amended, on 1 July 2009, by [section 87][76] of the Court Martial Act 2007 (2007 No 101).
-*   Schedule 4: amended, on 1 July 2009, by [section 81][104] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
-*   Schedule 4: amended, on 29 November 2007, by [section 26][105] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
-*   Schedule 4: amended, on 1 July 2007, by [section 61][106] of the Sports Anti-Doping Act 2006 (2006 No 58).
-*   Schedule 4: amended, on 1 April 2007, by [section 127(6)][107] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
-*   Schedule 4: amended, on 17 May 2005, by [section 8][108] of the Defence Amendment Act 2005 (2005 No 49).
-*   Schedule 4: amended, on 25 January 2005, by [section 200][65] of the Crown Entities Act 2004 (2004 No 115).
-*   Schedule 4: amended, on 15 December 2003, by [section 145][109] of the Motor Vehicle Sales Act 2003 (2003 No 12).
-*   Schedule 4: amended, on 26 November 2003, by [section 37][110] of the Children's Commissioner Act 2003 (2003 No 121).
-*   Schedule 4: amended, on 2 April 2003, by [section 27][111] of the Government Communications Security Bureau Act 2003 (2003 No 9).
-*   Schedule 4: amended, on 1 January 2002, by [section 71(1)][112] of the Human Rights Amendment Act 2001 (2001 No 96).
-*   Schedule 4: amended, on 2 October 2000, by [section 240][113] of the Employment Relations Act 2000 (2000 No 24).
-*   Schedule 4: amended, on 1 July 2000, by [section 37][114] of the Parliamentary Service Act 2000 (2000 No 17).
+*   Schedule 4: amended, on 1 July 2012, by [section 7(1)][109] of the Mental Health Commission Amendment Act 2012 (2012 No 42).
+*   Schedule 4: amended, on 1 July 2011, by [section 12][110] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+*   Schedule 4: amended, on 1 May 2011, by [section 82][86] of the Financial Markets Authority Act 2011 (2011 No 5).
+*   Schedule 4: amended, on 8 December 2009, by [section 12(a)][111] of the Remuneration Authority Amendment Act 2009 (2009 No 65).
+*   Schedule 4: amended, on 8 December 2009, by [section 12(b)][111] of the Remuneration Authority Amendment Act 2009 (2009 No 65).
+*   Schedule 4: amended, on 1 July 2009, by [section 30(1)][112] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+*   Schedule 4: amended, on 1 July 2009, by [section 87][77] of the Court Martial Act 2007 (2007 No 101).
+*   Schedule 4: amended, on 1 July 2009, by [section 81][113] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Schedule 4: amended, on 29 November 2007, by [section 26][114] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+*   Schedule 4: amended, on 1 July 2007, by [section 61][115] of the Sports Anti-Doping Act 2006 (2006 No 58).
+*   Schedule 4: amended, on 1 April 2007, by [section 127(6)][116] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
+*   Schedule 4: amended, on 17 May 2005, by [section 8][117] of the Defence Amendment Act 2005 (2005 No 49).
+*   Schedule 4: amended, on 25 January 2005, by [section 200][66] of the Crown Entities Act 2004 (2004 No 115).
+*   Schedule 4: amended, on 15 December 2003, by [section 145][118] of the Motor Vehicle Sales Act 2003 (2003 No 12).
+*   Schedule 4: amended, on 26 November 2003, by [section 37][119] of the Children's Commissioner Act 2003 (2003 No 121).
+*   Schedule 4: amended, on 2 April 2003, by [section 27][120] of the Government Communications Security Bureau Act 2003 (2003 No 9).
+*   Schedule 4: amended, on 1 January 2002, by [section 71(1)][121] of the Human Rights Amendment Act 2001 (2001 No 96).
+*   Schedule 4: amended, on 2 October 2000, by [section 240][122] of the Employment Relations Act 2000 (2000 No 24).
+*   Schedule 4: amended, on 1 July 2000, by [section 37][123] of the Parliamentary Service Act 2000 (2000 No 17).
 *   Schedule 4: amended, on 1 July 1999, by section 415(1) of the Accident Insurance Act 1998 (1998 No 114).
-*   Schedule 4: amended, on 3 July 1998, by [section 10][115] of the Disputes Tribunals Amendment Act 1998 (1998 No 84).
-*   Schedule 4: amended, on 30 June 1998, by [section 7][116] of the District Courts Amendment Act 1998 (1998 No 76).
-*   Schedule 4: amended, on 21 October 1994, by [section 77(1)(a)][117] of the Health and Disability Commissioner Act 1994 (1994 No 88).
-*   Schedule 4: amended, on 21 October 1994, by [section 77(1)(b)][117] of the Health and Disability Commissioner Act 1994 (1994 No 88).
-*   Schedule 4: amended, on 1 October 1994, by [section 150(1)][118] of the Films, Videos, and Publications Classification Act 1993 (1993 No 94).
-*   Schedule 4: amended, on 1 July 1994, by [section 273][119] of the Electoral Act 1993 (1993 No 87).
+*   Schedule 4: amended, on 3 July 1998, by [section 10][124] of the Disputes Tribunals Amendment Act 1998 (1998 No 84).
+*   Schedule 4: amended, on 30 June 1998, by [section 7][125] of the District Courts Amendment Act 1998 (1998 No 76).
+*   Schedule 4: amended, on 21 October 1994, by [section 77(1)(a)][126] of the Health and Disability Commissioner Act 1994 (1994 No 88).
+*   Schedule 4: amended, on 21 October 1994, by [section 77(1)(b)][126] of the Health and Disability Commissioner Act 1994 (1994 No 88).
+*   Schedule 4: amended, on 1 October 1994, by [section 150(1)][127] of the Films, Videos, and Publications Classification Act 1993 (1993 No 94).
+*   Schedule 4: amended, on 1 July 1994, by [section 273][128] of the Electoral Act 1993 (1993 No 87).
 *   Schedule 4: amended, on 1 April 1994, by section 19 of the Retirement Income Act 1993 (1993 No 148).
-*   Schedule 4: amended, on 1 July 1993, by [section 129(1)][120] of the Privacy Act 1993 (1993 No 28).
+*   Schedule 4: amended, on 1 July 1993, by [section 129(1)][129] of the Privacy Act 1993 (1993 No 28).
 *   Schedule 4: amended, on 15 May 1991, by section 160(2)(a) of the Employment Contracts Act 1991 (1991 No 22).
 *   Schedule 4: amended, on 15 May 1991, by section 160(2)(b) of the Employment Contracts Act 1991 (1991 No 22).
-*   Schedule 4: amended, on 1 January 1991, by [section 64][121] of the Fire Service Amendment Act 1990 (1990 No 136).
-*   Schedule 4: amended, on 19 December 1989, pursuant to [section 33(3)][122] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
+*   Schedule 4: amended, on 1 January 1991, by [section 64][130] of the Fire Service Amendment Act 1990 (1990 No 136).
+*   Schedule 4: amended, on 19 December 1989, pursuant to [section 33(3)][131] of the State Sector Amendment Act (No 2) 1989 (1989 No 136).
 *   Schedule 4: amended, on 1 January 1989, by section 9 of the Treaty of Waitangi Amendment Act 1988 (1988 No 233).
-*   Schedule 4: amended, on 2 May 1988, by [clause 3][123] of the Higher Salaries Commission (Jurisdiction) Order 1988 (SR 1988/78).
+*   Schedule 4: amended, on 2 May 1988, by [clause 3][132] of the Higher Salaries Commission (Jurisdiction) Order 1988 (SR 1988/78).
 
 ---
 
@@ -1191,83 +1221,85 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][124] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][125] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][133] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][134] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][126] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][127] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][135] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][136] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][78]
+*   Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93): [sections 60--63][62]
     
-    Mental Health Commission Amendment Act 2012 (2012 No 42): [section 7(1)][100]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][79]
+    
+    Mental Health Commission Amendment Act 2012 (2012 No 42): [section 7(1)][109]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][56]
     
-    Financial Reporting Amendment Act 2011 (2011 No 22): [section 12][101]
+    Financial Reporting Amendment Act 2011 (2011 No 22): [section 12][110]
     
-    Financial Markets Authority Act 2011 (2011 No 5): [section 82][84]
+    Financial Markets Authority Act 2011 (2011 No 5): [section 82][86]
     
-    [Remuneration Authority Amendment Act 2009][128] (2009 No 65)
+    [Remuneration Authority Amendment Act 2009][137] (2009 No 65)
     
-    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(1)][103]
+    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(1)][112]
     
-    Court Martial Act 2007 (2007 No 101): [section 87][76]
+    Court Martial Act 2007 (2007 No 101): [section 87][77]
     
-    Court Martial Appeals Amendment Act 2007 (2007 No 99): [section 35][74]
+    Court Martial Appeals Amendment Act 2007 (2007 No 99): [section 35][75]
     
-    Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98): [section 81][104]
+    Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98): [section 81][113]
     
-    Independent Police Conduct Authority Amendment Act 2007 (2007 No 38): [section 26][105]
+    Independent Police Conduct Authority Amendment Act 2007 (2007 No 38): [section 26][114]
     
-    Weathertight Homes Resolution Services Act 2006 (2006 No 84): [section 127(6)][107]
+    Weathertight Homes Resolution Services Act 2006 (2006 No 84): [section 127(6)][116]
     
-    Sports Anti-Doping Act 2006 (2006 No 58): [section 61][106]
+    Sports Anti-Doping Act 2006 (2006 No 58): [section 61][115]
     
-    Coroners Act 2006 (2006 No 38): [section 146][77]
+    Coroners Act 2006 (2006 No 38): [section 146][78]
     
-    Defence Amendment Act 2005 (2005 No 49): [section 8][108]
+    Defence Amendment Act 2005 (2005 No 49): [section 8][117]
     
-    Crown Entities Act 2004 (2004 No 115): [section 200][65]
+    Crown Entities Act 2004 (2004 No 115): [section 200][66]
     
-    Children's Commissioner Act 2003 (2003 No 121): [section 37][110]
+    Children's Commissioner Act 2003 (2003 No 121): [section 37][119]
     
-    Supreme Court Act 2003 (2003 No 53): [section 48(1)][73]
+    Supreme Court Act 2003 (2003 No 53): [section 48(1)][74]
     
-    Motor Vehicle Sales Act 2003 (2003 No 12): [section 145][109]
+    Motor Vehicle Sales Act 2003 (2003 No 12): [section 145][118]
     
-    Government Communications Security Bureau Act 2003 (2003 No 9): [section 27][111]
+    Government Communications Security Bureau Act 2003 (2003 No 9): [section 27][120]
     
-    [Remuneration Authority (Members of Parliament) Amendment Act 2002][87] (2002 No 54)
+    [Remuneration Authority (Members of Parliament) Amendment Act 2002][94] (2002 No 54)
     
-    Human Rights Amendment Act 2001 (2001 No 96): [sections 70(1)][55], [71(1)][112]
+    Human Rights Amendment Act 2001 (2001 No 96): [sections 70(1)][55], [71(1)][121]
     
-    Government Superannuation Fund Amendment Act 2001 (2001 No 47): [section 40][83]
+    Government Superannuation Fund Amendment Act 2001 (2001 No 47): [section 40][85]
     
-    Employment Relations Act 2000 (2000 No 24): [section 240][113]
+    Employment Relations Act 2000 (2000 No 24): [section 240][122]
     
-    Parliamentary Service Act 2000 (2000 No 17): [section 37][114]
+    Parliamentary Service Act 2000 (2000 No 17): [section 37][123]
     
     Accident Insurance Act 1998 (1998 No 114): section 415(1)
     
-    Disputes Tribunals Amendment Act 1998 (1998 No 84): [section 10][115]
+    Disputes Tribunals Amendment Act 1998 (1998 No 84): [section 10][124]
     
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][116]
+    District Courts Amendment Act 1998 (1998 No 76): [section 7][125]
     
-    Resource Management Amendment Act 1996 (1996 No 160): [section 6(2)(b)][75]
+    Resource Management Amendment Act 1996 (1996 No 160): [section 6(2)(b)][76]
     
-    Government Superannuation Fund Amendment Act 1995 (1995 No 28): [section 32][66]
+    Government Superannuation Fund Amendment Act 1995 (1995 No 28): [section 32][67]
     
-    Health and Disability Commissioner Act 1994 (1994 No 88): [section 77(1)][117]
+    Health and Disability Commissioner Act 1994 (1994 No 88): [section 77(1)][126]
     
     Retirement Income Act 1993 (1993 No 148): section 19
     
-    Films, Videos, and Publications Classification Act 1993 (1993 No 94): [section 150(1)][118]
+    Films, Videos, and Publications Classification Act 1993 (1993 No 94): [section 150(1)][127]
     
-    Electoral Act 1993 (1993 No 87): [section 273][119]
+    Electoral Act 1993 (1993 No 87): [section 273][128]
     
-    Privacy Act 1993 (1993 No 28): [section 129(1)][120]
+    Privacy Act 1993 (1993 No 28): [section 129(1)][129]
     
     Higher Salaries Commission Amendment Act (No 2) 1992 (1992 No 130)
     
@@ -1275,23 +1307,23 @@ _Amendment(s) incorporated in the Act(s)_.
     
     Employment Contracts Act 1991 (1991 No 22): section 160(2)
     
-    Fire Service Amendment Act 1990 (1990 No 136): [section 64][121]
+    Fire Service Amendment Act 1990 (1990 No 136): [section 64][130]
     
-    State Sector Amendment Act (No 2) 1989 (1989 No 136): [sections 32(1)][63], [33(3)][122]
+    State Sector Amendment Act (No 2) 1989 (1989 No 136): [sections 32(1)][64], [33(3)][131]
     
-    [Higher Salaries Commission Amendment Act 1989][129] (1989 No 35)
+    [Higher Salaries Commission Amendment Act 1989][138] (1989 No 35)
     
     Treaty of Waitangi Amendment Act 1988 (1988 No 233): section 9
     
-    [Higher Salaries Commission (Jurisdiction) Order 1988][130] (SR 1988/78)
+    [Higher Salaries Commission (Jurisdiction) Order 1988][139] (SR 1988/78)
     
     Higher Salaries Commission Amendment 1988 (1988 No 24)
     
     State Sector Act 1988 (1988 No 20): [section 90(a)][54]
     
-    Economic Stabilisation Act Repeal Act 1987 (1987 No 126): [section 3(2)][86]
+    Economic Stabilisation Act Repeal Act 1987 (1987 No 126): [section 3(2)][93]
     
-    [Higher Salaries Commission Amendment Act (No 2) 1985][131] (1985 No 135)
+    [Higher Salaries Commission Amendment Act (No 2) 1985][140] (1985 No 135)
     
     Higher Salaries Commission Amendment Act 1983 (1983 No 125)
     
@@ -1359,77 +1391,86 @@ _Amendment(s) incorporated in the Act(s)_.
 [55]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM122579
 [56]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM3360714
 [57]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM264952
-[58]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM32049
+[58]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM4034212
 [59]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM329975
 [60]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM447560
 [61]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM143291
-[62]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2337715
-[63]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM194741
-[64]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM160805
-[65]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM331111
-[66]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM366272
-[67]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM242975
-[68]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM447249
-[69]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM447352
-[70]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM447398
-[71]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2997643
-[72]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2998573
-[73]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM214522
-[74]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM1001866
-[75]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM407465
-[76]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM1002056
-[77]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM378303
-[78]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2998633
-[79]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2337716
-[80]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM430704
-[81]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM81011
-[82]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2337717
-[83]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM99003
-[84]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM3231793
-[85]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2337711
-[86]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM119799
-[87]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM167436
-[88]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM139130
-[89]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM139140
-[90]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM139150
-[91]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM139172
-[92]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM139174
-[93]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2337718
-[94]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2337719
-[95]: http://www.legislation.govt.nz/act/public/1977/0110/latest/whole.html#DLM16606
-[96]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2337720
-[97]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM188858
-[98]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM403529
-[99]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM60949
-[100]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM4484313
-[101]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM3701759
-[102]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2337721
-[103]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM1583888
-[104]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM1034362
-[105]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM967974
-[106]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM390404
-[107]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM404184
-[108]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM347663
-[109]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM188945
-[110]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM230914
-[111]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM187858
-[112]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM122581
-[113]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM61487
-[114]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM56325
-[115]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM428172
-[116]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM427920
-[117]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM334178
-[118]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM314425
-[119]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM310806
-[120]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM298439
-[121]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM227844
-[122]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM194742
-[123]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM123887
-[124]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2998516
-[125]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2998515
-[126]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2998532
-[127]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[128]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2337700
-[129]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM159299
-[130]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM123881
-[131]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM80592
+[62]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM4034646
+[63]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2337715
+[64]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM194741
+[65]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM160805
+[66]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM331111
+[67]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM366272
+[68]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM242975
+[69]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM447249
+[70]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM447352
+[71]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM447398
+[72]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2997643
+[73]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2998573
+[74]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM214522
+[75]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM1001866
+[76]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM407465
+[77]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM1002056
+[78]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM378303
+[79]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2998633
+[80]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2337716
+[81]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM430704
+[82]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM81011
+[83]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2337717
+[84]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM4034647
+[85]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM99003
+[86]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM3231793
+[87]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM4034280
+[88]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM4034290
+[89]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM4034299
+[90]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM5224500
+[91]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM4034648
+[92]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2337711
+[93]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM119799
+[94]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM167436
+[95]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM4034282
+[96]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM4034649
+[97]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM139130
+[98]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM139140
+[99]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM139150
+[100]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM139172
+[101]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM139174
+[102]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2337718
+[103]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2337719
+[104]: http://www.legislation.govt.nz/act/public/1977/0110/latest/whole.html#DLM16606
+[105]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2337720
+[106]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM188858
+[107]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM403529
+[108]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM60949
+[109]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM4484313
+[110]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM3701759
+[111]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2337721
+[112]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM1583888
+[113]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM1034362
+[114]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM967974
+[115]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM390404
+[116]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM404184
+[117]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM347663
+[118]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM188945
+[119]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM230914
+[120]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM187858
+[121]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM122581
+[122]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM61487
+[123]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM56325
+[124]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM428172
+[125]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM427920
+[126]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM334178
+[127]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM314425
+[128]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM310806
+[129]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM298439
+[130]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM227844
+[131]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM194742
+[132]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM123887
+[133]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2998516
+[134]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2998515
+[135]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2998532
+[136]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[137]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM2337700
+[138]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM159299
+[139]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM123881
+[140]: http://www.legislation.govt.nz/act/public/1977/0110/latest/link.aspx?id=DLM80592
