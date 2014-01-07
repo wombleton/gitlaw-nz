@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 16 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -42,7 +42,7 @@ This Act is administered by the Parliamentary Service.
 
 [3D][9][][9][Opinion given by Electoral Commission may be taken into account in determining whether advertisement is election advertisement][9]
 
-[3E][10][][10][Interpretation of determinations under section 20A of Civil List Act 1979][10]
+[3E][10][][10][Interpretation of determinations and directions under Members of Parliament (Remuneration and Services) Act 2013][10]
 
 [Purposes][11]
 
@@ -59,17 +59,17 @@ This Act is administered by the Parliamentary Service.
 
 [7][17][][17][Principal duties of Parliamentary Service][17]
 
-[8][18][][18][Services provided in accordance with Speaker's directions][18]
+[8][18][][18][Services and administration of funding in accordance with Members of Parliament (Remuneration and Services) Act 2013, determinations and directions, etc][18]
 
 [9][19][][19][Other functions of Parliamentary Service][19]
 
-[9A][20][][20][Application of section 9C to electoral candidates][20]
+[9A][20][][20][Application of section 9C to electoral candidates][20] \[Repealed\]
 
-[9B][21][][21][Speaker may give directions for provision of services and funding for parliamentary purposes in relation to certain electoral candidates][21]
+[9B][21][][21][Speaker may give directions for provision of services and funding for parliamentary purposes in relation to certain electoral candidates][21] \[Repealed\]
 
-[9C][22][][22][Provision of services and funding for parliamentary purposes in relation to certain electoral candidates][22]
+[9C][22][][22][Provision of services and funding for parliamentary purposes in relation to certain electoral candidates][22] \[Repealed\]
 
-[9D][23][][23][Speaker to take into account advice and recommendations of Commission][23]
+[9D][23][][23][Speaker to take into account advice and recommendations of Commission][23] \[Repealed\]
 
 [General Manager of Parliamentary Service][24]
 
@@ -102,7 +102,7 @@ This Act is administered by the Parliamentary Service.
 
 [Review committee][38]
 
-[20][39][][39][Establishment of committee to review appropriations][39]
+[20][39][][39][Establishment of committee to review annual appropriations][39]
 
 [21][40][][40][Work of review committee][40]
 
@@ -248,13 +248,17 @@ Preliminary provisions
     
     _Public Service_ has the same meaning as in [section 2][75] of the State Sector Act 1988
     
+    _qualifying electoral candidate_ has the same meaning as in [section 5][78] of the Members of Parliament (Remuneration and Services) Act 2013
+    
     _recognised party_ means a political party for the time being recognised for parliamentary purposes under the Standing Orders of the House of Representatives
     
     _referendum advertisement_ means an advertisement in any medium that may reasonably be regarded as encouraging or persuading voters to vote, or not to vote, in a particular way in a government initiated referendum
     
-    _regulated period_, in relation to a general election, has the meaning given to it by [section 3B(2) and (3)][78] of the Electoral Act 1993 (as inserted by [section 5][77] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010)
+    _regulated period_, in relation to a general election, has the meaning given to it by [section 3B(2) and (3)][79] of the Electoral Act 1993 (as inserted by [section 5][77] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010)
     
     _regulated period_, in relation to a government initiated referendum, means the period (if any) specified in an enactment as being the regulated period for the referendum
+    
+    _Remuneration Authority_ has the same meaning as in [section 5][78] of the Members of Parliament (Remuneration and Services) Act 2013
     
     _review committee_ means a committee that is for the time being established under [section 20][39]
     
@@ -266,19 +270,23 @@ Preliminary provisions
     
     _support services_ includes the provision of accommodation.
     
-    Section 3 **election advertisement**: inserted, on 1 January 2011, by [section 5][79] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
+    Section 3 **election advertisement**: inserted, on 1 January 2011, by [section 5][80] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
     
-    Section 3 **electioneering**: inserted, on 1 January 2011, by [section 5][79] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
+    Section 3 **electioneering**: inserted, on 1 January 2011, by [section 5][80] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
     
-    Section 3 **funding entitlements for parliamentary purposes**: inserted, on 1 January 2011, by [section 5][79] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
+    Section 3 **funding entitlements for parliamentary purposes**: inserted, on 1 January 2011, by [section 5][80] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
     
-    Section 3 **government initiated referendum**: inserted, on 1 January 2011, by [section 5][79] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
+    Section 3 **government initiated referendum**: inserted, on 1 January 2011, by [section 5][80] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
     
-    Section 3 **referendum advertisement**: inserted, on 1 January 2011, by [section 5][79] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
+    Section 3 **qualifying electoral candidate**: inserted, on 16 December 2013, by [section 48][81] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
     
-    Section 3 **regulated period** (in relation to a general election): inserted, on 1 January 2011, by [section 5][79] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
+    Section 3 **referendum advertisement**: inserted, on 1 January 2011, by [section 5][80] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
     
-    Section 3 **regulated period** (in relation to a government initiated referendum): inserted, on 1 January 2011, by [section 5][79] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
+    Section 3 **regulated period** (in relation to a general election): inserted, on 1 January 2011, by [section 5][80] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
+    
+    Section 3 **regulated period** (in relation to a government initiated referendum): inserted, on 1 January 2011, by [section 5][80] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
+    
+    Section 3 **Remuneration Authority**: inserted, on 16 December 2013, by [section 48][81] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
 
 ##### 3A Meaning of publish in sections 3B and 3C
     
@@ -312,7 +320,7 @@ Preliminary provisions
     
     *   (b) excluding addressing 1 or more persons face to face.
     
-    Section 3A: inserted, on 1 January 2011, by [section 6][80] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
+    Section 3A: inserted, on 1 January 2011, by [section 6][82] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
 
 ##### 3B Meaning of funding entitlements for parliamentary purposes
     
@@ -322,13 +330,15 @@ Preliminary provisions
     
     *   (b) the performance by a recognised party of its role and functions as a recognised party:
     
-    *   (c) the provision of travel, accommodation, and attendance services in accordance with any determination made by the Speaker of the House of Representatives under [section 20A][81] of the Civil List Act 1979, or any direction given by the Speaker of the House of Representatives under this Act:
+    *   (c) the provision of accommodation services for members of Parliament and qualifying electoral candidates and travel services for family members of those persons in accordance with a determination made by the Remuneration Authority under [section 17(1)][83] of the Members of Parliament (Remuneration and Services) Act 2013:
     
-    *   (d) the provision of communications services (other than services including electioneering) in accordance with any determination made by the Speaker of the House of Representatives under [section 20A][81] of the Civil List Act 1979, or any direction given by the Speaker of the House of Representatives under this Act:
+    *   (d) the provision of travel services for members of Parliament and qualifying electoral candidates in accordance with directions issued by the Speaker under [section 23(1)(a)][84] of the Members of Parliament (Remuneration and Services) Act 2013:
     
-    *   (e) the provision of services and resources to support electoral candidates to whom [section 9C][22] applies in accordance with directions given by the Speaker under [section 9B][21]:
+    *   (e) the provision of communications services (other than services including electioneering) in accordance with directions issued by the Speaker under [section 23(1)(c)][84] of the Members of Parliament (Remuneration and Services) Act 2013:
     
-    *   (f) the provision of benefits or privileges of a specified kind for former members of Parliament and members of their families in accordance with an appropriation by Parliament of money for that purpose.
+    *   (f) the provision of travel services in accordance with directions issued by the Speaker under [section 23(1)(f)][84] of the Members of Parliament (Remuneration and Services) Act 2013:
+    
+    *   (g) the provision of services and resources to qualifying electoral candidates in accordance with directions issued by the Speaker under [section 23][84] of the Members of Parliament (Remuneration and Services) Act 2013\.
     
     (2) However, _funding entitlements for parliamentary purposes_ does not include funding for---
         
@@ -342,7 +352,7 @@ Preliminary provisions
         
         *   (iv) solicits subscriptions or other financial support; or
         
-        *   (v) seeks support for casting a vote for one of the answers to the precise question to be put to voters in an indicative referendum initiated under the [Citizens Initiated Referenda Act 1993][82]; or
+        *   (v) seeks support for casting a vote for one of the answers to the precise question to be put to voters in an indicative referendum initiated under the [Citizens Initiated Referenda Act 1993][85]; or
         
         *   (vi) seeks support for casting a vote for one of the responses to a proposal to be put to electors in a government initiated referendum; or
         
@@ -352,11 +362,25 @@ Preliminary provisions
     
     *   (c) a referendum advertisement published during the regulated period in relation to a government initiated referendum, regardless of whether all or any part of an expense in relation to the advertisement is incurred or paid before, during, or after that regulated period; or
     
-    *   (d) the provision of travel, accommodation, and communications services in accordance with any determination made by the Speaker of the House of Representatives under [section 20A][81] of the Civil List Act 1979 in respect of members of Parliament participating in the official inter-parliamentary travel programme.
+    *   (d) the provision of travel, accommodation, and communications services in accordance with any determination made by the Speaker of the House of Representatives under [section 34][86] of the Members of Parliament (Remuneration and Services) Act 2013 in respect of members of Parliament participating in the official inter-parliamentary relations programme.
     
     (3) Subsection (2)(b) and (c) are subject to [section 3C][8].
     
-    Section 3B: inserted, on 1 January 2011, by [section 6][80] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
+    Section 3B: inserted, on 1 January 2011, by [section 6][82] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
+    
+    Section 3B(1)(c): replaced, on 16 December 2013, by [section 49(1)][87] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
+    
+    Section 3B(1)(d): replaced, on 16 December 2013, by [section 49(1)][87] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
+    
+    Section 3B(1)(e): replaced, on 16 December 2013, by [section 49(1)][87] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
+    
+    Section 3B(1)(f): replaced, on 16 December 2013, by [section 49(1)][87] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
+    
+    Section 3B(1)(g): inserted, on 16 December 2013, by [section 49(1)][87] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
+    
+    Section 3B(2)(d): amended, on 16 December 2013, by [section 49(2)(a)][87] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
+    
+    Section 3B(2)(d): amended, on 16 December 2013, by [section 49(2)(b)][87] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
 
 ##### 3C Apportionment of funding for election advertisement or referendum advertisement published both before and during regulated period
     
@@ -386,23 +410,23 @@ Preliminary provisions
     
     *   (c) expenditure under Vote Parliamentary Service in respect of the publication of the advertisement is invalid only to the extent, and from the date, that expenses are attributed to the publication of the advertisement during the regulated period in accordance with paragraph (a).
     
-    Section 3C: inserted, on 1 January 2011, by [section 6][80] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
+    Section 3C: inserted, on 1 January 2011, by [section 6][82] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
 
 ##### 3D Opinion given by Electoral Commission may be taken into account in determining whether advertisement is election advertisement
     
-*   An opinion given to any person by the Electoral Commission under [section 204I(3)][83] of the Electoral Act 1993 (as inserted by [section 7][84] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010) may be taken into account in determining whether an advertisement is an election advertisement for the purposes of [section 3B(2)(b)][7] of this Act.
+*   An opinion given to any person by the Electoral Commission under [section 204I(3)][88] of the Electoral Act 1993 (as inserted by [section 7][89] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010) may be taken into account in determining whether an advertisement is an election advertisement for the purposes of [section 3B(2)(b)][7] of this Act.
     
-    Section 3D: inserted, on 1 January 2011, by [section 6][80] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
+    Section 3D: inserted, on 1 January 2011, by [section 6][82] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
 
-##### 3E Interpretation of determinations under section 20A of Civil List Act 1979
+##### 3E Interpretation of determinations and directions under Members of Parliament (Remuneration and Services) Act 2013
     
-*   All determinations made by the Speaker under [section 20A][81] of the Civil List Act 1979 must be interpreted consistently with [sections 3B][7] and [3C][8].
+*   Every determination made by the Remuneration Authority under [section 17][83] of the Members of Parliament (Remuneration and Services) Act 2013 and all directions issued by the Speaker under [section 23][84] of that Act must be interpreted consistently with [sections 3B][7] and [3C][8] of this Act.
     
-    Section 3E: inserted, on 1 January 2011, by [section 6][80] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
+    Section 3E: replaced, on 16 December 2013, by [section 50][90] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
 
 #### Purposes
     
-*   Heading: inserted, on 1 January 2011, by [section 7][85] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
+*   Heading: inserted, on 1 January 2011, by [section 7][91] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
 
 ##### 4 Purposes of this Act
     
@@ -414,11 +438,11 @@ Preliminary provisions
     
     *   (c) to reconstitute the Parliamentary Service Commission as a policy body:
     
-    *   (d) to provide for regular, independent reviews of the amounts of money appropriated for services and funding entitlements for parliamentary purposes:
+    *   (d) to provide for regular and independent reviews of the amounts appropriated in Appropriation Acts for services and funding to support the parliamentary operations of members of Parliament, parties, and qualifying electoral candidates:
     
     *   (e) to provide for the ownership and control of land and other assets held for parliamentary purposes.
     
-    
+    Section 4(d): replaced, on 16 December 2013, by [section 51][92] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
 
 ##### 5 Act to bind the Crown
     
@@ -445,21 +469,35 @@ Delivery of services and funding entitlements for House of Representatives and i
         
     *   (a) to provide administrative and support services to the House of Representatives and to members of Parliament; and
     
-    *   (b) to administer, in accordance with directions given by the Speaker, the payment of funding entitlements for parliamentary purposes.
+    *   (b) to administer the payment of funding entitlements for parliamentary purposes, except those funding entitlements for parliamentary purposes that the Speaker and the Minister who is, with the authority of the Prime Minister, for the time being responsible for Ministerial Services agree should not be administered by the Parliamentary Service; and
+    
+    *   (c) to administer the entitlements of members of the Executive under [Part 3][93] of the Members of Parliament (Remuneration and Services) Act 2013 that the Speaker and the Minister who is, with the authority of the Prime Minister, for the time being responsible for Ministerial Services agree should be administered by the Parliamentary Service; and
+    
+    *   (d) to administer the payment of the travel entitlements of former members of Parliament.
     
     Compare: 1985 No 128 s 4(1)
+    
+    Section 7(b): replaced, on 16 December 2013, by [section 52][94] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
+    
+    Section 7(c): inserted, on 16 December 2013, by [section 52][94] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
+    
+    Section 7(d): inserted, on 16 December 2013, by [section 52][94] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
 
-##### 8 Services provided in accordance with Speaker's directions
+##### 8 Services and administration of funding in accordance with Members of Parliament (Remuneration and Services) Act 2013, determinations and directions, etc
     
-*   (1) The Speaker must, in each financial year, give the Parliamentary Service written directions as to both---
+*   (1) In carrying out its duties under[section 7(a) to (c)][17], the Parliamentary Service must act in accordance with---
         
-    *   (a) the nature of the services to be provided, under [section 7(a)][17], in the next financial year; and
+    *   (a) [Part 3][93] of the Members of Parliament (Remuneration and Services) Act 2013 and the determinations made, directions issued, and procedures prescribed under that Part; and
     
-    *   (b) the objectives to be achieved by the Service by providing those services.
+    *   (b) directions issued by the Speaker under subsection (3) in respect of services to be provided to the House of Representatives.
     
-    (2) The Service must act in accordance with those directions.
+    (2) In carrying out its duties under [section 7(d)][17], the Parliamentary Service must act in accordance with [sections 39 to 42][95] of the Members of Parliament (Remuneration and Services) Act 2013 and determinations made by the Remuneration Authority under [section 41][96] of that Act. 
     
-    (3) Whenever the Speaker proposes to give directions under subsection (1) or [section 7][17], the Speaker must take into account any relevant advice and any relevant recommendation given or made by the Parliamentary Service Commission under [section 14(1)(a) or (b)][32].
+    (3) The Speaker must, in each financial year, issue directions to the Parliamentary Service as to the nature of the administrative and support services to be provided to the House of Representatives and the objectives to be achieved by the Service in providing those services.
+    
+    (4) The Speaker must take into account any relevant advice and any relevant recommendation of the Parliamentary Service Commission given under [section 14(1)][32] before issuing directions under subsection (3).
+    
+    Section 8: replaced, on 16 December 2013, by [section 53][97] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
 
 ##### 9 Other functions of Parliamentary Service
     
@@ -481,97 +519,27 @@ Delivery of services and funding entitlements for House of Representatives and i
 
 ##### 9A Application of section 9C to electoral candidates
     
-*   (1) If a person vacates the office of member of Parliament under [section 54(1)(b) or (2)(b)][86] of the Electoral Act 1993 at the close of a polling day but is a candidate in the general election concerned, [section 9C][22] applies to him or her at any time if (and only if) the time is between the close of the polling day and---
-        
-    *   (a) in the case of a person who is a candidate for a seat in the House of Representatives representing an electoral district, the day on which a person (whether that person or some other person) is, under [section 179][87] of the Electoral Act 1993, declared elected to represent the district:
+*   \[Repealed\]
     
-    *   (b) in the case of a person whose name is specified in a party list, the day on which, under [section 193(5)][88] of the Electoral Act 1993, the Electoral Commission declares candidates to be elected in the election.
-    
-    (2) If a candidate at a by-election is the former member of Parliament whose vacation of the seat concerned caused the by-election to be required, [section 9C][22] applies to him or her at any time if (and only if) the time is between the close of the polling day and the day on which a person (whether that person or some other person) is, under [section 179][87] of the Electoral Act 1993, declared elected to represent the district concerned.
-    
-    (3) If a candidate at a general election for a seat in the House of Representatives representing an electoral district did not vacate the office of member of Parliament under [section 54(1)(b) or (2)(b)][86] of the Electoral Act 1993 at the close of the polling day for the election, [section 9C][22] applies to him or her at any time if (and only if)---
-        
-    *   (a) the preliminary results made available by the Electoral Commission on polling day or the day after indicate that---
-            
-        *   (i) he or she received more votes than any other candidate for the seat; or
-        
-        *   (ii) he or she is one of 2 or more candidates who received a number of votes that is equal, and greater than the number of votes received by any other candidate for the seat; and
-        
-        
-    
-    *   (b) the time is between the close of polling day and the day on which a person (whether that person or some other person) is, under [section 179][87] of the Electoral Act 1993, declared elected to represent the district.
-    
-    (4) If a candidate at a general election whose name is specified in a party list did not vacate the office of member of Parliament under [section 54(1)(b) or (2)(b)][86] of the Electoral Act 1993 at the close of the polling day for the election, [section 9C][22] applies to him or her at any time if (and only if)---
-        
-    *   (a) the preliminary results made available by the Electoral Commission on polling day or the day after indicate that the Electoral Commission would under [section 193(5)][88] of the Electoral Act 1993 declare him or her to be elected in the election if the results of the official count were the same as those preliminary results; and
-    
-    *   (b) the time is between the close of polling day and the day on which, under [section 193(5)][88] of the Electoral Act 1993, the Electoral Commission declares candidates to be elected in the election.
-    
-    (5) If a candidate at a by-election is neither a member of Parliament nor the former member of Parliament whose vacation of the seat concerned caused the by-election to be required, [section 9C][22] applies to him or her at any time if (and only if)---
-        
-    *   (a) the preliminary results made available by the Electoral Commission on polling day or the day after indicate that---
-            
-        *   (i) he or she received more votes than any other candidate for the seat; or
-        
-        *   (ii) he or she is one of 2 or more candidates who received a number of votes that is equal, and greater than the number of votes received by any other candidate for the seat; and
-        
-        
-    
-    *   (b) the time is between the close of polling day and the day on which a person (whether that person or some other person) is, under [section 179][87] of the Electoral Act 1993, declared elected to represent the district.
-    
-    Section 9A: inserted, on 13 August 2008, by [section 4][89] of the Parliamentary Service Amendment Act 2008 (2008 No 57).
-    
-    Section 9A(1)(b): amended, on 1 October 2010, by [section 32(1)(b)][90] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
-    
-    Section 9A(3)(a): amended, on 1 October 2010, by [section 32(1)(b)][90] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
-    
-    Section 9A(4)(a): amended, on 1 October 2010, by [section 32(1)(b)][90] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
-    
-    Section 9A(4)(b): amended, on 1 October 2010, by [section 32(1)(b)][90] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
-    
-    Section 9A(5)(a): amended, on 1 October 2010, by [section 32(1)(b)][90] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
+    Section 9A: repealed, on 16 December 2013, by [section 54][98] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
 
 ##### 9B Speaker may give directions for provision of services and funding for parliamentary purposes in relation to certain electoral candidates
     
-*   (1) The Speaker may give directions on the extent to which administrative and support services are to be provided, and how the payment of funding entitlements for parliamentary purposes is to be administered, in relation to people to whom [section 9C][22] applies.
+*   \[Repealed\]
     
-    (2) Directions---
-        
-    *   (a) may apply to all people to whom [section 9C][22] applies, or may apply differently to---
-            
-        *   (i) people of different descriptions:
-        
-        *   (ii) the holders or former holders of different offices; and
-        
-        
-    
-    *   (b) may state criteria to which the General Manager is to have regard in providing services and administering the payment of funding entitlements for parliamentary purposes.
-    
-    (3) A direction may provide that the General Manager is to determine whether some or all of the criteria stated in it have been met.
-    
-    Section 9B: inserted, on 13 August 2008, by [section 4][89] of the Parliamentary Service Amendment Act 2008 (2008 No 57).
+    Section 9B: repealed, on 16 December 2013, by [section 54][98] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
 
 ##### 9C Provision of services and funding for parliamentary purposes in relation to certain electoral candidates
     
-*   While (by virtue of [section 9A][20]) this section applies to a person,---
-        
-    *   (a) administrative and support services must be provided in respect of him or her in accordance with directions under [section 9B(1)][21]; and
+*   \[Repealed\]
     
-    *   (b) the payment of funding entitlements for parliamentary purposes must be administered accordingly.
-    
-    Section 9C: inserted, on 13 August 2008, by [section 4][89] of the Parliamentary Service Amendment Act 2008 (2008 No 57).
+    Section 9C: repealed, on 16 December 2013, by [section 54][98] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
 
 ##### 9D Speaker to take into account advice and recommendations of Commission
     
-*   (1) It is a function of the Parliamentary Service Commission to advise the Speaker on---
-        
-    *   (a) the nature of the services to be provided under [section 9C(a)][22]; and
+*   \[Repealed\]
     
-    *   (b) the objectives to be achieved by the Service by providing those services.
-    
-    (2) In giving directions under [section 9B(1)][21], the Speaker must take into account any relevant advice and any relevant recommendation given or made by the Parliamentary Service Commission under subsection (1).
-    
-    Section 9D: inserted, on 13 August 2008, by [section 4][89] of the Parliamentary Service Amendment Act 2008 (2008 No 57).
+    Section 9D: repealed, on 16 December 2013, by [section 54][98] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
 
 #### General Manager of Parliamentary Service
 
@@ -583,7 +551,7 @@ Delivery of services and funding entitlements for House of Representatives and i
 
 ##### 11 Principal responsibilities of General Manager
     
-*   The General Manager is responsible to the Speaker for each of the following matters:
+*   (1) The General Manager is responsible to the Speaker for each of the following matters:
         
     *   (a) the carrying out of the duties and functions of the Parliamentary Service:
     
@@ -593,7 +561,19 @@ Delivery of services and funding entitlements for House of Representatives and i
     
     *   (d) the efficient, effective, and economical management of the activities of the Service.
     
-    Compare: 1988 No 20 [s 32][91]
+    (2) In addition to the responsibilities in subsection (1), the General Manager must---
+        
+    *   (a) ensure that information is provided in accordance with [section 19][99] of the Members of Parliament (Remuneration and Services) Act 2013; and
+    
+    *   (b) perform the functions conferred on the General Manager by that Act, and under any procedures prescribed by the Remuneration Authority in accordance with that Act.
+    
+    (3) The General Manager is responsible to the Remuneration Authority for the matters referred to in subsection (2).
+    
+    Compare: 1988 No 20 [s 32][100]
+    
+    Section 11(2): inserted, on 16 December 2013, by [section 55][101] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
+    
+    Section 11(3): inserted, on 16 December 2013, by [section 55][101] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
 
 #### Further provisions relating to Parliamentary Service
 
@@ -616,19 +596,11 @@ Policy relating to parliamentary resources and services
     
 *   (1) The Parliamentary Service Commission has the following functions:
         
-    *   (a) to advise the Speaker on the following matters:
-            
-        *   (i) the nature of the services to be provided to the House of Representatives and to members of Parliament:
-        
-        *   (ii) the objectives to be achieved by providing those services:
-        
-        
+    *   (a) to advise the Speaker on the nature of the services to be provided to the House of Representatives, members of Parliament, parties, and qualifying electoral candidates (other than services in respect of members participating in the official inter-parliamentary relations programme):
     
-    *   (b) to recommend to the Speaker the adoption of criteria governing funding entitlements for parliamentary purposes:
+    *   (b) to advise the Speaker on proposed directions relating to the allocation and administration of funding appropriated in Appropriation Acts to support the parliamentary operations of members of Parliament, parties, and qualifying electoral candidates:
     
-    *   (c) to recommend to the Speaker persons who are suitable to be members of a review committee:
-    
-    *   (d) to consider and comment on draft reports prepared by review committees.
+    *   (c) to nominate members of Parliament for participation in the political exchange programme.
     
     (2) The Commission may at any time require the Speaker or the General Manager to report on, or inquire into, matters relating to the administration of this Act or the exercise or performance of any function, duty, or power under this Act.
     
@@ -638,9 +610,17 @@ Policy relating to parliamentary resources and services
         
     *   (a) business transacted at meetings of the House of Representatives or meetings of committees of the House of Representatives; or
     
-    *   (b) any other proceedings in Parliament.
+    *   (b) any other proceedings in Parliament; or
+    
+    *   (c) any matter for which the Clerk of the House of Representatives has responsibility.
     
     Compare: 1985 No 128 s 6(2), (4), (5)
+    
+    Section 14(1): replaced, on 16 December 2013, by [section 56(1)][102] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
+    
+    Section 14(4)(b): amended, on 16 December 2013, by [section 56(2)][102] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
+    
+    Section 14(4)(c): inserted, on 16 December 2013, by [section 56(2)][102] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
 
 ##### 15 Membership of Commission during term of Parliament
     
@@ -674,7 +654,7 @@ Policy relating to parliamentary resources and services
     
     (6) To avoid any doubt, every member of Parliament who acts as a member of the Commission is, in so acting, acting in his or her official capacity as a member of Parliament.
     
-    Compare: 1985 No 128 s 7; 1996 No 46 [s 7(4)][92]
+    Compare: 1985 No 128 s 7; 1996 No 46 [s 7(4)][103]
 
 ##### 16 Chairperson of Commission
     
@@ -728,13 +708,15 @@ Policy relating to parliamentary resources and services
 
 #### Review committee
 
-##### 20 Establishment of committee to review appropriations
+##### 20 Establishment of committee to review annual appropriations
     
-*   (1) The Speaker may from time to time, and must at least once during the term of each Parliament, establish a review committee of up to 3 persons to review the amounts of money appropriated by Parliament for the following purposes:
+*   (1) The Speaker may from time to time, and must at least once during every term of Parliament, establish a review committee of up to 3 persons to review the amounts of money appropriated in Appropriation Acts for the following purposes:
         
-    *   (a) administrative and support services provided to the House of Representatives and to members of Parliament:
+    *   (a) administrative and support services provided to support the parliamentary operations of members of Parliament, parties, and qualifying electoral candidates:
     
-    *   (b) funding entitlements for parliamentary purposes.
+    *   (b) communications services provided to members of Parliament and qualifying electoral candidates:
+    
+    *   (c) party and member support funding.
     
     (2) No person appointed to the review committee may be a member of Parliament or an officer or employee of the Parliamentary Service.
     
@@ -745,24 +727,24 @@ Policy relating to parliamentary resources and services
     *   (b) take into account any relevant recommendation made by the Commission under [section 14(1)(c)][32].
     
     (4) The Speaker may appoint persons to the review committee on any terms and conditions, including terms and conditions as to remuneration and travelling allowances, that the Speaker considers appropriate.
+    
+    Section 20 heading: amended, on 16 December 2013, by [section 57(1)][104] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
+    
+    Section 20(1): replaced, on 16 December 2013, by [section 57(2)][104] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
 
 ##### 21 Work of review committee
     
-*   (1) In carrying out its work, the review committee must consider each of the following matters:
+*   (1) In carrying out its work, the review committee must consider---
         
-    *   (a) the nature, quantity, and quality of administrative services and support services required for the effective operation of the House of Representatives:
+    *   (a) whether the amounts of money appropriated are being used efficiently; and
     
-    *   (b) the nature, quantity, and quality of administrative services and support services that members of Parliament require for the effective performance of their functions:
+    *   (b) whether the amounts of money appropriated are adequate to enable members of Parliament, parties, and qualifying electoral candidates to effectively perform their respective functions; and
     
-    *   (c) the funding that recognised parties and members of Parliament require for the effective performance of their respective functions:
-    
-    *   (d) the scope for efficiency gains in the delivery of administrative services and support services to the House of Representatives and to members of Parliament:
-    
-    *   (e) investments that may be necessary or desirable in order to further the aims of high quality representation by members of Parliament and high quality legislation:
-    
-    *   (f) the need for fiscal responsibility.
+    *   (c) the need for fiscal responsibility.
     
     (2) The review committee may, subject to any written direction by the Speaker, regulate its own procedure.
+    
+    Section 21: replaced, on 16 December 2013, by [section 58][105] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
 
 ##### 22 Report by committee
     
@@ -791,7 +773,7 @@ Land and other assets held for parliamentary purposes
         
     *   (a) to be vested in fee simple in Her Majesty the Queen for parliamentary purposes; and
     
-    *   (b) to be held under the [Public Works Act 1981][93] as if the whole of that land had been set apart for those purposes under that Act.
+    *   (b) to be held under the [Public Works Act 1981][106] as if the whole of that land had been set apart for those purposes under that Act.
     
     
 
@@ -817,15 +799,15 @@ Land and other assets held for parliamentary purposes
     
     (3) No land or premises may be added under this section to the parliamentary precincts unless the Crown or the Parliamentary Corporation holds, on the date on which the resolution takes effect, an interest in the land or premises.
     
-    (4) A resolution made under subsection (1) is a legislative instrument, but not a disallowable instrument, for the purposes of the [Legislation Act 2012][94].
+    (4) A resolution made under subsection (1) is a legislative instrument, but not a disallowable instrument, for the purposes of the [Legislation Act 2012][107].
     
-    Section 25(4): replaced, on 5 August 2013, by [section 77(3)][95] of the Legislation Act 2012 (2012 No 119).
+    Section 25(4): replaced, on 5 August 2013, by [section 77(3)][108] of the Legislation Act 2012 (2012 No 119).
 
 ##### 26 Parliamentary precincts under control of Speaker
     
 *   (1) The control and administration of the whole of the parliamentary precincts is vested in the Speaker on behalf of the House of Representatives, whether Parliament is in session or not.
     
-    (2) The Speaker and every person authorised by the Speaker for the purpose has and may exercise, in respect of every part of the parliamentary precincts, all the powers of an occupier under the [Trespass Act 1980][96].
+    (2) The Speaker and every person authorised by the Speaker for the purpose has and may exercise, in respect of every part of the parliamentary precincts, all the powers of an occupier under the [Trespass Act 1980][109].
 
 #### Parliamentary Corporation
 
@@ -912,7 +894,7 @@ Miscellaneous provisions
 
 ##### 33 Deputy Speaker may act as Speaker
     
-*   When there is a vacancy in the office of Speaker or when the Speaker is (for whatever reason) absent from duty, the functions, duties, and powers of the Speaker under this Act or the [Public Finance Act 1989][97] are to be exercised or performed by the Deputy Speaker.
+*   When there is a vacancy in the office of Speaker or when the Speaker is (for whatever reason) absent from duty, the functions, duties, and powers of the Speaker under this Act or the [Public Finance Act 1989][110] are to be exercised or performed by the Deputy Speaker.
 
 ##### 34 Delegation of powers by Speaker
     
@@ -946,7 +928,7 @@ Miscellaneous provisions
 
 #### Recovery of amounts paid made outside entitlements
     
-*   Heading: inserted, on 1 January 2011, by [section 8][98] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
+*   Heading: inserted, on 1 January 2011, by [section 8][111] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
 
 ##### 35A Recovery of amounts paid outside entitlements to funding for parliamentary purposes
     
@@ -954,25 +936,25 @@ Miscellaneous provisions
     
     (2) If this section applies, the Parliamentary Service may recover from the person or recognised party, as a debt due to the Parliamentary Service, the amount paid.
     
-    Section 35A: inserted, on 1 January 2011, by [section 8][98] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
+    Section 35A: inserted, on 1 January 2011, by [section 8][111] of the Parliamentary Service Amendment Act 2010 (2010 No 138).
 
 #### Amendments to other Acts
 
 ##### 36 Amendment to Ombudsmen Act 1975
     
-*   _Amendment(s) incorporated in the [Act(s)][99]._
+*   _Amendment(s) incorporated in the [Act(s)][112]._
 
 ##### 37 Amendment to Higher Salaries Commission Act 1977
     
-*   _Amendment(s) incorporated in the [Act(s)][100]._
+*   _Amendment(s) incorporated in the [Act(s)][113]._
 
 ##### 38 Amendment to Official Information Act 1982
     
-*   _Amendment(s) incorporated in the [Act(s)][101]._
+*   _Amendment(s) incorporated in the [Act(s)][114]._
 
 ##### 39 Amendment to Public Finance Act 1989
     
-*   _Amendment(s) incorporated in the [Act(s)][102]._
+*   _Amendment(s) incorporated in the [Act(s)][115]._
 
 #### Repeals
 
@@ -980,7 +962,7 @@ Miscellaneous provisions
     
 *   (1) The enactments specified in [Schedule 5][73] are repealed.
     
-    (2) Without limiting the provisions of the [Interpretation Act 1999][103], it is declared that the repeal of the Parliamentary Service Amendment Act 1991 does not affect the rights that any person has by virtue of section 9 of that Act.
+    (2) Without limiting the provisions of the [Interpretation Act 1999][116], it is declared that the repeal of the Parliamentary Service Amendment Act 1991 does not affect the rights that any person has by virtue of section 9 of that Act.
 
 ---
 
@@ -1029,25 +1011,25 @@ Provisions applying in respect of Parliamentary Service
 
 ##### 3 Remuneration and conditions of employment
     
-*   (1) The remuneration of the General Manager is determined from time to time by the Remuneration Authority under the [Remuneration Authority Act 1977][104].
+*   (1) The remuneration of the General Manager is determined from time to time by the Remuneration Authority under the [Remuneration Authority Act 1977][117].
     
     (2) The terms and conditions of employment of the General Manager (other than remuneration) are determined from time to time by the State Services Commissioner with the agreement of the Speaker.
     
-    Compare: 1988 No 126 [s 8][105]
+    Compare: 1988 No 126 [s 8][118]
     
-    Schedule 1 clause 3(1): amended, on 1 April 2003, by [section 4(1)][106] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+    Schedule 1 clause 3(1): amended, on 1 April 2003, by [section 4(1)][119] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
 
 ##### 4 Term of office
     
 *   (1) The General Manager is appointed for a term of 5 years; but is eligible for reappointment from time to time.
     
-    (2) When the term for which a person has been appointed as General Manager expires, that person, unless sooner vacating or removed from office under [clause 5][107], continues to hold office until---
+    (2) When the term for which a person has been appointed as General Manager expires, that person, unless sooner vacating or removed from office under [clause 5][120], continues to hold office until---
         
     *   (a) that person is reappointed; or
     
     *   (b) a successor to that person is appointed.
     
-    Compare: 1988 No 126 [s 10][108]
+    Compare: 1988 No 126 [s 10][121]
 
 ##### 5 Removal of General Manager from office
     
@@ -1071,21 +1053,21 @@ Provisions applying in respect of Parliamentary Service
 
 ##### 7 Application of State Sector Act 1988
     
-*   (1) The provisions of [Parts 5][109], [6][110], and [8][111] of the State Sector Act 1988 apply in respect of employment within the Parliamentary Service as if---
+*   (1) The provisions of [Parts 5][122], [6][123], and [8][124] of the State Sector Act 1988 apply in respect of employment within the Parliamentary Service as if---
         
     *   (a) the Service were a department; and
     
     *   (b) all references to the chief executive were references to the General Manager.
     
-    (2) Nothing in any other Part of the [State Sector Act 1988][112] applies in respect of the Service or persons employed in the Service.
+    (2) Nothing in any other Part of the [State Sector Act 1988][125] applies in respect of the Service or persons employed in the Service.
     
-    (3) Subclause (2) is subject to [clause 15][113].
+    (3) Subclause (2) is subject to [clause 15][126].
     
-    (4) Despite [section 68][114] of the State Sector Act 1988, the General Manager is responsible for negotiating a collective agreement under the [Employment Relations Act 2000][115] and the General Manager must consult with the State Services Commissioner about the conditions of employment to be included in the collective agreement.
+    (4) Despite [section 68][127] of the State Sector Act 1988, the General Manager is responsible for negotiating a collective agreement under the [Employment Relations Act 2000][128] and the General Manager must consult with the State Services Commissioner about the conditions of employment to be included in the collective agreement.
     
     Compare: 1985 No 128 s 39
     
-    Schedule 1 clause 7(4): added, on 25 January 2005, by [section 18][116] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Schedule 1 clause 7(4): added, on 25 January 2005, by [section 18][129] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
 
 ##### 8 Delegation of powers by General Manager
     
@@ -1109,7 +1091,7 @@ Provisions applying in respect of Parliamentary Service
 
 ##### 9 Status of delegations
     
-*   (1) The General Manager is not prevented from exercising or performing any function, duty, or power delegated under [clause 8][117].
+*   (1) The General Manager is not prevented from exercising or performing any function, duty, or power delegated under [clause 8][130].
     
     (2) The General Manager may revoke a delegation at any time by written notice to the delegate.
     
@@ -1125,7 +1107,7 @@ Provisions applying in respect of Parliamentary Service
 
 ##### 10 Superannuation
     
-*   For the purposes of the [Government Superannuation Fund Act 1956][118], service as an employee of the Parliamentary Service is Government service.
+*   For the purposes of the [Government Superannuation Fund Act 1956][131], service as an employee of the Parliamentary Service is Government service.
     
     Compare: 1985 No 128 s 44
 
@@ -1161,7 +1143,7 @@ Provisions applying in respect of Parliamentary Service
     
 *   (1) The head of the Parliamentary Library (called the Parliamentary Librarian) is an employee of the Parliamentary Service.
     
-    (2) Before appointing a person to the position of Parliamentary Librarian, the General Manager must consult with any committee, established under [clause 8][117] of Schedule 2, that is responsible for providing advice on the Parliamentary Library.
+    (2) Before appointing a person to the position of Parliamentary Librarian, the General Manager must consult with any committee, established under [clause 8][130] of Schedule 2, that is responsible for providing advice on the Parliamentary Library.
     
     (3) The holder of the position of Parliamentary Librarian is responsible to the General Manager.
     
@@ -1171,25 +1153,25 @@ Provisions applying in respect of Parliamentary Service
 
 ##### 14 Audit
     
-*   The Parliamentary Service Commission is a public entity as defined in [section 4][119] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+*   The Parliamentary Service Commission is a public entity as defined in [section 4][132] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
     
-    Schedule 1 clause 14: substituted, on 1 July 2001, by [section 53][120] of the Public Audit Act 2001 (2001 No 10).
+    Schedule 1 clause 14: substituted, on 1 July 2001, by [section 53][133] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 15 Functions of State Services Commissioner in relation to Parliamentary Service
     
-*   (1) The State Services Commissioner may from time to time, at the request of the Speaker, exercise in respect of the Parliamentary Service any of the functions conferred on the State Services Commissioner by [section 6][121] of the State Sector Act 1988\.
+*   (1) The State Services Commissioner may from time to time, at the request of the Speaker, exercise in respect of the Parliamentary Service any of the functions conferred on the State Services Commissioner by [section 6][134] of the State Sector Act 1988\.
     
     (1A) The State Services Commissioner must exercise functions requested by the Speaker in accordance with subsection (1) consistently with the role of the Parliamentary Service and its separation from the executive government.
     
-    (2) For the purposes of this clause, [section 6][121] of the State Sector Act 1988 applies, with all necessary modifications, as if---
+    (2) For the purposes of this clause, [section 6][134] of the State Sector Act 1988 applies, with all necessary modifications, as if---
         
     *   (a) the Service were a department; and
     
     *   (b) the General Manager of the Service were the chief executive of that department.
     
-    Compare: 1988 No 126 [s 17][122]
+    Compare: 1988 No 126 [s 17][135]
     
-    Schedule 1 clause 15(1A): inserted, on 18 July 2013, by [section 64(2)][123] of the State Sector Amendment Act 2013 (2013 No 49).
+    Schedule 1 clause 15(1A): inserted, on 18 July 2013, by [section 64(2)][136] of the State Sector Amendment Act 2013 (2013 No 49).
 
 #### Assets of Parliamentary Corporation notionally owned by Parliamentary Service
 
@@ -1199,15 +1181,15 @@ Provisions applying in respect of Parliamentary Service
         
     *   (a) the audit of the Service:
     
-    *   (b) the information that is required to be provided by the Service under [section 14][124] or [section 15][125] of the Public Finance Act 1989:
+    *   (b) the information that is required to be provided by the Service under [section 14][137] or [section 15][138] of the Public Finance Act 1989:
     
-    *   (c) the reports and information required to be prepared under the [Public Finance Act 1989][97]:
+    *   (c) the reports and information required to be prepared under the [Public Finance Act 1989][110]:
     
     *   (d) any other matter done under, or in connection with, the Public Finance Act 1989\.
     
-    Schedule 1 clause 16(b): substituted, on 25 January 2005, by [section 37(1)][126] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Schedule 1 clause 16(b): substituted, on 25 January 2005, by [section 37(1)][139] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Schedule 1 clause 16(c): substituted, on 25 January 2005, by [section 37(1)][126] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Schedule 1 clause 16(c): substituted, on 25 January 2005, by [section 37(1)][139] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ---
 
@@ -1230,7 +1212,7 @@ Provisions applying in respect of Parliamentary Service Commission
     
 *   (1) At all meetings of the Parliamentary Service Commission, the chairperson, if present, presides.
     
-    (2) If the chairperson is absent from a meeting and there is no deputy appointed under [clause 7][127] attending for the chairperson, the members present must appoint one of their number to be the chairperson of that meeting.
+    (2) If the chairperson is absent from a meeting and there is no deputy appointed under [clause 7][140] attending for the chairperson, the members present must appoint one of their number to be the chairperson of that meeting.
     
     Compare: 1985 No 128 s 11(3)
 
@@ -1250,7 +1232,7 @@ Provisions applying in respect of Parliamentary Service Commission
     
 *   (1) Each question arising at any meeting of the Parliamentary Service Commission is decided by a majority of the valid votes recorded on the question.
     
-    (2) The manner of voting at meetings of the Commission must be in accordance with [clause 5][128] or [clause 6][129], as the case may require.
+    (2) The manner of voting at meetings of the Commission must be in accordance with [clause 5][141] or [clause 6][142], as the case may require.
     
     Compare: 1985 No 128 s 11(4)
 
@@ -1390,11 +1372,11 @@ Provisions applying in respect of Parliamentary Corporation
     
     (2) Every meeting of the Corporation requires the presence of---
         
-    *   (a) the chairperson or a deputy appointed, under [clause 5][130], by the chairperson; and
+    *   (a) the chairperson or a deputy appointed, under [clause 5][143], by the chairperson; and
     
-    *   (b) the General Manager or a deputy appointed, under [clause 5][130], by the General Manager; and
+    *   (b) the General Manager or a deputy appointed, under [clause 5][143], by the General Manager; and
     
-    *   (c) 1 member appointed under [section 29(1)(c)][51] or a deputy appointed, under [clause 5][130], by such a member.
+    *   (c) 1 member appointed under [section 29(1)(c)][51] or a deputy appointed, under [clause 5][143], by such a member.
     
     
 
@@ -1402,7 +1384,7 @@ Provisions applying in respect of Parliamentary Corporation
     
 *   (1) At all meetings of the Corporation, the chairperson, if present, presides.
     
-    (2) If the chairperson is absent from a meeting and there is no deputy, appointed under [clause 5][130] by the chairperson, the members present must appoint one of their number to be the chairperson of that meeting.
+    (2) If the chairperson is absent from a meeting and there is no deputy, appointed under [clause 5][143] by the chairperson, the members present must appoint one of their number to be the chairperson of that meeting.
 
 ##### 5 Deputies
     
@@ -1446,7 +1428,7 @@ Provisions applying in respect of Parliamentary Corporation
     
     (3) A member of Parliament may sign, in the place of the Speaker, a document to which the common seal is affixed if that member is authorised by a delegation, given under [section 34][58], to sign the document or documents of that kind.
     
-    (4) An employee of the Parliamentary Service may sign, in the place of the General Manager, a document to which the common seal is affixed if that employee is authorised by a delegation, given under [clause 8][117] of Schedule 1, to sign the document or documents of that kind.
+    (4) An employee of the Parliamentary Service may sign, in the place of the General Manager, a document to which the common seal is affixed if that employee is authorised by a delegation, given under [clause 8][130] of Schedule 1, to sign the document or documents of that kind.
     
     (5) The seal of the Corporation must be judicially noticed in all courts and for all purposes.
 
@@ -1464,7 +1446,7 @@ Provisions applying in respect of Parliamentary Corporation
     
     (3) Despite subclause (1), no obligation entered into by or on behalf of the Corporation, under the authority of a general or specific resolution of the Corporation, is invalid only because the obligation was not entered into in accordance with this clause.
     
-    Compare: 1959 No 98 [s 3][131]; 1993 No 105 [s 180(1)][132]
+    Compare: 1959 No 98 [s 3][144]; 1993 No 105 [s 180(1)][145]
 
 ##### 11 Records
     
@@ -1479,11 +1461,11 @@ Enactments repealed
 
 ##### Clerk of the House of Representatives Act 1988 (1988 No 126)
 
-_Amendment(s) incorporated in the [Act(s)][133]._
+_Amendment(s) incorporated in the [Act(s)][146]._
 
 ##### Constitution Act 1986 (1986 No 114)
 
-_Amendment(s) incorporated in the [Act(s)][134]._
+_Amendment(s) incorporated in the [Act(s)][147]._
 
 ##### Parliamentary Service Act 1985 (1985 No 128)
 
@@ -1493,11 +1475,11 @@ _Amendment(s) incorporated in the [Act(s)][134]._
 
 ##### Reserves and Other Lands Disposal Act 1974 (1974 No 139)
 
-_Amendment(s) incorporated in the [Act(s)][135]._
+_Amendment(s) incorporated in the [Act(s)][148]._
 
 ##### Reserves and Other Lands Disposal Act 1980 (1980 No 62)
 
-_Amendment(s) incorporated in the [Act(s)][136]._
+_Amendment(s) incorporated in the [Act(s)][149]._
 
 #### 
 
@@ -1511,31 +1493,29 @@ _Amendment(s) incorporated in the [Act(s)][136]._
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][137] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][138] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][150] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][151] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][139] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][140] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][152] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][153] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   State Sector Amendment Act 2013 (2013 No 49): [section 64][123]
+*   Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93): [sections 48--58][81]
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][95]
+    State Sector Amendment Act 2013 (2013 No 49): [section 64][136]
     
-    [Parliamentary Service Amendment Act 2010][141] (2010 No 138)
+    Legislation Act 2012 (2012 No 119): [section 77(3)][108]
     
-    Electoral (Administration) Amendment Act 2010 (2010 No 26): [section 32(1)(b)][90]
+    [Parliamentary Service Amendment Act 2010][154] (2010 No 138)
     
-    [Parliamentary Service Amendment Act 2008][142] (2008 No 57)
+    State Sector Amendment Act (No 2) 2004 (2004 No 114): [section 18][129]
     
-    State Sector Amendment Act (No 2) 2004 (2004 No 114): [section 18][116]
+    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][139]
     
-    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][126]
+    Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [section 4(1)][119]
     
-    Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [section 4(1)][106]
-    
-    Public Audit Act 2001 (2001 No 10): [section 53][120]
+    Public Audit Act 2001 (2001 No 10): [section 53][133]
 
 
 
@@ -1617,68 +1597,80 @@ _Amendment(s) incorporated in the [Act(s)][136]._
 [75]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM129117
 [76]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM3486918
 [77]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM2926330
-[78]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM3486924
-[79]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM3130808
-[80]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM3130823
-[81]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM32424
-[82]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM317192
-[83]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM3486970
-[84]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM2926341
-[85]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM3381605
-[86]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM308529
-[87]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM309893
-[88]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM310045
-[89]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM1315808
-[90]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM2469790
-[91]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM129548
-[92]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM392268
-[93]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM45426
-[94]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM2997643
-[95]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM2998633
-[96]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM36926
-[97]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM160808
-[98]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM3381607
-[99]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM431296
-[100]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM16452
-[101]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM64790
-[102]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM163164
-[103]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM31458
-[104]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM15636
-[105]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM135671
-[106]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM167443
-[107]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM56337
-[108]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM135674
-[109]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM129718
-[110]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM129760
-[111]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM130329
-[112]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM129109
-[113]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM56352
-[114]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM129766
-[115]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM58316
-[116]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM329199
-[117]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM56342
-[118]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM446000
-[119]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM88548
-[120]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM88957
-[121]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM129446
-[122]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM135683
-[123]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM5205916
-[124]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM161614
-[125]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM161617
-[126]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM328867
-[127]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM56364
-[128]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM56362
-[129]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM56363
-[130]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM56377
-[131]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM324229
-[132]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM320845
-[133]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM136118
-[134]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM94264
-[135]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM430404
-[136]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM36915
-[137]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM2998516
-[138]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM2998515
-[139]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM2998532
-[140]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[141]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM3130800
-[142]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM1315800
+[78]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM4034231
+[79]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM3486924
+[80]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM3130808
+[81]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM4034625
+[82]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM3130823
+[83]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM4034282
+[84]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM4034290
+[85]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM317192
+[86]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM4034299
+[87]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM4034630
+[88]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM3486970
+[89]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM2926341
+[90]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM4034631
+[91]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM3381605
+[92]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM4034633
+[93]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM4034278
+[94]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM4034634
+[95]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM4034609
+[96]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM4034613
+[97]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM4034635
+[98]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM4034637
+[99]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM4034285
+[100]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM129548
+[101]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM4034638
+[102]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM4034639
+[103]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM392268
+[104]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM4034640
+[105]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM4034641
+[106]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM45426
+[107]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM2997643
+[108]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM2998633
+[109]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM36926
+[110]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM160808
+[111]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM3381607
+[112]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM431296
+[113]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM16452
+[114]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM64790
+[115]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM163164
+[116]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM31458
+[117]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM15636
+[118]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM135671
+[119]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM167443
+[120]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM56337
+[121]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM135674
+[122]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM129718
+[123]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM129760
+[124]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM130329
+[125]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM129109
+[126]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM56352
+[127]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM129766
+[128]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM58316
+[129]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM329199
+[130]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM56342
+[131]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM446000
+[132]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM88548
+[133]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM88957
+[134]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM129446
+[135]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM135683
+[136]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM5205916
+[137]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM161614
+[138]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM161617
+[139]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM328867
+[140]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM56364
+[141]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM56362
+[142]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM56363
+[143]: http://www.legislation.govt.nz/act/public/2000/0017/latest/whole.html#DLM56377
+[144]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM324229
+[145]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM320845
+[146]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM136118
+[147]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM94264
+[148]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM430404
+[149]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM36915
+[150]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM2998516
+[151]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM2998515
+[152]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM2998532
+[153]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[154]: http://www.legislation.govt.nz/act/public/2000/0017/latest/link.aspx?id=DLM3130800
