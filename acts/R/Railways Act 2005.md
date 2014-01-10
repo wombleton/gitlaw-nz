@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 16 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -604,7 +604,9 @@ Preliminary provisions
         
         
     
-    *   (b) there is a need for an early determination of the nature and extent of the action that the Agency would require the rail participant to take to mitigate that risk.
+    *   (b) there is a need for an early determination of the nature and extent of the action that the Agency would require the rail participant to take to mitigate that risk
+    
+    _WorkSafe_ means WorkSafe New Zealand established by [section 5][147] of the WorkSafe New Zealand Act 2013\.
     
     (2) In this Act, the _rail activities_ of a rail participant, or for which a rail participant is responsible, are as follows:
         
@@ -626,27 +628,29 @@ Preliminary provisions
     
     *   (i) in the case of a class of person prescribed as a rail participant by regulations, the activities prescribed by regulations as being the rail activities of persons of that class.
     
-    Section 4(1) **Agency**: inserted, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 4(1) **Agency**: inserted, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 4(1) **approved safety case**: amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 4(1) **approved safety case**: amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 4(1) **Authority**: repealed, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 4(1) **Authority**: repealed, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 4(1) **Director**: repealed, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 4(1) **Director**: repealed, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 4(1) **enforcement officer** paragraph (a)(i): amended, on 1 October 2008, pursuant to [section 116(a)(vii)][148] of the Policing Act 2008 (2008 No 72).
+    Section 4(1) **enforcement officer** paragraph (a)(i): amended, on 1 October 2008, pursuant to [section 116(a)(vii)][149] of the Policing Act 2008 (2008 No 72).
     
-    Section 4(1) **enforcement officer** paragraph (a)(ii): amended, on 1 October 2008, pursuant to [section 116(d)][148] of the Policing Act 2008 (2008 No 72).
+    Section 4(1) **enforcement officer** paragraph (a)(ii): amended, on 1 October 2008, pursuant to [section 116(d)][149] of the Policing Act 2008 (2008 No 72).
     
-    Section 4(1) **ordinary safety assessment**: amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 4(1) **ordinary safety assessment**: amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 4(1) **road** paragraph (a)(ii): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 4(1) **road** paragraph (a)(ii): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 4(1) **road** paragraph (b)(ii): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 4(1) **road** paragraph (b)(ii): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 4(1) **special safety assessment**: amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 4(1) **special safety assessment**: amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 4(1) **special safety assessment** paragraph (b): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 4(1) **special safety assessment** paragraph (b): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    
+    Section 4(1) **WorkSafe**: inserted, on 16 December 2013, by [section 22][150] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 5 All practicable steps
     
@@ -681,13 +685,17 @@ Safety
 
 ##### 8 Relationship of Act with Health and Safety in Employment Act 1992
     
-*   (1) Nothing in this Act limits the [Health and Safety in Employment Act 1992][149].
+*   (1) Nothing in this Act limits the [Health and Safety in Employment Act 1992][151].
     
-    (2) Despite subsection (1), the Agency and the department must enter into a memorandum of understanding with respect to investigations conducted and prosecutions taken under this Act or the [Health and Safety in Employment Act 1992][149].
+    (2) Despite subsection (1), the Agency and WorkSafe must enter into a memorandum of understanding with respect to investigations conducted and prosecutions taken under this Act or the [Health and Safety in Employment Act 1992][151].
     
-    (3) For the purposes of this section, _department_ has the same meaning as in [section 2(1)][150] of the Health and Safety in Employment Act 1992\.
+    (3) \[Repealed\]
     
-    Section 8(2): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 8(2): amended, on 16 December 2013, by [section 22][150] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    
+    Section 8(2): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    
+    Section 8(3): repealed, on 16 December 2013, by [section 22][150] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 9 General safety duties of other persons
     
@@ -801,19 +809,19 @@ Safety
     
     *   (b) in the case of an incident that the Agency considers that the Commission should investigate, notify the Commission that the Agency has been notified of the incident, and give to the Commission the information about the incident known to the Agency that the Commission reasonably requires.
     
-    Section 13(3): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 13(3): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 13(3)(b): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 13(3)(b): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 13(4): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 13(4): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 13(4)(a): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 13(4)(a): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 13(4)(b): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 13(4)(b): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 14 Duty of rail participants to comply with dangerous goods provisions of Land Transport Act 1998
     
-*   A rail participant must comply with the provisions of [sections 129 to 132][151] of the Land Transport Act 1998 that apply to that rail participant.
+*   A rail participant must comply with the provisions of [sections 129 to 132][152] of the Land Transport Act 1998 that apply to that rail participant.
 
 ### Subpart 2---Licensing of rail participants
 
@@ -835,7 +843,7 @@ Safety
     
     *   (b) the approved safety case of that other licence holder.
     
-    Section 15(3): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 15(3): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 16 Application for licence
     
@@ -849,11 +857,11 @@ Safety
     
     (2) If a person is a member of more than 1 class of rail participant to which [section 15(1)][19] applies, a single application covering each of the classes of rail participant concerned may be made under subsection (1).
     
-    Compare: 1989 No 74 [s 6][152]
+    Compare: 1989 No 74 [s 6][153]
     
-    Section 16(1)(a): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 16(1)(a): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 16(1)(b): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 16(1)(b): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 17 Grant of licences
     
@@ -879,17 +887,17 @@ Safety
     
     (3) [Section 27][34] applies to a decision not to grant a licence.
     
-    Section 17(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 17(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 17(2): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 17(2): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 18 Transfer or assignment of licence prohibited
     
 *   A licence may not be transferred or assigned to any person without the prior written consent of the Agency, and any purported transfer or assignment is void.
     
-    Compare: 1989 No 74 [s 26(1)][153]
+    Compare: 1989 No 74 [s 26(1)][154]
     
-    Section 18: amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 18: amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 19 Term of licence
     
@@ -903,9 +911,9 @@ Safety
     
     (2) A holder of a licence may surrender the licence at any time by written notice to the Agency.
     
-    Compare: 1989 No 74 [ss 27][154], [28][155]
+    Compare: 1989 No 74 [ss 27][155], [28][156]
     
-    Section 19(2): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 19(2): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 20 Register of licences
     
@@ -931,13 +939,13 @@ Safety
     
     (3) A person who applies to the Agency and pays the prescribed fee (if any) is entitled to the information specified in subsection (2) that relates to the licence holder named in the application.
     
-    Compare: 1989 No 74 [s 29][156]
+    Compare: 1989 No 74 [s 29][157]
     
-    Section 20(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 20(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 20(2)(h): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 20(2)(h): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 20(3): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 20(3): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### Conditions of licences
 
@@ -991,25 +999,25 @@ Safety
     
     *   (b) the safety liaison officer's contact details (including, but not limited to, current phone number and current electronic address (if any)).
     
-    Compare: 1989 No 74 [ss 31][157], [32][158]
+    Compare: 1989 No 74 [ss 31][158], [32][159]
     
-    Section 21(1)(a): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 21(1)(a): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 21(2)(a): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 21(2)(a): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 21(2)(b): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 21(2)(b): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 21(2)(c): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 21(2)(c): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 21(3)(b): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 21(3)(b): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 21(3)(d): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 21(3)(d): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 21(4)(b): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 21(4)(b): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 21(4)(d): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 21(4)(d): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 21(5): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 21(5): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 22 Agents and contractors
     
@@ -1029,9 +1037,9 @@ Safety
     
     *   (b) the licence holder must give written notice to the Agency of the appointment of, or a change in, any of the principal agents or contractors engaged by the licence holder to carry out any or all of the licence holder's rail activities.
     
-    Section 22(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 22(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 22(2)(b): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 22(2)(b): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### Suspensions, revocations, and other conditions of licences
 
@@ -1081,13 +1089,13 @@ Safety
     
     (6) [Section 27][34] applies in respect of a decision under subsection (1).
     
-    Compare: 1990 No 98 [s 17][159]
+    Compare: 1990 No 98 [s 17][160]
     
-    Section 23 heading: amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 23 heading: amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 23(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 23(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 23(3): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 23(3): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 24 Power of Agency to revoke licence or impose permanent conditions
     
@@ -1107,11 +1115,11 @@ Safety
     
     (3) [Section 27][34] applies in respect of a decision under subsection (1).
     
-    Compare: 1990 No 98 [s 18][160]
+    Compare: 1990 No 98 [s 18][161]
     
-    Section 24 heading: amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 24 heading: amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 24(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 24(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 25 Matters relating to action taken under section 23 or section 24
     
@@ -1131,13 +1139,13 @@ Safety
     
     (3) The Agency is not confined to consideration of the matters specified in subsection (2), and may take into account other matters and evidence from any source that the Agency considers relevant.
     
-    Compare: 1990 No 98 [s 19][161]
+    Compare: 1990 No 98 [s 19][162]
     
-    Section 25(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 25(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 25(2): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 25(2): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 25(3): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 25(3): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 26 Power of Agency to amend or revoke licences in other cases
     
@@ -1153,13 +1161,13 @@ Safety
     
     (3) [Section 27][34] applies in respect of a decision under subsection (2)(a) or (b).
     
-    Compare: 1990 No 98 [s 20][162]
+    Compare: 1990 No 98 [s 20][163]
     
-    Section 26 heading: amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 26 heading: amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 26(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 26(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 26(2): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 26(2): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### Adverse decisions
 
@@ -1233,31 +1241,31 @@ Safety
     
     _person directly affected_, in relation to any adverse decision, means the person who would be entitled to appeal against that adverse decision under [section 68][85].
     
-    Compare: 1989 No 74 [s 25][163]
+    Compare: 1989 No 74 [s 25][164]
     
-    Section 27(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 27(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 27(1)(c): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 27(1)(c): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 27(1)(e): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 27(1)(e): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 27(2): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 27(2): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 27(2)(a): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 27(2)(a): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 27(4)(a): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 27(4)(a): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 27(4)(b): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 27(4)(b): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 27(4)(c): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 27(4)(c): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 27(5): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 27(5): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 27(6) **adverse decision**: amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 27(6) **adverse decision**: amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### Further powers of Agency
     
-*   Heading: amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Heading: amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 28 Power of Agency to prohibit operation, impose conditions, or detain or immobilise rail vehicles or railway infrastructure
     
@@ -1281,17 +1289,17 @@ Safety
     
     *   (c) the rail operator or access provider concerned may have access to the rail vehicle or railway infrastructure for the purpose of obtaining evidence for a prosecution or safety assessment.
     
-    Compare: 1989 No 74 [s 39E][164]
+    Compare: 1989 No 74 [s 39E][165]
     
-    Section 28 heading: amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 28 heading: amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 28(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 28(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 28(1)(b): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 28(1)(b): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 28(2): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 28(2): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 28(3)(b): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 28(3)(b): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ### Subpart 3---Safety cases, safety systems, and improvement plans
 
@@ -1305,7 +1313,7 @@ Safety
     
     *   (b) the safety case is derived from, and consistent with, the rail participant's safety system.
     
-    Compare: 1989 No 74 [s 6A][165]
+    Compare: 1989 No 74 [s 6A][166]
 
 ##### 30 Contents of safety case
     
@@ -1389,15 +1397,15 @@ Safety
     
     *   (b) the rail participant must amend the provision so that it is consistent with the rule.
     
-    Compare: 1989 No 74 [s 6B][166]
+    Compare: 1989 No 74 [s 6B][167]
     
-    Section 30(1)(h)(ii): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30(1)(h)(ii): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30(1)(h)(iv): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30(1)(h)(iv): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30(1)(i): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30(1)(i): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30(1)(n): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30(1)(n): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 31 Matters to be taken into account in considering proposed safety case
     
@@ -1433,15 +1441,15 @@ Safety
     
     *   (e) any provisions of the safety case that the Agency considers should be in a standard form applicable to more than 1 rail participant are in a common form approved by the Agency.
     
-    Compare: 1989 No 74 [s 6C][167]
+    Compare: 1989 No 74 [s 6C][168]
     
-    Section 31(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 31(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 31(1)(f): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 31(1)(f): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 31(2): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 31(2): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 31(2)(e): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 31(2)(e): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 32 Approval of safety case
     
@@ -1463,23 +1471,23 @@ Safety
     
     (7) Despite anything in this section, a rail participant may submit its safety system instead of its safety case to the Agency if it considers that its safety system meets the requirements set out in [section 30][39].
     
-    Compare: 1989 No 74 [s 6D][168]
+    Compare: 1989 No 74 [s 6D][169]
     
-    Section 32(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 32(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 32(1)(b): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 32(1)(b): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 32(2): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 32(2): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 32(3): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 32(3): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 32(4): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 32(4): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 32(5): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 32(5): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 32(6): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 32(6): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 32(7): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 32(7): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 33 Application to replace or vary approved safety case
     
@@ -1489,11 +1497,11 @@ Safety
     
     (3) The proposed variation must be considered by the Agency as if the licence holder were proposing a new safety case, and [section 31][40] applies as if it were a fresh application for approval.
     
-    Compare: 1989 No 74 [s 6E][169]
+    Compare: 1989 No 74 [s 6E][170]
     
-    Section 33(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 33(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 33(3): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 33(3): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 34 Requirement by Agency to replace or vary approved safety case
     
@@ -1523,17 +1531,17 @@ Safety
     
     (3) Nothing in this section affects a power of the Agency under this Act, or any other Act, to take any other action in respect of a rail document or person.
     
-    Compare: 1989 No 74 [s 6F][170]
+    Compare: 1989 No 74 [s 6F][171]
     
-    Section 34 heading: amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 34 heading: amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 34(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 34(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 34(2): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 34(2): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 34(2)(b): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 34(2)(b): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 34(3): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 34(3): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 35 Procedure for replacement or variation of approved safety case
     
@@ -1555,17 +1563,17 @@ Safety
     
     (5) A replacement or variation applied for under [section 33][42] or required under [section 34][43] does not have effect unless its approval or confirmation is notified under subsection (2).
     
-    Compare: 1989 No 74 [ss 6G][171], [6I][172]
+    Compare: 1989 No 74 [ss 6G][172], [6I][173]
     
-    Section 35(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 35(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 35(2): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 35(2): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 35(2)(b): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 35(2)(b): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 35(3): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 35(3): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 35(4): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 35(4): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 36 Safety improvement plans
     
@@ -1587,21 +1595,21 @@ Safety
     
     *   (c) not otherwise amend the plan without first obtaining the Agency's written approval of the amendment.
     
-    Section 36(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 36(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 36(2): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 36(2): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 36(2)(a): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 36(2)(a): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 36(2)(b): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 36(2)(b): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 36(3): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 36(3): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 36(4): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 36(4): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 36(4)(b): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 36(4)(b): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 36(4)(c): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 36(4)(c): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ### Subpart 4---Safety assessments
 
@@ -1657,19 +1665,19 @@ Safety
     
     (3) A safety assessment must be carried out by a safety assessor who is independent of the rail participant being assessed.
     
-    Section 37(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 37(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 37(2): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 37(2): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 37(2)(b): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 37(2)(b): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 37(2)(c): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 37(2)(c): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 37(2)(h): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 37(2)(h): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 37(2)(i): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 37(2)(i): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 37(2)(j): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 37(2)(j): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 38 Safety assessor must consult
     
@@ -1687,7 +1695,7 @@ Safety
     
     *   (c) any representatives of rail personnel consulted under [section 38(1)][49].
     
-    Section 39(a): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 39(a): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 40 Matters included in safety assessment report
     
@@ -1709,9 +1717,9 @@ Safety
     
     (3) The costs of a safety assessment may be specified by regulations.
     
-    Section 41(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 41(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 41(2): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 41(2): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 42 Notification of requirement for improvements
     
@@ -1739,17 +1747,17 @@ Safety
     
     (6) Nothing in this section prevents the Agency from taking further action that the Agency considers appropriate in the interests of preventing the death of, or serious injury to, individuals, or significant damage to property, including, without limitation, the suspension or revocation of a licence.
     
-    Compare: 1989 No 74 [s 39K][173]
+    Compare: 1989 No 74 [s 39K][174]
     
-    Section 42(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 42(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 42(2): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 42(2): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 42(3): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 42(3): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 42(4): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 42(4): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 42(6): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 42(6): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 43 Report on remedial action
     
@@ -1759,13 +1767,13 @@ Safety
     
     (3) The Agency must make a decision under subsection (2) within 20 working days after receiving a report under subsection (1).
     
-    Compare: 1989 No 74 [s 39L][174]
+    Compare: 1989 No 74 [s 39L][175]
     
-    Section 43(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 43(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 43(2): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 43(2): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 43(3): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 43(3): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 44 Extension of time to complete remedial action
     
@@ -1777,11 +1785,11 @@ Safety
     
     *   (b) significant damage to property.
     
-    Compare: 1989 No 74 [s 39M][175]
+    Compare: 1989 No 74 [s 39M][176]
     
-    Section 44(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 44(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 44(2): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 44(2): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### Safety assessors
 
@@ -1799,11 +1807,11 @@ Safety
     
     (4) Before appointing a person as a safety assessor, the Agency must be satisfied that the person has the training, knowledge, expertise, and experience to carry out any safety assessment to which that person's appointment relates.
     
-    Compare: 1989 No 74 [s 39G][176]
+    Compare: 1989 No 74 [s 39G][177]
     
-    Section 45(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 45(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 45(4): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 45(4): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 46 Functions and duties of safety assessors
     
@@ -1817,11 +1825,11 @@ Safety
     
     *   (d) perform any other functions and duties that may be prescribed by regulations or rules made under this Act.
     
-    Compare: 1989 No 74 [s 39H][177]
+    Compare: 1989 No 74 [s 39H][178]
     
-    Section 46: amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 46: amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 46(a): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 46(a): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 47 Powers of safety assessors to obtain information, etc
     
@@ -1843,7 +1851,7 @@ Safety
     
     (4) Nothing in this section limits or affects the privilege against self-incrimination.
     
-    Section 47(3): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 47(3): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 48 Powers of entry of safety assessors
     
@@ -1903,11 +1911,11 @@ Safety
     
     (8) Nothing in this section limits or affects the privilege against self-incrimination.
     
-    Compare: 1989 No 74 [s 39P][178]
+    Compare: 1989 No 74 [s 39P][179]
     
-    Section 48(5): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 48(5): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 48(5)(b): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 48(5)(b): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ### Subpart 5---Rules and regulations
 
@@ -1915,7 +1923,7 @@ Safety
 
 ##### 49 Minister's power to make ordinary rules
     
-*   In addition to the matters specified in [section 152(a) to (g)][179] of the Land Transport Act 1998, the Minister may make ordinary rules for the purposes of, or concerning,---
+*   In addition to the matters specified in [section 152(a) to (g)][180] of the Land Transport Act 1998, the Minister may make ordinary rules for the purposes of, or concerning,---
         
     *   (a) safety and licensing, including, without limitation, the authorisation of rail participants and rail personnel, and technical requirements and standards for, or in relation to, all or any rail vehicles, railway premises, or railway infrastructure:
     
@@ -1923,7 +1931,7 @@ Safety
     
     *   (c) any other matter contemplated by a provision of this Act.
     
-    Compare: 1998 No 110 [s 152][179]
+    Compare: 1998 No 110 [s 152][180]
 
 ##### 50 Rules concerning behaviour on railways or railway premises
     
@@ -1935,13 +1943,13 @@ Safety
     
     *   (c) set out standards and requirements concerning the use of safety equipment by rail personnel, passengers, or other individuals working on or using railways or railway premises.
     
-    Compare: 1998 No 110 [s 153][180]
+    Compare: 1998 No 110 [s 153][181]
 
 ##### 51 Rules concerning dangerous goods
     
 *   The rules made under the [Land Transport Act 1998][142] in relation to the packing, loading, consignment, and carriage of dangerous goods apply to dangerous goods carried by a rail vehicle.
     
-    Compare: 1998 No 110 [s 156][181]
+    Compare: 1998 No 110 [s 156][182]
 
 ##### 52 Rules concerning rail vehicles, railway premises, and railway infrastructure
     
@@ -1965,7 +1973,7 @@ Safety
     
     *   (i) provide for the recording of, and making available of, information about rail vehicles (including, without limitation, their systems, components, devices, fittings, and equipment).
     
-    Compare: 1998 No 110 [ss 155][182], [157][183]
+    Compare: 1998 No 110 [ss 155][183], [157][184]
 
 ##### 53 Rules concerning authorisation, standard-setting, etc
     
@@ -2047,7 +2055,7 @@ Safety
     
     *   (b) require a person who applies for or holds a rail document to satisfy the Agency that the person (or individual) is a fit and proper person, and---
             
-        *   (i) specify which of the criteria set out in the rules made under [section 159(3)][184] of the Land Transport Act 1998, and any other criteria, are to be applied in determining whether a person is a fit and proper person:
+        *   (i) specify which of the criteria set out in the rules made under [section 159(3)][185] of the Land Transport Act 1998, and any other criteria, are to be applied in determining whether a person is a fit and proper person:
         
         *   (ii) set out different fit and proper person assessments for different classes of rail documents, applicants, or licence holders:
         
@@ -2057,15 +2065,15 @@ Safety
     
     (4) Subject to the rules, a rail document may be issued, or a document may be recognised as a rail document, by the Agency for a period, and subject to the conditions, that the Agency considers appropriate in each particular case.
     
-    Compare: 1998 No 110 [ss 158][185], [159][184]
+    Compare: 1998 No 110 [ss 158][186], [159][185]
     
-    Section 53(1)(f)(i): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 53(1)(f)(i): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 53(1)(f)(ii): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 53(1)(f)(ii): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 53(3)(b): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 53(3)(b): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 53(4): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 53(4): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 54 Other provisions concerning ordinary rules
     
@@ -2089,45 +2097,45 @@ Safety
     
     *   (f) make transitional and savings provisions for the purposes of implementing any rule.
     
-    (5) An ordinary rule is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][186] and must be presented to the House of Representatives under [section 41][187] of that Act.
+    (5) An ordinary rule is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][187] and must be presented to the House of Representatives under [section 41][188] of that Act.
     
     (6) If a bylaw of a local authority is inconsistent with any ordinary rules in force in the same locality, the rules override the bylaws.
     
-    (7) Despite [section 28][188] of the State Sector Act 1988, the Minister may not delegate his or her power to make ordinary rules under this Act.
+    (7) Despite [section 28][189] of the State Sector Act 1988, the Minister may not delegate his or her power to make ordinary rules under this Act.
     
-    Compare: 1998 No 110 [s 160][189]
+    Compare: 1998 No 110 [s 160][190]
     
-    Section 54(4)(a): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 54(4)(a): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 54(5): replaced, on 5 August 2013, by [section 77(3)][190] of the Legislation Act 2012 (2012 No 119).
+    Section 54(5): replaced, on 5 August 2013, by [section 77(3)][191] of the Legislation Act 2012 (2012 No 119).
 
 ##### 55 Procedure concerning ordinary rules
     
-*   The procedure for making ordinary rules in [section 161][191] of the Land Transport Act 1998 applies with any necessary modifications to all ordinary rules made by the Minister under [sections 49 to 53][63].
+*   The procedure for making ordinary rules in [section 161][192] of the Land Transport Act 1998 applies with any necessary modifications to all ordinary rules made by the Minister under [sections 49 to 53][63].
 
 ##### 56 Agency may make emergency rules
     
-*   (1) The Agency may, in accordance with [section 163][192] of the Land Transport Act 1998 (which applies with any necessary modifications), make any emergency rules that the Agency considers necessary to alleviate or minimise the risk of the death of, or serious injury to, individuals, or significant damage to property, caused by the operation of a railway or the use of railway premises.
+*   (1) The Agency may, in accordance with [section 163][193] of the Land Transport Act 1998 (which applies with any necessary modifications), make any emergency rules that the Agency considers necessary to alleviate or minimise the risk of the death of, or serious injury to, individuals, or significant damage to property, caused by the operation of a railway or the use of railway premises.
     
     (2) The Agency may not make emergency rules unless it is impractical in the circumstances of the particular case for the Minister to make ordinary rules to effectively alleviate or minimise the risk concerned.
     
     (3) The Minister may revoke any emergency rule made under subsection (1), and the revocation must be notified as if it were an emergency rule.
     
-    (4) An emergency rule is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][186] and must be presented to the House of Representatives under [section 41][187] of that Act.
+    (4) An emergency rule is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][187] and must be presented to the House of Representatives under [section 41][188] of that Act.
     
-    Compare: 1998 No 110 [s 162][193]
+    Compare: 1998 No 110 [s 162][194]
     
-    Section 56 heading: amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 56 heading: amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 56(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 56(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 56(2): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 56(2): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 56(4): replaced, on 5 August 2013, by [section 77(3)][190] of the Legislation Act 2012 (2012 No 119).
+    Section 56(4): replaced, on 5 August 2013, by [section 77(3)][191] of the Legislation Act 2012 (2012 No 119).
 
 ##### 57 General provisions concerning making of rules
     
-*   The provisions of [sections 164 to 166][194] of the Land Transport Act 1998 apply with any necessary modifications to all ordinary rules and all emergency rules made under this Act.
+*   The provisions of [sections 164 to 166][195] of the Land Transport Act 1998 apply with any necessary modifications to all ordinary rules and all emergency rules made under this Act.
 
 ##### 58 Evidence of rules
     
@@ -2137,7 +2145,7 @@ Safety
     
     *   (b) an emergency rule purporting to have been made by the Agency under [section 56][70].
     
-    Section 58(b): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 58(b): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### Regulations
 
@@ -2179,7 +2187,7 @@ Safety
     
     *   (n) providing for any other matters that are contemplated by, or necessary for giving full effect to, the provisions of this Act or for its due administration.
     
-    Compare: 1998 No 110 [s 167(1)][195]
+    Compare: 1998 No 110 [s 167(1)][196]
 
 ##### 60 Regulations relating to fees and charges for rail transport
     
@@ -2213,11 +2221,11 @@ Safety
     
     (5) Regulations under this section may fix or provide for the fixing of the costs referred to in [section 41][52], but nothing in this section requires those charges to be fixed by or under regulations made under this section, and, in the absence of those regulations, those costs are payable under that section without further authority.
     
-    Compare: 1998 No 110 [s 168][196]
+    Compare: 1998 No 110 [s 168][197]
     
-    Section 60(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 60(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 60(1)(a): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 60(1)(a): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ### Subpart 6---Offences and remedies
 
@@ -2245,9 +2253,9 @@ Safety
     
     *   (c) both.
     
-    Section 61(1): amended, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 61(1): amended, on 1 July 2013, by [section 413][198] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 61(2): amended, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 61(2): amended, on 1 July 2013, by [section 413][198] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 62 Failure to hold licence
     
@@ -2263,9 +2271,9 @@ Safety
     
     *   (b) in the case of a body corporate, a fine not exceeding $500,000\.
     
-    Section 62(1): amended, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 62(1): amended, on 1 July 2013, by [section 413][198] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 62(2): amended, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 62(2): amended, on 1 July 2013, by [section 413][198] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 63 Failure to report accident or incident
     
@@ -2277,9 +2285,9 @@ Safety
     
     (2) Any rail personnel who contravenes or fails to comply with [section 13(1)][16] commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
-    Section 63(1): amended, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 63(1): amended, on 1 July 2013, by [section 413][198] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 63(2): amended, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 63(2): amended, on 1 July 2013, by [section 413][198] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 64 Obstructing safety assessor
     
@@ -2289,7 +2297,7 @@ Safety
     
     *   (b) in the case of a body corporate, a fine not exceeding $250,000\.
     
-    Section 64: amended, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 64: amended, on 1 July 2013, by [section 413][198] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 65 Liability of employers and principals
     
@@ -2333,9 +2341,9 @@ Safety
     
     (3) In proceedings under this section, the District Court may make an order for the payment by a party to the proceedings of the whole or part of the full costs incurred by any other party to the proceedings (including, without limitation, reasonable costs incurred between solicitor and client, fees, and other expenses), and the costs awarded are recoverable as a debt by the party against whom they have been awarded to the party in whose favour they have been awarded.
     
-    Section 67(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 67(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 67(2)(b): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 67(2)(b): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ### Subpart 7---Appeals
 
@@ -2345,9 +2353,9 @@ Safety
     
     (2) For the purposes of subsection (1), the exercise of a power conferred on the Agency by a provision of this Act, or a regulation or rule made under this Act, is a decision.
     
-    Section 68(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 68(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 68(2): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 68(2): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 69 Procedure
     
@@ -2365,27 +2373,27 @@ Safety
         
         
     
-    *   (c) subject to this section, an appeal must be made and determined in accordance with the [District Courts Act 1947][198] and the rules of the District Court made under that Act.
+    *   (c) subject to this section, an appeal must be made and determined in accordance with the [District Courts Act 1947][199] and the rules of the District Court made under that Act.
     
     (3) Subject to [sections 71][88] and [72][89], the decision of the District Court on an appeal under [section 68][85] is final.
     
-    Section 69(2)(b)(i): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 69(2)(b)(i): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 69(2)(b)(ii): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 69(2)(b)(ii): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 70 Decision of Agency to continue in force pending appeal, etc
     
 *   A decision of the Agency appealed against under [section 68][85] or [section 71][88] or [section 72][89] continues in force pending the determination of the appeal, and no person is excused from complying with a provision of this Act on the grounds that an appeal is pending.
     
-    Section 70 heading: amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 70 heading: amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 70: amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 70: amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 71 Appeal to High Court on question of law
     
 *   (1) A party to an appeal under [section 68][85] who is dissatisfied with the decision of the District Court on the grounds that it is erroneous in law may appeal to the High Court on that question of law.
     
-    (2) The [High Court Rules][199] and [sections 74 to 78][200] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][201] of that Act.
+    (2) The [High Court Rules][200] and [sections 74 to 78][201] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][202] of that Act.
 
 ##### 72 Further appeal to Court of Appeal
     
@@ -2395,7 +2403,7 @@ Safety
     
     (3) The decision of the Court of Appeal on an appeal or any application for leave to appeal is final.
     
-    (4) Except as provided in this section, the procedures in respect of an appeal under this section must be in accordance with the applicable provisions of the [High Court Rules][199] and the Court of Appeal Rules, as the case may be.
+    (4) Except as provided in this section, the procedures in respect of an appeal under this section must be in accordance with the applicable provisions of the [High Court Rules][200] and the Court of Appeal Rules, as the case may be.
 
 ## Part 3  
 Rail corridor
@@ -2442,9 +2450,9 @@ Rail corridor
         
     *   (a) rail personnel may impound that stock:
     
-    *   (b) the relevant rail participant, or its rail personnel, may, in respect of that stock, exercise any of the functions or powers conferred on an occupier of land by the [Impounding Act 1955][202] (and the provisions of that Act, except [section 26(1)][32], apply accordingly).
+    *   (b) the relevant rail participant, or its rail personnel, may, in respect of that stock, exercise any of the functions or powers conferred on an occupier of land by the [Impounding Act 1955][203] (and the provisions of that Act, except [section 26(1)][32], apply accordingly).
     
-    (5) The provisions of this section are in addition to, and not in substitution for, the provisions of the [Trespass Act 1980][203].
+    (5) The provisions of this section are in addition to, and not in substitution for, the provisions of the [Trespass Act 1980][204].
     
     Compare: 1992 No 111 s 25
 
@@ -2488,9 +2496,9 @@ Rail corridor
     
     Compare: 1992 No 111 s 12
     
-    Section 75(1A): inserted, on 6 August 2010, by [section 26(2)][204] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 75(1A): inserted, on 6 August 2010, by [section 26(2)][205] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
     
-    Section 75(1B): inserted, on 6 August 2010, by [section 26(2)][204] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 75(1B): inserted, on 6 August 2010, by [section 26(2)][205] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
 
 ##### 76 Lights, etc, liable to be confused with railway signals
     
@@ -2520,11 +2528,11 @@ Rail corridor
     
     *   (b) a danger to the environment or chattels so significant that immediate action is required to remove the danger.
     
-    Compare: 1992 No 111 s 13; 1996 No 30 [s 135][205]
+    Compare: 1992 No 111 s 13; 1996 No 30 [s 135][206]
 
 ##### 77 Power to prevent damage to railway
     
-*   (1) Subject to the provisions of the [Resource Management Act 1991][206], for the purposes of protecting a railway, or preventing or lessening the risk of damage to any railway infrastructure or railway premises, a licensed access provider or railway premises owner may---
+*   (1) Subject to the provisions of the [Resource Management Act 1991][207], for the purposes of protecting a railway, or preventing or lessening the risk of damage to any railway infrastructure or railway premises, a licensed access provider or railway premises owner may---
         
     *   (a) construct, maintain, alter, or reconstruct an embankment, groyne, or other protective work on any land or on the bank of a river or stream; or
     
@@ -2592,7 +2600,7 @@ Rail corridor
     
     *   (b) the land suffers damage as a result of the exercise of that power.
     
-    (2) All claims for compensation under subsection (1) must, unless settled by agreement, be determined in the manner provided by the [Public Works Act 1981][207], and the provisions of that Act relating to compensation apply accordingly.
+    (2) All claims for compensation under subsection (1) must, unless settled by agreement, be determined in the manner provided by the [Public Works Act 1981][208], and the provisions of that Act relating to compensation apply accordingly.
 
 ### Subpart 2---Interaction of rail and road
 
@@ -2642,7 +2650,7 @@ Rail corridor
 
 ##### 82 Gates and cattle stops
     
-*   (1) Despite anything in the [Local Government Act 1974][208], the [Public Works Act 1981][207], this Act, or any other Act relating to the erection of gates across roads, the following provisions apply with respect to a railway line:
+*   (1) Despite anything in the [Local Government Act 1974][209], the [Public Works Act 1981][208], this Act, or any other Act relating to the erection of gates across roads, the following provisions apply with respect to a railway line:
         
     *   (a) except as provided in paragraph (b), no person may erect or maintain a gate across the road at a level crossing within 100 m of the centre line of the railway line:
     
@@ -2772,7 +2780,7 @@ Rail corridor
     
     *   (g) the co-ordination with road construction work by the local authority or other person who has jurisdiction over that road.
     
-    Compare: 1992 No 111 s 17; 2001 No 103 [s 119][209]
+    Compare: 1992 No 111 s 17; 2001 No 103 [s 119][210]
 
 ##### 88 Notice of alteration to railway lines or works on roads
     
@@ -2820,15 +2828,15 @@ Rail corridor
     
 *   (1) If a party to an appeal under [section 89][110] is dissatisfied with the decision of the District Court as being erroneous in point of law, that party may appeal to the High Court on the question of law only.
     
-    (2) The [High Court Rules][199] and [sections 74 to 78][200] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][201] of that Act.
+    (2) The [High Court Rules][200] and [sections 74 to 78][201] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][202] of that Act.
     
-    (3) [Subpart 8][210] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
+    (3) [Subpart 8][211] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
     
     Compare: 1992 No 111 s 22
     
-    Section 90(1): amended, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 90(1): amended, on 1 July 2013, by [section 413][198] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 90(3): replaced, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 90(3): replaced, on 1 July 2013, by [section 413][198] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 91 No charging for access to road reserve
     
@@ -2836,7 +2844,7 @@ Rail corridor
     
     (2) Nothing in subsection (1) applies in respect of---
         
-    *   (a) a rate or charge levied under the [Local Government (Rating) Act 2002][211]; or
+    *   (a) a rate or charge levied under the [Local Government (Rating) Act 2002][212]; or
     
     *   (b) any shops in, on, over, or under any railway premises.
     
@@ -2844,7 +2852,7 @@ Rail corridor
     
     Compare: 1992 No 111 s 23
     
-    Section 91(3): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 91(3): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ### Subpart 4---Offences and certificates
 
@@ -2858,9 +2866,9 @@ Rail corridor
     
     (2) In addition to a fine imposed under subsection (1), the court may make any order relating to compensation that it thinks fit.
     
-    Section 92(1)(a): amended, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 92(1)(a): amended, on 1 July 2013, by [section 413][198] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 92(1)(b): amended, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 92(1)(b): amended, on 1 July 2013, by [section 413][198] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 93 Certificates by infrastructure owners or licensed access providers
     
@@ -2893,13 +2901,13 @@ Miscellaneous
     
     (3) To avoid doubt, a notice may be in electronic form.
     
-    Compare: 1989 No 74 [s 61][212]
+    Compare: 1989 No 74 [s 61][213]
 
 ##### 95 Who may file charging document for offence
     
 *   A charging document for an offence against this Act may be filed only by the Agency or an enforcement officer.
     
-    Section 95: replaced, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 95: replaced, on 1 July 2013, by [section 413][198] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 96 Evidence and proof
     
@@ -2913,21 +2921,21 @@ Miscellaneous
     
     *   (d) until the contrary is proved, it is presumed that a document purporting to have been certified or a certificate purporting to have been given under this section has been certified or given by an officer of the Agency authorised in that capacity by the Agency to certify documents or give certificates under this section.
     
-    Compare: 1989 No 74 [s 63][213]
+    Compare: 1989 No 74 [s 63][214]
     
-    Section 96(a): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 96(a): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 96(b): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 96(b): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 96(c): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 96(c): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 96(d): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 96(d): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 97 Application of fees
     
 *   All fees and other money (not being fines, infringement fees, or other penalties) received or recovered for the purposes of this Act must be paid or credited to the Authority.
     
-    Compare: 1989 No 74 [s 65][214]
+    Compare: 1989 No 74 [s 65][215]
 
 #### Infringement offences
 
@@ -2935,13 +2943,13 @@ Miscellaneous
     
 *   (1) If a person is alleged to have committed an infringement offence, the person may either---
         
-    *   (a) be proceeded against by filing a charging document under [section 14][215] of the Criminal Procedure Act 2011; or
+    *   (a) be proceeded against by filing a charging document under [section 14][216] of the Criminal Procedure Act 2011; or
     
     *   (b) be served with an infringement notice as provided in [section 99][123].
     
-    (2) Despite [section 21][216] of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if the enforcement authority commences proceedings for an infringement offence by filing a charging document under the [Criminal Procedure Act 2011][217].
+    (2) Despite [section 21][217] of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if the enforcement authority commences proceedings for an infringement offence by filing a charging document under the [Criminal Procedure Act 2011][218].
     
-    Section 98: replaced, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 98: replaced, on 1 July 2013, by [section 413][198] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 99 Issue of infringement notice
     
@@ -2961,13 +2969,13 @@ Miscellaneous
     
     (5) \[Repealed\]
     
-    Compare: 1998 No 110 [s 139][218]
+    Compare: 1998 No 110 [s 139][219]
     
-    Section 99(3): amended, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 99(3): amended, on 1 July 2013, by [section 413][198] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 99(4): repealed, on 23 July 2011, by [section 4][219] of the Railways Amendment Act 2011 (2011 No 45).
+    Section 99(4): repealed, on 23 July 2011, by [section 4][220] of the Railways Amendment Act 2011 (2011 No 45).
     
-    Section 99(5): repealed, on 23 July 2011, by [section 4][219] of the Railways Amendment Act 2011 (2011 No 45).
+    Section 99(5): repealed, on 23 July 2011, by [section 4][220] of the Railways Amendment Act 2011 (2011 No 45).
 
 ##### 100 Contents of infringement notices and reminder notices
     
@@ -2983,7 +2991,7 @@ Miscellaneous
     
     *   (e) the time within which the infringement fee may be paid; and
     
-    *   (f) a summary of the provisions of [section 21(10)][216] of the Summary Proceedings Act 1957; and
+    *   (f) a summary of the provisions of [section 21(10)][217] of the Summary Proceedings Act 1957; and
     
     *   (g) a statement of the right of the person served with the notice to request a hearing; and
     
@@ -2997,7 +3005,7 @@ Miscellaneous
     
     (4) Different forms of infringement notices and reminder notices may be prescribed for different kinds of infringement offences.
     
-    Section 100: substituted, on 23 July 2011, by [section 5][220] of the Railways Amendment Act 2011 (2011 No 45).
+    Section 100: substituted, on 23 July 2011, by [section 5][221] of the Railways Amendment Act 2011 (2011 No 45).
 
 ##### 101 Infringement fees
     
@@ -3005,19 +3013,19 @@ Miscellaneous
     
     (2) If an infringement fee is paid to an enforcement authority other than the Police, the enforcement authority must give the Commissioner of Police the particulars of the payment and the relevant infringement offence as the Commissioner of Police requires.
     
-    (3) All infringement fees received under this Act by an enforcement authority, or recovered under the [Summary Proceedings Act 1957][221] in respect of an infringement offence under this Act, must be paid into the Crown Bank Account.
+    (3) All infringement fees received under this Act by an enforcement authority, or recovered under the [Summary Proceedings Act 1957][222] in respect of an infringement offence under this Act, must be paid into the Crown Bank Account.
     
     (4) Despite subsection (3), the enforcement authority may retain the portion of the infringement fees so received that the Minister of Finance approves as being the expenses incidental to their collection.
     
     (5) For the purposes of subsection (4), the Minister of Finance may approve the retention of different portions of different infringement fees.
     
-    Compare: 1998 No 110 [s 141][222]
+    Compare: 1998 No 110 [s 141][223]
 
 ##### 102 Appointment of enforcement officers
     
 *   For the purposes of [sections 98 to 101][122], the Agency may, by warrant, appoint an employee of the Agency to be an enforcement officer.
     
-    Section 102: amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 102: amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### Repeals and transitional provisions
 
@@ -3035,7 +3043,7 @@ Miscellaneous
     
 *   (1) The following enactments are hereby repealed:
         
-    *   (a) [Part 14][223] (comprising [sections 175 to 183][224]) of the Public Works Act 1981:
+    *   (a) [Part 14][224] (comprising [sections 175 to 183][225]) of the Public Works Act 1981:
     
     *   (b) sections 44 and 45 of the Public Works Amendment Act 1988, and the heading above section 44 of that Act.
     
@@ -3047,7 +3055,7 @@ Miscellaneous
     
 *   (1) This section applies to a person who, immediately before the commencement of this Act,---
         
-    *   (a) is the holder of a rail service licence granted under the [Transport Services Licensing Act 1989][225]; and
+    *   (a) is the holder of a rail service licence granted under the [Transport Services Licensing Act 1989][226]; and
     
     *   (b) carries out rail activities as a rail operator or as an access provider.
     
@@ -3063,7 +3071,7 @@ Miscellaneous
     
     *   (b) not later than 11 months after the commencement of this Act, apply for a licence under this Act.
     
-    (3) However, if [section 109(2)][134] applies, that person must comply with the requirements of subsection (2) no later than 1 month after a licence is granted under [section 6][152] of the Transport Services Licensing Act 1989\.
+    (3) However, if [section 109(2)][134] applies, that person must comply with the requirements of subsection (2) no later than 1 month after a licence is granted under [section 6][153] of the Transport Services Licensing Act 1989\.
     
     (4) The Agency must issue an interim licence to a person who has provided a written statement specified in subsection (2)(a) not later than 10 working days after receipt of that statement.
     
@@ -3079,7 +3087,7 @@ Miscellaneous
         
         
     
-    *   (b) must include the same conditions as the person's rail service licence granted under the [Transport Services Licensing Act 1989][225]; and
+    *   (b) must include the same conditions as the person's rail service licence granted under the [Transport Services Licensing Act 1989][226]; and
     
     *   (c) expires 24 months after the commencement of this Act or when an application for a licence under this Act is granted (whichever is the sooner); and
     
@@ -3087,21 +3095,21 @@ Miscellaneous
     
     (6) Despite subsection (5)(c), the Agency may extend the expiration date of an interim licence if the Agency considers it appropriate.
     
-    (7) If a person has been issued an interim licence under subsection (4), the person's approved safety system under the [Transport Services Licensing Act 1989][225] is deemed to be that person's approved safety case for the purposes of this Act until the expiry of the interim licence under subsection (5)(c).
+    (7) If a person has been issued an interim licence under subsection (4), the person's approved safety system under the [Transport Services Licensing Act 1989][226] is deemed to be that person's approved safety case for the purposes of this Act until the expiry of the interim licence under subsection (5)(c).
     
-    (8) A rail service licence granted under the [Transport Services Licensing Act 1989][225]---
+    (8) A rail service licence granted under the [Transport Services Licensing Act 1989][226]---
         
     *   (a) continues in effect for a period of 2 months after the commencement of this Act or until the Agency issues an interim licence under subsection (4) (whichever is the sooner); and
     
     *   (b) may be revoked, suspended, or otherwise dealt with under this Act as if it were a licence granted under [section 17][21].
     
-    Section 105(2)(a): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 105(2)(a): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 105(4): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 105(4): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 105(6): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 105(6): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 105(8)(a): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 105(8)(a): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 106 Provisions relating to persons requiring licences who do not hold rail service licences under Transport Services Licensing Act 1989
     
@@ -3111,7 +3119,7 @@ Miscellaneous
     
     *   (b) is required to be licensed under this Act; and
     
-    *   (c) is not the holder of a rail service licence granted under the [Transport Services Licensing Act 1989][225].
+    *   (c) is not the holder of a rail service licence granted under the [Transport Services Licensing Act 1989][226].
     
     (2) A person to whom this section applies must,---
         
@@ -3135,67 +3143,67 @@ Miscellaneous
     
     *   (b) may be revoked, suspended, or otherwise dealt with under this Act as if it were a licence granted under [section 17][21].
     
-    Section 106(2)(a): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 106(2)(a): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 106(3): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 106(3): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 107 Safety audits under Transport Services Licensing Act 1989
     
-*   A safety audit report must be completed as if the relevant provisions of the [Transport Services Licensing Act 1989][225] had not been repealed if, on the date of commencement of this Act, a safety auditor has commenced, but not completed,---
+*   A safety audit report must be completed as if the relevant provisions of the [Transport Services Licensing Act 1989][226] had not been repealed if, on the date of commencement of this Act, a safety auditor has commenced, but not completed,---
         
-    *   (a) a regular safety audit report under [section 39F][226] of the Transport Services Licensing Act 1989; or
+    *   (a) a regular safety audit report under [section 39F][227] of the Transport Services Licensing Act 1989; or
     
-    *   (b) a special safety audit under [section 39N][227] of the Transport Services Licensing Act 1989\.
+    *   (b) a special safety audit under [section 39N][228] of the Transport Services Licensing Act 1989\.
     
     
 
 ##### 108 Decisions of Agency under Transport Services Licensing Act 1989
     
-*   (1) If the Agency made a decision in respect of a rail participant under a provision of the [Transport Services Licensing Act 1989][225] that has been repealed by this Act, that decision continues to have effect as if the provisions under which it was made had not been repealed.
+*   (1) If the Agency made a decision in respect of a rail participant under a provision of the [Transport Services Licensing Act 1989][226] that has been repealed by this Act, that decision continues to have effect as if the provisions under which it was made had not been repealed.
     
-    (2) A decision-making process commenced under the provisions of the [Transport Services Licensing Act 1989][225] must continue under that Act if---
+    (2) A decision-making process commenced under the provisions of the [Transport Services Licensing Act 1989][226] must continue under that Act if---
         
     *   (a) the Agency has notified a rail participant of a proposed decision to---
             
-        *   (i) require a variation of an approved safety system under [section 6F][170] of the Transport Services Licensing Act 1989; or
+        *   (i) require a variation of an approved safety system under [section 6F][171] of the Transport Services Licensing Act 1989; or
         
-        *   (ii) revoke a rail service licence under [section 11][228] of the Transport Services Licensing Act 1989; or
+        *   (ii) revoke a rail service licence under [section 11][229] of the Transport Services Licensing Act 1989; or
         
-        *   (iii) impose conditions on or suspend a rail service licence under [section 39D][229] of the Transport Services Licensing Act 1989; and
+        *   (iii) impose conditions on or suspend a rail service licence under [section 39D][230] of the Transport Services Licensing Act 1989; and
         
         
     
     *   (b) the final determination of that decision is still pending at the date of commencement of this Act.
     
-    Section 108 heading: amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 108 heading: amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 108(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 108(1): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 108(2)(a): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 108(2)(a): amended, on 1 August 2008, by [section 50(1)][148] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 109 Applications under Transport Services Licensing Act 1989
     
-*   (1) If a person has made an application for a rail service licence under [section 6][152] of the Transport Services Licensing Act 1989 that is pending at the date of commencement of this Act, that application must be treated as an application under that Act.
+*   (1) If a person has made an application for a rail service licence under [section 6][153] of the Transport Services Licensing Act 1989 that is pending at the date of commencement of this Act, that application must be treated as an application under that Act.
     
-    (2) A licence granted under [section 6][152] of the Transport Services Licensing Act 1989 in accordance with this provision must, for the purpose of [section 105][130], be treated as a licence that was held immediately before the commencement of this Act.
+    (2) A licence granted under [section 6][153] of the Transport Services Licensing Act 1989 in accordance with this provision must, for the purpose of [section 105][130], be treated as a licence that was held immediately before the commencement of this Act.
     
-    (3) If subsection (2) applies, despite anything in [section 105(2)][130], the person must comply with the requirements of section 105(2) not later than 1 month after a licence is granted under [section 6][152] of the Transport Services Licensing Act 1989\.
+    (3) If subsection (2) applies, despite anything in [section 105(2)][130], the person must comply with the requirements of section 105(2) not later than 1 month after a licence is granted under [section 6][153] of the Transport Services Licensing Act 1989\.
 
 ##### 110 Court proceedings under Transport Services Licensing Act 1989
     
-*   A proceeding commenced under a provision of the [Transport Services Licensing Act 1989][225] that is pending or in progress immediately before the repeal of that provision by this Act may be continued, completed, or enforced (as the case may require) as if that provision had not been repealed.
+*   A proceeding commenced under a provision of the [Transport Services Licensing Act 1989][226] that is pending or in progress immediately before the repeal of that provision by this Act may be continued, completed, or enforced (as the case may require) as if that provision had not been repealed.
 
 ##### 111 Application of Transport Services Licensing Act 1989 to licences issued under this Act
     
-*   (1) The [Transport Services Licensing Regulations 1989][230] apply, with all necessary modifications, to licences issued under this Act, except that---
+*   (1) The [Transport Services Licensing Regulations 1989][231] apply, with all necessary modifications, to licences issued under this Act, except that---
         
-    *   (a) [regulations 4][231] and [5][232] must be read as if every reference to a transport service licence issued under the [Transport Services Licensing Act 1989][225] were a reference to a licence to carry out rail activities issued under this Act:
+    *   (a) [regulations 4][232] and [5][233] must be read as if every reference to a transport service licence issued under the [Transport Services Licensing Act 1989][226] were a reference to a licence to carry out rail activities issued under this Act:
     
-    *   (b) [regulation 7A][233] must be read as if the reference to a rail service licence were a reference to a licence to carry out activities as an access provider or rail operator under this Act:
+    *   (b) [regulation 7A][234] must be read as if the reference to a rail service licence were a reference to a licence to carry out activities as an access provider or rail operator under this Act:
     
-    *   (c) item 2 in column 2 of [Schedule 1][234] must be read as if the reference to a rail service licence were a reference to a licence to carry out rail service activities under this Act:
+    *   (c) item 2 in column 2 of [Schedule 1][235] must be read as if the reference to a rail service licence were a reference to a licence to carry out rail service activities under this Act:
     
-    *   (d) in [Schedule 2][235], every reference to---
+    *   (d) in [Schedule 2][236], every reference to---
             
         *   (i) a rail service licence must be read as if it were a reference to a licence to carry out activities as a rail operator under this Act:
         
@@ -3203,7 +3211,7 @@ Miscellaneous
         
         
     
-    (2) [Regulation 9(l)][236] of the Transport Services Licensing Regulations 1989 has effect as if it were a regulation made under [section 59][74] exempting the rail participant referred to in that regulation from complying with [Parts 1][3] and [2][8].
+    (2) [Regulation 9(l)][237] of the Transport Services Licensing Regulations 1989 has effect as if it were a regulation made under [section 59][74] exempting the rail participant referred to in that regulation from complying with [Parts 1][3] and [2][8].
     
     (3) This section expires on a date specified by Order in Council.
 
@@ -3216,15 +3224,15 @@ Acts consequentially amended
 
 ##### Electricity Act 1992 (1992 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][237]._
+_Amendment(s) incorporated in the [Act(s)][238]._
 
 ##### Gas Act 1992 (1992 No 124)
 
-_Amendment(s) incorporated in the [Act(s)][238]._
+_Amendment(s) incorporated in the [Act(s)][239]._
 
 ##### Hazardous Substances and New Organisms Act 1996 (1996 No 30)
 
-_Amendment(s) incorporated in the [Act(s)][239]._
+_Amendment(s) incorporated in the [Act(s)][240]._
 
 ##### Land Transport Act 1998 (1998 No 110)
 
@@ -3232,39 +3240,39 @@ _Amendment(s) incorporated in the [Act(s)][142]._
 
 ##### Land Transport Management Act 2003 (2003 No 118)
 
-_Amendment(s) incorporated in the [Act(s)][240]._
+_Amendment(s) incorporated in the [Act(s)][241]._
 
 ##### Local Government Act 1974 (1974 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][208]._
+_Amendment(s) incorporated in the [Act(s)][209]._
 
 ##### Local Government (Rating) Act 2002 (2002 No 6)
 
-_Amendment(s) incorporated in the [Act(s)][211]._
+_Amendment(s) incorporated in the [Act(s)][212]._
 
 ##### New Zealand Railways Corporation Act 1981 (1981 No 119)
 
-_Amendment(s) incorporated in the [Act(s)][241]._
+_Amendment(s) incorporated in the [Act(s)][242]._
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][242]._
+_Amendment(s) incorporated in the [Act(s)][243]._
 
 ##### Te Ture Whenua Maori Act 1993 (1993 No 4)
 
-_Amendment(s) incorporated in the [Act(s)][243]._
+_Amendment(s) incorporated in the [Act(s)][244]._
 
 ##### Transport Accident Investigation Commission Act 1990 (1990 No 99)
 
-_Amendment(s) incorporated in the [Act(s)][244]._
+_Amendment(s) incorporated in the [Act(s)][245]._
 
 ##### Transport Act 1962 (1962 No 135)
 
-_Amendment(s) incorporated in the [Act(s)][245]._
+_Amendment(s) incorporated in the [Act(s)][246]._
 
 ##### Transport Services Licensing Act 1989 (1989 No 74)
 
-_Amendment(s) incorporated in the [Act(s)][225]._
+_Amendment(s) incorporated in the [Act(s)][226]._
 
 ---
 
@@ -3279,19 +3287,19 @@ _Amendment(s) incorporated in the regulations._
 
 ##### Hazardous Substances (Classes 1 to 5 Controls) Regulations 2001 (SR 2001/116)
 
-_Amendment(s) incorporated in the [regulations][246]._
+_Amendment(s) incorporated in the [regulations][247]._
 
 ##### Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)
 
-_Amendment(s) incorporated in the [regulations][247]._
+_Amendment(s) incorporated in the [regulations][248]._
 
 ##### Land Transport (Road User) Rule 2004 (SR 2004/427)
 
-_Amendment(s) incorporated in the [rule(s)][248]._
+_Amendment(s) incorporated in the [rule(s)][249]._
 
 ##### Traffic Regulations 1976 (SR 1976/227)
 
-_Amendment(s) incorporated in the [regulations][249]._
+_Amendment(s) incorporated in the [regulations][250]._
 
 ---
 
@@ -3303,7 +3311,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Infrastructure (Amendments Relating to Utilities Access) Act 2010][250].
+*   This Act is the [Infrastructure (Amendments Relating to Utilities Access) Act 2010][251].
 
 ##### 2 Commencement
     
@@ -3327,25 +3335,27 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][251] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][252] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][252] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][253] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][253] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][254] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][254] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][255] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][190]
+*   WorkSafe New Zealand Act 2013 (2013 No 94): [section 22][150]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][197]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][191]
     
-    [Railways Amendment Act 2011][255] (2011 No 45)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][198]
     
-    Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99): [section 26][204]
+    [Railways Amendment Act 2011][256] (2011 No 45)
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(vii), (d)][148]
+    Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99): [section 26][205]
     
-    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][147]
+    Policing Act 2008 (2008 No 72): [section 116(a)(vii), (d)][149]
+    
+    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][148]
 
 
 
@@ -3496,112 +3506,113 @@ Commencementsee section 2
 [144]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM261268
 [145]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM420326
 [146]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM173374
-[147]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM1313622
-[148]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM1102349
-[149]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM278828
-[150]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM278835
-[151]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435132
-[152]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM171608
-[153]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172129
-[154]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172130
-[155]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172132
-[156]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172134
-[157]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172140
-[158]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172143
-[159]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM215790
-[160]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM216100
-[161]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM216106
-[162]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM216120
-[163]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172119
-[164]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172176
-[165]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM171610
-[166]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM171613
-[167]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM171617
-[168]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM171621
-[169]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM171625
-[170]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM171629
-[171]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM171633
-[172]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM171640
-[173]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172602
-[174]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172606
-[175]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172610
-[176]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172185
-[177]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172189
-[178]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172623
-[179]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435179
-[180]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435182
-[181]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435186
-[182]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435184
-[183]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435187
-[184]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435192
-[185]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435188
-[186]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2997643
-[187]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2998573
-[188]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM129507
-[189]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435194
-[190]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2998633
-[191]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435195
-[192]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435198
-[193]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435197
-[194]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435400
-[195]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435407
-[196]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435411
-[197]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM3360714
-[198]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM242775
-[199]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM147653
-[200]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM243909
-[201]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM243795
-[202]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM293863
-[203]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM36926
-[204]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2924942
-[205]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM384993
-[206]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM230264
-[207]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM45426
-[208]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM415531
-[209]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM127423
-[210]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM3360482
-[211]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM131393
-[212]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172696
-[213]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172699
-[214]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172806
-[215]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM3360057
-[216]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM311346
-[217]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM3359902
-[218]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435155
-[219]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM3558009
-[220]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM3558010
-[221]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM310742
-[222]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435158
-[223]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM47767
-[224]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM47770
-[225]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM170942
-[226]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172180
-[227]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172614
-[228]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM171665
-[229]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172172
-[230]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133323
-[231]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133341
-[232]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133344
-[233]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133353
-[234]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133364
-[235]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133370
-[236]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133360
-[237]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM281857
-[238]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM285411
-[239]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM381221
-[240]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM226229
-[241]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM57005
-[242]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM296638
-[243]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM289881
-[244]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM219710
-[245]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM341189
-[246]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM35394
-[247]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM280109
-[248]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM302187
-[249]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM50037
-[250]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2924904
-[251]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2998516
-[252]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2998515
-[253]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2998532
-[254]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[255]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM3558004
+[147]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM5302049
+[148]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM1313622
+[149]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM1102349
+[150]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM5302071
+[151]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM278828
+[152]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435132
+[153]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM171608
+[154]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172129
+[155]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172130
+[156]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172132
+[157]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172134
+[158]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172140
+[159]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172143
+[160]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM215790
+[161]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM216100
+[162]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM216106
+[163]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM216120
+[164]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172119
+[165]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172176
+[166]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM171610
+[167]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM171613
+[168]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM171617
+[169]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM171621
+[170]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM171625
+[171]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM171629
+[172]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM171633
+[173]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM171640
+[174]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172602
+[175]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172606
+[176]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172610
+[177]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172185
+[178]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172189
+[179]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172623
+[180]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435179
+[181]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435182
+[182]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435186
+[183]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435184
+[184]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435187
+[185]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435192
+[186]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435188
+[187]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2997643
+[188]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2998573
+[189]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM129507
+[190]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435194
+[191]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2998633
+[192]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435195
+[193]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435198
+[194]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435197
+[195]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435400
+[196]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435407
+[197]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435411
+[198]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM3360714
+[199]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM242775
+[200]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM147653
+[201]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM243909
+[202]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM243795
+[203]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM293863
+[204]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM36926
+[205]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2924942
+[206]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM384993
+[207]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM230264
+[208]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM45426
+[209]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM415531
+[210]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM127423
+[211]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM3360482
+[212]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM131393
+[213]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172696
+[214]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172699
+[215]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172806
+[216]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM3360057
+[217]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM311346
+[218]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM3359902
+[219]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435155
+[220]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM3558009
+[221]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM3558010
+[222]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM310742
+[223]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435158
+[224]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM47767
+[225]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM47770
+[226]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM170942
+[227]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172180
+[228]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172614
+[229]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM171665
+[230]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172172
+[231]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133323
+[232]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133341
+[233]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133344
+[234]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133353
+[235]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133364
+[236]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133370
+[237]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133360
+[238]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM281857
+[239]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM285411
+[240]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM381221
+[241]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM226229
+[242]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM57005
+[243]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM296638
+[244]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM289881
+[245]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM219710
+[246]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM341189
+[247]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM35394
+[248]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM280109
+[249]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM302187
+[250]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM50037
+[251]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2924904
+[252]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2998516
+[253]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2998515
+[254]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2998532
+[255]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[256]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM3558004
