@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 16 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Business, Innovation, and Employment.
 
@@ -149,7 +149,7 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 [40][61][][61][Savings][61] \[Repealed\]
 
-[41][62][][62][Act to be administered by Department of Labour][62]
+[41][62][][62][Act to be administered by Department of Labour][62] \[Repealed\]
 
 [42][63][][63][Act to bind the Crown][63]
 
@@ -195,35 +195,39 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
     _prime mover_ means an engine, motor, or other appliance which provides mechanical energy derived from steam, water, wind, electricity, gas, gaseous products, compressed air, the combustion of fuel, or any other source
     
-    _Secretary_ means the Secretary of Labour
-    
     _tractor_ means a vehicle propelled by mechanical power, controlled by a driver carried thereon, that is designed exclusively or principally for the purposes of traction and not for the carriage thereon of passengers (other than the driver) or of goods; but does not include a traction engine within the meaning of [section 2(1)][64] of the Land Transport Act 1998
     
-    _transmission machinery_ means any shaft, wheel, drum, pulley, system of fast and loose pulleys, gearing, coupling, clutch, driving belt, chain, rope, band, or other device by which the motion of a prime mover is transmitted to or received by any machine or appliance.
+    _transmission machinery_ means any shaft, wheel, drum, pulley, system of fast and loose pulleys, gearing, coupling, clutch, driving belt, chain, rope, band, or other device by which the motion of a prime mover is transmitted to or received by any machine or appliance
     
-    Section 2 **boiler**: repealed, on 1 April 1993, by [section 62(2)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    _WorkSafe_ means WorkSafe New Zealand established by [section 5][65] of the WorkSafe New Zealand Act 2013\.
     
-    Section 2 **crane**: repealed, on 1 April 1993, by [section 62(2)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 2 **boiler**: repealed, on 1 April 1993, by [section 62(2)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
     
-    Section 2 **hoist**: repealed, on 1 April 1993, by [section 62(2)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 2 **crane**: repealed, on 1 April 1993, by [section 62(2)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
     
-    Section 2 **lift**: repealed, on 1 April 1993, by [section 62(2)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 2 **hoist**: repealed, on 1 April 1993, by [section 62(2)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
     
-    Section 2 **lifting machine**: repealed, on 1 April 1993, by [section 62(2)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 2 **lift**: repealed, on 1 April 1993, by [section 62(2)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
     
-    Section 2 **lifting tackle**: repealed, on 1 April 1993, by [section 62(2)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 2 **lifting machine**: repealed, on 1 April 1993, by [section 62(2)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
     
-    Section 2 **lifting vehicle**: repealed, on 1 April 1993, by [section 62(2)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 2 **lifting tackle**: repealed, on 1 April 1993, by [section 62(2)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    
+    Section 2 **lifting vehicle**: repealed, on 1 April 1993, by [section 62(2)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
     
     Section 2 **machinery**: replaced, on 6 June 1986, by section 2(2) of the Machinery Amendment Act 1986 (1986 No 15).
     
-    Section 2 **noise**: repealed, on 1 April 1993, by [section 62(2)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 2 **noise**: repealed, on 1 April 1993, by [section 62(2)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    
+    Section 2 **Secretary**: repealed, on 16 December 2013, by [section 22][67] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
     Section 2 **tractor**: inserted, on 6 June 1986, by section 2(3) of the Machinery Amendment Act 1986 (1986 No 15).
     
-    Section 2 **tractor**: amended, on 1 May 2011, by [section 35(4)][66] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 2 **tractor**: amended, on 1 May 2011, by [section 35(4)][68] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 2 **winding engine**: repealed, on 1 April 1993, by [section 62(2)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 2 **winding engine**: repealed, on 1 April 1993, by [section 62(2)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    
+    Section 2 **WorkSafe**: inserted, on 16 December 2013, by [section 22][67] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 #### Exceptions from Act
 
@@ -253,19 +257,19 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
     Section 3(1): replaced, on 1 December 1970, by section 3(1) of the Machinery Amendment Act 1970 (1970 No 128).
     
-    Section 3(1)(a): repealed, on 1 April 1993, by [section 62(1)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 3(1)(a): repealed, on 1 April 1993, by [section 62(1)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
     
-    Section 3(1)(aa): repealed, on 1 April 1993, by [section 62(1)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 3(1)(aa): repealed, on 1 April 1993, by [section 62(1)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
     
-    Section 3(1)(b): repealed, on 1 April 1993, by [section 62(1)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 3(1)(b): repealed, on 1 April 1993, by [section 62(1)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
     
-    Section 3(1)(c): repealed, on 1 April 1993, by [section 62(1)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 3(1)(c): repealed, on 1 April 1993, by [section 62(1)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
     
-    Section 3(1)(d): repealed, on 1 April 1993, by [section 62(1)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 3(1)(d): repealed, on 1 April 1993, by [section 62(1)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
     
-    Section 3(1)(e): repealed, on 1 April 1993, by [section 62(1)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 3(1)(e): repealed, on 1 April 1993, by [section 62(1)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
     
-    Section 3(1)(f): repealed, on 1 April 1993, by [section 62(1)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 3(1)(f): repealed, on 1 April 1993, by [section 62(1)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
     
     Section 3(2): amended, on 6 June 1986, by section 3(3) of the Machinery Amendment Act 1986 (1986 No 15).
     
@@ -277,15 +281,17 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
 *   \[Repealed\]
     
-    Section 4: repealed, on 1 April 1993, by [section 62(1)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 4: repealed, on 1 April 1993, by [section 62(1)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
 
 #### Inspection
 
 ##### 5 Appointment of Inspectors
     
-*   (1) There may from time to time be appointed as officers of the Public Service such Inspectors as may be required for the purposes of this Act.
+*   (1) WorkSafe may appoint any employee of WorkSafe to be an Inspector for the purposes of this Act.
     
     (2) Every Inspector of Factories under the Factories and Commercial Premises Act 1981, every Inspector under the Construction Act 1959, and every Inspector under the Bush Workers Act 1945 shall have all the powers of an Inspector under this Act.
+    
+    Section 5(1): replaced, on 16 December 2013, by [section 22][67] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
     Section 5(2): amended, on 1 February 1982, pursuant to section 74 of the Factories and Commercial Premises Act 1981 (1981 No 25).
     
@@ -315,7 +321,7 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
     Section 6(1)(d): replaced, on 20 October 1978, by section 2(1) of the Machinery Amendment Act 1978 (1978 No 105).
     
-    Section 6(3): replaced, on 1 April 1987, by [section 25(1)][67] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 6(3): replaced, on 1 April 1987, by [section 25(1)][69] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 7 Non-disclosure of information
     
@@ -355,13 +361,13 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 April 1993, pursuant to [section 62(1)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+*   Heading: repealed, on 1 April 1993, pursuant to [section 62(1)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
 
 ##### 12 Young persons not to be employed in certain cases
     
 *   \[Repealed\]
     
-    Section 12: repealed, on 1 April 1993, by [section 62(1)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 12: repealed, on 1 April 1993, by [section 62(1)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
 
 #### Duties and liabilities of owners of machinery
 
@@ -507,7 +513,7 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
 *   \[Repealed\]
     
-    Section 17E: repealed, on 1 April 1993, by [section 62(1)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 17E: repealed, on 1 April 1993, by [section 62(1)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
 
 ##### 18 Duties of users of machinery
     
@@ -533,13 +539,13 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
 *   \[Repealed\]
     
-    Section 19: repealed, on 1 April 1993, by [section 62(1)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 19: repealed, on 1 April 1993, by [section 62(1)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
 
 ##### 19A Persons not to operate machinery unless trained
     
 *   \[Repealed\]
     
-    Section 19A: repealed, on 1 April 1993, by [section 62(1)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 19A: repealed, on 1 April 1993, by [section 62(1)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
 
 ##### 20 Faulty, defective, and insufficiently guarded machinery
     
@@ -561,7 +567,7 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
     _amusement device_ means an appliance to which the motion of a prime mover is transmitted and which is used, or designed or intended to be used, for the amusement, recreation, or entertainment of persons being carried, raised, lowered, or moved by the appliance or any part thereof while it is in motion; and includes the prime mover, transmission machinery, supporting structure, and any equipment used or intended to be used in connection therewith
     
-    _local authority_ means a territorial authority within the meaning of the [Local Government Act 2002][68].
+    _local authority_ means a territorial authority within the meaning of the [Local Government Act 2002][70].
     
     (2) Every person commits an offence against this Act who erects for the purposes of operation or operates any amusement device unless---
         
@@ -625,7 +631,7 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
     Section 21A: inserted, on 7 March 1968, by section 4(1) of the Machinery Amendment Act 1963 (1963 No 14).
     
-    Section 21A(1) **local authority**: replaced, on 1 July 2003, by [section 262][69] of the Local Government Act 2002 (2002 No 84).
+    Section 21A(1) **local authority**: replaced, on 1 July 2003, by [section 262][71] of the Local Government Act 2002 (2002 No 84).
     
     Section 21A(2)(b): amended, on 8 November 1974, by section 2(1)(a) of the Machinery Amendment Act 1974 (1974 No 100).
     
@@ -653,19 +659,19 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
 *   \[Repealed\]
     
-    Section 21B: repealed, on 1 April 1993, by [section 62(1)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 21B: repealed, on 1 April 1993, by [section 62(1)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
 
 ##### 21C Children on tractors and implements
     
 *   \[Repealed\]
     
-    Section 21C: repealed, on 1 April 1993, by [section 62(1)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 21C: repealed, on 1 April 1993, by [section 62(1)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
 
 ##### 22 Inspector to be notified of accident
     
 *   \[Repealed\]
     
-    Section 22: repealed, on 1 April 1993, by [section 62(1)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 22: repealed, on 1 April 1993, by [section 62(1)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
 
 ##### 23 Inquiry into cause of accident
     
@@ -673,17 +679,17 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
     (2) The District Court Judge, together with the said person, shall have power to hold the inquiry at such times and places as the Minister appoints, and shall report on the cause of the accident to the Minister.
     
-    (3) With respect to the summoning and attendance of witnesses at or upon any such inquiry, and the examination of witnesses upon oath, every such District Court Judge shall have all the powers which he would have or might exercise in any case within his ordinary jurisdiction under the [Criminal Procedure Act 2011][70].
+    (3) With respect to the summoning and attendance of witnesses at or upon any such inquiry, and the examination of witnesses upon oath, every such District Court Judge shall have all the powers which he would have or might exercise in any case within his ordinary jurisdiction under the [Criminal Procedure Act 2011][72].
     
     (4) For the purposes of this section and of [section 22][37] the expression _serious bodily injury_ means an injury which is likely to incapacitate the sufferer for work for at least 48 hours.
     
-    Section 23(1): amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 23(1): amended, on 1 April 1980, pursuant to [section 18(2)][73] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 23(2): amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 23(2): amended, on 1 April 1980, pursuant to [section 18(2)][73] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 23(3): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 23(3): amended, on 1 July 2013, by [section 413][74] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 23(3): amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 23(3): amended, on 1 April 1980, pursuant to [section 18(2)][73] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 24 Record of accidents
     
@@ -691,7 +697,7 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
     (2) \[Repealed\]
     
-    Section 24(2): repealed, on 1 April 1993, by [section 62(1)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 24(2): repealed, on 1 April 1993, by [section 62(1)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
 
 #### Procedure as to requisitions by Inspector
 
@@ -713,11 +719,11 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
     (4) On the hearing of the appeal the District Court Judge may, by order, confirm, reverse, or modify the requisition, as he thinks fit, and the order shall be final and binding on all parties.
     
-    Section 26(1): amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 26(1): amended, on 1 April 1980, pursuant to [section 18(2)][73] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 26(3): amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 26(3): amended, on 1 April 1980, pursuant to [section 18(2)][73] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 26(4): amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 26(4): amended, on 1 April 1980, pursuant to [section 18(2)][73] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 26A Codes of practice
     
@@ -725,7 +731,7 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
     _code of practice_ means a recommended practice and includes a description of any commodity, phenomenon, process, or practice, by reference to its nature, quality, strength, purity, composition, quantity, dimension, weight, grade, durability, origin, age, intensity, duration, or other characteristic whatsoever, or any 2 or more of them, and may also include a glossary of terms, definitions, and symbols, or any of them.
     
-    (2) The Secretary may, from time to time, issue for the purposes of this Act, codes of practice relating to safety in the assembly, maintenance, use or operation of machinery, or any amusement device, and may from time to time amend or revoke any such code of practice.
+    (2) WorkSafe may, from time to time, issue for the purposes of this Act, codes of practice relating to safety in the assembly, maintenance, use or operation of machinery, or any amusement device, and may from time to time amend or revoke any such code of practice.
     
     Section 26A: inserted, on 6 June 1986, by section 7 of the Machinery Amendment Act 1986 (1986 No 15).
     
@@ -733,7 +739,7 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
     Section 26A(1) **Chief Inspector of Factories**: repealed, on 16 October 1989, by section 2(1) of the Machinery Amendment Act 1989 (1989 No 88).
     
-    Section 26A(2): amended, on 16 October 1989, by section 2(2) of the Machinery Amendment Act 1989 (1989 No 88).
+    Section 26A(2): amended, on 16 December 2013, by [section 22][67] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 26B Codes of practice to be approved by Minister
     
@@ -741,7 +747,7 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
     (2) The Minister shall not approve any code of practice or any amendment or revocation of a code of practice unless---
         
-    *   (a) not less than 1 month has elapsed since the publication in the _Gazette_ of a notice of the intention of the Secretary to apply for approval; and
+    *   (a) not less than 1 month has elapsed since the publication in the _Gazette_ of a notice of the intention of WorkSafe to apply for approval; and
     
     *   (b) the Minister has consulted such persons as he considers will be affected thereby, or representatives of those persons, and they have had the opportunity to consider its possible effects and comment on those effects to the Minister; and
     
@@ -759,15 +765,21 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
     Section 26B: inserted, on 6 June 1986, by section 7 of the Machinery Amendment Act 1986 (1986 No 15).
     
-    Section 26B(2)(a): amended, on 16 October 1989, by section 2(3) of the Machinery Amendment Act 1989 (1989 No 88).
+    Section 26B(2)(a): amended, on 16 December 2013, by [section 22][67] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 26C Proof of codes of practice
     
-*   Without affecting any other method of proof, the production in any proceedings of a copy of any code of practice purporting to be issued after the commencement of the Machinery Amendment Act 1989 by the Secretary or before that commencement by the Chief Inspector of Factories or the Chief Construction Safety Engineer, as the case may be, shall, in the absence of proof to the contrary, be sufficient evidence that it has been issued under the authority of [section 26A][43] and that it has been approved by the Minister under [section 26B][44].
+*   (1) In any proceedings, the production of a copy of a code of practice purporting to be issued by the following persons is sufficient evidence that the code of practice has been issued under [section 26A][43] and approved under [section 26B][44]:
+        
+    *   (a) for a code of practice issued before 16 October 1989, the Chief Inspector of Factories or the Chief Construction Safety Engineer:
     
-    Section 26C: inserted, on 6 June 1986, by section 7 of the Machinery Amendment Act 1986 (1986 No 15).
+    *   (b) for a code of practice issued on or after 16 October 1989 and before 16 December 2013, the Secretary of Labour:
     
-    Section 26C: amended, on 16 October 1989, by section 2(4) of the Machinery Amendment Act 1989 (1989 No 88).
+    *   (c) for a code of practice issued on or after 16 December 2013, WorkSafe.
+    
+    (2) Subsection (1) does not affect any other method of proof by which it may be established that a code of practice has been issued under [section 26A][43] and approved under [section 26B][44].
+    
+    Section 26C: replaced, on 16 December 2013, by [section 22][67] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 #### Offences, penalties, and procedure
 
@@ -777,7 +789,7 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
     (2) In any case where under this Act any requisition of an Inspector is served on an owner and the requisition is not duly complied with within such time as may be fixed by the requisition or by the District Court Judge on an appeal, or, if no time for compliance is so fixed, within a reasonable time, the owner commits an offence against this Act.
     
-    Section 27(2): amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 27(2): amended, on 1 April 1980, pursuant to [section 18(2)][73] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 28 When owners and mortgagees not liable
     
@@ -817,21 +829,21 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
     Section 29: replaced, on 6 June 1986, by section 8 of the Machinery Amendment Act 1986 (1986 No 15).
     
-    Section 29(1): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 29(1): amended, on 1 July 2013, by [section 413][74] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 29(2): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 29(2): amended, on 1 July 2013, by [section 413][74] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 30 Application of part of fine to person injured
     
 *   \[Repealed\]
     
-    Section 30: repealed, on 1 April 1993, by [section 62(1)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 30: repealed, on 1 April 1993, by [section 62(1)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
 
 ##### 31 Power to order contravention to be remedied
     
 *   \[Repealed\]
     
-    Section 31: repealed, on 1 April 1993, by [section 62(1)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 31: repealed, on 1 April 1993, by [section 62(1)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
 
 ##### 32 Forging of certificates, etc
     
@@ -863,11 +875,11 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
     (3) If, before the commencement of any proceedings against the owner in respect of any offence under this Act, the Inspector is satisfied that if any other person were charged with the offence under the foregoing provisions of this section that other person would be convicted of the offence, the Inspector shall proceed against the person whom he believes to be the actual offender without first proceeding against the owner. In any such case the provisions of subsection (2) shall, with the necessary modifications, apply, notwithstanding that no proceedings have been commenced against the owner.
     
-    Section 33(1): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 33(1): amended, on 1 July 2013, by [section 413][74] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 33(1): amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 33(1): amended, on 1 April 1980, pursuant to [section 18(2)][73] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 33(2): amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 33(2): amended, on 1 April 1980, pursuant to [section 18(2)][73] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 34 Proceedings to be before District Court Judge alone
     
@@ -875,11 +887,11 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
     (2) Except as provided in [section 33][53], only an Inspector may file a charging document in respect of an offence under this Act.
     
-    Section 34 heading: amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 34 heading: amended, on 1 April 1980, pursuant to [section 18(2)][73] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 34(1): repealed, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 34(1): repealed, on 1 July 2013, by [section 413][74] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 34(2): replaced, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 34(2): replaced, on 1 July 2013, by [section 413][74] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 35 Provisions as to procedure
     
@@ -899,25 +911,25 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
     (8) A conviction or adjudication under this Act, or an adjudication made on appeal therefrom, shall not be quashed for want of form or be removed into the High Court by certiorari or otherwise.
     
-    Section 35(1): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 35(1): amended, on 1 July 2013, by [section 413][74] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 35(1): amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 35(1): amended, on 1 April 1980, pursuant to [section 18(2)][73] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 35(2): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 35(2): amended, on 1 July 2013, by [section 413][74] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 35(2): amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 35(2): amended, on 1 April 1980, pursuant to [section 18(2)][73] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 35(3): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 35(3): amended, on 1 July 2013, by [section 413][74] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 35(5): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 35(5): amended, on 1 July 2013, by [section 413][74] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 35(5): amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 35(5): amended, on 1 April 1980, pursuant to [section 18(2)][73] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 35(6): repealed, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 35(6): repealed, on 1 July 2013, by [section 413][74] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 35(8): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 35(8): amended, on 1 July 2013, by [section 413][74] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 35(8): amended, on 1 April 1980, pursuant to [section 12][73] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 35(8): amended, on 1 April 1980, pursuant to [section 12][75] of the Judicature Amendment Act 1979 (1979 No 124).
 
 #### Miscellaneous provisions
 
@@ -937,21 +949,19 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
 *   \[Repealed\]
     
-    Section 39: repealed, on 1 April 1993, by [section 62(1)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 39: repealed, on 1 April 1993, by [section 62(1)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
 
 ##### 40 Savings
     
 *   \[Repealed\]
     
-    Section 40: repealed, on 1 April 1993, by [section 62(1)][65] of the Health and Safety in Employment Act 1992 (1992 No 96).
+    Section 40: repealed, on 1 April 1993, by [section 62(1)][66] of the Health and Safety in Employment Act 1992 (1992 No 96).
 
 ##### 41 Act to be administered by Department of Labour
     
-*   (1) This Act shall be administered by the Department of Labour established under the Labour Department Act 1908\.
+*   \[Repealed\]
     
-    (2) \[Repealed\]
-    
-    Section 41(2): repealed, on 1 November 1954, by section 17(1) of the Labour Department Act 1954 (1954 No 71).
+    Section 41: repealed, on 16 December 2013, by [section 22][67] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 42 Act to bind the Crown
     
@@ -959,80 +969,39 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
     Section 42: inserted, on 24 November 1961, by section 4 of the Machinery Amendment Act 1961 (1961 No 69). 
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Machinery Act 1950\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][74] ![](/images/external_link.gif).
+*   This is a reprint of the Machinery Act 1950 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][75] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][76] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][77] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][76] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][78] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][79] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][77] and [17E][78] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   WorkSafe New Zealand Act 2013 (2013 No 94): [section 22][67]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][74]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][68]
     
+    Local Government Act 2002 (2002 No 84): [section 262][71]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][72]
-    
-    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][66]
-    
-    Local Government Act 2002 (2002 No 84): [section 262][69]
-    
-    Health and Safety in Employment Act 1992 (1992 No 96): [section 62(1), (2)][65]
+    Health and Safety in Employment Act 1992 (1992 No 96): [section 62(1), (2)][66]
     
     Machinery Amendment Act 1989 (1989 No 88)
     
-    Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][67]
+    Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][69]
     
     Machinery Amendment Act 1986 (1986 No 15)
     
@@ -1040,9 +1009,9 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
     Machinery Amendment Act 1979 (1979 No 145)
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][71]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][73]
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][73]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][75]
     
     Machinery Amendment Act 1978 (1978 No 105)
     
@@ -1064,7 +1033,7 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1950/0052/latest/whole.html#DLM260933
 [2]: http://www.legislation.govt.nz/act/public/1950/0052/latest/whole.html#DLM260935
 [3]: http://www.legislation.govt.nz/act/public/1950/0052/latest/whole.html#DLM260936
@@ -1129,17 +1098,18 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
 [62]: http://www.legislation.govt.nz/act/public/1950/0052/latest/whole.html#DLM261461
 [63]: http://www.legislation.govt.nz/act/public/1950/0052/latest/whole.html#DLM261464
 [64]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM433619
-[65]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM279941
-[66]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM2015063
-[67]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM101353
-[68]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM170872
-[69]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM174088
-[70]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM3359902
-[71]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM35085
-[72]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM3360714
-[73]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM35049
-[74]: http://www.pco.parliament.govt.nz/reprints/
-[75]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM195439
-[76]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[77]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM195468
-[78]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM195470
+[65]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM5302049
+[66]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM279941
+[67]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM5302071
+[68]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM2015063
+[69]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM101353
+[70]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM170872
+[71]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM174088
+[72]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM3359902
+[73]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM35085
+[74]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM3360714
+[75]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM35049
+[76]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM2998516
+[77]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM2998515
+[78]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM2998532
+[79]: http://www.pco.parliament.govt.nz/editorial-conventions/
